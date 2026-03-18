@@ -63,9 +63,6 @@ importers:
       eslint-config-prettier:
         specifier: ^10.1.8
         version: 10.1.8(eslint@9.39.4)
-      eslint-plugin-prettier:
-        specifier: ^5.5.5
-        version: 5.5.5(eslint-config-prettier@10.1.8(eslint@9.39.4))(eslint@9.39.4)(prettier@3.8.1)
       eslint-plugin-react-hooks:
         specifier: ^7.0.1
         version: 7.0.1(eslint@9.39.4)
@@ -75,12 +72,6 @@ importers:
       globals:
         specifier: ^17.4.0
         version: 17.4.0
-      husky:
-        specifier: ^9.1.7
-        version: 9.1.7
-      lint-staged:
-        specifier: ^16.4.0
-        version: 16.4.0
       prettier:
         specifier: ^3.8.1
         version: 3.8.1
@@ -401,10 +392,6 @@ packages:
   '@oxc-project/types@0.115.0':
     resolution: {integrity: sha1-kqWZVDUpvORfjy2nf0ChJNYzSdw=}
 
-  '@pkgr/core@0.2.9':
-    resolution: {integrity: sha1-0imnt/nawWehVpku8jx/AjZT9Ts=}
-    engines: {node: ^12.20.0 || ^14.18.0 || >=16.0.0}
-
   '@popperjs/core@2.11.8':
     resolution: {integrity: sha1-a3kDLnYKCJnNQgRxC+7elyo6GF8=}
 
@@ -684,21 +671,9 @@ packages:
   ajv@6.14.0:
     resolution: {integrity: sha1-/QZ3E+IoIQY267CMYL03Zdbb5zo=}
 
-  ansi-escapes@7.3.0:
-    resolution: {integrity: sha1-U5W7dLIVCkodbjwlZfSuynjShic=}
-    engines: {node: '>=18'}
-
-  ansi-regex@6.2.2:
-    resolution: {integrity: sha1-YCFu6kZNhkWXzigyAAc4oFiWUME=}
-    engines: {node: '>=12'}
-
   ansi-styles@4.3.0:
     resolution: {integrity: sha1-7dgDYornHATIWuegkG7a00tkiTc=}
     engines: {node: '>=8'}
-
-  ansi-styles@6.2.3:
-    resolution: {integrity: sha1-wETV3MUhoHZBNHJZehrLHxA8QEE=}
-    engines: {node: '>=12'}
 
   argparse@2.0.1:
     resolution: {integrity: sha1-JG9Q88p4oyQPbJl+ipvR6sSeSzg=}
@@ -742,14 +717,6 @@ packages:
     resolution: {integrity: sha1-qsTit3NKdAhnrrFr8CqtVWoeegE=}
     engines: {node: '>=10'}
 
-  cli-cursor@5.0.0:
-    resolution: {integrity: sha1-JKSDHs9aawHd6zL7caSyCIsNzjg=}
-    engines: {node: '>=18'}
-
-  cli-truncate@5.2.0:
-    resolution: {integrity: sha1-yOcqrKgznHc9Eow24KF8YxW2lOs=}
-    engines: {node: '>=20'}
-
   clsx@2.1.1:
     resolution: {integrity: sha1-7tOXyf2L2IK/sY3qtxAgSaLzKZk=}
     engines: {node: '>=6'}
@@ -760,13 +727,6 @@ packages:
 
   color-name@1.1.4:
     resolution: {integrity: sha1-wqCah6y95pVD3m9j+jmVyCbFNqI=}
-
-  colorette@2.0.20:
-    resolution: {integrity: sha1-nreT5oMwZ/cjWQL807CZF6AAqVo=}
-
-  commander@14.0.3:
-    resolution: {integrity: sha1-Ql15tI+a+C/Nnk/B6or2xewHu8I=}
-    engines: {node: '>=20'}
 
   concat-map@0.0.1:
     resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
@@ -817,13 +777,6 @@ packages:
   electron-to-chromium@1.5.321:
     resolution: {integrity: sha1-V6gFVOLn/WXjaJ0yD1KmRyNHLV0=}
 
-  emoji-regex@10.6.0:
-    resolution: {integrity: sha1-vz1uj3+P0ipl2XA0dbwBRzV6aw0=}
-
-  environment@1.1.0:
-    resolution: {integrity: sha1-jobGaxgPNjx6sxF4fgJZZl9FqfE=}
-    engines: {node: '>=18'}
-
   error-ex@1.3.4:
     resolution: {integrity: sha1-s6jYu2+S7swWKePifTyGB6ijJBQ=}
 
@@ -840,20 +793,6 @@ packages:
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
-
-  eslint-plugin-prettier@5.5.5:
-    resolution: {integrity: sha1-nq4RWT+qEIhZwm+anDZ9YZoHacA=}
-    engines: {node: ^14.18.0 || >=16.0.0}
-    peerDependencies:
-      '@types/eslint': '>=8.0.0'
-      eslint: '>=8.0.0'
-      eslint-config-prettier: '>= 7.0.0 <10.0.0 || >=10.1.0'
-      prettier: '>=3.0.0'
-    peerDependenciesMeta:
-      '@types/eslint':
-        optional: true
-      eslint-config-prettier:
-        optional: true
 
   eslint-plugin-react-hooks@7.0.1:
     resolution: {integrity: sha1-ZuJY21js5Qcj7yDMFZ+KqQghkWk=}
@@ -912,14 +851,8 @@ packages:
     resolution: {integrity: sha1-dNLrTeC42hKTcRkQ1Qd1ubcQ72Q=}
     engines: {node: '>=0.10.0'}
 
-  eventemitter3@5.0.4:
-    resolution: {integrity: sha1-qG1mFwQzcS3egUcHrFK1JxzrH+s=}
-
   fast-deep-equal@3.1.3:
     resolution: {integrity: sha1-On1WtVnWy8PrUSMlJE5hmmXGxSU=}
-
-  fast-diff@1.3.0:
-    resolution: {integrity: sha1-7OQH+lUKZNY4U2zXJ+EpxhYW4PA=}
 
   fast-json-stable-stringify@2.1.0:
     resolution: {integrity: sha1-h0v2nG9ATCtdmcSBNBOZ/VWJJjM=}
@@ -980,10 +913,6 @@ packages:
     resolution: {integrity: sha1-MqbudsPX9S1GsrGuXZP+qFgKJeA=}
     engines: {node: '>=6.9.0'}
 
-  get-east-asian-width@1.5.0:
-    resolution: {integrity: sha1-znAI/jRe3PVJem9VfPpUvDGKnOc=}
-    engines: {node: '>=18'}
-
   glob-parent@6.0.2:
     resolution: {integrity: sha1-bSN9mQg5UMeSkPJMdkKj3poo+eM=}
     engines: {node: '>=10.13.0'}
@@ -1018,11 +947,6 @@ packages:
   hoist-non-react-statics@3.3.2:
     resolution: {integrity: sha1-7OCsr3HWLClpwuxZ/v9CpLGoW0U=}
 
-  husky@9.1.7:
-    resolution: {integrity: sha1-1Go4A10QG0anBFaoUP9CATRMCy0=}
-    engines: {node: '>=18'}
-    hasBin: true
-
   ignore@5.3.2:
     resolution: {integrity: sha1-PNQOcp82Q/2HywTlC/DrcivFlvU=}
     engines: {node: '>= 4'}
@@ -1049,10 +973,6 @@ packages:
   is-extglob@2.1.1:
     resolution: {integrity: sha1-qIwCU1eR8C7TfHahueqXc8gz+MI=}
     engines: {node: '>=0.10.0'}
-
-  is-fullwidth-code-point@5.1.0:
-    resolution: {integrity: sha1-BGsqbU9rFWsiM9MgfUtal4OZm5g=}
-    engines: {node: '>=18'}
 
   is-glob@4.0.3:
     resolution: {integrity: sha1-ZPYeQsu7LuwgcanawLKLoeZdUIQ=}
@@ -1178,15 +1098,6 @@ packages:
   lines-and-columns@1.2.4:
     resolution: {integrity: sha1-7KKE910pZQeTCdwK2SVauy68FjI=}
 
-  lint-staged@16.4.0:
-    resolution: {integrity: sha1-oAsOOr/1kjnO9tfZNB6PhHMwjiM=}
-    engines: {node: '>=20.17'}
-    hasBin: true
-
-  listr2@9.0.5:
-    resolution: {integrity: sha1-kt98RBam2mMOue9G2kabcN6XsxY=}
-    engines: {node: '>=20.0.0'}
-
   locate-path@6.0.0:
     resolution: {integrity: sha1-VTIeswn+u8WcSAHZMackUqaB0oY=}
     engines: {node: '>=10'}
@@ -1194,20 +1105,12 @@ packages:
   lodash.merge@4.6.2:
     resolution: {integrity: sha1-VYqlO0O2YeGSWgr9+japoQhf5Xo=}
 
-  log-update@6.1.0:
-    resolution: {integrity: sha1-GgT/OBZvlGR64a9WL0vWoVsbfNQ=}
-    engines: {node: '>=18'}
-
   loose-envify@1.4.0:
     resolution: {integrity: sha1-ce5R+nvkyuwaY4OffmgtgTLTDK8=}
     hasBin: true
 
   lru-cache@5.1.1:
     resolution: {integrity: sha1-HaJ+ZxAnGUdpXa9oSOhH8B2EuSA=}
-
-  mimic-function@5.0.1:
-    resolution: {integrity: sha1-rL4rM0n5m53qyn+3Dki4PpTmcHY=}
-    engines: {node: '>=18'}
 
   minimatch@10.2.4:
     resolution: {integrity: sha1-Rls6zL0CGLgoH1MB4nztxpf5b94=}
@@ -1239,10 +1142,6 @@ packages:
   object-assign@4.1.1:
     resolution: {integrity: sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=}
     engines: {node: '>=0.10.0'}
-
-  onetime@7.0.0:
-    resolution: {integrity: sha1-nxbJLYye9RIOOs2d2ZV8zuzBq2A=}
-    engines: {node: '>=18'}
 
   optionator@0.9.4:
     resolution: {integrity: sha1-fqHBpdkddk+yghOciP4R4YKjpzQ=}
@@ -1294,10 +1193,6 @@ packages:
     resolution: {integrity: sha1-3rxkidem5rDnYRiIzsiAM30xY5Y=}
     engines: {node: '>= 0.8.0'}
 
-  prettier-linter-helpers@1.0.1:
-    resolution: {integrity: sha1-ajH4ikutbHrdolPeErpO2uqA680=}
-    engines: {node: '>=6.0.0'}
-
   prettier@3.8.1:
     resolution: {integrity: sha1-7fSJd8+ZFVj0/L2KO6YBW6KjoXM=}
     engines: {node: '>=14'}
@@ -1340,13 +1235,6 @@ packages:
     engines: {node: '>= 0.4'}
     hasBin: true
 
-  restore-cursor@5.1.0:
-    resolution: {integrity: sha1-B2bZVpnvrLFBUJk/VbrwlT6h6+c=}
-    engines: {node: '>=18'}
-
-  rfdc@1.4.1:
-    resolution: {integrity: sha1-d492xPtzHZNBTo+SX77PZMzn9so=}
-
   rolldown@1.0.0-rc.9:
     resolution: {integrity: sha1-Wg0+GU8rzHoTSHCxdAQvyu1GNok=}
     engines: {node: ^20.19.0 || >=22.12.0}
@@ -1382,18 +1270,6 @@ packages:
     resolution: {integrity: sha1-rhbxZE2HPsrYQ7AwexQzYtTEIXI=}
     engines: {node: '>=8'}
 
-  signal-exit@4.1.0:
-    resolution: {integrity: sha1-lSGIwcvVRgcOLdIND0HArgUwywQ=}
-    engines: {node: '>=14'}
-
-  slice-ansi@7.1.2:
-    resolution: {integrity: sha1-rfe+cKptchYtkHzQ5tXBH1B7VAM=}
-    engines: {node: '>=18'}
-
-  slice-ansi@8.0.0:
-    resolution: {integrity: sha1-ItC2bRi8XFf0iL/PNsveO+9zFTc=}
-    engines: {node: '>=20'}
-
   source-map-js@1.2.1:
     resolution: {integrity: sha1-HOVlD93YerwJnto33P8CTCZnrkY=}
     engines: {node: '>=0.10.0'}
@@ -1401,22 +1277,6 @@ packages:
   source-map@0.5.7:
     resolution: {integrity: sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w=}
     engines: {node: '>=0.10.0'}
-
-  string-argv@0.3.2:
-    resolution: {integrity: sha1-K20O8ktlYnTZV9VOCku/YVPcArY=}
-    engines: {node: '>=0.6.19'}
-
-  string-width@7.2.0:
-    resolution: {integrity: sha1-tbuOIWXOJ11NQ0dt0nAK2Qkdttw=}
-    engines: {node: '>=18'}
-
-  string-width@8.2.0:
-    resolution: {integrity: sha1-vbapvW14ANtjWtrpbNsEQ/7FbEI=}
-    engines: {node: '>=20'}
-
-  strip-ansi@7.2.0:
-    resolution: {integrity: sha1-0iomlSKDamJ6+NBLXD/Sx/o+MuM=}
-    engines: {node: '>=12'}
 
   strip-json-comments@3.1.1:
     resolution: {integrity: sha1-MfEoGzgyYwQ0gxwxDAHMzajL4AY=}
@@ -1438,19 +1298,11 @@ packages:
     resolution: {integrity: sha1-btpL00SjyUrqN21MwxvHcxEDngk=}
     engines: {node: '>= 0.4'}
 
-  synckit@0.11.12:
-    resolution: {integrity: sha1-q+dBJCZPvACkgBGw2YvcHP+2Sns=}
-    engines: {node: ^14.18.0 || >=16.0.0}
-
   tiny-invariant@1.3.3:
     resolution: {integrity: sha1-RmgLeoc6DV0QAFmV65CnDXTWASc=}
 
   tiny-warning@1.0.3:
     resolution: {integrity: sha1-lKMNtFPfTGQ9D9VmBg1gqHXYR1Q=}
-
-  tinyexec@1.0.4:
-    resolution: {integrity: sha1-bGCGT+HQEzGy8XxokPU11+U4VAg=}
-    engines: {node: '>=18'}
 
   tinyglobby@0.2.15:
     resolution: {integrity: sha1-4ijdHmOM6pk9L9tPzS1GAqeZUcI=}
@@ -1549,10 +1401,6 @@ packages:
   word-wrap@1.2.5:
     resolution: {integrity: sha1-0sRcbdT7zmIaZvE2y+Mor9BBCzQ=}
     engines: {node: '>=0.10.0'}
-
-  wrap-ansi@9.0.2:
-    resolution: {integrity: sha1-lWgy3qlJQwbm0gnrhxZDu4c9fJg=}
-    engines: {node: '>=18'}
 
   yallist@3.1.1:
     resolution: {integrity: sha1-27fa+b/YusmrRev2ArjLrQ1dCP0=}
@@ -1956,8 +1804,6 @@ snapshots:
 
   '@oxc-project/types@0.115.0': {}
 
-  '@pkgr/core@0.2.9': {}
-
   '@popperjs/core@2.11.8': {}
 
   '@rolldown/binding-android-arm64@1.0.0-rc.9':
@@ -2214,17 +2060,9 @@ snapshots:
       json-schema-traverse: 0.4.1
       uri-js: 4.4.1
 
-  ansi-escapes@7.3.0:
-    dependencies:
-      environment: 1.1.0
-
-  ansi-regex@6.2.2: {}
-
   ansi-styles@4.3.0:
     dependencies:
       color-convert: 2.0.1
-
-  ansi-styles@6.2.3: {}
 
   argparse@2.0.1: {}
 
@@ -2266,15 +2104,6 @@ snapshots:
       ansi-styles: 4.3.0
       supports-color: 7.2.0
 
-  cli-cursor@5.0.0:
-    dependencies:
-      restore-cursor: 5.1.0
-
-  cli-truncate@5.2.0:
-    dependencies:
-      slice-ansi: 8.0.0
-      string-width: 8.2.0
-
   clsx@2.1.1: {}
 
   color-convert@2.0.1:
@@ -2282,10 +2111,6 @@ snapshots:
       color-name: 1.1.4
 
   color-name@1.1.4: {}
-
-  colorette@2.0.20: {}
-
-  commander@14.0.3: {}
 
   concat-map@0.0.1: {}
 
@@ -2328,10 +2153,6 @@ snapshots:
 
   electron-to-chromium@1.5.321: {}
 
-  emoji-regex@10.6.0: {}
-
-  environment@1.1.0: {}
-
   error-ex@1.3.4:
     dependencies:
       is-arrayish: 0.2.1
@@ -2343,15 +2164,6 @@ snapshots:
   eslint-config-prettier@10.1.8(eslint@9.39.4):
     dependencies:
       eslint: 9.39.4
-
-  eslint-plugin-prettier@5.5.5(eslint-config-prettier@10.1.8(eslint@9.39.4))(eslint@9.39.4)(prettier@3.8.1):
-    dependencies:
-      eslint: 9.39.4
-      prettier: 3.8.1
-      prettier-linter-helpers: 1.0.1
-      synckit: 0.11.12
-    optionalDependencies:
-      eslint-config-prettier: 10.1.8(eslint@9.39.4)
 
   eslint-plugin-react-hooks@7.0.1(eslint@9.39.4):
     dependencies:
@@ -2436,11 +2248,7 @@ snapshots:
 
   esutils@2.0.3: {}
 
-  eventemitter3@5.0.4: {}
-
   fast-deep-equal@3.1.3: {}
-
-  fast-diff@1.3.0: {}
 
   fast-json-stable-stringify@2.1.0: {}
 
@@ -2485,8 +2293,6 @@ snapshots:
 
   gensync@1.0.0-beta.2: {}
 
-  get-east-asian-width@1.5.0: {}
-
   glob-parent@6.0.2:
     dependencies:
       is-glob: 4.0.3
@@ -2515,8 +2321,6 @@ snapshots:
     dependencies:
       react-is: 16.13.1
 
-  husky@9.1.7: {}
-
   ignore@5.3.2: {}
 
   ignore@7.0.5: {}
@@ -2535,10 +2339,6 @@ snapshots:
       hasown: 2.0.2
 
   is-extglob@2.1.1: {}
-
-  is-fullwidth-code-point@5.1.0:
-    dependencies:
-      get-east-asian-width: 1.5.0
 
   is-glob@4.0.3:
     dependencies:
@@ -2626,37 +2426,11 @@ snapshots:
 
   lines-and-columns@1.2.4: {}
 
-  lint-staged@16.4.0:
-    dependencies:
-      commander: 14.0.3
-      listr2: 9.0.5
-      picomatch: 4.0.3
-      string-argv: 0.3.2
-      tinyexec: 1.0.4
-      yaml: 2.8.2
-
-  listr2@9.0.5:
-    dependencies:
-      cli-truncate: 5.2.0
-      colorette: 2.0.20
-      eventemitter3: 5.0.4
-      log-update: 6.1.0
-      rfdc: 1.4.1
-      wrap-ansi: 9.0.2
-
   locate-path@6.0.0:
     dependencies:
       p-locate: 5.0.0
 
   lodash.merge@4.6.2: {}
-
-  log-update@6.1.0:
-    dependencies:
-      ansi-escapes: 7.3.0
-      cli-cursor: 5.0.0
-      slice-ansi: 7.1.2
-      strip-ansi: 7.2.0
-      wrap-ansi: 9.0.2
 
   loose-envify@1.4.0:
     dependencies:
@@ -2665,8 +2439,6 @@ snapshots:
   lru-cache@5.1.1:
     dependencies:
       yallist: 3.1.1
-
-  mimic-function@5.0.1: {}
 
   minimatch@10.2.4:
     dependencies:
@@ -2691,10 +2463,6 @@ snapshots:
   node-releases@2.0.36: {}
 
   object-assign@4.1.1: {}
-
-  onetime@7.0.0:
-    dependencies:
-      mimic-function: 5.0.1
 
   optionator@0.9.4:
     dependencies:
@@ -2744,10 +2512,6 @@ snapshots:
 
   prelude-ls@1.2.1: {}
 
-  prettier-linter-helpers@1.0.1:
-    dependencies:
-      fast-diff: 1.3.0
-
   prettier@3.8.1: {}
 
   prop-types@15.8.1:
@@ -2785,13 +2549,6 @@ snapshots:
       is-core-module: 2.16.1
       path-parse: 1.0.7
       supports-preserve-symlinks-flag: 1.0.0
-
-  restore-cursor@5.1.0:
-    dependencies:
-      onetime: 7.0.0
-      signal-exit: 4.1.0
-
-  rfdc@1.4.1: {}
 
   rolldown@1.0.0-rc.9:
     dependencies:
@@ -2832,38 +2589,9 @@ snapshots:
 
   shebang-regex@3.0.0: {}
 
-  signal-exit@4.1.0: {}
-
-  slice-ansi@7.1.2:
-    dependencies:
-      ansi-styles: 6.2.3
-      is-fullwidth-code-point: 5.1.0
-
-  slice-ansi@8.0.0:
-    dependencies:
-      ansi-styles: 6.2.3
-      is-fullwidth-code-point: 5.1.0
-
   source-map-js@1.2.1: {}
 
   source-map@0.5.7: {}
-
-  string-argv@0.3.2: {}
-
-  string-width@7.2.0:
-    dependencies:
-      emoji-regex: 10.6.0
-      get-east-asian-width: 1.5.0
-      strip-ansi: 7.2.0
-
-  string-width@8.2.0:
-    dependencies:
-      get-east-asian-width: 1.5.0
-      strip-ansi: 7.2.0
-
-  strip-ansi@7.2.0:
-    dependencies:
-      ansi-regex: 6.2.2
 
   strip-json-comments@3.1.1: {}
 
@@ -2880,15 +2608,9 @@ snapshots:
 
   supports-preserve-symlinks-flag@1.0.0: {}
 
-  synckit@0.11.12:
-    dependencies:
-      '@pkgr/core': 0.2.9
-
   tiny-invariant@1.3.3: {}
 
   tiny-warning@1.0.3: {}
-
-  tinyexec@1.0.4: {}
 
   tinyglobby@0.2.15:
     dependencies:
@@ -2953,17 +2675,12 @@ snapshots:
 
   word-wrap@1.2.5: {}
 
-  wrap-ansi@9.0.2:
-    dependencies:
-      ansi-styles: 6.2.3
-      string-width: 7.2.0
-      strip-ansi: 7.2.0
-
   yallist@3.1.1: {}
 
   yaml@1.10.2: {}
 
-  yaml@2.8.2: {}
+  yaml@2.8.2:
+    optional: true
 
   yocto-queue@0.1.0: {}
 

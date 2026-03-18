@@ -30,6 +30,7 @@ export default defineConfig([
       '@typescript-eslint/consistent-type-imports': ['error', { prefer: 'type-imports' }],
       '@typescript-eslint/no-floating-promises': 'error',
       'no-console': ['warn', { allow: ['warn', 'error'] }],
+      'react-refresh/only-export-components': ['warn', { allowConstantExport: true }],
     },
   },
 ])

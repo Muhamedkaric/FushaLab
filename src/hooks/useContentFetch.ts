@@ -1,84 +1,57 @@
 import { useState, useEffect } from 'react'
 import type { ContentItem, Category, Level } from '@/types/content'
 
-interface FetchState<T> {
+export interface LevelManifest {
+  items: Array<{ id: string; arabic: string; metadata: { difficulty: number; tags: string[] } }>
+}
+
+interface FetchResult<T> {
   data: T | null
   loading: boolean
   error: string | null
 }
 
-export function useContentItem(category: Category, level: Level, id: string) {
-  const [state, setState] = useState<FetchState<ContentItem>>({
-    data: null,
-    loading: true,
-    error: null,
-  })
+function useFetch<T>(url: string): FetchResult<T> {
+  const [fetchedUrl, setFetchedUrl] = useState<string>('')
+  const [data, setData] = useState<T | null>(null)
+  const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
     let cancelled = false
-    setState({ data: null, loading: true, error: null })
 
-    fetch(`/data/${category}/${level}/${id}.json`)
+    fetch(url)
       .then(r => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`)
-        return r.json() as Promise<ContentItem>
+        return r.json() as Promise<T>
       })
-      .then(data => {
-        if (!cancelled) setState({ data, loading: false, error: null })
+      .then(result => {
+        if (!cancelled) {
+          setData(result)
+          setError(null)
+          setFetchedUrl(url)
+        }
       })
       .catch((err: unknown) => {
-        if (!cancelled)
-          setState({
-            data: null,
-            loading: false,
-            error: err instanceof Error ? err.message : 'Unknown error',
-          })
+        if (!cancelled) {
+          setData(null)
+          setError(err instanceof Error ? err.message : 'Unknown error')
+          setFetchedUrl(url)
+        }
       })
 
     return () => {
       cancelled = true
     }
-  }, [category, level, id])
+  }, [url])
 
-  return state
+  const loading = fetchedUrl !== url
+  return { data: loading ? null : data, loading, error: loading ? null : error }
 }
 
-export interface LevelManifest {
-  items: Array<{ id: string; arabic: string; metadata: { difficulty: number; tags: string[] } }>
+export function useContentItem(category: Category, level: Level, id: string) {
+  return useFetch<ContentItem>(`/data/${category}/${level}/${id}.json`)
 }
 
 export function useLevelManifest(category: Category, level: Level) {
-  const [state, setState] = useState<FetchState<LevelManifest>>({
-    data: null,
-    loading: true,
-    error: null,
-  })
-
-  useEffect(() => {
-    let cancelled = false
-    setState({ data: null, loading: true, error: null })
-
-    fetch(`/data/${category}/${level}/index.json`)
-      .then(r => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`)
-        return r.json() as Promise<LevelManifest>
-      })
-      .then(data => {
-        if (!cancelled) setState({ data, loading: false, error: null })
-      })
-      .catch((err: unknown) => {
-        if (!cancelled)
-          setState({
-            data: null,
-            loading: false,
-            error: err instanceof Error ? err.message : 'Unknown error',
-          })
-      })
-
-    return () => {
-      cancelled = true
-    }
-  }, [category, level])
-
-  return state
+  return useFetch<LevelManifest>(`/data/${category}/${level}/index.json`)
 }
