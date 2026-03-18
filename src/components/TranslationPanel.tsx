@@ -20,7 +20,7 @@ export function TranslationPanel({ translation }: Props) {
         size="small"
         startIcon={visible ? <VisibilityOffIcon /> : <VisibilityIcon />}
         onClick={() => setVisible(v => !v)}
-        sx={{ mb: 1 }}
+        sx={{ mb: 1, gap: 1 }}
       >
         {visible ? t.reader.hideTranslation : t.reader.showTranslation}
       </Button>
@@ -42,7 +42,6 @@ export function TranslationPanel({ translation }: Props) {
                 bgcolor: 'action.hover',
                 border: '1px solid',
                 borderColor: 'divider',
-                direction: 'ltr',
                 textAlign: 'left',
               }}
             >

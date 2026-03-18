@@ -14,8 +14,7 @@ interface Props {
   item: ContentItem
 }
 
-const difficultyColor = (d: number) =>
-  d === 1 ? 'success' : d === 2 ? 'warning' : 'error'
+const difficultyColor = (d: number) => (d === 1 ? 'success' : d === 2 ? 'warning' : 'error')
 
 export function TextCard({ item }: Props) {
   const { t } = useI18n()
@@ -92,6 +91,7 @@ export function TextCard({ item }: Props) {
                 fontSize: { xs: '1.5rem', sm: '1.9rem', md: '2.2rem' },
                 lineHeight: 2,
                 letterSpacing: '0.02em',
+                direction: 'ltr',
                 color: 'text.primary',
               }}
             >
@@ -105,11 +105,7 @@ export function TextCard({ item }: Props) {
           <Divider sx={{ my: 2 }} />
 
           {/* Rating */}
-          <DifficultyRating
-            itemId={item.id}
-            current={rating}
-            onRate={rate}
-          />
+          <DifficultyRating itemId={item.id} current={rating} onRate={rate} />
 
           {rating === 'easy' && (
             <Typography

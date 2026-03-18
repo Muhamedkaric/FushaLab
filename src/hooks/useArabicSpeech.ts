@@ -40,9 +40,7 @@ export function useArabicSpeech() {
       const voices = window.speechSynthesis.getVoices()
       // Prefer a native Arabic voice; fall back to any ar-* voice
       const voice =
-        voices.find(v => v.lang === 'ar-SA') ??
-        voices.find(v => v.lang.startsWith('ar')) ??
-        null
+        voices.find(v => v.lang === 'ar-SA') ?? voices.find(v => v.lang.startsWith('ar')) ?? null
 
       const utterance = new SpeechSynthesisUtterance(text)
       utterance.lang = 'ar-SA'

@@ -12,7 +12,7 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "typecheck": "tsc --noEmit",
-    "pre-commit": "lint-staged && pnpm build",
+    "precommit": "lint-staged && pnpm build",
     "prepare": "husky"
   },
   "lint-staged": {

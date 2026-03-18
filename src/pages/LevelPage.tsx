@@ -93,7 +93,11 @@ export function LevelPage({ category, level }: Props) {
       )}
 
       {data && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.3 }}>
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 0.3 }}
+        >
           <Stack direction="row" alignItems="center" gap={1} mb={2}>
             <Typography variant="body2" color="text.secondary">
               {data.items.length} {t.progress.total}
@@ -141,7 +145,7 @@ export function LevelPage({ category, level }: Props) {
                             sx={{
                               fontFamily: '"Amiri", serif',
                               fontSize: '1.15rem',
-                              direction: 'rtl',
+                              direction: 'ltr',
                               textAlign: 'right',
                               lineHeight: 1.8,
                             }}

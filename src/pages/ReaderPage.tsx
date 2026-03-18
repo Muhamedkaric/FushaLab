@@ -37,12 +37,7 @@ export function ReaderPage({ category, level, id }: Props) {
     <Box>
       {/* Navigation bar */}
       <Stack direction="row" alignItems="center" justifyContent="space-between" mb={3}>
-        <Button
-          startIcon={<ArrowBackIosIcon />}
-          variant="text"
-          size="small"
-          onClick={goToList}
-        >
+        <Button startIcon={<ArrowBackIosIcon />} variant="text" size="small" onClick={goToList}>
           {t.reader.backToList}
         </Button>
 
@@ -50,7 +45,11 @@ export function ReaderPage({ category, level, id }: Props) {
           <Stack direction="row" gap={1}>
             <Tooltip title={t.reader.prev}>
               <span>
-                <IconButton size="small" disabled={!prevItem} onClick={() => prevItem && goTo(prevItem.id)}>
+                <IconButton
+                  size="small"
+                  disabled={!prevItem}
+                  onClick={() => prevItem && goTo(prevItem.id)}
+                >
                   <ArrowBackIcon fontSize="small" />
                 </IconButton>
               </span>
@@ -74,7 +73,11 @@ export function ReaderPage({ category, level, id }: Props) {
 
             <Tooltip title={t.reader.next}>
               <span>
-                <IconButton size="small" disabled={!nextItem} onClick={() => nextItem && goTo(nextItem.id)}>
+                <IconButton
+                  size="small"
+                  disabled={!nextItem}
+                  onClick={() => nextItem && goTo(nextItem.id)}
+                >
                   <ArrowForwardIcon fontSize="small" />
                 </IconButton>
               </span>
