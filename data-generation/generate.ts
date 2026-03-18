@@ -1,44 +1,51 @@
 /**
- * Generate Arabic content using the Anthropic (Claude) API.
+ * Generate Arabic content using the Google Gemini API (free tier).
  *
  * Usage:
  *   pnpm generate --category travel --level B1 --count 10
- *   pnpm generate --category culture --level C2 --count 5 --model claude-opus-4-6
+ *   pnpm generate --category culture --level C2 --count 5 --model gemini-1.5-pro
  *
  * Available models:
- *   claude-opus-4-6     → best Arabic quality, slower, more expensive
- *   claude-sonnet-4-6   → good quality, faster, cheaper  (default)
- *   claude-haiku-4-5-20251001 → fastest, cheapest, acceptable for B1/B2
+ *   gemini-2.0-flash   → fastest, free, good quality  (default)
+ *   gemini-1.5-pro     → best quality, still free tier
+ *   gemini-1.5-flash   → fast, free, slightly lower quality
  */
 
-import Anthropic from '@anthropic-ai/sdk'
+import { GoogleGenerativeAI } from '@google/generative-ai'
 import { buildPrompt, parseArgs, parseResponse, writeItems } from './shared.ts'
 
 // ── Load env ──────────────────────────────────────────────────────────────────
 
-const apiKey = process.env['ANTHROPIC_API_KEY']
+const apiKey = process.env['GEMINI_API_KEY']
 if (!apiKey) {
-  console.error('Error: ANTHROPIC_API_KEY is not set.')
-  console.error('Create a .env file from .env.example and add your key.')
+  console.error('\nError: GEMINI_API_KEY is not set.')
+  console.error('Add it to your data-generation/.env file:')
+  console.error('  GEMINI_API_KEY=AIza...\n')
   process.exit(1)
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 
-const { category, level, count, model } = parseArgs({ model: 'claude-sonnet-4-6' })
+const { category, level, count, model } = parseArgs({ model: 'gemini-2.0-flash' })
 
-console.log(`\n🕌 FushaLab Content Generator — Claude`)
+console.log(`\n🕌 FushaLab Content Generator — Gemini`)
 console.log(`   Category : ${category}`)
 console.log(`   Level    : ${level}`)
 console.log(`   Count    : ${count}`)
 console.log(`   Model    : ${model}\n`)
 
-const client = new Anthropic({ apiKey })
+const genAI = new GoogleGenerativeAI(apiKey)
+const gemini = genAI.getGenerativeModel({
+  model,
+  generationConfig: {
+    temperature: 0.7,
+    responseMimeType: 'application/json',
+  },
+})
 
-// Split into batches of 10 to keep responses focused and avoid token limits
 const BATCH = 10
 let remaining = count
-let allGenerated = []
+const allGenerated = []
 
 while (remaining > 0) {
   const batchSize = Math.min(remaining, BATCH)
@@ -47,27 +54,14 @@ while (remaining > 0) {
 
   console.log(`⏳ Batch ${batchNum}/${totalBatches} — requesting ${batchSize} items...`)
 
-  const response = await client.messages.create({
-    model,
-    max_tokens: 4096,
-    messages: [
-      {
-        role: 'user',
-        content: buildPrompt(category, level, batchSize),
-      },
-    ],
-  })
-
-  const raw = response.content
-    .filter(b => b.type === 'text')
-    .map(b => b.text)
-    .join('')
+  const result = await gemini.generateContent(buildPrompt(category, level, batchSize))
+  const raw = result.response.text()
 
   let items
   try {
     items = parseResponse(raw)
   } catch (err) {
-    console.error('Failed to parse response:', err)
+    console.error('\nFailed to parse response:', err)
     console.error('Raw response:\n', raw)
     process.exit(1)
   }
@@ -75,8 +69,8 @@ while (remaining > 0) {
   allGenerated.push(...items)
   remaining -= batchSize
 
-  // Small pause between batches to be polite to the API
-  if (remaining > 0) await new Promise(r => setTimeout(r, 800))
+  // Respect free tier rate limits (15 req/min)
+  if (remaining > 0) await new Promise(r => setTimeout(r, 1500))
 }
 
 console.log(`\n💾 Writing ${allGenerated.length} items to public/data/${category}/${level}/\n`)
