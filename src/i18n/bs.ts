@@ -1,0 +1,68 @@
+import type { Translations } from './en'
+
+export const bs: Translations = {
+  appName: 'FushaLab',
+  tagline: 'Savladaj moderni standardni arapski',
+  nav: {
+    home: 'Početna',
+    learn: 'Učenje',
+    progress: 'Napredak',
+  },
+  home: {
+    hero: 'Uči moderni standardni arapski',
+    heroSub: 'Interaktivna vježba čitanja za nivoe B1–C2',
+    startLearning: 'Počni učiti',
+    chooseCategory: 'Odaberi kategoriju',
+    levels: 'Nivoi',
+  },
+  categories: {
+    travel: 'Putovanje',
+    culture: 'Kultura',
+    news: 'Vijesti',
+    literature: 'Književnost',
+    religion: 'Religija',
+  },
+  levels: {
+    B1: 'B1 – Srednji nivo',
+    B2: 'B2 – Viši srednji nivo',
+    C1: 'C1 – Napredni nivo',
+    C2: 'C2 – Savladavanje',
+  },
+  reader: {
+    showHarakat: 'Prikaži hareke',
+    hideHarakat: 'Sakrij hareke',
+    showTranslation: 'Prikaži prijevod',
+    hideTranslation: 'Sakrij prijevod',
+    playAudio: 'Pusti audio',
+    stopAudio: 'Zaustavi audio',
+    noVoice: 'Nema arapskog glasa',
+    next: 'Sljedeći',
+    prev: 'Prethodni',
+    backToList: 'Nazad na listu',
+    completed: 'Završeno',
+  },
+  difficulty: {
+    label: 'Kako ti je bio ovaj tekst?',
+    easy: 'Lako',
+    medium: 'Srednje',
+    hard: 'Teško',
+    saved: 'Ocjena sačuvana!',
+  },
+  progress: {
+    title: 'Tvoj napredak',
+    completed: 'Završeno',
+    total: 'Ukupno tekstova',
+    easy: 'Lako',
+    medium: 'Srednje',
+    hard: 'Teško',
+    resetAll: 'Resetuj napredak',
+    resetConfirm: 'Jesi li siguran? Ovo će izbrisati sve tvoje ocjene.',
+  },
+  common: {
+    loading: 'Učitavanje…',
+    error: 'Nije moguće učitati sadržaj.',
+    retry: 'Pokušaj ponovo',
+    darkMode: 'Tamni način',
+    lightMode: 'Svijetli način',
+  },
+}
