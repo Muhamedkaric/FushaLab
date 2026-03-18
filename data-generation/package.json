@@ -1,0 +1,19 @@
+{
+  "name": "fushalab-data-generation",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "tsx generate-claude.ts",
+    "generate:openai": "tsx generate-openai.ts",
+    "validate": "tsx validate.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "openai": "^4.77.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
