@@ -1,7 +1,7 @@
 import { createTheme, type ThemeOptions } from '@mui/material/styles'
 
 const baseOptions: ThemeOptions = {
-  direction: 'rtl',
+  direction: 'ltr',
   typography: {
     fontFamily: '"Inter", "Amiri", sans-serif',
     h1: { fontFamily: '"Amiri", serif', fontWeight: 700 },
