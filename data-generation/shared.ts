@@ -45,11 +45,13 @@ export const LEVEL_DESCRIPTIONS: Record<Level, string> = {
 }
 
 export const CATEGORY_TOPICS: Record<Category, string> = {
-  travel: 'travel, tourism, transportation, accommodation, airports, cities, sightseeing, maps, booking',
+  travel:
+    'travel, tourism, transportation, accommodation, airports, cities, sightseeing, maps, booking',
   culture:
     'Arab culture, traditions, food, music, art, history, customs, festivals, family life, hospitality',
   news: 'current events, politics, economy, technology, environment, international relations, society',
-  literature: 'poetry, storytelling, classical Arabic literature, prose, metaphor, imagery, Quran-inspired language',
+  literature:
+    'poetry, storytelling, classical Arabic literature, prose, metaphor, imagery, Quran-inspired language',
   religion:
     'Islamic practice, prayer, Quran, hadith, theology, ethics, spirituality, religious history',
 }
@@ -228,4 +230,3 @@ export function parseArgs(defaults: { model: string }): Args {
 
   return { category, level, count, model }
 }
-

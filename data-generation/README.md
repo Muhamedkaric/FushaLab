@@ -7,6 +7,7 @@ Scripts for generating Arabic learning content using Google Gemini (free).
 ## What this does
 
 You run a command like:
+
 ```bash
 pnpm generate --category travel --level C1 --count 10
 ```
@@ -43,11 +44,7 @@ pnpm install
 
 ## Step 3 — Create your .env file
 
-```bash
-cp .env.example .env
-```
-
-Open `.env` and paste your key:
+Create a file called `.env` inside the `data-generation/` folder:
 
 ```env
 GEMINI_API_KEY=AIza-your-key-here
@@ -69,20 +66,20 @@ That's it. Files appear in `public/data/travel/C1/` automatically.
 
 ## Options
 
-| Flag | Required | Values | Default |
-|------|----------|--------|---------|
-| `--category` | ✅ | `travel` `culture` `news` `literature` `religion` | — |
-| `--level` | ✅ | `B1` `B2` `C1` `C2` | — |
-| `--count` | No | 1–50 | `10` |
-| `--model` | No | see below | `gemini-2.0-flash` |
+| Flag         | Required | Values                                            | Default            |
+| ------------ | -------- | ------------------------------------------------- | ------------------ |
+| `--category` | ✅       | `travel` `culture` `news` `literature` `religion` | —                  |
+| `--level`    | ✅       | `B1` `B2` `C1` `C2`                               | —                  |
+| `--count`    | No       | 1–50                                              | `10`               |
+| `--model`    | No       | see below                                         | `gemini-2.0-flash` |
 
 ### Models
 
-| Model | Quality | Speed |
-|-------|---------|-------|
-| `gemini-2.0-flash` | ⭐⭐ Good | Very fast · **default** |
-| `gemini-1.5-pro` | ⭐⭐⭐ Best | Slower |
-| `gemini-1.5-flash` | ⭐⭐ Good | Fast |
+| Model              | Quality     | Speed                   |
+| ------------------ | ----------- | ----------------------- |
+| `gemini-2.0-flash` | ⭐⭐ Good   | Very fast · **default** |
+| `gemini-1.5-pro`   | ⭐⭐⭐ Best | Slower                  |
+| `gemini-1.5-flash` | ⭐⭐ Good   | Fast                    |
 
 Use `gemini-1.5-pro` for C1/C2 levels where text complexity matters most.
 
@@ -128,6 +125,7 @@ pnpm validate --category travel --level B1
 ## Workflow tip
 
 After generating, always:
+
 1. Run `pnpm validate` to check harakat coverage
 2. Open the app (`pnpm dev` in project root) and read a few texts
 3. If quality looks good: `git add public/data && git commit -m "content: add 10 travel C1 texts"`

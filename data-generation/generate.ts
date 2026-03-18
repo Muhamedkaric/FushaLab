@@ -1,3 +1,5 @@
+import 'dotenv/config'
+
 /**
  * Generate Arabic content using the Google Gemini API (free tier).
  *

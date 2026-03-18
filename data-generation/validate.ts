@@ -1,3 +1,5 @@
+import 'dotenv/config'
+
 /**
  * Validates all JSON files in public/data/ and reports issues.
  *
@@ -62,12 +64,21 @@ for (const category of categories) {
         const warnings: string[] = []
 
         // Required fields
-        for (const field of ['id', 'category', 'level', 'arabic', 'translation', 'translationEn', 'metadata']) {
+        for (const field of [
+          'id',
+          'category',
+          'level',
+          'arabic',
+          'translation',
+          'translationEn',
+          'metadata',
+        ]) {
           if (!(field in item)) errors.push(`missing field: "${field}"`)
         }
 
         // ID matches filename
-        if (item['id'] !== expectedId) errors.push(`id "${String(item['id'])}" doesn't match filename "${expectedId}"`)
+        if (item['id'] !== expectedId)
+          errors.push(`id "${String(item['id'])}" doesn't match filename "${expectedId}"`)
 
         // Arabic has harakat
         if (typeof item['arabic'] === 'string') {
@@ -78,7 +89,8 @@ for (const category of categories) {
             const chars = item['arabic'].replace(/\s/g, '').length
             const harakatCount = (item['arabic'].match(/[\u064B-\u065F\u0670]/g) ?? []).length
             const arabicLetters = (item['arabic'].match(/[\u0600-\u06FF]/g) ?? []).length
-            const coverage = arabicLetters > 0 ? Math.round((harakatCount / arabicLetters) * 100) : 0
+            const coverage =
+              arabicLetters > 0 ? Math.round((harakatCount / arabicLetters) * 100) : 0
             if (coverage < 40) warnings.push(`Low harakat coverage: ~${coverage}% (aim for >70%)`)
           }
         }
@@ -109,7 +121,9 @@ for (const category of categories) {
       console.log(`  ❌ index.json: MISSING`)
     } else {
       try {
-        const index = JSON.parse(readFileSync(indexPath, 'utf-8')) as { items: Array<{ id: string }> }
+        const index = JSON.parse(readFileSync(indexPath, 'utf-8')) as {
+          items: Array<{ id: string }>
+        }
         const indexIds = index.items.map(i => i.id)
 
         const missingFromIndex = foundIds.filter(id => !indexIds.includes(id))
@@ -121,7 +135,9 @@ for (const category of categories) {
         }
         if (extraInIndex.length > 0) {
           totalWarnings++
-          console.log(`  ⚠️  index.json: has entries with no matching file: ${extraInIndex.join(', ')}`)
+          console.log(
+            `  ⚠️  index.json: has entries with no matching file: ${extraInIndex.join(', ')}`
+          )
         }
         if (missingFromIndex.length === 0 && extraInIndex.length === 0) {
           console.log(`  ✅ index.json: in sync (${indexIds.length} items)`)
