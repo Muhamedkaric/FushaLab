@@ -125,85 +125,87 @@ export function LevelPage({ category, level }: Props) {
           </Stack>
 
           <List disablePadding sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
-            {data.items.filter(item => !(hideEasy && getRating(item.id) === 'easy')).map((item, idx) => {
-              const rating = getRating(item.id)
-              const isEasy = rating === 'easy'
+            {data.items
+              .filter(item => !(hideEasy && getRating(item.id) === 'easy'))
+              .map((item, idx) => {
+                const rating = getRating(item.id)
+                const isEasy = rating === 'easy'
 
-              return (
-                <motion.div
-                  key={item.id}
-                  initial={{ opacity: 0, x: -16 }}
-                  animate={{ opacity: 1, x: 0 }}
-                  transition={{ delay: idx * 0.04, duration: 0.3 }}
-                >
-                  <ListItem
-                    disablePadding
-                    sx={{
-                      border: '1px solid',
-                      borderColor: isEasy ? 'success.main' : 'divider',
-                      borderRadius: 2,
-                      overflow: 'hidden',
-                      opacity: isEasy ? 0.65 : 1,
-                      transition: 'opacity 0.2s',
-                    }}
+                return (
+                  <motion.div
+                    key={item.id}
+                    initial={{ opacity: 0, x: -16 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: idx * 0.04, duration: 0.3 }}
                   >
-                    <ListItemButton
-                      onClick={() =>
-                        void navigate({
-                          to: '/learn/$category/$level/$id',
-                          params: { category, level, id: item.id },
-                        })
-                      }
-                      sx={{ py: 1.5, px: 2 }}
+                    <ListItem
+                      disablePadding
+                      sx={{
+                        border: '1px solid',
+                        borderColor: isEasy ? 'success.main' : 'divider',
+                        borderRadius: 2,
+                        overflow: 'hidden',
+                        opacity: isEasy ? 0.65 : 1,
+                        transition: 'opacity 0.2s',
+                      }}
                     >
-                      <ListItemText
-                        primary={
-                          <Typography
-                            dir="rtl"
-                            sx={{
-                              fontFamily: '"Amiri", serif',
-                              fontSize: '1.15rem',
-                              direction: 'rtl',
-                              textAlign: 'right',
-                              lineHeight: 1.8,
-                            }}
-                          >
-                            {item.arabic.split(' ').slice(0, 8).join(' ')}
-                            {item.arabic.split(' ').length > 8 ? '…' : ''}
-                          </Typography>
+                      <ListItemButton
+                        onClick={() =>
+                          void navigate({
+                            to: '/learn/$category/$level/$id',
+                            params: { category, level, id: item.id },
+                          })
                         }
-                        secondary={
-                          <Stack
-                            component="span"
-                            direction="row"
-                            gap={0.5}
-                            mt={0.5}
-                            flexWrap="wrap"
-                          >
-                            {item.metadata.tags.map(tag => (
-                              <Chip
-                                key={tag}
-                                label={tag}
-                                size="small"
-                                variant="outlined"
-                                sx={{ fontSize: '0.65rem', height: 20 }}
-                              />
-                            ))}
-                          </Stack>
-                        }
-                      />
-                      <Box sx={{ ml: 2 }}>
-                        {isEasy ? (
-                          <CheckCircleIcon color="success" fontSize="small" />
-                        ) : (
-                          <ProgressBadge rating={rating} />
-                        )}
-                      </Box>
-                    </ListItemButton>
-                  </ListItem>
-                </motion.div>
-              )
-            })}
+                        sx={{ py: 1.5, px: 2 }}
+                      >
+                        <ListItemText
+                          primary={
+                            <Typography
+                              dir="rtl"
+                              sx={{
+                                fontFamily: '"Amiri", serif',
+                                fontSize: '1.15rem',
+                                direction: 'rtl',
+                                textAlign: 'right',
+                                lineHeight: 1.8,
+                              }}
+                            >
+                              {item.arabic.split(' ').slice(0, 8).join(' ')}
+                              {item.arabic.split(' ').length > 8 ? '…' : ''}
+                            </Typography>
+                          }
+                          secondary={
+                            <Stack
+                              component="span"
+                              direction="row"
+                              gap={0.5}
+                              mt={0.5}
+                              flexWrap="wrap"
+                            >
+                              {item.metadata.tags.map(tag => (
+                                <Chip
+                                  key={tag}
+                                  label={tag}
+                                  size="small"
+                                  variant="outlined"
+                                  sx={{ fontSize: '0.65rem', height: 20 }}
+                                />
+                              ))}
+                            </Stack>
+                          }
+                        />
+                        <Box sx={{ ml: 2 }}>
+                          {isEasy ? (
+                            <CheckCircleIcon color="success" fontSize="small" />
+                          ) : (
+                            <ProgressBadge rating={rating} />
+                          )}
+                        </Box>
+                      </ListItemButton>
+                    </ListItem>
+                  </motion.div>
+                )
+              })}
           </List>
         </motion.div>
       )}
