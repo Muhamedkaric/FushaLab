@@ -75,13 +75,13 @@ That's it. Files appear in `public/data/travel/C1/` automatically.
 
 ### Models
 
-| Model              | Quality     | Speed                   |
-| ------------------ | ----------- | ----------------------- |
-| `gemini-2.0-flash` | ⭐⭐ Good   | Very fast · **default** |
-| `gemini-1.5-pro`   | ⭐⭐⭐ Best | Slower                  |
-| `gemini-1.5-flash` | ⭐⭐ Good   | Fast                    |
+| Model                  | Quality     | Speed                   |
+| ---------------------- | ----------- | ----------------------- |
+| `gemini-2.0-flash`     | ⭐⭐ Good   | Very fast · **default** |
+| `gemini-2.0-flash-lite`| ⭐⭐ Good   | Very fast               |
+| `gemini-2.5-flash`     | ⭐⭐⭐ Best | Slower                  |
 
-Use `gemini-1.5-pro` for C1/C2 levels where text complexity matters most.
+Note: `gemini-1.5-pro` and `gemini-1.5-flash` are no longer available on the v1beta API.
 
 ---
 
@@ -92,16 +92,13 @@ Use `gemini-1.5-pro` for C1/C2 levels where text complexity matters most.
 pnpm generate --category travel --level B1 --count 10
 
 # 5 C2 literature texts, best quality model
-pnpm generate --category literature --level C2 --count 5 --model gemini-1.5-pro
+pnpm generate --category literature --level C2 --count 5 --model gemini-2.5-flash
 
-# 20 B1 culture texts quickly
-pnpm generate --category culture --level B1 --count 20
-
-# Fill up all levels for a category
+# Fill up all levels for religion (hadiths + Companion stories, authentic Sunni sources)
 pnpm generate --category religion --level B1 --count 10
 pnpm generate --category religion --level B2 --count 10
-pnpm generate --category religion --level C1 --count 10 --model gemini-1.5-pro
-pnpm generate --category religion --level C2 --count 10 --model gemini-1.5-pro
+pnpm generate --category religion --level C1 --count 10
+pnpm generate --category religion --level C2 --count 10
 ```
 
 ---
@@ -144,4 +141,11 @@ After generating, always:
 → Run the command again — occasionally the model returns slightly malformed JSON.
 
 **Texts look colloquial / no harakat**
-→ Switch to `--model gemini-1.5-pro` for better quality at C1/C2 levels.
+→ Switch to `--model gemini-2.5-flash` for better quality at C1/C2 levels.
+
+**`429 Too Many Requests` / quota exhausted**
+→ The free tier has a daily limit (~1500 req/day). The script retries automatically on
+  per-minute rate limits, but if the *daily* quota is gone you must wait until midnight UTC.
+→ To check or reset: https://ai.dev/rate-limit
+→ To remove the daily cap: add billing to your Google Cloud project — the same API key
+  will then work on the paid tier (very cheap for this usage).

@@ -2,53 +2,103 @@
   "items": [
     {
       "id": "religion-b1-001",
-      "arabic": "يُصَلِّي الْمُسْلِمُونَ خَمْسَ مَرَّاتٍ فِي الْيَوْمِ وَيَتَوَجَّهُونَ نَحْوَ مَكَّةَ الْمُكَرَّمَةِ.",
-      "metadata": { "difficulty": 1, "tags": ["religion", "prayer", "Islam"] }
+      "arabic": "التَّوْحِيدُ هُوَ أَسَاسُ الدِّينِ الْإِسْلَامِيِّ. يَعْنِي التَّوْحِيدُ أَنَّ اللَّهَ وَاحِدٌ لَا شَرِيكَ لَهُ، وَهُوَ خَالِقُ كُلِّ شَيْءٍ.",
+      "metadata": { "difficulty": 1, "tags": ["tawhid", "aqeedah", "hadith"] }
     },
     {
       "id": "religion-b1-002",
-      "arabic": "يَصُومُ الْمُسْلِمُونَ فِي شَهْرِ رَمَضَانَ مِنَ الْفَجْرِ إِلَى الْغُرُوبِ.",
-      "metadata": { "difficulty": 1, "tags": ["religion", "fasting", "Ramadan"] }
+      "arabic": "الصَّلَاةُ عِمَادُ الدِّينِ، وَهِيَ أَوَّلُ مَا يُحَاسَبُ عَلَيْهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ.",
+      "metadata": { "difficulty": 1, "tags": ["salah", "prayer", "hadith"] }
     },
     {
       "id": "religion-b1-003",
-      "arabic": "الزَّكَاةُ أَحَدُ أَرْكَانِ الْإِسْلَامِ الْخَمْسَةِ وَتَعْنِي إِعْطَاءَ جُزْءٍ مِنَ الْمَالِ لِلْمُحْتَاجِينَ.",
-      "metadata": { "difficulty": 1, "tags": ["religion", "zakat", "pillars of Islam"] }
+      "arabic": "الزَّكَاةُ رُكْنٌ مِنْ أَرْكَانِ الْإِسْلَامِ، وَهِيَ حَقُّ الْفُقَرَاءِ فِي أَمْوَالِ الْأَغْنِيَاءِ.",
+      "metadata": { "difficulty": 1, "tags": ["zakah", "hadith", "pillars"] }
     },
     {
       "id": "religion-b1-004",
-      "arabic": "يَجْتَمِعُ الْمُسْلِمُونَ فِي الْمَسَاجِدِ لِصَلَاةِ الجُمُعَةِ كُلَّ أُسْبُوعٍ.",
-      "metadata": { "difficulty": 1, "tags": ["religion", "mosque", "Friday prayer"] }
+      "arabic": "الصَّوْمُ عِبَادَةٌ عَظِيمَةٌ يَتَقَرَّبُ بِهَا الْمُسْلِمُ إِلَى اللَّهِ تَعَالَى.",
+      "metadata": { "difficulty": 1, "tags": ["sawm", "fasting", "ramadan", "hadith"] }
     },
     {
       "id": "religion-b1-005",
-      "arabic": "يَذْهَبُ الْمُسْلِمُونَ إِلَى الْحَجِّ فِي مَكَّةَ مَرَّةً وَاحِدَةً فِي الْعُمُرِ إِذَا اسْتَطَاعُوا.",
-      "metadata": { "difficulty": 1, "tags": ["religion", "Hajj", "Mecca"] }
+      "arabic": "الْحَجُّ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ مُسْتَطِيعٍ مَرَّةً وَاحِدَةً فِي الْعُمُرِ.",
+      "metadata": { "difficulty": 1, "tags": ["hajj", "pillars", "hadith"] }
     },
     {
       "id": "religion-b1-006",
-      "arabic": "الْقُرْآنُ الْكَرِيمُ كِتَابُ الْمُسْلِمِينَ الْمُقَدَّسُ وَيَحْتَوِي عَلَى مَئَةٍ وَأَرْبَعَ عَشْرَةَ سُورَةً.",
-      "metadata": { "difficulty": 1, "tags": ["religion", "Quran", "Islam"] }
+      "arabic": "أَبُو بَكْرٍ الصِّدِّيقُ رَضِيَ اللَّهُ عَنْهُ كَانَ أَوَّلَ مَنْ آمَنَ بِالنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الرِّجَالِ الْبَالِغِينَ.",
+      "metadata": { "difficulty": 1, "tags": ["companions", "abu-bakr", "seerah"] }
     },
     {
       "id": "religion-b1-007",
-      "arabic": "يُعَلِّمُ الْإِسْلَامُ الرَّحْمَةَ وَالتَّسَامُحَ وَمَحَبَّةَ الْجِيرَانِ.",
-      "metadata": { "difficulty": 1, "tags": ["religion", "values", "Islam"] }
+      "arabic": "بِلَالُ بْنُ رَبَاحٍ رَضِيَ اللَّهُ عَنْهُ كَانَ عَبْدًا حَبَشِيًّا آمَنَ بِاللَّهِ فَعُذِّبَ بِسَبَبِ إِيمَانِهِ.",
+      "metadata": { "difficulty": 1, "tags": ["companions", "bilal", "sabr", "tawhid"] }
     },
     {
       "id": "religion-b1-008",
-      "arabic": "تَبْنِي الْعَائِلَةُ الْمُسْلِمَةُ حَيَاتَهَا عَلَى قِيَمِ الأَمَانَةِ وَالصِّدْقِ وَاحْتِرَامِ الْوَالِدَيْنِ.",
-      "metadata": { "difficulty": 1, "tags": ["religion", "family", "values"] }
+      "arabic": "الْآدَابُ الْإِسْلَامِيَّةُ جُزْءٌ مِنَ الدِّينِ وَلَيْسَتْ زِيَادَةً عَلَيْهِ.",
+      "metadata": { "difficulty": 1, "tags": ["adab", "manners", "hadith", "character"] }
     },
     {
       "id": "religion-b1-009",
-      "arabic": "يُؤْمِنُ الْمُسْلِمُ بِأَنَّ اللهَ وَاحِدٌ وَأَنَّ مُحَمَّدًا رَسُولُهُ.",
-      "metadata": { "difficulty": 1, "tags": ["religion", "tawhid", "shahada"] }
+      "arabic": "ذِكْرُ اللَّهِ تَعَالَى غِذَاءُ الْقُلُوبِ وَطُمَأْنِينَتُهَا.",
+      "metadata": { "difficulty": 1, "tags": ["dhikr", "remembrance", "hadith"] }
     },
     {
       "id": "religion-b1-010",
-      "arabic": "تُعَدُّ الْمَدِينَةُ الْمُنَوَّرَةُ الْمَدِينَةَ الثَّانِيَةَ فِي الْأَهَمِّيَّةِ الدِّينِيَّةِ لِلْمُسْلِمِينَ بَعْدَ مَكَّةَ الْمُكَرَّمَةِ.",
-      "metadata": { "difficulty": 2, "tags": ["religion", "Medina", "holy cities"] }
+      "arabic": "التَّوْبَةُ بَابٌ مَفْتُوحٌ لِكُلِّ عَبْدٍ يَرْجِعُ إِلَى اللَّهِ.",
+      "metadata": { "difficulty": 1, "tags": ["tawbah", "repentance", "hadith", "mercy"] }
+    },
+    {
+      "id": "religion-b1-011",
+      "arabic": "الْإِخْلَاصُ شَرْطٌ لِقَبُولِ الْعَمَلِ عِنْدَ اللَّهِ تَعَالَى.",
+      "metadata": { "difficulty": 1, "tags": ["ikhlas", "sincerity", "hadith", "niyyah"] }
+    },
+    {
+      "id": "religion-b1-012",
+      "arabic": "التَّوَكُّلُ عَلَى اللَّهِ لَا يَعْنِي تَرْكَ الْعَمَلِ وَالْأَخْذَ بِالْأَسْبَابِ.",
+      "metadata": { "difficulty": 1, "tags": ["tawakkul", "reliance", "hadith"] }
+    },
+    {
+      "id": "religion-b1-013",
+      "arabic": "بِرُّ الْوَالِدَيْنِ مِنْ أَعْظَمِ الْوَاجِبَاتِ فِي الْإِسْلَامِ.",
+      "metadata": { "difficulty": 1, "tags": ["parents", "birr", "hadith", "adab"] }
+    },
+    {
+      "id": "religion-b1-014",
+      "arabic": "الصَّبْرُ خُلُقٌ عَظِيمٌ يُحِبُّهُ اللَّهُ وَيُثِيبُ عَلَيْهِ.",
+      "metadata": { "difficulty": 1, "tags": ["sabr", "patience", "hadith"] }
+    },
+    {
+      "id": "religion-b1-015",
+      "arabic": "الْكَرَمُ وَالسَّخَاءُ مِنْ أَبْرَزِ صِفَاتِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+      "metadata": { "difficulty": 1, "tags": ["generosity", "seerah", "hadith", "character"] }
+    },
+    {
+      "id": "religion-b1-016",
+      "arabic": "الرَّحْمَةُ صِفَةٌ يُحِبُّهَا اللَّهُ فِي عِبَادِهِ.",
+      "metadata": { "difficulty": 1, "tags": ["mercy", "hadith", "character", "seerah"] }
+    },
+    {
+      "id": "religion-b1-017",
+      "arabic": "عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ كَانَ مَعْرُوفًا بِعَدْلِهِ وَزُهْدِهِ.",
+      "metadata": { "difficulty": 1, "tags": ["companions", "umar", "leadership", "seerah"] }
+    },
+    {
+      "id": "religion-b1-018",
+      "arabic": "الْحَلَالُ وَالْحَرَامُ حُدُودٌ رَسَمَهَا اللَّهُ لِحِمَايَةِ الْإِنْسَانِ.",
+      "metadata": { "difficulty": 1, "tags": ["halal", "haram", "fiqh", "hadith"] }
+    },
+    {
+      "id": "religion-b1-019",
+      "arabic": "هِجْرَةُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ مَكَّةَ إِلَى الْمَدِينَةِ كَانَتْ حَدَثًا عَظِيمًا فِي تَارِيخِ الْإِسْلَامِ.",
+      "metadata": { "difficulty": 1, "tags": ["seerah", "hijra", "companions", "tawakkul"] }
+    },
+    {
+      "id": "religion-b1-020",
+      "arabic": "عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ كَانَ مَعْرُوفًا بِسَخَائِهِ الْعَظِيمِ فِي سَبِيلِ اللَّهِ.",
+      "metadata": { "difficulty": 1, "tags": ["companions", "uthman", "generosity", "waqf"] }
     }
   ]
 }

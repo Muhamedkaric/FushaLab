@@ -73,9 +73,8 @@ export function TextCard({ item }: Props) {
 
           {/* Arabic text */}
           <Box
+            dir="rtl"
             sx={{
-              direction: 'rtl',
-              textAlign: 'right',
               py: 2,
               px: 1,
               borderRadius: 2,
@@ -91,7 +90,8 @@ export function TextCard({ item }: Props) {
                 fontSize: { xs: '1.5rem', sm: '1.9rem', md: '2.2rem' },
                 lineHeight: 2,
                 letterSpacing: '0.02em',
-                direction: 'ltr',
+                direction: 'rtl',
+                textAlign: 'right',
                 color: 'text.primary',
               }}
             >

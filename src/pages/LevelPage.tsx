@@ -142,10 +142,11 @@ export function LevelPage({ category, level }: Props) {
                       <ListItemText
                         primary={
                           <Typography
+                            dir="rtl"
                             sx={{
                               fontFamily: '"Amiri", serif',
                               fontSize: '1.15rem',
-                              direction: 'ltr',
+                              direction: 'rtl',
                               textAlign: 'right',
                               lineHeight: 1.8,
                             }}

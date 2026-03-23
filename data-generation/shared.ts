@@ -38,10 +38,10 @@ export const DIFFICULTY: Record<Level, 1 | 2 | 3> = {
 }
 
 export const LEVEL_DESCRIPTIONS: Record<Level, string> = {
-  B1: 'Simple sentences (1–2 clauses), present and past tense, everyday common vocabulary. Length: 1 sentence.',
-  B2: 'Compound sentences, richer vocabulary, some idiomatic expressions, subordinate clauses. Length: 1–2 sentences.',
-  C1: 'Complex multi-clause sentences, formal register, advanced grammar (conditional, subjunctive, passive). Length: 2–3 sentences.',
-  C2: 'Sophisticated literary or journalistic prose, rare vocabulary, complex structures, rhetorical devices. Length: 2–4 sentences.',
+  B1: 'Simple sentences, present and past tense, everyday vocabulary. Length: a short paragraph of 4–6 sentences covering one clear idea.',
+  B2: 'Compound and complex sentences, richer vocabulary, idiomatic expressions, subordinate clauses. Length: a solid paragraph of 6–9 sentences developing a topic with some nuance.',
+  C1: 'Complex multi-clause sentences, formal register, advanced grammar (conditional, passive, nominal sentences). Length: two paragraphs (10–14 sentences) with introduction, development, and a conclusion.',
+  C2: 'Sophisticated literary, journalistic, or scholarly prose. Rare vocabulary, complex structures, rhetorical devices (metaphor, parallel structure). Length: two to three paragraphs (14–20 sentences) on a substantive theme.',
 }
 
 export const CATEGORY_TOPICS: Record<Category, string> = {
@@ -53,7 +53,7 @@ export const CATEGORY_TOPICS: Record<Category, string> = {
   literature:
     'poetry, storytelling, classical Arabic literature, prose, metaphor, imagery, Quran-inspired language',
   religion:
-    'Islamic practice, prayer, Quran, hadith, theology, ethics, spirituality, religious history',
+    'Islamic practice, prayer, Quran (with ayah references), authentic hadiths from Sahih Bukhari or Sahih Muslim, the lives and rulings of the Companions, aqeedah (creed), fiqh (jurisprudence), ethics, seerah (Prophetic biography), and scholarly explanations from Ibn Uthaymeen, Ibn Baz, al-Albani, Ibn Taymiyyah, Ibn al-Qayyim, or Imam al-Bukhari — Sunni mainstream only, no Sufi mysticism, no Shia content',
 }
 
 // ── Paths ────────────────────────────────────────────────────────────────────
@@ -128,7 +128,18 @@ export function writeItems(
 
 // ── Prompt ────────────────────────────────────────────────────────────────────
 
+const RELIGION_EXTRA = `
+RELIGION-SPECIFIC REQUIREMENTS:
+- DO NOT include any Quranic ayat — there is zero tolerance for mistakes in Quranic text
+- Base each text ONLY on: authentic hadiths from Sahih Bukhari or Sahih Muslim (cite collection + book + hadith number), stories of the Companions (seerah of Sahabah), or explanatory scholarly commentary by Ibn Uthaymeen, Ibn Baz, al-Albani, Ibn Taymiyyah, or Ibn al-Qayyim
+- Stick to mainstream Sunni Islam — no Sufi tariqa content, no Shia content, no fabricated (mawdu') or weak (da'if) hadiths
+- When quoting or paraphrasing a hadith, include the Arabic text with full harakat, followed by its source in brackets, e.g.: [رَوَاهُ الْبُخَارِيُّ فِي كِتَابِ الْإِيمَانِ]
+- Each text should be a coherent educational passage: introduce the hadith or story, explain its meaning, and draw a practical moral lesson
+- Topics to rotate across items: aqeedah (tawhid, sifat Allah), salah, zakah, sawm, hajj, seerah of the Prophet, stories of Companions, adab (manners), dhikr, fiqh rulings, tawbah, ikhlas, tawakkul, birr al-walidayn, halal/haram, signs of qiyamah`
+
 export function buildPrompt(category: Category, level: Level, count: number): string {
+  const religionSection = category === 'religion' ? RELIGION_EXTRA : ''
+
   return `You are an expert Modern Standard Arabic (MSA / الفصحى) educator and linguist.
 
 Generate ${count} unique learning texts for the following specification:
@@ -141,11 +152,12 @@ STRICT REQUIREMENTS:
 2. Every single Arabic word MUST have complete and correct harakat (تشكيل / diacritics)
    — this means shadda (ّ), sukun (ْ), tanwin (ً ٍ ٌ), fatha (َ), kasra (ِ), damma (ُ) where applicable
 3. The Arabic must be grammatically perfect and natural-sounding
-4. Translations must be fluent and natural — not word-for-word
-5. Bosnian translation should use correct Bosnian grammar and vocabulary
-6. Each text must be on a different specific topic within the category
-7. Tags: 2–4 short English descriptors relevant to the text content
-
+4. Each text must be a full, self-contained passage — follow the length specified in the level description above
+5. Translations must be fluent and natural — not word-for-word
+6. Bosnian translation should use correct Bosnian grammar and vocabulary
+7. Each text must be on a different specific topic within the category
+8. Tags: 2–4 short English descriptors relevant to the text content
+${religionSection}
 Return ONLY a valid JSON array — no explanation, no markdown, no code blocks.
 Format:
 [
