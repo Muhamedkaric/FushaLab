@@ -14,7 +14,7 @@ export interface ContentItem {
   level: Level
   arabic: string
   translation: string
-  translationEn?: string
+  translationEn: string
   metadata: ContentMetadata
 }
 
