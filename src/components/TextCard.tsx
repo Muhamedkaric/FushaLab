@@ -17,12 +17,13 @@ interface Props {
 const difficultyColor = (d: number) => (d === 1 ? 'success' : d === 2 ? 'warning' : 'error')
 
 export function TextCard({ item }: Props) {
-  const { t } = useI18n()
+  const { t, lang } = useI18n()
   const [showHarakat, setShowHarakat] = useState(true)
   const { rate, getRating } = useProgress()
 
   const displayText = toggleHarakat(item.arabic, showHarakat)
   const rating = getRating(item.id)
+  const translation = lang === 'en' ? item.translationEn : item.translation
 
   return (
     <motion.div
@@ -100,7 +101,7 @@ export function TextCard({ item }: Props) {
           </Box>
 
           {/* Translation */}
-          <TranslationPanel translation={item.translation} />
+          <TranslationPanel translation={translation} />
 
           <Divider sx={{ my: 2 }} />
 

@@ -29,6 +29,8 @@ export interface Translations {
     prev: string
     backToList: string
     completed: string
+    showCompleted: string
+    hideCompleted: string
   }
   difficulty: {
     label: string
@@ -92,6 +94,8 @@ export const en: Translations = {
     prev: 'Previous',
     backToList: 'Back to list',
     completed: 'Completed',
+    showCompleted: 'Show completed',
+    hideCompleted: 'Hide completed',
   },
   difficulty: {
     label: 'How was this text?',

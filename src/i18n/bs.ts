@@ -40,6 +40,8 @@ export const bs: Translations = {
     prev: 'Prethodni',
     backToList: 'Nazad na listu',
     completed: 'Završeno',
+    showCompleted: 'Prikaži završene',
+    hideCompleted: 'Sakrij završene',
   },
   difficulty: {
     label: 'Kako ti je bio ovaj tekst?',

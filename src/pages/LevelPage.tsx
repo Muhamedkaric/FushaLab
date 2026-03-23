@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import {
   Box,
   Typography,
@@ -15,6 +16,8 @@ import {
 } from '@mui/material'
 import ArrowBackIcon from '@mui/icons-material/ArrowBack'
 import CheckCircleIcon from '@mui/icons-material/CheckCircle'
+import VisibilityIcon from '@mui/icons-material/Visibility'
+import VisibilityOffIcon from '@mui/icons-material/VisibilityOff'
 import { motion } from 'framer-motion'
 import { useNavigate } from '@tanstack/react-router'
 import type { Category, Level } from '@/types/content'
@@ -35,6 +38,7 @@ export function LevelPage({ category, level }: Props) {
   const navigate = useNavigate()
   const { data, loading, error } = useLevelManifest(category, level)
   const { getRating } = useProgress()
+  const [hideEasy, setHideEasy] = useState(true)
 
   const handleLevelChange = (_: React.SyntheticEvent, newLevel: string) => {
     void navigate({
@@ -98,17 +102,30 @@ export function LevelPage({ category, level }: Props) {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.3 }}
         >
-          <Stack direction="row" alignItems="center" gap={1} mb={2}>
-            <Typography variant="body2" color="text.secondary">
-              {data.items.length} {t.progress.total}
-            </Typography>
-            <Typography variant="body2" color="success.main">
-              · {data.items.filter(i => getRating(i.id) === 'easy').length} {t.reader.completed}
-            </Typography>
+          <Stack direction="row" alignItems="center" justifyContent="space-between" mb={2}>
+            <Stack direction="row" alignItems="center" gap={1}>
+              <Typography variant="body2" color="text.secondary">
+                {data.items.length} {t.progress.total}
+              </Typography>
+              <Typography variant="body2" color="success.main">
+                · {data.items.filter(i => getRating(i.id) === 'easy').length} {t.reader.completed}
+              </Typography>
+            </Stack>
+            {data.items.some(i => getRating(i.id) === 'easy') && (
+              <Button
+                size="small"
+                variant="text"
+                startIcon={hideEasy ? <VisibilityIcon /> : <VisibilityOffIcon />}
+                onClick={() => setHideEasy(h => !h)}
+                sx={{ fontSize: '0.75rem' }}
+              >
+                {hideEasy ? t.reader.showCompleted : t.reader.hideCompleted}
+              </Button>
+            )}
           </Stack>
 
           <List disablePadding sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
-            {data.items.map((item, idx) => {
+            {data.items.filter(item => !(hideEasy && getRating(item.id) === 'easy')).map((item, idx) => {
               const rating = getRating(item.id)
               const isEasy = rating === 'easy'
 

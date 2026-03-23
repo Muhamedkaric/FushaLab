@@ -11,12 +11,14 @@ import { useNavigate } from '@tanstack/react-router'
 import type { Category, Level } from '@/types/content'
 import { useI18n } from '@/i18n'
 
+const ALL_LEVELS: Level[] = ['B1', 'B2', 'C1', 'C2']
+
 const CATEGORIES: Array<{ id: Category; icon: React.ReactNode; levels: Level[] }> = [
-  { id: 'travel', icon: <FlightIcon />, levels: ['B1', 'B2'] },
-  { id: 'culture', icon: <TheaterComedyIcon />, levels: ['B1', 'B2', 'C1'] },
-  { id: 'news', icon: <NewspaperIcon />, levels: ['B2', 'C1', 'C2'] },
-  { id: 'literature', icon: <MenuBookIcon />, levels: ['C1', 'C2'] },
-  { id: 'religion', icon: <MosqueIcon />, levels: ['B2', 'C1', 'C2'] },
+  { id: 'travel', icon: <FlightIcon />, levels: ALL_LEVELS },
+  { id: 'culture', icon: <TheaterComedyIcon />, levels: ALL_LEVELS },
+  { id: 'news', icon: <NewspaperIcon />, levels: ALL_LEVELS },
+  { id: 'literature', icon: <MenuBookIcon />, levels: ALL_LEVELS },
+  { id: 'religion', icon: <MosqueIcon />, levels: ALL_LEVELS },
 ]
 
 const LEVEL_COLORS: Record<Level, 'primary' | 'secondary' | 'warning' | 'error'> = {
