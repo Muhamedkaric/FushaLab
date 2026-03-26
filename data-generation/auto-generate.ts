@@ -55,7 +55,7 @@ const getArg = (flag: string) => {
 }
 
 const TARGET = parseInt(getArg('--target') ?? '100', 10)
-const MODEL = getArg('--model') ?? 'gemini-2.0-flash'
+const MODEL = getArg('--model') ?? 'gemini-flash-latest'
 
 // ── Notification ──────────────────────────────────────────────────────────────
 
@@ -81,7 +81,15 @@ async function generateWithRetry(
       return result.response.text()
     } catch (err) {
       const is429 = err instanceof GoogleGenerativeAIFetchError && err.status === 429
-      if (!is429 || attempt === 3) throw err
+      const is503 = err instanceof GoogleGenerativeAIFetchError && err.status === 503
+      if ((!is429 && !is503) || attempt === 3) throw err
+
+      if (is503) {
+        const delaySec = 30 * attempt
+        console.log(`  ⏳ Service unavailable — waiting ${delaySec}s (attempt ${attempt}/3)...`)
+        await new Promise(r => setTimeout(r, delaySec * 1000))
+        continue
+      }
 
       // Only retry per-minute limits — detect daily limit (limit: 0 on daily quota)
       const violations =
@@ -157,9 +165,15 @@ for (const { category, level } of QUEUE) {
       console.log(`  ✓ ${items.length} items written (${current + generated}/${TARGET})`)
     } catch (err) {
       const is429 = err instanceof GoogleGenerativeAIFetchError && err.status === 429
+      const is503 = err instanceof GoogleGenerativeAIFetchError && err.status === 503
       if (is429) {
         console.log(`\n⛔ Daily quota exhausted after ${totalGenerated} items total.`)
         quotaHit = true
+        break
+      }
+      if (is503) {
+        console.log(`\n⚠️  Service unavailable after all retries — stopping for now (${totalGenerated} items generated).`)
+        quotaHit = true // treat as soft stop, don't crash
         break
       }
       console.error(`\nUnexpected error:`, err)

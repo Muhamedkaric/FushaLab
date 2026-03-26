@@ -6,6 +6,8 @@ REPO_DIR="$HOME/private/FushaLab"
 LOG_FILE="$REPO_DIR/data-generation/auto-generate.log"
 MAX_LOG_LINES=500
 
+export PATH="/Users/mkaric/.nvm/versions/node/v24.5.0/bin:/Users/mkaric/Library/pnpm:$PATH"
+
 cd "$REPO_DIR/data-generation" || exit 1
 
 # Rotate log if it gets large
