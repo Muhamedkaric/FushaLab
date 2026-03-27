@@ -49,7 +49,7 @@ const QUEUE: Array<{ category: Category; level: Level }> = [
   { category: 'literature', level: 'C2' },
 ]
 
-const BATCH = 5
+const BATCH: Record<Level, number> = { B1: 5, B2: 5, C1: 3, C2: 2 }
 
 // ── Args ──────────────────────────────────────────────────────────────────────
 
@@ -221,7 +221,7 @@ for (const { category, level } of QUEUE) {
   const maxParseFailures = 3
 
   while (generated < needed) {
-    const batchSize = Math.min(BATCH, needed - generated)
+    const batchSize = Math.min(BATCH[level], needed - generated)
 
     let raw: string
     try {
