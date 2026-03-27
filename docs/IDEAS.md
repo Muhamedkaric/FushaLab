@@ -229,8 +229,6 @@ The natural first step is **vocabulary extraction in generation (8a)** because i
 
 ---
 
----
-
 ## 9. Platform Vision — From Reader to Full Learning Hub
 
 The current app is a focused reading tool. The bigger vision is to evolve it into a **comprehensive MSA learning platform** with a proper navigation structure, multiple learning modes, and a home page that makes an immediate impression.
@@ -323,14 +321,21 @@ The overall URL structure would be:
 - "Mark as watched" button (localStorage)
 - No transcript scraping — that's complex. Just the clean embed + metadata.
 
-**Curated channels worth considering (you'd verify and pick):**
-- Al Jazeera Arabic (news, B2–C2)
-- BBC Arabic (news, B2–C2)
-- ArabicPod101 (structured lessons, A1–B2)
-- Speak Arabic Now (B1–B2)
-- Learn Arabic with Maha (A1–B1, Egyptian — note: dialect, not MSA)
-- Quranic Arabic channels (grammar-focused)
-- TED Talks Arabic dubs (C1–C2, varied topics)
+**Curated channels (researched and documented — see `docs/YOUTUBE.md` and `public/data/listening/channels.json`):**
+
+| Channel | Language | Levels | Why |
+|---------|----------|--------|-----|
+| Learn Arabic with Khasu | English | A1–B2 | Best MSA-only channel, 677K subs, Fusha exclusive |
+| Adnan Mrkonjic | Bosnian | A1–B1 | Only structured Bosnian-language Arabic course on YT (3 levels, 206+ lessons) |
+| Imran Alawiye — Gateway to Arabic | English | A1–B2 | Most grammar-complete free MSA channel, 630K subs |
+| Arabic Khatawaat | English | A1–B1 | 3 explicit levels, 259K subs, very structured |
+| Madinah Arabic | English | A1–B2 | 620+ videos, large library |
+| Al Jazeera Arabic | Arabic | B2–C2 | Authentic journalistic MSA, 20M+ subs |
+| DW عربية | Arabic | B2–C2 | Documentaries in formal MSA, slightly clearer than Al Jazeera |
+
+Channels explicitly excluded (dialect, not MSA): ArabicPod101, Arabic with Maha, Nassra Arabic Method, Easy Arabic, Speak Real Arabic, Effective Arabic.
+
+The `channels.json` file has a `verified` flag on each playlist — most playlist IDs still need to be filled in manually (visit channel → Playlists tab → copy ID from URL). Mrkonjic Level 1 playlist is already verified.
 
 **Future enhancement:** Side-by-side mode — video on one side, the app's reading text on the other (when a video topic matches a reading topic).
 
@@ -452,5 +457,16 @@ Every section should feel connected:
 That coherence is what separates an app people use once from one they return to.
 
 ---
+
+---
+
+## Related files
+
+| File | Purpose |
+|------|---------|
+| `docs/YOUTUBE.md` | Human-readable channel guide with TODOs for filling in playlist IDs |
+| `public/data/listening/channels.json` | Machine-readable channel/playlist data consumed by the app |
+| `data-generation/FUSHAGENERATE.md` | Content generation spec for reading texts |
+| `data-generation/README.md` | How to run the Gemini generation scripts |
 
 *Last updated: 2026-03-27*
