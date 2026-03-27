@@ -13,6 +13,7 @@ import {
   Button,
   Tabs,
   Tab,
+  Container,
 } from '@mui/material'
 import ArrowBackIcon from '@mui/icons-material/ArrowBack'
 import CheckCircleIcon from '@mui/icons-material/CheckCircle'
@@ -42,19 +43,19 @@ export function LevelPage({ category, level }: Props) {
 
   const handleLevelChange = (_: React.SyntheticEvent, newLevel: string) => {
     void navigate({
-      to: '/learn/$category/$level',
+      to: '/reading/$category/$level',
       params: { category, level: newLevel as Level },
     })
   }
 
   return (
-    <Box>
+    <Container maxWidth="md" sx={{ py: { xs: 3, sm: 5 } }}>
       <Button
         startIcon={<ArrowBackIcon />}
         variant="text"
         size="small"
         sx={{ mb: 3 }}
-        onClick={() => void navigate({ to: '/' })}
+        onClick={() => void navigate({ to: '/reading' })}
       >
         {t.reader.backToList}
       </Button>
@@ -152,7 +153,7 @@ export function LevelPage({ category, level }: Props) {
                       <ListItemButton
                         onClick={() =>
                           void navigate({
-                            to: '/learn/$category/$level/$id',
+                            to: '/reading/$category/$level/$id',
                             params: { category, level, id: item.id },
                           })
                         }
@@ -209,6 +210,6 @@ export function LevelPage({ category, level }: Props) {
           </List>
         </motion.div>
       )}
-    </Box>
+    </Container>
   )
 }

@@ -5,15 +5,49 @@ export const bs: Translations = {
   tagline: 'Savladaj moderni standardni arapski',
   nav: {
     home: 'Početna',
-    learn: 'Učenje',
+    reading: 'Čitanje',
+    listening: 'Slušanje',
+    vocabulary: 'Vokabular',
+    conversation: 'Razgovor',
+    exercises: 'Vježbe',
     progress: 'Napredak',
   },
   home: {
     hero: 'Uči moderni standardni arapski',
-    heroSub: 'Interaktivna vježba čitanja za nivoe B1–C2',
-    startLearning: 'Počni učiti',
+    heroSub: 'Vježba čitanja, slušanja i vokabulara za ozbiljne učenike',
+    startLearning: 'Počni čitati',
     chooseCategory: 'Odaberi kategoriju',
     levels: 'Nivoi',
+    wordOfDay: 'Riječ dana',
+    wordRoot: 'Korijen',
+    welcomeBack: 'Nastavi svoje putovanje',
+    exploreSection: 'Istraži',
+    sections: {
+      reading: {
+        title: 'Čitanje',
+        desc: 'Autentični MSA tekstovi s harekama na nivoima B1–C2',
+      },
+      listening: {
+        title: 'Slušanje',
+        desc: 'Odabrani YouTube kursevi modernog standardnog arapskog',
+      },
+      vocabulary: {
+        title: 'Vokabular',
+        desc: 'Izgradite arapski vokabular uz prostorno ponavljanje',
+      },
+      conversation: {
+        title: 'Razgovor',
+        desc: 'Vježbajte dijaloge i osnovne rečenične obrasce na A1–A2 nivou',
+      },
+      exercises: {
+        title: 'Vježbe',
+        desc: 'Gramatičke vježbe i pitanja razumijevanja',
+      },
+      progress: {
+        title: 'Napredak',
+        desc: 'Pratite svoj niz učenja i postignuća',
+      },
+    },
   },
   categories: {
     travel: 'Putovanje',
@@ -50,6 +84,29 @@ export const bs: Translations = {
     hard: 'Teško',
     saved: 'Ocjena sačuvana!',
   },
+  listening: {
+    title: 'Vježba slušanja',
+    subtitle: 'Odabrani YouTube kanali za učenike MSA',
+    tier1: 'Preporučeno',
+    tier2: 'Dobro',
+    tier3: 'Autentični sadržaj',
+    openYouTube: 'Otvori na YouTubeu',
+    language: 'Jezik',
+    subscribers: 'pretplatnika',
+    comingSoon: 'Ugrađeni player uskoro',
+  },
+  vocabulary: {
+    title: 'Vokabular',
+    comingSoon: 'Kartice vokabulara i prostorno ponavljanje — uskoro',
+  },
+  conversation: {
+    title: 'Razgovor',
+    comingSoon: 'Vježbe razgovora na A1–A2 nivou — uskoro',
+  },
+  exercises: {
+    title: 'Vježbe',
+    comingSoon: 'Gramatičke i vježbe razumijevanja — uskoro',
+  },
   progress: {
     title: 'Tvoj napredak',
     completed: 'Završeno',
@@ -59,6 +116,14 @@ export const bs: Translations = {
     hard: 'Teško',
     resetAll: 'Resetuj napredak',
     resetConfirm: 'Jesi li siguran? Ovo će izbrisati sve tvoje ocjene.',
+    streak: 'Niz dana',
+    today: 'Danas',
+    thisWeek: 'Ova sedmica',
+    allTime: 'Ukupno',
+    noProgress: 'Nema napretka još — počni čitati!',
+    textsRead: 'tekstova pročitano',
+    byCategory: 'Po kategoriji',
+    byDifficulty: 'Po težini',
   },
   common: {
     loading: 'Učitavanje…',
@@ -66,5 +131,7 @@ export const bs: Translations = {
     retry: 'Pokušaj ponovo',
     darkMode: 'Tamni način',
     lightMode: 'Svijetli način',
+    comingSoon: 'Uskoro',
+    backToHome: 'Nazad na početnu',
   },
 }

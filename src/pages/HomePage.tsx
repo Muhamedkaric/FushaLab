@@ -1,189 +1,339 @@
-import { Box, Typography, Stack, Chip, Card, CardActionArea, CardContent } from '@mui/material'
+import { Box, Typography, Button, Card, CardActionArea, Stack, Chip, Container } from '@mui/material'
 import Grid from '@mui/material/Grid'
-import SchoolIcon from '@mui/icons-material/School'
-import FlightIcon from '@mui/icons-material/Flight'
-import TheaterComedyIcon from '@mui/icons-material/TheaterComedy'
-import NewspaperIcon from '@mui/icons-material/Newspaper'
 import MenuBookIcon from '@mui/icons-material/MenuBook'
-import MosqueIcon from '@mui/icons-material/Mosque'
-import { motion } from 'framer-motion'
+import HeadphonesIcon from '@mui/icons-material/Headphones'
+import TranslateIcon from '@mui/icons-material/Translate'
+import ForumIcon from '@mui/icons-material/Forum'
+import QuizIcon from '@mui/icons-material/Quiz'
+import InsightsIcon from '@mui/icons-material/Insights'
+import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
+import { motion, useReducedMotion } from 'framer-motion'
 import { useNavigate } from '@tanstack/react-router'
-import type { Category, Level } from '@/types/content'
 import { useI18n } from '@/i18n'
+import { getTodaysWord } from '@/data/wordOfDay'
+import { useProgress } from '@/hooks/useProgress'
 
-const ALL_LEVELS: Level[] = ['B1', 'B2', 'C1', 'C2']
+// Arabic letters to float in the hero background
+const FLOAT_LETTERS = ['ع', 'ل', 'م', 'ك', 'ت', 'ب', 'ق', 'ر', 'ن', 'و', 'ف', 'ص', 'ح', 'ذ', 'ش']
 
-const CATEGORIES: Array<{ id: Category; icon: React.ReactNode; levels: Level[] }> = [
-  { id: 'travel', icon: <FlightIcon />, levels: ALL_LEVELS },
-  { id: 'culture', icon: <TheaterComedyIcon />, levels: ALL_LEVELS },
-  { id: 'news', icon: <NewspaperIcon />, levels: ALL_LEVELS },
-  { id: 'literature', icon: <MenuBookIcon />, levels: ALL_LEVELS },
-  { id: 'religion', icon: <MosqueIcon />, levels: ALL_LEVELS },
+interface FloatLetter {
+  letter: string
+  x: string
+  y: string
+  size: string
+  duration: number
+  delay: number
+  opacity: number
+}
+
+const FLOATERS: FloatLetter[] = FLOAT_LETTERS.map((letter, i) => ({
+  letter,
+  x: `${5 + (i * 6.2) % 90}%`,
+  y: `${10 + (i * 13.7) % 75}%`,
+  size: `${1.5 + (i % 4) * 0.6}rem`,
+  duration: 4 + (i % 5),
+  delay: i * 0.4,
+  opacity: 0.06 + (i % 4) * 0.03,
+}))
+
+const SECTIONS = [
+  { path: '/reading', icon: <MenuBookIcon />, key: 'reading' as const },
+  { path: '/listening', icon: <HeadphonesIcon />, key: 'listening' as const },
+  { path: '/vocabulary', icon: <TranslateIcon />, key: 'vocabulary' as const },
+  { path: '/conversation', icon: <ForumIcon />, key: 'conversation' as const },
+  { path: '/exercises', icon: <QuizIcon />, key: 'exercises' as const },
+  { path: '/progress', icon: <InsightsIcon />, key: 'progress' as const },
 ]
 
-const LEVEL_COLORS: Record<Level, 'primary' | 'secondary' | 'warning' | 'error'> = {
-  B1: 'primary',
-  B2: 'secondary',
-  C1: 'warning',
-  C2: 'error',
-}
-
-const containerVariants = {
-  hidden: {},
-  visible: { transition: { staggerChildren: 0.08 } },
-}
-
-const itemVariants = {
-  hidden: { opacity: 0, y: 30 },
-  visible: {
-    opacity: 1,
-    y: 0,
-    transition: {
-      duration: 0.4,
-      ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number],
-    },
-  },
-}
-
 export function HomePage() {
-  const { t } = useI18n()
+  const { t, lang } = useI18n()
   const navigate = useNavigate()
+  const { stats } = useProgress()
+  const word = getTodaysWord()
+  const prefersReducedMotion = useReducedMotion()
 
   return (
     <Box>
-      {/* Hero */}
-      <motion.div
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5 }}
+      {/* ── Hero ─────────────────────────────────────────────────────── */}
+      <Box
+        sx={{
+          position: 'relative',
+          minHeight: { xs: '92vh', md: '88vh' },
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          justifyContent: 'center',
+          overflow: 'hidden',
+          bgcolor: 'background.default',
+          px: 3,
+        }}
       >
-        <Box sx={{ textAlign: 'center', py: { xs: 4, sm: 6 }, mb: 5 }}>
-          <Box sx={{ display: 'flex', justifyContent: 'center', mb: 2 }}>
-            <Box
-              sx={{
-                width: 72,
-                height: 72,
-                borderRadius: '50%',
-                bgcolor: 'primary.main',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-              }}
-            >
-              <SchoolIcon sx={{ fontSize: 38, color: 'primary.contrastText' }} />
-            </Box>
+        {/* Floating Arabic letters */}
+        {!prefersReducedMotion && (
+          <Box sx={{ position: 'absolute', inset: 0, pointerEvents: 'none', userSelect: 'none' }}>
+            {FLOATERS.map((f, i) => (
+              <motion.div
+                key={i}
+                style={{
+                  position: 'absolute',
+                  left: f.x,
+                  top: f.y,
+                  fontSize: f.size,
+                  fontFamily: '"Amiri", serif',
+                  color: '#C9A84C',
+                  opacity: f.opacity,
+                  direction: 'rtl',
+                }}
+                animate={{ y: [0, -18, 0], opacity: [f.opacity, f.opacity * 1.6, f.opacity] }}
+                transition={{ duration: f.duration, delay: f.delay, repeat: Infinity, ease: 'easeInOut' }}
+              >
+                {f.letter}
+              </motion.div>
+            ))}
           </Box>
+        )}
+
+        {/* Gold glow orb */}
+        <Box
+          sx={{
+            position: 'absolute',
+            top: '30%',
+            left: '50%',
+            transform: 'translate(-50%, -50%)',
+            width: { xs: 300, md: 500 },
+            height: { xs: 300, md: 500 },
+            borderRadius: '50%',
+            background: 'radial-gradient(circle, rgba(201, 168, 76, 0.08) 0%, transparent 70%)',
+            pointerEvents: 'none',
+          }}
+        />
+
+        {/* Hero content */}
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.7, ease: 'easeOut' }}
+          style={{ textAlign: 'center', position: 'relative', zIndex: 1 }}
+        >
+          {/* Arabic calligraphy title */}
+          <Typography
+            sx={{
+              fontFamily: '"Amiri", serif',
+              fontSize: { xs: '2.8rem', sm: '4rem', md: '5rem' },
+              fontWeight: 700,
+              direction: 'rtl',
+              lineHeight: 1.3,
+              mb: 1,
+              background: 'linear-gradient(135deg, #C9A84C 0%, #E8C96A 50%, #C9A84C 100%)',
+              backgroundClip: 'text',
+              WebkitBackgroundClip: 'text',
+              WebkitTextFillColor: 'transparent',
+              filter: 'drop-shadow(0 0 24px rgba(201, 168, 76, 0.3))',
+            }}
+          >
+            الْفُصْحَى
+          </Typography>
 
           <Typography
-            variant="h3"
+            variant="h4"
             fontWeight={700}
-            sx={{ fontFamily: '"Amiri", serif', mb: 1, fontSize: { xs: '1.9rem', sm: '2.5rem' } }}
+            sx={{ mb: 1, fontSize: { xs: '1.5rem', sm: '2rem' } }}
           >
             {t.home.hero}
           </Typography>
 
-          <Typography variant="h6" color="text.secondary" fontWeight={400} sx={{ mb: 1 }}>
+          <Typography
+            variant="h6"
+            color="text.secondary"
+            fontWeight={400}
+            sx={{ mb: 4, maxWidth: 480, mx: 'auto', fontSize: { xs: '1rem', sm: '1.15rem' } }}
+          >
             {t.home.heroSub}
           </Typography>
 
-          <Typography
-            sx={{
-              fontFamily: '"Amiri", serif',
-              fontSize: '1.3rem',
-              color: 'primary.main',
-              direction: 'rtl',
-              mt: 2,
-            }}
-          >
-            تَعَلَّمِ الْعَرَبِيَّةَ الْفُصْحَى
+          <Stack direction="row" gap={2} justifyContent="center" flexWrap="wrap">
+            <Button
+              variant="contained"
+              size="large"
+              endIcon={<ArrowForwardIcon />}
+              onClick={() => void navigate({ to: '/reading' })}
+              sx={{
+                px: 4,
+                py: 1.5,
+                fontSize: '1rem',
+                fontWeight: 700,
+                borderRadius: 3,
+                boxShadow: '0 0 24px rgba(201, 168, 76, 0.4)',
+                '&:hover': {
+                  boxShadow: '0 0 36px rgba(201, 168, 76, 0.6)',
+                  transform: 'translateY(-2px)',
+                },
+                transition: 'all 0.2s',
+              }}
+            >
+              {t.home.startLearning}
+            </Button>
+
+            {stats.total > 0 && (
+              <Button
+                variant="outlined"
+                size="large"
+                endIcon={<InsightsIcon />}
+                onClick={() => void navigate({ to: '/progress' })}
+                sx={{ px: 3, py: 1.5, fontSize: '1rem', borderRadius: 3 }}
+              >
+                {t.home.welcomeBack}
+              </Button>
+            )}
+          </Stack>
+        </motion.div>
+
+        {/* Scroll hint */}
+        <motion.div
+          style={{ position: 'absolute', bottom: 24, left: '50%', x: '-50%' }}
+          animate={prefersReducedMotion ? {} : { y: [0, 8, 0] }}
+          transition={{ duration: 1.5, repeat: Infinity, ease: 'easeInOut' }}
+        >
+          <Typography variant="caption" color="text.secondary" sx={{ opacity: 0.5 }}>
+            ↓
           </Typography>
-        </Box>
-      </motion.div>
+        </motion.div>
+      </Box>
 
-      {/* Categories */}
-      <Typography variant="h5" fontWeight={700} mb={3}>
-        {t.home.chooseCategory}
-      </Typography>
+      {/* ── Word of the Day ───────────────────────────────────────────── */}
+      <Box sx={{ bgcolor: 'background.paper', borderTop: '1px solid', borderColor: 'divider' }}>
+        <Container maxWidth="md" sx={{ py: 4 }}>
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.5 }}
+          >
+            <Typography variant="overline" color="primary" fontWeight={700} letterSpacing={2}>
+              {t.home.wordOfDay}
+            </Typography>
+            <Box
+              sx={{
+                mt: 1,
+                p: { xs: 2.5, sm: 3 },
+                border: '1px solid',
+                borderColor: 'primary.main',
+                borderRadius: 3,
+                background: 'linear-gradient(135deg, rgba(201, 168, 76, 0.05) 0%, transparent 100%)',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                gap: 3,
+                flexWrap: 'wrap',
+              }}
+            >
+              <Typography
+                sx={{
+                  fontFamily: '"Amiri", serif',
+                  fontSize: { xs: '2.5rem', sm: '3.5rem' },
+                  fontWeight: 700,
+                  color: 'primary.main',
+                  direction: 'rtl',
+                  lineHeight: 1.2,
+                  minWidth: 120,
+                  textAlign: 'center',
+                  filter: 'drop-shadow(0 0 12px rgba(201, 168, 76, 0.25))',
+                }}
+              >
+                {word.arabic}
+              </Typography>
+              <Box>
+                <Stack direction="row" alignItems="center" gap={1} mb={0.5}>
+                  <Chip
+                    label={`${t.home.wordRoot}: ${word.root}`}
+                    size="small"
+                    variant="outlined"
+                    color="primary"
+                    sx={{ fontSize: '0.7rem', fontFamily: '"Amiri", serif', direction: 'rtl' }}
+                  />
+                </Stack>
+                <Typography variant="h6" fontWeight={700}>
+                  {lang === 'bs' ? word.bs : word.en}
+                </Typography>
+              </Box>
+            </Box>
+          </motion.div>
+        </Container>
+      </Box>
 
-      <motion.div variants={containerVariants} initial="hidden" animate="visible">
+      {/* ── Sections ──────────────────────────────────────────────────── */}
+      <Container maxWidth="md" sx={{ py: { xs: 4, sm: 6 } }}>
+        <motion.div
+          initial={{ opacity: 0, y: 16 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.5 }}
+        >
+          <Typography variant="h5" fontWeight={700} mb={3}>
+            {t.home.exploreSection}
+          </Typography>
+        </motion.div>
+
         <Grid container spacing={2}>
-          {CATEGORIES.map(cat => (
-            <Grid key={cat.id} size={{ xs: 12, sm: 6 }} component="div">
-              <motion.div variants={itemVariants}>
-                <Card
-                  elevation={0}
-                  sx={{
-                    border: '1px solid',
-                    borderColor: 'divider',
-                    borderRadius: 3,
-                    transition: 'border-color 0.2s, box-shadow 0.2s',
-                    '&:hover': {
-                      borderColor: 'primary.main',
-                      boxShadow: '0 4px 20px rgba(201, 168, 76, 0.15)',
-                    },
-                  }}
+          {SECTIONS.map((section, idx) => {
+            const sec = t.home.sections[section.key]
+            return (
+              <Grid key={section.key} size={{ xs: 12, sm: 6, md: 4 }} component="div">
+                <motion.div
+                  initial={{ opacity: 0, y: 24 }}
+                  whileInView={{ opacity: 1, y: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.4, delay: idx * 0.06 }}
                 >
-                  <CardActionArea
-                    onClick={() =>
-                      void navigate({
-                        to: '/learn/$category/$level',
-                        params: { category: cat.id, level: cat.levels[0] },
-                      })
-                    }
-                    sx={{ p: 2 }}
+                  <Card
+                    elevation={0}
+                    sx={{
+                      height: '100%',
+                      border: '1px solid',
+                      borderColor: 'divider',
+                      borderRadius: 3,
+                      transition: 'border-color 0.2s, box-shadow 0.2s, transform 0.2s',
+                      '&:hover': {
+                        borderColor: 'primary.main',
+                        boxShadow: '0 6px 24px rgba(201, 168, 76, 0.12)',
+                        transform: 'translateY(-3px)',
+                      },
+                    }}
                   >
-                    <CardContent sx={{ p: 0 }}>
-                      <Stack direction="row" alignItems="flex-start" gap={2}>
-                        <Box
-                          sx={{
-                            width: 44,
-                            height: 44,
-                            borderRadius: 2,
-                            bgcolor: 'primary.main',
-                            display: 'flex',
-                            alignItems: 'center',
-                            justifyContent: 'center',
-                            flexShrink: 0,
-                            color: 'primary.contrastText',
-                          }}
-                        >
-                          {cat.icon}
-                        </Box>
-
-                        <Box flex={1}>
-                          <Typography variant="subtitle1" fontWeight={600} mb={0.5}>
-                            {t.categories[cat.id]}
-                          </Typography>
-                          <Stack direction="row" gap={0.5} flexWrap="wrap">
-                            {cat.levels.map(level => (
-                              <Chip
-                                key={level}
-                                label={level}
-                                size="small"
-                                color={LEVEL_COLORS[level]}
-                                variant="outlined"
-                                clickable
-                                onClick={e => {
-                                  e.stopPropagation()
-                                  void navigate({
-                                    to: '/learn/$category/$level',
-                                    params: { category: cat.id, level },
-                                  })
-                                }}
-                                sx={{ fontSize: '0.7rem', height: 22 }}
-                              />
-                            ))}
-                          </Stack>
-                        </Box>
-                      </Stack>
-                    </CardContent>
-                  </CardActionArea>
-                </Card>
-              </motion.div>
-            </Grid>
-          ))}
+                    <CardActionArea
+                      onClick={() => void navigate({ to: section.path })}
+                      sx={{ p: 2.5, height: '100%', alignItems: 'flex-start', display: 'flex', flexDirection: 'column' }}
+                    >
+                      <Box
+                        sx={{
+                          width: 40,
+                          height: 40,
+                          borderRadius: 2,
+                          bgcolor: 'primary.main',
+                          display: 'flex',
+                          alignItems: 'center',
+                          justifyContent: 'center',
+                          color: 'primary.contrastText',
+                          mb: 1.5,
+                          flexShrink: 0,
+                        }}
+                      >
+                        {section.icon}
+                      </Box>
+                      <Typography variant="subtitle1" fontWeight={700} mb={0.5}>
+                        {sec.title}
+                      </Typography>
+                      <Typography variant="body2" color="text.secondary" sx={{ lineHeight: 1.5 }}>
+                        {sec.desc}
+                      </Typography>
+                    </CardActionArea>
+                  </Card>
+                </motion.div>
+              </Grid>
+            )
+          })}
         </Grid>
-      </motion.div>
+      </Container>
     </Box>
   )
 }

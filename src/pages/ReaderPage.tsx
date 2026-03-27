@@ -1,4 +1,4 @@
-import { Box, CircularProgress, Alert, Button, Stack, IconButton, Tooltip } from '@mui/material'
+import { Box, CircularProgress, Alert, Button, Stack, IconButton, Tooltip, Container } from '@mui/material'
 import ArrowBackIcon from '@mui/icons-material/ArrowBack'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import ArrowBackIosIcon from '@mui/icons-material/ArrowBackIos'
@@ -26,15 +26,15 @@ export function ReaderPage({ category, level, id }: Props) {
   const nextItem = currentIdx < items.length - 1 ? items[currentIdx + 1] : null
 
   const goTo = (targetId: string) => {
-    void navigate({ to: '/learn/$category/$level/$id', params: { category, level, id: targetId } })
+    void navigate({ to: '/reading/$category/$level/$id', params: { category, level, id: targetId } })
   }
 
   const goToList = () => {
-    void navigate({ to: '/learn/$category/$level', params: { category, level } })
+    void navigate({ to: '/reading/$category/$level', params: { category, level } })
   }
 
   return (
-    <Box>
+    <Container maxWidth="md" sx={{ py: { xs: 3, sm: 5 } }}>
       {/* Navigation bar */}
       <Stack direction="row" alignItems="center" justifyContent="space-between" mb={3}>
         <Button startIcon={<ArrowBackIosIcon />} variant="text" size="small" onClick={goToList}>
@@ -129,6 +129,6 @@ export function ReaderPage({ category, level, id }: Props) {
           </Button>
         </Stack>
       )}
-    </Box>
+    </Container>
   )
 }

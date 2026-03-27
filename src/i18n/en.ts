@@ -1,13 +1,33 @@
 export interface Translations {
   appName: string
   tagline: string
-  nav: { home: string; learn: string; progress: string }
+  nav: {
+    home: string
+    reading: string
+    listening: string
+    vocabulary: string
+    conversation: string
+    exercises: string
+    progress: string
+  }
   home: {
     hero: string
     heroSub: string
     startLearning: string
     chooseCategory: string
     levels: string
+    wordOfDay: string
+    wordRoot: string
+    welcomeBack: string
+    exploreSection: string
+    sections: {
+      reading: { title: string; desc: string }
+      listening: { title: string; desc: string }
+      vocabulary: { title: string; desc: string }
+      conversation: { title: string; desc: string }
+      exercises: { title: string; desc: string }
+      progress: { title: string; desc: string }
+    }
   }
   categories: {
     travel: string
@@ -39,6 +59,29 @@ export interface Translations {
     hard: string
     saved: string
   }
+  listening: {
+    title: string
+    subtitle: string
+    tier1: string
+    tier2: string
+    tier3: string
+    openYouTube: string
+    language: string
+    subscribers: string
+    comingSoon: string
+  }
+  vocabulary: {
+    title: string
+    comingSoon: string
+  }
+  conversation: {
+    title: string
+    comingSoon: string
+  }
+  exercises: {
+    title: string
+    comingSoon: string
+  }
   progress: {
     title: string
     completed: string
@@ -48,6 +91,14 @@ export interface Translations {
     hard: string
     resetAll: string
     resetConfirm: string
+    streak: string
+    today: string
+    thisWeek: string
+    allTime: string
+    noProgress: string
+    textsRead: string
+    byCategory: string
+    byDifficulty: string
   }
   common: {
     loading: string
@@ -55,19 +106,59 @@ export interface Translations {
     retry: string
     darkMode: string
     lightMode: string
+    comingSoon: string
+    backToHome: string
   }
 }
 
 export const en: Translations = {
   appName: 'FushaLab',
   tagline: 'Master Modern Standard Arabic',
-  nav: { home: 'Home', learn: 'Learn', progress: 'Progress' },
+  nav: {
+    home: 'Home',
+    reading: 'Reading',
+    listening: 'Listening',
+    vocabulary: 'Vocabulary',
+    conversation: 'Conversation',
+    exercises: 'Exercises',
+    progress: 'Progress',
+  },
   home: {
     hero: 'Learn Modern Standard Arabic',
-    heroSub: 'Interactive reading practice for B1–C2 learners',
-    startLearning: 'Start Learning',
+    heroSub: 'Reading, listening and vocabulary practice for serious learners',
+    startLearning: 'Start Reading',
     chooseCategory: 'Choose a Category',
     levels: 'Levels',
+    wordOfDay: 'Word of the Day',
+    wordRoot: 'Root',
+    welcomeBack: 'Continue your journey',
+    exploreSection: 'Explore',
+    sections: {
+      reading: {
+        title: 'Reading',
+        desc: 'Authentic MSA texts with full diacritics at B1–C2 level',
+      },
+      listening: {
+        title: 'Listening',
+        desc: 'Curated YouTube courses in Modern Standard Arabic',
+      },
+      vocabulary: {
+        title: 'Vocabulary',
+        desc: 'Build your Arabic vocabulary with spaced repetition',
+      },
+      conversation: {
+        title: 'Conversation',
+        desc: 'Practice A1–A2 dialogues and basic sentence patterns',
+      },
+      exercises: {
+        title: 'Exercises',
+        desc: 'Grammar drills and comprehension questions',
+      },
+      progress: {
+        title: 'Progress',
+        desc: 'Track your learning streak and achievements',
+      },
+    },
   },
   categories: {
     travel: 'Travel',
@@ -104,6 +195,29 @@ export const en: Translations = {
     hard: 'Hard',
     saved: 'Rating saved!',
   },
+  listening: {
+    title: 'Listening Practice',
+    subtitle: 'Curated YouTube channels for MSA learners',
+    tier1: 'Recommended',
+    tier2: 'Good',
+    tier3: 'Authentic Input',
+    openYouTube: 'Open on YouTube',
+    language: 'Language',
+    subscribers: 'subscribers',
+    comingSoon: 'Embedded player coming soon',
+  },
+  vocabulary: {
+    title: 'Vocabulary',
+    comingSoon: 'Vocabulary flashcards and spaced repetition — coming soon',
+  },
+  conversation: {
+    title: 'Conversation',
+    comingSoon: 'A1–A2 conversation practice dialogues — coming soon',
+  },
+  exercises: {
+    title: 'Exercises',
+    comingSoon: 'Grammar drills and comprehension exercises — coming soon',
+  },
   progress: {
     title: 'Your Progress',
     completed: 'Completed',
@@ -113,6 +227,14 @@ export const en: Translations = {
     hard: 'Hard',
     resetAll: 'Reset Progress',
     resetConfirm: 'Are you sure? This will clear all your ratings.',
+    streak: 'Day streak',
+    today: 'Today',
+    thisWeek: 'This week',
+    allTime: 'All time',
+    noProgress: 'No progress yet — start reading!',
+    textsRead: 'texts read',
+    byCategory: 'By category',
+    byDifficulty: 'By difficulty',
   },
   common: {
     loading: 'Loading…',
@@ -120,5 +242,7 @@ export const en: Translations = {
     retry: 'Retry',
     darkMode: 'Dark Mode',
     lightMode: 'Light Mode',
+    comingSoon: 'Coming Soon',
+    backToHome: 'Back to Home',
   },
 }
