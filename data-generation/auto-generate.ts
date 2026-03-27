@@ -76,13 +76,19 @@ function notify(message: string) {
 
 // ── Commit & push ─────────────────────────────────────────────────────────────
 
-function commitAndPush(total: number, perLevel: Map<string, number>) {
-  if (total === 0) return
+function commitAndPush(perLevel: Map<string, number>) {
   const root = resolve(import.meta.dirname, '..')
-  const breakdown = [...perLevel.entries()].map(([k, n]) => `${k} +${n}`).join(', ')
   try {
-    console.log('\n📦 Committing and pushing new content...')
     execSync('git add public/data/', { cwd: root, stdio: 'inherit' })
+    const staged = execSync('git diff --cached --name-only', { cwd: root }).toString().trim()
+    if (!staged) {
+      console.log('\n📦 Nothing new to commit.')
+      return
+    }
+    const breakdown = perLevel.size > 0
+      ? [...perLevel.entries()].map(([k, n]) => `${k} +${n}`).join(', ')
+      : 'sync data files'
+    console.log('\n📦 Committing and pushing new content...')
     execSync(`git commit -m "content: ${breakdown}"`, { cwd: root, stdio: 'inherit' })
     execSync('git push', { cwd: root, stdio: 'inherit' })
     console.log('  ✓ Pushed to GitHub')
@@ -227,7 +233,7 @@ for (const { category, level } of QUEUE) {
     } catch (err) {
       if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
         console.log(`\n⛔ All API keys exhausted after ${totalGenerated} items total.`)
-        commitAndPush(totalGenerated, generatedPerLevel)
+        commitAndPush(generatedPerLevel)
         process.exit(0)
       }
       if (err instanceof Error && err.message === 'RECITATION_SKIP') {
@@ -268,5 +274,5 @@ if (totalGenerated === 0) {
   console.log('\n🎉 All levels at target — nothing left to generate.')
   notify('All levels complete!')
 } else {
-  commitAndPush(totalGenerated, generatedPerLevel)
+  commitAndPush(generatedPerLevel)
 }

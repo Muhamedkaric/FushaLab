@@ -13,6 +13,8 @@ import 'dotenv/config'
  *   gemini-1.5-flash   → fast, free, slightly lower quality
  */
 
+import { execSync } from 'child_process'
+import { resolve } from 'path'
 import { GoogleGenerativeAI, GoogleGenerativeAIFetchError } from '@google/generative-ai'
 import { buildPrompt, parseArgs, parseResponse, writeItems } from './shared.ts'
 
@@ -134,4 +136,16 @@ console.log(`\n💾 Writing ${allGenerated.length} items to public/data/${catego
 writeItems(category, level, allGenerated)
 
 console.log(`\n✅ Done! ${allGenerated.length} items added to ${category}/${level}`)
-console.log(`   Run "pnpm dev" in the project root to see them in the app.\n`)
+
+const root = resolve(import.meta.dirname, '..')
+try {
+  execSync('git add public/data/', { cwd: root, stdio: 'inherit' })
+  const staged = execSync('git diff --cached --name-only', { cwd: root }).toString().trim()
+  if (staged) {
+    execSync(`git commit -m "content: ${category}/${level} +${allGenerated.length}"`, { cwd: root, stdio: 'inherit' })
+    execSync('git push', { cwd: root, stdio: 'inherit' })
+    console.log('  ✓ Pushed to GitHub\n')
+  }
+} catch (err) {
+  console.error('  ✗ Git push failed:', err)
+}
