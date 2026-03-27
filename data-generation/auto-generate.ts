@@ -69,73 +69,117 @@ function notify(message: string) {
   }
 }
 
+// ── Key rotation state ────────────────────────────────────────────────────────
+
+const apiKeys = (process.env['GEMINI_API_KEYS'] ?? '').split(/\s+/).filter(Boolean)
+if (apiKeys.length === 0) {
+  console.error('Error: GEMINI_API_KEYS not set in data-generation/.env')
+  notify('Error: GEMINI_API_KEYS not configured')
+  process.exit(1)
+}
+
+let currentKeyIndex = 0
+const exhaustedKeys = new Set<number>()
+
+function nextAvailableKey(): number | null {
+  for (let i = 0; i < apiKeys.length; i++) {
+    const idx = (currentKeyIndex + i) % apiKeys.length
+    if (!exhaustedKeys.has(idx)) return idx
+  }
+  return null
+}
+
 // ── Retry wrapper ─────────────────────────────────────────────────────────────
 
-async function generateWithRetry(
-  gemini: ReturnType<InstanceType<typeof GoogleGenerativeAI>['getGenerativeModel']>,
-  prompt: string
-): Promise<string> {
-  for (let attempt = 1; attempt <= 3; attempt++) {
+async function generateWithRetry(prompt: string): Promise<string> {
+  let waitAttempts = 0
+  const maxWaitAttempts = 3
+
+  while (true) {
+    const keyIdx = nextAvailableKey()
+    if (keyIdx === null) throw new Error('ALL_KEYS_EXHAUSTED')
+    currentKeyIndex = keyIdx
+
+    const gemini = new GoogleGenerativeAI(apiKeys[keyIdx]).getGenerativeModel({
+      model: MODEL,
+      generationConfig: { temperature: 0.7, responseMimeType: 'application/json' },
+    })
+
     try {
       const result = await gemini.generateContent(prompt)
       return result.response.text()
     } catch (err) {
-      const is429 = err instanceof GoogleGenerativeAIFetchError && err.status === 429
-      const is503 = err instanceof GoogleGenerativeAIFetchError && err.status === 503
-      if ((!is429 && !is503) || attempt === 3) throw err
+      if (!(err instanceof GoogleGenerativeAIFetchError)) throw err
 
-      if (is503) {
-        const delaySec = 30 * attempt
-        console.log(`  ⏳ Service unavailable — waiting ${delaySec}s (attempt ${attempt}/3)...`)
+      if (err.status === 503) {
+        if (waitAttempts >= maxWaitAttempts) throw err
+        waitAttempts++
+        const delaySec = 30 * waitAttempts
+        console.log(
+          `  ⏳ Service unavailable — waiting ${delaySec}s (attempt ${waitAttempts}/${maxWaitAttempts})...`
+        )
         await new Promise(r => setTimeout(r, delaySec * 1000))
         continue
       }
 
-      // Only retry per-minute limits — detect daily limit (limit: 0 on daily quota)
-      const violations =
-        err instanceof GoogleGenerativeAIFetchError
-          ? (err.errorDetails as Array<Record<string, unknown>> | undefined) ?? []
-          : []
-      const dailyExhausted = violations.some(
-        v =>
-          typeof v['quotaId'] === 'string' &&
-          v['quotaId'].includes('PerDay') &&
-          v['limit'] === 0
-      )
-      if (dailyExhausted) throw err // no point retrying daily limit
+      if (err.status === 429) {
+        const violations =
+          (err.errorDetails as Array<Record<string, unknown>> | undefined) ?? []
 
-      const retryInfo = violations.find(
-        d => d['@type'] === 'type.googleapis.com/google.rpc.RetryInfo'
-      )
-      const delaySec = retryInfo?.['retryDelay']
-        ? parseInt(String(retryInfo['retryDelay']).replace('s', ''), 10) + 5
-        : 30 * attempt
+        const dailyExhausted = violations.some(
+          v =>
+            typeof v['quotaId'] === 'string' &&
+            v['quotaId'].includes('PerDay') &&
+            v['limit'] === 0
+        )
 
-      console.log(`  ⏸  Rate limited — waiting ${delaySec}s (attempt ${attempt}/3)...`)
-      await new Promise(r => setTimeout(r, delaySec * 1000))
+        if (dailyExhausted) {
+          console.log(`  🔑 Daily quota exhausted on key ${keyIdx + 1}/${apiKeys.length}`)
+          exhaustedKeys.add(keyIdx)
+          const next = nextAvailableKey()
+          if (next === null) throw new Error('ALL_KEYS_EXHAUSTED')
+          currentKeyIndex = next
+          console.log(`  🔑 Switching to key ${next + 1}/${apiKeys.length}...`)
+          continue
+        }
+
+        // Per-minute rate limit — try next key immediately
+        const nextIdx = (keyIdx + 1) % apiKeys.length
+        if (!exhaustedKeys.has(nextIdx) && nextIdx !== keyIdx) {
+          console.log(
+            `  🔑 Rate limited on key ${keyIdx + 1} — switching to key ${nextIdx + 1}...`
+          )
+          currentKeyIndex = nextIdx
+          continue
+        }
+
+        // No key to switch to — wait
+        if (waitAttempts >= maxWaitAttempts) throw err
+        waitAttempts++
+        const retryInfo = violations.find(
+          d => d['@type'] === 'type.googleapis.com/google.rpc.RetryInfo'
+        )
+        const delaySec = retryInfo?.['retryDelay']
+          ? parseInt(String(retryInfo['retryDelay']).replace('s', ''), 10) + 5
+          : 30 * waitAttempts
+        console.log(
+          `  ⏸  All keys rate limited — waiting ${delaySec}s (attempt ${waitAttempts}/${maxWaitAttempts})...`
+        )
+        await new Promise(r => setTimeout(r, delaySec * 1000))
+        continue
+      }
+
+      throw err
     }
   }
-  throw new Error('unreachable')
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 
-const apiKey = process.env['GEMINI_API_KEY']
-if (!apiKey) {
-  console.error('Error: GEMINI_API_KEY not set in data-generation/.env')
-  notify('Error: GEMINI_API_KEY not configured')
-  process.exit(1)
-}
-
 console.log(`\n🕌 FushaLab Auto-Generator`)
 console.log(`   Model  : ${MODEL}`)
-console.log(`   Target : ${TARGET} items per level\n`)
-
-const genAI = new GoogleGenerativeAI(apiKey)
-const gemini = genAI.getGenerativeModel({
-  model: MODEL,
-  generationConfig: { temperature: 0.7, responseMimeType: 'application/json' },
-})
+console.log(`   Target : ${TARGET} items per level`)
+console.log(`   Keys   : ${apiKeys.length}\n`)
 
 let totalGenerated = 0
 let quotaHit = false
@@ -157,13 +201,18 @@ for (const { category, level } of QUEUE) {
     const batchSize = Math.min(BATCH, needed - generated)
 
     try {
-      const raw = await generateWithRetry(gemini, buildPrompt(category, level, batchSize))
+      const raw = await generateWithRetry(buildPrompt(category, level, batchSize))
       const items = parseResponse(raw)
       writeItems(category, level, items)
       generated += items.length
       totalGenerated += items.length
       console.log(`  ✓ ${items.length} items written (${current + generated}/${TARGET})`)
     } catch (err) {
+      if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
+        console.log(`\n⛔ All API keys exhausted after ${totalGenerated} items total.`)
+        quotaHit = true
+        break
+      }
       const is429 = err instanceof GoogleGenerativeAIFetchError && err.status === 429
       const is503 = err instanceof GoogleGenerativeAIFetchError && err.status === 503
       if (is429) {
@@ -172,8 +221,10 @@ for (const { category, level } of QUEUE) {
         break
       }
       if (is503) {
-        console.log(`\n⚠️  Service unavailable after all retries — stopping for now (${totalGenerated} items generated).`)
-        quotaHit = true // treat as soft stop, don't crash
+        console.log(
+          `\n⚠️  Service unavailable after all retries — stopping for now (${totalGenerated} items generated).`
+        )
+        quotaHit = true
         break
       }
       console.error(`\nUnexpected error:`, err)

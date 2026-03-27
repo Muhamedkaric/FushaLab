@@ -18,49 +18,70 @@ import { buildPrompt, parseArgs, parseResponse, writeItems } from './shared.ts'
 
 // ── Load env ──────────────────────────────────────────────────────────────────
 
-const apiKey = process.env['GEMINI_API_KEY']
-if (!apiKey) {
-  console.error('\nError: GEMINI_API_KEY is not set.')
+const apiKeys = (process.env['GEMINI_API_KEYS'] ?? '').split(/\s+/).filter(Boolean)
+if (apiKeys.length === 0) {
+  console.error('\nError: GEMINI_API_KEYS is not set.')
   console.error('Add it to your data-generation/.env file:')
-  console.error('  GEMINI_API_KEY=AIza...\n')
+  console.error('  GEMINI_API_KEYS=AIza... AIza...\n')
   process.exit(1)
 }
 
 // ── Retry helper ──────────────────────────────────────────────────────────────
 
 async function generateWithRetry(
-  gemini: ReturnType<InstanceType<typeof GoogleGenerativeAI>['getGenerativeModel']>,
+  keys: string[],
+  modelName: string,
   prompt: string,
-  maxRetries = 5
+  maxWaitRetries = 5
 ): Promise<string> {
-  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+  let keyIndex = 0
+  let waitRetries = 0
+
+  while (true) {
+    const gemini = new GoogleGenerativeAI(keys[keyIndex]).getGenerativeModel({
+      model: modelName,
+      generationConfig: {
+        temperature: 0.7,
+        responseMimeType: 'application/json',
+      },
+    })
+
     try {
       const result = await gemini.generateContent(prompt)
       return result.response.text()
     } catch (err) {
-      const is429 =
-        err instanceof GoogleGenerativeAIFetchError && err.status === 429
+      if (!(err instanceof GoogleGenerativeAIFetchError) || err.status !== 429) throw err
 
-      if (!is429 || attempt === maxRetries) throw err
-
-      // Parse retry-after from the error details if available, else exponential backoff
-      let waitMs = Math.min(2 ** attempt * 10_000, 120_000)
-      if (err instanceof GoogleGenerativeAIFetchError) {
-        const retryInfo = (err.errorDetails as Array<Record<string, unknown>> | undefined)?.find(
-          d => d['@type'] === 'type.googleapis.com/google.rpc.RetryInfo'
+      // Try next key before waiting
+      const nextIndex = (keyIndex + 1) % keys.length
+      if (nextIndex !== keyIndex) {
+        console.log(
+          `  🔑 Rate limited on key ${keyIndex + 1}/${keys.length} — trying key ${nextIndex + 1}...`
         )
-        if (retryInfo?.['retryDelay']) {
-          const seconds = parseInt(String(retryInfo['retryDelay']).replace('s', ''), 10)
-          if (!isNaN(seconds)) waitMs = (seconds + 5) * 1000
-        }
+        keyIndex = nextIndex
+        continue
+      }
+
+      // All keys tried — fall back to waiting
+      if (waitRetries >= maxWaitRetries) throw err
+      waitRetries++
+
+      let waitMs = Math.min(2 ** waitRetries * 10_000, 120_000)
+      const retryInfo = (err.errorDetails as Array<Record<string, unknown>> | undefined)?.find(
+        d => d['@type'] === 'type.googleapis.com/google.rpc.RetryInfo'
+      )
+      if (retryInfo?.['retryDelay']) {
+        const seconds = parseInt(String(retryInfo['retryDelay']).replace('s', ''), 10)
+        if (!isNaN(seconds)) waitMs = (seconds + 5) * 1000
       }
 
       const waitSec = Math.round(waitMs / 1000)
-      console.log(`  ⏸  Rate limited (429) — waiting ${waitSec}s before retry ${attempt}/${maxRetries - 1}...`)
+      console.log(
+        `  ⏸  All keys rate limited — waiting ${waitSec}s (retry ${waitRetries}/${maxWaitRetries})...`
+      )
       await new Promise(r => setTimeout(r, waitMs))
     }
   }
-  throw new Error('unreachable')
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
@@ -71,16 +92,8 @@ console.log(`\n🕌 FushaLab Content Generator — Gemini`)
 console.log(`   Category : ${category}`)
 console.log(`   Level    : ${level}`)
 console.log(`   Count    : ${count}`)
-console.log(`   Model    : ${model}\n`)
-
-const genAI = new GoogleGenerativeAI(apiKey)
-const gemini = genAI.getGenerativeModel({
-  model,
-  generationConfig: {
-    temperature: 0.7,
-    responseMimeType: 'application/json',
-  },
-})
+console.log(`   Model    : ${model}`)
+console.log(`   Keys     : ${apiKeys.length}\n`)
 
 const BATCH = 5 // smaller batches since texts are now much longer paragraphs
 let remaining = count
@@ -95,7 +108,7 @@ while (remaining > 0) {
 
   let raw: string
   try {
-    raw = await generateWithRetry(gemini, buildPrompt(category, level, batchSize))
+    raw = await generateWithRetry(apiKeys, model, buildPrompt(category, level, batchSize))
   } catch (err) {
     console.error('\nAPI request failed after retries:', err)
     process.exit(1)
