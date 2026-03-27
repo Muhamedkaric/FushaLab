@@ -14,6 +14,7 @@ import 'dotenv/config'
  */
 
 import { execSync } from 'child_process'
+import { resolve } from 'path'
 import { GoogleGenerativeAI, GoogleGenerativeAIFetchError } from '@google/generative-ai'
 import { buildPrompt, parseResponse, writeItems, readIndex } from './shared.ts'
 import type { Category, Level } from './shared.ts'
@@ -260,4 +261,23 @@ if (quotaHit) {
   const msg = `Generated ${totalGenerated} new items. Progress: ${totalItems}/${totalTarget} (${pct}%)`
   console.log(`\n✅ ${msg}`)
   notify(msg)
+}
+
+// ── Auto-commit & push ────────────────────────────────────────────────────────
+
+if (totalGenerated > 0) {
+  console.log('\n📦 Committing and pushing new content...')
+  try {
+    execSync('git add public/data/', { cwd: resolve(import.meta.dirname, '..'), stdio: 'inherit' })
+    execSync(
+      `git commit -m "content: auto-generate ${totalGenerated} items (${pct}% complete)"`,
+      { cwd: resolve(import.meta.dirname, '..'), stdio: 'inherit' }
+    )
+    execSync('git push', { cwd: resolve(import.meta.dirname, '..'), stdio: 'inherit' })
+    console.log('  ✓ Pushed to GitHub')
+    notify('Content pushed to GitHub')
+  } catch (err) {
+    console.error('  ✗ Git push failed:', err)
+    notify('Warning: content generated but git push failed')
+  }
 }
