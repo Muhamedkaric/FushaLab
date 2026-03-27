@@ -133,7 +133,7 @@ RELIGION-SPECIFIC REQUIREMENTS:
 - DO NOT include any Quranic ayat — there is zero tolerance for mistakes in Quranic text
 - Base each text ONLY on: authentic hadiths from Sahih Bukhari or Sahih Muslim (cite collection + book + hadith number), stories of the Companions (seerah of Sahabah), or explanatory scholarly commentary by Ibn Uthaymeen, Ibn Baz, al-Albani, Ibn Taymiyyah, or Ibn al-Qayyim
 - Stick to mainstream Sunni Islam — no Sufi tariqa content, no Shia content, no fabricated (mawdu') or weak (da'if) hadiths
-- When quoting or paraphrasing a hadith, include the Arabic text with full harakat, followed by its source in brackets, e.g.: [رَوَاهُ الْبُخَارِيُّ فِي كِتَابِ الْإِيمَانِ]
+- DO NOT quote hadith text verbatim — paraphrase the meaning in your own original MSA prose instead, then cite the source in brackets, e.g.: [أخرجه البخاري في كتاب الإيمان]
 - Each text should be a coherent educational passage: introduce the hadith or story, explain its meaning, and draw a practical moral lesson
 - Topics to rotate across items: aqeedah (tawhid, sifat Allah), salah, zakah, sawm, hajj, seerah of the Prophet, stories of Companions, adab (manners), dhikr, fiqh rulings, tawbah, ikhlas, tawakkul, birr al-walidayn, halal/haram, signs of qiyamah`
 
