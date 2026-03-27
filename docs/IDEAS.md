@@ -335,7 +335,7 @@ The overall URL structure would be:
 
 Channels explicitly excluded (dialect, not MSA): ArabicPod101, Arabic with Maha, Nassra Arabic Method, Easy Arabic, Speak Real Arabic, Effective Arabic.
 
-The `channels.json` file has a `verified` flag on each playlist — most playlist IDs still need to be filled in manually (visit channel → Playlists tab → copy ID from URL). Mrkonjic Level 1 playlist is already verified.
+`docs/channels.json` has a `verified` flag on each playlist — most playlist IDs still need to be filled in manually (visit channel → Playlists tab → copy ID from URL). Mrkonjic Level 1 playlist is already verified.
 
 **Future enhancement:** Side-by-side mode — video on one side, the app's reading text on the other (when a video topic matches a reading topic).
 
@@ -465,7 +465,7 @@ That coherence is what separates an app people use once from one they return to.
 | File | Purpose |
 |------|---------|
 | `docs/YOUTUBE.md` | Human-readable channel guide with TODOs for filling in playlist IDs |
-| `public/data/listening/channels.json` | Machine-readable channel/playlist data consumed by the app |
+| `docs/channels.json` | Machine-readable channel/playlist data — planning doc, will move to `public/data/` when Listening section is built |
 | `data-generation/FUSHAGENERATE.md` | Content generation spec for reading texts |
 | `data-generation/README.md` | How to run the Gemini generation scripts |
 

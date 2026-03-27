@@ -3,7 +3,7 @@
 Curated YouTube channels and playlists for the Listening section of FushaLab.
 All channels teach **Modern Standard Arabic (MSA / الفصحى)** — no dialects.
 
-Machine-readable version: `public/data/listening/channels.json`
+Machine-readable version: `docs/channels.json` (planning doc — will move to `public/data/` when the Listening section is built)
 
 ---
 
