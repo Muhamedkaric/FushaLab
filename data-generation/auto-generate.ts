@@ -74,6 +74,25 @@ function notify(message: string) {
   }
 }
 
+// ── Commit & push ─────────────────────────────────────────────────────────────
+
+function commitAndPush(total: number, perLevel: Map<string, number>) {
+  if (total === 0) return
+  const root = resolve(import.meta.dirname, '..')
+  const breakdown = [...perLevel.entries()].map(([k, n]) => `${k} +${n}`).join(', ')
+  try {
+    console.log('\n📦 Committing and pushing new content...')
+    execSync('git add public/data/', { cwd: root, stdio: 'inherit' })
+    execSync(`git commit -m "content: ${breakdown}"`, { cwd: root, stdio: 'inherit' })
+    execSync('git push', { cwd: root, stdio: 'inherit' })
+    console.log('  ✓ Pushed to GitHub')
+    notify('Content pushed to GitHub')
+  } catch (err) {
+    console.error('  ✗ Git push failed:', err)
+    notify('Warning: content generated but git push failed')
+  }
+}
+
 // ── Key rotation state ────────────────────────────────────────────────────────
 
 const apiKeys = (process.env['GEMINI_API_KEYS'] ?? '').split(/\s+/).filter(Boolean)
@@ -97,11 +116,8 @@ function nextAvailableKey(): number | null {
 // ── Retry wrapper ─────────────────────────────────────────────────────────────
 
 async function generateWithRetry(prompt: string): Promise<string> {
-  let waitAttempts = 0
-  const maxWaitAttempts = 3
   let recitationAttempts = 0
   const maxRecitationAttempts = 3
-  let consecutiveRateLimits = 0
 
   while (true) {
     const keyIdx = nextAvailableKey()
@@ -115,7 +131,6 @@ async function generateWithRetry(prompt: string): Promise<string> {
 
     try {
       const result = await gemini.generateContent(prompt)
-      consecutiveRateLimits = 0
       return result.response.text()
     } catch (err) {
       if (err instanceof GoogleGenerativeAIResponseError) {
@@ -134,14 +149,7 @@ async function generateWithRetry(prompt: string): Promise<string> {
       if (!(err instanceof GoogleGenerativeAIFetchError)) throw err
 
       if (err.status === 503) {
-        if (waitAttempts >= maxWaitAttempts) throw err
-        waitAttempts++
-        const delaySec = 30 * waitAttempts
-        console.log(
-          `  ⏳ Service unavailable — waiting ${delaySec}s (attempt ${waitAttempts}/${maxWaitAttempts})...`
-        )
-        await new Promise(r => setTimeout(r, delaySec * 1000))
-        continue
+        throw new Error('ALL_KEYS_EXHAUSTED')
       }
 
       if (err.status === 429) {
@@ -165,32 +173,16 @@ async function generateWithRetry(prompt: string): Promise<string> {
           continue
         }
 
-        // Per-minute rate limit — try next key, but wait once all keys have been tried
-        consecutiveRateLimits++
+        // Per-minute rate limit — try next key, exit if all are rate limited
         const nextIdx = (keyIdx + 1) % apiKeys.length
         if (!exhaustedKeys.has(nextIdx) && nextIdx !== keyIdx) {
           console.log(
             `  🔑 Rate limited on key ${keyIdx + 1} — switching to key ${nextIdx + 1}...`
           )
           currentKeyIndex = nextIdx
-          if (consecutiveRateLimits < apiKeys.length - exhaustedKeys.size) continue
+          continue
         }
-
-        // All available keys are rate limited — wait before retrying
-        if (waitAttempts >= maxWaitAttempts) throw err
-        waitAttempts++
-        consecutiveRateLimits = 0
-        const retryInfo = violations.find(
-          d => d['@type'] === 'type.googleapis.com/google.rpc.RetryInfo'
-        )
-        const delaySec = retryInfo?.['retryDelay']
-          ? parseInt(String(retryInfo['retryDelay']).replace('s', ''), 10) + 5
-          : 60
-        console.log(
-          `  ⏸  All keys rate limited — waiting ${delaySec}s (attempt ${waitAttempts}/${maxWaitAttempts})...`
-        )
-        await new Promise(r => setTimeout(r, delaySec * 1000))
-        continue
+        throw new Error('ALL_KEYS_EXHAUSTED')
       }
 
       throw err
@@ -206,7 +198,6 @@ console.log(`   Target : ${TARGET} items per level`)
 console.log(`   Keys   : ${apiKeys.length}\n`)
 
 let totalGenerated = 0
-let quotaHit = false
 const generatedPerLevel = new Map<string, number>()
 
 for (const { category, level } of QUEUE) {
@@ -233,25 +224,11 @@ for (const { category, level } of QUEUE) {
     } catch (err) {
       if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
         console.log(`\n⛔ All API keys exhausted after ${totalGenerated} items total.`)
-        quotaHit = true
-        break
+        commitAndPush(totalGenerated, generatedPerLevel)
+        process.exit(0)
       }
       if (err instanceof Error && err.message === 'RECITATION_SKIP') {
         console.log(`  ⏭  Skipping batch — RECITATION block persisted after retries`)
-        break
-      }
-      const is429 = err instanceof GoogleGenerativeAIFetchError && err.status === 429
-      const is503 = err instanceof GoogleGenerativeAIFetchError && err.status === 503
-      if (is429) {
-        console.log(`\n⛔ Daily quota exhausted after ${totalGenerated} items total.`)
-        quotaHit = true
-        break
-      }
-      if (is503) {
-        console.log(
-          `\n⚠️  Service unavailable after all retries — stopping for now (${totalGenerated} items generated).`
-        )
-        quotaHit = true
         break
       }
       console.error(`\nUnexpected error:`, err)
@@ -282,51 +259,11 @@ for (const { category, level } of QUEUE) {
     if (generated < needed) await new Promise(r => setTimeout(r, 5000))
   }
 
-  if (quotaHit) break
 }
 
-// ── Summary ───────────────────────────────────────────────────────────────────
-
-// Calculate overall progress
-let totalItems = 0
-let totalTarget = 0
-for (const { category, level } of QUEUE) {
-  totalItems += Math.min(readIndex(category, level).items.length, TARGET)
-  totalTarget += TARGET
-}
-const pct = Math.round((totalItems / totalTarget) * 100)
-
-if (quotaHit) {
-  const msg = `Generated ${totalGenerated} items today. Quota hit. Progress: ${totalItems}/${totalTarget} (${pct}%)`
-  console.log(`\n📊 ${msg}`)
-  notify(msg)
-} else if (totalGenerated === 0) {
-  notify(`All levels complete! ${totalItems}/${totalTarget} items (${pct}%)`)
-  console.log(`\n🎉 All levels at target — nothing left to generate.`)
+if (totalGenerated === 0) {
+  console.log('\n🎉 All levels at target — nothing left to generate.')
+  notify('All levels complete!')
 } else {
-  const msg = `Generated ${totalGenerated} new items. Progress: ${totalItems}/${totalTarget} (${pct}%)`
-  console.log(`\n✅ ${msg}`)
-  notify(msg)
-}
-
-// ── Auto-commit & push ────────────────────────────────────────────────────────
-
-if (totalGenerated > 0) {
-  console.log('\n📦 Committing and pushing new content...')
-  try {
-    execSync('git add public/data/', { cwd: resolve(import.meta.dirname, '..'), stdio: 'inherit' })
-    const breakdown = [...generatedPerLevel.entries()]
-      .map(([key, n]) => `${key} +${n}`)
-      .join(', ')
-    execSync(
-      `git commit -m "content: ${breakdown}"`,
-      { cwd: resolve(import.meta.dirname, '..'), stdio: 'inherit' }
-    )
-    execSync('git push', { cwd: resolve(import.meta.dirname, '..'), stdio: 'inherit' })
-    console.log('  ✓ Pushed to GitHub')
-    notify('Content pushed to GitHub')
-  } catch (err) {
-    console.error('  ✗ Git push failed:', err)
-    notify('Warning: content generated but git push failed')
-  }
+  commitAndPush(totalGenerated, generatedPerLevel)
 }
