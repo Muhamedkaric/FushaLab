@@ -118,6 +118,7 @@ function nextAvailableKey(): number | null {
 async function generateWithRetry(prompt: string): Promise<string> {
   let recitationAttempts = 0
   const maxRecitationAttempts = 3
+  let consecutiveRateLimits = 0
 
   while (true) {
     const keyIdx = nextAvailableKey()
@@ -131,6 +132,7 @@ async function generateWithRetry(prompt: string): Promise<string> {
 
     try {
       const result = await gemini.generateContent(prompt)
+      consecutiveRateLimits = 0
       return result.response.text()
     } catch (err) {
       if (err instanceof GoogleGenerativeAIResponseError) {
@@ -170,19 +172,20 @@ async function generateWithRetry(prompt: string): Promise<string> {
           if (next === null) throw new Error('ALL_KEYS_EXHAUSTED')
           currentKeyIndex = next
           console.log(`  🔑 Switching to key ${next + 1}/${apiKeys.length}...`)
+          consecutiveRateLimits = 0
           continue
         }
 
-        // Per-minute rate limit — try next key, exit if all are rate limited
-        const nextIdx = (keyIdx + 1) % apiKeys.length
-        if (!exhaustedKeys.has(nextIdx) && nextIdx !== keyIdx) {
-          console.log(
-            `  🔑 Rate limited on key ${keyIdx + 1} — switching to key ${nextIdx + 1}...`
-          )
-          currentKeyIndex = nextIdx
-          continue
+        // Per-minute rate limit — count how many keys we've tried this round
+        consecutiveRateLimits++
+        const availableKeys = apiKeys.length - exhaustedKeys.size
+        if (consecutiveRateLimits >= availableKeys) {
+          throw new Error('ALL_KEYS_EXHAUSTED')
         }
-        throw new Error('ALL_KEYS_EXHAUSTED')
+        const nextIdx = (keyIdx + 1) % apiKeys.length
+        console.log(`  🔑 Rate limited on key ${keyIdx + 1} — switching to key ${nextIdx + 1}...`)
+        currentKeyIndex = nextIdx
+        continue
       }
 
       throw err
