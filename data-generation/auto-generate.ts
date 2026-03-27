@@ -184,6 +184,7 @@ console.log(`   Keys   : ${apiKeys.length}\n`)
 
 let totalGenerated = 0
 let quotaHit = false
+const generatedPerLevel = new Map<string, number>()
 
 for (const { category, level } of QUEUE) {
   const current = readIndex(category, level).items.length
@@ -207,6 +208,7 @@ for (const { category, level } of QUEUE) {
       writeItems(category, level, items)
       generated += items.length
       totalGenerated += items.length
+      generatedPerLevel.set(`${category}/${level}`, (generatedPerLevel.get(`${category}/${level}`) ?? 0) + items.length)
       console.log(`  ✓ ${items.length} items written (${current + generated}/${TARGET})`)
     } catch (err) {
       if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
@@ -269,8 +271,11 @@ if (totalGenerated > 0) {
   console.log('\n📦 Committing and pushing new content...')
   try {
     execSync('git add public/data/', { cwd: resolve(import.meta.dirname, '..'), stdio: 'inherit' })
+    const breakdown = [...generatedPerLevel.entries()]
+      .map(([key, n]) => `${key} +${n}`)
+      .join(', ')
     execSync(
-      `git commit -m "content: auto-generate ${totalGenerated} items (${pct}% complete)"`,
+      `git commit -m "content: ${breakdown}"`,
       { cwd: resolve(import.meta.dirname, '..'), stdio: 'inherit' }
     )
     execSync('git push', { cwd: resolve(import.meta.dirname, '..'), stdio: 'inherit' })
