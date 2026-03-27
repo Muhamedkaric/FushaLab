@@ -229,4 +229,228 @@ The natural first step is **vocabulary extraction in generation (8a)** because i
 
 ---
 
+---
+
+## 9. Platform Vision — From Reader to Full Learning Hub
+
+The current app is a focused reading tool. The bigger vision is to evolve it into a **comprehensive MSA learning platform** with a proper navigation structure, multiple learning modes, and a home page that makes an immediate impression.
+
+---
+
+### 9a. New Home Page — Make It Stunning
+
+The current home page is a functional category grid. It does the job but it doesn't *say* anything. The new home page should feel like walking through a door into the Arabic world — atmospheric, elegant, and immediately communicating that this is serious Arabic learning.
+
+**Visual direction:**
+- Full-viewport hero with animated Arabic calligraphy — a famous phrase or the app name revealed stroke by stroke using SVG path animation
+- Deep dark background (near-black) with gold (#C9A84C) as the dominant accent — keep the existing palette but amplify it
+- Subtle animated particles in the background: Arabic letters (أ ب ت ث...) slowly drifting, fading in and out at low opacity — gives depth without distraction
+- A large, beautifully typeset Arabic quote in Amiri font — something like وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ — with a slow fade-in
+- Below the hero: three or four "entry point" cards — big, icon-rich, with a short Arabic label and English subtitle — linking to the main sections of the app
+- A **"Word of the Day"** widget: one Arabic word, fully vowelled, with its translation, audio, and root — refreshed daily (seeded by date so same for everyone, no backend needed)
+- A **streak / last-visited** ribbon for returning users: "Welcome back — you last read travel/B2 · 3-day streak 🔥"
+- Smooth scroll with Framer Motion stagger for each section appearing
+- On mobile: same mood, stacked layout, hero shrinks to just the animated quote + CTA
+
+**Feel reference:** a high-end language learning app crossed with an Arabic cultural institution website — not playful like Duolingo, more serious and beautiful like a premium product.
+
+---
+
+### 9b. App Navigation Overhaul
+
+Replace the current implicit navigation (just a back button) with a proper app shell that has a sidebar on desktop and a bottom nav bar on mobile. Each section of the platform is one item.
+
+**Proposed nav structure:**
+
+```
+🏠  Home (الرئيسية)
+📖  Reading  (القراءة)        ← current app, renamed / reorganized
+🎧  Listening (الاستماع)      ← YouTube videos, new
+🔤  Vocabulary (المفردات)     ← flashcards, word lists, new
+💬  Conversation (المحادثة)   ← A1/A2 dialogues, new
+🎮  Exercises (التدريبات)     ← Duolingo-style drills, new
+📊  My Progress (تقدّمي)      ← stats dashboard, streaks
+```
+
+Each nav item has an Arabic label + English subtitle. The active item is highlighted in gold. On mobile: 5 items max in the bottom bar, overflow to a "More" menu.
+
+The overall URL structure would be:
+```
+/                    → Home
+/reading             → Reading hub (replaces current /)
+/reading/:cat/:level → Level list (current /learn/:cat/:level)
+/reading/:cat/:level/:id → Reader (current /learn/:cat/:level/:id)
+/listening           → Listening hub
+/listening/:id       → Single video
+/vocabulary          → Vocabulary hub
+/vocabulary/review   → Flashcard session
+/conversation        → Conversation hub
+/conversation/:id    → Single dialogue
+/exercises           → Exercises hub
+/progress            → Progress & stats
+```
+
+---
+
+### 9c. Listening Section — YouTube Integration
+
+**Goal:** Curated Arabic YouTube content, embedded inside the app, organized by level — so learners can watch good Arabic without leaving the platform and losing context.
+
+**How YouTube embedding works:** Fully possible. YouTube provides an iframe embed API — any public video can be embedded with `<iframe src="https://www.youtube.com/embed/{videoId}">`. No API key needed for basic embedding. The YouTube IFrame Player API (a JS library) adds play/pause/seek control from code if needed.
+
+**Structure:**
+- A curated list of videos/playlists stored as static JSON in `public/data/listening/`:
+  ```json
+  {
+    "id": "listen-001",
+    "title": "Arabic for Beginners — Basic Greetings",
+    "channel": "ArabicPod101",
+    "youtubeId": "xxxxxxxxxxx",
+    "level": "A1",
+    "duration": "8:32",
+    "tags": ["greetings", "A1", "dialogue"],
+    "description": "Short description in Bosnian/English"
+  }
+  ```
+- Organized by level (A1 → C2) and topic
+- You curate the list — add a video by adding one JSON entry
+- The app renders a grid of video cards; click to open the embed page
+
+**The video page:**
+- Left/top: embedded YouTube player (responsive iframe, `aspect-ratio: 16/9`)
+- Right/bottom: metadata — title, channel, level badge, tags, description
+- Optionally: a notes area (saved to localStorage) where the user can write vocabulary they picked up
+- "Mark as watched" button (localStorage)
+- No transcript scraping — that's complex. Just the clean embed + metadata.
+
+**Curated channels worth considering (you'd verify and pick):**
+- Al Jazeera Arabic (news, B2–C2)
+- BBC Arabic (news, B2–C2)
+- ArabicPod101 (structured lessons, A1–B2)
+- Speak Arabic Now (B1–B2)
+- Learn Arabic with Maha (A1–B1, Egyptian — note: dialect, not MSA)
+- Quranic Arabic channels (grammar-focused)
+- TED Talks Arabic dubs (C1–C2, varied topics)
+
+**Future enhancement:** Side-by-side mode — video on one side, the app's reading text on the other (when a video topic matches a reading topic).
+
+---
+
+### 9d. Conversation Module — A1/A2 Dialogues
+
+**Goal:** Short, scripted dialogues in MSA covering everyday situations — with audio, Arabic text, translation, and interactive comprehension checks. This fills the gap for complete beginners who aren't ready for B1 reading yet.
+
+**Situations to cover (A1/A2):**
+- مَرْحَبًا — Greetings and introductions
+- فِي الْمَطْعَمِ — At the restaurant
+- فِي الْفُنْدُقِ — At the hotel
+- فِي الدُّكَّانِ — At the shop
+- فِي الصَّيْدَلِيَّةِ — At the pharmacy
+- الأَرْقَامُ وَالأَسْعَارُ — Numbers and prices
+- الطَّرِيقُ وَالاتِّجَاهَاتُ — Asking for directions
+- التَّعَارُفُ وَالْعَائِلَةُ — Family and personal info
+- الطَّقْسُ — Weather
+- الأَيَّامُ وَالتَّوَارِيخُ — Days and dates
+
+**Data format** (`public/data/conversation/A1/greetings.json`):
+```json
+{
+  "id": "conv-a1-001",
+  "level": "A1",
+  "title": "Greetings",
+  "titleAr": "التَّحِيَّاتُ",
+  "lines": [
+    {
+      "speaker": "A",
+      "arabic": "مَرْحَبًا، كَيْفَ حَالُكَ؟",
+      "translation": "Zdravo, kako si?",
+      "translationEn": "Hello, how are you?"
+    },
+    {
+      "speaker": "B",
+      "arabic": "بِخَيْرٍ، شُكْرًا. وَأَنْتَ؟",
+      "translation": "Dobro, hvala. A ti?",
+      "translationEn": "Fine, thank you. And you?"
+    }
+  ],
+  "vocabulary": [...],
+  "quiz": [...]
+}
+```
+
+**UI flow:**
+1. Show dialogue line by line, speaker A on left / speaker B on right (like iMessage)
+2. Audio for each line (TTS — already works for Arabic)
+3. Optional: both lines visible at once, or tap to reveal next line
+4. After dialogue: short comprehension question or fill-in-the-blank
+5. "Practice mode": hide one speaker's lines, user tries to remember/reconstruct
+
+**Why MSA and not dialect for A1/A2?**
+Keep it MSA. Dialects are useful for travel but fractured — Egyptian, Levantine, Gulf Arabic are all different. MSA gives a foundation that works across the Arab world and connects to reading and religion.
+
+---
+
+### 9e. Exercises Module — Duolingo-Style Drills
+
+**Goal:** Short, game-like exercises (1–3 minutes) that drill vocabulary, grammar, and comprehension. The key Duolingo insight: small, repeatable micro-tasks feel achievable and build habit.
+
+**Exercise types to build:**
+
+**Type 1 — Word Matching**
+Show 4–6 Arabic words and 4–6 translations as cards. Tap a word, tap its match. Wrong pair shakes red, correct pair disappears with a green flash. Start easy (very different words), get harder.
+
+**Type 2 — Translation Choice**
+Show one Arabic word or short phrase with full harakat. Four options in Bosnian/English. Pick the correct one. Classic multiple choice but fast-paced.
+
+**Type 3 — Sentence Arrangement**
+Show a Bosnian/English sentence. Show the Arabic words scrambled as chips at the bottom. Drag or tap them into the correct order. Teaches word order and sentence structure.
+
+**Type 4 — Fill in the Blank**
+An Arabic sentence with one word missing (shown as ___). Four word options. Pick the correct one. Can be vocabulary or grammar focused.
+
+**Type 5 — Listen and Choose**
+TTS plays an Arabic word or short phrase. User picks the correct meaning from 4 options. Pure listening comprehension drill.
+
+**Type 6 — Harakat Challenge**
+Show an Arabic word without diacritics. User selects from 3 versions with different harakat. Tests whether they've internalized pronunciation. Advanced exercise for B2+.
+
+**Session structure:**
+- Each session is 5–10 exercises
+- Mixed types automatically
+- Score shown at the end (X / 10 correct)
+- "Try again" or "Next session"
+- No accounts, no leaderboards — just local streaks and personal scores in localStorage
+
+**Data source:**
+Exercises are generated from existing content — vocabulary from reading texts, sentences from dialogues. No new content needed to start; just a generation script that converts existing JSON into exercise JSON.
+
+---
+
+### 9f. Other Menu Items Worth Considering
+
+**القَامُوس — Quick Dictionary**
+Type an Arabic word (with or without harakat) → see its meaning, root, and example sentences from the existing content library. No external API — search is over the existing JSON files loaded into memory. Fast, offline-capable.
+
+**النَّحْوُ — Grammar Cards**
+A reference section, not interactive. Short, clear explanations of key MSA grammar patterns (verb conjugation tables, dual forms, broken plurals, etc.) with examples from real texts in the app. Like a lightweight grammar cheat-sheet embedded in the app. Could link from reader ("see grammar for this pattern").
+
+**الأَحَادِيثُ الْيَوْمِيَّةُ — Phrase of the Day**
+A rotating daily phrase (seeded by date, no backend) with audio, translation, and cultural note. Displayed on the home page and accessible as its own small page. Builds the habit of opening the app every day.
+
+---
+
+### 9g. Overall Platform Feel
+
+The app currently feels like a **tool**. The new vision makes it feel like a **place** — somewhere you come back to every day, that has personality and warmth, that celebrates the Arabic language as something beautiful and worth pursuing.
+
+Every section should feel connected:
+- The same word you met in the vocabulary flashcard appears highlighted in a reading text
+- The YouTube video you watched is on the same topic as today's reading text
+- The conversation dialogue uses vocabulary from yesterday's exercise
+- The home page acknowledges you came back ("Day 7 — you're building something real")
+
+That coherence is what separates an app people use once from one they return to.
+
+---
+
 *Last updated: 2026-03-27*
