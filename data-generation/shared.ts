@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
+import { existsSync, mkdirSync, readFileSync, unlinkSync, writeFileSync } from 'fs'
 import { join, resolve } from 'path'
 
 // ── Types ────────────────────────────────────────────────────────────────────
@@ -109,7 +109,16 @@ export function writeItems(
     }
 
     const filePath = join(dir, `${id}.json`)
-    writeFileSync(filePath, JSON.stringify(item, null, 2))
+    const serialized = JSON.stringify(item, null, 2)
+    writeFileSync(filePath, serialized)
+    // Validate the written file parses correctly — catch any FS or encoding edge cases
+    try {
+      JSON.parse(readFileSync(filePath, 'utf-8'))
+    } catch {
+      unlinkSync(filePath)
+      console.error(`  ✗ ${id}: written file failed JSON validation — deleted, skipping`)
+      continue
+    }
     console.log(`  ✓ ${filePath.replace(DATA_DIR + '/', '')}`)
     written.push(item)
   }
