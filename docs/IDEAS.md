@@ -83,25 +83,136 @@ A mode where audio plays first and the Arabic text is hidden. User tries to unde
 
 ---
 
-## 3. Progress & Gamification
+## 3. Progress, Statistics & Motivation
 
-### 3a. Stats Page
+The app already tracks ratings (easy/medium/hard) and timestamps per item in localStorage via `useProgress`. That's the foundation — everything below builds on top of it without needing a backend.
 
-A dashboard showing:
-- Total texts read (easy-rated)
-- Texts by category and level
-- Simple chart: progress toward 100 per level
-- Streak: days in a row with at least one text rated
+**What we already store:**
+```ts
+// fushalab_progress in localStorage
+{
+  ratings: { "travel-b1-001": "easy", "travel-b1-002": "hard", ... },
+  completedAt: { "travel-b1-001": 1743000000000, ... }   // timestamps
+}
+```
 
-Route: `/stats`
+From this alone we can derive: total items rated, ratings per day, which days were active, streaks, level completion %, category distribution, and pace over time.
 
-### 3b. Streak Counter
+---
 
-Track daily reading activity (days where at least one text was rated). Show a flame icon + number in the header or on the home page. Purely localStorage-based, no backend needed.
+### 3a. Stats & Progress Dashboard
 
-### 3c. Level Completion Badge
+A dedicated page (`/progress`) with a clear picture of where the user is and where they're going.
 
-When a user completes all texts in a level (all rated Easy), show a small celebration animation and a badge on the level chip. Encourages working through a full level.
+**Sections:**
+
+**Overall summary bar** (top of page, always visible)
+- Total items rated easy (= "learned") out of total available
+- A single horizontal progress bar: e.g. `247 / 770 items learned (32%)`
+- Current streak + longest streak
+
+**By level** — four rows (B1 / B2 / C1 / C2), each showing:
+- A progress bar: learned / total across all categories at that level
+- Small category breakdown inside the bar (color-coded: travel=blue, culture=amber, etc.)
+- e.g. `B1: 142/400 ██████░░░░░░░░ 36%`
+
+**By category** — five cards (travel, culture, news, literature, religion), each showing:
+- Total learned across all levels
+- Which level is most advanced
+- A small sparkline of activity over the last 30 days
+
+**Activity calendar** (like GitHub's contribution graph)
+- A 52-week grid of squares, each square = one day
+- Color intensity = number of items rated that day (0 = empty, 1–2 = light, 3–5 = medium, 6+ = dark gold)
+- Shows patterns: when the user is consistent, when they drop off, seasonal habits
+
+**Pace indicator**
+- "At your current pace (X items/week) you'll complete B1 in ~Y weeks"
+- Calculated from rolling 4-week average, no ML needed
+
+---
+
+### 3b. Daily Goal & Weekly Target
+
+The single most powerful motivation mechanism in language learning apps: a daily minimum that feels achievable.
+
+**Daily goal (user-configurable):**
+- Default: 3 items per day
+- Options: 1 / 3 / 5 / 10 items
+- Stored in localStorage
+- Progress toward today's goal shown as a small ring/circle on the home page
+- When the goal is hit: a subtle animation + "Goal reached today ✓" message
+- The goal resets at midnight (local time, derived from `new Date()`)
+
+**Weekly summary (shown every Monday or on demand):**
+- Items rated last week vs the week before
+- Whether the weekly target was hit
+- "Last week: 18 items — best week so far!" or "Last week: 4 items — you can do better this week"
+- No shame, no streaks broken forever — just a gentle nudge
+
+**Why this works:** A daily goal of 3 items takes under 5 minutes. That's the key insight — it's not about studying for an hour, it's about showing up every day. The app should make 3 items feel like nothing.
+
+---
+
+### 3c. Streak Counter
+
+Track consecutive days where at least one item was rated. Display a 🔥 flame + number in the header and on the home page for returning users.
+
+**Implementation (pure localStorage, no backend):**
+- On every rating action, record `lastActiveDate` (YYYY-MM-DD string)
+- On app load, compare `lastActiveDate` to today:
+  - Same day → streak unchanged
+  - Yesterday → streak increments
+  - Older → streak resets to 1 (not 0 — you're starting a new streak today)
+- Store `currentStreak` and `longestStreak` in localStorage
+
+**Streak milestones (celebrate, don't punish):**
+- 3 days: "You're building a habit"
+- 7 days: "One week! — 🌟"
+- 30 days: "One month of Arabic — 🏆"
+- Don't show the streak on day 0 or 1 — avoid making people feel bad before they've even started
+
+**Grace period option:** Allow one missed day per week before breaking the streak. Some apps do this and it reduces anxiety without undermining the mechanic. Store as a `graceUsed` flag per week.
+
+---
+
+### 3d. Motivational Moments (micro-celebrations)
+
+Small delightful moments triggered by real milestones — not random, not annoying, but genuinely earned.
+
+| Trigger | Message | Animation |
+|---------|---------|-----------|
+| First item rated easy | "أَوَّلُ خَطْوَةٍ — First step taken" | Confetti burst |
+| Daily goal reached | "Goal for today — done ✓" | Ring fills gold |
+| 10 items in a level | "You know 10 texts in Travel B1" | Small badge appears |
+| Level 25% complete | "Quarter of the way through B1" | Progress bar pulses |
+| Level complete (100%) | "B1 Travel — mastered" | Full celebration animation |
+| 7-day streak | "One week straight — يُسْرٌ بَعْدَ عُسْرٍ" | Flame grows |
+| 50 total items learned | "50 Arabic texts — that's real" | Stats page unlocks highlight |
+
+These should appear as a toast or a small overlay — not a full-screen interruption. Dismissable with one tap.
+
+**Philosophy:** Celebrate the input (items rated), not the output (quiz scores). The user is here to read and listen, not to be tested. Acknowledging effort is more honest than pretending we can measure learning.
+
+---
+
+### 3e. Level Completion Badge
+
+When all items in a level are rated Easy, show a small completion badge on the level chip in the navigation and on the home page. A quiet persistent signal that this level is done.
+
+The badge should not be a blocker — the user can still revisit rated items. It's just a visible record of the work done.
+
+---
+
+### 3f. What NOT to build
+
+A few motivation patterns that look good in theory but work badly for language learning:
+
+- **Leaderboards** — comparing progress with others is demotivating when one person has more time. No backend anyway.
+- **XP points and levels (RPG-style)** — abstract points disconnect from the actual skill. Better to show real content progress ("47 texts" not "2350 XP").
+- **Mandatory streaks** — don't gate features behind streaks. Some people travel, get sick, have hard weeks. The streak is a reward, not a prerequisite.
+- **Punishing resets** — if the streak breaks, it resets quietly. No dramatic "You lost your 30-day streak!" red screen. Just: "Start a new streak today."
+- **Daily notifications** — no push notifications (no backend, no service worker required for this). The app motivates when you open it, not before.
 
 ---
 
