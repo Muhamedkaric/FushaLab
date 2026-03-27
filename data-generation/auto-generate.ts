@@ -101,6 +101,7 @@ async function generateWithRetry(prompt: string): Promise<string> {
   const maxWaitAttempts = 3
   let recitationAttempts = 0
   const maxRecitationAttempts = 3
+  let consecutiveRateLimits = 0
 
   while (true) {
     const keyIdx = nextAvailableKey()
@@ -114,6 +115,7 @@ async function generateWithRetry(prompt: string): Promise<string> {
 
     try {
       const result = await gemini.generateContent(prompt)
+      consecutiveRateLimits = 0
       return result.response.text()
     } catch (err) {
       if (err instanceof GoogleGenerativeAIResponseError) {
@@ -163,25 +165,27 @@ async function generateWithRetry(prompt: string): Promise<string> {
           continue
         }
 
-        // Per-minute rate limit — try next key immediately
+        // Per-minute rate limit — try next key, but wait once all keys have been tried
+        consecutiveRateLimits++
         const nextIdx = (keyIdx + 1) % apiKeys.length
         if (!exhaustedKeys.has(nextIdx) && nextIdx !== keyIdx) {
           console.log(
             `  🔑 Rate limited on key ${keyIdx + 1} — switching to key ${nextIdx + 1}...`
           )
           currentKeyIndex = nextIdx
-          continue
+          if (consecutiveRateLimits < apiKeys.length - exhaustedKeys.size) continue
         }
 
-        // No key to switch to — wait
+        // All available keys are rate limited — wait before retrying
         if (waitAttempts >= maxWaitAttempts) throw err
         waitAttempts++
+        consecutiveRateLimits = 0
         const retryInfo = violations.find(
           d => d['@type'] === 'type.googleapis.com/google.rpc.RetryInfo'
         )
         const delaySec = retryInfo?.['retryDelay']
           ? parseInt(String(retryInfo['retryDelay']).replace('s', ''), 10) + 5
-          : 30 * waitAttempts
+          : 60
         console.log(
           `  ⏸  All keys rate limited — waiting ${delaySec}s (attempt ${waitAttempts}/${maxWaitAttempts})...`
         )
