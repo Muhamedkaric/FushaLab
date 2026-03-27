@@ -217,18 +217,15 @@ for (const { category, level } of QUEUE) {
   console.log(`\n📝 ${category}/${level}: ${current}/${TARGET} — generating ${needed} more...`)
 
   let generated = 0
+  let parseFailures = 0
+  const maxParseFailures = 3
 
   while (generated < needed) {
     const batchSize = Math.min(BATCH, needed - generated)
 
+    let raw: string
     try {
-      const raw = await generateWithRetry(buildPrompt(category, level, batchSize))
-      const items = parseResponse(raw)
-      writeItems(category, level, items)
-      generated += items.length
-      totalGenerated += items.length
-      generatedPerLevel.set(`${category}/${level}`, (generatedPerLevel.get(`${category}/${level}`) ?? 0) + items.length)
-      console.log(`  ✓ ${items.length} items written (${current + generated}/${TARGET})`)
+      raw = await generateWithRetry(buildPrompt(category, level, batchSize))
     } catch (err) {
       if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
         console.log(`\n⛔ All API keys exhausted after ${totalGenerated} items total.`)
@@ -257,6 +254,26 @@ for (const { category, level } of QUEUE) {
       notify(`Error generating ${category}/${level}`)
       process.exit(1)
     }
+
+    let items
+    try {
+      items = parseResponse(raw!)
+      parseFailures = 0
+    } catch {
+      parseFailures++
+      if (parseFailures >= maxParseFailures) {
+        console.log(`  ⏭  Skipping batch — malformed JSON persisted after ${maxParseFailures} retries`)
+        break
+      }
+      console.log(`  ⚠️  Malformed JSON response — retrying batch (attempt ${parseFailures}/${maxParseFailures})...`)
+      continue
+    }
+
+    writeItems(category, level, items)
+    generated += items.length
+    totalGenerated += items.length
+    generatedPerLevel.set(`${category}/${level}`, (generatedPerLevel.get(`${category}/${level}`) ?? 0) + items.length)
+    console.log(`  ✓ ${items.length} items written (${current + generated}/${TARGET})`)
 
     if (generated < needed) await new Promise(r => setTimeout(r, 5000))
   }
