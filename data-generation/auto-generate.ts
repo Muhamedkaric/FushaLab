@@ -15,7 +15,11 @@ import 'dotenv/config'
 
 import { execSync } from 'child_process'
 import { resolve } from 'path'
-import { GoogleGenerativeAI, GoogleGenerativeAIFetchError } from '@google/generative-ai'
+import {
+  GoogleGenerativeAI,
+  GoogleGenerativeAIFetchError,
+  GoogleGenerativeAIResponseError,
+} from '@google/generative-ai'
 import { buildPrompt, parseResponse, writeItems, readIndex } from './shared.ts'
 import type { Category, Level } from './shared.ts'
 
@@ -95,6 +99,8 @@ function nextAvailableKey(): number | null {
 async function generateWithRetry(prompt: string): Promise<string> {
   let waitAttempts = 0
   const maxWaitAttempts = 3
+  let recitationAttempts = 0
+  const maxRecitationAttempts = 3
 
   while (true) {
     const keyIdx = nextAvailableKey()
@@ -110,6 +116,19 @@ async function generateWithRetry(prompt: string): Promise<string> {
       const result = await gemini.generateContent(prompt)
       return result.response.text()
     } catch (err) {
+      if (err instanceof GoogleGenerativeAIResponseError) {
+        const reason = err.response?.candidates?.[0]?.finishReason
+        if (reason === 'RECITATION') {
+          recitationAttempts++
+          if (recitationAttempts >= maxRecitationAttempts) throw new Error('RECITATION_SKIP')
+          console.log(
+            `  ⚠️  RECITATION block — retrying batch (attempt ${recitationAttempts}/${maxRecitationAttempts})...`
+          )
+          continue
+        }
+        throw err
+      }
+
       if (!(err instanceof GoogleGenerativeAIFetchError)) throw err
 
       if (err.status === 503) {
@@ -214,6 +233,10 @@ for (const { category, level } of QUEUE) {
       if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
         console.log(`\n⛔ All API keys exhausted after ${totalGenerated} items total.`)
         quotaHit = true
+        break
+      }
+      if (err instanceof Error && err.message === 'RECITATION_SKIP') {
+        console.log(`  ⏭  Skipping batch — RECITATION block persisted after retries`)
         break
       }
       const is429 = err instanceof GoogleGenerativeAIFetchError && err.status === 429
