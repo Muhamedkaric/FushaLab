@@ -47,7 +47,13 @@ pnpm install
 Create a file called `.env` inside the `data-generation/` folder:
 
 ```env
-GEMINI_API_KEY=AIza-your-key-here
+GEMINI_API_KEYS=AIza-your-key-here
+```
+
+To use multiple keys (recommended — rotates when one hits rate limits):
+
+```env
+GEMINI_API_KEYS=AIza-key-one AIza-key-two AIza-key-three
 ```
 
 ---
