@@ -1,0 +1,336 @@
+{
+  "_note": "Curated Arabic learning YouTube channels for FushaLab. Arabic type: MSA = Modern Standard Arabic / Fusha only. Playlist IDs marked UNKNOWN need manual verification in browser.",
+  "channels": [
+    {
+      "id": "khasu",
+      "name": "Learn Arabic with Khasu",
+      "channelHandle": "@LearnArabicKhasu",
+      "channelUrl": "https://www.youtube.com/@LearnArabicKhasu",
+      "channelId": "UC9rnrMdYzfqdjiuNXV7q8oQ",
+      "language": "en",
+      "arabicType": "MSA",
+      "levels": ["A1", "A2", "B1", "B2"],
+      "subscribers": "677K",
+      "totalVideos": 201,
+      "tier": 1,
+      "description": "One of the best MSA-only channels on YouTube. Creator from Chechnya, studied in Jordan, holds a degree in Sharia and is pursuing a Master's in Teaching Arabic to Non-Native Speakers. Exclusively Fusha — no dialects. Clear explanations, practical, modern approach.",
+      "recommended": true,
+      "playlists": [
+        {
+          "id": "khasu-comprehensible-input",
+          "title": "Comprehensible Input for Arabic Learners",
+          "playlistId": "UNKNOWN",
+          "level": "A2",
+          "description": "Slow, clear MSA speech on everyday topics — designed for learners to follow without subtitles.",
+          "verified": false
+        },
+        {
+          "id": "khasu-beginner-phrases",
+          "title": "Arabic Conversation for Beginners",
+          "playlistId": "UNKNOWN",
+          "level": "A1",
+          "description": "Basic Arabic phrases and conversations. Top video has 8.3M views.",
+          "verified": false
+        }
+      ],
+      "notableVideos": [
+        {
+          "title": "Arabic Conversation for Beginners | 70 Basic Arabic Phrases",
+          "youtubeId": "UNKNOWN",
+          "level": "A1",
+          "durationMin": null,
+          "verified": false
+        }
+      ],
+      "todo": "Owner should find playlist IDs by visiting the channel in browser and copying from URL"
+    },
+    {
+      "id": "mrkonjic",
+      "name": "Hfz. Adnan Mrkonjic — Nauči Arapski Jezik",
+      "channelHandle": null,
+      "channelUrl": "https://www.youtube.com/results?search_query=Adnan+Mrkonjic+arapski+jezik",
+      "channelId": "UNKNOWN",
+      "website": "http://nauciarapski.com",
+      "language": "bs",
+      "arabicType": "MSA",
+      "levels": ["A1", "A2", "B1", "B2"],
+      "subscribers": "UNKNOWN",
+      "totalVideos": "206+ across 3 levels",
+      "tier": 1,
+      "description": "The only substantial structured Arabic course in the Bosnian language on YouTube. Instructor Hafiz Adnan Mrkonjic studied Arabic in Kuwait and taught in the Arab world for 5 years. Grammar-first approach with Quranic examples. 3 levels: Level 1 (78 lessons), Level 2 (65 lessons), Level 3 (63 lessons).",
+      "recommended": true,
+      "playlists": [
+        {
+          "id": "mrkonjic-level1",
+          "title": "Kurs Arapskog Jezika — 1. nivo",
+          "playlistId": "PLyb_wIFb3qXg2Z6HJmyRWMxYcLAR9FKEj",
+          "level": "A1",
+          "totalVideos": 78,
+          "description": "Level 1 of the structured Bosnian-language Arabic course. Covers alphabet, basic grammar, pronunciation, fundamental vocabulary.",
+          "verified": true,
+          "sampleVideo": "https://www.youtube.com/watch?v=18kGuThiIJo&list=PLyb_wIFb3qXg2Z6HJmyRWMxYcLAR9FKEj"
+        },
+        {
+          "id": "mrkonjic-level2",
+          "title": "Kurs Arapskog Jezika — 2. nivo",
+          "playlistId": "UNKNOWN",
+          "level": "A2",
+          "totalVideos": 65,
+          "description": "Level 2 — intermediate grammar, expanded vocabulary, more complex sentences.",
+          "verified": false
+        },
+        {
+          "id": "mrkonjic-level3",
+          "title": "Kurs Arapskog Jezika — 3. nivo",
+          "playlistId": "UNKNOWN",
+          "level": "B1",
+          "totalVideos": 63,
+          "description": "Level 3 — advanced grammar, reading texts, Quranic Arabic introduction.",
+          "verified": false
+        },
+        {
+          "id": "mrkonjic-minber",
+          "title": "Minber Academy — Arapski Jezik I Stepen",
+          "playlistId": "UNKNOWN",
+          "level": "A1",
+          "description": "Separately recorded course through Minber Academy (started October 2017). Same instructor, updated format.",
+          "archiveUrl": "https://archive.org/details/Arapski-jezik-I-stepen-Minber-Academy",
+          "verified": false
+        }
+      ],
+      "todo": "Find YouTube channel ID and playlist IDs for levels 2 and 3 by visiting nauciarapski.com or searching YouTube directly"
+    },
+    {
+      "id": "imran-alawiye",
+      "name": "Imran Alawiye — Gateway to Arabic",
+      "channelHandle": "@ImranAlawiye-gatewaytoarabic",
+      "channelUrl": "https://www.youtube.com/@ImranAlawiye-gatewaytoarabic",
+      "channelId": "UNKNOWN",
+      "language": "en",
+      "arabicType": "MSA",
+      "levels": ["A1", "A2", "B1", "B2"],
+      "subscribers": "630K",
+      "totalVideos": 379,
+      "tier": 1,
+      "description": "Author of the Gateway to Arabic textbook series. Most grammar-complete free MSA channel. Classroom-style delivery, very structured. Best for learners who want a thorough grammar foundation alongside the app's reading content.",
+      "recommended": true,
+      "playlists": [
+        {
+          "id": "gateway-units",
+          "title": "Gateway to Arabic — Structured Units",
+          "playlistId": "UNKNOWN",
+          "level": "A1",
+          "description": "Textbook-aligned video lessons organized by unit. Covers all foundational MSA grammar.",
+          "verified": false
+        }
+      ],
+      "todo": "Find specific playlist IDs from channel page"
+    },
+    {
+      "id": "arabic-khatawaat",
+      "name": "Arabic Khatawaat",
+      "channelHandle": "@ArabicKhatawaat",
+      "channelUrl": "https://www.youtube.com/@ArabicKhatawaat",
+      "channelId": "UCW2AgHPThj9_8raWYE2yjfw",
+      "language": "en",
+      "arabicType": "MSA",
+      "levels": ["A1", "A2", "B1"],
+      "subscribers": "259K",
+      "totalVideos": 280,
+      "tier": 1,
+      "description": "Instructor Ustaatha Raja. Step-by-step MSA/Fusha: script, alphabet, sounds, grammar, vocabulary, conversation. Three clear levels. Very good for systematic beginners.",
+      "recommended": true,
+      "playlists": [
+        {
+          "id": "khatawaat-level1",
+          "title": "Arabic Khatawaat — Level 1",
+          "playlistId": "UNKNOWN",
+          "level": "A1",
+          "description": "Alphabet, script, basic vocabulary and phrases.",
+          "verified": false
+        },
+        {
+          "id": "khatawaat-level2",
+          "title": "Arabic Khatawaat — Level 2",
+          "playlistId": "UNKNOWN",
+          "level": "A2",
+          "description": "Grammar expansion, sentence building.",
+          "verified": false
+        },
+        {
+          "id": "khatawaat-level3",
+          "title": "Arabic Khatawaat — Level 3",
+          "playlistId": "UNKNOWN",
+          "level": "B1",
+          "description": "Intermediate MSA grammar and reading.",
+          "verified": false
+        }
+      ],
+      "todo": "Find playlist IDs from channel page"
+    },
+    {
+      "id": "madinah-arabic",
+      "name": "Madinah Arabic",
+      "channelHandle": "@MadinahArabicTuition",
+      "channelUrl": "https://www.youtube.com/@MadinahArabicTuition",
+      "channelId": "UNKNOWN",
+      "language": "en",
+      "arabicType": "MSA",
+      "levels": ["A1", "A2", "B1", "B2"],
+      "subscribers": "107K",
+      "totalVideos": 620,
+      "tier": 2,
+      "description": "Large library of MSA content. Slow-speed explanations, dual Arabic + romanized subtitles. Good secondary resource for beginners and intermediate learners. Less visually polished but deep in content.",
+      "recommended": true,
+      "playlists": [
+        {
+          "id": "madinah-beginner-conv",
+          "title": "Arabic Conversation Course for Beginners",
+          "playlistId": "UNKNOWN",
+          "level": "A1",
+          "totalVideos": 70,
+          "description": "~70 videos covering conversational MSA from zero.",
+          "verified": false
+        },
+        {
+          "id": "madinah-movie-clips",
+          "title": "Learn Arabic by Movie Clips",
+          "playlistId": "UNKNOWN",
+          "level": "B2",
+          "description": "Advanced comprehensible input through Arabic film/TV clips.",
+          "verified": false
+        }
+      ],
+      "todo": "Find playlist IDs from channel page"
+    },
+    {
+      "id": "arabic-with-angela",
+      "name": "Learning Arabic with Angela",
+      "channelHandle": "UNKNOWN",
+      "channelUrl": "https://learningarabicwithangela.com",
+      "channelId": "UNKNOWN",
+      "language": "en",
+      "arabicType": "MSA",
+      "levels": ["A2", "B1"],
+      "subscribers": "59K",
+      "totalVideos": null,
+      "tier": 2,
+      "description": "Dedicated Fusha-only channel. Practical, topic-based approach with real-life scenarios and short stories. Notable playlist: 'Learn Arabic through Short Stories' — good companion to FushaLab reading texts.",
+      "recommended": true,
+      "playlists": [
+        {
+          "id": "angela-short-stories",
+          "title": "Learn Arabic through Short Stories",
+          "playlistId": "UNKNOWN",
+          "level": "A2",
+          "description": "Short MSA stories with explanations. Directly complements FushaLab literature and culture reading texts.",
+          "verified": false
+        }
+      ],
+      "todo": "Find YouTube channel URL and playlist IDs"
+    },
+    {
+      "id": "arabic-student",
+      "name": "The Arabic Student",
+      "channelHandle": "@saxquiz",
+      "channelUrl": "https://www.youtube.com/@saxquiz",
+      "channelId": "UNKNOWN",
+      "language": "en",
+      "arabicType": "MSA",
+      "levels": ["B1", "B2", "C1"],
+      "subscribers": "UNKNOWN",
+      "totalVideos": null,
+      "tier": 2,
+      "description": "Authentic Arabic materials — TV shows, interviews, news clips with analysis in English. Excellent comprehensible input for intermediate learners who want real Arabic, not classroom Arabic. Not structured lessons but great immersion.",
+      "recommended": true,
+      "playlists": [],
+      "todo": "Browse channel and add specific playlists"
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera Arabic",
+      "channelHandle": "@aljazeera",
+      "channelUrl": "https://www.youtube.com/@aljazeera",
+      "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "language": "ar",
+      "arabicType": "MSA",
+      "levels": ["B2", "C1", "C2"],
+      "subscribers": "20M+",
+      "totalVideos": null,
+      "tier": 3,
+      "description": "The largest Arabic-language YouTube channel (20M+ subscribers). Formal journalistic MSA. Not structured for learners — use as authentic input for advanced level. Content: news, analysis, documentaries, interviews.",
+      "recommended": true,
+      "note": "No learner scaffolding. Best used as listening challenge — play a clip, try to understand, then check understanding.",
+      "playlists": [
+        {
+          "id": "aljazeera-documentaries",
+          "title": "Al Jazeera Arabic Documentaries",
+          "playlistId": "UNKNOWN",
+          "level": "C1",
+          "description": "Documentaries in formal MSA on history, culture, nature. Slower pace than news, better for learners.",
+          "verified": false
+        }
+      ],
+      "todo": "Identify the best documentary/cultural playlists (slower speech, clearer topics) vs fast news clips"
+    },
+    {
+      "id": "dw-arabic",
+      "name": "DW عربية",
+      "channelHandle": "@dw_arabic",
+      "channelUrl": "https://www.youtube.com/@dw_arabic",
+      "channelId": "UCET6sWl4Xcu-U8Ka9PJPrwA",
+      "language": "ar",
+      "arabicType": "MSA",
+      "levels": ["B2", "C1", "C2"],
+      "subscribers": "UNKNOWN",
+      "totalVideos": null,
+      "tier": 3,
+      "description": "Deutsche Welle's Arabic service. Dubbed documentaries and news in formal MSA. Excellent production quality. Slightly slower and clearer than Al Jazeera — a better starting point for B2 learners dipping into authentic content.",
+      "recommended": true,
+      "playlists": [],
+      "todo": "Browse and identify good documentary playlists"
+    }
+  ],
+  "doNotUse": [
+    {
+      "name": "ArabicPod101",
+      "reason": "Mixes MSA, Egyptian, and Moroccan dialect without clear labeling — confusing for Fusha learners"
+    },
+    {
+      "name": "Arabic with Maha",
+      "reason": "Palestinian/Levantine dialect, not MSA"
+    },
+    {
+      "name": "Nassra Arabic Method",
+      "reason": "Levantine dialect (Syrian/Palestinian/Jordanian/Lebanese)"
+    },
+    {
+      "name": "Easy Arabic",
+      "reason": "Street Arabic — Egyptian, Tunisian, Palestinian — not MSA"
+    },
+    {
+      "name": "Speak Real Arabic",
+      "reason": "Syrian Arabic dialect"
+    },
+    {
+      "name": "Effective Arabic",
+      "reason": "Moroccan Darija dialect"
+    }
+  ],
+  "otherResources": [
+    {
+      "name": "Aswaat Arabiyya — University of Texas Austin",
+      "url": "https://www.laits.utexas.edu/aswaat/video_s.php",
+      "type": "web",
+      "levels": ["B1", "B2", "C1", "C2"],
+      "description": "Academic listening materials at 6 levels with speed control. Excellent leveled content, not YouTube but worth linking."
+    },
+    {
+      "name": "Al Jazeera Learning Platform",
+      "url": "https://learning.aljazeera.net/en",
+      "type": "web",
+      "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+      "description": "7-level structured Arabic course — separate from the YouTube channel, a full learning platform."
+    }
+  ]
+}
