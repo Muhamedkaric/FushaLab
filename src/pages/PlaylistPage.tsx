@@ -166,12 +166,14 @@ export function PlaylistPage({ channelId, playlistId }: Props) {
           <Typography variant="h5" fontWeight={700} mb={0.5}>
             {getPlaylistName()}
           </Typography>
-          <Stack direction="row" alignItems="center" gap={1} mb={3}>
-            <OndemandVideoIcon sx={{ fontSize: 16, color: 'text.secondary' }} />
-            <Typography variant="body2" color="text.secondary">
-              {allVideos.length} {t.listening.videos}
-            </Typography>
-          </Stack>
+          {allVideos.length > 0 && (
+            <Stack direction="row" alignItems="center" gap={1} mb={3}>
+              <OndemandVideoIcon sx={{ fontSize: 16, color: 'text.secondary' }} />
+              <Typography variant="body2" color="text.secondary">
+                {allVideos.length} {t.listening.videos}
+              </Typography>
+            </Stack>
+          )}
         </motion.div>
       )}
 

@@ -25,7 +25,7 @@ export interface ListeningPlaylist {
   locale: ListeningLocale
   descriptionBs: string
   descriptionEn: string
-  videoCount: number
+  videoCount?: number
   coverVideoId: string
 }
 

@@ -240,12 +240,14 @@ export function ChannelPage({ channelId }: Props) {
                           {getPlaylistDesc(pl)}
                         </Typography>
 
-                        <Stack direction="row" alignItems="center" gap={0.5} color="text.disabled">
-                          <OndemandVideoIcon sx={{ fontSize: 14 }} />
-                          <Typography variant="caption">
-                            {pl.videoCount} {t.listening.videos}
-                          </Typography>
-                        </Stack>
+                        {!!pl.videoCount && pl.videoCount > 0 && (
+                          <Stack direction="row" alignItems="center" gap={0.5} color="text.disabled">
+                            <OndemandVideoIcon sx={{ fontSize: 14 }} />
+                            <Typography variant="caption">
+                              {pl.videoCount} {t.listening.videos}
+                            </Typography>
+                          </Stack>
+                        )}
                       </CardContent>
                     </CardActionArea>
                   </Card>
