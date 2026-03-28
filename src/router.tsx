@@ -10,6 +10,8 @@ import { ReadingPage } from './pages/ReadingPage'
 import { LevelPage } from './pages/LevelPage'
 import { ReaderPage } from './pages/ReaderPage'
 import { ListeningPage } from './pages/ListeningPage'
+import { ChannelPage } from './pages/ChannelPage'
+import { PlaylistPage } from './pages/PlaylistPage'
 import { VocabularyPage } from './pages/VocabularyPage'
 import { ConversationPage } from './pages/ConversationPage'
 import { ExercisesPage } from './pages/ExercisesPage'
@@ -74,11 +76,31 @@ const readerRoute = createRoute({
   },
 })
 
-// Listening
+// Listening — channel overview
 const listeningRoute = createRoute({
   getParentRoute: () => shellRoute,
   path: '/listening',
   component: ListeningPage,
+})
+
+// Listening — channel playlists
+const channelRoute = createRoute({
+  getParentRoute: () => shellRoute,
+  path: '/listening/$channelId',
+  component: function ChannelRouteComponent() {
+    const { channelId } = channelRoute.useParams()
+    return <ChannelPage channelId={channelId} />
+  },
+})
+
+// Listening — playlist videos
+const playlistRoute = createRoute({
+  getParentRoute: () => shellRoute,
+  path: '/listening/$channelId/$playlistId',
+  component: function PlaylistRouteComponent() {
+    const { channelId, playlistId } = playlistRoute.useParams()
+    return <PlaylistPage channelId={channelId} playlistId={playlistId} />
+  },
 })
 
 // Vocabulary
@@ -116,6 +138,8 @@ const routeTree = rootRoute.addChildren([
     levelRoute,
     readerRoute,
     listeningRoute,
+    channelRoute,
+    playlistRoute,
     vocabularyRoute,
     conversationRoute,
     exercisesRoute,

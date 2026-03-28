@@ -69,6 +69,22 @@ export interface Translations {
     language: string
     subscribers: string
     comingSoon: string
+    backToChannels: string
+    backToPlaylists: string
+    playlists: string
+    videos: string
+    noVideos: string
+    level: string
+    filterAll: string
+    filterBs: string
+    filterEn: string
+    selectVideo: string
+    noContentForLocale: string
+    approach: {
+      structuredCourse: string
+      authenticInput: string
+      mixed: string
+    }
   }
   vocabulary: {
     title: string
@@ -197,7 +213,7 @@ export const en: Translations = {
   },
   listening: {
     title: 'Listening Practice',
-    subtitle: 'Curated YouTube channels for MSA learners',
+    subtitle: 'Curated YouTube courses in Modern Standard Arabic',
     tier1: 'Recommended',
     tier2: 'Good',
     tier3: 'Authentic Input',
@@ -205,6 +221,22 @@ export const en: Translations = {
     language: 'Language',
     subscribers: 'subscribers',
     comingSoon: 'Embedded player coming soon',
+    backToChannels: 'Channels',
+    backToPlaylists: 'Playlists',
+    playlists: 'Playlists',
+    videos: 'Videos',
+    noVideos: 'No videos added yet',
+    level: 'Level',
+    filterAll: 'All',
+    filterBs: 'Bosnian',
+    filterEn: 'English',
+    selectVideo: 'Select a video to start watching',
+    noContentForLocale: 'No content available for this language yet',
+    approach: {
+      structuredCourse: 'Structured Course',
+      authenticInput: 'Authentic Input',
+      mixed: 'Mixed',
+    },
   },
   vocabulary: {
     title: 'Vocabulary',
