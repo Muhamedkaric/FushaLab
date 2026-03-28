@@ -110,6 +110,8 @@ if (apiKeys.length === 0) {
 
 let currentKeyIndex = 0
 const exhaustedKeys = new Set<number>()
+let consecutiveWaits = 0
+const MAX_CONSECUTIVE_WAITS = 1
 
 function nextAvailableKey(): number | null {
   for (let i = 0; i < apiKeys.length; i++) {
@@ -139,6 +141,7 @@ async function generateWithRetry(prompt: string): Promise<string> {
     try {
       const result = await gemini.generateContent(prompt)
       consecutiveRateLimits = 0
+      consecutiveWaits = 0
       return result.response.text()
     } catch (err) {
       if (err instanceof GoogleGenerativeAIResponseError) {
@@ -157,7 +160,24 @@ async function generateWithRetry(prompt: string): Promise<string> {
       if (!(err instanceof GoogleGenerativeAIFetchError)) throw err
 
       if (err.status === 503) {
-        throw new Error('ALL_KEYS_EXHAUSTED')
+        // Transient service error — try next key, or wait and retry if all tried
+        consecutiveRateLimits++
+        currentKeyIndex = (keyIdx + 1) % apiKeys.length
+        const availableKeys = apiKeys.length - exhaustedKeys.size
+        if (consecutiveRateLimits >= availableKeys) {
+          consecutiveWaits++
+          if (consecutiveWaits > MAX_CONSECUTIVE_WAITS) {
+            throw new Error('ALL_KEYS_EXHAUSTED')
+          }
+          console.log(`  ⏳ All keys returning 503 — waiting 30s before retry...`)
+          await new Promise(r => setTimeout(r, 30_000))
+          consecutiveRateLimits = 0
+        } else {
+          const nextIdx = nextAvailableKey()!
+          console.log(`  ⚠️  503 on key ${keyIdx + 1} — switching to key ${nextIdx + 1}...`)
+          currentKeyIndex = nextIdx
+        }
+        continue
       }
 
       if (err.status === 429) {
@@ -182,13 +202,22 @@ async function generateWithRetry(prompt: string): Promise<string> {
           continue
         }
 
-        // Per-minute rate limit — count how many keys we've tried this round
+        // Per-minute rate limit — rotate to next available key
         consecutiveRateLimits++
+        currentKeyIndex = (keyIdx + 1) % apiKeys.length
         const availableKeys = apiKeys.length - exhaustedKeys.size
         if (consecutiveRateLimits >= availableKeys) {
-          throw new Error('ALL_KEYS_EXHAUSTED')
+          consecutiveWaits++
+          if (consecutiveWaits > MAX_CONSECUTIVE_WAITS) {
+            console.log(`  ⛔ Keys keep rate-limiting after ${MAX_CONSECUTIVE_WAITS} waits — treating as daily exhausted`)
+            throw new Error('ALL_KEYS_EXHAUSTED')
+          }
+          console.log(`  ⏳ All ${availableKeys} keys rate-limited — waiting 60s before retry (${consecutiveWaits}/${MAX_CONSECUTIVE_WAITS})...`)
+          await new Promise(r => setTimeout(r, 60_000))
+          consecutiveRateLimits = 0
+          continue
         }
-        const nextIdx = (keyIdx + 1) % apiKeys.length
+        const nextIdx = nextAvailableKey()!
         console.log(`  🔑 Rate limited on key ${keyIdx + 1} — switching to key ${nextIdx + 1}...`)
         currentKeyIndex = nextIdx
         continue
