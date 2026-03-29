@@ -3,7 +3,26 @@ import { join, resolve } from 'path'
 
 // ── Types ────────────────────────────────────────────────────────────────────
 
-export type Category = 'travel' | 'culture' | 'news' | 'literature' | 'religion'
+export type Category =
+  | 'travel'
+  | 'culture'
+  | 'news'
+  | 'literature'
+  | 'religion'
+  | 'health'
+  | 'work'
+  | 'technology'
+  | 'social'
+  | 'food'
+  | 'education'
+  | 'finance'
+  | 'mysteries'
+  | 'history'
+  | 'psychology'
+  | 'conversations'
+  | 'idioms'
+  | 'stories'
+  | 'opinions'
 export type Level = 'B1' | 'B2' | 'C1' | 'C2'
 
 export interface GeneratedItem {
@@ -54,6 +73,34 @@ export const CATEGORY_TOPICS: Record<Category, string> = {
     'poetry, storytelling, classical Arabic literature, prose, metaphor, imagery, Quran-inspired language',
   religion:
     'Islamic practice, prayer, Quran (with ayah references), authentic hadiths from Sahih Bukhari or Sahih Muslim, the lives and rulings of the Companions, aqeedah (creed), fiqh (jurisprudence), ethics, seerah (Prophetic biography), and scholarly explanations from Ibn Uthaymeen, Ibn Baz, al-Albani, Ibn Taymiyyah, Ibn al-Qayyim, or Imam al-Bukhari — Sunni mainstream only, no Sufi mysticism, no Shia content',
+  health:
+    'physical health, nutrition, exercise, medicine, hospitals, pharmacies, mental wellness, healthy habits, preventive care, first aid',
+  work:
+    'careers, workplace, professions, job interviews, productivity, entrepreneurship, office life, teamwork, professional skills, work-life balance',
+  technology:
+    'computers, internet, artificial intelligence, smartphones, software, innovation, cybersecurity, digital tools, programming, modern tech in the Arab world',
+  social:
+    'social media platforms, online communication, digital communities, content creation, internet culture, privacy, screen time, online news, influencers',
+  food:
+    'halal cuisine, cooking, recipes, Arab traditional food, markets, restaurants, ingredients, food culture, nutrition — only halal food and drink, no pork or alcohol',
+  education:
+    'schools, universities, learning, study habits, academic life, scholarships, teachers, curricula, libraries, lifelong learning',
+  finance:
+    'personal budgeting, business, trade, markets, economics, Islamic finance, saving, investment, banking, entrepreneurship, financial literacy',
+  mysteries:
+    'detective stories, historical mysteries, unsolved cases, investigative journalism, scientific puzzles, archaeological discoveries — rational and investigative only, no occult or superstition',
+  history:
+    'world history, Arab and Islamic civilisation, ancient civilisations, historical events, empires, archaeology, historical figures, the Islamic Golden Age',
+  psychology:
+    'human behaviour, mental health, cognitive science, emotions, motivation, decision-making, personality, communication, self-improvement, social psychology',
+  conversations:
+    'everyday dialogues, greetings, social interactions, formal discussions, phone calls, negotiations, debates, interviews, expressing opinions',
+  idioms:
+    'Arabic proverbs (أمثال), common idiomatic expressions, figurative language, cultural sayings, metaphors — explain meaning and origin',
+  stories:
+    'short narratives, folk tales, moral fables, anecdotes, parables, fictional vignettes — self-contained stories with a clear beginning, middle, and end',
+  opinions:
+    'editorials, viewpoints, argumentative essays, commentary on society, science, education, and environment — balanced, reasoned perspectives',
 }
 
 // ── Paths ────────────────────────────────────────────────────────────────────
@@ -137,6 +184,18 @@ export function writeItems(
 
 // ── Prompt ────────────────────────────────────────────────────────────────────
 
+// Applies to every category — content must be halal even when not explicitly Islamic
+const HALAL_FILTER = `
+HALAL CONTENT FILTER (mandatory for ALL categories):
+- Never mention alcohol, wine, beer, or any intoxicant
+- Never mention pork, lard, or any pork-derived ingredient
+- Never include sexual content, romantic immodesty, or immoral relationships
+- Never include gambling, lotteries, or interest-based (riba) financial schemes
+- Never reference Christmas, Easter, Diwali, Hanukkah, or other non-Islamic religious celebrations
+- Never include idol worship, polytheism, superstition, fortune-telling, or occult themes
+- Texts do not need to be Islamic in subject — they just need to be free of haram content
+  (e.g., "She enjoys cooking lentil soup" is fine; "He poured himself a glass of wine" is not)`
+
 const RELIGION_EXTRA = `
 RELIGION-SPECIFIC REQUIREMENTS:
 - DO NOT include any Quranic ayat — there is zero tolerance for mistakes in Quranic text
@@ -166,6 +225,7 @@ STRICT REQUIREMENTS:
 6. Bosnian translation should use correct Bosnian grammar and vocabulary
 7. Each text must be on a different specific topic within the category
 8. Tags: 2–4 short English descriptors relevant to the text content
+${HALAL_FILTER}
 ${religionSection}
 Return ONLY a valid JSON array — no explanation, no markdown, no code blocks.
 Format:
@@ -218,7 +278,12 @@ export interface Args {
   model: string
 }
 
-const VALID_CATEGORIES: Category[] = ['travel', 'culture', 'news', 'literature', 'religion']
+const VALID_CATEGORIES: Category[] = [
+  'travel', 'culture', 'news', 'literature', 'religion',
+  'health', 'work', 'technology', 'social', 'food', 'education',
+  'finance', 'mysteries', 'history', 'psychology',
+  'conversations', 'idioms', 'stories', 'opinions',
+]
 const VALID_LEVELS: Level[] = ['B1', 'B2', 'C1', 'C2']
 
 export function parseArgs(defaults: { model: string }): Args {

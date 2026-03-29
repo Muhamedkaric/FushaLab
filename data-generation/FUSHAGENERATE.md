@@ -17,7 +17,7 @@ Examples:
 - `fushagenerate C1 travel 20` → generate 20 travel items at C1
 - `fushagenerate B1 all 20` → generate 20 items for every category at B1
 
-**"all" expands to**: travel, culture, news, literature, religion (in that order)
+**"all" expands to**: travel, culture, news, literature, religion, health, work, technology, social, food, education, finance, mysteries, history, psychology, conversations, idioms, stories, opinions (in that order)
 
 ---
 
@@ -111,15 +111,44 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
 
 ---
 
+## Halal content filter (all categories)
+
+Every generated text must be halal-compliant regardless of category. The content does not need to be Islamic — it just must not contain haram elements:
+
+- No alcohol, wine, beer, or intoxicants
+- No pork or pork-derived ingredients
+- No sexual content or immodest themes
+- No gambling or riba (interest-based finance)
+- No non-Islamic religious celebrations (Christmas, Easter, Diwali, etc.)
+- No idol worship, polytheism, superstition, fortune-telling, or occult themes
+
+**Rule of thumb**: "She enjoys cooking lentil soup" ✓ — "He poured himself a glass of wine" ✗
+
+---
+
 ## Category topics
 
-| Category   | Topics |
-|------------|--------|
-| travel     | travel, tourism, transportation, accommodation, airports, cities, sightseeing, maps, booking |
-| culture    | Arab culture, traditions, food, music, art, history, customs, festivals, family life, hospitality |
-| news       | current events, politics, economy, technology, environment, international relations, society |
-| literature | poetry, storytelling, classical Arabic literature, prose, metaphor, imagery |
-| religion   | see Religion section below |
+| Category      | Topics |
+|---------------|--------|
+| travel        | travel, tourism, transportation, accommodation, airports, cities, sightseeing, maps, booking |
+| culture       | Arab culture, traditions, food, music, art, history, customs, festivals, family life, hospitality |
+| news          | current events, politics, economy, technology, environment, international relations, society |
+| literature    | poetry, storytelling, classical Arabic literature, prose, metaphor, imagery |
+| religion      | see Religion section below |
+| health        | physical health, nutrition, exercise, medicine, hospitals, pharmacies, mental wellness, healthy habits, preventive care |
+| work          | careers, workplace, professions, job interviews, productivity, entrepreneurship, office life, teamwork |
+| technology    | computers, internet, AI, smartphones, software, innovation, cybersecurity, digital tools, programming |
+| social        | social media platforms, online communication, digital communities, content creation, internet culture, privacy, screen time |
+| food          | halal cuisine, cooking, recipes, Arab traditional food, markets, restaurants, nutrition (halal only) |
+| education     | schools, universities, learning, study habits, academic life, scholarships, teachers, libraries |
+| finance       | budgeting, business, trade, markets, economics, Islamic finance, saving, investment, financial literacy |
+| mysteries     | detective stories, historical mysteries, unsolved cases, investigative journalism, scientific puzzles (rational only, no occult) |
+| history       | world history, Arab and Islamic civilisation, ancient civilisations, historical events, archaeology |
+| psychology    | human behaviour, mental health, cognitive science, emotions, motivation, decision-making, self-improvement |
+| conversations | everyday dialogues, greetings, social interactions, formal discussions, debates, phone calls, interviews |
+| idioms        | Arabic proverbs (أمثال), idiomatic expressions, figurative language, cultural sayings — explain meaning and origin |
+| stories       | short narratives, folk tales, moral fables, anecdotes, parables — self-contained with clear beginning, middle, end |
+| opinions      | editorials, viewpoints, argumentative essays, commentary on society, science, education, environment |
 
 ---
 
