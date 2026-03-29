@@ -35,6 +35,20 @@ export interface Translations {
     news: string
     literature: string
     religion: string
+    health: string
+    work: string
+    technology: string
+    social: string
+    food: string
+    education: string
+    finance: string
+    mysteries: string
+    history: string
+    psychology: string
+    conversations: string
+    idioms: string
+    stories: string
+    opinions: string
   }
   levels: { B1: string; B2: string; C1: string; C2: string }
   reader: {
@@ -51,6 +65,8 @@ export interface Translations {
     completed: string
     showCompleted: string
     hideCompleted: string
+    noContent: string
+    textsTotal: string
   }
   difficulty: {
     label: string
@@ -182,6 +198,20 @@ export const en: Translations = {
     news: 'News',
     literature: 'Literature',
     religion: 'Religion',
+    health: 'Health',
+    work: 'Work',
+    technology: 'Technology',
+    social: 'Social Media',
+    food: 'Food',
+    education: 'Education',
+    finance: 'Finance',
+    mysteries: 'Mysteries',
+    history: 'History',
+    psychology: 'Psychology',
+    conversations: 'Conversations',
+    idioms: 'Idioms & Proverbs',
+    stories: 'Short Stories',
+    opinions: 'Opinions',
   },
   levels: {
     B1: 'B1 – Intermediate',
@@ -203,6 +233,8 @@ export const en: Translations = {
     completed: 'Completed',
     showCompleted: 'Show completed',
     hideCompleted: 'Hide completed',
+    noContent: 'Coming soon',
+    textsTotal: 'texts',
   },
   difficulty: {
     label: 'How was this text?',

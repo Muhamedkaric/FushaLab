@@ -1,5 +1,24 @@
 export type Level = 'B1' | 'B2' | 'C1' | 'C2'
-export type Category = 'travel' | 'culture' | 'news' | 'literature' | 'religion'
+export type Category =
+  | 'travel'
+  | 'culture'
+  | 'news'
+  | 'literature'
+  | 'religion'
+  | 'health'
+  | 'work'
+  | 'technology'
+  | 'social'
+  | 'food'
+  | 'education'
+  | 'finance'
+  | 'mysteries'
+  | 'history'
+  | 'psychology'
+  | 'conversations'
+  | 'idioms'
+  | 'stories'
+  | 'opinions'
 export type DifficultyRating = 'easy' | 'medium' | 'hard' | null
 
 export interface ContentMetadata {
