@@ -228,14 +228,12 @@ export function writeItems(
     }
   }
 
-  // Update index.json — arabic field = sentences[0].arabic (UI preview)
+  // Update index.json — arabic field = first 10 words of sentences[0].arabic (UI preview only)
   const index = readIndex(category, level)
   for (const item of written) {
-    index.items.push({
-      id: item.id,
-      arabic: item.sentences[0]?.arabic ?? '',
-      metadata: item.metadata,
-    })
+    const firstArabic = item.sentences[0]?.arabic ?? ''
+    const preview = firstArabic.split(' ').slice(0, 10).join(' ')
+    index.items.push({ id: item.id, arabic: preview, metadata: item.metadata })
   }
   const indexPath = join(dir, 'index.json')
   writeFileSync(indexPath, JSON.stringify(index, null, 2))
