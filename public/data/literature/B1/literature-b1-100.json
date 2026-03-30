@@ -2,9 +2,33 @@
   "id": "literature-b1-100",
   "category": "literature",
   "level": "B1",
-  "arabic": "اللُّغَةُ الْعَرَبِيَّةُ لُغَةٌ غَنِيَّةٌ بِالْمُفْرَدَاتِ وَالْمَعَانِي. كُلُّ كَلِمَةٍ لَهَا أَصْلٌ وَجَذْرٌ لُغَوِيٌّ وَاضِحٌ. يَدْرُسُ الطُّلَّابُ قَوَاعِدَ النَّحْوِ لِكِتَابَةِ جُمَلٍ صَحِيحَةٍ. جَمَالُ الْفُصْحَى يَظْهَرُ فِي الْقُرْآنِ الْكَرِيمِ وَالْأَدَبِ. نَحْنُ نُحِبُّ تَعَلُّمَ هَذِهِ اللُّغَةِ الْعَرِيقَةِ كُلَّ يَوْمٍ.",
-  "translation": "Arapski jezik je jezik bogat rječnikom i značenjima. Svaka riječ ima jasan lingvistički korijen i porijeklo. Studenti uče pravila gramatike kako bi pisali ispravne rečenice. Ljepota književnog jezika (Fusha) se pojavljuje u Časnom Kur'anu i književnosti. Volimo učiti ovaj drevni jezik svaki dan.",
-  "translationEn": "The Arabic language is a language rich in vocabulary and meanings. Every word has a clear linguistic root and origin. Students study grammar rules to write correct sentences. The beauty of Fusha appears in the Holy Quran and literature. We love learning this ancient language every day.",
+  "sentences": [
+    {
+      "arabic": "اللُّغَةُ الْعَرَبِيَّةُ لُغَةٌ غَنِيَّةٌ بِالْمُفْرَدَاتِ وَالْمَعَانِي.",
+      "translation": "Arapski jezik je jezik bogat rječnikom i značenjima.",
+      "translationEn": "The Arabic language is a language rich in vocabulary and meanings."
+    },
+    {
+      "arabic": "كُلُّ كَلِمَةٍ لَهَا أَصْلٌ وَجَذْرٌ لُغَوِيٌّ وَاضِحٌ.",
+      "translation": "Svaka riječ ima jasan lingvistički korijen i porijeklo.",
+      "translationEn": "Every word has a clear linguistic root and origin."
+    },
+    {
+      "arabic": "يَدْرُسُ الطُّلَّابُ قَوَاعِدَ النَّحْوِ لِكِتَابَةِ جُمَلٍ صَحِيحَةٍ.",
+      "translation": "Studenti uče pravila gramatike kako bi pisali ispravne rečenice.",
+      "translationEn": "Students study grammar rules to write correct sentences."
+    },
+    {
+      "arabic": "جَمَالُ الْفُصْحَى يَظْهَرُ فِي الْقُرْآنِ الْكَرِيمِ وَالْأَدَبِ.",
+      "translation": "Ljepota književnog jezika (Fusha) se pojavljuje u Časnom Kur'anu i književnosti.",
+      "translationEn": "The beauty of Fusha appears in the Holy Quran and literature."
+    },
+    {
+      "arabic": "نَحْنُ نُحِبُّ تَعَلُّمَ هَذِهِ اللُّغَةِ الْعَرِيقَةِ كُلَّ يَوْمٍ.",
+      "translation": "Volimo učiti ovaj drevni jezik svaki dan.",
+      "translationEn": "We love learning this ancient language every day."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

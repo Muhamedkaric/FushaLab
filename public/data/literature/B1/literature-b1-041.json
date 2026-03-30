@@ -2,9 +2,33 @@
   "id": "literature-b1-041",
   "category": "literature",
   "level": "B1",
-  "arabic": "كَانَ الشِّعْرُ قَدِيمًا هُوَ دِيوَانُ الْعَرَبِ. فِيهِ يَكْتُبُ الشُّعَرَاءُ عَنْ مَشَاعِرِهِمْ وَطَبِيعَةِ بِلَادِهِمْ. يَسْتَخْدِمُ الشَّاعِرُ كَلِمَاتٍ جَمِيلَةً وَمُوسِيقَى خَاصَّةً. الْيَوْمَ، نَقْرَأُ الْقَصَائِدَ لِنَفْهَمَ تَارِيخَ اللُّغَةِ الْعَرَبِيَّةِ. نَحْنُ نُحِبُّ الْقَافِيَةَ وَالْوَزْنَ فِي هَذِهِ الْأَبْيَاتِ.",
-  "translation": "Poezija je historijski bila arhiv Arapa. U njoj pjesnici pišu o svojim osjećanjima i prirodi svoje zemlje. Pjesnik koristi lijepe riječi i posebnu muziku. Danas čitamo pjesme kako bismo razumjeli historiju arapskog jezika. Volimo rimu i metriku u ovim stihovima.",
-  "translationEn": "Poetry was historically the record of the Arabs. In it, poets write about their feelings and the nature of their lands. The poet uses beautiful words and special music. Today, we read poems to understand the history of the Arabic language. We love the rhyme and meter in these verses.",
+  "sentences": [
+    {
+      "arabic": "كَانَ الشِّعْرُ قَدِيمًا هُوَ دِيوَانُ الْعَرَبِ.",
+      "translation": "Poezija je historijski bila arhiv Arapa.",
+      "translationEn": "Poetry was historically the record of the Arabs."
+    },
+    {
+      "arabic": "فِيهِ يَكْتُبُ الشُّعَرَاءُ عَنْ مَشَاعِرِهِمْ وَطَبِيعَةِ بِلَادِهِمْ.",
+      "translation": "U njoj pjesnici pišu o svojim osjećanjima i prirodi svoje zemlje.",
+      "translationEn": "In it, poets write about their feelings and the nature of their lands."
+    },
+    {
+      "arabic": "يَسْتَخْدِمُ الشَّاعِرُ كَلِمَاتٍ جَمِيلَةً وَمُوسِيقَى خَاصَّةً.",
+      "translation": "Pjesnik koristi lijepe riječi i posebnu muziku.",
+      "translationEn": "The poet uses beautiful words and special music."
+    },
+    {
+      "arabic": "الْيَوْمَ، نَقْرَأُ الْقَصَائِدَ لِنَفْهَمَ تَارِيخَ اللُّغَةِ الْعَرَبِيَّةِ.",
+      "translation": "Danas čitamo pjesme kako bismo razumjeli historiju arapskog jezika.",
+      "translationEn": "Today, we read poems to understand the history of the Arabic language."
+    },
+    {
+      "arabic": "نَحْنُ نُحِبُّ الْقَافِيَةَ وَالْوَزْنَ فِي هَذِهِ الْأَبْيَاتِ.",
+      "translation": "Volimo rimu i metriku u ovim stihovima.",
+      "translationEn": "We love the rhyme and meter in these verses."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

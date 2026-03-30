@@ -2,9 +2,33 @@
   "id": "news-b1-038",
   "category": "news",
   "level": "B1",
-  "arabic": "زَادَتْ أَسْعَارُ الْمَوَادِّ الْغِذَائِيَّةِ فِي الْأَسْوَاقِ الْمَحَلِّيَّةِ هَذَا الشَّهْرَ. يَبْحَثُ النَّاسُ عَنِ السِّلَعِ الرَّخِيصَةِ لِتَوْفِيرِ الْمَالِ. تَقُولُ الْحُكُومَةُ إِنَّ السَّبَبَ هُوَ ارْتِفَاعُ تَكَالِيفِ النَّقْلِ. يَجْتَمِعُ التُّجَّارُ لِمُنَاقَشَةِ كَيْفِيَّةِ خَفْضِ الْأَسْعَارِ لِلْمُوَاطِنِينَ. يُفَضِّلُ الْبَعْضُ شِرَاءَ الْمُنْتَجَاتِ الْوَطَنِيَّةِ لِدَعْمِ الِاقْتِصَادِ.",
-  "translation": "Cijene prehrambenih proizvoda na lokalnim tržištima porasle su ovog mjeseca. Ljudi traže jeftinu robu kako bi uštedjeli novac. Vlada kaže da je razlog tome porast troškova transporta. Trgovci se sastaju kako bi razgovarali o tome kako sniziti cijene za građane. Neki radije kupuju domaće proizvode kako bi podržali ekonomiju.",
-  "translationEn": "Food prices in local markets have increased this month. People are looking for cheap goods to save money. The government says the reason is the rise in transportation costs. Merchants are meeting to discuss how to lower prices for citizens. Some prefer to buy national products to support the economy.",
+  "sentences": [
+    {
+      "arabic": "زَادَتْ أَسْعَارُ الْمَوَادِّ الْغِذَائِيَّةِ فِي الْأَسْوَاقِ الْمَحَلِّيَّةِ هَذَا الشَّهْرَ.",
+      "translation": "Cijene prehrambenih proizvoda na lokalnim tržištima porasle su ovog mjeseca.",
+      "translationEn": "Food prices in local markets have increased this month."
+    },
+    {
+      "arabic": "يَبْحَثُ النَّاسُ عَنِ السِّلَعِ الرَّخِيصَةِ لِتَوْفِيرِ الْمَالِ.",
+      "translation": "Ljudi traže jeftinu robu kako bi uštedjeli novac.",
+      "translationEn": "People are looking for cheap goods to save money."
+    },
+    {
+      "arabic": "تَقُولُ الْحُكُومَةُ إِنَّ السَّبَبَ هُوَ ارْتِفَاعُ تَكَالِيفِ النَّقْلِ.",
+      "translation": "Vlada kaže da je razlog tome porast troškova transporta.",
+      "translationEn": "The government says the reason is the rise in transportation costs."
+    },
+    {
+      "arabic": "يَجْتَمِعُ التُّجَّارُ لِمُنَاقَشَةِ كَيْفِيَّةِ خَفْضِ الْأَسْعَارِ لِلْمُوَاطِنِينَ.",
+      "translation": "Trgovci se sastaju kako bi razgovarali o tome kako sniziti cijene za građane.",
+      "translationEn": "Merchants are meeting to discuss how to lower prices for citizens."
+    },
+    {
+      "arabic": "يُفَضِّلُ الْبَعْضُ شِرَاءَ الْمُنْتَجَاتِ الْوَطَنِيَّةِ لِدَعْمِ الِاقْتِصَادِ.",
+      "translation": "Neki radije kupuju domaće proizvode kako bi podržali ekonomiju.",
+      "translationEn": "Some prefer to buy national products to support the economy."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

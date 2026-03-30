@@ -2,9 +2,33 @@
   "id": "news-b1-092",
   "category": "news",
   "level": "B1",
-  "arabic": "بَدَأَتِ الْمَدَارِسُ فِي اسْتِخْدَامِ تَقْنِيَاتِ الذَّكَاءِ الِاصْطِنَاعِيِّ لِمُسَاعَدَةِ الطُّلَّابِ. يُسَاعِدُ هَذَا النِّظَامُ الْمُعَلِّمِينَ فِي تَنْظِيمِ الدُّرُوسِ بِشَكْلٍ أَفْضَلَ. كَمَا يُمْكِنُ لِلطُّلَّابِ الْحُصُولُ عَلَى إِجَابَاتٍ سَرِيعَةٍ لِأَسْئِلَتِهِمْ فِي أَيِّ وَقْتٍ. يَقُولُ الْمُدِيرُ إِنَّ التِّكْنُولُوجْيَا تُغَيِّرُ طَرِيقَةَ التَّعَلُّمِ نَحْوَ الْأَحْسَنِ. وَلَكِنْ، يَجِبُ عَلَى الْجَمِيعِ تَعَلُّمُ كَيْفِيَّةِ اسْتِخْدَامِ هَذِهِ الْأَدَوَاتِ بِحَذَرٍ.",
-  "translation": "Škole su počele koristiti tehnologije vještačke inteligencije kako bi pomogle učenicima. Ovaj sistem pomaže nastavnicima da bolje organizuju lekcije. Također, učenici mogu dobiti brze odgovore na svoja pitanja u bilo koje vrijeme. Direktor kaže da tehnologija mijenja način učenja nabolje. Ipak, svi moraju naučiti kako pažljivo koristiti ove alate.",
-  "translationEn": "Schools have started using artificial intelligence technologies to help students. This system helps teachers organize lessons better. Also, students can get quick answers to their questions at any time. The principal says that technology is changing the way of learning for the better. However, everyone must learn how to use these tools carefully.",
+  "sentences": [
+    {
+      "arabic": "بَدَأَتِ الْمَدَارِسُ فِي اسْتِخْدَامِ تَقْنِيَاتِ الذَّكَاءِ الِاصْطِنَاعِيِّ لِمُسَاعَدَةِ الطُّلَّابِ.",
+      "translation": "Škole su počele koristiti tehnologije vještačke inteligencije kako bi pomogle učenicima.",
+      "translationEn": "Schools have started using artificial intelligence technologies to help students."
+    },
+    {
+      "arabic": "يُسَاعِدُ هَذَا النِّظَامُ الْمُعَلِّمِينَ فِي تَنْظِيمِ الدُّرُوسِ بِشَكْلٍ أَفْضَلَ.",
+      "translation": "Ovaj sistem pomaže nastavnicima da bolje organizuju lekcije.",
+      "translationEn": "This system helps teachers organize lessons better."
+    },
+    {
+      "arabic": "كَمَا يُمْكِنُ لِلطُّلَّابِ الْحُصُولُ عَلَى إِجَابَاتٍ سَرِيعَةٍ لِأَسْئِلَتِهِمْ فِي أَيِّ وَقْتٍ.",
+      "translation": "Također, učenici mogu dobiti brze odgovore na svoja pitanja u bilo koje vrijeme.",
+      "translationEn": "Also, students can get quick answers to their questions at any time."
+    },
+    {
+      "arabic": "يَقُولُ الْمُدِيرُ إِنَّ التِّكْنُولُوجْيَا تُغَيِّرُ طَرِيقَةَ التَّعَلُّمِ نَحْوَ الْأَحْسَنِ.",
+      "translation": "Direktor kaže da tehnologija mijenja način učenja nabolje.",
+      "translationEn": "The principal says that technology is changing the way of learning for the better."
+    },
+    {
+      "arabic": "وَلَكِنْ، يَجِبُ عَلَى الْجَمِيعِ تَعَلُّمُ كَيْفِيَّةِ اسْتِخْدَامِ هَذِهِ الْأَدَوَاتِ بِحَذَرٍ.",
+      "translation": "Ipak, svi moraju naučiti kako pažljivo koristiti ove alate.",
+      "translationEn": "However, everyone must learn how to use these tools carefully."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

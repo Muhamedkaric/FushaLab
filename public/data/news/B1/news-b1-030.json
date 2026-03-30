@@ -2,11 +2,39 @@
   "id": "news-b1-030",
   "category": "news",
   "level": "B1",
-  "arabic": "أَجْرَتِ الْمَدِينَةُ تَمْرِينًا لِمُحَاكَاةِ الزَّلَازِلِ لِتَدْرِيبِ السُّكَّانِ عَلَى كَيْفِيَّةِ التَّصَرُّفِ فِي حَالَاتِ الطَّوَارِئِ. شَارَكَ فِي التَّمْرِينِ رِجَالُ الْإِطْفَاءِ وَالشُّرْطَةُ وَفِرَقُ الْإِسْعَافِ. تَعَلَّمَ الْمَوَاطِنُونَ كَيْفَ يَحْمُونَ أَنْفُسَهُمْ وَيُخَلِّصُونَ الْمَحَاصِرِينَ. قَالَ رَئِيسُ الدِّفَاعِ الْمَدَنِيِّ إِنَّ هَذَا التَّدْرِيبَ يُنْقِذُ الْأَرْوَاحَ حِينَ تَقَعُ الْكَوَارِثُ الْحَقِيقِيَّةُ. تَعْتَزِمُ الْحُكُومَةُ تَنْظِيمَ هَذَا التَّمْرِينِ مَرَّةً كُلَّ عَامٍ فِي جَمِيعِ الْمُدُنِ.",
-  "translation": "Grad je proveo vježbu simulacije zemljotresa kako bi obučio stanovnike kako da se ponašaju u vanrednim situacijama. U vježbi su učestvovali vatrogasci, policija i ekipe hitne pomoći. Građani su naučili kako da se zaštite i oslobode zarobljenih. Šef civilne zaštite rekao je da ova obuka spašava živote kada dođe do stvarnih katastrofa. Vlada namjerava organizovati ovu vježbu jednom godišnje u svim gradovima.",
-  "translationEn": "The city conducted an earthquake simulation drill to train residents on how to act in emergencies. Firefighters, police and ambulance teams took part in the drill. Citizens learned how to protect themselves and rescue those trapped. The head of civil defence said this training saves lives when real disasters strike. The government intends to organise this drill once a year in all cities.",
+  "sentences": [
+    {
+      "arabic": "أَجْرَتِ الْمَدِينَةُ تَمْرِينًا لِمُحَاكَاةِ الزَّلَازِلِ لِتَدْرِيبِ السُّكَّانِ عَلَى كَيْفِيَّةِ التَّصَرُّفِ فِي حَالَاتِ الطَّوَارِئِ.",
+      "translation": "Grad je proveo vježbu simulacije zemljotresa kako bi obučio stanovnike kako da se ponašaju u vanrednim situacijama.",
+      "translationEn": "The city conducted an earthquake simulation drill to train residents on how to act in emergencies."
+    },
+    {
+      "arabic": "شَارَكَ فِي التَّمْرِينِ رِجَالُ الْإِطْفَاءِ وَالشُّرْطَةُ وَفِرَقُ الْإِسْعَافِ.",
+      "translation": "U vježbi su učestvovali vatrogasci, policija i ekipe hitne pomoći.",
+      "translationEn": "Firefighters, police and ambulance teams took part in the drill."
+    },
+    {
+      "arabic": "تَعَلَّمَ الْمَوَاطِنُونَ كَيْفَ يَحْمُونَ أَنْفُسَهُمْ وَيُخَلِّصُونَ الْمَحَاصِرِينَ.",
+      "translation": "Građani su naučili kako da se zaštite i oslobode zarobljenih.",
+      "translationEn": "Citizens learned how to protect themselves and rescue those trapped."
+    },
+    {
+      "arabic": "قَالَ رَئِيسُ الدِّفَاعِ الْمَدَنِيِّ إِنَّ هَذَا التَّدْرِيبَ يُنْقِذُ الْأَرْوَاحَ حِينَ تَقَعُ الْكَوَارِثُ الْحَقِيقِيَّةُ.",
+      "translation": "Šef civilne zaštite rekao je da ova obuka spašava živote kada dođe do stvarnih katastrofa.",
+      "translationEn": "The head of civil defence said this training saves lives when real disasters strike."
+    },
+    {
+      "arabic": "تَعْتَزِمُ الْحُكُومَةُ تَنْظِيمَ هَذَا التَّمْرِينِ مَرَّةً كُلَّ عَامٍ فِي جَمِيعِ الْمُدُنِ.",
+      "translation": "Vlada namjerava organizovati ovu vježbu jednom godišnje u svim gradovima.",
+      "translationEn": "The government intends to organise this drill once a year in all cities."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["safety", "disaster", "civil defence"]
+    "tags": [
+      "safety",
+      "disaster",
+      "civil defence"
+    ]
   }
 }

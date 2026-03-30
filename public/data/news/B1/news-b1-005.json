@@ -2,8 +2,19 @@
   "id": "news-b1-005",
   "category": "news",
   "level": "B1",
-  "arabic": "أَعْلَنَتِ الشُّرْطَةُ عَنِ الْقَبْضِ عَلَى الْمُشْتَبَهِ بِهِ فِي قَضِيَّةِ السَّرِقَةِ.",
-  "translation": "Policija je objavila hapšenje osumnjičenog u predmetu krađe.",
-  "translationEn": "The police announced the arrest of the suspect in the theft case.",
-  "metadata": { "difficulty": 1, "tags": ["news", "crime", "police"] }
+  "sentences": [
+    {
+      "arabic": "أَعْلَنَتِ الشُّرْطَةُ عَنِ الْقَبْضِ عَلَى الْمُشْتَبَهِ بِهِ فِي قَضِيَّةِ السَّرِقَةِ.",
+      "translation": "Policija je objavila hapšenje osumnjičenog u predmetu krađe.",
+      "translationEn": "The police announced the arrest of the suspect in the theft case."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "news",
+      "crime",
+      "police"
+    ]
+  }
 }

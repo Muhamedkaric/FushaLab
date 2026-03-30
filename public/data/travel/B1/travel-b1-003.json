@@ -2,8 +2,18 @@
   "id": "travel-b1-003",
   "category": "travel",
   "level": "B1",
-  "arabic": "حَجَزْتُ غُرْفَةً فِي فُنْدُقٍ قَرِيبٍ مِنَ الْمَطَارِ.",
-  "translation": "Rezervisao sam sobu u hotelu blizu aerodroma.",
-  "translationEn": "I booked a room in a hotel near the airport.",
-  "metadata": { "difficulty": 1, "tags": ["travel", "accommodation"] }
+  "sentences": [
+    {
+      "arabic": "حَجَزْتُ غُرْفَةً فِي فُنْدُقٍ قَرِيبٍ مِنَ الْمَطَارِ.",
+      "translation": "Rezervisao sam sobu u hotelu blizu aerodroma.",
+      "translationEn": "I booked a room in a hotel near the airport."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "travel",
+      "accommodation"
+    ]
+  }
 }

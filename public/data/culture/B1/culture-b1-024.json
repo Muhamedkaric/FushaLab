@@ -2,11 +2,35 @@
   "id": "culture-b1-024",
   "category": "culture",
   "level": "B1",
-  "arabic": "الْعِطْرُ وَالْبُخُورُ جُزْءٌ مُهِمٌّ مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ. يُحِبُّ الْعَرَبُ الرَّوَائِحَ الطَّيِّبَةَ وَيَسْتَخْدِمُونَ الْعِطْرَ فِي كُلِّ مُنَاسَبَةٍ. يُشْعَلُ الْبُخُورُ فِي الْبُيُوتِ لِتَعْطِيرِ الْهَوَاءِ وَتَرْحِيبِ الضُّيُوفِ. مِنْ أَشْهَرِ أَنْوَاعِ الْبُخُورِ الْعُودُ الرَّائِحَةُ الثَّمِينَةُ الَّتِي تَأْتِي مِنَ الْخَشَبِ الْعَطِرِ.",
-  "translation": "Miris i tamjan važan su dio arapske kulture. Arapi vole lijepe mirise i koriste parfem u svakoj prigodi. Tamjan se pali u domovima kako bi se zrak mirisao i ugostili gosti. Jedna od najpoznatijih vrsta tamjana je oud, dragocjeni miris koji dolazi od mirisnog drveta.",
-  "translationEn": "Perfume and incense are an important part of Arab culture. Arabs love pleasant fragrances and use perfume on every occasion. Incense is burned in homes to scent the air and welcome guests. One of the most famous types of incense is oud, a precious fragrance that comes from aromatic wood.",
+  "sentences": [
+    {
+      "arabic": "الْعِطْرُ وَالْبُخُورُ جُزْءٌ مُهِمٌّ مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
+      "translation": "Miris i tamjan važan su dio arapske kulture.",
+      "translationEn": "Perfume and incense are an important part of Arab culture."
+    },
+    {
+      "arabic": "يُحِبُّ الْعَرَبُ الرَّوَائِحَ الطَّيِّبَةَ وَيَسْتَخْدِمُونَ الْعِطْرَ فِي كُلِّ مُنَاسَبَةٍ.",
+      "translation": "Arapi vole lijepe mirise i koriste parfem u svakoj prigodi.",
+      "translationEn": "Arabs love pleasant fragrances and use perfume on every occasion."
+    },
+    {
+      "arabic": "يُشْعَلُ الْبُخُورُ فِي الْبُيُوتِ لِتَعْطِيرِ الْهَوَاءِ وَتَرْحِيبِ الضُّيُوفِ.",
+      "translation": "Tamjan se pali u domovima kako bi se zrak mirisao i ugostili gosti.",
+      "translationEn": "Incense is burned in homes to scent the air and welcome guests."
+    },
+    {
+      "arabic": "مِنْ أَشْهَرِ أَنْوَاعِ الْبُخُورِ الْعُودُ الرَّائِحَةُ الثَّمِينَةُ الَّتِي تَأْتِي مِنَ الْخَشَبِ الْعَطِرِ.",
+      "translation": "Jedna od najpoznatijih vrsta tamjana je oud, dragocjeni miris koji dolazi od mirisnog drveta.",
+      "translationEn": "One of the most famous types of incense is oud, a precious fragrance that comes from aromatic wood."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["perfume", "incense", "oud", "hospitality"]
+    "tags": [
+      "perfume",
+      "incense",
+      "oud",
+      "hospitality"
+    ]
   }
 }

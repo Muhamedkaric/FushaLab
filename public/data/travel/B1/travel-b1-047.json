@@ -2,9 +2,33 @@
   "id": "travel-b1-047",
   "category": "travel",
   "level": "B1",
-  "arabic": "حَجَزْتُ غُرْفَةً مُنْفَرِدَةً فِي فُنْدُقٍ قَرِيبٍ مِنَ الْمَرْكَزِ. كَانَ مَوْظِفُ الِاسْتِقْبَالِ لَطِيفًا جِدًّا وَسَاعَدَنِي فِي حَمْلِ الْحَقَائِبِ. الْغُرْفَةُ نَظِيفَةٌ وَتُطِلُّ عَلَى الْبَحْرِ. تَنَاوَلْتُ فُطُورًا لَذِيذًا فِي مَطْعَمِ الْفُنْدُقِ. سَأَبْقَى هُنَا لِمُدَّةِ ثَلَاثَةِ أَيَّامٍ فَقَطْ.",
-  "translation": "Rezervisao sam jednokrevetnu sobu u hotelu blizu centra. Recepcioner je bio veoma ljubazan i pomogao mi je oko prtljaga. Soba je čista i gleda na more. Jeo sam ukusan doručak u hotelskom restoranu. Ovdje ću ostati samo tri dana.",
-  "translationEn": "I booked a single room in a hotel near the center. The receptionist was very kind and helped me carry the bags. The room is clean and overlooks the sea. I had a delicious breakfast in the hotel restaurant. I will stay here for only three days.",
+  "sentences": [
+    {
+      "arabic": "حَجَزْتُ غُرْفَةً مُنْفَرِدَةً فِي فُنْدُقٍ قَرِيبٍ مِنَ الْمَرْكَزِ.",
+      "translation": "Rezervisao sam jednokrevetnu sobu u hotelu blizu centra.",
+      "translationEn": "I booked a single room in a hotel near the center."
+    },
+    {
+      "arabic": "كَانَ مَوْظِفُ الِاسْتِقْبَالِ لَطِيفًا جِدًّا وَسَاعَدَنِي فِي حَمْلِ الْحَقَائِبِ.",
+      "translation": "Recepcioner je bio veoma ljubazan i pomogao mi je oko prtljaga.",
+      "translationEn": "The receptionist was very kind and helped me carry the bags."
+    },
+    {
+      "arabic": "الْغُرْفَةُ نَظِيفَةٌ وَتُطِلُّ عَلَى الْبَحْرِ.",
+      "translation": "Soba je čista i gleda na more.",
+      "translationEn": "The room is clean and overlooks the sea."
+    },
+    {
+      "arabic": "تَنَاوَلْتُ فُطُورًا لَذِيذًا فِي مَطْعَمِ الْفُنْدُقِ.",
+      "translation": "Jeo sam ukusan doručak u hotelskom restoranu.",
+      "translationEn": "I had a delicious breakfast in the hotel restaurant."
+    },
+    {
+      "arabic": "سَأَبْقَى هُنَا لِمُدَّةِ ثَلَاثَةِ أَيَّامٍ فَقَطْ.",
+      "translation": "Ovdje ću ostati samo tri dana.",
+      "translationEn": "I will stay here for only three days."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

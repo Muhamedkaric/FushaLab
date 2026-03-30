@@ -2,8 +2,39 @@
   "id": "news-b1-020",
   "category": "news",
   "level": "B1",
-  "arabic": "عَادَتِ الْأَمْطَارُ إِلَى مَنَاطِقِ تَعَانِي مِنَ الْجَفَافِ مُنْذُ سَنَوَاتٍ. فَرِحَ الْمُزَارِعُونَ بِهَذِهِ الْأَمْطَارِ لِأَنَّهَا أَنْقَذَتْ مَحَاصِيلَهُمْ. امْتَلَأَتِ الْأَنْهَارُ وَالْبُحَيْرَاتُ الصَّغِيرَةُ بِالْمَاءِ مِنْ جَدِيدٍ. قَالَ أَحَدُ الْمُزَارِعِينَ إِنَّهُ لَمْ يَرَ مَطَرًا كَهَذَا مُنْذُ عَشْرِ سَنَوَاتٍ. تَأْمَلُ الْقُرَى أَنْ تَعُودَ الزِّرَاعَةُ إِلَى طَبِيعَتِهَا وَأَنْ يَعِيشَ النَّاسُ بِحَالٍ أَفْضَلَ.",
-  "translation": "Kiše su se vratile u područja koja pate od suše već godinama. Farmeri su bili sretni zbog ovih kiša jer su spasile njihove usjeve. Rijeke i mala jezera su se ponovo napunila vodom. Jedan od farmera rekao je da nije vidio ovakvu kišu već deset godina. Sela se nadaju da će se poljoprivreda vratiti u normalu i da će ljudi živjeti bolje.",
-  "translationEn": "Rain has returned to areas that have been suffering from drought for years. Farmers were happy about the rain because it saved their crops. Rivers and small lakes filled with water again. One farmer said he had not seen rain like this for ten years. Villages hope that farming will return to normal and that people will live better lives.",
-  "metadata": { "difficulty": 1, "tags": ["weather", "agriculture", "drought"] }
+  "sentences": [
+    {
+      "arabic": "عَادَتِ الْأَمْطَارُ إِلَى مَنَاطِقِ تَعَانِي مِنَ الْجَفَافِ مُنْذُ سَنَوَاتٍ.",
+      "translation": "Kiše su se vratile u područja koja pate od suše već godinama.",
+      "translationEn": "Rain has returned to areas that have been suffering from drought for years."
+    },
+    {
+      "arabic": "فَرِحَ الْمُزَارِعُونَ بِهَذِهِ الْأَمْطَارِ لِأَنَّهَا أَنْقَذَتْ مَحَاصِيلَهُمْ.",
+      "translation": "Farmeri su bili sretni zbog ovih kiša jer su spasile njihove usjeve.",
+      "translationEn": "Farmers were happy about the rain because it saved their crops."
+    },
+    {
+      "arabic": "امْتَلَأَتِ الْأَنْهَارُ وَالْبُحَيْرَاتُ الصَّغِيرَةُ بِالْمَاءِ مِنْ جَدِيدٍ.",
+      "translation": "Rijeke i mala jezera su se ponovo napunila vodom.",
+      "translationEn": "Rivers and small lakes filled with water again."
+    },
+    {
+      "arabic": "قَالَ أَحَدُ الْمُزَارِعِينَ إِنَّهُ لَمْ يَرَ مَطَرًا كَهَذَا مُنْذُ عَشْرِ سَنَوَاتٍ.",
+      "translation": "Jedan od farmera rekao je da nije vidio ovakvu kišu već deset godina.",
+      "translationEn": "One farmer said he had not seen rain like this for ten years."
+    },
+    {
+      "arabic": "تَأْمَلُ الْقُرَى أَنْ تَعُودَ الزِّرَاعَةُ إِلَى طَبِيعَتِهَا وَأَنْ يَعِيشَ النَّاسُ بِحَالٍ أَفْضَلَ.",
+      "translation": "Sela se nadaju da će se poljoprivreda vratiti u normalu i da će ljudi živjeti bolje.",
+      "translationEn": "Villages hope that farming will return to normal and that people will live better lives."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "weather",
+      "agriculture",
+      "drought"
+    ]
+  }
 }

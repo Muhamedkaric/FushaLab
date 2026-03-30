@@ -2,9 +2,33 @@
   "id": "news-b1-058",
   "category": "news",
   "level": "B1",
-  "arabic": "ارْتَفَعَتْ أَسْعَارُ المَوَادِّ الغِذَائِيَّةِ فِي الأَسْوَاقِ المَحَلِّيَّةِ. تَجِدُ العَائِلَاتُ صُعُوبَةً فِي شِرَاءِ كُلِّ مَا تَحْتَاجُ إِلَيْهِ. تَقُومُ الحُكُومَةُ بِدِرَاسَةِ الوَضْعِ الِاقْتِصَادِيِّ حَالِيًّا. يُحَاوِلُ التُّجَّارُ تَقْدِيمَ عُرُوضٍ لِجَذْبِ الزَّبَائِنِ. يَتَمَنَّى الجَمِيعُ أَنْ تَنْخَفِضَ الأَسْعَارُ فِي الشَّهْرِ القَادِمِ.",
-  "translation": "Cijene prehrambenih proizvoda u lokalnim marketima su porasle. Porodice teško kupuju sve što im je potrebno. Vlada trenutno proučava ekonomsku situaciju. Trgovci pokušavaju ponuditi akcije kako bi privukli kupce. Svi se nadaju da će cijene pasti sljedećeg mjeseca.",
-  "translationEn": "Food prices have risen in local markets. Families are finding it difficult to buy everything they need. The government is currently studying the economic situation. Merchants are trying to offer deals to attract customers. Everyone hopes that prices will decrease next month.",
+  "sentences": [
+    {
+      "arabic": "ارْتَفَعَتْ أَسْعَارُ المَوَادِّ الغِذَائِيَّةِ فِي الأَسْوَاقِ المَحَلِّيَّةِ.",
+      "translation": "Cijene prehrambenih proizvoda u lokalnim marketima su porasle.",
+      "translationEn": "Food prices have risen in local markets."
+    },
+    {
+      "arabic": "تَجِدُ العَائِلَاتُ صُعُوبَةً فِي شِرَاءِ كُلِّ مَا تَحْتَاجُ إِلَيْهِ.",
+      "translation": "Porodice teško kupuju sve što im je potrebno.",
+      "translationEn": "Families are finding it difficult to buy everything they need."
+    },
+    {
+      "arabic": "تَقُومُ الحُكُومَةُ بِدِرَاسَةِ الوَضْعِ الِاقْتِصَادِيِّ حَالِيًّا.",
+      "translation": "Vlada trenutno proučava ekonomsku situaciju.",
+      "translationEn": "The government is currently studying the economic situation."
+    },
+    {
+      "arabic": "يُحَاوِلُ التُّجَّارُ تَقْدِيمَ عُرُوضٍ لِجَذْبِ الزَّبَائِنِ.",
+      "translation": "Trgovci pokušavaju ponuditi akcije kako bi privukli kupce.",
+      "translationEn": "Merchants are trying to offer deals to attract customers."
+    },
+    {
+      "arabic": "يَتَمَنَّى الجَمِيعُ أَنْ تَنْخَفِضَ الأَسْعَارُ فِي الشَّهْرِ القَادِمِ.",
+      "translation": "Svi se nadaju da će cijene pasti sljedećeg mjeseca.",
+      "translationEn": "Everyone hopes that prices will decrease next month."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

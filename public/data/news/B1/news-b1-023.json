@@ -2,11 +2,39 @@
   "id": "news-b1-023",
   "category": "news",
   "level": "B1",
-  "arabic": "أَطْلَقَتِ الْحُكُومَةُ حَمْلَةً وَطَنِيَّةً لِإِعَادَةِ تَدْوِيرِ الْنِّفَايَاتِ فِي الْمَنَازِلِ وَالشَّوَارِعِ. وَزَّعَتِ الْبَلَدِيَّةُ حَاوِيَاتٍ مُلَوَّنَةً خَاصَّةً بِالْوَرَقِ وَالزُّجَاجِ وَالْبْلَاسْتِيكِ. شَارَكَ الْمُعَلِّمُونَ فِي تَوْعِيَةِ الطُّلَّابِ بِأَهَمِّيَّةِ إِعَادَةِ التَّدْوِيرِ. قَالَ الْمَسْؤُولُونَ إِنَّ الْهَدَفَ هُوَ تَقْلِيلُ كَمِّيَّةِ الْنِّفَايَاتِ الَّتِي تَصِلُ إِلَى مَكَبَّاتِ الْقُمَامَةِ. يَأْمَلُ الْمَسْؤُولُونَ أَنْ تُصْبِحَ الْمَدِينَةُ أَنْظَفَ وَأَصِحَّ لِلسُّكَّانِ.",
-  "translation": "Vlada je pokrenula nacionalnu kampanju za reciklažu otpada u domovima i na ulicama. Općina je podijelila posebne obojene kante za papir, staklo i plastiku. Nastavnici su učestvovali u podizanju svijesti učenika o važnosti recikliranja. Zvaničnici su rekli da je cilj smanjiti količinu otpada koji završava na deponijama. Zvaničnici se nadaju da će grad postati čistiji i zdraviji za stanovnike.",
-  "translationEn": "The government launched a national campaign for recycling waste in homes and on streets. The municipality distributed special colour-coded bins for paper, glass and plastic. Teachers took part in raising students' awareness of the importance of recycling. Officials said the goal is to reduce the amount of waste reaching landfills. Officials hope the city will become cleaner and healthier for its residents.",
+  "sentences": [
+    {
+      "arabic": "أَطْلَقَتِ الْحُكُومَةُ حَمْلَةً وَطَنِيَّةً لِإِعَادَةِ تَدْوِيرِ الْنِّفَايَاتِ فِي الْمَنَازِلِ وَالشَّوَارِعِ.",
+      "translation": "Vlada je pokrenula nacionalnu kampanju za reciklažu otpada u domovima i na ulicama.",
+      "translationEn": "The government launched a national campaign for recycling waste in homes and on streets."
+    },
+    {
+      "arabic": "وَزَّعَتِ الْبَلَدِيَّةُ حَاوِيَاتٍ مُلَوَّنَةً خَاصَّةً بِالْوَرَقِ وَالزُّجَاجِ وَالْبْلَاسْتِيكِ.",
+      "translation": "Općina je podijelila posebne obojene kante za papir, staklo i plastiku.",
+      "translationEn": "The municipality distributed special colour-coded bins for paper, glass and plastic."
+    },
+    {
+      "arabic": "شَارَكَ الْمُعَلِّمُونَ فِي تَوْعِيَةِ الطُّلَّابِ بِأَهَمِّيَّةِ إِعَادَةِ التَّدْوِيرِ.",
+      "translation": "Nastavnici su učestvovali u podizanju svijesti učenika o važnosti recikliranja.",
+      "translationEn": "Teachers took part in raising students' awareness of the importance of recycling."
+    },
+    {
+      "arabic": "قَالَ الْمَسْؤُولُونَ إِنَّ الْهَدَفَ هُوَ تَقْلِيلُ كَمِّيَّةِ الْنِّفَايَاتِ الَّتِي تَصِلُ إِلَى مَكَبَّاتِ الْقُمَامَةِ.",
+      "translation": "Zvaničnici su rekli da je cilj smanjiti količinu otpada koji završava na deponijama.",
+      "translationEn": "Officials said the goal is to reduce the amount of waste reaching landfills."
+    },
+    {
+      "arabic": "يَأْمَلُ الْمَسْؤُولُونَ أَنْ تُصْبِحَ الْمَدِينَةُ أَنْظَفَ وَأَصِحَّ لِلسُّكَّانِ.",
+      "translation": "Zvaničnici se nadaju da će grad postati čistiji i zdraviji za stanovnike.",
+      "translationEn": "Officials hope the city will become cleaner and healthier for its residents."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["environment", "recycling", "waste"]
+    "tags": [
+      "environment",
+      "recycling",
+      "waste"
+    ]
   }
 }

@@ -2,9 +2,33 @@
   "id": "news-b1-090",
   "category": "news",
   "level": "B1",
-  "arabic": "تَهْتَمُّ الدَّوْلَةُ بِتَحْسِينِ نِظَامِ الصِّحَّةِ وَالتَّعْلِيمِ. بَنَتِ الحُكُومَةُ مَدَارِسَ حَدِيثَةً وَمُسْتَشْفَيَاتٍ كَبِيرَةً. يَتَعَلَّمُ الأَطْفَالُ القِرَاءَةَ وَالكِتَابَةَ فِي سِنٍّ مُبَكِّرَةٍ. أَيْضاً، تُقَدِّمُ العِيَادَاتُ خِدْمَاتٍ طِبِّيَّةً مَجَّانِيَّةً لِلْمُوَاطِنِينَ. هَذِهِ الخِدْمَاتُ تُسَاعِدُ فِي بِنَاءِ مُجْتَمَعٍ قَوِيٍّ.",
-  "translation": "Država je zainteresovana za poboljšanje zdravstvenog i obrazovnog sistema. Vlada je izgradila moderne škole i velike bolnice. Djeca uče čitati i pisati u ranom uzrastu. Također, klinike pružaju besplatne medicinske usluge građanima. Ove usluge pomažu u izgradnji snažnog društva.",
-  "translationEn": "The state is interested in improving the health and education system. The government built modern schools and large hospitals. Children learn reading and writing at an early age. Also, clinics provide free medical services to citizens. These services help in building a strong society.",
+  "sentences": [
+    {
+      "arabic": "تَهْتَمُّ الدَّوْلَةُ بِتَحْسِينِ نِظَامِ الصِّحَّةِ وَالتَّعْلِيمِ.",
+      "translation": "Država je zainteresovana za poboljšanje zdravstvenog i obrazovnog sistema.",
+      "translationEn": "The state is interested in improving the health and education system."
+    },
+    {
+      "arabic": "بَنَتِ الحُكُومَةُ مَدَارِسَ حَدِيثَةً وَمُسْتَشْفَيَاتٍ كَبِيرَةً.",
+      "translation": "Vlada je izgradila moderne škole i velike bolnice.",
+      "translationEn": "The government built modern schools and large hospitals."
+    },
+    {
+      "arabic": "يَتَعَلَّمُ الأَطْفَالُ القِرَاءَةَ وَالكِتَابَةَ فِي سِنٍّ مُبَكِّرَةٍ.",
+      "translation": "Djeca uče čitati i pisati u ranom uzrastu.",
+      "translationEn": "Children learn reading and writing at an early age."
+    },
+    {
+      "arabic": "أَيْضاً، تُقَدِّمُ العِيَادَاتُ خِدْمَاتٍ طِبِّيَّةً مَجَّانِيَّةً لِلْمُوَاطِنِينَ.",
+      "translation": "Također, klinike pružaju besplatne medicinske usluge građanima.",
+      "translationEn": "Also, clinics provide free medical services to citizens."
+    },
+    {
+      "arabic": "هَذِهِ الخِدْمَاتُ تُسَاعِدُ فِي بِنَاءِ مُجْتَمَعٍ قَوِيٍّ.",
+      "translation": "Ove usluge pomažu u izgradnji snažnog društva.",
+      "translationEn": "These services help in building a strong society."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

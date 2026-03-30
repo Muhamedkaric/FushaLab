@@ -2,9 +2,33 @@
   "id": "news-b1-076",
   "category": "news",
   "level": "B1",
-  "arabic": "أَعْلَنَتْ وَزَارَةُ التَّعْلِيمِ عَنْ مَشْرُوعٍ جَدِيدٍ. يَسْتَخْدِمُ هَذَا الْمَشْرُوعُ الذَّكَاءَ الِاصْطِنَاعِيَّ فِي الْمَدَارِسِ. يُسَاعِدُ النِّظَامُ التَّلَامِيذَ عَلَى فَهْمِ الدُّرُوسِ بِسُهُولَةٍ. كَمَا يُوَفِّرُ لِلْمُعَلِّمِينَ أَدَوَاتٍ حَدِيثَةً لِلتَّقْيِيمِ. يَهْدِفُ الْمَشْرُوعُ إِلَى تَطْوِيرِ مَهَارَاتِ الطُّلَّابِ التِّقْنِيَّةِ.",
-  "translation": "Ministarstvo obrazovanja najavilo je novi projekat. Ovaj projekat koristi vještačku inteligenciju u školama. Sistem pomaže učenicima da lakše razumiju lekcije. Također, nastavnicima pruža moderne alate za ocjenjivanje. Projekat ima za cilj razvoj tehničkih vještina učenika.",
-  "translationEn": "The Ministry of Education announced a new project. This project uses artificial intelligence in schools. The system helps students understand lessons easily. It also provides teachers with modern assessment tools. The project aims to develop students' technical skills.",
+  "sentences": [
+    {
+      "arabic": "أَعْلَنَتْ وَزَارَةُ التَّعْلِيمِ عَنْ مَشْرُوعٍ جَدِيدٍ.",
+      "translation": "Ministarstvo obrazovanja najavilo je novi projekat.",
+      "translationEn": "The Ministry of Education announced a new project."
+    },
+    {
+      "arabic": "يَسْتَخْدِمُ هَذَا الْمَشْرُوعُ الذَّكَاءَ الِاصْطِنَاعِيَّ فِي الْمَدَارِسِ.",
+      "translation": "Ovaj projekat koristi vještačku inteligenciju u školama.",
+      "translationEn": "This project uses artificial intelligence in schools."
+    },
+    {
+      "arabic": "يُسَاعِدُ النِّظَامُ التَّلَامِيذَ عَلَى فَهْمِ الدُّرُوسِ بِسُهُولَةٍ.",
+      "translation": "Sistem pomaže učenicima da lakše razumiju lekcije.",
+      "translationEn": "The system helps students understand lessons easily."
+    },
+    {
+      "arabic": "كَمَا يُوَفِّرُ لِلْمُعَلِّمِينَ أَدَوَاتٍ حَدِيثَةً لِلتَّقْيِيمِ.",
+      "translation": "Također, nastavnicima pruža moderne alate za ocjenjivanje.",
+      "translationEn": "It also provides teachers with modern assessment tools."
+    },
+    {
+      "arabic": "يَهْدِفُ الْمَشْرُوعُ إِلَى تَطْوِيرِ مَهَارَاتِ الطُّلَّابِ التِّقْنِيَّةِ.",
+      "translation": "Projekat ima za cilj razvoj tehničkih vještina učenika.",
+      "translationEn": "The project aims to develop students' technical skills."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

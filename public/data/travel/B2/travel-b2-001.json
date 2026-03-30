@@ -2,8 +2,19 @@
   "id": "travel-b2-001",
   "category": "travel",
   "level": "B2",
-  "arabic": "تَتَمَيَّزُ الْمَدِينَةُ الْقَدِيمَةُ فِي مَرَّاكُشَ بِأَسْوَاقِهَا الشَّعْبِيَّةِ الصَّاخِبَةِ وَرَوَائِحِ الْبَهَارَاتِ الْمُنْعِشَةِ.",
-  "translation": "Stari grad u Marakechu odlikuje se živahnim narodnim pijacama i osvježavajućim mirisima začina.",
-  "translationEn": "The old city of Marrakech is characterised by its lively popular markets and the refreshing aromas of spices.",
-  "metadata": { "difficulty": 2, "tags": ["travel", "culture", "Morocco"] }
+  "sentences": [
+    {
+      "arabic": "تَتَمَيَّزُ الْمَدِينَةُ الْقَدِيمَةُ فِي مَرَّاكُشَ بِأَسْوَاقِهَا الشَّعْبِيَّةِ الصَّاخِبَةِ وَرَوَائِحِ الْبَهَارَاتِ الْمُنْعِشَةِ.",
+      "translation": "Stari grad u Marakechu odlikuje se živahnim narodnim pijacama i osvježavajućim mirisima začina.",
+      "translationEn": "The old city of Marrakech is characterised by its lively popular markets and the refreshing aromas of spices."
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "tags": [
+      "travel",
+      "culture",
+      "Morocco"
+    ]
+  }
 }

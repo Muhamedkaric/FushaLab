@@ -2,11 +2,39 @@
   "id": "culture-b2-019",
   "category": "culture",
   "level": "B2",
-  "arabic": "يَحْتَلُّ فَنُّ صِنَاعَةِ السِّجَادِ الْيَدَوِيِّ مَكَانَةً بَارِزَةً فِي تُرَاثِ دُوَلٍ عَرَبِيَّةٍ عِدَّةٍ كَالْمَغْرِبِ وَإِيرَانَ وَتُرْكِيَا الَّتِي تَتَقَاطَعُ ثَقَافَاتُهَا فِي هَذَا الْمَجَالِ. تَتَضَمَّنُ كُلُّ قِطْعَةٍ لُغَةً بَصَرِيَّةً خَاصَّةً بِهَا، إِذْ تُعَبِّرُ الرُّمُوزُ وَالْأَلْوَانُ وَالْأَشْكَالُ الْهَنْدَسِيَّةُ عَنِ انْتِمَاءٍ قَبَلِيٍّ أَوْ حِكْمَةٍ مَوْرُوثَةٍ أَوْ حَدَثٍ بِعَيْنِهِ. يَسْتَغْرِقُ نَسْجُ سِجَادَةٍ كَبِيرَةٍ أَشْهُرًا بَلْ سَنَوَاتٍ مِنَ الْعَمَلِ الدَّءُوبِ. وَيُشَكِّلُ تَسْوِيقُ هَذِهِ الصَّنَائِعِ فِي الْأَسْوَاقِ الدَّوْلِيَّةِ رَافِدًا اقْتِصَادِيًّا مُهِمًّا لِلْمُجْتَمَعَاتِ الْحِرَفِيَّةِ. تُعَانِي الصِّنَاعَةُ الْيَوْمَ مِنْ مُنَافَسَةِ الْمُنْتَجَاتِ الْمُصَنَّعَةِ بِالْآلَاتِ الَّتِي تُهَدِّدُ بِمَحْوِ الْهُوِيَّةِ الْفَرِيدَةِ لِهَذَا الْفَنِّ الْعَرِيقِ.",
-  "translation": "Zanat ručnog tkanja tepiha zauzima istaknuto mjesto u baštini više arapskih zemalja poput Maroka, Irana i Turske čije se kulture u ovoj oblasti isprepliću. Svaki komad sadrži vlastiti vizualni jezik — simboli, boje i geometrijski oblici izražavaju plemensku pripadnost, naslijeđenu mudrost ili određeni događaj. Tkanje velikog tepiha traje mjesecima, čak godinama marljivog rada. Marketing ovih zanata na međunarodnim tržištima važan je ekonomski oslonac za zanatske zajednice. Industrija danas trpi konkurenciju strojno izrađenih proizvoda koji prijete brisanjem jedinstvenog identiteta ove drevne umjetnosti.",
-  "translationEn": "The craft of handmade carpet weaving holds a prominent place in the heritage of several Arab countries such as Morocco, Iran, and Turkey, whose cultures intersect in this field. Each piece contains its own visual language — symbols, colours, and geometric shapes express tribal affiliation, inherited wisdom, or a specific event. Weaving a large carpet takes months or even years of diligent work. Marketing these crafts in international markets is an important economic support for artisan communities. The industry today suffers from competition from machine-made products that threaten to erase the unique identity of this ancient art.",
+  "sentences": [
+    {
+      "arabic": "يَحْتَلُّ فَنُّ صِنَاعَةِ السِّجَادِ الْيَدَوِيِّ مَكَانَةً بَارِزَةً فِي تُرَاثِ دُوَلٍ عَرَبِيَّةٍ عِدَّةٍ كَالْمَغْرِبِ وَإِيرَانَ وَتُرْكِيَا الَّتِي تَتَقَاطَعُ ثَقَافَاتُهَا فِي هَذَا الْمَجَالِ.",
+      "translation": "Zanat ručnog tkanja tepiha zauzima istaknuto mjesto u baštini više arapskih zemalja poput Maroka, Irana i Turske čije se kulture u ovoj oblasti isprepliću.",
+      "translationEn": "The craft of handmade carpet weaving holds a prominent place in the heritage of several Arab countries such as Morocco, Iran, and Turkey, whose cultures intersect in this field."
+    },
+    {
+      "arabic": "تَتَضَمَّنُ كُلُّ قِطْعَةٍ لُغَةً بَصَرِيَّةً خَاصَّةً بِهَا، إِذْ تُعَبِّرُ الرُّمُوزُ وَالْأَلْوَانُ وَالْأَشْكَالُ الْهَنْدَسِيَّةُ عَنِ انْتِمَاءٍ قَبَلِيٍّ أَوْ حِكْمَةٍ مَوْرُوثَةٍ أَوْ حَدَثٍ بِعَيْنِهِ.",
+      "translation": "Svaki komad sadrži vlastiti vizualni jezik — simboli, boje i geometrijski oblici izražavaju plemensku pripadnost, naslijeđenu mudrost ili određeni događaj.",
+      "translationEn": "Each piece contains its own visual language — symbols, colours, and geometric shapes express tribal affiliation, inherited wisdom, or a specific event."
+    },
+    {
+      "arabic": "يَسْتَغْرِقُ نَسْجُ سِجَادَةٍ كَبِيرَةٍ أَشْهُرًا بَلْ سَنَوَاتٍ مِنَ الْعَمَلِ الدَّءُوبِ.",
+      "translation": "Tkanje velikog tepiha traje mjesecima, čak godinama marljivog rada.",
+      "translationEn": "Weaving a large carpet takes months or even years of diligent work."
+    },
+    {
+      "arabic": "وَيُشَكِّلُ تَسْوِيقُ هَذِهِ الصَّنَائِعِ فِي الْأَسْوَاقِ الدَّوْلِيَّةِ رَافِدًا اقْتِصَادِيًّا مُهِمًّا لِلْمُجْتَمَعَاتِ الْحِرَفِيَّةِ.",
+      "translation": "Marketing ovih zanata na međunarodnim tržištima važan je ekonomski oslonac za zanatske zajednice.",
+      "translationEn": "Marketing these crafts in international markets is an important economic support for artisan communities."
+    },
+    {
+      "arabic": "تُعَانِي الصِّنَاعَةُ الْيَوْمَ مِنْ مُنَافَسَةِ الْمُنْتَجَاتِ الْمُصَنَّعَةِ بِالْآلَاتِ الَّتِي تُهَدِّدُ بِمَحْوِ الْهُوِيَّةِ الْفَرِيدَةِ لِهَذَا الْفَنِّ الْعَرِيقِ.",
+      "translation": "Industrija danas trpi konkurenciju strojno izrađenih proizvoda koji prijete brisanjem jedinstvenog identiteta ove drevne umjetnosti.",
+      "translationEn": "The industry today suffers from competition from machine-made products that threaten to erase the unique identity of this ancient art."
+    }
+  ],
   "metadata": {
     "difficulty": 2,
-    "tags": ["carpet", "handicrafts", "traditions"]
+    "tags": [
+      "carpet",
+      "handicrafts",
+      "traditions"
+    ]
   }
 }

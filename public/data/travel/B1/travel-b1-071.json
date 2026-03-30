@@ -2,9 +2,33 @@
   "id": "travel-b1-071",
   "category": "travel",
   "level": "B1",
-  "arabic": "أَحْبَبْتُ السَّيْرَ فِي الطَّبِيعَةِ فَذَهَبْتُ إِلَى جَبَلٍ قَرِيبٍ مِنَ الْمَدِينَةِ. كَانَ الْمَسَارُ مَعْرُوفًا وَمُخَصَّصًا لِلْمُتَنَزِّهِينَ. مَشَيْتُ لِمُدَّةِ سَاعَتَيْنِ بَيْنَ الأَشْجَارِ وَالصُّخُورِ. وَصَلْتُ إِلَى الْقِمَّةِ وَرَأَيْتُ الْمَدِينَةَ مِنْ بَعِيدٍ. كَانَ الْمَنْظَرُ رَائِعًا وَشَعَرْتُ بِرَاحَةٍ كَبِيرَةٍ بَعِيدًا عَنِ الضَّوْضَاءِ.",
-  "translation": "Volio sam šetati u prirodi pa sam otišao na obližnju planinu. Staza je bila poznata i namijenjena pješačima. Hodao sam dva sata između drveća i stijena. Stigao sam na vrh i vidio grad izdaleka. Pogled je bio predivan i osjećao sam se odlično daleko od buke.",
-  "translationEn": "I loved walking in nature, so I went to a mountain near the city. The trail was well-known and designated for hikers. I walked for two hours among trees and rocks. I reached the summit and saw the city from afar. The view was magnificent and I felt a great sense of peace away from the noise.",
+  "sentences": [
+    {
+      "arabic": "أَحْبَبْتُ السَّيْرَ فِي الطَّبِيعَةِ فَذَهَبْتُ إِلَى جَبَلٍ قَرِيبٍ مِنَ الْمَدِينَةِ.",
+      "translation": "Volio sam šetati u prirodi pa sam otišao na obližnju planinu.",
+      "translationEn": "I loved walking in nature, so I went to a mountain near the city."
+    },
+    {
+      "arabic": "كَانَ الْمَسَارُ مَعْرُوفًا وَمُخَصَّصًا لِلْمُتَنَزِّهِينَ.",
+      "translation": "Staza je bila poznata i namijenjena pješačima.",
+      "translationEn": "The trail was well-known and designated for hikers."
+    },
+    {
+      "arabic": "مَشَيْتُ لِمُدَّةِ سَاعَتَيْنِ بَيْنَ الأَشْجَارِ وَالصُّخُورِ.",
+      "translation": "Hodao sam dva sata između drveća i stijena.",
+      "translationEn": "I walked for two hours among trees and rocks."
+    },
+    {
+      "arabic": "وَصَلْتُ إِلَى الْقِمَّةِ وَرَأَيْتُ الْمَدِينَةَ مِنْ بَعِيدٍ.",
+      "translation": "Stigao sam na vrh i vidio grad izdaleka.",
+      "translationEn": "I reached the summit and saw the city from afar."
+    },
+    {
+      "arabic": "كَانَ الْمَنْظَرُ رَائِعًا وَشَعَرْتُ بِرَاحَةٍ كَبِيرَةٍ بَعِيدًا عَنِ الضَّوْضَاءِ.",
+      "translation": "Pogled je bio predivan i osjećao sam se odlično daleko od buke.",
+      "translationEn": "The view was magnificent and I felt a great sense of peace away from the noise."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

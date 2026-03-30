@@ -2,9 +2,33 @@
   "id": "news-b1-072",
   "category": "news",
   "level": "B1",
-  "arabic": "أَصْبَحَ الذَّكَاءُ الِاصْطِنَاعِيُّ جُزْءًا مُهِمًّا مِنْ حَيَاتِنَا الْيَوْمِيَّةِ. يَسْتَخْدِمُ الطُّلَّابُ التَّقْنِيَاتِ الْحَدِيثَةَ لِتَسْهِيلِ الدِّرَاسَةِ وَالْبَحْثِ. تُطَوِّرُ الشَّرِكَاتُ بَرَامِجَ ذَكِيَّةً لِمُسَاعَدَةِ النَّاسِ فِي أَعْمَالِهِمْ. هَذِهِ التَّطَوُّرَاتُ تُغَيِّرُ طَرِيقَةَ عَمَلِنَا وَتَوَاصُلِنَا. يَعْتَقِدُ الْخُبَرَاءُ أَنَّ التِّكْنُولُوجِيَا سَتَسْتَمِرُّ فِي النُّمُوِّ السَّرِيعِ.",
-  "translation": "Vještačka inteligencija postala je važan dio našeg svakodnevnog života. Studenti koriste moderne tehnologije kako bi olakšali učenje i istraživanje. Kompanije razvijaju pametne programe kako bi pomogle ljudima u njihovim poslovima. Ovi razvoji mijenjaju način na koji radimo i komuniciramo. Stručnjaci vjeruju da će tehnologija nastaviti sa brzim rastom.",
-  "translationEn": "Artificial intelligence has become an important part of our daily lives. Students use modern technologies to facilitate studying and research. Companies are developing smart programs to help people in their work. These developments are changing the way we work and communicate. Experts believe that technology will continue to grow rapidly.",
+  "sentences": [
+    {
+      "arabic": "أَصْبَحَ الذَّكَاءُ الِاصْطِنَاعِيُّ جُزْءًا مُهِمًّا مِنْ حَيَاتِنَا الْيَوْمِيَّةِ.",
+      "translation": "Vještačka inteligencija postala je važan dio našeg svakodnevnog života.",
+      "translationEn": "Artificial intelligence has become an important part of our daily lives."
+    },
+    {
+      "arabic": "يَسْتَخْدِمُ الطُّلَّابُ التَّقْنِيَاتِ الْحَدِيثَةَ لِتَسْهِيلِ الدِّرَاسَةِ وَالْبَحْثِ.",
+      "translation": "Studenti koriste moderne tehnologije kako bi olakšali učenje i istraživanje.",
+      "translationEn": "Students use modern technologies to facilitate studying and research."
+    },
+    {
+      "arabic": "تُطَوِّرُ الشَّرِكَاتُ بَرَامِجَ ذَكِيَّةً لِمُسَاعَدَةِ النَّاسِ فِي أَعْمَالِهِمْ.",
+      "translation": "Kompanije razvijaju pametne programe kako bi pomogle ljudima u njihovim poslovima.",
+      "translationEn": "Companies are developing smart programs to help people in their work."
+    },
+    {
+      "arabic": "هَذِهِ التَّطَوُّرَاتُ تُغَيِّرُ طَرِيقَةَ عَمَلِنَا وَتَوَاصُلِنَا.",
+      "translation": "Ovi razvoji mijenjaju način na koji radimo i komuniciramo.",
+      "translationEn": "These developments are changing the way we work and communicate."
+    },
+    {
+      "arabic": "يَعْتَقِدُ الْخُبَرَاءُ أَنَّ التِّكْنُولُوجِيَا سَتَسْتَمِرُّ فِي النُّمُوِّ السَّرِيعِ.",
+      "translation": "Stručnjaci vjeruju da će tehnologija nastaviti sa brzim rastom.",
+      "translationEn": "Experts believe that technology will continue to grow rapidly."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

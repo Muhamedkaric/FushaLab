@@ -2,9 +2,33 @@
   "id": "travel-b1-069",
   "category": "travel",
   "level": "B1",
-  "arabic": "وَصَلْتُ إِلَى مَحَطَّةِ الْحَافِلَاتِ وَبَحَثْتُ عَنِ الرَّصِيفِ الصَّحِيحِ. قَرَأْتُ لَوْحَةَ الْمَوَاعِيدِ وَوَجَدْتُ أَنَّ الْحَافِلَةَ سَتَنْطَلِقُ بَعْدَ رُبْعِ سَاعَةٍ. اشْتَرَيْتُ التَّذْكِرَةَ مِنَ الشِّبَّاكِ وَجَلَسْتُ فِي غُرْفَةِ الِانْتِظَارِ. صَعِدْتُ الْحَافِلَةَ وَوَجَدْتُ مَقْعَدًا بِجَانِبِ النَّافِذَةِ. اسْتَمْتَعْتُ بِمَنْظَرِ الطَّرِيقِ طَوَالَ الرِّحْلَةِ.",
-  "translation": "Stigao sam na autobusku stanicu i tražio pravi peron. Pročitao sam tablu s rasporedom i saznao da autobus polazi za petnaest minuta. Kupio sam kartu na šalteru i sjeo u čekaonicu. Ukrcao sam se u autobus i pronašao mjesto pored prozora. Uživao sam u pogledu na put tokom čitave vožnje.",
-  "translationEn": "I arrived at the bus station and looked for the right platform. I read the timetable board and found that the bus was leaving in fifteen minutes. I bought a ticket at the counter and sat in the waiting room. I boarded the bus and found a window seat. I enjoyed the view of the road throughout the journey.",
+  "sentences": [
+    {
+      "arabic": "وَصَلْتُ إِلَى مَحَطَّةِ الْحَافِلَاتِ وَبَحَثْتُ عَنِ الرَّصِيفِ الصَّحِيحِ.",
+      "translation": "Stigao sam na autobusku stanicu i tražio pravi peron.",
+      "translationEn": "I arrived at the bus station and looked for the right platform."
+    },
+    {
+      "arabic": "قَرَأْتُ لَوْحَةَ الْمَوَاعِيدِ وَوَجَدْتُ أَنَّ الْحَافِلَةَ سَتَنْطَلِقُ بَعْدَ رُبْعِ سَاعَةٍ.",
+      "translation": "Pročitao sam tablu s rasporedom i saznao da autobus polazi za petnaest minuta.",
+      "translationEn": "I read the timetable board and found that the bus was leaving in fifteen minutes."
+    },
+    {
+      "arabic": "اشْتَرَيْتُ التَّذْكِرَةَ مِنَ الشِّبَّاكِ وَجَلَسْتُ فِي غُرْفَةِ الِانْتِظَارِ.",
+      "translation": "Kupio sam kartu na šalteru i sjeo u čekaonicu.",
+      "translationEn": "I bought a ticket at the counter and sat in the waiting room."
+    },
+    {
+      "arabic": "صَعِدْتُ الْحَافِلَةَ وَوَجَدْتُ مَقْعَدًا بِجَانِبِ النَّافِذَةِ.",
+      "translation": "Ukrcao sam se u autobus i pronašao mjesto pored prozora.",
+      "translationEn": "I boarded the bus and found a window seat."
+    },
+    {
+      "arabic": "اسْتَمْتَعْتُ بِمَنْظَرِ الطَّرِيقِ طَوَالَ الرِّحْلَةِ.",
+      "translation": "Uživao sam u pogledu na put tokom čitave vožnje.",
+      "translationEn": "I enjoyed the view of the road throughout the journey."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

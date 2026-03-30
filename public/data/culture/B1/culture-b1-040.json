@@ -2,9 +2,33 @@
   "id": "culture-b1-040",
   "category": "culture",
   "level": "B1",
-  "arabic": "الْفَالُوذَجُ حَلْوَى شَعْبِيَّةٌ فِي بَعْضِ الدُّوَلِ الْعَرَبِيَّةِ. يُصْنَعُ مِنَ الأَرُزِّ وَالْحَلِيبِ وَمَاءِ الْوَرْدِ وَالسُّكَّرِ. يُقَدَّمُ بَارِدًا فِي الْأَطْبَاقِ وَيُزَيَّنُ بِالْفِسْتُقِ. كَثِيرًا مَا يُؤْكَلُ فِي رَمَضَانَ أَوِ الأَعْيَادِ. الْحَلْوَيَاتُ الْعَرَبِيَّةُ جُزْءٌ لَا يَتَجَزَّأُ مِنَ الاحْتِفَالَاتِ.",
-  "translation": "Faloodeh je popularna slastica u nekim arapskim zemljama. Pravi se od riže, mlijeka, ružine vode i šećera. Servira se hladno u tanjirima i ukrašena pistacijama. Često se jede u ramazanu ili tokom praznika. Arapske slastice su neodvojivi dio proslava.",
-  "translationEn": "Faloodeh is a popular sweet in some Arab countries. It is made from rice, milk, rose water, and sugar. It is served cold in dishes and garnished with pistachios. It is often eaten during Ramadan or celebrations. Arab sweets are an inseparable part of festivities.",
+  "sentences": [
+    {
+      "arabic": "الْفَالُوذَجُ حَلْوَى شَعْبِيَّةٌ فِي بَعْضِ الدُّوَلِ الْعَرَبِيَّةِ.",
+      "translation": "Faloodeh je popularna slastica u nekim arapskim zemljama.",
+      "translationEn": "Faloodeh is a popular sweet in some Arab countries."
+    },
+    {
+      "arabic": "يُصْنَعُ مِنَ الأَرُزِّ وَالْحَلِيبِ وَمَاءِ الْوَرْدِ وَالسُّكَّرِ.",
+      "translation": "Pravi se od riže, mlijeka, ružine vode i šećera.",
+      "translationEn": "It is made from rice, milk, rose water, and sugar."
+    },
+    {
+      "arabic": "يُقَدَّمُ بَارِدًا فِي الْأَطْبَاقِ وَيُزَيَّنُ بِالْفِسْتُقِ.",
+      "translation": "Servira se hladno u tanjirima i ukrašena pistacijama.",
+      "translationEn": "It is served cold in dishes and garnished with pistachios."
+    },
+    {
+      "arabic": "كَثِيرًا مَا يُؤْكَلُ فِي رَمَضَانَ أَوِ الأَعْيَادِ.",
+      "translation": "Često se jede u ramazanu ili tokom praznika.",
+      "translationEn": "It is often eaten during Ramadan or celebrations."
+    },
+    {
+      "arabic": "الْحَلْوَيَاتُ الْعَرَبِيَّةُ جُزْءٌ لَا يَتَجَزَّأُ مِنَ الاحْتِفَالَاتِ.",
+      "translation": "Arapske slastice su neodvojivi dio proslava.",
+      "translationEn": "Arab sweets are an inseparable part of festivities."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

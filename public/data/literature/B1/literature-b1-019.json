@@ -2,11 +2,40 @@
   "id": "literature-b1-019",
   "category": "literature",
   "level": "B1",
-  "arabic": "كَانَ الصَّيَّادُ يَجْلِسُ مَعَ أَوْلَادِهِ كُلَّ لَيْلَةٍ عِنْدَ الشَّاطِئِ. كَانَ يَحْكِي لَهُمْ عَنِ الْبَحْرِ الْعَظِيمِ وَأَسْرَارِهِ الْخَفِيَّةِ. قَالَ لَهُمْ إِنَّ الْبَحْرَ يُعَلِّمُ الصَّبْرَ وَالشَّجَاعَةَ وَالتَّوَاضُعَ. كَانَ الأَطْفَالُ يَسْتَمِعُونَ وَعُيُونُهُمْ تَلْمَعُ فِي ضَوْءِ النَّارِ. نَامُوا عَلَى الرَّمْلِ وَفِي قُلُوبِهِمْ حُبٌّ لِلْبَحْرِ وَحَنِينٌ لِلْمَغَامَرَةِ.",
-  "translation": "Ribar bi svake večeri sjedio sa svojom djecom na obali. Pričao im je o velikom moru i njegovim skrivenim tajnama. Govorio im je da more uči strpljenju, hrabrosti i skromnosti. Djeca su slušala, a oči su im se sjajile u svjetlosti vatre. Zaspali su na pijesku s ljubavlju prema moru i čežnjom za pustolovinom u srcima.",
-  "translationEn": "The fisherman would sit with his children by the shore every evening. He would tell them about the great sea and its hidden secrets. He told them that the sea teaches patience, courage, and humility. The children listened with eyes glistening in the firelight. They fell asleep on the sand with love for the sea and a longing for adventure in their hearts.",
+  "sentences": [
+    {
+      "arabic": "كَانَ الصَّيَّادُ يَجْلِسُ مَعَ أَوْلَادِهِ كُلَّ لَيْلَةٍ عِنْدَ الشَّاطِئِ.",
+      "translation": "Ribar bi svake večeri sjedio sa svojom djecom na obali.",
+      "translationEn": "The fisherman would sit with his children by the shore every evening."
+    },
+    {
+      "arabic": "كَانَ يَحْكِي لَهُمْ عَنِ الْبَحْرِ الْعَظِيمِ وَأَسْرَارِهِ الْخَفِيَّةِ.",
+      "translation": "Pričao im je o velikom moru i njegovim skrivenim tajnama.",
+      "translationEn": "He would tell them about the great sea and its hidden secrets."
+    },
+    {
+      "arabic": "قَالَ لَهُمْ إِنَّ الْبَحْرَ يُعَلِّمُ الصَّبْرَ وَالشَّجَاعَةَ وَالتَّوَاضُعَ.",
+      "translation": "Govorio im je da more uči strpljenju, hrabrosti i skromnosti.",
+      "translationEn": "He told them that the sea teaches patience, courage, and humility."
+    },
+    {
+      "arabic": "كَانَ الأَطْفَالُ يَسْتَمِعُونَ وَعُيُونُهُمْ تَلْمَعُ فِي ضَوْءِ النَّارِ.",
+      "translation": "Djeca su slušala, a oči su im se sjajile u svjetlosti vatre.",
+      "translationEn": "The children listened with eyes glistening in the firelight."
+    },
+    {
+      "arabic": "نَامُوا عَلَى الرَّمْلِ وَفِي قُلُوبِهِمْ حُبٌّ لِلْبَحْرِ وَحَنِينٌ لِلْمَغَامَرَةِ.",
+      "translation": "Zaspali su na pijesku s ljubavlju prema moru i čežnjom za pustolovinom u srcima.",
+      "translationEn": "They fell asleep on the sand with love for the sea and a longing for adventure in their hearts."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["storytelling", "sea", "family", "fisherman"]
+    "tags": [
+      "storytelling",
+      "sea",
+      "family",
+      "fisherman"
+    ]
   }
 }

@@ -2,9 +2,38 @@
   "id": "news-b2-100",
   "category": "news",
   "level": "B2",
-  "arabic": "تَسَبَّبَ الِانْتِشَارُ الْوَاسِعُ لِمَنَصَّاتِ التَّوَاصُلِ الِاجْتِمَاعِيِّ فِي إِحْدَاثِ تَغْيِيرَاتٍ جَذْرِيَّةٍ فِي أَنْمَاطِ التَّفَاعُلِ الْبَشَرِيِّ وَالْعَلَاقَاتِ الْأُسَرِيَّةِ. فَرُغْمَ أَنَّ هَذِهِ الْوَسَائِلَ قَرَّبَتِ الْمَسَافَاتِ بَيْنَ الْأَفْرَادِ، إِلَّا أَنَّهَا خَلَقَتْ نَوْعًا مِنَ الْعُزْلَةِ الرَّقْمِيَّةِ دَاخِلَ الْبَيْتِ الْوَاحِدِ. تُشِيرُ الدِّرَاسَاتُ الِاجْتِمَاعِيَّةُ إِلَى تَزَايُدِ مَخَاطِرِ الْإِدْمَانِ الْإِلِكْتْرُونِيِّ وَتَأْثِيرِهِ السَّلْبِيِّ عَلَى الصِّحَّةِ النَّفْسِيَّةِ لِلشَّبَابِ. كَمَا أَصْبَحَتْ ظَاهِرَةُ الْأَخْبَارِ الزَّائِفَةِ تُمَثِّلُ تَهْدِيدًا لِتَمَاسُكِ الْمُجْتَمَعِ وَنَزَاهَةِ الْمَعْلُومَاتِ الْمُتَدَاوَلَةِ. يَجِبُ تَعْزِيزُ الْوَعْيِ الْمُجْتَمَعِيِّ حَوْلَ الِاسْتِخْدَامِ الرَّشِيدِ لِلتِّكْنُولُوجْيَا لِحِمَايَةِ النَّسِيجِ الِاجْتِمَاعِيِّ. إِنَّ الِاعْتِدَالَ فِي التَّعَامُلِ مَعَ الْعَالَمِ الِافْتِرَاضِيِّ هُوَ السَّبِيلُ لِلْحِفَاظِ عَلَى الرَّوَابِطِ الْإِنْسَانِيَّةِ الْحَقِيقِيَّةِ.",
-  "translation": "Široka rasprostranjenost platformi društvenih medija uzrokovala je radikalne promjene u obrascima ljudske interakcije i porodičnih odnosa. Iako su ova sredstva smanjila udaljenost između pojedinaca, ona su stvorila vrstu digitalne izolacije unutar istog doma. Društvene studije ukazuju na povećanje rizika od elektronske ovisnosti i njen negativan uticaj na mentalno zdravlje mladih. Također, fenomen lažnih vijesti postao je prijetnja koheziji društva i integritetu informacija koje kruže. Društvena svijest o racionalnom korištenju tehnologije mora se ojačati kako bi se zaštitilo društveno tkivo. Umjerenost u ophođenju s virtuelnim svijetom put je ka očuvanju stvarnih ljudskih veza.",
-  "translationEn": "The widespread proliferation of social media platforms has caused radical changes in patterns of human interaction and family relationships. Although these means have shortened distances between individuals, they have created a kind of digital isolation within the same home. Social studies indicate increasing risks of electronic addiction and its negative impact on the mental health of youth. Moreover, the phenomenon of fake news has become a threat to social cohesion and the integrity of circulated information. Social awareness regarding the rational use of technology must be enhanced to protect the social fabric. Moderation in dealing with the virtual world is the way to preserve real human bonds.",
+  "sentences": [
+    {
+      "arabic": "تَسَبَّبَ الِانْتِشَارُ الْوَاسِعُ لِمَنَصَّاتِ التَّوَاصُلِ الِاجْتِمَاعِيِّ فِي إِحْدَاثِ تَغْيِيرَاتٍ جَذْرِيَّةٍ فِي أَنْمَاطِ التَّفَاعُلِ الْبَشَرِيِّ وَالْعَلَاقَاتِ الْأُسَرِيَّةِ.",
+      "translation": "Široka rasprostranjenost platformi društvenih medija uzrokovala je radikalne promjene u obrascima ljudske interakcije i porodičnih odnosa.",
+      "translationEn": "The widespread proliferation of social media platforms has caused radical changes in patterns of human interaction and family relationships."
+    },
+    {
+      "arabic": "فَرُغْمَ أَنَّ هَذِهِ الْوَسَائِلَ قَرَّبَتِ الْمَسَافَاتِ بَيْنَ الْأَفْرَادِ، إِلَّا أَنَّهَا خَلَقَتْ نَوْعًا مِنَ الْعُزْلَةِ الرَّقْمِيَّةِ دَاخِلَ الْبَيْتِ الْوَاحِدِ.",
+      "translation": "Iako su ova sredstva smanjila udaljenost između pojedinaca, ona su stvorila vrstu digitalne izolacije unutar istog doma.",
+      "translationEn": "Although these means have shortened distances between individuals, they have created a kind of digital isolation within the same home."
+    },
+    {
+      "arabic": "تُشِيرُ الدِّرَاسَاتُ الِاجْتِمَاعِيَّةُ إِلَى تَزَايُدِ مَخَاطِرِ الْإِدْمَانِ الْإِلِكْتْرُونِيِّ وَتَأْثِيرِهِ السَّلْبِيِّ عَلَى الصِّحَّةِ النَّفْسِيَّةِ لِلشَّبَابِ.",
+      "translation": "Društvene studije ukazuju na povećanje rizika od elektronske ovisnosti i njen negativan uticaj na mentalno zdravlje mladih.",
+      "translationEn": "Social studies indicate increasing risks of electronic addiction and its negative impact on the mental health of youth."
+    },
+    {
+      "arabic": "كَمَا أَصْبَحَتْ ظَاهِرَةُ الْأَخْبَارِ الزَّائِفَةِ تُمَثِّلُ تَهْدِيدًا لِتَمَاسُكِ الْمُجْتَمَعِ وَنَزَاهَةِ الْمَعْلُومَاتِ الْمُتَدَاوَلَةِ.",
+      "translation": "Također, fenomen lažnih vijesti postao je prijetnja koheziji društva i integritetu informacija koje kruže.",
+      "translationEn": "Moreover, the phenomenon of fake news has become a threat to social cohesion and the integrity of circulated information."
+    },
+    {
+      "arabic": "يَجِبُ تَعْزِيزُ الْوَعْيِ الْمُجْتَمَعِيِّ حَوْلَ الِاسْتِخْدَامِ الرَّشِيدِ لِلتِّكْنُولُوجْيَا لِحِمَايَةِ النَّسِيجِ الِاجْتِمَاعِيِّ.",
+      "translation": "Društvena svijest o racionalnom korištenju tehnologije mora se ojačati kako bi se zaštitilo društveno tkivo.",
+      "translationEn": "Social awareness regarding the rational use of technology must be enhanced to protect the social fabric."
+    },
+    {
+      "arabic": "إِنَّ الِاعْتِدَالَ فِي التَّعَامُلِ مَعَ الْعَالَمِ الِافْتِرَاضِيِّ هُوَ السَّبِيلُ لِلْحِفَاظِ عَلَى الرَّوَابِطِ الْإِنْسَانِيَّةِ الْحَقِيقِيَّةِ.",
+      "translation": "Umjerenost u ophođenju s virtuelnim svijetom put je ka očuvanju stvarnih ljudskih veza.",
+      "translationEn": "Moderation in dealing with the virtual world is the way to preserve real human bonds."
+    }
+  ],
   "metadata": {
     "difficulty": 2,
     "tags": [

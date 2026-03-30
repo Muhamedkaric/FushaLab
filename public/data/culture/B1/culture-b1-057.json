@@ -2,9 +2,33 @@
   "id": "culture-b1-057",
   "category": "culture",
   "level": "B1",
-  "arabic": "يُعَدُّ المَنْسَفُ الأَكْلَةَ الوَطَنِيَّةَ فِي الأُرْدُنِ. يَتَكَوَّنُ هَذَا الطَّبَقُ مِنَ الأَرُزِّ وَاللَّحْمِ وَاللَّبَنِ الجَمِيدِ. تَجْتَمِعُ العَائِلَةُ حَوْلَ مَائِدَةٍ كَبِيرَةٍ لِتَنَاوُلِ المَنْسَفِ فِي المُنَاسَبَاتِ السَّعِيدَةِ. يُوضَعُ الخُبْزُ الرَّقِيقُ تَحْتَ الأَرُزِّ، وَيُزَيَّنُ الطَّبَقُ بِاللَّوْزِ وَالصَّنَوْبَرِ. هُوَ طَعَامٌ لَذِيذٌ جِدًّا وَيُحِبُّهُ الجَمِيعُ.",
-  "translation": "Mansaf se smatra nacionalnim jelom u Jordanu. Ovo jelo se sastoji od riže, mesa i jameeda (sušeni jogurt). Porodica se okuplja oko velikog stola kako bi jela mansaf u sretnim prilikama. Tanki hljeb se stavlja ispod riže, a jelo se ukrašava bademima i pinjolima. To je veoma ukusna hrana koju svi vole.",
-  "translationEn": "Mansaf is considered the national dish in Jordan. This dish consists of rice, meat, and jameed (dried yogurt). The family gathers around a large table to eat Mansaf on happy occasions. Thin bread is placed under the rice, and the dish is decorated with almonds and pine nuts. It is very delicious food and everyone loves it.",
+  "sentences": [
+    {
+      "arabic": "يُعَدُّ المَنْسَفُ الأَكْلَةَ الوَطَنِيَّةَ فِي الأُرْدُنِ.",
+      "translation": "Mansaf se smatra nacionalnim jelom u Jordanu.",
+      "translationEn": "Mansaf is considered the national dish in Jordan."
+    },
+    {
+      "arabic": "يَتَكَوَّنُ هَذَا الطَّبَقُ مِنَ الأَرُزِّ وَاللَّحْمِ وَاللَّبَنِ الجَمِيدِ.",
+      "translation": "Ovo jelo se sastoji od riže, mesa i jameeda (sušeni jogurt).",
+      "translationEn": "This dish consists of rice, meat, and jameed (dried yogurt)."
+    },
+    {
+      "arabic": "تَجْتَمِعُ العَائِلَةُ حَوْلَ مَائِدَةٍ كَبِيرَةٍ لِتَنَاوُلِ المَنْسَفِ فِي المُنَاسَبَاتِ السَّعِيدَةِ.",
+      "translation": "Porodica se okuplja oko velikog stola kako bi jela mansaf u sretnim prilikama.",
+      "translationEn": "The family gathers around a large table to eat Mansaf on happy occasions."
+    },
+    {
+      "arabic": "يُوضَعُ الخُبْزُ الرَّقِيقُ تَحْتَ الأَرُزِّ، وَيُزَيَّنُ الطَّبَقُ بِاللَّوْزِ وَالصَّنَوْبَرِ.",
+      "translation": "Tanki hljeb se stavlja ispod riže, a jelo se ukrašava bademima i pinjolima.",
+      "translationEn": "Thin bread is placed under the rice, and the dish is decorated with almonds and pine nuts."
+    },
+    {
+      "arabic": "هُوَ طَعَامٌ لَذِيذٌ جِدًّا وَيُحِبُّهُ الجَمِيعُ.",
+      "translation": "To je veoma ukusna hrana koju svi vole.",
+      "translationEn": "It is very delicious food and everyone loves it."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

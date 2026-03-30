@@ -2,9 +2,33 @@
   "id": "travel-b1-038",
   "category": "travel",
   "level": "B1",
-  "arabic": "زُرْتُ مَدِينَةً قَدِيمَةً مَشْهُورَةً بِآثَارِهَا التَّارِيخِيَّةِ. اسْتَخْدَمْتُ خَرِيطَةً لِأَعْرِفَ مَوَاقِعَ الْمَتَاحِفِ وَالْقِلَاعِ. مَشَيْتُ فِي الشَّوَارِعِ الضَّيِّقَةِ وَاشْتَرَيْتُ بَعْضَ الْهَدَايَا التَّذْكَارِيَّةِ. كَانَ الطَّقْسُ مُشْمِسًا وَرَائِعًا لِلتَّجَوُّلِ. الْتَقَطْتُ الْكَثِيرَ مِنَ الصُّوَرِ لِلْمَبَانِي الْقَدِيمَةِ.",
-  "translation": "Posjetio sam stari grad poznat po svojim historijskim spomenicima. Koristio sam mapu kako bih saznao lokacije muzeja i tvrđava. Šetao sam uskim ulicama i kupio neke suvenire. Vrijeme je bilo sunčano i divno za obilazak. Napravio sam mnogo fotografija starih građevina.",
-  "translationEn": "I visited an ancient city famous for its historical monuments. I used a map to find the locations of museums and castles. I walked through the narrow streets and bought some souvenirs. The weather was sunny and wonderful for wandering around. I took many pictures of the old buildings.",
+  "sentences": [
+    {
+      "arabic": "زُرْتُ مَدِينَةً قَدِيمَةً مَشْهُورَةً بِآثَارِهَا التَّارِيخِيَّةِ.",
+      "translation": "Posjetio sam stari grad poznat po svojim historijskim spomenicima.",
+      "translationEn": "I visited an ancient city famous for its historical monuments."
+    },
+    {
+      "arabic": "اسْتَخْدَمْتُ خَرِيطَةً لِأَعْرِفَ مَوَاقِعَ الْمَتَاحِفِ وَالْقِلَاعِ.",
+      "translation": "Koristio sam mapu kako bih saznao lokacije muzeja i tvrđava.",
+      "translationEn": "I used a map to find the locations of museums and castles."
+    },
+    {
+      "arabic": "مَشَيْتُ فِي الشَّوَارِعِ الضَّيِّقَةِ وَاشْتَرَيْتُ بَعْضَ الْهَدَايَا التَّذْكَارِيَّةِ.",
+      "translation": "Šetao sam uskim ulicama i kupio neke suvenire.",
+      "translationEn": "I walked through the narrow streets and bought some souvenirs."
+    },
+    {
+      "arabic": "كَانَ الطَّقْسُ مُشْمِسًا وَرَائِعًا لِلتَّجَوُّلِ.",
+      "translation": "Vrijeme je bilo sunčano i divno za obilazak.",
+      "translationEn": "The weather was sunny and wonderful for wandering around."
+    },
+    {
+      "arabic": "الْتَقَطْتُ الْكَثِيرَ مِنَ الصُّوَرِ لِلْمَبَانِي الْقَدِيمَةِ.",
+      "translation": "Napravio sam mnogo fotografija starih građevina.",
+      "translationEn": "I took many pictures of the old buildings."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

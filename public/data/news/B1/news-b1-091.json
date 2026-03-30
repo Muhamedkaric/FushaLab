@@ -2,9 +2,33 @@
   "id": "news-b1-091",
   "category": "news",
   "level": "B1",
-  "arabic": "قَرَّرَتِ الْحُكُومَةُ بَدْءَ مَشْرُوعٍ جَدِيدٍ لِزِرَاعَةِ الْأَشْجَارِ فِي الْمُدُنِ الْكَبِيرَةِ. يَهْدِفُ هَذَا الْمَشْرُوعُ إِلَى تَحْسِينِ جَوْدَةِ الْهَوَاءِ وَتَقْلِيلِ دَرَجَاتِ الْحَرَارَةِ. سَيُشَارِكُ الْمُتَطَوِّعُونَ مِنَ الْمَدَارِسِ وَالْجَامِعَاتِ فِي هَذِهِ الْمُبَادَرَةِ الْبِيئِيَّةِ. يَعْتَقِدُ الْخُبَرَاءُ أَنَّ زِيَادَةَ الْمَسَاحَاتِ الْخَضْرَاءِ هِيَ الْحَلُّ الْأَفْضَلُ لِمُوَاجَهَةِ التَّغَيُّرِ الْمُنَاخِيِّ. هَذِهِ الْخُطْوَةُ سَتَجْعَلُ الْحَيَاةَ فِي الْمَدِينَةِ أَجْمَلَ وَأَكْثَرَ صِحَّةً.",
-  "translation": "Vlada je odlučila pokrenuti novi projekat sadnje drveća u velikim gradovima. Ovaj projekat ima za cilj poboljšanje kvaliteta zraka i smanjenje temperatura. Volonteri iz škola i univerziteta će učestvovati u ovoj ekološkoj inicijativi. Stručnjaci vjeruju da je povećanje zelenih površina najbolje rješenje za suočavanje s klimatskim promjenama. Ovaj korak će učiniti život u gradu ljepšim i zdravijim.",
-  "translationEn": "The government decided to start a new project to plant trees in big cities. This project aims to improve air quality and reduce temperatures. Volunteers from schools and universities will participate in this environmental initiative. Experts believe that increasing green spaces is the best solution to face climate change. This step will make city life more beautiful and healthier.",
+  "sentences": [
+    {
+      "arabic": "قَرَّرَتِ الْحُكُومَةُ بَدْءَ مَشْرُوعٍ جَدِيدٍ لِزِرَاعَةِ الْأَشْجَارِ فِي الْمُدُنِ الْكَبِيرَةِ.",
+      "translation": "Vlada je odlučila pokrenuti novi projekat sadnje drveća u velikim gradovima.",
+      "translationEn": "The government decided to start a new project to plant trees in big cities."
+    },
+    {
+      "arabic": "يَهْدِفُ هَذَا الْمَشْرُوعُ إِلَى تَحْسِينِ جَوْدَةِ الْهَوَاءِ وَتَقْلِيلِ دَرَجَاتِ الْحَرَارَةِ.",
+      "translation": "Ovaj projekat ima za cilj poboljšanje kvaliteta zraka i smanjenje temperatura.",
+      "translationEn": "This project aims to improve air quality and reduce temperatures."
+    },
+    {
+      "arabic": "سَيُشَارِكُ الْمُتَطَوِّعُونَ مِنَ الْمَدَارِسِ وَالْجَامِعَاتِ فِي هَذِهِ الْمُبَادَرَةِ الْبِيئِيَّةِ.",
+      "translation": "Volonteri iz škola i univerziteta će učestvovati u ovoj ekološkoj inicijativi.",
+      "translationEn": "Volunteers from schools and universities will participate in this environmental initiative."
+    },
+    {
+      "arabic": "يَعْتَقِدُ الْخُبَرَاءُ أَنَّ زِيَادَةَ الْمَسَاحَاتِ الْخَضْرَاءِ هِيَ الْحَلُّ الْأَفْضَلُ لِمُوَاجَهَةِ التَّغَيُّرِ الْمُنَاخِيِّ.",
+      "translation": "Stručnjaci vjeruju da je povećanje zelenih površina najbolje rješenje za suočavanje s klimatskim promjenama.",
+      "translationEn": "Experts believe that increasing green spaces is the best solution to face climate change."
+    },
+    {
+      "arabic": "هَذِهِ الْخُطْوَةُ سَتَجْعَلُ الْحَيَاةَ فِي الْمَدِينَةِ أَجْمَلَ وَأَكْثَرَ صِحَّةً.",
+      "translation": "Ovaj korak će učiniti život u gradu ljepšim i zdravijim.",
+      "translationEn": "This step will make city life more beautiful and healthier."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

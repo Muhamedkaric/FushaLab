@@ -2,8 +2,19 @@
   "id": "travel-b2-003",
   "category": "travel",
   "level": "B2",
-  "arabic": "تَتَّسِمُ الرِّحْلَةُ إِلَى الْأَرْدُنِّ بِتَنَوُّعِ مَنَاظِرِهَا الطَّبِيعِيَّةِ، مِنَ الْبَادِيَةِ الصَّحْرَاوِيَّةِ إِلَى شَوَاطِئِ الْبَحْرِ الْأَحْمَرِ.",
-  "translation": "Putovanje u Jordan odlikuje se raznolikošću prirodnih prizora, od pustinjske stepe do obala Crvenog mora.",
-  "translationEn": "A trip to Jordan is characterised by the diversity of its natural landscapes, from the desert steppe to the shores of the Red Sea.",
-  "metadata": { "difficulty": 2, "tags": ["travel", "Jordan", "nature"] }
+  "sentences": [
+    {
+      "arabic": "تَتَّسِمُ الرِّحْلَةُ إِلَى الْأَرْدُنِّ بِتَنَوُّعِ مَنَاظِرِهَا الطَّبِيعِيَّةِ، مِنَ الْبَادِيَةِ الصَّحْرَاوِيَّةِ إِلَى شَوَاطِئِ الْبَحْرِ الْأَحْمَرِ.",
+      "translation": "Putovanje u Jordan odlikuje se raznolikošću prirodnih prizora, od pustinjske stepe do obala Crvenog mora.",
+      "translationEn": "A trip to Jordan is characterised by the diversity of its natural landscapes, from the desert steppe to the shores of the Red Sea."
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "tags": [
+      "travel",
+      "Jordan",
+      "nature"
+    ]
+  }
 }

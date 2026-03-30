@@ -2,11 +2,35 @@
   "id": "culture-b1-026",
   "category": "culture",
   "level": "B1",
-  "arabic": "الْمَقْهَى الْعَرَبِيُّ مَكَانٌ شَعْبِيٌّ يَجْتَمِعُ فِيهِ النَّاسُ لِشُرْبِ الشَّايِ وَالْقَهْوَةِ. يَلْعَبُ الرِّجَالُ الطَّاوِلَةَ وَالشِّطْرَنْجَ وَيُشَاهِدُونَ الْأَخْبَارَ عَلَى التِّلْفَازِ. يَجْلِسُ الرَّجُلُ فِي الْمَقْهَى سَاعَاتٍ طَوِيلَةً يَتَحَدَّثُ مَعَ أَصْدِقَائِهِ. الْمَقْهَى أَكْثَرُ مِنْ مَكَانٍ لِلشُّرْبِ فَهُوَ مَرْكَزٌ لِلْحَيَاةِ الِاجْتِمَاعِيَّةِ.",
-  "translation": "Arapska kafana je narodno mjesto gdje se ljudi okupljaju da piju čaj i kafu. Muškarci igraju tavlu i šah i gledaju vijesti na televiziji. Čovjek sjedi u kafani satima i razgovara s prijateljima. Kafana je više od mjesta za piće — ona je središte društvenog života.",
-  "translationEn": "The Arab coffeehouse is a popular place where people gather to drink tea and coffee. Men play backgammon and chess and watch the news on television. A man can sit in the café for hours talking with friends. The coffeehouse is more than a place to drink — it is a centre of social life.",
+  "sentences": [
+    {
+      "arabic": "الْمَقْهَى الْعَرَبِيُّ مَكَانٌ شَعْبِيٌّ يَجْتَمِعُ فِيهِ النَّاسُ لِشُرْبِ الشَّايِ وَالْقَهْوَةِ.",
+      "translation": "Arapska kafana je narodno mjesto gdje se ljudi okupljaju da piju čaj i kafu.",
+      "translationEn": "The Arab coffeehouse is a popular place where people gather to drink tea and coffee."
+    },
+    {
+      "arabic": "يَلْعَبُ الرِّجَالُ الطَّاوِلَةَ وَالشِّطْرَنْجَ وَيُشَاهِدُونَ الْأَخْبَارَ عَلَى التِّلْفَازِ.",
+      "translation": "Muškarci igraju tavlu i šah i gledaju vijesti na televiziji.",
+      "translationEn": "Men play backgammon and chess and watch the news on television."
+    },
+    {
+      "arabic": "يَجْلِسُ الرَّجُلُ فِي الْمَقْهَى سَاعَاتٍ طَوِيلَةً يَتَحَدَّثُ مَعَ أَصْدِقَائِهِ.",
+      "translation": "Čovjek sjedi u kafani satima i razgovara s prijateljima.",
+      "translationEn": "A man can sit in the café for hours talking with friends."
+    },
+    {
+      "arabic": "الْمَقْهَى أَكْثَرُ مِنْ مَكَانٍ لِلشُّرْبِ فَهُوَ مَرْكَزٌ لِلْحَيَاةِ الِاجْتِمَاعِيَّةِ.",
+      "translation": "Kafana je više od mjesta za piće — ona je središte društvenog života.",
+      "translationEn": "The coffeehouse is more than a place to drink — it is a centre of social life."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["coffeehouse", "social life", "daily life", "culture"]
+    "tags": [
+      "coffeehouse",
+      "social life",
+      "daily life",
+      "culture"
+    ]
   }
 }

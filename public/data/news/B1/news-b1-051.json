@@ -2,9 +2,33 @@
   "id": "news-b1-051",
   "category": "news",
   "level": "B1",
-  "arabic": "قَرَّرَتِ الْحُكُومَةُ الْمَحَلِّيَّةُ زِرَاعَةَ أَلْفِ شَجَرَةٍ جَدِيدَةٍ فِي الْمَدِينَةِ. تَهْدِفُ هَذِهِ الْخُطْوَةُ إِلَى تَحْسِينِ جَوْدَةِ الْهَوَاءِ وَتَقْلِيلِ التَّلَوُّثِ. شَارَكَ الْكَثِيرُ مِنَ الْمُتَطَوِّعِينَ فِي هَذَا الْمَشْرُوعِ الْبِيئِيِّ الْهَامِّ. يَعْتَقِدُ الْخُبَرَاءُ أَنَّ الْأَشْجَارَ تُسَاعِدُ فِي خَفْضِ دَرَجَاتِ الْحَرَارَةِ صَيْفاً. هَذِهِ الْمُبَادَرَةُ هِيَ جُزْءٌ مِنْ خُطَّةٍ كَبِيرَةٍ لِحِمَايَةِ الْكَوْكَبِ.",
-  "translation": "Lokalna vlada odlučila je posaditi hiljadu novih stabala u gradu. Ovaj korak ima za cilj poboljšanje kvaliteta zraka i smanjenje zagađenja. Mnogi volonteri učestvovali su u ovom važnom ekološkom projektu. Stručnjaci vjeruju da drveće pomaže u snižavanju ljetnih temperatura. Ova inicijativa je dio velikog plana za zaštitu planete.",
-  "translationEn": "The local government decided to plant a thousand new trees in the city. This step aims to improve air quality and reduce pollution. Many volunteers participated in this important environmental project. Experts believe that trees help lower temperatures in the summer. This initiative is part of a major plan to protect the planet.",
+  "sentences": [
+    {
+      "arabic": "قَرَّرَتِ الْحُكُومَةُ الْمَحَلِّيَّةُ زِرَاعَةَ أَلْفِ شَجَرَةٍ جَدِيدَةٍ فِي الْمَدِينَةِ.",
+      "translation": "Lokalna vlada odlučila je posaditi hiljadu novih stabala u gradu.",
+      "translationEn": "The local government decided to plant a thousand new trees in the city."
+    },
+    {
+      "arabic": "تَهْدِفُ هَذِهِ الْخُطْوَةُ إِلَى تَحْسِينِ جَوْدَةِ الْهَوَاءِ وَتَقْلِيلِ التَّلَوُّثِ.",
+      "translation": "Ovaj korak ima za cilj poboljšanje kvaliteta zraka i smanjenje zagađenja.",
+      "translationEn": "This step aims to improve air quality and reduce pollution."
+    },
+    {
+      "arabic": "شَارَكَ الْكَثِيرُ مِنَ الْمُتَطَوِّعِينَ فِي هَذَا الْمَشْرُوعِ الْبِيئِيِّ الْهَامِّ.",
+      "translation": "Mnogi volonteri učestvovali su u ovom važnom ekološkom projektu.",
+      "translationEn": "Many volunteers participated in this important environmental project."
+    },
+    {
+      "arabic": "يَعْتَقِدُ الْخُبَرَاءُ أَنَّ الْأَشْجَارَ تُسَاعِدُ فِي خَفْضِ دَرَجَاتِ الْحَرَارَةِ صَيْفاً.",
+      "translation": "Stručnjaci vjeruju da drveće pomaže u snižavanju ljetnih temperatura.",
+      "translationEn": "Experts believe that trees help lower temperatures in the summer."
+    },
+    {
+      "arabic": "هَذِهِ الْمُبَادَرَةُ هِيَ جُزْءٌ مِنْ خُطَّةٍ كَبِيرَةٍ لِحِمَايَةِ الْكَوْكَبِ.",
+      "translation": "Ova inicijativa je dio velikog plana za zaštitu planete.",
+      "translationEn": "This initiative is part of a major plan to protect the planet."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

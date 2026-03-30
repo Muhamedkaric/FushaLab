@@ -2,8 +2,19 @@
   "id": "news-b1-001",
   "category": "news",
   "level": "B1",
-  "arabic": "فَازَ الْمُنْتَخَبُ الْوَطَنِيُّ بِالْبُطُولَةِ الْعَرَبِيَّةِ لِكُرَةِ الْقَدَمِ أَمَسِ.",
-  "translation": "Nacionalna reprezentacija je jučer pobjedila na Arapskom fudbalskom turniru.",
-  "translationEn": "The national team won the Arab Football Championship yesterday.",
-  "metadata": { "difficulty": 1, "tags": ["news", "sport", "football"] }
+  "sentences": [
+    {
+      "arabic": "فَازَ الْمُنْتَخَبُ الْوَطَنِيُّ بِالْبُطُولَةِ الْعَرَبِيَّةِ لِكُرَةِ الْقَدَمِ أَمَسِ.",
+      "translation": "Nacionalna reprezentacija je jučer pobjedila na Arapskom fudbalskom turniru.",
+      "translationEn": "The national team won the Arab Football Championship yesterday."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "news",
+      "sport",
+      "football"
+    ]
+  }
 }

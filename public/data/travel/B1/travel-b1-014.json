@@ -2,8 +2,39 @@
   "id": "travel-b1-014",
   "category": "travel",
   "level": "B1",
-  "arabic": "بَدَأْتُ أَحْزِمُ حَقِيبَتِي قَبْلَ السَّفَرِ بِيَوْمٍ. وَضَعْتُ الْمَلَابِسَ وَالْأَدَوَاتِ الشَّخْصِيَّةَ بِعِنَايَةٍ. لَا أَنْسَى أَبَدًا أَنْ أَحْمِلَ جَوَازَ سَفَرِي وَبُطَاقَاتِ السَّفَرِ. تَأَكَّدْتُ أَنَّ وَزْنَ الْحَقِيبَةِ لَا يَتَجَاوَزُ الْحَدَّ الْمَسْمُوحَ بِهِ. ثُمَّ أَغْلَقْتُ الْحَقِيبَةَ وَأَنَا مُسْتَعِدٌّ لِلسَّفَرِ.",
-  "translation": "Počeo sam pakirati kofer dan prije putovanja. Pažljivo sam složio odjeću i lične potrepštine. Nikad ne zaboravim ponijeti pasoš i putne dokumente. Provjerio sam da težina kofera ne prelazi dozvoljenu granicu. Zatim sam zatvorio kofer i bio spreman za put.",
-  "translationEn": "I started packing my suitcase a day before the trip. I carefully placed clothes and personal items inside. I never forget to bring my passport and travel documents. I made sure the suitcase weight did not exceed the allowed limit. Then I closed the suitcase and was ready to travel.",
-  "metadata": { "difficulty": 1, "tags": ["packing", "luggage", "preparation"] }
+  "sentences": [
+    {
+      "arabic": "بَدَأْتُ أَحْزِمُ حَقِيبَتِي قَبْلَ السَّفَرِ بِيَوْمٍ.",
+      "translation": "Počeo sam pakirati kofer dan prije putovanja.",
+      "translationEn": "I started packing my suitcase a day before the trip."
+    },
+    {
+      "arabic": "وَضَعْتُ الْمَلَابِسَ وَالْأَدَوَاتِ الشَّخْصِيَّةَ بِعِنَايَةٍ.",
+      "translation": "Pažljivo sam složio odjeću i lične potrepštine.",
+      "translationEn": "I carefully placed clothes and personal items inside."
+    },
+    {
+      "arabic": "لَا أَنْسَى أَبَدًا أَنْ أَحْمِلَ جَوَازَ سَفَرِي وَبُطَاقَاتِ السَّفَرِ.",
+      "translation": "Nikad ne zaboravim ponijeti pasoš i putne dokumente.",
+      "translationEn": "I never forget to bring my passport and travel documents."
+    },
+    {
+      "arabic": "تَأَكَّدْتُ أَنَّ وَزْنَ الْحَقِيبَةِ لَا يَتَجَاوَزُ الْحَدَّ الْمَسْمُوحَ بِهِ.",
+      "translation": "Provjerio sam da težina kofera ne prelazi dozvoljenu granicu.",
+      "translationEn": "I made sure the suitcase weight did not exceed the allowed limit."
+    },
+    {
+      "arabic": "ثُمَّ أَغْلَقْتُ الْحَقِيبَةَ وَأَنَا مُسْتَعِدٌّ لِلسَّفَرِ.",
+      "translation": "Zatim sam zatvorio kofer i bio spreman za put.",
+      "translationEn": "Then I closed the suitcase and was ready to travel."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "packing",
+      "luggage",
+      "preparation"
+    ]
+  }
 }

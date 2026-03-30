@@ -2,9 +2,33 @@
   "id": "culture-b1-079",
   "category": "culture",
   "level": "B1",
-  "arabic": "يَحْتَفِلُ الْمُسْلِمُونَ بِعِيدِ الْفِطْرِ بَعْدَ انْتِهَاءِ شَهْرِ رَمَضَانَ. يَرْتَدِي الْأَطْفَالُ مَلَابِسَ جَدِيدَةً وَيَشْعُرُونَ بِسَعَادَةٍ كَبِيرَةٍ. تَتَبَادَلُ الْعَائِلَاتُ الزِّيَارَاتِ وَالتَّهَانِيَ وَالْهَدَايَا. كَمَا يَأْكُلُونَ حَلْوِيَّاتٍ خَاصَّةً مِثْلَ الْمَعْمُولِ. هَذَا الْعِيدُ وَقْتٌ لِلْفَرَحِ وَالسَّلَامِ وَمُسَاعَدَةِ الْفُقَرَاءِ.",
-  "translation": "Muslimani slave Ramazanski bajram nakon završetka mjeseca Ramazana. Djeca nose novu odjeću i osjećaju veliku sreću. Porodice razmjenjuju posjete, čestitke i poklone. Također jedu posebne kolače poput ma'moula. Ovaj praznik je vrijeme za radost, mir i pomaganje siromašnima.",
-  "translationEn": "Muslims celebrate Eid al-Fitr after the end of the month of Ramadan. Children wear new clothes and feel great happiness. Families exchange visits, greetings, and gifts. They also eat special sweets like Ma'amoul. This holiday is a time for joy, peace, and helping the poor.",
+  "sentences": [
+    {
+      "arabic": "يَحْتَفِلُ الْمُسْلِمُونَ بِعِيدِ الْفِطْرِ بَعْدَ انْتِهَاءِ شَهْرِ رَمَضَانَ.",
+      "translation": "Muslimani slave Ramazanski bajram nakon završetka mjeseca Ramazana.",
+      "translationEn": "Muslims celebrate Eid al-Fitr after the end of the month of Ramadan."
+    },
+    {
+      "arabic": "يَرْتَدِي الْأَطْفَالُ مَلَابِسَ جَدِيدَةً وَيَشْعُرُونَ بِسَعَادَةٍ كَبِيرَةٍ.",
+      "translation": "Djeca nose novu odjeću i osjećaju veliku sreću.",
+      "translationEn": "Children wear new clothes and feel great happiness."
+    },
+    {
+      "arabic": "تَتَبَادَلُ الْعَائِلَاتُ الزِّيَارَاتِ وَالتَّهَانِيَ وَالْهَدَايَا.",
+      "translation": "Porodice razmjenjuju posjete, čestitke i poklone.",
+      "translationEn": "Families exchange visits, greetings, and gifts."
+    },
+    {
+      "arabic": "كَمَا يَأْكُلُونَ حَلْوِيَّاتٍ خَاصَّةً مِثْلَ الْمَعْمُولِ.",
+      "translation": "Također jedu posebne kolače poput ma'moula.",
+      "translationEn": "They also eat special sweets like Ma'amoul."
+    },
+    {
+      "arabic": "هَذَا الْعِيدُ وَقْتٌ لِلْفَرَحِ وَالسَّلَامِ وَمُسَاعَدَةِ الْفُقَرَاءِ.",
+      "translation": "Ovaj praznik je vrijeme za radost, mir i pomaganje siromašnima.",
+      "translationEn": "This holiday is a time for joy, peace, and helping the poor."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

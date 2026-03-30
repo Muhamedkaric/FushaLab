@@ -2,8 +2,35 @@
   "id": "culture-b1-015",
   "category": "culture",
   "level": "B1",
-  "arabic": "السُّوقُ الْعَرَبِيُّ مَكَانٌ مُمْتِعٌ يَبِيعُ فِيهِ التُّجَّارُ أَنْوَاعًا كَثِيرَةً مِنَ الْبَضَائِعِ. تَجِدُ فِيهِ الْتَّوَابِلَ وَالسِّجَادَ وَالْمَجَوْهَرَاتِ وَالْمَلَابِسَ. يَتَفَاوَضُ الْبَائِعُ وَالْمُشْتَرِي عَلَى السِّعْرِ وَهَذَا جُزْءٌ مِنَ الْمُتْعَةِ. رَائِحَةُ الْبَهَارَاتِ وَالْبُخُورِ تَمْلَأُ أَزِقَّةَ السُّوقِ الضَّيِّقَةَ.",
-  "translation": "Arapska pijaca je ugodno mjesto gdje trgovci prodaju razne vrste robe. Tu možete naći začine, tepihe, nakit i odjeću. Prodavač i kupac pregovaraju o cijeni, što je dio zabave. Miris začina i tamjana ispunjava uske ulice pijace.",
-  "translationEn": "The Arab souk is a lively place where merchants sell many kinds of goods. You can find spices, carpets, jewellery, and clothing there. The seller and buyer negotiate over the price, which is part of the fun. The smell of spices and incense fills the narrow alleyways of the market.",
-  "metadata": { "difficulty": 1, "tags": ["souk", "market", "trade", "culture"] }
+  "sentences": [
+    {
+      "arabic": "السُّوقُ الْعَرَبِيُّ مَكَانٌ مُمْتِعٌ يَبِيعُ فِيهِ التُّجَّارُ أَنْوَاعًا كَثِيرَةً مِنَ الْبَضَائِعِ.",
+      "translation": "Arapska pijaca je ugodno mjesto gdje trgovci prodaju razne vrste robe.",
+      "translationEn": "The Arab souk is a lively place where merchants sell many kinds of goods."
+    },
+    {
+      "arabic": "تَجِدُ فِيهِ الْتَّوَابِلَ وَالسِّجَادَ وَالْمَجَوْهَرَاتِ وَالْمَلَابِسَ.",
+      "translation": "Tu možete naći začine, tepihe, nakit i odjeću.",
+      "translationEn": "You can find spices, carpets, jewellery, and clothing there."
+    },
+    {
+      "arabic": "يَتَفَاوَضُ الْبَائِعُ وَالْمُشْتَرِي عَلَى السِّعْرِ وَهَذَا جُزْءٌ مِنَ الْمُتْعَةِ.",
+      "translation": "Prodavač i kupac pregovaraju o cijeni, što je dio zabave.",
+      "translationEn": "The seller and buyer negotiate over the price, which is part of the fun."
+    },
+    {
+      "arabic": "رَائِحَةُ الْبَهَارَاتِ وَالْبُخُورِ تَمْلَأُ أَزِقَّةَ السُّوقِ الضَّيِّقَةَ.",
+      "translation": "Miris začina i tamjana ispunjava uske ulice pijace.",
+      "translationEn": "The smell of spices and incense fills the narrow alleyways of the market."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "souk",
+      "market",
+      "trade",
+      "culture"
+    ]
+  }
 }

@@ -2,9 +2,28 @@
   "id": "culture-b1-054",
   "category": "culture",
   "level": "B1",
-  "arabic": "تُمَثِّلُ الْأُسْرَةُ الرُّكْنَ الْأَسَاسِيَّ فِي الْمُجْتَمَعِ الْعَرَبِيِّ. يَحْتَرِمُ الصِّغَارُ الْكِبَارَ، وَيَهْتَمُّ الْآبَاءُ بِتَرْبِيَةِ أَبْنَائِهِمْ عَلَى الْأَخْلَاقِ الْحَمِيدَةِ. تَجْتَمِعُ الْعَائِلَةُ كُلَّ يَوْمِ جُمُعَةٍ لِتَنَاوُلِ الْغَدَاءِ وَتَبَادُلِ الْأَحَادِيثِ. هَذِهِ الرَّوَابِطُ الْقَوِيَّةُ تَجْعَلُ الْفَرْدَ يَشْعُرُ بِالْأَمَانِ وَالدَّعْمِ.",
-  "translation": "Porodica predstavlja osnovni stub u arapskom društvu. Mlađi poštuju starije, a roditelji se brinu o odgoju svoje djece u skladu s lijepim moralom. Porodica se okuplja svakog petka na ručku i razgovoru. Ove snažne veze čine da se pojedinac osjeća sigurno i podržano.",
-  "translationEn": "The family represents the fundamental pillar in Arab society. The young respect the old, and parents care for raising their children with good morals. The family gathers every Friday to have lunch and exchange conversations. These strong bonds make the individual feel safe and supported.",
+  "sentences": [
+    {
+      "arabic": "تُمَثِّلُ الْأُسْرَةُ الرُّكْنَ الْأَسَاسِيَّ فِي الْمُجْتَمَعِ الْعَرَبِيِّ.",
+      "translation": "Porodica predstavlja osnovni stub u arapskom društvu.",
+      "translationEn": "The family represents the fundamental pillar in Arab society."
+    },
+    {
+      "arabic": "يَحْتَرِمُ الصِّغَارُ الْكِبَارَ، وَيَهْتَمُّ الْآبَاءُ بِتَرْبِيَةِ أَبْنَائِهِمْ عَلَى الْأَخْلَاقِ الْحَمِيدَةِ.",
+      "translation": "Mlađi poštuju starije, a roditelji se brinu o odgoju svoje djece u skladu s lijepim moralom.",
+      "translationEn": "The young respect the old, and parents care for raising their children with good morals."
+    },
+    {
+      "arabic": "تَجْتَمِعُ الْعَائِلَةُ كُلَّ يَوْمِ جُمُعَةٍ لِتَنَاوُلِ الْغَدَاءِ وَتَبَادُلِ الْأَحَادِيثِ.",
+      "translation": "Porodica se okuplja svakog petka na ručku i razgovoru.",
+      "translationEn": "The family gathers every Friday to have lunch and exchange conversations."
+    },
+    {
+      "arabic": "هَذِهِ الرَّوَابِطُ الْقَوِيَّةُ تَجْعَلُ الْفَرْدَ يَشْعُرُ بِالْأَمَانِ وَالدَّعْمِ.",
+      "translation": "Ove snažne veze čine da se pojedinac osjeća sigurno i podržano.",
+      "translationEn": "These strong bonds make the individual feel safe and supported."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

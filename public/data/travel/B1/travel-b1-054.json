@@ -2,9 +2,33 @@
   "id": "travel-b1-054",
   "category": "travel",
   "level": "B1",
-  "arabic": "يُفَضِّلُ كَثِيرٌ مِنَ النَّاسِ التَّنَقُّلَ بِالْقِطَارِ لِأَنَّهُ سَرِيعٌ وَمُرِيحٌ. ذَهَبْتُ إِلَى مَحَطَّةِ الْقِطَارِ لِأَشْتَرِيَ تَذْكِرَةً إِلَى الْعَاصِمَةِ. سَأَلْتُ الْمُوَظَّفَ عَنْ مَوْعِدِ انْطِلَاقِ الرِّحْلَةِ الْقَادِمَةِ. يَتَوَقَّفُ الْقِطَارُ فِي مَحَطَّاتٍ كَثِيرَةٍ خِلَالَ الطَّرِيقِ. أُحِبُّ مُشَاهَدَةَ الْمَنَاظِرِ الطَّبِيعِيَّةِ مِنَ النَّافِذَةِ الْكَبِيرَةِ.",
-  "translation": "Mnogi ljudi radije putuju vozom jer je brz i udoban. Otišao sam na željezničku stanicu da kupim kartu do glavnog grada. Pitao sam službenika o vremenu polaska sljedećeg putovanja. Voz staje na mnogim stanicama usput. Volim posmatrati prirodne pejzaže kroz veliki prozor.",
-  "translationEn": "Many people prefer traveling by train because it is fast and comfortable. I went to the train station to buy a ticket to the capital. I asked the employee about the departure time of the next trip. The train stops at many stations along the way. I love watching the landscapes from the large window.",
+  "sentences": [
+    {
+      "arabic": "يُفَضِّلُ كَثِيرٌ مِنَ النَّاسِ التَّنَقُّلَ بِالْقِطَارِ لِأَنَّهُ سَرِيعٌ وَمُرِيحٌ.",
+      "translation": "Mnogi ljudi radije putuju vozom jer je brz i udoban.",
+      "translationEn": "Many people prefer traveling by train because it is fast and comfortable."
+    },
+    {
+      "arabic": "ذَهَبْتُ إِلَى مَحَطَّةِ الْقِطَارِ لِأَشْتَرِيَ تَذْكِرَةً إِلَى الْعَاصِمَةِ.",
+      "translation": "Otišao sam na željezničku stanicu da kupim kartu do glavnog grada.",
+      "translationEn": "I went to the train station to buy a ticket to the capital."
+    },
+    {
+      "arabic": "سَأَلْتُ الْمُوَظَّفَ عَنْ مَوْعِدِ انْطِلَاقِ الرِّحْلَةِ الْقَادِمَةِ.",
+      "translation": "Pitao sam službenika o vremenu polaska sljedećeg putovanja.",
+      "translationEn": "I asked the employee about the departure time of the next trip."
+    },
+    {
+      "arabic": "يَتَوَقَّفُ الْقِطَارُ فِي مَحَطَّاتٍ كَثِيرَةٍ خِلَالَ الطَّرِيقِ.",
+      "translation": "Voz staje na mnogim stanicama usput.",
+      "translationEn": "The train stops at many stations along the way."
+    },
+    {
+      "arabic": "أُحِبُّ مُشَاهَدَةَ الْمَنَاظِرِ الطَّبِيعِيَّةِ مِنَ النَّافِذَةِ الْكَبِيرَةِ.",
+      "translation": "Volim posmatrati prirodne pejzaže kroz veliki prozor.",
+      "translationEn": "I love watching the landscapes from the large window."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

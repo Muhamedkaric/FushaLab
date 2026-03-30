@@ -2,9 +2,33 @@
   "id": "travel-b1-079",
   "category": "travel",
   "level": "B1",
-  "arabic": "اسْتَأْجَرْتُ دَرَّاجَةً هَوَائِيَّةً لِأَتَجَوَّلَ فِي الْمَدِينَةِ الْقَدِيمَةِ. دَفَعْتُ أُجْرَةَ سَاعَتَيْنِ وَأَخَذَ الرَّجُلُ مِنِّي بِطَاقَةَ الْهُوِيَّةِ ضَمَانًا. رَكِبْتُ فِي شَوَارِعَ ضَيِّقَةٍ وَزِقَاقَاتٍ جَمِيلَةٍ. وَقَفْتُ أَمَامَ الْمَبَانِي التَّارِيخِيَّةِ وَأَخَذْتُ صُوَرًا كَثِيرَةً. أَعَدْتُ الدَّرَّاجَةَ فِي الْوَقْتِ الْمُحَدَّدِ وَشَعَرْتُ بِسَعَادَةٍ كَبِيرَةٍ.",
-  "translation": "Iznajmio sam bicikl za obilazak starog dijela grada. Platio sam za dva sata najma i čovjek je uzeo moju ličnu kartu kao jamstvo. Vozio sam uskim ulicama i lijepim uličicama. Zaustavljao sam se ispred historijskih zgrada i mnogo fotografirao. Vratio sam bicikl na vrijeme i osjećao se jako sretno.",
-  "translationEn": "I rented a bicycle to tour the old part of the city. I paid for two hours and the man took my ID card as a deposit. I rode through narrow streets and beautiful alleyways. I stopped in front of historical buildings and took many photos. I returned the bicycle on time feeling very happy.",
+  "sentences": [
+    {
+      "arabic": "اسْتَأْجَرْتُ دَرَّاجَةً هَوَائِيَّةً لِأَتَجَوَّلَ فِي الْمَدِينَةِ الْقَدِيمَةِ.",
+      "translation": "Iznajmio sam bicikl za obilazak starog dijela grada.",
+      "translationEn": "I rented a bicycle to tour the old part of the city."
+    },
+    {
+      "arabic": "دَفَعْتُ أُجْرَةَ سَاعَتَيْنِ وَأَخَذَ الرَّجُلُ مِنِّي بِطَاقَةَ الْهُوِيَّةِ ضَمَانًا.",
+      "translation": "Platio sam za dva sata najma i čovjek je uzeo moju ličnu kartu kao jamstvo.",
+      "translationEn": "I paid for two hours and the man took my ID card as a deposit."
+    },
+    {
+      "arabic": "رَكِبْتُ فِي شَوَارِعَ ضَيِّقَةٍ وَزِقَاقَاتٍ جَمِيلَةٍ.",
+      "translation": "Vozio sam uskim ulicama i lijepim uličicama.",
+      "translationEn": "I rode through narrow streets and beautiful alleyways."
+    },
+    {
+      "arabic": "وَقَفْتُ أَمَامَ الْمَبَانِي التَّارِيخِيَّةِ وَأَخَذْتُ صُوَرًا كَثِيرَةً.",
+      "translation": "Zaustavljao sam se ispred historijskih zgrada i mnogo fotografirao.",
+      "translationEn": "I stopped in front of historical buildings and took many photos."
+    },
+    {
+      "arabic": "أَعَدْتُ الدَّرَّاجَةَ فِي الْوَقْتِ الْمُحَدَّدِ وَشَعَرْتُ بِسَعَادَةٍ كَبِيرَةٍ.",
+      "translation": "Vratio sam bicikl na vrijeme i osjećao se jako sretno.",
+      "translationEn": "I returned the bicycle on time feeling very happy."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

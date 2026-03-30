@@ -2,9 +2,33 @@
   "id": "culture-b1-076",
   "category": "culture",
   "level": "B1",
-  "arabic": "تُشْتَهَرُ الثَّقَافَةُ الْعَرَبِيَّةُ بِالْكَرَمِ وَحُسْنِ الضِّيَافَةِ. يَسْتَقْبِلُ النَّاسُ الضُّيُوفَ بِتَرْحِيبٍ حَارٍّ فِي بُيُوتِهِمْ. يُقَدِّمُونَ لَهُمُ الْقَهْوَةَ الْعَرَبِيَّةَ وَالتَّمْرَ اللَّذِيذَ. هَذِهِ الْعَادَةُ قَدِيمَةٌ جِدًّا وَمُسْتَمِرَّةٌ حَتَّى الْآنَ. يَعْتَبِرُ الْعَرَبُ إِكْرَامَ الضَّيْفِ وَاجِبًا وَدَلِيلًا عَلَى الِاحْتِرَامِ.",
-  "translation": "Arapska kultura je poznata po velikodušnosti i gostoprimstvu. Ljudi dočekuju goste sa toplom dobrodošlicom u svojim domovima. Služe im arapsku kafu i ukusne urme. Ovaj običaj je veoma star i nastavlja se do danas. Arapi smatraju ugošćavanje gosta obavezom i dokazom poštovanja.",
-  "translationEn": "Arab culture is famous for generosity and hospitality. People welcome guests with a warm reception in their homes. They offer them Arabic coffee and delicious dates. This custom is very old and continues to this day. Arabs consider honoring a guest a duty and a sign of respect.",
+  "sentences": [
+    {
+      "arabic": "تُشْتَهَرُ الثَّقَافَةُ الْعَرَبِيَّةُ بِالْكَرَمِ وَحُسْنِ الضِّيَافَةِ.",
+      "translation": "Arapska kultura je poznata po velikodušnosti i gostoprimstvu.",
+      "translationEn": "Arab culture is famous for generosity and hospitality."
+    },
+    {
+      "arabic": "يَسْتَقْبِلُ النَّاسُ الضُّيُوفَ بِتَرْحِيبٍ حَارٍّ فِي بُيُوتِهِمْ.",
+      "translation": "Ljudi dočekuju goste sa toplom dobrodošlicom u svojim domovima.",
+      "translationEn": "People welcome guests with a warm reception in their homes."
+    },
+    {
+      "arabic": "يُقَدِّمُونَ لَهُمُ الْقَهْوَةَ الْعَرَبِيَّةَ وَالتَّمْرَ اللَّذِيذَ.",
+      "translation": "Služe im arapsku kafu i ukusne urme.",
+      "translationEn": "They offer them Arabic coffee and delicious dates."
+    },
+    {
+      "arabic": "هَذِهِ الْعَادَةُ قَدِيمَةٌ جِدًّا وَمُسْتَمِرَّةٌ حَتَّى الْآنَ.",
+      "translation": "Ovaj običaj je veoma star i nastavlja se do danas.",
+      "translationEn": "This custom is very old and continues to this day."
+    },
+    {
+      "arabic": "يَعْتَبِرُ الْعَرَبُ إِكْرَامَ الضَّيْفِ وَاجِبًا وَدَلِيلًا عَلَى الِاحْتِرَامِ.",
+      "translation": "Arapi smatraju ugošćavanje gosta obavezom i dokazom poštovanja.",
+      "translationEn": "Arabs consider honoring a guest a duty and a sign of respect."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

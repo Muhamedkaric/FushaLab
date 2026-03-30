@@ -2,8 +2,19 @@
   "id": "travel-b2-002",
   "category": "travel",
   "level": "B2",
-  "arabic": "أَوْصَى الدَّلِيلُ السِّيَاحِيُّ بِزِيَارَةِ الْمَتَاحِفِ الْوَطَنِيَّةِ قَبْلَ الذَّهَابِ إِلَى الْمَوَاقِعِ الْأَثَرِيَّةِ.",
-  "translation": "Turistički vodič preporučio je posjetu nacionalnih muzeja prije odlaska na arheološka nalazišta.",
-  "translationEn": "The tour guide recommended visiting the national museums before going to the archaeological sites.",
-  "metadata": { "difficulty": 2, "tags": ["travel", "museums", "history"] }
+  "sentences": [
+    {
+      "arabic": "أَوْصَى الدَّلِيلُ السِّيَاحِيُّ بِزِيَارَةِ الْمَتَاحِفِ الْوَطَنِيَّةِ قَبْلَ الذَّهَابِ إِلَى الْمَوَاقِعِ الْأَثَرِيَّةِ.",
+      "translation": "Turistički vodič preporučio je posjetu nacionalnih muzeja prije odlaska na arheološka nalazišta.",
+      "translationEn": "The tour guide recommended visiting the national museums before going to the archaeological sites."
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "tags": [
+      "travel",
+      "museums",
+      "history"
+    ]
+  }
 }

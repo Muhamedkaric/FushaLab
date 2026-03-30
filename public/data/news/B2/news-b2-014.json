@@ -2,11 +2,39 @@
   "id": "news-b2-014",
   "category": "news",
   "level": "B2",
-  "arabic": "تُوَاجِهُ الدُّوَلُ الْعَرَبِيَّةُ الْمُطِلَّةُ عَلَى الشَّوَاطِئِ تَهْدِيدًا مُتَنَامِيًا مِنْ ظَاهِرَةِ ارْتِفَاعِ مَنْسُوبِ مِيَاهِ الْبَحْرِ الَّتِي تُهَدِّدُ الْبُنْيَةَ التَّحْتِيَّةَ وَالْأَحْيَاءَ السَّاحِلِيَّةَ. تُعَدُّ دَلْتَا النِّيلِ فِي مِصْرَ مِنَ الْمَنَاطِقِ الْأَكْثَرَ عُرْضَةً لِهَذِهِ الظَّاهِرَةِ، إِذْ قَدْ يُهَجَّرُ مَلَايِينُ مِنَ السُّكَّانِ فِي الْعُقُودِ الْقَادِمَةِ إِذَا لَمْ تُتَّخَذْ تَدَابِيرُ وِقَائِيَّةٌ عَاجِلَةٌ. تَعْكُفُ حُكُومَاتٌ عِدَّةٌ عَلَى إِعْدَادِ خُطَطٍ لِلتَّكَيُّفِ تَشْمَلُ بِنَاءَ حَوَائِطَ بَحْرِيَّةٍ وَإِعَادَةَ رَسْمِ خَرَائِطِ التَّنْمِيَةِ السَّاحِلِيَّةِ. تَطَلَّبَتْ هَذِهِ الْأَزْمَةُ الْبِيئِيَّةُ تَضَافُرَ جُهُودِ الْعُلَمَاءِ وَالْمُخَطِّطِينَ وَصُنَّاعِ الْقَرَارِ. وَيَرَى الْخُبَرَاءُ أَنَّ النَّجَاحَ الْحَقِيقِيَّ يَكْمُنُ فِي الدَّمْجِ بَيْنَ التَّخْفِيفِ وَالتَّكَيُّفِ مَعًا.",
-  "translation": "Arapske priobalne države suočavaju se s rastućom prijetnjom od porasta razine mora koja ugrožava infrastrukturu i priobalna naselja. Nilska delta u Egiptu smatra se jednim od najizloženijih područja ovoj pojavi, jer bi milijuni stanovnika mogli biti raseljeni u nadolazećim decenijama ako se hitno ne poduzmu preventivne mjere. Nekoliko vlada radi na izradi planova prilagodbe koji uključuju izgradnju obalnih nasipa i preispitivanje karata obalnog razvoja. Ova ekološka kriza zahtijeva sinergiju naučnika, planera i donositelja odluka. Stručnjaci smatraju da pravi uspjeh leži u kombinovanju ublažavanja i prilagodbe istovremeno.",
-  "translationEn": "Arab coastal countries face a growing threat from rising sea levels that endanger infrastructure and coastal neighbourhoods. The Nile Delta in Egypt is considered one of the most vulnerable areas to this phenomenon, as millions of residents could be displaced in the coming decades if urgent preventive measures are not taken. Several governments are working on adaptation plans that include building sea walls and redrawing coastal development maps. This environmental crisis requires the combined efforts of scientists, planners, and decision-makers. Experts believe that true success lies in combining both mitigation and adaptation.",
+  "sentences": [
+    {
+      "arabic": "تُوَاجِهُ الدُّوَلُ الْعَرَبِيَّةُ الْمُطِلَّةُ عَلَى الشَّوَاطِئِ تَهْدِيدًا مُتَنَامِيًا مِنْ ظَاهِرَةِ ارْتِفَاعِ مَنْسُوبِ مِيَاهِ الْبَحْرِ الَّتِي تُهَدِّدُ الْبُنْيَةَ التَّحْتِيَّةَ وَالْأَحْيَاءَ السَّاحِلِيَّةَ.",
+      "translation": "Arapske priobalne države suočavaju se s rastućom prijetnjom od porasta razine mora koja ugrožava infrastrukturu i priobalna naselja.",
+      "translationEn": "Arab coastal countries face a growing threat from rising sea levels that endanger infrastructure and coastal neighbourhoods."
+    },
+    {
+      "arabic": "تُعَدُّ دَلْتَا النِّيلِ فِي مِصْرَ مِنَ الْمَنَاطِقِ الْأَكْثَرَ عُرْضَةً لِهَذِهِ الظَّاهِرَةِ، إِذْ قَدْ يُهَجَّرُ مَلَايِينُ مِنَ السُّكَّانِ فِي الْعُقُودِ الْقَادِمَةِ إِذَا لَمْ تُتَّخَذْ تَدَابِيرُ وِقَائِيَّةٌ عَاجِلَةٌ.",
+      "translation": "Nilska delta u Egiptu smatra se jednim od najizloženijih područja ovoj pojavi, jer bi milijuni stanovnika mogli biti raseljeni u nadolazećim decenijama ako se hitno ne poduzmu preventivne mjere.",
+      "translationEn": "The Nile Delta in Egypt is considered one of the most vulnerable areas to this phenomenon, as millions of residents could be displaced in the coming decades if urgent preventive measures are not taken."
+    },
+    {
+      "arabic": "تَعْكُفُ حُكُومَاتٌ عِدَّةٌ عَلَى إِعْدَادِ خُطَطٍ لِلتَّكَيُّفِ تَشْمَلُ بِنَاءَ حَوَائِطَ بَحْرِيَّةٍ وَإِعَادَةَ رَسْمِ خَرَائِطِ التَّنْمِيَةِ السَّاحِلِيَّةِ.",
+      "translation": "Nekoliko vlada radi na izradi planova prilagodbe koji uključuju izgradnju obalnih nasipa i preispitivanje karata obalnog razvoja.",
+      "translationEn": "Several governments are working on adaptation plans that include building sea walls and redrawing coastal development maps."
+    },
+    {
+      "arabic": "تَطَلَّبَتْ هَذِهِ الْأَزْمَةُ الْبِيئِيَّةُ تَضَافُرَ جُهُودِ الْعُلَمَاءِ وَالْمُخَطِّطِينَ وَصُنَّاعِ الْقَرَارِ.",
+      "translation": "Ova ekološka kriza zahtijeva sinergiju naučnika, planera i donositelja odluka.",
+      "translationEn": "This environmental crisis requires the combined efforts of scientists, planners, and decision-makers."
+    },
+    {
+      "arabic": "وَيَرَى الْخُبَرَاءُ أَنَّ النَّجَاحَ الْحَقِيقِيَّ يَكْمُنُ فِي الدَّمْجِ بَيْنَ التَّخْفِيفِ وَالتَّكَيُّفِ مَعًا.",
+      "translation": "Stručnjaci smatraju da pravi uspjeh leži u kombinovanju ublažavanja i prilagodbe istovremeno.",
+      "translationEn": "Experts believe that true success lies in combining both mitigation and adaptation."
+    }
+  ],
   "metadata": {
     "difficulty": 2,
-    "tags": ["environment", "sea level", "Egypt"]
+    "tags": [
+      "environment",
+      "sea level",
+      "Egypt"
+    ]
   }
 }

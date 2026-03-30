@@ -2,9 +2,33 @@
   "id": "literature-b1-064",
   "category": "literature",
   "level": "B1",
-  "arabic": "كِتَابُ \"كَلِيلَة وَدِمْنَة\" هُوَ مَجْمُوعَةٌ مِنَ الْقِصَصِ عَلَى أَلْسِنَةِ الْحَيَوَانَاتِ. تُرْجِمَ هَذَا الْكِتَابُ إِلَى اللُّغَةِ الْعَرَبِيَّةِ مُنْذُ زَمَنٍ بَعِيدٍ. تَتَحَدَّثُ الْحَيَوَانَاتُ فِي الْكِتَابِ عَنِ الصَّدَاقَةِ وَالْوَفَاءِ وَالْعَدْلِ. هُوَ كِتَابٌ مُفِيدٌ لِلْكِبَارِ وَالصِّغَارِ عَلَى حَدٍّ سَوَاءٍ. نَتَعَلَّمُ مِنْهُ كَيْفَ نَتَعَامَلُ مَعَ الْآخَرِينَ بِذَكَاءٍ.",
-  "translation": "Knjiga \"Kalila i Dimna\" je zbirka priča koje pričaju životinje. Ova knjiga je davno prevedena na arapski jezik. Životinje u knjizi govore o prijateljstvu, odanosti i pravdi. To je korisna knjiga kako za odrasle tako i za djecu. Iz nje učimo kako da se inteligentno ophodimo prema drugima.",
-  "translationEn": "The book 'Kalila and Dimna' is a collection of stories told by animals. This book was translated into Arabic a long time ago. The animals in the book talk about friendship, loyalty, and justice. It is a useful book for both adults and children alike. We learn from it how to deal with others intelligently.",
+  "sentences": [
+    {
+      "arabic": "كِتَابُ \"كَلِيلَة وَدِمْنَة\" هُوَ مَجْمُوعَةٌ مِنَ الْقِصَصِ عَلَى أَلْسِنَةِ الْحَيَوَانَاتِ.",
+      "translation": "Knjiga \"Kalila i Dimna\" je zbirka priča koje pričaju životinje.",
+      "translationEn": "The book 'Kalila and Dimna' is a collection of stories told by animals."
+    },
+    {
+      "arabic": "تُرْجِمَ هَذَا الْكِتَابُ إِلَى اللُّغَةِ الْعَرَبِيَّةِ مُنْذُ زَمَنٍ بَعِيدٍ.",
+      "translation": "Ova knjiga je davno prevedena na arapski jezik.",
+      "translationEn": "This book was translated into Arabic a long time ago."
+    },
+    {
+      "arabic": "تَتَحَدَّثُ الْحَيَوَانَاتُ فِي الْكِتَابِ عَنِ الصَّدَاقَةِ وَالْوَفَاءِ وَالْعَدْلِ.",
+      "translation": "Životinje u knjizi govore o prijateljstvu, odanosti i pravdi.",
+      "translationEn": "The animals in the book talk about friendship, loyalty, and justice."
+    },
+    {
+      "arabic": "هُوَ كِتَابٌ مُفِيدٌ لِلْكِبَارِ وَالصِّغَارِ عَلَى حَدٍّ سَوَاءٍ.",
+      "translation": "To je korisna knjiga kako za odrasle tako i za djecu.",
+      "translationEn": "It is a useful book for both adults and children alike."
+    },
+    {
+      "arabic": "نَتَعَلَّمُ مِنْهُ كَيْفَ نَتَعَامَلُ مَعَ الْآخَرِينَ بِذَكَاءٍ.",
+      "translation": "Iz nje učimo kako da se inteligentno ophodimo prema drugima.",
+      "translationEn": "We learn from it how to deal with others intelligently."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

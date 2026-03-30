@@ -2,9 +2,33 @@
   "id": "travel-b1-052",
   "category": "travel",
   "level": "B1",
-  "arabic": "حَجَزْتُ غُرْفَةً مُفْرَدَةً فِي فُنْدُقٍ قَرِيبٍ مِنَ الشَّاطِئِ. عِنْدَمَا وَصَلْتُ، قَدَّمْتُ هُوِيَّتِي لِمُوَظَّفِ الِاسْتِقْبَالِ. الْغُرْفَةُ وَاسِعَةٌ وَتُطِلُّ عَلَى الْبَحْرِ الْأَزْرَقِ. يُوجَدُ فِي الْفُنْدُقِ مَطْعَمٌ كَبِيرٌ يُقَدِّمُ أَطْبَاقًا مَحَلِّيَّةً لَذِيذَةً. سَأَبْقَى هُنَا لِمُدَّةِ أُسْبُوعٍ كَامِلٍ لِلِاسْتِرْخَاءِ.",
-  "translation": "Rezervisao sam jednokrevetnu sobu u hotelu blizu plaže. Kada sam stigao, pokazao sam ličnu kartu recepcioneru. Soba je prostrana i gleda na plavo more. U hotelu se nalazi veliki restoran koji služi ukusna lokalna jela. Ovdje ću ostati punih sedam dana radi odmora.",
-  "translationEn": "I booked a single room in a hotel near the beach. When I arrived, I presented my ID to the receptionist. The room is spacious and overlooks the blue sea. The hotel has a large restaurant that serves delicious local dishes. I will stay here for a whole week to relax.",
+  "sentences": [
+    {
+      "arabic": "حَجَزْتُ غُرْفَةً مُفْرَدَةً فِي فُنْدُقٍ قَرِيبٍ مِنَ الشَّاطِئِ.",
+      "translation": "Rezervisao sam jednokrevetnu sobu u hotelu blizu plaže.",
+      "translationEn": "I booked a single room in a hotel near the beach."
+    },
+    {
+      "arabic": "عِنْدَمَا وَصَلْتُ، قَدَّمْتُ هُوِيَّتِي لِمُوَظَّفِ الِاسْتِقْبَالِ.",
+      "translation": "Kada sam stigao, pokazao sam ličnu kartu recepcioneru.",
+      "translationEn": "When I arrived, I presented my ID to the receptionist."
+    },
+    {
+      "arabic": "الْغُرْفَةُ وَاسِعَةٌ وَتُطِلُّ عَلَى الْبَحْرِ الْأَزْرَقِ.",
+      "translation": "Soba je prostrana i gleda na plavo more.",
+      "translationEn": "The room is spacious and overlooks the blue sea."
+    },
+    {
+      "arabic": "يُوجَدُ فِي الْفُنْدُقِ مَطْعَمٌ كَبِيرٌ يُقَدِّمُ أَطْبَاقًا مَحَلِّيَّةً لَذِيذَةً.",
+      "translation": "U hotelu se nalazi veliki restoran koji služi ukusna lokalna jela.",
+      "translationEn": "The hotel has a large restaurant that serves delicious local dishes."
+    },
+    {
+      "arabic": "سَأَبْقَى هُنَا لِمُدَّةِ أُسْبُوعٍ كَامِلٍ لِلِاسْتِرْخَاءِ.",
+      "translation": "Ovdje ću ostati punih sedam dana radi odmora.",
+      "translationEn": "I will stay here for a whole week to relax."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

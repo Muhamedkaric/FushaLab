@@ -2,9 +2,33 @@
   "id": "news-b1-061",
   "category": "news",
   "level": "B1",
-  "arabic": "بَدَأَتِ المَدَارِسُ فِي اسْتِخْدَامِ الذَّكَاءِ الِاصْطِنَاعِيِّ لِمُسَاعَدَةِ الطُّلَّابِ. يُسَاعِدُ هَذَا النِّظَامُ الجَدِيدُ فِي تَحْسِينِ مَهَارَاتِ القِرَاءَةِ وَالكِتَابَةِ. يَقُولُ المُعَلِّمُونَ إِنَّ التِّكْنُولُوجْيَا تُوَفِّرُ وَقْتًا كَبِيرًا لَهُمْ. سَيَكُونُ لِكُلِّ طَالِبٍ بَرْنَامَجٌ خَاصٌّ يُنَاسِبُ مُسْتَوَاهُ الدِّرَاسِيَّ. يَتَمَنَّى الجَمِيعُ أَنْ تَنْجَحَ هَذِهِ التَّجْرِبَةُ فِي المُسْتَقْبَلِ.",
-  "translation": "Škole su počele koristiti vještačku inteligenciju kako bi pomogle učenicima. Ovaj novi sistem pomaže u poboljšanju vještina čitanja i pisanja. Nastavnici kažu da im tehnologija štedi mnogo vremena. Svaki učenik će imati poseban program koji odgovara njegovom nivou obrazovanja. Svi se nadaju da će ovaj eksperiment uspjeti u budućnosti.",
-  "translationEn": "Schools have started using artificial intelligence to help students. This new system helps improve reading and writing skills. Teachers say that technology saves them a lot of time. Each student will have a specific program that suits their educational level. Everyone hopes that this experiment will succeed in the future.",
+  "sentences": [
+    {
+      "arabic": "بَدَأَتِ المَدَارِسُ فِي اسْتِخْدَامِ الذَّكَاءِ الِاصْطِنَاعِيِّ لِمُسَاعَدَةِ الطُّلَّابِ.",
+      "translation": "Škole su počele koristiti vještačku inteligenciju kako bi pomogle učenicima.",
+      "translationEn": "Schools have started using artificial intelligence to help students."
+    },
+    {
+      "arabic": "يُسَاعِدُ هَذَا النِّظَامُ الجَدِيدُ فِي تَحْسِينِ مَهَارَاتِ القِرَاءَةِ وَالكِتَابَةِ.",
+      "translation": "Ovaj novi sistem pomaže u poboljšanju vještina čitanja i pisanja.",
+      "translationEn": "This new system helps improve reading and writing skills."
+    },
+    {
+      "arabic": "يَقُولُ المُعَلِّمُونَ إِنَّ التِّكْنُولُوجْيَا تُوَفِّرُ وَقْتًا كَبِيرًا لَهُمْ.",
+      "translation": "Nastavnici kažu da im tehnologija štedi mnogo vremena.",
+      "translationEn": "Teachers say that technology saves them a lot of time."
+    },
+    {
+      "arabic": "سَيَكُونُ لِكُلِّ طَالِبٍ بَرْنَامَجٌ خَاصٌّ يُنَاسِبُ مُسْتَوَاهُ الدِّرَاسِيَّ.",
+      "translation": "Svaki učenik će imati poseban program koji odgovara njegovom nivou obrazovanja.",
+      "translationEn": "Each student will have a specific program that suits their educational level."
+    },
+    {
+      "arabic": "يَتَمَنَّى الجَمِيعُ أَنْ تَنْجَحَ هَذِهِ التَّجْرِبَةُ فِي المُسْتَقْبَلِ.",
+      "translation": "Svi se nadaju da će ovaj eksperiment uspjeti u budućnosti.",
+      "translationEn": "Everyone hopes that this experiment will succeed in the future."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

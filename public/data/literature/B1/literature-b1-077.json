@@ -2,9 +2,33 @@
   "id": "literature-b1-077",
   "category": "literature",
   "level": "B1",
-  "arabic": "كَانَتِ الْقِصَصُ الْقَدِيمَةُ تَسْتَخْدِمُ الْحَيَوَانَاتِ لِتَعْلِيمِ الْأَطْفَالِ. مَثَلًا، نَحْنُ نَعْرِفُ قِصَّةَ الْأَسَدِ وَالْفَأْرِ الصَّغِيرِ. هَذِهِ الْحِكَايَاتُ تُعْطِينَا حِكْمَةً مُفِيدَةً فِي حَيَاتِنَا. الْكَاتِبُ يَسْتَعْمِلُ لُغَةً سَهْلَةً وَجَمِيلَةً جِدًّا. الْقِصَّةُ تُعَلِّمُنَا أَنَّ الصَّدِيقَ الْحَقِيقِيَّ يَظْهَرُ فِي وَقْتِ الشِّدَّةِ.",
-  "translation": "Stare priče su koristile životinje kako bi podučavale djecu. Na primjer, poznajemo priču o lavu i malom mišu. Ove pripovijetke nam daju korisnu mudrost u našem životu. Pisac koristi veoma jednostavan i lijep jezik. Priča nas uči da se pravi prijatelj prepoznaje u nevolji.",
-  "translationEn": "Old stories used animals to teach children. For example, we know the story of the lion and the little mouse. These tales give us useful wisdom in our lives. The writer uses very simple and beautiful language. The story teaches us that a true friend appears in times of hardship.",
+  "sentences": [
+    {
+      "arabic": "كَانَتِ الْقِصَصُ الْقَدِيمَةُ تَسْتَخْدِمُ الْحَيَوَانَاتِ لِتَعْلِيمِ الْأَطْفَالِ.",
+      "translation": "Stare priče su koristile životinje kako bi podučavale djecu.",
+      "translationEn": "Old stories used animals to teach children."
+    },
+    {
+      "arabic": "مَثَلًا، نَحْنُ نَعْرِفُ قِصَّةَ الْأَسَدِ وَالْفَأْرِ الصَّغِيرِ.",
+      "translation": "Na primjer, poznajemo priču o lavu i malom mišu.",
+      "translationEn": "For example, we know the story of the lion and the little mouse."
+    },
+    {
+      "arabic": "هَذِهِ الْحِكَايَاتُ تُعْطِينَا حِكْمَةً مُفِيدَةً فِي حَيَاتِنَا.",
+      "translation": "Ove pripovijetke nam daju korisnu mudrost u našem životu.",
+      "translationEn": "These tales give us useful wisdom in our lives."
+    },
+    {
+      "arabic": "الْكَاتِبُ يَسْتَعْمِلُ لُغَةً سَهْلَةً وَجَمِيلَةً جِدًّا.",
+      "translation": "Pisac koristi veoma jednostavan i lijep jezik.",
+      "translationEn": "The writer uses very simple and beautiful language."
+    },
+    {
+      "arabic": "الْقِصَّةُ تُعَلِّمُنَا أَنَّ الصَّدِيقَ الْحَقِيقِيَّ يَظْهَرُ فِي وَقْتِ الشِّدَّةِ.",
+      "translation": "Priča nas uči da se pravi prijatelj prepoznaje u nevolji.",
+      "translationEn": "The story teaches us that a true friend appears in times of hardship."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

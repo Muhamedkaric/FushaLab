@@ -2,11 +2,35 @@
   "id": "culture-b1-022",
   "category": "culture",
   "level": "B1",
-  "arabic": "الزَّخَارِفُ الْعَرَبِيَّةُ نُقُوشٌ هَنْدَسِيَّةٌ وَنَبَاتِيَّةٌ تُزَيِّنُ الْمَسَاجِدَ وَالْقُصُورَ. يَرْسُمُ الْفَنَّانُ هَذِهِ النُّقُوشَ بِدِقَّةٍ كَبِيرَةٍ عَلَى الْجُدْرَانِ وَالسُّقُوفِ. تَكَرَّرُ الْأَشْكَالُ الْهَنْدَسِيَّةُ بِطَرِيقَةٍ جَمِيلَةٍ تَمْلَأُ الْعَيْنَ بِالدَّهْشَةِ. اشْتُهِرَ هَذَا الْفَنُّ فِي أَسْبَانِيَا وَفَارِسَ وَشَمَالِ أَفْرِيقِيَا.",
-  "translation": "Arapski ornamenti su geometrijski i biljni ukrasi koji krase džamije i palače. Umjetnik crta ove ukrase s velikom preciznošću na zidovima i stropovima. Geometrijski oblici se ponavljaju na lijep način koji puni oko čuđenjem. Ova umjetnost postala je poznata u Španiji, Perziji i sjevernoj Africi.",
-  "translationEn": "Arabic ornamental patterns are geometric and floral decorations that adorn mosques and palaces. The artist draws these patterns with great precision on walls and ceilings. The geometric shapes repeat in a beautiful way that fills the eye with wonder. This art became famous in Spain, Persia, and North Africa.",
+  "sentences": [
+    {
+      "arabic": "الزَّخَارِفُ الْعَرَبِيَّةُ نُقُوشٌ هَنْدَسِيَّةٌ وَنَبَاتِيَّةٌ تُزَيِّنُ الْمَسَاجِدَ وَالْقُصُورَ.",
+      "translation": "Arapski ornamenti su geometrijski i biljni ukrasi koji krase džamije i palače.",
+      "translationEn": "Arabic ornamental patterns are geometric and floral decorations that adorn mosques and palaces."
+    },
+    {
+      "arabic": "يَرْسُمُ الْفَنَّانُ هَذِهِ النُّقُوشَ بِدِقَّةٍ كَبِيرَةٍ عَلَى الْجُدْرَانِ وَالسُّقُوفِ.",
+      "translation": "Umjetnik crta ove ukrase s velikom preciznošću na zidovima i stropovima.",
+      "translationEn": "The artist draws these patterns with great precision on walls and ceilings."
+    },
+    {
+      "arabic": "تَكَرَّرُ الْأَشْكَالُ الْهَنْدَسِيَّةُ بِطَرِيقَةٍ جَمِيلَةٍ تَمْلَأُ الْعَيْنَ بِالدَّهْشَةِ.",
+      "translation": "Geometrijski oblici se ponavljaju na lijep način koji puni oko čuđenjem.",
+      "translationEn": "The geometric shapes repeat in a beautiful way that fills the eye with wonder."
+    },
+    {
+      "arabic": "اشْتُهِرَ هَذَا الْفَنُّ فِي أَسْبَانِيَا وَفَارِسَ وَشَمَالِ أَفْرِيقِيَا.",
+      "translation": "Ova umjetnost postala je poznata u Španiji, Perziji i sjevernoj Africi.",
+      "translationEn": "This art became famous in Spain, Persia, and North Africa."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["arabesque", "art", "architecture", "ornamentation"]
+    "tags": [
+      "arabesque",
+      "art",
+      "architecture",
+      "ornamentation"
+    ]
   }
 }

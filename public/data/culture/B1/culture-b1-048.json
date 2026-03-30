@@ -2,9 +2,33 @@
   "id": "culture-b1-048",
   "category": "culture",
   "level": "B1",
-  "arabic": "تَعْكِسُ المُوسِيقَى العَرَبِيَّةُ تَارِيخَ الشُّعُوبِ وَمَشَاعِرَهُمْ. يَسْتَخْدَمُ العَازِفُونَ آلَاتٍ قَدِيمَةً مِثْلَ العُودِ وَالقَانُونِ. كَانَتِ الأَغَانِي تَتَحَدَّثُ عَنِ الحُبِّ وَالطَّبِيعَةِ وَالوَطَنِ. يَسْتَمِعُ النَّاسُ إِلَى الأَلْحَانِ الهَادِئَةِ فِي المَسَاءِ. تُعْتَبَرُ هَذِهِ الفُنُونُ جُزْءًا مِنَ الهُوِيَّةِ الثَّقَافِيَّةِ.",
-  "translation": "Arapska muzika odražava historiju naroda i njihova osjećanja. Muzičari koriste stare instrumente poput uda i kanuna. Pjesme su govorile o ljubavi, prirodi i domovini. Ljudi slušaju mirne melodije u večernjim satima. Ove umjetnosti se smatraju dijelom kulturnog identiteta.",
-  "translationEn": "Arab music reflects the history of peoples and their feelings. Musicians use ancient instruments such as the oud and the qanun. The songs used to talk about love, nature, and the homeland. People listen to calm melodies in the evening. These arts are considered a part of cultural identity.",
+  "sentences": [
+    {
+      "arabic": "تَعْكِسُ المُوسِيقَى العَرَبِيَّةُ تَارِيخَ الشُّعُوبِ وَمَشَاعِرَهُمْ.",
+      "translation": "Arapska muzika odražava historiju naroda i njihova osjećanja.",
+      "translationEn": "Arab music reflects the history of peoples and their feelings."
+    },
+    {
+      "arabic": "يَسْتَخْدَمُ العَازِفُونَ آلَاتٍ قَدِيمَةً مِثْلَ العُودِ وَالقَانُونِ.",
+      "translation": "Muzičari koriste stare instrumente poput uda i kanuna.",
+      "translationEn": "Musicians use ancient instruments such as the oud and the qanun."
+    },
+    {
+      "arabic": "كَانَتِ الأَغَانِي تَتَحَدَّثُ عَنِ الحُبِّ وَالطَّبِيعَةِ وَالوَطَنِ.",
+      "translation": "Pjesme su govorile o ljubavi, prirodi i domovini.",
+      "translationEn": "The songs used to talk about love, nature, and the homeland."
+    },
+    {
+      "arabic": "يَسْتَمِعُ النَّاسُ إِلَى الأَلْحَانِ الهَادِئَةِ فِي المَسَاءِ.",
+      "translation": "Ljudi slušaju mirne melodije u večernjim satima.",
+      "translationEn": "People listen to calm melodies in the evening."
+    },
+    {
+      "arabic": "تُعْتَبَرُ هَذِهِ الفُنُونُ جُزْءًا مِنَ الهُوِيَّةِ الثَّقَافِيَّةِ.",
+      "translation": "Ove umjetnosti se smatraju dijelom kulturnog identiteta.",
+      "translationEn": "These arts are considered a part of cultural identity."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

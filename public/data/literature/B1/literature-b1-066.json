@@ -2,9 +2,33 @@
   "id": "literature-b1-066",
   "category": "literature",
   "level": "B1",
-  "arabic": "كَانَ الشِّعْرُ الْعَرَبِيُّ دَائِمًا جُزْءًا هَامًّا مِنَ الثَّقَافَةِ. يَكْتُبُ الشُّعَرَاءُ عَنِ الْجَمَالِ وَالشَّجَاعَةِ وَالْحِكْمَةِ. يَقْرَأُ النَّاسُ الْقَصَائِدَ فِي الْمَجَالِسِ الْعَامَّةِ. يُسَاعِدُ الشِّعْرُ عَلَى حِفْظِ التَّارِيخِ وَاللُّغَةِ. يُحِبُّ الطُّلَّابُ تَعَلُّمَ أَبْيَاتِ الشِّعْرِ الْقَدِيمَةِ.",
-  "translation": "Arapska poezija je oduvijek bila važan dio kulture. Pjesnici pišu o ljepoti, hrabrosti i mudrosti. Ljudi čitaju pjesme na javnim skupovima. Poezija pomaže u očuvanju historije i jezika. Studenti vole učiti stare stihove poezije.",
-  "translationEn": "Arabic poetry has always been an important part of culture. Poets write about beauty, courage, and wisdom. People read poems in public gatherings. Poetry helps in preserving history and language. Students love learning old verses of poetry.",
+  "sentences": [
+    {
+      "arabic": "كَانَ الشِّعْرُ الْعَرَبِيُّ دَائِمًا جُزْءًا هَامًّا مِنَ الثَّقَافَةِ.",
+      "translation": "Arapska poezija je oduvijek bila važan dio kulture.",
+      "translationEn": "Arabic poetry has always been an important part of culture."
+    },
+    {
+      "arabic": "يَكْتُبُ الشُّعَرَاءُ عَنِ الْجَمَالِ وَالشَّجَاعَةِ وَالْحِكْمَةِ.",
+      "translation": "Pjesnici pišu o ljepoti, hrabrosti i mudrosti.",
+      "translationEn": "Poets write about beauty, courage, and wisdom."
+    },
+    {
+      "arabic": "يَقْرَأُ النَّاسُ الْقَصَائِدَ فِي الْمَجَالِسِ الْعَامَّةِ.",
+      "translation": "Ljudi čitaju pjesme na javnim skupovima.",
+      "translationEn": "People read poems in public gatherings."
+    },
+    {
+      "arabic": "يُسَاعِدُ الشِّعْرُ عَلَى حِفْظِ التَّارِيخِ وَاللُّغَةِ.",
+      "translation": "Poezija pomaže u očuvanju historije i jezika.",
+      "translationEn": "Poetry helps in preserving history and language."
+    },
+    {
+      "arabic": "يُحِبُّ الطُّلَّابُ تَعَلُّمَ أَبْيَاتِ الشِّعْرِ الْقَدِيمَةِ.",
+      "translation": "Studenti vole učiti stare stihove poezije.",
+      "translationEn": "Students love learning old verses of poetry."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

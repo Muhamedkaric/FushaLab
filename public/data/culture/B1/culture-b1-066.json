@@ -2,9 +2,28 @@
   "id": "culture-b1-066",
   "category": "culture",
   "level": "B1",
-  "arabic": "يُعْتَبَرُ الْكَرَمُ جُزْءًا هَامًّا مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ. عِنْدَمَا يَزُورُ الضَّيْفُ مَنْزِلًا، يُقَدِّمُ لَهُ صَاحِبُ الْبَيْتِ الْقَهْوَةَ وَالتَّمْرَ. يُرَحِّبُ الْعَرَبُ بِالضُّيُوفِ بِحَرَارَةٍ وَيَهْتَمُّونَ بِرَاحَتِهِمْ كَثِيرًا. هَذِهِ الْعَادَةُ تَعْكِسُ قِيَمَ الْمَحَبَّةِ وَالتَّقْدِيرِ بَيْنَ النَّاسِ.",
-  "translation": "Gostoljubivost se smatra važnim dijelom arapske kulture. Kada gost posjeti dom, domaćin mu poslužuje kafu i hurme. Arapi srdačno dočekuju goste i mnogo brinu o njihovoj udobnosti. Ovaj običaj odražava vrijednosti ljubavi i poštovanja među ljudima.",
-  "translationEn": "Hospitality is considered an important part of Arab culture. When a guest visits a home, the host offers them coffee and dates. Arabs welcome guests warmly and care greatly for their comfort. This custom reflects the values of love and appreciation among people.",
+  "sentences": [
+    {
+      "arabic": "يُعْتَبَرُ الْكَرَمُ جُزْءًا هَامًّا مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
+      "translation": "Gostoljubivost se smatra važnim dijelom arapske kulture.",
+      "translationEn": "Hospitality is considered an important part of Arab culture."
+    },
+    {
+      "arabic": "عِنْدَمَا يَزُورُ الضَّيْفُ مَنْزِلًا، يُقَدِّمُ لَهُ صَاحِبُ الْبَيْتِ الْقَهْوَةَ وَالتَّمْرَ.",
+      "translation": "Kada gost posjeti dom, domaćin mu poslužuje kafu i hurme.",
+      "translationEn": "When a guest visits a home, the host offers them coffee and dates."
+    },
+    {
+      "arabic": "يُرَحِّبُ الْعَرَبُ بِالضُّيُوفِ بِحَرَارَةٍ وَيَهْتَمُّونَ بِرَاحَتِهِمْ كَثِيرًا.",
+      "translation": "Arapi srdačno dočekuju goste i mnogo brinu o njihovoj udobnosti.",
+      "translationEn": "Arabs welcome guests warmly and care greatly for their comfort."
+    },
+    {
+      "arabic": "هَذِهِ الْعَادَةُ تَعْكِسُ قِيَمَ الْمَحَبَّةِ وَالتَّقْدِيرِ بَيْنَ النَّاسِ.",
+      "translation": "Ovaj običaj odražava vrijednosti ljubavi i poštovanja među ljudima.",
+      "translationEn": "This custom reflects the values of love and appreciation among people."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

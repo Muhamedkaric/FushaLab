@@ -2,9 +2,33 @@
   "id": "literature-b1-030",
   "category": "literature",
   "level": "B1",
-  "arabic": "كَانَ الرَّجُلُ الْعَجُوزُ يَعْمَلُ فِي تَجْلِيدِ الْكُتُبِ مُنْذُ خَمْسِينَ سَنَةً. جَاءَهُ يَوْمًا كِتَابٌ قَدِيمٌ تَمَزَّقَتْ صَفَحَاتُهُ وَاحْتَرَقَتْ أَطْرَافُهُ. عَمِلَ بِصَبْرٍ وَحُبٍّ لِأُسَابِيعَ حَتَّى أَصْلَحَ كُلَّ صَفْحَةٍ بِيَدَيْهِ. حِينَ أَعَادَ الْكِتَابَ إِلَى صَاحِبِهِ، بَكَى الرَّجُلُ مِنَ الْفَرَحِ لِأَنَّهُ كِتَابُ جَدِّهِ. قَالَ الْمُجَلِّدُ الْعَجُوزُ: «لَيْسَ عَمَلِي تَجْلِيدُ الْوَرَقِ، بَلْ حِفْظُ الذَّاكِرَةِ الَّتِي بَيْنَ يَدَيَّ.»",
-  "translation": "Starac je radio u uvezivanju knjiga već pedeset godina. Jednog dana donesena mu je stara knjiga s poderanim stranicama i spaljenim rubovima. Radio je strpljivo i s ljubavlju tjednima dok nije popravio svaku stranicu vlastitim rukama. Kad je vratio knjigu vlasniku, čovjek je zaплakao od radosti jer je to bila knjiga njegovog djeda. Stari uvezivač je rekao: „Moj posao nije uvezivanje papira — već čuvanje sjećanja koja mi se predaju u ruke.\"",
-  "translationEn": "The old man had been working as a bookbinder for fifty years. One day a very old book arrived with torn pages and scorched edges. He worked with patience and love for weeks until he had repaired every page by hand. When he returned the book to its owner, the man wept with joy — it had been his grandfather's book. The old bookbinder said: \"My work is not binding paper — it is preserving the memories that are placed in my hands.\"",
+  "sentences": [
+    {
+      "arabic": "كَانَ الرَّجُلُ الْعَجُوزُ يَعْمَلُ فِي تَجْلِيدِ الْكُتُبِ مُنْذُ خَمْسِينَ سَنَةً.",
+      "translation": "Starac je radio u uvezivanju knjiga već pedeset godina.",
+      "translationEn": "The old man had been working as a bookbinder for fifty years."
+    },
+    {
+      "arabic": "جَاءَهُ يَوْمًا كِتَابٌ قَدِيمٌ تَمَزَّقَتْ صَفَحَاتُهُ وَاحْتَرَقَتْ أَطْرَافُهُ.",
+      "translation": "Jednog dana donesena mu je stara knjiga s poderanim stranicama i spaljenim rubovima.",
+      "translationEn": "One day a very old book arrived with torn pages and scorched edges."
+    },
+    {
+      "arabic": "عَمِلَ بِصَبْرٍ وَحُبٍّ لِأُسَابِيعَ حَتَّى أَصْلَحَ كُلَّ صَفْحَةٍ بِيَدَيْهِ.",
+      "translation": "Radio je strpljivo i s ljubavlju tjednima dok nije popravio svaku stranicu vlastitim rukama.",
+      "translationEn": "He worked with patience and love for weeks until he had repaired every page by hand."
+    },
+    {
+      "arabic": "حِينَ أَعَادَ الْكِتَابَ إِلَى صَاحِبِهِ، بَكَى الرَّجُلُ مِنَ الْفَرَحِ لِأَنَّهُ كِتَابُ جَدِّهِ.",
+      "translation": "Kad je vratio knjigu vlasniku, čovjek je zaплakao od radosti jer je to bila knjiga njegovog djeda.",
+      "translationEn": "When he returned the book to its owner, the man wept with joy — it had been his grandfather's book."
+    },
+    {
+      "arabic": "قَالَ الْمُجَلِّدُ الْعَجُوزُ: «لَيْسَ عَمَلِي تَجْلِيدُ الْوَرَقِ، بَلْ حِفْظُ الذَّاكِرَةِ الَّتِي بَيْنَ يَدَيَّ.»",
+      "translation": "Stari uvezivač je rekao: „Moj posao nije uvezivanje papira — već čuvanje sjećanja koja mi se predaju u ruke.\"",
+      "translationEn": "The old bookbinder said: \"My work is not binding paper — it is preserving the memories that are placed in my hands.\""
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

@@ -2,9 +2,33 @@
   "id": "news-b1-045",
   "category": "news",
   "level": "B1",
-  "arabic": "افْتَتَحَتِ الْمَدِينَةُ مَكْتَبَةً عَامَّةً كَبِيرَةً فِي وَسَطِ الْمَرْكَزِ الثَّقَافِيِّ. تَحْتَوِي الْمَكْتَبَةُ عَلَى آلَافِ الْكُتُبِ فِي مُخْتَلَفِ الْمَجَالَاتِ الْعِلْمِيَّةِ وَالْأَدَبِيَّةِ. حَضَرَ حَفْلَ الِافْتِتَاحِ عَدَدٌ كَبِيرٌ مِنَ الْكُتَّابِ وَالْمُثَقَّفِينَ وَالطُّلَّابِ. تُقَدِّمُ الْمَكْتَبَةُ أَيْضًا خِدْمَاتٍ مَجَّانِيَّةً لِلْأَطْفَالِ لِتَشْجِيعِهِمْ عَلَى الْقِرَاءَةِ. يُعْتَبَرُ هَذَا الْمَشْرُوعُ خُطْوَةً هَامَّةً لِتَطْوِيرِ الْمُجْتَمَعِ.",
-  "translation": "Grad je otvorio veliku javnu biblioteku u srcu kulturnog centra. Biblioteka sadrži hiljade knjiga iz različitih naučnih i književnih oblasti. Ceremoniji otvaranja prisustvovao je veliki broj pisaca, intelektualaca i studenata. Biblioteka također nudi besplatne usluge za djecu kako bi ih podstakla na čitanje. Ovaj projekat se smatra važnim korakom za razvoj društva.",
-  "translationEn": "The city opened a large public library in the heart of the cultural center. The library contains thousands of books in various scientific and literary fields. A large number of writers, intellectuals, and students attended the opening ceremony. The library also offers free services for children to encourage them to read. This project is considered an important step for the development of society.",
+  "sentences": [
+    {
+      "arabic": "افْتَتَحَتِ الْمَدِينَةُ مَكْتَبَةً عَامَّةً كَبِيرَةً فِي وَسَطِ الْمَرْكَزِ الثَّقَافِيِّ.",
+      "translation": "Grad je otvorio veliku javnu biblioteku u srcu kulturnog centra.",
+      "translationEn": "The city opened a large public library in the heart of the cultural center."
+    },
+    {
+      "arabic": "تَحْتَوِي الْمَكْتَبَةُ عَلَى آلَافِ الْكُتُبِ فِي مُخْتَلَفِ الْمَجَالَاتِ الْعِلْمِيَّةِ وَالْأَدَبِيَّةِ.",
+      "translation": "Biblioteka sadrži hiljade knjiga iz različitih naučnih i književnih oblasti.",
+      "translationEn": "The library contains thousands of books in various scientific and literary fields."
+    },
+    {
+      "arabic": "حَضَرَ حَفْلَ الِافْتِتَاحِ عَدَدٌ كَبِيرٌ مِنَ الْكُتَّابِ وَالْمُثَقَّفِينَ وَالطُّلَّابِ.",
+      "translation": "Ceremoniji otvaranja prisustvovao je veliki broj pisaca, intelektualaca i studenata.",
+      "translationEn": "A large number of writers, intellectuals, and students attended the opening ceremony."
+    },
+    {
+      "arabic": "تُقَدِّمُ الْمَكْتَبَةُ أَيْضًا خِدْمَاتٍ مَجَّانِيَّةً لِلْأَطْفَالِ لِتَشْجِيعِهِمْ عَلَى الْقِرَاءَةِ.",
+      "translation": "Biblioteka također nudi besplatne usluge za djecu kako bi ih podstakla na čitanje.",
+      "translationEn": "The library also offers free services for children to encourage them to read."
+    },
+    {
+      "arabic": "يُعْتَبَرُ هَذَا الْمَشْرُوعُ خُطْوَةً هَامَّةً لِتَطْوِيرِ الْمُجْتَمَعِ.",
+      "translation": "Ovaj projekat se smatra važnim korakom za razvoj društva.",
+      "translationEn": "This project is considered an important step for the development of society."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

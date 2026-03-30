@@ -2,9 +2,33 @@
   "id": "religion-b1-088",
   "category": "religion",
   "level": "B1",
-  "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنْ أَرْكَانِ الْإِسْلَامِ. شَبَّهَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الصَّلَوَاتِ الْخَمْسَ بِنَهْرٍ جَارٍ يَمْسَحُ الْخَطَايَا [رَوَاهُ الْبُخَارِيُّ فِي كِتَابِ مَوَاقِيتِ الصَّلَاةِ]. مَنْ تَوَضَّأَ وَصَلَّى، غَسَلَ اللَّهُ ذُنُوبَهُ كَمَا يَغْسِلُ الْمَاءُ الْوَسَخَ. تُسَاعِدُ الصَّلَاةُ الْمُسْلِمَ عَلَى الرَّاحَةِ وَالطُّمَأْنِينَةِ النَّفْسِيَّةِ. لِذَلِكَ يُحَافِظُ الْمُؤْمِنُ الصَّادِقُ عَلَى صَلَاتِهِ فِي وَقْتِهَا الْمُحَدَّدِ.",
-  "translation": "Namaz je drugi stub od stubova islama. Vjerovjesnik, sallallahu alejhi ve sellem, je uporedio pet dnevnih namaza sa tekućom rijekom koja briše grijehe [Bilježi el-Buhari u Knjizi o namaskim vremenima]. Ko uzme abdest i klanja, Allah mu briše grijehe kao što voda spira prljavštinu. Namaz pomaže muslimanu da pronađe odmor i duševni smiraj. Zato iskreni vjernik čuva svoj namaz u njegovom određenom vremenu.",
-  "translationEn": "Prayer is the second pillar of the pillars of Islam. The Prophet (peace be upon him) likened the five daily prayers to a running river that wipes away sins [Reported by al-Bukhari in the Book of Times of Prayer]. Whoever performs ablution and prays, Allah washes away his sins just as water washes away dirt. Prayer helps the Muslim to find rest and psychological tranquility. Therefore, the sincere believer maintains his prayer at its specified time.",
+  "sentences": [
+    {
+      "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنْ أَرْكَانِ الْإِسْلَامِ.",
+      "translation": "Namaz je drugi stub od stubova islama.",
+      "translationEn": "Prayer is the second pillar of the pillars of Islam."
+    },
+    {
+      "arabic": "شَبَّهَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الصَّلَوَاتِ الْخَمْسَ بِنَهْرٍ جَارٍ يَمْسَحُ الْخَطَايَا [رَوَاهُ الْبُخَارِيُّ فِي كِتَابِ مَوَاقِيتِ الصَّلَاةِ].",
+      "translation": "Vjerovjesnik, sallallahu alejhi ve sellem, je uporedio pet dnevnih namaza sa tekućom rijekom koja briše grijehe [Bilježi el-Buhari u Knjizi o namaskim vremenima].",
+      "translationEn": "The Prophet (peace be upon him) likened the five daily prayers to a running river that wipes away sins [Reported by al-Bukhari in the Book of Times of Prayer]."
+    },
+    {
+      "arabic": "مَنْ تَوَضَّأَ وَصَلَّى، غَسَلَ اللَّهُ ذُنُوبَهُ كَمَا يَغْسِلُ الْمَاءُ الْوَسَخَ.",
+      "translation": "Ko uzme abdest i klanja, Allah mu briše grijehe kao što voda spira prljavštinu.",
+      "translationEn": "Whoever performs ablution and prays, Allah washes away his sins just as water washes away dirt."
+    },
+    {
+      "arabic": "تُسَاعِدُ الصَّلَاةُ الْمُسْلِمَ عَلَى الرَّاحَةِ وَالطُّمَأْنِينَةِ النَّفْسِيَّةِ.",
+      "translation": "Namaz pomaže muslimanu da pronađe odmor i duševni smiraj.",
+      "translationEn": "Prayer helps the Muslim to find rest and psychological tranquility."
+    },
+    {
+      "arabic": "لِذَلِكَ يُحَافِظُ الْمُؤْمِنُ الصَّادِقُ عَلَى صَلَاتِهِ فِي وَقْتِهَا الْمُحَدَّدِ.",
+      "translation": "Zato iskreni vjernik čuva svoj namaz u njegovom određenom vremenu.",
+      "translationEn": "Therefore, the sincere believer maintains his prayer at its specified time."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

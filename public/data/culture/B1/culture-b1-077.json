@@ -2,9 +2,33 @@
   "id": "culture-b1-077",
   "category": "culture",
   "level": "B1",
-  "arabic": "يُعَدُّ الطَّعَامُ جُزْءًا أَسَاسِيًّا مِنَ الْحَيَاةِ الْعَرَبِيَّةِ. تَجْتَمِعُ الْعَائِلَاتُ يَوْمَ الْجُمُعَةِ لِتَنَاوُلِ الْغَدَاءِ مَعًا. غَالِبًا مَا تُحَضِّرُ الْأُمَّهَاتُ أَطْبَاقًا تَقْلِيدِيَّةً مِثْلَ الْكَبْسَةِ أَوِ الْمَنْسَفِ. تَتَكَوَّنُ هَذِهِ الْوَجَبَاتُ مِنَ اللَّحْمِ وَالْأُرْزِ وَالْمُكَسَّرَاتِ. الْأَكْلُ مَعًا يُقَوِّي الرَّوَابِطَ بَيْنَ أَفْرَادِ الْأُسْرَةِ.",
-  "translation": "Hrana se smatra osnovnim dijelom arapskog života. Porodice se okupljaju petkom kako bi zajedno ručale. Majke često pripremaju tradicionalna jela poput kabse ili mansafa. Ovi obroci se sastoje od mesa, riže i orašastih plodova. Zajedničko jelo jača veze između članova porodice.",
-  "translationEn": "Food is considered an essential part of Arab life. Families gather on Friday to have lunch together. Mothers often prepare traditional dishes such as Kabsa or Mansaf. These meals consist of meat, rice, and nuts. Eating together strengthens the bonds between family members.",
+  "sentences": [
+    {
+      "arabic": "يُعَدُّ الطَّعَامُ جُزْءًا أَسَاسِيًّا مِنَ الْحَيَاةِ الْعَرَبِيَّةِ.",
+      "translation": "Hrana se smatra osnovnim dijelom arapskog života.",
+      "translationEn": "Food is considered an essential part of Arab life."
+    },
+    {
+      "arabic": "تَجْتَمِعُ الْعَائِلَاتُ يَوْمَ الْجُمُعَةِ لِتَنَاوُلِ الْغَدَاءِ مَعًا.",
+      "translation": "Porodice se okupljaju petkom kako bi zajedno ručale.",
+      "translationEn": "Families gather on Friday to have lunch together."
+    },
+    {
+      "arabic": "غَالِبًا مَا تُحَضِّرُ الْأُمَّهَاتُ أَطْبَاقًا تَقْلِيدِيَّةً مِثْلَ الْكَبْسَةِ أَوِ الْمَنْسَفِ.",
+      "translation": "Majke često pripremaju tradicionalna jela poput kabse ili mansafa.",
+      "translationEn": "Mothers often prepare traditional dishes such as Kabsa or Mansaf."
+    },
+    {
+      "arabic": "تَتَكَوَّنُ هَذِهِ الْوَجَبَاتُ مِنَ اللَّحْمِ وَالْأُرْزِ وَالْمُكَسَّرَاتِ.",
+      "translation": "Ovi obroci se sastoje od mesa, riže i orašastih plodova.",
+      "translationEn": "These meals consist of meat, rice, and nuts."
+    },
+    {
+      "arabic": "الْأَكْلُ مَعًا يُقَوِّي الرَّوَابِطَ بَيْنَ أَفْرَادِ الْأُسْرَةِ.",
+      "translation": "Zajedničko jelo jača veze između članova porodice.",
+      "translationEn": "Eating together strengthens the bonds between family members."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

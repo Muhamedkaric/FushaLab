@@ -2,9 +2,33 @@
   "id": "literature-b1-071",
   "category": "literature",
   "level": "B1",
-  "arabic": "الشِّعْرُ الْعَرَبِيُّ جَمِيلٌ جِدًّا. يَصِفُ الشَّاعِرُ الطَّبِيعَةَ بِكَلِمَاتٍ رَائِعَةٍ. يَقُولُ إِنَّ الزُّهُورَ تَبْتَسِمُ فِي الصَّبَاحِ. هَذَا التَّشْبِيهُ يَجْعَلُ الْقَصِيدَةَ مَلِيئَةً بِالْحَيَاةِ. نَحْنُ نَقْرَأُ الشِّعْرَ لِنَفْهَمَ مَشَاعِرَ الْإِنْسَانِ.",
-  "translation": "Arapska poezija je veoma lijepa. Pjesnik opisuje prirodu divnim riječima. On kaže da se cvijeće smiješi ujutro. Ovo poređenje čini pjesmu punom života. Mi čitamo poeziju da bismo razumjeli ljudska osjećanja.",
-  "translationEn": "Arabic poetry is very beautiful. The poet describes nature with wonderful words. He says that the flowers smile in the morning. This metaphor makes the poem full of life. We read poetry to understand human emotions.",
+  "sentences": [
+    {
+      "arabic": "الشِّعْرُ الْعَرَبِيُّ جَمِيلٌ جِدًّا.",
+      "translation": "Arapska poezija je veoma lijepa.",
+      "translationEn": "Arabic poetry is very beautiful."
+    },
+    {
+      "arabic": "يَصِفُ الشَّاعِرُ الطَّبِيعَةَ بِكَلِمَاتٍ رَائِعَةٍ.",
+      "translation": "Pjesnik opisuje prirodu divnim riječima.",
+      "translationEn": "The poet describes nature with wonderful words."
+    },
+    {
+      "arabic": "يَقُولُ إِنَّ الزُّهُورَ تَبْتَسِمُ فِي الصَّبَاحِ.",
+      "translation": "On kaže da se cvijeće smiješi ujutro.",
+      "translationEn": "He says that the flowers smile in the morning."
+    },
+    {
+      "arabic": "هَذَا التَّشْبِيهُ يَجْعَلُ الْقَصِيدَةَ مَلِيئَةً بِالْحَيَاةِ.",
+      "translation": "Ovo poređenje čini pjesmu punom života.",
+      "translationEn": "This metaphor makes the poem full of life."
+    },
+    {
+      "arabic": "نَحْنُ نَقْرَأُ الشِّعْرَ لِنَفْهَمَ مَشَاعِرَ الْإِنْسَانِ.",
+      "translation": "Mi čitamo poeziju da bismo razumjeli ljudska osjećanja.",
+      "translationEn": "We read poetry to understand human emotions."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

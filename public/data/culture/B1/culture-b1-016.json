@@ -2,8 +2,35 @@
   "id": "culture-b1-016",
   "category": "culture",
   "level": "B1",
-  "arabic": "الْخُبْزُ الْعَرَبِيُّ أَسَاسُ الطَّعَامِ فِي كَثِيرٍ مِنَ الْبُلْدَانِ الْعَرَبِيَّةِ. يُؤْكَلُ الْخُبْزُ مَعَ الْحُمُّصِ وَالزَّيْتُونِ وَالْجُبْنِ فِي وَجْبَةِ الْإِفْطَارِ. يُخْبَزُ الْخُبْزُ كُلَّ يَوْمٍ فِي الْفُرْنِ وَتَمْلَأُ رَائِحَتُهُ الطَّيِّبَةُ الْبَيْتَ. لَا تَكْتَمِلُ الْوَجْبَةُ الْعَرَبِيَّةُ بِدُونِ الْخُبْزِ الطَّازَجِ.",
-  "translation": "Arapski hljeb temelj je prehrane u mnogim arapskim zemljama. Jede se uz humus, masline i sir za doručak. Hljeb se svaki dan peče u pećnici i njegov divni miris ispunjava kuću. Nijedan arapski obrok nije potpun bez svježeg hljeba.",
-  "translationEn": "Arabic bread is the foundation of food in many Arab countries. It is eaten with hummus, olives, and cheese at breakfast. Bread is baked every day in the oven and its wonderful smell fills the house. No Arab meal is complete without fresh bread.",
-  "metadata": { "difficulty": 1, "tags": ["food", "bread", "daily life", "traditions"] }
+  "sentences": [
+    {
+      "arabic": "الْخُبْزُ الْعَرَبِيُّ أَسَاسُ الطَّعَامِ فِي كَثِيرٍ مِنَ الْبُلْدَانِ الْعَرَبِيَّةِ.",
+      "translation": "Arapski hljeb temelj je prehrane u mnogim arapskim zemljama.",
+      "translationEn": "Arabic bread is the foundation of food in many Arab countries."
+    },
+    {
+      "arabic": "يُؤْكَلُ الْخُبْزُ مَعَ الْحُمُّصِ وَالزَّيْتُونِ وَالْجُبْنِ فِي وَجْبَةِ الْإِفْطَارِ.",
+      "translation": "Jede se uz humus, masline i sir za doručak.",
+      "translationEn": "It is eaten with hummus, olives, and cheese at breakfast."
+    },
+    {
+      "arabic": "يُخْبَزُ الْخُبْزُ كُلَّ يَوْمٍ فِي الْفُرْنِ وَتَمْلَأُ رَائِحَتُهُ الطَّيِّبَةُ الْبَيْتَ.",
+      "translation": "Hljeb se svaki dan peče u pećnici i njegov divni miris ispunjava kuću.",
+      "translationEn": "Bread is baked every day in the oven and its wonderful smell fills the house."
+    },
+    {
+      "arabic": "لَا تَكْتَمِلُ الْوَجْبَةُ الْعَرَبِيَّةُ بِدُونِ الْخُبْزِ الطَّازَجِ.",
+      "translation": "Nijedan arapski obrok nije potpun bez svježeg hljeba.",
+      "translationEn": "No Arab meal is complete without fresh bread."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "food",
+      "bread",
+      "daily life",
+      "traditions"
+    ]
+  }
 }

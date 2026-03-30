@@ -2,8 +2,39 @@
   "id": "travel-b1-011",
   "category": "travel",
   "level": "B1",
-  "arabic": "أَرَدْتُ أَنْ أَسْتَأْجِرَ سَيَّارَةً لِأَتَجَوَّلَ فِي الْمَدِينَةِ بِحُرِّيَّةٍ. ذَهَبْتُ إِلَى مَكْتَبِ تَأْجِيرِ السَّيَّارَاتِ وَسَأَلْتُ عَنِ الْأَسْعَارِ. قَالَ الْمُوَظَّفُ إِنَّ السَّعْرَ يَوْمِيٌّ وَيَشْمَلُ التَّأْمِينَ. طَلَبَ مِنِّي جَوَازَ سَفَرِي وَرُخْصَةَ الْقِيَادَةِ. وَقَّعْتُ الْعَقْدَ وَاسْتَلَمْتُ مَفَاتِيحَ السَّيَّارَةِ.",
-  "translation": "Htio sam iznajmiti auto kako bih se slobodno kretao po gradu. Otišao sam u agenciju za iznajmljivanje automobila i pitao o cijenama. Službenik je rekao da je cijena dnevna i uključuje osiguranje. Zatražio je moj pasoš i vozačku dozvolu. Potpisao sam ugovor i preuzeo ključeve auta.",
-  "translationEn": "I wanted to rent a car so I could move freely around the city. I went to the car rental office and asked about prices. The employee said the rate is daily and includes insurance. He asked for my passport and driving licence. I signed the contract and received the car keys.",
-  "metadata": { "difficulty": 1, "tags": ["car-rental", "transport", "documents"] }
+  "sentences": [
+    {
+      "arabic": "أَرَدْتُ أَنْ أَسْتَأْجِرَ سَيَّارَةً لِأَتَجَوَّلَ فِي الْمَدِينَةِ بِحُرِّيَّةٍ.",
+      "translation": "Htio sam iznajmiti auto kako bih se slobodno kretao po gradu.",
+      "translationEn": "I wanted to rent a car so I could move freely around the city."
+    },
+    {
+      "arabic": "ذَهَبْتُ إِلَى مَكْتَبِ تَأْجِيرِ السَّيَّارَاتِ وَسَأَلْتُ عَنِ الْأَسْعَارِ.",
+      "translation": "Otišao sam u agenciju za iznajmljivanje automobila i pitao o cijenama.",
+      "translationEn": "I went to the car rental office and asked about prices."
+    },
+    {
+      "arabic": "قَالَ الْمُوَظَّفُ إِنَّ السَّعْرَ يَوْمِيٌّ وَيَشْمَلُ التَّأْمِينَ.",
+      "translation": "Službenik je rekao da je cijena dnevna i uključuje osiguranje.",
+      "translationEn": "The employee said the rate is daily and includes insurance."
+    },
+    {
+      "arabic": "طَلَبَ مِنِّي جَوَازَ سَفَرِي وَرُخْصَةَ الْقِيَادَةِ.",
+      "translation": "Zatražio je moj pasoš i vozačku dozvolu.",
+      "translationEn": "He asked for my passport and driving licence."
+    },
+    {
+      "arabic": "وَقَّعْتُ الْعَقْدَ وَاسْتَلَمْتُ مَفَاتِيحَ السَّيَّارَةِ.",
+      "translation": "Potpisao sam ugovor i preuzeo ključeve auta.",
+      "translationEn": "I signed the contract and received the car keys."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "car-rental",
+      "transport",
+      "documents"
+    ]
+  }
 }

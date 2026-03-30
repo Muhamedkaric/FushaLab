@@ -2,9 +2,33 @@
   "id": "travel-b1-082",
   "category": "travel",
   "level": "B1",
-  "arabic": "أَرَدْتُ أَنْ أَحْمِلَ ذِكْرَى مِنْ رِحْلَتِي فَذَهَبْتُ إِلَى دُكَّانِ التَّذَكَّارَاتِ. رَأَيْتُ أَشْيَاءَ صَغِيرَةً تُمَثِّلُ ثَقَافَةَ الْبِلَادِ. اشْتَرَيْتُ مِفْتَاحًا بِشَكْلِ نُجُومٍ وَكِتَابًا صَغِيرًا عَنِ التَّارِيخِ. أَرْسَلْتُ بَطَاقَةً بَرِيدِيَّةً لِأُمِّي مَكْتُوبًا عَلَيْهَا: «أُفَكِّرُ فِيكِ كُلَّ يَوْمٍ.» كَانَتِ الْهَدَايَا صَغِيرَةً لَكِنَّهَا مَلِيئَةٌ بِالْمَعْنَى.",
-  "translation": "Htio sam ponijeti sjećanje s putovanja pa sam otišao u suvenirsku prodavnicu. Vidio sam male predmete koji predstavljaju kulturu te zemlje. Kupio sam privjesak u obliku zvijezde i malu knjižicu o historiji. Poslao sam razglednicu majci na kojoj je pisalo: \"Svaki dan mislim na tebe.\" Pokloni su bili mali, ali puni značenja.",
-  "translationEn": "I wanted to take a memory from my trip, so I went to the souvenir shop. I saw small items representing the country's culture. I bought a star-shaped keychain and a small book about history. I sent a postcard to my mother with the words: \"I think of you every day.\" The gifts were small but full of meaning.",
+  "sentences": [
+    {
+      "arabic": "أَرَدْتُ أَنْ أَحْمِلَ ذِكْرَى مِنْ رِحْلَتِي فَذَهَبْتُ إِلَى دُكَّانِ التَّذَكَّارَاتِ.",
+      "translation": "Htio sam ponijeti sjećanje s putovanja pa sam otišao u suvenirsku prodavnicu.",
+      "translationEn": "I wanted to take a memory from my trip, so I went to the souvenir shop."
+    },
+    {
+      "arabic": "رَأَيْتُ أَشْيَاءَ صَغِيرَةً تُمَثِّلُ ثَقَافَةَ الْبِلَادِ.",
+      "translation": "Vidio sam male predmete koji predstavljaju kulturu te zemlje.",
+      "translationEn": "I saw small items representing the country's culture."
+    },
+    {
+      "arabic": "اشْتَرَيْتُ مِفْتَاحًا بِشَكْلِ نُجُومٍ وَكِتَابًا صَغِيرًا عَنِ التَّارِيخِ.",
+      "translation": "Kupio sam privjesak u obliku zvijezde i malu knjižicu o historiji.",
+      "translationEn": "I bought a star-shaped keychain and a small book about history."
+    },
+    {
+      "arabic": "أَرْسَلْتُ بَطَاقَةً بَرِيدِيَّةً لِأُمِّي مَكْتُوبًا عَلَيْهَا: «أُفَكِّرُ فِيكِ كُلَّ يَوْمٍ.»",
+      "translation": "Poslao sam razglednicu majci na kojoj je pisalo: \"Svaki dan mislim na tebe.\"",
+      "translationEn": "I sent a postcard to my mother with the words: \"I think of you every day.\""
+    },
+    {
+      "arabic": "كَانَتِ الْهَدَايَا صَغِيرَةً لَكِنَّهَا مَلِيئَةٌ بِالْمَعْنَى.",
+      "translation": "Pokloni su bili mali, ali puni značenja.",
+      "translationEn": "The gifts were small but full of meaning."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

@@ -2,9 +2,33 @@
   "id": "travel-b1-068",
   "category": "travel",
   "level": "B1",
-  "arabic": "وَصَلْتُ إِلَى الشَّاطِئِ بَعْدَ رِحْلَةٍ قَصِيرَةٍ بِالْحَافِلَةِ. كَانَ الْبَحْرُ هَادِئًا وَالرِّمَالُ بَيْضَاءَ وَنَاعِمَةً. مَدَدْتُ فَوْطَتِي وَجَلَسْتُ أَسْتَمِعُ إِلَى صَوْتِ الأَمْوَاجِ. سَبَحْتُ قَلِيلًا وَاسْتَرَحْتُ تَحْتَ الشَّمْسِ. كَانَتْ تِلْكَ اللَّحْظَاتُ مِنْ أَجْمَلِ لَحَظَاتِ رِحْلَتِي.",
-  "translation": "Stigao sam na plažu nakon kratke vožnje autobusom. More je bilo mirno, a pijesak bijel i mekan. Raširio sam ručnik i sjeo slušajući zvuk valova. Malo sam preplivao i odmarao se na suncu. Ti su trenuci bili jedni od najljepših trenutaka mog putovanja.",
-  "translationEn": "I arrived at the beach after a short bus ride. The sea was calm and the sand was white and soft. I spread my towel and sat listening to the sound of the waves. I swam a little and rested in the sun. Those moments were among the most beautiful of my whole trip.",
+  "sentences": [
+    {
+      "arabic": "وَصَلْتُ إِلَى الشَّاطِئِ بَعْدَ رِحْلَةٍ قَصِيرَةٍ بِالْحَافِلَةِ.",
+      "translation": "Stigao sam na plažu nakon kratke vožnje autobusom.",
+      "translationEn": "I arrived at the beach after a short bus ride."
+    },
+    {
+      "arabic": "كَانَ الْبَحْرُ هَادِئًا وَالرِّمَالُ بَيْضَاءَ وَنَاعِمَةً.",
+      "translation": "More je bilo mirno, a pijesak bijel i mekan.",
+      "translationEn": "The sea was calm and the sand was white and soft."
+    },
+    {
+      "arabic": "مَدَدْتُ فَوْطَتِي وَجَلَسْتُ أَسْتَمِعُ إِلَى صَوْتِ الأَمْوَاجِ.",
+      "translation": "Raširio sam ručnik i sjeo slušajući zvuk valova.",
+      "translationEn": "I spread my towel and sat listening to the sound of the waves."
+    },
+    {
+      "arabic": "سَبَحْتُ قَلِيلًا وَاسْتَرَحْتُ تَحْتَ الشَّمْسِ.",
+      "translation": "Malo sam preplivao i odmarao se na suncu.",
+      "translationEn": "I swam a little and rested in the sun."
+    },
+    {
+      "arabic": "كَانَتْ تِلْكَ اللَّحْظَاتُ مِنْ أَجْمَلِ لَحَظَاتِ رِحْلَتِي.",
+      "translation": "Ti su trenuci bili jedni od najljepših trenutaka mog putovanja.",
+      "translationEn": "Those moments were among the most beautiful of my whole trip."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

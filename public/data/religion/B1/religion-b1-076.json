@@ -2,9 +2,33 @@
   "id": "religion-b1-076",
   "category": "religion",
   "level": "B1",
-  "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنَ الْإِسْلَامِ. قَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «الصَّلَاةُ نُورٌ» [رَوَاهُ مُسْلِمٌ فِي كِتَابِ الطَّهَارَةِ، حَدِيثٌ رَقْمُ ٢٢٣]. يَتَعَلَّمُ الْمُسْلِمُ مِنَ الصَّلَاةِ الصَّبْرَ وَالنِّظَامَ فِي حَيَاتِهِ الْيَوْمِيَّةِ. عِنْدَمَا يُصَلِّي الْمُؤْمِنُ بِخُشُوعٍ، يَشْعُرُ بِالرَّاحَةِ وَالسَّكِينَةِ فِي قَلْبِهِ. لِذَلِكَ، يَجِبُ عَلَيْنَا أَنْ نُحَافِظَ عَلَى الصَّلَوَاتِ الْخَمْسِ فِي أَوْقَاتِهَا الصَّحِيحَةِ.",
-  "translation": "Namaz je drugi stub islama. Vjerovjesnik, sallallahu alejhi ve sellem, je rekao: 'Namaz je svjetlost' [Bilježi Muslim u Knjizi o čistoći, hadis br. 223]. Musliman kroz namaz uči strpljenje i disciplinu u svom svakodnevnom životu. Kada vjernik klanja skrušeno, osjeća odmor i smirenost u svom srcu. Zato moramo čuvati pet dnevnih namaza u njihovo pravo vrijeme.",
-  "translationEn": "Prayer is the second pillar of Islam. The Prophet (peace be upon him) said: 'Prayer is a light' [Narrated by Muslim in the Book of Purification, Hadith No. 223]. A Muslim learns patience and order in their daily life through prayer. When a believer prays with humility, they feel comfort and tranquility in their heart. Therefore, we must maintain the five daily prayers at their correct times.",
+  "sentences": [
+    {
+      "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنَ الْإِسْلَامِ.",
+      "translation": "Namaz je drugi stub islama.",
+      "translationEn": "Prayer is the second pillar of Islam."
+    },
+    {
+      "arabic": "قَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «الصَّلَاةُ نُورٌ» [رَوَاهُ مُسْلِمٌ فِي كِتَابِ الطَّهَارَةِ، حَدِيثٌ رَقْمُ ٢٢٣].",
+      "translation": "Vjerovjesnik, sallallahu alejhi ve sellem, je rekao: 'Namaz je svjetlost' [Bilježi Muslim u Knjizi o čistoći, hadis br. 223].",
+      "translationEn": "The Prophet (peace be upon him) said: 'Prayer is a light' [Narrated by Muslim in the Book of Purification, Hadith No. 223]."
+    },
+    {
+      "arabic": "يَتَعَلَّمُ الْمُسْلِمُ مِنَ الصَّلَاةِ الصَّبْرَ وَالنِّظَامَ فِي حَيَاتِهِ الْيَوْمِيَّةِ.",
+      "translation": "Musliman kroz namaz uči strpljenje i disciplinu u svom svakodnevnom životu.",
+      "translationEn": "A Muslim learns patience and order in their daily life through prayer."
+    },
+    {
+      "arabic": "عِنْدَمَا يُصَلِّي الْمُؤْمِنُ بِخُشُوعٍ، يَشْعُرُ بِالرَّاحَةِ وَالسَّكِينَةِ فِي قَلْبِهِ.",
+      "translation": "Kada vjernik klanja skrušeno, osjeća odmor i smirenost u svom srcu.",
+      "translationEn": "When a believer prays with humility, they feel comfort and tranquility in their heart."
+    },
+    {
+      "arabic": "لِذَلِكَ، يَجِبُ عَلَيْنَا أَنْ نُحَافِظَ عَلَى الصَّلَوَاتِ الْخَمْسِ فِي أَوْقَاتِهَا الصَّحِيحَةِ.",
+      "translation": "Zato moramo čuvati pet dnevnih namaza u njihovo pravo vrijeme.",
+      "translationEn": "Therefore, we must maintain the five daily prayers at their correct times."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

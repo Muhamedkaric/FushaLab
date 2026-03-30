@@ -2,11 +2,40 @@
   "id": "literature-b1-014",
   "category": "literature",
   "level": "B1",
-  "arabic": "كَانَ الأَسَدُ مَلِكَ الْغَابَةِ يَمْشِي ذَاتَ يَوْمٍ وَهُوَ جَائِعٌ. وَجَدَ أَرْنَبًا صَغِيرًا يَقِفُ أَمَامَهُ وَلَا يَخَافُ. قَالَ الأَرْنَبُ: «يَا مَلِكَ الْغَابَةِ، أَنَا صَغِيرٌ وَلَا أُشْبِعُكَ، لَكِنِّي أَعْرِفُ أَسَدًا آخَرَ فِي الْبِئْرِ.» ذَهَبَ الأَسَدُ إِلَى الْبِئْرِ فَرَأَى صُورَتَهُ فِي الْمَاءِ وَظَنَّهَا عَدُوًّا. قَفَزَ فِيهَا فَغَرِقَ، وَنَجَا الأَرْنَبُ الذَّكِيُّ بِعَقْلِهِ لَا بِقُوَّتِهِ.",
-  "translation": "Lav, kralj šume, jednog je dana hodao gladan. Ispred sebe je ugledao malog zeca koji je stajao bez straha. Zec reče: 'O kralju šume, ja sam mali i nećeš se nasititi mnome, ali znam za drugog lava u bunaru.' Lav ode do bunara i u vodi ugleda svoj odraz, misleći da je neprijatelj. Skočio je u bunar i utopio se, a pametni zec se spasio razumom, a ne snagom.",
-  "translationEn": "The lion, king of the forest, was walking one day feeling hungry. He found a small rabbit standing before him without fear. The rabbit said: 'O king of the forest, I am small and won't satisfy your hunger, but I know of another lion in the well.' The lion went to the well and saw his reflection in the water, thinking it was an enemy. He leapt in and drowned, and the clever rabbit saved himself with his mind, not his strength.",
+  "sentences": [
+    {
+      "arabic": "كَانَ الأَسَدُ مَلِكَ الْغَابَةِ يَمْشِي ذَاتَ يَوْمٍ وَهُوَ جَائِعٌ.",
+      "translation": "Lav, kralj šume, jednog je dana hodao gladan.",
+      "translationEn": "The lion, king of the forest, was walking one day feeling hungry."
+    },
+    {
+      "arabic": "وَجَدَ أَرْنَبًا صَغِيرًا يَقِفُ أَمَامَهُ وَلَا يَخَافُ.",
+      "translation": "Ispred sebe je ugledao malog zeca koji je stajao bez straha.",
+      "translationEn": "He found a small rabbit standing before him without fear."
+    },
+    {
+      "arabic": "قَالَ الأَرْنَبُ: «يَا مَلِكَ الْغَابَةِ، أَنَا صَغِيرٌ وَلَا أُشْبِعُكَ، لَكِنِّي أَعْرِفُ أَسَدًا آخَرَ فِي الْبِئْرِ.»",
+      "translation": "Zec reče: 'O kralju šume, ja sam mali i nećeš se nasititi mnome, ali znam za drugog lava u bunaru.'",
+      "translationEn": "The rabbit said: 'O king of the forest, I am small and won't satisfy your hunger, but I know of another lion in the well.'"
+    },
+    {
+      "arabic": "ذَهَبَ الأَسَدُ إِلَى الْبِئْرِ فَرَأَى صُورَتَهُ فِي الْمَاءِ وَظَنَّهَا عَدُوًّا.",
+      "translation": "Lav ode do bunara i u vodi ugleda svoj odraz, misleći da je neprijatelj.",
+      "translationEn": "The lion went to the well and saw his reflection in the water, thinking it was an enemy."
+    },
+    {
+      "arabic": "قَفَزَ فِيهَا فَغَرِقَ، وَنَجَا الأَرْنَبُ الذَّكِيُّ بِعَقْلِهِ لَا بِقُوَّتِهِ.",
+      "translation": "Skočio je u bunar i utopio se, a pametni zec se spasio razumom, a ne snagom.",
+      "translationEn": "He leapt in and drowned, and the clever rabbit saved himself with his mind, not his strength."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["fable", "lion", "rabbit", "wisdom"]
+    "tags": [
+      "fable",
+      "lion",
+      "rabbit",
+      "wisdom"
+    ]
   }
 }

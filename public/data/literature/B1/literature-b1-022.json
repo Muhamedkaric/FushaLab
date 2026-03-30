@@ -2,9 +2,33 @@
   "id": "literature-b1-022",
   "category": "literature",
   "level": "B1",
-  "arabic": "كَانَ فِي السُّوقِ رَجُلٌ أَعْمَى يَحْكِي الْقِصَصَ لِلنَّاسِ كُلَّ يَوْمٍ. كَانَ يَجْلِسُ عَلَى كُرْسِيٍّ خَشَبِيٍّ وَيَرْفَعُ صَوْتَهُ الْجَمِيلَ وَيَبْدَأُ. تَجَمَّعَ النَّاسُ حَوْلَهُ مِنْ كُلِّ الأَعْمَارِ يَسْتَمِعُونَ بِصَمْتٍ. كَانَ يَصِفُ الأَلْوَانَ وَالْوُجُوهَ وَالطَّبِيعَةَ بِشَكْلٍ لَمْ يَرَهَا أَحَدٌ مِنْ قَبْلُ. قَالَ النَّاسُ: «هُوَ أَعْمَى الْعَيْنَيْنِ لَكِنَّهُ يَرَى الدُّنْيَا أَكْثَرَ مِنَّا كُلِّنَا.»",
-  "translation": "Na pijaci je svaki dan bio slijep čovjek koji je pričao priče narodu. Sjedio bi na drvenoj stolici, podigao bi lijepi glas i počeo. Okolo bi se skupili ljudi svih uzrasta i slušali u tišini. Opisivao je boje, lica i prirodu na način koji nitko ranije nije vidio. Narod je govorio: „Sljepoočan je, ali on vidi svijet više od svih nas zajedno.\"",
-  "translationEn": "In the marketplace there was a blind man who told stories to the people every day. He would sit on a wooden chair, raise his beautiful voice, and begin. People of all ages would gather around him, listening in silence. He described colours, faces, and nature in ways no one had seen before. The people said: \"He is blind in his eyes, but he sees the world more than all of us combined.\"",
+  "sentences": [
+    {
+      "arabic": "كَانَ فِي السُّوقِ رَجُلٌ أَعْمَى يَحْكِي الْقِصَصَ لِلنَّاسِ كُلَّ يَوْمٍ.",
+      "translation": "Na pijaci je svaki dan bio slijep čovjek koji je pričao priče narodu.",
+      "translationEn": "In the marketplace there was a blind man who told stories to the people every day."
+    },
+    {
+      "arabic": "كَانَ يَجْلِسُ عَلَى كُرْسِيٍّ خَشَبِيٍّ وَيَرْفَعُ صَوْتَهُ الْجَمِيلَ وَيَبْدَأُ.",
+      "translation": "Sjedio bi na drvenoj stolici, podigao bi lijepi glas i počeo.",
+      "translationEn": "He would sit on a wooden chair, raise his beautiful voice, and begin."
+    },
+    {
+      "arabic": "تَجَمَّعَ النَّاسُ حَوْلَهُ مِنْ كُلِّ الأَعْمَارِ يَسْتَمِعُونَ بِصَمْتٍ.",
+      "translation": "Okolo bi se skupili ljudi svih uzrasta i slušali u tišini.",
+      "translationEn": "People of all ages would gather around him, listening in silence."
+    },
+    {
+      "arabic": "كَانَ يَصِفُ الأَلْوَانَ وَالْوُجُوهَ وَالطَّبِيعَةَ بِشَكْلٍ لَمْ يَرَهَا أَحَدٌ مِنْ قَبْلُ.",
+      "translation": "Opisivao je boje, lica i prirodu na način koji nitko ranije nije vidio.",
+      "translationEn": "He described colours, faces, and nature in ways no one had seen before."
+    },
+    {
+      "arabic": "قَالَ النَّاسُ: «هُوَ أَعْمَى الْعَيْنَيْنِ لَكِنَّهُ يَرَى الدُّنْيَا أَكْثَرَ مِنَّا كُلِّنَا.»",
+      "translation": "Narod je govorio: „Sljepoočan je, ali on vidi svijet više od svih nas zajedno.\"",
+      "translationEn": "The people said: \"He is blind in his eyes, but he sees the world more than all of us combined.\""
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

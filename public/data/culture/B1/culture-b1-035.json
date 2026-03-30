@@ -2,9 +2,33 @@
   "id": "culture-b1-035",
   "category": "culture",
   "level": "B1",
-  "arabic": "تَلْعَبُ الْمَرْأَةُ الْعَرَبِيَّةُ دَوْرًا مُهِمًّا فِي الْحِفَاظِ عَلَى تَقَالِيدِ الطَّبْخِ. تَتَعَلَّمُ الْوَصَفَاتُ الْقَدِيمَةُ مِنَ الأُمَّهَاتِ وَالْجَدَّاتِ. كَثِيرٌ مِنَ الأَطْبَاقِ التَّقْلِيدِيَّةِ تَسْتَغْرِقُ سَاعَاتٍ طَوِيلَةً فِي التَّحْضِيرِ. يَجْتَمِعُ أَهْلُ الْبَيْتِ فِي الْمَطْبَخِ أَثْنَاءَ الأَعْيَادِ لِإِعْدَادِ الطَّعَامِ مَعًا. الطَّبْخُ بِهَذِهِ الطَّرِيقَةِ يُقَوِّي الرَّوَابِطَ الأُسَرِيَّةِ.",
-  "translation": "Arapska žena igra važnu ulogu u čuvanju tradicije kuhanja. Stari recepti se uče od majki i baka. Mnoga tradiconalna jela zahtijevaju satima pripreme. Ukućani se u praznicima okupljaju u kuhinji da zajedno pripreme hranu. Kuhanje na ovaj način jača porodične veze.",
-  "translationEn": "Arab women play an important role in preserving cooking traditions. Old recipes are passed down from mothers and grandmothers. Many traditional dishes take hours to prepare. Family members gather in the kitchen during holidays to prepare food together. Cooking this way strengthens family bonds.",
+  "sentences": [
+    {
+      "arabic": "تَلْعَبُ الْمَرْأَةُ الْعَرَبِيَّةُ دَوْرًا مُهِمًّا فِي الْحِفَاظِ عَلَى تَقَالِيدِ الطَّبْخِ.",
+      "translation": "Arapska žena igra važnu ulogu u čuvanju tradicije kuhanja.",
+      "translationEn": "Arab women play an important role in preserving cooking traditions."
+    },
+    {
+      "arabic": "تَتَعَلَّمُ الْوَصَفَاتُ الْقَدِيمَةُ مِنَ الأُمَّهَاتِ وَالْجَدَّاتِ.",
+      "translation": "Stari recepti se uče od majki i baka.",
+      "translationEn": "Old recipes are passed down from mothers and grandmothers."
+    },
+    {
+      "arabic": "كَثِيرٌ مِنَ الأَطْبَاقِ التَّقْلِيدِيَّةِ تَسْتَغْرِقُ سَاعَاتٍ طَوِيلَةً فِي التَّحْضِيرِ.",
+      "translation": "Mnoga tradiconalna jela zahtijevaju satima pripreme.",
+      "translationEn": "Many traditional dishes take hours to prepare."
+    },
+    {
+      "arabic": "يَجْتَمِعُ أَهْلُ الْبَيْتِ فِي الْمَطْبَخِ أَثْنَاءَ الأَعْيَادِ لِإِعْدَادِ الطَّعَامِ مَعًا.",
+      "translation": "Ukućani se u praznicima okupljaju u kuhinji da zajedno pripreme hranu.",
+      "translationEn": "Family members gather in the kitchen during holidays to prepare food together."
+    },
+    {
+      "arabic": "الطَّبْخُ بِهَذِهِ الطَّرِيقَةِ يُقَوِّي الرَّوَابِطَ الأُسَرِيَّةِ.",
+      "translation": "Kuhanje na ovaj način jača porodične veze.",
+      "translationEn": "Cooking this way strengthens family bonds."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

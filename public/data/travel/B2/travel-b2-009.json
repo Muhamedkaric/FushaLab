@@ -2,8 +2,19 @@
   "id": "travel-b2-009",
   "category": "travel",
   "level": "B2",
-  "arabic": "يَجْذِبُ الْبَتْرَاءُ، الْمَدِينَةُ الْوَرْدِيَّةُ الْمَنْحُوتَةُ فِي الصَّخْرِ، مَلَايِينَ الزُّوَّارِ كُلَّ عَامٍ.",
-  "translation": "Petra, ružičasti grad uklesar u stijenu, svake godine privlači milione posjetilaca.",
-  "translationEn": "Petra, the rose-red city carved into rock, attracts millions of visitors every year.",
-  "metadata": { "difficulty": 2, "tags": ["travel", "Jordan", "heritage"] }
+  "sentences": [
+    {
+      "arabic": "يَجْذِبُ الْبَتْرَاءُ، الْمَدِينَةُ الْوَرْدِيَّةُ الْمَنْحُوتَةُ فِي الصَّخْرِ، مَلَايِينَ الزُّوَّارِ كُلَّ عَامٍ.",
+      "translation": "Petra, ružičasti grad uklesar u stijenu, svake godine privlači milione posjetilaca.",
+      "translationEn": "Petra, the rose-red city carved into rock, attracts millions of visitors every year."
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "tags": [
+      "travel",
+      "Jordan",
+      "heritage"
+    ]
+  }
 }

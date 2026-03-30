@@ -2,8 +2,19 @@
   "id": "travel-b2-005",
   "category": "travel",
   "level": "B2",
-  "arabic": "يُنْصَحُ الْمُسَافِرُونَ بِحَجْزِ تَذَاكِرِ الطَّيَرَانِ مُبَكِّرًا لِلِاسْتِفَادَةِ مِنَ الْأَسْعَارِ الْمُنْخَفِضَةِ.",
-  "translation": "Putnicima se savjetuje da rezervišu avionske karte unaprijed kako bi iskoristili niže cijene.",
-  "translationEn": "Travellers are advised to book flights early to take advantage of lower prices.",
-  "metadata": { "difficulty": 2, "tags": ["travel", "flights", "booking"] }
+  "sentences": [
+    {
+      "arabic": "يُنْصَحُ الْمُسَافِرُونَ بِحَجْزِ تَذَاكِرِ الطَّيَرَانِ مُبَكِّرًا لِلِاسْتِفَادَةِ مِنَ الْأَسْعَارِ الْمُنْخَفِضَةِ.",
+      "translation": "Putnicima se savjetuje da rezervišu avionske karte unaprijed kako bi iskoristili niže cijene.",
+      "translationEn": "Travellers are advised to book flights early to take advantage of lower prices."
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "tags": [
+      "travel",
+      "flights",
+      "booking"
+    ]
+  }
 }

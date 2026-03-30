@@ -2,9 +2,38 @@
   "id": "news-c1-093",
   "category": "news",
   "level": "C1",
-  "arabic": "يَشْهَدُ الْعَالَمُ ثَوْرَةً تِقْنِيَّةً هَائِلَةً تَتَمَثَّلُ فِي اقْتِحَامِ الذَّكَاءِ الِاصْطِنَاعِيِّ لِمُخْتَلَفِ مَجَالَاتِ الْحَيَاةِ، وَلَا سِيَّمَا قِطَاعَ التَّعْلِيمِ الْعَالِي. تُشِيرُ الدِّرَاسَاتُ إِلَى أَنَّ دَمْجَ هَذِهِ التِّقْنِيَّاتِ فِي الْمَنَاهِجِ الدِّرَاسِيَّةِ سَيُؤَدِّي إِلَى تَغْيِيرٍ جَذْرِيٍّ فِي طُرُقِ التَّدْرِيسِ وَأَسَالِيبِ التَّعَلُّمِ. يُنْظَرُ إِلَى الذَّكَاءِ الِاصْطِنَاعِيِّ كَأَدَاةٍ فَعَّالَةٍ لِتَخْصِيصِ التَّجْرِبَةِ التَّعْلِيمِيَّةِ لِكُلِّ طَالِبٍ حَسَبَ قُدُرَاتِهِ وَاحْتِيَاجَاتِهِ الْفَرْدِيَّةِ.\nبِالرَّغْمِ مِنَ الْفَوَائِدِ الْجَمَّةِ، تَبْرُزُ مَخَاوِفُ جِدِّيَّةٌ تَتَعَلَّقُ بِأَخْلَاقِيَّاتِ اسْتِخْدَامِ الْبَيَانَاتِ وَتَأْثِيرِ الْأَتْمَتَةِ عَلَى سُوقِ الْعَمَلِ الْمُسْتَقْبَلِيِّ. يَتَطَلَّبُ هَذَا التَّحَوُّلُ صِيَاغَةَ أُطُرٍ قَانُونِيَّةٍ وَأَخْلَاقِيَّةٍ صَارِمَةٍ لِضَمَانِ عَدَمِ انْحِيَازِ الْخَوَارِزْمِيَّاتِ أَوْ تَقْلِيصِ دَوْرِ الْمُعَلِّمِ الْبَشَرِيِّ. فِي النِّهَايَةِ، يَجِبُ أَنْ يَبْقَى الْإِنْسَانُ هُوَ الْمُوَجِّهَ الْأَوَّلَ لِلْعَمَلِيَّةِ التَّعْلِيمِيَّةِ، مَعَ الِاسْتِفَادَةِ الْقُصْوَى مِمَّا تُقَدِّمُهُ التِّكْنُولُوجْيَا مِنْ إِمْكَانَاتٍ لَا مَحْدُودَةٍ.",
-  "translation": "Svijet svjedoči ogromnoj tehničkoj revoluciji koja se ogleda u prodoru vještačke inteligencije u različite oblasti života, a posebno u sektor visokog obrazovanja. Studije ukazuju na to da će integracija ovih tehnologija u nastavne planove i programe dovesti do radikalne promjene u metodama podučavanja i načinima učenja. Na vještačku inteligenciju se gleda kao na efikasan alat za prilagođavanje obrazovnog iskustva svakom studentu prema njegovim individualnim sposobnostima i potrebama. Uprkos brojnim prednostima, pojavljuju se ozbiljne zabrinutosti u vezi s etikom korištenja podataka i uticajem automatizacije na buduće tržište rada. Ova transformacija zahtijeva formulisanje strogih pravnih i etičkih okvira kako bi se osiguralo da algoritmi ne budu pristrasni i da se ne smanji uloga nastavnika kao čovjeka. Na kraju, čovjek mora ostati primarni usmjerivač obrazovnog procesa, uz maksimalno korištenje neograničenih mogućnosti koje tehnologija nudi.",
-  "translationEn": "The world is witnessing a massive technical revolution represented by the intrusion of artificial intelligence into various fields of life, especially the higher education sector. Studies indicate that integrating these technologies into academic curricula will lead to a radical change in teaching methods and learning styles. Artificial intelligence is seen as an effective tool for personalizing the educational experience for each student according to their individual abilities and needs. Despite the great benefits, serious concerns arise regarding the ethics of data usage and the impact of automation on the future labor market. This transformation requires the formulation of strict legal and ethical frameworks to ensure that algorithms are not biased or that the role of the human teacher is not reduced. In the end, humans must remain the primary guides of the educational process, while making the most of the unlimited possibilities offered by technology.",
+  "sentences": [
+    {
+      "arabic": "يَشْهَدُ الْعَالَمُ ثَوْرَةً تِقْنِيَّةً هَائِلَةً تَتَمَثَّلُ فِي اقْتِحَامِ الذَّكَاءِ الِاصْطِنَاعِيِّ لِمُخْتَلَفِ مَجَالَاتِ الْحَيَاةِ، وَلَا سِيَّمَا قِطَاعَ التَّعْلِيمِ الْعَالِي.",
+      "translation": "Svijet svjedoči ogromnoj tehničkoj revoluciji koja se ogleda u prodoru vještačke inteligencije u različite oblasti života, a posebno u sektor visokog obrazovanja.",
+      "translationEn": "The world is witnessing a massive technical revolution represented by the intrusion of artificial intelligence into various fields of life, especially the higher education sector."
+    },
+    {
+      "arabic": "تُشِيرُ الدِّرَاسَاتُ إِلَى أَنَّ دَمْجَ هَذِهِ التِّقْنِيَّاتِ فِي الْمَنَاهِجِ الدِّرَاسِيَّةِ سَيُؤَدِّي إِلَى تَغْيِيرٍ جَذْرِيٍّ فِي طُرُقِ التَّدْرِيسِ وَأَسَالِيبِ التَّعَلُّمِ.",
+      "translation": "Studije ukazuju na to da će integracija ovih tehnologija u nastavne planove i programe dovesti do radikalne promjene u metodama podučavanja i načinima učenja.",
+      "translationEn": "Studies indicate that integrating these technologies into academic curricula will lead to a radical change in teaching methods and learning styles."
+    },
+    {
+      "arabic": "يُنْظَرُ إِلَى الذَّكَاءِ الِاصْطِنَاعِيِّ كَأَدَاةٍ فَعَّالَةٍ لِتَخْصِيصِ التَّجْرِبَةِ التَّعْلِيمِيَّةِ لِكُلِّ طَالِبٍ حَسَبَ قُدُرَاتِهِ وَاحْتِيَاجَاتِهِ الْفَرْدِيَّةِ.",
+      "translation": "Na vještačku inteligenciju se gleda kao na efikasan alat za prilagođavanje obrazovnog iskustva svakom studentu prema njegovim individualnim sposobnostima i potrebama.",
+      "translationEn": "Artificial intelligence is seen as an effective tool for personalizing the educational experience for each student according to their individual abilities and needs."
+    },
+    {
+      "arabic": "بِالرَّغْمِ مِنَ الْفَوَائِدِ الْجَمَّةِ، تَبْرُزُ مَخَاوِفُ جِدِّيَّةٌ تَتَعَلَّقُ بِأَخْلَاقِيَّاتِ اسْتِخْدَامِ الْبَيَانَاتِ وَتَأْثِيرِ الْأَتْمَتَةِ عَلَى سُوقِ الْعَمَلِ الْمُسْتَقْبَلِيِّ.",
+      "translation": "Uprkos brojnim prednostima, pojavljuju se ozbiljne zabrinutosti u vezi s etikom korištenja podataka i uticajem automatizacije na buduće tržište rada.",
+      "translationEn": "Despite the great benefits, serious concerns arise regarding the ethics of data usage and the impact of automation on the future labor market."
+    },
+    {
+      "arabic": "يَتَطَلَّبُ هَذَا التَّحَوُّلُ صِيَاغَةَ أُطُرٍ قَانُونِيَّةٍ وَأَخْلَاقِيَّةٍ صَارِمَةٍ لِضَمَانِ عَدَمِ انْحِيَازِ الْخَوَارِزْمِيَّاتِ أَوْ تَقْلِيصِ دَوْرِ الْمُعَلِّمِ الْبَشَرِيِّ.",
+      "translation": "Ova transformacija zahtijeva formulisanje strogih pravnih i etičkih okvira kako bi se osiguralo da algoritmi ne budu pristrasni i da se ne smanji uloga nastavnika kao čovjeka.",
+      "translationEn": "This transformation requires the formulation of strict legal and ethical frameworks to ensure that algorithms are not biased or that the role of the human teacher is not reduced."
+    },
+    {
+      "arabic": "فِي النِّهَايَةِ، يَجِبُ أَنْ يَبْقَى الْإِنْسَانُ هُوَ الْمُوَجِّهَ الْأَوَّلَ لِلْعَمَلِيَّةِ التَّعْلِيمِيَّةِ، مَعَ الِاسْتِفَادَةِ الْقُصْوَى مِمَّا تُقَدِّمُهُ التِّكْنُولُوجْيَا مِنْ إِمْكَانَاتٍ لَا مَحْدُودَةٍ.",
+      "translation": "Na kraju, čovjek mora ostati primarni usmjerivač obrazovnog procesa, uz maksimalno korištenje neograničenih mogućnosti koje tehnologija nudi.",
+      "translationEn": "In the end, humans must remain the primary guides of the educational process, while making the most of the unlimited possibilities offered by technology."
+    }
+  ],
   "metadata": {
     "difficulty": 2,
     "tags": [

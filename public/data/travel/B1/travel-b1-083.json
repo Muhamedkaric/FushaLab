@@ -2,9 +2,33 @@
   "id": "travel-b1-083",
   "category": "travel",
   "level": "B1",
-  "arabic": "وَجَدْتُ صُعُوبَةً فِي التَّوَاصُلِ لِأَنَّ أَهْلَ الْمَنْطِقَةِ لَا يَتَكَلَّمُونَ الْعَرَبِيَّةَ. حَاوَلْتُ أَنْ أَتَكَلَّمَ بِالْإِشَارَاتِ وَبَعْضِ الْكَلِمَاتِ الإِنْجِلِيزِيَّةِ. اسْتَخْدَمْتُ تَطْبِيقَ التَّرْجَمَةِ عَلَى هَاتِفِي وَسَاعَدَنِي كَثِيرًا. ضَحِكْنَا أَنَا وَالسُّكَّانُ مِنَ الأَخْطَاءِ اللُّغَوِيَّةِ. تَعَلَّمْتُ أَنَّ الِابْتِسَامَةَ لُغَةٌ يَفْهَمُهَا الْجَمِيعُ.",
-  "translation": "Imao sam poteškoća u komunikaciji jer mještani ne govore arapski. Pokušavao sam komunicirati gestama i par engleskih riječi. Koristio sam aplikaciju za prevođenje na telefonu i mnogo mi je pomogla. Mještani i ja smo se smijali jezičnim greškama. Naučio sam da je osmijeh jezik koji svi razumiju.",
-  "translationEn": "I had difficulty communicating because the locals did not speak Arabic. I tried to communicate with gestures and a few English words. I used a translation app on my phone and it helped me a lot. The locals and I laughed at the language mistakes. I learned that a smile is a language everyone understands.",
+  "sentences": [
+    {
+      "arabic": "وَجَدْتُ صُعُوبَةً فِي التَّوَاصُلِ لِأَنَّ أَهْلَ الْمَنْطِقَةِ لَا يَتَكَلَّمُونَ الْعَرَبِيَّةَ.",
+      "translation": "Imao sam poteškoća u komunikaciji jer mještani ne govore arapski.",
+      "translationEn": "I had difficulty communicating because the locals did not speak Arabic."
+    },
+    {
+      "arabic": "حَاوَلْتُ أَنْ أَتَكَلَّمَ بِالْإِشَارَاتِ وَبَعْضِ الْكَلِمَاتِ الإِنْجِلِيزِيَّةِ.",
+      "translation": "Pokušavao sam komunicirati gestama i par engleskih riječi.",
+      "translationEn": "I tried to communicate with gestures and a few English words."
+    },
+    {
+      "arabic": "اسْتَخْدَمْتُ تَطْبِيقَ التَّرْجَمَةِ عَلَى هَاتِفِي وَسَاعَدَنِي كَثِيرًا.",
+      "translation": "Koristio sam aplikaciju za prevođenje na telefonu i mnogo mi je pomogla.",
+      "translationEn": "I used a translation app on my phone and it helped me a lot."
+    },
+    {
+      "arabic": "ضَحِكْنَا أَنَا وَالسُّكَّانُ مِنَ الأَخْطَاءِ اللُّغَوِيَّةِ.",
+      "translation": "Mještani i ja smo se smijali jezičnim greškama.",
+      "translationEn": "The locals and I laughed at the language mistakes."
+    },
+    {
+      "arabic": "تَعَلَّمْتُ أَنَّ الِابْتِسَامَةَ لُغَةٌ يَفْهَمُهَا الْجَمِيعُ.",
+      "translation": "Naučio sam da je osmijeh jezik koji svi razumiju.",
+      "translationEn": "I learned that a smile is a language everyone understands."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

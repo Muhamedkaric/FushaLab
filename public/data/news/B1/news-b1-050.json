@@ -2,9 +2,33 @@
   "id": "news-b1-050",
   "category": "news",
   "level": "B1",
-  "arabic": "تَهْتَمُّ الحُكُومَةُ بِتَطْوِيرِ نِظَامِ التَّعْلِيمِ فِي المَدَارِسِ وَالجَامِعَاتِ. يَتَعَلَّمُ الطُّلَّابُ مَهَارَاتٍ جَدِيدَةً تَتَنَاسَبُ مَعَ سُوقِ العَمَلِ. تُوَفِّرُ الدَّوْلَةُ مَكْتَبَاتٍ حَدِيثَةً وَمُخْتَبَرَاتٍ عِلْمِيَّةً مُتَطَوِّرَةً. يُسَاعِدُ التَّعْلِيمُ الجَيِّدُ فِي بِنَاءِ مُجْتَمَعٍ قَوِيٍّ وَمُثَقَّفٍ. يَعْمَلُ المُعَلِّمُونَ بِجِدٍّ لِتَحْقِيقِ هَذِهِ الأَهْدَافِ السَّامِيَةِ.",
-  "translation": "Vlada brine o razvoju obrazovnog sistema u školama i univerzitetima. Studenti uče nove vještine koje odgovaraju tržištu rada. Država osigurava moderne biblioteke i napredne naučne laboratorije. Dobro obrazovanje pomaže u izgradnji snažnog i obrazovanog društva. Nastavnici naporno rade na ostvarenju ovih uzvišenih ciljeva.",
-  "translationEn": "The government cares about developing the education system in schools and universities. Students learn new skills that suit the labor market. The state provides modern libraries and advanced scientific laboratories. Good education helps in building a strong and educated society. Teachers work hard to achieve these noble goals.",
+  "sentences": [
+    {
+      "arabic": "تَهْتَمُّ الحُكُومَةُ بِتَطْوِيرِ نِظَامِ التَّعْلِيمِ فِي المَدَارِسِ وَالجَامِعَاتِ.",
+      "translation": "Vlada brine o razvoju obrazovnog sistema u školama i univerzitetima.",
+      "translationEn": "The government cares about developing the education system in schools and universities."
+    },
+    {
+      "arabic": "يَتَعَلَّمُ الطُّلَّابُ مَهَارَاتٍ جَدِيدَةً تَتَنَاسَبُ مَعَ سُوقِ العَمَلِ.",
+      "translation": "Studenti uče nove vještine koje odgovaraju tržištu rada.",
+      "translationEn": "Students learn new skills that suit the labor market."
+    },
+    {
+      "arabic": "تُوَفِّرُ الدَّوْلَةُ مَكْتَبَاتٍ حَدِيثَةً وَمُخْتَبَرَاتٍ عِلْمِيَّةً مُتَطَوِّرَةً.",
+      "translation": "Država osigurava moderne biblioteke i napredne naučne laboratorije.",
+      "translationEn": "The state provides modern libraries and advanced scientific laboratories."
+    },
+    {
+      "arabic": "يُسَاعِدُ التَّعْلِيمُ الجَيِّدُ فِي بِنَاءِ مُجْتَمَعٍ قَوِيٍّ وَمُثَقَّفٍ.",
+      "translation": "Dobro obrazovanje pomaže u izgradnji snažnog i obrazovanog društva.",
+      "translationEn": "Good education helps in building a strong and educated society."
+    },
+    {
+      "arabic": "يَعْمَلُ المُعَلِّمُونَ بِجِدٍّ لِتَحْقِيقِ هَذِهِ الأَهْدَافِ السَّامِيَةِ.",
+      "translation": "Nastavnici naporno rade na ostvarenju ovih uzvišenih ciljeva.",
+      "translationEn": "Teachers work hard to achieve these noble goals."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

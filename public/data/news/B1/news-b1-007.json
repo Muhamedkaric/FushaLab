@@ -2,8 +2,19 @@
   "id": "news-b1-007",
   "category": "news",
   "level": "B1",
-  "arabic": "أَعْلَنَتِ الْحُكُومَةُ عَنْ إِجَازَةٍ رَسْمِيَّةٍ بِمُنَاسَبَةِ الْعِيدِ الْوَطَنِيِّ.",
-  "translation": "Vlada je proglasila službeni odmor povodom nacionalnog praznika.",
-  "translationEn": "The government declared an official holiday on the occasion of the national day.",
-  "metadata": { "difficulty": 1, "tags": ["news", "holiday", "government"] }
+  "sentences": [
+    {
+      "arabic": "أَعْلَنَتِ الْحُكُومَةُ عَنْ إِجَازَةٍ رَسْمِيَّةٍ بِمُنَاسَبَةِ الْعِيدِ الْوَطَنِيِّ.",
+      "translation": "Vlada je proglasila službeni odmor povodom nacionalnog praznika.",
+      "translationEn": "The government declared an official holiday on the occasion of the national day."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "news",
+      "holiday",
+      "government"
+    ]
+  }
 }

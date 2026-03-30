@@ -2,8 +2,19 @@
   "id": "travel-b1-008",
   "category": "travel",
   "level": "B1",
-  "arabic": "اشْتَرَيْتُ هَدَايَا لِعَائِلَتِي مِنَ السُّوقِ الشَّعْبِيِّ.",
-  "translation": "Kupio sam poklone za svoju porodicu na narodnoj pijaci.",
-  "translationEn": "I bought gifts for my family from the local market.",
-  "metadata": { "difficulty": 1, "tags": ["travel", "shopping", "market"] }
+  "sentences": [
+    {
+      "arabic": "اشْتَرَيْتُ هَدَايَا لِعَائِلَتِي مِنَ السُّوقِ الشَّعْبِيِّ.",
+      "translation": "Kupio sam poklone za svoju porodicu na narodnoj pijaci.",
+      "translationEn": "I bought gifts for my family from the local market."
+    }
+  ],
+  "metadata": {
+    "difficulty": 1,
+    "tags": [
+      "travel",
+      "shopping",
+      "market"
+    ]
+  }
 }

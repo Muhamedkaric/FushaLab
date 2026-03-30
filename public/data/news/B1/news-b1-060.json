@@ -2,9 +2,33 @@
   "id": "news-b1-060",
   "category": "news",
   "level": "B1",
-  "arabic": "يُشَارِكُ الشَّبَابُ فِي أَعْمَالٍ تَطَوُّعِيَّةٍ لِمُسَاعَدَةِ الفُقَرَاءِ. يَقُومُ المُتَطَوِّعُونَ بِتَوْزِيعِ الطَّعَامِ وَالمَلَابِسِ فِي الشِّتَاءِ. تُنَظِّمُ الجَمْعِيَّاتُ الخَيْرِيَّةُ دَوْرَاتٍ تَعْلِيمِيَّةً لِلأَطْفَالِ. يَشْعُرُ النَّاسُ بِالسَّعَادَةِ عِنْدَمَا يَعْمَلُونَ مَعًا. بِنَاءُ المُجْتَمَعِ القَوِيِّ يَبْدَأُ بِمُسَاعَدَةِ الآخَرِينَ.",
-  "translation": "Mladi učestvuju u volonterskom radu kako bi pomogli siromašnima. Volonteri dijele hranu i odjeću tokom zime. Dobrotvorna udruženja organizuju obrazovne kurseve za djecu. Ljudi se osjećaju sretno kada rade zajedno. Izgradnja jakog društva počinje pomaganjem drugima.",
-  "translationEn": "Young people participate in voluntary work to help the poor. Volunteers distribute food and clothing during winter. Charitable associations organize educational courses for children. People feel happy when they work together. Building a strong community starts with helping others.",
+  "sentences": [
+    {
+      "arabic": "يُشَارِكُ الشَّبَابُ فِي أَعْمَالٍ تَطَوُّعِيَّةٍ لِمُسَاعَدَةِ الفُقَرَاءِ.",
+      "translation": "Mladi učestvuju u volonterskom radu kako bi pomogli siromašnima.",
+      "translationEn": "Young people participate in voluntary work to help the poor."
+    },
+    {
+      "arabic": "يَقُومُ المُتَطَوِّعُونَ بِتَوْزِيعِ الطَّعَامِ وَالمَلَابِسِ فِي الشِّتَاءِ.",
+      "translation": "Volonteri dijele hranu i odjeću tokom zime.",
+      "translationEn": "Volunteers distribute food and clothing during winter."
+    },
+    {
+      "arabic": "تُنَظِّمُ الجَمْعِيَّاتُ الخَيْرِيَّةُ دَوْرَاتٍ تَعْلِيمِيَّةً لِلأَطْفَالِ.",
+      "translation": "Dobrotvorna udruženja organizuju obrazovne kurseve za djecu.",
+      "translationEn": "Charitable associations organize educational courses for children."
+    },
+    {
+      "arabic": "يَشْعُرُ النَّاسُ بِالسَّعَادَةِ عِنْدَمَا يَعْمَلُونَ مَعًا.",
+      "translation": "Ljudi se osjećaju sretno kada rade zajedno.",
+      "translationEn": "People feel happy when they work together."
+    },
+    {
+      "arabic": "بِنَاءُ المُجْتَمَعِ القَوِيِّ يَبْدَأُ بِمُسَاعَدَةِ الآخَرِينَ.",
+      "translation": "Izgradnja jakog društva počinje pomaganjem drugima.",
+      "translationEn": "Building a strong community starts with helping others."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

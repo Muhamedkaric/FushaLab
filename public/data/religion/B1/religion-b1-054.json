@@ -2,9 +2,33 @@
   "id": "religion-b1-054",
   "category": "religion",
   "level": "B1",
-  "arabic": "كَانَ النَّبِيُّ مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَحِيمًا بِالنَّاسِ وَالْحَيَوَانَاتِ. قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ لَا يَرْحَمُ النَّاسَ لَا يَرْحَمُهُ اللهُ» [رَوَاهُ الْبُخَارِيُّ فِي كِتَابِ الْأَدَبِ، حَدِيثُ ٦٠١٣]. الرَّحْمَةُ تَنْشُرُ السَّلَامَ فِي الْمُجْتَمَعِ وَتُقَرِّبُ الْقُلُوبَ. يَجِبُ عَلَيْنَا أَنْ نَكُونَ رُحَمَاءَ مَعَ الصَّغِيرِ وَالْكَبِيرِ. هَذَا الْخُلُقُ هُوَ جَوْهَرُ الدِّينِ الْإِسْلَامِيِّ الصَّحِيحِ لِكُلِّ مُسْلِمٍ.",
-  "translation": "Poslanik Muhammed, sallallahu alejhi ve sellem, bio je milostiv prema ljudima i životinjama. Allahov Poslanik, sallallahu alejhi ve sellem, rekao je: 'Ko nije milostiv prema ljudima, ni Allah neće biti milostiv prema njemu' [Buhari]. Milost širi mir u društvu i zbližava srca. Moramo biti milostivi prema mlađima i starijima. Ovaj moral je suština ispravne islamske vjere za svakog muslimana.",
-  "translationEn": "Prophet Muhammad (peace be upon him) was merciful to people and animals. The Messenger of Allah (peace be upon him) said: 'He who is not merciful to people, Allah will not be merciful to him' [Reported by al-Bukhari]. Mercy spreads peace in society and brings hearts closer. We must be merciful to the young and the old. This character trait is the essence of the correct Islamic religion for every Muslim.",
+  "sentences": [
+    {
+      "arabic": "كَانَ النَّبِيُّ مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَحِيمًا بِالنَّاسِ وَالْحَيَوَانَاتِ.",
+      "translation": "Poslanik Muhammed, sallallahu alejhi ve sellem, bio je milostiv prema ljudima i životinjama.",
+      "translationEn": "Prophet Muhammad (peace be upon him) was merciful to people and animals."
+    },
+    {
+      "arabic": "قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ لَا يَرْحَمُ النَّاسَ لَا يَرْحَمُهُ اللهُ» [رَوَاهُ الْبُخَارِيُّ فِي كِتَابِ الْأَدَبِ، حَدِيثُ ٦٠١٣].",
+      "translation": "Allahov Poslanik, sallallahu alejhi ve sellem, rekao je: 'Ko nije milostiv prema ljudima, ni Allah neće biti milostiv prema njemu' [Buhari].",
+      "translationEn": "The Messenger of Allah (peace be upon him) said: 'He who is not merciful to people, Allah will not be merciful to him' [Reported by al-Bukhari]."
+    },
+    {
+      "arabic": "الرَّحْمَةُ تَنْشُرُ السَّلَامَ فِي الْمُجْتَمَعِ وَتُقَرِّبُ الْقُلُوبَ.",
+      "translation": "Milost širi mir u društvu i zbližava srca.",
+      "translationEn": "Mercy spreads peace in society and brings hearts closer."
+    },
+    {
+      "arabic": "يَجِبُ عَلَيْنَا أَنْ نَكُونَ رُحَمَاءَ مَعَ الصَّغِيرِ وَالْكَبِيرِ.",
+      "translation": "Moramo biti milostivi prema mlađima i starijima.",
+      "translationEn": "We must be merciful to the young and the old."
+    },
+    {
+      "arabic": "هَذَا الْخُلُقُ هُوَ جَوْهَرُ الدِّينِ الْإِسْلَامِيِّ الصَّحِيحِ لِكُلِّ مُسْلِمٍ.",
+      "translation": "Ovaj moral je suština ispravne islamske vjere za svakog muslimana.",
+      "translationEn": "This character trait is the essence of the correct Islamic religion for every Muslim."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [

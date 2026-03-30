@@ -2,9 +2,33 @@
   "id": "travel-b1-053",
   "category": "travel",
   "level": "B1",
-  "arabic": "زُرْتُ مَدِينَةً قَدِيمَةً مَشْهُورَةً بِآثَارِهَا التَّارِيخِيَّةِ الْعَظِيمَةِ. اسْتَخْدَمْتُ الْخَرِيطَةَ لِلْبَحْثِ عَنِ الْمَتَاحِفِ وَالْمَسَاجِدِ الْأَثَرِيَّةِ. كَانَ الْجَوُّ مُشْمِسًا وَجَمِيلًا جِدًّا لِلتَّجَوُّلِ فِي الشَّوَارِعِ. الْتَقَطْتُ صُوَرًا كَثِيرَةً لِلْمَبَانِي الْقَدِيمَةِ. اشْتَرَيْتُ بَعْضَ الْهَدَايَا التَّذْكَارِيَّةِ لِأَصْدِقَائِي قَبْلَ الْعَوْدَةِ.",
-  "translation": "Posjetio sam stari grad poznat po svojim velikim historijskim spomenicima. Koristio sam mapu kako bih pronašao muzeje i drevne džamije. Vrijeme je bilo sunčano i veoma lijepo za šetnju ulicama. Napravio sam mnogo fotografija starih građevina. Kupio sam neke suvenire za svoje prijatelje prije povratka.",
-  "translationEn": "I visited an old city famous for its great historical monuments. I used the map to search for museums and ancient mosques. The weather was very sunny and beautiful for wandering the streets. I took many photos of the old buildings. I bought some souvenirs for my friends before returning.",
+  "sentences": [
+    {
+      "arabic": "زُرْتُ مَدِينَةً قَدِيمَةً مَشْهُورَةً بِآثَارِهَا التَّارِيخِيَّةِ الْعَظِيمَةِ.",
+      "translation": "Posjetio sam stari grad poznat po svojim velikim historijskim spomenicima.",
+      "translationEn": "I visited an old city famous for its great historical monuments."
+    },
+    {
+      "arabic": "اسْتَخْدَمْتُ الْخَرِيطَةَ لِلْبَحْثِ عَنِ الْمَتَاحِفِ وَالْمَسَاجِدِ الْأَثَرِيَّةِ.",
+      "translation": "Koristio sam mapu kako bih pronašao muzeje i drevne džamije.",
+      "translationEn": "I used the map to search for museums and ancient mosques."
+    },
+    {
+      "arabic": "كَانَ الْجَوُّ مُشْمِسًا وَجَمِيلًا جِدًّا لِلتَّجَوُّلِ فِي الشَّوَارِعِ.",
+      "translation": "Vrijeme je bilo sunčano i veoma lijepo za šetnju ulicama.",
+      "translationEn": "The weather was very sunny and beautiful for wandering the streets."
+    },
+    {
+      "arabic": "الْتَقَطْتُ صُوَرًا كَثِيرَةً لِلْمَبَانِي الْقَدِيمَةِ.",
+      "translation": "Napravio sam mnogo fotografija starih građevina.",
+      "translationEn": "I took many photos of the old buildings."
+    },
+    {
+      "arabic": "اشْتَرَيْتُ بَعْضَ الْهَدَايَا التَّذْكَارِيَّةِ لِأَصْدِقَائِي قَبْلَ الْعَوْدَةِ.",
+      "translation": "Kupio sam neke suvenire za svoje prijatelje prije povratka.",
+      "translationEn": "I bought some souvenirs for my friends before returning."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": [
