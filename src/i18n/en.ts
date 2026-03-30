@@ -56,6 +56,11 @@ export interface Translations {
     hideHarakat: string
     showTranslation: string
     hideTranslation: string
+    pinTranslation: string
+    unpinTranslation: string
+    sentenceMode: string
+    fullMode: string
+    sentenceOf: string
     playAudio: string
     stopAudio: string
     noVoice: string
@@ -102,18 +107,9 @@ export interface Translations {
       mixed: string
     }
   }
-  vocabulary: {
-    title: string
-    comingSoon: string
-  }
-  conversation: {
-    title: string
-    comingSoon: string
-  }
-  exercises: {
-    title: string
-    comingSoon: string
-  }
+  vocabulary: { title: string; comingSoon: string }
+  conversation: { title: string; comingSoon: string }
+  exercises: { title: string; comingSoon: string }
   progress: {
     title: string
     completed: string
@@ -166,30 +162,12 @@ export const en: Translations = {
     welcomeBack: 'Continue your journey',
     exploreSection: 'Explore',
     sections: {
-      reading: {
-        title: 'Reading',
-        desc: 'Authentic MSA texts with full diacritics at B1–C2 level',
-      },
-      listening: {
-        title: 'Listening',
-        desc: 'Curated YouTube courses in Modern Standard Arabic',
-      },
-      vocabulary: {
-        title: 'Vocabulary',
-        desc: 'Build your Arabic vocabulary with spaced repetition',
-      },
-      conversation: {
-        title: 'Conversation',
-        desc: 'Practice A1–A2 dialogues and basic sentence patterns',
-      },
-      exercises: {
-        title: 'Exercises',
-        desc: 'Grammar drills and comprehension questions',
-      },
-      progress: {
-        title: 'Progress',
-        desc: 'Track your learning streak and achievements',
-      },
+      reading: { title: 'Reading', desc: 'Authentic MSA texts with full diacritics at B1–C2 level' },
+      listening: { title: 'Listening', desc: 'Curated YouTube courses in Modern Standard Arabic' },
+      vocabulary: { title: 'Vocabulary', desc: 'Build your Arabic vocabulary with spaced repetition' },
+      conversation: { title: 'Conversation', desc: 'Practice A1–A2 dialogues and basic sentence patterns' },
+      exercises: { title: 'Exercises', desc: 'Grammar drills and comprehension questions' },
+      progress: { title: 'Progress', desc: 'Track your learning streak and achievements' },
     },
   },
   categories: {
@@ -224,6 +202,11 @@ export const en: Translations = {
     hideHarakat: 'Hide Diacritics',
     showTranslation: 'Show Translation',
     hideTranslation: 'Hide Translation',
+    pinTranslation: 'Always show translation',
+    unpinTranslation: 'Click to toggle translation',
+    sentenceMode: 'Sentence-by-sentence mode',
+    fullMode: 'Full text mode',
+    sentenceOf: 'of',
     playAudio: 'Play Audio',
     stopAudio: 'Stop Audio',
     noVoice: 'No Arabic voice available',
@@ -270,18 +253,9 @@ export const en: Translations = {
       mixed: 'Mixed',
     },
   },
-  vocabulary: {
-    title: 'Vocabulary',
-    comingSoon: 'Vocabulary flashcards and spaced repetition — coming soon',
-  },
-  conversation: {
-    title: 'Conversation',
-    comingSoon: 'A1–A2 conversation practice dialogues — coming soon',
-  },
-  exercises: {
-    title: 'Exercises',
-    comingSoon: 'Grammar drills and comprehension exercises — coming soon',
-  },
+  vocabulary: { title: 'Vocabulary', comingSoon: 'Vocabulary flashcards and spaced repetition — coming soon' },
+  conversation: { title: 'Conversation', comingSoon: 'A1–A2 conversation practice dialogues — coming soon' },
+  exercises: { title: 'Exercises', comingSoon: 'Grammar drills and comprehension exercises — coming soon' },
   progress: {
     title: 'Your Progress',
     completed: 'Completed',

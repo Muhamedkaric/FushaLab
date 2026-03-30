@@ -1,4 +1,5 @@
-import { Switch, FormControlLabel, Typography } from '@mui/material'
+import { IconButton, Tooltip } from '@mui/material'
+import FormatColorTextIcon from '@mui/icons-material/FormatColorText'
 import { useI18n } from '@/i18n'
 
 interface Props {
@@ -10,22 +11,10 @@ export function HarakatToggle({ show, onToggle }: Props) {
   const { t } = useI18n()
 
   return (
-    <FormControlLabel
-      control={
-        <Switch
-          checked={show}
-          onChange={e => onToggle(e.target.checked)}
-          color="primary"
-          size="small"
-        />
-      }
-      label={
-        <Typography variant="body2" fontWeight={500}>
-          {show ? t.reader.hideHarakat : t.reader.showHarakat}
-        </Typography>
-      }
-      labelPlacement="start"
-      sx={{ mx: 0, gap: 1 }}
-    />
+    <Tooltip title={show ? t.reader.hideHarakat : t.reader.showHarakat}>
+      <IconButton size="small" onClick={() => onToggle(!show)} color={show ? 'primary' : 'default'}>
+        <FormatColorTextIcon fontSize="small" />
+      </IconButton>
+    </Tooltip>
   )
 }

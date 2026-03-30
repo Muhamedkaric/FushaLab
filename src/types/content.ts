@@ -27,14 +27,29 @@ export interface ContentMetadata {
   source?: string
 }
 
+export interface Sentence {
+  arabic: string
+  translation: string   // Bosnian
+  translationEn: string // English
+}
+
 export interface ContentItem {
   id: string
   category: Category
   level: Level
-  arabic: string
-  translation: string
-  translationEn: string
+  sentences: Sentence[]
   metadata: ContentMetadata
+}
+
+// Helpers — derive full-text fields from sentences array
+export function getFullArabic(item: ContentItem): string {
+  return item.sentences.map(s => s.arabic).join(' ')
+}
+
+export function getFullTranslation(item: ContentItem, lang: 'bs' | 'en'): string {
+  return item.sentences
+    .map(s => (lang === 'en' ? s.translationEn : s.translation))
+    .join(' ')
 }
 
 export interface ContentIndex {
@@ -48,10 +63,10 @@ export interface CategoryIndex {
 
 export interface LevelIndex {
   level: Level
-  items: string[] // array of ids
+  items: string[]
 }
 
 export interface UserProgress {
   ratings: Record<string, DifficultyRating>
-  completedAt: Record<string, number> // timestamp
+  completedAt: Record<string, number>
 }
