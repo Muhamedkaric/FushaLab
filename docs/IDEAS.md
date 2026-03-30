@@ -65,6 +65,30 @@ Review saved (or all) vocabulary for a text or level in a simple flashcard sessi
 
 Instead of showing the full text at once, reveal it sentence by sentence. User reads one sentence, optionally hears audio for it, then presses "Next sentence". Better for C1/C2 texts which are long and complex.
 
+**Phased plan:**
+
+**Phase 1 — JS split on existing data (no regeneration needed):**
+- Split `arabic` field by `/[.۔؟!]/` in the browser at runtime
+- Show full `translation` as context below; highlight/navigate current Arabic sentence
+- Zero backend, zero regeneration — works immediately on all existing content
+- Note: Arabic full stop is `۔` (U+06D4), not `.` — use a combined regex to catch both
+
+**Phase 2 — Batch enrichment script:**
+- A script (similar to fushagenerate) that reads existing JSONs, calls Claude API with user's own API key, and rewrites files with a `sentences` array — each entry has `arabic`, `translation`, `translationEn`
+- One-time offline cost per file; no runtime tokens burned in the app
+
+**Phase 3 — New content:**
+- Generate new texts directly with the `sentences` array format from the start
+
+**Future `sentences` JSON shape (Phase 2+):**
+```json
+"sentences": [
+  { "arabic": "...", "translation": "...(BS)", "translationEn": "...(EN)" }
+]
+```
+
+**Word translation** (separate, harder feature): would need either runtime API calls per tapped word, or a pre-generated `words` array per sentence. Deferred.
+
 ### 2b. Font Size Control
 
 A simple slider or +/- buttons for the Arabic font size. Useful on mobile where the default size may be too small or too large. Save preference to localStorage.
