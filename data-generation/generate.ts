@@ -97,9 +97,9 @@ console.log(`   Count    : ${count}`)
 console.log(`   Model    : ${model}`)
 console.log(`   Keys     : ${apiKeys.length}\n`)
 
-const BATCH = 5 // smaller batches since texts are now much longer paragraphs
+const BATCH = 5
 let remaining = count
-const allGenerated = []
+let totalWritten = 0
 
 while (remaining > 0) {
   const batchSize = Math.min(remaining, BATCH)
@@ -125,17 +125,16 @@ while (remaining > 0) {
     process.exit(1)
   }
 
-  allGenerated.push(...items)
+  console.log(`\n💾 Writing ${items.length} items to public/data/${category}/${level}/\n`)
+  const written = writeItems(category, level, items)
+  totalWritten += written.length
   remaining -= batchSize
 
   // Respect free tier rate limits (15 req/min)
   if (remaining > 0) await new Promise(r => setTimeout(r, 5000))
 }
 
-console.log(`\n💾 Writing ${allGenerated.length} items to public/data/${category}/${level}/\n`)
-writeItems(category, level, allGenerated)
-
-console.log(`\n✅ Done! ${allGenerated.length} items added to ${category}/${level}`)
+console.log(`\n✅ Done! ${totalWritten} items added to ${category}/${level}`)
 
 const root = resolve(import.meta.dirname, '..')
 try {

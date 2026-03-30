@@ -5,8 +5,9 @@ import 'dotenv/config'
  *
  * Checks:
  *   - Valid JSON structure
- *   - Required fields present
- *   - Arabic text contains harakat (diacritics)
+ *   - Required fields present (id, category, level, sentences[], metadata)
+ *   - Each sentence has arabic, translation, translationEn
+ *   - Arabic sentences contain harakat (diacritics)
  *   - ID matches filename
  *   - index.json is in sync with individual files
  *
@@ -33,7 +34,7 @@ let totalErrors = 0
 let totalWarnings = 0
 
 const categories = readdirSync(DATA_DIR).filter(
-  f => !f.startsWith('.') && (!filterCategory || f === filterCategory)
+  f => !f.startsWith('.') && f !== 'listening' && (!filterCategory || f === filterCategory)
 )
 
 for (const category of categories) {
@@ -49,8 +50,8 @@ for (const category of categories) {
 
     console.log(`\n📁 ${category}/${level} (${files.length} items)`)
 
-    // Validate each item file
     const foundIds: string[] = []
+
     for (const file of files.sort()) {
       totalFiles++
       const filePath = join(levelDir, file)
@@ -63,16 +64,8 @@ for (const category of categories) {
         const errors: string[] = []
         const warnings: string[] = []
 
-        // Required fields
-        for (const field of [
-          'id',
-          'category',
-          'level',
-          'arabic',
-          'translation',
-          'translationEn',
-          'metadata',
-        ]) {
+        // Required top-level fields
+        for (const field of ['id', 'category', 'level', 'sentences', 'metadata']) {
           if (!(field in item)) errors.push(`missing field: "${field}"`)
         }
 
@@ -80,23 +73,43 @@ for (const category of categories) {
         if (item['id'] !== expectedId)
           errors.push(`id "${String(item['id'])}" doesn't match filename "${expectedId}"`)
 
-        // Arabic has harakat
-        if (typeof item['arabic'] === 'string') {
-          if (!HARAKAT_REGEX.test(item['arabic'])) {
-            warnings.push('Arabic text has no harakat (diacritics)')
+        // Sentences array validation
+        if (Array.isArray(item['sentences'])) {
+          const sentences = item['sentences'] as unknown[]
+          if (sentences.length === 0) {
+            errors.push('sentences array is empty')
           } else {
-            // Count harakat density
-            const chars = item['arabic'].replace(/\s/g, '').length
-            const harakatCount = (item['arabic'].match(/[\u064B-\u065F\u0670]/g) ?? []).length
-            const arabicLetters = (item['arabic'].match(/[\u0600-\u06FF]/g) ?? []).length
-            const coverage =
-              arabicLetters > 0 ? Math.round((harakatCount / arabicLetters) * 100) : 0
-            if (coverage < 40) warnings.push(`Low harakat coverage: ~${coverage}% (aim for >70%)`)
+            for (let i = 0; i < sentences.length; i++) {
+              const s = sentences[i] as Record<string, unknown>
+              if (typeof s !== 'object' || s === null) {
+                errors.push(`sentences[${i}] is not an object`)
+                continue
+              }
+              if (typeof s['arabic'] !== 'string' || !s['arabic'].trim())
+                errors.push(`sentences[${i}].arabic is missing or empty`)
+              if (typeof s['translation'] !== 'string' || !s['translation'].trim())
+                errors.push(`sentences[${i}].translation is missing or empty`)
+              if (typeof s['translationEn'] !== 'string' || !s['translationEn'].trim())
+                warnings.push(`sentences[${i}].translationEn is missing`)
+
+              // Harakat check on each Arabic sentence
+              if (typeof s['arabic'] === 'string' && s['arabic'].trim()) {
+                if (!HARAKAT_REGEX.test(s['arabic'])) {
+                  warnings.push(`sentences[${i}].arabic has no harakat`)
+                } else {
+                  const arabicLetters = (s['arabic'].match(/[\u0600-\u06FF]/g) ?? []).length
+                  const harakatCount = (s['arabic'].match(/[\u064B-\u065F\u0670]/g) ?? []).length
+                  const coverage =
+                    arabicLetters > 0 ? Math.round((harakatCount / arabicLetters) * 100) : 0
+                  if (coverage < 40)
+                    warnings.push(
+                      `sentences[${i}].arabic low harakat coverage: ~${coverage}% (aim for >70%)`
+                    )
+                }
+              }
+            }
           }
         }
-
-        // translationEn present (optional but recommended)
-        if (!item['translationEn']) warnings.push('missing translationEn (English translation)')
 
         foundIds.push(expectedId)
 
@@ -122,12 +135,19 @@ for (const category of categories) {
     } else {
       try {
         const index = JSON.parse(readFileSync(indexPath, 'utf-8')) as {
-          items: Array<{ id: string }>
+          items: Array<{ id: string; arabic: string }>
         }
         const indexIds = index.items.map(i => i.id)
 
         const missingFromIndex = foundIds.filter(id => !indexIds.includes(id))
         const extraInIndex = indexIds.filter(id => !foundIds.includes(id))
+
+        // Check that each index entry has an arabic preview
+        const missingPreview = index.items.filter(i => !i.arabic?.trim())
+        if (missingPreview.length > 0) {
+          totalWarnings++
+          console.log(`  ⚠️  index.json: ${missingPreview.length} entries missing arabic preview`)
+        }
 
         if (missingFromIndex.length > 0) {
           totalErrors++
@@ -139,7 +159,7 @@ for (const category of categories) {
             `  ⚠️  index.json: has entries with no matching file: ${extraInIndex.join(', ')}`
           )
         }
-        if (missingFromIndex.length === 0 && extraInIndex.length === 0) {
+        if (missingFromIndex.length === 0 && extraInIndex.length === 0 && missingPreview.length === 0) {
           console.log(`  ✅ index.json: in sync (${indexIds.length} items)`)
         }
       } catch {

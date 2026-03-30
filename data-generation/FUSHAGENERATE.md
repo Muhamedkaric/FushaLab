@@ -35,9 +35,18 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
   "id": "travel-b1-011",
   "category": "travel",
   "level": "B1",
-  "arabic": "نَصٌّ عَرَبِيٌّ مَعَ الشَّكْلِ الْكَامِلِ.",
-  "translation": "Bosanski prijevod.",
-  "translationEn": "English translation.",
+  "sentences": [
+    {
+      "arabic": "الْجُمْلَةُ الْأُولَى بِالشَّكْلِ الْكَامِلِ.",
+      "translation": "Prva rečenica na bosanskom.",
+      "translationEn": "First sentence in English."
+    },
+    {
+      "arabic": "الْجُمْلَةُ الثَّانِيَةُ بِالشَّكْلِ الْكَامِلِ.",
+      "translation": "Druga rečenica na bosanskom.",
+      "translationEn": "Second sentence in English."
+    }
+  ],
   "metadata": {
     "difficulty": 1,
     "tags": ["tag1", "tag2"]
@@ -58,6 +67,8 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
 }
 ```
 
+Note: `arabic` in the index entry is `sentences[0].arabic` — the first sentence used as a preview in the UI.
+
 ---
 
 ## Difficulty mapping
@@ -77,26 +88,26 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
 - **Register**: Simple Modern Standard Arabic (فصحى), never colloquial
 - **Grammar**: Present tense (مضارع) and past tense (ماضي), simple sentence structures
 - **Vocabulary**: High-frequency, everyday words — no rare or literary vocabulary
-- **Length**: One short paragraph, **4–6 sentences**, one clear idea per text
+- **Length**: **3–4 sentences**, one clear idea per text
 - **Sentence complexity**: Simple subject–verb–object, no heavy subordinate clauses
 
 ### B2
 - **Register**: MSA, slightly more formal than B1
 - **Grammar**: All basic tenses, compound sentences, relative clauses (الذي/التي), simple conditional
 - **Vocabulary**: Broader everyday + topic-specific vocabulary, some idiomatic expressions
-- **Length**: One solid paragraph, **6–9 sentences**, one topic developed with some nuance
+- **Length**: **4–6 sentences**, one topic developed with some nuance
 
 ### C1
 - **Register**: Formal MSA, written prose style
 - **Grammar**: Complex multi-clause sentences, passive (المبني للمجهول), conditional (لو/إذا), nominal sentences (الجملة الاسمية), all verb forms
 - **Vocabulary**: Advanced, formal vocabulary; some technical terms appropriate to the topic
-- **Length**: **Two paragraphs, 10–14 sentences total** — introduction, development, conclusion
+- **Length**: **5–7 sentences** — introduction, development, conclusion
 
 ### C2
 - **Register**: Sophisticated literary, journalistic, or scholarly prose
 - **Grammar**: All Arabic grammatical structures; complex embeddings, ellipsis, inversion for emphasis
 - **Vocabulary**: Rare/elevated vocabulary, classical resonances, rhetorical devices (metaphor, parallel structure, saj')
-- **Length**: **Two to three paragraphs, 14–20 sentences total**, on a substantive theme
+- **Length**: **6–8 sentences** on a substantive theme
 
 ---
 

@@ -25,24 +25,29 @@ export type Category =
   | 'opinions'
 export type Level = 'B1' | 'B2' | 'C1' | 'C2'
 
-export interface GeneratedItem {
+export interface Sentence {
   arabic: string
-  translation: string // Bosnian
-  translationEn: string // English
+  translation: string    // Bosnian
+  translationEn: string  // English
+}
+
+export interface GeneratedItem {
+  sentences: Sentence[]
   tags: string[]
 }
 
-export interface ContentItem extends GeneratedItem {
+export interface ContentItem {
   id: string
   category: Category
   level: Level
+  sentences: Sentence[]
   metadata: { difficulty: 1 | 2 | 3; tags: string[] }
 }
 
 export interface LevelIndex {
   items: Array<{
     id: string
-    arabic: string
+    arabic: string  // sentences[0].arabic — used as preview in the UI
     metadata: { difficulty: number; tags: string[] }
   }>
 }
@@ -57,10 +62,10 @@ export const DIFFICULTY: Record<Level, 1 | 2 | 3> = {
 }
 
 export const LEVEL_DESCRIPTIONS: Record<Level, string> = {
-  B1: 'Simple sentences, present and past tense, everyday vocabulary. Length: a short paragraph of 4–6 sentences covering one clear idea.',
-  B2: 'Compound and complex sentences, richer vocabulary, idiomatic expressions, subordinate clauses. Length: a solid paragraph of 6–9 sentences developing a topic with some nuance.',
-  C1: 'Complex multi-clause sentences, formal register, advanced grammar (conditional, passive, nominal sentences). Length: two paragraphs (10–14 sentences) with introduction, development, and a conclusion.',
-  C2: 'Sophisticated literary, journalistic, or scholarly prose. Rare vocabulary, complex structures, rhetorical devices (metaphor, parallel structure). Length: two to three paragraphs (14–20 sentences) on a substantive theme.',
+  B1: 'Simple sentences, present and past tense, everyday vocabulary. Length: 3–4 short sentences covering one clear idea.',
+  B2: 'Compound and complex sentences, richer vocabulary, idiomatic expressions, subordinate clauses. Length: 4–6 sentences developing a topic with some nuance.',
+  C1: 'Complex multi-clause sentences, formal register, advanced grammar (conditional, passive, nominal sentences). Length: 5–7 sentences with introduction, development, and a conclusion.',
+  C2: 'Sophisticated literary, journalistic, or scholarly prose. Rare vocabulary, complex structures, rhetorical devices (metaphor, parallel structure). Length: 6–8 sentences on a substantive theme.',
 }
 
 export const CATEGORY_TOPICS: Record<Category, string> = {
@@ -128,6 +133,47 @@ export function makeId(category: Category, level: Level, n: number): string {
   return `${category}-${level.toLowerCase()}-${String(n).padStart(3, '0')}`
 }
 
+// ── Inline validation ─────────────────────────────────────────────────────────
+
+const HARAKAT_REGEX = /[\u064B-\u065F\u0670]/
+
+export interface ValidationIssue {
+  id: string
+  type: 'error' | 'warning'
+  message: string
+}
+
+export function validateItems(items: ContentItem[]): ValidationIssue[] {
+  const issues: ValidationIssue[] = []
+
+  for (const item of items) {
+    if (!Array.isArray(item.sentences) || item.sentences.length === 0) {
+      issues.push({ id: item.id, type: 'error', message: 'sentences array is empty or missing' })
+      continue
+    }
+
+    for (let i = 0; i < item.sentences.length; i++) {
+      const s = item.sentences[i]
+      if (!s.arabic?.trim())
+        issues.push({ id: item.id, type: 'error', message: `sentences[${i}].arabic is empty` })
+      if (!s.translation?.trim())
+        issues.push({ id: item.id, type: 'error', message: `sentences[${i}].translation is empty` })
+      if (!s.translationEn?.trim())
+        issues.push({ id: item.id, type: 'error', message: `sentences[${i}].translationEn is empty` })
+
+      if (s.arabic && !HARAKAT_REGEX.test(s.arabic)) {
+        issues.push({
+          id: item.id,
+          type: 'warning',
+          message: `sentences[${i}].arabic has no harakat`,
+        })
+      }
+    }
+  }
+
+  return issues
+}
+
 // ── Write helpers ─────────────────────────────────────────────────────────────
 
 export function writeItems(
@@ -149,16 +195,14 @@ export function writeItems(
       id,
       category,
       level,
-      arabic: generated[i].arabic,
-      translation: generated[i].translation,
-      translationEn: generated[i].translationEn,
+      sentences: generated[i].sentences,
       metadata: { difficulty, tags: generated[i].tags },
     }
 
     const filePath = join(dir, `${id}.json`)
     const serialized = JSON.stringify(item, null, 2)
     writeFileSync(filePath, serialized)
-    // Validate the written file parses correctly — catch any FS or encoding edge cases
+    // Verify the written file parses correctly
     try {
       JSON.parse(readFileSync(filePath, 'utf-8'))
     } catch {
@@ -170,10 +214,28 @@ export function writeItems(
     written.push(item)
   }
 
-  // Update index.json
+  // Inline validation — report issues immediately
+  const issues = validateItems(written)
+  if (issues.length > 0) {
+    console.log(`\n  ⚠️  Validation issues in this batch:`)
+    for (const issue of issues) {
+      const icon = issue.type === 'error' ? '❌' : '⚠️ '
+      console.log(`    ${icon} ${issue.id}: ${issue.message}`)
+    }
+    const errors = issues.filter(i => i.type === 'error')
+    if (errors.length > 0) {
+      console.log(`  ❌ ${errors.length} validation error(s) — review the generated content\n`)
+    }
+  }
+
+  // Update index.json — arabic field = sentences[0].arabic (UI preview)
   const index = readIndex(category, level)
   for (const item of written) {
-    index.items.push({ id: item.id, arabic: item.arabic, metadata: item.metadata })
+    index.items.push({
+      id: item.id,
+      arabic: item.sentences[0]?.arabic ?? '',
+      metadata: item.metadata,
+    })
   }
   const indexPath = join(dir, 'index.json')
   writeFileSync(indexPath, JSON.stringify(index, null, 2))
@@ -220,25 +282,39 @@ STRICT REQUIREMENTS:
 2. Every single Arabic word MUST have complete and correct harakat (تشكيل / diacritics)
    — this means shadda (ّ), sukun (ْ), tanwin (ً ٍ ٌ), fatha (َ), kasra (ِ), damma (ُ) where applicable
 3. The Arabic must be grammatically perfect and natural-sounding
-4. Each text must be a full, self-contained passage — follow the length specified in the level description above
-5. Translations must be fluent and natural — not word-for-word
-6. Bosnian translation should use correct Bosnian grammar and vocabulary
-7. Each text must be on a different specific topic within the category
-8. Tags: 2–4 short English descriptors relevant to the text content
+4. Each text must be a full, self-contained passage — follow the sentence count in the level description
+5. Split the text into individual sentences. Each sentence object contains: its Arabic sentence, the Bosnian translation of that sentence, and the English translation of that sentence
+6. Translations must be fluent and natural — not word-for-word
+7. Bosnian translation should use correct Bosnian grammar and vocabulary (ijekavica)
+8. Each text must be on a different specific topic within the category
+9. Tags: 2–4 short English descriptors relevant to the text content
 ${HALAL_FILTER}
 ${religionSection}
 Return ONLY a valid JSON array — no explanation, no markdown, no code blocks.
 Format:
 [
   {
-    "arabic": "النص العربي مع الشكل الكامل.",
-    "translation": "Bosanski prijevod.",
-    "translationEn": "English translation.",
+    "sentences": [
+      {
+        "arabic": "الْجُمْلَةُ الْأُولَى بِالشَّكْلِ الْكَامِلِ.",
+        "translation": "Prva rečenica na bosanskom.",
+        "translationEn": "First sentence in English."
+      },
+      {
+        "arabic": "الْجُمْلَةُ الثَّانِيَةُ بِالشَّكْلِ الْكَامِلِ.",
+        "translation": "Druga rečenica na bosanskom.",
+        "translationEn": "Second sentence in English."
+      }
+    ],
     "tags": ["tag1", "tag2"]
   }
 ]
 
-Generate exactly ${count} items.`
+Generate exactly ${count} items. Each item must have between ${sentenceRange(level)} sentences.`
+}
+
+function sentenceRange(level: Level): string {
+  return { B1: '3 and 4', B2: '4 and 6', C1: '5 and 7', C2: '6 and 8' }[level]
 }
 
 // ── Parse response ────────────────────────────────────────────────────────────
@@ -257,14 +333,26 @@ export function parseResponse(raw: string): GeneratedItem[] {
   return parsed.map((item: unknown, i: number) => {
     if (typeof item !== 'object' || item === null) throw new Error(`Item ${i} is not an object`)
     const o = item as Record<string, unknown>
-    if (typeof o['arabic'] !== 'string') throw new Error(`Item ${i} missing "arabic"`)
-    if (typeof o['translation'] !== 'string') throw new Error(`Item ${i} missing "translation"`)
-    if (typeof o['translationEn'] !== 'string') throw new Error(`Item ${i} missing "translationEn"`)
+
+    if (!Array.isArray(o['sentences']) || o['sentences'].length === 0)
+      throw new Error(`Item ${i} missing "sentences" array`)
+
+    const sentences: Sentence[] = (o['sentences'] as unknown[]).map((s: unknown, j: number) => {
+      if (typeof s !== 'object' || s === null) throw new Error(`Item ${i} sentence ${j} is not an object`)
+      const sv = s as Record<string, unknown>
+      if (typeof sv['arabic'] !== 'string') throw new Error(`Item ${i} sentence ${j} missing "arabic"`)
+      if (typeof sv['translation'] !== 'string') throw new Error(`Item ${i} sentence ${j} missing "translation"`)
+      if (typeof sv['translationEn'] !== 'string') throw new Error(`Item ${i} sentence ${j} missing "translationEn"`)
+      return {
+        arabic: sv['arabic'] as string,
+        translation: sv['translation'] as string,
+        translationEn: sv['translationEn'] as string,
+      }
+    })
+
     return {
-      arabic: o['arabic'],
-      translation: o['translation'],
-      translationEn: o['translationEn'],
-      tags: Array.isArray(o['tags']) ? (o['tags'] as string[]) : [String(category)],
+      sentences,
+      tags: Array.isArray(o['tags']) ? (o['tags'] as string[]) : [],
     }
   })
 }
@@ -309,7 +397,7 @@ export function parseArgs(defaults: { model: string }): Args {
   if (errors.length > 0) {
     console.error('Usage errors:\n  ' + errors.join('\n  '))
     console.error(
-      '\nExample:\n  pnpm generate --category travel --level B1 --count 10 --model claude-opus-4-6'
+      '\nExample:\n  pnpm generate --category travel --level B1 --count 10 --model gemini-2.0-flash'
     )
     process.exit(1)
   }
