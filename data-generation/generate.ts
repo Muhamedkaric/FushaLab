@@ -143,8 +143,7 @@ try {
   const staged = execSync('git diff --cached --name-only', { cwd: root }).toString().trim()
   if (staged) {
     execSync(`git commit -m "content: ${category}/${level} +${allGenerated.length}"`, { cwd: root, stdio: 'inherit' })
-    execSync('git push', { cwd: root, stdio: 'inherit' })
-    console.log('  ✓ Pushed to GitHub\n')
+    console.log('  ✓ Committed locally\n')
   }
 } catch (err) {
   console.error('  ✗ Git push failed:', err)

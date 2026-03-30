@@ -145,14 +145,13 @@ function commitAndPush(perLevel: Map<string, number>) {
     const breakdown = perLevel.size > 0
       ? [...perLevel.entries()].map(([k, n]) => `${k} +${n}`).join(', ')
       : 'sync data files'
-    console.log('\n📦 Committing and pushing new content...')
+    console.log('\n📦 Committing new content...')
     execSync(`git commit -m "content: ${breakdown}"`, { cwd: root, stdio: 'inherit' })
-    execSync('git push', { cwd: root, stdio: 'inherit' })
-    console.log('  ✓ Pushed to GitHub')
-    notify('Content pushed to GitHub')
+    console.log('  ✓ Committed locally')
+    notify('Content committed locally')
   } catch (err) {
-    console.error('  ✗ Git push failed:', err)
-    notify('Warning: content generated but git push failed')
+    console.error('  ✗ Git commit failed:', err)
+    notify('Warning: content generated but git commit failed')
   }
 }
 
