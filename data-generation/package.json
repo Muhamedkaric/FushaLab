@@ -5,7 +5,8 @@
   "scripts": {
     "generate": "tsx generate.ts",
     "auto-generate": "tsx auto-generate.ts",
-    "validate": "tsx validate.ts"
+    "validate": "tsx validate.ts",
+    "migrate-v2": "tsx migrate-v2.ts"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",

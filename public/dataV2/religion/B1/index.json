@@ -1,0 +1,602 @@
+{
+  "items": [
+    {
+      "id": "religion-b1-019",
+      "arabic": "هِجْرَةُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ مَكَّةَ إِلَى الْمَدِينَةِ كَانَتْ حَدَثًا عَظِيمًا فِي تَارِيخِ الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "seerah",
+          "hijra",
+          "companions",
+          "tawakkul"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-022",
+      "arabic": "عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ كَانَ ابْنَ عَمِّ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَرَابِعَ الْخُلَفَاءِ الرَّاشِدِينَ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "companions",
+          "ali",
+          "seerah",
+          "leadership"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-023",
+      "arabic": "الصِّدْقُ خُلُقٌ كَرِيمٌ أَمَرَ بِهِ الْإِسْلَامُ وَحَثَّ عَلَيْهِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "sidq",
+          "truthfulness",
+          "adab",
+          "hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-024",
+      "arabic": "الْوُضُوءُ طَهَارَةٌ وَاجِبَةٌ قَبْلَ الصَّلَاةِ فِي الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "wudu",
+          "taharah",
+          "salah",
+          "fiqh"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-025",
+      "arabic": "الشُّكْرُ لِلَّهِ تَعَالَى عِبَادَةٌ عَظِيمَةٌ يُحِبُّهَا اللَّهُ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "shukr",
+          "gratitude",
+          "adab",
+          "aqeedah"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-026",
+      "arabic": "لَيْلَةُ الْقَدْرِ لَيْلَةٌ مُبَارَكَةٌ فِي شَهْرِ رَمَضَانَ الْمُبَارَكِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "laylatul-qadr",
+          "ramadan",
+          "sawm",
+          "dhikr"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-027",
+      "arabic": "الصَّدَقَةُ عِبَادَةٌ يُحِبُّهَا اللَّهُ وَتُطْفِئُ غَضَبَهُ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "sadaqah",
+          "charity",
+          "adab",
+          "hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-028",
+      "arabic": "خَدِيجَةُ بِنْتُ خُوَيْلِدٍ رَضِيَ اللَّهُ عَنْهَا كَانَتْ أَوَّلَ مَنْ آمَنَ بِالنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ النِّسَاءِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "companions",
+          "khadijah",
+          "seerah",
+          "women"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-029",
+      "arabic": "حُسْنُ الظَّنِّ بِاللَّهِ تَعَالَى مِنْ أُصُولِ الْعَقِيدَةِ الصَّحِيحَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "husn-al-zann",
+          "aqeedah",
+          "hope",
+          "hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-030",
+      "arabic": "الدُّعَاءُ عِبَادَةٌ عَظِيمَةٌ وَهُوَ مُخُّ الْعِبَادَةِ كَمَا قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ [رَوَاهُ التِّرْمِذِيُّ، وَحَسَّنَهُ الْأَلْبَانِيُّ].",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "dua",
+          "supplication",
+          "dhikr",
+          "ibadah"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-031",
+      "arabic": "عَنْ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ، قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ» [رَوَاهُ الْبُخَارِيُّ فِي كِتَابِ بَدْءِ الْوَحْيِ، حَدِيثُ رَقْمِ ١].",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Ikhlas",
+          "Hadith",
+          "Intentions"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-032",
+      "arabic": "قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «عَلَيْكُمْ بِالصِّدْقِ، فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ» [رَوَاهُ مُسْلِمٌ فِي كِتَابِ الْبِرِّ وَالصِّلَةِ، حَدِيثُ رَقْمِ ٢٦٠٧].",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Adab",
+          "Hadith",
+          "Honesty"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-033",
+      "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنْ أَرْكَانِ الْإِسْلَامِ الْخَمْسَةِ الْعَظِيمَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Salah",
+          "Hadith",
+          "Pillars of Islam"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-035",
+      "arabic": "التَّوَكُّلُ عَلَى اللَّهِ هُوَ اعْتِمَادُ الْقَلْبِ عَلَى اللَّهِ مَعَ الْأَخْذِ بِالْأَسْبَابِ الْمُمْكِنَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Aqeedah",
+          "Tawakkul",
+          "Ibn Uthaymeen"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-036",
+      "arabic": "الصِّدْقُ خُلُقٌ عَظِيمٌ فِي الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Ethics",
+          "Hadith",
+          "Manners"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-037",
+      "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنْ أَرْكَانِ الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Prayer",
+          "Fiqh",
+          "Worship"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-038",
+      "arabic": "الرَّحْمَةُ مِنَ الصِّفَاتِ الْجَمِيلَةِ الَّتِي أَمَرَنَا بِهَا الدِّينُ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Seerah",
+          "Hadith",
+          "Mercy"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-039",
+      "arabic": "النِّيَّةُ الصَّالِحَةُ هِيَ أَسَاسُ قَبُولِ الْأَعْمَالِ عِنْدَ اللهِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Aqeedah",
+          "Hadith",
+          "Ikhlas"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-051",
+      "arabic": "الصِّدْقُ خُلُقٌ عَظِيمٌ فِي الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "manners",
+          "ethics",
+          "hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-052",
+      "arabic": "الصَّلَوَاتُ الْخَمْسُ رُكْنٌ أَسَاسِيٌّ فِي دِينِنَا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "salah",
+          "worship",
+          "purification"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-054",
+      "arabic": "كَانَ النَّبِيُّ مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَحِيمًا بِالنَّاسِ وَالْحَيَوَانَاتِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "mercy",
+          "seerah",
+          "prophetic-character"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-055",
+      "arabic": "النِّيَّةُ الصَّالِحَةُ هِيَ أَسَاسُ كُلِّ عَمَلٍ يَقُومُ بِهِ الْمُسْلِمُ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "ikhlas",
+          "intention",
+          "aqeedah"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-056",
+      "arabic": "الْإِخْلَاصُ فِي الْعَمَلِ هُوَ أَسَاسُ قَبُولِ الطَّاعَةِ عِنْدَ اللهِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "ikhlas",
+          "intentions",
+          "hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-057",
+      "arabic": "بِرُّ الْوَالِدَيْنِ مِنْ أَعْظَمِ الْأَعْمَالِ الصَّالِحَةِ فِي الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "parents",
+          "ethics",
+          "hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-058",
+      "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنْ أَرْكَانِ الْإِسْلَامِ الْخَمْسَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "salah",
+          "pillars of islam",
+          "hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-059",
+      "arabic": "الصِّدْقُ خُلُقٌ عَظِيمٌ يَهْدِي إِلَى الْبِرِّ وَالْجَنَّةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "truthfulness",
+          "manners",
+          "hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-060",
+      "arabic": "التَّوَكُّلُ عَلَى اللهِ هُوَ اعْتِمَادُ الْقَلْبِ عَلَى الْخَالِقِ وَحْدَهُ مَعَ الْأَخْذِ بِالْأَسْبَابِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "tawakkul",
+          "creed",
+          "scholarly commentary"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-061",
+      "arabic": "إِنَّ الْأَعْمَالَ تَرْتَبِطُ بِالنِّيَّةِ الصَّادِقَةِ فِي الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Ikhlas",
+          "Hadith",
+          "Intentions"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-062",
+      "arabic": "الْأَخْلَاقُ الْحَسَنَةُ هِيَ جُزْءٌ كَبِيرٌ مِنَ الْإِيمَانِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Adab",
+          "Manners",
+          "Faith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-063",
+      "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنْ أَرْكَانِ الْإِسْلَامِ الْخَمْسَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Salah",
+          "Fiqh",
+          "Ibn Uthaymeen"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-064",
+      "arabic": "كَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَحِيمًا جِدًّا بِالْأَطْفَالِ وَالضُّعَفَاءِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Seerah",
+          "Mercy",
+          "Prophetic Character"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-065",
+      "arabic": "ذِكْرُ اللهِ تَعَالَى يَجْعَلُ اللِّسَانَ رَطْبًا وَالْقَلْبَ مُطْمَئِنًّا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Dhikr",
+          "Hadith",
+          "Remembrance"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-066",
+      "arabic": "يُعْتَبَرُ حُسْنُ الْخُلُقِ رُكْنًا أَسَاسِيًّا فِي حَيَاةِ الْمُسْلِمِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Ethics",
+          "Manners",
+          "Prophetic Guidance"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-067",
+      "arabic": "الصَّلَاةُ هِيَ عِمَادُ الدِّينِ وَأَوَّلُ مَا يُحَاسَبُ عَلَيْهِ الْعَبْدُ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Salah",
+          "Worship",
+          "Purification"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-068",
+      "arabic": "الْإِيمَانُ هُوَ أَنْ نُؤْمِنَ بِاللهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Aqeedah",
+          "Iman",
+          "Creed"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-070",
+      "arabic": "ذِكْرُ اللهِ تَعَالَى يُطَيِّبُ الْقَلْبَ وَيَجْلِبُ السَّكِينَةَ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Dhikr",
+          "Spirituality",
+          "Rewards"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-071",
+      "arabic": "الصِّدْقُ خُلُقٌ عَظِيمٌ فِي الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Ethics",
+          "Hadith",
+          "Truthfulness"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-072",
+      "arabic": "كَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَحِيمًا بِالنَّاسِ وَالْحَيَوَانِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Prophetic Biography",
+          "Mercy",
+          "Ethics"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-073",
+      "arabic": "النِّيَّةُ الصَّالِحَةُ شَرْطٌ لِقَبُولِ الْأَعْمَالِ عِنْدَ اللهِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Creed",
+          "Intentions",
+          "Sincerity"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-074",
+      "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنْ أَرْكَانِ الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Worship",
+          "Prayer",
+          "Fiqh"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-081",
+      "arabic": "يَهْتَمُّ الْمُسْلِمُ بِإِخْلَاصِ النِّيَّةِ فِي كُلِّ أَعْمَالِهِ الْيَوْمِيَّةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Intentions",
+          "Hadith",
+          "Ethics"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-083",
+      "arabic": "كَانَ النَّبِيُّ ﷺ يُعَامِلُ جِيرَانَهُ بِكُلِّ لُطْفٍ وَإِحْسَانٍ وَكَرَمٍ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Manners",
+          "Neighbors",
+          "Seerah"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-084",
+      "arabic": "الْإِحْسَانُ إِلَى الْوَالِدَيْنِ مِنْ أَعْظَمِ الْأَعْمَالِ الصَّالِحَةِ الَّتِي تَقَرِّبُنَا إِلَى اللهِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Parents",
+          "Family",
+          "Ethics"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-085",
+      "arabic": "يَنْبَغِي لِلْمُسْلِمِ أَنْ يُرَطِّبَ لِسَانَهُ بِذِكْرِ اللهِ تَعَالَى فِي كُلِّ حِينٍ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Dhikr",
+          "Remembrance",
+          "Hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-086",
+      "arabic": "يَهْتَمُّ الْإِسْلَامُ بِأَدَبِ الْحَدِيثِ كَثِيرًا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Manners",
+          "Hadith",
+          "Speech"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-087",
+      "arabic": "النِّيَّةُ هِيَ أَسَاسُ كُلِّ عَمَلٍ فِي الدِّينِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Sincerity",
+          "Hadith",
+          "Aqeedah"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-088",
+      "arabic": "الصَّلَاةُ هِيَ الرُّكْنُ الثَّانِي مِنْ أَرْكَانِ الْإِسْلَامِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Salah",
+          "Pillars of Islam",
+          "Hadith"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-089",
+      "arabic": "بِرُّ الْوَالِدَيْنِ مِنْ أَعْظَمِ الْأَعْمَالِ الصَّالِحَةِ بَعْدَ التَّوْحِيدِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Parents",
+          "Ethics",
+          "Ibn Uthaymeen"
+        ]
+      }
+    },
+    {
+      "id": "religion-b1-090",
+      "arabic": "كَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَحْسَنَ النَّاسِ خُلُقًا وَتَعَامُلًا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "Seerah",
+          "Character",
+          "Hadith"
+        ]
+      }
+    }
+  ]
+}
