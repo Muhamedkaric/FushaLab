@@ -208,6 +208,18 @@ export interface Translations {
     textsRead: string
     byCategory: string
     byDifficulty: string
+    rank: string
+    xpToNext: string
+    activity: string
+    last35Days: string
+    achievements: string
+    wordsKnown: string
+    vocabSection: string
+    exerciseSection: string
+    readingSection: string
+    packsDone: string
+    starsCollected: string
+    outOf: string
   }
   common: {
     loading: string
@@ -438,8 +450,8 @@ export const en: Translations = {
     easy: 'Easy',
     medium: 'Medium',
     hard: 'Hard',
-    resetAll: 'Reset Progress',
-    resetConfirm: 'Are you sure? This will clear all your ratings.',
+    resetAll: 'Reset All Progress',
+    resetConfirm: 'This will clear all your reading, vocabulary and exercise progress. Are you sure?',
     streak: 'Day streak',
     today: 'Today',
     thisWeek: 'This week',
@@ -448,6 +460,18 @@ export const en: Translations = {
     textsRead: 'texts read',
     byCategory: 'By category',
     byDifficulty: 'By difficulty',
+    rank: 'Rank',
+    xpToNext: 'XP to next rank',
+    activity: 'Reading Activity',
+    last35Days: 'Last 5 weeks',
+    achievements: 'Achievements',
+    wordsKnown: 'words known',
+    vocabSection: 'Vocabulary',
+    exerciseSection: 'Exercises',
+    readingSection: 'Reading',
+    packsDone: 'packs done',
+    starsCollected: 'stars',
+    outOf: 'of',
   },
   common: {
     loading: 'Loading…',

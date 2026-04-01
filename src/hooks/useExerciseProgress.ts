@@ -66,6 +66,7 @@ export function useExerciseProgress() {
 
   return {
     totalXp: state.totalXp,
+    packs: state.packs,
     getPackProgress,
     saveResult,
     resetAll,
