@@ -1,0 +1,479 @@
+{
+  "id": "b1-health",
+  "title": "Health & Wellbeing",
+  "titleAr": "الصِّحَّةُ وَالْعَافِيَةُ",
+  "level": "B1",
+  "topic": "health",
+  "words": [
+    {
+      "arabic": "الصِّحَّةُ",
+      "root": "ص ح ح",
+      "type": "noun",
+      "bs": "zdravlje",
+      "en": "health",
+      "exampleArabic": "الصِّحَّةُ أَهَمُّ مِنَ الْمَالِ.",
+      "exampleBs": "Zdravlje je važnije od novca.",
+      "exampleEn": "Health is more important than money."
+    },
+    {
+      "arabic": "الْجِسْمُ",
+      "root": "ج س م",
+      "type": "noun",
+      "bs": "tijelo",
+      "en": "body",
+      "exampleArabic": "يَجِبُ الِاعْتِنَاءُ بِالْجِسْمِ.",
+      "exampleBs": "Treba brinuti o tijelu.",
+      "exampleEn": "One must take care of the body."
+    },
+    {
+      "arabic": "الرَّأْسُ",
+      "root": "ر أ س",
+      "type": "noun",
+      "bs": "glava",
+      "en": "head",
+      "exampleArabic": "يُؤْلِمُنِي رَأْسِي.",
+      "exampleBs": "Boli me glava.",
+      "exampleEn": "My head hurts."
+    },
+    {
+      "arabic": "الأَنْفُ",
+      "root": "أ ن ف",
+      "type": "noun",
+      "bs": "nos",
+      "en": "nose",
+      "exampleArabic": "أَنْفُهُ يَسِيلُ بِسَبَبِ الْبَرْدِ.",
+      "exampleBs": "Curi mu nos zbog prehlade.",
+      "exampleEn": "His nose is running because of the cold."
+    },
+    {
+      "arabic": "الأُذُنُ",
+      "root": "أ ذ ن",
+      "type": "noun",
+      "bs": "uho",
+      "en": "ear",
+      "exampleArabic": "أُذُنِي تُؤْلِمُنِي مُنْذُ أَمْسِ.",
+      "exampleBs": "Uho me boli od juče.",
+      "exampleEn": "My ear has been hurting since yesterday."
+    },
+    {
+      "arabic": "الْفَمُ",
+      "root": "ف و ه",
+      "type": "noun",
+      "bs": "usta",
+      "en": "mouth",
+      "exampleArabic": "افْتَحْ فَمَكَ مِنْ فَضْلِكَ.",
+      "exampleBs": "Otvori usta, molim te.",
+      "exampleEn": "Please open your mouth."
+    },
+    {
+      "arabic": "الرَّقَبَةُ",
+      "root": "ر ق ب",
+      "type": "noun",
+      "bs": "vrat",
+      "en": "neck",
+      "exampleArabic": "تُؤْلِمُنِي رَقَبَتِي مِنَ الْجُلُوسِ الطَّوِيلِ.",
+      "exampleBs": "Boli me vrat od dugog sjedenja.",
+      "exampleEn": "My neck hurts from sitting for too long."
+    },
+    {
+      "arabic": "الظَّهْرُ",
+      "root": "ظ ه ر",
+      "type": "noun",
+      "bs": "leđa",
+      "en": "back",
+      "exampleArabic": "يَشْكُو مِنْ أَلَمٍ فِي الظَّهْرِ.",
+      "exampleBs": "Žali se na bol u leđima.",
+      "exampleEn": "He complains of back pain."
+    },
+    {
+      "arabic": "الْبَطْنُ",
+      "root": "ب ط ن",
+      "type": "noun",
+      "bs": "stomak, trbuh",
+      "en": "stomach, abdomen",
+      "exampleArabic": "يُؤْلِمُهَا بَطْنُهَا بَعْدَ الأَكْلِ.",
+      "exampleBs": "Boli je stomak nakon jela.",
+      "exampleEn": "Her stomach hurts after eating."
+    },
+    {
+      "arabic": "السَّاقُ",
+      "root": "س و ق",
+      "type": "noun",
+      "bs": "noga (potkoljenica)",
+      "en": "leg",
+      "exampleArabic": "كَسَرَ سَاقَهُ فِي الْحَادِثَةِ.",
+      "exampleBs": "Slomio je nogu u nesreći.",
+      "exampleEn": "He broke his leg in the accident."
+    },
+    {
+      "arabic": "الْقَدَمُ",
+      "root": "ق د م",
+      "type": "noun",
+      "bs": "stopalo",
+      "en": "foot",
+      "exampleArabic": "قَدَمُهُ تُؤْلِمُهُ بَعْدَ الْمَشْيِ الطَّوِيلِ.",
+      "exampleBs": "Stopalo ga boli nakon dugog hodanja.",
+      "exampleEn": "His foot hurts after the long walk."
+    },
+    {
+      "arabic": "الْمَعِدَةُ",
+      "root": "م ع د",
+      "type": "noun",
+      "bs": "želudac",
+      "en": "stomach (organ)",
+      "exampleArabic": "لَدَيْهِ مَشَاكِلُ فِي الْمَعِدَةِ.",
+      "exampleBs": "Ima problema sa želucem.",
+      "exampleEn": "He has stomach problems."
+    },
+    {
+      "arabic": "الرِّئَةُ",
+      "root": "ر ئ ي",
+      "type": "noun",
+      "bs": "pluća",
+      "en": "lung",
+      "exampleArabic": "التَّدْخِينُ يَضُرُّ بِالرِّئَةِ.",
+      "exampleBs": "Pušenje šteti plućima.",
+      "exampleEn": "Smoking is harmful to the lungs."
+    },
+    {
+      "arabic": "الدَّمُ",
+      "root": "د م م",
+      "type": "noun",
+      "bs": "krv",
+      "en": "blood",
+      "exampleArabic": "ضَغْطُ الدَّمِ مُرْتَفِعٌ.",
+      "exampleBs": "Krvni pritisak je visok.",
+      "exampleEn": "The blood pressure is high."
+    },
+    {
+      "arabic": "الْحُمَّى",
+      "root": "ح م م",
+      "type": "noun",
+      "bs": "groznica, temperatura",
+      "en": "fever",
+      "exampleArabic": "لَدَيْهِ حُمَّى شَدِيدَةٌ.",
+      "exampleBs": "Ima visoku groznicu.",
+      "exampleEn": "He has a high fever."
+    },
+    {
+      "arabic": "الزُّكَامُ",
+      "root": "ز ك م",
+      "type": "noun",
+      "bs": "prehlada",
+      "en": "cold (illness)",
+      "exampleArabic": "أُصِبْتُ بِالزُّكَامِ هَذَا الأُسْبُوعَ.",
+      "exampleBs": "Prehladio sam se ove sedmice.",
+      "exampleEn": "I caught a cold this week."
+    },
+    {
+      "arabic": "الأَلَمُ",
+      "root": "أ ل م",
+      "type": "noun",
+      "bs": "bol",
+      "en": "pain, ache",
+      "exampleArabic": "يَشْعُرُ بِأَلَمٍ شَدِيدٍ.",
+      "exampleBs": "Osjeća jaku bol.",
+      "exampleEn": "He feels severe pain."
+    },
+    {
+      "arabic": "الصُّدَاعُ",
+      "root": "ص د ع",
+      "type": "noun",
+      "bs": "glavobolja",
+      "en": "headache",
+      "exampleArabic": "تُعَانِي مِنَ الصُّدَاعِ الْمُتَكَرِّرِ.",
+      "exampleBs": "Pati od čestih glavobolja.",
+      "exampleEn": "She suffers from recurring headaches."
+    },
+    {
+      "arabic": "السُّعَالُ",
+      "root": "س ع ل",
+      "type": "noun",
+      "bs": "kašalj",
+      "en": "cough",
+      "exampleArabic": "السُّعَالُ الْمُسْتَمِرُّ يُزْعِجُهُ.",
+      "exampleBs": "Stalni kašalj ga muči.",
+      "exampleEn": "The persistent cough bothers him."
+    },
+    {
+      "arabic": "الطَّبِيبُ",
+      "root": "ط ب ب",
+      "type": "noun",
+      "bs": "ljekar, doktor",
+      "en": "doctor, physician",
+      "exampleArabic": "زُرْتُ الطَّبِيبَ أَمْسِ.",
+      "exampleBs": "Posjetio sam ljekara juče.",
+      "exampleEn": "I visited the doctor yesterday."
+    },
+    {
+      "arabic": "الْمُمَرِّضُ",
+      "root": "م ر ض",
+      "type": "noun",
+      "bs": "medicinski tehničar, bolničar",
+      "en": "nurse",
+      "exampleArabic": "الْمُمَرِّضُ قَيَاسَ ضَغْطَ الدَّمِ.",
+      "exampleBs": "Medicinski tehničar mjeri krvni pritisak.",
+      "exampleEn": "The nurse measures blood pressure."
+    },
+    {
+      "arabic": "الْمُسْتَشْفَى",
+      "root": "ش ف ي",
+      "type": "noun",
+      "bs": "bolnica",
+      "en": "hospital",
+      "exampleArabic": "نُقِلَ إِلَى الْمُسْتَشْفَى عَلَى الْفَوْرِ.",
+      "exampleBs": "Odmah je prevezen u bolnicu.",
+      "exampleEn": "He was transferred to the hospital immediately."
+    },
+    {
+      "arabic": "الصَّيْدَلِيَّةُ",
+      "root": "ص د ل",
+      "type": "noun",
+      "bs": "apoteka",
+      "en": "pharmacy",
+      "exampleArabic": "اشْتَرَيْتُ الدَّوَاءَ مِنَ الصَّيْدَلِيَّةِ.",
+      "exampleBs": "Kupio sam lijek iz apoteke.",
+      "exampleEn": "I bought the medicine from the pharmacy."
+    },
+    {
+      "arabic": "الدَّوَاءُ",
+      "root": "د و أ",
+      "type": "noun",
+      "bs": "lijek",
+      "en": "medicine, medication",
+      "exampleArabic": "خُذِ الدَّوَاءَ مَرَّتَيْنِ يَوْمِيًّا.",
+      "exampleBs": "Uzimaj lijek dva puta dnevno.",
+      "exampleEn": "Take the medicine twice daily."
+    },
+    {
+      "arabic": "الْوَصْفَةُ",
+      "root": "و ص ف",
+      "type": "noun",
+      "bs": "recept",
+      "en": "prescription",
+      "exampleArabic": "أَعْطَانِي الطَّبِيبُ وَصْفَةً طِبِّيَّةً.",
+      "exampleBs": "Ljekar mi je dao recept.",
+      "exampleEn": "The doctor gave me a prescription."
+    },
+    {
+      "arabic": "الْعِلَاجُ",
+      "root": "ع ل ج",
+      "type": "noun",
+      "bs": "liječenje, terapija",
+      "en": "treatment, therapy",
+      "exampleArabic": "الْعِلَاجُ يَسْتَغْرِقُ أُسْبُوعًا.",
+      "exampleBs": "Liječenje traje sedmicu.",
+      "exampleEn": "The treatment takes a week."
+    },
+    {
+      "arabic": "الْجَرَاحَةُ",
+      "root": "ج ر ح",
+      "type": "noun",
+      "bs": "operacija, hirurgija",
+      "en": "surgery, operation",
+      "exampleArabic": "أَجْرَى جَرَاحَةً نَاجِحَةً.",
+      "exampleBs": "Obavio je uspješnu operaciju.",
+      "exampleEn": "He underwent a successful surgery."
+    },
+    {
+      "arabic": "الْحِمْيَةُ",
+      "root": "ح م ي",
+      "type": "noun",
+      "bs": "dijeta, ishrana",
+      "en": "diet",
+      "exampleArabic": "يَتَّبِعُ حِمْيَةً صِحِّيَّةً مُتَوَازِنَةً.",
+      "exampleBs": "Prati uravnoteženu zdravu dijetu.",
+      "exampleEn": "He follows a balanced healthy diet."
+    },
+    {
+      "arabic": "الْغِذَاءُ",
+      "root": "غ ذ و",
+      "type": "noun",
+      "bs": "hrana, prehrana",
+      "en": "food, nutrition",
+      "exampleArabic": "الْغِذَاءُ الصِّحِّيُّ ضَرُورِيٌّ لِلنُّمُوِّ.",
+      "exampleBs": "Zdrava ishrana je neophodna za rast.",
+      "exampleEn": "Healthy nutrition is necessary for growth."
+    },
+    {
+      "arabic": "التَّمْرِينُ",
+      "root": "م ر ن",
+      "type": "noun",
+      "bs": "vježba, trening",
+      "en": "exercise",
+      "exampleArabic": "التَّمْرِينُ الْمُنْتَظَمُ يُقَوِّي الْجِسْمَ.",
+      "exampleBs": "Redovna vježba jača tijelo.",
+      "exampleEn": "Regular exercise strengthens the body."
+    },
+    {
+      "arabic": "الرِّيَاضَةُ",
+      "root": "ر و ض",
+      "type": "noun",
+      "bs": "sport",
+      "en": "sport, physical exercise",
+      "exampleArabic": "مُمَارَسَةُ الرِّيَاضَةِ تُحَسِّنُ الصِّحَّةَ.",
+      "exampleBs": "Bavljenje sportom poboljšava zdravlje.",
+      "exampleEn": "Doing sport improves health."
+    },
+    {
+      "arabic": "النَّوْمُ",
+      "root": "ن و م",
+      "type": "noun",
+      "bs": "san, spavanje",
+      "en": "sleep",
+      "exampleArabic": "النَّوْمُ الْكَافِي مُهِمٌّ لِلصِّحَّةِ.",
+      "exampleBs": "Dovoljno spavanja je važno za zdravlje.",
+      "exampleEn": "Adequate sleep is important for health."
+    },
+    {
+      "arabic": "الضَّغْطُ",
+      "root": "ض غ ط",
+      "type": "noun",
+      "bs": "pritisak, stres",
+      "en": "pressure, stress",
+      "exampleArabic": "الضَّغْطُ الزَّائِدُ يَضُرُّ بِالصِّحَّةِ.",
+      "exampleBs": "Prekomjerni stres šteti zdravlju.",
+      "exampleEn": "Excessive stress is harmful to health."
+    },
+    {
+      "arabic": "الْكَسْرُ",
+      "root": "ك س ر",
+      "type": "noun",
+      "bs": "prelom (kosti)",
+      "en": "fracture, break",
+      "exampleArabic": "لَدَيْهِ كَسْرٌ فِي الرُّسْغِ.",
+      "exampleBs": "Ima prelom u ručnom zglobu.",
+      "exampleEn": "He has a fracture in his wrist."
+    },
+    {
+      "arabic": "الْجُرْحُ",
+      "root": "ج ر ح",
+      "type": "noun",
+      "bs": "rana",
+      "en": "wound, injury",
+      "exampleArabic": "الْجُرْحُ عَمِيقٌ وَيَحْتَاجُ إِلَى خِيَاطَةٍ.",
+      "exampleBs": "Rana je duboka i treba šivanje.",
+      "exampleEn": "The wound is deep and needs stitches."
+    },
+    {
+      "arabic": "الْحَسَاسِيَّةُ",
+      "root": "ح س س",
+      "type": "noun",
+      "bs": "alergija",
+      "en": "allergy, sensitivity",
+      "exampleArabic": "لَدَيْهَا حَسَاسِيَّةٌ مِنَ الْغُبَارِ.",
+      "exampleBs": "Alergična je na prašinu.",
+      "exampleEn": "She has an allergy to dust."
+    },
+    {
+      "arabic": "مَرِضَ",
+      "root": "م ر ض",
+      "type": "verb",
+      "bs": "razboljeti se, biti bolestan",
+      "en": "to fall ill, to be sick",
+      "exampleArabic": "مَرِضَ بَعْدَ أَنْ بَلَّلَهُ الْمَطَرُ.",
+      "exampleBs": "Razbolio se nakon što ga je kiša pokvasila.",
+      "exampleEn": "He fell ill after getting soaked in the rain."
+    },
+    {
+      "arabic": "شَفِيَ",
+      "root": "ش ف ي",
+      "type": "verb",
+      "bs": "ozdraviti, oporaviti se",
+      "en": "to recover, to heal",
+      "exampleArabic": "شَفِيَ مِنْ مَرَضِهِ بَعْدَ أُسْبُوعٍ.",
+      "exampleBs": "Oporavio se od bolesti nakon sedmice.",
+      "exampleEn": "He recovered from his illness after a week."
+    },
+    {
+      "arabic": "فَحَصَ",
+      "root": "ف ح ص",
+      "type": "verb",
+      "bs": "pregledati, ispitati",
+      "en": "to examine, to check",
+      "exampleArabic": "فَحَصَ الطَّبِيبُ الْمَرِيضَ بِعِنَايَةٍ.",
+      "exampleBs": "Ljekar je pažljivo pregledao pacijenta.",
+      "exampleEn": "The doctor examined the patient carefully."
+    },
+    {
+      "arabic": "عَالَجَ",
+      "root": "ع ل ج",
+      "type": "verb",
+      "bs": "liječiti",
+      "en": "to treat, to cure",
+      "exampleArabic": "الطَّبِيبُ عَالَجَ الْمَرِيضَ بِنَجَاحٍ.",
+      "exampleBs": "Ljekar je uspješno liječio pacijenta.",
+      "exampleEn": "The doctor treated the patient successfully."
+    },
+    {
+      "arabic": "تَنَاوَلَ",
+      "root": "ن و ل",
+      "type": "verb",
+      "bs": "uzimati (lijek/hranu)",
+      "en": "to take (medicine/food), to consume",
+      "exampleArabic": "تَنَاوَلَ الدَّوَاءَ بَعْدَ الأَكْلِ.",
+      "exampleBs": "Uzeo je lijek nakon jela.",
+      "exampleEn": "He took the medicine after eating."
+    },
+    {
+      "arabic": "تَمَرَّنَ",
+      "root": "م ر ن",
+      "type": "verb",
+      "bs": "vježbati, trenirati",
+      "en": "to exercise, to train",
+      "exampleArabic": "يَتَمَرَّنُ كُلَّ صَبَاحٍ فِي الصَّالَةِ.",
+      "exampleBs": "Vježba svako jutro u teretani.",
+      "exampleEn": "He exercises every morning at the gym."
+    },
+    {
+      "arabic": "تَنَفَّسَ",
+      "root": "ن ف س",
+      "type": "verb",
+      "bs": "disati",
+      "en": "to breathe",
+      "exampleArabic": "تَنَفَّسْ بِعُمْقٍ وَهُدُوءٍ.",
+      "exampleBs": "Diši duboko i mirno.",
+      "exampleEn": "Breathe deeply and calmly."
+    },
+    {
+      "arabic": "اسْتَرَاحَ",
+      "root": "ر و ح",
+      "type": "verb",
+      "bs": "odmoriti se",
+      "en": "to rest",
+      "exampleArabic": "يَجِبُ أَنْ تَسْتَرِيحَ بَعْدَ الْمَرَضِ.",
+      "exampleBs": "Moraš se odmoriti nakon bolesti.",
+      "exampleEn": "You must rest after being ill."
+    },
+    {
+      "arabic": "الْمَرِيضُ",
+      "root": "م ر ض",
+      "type": "noun",
+      "bs": "pacijent, bolesnik",
+      "en": "patient, sick person",
+      "exampleArabic": "الْمَرِيضُ يَنْتَظِرُ فِي غُرْفَةِ الِانْتِظَارِ.",
+      "exampleBs": "Pacijent čeka u čekaonici.",
+      "exampleEn": "The patient is waiting in the waiting room."
+    },
+    {
+      "arabic": "صِحِّيٌّ",
+      "root": "ص ح ح",
+      "type": "adjective",
+      "bs": "zdrav",
+      "en": "healthy",
+      "exampleArabic": "يَأْكُلُ طَعَامًا صِحِّيًّا كُلَّ يَوْمٍ.",
+      "exampleBs": "Jede zdravu hranu svaki dan.",
+      "exampleEn": "He eats healthy food every day."
+    },
+    {
+      "arabic": "مَرِيضٌ",
+      "root": "م ر ض",
+      "type": "adjective",
+      "bs": "bolestan",
+      "en": "sick, ill",
+      "exampleArabic": "بَقِيَ فِي الْبَيْتِ لِأَنَّهُ مَرِيضٌ.",
+      "exampleBs": "Ostao je kod kuće jer je bolestan.",
+      "exampleEn": "He stayed home because he is sick."
+    }
+  ]
+}

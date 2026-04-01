@@ -1,0 +1,709 @@
+{
+  "id": "b1-general",
+  "title": "Core Vocabulary",
+  "titleAr": "الْمُفْرَدَاتُ الأَسَاسِيَّةُ",
+  "level": "B1",
+  "topic": "general",
+  "words": [
+    {
+      "arabic": "الْبَيْتُ",
+      "root": "ب ي ت",
+      "type": "noun",
+      "bs": "kuća",
+      "en": "house, home",
+      "exampleArabic": "هَذَا بَيْتٌ كَبِيرٌ وَجَمِيلٌ.",
+      "exampleBs": "Ovo je velika i lijepa kuća.",
+      "exampleEn": "This is a big and beautiful house."
+    },
+    {
+      "arabic": "الْمَاءُ",
+      "root": "م و ه",
+      "type": "noun",
+      "bs": "voda",
+      "en": "water",
+      "exampleArabic": "أَشْرَبُ الْمَاءَ كُلَّ يَوْمٍ.",
+      "exampleBs": "Pijem vodu svaki dan.",
+      "exampleEn": "I drink water every day."
+    },
+    {
+      "arabic": "الْيَوْمُ",
+      "root": "ي و م",
+      "type": "noun",
+      "bs": "dan",
+      "en": "day",
+      "exampleArabic": "هَذَا الْيَوْمُ جَمِيلٌ.",
+      "exampleBs": "Ovaj dan je lijep.",
+      "exampleEn": "This day is beautiful."
+    },
+    {
+      "arabic": "السَّنَةُ",
+      "root": "س ن و",
+      "type": "noun",
+      "bs": "godina",
+      "en": "year",
+      "exampleArabic": "مَرَّتْ سَنَةٌ كَامِلَةٌ.",
+      "exampleBs": "Prošla je cijela godina.",
+      "exampleEn": "A full year has passed."
+    },
+    {
+      "arabic": "الْوَقْتُ",
+      "root": "و ق ت",
+      "type": "noun",
+      "bs": "vrijeme",
+      "en": "time",
+      "exampleArabic": "لَيْسَ لَدَيَّ وَقْتٌ كَافٍ.",
+      "exampleBs": "Nemam dovoljno vremena.",
+      "exampleEn": "I do not have enough time."
+    },
+    {
+      "arabic": "النَّاسُ",
+      "root": "ن و س",
+      "type": "noun",
+      "bs": "ljudi",
+      "en": "people",
+      "exampleArabic": "النَّاسُ كَثِيرُونَ فِي الْمَدِينَةِ.",
+      "exampleBs": "Ima mnogo ljudi u gradu.",
+      "exampleEn": "There are many people in the city."
+    },
+    {
+      "arabic": "الْعَالَمُ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "svijet",
+      "en": "world",
+      "exampleArabic": "الْعَالَمُ وَاسِعٌ جِدًّا.",
+      "exampleBs": "Svijet je veoma širok.",
+      "exampleEn": "The world is very vast."
+    },
+    {
+      "arabic": "الْمَدِينَةُ",
+      "root": "م د ن",
+      "type": "noun",
+      "bs": "grad",
+      "en": "city",
+      "exampleArabic": "أَسْكُنُ فِي مَدِينَةٍ كَبِيرَةٍ.",
+      "exampleBs": "Živim u velikom gradu.",
+      "exampleEn": "I live in a big city."
+    },
+    {
+      "arabic": "الْبَلَدُ",
+      "root": "ب ل د",
+      "type": "noun",
+      "bs": "zemlja, država",
+      "en": "country",
+      "exampleArabic": "هَذَا بَلَدٌ جَمِيلٌ.",
+      "exampleBs": "Ovo je lijepa zemlja.",
+      "exampleEn": "This is a beautiful country."
+    },
+    {
+      "arabic": "الرَّجُلُ",
+      "root": "ر ج ل",
+      "type": "noun",
+      "bs": "muškarac, čovjek",
+      "en": "man",
+      "exampleArabic": "الرَّجُلُ يَعْمَلُ فِي الْمَكْتَبِ.",
+      "exampleBs": "Muškarac radi u uredu.",
+      "exampleEn": "The man works in the office."
+    },
+    {
+      "arabic": "الْمَرْأَةُ",
+      "root": "م ر أ",
+      "type": "noun",
+      "bs": "žena",
+      "en": "woman",
+      "exampleArabic": "الْمَرْأَةُ تَقْرَأُ كِتَابًا.",
+      "exampleBs": "Žena čita knjigu.",
+      "exampleEn": "The woman is reading a book."
+    },
+    {
+      "arabic": "الطِّفْلُ",
+      "root": "ط ف ل",
+      "type": "noun",
+      "bs": "dijete",
+      "en": "child",
+      "exampleArabic": "الطِّفْلُ يَلْعَبُ فِي الْحَدِيقَةِ.",
+      "exampleBs": "Dijete se igra u bašti.",
+      "exampleEn": "The child is playing in the garden."
+    },
+    {
+      "arabic": "الْعَمَلُ",
+      "root": "ع م ل",
+      "type": "noun",
+      "bs": "posao, rad",
+      "en": "work, job",
+      "exampleArabic": "أَذْهَبُ إِلَى الْعَمَلِ كُلَّ صَبَاحٍ.",
+      "exampleBs": "Idem na posao svako jutro.",
+      "exampleEn": "I go to work every morning."
+    },
+    {
+      "arabic": "الْمَالُ",
+      "root": "م و ل",
+      "type": "noun",
+      "bs": "novac, imetak",
+      "en": "money, wealth",
+      "exampleArabic": "الْمَالُ لَيْسَ كُلَّ شَيْءٍ.",
+      "exampleBs": "Novac nije sve.",
+      "exampleEn": "Money is not everything."
+    },
+    {
+      "arabic": "الْحَيَاةُ",
+      "root": "ح ي و",
+      "type": "noun",
+      "bs": "život",
+      "en": "life",
+      "exampleArabic": "الْحَيَاةُ قَصِيرَةٌ.",
+      "exampleBs": "Život je kratak.",
+      "exampleEn": "Life is short."
+    },
+    {
+      "arabic": "الطَّرِيقُ",
+      "root": "ط ر ق",
+      "type": "noun",
+      "bs": "put, cesta",
+      "en": "way, road",
+      "exampleArabic": "هَذَا الطَّرِيقُ طَوِيلٌ.",
+      "exampleBs": "Ovaj put je dugačak.",
+      "exampleEn": "This road is long."
+    },
+    {
+      "arabic": "الشَّيْءُ",
+      "root": "ش ي أ",
+      "type": "noun",
+      "bs": "stvar",
+      "en": "thing",
+      "exampleArabic": "هَذَا الشَّيْءُ مُهِمٌّ جِدًّا.",
+      "exampleBs": "Ova stvar je veoma važna.",
+      "exampleEn": "This thing is very important."
+    },
+    {
+      "arabic": "الِاسْمُ",
+      "root": "س م و",
+      "type": "noun",
+      "bs": "ime",
+      "en": "name",
+      "exampleArabic": "مَا اسْمُكَ؟",
+      "exampleBs": "Kako se zoveš?",
+      "exampleEn": "What is your name?"
+    },
+    {
+      "arabic": "الْكِتَابُ",
+      "root": "ك ت ب",
+      "type": "noun",
+      "bs": "knjiga",
+      "en": "book",
+      "exampleArabic": "أُحِبُّ قِرَاءَةَ الْكُتُبِ.",
+      "exampleBs": "Volim čitati knjige.",
+      "exampleEn": "I love reading books."
+    },
+    {
+      "arabic": "الْمَدْرَسَةُ",
+      "root": "د ر س",
+      "type": "noun",
+      "bs": "škola",
+      "en": "school",
+      "exampleArabic": "يَذْهَبُ الطِّفْلُ إِلَى الْمَدْرَسَةِ.",
+      "exampleBs": "Dijete ide u školu.",
+      "exampleEn": "The child goes to school."
+    },
+    {
+      "arabic": "الْبَابُ",
+      "root": "ب و ب",
+      "type": "noun",
+      "bs": "vrata",
+      "en": "door",
+      "exampleArabic": "افْتَحِ الْبَابَ مِنْ فَضْلِكَ.",
+      "exampleBs": "Otvori vrata, molim te.",
+      "exampleEn": "Please open the door."
+    },
+    {
+      "arabic": "الْيَدُ",
+      "root": "ي د ي",
+      "type": "noun",
+      "bs": "ruka",
+      "en": "hand",
+      "exampleArabic": "غَسَلَ يَدَيْهِ قَبْلَ الأَكْلِ.",
+      "exampleBs": "Oprao je ruke prije jela.",
+      "exampleEn": "He washed his hands before eating."
+    },
+    {
+      "arabic": "الْعَيْنُ",
+      "root": "ع ي ن",
+      "type": "noun",
+      "bs": "oko",
+      "en": "eye",
+      "exampleArabic": "عَيْنَاهُ زَرْقَاوَانِ.",
+      "exampleBs": "Oči su mu plave.",
+      "exampleEn": "His eyes are blue."
+    },
+    {
+      "arabic": "الْقَلْبُ",
+      "root": "ق ل ب",
+      "type": "noun",
+      "bs": "srce",
+      "en": "heart",
+      "exampleArabic": "الْقَلْبُ يَنْبِضُ بِسُرْعَةٍ.",
+      "exampleBs": "Srce kuca brzo.",
+      "exampleEn": "The heart beats fast."
+    },
+    {
+      "arabic": "الْكَلِمَةُ",
+      "root": "ك ل م",
+      "type": "noun",
+      "bs": "riječ",
+      "en": "word",
+      "exampleArabic": "تَعَلَّمْتُ كَلِمَاتٍ جَدِيدَةً.",
+      "exampleBs": "Naučio sam nove riječi.",
+      "exampleEn": "I learned new words."
+    },
+    {
+      "arabic": "ذَهَبَ",
+      "root": "ذ ه ب",
+      "type": "verb",
+      "bs": "otići, ići",
+      "en": "to go",
+      "exampleArabic": "ذَهَبَ إِلَى الْمَتْجَرِ.",
+      "exampleBs": "Otišao je u prodavnicu.",
+      "exampleEn": "He went to the store."
+    },
+    {
+      "arabic": "جَاءَ",
+      "root": "ج ي أ",
+      "type": "verb",
+      "bs": "doći",
+      "en": "to come",
+      "exampleArabic": "جَاءَ صَدِيقِي إِلَى الْبَيْتِ.",
+      "exampleBs": "Moj prijatelj je došao kući.",
+      "exampleEn": "My friend came to the house."
+    },
+    {
+      "arabic": "رَأَى",
+      "root": "ر أ ي",
+      "type": "verb",
+      "bs": "vidjeti",
+      "en": "to see",
+      "exampleArabic": "رَأَيْتُ فِيلْمًا جَمِيلًا.",
+      "exampleBs": "Vidio sam lijep film.",
+      "exampleEn": "I saw a beautiful film."
+    },
+    {
+      "arabic": "عَرَفَ",
+      "root": "ع ر ف",
+      "type": "verb",
+      "bs": "znati, poznavati",
+      "en": "to know",
+      "exampleArabic": "هَلْ تَعْرِفُ هَذَا الرَّجُلَ؟",
+      "exampleBs": "Znaš li ovog čovjeka?",
+      "exampleEn": "Do you know this man?"
+    },
+    {
+      "arabic": "أَرَادَ",
+      "root": "ر و د",
+      "type": "verb",
+      "bs": "željeti, htjeti",
+      "en": "to want",
+      "exampleArabic": "أُرِيدُ أَنْ أَتَعَلَّمَ الْعَرَبِيَّةَ.",
+      "exampleBs": "Želim naučiti arapski.",
+      "exampleEn": "I want to learn Arabic."
+    },
+    {
+      "arabic": "قَالَ",
+      "root": "ق و ل",
+      "type": "verb",
+      "bs": "reći, kazati",
+      "en": "to say",
+      "exampleArabic": "قَالَ إِنَّهُ مَشْغُولٌ.",
+      "exampleBs": "Rekao je da je zauzet.",
+      "exampleEn": "He said that he is busy."
+    },
+    {
+      "arabic": "فَعَلَ",
+      "root": "ف ع ل",
+      "type": "verb",
+      "bs": "uraditi, činiti",
+      "en": "to do",
+      "exampleArabic": "مَاذَا فَعَلْتَ الْيَوْمَ؟",
+      "exampleBs": "Šta si danas uradio?",
+      "exampleEn": "What did you do today?"
+    },
+    {
+      "arabic": "أَكَلَ",
+      "root": "أ ك ل",
+      "type": "verb",
+      "bs": "jesti",
+      "en": "to eat",
+      "exampleArabic": "أَكَلْنَا الطَّعَامَ مَعًا.",
+      "exampleBs": "Zajedno smo jeli hranu.",
+      "exampleEn": "We ate the food together."
+    },
+    {
+      "arabic": "شَرِبَ",
+      "root": "ش ر ب",
+      "type": "verb",
+      "bs": "piti",
+      "en": "to drink",
+      "exampleArabic": "شَرِبْتُ كُوبًا مِنَ الشَّايِ.",
+      "exampleBs": "Popio sam šoljicu čaja.",
+      "exampleEn": "I drank a cup of tea."
+    },
+    {
+      "arabic": "نَامَ",
+      "root": "ن و م",
+      "type": "verb",
+      "bs": "spavati",
+      "en": "to sleep",
+      "exampleArabic": "نَامَ الطِّفْلُ مُبَكِّرًا.",
+      "exampleBs": "Dijete je rano zaspalo.",
+      "exampleEn": "The child slept early."
+    },
+    {
+      "arabic": "عَمِلَ",
+      "root": "ع م ل",
+      "type": "verb",
+      "bs": "raditi",
+      "en": "to work",
+      "exampleArabic": "يَعْمَلُ كَثِيرًا كُلَّ يَوْمٍ.",
+      "exampleBs": "Radi mnogo svaki dan.",
+      "exampleEn": "He works a lot every day."
+    },
+    {
+      "arabic": "قَرَأَ",
+      "root": "ق ر أ",
+      "type": "verb",
+      "bs": "čitati",
+      "en": "to read",
+      "exampleArabic": "تَقْرَأُ كِتَابًا كُلَّ أُسْبُوعٍ.",
+      "exampleBs": "Čita jednu knjigu svake sedmice.",
+      "exampleEn": "She reads one book every week."
+    },
+    {
+      "arabic": "كَتَبَ",
+      "root": "ك ت ب",
+      "type": "verb",
+      "bs": "pisati",
+      "en": "to write",
+      "exampleArabic": "كَتَبَ رِسَالَةً إِلَى صَدِيقِهِ.",
+      "exampleBs": "Napisao je pismo svom prijatelju.",
+      "exampleEn": "He wrote a letter to his friend."
+    },
+    {
+      "arabic": "فَتَحَ",
+      "root": "ف ت ح",
+      "type": "verb",
+      "bs": "otvoriti",
+      "en": "to open",
+      "exampleArabic": "فَتَحَتِ النَّافِذَةَ لِتَدْخُلَ الْهَوَاءُ.",
+      "exampleBs": "Otvorila je prozor da uđe zrak.",
+      "exampleEn": "She opened the window to let in air."
+    },
+    {
+      "arabic": "أَغْلَقَ",
+      "root": "غ ل ق",
+      "type": "verb",
+      "bs": "zatvoriti",
+      "en": "to close",
+      "exampleArabic": "أَغْلِقِ الْبَابَ مِنْ فَضْلِكَ.",
+      "exampleBs": "Zatvori vrata, molim te.",
+      "exampleEn": "Please close the door."
+    },
+    {
+      "arabic": "أَعْطَى",
+      "root": "ع ط و",
+      "type": "verb",
+      "bs": "dati",
+      "en": "to give",
+      "exampleArabic": "أَعْطَانِي كِتَابًا جَدِيدًا.",
+      "exampleBs": "Dao mi je novu knjigu.",
+      "exampleEn": "He gave me a new book."
+    },
+    {
+      "arabic": "أَخَذَ",
+      "root": "أ خ ذ",
+      "type": "verb",
+      "bs": "uzeti",
+      "en": "to take",
+      "exampleArabic": "أَخَذْتُ الْقَلَمَ مِنَ الطَّاوِلَةِ.",
+      "exampleBs": "Uzeo sam olovku sa stola.",
+      "exampleEn": "I took the pen from the table."
+    },
+    {
+      "arabic": "جَلَسَ",
+      "root": "ج ل س",
+      "type": "verb",
+      "bs": "sjediti, sjesti",
+      "en": "to sit",
+      "exampleArabic": "جَلَسَ عَلَى الْكُرْسِيِّ.",
+      "exampleBs": "Sjeo je na stolicu.",
+      "exampleEn": "He sat on the chair."
+    },
+    {
+      "arabic": "وَقَفَ",
+      "root": "و ق ف",
+      "type": "verb",
+      "bs": "stajati, stati",
+      "en": "to stand",
+      "exampleArabic": "وَقَفَ أَمَامَ الْبَابِ.",
+      "exampleBs": "Stajao je ispred vrata.",
+      "exampleEn": "He stood in front of the door."
+    },
+    {
+      "arabic": "كَبِيرٌ",
+      "root": "ك ب ر",
+      "type": "adjective",
+      "bs": "velik",
+      "en": "big, large",
+      "exampleArabic": "هَذَا بَيْتٌ كَبِيرٌ.",
+      "exampleBs": "Ovo je velika kuća.",
+      "exampleEn": "This is a big house."
+    },
+    {
+      "arabic": "صَغِيرٌ",
+      "root": "ص غ ر",
+      "type": "adjective",
+      "bs": "mali",
+      "en": "small, little",
+      "exampleArabic": "الطِّفْلُ صَغِيرٌ جِدًّا.",
+      "exampleBs": "Dijete je veoma malo.",
+      "exampleEn": "The child is very small."
+    },
+    {
+      "arabic": "جَدِيدٌ",
+      "root": "ج د د",
+      "type": "adjective",
+      "bs": "nov",
+      "en": "new",
+      "exampleArabic": "اشْتَرَيْتُ سَيَّارَةً جَدِيدَةً.",
+      "exampleBs": "Kupio sam novi auto.",
+      "exampleEn": "I bought a new car."
+    },
+    {
+      "arabic": "قَدِيمٌ",
+      "root": "ق د م",
+      "type": "adjective",
+      "bs": "star",
+      "en": "old, ancient",
+      "exampleArabic": "هَذَا الْكِتَابُ قَدِيمٌ.",
+      "exampleBs": "Ova knjiga je stara.",
+      "exampleEn": "This book is old."
+    },
+    {
+      "arabic": "جَيِّدٌ",
+      "root": "ج و د",
+      "type": "adjective",
+      "bs": "dobar",
+      "en": "good",
+      "exampleArabic": "هَذَا الطَّعَامُ جَيِّدٌ جِدًّا.",
+      "exampleBs": "Ova hrana je veoma dobra.",
+      "exampleEn": "This food is very good."
+    },
+    {
+      "arabic": "سَيِّئٌ",
+      "root": "س و أ",
+      "type": "adjective",
+      "bs": "loš, zao",
+      "en": "bad",
+      "exampleArabic": "الطَّقْسُ سَيِّئٌ الْيَوْمَ.",
+      "exampleBs": "Vrijeme je danas loše.",
+      "exampleEn": "The weather is bad today."
+    },
+    {
+      "arabic": "جَمِيلٌ",
+      "root": "ج م ل",
+      "type": "adjective",
+      "bs": "lijep",
+      "en": "beautiful, nice",
+      "exampleArabic": "الطَّبِيعَةُ جَمِيلَةٌ فِي الرَّبِيعِ.",
+      "exampleBs": "Priroda je lijepa u proljeće.",
+      "exampleEn": "Nature is beautiful in spring."
+    },
+    {
+      "arabic": "مُهِمٌّ",
+      "root": "ه م م",
+      "type": "adjective",
+      "bs": "važan",
+      "en": "important",
+      "exampleArabic": "هَذَا الْأَمْرُ مُهِمٌّ جِدًّا.",
+      "exampleBs": "Ova stvar je veoma važna.",
+      "exampleEn": "This matter is very important."
+    },
+    {
+      "arabic": "طَوِيلٌ",
+      "root": "ط و ل",
+      "type": "adjective",
+      "bs": "dugačak, visok",
+      "en": "long, tall",
+      "exampleArabic": "الطَّرِيقُ طَوِيلٌ وَصَعْبٌ.",
+      "exampleBs": "Put je dugačak i težak.",
+      "exampleEn": "The road is long and difficult."
+    },
+    {
+      "arabic": "قَصِيرٌ",
+      "root": "ق ص ر",
+      "type": "adjective",
+      "bs": "kratak, nizak",
+      "en": "short",
+      "exampleArabic": "الدَّرْسُ قَصِيرٌ الْيَوْمَ.",
+      "exampleBs": "Lekcija je danas kratka.",
+      "exampleEn": "The lesson is short today."
+    },
+    {
+      "arabic": "سَهْلٌ",
+      "root": "س ه ل",
+      "type": "adjective",
+      "bs": "lak",
+      "en": "easy",
+      "exampleArabic": "هَذَا السُّؤَالُ سَهْلٌ.",
+      "exampleBs": "Ovo pitanje je lako.",
+      "exampleEn": "This question is easy."
+    },
+    {
+      "arabic": "صَعْبٌ",
+      "root": "ص ع ب",
+      "type": "adjective",
+      "bs": "težak",
+      "en": "difficult, hard",
+      "exampleArabic": "اللُّغَةُ الْعَرَبِيَّةُ صَعْبَةٌ وَلَكِنَّهَا جَمِيلَةٌ.",
+      "exampleBs": "Arapski jezik je težak, ali lijep.",
+      "exampleEn": "The Arabic language is difficult but beautiful."
+    },
+    {
+      "arabic": "قَرِيبٌ",
+      "root": "ق ر ب",
+      "type": "adjective",
+      "bs": "blizu, blizak",
+      "en": "near, close",
+      "exampleArabic": "الْمَدْرَسَةُ قَرِيبَةٌ مِنَ الْبَيْتِ.",
+      "exampleBs": "Škola je blizu kuće.",
+      "exampleEn": "The school is near the house."
+    },
+    {
+      "arabic": "بَعِيدٌ",
+      "root": "ب ع د",
+      "type": "adjective",
+      "bs": "dalek",
+      "en": "far, distant",
+      "exampleArabic": "الْمَدِينَةُ بَعِيدَةٌ عَنِ الْقَرْيَةِ.",
+      "exampleBs": "Grad je daleko od sela.",
+      "exampleEn": "The city is far from the village."
+    },
+    {
+      "arabic": "حَارٌّ",
+      "root": "ح ر ر",
+      "type": "adjective",
+      "bs": "vruć",
+      "en": "hot",
+      "exampleArabic": "الْجَوُّ حَارٌّ فِي الصَّيْفِ.",
+      "exampleBs": "Vrijeme je vruće ljeti.",
+      "exampleEn": "The weather is hot in summer."
+    },
+    {
+      "arabic": "بَارِدٌ",
+      "root": "ب ر د",
+      "type": "adjective",
+      "bs": "hladan",
+      "en": "cold",
+      "exampleArabic": "الْمَاءُ بَارِدٌ فِي الشِّتَاءِ.",
+      "exampleBs": "Voda je hladna zimi.",
+      "exampleEn": "The water is cold in winter."
+    },
+    {
+      "arabic": "جِدًّا",
+      "root": "ج د د",
+      "type": "adverb",
+      "bs": "veoma, jako",
+      "en": "very, a lot",
+      "exampleArabic": "هَذَا الطَّعَامُ لَذِيذٌ جِدًّا.",
+      "exampleBs": "Ova hrana je veoma ukusna.",
+      "exampleEn": "This food is very delicious."
+    },
+    {
+      "arabic": "أَيْضًا",
+      "root": "ي ض ض",
+      "type": "adverb",
+      "bs": "također, isto",
+      "en": "also, too",
+      "exampleArabic": "أَنَا أَيْضًا أُحِبُّ الْقَهْوَةَ.",
+      "exampleBs": "Ja također volim kafu.",
+      "exampleEn": "I also like coffee."
+    },
+    {
+      "arabic": "كُلَّ",
+      "root": "ك ل ل",
+      "type": "particle",
+      "bs": "svaki, sav",
+      "en": "every, all",
+      "exampleArabic": "يَذْهَبُ إِلَى الْعَمَلِ كُلَّ يَوْمٍ.",
+      "exampleBs": "Ide na posao svaki dan.",
+      "exampleEn": "He goes to work every day."
+    },
+    {
+      "arabic": "فِي",
+      "root": "ف ي ي",
+      "type": "preposition",
+      "bs": "u, na",
+      "en": "in, at",
+      "exampleArabic": "أَسْكُنُ فِي الْمَدِينَةِ.",
+      "exampleBs": "Živim u gradu.",
+      "exampleEn": "I live in the city."
+    },
+    {
+      "arabic": "مِنْ",
+      "root": "م ن ن",
+      "type": "preposition",
+      "bs": "od, iz",
+      "en": "from, of",
+      "exampleArabic": "أَنَا مِنَ الْبَوْسَنَةِ.",
+      "exampleBs": "Ja sam iz Bosne.",
+      "exampleEn": "I am from Bosnia."
+    },
+    {
+      "arabic": "إِلَى",
+      "root": "ء ل ي",
+      "type": "preposition",
+      "bs": "do, prema",
+      "en": "to, towards",
+      "exampleArabic": "ذَهَبَ إِلَى الْمَدْرَسَةِ.",
+      "exampleBs": "Otišao je u školu.",
+      "exampleEn": "He went to the school."
+    },
+    {
+      "arabic": "مَعَ",
+      "root": "م ع ع",
+      "type": "preposition",
+      "bs": "sa, zajedno s",
+      "en": "with, together with",
+      "exampleArabic": "ذَهَبْتُ مَعَ صَدِيقِي.",
+      "exampleBs": "Otišao sam sa svojim prijateljem.",
+      "exampleEn": "I went with my friend."
+    },
+    {
+      "arabic": "لَا",
+      "root": "ل و ل",
+      "type": "particle",
+      "bs": "ne",
+      "en": "no, not",
+      "exampleArabic": "لَا أَعْرِفُ هَذَا الشَّخْصَ.",
+      "exampleBs": "Ne poznajem tu osobu.",
+      "exampleEn": "I do not know this person."
+    },
+    {
+      "arabic": "نَعَمْ",
+      "root": "ن ع م",
+      "type": "particle",
+      "bs": "da",
+      "en": "yes",
+      "exampleArabic": "نَعَمْ، أَنَا بَخَيْرٍ.",
+      "exampleBs": "Da, dobro sam.",
+      "exampleEn": "Yes, I am fine."
+    },
+    {
+      "arabic": "هَلْ",
+      "root": "ه ل ل",
+      "type": "particle",
+      "bs": "da li (upit)",
+      "en": "question particle (yes/no)",
+      "exampleArabic": "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟",
+      "exampleBs": "Da li govoriš arapski?",
+      "exampleEn": "Do you speak Arabic?"
+    }
+  ]
+}

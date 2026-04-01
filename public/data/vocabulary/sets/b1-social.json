@@ -1,0 +1,409 @@
+{
+  "id": "b1-social",
+  "title": "Social Media",
+  "titleAr": "التَّوَاصُلُ الاجْتِمَاعِيُّ",
+  "level": "B1",
+  "topic": "social",
+  "words": [
+    {
+      "arabic": "الصَّدِيقُ",
+      "root": "ص د ق",
+      "type": "noun",
+      "bs": "prijatelj",
+      "en": "friend",
+      "exampleArabic": "صَدِيقِي يَسْكُنُ فِي الْحَيِّ الْمُجَاوِرِ.",
+      "exampleBs": "Moj prijatelj živi u susjednoj četvrti.",
+      "exampleEn": "My friend lives in the neighbouring district."
+    },
+    {
+      "arabic": "الْعَائِلَةُ",
+      "root": "ع و ل",
+      "type": "noun",
+      "bs": "porodica, obitelj",
+      "en": "family",
+      "exampleArabic": "تَجْتَمِعُ الْعَائِلَةُ كُلَّ جُمُعَةٍ عَلَى الْغَدَاءِ.",
+      "exampleBs": "Porodica se okuplja svaki petak na ručku.",
+      "exampleEn": "The family gathers every Friday for lunch."
+    },
+    {
+      "arabic": "اللِّقَاءُ",
+      "root": "ل ق ي",
+      "type": "noun",
+      "bs": "susret, sastanak",
+      "en": "meeting, encounter",
+      "exampleArabic": "كَانَ اللِّقَاءُ بَيْنَ الْأَصْدِقَاءِ مُمْتِعًا.",
+      "exampleBs": "Susret između prijatelja bio je ugodan.",
+      "exampleEn": "The meeting between friends was enjoyable."
+    },
+    {
+      "arabic": "التَّحِيَّةُ",
+      "root": "ح ي ي",
+      "type": "noun",
+      "bs": "pozdrav",
+      "en": "greeting",
+      "exampleArabic": "بَدَأَ بِالتَّحِيَّةِ قَبْلَ الْكَلَامِ.",
+      "exampleBs": "Počeo je pozdravom prije govora.",
+      "exampleEn": "He began with a greeting before speaking."
+    },
+    {
+      "arabic": "الدَّعْوَةُ",
+      "root": "د ع و",
+      "type": "noun",
+      "bs": "poziv",
+      "en": "invitation",
+      "exampleArabic": "تَلَقَّيْتُ دَعْوَةً لِحَفْلِ الزَّفَافِ.",
+      "exampleBs": "Primio sam poziv na vjenčanje.",
+      "exampleEn": "I received an invitation to the wedding."
+    },
+    {
+      "arabic": "الْمُحَادَثَةُ",
+      "root": "ح د ث",
+      "type": "noun",
+      "bs": "razgovor, konverzacija",
+      "en": "conversation",
+      "exampleArabic": "دَارَتْ مُحَادَثَةٌ طَوِيلَةٌ بَيْنَهُمَا.",
+      "exampleBs": "Između njih dvojice odvio se dugačak razgovor.",
+      "exampleEn": "A long conversation took place between the two of them."
+    },
+    {
+      "arabic": "الْهَاتِفُ",
+      "root": "ه ت ف",
+      "type": "noun",
+      "bs": "telefon",
+      "en": "phone",
+      "exampleArabic": "اتَّصَلَ بِهِ عَبْرَ الْهَاتِفِ.",
+      "exampleBs": "Kontaktirao ga je putem telefona.",
+      "exampleEn": "He contacted him via the phone."
+    },
+    {
+      "arabic": "الرِّسَالَةُ",
+      "root": "ر س ل",
+      "type": "noun",
+      "bs": "poruka, pismo",
+      "en": "message",
+      "exampleArabic": "أَرْسَلَتْ رِسَالَةً نَصِّيَّةً إِلَى صَدِيقَتِهَا.",
+      "exampleBs": "Poslala je tekstualnu poruku svojoj prijateljici.",
+      "exampleEn": "She sent a text message to her friend."
+    },
+    {
+      "arabic": "الصُّورَةُ",
+      "root": "ص و ر",
+      "type": "noun",
+      "bs": "fotografija, slika",
+      "en": "photo, picture",
+      "exampleArabic": "نَشَرَتْ صُورَةً جَمِيلَةً عَلَى الْإِنْتَرْنَتِ.",
+      "exampleBs": "Objavila je lijepu fotografiju na internetu.",
+      "exampleEn": "She posted a beautiful photo on the internet."
+    },
+    {
+      "arabic": "الْمُشَارَكَةُ",
+      "root": "ش ر ك",
+      "type": "noun",
+      "bs": "dijeljenje, učešće",
+      "en": "sharing, participation",
+      "exampleArabic": "تُشَجَّعُ الْمُشَارَكَةُ فِي الْأَنْشِطَةِ الاجْتِمَاعِيَّةِ.",
+      "exampleBs": "Učešće u društvenim aktivnostima se podstiče.",
+      "exampleEn": "Participation in social activities is encouraged."
+    },
+    {
+      "arabic": "الْمُجْتَمَعُ",
+      "root": "ج م ع",
+      "type": "noun",
+      "bs": "društvo, zajednica",
+      "en": "community, society",
+      "exampleArabic": "الْمُجْتَمَعُ الْقَوِيُّ يَقُومُ عَلَى التَّعَاوُنِ.",
+      "exampleBs": "Snažno društvo temelji se na saradnji.",
+      "exampleEn": "A strong community is built on cooperation."
+    },
+    {
+      "arabic": "الْعَلَاقَةُ",
+      "root": "ع ل ق",
+      "type": "noun",
+      "bs": "odnos, veza",
+      "en": "relationship",
+      "exampleArabic": "الْعَلَاقَةُ بَيْنَهُمَا قَائِمَةٌ عَلَى الثِّقَةِ.",
+      "exampleBs": "Odnos između njih temelji se na povjerenju.",
+      "exampleEn": "The relationship between them is based on trust."
+    },
+    {
+      "arabic": "الْحَيُّ",
+      "root": "ح ي ي",
+      "type": "noun",
+      "bs": "mahala, četvrt, komšiluk",
+      "en": "neighbourhood",
+      "exampleArabic": "نَشَأَ فِي حَيٍّ شَعْبِيٍّ قَدِيمٍ.",
+      "exampleBs": "Odrastao je u staroj narodnoj četvrti.",
+      "exampleEn": "He grew up in an old popular neighbourhood."
+    },
+    {
+      "arabic": "الاحْتِفَالُ",
+      "root": "ح ف ل",
+      "type": "noun",
+      "bs": "proslava, svečanost",
+      "en": "celebration",
+      "exampleArabic": "أَقَمْنَا احْتِفَالًا كَبِيرًا بِمُنَاسَبَةِ الْعِيدِ.",
+      "exampleBs": "Priredili smo veliku proslavu povodom praznika.",
+      "exampleEn": "We held a big celebration on the occasion of the holiday."
+    },
+    {
+      "arabic": "التَّقْلِيدُ",
+      "root": "ق ل د",
+      "type": "noun",
+      "bs": "tradicija, običaj",
+      "en": "tradition",
+      "exampleArabic": "هَذَا تَقْلِيدٌ عَائِلِيٌّ قَدِيمٌ.",
+      "exampleBs": "Ovo je stara porodična tradicija.",
+      "exampleEn": "This is an old family tradition."
+    },
+    {
+      "arabic": "الْحَدَثُ",
+      "root": "ح د ث",
+      "type": "noun",
+      "bs": "događaj, manifestacija",
+      "en": "event",
+      "exampleArabic": "الْحَدَثُ الثَّقَافِيُّ يَجْمَعُ النَّاسَ مِنْ كُلِّ مَكَانٍ.",
+      "exampleBs": "Kulturni događaj okuplja ljude iz svih krajeva.",
+      "exampleEn": "The cultural event brings people together from everywhere."
+    },
+    {
+      "arabic": "التَّوَاصُلُ",
+      "root": "و ص ل",
+      "type": "noun",
+      "bs": "komunikacija, kontakt",
+      "en": "communication, contact",
+      "exampleArabic": "التَّوَاصُلُ الاجْتِمَاعِيُّ ضَرُورِيٌّ فِي حَيَاتِنَا.",
+      "exampleBs": "Društvena komunikacija je neophodna u našem životu.",
+      "exampleEn": "Social communication is necessary in our lives."
+    },
+    {
+      "arabic": "الثَّقَافَةُ",
+      "root": "ث ق ف",
+      "type": "noun",
+      "bs": "kultura",
+      "en": "culture",
+      "exampleArabic": "الثَّقَافَةُ الْعَرَبِيَّةُ غَنِيَّةٌ وَمُتَنَوِّعَةٌ.",
+      "exampleBs": "Arapska kultura je bogata i raznovrsna.",
+      "exampleEn": "Arab culture is rich and diverse."
+    },
+    {
+      "arabic": "الاحْتِرَامُ",
+      "root": "ح ر م",
+      "type": "noun",
+      "bs": "poštovanje",
+      "en": "respect",
+      "exampleArabic": "الاحْتِرَامُ الْمُتَبَادَلُ أَسَاسُ كُلِّ عَلَاقَةٍ.",
+      "exampleBs": "Uzajamno poštovanje je temelj svakog odnosa.",
+      "exampleEn": "Mutual respect is the foundation of every relationship."
+    },
+    {
+      "arabic": "التَّعَاوُنُ",
+      "root": "ع و ن",
+      "type": "noun",
+      "bs": "saradnja, suradnja",
+      "en": "cooperation",
+      "exampleArabic": "التَّعَاوُنُ بَيْنَ الْجِيرَانِ يُقَوِّي الْمُجْتَمَعَ.",
+      "exampleBs": "Saradnja između komšija jača zajednicu.",
+      "exampleEn": "Cooperation between neighbours strengthens the community."
+    },
+    {
+      "arabic": "الْجَارُ",
+      "root": "ج و ر",
+      "type": "noun",
+      "bs": "komšija, susjed",
+      "en": "neighbour",
+      "exampleArabic": "جَارُنَا كَرِيمٌ وَمُتَعَاوِنٌ دَائِمًا.",
+      "exampleBs": "Naš komšija je uvijek darežljiv i spreman na saradnju.",
+      "exampleEn": "Our neighbour is always generous and cooperative."
+    },
+    {
+      "arabic": "الضَّيْفُ",
+      "root": "ض ي ف",
+      "type": "noun",
+      "bs": "gost",
+      "en": "guest",
+      "exampleArabic": "اسْتَقْبَلْنَا الضَّيْفَ بِحَفَاوَةٍ.",
+      "exampleBs": "Dočekali smo gosta s toplinom.",
+      "exampleEn": "We received the guest warmly."
+    },
+    {
+      "arabic": "الْحَفْلَةُ",
+      "root": "ح ف ل",
+      "type": "noun",
+      "bs": "zabava, žurka, svečanost",
+      "en": "party, celebration",
+      "exampleArabic": "دُعِيتُ إِلَى حَفْلَةِ عِيدِ مِيلَادٍ.",
+      "exampleBs": "Pozvan sam na proslavu rođendana.",
+      "exampleEn": "I was invited to a birthday party."
+    },
+    {
+      "arabic": "الْهَدِيَّةُ",
+      "root": "ه د ي",
+      "type": "noun",
+      "bs": "poklon, dar",
+      "en": "gift",
+      "exampleArabic": "أَحْضَرَتْ هَدِيَّةً لِصَدِيقَتِهَا فِي عِيدِ مِيلَادِهَا.",
+      "exampleBs": "Donijela je poklon svojoj prijateljici za njen rođendan.",
+      "exampleEn": "She brought a gift for her friend on her birthday."
+    },
+    {
+      "arabic": "الْمَجْمُوعَةُ",
+      "root": "ج م ع",
+      "type": "noun",
+      "bs": "grupa",
+      "en": "group",
+      "exampleArabic": "انْضَمَّ إِلَى مَجْمُوعَةِ تَعَلُّمِ اللُّغَةِ.",
+      "exampleBs": "Pridružio se grupi za učenje jezika.",
+      "exampleEn": "He joined the language learning group."
+    },
+    {
+      "arabic": "التَّضَامُنُ",
+      "root": "ض م ن",
+      "type": "noun",
+      "bs": "solidarnost",
+      "en": "solidarity",
+      "exampleArabic": "أَظْهَرَ الْمُجْتَمَعُ تَضَامُنًا كَبِيرًا فِي الْأَزْمَةِ.",
+      "exampleBs": "Zajednica je pokazala veliku solidarnost u krizi.",
+      "exampleEn": "The community showed great solidarity during the crisis."
+    },
+    {
+      "arabic": "الْوَلَاءُ",
+      "root": "و ل ي",
+      "type": "noun",
+      "bs": "lojalnost, odanost",
+      "en": "loyalty",
+      "exampleArabic": "الْوَلَاءُ لِلْأَصْدِقَاءِ صِفَةٌ نَبِيلَةٌ.",
+      "exampleBs": "Odanost prijateljima je plemenita osobina.",
+      "exampleEn": "Loyalty to friends is a noble quality."
+    },
+    {
+      "arabic": "التَّسَامُحُ",
+      "root": "س م ح",
+      "type": "noun",
+      "bs": "tolerancija",
+      "en": "tolerance",
+      "exampleArabic": "التَّسَامُحُ قِيمَةٌ إِنْسَانِيَّةٌ عَظِيمَةٌ.",
+      "exampleBs": "Tolerancija je velika ljudska vrijednost.",
+      "exampleEn": "Tolerance is a great human value."
+    },
+    {
+      "arabic": "التَّقَالِيدُ",
+      "root": "ق ل د",
+      "type": "noun",
+      "bs": "tradicije, običaji",
+      "en": "traditions, customs",
+      "exampleArabic": "نَحْتَفِظُ بِتَقَالِيدِنَا الْعَائِلِيَّةِ.",
+      "exampleBs": "Čuvamo naše porodične tradicije.",
+      "exampleEn": "We preserve our family traditions."
+    },
+    {
+      "arabic": "الْإِنْسَانُ",
+      "root": "أ ن س",
+      "type": "noun",
+      "bs": "čovjek, osoba",
+      "en": "human being, person",
+      "exampleArabic": "الْإِنْسَانُ كَائِنٌ اجْتِمَاعِيٌّ بِطَبِيعَتِهِ.",
+      "exampleBs": "Čovjek je po prirodi društveno biće.",
+      "exampleEn": "The human being is by nature a social creature."
+    },
+    {
+      "arabic": "الْكَرَمُ",
+      "root": "ك ر م",
+      "type": "noun",
+      "bs": "darežljivost, gostoprimstvo",
+      "en": "generosity",
+      "exampleArabic": "الْكَرَمُ مِنْ أَبْرَزِ سِمَاتِ الضِّيَافَةِ الْعَرَبِيَّةِ.",
+      "exampleBs": "Darežljivost je jedna od najistaknutijih osobina arapskog gostoprimstva.",
+      "exampleEn": "Generosity is one of the most prominent traits of Arab hospitality."
+    },
+    {
+      "arabic": "التَّعَارُفُ",
+      "root": "ع ر ف",
+      "type": "noun",
+      "bs": "upoznavanje, međusobno upoznavanje",
+      "en": "getting acquainted",
+      "exampleArabic": "بَدَأَتْ صَدَاقَتُهُمَا بِلِقَاءِ تَعَارُفٍ.",
+      "exampleBs": "Njihovo prijateljstvo počelo je susretom upoznavanja.",
+      "exampleEn": "Their friendship began with a meeting of introduction."
+    },
+    {
+      "arabic": "الِاجْتِمَاعُ",
+      "root": "ج م ع",
+      "type": "noun",
+      "bs": "skup, sastanak",
+      "en": "gathering, meeting",
+      "exampleArabic": "حَضَرَ الِاجْتِمَاعَ الْعَائِلِيَّ السَّنَوِيَّ.",
+      "exampleBs": "Prisustvovao je godišnjem porodičnom skupu.",
+      "exampleEn": "He attended the annual family gathering."
+    },
+    {
+      "arabic": "الِاتِّصَالُ",
+      "root": "و ص ل",
+      "type": "noun",
+      "bs": "kontaktiranje, poziv",
+      "en": "contact, phone call",
+      "exampleArabic": "أَجْرَيْتُ اتِّصَالًا مَعَ صَدِيقِي بَعْدَ غِيَابٍ طَوِيلٍ.",
+      "exampleBs": "Pozvao sam prijatelja nakon dugog odsustva.",
+      "exampleEn": "I made contact with my friend after a long absence."
+    },
+    {
+      "arabic": "الِانْتِمَاءُ",
+      "root": "ن م ي",
+      "type": "noun",
+      "bs": "pripadnost",
+      "en": "belonging, affiliation",
+      "exampleArabic": "الِانْتِمَاءُ إِلَى مَجْمُوعَةٍ يَمْنَحُ الشُّعُورَ بِالأَمَانِ.",
+      "exampleBs": "Pripadnost grupi daje osjećaj sigurnosti.",
+      "exampleEn": "Belonging to a group gives a sense of security."
+    },
+    {
+      "arabic": "التَّعَاطُفُ",
+      "root": "ع ط ف",
+      "type": "noun",
+      "bs": "empatija, saosjecanje",
+      "en": "empathy, sympathy",
+      "exampleArabic": "أَبْدَى تَعَاطُفًا كَبِيرًا مَعَ أَصْدِقَائِهِ فِي الأَزْمَةِ.",
+      "exampleBs": "Pokazao je veliku empatiju prema prijateljima u krizi.",
+      "exampleEn": "He showed great empathy towards his friends during the crisis."
+    },
+    {
+      "arabic": "الشَّبَكَةُ الاجْتِمَاعِيَّةُ",
+      "root": "ش ب ك",
+      "type": "noun",
+      "bs": "društvena mreža",
+      "en": "social network",
+      "exampleArabic": "أَمْضَى وَقْتًا طَوِيلًا عَلَى الشَّبَكَةِ الاجْتِمَاعِيَّةِ.",
+      "exampleBs": "Proveo je dugo vremena na društvenoj mreži.",
+      "exampleEn": "He spent a long time on the social network."
+    },
+    {
+      "arabic": "لَقِيَ",
+      "root": "ل ق ي",
+      "type": "verb",
+      "bs": "susreo je, sreo je",
+      "en": "to meet (past)",
+      "exampleArabic": "لَقِيَ صَدِيقَهُ الْقَدِيمَ فِي الشَّارِعِ.",
+      "exampleBs": "Sreo je starog prijatelja na ulici.",
+      "exampleEn": "He met his old friend on the street."
+    },
+    {
+      "arabic": "دَعَا",
+      "root": "د ع و",
+      "type": "verb",
+      "bs": "pozvao je",
+      "en": "to invite (past)",
+      "exampleArabic": "دَعَا أَصْدِقَاءَهُ إِلَى وَلِيمَةٍ.",
+      "exampleBs": "Pozvao je prijatelje na gozbu.",
+      "exampleEn": "He invited his friends to a feast."
+    },
+    {
+      "arabic": "شَارَكَ",
+      "root": "ش ر ك",
+      "type": "verb",
+      "bs": "podijelio je, učestvovao je",
+      "en": "to share, to participate (past)",
+      "exampleArabic": "شَارَكَ أَفْكَارَهُ مَعَ الْمَجْمُوعَةِ.",
+      "exampleBs": "Podijelio je svoje ideje sa grupom.",
+      "exampleEn": "He shared his ideas with the group."
+    }
+  ]
+}

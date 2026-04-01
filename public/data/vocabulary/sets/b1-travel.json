@@ -1,0 +1,459 @@
+{
+  "id": "b1-travel",
+  "title": "Travel Essentials",
+  "titleAr": "مُفْرَدَاتُ السَّفَرِ",
+  "level": "B1",
+  "topic": "travel",
+  "words": [
+    {
+      "arabic": "الْمَطَارُ",
+      "root": "ط و ر",
+      "type": "noun",
+      "bs": "aerodrom",
+      "en": "airport",
+      "exampleArabic": "وَصَلَ الرَّكَّابُ إِلَى الْمَطَارِ مُبَكِّرًا.",
+      "exampleBs": "Putnici su stigli na aerodrom rano.",
+      "exampleEn": "The passengers arrived at the airport early."
+    },
+    {
+      "arabic": "جَوَازُ السَّفَرِ",
+      "root": "ج و ز",
+      "type": "noun",
+      "bs": "pasoš",
+      "en": "passport",
+      "exampleArabic": "لَا تَنْسَ جَوَازَ سَفَرِكَ قَبْلَ السَّفَرِ.",
+      "exampleBs": "Ne zaboravi pasoš prije putovanja.",
+      "exampleEn": "Don't forget your passport before travelling."
+    },
+    {
+      "arabic": "التَّأْشِيرَةُ",
+      "root": "أ ش ر",
+      "type": "noun",
+      "bs": "viza",
+      "en": "visa",
+      "exampleArabic": "يَحْتَاجُ إِلَى تَأْشِيرَةٍ لِدُخُولِ الْبِلَادِ.",
+      "exampleBs": "Treba mu viza za ulazak u tu zemlju.",
+      "exampleEn": "He needs a visa to enter the country."
+    },
+    {
+      "arabic": "التَّذْكِرَةُ",
+      "root": "ذ ك ر",
+      "type": "noun",
+      "bs": "karta / ulaznica",
+      "en": "ticket",
+      "exampleArabic": "اشْتَرَيْتُ تَذْكِرَةَ الطَّائِرَةِ مِنَ الْإِنْتِرْنِتِ.",
+      "exampleBs": "Kupio sam avionsku kartu putem interneta.",
+      "exampleEn": "I bought the plane ticket online."
+    },
+    {
+      "arabic": "الْحَقِيبَةُ",
+      "root": "ح ق ب",
+      "type": "noun",
+      "bs": "kofer / torba",
+      "en": "luggage / bag",
+      "exampleArabic": "وَضَعَتْ مَلَابِسَهَا فِي الْحَقِيبَةِ.",
+      "exampleBs": "Stavila je svoju odjeću u kofer.",
+      "exampleEn": "She put her clothes in the bag."
+    },
+    {
+      "arabic": "الْفُنْدُقُ",
+      "root": "ف ن د",
+      "type": "noun",
+      "bs": "hotel",
+      "en": "hotel",
+      "exampleArabic": "نَزَلْنَا فِي فُنْدُقٍ قَرِيبٍ مِنَ الْبَحْرِ.",
+      "exampleBs": "Odsjeli smo u hotelu blizu mora.",
+      "exampleEn": "We stayed in a hotel near the sea."
+    },
+    {
+      "arabic": "الْحَجْزُ",
+      "root": "ح ج ز",
+      "type": "noun",
+      "bs": "rezervacija",
+      "en": "reservation / booking",
+      "exampleArabic": "قَامَ بِحَجْزِ غُرْفَةٍ فِي الْفُنْدُقِ مُسْبَقًا.",
+      "exampleBs": "Unaprijed je rezervirao sobu u hotelu.",
+      "exampleEn": "He booked a hotel room in advance."
+    },
+    {
+      "arabic": "الرِّحْلَةُ",
+      "root": "ر ح ل",
+      "type": "noun",
+      "bs": "putovanje / let",
+      "en": "journey / flight",
+      "exampleArabic": "كَانَتِ الرِّحْلَةُ طَوِيلَةً لَكِنَّهَا مُمْتِعَةٌ.",
+      "exampleBs": "Putovanje je bilo dugo, ali ugodno.",
+      "exampleEn": "The journey was long but enjoyable."
+    },
+    {
+      "arabic": "الْوِجْهَةُ",
+      "root": "و ج هـ",
+      "type": "noun",
+      "bs": "odredište",
+      "en": "destination",
+      "exampleArabic": "مَا هِيَ وِجْهَتُكَ فِي هَذِهِ الْعُطْلَةِ؟",
+      "exampleBs": "Koje je tvoje odredište ovog odmora?",
+      "exampleEn": "What is your destination this holiday?"
+    },
+    {
+      "arabic": "الْمُغَادَرَةُ",
+      "root": "غ د ر",
+      "type": "noun",
+      "bs": "odlazak / polijetanje",
+      "en": "departure",
+      "exampleArabic": "مَوْعِدُ الْمُغَادَرَةِ السَّاعَةَ الثَّامِنَةَ صَبَاحًا.",
+      "exampleBs": "Polazak je u osam sati ujutro.",
+      "exampleEn": "The departure time is eight o'clock in the morning."
+    },
+    {
+      "arabic": "الْوُصُولُ",
+      "root": "و ص ل",
+      "type": "noun",
+      "bs": "dolazak / slijetanje",
+      "en": "arrival",
+      "exampleArabic": "يُتَوَقَّعُ الْوُصُولُ إِلَى الْمَدِينَةِ بَعْدَ سَاعَتَيْنِ.",
+      "exampleBs": "Dolazak u grad se očekuje za dva sata.",
+      "exampleEn": "Arrival in the city is expected in two hours."
+    },
+    {
+      "arabic": "الْجُمْرُكُ",
+      "root": "ج م ر",
+      "type": "noun",
+      "bs": "carina",
+      "en": "customs",
+      "exampleArabic": "أَجَابَ عَنِ الْأَسْئِلَةِ عِنْدَ الْجُمْرُكِ بِهُدُوءٍ.",
+      "exampleBs": "Mirno je odgovarao na pitanja na carini.",
+      "exampleEn": "He answered questions at customs calmly."
+    },
+    {
+      "arabic": "الْحُدُودُ",
+      "root": "ح د د",
+      "type": "noun",
+      "bs": "granica",
+      "en": "border",
+      "exampleArabic": "عَبَرُوا الْحُدُودَ بَعْدَ فَحْصِ الْوَثَائِقِ.",
+      "exampleBs": "Prešli su granicu nakon provjere dokumenata.",
+      "exampleEn": "They crossed the border after document inspection."
+    },
+    {
+      "arabic": "الْقِطَارُ",
+      "root": "ق ط ر",
+      "type": "noun",
+      "bs": "voz",
+      "en": "train",
+      "exampleArabic": "رَكِبْنَا الْقِطَارَ السَّرِيعَ إِلَى الْعَاصِمَةِ.",
+      "exampleBs": "Sjeli smo u brzi voz prema glavnom gradu.",
+      "exampleEn": "We took the fast train to the capital."
+    },
+    {
+      "arabic": "الْحَافِلَةُ",
+      "root": "ح ف ل",
+      "type": "noun",
+      "bs": "autobus",
+      "en": "bus",
+      "exampleArabic": "تَأْخُذُ الْحَافِلَةَ كُلَّ يَوْمٍ إِلَى الْعَمَلِ.",
+      "exampleBs": "Svaki dan uzima autobus na posao.",
+      "exampleEn": "She takes the bus to work every day."
+    },
+    {
+      "arabic": "سَيَّارَةُ الْأُجْرَةِ",
+      "root": "س ي ر",
+      "type": "noun",
+      "bs": "taksi",
+      "en": "taxi",
+      "exampleArabic": "طَلَبَ سَيَّارَةَ الْأُجْرَةِ مِنْ تَطْبِيقِ الْهَاتِفِ.",
+      "exampleBs": "Naručio je taksi putem aplikacije na telefonu.",
+      "exampleEn": "He ordered a taxi through a phone app."
+    },
+    {
+      "arabic": "الْخَرِيطَةُ",
+      "root": "خ ر ط",
+      "type": "noun",
+      "bs": "karta / mapa",
+      "en": "map",
+      "exampleArabic": "اسْتَعَانَ بِالْخَرِيطَةِ لِإِيجَادِ الطَّرِيقِ.",
+      "exampleBs": "Poslužio se mapom kako bi pronašao put.",
+      "exampleEn": "He used the map to find the way."
+    },
+    {
+      "arabic": "الِاتِّجَاهُ",
+      "root": "و ج هـ",
+      "type": "noun",
+      "bs": "pravac / smjer",
+      "en": "direction",
+      "exampleArabic": "سَأَلَتِ الشُّرْطِيَّ عَنِ الِاتِّجَاهِ الصَّحِيحِ.",
+      "exampleBs": "Policajca je pitala za pravi smjer.",
+      "exampleEn": "She asked the police officer for the right direction."
+    },
+    {
+      "arabic": "الدَّلِيلُ السِّيَاحِيُّ",
+      "root": "د ل ل",
+      "type": "noun",
+      "bs": "turistički vodič",
+      "en": "tour guide",
+      "exampleArabic": "أَرْشَدَنَا الدَّلِيلُ السِّيَاحِيُّ إِلَى الْمَعَالِمِ الرَّئِيسِيَّةِ.",
+      "exampleBs": "Turistički vodič nas je odveo do glavnih znamenitosti.",
+      "exampleEn": "The tour guide led us to the main attractions."
+    },
+    {
+      "arabic": "الْمَعْلَمُ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "znamenitost",
+      "en": "landmark / attraction",
+      "exampleArabic": "زُرْنَا أَهَمَّ الْمَعَالِمِ التَّارِيخِيَّةِ فِي الْمَدِينَةِ.",
+      "exampleBs": "Posjetili smo najvažnije historijske znamenitosti u gradu.",
+      "exampleEn": "We visited the most important historical landmarks in the city."
+    },
+    {
+      "arabic": "صَرْفُ الْعُمْلَةِ",
+      "root": "ص ر ف",
+      "type": "noun",
+      "bs": "mjenjačnica / kurs valute",
+      "en": "currency exchange",
+      "exampleArabic": "ذَهَبَ إِلَى مَكْتَبِ صَرْفِ الْعُمْلَةِ لِتَغْيِيرِ النُّقُودِ.",
+      "exampleBs": "Otišao je u mjenjačnicu da zamijeni novac.",
+      "exampleEn": "He went to the currency exchange office to change money."
+    },
+    {
+      "arabic": "الْإِقَامَةُ",
+      "root": "ق و م",
+      "type": "noun",
+      "bs": "smještaj / boravak",
+      "en": "accommodation / stay",
+      "exampleArabic": "وَجَدُوا إِقَامَةً مُرِيحَةً بِسِعْرٍ مَعْقُولٍ.",
+      "exampleBs": "Pronašli su ugodan smještaj po razumnoj cijeni.",
+      "exampleEn": "They found comfortable accommodation at a reasonable price."
+    },
+    {
+      "arabic": "السِّيَاحَةُ",
+      "root": "س و ح",
+      "type": "noun",
+      "bs": "turizam",
+      "en": "tourism",
+      "exampleArabic": "تَعْتَمِدُ الْمَدِينَةُ اعْتِمَادًا كَبِيرًا عَلَى السِّيَاحَةِ.",
+      "exampleBs": "Grad se u velikoj mjeri oslanja na turizam.",
+      "exampleEn": "The city relies heavily on tourism."
+    },
+    {
+      "arabic": "الطَّائِرَةُ",
+      "root": "ط ي ر",
+      "type": "noun",
+      "bs": "avion",
+      "en": "airplane",
+      "exampleArabic": "حَلَّقَتِ الطَّائِرَةُ فَوْقَ الْغُيُومِ.",
+      "exampleBs": "Avion je letio iznad oblaka.",
+      "exampleEn": "The airplane flew above the clouds."
+    },
+    {
+      "arabic": "الْمَحَطَّةُ",
+      "root": "ح ط ط",
+      "type": "noun",
+      "bs": "stanica",
+      "en": "station / stop",
+      "exampleArabic": "انْتَظَرَ الرَّكَّابُ فِي الْمَحَطَّةِ بِصَبْرٍ.",
+      "exampleBs": "Putnici su strpljivo čekali na stanici.",
+      "exampleEn": "The passengers waited patiently at the station."
+    },
+    {
+      "arabic": "الْمِيناءُ",
+      "root": "م ن ي",
+      "type": "noun",
+      "bs": "luka",
+      "en": "port / harbour",
+      "exampleArabic": "رَسَتِ السَّفِينَةُ فِي الْمِيناءِ عِنْدَ الْفَجْرِ.",
+      "exampleBs": "Brod je uplovio u luku u zoru.",
+      "exampleEn": "The ship docked at the port at dawn."
+    },
+    {
+      "arabic": "غُرْفَةُ الْفُنْدُقِ",
+      "root": "غ ر ف",
+      "type": "noun",
+      "bs": "hotelska soba",
+      "en": "hotel room",
+      "exampleArabic": "كَانَتْ غُرْفَةُ الْفُنْدُقِ وَاسِعَةً وَنَظِيفَةً.",
+      "exampleBs": "Hotelska soba je bila prostrana i čista.",
+      "exampleEn": "The hotel room was spacious and clean."
+    },
+    {
+      "arabic": "الطَّرِيقُ",
+      "root": "ط ر ق",
+      "type": "noun",
+      "bs": "put / cesta",
+      "en": "road / way",
+      "exampleArabic": "سَلَكُوا طَرِيقًا جَبَلِيًّا وَعِرًا.",
+      "exampleBs": "Krenuli su brdskim putem koji je bio težak.",
+      "exampleEn": "They took a rugged mountain road."
+    },
+    {
+      "arabic": "سَافَرَ",
+      "root": "س ف ر",
+      "type": "verb",
+      "bs": "putovati",
+      "en": "to travel",
+      "exampleArabic": "سَافَرَ إِلَى مِصْرَ لِلدِّرَاسَةِ.",
+      "exampleBs": "Putovao je u Egipat zbog studija.",
+      "exampleEn": "He travelled to Egypt to study."
+    },
+    {
+      "arabic": "حَجَزَ",
+      "root": "ح ج ز",
+      "type": "verb",
+      "bs": "rezervirati",
+      "en": "to book / to reserve",
+      "exampleArabic": "حَجَزَتْ تَذَاكِرَ الطَّائِرَةِ مُبَكِّرًا.",
+      "exampleBs": "Unaprijed je rezervirala avionske karte.",
+      "exampleEn": "She booked the plane tickets early."
+    },
+    {
+      "arabic": "وَصَلَ",
+      "root": "و ص ل",
+      "type": "verb",
+      "bs": "stići / doći",
+      "en": "to arrive",
+      "exampleArabic": "وَصَلَ الْفَرِيقُ إِلَى الْفُنْدُقِ مَسَاءً.",
+      "exampleBs": "Tim je stigao u hotel uvečer.",
+      "exampleEn": "The team arrived at the hotel in the evening."
+    },
+    {
+      "arabic": "غَادَرَ",
+      "root": "غ د ر",
+      "type": "verb",
+      "bs": "otputovati / napustiti",
+      "en": "to depart / to leave",
+      "exampleArabic": "غَادَرَ الضُّيُوفُ الْفُنْدُقَ صَبَاحَ الْيَوْمِ.",
+      "exampleBs": "Gosti su jutros napustili hotel.",
+      "exampleEn": "The guests departed the hotel this morning."
+    },
+    {
+      "arabic": "اسْتَأْجَرَ",
+      "root": "أ ج ر",
+      "type": "verb",
+      "bs": "iznajmiti",
+      "en": "to rent / to hire",
+      "exampleArabic": "اسْتَأْجَرَ سَيَّارَةً لِجَوْلَةِ الْمَدِينَةِ.",
+      "exampleBs": "Iznajmio je auto za obilatak grada.",
+      "exampleEn": "He rented a car for the city tour."
+    },
+    {
+      "arabic": "تَجَوَّلَ",
+      "root": "ج و ل",
+      "type": "verb",
+      "bs": "šetati / razgledati",
+      "en": "to roam / to tour",
+      "exampleArabic": "تَجَوَّلْنَا فِي الْأَسْوَاقِ الْقَدِيمَةِ طَوِيلًا.",
+      "exampleBs": "Dugo smo šetali starim čaršijama.",
+      "exampleEn": "We roamed the old markets for a long time."
+    },
+    {
+      "arabic": "رَكِبَ",
+      "root": "ر ك ب",
+      "type": "verb",
+      "bs": "sjesti u / ukrcati se",
+      "en": "to board / to ride",
+      "exampleArabic": "رَكِبَتِ الطَّائِرَةَ لِأَوَّلِ مَرَّةٍ.",
+      "exampleBs": "Po prvi put se ukrcala u avion.",
+      "exampleEn": "She boarded a plane for the first time."
+    },
+    {
+      "arabic": "فَقَدَ",
+      "root": "ف ق د",
+      "type": "verb",
+      "bs": "izgubiti",
+      "en": "to lose",
+      "exampleArabic": "فَقَدَ حَقِيبَتَهُ فِي الْمَطَارِ.",
+      "exampleBs": "Izgubio je kofer na aerodromu.",
+      "exampleEn": "He lost his bag at the airport."
+    },
+    {
+      "arabic": "اسْتَعْلَمَ",
+      "root": "ع ل م",
+      "type": "verb",
+      "bs": "raspitati se / informisati se",
+      "en": "to inquire",
+      "exampleArabic": "اسْتَعْلَمَتْ عَنْ مَوَاعِيدِ الرَّحَلَاتِ فِي الْمَكْتَبِ.",
+      "exampleBs": "Raspitala se o rasporedima letova u uredu.",
+      "exampleEn": "She inquired about flight schedules at the office."
+    },
+    {
+      "arabic": "بَعِيدٌ",
+      "root": "ب ع د",
+      "type": "adjective",
+      "bs": "daleko / dalek",
+      "en": "far / distant",
+      "exampleArabic": "الْفُنْدُقُ بَعِيدٌ عَنِ الْمَطَارِ قَلِيلًا.",
+      "exampleBs": "Hotel je malo dalek od aerodroma.",
+      "exampleEn": "The hotel is a little far from the airport."
+    },
+    {
+      "arabic": "قَرِيبٌ",
+      "root": "ق ر ب",
+      "type": "adjective",
+      "bs": "blizu / blizak",
+      "en": "near / close",
+      "exampleArabic": "الْمَحَطَّةُ قَرِيبَةٌ مِنَ الْمَرْكَزِ التِّجَارِيِّ.",
+      "exampleBs": "Stanica je blizu tržnog centra.",
+      "exampleEn": "The station is close to the shopping centre."
+    },
+    {
+      "arabic": "مُزْدَحِمٌ",
+      "root": "ز ح م",
+      "type": "adjective",
+      "bs": "prepun / gužva",
+      "en": "crowded / busy",
+      "exampleArabic": "كَانَ الْمَطَارُ مُزْدَحِمًا جِدًّا فِي الْعُطْلَةِ.",
+      "exampleBs": "Aerodrom je bio veoma prepun tokom praznika.",
+      "exampleEn": "The airport was very crowded during the holiday."
+    },
+    {
+      "arabic": "دَوْلِيٌّ",
+      "root": "د و ل",
+      "type": "adjective",
+      "bs": "međunarodni",
+      "en": "international",
+      "exampleArabic": "يَعْمَلُ فِي شَرِكَةٍ طَيَرَانٍ دَوْلِيَّةٍ.",
+      "exampleBs": "Radi u međunarodnoj avio kompaniji.",
+      "exampleEn": "He works for an international airline."
+    },
+    {
+      "arabic": "مَبَاشِرَةً",
+      "root": "ب ش ر",
+      "type": "adverb",
+      "bs": "direktno / odmah",
+      "en": "directly",
+      "exampleArabic": "سَافَرْنَا مَبَاشِرَةً إِلَى دُبَيٍّ دُونَ تَوَقُّفٍ.",
+      "exampleBs": "Putovali smo direktno u Dubai bez zaustavljanja.",
+      "exampleEn": "We travelled directly to Dubai without stopping."
+    },
+    {
+      "arabic": "إِلَى الْيَمِينِ",
+      "root": "ي م ن",
+      "type": "phrase",
+      "bs": "desno / na desnu stranu",
+      "en": "to the right",
+      "exampleArabic": "اِتَّجِهْ إِلَى الْيَمِينِ بَعْدَ الْإِشَارَةِ.",
+      "exampleBs": "Skreni desno nakon semafora.",
+      "exampleEn": "Turn right after the traffic light."
+    },
+    {
+      "arabic": "إِلَى الْيَسَارِ",
+      "root": "ي س ر",
+      "type": "phrase",
+      "bs": "lijevo / na lijevu stranu",
+      "en": "to the left",
+      "exampleArabic": "اِتَّجِهْ إِلَى الْيَسَارِ عِنْدَ الدَّوَّارِ.",
+      "exampleBs": "Skreni lijevo kod kružnog toka.",
+      "exampleEn": "Turn left at the roundabout."
+    },
+    {
+      "arabic": "كَيْفَ أَصِلُ إِلَى؟",
+      "root": "و ص ل",
+      "type": "phrase",
+      "bs": "Kako doći do...?",
+      "en": "How do I get to...?",
+      "exampleArabic": "كَيْفَ أَصِلُ إِلَى مَحَطَّةِ الْمِتْرُو؟",
+      "exampleBs": "Kako doći do stanice metroa?",
+      "exampleEn": "How do I get to the metro station?"
+    }
+  ]
+}

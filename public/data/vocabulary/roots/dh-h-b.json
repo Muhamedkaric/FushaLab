@@ -1,0 +1,20 @@
+{
+  "id": "dh-h-b",
+  "root": "ذ ه ب",
+  "rootMeaning": "going, departure",
+  "level": "B1",
+  "forms": [
+    { "arabic": "ذَهَبَ",     "type": "verb-past",          "bs": "otišao je",              "en": "he went" },
+    { "arabic": "يَذْهَبُ",   "type": "verb-present",       "bs": "ide",                    "en": "he goes" },
+    { "arabic": "ذَهَابٌ",    "type": "verbal-noun",        "bs": "odlazak, put (u jednom smjeru)", "en": "going, departure" },
+    { "arabic": "ذَاهِبٌ",    "type": "active-participle",  "bs": "onaj koji ide",          "en": "one who is going" },
+    { "arabic": "مَذْهَبٌ",   "type": "noun",               "bs": "pravac, škola mišljenja","en": "direction, school of thought" },
+    { "arabic": "مُذَاهَبَةٌ","type": "verbal-noun",        "bs": "dolaženje i odlaženje",  "en": "going back and forth" }
+  ],
+  "exampleSentence": {
+    "arabic": "يَذْهَبُ الطُّلَّابُ إِلَى الْجَامِعَةِ كُلَّ صَبَاحٍ.",
+    "bs": "Studenti idu na univerzitet svako jutro.",
+    "en": "The students go to university every morning."
+  },
+  "tags": ["B1", "movement", "daily-life"]
+}

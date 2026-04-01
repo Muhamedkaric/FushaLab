@@ -1,0 +1,20 @@
+{
+  "id": "k-l-m",
+  "root": "ك ل م",
+  "rootMeaning": "speaking, words, speech",
+  "level": "B1",
+  "forms": [
+    { "arabic": "كَلَّمَ",    "type": "verb-past",          "bs": "govorio je (s nekim), razgovarao je", "en": "he spoke to, he talked to" },
+    { "arabic": "يُكَلِّمُ",  "type": "verb-present",       "bs": "govori (s nekim)",                    "en": "he speaks to, he talks to" },
+    { "arabic": "كَلَامٌ",    "type": "verbal-noun",        "bs": "govor, razgovor",                     "en": "speech, talk" },
+    { "arabic": "كَلِمَةٌ",   "type": "noun",               "bs": "riječ",                               "en": "word" },
+    { "arabic": "مُكَالَمَةٌ","type": "verbal-noun",        "bs": "razgovor, poziv",                     "en": "conversation, phone call" },
+    { "arabic": "مُتَكَلِّمٌ","type": "active-participle",  "bs": "govornik, onaj koji govori",          "en": "speaker" }
+  ],
+  "exampleSentence": {
+    "arabic": "كَلَّمَ الْمُدِيرُ الْمُوَظَّفِينَ عَنْ خُطَّةِ الْعَمَلِ الْجَدِيدَةِ.",
+    "bs": "Direktor je razgovarao sa zaposlenicima o novom planu rada.",
+    "en": "The director spoke to the employees about the new work plan."
+  },
+  "tags": ["B1", "communication", "language"]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d-r-s",
+  "root": "د ر س",
+  "rootMeaning": "studying, learning, teaching",
+  "level": "B1",
+  "forms": [
+    { "arabic": "دَرَسَ",      "type": "verb-past",          "bs": "učio je, studirao je",   "en": "he studied" },
+    { "arabic": "يَدْرُسُ",   "type": "verb-present",       "bs": "uči, studira",           "en": "he studies" },
+    { "arabic": "دِرَاسَةٌ",  "type": "verbal-noun",        "bs": "učenje, studiranje",     "en": "studying" },
+    { "arabic": "الدَّرْسُ",  "type": "noun",               "bs": "lekcija, čas",           "en": "lesson" },
+    { "arabic": "الْمَدْرَسَةُ", "type": "noun-place",      "bs": "škola",                  "en": "school" },
+    { "arabic": "دَارِسٌ",    "type": "active-participle",  "bs": "onaj koji uči, student", "en": "student, learner" },
+    { "arabic": "مَدْرُوسٌ",  "type": "passive-participle", "bs": "proučeno",               "en": "studied, examined" }
+  ],
+  "exampleSentence": {
+    "arabic": "تَدْرُسُ فَاطِمَةُ اللُّغَةَ الْعَرَبِيَّةَ فِي الْجَامِعَةِ كُلَّ يَوْمٍ.",
+    "bs": "Fatima svaki dan studira arapski jezik na univerzitetu.",
+    "en": "Fatima studies the Arabic language at university every day."
+  },
+  "tags": ["B1", "education", "school"]
+}

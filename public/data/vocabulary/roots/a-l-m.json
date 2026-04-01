@@ -1,0 +1,21 @@
+{
+  "id": "a-l-m",
+  "root": "ع ل م",
+  "rootMeaning": "knowledge, knowing, teaching",
+  "level": "B1",
+  "forms": [
+    { "arabic": "عَلِمَ",     "type": "verb-past",          "bs": "znao je, saznao je",      "en": "he knew, he came to know" },
+    { "arabic": "يَعْلَمُ",   "type": "verb-present",       "bs": "zna",                     "en": "he knows" },
+    { "arabic": "عِلْمٌ",     "type": "verbal-noun",        "bs": "znanje, nauka",           "en": "knowledge, science" },
+    { "arabic": "عَالِمٌ",    "type": "active-participle",  "bs": "naučnik, učenjak",        "en": "scholar, scientist" },
+    { "arabic": "مَعْلُومٌ",  "type": "passive-participle", "bs": "poznato, znano",          "en": "known (thing)" },
+    { "arabic": "مُعَلِّمٌ",  "type": "noun",               "bs": "nastavnik, učitelj",      "en": "teacher" },
+    { "arabic": "مَعْلُومَاتٌ","type": "noun",              "bs": "informacije",             "en": "information" }
+  ],
+  "exampleSentence": {
+    "arabic": "الْعَالِمُ يَسْعَى دَائِمًا إِلَى اكْتِسَابِ الْمَعْرِفَةِ وَنَشْرِ الْعِلْمِ.",
+    "bs": "Učenjak uvijek teži sticanju znanja i širenju nauke.",
+    "en": "The scholar always strives to acquire knowledge and spread science."
+  },
+  "tags": ["B1", "education", "knowledge"]
+}

@@ -1,0 +1,419 @@
+{
+  "id": "b1-education",
+  "title": "Education",
+  "titleAr": "التَّعْلِيمُ وَالدِّرَاسَةُ",
+  "level": "B1",
+  "topic": "education",
+  "words": [
+    {
+      "arabic": "الْمَدْرَسَةُ",
+      "root": "د ر س",
+      "type": "noun",
+      "bs": "škola",
+      "en": "school",
+      "exampleArabic": "يَذْهَبُ الطِّفْلُ إِلَى الْمَدْرَسَةِ كُلَّ يَوْمٍ.",
+      "exampleBs": "Dijete ide u školu svaki dan.",
+      "exampleEn": "The child goes to school every day."
+    },
+    {
+      "arabic": "الْجَامِعَةُ",
+      "root": "ج م ع",
+      "type": "noun",
+      "bs": "univerzitet",
+      "en": "university",
+      "exampleArabic": "الْتَحَقَتْ سَارَةُ بِالْجَامِعَةِ هَذَا الْعَامَ.",
+      "exampleBs": "Sara se upisala na univerzitet ove godine.",
+      "exampleEn": "Sara enrolled in university this year."
+    },
+    {
+      "arabic": "الْفَصْلُ الدِّرَاسِيُّ",
+      "root": "ف ص ل",
+      "type": "noun",
+      "bs": "učionica, razred",
+      "en": "classroom",
+      "exampleArabic": "الْفَصْلُ الدِّرَاسِيُّ نَظِيفٌ وَمُرَتَّبٌ.",
+      "exampleBs": "Učionica je čista i uredna.",
+      "exampleEn": "The classroom is clean and tidy."
+    },
+    {
+      "arabic": "الْمُعَلِّمُ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "nastavnik, učitelj",
+      "en": "teacher",
+      "exampleArabic": "الْمُعَلِّمُ يَشْرَحُ الدَّرْسَ بِوُضُوحٍ.",
+      "exampleBs": "Nastavnik objašnjava lekciju jasno.",
+      "exampleEn": "The teacher explains the lesson clearly."
+    },
+    {
+      "arabic": "الطَّالِبُ",
+      "root": "ط ل ب",
+      "type": "noun",
+      "bs": "student, učenik",
+      "en": "student",
+      "exampleArabic": "الطَّالِبُ مُجْتَهِدٌ فِي دِرَاسَتِهِ.",
+      "exampleBs": "Student je marljiv u svom učenju.",
+      "exampleEn": "The student is diligent in his studies."
+    },
+    {
+      "arabic": "الدَّرْسُ",
+      "root": "د ر س",
+      "type": "noun",
+      "bs": "lekcija, čas",
+      "en": "lesson",
+      "exampleArabic": "بَدَأَ الدَّرْسُ فِي الثَّامِنَةِ صَبَاحًا.",
+      "exampleBs": "Čas je počeo u osam ujutro.",
+      "exampleEn": "The lesson started at eight in the morning."
+    },
+    {
+      "arabic": "الِامْتِحَانُ",
+      "root": "م ح ن",
+      "type": "noun",
+      "bs": "ispit",
+      "en": "exam",
+      "exampleArabic": "سَأَتَقَدَّمُ لِلِامْتِحَانِ غَدًا.",
+      "exampleBs": "Sutra ću polagati ispit.",
+      "exampleEn": "I will take the exam tomorrow."
+    },
+    {
+      "arabic": "الدَّرَجَةُ",
+      "root": "د ر ج",
+      "type": "noun",
+      "bs": "ocjena",
+      "en": "grade",
+      "exampleArabic": "حَصَلْتُ عَلَى دَرَجَةٍ عَالِيَةٍ فِي الِامْتِحَانِ.",
+      "exampleBs": "Dobio sam visoku ocjenu na ispitu.",
+      "exampleEn": "I got a high grade on the exam."
+    },
+    {
+      "arabic": "الْوَاجِبُ الْمَنْزِلِيُّ",
+      "root": "و ج ب",
+      "type": "noun",
+      "bs": "domaći zadatak",
+      "en": "homework",
+      "exampleArabic": "يَجِبُ أَنْ أُنْهِيَ الْوَاجِبَ الْمَنْزِلِيَّ الْيَوْمَ.",
+      "exampleBs": "Moram završiti domaći zadatak danas.",
+      "exampleEn": "I must finish the homework today."
+    },
+    {
+      "arabic": "الْمَكْتَبَةُ",
+      "root": "ك ت ب",
+      "type": "noun",
+      "bs": "biblioteka, knjižnica",
+      "en": "library",
+      "exampleArabic": "أَقْضِي وَقْتًا طَوِيلًا فِي الْمَكْتَبَةِ.",
+      "exampleBs": "Provodim dugo vremena u biblioteci.",
+      "exampleEn": "I spend a long time in the library."
+    },
+    {
+      "arabic": "الْمَادَّةُ",
+      "root": "م د د",
+      "type": "noun",
+      "bs": "predmet (školski)",
+      "en": "subject",
+      "exampleArabic": "الرِّيَاضِيَّاتُ مَادَّتِي الْمُفَضَّلَةُ.",
+      "exampleBs": "Matematika je moj omiljeni predmet.",
+      "exampleEn": "Mathematics is my favourite subject."
+    },
+    {
+      "arabic": "الْقَلَمُ",
+      "root": "ق ل م",
+      "type": "noun",
+      "bs": "olovka",
+      "en": "pencil",
+      "exampleArabic": "نَسِيتُ قَلَمِي فِي الْبَيْتِ.",
+      "exampleBs": "Zaboravio sam olovku kod kuće.",
+      "exampleEn": "I forgot my pencil at home."
+    },
+    {
+      "arabic": "الدَّفْتَرُ",
+      "root": "د ف ت ر",
+      "type": "noun",
+      "bs": "sveska, bilježnica",
+      "en": "notebook",
+      "exampleArabic": "كَتَبْتُ الْمُلَاحَظَاتِ فِي الدَّفْتَرِ.",
+      "exampleBs": "Zapisao sam bilješke u svesku.",
+      "exampleEn": "I wrote the notes in the notebook."
+    },
+    {
+      "arabic": "دَرَسَ",
+      "root": "د ر س",
+      "type": "verb",
+      "bs": "učio je, studirao je",
+      "en": "to study (past)",
+      "exampleArabic": "دَرَسَ أَحْمَدُ طَوِيلًا قَبْلَ الِامْتِحَانِ.",
+      "exampleBs": "Ahmed je dugo učio prije ispita.",
+      "exampleEn": "Ahmed studied for a long time before the exam."
+    },
+    {
+      "arabic": "تَعَلَّمَ",
+      "root": "ع ل م",
+      "type": "verb",
+      "bs": "naučio je, usvojio je",
+      "en": "to learn (past)",
+      "exampleArabic": "تَعَلَّمَ الطِّفْلُ الْكَلِمَاتِ الْجَدِيدَةَ بِسُرْعَةٍ.",
+      "exampleBs": "Dijete je brzo naučilo nove riječi.",
+      "exampleEn": "The child learned the new words quickly."
+    },
+    {
+      "arabic": "عَلَّمَ",
+      "root": "ع ل م",
+      "type": "verb",
+      "bs": "podučio je, naučio je (koga)",
+      "en": "to teach (past)",
+      "exampleArabic": "عَلَّمَ الْأُسْتَاذُ الطُّلَّابَ قَوَاعِدَ اللُّغَةِ.",
+      "exampleBs": "Profesor je podučio studente gramatičkim pravilima.",
+      "exampleEn": "The professor taught the students the rules of grammar."
+    },
+    {
+      "arabic": "قَرَأَ",
+      "root": "ق ر أ",
+      "type": "verb",
+      "bs": "čitao je",
+      "en": "to read (past)",
+      "exampleArabic": "قَرَأَتِ الطَّالِبَةُ الْكِتَابَ كَامِلًا.",
+      "exampleBs": "Učenica je pročitala cijelu knjigu.",
+      "exampleEn": "The female student read the entire book."
+    },
+    {
+      "arabic": "فَهِمَ",
+      "root": "ف ه م",
+      "type": "verb",
+      "bs": "razumio je",
+      "en": "to understand (past)",
+      "exampleArabic": "هَلْ فَهِمْتَ الدَّرْسَ الْجَدِيدَ؟",
+      "exampleBs": "Da li si razumio novu lekciju?",
+      "exampleEn": "Did you understand the new lesson?"
+    },
+    {
+      "arabic": "نَجَحَ",
+      "root": "ن ج ح",
+      "type": "verb",
+      "bs": "položio je, uspio je",
+      "en": "to pass, to succeed (past)",
+      "exampleArabic": "نَجَحَ فِي الِامْتِحَانِ بِتَفَوُّقٍ.",
+      "exampleBs": "Položio je ispit s odličnim uspjehom.",
+      "exampleEn": "He passed the exam with distinction."
+    },
+    {
+      "arabic": "رَسَبَ",
+      "root": "ر س ب",
+      "type": "verb",
+      "bs": "pao je (na ispitu), nije položio",
+      "en": "to fail (an exam) (past)",
+      "exampleArabic": "رَسَبَ فِي مَادَّةِ الْكِيمِيَاءِ.",
+      "exampleBs": "Pao je na predmetu hemije.",
+      "exampleEn": "He failed the chemistry subject."
+    },
+    {
+      "arabic": "الْمِنْحَةُ",
+      "root": "م ن ح",
+      "type": "noun",
+      "bs": "stipendija",
+      "en": "scholarship",
+      "exampleArabic": "حَصَلَ عَلَى مِنْحَةٍ دِرَاسِيَّةٍ لِلدِّرَاسَةِ فِي الْخَارِجِ.",
+      "exampleBs": "Dobio je stipendiju za studiranje u inostranstvu.",
+      "exampleEn": "He received a scholarship to study abroad."
+    },
+    {
+      "arabic": "الْعِلْمُ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "znanje, nauka",
+      "en": "knowledge, science",
+      "exampleArabic": "الْعِلْمُ نُورٌ وَالْجَهْلُ ظَلَامٌ.",
+      "exampleBs": "Znanje je svjetlost, a neznanje je tama.",
+      "exampleEn": "Knowledge is light and ignorance is darkness."
+    },
+    {
+      "arabic": "الْعِلْمُ التَّجْرِيبِيُّ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "nauka (eksperimentalna)",
+      "en": "science (empirical)",
+      "exampleArabic": "يُحِبُّ دِرَاسَةَ الْعُلُومِ التَّجْرِيبِيَّةِ.",
+      "exampleBs": "Voli studirati eksperimentalne nauke.",
+      "exampleEn": "He loves studying the experimental sciences."
+    },
+    {
+      "arabic": "الْبَحْثُ",
+      "root": "ب ح ث",
+      "type": "noun",
+      "bs": "istraživanje, rad",
+      "en": "research",
+      "exampleArabic": "كَتَبَتِ الطَّالِبَةُ بَحْثًا عَنْ تَغَيُّرِ الْمَنَاخِ.",
+      "exampleBs": "Studentica je napisala istraživački rad o klimatskim promjenama.",
+      "exampleEn": "The female student wrote a research paper on climate change."
+    },
+    {
+      "arabic": "التَّخَرُّجُ",
+      "root": "خ ر ج",
+      "type": "noun",
+      "bs": "diplomiranje, matura",
+      "en": "graduation",
+      "exampleArabic": "احْتَفَلَ بِتَخَرُّجِهِ مَعَ عَائِلَتِهِ.",
+      "exampleBs": "Proslavio je diplomiranje sa svojom porodicom.",
+      "exampleEn": "He celebrated his graduation with his family."
+    },
+    {
+      "arabic": "الْمَنْهَجُ",
+      "root": "ن ه ج",
+      "type": "noun",
+      "bs": "nastavni plan, kurikulum",
+      "en": "curriculum",
+      "exampleArabic": "تَمَّ تَحْدِيثُ الْمَنْهَجِ الدِّرَاسِيِّ هَذَا الْعَامَ.",
+      "exampleBs": "Nastavni plan je ažuriran ove godine.",
+      "exampleEn": "The curriculum was updated this year."
+    },
+    {
+      "arabic": "الشَّهَادَةُ",
+      "root": "ش ه د",
+      "type": "noun",
+      "bs": "diploma, svjedodžba",
+      "en": "certificate, diploma",
+      "exampleArabic": "حَصَلَ عَلَى شَهَادَةِ الْبَكَالُورْيُوسِ.",
+      "exampleBs": "Dobio je diplomu prvog ciklusa.",
+      "exampleEn": "He obtained a bachelor's degree certificate."
+    },
+    {
+      "arabic": "الْمُحَاضَرَةُ",
+      "root": "ح ض ر",
+      "type": "noun",
+      "bs": "predavanje",
+      "en": "lecture",
+      "exampleArabic": "حَضَرَتِ الطُّلَّابُ الْمُحَاضَرَةَ بِاهْتِمَامٍ.",
+      "exampleBs": "Studenti su prisustvovali predavanju s pažnjom.",
+      "exampleEn": "The students attended the lecture with interest."
+    },
+    {
+      "arabic": "الْمُخْتَبَرُ",
+      "root": "خ ب ر",
+      "type": "noun",
+      "bs": "laboratorija",
+      "en": "laboratory, lab",
+      "exampleArabic": "أَجْرَيْنَا التَّجَارِبَ فِي الْمُخْتَبَرِ.",
+      "exampleBs": "Proveli smo eksperimente u laboratoriji.",
+      "exampleEn": "We conducted experiments in the laboratory."
+    },
+    {
+      "arabic": "الْأُسْتَاذُ",
+      "root": "أ س ت ذ",
+      "type": "noun",
+      "bs": "profesor",
+      "en": "professor",
+      "exampleArabic": "الْأُسْتَاذُ مُتَخَصِّصٌ فِي الْأَدَبِ الْعَرَبِيِّ.",
+      "exampleBs": "Profesor je specijaliziran za arapsku književnost.",
+      "exampleEn": "The professor specialises in Arabic literature."
+    },
+    {
+      "arabic": "الْكِتَابُ",
+      "root": "ك ت ب",
+      "type": "noun",
+      "bs": "knjiga",
+      "en": "book",
+      "exampleArabic": "اشْتَرَيْتُ كِتَابًا جَدِيدًا مِنَ الْمَكْتَبَةِ.",
+      "exampleBs": "Kupio sam novu knjigu iz knjižare.",
+      "exampleEn": "I bought a new book from the bookstore."
+    },
+    {
+      "arabic": "السَّبُّورَةُ",
+      "root": "س ب ر",
+      "type": "noun",
+      "bs": "tabla, ploča",
+      "en": "blackboard",
+      "exampleArabic": "كَتَبَ الْمُعَلِّمُ الْإِجَابَةَ عَلَى السَّبُّورَةِ.",
+      "exampleBs": "Nastavnik je napisao odgovor na tabli.",
+      "exampleEn": "The teacher wrote the answer on the blackboard."
+    },
+    {
+      "arabic": "الصَّفُّ",
+      "root": "ص ف ف",
+      "type": "noun",
+      "bs": "razred (godina), oddjeljenje",
+      "en": "class, grade level",
+      "exampleArabic": "أَنَا فِي الصَّفِّ السَّابِعِ.",
+      "exampleBs": "Ja sam u sedmom razredu.",
+      "exampleEn": "I am in the seventh grade."
+    },
+    {
+      "arabic": "التَّعْلِيمُ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "obrazovanje, nastava",
+      "en": "education, teaching",
+      "exampleArabic": "التَّعْلِيمُ حَقٌّ لِكُلِّ إِنْسَانٍ.",
+      "exampleBs": "Obrazovanje je pravo svakog čovjeka.",
+      "exampleEn": "Education is a right for every person."
+    },
+    {
+      "arabic": "الْمَعْرِفَةُ",
+      "root": "ع ر ف",
+      "type": "noun",
+      "bs": "znanje, spoznaja",
+      "en": "knowledge, cognition",
+      "exampleArabic": "الْمَعْرِفَةُ تَفْتَحُ أَبْوَابَ الْمُسْتَقْبَلِ.",
+      "exampleBs": "Znanje otvara vrata budućnosti.",
+      "exampleEn": "Knowledge opens the doors of the future."
+    },
+    {
+      "arabic": "الْمَسْأَلَةُ",
+      "root": "س أ ل",
+      "type": "noun",
+      "bs": "zadatak, pitanje",
+      "en": "problem, question (academic)",
+      "exampleArabic": "حَلَّ الطَّالِبُ الْمَسْأَلَةَ الرِّيَاضِيَّةَ بِسُرْعَةٍ.",
+      "exampleBs": "Student je brzo riješio matematički zadatak.",
+      "exampleEn": "The student solved the mathematical problem quickly."
+    },
+    {
+      "arabic": "التَّقْرِيرُ",
+      "root": "ق ر ر",
+      "type": "noun",
+      "bs": "izvještaj, referat",
+      "en": "report",
+      "exampleArabic": "كَتَبْتُ تَقْرِيرًا عَنْ رِحْلَتِي الْعِلْمِيَّةِ.",
+      "exampleBs": "Napisao sam izvještaj o svom naučnom izletu.",
+      "exampleEn": "I wrote a report about my field trip."
+    },
+    {
+      "arabic": "الْمَعْهَدُ",
+      "root": "ع ه د",
+      "type": "noun",
+      "bs": "institut, zavod",
+      "en": "institute",
+      "exampleArabic": "تَدْرُسُ فِي مَعْهَدِ اللُّغَاتِ.",
+      "exampleBs": "Studira u Institutu za jezike.",
+      "exampleEn": "She studies at the Language Institute."
+    },
+    {
+      "arabic": "الدِّرَاسَةُ",
+      "root": "د ر س",
+      "type": "noun",
+      "bs": "učenje, studiranje",
+      "en": "studying",
+      "exampleArabic": "الدِّرَاسَةُ الْمُنْتَظَمَةُ تُحَقِّقُ النَّتَائِجَ الْجَيِّدَةَ.",
+      "exampleBs": "Redovno učenje daje dobre rezultate.",
+      "exampleEn": "Regular studying produces good results."
+    },
+    {
+      "arabic": "الثَّانَوِيَّةُ",
+      "root": "ث ن ي",
+      "type": "noun",
+      "bs": "srednja škola",
+      "en": "secondary school, high school",
+      "exampleArabic": "تَخَرَّجَ مِنَ الثَّانَوِيَّةِ الْعَامَّةِ بِتَفَوُّقٍ.",
+      "exampleBs": "Maturirao je iz opće srednje škole s odličnim uspjehom.",
+      "exampleEn": "He graduated from general secondary school with distinction."
+    },
+    {
+      "arabic": "التَّرْبِيَةُ",
+      "root": "ر ب و",
+      "type": "noun",
+      "bs": "odgoj, vaspitanje",
+      "en": "upbringing, education (moral)",
+      "exampleArabic": "التَّرْبِيَةُ الْجَيِّدَةُ تَبْدَأُ فِي الْبَيْتِ.",
+      "exampleBs": "Dobro vaspitanje počinje kod kuće.",
+      "exampleEn": "Good upbringing begins at home."
+    }
+  ]
+}

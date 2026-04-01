@@ -1,0 +1,20 @@
+{
+  "id": "r-j-a",
+  "root": "ر ج ع",
+  "rootMeaning": "returning, going back",
+  "level": "B1",
+  "forms": [
+    { "arabic": "رَجَعَ",     "type": "verb-past",          "bs": "vratio se",              "en": "he returned" },
+    { "arabic": "يَرْجِعُ",   "type": "verb-present",       "bs": "vraća se",               "en": "he returns" },
+    { "arabic": "رُجُوعٌ",    "type": "verbal-noun",        "bs": "povratak",               "en": "return, going back" },
+    { "arabic": "رَاجِعٌ",    "type": "active-participle",  "bs": "onaj koji se vraća",     "en": "one who returns" },
+    { "arabic": "مَرْجِعٌ",   "type": "noun",               "bs": "referenca, izvor",       "en": "reference, source" },
+    { "arabic": "مُرَاجَعَةٌ","type": "verbal-noun",        "bs": "revizija, ponavljanje",  "en": "revision, review" }
+  ],
+  "exampleSentence": {
+    "arabic": "رَجَعَ الطَّالِبُ إِلَى بَيْتِهِ بَعْدَ يَوْمٍ طَوِيلٍ فِي الْجَامِعَةِ.",
+    "bs": "Student se vratio kući nakon dugog dana na univerzitetu.",
+    "en": "The student returned home after a long day at university."
+  },
+  "tags": ["B1", "movement", "daily-life"]
+}

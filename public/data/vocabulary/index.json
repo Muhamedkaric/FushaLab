@@ -1,0 +1,22 @@
+{
+  "sets": [
+    { "id": "b1-education", "title": "Education", "titleAr": "التَّعْلِيمُ وَالدِّرَاسَةُ", "level": "B1", "topic": "education", "wordCount": 41 },
+    { "id": "b1-food", "title": "Food & Cooking", "titleAr": "الطَّعَامُ وَالطَّبْخُ", "level": "B1", "topic": "food", "wordCount": 45 },
+    { "id": "b1-general", "title": "Core Vocabulary", "titleAr": "الْمُفْرَدَاتُ الأَسَاسِيَّةُ", "level": "B1", "topic": "general", "wordCount": 70 },
+    { "id": "b1-health", "title": "Health & Wellbeing", "titleAr": "الصِّحَّةُ وَالْعَافِيَةُ", "level": "B1", "topic": "health", "wordCount": 47 },
+    { "id": "b1-social", "title": "Social Media", "titleAr": "التَّوَاصُلُ الاجْتِمَاعِيُّ", "level": "B1", "topic": "social", "wordCount": 40 },
+    { "id": "b1-travel", "title": "Travel Essentials", "titleAr": "مُفْرَدَاتُ السَّفَرِ", "level": "B1", "topic": "travel", "wordCount": 45 }
+  ],
+  "roots": [
+    { "id": "a-l-m", "root": "ع ل م", "rootMeaning": "knowledge, knowing, teaching", "level": "B1", "formCount": 7 },
+    { "id": "a-m-l", "root": "ع م ل", "rootMeaning": "working, doing, action", "level": "B1", "formCount": 7 },
+    { "id": "d-r-s", "root": "د ر س", "rootMeaning": "studying, learning, teaching", "level": "B1", "formCount": 7 },
+    { "id": "dh-h-b", "root": "ذ ه ب", "rootMeaning": "going, departure", "level": "B1", "formCount": 6 },
+    { "id": "f-h-m", "root": "ف ه م", "rootMeaning": "understanding, comprehension", "level": "B1", "formCount": 7 },
+    { "id": "k-l-m", "root": "ك ل م", "rootMeaning": "speaking, words, speech", "level": "B1", "formCount": 6 },
+    { "id": "k-t-b", "root": "ك ت ب", "rootMeaning": "writing, inscription", "level": "B1", "formCount": 7 },
+    { "id": "q-r-a", "root": "ق ر أ", "rootMeaning": "reading, recitation", "level": "B1", "formCount": 6 },
+    { "id": "r-j-a", "root": "ر ج ع", "rootMeaning": "returning, going back", "level": "B1", "formCount": 6 },
+    { "id": "s-f-r", "root": "س ف ر", "rootMeaning": "traveling, journey", "level": "B1", "formCount": 7 }
+  ]
+}

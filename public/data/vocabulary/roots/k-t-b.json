@@ -1,0 +1,21 @@
+{
+  "id": "k-t-b",
+  "root": "ك ت ب",
+  "rootMeaning": "writing, inscription",
+  "level": "B1",
+  "forms": [
+    { "arabic": "كَتَبَ",      "type": "verb-past",          "bs": "napisao je",        "en": "he wrote" },
+    { "arabic": "يَكْتُبُ",   "type": "verb-present",       "bs": "piše",              "en": "he writes" },
+    { "arabic": "كِتَابَةٌ",  "type": "verbal-noun",        "bs": "pisanje",           "en": "writing (act of)" },
+    { "arabic": "الْكِتَابُ", "type": "noun",               "bs": "knjiga",            "en": "book" },
+    { "arabic": "كَاتِبٌ",    "type": "active-participle",  "bs": "pisac",             "en": "writer, scribe" },
+    { "arabic": "مَكْتُوبٌ",  "type": "passive-participle", "bs": "napisano",          "en": "written (thing)" },
+    { "arabic": "مَكْتَبٌ",   "type": "noun-place",         "bs": "ured, kancelarija", "en": "office, desk" }
+  ],
+  "exampleSentence": {
+    "arabic": "كَتَبَ الطَّالِبُ رِسَالَةً طَوِيلَةً إِلَى أُسْتَاذِهِ.",
+    "bs": "Student je napisao dugo pismo svom profesoru.",
+    "en": "The student wrote a long letter to his professor."
+  },
+  "tags": ["B1", "education", "communication"]
+}

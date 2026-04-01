@@ -1,0 +1,459 @@
+{
+  "id": "b1-food",
+  "title": "Food & Cooking",
+  "titleAr": "الطَّعَامُ وَالطَّبْخُ",
+  "level": "B1",
+  "topic": "food",
+  "words": [
+    {
+      "arabic": "الطَّعَامُ",
+      "root": "ط ع م",
+      "type": "noun",
+      "bs": "hrana",
+      "en": "food",
+      "exampleArabic": "الطَّعَامُ الْعَرَبِيُّ غَنِيٌّ بِالنُّكْهَاتِ الْمُتَنَوِّعَةِ.",
+      "exampleBs": "Arapska hrana je bogata raznovrsnim okusima.",
+      "exampleEn": "Arabic food is rich in diverse flavours."
+    },
+    {
+      "arabic": "الطَّبْخُ",
+      "root": "ط ب خ",
+      "type": "noun",
+      "bs": "kuhanje",
+      "en": "cooking",
+      "exampleArabic": "تُحِبُّ الطَّبْخَ وَتُجَرِّبُ وَصَفَاتٍ جَدِيدَةً.",
+      "exampleBs": "Voli kuhati i isprobavati nove recepte.",
+      "exampleEn": "She loves cooking and tries new recipes."
+    },
+    {
+      "arabic": "الْمَطْعَمُ",
+      "root": "ط ع م",
+      "type": "noun",
+      "bs": "restoran",
+      "en": "restaurant",
+      "exampleArabic": "ذَهَبْنَا إِلَى مَطْعَمٍ شَرْقِيٍّ فِي وَسَطِ الْمَدِينَةِ.",
+      "exampleBs": "Otišli smo u istočnjački restoran u centru grada.",
+      "exampleEn": "We went to an Eastern restaurant in the city centre."
+    },
+    {
+      "arabic": "الْخُبْزُ",
+      "root": "خ ب ز",
+      "type": "noun",
+      "bs": "hljeb",
+      "en": "bread",
+      "exampleArabic": "يَأْكُلُ الْعَرَبُ الْخُبْزَ مَعَ مُعْظَمِ الْوَجَبَاتِ.",
+      "exampleBs": "Arapi jedu hljeb uz većinu obroka.",
+      "exampleEn": "Arabs eat bread with most meals."
+    },
+    {
+      "arabic": "الْأَرُزُّ",
+      "root": "أ ر ز",
+      "type": "noun",
+      "bs": "riža",
+      "en": "rice",
+      "exampleArabic": "طُبِخَ الْأَرُزُّ بِالزَّعْفَرَانِ وَالزُّبْدَةِ.",
+      "exampleBs": "Riža je kuhana sa šafranom i maslacem.",
+      "exampleEn": "The rice was cooked with saffron and butter."
+    },
+    {
+      "arabic": "اللَّحْمُ",
+      "root": "ل ح م",
+      "type": "noun",
+      "bs": "meso",
+      "en": "meat",
+      "exampleArabic": "يُفَضِّلُ لَحْمَ الضَّأْنِ الْمَشْوِيَّ عَلَى غَيْرِهِ.",
+      "exampleBs": "Preferira pečeno jagnjeće meso nad ostalim.",
+      "exampleEn": "He prefers grilled lamb meat over others."
+    },
+    {
+      "arabic": "الدَّجَاجُ",
+      "root": "د ج ج",
+      "type": "noun",
+      "bs": "piletina / kokoš",
+      "en": "chicken",
+      "exampleArabic": "طَهَتِ الدَّجَاجَ بِالثُّومِ وَعَصِيرِ اللَّيْمُونِ.",
+      "exampleBs": "Skuhala je piletinu s češnjakom i limunovim sokom.",
+      "exampleEn": "She cooked the chicken with garlic and lemon juice."
+    },
+    {
+      "arabic": "السَّمَكُ",
+      "root": "س م ك",
+      "type": "noun",
+      "bs": "riba",
+      "en": "fish",
+      "exampleArabic": "يَأْكُلُ السَّمَكَ مَرَّتَيْنِ فِي الْأُسْبُوعِ.",
+      "exampleBs": "Jede ribu dva puta sedmično.",
+      "exampleEn": "He eats fish twice a week."
+    },
+    {
+      "arabic": "الْخُضَرُ",
+      "root": "خ ض ر",
+      "type": "noun",
+      "bs": "povrće",
+      "en": "vegetables",
+      "exampleArabic": "اشْتَرَتِ الْخُضَرَ الطَّازَجَةَ مِنَ السُّوقِ.",
+      "exampleBs": "Kupila je svježe povrće s tržnice.",
+      "exampleEn": "She bought fresh vegetables from the market."
+    },
+    {
+      "arabic": "الْفَاكِهَةُ",
+      "root": "ف ك هـ",
+      "type": "noun",
+      "bs": "voće",
+      "en": "fruit",
+      "exampleArabic": "يَحْتَوِي الطَّبَقُ عَلَى فَاكِهَةٍ طَازَجَةٍ مُتَنَوِّعَةٍ.",
+      "exampleBs": "Na tanjiru se nalazi raznovrsno svježe voće.",
+      "exampleEn": "The plate contains a variety of fresh fruit."
+    },
+    {
+      "arabic": "التَّوَابِلُ",
+      "root": "ت ب ل",
+      "type": "noun",
+      "bs": "začini",
+      "en": "spices",
+      "exampleArabic": "الْمَطْبَخُ الْعَرَبِيُّ مَشْهُورٌ بِتَوَابِلِهِ الْغَنِيَّةِ.",
+      "exampleBs": "Arapska kuhinja je poznata po svojim bogatim začinima.",
+      "exampleEn": "Arabic cuisine is famous for its rich spices."
+    },
+    {
+      "arabic": "الزَّيْتُونُ",
+      "root": "ز ي ت",
+      "type": "noun",
+      "bs": "masline",
+      "en": "olives",
+      "exampleArabic": "يُقَدَّمُ الزَّيْتُونُ عَادَةً مَعَ الْفُطُورِ.",
+      "exampleBs": "Masline se obično poslužuju uz doručak.",
+      "exampleEn": "Olives are usually served with breakfast."
+    },
+    {
+      "arabic": "زَيْتُ الزَّيْتُونِ",
+      "root": "ز ي ت",
+      "type": "noun",
+      "bs": "maslinovo ulje",
+      "en": "olive oil",
+      "exampleArabic": "يُضَافُ زَيْتُ الزَّيْتُونِ إِلَى السَّلَطَةِ.",
+      "exampleBs": "Maslinovo ulje se dodaje u salatu.",
+      "exampleEn": "Olive oil is added to the salad."
+    },
+    {
+      "arabic": "الثُّومُ",
+      "root": "ث و م",
+      "type": "noun",
+      "bs": "češnjak",
+      "en": "garlic",
+      "exampleArabic": "الثُّومُ مَكُونٌ أَسَاسِيٌّ فِي كَثِيرٍ مِنَ الْأَطْبَاقِ الْعَرَبِيَّةِ.",
+      "exampleBs": "Češnjak je osnovna namirnica u mnogim arapskim jelima.",
+      "exampleEn": "Garlic is a key ingredient in many Arabic dishes."
+    },
+    {
+      "arabic": "الْبَصَلُ",
+      "root": "ب ص ل",
+      "type": "noun",
+      "bs": "luk",
+      "en": "onion",
+      "exampleArabic": "قَطَّعَتِ الْبَصَلَ وَأَضَافَتْهُ إِلَى الطَّاجِنِ.",
+      "exampleBs": "Isjeckala je luk i dodala ga u tajin.",
+      "exampleEn": "She chopped the onion and added it to the tagine."
+    },
+    {
+      "arabic": "الطَّمَاطِمُ",
+      "root": "ط م ط م",
+      "type": "noun",
+      "bs": "paradajz / rajčica",
+      "en": "tomatoes",
+      "exampleArabic": "الطَّمَاطِمُ الطَّازَجَةُ أَسَاسٌ لِصَنْعِ الصَّلْصَةِ.",
+      "exampleBs": "Svježi paradajz je osnova za pravljenje sosa.",
+      "exampleEn": "Fresh tomatoes are the base for making sauce."
+    },
+    {
+      "arabic": "الشَّايُ",
+      "root": "ش ي",
+      "type": "noun",
+      "bs": "čaj",
+      "en": "tea",
+      "exampleArabic": "يَشْرَبُ الشَّايَ بِالنَّعْنَاعِ بَعْدَ الْأَكْلِ.",
+      "exampleBs": "Pije čaj s mentom nakon jela.",
+      "exampleEn": "He drinks mint tea after eating."
+    },
+    {
+      "arabic": "الْقَهْوَةُ",
+      "root": "ق هـ و",
+      "type": "noun",
+      "bs": "kafa",
+      "en": "coffee",
+      "exampleArabic": "الْقَهْوَةُ الْعَرَبِيَّةُ تُقَدَّمُ بِالْهَيْلِ وَالزَّعْفَرَانِ.",
+      "exampleBs": "Arapska kafa se poslužuje s kardamomom i šafranom.",
+      "exampleEn": "Arabic coffee is served with cardamom and saffron."
+    },
+    {
+      "arabic": "الْعَصِيرُ",
+      "root": "ع ص ر",
+      "type": "noun",
+      "bs": "sok",
+      "en": "juice",
+      "exampleArabic": "شَرِبَتْ عَصِيرَ الرُّمَّانِ الطَّازَجِ.",
+      "exampleBs": "Popila je svježi sok od nara.",
+      "exampleEn": "She drank fresh pomegranate juice."
+    },
+    {
+      "arabic": "الْمَاءُ",
+      "root": "م و هـ",
+      "type": "noun",
+      "bs": "voda",
+      "en": "water",
+      "exampleArabic": "اشْرَبْ كَمِيَّةً كَافِيَةً مِنَ الْمَاءِ كُلَّ يَوْمٍ.",
+      "exampleBs": "Pij dovoljnu količinu vode svaki dan.",
+      "exampleEn": "Drink a sufficient amount of water every day."
+    },
+    {
+      "arabic": "الْوَجْبَةُ",
+      "root": "و ج ب",
+      "type": "noun",
+      "bs": "obrok",
+      "en": "meal",
+      "exampleArabic": "الْوَجْبَةُ الرَّئِيسِيَّةُ عِنْدَ الْعَرَبِ هِيَ الْغَدَاءُ.",
+      "exampleBs": "Glavni obrok kod Arapa je ručak.",
+      "exampleEn": "The main meal for Arabs is lunch."
+    },
+    {
+      "arabic": "الْفُطُورُ",
+      "root": "ف ط ر",
+      "type": "noun",
+      "bs": "doručak",
+      "en": "breakfast",
+      "exampleArabic": "الْفُطُورُ الْعَرَبِيُّ يَشْمَلُ الْجُبْنَةَ وَالزَّيْتُونَ وَالْبَيْضَ.",
+      "exampleBs": "Arapski doručak uključuje sir, masline i jaja.",
+      "exampleEn": "Arabic breakfast includes cheese, olives, and eggs."
+    },
+    {
+      "arabic": "الْغَدَاءُ",
+      "root": "غ د و",
+      "type": "noun",
+      "bs": "ručak",
+      "en": "lunch",
+      "exampleArabic": "يَجْتَمِعُ الْعَائِلَةُ عَلَى الْغَدَاءِ كُلَّ جُمُعَةٍ.",
+      "exampleBs": "Porodica se svake subote okupe na ručku.",
+      "exampleEn": "The family gathers for lunch every Friday."
+    },
+    {
+      "arabic": "الْعَشَاءُ",
+      "root": "ع ش و",
+      "type": "noun",
+      "bs": "večera",
+      "en": "dinner",
+      "exampleArabic": "تَنَاوَلُوا الْعَشَاءَ فِي حَدِيقَةِ الْبَيْتِ.",
+      "exampleBs": "Večerali su u kućnoj bašti.",
+      "exampleEn": "They had dinner in the home garden."
+    },
+    {
+      "arabic": "السُّوقُ",
+      "root": "س و ق",
+      "type": "noun",
+      "bs": "tržnica / pijaca",
+      "en": "market / souk",
+      "exampleArabic": "ذَهَبَتْ إِلَى السُّوقِ لِشِرَاءِ الْخُضَرِ وَالْفَاكِهَةِ.",
+      "exampleBs": "Otišla je na tržnicu da kupi povrće i voće.",
+      "exampleEn": "She went to the market to buy vegetables and fruit."
+    },
+    {
+      "arabic": "الْمَطْبَخُ",
+      "root": "ط ب خ",
+      "type": "noun",
+      "bs": "kuhinja",
+      "en": "kitchen",
+      "exampleArabic": "الْمَطْبَخُ الْعَرَبِيُّ مَشْهُورٌ فِي الْعَالَمِ كُلِّهِ.",
+      "exampleBs": "Arapska kuhinja je poznata u cijelom svijetu.",
+      "exampleEn": "Arabic cuisine is famous throughout the world."
+    },
+    {
+      "arabic": "الْوَصْفَةُ",
+      "root": "و ص ف",
+      "type": "noun",
+      "bs": "recept",
+      "en": "recipe",
+      "exampleArabic": "أَعْطَتْنِي جَدَّتِي وَصْفَةَ الْمَنْسَفِ التَّقْلِيدِيَّةَ.",
+      "exampleBs": "Baka mi je dala tradicionalni recept za mansaf.",
+      "exampleEn": "My grandmother gave me the traditional mansaf recipe."
+    },
+    {
+      "arabic": "الْحَلَالُ",
+      "root": "ح ل ل",
+      "type": "noun",
+      "bs": "halal",
+      "en": "halal",
+      "exampleArabic": "يَحْرِصُ عَلَى شِرَاءِ اللَّحْمِ الْحَلَالِ فَقَطْ.",
+      "exampleBs": "Brine se da kupuje samo halal meso.",
+      "exampleEn": "He makes sure to buy only halal meat."
+    },
+    {
+      "arabic": "الطَّعْمُ",
+      "root": "ط ع م",
+      "type": "noun",
+      "bs": "ukus / okus",
+      "en": "taste / flavour",
+      "exampleArabic": "طَعْمُ الْكُبَّةِ لَا يُوصَفُ مِنْ رَوْعَتِهِ.",
+      "exampleBs": "Okus kubbe ne može se opisati koliko je prefinjen.",
+      "exampleEn": "The taste of kibbeh is indescribably wonderful."
+    },
+    {
+      "arabic": "الْمُكَوِّنُ",
+      "root": "ك و ن",
+      "type": "noun",
+      "bs": "sastojak",
+      "en": "ingredient",
+      "exampleArabic": "الْمُكَوِّنَاتُ بَسِيطَةٌ لَكِنَّ النَّتِيجَةَ رَائِعَةٌ.",
+      "exampleBs": "Sastojci su jednostavni, ali rezultat je odličan.",
+      "exampleEn": "The ingredients are simple but the result is wonderful."
+    },
+    {
+      "arabic": "طَبَخَ",
+      "root": "ط ب خ",
+      "type": "verb",
+      "bs": "kuhati",
+      "en": "to cook",
+      "exampleArabic": "طَبَخَ وَجْبَةً شَهِيَّةً لِضُيُوفِهِ.",
+      "exampleBs": "Skuhao je ukusno jelo za svoje goste.",
+      "exampleEn": "He cooked a delicious meal for his guests."
+    },
+    {
+      "arabic": "شَوَى",
+      "root": "ش و ي",
+      "type": "verb",
+      "bs": "peći na žaru / roštiljati",
+      "en": "to grill / to roast",
+      "exampleArabic": "شَوَى اللَّحْمَ عَلَى الْفَحْمِ مُدَّةَ سَاعَةٍ.",
+      "exampleBs": "Pekao je meso na ugljenu sat vremena.",
+      "exampleEn": "He grilled the meat on charcoal for one hour."
+    },
+    {
+      "arabic": "قَلَى",
+      "root": "ق ل ي",
+      "type": "verb",
+      "bs": "pržiti",
+      "en": "to fry",
+      "exampleArabic": "قَلَتِ الْبَيْضَ وَالْخُضَرَ فِي الزَّيْتِ.",
+      "exampleBs": "Pržila je jaja i povrće na ulju.",
+      "exampleEn": "She fried the eggs and vegetables in oil."
+    },
+    {
+      "arabic": "خَبَزَ",
+      "root": "خ ب ز",
+      "type": "verb",
+      "bs": "peći (u pećnici)",
+      "en": "to bake",
+      "exampleArabic": "خَبَزَتِ الْخُبْزَ فِي الْفُرْنِ الطِّينِيِّ.",
+      "exampleBs": "Pekla je hljeb u glinenoj peći.",
+      "exampleEn": "She baked the bread in the clay oven."
+    },
+    {
+      "arabic": "أَضَافَ",
+      "root": "ض ي ف",
+      "type": "verb",
+      "bs": "dodati",
+      "en": "to add",
+      "exampleArabic": "أَضَافَ الْمِلْحَ وَالْفِلْفَلَ إِلَى الطَّبَقِ.",
+      "exampleBs": "Dodao je sol i biber u jelo.",
+      "exampleEn": "He added salt and pepper to the dish."
+    },
+    {
+      "arabic": "ذَاقَ",
+      "root": "ذ و ق",
+      "type": "verb",
+      "bs": "kušati / probati",
+      "en": "to taste / to try",
+      "exampleArabic": "ذَاقَتِ الطَّبَاخَةُ الْحَسَاءَ قَبْلَ تَقْدِيمِهِ.",
+      "exampleBs": "Kuharica je probala juhu prije posluživanja.",
+      "exampleEn": "The cook tasted the soup before serving it."
+    },
+    {
+      "arabic": "قَطَّعَ",
+      "root": "ق ط ع",
+      "type": "verb",
+      "bs": "isjeći / narezati",
+      "en": "to chop / to cut",
+      "exampleArabic": "قَطَّعَ الْخُضَرَ إِلَى قِطَعٍ صَغِيرَةٍ.",
+      "exampleBs": "Izrezao je povrće na male komade.",
+      "exampleEn": "He chopped the vegetables into small pieces."
+    },
+    {
+      "arabic": "تَنَاوَلَ",
+      "root": "ن و ل",
+      "type": "verb",
+      "bs": "uzeti / pojesti / objedovati",
+      "en": "to eat / to have (a meal)",
+      "exampleArabic": "تَنَاوَلَتِ الْعَائِلَةُ الْعَشَاءَ مَعًا.",
+      "exampleBs": "Porodica je zajedno večerala.",
+      "exampleEn": "The family had dinner together."
+    },
+    {
+      "arabic": "لَذِيذٌ",
+      "root": "ل ذ ذ",
+      "type": "adjective",
+      "bs": "ukusan",
+      "en": "delicious / tasty",
+      "exampleArabic": "الْحُمُّصُ الَّذِي صَنَعَتْهُ لَذِيذٌ جِدًّا.",
+      "exampleBs": "Humus koji je napravila je veoma ukusan.",
+      "exampleEn": "The hummus she made is very delicious."
+    },
+    {
+      "arabic": "حَارٌّ",
+      "root": "ح ر ر",
+      "type": "adjective",
+      "bs": "ljut / vruć",
+      "en": "spicy / hot",
+      "exampleArabic": "هَذَا الطَّبَقُ حَارٌّ جِدًّا بِسَبَبِ الْفِلْفَلِ الْأَحْمَرِ.",
+      "exampleBs": "Ovo jelo je veoma ljuto zbog crvene paprike.",
+      "exampleEn": "This dish is very spicy because of the red pepper."
+    },
+    {
+      "arabic": "طَازَجٌ",
+      "root": "ط ز ج",
+      "type": "adjective",
+      "bs": "svjež",
+      "en": "fresh",
+      "exampleArabic": "الْخُضَرُ الطَّازَجَةُ أَفْضَلُ مِنَ الْمُجَمَّدَةِ.",
+      "exampleBs": "Svježe povrće je bolje od zamrznutog.",
+      "exampleEn": "Fresh vegetables are better than frozen ones."
+    },
+    {
+      "arabic": "حُلْوٌ",
+      "root": "ح ل و",
+      "type": "adjective",
+      "bs": "sladak",
+      "en": "sweet",
+      "exampleArabic": "الْبَلَحُ حُلْوٌ وَمُفِيدٌ لِلصِّحَّةِ.",
+      "exampleBs": "Hurma je slatka i korisna za zdravlje.",
+      "exampleEn": "Dates are sweet and beneficial for health."
+    },
+    {
+      "arabic": "مَالِحٌ",
+      "root": "م ل ح",
+      "type": "adjective",
+      "bs": "slan",
+      "en": "salty",
+      "exampleArabic": "الشَّوْرَبَةُ مَالِحَةٌ قَلِيلًا، فَأَضَافَ الْمَاءَ.",
+      "exampleBs": "Čorba je malo slana, pa je dodao vodu.",
+      "exampleEn": "The soup is a little salty, so he added water."
+    },
+    {
+      "arabic": "الْحُمُّصُ",
+      "root": "ح م ص",
+      "type": "noun",
+      "bs": "humus",
+      "en": "hummus",
+      "exampleArabic": "الْحُمُّصُ طَبَقٌ شَعْبِيٌّ مَشْهُورٌ فِي بِلَادِ الشَّامِ.",
+      "exampleBs": "Humus je poznato narodno jelo u levantskim zemljama.",
+      "exampleEn": "Hummus is a well-known popular dish in the Levant region."
+    },
+    {
+      "arabic": "التَّمْرُ",
+      "root": "ت م ر",
+      "type": "noun",
+      "bs": "hurma / datula",
+      "en": "dates (fruit)",
+      "exampleArabic": "يُقَدَّمُ التَّمْرُ مَعَ الْقَهْوَةِ الْعَرَبِيَّةِ عِنْدَ الضِّيَافَةِ.",
+      "exampleBs": "Hurma se poslužuje uz arapsku kafu pri ugošćavanju.",
+      "exampleEn": "Dates are served with Arabic coffee when hosting guests."
+    }
+  ]
+}

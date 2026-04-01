@@ -1,0 +1,20 @@
+{
+  "id": "q-r-a",
+  "root": "ق ر أ",
+  "rootMeaning": "reading, recitation",
+  "level": "B1",
+  "forms": [
+    { "arabic": "قَرَأَ",      "type": "verb-past",          "bs": "čitao je",                 "en": "he read" },
+    { "arabic": "يَقْرَأُ",    "type": "verb-present",       "bs": "čita",                     "en": "he reads" },
+    { "arabic": "قِرَاءَةٌ",   "type": "verbal-noun",        "bs": "čitanje",                  "en": "reading" },
+    { "arabic": "قَارِئٌ",     "type": "active-participle",  "bs": "čitalac, onaj koji čita",  "en": "reader" },
+    { "arabic": "مَقْرُوءٌ",   "type": "passive-participle", "bs": "pročitano",                "en": "read (thing), legible" },
+    { "arabic": "الْقُرْآنُ",  "type": "noun",               "bs": "Kur'an",                   "en": "the Quran (the recitation)" }
+  ],
+  "exampleSentence": {
+    "arabic": "يَقْرَأُ مُحَمَّدٌ كِتَابًا جَدِيدًا كُلَّ أُسْبُوعٍ.",
+    "bs": "Muhammed čita novu knjigu svake sedmice.",
+    "en": "Muhammad reads a new book every week."
+  },
+  "tags": ["B1", "education", "literacy"]
+}

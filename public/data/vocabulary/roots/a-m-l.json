@@ -1,0 +1,21 @@
+{
+  "id": "a-m-l",
+  "root": "ع م ل",
+  "rootMeaning": "working, doing, action",
+  "level": "B1",
+  "forms": [
+    { "arabic": "عَمِلَ",     "type": "verb-past",          "bs": "radio je",               "en": "he worked" },
+    { "arabic": "يَعْمَلُ",   "type": "verb-present",       "bs": "radi",                   "en": "he works" },
+    { "arabic": "عَمَلٌ",     "type": "verbal-noun",        "bs": "rad, posao, djelo",      "en": "work, deed, action" },
+    { "arabic": "عَامِلٌ",    "type": "active-participle",  "bs": "radnik",                 "en": "worker" },
+    { "arabic": "مَعْمُولٌ",  "type": "passive-participle", "bs": "urađeno, napravljeno",   "en": "done, made" },
+    { "arabic": "مَعْمَلٌ",   "type": "noun-place",         "bs": "radionica, laboratorija","en": "workshop, factory" },
+    { "arabic": "عَمَلِيٌّ",  "type": "adjective",          "bs": "praktičan",              "en": "practical" }
+  ],
+  "exampleSentence": {
+    "arabic": "يَعْمَلُ أَبِي طَبِيبًا فِي مُسْتَشْفَى كَبِيرٍ مُنْذُ عَشْرِ سَنَوَاتٍ.",
+    "bs": "Moj otac radi kao ljekar u velikoj bolnici već deset godina.",
+    "en": "My father has worked as a doctor in a large hospital for ten years."
+  },
+  "tags": ["B1", "work", "daily-life"]
+}

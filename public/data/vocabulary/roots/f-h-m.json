@@ -1,0 +1,21 @@
+{
+  "id": "f-h-m",
+  "root": "ف ه م",
+  "rootMeaning": "understanding, comprehension",
+  "level": "B1",
+  "forms": [
+    { "arabic": "فَهِمَ",     "type": "verb-past",          "bs": "razumio je",                 "en": "he understood" },
+    { "arabic": "يَفْهَمُ",   "type": "verb-present",       "bs": "razumije",                   "en": "he understands" },
+    { "arabic": "فَهْمٌ",     "type": "verbal-noun",        "bs": "razumijevanje",              "en": "understanding, comprehension" },
+    { "arabic": "فَاهِمٌ",    "type": "active-participle",  "bs": "onaj koji razumije",         "en": "one who understands" },
+    { "arabic": "مَفْهُومٌ",  "type": "passive-participle", "bs": "razumljivo, shvatljivo",     "en": "understood, comprehensible" },
+    { "arabic": "مَفْهُومٌ",  "type": "noun",               "bs": "pojam, koncept",             "en": "concept, notion" },
+    { "arabic": "تَفَاهُمٌ",  "type": "verbal-noun",        "bs": "međusobno razumijevanje",    "en": "mutual understanding" }
+  ],
+  "exampleSentence": {
+    "arabic": "لَمْ يَفْهَمِ الطَّالِبُ الْقَاعِدَةَ النَّحْوِيَّةَ فَسَأَلَ الْمُعَلِّمَ.",
+    "bs": "Student nije razumio gramatičko pravilo pa je upitao nastavnika.",
+    "en": "The student did not understand the grammatical rule so he asked the teacher."
+  },
+  "tags": ["B1", "education", "cognition"]
+}

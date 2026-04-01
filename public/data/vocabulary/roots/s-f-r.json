@@ -1,0 +1,21 @@
+{
+  "id": "s-f-r",
+  "root": "س ف ر",
+  "rootMeaning": "traveling, journey",
+  "level": "B1",
+  "forms": [
+    { "arabic": "سَافَرَ",    "type": "verb-past",          "bs": "putovao je",             "en": "he travelled" },
+    { "arabic": "يُسَافِرُ",  "type": "verb-present",       "bs": "putuje",                 "en": "he travels" },
+    { "arabic": "سَفَرٌ",     "type": "verbal-noun",        "bs": "putovanje",              "en": "travel, journey" },
+    { "arabic": "مُسَافِرٌ",  "type": "active-participle",  "bs": "putnik",                 "en": "traveller" },
+    { "arabic": "سَفَارَةٌ",  "type": "noun",               "bs": "ambasada",               "en": "embassy" },
+    { "arabic": "سَفَرٌ",     "type": "noun",               "bs": "putna isprava, pasoš",   "en": "travel document, passport" },
+    { "arabic": "مِسْفَرٌ",   "type": "noun-place",         "bs": "mjesto polaska",         "en": "place of departure" }
+  ],
+  "exampleSentence": {
+    "arabic": "سَافَرَ الطَّالِبُ إِلَى مِصْرَ لِدِرَاسَةِ اللُّغَةِ الْعَرَبِيَّةِ.",
+    "bs": "Student je putovao u Egipat da studira arapski jezik.",
+    "en": "The student travelled to Egypt to study the Arabic language."
+  },
+  "tags": ["B1", "travel", "daily-life"]
+}
