@@ -1,0 +1,125 @@
+{
+  "id": "conv-b2-004",
+  "level": "B2",
+  "situation": "bank",
+  "title": "Opening a Bank Account",
+  "titleAr": "فَتْحُ حِسَابٍ مَصْرَفِيٍّ",
+  "titleBs": "Otvaranje bankovnog računa",
+  "estimatedMinutes": 7,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْعَمِيلُ",
+      "arabic": "السَّلامُ عَلَيْكُمْ. أَوَدُّ الاسْتِفْسَارَ عَنْ إِجْرَاءَاتِ فَتْحِ حِسَابٍ مَصْرَفِيٍّ لَدَيْكُمْ.",
+      "bs": "Mir vam. Htio bih se raspitati o procedurama otvaranja bankovnog računa kod vas.",
+      "en": "Peace be upon you. I would like to inquire about the procedures for opening a bank account with you."
+    },
+    {
+      "speaker": "B",
+      "role": "Bank Officer",
+      "roleAr": "مُوَظَّفُ الْبَنْكِ",
+      "arabic": "وَعَلَيْكُمُ السَّلامُ. أَهْلاً بِكَ. نَعْرِضُ عَلَيْكَ عِدَّةَ أَنْوَاعٍ مِنَ الْحِسَابَاتِ: الْحِسَابُ الْجَارِيُّ، وَحِسَابُ التَّوْفِيرِ، وَالْحِسَابُ الإِسْلامِيُّ. أَيُّهَا يُنَاسِبُ احْتِيَاجَاتِكَ؟",
+      "bs": "I vama mir. Dobrodošli. Nudimo vam nekoliko vrsta računa: tekući račun, štedni račun i islamski račun. Koji odgovara vašim potrebama?",
+      "en": "And upon you peace. Welcome. We offer you several types of accounts: current account, savings account, and Islamic account. Which one suits your needs?"
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْعَمِيلُ",
+      "arabic": "أَنَا مُهْتَمٌّ بِالْحِسَابِ الإِسْلامِيِّ الَّذِي لا يَشْتَمِلُ عَلَى فَوَائِدَ رِبَوِيَّةٍ. هَلْ يُمْكِنُكَ أَنْ تَشْرَحَ لِي آلِيَّةَ عَمَلِهِ؟",
+      "bs": "Zainteresovan sam za islamski račun koji ne uključuje kamate. Možete li mi objasniti kako funkcioniše?",
+      "en": "I am interested in the Islamic account that does not include usurious interest. Can you explain to me how it works?"
+    },
+    {
+      "speaker": "B",
+      "role": "Bank Officer",
+      "roleAr": "مُوَظَّفُ الْبَنْكِ",
+      "arabic": "بِالتَّأْكِيدِ. الْحِسَابُ الإِسْلامِيُّ يَعْمَلُ وَفْقَ مَبَادِئِ الشَّرِيعَةِ الإِسْلامِيَّةِ؛ لا فَوَائِدَ رِبَوِيَّةَ، وَيُمْكِنُ الاشْتِرَاكُ فِي صِيَغِ التَّمْوِيلِ الْحَلالِ كَالْمُرَابَحَةِ وَالإِجَارَةِ.",
+      "bs": "Svakako. Islamski račun funkcioniše po principima islamskog šerijata; nema kamatnih kamata, a može se učestvovati u halal oblicima finansiranja kao što su murabaha i idžara.",
+      "en": "Certainly. The Islamic account operates according to the principles of Islamic law; no usurious interest, and one can participate in halal financing forms such as murabaha and leasing."
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْعَمِيلُ",
+      "arabic": "مَا هِيَ الْوَثَائِقُ الْمَطْلُوبَةُ لِفَتْحِ هَذَا الْحِسَابِ؟ وَهَلْ هُنَاكَ حَدٌّ أَدْنَى لِلرَّصِيدِ الأَوَّلِيِّ؟",
+      "bs": "Koji dokumenti su potrebni za otvaranje ovog računa? I postoji li minimalni iznos za početni saldo?",
+      "en": "What documents are required to open this account? And is there a minimum initial balance?"
+    },
+    {
+      "speaker": "B",
+      "role": "Bank Officer",
+      "roleAr": "مُوَظَّفُ الْبَنْكِ",
+      "arabic": "تَحْتَاجُ إِلَى بِطَاقَةِ الْهُوِيَّةِ الْوَطَنِيَّةِ سَارِيَةِ الْمَفْعُولِ، وَنُسْخَةٍ مِنْ إِثْبَاتِ الإِقَامَةِ، وَصُورَةٍ شَخْصِيَّةٍ حَدِيثَةٍ. أَمَّا الرَّصِيدُ الأَوَّلِيُّ فَيَبْدَأُ مِنْ خَمْسِمِائَةِ وَحْدَةٍ مِنَ الْعُمْلَةِ الْمَحَلِّيَّةِ.",
+      "bs": "Trebate važnu ličnu kartu, kopiju dokaza o boravištu i aktualnu ličnu fotografiju. Što se tiče početnog salda, počinje od petsto jedinica domaće valute.",
+      "en": "You need a valid national ID card, a copy of proof of residence, and a recent personal photograph. As for the initial balance, it starts from five hundred units of local currency."
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْعَمِيلُ",
+      "arabic": "وَمَا هِيَ الرُّسُومُ الشَّهْرِيَّةُ أَوِ السَّنَوِيَّةُ الْمُتَرَتِّبَةُ عَلَى هَذَا الْحِسَابِ؟",
+      "bs": "A kakve su mjesečne ili godišnje naknade vezane za ovaj račun?",
+      "en": "And what are the monthly or annual fees associated with this account?"
+    },
+    {
+      "speaker": "B",
+      "role": "Bank Officer",
+      "roleAr": "مُوَظَّفُ الْبَنْكِ",
+      "arabic": "لا تُوجَدُ رُسُومٌ شَهْرِيَّةٌ طَالَمَا بَقِيَ الرَّصِيدُ فَوْقَ الْحَدِّ الأَدْنَى. تُفْرَضُ رُسُومٌ رَمْزِيَّةٌ سَنَوِيَّةٌ لِإِدَارَةِ الْحِسَابِ فَقَطْ، وَهِيَ مُنَافِسَةٌ مُقَارَنَةً بِالسُّوقِ.",
+      "bs": "Ne postoje mjesečne naknade sve dok saldo ostaje iznad minimuma. Naplaćuju se samo simbolične godišnje naknade za upravljanje računom, koje su konkurentne u poređenju s tržištem.",
+      "en": "There are no monthly fees as long as the balance remains above the minimum. Only symbolic annual account management fees are charged, and they are competitive compared to the market."
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْعَمِيلُ",
+      "arabic": "هَلْ تُوَفِّرُونَ خِدْمَةَ الصَّيْرَفَةِ الإِلِكْتِرُونِيَّةِ؟ وَهَلْ يُمْكِنُنِي إِجْرَاءُ التَّحْوِيلاتِ الدَّوْلِيَّةِ عَبْرَ التَّطْبِيقِ؟",
+      "bs": "Pružate li uslugu elektronskog bankarstva? I mogu li obavljati međunarodne transfere putem aplikacije?",
+      "en": "Do you provide electronic banking services? And can I make international transfers through the application?"
+    },
+    {
+      "speaker": "B",
+      "role": "Bank Officer",
+      "roleAr": "مُوَظَّفُ الْبَنْكِ",
+      "arabic": "نَعَمْ، تَطْبِيقُنَا الذَّكِيُّ مُتَاحٌ عَلَى جَمِيعِ الأَجْهِزَةِ، وَيُتِيحُ لَكَ إِجْرَاءَ التَّحْوِيلاتِ الْمَحَلِّيَّةِ وَالدَّوْلِيَّةِ، وَمُتَابَعَةَ حَرَكَةِ الْحِسَابِ، وَدَفْعَ الْفَوَاتِيرِ بِسُهُولَةٍ وَأَمَانٍ.",
+      "bs": "Da, naša pametna aplikacija je dostupna na svim uređajima i omogućava vam obavljanje lokalnih i međunarodnih transfera, praćenje kretanja računa i plaćanje računa jednostavno i sigurno.",
+      "en": "Yes, our smart application is available on all devices and allows you to make local and international transfers, monitor account activity, and pay bills easily and securely."
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْعَمِيلُ",
+      "arabic": "مُمْتَازٌ. وَهَلْ تُصْدِرُونَ بِطَاقَةَ صَرَافَةٍ مَجَّانِيَّةً مَعَ الْحِسَابِ؟",
+      "bs": "Odlično. Izdajete li besplatnu debitnu karticu uz račun?",
+      "en": "Excellent. Do you issue a free debit card with the account?"
+    },
+    {
+      "speaker": "B",
+      "role": "Bank Officer",
+      "roleAr": "مُوَظَّفُ الْبَنْكِ",
+      "arabic": "نَعَمْ، تَشْمَلُ الْخِدْمَةُ بِطَاقَةَ صَرَافَةٍ مُجَانِيَّةً لِلسَّنَةِ الأُولَى. يُمْكِنُكَ اسْتِخْدَامُهَا لِلسَّحْبِ مِنْ أَجْهِزَةِ الصَّرَّافِ الآلِيِّ وَالدَّفْعِ الإِلِكْتِرُونِيِّ.",
+      "bs": "Da, usluga uključuje besplatnu debitnu karticu za prvu godinu. Možete je koristiti za podizanje novca s bankomata i elektronsko plaćanje.",
+      "en": "Yes, the service includes a free debit card for the first year. You can use it for ATM withdrawals and electronic payments."
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْعَمِيلُ",
+      "arabic": "شُكْرًا جَزِيلاً عَلَى هَذِهِ الْمَعْلُومَاتِ الْوَافِيَةِ. أُرِيدُ فَتْحَ الْحِسَابِ الإِسْلامِيِّ الآنَ. مَاذَا أَفْعَلُ؟",
+      "bs": "Hvala lijepo na ovim iscrpnim informacijama. Želim otvoriti islamski račun sada. Šta trebam učiniti?",
+      "en": "Thank you very much for these comprehensive details. I want to open the Islamic account now. What should I do?"
+    },
+    {
+      "speaker": "B",
+      "role": "Bank Officer",
+      "roleAr": "مُوَظَّفُ الْبَنْكِ",
+      "arabic": "تَفَضَّلْ بِتَعْبِئَةِ هَذَا النَّمُوذَجِ، وَتَزْوِيدِنَا بِنُسَخٍ مِنَ الْوَثَائِقِ الْمَطْلُوبَةِ. سَيَكُونُ حِسَابُكَ جَاهِزًا خِلالَ يَوْمَيْنِ عَمَلٍ.",
+      "bs": "Izvolite ispuniti ovaj obrazac i dostaviti nam kopije potrebnih dokumenata. Vaš račun bit će spreman za dva radna dana.",
+      "en": "Please fill in this form and provide us with copies of the required documents. Your account will be ready within two business days."
+    }
+  ],
+  "grammarFocus": "conditional and procedural sentences with حَتَّى and طَالَمَا",
+  "tags": ["bank", "formal", "B2", "finance", "Islamic banking"]
+}

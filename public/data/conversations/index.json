@@ -1,0 +1,282 @@
+{
+  "dialogues": [
+    {
+      "id": "conv-b1-001",
+      "level": "B1",
+      "situation": "hotel",
+      "title": "Booking a Hotel Room",
+      "titleAr": "حَجْزُ غُرْفَةٍ فِي الْفُنْدُقِ",
+      "titleBs": "Rezervacija hotelske sobe",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["hotel", "travel", "B1"]
+    },
+    {
+      "id": "conv-b1-002",
+      "level": "B1",
+      "situation": "restaurant",
+      "title": "Ordering at a Restaurant",
+      "titleAr": "الطَّلَبُ فِي الْمَطْعَمِ",
+      "titleBs": "Naručivanje u restoranu",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["restaurant", "food", "B1"]
+    },
+    {
+      "id": "conv-b1-003",
+      "level": "B1",
+      "situation": "airport",
+      "title": "At the Airport",
+      "titleAr": "فِي الْمَطَارِ",
+      "titleBs": "Na aerodromu",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["airport", "travel", "B1"]
+    },
+    {
+      "id": "conv-b1-004",
+      "level": "B1",
+      "situation": "doctor",
+      "title": "At the Doctor's",
+      "titleAr": "عِنْدَ الطَّبِيبِ",
+      "titleBs": "Kod ljekara",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["doctor", "health", "B1"]
+    },
+    {
+      "id": "conv-b1-005",
+      "level": "B1",
+      "situation": "university",
+      "title": "University Registration",
+      "titleAr": "التَّسْجِيلُ فِي الْجَامِعَةِ",
+      "titleBs": "Upis na univerzitet",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["university", "education", "B1"]
+    },
+    {
+      "id": "conv-b1-006",
+      "level": "B1",
+      "situation": "shopping",
+      "title": "At the Market",
+      "titleAr": "فِي السُّوقِ",
+      "titleBs": "Na pijaci",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["shopping", "market", "B1"]
+    },
+    {
+      "id": "conv-b1-007",
+      "level": "B1",
+      "situation": "directions",
+      "title": "Asking for Directions",
+      "titleAr": "طَلَبُ الاتِّجَاهَاتِ",
+      "titleBs": "Traženje uputa za put",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["directions", "city", "B1"]
+    },
+    {
+      "id": "conv-b1-008",
+      "level": "B1",
+      "situation": "introduction",
+      "title": "Meeting Someone New",
+      "titleAr": "التَّعَارُفُ",
+      "titleBs": "Upoznavanje",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["introduction", "socializing", "B1"]
+    },
+    {
+      "id": "conv-b1-009",
+      "level": "B1",
+      "situation": "pharmacy",
+      "title": "At the Pharmacy",
+      "titleAr": "فِي الصَّيْدَلِيَّةِ",
+      "titleBs": "U apoteci",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["pharmacy", "health", "B1"]
+    },
+    {
+      "id": "conv-b1-010",
+      "level": "B1",
+      "situation": "transport",
+      "title": "Taking a Taxi",
+      "titleAr": "رُكُوبُ سَيَّارَةِ الأُجْرَةِ",
+      "titleBs": "Vožnja taksijem",
+      "lineCount": 14,
+      "estimatedMinutes": 5,
+      "tags": ["transport", "taxi", "travel", "B1"]
+    },
+    {
+      "id": "conv-b2-001",
+      "level": "B2",
+      "situation": "business",
+      "title": "Opening a Business Meeting",
+      "titleAr": "افْتِتَاحُ اجْتِمَاعِ الْعَمَلِ",
+      "titleBs": "Otvaranje poslovnog sastanka",
+      "lineCount": 14,
+      "estimatedMinutes": 7,
+      "tags": ["business", "formal", "B2", "meetings"]
+    },
+    {
+      "id": "conv-b2-002",
+      "level": "B2",
+      "situation": "interview",
+      "title": "Job Interview",
+      "titleAr": "مُقَابَلَةُ عَمَلٍ",
+      "titleBs": "Razgovor za posao",
+      "lineCount": 14,
+      "estimatedMinutes": 8,
+      "tags": ["interview", "formal", "B2", "career"]
+    },
+    {
+      "id": "conv-b2-003",
+      "level": "B2",
+      "situation": "media",
+      "title": "News Interview",
+      "titleAr": "مُقَابَلَةٌ صَحَفِيَّةٌ",
+      "titleBs": "Novinski intervju",
+      "lineCount": 14,
+      "estimatedMinutes": 8,
+      "tags": ["media", "formal", "B2", "economics", "interview"]
+    },
+    {
+      "id": "conv-b2-004",
+      "level": "B2",
+      "situation": "bank",
+      "title": "Opening a Bank Account",
+      "titleAr": "فَتْحُ حِسَابٍ مَصْرَفِيٍّ",
+      "titleBs": "Otvaranje bankovnog računa",
+      "lineCount": 14,
+      "estimatedMinutes": 7,
+      "tags": ["bank", "formal", "B2", "finance", "Islamic banking"]
+    },
+    {
+      "id": "conv-b2-005",
+      "level": "B2",
+      "situation": "academic",
+      "title": "Academic Seminar Discussion",
+      "titleAr": "نِقَاشٌ أَكَادِيمِيٌّ",
+      "titleBs": "Akademska seminarska diskusija",
+      "lineCount": 14,
+      "estimatedMinutes": 8,
+      "tags": ["academic", "formal", "B2", "research", "university"]
+    },
+    {
+      "id": "conv-b2-006",
+      "level": "B2",
+      "situation": "complaint",
+      "title": "Filing a Formal Complaint",
+      "titleAr": "تَقْدِيمُ شَكْوَى رَسْمِيَّةٍ",
+      "titleBs": "Podnošenje zvanične žalbe",
+      "lineCount": 14,
+      "estimatedMinutes": 7,
+      "tags": ["complaint", "formal", "B2", "government", "administrative"]
+    },
+    {
+      "id": "conv-b2-007",
+      "level": "B2",
+      "situation": "conference",
+      "title": "Conference Introduction",
+      "titleAr": "تَقْدِيمٌ فِي مُؤْتَمَرٍ",
+      "titleBs": "Prezentacija na konferenciji",
+      "lineCount": 14,
+      "estimatedMinutes": 8,
+      "tags": ["conference", "formal", "B2", "science", "presentation"]
+    },
+    {
+      "id": "conv-b2-008",
+      "level": "B2",
+      "situation": "negotiation",
+      "title": "Business Negotiation",
+      "titleAr": "مُفَاوَضَةٌ تِجَارِيَّةٌ",
+      "titleBs": "Poslovna pregovaranja",
+      "lineCount": 14,
+      "estimatedMinutes": 8,
+      "tags": ["negotiation", "formal", "B2", "business", "contracts"]
+    },
+    {
+      "id": "conv-b2-009",
+      "level": "B2",
+      "situation": "legal",
+      "title": "Legal Consultation",
+      "titleAr": "اسْتِشَارَةٌ قَانُونِيَّةٌ",
+      "titleBs": "Pravna konsultacija",
+      "lineCount": 14,
+      "estimatedMinutes": 8,
+      "tags": ["legal", "formal", "B2", "law", "business"]
+    },
+    {
+      "id": "conv-b2-010",
+      "level": "B2",
+      "situation": "education-policy",
+      "title": "School Meeting with Principal",
+      "titleAr": "اجْتِمَاعٌ مَعَ مُدِيرِ الْمَدْرَسَةِ",
+      "titleBs": "Sastanak s direktorom škole",
+      "lineCount": 14,
+      "estimatedMinutes": 7,
+      "tags": ["education-policy", "formal", "B2", "school", "parenting"]
+    }
+  ],
+  "phraseCategories": [
+    {
+      "id": "greetings",
+      "title": "Greetings & Farewells",
+      "titleAr": "التَّحِيَّاتُ وَالوَدَاعُ",
+      "titleBs": "Pozdravi i rastanci",
+      "phraseCount": 16
+    },
+    {
+      "id": "agreement",
+      "title": "Agreement & Disagreement",
+      "titleAr": "الْمُوَافَقَةُ وَالاعْتِرَاضُ",
+      "titleBs": "Slaganje i neslaganje",
+      "phraseCount": 14
+    },
+    {
+      "id": "requests",
+      "title": "Formal Requests",
+      "titleAr": "الطَّلَبَاتُ الرَّسْمِيَّةُ",
+      "titleBs": "Formalni zahtjevi",
+      "phraseCount": 14
+    },
+    {
+      "id": "opinions",
+      "title": "Expressing Opinions",
+      "titleAr": "التَّعْبِيرُ عَنِ الرَّأْيِ",
+      "titleBs": "Izražavanje mišljenja",
+      "phraseCount": 14
+    },
+    {
+      "id": "clarification",
+      "title": "Asking for Clarification",
+      "titleAr": "طَلَبُ التَّوْضِيحِ",
+      "titleBs": "Traženje pojašnjenja",
+      "phraseCount": 14
+    },
+    {
+      "id": "transitions",
+      "title": "Connectors & Transitions",
+      "titleAr": "أَدَوَاتُ الرَّبْطِ وَالانْتِقَالِ",
+      "titleBs": "Veznici i prijelazi",
+      "phraseCount": 15
+    },
+    {
+      "id": "islamic",
+      "title": "Islamic Expressions",
+      "titleAr": "التَّعْبِيرَاتُ الإِسْلَامِيَّةُ",
+      "titleBs": "Islamski izrazi",
+      "phraseCount": 12
+    },
+    {
+      "id": "formal-speech",
+      "title": "Speech Openings & Closings",
+      "titleAr": "افْتِتَاحُ الْكَلَامِ وَخِتَامُهُ",
+      "titleBs": "Otvaranje i zatvaranje govora",
+      "phraseCount": 14
+    }
+  ]
+}

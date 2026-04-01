@@ -1,0 +1,125 @@
+{
+  "id": "conv-b2-003",
+  "level": "B2",
+  "situation": "media",
+  "title": "News Interview",
+  "titleAr": "مُقَابَلَةٌ صَحَفِيَّةٌ",
+  "titleBs": "Novinski intervju",
+  "estimatedMinutes": 8,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Journalist",
+      "roleAr": "الصَّحَفِيُّ",
+      "arabic": "أَهْلاً بِكُمْ فِي بَرْنَامَجِنَا. ضَيْفُنَا الْيَوْمَ خَبِيرٌ اقْتِصَادِيٌّ بَارِزٌ. أَهْلاً بِكَ، دُكْتُورَ كَرِيمُ.",
+      "bs": "Dobrodošli u naš program. Naš gost danas je istaknuti ekonomski stručnjak. Dobrodošli, doktore Karim.",
+      "en": "Welcome to our program. Our guest today is a prominent economic expert. Welcome, Dr. Karim."
+    },
+    {
+      "speaker": "B",
+      "role": "Expert",
+      "roleAr": "الْخَبِيرُ",
+      "arabic": "شُكْرًا جَزِيلاً. يَسْعَدُنِي الْمُشَارَكَةُ فِي هَذَا الْبَرْنَامَجِ الرَّصِينِ.",
+      "bs": "Hvala lijepo. Drago mi je da sudjelujem u ovom ozbiljnom programu.",
+      "en": "Thank you very much. I am pleased to participate in this distinguished program."
+    },
+    {
+      "speaker": "A",
+      "role": "Journalist",
+      "roleAr": "الصَّحَفِيُّ",
+      "arabic": "دُكْتُورَ كَرِيمُ، تَشْهَدُ أَسْعَارُ الْمَوَادِّ الْغِذَائِيَّةِ ارْتِفَاعًا مَلْحُوظًا فِي الْفَتْرَةِ الأَخِيرَةِ. مَا هِيَ أَسْبَابُ هَذِهِ الظَّاهِرَةِ فِي رَأْيِكَ؟",
+      "bs": "Doktore Karim, cijene prehrambenih proizvoda bilježe primjetan rast u posljednje vrijeme. Koji su razlozi ovog fenomena po vašem mišljenju?",
+      "en": "Dr. Karim, food prices have been experiencing a notable rise recently. What are the reasons for this phenomenon in your view?"
+    },
+    {
+      "speaker": "B",
+      "role": "Expert",
+      "roleAr": "الْخَبِيرُ",
+      "arabic": "يَعُودُ هَذَا الاِرْتِفَاعُ إِلَى جُمْلَةٍ مِنَ الْعَوَامِلِ، أَبْرَزُهَا اضْطِرَابُ سَلاسِلِ الإِمْدَادِ الْعَالَمِيَّةِ، وَارْتِفَاعُ تَكَالِيفِ النَّقْلِ وَالطَّاقَةِ، إِلَى جَانِبِ التَّقَلُّبَاتِ الْمَوْسِمِيَّةِ فِي الإِنْتَاجِ الزِّرَاعِيِّ.",
+      "bs": "Ovaj rast se može pripisati nizu faktora, od kojih su najistaknutiji poremećaj globalnih lanaca snabdijevanja, porast troškova transporta i energije, uz sezonske fluktuacije u poljoprivrednoj proizvodnji.",
+      "en": "This rise is due to a number of factors, the most prominent being the disruption of global supply chains, rising transportation and energy costs, alongside seasonal fluctuations in agricultural production."
+    },
+    {
+      "speaker": "A",
+      "role": "Journalist",
+      "roleAr": "الصَّحَفِيُّ",
+      "arabic": "هَلْ تَمْتَلِكُ إِحْصَائِيَّاتٍ تُؤَكِّدُ هَذِهِ الأَسْبَابَ؟ وَكَيْفَ تُقَارِنُ الأَرْقَامَ الْحَالِيَّةَ بِالسَّنَوَاتِ الْمَاضِيَةِ؟",
+      "bs": "Imate li statistike koje potvrđuju ove razloge? I kako uspoređujete trenutne brojke s prošlim godinama?",
+      "en": "Do you have statistics that confirm these reasons? And how do you compare the current figures with past years?"
+    },
+    {
+      "speaker": "B",
+      "role": "Expert",
+      "roleAr": "الْخَبِيرُ",
+      "arabic": "وَفْقًا لِتَقَارِيرِ الْمُنَظَّمَاتِ الدَّوْلِيَّةِ، ارْتَفَعَتِ الأَسْعَارُ بِنِسْبَةٍ تَتَجَاوَزُ خَمْسَةَ عَشَرَ بِالْمِائَةِ مُقَارَنَةً بِالْعَامِ الْمَاضِي، وَهَذَا يُعَدُّ مِنْ أَعْلَى النِّسَبِ الْمُسَجَّلَةِ فِي الْعَقْدِ الأَخِيرِ.",
+      "bs": "Prema izvještajima međunarodnih organizacija, cijene su porasle za više od petnaest posto u poređenju s prošlom godinom, što se smatra jednim od najviših zabilježenih postotaka u posljednjem desetljeću.",
+      "en": "According to reports from international organizations, prices have risen by more than fifteen percent compared to last year, which is considered one of the highest rates recorded in the last decade."
+    },
+    {
+      "speaker": "A",
+      "role": "Journalist",
+      "roleAr": "الصَّحَفِيُّ",
+      "arabic": "مَا تَأْثِيرُ هَذَا الاِرْتِفَاعِ عَلَى شَرَائِحَ الْمُجْتَمَعِ ذَاتِ الدَّخْلِ الْمَحْدُودِ؟ وَهَلْ تَرَى خَطَرًا حَقِيقِيًّا عَلَى مُسْتَوَى الأَمْنِ الْغِذَائِيِّ؟",
+      "bs": "Kakav je utjecaj ovog porasta na segmente društva s ograničenim prihodima? I vidite li stvarnu opasnost za nivo prehrambene sigurnosti?",
+      "en": "What is the impact of this rise on lower-income segments of society? And do you see a real danger at the level of food security?"
+    },
+    {
+      "speaker": "B",
+      "role": "Expert",
+      "roleAr": "الْخَبِيرُ",
+      "arabic": "بِلا شَكٍّ، الْفِئَاتُ ذَاتُ الدَّخْلِ الْمَحْدُودِ هِيَ الأَكْثَرُ تَضَرُّرًا. وَنَعَمْ، ثَمَّةَ مَخَاوِفُ جِدِّيَّةٌ تَتَعَلَّقُ بِالأَمْنِ الْغِذَائِيِّ إِنْ لَمْ تُتَّخَذِ الإِجْرَاءَاتُ اللازِمَةُ عَلَى الْمُسْتَوَيَيْنِ الْمَحَلِّيِّ وَالإِقْلِيمِيِّ.",
+      "bs": "Bez sumnje, segmenti s ograničenim prihodima su najteže pogođeni. I da, postoje ozbiljne zabrinutosti vezane za prehrambenu sigurnost ako se ne poduzmu potrebne mjere na lokalnom i regionalnom nivou.",
+      "en": "Without a doubt, lower-income groups are the most affected. And yes, there are serious concerns related to food security if the necessary measures are not taken at both the local and regional levels."
+    },
+    {
+      "speaker": "A",
+      "role": "Journalist",
+      "roleAr": "الصَّحَفِيُّ",
+      "arabic": "مَا هُوَ تَوَقُّعُكَ لِلْمُسْتَقْبَلِ؟ هَلْ سَتَعُودُ الأَسْعَارُ إِلَى مُسْتَوَيَاتِهَا الطَّبِيعِيَّةِ فِي الْأَمَدِ الْقَرِيبِ؟",
+      "bs": "Kakva su vaša predviđanja za budućnost? Hoće li se cijene vratiti na normalne razine u bliskoj budućnosti?",
+      "en": "What is your forecast for the future? Will prices return to their normal levels in the near term?"
+    },
+    {
+      "speaker": "B",
+      "role": "Expert",
+      "roleAr": "الْخَبِيرُ",
+      "arabic": "التَّوَقُّعَاتُ مَشْرُوطَةٌ بِعَوَامِلَ عَدِيدَةٍ. إِذَا اسْتَقَرَّتْ سَلاسِلُ الإِمْدَادِ وَانْخَفَضَتْ تَكَالِيفُ الطَّاقَةِ، فَمِنَ الْمُتَوَقَّعِ أَنْ تَتَرَاجَعَ الأَسْعَارُ تَدْرِيجِيًّا خِلالَ النِّصْفِ الثَّانِي مِنَ الْعَامِ.",
+      "bs": "Predviđanja su uvjetovana brojnim faktorima. Ako se lanci snabdijevanja stabilizuju i troškovi energije opadnu, očekuje se da će cijene postupno padati tokom druge polovine godine.",
+      "en": "The forecasts are contingent on numerous factors. If supply chains stabilize and energy costs decrease, prices are expected to gradually decline during the second half of the year."
+    },
+    {
+      "speaker": "A",
+      "role": "Journalist",
+      "roleAr": "الصَّحَفِيُّ",
+      "arabic": "مَا هِيَ تَوْصِيَاتُكَ لِلْجِهَاتِ الْمَعْنِيَّةِ لِمُعَالَجَةِ هَذِهِ الأَزْمَةِ وَالتَّخْفِيفِ مِنْ آثَارِهَا عَلَى الْمُوَاطِنِينَ؟",
+      "bs": "Kakve su vaše preporuke nadležnim organima za rješavanje ove krize i ublažavanje njenih posljedica po građane?",
+      "en": "What are your recommendations to the relevant authorities for addressing this crisis and mitigating its effects on citizens?"
+    },
+    {
+      "speaker": "B",
+      "role": "Expert",
+      "roleAr": "الْخَبِيرُ",
+      "arabic": "أُوصِي بِتَعْزِيزِ دَعْمِ الإِنْتَاجِ الزِّرَاعِيِّ الْمَحَلِّيِّ، وَتَفْعِيلِ آلِيَّاتِ الاحْتِيَاطِ الاسْتِرَاتِيجِيِّ، وَتَقْدِيمِ دَعْمٍ مُبَاشَرٍ لِلْفِئَاتِ الأَكْثَرَ هَشَاشَةً، مَعَ تَكْثِيفِ الرَّقَابَةِ عَلَى الأَسْوَاقِ لِمَنْعِ الاحْتِكَارِ.",
+      "bs": "Preporučujem jačanje podrške lokalnoj poljoprivrednoj proizvodnji, aktiviranje mehanizama strateških rezervi, direktnu podršku najugroženijim segmentima, uz pojačanu kontrolu tržišta radi sprječavanja monopola.",
+      "en": "I recommend strengthening support for local agricultural production, activating strategic reserve mechanisms, providing direct support to the most vulnerable groups, and intensifying market oversight to prevent monopolization."
+    },
+    {
+      "speaker": "A",
+      "role": "Journalist",
+      "roleAr": "الصَّحَفِيُّ",
+      "arabic": "شُكْرًا جَزِيلاً، دُكْتُورَ كَرِيمُ، عَلَى هَذِهِ الْمَعْلُومَاتِ الْقَيِّمَةِ وَالتَّحْلِيلِ الْمُعَمَّقِ. نَتَمَنَّى أَنْ تَتَحَسَّنَ الأَوْضَاعُ قَرِيبًا.",
+      "bs": "Hvala lijepa, doktore Karim, na ovim vrijednim informacijama i dubinskoj analizi. Nadamo se da će se situacija uskoro poboljšati.",
+      "en": "Thank you very much, Dr. Karim, for these valuable insights and in-depth analysis. We hope the situation will improve soon."
+    },
+    {
+      "speaker": "B",
+      "role": "Expert",
+      "roleAr": "الْخَبِيرُ",
+      "arabic": "شُكْرًا لَكُمْ عَلَى هَذِهِ الْمُبَادَرَةِ لِتَوْعِيَةِ الْجَمَاهِيرِ. أَتَمَنَّى أَنْ يَجِدَ الْمُسْتَمِعُونَ فِي هَذَا الْحِوَارِ مَا يُفِيدُهُمْ.",
+      "bs": "Hvala vama na ovoj inicijativi za podizanje svesti javnosti. Nadam se da će slušatelji u ovom razgovoru naći nešto korisno za sebe.",
+      "en": "Thank you for this initiative to raise public awareness. I hope that listeners will find something beneficial in this dialogue."
+    }
+  ],
+  "grammarFocus": "reporting structures with وَفْقًا لِ and conditional sentences with إِذَا",
+  "tags": ["media", "formal", "B2", "economics", "interview"]
+}

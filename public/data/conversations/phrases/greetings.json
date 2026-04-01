@@ -1,0 +1,136 @@
+{
+  "id": "greetings",
+  "title": "Greetings & Farewells",
+  "titleAr": "التَّحِيَّاتُ وَالوَدَاعُ",
+  "titleBs": "Pozdravi i rastanci",
+  "phrases": [
+    {
+      "arabic": "السَّلَامُ عَلَيْكُمْ",
+      "bs": "Mir neka je s vama",
+      "en": "Peace be upon you",
+      "context": "Universal Islamic greeting used in all formal and informal situations; the standard way to greet any Muslim",
+      "contextBs": "Univerzalni islamski pozdrav koji se koristi u svim situacijama, formalnim i neformalnim",
+      "register": "neutral"
+    },
+    {
+      "arabic": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ",
+      "bs": "I na vas mir, Allahova milost i Njegovi blagoslovi",
+      "en": "And upon you peace, the mercy of Allah and His blessings",
+      "context": "The full, most respectful response to السلام عليكم; preferred in formal settings",
+      "contextBs": "Najpotpuniji i najuvaženiji odgovor na selam; preferira se u formalnim situacijama",
+      "register": "formal"
+    },
+    {
+      "arabic": "مَرْحَباً بِكَ",
+      "bs": "Dobrodošao/Dobrodošla",
+      "en": "Welcome / Hello",
+      "context": "Warm, friendly greeting used when welcoming someone to a place or into a conversation",
+      "contextBs": "Topao, prijateljski pozdrav koji se koristi pri dočeku nekoga na nekom mjestu",
+      "register": "neutral"
+    },
+    {
+      "arabic": "أَهْلاً وَسَهْلاً",
+      "bs": "Srdačno dobrodošli",
+      "en": "Welcome (you are among family and ease)",
+      "context": "Warm welcome expression, often used when receiving a guest into your home or office",
+      "contextBs": "Topao izraz dobrodošlice, često se koristi pri primanju gosta u dom ili ured",
+      "register": "neutral"
+    },
+    {
+      "arabic": "أَهْلاً وَسَهْلاً بِكُمْ جَمِيعاً",
+      "bs": "Srdačno dobrodošli svi",
+      "en": "Welcome to you all",
+      "context": "Formal greeting directed at a group, such as at the opening of a meeting or conference",
+      "contextBs": "Formalni pozdrav upućen grupi, npr. na početku sastanka ili konferencije",
+      "register": "formal"
+    },
+    {
+      "arabic": "كَيْفَ حَالُكَ؟",
+      "bs": "Kako si?",
+      "en": "How are you?",
+      "context": "Standard informal inquiry about someone's wellbeing, used with peers and friends",
+      "contextBs": "Standardno neformalno pitanje o nečijem stanju, koristi se s vršnjacima i prijateljima",
+      "register": "neutral"
+    },
+    {
+      "arabic": "كَيْفَ حَالُ حَضْرَتِكَ؟",
+      "bs": "Kako ste vi?",
+      "en": "How are you? (formal, respectful)",
+      "context": "Polite and formal way to ask about someone's wellbeing, used with elders, officials, or superiors",
+      "contextBs": "Uljudan i formalan način da se pita o nečijem stanju; koristi se sa starijima, zvaničnicima ili nadređenima",
+      "register": "formal"
+    },
+    {
+      "arabic": "صَبَاحُ الْخَيْرِ",
+      "bs": "Dobro jutro",
+      "en": "Good morning",
+      "context": "Morning greeting used from dawn until around noon in both formal and informal contexts",
+      "contextBs": "Jutarnji pozdrav koji se koristi od zore do otprilike podne, u formalnim i neformalnim kontekstima",
+      "register": "neutral"
+    },
+    {
+      "arabic": "صَبَاحُ النُّورِ",
+      "bs": "Jutro svjetlosti (odgovor na dobro jutro)",
+      "en": "Morning of light (response to good morning)",
+      "context": "The standard warm response to صباح الخير; completes the greeting exchange politely",
+      "contextBs": "Standardni topli odgovor na صباح الخير; lijepo zaokružuje razmjenu pozdrava",
+      "register": "neutral"
+    },
+    {
+      "arabic": "مَسَاءُ الْخَيْرِ",
+      "bs": "Dobro veče",
+      "en": "Good evening",
+      "context": "Evening greeting used from around noon onwards, in formal and informal settings alike",
+      "contextBs": "Večernji pozdrav koji se koristi od podne nadalje, u formalnim i neformalnim situacijama",
+      "register": "neutral"
+    },
+    {
+      "arabic": "مَسَاءُ النُّورِ",
+      "bs": "Veče svjetlosti (odgovor na dobro veče)",
+      "en": "Evening of light (response to good evening)",
+      "context": "The standard warm response to مساء الخير; expected in polite conversation",
+      "contextBs": "Standardni topli odgovor na مساء الخير; očekuje se u pristojnoj konverzaciji",
+      "register": "neutral"
+    },
+    {
+      "arabic": "مَعَ السَّلَامَةِ",
+      "bs": "Zbogom / Idi s mirom",
+      "en": "Goodbye (go with safety)",
+      "context": "The most common farewell in MSA; said by the person staying to the one who is leaving",
+      "contextBs": "Najčešći oproštaj u MSA; kaže ga onaj ko ostaje onome ko odlazi",
+      "register": "neutral"
+    },
+    {
+      "arabic": "فِي أَمَانِ اللهِ",
+      "bs": "U Allahovoj zaštiti",
+      "en": "In the protection of Allah",
+      "context": "A sincere and warm farewell, often used when parting for a longer period or wishing someone a safe journey",
+      "contextBs": "Iskren i topao oproštaj, često se koristi pri rastanku na duže vrijeme ili pri željama za siguran put",
+      "register": "neutral"
+    },
+    {
+      "arabic": "إِلَى اللِّقَاءِ",
+      "bs": "Do viđenja",
+      "en": "Until we meet again",
+      "context": "A neutral farewell equivalent to 'goodbye', used in both spoken and written contexts",
+      "contextBs": "Neutralan oproštaj ekvivalentan 'doviđenja', koristi se u govorenom i pisanom obliku",
+      "register": "neutral"
+    },
+    {
+      "arabic": "أَهْلاً بِكَ مِنْ جَدِيدٍ",
+      "bs": "Dobrodošao ponovo",
+      "en": "Welcome back",
+      "context": "Used to greet someone who has returned after an absence, whether short or long",
+      "contextBs": "Koristi se za dočekivanje nekoga ko se vratio nakon odsutnosti, kratke ili duge",
+      "register": "neutral"
+    },
+    {
+      "arabic": "يُسْعِدُنَا عَوْدَتُكَ",
+      "bs": "Drago nam je što ste se vratili",
+      "en": "We are glad for your return",
+      "context": "Formal, warm expression welcoming someone back, used in professional or official contexts",
+      "contextBs": "Formalan, topao izraz dobrodošlice nekome ko se vratio, koristi se u profesionalnim ili službenim kontekstima",
+      "register": "formal"
+    }
+  ]
+}

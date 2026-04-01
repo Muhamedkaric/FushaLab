@@ -1,0 +1,125 @@
+{
+  "id": "conv-b1-003",
+  "level": "B1",
+  "situation": "airport",
+  "title": "At the Airport",
+  "titleAr": "فِي الْمَطَارِ",
+  "titleBs": "Na aerodromu",
+  "estimatedMinutes": 5,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Traveller",
+      "roleAr": "الْمُسَافِرُ",
+      "arabic": "صَبَاحُ الْخَيْرِ، أُرِيدُ تَسْجِيلَ حُقُوبِي لِرِحْلَةِ أَمْسْتَرْدَامَ.",
+      "bs": "Dobro jutro, želim prijaviti prtljag za let za Amsterdam.",
+      "en": "Good morning, I want to check in my luggage for the Amsterdam flight."
+    },
+    {
+      "speaker": "B",
+      "role": "Airport Staff",
+      "roleAr": "مُوَظَّفُ الْمَطَارِ",
+      "arabic": "صَبَاحُ النُّورِ! مِنْ فَضْلِكَ أَعْطِنِي جَوَازَ سَفَرِكَ وَبِطَاقَةَ الصُّعُودِ.",
+      "bs": "Dobro jutro! Molim vas, dajte mi pasoš i kartu za ukrcavanje.",
+      "en": "Good morning! Please give me your passport and boarding pass."
+    },
+    {
+      "speaker": "A",
+      "role": "Traveller",
+      "roleAr": "الْمُسَافِرُ",
+      "arabic": "تَفَضَّلْ جَوَازَ سَفَرِي. لَمْ أَطْبَعْ بِطَاقَةَ الصُّعُودِ، هَلْ يُمْكِنُنِي اسْتِخْدَامُ الْهَاتِفِ؟",
+      "bs": "Izvolite moj pasoš. Nisam ispisao kartu za ukrcavanje, mogu li koristiti telefon?",
+      "en": "Here is my passport. I did not print the boarding pass, can I use my phone?"
+    },
+    {
+      "speaker": "B",
+      "role": "Airport Staff",
+      "roleAr": "مُوَظَّفُ الْمَطَارِ",
+      "arabic": "نَعَمْ، بِإِمْكَانِكَ اسْتِخْدَامُ الْبِطَاقَةِ الرَّقْمِيَّةِ عَلَى هَاتِفِكَ. كَمْ حَقِيبَةً مَعَكَ؟",
+      "bs": "Da, možete koristiti digitalnu kartu na telefonu. Koliko kofera imate?",
+      "en": "Yes, you can use the digital boarding pass on your phone. How many bags do you have?"
+    },
+    {
+      "speaker": "A",
+      "role": "Traveller",
+      "roleAr": "الْمُسَافِرُ",
+      "arabic": "لَدَيَّ حَقِيبَةٌ وَاحِدَةٌ كَبِيرَةٌ وَشَنْطَةٌ صَغِيرَةٌ لِلْيَدِ.",
+      "bs": "Imam jedan veliki kofer i jednu malu ručnu torbu.",
+      "en": "I have one large bag and one small hand bag."
+    },
+    {
+      "speaker": "B",
+      "role": "Airport Staff",
+      "roleAr": "مُوَظَّفُ الْمَطَارِ",
+      "arabic": "حَسَنًا، ضَعِ الْحَقِيبَةَ الْكَبِيرَةَ عَلَى الْمِيزَانِ مِنْ فَضْلِكَ. وَزْنُهَا اثْنَانِ وَعِشْرُونَ كِيلُوغْرَامًا، هَذَا مَقْبُولٌ.",
+      "bs": "Dobro, stavite veliki kofer na vagu, molim. Teži dvadeset i dva kilograma, to je prihvatljivo.",
+      "en": "Very well, please put the large bag on the scale. It weighs twenty-two kilograms, that is acceptable."
+    },
+    {
+      "speaker": "A",
+      "role": "Traveller",
+      "roleAr": "الْمُسَافِرُ",
+      "arabic": "الْحَمْدُ لِلَّهِ. مَا رَقْمُ الْبَوَّابَةِ لِرِحْلَتِي؟",
+      "bs": "Hvala Bogu. Koji je broj izlaza za moj let?",
+      "en": "Thank God. What is the gate number for my flight?"
+    },
+    {
+      "speaker": "B",
+      "role": "Airport Staff",
+      "roleAr": "مُوَظَّفُ الْمَطَارِ",
+      "arabic": "بَوَّابَتُكَ هِيَ رَقْمُ أَرْبَعَةَ عَشَرَ فِي الطَّابِقِ الثَّانِي. يُمْكِنُكَ رُؤْيَةُ اللَّافِتَاتِ.",
+      "bs": "Vaš izlaz je broj četrnaest na drugom spratu. Možete pratiti table.",
+      "en": "Your gate is number fourteen on the second floor. You can follow the signs."
+    },
+    {
+      "speaker": "A",
+      "role": "Traveller",
+      "roleAr": "الْمُسَافِرُ",
+      "arabic": "شُكْرًا. مَتَى يَبْدَأُ الصُّعُودُ إِلَى الطَّائِرَةِ؟",
+      "bs": "Hvala. Kada počinje ukrcavanje?",
+      "en": "Thank you. When does boarding begin?"
+    },
+    {
+      "speaker": "B",
+      "role": "Airport Staff",
+      "roleAr": "مُوَظَّفُ الْمَطَارِ",
+      "arabic": "يَبْدَأُ الصُّعُودُ السَّاعَةَ الثَّانِيَةَ عَشَرَةَ وَالنِّصْفَ. لَدَيْكَ وَقْتٌ كَافٍ.",
+      "bs": "Ukrcavanje počinje u dvanaest i po. Imate dovoljno vremena.",
+      "en": "Boarding begins at twelve thirty. You have enough time."
+    },
+    {
+      "speaker": "A",
+      "role": "Traveller",
+      "roleAr": "الْمُسَافِرُ",
+      "arabic": "هَلْ يَجِبُ أَنْ أَكُونَ فِي الْبَوَّابَةِ قَبْلَ الصُّعُودِ بِوَقْتٍ طَوِيلٍ؟",
+      "bs": "Moram li biti na izlazu dugo prije ukrcavanja?",
+      "en": "Do I need to be at the gate a long time before boarding?"
+    },
+    {
+      "speaker": "B",
+      "role": "Airport Staff",
+      "roleAr": "مُوَظَّفُ الْمَطَارِ",
+      "arabic": "يُنْصَحُ بِالْوُصُولِ إِلَى الْبَوَّابَةِ قَبْلَ الصُّعُودِ بِثَلَاثِينَ دَقِيقَةً عَلَى الْأَقَلِّ.",
+      "bs": "Preporučuje se doći na izlaz najmanje trideset minuta prije ukrcavanja.",
+      "en": "It is recommended to arrive at the gate at least thirty minutes before boarding."
+    },
+    {
+      "speaker": "A",
+      "role": "Traveller",
+      "roleAr": "الْمُسَافِرُ",
+      "arabic": "فَهِمْتُ. هَلْ يَجِبُ أَنْ أَمُرَّ بِالْأَمْنِ أَوَّلًا؟",
+      "bs": "Razumijem. Moram li prvo proći sigurnosnu kontrolu?",
+      "en": "I understand. Do I need to go through security first?"
+    },
+    {
+      "speaker": "B",
+      "role": "Airport Staff",
+      "roleAr": "مُوَظَّفُ الْمَطَارِ",
+      "arabic": "نَعَمْ، نُقْطَةُ الأَمْنِ عَلَى يَمِينِكَ. رِحْلَةً مُوَفَّقَةً وَسَفَرًا آمِنًا!",
+      "bs": "Da, sigurnosna kontrola je na vašoj desnoj strani. Sretan put i siguran let!",
+      "en": "Yes, the security checkpoint is on your right. Have a successful trip and a safe journey!"
+    }
+  ],
+  "grammarFocus": "future tense with سَـ and imperative mood",
+  "tags": ["airport", "travel", "B1"]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "conv-b1-006",
+  "level": "B1",
+  "situation": "shopping",
+  "title": "At the Market",
+  "titleAr": "فِي السُّوقِ",
+  "titleBs": "Na pijaci",
+  "estimatedMinutes": 5,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "صَبَاحُ الْخَيْرِ، أُرِيدُ أَنْ أَشْتَرِيَ بَعْضَ الْفَوَاكِهِ وَالْخُضَارِ.",
+      "bs": "Dobro jutro, željela bih kupiti nešto voća i povrća.",
+      "en": "Good morning, I would like to buy some fruit and vegetables."
+    },
+    {
+      "speaker": "B",
+      "role": "Seller",
+      "roleAr": "الْبَائِعُ",
+      "arabic": "صَبَاحُ النُّورِ! تَفَضَّلِي. عِنْدِي أَجْوَدُ الْفَوَاكِهِ الطَّازَجَةِ الْيَوْمَ. مَاذَا تُرِيدِينَ؟",
+      "bs": "Dobro jutro! Izvolite. Danas imam najkvalitetnije svježe voće. Šta želite?",
+      "en": "Good morning! Please come in. I have the best fresh fruits today. What do you want?"
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "أُرِيدُ كِيلُوغْرَامَيْنِ مِنَ التُّفَّاحِ وَكِيلُوغْرَامًا مِنَ الطَّمَاطِمِ.",
+      "bs": "Želim dva kilograma jabuka i kilogram paradajza.",
+      "en": "I want two kilograms of apples and one kilogram of tomatoes."
+    },
+    {
+      "speaker": "B",
+      "role": "Seller",
+      "roleAr": "الْبَائِعُ",
+      "arabic": "التُّفَّاحُ طَازَجٌ جِدًّا، وَصَلَ الْيَوْمَ. التُّفَّاحُ بِثَلَاثَةِ دَرَاهِمَ لِلْكِيلُوغْرَامِ وَالطَّمَاطِمُ بِدِرْهَمَيْنِ.",
+      "bs": "Jabuke su jako svježe, stigle su danas. Jabuke su tri dirhema po kilogramu a paradajz dva dirhema.",
+      "en": "The apples are very fresh, they arrived today. Apples are three dirhams per kilogram and tomatoes two dirhams."
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "هَذَا غَالٍ قَلِيلًا. هَلْ يُمْكِنُكَ تَخْفِيضُ السِّعْرِ؟",
+      "bs": "To je malo skupo. Možete li sniziti cijenu?",
+      "en": "That is a little expensive. Can you lower the price?"
+    },
+    {
+      "speaker": "B",
+      "role": "Seller",
+      "roleAr": "الْبَائِعُ",
+      "arabic": "حَسَنًا، إِذَا أَخَذْتِ ثَلَاثَةَ كِيلُوغْرَامَاتٍ مِنَ التُّفَّاحِ سَأُعْطِيكِ سِعْرًا خَاصًّا.",
+      "bs": "Dobro, ako uzmete tri kilograma jabuka dat ću vam posebnu cijenu.",
+      "en": "Very well, if you take three kilograms of apples I will give you a special price."
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "مَا السِّعْرُ الْخَاصُّ إِذَنْ؟",
+      "bs": "Koja je onda posebna cijena?",
+      "en": "What is the special price then?"
+    },
+    {
+      "speaker": "B",
+      "role": "Seller",
+      "roleAr": "الْبَائِعُ",
+      "arabic": "ثَمَانِيَةُ دَرَاهِمَ لِثَلَاثَةِ كِيلُوغْرَامَاتٍ بَدَلًا مِنْ تِسْعَةٍ. هَذَا عَرْضٌ جَيِّدٌ.",
+      "bs": "Osam dirhema za tri kilograma umjesto devet. To je dobra ponuda.",
+      "en": "Eight dirhams for three kilograms instead of nine. That is a good deal."
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "مُوَافِقٌ. سَآخُذُ ثَلَاثَةَ كِيلُوغْرَامَاتٍ مِنَ التُّفَّاحِ وَكِيلُوغْرَامًا مِنَ الطَّمَاطِمِ.",
+      "bs": "Slažem se. Uzet ću tri kilograma jabuka i kilogram paradajza.",
+      "en": "Agreed. I will take three kilograms of apples and one kilogram of tomatoes."
+    },
+    {
+      "speaker": "B",
+      "role": "Seller",
+      "roleAr": "الْبَائِعُ",
+      "arabic": "عَظِيمٌ! الْمَجْمُوعُ عَشَرَةُ دَرَاهِمَ. هَلْ تُرِيدِينَ شَيْئًا آخَرَ؟",
+      "bs": "Odlično! Ukupno deset dirhema. Želite li još nešto?",
+      "en": "Excellent! The total is ten dirhams. Would you like anything else?"
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "نَعَمْ، هَلْ عِنْدَكَ لَيْمُونٌ طَازَجٌ؟",
+      "bs": "Da, imate li svježeg limuna?",
+      "en": "Yes, do you have fresh lemon?"
+    },
+    {
+      "speaker": "B",
+      "role": "Seller",
+      "roleAr": "الْبَائِعُ",
+      "arabic": "نَعَمْ، اللَّيْمُونُ بِدِرْهَمَيْنِ لِلْكِيلُوغْرَامِ. إِنَّهُ حَامِضٌ وَلَذِيذٌ جِدًّا.",
+      "bs": "Da, limun je dva dirhema po kilogramu. Vrlo je kiseo i ukusan.",
+      "en": "Yes, lemons are two dirhams per kilogram. They are very sour and delicious."
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "أُرِيدُ نِصْفَ كِيلُوغْرَامٍ مِنَ اللَّيْمُونِ أَيْضًا. تَفَضَّلْ خَمْسَةَ عَشَرَ دِرْهَمًا.",
+      "bs": "Željela bih još pola kilograma limuna. Izvolite petnaest dirhema.",
+      "en": "I would like half a kilogram of lemons as well. Here are fifteen dirhams."
+    },
+    {
+      "speaker": "B",
+      "role": "Seller",
+      "roleAr": "الْبَائِعُ",
+      "arabic": "شُكْرًا لَكِ! هَذَا دِرْهَمٌ وَاحِدٌ بَاقٍ. تَفَضَّلِي كِيسًا مَجَّانًا. إِلَى اللِّقَاءِ!",
+      "bs": "Hvala vam! Jedan dirhem ostatka. Izvolite vrećicu besplatno. Do viđenja!",
+      "en": "Thank you! Here is one dirham change. Here is a bag for free. Goodbye!"
+    }
+  ],
+  "grammarFocus": "numbers with nouns and conditional sentences with إِذَا",
+  "tags": ["shopping", "market", "B1"]
+}

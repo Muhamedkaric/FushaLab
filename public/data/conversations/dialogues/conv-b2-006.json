@@ -1,0 +1,125 @@
+{
+  "id": "conv-b2-006",
+  "level": "B2",
+  "situation": "complaint",
+  "title": "Filing a Formal Complaint",
+  "titleAr": "تَقْدِيمُ شَكْوَى رَسْمِيَّةٍ",
+  "titleBs": "Podnošenje zvanične žalbe",
+  "estimatedMinutes": 7,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Citizen",
+      "roleAr": "الْمُوَاطِنُ",
+      "arabic": "السَّلامُ عَلَيْكُمْ. أَوَدُّ تَقْدِيمَ شَكْوَى رَسْمِيَّةٍ بِشَأْنِ خِدْمَةٍ لَمْ تُقَدَّمْ لِي رَغْمَ مُرُورِ شَهْرَيْنِ عَلَى الطَّلَبِ.",
+      "bs": "Mir vam. Želio bih podnijeti zvaničnu žalbu u vezi sa uslugom koja mi nije pružena uprkos protoku dva mjeseca od zahtjeva.",
+      "en": "Peace be upon you. I would like to file a formal complaint regarding a service that was not provided to me despite two months having passed since the request."
+    },
+    {
+      "speaker": "B",
+      "role": "Government Officer",
+      "roleAr": "الْمُوَظَّفُ الْحُكُومِيُّ",
+      "arabic": "وَعَلَيْكُمُ السَّلامُ. أَهْلاً بِكَ. تَفَضَّلْ بِالْجُلُوسِ. مَا طَبِيعَةُ الْخِدْمَةِ الَّتِي طَلَبْتَهَا وَمَا رَقَمُ طَلَبِكَ؟",
+      "bs": "I vama mir. Dobrodošli. Izvolite sjesti. Kakva je priroda usluge koju ste tražili i koji je broj vašeg zahtjeva?",
+      "en": "And upon you peace. Welcome. Please have a seat. What is the nature of the service you requested and what is your application number?"
+    },
+    {
+      "speaker": "A",
+      "role": "Citizen",
+      "roleAr": "الْمُوَاطِنُ",
+      "arabic": "طَلَبْتُ تَجْدِيدَ رُخْصَةِ مِزَاوَلَةِ النَّشَاطِ التِّجَارِيِّ، وَرَقَمُ طَلَبِي هُوَ تِسْعَةٌ وَأَرْبَعُونَ أَلْفًا وَمِائَتَانِ وَثَلاثَةٌ. تَقَدَّمْتُ بِالطَّلَبِ إِلِكْتِرُونِيًّا وَاسْتَكْمَلْتُ جَمِيعَ الْوَثَائِقِ الْمَطْلُوبَةِ.",
+      "bs": "Zahtijevao sam obnovu dozvole za obavljanje poslovne djelatnosti, a broj mog zahtjeva je četrdeset devet hiljada dvjesto tri. Zahtjev sam podnio elektronski i kompletirao sve potrebne dokumente.",
+      "en": "I requested the renewal of my commercial activity license, and my application number is forty-nine thousand two hundred and three. I submitted the application electronically and completed all the required documents."
+    },
+    {
+      "speaker": "B",
+      "role": "Government Officer",
+      "roleAr": "الْمُوَظَّفُ الْحُكُومِيُّ",
+      "arabic": "سَأَبْحَثُ عَنْ طَلَبِكَ فِي النِّظَامِ. يَبْدُو أَنَّ طَلَبَكَ مَازَالَ فِي مَرْحَلَةِ الْمُرَاجَعَةِ بِسَبَبِ نَقْصٍ فِي إِحْدَى الْوَثَائِقِ. هَلْ أَرْسَلْتَ صُورَةَ السِّجِلِّ التِّجَارِيِّ الْمُحَدَّثَةَ؟",
+      "bs": "Pretražit ću vaš zahtjev u sistemu. Čini se da je vaš zahtjev još uvijek u fazi pregleda zbog nedostatka jednog dokumenta. Jeste li poslali ažuriranu kopiju poslovnog registra?",
+      "en": "I will search for your application in the system. It appears your application is still in the review stage due to a missing document. Did you send an updated copy of the commercial register?"
+    },
+    {
+      "speaker": "A",
+      "role": "Citizen",
+      "roleAr": "الْمُوَاطِنُ",
+      "arabic": "نَعَمْ، أَرْسَلْتُ جَمِيعَ الْوَثَائِقِ كَامِلَةً. وَلَدَيَّ إِيصَالٌ إِلِكْتِرُونِيٌّ يُثْبِتُ اسْتِلامَ الطَّلَبِ بِجَمِيعِ مُرَفَّقَاتِهِ فِي التَّارِيخِ الْمُحَدَّدِ.",
+      "bs": "Da, poslao sam sve dokumente kompletno. I imam elektronsku potvrdu koja potvrđuje prijem zahtjeva sa svim prilozima na određeni datum.",
+      "en": "Yes, I sent all documents completely. And I have an electronic receipt proving that the application was received with all its attachments on the specified date."
+    },
+    {
+      "speaker": "B",
+      "role": "Government Officer",
+      "roleAr": "الْمُوَظَّفُ الْحُكُومِيُّ",
+      "arabic": "هَذَا مُهِمٌّ جِدًّا. هَلْ حَاوَلْتَ التَّوَاصُلَ مَعَ الْجِهَةِ الْمُخْتَصَّةِ مِنْ قَبْلُ لِمُتَابَعَةِ الطَّلَبِ؟",
+      "bs": "To je veoma važno. Jeste li ranije pokušali kontaktirati nadležnu instituciju radi praćenja zahtjeva?",
+      "en": "This is very important. Have you previously attempted to contact the relevant authority to follow up on the application?"
+    },
+    {
+      "speaker": "A",
+      "role": "Citizen",
+      "roleAr": "الْمُوَاطِنُ",
+      "arabic": "حَاوَلْتُ مَرَّاتٍ عَدِيدَةً. اتَّصَلْتُ بِالْخَطِّ السَّاخِنِ ثَلاثَ مَرَّاتٍ، وَزُرْتُ الْمَكْتَبَ مَرَّتَيْنِ، لَكِنَّنِي لَمْ أَتَلَقَّ أَيَّ إِجَابَةٍ وَاضِحَةٍ حَتَّى الآنَ.",
+      "bs": "Pokušavao sam više puta. Nazvao sam telefonsku liniju tri puta i posjetio ured dva puta, ali nisam dobio nikakav jasan odgovor do sada.",
+      "en": "I have tried many times. I called the hotline three times and visited the office twice, but I have not received any clear answer until now."
+    },
+    {
+      "speaker": "B",
+      "role": "Government Officer",
+      "roleAr": "الْمُوَظَّفُ الْحُكُومِيُّ",
+      "arabic": "أَعْتَذِرُ عَنِ التَّأْخِيرِ. سَأُسَجِّلُ شَكْوَاكَ رَسْمِيًّا الآنَ وَأُحِيلُهَا إِلَى الْقِسْمِ الْمَعْنِيِّ. هَلْ تَمْتَلِكُ جَمِيعَ الْوَثَائِقِ الَّتِي تُثْبِتُ مُحَاوَلاتِكَ السَّابِقَةِ؟",
+      "bs": "Izvinjavam se zbog kašnjenja. Sada ću zvanično evidentirati vašu žalbu i proslijediti je nadležnom odjeljenju. Posjedujete li sve dokumente koji dokazuju vaše prethodne pokušaje?",
+      "en": "I apologize for the delay. I will officially register your complaint now and refer it to the relevant department. Do you have all the documents that prove your previous attempts?"
+    },
+    {
+      "speaker": "A",
+      "role": "Citizen",
+      "roleAr": "الْمُوَاطِنُ",
+      "arabic": "نَعَمْ، مَعِي سِجِلُّ الْمُكَالَمَاتِ، وَصُوَرٌ مِنَ الْمُرَاسَلاتِ الإِلِكْتِرُونِيَّةِ، وَإِيصَالُ الاسْتِلامِ الأَوَّلِيِّ. كَمْ يَسْتَغْرِقُ الْبَتُّ فِي الشَّكْوَى؟",
+      "bs": "Da, sa mnom je evidencija poziva, kopije elektronske prepiske i potvrda o prvotnom prijemu. Koliko dugo traje rješavanje žalbe?",
+      "en": "Yes, I have the call log, copies of electronic correspondence, and the initial receipt. How long does it take to resolve the complaint?"
+    },
+    {
+      "speaker": "B",
+      "role": "Government Officer",
+      "roleAr": "الْمُوَظَّفُ الْحُكُومِيُّ",
+      "arabic": "وَفْقَ اللَّوَائِحِ الرَّسْمِيَّةِ، يَجِبُ الرَّدُّ عَلَى الشَّكَاوَى خِلالَ خَمْسَةَ عَشَرَ يَوْمًا عَمَلًا. وَبِنَاءً عَلَى خُصُوصِيَّةِ حَالَتِكَ، سَأَطْلُبُ مِنَ الْمُدِيرِ تَسْرِيعَ الإِجْرَاءَاتِ.",
+      "bs": "Prema zvaničnim propisima, na žalbe se mora odgovoriti u roku od petnaest radnih dana. Na osnovu posebnih okolnosti vašeg slučaja, zatražit ću od direktora ubrzanje postupaka.",
+      "en": "According to official regulations, complaints must be responded to within fifteen working days. Based on the specifics of your case, I will request the director to expedite the procedures."
+    },
+    {
+      "speaker": "A",
+      "role": "Citizen",
+      "roleAr": "الْمُوَاطِنُ",
+      "arabic": "أَقْدِّرُ مُسَاعَدَتَكَ. هَلْ سَتُرْسِلُونَ لِي إِشْعَارًا رَسْمِيًّا يُثْبِتُ تَسْجِيلَ الشَّكْوَى وَرَقَمَهَا الْمَرْجِعِيَّ؟",
+      "bs": "Cijenim vašu pomoć. Hoćete li mi poslati zvanično obavještenje koje potvrđuje evidenciju žalbe i njezin referentni broj?",
+      "en": "I appreciate your help. Will you send me an official notice confirming the registration of the complaint and its reference number?"
+    },
+    {
+      "speaker": "B",
+      "role": "Government Officer",
+      "roleAr": "الْمُوَظَّفُ الْحُكُومِيُّ",
+      "arabic": "بِالتَّأْكِيدِ، سَتَصِلُكَ رِسَالَةٌ إِلِكْتِرُونِيَّةٌ خِلالَ ساعَاتٍ تَحْتَوِي عَلَى رَقَمِ الشَّكْوَى وَمَعْلُومَاتِ التَّتَبُّعِ عَبْرَ الْبَوَّابَةِ الإِلِكْتِرُونِيَّةِ.",
+      "bs": "Svakako, u roku od nekoliko sati stići će vam e-mail koji sadrži broj žalbe i informacije o praćenju putem elektronskog portala.",
+      "en": "Certainly, you will receive an email within hours containing the complaint number and tracking information via the electronic portal."
+    },
+    {
+      "speaker": "A",
+      "role": "Citizen",
+      "roleAr": "الْمُوَاطِنُ",
+      "arabic": "شُكْرًا لَكَ عَلَى تَعَاوُنِكَ. آمُلُ أَنْ تُحَلَّ الْمَسْأَلَةُ قَرِيبًا لِأَنَّ التَّأْخِيرَ يُؤَثِّرُ سَلْبًا عَلَى نَشَاطِي التِّجَارِيِّ.",
+      "bs": "Hvala vam na saradnji. Nadam se da će se pitanje uskoro riješiti jer kašnjenje negativno utječe na moju poslovnu djelatnost.",
+      "en": "Thank you for your cooperation. I hope the matter will be resolved soon because the delay is negatively affecting my commercial activity."
+    },
+    {
+      "speaker": "B",
+      "role": "Government Officer",
+      "roleAr": "الْمُوَظَّفُ الْحُكُومِيُّ",
+      "arabic": "نَعِدُكَ بِبَذْلِ كُلِّ جُهْدٍ مُمْكِنٍ لِحَلِّ مَسْأَلَتِكَ فِي أَقْرَبِ وَقْتٍ مُمْكِنٍ. مَعَ السَّلامَةِ.",
+      "bs": "Obećavamo vam da ćemo uložiti sve moguće napore da riješimo vaše pitanje što je prije moguće. Doviđenja.",
+      "en": "We promise you to make every possible effort to resolve your matter as soon as possible. Farewell."
+    }
+  ],
+  "grammarFocus": "formal passive constructions and procedural language with لا بُدَّ and يَجِبُ",
+  "tags": ["complaint", "formal", "B2", "government", "administrative"]
+}

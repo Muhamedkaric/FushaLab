@@ -1,0 +1,125 @@
+{
+  "id": "conv-b2-009",
+  "level": "B2",
+  "situation": "legal",
+  "title": "Legal Consultation",
+  "titleAr": "اسْتِشَارَةٌ قَانُونِيَّةٌ",
+  "titleBs": "Pravna konsultacija",
+  "estimatedMinutes": 8,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْمُوَكِّلُ",
+      "arabic": "السَّلامُ عَلَيْكُمْ. أَتَيْتُ لِاسْتِشَارَتِكَ بِشَأْنِ نِزَاعٍ تِجَارِيٍّ مَعَ أَحَدِ شُرَكَائِي السَّابِقِينَ.",
+      "bs": "Mir vam. Došao sam da vam se posavjetujem o poslovnom sporu s jednim od mojih bivših partnera.",
+      "en": "Peace be upon you. I have come to consult you regarding a commercial dispute with one of my former partners."
+    },
+    {
+      "speaker": "B",
+      "role": "Lawyer",
+      "roleAr": "الْمُحَامِي",
+      "arabic": "وَعَلَيْكُمُ السَّلامُ وَرَحْمَةُ اللهِ. أَهْلاً بِكَ. تَفَضَّلْ. مَا هِيَ طَبِيعَةُ هَذَا النِّزَاعِ وَكَيْفَ نَشَأَ؟",
+      "bs": "I vama mir i Allahova milost. Dobrodošli. Izvolite. Kakva je priroda ovog spora i kako je nastao?",
+      "en": "And upon you peace and God's mercy. Welcome. Please go ahead. What is the nature of this dispute and how did it arise?"
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْمُوَكِّلُ",
+      "arabic": "كُنَّا شَرِيكَيْنِ فِي شَرِكَةٍ مَحْدُودَةِ الْمَسْؤُولِيَّةِ. قَرَّرَ شَرِيكِي الانْسِحَابَ مِنَ الشَّرِكَةِ، لَكِنَّهُ يَرْفُضُ تَقْسِيمَ الأَصْوُلِ بِالنِّسَبِ الْمَنْصُوصِ عَلَيْهَا فِي عَقْدِ الشَّرَاكَةِ.",
+      "bs": "Bili smo partneri u društvu s ograničenom odgovornošću. Moj partner je odlučio istupiti iz kompanije, ali odbija podjelu imovine u omjerima navedenim u ugovoru o partnerstvu.",
+      "en": "We were partners in a limited liability company. My partner decided to withdraw from the company, but he refuses to divide the assets according to the ratios stipulated in the partnership agreement."
+    },
+    {
+      "speaker": "B",
+      "role": "Lawyer",
+      "roleAr": "الْمُحَامِي",
+      "arabic": "هَذِهِ قَضِيَّةٌ تَعَاقُدِيَّةٌ وَاضِحَةٌ. حُقُوقُكَ مَحْمِيَّةٌ بِمُوجَبِ بُنُودِ عَقْدِ الشَّرَاكَةِ وَقَانُونِ الشَّرِكَاتِ. هَلْ تَمْتَلِكُ نُسْخَةً مِنَ الْعَقْدِ؟",
+      "bs": "Ovo je jasna ugovorna stvar. Vaša prava su zaštićena odredbama ugovora o partnerstvu i zakonom o kompanijama. Posjedujete li kopiju ugovora?",
+      "en": "This is a clear contractual matter. Your rights are protected by the clauses of the partnership agreement and company law. Do you have a copy of the contract?"
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْمُوَكِّلُ",
+      "arabic": "نَعَمْ، مَعِي نُسْخَةٌ مُوَثَّقَةٌ مِنَ الْعَقْدِ، وَسِجِلَّاتُ الشَّرِكَةِ الْمَالِيَّةُ لِلسَّنَوَاتِ الثَّلاثِ الأَخِيرَةِ. مَا هِيَ خِيَارَاتِيَ الْقَانُونِيَّةُ؟",
+      "bs": "Da, sa mnom je ovjerena kopija ugovora i finansijska evidencija kompanije za posljednje tri godine. Koje su moje pravne opcije?",
+      "en": "Yes, I have a certified copy of the contract and the company's financial records for the last three years. What are my legal options?"
+    },
+    {
+      "speaker": "B",
+      "role": "Lawyer",
+      "roleAr": "الْمُحَامِي",
+      "arabic": "لَدَيْكَ ثَلاثَةُ خِيَارَاتٍ رَئِيسِيَّةٍ: أَوَّلاً، مُفَاوَضَاتٌ وَدِّيَّةٌ بِوَسَاطَةِ مُحَكِّمٍ مَعْتَمَدٍ. ثَانِيًا، اللُّجُوءُ إِلَى التَّحْكِيمِ التِّجَارِيِّ. ثَالِثًا، رَفْعُ دَعْوَى قَضَائِيَّةٍ أَمَامَ الْمَحْكَمَةِ التِّجَارِيَّةِ.",
+      "bs": "Imate tri glavne opcije: prvo, prijateljski pregovori uz posredovanje ovlaštenog arbitra. Drugo, pribjegavanje trgovačkoj arbitraži. Treće, pokretanje sudske tužbe pred trgovačkim sudom.",
+      "en": "You have three main options: first, friendly negotiations through a certified arbitrator. Second, recourse to commercial arbitration. Third, filing a lawsuit before the commercial court."
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْمُوَكِّلُ",
+      "arabic": "أَيُّ الْخِيَارَاتِ تَنْصَحُنِي بِهِ؟ وَمَا هِيَ مُزَايَا كُلٍّ مِنْهَا وَعُيُوبُهَا؟",
+      "bs": "Koju od opcija mi preporučujete? I koje su prednosti i nedostaci svake od njih?",
+      "en": "Which option do you advise me to take? And what are the advantages and disadvantages of each?"
+    },
+    {
+      "speaker": "B",
+      "role": "Lawyer",
+      "roleAr": "الْمُحَامِي",
+      "arabic": "أَنْصَحُكَ بِالْبَدْءِ بِالْمُفَاوَضَاتِ الْوَدِّيَّةِ لِأَنَّهَا أَسْرَعُ وَأَقَلُّ تَكْلِفَةً، وَتُحَافِظُ عَلَى الْعَلاقَاتِ التِّجَارِيَّةِ. أَمَّا الدَّعْوَى الْقَضَائِيَّةُ فَتَسْتَغْرِقُ وَقْتًا وَجُهْدًا أَكْبَرَ، لَكِنَّهَا تَضْمَنُ حُكْمًا مُلْزِمًا.",
+      "bs": "Savjetujem vam da počnete s prijateljskim pregovorima jer su brži i jeftiniji, i čuvaju poslovne odnose. Što se tiče sudske tužbe, ona zahtijeva više vremena i truda, ali osigurava obavezujuću presudu.",
+      "en": "I advise you to begin with friendly negotiations because they are faster and less costly, and they preserve business relationships. As for the lawsuit, it requires more time and effort, but it guarantees a binding ruling."
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْمُوَكِّلُ",
+      "arabic": "مَا هِيَ الْوَثَائِقُ الَّتِي أَحْتَاجُ إِلَى إِعْدَادِهَا لِكِلا الْمَسَارَيْنِ؟",
+      "bs": "Koje dokumente trebam pripremiti za oba puta?",
+      "en": "What documents do I need to prepare for both paths?"
+    },
+    {
+      "speaker": "B",
+      "role": "Lawyer",
+      "roleAr": "الْمُحَامِي",
+      "arabic": "تَحْتَاجُ إِلَى عَقْدِ الشَّرَاكَةِ الأَصْلِيِّ وَمُلْحَقَاتِهِ، وَالسِّجِلَّاتِ الْمَالِيَّةِ الْمُدَقَّقَةِ، وَمَحَاضِرِ اجْتِمَاعَاتِ مَجْلِسِ الإِدَارَةِ، وَأَيِّ مُرَاسَلاتٍ رَسْمِيَّةٍ بَيْنَكَ وَبَيْنَ شَرِيكِكَ تَتَعَلَّقُ بِالنِّزَاعِ.",
+      "bs": "Trebate originalni ugovor o partnerstvu i njegove anekse, revidirane finansijske evidencije, zapisnike sjednica upravnog odbora i svu zvaničnu prepisku između vas i vašeg partnera vezanu za spor.",
+      "en": "You need the original partnership agreement and its annexes, audited financial records, board meeting minutes, and any official correspondence between you and your partner related to the dispute."
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْمُوَكِّلُ",
+      "arabic": "إِذَا لَجَأْنَا إِلَى الْمَحْكَمَةِ، كَمْ يَسْتَغْرِقُ الْفَصْلُ فِي مِثْلِ هَذِهِ الْقَضَايَا؟",
+      "bs": "Ako se obratimo sudu, koliko dugo traje rješavanje ovakvih predmeta?",
+      "en": "If we resort to court, how long does it take to adjudicate such cases?"
+    },
+    {
+      "speaker": "B",
+      "role": "Lawyer",
+      "roleAr": "الْمُحَامِي",
+      "arabic": "تَتَفَاوَتُ الْمُدَدُ، لَكِنَّ الْقَضَايَا التِّجَارِيَّةَ الْمُشَابِهَةَ تَسْتَغْرِقُ فِي الْغَالِبِ بَيْنَ سَنَةٍ وَسَنَتَيْنِ. وَبِالنَّظَرِ إِلَى قُوَّةِ أَدِلَّتِكَ، أَرَى أَنَّ فُرَصَ الْفَوْزِ مُرْتَفِعَةٌ.",
+      "bs": "Rokovi variraju, ali slični poslovni predmeti obično traju između jedne i dvije godine. Uzimajući u obzir snagu vaših dokaza, smatram da su šanse za uspjeh visoke.",
+      "en": "Timeframes vary, but similar commercial cases usually take between one and two years. Given the strength of your evidence, I believe the chances of winning are high."
+    },
+    {
+      "speaker": "A",
+      "role": "Client",
+      "roleAr": "الْمُوَكِّلُ",
+      "arabic": "مَا هِيَ أَتْعَابُكَ عَلَى تَمْثِيلِي فِي هَذِهِ الْقَضِيَّةِ؟",
+      "bs": "Kakve su vaše naknade za zastupanje mene u ovom predmetu?",
+      "en": "What are your fees for representing me in this case?"
+    },
+    {
+      "speaker": "B",
+      "role": "Lawyer",
+      "roleAr": "الْمُحَامِي",
+      "arabic": "أَتْعَابِي تَتَكَوَّنُ مِنْ أَجْرٍ ثَابِتٍ لِمَرْحَلَةِ الْمُفَاوَضَاتِ، وَنِسْبَةٍ مَئَوِيَّةٍ مِنَ الْمَبْلَغِ الْمُحَكُومِ بِهِ فِي حَالِ اللُّجُوءِ إِلَى الْقَضَاءِ. سَأُزَوِّدُكَ بِتَفْصِيلٍ مَكْتُوبٍ لِلأَتْعَابِ فِي الزِّيَارَةِ الْقَادِمَةِ.",
+      "bs": "Moje naknade se sastoje od fiksnog honorara za fazu pregovaranja i procentualnog udjela od dosuđenog iznosa u slučaju obraćanja sudu. Dostavit ću vam pisani detalj naknada na sljedećoj posjeti.",
+      "en": "My fees consist of a fixed fee for the negotiation phase and a percentage of the amount awarded if resort to court is necessary. I will provide you with a written breakdown of fees at the next visit."
+    }
+  ],
+  "grammarFocus": "legal option-presenting with أَوَّلاً، ثَانِيًا، ثَالِثًا and cause-effect constructions with بِمُوجَبِ",
+  "tags": ["legal", "formal", "B2", "law", "business"]
+}

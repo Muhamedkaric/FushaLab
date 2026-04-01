@@ -1,0 +1,125 @@
+{
+  "id": "conv-b1-010",
+  "level": "B1",
+  "situation": "transport",
+  "title": "Taking a Taxi",
+  "titleAr": "رُكُوبُ سَيَّارَةِ الأُجْرَةِ",
+  "titleBs": "Vožnja taksijem",
+  "estimatedMinutes": 5,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Passenger",
+      "roleAr": "الرَّاكِبُ",
+      "arabic": "السَّلَامُ عَلَيْكُمْ، هَلْ أَنْتَ حُرٌّ؟ أَحْتَاجُ إِلَى سَيَّارَةِ أُجْرَةٍ.",
+      "bs": "Selam alejkum, jesi li slobodan? Trebam taksi.",
+      "en": "Peace be upon you, are you free? I need a taxi."
+    },
+    {
+      "speaker": "B",
+      "role": "Driver",
+      "roleAr": "السَّائِقُ",
+      "arabic": "وَعَلَيْكُمُ السَّلَامُ! نَعَمْ، أَنَا حُرٌّ. إِلَى أَيْنَ تُرِيدُ أَنْ تَذْهَبَ؟",
+      "bs": "Ve alejkum selam! Da, slobodan sam. Kuda želiš ići?",
+      "en": "And peace be upon you! Yes, I am free. Where do you want to go?"
+    },
+    {
+      "speaker": "A",
+      "role": "Passenger",
+      "roleAr": "الرَّاكِبُ",
+      "arabic": "أُرِيدُ الذَّهَابَ إِلَى مَطَارِ الدَّوْلِيِّ، مِنْ فَضْلِكَ.",
+      "bs": "Želim otići do međunarodnog aerodroma, molim.",
+      "en": "I want to go to the international airport, please."
+    },
+    {
+      "speaker": "B",
+      "role": "Driver",
+      "roleAr": "السَّائِقُ",
+      "arabic": "حَسَنًا، تَفَضَّلِ ارْكَبْ. هَلْ تُرِيدُ أَنْ نَسْلُكَ الطَّرِيقَ السَّرِيعَةَ أَمِ الطَّرِيقَ الرَّئِيسِيَّةَ؟",
+      "bs": "Dobro, izvolite uđite. Želite li da idemo autocestom ili glavnom cestom?",
+      "en": "Very well, please get in. Do you want us to take the highway or the main road?"
+    },
+    {
+      "speaker": "A",
+      "role": "Passenger",
+      "roleAr": "الرَّاكِبُ",
+      "arabic": "مَا الأَسْرَعُ فِي هَذَا الْوَقْتِ؟ رِحْلَتِي بَعْدَ سَاعَتَيْنِ.",
+      "bs": "Šta je brže u ovo doba? Moj let je za dva sata.",
+      "en": "What is faster at this time? My flight is in two hours."
+    },
+    {
+      "speaker": "B",
+      "role": "Driver",
+      "roleAr": "السَّائِقُ",
+      "arabic": "الطَّرِيقُ السَّرِيعَةُ أَفْضَلُ الآنَ. الاِزْدِحَامُ شَدِيدٌ عَلَى الطَّرِيقِ الرَّئِيسِيَّةِ فِي هَذِهِ السَّاعَةِ.",
+      "bs": "Autocesta je bolja sada. Gužva je velika na glavnoj cesti u ovo doba.",
+      "en": "The highway is better now. Traffic is heavy on the main road at this hour."
+    },
+    {
+      "speaker": "A",
+      "role": "Passenger",
+      "roleAr": "الرَّاكِبُ",
+      "arabic": "حَسَنًا، خُذِ الطَّرِيقَ السَّرِيعَةَ إِذَنْ. كَمِ الْوَقْتُ اللَّازِمُ لِلْوُصُولِ؟",
+      "bs": "Dobro, uzmi onda autocestu. Koliko je potrebno vremena za dolazak?",
+      "en": "Very well, take the highway then. How much time is needed to arrive?"
+    },
+    {
+      "speaker": "B",
+      "role": "Driver",
+      "roleAr": "السَّائِقُ",
+      "arabic": "إِذَا سَارَتِ الأُمُورُ بِشَكْلٍ طَبِيعِيٍّ سَنَصِلُ خِلَالَ خَمْسٍ وَأَرْبَعِينَ دَقِيقَةً.",
+      "bs": "Ako sve bude normalno, stižemo za četrdeset i pet minuta.",
+      "en": "If things go normally, we will arrive within forty-five minutes."
+    },
+    {
+      "speaker": "A",
+      "role": "Passenger",
+      "roleAr": "الرَّاكِبُ",
+      "arabic": "جَيِّدٌ. هَلِ الطَّرِيقُ مُزْدَحِمَةٌ الآنَ عَلَى الطَّرِيقِ السَّرِيعَةِ أَيْضًا؟",
+      "bs": "Dobro. Je li i autocesta sada zakrčena?",
+      "en": "Good. Is the highway also congested now?"
+    },
+    {
+      "speaker": "B",
+      "role": "Driver",
+      "roleAr": "السَّائِقُ",
+      "arabic": "لَا، الطَّرِيقُ السَّرِيعَةُ مَفْتُوحَةٌ. يُمْكِنُنَا الْوُصُولُ فِي الْوَقْتِ الْمُنَاسِبِ.",
+      "bs": "Ne, autocesta je slobodna. Možemo stići na vrijeme.",
+      "en": "No, the highway is open. We can arrive on time."
+    },
+    {
+      "speaker": "A",
+      "role": "Passenger",
+      "roleAr": "الرَّاكِبُ",
+      "arabic": "الْحَمْدُ لِلَّهِ. كَمِ الأُجْرَةُ تَقْرِيبًا مِنْ هُنَا إِلَى الْمَطَارِ؟",
+      "bs": "Hvala Bogu. Koliko otprilike iznosi cijena od ovdje do aerodroma?",
+      "en": "Thank God. How much is the fare approximately from here to the airport?"
+    },
+    {
+      "speaker": "B",
+      "role": "Driver",
+      "roleAr": "السَّائِقُ",
+      "arabic": "الأُجْرَةُ الْعَادِيَّةُ خَمْسُونَ دِرْهَمًا، وَلَكِنَّ هَذَا يَشْمَلُ رُسُومَ الطَّرِيقِ السَّرِيعَةِ.",
+      "bs": "Uobičajena cijena je pedeset dirhema, ali to uključuje cestarine autoceste.",
+      "en": "The usual fare is fifty dirhams, but that includes the highway toll fees."
+    },
+    {
+      "speaker": "A",
+      "role": "Passenger",
+      "roleAr": "الرَّاكِبُ",
+      "arabic": "مَقْبُولٌ. وَصَلْنَا، شُكْرًا جَزِيلًا عَلَى سُرْعَةِ الْوُصُولِ.",
+      "bs": "Prihvatljivo. Stigli smo, hvala lijepa na brzom dolasku.",
+      "en": "Acceptable. We have arrived, thank you very much for the fast arrival."
+    },
+    {
+      "speaker": "B",
+      "role": "Driver",
+      "roleAr": "السَّائِقُ",
+      "arabic": "شُكْرًا لَكَ! تَفَضَّلْ بَاقِيَ النُّقُودِ. رِحْلَةً مُوَفَّقَةً وَسَفَرًا سَعِيدًا!",
+      "bs": "Hvala tebi! Izvolite ostatak novca. Sretan put i ugodnu vožnju!",
+      "en": "Thank you! Here is your change. Have a successful trip and a happy journey!"
+    }
+  ],
+  "grammarFocus": "comparative adjectives (أَفْضَلُ, أَسْرَعُ) and conditional with إِذَا",
+  "tags": ["transport", "taxi", "travel", "B1"]
+}

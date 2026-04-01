@@ -1,0 +1,125 @@
+{
+  "id": "conv-b1-002",
+  "level": "B1",
+  "situation": "restaurant",
+  "title": "Ordering at a Restaurant",
+  "titleAr": "الطَّلَبُ فِي الْمَطْعَمِ",
+  "titleBs": "Naručivanje u restoranu",
+  "estimatedMinutes": 5,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "مَسَاءُ الْخَيْرِ، هَلْ يُوجَدُ طَاوِلَةٌ لِشَخْصَيْنِ؟",
+      "bs": "Dobro veče, ima li stola za dvije osobe?",
+      "en": "Good evening, is there a table for two?"
+    },
+    {
+      "speaker": "B",
+      "role": "Waiter",
+      "roleAr": "النَّادِلُ",
+      "arabic": "مَسَاءُ النُّورِ! نَعَمْ، تَفَضَّلَا. هَذِهِ طَاوِلَتُكُمَا. هَلْ تُرِيدَانِ قَائِمَةَ الطَّعَامِ؟",
+      "bs": "Dobro veče! Da, izvolite. Evo vašeg stola. Želite li jelovnik?",
+      "en": "Good evening! Yes, please come in. Here is your table. Would you like the menu?"
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "نَعَمْ، مِنْ فَضْلِكَ. وَهَلْ يُمْكِنُكَ أَنْ تُخْبِرَنَا بِأَطْبَاقِ الْيَوْمِ؟",
+      "bs": "Da, molim. I možeš li nam reći koja su jela dana?",
+      "en": "Yes, please. And can you tell us about today's specials?"
+    },
+    {
+      "speaker": "B",
+      "role": "Waiter",
+      "roleAr": "النَّادِلُ",
+      "arabic": "بِكُلِّ سُرُورٍ. طَبَقُ الْيَوْمِ هُوَ الدَّجَاجُ الْمَشْوِيُّ مَعَ الْأَرُزِّ وَالسَّلَطَةِ.",
+      "bs": "S velim zadovoljstvom. Jelo dana je pečena piletina s rižom i salatom.",
+      "en": "With great pleasure. Today's dish is grilled chicken with rice and salad."
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "يَبْدُو ذَلِكَ لَذِيذًا. مَا الْمُكَوِّنَاتُ الرَّئِيسِيَّةُ فِي هَذَا الطَّبَقِ؟",
+      "bs": "To zvuči ukusno. Koji su glavni sastojci u tom jelu?",
+      "en": "That sounds delicious. What are the main ingredients in that dish?"
+    },
+    {
+      "speaker": "B",
+      "role": "Waiter",
+      "roleAr": "النَّادِلُ",
+      "arabic": "الدَّجَاجُ مُتَبَّلٌ بِالثُّومِ وَالزَّيْتِ وَالتَّوَابِلِ الطَّبِيعِيَّةِ، وَيُقَدَّمُ مَعَ أَرُزٍّ وَخُضَارٍ.",
+      "bs": "Piletina je marinirana s češnjakom, uljem i prirodnim začinima, i servira se s rižom i povrćem.",
+      "en": "The chicken is marinated with garlic, oil, and natural spices, and served with rice and vegetables."
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "سَآخُذُ طَبَقَ الْيَوْمِ. وَأُرِيدُ أَيْضًا شُورْبَةَ الْعَدَسِ كَمُقَبِّلٍ.",
+      "bs": "Uzet ću jelo dana. Također želim juhu od leće kao predjelo.",
+      "en": "I will have today's special. I also want lentil soup as a starter."
+    },
+    {
+      "speaker": "B",
+      "role": "Waiter",
+      "roleAr": "النَّادِلُ",
+      "arabic": "اخْتِيَارٌ مُمْتَازٌ! وَمَاذَا تَشْرَبَانِ؟ لَدَيْنَا عَصَائِرُ طَازَجَةٌ وَمَاءٌ وَشَايٌ.",
+      "bs": "Odličan izbor! A šta ćete piti? Imamo svježe sokove, vodu i čaj.",
+      "en": "Excellent choice! And what will you drink? We have fresh juices, water and tea."
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "أُرِيدُ عَصِيرَ الْبُرْتُقَالِ مِنْ فَضْلِكَ، وَزُجَاجَةَ مَاءٍ بَارِدٍ.",
+      "bs": "Željela bih sok od narandže, molim, i flašu hladne vode.",
+      "en": "I would like orange juice please, and a bottle of cold water."
+    },
+    {
+      "speaker": "B",
+      "role": "Waiter",
+      "roleAr": "النَّادِلُ",
+      "arabic": "حَسَنًا، سَأُحْضِرُ طَلَبَكُمَا فِي الْحَالِ. هَلْ تَحْتَاجُونَ شَيْئًا آخَرَ؟",
+      "bs": "Dobro, donijet ću vašu narudžbu odmah. Trebate li još nešto?",
+      "en": "Very well, I will bring your order right away. Do you need anything else?"
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "لَا شُكْرًا. كَانَ الطَّعَامُ لَذِيذًا جِدًّا. هَلْ يُمْكِنُنَا الْحُصُولُ عَلَى الْحِسَابِ؟",
+      "bs": "Ne, hvala. Hrana je bila vrlo ukusna. Možemo li dobiti račun?",
+      "en": "No thank you. The food was very delicious. Can we have the bill?"
+    },
+    {
+      "speaker": "B",
+      "role": "Waiter",
+      "roleAr": "النَّادِلُ",
+      "arabic": "بِالتَّأْكِيدِ، الْمَجْمُوعُ خَمْسَةٌ وَثَلَاثُونَ دُولَارًا. هَلْ تَدْفَعُونَ نَقْدًا أَمْ بِالْبِطَاقَةِ؟",
+      "bs": "Naravno, ukupno je trideset pet dolara. Plaćate li gotovinom ili karticom?",
+      "en": "Of course, the total is thirty-five dollars. Are you paying cash or by card?"
+    },
+    {
+      "speaker": "A",
+      "role": "Customer",
+      "roleAr": "الزَّبُونُ",
+      "arabic": "سَأَدْفَعُ نَقْدًا. تَفَضَّلْ أَرْبَعُونَ دُولَارًا.",
+      "bs": "Platit ću gotovinom. Izvolite četrdeset dolara.",
+      "en": "I will pay cash. Here are forty dollars."
+    },
+    {
+      "speaker": "B",
+      "role": "Waiter",
+      "roleAr": "النَّادِلُ",
+      "arabic": "شُكْرًا لَكُمْ. هَذَا خَمْسَةُ دُولَارَاتٍ بَاقِيَةٌ. نَتَمَنَّى لَكُمْ مَسَاءً سَعِيدًا!",
+      "bs": "Hvala vam. Evo pet dolara ostatka. Željemo vam lijepu večer!",
+      "en": "Thank you. Here is five dollars change. We wish you a pleasant evening!"
+    }
+  ],
+  "grammarFocus": "dual forms and polite requests with هَلْ يُمْكِنُ",
+  "tags": ["restaurant", "food", "B1"]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "clarification",
+  "title": "Asking for Clarification",
+  "titleAr": "طَلَبُ التَّوْضِيحِ",
+  "titleBs": "Traženje pojašnjenja",
+  "phrases": [
+    {
+      "arabic": "هَلْ يُمْكِنُكَ التَّوْضِيحَ؟",
+      "bs": "Možeš li pojasniti?",
+      "en": "Could you clarify?",
+      "context": "A direct but polite request for clarification when something is unclear",
+      "contextBs": "Direktan, ali pristojan zahtjev za pojašnjenjem kada nešto nije jasno",
+      "register": "neutral"
+    },
+    {
+      "arabic": "مَاذَا تَقْصِدُ بِـ...؟",
+      "bs": "Šta misliš pod...?",
+      "en": "What do you mean by...?",
+      "context": "Used to ask for the meaning of a specific word, phrase, or idea that was just used",
+      "contextBs": "Koristi se za pitanje o značenju određene riječi, fraze ili ideje koja je upravo upotrijebljena",
+      "register": "neutral"
+    },
+    {
+      "arabic": "هَلْ تَعْنِي أَنَّ...؟",
+      "bs": "Misliš li da...?",
+      "en": "Do you mean that...?",
+      "context": "Used to check your understanding by rephrasing what you think the speaker meant",
+      "contextBs": "Koristi se za provjeru razumijevanja preformuliranjem onoga za što mislite da je govornik mislio",
+      "register": "neutral"
+    },
+    {
+      "arabic": "لَمْ أَفْهَمْ جَيِّداً، هَلْ يُمْكِنُكَ التَّوْضِيحَ أَكْثَرَ؟",
+      "bs": "Nisam dobro razumio/razumjela, možeš li bolje pojasniti?",
+      "en": "I did not understand well, could you clarify further?",
+      "context": "Honest acknowledgement of not understanding, followed by a request for more detail",
+      "contextBs": "Iskreno priznanje nerazumijevanja, praćeno zahtjevom za više detalja",
+      "register": "neutral"
+    },
+    {
+      "arabic": "هَلْ يُمْكِنُكَ الإِعَادَةَ مِنْ فَضْلِكَ؟",
+      "bs": "Možeš li ponoviti, molim te?",
+      "en": "Could you repeat that, please?",
+      "context": "Used when you did not hear or catch what was said and need it repeated",
+      "contextBs": "Koristi se kada niste čuli ili uhvatili što je rečeno i trebate da se ponovi",
+      "register": "neutral"
+    },
+    {
+      "arabic": "هَلْ يُمْكِنُكَ التَّحَدُّثُ بِشَكْلٍ أَبْطَأَ؟",
+      "bs": "Možeš li govoriti sporije?",
+      "en": "Could you speak more slowly?",
+      "context": "Polite request to slow down the pace of speech; very useful for language learners",
+      "contextBs": "Pristojan zahtjev da se uspori tempo govora; veoma korisno za učenike jezika",
+      "register": "neutral"
+    },
+    {
+      "arabic": "بِمَعْنًى آخَرَ...؟",
+      "bs": "Drugim riječima...?",
+      "en": "In other words...?",
+      "context": "Used to rephrase or simplify a statement to confirm you have understood it correctly",
+      "contextBs": "Koristi se za preformuliranje ili pojednostavljivanje izjave radi potvrde da ste je ispravno razumjeli",
+      "register": "neutral"
+    },
+    {
+      "arabic": "هَلْ يُمْكِنُكَ إِعْطَاءَ مِثَالٍ؟",
+      "bs": "Možeš li dati primjer?",
+      "en": "Could you give an example?",
+      "context": "Request for a concrete example to better understand an abstract concept or statement",
+      "contextBs": "Zahtjev za konkretnim primjerom radi boljeg razumijevanja apstraktnog koncepta ili izjave",
+      "register": "neutral"
+    },
+    {
+      "arabic": "بِعِبَارَةٍ أُخْرَى",
+      "bs": "Drugačije rečeno",
+      "en": "Put another way / To put it differently",
+      "context": "Used by the speaker to rephrase their own statement in a clearer or simpler way",
+      "contextBs": "Koristi se od strane govornika za preformuliranje vlastite izjave na jasniji ili jednostavniji način",
+      "register": "neutral"
+    },
+    {
+      "arabic": "أَيْ أَنَّ...",
+      "bs": "To jest...",
+      "en": "That is to say... / Meaning...",
+      "context": "A connector used to introduce a clarification or explanation of what was just said",
+      "contextBs": "Veznik koji se koristi za uvođenje pojašnjenja ili objašnjenja onoga što je upravo rečeno",
+      "register": "neutral"
+    },
+    {
+      "arabic": "هَلْ فَهِمْتُ صَحِيحاً أَنَّكَ تَقُولُ...؟",
+      "bs": "Jesam li dobro razumio/razumjela da ti kažeš...?",
+      "en": "Did I understand correctly that you are saying...?",
+      "context": "Used to verify your understanding by restating what you heard, inviting correction if needed",
+      "contextBs": "Koristi se za provjeru razumijevanja ponovnim iznošenjem onoga što ste čuli, uz poziv na ispravku ako je potrebno",
+      "register": "neutral"
+    },
+    {
+      "arabic": "مَا الَّذِي تَقْصِدُهُ بِالضَّبْطِ؟",
+      "bs": "Šta tačno misliš?",
+      "en": "What exactly do you mean?",
+      "context": "A direct question used when something is vague and you need a precise answer",
+      "contextBs": "Direktno pitanje koje se koristi kada je nešto nejasno i trebate precizan odgovor",
+      "register": "neutral"
+    },
+    {
+      "arabic": "هَلْ يُمْكِنُكَ التَّفْصِيلُ أَكْثَرَ؟",
+      "bs": "Možeš li se više razraditi?",
+      "en": "Could you elaborate further?",
+      "context": "Request for more detail or depth on a topic that has been mentioned only briefly",
+      "contextBs": "Zahtjev za više detalja ili dubinom o temi koja je bila samo kratko pomenuta",
+      "register": "formal"
+    },
+    {
+      "arabic": "لَا يَزَالُ الأَمْرُ غَيْرَ وَاضِحٍ بِالنِّسْبَةِ لِي",
+      "bs": "Stvar mi još uvijek nije jasna",
+      "en": "The matter is still not clear to me",
+      "context": "Honest, polite statement indicating that the clarification given was insufficient",
+      "contextBs": "Iskrena, pristojna izjava koja naznačava da dato pojašnjenje nije bilo dovoljno",
+      "register": "formal"
+    }
+  ]
+}

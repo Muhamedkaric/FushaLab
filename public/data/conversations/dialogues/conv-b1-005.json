@@ -1,0 +1,125 @@
+{
+  "id": "conv-b1-005",
+  "level": "B1",
+  "situation": "university",
+  "title": "University Registration",
+  "titleAr": "التَّسْجِيلُ فِي الْجَامِعَةِ",
+  "titleBs": "Upis na univerzitet",
+  "estimatedMinutes": 5,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Student",
+      "roleAr": "الطَّالِبُ",
+      "arabic": "صَبَاحُ الْخَيْرِ، أُرِيدُ التَّسْجِيلَ فِي الْجَامِعَةِ لِلْعَامِ الدِّرَاسِيِّ الْقَادِمِ.",
+      "bs": "Dobro jutro, želim se upisati na univerzitet za narednu akademsku godinu.",
+      "en": "Good morning, I want to register at the university for the coming academic year."
+    },
+    {
+      "speaker": "B",
+      "role": "Admin Officer",
+      "roleAr": "مُوَظَّفُ الْقَبُولِ",
+      "arabic": "صَبَاحُ النُّورِ! أَهْلًا بِكَ. أَيُّ كُلِّيَّةٍ تُرِيدُ الاِلْتِحَاقَ بِهَا؟",
+      "bs": "Dobro jutro! Dobrodošli. Koji fakultet želite upisati?",
+      "en": "Good morning! Welcome. Which faculty do you want to join?"
+    },
+    {
+      "speaker": "A",
+      "role": "Student",
+      "roleAr": "الطَّالِبُ",
+      "arabic": "أُرِيدُ الاِلْتِحَاقَ بِكُلِّيَّةِ الْهَنْدَسَةِ، تَخَصُّصُ الْحَاسُوبِ.",
+      "bs": "Želim upisati Tehnički fakultet, smjer računarstvo.",
+      "en": "I want to join the Engineering Faculty, specialization in computer science."
+    },
+    {
+      "speaker": "B",
+      "role": "Admin Officer",
+      "roleAr": "مُوَظَّفُ الْقَبُولِ",
+      "arabic": "مُمْتَازٌ. مَا الْوَثَائِقُ الْمَطْلُوبَةُ لِلتَّسْجِيلِ؟",
+      "bs": "Odlično. Koji dokumenti su potrebni za upis?",
+      "en": "Excellent. What documents are required for registration?"
+    },
+    {
+      "speaker": "A",
+      "role": "Student",
+      "roleAr": "الطَّالِبُ",
+      "arabic": "هَذَا مَا أُرِيدُ أَنْ أَعْرِفَهُ. مَا الْوَثَائِقُ الَّتِي يَجِبُ أَنْ أُحْضِرَهَا؟",
+      "bs": "To upravo želim znati. Koje dokumente trebam donijeti?",
+      "en": "That is exactly what I want to know. What documents must I bring?"
+    },
+    {
+      "speaker": "B",
+      "role": "Admin Officer",
+      "roleAr": "مُوَظَّفُ الْقَبُولِ",
+      "arabic": "تَحْتَاجُ إِلَى شَهَادَةِ الثَّانَوِيَّةِ وَصُورَةٍ عَنْ هُوِيَّتِكَ وَاثْنَتَيْنِ مِنَ الصُّوَرِ الشَّخْصِيَّةِ.",
+      "bs": "Trebate svjedočanstvo srednje škole, kopiju lične karte i dvije fotografije.",
+      "en": "You need a high school certificate, a copy of your ID, and two personal photographs."
+    },
+    {
+      "speaker": "A",
+      "role": "Student",
+      "roleAr": "الطَّالِبُ",
+      "arabic": "فَهِمْتُ. وَمَا مِقْدَارُ الرُّسُومِ الدِّرَاسِيَّةِ فِي السَّنَةِ؟",
+      "bs": "Razumijem. Kolika je godišnja školarina?",
+      "en": "I understand. What is the amount of the annual tuition fees?"
+    },
+    {
+      "speaker": "B",
+      "role": "Admin Officer",
+      "roleAr": "مُوَظَّفُ الْقَبُولِ",
+      "arabic": "الرُّسُومُ الدِّرَاسِيَّةُ ثَلَاثَةُ آلَافِ دُولَارٍ فِي السَّنَةِ، وَيُمْكِنُ الدَّفْعُ عَلَى قِسْطَيْنِ.",
+      "bs": "Školarina je tri hiljade dolara godišnje, i može se platiti u dvije rate.",
+      "en": "The tuition fees are three thousand dollars per year, and can be paid in two installments."
+    },
+    {
+      "speaker": "A",
+      "role": "Student",
+      "roleAr": "الطَّالِبُ",
+      "arabic": "هَلْ تُوجَدُ مَنَحٌ دِرَاسِيَّةٌ لِلطُّلَّابِ الْمُتَفَوِّقِينَ؟",
+      "bs": "Postoje li stipendije za odlične studente?",
+      "en": "Are there scholarships for excellent students?"
+    },
+    {
+      "speaker": "B",
+      "role": "Admin Officer",
+      "roleAr": "مُوَظَّفُ الْقَبُولِ",
+      "arabic": "نَعَمْ، تُوجَدُ مَنَحٌ جُزْئِيَّةٌ وَكَامِلَةٌ. يُمْكِنُكَ التَّقَدُّمُ لِلْمَنْحَةِ بَعْدَ التَّسْجِيلِ.",
+      "bs": "Da, postoje djelimične i pune stipendije. Možete aplicirati za stipendiju nakon upisa.",
+      "en": "Yes, there are partial and full scholarships. You can apply for a scholarship after registration."
+    },
+    {
+      "speaker": "A",
+      "role": "Student",
+      "roleAr": "الطَّالِبُ",
+      "arabic": "مَتَى آخِرُ مَوْعِدٍ لِلتَّسْجِيلِ؟",
+      "bs": "Koji je krajnji rok za upis?",
+      "en": "What is the deadline for registration?"
+    },
+    {
+      "speaker": "B",
+      "role": "Admin Officer",
+      "roleAr": "مُوَظَّفُ الْقَبُولِ",
+      "arabic": "آخِرُ مَوْعِدٍ لِلتَّسْجِيلِ هُوَ نِهَايَةُ شَهْرِ أَغُسْطُسَ. لَا تَتَأَخَّرْ!",
+      "bs": "Krajnji rok za upis je kraj avgusta. Nemojte kasniti!",
+      "en": "The registration deadline is the end of August. Do not be late!"
+    },
+    {
+      "speaker": "A",
+      "role": "Student",
+      "roleAr": "الطَّالِبُ",
+      "arabic": "وَمَتَى سَأَحْصُلُ عَلَى بِطَاقَةِ الطَّالِبِ؟",
+      "bs": "Kada ću dobiti studentsku iskaznicu?",
+      "en": "And when will I receive the student ID card?"
+    },
+    {
+      "speaker": "B",
+      "role": "Admin Officer",
+      "roleAr": "مُوَظَّفُ الْقَبُولِ",
+      "arabic": "سَتَحْصُلُ عَلَى بِطَاقَةِ الطَّالِبِ فِي أَوَّلِ أُسْبُوعٍ مِنَ الدِّرَاسَةِ. مَرْحَبًا بِكَ فِي جَامِعَتِنَا!",
+      "bs": "Dobit ćete studentsku iskaznicu u prvoj sedmici studija. Dobrodošli na naš univerzitet!",
+      "en": "You will receive the student ID card in the first week of studies. Welcome to our university!"
+    }
+  ],
+  "grammarFocus": "imperfect verb with تَحْتَاجُ and future tense with سَـ",
+  "tags": ["university", "education", "B1"]
+}

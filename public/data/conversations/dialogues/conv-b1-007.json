@@ -1,0 +1,125 @@
+{
+  "id": "conv-b1-007",
+  "level": "B1",
+  "situation": "directions",
+  "title": "Asking for Directions",
+  "titleAr": "طَلَبُ الاتِّجَاهَاتِ",
+  "titleBs": "Traženje uputa za put",
+  "estimatedMinutes": 5,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Visitor",
+      "roleAr": "الزَّائِرُ",
+      "arabic": "عَفْوًا، هَلْ يُمْكِنُكَ مُسَاعَدَتِي؟ أَنَا لَا أَعْرِفُ هَذِهِ الْمَدِينَةَ جَيِّدًا.",
+      "bs": "Oprostite, možete li mi pomoći? Ne poznajem dobro ovaj grad.",
+      "en": "Excuse me, can you help me? I do not know this city well."
+    },
+    {
+      "speaker": "B",
+      "role": "Passer-by",
+      "roleAr": "الْمَارُّ",
+      "arabic": "بِكُلِّ سُرُورٍ! أَيْنَ تُرِيدُ أَنْ تَذْهَبَ؟",
+      "bs": "S velikim zadovoljstvom! Gdje želite ići?",
+      "en": "With great pleasure! Where do you want to go?"
+    },
+    {
+      "speaker": "A",
+      "role": "Visitor",
+      "roleAr": "الزَّائِرُ",
+      "arabic": "أَبْحَثُ عَنِ الْمَسْجِدِ الْكَبِيرِ. هَلْ هُوَ بَعِيدٌ مِنْ هُنَا؟",
+      "bs": "Tražim veliku džamiju. Je li daleko odavde?",
+      "en": "I am looking for the Grand Mosque. Is it far from here?"
+    },
+    {
+      "speaker": "B",
+      "role": "Passer-by",
+      "roleAr": "الْمَارُّ",
+      "arabic": "لَا، لَيْسَ بَعِيدًا. هُوَ عَلَى بُعْدِ عَشَرِ دَقَائِقَ مَشْيًا مِنْ هُنَا.",
+      "bs": "Ne, nije daleko. Udaljen je deset minuta hoda odavde.",
+      "en": "No, it is not far. It is ten minutes' walk from here."
+    },
+    {
+      "speaker": "A",
+      "role": "Visitor",
+      "roleAr": "الزَّائِرُ",
+      "arabic": "كَيْفَ أَصِلُ إِلَيْهِ مِنْ فَضْلِكَ؟",
+      "bs": "Kako da dođem do njega, molim?",
+      "en": "How do I get there, please?"
+    },
+    {
+      "speaker": "B",
+      "role": "Passer-by",
+      "roleAr": "الْمَارُّ",
+      "arabic": "اِمْشِ سَيِّدِي تِلْكَ الشَّارِعَ الرَّئِيسِيَّةَ مُبَاشَرَةً حَتَّى تَصِلَ إِلَى دَوَّارٍ.",
+      "bs": "Idite ravno tom glavnom ulicom dok ne stignete do kružnog toka.",
+      "en": "Walk straight along that main street until you reach a roundabout."
+    },
+    {
+      "speaker": "A",
+      "role": "Visitor",
+      "roleAr": "الزَّائِرُ",
+      "arabic": "حَسَنًا، وَبَعْدَ الدَّوَّارِ مَاذَا أَفْعَلُ؟",
+      "bs": "Dobro, a šta radim nakon kružnog toka?",
+      "en": "Very well, and what do I do after the roundabout?"
+    },
+    {
+      "speaker": "B",
+      "role": "Passer-by",
+      "roleAr": "الْمَارُّ",
+      "arabic": "عِنْدَ الدَّوَّارِ، خُذْ أَوَّلَ شَارِعٍ عَلَى الْيَسَارِ، ثُمَّ سَيِّرْ مِئَةَ مِتْرٍ.",
+      "bs": "Na kružnom toku skrenite u prvu ulicu lijevo, zatim idite sto metara.",
+      "en": "At the roundabout, take the first street on the left, then walk one hundred metres."
+    },
+    {
+      "speaker": "A",
+      "role": "Visitor",
+      "roleAr": "الزَّائِرُ",
+      "arabic": "وَهَلْ يُوجَدُ مَعْلَمٌ قَرِيبٌ يُسَاعِدُنِي عَلَى الْمَعْرِفَةِ؟",
+      "bs": "Postoji li neka bliska orijentir koji bi mi pomogao da se snađem?",
+      "en": "Is there a nearby landmark that would help me find the way?"
+    },
+    {
+      "speaker": "B",
+      "role": "Passer-by",
+      "roleAr": "الْمَارُّ",
+      "arabic": "نَعَمْ. سَتَرَى مَكْتَبَةً كَبِيرَةً عَلَى يَمِينِكَ. الْمَسْجِدُ خَلْفَ الْمَكْتَبَةِ مُبَاشَرَةً.",
+      "bs": "Da. Vidjet ćete veliku biblioteku na vašoj desnoj strani. Džamija je direktno iza biblioteke.",
+      "en": "Yes. You will see a large library on your right. The mosque is directly behind the library."
+    },
+    {
+      "speaker": "A",
+      "role": "Visitor",
+      "roleAr": "الزَّائِرُ",
+      "arabic": "شُكْرًا جَزِيلًا. وَهَلْ تَعْرِفُ أَيْنَ أَقْرَبُ مَحَطَّةِ الْحَافِلَةِ؟",
+      "bs": "Hvala lijepa. I znate li gdje je najbliža autobuska stanica?",
+      "en": "Thank you very much. And do you know where the nearest bus station is?"
+    },
+    {
+      "speaker": "B",
+      "role": "Passer-by",
+      "roleAr": "الْمَارُّ",
+      "arabic": "مَحَطَّةُ الْحَافِلَةِ فِي مُقَابِلِ الْمَسْجِدِ مُبَاشَرَةً. لَا يُمْكِنُكَ إِغْفَالُهَا.",
+      "bs": "Autobuska stanica je direktno nasuprot džamiji. Ne možete je propustiti.",
+      "en": "The bus station is directly opposite the mosque. You cannot miss it."
+    },
+    {
+      "speaker": "A",
+      "role": "Visitor",
+      "roleAr": "الزَّائِرُ",
+      "arabic": "هَذَا رَائِعٌ! لَقَدْ فَهِمْتُ كُلَّ شَيْءٍ. أَنْتَ لَطِيفٌ جِدًّا.",
+      "bs": "Odlično! Razumio sam sve. Vi ste veoma ljubazni.",
+      "en": "That is wonderful! I have understood everything. You are very kind."
+    },
+    {
+      "speaker": "B",
+      "role": "Passer-by",
+      "roleAr": "الْمَارُّ",
+      "arabic": "لَا شُكْرَ عَلَى وَاجِبٍ. أَتَمَنَّى لَكَ زِيَارَةً مُمْتِعَةً فِي مَدِينَتِنَا!",
+      "bs": "Nema na čemu. Želim vam ugodan boravak u našem gradu!",
+      "en": "Do not mention it. I wish you an enjoyable visit in our city!"
+    }
+  ],
+  "grammarFocus": "imperative mood and prepositions of place (عَلَى, خَلْفَ, فِي مُقَابِلِ)",
+  "tags": ["directions", "city", "B1"]
+}

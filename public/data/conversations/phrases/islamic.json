@@ -1,0 +1,104 @@
+{
+  "id": "islamic",
+  "title": "Islamic Expressions",
+  "titleAr": "التَّعْبِيرَاتُ الإِسْلَامِيَّةُ",
+  "titleBs": "Islamski izrazi",
+  "phrases": [
+    {
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ",
+      "bs": "U ime Allaha, Milostivog, Samilosnog",
+      "en": "In the name of Allah, the Most Gracious, the Most Merciful",
+      "context": "Said at the beginning of any significant action: eating, reading, writing, starting a speech or journey; opening every chapter of the Quran",
+      "contextBs": "Kaže se na početku svake značajne radnje: jelu, čitanju, pisanju, početku govora ili putovanja; otvara svako poglavlje Kur'ana",
+      "register": "formal"
+    },
+    {
+      "arabic": "الْحَمْدُ للهِ",
+      "bs": "Hvala Allahu",
+      "en": "All praise is due to Allah",
+      "context": "Expressed in gratitude for a blessing, after recovering from illness, completing a task, eating a meal, or when someone asks how you are",
+      "contextBs": "Izražava se zahvalnost za blagoslov, nakon oporavka od bolesti, završetka zadatka, obroka, ili kada neko pita kako ste",
+      "register": "neutral"
+    },
+    {
+      "arabic": "إِنْ شَاءَ اللهُ",
+      "bs": "Ako Allah da / Inšallah",
+      "en": "If Allah wills",
+      "context": "Said when mentioning any future plan or intention; expresses that all outcomes are in Allah's hands",
+      "contextBs": "Kaže se pri spominjanju budućeg plana ili namjere; izražava da su svi ishodi u Allahovim rukama",
+      "register": "neutral"
+    },
+    {
+      "arabic": "مَا شَاءَ اللهُ",
+      "bs": "Što Allah htjede / Mašallah",
+      "en": "What Allah has willed (expression of admiration)",
+      "context": "Said upon seeing something admirable or impressive — a person's beauty, talent, achievement, or a child's growth; also used to ward off the evil eye",
+      "contextBs": "Kaže se kad se vidi nešto divno ili impresivno — nečija ljepota, talenat, postignuće ili rast djeteta; koristi se i za zaštitu od uroka",
+      "register": "neutral"
+    },
+    {
+      "arabic": "جَزَاكَ اللهُ خَيْراً",
+      "bs": "Neka ti Allah nagradi dobrim",
+      "en": "May Allah reward you with good",
+      "context": "Said in gratitude when someone does something kind or helpful for you; considered a more meaningful thanks than شكراً",
+      "contextBs": "Kaže se kao zahvalnost kada neko učini nešto lijepo ili korisno za vas; smatra se značajnijom zahvalom od شكراً",
+      "register": "neutral"
+    },
+    {
+      "arabic": "بَارَكَ اللهُ فِيكَ",
+      "bs": "Neka te Allah blagoslovi",
+      "en": "May Allah bless you",
+      "context": "A blessing given to someone as thanks, encouragement, or goodwill; suitable after receiving a gift, help, or good news",
+      "contextBs": "Blagoslov koji se daje nekome kao zahvalnost, ohrabrenje ili dobronamjernost; prikladno nakon primanja poklona, pomoći ili dobrih vijesti",
+      "register": "neutral"
+    },
+    {
+      "arabic": "أَعُوذُ بِاللهِ",
+      "bs": "Utječem se Allahu",
+      "en": "I seek refuge in Allah",
+      "context": "Said when hearing something sinful, frightening, or shocking; also said before reciting Quran (full form: أعوذ بالله من الشيطان الرجيم)",
+      "contextBs": "Kaže se kada se čuje nešto grješno, zastrašujuće ili šokantno; kaže se i prije učenja Kur'ana (puni oblik: أعوذ بالله من الشيطان الرجيم)",
+      "register": "neutral"
+    },
+    {
+      "arabic": "سُبْحَانَ اللهِ",
+      "bs": "Slava Allahu / Uzvišen je Allah",
+      "en": "Glory be to Allah",
+      "context": "Expressed in amazement, wonder, or when witnessing something beautiful in creation; also used to glorify Allah during dhikr",
+      "contextBs": "Izražava se u čuđenju ili divljenju, ili pri svjedočenju nečeg lijepog u stvaranju; koristi se i za veličanje Allaha tokom zikra",
+      "register": "neutral"
+    },
+    {
+      "arabic": "اللَّهُمَّ اغْفِرْ لَنَا",
+      "bs": "Allahu, oprosti nam",
+      "en": "O Allah, forgive us",
+      "context": "A supplication (du'a) seeking Allah's forgiveness; said in private prayer, after a sin, or during times of reflection",
+      "contextBs": "Dova kojom se traži Allahov oprost; kaže se u privatnoj molitvi, nakon grijeha ili u trenucima razmišljanja",
+      "register": "formal"
+    },
+    {
+      "arabic": "صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+      "bs": "Neka je Allahov salavat i mir na njega",
+      "en": "May Allah's peace and blessings be upon him",
+      "context": "Said or written immediately after mentioning the Prophet Muhammad's name; a religious obligation in Islamic etiquette",
+      "contextBs": "Kaže se ili piše odmah nakon spomena imena Poslanika Muhammeda; vjerska obaveza u islamskom bontonu",
+      "register": "formal"
+    },
+    {
+      "arabic": "رَضِيَ اللهُ عَنْهُ",
+      "bs": "Neka je Allah s njim zadovoljan",
+      "en": "May Allah be pleased with him",
+      "context": "Said after the name of a Companion of the Prophet (Sahabi); feminine form: رضي الله عنها; plural: رضي الله عنهم",
+      "contextBs": "Kaže se nakon imena Poslanikova ashaba; ženski oblik: رضي الله عنها; množina: رضي الله عنهم",
+      "register": "formal"
+    },
+    {
+      "arabic": "إِنَّا للهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+      "bs": "Uistinu smo Allahovi i Njemu se vraćamo",
+      "en": "Indeed, to Allah we belong and to Him we shall return",
+      "context": "Recited upon hearing news of death or a serious calamity; a Quranic verse (2:156) expressing submission to Allah's will",
+      "contextBs": "Uči se pri vijesti o smrti ili teškoj nesreći; kur'anski ajet (2:156) koji izražava predanost Allahovoj volji",
+      "register": "neutral"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "conv-b1-001",
+  "level": "B1",
+  "situation": "hotel",
+  "title": "Booking a Hotel Room",
+  "titleAr": "حَجْزُ غُرْفَةٍ فِي الْفُنْدُقِ",
+  "titleBs": "Rezervacija hotelske sobe",
+  "estimatedMinutes": 5,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Guest",
+      "roleAr": "النَّزِيلُ",
+      "arabic": "مَرْحَبًا، هَلْ عِنْدَكُمْ غُرْفَةٌ خَالِيَةٌ؟",
+      "bs": "Zdravo, imate li slobodnu sobu?",
+      "en": "Hello, do you have a vacant room?"
+    },
+    {
+      "speaker": "B",
+      "role": "Receptionist",
+      "roleAr": "مُوَظَّفُ الاسْتِقْبَالِ",
+      "arabic": "أَهْلًا وَسَهْلًا! نَعَمْ، لَدَيْنَا غُرَفٌ مُتَاحَةٌ. مَا نَوْعُ الْغُرْفَةِ الَّتِي تُرِيدُهَا؟",
+      "bs": "Dobrodošli! Da, imamo slobodnih soba. Kakvu sobu želite?",
+      "en": "Welcome! Yes, we have rooms available. What type of room do you want?"
+    },
+    {
+      "speaker": "A",
+      "role": "Guest",
+      "roleAr": "النَّزِيلُ",
+      "arabic": "أُرِيدُ غُرْفَةً مُفْرَدَةً، مِنْ فَضْلِكَ.",
+      "bs": "Željela bih jednokrevetnu sobu, molim.",
+      "en": "I would like a single room, please."
+    },
+    {
+      "speaker": "B",
+      "role": "Receptionist",
+      "roleAr": "مُوَظَّفُ الاسْتِقْبَالِ",
+      "arabic": "حَسَنًا. كَمْ لَيْلَةً تُرِيدُ الْإِقَامَةَ؟",
+      "bs": "Dobro. Koliko noći planirate ostati?",
+      "en": "Very well. How many nights do you plan to stay?"
+    },
+    {
+      "speaker": "A",
+      "role": "Guest",
+      "roleAr": "النَّزِيلُ",
+      "arabic": "أُرِيدُ الْإِقَامَةَ ثَلَاثَ لَيَالٍ، مِنَ الْيَوْمِ حَتَّى الْجُمُعَةِ.",
+      "bs": "Želim ostati tri noći, od danas do petka.",
+      "en": "I want to stay three nights, from today until Friday."
+    },
+    {
+      "speaker": "B",
+      "role": "Receptionist",
+      "roleAr": "مُوَظَّفُ الاسْتِقْبَالِ",
+      "arabic": "مُمْتَازٌ. سِعْرُ الْغُرْفَةِ الْمُفْرَدَةِ مِئَةُ دُولَارٍ فِي اللَّيْلَةِ، وَيَشْمَلُ الْإِفْطَارَ.",
+      "bs": "Odlično. Cijena jednokrevetne sobe je sto dolara po noći, uključujući doručak.",
+      "en": "Excellent. The price of a single room is one hundred dollars per night, including breakfast."
+    },
+    {
+      "speaker": "A",
+      "role": "Guest",
+      "roleAr": "النَّزِيلُ",
+      "arabic": "هَلْ يُمْكِنُ أَنْ تَكُونَ الْغُرْفَةُ بِإِطْلَالَةٍ عَلَى الْحَدِيقَةِ؟",
+      "bs": "Da li može soba s pogledom na vrt?",
+      "en": "Can the room have a view of the garden?"
+    },
+    {
+      "speaker": "B",
+      "role": "Receptionist",
+      "roleAr": "مُوَظَّفُ الاسْتِقْبَالِ",
+      "arabic": "بِالتَّأْكِيدِ، لَدَيْنَا غُرْفَةٌ فِي الطَّابِقِ الثَّالِثِ بِإِطْلَالَةٍ جَمِيلَةٍ عَلَى الْحَدِيقَةِ.",
+      "bs": "Naravno, imamo sobu na trećem spratu s lijepim pogledom na vrt.",
+      "en": "Of course, we have a room on the third floor with a beautiful view of the garden."
+    },
+    {
+      "speaker": "A",
+      "role": "Guest",
+      "roleAr": "النَّزِيلُ",
+      "arabic": "رَائِعٌ! كَيْفَ يُمْكِنُنِي أَنْ أَدْفَعَ؟ هَلْ تَقْبَلُونَ بِطَاقَةَ الاِئْتِمَانِ؟",
+      "bs": "Odlično! Kako mogu platiti? Primate li kreditne kartice?",
+      "en": "Wonderful! How can I pay? Do you accept credit cards?"
+    },
+    {
+      "speaker": "B",
+      "role": "Receptionist",
+      "roleAr": "مُوَظَّفُ الاسْتِقْبَالِ",
+      "arabic": "نَعَمْ، نَقْبَلُ بَطَاقَاتِ الاِئْتِمَانِ وَالدَّفْعَ النَّقْدِيَّ أَيْضًا.",
+      "bs": "Da, primamo kreditne kartice i gotovinu.",
+      "en": "Yes, we accept credit cards and cash payment as well."
+    },
+    {
+      "speaker": "A",
+      "role": "Guest",
+      "roleAr": "النَّزِيلُ",
+      "arabic": "سَأَدْفَعُ بِبَطَاقَةِ الاِئْتِمَانِ. هَلْ يُمْكِنُنِي الاِطِّلَاعُ عَلَى الْغُرْفَةِ أَوَّلًا؟",
+      "bs": "Platit ću kreditnom karticom. Mogu li prvo pogledati sobu?",
+      "en": "I will pay by credit card. Can I see the room first?"
+    },
+    {
+      "speaker": "B",
+      "role": "Receptionist",
+      "roleAr": "مُوَظَّفُ الاسْتِقْبَالِ",
+      "arabic": "بِكُلِّ سُرُورٍ. تَفَضَّلْ مَعِي، سَأُرِيكَ الْغُرْفَةَ الآنَ.",
+      "bs": "S velikim zadovoljstvom. Izvolite sa mnom, pokazat ću vam sobu sada.",
+      "en": "With great pleasure. Please come with me, I will show you the room now."
+    },
+    {
+      "speaker": "A",
+      "role": "Guest",
+      "roleAr": "النَّزِيلُ",
+      "arabic": "شُكْرًا جَزِيلًا. الْغُرْفَةُ جَمِيلَةٌ جِدًّا، سَآخُذُهَا.",
+      "bs": "Hvala lijepa. Soba je vrlo lijepa, uzet ću je.",
+      "en": "Thank you very much. The room is very beautiful, I will take it."
+    },
+    {
+      "speaker": "B",
+      "role": "Receptionist",
+      "roleAr": "مُوَظَّفُ الاسْتِقْبَالِ",
+      "arabic": "عَظِيمٌ! هَلْ يُمْكِنُكَ تَعْبِئَةُ نَمُوذَجِ التَّسْجِيلِ وَإِعْطَائِي جَوَازَ سَفَرِكَ مِنْ فَضْلِكَ؟",
+      "bs": "Odlično! Možete li ispuniti obrazac za prijavu i dati mi vaš pasoš, molim?",
+      "en": "Great! Could you fill in the registration form and give me your passport, please?"
+    }
+  ],
+  "grammarFocus": "questions with هَلْ and noun phrases with indefinite nouns",
+  "tags": ["hotel", "travel", "B1"]
+}

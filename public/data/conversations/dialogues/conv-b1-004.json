@@ -1,0 +1,125 @@
+{
+  "id": "conv-b1-004",
+  "level": "B1",
+  "situation": "doctor",
+  "title": "At the Doctor's",
+  "titleAr": "عِنْدَ الطَّبِيبِ",
+  "titleBs": "Kod ljekara",
+  "estimatedMinutes": 5,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Patient",
+      "roleAr": "الْمَرِيضُ",
+      "arabic": "السَّلَامُ عَلَيْكُمْ دَكْتُورُ. أَشْعُرُ بِأَلَمٍ شَدِيدٍ فِي رَأْسِي مُنْذُ يَوْمَيْنِ.",
+      "bs": "Selam alejkum, doktore. Osjećam jak bol u glavi već dva dana.",
+      "en": "Peace be upon you, Doctor. I have been feeling severe pain in my head for two days."
+    },
+    {
+      "speaker": "B",
+      "role": "Doctor",
+      "roleAr": "الطَّبِيبُ",
+      "arabic": "وَعَلَيْكُمُ السَّلَامُ. أَهْلًا بِكَ. اجْلِسْ مِنْ فَضْلِكَ. هَلْ الأَلَمُ مُسْتَمِرٌّ أَمْ يَأْتِي وَيَذْهَبُ؟",
+      "bs": "Ve alejkum selam. Dobrodošli. Sjednite, molim. Je li bol stalna ili dolazi i odlazi?",
+      "en": "And peace be upon you. Welcome. Please sit down. Is the pain constant or does it come and go?"
+    },
+    {
+      "speaker": "A",
+      "role": "Patient",
+      "roleAr": "الْمَرِيضُ",
+      "arabic": "الأَلَمُ مُسْتَمِرٌّ، وَيَشْتَدُّ فِي الصَّبَاحِ. وَأَشْعُرُ أَيْضًا بِدَوَخَةٍ أَحْيَانًا.",
+      "bs": "Bol je stalna i pojačava se ujutro. Ponekad osjećam i vrtoglavicu.",
+      "en": "The pain is constant, and it intensifies in the morning. I also sometimes feel dizzy."
+    },
+    {
+      "speaker": "B",
+      "role": "Doctor",
+      "roleAr": "الطَّبِيبُ",
+      "arabic": "أَفْهَمُ. هَلْ عِنْدَكَ حُمَّى؟ وَهَلْ تَنَامُ جَيِّدًا؟",
+      "bs": "Razumijem. Imate li temperaturu? I spavate li dobro?",
+      "en": "I understand. Do you have a fever? And are you sleeping well?"
+    },
+    {
+      "speaker": "A",
+      "role": "Patient",
+      "roleAr": "الْمَرِيضُ",
+      "arabic": "لَا أَعْتَقِدُ أَنَّ عِنْدِي حُمَّى. وَلَكِنَّ نَوْمِي مُضْطَرِبٌ فِي الأَيَّامِ الأَخِيرَةِ.",
+      "bs": "Ne mislim da imam temperaturu. Ali moj san je poremećen posljednjih dana.",
+      "en": "I don't think I have a fever. But my sleep has been disturbed in recent days."
+    },
+    {
+      "speaker": "B",
+      "role": "Doctor",
+      "roleAr": "الطَّبِيبُ",
+      "arabic": "حَسَنًا. سَأَفْحَصُكَ الآنَ. افْتَحْ فَمَكَ مِنْ فَضْلِكَ. وَانْظُرْ إِلَى الْيَمِينِ.",
+      "bs": "Dobro. Pregledat ću vas sada. Otvorite usta, molim. I gledajte udesno.",
+      "en": "Very well. I will examine you now. Please open your mouth. And look to the right."
+    },
+    {
+      "speaker": "A",
+      "role": "Patient",
+      "roleAr": "الْمَرِيضُ",
+      "arabic": "هَلْ تَجِدُ شَيْئًا خَطِيرًا يَا دَكْتُورُ؟",
+      "bs": "Nalazite li nešto ozbiljno, doktore?",
+      "en": "Do you find anything serious, Doctor?"
+    },
+    {
+      "speaker": "B",
+      "role": "Doctor",
+      "roleAr": "الطَّبِيبُ",
+      "arabic": "لَا تَقْلَقْ. يَبْدُو أَنَّكَ تُعَانِي مِنْ صُدَاعِ التَّوَتُّرِ بِسَبَبِ الإِجْهَادِ وَقِلَّةِ النَّوْمِ.",
+      "bs": "Ne brinite. Čini se da patite od tenzijskog glavobolje zbog umora i nedostatka sna.",
+      "en": "Don't worry. It seems you are suffering from tension headaches due to stress and lack of sleep."
+    },
+    {
+      "speaker": "A",
+      "role": "Patient",
+      "roleAr": "الْمَرِيضُ",
+      "arabic": "هَلْ أَحْتَاجُ إِلَى وَصْفَةٍ طِبِّيَّةٍ؟",
+      "bs": "Treba li mi recept?",
+      "en": "Do I need a prescription?"
+    },
+    {
+      "speaker": "B",
+      "role": "Doctor",
+      "roleAr": "الطَّبِيبُ",
+      "arabic": "نَعَمْ، سَأَكْتُبُ لَكَ وَصْفَةً بِمُسَكِّنَاتِ الأَلَمِ وَأَقْرَاصٍ لِلنَّوْمِ. خُذِ الدَّوَاءَ مَرَّتَيْنِ فِي الْيَوْمِ.",
+      "bs": "Da, napisat ću vam recept za lijekove protiv bolova i tablete za spavanje. Uzimajte lijek dva puta dnevno.",
+      "en": "Yes, I will write you a prescription for pain relievers and sleeping tablets. Take the medicine twice a day."
+    },
+    {
+      "speaker": "A",
+      "role": "Patient",
+      "roleAr": "الْمَرِيضُ",
+      "arabic": "شُكْرًا دَكْتُورُ. كَمِ الْمُدَّةُ الَّتِي سَيَسْتَغْرِقُهَا الْعِلَاجُ؟",
+      "bs": "Hvala doktore. Koliko dugo će trajati liječenje?",
+      "en": "Thank you, Doctor. How long will the treatment take?"
+    },
+    {
+      "speaker": "B",
+      "role": "Doctor",
+      "roleAr": "الطَّبِيبُ",
+      "arabic": "خُذِ الدَّوَاءَ لِمُدَّةِ أُسْبُوعٍ. وَاحْرِصْ عَلَى النَّوْمِ الْكَافِي وَشُرْبِ الْمَاءِ.",
+      "bs": "Uzimajte lijek sedmicu dana. Pobrinite se da dovoljno spavate i pijete vodu.",
+      "en": "Take the medicine for one week. Make sure to get enough sleep and drink water."
+    },
+    {
+      "speaker": "A",
+      "role": "Patient",
+      "roleAr": "الْمَرِيضُ",
+      "arabic": "سَأَتَّبِعُ نَصِيحَتَكَ. هَلْ أَحْتَاجُ إِلَى مَوْعِدٍ آخَرَ؟",
+      "bs": "Slijedit ću vaš savjet. Trebam li novi termin?",
+      "en": "I will follow your advice. Do I need another appointment?"
+    },
+    {
+      "speaker": "B",
+      "role": "Doctor",
+      "roleAr": "الطَّبِيبُ",
+      "arabic": "إِذَا لَمْ يَتَحَسَّنِ الأَلَمُ بَعْدَ أُسْبُوعٍ فَعُدْ إِلَيَّ. أَتَمَنَّى لَكَ الشِّفَاءَ الْعَاجِلَ!",
+      "bs": "Ako se bol ne poboljša nakon sedmice, dođite ponovo. Želim vam brz oporavak!",
+      "en": "If the pain does not improve after a week, come back to me. I wish you a speedy recovery!"
+    }
+  ],
+  "grammarFocus": "present tense verb patterns and مُنْذُ for duration",
+  "tags": ["doctor", "health", "B1"]
+}

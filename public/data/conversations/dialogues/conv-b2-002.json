@@ -1,0 +1,125 @@
+{
+  "id": "conv-b2-002",
+  "level": "B2",
+  "situation": "interview",
+  "title": "Job Interview",
+  "titleAr": "مُقَابَلَةُ عَمَلٍ",
+  "titleBs": "Razgovor za posao",
+  "estimatedMinutes": 8,
+  "lines": [
+    {
+      "speaker": "A",
+      "role": "Candidate",
+      "roleAr": "الْمُرَشَّحُ",
+      "arabic": "السَّلامُ عَلَيْكُمْ، أَنَا سَامِرُ الْحُسَيْنِيُّ، وَقَدْ تَقَدَّمْتُ لِشَغْلِ وَظِيفَةِ مُحَلِّلِ الْبَيَانَاتِ فِي شَرِكَتِكُمُ الْمَرْمُوقَةِ.",
+      "bs": "Mir vam, ja sam Samir Al-Husseini, i prijavio sam se za poziciju analitičara podataka u vašoj uglednoj kompaniji.",
+      "en": "Peace be upon you, I am Samir Al-Husseini, and I have applied for the position of data analyst at your esteemed company."
+    },
+    {
+      "speaker": "B",
+      "role": "HR Manager",
+      "roleAr": "مُدِيرُ الْمُوَارِدِ الْبَشَرِيَّةِ",
+      "arabic": "وَعَلَيْكُمُ السَّلامُ وَرَحْمَةُ اللهِ. أَهْلاً بِكَ، سَيِّدَ سَامِرُ. تَفَضَّلْ بِالْجُلُوسِ. هَلْ يُمْكِنُكَ أَنْ تُقَدِّمَ لَنَا نَبْذَةً عَنْ خَبْرَتِكَ الْمِهَنِيَّةِ؟",
+      "bs": "I vama mir i Allahova milost. Dobrodošli, gospodine Samir. Izvolite sjesti. Možete li nam dati kratki pregled vašeg profesionalnog iskustva?",
+      "en": "And upon you peace and God's mercy. Welcome, Mr. Samir. Please have a seat. Could you give us a brief overview of your professional experience?"
+    },
+    {
+      "speaker": "A",
+      "role": "Candidate",
+      "roleAr": "الْمُرَشَّحُ",
+      "arabic": "بِكُلِّ سُرُورٍ. حَصَلْتُ عَلَى شَهَادَةِ الْبَكَالُورِيُوسِ فِي عِلْمِ الْحَاسُوبِ، ثُمَّ عَمِلْتُ مُدَّةَ خَمْسِ سَنَوَاتٍ فِي مَجَالِ تَحْلِيلِ الْبَيَانَاتِ لَدَى شَرِكَاتٍ رَائِدَةٍ فِي الْقِطَاعِ التِّقْنِيِّ.",
+      "bs": "Sa zadovoljstvom. Diplomirao sam računarstvo, a zatim sam radio pet godina u oblasti analize podataka u vodećim kompanijama u tehnološkom sektoru.",
+      "en": "With pleasure. I obtained a bachelor's degree in computer science, then worked for five years in data analysis at leading companies in the technology sector."
+    },
+    {
+      "speaker": "B",
+      "role": "HR Manager",
+      "roleAr": "مُدِيرُ الْمُوَارِدِ الْبَشَرِيَّةِ",
+      "arabic": "مَا هِيَ الْمُؤَهِّلاتُ وَالشَّهَادَاتُ الإِضَافِيَّةُ الَّتِي تَمْتَلِكُهَا وَالَّتِي تَرَاهَا مُنَاسِبَةً لِهَذَا الدَّوْرِ الْوَظِيفِيِّ؟",
+      "bs": "Koje dodatne kvalifikacije i certifikate posjedujete i smatrate relevantnim za ovu radnu ulogu?",
+      "en": "What additional qualifications and certifications do you possess that you consider relevant to this role?"
+    },
+    {
+      "speaker": "A",
+      "role": "Candidate",
+      "roleAr": "الْمُرَشَّحُ",
+      "arabic": "أَمْتَلِكُ شَهَادَاتٍ مُعْتَمَدَةً فِي تَحْلِيلِ الْبَيَانَاتِ مِنْ مُنَظَّمَاتٍ دَوْلِيَّةٍ، فَضْلاً عَنْ إِتْقَانِي لِبَرَامِجَ مِثْلَ بَايْثُونَ وَأَرْ وَإِكْسِيلَ الْمُتَقَدِّمِ، وَلَدَيَّ خِبْرَةٌ عَمَلِيَّةٌ فِي التَّقَارِيرِ التَّحْلِيلِيَّةِ.",
+      "bs": "Posjedujem certifikate iz analize podataka od međunarodnih organizacija, uz vladanje programima kao što su Python, R i napredni Excel, te imam praktično iskustvo u analitičkim izvještajima.",
+      "en": "I hold certified qualifications in data analysis from international organizations, in addition to mastery of programs such as Python, R, and advanced Excel, and I have practical experience in analytical reporting."
+    },
+    {
+      "speaker": "B",
+      "role": "HR Manager",
+      "roleAr": "مُدِيرُ الْمُوَارِدِ الْبَشَرِيَّةِ",
+      "arabic": "مَا الَّذِي دَفَعَكَ إِلَى التَّقَدُّمِ لِهَذِهِ الشَّرِكَةِ تَحْدِيدًا؟ وَمَا هِيَ طُمُوحَاتُكَ الْمِهَنِيَّةُ عَلَى الْمَدَى الْبَعِيدِ؟",
+      "bs": "Šta vas je pokrenulo da se prijavite baš za ovu kompaniju? I kakve su vaše profesionalne ambicije na dugi rok?",
+      "en": "What motivated you to apply to this company specifically? And what are your professional ambitions in the long term?"
+    },
+    {
+      "speaker": "A",
+      "role": "Candidate",
+      "roleAr": "الْمُرَشَّحُ",
+      "arabic": "أُعْجِبْتُ بِسُمْعَةِ شَرِكَتِكُمُ الرَّائِدَةِ فِي مَجَالِ الاِبْتِكَارِ التِّقْنِيِّ. أَطْمَحُ عَلَى الْمَدَى الْبَعِيدِ إِلَى قِيَادَةِ فَرِيقٍ مُتَخَصِّصٍ فِي الذَّكَاءِ الاصْطِنَاعِيِّ وَتَحْلِيلِ الْبَيَانَاتِ الضَّخْمَةِ.",
+      "bs": "Impresionirala me reputacija vaše kompanije kao predvodnika u oblasti tehnoloških inovacija. Na dugi rok, ambicija mi je voditi specijalizovani tim za vještačku inteligenciju i analizu velikih podataka.",
+      "en": "I was impressed by your company's leading reputation in the field of technological innovation. In the long term, I aspire to lead a specialized team in artificial intelligence and big data analysis."
+    },
+    {
+      "speaker": "B",
+      "role": "HR Manager",
+      "roleAr": "مُدِيرُ الْمُوَارِدِ الْبَشَرِيَّةِ",
+      "arabic": "مَا هِيَ نِقَاطُ قُوَّتِكَ الرَّئِيسِيَّةُ؟ وَهَلْ يُمْكِنُكَ أَنْ تَذْكُرَ نُقْطَةَ ضَعْفٍ تَعْمَلُ عَلَى تَطْوِيرِهَا؟",
+      "bs": "Koje su vaše glavne snage? I možete li navesti jednu slabost na kojoj radite da je poboljšate?",
+      "en": "What are your main strengths? And can you mention a weakness you are working to develop?"
+    },
+    {
+      "speaker": "A",
+      "role": "Candidate",
+      "roleAr": "الْمُرَشَّحُ",
+      "arabic": "مِنْ أَبْرَزِ نِقَاطِ قُوَّتِي: الْقُدْرَةُ عَلَى حَلِّ الْمَشْكَلاتِ الْمُعَقَّدَةِ وَالتَّعَامُلُ مَعَ الْبَيَانَاتِ بِدِقَّةٍ عَالِيَةٍ. أَمَّا نُقْطَةُ الضَّعْفِ، فَكُنْتُ أَجِدُ صُعُوبَةً فِي تَفْوِيضِ الْمَهَامِّ، لَكِنَّنِي أَعْمَلُ عَلَى تَطْوِيرِ مَهَارَاتِ الْقِيَادَةِ التَّشَارُكِيَّةِ.",
+      "bs": "Među mojim glavnim snagama je sposobnost rješavanja složenih problema i rukovanje podacima s visokom preciznošću. Što se tiče slabosti, teško mi je bilo delegirati zadatke, ali radim na razvijanju vještina participativnog vođenja.",
+      "en": "Among my main strengths is the ability to solve complex problems and handle data with high precision. As for a weakness, I used to find it difficult to delegate tasks, but I am working on developing participative leadership skills."
+    },
+    {
+      "speaker": "B",
+      "role": "HR Manager",
+      "roleAr": "مُدِيرُ الْمُوَارِدِ الْبَشَرِيَّةِ",
+      "arabic": "مَا هِيَ تَوَقُّعَاتُكَ فِيمَا يَتَعَلَّقُ بِالرَّاتِبِ؟ وَمَتَى يُمْكِنُكَ الاِلْتِحَاقُ بِالْعَمَلِ إِذَا قُبِلْتَ؟",
+      "bs": "Kakva su vaša očekivanja vezana za platu? I kada biste mogli početi s radom ako budete prihvaćeni?",
+      "en": "What are your salary expectations? And when could you start work if you are accepted?"
+    },
+    {
+      "speaker": "A",
+      "role": "Candidate",
+      "roleAr": "الْمُرَشَّحُ",
+      "arabic": "بِنَاءً عَلَى خِبْرَتِي وَمُؤَهِّلاتِي، أَتَطَلَّعُ إِلَى رَاتِبٍ تَنَافُسِيٍّ يَتَنَاسَبُ مَعَ مَعَايِيرِ السُّوقِ. أَمَّا مَوْعِدُ الاِلْتِحَاقِ، فَأَسْتَطِيعُ الْبَدْءَ بَعْدَ إِشْعَارٍ لَمُدَّةِ أُسْبُوعَيْنِ لِإِنْهَاءِ الْتِزَامَاتِي الْحَالِيَّةِ.",
+      "bs": "Na osnovu mog iskustva i kvalifikacija, tražim konkurentnu platu koja odgovara tržišnim standardima. Što se tiče datuma početka, mogu početi nakon otkaznog roka od dvije sedmice radi ispunjavanja trenutnih obaveza.",
+      "en": "Based on my experience and qualifications, I look forward to a competitive salary commensurate with market standards. As for the start date, I can begin after a two-week notice period to fulfil my current commitments."
+    },
+    {
+      "speaker": "B",
+      "role": "HR Manager",
+      "roleAr": "مُدِيرُ الْمُوَارِدِ الْبَشَرِيَّةِ",
+      "arabic": "شُكْرًا عَلَى إِجَابَاتِكَ الشَّفَّافَةِ وَالْمُفَصَّلَةِ. سَنَتَوَاصَلُ مَعَكَ خِلالَ أُسْبُوعٍ بَعْدَ الاطِّلاعِ عَلَى بَقِيَّةِ الطَّلَبَاتِ وَاتِّخَاذِ الْقَرَارِ الْمُنَاسِبِ.",
+      "bs": "Hvala na vašim transparentnim i detaljnim odgovorima. Kontaktiraćemo vas u roku od sedmice nakon razmatranja preostalih prijava i donošenja odgovarajuće odluke.",
+      "en": "Thank you for your transparent and detailed answers. We will contact you within a week after reviewing the remaining applications and making the appropriate decision."
+    },
+    {
+      "speaker": "A",
+      "role": "Candidate",
+      "roleAr": "الْمُرَشَّحُ",
+      "arabic": "أَشْكُرُكُمْ جَزِيلاً عَلَى هَذِهِ الْفُرْصَةِ الْكَرِيمَةِ. أَتَمَنَّى أَنْ أَكُونَ عُنْصُرًا فَاعِلاً فِي فَرِيقِكُمُ الْمُتَمَيِّزِ. مَعَ السَّلامَةِ.",
+      "bs": "Zahvaljujem vam lijepo na ovoj plemenitoj prilici. Nadam se da ću biti aktivni element u vašem odličnom timu. Doviđenja.",
+      "en": "I thank you greatly for this generous opportunity. I hope to be an active element in your distinguished team. Farewell."
+    },
+    {
+      "speaker": "B",
+      "role": "HR Manager",
+      "roleAr": "مُدِيرُ الْمُوَارِدِ الْبَشَرِيَّةِ",
+      "arabic": "وَدَاعًا، سَيِّدَ سَامِرُ. بِالتَّوْفِيقِ.",
+      "bs": "Doviđenja, gospodine Samir. Sretno.",
+      "en": "Goodbye, Mr. Samir. Good luck."
+    }
+  ],
+  "grammarFocus": "relative clauses with الَّذِي and formal self-presentation structures",
+  "tags": ["interview", "formal", "B2", "career"]
+}
