@@ -1,0 +1,93 @@
+{
+  "id": "b1-health",
+  "level": "B1",
+  "topic": "health",
+  "title": "Health & Body",
+  "titleAr": "الصِّحَّةُ وَالْجِسْمُ",
+  "titleBs": "Zdravlje i tijelo",
+  "estimatedMinutes": 7,
+  "exercises": [
+    {
+      "id": "b1-health-01",
+      "type": "word-meaning",
+      "arabic": "أَعْرَاضٌ",
+      "options": ["liječenje", "simptomi", "pregled", "operacija"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-health-02",
+      "type": "word-meaning",
+      "arabic": "صَيْدَلِيَّةٌ",
+      "options": ["bolnica", "ambulanta", "apoteka", "klinika"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-health-03",
+      "type": "word-meaning",
+      "arabic": "حِمْيَةٌ",
+      "options": ["aktivnost", "dijeta", "odmor", "lijek"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-health-04",
+      "type": "word-meaning",
+      "arabic": "عِلَاجٌ",
+      "options": ["bolest", "simptom", "liječenje", "pregled"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-health-05",
+      "type": "fill-blank",
+      "sentence": "ذَهَبَ الْمَرِيضُ إِلَى ___ لِشِرَاءِ الدَّوَاءِ",
+      "sentenceBs": "Pacijent je otišao u ___ da kupi lijek.",
+      "options": ["الْمَدْرَسَةِ", "الصَّيْدَلِيَّةِ", "الْمَطْعَمِ", "الْمَكْتَبِ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-health-06",
+      "type": "fill-blank",
+      "sentence": "وَصَفَ الطَّبِيبُ ___ مُنَاسِباً لِلْمَرَضِ",
+      "sentenceBs": "Ljekar je propisao odgovarajući ___ za bolest.",
+      "options": ["فَحْصاً", "عَمَلِيَّةً", "عِلَاجاً", "نَشَاطاً"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-health-07",
+      "type": "fill-blank",
+      "sentence": "أَجْرَى الطَّبِيبُ ___ شَامِلاً لِلْمَرِيضِ",
+      "sentenceBs": "Ljekar je obavio sveobuhvatan ___ pacijenta.",
+      "options": ["مَرَضاً", "دَوَاءً", "فَحْصاً", "حِمْيَةً"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-health-08",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "طَبِيبٌ", "bs": "ljekar"},
+        {"arabic": "قَلْبٌ", "bs": "srce"},
+        {"arabic": "مَرَضٌ", "bs": "bolest"},
+        {"arabic": "رِئَةٌ", "bs": "pluća"}
+      ]
+    },
+    {
+      "id": "b1-health-09",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "رَأْسٌ", "bs": "glava"},
+        {"arabic": "عَمَلِيَّةٌ", "bs": "operacija"},
+        {"arabic": "نَشَاطٌ", "bs": "aktivnost"},
+        {"arabic": "مَعِدَةٌ", "bs": "želudac"}
+      ]
+    },
+    {
+      "id": "b1-health-10",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "أَعْرَاضٌ", "bs": "simptomi"},
+        {"arabic": "حِمْيَةٌ", "bs": "dijeta"},
+        {"arabic": "فَحْصٌ", "bs": "pregled"},
+        {"arabic": "عِلَاجٌ", "bs": "liječenje"}
+      ]
+    }
+  ]
+}

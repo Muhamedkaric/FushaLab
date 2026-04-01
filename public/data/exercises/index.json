@@ -1,0 +1,180 @@
+{
+  "packs": [
+    {
+      "id": "a1-greetings",
+      "level": "A1",
+      "topic": "greetings",
+      "title": "Greetings & Expressions",
+      "titleAr": "التَّحِيَّاتُ وَالتَّعَابِيرُ",
+      "titleBs": "Pozdravi i izrazi",
+      "exerciseCount": 10,
+      "estimatedMinutes": 5,
+      "types": ["word-meaning", "listen-select", "fill-blank"]
+    },
+    {
+      "id": "a1-objects",
+      "level": "A1",
+      "topic": "objects",
+      "title": "Everyday Objects",
+      "titleAr": "الأَشْيَاءُ الْيَوْمِيَّةُ",
+      "titleBs": "Svakodnevni predmeti",
+      "exerciseCount": 10,
+      "estimatedMinutes": 5,
+      "types": ["word-meaning", "match-pairs", "word-arabic"]
+    },
+    {
+      "id": "a1-family",
+      "level": "A1",
+      "topic": "family",
+      "title": "Family Members",
+      "titleAr": "أَفْرَادُ الأُسْرَةِ",
+      "titleBs": "Članovi porodice",
+      "exerciseCount": 10,
+      "estimatedMinutes": 5,
+      "types": ["word-meaning", "match-pairs", "odd-one-out"]
+    },
+    {
+      "id": "a1-adjectives",
+      "level": "A1",
+      "topic": "adjectives",
+      "title": "Colors & Adjectives",
+      "titleAr": "الأَلْوَانُ وَالصِّفَاتُ",
+      "titleBs": "Boje i pridjevi",
+      "exerciseCount": 10,
+      "estimatedMinutes": 5,
+      "types": ["word-meaning", "word-arabic", "fill-blank"]
+    },
+    {
+      "id": "a2-verbs",
+      "level": "A2",
+      "topic": "verbs",
+      "title": "Essential Verbs",
+      "titleAr": "الأَفْعَالُ الأَسَاسِيَّةُ",
+      "titleBs": "Osnovni glagoli",
+      "exerciseCount": 10,
+      "estimatedMinutes": 6,
+      "types": ["word-arabic", "sentence-order", "fill-blank"]
+    },
+    {
+      "id": "a2-food",
+      "level": "A2",
+      "topic": "food",
+      "title": "Food & Drink",
+      "titleAr": "الطَّعَامُ وَالشَّرَابُ",
+      "titleBs": "Hrana i piće",
+      "exerciseCount": 10,
+      "estimatedMinutes": 6,
+      "types": ["match-pairs", "odd-one-out", "word-meaning"]
+    },
+    {
+      "id": "a2-places",
+      "level": "A2",
+      "topic": "places",
+      "title": "Places in the City",
+      "titleAr": "الأَمَاكِنُ فِي الْمَدِينَةِ",
+      "titleBs": "Mjesta u gradu",
+      "exerciseCount": 10,
+      "estimatedMinutes": 6,
+      "types": ["sentence-order", "fill-blank", "word-meaning"]
+    },
+    {
+      "id": "a2-daily",
+      "level": "A2",
+      "topic": "daily",
+      "title": "Daily Routines",
+      "titleAr": "الرُّوتِينُ الْيَوْمِيُّ",
+      "titleBs": "Svakodnevne rutine",
+      "exerciseCount": 10,
+      "estimatedMinutes": 6,
+      "types": ["fill-blank", "sentence-order", "word-arabic"]
+    },
+    {
+      "id": "b1-work",
+      "level": "B1",
+      "topic": "work",
+      "title": "Work & Careers",
+      "titleAr": "الْعَمَلُ وَالْمِهَنُ",
+      "titleBs": "Posao i karijere",
+      "exerciseCount": 10,
+      "estimatedMinutes": 7,
+      "types": ["fill-blank", "sentence-order", "odd-one-out"]
+    },
+    {
+      "id": "b1-health",
+      "level": "B1",
+      "topic": "health",
+      "title": "Health & Body",
+      "titleAr": "الصِّحَّةُ وَالْجِسْمُ",
+      "titleBs": "Zdravlje i tijelo",
+      "exerciseCount": 10,
+      "estimatedMinutes": 7,
+      "types": ["word-meaning", "fill-blank", "match-pairs"]
+    },
+    {
+      "id": "b1-travel",
+      "level": "B1",
+      "topic": "travel",
+      "title": "Travel & Transport",
+      "titleAr": "السَّفَرُ وَالتَّنَقُّلُ",
+      "titleBs": "Putovanje i prijevoz",
+      "exerciseCount": 10,
+      "estimatedMinutes": 7,
+      "types": ["sentence-order", "fill-blank", "word-arabic"]
+    },
+    {
+      "id": "b1-society",
+      "level": "B1",
+      "topic": "society",
+      "title": "Society & Media",
+      "titleAr": "الْمُجْتَمَعُ وَالإِعْلَامُ",
+      "titleBs": "Društvo i mediji",
+      "exerciseCount": 10,
+      "estimatedMinutes": 7,
+      "types": ["odd-one-out", "fill-blank", "word-arabic"]
+    },
+    {
+      "id": "b2-formal",
+      "level": "B2",
+      "topic": "formal",
+      "title": "Formal Language",
+      "titleAr": "اللُّغَةُ الرَّسْمِيَّةُ",
+      "titleBs": "Formalni jezik",
+      "exerciseCount": 10,
+      "estimatedMinutes": 8,
+      "types": ["fill-blank", "word-arabic", "sentence-order"]
+    },
+    {
+      "id": "b2-business",
+      "level": "B2",
+      "topic": "business",
+      "title": "Business Arabic",
+      "titleAr": "عَالَمُ الأَعْمَالِ",
+      "titleBs": "Poslovni arapski",
+      "exerciseCount": 10,
+      "estimatedMinutes": 8,
+      "types": ["sentence-order", "fill-blank", "odd-one-out"]
+    },
+    {
+      "id": "b2-roots",
+      "level": "B2",
+      "topic": "roots",
+      "title": "Root Families",
+      "titleAr": "جُذُورُ الأَفْعَالِ",
+      "titleBs": "Korijeni glagola",
+      "exerciseCount": 10,
+      "estimatedMinutes": 8,
+      "types": ["word-meaning", "odd-one-out", "fill-blank"]
+    },
+    {
+      "id": "b2-academic",
+      "level": "B2",
+      "topic": "academic",
+      "title": "Academic Language",
+      "titleAr": "اللُّغَةُ الأَكَادِيمِيَّةُ",
+      "titleBs": "Akademski jezik",
+      "exerciseCount": 10,
+      "estimatedMinutes": 8,
+      "types": ["sentence-order", "fill-blank", "word-arabic"]
+    }
+  ]
+}

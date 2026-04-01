@@ -1,0 +1,85 @@
+{
+  "id": "a2-daily",
+  "level": "A2",
+  "topic": "daily",
+  "title": "Daily Routines",
+  "titleAr": "الرُّوتِينُ الْيَوْمِيُّ",
+  "titleBs": "Svakodnevne rutine",
+  "estimatedMinutes": 6,
+  "exercises": [
+    {
+      "id": "a2-daily-01",
+      "type": "fill-blank",
+      "sentence": "يَسْتَيْقِظُ أَحْمَدُ فِي ___",
+      "sentenceBs": "Ahmed se budi u ___.",
+      "options": ["الْمَسَاءِ", "اللَّيْلِ", "الصَّبَاحِ", "الظُّهْرِ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a2-daily-02",
+      "type": "fill-blank",
+      "sentence": "يَأْكُلُ الْوَلَدُ الْغَدَاءَ فِي ___",
+      "sentenceBs": "Dječak jede ručak u ___.",
+      "options": ["الصَّبَاحِ", "الظُّهْرِ", "الْمَسَاءِ", "اللَّيْلِ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a2-daily-03",
+      "type": "fill-blank",
+      "sentence": "يَنَامُ الْأَطْفَالُ فِي ___",
+      "sentenceBs": "Djeca spavaju noću.",
+      "options": ["الصَّبَاحِ", "الظُّهْرِ", "الْمَسَاءِ", "اللَّيْلِ"],
+      "correctIndex": 3
+    },
+    {
+      "id": "a2-daily-04",
+      "type": "fill-blank",
+      "sentence": "يَعُودُ الْأَبُ إِلَى ___",
+      "sentenceBs": "Otac se vraća ___ (kući).",
+      "options": ["الْمَدْرَسَةِ", "الْبَيْتِ", "الْمَطَارِ", "الصَّبَاحِ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a2-daily-05",
+      "type": "sentence-order",
+      "translation": "Ahmed jede doručak kod kuće.",
+      "words": ["أَحْمَدُ", "فِي", "يَأْكُلُ", "الْبَيْتِ", "الْفُطُورَ"],
+      "correct": ["يَأْكُلُ", "أَحْمَدُ", "الْفُطُورَ", "فِي", "الْبَيْتِ"]
+    },
+    {
+      "id": "a2-daily-06",
+      "type": "sentence-order",
+      "translation": "Učenik ide u školu ujutro.",
+      "words": ["الطَّالِبُ", "صَبَاحاً", "إِلَى", "يَذْهَبُ", "الْمَدْرَسَةِ"],
+      "correct": ["يَذْهَبُ", "الطَّالِبُ", "إِلَى", "الْمَدْرَسَةِ", "صَبَاحاً"]
+    },
+    {
+      "id": "a2-daily-07",
+      "type": "sentence-order",
+      "translation": "Djevojka se budi i jede.",
+      "words": ["وَتَأْكُلُ", "الْبِنْتُ", "تَسْتَيْقِظُ"],
+      "correct": ["تَسْتَيْقِظُ", "الْبِنْتُ", "وَتَأْكُلُ"]
+    },
+    {
+      "id": "a2-daily-08",
+      "type": "word-arabic",
+      "word": "jutro",
+      "options": ["ظُهْرٌ", "لَيْلٌ", "مَسَاءٌ", "صَبَاحٌ"],
+      "correctIndex": 3
+    },
+    {
+      "id": "a2-daily-09",
+      "type": "word-arabic",
+      "word": "spava",
+      "options": ["يَأْكُلُ", "يَنَامُ", "يَذْهَبُ", "يَعُودُ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a2-daily-10",
+      "type": "word-arabic",
+      "word": "vraća se",
+      "options": ["يَسْتَيْقِظُ", "يَأْكُلُ", "يَعُودُ", "يَنَامُ"],
+      "correctIndex": 2
+    }
+  ]
+}

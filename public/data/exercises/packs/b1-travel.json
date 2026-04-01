@@ -1,0 +1,84 @@
+{
+  "id": "b1-travel",
+  "level": "B1",
+  "topic": "travel",
+  "title": "Travel & Transport",
+  "titleAr": "السَّفَرُ وَالتَّنَقُّلُ",
+  "titleBs": "Putovanje i transport",
+  "estimatedMinutes": 7,
+  "exercises": [
+    {
+      "id": "b1-travel-01",
+      "type": "sentence-order",
+      "translation": "Putnik je rezervisao sobu u hotelu.",
+      "words": ["حَجَزَ", "الْمُسَافِرُ", "غُرْفَةً", "فِي", "الْفُنْدُقِ"],
+      "correct": ["حَجَزَ", "الْمُسَافِرُ", "غُرْفَةً", "فِي", "الْفُنْدُقِ"]
+    },
+    {
+      "id": "b1-travel-02",
+      "type": "sentence-order",
+      "translation": "Putovao sam avionom u Kairo.",
+      "words": ["سَافَرْتُ", "بِالطَّائِرَةِ", "إِلَى", "الْقَاهِرَةِ"],
+      "correct": ["سَافَرْتُ", "بِالطَّائِرَةِ", "إِلَى", "الْقَاهِرَةِ"]
+    },
+    {
+      "id": "b1-travel-03",
+      "type": "sentence-order",
+      "translation": "Putnica je pokazala pasoš na aerodromu.",
+      "words": ["فِي", "الْمُسَافِرَةُ", "جَوَازَ", "الْمَطَارِ", "أَرَتِ", "سَفَرِهَا"],
+      "correct": ["أَرَتِ", "الْمُسَافِرَةُ", "جَوَازَ", "سَفَرِهَا", "فِي", "الْمَطَارِ"]
+    },
+    {
+      "id": "b1-travel-04",
+      "type": "sentence-order",
+      "translation": "Karta za voz bila je jeftina.",
+      "words": ["تَذْكِرَةُ", "رَخِيصَةً", "الْقِطَارِ", "كَانَتْ"],
+      "correct": ["كَانَتْ", "تَذْكِرَةُ", "الْقِطَارِ", "رَخِيصَةً"]
+    },
+    {
+      "id": "b1-travel-05",
+      "type": "fill-blank",
+      "sentence": "يَحْتَاجُ الْمُسَافِرُ إِلَى ___ لِلدُّخُولِ إِلَى الْبِلَادِ",
+      "sentenceBs": "Putnik treba ___ za ulazak u zemlju.",
+      "options": ["حَقِيبَةٍ", "تَأْشِيرَةٍ", "فُنْدُقٍ", "رِحْلَةٍ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-travel-06",
+      "type": "fill-blank",
+      "sentence": "وَضَعَ الْمُسَافِرُ مَلَابِسَهُ فِي ___",
+      "sentenceBs": "Putnik je stavio odjeću u ___.",
+      "options": ["الْمَطَارِ", "الرِّحْلَةِ", "الْحَقِيبَةِ", "الْحَجْزِ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-travel-07",
+      "type": "fill-blank",
+      "sentence": "أَكَّدَ الْفُنْدُقُ ___ الْغُرْفَةِ عَبْرَ الْبَرِيدِ الإِلِكْتِرُونِيِّ",
+      "sentenceBs": "Hotel je potvrdio ___ sobe putem e-maila.",
+      "options": ["وُصُولَ", "حَجْزَ", "مَطَارَ", "تَذْكِرَةَ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-travel-08",
+      "type": "word-arabic",
+      "word": "aerodrom",
+      "options": ["مَحَطَّةٌ", "فُنْدُقٌ", "مَطَارٌ", "مَيْنَاءٌ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-travel-09",
+      "type": "word-arabic",
+      "word": "rezervacija",
+      "options": ["وُصُولٌ", "حَجْزٌ", "رِحْلَةٌ", "تَأْشِيرَةٌ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-travel-10",
+      "type": "word-arabic",
+      "word": "dolazak",
+      "options": ["مَغَادَرَةٌ", "حَجْزٌ", "تَذْكِرَةٌ", "وُصُولٌ"],
+      "correctIndex": 3
+    }
+  ]
+}

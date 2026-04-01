@@ -1,0 +1,87 @@
+{
+  "id": "a1-objects",
+  "level": "A1",
+  "topic": "objects",
+  "title": "Everyday Objects",
+  "titleAr": "الْأَشْيَاءُ الْيَوْمِيَّةُ",
+  "titleBs": "Svakodnevni predmeti",
+  "estimatedMinutes": 5,
+  "exercises": [
+    {
+      "id": "a1-objects-01",
+      "type": "word-meaning",
+      "arabic": "كِتَابٌ",
+      "options": ["olovka", "knjiga", "stolica", "prozor"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a1-objects-02",
+      "type": "word-arabic",
+      "word": "telefon",
+      "options": ["سَاعَةٌ", "بَابٌ", "هَاتِفٌ", "قَلَمٌ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-objects-03",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "كِتَابٌ", "bs": "knjiga"},
+        {"arabic": "قَلَمٌ", "bs": "olovka"},
+        {"arabic": "بَابٌ", "bs": "vrata"},
+        {"arabic": "كُرْسِيٌّ", "bs": "stolica"}
+      ]
+    },
+    {
+      "id": "a1-objects-04",
+      "type": "word-meaning",
+      "arabic": "نَافِذَةٌ",
+      "options": ["vrata", "sto", "prozor", "sat"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-objects-05",
+      "type": "word-arabic",
+      "word": "kuća",
+      "options": ["بَيْتٌ", "كِتَابٌ", "سَيَّارَةٌ", "طَاوِلَةٌ"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a1-objects-06",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "طَاوِلَةٌ", "bs": "sto"},
+        {"arabic": "سَاعَةٌ", "bs": "sat"},
+        {"arabic": "هَاتِفٌ", "bs": "telefon"},
+        {"arabic": "سَيَّارَةٌ", "bs": "auto"}
+      ]
+    },
+    {
+      "id": "a1-objects-07",
+      "type": "word-meaning",
+      "arabic": "طَاوِلَةٌ",
+      "options": ["sat", "sto", "auto", "telefon"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a1-objects-08",
+      "type": "word-arabic",
+      "word": "olovka",
+      "options": ["كِتَابٌ", "بَيْتٌ", "نَافِذَةٌ", "قَلَمٌ"],
+      "correctIndex": 3
+    },
+    {
+      "id": "a1-objects-09",
+      "type": "word-meaning",
+      "arabic": "سَيَّارَةٌ",
+      "options": ["auto", "sat", "prozor", "stolica"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a1-objects-10",
+      "type": "word-arabic",
+      "word": "sat",
+      "options": ["هَاتِفٌ", "سَاعَةٌ", "قَلَمٌ", "بَابٌ"],
+      "correctIndex": 1
+    }
+  ]
+}

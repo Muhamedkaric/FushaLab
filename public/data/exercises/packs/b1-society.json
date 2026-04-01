@@ -1,0 +1,88 @@
+{
+  "id": "b1-society",
+  "level": "B1",
+  "topic": "society",
+  "title": "Society & Media",
+  "titleAr": "الْمُجْتَمَعُ وَالإِعْلَامُ",
+  "titleBs": "Društvo i mediji",
+  "estimatedMinutes": 7,
+  "exercises": [
+    {
+      "id": "b1-society-01",
+      "type": "odd-one-out",
+      "words": ["صَحِيفَةٌ", "قَنَاةٌ", "خَبَرٌ", "بُرْتُقَالٌ"],
+      "translations": ["novine", "kanal", "vijest", "narandža"],
+      "oddIndex": 3,
+      "reason": "Ostale tri riječi su medijski pojmovi, a 'narandža' je voće."
+    },
+    {
+      "id": "b1-society-02",
+      "type": "odd-one-out",
+      "words": ["رَأْيٌ", "نَقَاشٌ", "تَعْلِيقٌ", "قِطَارٌ"],
+      "translations": ["mišljenje", "diskusija", "komentar", "voz"],
+      "oddIndex": 3,
+      "reason": "Ostale tri riječi opisuju izražavanje mišljenja i raspravu, a 'voz' je prijevozno sredstvo."
+    },
+    {
+      "id": "b1-society-03",
+      "type": "odd-one-out",
+      "words": ["مَقَالٌ", "صَحِيفَةٌ", "إِعْلَامٌ", "رِئَةٌ"],
+      "translations": ["članak", "novine", "mediji", "pluća"],
+      "oddIndex": 3,
+      "reason": "Ostale tri riječi su pojmovi iz novinarstva i medija, a 'pluća' je dio tijela."
+    },
+    {
+      "id": "b1-society-04",
+      "type": "odd-one-out",
+      "words": ["مُتَابَعَةٌ", "تَعْلِيقٌ", "مُجْتَمَعٌ", "رِيَاحٌ"],
+      "translations": ["praćenje", "komentar", "društvo", "vjetar"],
+      "oddIndex": 3,
+      "reason": "Ostale tri riječi su pojmovi vezani za društvo i društvene mreže, a 'vjetar' je vremenska pojava."
+    },
+    {
+      "id": "b1-society-05",
+      "type": "fill-blank",
+      "sentence": "نَشَرَتِ الصَّحِيفَةُ ___ مُهِمّاً عَنِ الاقْتِصَادِ",
+      "sentenceBs": "Novine su objavile važan ___ o ekonomiji.",
+      "options": ["قَنَاةً", "مَقَالاً", "نَقَاشاً", "مُجْتَمَعاً"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-society-06",
+      "type": "fill-blank",
+      "sentence": "يَعْكِسُ ___ الْعَامُّ آرَاءَ الْمَوَاطِنِينَ",
+      "sentenceBs": "Javno ___ odražava stavove građana.",
+      "options": ["الْخَبَرُ", "الْمَقَالُ", "الرَّأْيُ", "الْإِعْلَامُ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-society-07",
+      "type": "fill-blank",
+      "sentence": "بَثَّتِ ___ التِّلِفِزِيُونِيَّةُ الْخَبَرَ مُبَاشَرَةً",
+      "sentenceBs": "Televizijski ___ je emitovao vijest uživo.",
+      "options": ["الصَّحِيفَةُ", "الْقَنَاةُ", "الْمُتَابَعَةُ", "التَّعْلِيقُ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-society-08",
+      "type": "word-arabic",
+      "word": "vijest",
+      "options": ["مَقَالٌ", "نَقَاشٌ", "خَبَرٌ", "قَنَاةٌ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-society-09",
+      "type": "word-arabic",
+      "word": "diskusija",
+      "options": ["تَعْلِيقٌ", "نَقَاشٌ", "إِعْلَامٌ", "مُجْتَمَعٌ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-society-10",
+      "type": "word-arabic",
+      "word": "praćenje",
+      "options": ["مَقَالٌ", "رَأْيٌ", "صَحِيفَةٌ", "مُتَابَعَةٌ"],
+      "correctIndex": 3
+    }
+  ]
+}

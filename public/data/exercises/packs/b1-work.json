@@ -1,0 +1,88 @@
+{
+  "id": "b1-work",
+  "level": "B1",
+  "topic": "work",
+  "title": "Work & Careers",
+  "titleAr": "الْعَمَلُ وَالْمِهَنُ",
+  "titleBs": "Posao i karijere",
+  "estimatedMinutes": 7,
+  "exercises": [
+    {
+      "id": "b1-work-01",
+      "type": "fill-blank",
+      "sentence": "يَعْمَلُ أَحْمَدُ فِي ___ حُكُومِيٍّ",
+      "sentenceBs": "Ahmed radi u vladinoj ___.",
+      "options": ["قَطَاعٍ", "رَاتِبٍ", "مَكْتَبٍ", "مَشْرُوعٍ"],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-work-02",
+      "type": "fill-blank",
+      "sentence": "حَضَرَ الْمُوَظَّفُونَ ___ الأُسْبُوعِيَّ",
+      "sentenceBs": "Zaposlenici su prisustvovali sedmičnom ___.",
+      "options": ["الرَّاتِبَ", "الاجْتِمَاعَ", "الإِجَازَةَ", "الْمَشْرُوعَ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-work-03",
+      "type": "fill-blank",
+      "sentence": "طَلَبَ الْمُدِيرُ تَقْرِيراً عَنِ ___",
+      "sentenceBs": "Direktor je zatražio izvještaj o ___.",
+      "options": ["الإِجَازَةِ", "الْمَشْرُوعِ", "الرَّاتِبِ", "الْمَكْتَبِ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-work-04",
+      "type": "fill-blank",
+      "sentence": "يَحْتَاجُ هَذَا الْمَنْصِبُ إِلَى ___ وَاسِعَةٍ",
+      "sentenceBs": "Ova pozicija zahtijeva široko ___.",
+      "options": ["رَاتِبٍ", "مَكْتَبٍ", "خِبْرَةٍ", "إِجَازَةٍ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-work-05",
+      "type": "sentence-order",
+      "translation": "Iskusni radnik aplicirao je za višu poziciju.",
+      "words": ["تَقَدَّمَ", "الْعَامِلُ", "الْخَبِيرُ", "لِلْمَنْصِبِ", "الأَعْلَى"],
+      "correct": ["تَقَدَّمَ", "الْعَامِلُ", "الْخَبِيرُ", "لِلْمَنْصِبِ", "الأَعْلَى"]
+    },
+    {
+      "id": "b1-work-06",
+      "type": "sentence-order",
+      "translation": "Direktor je potpisao ugovor u kancelariji.",
+      "words": ["فِي", "وَقَّعَ", "الْمُدِيرُ", "الْمَكْتَبِ", "الْعَقْدَ"],
+      "correct": ["وَقَّعَ", "الْمُدِيرُ", "الْعَقْدَ", "فِي", "الْمَكْتَبِ"]
+    },
+    {
+      "id": "b1-work-07",
+      "type": "sentence-order",
+      "translation": "Zaposleni prima visoku platu svaki mjesec.",
+      "words": ["الْمُوَظَّفُ", "كُلَّ", "يَتَلَقَّى", "شَهْرٍ", "رَاتِباً", "مُرْتَفِعاً"],
+      "correct": ["يَتَلَقَّى", "الْمُوَظَّفُ", "رَاتِباً", "مُرْتَفِعاً", "كُلَّ", "شَهْرٍ"]
+    },
+    {
+      "id": "b1-work-08",
+      "type": "odd-one-out",
+      "words": ["مُوَظَّفٌ", "مُدِيرٌ", "خُبْزٌ", "قَطَاعٌ"],
+      "translations": ["zaposleni", "direktor", "hljeb", "sektor"],
+      "oddIndex": 2,
+      "reason": "Ostale tri riječi su vezane za posao i karijeru, a 'hljeb' je hrana."
+    },
+    {
+      "id": "b1-work-09",
+      "type": "odd-one-out",
+      "words": ["رَاتِبٌ", "اجْتِمَاعٌ", "مَشْرُوعٌ", "شَجَرَةٌ"],
+      "translations": ["plata", "sastanak", "projekat", "drvo"],
+      "oddIndex": 3,
+      "reason": "Ostale tri riječi su pojmovi iz radnog okruženja, a 'drvo' pripada prirodi."
+    },
+    {
+      "id": "b1-work-10",
+      "type": "odd-one-out",
+      "words": ["خِبْرَةٌ", "أُمٌّ", "مُؤَهِّلٌ", "إِجَازَةٌ"],
+      "translations": ["iskustvo", "majka", "kvalifikacija", "odmor/odsustvo"],
+      "oddIndex": 1,
+      "reason": "Ostale tri riječi su vezane za profesionalni razvoj i rad, a 'majka' je porodični pojam."
+    }
+  ]
+}

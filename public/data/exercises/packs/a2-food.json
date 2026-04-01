@@ -1,0 +1,93 @@
+{
+  "id": "a2-food",
+  "level": "A2",
+  "topic": "food",
+  "title": "Food & Drink",
+  "titleAr": "الطَّعَامُ وَالشَّرَابُ",
+  "titleBs": "Hrana i piće",
+  "estimatedMinutes": 6,
+  "exercises": [
+    {
+      "id": "a2-food-01",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "خُبْزٌ", "bs": "hljeb"},
+        {"arabic": "لَحْمٌ", "bs": "meso"},
+        {"arabic": "مَاءٌ", "bs": "voda"},
+        {"arabic": "تُفَّاحَةٌ", "bs": "jabuka"}
+      ]
+    },
+    {
+      "id": "a2-food-02",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "سَمَكٌ", "bs": "riba"},
+        {"arabic": "عَصِيرٌ", "bs": "sok"},
+        {"arabic": "أَرُزٌّ", "bs": "riža"},
+        {"arabic": "حَلِيبٌ", "bs": "mlijeko"}
+      ]
+    },
+    {
+      "id": "a2-food-03",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "خُضَارٌ", "bs": "povrće"},
+        {"arabic": "تَمْرٌ", "bs": "hurma"},
+        {"arabic": "بَيْضٌ", "bs": "jaje"},
+        {"arabic": "زَيْتٌ", "bs": "ulje"}
+      ]
+    },
+    {
+      "id": "a2-food-04",
+      "type": "odd-one-out",
+      "words": ["مَاءٌ", "عَصِيرٌ", "حَلِيبٌ", "خُبْزٌ"],
+      "translations": ["voda", "sok", "mlijeko", "hljeb"],
+      "oddIndex": 3,
+      "explanationBs": "Hljeb je jedina čvrsta hrana, ostalo su napici."
+    },
+    {
+      "id": "a2-food-05",
+      "type": "odd-one-out",
+      "words": ["تُفَّاحَةٌ", "كُرْسِيٌّ", "تَمْرٌ", "خُضَارٌ"],
+      "translations": ["jabuka", "stolica", "hurma", "povrće"],
+      "oddIndex": 1,
+      "explanationBs": "Stolica je namještaj, ostalo su namirnice."
+    },
+    {
+      "id": "a2-food-06",
+      "type": "odd-one-out",
+      "words": ["لَحْمٌ", "سَمَكٌ", "دَجَاجٌ", "سَيَّارَةٌ"],
+      "translations": ["meso", "riba", "piletina", "auto"],
+      "oddIndex": 3,
+      "explanationBs": "Auto je prijevozno sredstvo, ostalo su vrste mesa."
+    },
+    {
+      "id": "a2-food-07",
+      "type": "word-meaning",
+      "arabic": "عَصِيرٌ",
+      "options": ["mlijeko", "voda", "čaj", "sok"],
+      "correctIndex": 3
+    },
+    {
+      "id": "a2-food-08",
+      "type": "word-meaning",
+      "arabic": "أَرُزٌّ",
+      "options": ["hljeb", "pirinač", "meso", "povrće"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a2-food-09",
+      "type": "word-meaning",
+      "arabic": "تَمْرٌ",
+      "options": ["jabuka", "banana", "hurma", "grožđe"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a2-food-10",
+      "type": "word-meaning",
+      "arabic": "حَلِيبٌ",
+      "options": ["mlijeko", "voda", "sok", "jogurt"],
+      "correctIndex": 0
+    }
+  ]
+}

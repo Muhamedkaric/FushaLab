@@ -1,0 +1,88 @@
+{
+  "id": "b2-formal",
+  "level": "B2",
+  "topic": "formal",
+  "title": "Formal Language",
+  "titleAr": "اللُّغَةُ الرَّسْمِيَّةُ",
+  "titleBs": "Formalni jezik",
+  "estimatedMinutes": 8,
+  "exercises": [
+    {
+      "id": "b2-formal-01",
+      "type": "fill-blank",
+      "sentence": "نَوَدُّ الإِحَاطَةَ بِأَنَّ ___ الاجْتِمَاعِ سَيَكُونُ غَداً",
+      "sentenceBs": "Željeli bismo obavijestiti da će ___ sastanka biti sutra.",
+      "options": ["مَوْعِدَ", "نَتِيجَةَ", "مَكَانَ", "رَئِيسَ"],
+      "correctIndex": 0
+    },
+    {
+      "id": "b2-formal-02",
+      "type": "fill-blank",
+      "sentence": "وَفْقاً لِلتَّعْلِيمَاتِ، يَجِبُ ___ الطَّلَبَ فِي الْمَوْعِدِ الْمُحَدَّدِ",
+      "sentenceBs": "U skladu s uputstvima, zahtjev se mora ___ u određenom roku.",
+      "options": ["تَأْجِيلُ", "تَقْدِيمُ", "إِلْغَاءُ", "رَفْضُ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-formal-03",
+      "type": "fill-blank",
+      "sentence": "فِيمَا يَخُصُّ الْمَشْرُوعَ، نُرَحِّبُ بِأَيِّ ___ مِنْ طَرَفِكُمْ",
+      "sentenceBs": "Što se tiče projekta, dobrodošla nam je svaka ___ s vaše strane.",
+      "options": ["مُقَاطَعَةٍ", "مُلَاحَظَةٍ", "مُعَارَضَةٍ", "مُخَالَفَةٍ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-formal-04",
+      "type": "fill-blank",
+      "sentence": "بِمُوجَبِ الْقَرَارِ الصَّادِرِ، يَتَعَيَّنُ الِالْتِزَامُ بِجَمِيعِ ___",
+      "sentenceBs": "Na osnovu izdane odluke, obavezno je pridržavanje svih ___.",
+      "options": ["الآرَاءِ", "الْبَنُودِ", "الْأَسْمَاءِ", "الزِّيَارَاتِ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-formal-05",
+      "type": "word-arabic",
+      "word": "s poštovanjem (završetak dopisa)",
+      "wordBs": "s poštovanjem",
+      "options": ["مَعَ التَّقْدِيرِ", "مَعَ السَّلَامَةِ", "إِلَى اللِّقَاءِ", "بِالتَّوْفِيقِ"],
+      "correctIndex": 0
+    },
+    {
+      "id": "b2-formal-06",
+      "type": "word-arabic",
+      "word": "u skladu s (prema)",
+      "wordBs": "u skladu s",
+      "options": ["بِدُونِ", "وَفْقاً لـ", "بَدَلاً مِنْ", "عَلَى الرَّغْمِ مِنْ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-formal-07",
+      "type": "word-arabic",
+      "word": "lijepi pozdrav (u prepisci)",
+      "wordBs": "lijepi pozdrav",
+      "options": ["خِتَامُ الْكَلَامِ", "تَحِيَّةٌ طَيِّبَةٌ", "بِدَايَةُ الرِّسَالَةِ", "نِهَايَةُ الْيَوْمِ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-formal-08",
+      "type": "sentence-order",
+      "translation": "Zahtjev je podnesen nadležnom ministarstvu.",
+      "words": ["الطَّلَبُ", "تَقَدَّمَ", "الْمُخْتَصَّةِ", "إِلَى", "الْوِزَارَةِ"],
+      "correct": ["تَقَدَّمَ", "الطَّلَبُ", "إِلَى", "الْوِزَارَةِ", "الْمُخْتَصَّةِ"]
+    },
+    {
+      "id": "b2-formal-09",
+      "type": "sentence-order",
+      "translation": "Uprava je obavijestila sve zaposlenike o novoj uredbi.",
+      "words": ["الْإِدَارَةُ", "أَبْلَغَتِ", "بِاللَّوَائِحِ", "الْمُوَظَّفِينَ", "الْجَدِيدَةِ", "جَمِيعَ"],
+      "correct": ["أَبْلَغَتِ", "الْإِدَارَةُ", "جَمِيعَ", "الْمُوَظَّفِينَ", "بِاللَّوَائِحِ", "الْجَدِيدَةِ"]
+    },
+    {
+      "id": "b2-formal-10",
+      "type": "sentence-order",
+      "translation": "Pismo je potpisano od strane generalnog direktora.",
+      "words": ["الرِّسَالَةُ", "وُقِّعَتِ", "الْمَدِيرِ", "مِنْ قِبَلِ", "الْعَامِّ"],
+      "correct": ["وُقِّعَتِ", "الرِّسَالَةُ", "مِنْ قِبَلِ", "الْمَدِيرِ", "الْعَامِّ"]
+    }
+  ]
+}

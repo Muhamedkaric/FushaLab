@@ -1,0 +1,91 @@
+{
+  "id": "b2-roots",
+  "level": "B2",
+  "topic": "roots",
+  "title": "Root Families",
+  "titleAr": "جُذُورُ الأَفْعَالِ",
+  "titleBs": "Porodice korijena",
+  "estimatedMinutes": 8,
+  "exercises": [
+    {
+      "id": "b2-roots-01",
+      "type": "word-meaning",
+      "arabic": "كَاتِبٌ",
+      "root": "ك ت ب",
+      "options": ["pisac", "čitač", "nastavnik", "naučnik"],
+      "correctIndex": 0
+    },
+    {
+      "id": "b2-roots-02",
+      "type": "word-meaning",
+      "arabic": "عِلْمٌ",
+      "root": "ع ل م",
+      "options": ["čitanje", "pisanje", "znanje/nauka", "studij"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b2-roots-03",
+      "type": "word-meaning",
+      "arabic": "مُدَرِّسٌ",
+      "root": "د ر س",
+      "options": ["učenik", "nastavnik", "škola", "studij"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-roots-04",
+      "type": "word-meaning",
+      "arabic": "قَارِئٌ",
+      "root": "ق ر أ",
+      "options": ["pisac", "govornik", "čitalac", "naučnik"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b2-roots-05",
+      "type": "odd-one-out",
+      "words": ["عِلْمٌ", "عَالِمٌ", "تَعَلَّمَ", "كِتَابٌ"],
+      "translations": ["znanje", "naučnik", "naučio/učio", "knjiga"],
+      "oddIndex": 3,
+      "reason": "Knjiga (كِتَابٌ) je iz korijena ك ت ب, dok su ostale tri riječi iz korijena ع ل م."
+    },
+    {
+      "id": "b2-roots-06",
+      "type": "odd-one-out",
+      "words": ["دَرَسَ", "دِرَاسَةٌ", "مَدْرَسَةٌ", "كَتَبَ"],
+      "translations": ["studirao", "studij", "škola", "napisao"],
+      "oddIndex": 3,
+      "reason": "Napisao (كَتَبَ) je iz korijena ك ت ب, dok su ostale tri riječi iz korijena د ر س."
+    },
+    {
+      "id": "b2-roots-07",
+      "type": "odd-one-out",
+      "words": ["قَرَأَ", "قِرَاءَةٌ", "قَارِئٌ", "مَكْتَبٌ"],
+      "translations": ["pročitao", "čitanje", "čitalac", "kancelarija/pult"],
+      "oddIndex": 3,
+      "reason": "Kancelarija (مَكْتَبٌ) je iz korijena ك ت ب, dok su ostale tri riječi iz korijena ق ر أ."
+    },
+    {
+      "id": "b2-roots-08",
+      "type": "fill-blank",
+      "sentence": "يَجْلِسُ الطَّالِبُ فِي ___ وَيُرَاجِعُ دُرُوسَهُ",
+      "sentenceBs": "Student sjedi u ___ i ponavlja svoje lekcije.",
+      "options": ["الْمَطْبَخِ", "الْمَكْتَبِ", "الْمَسْجِدِ", "السُّوقِ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-roots-09",
+      "type": "fill-blank",
+      "sentence": "تَعَلَّمَ الطِّفْلُ ___ فِي سِنٍّ مُبَكِّرَةٍ",
+      "sentenceBs": "Dijete je naučilo ___ u ranoj dobi.",
+      "options": ["الطَّبْخَ", "الْقِرَاءَةَ", "السِّبَاحَةَ", "الرُّكُوبَ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-roots-10",
+      "type": "fill-blank",
+      "sentence": "أَلَّفَ الْعَالِمُ كِتَاباً عَنِ ___ الْحَدِيثَةِ",
+      "sentenceBs": "Naučnik je napisao knjigu o modernoj ___.",
+      "options": ["الطَّبِيخِ", "الرِّيَاضَةِ", "الْعُلُومِ", "السِّيَاحَةِ"],
+      "correctIndex": 2
+    }
+  ]
+}

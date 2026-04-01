@@ -1,0 +1,87 @@
+{
+  "id": "b2-business",
+  "level": "B2",
+  "topic": "business",
+  "title": "Business Arabic",
+  "titleAr": "عَالَمُ الأَعْمَالِ",
+  "titleBs": "Poslovni arapski",
+  "estimatedMinutes": 8,
+  "exercises": [
+    {
+      "id": "b2-business-01",
+      "type": "sentence-order",
+      "translation": "Kompanija je potpisala novi ugovor sa partnerom.",
+      "words": ["وَقَّعَتِ", "عَقْداً", "الشَّرِكَةُ", "مَعَ", "جَدِيداً", "الشَّرِيكِ"],
+      "correct": ["وَقَّعَتِ", "الشَّرِكَةُ", "عَقْداً", "جَدِيداً", "مَعَ", "الشَّرِيكِ"]
+    },
+    {
+      "id": "b2-business-02",
+      "type": "sentence-order",
+      "translation": "Investicija je doprinijela rastu prihoda.",
+      "words": ["فِي", "سَاهَمَ", "الإِيرَادَاتِ", "الاسْتِثْمَارُ", "نُمُوِّ"],
+      "correct": ["سَاهَمَ", "الاسْتِثْمَارُ", "فِي", "نُمُوِّ", "الإِيرَادَاتِ"]
+    },
+    {
+      "id": "b2-business-03",
+      "type": "sentence-order",
+      "translation": "Pregovaranje između dva partnera trajalo je satima.",
+      "words": ["الْمُفَاوَضَةُ", "سَاعَاتٍ", "الشَّرِيكَيْنِ", "اسْتَمَرَّتْ", "بَيْنَ"],
+      "correct": ["اسْتَمَرَّتْ", "الْمُفَاوَضَةُ", "بَيْنَ", "الشَّرِيكَيْنِ", "سَاعَاتٍ"]
+    },
+    {
+      "id": "b2-business-04",
+      "type": "sentence-order",
+      "translation": "Tržišna konkurencija primorala je kompaniju da smanji cijene.",
+      "words": ["الشَّرِكَةَ", "الْمُنَافَسَةُ", "الأَسْعَارَ", "أَجْبَرَتِ", "لِخَفْضِ", "السُّوقِيَّةُ"],
+      "correct": ["أَجْبَرَتِ", "الْمُنَافَسَةُ", "السُّوقِيَّةُ", "الشَّرِكَةَ", "لِخَفْضِ", "الأَسْعَارَ"]
+    },
+    {
+      "id": "b2-business-05",
+      "type": "fill-blank",
+      "sentence": "أَبْرَمَتِ الشَّرِكَتَانِ ___ تِجَارِيَّةً مُرْبِحَةً",
+      "sentenceBs": "Dvije kompanije sklopile su profitabilan poslovni ___.",
+      "options": ["خَسَارَةً", "صَفْقَةً", "مِيزَانِيَّةً", "مُنَافَسَةً"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-business-06",
+      "type": "fill-blank",
+      "sentence": "خَصَّصَتِ الشَّرِكَةُ ___ كَبِيرَةً لِتَطْوِيرِ الْمُنْتَجَاتِ",
+      "sentenceBs": "Kompanija je odvojila velik ___ za razvoj proizvoda.",
+      "options": ["رِبْحاً", "مِيزَانِيَّةً", "خَسَارَةً", "صَفْقَةً"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-business-07",
+      "type": "fill-blank",
+      "sentence": "حَقَّقَتِ الشَّرِكَةُ ___ صَافِياً قِيَاسِيَّاً هَذَا الْعَامَ",
+      "sentenceBs": "Kompanija je ostvarila rekordnu neto ___ ove godine.",
+      "options": ["خَسَارَةً", "مُنَافَسَةً", "رِبْحاً", "عَقْداً"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b2-business-08",
+      "type": "odd-one-out",
+      "words": ["عَقْدٌ", "صَفْقَةٌ", "مُفَاوَضَةٌ", "وَرْدَةٌ"],
+      "translations": ["ugovor", "posao/dogovor", "pregovaranje", "ruža"],
+      "oddIndex": 3,
+      "reason": "Ostale tri riječi su poslovni pojmovi, a 'ruža' je cvijet koji ne pripada poslovnom kontekstu."
+    },
+    {
+      "id": "b2-business-09",
+      "type": "odd-one-out",
+      "words": ["اسْتِثْمَارٌ", "رِبْحٌ", "مِيزَانِيَّةٌ", "جَبَلٌ"],
+      "translations": ["investicija", "profit", "budžet", "planina"],
+      "oddIndex": 3,
+      "reason": "Ostale tri riječi su finansijski pojmovi, a 'planina' je geografski pojam koji ne pripada poslovnom rječniku."
+    },
+    {
+      "id": "b2-business-10",
+      "type": "odd-one-out",
+      "words": ["سُوقٌ", "مُنَافَسَةٌ", "شَرِيكٌ", "مَطَرٌ"],
+      "translations": ["tržište", "konkurencija", "partner", "kiša"],
+      "oddIndex": 3,
+      "reason": "Ostale tri riječi opisuju poslovne odnose i okruženje, a 'kiša' je vremenska pojava."
+    }
+  ]
+}

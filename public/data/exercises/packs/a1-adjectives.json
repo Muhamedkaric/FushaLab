@@ -1,0 +1,84 @@
+{
+  "id": "a1-adjectives",
+  "level": "A1",
+  "topic": "adjectives",
+  "title": "Colors & Adjectives",
+  "titleAr": "الْأَلْوَانُ وَالصِّفَاتُ",
+  "titleBs": "Boje i pridjevi",
+  "estimatedMinutes": 5,
+  "exercises": [
+    {
+      "id": "a1-adjectives-01",
+      "type": "word-meaning",
+      "arabic": "أَحْمَرُ",
+      "options": ["plava", "zelena", "crvena", "bijela"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-adjectives-02",
+      "type": "word-arabic",
+      "word": "bijela",
+      "options": ["أَسْوَدُ", "أَبْيَضُ", "أَزْرَقُ", "أَخْضَرُ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a1-adjectives-03",
+      "type": "fill-blank",
+      "sentence": "هَذِهِ السَّيَّارَةُ ___",
+      "sentenceBs": "Ovaj auto je ___",
+      "options": ["أَحْمَرُ", "كِتَابٌ", "بَيْتٌ", "كَبِيرٌ جِدّاً"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a1-adjectives-04",
+      "type": "word-meaning",
+      "arabic": "كَبِيرٌ",
+      "options": ["novi", "mali", "star", "veliki"],
+      "correctIndex": 3
+    },
+    {
+      "id": "a1-adjectives-05",
+      "type": "word-arabic",
+      "word": "crna",
+      "options": ["أَحْمَرُ", "أَخْضَرُ", "أَبْيَضُ", "أَسْوَدُ"],
+      "correctIndex": 3
+    },
+    {
+      "id": "a1-adjectives-06",
+      "type": "word-meaning",
+      "arabic": "جَمِيلٌ",
+      "options": ["lijep", "star", "veliki", "plav"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a1-adjectives-07",
+      "type": "fill-blank",
+      "sentence": "هَذَا الْبَيْتُ ___ وَجَمِيلٌ",
+      "sentenceBs": "Ova kuća je ___ i lijepa",
+      "options": ["صَغِيرٌ", "قَلَمٌ", "أَحْمَرُ وَأَزْرَقُ", "مَاءٌ"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a1-adjectives-08",
+      "type": "word-meaning",
+      "arabic": "قَدِيمٌ",
+      "options": ["lijep", "novi", "star", "mali"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-adjectives-09",
+      "type": "word-arabic",
+      "word": "zelena",
+      "options": ["أَزْرَقُ", "أَخْضَرُ", "أَحْمَرُ", "أَسْوَدُ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a1-adjectives-10",
+      "type": "fill-blank",
+      "sentence": "الْكِتَابُ ___ وَجَدِيدٌ",
+      "sentenceBs": "Knjiga je ___ i nova",
+      "options": ["كَبِيرٌ", "هَاتِفٌ", "أَبٌ", "ذَهَبَ"],
+      "correctIndex": 0
+    }
+  ]
+}

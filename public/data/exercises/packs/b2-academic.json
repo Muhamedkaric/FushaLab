@@ -1,0 +1,87 @@
+{
+  "id": "b2-academic",
+  "level": "B2",
+  "topic": "academic",
+  "title": "Academic Language",
+  "titleAr": "اللُّغَةُ الأَكَادِيمِيَّةُ",
+  "titleBs": "Akademski jezik",
+  "estimatedMinutes": 8,
+  "exercises": [
+    {
+      "id": "b2-academic-01",
+      "type": "sentence-order",
+      "translation": "Istraživač je prezentovao rezultate na konferenciji.",
+      "words": ["النَّتَائِجَ", "قَدَّمَ", "فِي", "الْبَاحِثُ", "الْمُؤْتَمَرِ"],
+      "correct": ["قَدَّمَ", "الْبَاحِثُ", "النَّتَائِجَ", "فِي", "الْمُؤْتَمَرِ"]
+    },
+    {
+      "id": "b2-academic-02",
+      "type": "sentence-order",
+      "translation": "Hipoteza je potvrđena kroz eksperimentalnu analizu.",
+      "words": ["أُكِّدَتِ", "خِلَالِ", "التَّحْلِيلِ", "الْفَرَضِيَّةُ", "مِنْ", "التَّجْرِيبِيِّ"],
+      "correct": ["أُكِّدَتِ", "الْفَرَضِيَّةُ", "مِنْ", "خِلَالِ", "التَّحْلِيلِ", "التَّجْرِيبِيِّ"]
+    },
+    {
+      "id": "b2-academic-03",
+      "type": "sentence-order",
+      "translation": "Teza je objavljena u međunarodnom naučnom časopisu.",
+      "words": ["الْأُطْرُوحَةُ", "فِي", "نُشِرَتِ", "دَوْرِيَّةٍ", "دَوْلِيَّةٍ"],
+      "correct": ["نُشِرَتِ", "الْأُطْرُوحَةُ", "فِي", "دَوْرِيَّةٍ", "دَوْلِيَّةٍ"]
+    },
+    {
+      "id": "b2-academic-04",
+      "type": "sentence-order",
+      "translation": "Metodologija istraživanja zasnovana je na prikupljanju podataka.",
+      "words": ["الْبَحْثِ", "مَنْهَجُ", "الْبَيَانَاتِ", "جَمْعِ", "عَلَى", "يَقُومُ"],
+      "correct": ["يَقُومُ", "مَنْهَجُ", "الْبَحْثِ", "عَلَى", "جَمْعِ", "الْبَيَانَاتِ"]
+    },
+    {
+      "id": "b2-academic-05",
+      "type": "fill-blank",
+      "sentence": "خَلَصَ الْبَاحِثُ إِلَى ___ مُهِمَّةٍ تَدْعَمُ الْفَرَضِيَّةَ",
+      "sentenceBs": "Istraživač je došao do važnih ___ koje podupiru hipotezu.",
+      "options": ["أَسْئِلَةٍ", "نَتَائِجَ", "مَصَادِرَ", "مَنَاهِجَ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-academic-06",
+      "type": "fill-blank",
+      "sentence": "يَجِبُ ذِكْرُ ___ عِنْدَ الاقْتِبَاسِ مِنْ أَيِّ مَصْدَرٍ",
+      "sentenceBs": "Potrebno je navesti ___ pri citiranju bilo kojeg izvora.",
+      "options": ["الاسْتِنْتَاجَ", "الْمَرَاجِعَ", "الْمَنْهَجَ", "الْفَرَضِيَّةَ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "b2-academic-07",
+      "type": "fill-blank",
+      "sentence": "اعْتَمَدَ الْبَاحِثُ ___ كَمِيَّاً وَكَيْفِيَّاً فِي دِرَاسَتِهِ",
+      "sentenceBs": "Istraživač je koristio kvantitativnu i kvalitativnu ___ u svom istraživanju.",
+      "options": ["الاسْتِنْتَاجَ", "الدَّوْرِيَّةَ", "الْمَنْهَجَ", "الْأُطْرُوحَةَ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b2-academic-08",
+      "type": "fill-blank",
+      "sentence": "يُقَدِّمُ الطَّالِبُ ___ لِنَيْلِ دَرَجَةِ الدُّكْتُورَاه",
+      "sentenceBs": "Student podnosi ___ radi sticanja doktorskog zvanja.",
+      "options": ["بَحْثاً", "مُؤْتَمَراً", "أُطْرُوحَةً", "تَحْلِيلاً"],
+      "correctIndex": 2
+    },
+    {
+      "id": "b2-academic-09",
+      "type": "word-arabic",
+      "word": "istraživanje (naučno)",
+      "wordBs": "istraživanje",
+      "options": ["بَحْثٌ", "دَرْسٌ", "كِتَابٌ", "خِطَابٌ"],
+      "correctIndex": 0
+    },
+    {
+      "id": "b2-academic-10",
+      "type": "word-arabic",
+      "word": "zaključak (naučnog rada)",
+      "wordBs": "zaključak",
+      "options": ["فَرَضِيَّةٌ", "مَنْهَجٌ", "مُقَدِّمَةٌ", "اسْتِنْتَاجٌ"],
+      "correctIndex": 3
+    }
+  ]
+}

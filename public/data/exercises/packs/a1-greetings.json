@@ -1,0 +1,84 @@
+{
+  "id": "a1-greetings",
+  "level": "A1",
+  "topic": "greetings",
+  "title": "Greetings & Expressions",
+  "titleAr": "التَّحِيَّاتُ وَالتَّعَابِيرُ",
+  "titleBs": "Pozdravi i izrazi",
+  "estimatedMinutes": 5,
+  "exercises": [
+    {
+      "id": "a1-greetings-01",
+      "type": "word-meaning",
+      "arabic": "السَّلَامُ عَلَيْكُمْ",
+      "options": ["Mir vama", "Dobro jutro", "Hvala", "Doviđenja"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a1-greetings-02",
+      "type": "word-meaning",
+      "arabic": "شُكْراً",
+      "options": ["Molim", "Izvolite", "Hvala", "Zbogom"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-greetings-03",
+      "type": "listen-select",
+      "word": "صَبَاحُ الْخَيْرِ",
+      "options": ["مَسَاءُ الْخَيْرِ", "مَعَ السَّلَامَةِ", "صَبَاحُ الْخَيْرِ", "كَيْفَ حَالُكَ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-greetings-04",
+      "type": "word-meaning",
+      "arabic": "مَعَ السَّلَامَةِ",
+      "options": ["Dobro jutro", "Doviđenja", "Dobro veče", "Kako si"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a1-greetings-05",
+      "type": "fill-blank",
+      "sentence": "___ عَلَيْكُمْ، كَيْفَ حَالُكَ؟",
+      "sentenceBs": "___ vama, kako si?",
+      "options": ["السَّلَامُ", "شُكْراً", "نَعَمْ", "عَفْواً"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a1-greetings-06",
+      "type": "listen-select",
+      "word": "مَسَاءُ الْخَيْرِ",
+      "options": ["صَبَاحُ الْخَيْرِ", "مَسَاءُ الْخَيْرِ", "كَيْفَ حَالُكَ", "بِخَيْرٍ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a1-greetings-07",
+      "type": "word-meaning",
+      "arabic": "عَفْواً",
+      "options": ["Hvala", "Zbogom", "Nema na čemu", "Molim"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-greetings-08",
+      "type": "fill-blank",
+      "sentence": "أَنَا بِخَيْرٍ، ___",
+      "sentenceBs": "Ja sam dobro, ___",
+      "options": ["لَا", "نَعَمْ", "شُكْراً", "تَفَضَّلْ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-greetings-09",
+      "type": "listen-select",
+      "word": "مِنْ فَضْلِكَ",
+      "options": ["مِنْ فَضْلِكَ", "عَفْواً", "شُكْراً", "تَفَضَّلْ"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a1-greetings-10",
+      "type": "fill-blank",
+      "sentence": "هَلْ أَنْتَ بِخَيْرٍ؟ ___, أَنَا بِخَيْرٍ",
+      "sentenceBs": "Jesi li dobro? ___, ja sam dobro",
+      "options": ["لَا", "عَفْواً", "نَعَمْ", "كَيْفَ"],
+      "correctIndex": 2
+    }
+  ]
+}

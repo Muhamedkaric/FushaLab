@@ -1,0 +1,84 @@
+{
+  "id": "a2-places",
+  "level": "A2",
+  "topic": "places",
+  "title": "Places in the City",
+  "titleAr": "الأَمَاكِنُ فِي الْمَدِينَةِ",
+  "titleBs": "Mjesta u gradu",
+  "estimatedMinutes": 6,
+  "exercises": [
+    {
+      "id": "a2-places-01",
+      "type": "sentence-order",
+      "translation": "Učenici idu u školu.",
+      "words": ["الطُّلَّابُ", "إِلَى", "يَذْهَبُ", "الْمَدْرَسَةِ"],
+      "correct": ["يَذْهَبُ", "الطُّلَّابُ", "إِلَى", "الْمَدْرَسَةِ"]
+    },
+    {
+      "id": "a2-places-02",
+      "type": "sentence-order",
+      "translation": "Kupujemo na pijaci.",
+      "words": ["فِي", "نَشْتَرِي", "السُّوقِ", "نَحْنُ"],
+      "correct": ["نَحْنُ", "نَشْتَرِي", "فِي", "السُّوقِ"]
+    },
+    {
+      "id": "a2-places-03",
+      "type": "sentence-order",
+      "translation": "Doktor radi u bolnici.",
+      "words": ["الطَّبِيبُ", "فِي", "يَعْمَلُ", "الْمُسْتَشْفَى"],
+      "correct": ["يَعْمَلُ", "الطَّبِيبُ", "فِي", "الْمُسْتَشْفَى"]
+    },
+    {
+      "id": "a2-places-04",
+      "type": "sentence-order",
+      "translation": "Putnik odsijeda u hotelu.",
+      "words": ["الْمُسَافِرُ", "فِي", "يَنَامُ", "الْفُنْدُقِ"],
+      "correct": ["يَنَامُ", "الْمُسَافِرُ", "فِي", "الْفُنْدُقِ"]
+    },
+    {
+      "id": "a2-places-05",
+      "type": "fill-blank",
+      "sentence": "نَحْنُ نُصَلِّي فِي ___",
+      "sentenceBs": "Klanjamo u ___.",
+      "options": ["الْمَطَارِ", "الْمَسْجِدِ", "الْمَطْعَمِ", "الْفُنْدُقِ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a2-places-06",
+      "type": "fill-blank",
+      "sentence": "أَقْرَأُ الْكُتُبَ فِي ___",
+      "sentenceBs": "Čitam knjige u ___.",
+      "options": ["الْمَطْعَمِ", "الْمَحَطَّةِ", "الْمَكْتَبَةِ", "الْمَسْجِدِ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a2-places-07",
+      "type": "fill-blank",
+      "sentence": "يُسَافِرُ النَّاسُ مِنَ ___",
+      "sentenceBs": "Ljudi putuju iz ___.",
+      "options": ["الْمَدْرَسَةِ", "الْمَطَارِ", "السُّوقِ", "الْبَيْتِ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a2-places-08",
+      "type": "word-meaning",
+      "arabic": "مُسْتَشْفَىً",
+      "options": ["škola", "aerodrom", "bolnica", "hotel"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a2-places-09",
+      "type": "word-meaning",
+      "arabic": "مَكْتَبَةٌ",
+      "options": ["restoran", "biblioteka", "stanica", "pijaca"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a2-places-10",
+      "type": "word-meaning",
+      "arabic": "مَحَطَّةٌ",
+      "options": ["stanica", "aerodrom", "džamija", "grad"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "a1-family",
+  "level": "A1",
+  "topic": "family",
+  "title": "Family Members",
+  "titleAr": "أَفْرَادُ الْعَائِلَةِ",
+  "titleBs": "Članovi porodice",
+  "estimatedMinutes": 5,
+  "exercises": [
+    {
+      "id": "a1-family-01",
+      "type": "word-meaning",
+      "arabic": "أَبٌ",
+      "options": ["majka", "brat", "otac", "sin"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-family-02",
+      "type": "odd-one-out",
+      "words": ["أَبٌ", "أُمٌّ", "أَخٌ", "كِتَابٌ"],
+      "translations": ["otac", "majka", "brat", "knjiga"],
+      "oddIndex": 3,
+      "reason": "Knjiga nije član porodice"
+    },
+    {
+      "id": "a1-family-03",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "أَبٌ", "bs": "otac"},
+        {"arabic": "أُمٌّ", "bs": "majka"},
+        {"arabic": "أَخٌ", "bs": "brat"},
+        {"arabic": "أُخْتٌ", "bs": "sestra"}
+      ]
+    },
+    {
+      "id": "a1-family-04",
+      "type": "word-meaning",
+      "arabic": "جَدٌّ",
+      "options": ["djed", "baka", "amidža", "suprug"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a1-family-05",
+      "type": "odd-one-out",
+      "words": ["جَدٌّ", "جَدَّةٌ", "بَيْتٌ", "ابْنٌ"],
+      "translations": ["djed", "baka", "kuća", "sin"],
+      "oddIndex": 2,
+      "reason": "Kuća nije član porodice"
+    },
+    {
+      "id": "a1-family-06",
+      "type": "word-meaning",
+      "arabic": "بِنْتٌ",
+      "options": ["sin", "majka", "sestra", "kćerka"],
+      "correctIndex": 3
+    },
+    {
+      "id": "a1-family-07",
+      "type": "match-pairs",
+      "pairs": [
+        {"arabic": "جَدٌّ", "bs": "djed"},
+        {"arabic": "جَدَّةٌ", "bs": "baka"},
+        {"arabic": "ابْنٌ", "bs": "sin"},
+        {"arabic": "بِنْتٌ", "bs": "kćerka"}
+      ]
+    },
+    {
+      "id": "a1-family-08",
+      "type": "odd-one-out",
+      "words": ["عَمٌّ", "زَوْجٌ", "قَلَمٌ", "أُخْتٌ"],
+      "translations": ["amidža", "suprug", "olovka", "sestra"],
+      "oddIndex": 2,
+      "reason": "Olovka nije član porodice"
+    },
+    {
+      "id": "a1-family-09",
+      "type": "word-meaning",
+      "arabic": "عَمٌّ",
+      "options": ["djed", "suprug", "amidža", "brat"],
+      "correctIndex": 2
+    },
+    {
+      "id": "a1-family-10",
+      "type": "odd-one-out",
+      "words": ["أَبٌ", "كَلْبٌ", "ابْنٌ", "زَوْجٌ"],
+      "translations": ["otac", "pas", "sin", "suprug"],
+      "oddIndex": 1,
+      "reason": "Pas nije član porodice"
+    }
+  ]
+}

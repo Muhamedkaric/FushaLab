@@ -1,0 +1,84 @@
+{
+  "id": "a2-verbs",
+  "level": "A2",
+  "topic": "verbs",
+  "title": "Essential Verbs",
+  "titleAr": "الأَفْعَالُ الأَسَاسِيَّةُ",
+  "titleBs": "Osnovni glagoli",
+  "estimatedMinutes": 6,
+  "exercises": [
+    {
+      "id": "a2-verbs-01",
+      "type": "word-arabic",
+      "word": "otišao",
+      "options": ["جَلَسَ", "ذَهَبَ", "نَامَ", "رَجَعَ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a2-verbs-02",
+      "type": "word-arabic",
+      "word": "napisao",
+      "options": ["قَرَأَ", "فَتَحَ", "أَكَلَ", "كَتَبَ"],
+      "correctIndex": 3
+    },
+    {
+      "id": "a2-verbs-03",
+      "type": "word-arabic",
+      "word": "pronašao",
+      "options": ["وَجَدَ", "شَرِبَ", "جَلَسَ", "رَجَعَ"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a2-verbs-04",
+      "type": "sentence-order",
+      "translation": "Učenik je pročitao knjigu.",
+      "words": ["الْكِتَابَ", "قَرَأَ", "الطَّالِبُ", "جَدِيداً"],
+      "correct": ["قَرَأَ", "الطَّالِبُ", "الْكِتَابَ", "جَدِيداً"]
+    },
+    {
+      "id": "a2-verbs-05",
+      "type": "sentence-order",
+      "translation": "Djevojka je pila vodu.",
+      "words": ["الْمَاءَ", "شَرِبَتِ", "الْبِنْتُ"],
+      "correct": ["شَرِبَتِ", "الْبِنْتُ", "الْمَاءَ"]
+    },
+    {
+      "id": "a2-verbs-06",
+      "type": "sentence-order",
+      "translation": "Dječak je sjeo na stolicu.",
+      "words": ["عَلَى", "جَلَسَ", "الْكُرْسِيِّ", "الْوَلَدُ"],
+      "correct": ["جَلَسَ", "الْوَلَدُ", "عَلَى", "الْكُرْسِيِّ"]
+    },
+    {
+      "id": "a2-verbs-07",
+      "type": "sentence-order",
+      "translation": "Otac se vratio kući.",
+      "words": ["الْأَبُ", "إِلَى", "رَجَعَ", "الْبَيْتِ"],
+      "correct": ["رَجَعَ", "الْأَبُ", "إِلَى", "الْبَيْتِ"]
+    },
+    {
+      "id": "a2-verbs-08",
+      "type": "fill-blank",
+      "sentence": "ذَهَبَ الطَّالِبُ إِلَى ___",
+      "sentenceBs": "Učenik je otišao u ___",
+      "options": ["الْمَدْرَسَةِ", "الطَّعَامِ", "الْكِتَابِ", "الْبَيْتِ"],
+      "correctIndex": 0
+    },
+    {
+      "id": "a2-verbs-09",
+      "type": "fill-blank",
+      "sentence": "أَكَلَ الرَّجُلُ ___ فِي الْبَيْتِ",
+      "sentenceBs": "Čovjek je pojeo ___ kod kuće.",
+      "options": ["الْمَاءَ", "الطَّعَامَ", "الْكِتَابَ", "الْبَابَ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "a2-verbs-10",
+      "type": "fill-blank",
+      "sentence": "___ الْوَلَدُ الْبَابَ وَدَخَلَ",
+      "sentenceBs": "Dječak je otvorio vrata i ušao.",
+      "options": ["كَتَبَ", "شَرِبَ", "فَتَحَ", "نَامَ"],
+      "correctIndex": 2
+    }
+  ]
+}
