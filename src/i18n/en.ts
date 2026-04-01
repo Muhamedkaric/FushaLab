@@ -129,7 +129,31 @@ export interface Translations {
     }
   }
 
-  conversation: { title: string; comingSoon: string }
+  conversation: {
+    title: string
+    subtitle: string
+    dialogues: string
+    phrases: string
+    viewAllPhrases: string
+    backToConversations: string
+    lines: string
+    minutes: string
+    grammarFocus: string
+    noDialogues: string
+    filterAll: string
+    modes: {
+      read: string
+      rolePlayA: string
+      rolePlayB: string
+      shadow: string
+    }
+    tapToReveal: string
+    register: {
+      formal: string
+      neutral: string
+      informal: string
+    }
+  }
   exercises: { title: string; comingSoon: string }
   progress: {
     title: string
@@ -305,8 +329,29 @@ export const en: Translations = {
     },
   },
   conversation: {
-    title: 'Conversation',
-    comingSoon: 'A1–A2 conversation practice dialogues — coming soon',
+    title: 'Conversations',
+    subtitle: 'Scripted MSA dialogues, functional phrases, and role-play practice',
+    dialogues: 'Dialogues',
+    phrases: 'Functional Phrases',
+    viewAllPhrases: 'View all phrases',
+    backToConversations: 'Back to Conversations',
+    lines: 'lines',
+    minutes: 'min',
+    grammarFocus: 'Grammar focus',
+    noDialogues: 'No dialogues available yet',
+    filterAll: 'All levels',
+    modes: {
+      read: 'Read',
+      rolePlayA: 'Role: Speaker A',
+      rolePlayB: 'Role: Speaker B',
+      shadow: 'Shadow',
+    },
+    tapToReveal: 'Tap to reveal',
+    register: {
+      formal: 'Formal',
+      neutral: 'Neutral',
+      informal: 'Informal',
+    },
   },
   exercises: {
     title: 'Exercises',
