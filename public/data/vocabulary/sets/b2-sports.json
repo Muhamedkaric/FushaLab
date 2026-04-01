@@ -1,0 +1,459 @@
+{
+  "id": "b2-sports",
+  "title": "Sports & Fitness",
+  "titleAr": "الرِّيَاضَةُ وَاللِّيَاقَةُ",
+  "level": "B2",
+  "topic": "health",
+  "words": [
+    {
+      "arabic": "الِانْتِقَالُ",
+      "root": "ن ق ل",
+      "type": "noun",
+      "bs": "transfer (igrača)",
+      "en": "transfer",
+      "exampleArabic": "أَبْرَمَ النَّادِي صَفْقَةَ الِانْتِقَالِ بِمَبْلَغٍ قِيَاسِيٍّ.",
+      "exampleBs": "Klub je sklopio rekordni transferni dogovor.",
+      "exampleEn": "The club concluded the transfer deal for a record fee."
+    },
+    {
+      "arabic": "الْعَقْدُ",
+      "root": "ع ق د",
+      "type": "noun",
+      "bs": "ugovor",
+      "en": "contract",
+      "exampleArabic": "وَقَّعَ اللَّاعِبُ عَقْدًا جَدِيدًا لِمُدَّةِ ثَلَاثِ سَنَوَاتٍ.",
+      "exampleBs": "Igrač je potpisao novi ugovor na tri godine.",
+      "exampleEn": "The player signed a new contract for three years."
+    },
+    {
+      "arabic": "الرِّعَايَةُ",
+      "root": "ر ع ي",
+      "type": "noun",
+      "bs": "sponzorstvo",
+      "en": "sponsorship",
+      "exampleArabic": "تُقَدِّمُ شَرِكَاتُ كُبْرَى رِعَايَةً مَالِيَّةً ضَخْمَةً لِلْأَنْدِيَةِ الرِّيَاضِيَّةِ.",
+      "exampleBs": "Velike kompanije pružaju ogromno finansijsko sponzorstvo sportskim klubovima.",
+      "exampleEn": "Large companies provide massive financial sponsorship to sports clubs."
+    },
+    {
+      "arabic": "الْوَكِيلُ الرِّيَاضِيُّ",
+      "root": "و ك ل",
+      "type": "phrase",
+      "bs": "sportski agent",
+      "en": "sports agent",
+      "exampleArabic": "يَتَفَاوَضُ الْوَكِيلُ الرِّيَاضِيُّ عَنِ اللَّاعِبِ لِلْحُصُولِ عَلَى أَفْضَلِ الشُّرُوطِ.",
+      "exampleBs": "Sportski agent pregovara u ime igrača kako bi dobio najbolje uvjete.",
+      "exampleEn": "The sports agent negotiates on behalf of the player to secure the best terms."
+    },
+    {
+      "arabic": "كَأْسُ الْعَالَمِ",
+      "root": "ك أ س",
+      "type": "phrase",
+      "bs": "Svjetsko prvenstvo",
+      "en": "World Cup",
+      "exampleArabic": "يَتَابِعُ الْمَلَايِينُ مُبَارَيَاتِ كَأْسِ الْعَالَمِ مِنْ جَمِيعِ أَنْحَاءِ الْكُرَةِ الْأَرْضِيَّةِ.",
+      "exampleBs": "Milioni prate utakmice Svjetskog prvaka iz svih dijelova svijeta.",
+      "exampleEn": "Millions follow the World Cup matches from all corners of the globe."
+    },
+    {
+      "arabic": "الْأَلْعَابُ الْأُولِمْبِيَّةُ",
+      "root": "ل ع ب",
+      "type": "phrase",
+      "bs": "Olimpijske igre",
+      "en": "Olympics",
+      "exampleArabic": "تَجْمَعُ الْأَلْعَابُ الْأُولِمْبِيَّةُ رِيَاضِيِّي الْعَالَمِ كُلَّ أَرْبَعِ سَنَوَاتٍ.",
+      "exampleBs": "Olimpijske igre okupljaju sportaše svijeta svake četiri godine.",
+      "exampleEn": "The Olympic Games bring together the world's athletes every four years."
+    },
+    {
+      "arabic": "الْبُطُولَةُ",
+      "root": "ب ط ل",
+      "type": "noun",
+      "bs": "šampionat, prvenstv",
+      "en": "championship",
+      "exampleArabic": "احْتَفَلَ الْفَرِيقُ بِفَوْزِهِ بِالْبُطُولَةِ لِلْمَرَّةِ الثَّالِثَةِ تَوَالِيًا.",
+      "exampleBs": "Tim je proslavio osvajanje prvenstava treći put zaredom.",
+      "exampleEn": "The team celebrated winning the championship for the third consecutive time."
+    },
+    {
+      "arabic": "الدَّوْرِيُّ",
+      "root": "د و ر",
+      "type": "noun",
+      "bs": "liga",
+      "en": "league",
+      "exampleArabic": "يَضُمُّ الدَّوْرِيُّ عِشْرِينَ فَرِيقًا مِنْ أَرْجَاءِ الْبَلَدِ.",
+      "exampleBs": "Liga obuhvata dvadeset timova iz cijele zemlje.",
+      "exampleEn": "The league comprises twenty teams from across the country."
+    },
+    {
+      "arabic": "الْبُطُولَةُ الْإِقْلِيمِيَّةُ",
+      "root": "ب ط ل",
+      "type": "phrase",
+      "bs": "regionalni turnir",
+      "en": "tournament",
+      "exampleArabic": "أُقِيمَتِ الْبُطُولَةُ الْإِقْلِيمِيَّةُ عَلَى مَدَى أُسْبُوعَيْنِ.",
+      "exampleBs": "Regionalni turnir je održan u trajanju od dva tjedna.",
+      "exampleEn": "The regional tournament was held over two weeks."
+    },
+    {
+      "arabic": "الدَّوْرُ قَبْلَ النِّهَائِيِّ",
+      "root": "د و ر",
+      "type": "phrase",
+      "bs": "polufinale",
+      "en": "semifinal",
+      "exampleArabic": "تَأَهَّلَ الْفَرِيقُ إِلَى الدَّوْرِ قَبْلَ النِّهَائِيِّ بَعْدَ فَوْزٍ مُثِيرٍ.",
+      "exampleBs": "Tim se plasirao u polufinale nakon uzbudljive pobjede.",
+      "exampleEn": "The team qualified for the semifinal after an exciting victory."
+    },
+    {
+      "arabic": "رَكْلَاتُ التَّرْجِيحِ",
+      "root": "ر ك ل",
+      "type": "phrase",
+      "bs": "penal serija, penalti (izvođenje)",
+      "en": "penalty shootout",
+      "exampleArabic": "حُسِمَتِ الْمُبَارَاةُ عَبْرَ رَكْلَاتِ التَّرْجِيحِ بَعْدَ التَّعَادُلِ.",
+      "exampleBs": "Utakmica je odlučena penaltima nakon neriješenog rezultata.",
+      "exampleEn": "The match was decided by a penalty shootout after a draw."
+    },
+    {
+      "arabic": "تِقْنِيَّةُ مُرَاجَعَةِ الْحَكَمِ بِالْفِيدِيُو",
+      "root": "ر ج ع",
+      "type": "phrase",
+      "bs": "VAR (video sudijska provjera)",
+      "en": "VAR (video assistant referee)",
+      "exampleArabic": "أَلْغَتْ تِقْنِيَّةُ مُرَاجَعَةِ الْحَكَمِ بِالْفِيدِيُو الْهَدَفَ بَعْدَ مُرَاجَعَةٍ دَقِيقَةٍ.",
+      "exampleBs": "VAR je poništio gol nakon detaljnog pregleda.",
+      "exampleEn": "The VAR cancelled the goal after a detailed review."
+    },
+    {
+      "arabic": "اللِّيَاقَةُ الْقَلْبِيَّةُ",
+      "root": "ل و ق",
+      "type": "phrase",
+      "bs": "kardiovaskularna sposobnost",
+      "en": "cardiovascular fitness",
+      "exampleArabic": "تُحَسِّنُ اللِّيَاقَةُ الْقَلْبِيَّةُ الصِّحَّةَ الْعَامَّةَ وَتُطِيلُ الْعُمُرَ.",
+      "exampleBs": "Kardiovaskularna sposobnost poboljšava opće zdravlje i produžuje životni vijek.",
+      "exampleEn": "Cardiovascular fitness improves general health and extends lifespan."
+    },
+    {
+      "arabic": "التَّحَمُّلُ",
+      "root": "ح م ل",
+      "type": "noun",
+      "bs": "izdržljivost",
+      "en": "endurance",
+      "exampleArabic": "يَبْنِي عَدَّاءُو الْمَارَاثُونِ تَحَمُّلَهُمْ عَبْرَ سَنَوَاتٍ مِنَ التَّدْرِيبِ.",
+      "exampleBs": "Maratonci grade svoju izdržljivost kroz godine treninga.",
+      "exampleEn": "Marathon runners build their endurance through years of training."
+    },
+    {
+      "arabic": "الْمُرُونَةُ",
+      "root": "م ر ن",
+      "type": "noun",
+      "bs": "fleksibilnost, savitljivost",
+      "en": "flexibility",
+      "exampleArabic": "تَزِيدُ تَمَارِينُ الْيُوغَا مِنْ مُرُونَةِ الْجِسْمِ وَتُقَلِّلُ مِنَ التَّوَتُّرِ.",
+      "exampleBs": "Yoga vježbe povećavaju fleksibilnost tijela i smanjuju napetost.",
+      "exampleEn": "Yoga exercises increase body flexibility and reduce tension."
+    },
+    {
+      "arabic": "التَّمَثُّلُ الْغِذَائِيُّ",
+      "root": "م ث ل",
+      "type": "phrase",
+      "bs": "metabolizam",
+      "en": "metabolism",
+      "exampleArabic": "يَرْتَفِعُ مُعَدَّلُ التَّمَثُّلِ الْغِذَائِيِّ خِلَالَ التَّمَارِينِ الشَّدِيدَةِ.",
+      "exampleBs": "Stopa metabolizma raste tokom intenzivnih vježbi.",
+      "exampleEn": "The metabolic rate rises during intense exercise."
+    },
+    {
+      "arabic": "التَّغْذِيَةُ الرِّيَاضِيَّةُ",
+      "root": "غ ذ و",
+      "type": "phrase",
+      "bs": "sportska prehrana",
+      "en": "sports nutrition",
+      "exampleArabic": "تُؤَثِّرُ التَّغْذِيَةُ الرِّيَاضِيَّةُ تَأْثِيرًا مُبَاشِرًا عَلَى الْأَدَاءِ.",
+      "exampleBs": "Sportska prehrana ima direktan utjecaj na sportske rezultate.",
+      "exampleEn": "Sports nutrition has a direct impact on performance."
+    },
+    {
+      "arabic": "التَّعَافِي",
+      "root": "ع ف و",
+      "type": "noun",
+      "bs": "oporavak",
+      "en": "recovery",
+      "exampleArabic": "يُخَصِّصُ الرِّيَاضِيُّونَ وَقْتًا كَافِيًا لِلتَّعَافِي بَيْنَ الْجَلَسَاتِ التَّدْرِيبِيَّةِ.",
+      "exampleBs": "Sportaši odvajaju dovoljno vremena za oporavak između treninga.",
+      "exampleEn": "Athletes allocate sufficient time for recovery between training sessions."
+    },
+    {
+      "arabic": "الْعِلَاجُ الطَّبِيعِيُّ",
+      "root": "ع ل ج",
+      "type": "phrase",
+      "bs": "fizioterapija",
+      "en": "physiotherapy",
+      "exampleArabic": "خَضَعَ اللَّاعِبُ الْمُصَابُ لِجَلَسَاتِ الْعِلَاجِ الطَّبِيعِيِّ لِمُدَّةِ شَهْرٍ.",
+      "exampleBs": "Povrijeđeni igrač je prošao sesije fizioterapije u trajanju od mjesec dana.",
+      "exampleEn": "The injured player underwent physiotherapy sessions for one month."
+    },
+    {
+      "arabic": "الْمُنَشِّطَاتُ",
+      "root": "ن ش ط",
+      "type": "noun",
+      "bs": "doping, stimulansi",
+      "en": "doping",
+      "exampleArabic": "يُؤَدِّي اسْتِخْدَامُ الْمُنَشِّطَاتِ إِلَى إِيقَافِ الرِّيَاضِيِّ.",
+      "exampleBs": "Upotreba dopinga dovodi do suspenzije sportaša.",
+      "exampleEn": "The use of doping leads to the suspension of the athlete."
+    },
+    {
+      "arabic": "تَحْسِينُ الْأَدَاءِ",
+      "root": "ح س ن",
+      "type": "phrase",
+      "bs": "poboljšanje performansi",
+      "en": "performance enhancement",
+      "exampleArabic": "تَسْعَى الْأَبْحَاثُ الْعِلْمِيَّةُ إِلَى تَحْسِينِ أَدَاءِ الرِّيَاضِيِّينَ بِطُرُقٍ مَشْرُوعَةٍ.",
+      "exampleBs": "Naučna istraživanja nastoje poboljšati sportske performanse na legitiman način.",
+      "exampleEn": "Scientific research seeks to improve athlete performance through legitimate means."
+    },
+    {
+      "arabic": "التَّشْكِيلَةُ",
+      "root": "ش ك ل",
+      "type": "noun",
+      "bs": "formacija",
+      "en": "formation",
+      "exampleArabic": "اخْتَارَ الْمُدَرِّبُ تَشْكِيلَةً هُجُومِيَّةً لِمُوَاجَهَةِ الْفَرِيقِ الْمُنَافِسِ.",
+      "exampleBs": "Trener je odabrao napadačku formaciju za suočavanje s protivničkim timom.",
+      "exampleEn": "The coach chose an attacking formation to face the opposing team."
+    },
+    {
+      "arabic": "التَّكْتِيكُ",
+      "root": "ت ك ت",
+      "type": "noun",
+      "bs": "taktika",
+      "en": "tactics",
+      "exampleArabic": "تَغَيَّرَ تَكْتِيكُ الْفَرِيقِ بَعْدَ تَلَقِّيهِ الْهَدَفَ الْأَوَّلَ.",
+      "exampleBs": "Taktika tima se promijenila nakon što su primili prvi gol.",
+      "exampleEn": "The team's tactics changed after conceding the first goal."
+    },
+    {
+      "arabic": "الِاسْتِرَاتِيجِيَّةُ",
+      "root": "س ت ر",
+      "type": "noun",
+      "bs": "strategija",
+      "en": "strategy",
+      "exampleArabic": "وَضَعَ طَاقِمُ الْمُدَرِّبِينَ اسْتِرَاتِيجِيَّةً مُفَصَّلَةً لِنِهَائِيِّ الْبُطُولَةِ.",
+      "exampleBs": "Stručni štab izradio je detaljnu strategiju za finale prvenstava.",
+      "exampleEn": "The coaching staff drew up a detailed strategy for the championship final."
+    },
+    {
+      "arabic": "الْهُجُومُ الْمُرْتَدُّ",
+      "root": "ه ج م",
+      "type": "phrase",
+      "bs": "kontranapad",
+      "en": "counterattack",
+      "exampleArabic": "نَجَحَ الْفَرِيقُ فِي تَسْجِيلِ هَدَفٍ عَبْرَ هُجُومٍ مُرْتَدٍّ سَرِيعٍ.",
+      "exampleBs": "Tim je uspio postići gol brzim kontranapadom.",
+      "exampleEn": "The team succeeded in scoring a goal through a swift counterattack."
+    },
+    {
+      "arabic": "الضَّغْطُ الْعَالِي",
+      "root": "ض غ ط",
+      "type": "phrase",
+      "bs": "visoki pressing",
+      "en": "high press",
+      "exampleArabic": "يَعْتَمِدُ الْفَرِيقُ عَلَى أُسْلُوبِ الضَّغْطِ الْعَالِي لِاسْتِعَادَةِ الْكُرَةِ.",
+      "exampleBs": "Tim se oslanja na visoki pressing kako bi vratio loptu.",
+      "exampleEn": "The team relies on the high press to regain possession of the ball."
+    },
+    {
+      "arabic": "الِاسْتِحْوَاذُ",
+      "root": "ح و ذ",
+      "type": "noun",
+      "bs": "posjed lopte",
+      "en": "possession",
+      "exampleArabic": "بَلَغَ الِاسْتِحْوَاذُ سَبْعِينَ بِالْمِئَةِ لِصَالِحِ الْفَرِيقِ الْمُضِيفِ.",
+      "exampleBs": "Posjed lopte dostigao je sedamdeset posto u korist domaćeg tima.",
+      "exampleEn": "Possession reached seventy percent in favour of the home team."
+    },
+    {
+      "arabic": "الْخَطُّ الدِّفَاعِيُّ",
+      "root": "خ ط ط",
+      "type": "phrase",
+      "bs": "obrambena linija",
+      "en": "defensive line",
+      "exampleArabic": "صَمَدَ الْخَطُّ الدِّفَاعِيُّ أَمَامَ الضَّغْطِ الشَّدِيدِ مِنَ الْمُنَافِسِ.",
+      "exampleBs": "Obrambena linija je izdržala snažan pritisak suparnika.",
+      "exampleEn": "The defensive line withstood the strong pressure from the opponent."
+    },
+    {
+      "arabic": "التَّعْلِيقُ الرِّيَاضِيُّ",
+      "root": "ع ل ق",
+      "type": "phrase",
+      "bs": "sportski komentar",
+      "en": "sports commentary",
+      "exampleArabic": "يَجْذِبُ التَّعْلِيقُ الرِّيَاضِيُّ الْمُتَحَمِّسُ الْمَلَايِينَ مِنَ الْمُشَاهِدِينَ.",
+      "exampleBs": "Entuzijastičan sportski komentar privlači milione gledatelja.",
+      "exampleEn": "Enthusiastic sports commentary attracts millions of viewers."
+    },
+    {
+      "arabic": "حُقُوقُ الْبَثِّ",
+      "root": "ب ث ث",
+      "type": "phrase",
+      "bs": "prava prijenosa (emitiranja)",
+      "en": "broadcast rights",
+      "exampleArabic": "اشْتَرَتِ الْقَنَاةُ حُقُوقَ الْبَثِّ بِمَبَالِغَ طَائِلَةٍ.",
+      "exampleBs": "Kanal je kupio prava prijenosa za ogromne iznose.",
+      "exampleEn": "The channel purchased broadcast rights for enormous sums."
+    },
+    {
+      "arabic": "ثَقَافَةُ الْمُشَجِّعِينَ",
+      "root": "ث ق ف",
+      "type": "phrase",
+      "bs": "kultura navijača",
+      "en": "fan culture",
+      "exampleArabic": "تَتَمِيَّزُ ثَقَافَةُ الْمُشَجِّعِينَ فِي هَذَا الدَّوْرِيِّ بِالتَّنَوُّعِ وَالْحَيَوِيَّةِ.",
+      "exampleBs": "Kultura navijača u ovoj ligi odlikuje se raznolikošću i živošću.",
+      "exampleEn": "Fan culture in this league is distinguished by diversity and vitality."
+    },
+    {
+      "arabic": "الصِّحَافَةُ الرِّيَاضِيَّةُ",
+      "root": "ص ح ف",
+      "type": "phrase",
+      "bs": "sportsko novinarstvo",
+      "en": "sports journalism",
+      "exampleArabic": "تَتَطَلَّبُ الصِّحَافَةُ الرِّيَاضِيَّةُ مَعْرِفَةً عَمِيقَةً بِعَالَمِ الرِّيَاضَةِ.",
+      "exampleBs": "Sportsko novinarstvo zahtijeva duboko poznavanje sportskog svijeta.",
+      "exampleEn": "Sports journalism requires in-depth knowledge of the world of sport."
+    },
+    {
+      "arabic": "تَحْلِيلُ الْمُبَارَاةِ",
+      "root": "ح ل ل",
+      "type": "phrase",
+      "bs": "analiza utakmice",
+      "en": "match analysis",
+      "exampleArabic": "يَجْرِي تَحْلِيلُ الْمُبَارَاةِ بَعْدَ كُلِّ مُوَاجَهَةٍ لِتَحْسِينِ الْأَدَاءِ.",
+      "exampleBs": "Analiza utakmice se provodi nakon svake utakmice radi poboljšanja igre.",
+      "exampleEn": "Match analysis is conducted after every fixture to improve performance."
+    },
+    {
+      "arabic": "الْمَارَاثُونُ",
+      "root": "م ر ث",
+      "type": "noun",
+      "bs": "maraton",
+      "en": "marathon",
+      "exampleArabic": "يَسْتَغْرِقُ إِعْدَادُ الرِّيَاضِيِّ لِلْمَارَاثُونِ أَشْهُرًا مِنَ التَّدْرِيبِ الشَّاقِّ.",
+      "exampleBs": "Priprema sportaša za maraton traje nekoliko mjeseci napornog treninga.",
+      "exampleEn": "Preparing an athlete for the marathon takes months of intensive training."
+    },
+    {
+      "arabic": "سِبَاقُ الثَّلَاثِيَّاتِ",
+      "root": "ث ل ث",
+      "type": "noun",
+      "bs": "triatlon",
+      "en": "triathlon",
+      "exampleArabic": "يَجْمَعُ سِبَاقُ الثَّلَاثِيَّاتِ بَيْنَ السِّبَاحَةِ وَالدَّرَّاجَةِ وَالْجَرْيِ.",
+      "exampleBs": "Triatlon kombinira plivanje, biciklizam i trčanje.",
+      "exampleEn": "The triathlon combines swimming, cycling and running."
+    },
+    {
+      "arabic": "الْعُشَارِيُّ",
+      "root": "ع ش ر",
+      "type": "noun",
+      "bs": "desetoboj, dekathlon",
+      "en": "decathlon",
+      "exampleArabic": "يُعَدُّ الْعُشَارِيُّ مِنْ أَصْعَبِ الْمُنَافَسَاتِ الْأَثْلَيْطِيَّةِ عَلَى الْإِطْلَاقِ.",
+      "exampleBs": "Desetoboj smatra se jednim od najtežih atletskih takmičenja uopće.",
+      "exampleEn": "The decathlon is considered one of the most demanding athletic competitions of all."
+    },
+    {
+      "arabic": "جَائِزَةُ الْغِرَانِ بْرِي",
+      "root": "ج و ز",
+      "type": "phrase",
+      "bs": "Gran Prix",
+      "en": "Grand Prix",
+      "exampleArabic": "اسْتَقْطَبَتْ جَائِزَةُ الْغِرَانِ بْرِي جُمْهُورًا وَاسِعًا مِنْ عُشَّاقِ السِّبَاقِ.",
+      "exampleBs": "Gran Prix je privukao veliku publiku ljubitelja utrka.",
+      "exampleEn": "The Grand Prix attracted a wide audience of racing enthusiasts."
+    },
+    {
+      "arabic": "التَّصْنِيفُ",
+      "root": "ص ن ف",
+      "type": "noun",
+      "bs": "rang lista, poredak",
+      "en": "ranking",
+      "exampleArabic": "تَصَدَّرَ اللَّاعِبُ التَّصْنِيفَ الْعَالَمِيَّ لِلْعَامِ الثَّانِي عَلَى التَّوَالِي.",
+      "exampleBs": "Igrač je predvodio svjetsku rang listu drugu godinu zaredom.",
+      "exampleEn": "The player topped the world ranking for the second consecutive year."
+    },
+    {
+      "arabic": "التَّصْنِيفُ الْبِذْرِيُّ",
+      "root": "ب ذ ر",
+      "type": "phrase",
+      "bs": "seeding (nositeljstvo u žrijebu)",
+      "en": "seeding",
+      "exampleArabic": "يَحْصُلُ اللَّاعِبُ الْمُصَنَّفُ عَلَى مِيزَةٍ فِي قَرَعَةِ الْبُطُولَةِ.",
+      "exampleBs": "Nositelj žrijeba ima prednost pri raspoređivanju na turniru.",
+      "exampleEn": "The seeded player has an advantage in the tournament draw."
+    },
+    {
+      "arabic": "التَّأَهُّلُ",
+      "root": "أ ه ل",
+      "type": "noun",
+      "bs": "kvalifikacija",
+      "en": "qualification",
+      "exampleArabic": "أَكَّدَ الْمُنْتَخَبُ تَأَهُّلَهُ إِلَى نِهَائِيَّاتِ الْبُطُولَةِ.",
+      "exampleBs": "Reprezentacija je potvrdila kvalifikaciju za završnicu turnira.",
+      "exampleEn": "The national team confirmed its qualification for the tournament finals."
+    },
+    {
+      "arabic": "الرُّوحُ الرِّيَاضِيَّةُ",
+      "root": "ر و ح",
+      "type": "phrase",
+      "bs": "sportski duh, fer-plej",
+      "en": "sportsmanship",
+      "exampleArabic": "تُجَسِّدُ الرُّوحُ الرِّيَاضِيَّةُ قِيَمَ الِاحْتِرَامِ وَالنَّزَاهَةِ فِي الرِّيَاضَةِ.",
+      "exampleBs": "Sportski duh utjelovljuje vrijednosti poštovanja i poštenja u sportu.",
+      "exampleEn": "Sportsmanship embodies the values of respect and integrity in sport."
+    },
+    {
+      "arabic": "الرِّيَاضَةُ الِإلِكْتْرُونِيَّةُ",
+      "root": "ر و ض",
+      "type": "phrase",
+      "bs": "esport, elektronski sport",
+      "en": "esport",
+      "exampleArabic": "تَنَامَتِ الرِّيَاضَةُ الْإِلِكْتْرُونِيَّةُ بِسُرْعَةٍ لِتُصْبِحَ صِنَاعَةً عَالَمِيَّةً.",
+      "exampleBs": "Esport je brzo narastao da bi postao globalna industrija.",
+      "exampleEn": "Esport has grown rapidly to become a global industry."
+    },
+    {
+      "arabic": "الَّإِصَابَةُ الرِّيَاضِيَّةُ",
+      "root": "ص و ب",
+      "type": "phrase",
+      "bs": "sportska povreda",
+      "en": "sports injury",
+      "exampleArabic": "أَبْعَدَتِ الْإِصَابَةُ الرِّيَاضِيَّةُ الْحَارِسَ عَنِ الْمِيدَانِ لِثَلَاثَةِ أَشْهُرٍ.",
+      "exampleBs": "Sportska povreda udaljila je golmana s terena na tri mjeseca.",
+      "exampleEn": "The sports injury kept the goalkeeper off the pitch for three months."
+    },
+    {
+      "arabic": "الصِّرَاعُ النَّفْسِيُّ",
+      "root": "ص ر ع",
+      "type": "phrase",
+      "bs": "psihički pritisak, mentalna borba",
+      "en": "mental pressure",
+      "exampleArabic": "يَتَعَلَّمُ الرِّيَاضِيُّونَ التَّعَامُلَ مَعَ الصِّرَاعِ النَّفْسِيِّ فِي الْمُنَافَسَاتِ الْكُبْرَى.",
+      "exampleBs": "Sportaši uče nositi se s psihičkim pritiskom na velikim takmičenjima.",
+      "exampleEn": "Athletes learn to deal with mental pressure at major competitions."
+    },
+    {
+      "arabic": "السِّبَاقُ الرِّيَاضِيُّ",
+      "root": "س ب ق",
+      "type": "phrase",
+      "bs": "sportska utrka",
+      "en": "race",
+      "exampleArabic": "كَانَ السِّبَاقُ الرِّيَاضِيُّ مُثِيرًا وَشَهِدَ مُنَافَسَةً شَدِيدَةً حَتَّى اللَّحْظَةِ الْأَخِيرَةِ.",
+      "exampleBs": "Sportska utrka je bila uzbudljiva i svjedočila je ostroj borbi do posljednjeg trenutka.",
+      "exampleEn": "The race was thrilling and witnessed fierce competition until the very last moment."
+    }
+  ]
+}

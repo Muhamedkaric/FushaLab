@@ -1,0 +1,459 @@
+{
+  "id": "b1-news",
+  "title": "News & Media",
+  "titleAr": "الأَخْبَارُ وَالإِعْلَامُ",
+  "level": "B1",
+  "topic": "news",
+  "words": [
+    {
+      "arabic": "الْجَرِيدَةُ",
+      "root": "ج ر د",
+      "type": "noun",
+      "bs": "novine",
+      "en": "newspaper",
+      "exampleArabic": "تَقْرَأُ سَارَةُ الْجَرِيدَةَ كُلَّ صَبَاحٍ.",
+      "exampleBs": "Sara čita novine svako jutro.",
+      "exampleEn": "Sara reads the newspaper every morning."
+    },
+    {
+      "arabic": "الرَّادِيُو",
+      "root": "ر د و",
+      "type": "noun",
+      "bs": "radio",
+      "en": "radio",
+      "exampleArabic": "يَسْمَعُ أَبِي الأَخْبَارَ عَلَى الرَّادِيُو.",
+      "exampleBs": "Moj otac sluša vijesti na radiju.",
+      "exampleEn": "My father listens to the news on the radio."
+    },
+    {
+      "arabic": "التِّلِفِزْيُونُ",
+      "root": "ل ف ز",
+      "type": "noun",
+      "bs": "televizija",
+      "en": "television",
+      "exampleArabic": "شَاهَدْنَا الأَخْبَارَ عَلَى التِّلِفِزْيُونِ.",
+      "exampleBs": "Gledali smo vijesti na televiziji.",
+      "exampleEn": "We watched the news on television."
+    },
+    {
+      "arabic": "الْخَبَرُ",
+      "root": "خ ب ر",
+      "type": "noun",
+      "bs": "vijest",
+      "en": "news item, report",
+      "exampleArabic": "سَمِعَ أَحْمَدُ الْخَبَرَ فِي الرَّادِيُو.",
+      "exampleBs": "Ahmed je čuo vijest na radiju.",
+      "exampleEn": "Ahmed heard the news on the radio."
+    },
+    {
+      "arabic": "الأَخْبَارُ",
+      "root": "خ ب ر",
+      "type": "noun",
+      "bs": "vijesti",
+      "en": "news, news bulletin",
+      "exampleArabic": "تَبْدَأُ الأَخْبَارُ فِي السَّاعَةِ التَّاسِعَةِ.",
+      "exampleBs": "Vijesti počinju u devet sati.",
+      "exampleEn": "The news starts at nine o'clock."
+    },
+    {
+      "arabic": "التَّقْرِيرُ",
+      "root": "ق ر ر",
+      "type": "noun",
+      "bs": "izvještaj",
+      "en": "report",
+      "exampleArabic": "نَشَرَ الصَّحَفِيُّ تَقْرِيرًا مُهِمًّا.",
+      "exampleBs": "Novinar je objavio važan izvještaj.",
+      "exampleEn": "The journalist published an important report."
+    },
+    {
+      "arabic": "الصَّحَفِيُّ",
+      "root": "ص ح ف",
+      "type": "noun",
+      "bs": "novinar",
+      "en": "journalist",
+      "exampleArabic": "يَعْمَلُ الصَّحَفِيُّ فِي قَنَاةٍ كَبِيرَةٍ.",
+      "exampleBs": "Novinar radi na velikom kanalu.",
+      "exampleEn": "The journalist works at a large channel."
+    },
+    {
+      "arabic": "الْمُحَرِّرُ",
+      "root": "ح ر ر",
+      "type": "noun",
+      "bs": "urednik",
+      "en": "editor",
+      "exampleArabic": "رَاجَعَ الْمُحَرِّرُ الْمَقَالَةَ قَبْلَ النَّشْرِ.",
+      "exampleBs": "Urednik je pregledao članak prije objavljivanja.",
+      "exampleEn": "The editor reviewed the article before publication."
+    },
+    {
+      "arabic": "الْمَقَالَةُ",
+      "root": "ق و ل",
+      "type": "noun",
+      "bs": "članak",
+      "en": "article",
+      "exampleArabic": "كَتَبَتِ الصَّحَفِيَّةُ مَقَالَةً عَنِ الاقْتِصَادِ.",
+      "exampleBs": "Novinarka je napisala članak o ekonomiji.",
+      "exampleEn": "The journalist wrote an article about the economy."
+    },
+    {
+      "arabic": "الْعُنْوَانُ",
+      "root": "ع ن و",
+      "type": "noun",
+      "bs": "naslov",
+      "en": "headline, title",
+      "exampleArabic": "كَانَ الْعُنْوَانُ كَبِيرًا عَلَى الصَّفْحَةِ الأُولَى.",
+      "exampleBs": "Naslov je bio velik na prvoj stranici.",
+      "exampleEn": "The headline was large on the front page."
+    },
+    {
+      "arabic": "الْقَنَاةُ",
+      "root": "ق ن و",
+      "type": "noun",
+      "bs": "kanal",
+      "en": "channel",
+      "exampleArabic": "هَذِهِ الْقَنَاةُ تَبُثُّ الأَخْبَارَ طَوَالَ الْيَوْمِ.",
+      "exampleBs": "Ovaj kanal emituje vijesti cijeli dan.",
+      "exampleEn": "This channel broadcasts news all day."
+    },
+    {
+      "arabic": "الْبَرْنَامَجُ",
+      "root": "ب ر م",
+      "type": "noun",
+      "bs": "program, emisija",
+      "en": "programme, show",
+      "exampleArabic": "يُشَاهِدُ الأَطْفَالُ بَرْنَامَجًا تَعْلِيمِيًّا.",
+      "exampleBs": "Djeca gledaju obrazovnu emisiju.",
+      "exampleEn": "The children are watching an educational programme."
+    },
+    {
+      "arabic": "الإِعْلَامُ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "mediji",
+      "en": "media",
+      "exampleArabic": "لِلإِعْلَامِ دَوْرٌ كَبِيرٌ فِي الْمُجْتَمَعِ.",
+      "exampleBs": "Mediji imaju veliku ulogu u društvu.",
+      "exampleEn": "The media has a great role in society."
+    },
+    {
+      "arabic": "الْمَوْقِعُ الإِلِكْتِرُونِيُّ",
+      "root": "و ق ع",
+      "type": "noun",
+      "bs": "web stranica",
+      "en": "website",
+      "exampleArabic": "قَرَأَتِ الْخَبَرَ عَلَى الْمَوْقِعِ الإِلِكْتِرُونِيِّ.",
+      "exampleBs": "Pročitala je vijest na web stranici.",
+      "exampleEn": "She read the news on the website."
+    },
+    {
+      "arabic": "أَفَادَ",
+      "root": "ف ي د",
+      "type": "verb",
+      "bs": "izvijestiti",
+      "en": "to report, to inform",
+      "exampleArabic": "أَفَادَ الصَّحَفِيُّ بِأَنَّ الاجْتِمَاعَ انْتَهَى.",
+      "exampleBs": "Novinar je izvijestio da je sastanak završio.",
+      "exampleEn": "The journalist reported that the meeting had ended."
+    },
+    {
+      "arabic": "بَثَّ",
+      "root": "ب ث ث",
+      "type": "verb",
+      "bs": "emitovati",
+      "en": "to broadcast",
+      "exampleArabic": "تَبُثُّ الْقَنَاةُ الأَخْبَارَ مُبَاشَرَةً.",
+      "exampleBs": "Kanal emituje vijesti uživo.",
+      "exampleEn": "The channel broadcasts the news live."
+    },
+    {
+      "arabic": "نَشَرَ",
+      "root": "ن ش ر",
+      "type": "verb",
+      "bs": "objaviti, publicirati",
+      "en": "to publish",
+      "exampleArabic": "نَشَرَتِ الْجَرِيدَةُ الْخَبَرَ صَبَاحًا.",
+      "exampleBs": "Novine su objavile vijest ujutro.",
+      "exampleEn": "The newspaper published the news in the morning."
+    },
+    {
+      "arabic": "قَرَأَ",
+      "root": "ق ر أ",
+      "type": "verb",
+      "bs": "čitati",
+      "en": "to read",
+      "exampleArabic": "قَرَأَ الطَّالِبُ الْمَقَالَةَ بِاهْتِمَامٍ.",
+      "exampleBs": "Student je čitao članak s pažnjom.",
+      "exampleEn": "The student read the article with interest."
+    },
+    {
+      "arabic": "شَاهَدَ",
+      "root": "ش ه د",
+      "type": "verb",
+      "bs": "gledati",
+      "en": "to watch",
+      "exampleArabic": "شَاهَدَ الْعَائِلَةُ الأَخْبَارَ مَعًا.",
+      "exampleBs": "Porodica je zajedno gledala vijesti.",
+      "exampleEn": "The family watched the news together."
+    },
+    {
+      "arabic": "اسْتَمَعَ",
+      "root": "س م ع",
+      "type": "verb",
+      "bs": "slušati",
+      "en": "to listen",
+      "exampleArabic": "اسْتَمَعَ إِلَى الأَخْبَارِ فِي السَّيَّارَةِ.",
+      "exampleBs": "Slušao je vijesti u autu.",
+      "exampleEn": "He listened to the news in the car."
+    },
+    {
+      "arabic": "أَعْلَنَ",
+      "root": "ع ل ن",
+      "type": "verb",
+      "bs": "objaviti, proglasiti",
+      "en": "to announce",
+      "exampleArabic": "أَعْلَنَتِ الْحُكُومَةُ عَنْ قَرَارٍ جَدِيدٍ.",
+      "exampleBs": "Vlada je objavila novu odluku.",
+      "exampleEn": "The government announced a new decision."
+    },
+    {
+      "arabic": "أَكَّدَ",
+      "root": "أ ك د",
+      "type": "verb",
+      "bs": "potvrditi",
+      "en": "to confirm",
+      "exampleArabic": "أَكَّدَ الْمَسْؤُولُ صِحَّةَ الْخَبَرِ.",
+      "exampleBs": "Zvaničnik je potvrdio tačnost vijesti.",
+      "exampleEn": "The official confirmed the accuracy of the news."
+    },
+    {
+      "arabic": "الرَّئِيسُ",
+      "root": "ر أ س",
+      "type": "noun",
+      "bs": "predsjednik",
+      "en": "president",
+      "exampleArabic": "أَلْقَى الرَّئِيسُ خِطَابًا أَمَامَ الشَّعْبِ.",
+      "exampleBs": "Predsjednik je održao govor pred narodom.",
+      "exampleEn": "The president delivered a speech before the people."
+    },
+    {
+      "arabic": "الْوَزِيرُ",
+      "root": "و ز ر",
+      "type": "noun",
+      "bs": "ministar",
+      "en": "minister",
+      "exampleArabic": "حَضَرَ الْوَزِيرُ الاجْتِمَاعَ الْحُكُومِيَّ.",
+      "exampleBs": "Ministar je prisustvovao vladinom sastanku.",
+      "exampleEn": "The minister attended the government meeting."
+    },
+    {
+      "arabic": "الْبَرْلَمَانُ",
+      "root": "ب ر ل",
+      "type": "noun",
+      "bs": "parlament",
+      "en": "parliament",
+      "exampleArabic": "صَوَّتَ الْبَرْلَمَانُ عَلَى الْقَانُونِ الْجَدِيدِ.",
+      "exampleBs": "Parlament je glasao o novom zakonu.",
+      "exampleEn": "The parliament voted on the new law."
+    },
+    {
+      "arabic": "الانْتِخَابُ",
+      "root": "ن خ ب",
+      "type": "noun",
+      "bs": "izbori",
+      "en": "election",
+      "exampleArabic": "جَرَتِ الانْتِخَابَاتُ بِشَكْلٍ سَلِيمٍ.",
+      "exampleBs": "Izbori su protekli uredno.",
+      "exampleEn": "The elections were held in an orderly manner."
+    },
+    {
+      "arabic": "الْحُكُومَةُ",
+      "root": "ح ك م",
+      "type": "noun",
+      "bs": "vlada",
+      "en": "government",
+      "exampleArabic": "أَصْدَرَتِ الْحُكُومَةُ بَيَانًا رَسْمِيًّا.",
+      "exampleBs": "Vlada je izdala zvanično saopštenje.",
+      "exampleEn": "The government issued an official statement."
+    },
+    {
+      "arabic": "الْقَانُونُ",
+      "root": "ق ن ن",
+      "type": "noun",
+      "bs": "zakon",
+      "en": "law",
+      "exampleArabic": "وَافَقَ الْبَرْلَمَانُ عَلَى الْقَانُونِ الْجَدِيدِ.",
+      "exampleBs": "Parlament je odobrio novi zakon.",
+      "exampleEn": "The parliament approved the new law."
+    },
+    {
+      "arabic": "الْقَرَارُ",
+      "root": "ق ر ر",
+      "type": "noun",
+      "bs": "odluka",
+      "en": "decision",
+      "exampleArabic": "اتَّخَذَتِ الْحُكُومَةُ قَرَارًا مُهِمًّا.",
+      "exampleBs": "Vlada je donijela važnu odluku.",
+      "exampleEn": "The government made an important decision."
+    },
+    {
+      "arabic": "الْحَدَثُ",
+      "root": "ح د ث",
+      "type": "noun",
+      "bs": "događaj",
+      "en": "event",
+      "exampleArabic": "غَطَّى الإِعْلَامُ الْحَدَثَ بِشَكْلٍ مُبَاشِرٍ.",
+      "exampleBs": "Mediji su događaj pokrili direktno.",
+      "exampleEn": "The media covered the event directly."
+    },
+    {
+      "arabic": "الْحَادِثَةُ",
+      "root": "ح د ث",
+      "type": "noun",
+      "bs": "nesreća, incident",
+      "en": "accident, incident",
+      "exampleArabic": "وَقَعَتْ حَادِثَةٌ عَلَى الطَّرِيقِ السَّرِيعِ.",
+      "exampleBs": "Desila se nesreća na autoputu.",
+      "exampleEn": "An accident occurred on the highway."
+    },
+    {
+      "arabic": "الأَزْمَةُ",
+      "root": "أ ز م",
+      "type": "noun",
+      "bs": "kriza",
+      "en": "crisis",
+      "exampleArabic": "تُحَاوِلُ الْحُكُومَةُ حَلَّ الأَزْمَةِ الاقْتِصَادِيَّةِ.",
+      "exampleBs": "Vlada pokušava riješiti ekonomsku krizu.",
+      "exampleEn": "The government is trying to resolve the economic crisis."
+    },
+    {
+      "arabic": "الْكَارِثَةُ",
+      "root": "ك ر ث",
+      "type": "noun",
+      "bs": "katastrofa",
+      "en": "disaster",
+      "exampleArabic": "أَرْسَلَتِ الدَّوْلَةُ مُسَاعَدَاتٍ بَعْدَ الْكَارِثَةِ.",
+      "exampleBs": "Država je poslala pomoć nakon katastrofe.",
+      "exampleEn": "The state sent aid after the disaster."
+    },
+    {
+      "arabic": "الاحْتِجَاجُ",
+      "root": "ح ج ج",
+      "type": "noun",
+      "bs": "protest",
+      "en": "protest",
+      "exampleArabic": "نَظَّمَ الْمُوَاطِنُونَ احْتِجَاجًا أَمَامَ الْبَرْلَمَانِ.",
+      "exampleBs": "Građani su organizirali protest ispred parlamenta.",
+      "exampleEn": "Citizens organized a protest in front of the parliament."
+    },
+    {
+      "arabic": "مُهِمٌّ",
+      "root": "ه م م",
+      "type": "adjective",
+      "bs": "važan",
+      "en": "important",
+      "exampleArabic": "نَشَرَتِ الْجَرِيدَةُ خَبَرًا مُهِمًّا الْيَوْمَ.",
+      "exampleBs": "Novine su danas objavile važnu vijest.",
+      "exampleEn": "The newspaper published an important news item today."
+    },
+    {
+      "arabic": "عَاجِلٌ",
+      "root": "ع ج ل",
+      "type": "adjective",
+      "bs": "hitan, u posljednji čas",
+      "en": "breaking, urgent",
+      "exampleArabic": "قَاطَعَ الْبَرْنَامَجَ خَبَرٌ عَاجِلٌ.",
+      "exampleBs": "Hitan prilog prekinuo je emisiju.",
+      "exampleEn": "A breaking news item interrupted the programme."
+    },
+    {
+      "arabic": "مَحَلِّيٌّ",
+      "root": "ح ل ل",
+      "type": "adjective",
+      "bs": "lokalan",
+      "en": "local",
+      "exampleArabic": "تَتَابَعُ الصَّحِيفَةُ الأَخْبَارَ الْمَحَلِّيَّةَ.",
+      "exampleBs": "Novine prate lokalne vijesti.",
+      "exampleEn": "The newspaper follows local news."
+    },
+    {
+      "arabic": "دَوْلِيٌّ",
+      "root": "د و ل",
+      "type": "adjective",
+      "bs": "međunarodni",
+      "en": "international",
+      "exampleArabic": "نَالَتِ الأَزْمَةُ اهْتِمَامًا دَوْلِيًّا.",
+      "exampleBs": "Kriza je privukla međunarodnu pažnju.",
+      "exampleEn": "The crisis received international attention."
+    },
+    {
+      "arabic": "رَسْمِيٌّ",
+      "root": "ر س م",
+      "type": "adjective",
+      "bs": "zvaničan, službeni",
+      "en": "official",
+      "exampleArabic": "صَدَرَ بَيَانٌ رَسْمِيٌّ مِنَ الْحُكُومَةِ.",
+      "exampleBs": "Iz vlade je izašlo zvanično saopštenje.",
+      "exampleEn": "An official statement was issued from the government."
+    },
+    {
+      "arabic": "الصَّحِيفَةُ",
+      "root": "ص ح ف",
+      "type": "noun",
+      "bs": "dnevni list, novine",
+      "en": "newspaper, daily",
+      "exampleArabic": "تَصْدُرُ هَذِهِ الصَّحِيفَةُ كُلَّ يَوْمٍ.",
+      "exampleBs": "Ovaj dnevni list izlazi svaki dan.",
+      "exampleEn": "This newspaper is published every day."
+    },
+    {
+      "arabic": "الْمُذِيعُ",
+      "root": "ذ ي ع",
+      "type": "noun",
+      "bs": "voditelj, spiker",
+      "en": "news anchor, presenter",
+      "exampleArabic": "قَرَأَ الْمُذِيعُ نَشْرَةَ الأَخْبَارِ بِوُضُوحٍ.",
+      "exampleBs": "Voditelj je jasno pročitao vijesti.",
+      "exampleEn": "The anchor read the news bulletin clearly."
+    },
+    {
+      "arabic": "نَشْرَةُ الأَخْبَارِ",
+      "root": "ن ش ر",
+      "type": "noun",
+      "bs": "informativna emisija",
+      "en": "news bulletin",
+      "exampleArabic": "تُبَثُّ نَشْرَةُ الأَخْبَارِ ثَلَاثَ مَرَّاتٍ يَوْمِيًّا.",
+      "exampleBs": "Informativna emisija emituje se tri puta dnevno.",
+      "exampleEn": "The news bulletin is broadcast three times daily."
+    },
+    {
+      "arabic": "الصُّورَةُ",
+      "root": "ص و ر",
+      "type": "noun",
+      "bs": "slika, fotografija",
+      "en": "picture, image",
+      "exampleArabic": "نَشَرَتِ الصَّحِيفَةُ صُورَةً مِنَ الْحَدَثِ.",
+      "exampleBs": "Novine su objavile fotografiju s događaja.",
+      "exampleEn": "The newspaper published a picture from the event."
+    },
+    {
+      "arabic": "الْمُقَابَلَةُ",
+      "root": "ق ب ل",
+      "type": "noun",
+      "bs": "intervju",
+      "en": "interview",
+      "exampleArabic": "أَجْرَى الصَّحَفِيُّ مُقَابَلَةً مَعَ الْوَزِيرِ.",
+      "exampleBs": "Novinar je obavio intervju s ministrom.",
+      "exampleEn": "The journalist conducted an interview with the minister."
+    },
+    {
+      "arabic": "الْمُرَاسِلُ",
+      "root": "ر س ل",
+      "type": "noun",
+      "bs": "dopisnik",
+      "en": "correspondent",
+      "exampleArabic": "أَرْسَلَ الْمُرَاسِلُ تَقْرِيرًا مِنَ الْمَيْدَانِ.",
+      "exampleBs": "Dopisnik je poslao izvještaj s terena.",
+      "exampleEn": "The correspondent sent a report from the field."
+    }
+  ]
+}

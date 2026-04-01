@@ -1,0 +1,469 @@
+{
+  "id": "b1-family",
+  "title": "Family & Home",
+  "titleAr": "الأُسْرَةُ وَالْبَيْتُ",
+  "level": "B1",
+  "topic": "general",
+  "words": [
+    {
+      "arabic": "الأَبُ",
+      "root": "أ ب و",
+      "type": "noun",
+      "bs": "otac",
+      "en": "father",
+      "exampleArabic": "يَعْمَلُ أَبِي مُهَنْدِسًا فِي شَرِكَةٍ كَبِيرَةٍ.",
+      "exampleBs": "Moj otac radi kao inženjer u velikoj kompaniji.",
+      "exampleEn": "My father works as an engineer in a large company."
+    },
+    {
+      "arabic": "الأُمُّ",
+      "root": "أ م م",
+      "type": "noun",
+      "bs": "majka",
+      "en": "mother",
+      "exampleArabic": "تُحِبُّ أُمِّي الطَّبْخَ كَثِيرًا.",
+      "exampleBs": "Moja majka jako voli kuhati.",
+      "exampleEn": "My mother loves cooking a lot."
+    },
+    {
+      "arabic": "الابْنُ",
+      "root": "ب ن و",
+      "type": "noun",
+      "bs": "sin",
+      "en": "son",
+      "exampleArabic": "يَدْرُسُ ابْنُهُ فِي الْجَامِعَةِ.",
+      "exampleBs": "Njegov sin studira na univerzitetu.",
+      "exampleEn": "His son is studying at the university."
+    },
+    {
+      "arabic": "الابْنَةُ",
+      "root": "ب ن و",
+      "type": "noun",
+      "bs": "kći",
+      "en": "daughter",
+      "exampleArabic": "ابْنَتُهَا تُحِبُّ الرَّسْمَ وَالْمُوسِيقَى.",
+      "exampleBs": "Njena kći voli crtanje i muziku.",
+      "exampleEn": "Her daughter loves drawing and music."
+    },
+    {
+      "arabic": "الأَخُ",
+      "root": "أ خ و",
+      "type": "noun",
+      "bs": "brat",
+      "en": "brother",
+      "exampleArabic": "يَلْعَبُ أَخِي كُرَةَ الْقَدَمِ كُلَّ يَوْمِ جُمْعَةٍ.",
+      "exampleBs": "Moj brat igra fudbal svaki petak.",
+      "exampleEn": "My brother plays football every Friday."
+    },
+    {
+      "arabic": "الأُخْتُ",
+      "root": "أ خ و",
+      "type": "noun",
+      "bs": "sestra",
+      "en": "sister",
+      "exampleArabic": "أُخْتِي تَعِيشُ فِي مَدِينَةٍ أُخْرَى.",
+      "exampleBs": "Moja sestra živi u drugom gradu.",
+      "exampleEn": "My sister lives in another city."
+    },
+    {
+      "arabic": "الْجَدُّ",
+      "root": "ج د د",
+      "type": "noun",
+      "bs": "dedo",
+      "en": "grandfather",
+      "exampleArabic": "يَحْكِي الْجَدُّ قِصَصًا مِنَ الْمَاضِي.",
+      "exampleBs": "Dedo priča priče iz prošlosti.",
+      "exampleEn": "The grandfather tells stories from the past."
+    },
+    {
+      "arabic": "الْجَدَّةُ",
+      "root": "ج د د",
+      "type": "noun",
+      "bs": "nena",
+      "en": "grandmother",
+      "exampleArabic": "تُحْضِرُ الْجَدَّةُ الْحَلْوَى لِلأَطْفَالِ دَائِمًا.",
+      "exampleBs": "Nena uvijek donosi slatkiše djeci.",
+      "exampleEn": "The grandmother always brings sweets for the children."
+    },
+    {
+      "arabic": "الْعَمُّ",
+      "root": "ع م م",
+      "type": "noun",
+      "bs": "amidža",
+      "en": "paternal uncle",
+      "exampleArabic": "زَارَنَا عَمِّي وَعَائِلَتُهُ فِي الْعِيدِ.",
+      "exampleBs": "Amidža i njegova porodica su nas posjetili za Bajram.",
+      "exampleEn": "My uncle and his family visited us during Eid."
+    },
+    {
+      "arabic": "الْعَمَّةُ",
+      "root": "ع م م",
+      "type": "noun",
+      "bs": "strina",
+      "en": "paternal aunt",
+      "exampleArabic": "تَسْكُنُ عَمَّتِي قَرِيبًا مِنْ بَيْتِنَا.",
+      "exampleBs": "Moja strina stanuje blizu naše kuće.",
+      "exampleEn": "My aunt lives close to our house."
+    },
+    {
+      "arabic": "ابْنُ الْعَمِّ",
+      "root": "ب ن و",
+      "type": "noun",
+      "bs": "amidžić",
+      "en": "male cousin",
+      "exampleArabic": "ابْنُ عَمِّي صَدِيقِي الْمُقَرَّبُ.",
+      "exampleBs": "Moj amidžić je moj blizak prijatelj.",
+      "exampleEn": "My cousin is my close friend."
+    },
+    {
+      "arabic": "الزَّوْجُ",
+      "root": "ز و ج",
+      "type": "noun",
+      "bs": "suprug, muž",
+      "en": "husband",
+      "exampleArabic": "يُسَاعِدُ الزَّوْجُ زَوْجَتَهُ فِي تَرْبِيَةِ الأَوْلَادِ.",
+      "exampleBs": "Suprug pomaže suprugi u odgajanju djece.",
+      "exampleEn": "The husband helps his wife in raising the children."
+    },
+    {
+      "arabic": "الزَّوْجَةُ",
+      "root": "ز و ج",
+      "type": "noun",
+      "bs": "supruga, žena",
+      "en": "wife",
+      "exampleArabic": "تَعْمَلُ زَوْجَتُهُ طَبِيبَةً فِي الْمُسْتَشْفَى.",
+      "exampleBs": "Njegova supruga radi kao ljekarica u bolnici.",
+      "exampleEn": "His wife works as a doctor at the hospital."
+    },
+    {
+      "arabic": "الرَّضِيعُ",
+      "root": "ر ض ع",
+      "type": "noun",
+      "bs": "beba, dojenče",
+      "en": "baby, infant",
+      "exampleArabic": "يَنَامُ الرَّضِيعُ سَاعَاتٍ طَوِيلَةً.",
+      "exampleBs": "Beba spava dugo vremena.",
+      "exampleEn": "The baby sleeps for long hours."
+    },
+    {
+      "arabic": "غُرْفَةُ النَّوْمِ",
+      "root": "غ ر ف",
+      "type": "noun",
+      "bs": "spavaća soba",
+      "en": "bedroom",
+      "exampleArabic": "غُرْفَةُ نَوْمِي وَاسِعَةٌ وَمُشْرِقَةٌ.",
+      "exampleBs": "Moja spavaća soba je prostrana i svjetla.",
+      "exampleEn": "My bedroom is spacious and bright."
+    },
+    {
+      "arabic": "الْمَطْبَخُ",
+      "root": "ط ب خ",
+      "type": "noun",
+      "bs": "kuhinja",
+      "en": "kitchen",
+      "exampleArabic": "تُحِبُّ أُمِّي قَضَاءَ الْوَقْتِ فِي الْمَطْبَخِ.",
+      "exampleBs": "Moja majka voli provoditi vrijeme u kuhinji.",
+      "exampleEn": "My mother loves spending time in the kitchen."
+    },
+    {
+      "arabic": "الْحَمَّامُ",
+      "root": "ح م م",
+      "type": "noun",
+      "bs": "kupatilo",
+      "en": "bathroom",
+      "exampleArabic": "الْحَمَّامُ فِي نِهَايَةِ الْمَمَرِّ.",
+      "exampleBs": "Kupatilo je na kraju hodnika.",
+      "exampleEn": "The bathroom is at the end of the hallway."
+    },
+    {
+      "arabic": "غُرْفَةُ الْجُلُوسِ",
+      "root": "غ ر ف",
+      "type": "noun",
+      "bs": "dnevna soba",
+      "en": "living room",
+      "exampleArabic": "تَجْتَمِعُ الْعَائِلَةُ فِي غُرْفَةِ الْجُلُوسِ مَسَاءً.",
+      "exampleBs": "Porodica se okuplja u dnevnoj sobi navečer.",
+      "exampleEn": "The family gathers in the living room in the evening."
+    },
+    {
+      "arabic": "الْحَدِيقَةُ",
+      "root": "ح د ق",
+      "type": "noun",
+      "bs": "bašta, vrt",
+      "en": "garden",
+      "exampleArabic": "يَزْرَعُ أَبِي الْوُرُودَ فِي الْحَدِيقَةِ.",
+      "exampleBs": "Moj otac uzgaja ruže u bašti.",
+      "exampleEn": "My father grows roses in the garden."
+    },
+    {
+      "arabic": "الشُّرْفَةُ",
+      "root": "ش ر ف",
+      "type": "noun",
+      "bs": "balkon",
+      "en": "balcony",
+      "exampleArabic": "نَجْلِسُ عَلَى الشُّرْفَةِ وَنَشْرَبُ الشَّايَ.",
+      "exampleBs": "Sjedimo na balkonu i pijemo čaj.",
+      "exampleEn": "We sit on the balcony and drink tea."
+    },
+    {
+      "arabic": "الأَثَاثُ",
+      "root": "أ ث ث",
+      "type": "noun",
+      "bs": "namještaj",
+      "en": "furniture",
+      "exampleArabic": "اشْتَرَيْنَا أَثَاثًا جَدِيدًا لِغُرْفَةِ الْجُلُوسِ.",
+      "exampleBs": "Kupili smo novi namještaj za dnevnu sobu.",
+      "exampleEn": "We bought new furniture for the living room."
+    },
+    {
+      "arabic": "السَّرِيرُ",
+      "root": "س ر ر",
+      "type": "noun",
+      "bs": "krevet",
+      "en": "bed",
+      "exampleArabic": "يَنَامُ الطِّفْلُ مُبَكِّرًا فِي سَرِيرِهِ.",
+      "exampleBs": "Dijete rano spava u svom krevetu.",
+      "exampleEn": "The child goes to sleep early in his bed."
+    },
+    {
+      "arabic": "الطَّاوِلَةُ",
+      "root": "ط و ل",
+      "type": "noun",
+      "bs": "sto",
+      "en": "table",
+      "exampleArabic": "تَجْتَمِعُ الْعَائِلَةُ حَوْلَ الطَّاوِلَةِ لِتَنَاوُلِ الطَّعَامِ.",
+      "exampleBs": "Porodica se okuplja oko stola za jelo.",
+      "exampleEn": "The family gathers around the table to eat."
+    },
+    {
+      "arabic": "الْكُرْسِيُّ",
+      "root": "ك ر س",
+      "type": "noun",
+      "bs": "stolica",
+      "en": "chair",
+      "exampleArabic": "اجْلِسْ عَلَى الْكُرْسِيِّ مِنْ فَضْلِكَ.",
+      "exampleBs": "Sjedni na stolicu, molim te.",
+      "exampleEn": "Please sit on the chair."
+    },
+    {
+      "arabic": "النَّافِذَةُ",
+      "root": "ن ف ذ",
+      "type": "noun",
+      "bs": "prozor",
+      "en": "window",
+      "exampleArabic": "افْتَحِ النَّافِذَةَ لِيَدْخُلَ الْهَوَاءُ النَّقِيُّ.",
+      "exampleBs": "Otvori prozor da uđe svjež zrak.",
+      "exampleEn": "Open the window to let in fresh air."
+    },
+    {
+      "arabic": "الْبَابُ",
+      "root": "ب و ب",
+      "type": "noun",
+      "bs": "vrata",
+      "en": "door",
+      "exampleArabic": "أَغْلِقِ الْبَابَ مِنْ فَضْلِكَ عِنْدَ الْخُرُوجِ.",
+      "exampleBs": "Molim te zatvori vrata pri izlasku.",
+      "exampleEn": "Please close the door when leaving."
+    },
+    {
+      "arabic": "الْمِصْبَاحُ",
+      "root": "ص ب ح",
+      "type": "noun",
+      "bs": "lampa",
+      "en": "lamp",
+      "exampleArabic": "أَضَاءَتِ الأُمُّ الْمِصْبَاحَ عِنْدَ الْغُرُوبِ.",
+      "exampleBs": "Majka je upalila lampu u sumrak.",
+      "exampleEn": "The mother lit the lamp at dusk."
+    },
+    {
+      "arabic": "السَّجَّادَةُ",
+      "root": "س ج د",
+      "type": "noun",
+      "bs": "tepih",
+      "en": "carpet, rug",
+      "exampleArabic": "السَّجَّادَةُ فِي غُرْفَةِ الْجُلُوسِ جَمِيلَةٌ جِدًّا.",
+      "exampleBs": "Tepih u dnevnoj sobi je veoma lijep.",
+      "exampleEn": "The carpet in the living room is very beautiful."
+    },
+    {
+      "arabic": "تَزَوَّجَ",
+      "root": "ز و ج",
+      "type": "verb",
+      "bs": "oženiti se, udati se",
+      "en": "to marry, to get married",
+      "exampleArabic": "تَزَوَّجَ أَخِي الْعَامَ الْمَاضِيَ.",
+      "exampleBs": "Moj brat se oženio prošle godine.",
+      "exampleEn": "My brother got married last year."
+    },
+    {
+      "arabic": "طَلَّقَ",
+      "root": "ط ل ق",
+      "type": "verb",
+      "bs": "razvesti se",
+      "en": "to divorce",
+      "exampleArabic": "يَتَكَلَّمُونَ أَحْيَانًا عَنِ الزَّوْجَيْنِ اللَّذَيْنِ طَلَّقَا.",
+      "exampleBs": "Ponekad govore o bračnom paru koji se razveo.",
+      "exampleEn": "They sometimes speak of the couple who divorced."
+    },
+    {
+      "arabic": "رَبَّى",
+      "root": "ر ب و",
+      "type": "verb",
+      "bs": "odgajati",
+      "en": "to raise, to bring up",
+      "exampleArabic": "رَبَّتِ الأُمُّ أَوْلَادَهَا عَلَى الْقِيَمِ الْحَسَنَةِ.",
+      "exampleBs": "Majka je odgajala svoju djecu u dobrim vrijednostima.",
+      "exampleEn": "The mother raised her children with good values."
+    },
+    {
+      "arabic": "اعْتَنَى",
+      "root": "ع ن ي",
+      "type": "verb",
+      "bs": "brinuti se",
+      "en": "to care for, to look after",
+      "exampleArabic": "تَعْتَنِي الابْنَةُ بِجَدَّتِهَا الْمَرِيضَةِ.",
+      "exampleBs": "Kći se brine o svojoj bolesnoj neni.",
+      "exampleEn": "The daughter cares for her sick grandmother."
+    },
+    {
+      "arabic": "زَارَ",
+      "root": "ز و ر",
+      "type": "verb",
+      "bs": "posjetiti",
+      "en": "to visit",
+      "exampleArabic": "نَزُورُ الأَجْدَادَ كُلَّ أُسْبُوعٍ.",
+      "exampleBs": "Posjećujemo djedove svake sedmice.",
+      "exampleEn": "We visit our grandparents every week."
+    },
+    {
+      "arabic": "سَكَنَ مَعًا",
+      "root": "س ك ن",
+      "type": "verb",
+      "bs": "živjeti zajedno",
+      "en": "to live together",
+      "exampleArabic": "يَسْكُنُ الأَبُ وَالأُمُّ مَعَ أَبْنَائِهِمَا.",
+      "exampleBs": "Otac i majka žive zajedno sa svojom djecom.",
+      "exampleEn": "The father and mother live together with their children."
+    },
+    {
+      "arabic": "طَبَخَ",
+      "root": "ط ب خ",
+      "type": "verb",
+      "bs": "kuhati",
+      "en": "to cook",
+      "exampleArabic": "طَبَخَتِ الأُمُّ طَعَامًا لَذِيذًا لِلْغَدَاءِ.",
+      "exampleBs": "Majka je skuhala ukusan ručak.",
+      "exampleEn": "The mother cooked a delicious meal for lunch."
+    },
+    {
+      "arabic": "نَظَّفَ",
+      "root": "ن ظ ف",
+      "type": "verb",
+      "bs": "čistiti",
+      "en": "to clean",
+      "exampleArabic": "يُنَظِّفُ الأَطْفَالُ غُرَفَهُمْ يَوْمَ الْجُمْعَةِ.",
+      "exampleBs": "Djeca čiste svoje sobe petkom.",
+      "exampleEn": "The children clean their rooms on Fridays."
+    },
+    {
+      "arabic": "مُتَزَوِّجٌ",
+      "root": "ز و ج",
+      "type": "adjective",
+      "bs": "oženjen, udata",
+      "en": "married",
+      "exampleArabic": "أَخِي مُتَزَوِّجٌ وَلَدَيْهِ طِفْلَانِ.",
+      "exampleBs": "Moj brat je oženjen i ima dvoje djece.",
+      "exampleEn": "My brother is married and has two children."
+    },
+    {
+      "arabic": "أَعْزَبُ",
+      "root": "ع ز ب",
+      "type": "adjective",
+      "bs": "neoženjen, neudana",
+      "en": "single, unmarried",
+      "exampleArabic": "لَا يَزَالُ صَدِيقِي أَعْزَبَ.",
+      "exampleBs": "Moj prijatelj je još uvijek neoženjen.",
+      "exampleEn": "My friend is still single."
+    },
+    {
+      "arabic": "حَامِلٌ",
+      "root": "ح م ل",
+      "type": "adjective",
+      "bs": "trudna",
+      "en": "pregnant",
+      "exampleArabic": "أُخْتِي حَامِلٌ وَتَتَوَقَّعُ مَوْلُودَهَا الأَوَّلَ.",
+      "exampleBs": "Moja sestra je trudna i čeka svoje prvo dijete.",
+      "exampleEn": "My sister is pregnant and expecting her first child."
+    },
+    {
+      "arabic": "مُسِنٌّ",
+      "root": "س ن ن",
+      "type": "adjective",
+      "bs": "stariji, ostario",
+      "en": "elderly",
+      "exampleArabic": "يَحْتَاجُ الأَشْخَاصُ الْمُسِنُّونَ إِلَى رِعَايَةٍ خَاصَّةٍ.",
+      "exampleBs": "Stariji ljudi trebaju posebnu brigu.",
+      "exampleEn": "Elderly people need special care."
+    },
+    {
+      "arabic": "صَغِيرٌ",
+      "root": "ص غ ر",
+      "type": "adjective",
+      "bs": "mlad, mali",
+      "en": "young, small",
+      "exampleArabic": "لَا يَزَالُ صَغِيرًا وَيَحْتَاجُ إِلَى رِعَايَةِ وَالِدَيْهِ.",
+      "exampleBs": "On je još uvijek mlad i treba roditeljsku brigu.",
+      "exampleEn": "He is still young and needs his parents' care."
+    },
+    {
+      "arabic": "طَيِّبٌ",
+      "root": "ط ي ب",
+      "type": "adjective",
+      "bs": "ljubazan, dobar",
+      "en": "kind, good",
+      "exampleArabic": "أُمِّي امْرَأَةٌ طَيِّبَةُ الْقَلْبِ.",
+      "exampleBs": "Moja majka je žena dobrog srca.",
+      "exampleEn": "My mother is a kind-hearted woman."
+    },
+    {
+      "arabic": "صَارِمٌ",
+      "root": "ص ر م",
+      "type": "adjective",
+      "bs": "strog",
+      "en": "strict",
+      "exampleArabic": "كَانَ أَبُونَا صَارِمًا لَكِنَّهُ عَادِلٌ.",
+      "exampleBs": "Naš otac je bio strog, ali pravedan.",
+      "exampleEn": "Our father was strict but fair."
+    },
+    {
+      "arabic": "الأُسْرَةُ",
+      "root": "أ س ر",
+      "type": "noun",
+      "bs": "porodica",
+      "en": "family",
+      "exampleArabic": "تَجْتَمِعُ أُسْرَتُنَا فِي الأَعْيَادِ.",
+      "exampleBs": "Naša porodica se okuplja za praznike.",
+      "exampleEn": "Our family gathers for holidays."
+    },
+    {
+      "arabic": "الْمَنْزِلُ",
+      "root": "ن ز ل",
+      "type": "noun",
+      "bs": "dom, kuća",
+      "en": "home, house",
+      "exampleArabic": "عَدْنَا إِلَى الْمَنْزِلِ بَعْدَ رِحْلَةٍ طَوِيلَةٍ.",
+      "exampleBs": "Vratili smo se kući nakon dugog putovanja.",
+      "exampleEn": "We returned home after a long journey."
+    },
+    {
+      "arabic": "الشَّقَّةُ",
+      "root": "ش ق ق",
+      "type": "noun",
+      "bs": "stan",
+      "en": "apartment, flat",
+      "exampleArabic": "تَسْكُنُ عَائِلَتُنَا فِي شَقَّةٍ فِي وَسَطِ الْمَدِينَةِ.",
+      "exampleBs": "Naša porodica stanuje u stanu u centru grada.",
+      "exampleEn": "Our family lives in an apartment in the city centre."
+    }
+  ]
+}

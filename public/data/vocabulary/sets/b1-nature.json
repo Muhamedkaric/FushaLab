@@ -1,0 +1,539 @@
+{
+  "id": "b1-nature",
+  "title": "Nature & Environment",
+  "titleAr": "الطَّبِيعَةُ وَالْبِيئَةُ",
+  "level": "B1",
+  "topic": "general",
+  "words": [
+    {
+      "arabic": "الْجَبَلُ",
+      "root": "ج ب ل",
+      "type": "noun",
+      "bs": "planina",
+      "en": "mountain",
+      "exampleArabic": "تَسَلَّقَ الْمُغَامِرُ الْجَبَلَ الشَّاهِقَ.",
+      "exampleBs": "Avanturista je popeo visoku planinu.",
+      "exampleEn": "The adventurer climbed the towering mountain."
+    },
+    {
+      "arabic": "الْبَحْرُ",
+      "root": "ب ح ر",
+      "type": "noun",
+      "bs": "more",
+      "en": "sea",
+      "exampleArabic": "أَمْضَيْنَا يَوْمًا جَمِيلًا عَلَى شَاطِئِ الْبَحْرِ.",
+      "exampleBs": "Proveli smo lijep dan na obali mora.",
+      "exampleEn": "We spent a beautiful day on the seashore."
+    },
+    {
+      "arabic": "النَّهْرُ",
+      "root": "ن ه ر",
+      "type": "noun",
+      "bs": "rijeka",
+      "en": "river",
+      "exampleArabic": "يَجْرِي النَّهْرُ بِهُدُوءٍ بَيْنَ التِّلَالِ.",
+      "exampleBs": "Rijeka teče mirno između brežuljaka.",
+      "exampleEn": "The river flows quietly between the hills."
+    },
+    {
+      "arabic": "الْغَابَةُ",
+      "root": "غ ي ب",
+      "type": "noun",
+      "bs": "šuma",
+      "en": "forest",
+      "exampleArabic": "تَسْكُنُ حَيَوَانَاتٌ كَثِيرَةٌ فِي الْغَابَةِ.",
+      "exampleBs": "Mnoge životinje žive u šumi.",
+      "exampleEn": "Many animals live in the forest."
+    },
+    {
+      "arabic": "الصَّحْرَاءُ",
+      "root": "ص ح ر",
+      "type": "noun",
+      "bs": "pustinja",
+      "en": "desert",
+      "exampleArabic": "تَمْتَدُّ الصَّحْرَاءُ عَلَى مَسَافَاتٍ شَاسِعَةٍ.",
+      "exampleBs": "Pustinja se proteže na ogromnim prostranstvima.",
+      "exampleEn": "The desert stretches over vast distances."
+    },
+    {
+      "arabic": "الْوَادِي",
+      "root": "و د ي",
+      "type": "noun",
+      "bs": "dolina",
+      "en": "valley",
+      "exampleArabic": "يَقَعُ الْوَادِي بَيْنَ جَبَلَيْنِ شَامِخَيْنِ.",
+      "exampleBs": "Dolina leži između dvije visoke planine.",
+      "exampleEn": "The valley lies between two towering mountains."
+    },
+    {
+      "arabic": "الْجَزِيرَةُ",
+      "root": "ج ز ر",
+      "type": "noun",
+      "bs": "otok, ostrvo",
+      "en": "island",
+      "exampleArabic": "تُحِيطُ الْمِيَاهُ بِالْجَزِيرَةِ مِنْ كُلِّ جَانِبٍ.",
+      "exampleBs": "Vode okružuju otok sa svih strana.",
+      "exampleEn": "Waters surround the island on every side."
+    },
+    {
+      "arabic": "الشَّاطِئُ",
+      "root": "ش ط أ",
+      "type": "noun",
+      "bs": "plaža, obala",
+      "en": "beach",
+      "exampleArabic": "جَلَسَتِ الْأُسْرَةُ عَلَى الشَّاطِئِ تَسْتَمْتِعُ بِالشَّمْسِ.",
+      "exampleBs": "Porodica je sjedila na plaži i uživala u suncu.",
+      "exampleEn": "The family sat on the beach enjoying the sun."
+    },
+    {
+      "arabic": "السَّمَاءُ",
+      "root": "س م و",
+      "type": "noun",
+      "bs": "nebo",
+      "en": "sky",
+      "exampleArabic": "كَانَتِ السَّمَاءُ صَافِيَةً وَزَرْقَاءَ.",
+      "exampleBs": "Nebo je bilo vedro i plavo.",
+      "exampleEn": "The sky was clear and blue."
+    },
+    {
+      "arabic": "السَّحَابَةُ",
+      "root": "س ح ب",
+      "type": "noun",
+      "bs": "oblak",
+      "en": "cloud",
+      "exampleArabic": "غَطَّتِ السَّحَابَةُ الشَّمْسَ فَجْأَةً.",
+      "exampleBs": "Oblak je iznenada prekrio sunce.",
+      "exampleEn": "The cloud suddenly covered the sun."
+    },
+    {
+      "arabic": "الشَّمْسُ",
+      "root": "ش م س",
+      "type": "noun",
+      "bs": "sunce",
+      "en": "sun",
+      "exampleArabic": "تُشْرِقُ الشَّمْسُ كُلَّ صَبَاحٍ مِنَ الشَّرْقِ.",
+      "exampleBs": "Sunce izlazi svako jutro na istoku.",
+      "exampleEn": "The sun rises every morning in the east."
+    },
+    {
+      "arabic": "الْقَمَرُ",
+      "root": "ق م ر",
+      "type": "noun",
+      "bs": "mjesec",
+      "en": "moon",
+      "exampleArabic": "أَضَاءَ الْقَمَرُ الْبَدْرُ اللَّيْلَ بِأَكْمَلِهِ.",
+      "exampleBs": "Puni mjesec je osvijetlio cijelu noć.",
+      "exampleEn": "The full moon lit up the entire night."
+    },
+    {
+      "arabic": "النَّجْمُ",
+      "root": "ن ج م",
+      "type": "noun",
+      "bs": "zvijezda",
+      "en": "star",
+      "exampleArabic": "لَمَعَ النَّجْمُ بِشِدَّةٍ فِي سَمَاءٍ صَافِيَةٍ.",
+      "exampleBs": "Zvijezda je jarko sjala na vedrom nebu.",
+      "exampleEn": "The star shone brightly in a clear sky."
+    },
+    {
+      "arabic": "الْمَطَرُ",
+      "root": "م ط ر",
+      "type": "noun",
+      "bs": "kiša",
+      "en": "rain",
+      "exampleArabic": "هَطَلَ الْمَطَرُ طَوَالَ اللَّيْلِ.",
+      "exampleBs": "Kiša je padala cijelu noć.",
+      "exampleEn": "The rain fell throughout the night."
+    },
+    {
+      "arabic": "الرِّيحُ",
+      "root": "ر و ح",
+      "type": "noun",
+      "bs": "vjetar",
+      "en": "wind",
+      "exampleArabic": "هَبَّتِ الرِّيحُ بِقُوَّةٍ وَأَسْقَطَتِ الْأَوْرَاقَ.",
+      "exampleBs": "Vjetar je snažno zapuhao i oborio lišće.",
+      "exampleEn": "The wind blew strongly and knocked down the leaves."
+    },
+    {
+      "arabic": "الثَّلْجُ",
+      "root": "ث ل ج",
+      "type": "noun",
+      "bs": "snijeg",
+      "en": "snow",
+      "exampleArabic": "غَطَّى الثَّلْجُ الْأَبْيَضُ قِمَمَ الْجِبَالِ.",
+      "exampleBs": "Bijeli snijeg prekrio je vrhove planina.",
+      "exampleEn": "White snow covered the mountain peaks."
+    },
+    {
+      "arabic": "الْأَسَدُ",
+      "root": "أ س د",
+      "type": "noun",
+      "bs": "lav",
+      "en": "lion",
+      "exampleArabic": "يَعِيشُ الْأَسَدُ فِي السَّهْلِ الْأَفْرِيقِيِّ.",
+      "exampleBs": "Lav živi na afričkoj savani.",
+      "exampleEn": "The lion lives on the African plain."
+    },
+    {
+      "arabic": "الْحِصَانُ",
+      "root": "ح ص ن",
+      "type": "noun",
+      "bs": "konj",
+      "en": "horse",
+      "exampleArabic": "رَكِبَ الْفَارِسُ الْحِصَانَ بِمَهَارَةٍ.",
+      "exampleBs": "Jahač je vješto jahao konja.",
+      "exampleEn": "The rider rode the horse skillfully."
+    },
+    {
+      "arabic": "الطَّائِرُ",
+      "root": "ط ي ر",
+      "type": "noun",
+      "bs": "ptica",
+      "en": "bird",
+      "exampleArabic": "غَرَّدَ الطَّائِرُ عَلَى غُصْنِ الشَّجَرَةِ.",
+      "exampleBs": "Ptica je pjevala na grani drveta.",
+      "exampleEn": "The bird sang on the branch of the tree."
+    },
+    {
+      "arabic": "السَّمَكَةُ",
+      "root": "س م ك",
+      "type": "noun",
+      "bs": "riba",
+      "en": "fish",
+      "exampleArabic": "سَبَحَتِ السَّمَكَةُ بِسُرْعَةٍ فِي الْبَحْرِ.",
+      "exampleBs": "Riba je brzo plivala u moru.",
+      "exampleEn": "The fish swam quickly in the sea."
+    },
+    {
+      "arabic": "الْقِطَّةُ",
+      "root": "ق ط ط",
+      "type": "noun",
+      "bs": "mačka",
+      "en": "cat",
+      "exampleArabic": "نَامَتِ الْقِطَّةُ بِهُدُوءٍ أَمَامَ الْبَيْتِ.",
+      "exampleBs": "Mačka je mirno spavala ispred kuće.",
+      "exampleEn": "The cat slept quietly in front of the house."
+    },
+    {
+      "arabic": "الْكَلْبُ",
+      "root": "ك ل ب",
+      "type": "noun",
+      "bs": "pas",
+      "en": "dog",
+      "exampleArabic": "لَعِبَ الْكَلْبُ مَعَ الْأَطْفَالِ فِي الْحَدِيقَةِ.",
+      "exampleBs": "Pas se igrao s djecom u vrtu.",
+      "exampleEn": "The dog played with the children in the garden."
+    },
+    {
+      "arabic": "الْجَمَلُ",
+      "root": "ج م ل",
+      "type": "noun",
+      "bs": "deva",
+      "en": "camel",
+      "exampleArabic": "يَتَحَمَّلُ الْجَمَلُ الْعَطَشَ لِأَيَّامٍ طَوِيلَةٍ.",
+      "exampleBs": "Deva podnosi žeđ dugi niz dana.",
+      "exampleEn": "The camel endures thirst for many days."
+    },
+    {
+      "arabic": "النَّسْرُ",
+      "root": "ن س ر",
+      "type": "noun",
+      "bs": "orao",
+      "en": "eagle",
+      "exampleArabic": "حَلَّقَ النَّسْرُ عَالِيًا فَوْقَ الْجِبَالِ.",
+      "exampleBs": "Orao je visoko kružio iznad planina.",
+      "exampleEn": "The eagle soared high above the mountains."
+    },
+    {
+      "arabic": "الْخَرُوفُ",
+      "root": "خ ر ف",
+      "type": "noun",
+      "bs": "ovca, jagnje",
+      "en": "sheep",
+      "exampleArabic": "رَعَى الرَّاعِي الْخَرُوفَ فِي الْمَرْجِ.",
+      "exampleBs": "Pastir je pazio ovcu na livadi.",
+      "exampleEn": "The shepherd tended the sheep in the meadow."
+    },
+    {
+      "arabic": "الْبَقَرَةُ",
+      "root": "ب ق ر",
+      "type": "noun",
+      "bs": "krava",
+      "en": "cow",
+      "exampleArabic": "تَرْعَى الْبَقَرَةُ الْعُشْبَ فِي الْحَقْلِ.",
+      "exampleBs": "Krava pase travu u polju.",
+      "exampleEn": "The cow grazes on grass in the field."
+    },
+    {
+      "arabic": "الشَّجَرَةُ",
+      "root": "ش ج ر",
+      "type": "noun",
+      "bs": "drvo, stablo",
+      "en": "tree",
+      "exampleArabic": "نَمَتِ الشَّجَرَةُ بِسُرْعَةٍ فِي الرَّبِيعِ.",
+      "exampleBs": "Drvo je brzo raslo u proljeće.",
+      "exampleEn": "The tree grew quickly in spring."
+    },
+    {
+      "arabic": "الزَّهْرَةُ",
+      "root": "ز ه ر",
+      "type": "noun",
+      "bs": "cvijet",
+      "en": "flower",
+      "exampleArabic": "تَفَتَّحَتِ الزَّهْرَةُ الْجَمِيلَةُ مَعَ بُزُوغِ الْفَجْرِ.",
+      "exampleBs": "Lijepi cvijet se otvorio u svitanje.",
+      "exampleEn": "The beautiful flower opened at dawn."
+    },
+    {
+      "arabic": "الْعُشْبُ",
+      "root": "ع ش ب",
+      "type": "noun",
+      "bs": "trava",
+      "en": "grass",
+      "exampleArabic": "اِخْضَرَّ الْعُشْبُ بَعْدَ هُطُولِ الْمَطَرِ.",
+      "exampleBs": "Trava je postala zelena nakon kiše.",
+      "exampleEn": "The grass turned green after the rainfall."
+    },
+    {
+      "arabic": "الْوَرَقَةُ",
+      "root": "و ر ق",
+      "type": "noun",
+      "bs": "list (biljke)",
+      "en": "leaf",
+      "exampleArabic": "سَقَطَتِ الْوَرَقَةُ الصَّفْرَاءُ مِنَ الشَّجَرَةِ.",
+      "exampleBs": "Žuti list je pao s drveta.",
+      "exampleEn": "The yellow leaf fell from the tree."
+    },
+    {
+      "arabic": "الثَّمَرَةُ",
+      "root": "ث م ر",
+      "type": "noun",
+      "bs": "plod, voće",
+      "en": "fruit",
+      "exampleArabic": "قَطَفَ الْفَلَّاحُ الثَّمَرَةَ النَّاضِجَةَ.",
+      "exampleBs": "Seljak je ubrao zreli plod.",
+      "exampleEn": "The farmer picked the ripe fruit."
+    },
+    {
+      "arabic": "الْبَذْرَةُ",
+      "root": "ب ذ ر",
+      "type": "noun",
+      "bs": "sjeme",
+      "en": "seed",
+      "exampleArabic": "زَرَعَ الْمَزَارِعُ الْبَذْرَةَ فِي الْأَرْضِ الْخَصِبَةِ.",
+      "exampleBs": "Farmer je zasijao sjeme u plodnu zemlju.",
+      "exampleEn": "The farmer planted the seed in fertile soil."
+    },
+    {
+      "arabic": "يَنْمُو",
+      "root": "ن م و",
+      "type": "verb",
+      "bs": "rasti",
+      "en": "to grow",
+      "exampleArabic": "يَنْمُو النَّبَاتُ بِسُرْعَةٍ فِي التُّرْبَةِ الرَّطْبَةِ.",
+      "exampleBs": "Biljka brzo raste u vlažnoj zemlji.",
+      "exampleEn": "The plant grows quickly in moist soil."
+    },
+    {
+      "arabic": "يَتَفَتَّحُ",
+      "root": "ف ت ح",
+      "type": "verb",
+      "bs": "cvjetati, procvjetati",
+      "en": "to bloom",
+      "exampleArabic": "تَتَفَتَّحُ الزُّهُورُ فِي فَصْلِ الرَّبِيعِ.",
+      "exampleBs": "Cvijeće cvjeta u proljeće.",
+      "exampleEn": "The flowers bloom in the spring season."
+    },
+    {
+      "arabic": "يَجْرِي",
+      "root": "ج ر ي",
+      "type": "verb",
+      "bs": "teći, curiti",
+      "en": "to flow",
+      "exampleArabic": "يَجْرِي الْمَاءُ بِلُطْفٍ فِي الْوَادِي.",
+      "exampleBs": "Voda teče nježno kroz dolinu.",
+      "exampleEn": "The water flows gently through the valley."
+    },
+    {
+      "arabic": "يَشْرُقُ",
+      "root": "ش ر ق",
+      "type": "verb",
+      "bs": "izlaziti (o suncu), rađati se",
+      "en": "to rise (sun)",
+      "exampleArabic": "تَشْرُقُ الشَّمْسُ مِنَ الْمَشْرِقِ كُلَّ يَوْمٍ.",
+      "exampleBs": "Sunce svaki dan izlazi na istoku.",
+      "exampleEn": "The sun rises in the east every day."
+    },
+    {
+      "arabic": "يَغْرُبُ",
+      "root": "غ ر ب",
+      "type": "verb",
+      "bs": "zalaziti (o suncu)",
+      "en": "to set (sun)",
+      "exampleArabic": "تَغْرُبُ الشَّمْسُ مَسَاءً فِي الْأُفُقِ.",
+      "exampleBs": "Sunce zalazi uveče na horizontu.",
+      "exampleEn": "The sun sets in the evening on the horizon."
+    },
+    {
+      "arabic": "يَهْطِلُ",
+      "root": "ه ط ل",
+      "type": "verb",
+      "bs": "padati (o kiši)",
+      "en": "to rain",
+      "exampleArabic": "يَهْطِلُ الْمَطَرُ فِي فَصْلِ الشِّتَاءِ بِغَزَارَةٍ.",
+      "exampleBs": "Kiša pada obilno u zimskom periodu.",
+      "exampleEn": "Rain falls heavily in the winter season."
+    },
+    {
+      "arabic": "يَهُبُّ",
+      "root": "ه ب ب",
+      "type": "verb",
+      "bs": "puhati (o vjetru)",
+      "en": "to blow (wind)",
+      "exampleArabic": "يَهُبُّ الْهَوَاءُ الْبَارِدُ مِنَ الشَّمَالِ.",
+      "exampleBs": "Hladan vjetar puše sa sjevera.",
+      "exampleEn": "Cold air blows from the north."
+    },
+    {
+      "arabic": "حَارٌّ",
+      "root": "ح ر ر",
+      "type": "adjective",
+      "bs": "vruć",
+      "en": "hot",
+      "exampleArabic": "كَانَ الطَّقْسُ حَارًّا جِدًّا فِي الصَّيْفِ.",
+      "exampleBs": "Vrijeme je bilo veoma vruće ljeti.",
+      "exampleEn": "The weather was very hot in summer."
+    },
+    {
+      "arabic": "بَارِدٌ",
+      "root": "ب ر د",
+      "type": "adjective",
+      "bs": "hladan",
+      "en": "cold",
+      "exampleArabic": "يَكُونُ الطَّقْسُ بَارِدًا فِي الشِّتَاءِ.",
+      "exampleBs": "Vrijeme je hladno zimi.",
+      "exampleEn": "The weather is cold in winter."
+    },
+    {
+      "arabic": "دَافِئٌ",
+      "root": "د ف أ",
+      "type": "adjective",
+      "bs": "topao",
+      "en": "warm",
+      "exampleArabic": "كَانَ الرَّبِيعُ دَافِئًا وَمُمْتِعًا هَذَا الْعَامَ.",
+      "exampleBs": "Proljeće je bilo toplo i ugodno ove godine.",
+      "exampleEn": "Spring was warm and pleasant this year."
+    },
+    {
+      "arabic": "عَاصِفٌ",
+      "root": "ع ص ف",
+      "type": "adjective",
+      "bs": "olujni, buran",
+      "en": "stormy",
+      "exampleArabic": "أَلْغَى الْمَلَّاحُونَ رِحْلَتَهُمْ بِسَبَبِ الطَّقْسِ الْعَاصِفِ.",
+      "exampleBs": "Pomorci su otkazali putovanje zbog olujnog vremena.",
+      "exampleEn": "The sailors cancelled their trip due to stormy weather."
+    },
+    {
+      "arabic": "غَائِمٌ",
+      "root": "غ ي م",
+      "type": "adjective",
+      "bs": "oblačan",
+      "en": "cloudy",
+      "exampleArabic": "كَانَ الْجَوُّ غَائِمًا طَوَالَ النَّهَارِ.",
+      "exampleBs": "Vrijeme je bilo oblačno tokom cijelog dana.",
+      "exampleEn": "The weather was cloudy throughout the day."
+    },
+    {
+      "arabic": "مُشْمِسٌ",
+      "root": "ش م س",
+      "type": "adjective",
+      "bs": "sunčan",
+      "en": "sunny",
+      "exampleArabic": "اِسْتَمْتَعَ الْأَطْفَالُ بِيَوْمٍ مُشْمِسٍ فِي الْحَدِيقَةِ.",
+      "exampleBs": "Djeca su uživala u sunčanom danu u parku.",
+      "exampleEn": "The children enjoyed a sunny day in the park."
+    },
+    {
+      "arabic": "جَافٌّ",
+      "root": "ج ف ف",
+      "type": "adjective",
+      "bs": "suh",
+      "en": "dry",
+      "exampleArabic": "يَبْقَى الْمَنَاخُ جَافًّا فِي مَنَاطِقِ الصَّحْرَاءِ.",
+      "exampleBs": "Klima ostaje suha u pustinjskim predjelima.",
+      "exampleEn": "The climate remains dry in desert regions."
+    },
+    {
+      "arabic": "رَطْبٌ",
+      "root": "ر ط ب",
+      "type": "adjective",
+      "bs": "vlažan",
+      "en": "humid",
+      "exampleArabic": "يَكُونُ الصَّيْفُ رَطْبًا وَحَارًّا عَلَى السَّاحِلِ.",
+      "exampleBs": "Ljeto je vlažno i vruće na obali.",
+      "exampleEn": "Summer is humid and hot on the coast."
+    },
+    {
+      "arabic": "الْهَوَاءُ",
+      "root": "ه و ي",
+      "type": "noun",
+      "bs": "zrak, vazduh",
+      "en": "air",
+      "exampleArabic": "الْهَوَاءُ النَّظِيفُ ضَرُورِيٌّ لِلصِّحَّةِ.",
+      "exampleBs": "Čist zrak je neophodan za zdravlje.",
+      "exampleEn": "Clean air is essential for health."
+    },
+    {
+      "arabic": "الْمَاءُ",
+      "root": "م و ه",
+      "type": "noun",
+      "bs": "voda",
+      "en": "water",
+      "exampleArabic": "الْمَاءُ أَسَاسُ الْحَيَاةِ عَلَى الْأَرْضِ.",
+      "exampleBs": "Voda je osnova života na Zemlji.",
+      "exampleEn": "Water is the foundation of life on Earth."
+    },
+    {
+      "arabic": "الْأَرْضُ",
+      "root": "أ ر ض",
+      "type": "noun",
+      "bs": "zemlja, tlo",
+      "en": "earth, ground",
+      "exampleArabic": "تَشْرَبُ جُذُورُ النَّبَاتَاتِ الْمَاءَ مِنَ الْأَرْضِ.",
+      "exampleBs": "Korijeni biljaka piju vodu iz zemlje.",
+      "exampleEn": "Plant roots drink water from the earth."
+    },
+    {
+      "arabic": "النَّارُ",
+      "root": "ن و ر",
+      "type": "noun",
+      "bs": "vatra",
+      "en": "fire",
+      "exampleArabic": "أَشْعَلَ الْمُسَافِرُونَ النَّارَ لِلتَّدَفُّؤِ.",
+      "exampleBs": "Putnici su naložili vatru da se ugriju.",
+      "exampleEn": "The travellers lit a fire to warm themselves."
+    },
+    {
+      "arabic": "الطَّبِيعَةُ",
+      "root": "ط ب ع",
+      "type": "noun",
+      "bs": "priroda",
+      "en": "nature",
+      "exampleArabic": "تُبْهِجُ الطَّبِيعَةُ الْخَضْرَاءُ الْقُلُوبَ.",
+      "exampleBs": "Zelena priroda raduje srca.",
+      "exampleEn": "Green nature delights the hearts."
+    },
+    {
+      "arabic": "الْبِيئَةُ",
+      "root": "ب و أ",
+      "type": "noun",
+      "bs": "okoliš, okolina",
+      "en": "environment",
+      "exampleArabic": "يَجِبُ عَلَيْنَا حِمَايَةُ الْبِيئَةِ مِنَ التَّلَوُّثِ.",
+      "exampleBs": "Moramo zaštititi okoliš od zagađenja.",
+      "exampleEn": "We must protect the environment from pollution."
+    }
+  ]
+}

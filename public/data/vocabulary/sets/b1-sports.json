@@ -1,0 +1,469 @@
+{
+  "id": "b1-sports",
+  "title": "Sports & Fitness",
+  "titleAr": "الرِّيَاضَةُ وَاللِّيَاقَةُ",
+  "level": "B1",
+  "topic": "health",
+  "words": [
+    {
+      "arabic": "كُرَةُ الْقَدَمِ",
+      "root": "ك ر و",
+      "type": "noun",
+      "bs": "fudbal, nogomet",
+      "en": "football",
+      "exampleArabic": "تُعَدُّ كُرَةُ الْقَدَمِ أَكْثَرَ الرِّيَاضَاتِ شَعْبِيَّةً فِي الْعَالَمِ.",
+      "exampleBs": "Fudbal je najpopularniji sport na svijetu.",
+      "exampleEn": "Football is the most popular sport in the world."
+    },
+    {
+      "arabic": "كُرَةُ السَّلَّةِ",
+      "root": "ك ر و",
+      "type": "noun",
+      "bs": "košarka",
+      "en": "basketball",
+      "exampleArabic": "يَلْعَبُ الطُّلَّابُ كُرَةَ السَّلَّةِ فِي الْمَلْعَبِ كُلَّ مَسَاءٍ.",
+      "exampleBs": "Studenti igraju košarku na terenu svako veče.",
+      "exampleEn": "The students play basketball on the court every evening."
+    },
+    {
+      "arabic": "السِّبَاحَةُ",
+      "root": "س ب ح",
+      "type": "noun",
+      "bs": "plivanje",
+      "en": "swimming",
+      "exampleArabic": "تُعَدُّ السِّبَاحَةُ مِنْ أَفْضَلِ الرِّيَاضَاتِ لِتَقْوِيَةِ الْجِسْمِ.",
+      "exampleBs": "Plivanje je jedan od najboljih sportova za jačanje tijela.",
+      "exampleEn": "Swimming is one of the best sports for strengthening the body."
+    },
+    {
+      "arabic": "الْجَرْيُ",
+      "root": "ج ر ي",
+      "type": "noun",
+      "bs": "trčanje",
+      "en": "running",
+      "exampleArabic": "يُمَارِسُ كَثِيرٌ مِنَ النَّاسِ الْجَرْيَ فِي الصَّبَاحِ لِلتَّمَتُّعِ بِصِحَّةٍ جَيِّدَةٍ.",
+      "exampleBs": "Mnogi ljudi trče ujutro da bi bili zdravi.",
+      "exampleEn": "Many people practise running in the morning to enjoy good health."
+    },
+    {
+      "arabic": "التِّنِسُ",
+      "root": "ت ن س",
+      "type": "noun",
+      "bs": "tenis",
+      "en": "tennis",
+      "exampleArabic": "فَازَ اللَّاعِبُ بِبُطُولَةِ التِّنِسِ بَعْدَ مُبَارَاةٍ طَوِيلَةٍ.",
+      "exampleBs": "Igrač je pobijedio na teniskom turniru nakon duge utakmice.",
+      "exampleEn": "The player won the tennis championship after a long match."
+    },
+    {
+      "arabic": "الْكُرَةُ الطَّائِرَةُ",
+      "root": "ك ر و",
+      "type": "noun",
+      "bs": "odbojka",
+      "en": "volleyball",
+      "exampleArabic": "فَازَ فَرِيقُنَا بِمُبَارَاةِ الْكُرَةِ الطَّائِرَةِ بِنَتِيجَةٍ كَبِيرَةٍ.",
+      "exampleBs": "Naš tim je pobijedio u odbojkaškoj utakmici s uvjerljivim rezultatom.",
+      "exampleEn": "Our team won the volleyball match by a large margin."
+    },
+    {
+      "arabic": "رُكُوبُ الدَّرَّاجَةِ",
+      "root": "ر ك ب",
+      "type": "noun",
+      "bs": "vožnja biciklom, biciklizam",
+      "en": "cycling",
+      "exampleArabic": "يَسْتَمْتِعُ الشَّبَابُ بِرُكُوبِ الدَّرَّاجَةِ فِي الطَّبِيعَةِ.",
+      "exampleBs": "Mladi uživaju u vožnji biciklom u prirodi.",
+      "exampleEn": "Young people enjoy cycling in nature."
+    },
+    {
+      "arabic": "الْمِلَاكَمَةُ",
+      "root": "ل ك م",
+      "type": "noun",
+      "bs": "boks",
+      "en": "boxing",
+      "exampleArabic": "يَتَطَلَّبُ تَدْرِيبُ الْمِلَاكَمَةِ قُوَّةً بَدَنِيَّةً وَتَرْكِيزًا عَالِيًا.",
+      "exampleBs": "Trening boksa zahtijeva fizičku snagu i visoku koncentraciju.",
+      "exampleEn": "Boxing training requires physical strength and high concentration."
+    },
+    {
+      "arabic": "الْمُصَارَعَةُ",
+      "root": "ص ر ع",
+      "type": "noun",
+      "bs": "rvanje",
+      "en": "wrestling",
+      "exampleArabic": "تَمْتَلِكُ الْمُصَارَعَةُ تَارِيخًا قَدِيمًا يَعُودُ إِلَى آلَافِ السِّنِينَ.",
+      "exampleBs": "Rvanje ima dugu povijest koja seže hiljadama godina unazad.",
+      "exampleEn": "Wrestling has an ancient history dating back thousands of years."
+    },
+    {
+      "arabic": "الْعَابُ الْقُوَى",
+      "root": "ق و ي",
+      "type": "phrase",
+      "bs": "atletika",
+      "en": "athletics",
+      "exampleArabic": "شَارَكَ الرِّيَاضِيُّ فِي عِدَّةِ فِعَالِيَّاتٍ مِنْ أَلْعَابِ الْقُوَى.",
+      "exampleBs": "Sportaš je sudjelovao u nekoliko atletskih disciplina.",
+      "exampleEn": "The athlete participated in several athletics events."
+    },
+    {
+      "arabic": "الْجُمْبَازُ",
+      "root": "ج م ب",
+      "type": "noun",
+      "bs": "gimnastika",
+      "en": "gymnastics",
+      "exampleArabic": "تَتَطَلَّبُ تَمَارِينُ الْجُمْبَازِ مَرُونَةً وَتَوَازُنًا فَائِقَيْنِ.",
+      "exampleBs": "Gimnastičke vježbe zahtijevaju iznimnu fleksibilnost i ravnotežu.",
+      "exampleEn": "Gymnastics exercises require exceptional flexibility and balance."
+    },
+    {
+      "arabic": "الْفَرِيقُ",
+      "root": "ف ر ق",
+      "type": "noun",
+      "bs": "tim, momčad",
+      "en": "team",
+      "exampleArabic": "تَعَاوَنَ الْفَرِيقُ بِرُوحٍ عَالِيَةٍ لِتَحْقِيقِ الْفَوْزِ.",
+      "exampleBs": "Tim je surađivao s visokim duhom kako bi postigao pobjedu.",
+      "exampleEn": "The team cooperated with high spirit to achieve victory."
+    },
+    {
+      "arabic": "اللَّاعِبُ",
+      "root": "ل ع ب",
+      "type": "noun",
+      "bs": "igrač",
+      "en": "player",
+      "exampleArabic": "أَثْبَتَ اللَّاعِبُ مَهَارَتَهُ الْعَالِيَةَ خِلَالَ الْمُبَارَاةِ.",
+      "exampleBs": "Igrač je dokazao svoju visoku vještinu tokom utakmice.",
+      "exampleEn": "The player proved his high skill during the match."
+    },
+    {
+      "arabic": "الْمُدَرِّبُ",
+      "root": "د ر ب",
+      "type": "noun",
+      "bs": "trener",
+      "en": "coach",
+      "exampleArabic": "وَضَعَ الْمُدَرِّبُ خُطَّةً تَكْتِيكِيَّةً مُحْكَمَةً لِلْمُبَارَاةِ.",
+      "exampleBs": "Trener je izradio čvrst taktički plan za utakmicu.",
+      "exampleEn": "The coach drew up a solid tactical plan for the match."
+    },
+    {
+      "arabic": "الْحَكَمُ",
+      "root": "ح ك م",
+      "type": "noun",
+      "bs": "sudija",
+      "en": "referee",
+      "exampleArabic": "أَصْدَرَ الْحَكَمُ بِطَاقَةً حَمْرَاءَ بَعْدَ الْمُخَالَفَةِ الشَّدِيدَةِ.",
+      "exampleBs": "Sudija je izdao crveni karton nakon grubog prekršaja.",
+      "exampleEn": "The referee issued a red card after the serious foul."
+    },
+    {
+      "arabic": "الْمَلْعَبُ",
+      "root": "ل ع ب",
+      "type": "noun",
+      "bs": "stadion, teren",
+      "en": "stadium",
+      "exampleArabic": "امْتَلَأَ الْمَلْعَبُ بِالْجُمْهُورِ الْمُتَحَمِّسِ.",
+      "exampleBs": "Stadion je bio pun oduševljenih navijača.",
+      "exampleEn": "The stadium was filled with enthusiastic supporters."
+    },
+    {
+      "arabic": "الْمُبَارَاةُ",
+      "root": "ب ر أ",
+      "type": "noun",
+      "bs": "utakmica, meč",
+      "en": "match",
+      "exampleArabic": "اِنْتَهَتِ الْمُبَارَاةُ بِتَعَادُلٍ مُثِيرٍ فِي الدَّقِيقَةِ الْأَخِيرَةِ.",
+      "exampleBs": "Utakmica je završila neriješenim rezultatom u zadnjoj minuti.",
+      "exampleEn": "The match ended in an exciting draw in the final minute."
+    },
+    {
+      "arabic": "الْمُسَابَقَةُ",
+      "root": "س ب ق",
+      "type": "noun",
+      "bs": "takmičenje, natjecanje",
+      "en": "competition",
+      "exampleArabic": "اشْتَرَكَ عَدَدٌ كَبِيرٌ مِنَ الرِّيَاضِيِّينَ فِي الْمُسَابَقَةِ.",
+      "exampleBs": "Veliki broj sportaša učestvovao je u natjecanju.",
+      "exampleEn": "A large number of athletes participated in the competition."
+    },
+    {
+      "arabic": "الْكَأْسُ",
+      "root": "ك أ س",
+      "type": "noun",
+      "bs": "trofej, pehar",
+      "en": "trophy",
+      "exampleArabic": "رَفَعَ قَائِدُ الْفَرِيقِ الْكَأْسَ أَمَامَ الْجُمْهُورِ الْفَرِحِ.",
+      "exampleBs": "Kapiten tima je podigao trofej pred radosnim navijačima.",
+      "exampleEn": "The team captain raised the trophy before the joyful crowd."
+    },
+    {
+      "arabic": "الْهَدَفُ",
+      "root": "ه د ف",
+      "type": "noun",
+      "bs": "gol, cilj",
+      "en": "goal",
+      "exampleArabic": "سَجَّلَ اللَّاعِبُ هَدَفًا رَائِعًا فِي الدَّقِيقَةِ التِّسْعِينَ.",
+      "exampleBs": "Igrač je postigao divan gol u devedesetoj minuti.",
+      "exampleEn": "The player scored a magnificent goal in the ninetieth minute."
+    },
+    {
+      "arabic": "النَّتِيجَةُ",
+      "root": "ن ت ج",
+      "type": "noun",
+      "bs": "rezultat",
+      "en": "score",
+      "exampleArabic": "انْتَهَتِ الْمُبَارَاةُ بِنَتِيجَةٍ ثَلَاثَةٍ لِصِفْرٍ.",
+      "exampleBs": "Utakmica je završila rezultatom tri prema nula.",
+      "exampleEn": "The match ended with a score of three to zero."
+    },
+    {
+      "arabic": "الْفَائِزُ",
+      "root": "ف و ز",
+      "type": "noun",
+      "bs": "pobjednik",
+      "en": "winner",
+      "exampleArabic": "كُرِّمَ الْفَائِزُ بِمِيدَالِيَّةٍ ذَهَبِيَّةٍ فِي حَفْلِ الْإِغْلَاقِ.",
+      "exampleBs": "Pobjednik je nagrađen zlatnom medaljom na ceremoniji zatvaranja.",
+      "exampleEn": "The winner was honoured with a gold medal at the closing ceremony."
+    },
+    {
+      "arabic": "الْبَطَلُ",
+      "root": "ب ط ل",
+      "type": "noun",
+      "bs": "prvak, šampion",
+      "en": "champion",
+      "exampleArabic": "دَافَعَ الْبَطَلُ عَنْ لَقَبِهِ بِجَدَارَةٍ فَائِقَةٍ.",
+      "exampleBs": "Prvak je dostojanstveno branio svoju titulu.",
+      "exampleEn": "The champion defended his title with outstanding merit."
+    },
+    {
+      "arabic": "الْعَضَلَةُ",
+      "root": "ع ض ل",
+      "type": "noun",
+      "bs": "mišić",
+      "en": "muscle",
+      "exampleArabic": "تَقْوَى الْعَضَلَةُ بِالتَّدْرِيبِ الْمُنْتَظَمِ وَالتَّغْذِيَةِ الصَّحِيحَةِ.",
+      "exampleBs": "Mišić se jača redovitim treningom i pravilnom prehranom.",
+      "exampleEn": "The muscle strengthens with regular training and proper nutrition."
+    },
+    {
+      "arabic": "الْقُوَّةُ",
+      "root": "ق و ي",
+      "type": "noun",
+      "bs": "snaga",
+      "en": "strength",
+      "exampleArabic": "يَحْتَاجُ الرِّيَاضِيُّ إِلَى الْقُوَّةِ وَالتَّحَمُّلِ مَعًا.",
+      "exampleBs": "Sportaš treba i snagu i izdržljivost.",
+      "exampleEn": "The athlete needs both strength and endurance."
+    },
+    {
+      "arabic": "السُّرْعَةُ",
+      "root": "س ر ع",
+      "type": "noun",
+      "bs": "brzina",
+      "en": "speed",
+      "exampleArabic": "يَتَمِيَّزُ الْعَدَّاءُ بِسُرْعَتِهِ الاِسْتِثْنَائِيَّةِ.",
+      "exampleBs": "Sprinter se odlikuje izuzetnom brzinom.",
+      "exampleEn": "The sprinter stands out for his exceptional speed."
+    },
+    {
+      "arabic": "التَّدْرِيبُ",
+      "root": "د ر ب",
+      "type": "noun",
+      "bs": "trening",
+      "en": "training",
+      "exampleArabic": "يَخْضَعُ الرِّيَاضِيُّونَ لِتَدْرِيبٍ شَاقٍّ قَبْلَ الْبُطُولَاتِ.",
+      "exampleBs": "Sportaši prolaze kroz naporan trening prije turnira.",
+      "exampleEn": "Athletes undergo intensive training before championships."
+    },
+    {
+      "arabic": "الإِحْمَاءُ",
+      "root": "ح م و",
+      "type": "noun",
+      "bs": "zagrijavanje (tijela)",
+      "en": "warm-up",
+      "exampleArabic": "يَبْدَأُ الرِّيَاضِيُّ جَلْسَةَ التَّدْرِيبِ دَائِمًا بِالْإِحْمَاءِ.",
+      "exampleBs": "Sportaš uvijek počinje trening zagrijavanjem.",
+      "exampleEn": "The athlete always starts the training session with a warm-up."
+    },
+    {
+      "arabic": "التَّمْرِينُ",
+      "root": "م ر ن",
+      "type": "noun",
+      "bs": "vježba",
+      "en": "exercise",
+      "exampleArabic": "يُوصِي الْأَطِبَّاءُ بِمُمَارَسَةِ التَّمَارِينِ الرِّيَاضِيَّةِ بِانْتِظَامٍ.",
+      "exampleBs": "Ljekari preporučuju redovito bavljenje tjelesnim vježbama.",
+      "exampleEn": "Doctors recommend practising physical exercises regularly."
+    },
+    {
+      "arabic": "يَلْعَبُ",
+      "root": "ل ع ب",
+      "type": "verb",
+      "bs": "igrati",
+      "en": "to play",
+      "exampleArabic": "يَلْعَبُ الْأَطْفَالُ كُرَةَ الْقَدَمِ فِي الشَّارِعِ.",
+      "exampleBs": "Djeca igraju fudbal na ulici.",
+      "exampleEn": "The children play football in the street."
+    },
+    {
+      "arabic": "يَفُوزُ",
+      "root": "ف و ز",
+      "type": "verb",
+      "bs": "pobjeđivati, pobijediti",
+      "en": "to win",
+      "exampleArabic": "يَسْعَى كُلُّ فَرِيقٍ إِلَى أَنْ يَفُوزَ بِالْبُطُولَةِ.",
+      "exampleBs": "Svaki tim teži da pobijedi na turniru.",
+      "exampleEn": "Every team strives to win the championship."
+    },
+    {
+      "arabic": "يَخْسَرُ",
+      "root": "خ س ر",
+      "type": "verb",
+      "bs": "gubiti, izgubiti",
+      "en": "to lose",
+      "exampleArabic": "يَتَعَلَّمُ الرِّيَاضِيُّ مِنَ الْهَزِيمَةِ حِينَ يَخْسَرُ.",
+      "exampleBs": "Sportaš uči iz poraza kada izgubi.",
+      "exampleEn": "The athlete learns from defeat when he loses."
+    },
+    {
+      "arabic": "يَتَدَرَّبُ",
+      "root": "د ر ب",
+      "type": "verb",
+      "bs": "trenirati",
+      "en": "to train",
+      "exampleArabic": "يَتَدَرَّبُ الْفَرِيقُ يَوْمِيًّا اسْتِعْدَادًا لِلْمَوْسِمِ الْجَدِيدِ.",
+      "exampleBs": "Tim trenira svakodnevno u pripremi za novu sezonu.",
+      "exampleEn": "The team trains daily in preparation for the new season."
+    },
+    {
+      "arabic": "يَتَنَافَسُ",
+      "root": "ن ف س",
+      "type": "verb",
+      "bs": "takmičiti se, natjecati se",
+      "en": "to compete",
+      "exampleArabic": "يَتَنَافَسُ الرِّيَاضِيُّونَ مِنْ دُوَلٍ مُخْتَلِفَةٍ فِي الْأَلْعَابِ الْأُولِمْبِيَّةِ.",
+      "exampleBs": "Sportaši iz različitih zemalja natječu se na Olimpijskim igrama.",
+      "exampleEn": "Athletes from different countries compete in the Olympic Games."
+    },
+    {
+      "arabic": "يُسَجِّلُ",
+      "root": "س ج ل",
+      "type": "verb",
+      "bs": "postizati gol, bilježiti",
+      "en": "to score",
+      "exampleArabic": "يُسَجِّلُ الْمُهَاجِمُ الْمَاهِرُ الْأَهْدَافَ بِسُهُولَةٍ.",
+      "exampleBs": "Vješti napadač lako postiže golove.",
+      "exampleEn": "The skilled striker scores goals with ease."
+    },
+    {
+      "arabic": "يَرْكُلُ",
+      "root": "ر ك ل",
+      "type": "verb",
+      "bs": "šutirati, udariti nogom",
+      "en": "to kick",
+      "exampleArabic": "يَرْكُلُ اللَّاعِبُ الْكُرَةَ بِقُوَّةٍ نَحْوَ الْمَرْمَى.",
+      "exampleBs": "Igrač snažno šutira loptu prema golu.",
+      "exampleEn": "The player kicks the ball powerfully towards the goal."
+    },
+    {
+      "arabic": "يَرْمِي",
+      "root": "ر م ي",
+      "type": "verb",
+      "bs": "bacati",
+      "en": "to throw",
+      "exampleArabic": "يَرْمِي اللَّاعِبُ الْكُرَةَ إِلَى زَمِيلِهِ بِدِقَّةٍ.",
+      "exampleBs": "Igrač precizno baca loptu svom suigraču.",
+      "exampleEn": "The player throws the ball to his teammate with precision."
+    },
+    {
+      "arabic": "يَجْرِي",
+      "root": "ج ر ي",
+      "type": "verb",
+      "bs": "trčati",
+      "en": "to run",
+      "exampleArabic": "يَجْرِي الرِّيَاضِيُّ كُلَّ يَوْمٍ لِمُدَّةِ سَاعَةٍ.",
+      "exampleBs": "Sportaš trči svaki dan sat vremena.",
+      "exampleEn": "The athlete runs for one hour every day."
+    },
+    {
+      "arabic": "يَسْبَحُ",
+      "root": "س ب ح",
+      "type": "verb",
+      "bs": "plivati",
+      "en": "to swim",
+      "exampleArabic": "تُحِبُّ الطِّفْلَةُ أَنْ تَسْبَحَ فِي الْمَسْبَحِ.",
+      "exampleBs": "Djevojčica voli plivati u bazenu.",
+      "exampleEn": "The girl loves to swim in the pool."
+    },
+    {
+      "arabic": "سَرِيعٌ",
+      "root": "س ر ع",
+      "type": "adjective",
+      "bs": "brz",
+      "en": "fast",
+      "exampleArabic": "يُعَدُّ هَذَا الْعَدَّاءُ مِنْ أَسْرَعِ الرِّيَاضِيِّينَ فِي التَّارِيخِ.",
+      "exampleBs": "Ovaj sprinter smatra se jednim od najbržih sportaša u historiji.",
+      "exampleEn": "This sprinter is considered one of the fastest athletes in history."
+    },
+    {
+      "arabic": "قَوِيٌّ",
+      "root": "ق و ي",
+      "type": "adjective",
+      "bs": "jak, snažan",
+      "en": "strong",
+      "exampleArabic": "يَتَمِيَّزُ الْمُلَاكِمُ بِبِنْيَةٍ قَوِيَّةٍ وَعَضَلَاتٍ مَتِينَةٍ.",
+      "exampleBs": "Boksar se odlikuje snažnom građom i čvrstim mišićima.",
+      "exampleEn": "The boxer stands out for his powerful build and firm muscles."
+    },
+    {
+      "arabic": "مُحْتَرِفٌ",
+      "root": "ح ر ف",
+      "type": "adjective",
+      "bs": "profesionalni",
+      "en": "professional",
+      "exampleArabic": "يَحْتَاجُ الرِّيَاضِيُّ الْمُحْتَرِفُ إِلَى سَنَوَاتٍ مِنَ التَّدْرِيبِ الشَّاقِّ.",
+      "exampleBs": "Profesionalni sportaš treba godine napornog treninga.",
+      "exampleEn": "The professional athlete needs years of intensive training."
+    },
+    {
+      "arabic": "تَنَافُسِيٌّ",
+      "root": "ن ف س",
+      "type": "adjective",
+      "bs": "takmičarski, kompetitivan",
+      "en": "competitive",
+      "exampleArabic": "يَتَّسِمُ الدَّوْرِيُّ بِطَابَعِهِ التَّنَافُسِيِّ الشَّدِيدِ.",
+      "exampleBs": "Liga se odlikuje izrazito kompetitivnim karakterom.",
+      "exampleEn": "The league is characterised by its highly competitive nature."
+    },
+    {
+      "arabic": "رِيَاضِيٌّ",
+      "root": "ر و ض",
+      "type": "adjective",
+      "bs": "sportski, atletski",
+      "en": "athletic",
+      "exampleArabic": "يَتَمِيَّزُ الطَّالِبُ بِجِسْمٍ رِيَاضِيٍّ وَبِنْيَةٍ مُتَنَاسِقَةٍ.",
+      "exampleBs": "Student se ističe sportskim tijelom i skladno građenim tjelesnim okvirom.",
+      "exampleEn": "The student is distinguished by an athletic body and a well-proportioned build."
+    },
+    {
+      "arabic": "مُصَابٌ",
+      "root": "ص و ب",
+      "type": "adjective",
+      "bs": "povrijeđen",
+      "en": "injured",
+      "exampleArabic": "غَابَ اللَّاعِبُ الْمُصَابُ عَنِ الْمُبَارَيَاتِ لِعِدَّةِ أَسَابِيعَ.",
+      "exampleBs": "Povrijeđeni igrač je bio odsutan s utakmica nekoliko sedmica.",
+      "exampleEn": "The injured player was absent from matches for several weeks."
+    },
+    {
+      "arabic": "لَائِقٌ بَدَنِيًّا",
+      "root": "ل و ق",
+      "type": "phrase",
+      "bs": "u formi, fizički spreman",
+      "en": "fit",
+      "exampleArabic": "يَحْرِصُ الرِّيَاضِيُّ عَلَى الْبَقَاءِ لَائِقًا بَدَنِيًّا طَوَالَ الْمَوْسِمِ.",
+      "exampleBs": "Sportaš nastoji ostati u formi tokom cijele sezone.",
+      "exampleEn": "The athlete strives to stay fit throughout the season."
+    }
+  ]
+}

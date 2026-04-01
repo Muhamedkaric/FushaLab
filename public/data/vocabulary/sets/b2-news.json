@@ -1,0 +1,519 @@
+{
+  "id": "b2-news",
+  "title": "News & Media",
+  "titleAr": "الأَخْبَارُ وَالإِعْلَامُ",
+  "level": "B2",
+  "topic": "news",
+  "words": [
+    {
+      "arabic": "الافْتِتَاحِيَّةُ",
+      "root": "ف ت ح",
+      "type": "noun",
+      "bs": "uvodnik, komentar",
+      "en": "editorial",
+      "exampleArabic": "كَتَبَ رَئِيسُ التَّحْرِيرِ افْتِتَاحِيَّةً حَوْلَ الأَزْمَةِ.",
+      "exampleBs": "Glavni urednik je napisao uvodnik o krizi.",
+      "exampleEn": "The editor-in-chief wrote an editorial about the crisis."
+    },
+    {
+      "arabic": "الْبَيَانُ الصَّحَفِيُّ",
+      "root": "ب ي ن",
+      "type": "noun",
+      "bs": "saopštenje za javnost",
+      "en": "press release",
+      "exampleArabic": "أَصْدَرَتِ الشَّرِكَةُ بَيَانًا صَحَفِيًّا عَنْ نَتَائِجِهَا.",
+      "exampleBs": "Kompanija je izdala saopštenje za javnost o rezultatima.",
+      "exampleEn": "The company issued a press release about its results."
+    },
+    {
+      "arabic": "الصِّحَافَةُ الاسْتِقْصَائِيَّةُ",
+      "root": "ص ح ف",
+      "type": "noun",
+      "bs": "istraživačko novinarstvo",
+      "en": "investigative journalism",
+      "exampleArabic": "كَشَفَتِ الصِّحَافَةُ الاسْتِقْصَائِيَّةُ عَنْ قَضِيَّةِ فَسَادٍ.",
+      "exampleBs": "Istraživačko novinarstvo otkrilo je slučaj korupcije.",
+      "exampleEn": "Investigative journalism uncovered a corruption case."
+    },
+    {
+      "arabic": "الانْحِيَازُ الإِعْلَامِيُّ",
+      "root": "ح ي ز",
+      "type": "noun",
+      "bs": "medijska pristrasnost",
+      "en": "media bias",
+      "exampleArabic": "انْتَقَدَ الْبَاحِثُونَ الانْحِيَازَ الإِعْلَامِيَّ فِي تَغْطِيَةِ الأَحْدَاثِ.",
+      "exampleBs": "Istraživači su kritizirali medijsku pristrasnost u pokrivanju događaja.",
+      "exampleEn": "Researchers criticized media bias in the coverage of events."
+    },
+    {
+      "arabic": "الرَّقَابَةُ",
+      "root": "ر ق ب",
+      "type": "noun",
+      "bs": "cenzura",
+      "en": "censorship",
+      "exampleArabic": "تَفْرِضُ بَعْضُ الْحُكُومَاتِ الرَّقَابَةَ عَلَى وَسَائِلِ الإِعْلَامِ.",
+      "exampleBs": "Neke vlade nameću cenzuru medijima.",
+      "exampleEn": "Some governments impose censorship on the media."
+    },
+    {
+      "arabic": "حُرِّيَّةُ الصَّحَافَةِ",
+      "root": "ح ر ر",
+      "type": "noun",
+      "bs": "sloboda štampe",
+      "en": "freedom of the press",
+      "exampleArabic": "تُعَدُّ حُرِّيَّةُ الصَّحَافَةِ رُكِيزَةً أَسَاسِيَّةً لِلدِّيمُقْرَاطِيَّةِ.",
+      "exampleBs": "Sloboda štampe smatra se ključnim stubom demokratije.",
+      "exampleEn": "Freedom of the press is considered a fundamental pillar of democracy."
+    },
+    {
+      "arabic": "الْمُقَابَلَةُ الْمُنْفَرِدَةُ",
+      "root": "ق ب ل",
+      "type": "noun",
+      "bs": "ekskluzivni intervju",
+      "en": "exclusive interview",
+      "exampleArabic": "حَصَلَتِ الْقَنَاةُ عَلَى مُقَابَلَةٍ مُنْفَرِدَةٍ مَعَ الرَّئِيسِ.",
+      "exampleBs": "Kanal je dobio ekskluzivni intervju s predsjednikom.",
+      "exampleEn": "The channel obtained an exclusive interview with the president."
+    },
+    {
+      "arabic": "الْمُعَاهَدَةُ",
+      "root": "ع ه د",
+      "type": "noun",
+      "bs": "sporazum, ugovor",
+      "en": "treaty",
+      "exampleArabic": "وَقَّعَتِ الدَّوْلَتَانِ مُعَاهَدَةَ سَلَامٍ.",
+      "exampleBs": "Dvije države su potpisale mirovni sporazum.",
+      "exampleEn": "The two states signed a peace treaty."
+    },
+    {
+      "arabic": "الْعُقُوبَاتُ",
+      "root": "ع ق ب",
+      "type": "noun",
+      "bs": "sankcije",
+      "en": "sanctions",
+      "exampleArabic": "فَرَضَتِ الدُّوَلُ الْغَرْبِيَّةُ عُقُوبَاتٍ اقْتِصَادِيَّةً.",
+      "exampleBs": "Zapadne zemlje su nametnule ekonomske sankcije.",
+      "exampleEn": "Western countries imposed economic sanctions."
+    },
+    {
+      "arabic": "الاسْتِفْتَاءُ",
+      "root": "ف ت و",
+      "type": "noun",
+      "bs": "referendum",
+      "en": "referendum",
+      "exampleArabic": "أَجْرَتِ الْحُكُومَةُ اسْتِفْتَاءً حَوْلَ الدُّسْتُورِ.",
+      "exampleBs": "Vlada je provela referendum o ustavu.",
+      "exampleEn": "The government held a referendum on the constitution."
+    },
+    {
+      "arabic": "الائْتِلَافُ",
+      "root": "أ ل ف",
+      "type": "noun",
+      "bs": "koalicija",
+      "en": "coalition",
+      "exampleArabic": "شَكَّلَتِ الأَحْزَابُ الثَّلَاثَةُ ائْتِلَافًا حَاكِمًا.",
+      "exampleBs": "Tri stranke su formirale vladajuću koaliciju.",
+      "exampleEn": "The three parties formed a ruling coalition."
+    },
+    {
+      "arabic": "الْمُعَارَضَةُ",
+      "root": "ع ر ض",
+      "type": "noun",
+      "bs": "opozicija",
+      "en": "opposition",
+      "exampleArabic": "رَفَضَتِ الْمُعَارَضَةُ مَشْرُوعَ الْقَانُونِ.",
+      "exampleBs": "Opozicija je odbila nacrt zakona.",
+      "exampleEn": "The opposition rejected the draft law."
+    },
+    {
+      "arabic": "الْعَلَاقَاتُ الدِّبْلُومَاسِيَّةُ",
+      "root": "ع ل ق",
+      "type": "noun",
+      "bs": "diplomatski odnosi",
+      "en": "diplomatic relations",
+      "exampleArabic": "قَطَعَتِ الدَّوْلَتَانِ الْعَلَاقَاتِ الدِّبْلُومَاسِيَّةَ.",
+      "exampleBs": "Dvije države su prekinule diplomatske odnose.",
+      "exampleEn": "The two states severed diplomatic relations."
+    },
+    {
+      "arabic": "حُقُوقُ الإِنْسَانِ",
+      "root": "ح ق ق",
+      "type": "noun",
+      "bs": "ljudska prava",
+      "en": "human rights",
+      "exampleArabic": "تُرَاقِبُ مُنَظَّمَاتٌ دَوْلِيَّةٌ حُقُوقَ الإِنْسَانِ.",
+      "exampleBs": "Međunarodne organizacije prate ljudska prava.",
+      "exampleEn": "International organizations monitor human rights."
+    },
+    {
+      "arabic": "التَّضَخُّمُ",
+      "root": "ض خ م",
+      "type": "noun",
+      "bs": "inflacija",
+      "en": "inflation",
+      "exampleArabic": "ارْتَفَعَ التَّضَخُّمُ بِشَكْلٍ حَادٍّ الشَّهْرَ الْمَاضِيَ.",
+      "exampleBs": "Inflacija je naglo porasla prošlog mjeseca.",
+      "exampleEn": "Inflation rose sharply last month."
+    },
+    {
+      "arabic": "الْبَطَالَةُ",
+      "root": "ب ط ل",
+      "type": "noun",
+      "bs": "nezaposlenost",
+      "en": "unemployment",
+      "exampleArabic": "تَسْعَى الْحُكُومَةُ إِلَى خَفْضِ نِسْبَةِ الْبَطَالَةِ.",
+      "exampleBs": "Vlada nastoji smanjiti stopu nezaposlenosti.",
+      "exampleEn": "The government seeks to reduce the unemployment rate."
+    },
+    {
+      "arabic": "الْعَجْزُ التِّجَارِيُّ",
+      "root": "ع ج ز",
+      "type": "noun",
+      "bs": "trgovinski deficit",
+      "en": "trade deficit",
+      "exampleArabic": "أَعْلَنَتِ الْحُكُومَةُ عَنِ ارْتِفَاعِ الْعَجْزِ التِّجَارِيِّ.",
+      "exampleBs": "Vlada je objavila porast trgovinskog deficita.",
+      "exampleEn": "The government announced an increase in the trade deficit."
+    },
+    {
+      "arabic": "النُّمُوُّ الاقْتِصَادِيُّ",
+      "root": "ن م و",
+      "type": "noun",
+      "bs": "ekonomski rast",
+      "en": "economic growth",
+      "exampleArabic": "سَجَّلَ الاقْتِصَادُ نُمُوًّا مُلْحُوظًا هَذَا الْعَامَ.",
+      "exampleBs": "Ekonomija je ove godine zabilježila primjetan rast.",
+      "exampleEn": "The economy recorded notable growth this year."
+    },
+    {
+      "arabic": "سُوقُ الأَوْرَاقِ الْمَالِيَّةِ",
+      "root": "س و ق",
+      "type": "noun",
+      "bs": "berza, tržište kapitala",
+      "en": "stock market",
+      "exampleArabic": "انْخَفَضَ مُؤَشِّرُ سُوقِ الأَوْرَاقِ الْمَالِيَّةِ أَمْسِ.",
+      "exampleBs": "Indeks berze je jučer pao.",
+      "exampleEn": "The stock market index fell yesterday."
+    },
+    {
+      "arabic": "الاسْتِثْمَارُ الأَجْنَبِيُّ",
+      "root": "ث م ر",
+      "type": "noun",
+      "bs": "strana investicija",
+      "en": "foreign investment",
+      "exampleArabic": "تَسْعَى الدَّوْلَةُ لِجَذْبِ الاسْتِثْمَارِ الأَجْنَبِيِّ.",
+      "exampleBs": "Država nastoji privući strane investicije.",
+      "exampleEn": "The state seeks to attract foreign investment."
+    },
+    {
+      "arabic": "وَقْفُ إِطْلَاقِ النَّارِ",
+      "root": "و ق ف",
+      "type": "noun",
+      "bs": "primirje",
+      "en": "ceasefire",
+      "exampleArabic": "تَمَسَّكَتِ الأَطْرَافُ بِوَقْفِ إِطْلَاقِ النَّارِ.",
+      "exampleBs": "Strane su se pridržavale primirja.",
+      "exampleEn": "The parties adhered to the ceasefire."
+    },
+    {
+      "arabic": "الْمُفَاوَضَاتُ",
+      "root": "ف و ض",
+      "type": "noun",
+      "bs": "pregovori",
+      "en": "negotiations",
+      "exampleArabic": "بَدَأَتِ الْمُفَاوَضَاتُ بَيْنَ الطَّرَفَيْنِ فِي جِنِيف.",
+      "exampleBs": "Pregovori između dvije strane počeli su u Ženevi.",
+      "exampleEn": "Negotiations between the two sides began in Geneva."
+    },
+    {
+      "arabic": "الْمُسَاعَدَاتُ الإِنْسَانِيَّةُ",
+      "root": "س ع د",
+      "type": "noun",
+      "bs": "humanitarna pomoć",
+      "en": "humanitarian aid",
+      "exampleArabic": "وَصَلَتِ الْمُسَاعَدَاتُ الإِنْسَانِيَّةُ إِلَى الْمُتَضَرِّرِينَ.",
+      "exampleBs": "Humanitarna pomoć stigla je do stradalih.",
+      "exampleEn": "Humanitarian aid reached those affected."
+    },
+    {
+      "arabic": "اللَّاجِئُ",
+      "root": "ل ج أ",
+      "type": "noun",
+      "bs": "izbjeglica",
+      "en": "refugee",
+      "exampleArabic": "تَكْفَلَتِ الدَّوْلَةُ بِرِعَايَةِ اللَّاجِئِينَ.",
+      "exampleBs": "Država je preuzela brigu o izbjeglicama.",
+      "exampleEn": "The state took responsibility for caring for refugees."
+    },
+    {
+      "arabic": "مِنْطَقَةُ النِّزَاعِ",
+      "root": "ن ز ع",
+      "type": "noun",
+      "bs": "zona sukoba",
+      "en": "conflict zone",
+      "exampleArabic": "لَا يَسْمَحُ بِدُخُولِ الصَّحَفِيِّينَ إِلَى مِنْطَقَةِ النِّزَاعِ.",
+      "exampleBs": "Novinarima nije dozvoljeno ući u zonu sukoba.",
+      "exampleEn": "Journalists are not permitted to enter the conflict zone."
+    },
+    {
+      "arabic": "حَلَّلَ",
+      "root": "ح ل ل",
+      "type": "verb",
+      "bs": "analizirati",
+      "en": "to analyze",
+      "exampleArabic": "حَلَّلَ الْخَبِيرُ نَتَائِجَ الانْتِخَابَاتِ.",
+      "exampleBs": "Ekspert je analizirao rezultate izbora.",
+      "exampleEn": "The expert analyzed the election results."
+    },
+    {
+      "arabic": "انْتَقَدَ",
+      "root": "ن ق د",
+      "type": "verb",
+      "bs": "kritikovati",
+      "en": "to criticize",
+      "exampleArabic": "انْتَقَدَتِ الصَّحَافَةُ سِيَاسَةَ الْحُكُومَةِ.",
+      "exampleBs": "Novinari su kritizirali vladinu politiku.",
+      "exampleEn": "The press criticized the government's policy."
+    },
+    {
+      "arabic": "حَقَّقَ",
+      "root": "ح ق ق",
+      "type": "verb",
+      "bs": "istraživati, ispitivati",
+      "en": "to investigate",
+      "exampleArabic": "حَقَّقَ الصَّحَفِيُّ فِي قَضِيَّةِ الْفَسَادِ.",
+      "exampleBs": "Novinar je istraživao slučaj korupcije.",
+      "exampleEn": "The journalist investigated the corruption case."
+    },
+    {
+      "arabic": "كَشَفَ",
+      "root": "ك ش ف",
+      "type": "verb",
+      "bs": "otkriti, razotkriti",
+      "en": "to reveal, to expose",
+      "exampleArabic": "كَشَفَ التَّحْقِيقُ عَنْ وَثَائِقَ سِرِّيَّةٍ.",
+      "exampleBs": "Istraga je otkrila tajne dokumente.",
+      "exampleEn": "The investigation revealed secret documents."
+    },
+    {
+      "arabic": "اتَّهَمَ",
+      "root": "و ه م",
+      "type": "verb",
+      "bs": "optužiti",
+      "en": "to accuse",
+      "exampleArabic": "اتَّهَمَ الْمُعَارِضُونَ الْوَزِيرَ بِالْفَسَادِ.",
+      "exampleBs": "Oponenti su optužili ministra za korupciju.",
+      "exampleEn": "The opponents accused the minister of corruption."
+    },
+    {
+      "arabic": "نَفَى",
+      "root": "ن ف ي",
+      "type": "verb",
+      "bs": "negirati, poricati",
+      "en": "to deny",
+      "exampleArabic": "نَفَى الْمَسْؤُولُ التُّهَمَ الْمُوَجَّهَةَ إِلَيْهِ.",
+      "exampleBs": "Zvaničnik je zanijekao optužbe upućene njemu.",
+      "exampleEn": "The official denied the accusations directed at him."
+    },
+    {
+      "arabic": "تَفَاوَضَ",
+      "root": "ف و ض",
+      "type": "verb",
+      "bs": "pregovarati",
+      "en": "to negotiate",
+      "exampleArabic": "تَفَاوَضَتِ الأَطْرَافُ لِأَيَّامٍ قَبْلَ التَّوَصُّلِ إِلَى اتِّفَاقٍ.",
+      "exampleBs": "Strane su pregovarale danima prije postizanja dogovora.",
+      "exampleEn": "The parties negotiated for days before reaching an agreement."
+    },
+    {
+      "arabic": "الْمُرَاسِلُ الْحَرْبِيُّ",
+      "root": "ر س ل",
+      "type": "noun",
+      "bs": "ratni izvještač",
+      "en": "war correspondent",
+      "exampleArabic": "يَعْمَلُ الْمُرَاسِلُ الْحَرْبِيُّ فِي ظُرُوفٍ بَالِغَةِ الصُّعُوبَةِ.",
+      "exampleBs": "Ratni izvještač radi u izuzetno teškim uvjetima.",
+      "exampleEn": "The war correspondent works in extremely difficult conditions."
+    },
+    {
+      "arabic": "التَّغْطِيَةُ الإِعْلَامِيَّةُ",
+      "root": "غ ط و",
+      "type": "noun",
+      "bs": "medijsko praćenje",
+      "en": "media coverage",
+      "exampleArabic": "حَظِيَ الْحَدَثُ بِتَغْطِيَةٍ إِعْلَامِيَّةٍ وَاسِعَةٍ.",
+      "exampleBs": "Događaj je dobio široko medijsko praćenje.",
+      "exampleEn": "The event received extensive media coverage."
+    },
+    {
+      "arabic": "الْمَصْدَرُ",
+      "root": "ص د ر",
+      "type": "noun",
+      "bs": "izvor",
+      "en": "source",
+      "exampleArabic": "رَفَضَ الصَّحَفِيُّ الْكَشْفَ عَنْ مَصْدَرِهِ.",
+      "exampleBs": "Novinar je odbio otkriti svoj izvor.",
+      "exampleEn": "The journalist refused to reveal his source."
+    },
+    {
+      "arabic": "الدِّعَايَةُ",
+      "root": "د ع و",
+      "type": "noun",
+      "bs": "propaganda",
+      "en": "propaganda",
+      "exampleArabic": "حَذَّرَ الْخُبَرَاءُ مِنَ انْتِشَارِ الدِّعَايَةِ الْمُضَلِّلَةِ.",
+      "exampleBs": "Stručnjaci su upozorili na širenje obmanjujuće propagande.",
+      "exampleEn": "Experts warned of the spread of misleading propaganda."
+    },
+    {
+      "arabic": "الْمَعْلُومَاتُ الْمُضَلِّلَةُ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "dezinformacije",
+      "en": "disinformation, misinformation",
+      "exampleArabic": "تَنْتَشِرُ الْمَعْلُومَاتُ الْمُضَلِّلَةُ بِسُرْعَةٍ عَلَى وَسَائِلِ التَّوَاصُلِ.",
+      "exampleBs": "Dezinformacije se brzo šire na društvenim mrežama.",
+      "exampleEn": "Disinformation spreads quickly on social media."
+    },
+    {
+      "arabic": "التَّسْرِيبُ",
+      "root": "س ر ب",
+      "type": "noun",
+      "bs": "curenje informacija",
+      "en": "leak",
+      "exampleArabic": "أَثَارَ تَسْرِيبُ الْوَثَائِقِ جَدَلًا وَاسِعًا.",
+      "exampleBs": "Curenje dokumenata izazvalo je široku polemiku.",
+      "exampleEn": "The document leak sparked a wide controversy."
+    },
+    {
+      "arabic": "الشَّفَافِيَّةُ",
+      "root": "ش ف ف",
+      "type": "noun",
+      "bs": "transparentnost",
+      "en": "transparency",
+      "exampleArabic": "طَالَبَ الإِعْلَامُ بِمَزِيدٍ مِنَ الشَّفَافِيَّةِ.",
+      "exampleBs": "Mediji su zahtijevali veću transparentnost.",
+      "exampleEn": "The media demanded greater transparency."
+    },
+    {
+      "arabic": "الرَّأْيُ الْعَامُّ",
+      "root": "ر أ ي",
+      "type": "noun",
+      "bs": "javno mišljenje",
+      "en": "public opinion",
+      "exampleArabic": "تَأَثَّرَ الرَّأْيُ الْعَامُّ بِالتَّغْطِيَةِ الإِعْلَامِيَّةِ.",
+      "exampleBs": "Javno mišljenje je bilo pod utjecajem medijskog praćenja.",
+      "exampleEn": "Public opinion was influenced by media coverage."
+    },
+    {
+      "arabic": "اسْتَطْلَاعُ الرَّأْيِ",
+      "root": "ط ل ع",
+      "type": "noun",
+      "bs": "anketa javnog mnijenja",
+      "en": "opinion poll",
+      "exampleArabic": "كَشَفَ اسْتِطْلَاعُ الرَّأْيِ عَنِ انْخِفَاضِ شَعْبِيَّةِ الْحُكُومَةِ.",
+      "exampleBs": "Anketa je pokazala pad popularnosti vlade.",
+      "exampleEn": "The opinion poll revealed a drop in the government's popularity."
+    },
+    {
+      "arabic": "الأَجَنْدَةُ الإِعْلَامِيَّةُ",
+      "root": "ج ن د",
+      "type": "noun",
+      "bs": "medijska agenda",
+      "en": "media agenda",
+      "exampleArabic": "تُهَيْمِنُ الأَجَنْدَةُ الإِعْلَامِيَّةُ عَلَى النِّقَاشِ الْعَامِّ.",
+      "exampleBs": "Medijska agenda dominira javnom raspravom.",
+      "exampleEn": "The media agenda dominates public discussion."
+    },
+    {
+      "arabic": "الدِّبْلُومَاسِيَّةُ",
+      "root": "د ب ل",
+      "type": "noun",
+      "bs": "diplomatija",
+      "en": "diplomacy",
+      "exampleArabic": "لَجَأَتِ الدُّوَلُ إِلَى الدِّبْلُومَاسِيَّةِ لِحَلِّ النِّزَاعِ.",
+      "exampleBs": "Države su pribjegle diplomatiji za rješavanje sukoba.",
+      "exampleEn": "The states resorted to diplomacy to resolve the conflict."
+    },
+    {
+      "arabic": "الْعُمْلَةُ",
+      "root": "ع م ل",
+      "type": "noun",
+      "bs": "valuta",
+      "en": "currency",
+      "exampleArabic": "انْخَفَضَتْ قِيمَةُ الْعُمْلَةِ الْمَحَلِّيَّةِ أَمَامَ الدُّولَارِ.",
+      "exampleBs": "Vrijednost lokalne valute je pala u odnosu na dolar.",
+      "exampleEn": "The value of the local currency fell against the dollar."
+    },
+    {
+      "arabic": "الأَزْمَةُ الإِنْسَانِيَّةُ",
+      "root": "أ ز م",
+      "type": "noun",
+      "bs": "humanitarna kriza",
+      "en": "humanitarian crisis",
+      "exampleArabic": "دَعَتِ الأُمَمُ الْمُتَّحِدَةُ إِلَى التَّدَخُّلِ لِمُعَالَجَةِ الأَزْمَةِ الإِنْسَانِيَّةِ.",
+      "exampleBs": "Ujedinjene nacije su pozvale na intervenciju radi rješavanja humanitarne krize.",
+      "exampleEn": "The United Nations called for intervention to address the humanitarian crisis."
+    },
+    {
+      "arabic": "الاتِّفَاقُ",
+      "root": "و ف ق",
+      "type": "noun",
+      "bs": "dogovor, sporazum",
+      "en": "agreement, accord",
+      "exampleArabic": "تَوَصَّلَتِ الأَطْرَافُ إِلَى اتِّفَاقٍ بَعْدَ مُفَاوَضَاتٍ مُضْنِيَةٍ.",
+      "exampleBs": "Strane su postigle sporazum nakon iscrpnih pregovora.",
+      "exampleEn": "The parties reached an agreement after exhausting negotiations."
+    },
+    {
+      "arabic": "فَنَّدَ",
+      "root": "ف ن د",
+      "type": "verb",
+      "bs": "pobiti, opovrgnuti",
+      "en": "to refute, to debunk",
+      "exampleArabic": "فَنَّدَ الْخَبِيرُ الادِّعَاءَاتِ الْكَاذِبَةَ.",
+      "exampleBs": "Ekspert je pobio lažne tvrdnje.",
+      "exampleEn": "The expert refuted the false claims."
+    },
+    {
+      "arabic": "صَرَّحَ",
+      "root": "ص ر ح",
+      "type": "verb",
+      "bs": "izjaviti",
+      "en": "to declare, to state",
+      "exampleArabic": "صَرَّحَ الْوَزِيرُ بِأَنَّ الاقْتِصَادَ فِي تَعَافٍ.",
+      "exampleBs": "Ministar je izjavio da je ekonomija u oporavku.",
+      "exampleEn": "The minister declared that the economy is in recovery."
+    },
+    {
+      "arabic": "تَدَاوَلَ",
+      "root": "د و ل",
+      "type": "verb",
+      "bs": "dijeliti, proslijediti",
+      "en": "to circulate, to share",
+      "exampleArabic": "تَدَاوَلَ الْمُوَاطِنُونَ الْخَبَرَ عَبْرَ وَسَائِلِ التَّوَاصُلِ.",
+      "exampleBs": "Građani su dijelili vijest putem društvenih mreža.",
+      "exampleEn": "Citizens circulated the news through social media."
+    },
+    {
+      "arabic": "وَثَّقَ",
+      "root": "و ث ق",
+      "type": "verb",
+      "bs": "dokumentovati",
+      "en": "to document",
+      "exampleArabic": "وَثَّقَ الْمُرَاسِلُ الأَحْدَاثَ بِالصُّوَرِ وَالتَّقَارِيرِ.",
+      "exampleBs": "Dopisnik je dokumentovao događaje fotografijama i izvještajima.",
+      "exampleEn": "The correspondent documented the events with photos and reports."
+    },
+    {
+      "arabic": "سَرَّبَ",
+      "root": "س ر ب",
+      "type": "verb",
+      "bs": "procuriti, odati",
+      "en": "to leak",
+      "exampleArabic": "سَرَّبَ مَصْدَرٌ مَجْهُولٌ الْوَثَائِقَ إِلَى الصَّحَافَةِ.",
+      "exampleBs": "Nepoznati izvor je procurio dokumente u štampu.",
+      "exampleEn": "An anonymous source leaked the documents to the press."
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "id": "b1-finance",
+  "title": "Finance & Economy",
+  "titleAr": "الاقْتِصَادُ وَالْمَالُ",
+  "level": "B1",
+  "topic": "finance",
+  "words": [
+    {
+      "arabic": "الْمَالُ",
+      "root": "م و ل",
+      "type": "noun",
+      "bs": "novac, sredstva",
+      "en": "money, funds",
+      "exampleArabic": "لَا يَكْفِي الْمَالُ لِشِرَاءِ السَّعَادَةِ.",
+      "exampleBs": "Novac nije dovoljan da kupi sreću.",
+      "exampleEn": "Money is not enough to buy happiness."
+    },
+    {
+      "arabic": "السِّعْرُ",
+      "root": "س ع ر",
+      "type": "noun",
+      "bs": "cijena",
+      "en": "price",
+      "exampleArabic": "مَا هُوَ سِعْرُ هَذِهِ السِّلْعَةِ؟",
+      "exampleBs": "Koja je cijena ovog artikla?",
+      "exampleEn": "What is the price of this item?"
+    },
+    {
+      "arabic": "التَّكْلِفَةُ",
+      "root": "ك ل ف",
+      "type": "noun",
+      "bs": "trošak, cijena koštanja",
+      "en": "cost, expense",
+      "exampleArabic": "تَكْلِفَةُ الْإِيجَارِ مُرْتَفِعَةٌ هَذَا الشَّهْرَ.",
+      "exampleBs": "Trošak najma je visok ovog mjeseca.",
+      "exampleEn": "The cost of rent is high this month."
+    },
+    {
+      "arabic": "الرَّاتِبُ",
+      "root": "ر ت ب",
+      "type": "noun",
+      "bs": "plata, plaća",
+      "en": "salary, wage",
+      "exampleArabic": "يَتَقَاضَى مُوَظَّفُو الشَّرِكَةِ رَاتِبًا شَهْرِيًّا.",
+      "exampleBs": "Zaposlenici kompanije primaju mjesečnu platu.",
+      "exampleEn": "The company employees receive a monthly salary."
+    },
+    {
+      "arabic": "الْمِيزَانِيَّةُ",
+      "root": "و ز ن",
+      "type": "noun",
+      "bs": "budžet, proračun",
+      "en": "budget",
+      "exampleArabic": "يَجِبُ أَنْ نَلْتَزِمَ بِالْمِيزَانِيَّةِ الْمُحَدَّدَةِ.",
+      "exampleBs": "Moramo se pridržavati utvrđenog budžeta.",
+      "exampleEn": "We must stick to the specified budget."
+    },
+    {
+      "arabic": "الْمُدَّخَرَاتُ",
+      "root": "ذ خ ر",
+      "type": "noun",
+      "bs": "uštedjevina, štednja",
+      "en": "savings",
+      "exampleArabic": "وَضَعَتِ الْأُسْرَةُ مُدَّخَرَاتِهَا فِي الْبَنْكِ.",
+      "exampleBs": "Porodica je stavila svoju uštedjevinu u banku.",
+      "exampleEn": "The family deposited their savings in the bank."
+    },
+    {
+      "arabic": "الدَّيْنُ",
+      "root": "د ي ن",
+      "type": "noun",
+      "bs": "dug",
+      "en": "debt",
+      "exampleArabic": "سَدَّدَ الدَّيْنَ بَعْدَ سَنَةٍ كَامِلَةٍ.",
+      "exampleBs": "Isplatio je dug nakon cijele godine.",
+      "exampleEn": "He paid off the debt after a full year."
+    },
+    {
+      "arabic": "الْقَرْضُ",
+      "root": "ق ر ض",
+      "type": "noun",
+      "bs": "kredit, zajam",
+      "en": "loan",
+      "exampleArabic": "طَلَبَتِ الشَّرِكَةُ قَرْضًا مِنَ الْبَنْكِ.",
+      "exampleBs": "Kompanija je zatražila kredit od banke.",
+      "exampleEn": "The company requested a loan from the bank."
+    },
+    {
+      "arabic": "الضَّرِيبَةُ",
+      "root": "ض ر ب",
+      "type": "noun",
+      "bs": "porez",
+      "en": "tax",
+      "exampleArabic": "تَجِبُ عَلَيْكَ دَفْعُ الضَّرِيبَةِ فِي مَوْعِدِهَا.",
+      "exampleBs": "Morate platiti porez na vrijeme.",
+      "exampleEn": "You must pay the tax on time."
+    },
+    {
+      "arabic": "الْخَصْمُ",
+      "root": "خ ص م",
+      "type": "noun",
+      "bs": "popust, rabat",
+      "en": "discount",
+      "exampleArabic": "حَصَلْتُ عَلَى خَصْمٍ بِنِسْبَةِ عِشْرِينَ بِالْمِئَةِ.",
+      "exampleBs": "Dobio sam popust od dvadeset posto.",
+      "exampleEn": "I got a discount of twenty percent."
+    },
+    {
+      "arabic": "الرِّبْحُ",
+      "root": "ر ب ح",
+      "type": "noun",
+      "bs": "zarada, dobit",
+      "en": "profit, gain",
+      "exampleArabic": "حَقَّقَتِ الشَّرِكَةُ رِبْحًا كَبِيرًا هَذَا الْعَامَ.",
+      "exampleBs": "Kompanija je ostvarila veliku dobit ove godine.",
+      "exampleEn": "The company achieved a large profit this year."
+    },
+    {
+      "arabic": "الْخَسَارَةُ",
+      "root": "خ س ر",
+      "type": "noun",
+      "bs": "gubitak",
+      "en": "loss",
+      "exampleArabic": "تَكَبَّدَ التَّاجِرُ خَسَارَةً فَادِحَةً.",
+      "exampleBs": "Trgovac je pretrpio veliki gubitak.",
+      "exampleEn": "The merchant suffered a heavy loss."
+    },
+    {
+      "arabic": "الْبَنْكُ",
+      "root": "ب ن ك",
+      "type": "noun",
+      "bs": "banka",
+      "en": "bank",
+      "exampleArabic": "أَفْتَحُ حِسَابًا فِي الْبَنْكِ غَدًا.",
+      "exampleBs": "Sutra otvaram račun u banci.",
+      "exampleEn": "I am opening an account at the bank tomorrow."
+    },
+    {
+      "arabic": "الْحِسَابُ",
+      "root": "ح س ب",
+      "type": "noun",
+      "bs": "račun, konto",
+      "en": "account",
+      "exampleArabic": "رَصِيدُ حِسَابِي قَلِيلٌ هَذَا الشَّهْرَ.",
+      "exampleBs": "Stanje na mom računu je malo ovog mjeseca.",
+      "exampleEn": "My account balance is low this month."
+    },
+    {
+      "arabic": "الْبِطَاقَةُ",
+      "root": "ب ط ق",
+      "type": "noun",
+      "bs": "kartica",
+      "en": "card",
+      "exampleArabic": "هَلْ تَقْبَلُونَ الدَّفْعَ بِالْبِطَاقَةِ؟",
+      "exampleBs": "Prihvatate li plaćanje karticom?",
+      "exampleEn": "Do you accept payment by card?"
+    },
+    {
+      "arabic": "الصِّرَافُ الْآلِيُّ",
+      "root": "ص ر ف",
+      "type": "noun",
+      "bs": "bankomat",
+      "en": "ATM, cash machine",
+      "exampleArabic": "سَحَبْتُ النَّقْدَ مِنَ الصِّرَافِ الْآلِيِّ.",
+      "exampleBs": "Podigao sam gotovinu s bankomata.",
+      "exampleEn": "I withdrew cash from the ATM."
+    },
+    {
+      "arabic": "التَّحْوِيلُ",
+      "root": "ح و ل",
+      "type": "noun",
+      "bs": "prijenos, transfer",
+      "en": "transfer",
+      "exampleArabic": "أَرْسَلْتُ الْمَبْلَغَ عَبْرَ التَّحْوِيلِ الْبَنْكِيِّ.",
+      "exampleBs": "Poslao sam iznos putem bankovnog transfera.",
+      "exampleEn": "I sent the amount via bank transfer."
+    },
+    {
+      "arabic": "الْإِيدَاعُ",
+      "root": "و د ع",
+      "type": "noun",
+      "bs": "uplata, depozit",
+      "en": "deposit",
+      "exampleArabic": "قُمْتُ بِإِيدَاعِ الرَّاتِبِ فِي الْحِسَابِ.",
+      "exampleBs": "Uplatila sam platu na račun.",
+      "exampleEn": "I deposited the salary into the account."
+    },
+    {
+      "arabic": "السَّحْبُ",
+      "root": "س ح ب",
+      "type": "noun",
+      "bs": "isplata, podizanje",
+      "en": "withdrawal",
+      "exampleArabic": "الْحَدُّ الْيَوْمِيُّ لِلسَّحْبِ هُوَ أَلْفُ دِرْهَمٍ.",
+      "exampleBs": "Dnevni limit podizanja je hiljadu dirhama.",
+      "exampleEn": "The daily withdrawal limit is one thousand dirhams."
+    },
+    {
+      "arabic": "الْفَائِدَةُ",
+      "root": "ف ي د",
+      "type": "noun",
+      "bs": "kamata, korist",
+      "en": "interest (banking)",
+      "exampleArabic": "تَفْرِضُ بَعْضُ الْبُنُوكِ فَائِدَةً عَلَى الْقُرُوضِ.",
+      "exampleBs": "Neke banke naplaćuju kamatu na kredite.",
+      "exampleEn": "Some banks charge interest on loans."
+    },
+    {
+      "arabic": "الدُّكَّانُ",
+      "root": "د ك ن",
+      "type": "noun",
+      "bs": "dućan, prodavnica",
+      "en": "shop, store",
+      "exampleArabic": "يَفْتَحُ الدُّكَّانُ فِي التَّاسِعَةِ صَبَاحًا.",
+      "exampleBs": "Prodavnica se otvara u devet ujutro.",
+      "exampleEn": "The shop opens at nine in the morning."
+    },
+    {
+      "arabic": "السُّوقُ",
+      "root": "س و ق",
+      "type": "noun",
+      "bs": "tržnica, pijaca, tržište",
+      "en": "market, bazaar",
+      "exampleArabic": "اشْتَرَيْتُ الْخُضَارَ مِنَ السُّوقِ الشَّعْبِيِّ.",
+      "exampleBs": "Kupio sam povrće na narodnoj pijaci.",
+      "exampleEn": "I bought vegetables from the local market."
+    },
+    {
+      "arabic": "الْإِيصَالُ",
+      "root": "و ص ل",
+      "type": "noun",
+      "bs": "priznanica, račun (dokument)",
+      "en": "receipt",
+      "exampleArabic": "احْتَفِظْ بِالْإِيصَالِ لِإِمْكَانِيَّةِ الِاسْتِبْدَالِ.",
+      "exampleBs": "Sačuvaj priznanicu radi mogućnosti zamjene.",
+      "exampleEn": "Keep the receipt for the possibility of exchange."
+    },
+    {
+      "arabic": "الْفَاتُورَةُ",
+      "root": "ف ت ر",
+      "type": "noun",
+      "bs": "faktura, račun",
+      "en": "invoice, bill",
+      "exampleArabic": "أَرْسَلَ الْمَوْرِدُ الْفَاتُورَةَ بِالْبَرِيدِ الْإِلِكْتِرُونِيِّ.",
+      "exampleBs": "Dobavljač je poslao fakturu e-poštom.",
+      "exampleEn": "The supplier sent the invoice by email."
+    },
+    {
+      "arabic": "الشِّرَاءُ",
+      "root": "ش ر ي",
+      "type": "noun",
+      "bs": "kupovina, nabavka",
+      "en": "purchase, buying",
+      "exampleArabic": "أَتَمَّ الشِّرَاءَ بَعْدَ الْمُوَافَقَةِ عَلَى السِّعْرِ.",
+      "exampleBs": "Završio je kupovinu nakon što se složio s cijenom.",
+      "exampleEn": "He completed the purchase after agreeing on the price."
+    },
+    {
+      "arabic": "الْبَيْعُ",
+      "root": "ب ي ع",
+      "type": "noun",
+      "bs": "prodaja",
+      "en": "sale, selling",
+      "exampleArabic": "بَدَأَ الْبَيْعُ فِي الصَّبَاحِ الْبَاكِرِ.",
+      "exampleBs": "Prodaja je počela rano ujutro.",
+      "exampleEn": "The sale began early in the morning."
+    },
+    {
+      "arabic": "الدَّفْعُ",
+      "root": "د ف ع",
+      "type": "noun",
+      "bs": "plaćanje",
+      "en": "payment",
+      "exampleArabic": "يُمْكِنُ الدَّفْعُ نَقْدًا أَوْ بِالْبِطَاقَةِ.",
+      "exampleBs": "Može se platiti gotovinom ili karticom.",
+      "exampleEn": "Payment can be made in cash or by card."
+    },
+    {
+      "arabic": "النَّقْدُ",
+      "root": "ن ق د",
+      "type": "noun",
+      "bs": "gotovina",
+      "en": "cash",
+      "exampleArabic": "أُفَضِّلُ الدَّفْعَ بِالنَّقْدِ فِي هَذِهِ الْحَالَةِ.",
+      "exampleBs": "Preferiram plaćanje gotovinom u ovom slučaju.",
+      "exampleEn": "I prefer paying in cash in this case."
+    },
+    {
+      "arabic": "الْبَاقِي",
+      "root": "ب ق ي",
+      "type": "noun",
+      "bs": "kusur, ostatak",
+      "en": "change (money returned)",
+      "exampleArabic": "نَسِيتَ أَنْ تَأْخُذَ الْبَاقِيَ مِنَ الصُّنْدُوقِ.",
+      "exampleBs": "Zaboravio si uzeti kusur od blagajne.",
+      "exampleEn": "You forgot to take the change from the register."
+    },
+    {
+      "arabic": "الِاقْتِصَادُ",
+      "root": "ق ص د",
+      "type": "noun",
+      "bs": "ekonomija, privreda",
+      "en": "economy",
+      "exampleArabic": "يَنْمُو الِاقْتِصَادُ الْوَطَنِيُّ بِشَكْلٍ مُطَّرِدٍ.",
+      "exampleBs": "Nacionalna ekonomija raste postojano.",
+      "exampleEn": "The national economy is growing steadily."
+    },
+    {
+      "arabic": "التِّجَارَةُ",
+      "root": "ت ج ر",
+      "type": "noun",
+      "bs": "trgovina",
+      "en": "trade, commerce",
+      "exampleArabic": "التِّجَارَةُ الدَّوْلِيَّةُ تُعَزِّزُ النُّمُوَّ الِاقْتِصَادِيَّ.",
+      "exampleBs": "Međunarodna trgovina potiče ekonomski rast.",
+      "exampleEn": "International trade promotes economic growth."
+    },
+    {
+      "arabic": "الِاسْتِيرَادُ",
+      "root": "و ر د",
+      "type": "noun",
+      "bs": "uvoz",
+      "en": "import",
+      "exampleArabic": "يَزِيدُ الِاسْتِيرَادُ عَلَى التَّصْدِيرِ هَذَا الْعَامَ.",
+      "exampleBs": "Uvoz premašuje izvoz ove godine.",
+      "exampleEn": "Imports exceed exports this year."
+    },
+    {
+      "arabic": "التَّصْدِيرُ",
+      "root": "ص د ر",
+      "type": "noun",
+      "bs": "izvoz",
+      "en": "export",
+      "exampleArabic": "ارْتَفَعَ التَّصْدِيرُ النَّفْطِيُّ بِنِسْبَةٍ كَبِيرَةٍ.",
+      "exampleBs": "Izvoz nafte je značajno porastao.",
+      "exampleEn": "Oil exports rose by a significant percentage."
+    },
+    {
+      "arabic": "الْبَضَائِعُ",
+      "root": "ب ض ع",
+      "type": "noun",
+      "bs": "roba, proizvodi",
+      "en": "goods, merchandise",
+      "exampleArabic": "وَصَلَتِ الْبَضَائِعُ إِلَى الْمُسْتَوْدَعِ أَمْسِ.",
+      "exampleBs": "Roba je stigla u skladište juče.",
+      "exampleEn": "The goods arrived at the warehouse yesterday."
+    },
+    {
+      "arabic": "الْخِدْمَاتُ",
+      "root": "خ د م",
+      "type": "noun",
+      "bs": "usluge",
+      "en": "services",
+      "exampleArabic": "تُقَدِّمُ الشَّرِكَةُ خِدْمَاتٍ مَالِيَّةً مُتَنَوِّعَةً.",
+      "exampleBs": "Kompanija pruža raznovrsne finansijske usluge.",
+      "exampleEn": "The company provides various financial services."
+    },
+    {
+      "arabic": "ارْتِفَاعُ الأَسْعَارِ",
+      "root": "ر ف ع",
+      "type": "phrase",
+      "bs": "porast cijena",
+      "en": "price rise, price increase",
+      "exampleArabic": "يُعَانِي الْمُوَاطِنُونَ مِنِ ارْتِفَاعِ الأَسْعَارِ.",
+      "exampleBs": "Građani pate od porasta cijena.",
+      "exampleEn": "Citizens are suffering from the rise in prices."
+    },
+    {
+      "arabic": "الْمُنَافَسَةُ",
+      "root": "ن ف س",
+      "type": "noun",
+      "bs": "konkurencija, takmičenje",
+      "en": "competition",
+      "exampleArabic": "الْمُنَافَسَةُ فِي السُّوقِ تُحَسِّنُ جَوْدَةَ الْمُنْتَجَاتِ.",
+      "exampleBs": "Konkurencija na tržištu poboljšava kvalitet proizvoda.",
+      "exampleEn": "Competition in the market improves product quality."
+    },
+    {
+      "arabic": "اشْتَرَى",
+      "root": "ش ر ي",
+      "type": "verb",
+      "bs": "kupiti, kupovati",
+      "en": "to buy, to purchase",
+      "exampleArabic": "اشْتَرَى أَخِي سَيَّارَةً جَدِيدَةً أَمْسِ.",
+      "exampleBs": "Moj brat je kupio novi auto juče.",
+      "exampleEn": "My brother bought a new car yesterday."
+    },
+    {
+      "arabic": "بَاعَ",
+      "root": "ب ي ع",
+      "type": "verb",
+      "bs": "prodati, prodavati",
+      "en": "to sell",
+      "exampleArabic": "بَاعَ التَّاجِرُ بَضَاعَتَهُ بِسُرْعَةٍ.",
+      "exampleBs": "Trgovac je brzo prodao svoju robu.",
+      "exampleEn": "The merchant sold his goods quickly."
+    },
+    {
+      "arabic": "دَفَعَ",
+      "root": "د ف ع",
+      "type": "verb",
+      "bs": "platiti, plaćati",
+      "en": "to pay",
+      "exampleArabic": "دَفَعَتِ الشَّرِكَةُ رَوَاتِبَ الْمُوَظَّفِينَ فِي الْمَوْعِدِ.",
+      "exampleBs": "Kompanija je isplatila plaće zaposlenika na vrijeme.",
+      "exampleEn": "The company paid the employees' salaries on time."
+    },
+    {
+      "arabic": "ادَّخَرَ",
+      "root": "ذ خ ر",
+      "type": "verb",
+      "bs": "štediti, uštediti",
+      "en": "to save (money)",
+      "exampleArabic": "يَدَّخِرُ كُلَّ شَهْرٍ جُزْءًا مِنْ رَاتِبِهِ.",
+      "exampleBs": "Svaki mjesec uštedi dio svoje plaće.",
+      "exampleEn": "He saves part of his salary every month."
+    },
+    {
+      "arabic": "اسْتَثْمَرَ",
+      "root": "ث م ر",
+      "type": "verb",
+      "bs": "investirati, ulagati",
+      "en": "to invest",
+      "exampleArabic": "قَرَّرَ أَنْ يَسْتَثْمِرَ مُدَّخَرَاتِهِ فِي مَشْرُوعٍ حَلَالٍ.",
+      "exampleBs": "Odlučio je uložiti svoju uštedjevinu u halal projekat.",
+      "exampleEn": "He decided to invest his savings in a halal project."
+    },
+    {
+      "arabic": "اقْتَرَضَ",
+      "root": "ق ر ض",
+      "type": "verb",
+      "bs": "posuditi, uzeti zajam",
+      "en": "to borrow",
+      "exampleArabic": "اقْتَرَضَ الْمَبْلَغَ مِنْ صَدِيقِهِ دُونَ فَائِدَةٍ.",
+      "exampleBs": "Posudio je iznos od prijatelja bez kamate.",
+      "exampleEn": "He borrowed the amount from his friend without interest."
+    },
+    {
+      "arabic": "أَنْفَقَ",
+      "root": "ن ف ق",
+      "type": "verb",
+      "bs": "potrošiti, trošiti",
+      "en": "to spend",
+      "exampleArabic": "أَنْفَقَ كُلَّ مُدَّخَرَاتِهِ فِي شَهْرٍ وَاحِدٍ.",
+      "exampleBs": "Potrošio je svu svoju uštedjevinu za jedan mjesec.",
+      "exampleEn": "He spent all his savings in one month."
+    },
+    {
+      "arabic": "حَسَبَ",
+      "root": "ح س ب",
+      "type": "verb",
+      "bs": "izračunati, obračunati",
+      "en": "to calculate, to compute",
+      "exampleArabic": "حَسَبَ الْمُحَاسِبُ مَصَارِيفَ الشَّهْرِ بِدِقَّةٍ.",
+      "exampleBs": "Računovođa je tačno izračunao troškove za ovaj mjesec.",
+      "exampleEn": "The accountant carefully calculated the month's expenses."
+    },
+    {
+      "arabic": "اسْتَطَاعَ الدَّفْعَ",
+      "root": "ط و ع",
+      "type": "phrase",
+      "bs": "priuštiti si, moći platiti",
+      "en": "to afford, to be able to pay",
+      "exampleArabic": "لَا أَسْتَطِيعُ الدَّفْعَ لِهَذَا الْمَنْتَجِ الآنَ.",
+      "exampleBs": "Ne mogu si priuštiti ovaj proizvod sada.",
+      "exampleEn": "I cannot afford this product right now."
+    }
+  ]
+}

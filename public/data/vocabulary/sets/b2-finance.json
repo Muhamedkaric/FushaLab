@@ -1,0 +1,539 @@
+{
+  "id": "b2-finance",
+  "title": "Finance & Economy",
+  "titleAr": "الاقْتِصَادُ وَالْمَالُ",
+  "level": "B2",
+  "topic": "finance",
+  "words": [
+    {
+      "arabic": "الرِّبَا",
+      "root": "ر ب و",
+      "type": "noun",
+      "bs": "kamata, lihvarstvo (zabranjeno u islamu)",
+      "en": "usury, interest (prohibited in Islam)",
+      "exampleArabic": "حَرَّمَ الْإِسْلَامُ الرِّبَا فِي جَمِيعِ صُوَرِهِ.",
+      "exampleBs": "Islam je zabranio kamatu u svim njenim oblicima.",
+      "exampleEn": "Islam has prohibited usury in all its forms."
+    },
+    {
+      "arabic": "الْمُرَابَحَةُ",
+      "root": "ر ب ح",
+      "type": "noun",
+      "bs": "murabaha (islamski finansijski instrument)",
+      "en": "murabaha (cost-plus Islamic financing)",
+      "exampleArabic": "الْمُرَابَحَةُ بَدِيلٌ إِسْلَامِيٌّ مَشْرُوعٌ عَنِ الْقَرْضِ بِالْفَائِدَةِ.",
+      "exampleBs": "Murabaha je legitiman islamski alternativ kamatnom kreditu.",
+      "exampleEn": "Murabaha is a lawful Islamic alternative to interest-based lending."
+    },
+    {
+      "arabic": "الصُّكُوكُ",
+      "root": "ص ك ك",
+      "type": "noun",
+      "bs": "sukuk (islamske obveznice)",
+      "en": "sukuk (Islamic bonds)",
+      "exampleArabic": "تُصْدِرُ الْحُكُومَةُ صُكُوكًا لِتَمْوِيلِ الْمَشَارِيعِ الْكُبْرَى.",
+      "exampleBs": "Vlada izdaje sukuke za finansiranje velikih projekata.",
+      "exampleEn": "The government issues sukuk to finance major projects."
+    },
+    {
+      "arabic": "الزَّكَاةُ",
+      "root": "ز ك و",
+      "type": "noun",
+      "bs": "zekat (obavezna islamska milostinja)",
+      "en": "zakat (obligatory Islamic almsgiving)",
+      "exampleArabic": "تَجِبُ الزَّكَاةُ عَلَى كُلِّ مُسْلِمٍ بَلَغَ مَالُهُ النِّصَابَ.",
+      "exampleBs": "Zekat je obavezan za svakog muslimana čiji imetak dosegne nisab.",
+      "exampleEn": "Zakat is obligatory for every Muslim whose wealth reaches the nisab threshold."
+    },
+    {
+      "arabic": "النِّصَابُ",
+      "root": "ن ص ب",
+      "type": "noun",
+      "bs": "nisab (prag za obavezu zekata)",
+      "en": "nisab (minimum threshold for zakat obligation)",
+      "exampleArabic": "يُحَدَّدُ النِّصَابُ وِفْقًا لِقِيمَةِ الذَّهَبِ أَوِ الْفِضَّةِ.",
+      "exampleBs": "Nisab se određuje prema vrijednosti zlata ili srebra.",
+      "exampleEn": "The nisab is determined according to the value of gold or silver."
+    },
+    {
+      "arabic": "الْوَقْفُ",
+      "root": "و ق ف",
+      "type": "noun",
+      "bs": "vakuf (islamska zadužbina)",
+      "en": "waqf (Islamic endowment)",
+      "exampleArabic": "أَوْقَفَ الثَّرِيُّ أَرَاضِيَهُ وَقْفًا لِلتَّعْلِيمِ.",
+      "exampleBs": "Bogataš je posvetio svoja imanja vakufom za obrazovanje.",
+      "exampleEn": "The wealthy man endowed his land as a waqf for education."
+    },
+    {
+      "arabic": "الِاسْتِثْمَارُ الْحَلَالُ",
+      "root": "ث م ر",
+      "type": "phrase",
+      "bs": "halal ulaganje",
+      "en": "halal investment",
+      "exampleArabic": "يَبْحَثُ الْمُسْلِمُونَ عَنْ فُرَصِ الِاسْتِثْمَارِ الْحَلَالِ.",
+      "exampleBs": "Muslimani traže prilike za halal ulaganje.",
+      "exampleEn": "Muslims seek halal investment opportunities."
+    },
+    {
+      "arabic": "الْمَصْرِفِيَّةُ الْإِسْلَامِيَّةُ",
+      "root": "ص ر ف",
+      "type": "phrase",
+      "bs": "islamsko bankarstvo",
+      "en": "Islamic banking",
+      "exampleArabic": "تَنْمُو الْمَصْرِفِيَّةُ الْإِسْلَامِيَّةُ بِسُرْعَةٍ فِي الدُّوَلِ الْخَلِيجِيَّةِ.",
+      "exampleBs": "Islamsko bankarstvo brzo raste u zemljama Zaljeva.",
+      "exampleEn": "Islamic banking is growing rapidly in the Gulf states."
+    },
+    {
+      "arabic": "النَّاتِجُ الْمَحَلِّيُّ الْإِجْمَالِيُّ",
+      "root": "ن ت ج",
+      "type": "phrase",
+      "bs": "bruto domaći proizvod (BDP)",
+      "en": "gross domestic product (GDP)",
+      "exampleArabic": "ارْتَفَعَ النَّاتِجُ الْمَحَلِّيُّ الْإِجْمَالِيُّ بِنِسْبَةِ ثَلَاثَةٍ بِالْمِئَةِ.",
+      "exampleBs": "Bruto domaći proizvod je porastao za tri posto.",
+      "exampleEn": "The gross domestic product rose by three percent."
+    },
+    {
+      "arabic": "التَّضَخُّمُ",
+      "root": "ض خ م",
+      "type": "noun",
+      "bs": "inflacija",
+      "en": "inflation",
+      "exampleArabic": "أَدَّى التَّضَخُّمُ إِلَى تَرَاجُعِ الْقُدْرَةِ الشِّرَائِيَّةِ.",
+      "exampleBs": "Inflacija je dovela do smanjenja kupovne moći.",
+      "exampleEn": "Inflation led to a decline in purchasing power."
+    },
+    {
+      "arabic": "السِّيَاسَةُ النَّقْدِيَّةُ",
+      "root": "س ي س",
+      "type": "phrase",
+      "bs": "monetarna politika",
+      "en": "monetary policy",
+      "exampleArabic": "تَتَّبِعُ الْحُكُومَةُ سِيَاسَةً نَقْدِيَّةً مُحَافِظَةً.",
+      "exampleBs": "Vlada slijedi konzervativnu monetarnu politiku.",
+      "exampleEn": "The government follows a conservative monetary policy."
+    },
+    {
+      "arabic": "السِّيَاسَةُ الْمَالِيَّةُ",
+      "root": "س ي س",
+      "type": "phrase",
+      "bs": "fiskalna politika",
+      "en": "fiscal policy",
+      "exampleArabic": "تَسْتَهْدِفُ السِّيَاسَةُ الْمَالِيَّةُ تَحْقِيقَ التَّوَازُنِ فِي الْمِيزَانِيَّةِ.",
+      "exampleBs": "Fiskalna politika ima za cilj ostvarenje budžetske ravnoteže.",
+      "exampleEn": "Fiscal policy aims to achieve balance in the budget."
+    },
+    {
+      "arabic": "سِعْرُ الْفَائِدَةِ",
+      "root": "س ع ر",
+      "type": "phrase",
+      "bs": "kamatna stopa",
+      "en": "interest rate",
+      "exampleArabic": "رَفَعَ الْبَنْكُ الْمَرْكَزِيُّ سِعْرَ الْفَائِدَةِ لِمُكَافَحَةِ التَّضَخُّمِ.",
+      "exampleBs": "Centralna banka je podigla kamatnu stopu kako bi suzbila inflaciju.",
+      "exampleEn": "The central bank raised the interest rate to combat inflation."
+    },
+    {
+      "arabic": "سِعْرُ الصَّرْفِ",
+      "root": "ص ر ف",
+      "type": "phrase",
+      "bs": "kurs razmjene, devizni kurs",
+      "en": "exchange rate",
+      "exampleArabic": "تَأَثَّرَتِ الصَّادِرَاتُ بِتَقَلُّبَاتِ سِعْرِ الصَّرْفِ.",
+      "exampleBs": "Na izvoz su utjecale fluktuacije deviznog kursa.",
+      "exampleEn": "Exports were affected by fluctuations in the exchange rate."
+    },
+    {
+      "arabic": "الْمِيزَانُ التِّجَارِيُّ",
+      "root": "و ز ن",
+      "type": "phrase",
+      "bs": "trgovinska bilanca",
+      "en": "trade balance",
+      "exampleArabic": "سَجَّلَتِ الدَّوْلَةُ عَجْزًا فِي مِيزَانِهَا التِّجَارِيِّ.",
+      "exampleBs": "Zemlja je zabilježila deficit u svojoj trgovinskoj bilanci.",
+      "exampleEn": "The country recorded a deficit in its trade balance."
+    },
+    {
+      "arabic": "الرَّكُودُ الِاقْتِصَادِيُّ",
+      "root": "ر ك د",
+      "type": "phrase",
+      "bs": "ekonomska recesija, privredni zastoj",
+      "en": "economic recession",
+      "exampleArabic": "تَعَانِي كَثِيرٌ مِنَ الدُّوَلِ مِنَ الرَّكُودِ الِاقْتِصَادِيِّ.",
+      "exampleBs": "Mnoge zemlje pate od ekonomske recesije.",
+      "exampleEn": "Many countries are suffering from economic recession."
+    },
+    {
+      "arabic": "التَّقَشُّفُ",
+      "root": "ق ش ف",
+      "type": "noun",
+      "bs": "štednja, mjere štednje",
+      "en": "austerity",
+      "exampleArabic": "فَرَضَتِ الْحُكُومَةُ سِيَاسَاتِ التَّقَشُّفِ لِتَقْلِيصِ الْعَجْزِ.",
+      "exampleBs": "Vlada je uvela mjere štednje kako bi smanjila deficit.",
+      "exampleEn": "The government imposed austerity measures to reduce the deficit."
+    },
+    {
+      "arabic": "الأَسْهُمُ",
+      "root": "س ه م",
+      "type": "noun",
+      "bs": "dionice, akcije",
+      "en": "stocks, shares",
+      "exampleArabic": "اشْتَرَى مَجْمُوعَةً مِنَ الأَسْهُمِ فِي شَرِكَاتٍ حَلَالٍ.",
+      "exampleBs": "Kupio je paket dionica u halal kompanijama.",
+      "exampleEn": "He bought a set of shares in halal companies."
+    },
+    {
+      "arabic": "السَّنَدَاتُ",
+      "root": "س ن د",
+      "type": "noun",
+      "bs": "obveznice",
+      "en": "bonds",
+      "exampleArabic": "تُعَدُّ السَّنَدَاتُ الْحُكُومِيَّةُ مِنْ أَكْثَرِ الأَدَوَاتِ الْمَالِيَّةِ أَمَانًا.",
+      "exampleBs": "Državne obveznice smatraju se jednim od najsigurnijih finansijskih instrumenata.",
+      "exampleEn": "Government bonds are considered among the safest financial instruments."
+    },
+    {
+      "arabic": "الْمَحْفَظَةُ الِاسْتِثْمَارِيَّةُ",
+      "root": "ح ف ظ",
+      "type": "phrase",
+      "bs": "investicioni portfolio",
+      "en": "investment portfolio",
+      "exampleArabic": "يَتَضَمَّنُ الْمَحْفَظَةُ الِاسْتِثْمَارِيَّةُ أَصُولًا مُتَنَوِّعَةً.",
+      "exampleBs": "Investicioni portfolio uključuje raznovrsnu imovinu.",
+      "exampleEn": "The investment portfolio includes diverse assets."
+    },
+    {
+      "arabic": "تَوْزِيعَاتُ الأَرْبَاحِ",
+      "root": "ر ب ح",
+      "type": "phrase",
+      "bs": "dividende, raspodjela dobiti",
+      "en": "dividends",
+      "exampleArabic": "أَعْلَنَتِ الشَّرِكَةُ عَنْ تَوْزِيعِ أَرْبَاحٍ سَنَوِيَّةٍ لِلْمُسَاهِمِينَ.",
+      "exampleBs": "Kompanija je objavila godišnju raspodjelu dividendi dioničarima.",
+      "exampleEn": "The company announced annual dividend distribution for shareholders."
+    },
+    {
+      "arabic": "مَكَاسِبُ رَأْسِ الْمَالِ",
+      "root": "ك س ب",
+      "type": "phrase",
+      "bs": "kapitalni dobici",
+      "en": "capital gains",
+      "exampleArabic": "تَخْضَعُ مَكَاسِبُ رَأْسِ الْمَالِ لِلضَّرِيبَةِ فِي أَغْلَبِ الدُّوَلِ.",
+      "exampleBs": "Kapitalni dobici podliježu oporezivanju u većini zemalja.",
+      "exampleEn": "Capital gains are subject to taxation in most countries."
+    },
+    {
+      "arabic": "إِدَارَةُ الْمَخَاطِرِ",
+      "root": "خ ط ر",
+      "type": "phrase",
+      "bs": "upravljanje rizicima",
+      "en": "risk management",
+      "exampleArabic": "إِدَارَةُ الْمَخَاطِرِ أَسَاسِيَّةٌ فِي أَيِّ خِطَّةٍ مَالِيَّةٍ.",
+      "exampleBs": "Upravljanje rizicima je osnovno u svakom finansijskom planu.",
+      "exampleEn": "Risk management is fundamental in any financial plan."
+    },
+    {
+      "arabic": "التَّنْوِيعُ",
+      "root": "ن و ع",
+      "type": "noun",
+      "bs": "diverzifikacija, raznovrsnost",
+      "en": "diversification",
+      "exampleArabic": "التَّنْوِيعُ فِي الِاسْتِثْمَارَاتِ يُقَلِّلُ الْمَخَاطِرَ.",
+      "exampleBs": "Diverzifikacija ulaganja smanjuje rizike.",
+      "exampleEn": "Diversification in investments reduces risks."
+    },
+    {
+      "arabic": "صَنْدُوقُ التَّحَوُّطِ",
+      "root": "ح و ط",
+      "type": "phrase",
+      "bs": "hedge fond",
+      "en": "hedge fund",
+      "exampleArabic": "يَسْتَهْدِفُ صَنْدُوقُ التَّحَوُّطِ عَوَائِدَ مُرْتَفِعَةً بِاسْتِرَاتِيجِيَّاتٍ مُعَقَّدَةٍ.",
+      "exampleBs": "Hedge fond cilja visoke prinose složenim strategijama.",
+      "exampleEn": "A hedge fund targets high returns through complex strategies."
+    },
+    {
+      "arabic": "الأَسْهُمُ الْخَاصَّةُ",
+      "root": "س ه م",
+      "type": "phrase",
+      "bs": "privatni kapital, private equity",
+      "en": "private equity",
+      "exampleArabic": "ضَخَّتْ شَرِكَةُ الأَسْهُمِ الْخَاصَّةِ مَلَايِينَ فِي الْمَشْرُوعِ.",
+      "exampleBs": "Kompanija privatnog kapitala uložila je milione u projekat.",
+      "exampleEn": "The private equity firm pumped millions into the project."
+    },
+    {
+      "arabic": "بُورْصَةُ الأَوْرَاقِ الْمَالِيَّةِ",
+      "root": "و ر ق",
+      "type": "phrase",
+      "bs": "berza, tržište vrijednosnih papira",
+      "en": "stock exchange",
+      "exampleArabic": "ارْتَفَعَتِ الأَسْهُمُ فِي بُورْصَةِ الأَوْرَاقِ الْمَالِيَّةِ الْيَوْمَ.",
+      "exampleBs": "Dionice su porasle na berzi danas.",
+      "exampleEn": "Stocks rose on the stock exchange today."
+    },
+    {
+      "arabic": "سُوقُ السِّلَعِ",
+      "root": "س ل ع",
+      "type": "phrase",
+      "bs": "tržište roba, robna berza",
+      "en": "commodity market",
+      "exampleArabic": "تَأَثَّرَ سُوقُ السِّلَعِ بِتَقَلُّبَاتِ أَسْعَارِ النَّفْطِ.",
+      "exampleBs": "Tržište roba je pod utjecajem fluktuacija cijena nafte.",
+      "exampleEn": "The commodity market was affected by oil price fluctuations."
+    },
+    {
+      "arabic": "الْعُقُودُ الْآجِلَةُ",
+      "root": "ع ق د",
+      "type": "phrase",
+      "bs": "terminski ugovori, fjučersi",
+      "en": "futures contracts",
+      "exampleArabic": "تُسْتَخْدَمُ الْعُقُودُ الْآجِلَةُ لِلتَّحَوُّطِ ضِدَّ تَقَلُّبَاتِ الأَسْعَارِ.",
+      "exampleBs": "Terminski ugovori se koriste za zaštitu od promjena cijena.",
+      "exampleEn": "Futures contracts are used to hedge against price fluctuations."
+    },
+    {
+      "arabic": "الْمُشْتَقَّاتُ الْمَالِيَّةُ",
+      "root": "ش ق ق",
+      "type": "phrase",
+      "bs": "finansijski derivati",
+      "en": "financial derivatives",
+      "exampleArabic": "الْمُشْتَقَّاتُ الْمَالِيَّةُ أَدَوَاتٌ مُعَقَّدَةٌ تَنْطَوِي عَلَى مَخَاطِرَ عَالِيَةٍ.",
+      "exampleBs": "Finansijski derivati su složeni instrumenti koji nose visoke rizike.",
+      "exampleEn": "Financial derivatives are complex instruments that carry high risks."
+    },
+    {
+      "arabic": "السُّيُولَةُ",
+      "root": "س ي ل",
+      "type": "noun",
+      "bs": "likvidnost",
+      "en": "liquidity",
+      "exampleArabic": "يَجِبُ عَلَى الشَّرِكَاتِ الْحِفَاظُ عَلَى مُسْتَوَى كَافٍ مِنَ السُّيُولَةِ.",
+      "exampleBs": "Kompanije moraju održavati odgovarajući nivo likvidnosti.",
+      "exampleEn": "Companies must maintain an adequate level of liquidity."
+    },
+    {
+      "arabic": "التَّقَلُّبُ",
+      "root": "ق ل ب",
+      "type": "noun",
+      "bs": "volatilnost, nestabilnost",
+      "en": "volatility",
+      "exampleArabic": "تَشْهَدُ أَسْوَاقُ الْعُمْلَاتِ الرَّقْمِيَّةِ تَقَلُّبًا حَادًّا.",
+      "exampleBs": "Tržišta kriptovaluta pokazuju izrazitu volatilnost.",
+      "exampleEn": "Cryptocurrency markets show sharp volatility."
+    },
+    {
+      "arabic": "السُّوقُ الصَّاعِدَةُ",
+      "root": "ص ع د",
+      "type": "phrase",
+      "bs": "tržište bikova, rastuće tržište",
+      "en": "bull market",
+      "exampleArabic": "تَمُرُّ الْبُورْصَةُ بِمَرْحَلَةِ سُوقٍ صَاعِدَةٍ مُنْذُ أَشْهُرٍ.",
+      "exampleBs": "Berza prolazi kroz fazu tržišta bikova već nekoliko mjeseci.",
+      "exampleEn": "The stock exchange has been in a bull market phase for months."
+    },
+    {
+      "arabic": "السُّوقُ الْهَابِطَةُ",
+      "root": "ه ب ط",
+      "type": "phrase",
+      "bs": "tržište medvjeda, opadajuće tržište",
+      "en": "bear market",
+      "exampleArabic": "أَصَابَتِ السُّوقُ الْهَابِطَةُ كَثِيرًا مِنَ الْمُسْتَثْمِرِينَ بِخَسَائِرَ.",
+      "exampleBs": "Tržište medvjeda nanijelo je gubitke mnogim investitorima.",
+      "exampleEn": "The bear market caused losses for many investors."
+    },
+    {
+      "arabic": "الِانْدِمَاجُ",
+      "root": "د م ج",
+      "type": "noun",
+      "bs": "spajanje (kompanija), fuzija",
+      "en": "merger",
+      "exampleArabic": "أَعْلَنَتِ الشَّرِكَتَانِ عَنِ اتِّفَاقِيَّةِ اندِمَاجٍ رَسْمِيَّةٍ.",
+      "exampleBs": "Dvije kompanije su objavile zvaničan sporazum o spajanju.",
+      "exampleEn": "The two companies announced a formal merger agreement."
+    },
+    {
+      "arabic": "الِاسْتِحْوَاذُ",
+      "root": "ح و ذ",
+      "type": "noun",
+      "bs": "preuzimanje (kompanije), akvizicija",
+      "en": "acquisition, takeover",
+      "exampleArabic": "أَتَمَّتِ الشَّرِكَةُ الْكُبْرَى الِاسْتِحْوَاذَ عَلَى مُنَافِسِهَا الأَصْغَرِ.",
+      "exampleBs": "Velika kompanija je završila preuzimanje svog manjeg konkurenta.",
+      "exampleEn": "The larger company completed the acquisition of its smaller competitor."
+    },
+    {
+      "arabic": "الطَّرْحُ الْعَامُّ الأَوَّلِيُّ",
+      "root": "ط ر ح",
+      "type": "phrase",
+      "bs": "prva javna ponuda (IPO)",
+      "en": "initial public offering (IPO)",
+      "exampleArabic": "أَثَارَ الطَّرْحُ الْعَامُّ الأَوَّلِيُّ لِلشَّرِكَةِ اهْتِمَامًا وَاسِعًا.",
+      "exampleBs": "Prva javna ponuda kompanije izazvala je široko interesovanje.",
+      "exampleEn": "The company's initial public offering attracted widespread interest."
+    },
+    {
+      "arabic": "الإِيرَادَاتُ",
+      "root": "و ر د",
+      "type": "noun",
+      "bs": "prihodi, prihodi od prodaje",
+      "en": "revenue",
+      "exampleArabic": "بَلَغَتِ الإِيرَادَاتُ السَّنَوِيَّةُ مِئَةَ مِلْيُونِ دُولَارٍ.",
+      "exampleBs": "Godišnji prihodi su dostigli sto miliona dolara.",
+      "exampleEn": "Annual revenues reached one hundred million dollars."
+    },
+    {
+      "arabic": "الأَرْبَاحُ قَبْلَ الِاسْتِقْطَاعَاتِ",
+      "root": "ر ب ح",
+      "type": "phrase",
+      "bs": "EBITDA (zarada prije kamata, poreza, amortizacije)",
+      "en": "EBITDA (earnings before interest, taxes, depreciation, amortization)",
+      "exampleArabic": "يُعَدُّ مُؤَشِّرُ الأَرْبَاحِ قَبْلَ الِاسْتِقْطَاعَاتِ مِعْيَارًا رَئِيسِيًّا لِتَقْيِيمِ الشَّرِكَاتِ.",
+      "exampleBs": "EBITDA se smatra ključnim pokazateljem za vrednovanje kompanija.",
+      "exampleEn": "EBITDA is considered a key metric for valuing companies."
+    },
+    {
+      "arabic": "الْمِيزَانِيَّةُ الْعُمُومِيَّةُ",
+      "root": "و ز ن",
+      "type": "phrase",
+      "bs": "bilans stanja",
+      "en": "balance sheet",
+      "exampleArabic": "تَكْشِفُ الْمِيزَانِيَّةُ الْعُمُومِيَّةُ عَنْ الْوَضْعِ الْمَالِيِّ لِلشَّرِكَةِ.",
+      "exampleBs": "Bilans stanja otkriva finansijsku poziciju kompanije.",
+      "exampleEn": "The balance sheet reveals the company's financial position."
+    },
+    {
+      "arabic": "التَّدَفُّقُ النَّقْدِيُّ",
+      "root": "د ف ق",
+      "type": "phrase",
+      "bs": "novčani tok, cash flow",
+      "en": "cash flow",
+      "exampleArabic": "الشَّرِكَةُ تُحَقِّقُ تَدَفُّقًا نَقْدِيًّا إِيجَابِيًّا بِاسْتِمْرَارٍ.",
+      "exampleBs": "Kompanija kontinuirano ostvaruje pozitivan novčani tok.",
+      "exampleEn": "The company continuously generates positive cash flow."
+    },
+    {
+      "arabic": "التَّدْقِيقُ الْمَالِيُّ",
+      "root": "د ق ق",
+      "type": "phrase",
+      "bs": "finansijska revizija, audit",
+      "en": "financial audit",
+      "exampleArabic": "أَجْرَتِ الشَّرِكَةُ تَدْقِيقًا مَالِيًّا سَنَوِيًّا لِحِسَابَاتِهَا.",
+      "exampleBs": "Kompanija je provela godišnju finansijsku reviziju svojih računa.",
+      "exampleEn": "The company conducted an annual financial audit of its accounts."
+    },
+    {
+      "arabic": "الْبَيَانُ الْمَالِيُّ",
+      "root": "ب ي ن",
+      "type": "phrase",
+      "bs": "finansijski izvještaj",
+      "en": "financial statement",
+      "exampleArabic": "نَشَرَتِ الشَّرِكَةُ بَيَانَاتِهَا الْمَالِيَّةَ لِلرُّبْعِ الأَوَّلِ.",
+      "exampleBs": "Kompanija je objavila finansijske izvještaje za prvo tromjesečje.",
+      "exampleEn": "The company published its financial statements for the first quarter."
+    },
+    {
+      "arabic": "رَأْسُ الْمَالِ",
+      "root": "ر أ س",
+      "type": "phrase",
+      "bs": "kapital",
+      "en": "capital",
+      "exampleArabic": "يَحْتَاجُ الْمَشْرُوعُ إِلَى رَأْسِ مَالٍ كَافٍ لِلِانْطِلَاقِ.",
+      "exampleBs": "Projektu je potreban dovoljan kapital za pokretanje.",
+      "exampleEn": "The project needs sufficient capital to launch."
+    },
+    {
+      "arabic": "الأَصُولُ",
+      "root": "أ ص ل",
+      "type": "noun",
+      "bs": "imovina, aktiva",
+      "en": "assets",
+      "exampleArabic": "تَمْلِكُ الشَّرِكَةُ أَصُولًا تَفُوقُ قِيمَتُهَا مِلْيَارَ دُولَارٍ.",
+      "exampleBs": "Kompanija posjeduje imovinu vrijednu više od milijarde dolara.",
+      "exampleEn": "The company owns assets worth more than one billion dollars."
+    },
+    {
+      "arabic": "الْخُصُومُ",
+      "root": "خ ص م",
+      "type": "noun",
+      "bs": "obaveze, pasiva",
+      "en": "liabilities",
+      "exampleArabic": "تَتَجَاوَزُ الْخُصُومُ الأَصُولَ مِمَّا يَدُلُّ عَلَى إِفْلَاسٍ مُحْتَمَلٍ.",
+      "exampleBs": "Obaveze premašuju imovinu, što ukazuje na moguć stečaj.",
+      "exampleEn": "Liabilities exceed assets, indicating a possible insolvency."
+    },
+    {
+      "arabic": "حُقُوقُ الْمُسَاهِمِينَ",
+      "root": "س ه م",
+      "type": "phrase",
+      "bs": "dioničarski kapital, vlasnički kapital",
+      "en": "shareholders' equity",
+      "exampleArabic": "ارْتَفَعَتْ حُقُوقُ الْمُسَاهِمِينَ بَعْدَ رِبْحِيَّةٍ مُسْتَمِرَّةٍ.",
+      "exampleBs": "Dioničarski kapital je porastao nakon kontinuirane profitabilnosti.",
+      "exampleEn": "Shareholders' equity rose after sustained profitability."
+    },
+    {
+      "arabic": "الْعَائِدُ عَلَى الِاسْتِثْمَارِ",
+      "root": "ع و د",
+      "type": "phrase",
+      "bs": "povrat na ulaganje (ROI)",
+      "en": "return on investment (ROI)",
+      "exampleArabic": "يَسْعَى كُلُّ مُسْتَثْمِرٍ إِلَى تَحْقِيقِ أَعْلَى عَائِدٍ عَلَى الِاسْتِثْمَارِ.",
+      "exampleBs": "Svaki investitor nastoji ostvariti što veći povrat na ulaganje.",
+      "exampleEn": "Every investor seeks to achieve the highest return on investment."
+    },
+    {
+      "arabic": "التَّمْوِيلُ",
+      "root": "م و ل",
+      "type": "noun",
+      "bs": "finansiranje",
+      "en": "financing, funding",
+      "exampleArabic": "حَصَلَتِ الشَّرِكَةُ الْجَدِيدَةُ عَلَى تَمْوِيلٍ مِنْ صَنْدُوقِ اسْتِثْمَارٍ.",
+      "exampleBs": "Nova kompanija je dobila finansiranje od investicionog fonda.",
+      "exampleEn": "The new company received financing from an investment fund."
+    },
+    {
+      "arabic": "الِاسْتِهْلَاكُ",
+      "root": "ه ل ك",
+      "type": "noun",
+      "bs": "potrošnja, amortizacija",
+      "en": "consumption, depreciation",
+      "exampleArabic": "يُحَدِّدُ الِاسْتِهْلَاكُ الدَّاخِلِيُّ مَدَى قُوَّةِ الِاقْتِصَادِ.",
+      "exampleBs": "Domaća potrošnja određuje snagu ekonomije.",
+      "exampleEn": "Domestic consumption determines the strength of the economy."
+    },
+    {
+      "arabic": "الْعَجْزُ",
+      "root": "ع ج ز",
+      "type": "noun",
+      "bs": "deficit",
+      "en": "deficit",
+      "exampleArabic": "تَسْعَى الْحُكُومَةُ إِلَى تَقْلِيصِ الْعَجْزِ فِي الْمِيزَانِيَّةِ.",
+      "exampleBs": "Vlada nastoji smanjiti deficit u budžetu.",
+      "exampleEn": "The government seeks to reduce the budget deficit."
+    },
+    {
+      "arabic": "الْفَائِضُ",
+      "root": "ف ي ض",
+      "type": "noun",
+      "bs": "suficit, višak",
+      "en": "surplus",
+      "exampleArabic": "حَقَّقَتِ الدَّوْلَةُ فَائِضًا فِي مِيزَانِيَّتِهَا لِلسَّنَةِ الثَّانِيَةِ عَلَى التَّوَالِي.",
+      "exampleBs": "Zemlja je ostvarila suficit u budžetu drugu godinu zaredom.",
+      "exampleEn": "The country achieved a budget surplus for the second consecutive year."
+    },
+    {
+      "arabic": "التَّقْيِيمُ",
+      "root": "ق ي م",
+      "type": "noun",
+      "bs": "vrednovanje, procjena vrijednosti",
+      "en": "valuation",
+      "exampleArabic": "بَلَغَ تَقْيِيمُ الشَّرِكَةِ عَشَرَةَ مَلَايِينَ دُولَارٍ بَعْدَ جَوْلَةِ الِاسْتِثْمَارِ.",
+      "exampleBs": "Vrednovanje kompanije je dostiglo deset miliona dolara nakon investicionog kruga.",
+      "exampleEn": "The company's valuation reached ten million dollars after the investment round."
+    }
+  ]
+}

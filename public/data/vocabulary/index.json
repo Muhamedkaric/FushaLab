@@ -17,6 +17,22 @@
       "wordCount": 41
     },
     {
+      "id": "b1-family",
+      "title": "Family & Home",
+      "titleAr": "الأُسْرَةُ وَالْبَيْتُ",
+      "level": "B1",
+      "topic": "general",
+      "wordCount": 46
+    },
+    {
+      "id": "b1-finance",
+      "title": "Finance & Economy",
+      "titleAr": "الاقْتِصَادُ وَالْمَالُ",
+      "level": "B1",
+      "topic": "finance",
+      "wordCount": 46
+    },
+    {
       "id": "b1-food",
       "title": "Food & Cooking",
       "titleAr": "الطَّعَامُ وَالطَّبْخُ",
@@ -41,6 +57,22 @@
       "wordCount": 47
     },
     {
+      "id": "b1-nature",
+      "title": "Nature & Environment",
+      "titleAr": "الطَّبِيعَةُ وَالْبِيئَةُ",
+      "level": "B1",
+      "topic": "general",
+      "wordCount": 53
+    },
+    {
+      "id": "b1-news",
+      "title": "News & Media",
+      "titleAr": "الأَخْبَارُ وَالإِعْلَامُ",
+      "level": "B1",
+      "topic": "news",
+      "wordCount": 45
+    },
+    {
       "id": "b1-religion",
       "title": "Islamic Knowledge",
       "titleAr": "الْعِلْمُ الشَّرْعِيُّ",
@@ -55,6 +87,14 @@
       "level": "B1",
       "topic": "social",
       "wordCount": 40
+    },
+    {
+      "id": "b1-sports",
+      "title": "Sports & Fitness",
+      "titleAr": "الرِّيَاضَةُ وَاللِّيَاقَةُ",
+      "level": "B1",
+      "topic": "health",
+      "wordCount": 46
     },
     {
       "id": "b1-technology",
@@ -89,6 +129,22 @@
       "wordCount": 55
     },
     {
+      "id": "b2-family",
+      "title": "Family & Home",
+      "titleAr": "الأُسْرَةُ وَالْبَيْتُ",
+      "level": "B2",
+      "topic": "general",
+      "wordCount": 44
+    },
+    {
+      "id": "b2-finance",
+      "title": "Finance & Economy",
+      "titleAr": "الاقْتِصَادُ وَالْمَالُ",
+      "level": "B2",
+      "topic": "finance",
+      "wordCount": 53
+    },
+    {
       "id": "b2-food",
       "title": "Food & Cooking",
       "titleAr": "الطَّعَامُ وَالطَّبْخُ",
@@ -113,12 +169,36 @@
       "wordCount": 56
     },
     {
+      "id": "b2-nature",
+      "title": "Nature & Environment",
+      "titleAr": "الطَّبِيعَةُ وَالْبِيئَةُ",
+      "level": "B2",
+      "topic": "general",
+      "wordCount": 49
+    },
+    {
+      "id": "b2-news",
+      "title": "News & Media",
+      "titleAr": "الأَخْبَارُ وَالإِعْلَامُ",
+      "level": "B2",
+      "topic": "news",
+      "wordCount": 51
+    },
+    {
       "id": "b2-social",
       "title": "Society & Media",
       "titleAr": "الْمُجْتَمَعُ وَالإِعْلَامُ",
       "level": "B2",
       "topic": "social",
       "wordCount": 54
+    },
+    {
+      "id": "b2-sports",
+      "title": "Sports & Fitness",
+      "titleAr": "الرِّيَاضَةُ وَاللِّيَاقَةُ",
+      "level": "B2",
+      "topic": "health",
+      "wordCount": 45
     },
     {
       "id": "b2-technology",

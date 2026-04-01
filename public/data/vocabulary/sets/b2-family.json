@@ -1,0 +1,449 @@
+{
+  "id": "b2-family",
+  "title": "Family & Home",
+  "titleAr": "الأُسْرَةُ وَالْبَيْتُ",
+  "level": "B2",
+  "topic": "general",
+  "words": [
+    {
+      "arabic": "التَّنْشِئَةُ",
+      "root": "ن ش أ",
+      "type": "noun",
+      "bs": "odgoj",
+      "en": "upbringing",
+      "exampleArabic": "تَتْرُكُ التَّنْشِئَةُ أَثَرًا كَبِيرًا فِي شَخْصِيَّةِ الإِنْسَانِ.",
+      "exampleBs": "Odgoj ostavlja veliki trag na ličnost čovjeka.",
+      "exampleEn": "Upbringing leaves a great mark on a person's character."
+    },
+    {
+      "arabic": "الانْضِبَاطُ",
+      "root": "ض ب ط",
+      "type": "noun",
+      "bs": "disciplina",
+      "en": "discipline",
+      "exampleArabic": "يُعَلِّمُ الآبَاءُ أَطْفَالَهُمُ الانْضِبَاطَ مُنْذُ الصِّغَرِ.",
+      "exampleBs": "Roditelji uče svoju djecu disciplini od malih nogu.",
+      "exampleEn": "Parents teach their children discipline from a young age."
+    },
+    {
+      "arabic": "الْمِيرَاثُ",
+      "root": "و ر ث",
+      "type": "noun",
+      "bs": "nasljedstvo",
+      "en": "inheritance",
+      "exampleArabic": "اقْتَسَمَ الأَبْنَاءُ الْمِيرَاثَ بِالتَّسَاوِي.",
+      "exampleBs": "Djeca su ravnopravno podijelila nasljedstvo.",
+      "exampleEn": "The children divided the inheritance equally."
+    },
+    {
+      "arabic": "الْحَضَانَةُ",
+      "root": "ح ض ن",
+      "type": "noun",
+      "bs": "starateljstvo",
+      "en": "custody",
+      "exampleArabic": "مَنَحَتِ الْمَحْكَمَةُ الأُمَّ حَضَانَةَ الأَطْفَالِ.",
+      "exampleBs": "Sud je majci dodijelio starateljstvo nad djecom.",
+      "exampleEn": "The court granted the mother custody of the children."
+    },
+    {
+      "arabic": "الْعَائِلَةُ الْمُمْتَدَّةُ",
+      "root": "ع و ل",
+      "type": "noun",
+      "bs": "šira porodica",
+      "en": "extended family",
+      "exampleArabic": "تَعِيشُ الْعَائِلَةُ الْمُمْتَدَّةُ فِي مَنَازِلَ مُتَجَاوِرَةٍ.",
+      "exampleBs": "Šira porodica živi u susjednim kućama.",
+      "exampleEn": "The extended family lives in neighbouring houses."
+    },
+    {
+      "arabic": "الأُسْرَةُ النَّوَوِيَّةُ",
+      "root": "أ س ر",
+      "type": "noun",
+      "bs": "nuklearna porodica",
+      "en": "nuclear family",
+      "exampleArabic": "تَتَكَوَّنُ الأُسْرَةُ النَّوَوِيَّةُ مِنَ الأَبَوَيْنِ وَالأَطْفَالِ فَقَطْ.",
+      "exampleBs": "Nuklearna porodica sastoji se samo od roditelja i djece.",
+      "exampleEn": "The nuclear family consists of parents and children only."
+    },
+    {
+      "arabic": "الْوَالِدُ الأَحَدُ",
+      "root": "و ل د",
+      "type": "noun",
+      "bs": "samohrani roditelj",
+      "en": "single parent",
+      "exampleArabic": "يُرَبِّي الْوَالِدُ الأَحَدُ أَطْفَالَهُ بِجُهْدٍ وَتَفَانٍ.",
+      "exampleBs": "Samohrani roditelj odgaja svoju djecu s trudom i predanošću.",
+      "exampleEn": "The single parent raises their children with effort and dedication."
+    },
+    {
+      "arabic": "التَّبَنِّي",
+      "root": "ب ن و",
+      "type": "noun",
+      "bs": "usvajanje, posinstvo",
+      "en": "adoption",
+      "exampleArabic": "أَقَدَمَتِ الزَّوْجَانِ عَلَى التَّبَنِّي بَعْدَ دِرَاسَةٍ طَوِيلَةٍ.",
+      "exampleBs": "Supružnici su se odlučili na usvajanje nakon dugog promišljanja.",
+      "exampleEn": "The couple proceeded with adoption after lengthy deliberation."
+    },
+    {
+      "arabic": "الْوِصَايَةُ",
+      "root": "و ص ي",
+      "type": "noun",
+      "bs": "skrbništvo, tutorstvo",
+      "en": "guardianship",
+      "exampleArabic": "تَوَلَّى الْعَمُّ وِصَايَةَ الأَطْفَالِ بَعْدَ وَفَاةِ الْوَالِدَيْنِ.",
+      "exampleBs": "Amidža je preuzeo skrbništvo nad djecom nakon smrti roditelja.",
+      "exampleEn": "The uncle assumed guardianship of the children after the parents' death."
+    },
+    {
+      "arabic": "الرَّهْنُ الْعَقَارِيُّ",
+      "root": "ر ه ن",
+      "type": "noun",
+      "bs": "hipoteka",
+      "en": "mortgage",
+      "exampleArabic": "حَصَلَتِ الْعَائِلَةُ عَلَى قَرْضٍ بِرَهْنٍ عَقَارِيٍّ لِشِرَاءِ الْمَنْزِلِ.",
+      "exampleBs": "Porodica je uzela hipotekarni kredit za kupovinu kuće.",
+      "exampleEn": "The family obtained a mortgage loan to buy the house."
+    },
+    {
+      "arabic": "الإِيجَارُ",
+      "root": "أ ج ر",
+      "type": "noun",
+      "bs": "kirija, najamnina",
+      "en": "rent",
+      "exampleArabic": "يَدْفَعُ الإِيجَارَ فِي بِدَايَةِ كُلِّ شَهْرٍ.",
+      "exampleBs": "Plaća kiriju na početku svakog mjeseca.",
+      "exampleEn": "He pays the rent at the beginning of every month."
+    },
+    {
+      "arabic": "صَاحِبُ الْعَقَارِ",
+      "root": "ص ح ب",
+      "type": "noun",
+      "bs": "vlasnik nekretnine",
+      "en": "landlord",
+      "exampleArabic": "تَكَلَّمَ الْمُسْتَأْجِرُ مَعَ صَاحِبِ الْعَقَارِ حَوْلَ الإِصْلَاحَاتِ.",
+      "exampleBs": "Stanar je razgovarao s vlasnikom nekretnine o popravcima.",
+      "exampleEn": "The tenant spoke with the landlord about repairs."
+    },
+    {
+      "arabic": "الْمُسْتَأْجِرُ",
+      "root": "أ ج ر",
+      "type": "noun",
+      "bs": "stanar, zakupnik",
+      "en": "tenant",
+      "exampleArabic": "الْمُسْتَأْجِرُ مُلْتَزِمٌ بِدَفْعِ الإِيجَارِ فِي مَوْعِدِهِ.",
+      "exampleBs": "Stanar se obavezao plaćati kiriju na vrijeme.",
+      "exampleEn": "The tenant is committed to paying the rent on time."
+    },
+    {
+      "arabic": "الْعَقَارُ",
+      "root": "ع ق ر",
+      "type": "noun",
+      "bs": "nekretnina, imovina",
+      "en": "property, real estate",
+      "exampleArabic": "ارْتَفَعَتْ أَسْعَارُ الْعَقَارَاتِ فِي الْمَدِينَةِ.",
+      "exampleBs": "Cijene nekretnina u gradu su porasle.",
+      "exampleEn": "Property prices in the city have risen."
+    },
+    {
+      "arabic": "التَّجْدِيدُ",
+      "root": "ج د د",
+      "type": "noun",
+      "bs": "renovacija",
+      "en": "renovation",
+      "exampleArabic": "خَضَعَ الْمَنْزِلُ لِتَجْدِيدٍ شَامِلٍ.",
+      "exampleBs": "Kuća je prošla kroz sveobuhvatnu renovaciju.",
+      "exampleEn": "The house underwent a comprehensive renovation."
+    },
+    {
+      "arabic": "التَّصْمِيمُ الدَّاخِلِيُّ",
+      "root": "ص م م",
+      "type": "noun",
+      "bs": "unutrašnje uređenje",
+      "en": "interior design",
+      "exampleArabic": "اهْتَمَّتِ الزَّوْجَةُ بِالتَّصْمِيمِ الدَّاخِلِيِّ لِمَنْزِلِهَا.",
+      "exampleBs": "Supruga je vodila brigu o unutrašnjem uređenju svog doma.",
+      "exampleEn": "The wife paid attention to the interior design of her home."
+    },
+    {
+      "arabic": "فَوَاتِيرُ الْخَدَمَاتِ",
+      "root": "ف ت ر",
+      "type": "noun",
+      "bs": "komunalni računi",
+      "en": "utility bills",
+      "exampleArabic": "تَرْتَفِعُ فَوَاتِيرُ الْخَدَمَاتِ فِي فَصْلِ الشِّتَاءِ.",
+      "exampleBs": "Komunalni računi rastu zimi.",
+      "exampleEn": "Utility bills rise in winter."
+    },
+    {
+      "arabic": "الْخِطْبَةُ",
+      "root": "خ ط ب",
+      "type": "noun",
+      "bs": "zaruke",
+      "en": "engagement",
+      "exampleArabic": "أَقَامَتِ الْعَائِلَةُ حَفْلَةَ خِطْبَةٍ بَهِيجَةً.",
+      "exampleBs": "Porodica je priredila veselu zaručničku svečanost.",
+      "exampleEn": "The family held a joyful engagement party."
+    },
+    {
+      "arabic": "حَفْلُ الزَّفَافِ",
+      "root": "ز ف ف",
+      "type": "noun",
+      "bs": "vjenčanje, svadba",
+      "en": "wedding ceremony",
+      "exampleArabic": "حَضَرَ حَفْلَ الزَّفَافِ مَئَةٌ وَخَمْسُونَ ضَيْفًا.",
+      "exampleBs": "Vjenčanju je prisustvovalo sto pedeset gostiju.",
+      "exampleEn": "One hundred and fifty guests attended the wedding ceremony."
+    },
+    {
+      "arabic": "الطَّلَاقُ",
+      "root": "ط ل ق",
+      "type": "noun",
+      "bs": "razvod",
+      "en": "divorce",
+      "exampleArabic": "مَرَّ الطَّلَاقُ بِمَرَاحِلَ قَانُونِيَّةٍ مُعَقَّدَةٍ.",
+      "exampleBs": "Razvod je prošao kroz složene pravne faze.",
+      "exampleEn": "The divorce went through complicated legal stages."
+    },
+    {
+      "arabic": "مَرَاسِمُ الدَّفْنِ",
+      "root": "ر س م",
+      "type": "noun",
+      "bs": "sahrana, dženaza",
+      "en": "funeral",
+      "exampleArabic": "حَضَرَ أَفْرَادُ الْعَائِلَةِ مَرَاسِمَ الدَّفْنِ.",
+      "exampleBs": "Članovi porodice su prisustvovali sahrani.",
+      "exampleEn": "Family members attended the funeral."
+    },
+    {
+      "arabic": "عَقِيقَةٌ",
+      "root": "ع ق ق",
+      "type": "noun",
+      "bs": "akika (islamska svečanost za novorođenče)",
+      "en": "aqiqah (Islamic celebration for a newborn)",
+      "exampleArabic": "أَقَامَ الأَهْلُ عَقِيقَةً احْتِفَالًا بِمَوْلِدِ الطِّفْلِ.",
+      "exampleBs": "Porodica je priredila akiku slavlje za rođenje djeteta.",
+      "exampleEn": "The family held an aqiqah to celebrate the birth of the child."
+    },
+    {
+      "arabic": "الثِّقَةُ",
+      "root": "و ث ق",
+      "type": "noun",
+      "bs": "povjerenje",
+      "en": "trust",
+      "exampleArabic": "تَقُومُ الْعَلَاقَاتُ الْأُسَرِيَّةُ عَلَى الثِّقَةِ الْمُتَبَادَلَةِ.",
+      "exampleBs": "Porodični odnosi temelje se na uzajamnom povjerenju.",
+      "exampleEn": "Family relationships are built on mutual trust."
+    },
+    {
+      "arabic": "الْوَفَاءُ",
+      "root": "و ف ي",
+      "type": "noun",
+      "bs": "odanost, lojalnost",
+      "en": "loyalty, faithfulness",
+      "exampleArabic": "يُعَدُّ الْوَفَاءُ مِنْ أَهَمِّ قِيَمِ الْأُسْرَةِ.",
+      "exampleBs": "Lojalnost se smatra jednom od najvažnijih porodičnih vrijednosti.",
+      "exampleEn": "Loyalty is considered one of the most important family values."
+    },
+    {
+      "arabic": "الْمَسْؤُولِيَّةُ",
+      "root": "س أ ل",
+      "type": "noun",
+      "bs": "odgovornost",
+      "en": "responsibility",
+      "exampleArabic": "تَعَلَّمَ الأَبْنَاءُ تَحَمُّلَ الْمَسْؤُولِيَّةِ مُبَكِّرًا.",
+      "exampleBs": "Djeca su naučila preuzimati odgovornost rano.",
+      "exampleEn": "The children learned to take on responsibility early."
+    },
+    {
+      "arabic": "التَّضْحِيَةُ",
+      "root": "ض ح و",
+      "type": "noun",
+      "bs": "žrtva, odricanje",
+      "en": "sacrifice",
+      "exampleArabic": "يُضَحِّي الْوَالِدَانِ بِكَثِيرٍ مِنْ أَجْلِ سَعَادَةِ أَطْفَالِهِمَا.",
+      "exampleBs": "Roditelji se mnogo odriču zaради sreće svoje djece.",
+      "exampleEn": "Parents sacrifice a lot for the happiness of their children."
+    },
+    {
+      "arabic": "الدَّعْمُ",
+      "root": "د ع م",
+      "type": "noun",
+      "bs": "podrška",
+      "en": "support",
+      "exampleArabic": "وَجَدَتِ الابْنَةُ الدَّعْمَ الْكَامِلَ مِنْ عَائِلَتِهَا.",
+      "exampleBs": "Kći je pronašla punu podršku od svoje porodice.",
+      "exampleEn": "The daughter found full support from her family."
+    },
+    {
+      "arabic": "الْخِلَافُ",
+      "root": "خ ل ف",
+      "type": "noun",
+      "bs": "nesuglasica, svađa",
+      "en": "conflict, disagreement",
+      "exampleArabic": "تَجَاوَزَتِ الْعَائِلَةُ الْخِلَافَ بِالْحِوَارِ.",
+      "exampleBs": "Porodica je nesuglasicu prevladala dijalogom.",
+      "exampleEn": "The family overcame the conflict through dialogue."
+    },
+    {
+      "arabic": "الْمُصَالَحَةُ",
+      "root": "ص ل ح",
+      "type": "noun",
+      "bs": "pomirenje",
+      "en": "reconciliation",
+      "exampleArabic": "أَدَّتِ الْمُصَالَحَةُ إِلَى إِعَادَةِ الأُسْرَةِ وَاحِدَةً مُتَمَاسِكَةً.",
+      "exampleBs": "Pomirenje je dovelo do ponovnog ujedinjenja porodice.",
+      "exampleEn": "The reconciliation led to the family reuniting as one."
+    },
+    {
+      "arabic": "الْمِنْطَقَةُ السَّكَنِيَّةُ",
+      "root": "م ن ط",
+      "type": "noun",
+      "bs": "stambena zona",
+      "en": "residential area",
+      "exampleArabic": "تَقَعُ مَدْرَسَةُ الأَطْفَالِ فِي الْمِنْطَقَةِ السَّكَنِيَّةِ.",
+      "exampleBs": "Škola djece nalazi se u stambenoj zoni.",
+      "exampleEn": "The children's school is located in the residential area."
+    },
+    {
+      "arabic": "مَجَمَّعُ الشُّقَقِ",
+      "root": "ج م ع",
+      "type": "noun",
+      "bs": "stambeni kompleks",
+      "en": "apartment complex",
+      "exampleArabic": "يَضُمُّ مَجَمَّعُ الشُّقَقِ مَسْبَحًا وَمَلْعَبًا.",
+      "exampleBs": "Stambeni kompleks ima bazen i igralište.",
+      "exampleEn": "The apartment complex has a swimming pool and a playground."
+    },
+    {
+      "arabic": "الْفِيلَّا",
+      "root": "ف ل و",
+      "type": "noun",
+      "bs": "vila",
+      "en": "villa",
+      "exampleArabic": "تَقَعُ الْفِيلَّا فِي حَيٍّ هَادِئٍ خَارِجَ الْمَدِينَةِ.",
+      "exampleBs": "Vila se nalazi u mirnoj četvrti izvan grada.",
+      "exampleEn": "The villa is located in a quiet neighbourhood outside the city."
+    },
+    {
+      "arabic": "الضَّاحِيَةُ",
+      "root": "ض ح و",
+      "type": "noun",
+      "bs": "predgrađe",
+      "en": "suburb",
+      "exampleArabic": "انْتَقَلَتِ الْعَائِلَةُ مِنَ الْمَدِينَةِ إِلَى الضَّاحِيَةِ.",
+      "exampleBs": "Porodica se preselila iz grada u predgrađe.",
+      "exampleEn": "The family moved from the city to the suburb."
+    },
+    {
+      "arabic": "الْحَيُّ",
+      "root": "ح ي ي",
+      "type": "noun",
+      "bs": "četvrt, mahala",
+      "en": "neighbourhood",
+      "exampleArabic": "حَيُّنَا هَادِئٌ وَالنَّاسُ فِيهِ مُتَعَاوِنُونَ.",
+      "exampleBs": "Naša četvrt je mirna i njeni stanovnici su suradljivi.",
+      "exampleEn": "Our neighbourhood is quiet and its people are cooperative."
+    },
+    {
+      "arabic": "الْبَلَدِيَّةُ",
+      "root": "ب ل د",
+      "type": "noun",
+      "bs": "općina",
+      "en": "municipality",
+      "exampleArabic": "تَتَوَلَّى الْبَلَدِيَّةُ صِيَانَةَ الطُّرُقِ وَالْحَدَائِقِ.",
+      "exampleBs": "Općina se brine o održavanju cesta i parkova.",
+      "exampleEn": "The municipality is responsible for maintaining roads and parks."
+    },
+    {
+      "arabic": "الرَّوَابِطُ الأُسَرِيَّةُ",
+      "root": "ر ب ط",
+      "type": "noun",
+      "bs": "porodične veze",
+      "en": "family ties, family bonds",
+      "exampleArabic": "تَعْمَلُ الأَعْيَادُ عَلَى تَقْوِيَةِ الرَّوَابِطِ الأُسَرِيَّةِ.",
+      "exampleBs": "Praznici rade na jačanju porodičnih veza.",
+      "exampleEn": "Holidays work to strengthen family ties."
+    },
+    {
+      "arabic": "التَّوَازُنُ بَيْنَ الْعَمَلِ وَالْحَيَاةِ",
+      "root": "و ز ن",
+      "type": "noun",
+      "bs": "ravnoteža između posla i života",
+      "en": "work-life balance",
+      "exampleArabic": "يَسْعَى كَثِيرُونَ إِلَى تَحْقِيقِ التَّوَازُنِ بَيْنَ الْعَمَلِ وَالْحَيَاةِ.",
+      "exampleBs": "Mnogi nastoje postići ravnotežu između posla i života.",
+      "exampleEn": "Many people seek to achieve a work-life balance."
+    },
+    {
+      "arabic": "الْقِيَمُ الأُسَرِيَّةُ",
+      "root": "ق و م",
+      "type": "noun",
+      "bs": "porodične vrijednosti",
+      "en": "family values",
+      "exampleArabic": "تَحْرِصُ الأُسْرَةُ عَلَى تَوَارُثِ الْقِيَمِ الأُسَرِيَّةِ.",
+      "exampleBs": "Porodica nastoji prenijeti porodične vrijednosti s koljena na koljeno.",
+      "exampleEn": "The family is keen on passing down family values through generations."
+    },
+    {
+      "arabic": "وَرِثَ",
+      "root": "و ر ث",
+      "type": "verb",
+      "bs": "naslijediti",
+      "en": "to inherit",
+      "exampleArabic": "وَرِثَ الأَبْنَاءُ الْمَنْزِلَ عَنْ جَدِّهِمْ.",
+      "exampleBs": "Djeca su naslijedila kuću od svog djeda.",
+      "exampleEn": "The children inherited the house from their grandfather."
+    },
+    {
+      "arabic": "تَصَالَحَ",
+      "root": "ص ل ح",
+      "type": "verb",
+      "bs": "pomiriti se",
+      "en": "to reconcile",
+      "exampleArabic": "تَصَالَحَ الإِخْوَةُ بَعْدَ سَنَوَاتٍ مِنَ الْخِلَافِ.",
+      "exampleBs": "Braća su se pomirila nakon godina nesuglasice.",
+      "exampleEn": "The brothers reconciled after years of conflict."
+    },
+    {
+      "arabic": "انْتَقَلَ",
+      "root": "ن ق ل",
+      "type": "verb",
+      "bs": "preseliti se",
+      "en": "to move, to relocate",
+      "exampleArabic": "انْتَقَلَتِ الأُسْرَةُ إِلَى مَنْزِلٍ أَكْبَرَ.",
+      "exampleBs": "Porodica se preselila u veću kuću.",
+      "exampleEn": "The family moved to a larger house."
+    },
+    {
+      "arabic": "تَرَبَّى",
+      "root": "ر ب و",
+      "type": "verb",
+      "bs": "biti odgojen, odrastati",
+      "en": "to be raised, to grow up",
+      "exampleArabic": "تَرَبَّى فِي بَيْئَةٍ أُسَرِيَّةٍ دَافِئَةٍ.",
+      "exampleBs": "Odrastao je u toplom porodičnom okruženju.",
+      "exampleEn": "He grew up in a warm family environment."
+    },
+    {
+      "arabic": "اسْتَأْجَرَ",
+      "root": "أ ج ر",
+      "type": "verb",
+      "bs": "iznajmiti",
+      "en": "to rent",
+      "exampleArabic": "اسْتَأْجَرَ الشَّابُّ شَقَّةً صَغِيرَةً فِي وَسَطِ الْمَدِينَةِ.",
+      "exampleBs": "Mladić je iznajmio mali stan u centru grada.",
+      "exampleEn": "The young man rented a small apartment in the city centre."
+    },
+    {
+      "arabic": "جَدَّدَ",
+      "root": "ج د د",
+      "type": "verb",
+      "bs": "renovirati, obnoviti",
+      "en": "to renovate, to renew",
+      "exampleArabic": "جَدَّدَتِ الْعَائِلَةُ مَنْزِلَهَا الْقَدِيمَ بِالْكَامِلِ.",
+      "exampleBs": "Porodica je u potpunosti renovirala svoju staru kuću.",
+      "exampleEn": "The family completely renovated their old house."
+    }
+  ]
+}

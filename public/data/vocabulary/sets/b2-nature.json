@@ -1,0 +1,499 @@
+{
+  "id": "b2-nature",
+  "title": "Nature & Environment",
+  "titleAr": "الطَّبِيعَةُ وَالْبِيئَةُ",
+  "level": "B2",
+  "topic": "general",
+  "words": [
+    {
+      "arabic": "تَغَيُّرُ الْمَنَاخِ",
+      "root": "غ ي ر",
+      "type": "phrase",
+      "bs": "klimatske promjene",
+      "en": "climate change",
+      "exampleArabic": "يُهَدِّدُ تَغَيُّرُ الْمَنَاخِ التَّوَازُنَ الْبِيئِيَّ عَلَى الْأَرْضِ.",
+      "exampleBs": "Klimatske promjene prijete ekološkoj ravnoteži na Zemlji.",
+      "exampleEn": "Climate change threatens the ecological balance on Earth."
+    },
+    {
+      "arabic": "الِاحْتِبَاسُ الْحَرَارِيُّ",
+      "root": "ح ب س",
+      "type": "phrase",
+      "bs": "globalno zagrijavanje",
+      "en": "global warming",
+      "exampleArabic": "يُسَبِّبُ الِاحْتِبَاسُ الْحَرَارِيُّ ذَوَبَانَ الْجُلَيِّدَاتِ.",
+      "exampleBs": "Globalno zagrijavanje uzrokuje topljenje ledenjaka.",
+      "exampleEn": "Global warming causes the melting of glaciers."
+    },
+    {
+      "arabic": "انْبِعَاثَاتُ الْكَرْبُونِ",
+      "root": "ب ع ث",
+      "type": "phrase",
+      "bs": "emisije ugljika",
+      "en": "carbon emissions",
+      "exampleArabic": "تَسْعَى الدُّوَلُ إِلَى تَقْلِيلِ انْبِعَاثَاتِ الْكَرْبُونِ.",
+      "exampleBs": "Države nastoje smanjiti emisije ugljika.",
+      "exampleEn": "Countries strive to reduce carbon emissions."
+    },
+    {
+      "arabic": "غَازَاتُ الدَّفِيئَةِ",
+      "root": "غ ي ز",
+      "type": "phrase",
+      "bs": "staklenički plinovi",
+      "en": "greenhouse gases",
+      "exampleArabic": "تَحْبِسُ غَازَاتُ الدَّفِيئَةِ الْحَرَارَةَ فِي الْغِلَافِ الْجَوِّيِّ.",
+      "exampleBs": "Staklenički plinovi zarobljavaju toplinu u atmosferi.",
+      "exampleEn": "Greenhouse gases trap heat in the atmosphere."
+    },
+    {
+      "arabic": "إِزَالَةُ الْغَابَاتِ",
+      "root": "ز و ل",
+      "type": "phrase",
+      "bs": "krčenje šuma, deforestacija",
+      "en": "deforestation",
+      "exampleArabic": "تُشَكِّلُ إِزَالَةُ الْغَابَاتِ تَهْدِيدًا كَبِيرًا لِلتَّنَوُّعِ الْبِيئِيِّ.",
+      "exampleBs": "Krčenje šuma predstavlja veliku prijetnju biološkoj raznolikosti.",
+      "exampleEn": "Deforestation poses a major threat to biodiversity."
+    },
+    {
+      "arabic": "التَّصَحُّرُ",
+      "root": "ص ح ر",
+      "type": "noun",
+      "bs": "dezertifikacija, širenje pustinje",
+      "en": "desertification",
+      "exampleArabic": "يُؤَثِّرُ التَّصَحُّرُ عَلَى مَلَايِينِ الْهِكْتَارَاتِ سَنَوِيًّا.",
+      "exampleBs": "Dezertifikacija godišnje pogađa milione hektara.",
+      "exampleEn": "Desertification affects millions of hectares annually."
+    },
+    {
+      "arabic": "الْجَفَافُ",
+      "root": "ج ف ف",
+      "type": "noun",
+      "bs": "suša",
+      "en": "drought",
+      "exampleArabic": "أَدَّى الْجَفَافُ الطَّوِيلُ إِلَى نَقْصٍ حَادٍّ فِي الْمَحَاصِيلِ.",
+      "exampleBs": "Dugotrajna suša dovela je do ozbiljnog nedostatka usjeva.",
+      "exampleEn": "The prolonged drought led to a severe shortage of crops."
+    },
+    {
+      "arabic": "الْفَيَضَانُ",
+      "root": "ف ي ض",
+      "type": "noun",
+      "bs": "poplava",
+      "en": "flood",
+      "exampleArabic": "دَمَّرَ الْفَيَضَانُ الْعَارِمُ الْقُرَى الْمُجَاوِرَةَ.",
+      "exampleBs": "Razorna poplava uništila je susjedna sela.",
+      "exampleEn": "The devastating flood destroyed the neighbouring villages."
+    },
+    {
+      "arabic": "الزِّلْزَالُ",
+      "root": "ز ل ز",
+      "type": "noun",
+      "bs": "zemljotres",
+      "en": "earthquake",
+      "exampleArabic": "ضَرَبَ زِلْزَالٌ عَنِيفٌ الْمَدِينَةَ فِي سَاعَةٍ مُبَكِّرَةٍ.",
+      "exampleBs": "Snažan zemljotres pogodio je grad u ranim satima.",
+      "exampleEn": "A powerful earthquake struck the city in the early hours."
+    },
+    {
+      "arabic": "التَّسُونَامِي",
+      "root": "س ن م",
+      "type": "noun",
+      "bs": "cunami",
+      "en": "tsunami",
+      "exampleArabic": "اجْتَاحَ التَّسُونَامِي الشَّوَاطِئَ وَخَلَّفَ دَمَارًا هَائِلًا.",
+      "exampleBs": "Cunami je preplavio obale ostavljajući golemo razaranje.",
+      "exampleEn": "The tsunami swept the coasts leaving massive destruction."
+    },
+    {
+      "arabic": "التَّنَوُّعُ الْبِيئِيُّ",
+      "root": "ن و ع",
+      "type": "phrase",
+      "bs": "biološka raznolikost, biodiverzitet",
+      "en": "biodiversity",
+      "exampleArabic": "يَعْتَمِدُ التَّوَازُنُ الطَّبِيعِيُّ عَلَى التَّنَوُّعِ الْبِيئِيِّ.",
+      "exampleBs": "Prirodna ravnoteža ovisi o biološkoj raznolikosti.",
+      "exampleEn": "The natural balance depends on biodiversity."
+    },
+    {
+      "arabic": "الْأَنْوَاعُ الْمُهَدَّدَةُ بِالِانْقِرَاضِ",
+      "root": "ن و ع",
+      "type": "phrase",
+      "bs": "ugrožene vrste",
+      "en": "endangered species",
+      "exampleArabic": "تَعْمَلُ مُنَظَّمَاتٌ كَثِيرَةٌ عَلَى حِمَايَةِ الْأَنْوَاعِ الْمُهَدَّدَةِ بِالِانْقِرَاضِ.",
+      "exampleBs": "Mnoge organizacije rade na zaštiti ugroženih vrsta.",
+      "exampleEn": "Many organisations work to protect endangered species."
+    },
+    {
+      "arabic": "الْمَحْمِيَّةُ الطَّبِيعِيَّةُ",
+      "root": "ح م ي",
+      "type": "phrase",
+      "bs": "prirodni rezervat",
+      "en": "wildlife reserve",
+      "exampleArabic": "تُوَفِّرُ الْمَحْمِيَّةُ الطَّبِيعِيَّةُ مَلْجَأً آمِنًا لِلْحَيَوَانَاتِ.",
+      "exampleBs": "Prirodni rezervat pruža sigurno utočište za životinje.",
+      "exampleEn": "The wildlife reserve provides a safe haven for animals."
+    },
+    {
+      "arabic": "التَّنْمِيَةُ الْمُسْتَدَامَةُ",
+      "root": "ن م و",
+      "type": "phrase",
+      "bs": "održivi razvoj",
+      "en": "sustainable development",
+      "exampleArabic": "تَهْدِفُ التَّنْمِيَةُ الْمُسْتَدَامَةُ إِلَى تَلْبِيَةِ احْتِيَاجَاتِ الْأَجْيَالِ الْقَادِمَةِ.",
+      "exampleBs": "Održivi razvoj ima za cilj zadovoljiti potrebe budućih generacija.",
+      "exampleEn": "Sustainable development aims to meet the needs of future generations."
+    },
+    {
+      "arabic": "الطَّاقَةُ الْمُتَجَدِّدَةُ",
+      "root": "ط و ق",
+      "type": "phrase",
+      "bs": "obnovljiva energija",
+      "en": "renewable energy",
+      "exampleArabic": "تُعَدُّ الطَّاقَةُ الْمُتَجَدِّدَةُ بَدِيلًا نَظِيفًا لِلْوُقُودِ الْأَحْفُورِيِّ.",
+      "exampleBs": "Obnovljiva energija smatra se čistom alternativom fosilnim gorivima.",
+      "exampleEn": "Renewable energy is considered a clean alternative to fossil fuels."
+    },
+    {
+      "arabic": "الطَّاقَةُ الشَّمْسِيَّةُ",
+      "root": "ط و ق",
+      "type": "phrase",
+      "bs": "solarna energija",
+      "en": "solar power",
+      "exampleArabic": "تَنْتَشِرُ الطَّاقَةُ الشَّمْسِيَّةُ بِسُرْعَةٍ فِي الدُّوَلِ الْعَرَبِيَّةِ.",
+      "exampleBs": "Solarna energija se brzo širi u arapskim zemljama.",
+      "exampleEn": "Solar power is spreading rapidly in Arab countries."
+    },
+    {
+      "arabic": "طَاقَةُ الرِّيَاحِ",
+      "root": "ط و ق",
+      "type": "phrase",
+      "bs": "energija vjetra",
+      "en": "wind energy",
+      "exampleArabic": "تُوَلِّدُ طَاقَةُ الرِّيَاحِ الْكَهْرَبَاءَ دُونَ تَلْوِيثِ الْبِيئَةِ.",
+      "exampleBs": "Energija vjetra proizvodi struju bez zagađivanja okoliša.",
+      "exampleEn": "Wind energy generates electricity without polluting the environment."
+    },
+    {
+      "arabic": "إِعَادَةُ التَّدْوِيرِ",
+      "root": "د و ر",
+      "type": "phrase",
+      "bs": "recikliranje",
+      "en": "recycling",
+      "exampleArabic": "تُسَاهِمُ إِعَادَةُ التَّدْوِيرِ فِي تَقْلِيلِ النُّفَايَاتِ.",
+      "exampleBs": "Recikliranje doprinosi smanjenju otpada.",
+      "exampleEn": "Recycling contributes to reducing waste."
+    },
+    {
+      "arabic": "التَّلَوُّثُ",
+      "root": "ل و ث",
+      "type": "noun",
+      "bs": "zagađenje",
+      "en": "pollution",
+      "exampleArabic": "يُسَبِّبُ تَلَوُّثُ الْهَوَاءِ أَمْرَاضًا تَنَفُّسِيَّةً خَطِيرَةً.",
+      "exampleBs": "Zagađenje zraka uzrokuje ozbiljne bolesti dišnog sustava.",
+      "exampleEn": "Air pollution causes serious respiratory diseases."
+    },
+    {
+      "arabic": "الْقَارَّةُ",
+      "root": "ق ر ر",
+      "type": "noun",
+      "bs": "kontinent",
+      "en": "continent",
+      "exampleArabic": "تَنْقَسِمُ الْكُرَةُ الْأَرْضِيَّةُ إِلَى سَبْعِ قَارَّاتٍ.",
+      "exampleBs": "Zemlja je podijeljena na sedam kontinenata.",
+      "exampleEn": "The Earth is divided into seven continents."
+    },
+    {
+      "arabic": "شِبْهُ الْجَزِيرَةِ",
+      "root": "ج ز ر",
+      "type": "noun",
+      "bs": "poluotok",
+      "en": "peninsula",
+      "exampleArabic": "تَقَعُ الْمَمْلَكَةُ الْعَرَبِيَّةُ السُّعُودِيَّةُ فِي شِبْهِ جَزِيرَةٍ كَبِيرٍ.",
+      "exampleBs": "Saudijska Arabija se nalazi na velikom poluotoku.",
+      "exampleEn": "Saudi Arabia is located on a large peninsula."
+    },
+    {
+      "arabic": "الْهَضْبَةُ",
+      "root": "ه ض ب",
+      "type": "noun",
+      "bs": "visoravan, zaravan",
+      "en": "plateau",
+      "exampleArabic": "تَمْتَدُّ الْهَضْبَةُ عَلَى مَسَافَةٍ طَوِيلَةٍ فِي الْقَلْبِ الْإِفْرِيقِيِّ.",
+      "exampleBs": "Visoravan se prostire na dugoj udaljenosti u srcu Afrike.",
+      "exampleEn": "The plateau stretches over a long distance in the heart of Africa."
+    },
+    {
+      "arabic": "الْمَضِيقُ",
+      "root": "ض ي ق",
+      "type": "noun",
+      "bs": "tjesnac, prolaz",
+      "en": "strait",
+      "exampleArabic": "يَفْصِلُ الْمَضِيقُ بَيْنَ الْقَارَّتَيْنِ.",
+      "exampleBs": "Tjesnac razdvaja dva kontinenta.",
+      "exampleEn": "The strait separates the two continents."
+    },
+    {
+      "arabic": "الْجُلَيِّدُ",
+      "root": "ج ل د",
+      "type": "noun",
+      "bs": "ledenjak",
+      "en": "glacier",
+      "exampleArabic": "يَذُوبُ الْجُلَيِّدُ بِمُعَدَّلٍ مُتَسَارِعٍ بِسَبَبِ الِاحْتِبَاسِ الْحَرَارِيِّ.",
+      "exampleBs": "Ledenjak se topi ubrzanim tempom zbog globalnog zagrijavanja.",
+      "exampleEn": "The glacier melts at an accelerating rate due to global warming."
+    },
+    {
+      "arabic": "الشَّعَبُ الْمَرْجَانِيُّ",
+      "root": "ش ع ب",
+      "type": "phrase",
+      "bs": "koraljni greben",
+      "en": "coral reef",
+      "exampleArabic": "يُعَدُّ الشَّعَبُ الْمَرْجَانِيُّ مَوْطِنًا لِآلَافِ الْأَنْوَاعِ الْبَحْرِيَّةِ.",
+      "exampleBs": "Koraljni greben dom je tisućama morskih vrsta.",
+      "exampleEn": "The coral reef is home to thousands of marine species."
+    },
+    {
+      "arabic": "السَّافَانَا",
+      "root": "س ف ن",
+      "type": "noun",
+      "bs": "savana",
+      "en": "savanna",
+      "exampleArabic": "تَعِيشُ قُطْعَانٌ ضَخْمَةٌ مِنَ الْحَيَوَانَاتِ فِي السَّافَانَا الْأَفْرِيقِيَّةِ.",
+      "exampleBs": "Velika stada životinja žive u afričkoj savani.",
+      "exampleEn": "Large herds of animals live in the African savanna."
+    },
+    {
+      "arabic": "الْغَابَةُ الْمَطِيرَةُ",
+      "root": "غ ي ب",
+      "type": "phrase",
+      "bs": "prašuma, tropska kišna šuma",
+      "en": "rainforest",
+      "exampleArabic": "تُنْتِجُ الْغَابَةُ الْمَطِيرَةُ جُزْءًا كَبِيرًا مِنْ أُكْسِجِينِ الْعَالَمِ.",
+      "exampleBs": "Kišna šuma proizvodi veliki dio kisika na planeti.",
+      "exampleEn": "The rainforest produces a large portion of the world's oxygen."
+    },
+    {
+      "arabic": "التُّنْدْرَا",
+      "root": "ت ن د",
+      "type": "noun",
+      "bs": "tundra",
+      "en": "tundra",
+      "exampleArabic": "تَتَمِيَّزُ التُّنْدْرَا بِمَنَاخِهَا الْبَارِدِ وَتُرْبَتِهَا الْمُتَجَمِّدَةِ.",
+      "exampleBs": "Tundra se odlikuje hladnom klimom i smrznutim tlom.",
+      "exampleEn": "The tundra is characterised by its cold climate and frozen soil."
+    },
+    {
+      "arabic": "الْكُسُوفُ",
+      "root": "ك س ف",
+      "type": "noun",
+      "bs": "pomračenje (sunca)",
+      "en": "eclipse",
+      "exampleArabic": "شَاهَدَ النَّاسُ الْكُسُوفَ الشَّمْسِيَّ بِدَهْشَةٍ وَإِعْجَابٍ.",
+      "exampleBs": "Ljudi su s divljenjem promatrali pomračenje sunca.",
+      "exampleEn": "People watched the solar eclipse with awe and wonder."
+    },
+    {
+      "arabic": "الْمَدُّ وَالْجَزْرُ",
+      "root": "م د د",
+      "type": "phrase",
+      "bs": "plima i oseka",
+      "en": "tide",
+      "exampleArabic": "يَتَأَثَّرُ الْمَدُّ وَالْجَزْرُ بِجَاذِبِيَّةِ الْقَمَرِ.",
+      "exampleBs": "Plima i oseka su pod utjecajem privlačne sile Mjeseca.",
+      "exampleEn": "Tides are influenced by the gravitational pull of the moon."
+    },
+    {
+      "arabic": "الِانْفِجَارُ الْبُرْكَانِيُّ",
+      "root": "ف ج ر",
+      "type": "phrase",
+      "bs": "vulkanska erupcija",
+      "en": "volcanic eruption",
+      "exampleArabic": "أَدَّى الِانْفِجَارُ الْبُرْكَانِيُّ إِلَى نُزُوحِ آلَافِ السُّكَّانِ.",
+      "exampleBs": "Vulkanska erupcija uzrokovala je raseljavanje hiljada stanovnika.",
+      "exampleEn": "The volcanic eruption caused the displacement of thousands of residents."
+    },
+    {
+      "arabic": "الِانْهِيَارُ الثَّلْجِيُّ",
+      "root": "ن ه ر",
+      "type": "phrase",
+      "bs": "lavina",
+      "en": "avalanche",
+      "exampleArabic": "أَغْلَقَ الِانْهِيَارُ الثَّلْجِيُّ الطَّرِيقَ الْجَبَلِيَّ لِأَيَّامٍ.",
+      "exampleBs": "Lavina je zatvorila planinski put na nekoliko dana.",
+      "exampleEn": "The avalanche blocked the mountain road for several days."
+    },
+    {
+      "arabic": "الْإِعْصَارُ",
+      "root": "ع ص ر",
+      "type": "noun",
+      "bs": "tornado, vrtlog",
+      "en": "tornado",
+      "exampleArabic": "اجْتَاحَ الْإِعْصَارُ الْمِنْطَقَةَ وَأَلْحَقَ أَضْرَارًا جَسِيمَةً.",
+      "exampleBs": "Tornado je pohario područje nanijevši veliku štetu.",
+      "exampleEn": "The tornado swept through the region causing severe damage."
+    },
+    {
+      "arabic": "الرُّطُوبَةُ",
+      "root": "ر ط ب",
+      "type": "noun",
+      "bs": "vlažnost (zraka)",
+      "en": "humidity",
+      "exampleArabic": "تَرْتَفِعُ الرُّطُوبَةُ فِي الْمَنَاطِقِ الِاسْتِوَائِيَّةِ.",
+      "exampleBs": "Vlažnost se povećava u tropskim predjelima.",
+      "exampleEn": "Humidity rises in tropical regions."
+    },
+    {
+      "arabic": "الضَّغْطُ الْجَوِّيُّ",
+      "root": "ض غ ط",
+      "type": "phrase",
+      "bs": "atmosferski pritisak",
+      "en": "atmospheric pressure",
+      "exampleArabic": "يَنْخَفِضُ الضَّغْطُ الْجَوِّيُّ كُلَّمَا ارْتَفَعْنَا إِلَى أَعْلَى.",
+      "exampleBs": "Atmosferski pritisak opada kako se penjemo više.",
+      "exampleEn": "Atmospheric pressure decreases the higher we climb."
+    },
+    {
+      "arabic": "النِّظَامُ الْبِيئِيُّ",
+      "root": "ن ظ م",
+      "type": "phrase",
+      "bs": "ekosistem",
+      "en": "ecosystem",
+      "exampleArabic": "يَتَكَوَّنُ النِّظَامُ الْبِيئِيُّ مِنْ كَائِنَاتٍ حَيَّةٍ وَبِيئَتِهَا.",
+      "exampleBs": "Ekosistem se sastoji od živih bića i njihovog okoliša.",
+      "exampleEn": "An ecosystem consists of living organisms and their environment."
+    },
+    {
+      "arabic": "السِّلْسِلَةُ الْغِذَائِيَّةُ",
+      "root": "س ل س",
+      "type": "phrase",
+      "bs": "hranidbeni lanac",
+      "en": "food chain",
+      "exampleArabic": "تَرْتَبِطُ الْكَائِنَاتُ الْحَيَّةُ بِبَعْضِهَا عَبْرَ السِّلْسِلَةِ الْغِذَائِيَّةِ.",
+      "exampleBs": "Živa bića međusobno su povezana kroz hranidbeni lanac.",
+      "exampleEn": "Living organisms are connected to each other through the food chain."
+    },
+    {
+      "arabic": "الْمَوْطِنُ الطَّبِيعِيُّ",
+      "root": "و ط ن",
+      "type": "phrase",
+      "bs": "prirodno stanište",
+      "en": "habitat",
+      "exampleArabic": "يَعْتَمِدُ الْحَيَوَانُ عَلَى مَوْطِنِهِ الطَّبِيعِيِّ لِلْبَقَاءِ.",
+      "exampleBs": "Životinja ovisi o svom prirodnom staništu za preživljavanje.",
+      "exampleEn": "The animal depends on its natural habitat for survival."
+    },
+    {
+      "arabic": "الِانْقِرَاضُ",
+      "root": "ق ر ض",
+      "type": "noun",
+      "bs": "izumiranje, nestajanje vrsta",
+      "en": "extinction",
+      "exampleArabic": "يُهَدِّدُ النَّشَاطُ الْبَشَرِيُّ كَثِيرًا مِنَ الْأَنْوَاعِ بِالِانْقِرَاضِ.",
+      "exampleBs": "Ljudska aktivnost prijeti izumiranjem mnogih vrsta.",
+      "exampleEn": "Human activity threatens many species with extinction."
+    },
+    {
+      "arabic": "هِجْرَةُ الْحَيَوَانَاتِ",
+      "root": "ه ج ر",
+      "type": "phrase",
+      "bs": "migracija životinja",
+      "en": "animal migration",
+      "exampleArabic": "تَقْطَعُ الطُّيُورُ مَسَافَاتٍ شَاسِعَةً خِلَالَ هِجْرَتِهَا السَّنَوِيَّةِ.",
+      "exampleBs": "Ptice prelaze ogromne razdaljine tokom godišnje migracije.",
+      "exampleEn": "Birds cover vast distances during their annual migration."
+    },
+    {
+      "arabic": "الْمُفْتَرِسُ",
+      "root": "ف ر س",
+      "type": "noun",
+      "bs": "grabljivac, predator",
+      "en": "predator",
+      "exampleArabic": "يَتَرَبَّصُ الْمُفْتَرِسُ بِفَرِيسَتِهِ بِصَبْرٍ.",
+      "exampleBs": "Grabljivac strpljivo vreba svoju žrtvu.",
+      "exampleEn": "The predator patiently stalks its prey."
+    },
+    {
+      "arabic": "الْفَرِيسَةُ",
+      "root": "ف ر س",
+      "type": "noun",
+      "bs": "plijen, žrtva (lova)",
+      "en": "prey",
+      "exampleArabic": "أَفْلَتَتِ الْفَرِيسَةُ مِنَ الْمُفْتَرِسِ بِسُرْعَتِهَا الْفَائِقَةِ.",
+      "exampleBs": "Plijen je pobjegao grabljivcu zahvaljujući svojoj izuzetnoj brzini.",
+      "exampleEn": "The prey escaped from the predator thanks to its remarkable speed."
+    },
+    {
+      "arabic": "الْعَوَاصِفُ الرَّمْلِيَّةُ",
+      "root": "ع ص ف",
+      "type": "phrase",
+      "bs": "pješčane oluje",
+      "en": "sandstorms",
+      "exampleArabic": "تَجْتَاحُ الْعَوَاصِفُ الرَّمْلِيَّةُ الْمَنَاطِقَ الصَّحْرَاوِيَّةَ بِانْتِظَامٍ.",
+      "exampleBs": "Pješčane oluje redovito pustoše pustinjska područja.",
+      "exampleEn": "Sandstorms regularly sweep through desert regions."
+    },
+    {
+      "arabic": "الطَّبَقَةُ الْأُوزُونِيَّةُ",
+      "root": "ط ب ق",
+      "type": "phrase",
+      "bs": "ozonski omotač",
+      "en": "ozone layer",
+      "exampleArabic": "تَحْمِي الطَّبَقَةُ الْأُوزُونِيَّةُ الْأَرْضَ مِنَ الْأَشِعَّةِ الضَّارَّةِ.",
+      "exampleBs": "Ozonski omotač štiti Zemlju od štetnih zraka.",
+      "exampleEn": "The ozone layer protects the Earth from harmful radiation."
+    },
+    {
+      "arabic": "الْمَصَادِرُ الطَّبِيعِيَّةُ",
+      "root": "ص د ر",
+      "type": "phrase",
+      "bs": "prirodni resursi",
+      "en": "natural resources",
+      "exampleArabic": "يَجِبُ اسْتِغْلَالُ الْمَصَادِرِ الطَّبِيعِيَّةِ بِصُورَةٍ مَسْؤُولَةٍ.",
+      "exampleBs": "Prirodne resurse treba koristiti na odgovoran način.",
+      "exampleEn": "Natural resources must be exploited in a responsible manner."
+    },
+    {
+      "arabic": "الْمُنَاخُ",
+      "root": "ن و خ",
+      "type": "noun",
+      "bs": "klima",
+      "en": "climate",
+      "exampleArabic": "يَخْتَلِفُ الْمُنَاخُ اخْتِلَافًا كَبِيرًا بَيْنَ مَنَاطِقِ الْعَالَمِ.",
+      "exampleBs": "Klima se znatno razlikuje između pojedinih dijelova svijeta.",
+      "exampleEn": "The climate varies greatly between different regions of the world."
+    },
+    {
+      "arabic": "التَّآكُلُ",
+      "root": "أ ك ل",
+      "type": "noun",
+      "bs": "erozija",
+      "en": "erosion",
+      "exampleArabic": "يُسَبِّبُ التَّآكُلُ فُقْدَانَ التُّرْبَةِ الْخَصِبَةِ تَدْرِيجِيًّا.",
+      "exampleBs": "Erozija postepeno uzrokuje gubitak plodnog tla.",
+      "exampleEn": "Erosion gradually causes the loss of fertile soil."
+    },
+    {
+      "arabic": "الطُّحْلُبُ",
+      "root": "ط ح ل",
+      "type": "noun",
+      "bs": "alga, alge",
+      "en": "algae",
+      "exampleArabic": "يُنْتِجُ الطُّحْلُبُ كَمِّيَّاتٍ ضَخْمَةً مِنَ الْأُكْسِجِينِ فِي الْمُحِيطَاتِ.",
+      "exampleBs": "Alge proizvode ogromne količine kisika u oceanima.",
+      "exampleEn": "Algae produce vast amounts of oxygen in the oceans."
+    },
+    {
+      "arabic": "الْوُقُودُ الْأَحْفُورِيُّ",
+      "root": "و ق د",
+      "type": "phrase",
+      "bs": "fosilna goriva",
+      "en": "fossil fuels",
+      "exampleArabic": "يُؤَدِّي حَرْقُ الْوُقُودِ الْأَحْفُورِيِّ إِلَى تَلْوِيثِ الْهَوَاءِ.",
+      "exampleBs": "Sagorijevanje fosilnih goriva dovodi do zagađenja zraka.",
+      "exampleEn": "Burning fossil fuels leads to air pollution."
+    }
+  ]
+}
