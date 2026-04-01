@@ -17,6 +17,8 @@ import PushPinIcon from '@mui/icons-material/PushPin'
 import PushPinOutlinedIcon from '@mui/icons-material/PushPinOutlined'
 import ViewStreamIcon from '@mui/icons-material/ViewStream'
 import SubjectIcon from '@mui/icons-material/Subject'
+import TextIncreaseIcon from '@mui/icons-material/TextIncrease'
+import TextDecreaseIcon from '@mui/icons-material/TextDecrease'
 import { motion } from 'framer-motion'
 import type { ContentItem, Sentence } from '@/types/content'
 import { toggleHarakat } from '@/utils/diacritics'
@@ -29,12 +31,15 @@ import { useI18n } from '@/i18n'
 
 const PIN_KEY = 'fushalab_pin_translation'
 const SENTENCE_MODE_KEY = 'fushalab_sentence_mode'
+const FONT_SIZE_KEY = 'fushalab_fontsize'
+
+const FONT_SIZES = [1.2, 1.5, 1.9, 2.3, 2.8] // rem steps
+const DEFAULT_FONT_IDX = 2
 
 const difficultyColor = (d: number) => (d === 1 ? 'success' : d === 2 ? 'warning' : 'error')
 
-const arabicSx = {
+const baseArabicSx = {
   fontFamily: '"Amiri", serif',
-  fontSize: { xs: '1.5rem', sm: '1.9rem', md: '2.2rem' },
   lineHeight: 2,
   letterSpacing: '0.02em',
   direction: 'rtl',
@@ -89,6 +94,18 @@ export function TextCard({ item }: Props) {
   const [sentenceMode, setSentenceMode] = useState(
     () => localStorage.getItem(SENTENCE_MODE_KEY) === 'true'
   )
+  const [fontSizeIdx, setFontSizeIdx] = useState(() => {
+    const stored = Number(localStorage.getItem(FONT_SIZE_KEY))
+    return isNaN(stored) || stored < 0 || stored >= FONT_SIZES.length ? DEFAULT_FONT_IDX : stored
+  })
+
+  const changeFontSize = (delta: number) => {
+    setFontSizeIdx(prev => {
+      const next = Math.max(0, Math.min(FONT_SIZES.length - 1, prev + delta))
+      localStorage.setItem(FONT_SIZE_KEY, String(next))
+      return next
+    })
+  }
 
   const togglePin = () => {
     const next = !pinTranslation
@@ -178,6 +195,22 @@ export function TextCard({ item }: Props) {
             </Stack>
 
             <Stack direction="row" alignItems="center" gap={0.5}>
+              {/* Font size */}
+              <Tooltip title="-A">
+                <span>
+                  <IconButton size="small" onClick={() => changeFontSize(-1)} disabled={fontSizeIdx === 0}>
+                    <TextDecreaseIcon fontSize="small" />
+                  </IconButton>
+                </span>
+              </Tooltip>
+              <Tooltip title="+A">
+                <span>
+                  <IconButton size="small" onClick={() => changeFontSize(1)} disabled={fontSizeIdx === FONT_SIZES.length - 1}>
+                    <TextIncreaseIcon fontSize="small" />
+                  </IconButton>
+                </span>
+              </Tooltip>
+
               {/* Pin translation */}
               <Tooltip title={pinTranslation ? t.reader.unpinTranslation : t.reader.pinTranslation}>
                 <IconButton
@@ -237,7 +270,11 @@ export function TextCard({ item }: Props) {
 
           {/* ── Arabic text ───────────────────────────────────────────────── */}
           <Box dir="rtl" sx={{ py: 2, px: 1, borderRadius: 2, bgcolor: 'action.hover', mb: 2 }}>
-            <Typography variant="h5" component="p" sx={arabicSx}>
+            <Typography
+              variant="h5"
+              component="p"
+              sx={{ ...baseArabicSx, fontSize: `${FONT_SIZES[fontSizeIdx]}rem` }}
+            >
               {sentenceMode
                 ? toggleHarakat(currentSentence.arabic, showHarakat)
                 : item.sentences.map((s, i) => (
