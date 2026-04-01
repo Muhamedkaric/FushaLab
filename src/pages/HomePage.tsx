@@ -18,9 +18,20 @@ import InsightsIcon from '@mui/icons-material/Insights'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import { motion, useReducedMotion } from 'framer-motion'
 import { useNavigate } from '@tanstack/react-router'
+import { useMemo } from 'react'
 import { useI18n } from '@/i18n'
 import { getTodaysWord } from '@/data/wordOfDay'
 import { useProgress } from '@/hooks/useProgress'
+
+// Parse a reading item ID like "travel-b1-042" into { category, level, path }
+function parseLastReadId(id: string): { category: string; level: string; path: string } | null {
+  // ID format: {category}-{level}-{number}, level is always 2 chars (b1/b2/c1/c2)
+  const match = id.match(/^(.+)-(b1|b2|c1|c2)-\d+$/i)
+  if (!match) return null
+  const category = match[1]
+  const level = match[2].toUpperCase()
+  return { category, level, path: `/reading/${category}/${level}/${id}` }
+}
 
 // Arabic letters to float in the hero background
 const FLOAT_LETTERS = ['ع', 'ل', 'م', 'ك', 'ت', 'ب', 'ق', 'ر', 'ن', 'و', 'ف', 'ص', 'ح', 'ذ', 'ش']
@@ -57,8 +68,15 @@ const SECTIONS = [
 export function HomePage() {
   const { t, lang } = useI18n()
   const navigate = useNavigate()
-  const { stats } = useProgress()
+  const { stats, progress } = useProgress()
   const word = getTodaysWord()
+
+  const lastRead = useMemo(() => {
+    const entries = Object.entries(progress.completedAt)
+    if (entries.length === 0) return null
+    const [latestId] = entries.reduce((best, cur) => (cur[1] > best[1] ? cur : best))
+    return parseLastReadId(latestId)
+  }, [progress.completedAt])
   const prefersReducedMotion = useReducedMotion()
 
   return (
@@ -213,6 +231,45 @@ export function HomePage() {
           </Typography>
         </motion.div>
       </Box>
+
+      {/* ── Continue Reading ─────────────────────────────────────────── */}
+      {lastRead && (
+        <Box sx={{ borderBottom: '1px solid', borderColor: 'divider' }}>
+          <Container maxWidth="md">
+            <motion.div
+              initial={{ opacity: 0, y: -8 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.4, delay: 0.5 }}
+            >
+              <Stack
+                direction="row"
+                alignItems="center"
+                justifyContent="space-between"
+                sx={{ py: 1.5 }}
+              >
+                <Stack direction="row" alignItems="center" gap={1}>
+                  <MenuBookIcon sx={{ fontSize: 16, color: 'primary.main' }} />
+                  <Typography variant="body2" color="text.secondary">
+                    {t.home.continueReading}
+                  </Typography>
+                  <Typography variant="body2" fontWeight={700} sx={{ textTransform: 'capitalize' }}>
+                    {t.categories[lastRead.category as keyof typeof t.categories] ?? lastRead.category}
+                  </Typography>
+                  <Chip label={lastRead.level} size="small" color="primary" sx={{ height: 18, fontSize: '0.65rem', fontWeight: 700 }} />
+                </Stack>
+                <Button
+                  size="small"
+                  endIcon={<ArrowForwardIcon sx={{ fontSize: 14 }} />}
+                  onClick={() => void navigate({ to: lastRead.path })}
+                  sx={{ fontWeight: 700, fontSize: '0.8rem', minWidth: 0 }}
+                >
+                  {t.reader.next}
+                </Button>
+              </Stack>
+            </motion.div>
+          </Container>
+        </Box>
+      )}
 
       {/* ── Word of the Day ───────────────────────────────────────────── */}
       <Box sx={{ bgcolor: 'background.paper', borderTop: '1px solid', borderColor: 'divider' }}>

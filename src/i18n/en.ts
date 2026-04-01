@@ -19,6 +19,7 @@ export interface Translations {
     wordOfDay: string
     wordRoot: string
     welcomeBack: string
+    continueReading: string
     exploreSection: string
     sections: {
       reading: { title: string; desc: string }
@@ -253,6 +254,7 @@ export const en: Translations = {
     wordOfDay: 'Word of the Day',
     wordRoot: 'Root',
     welcomeBack: 'Continue your journey',
+    continueReading: 'Continue reading',
     exploreSection: 'Explore',
     sections: {
       reading: {
