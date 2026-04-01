@@ -90,8 +90,11 @@ interface PackCardProps {
 }
 
 function PackCard({ pack, stars, onStart, t }: PackCardProps) {
+  const { lang } = useI18n()
   const emoji = TOPIC_EMOJI[pack.topic] ?? '📝'
   const levelColor = LEVEL_COLOR[pack.level] ?? 'primary'
+  const primaryTitle = lang === 'bs' ? pack.titleBs : pack.title
+  const secondaryTitle = lang === 'bs' ? pack.title : pack.titleBs
 
   return (
     <Box
@@ -147,10 +150,10 @@ function PackCard({ pack, stars, onStart, t }: PackCardProps) {
       {/* Title */}
       <Box flex={1}>
         <Typography variant="subtitle1" fontWeight={700} lineHeight={1.2}>
-          {pack.title}
+          {primaryTitle}
         </Typography>
-        <Typography variant="body2" color="text.secondary" mb={0.5}>
-          {pack.titleBs}
+        <Typography variant="caption" color="text.disabled" display="block" mb={0.5}>
+          {secondaryTitle}
         </Typography>
         <Typography
           dir="rtl"
