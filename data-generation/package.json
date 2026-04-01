@@ -4,10 +4,8 @@
   "type": "module",
   "scripts": {
     "generate": "tsx generate.ts",
-    "generate-vocab": "tsx generate-vocab.ts",
     "auto-generate": "tsx auto-generate.ts",
-    "validate": "tsx validate.ts",
-    "migrate-v2": "tsx migrate-v2.ts"
+    "validate": "tsx validate.ts"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
