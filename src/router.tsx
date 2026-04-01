@@ -13,6 +13,8 @@ import { ListeningPage } from './pages/ListeningPage'
 import { ChannelPage } from './pages/ChannelPage'
 import { PlaylistPage } from './pages/PlaylistPage'
 import { VocabularyPage } from './pages/VocabularyPage'
+import { VocabularySetPage } from './pages/VocabularySetPage'
+import { VocabularyStudyPage } from './pages/VocabularyStudyPage'
 import { ConversationPage } from './pages/ConversationPage'
 import { ExercisesPage } from './pages/ExercisesPage'
 import { ProgressPage } from './pages/ProgressPage'
@@ -103,11 +105,31 @@ const playlistRoute = createRoute({
   },
 })
 
-// Vocabulary
+// Vocabulary — hub
 const vocabularyRoute = createRoute({
   getParentRoute: () => shellRoute,
   path: '/vocabulary',
   component: VocabularyPage,
+})
+
+// Vocabulary — word set
+const vocabularySetRoute = createRoute({
+  getParentRoute: () => shellRoute,
+  path: '/vocabulary/$setId',
+  component: function VocabularySetRouteComponent() {
+    const { setId } = vocabularySetRoute.useParams()
+    return <VocabularySetPage setId={setId} />
+  },
+})
+
+// Vocabulary — study session
+const vocabularyStudyRoute = createRoute({
+  getParentRoute: () => shellRoute,
+  path: '/vocabulary/$setId/study',
+  component: function VocabularyStudyRouteComponent() {
+    const { setId } = vocabularyStudyRoute.useParams()
+    return <VocabularyStudyPage setId={setId} />
+  },
 })
 
 // Conversation
@@ -141,6 +163,8 @@ const routeTree = rootRoute.addChildren([
     channelRoute,
     playlistRoute,
     vocabularyRoute,
+    vocabularySetRoute,
+    vocabularyStudyRoute,
     conversationRoute,
     exercisesRoute,
     progressRoute,

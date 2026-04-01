@@ -107,7 +107,28 @@ export interface Translations {
       mixed: string
     }
   }
-  vocabulary: { title: string; comingSoon: string }
+  vocabulary: {
+    title: string
+    subtitle: string
+    sets: string
+    rootExplorer: string
+    viewAllRoots: string
+    words: string
+    known: string
+    studySet: string
+    backToVocab: string
+    study: {
+      cardOf: string
+      tapToFlip: string
+      knew: string
+      notYet: string
+      done: string
+      wordsKnown: string
+      tryAgain: string
+      finish: string
+    }
+  }
+
   conversation: { title: string; comingSoon: string }
   exercises: { title: string; comingSoon: string }
   progress: {
@@ -162,10 +183,19 @@ export const en: Translations = {
     welcomeBack: 'Continue your journey',
     exploreSection: 'Explore',
     sections: {
-      reading: { title: 'Reading', desc: 'Authentic MSA texts with full diacritics at B1–C2 level' },
+      reading: {
+        title: 'Reading',
+        desc: 'Authentic MSA texts with full diacritics at B1–C2 level',
+      },
       listening: { title: 'Listening', desc: 'Curated YouTube courses in Modern Standard Arabic' },
-      vocabulary: { title: 'Vocabulary', desc: 'Build your Arabic vocabulary with spaced repetition' },
-      conversation: { title: 'Conversation', desc: 'Practice A1–A2 dialogues and basic sentence patterns' },
+      vocabulary: {
+        title: 'Vocabulary',
+        desc: 'Build your Arabic vocabulary with spaced repetition',
+      },
+      conversation: {
+        title: 'Conversation',
+        desc: 'Practice A1–A2 dialogues and basic sentence patterns',
+      },
       exercises: { title: 'Exercises', desc: 'Grammar drills and comprehension questions' },
       progress: { title: 'Progress', desc: 'Track your learning streak and achievements' },
     },
@@ -253,9 +283,35 @@ export const en: Translations = {
       mixed: 'Mixed',
     },
   },
-  vocabulary: { title: 'Vocabulary', comingSoon: 'Vocabulary flashcards and spaced repetition — coming soon' },
-  conversation: { title: 'Conversation', comingSoon: 'A1–A2 conversation practice dialogues — coming soon' },
-  exercises: { title: 'Exercises', comingSoon: 'Grammar drills and comprehension exercises — coming soon' },
+  vocabulary: {
+    title: 'Vocabulary',
+    subtitle: 'Word sets and root families for MSA learners',
+    sets: 'Word Sets',
+    rootExplorer: 'Root Explorer',
+    viewAllRoots: 'View all roots',
+    words: 'words',
+    known: 'known',
+    studySet: 'Study',
+    backToVocab: 'Back to Vocabulary',
+    study: {
+      cardOf: 'of',
+      tapToFlip: 'Tap to flip',
+      knew: 'I knew it',
+      notYet: 'Not yet',
+      done: 'Session complete',
+      wordsKnown: 'words known',
+      tryAgain: 'Try again',
+      finish: 'Finish',
+    },
+  },
+  conversation: {
+    title: 'Conversation',
+    comingSoon: 'A1–A2 conversation practice dialogues — coming soon',
+  },
+  exercises: {
+    title: 'Exercises',
+    comingSoon: 'Grammar drills and comprehension exercises — coming soon',
+  },
   progress: {
     title: 'Your Progress',
     completed: 'Completed',
