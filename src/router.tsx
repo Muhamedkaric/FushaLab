@@ -19,6 +19,7 @@ import { ConversationPage } from './pages/ConversationPage'
 import { DialoguePage } from './pages/DialoguePage'
 import { PhrasesPage } from './pages/PhrasesPage'
 import { ExercisesPage } from './pages/ExercisesPage'
+import { ExerciseSessionPage } from './pages/ExerciseSessionPage'
 import { ProgressPage } from './pages/ProgressPage'
 import type { Category, Level } from './types/content'
 
@@ -168,11 +169,21 @@ const phraseCategoryRoute = createRoute({
   },
 })
 
-// Exercises
+// Exercises — hub
 const exercisesRoute = createRoute({
   getParentRoute: () => shellRoute,
   path: '/exercises',
   component: ExercisesPage,
+})
+
+// Exercises — session
+const exerciseSessionRoute = createRoute({
+  getParentRoute: () => shellRoute,
+  path: '/exercises/$packId',
+  component: function ExerciseSessionRouteComponent() {
+    const { packId } = exerciseSessionRoute.useParams()
+    return <ExerciseSessionPage packId={packId} />
+  },
 })
 
 // Progress
@@ -199,6 +210,7 @@ const routeTree = rootRoute.addChildren([
     phrasesRoute,
     phraseCategoryRoute,
     exercisesRoute,
+    exerciseSessionRoute,
     progressRoute,
   ]),
 ])

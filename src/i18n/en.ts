@@ -154,7 +154,43 @@ export interface Translations {
       informal: string
     }
   }
-  exercises: { title: string; comingSoon: string }
+  exercises: {
+    title: string
+    subtitle: string
+    totalXp: string
+    start: string
+    continue: string
+    backToExercises: string
+    correct: string
+    wrong: string
+    comboLabel: string
+    next: string
+    check: string
+    complete: string
+    starsEarned: string
+    tryAgain: string
+    finish: string
+    exercises: string
+    minutes: string
+    tapToListen: string
+    tapToSelect: string
+    levels: { A1: string; A2: string; B1: string; B2: string }
+    prompts: {
+      whatMeans: string
+      selectArabic: string
+      fillGap: string
+      orderWords: string
+      matchPairs: string
+      oddOneOut: string
+      listenSelect: string
+    }
+    done: {
+      perfect: string
+      great: string
+      good: string
+      keep: string
+    }
+  }
   progress: {
     title: string
     completed: string
@@ -355,7 +391,45 @@ export const en: Translations = {
   },
   exercises: {
     title: 'Exercises',
-    comingSoon: 'Grammar drills and comprehension exercises — coming soon',
+    subtitle: 'Practice Arabic with interactive drills at every level',
+    totalXp: 'XP',
+    start: 'Start',
+    continue: 'Continue',
+    backToExercises: 'Back to Exercises',
+    correct: 'Correct!',
+    wrong: 'Not quite',
+    comboLabel: 'Combo',
+    next: 'Next →',
+    check: 'Check',
+    complete: 'Complete!',
+    starsEarned: 'stars earned',
+    tryAgain: 'Try again',
+    finish: 'Finish',
+    exercises: 'exercises',
+    minutes: 'min',
+    tapToListen: 'Tap to listen',
+    tapToSelect: 'Select the word you heard',
+    levels: {
+      A1: 'A1 — Beginner',
+      A2: 'A2 — Elementary',
+      B1: 'B1 — Intermediate',
+      B2: 'B2 — Upper-Intermediate',
+    },
+    prompts: {
+      whatMeans: 'What does this word mean?',
+      selectArabic: 'Select the Arabic word',
+      fillGap: 'Fill in the missing word',
+      orderWords: 'Arrange the words in correct order',
+      matchPairs: 'Match each word to its translation',
+      oddOneOut: 'Which word does NOT belong?',
+      listenSelect: 'Listen and select the word you heard',
+    },
+    done: {
+      perfect: 'Perfect! Flawless run!',
+      great: 'Excellent work!',
+      good: 'Good job — keep it up!',
+      keep: 'Keep practicing!',
+    },
   },
   progress: {
     title: 'Your Progress',
