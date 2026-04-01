@@ -11,7 +11,10 @@ import {
 import ArrowBackIcon from '@mui/icons-material/ArrowBack'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import ArrowBackIosIcon from '@mui/icons-material/ArrowBackIos'
+import ShareIcon from '@mui/icons-material/Share'
+import CheckIcon from '@mui/icons-material/Check'
 import { useNavigate } from '@tanstack/react-router'
+import { useState } from 'react'
 import type { Category, Level } from '@/types/content'
 import { useContentItem, useLevelManifest } from '@/hooks/useContentFetch'
 import { TextCard } from '@/components/TextCard'
@@ -34,6 +37,14 @@ export function ReaderPage({ category, level, id }: Props) {
   const prevItem = currentIdx > 0 ? items[currentIdx - 1] : null
   const nextItem = currentIdx < items.length - 1 ? items[currentIdx + 1] : null
 
+  const [copied, setCopied] = useState(false)
+  const copyLink = () => {
+    void navigator.clipboard.writeText(window.location.href).then(() => {
+      setCopied(true)
+      setTimeout(() => setCopied(false), 2000)
+    })
+  }
+
   const goTo = (targetId: string) => {
     void navigate({
       to: '/reading/$category/$level/$id',
@@ -52,6 +63,12 @@ export function ReaderPage({ category, level, id }: Props) {
         <Button startIcon={<ArrowBackIosIcon />} variant="text" size="small" onClick={goToList}>
           {t.reader.backToList}
         </Button>
+
+        <Tooltip title={copied ? '✓ Copied!' : 'Copy link'}>
+          <IconButton size="small" onClick={copyLink} color={copied ? 'primary' : 'default'}>
+            {copied ? <CheckIcon fontSize="small" /> : <ShareIcon fontSize="small" />}
+          </IconButton>
+        </Tooltip>
 
         {items.length > 0 && (
           <Stack direction="row" gap={1}>
