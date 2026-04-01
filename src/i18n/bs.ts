@@ -22,6 +22,8 @@ export const bs: Translations = {
     wordRoot: 'Korijen',
     welcomeBack: 'Nastavi svoje putovanje',
     continueReading: 'Nastavi čitanje',
+    dailyGoal: 'danas',
+    goalReached: 'Cilj ostvaren!',
     exploreSection: 'Istraži',
     sections: {
       reading: {

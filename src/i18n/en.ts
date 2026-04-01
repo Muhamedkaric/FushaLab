@@ -20,6 +20,8 @@ export interface Translations {
     wordRoot: string
     welcomeBack: string
     continueReading: string
+    dailyGoal: string
+    goalReached: string
     exploreSection: string
     sections: {
       reading: { title: string; desc: string }
@@ -255,6 +257,8 @@ export const en: Translations = {
     wordRoot: 'Root',
     welcomeBack: 'Continue your journey',
     continueReading: 'Continue reading',
+    dailyGoal: 'today',
+    goalReached: 'Goal reached!',
     exploreSection: 'Explore',
     sections: {
       reading: {

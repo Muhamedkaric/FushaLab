@@ -7,6 +7,7 @@ import {
   Stack,
   Chip,
   Container,
+  Tooltip,
 } from '@mui/material'
 import Grid from '@mui/material/Grid'
 import MenuBookIcon from '@mui/icons-material/MenuBook'
@@ -18,10 +19,64 @@ import InsightsIcon from '@mui/icons-material/Insights'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import { motion, useReducedMotion } from 'framer-motion'
 import { useNavigate } from '@tanstack/react-router'
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import { useI18n } from '@/i18n'
 import { getTodaysWord } from '@/data/wordOfDay'
 import { useProgress } from '@/hooks/useProgress'
+
+const DAILY_GOAL_KEY = 'fushalab_daily_goal'
+const GOAL_OPTIONS = [1, 3, 5, 10]
+
+// SVG ring showing daily goal progress
+function GoalRing({ done, goal, onCycleGoal, label, reachedLabel }: {
+  done: number; goal: number; onCycleGoal: () => void; label: string; reachedLabel: string
+}) {
+  const r = 16
+  const circ = 2 * Math.PI * r
+  const progress = Math.min(done / goal, 1)
+  const dash = progress * circ
+  const reached = done >= goal
+
+  return (
+    <Tooltip title={`${label} — ${reachedLabel.toLowerCase()} (${GOAL_OPTIONS.join('/')})`}>
+      <Stack
+        direction="row"
+        alignItems="center"
+        gap={0.75}
+        onClick={onCycleGoal}
+        sx={{ cursor: 'pointer', userSelect: 'none', flexShrink: 0 }}
+      >
+        <Box sx={{ position: 'relative', width: 40, height: 40 }}>
+          <svg width="40" height="40" style={{ transform: 'rotate(-90deg)' }}>
+            <circle cx="20" cy="20" r={r} fill="none" stroke="rgba(201,168,76,0.15)" strokeWidth={3} />
+            <circle
+              cx="20" cy="20" r={r} fill="none"
+              stroke={reached ? '#4caf50' : '#C9A84C'}
+              strokeWidth={3}
+              strokeDasharray={`${dash} ${circ}`}
+              strokeLinecap="round"
+              style={{ transition: 'stroke-dasharray 0.4s ease' }}
+            />
+          </svg>
+          <Typography
+            variant="caption"
+            fontWeight={700}
+            sx={{
+              position: 'absolute', inset: 0, display: 'flex', alignItems: 'center',
+              justifyContent: 'center', fontSize: '0.65rem',
+              color: reached ? 'success.main' : 'primary.main',
+            }}
+          >
+            {done}/{goal}
+          </Typography>
+        </Box>
+        <Typography variant="caption" color="text.secondary" sx={{ display: { xs: 'none', sm: 'block' } }}>
+          {reached ? reachedLabel : label}
+        </Typography>
+      </Stack>
+    </Tooltip>
+  )
+}
 
 // Parse a reading item ID like "travel-b1-042" into { category, level, path }
 function parseLastReadId(id: string): { category: string; level: string; path: string } | null {
@@ -77,6 +132,27 @@ export function HomePage() {
     const [latestId] = entries.reduce((best, cur) => (cur[1] > best[1] ? cur : best))
     return parseLastReadId(latestId)
   }, [progress.completedAt])
+
+  const [dailyGoal, setDailyGoal] = useState(() => {
+    const stored = Number(localStorage.getItem(DAILY_GOAL_KEY))
+    return GOAL_OPTIONS.includes(stored) ? stored : 3
+  })
+
+  const todayCount = useMemo(() => {
+    const midnight = new Date()
+    midnight.setHours(0, 0, 0, 0)
+    const midnightTs = midnight.getTime()
+    return Object.values(progress.completedAt).filter(ts => ts >= midnightTs).length
+  }, [progress.completedAt])
+
+  const cycleGoal = () => {
+    setDailyGoal(prev => {
+      const nextIdx = (GOAL_OPTIONS.indexOf(prev) + 1) % GOAL_OPTIONS.length
+      const next = GOAL_OPTIONS[nextIdx]
+      localStorage.setItem(DAILY_GOAL_KEY, String(next))
+      return next
+    })
+  }
   const prefersReducedMotion = useReducedMotion()
 
   return (
@@ -232,8 +308,8 @@ export function HomePage() {
         </motion.div>
       </Box>
 
-      {/* ── Continue Reading ─────────────────────────────────────────── */}
-      {lastRead && (
+      {/* ── Returning user bar (continue reading + daily goal) ───────── */}
+      {stats.total > 0 && (
         <Box sx={{ borderBottom: '1px solid', borderColor: 'divider' }}>
           <Container maxWidth="md">
             <motion.div
@@ -247,24 +323,38 @@ export function HomePage() {
                 justifyContent="space-between"
                 sx={{ py: 1.5 }}
               >
-                <Stack direction="row" alignItems="center" gap={1}>
-                  <MenuBookIcon sx={{ fontSize: 16, color: 'primary.main' }} />
-                  <Typography variant="body2" color="text.secondary">
-                    {t.home.continueReading}
-                  </Typography>
-                  <Typography variant="body2" fontWeight={700} sx={{ textTransform: 'capitalize' }}>
-                    {t.categories[lastRead.category as keyof typeof t.categories] ?? lastRead.category}
-                  </Typography>
-                  <Chip label={lastRead.level} size="small" color="primary" sx={{ height: 18, fontSize: '0.65rem', fontWeight: 700 }} />
-                </Stack>
-                <Button
-                  size="small"
-                  endIcon={<ArrowForwardIcon sx={{ fontSize: 14 }} />}
-                  onClick={() => void navigate({ to: lastRead.path })}
-                  sx={{ fontWeight: 700, fontSize: '0.8rem', minWidth: 0 }}
-                >
-                  {t.reader.next}
-                </Button>
+                {/* Continue reading */}
+                {lastRead ? (
+                  <Stack direction="row" alignItems="center" gap={1} minWidth={0}>
+                    <MenuBookIcon sx={{ fontSize: 16, color: 'primary.main', flexShrink: 0 }} />
+                    <Typography variant="body2" color="text.secondary" sx={{ flexShrink: 0 }}>
+                      {t.home.continueReading}
+                    </Typography>
+                    <Typography variant="body2" fontWeight={700} noWrap sx={{ textTransform: 'capitalize' }}>
+                      {t.categories[lastRead.category as keyof typeof t.categories] ?? lastRead.category}
+                    </Typography>
+                    <Chip label={lastRead.level} size="small" color="primary" sx={{ height: 18, fontSize: '0.65rem', fontWeight: 700, flexShrink: 0 }} />
+                    <Button
+                      size="small"
+                      endIcon={<ArrowForwardIcon sx={{ fontSize: 14 }} />}
+                      onClick={() => void navigate({ to: lastRead.path })}
+                      sx={{ fontWeight: 700, fontSize: '0.8rem', minWidth: 0, flexShrink: 0 }}
+                    >
+                      {t.reader.next}
+                    </Button>
+                  </Stack>
+                ) : (
+                  <Box />
+                )}
+
+                {/* Daily goal ring */}
+                <GoalRing
+                  done={todayCount}
+                  goal={dailyGoal}
+                  onCycleGoal={cycleGoal}
+                  label={t.home.dailyGoal}
+                  reachedLabel={t.home.goalReached}
+                />
               </Stack>
             </motion.div>
           </Container>
