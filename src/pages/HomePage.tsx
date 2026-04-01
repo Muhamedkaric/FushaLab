@@ -153,6 +153,17 @@ export function HomePage() {
       return next
     })
   }
+
+  // Hard texts older than 72h that are ready for review (max 3)
+  const reviewItems = useMemo(() => {
+    const cutoff = Date.now() - 72 * 60 * 60 * 1000
+    return Object.entries(progress.completedAt)
+      .filter(([id, ts]) => progress.ratings[id] === 'hard' && ts <= cutoff)
+      .sort((a, b) => a[1] - b[1]) // oldest first
+      .slice(0, 3)
+      .map(([id]) => parseLastReadId(id))
+      .filter((x): x is NonNullable<ReturnType<typeof parseLastReadId>> => x !== null)
+  }, [progress])
   const prefersReducedMotion = useReducedMotion()
 
   return (
@@ -357,6 +368,46 @@ export function HomePage() {
                 />
               </Stack>
             </motion.div>
+          </Container>
+        </Box>
+      )}
+
+      {/* ── Review queue ─────────────────────────────────────────────── */}
+      {reviewItems.length > 0 && (
+        <Box sx={{ borderBottom: '1px solid', borderColor: 'divider' }}>
+          <Container maxWidth="md" sx={{ py: 1.5 }}>
+            <Stack direction="row" alignItems="center" gap={1} mb={1}>
+              <Typography variant="caption" fontWeight={700} color="warning.main" letterSpacing={1} sx={{ textTransform: 'uppercase' }}>
+                {t.home.reviewQueue}
+              </Typography>
+              <Chip label={reviewItems.length} size="small" color="warning" sx={{ height: 16, fontSize: '0.6rem', fontWeight: 700 }} />
+            </Stack>
+            <Stack gap={0.5}>
+              {reviewItems.map(item => (
+                <Stack
+                  key={item.path}
+                  direction="row"
+                  alignItems="center"
+                  justifyContent="space-between"
+                  onClick={() => void navigate({ to: item.path })}
+                  sx={{
+                    px: 1.5, py: 0.75, borderRadius: 2, cursor: 'pointer',
+                    border: '1px solid', borderColor: 'warning.main',
+                    bgcolor: 'rgba(255,152,0,0.04)',
+                    '&:hover': { bgcolor: 'rgba(255,152,0,0.08)' },
+                    transition: 'background-color 0.15s',
+                  }}
+                >
+                  <Typography variant="body2" fontWeight={600} sx={{ textTransform: 'capitalize' }}>
+                    {t.categories[item.category as keyof typeof t.categories] ?? item.category}
+                  </Typography>
+                  <Stack direction="row" alignItems="center" gap={1}>
+                    <Chip label={item.level} size="small" color="warning" variant="outlined" sx={{ height: 18, fontSize: '0.65rem', fontWeight: 700 }} />
+                    <ArrowForwardIcon sx={{ fontSize: 14, color: 'warning.main' }} />
+                  </Stack>
+                </Stack>
+              ))}
+            </Stack>
           </Container>
         </Box>
       )}

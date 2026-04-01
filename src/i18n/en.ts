@@ -22,6 +22,7 @@ export interface Translations {
     continueReading: string
     dailyGoal: string
     goalReached: string
+    reviewQueue: string
     exploreSection: string
     sections: {
       reading: { title: string; desc: string }
@@ -259,6 +260,7 @@ export const en: Translations = {
     continueReading: 'Continue reading',
     dailyGoal: 'today',
     goalReached: 'Goal reached!',
+    reviewQueue: 'Review hard texts',
     exploreSection: 'Explore',
     sections: {
       reading: {

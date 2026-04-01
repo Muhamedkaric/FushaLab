@@ -24,6 +24,7 @@ export const bs: Translations = {
     continueReading: 'Nastavi čitanje',
     dailyGoal: 'danas',
     goalReached: 'Cilj ostvaren!',
+    reviewQueue: 'Ponovi teške tekstove',
     exploreSection: 'Istraži',
     sections: {
       reading: {
