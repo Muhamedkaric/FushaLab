@@ -146,12 +146,15 @@ function PackCard({ pack, stars, onStart, t }: PackCardProps) {
 
       {/* Title */}
       <Box flex={1}>
-        <Typography variant="subtitle1" fontWeight={700} lineHeight={1.2} gutterBottom>
+        <Typography variant="subtitle1" fontWeight={700} lineHeight={1.2}>
           {pack.title}
+        </Typography>
+        <Typography variant="body2" color="text.secondary" mb={0.5}>
+          {pack.titleBs}
         </Typography>
         <Typography
           dir="rtl"
-          sx={{ fontFamily: 'Amiri, serif', fontSize: '1rem', color: 'text.secondary', lineHeight: 1.6 }}
+          sx={{ fontFamily: 'Amiri, serif', fontSize: '1rem', color: 'text.disabled', lineHeight: 1.6 }}
         >
           {pack.titleAr}
         </Typography>
