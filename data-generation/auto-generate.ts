@@ -142,9 +142,10 @@ function commitAndPush(perLevel: Map<string, number>) {
       console.log('\n📦 Nothing new to commit.')
       return
     }
-    const breakdown = perLevel.size > 0
-      ? [...perLevel.entries()].map(([k, n]) => `${k} +${n}`).join(', ')
-      : 'sync data files'
+    const breakdown =
+      perLevel.size > 0
+        ? [...perLevel.entries()].map(([k, n]) => `${k} +${n}`).join(', ')
+        : 'sync data files'
     console.log('\n📦 Committing new content...')
     execSync(`git commit -m "content: ${breakdown}"`, { cwd: root, stdio: 'inherit' })
     console.log('  ✓ Committed locally')
@@ -237,14 +238,11 @@ async function generateWithRetry(prompt: string): Promise<string> {
       }
 
       if (err.status === 429) {
-        const violations =
-          (err.errorDetails as Array<Record<string, unknown>> | undefined) ?? []
+        const violations = (err.errorDetails as Array<Record<string, unknown>> | undefined) ?? []
 
         const dailyExhausted = violations.some(
           v =>
-            typeof v['quotaId'] === 'string' &&
-            v['quotaId'].includes('PerDay') &&
-            v['limit'] === 0
+            typeof v['quotaId'] === 'string' && v['quotaId'].includes('PerDay') && v['limit'] === 0
         )
 
         if (dailyExhausted) {
@@ -265,10 +263,14 @@ async function generateWithRetry(prompt: string): Promise<string> {
         if (consecutiveRateLimits >= availableKeys) {
           consecutiveWaits++
           if (consecutiveWaits > MAX_CONSECUTIVE_WAITS) {
-            console.log(`  ⛔ Keys keep rate-limiting after ${MAX_CONSECUTIVE_WAITS} waits — treating as daily exhausted`)
+            console.log(
+              `  ⛔ Keys keep rate-limiting after ${MAX_CONSECUTIVE_WAITS} waits — treating as daily exhausted`
+            )
             throw new Error('ALL_KEYS_EXHAUSTED')
           }
-          console.log(`  ⏳ All ${availableKeys} keys rate-limited — waiting 60s before retry (${consecutiveWaits}/${MAX_CONSECUTIVE_WAITS})...`)
+          console.log(
+            `  ⏳ All ${availableKeys} keys rate-limited — waiting 60s before retry (${consecutiveWaits}/${MAX_CONSECUTIVE_WAITS})...`
+          )
           await new Promise(r => setTimeout(r, 60_000))
           consecutiveRateLimits = 0
           continue
@@ -337,22 +339,28 @@ for (const { category, level } of QUEUE) {
     } catch {
       parseFailures++
       if (parseFailures >= maxParseFailures) {
-        console.log(`  ⏭  Skipping batch — malformed JSON persisted after ${maxParseFailures} retries`)
+        console.log(
+          `  ⏭  Skipping batch — malformed JSON persisted after ${maxParseFailures} retries`
+        )
         break
       }
-      console.log(`  ⚠️  Malformed JSON response — retrying batch (attempt ${parseFailures}/${maxParseFailures})...`)
+      console.log(
+        `  ⚠️  Malformed JSON response — retrying batch (attempt ${parseFailures}/${maxParseFailures})...`
+      )
       continue
     }
 
     writeItems(category, level, items)
     generated += items.length
     totalGenerated += items.length
-    generatedPerLevel.set(`${category}/${level}`, (generatedPerLevel.get(`${category}/${level}`) ?? 0) + items.length)
+    generatedPerLevel.set(
+      `${category}/${level}`,
+      (generatedPerLevel.get(`${category}/${level}`) ?? 0) + items.length
+    )
     console.log(`  ✓ ${items.length} items written (${current + generated}/${TARGET})`)
 
     if (generated < needed) await new Promise(r => setTimeout(r, 5000))
   }
-
 }
 
 if (totalGenerated === 0) {

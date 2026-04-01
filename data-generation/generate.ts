@@ -141,7 +141,10 @@ try {
   execSync('git add public/data/', { cwd: root, stdio: 'inherit' })
   const staged = execSync('git diff --cached --name-only', { cwd: root }).toString().trim()
   if (staged) {
-    execSync(`git commit -m "content: ${category}/${level} +${allGenerated.length}"`, { cwd: root, stdio: 'inherit' })
+    execSync(`git commit -m "content: ${category}/${level} +${allGenerated.length}"`, {
+      cwd: root,
+      stdio: 'inherit',
+    })
     console.log('  ✓ Committed locally\n')
   }
 } catch (err) {

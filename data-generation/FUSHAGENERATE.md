@@ -12,6 +12,7 @@ fushagenerate <level> <category|all> <count>
 ```
 
 Examples:
+
 - `fushagenerate B1 all 10` → generate 10 items for every category at B1
 - `fushagenerate B2 religion 5` → generate 5 religion items at B2
 - `fushagenerate C1 travel 20` → generate 20 travel items at C1
@@ -30,6 +31,7 @@ File numbering continues from where existing items leave off.
 After writing all files, update `public/data/{category}/{level}/index.json`.
 
 ### Item JSON structure
+
 ```json
 {
   "id": "travel-b1-011",
@@ -55,6 +57,7 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
 ```
 
 ### Index JSON structure
+
 ```json
 {
   "items": [
@@ -74,17 +77,18 @@ Note: `arabic` in the index entry is `sentences[0].arabic` — the first sentenc
 ## Difficulty mapping
 
 | Level | difficulty |
-|-------|-----------|
-| B1    | 1         |
-| B2    | 2         |
-| C1    | 2         |
-| C2    | 3         |
+| ----- | ---------- |
+| B1    | 1          |
+| B2    | 2          |
+| C1    | 2          |
+| C2    | 3          |
 
 ---
 
 ## Level text standards
 
 ### B1
+
 - **Register**: Simple Modern Standard Arabic (فصحى), never colloquial
 - **Grammar**: Present tense (مضارع) and past tense (ماضي), simple sentence structures
 - **Vocabulary**: High-frequency, everyday words — no rare or literary vocabulary
@@ -92,18 +96,21 @@ Note: `arabic` in the index entry is `sentences[0].arabic` — the first sentenc
 - **Sentence complexity**: Simple subject–verb–object, no heavy subordinate clauses
 
 ### B2
+
 - **Register**: MSA, slightly more formal than B1
 - **Grammar**: All basic tenses, compound sentences, relative clauses (الذي/التي), simple conditional
 - **Vocabulary**: Broader everyday + topic-specific vocabulary, some idiomatic expressions
 - **Length**: **4–6 sentences**, one topic developed with some nuance
 
 ### C1
+
 - **Register**: Formal MSA, written prose style
 - **Grammar**: Complex multi-clause sentences, passive (المبني للمجهول), conditional (لو/إذا), nominal sentences (الجملة الاسمية), all verb forms
 - **Vocabulary**: Advanced, formal vocabulary; some technical terms appropriate to the topic
 - **Length**: **5–7 sentences** — introduction, development, conclusion
 
 ### C2
+
 - **Register**: Sophisticated literary, journalistic, or scholarly prose
 - **Grammar**: All Arabic grammatical structures; complex embeddings, ellipsis, inversion for emphasis
 - **Vocabulary**: Rare/elevated vocabulary, classical resonances, rhetorical devices (metaphor, parallel structure, saj')
@@ -114,6 +121,7 @@ Note: `arabic` in the index entry is `sentences[0].arabic` — the first sentenc
 ## Harakat (diacritics) rules
 
 **Every single Arabic word MUST carry full harakat**:
+
 - Fatha (َ), kasra (ِ), damma (ُ) on every vowelled consonant
 - Sukun (ْ) on every consonant with no vowel (word-internal and final)
 - Shadda (ّ) on every doubled consonant
@@ -139,27 +147,27 @@ Every generated text must be halal-compliant regardless of category. The content
 
 ## Category topics
 
-| Category      | Topics |
-|---------------|--------|
-| travel        | travel, tourism, transportation, accommodation, airports, cities, sightseeing, maps, booking |
-| culture       | Arab culture, traditions, food, music, art, history, customs, festivals, family life, hospitality |
-| news          | current events, politics, economy, technology, environment, international relations, society |
-| literature    | poetry, storytelling, classical Arabic literature, prose, metaphor, imagery |
-| religion      | see Religion section below |
-| health        | physical health, nutrition, exercise, medicine, hospitals, pharmacies, mental wellness, healthy habits, preventive care |
-| work          | careers, workplace, professions, job interviews, productivity, entrepreneurship, office life, teamwork |
-| technology    | computers, internet, AI, smartphones, software, innovation, cybersecurity, digital tools, programming |
-| social        | social media platforms, online communication, digital communities, content creation, internet culture, privacy, screen time |
-| food          | halal cuisine, cooking, recipes, Arab traditional food, markets, restaurants, nutrition (halal only) |
-| education     | schools, universities, learning, study habits, academic life, scholarships, teachers, libraries |
-| finance       | budgeting, business, trade, markets, economics, Islamic finance, saving, investment, financial literacy |
+| Category      | Topics                                                                                                                           |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| travel        | travel, tourism, transportation, accommodation, airports, cities, sightseeing, maps, booking                                     |
+| culture       | Arab culture, traditions, food, music, art, history, customs, festivals, family life, hospitality                                |
+| news          | current events, politics, economy, technology, environment, international relations, society                                     |
+| literature    | poetry, storytelling, classical Arabic literature, prose, metaphor, imagery                                                      |
+| religion      | see Religion section below                                                                                                       |
+| health        | physical health, nutrition, exercise, medicine, hospitals, pharmacies, mental wellness, healthy habits, preventive care          |
+| work          | careers, workplace, professions, job interviews, productivity, entrepreneurship, office life, teamwork                           |
+| technology    | computers, internet, AI, smartphones, software, innovation, cybersecurity, digital tools, programming                            |
+| social        | social media platforms, online communication, digital communities, content creation, internet culture, privacy, screen time      |
+| food          | halal cuisine, cooking, recipes, Arab traditional food, markets, restaurants, nutrition (halal only)                             |
+| education     | schools, universities, learning, study habits, academic life, scholarships, teachers, libraries                                  |
+| finance       | budgeting, business, trade, markets, economics, Islamic finance, saving, investment, financial literacy                          |
 | mysteries     | detective stories, historical mysteries, unsolved cases, investigative journalism, scientific puzzles (rational only, no occult) |
-| history       | world history, Arab and Islamic civilisation, ancient civilisations, historical events, archaeology |
-| psychology    | human behaviour, mental health, cognitive science, emotions, motivation, decision-making, self-improvement |
-| conversations | everyday dialogues, greetings, social interactions, formal discussions, debates, phone calls, interviews |
-| idioms        | Arabic proverbs (أمثال), idiomatic expressions, figurative language, cultural sayings — explain meaning and origin |
-| stories       | short narratives, folk tales, moral fables, anecdotes, parables — self-contained with clear beginning, middle, end |
-| opinions      | editorials, viewpoints, argumentative essays, commentary on society, science, education, environment |
+| history       | world history, Arab and Islamic civilisation, ancient civilisations, historical events, archaeology                              |
+| psychology    | human behaviour, mental health, cognitive science, emotions, motivation, decision-making, self-improvement                       |
+| conversations | everyday dialogues, greetings, social interactions, formal discussions, debates, phone calls, interviews                         |
+| idioms        | Arabic proverbs (أمثال), idiomatic expressions, figurative language, cultural sayings — explain meaning and origin               |
+| stories       | short narratives, folk tales, moral fables, anecdotes, parables — self-contained with clear beginning, middle, end               |
+| opinions      | editorials, viewpoints, argumentative essays, commentary on society, science, education, environment                             |
 
 ---
 

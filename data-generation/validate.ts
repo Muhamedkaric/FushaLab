@@ -159,7 +159,11 @@ for (const category of categories) {
             `  ⚠️  index.json: has entries with no matching file: ${extraInIndex.join(', ')}`
           )
         }
-        if (missingFromIndex.length === 0 && extraInIndex.length === 0 && missingPreview.length === 0) {
+        if (
+          missingFromIndex.length === 0 &&
+          extraInIndex.length === 0 &&
+          missingPreview.length === 0
+        ) {
           console.log(`  ✅ index.json: in sync (${indexIds.length} items)`)
         }
       } catch {

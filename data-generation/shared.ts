@@ -27,8 +27,8 @@ export type Level = 'B1' | 'B2' | 'C1' | 'C2'
 
 export interface Sentence {
   arabic: string
-  translation: string    // Bosnian
-  translationEn: string  // English
+  translation: string // Bosnian
+  translationEn: string // English
 }
 
 export interface GeneratedItem {
@@ -47,7 +47,7 @@ export interface ContentItem {
 export interface LevelIndex {
   items: Array<{
     id: string
-    arabic: string  // sentences[0].arabic — used as preview in the UI
+    arabic: string // sentences[0].arabic — used as preview in the UI
     metadata: { difficulty: number; tags: string[] }
   }>
 }
@@ -80,14 +80,12 @@ export const CATEGORY_TOPICS: Record<Category, string> = {
     'Islamic practice, prayer, Quran (with ayah references), authentic hadiths from Sahih Bukhari or Sahih Muslim, the lives and rulings of the Companions, aqeedah (creed), fiqh (jurisprudence), ethics, seerah (Prophetic biography), and scholarly explanations from Ibn Uthaymeen, Ibn Baz, al-Albani, Ibn Taymiyyah, Ibn al-Qayyim, or Imam al-Bukhari — Sunni mainstream only, no Sufi mysticism, no Shia content',
   health:
     'physical health, nutrition, exercise, medicine, hospitals, pharmacies, mental wellness, healthy habits, preventive care, first aid',
-  work:
-    'careers, workplace, professions, job interviews, productivity, entrepreneurship, office life, teamwork, professional skills, work-life balance',
+  work: 'careers, workplace, professions, job interviews, productivity, entrepreneurship, office life, teamwork, professional skills, work-life balance',
   technology:
     'computers, internet, artificial intelligence, smartphones, software, innovation, cybersecurity, digital tools, programming, modern tech in the Arab world',
   social:
     'social media platforms, online communication, digital communities, content creation, internet culture, privacy, screen time, online news, influencers',
-  food:
-    'halal cuisine, cooking, recipes, Arab traditional food, markets, restaurants, ingredients, food culture, nutrition — only halal food and drink, no pork or alcohol',
+  food: 'halal cuisine, cooking, recipes, Arab traditional food, markets, restaurants, ingredients, food culture, nutrition — only halal food and drink, no pork or alcohol',
   education:
     'schools, universities, learning, study habits, academic life, scholarships, teachers, curricula, libraries, lifelong learning',
   finance:
@@ -159,7 +157,11 @@ export function validateItems(items: ContentItem[]): ValidationIssue[] {
       if (!s.translation?.trim())
         issues.push({ id: item.id, type: 'error', message: `sentences[${i}].translation is empty` })
       if (!s.translationEn?.trim())
-        issues.push({ id: item.id, type: 'error', message: `sentences[${i}].translationEn is empty` })
+        issues.push({
+          id: item.id,
+          type: 'error',
+          message: `sentences[${i}].translationEn is empty`,
+        })
 
       if (s.arabic && !HARAKAT_REGEX.test(s.arabic)) {
         issues.push({
@@ -336,11 +338,15 @@ export function parseResponse(raw: string): GeneratedItem[] {
       throw new Error(`Item ${i} missing "sentences" array`)
 
     const sentences: Sentence[] = (o['sentences'] as unknown[]).map((s: unknown, j: number) => {
-      if (typeof s !== 'object' || s === null) throw new Error(`Item ${i} sentence ${j} is not an object`)
+      if (typeof s !== 'object' || s === null)
+        throw new Error(`Item ${i} sentence ${j} is not an object`)
       const sv = s as Record<string, unknown>
-      if (typeof sv['arabic'] !== 'string') throw new Error(`Item ${i} sentence ${j} missing "arabic"`)
-      if (typeof sv['translation'] !== 'string') throw new Error(`Item ${i} sentence ${j} missing "translation"`)
-      if (typeof sv['translationEn'] !== 'string') throw new Error(`Item ${i} sentence ${j} missing "translationEn"`)
+      if (typeof sv['arabic'] !== 'string')
+        throw new Error(`Item ${i} sentence ${j} missing "arabic"`)
+      if (typeof sv['translation'] !== 'string')
+        throw new Error(`Item ${i} sentence ${j} missing "translation"`)
+      if (typeof sv['translationEn'] !== 'string')
+        throw new Error(`Item ${i} sentence ${j} missing "translationEn"`)
       return {
         arabic: sv['arabic'] as string,
         translation: sv['translation'] as string,
@@ -365,10 +371,25 @@ export interface Args {
 }
 
 const VALID_CATEGORIES: Category[] = [
-  'travel', 'culture', 'news', 'literature', 'religion',
-  'health', 'work', 'technology', 'social', 'food', 'education',
-  'finance', 'mysteries', 'history', 'psychology',
-  'conversations', 'idioms', 'stories', 'opinions',
+  'travel',
+  'culture',
+  'news',
+  'literature',
+  'religion',
+  'health',
+  'work',
+  'technology',
+  'social',
+  'food',
+  'education',
+  'finance',
+  'mysteries',
+  'history',
+  'psychology',
+  'conversations',
+  'idioms',
+  'stories',
+  'opinions',
 ]
 const VALID_LEVELS: Level[] = ['B1', 'B2', 'C1', 'C2']
 

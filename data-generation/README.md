@@ -81,11 +81,11 @@ That's it. Files appear in `public/data/travel/C1/` automatically.
 
 ### Models
 
-| Model                  | Quality     | Speed                   |
-| ---------------------- | ----------- | ----------------------- |
-| `gemini-2.0-flash`     | ⭐⭐ Good   | Very fast · **default** |
-| `gemini-2.0-flash-lite`| ⭐⭐ Good   | Very fast               |
-| `gemini-2.5-flash`     | ⭐⭐⭐ Best | Slower                  |
+| Model                   | Quality     | Speed                   |
+| ----------------------- | ----------- | ----------------------- |
+| `gemini-2.0-flash`      | ⭐⭐ Good   | Very fast · **default** |
+| `gemini-2.0-flash-lite` | ⭐⭐ Good   | Very fast               |
+| `gemini-2.5-flash`      | ⭐⭐⭐ Best | Slower                  |
 
 Note: `gemini-1.5-pro` and `gemini-1.5-flash` are no longer available on the v1beta API.
 
@@ -151,7 +151,7 @@ After generating, always:
 
 **`429 Too Many Requests` / quota exhausted**
 → The free tier has a daily limit (~1500 req/day). The script retries automatically on
-  per-minute rate limits, but if the *daily* quota is gone you must wait until midnight UTC.
+per-minute rate limits, but if the _daily_ quota is gone you must wait until midnight UTC.
 → To check or reset: https://ai.dev/rate-limit
 → To remove the daily cap: add billing to your Google Cloud project — the same API key
-  will then work on the paid tier (very cheap for this usage).
+will then work on the paid tier (very cheap for this usage).
