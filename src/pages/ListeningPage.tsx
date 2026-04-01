@@ -33,7 +33,10 @@ const itemVariants = {
   visible: {
     opacity: 1,
     y: 0,
-    transition: { duration: 0.4, ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number] },
+    transition: {
+      duration: 0.4,
+      ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number],
+    },
   },
 }
 
@@ -62,7 +65,8 @@ function ChannelThumbnail({ channel }: { channel: ListeningChannel }) {
     )
   }
 
-  const gradient = CHANNEL_GRADIENTS[channel.id] ?? 'linear-gradient(135deg, #37474f 0%, #546e7a 100%)'
+  const gradient =
+    CHANNEL_GRADIENTS[channel.id] ?? 'linear-gradient(135deg, #37474f 0%, #546e7a 100%)'
   return (
     <Box
       sx={{
@@ -104,7 +108,11 @@ export function ListeningPage() {
 
   return (
     <Container maxWidth="md" sx={{ py: { xs: 3, sm: 5 } }}>
-      <motion.div initial={{ opacity: 0, y: -12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4 }}>
+      <motion.div
+        initial={{ opacity: 0, y: -12 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.4 }}
+      >
         <Stack direction="row" alignItems="center" gap={1.5} mb={1}>
           <Box
             sx={{
@@ -134,7 +142,9 @@ export function ListeningPage() {
         <ToggleButtonGroup
           value={localeFilter}
           exclusive
-          onChange={(_, val) => { if (val) setLocaleFilter(val as ListeningLocale | 'all') }}
+          onChange={(_, val) => {
+            if (val) setLocaleFilter(val as ListeningLocale | 'all')
+          }}
           size="small"
         >
           <ToggleButton value="all">{t.listening.filterAll}</ToggleButton>
@@ -187,7 +197,12 @@ export function ListeningPage() {
                           params: { channelId: ch.id },
                         })
                       }
-                      sx={{ height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'stretch' }}
+                      sx={{
+                        height: '100%',
+                        display: 'flex',
+                        flexDirection: 'column',
+                        alignItems: 'stretch',
+                      }}
                     >
                       <ChannelThumbnail channel={ch} />
 
@@ -196,7 +211,12 @@ export function ListeningPage() {
                           {ch.name}
                         </Typography>
                         {ch.subtitle && (
-                          <Typography variant="caption" color="text.secondary" display="block" mb={1}>
+                          <Typography
+                            variant="caption"
+                            color="text.secondary"
+                            display="block"
+                            mb={1}
+                          >
                             {ch.subtitle}
                           </Typography>
                         )}

@@ -31,7 +31,7 @@ export const CHANNELS: Channel[] = [
     subscribers: '677K',
     tier: 1,
     description:
-      'One of the best MSA-only channels on YouTube. Creator studied in Jordan, holds a degree in Sharia and is pursuing a Master\'s in Teaching Arabic to Non-Native Speakers. Exclusively Fusha — no dialects. Clear, practical explanations.',
+      "One of the best MSA-only channels on YouTube. Creator studied in Jordan, holds a degree in Sharia and is pursuing a Master's in Teaching Arabic to Non-Native Speakers. Exclusively Fusha — no dialects. Clear, practical explanations.",
     recommended: true,
   },
   {
@@ -145,6 +145,7 @@ export const OTHER_RESOURCES: OtherResource[] = [
     name: 'Al Jazeera Learning Platform',
     url: 'https://learning.aljazeera.net/en',
     levels: ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'],
-    description: '7-level structured Arabic course — a full learning platform separate from the YouTube channel.',
+    description:
+      '7-level structured Arabic course — a full learning platform separate from the YouTube channel.',
   },
 ]

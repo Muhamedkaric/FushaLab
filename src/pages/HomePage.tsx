@@ -1,4 +1,13 @@
-import { Box, Typography, Button, Card, CardActionArea, Stack, Chip, Container } from '@mui/material'
+import {
+  Box,
+  Typography,
+  Button,
+  Card,
+  CardActionArea,
+  Stack,
+  Chip,
+  Container,
+} from '@mui/material'
 import Grid from '@mui/material/Grid'
 import MenuBookIcon from '@mui/icons-material/MenuBook'
 import HeadphonesIcon from '@mui/icons-material/Headphones'
@@ -28,8 +37,8 @@ interface FloatLetter {
 
 const FLOATERS: FloatLetter[] = FLOAT_LETTERS.map((letter, i) => ({
   letter,
-  x: `${5 + (i * 6.2) % 90}%`,
-  y: `${10 + (i * 13.7) % 75}%`,
+  x: `${5 + ((i * 6.2) % 90)}%`,
+  y: `${10 + ((i * 13.7) % 75)}%`,
   size: `${1.5 + (i % 4) * 0.6}rem`,
   duration: 4 + (i % 5),
   delay: i * 0.4,
@@ -85,7 +94,12 @@ export function HomePage() {
                   direction: 'rtl',
                 }}
                 animate={{ y: [0, -18, 0], opacity: [f.opacity, f.opacity * 1.6, f.opacity] }}
-                transition={{ duration: f.duration, delay: f.delay, repeat: Infinity, ease: 'easeInOut' }}
+                transition={{
+                  duration: f.duration,
+                  delay: f.delay,
+                  repeat: Infinity,
+                  ease: 'easeInOut',
+                }}
               >
                 {f.letter}
               </motion.div>
@@ -219,7 +233,8 @@ export function HomePage() {
                 border: '1px solid',
                 borderColor: 'primary.main',
                 borderRadius: 3,
-                background: 'linear-gradient(135deg, rgba(201, 168, 76, 0.05) 0%, transparent 100%)',
+                background:
+                  'linear-gradient(135deg, rgba(201, 168, 76, 0.05) 0%, transparent 100%)',
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
@@ -302,7 +317,13 @@ export function HomePage() {
                   >
                     <CardActionArea
                       onClick={() => void navigate({ to: section.path })}
-                      sx={{ p: 2.5, height: '100%', alignItems: 'flex-start', display: 'flex', flexDirection: 'column' }}
+                      sx={{
+                        p: 2.5,
+                        height: '100%',
+                        alignItems: 'flex-start',
+                        display: 'flex',
+                        flexDirection: 'column',
+                      }}
                     >
                       <Box
                         sx={{

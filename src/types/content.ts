@@ -29,7 +29,7 @@ export interface ContentMetadata {
 
 export interface Sentence {
   arabic: string
-  translation: string   // Bosnian
+  translation: string // Bosnian
   translationEn: string // English
 }
 
@@ -47,9 +47,7 @@ export function getFullArabic(item: ContentItem): string {
 }
 
 export function getFullTranslation(item: ContentItem, lang: 'bs' | 'en'): string {
-  return item.sentences
-    .map(s => (lang === 'en' ? s.translationEn : s.translation))
-    .join(' ')
+  return item.sentences.map(s => (lang === 'en' ? s.translationEn : s.translation)).join(' ')
 }
 
 export interface ContentIndex {

@@ -57,7 +57,5 @@ export function usePlaylistIndex(channelId: string) {
 }
 
 export function usePlaylistVideos(channelId: string, playlistId: string) {
-  return useFetch<ListeningPlaylistData>(
-    `/data/listening/${channelId}/${playlistId}.json`,
-  )
+  return useFetch<ListeningPlaylistData>(`/data/listening/${channelId}/${playlistId}.json`)
 }

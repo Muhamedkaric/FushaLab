@@ -84,7 +84,10 @@ const itemVariants = {
   visible: {
     opacity: 1,
     y: 0,
-    transition: { duration: 0.35, ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number] },
+    transition: {
+      duration: 0.35,
+      ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number],
+    },
   },
 }
 
@@ -121,9 +124,7 @@ function LevelPill({ level, total, score, loading, onClick }: LevelPillProps) {
         gap: 0.5,
         opacity: isEmpty ? 0.4 : 1,
         transition: 'background-color 0.15s, opacity 0.15s',
-        '&:hover': !isEmpty
-          ? { bgcolor: 'action.hover' }
-          : {},
+        '&:hover': !isEmpty ? { bgcolor: 'action.hover' } : {},
         cursor: isEmpty ? 'default' : 'pointer',
       }}
     >
@@ -215,7 +216,11 @@ export function ReadingPage() {
 
   return (
     <Container maxWidth="md" sx={{ py: { xs: 3, sm: 5 } }}>
-      <motion.div initial={{ opacity: 0, y: -12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4 }}>
+      <motion.div
+        initial={{ opacity: 0, y: -12 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.4 }}
+      >
         <Typography variant="h4" fontWeight={700} mb={1}>
           {t.nav.reading}
         </Typography>
@@ -265,9 +270,7 @@ export function ReadingPage() {
                       transition: 'border-color 0.2s, box-shadow 0.2s',
                       '&:hover': {
                         borderColor: hasAnyData ? 'primary.main' : 'divider',
-                        boxShadow: hasAnyData
-                          ? '0 4px 20px rgba(201, 168, 76, 0.15)'
-                          : 'none',
+                        boxShadow: hasAnyData ? '0 4px 20px rgba(201, 168, 76, 0.15)' : 'none',
                       },
                     }}
                   >

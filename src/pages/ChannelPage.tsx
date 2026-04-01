@@ -34,17 +34,20 @@ const itemVariants = {
   visible: {
     opacity: 1,
     y: 0,
-    transition: { duration: 0.35, ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number] },
+    transition: {
+      duration: 0.35,
+      ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number],
+    },
   },
 }
 
 const LEVEL_COLORS: Record<string, string> = {
-  'A1': '#388e3c',
-  'A2': '#1976d2',
-  'B1': '#f57c00',
-  'B2': '#d32f2f',
-  'C1': '#7b1fa2',
-  'C2': '#00838f',
+  A1: '#388e3c',
+  A2: '#1976d2',
+  B1: '#f57c00',
+  B2: '#d32f2f',
+  C1: '#7b1fa2',
+  C2: '#00838f',
 }
 
 function getLevelColor(level: string): string {
@@ -115,9 +118,7 @@ export function ChannelPage({ channelId }: Props) {
   const playlists = playlistIndex.data?.playlists ?? []
 
   const filtered =
-    localeFilter === 'all'
-      ? playlists
-      : playlists.filter(pl => pl.locale === localeFilter)
+    localeFilter === 'all' ? playlists : playlists.filter(pl => pl.locale === localeFilter)
 
   function getPlaylistName(pl: ListeningPlaylist) {
     return lang === 'bs' ? pl.nameBs : pl.nameEn
@@ -142,7 +143,11 @@ export function ChannelPage({ channelId }: Props) {
       </Button>
 
       {channel && (
-        <motion.div initial={{ opacity: 0, y: -12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4 }}>
+        <motion.div
+          initial={{ opacity: 0, y: -12 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4 }}
+        >
           <Typography variant="h4" fontWeight={700} mb={0.5}>
             {channel.name}
           </Typography>
@@ -157,14 +162,23 @@ export function ChannelPage({ channelId }: Props) {
         </motion.div>
       )}
 
-      <Stack direction="row" alignItems="center" justifyContent="space-between" mb={3} flexWrap="wrap" gap={2}>
+      <Stack
+        direction="row"
+        alignItems="center"
+        justifyContent="space-between"
+        mb={3}
+        flexWrap="wrap"
+        gap={2}
+      >
         <Typography variant="h6" fontWeight={600}>
           {t.listening.playlists}
         </Typography>
         <ToggleButtonGroup
           value={localeFilter}
           exclusive
-          onChange={(_, val) => { if (val) setLocaleFilter(val as ListeningLocale | 'all') }}
+          onChange={(_, val) => {
+            if (val) setLocaleFilter(val as ListeningLocale | 'all')
+          }}
           size="small"
         >
           <ToggleButton value="all">{t.listening.filterAll}</ToggleButton>
@@ -179,9 +193,7 @@ export function ChannelPage({ channelId }: Props) {
         </Box>
       )}
 
-      {error && (
-        <Alert severity="error">{t.common.error}</Alert>
-      )}
+      {error && <Alert severity="error">{t.common.error}</Alert>}
 
       {!loading && !error && filtered.length === 0 && (
         <Alert severity="info">{t.listening.noContentForLocale}</Alert>
@@ -218,7 +230,13 @@ export function ChannelPage({ channelId }: Props) {
                       <PlaylistThumbnail playlist={pl} channelId={channelId} />
 
                       <CardContent sx={{ p: 2 }}>
-                        <Stack direction="row" alignItems="flex-start" justifyContent="space-between" gap={1} mb={0.75}>
+                        <Stack
+                          direction="row"
+                          alignItems="flex-start"
+                          justifyContent="space-between"
+                          gap={1}
+                          mb={0.75}
+                        >
                           <Typography variant="subtitle1" fontWeight={600} sx={{ flex: 1 }}>
                             {getPlaylistName(pl)}
                           </Typography>
@@ -236,12 +254,22 @@ export function ChannelPage({ channelId }: Props) {
                           />
                         </Stack>
 
-                        <Typography variant="body2" color="text.secondary" mb={1.5} sx={{ lineHeight: 1.4 }}>
+                        <Typography
+                          variant="body2"
+                          color="text.secondary"
+                          mb={1.5}
+                          sx={{ lineHeight: 1.4 }}
+                        >
                           {getPlaylistDesc(pl)}
                         </Typography>
 
                         {!!pl.videoCount && pl.videoCount > 0 && (
-                          <Stack direction="row" alignItems="center" gap={0.5} color="text.disabled">
+                          <Stack
+                            direction="row"
+                            alignItems="center"
+                            gap={0.5}
+                            color="text.disabled"
+                          >
                             <OndemandVideoIcon sx={{ fontSize: 14 }} />
                             <Typography variant="caption">
                               {pl.videoCount} {t.listening.videos}

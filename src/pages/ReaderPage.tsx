@@ -1,4 +1,13 @@
-import { Box, CircularProgress, Alert, Button, Stack, IconButton, Tooltip, Container } from '@mui/material'
+import {
+  Box,
+  CircularProgress,
+  Alert,
+  Button,
+  Stack,
+  IconButton,
+  Tooltip,
+  Container,
+} from '@mui/material'
 import ArrowBackIcon from '@mui/icons-material/ArrowBack'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import ArrowBackIosIcon from '@mui/icons-material/ArrowBackIos'
@@ -26,7 +35,10 @@ export function ReaderPage({ category, level, id }: Props) {
   const nextItem = currentIdx < items.length - 1 ? items[currentIdx + 1] : null
 
   const goTo = (targetId: string) => {
-    void navigate({ to: '/reading/$category/$level/$id', params: { category, level, id: targetId } })
+    void navigate({
+      to: '/reading/$category/$level/$id',
+      params: { category, level, id: targetId },
+    })
   }
 
   const goToList = () => {

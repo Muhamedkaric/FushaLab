@@ -154,7 +154,6 @@ export function TextCard({ item }: Props) {
         sx={{ border: '1px solid', borderColor: 'divider', borderRadius: 3, overflow: 'visible' }}
       >
         <CardContent sx={{ p: { xs: 2, sm: 3 } }}>
-
           {/* ── Header ───────────────────────────────────────────────────────── */}
           <Stack
             direction="row"
@@ -237,24 +236,19 @@ export function TextCard({ item }: Props) {
           )}
 
           {/* ── Arabic text ───────────────────────────────────────────────── */}
-          <Box
-            dir="rtl"
-            sx={{ py: 2, px: 1, borderRadius: 2, bgcolor: 'action.hover', mb: 2 }}
-          >
+          <Box dir="rtl" sx={{ py: 2, px: 1, borderRadius: 2, bgcolor: 'action.hover', mb: 2 }}>
             <Typography variant="h5" component="p" sx={arabicSx}>
-              {sentenceMode ? (
-                toggleHarakat(currentSentence.arabic, showHarakat)
-              ) : (
-                item.sentences.map((s, i) => (
-                  <SentenceSpan
-                    key={i}
-                    text={toggleHarakat(s.arabic, showHarakat)}
-                    active={popoverIdx === i}
-                    onClick={el => handleSentenceClick(el, i)}
-                    isLast={i === total - 1}
-                  />
-                ))
-              )}
+              {sentenceMode
+                ? toggleHarakat(currentSentence.arabic, showHarakat)
+                : item.sentences.map((s, i) => (
+                    <SentenceSpan
+                      key={i}
+                      text={toggleHarakat(s.arabic, showHarakat)}
+                      active={popoverIdx === i}
+                      onClick={el => handleSentenceClick(el, i)}
+                      isLast={i === total - 1}
+                    />
+                  ))}
             </Typography>
           </Box>
 

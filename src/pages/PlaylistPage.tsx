@@ -162,7 +162,11 @@ export function PlaylistPage({ channelId, playlistId }: Props) {
       </Button>
 
       {playlist && (
-        <motion.div initial={{ opacity: 0, y: -12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4 }}>
+        <motion.div
+          initial={{ opacity: 0, y: -12 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4 }}
+        >
           <Typography variant="h5" fontWeight={700} mb={0.5}>
             {getPlaylistName()}
           </Typography>
@@ -231,7 +235,9 @@ export function PlaylistPage({ channelId, playlistId }: Props) {
                   </Box>
                   <Box sx={{ p: 2 }}>
                     <Typography variant="subtitle1" fontWeight={600} mb={0.5}>
-                      {lang === 'bs' ? selectedVideo.title : (selectedVideo.titleEn ?? selectedVideo.title)}
+                      {lang === 'bs'
+                        ? selectedVideo.title
+                        : (selectedVideo.titleEn ?? selectedVideo.title)}
                     </Typography>
                     {selectedVideo.description && (
                       <Typography variant="body2" color="text.secondary">
@@ -287,7 +293,8 @@ export function PlaylistPage({ channelId, playlistId }: Props) {
                   elevation={0}
                   sx={{
                     border: '1px solid',
-                    borderColor: selectedVideo?.youtubeId === video.youtubeId ? 'primary.main' : 'divider',
+                    borderColor:
+                      selectedVideo?.youtubeId === video.youtubeId ? 'primary.main' : 'divider',
                     borderRadius: 2,
                     overflow: 'hidden',
                     transition: 'border-color 0.2s',

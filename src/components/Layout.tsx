@@ -150,12 +150,17 @@ export function Layout({ children, onToggleTheme, isDark }: Props) {
                   '&:hover': { bgcolor: 'action.hover' },
                 }}
               >
-                <ListItemIcon sx={{ minWidth: 36, color: isActive(item.path) ? 'inherit' : 'text.secondary' }}>
+                <ListItemIcon
+                  sx={{ minWidth: 36, color: isActive(item.path) ? 'inherit' : 'text.secondary' }}
+                >
                   {item.icon}
                 </ListItemIcon>
                 <ListItemText
                   primary={item.label}
-                  primaryTypographyProps={{ fontSize: '0.875rem', fontWeight: isActive(item.path) ? 600 : 400 }}
+                  primaryTypographyProps={{
+                    fontSize: '0.875rem',
+                    fontWeight: isActive(item.path) ? 600 : 400,
+                  }}
                 />
               </ListItemButton>
             </ListItem>
