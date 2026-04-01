@@ -1,0 +1,549 @@
+{
+  "id": "b2-social",
+  "title": "Society & Media",
+  "titleAr": "الْمُجْتَمَعُ وَالإِعْلَامُ",
+  "level": "B2",
+  "topic": "social",
+  "words": [
+    {
+      "arabic": "عَدَمُ الْمُسَاوَاةِ",
+      "root": "س و ي",
+      "type": "noun",
+      "bs": "nejednakost",
+      "en": "inequality",
+      "exampleArabic": "يُعَدُّ عَدَمُ الْمُسَاوَاةِ الِاقْتِصَادِيَّةِ تَحَدِّيًا عَالَمِيًّا كَبِيرًا.",
+      "exampleBs": "Ekonomska nejednakost smatra se velikim globalnim izazovom.",
+      "exampleEn": "Economic inequality is considered a major global challenge."
+    },
+    {
+      "arabic": "التَّمْيِيزُ",
+      "root": "م ي ز",
+      "type": "noun",
+      "bs": "diskriminacija",
+      "en": "discrimination",
+      "exampleArabic": "تُحَارِبُ الْحُكُومَةُ التَّمْيِيزَ عَلَى أَسَاسِ الْجِنْسِ أَوِ الْعِرْقِ.",
+      "exampleBs": "Vlada se bori protiv diskriminacije na osnovu spola ili rase.",
+      "exampleEn": "The government fights discrimination based on gender or race."
+    },
+    {
+      "arabic": "الْفَقْرُ",
+      "root": "ف ق ر",
+      "type": "noun",
+      "bs": "siromaštvo",
+      "en": "poverty",
+      "exampleArabic": "تَسْعَى الْمُنَظَّمَاتُ الدَّوْلِيَّةُ إِلَى الْقَضَاءِ عَلَى الْفَقْرِ الْمُدْقِعِ.",
+      "exampleBs": "Međunarodne organizacije nastoje iskorijeniti ekstremno siromaštvo.",
+      "exampleEn": "International organizations strive to eradicate extreme poverty."
+    },
+    {
+      "arabic": "الْهِجْرَةُ",
+      "root": "ه ج ر",
+      "type": "noun",
+      "bs": "migracija, iseljavanje",
+      "en": "migration, emigration",
+      "exampleArabic": "تُثِيرُ الْهِجْرَةُ الْجَمَاعِيَّةُ تَسَاؤُلَاتٍ حَوْلَ الِاندِمَاجِ الثَّقَافِيِّ.",
+      "exampleBs": "Masovne migracije pokreću pitanja o kulturnoj integraciji.",
+      "exampleEn": "Mass migration raises questions about cultural integration."
+    },
+    {
+      "arabic": "الِاندِمَاجُ",
+      "root": "د م ج",
+      "type": "noun",
+      "bs": "integracija",
+      "en": "integration",
+      "exampleArabic": "يَتَطَلَّبُ اندِمَاجُ الْمُهَاجِرِينَ جُهُودًا مُشْتَرَكَةً مِنَ الْمُجْتَمَعِ.",
+      "exampleBs": "Integracija migranata zahtijeva zajednički trud od strane društva.",
+      "exampleEn": "The integration of migrants requires shared effort from society."
+    },
+    {
+      "arabic": "التَّنَوُّعُ",
+      "root": "ن و ع",
+      "type": "noun",
+      "bs": "raznolikost, diverzitet",
+      "en": "diversity",
+      "exampleArabic": "يُعَزِّزُ التَّنَوُّعُ الثَّقَافِيُّ الْإِبْدَاعَ وَالِابْتِكَارَ فِي الْمُجْتَمَعَاتِ.",
+      "exampleBs": "Kulturna raznolikost potiče kreativnost i inovacije u društvima.",
+      "exampleEn": "Cultural diversity enhances creativity and innovation in societies."
+    },
+    {
+      "arabic": "الْخَوَارِزْمِيَّةُ",
+      "root": "خ و ر",
+      "type": "noun",
+      "bs": "algoritam",
+      "en": "algorithm",
+      "exampleArabic": "تَتَحَكَّمُ الْخَوَارِزْمِيَّاتُ فِي الْمَحْتَوَى الَّذِي يَرَاهُ الْمُسْتَخْدِمُونَ عَلَى وَسَائِلِ التَّوَاصُلِ الِاجْتِمَاعِيِّ.",
+      "exampleBs": "Algoritmi kontroliraju sadržaj koji korisnici vide na društvenim mrežama.",
+      "exampleEn": "Algorithms control the content that users see on social media."
+    },
+    {
+      "arabic": "الْمَحْتَوَى الْمُتَدَاوَلُ",
+      "root": "د و ل",
+      "type": "noun",
+      "bs": "viralni sadržaj",
+      "en": "viral content",
+      "exampleArabic": "انْتَشَرَ الْمَحْتَوَى الْمُتَدَاوَلُ بِسُرْعَةٍ كَبِيرَةٍ عَبْرَ مَنَصَّاتِ التَّوَاصُلِ.",
+      "exampleBs": "Viralni sadržaj se brzo proširio kroz platforme za komunikaciju.",
+      "exampleEn": "The viral content spread rapidly across communication platforms."
+    },
+    {
+      "arabic": "الْمُؤَثِّرُ",
+      "root": "أ ث ر",
+      "type": "noun",
+      "bs": "influencer, utjecajna osoba",
+      "en": "influencer",
+      "exampleArabic": "يَتَمَتَّعُ الْمُؤَثِّرُونَ بِقُدْرَةٍ كَبِيرَةٍ عَلَى تَشْكِيلِ آرَاءِ الْجُمْهُورِ.",
+      "exampleBs": "Influenceri imaju veliku moć u oblikovanju mišljenja publike.",
+      "exampleEn": "Influencers have a great ability to shape public opinion."
+    },
+    {
+      "arabic": "الْوَسْمُ",
+      "root": "و س م",
+      "type": "noun",
+      "bs": "hashtag, oznaka",
+      "en": "hashtag",
+      "exampleArabic": "اسْتَخْدَمَ الْمُحْتَجُّونَ وَسْمًا مُشْتَرَكًا لِتَنْسِيقِ حَمَلَاتِهِمْ عَبْرَ الإِنْتَرْنِتِ.",
+      "exampleBs": "Protestanti su koristili zajednički hashtag za koordinaciju svojih kampanja putem interneta.",
+      "exampleEn": "The protesters used a shared hashtag to coordinate their campaigns online."
+    },
+    {
+      "arabic": "الْبَثُّ الْمُبَاشِرُ",
+      "root": "ب ث ث",
+      "type": "noun",
+      "bs": "prijenos uživo, livestream",
+      "en": "live broadcast, livestream",
+      "exampleArabic": "نَقَلَ الصَّحَفِيُّ الْبَثَّ الْمُبَاشِرَ مِنْ مَوْقِعِ الْحَدَثِ.",
+      "exampleBs": "Novinar je prenosio prijenos uživo s mjesta događaja.",
+      "exampleEn": "The journalist broadcast the live stream from the scene."
+    },
+    {
+      "arabic": "الْمَنَصَّةُ الرَّقْمِيَّةُ",
+      "root": "ن ص ص",
+      "type": "noun",
+      "bs": "digitalna platforma",
+      "en": "digital platform",
+      "exampleArabic": "تُهَيْمِنُ الْمَنَصَّاتُ الرَّقْمِيَّةُ الْكُبْرَى عَلَى سُوقِ الإِعْلَامِ الْحَدِيثِ.",
+      "exampleBs": "Velike digitalne platforme dominiraju tržištem savremenih medija.",
+      "exampleEn": "Major digital platforms dominate the modern media market."
+    },
+    {
+      "arabic": "الْأَخْبَارُ الْمُزَيَّفَةُ",
+      "root": "ز ي ف",
+      "type": "noun",
+      "bs": "lažne vijesti",
+      "en": "fake news",
+      "exampleArabic": "تُشَكِّلُ الْأَخْبَارُ الْمُزَيَّفَةُ خَطَرًا حَقِيقِيًّا عَلَى الرَّأْيِ الْعَامِّ.",
+      "exampleBs": "Lažne vijesti predstavljaju stvarnu prijetnju javnom mnijenju.",
+      "exampleEn": "Fake news poses a real danger to public opinion."
+    },
+    {
+      "arabic": "مُنَظَّمَةٌ غَيْرُ حُكُومِيَّةٍ",
+      "root": "ن ظ م",
+      "type": "noun",
+      "bs": "nevladina organizacija (NVO)",
+      "en": "non-governmental organization (NGO)",
+      "exampleArabic": "تَعْمَلُ الْمُنَظَّمَاتُ غَيْرُ الْحُكُومِيَّةِ فِي مَجَالَاتِ حُقُوقِ الإِنْسَانِ وَالْإِغَاثَةِ.",
+      "exampleBs": "Nevladine organizacije djeluju u oblastima ljudskih prava i humanitarne pomoći.",
+      "exampleEn": "NGOs operate in the fields of human rights and humanitarian relief."
+    },
+    {
+      "arabic": "التَّطَوُّعُ",
+      "root": "ط و ع",
+      "type": "noun",
+      "bs": "volontiranje",
+      "en": "volunteering",
+      "exampleArabic": "يُسَاهِمُ التَّطَوُّعُ فِي تَعْزِيزِ التَّضَامُنِ الِاجْتِمَاعِيِّ.",
+      "exampleBs": "Volontiranje doprinosi jačanju društvene solidarnosti.",
+      "exampleEn": "Volunteering contributes to strengthening social solidarity."
+    },
+    {
+      "arabic": "الْحَمْلَةُ",
+      "root": "ح م ل",
+      "type": "noun",
+      "bs": "kampanja",
+      "en": "campaign",
+      "exampleArabic": "أَطْلَقَتِ الْجَمْعِيَّةُ حَمْلَةً لِنَشْرِ الْوَعْيِ بِأَهَمِّيَّةِ التَّعْلِيمِ.",
+      "exampleBs": "Udruženje je pokrenulo kampanju za širenje svjesnosti o važnosti obrazovanja.",
+      "exampleEn": "The association launched a campaign to raise awareness about the importance of education."
+    },
+    {
+      "arabic": "الْعَرِيضَةُ",
+      "root": "ع ر ض",
+      "type": "noun",
+      "bs": "peticija",
+      "en": "petition",
+      "exampleArabic": "جَمَعَتِ الْعَرِيضَةُ الْإِلِكْتْرُونِيَّةُ مِئَاتِ الْآلَافِ مِنَ التَّوْقِيعَاتِ.",
+      "exampleBs": "Online peticija prikupila je stotine hiljada potpisa.",
+      "exampleEn": "The online petition gathered hundreds of thousands of signatures."
+    },
+    {
+      "arabic": "التَّوْعِيَةُ",
+      "root": "و ع ي",
+      "type": "noun",
+      "bs": "podizanje svjesnosti",
+      "en": "awareness raising",
+      "exampleArabic": "تُنَظِّمُ الْجَمْعِيَّةُ فَعَالِيَّاتٍ لِلتَّوْعِيَةِ بِمَخَاطِرِ الإِدْمَانِ.",
+      "exampleBs": "Udruženje organizuje aktivnosti podizanja svjesnosti o opasnostima ovisnosti.",
+      "exampleEn": "The association organizes awareness-raising events about the dangers of addiction."
+    },
+    {
+      "arabic": "التَّضَامُنُ",
+      "root": "ض م ن",
+      "type": "noun",
+      "bs": "solidarnost",
+      "en": "solidarity",
+      "exampleArabic": "أَبْدَى الْمُجْتَمَعُ الدَّوْلِيُّ تَضَامُنَهُ مَعَ الْمُتَضَرِّرِينَ مِنَ الْكَوَارِثِ الطَّبِيعِيَّةِ.",
+      "exampleBs": "Međunarodna zajednica je izrazila solidarnost sa žrtvama prirodnih katastrofa.",
+      "exampleEn": "The international community expressed solidarity with victims of natural disasters."
+    },
+    {
+      "arabic": "النِّقَاشُ",
+      "root": "ن ق ش",
+      "type": "noun",
+      "bs": "debata, rasprava",
+      "en": "debate, discussion",
+      "exampleArabic": "أَثَارَ النِّقَاشُ حَوْلَ السِّيَاسَاتِ الِاجْتِمَاعِيَّةِ اهْتِمَامًا وَاسِعًا.",
+      "exampleBs": "Debata o socijalnim politikama izazvala je široko zanimanje.",
+      "exampleEn": "The debate on social policies attracted widespread interest."
+    },
+    {
+      "arabic": "الْحِوَارُ",
+      "root": "ح و ر",
+      "type": "noun",
+      "bs": "dijalog",
+      "en": "dialogue",
+      "exampleArabic": "يُعَدُّ الْحِوَارُ الْبَنَّاءُ أَسَاسًا لِحَلِّ النِّزَاعَاتِ السِّيَاسِيَّةِ.",
+      "exampleBs": "Konstruktivni dijalog je osnova za rješavanje političkih sporova.",
+      "exampleEn": "Constructive dialogue is a foundation for resolving political disputes."
+    },
+    {
+      "arabic": "التَّفَاوُضُ",
+      "root": "ف و ض",
+      "type": "noun",
+      "bs": "pregovaranje, pregovori",
+      "en": "negotiation",
+      "exampleArabic": "جَرَتِ التَّفَاوُضَاتُ بَيْنَ الطَّرَفَيْنِ عَلَى مَدَى أُسْبُوعٍ كَامِلٍ.",
+      "exampleBs": "Pregovori između dviju strana trajali su cijelu sedmicu.",
+      "exampleEn": "Negotiations between the two sides lasted for an entire week."
+    },
+    {
+      "arabic": "الْوَسَاطَةُ",
+      "root": "و س ط",
+      "type": "noun",
+      "bs": "medijacija, posredovanje",
+      "en": "mediation",
+      "exampleArabic": "لَجَأَ الطَّرَفَانِ إِلَى الْوَسَاطَةِ لِتَجَنُّبِ التَّصْعِيدِ.",
+      "exampleBs": "Obje strane su pribjegle medijaciji kako bi izbjegle eskalaciju.",
+      "exampleEn": "Both parties resorted to mediation to avoid escalation."
+    },
+    {
+      "arabic": "الإِقْنَاعُ",
+      "root": "ق ن ع",
+      "type": "noun",
+      "bs": "uvjeravanje, persuazija",
+      "en": "persuasion",
+      "exampleArabic": "تَعْتَمِدُ الْإِعْلَانَاتُ التِّجَارِيَّةُ عَلَى أَسَالِيبِ الإِقْنَاعِ النَّفْسِيِّ.",
+      "exampleBs": "Komercijalne reklame oslanjaju se na metode psihološke persuazije.",
+      "exampleEn": "Commercial advertisements rely on psychological persuasion techniques."
+    },
+    {
+      "arabic": "الْبَلَاغَةُ",
+      "root": "ب ل غ",
+      "type": "noun",
+      "bs": "retorika, rječitost",
+      "en": "rhetoric, eloquence",
+      "exampleArabic": "يَسْتَخْدِمُ السِّيَاسِيُّونَ الْبَلَاغَةَ لِكَسْبِ تَأْيِيدِ الرَّأْيِ الْعَامِّ.",
+      "exampleBs": "Političari koriste retoriku kako bi pridobili podršku javnog mnijenja.",
+      "exampleEn": "Politicians use rhetoric to gain public support."
+    },
+    {
+      "arabic": "الْعَوْلَمَةُ",
+      "root": "ع و ل",
+      "type": "noun",
+      "bs": "globalizacija",
+      "en": "globalization",
+      "exampleArabic": "أَعَادَتِ الْعَوْلَمَةُ تَشْكِيلَ الِاقْتِصَادَاتِ وَالثَّقَافَاتِ حَوْلَ الْعَالَمِ.",
+      "exampleBs": "Globalizacija je preoblikovala ekonomije i kulture širom svijeta.",
+      "exampleEn": "Globalization has reshaped economies and cultures around the world."
+    },
+    {
+      "arabic": "التَّحَضُّرُ",
+      "root": "ح ض ر",
+      "type": "noun",
+      "bs": "urbanizacija",
+      "en": "urbanization",
+      "exampleArabic": "أَدَّى التَّحَضُّرُ الْمُتَسَارِعُ إِلَى ضُغُوطٍ كَبِيرَةٍ عَلَى الْبُنْيَةِ التَّحْتِيَّةِ.",
+      "exampleBs": "Ubrzana urbanizacija dovela je do velikih pritisaka na infrastrukturu.",
+      "exampleEn": "Rapid urbanization has placed great pressure on infrastructure."
+    },
+    {
+      "arabic": "التَّغَيُّرُ الدِّيمُوغْرَافِيُّ",
+      "root": "غ ي ر",
+      "type": "noun",
+      "bs": "demografska promjena",
+      "en": "demographic change",
+      "exampleArabic": "يُؤَثِّرُ التَّغَيُّرُ الدِّيمُوغْرَافِيُّ عَلَى سِيَاسَاتِ التَّقَاعُدِ وَالرِّعَايَةِ الصِّحِّيَّةِ.",
+      "exampleBs": "Demografske promjene utječu na politike penzionisanja i zdravstvene zaštite.",
+      "exampleEn": "Demographic change affects retirement and healthcare policies."
+    },
+    {
+      "arabic": "الْهُوَّةُ بَيْنَ الْأَجْيَالِ",
+      "root": "ه و و",
+      "type": "noun",
+      "bs": "generacijski jaz",
+      "en": "generation gap",
+      "exampleArabic": "تُعَمِّقُ التَّحَوُّلَاتُ التِّقْنِيَّةُ الْهُوَّةَ بَيْنَ الْأَجْيَالِ فِي بَعْضِ الْأُسَرِ.",
+      "exampleBs": "Tehnološke transformacije produbljuju generacijski jaz u nekim porodicama.",
+      "exampleEn": "Technological transformations deepen the generation gap in some families."
+    },
+    {
+      "arabic": "الْبُودْكَاسْتُ",
+      "root": "ب ث ث",
+      "type": "noun",
+      "bs": "podcast",
+      "en": "podcast",
+      "exampleArabic": "أَصْبَحَ الْبُودْكَاسْتُ وَسِيلَةً إِعْلَامِيَّةً شَائِعَةً بَيْنَ الشَّبَابِ.",
+      "exampleBs": "Podcast je postao popularan medijski format među mladima.",
+      "exampleEn": "The podcast has become a popular media format among young people."
+    },
+    {
+      "arabic": "الْفِيلْمُ الْوَثَائِقِيُّ",
+      "root": "و ث ق",
+      "type": "noun",
+      "bs": "dokumentarni film",
+      "en": "documentary film",
+      "exampleArabic": "حَازَ الْفِيلْمُ الْوَثَائِقِيُّ عَلَى جَوَائِزَ دَوْلِيَّةٍ مُتَعَدِّدَةٍ.",
+      "exampleBs": "Dokumentarni film je dobio više međunarodnih nagrada.",
+      "exampleEn": "The documentary film won multiple international awards."
+    },
+    {
+      "arabic": "الْبَثُّ الإِذَاعِيُّ",
+      "root": "ب ث ث",
+      "type": "noun",
+      "bs": "emitovanje, broadcast",
+      "en": "broadcast",
+      "exampleArabic": "تُبَثُّ الْأَخْبَارُ الرَّسْمِيَّةُ عَبْرَ قَنَوَاتِ الْبَثِّ الْإِذَاعِيِّ الرَّسْمِيَّةِ.",
+      "exampleBs": "Zvanične vijesti se emituju putem zvaničnih radio i TV kanala.",
+      "exampleEn": "Official news is broadcast through official broadcasting channels."
+    },
+    {
+      "arabic": "الْمُؤْتَمَرُ الصَّحَفِيُّ",
+      "root": "أ م ر",
+      "type": "noun",
+      "bs": "konferencija za štampu",
+      "en": "press conference",
+      "exampleArabic": "عَقَدَ الْمَسْؤُولُ مُؤْتَمَرًا صَحَفِيًّا لِلرَّدِّ عَلَى تَسَاؤُلَاتِ الْإِعْلَامِ.",
+      "exampleBs": "Zvaničnik je održao konferenciju za štampu kako bi odgovorio na medijska pitanja.",
+      "exampleEn": "The official held a press conference to respond to media questions."
+    },
+    {
+      "arabic": "الْمَقَالُ الِافْتِتَاحِيُّ",
+      "root": "ق و ل",
+      "type": "noun",
+      "bs": "uvodnik, editorial",
+      "en": "editorial",
+      "exampleArabic": "نَشَرَتِ الصَّحِيفَةُ مَقَالًا افْتِتَاحِيًّا يُنْتَقِدُ السِّيَاسَةَ الاقْتِصَادِيَّةَ.",
+      "exampleBs": "Novine su objavile uvodnik koji kritizira ekonomsku politiku.",
+      "exampleEn": "The newspaper published an editorial criticizing the economic policy."
+    },
+    {
+      "arabic": "الرَّأْيُ الْعَامُّ",
+      "root": "ر أ ي",
+      "type": "noun",
+      "bs": "javno mnijenje",
+      "en": "public opinion",
+      "exampleArabic": "تَسْعَى وَسَائِلُ الإِعْلَامِ أَحْيَانًا إِلَى التَّأْثِيرِ فِي الرَّأْيِ الْعَامِّ.",
+      "exampleBs": "Mediji ponekad nastoje utjecati na javno mnijenje.",
+      "exampleEn": "The media sometimes seeks to influence public opinion."
+    },
+    {
+      "arabic": "الرِّوَايَةُ الإِعْلَامِيَّةُ",
+      "root": "ر و ي",
+      "type": "noun",
+      "bs": "medijska naracija, priča",
+      "en": "media narrative",
+      "exampleArabic": "تَتَفَاوَتُ الرِّوَايَاتُ الإِعْلَامِيَّةُ حَوْلَ الْأَحْدَاثِ ذَاتِهَا بِشَكْلٍ مَلْحُوظٍ.",
+      "exampleBs": "Medijske naracije o istim događajima znatno se razlikuju.",
+      "exampleEn": "Media narratives about the same events differ significantly."
+    },
+    {
+      "arabic": "الصَّحَافَةُ الِاسْتِقْصَائِيَّةُ",
+      "root": "ص ح ف",
+      "type": "noun",
+      "bs": "istraživačko novinarstvo",
+      "en": "investigative journalism",
+      "exampleArabic": "تَلْعَبُ الصَّحَافَةُ الِاسْتِقْصَائِيَّةُ دَوْرًا مُحَوَّرِيًّا فِي كَشْفِ الْفَسَادِ.",
+      "exampleBs": "Istraživačko novinarstvo igra ključnu ulogu u razotkrivanju korupcije.",
+      "exampleEn": "Investigative journalism plays a pivotal role in uncovering corruption."
+    },
+    {
+      "arabic": "الرَّقَابَةُ الإِعْلَامِيَّةُ",
+      "root": "ر ق ب",
+      "type": "noun",
+      "bs": "medijska cenzura",
+      "en": "media censorship",
+      "exampleArabic": "تَتَعَرَّضُ حُرِّيَّةُ الصَّحَافَةِ لِلتَّهْدِيدِ حِينَ تَشْتَدُّ الرَّقَابَةُ الإِعْلَامِيَّةُ.",
+      "exampleBs": "Sloboda štampe je ugrožena kada se medijska cenzura pojača.",
+      "exampleEn": "Press freedom is threatened when media censorship intensifies."
+    },
+    {
+      "arabic": "حُرِّيَّةُ التَّعْبِيرِ",
+      "root": "ع ب ر",
+      "type": "noun",
+      "bs": "sloboda govora, sloboda izražavanja",
+      "en": "freedom of expression",
+      "exampleArabic": "تُعَدُّ حُرِّيَّةُ التَّعْبِيرِ رُكِيزَةً أَسَاسِيَّةً مِنْ رَكَائِزِ الدِّيمُقْرَاطِيَّةِ.",
+      "exampleBs": "Sloboda izražavanja smatra se temeljnim stupom demokratije.",
+      "exampleEn": "Freedom of expression is considered a fundamental pillar of democracy."
+    },
+    {
+      "arabic": "الظَّاهِرَةُ الِاجْتِمَاعِيَّةُ",
+      "root": "ظ ه ر",
+      "type": "noun",
+      "bs": "društvena pojava",
+      "en": "social phenomenon",
+      "exampleArabic": "يَدْرُسُ عُلَمَاءُ الِاجْتِمَاعِ الظَّوَاهِرَ الِاجْتِمَاعِيَّةَ وَأَسْبَابَهَا.",
+      "exampleBs": "Sociolozi proučavaju društvene pojave i njihove uzroke.",
+      "exampleEn": "Sociologists study social phenomena and their causes."
+    },
+    {
+      "arabic": "الِاسْتِطْلَاعُ الِاجْتِمَاعِيُّ",
+      "root": "ط ل ع",
+      "type": "noun",
+      "bs": "društveno istraživanje",
+      "en": "social survey",
+      "exampleArabic": "كَشَفَ الِاسْتِطْلَاعُ الِاجْتِمَاعِيُّ عَنْ تَحَوُّلَاتٍ مَلْحُوظَةٍ فِي قِيَمِ الشَّبَابِ.",
+      "exampleBs": "Društveno istraživanje je otkrilo zamjetne promjene u vrijednostima mladih.",
+      "exampleEn": "The social survey revealed notable shifts in youth values."
+    },
+    {
+      "arabic": "الْمَسْؤُولِيَّةُ الِاجْتِمَاعِيَّةُ",
+      "root": "أ و ل",
+      "type": "noun",
+      "bs": "društvena odgovornost",
+      "en": "social responsibility",
+      "exampleArabic": "تَنْبَثِقُ الْمَسْؤُولِيَّةُ الِاجْتِمَاعِيَّةُ مِنَ الِالْتِزَامِ الْأَخْلَاقِيِّ تِجَاهَ الْمُجْتَمَعِ.",
+      "exampleBs": "Društvena odgovornost proizilazi iz moralne obaveze prema zajednici.",
+      "exampleEn": "Social responsibility stems from a moral commitment to society."
+    },
+    {
+      "arabic": "الْمُجْتَمَعُ الْمَدَنِيُّ",
+      "root": "م د ن",
+      "type": "noun",
+      "bs": "civilno društvo",
+      "en": "civil society",
+      "exampleArabic": "يُؤَدِّي الْمُجْتَمَعُ الْمَدَنِيُّ دَوْرًا مُهِمًّا فِي مُرَاقَبَةِ أَدَاءِ الْحُكُومَاتِ.",
+      "exampleBs": "Civilno društvo igra važnu ulogu u nadzoru rada vlada.",
+      "exampleEn": "Civil society plays an important role in monitoring government performance."
+    },
+    {
+      "arabic": "الِاحْتِجَاجُ",
+      "root": "ح ج ج",
+      "type": "noun",
+      "bs": "protest, demonstracije",
+      "en": "protest, demonstration",
+      "exampleArabic": "شَارَكَ الْآلَافُ فِي الِاحْتِجَاجَاتِ ضِدَّ الْقَوَانِينِ الْجَدِيدَةِ.",
+      "exampleBs": "Hiljade je učestvovalo u protestima protiv novih zakona.",
+      "exampleEn": "Thousands participated in protests against the new laws."
+    },
+    {
+      "arabic": "التَّحَيُّزُ",
+      "root": "ح ي ز",
+      "type": "noun",
+      "bs": "pristranost, predrasuda",
+      "en": "bias, prejudice",
+      "exampleArabic": "يَجِبُ أَنْ يَكُونَ الإِعْلَامُ خَالِيًا مِنَ التَّحَيُّزِ السِّيَاسِيِّ.",
+      "exampleBs": "Mediji bi trebali biti slobodni od političke pristranosti.",
+      "exampleEn": "The media should be free from political bias."
+    },
+    {
+      "arabic": "التَّضْلِيلُ",
+      "root": "ض ل ل",
+      "type": "noun",
+      "bs": "dezinformacija, obmanjivanje",
+      "en": "disinformation, misleading",
+      "exampleArabic": "يُشَكِّلُ التَّضْلِيلُ الإِعْلَامِيُّ خَطَرًا عَلَى الدِّيمُقْرَاطِيَّةِ.",
+      "exampleBs": "Medijska dezinformacija predstavlja prijetnju demokratiji.",
+      "exampleEn": "Media disinformation poses a threat to democracy."
+    },
+    {
+      "arabic": "الصَّدَى الصَّوْتِيُّ الرَّقْمِيُّ",
+      "root": "ص د و",
+      "type": "noun",
+      "bs": "digitalna eho komora",
+      "en": "digital echo chamber",
+      "exampleArabic": "تُسَاهِمُ خَوَارِزْمِيَّاتُ التَّوَاصُلِ فِي تَشْكِيلِ صُدًى صَوْتِيٍّ رَقْمِيٍّ يُعَزِّزُ قَنَاعَاتِ الْمُسْتَخْدِمِ.",
+      "exampleBs": "Algoritmi društvenih mreža doprinose stvaranju digitalne eho komore koja pojačava uvjerenja korisnika.",
+      "exampleEn": "Social media algorithms contribute to creating a digital echo chamber that reinforces user beliefs."
+    },
+    {
+      "arabic": "الْوَعْيُ الْإِعْلَامِيُّ",
+      "root": "و ع ي",
+      "type": "noun",
+      "bs": "medijska pismenost",
+      "en": "media literacy",
+      "exampleArabic": "يُعَدُّ الْوَعْيُ الإِعْلَامِيُّ مَهَارَةً ضَرُورِيَّةً فِي الْعَصْرِ الرَّقْمِيِّ.",
+      "exampleBs": "Medijska pismenost smatra se neophodnom vještinom u digitalnom dobu.",
+      "exampleEn": "Media literacy is considered a necessary skill in the digital age."
+    },
+    {
+      "arabic": "حَقُّ الرَّدِّ",
+      "root": "ر د د",
+      "type": "noun",
+      "bs": "pravo na odgovor",
+      "en": "right of reply",
+      "exampleArabic": "يَكْفُلُ الْقَانُونُ الصَّحَفِيُّ حَقَّ الرَّدِّ لِكُلِّ مَنْ تَمَسُّهُ التَّقَارِيرُ الإِعْلَامِيَّةُ.",
+      "exampleBs": "Novinarski zakon garantuje pravo na odgovor svakom koga se tiču medijski izvještaji.",
+      "exampleEn": "Press law guarantees the right of reply to anyone affected by media reports."
+    },
+    {
+      "arabic": "قِيَادَةُ الرَّأْيِ",
+      "root": "ق و د",
+      "type": "noun",
+      "bs": "liderstvo mišljenja",
+      "en": "opinion leadership",
+      "exampleArabic": "يُمَارِسُ الْمُثَقَّفُونَ قِيَادَةَ الرَّأْيِ عَبْرَ الْكِتَابَةِ وَالتَّعْلِيقِ الْعَلَنِيِّ.",
+      "exampleBs": "Intelektualci vrše liderstvo mišljenja putem pisanja i javnog komentarisanja.",
+      "exampleEn": "Intellectuals exercise opinion leadership through writing and public commentary."
+    },
+    {
+      "arabic": "الهُوِيَّةُ الرَّقْمِيَّةُ",
+      "root": "ه و ي",
+      "type": "noun",
+      "bs": "digitalni identitet",
+      "en": "digital identity",
+      "exampleArabic": "بَاتَتِ الهُوِيَّةُ الرَّقْمِيَّةُ امْتِدَادًا لِشَخْصِيَّةِ الْفَرْدِ فِي الْعَصْرِ الْحَدِيثِ.",
+      "exampleBs": "Digitalni identitet je postao produžetak ličnosti pojedinca u modernom dobu.",
+      "exampleEn": "Digital identity has become an extension of the individual's personality in the modern age."
+    },
+    {
+      "arabic": "الاِنْتِشَارُ الْإِعْلَامِيُّ",
+      "root": "ن ش ر",
+      "type": "noun",
+      "bs": "medijsko širenje, difuzija",
+      "en": "media diffusion, media spread",
+      "exampleArabic": "يُسَاهِمُ الِانْتِشَارُ الإِعْلَامِيُّ فِي تَشْكِيلِ الثَّقَافَةِ الشَّعْبِيَّةِ.",
+      "exampleBs": "Medijsko širenje doprinosi oblikovanju popularne kulture.",
+      "exampleEn": "Media diffusion contributes to shaping popular culture."
+    },
+    {
+      "arabic": "الشَّفَافِيَّةُ",
+      "root": "ش ف ف",
+      "type": "noun",
+      "bs": "transparentnost",
+      "en": "transparency",
+      "exampleArabic": "تُطَالِبُ مُنَظَّمَاتُ الْمُجْتَمَعِ الْمَدَنِيِّ بِالشَّفَافِيَّةِ فِي الإِنْفَاقِ الْعَامِّ.",
+      "exampleBs": "Organizacije civilnog društva zahtijevaju transparentnost u javnoj potrošnji.",
+      "exampleEn": "Civil society organizations demand transparency in public spending."
+    },
+    {
+      "arabic": "الْمُشَارَكَةُ الْمَجْتَمَعِيَّةُ",
+      "root": "ش ر ك",
+      "type": "noun",
+      "bs": "društveno učešće, angažman zajednice",
+      "en": "community engagement",
+      "exampleArabic": "تُشَجِّعُ الْبَلَدِيَّةُ الْمُشَارَكَةَ الْمَجْتَمَعِيَّةَ فِي صِيَاغَةِ السِّيَاسَاتِ الْمَحَلِّيَّةِ.",
+      "exampleBs": "Općina potiče angažman zajednice u oblikovanju lokalnih politika.",
+      "exampleEn": "The municipality encourages community engagement in shaping local policies."
+    }
+  ]
+}

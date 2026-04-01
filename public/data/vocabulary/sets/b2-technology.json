@@ -1,0 +1,539 @@
+{
+  "id": "b2-technology",
+  "title": "Technology",
+  "titleAr": "التِّقْنِيَّةُ",
+  "level": "B2",
+  "topic": "technology",
+  "words": [
+    {
+      "arabic": "الْبَرْمَجَةُ",
+      "root": "ب ر م",
+      "type": "noun",
+      "bs": "programiranje",
+      "en": "programming",
+      "exampleArabic": "تُعَدُّ الْبَرْمَجَةُ مَهَارَةً أَسَاسِيَّةً فِي سُوقِ الْعَمَلِ الرَّقْمِيِّ.",
+      "exampleBs": "Programiranje se smatra temeljnom vještinom na digitalnom tržištu rada.",
+      "exampleEn": "Programming is considered a core skill in the digital job market."
+    },
+    {
+      "arabic": "الْخَوَارِزْمِيَّةُ",
+      "root": "خ و ر",
+      "type": "noun",
+      "bs": "algoritam",
+      "en": "algorithm",
+      "exampleArabic": "تَعْتَمِدُ مُحَرِّكَاتُ الْبَحْثِ عَلَى خَوَارِزْمِيَّاتٍ مَعَقَّدَةٍ لِتَرْتِيبِ النَّتَائِجِ.",
+      "exampleBs": "Pretraživači se oslanjaju na složene algoritme za rangiranje rezultata.",
+      "exampleEn": "Search engines rely on complex algorithms to rank results."
+    },
+    {
+      "arabic": "قَاعِدَةُ الْبَيَانَاتِ",
+      "root": "ق ع د",
+      "type": "noun",
+      "bs": "baza podataka",
+      "en": "database",
+      "exampleArabic": "تُخَزِّنُ قَاعِدَةُ الْبَيَانَاتِ مَعْلُومَاتِ الْمَرْضَى بِشَكْلٍ آمَنٍ وَمُنَظَّمٍ.",
+      "exampleBs": "Baza podataka čuva informacije o pacijentima na siguran i organiziran način.",
+      "exampleEn": "The database stores patient information in a secure and organized manner."
+    },
+    {
+      "arabic": "الْخَطَأُ الْبَرْمَجِيُّ",
+      "root": "خ ط أ",
+      "type": "noun",
+      "bs": "greška u kodu, bug",
+      "en": "bug, software error",
+      "exampleArabic": "أَدَّى الْخَطَأُ الْبَرْمَجِيُّ إِلَى تَعَطُّلِ النِّظَامِ الْكَامِلِ.",
+      "exampleBs": "Greška u kodu dovela je do potpunog pada sistema.",
+      "exampleEn": "The software bug caused the entire system to crash."
+    },
+    {
+      "arabic": "إِصْلَاحُ الأَخْطَاءِ",
+      "root": "ص ل ح",
+      "type": "noun",
+      "bs": "otklanjanje grešaka, debugging",
+      "en": "debugging",
+      "exampleArabic": "يَسْتَغْرِقُ إِصْلَاحُ الأَخْطَاءِ فِي الأَنْظِمَةِ الْمَعَقَّدَةِ وَقْتًا وَجُهْدًا كَبِيرَيْنِ.",
+      "exampleBs": "Otklanjanje grešaka u složenim sistemima zahtijeva puno vremena i truda.",
+      "exampleEn": "Debugging complex systems takes considerable time and effort."
+    },
+    {
+      "arabic": "التَّحَكُّمُ بِالإِصْدَارَاتِ",
+      "root": "ص د ر",
+      "type": "noun",
+      "bs": "kontrola verzija, version control",
+      "en": "version control",
+      "exampleArabic": "يَسْتَخْدِمُ الْمُبَرْمِجُونَ أَنْظِمَةَ التَّحَكُّمِ بِالإِصْدَارَاتِ لِتَتَبُّعِ التَّعْدِيلَاتِ.",
+      "exampleBs": "Programeri koriste sisteme kontrole verzija za praćenje izmjena.",
+      "exampleEn": "Programmers use version control systems to track modifications."
+    },
+    {
+      "arabic": "الْمَصْدَرُ الْمَفْتُوحُ",
+      "root": "ف ت ح",
+      "type": "noun",
+      "bs": "otvoreni kod, open source",
+      "en": "open source",
+      "exampleArabic": "يُسَهِمُ الْمَصْدَرُ الْمَفْتُوحُ فِي تَسْرِيعِ الِابْتِكَارِ التِّقْنِيِّ عَالَمِيًّا.",
+      "exampleBs": "Otvoreni kod doprinosi ubrzanju tehnoloških inovacija globalno.",
+      "exampleEn": "Open source contributes to accelerating technological innovation globally."
+    },
+    {
+      "arabic": "الذَّكَاءُ الِاصْطِنَاعِيُّ",
+      "root": "ذ ك و",
+      "type": "noun",
+      "bs": "vještačka inteligencija",
+      "en": "artificial intelligence",
+      "exampleArabic": "يُحَوِّلُ الذَّكَاءُ الِاصْطِنَاعِيُّ قِطَاعَاتٍ اقْتِصَادِيَّةً بِأَكْمَلِهَا.",
+      "exampleBs": "Vještačka inteligencija transformira čitave ekonomske sektore.",
+      "exampleEn": "Artificial intelligence is transforming entire economic sectors."
+    },
+    {
+      "arabic": "التَّعَلُّمُ الآلِيُّ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "mašinsko učenje",
+      "en": "machine learning",
+      "exampleArabic": "يَعْتَمِدُ التَّعَلُّمُ الآلِيُّ عَلَى كَمِّيَّاتٍ ضَخْمَةٍ مِنَ الْبَيَانَاتِ لِتَحْسِينِ النَّمَاذِجِ.",
+      "exampleBs": "Mašinsko učenje oslanja se na ogromne količine podataka za poboljšanje modela.",
+      "exampleEn": "Machine learning relies on massive amounts of data to improve models."
+    },
+    {
+      "arabic": "الشَّبَكَةُ الْعَصَبِيَّةُ",
+      "root": "ش ب ك",
+      "type": "noun",
+      "bs": "neuronska mreža",
+      "en": "neural network",
+      "exampleArabic": "تُحَاكِي الشَّبَكَةُ الْعَصَبِيَّةُ الِاصْطِنَاعِيَّةُ طَرِيقَةَ عَمَلِ الدِّمَاغِ الْبَشَرِيِّ.",
+      "exampleBs": "Vještačka neuronska mreža oponaša način rada ljudskog mozga.",
+      "exampleEn": "The artificial neural network mimics the way the human brain works."
+    },
+    {
+      "arabic": "مُعَالَجَةُ الْبَيَانَاتِ",
+      "root": "ع ل ج",
+      "type": "noun",
+      "bs": "obrada podataka",
+      "en": "data processing",
+      "exampleArabic": "تَتَطَلَّبُ مُعَالَجَةُ الْبَيَانَاتِ الضَّخْمَةِ بُنْيَةً تَحْتِيَّةً حَاسُوبِيَّةً مُتَطَوِّرَةً.",
+      "exampleBs": "Obrada velikih podataka zahtijeva naprednu računarsku infrastrukturu.",
+      "exampleEn": "Processing big data requires advanced computational infrastructure."
+    },
+    {
+      "arabic": "الأَتْمَتَةُ",
+      "root": "أ ت م",
+      "type": "noun",
+      "bs": "automatizacija",
+      "en": "automation",
+      "exampleArabic": "تُهَدِّدُ الأَتْمَتَةُ وَظَائِفَ كَثِيرَةً فِي الصِّنَاعَاتِ التَّقْلِيدِيَّةِ.",
+      "exampleBs": "Automatizacija prijeti mnogim radnim mjestima u tradicionalnim industrijama.",
+      "exampleEn": "Automation threatens many jobs in traditional industries."
+    },
+    {
+      "arabic": "التَّشْفِيرُ",
+      "root": "ش ف ر",
+      "type": "noun",
+      "bs": "enkripcija, šifriranje",
+      "en": "encryption",
+      "exampleArabic": "يَحْمِي التَّشْفِيرُ الْبَيَانَاتِ الْحَسَّاسَةَ مِنَ الْوُصُولِ غَيْرِ الْمُصَرَّحِ بِهِ.",
+      "exampleBs": "Enkripcija štiti osjetljive podatke od neovlaštenog pristupa.",
+      "exampleEn": "Encryption protects sensitive data from unauthorized access."
+    },
+    {
+      "arabic": "جِدَارُ الْحِمَايَةِ",
+      "root": "ح م ي",
+      "type": "noun",
+      "bs": "vatrozid, firewall",
+      "en": "firewall",
+      "exampleArabic": "يَمْنَعُ جِدَارُ الْحِمَايَةِ الِاتِّصَالَاتِ الضَّارَّةَ مِنَ الدُّخُولِ إِلَى الشَّبَكَةِ.",
+      "exampleBs": "Vatrozid sprječava štetne komunikacije od ulaska u mrežu.",
+      "exampleEn": "The firewall prevents harmful communications from entering the network."
+    },
+    {
+      "arabic": "الِاخْتِرَاقُ الإِلِكْتْرُونِيُّ",
+      "root": "خ ر ق",
+      "type": "noun",
+      "bs": "hakovanje, hakerski napad",
+      "en": "hacking, cyberattack",
+      "exampleArabic": "تَعَرَّضَتِ الشَّرِكَةُ لِاخْتِرَاقٍ إِلِكْتْرُونِيٍّ أَدَّى إِلَى سَرِقَةِ بَيَانَاتِ الْعُمَلَاءِ.",
+      "exampleBs": "Kompanija je bila izložena hakerskom napadu koji je rezultirao krađom podataka klijenata.",
+      "exampleEn": "The company was subjected to a cyberattack that resulted in the theft of customer data."
+    },
+    {
+      "arabic": "التَّصَيُّدُ الِاحْتِيَالِيُّ",
+      "root": "ص ي د",
+      "type": "noun",
+      "bs": "phishing, lažni e-mail napad",
+      "en": "phishing",
+      "exampleArabic": "يَسْتَهْدِفُ التَّصَيُّدُ الِاحْتِيَالِيُّ الْمُسْتَخْدِمِينَ بِرَسَائِلَ إِلِكْتْرُونِيَّةٍ مُضَلِّلَةٍ.",
+      "exampleBs": "Phishing napadi ciljaju korisnike putem zavaravajućih elektronskih poruka.",
+      "exampleEn": "Phishing targets users with misleading electronic messages."
+    },
+    {
+      "arabic": "التَّحَقُّقُ الثُّنَائِيُّ",
+      "root": "ح ق ق",
+      "type": "noun",
+      "bs": "dvofaktorska provjera autentičnosti",
+      "en": "two-factor authentication",
+      "exampleArabic": "يُوَفِّرُ التَّحَقُّقُ الثُّنَائِيُّ طَبَقَةً إِضَافِيَّةً مِنَ الْحِمَايَةِ لِلْحُسَابَاتِ.",
+      "exampleBs": "Dvofaktorska provjera autentičnosti pruža dodatni sloj zaštite za račune.",
+      "exampleEn": "Two-factor authentication provides an additional layer of protection for accounts."
+    },
+    {
+      "arabic": "اخْتِرَاقُ الْبَيَانَاتِ",
+      "root": "خ ر ق",
+      "type": "noun",
+      "bs": "povreda sigurnosti podataka, data breach",
+      "en": "data breach",
+      "exampleArabic": "تَكَبَّدَتِ الشَّرِكَةُ خَسَائِرَ مَالِيَّةً وَسُمْعَتِيَّةً جَرَّاءَ اخْتِرَاقِ بَيَانَاتِهَا.",
+      "exampleBs": "Kompanija je pretrpjela finansijske i reputacijske gubitke zbog povrede sigurnosti podataka.",
+      "exampleEn": "The company suffered financial and reputational losses due to a data breach."
+    },
+    {
+      "arabic": "الْخَادِمُ",
+      "root": "خ د م",
+      "type": "noun",
+      "bs": "server, poslužitelj",
+      "en": "server",
+      "exampleArabic": "تَوَقَّفَ الْخَادِمُ الرَّئِيسِيُّ بِسَبَبِ حَمَلٍ زَائِدٍ عَلَى النِّظَامِ.",
+      "exampleBs": "Glavni server je prestao raditi zbog preopterećenja sistema.",
+      "exampleEn": "The main server went down due to system overload."
+    },
+    {
+      "arabic": "التَّخْزِينُ السَّحَابِيُّ",
+      "root": "خ ز ن",
+      "type": "noun",
+      "bs": "pohrana u oblaku, cloud storage",
+      "en": "cloud storage",
+      "exampleArabic": "يُتِيحُ التَّخْزِينُ السَّحَابِيُّ الْوُصُولَ إِلَى الْمَلَفَّاتِ مِنْ أَيِّ مَكَانٍ فِي الْعَالَمِ.",
+      "exampleBs": "Pohrana u oblaku omogućava pristup datotekama s bilo kojeg mjesta na svijetu.",
+      "exampleEn": "Cloud storage allows access to files from anywhere in the world."
+    },
+    {
+      "arabic": "النَّسْخُ الِاحْتِيَاطِيُّ",
+      "root": "ن س خ",
+      "type": "noun",
+      "bs": "sigurnosna kopija, backup",
+      "en": "backup",
+      "exampleArabic": "يَنْبَغِي إِجْرَاءُ النَّسْخِ الِاحْتِيَاطِيِّ بِشَكْلٍ مُنْتَظِمٍ لِحِمَايَةِ الْبَيَانَاتِ.",
+      "exampleBs": "Sigurnosne kopije treba redovito praviti radi zaštite podataka.",
+      "exampleEn": "Backups should be made regularly to protect data."
+    },
+    {
+      "arabic": "عَرْضُ النِّطَاقِ التَّرَدُّدِيِّ",
+      "root": "ع ر ض",
+      "type": "noun",
+      "bs": "propusnost mreže, bandwidth",
+      "en": "bandwidth",
+      "exampleArabic": "يُؤَثِّرُ عَرْضُ النِّطَاقِ التَّرَدُّدِيِّ الْمَحْدُودُ عَلَى سُرْعَةِ تَحَمُّلِ الْبَيَانَاتِ.",
+      "exampleBs": "Ograničena propusnost mreže utječe na brzinu prijenosa podataka.",
+      "exampleEn": "Limited bandwidth affects data transfer speed."
+    },
+    {
+      "arabic": "زَمَنُ الِاسْتِجَابَةِ",
+      "root": "ز م ن",
+      "type": "noun",
+      "bs": "kašnjenje, latencija",
+      "en": "latency",
+      "exampleArabic": "يُؤَدِّي ارْتِفَاعُ زَمَنِ الِاسْتِجَابَةِ إِلَى تَدَهْوُرِ تَجْرِبَةِ الْمُسْتَخْدِمِ.",
+      "exampleBs": "Visoka latencija dovodi do pogoršanja korisničkog iskustva.",
+      "exampleEn": "High latency leads to a deterioration in user experience."
+    },
+    {
+      "arabic": "التِّجَارَةُ الإِلِكْتْرُونِيَّةُ",
+      "root": "ت ج ر",
+      "type": "noun",
+      "bs": "e-trgovina, elektronska trgovina",
+      "en": "e-commerce",
+      "exampleArabic": "شَهِدَتِ التِّجَارَةُ الإِلِكْتْرُونِيَّةُ نُمُوًّا مُتَسَارِعًا خِلَالَ السَّنَوَاتِ الْأَخِيرَةِ.",
+      "exampleBs": "E-trgovina je doživjela ubrzani rast tokom posljednjih godina.",
+      "exampleEn": "E-commerce has experienced accelerated growth in recent years."
+    },
+    {
+      "arabic": "الدَّفْعُ الرَّقْمِيُّ",
+      "root": "د ف ع",
+      "type": "noun",
+      "bs": "digitalno plaćanje",
+      "en": "digital payment",
+      "exampleArabic": "يُتِيحُ الدَّفْعُ الرَّقْمِيُّ إِجْرَاءَ الْمُعَامَلَاتِ الْمَالِيَّةِ دُونَ الْحَاجَةِ إِلَى نَقْدٍ.",
+      "exampleBs": "Digitalno plaćanje omogućava financijske transakcije bez potrebe za gotovinom.",
+      "exampleEn": "Digital payment allows financial transactions without the need for cash."
+    },
+    {
+      "arabic": "الْعُمْلَةُ الرَّقْمِيَّةُ",
+      "root": "ع م ل",
+      "type": "noun",
+      "bs": "digitalna valuta, kriptovaluta",
+      "en": "digital currency, cryptocurrency",
+      "exampleArabic": "تَتَفَاوَتُ آرَاءُ الاقْتِصَادِيِّينَ حَوْلَ مُسْتَقْبَلِ الْعُمْلَاتِ الرَّقْمِيَّةِ.",
+      "exampleBs": "Mišljenja ekonomista o budućnosti digitalnih valuta se razilaze.",
+      "exampleEn": "Economists' opinions on the future of digital currencies diverge."
+    },
+    {
+      "arabic": "اقْتِصَادُ الْمَنَصَّاتِ",
+      "root": "ق ص د",
+      "type": "noun",
+      "bs": "platformska ekonomija",
+      "en": "platform economy",
+      "exampleArabic": "أَعَادَ اقْتِصَادُ الْمَنَصَّاتِ تَعْرِيفَ مَفْهُومِ الْعَمَلِ وَالتَّوْظِيفِ الْحَدِيثِ.",
+      "exampleBs": "Platformska ekonomija je redefinirala pojam modernog rada i zapošljavanja.",
+      "exampleEn": "The platform economy has redefined the concept of modern work and employment."
+    },
+    {
+      "arabic": "الْوَاقِعُ الِافْتِرَاضِيُّ",
+      "root": "و ق ع",
+      "type": "noun",
+      "bs": "virtuelna stvarnost",
+      "en": "virtual reality",
+      "exampleArabic": "يُسْتَخْدَمُ الْوَاقِعُ الِافْتِرَاضِيُّ فِي تَدْرِيبِ الْأَطِبَّاءِ عَلَى إِجْرَاءِ الْعَمَلِيَّاتِ الْجِرَاحِيَّةِ.",
+      "exampleBs": "Virtuelna stvarnost se koristi za obuku ljekara u izvođenju hirurških operacija.",
+      "exampleEn": "Virtual reality is used to train doctors in performing surgical operations."
+    },
+    {
+      "arabic": "الْوَاقِعُ الْمُعَزَّزُ",
+      "root": "ع ز ز",
+      "type": "noun",
+      "bs": "proširena stvarnost",
+      "en": "augmented reality",
+      "exampleArabic": "تَسْتَخْدِمُ تَطْبِيقَاتُ الْوَاقِعِ الْمُعَزَّزِ طَبَقَاتٍ رَقْمِيَّةً فَوْقَ الْمُحِيطِ الْحَقِيقِيِّ.",
+      "exampleBs": "Aplikacije proširene stvarnosti koriste digitalne slojeve postavljene preko stvarnog okruženja.",
+      "exampleEn": "Augmented reality applications use digital layers overlaid on the real environment."
+    },
+    {
+      "arabic": "إِنْتَرْنِتُ الأَشْيَاءِ",
+      "root": "ن ت ر",
+      "type": "noun",
+      "bs": "internet stvari (IoT)",
+      "en": "Internet of Things (IoT)",
+      "exampleArabic": "يُتِيحُ إِنْتَرْنِتُ الأَشْيَاءِ رَبْطَ الأَجْهِزَةِ الْمَنْزِلِيَّةِ بِالشَّبَكَةِ الرَّقْمِيَّةِ.",
+      "exampleBs": "Internet stvari omogućava povezivanje kućnih uređaja s digitalnom mrežom.",
+      "exampleEn": "The Internet of Things allows household devices to be connected to the digital network."
+    },
+    {
+      "arabic": "سِلْسِلَةُ الْكُتَلِ",
+      "root": "س ل س",
+      "type": "noun",
+      "bs": "blockchain, lanac blokova",
+      "en": "blockchain",
+      "exampleArabic": "تَعْتَمِدُ سِلْسِلَةُ الْكُتَلِ عَلَى التَّوَزُّعِ اللَّامَرْكَزِيِّ لِضَمَانِ شَفَافِيَّةِ الْمُعَامَلَاتِ.",
+      "exampleBs": "Blockchain se oslanja na decentraliziranu distribuciju za osiguranje transparentnosti transakcija.",
+      "exampleEn": "Blockchain relies on decentralized distribution to ensure transaction transparency."
+    },
+    {
+      "arabic": "تَطْبِيقُ الْهَاتِفِ",
+      "root": "ط ب ق",
+      "type": "noun",
+      "bs": "mobilna aplikacija",
+      "en": "mobile application",
+      "exampleArabic": "طَوَّرَتِ الشَّرِكَةُ تَطْبِيقًا لِلْهَاتِفِ يُسَهِّلُ حَجْزَ الْمَوَاعِيدِ الطِّبِّيَّةِ.",
+      "exampleBs": "Kompanija je razvila mobilnu aplikaciju koja olakšava zakazivanje medicinskih pregleda.",
+      "exampleEn": "The company developed a mobile application that simplifies booking medical appointments."
+    },
+    {
+      "arabic": "الْحَوْسَبَةُ السَّحَابِيَّةُ",
+      "root": "ح س ب",
+      "type": "noun",
+      "bs": "računarstvo u oblaku, cloud computing",
+      "en": "cloud computing",
+      "exampleArabic": "تَعْتَمِدُ كَثِيرٌ مِنَ الشَّرِكَاتِ عَلَى الْحَوْسَبَةِ السَّحَابِيَّةِ لِتَقْلِيصِ تَكَالِيفِ الْبُنْيَةِ التَّحْتِيَّةِ.",
+      "exampleBs": "Mnoge kompanije oslanjaju se na računarstvo u oblaku radi smanjivanja troškova infrastrukture.",
+      "exampleEn": "Many companies rely on cloud computing to reduce infrastructure costs."
+    },
+    {
+      "arabic": "الذَّكَاءُ الِاصْطِنَاعِيُّ التَّوْلِيدِيُّ",
+      "root": "و ل د",
+      "type": "noun",
+      "bs": "generativna vještačka inteligencija",
+      "en": "generative artificial intelligence",
+      "exampleArabic": "يَسْتَطِيعُ الذَّكَاءُ الِاصْطِنَاعِيُّ التَّوْلِيدِيُّ إِنْتَاجَ نُصُوصٍ وَصُوَرٍ وَمُقَطُّعَاتٍ صَوْتِيَّةٍ.",
+      "exampleBs": "Generativna vještačka inteligencija može producirati tekstove, slike i audio zapise.",
+      "exampleEn": "Generative AI can produce texts, images, and audio clips."
+    },
+    {
+      "arabic": "نَمَاذِجُ اللُّغَةِ الْكَبِيرَةُ",
+      "root": "ن م ذ",
+      "type": "noun",
+      "bs": "veliki jezički modeli (LLM)",
+      "en": "large language models (LLM)",
+      "exampleArabic": "تُدْرَّبُ نَمَاذِجُ اللُّغَةِ الْكَبِيرَةُ عَلَى كَمِّيَّاتٍ هَائِلَةٍ مِنَ النُّصُوصِ.",
+      "exampleBs": "Veliki jezički modeli se treniraju na ogromnim količinama tekstova.",
+      "exampleEn": "Large language models are trained on massive quantities of text."
+    },
+    {
+      "arabic": "مُعَالِجُ الرَّسُومَاتِ",
+      "root": "ع ل ج",
+      "type": "noun",
+      "bs": "grafički procesor (GPU)",
+      "en": "graphics processing unit (GPU)",
+      "exampleArabic": "تَعْتَمِدُ نَمَاذِجُ الذَّكَاءِ الِاصْطِنَاعِيِّ بِشَكْلٍ كَبِيرٍ عَلَى مُعَالِجَاتِ الرَّسُومَاتِ الْقَوِيَّةِ.",
+      "exampleBs": "Modeli vještačke inteligencije u velikoj mjeri ovise o snažnim grafičkim procesorima.",
+      "exampleEn": "Artificial intelligence models rely heavily on powerful graphics processing units."
+    },
+    {
+      "arabic": "الأَمْنُ السِّيبَرَانِيُّ",
+      "root": "أ م ن",
+      "type": "noun",
+      "bs": "kibernetička sigurnost",
+      "en": "cybersecurity",
+      "exampleArabic": "يَزْدَادُ الطَّلَبُ عَلَى مُتَخَصِّصِي الأَمْنِ السِّيبَرَانِيِّ مَعَ تَصَاعُدِ التَّهْدِيدَاتِ الرَّقْمِيَّةِ.",
+      "exampleBs": "Potražnja za stručnjacima za kibernetičku sigurnost raste s porastom digitalnih prijetnji.",
+      "exampleEn": "Demand for cybersecurity specialists grows as digital threats escalate."
+    },
+    {
+      "arabic": "الشَّبَكَةُ الافْتِرَاضِيَّةُ الخَاصَّةُ",
+      "root": "ش ب ك",
+      "type": "noun",
+      "bs": "VPN, virtuelna privatna mreža",
+      "en": "VPN, virtual private network",
+      "exampleArabic": "تُوَفِّرُ الشَّبَكَةُ الافْتِرَاضِيَّةُ الخَاصَّةُ اتِّصَالًا آمَنًا وَمُشَفَّرًا عَبْرَ الإِنْتَرْنِتِ.",
+      "exampleBs": "VPN pruža sigurnu i šifriranu vezu putem interneta.",
+      "exampleEn": "A VPN provides a secure and encrypted connection over the internet."
+    },
+    {
+      "arabic": "الرُّوبُوتِيَّاتُ",
+      "root": "ر ب ط",
+      "type": "noun",
+      "bs": "robotika",
+      "en": "robotics",
+      "exampleArabic": "تُسَاهِمُ الرُّوبُوتِيَّاتُ فِي تَحْسِينِ كَفَاءَةِ الْإِنْتَاجِ فِي الْمَصَانِعِ الْحَدِيثَةِ.",
+      "exampleBs": "Robotika doprinosi poboljšanju produktivnosti u modernim fabrikama.",
+      "exampleEn": "Robotics contributes to improving production efficiency in modern factories."
+    },
+    {
+      "arabic": "الطِّبَاعَةُ ثُلَاثِيَّةُ الأَبْعَادِ",
+      "root": "ط ب ع",
+      "type": "noun",
+      "bs": "3D štampa, trodimenzionalni ispis",
+      "en": "3D printing",
+      "exampleArabic": "تَسْمَحُ الطِّبَاعَةُ ثُلَاثِيَّةُ الأَبْعَادِ بِإِنْشَاءِ نَمَاذِجَ جِسْمَانِيَّةٍ مِنَ التَّصَمِيمَاتِ الرَّقْمِيَّةِ.",
+      "exampleBs": "3D štampa omogućava izradu fizičkih modela iz digitalnih dizajna.",
+      "exampleEn": "3D printing allows physical models to be created from digital designs."
+    },
+    {
+      "arabic": "حَافَّةُ الْحَوْسَبَةِ",
+      "root": "ح ف ف",
+      "type": "noun",
+      "bs": "rubno računarstvo, edge computing",
+      "en": "edge computing",
+      "exampleArabic": "يُقَلِّصُ نَهْجُ حَافَّةِ الْحَوْسَبَةِ زَمَنَ الِاسْتِجَابَةِ بِمُعَالَجَةِ الْبَيَانَاتِ قُرْبَ مَصْدَرِهَا.",
+      "exampleBs": "Pristup rubnog računarstva smanjuje latenciju obradom podataka blizu izvora.",
+      "exampleEn": "Edge computing reduces latency by processing data close to its source."
+    },
+    {
+      "arabic": "وَاجِهَةُ الْمُسْتَخْدِمِ",
+      "root": "و ج ه",
+      "type": "noun",
+      "bs": "korisničko sučelje, UI",
+      "en": "user interface (UI)",
+      "exampleArabic": "تَحْرِصُ الشَّرِكَاتُ التِّقْنِيَّةُ عَلَى تَصْمِيمِ وَاجِهَاتِ مُسْتَخْدِمٍ سَهْلَةِ الِاسْتِخْدَامِ.",
+      "exampleBs": "Tehnološke kompanije posvećuju pažnju dizajniranju intuitivnih korisničkih sučelja.",
+      "exampleEn": "Technology companies focus on designing easy-to-use user interfaces."
+    },
+    {
+      "arabic": "تَجْرِبَةُ الْمُسْتَخْدِمِ",
+      "root": "ج ر ب",
+      "type": "noun",
+      "bs": "korisničko iskustvo, UX",
+      "en": "user experience (UX)",
+      "exampleArabic": "تُؤَثِّرُ تَجْرِبَةُ الْمُسْتَخْدِمِ الْإِيجَابِيَّةُ عَلَى وَلَاءِ الْعُمَلَاءِ وَمَبِيعَاتِ الْمُنْتَجَاتِ.",
+      "exampleBs": "Pozitivno korisničko iskustvo utječe na lojalnost kupaca i prodaju proizvoda.",
+      "exampleEn": "Positive user experience affects customer loyalty and product sales."
+    },
+    {
+      "arabic": "الْبِيَانَاتُ الضَّخْمَةُ",
+      "root": "ب ي ن",
+      "type": "noun",
+      "bs": "veliki podaci, big data",
+      "en": "big data",
+      "exampleArabic": "تَسْتَخْدِمُ شَرِكَاتُ التِّجَارَةِ الإِلِكْتْرُونِيَّةِ الْبِيَانَاتِ الضَّخْمَةَ لِفَهْمِ سُلُوكِ الْمُسْتَهْلِكِينَ.",
+      "exampleBs": "Kompanije za e-trgovinu koriste velike podatke za razumijevanje ponašanja potrošača.",
+      "exampleEn": "E-commerce companies use big data to understand consumer behavior."
+    },
+    {
+      "arabic": "الأَمَانُ الرَّقْمِيُّ",
+      "root": "أ م ن",
+      "type": "noun",
+      "bs": "digitalna sigurnost",
+      "en": "digital security",
+      "exampleArabic": "يَجِبُ عَلَى الأَفْرَادِ وَالْمُؤَسَّسَاتِ الِاهْتِمَامُ بِالأَمَانِ الرَّقْمِيِّ لِحِمَايَةِ مَعْلُومَاتِهِمْ.",
+      "exampleBs": "Pojedinci i institucije moraju brinuti o digitalnoj sigurnosti kako bi zaštitili svoje podatke.",
+      "exampleEn": "Individuals and institutions must pay attention to digital security to protect their information."
+    },
+    {
+      "arabic": "الْبُرْمَجِيَّاتُ",
+      "root": "ب ر م",
+      "type": "noun",
+      "bs": "softver, programski paket",
+      "en": "software",
+      "exampleArabic": "تُطْلِقُ الشَّرِكَةُ نُسْخَةً مُحَدَّثَةً مِنَ الْبُرْمَجِيَّاتِ مَرَّتَيْنِ سَنَوِيًّا.",
+      "exampleBs": "Kompanija objavljuje ažuriranu verziju softvera dva puta godišnje.",
+      "exampleEn": "The company releases an updated version of the software twice a year."
+    },
+    {
+      "arabic": "الْعَتَادُ الْحَاسُوبِيُّ",
+      "root": "ع ت د",
+      "type": "noun",
+      "bs": "hardver, računarska oprema",
+      "en": "hardware",
+      "exampleArabic": "يَحْتَاجُ الْعَتَادُ الْحَاسُوبِيُّ إِلَى صِيَانَةٍ دَوْرِيَّةٍ لِضَمَانِ أَدَاءٍ مُثَالِيٍّ.",
+      "exampleBs": "Hardver treba periodično održavanje radi osiguranja optimalnih performansi.",
+      "exampleEn": "Hardware requires periodic maintenance to ensure optimal performance."
+    },
+    {
+      "arabic": "الشَّبَكَةُ الْعَنْكَبُوتِيَّةُ",
+      "root": "ش ب ك",
+      "type": "noun",
+      "bs": "internet, svjetska mreža",
+      "en": "the internet, worldwide web",
+      "exampleArabic": "غَيَّرَتِ الشَّبَكَةُ الْعَنْكَبُوتِيَّةُ طَرِيقَةَ تَوَاصُلِ الْبَشَرِ وَتَبَادُلِ الْمَعْلُومَاتِ.",
+      "exampleBs": "Internet je promijenio način komunikacije i razmjene informacija među ljudima.",
+      "exampleEn": "The internet has changed the way humans communicate and exchange information."
+    },
+    {
+      "arabic": "تَحَدُّثُ الآلَاتِ",
+      "root": "ح د ث",
+      "type": "noun",
+      "bs": "komunikacija stroj-stroj (M2M)",
+      "en": "machine-to-machine communication (M2M)",
+      "exampleArabic": "يَعْتَمِدُ إِنْتَرْنِتُ الأَشْيَاءِ عَلَى تَحَدُّثِ الآلَاتِ لِتَبَادُلِ الْبَيَانَاتِ تِلْقَائِيًّا.",
+      "exampleBs": "Internet stvari oslanja se na komunikaciju stroj-stroj za automatsku razmjenu podataka.",
+      "exampleEn": "The Internet of Things relies on machine-to-machine communication for automatic data exchange."
+    },
+    {
+      "arabic": "النَّقْلُ الْآمِنُ لِلْبَيَانَاتِ",
+      "root": "ن ق ل",
+      "type": "noun",
+      "bs": "sigurni prijenos podataka",
+      "en": "secure data transfer",
+      "exampleArabic": "يَعْتَمِدُ النَّقْلُ الآمِنُ لِلْبَيَانَاتِ عَلَى بُرُوتُوكُولَاتِ تَشْفِيرٍ مُعَقَّدَةٍ.",
+      "exampleBs": "Sigurni prijenos podataka oslanja se na složene protokole enkripcije.",
+      "exampleEn": "Secure data transfer relies on complex encryption protocols."
+    },
+    {
+      "arabic": "مَنَصَّةُ الذَّكَاءِ الِاصْطِنَاعِيِّ",
+      "root": "ن ص ص",
+      "type": "noun",
+      "bs": "platforma za vještačku inteligenciju",
+      "en": "AI platform",
+      "exampleArabic": "تُطَوِّرُ الشَّرِكَاتُ مَنَصَّاتِ الذَّكَاءِ الِاصْطِنَاعِيِّ لِتَلْبِيَةِ احْتِيَاجَاتِ الصِّنَاعَاتِ الْمُخْتَلِفَةِ.",
+      "exampleBs": "Kompanije razvijaju AI platforme za zadovoljavanje potreba različitih industrija.",
+      "exampleEn": "Companies develop AI platforms to meet the needs of various industries."
+    },
+    {
+      "arabic": "التَّحَوُّلُ الرَّقْمِيُّ",
+      "root": "ح و ل",
+      "type": "noun",
+      "bs": "digitalna transformacija",
+      "en": "digital transformation",
+      "exampleArabic": "تَخُوضُ الْمُؤَسَّسَاتُ الْحُكُومِيَّةُ مَرَاحِلَ التَّحَوُّلِ الرَّقْمِيِّ بِوَتِيرَةٍ مُتَسَارِعَةٍ.",
+      "exampleBs": "Državne institucije prolaze kroz faze digitalne transformacije ubrzanim tempom.",
+      "exampleEn": "Government institutions are undergoing stages of digital transformation at an accelerated pace."
+    },
+    {
+      "arabic": "الْمَعْلُومَاتِيَّةُ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "informatika",
+      "en": "computer science, informatics",
+      "exampleArabic": "تُعَدُّ الْمَعْلُومَاتِيَّةُ مِنْ أَسْرَعِ التَّخَصُّصَاتِ نُمُوًّا فِي الْعُقُودِ الأَخِيرَةِ.",
+      "exampleBs": "Informatika je jedan od najbrže rastućih smjerova u posljednjim decenijama.",
+      "exampleEn": "Computer science is one of the fastest-growing specializations in recent decades."
+    }
+  ]
+}

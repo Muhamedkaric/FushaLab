@@ -1,0 +1,609 @@
+{
+  "id": "b2-general",
+  "title": "Core Vocabulary",
+  "titleAr": "الْمُفْرَدَاتُ الأَسَاسِيَّةُ",
+  "level": "B2",
+  "topic": "general",
+  "words": [
+    {
+      "arabic": "مَفْهُومٌ",
+      "root": "ف ه م",
+      "type": "noun",
+      "bs": "pojam, koncept",
+      "en": "concept, notion",
+      "exampleArabic": "هَذَا الْمَفْهُومُ صَعْبٌ عَلَى الطُّلَّابِ الْمُبْتَدِئِينَ.",
+      "exampleBs": "Ovaj pojam je težak za početnike.",
+      "exampleEn": "This concept is difficult for beginner students."
+    },
+    {
+      "arabic": "مَبْدَأٌ",
+      "root": "ب د أ",
+      "type": "noun",
+      "bs": "načelo, princip",
+      "en": "principle",
+      "exampleArabic": "يَلْتَزِمُ الْمُوَظَّفُ بِمَبَادِئِ الشَّرَكَةِ.",
+      "exampleBs": "Zaposlenik se pridržava načela kompanije.",
+      "exampleEn": "The employee adheres to the company's principles."
+    },
+    {
+      "arabic": "رَأْيٌ",
+      "root": "ر أ ي",
+      "type": "noun",
+      "bs": "mišljenje, stav",
+      "en": "opinion, view",
+      "exampleArabic": "مَا رَأْيُكَ فِي هَذِهِ الْقَضِيَّةِ؟",
+      "exampleBs": "Kakvo je tvoje mišljenje o ovom pitanju?",
+      "exampleEn": "What is your opinion on this issue?"
+    },
+    {
+      "arabic": "وَضْعٌ",
+      "root": "و ض ع",
+      "type": "noun",
+      "bs": "situacija, stanje",
+      "en": "situation, condition",
+      "exampleArabic": "الْوَضْعُ الِاقْتِصَادِيُّ يَتَحَسَّنُ تَدْرِيجِيًّا.",
+      "exampleBs": "Ekonomska situacija se postepeno poboljšava.",
+      "exampleEn": "The economic situation is improving gradually."
+    },
+    {
+      "arabic": "نَتِيجَةٌ",
+      "root": "ن ت ج",
+      "type": "noun",
+      "bs": "rezultat, posljedica",
+      "en": "result, outcome",
+      "exampleArabic": "جَاءَتِ النَّتِيجَةُ أَفْضَلَ مِمَّا تَوَقَّعْنَا.",
+      "exampleBs": "Rezultat je bio bolji nego što smo očekivali.",
+      "exampleEn": "The result was better than we expected."
+    },
+    {
+      "arabic": "سَبَبٌ",
+      "root": "س ب ب",
+      "type": "noun",
+      "bs": "razlog, uzrok",
+      "en": "reason, cause",
+      "exampleArabic": "مَا سَبَبُ غِيَابِكَ عَنِ الِاجْتِمَاعِ؟",
+      "exampleBs": "Koji je razlog tvog odsustva s sastanka?",
+      "exampleEn": "What is the reason for your absence from the meeting?"
+    },
+    {
+      "arabic": "فَائِدَةٌ",
+      "root": "ف ي د",
+      "type": "noun",
+      "bs": "korist, prednost",
+      "en": "benefit, advantage",
+      "exampleArabic": "لِتَعَلُّمِ اللُّغَاتِ فَوَائِدُ كَثِيرَةٌ.",
+      "exampleBs": "Učenje jezika ima mnogo prednosti.",
+      "exampleEn": "Learning languages has many benefits."
+    },
+    {
+      "arabic": "تَحَدٍّ",
+      "root": "ح د د",
+      "type": "noun",
+      "bs": "izazov",
+      "en": "challenge",
+      "exampleArabic": "يُوَاجِهُ الشَّبَابُ تَحَدِّيَاتٍ كَثِيرَةً فِي سُوقِ الْعَمَلِ.",
+      "exampleBs": "Mladi se suočavaju s mnogo izazova na tržištu rada.",
+      "exampleEn": "Young people face many challenges in the job market."
+    },
+    {
+      "arabic": "فُرْصَةٌ",
+      "root": "ف ر ص",
+      "type": "noun",
+      "bs": "prilika, mogućnost",
+      "en": "opportunity, chance",
+      "exampleArabic": "لَا تُفَوِّتْ هَذِهِ الْفُرْصَةَ الذَّهَبِيَّةَ.",
+      "exampleBs": "Ne propusti ovu zlatnu priliku.",
+      "exampleEn": "Do not miss this golden opportunity."
+    },
+    {
+      "arabic": "مَسْؤُولِيَّةٌ",
+      "root": "س أ ل",
+      "type": "noun",
+      "bs": "odgovornost",
+      "en": "responsibility",
+      "exampleArabic": "تَقَعُ عَلَيْهِ مَسْؤُولِيَّةٌ كَبِيرَةٌ فِي هَذَا الْمَنْصِبِ.",
+      "exampleBs": "Na njemu leži velika odgovornost na ovoj poziciji.",
+      "exampleEn": "A great responsibility rests on him in this position."
+    },
+    {
+      "arabic": "يَعْتَبِرُ",
+      "root": "ع ب ر",
+      "type": "verb",
+      "bs": "smatra, drži",
+      "en": "he considers, regards",
+      "exampleArabic": "يَعْتَبِرُ كَثِيرٌ مِنَ الْخُبَرَاءِ هَذَا الْقَرَارَ صَائِبًا.",
+      "exampleBs": "Mnogi stručnjaci smatraju ovu odluku ispravnom.",
+      "exampleEn": "Many experts consider this decision correct."
+    },
+    {
+      "arabic": "يَقْتَرِحُ",
+      "root": "ق ر ح",
+      "type": "verb",
+      "bs": "predlaže, sugerira",
+      "en": "he suggests, proposes",
+      "exampleArabic": "يَقْتَرِحُ الْمُدِيرُ تَغْيِيرَ الْخُطَّةِ الْحَالِيَّةِ.",
+      "exampleBs": "Direktor predlaže promjenu trenutnog plana.",
+      "exampleEn": "The director suggests changing the current plan."
+    },
+    {
+      "arabic": "يُثْبِتُ",
+      "root": "ث ب ت",
+      "type": "verb",
+      "bs": "dokazuje, potvrđuje",
+      "en": "he proves, demonstrates",
+      "exampleArabic": "يُثْبِتُ الْبَحْثُ صِحَّةَ هَذِهِ النَّظَرِيَّةِ.",
+      "exampleBs": "Istraživanje dokazuje ispravnost ove teorije.",
+      "exampleEn": "The research proves the validity of this theory."
+    },
+    {
+      "arabic": "يُؤَثِّرُ",
+      "root": "أ ث ر",
+      "type": "verb",
+      "bs": "utječe, djeluje",
+      "en": "he affects, influences",
+      "exampleArabic": "يُؤَثِّرُ الضَّغْطُ النَّفْسِيُّ عَلَى صِحَّةِ الْإِنْسَانِ.",
+      "exampleBs": "Psihički pritisak utječe na zdravlje čovjeka.",
+      "exampleEn": "Psychological stress affects human health."
+    },
+    {
+      "arabic": "يُحَقِّقُ",
+      "root": "ح ق ق",
+      "type": "verb",
+      "bs": "postiže, ostvaruje",
+      "en": "he achieves, accomplishes",
+      "exampleArabic": "يُحَقِّقُ الْفَرِيقُ نَجَاحَاتٍ مُتَتَالِيَةً.",
+      "exampleBs": "Tim postiže uzastopne uspjehe.",
+      "exampleEn": "The team achieves successive successes."
+    },
+    {
+      "arabic": "يَدْعَمُ",
+      "root": "د ع م",
+      "type": "verb",
+      "bs": "podupire, podržava",
+      "en": "he supports, backs",
+      "exampleArabic": "تَدْعَمُ الْحُكُومَةُ الْمَشَارِيعَ الصَّغِيرَةَ.",
+      "exampleBs": "Vlada podupire mala poduzeća.",
+      "exampleEn": "The government supports small projects."
+    },
+    {
+      "arabic": "يُعَارِضُ",
+      "root": "ع ر ض",
+      "type": "verb",
+      "bs": "protivi se, suprotstavlja",
+      "en": "he opposes, objects to",
+      "exampleArabic": "يُعَارِضُ بَعْضُ الْأَعْضَاءِ هَذَا الْمُقْتَرَحَ.",
+      "exampleBs": "Neki članovi se protive ovom prijedlogu.",
+      "exampleEn": "Some members oppose this proposal."
+    },
+    {
+      "arabic": "يُحَلِّلُ",
+      "root": "ح ل ل",
+      "type": "verb",
+      "bs": "analizira, raščlanjuje",
+      "en": "he analyzes, breaks down",
+      "exampleArabic": "يُحَلِّلُ الْبَاحِثُ الْبَيَانَاتِ بِدِقَّةٍ.",
+      "exampleBs": "Istraživač pažljivo analizira podatke.",
+      "exampleEn": "The researcher analyzes the data carefully."
+    },
+    {
+      "arabic": "يُقَارِنُ",
+      "root": "ق ر ن",
+      "type": "verb",
+      "bs": "poredi, upoređuje",
+      "en": "he compares",
+      "exampleArabic": "يُقَارِنُ الطَّالِبُ بَيْنَ الثَّقَافَتَيْنِ.",
+      "exampleBs": "Student poredi dvije kulture.",
+      "exampleEn": "The student compares the two cultures."
+    },
+    {
+      "arabic": "يُطَوِّرُ",
+      "root": "ط و ر",
+      "type": "verb",
+      "bs": "razvija, unapređuje",
+      "en": "he develops, improves",
+      "exampleArabic": "تُطَوِّرُ الشَّرَكَةُ مُنْتَجَاتِهَا بِاسْتِمْرَارٍ.",
+      "exampleBs": "Kompanija stalno razvija svoje proizvode.",
+      "exampleEn": "The company continuously develops its products."
+    },
+    {
+      "arabic": "يُنْتِجُ",
+      "root": "ن ت ج",
+      "type": "verb",
+      "bs": "proizvodi, stvara",
+      "en": "he produces, generates",
+      "exampleArabic": "تُنْتِجُ هَذِهِ الْمَصْنَعُ آلَافَ الْوَحَدَاتِ يَوْمِيًّا.",
+      "exampleBs": "Ova fabrika proizvodi hiljade jedinica dnevno.",
+      "exampleEn": "This factory produces thousands of units daily."
+    },
+    {
+      "arabic": "يَسْتَلْزِمُ",
+      "root": "ل ز م",
+      "type": "verb",
+      "bs": "zahtijeva, nalaže",
+      "en": "he requires, necessitates",
+      "exampleArabic": "يَسْتَلْزِمُ النَّجَاحُ الْعَمَلَ الدَّؤُوبَ.",
+      "exampleBs": "Uspjeh zahtijeva marljiv rad.",
+      "exampleEn": "Success requires diligent work."
+    },
+    {
+      "arabic": "يَتَضَمَّنُ",
+      "root": "ض م ن",
+      "type": "verb",
+      "bs": "uključuje, obuhvata",
+      "en": "he includes, comprises",
+      "exampleArabic": "يَتَضَمَّنُ التَّقْرِيرُ مَعْلُومَاتٍ تَفْصِيلِيَّةً.",
+      "exampleBs": "Izvještaj uključuje detaljne informacije.",
+      "exampleEn": "The report includes detailed information."
+    },
+    {
+      "arabic": "يَتَجَاوَزُ",
+      "root": "ج و ز",
+      "type": "verb",
+      "bs": "prevazilazi, premašuje",
+      "en": "he overcomes, exceeds",
+      "exampleArabic": "يَتَجَاوَزُ عَدَدُ الزُّوَّارِ الْمِلْيُونَ سَنَوِيًّا.",
+      "exampleBs": "Broj posjetilaca premašuje milion godišnje.",
+      "exampleEn": "The number of visitors exceeds a million annually."
+    },
+    {
+      "arabic": "مُهِمٌّ",
+      "root": "ه م م",
+      "type": "adjective",
+      "bs": "važan, bitan",
+      "en": "important, significant",
+      "exampleArabic": "هَذَا الِاجْتِمَاعُ مُهِمٌّ جِدًّا لِلشَّرَكَةِ.",
+      "exampleBs": "Ovaj sastanak je veoma važan za kompaniju.",
+      "exampleEn": "This meeting is very important for the company."
+    },
+    {
+      "arabic": "ضَرُورِيٌّ",
+      "root": "ض ر ر",
+      "type": "adjective",
+      "bs": "neophodan, nužan",
+      "en": "necessary, essential",
+      "exampleArabic": "الصَّبْرُ ضَرُورِيٌّ فِي تَعَلُّمِ اللُّغَاتِ.",
+      "exampleBs": "Strpljenje je neophodno pri učenju jezika.",
+      "exampleEn": "Patience is necessary in language learning."
+    },
+    {
+      "arabic": "مُمْكِنٌ",
+      "root": "م ك ن",
+      "type": "adjective",
+      "bs": "moguć, ostvariv",
+      "en": "possible, feasible",
+      "exampleArabic": "هَلْ مِنَ الْمُمْكِنِ إِنْجَازُ الْمَشْرُوعِ هَذَا الْأُسْبُوعَ؟",
+      "exampleBs": "Je li moguće završiti projekt ovog tjedna?",
+      "exampleEn": "Is it possible to complete the project this week?"
+    },
+    {
+      "arabic": "مُتَنَوِّعٌ",
+      "root": "ن و ع",
+      "type": "adjective",
+      "bs": "raznovrstan, raznolik",
+      "en": "various, diverse",
+      "exampleArabic": "تَعْكِسُ الثَّقَافَةُ الْعَرَبِيَّةُ تَارِيخًا مُتَنَوِّعًا وَغَنِيًّا.",
+      "exampleBs": "Arapska kultura odražava raznovrsnu i bogatu historiju.",
+      "exampleEn": "Arab culture reflects a diverse and rich history."
+    },
+    {
+      "arabic": "عَامٌّ",
+      "root": "ع م م",
+      "type": "adjective",
+      "bs": "opći, općeniti",
+      "en": "general, public",
+      "exampleArabic": "هَذَا الرَّأْيُ شَائِعٌ فِي الرَّأْيِ الْعَامِّ.",
+      "exampleBs": "Ovo mišljenje je rašireno u javnom mnijenju.",
+      "exampleEn": "This opinion is widespread in public opinion."
+    },
+    {
+      "arabic": "خَاصٌّ",
+      "root": "خ ص ص",
+      "type": "adjective",
+      "bs": "poseban, specifičan",
+      "en": "specific, particular",
+      "exampleArabic": "لِكُلِّ مَشْرُوعٍ مُتَطَلَّبَاتٌ خَاصَّةٌ.",
+      "exampleBs": "Svaki projekt ima posebne zahtjeve.",
+      "exampleEn": "Every project has specific requirements."
+    },
+    {
+      "arabic": "فَعَّالٌ",
+      "root": "ف ع ل",
+      "type": "adjective",
+      "bs": "efikasan, djelotvoran",
+      "en": "effective, efficient",
+      "exampleArabic": "هَذَا الْأُسْلُوبُ فَعَّالٌ فِي تَعْلِيمِ الْأَطْفَالِ.",
+      "exampleBs": "Ova metoda je efikasna u poučavanju djece.",
+      "exampleEn": "This method is effective in teaching children."
+    },
+    {
+      "arabic": "إِيجَابِيٌّ",
+      "root": "و ج ب",
+      "type": "adjective",
+      "bs": "pozitivan",
+      "en": "positive",
+      "exampleArabic": "كَانَ تَأْثِيرُ الْبَرْنَامَجِ إِيجَابِيًّا عَلَى الطُّلَّابِ.",
+      "exampleBs": "Utjecaj programa na studente bio je pozitivan.",
+      "exampleEn": "The program's effect on students was positive."
+    },
+    {
+      "arabic": "سَلْبِيٌّ",
+      "root": "س ل ب",
+      "type": "adjective",
+      "bs": "negativan",
+      "en": "negative",
+      "exampleArabic": "لِلتَّكْنُولُوجِيَا آثَارٌ سَلْبِيَّةٌ إِذَا أُسِيءَ اسْتِخْدَامُهَا.",
+      "exampleBs": "Tehnologija ima negativne učinke ako se njome zloupotrijebi.",
+      "exampleEn": "Technology has negative effects if misused."
+    },
+    {
+      "arabic": "مُعَقَّدٌ",
+      "root": "ع ق د",
+      "type": "adjective",
+      "bs": "složen, kompliciran",
+      "en": "complex, complicated",
+      "exampleArabic": "الْقَضَايَا السِّيَاسِيَّةُ غَالِبًا مَا تَكُونُ مُعَقَّدَةً.",
+      "exampleBs": "Politička pitanja su često složena.",
+      "exampleEn": "Political issues are often complex."
+    },
+    {
+      "arabic": "بِالرَّغْمِ مِنْ",
+      "root": "ر غ م",
+      "type": "preposition",
+      "bs": "uprkos, bez obzira na",
+      "en": "despite, in spite of",
+      "exampleArabic": "نَجَحَ بِالرَّغْمِ مِنَ الصُّعُوبَاتِ الْكَثِيرَةِ.",
+      "exampleBs": "Uspio je uprkos mnogim teškoćama.",
+      "exampleEn": "He succeeded despite the many difficulties."
+    },
+    {
+      "arabic": "فِيمَا يَتَعَلَّقُ بِـ",
+      "root": "ع ل ق",
+      "type": "phrase",
+      "bs": "što se tiče, u vezi s",
+      "en": "regarding, with respect to",
+      "exampleArabic": "فِيمَا يَتَعَلَّقُ بِالتَّعْلِيمِ، تَحْتَاجُ الدَّوْلَةُ إِلَى إِصْلَاحَاتٍ.",
+      "exampleBs": "Što se tiče obrazovanja, država treba reforme.",
+      "exampleEn": "Regarding education, the state needs reforms."
+    },
+    {
+      "arabic": "عَلَى الرَّغْمِ مِنْ ذَلِكَ",
+      "root": "ر غ م",
+      "type": "phrase",
+      "bs": "unatoč tome, ipak",
+      "en": "despite that, nevertheless",
+      "exampleArabic": "كَانَ الطَّقْسُ بَارِدًا؛ وَعَلَى الرَّغْمِ مِنْ ذَلِكَ، خَرَجْنَا لِلنُّزْهَةِ.",
+      "exampleBs": "Bilo je hladno; unatoč tome, izašli smo u šetnju.",
+      "exampleEn": "The weather was cold; despite that, we went for a walk."
+    },
+    {
+      "arabic": "مِنْ نَاحِيَةٍ أُخْرَى",
+      "root": "ن ح و",
+      "type": "phrase",
+      "bs": "s druge strane",
+      "en": "on the other hand",
+      "exampleArabic": "الْعَمَلُ مُجْهِدٌ، وَمِنْ نَاحِيَةٍ أُخْرَى، يُوَفِّرُ دَخْلًا جَيِّدًا.",
+      "exampleBs": "Posao je naporan, s druge strane, pruža dobar prihod.",
+      "exampleEn": "The work is exhausting; on the other hand, it provides a good income."
+    },
+    {
+      "arabic": "فِي الْوَاقِعِ",
+      "root": "و ق ع",
+      "type": "phrase",
+      "bs": "zapravo, u stvarnosti",
+      "en": "in fact, in reality",
+      "exampleArabic": "فِي الْوَاقِعِ، الْأَمْرُ أَبْسَطُ مِمَّا يَبْدُو.",
+      "exampleBs": "Zapravo, stvar je jednostavnija nego što izgleda.",
+      "exampleEn": "In fact, the matter is simpler than it appears."
+    },
+    {
+      "arabic": "بِعِبَارَةٍ أُخْرَى",
+      "root": "ع ب ر",
+      "type": "phrase",
+      "bs": "drugim riječima",
+      "en": "in other words",
+      "exampleArabic": "بِعِبَارَةٍ أُخْرَى، نَحْتَاجُ إِلَى مَزِيدٍ مِنَ الْوَقْتِ.",
+      "exampleBs": "Drugim riječima, trebamo više vremena.",
+      "exampleEn": "In other words, we need more time."
+    },
+    {
+      "arabic": "اتِّجَاهٌ",
+      "root": "و ج ه",
+      "type": "noun",
+      "bs": "trend, smjer, tendencija",
+      "en": "trend, direction, tendency",
+      "exampleArabic": "يَتَّبِعُ الشَّبَابُ الِاتِّجَاهَاتِ الْحَدِيثَةَ فِي الْمَلْبَسِ.",
+      "exampleBs": "Mladi prate moderne trendove u odijevanju.",
+      "exampleEn": "Young people follow modern trends in clothing."
+    },
+    {
+      "arabic": "ظَاهِرَةٌ",
+      "root": "ظ ه ر",
+      "type": "noun",
+      "bs": "pojava, fenomen",
+      "en": "phenomenon, phenomenon",
+      "exampleArabic": "الْهِجْرَةُ ظَاهِرَةٌ اجْتِمَاعِيَّةٌ قَدِيمَةٌ.",
+      "exampleBs": "Migracija je stara društvena pojava.",
+      "exampleEn": "Migration is an old social phenomenon."
+    },
+    {
+      "arabic": "أَثَرٌ",
+      "root": "أ ث ر",
+      "type": "noun",
+      "bs": "utjecaj, učinak, trag",
+      "en": "effect, impact, trace",
+      "exampleArabic": "لَهُ أَثَرٌ كَبِيرٌ فِي تَطَوُّرِ الْأَدَبِ الْعَرَبِيِّ.",
+      "exampleBs": "Ima velik utjecaj na razvoj arapske književnosti.",
+      "exampleEn": "He has a great impact on the development of Arabic literature."
+    },
+    {
+      "arabic": "قِيمَةٌ",
+      "root": "ق و م",
+      "type": "noun",
+      "bs": "vrijednost",
+      "en": "value",
+      "exampleArabic": "تَحْتَرِمُ الْأُسْرَةُ الْقِيَمَ الدِّينِيَّةَ وَالتَّقَالِيدَ.",
+      "exampleBs": "Porodica poštuje vjerske vrijednosti i tradicije.",
+      "exampleEn": "The family respects religious values and traditions."
+    },
+    {
+      "arabic": "هَدَفٌ",
+      "root": "ه د ف",
+      "type": "noun",
+      "bs": "cilj, svrha",
+      "en": "goal, objective",
+      "exampleArabic": "وَضَعَ لِنَفْسِهِ أَهْدَافًا وَاضِحَةً لِلْمُسْتَقْبَلِ.",
+      "exampleBs": "Postavio je sebi jasne ciljeve za budućnost.",
+      "exampleEn": "He set clear goals for himself for the future."
+    },
+    {
+      "arabic": "مَرْحَلَةٌ",
+      "root": "ر ح ل",
+      "type": "noun",
+      "bs": "faza, etapa, period",
+      "en": "stage, phase, period",
+      "exampleArabic": "نَحْنُ فِي مَرْحَلَةٍ حَاسِمَةٍ مِنَ الْمَشْرُوعِ.",
+      "exampleBs": "Nalazimo se u odlučujućoj fazi projekta.",
+      "exampleEn": "We are in a decisive stage of the project."
+    },
+    {
+      "arabic": "أُسْلُوبٌ",
+      "root": "س ل ب",
+      "type": "noun",
+      "bs": "metoda, način, stil",
+      "en": "method, style, approach",
+      "exampleArabic": "يَتَّبِعُ الْمُعَلِّمُ أُسْلُوبًا تَفَاعُلِيًّا فِي التَّدْرِيسِ.",
+      "exampleBs": "Nastavnik primjenjuje interaktivan pristup u poučavanju.",
+      "exampleEn": "The teacher follows an interactive approach in teaching."
+    },
+    {
+      "arabic": "نِقَاشٌ",
+      "root": "ن ق ش",
+      "type": "noun",
+      "bs": "rasprava, diskusija",
+      "en": "debate, discussion",
+      "exampleArabic": "أَثَارَ الِاقْتِرَاحُ نِقَاشًا وَاسِعًا فِي الْبَرْلِمَانِ.",
+      "exampleBs": "Prijedlog je izazvao širu raspravu u parlamentu.",
+      "exampleEn": "The proposal sparked a wide debate in parliament."
+    },
+    {
+      "arabic": "مَعِيَارٌ",
+      "root": "ع ي ر",
+      "type": "noun",
+      "bs": "kriterij, standard",
+      "en": "criterion, standard",
+      "exampleArabic": "تَلْتَزِمُ الشَّرَكَةُ بِمَعَايِيرِ الْجَوْدَةِ الدَّوْلِيَّةِ.",
+      "exampleBs": "Kompanija se pridržava međunarodnih standarda kvalitete.",
+      "exampleEn": "The company adheres to international quality standards."
+    },
+    {
+      "arabic": "بِوَجْهٍ عَامٍّ",
+      "root": "و ج ه",
+      "type": "phrase",
+      "bs": "općenito govoreći",
+      "en": "generally speaking",
+      "exampleArabic": "بِوَجْهٍ عَامٍّ، الْأَوْضَاعُ مُسْتَقِرَّةٌ فِي الْمَنْطِقَةِ.",
+      "exampleBs": "Općenito govoreći, prilike u regiji su stabilne.",
+      "exampleEn": "Generally speaking, the situation is stable in the region."
+    },
+    {
+      "arabic": "يَسْتَنْتِجُ",
+      "root": "ن ت ج",
+      "type": "verb",
+      "bs": "zaključuje, izvodi zaključak",
+      "en": "he concludes, infers",
+      "exampleArabic": "يَسْتَنْتِجُ الْعُلَمَاءُ مِنَ الْبَيَانَاتِ نَتَائِجَ مُثِيرَةً.",
+      "exampleBs": "Naučnici iz podataka izvode zanimljive zaključke.",
+      "exampleEn": "Scientists draw interesting conclusions from the data."
+    },
+    {
+      "arabic": "يُلَخِّصُ",
+      "root": "ل خ ص",
+      "type": "verb",
+      "bs": "sažima, rezimira",
+      "en": "he summarizes, sums up",
+      "exampleArabic": "يُلَخِّصُ الطَّالِبُ الدَّرْسَ فِي نُقَاطٍ وَاضِحَةٍ.",
+      "exampleBs": "Student sažima lekciju u jasnim tačkama.",
+      "exampleEn": "The student summarizes the lesson in clear points."
+    },
+    {
+      "arabic": "يُوَضِّحُ",
+      "root": "و ض ح",
+      "type": "verb",
+      "bs": "pojašnjava, obrazlaže",
+      "en": "he clarifies, explains",
+      "exampleArabic": "يُوَضِّحُ الْأُسْتَاذُ الْمَفَاهِيمَ الصَّعْبَةَ بِأَمْثِلَةٍ.",
+      "exampleBs": "Profesor pojašnjava teške pojmove primjerima.",
+      "exampleEn": "The professor clarifies difficult concepts with examples."
+    },
+    {
+      "arabic": "يَعْتَمِدُ عَلَى",
+      "root": "ع م د",
+      "type": "verb",
+      "bs": "oslanja se na, ovisi o",
+      "en": "he relies on, depends on",
+      "exampleArabic": "يَعْتَمِدُ نَجَاحُ الْمَشْرُوعِ عَلَى التَّخْطِيطِ الْجَيِّدِ.",
+      "exampleBs": "Uspjeh projekta ovisi o dobrom planiranju.",
+      "exampleEn": "The success of the project depends on good planning."
+    },
+    {
+      "arabic": "يُشِيرُ إِلَى",
+      "root": "ش و ر",
+      "type": "verb",
+      "bs": "ukazuje na, upućuje na",
+      "en": "he points to, indicates",
+      "exampleArabic": "يُشِيرُ التَّقْرِيرُ إِلَى ارْتِفَاعِ نِسْبَةِ الْبِطَالَةِ.",
+      "exampleBs": "Izvještaj ukazuje na porast stope nezaposlenosti.",
+      "exampleEn": "The report indicates a rise in the unemployment rate."
+    },
+    {
+      "arabic": "مِنَ الْجَدِيرِ بِالذِّكْرِ",
+      "root": "ذ ك ر",
+      "type": "phrase",
+      "bs": "vrijedno je napomenuti",
+      "en": "it is worth noting",
+      "exampleArabic": "مِنَ الْجَدِيرِ بِالذِّكْرِ أَنَّ هَذَا الْمَشْرُوعَ بَدَأَ قَبْلَ عَشْرِ سَنَوَاتٍ.",
+      "exampleBs": "Vrijedno je napomenuti da je ovaj projekt počeo prije deset godina.",
+      "exampleEn": "It is worth noting that this project started ten years ago."
+    },
+    {
+      "arabic": "مُسْتَوًى",
+      "root": "س و ي",
+      "type": "noun",
+      "bs": "nivo, razina",
+      "en": "level, standard",
+      "exampleArabic": "ارْتَفَعَ مُسْتَوَى التَّعْلِيمِ فِي الْمَنَاطِقِ الرِّيفِيَّةِ.",
+      "exampleBs": "Nivo obrazovanja u ruralnim područjima se povećao.",
+      "exampleEn": "The level of education in rural areas has risen."
+    },
+    {
+      "arabic": "وَاقِعٌ",
+      "root": "و ق ع",
+      "type": "noun",
+      "bs": "stvarnost, realnost",
+      "en": "reality, actuality",
+      "exampleArabic": "يَجِبُ أَنْ نَتَعَامَلَ مَعَ الْوَاقِعِ كَمَا هُوَ.",
+      "exampleBs": "Moramo se nositi sa stvarnošću kakva jeste.",
+      "exampleEn": "We must deal with reality as it is."
+    },
+    {
+      "arabic": "مِحْوَرٌ",
+      "root": "ح و ر",
+      "type": "noun",
+      "bs": "os, žarište, fokus",
+      "en": "axis, focal point, core",
+      "exampleArabic": "يُمَثِّلُ التَّعْلِيمُ مِحْوَرَ التَّنْمِيَةِ الْمُسْتَدَامَةِ.",
+      "exampleBs": "Obrazovanje predstavlja žarište održivog razvoja.",
+      "exampleEn": "Education represents the core of sustainable development."
+    },
+    {
+      "arabic": "تَوَقُّعٌ",
+      "root": "و ق ع",
+      "type": "noun",
+      "bs": "očekivanje, prognoza",
+      "en": "expectation, forecast",
+      "exampleArabic": "تَجَاوَزَتِ النَّتَائِجُ كُلَّ التَّوَقُّعَاتِ.",
+      "exampleBs": "Rezultati su premašili sva očekivanja.",
+      "exampleEn": "The results exceeded all expectations."
+    }
+  ]
+}

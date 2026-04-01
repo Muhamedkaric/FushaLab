@@ -1,0 +1,489 @@
+{
+  "id": "b1-culture",
+  "title": "Culture & Society",
+  "titleAr": "الثَّقَافَةُ وَالْمُجْتَمَعُ",
+  "level": "B1",
+  "topic": "culture",
+  "words": [
+    {
+      "arabic": "الثَّقَافَةُ",
+      "root": "ث ق ف",
+      "type": "noun",
+      "bs": "kultura",
+      "en": "culture",
+      "exampleArabic": "الثَّقَافَةُ الْعَرَبِيَّةُ غَنِيَّةٌ وَمُتَنَوِّعَةٌ.",
+      "exampleBs": "Arapska kultura je bogata i raznolika.",
+      "exampleEn": "Arab culture is rich and diverse."
+    },
+    {
+      "arabic": "الْمُجْتَمَعُ",
+      "root": "ج م ع",
+      "type": "noun",
+      "bs": "društvo, zajednica",
+      "en": "society, community",
+      "exampleArabic": "الْمُجْتَمَعُ الْمُتَعَاوِنُ يَنْجَحُ دَائِمًا.",
+      "exampleBs": "Zajedničko društvo uvijek uspijeva.",
+      "exampleEn": "A cooperative society always succeeds."
+    },
+    {
+      "arabic": "الْمُوسِيقَى",
+      "root": "م و س",
+      "type": "noun",
+      "bs": "muzika",
+      "en": "music",
+      "exampleArabic": "تُحِبُّ الِاسْتِمَاعَ إِلَى الْمُوسِيقَى الْهَادِئَةِ.",
+      "exampleBs": "Voli slušati mirnu muziku.",
+      "exampleEn": "She loves listening to calm music."
+    },
+    {
+      "arabic": "اللَّوْحَةُ",
+      "root": "ل و ح",
+      "type": "noun",
+      "bs": "slika, platno",
+      "en": "painting, canvas",
+      "exampleArabic": "عَلَّقَ لَوْحَةً جَمِيلَةً عَلَى الْجِدَارِ.",
+      "exampleBs": "Okačio je lijepu sliku na zid.",
+      "exampleEn": "He hung a beautiful painting on the wall."
+    },
+    {
+      "arabic": "الشِّعْرُ",
+      "root": "ش ع ر",
+      "type": "noun",
+      "bs": "poezija",
+      "en": "poetry",
+      "exampleArabic": "الشِّعْرُ الْعَرَبِيُّ مِنْ أَعْرَقِ الآدَابِ.",
+      "exampleBs": "Arapska poezija spada u najstarije književnosti.",
+      "exampleEn": "Arabic poetry is among the most ancient literatures."
+    },
+    {
+      "arabic": "الْمَسْرَحُ",
+      "root": "س ر ح",
+      "type": "noun",
+      "bs": "pozorište",
+      "en": "theatre",
+      "exampleArabic": "ذَهَبُوا إِلَى الْمَسْرَحِ مَسَاءَ أَمْسِ.",
+      "exampleBs": "Sinoć su otišli u pozorište.",
+      "exampleEn": "They went to the theatre yesterday evening."
+    },
+    {
+      "arabic": "السِّينِمَا",
+      "root": "س ن م",
+      "type": "noun",
+      "bs": "kino, bioskop",
+      "en": "cinema",
+      "exampleArabic": "يُشَاهِدُ الْأَفْلَامَ فِي السِّينِمَا كُلَّ جُمُعَةٍ.",
+      "exampleBs": "Svaki petak gleda filmove u bioskopu.",
+      "exampleEn": "He watches films at the cinema every Friday."
+    },
+    {
+      "arabic": "الْأَدَبُ",
+      "root": "أ د ب",
+      "type": "noun",
+      "bs": "književnost",
+      "en": "literature",
+      "exampleArabic": "يَدْرُسُ الْأَدَبَ الْعَرَبِيَّ الْكَلَاسِيكِيَّ.",
+      "exampleBs": "Proučava klasičnu arapsku književnost.",
+      "exampleEn": "He studies classical Arabic literature."
+    },
+    {
+      "arabic": "الرَّقْصُ",
+      "root": "ر ق ص",
+      "type": "noun",
+      "bs": "ples",
+      "en": "dance",
+      "exampleArabic": "الرَّقْصُ الشَّعْبِيُّ جُزْءٌ مِنَ الْمُوَرَوثِ الثَّقَافِيِّ.",
+      "exampleBs": "Narodni ples je dio kulturne baštine.",
+      "exampleEn": "Folk dance is part of the cultural heritage."
+    },
+    {
+      "arabic": "التَّقْلِيدُ",
+      "root": "ق ل د",
+      "type": "noun",
+      "bs": "tradicija, običaj",
+      "en": "tradition, custom",
+      "exampleArabic": "التَّقَالِيدُ الْعَائِلِيَّةُ مُهِمَّةٌ لِلْجِيلِ الْجَدِيدِ.",
+      "exampleBs": "Porodične tradicije su važne za novu generaciju.",
+      "exampleEn": "Family traditions are important for the new generation."
+    },
+    {
+      "arabic": "الْمَهْرَجَانُ",
+      "root": "م ر ج",
+      "type": "noun",
+      "bs": "festival, manifestacija",
+      "en": "festival",
+      "exampleArabic": "يُقَامُ الْمَهْرَجَانُ الثَّقَافِيُّ كُلَّ عَامٍ.",
+      "exampleBs": "Kulturni festival se održava svake godine.",
+      "exampleEn": "The cultural festival is held every year."
+    },
+    {
+      "arabic": "الْعَادَةُ",
+      "root": "ع و د",
+      "type": "noun",
+      "bs": "navika, običaj",
+      "en": "custom, habit",
+      "exampleArabic": "الضِّيَافَةُ عَادَةٌ مُتَجَذِّرَةٌ فِي الثَّقَافَةِ الْعَرَبِيَّةِ.",
+      "exampleBs": "Gostoprimstvo je duboko ukorijenjen običaj u arapskoj kulturi.",
+      "exampleEn": "Hospitality is a deeply rooted custom in Arab culture."
+    },
+    {
+      "arabic": "التُّرَاثُ",
+      "root": "و ر ث",
+      "type": "noun",
+      "bs": "baština, naslijeđe",
+      "en": "heritage",
+      "exampleArabic": "يَجِبُ الْحِفَاظُ عَلَى التُّرَاثِ الثَّقَافِيِّ.",
+      "exampleBs": "Kulturnu baštinu treba čuvati.",
+      "exampleEn": "Cultural heritage must be preserved."
+    },
+    {
+      "arabic": "الْمُتْحَفُ",
+      "root": "ت ح ف",
+      "type": "noun",
+      "bs": "muzej",
+      "en": "museum",
+      "exampleArabic": "زَارَ الْمُتْحَفَ الْوَطَنِيَّ مَعَ عَائِلَتِهِ.",
+      "exampleBs": "Posjetio je nacionalni muzej s porodicom.",
+      "exampleEn": "He visited the national museum with his family."
+    },
+    {
+      "arabic": "الْمَعْرِضُ",
+      "root": "ع ر ض",
+      "type": "noun",
+      "bs": "izložba",
+      "en": "exhibition",
+      "exampleArabic": "حَضَرَتْ مَعْرِضَ الْفُنُونِ التَّشْكِيلِيَّةِ.",
+      "exampleBs": "Prisustvovala je izložbi likovnih umjetnosti.",
+      "exampleEn": "She attended the fine arts exhibition."
+    },
+    {
+      "arabic": "الْحَيُّ",
+      "root": "ح ي ي",
+      "type": "noun",
+      "bs": "mahala, kvart",
+      "en": "neighborhood, quarter",
+      "exampleArabic": "الْحَيُّ الْقَدِيمُ مَلِيءٌ بِالتَّارِيخِ.",
+      "exampleBs": "Stari kvart je pun istorije.",
+      "exampleEn": "The old neighborhood is full of history."
+    },
+    {
+      "arabic": "الْجِيلُ",
+      "root": "ج و ل",
+      "type": "noun",
+      "bs": "generacija",
+      "en": "generation",
+      "exampleArabic": "كُلُّ جِيلٍ يُوَرِّثُ ثَقَافَتَهُ لِلْجِيلِ التَّالِي.",
+      "exampleBs": "Svaka generacija prenosi svoju kulturu sljedećoj.",
+      "exampleEn": "Every generation passes its culture to the next."
+    },
+    {
+      "arabic": "الشَّبَابُ",
+      "root": "ش ب ب",
+      "type": "noun",
+      "bs": "omladina, mladi",
+      "en": "youth, young people",
+      "exampleArabic": "الشَّبَابُ هُمْ مُسْتَقْبَلُ الْأُمَّةِ.",
+      "exampleBs": "Mladi su budućnost naroda.",
+      "exampleEn": "The youth are the future of the nation."
+    },
+    {
+      "arabic": "الْمُسِنُّونَ",
+      "root": "س ن ن",
+      "type": "noun",
+      "bs": "stariji, starci",
+      "en": "the elderly",
+      "exampleArabic": "يَجِبُ احْتِرَامُ الْمُسِنِّينَ وَتَقْدِيرُهُمْ.",
+      "exampleBs": "Starije ljude treba poštovati i cijeniti.",
+      "exampleEn": "The elderly must be respected and appreciated."
+    },
+    {
+      "arabic": "الْفَنُّ",
+      "root": "ف ن ن",
+      "type": "noun",
+      "bs": "umjetnost",
+      "en": "art",
+      "exampleArabic": "الْفَنُّ الْإِسْلَامِيُّ مَشْهُورٌ بِزَخَارِفِهِ الرَّائِعَةِ.",
+      "exampleBs": "Islamska umjetnost poznata je po veličanstvenim ukrasima.",
+      "exampleEn": "Islamic art is famous for its magnificent ornaments."
+    },
+    {
+      "arabic": "الرِّوَايَةُ",
+      "root": "ر و ي",
+      "type": "noun",
+      "bs": "roman",
+      "en": "novel",
+      "exampleArabic": "قَرَأَتِ الرِّوَايَةَ فِي أُسْبُوعٍ وَاحِدٍ.",
+      "exampleBs": "Pročitala je roman za sedmicu dana.",
+      "exampleEn": "She read the novel in one week."
+    },
+    {
+      "arabic": "اللُّغَةُ",
+      "root": "ل غ و",
+      "type": "noun",
+      "bs": "jezik",
+      "en": "language",
+      "exampleArabic": "اللُّغَةُ الْعَرَبِيَّةُ مِنْ أَقْدَمِ اللُّغَاتِ الْحَيَّةِ.",
+      "exampleBs": "Arapski jezik je jedan od najstarijih živih jezika.",
+      "exampleEn": "Arabic is one of the oldest living languages."
+    },
+    {
+      "arabic": "احْتَفَلَ",
+      "root": "ح ف ل",
+      "type": "verb",
+      "bs": "slaviti, proslavljati",
+      "en": "to celebrate",
+      "exampleArabic": "احْتَفَلَتِ الْعَائِلَةُ بِعِيدِ الْمِيلَادِ.",
+      "exampleBs": "Porodica je proslavila rođendan.",
+      "exampleEn": "The family celebrated the birthday."
+    },
+    {
+      "arabic": "حَضَرَ",
+      "root": "ح ض ر",
+      "type": "verb",
+      "bs": "prisustvovati",
+      "en": "to attend",
+      "exampleArabic": "حَضَرَتِ الْحَفْلَةَ الْمُوسِيقِيَّةَ الدَّوْلِيَّةَ.",
+      "exampleBs": "Prisustvovala je međunarodnom muzičkom koncertu.",
+      "exampleEn": "She attended the international music concert."
+    },
+    {
+      "arabic": "زَارَ",
+      "root": "ز و ر",
+      "type": "verb",
+      "bs": "posjetiti",
+      "en": "to visit",
+      "exampleArabic": "زَارَ الْمَعَالِمَ التَّارِيخِيَّةَ فِي الْمَدِينَةِ.",
+      "exampleBs": "Posjetio je istorske znamenitosti u gradu.",
+      "exampleEn": "He visited the historical landmarks in the city."
+    },
+    {
+      "arabic": "اسْتَمْتَعَ",
+      "root": "م ت ع",
+      "type": "verb",
+      "bs": "uživati",
+      "en": "to enjoy",
+      "exampleArabic": "اسْتَمْتَعَ بِمُشَاهَدَةِ الْعَرْضِ الْمَسْرَحِيِّ.",
+      "exampleBs": "Uživao je u gledanju pozorišne predstave.",
+      "exampleEn": "He enjoyed watching the theatre performance."
+    },
+    {
+      "arabic": "قَرَأَ",
+      "root": "ق ر أ",
+      "type": "verb",
+      "bs": "čitati",
+      "en": "to read",
+      "exampleArabic": "تَقْرَأُ كِتَابًا جَدِيدًا كُلَّ أُسْبُوعٍ.",
+      "exampleBs": "Svake sedmice čita novu knjigu.",
+      "exampleEn": "She reads a new book every week."
+    },
+    {
+      "arabic": "رَسَمَ",
+      "root": "ر س م",
+      "type": "verb",
+      "bs": "crtati, slikati",
+      "en": "to draw, to paint",
+      "exampleArabic": "يَرْسُمُ الْمَنَاظِرَ الطَّبِيعِيَّةَ بِمَهَارَةٍ.",
+      "exampleBs": "Slika prirodne pejzaže s vještinom.",
+      "exampleEn": "He paints natural landscapes skillfully."
+    },
+    {
+      "arabic": "غَنَّى",
+      "root": "غ ن ي",
+      "type": "verb",
+      "bs": "pjevati",
+      "en": "to sing",
+      "exampleArabic": "غَنَّتْ أَغَانِيَ تُرَاثِيَّةً فِي الْحَفْلَةِ.",
+      "exampleBs": "Pjevala je narodne pjesme na proslavi.",
+      "exampleEn": "She sang traditional songs at the celebration."
+    },
+    {
+      "arabic": "حَافَظَ",
+      "root": "ح ف ظ",
+      "type": "verb",
+      "bs": "čuvati, sačuvati",
+      "en": "to preserve, to maintain",
+      "exampleArabic": "يَحَافِظُ الشَّعْبُ عَلَى تُرَاثِهِ الثَّقَافِيِّ.",
+      "exampleBs": "Narod čuva svoju kulturnu baštinu.",
+      "exampleEn": "The people preserve their cultural heritage."
+    },
+    {
+      "arabic": "انْتَشَرَ",
+      "root": "ن ش ر",
+      "type": "verb",
+      "bs": "širiti se, rasprostraniti se",
+      "en": "to spread",
+      "exampleArabic": "انْتَشَرَتِ الثَّقَافَةُ الْعَرَبِيَّةُ عَبْرَ الْعَالَمِ.",
+      "exampleBs": "Arapska kultura se proširila po cijelom svijetu.",
+      "exampleEn": "Arab culture spread throughout the world."
+    },
+    {
+      "arabic": "شَارَكَ",
+      "root": "ش ر ك",
+      "type": "verb",
+      "bs": "učestvovati, sudjelovati",
+      "en": "to participate",
+      "exampleArabic": "شَارَكَتْ فِي الْمَهْرَجَانِ الثَّقَافِيِّ.",
+      "exampleBs": "Sudjelovala je u kulturnom festivalu.",
+      "exampleEn": "She participated in the cultural festival."
+    },
+    {
+      "arabic": "أَبْدَعَ",
+      "root": "ب د ع",
+      "type": "verb",
+      "bs": "stvarati, kreirati",
+      "en": "to create, to be creative",
+      "exampleArabic": "أَبْدَعَ الرَّسَّامُ فِي لَوْحَتِهِ الْجَدِيدَةِ.",
+      "exampleBs": "Slikar je bio kreativan u svojoj novoj slici.",
+      "exampleEn": "The painter was creative in his new painting."
+    },
+    {
+      "arabic": "تَعَلَّمَ",
+      "root": "ع ل م",
+      "type": "verb",
+      "bs": "učiti, naučiti",
+      "en": "to learn",
+      "exampleArabic": "تَعَلَّمَ عَزْفَ الْعُودِ فِي صِغَرِهِ.",
+      "exampleBs": "Naučio je svirati oud u djetinjstvu.",
+      "exampleEn": "He learned to play the oud in his childhood."
+    },
+    {
+      "arabic": "تَقْلِيدِيٌّ",
+      "root": "ق ل د",
+      "type": "adjective",
+      "bs": "tradicionalan",
+      "en": "traditional",
+      "exampleArabic": "تَرْتَدِي الثَّوْبَ التَّقْلِيدِيَّ فِي الْأَعْيَادِ.",
+      "exampleBs": "Na praznike nosi tradicionalnu nošnju.",
+      "exampleEn": "She wears the traditional dress on holidays."
+    },
+    {
+      "arabic": "عَصْرِيٌّ",
+      "root": "ع ص ر",
+      "type": "adjective",
+      "bs": "moderan, savremeni",
+      "en": "modern, contemporary",
+      "exampleArabic": "تُحِبُّ الْفُنُونَ الْعَصْرِيَّةَ وَالتَّصْمِيمَ الْحَدِيثَ.",
+      "exampleBs": "Voli savremenu umjetnost i moderni dizajn.",
+      "exampleEn": "She loves contemporary arts and modern design."
+    },
+    {
+      "arabic": "شَعْبِيٌّ",
+      "root": "ش ع ب",
+      "type": "adjective",
+      "bs": "narodni, popularan",
+      "en": "popular, folk",
+      "exampleArabic": "الزَّجَلُ شَكْلٌ مِنْ أَشْكَالِ الشِّعْرِ الشَّعْبِيِّ.",
+      "exampleBs": "Zajedžal je oblik narodne poezije.",
+      "exampleEn": "Zajal is a form of folk poetry."
+    },
+    {
+      "arabic": "فَنِّيٌّ",
+      "root": "ف ن ن",
+      "type": "adjective",
+      "bs": "umjetnički",
+      "en": "artistic",
+      "exampleArabic": "تَمْتَلِكُ مَوْهِبَةً فَنِّيَّةً رَائِعَةً.",
+      "exampleBs": "Posjeduje divnu umjetničku darovitost.",
+      "exampleEn": "She has a wonderful artistic talent."
+    },
+    {
+      "arabic": "ثَقَافِيٌّ",
+      "root": "ث ق ف",
+      "type": "adjective",
+      "bs": "kulturni",
+      "en": "cultural",
+      "exampleArabic": "الْبَرْنَامَجُ الثَّقَافِيُّ يَعْرِضُ التُّرَاثَ الْمَحَلِّيَّ.",
+      "exampleBs": "Kulturni program prikazuje lokalnu baštinu.",
+      "exampleEn": "The cultural programme showcases local heritage."
+    },
+    {
+      "arabic": "اجْتِمَاعِيٌّ",
+      "root": "ج م ع",
+      "type": "adjective",
+      "bs": "društveni, socijalni",
+      "en": "social",
+      "exampleArabic": "الْإِنْسَانُ كَائِنٌ اجْتِمَاعِيٌّ بِطَبِيعَتِهِ.",
+      "exampleBs": "Čovjek je po prirodi društveno biće.",
+      "exampleEn": "A human being is social by nature."
+    },
+    {
+      "arabic": "مُتَنَوِّعٌ",
+      "root": "ن و ع",
+      "type": "adjective",
+      "bs": "raznolik, raznovrstan",
+      "en": "diverse, varied",
+      "exampleArabic": "الثَّقَافَةُ الْعَرَبِيَّةُ مُتَنَوِّعَةٌ وَغَنِيَّةٌ.",
+      "exampleBs": "Arapska kultura je raznolika i bogata.",
+      "exampleEn": "Arab culture is diverse and rich."
+    },
+    {
+      "arabic": "أَصِيلٌ",
+      "root": "أ ص ل",
+      "type": "adjective",
+      "bs": "autentičan, izvoran",
+      "en": "authentic, original",
+      "exampleArabic": "يُفَضِّلُ الطَّعَامَ الْأَصِيلَ عَلَى الْأَطْبَاقِ الْمُعَدَّلَةِ.",
+      "exampleBs": "Preferira autentičnu hranu nad modificiranim jelima.",
+      "exampleEn": "He prefers authentic food over modified dishes."
+    },
+    {
+      "arabic": "حَضَارِيٌّ",
+      "root": "ح ض ر",
+      "type": "adjective",
+      "bs": "civilizacijski, kulturni",
+      "en": "civilizational",
+      "exampleArabic": "الْإِسْهَامُ الْحَضَارِيُّ الْعَرَبِيُّ كَبِيرٌ جِدًّا.",
+      "exampleBs": "Arapski civilizacijski doprinos je veoma veliki.",
+      "exampleEn": "The Arab civilizational contribution is very great."
+    },
+    {
+      "arabic": "حَضَرَ الْحَفْلَةَ",
+      "root": "ح ض ر",
+      "type": "phrase",
+      "bs": "prisustvovati zabavi/koncertu",
+      "en": "to attend a concert/party",
+      "exampleArabic": "حَضَرَ الْحَفْلَةَ الْمُوسِيقِيَّةَ مَعَ أَصْدِقَائِهِ.",
+      "exampleBs": "Prisustvovao je muzičkom koncertu s prijateljima.",
+      "exampleEn": "He attended the music concert with his friends."
+    },
+    {
+      "arabic": "تَبَادُلُ الثَّقَافَاتِ",
+      "root": "ب د ل",
+      "type": "phrase",
+      "bs": "kulturna razmjena",
+      "en": "cultural exchange",
+      "exampleArabic": "تَبَادُلُ الثَّقَافَاتِ يُعَزِّزُ التَّفَاهُمَ بَيْنَ الشُّعُوبِ.",
+      "exampleBs": "Kulturna razmjena jača razumijevanje između naroda.",
+      "exampleEn": "Cultural exchange strengthens understanding between peoples."
+    },
+    {
+      "arabic": "الْهُوِيَّةُ الثَّقَافِيَّةُ",
+      "root": "ه و ي",
+      "type": "phrase",
+      "bs": "kulturni identitet",
+      "en": "cultural identity",
+      "exampleArabic": "الْهُوِيَّةُ الثَّقَافِيَّةُ تُمَيِّزُ كُلَّ شَعْبٍ.",
+      "exampleBs": "Kulturni identitet razlikuje svaki narod.",
+      "exampleEn": "Cultural identity distinguishes every people."
+    },
+    {
+      "arabic": "مِنَ الْجِيلِ إِلَى الْجِيلِ",
+      "root": "ج و ل",
+      "type": "phrase",
+      "bs": "s generacije na generaciju",
+      "en": "from generation to generation",
+      "exampleArabic": "تُنْقَلُ الْعَادَاتُ مِنَ الْجِيلِ إِلَى الْجِيلِ.",
+      "exampleBs": "Običaji se prenose s generacije na generaciju.",
+      "exampleEn": "Customs are passed from generation to generation."
+    },
+    {
+      "arabic": "يَحْكِي قِصَّةً",
+      "root": "ح ك ي",
+      "type": "phrase",
+      "bs": "pričati priču",
+      "en": "to tell a story",
+      "exampleArabic": "كَانَ الْجَدُّ يَحْكِي قِصَصًا شَعْبِيَّةً لِلْأَطْفَالِ.",
+      "exampleBs": "Djed je djeci pričao narodne priče.",
+      "exampleEn": "The grandfather used to tell folk stories to the children."
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "id": "b2-health",
+  "title": "Health & Wellbeing",
+  "titleAr": "الصِّحَّةُ وَالْعَافِيَةُ",
+  "level": "B2",
+  "topic": "health",
+  "words": [
+    {
+      "arabic": "طَبِيبُ الْقَلْبِ",
+      "root": "ق ل ب",
+      "type": "noun",
+      "bs": "kardiolog",
+      "en": "cardiologist",
+      "exampleArabic": "أَحَالَ الطَّبِيبُ الْمَرِيضَ إِلَى طَبِيبِ الْقَلْبِ لِإِجْرَاءِ فَحَصٍ شَامِلٍ.",
+      "exampleBs": "Ljekar je uputio pacijenta kardiologu na sveobuhvatni pregled.",
+      "exampleEn": "The doctor referred the patient to the cardiologist for a comprehensive examination."
+    },
+    {
+      "arabic": "طَبِيبُ الْجِلْدِيَّةِ",
+      "root": "ج ل د",
+      "type": "noun",
+      "bs": "dermatolog",
+      "en": "dermatologist",
+      "exampleArabic": "زَارَ طَبِيبَ الْجِلْدِيَّةِ بِسَبَبِ طَفَحٍ جِلْدِيٍّ مُسْتَمِرٍّ.",
+      "exampleBs": "Posjetio je dermatologa zbog trajnog kožnog osipa.",
+      "exampleEn": "He visited the dermatologist due to a persistent skin rash."
+    },
+    {
+      "arabic": "طَبِيبُ الأَطْفَالِ",
+      "root": "ط ف ل",
+      "type": "noun",
+      "bs": "pedijatar",
+      "en": "pediatrician",
+      "exampleArabic": "تَأْخُذُ الْأُمُّ طِفْلَهَا إِلَى طَبِيبِ الأَطْفَالِ لِفَحَصَاتِ النُّمُوِّ الدَّوْرِيَّةِ.",
+      "exampleBs": "Majka vodi dijete pedijatru na redovne preglede rasta i razvoja.",
+      "exampleEn": "The mother takes her child to the pediatrician for regular growth checkups."
+    },
+    {
+      "arabic": "جَرَّاحٌ",
+      "root": "ج ر ح",
+      "type": "noun",
+      "bs": "hirurg",
+      "en": "surgeon",
+      "exampleArabic": "أَجْرَى الْجَرَّاحُ عَمَلِيَّةً نَاجِحَةً دَامَتْ أَرْبَعَ سَاعَاتٍ.",
+      "exampleBs": "Hirurg je proveo uspješnu operaciju koja je trajala četiri sata.",
+      "exampleEn": "The surgeon performed a successful operation that lasted four hours."
+    },
+    {
+      "arabic": "طَبِيبٌ نَفْسَانِيٌّ",
+      "root": "ن ف س",
+      "type": "noun",
+      "bs": "psihijatar",
+      "en": "psychiatrist",
+      "exampleArabic": "يُعَالِجُ الطَّبِيبُ النَّفْسَانِيُّ الاِضْطِرَابَاتِ النَّفْسِيَّةَ بِالدَّوَاءِ وَالْعِلَاجِ.",
+      "exampleBs": "Psihijatar liječi psihičke poremećaje lijekovima i terapijom.",
+      "exampleEn": "The psychiatrist treats mental disorders with medication and therapy."
+    },
+    {
+      "arabic": "عَمَلِيَّةٌ جِرَاحِيَّةٌ",
+      "root": "ج ر ح",
+      "type": "noun",
+      "bs": "hirurška operacija",
+      "en": "surgical operation",
+      "exampleArabic": "أُجْرِيَتِ الْعَمَلِيَّةُ الْجِرَاحِيَّةُ بِنَجَاحٍ وَتَعَافَى الْمَرِيضُ سَرِيعًا.",
+      "exampleBs": "Hirurška operacija je obavljena uspješno i pacijent se brzo oporavio.",
+      "exampleEn": "The surgical operation was carried out successfully and the patient recovered quickly."
+    },
+    {
+      "arabic": "حَقْنَةٌ",
+      "root": "ح ق ن",
+      "type": "noun",
+      "bs": "injekcija, injekcija",
+      "en": "injection, shot",
+      "exampleArabic": "خَافَ الطِّفْلُ مِنَ الْحَقْنَةِ وَبَكَى عِنْدَ الطَّبِيبِ.",
+      "exampleBs": "Dijete se bojalo injekcije i plakalo kod ljekara.",
+      "exampleEn": "The child was afraid of the injection and cried at the doctor's."
+    },
+    {
+      "arabic": "تَحْلِيلُ الدَّمِ",
+      "root": "ح ل ل",
+      "type": "noun",
+      "bs": "krvna pretraga, analiza krvi",
+      "en": "blood test",
+      "exampleArabic": "طَلَبَ الطَّبِيبُ تَحْلِيلَ الدَّمِ لِلتَّحَقُّقِ مِنْ مُسْتَوَى السُّكَّرِ.",
+      "exampleBs": "Ljekar je zatražio analizu krvi kako bi provjerio nivo šećera.",
+      "exampleEn": "The doctor requested a blood test to check the sugar level."
+    },
+    {
+      "arabic": "تَصْوِيرٌ إِشِعَاعِيٌّ",
+      "root": "ص و ر",
+      "type": "noun",
+      "bs": "rendgenski snimak, radiološko snimanje",
+      "en": "X-ray, radiological scan",
+      "exampleArabic": "أَظْهَرَ التَّصْوِيرُ الإِشِعَاعِيُّ كَسْرًا فِي الْمِعْصَمِ.",
+      "exampleBs": "Rendgenski snimak je pokazao prelom zgloba.",
+      "exampleEn": "The X-ray revealed a fracture in the wrist."
+    },
+    {
+      "arabic": "تَشْخِيصٌ",
+      "root": "ش خ ص",
+      "type": "noun",
+      "bs": "dijagnoza",
+      "en": "diagnosis",
+      "exampleArabic": "يَعْتَمِدُ التَّشْخِيصُ الدَّقِيقُ عَلَى نَتَائِجِ الْفَحُوصَاتِ الْمُخْتَلِفَةِ.",
+      "exampleBs": "Precizna dijagnoza ovisi o rezultatima različitih pregleda.",
+      "exampleEn": "Accurate diagnosis depends on the results of various tests."
+    },
+    {
+      "arabic": "وَصْفَةٌ طِبِّيَّةٌ",
+      "root": "و ص ف",
+      "type": "noun",
+      "bs": "recept (ljeknički), uputnica",
+      "en": "prescription",
+      "exampleArabic": "لَا تَسْتَطِيعُ شِرَاءَ هَذَا الدَّوَاءِ بِدُونِ وَصْفَةٍ طِبِّيَّةٍ.",
+      "exampleBs": "Ne možeš kupiti ovaj lijek bez ljekničkog recepta.",
+      "exampleEn": "You cannot buy this medicine without a prescription."
+    },
+    {
+      "arabic": "السُّكَّرِيُّ",
+      "root": "س ك ر",
+      "type": "noun",
+      "bs": "dijabetes, šećerna bolest",
+      "en": "diabetes",
+      "exampleArabic": "يَتَطَلَّبُ السُّكَّرِيُّ الِالْتِزَامَ بِنِظَامٍ غِذَائِيٍّ صَارِمٍ.",
+      "exampleBs": "Dijabetes zahtijeva pridržavanje stroge prehrane.",
+      "exampleEn": "Diabetes requires adherence to a strict diet."
+    },
+    {
+      "arabic": "ضَغْطُ الدَّمِ الْمُرْتَفِعُ",
+      "root": "ض غ ط",
+      "type": "noun",
+      "bs": "visoki krvni pritisak, hipertenzija",
+      "en": "hypertension, high blood pressure",
+      "exampleArabic": "يُعَدُّ ضَغْطُ الدَّمِ الْمُرْتَفِعُ مِنْ عَوَامِلِ خَطَرِ أَمْرَاضِ الْقَلْبِ.",
+      "exampleBs": "Visoki krvni pritisak smatra se faktorom rizika za bolesti srca.",
+      "exampleEn": "High blood pressure is considered a risk factor for heart diseases."
+    },
+    {
+      "arabic": "اِلْتِهَابٌ",
+      "root": "ل ه ب",
+      "type": "noun",
+      "bs": "upala, inflamacija",
+      "en": "inflammation",
+      "exampleArabic": "سَبَّبَ الإِلْتِهَابُ تَوَرُّمًا وَأَلَمًا شَدِيدَيْنِ فِي الْمَنْطِقَةِ الْمُصَابَةِ.",
+      "exampleBs": "Upala je uzrokovala jako oticanje i bol u zahvaćenom području.",
+      "exampleEn": "The inflammation caused severe swelling and pain in the affected area."
+    },
+    {
+      "arabic": "كَسْرٌ",
+      "root": "ك س ر",
+      "type": "noun",
+      "bs": "prelom, fraktura",
+      "en": "fracture, break",
+      "exampleArabic": "تَكَشَّفَ عَنْ كَسْرٍ فِي الْقَدَمِ بَعْدَ فَحَصِ الأَشِعَّةِ.",
+      "exampleBs": "Rendgenski pregled otkrio je prelom stopala.",
+      "exampleEn": "A fracture in the foot was revealed after the X-ray examination."
+    },
+    {
+      "arabic": "حَسَاسِيَّةٌ",
+      "root": "ح س س",
+      "type": "noun",
+      "bs": "alergija, osjetljivost",
+      "en": "allergy, sensitivity",
+      "exampleArabic": "تُعَانِي مِنْ حَسَاسِيَّةٍ تِجَاهَ حَبِّ اللَّقَاحِ فِي فَصْلِ الرَّبِيعِ.",
+      "exampleBs": "Pati od alergije na pelud tokom proljeća.",
+      "exampleEn": "She suffers from an allergy to pollen in spring."
+    },
+    {
+      "arabic": "عَدْوَى",
+      "root": "ع د و",
+      "type": "noun",
+      "bs": "infekcija, zaraza",
+      "en": "infection",
+      "exampleArabic": "انْتَشَرَتِ الْعَدْوَى بَيْنَ الطُّلَّابِ فِي الْفَصْلِ الدِّرَاسِيِّ.",
+      "exampleBs": "Infekcija se proširila među učenicima u razredu.",
+      "exampleEn": "The infection spread among students in the classroom."
+    },
+    {
+      "arabic": "الصِّحَّةُ النَّفْسِيَّةُ",
+      "root": "ن ف س",
+      "type": "noun",
+      "bs": "mentalno zdravlje, psihičko zdravlje",
+      "en": "mental health",
+      "exampleArabic": "بَاتَ الِاهْتِمَامُ بِالصِّحَّةِ النَّفْسِيَّةِ أَمْرًا ضَرُورِيًّا فِي الْمُجْتَمَعِ الْحَدِيثِ.",
+      "exampleBs": "Briga o mentalnom zdravlju postala je neophodna u savremenom društvu.",
+      "exampleEn": "Caring for mental health has become essential in modern society."
+    },
+    {
+      "arabic": "إِدَارَةُ الضَّغْطِ",
+      "root": "ض غ ط",
+      "type": "noun",
+      "bs": "upravljanje stresom",
+      "en": "stress management",
+      "exampleArabic": "تَعَلَّمَ تَقْنِيَاتِ إِدَارَةِ الضَّغْطِ لِتَحْسِينِ جَوْدَةِ حَيَاتِهِ.",
+      "exampleBs": "Naučio je tehnike upravljanja stresom kako bi poboljšao kvalitetu svog života.",
+      "exampleEn": "He learned stress management techniques to improve his quality of life."
+    },
+    {
+      "arabic": "تَأَمُّلٌ",
+      "root": "أ م ل",
+      "type": "noun",
+      "bs": "meditacija, kontemplacija",
+      "en": "meditation, contemplation",
+      "exampleArabic": "يُمَارِسُ التَّأَمُّلَ يَوْمِيًّا لِتَهْدِئَةِ الذِّهْنِ وَتَخْفِيفِ التَّوَتُّرِ.",
+      "exampleBs": "Svakodnevno praktikuje meditaciju radi smirenja uma i smanjenja tenzije.",
+      "exampleEn": "He practices meditation daily to calm the mind and reduce tension."
+    },
+    {
+      "arabic": "خَطَّةٌ غِذَائِيَّةٌ",
+      "root": "خ ط ط",
+      "type": "noun",
+      "bs": "plan prehrane, dijeta",
+      "en": "nutrition plan, diet",
+      "exampleArabic": "وَضَعَ الطَّبِيبُ خَطَّةً غِذَائِيَّةً مُنَاسِبَةً لِحَالَةِ الْمَرِيضِ.",
+      "exampleBs": "Ljekar je sastavio odgovarajući plan prehrane za pacijentovo stanje.",
+      "exampleEn": "The doctor drew up a nutrition plan suitable for the patient's condition."
+    },
+    {
+      "arabic": "إِعَادَةُ التَّأْهِيلِ",
+      "root": "أ ه ل",
+      "type": "noun",
+      "bs": "rehabilitacija, oporavak",
+      "en": "rehabilitation",
+      "exampleArabic": "احْتَاجَ اللَّاعِبُ إِلَى أَشْهُرٍ مِنْ إِعَادَةِ التَّأْهِيلِ بَعْدَ إِصَابَتِهِ.",
+      "exampleBs": "Igraču je trebalo nekoliko mjeseci rehabilitacije nakon povrede.",
+      "exampleEn": "The player needed months of rehabilitation after his injury."
+    },
+    {
+      "arabic": "مُضَادٌّ حَيَوِيٌّ",
+      "root": "ح ي و",
+      "type": "noun",
+      "bs": "antibiotik",
+      "en": "antibiotic",
+      "exampleArabic": "لَا يَنْبَغِي تَنَاوُلُ الْمُضَادَّاتِ الْحَيَوِيَّةِ دُونَ وَصْفَةٍ طِبِّيَّةٍ.",
+      "exampleBs": "Antibiotike ne treba uzimati bez ljekničkog recepta.",
+      "exampleEn": "Antibiotics should not be taken without a medical prescription."
+    },
+    {
+      "arabic": "مُسَكِّنُ الأَلَمِ",
+      "root": "س ك ن",
+      "type": "noun",
+      "bs": "analgetik, sredstvo za ublažavanje boli",
+      "en": "painkiller, analgesic",
+      "exampleArabic": "تَنَاوَلَ مُسَكِّنَ الأَلَمِ بَعْدَ الْعَمَلِيَّةِ لِتَخْفِيفِ الأَلَمِ.",
+      "exampleBs": "Nakon operacije uzeo je analgetik za ublažavanje boli.",
+      "exampleEn": "He took a painkiller after the operation to relieve pain."
+    },
+    {
+      "arabic": "جُرْعَةٌ",
+      "root": "ج ر ع",
+      "type": "noun",
+      "bs": "doza, količina lijeka",
+      "en": "dosage, dose",
+      "exampleArabic": "يَجِبُ الِالْتِزَامُ بِالْجُرْعَةِ الْمُقَرَّرَةِ مِنَ الدَّوَاءِ.",
+      "exampleBs": "Treba se pridržavati propisane doze lijeka.",
+      "exampleEn": "The prescribed dosage of the medicine must be adhered to."
+    },
+    {
+      "arabic": "أَعْرَاضٌ جَانِبِيَّةٌ",
+      "root": "ع ر ض",
+      "type": "noun",
+      "bs": "nuspojave",
+      "en": "side effects",
+      "exampleArabic": "اقْرَأِ النَّشْرَةَ الدَّاخِلِيَّةَ لِمَعْرِفَةِ الأَعْرَاضِ الْجَانِبِيَّةِ قَبْلَ تَنَاوُلِ الدَّوَاءِ.",
+      "exampleBs": "Pročitaj uputstvo za upotrebu kako bi saznao nuspojave prije uzimanja lijeka.",
+      "exampleEn": "Read the package leaflet to learn about side effects before taking the medicine."
+    },
+    {
+      "arabic": "تَارِيخُ انْتِهَاءِ الصَّلَاحِيَّةِ",
+      "root": "ص ل ح",
+      "type": "noun",
+      "bs": "datum isteka roka trajanja",
+      "en": "expiry date",
+      "exampleArabic": "تَحَقَّقَ دَائِمًا مِنْ تَارِيخِ انْتِهَاءِ الصَّلَاحِيَّةِ قَبْلَ اسْتِخْدَامِ أَيِّ دَوَاءٍ.",
+      "exampleBs": "Uvijek provjeri datum isteka roka trajanja prije upotrebe bilo kojeg lijeka.",
+      "exampleEn": "Always check the expiry date before using any medicine."
+    },
+    {
+      "arabic": "غُرْفَةُ الطَّوَارِئِ",
+      "root": "ط ر أ",
+      "type": "noun",
+      "bs": "hitna pomoć, hitna služba",
+      "en": "emergency room",
+      "exampleArabic": "نُقِلَ إِلَى غُرْفَةِ الطَّوَارِئِ بَعْدَ تَعَرُّضِهِ لِحَادِثَةٍ مُرُورِيَّةٍ.",
+      "exampleBs": "Prebačen je na hitnu pomoć nakon što je doživio saobraćajnu nesreću.",
+      "exampleEn": "He was taken to the emergency room after being involved in a traffic accident."
+    },
+    {
+      "arabic": "مَرِيضٌ خَارِجِيٌّ",
+      "root": "م ر ض",
+      "type": "noun",
+      "bs": "ambulantni pacijent, vanjski pacijent",
+      "en": "outpatient",
+      "exampleArabic": "يُعَالَجُ كَمَرِيضٍ خَارِجِيٍّ وَلَا يَحْتَاجُ إِلَى الإِقَامَةِ فِي الْمُسْتَشْفَى.",
+      "exampleBs": "Liječi se kao ambulantni pacijent i nije mu potrebno bolničko liječenje.",
+      "exampleEn": "He is treated as an outpatient and does not need hospital admission."
+    },
+    {
+      "arabic": "مَوْعِدٌ طِبِّيٌّ",
+      "root": "و ع د",
+      "type": "noun",
+      "bs": "ljeknički termin, zakazani pregled",
+      "en": "medical appointment",
+      "exampleArabic": "حَجَزَتْ مَوْعِدًا طِبِّيًّا لِأَسْبُوعِ الْقَادِمِ.",
+      "exampleBs": "Zakazala je ljeknički termin za sljedeću sedmicu.",
+      "exampleEn": "She booked a medical appointment for next week."
+    },
+    {
+      "arabic": "تَأْمِينٌ صِحِّيٌّ",
+      "root": "أ م ن",
+      "type": "noun",
+      "bs": "zdravstveno osiguranje",
+      "en": "health insurance",
+      "exampleArabic": "يُغَطِّي التَّأْمِينُ الصِّحِّيُّ مَعْظَمَ تَكَالِيفِ الْعِلَاجِ وَالأَدْوِيَةِ.",
+      "exampleBs": "Zdravstveno osiguranje pokriva većinu troškova liječenja i lijekova.",
+      "exampleEn": "Health insurance covers most treatment and medication costs."
+    },
+    {
+      "arabic": "سِجِلٌّ طِبِّيٌّ",
+      "root": "س ج ل",
+      "type": "noun",
+      "bs": "medicinska dokumentacija, zdravstveni karton",
+      "en": "medical record",
+      "exampleArabic": "يَحْتَفِظُ الطَّبِيبُ بِسِجِلٍّ طِبِّيٍّ شَامِلٍ لِكُلِّ مَرِيضٍ.",
+      "exampleBs": "Ljekar vodi sveobuhvatnu medicinsku dokumentaciju za svakog pacijenta.",
+      "exampleEn": "The doctor maintains a comprehensive medical record for each patient."
+    },
+    {
+      "arabic": "مُسْتَشْفًى",
+      "root": "ش ف ي",
+      "type": "noun",
+      "bs": "bolnica",
+      "en": "hospital",
+      "exampleArabic": "أُدْخِلَ الْمُسْتَشْفَى عَلَى وَجَهِ السُّرْعَةِ بَعْدَ تَدَهْوُرِ حَالَتِهِ.",
+      "exampleBs": "Hitno je primljen u bolnicu nakon pogoršanja stanja.",
+      "exampleEn": "He was urgently admitted to the hospital after his condition deteriorated."
+    },
+    {
+      "arabic": "صَيْدَلِيَّةٌ",
+      "root": "ص د ل",
+      "type": "noun",
+      "bs": "apoteka, ljekarna",
+      "en": "pharmacy",
+      "exampleArabic": "اشْتَرَى الدَّوَاءَ مِنَ الصَّيْدَلِيَّةِ الْقَرِيبَةِ مِنْ مَنْزِلِهِ.",
+      "exampleBs": "Lijek je kupio u apoteci u blizini kuće.",
+      "exampleEn": "He bought the medicine from the pharmacy near his home."
+    },
+    {
+      "arabic": "صَيْدَلَانِيٌّ",
+      "root": "ص د ل",
+      "type": "noun",
+      "bs": "farmaceut, apotekar",
+      "en": "pharmacist",
+      "exampleArabic": "نَصَحَ الصَّيْدَلَانِيُّ بِضَرُورَةِ تَنَاوُلِ الدَّوَاءِ مَعَ الطَّعَامِ.",
+      "exampleBs": "Farmaceut je savjetovao da se lijek uzima s hranom.",
+      "exampleEn": "The pharmacist advised taking the medicine with food."
+    },
+    {
+      "arabic": "مَرَضٌ مُزْمِنٌ",
+      "root": "م ر ض",
+      "type": "noun",
+      "bs": "hronična bolest",
+      "en": "chronic disease",
+      "exampleArabic": "يَتَطَلَّبُ الْمَرَضُ الْمُزْمِنُ رِعَايَةً طِبِّيَّةً مُسْتَمِرَّةً.",
+      "exampleBs": "Hronična bolest zahtijeva kontinuiranu medicinsku njegu.",
+      "exampleEn": "A chronic disease requires continuous medical care."
+    },
+    {
+      "arabic": "وَقَايَةٌ",
+      "root": "و ق ي",
+      "type": "noun",
+      "bs": "prevencija, zaštita",
+      "en": "prevention, protection",
+      "exampleArabic": "الْوَقَايَةُ خَيْرٌ مِنَ الْعِلَاجِ، كَمَا يَقُولُ الْمَثَلُ.",
+      "exampleBs": "Prevencija je bolja od liječenja, kako kaže poslovica.",
+      "exampleEn": "Prevention is better than cure, as the saying goes."
+    },
+    {
+      "arabic": "لِيَاقَةٌ بَدَنِيَّةٌ",
+      "root": "ل ي ق",
+      "type": "noun",
+      "bs": "fizička kondicija, tjelesna spremnost",
+      "en": "physical fitness",
+      "exampleArabic": "يَحْرِصُ الرِّيَاضِيُّ عَلَى الْحِفَاظِ عَلَى لِيَاقَتِهِ الْبَدَنِيَّةِ طَوَالَ الْعَامِ.",
+      "exampleBs": "Sportaš vodi računa o održavanju fizičke kondicije tokom cijele godine.",
+      "exampleEn": "The athlete is keen on maintaining physical fitness throughout the year."
+    },
+    {
+      "arabic": "نَبْضٌ",
+      "root": "ن ب ض",
+      "type": "noun",
+      "bs": "puls, otkucaj srca",
+      "en": "pulse, heartbeat",
+      "exampleArabic": "قَاسَ الطَّبِيبُ نَبْضَ الْمَرِيضِ وَوَجَدَهُ طَبِيعِيًّا.",
+      "exampleBs": "Ljekar je izmjerio puls pacijenta i utvrdio da je normalan.",
+      "exampleEn": "The doctor measured the patient's pulse and found it normal."
+    },
+    {
+      "arabic": "ضَغْطُ الدَّمِ",
+      "root": "ض غ ط",
+      "type": "noun",
+      "bs": "krvni pritisak",
+      "en": "blood pressure",
+      "exampleArabic": "قِيَاسُ ضَغْطِ الدَّمِ بِانْتِظَامٍ مُهِمٌّ لِمَرْضَى الْقَلْبِ.",
+      "exampleBs": "Redovno mjerenje krvnog pritiska važno je za srčane pacijente.",
+      "exampleEn": "Regular blood pressure measurement is important for heart patients."
+    },
+    {
+      "arabic": "مَنَاعَةٌ",
+      "root": "م ن ع",
+      "type": "noun",
+      "bs": "imunitet, imunost",
+      "en": "immunity",
+      "exampleArabic": "يُعَزِّزُ الغِذَاءُ الصَّحِّيُّ الْمَنَاعَةَ وَيُقَاوِمُ الأَمْرَاضَ.",
+      "exampleBs": "Zdrava prehrana jača imunitet i pomaže u borbi protiv bolesti.",
+      "exampleEn": "Healthy food enhances immunity and helps fight diseases."
+    },
+    {
+      "arabic": "لِقَاحٌ",
+      "root": "ل ق ح",
+      "type": "noun",
+      "bs": "vakcina, cjepivo",
+      "en": "vaccine",
+      "exampleArabic": "اللِّقَاحُ الأَكْثَرُ أَمَانًا مِنَ الإِصَابَةِ بِالْمَرَضِ.",
+      "exampleBs": "Vakcina je sigurnija od obolijevanja od bolesti.",
+      "exampleEn": "The vaccine is safer than contracting the disease."
+    },
+    {
+      "arabic": "أَعْرَاضٌ",
+      "root": "ع ر ض",
+      "type": "noun",
+      "bs": "simptomi, znakovi bolesti",
+      "en": "symptoms",
+      "exampleArabic": "تَشْمَلُ أَعْرَاضُ الإِنْفِلُونْزَا الْحُمَّى وَالسُّعَالَ وَآلَامَ الْجِسْمِ.",
+      "exampleBs": "Simptomi gripe uključuju groznicu, kašalj i bolove u tijelu.",
+      "exampleEn": "Flu symptoms include fever, cough, and body aches."
+    },
+    {
+      "arabic": "تَعَافٍ",
+      "root": "ع ف و",
+      "type": "noun",
+      "bs": "oporavak, ozdravljenje",
+      "en": "recovery",
+      "exampleArabic": "دَعَا أَصْدِقَاؤُهُ لَهُ بِالتَّعَافِي الْعَاجِلِ بَعْدَ الْعَمَلِيَّةِ.",
+      "exampleBs": "Prijatelji su mu željeli brzi oporavak nakon operacije.",
+      "exampleEn": "His friends wished him a speedy recovery after the operation."
+    },
+    {
+      "arabic": "حِمْيَةٌ",
+      "root": "ح م ي",
+      "type": "noun",
+      "bs": "dijeta, restrikcija prehrane",
+      "en": "diet, dietary restriction",
+      "exampleArabic": "يَتَّبِعُ حِمْيَةً خَاصَّةً لِخَفْضِ مُسْتَوَى الْكُولِسْتِيرُولِ.",
+      "exampleBs": "Slijedi posebnu dijetu kako bi snizio nivo kolesterola.",
+      "exampleEn": "He follows a special diet to lower cholesterol levels."
+    },
+    {
+      "arabic": "جِرَاحَةٌ",
+      "root": "ج ر ح",
+      "type": "noun",
+      "bs": "hirurgija (kao grana medicine)",
+      "en": "surgery (medical specialty)",
+      "exampleArabic": "تَخَصَّصَ فِي جِرَاحَةِ الْعِظَامِ بَعْدَ سَنَوَاتٍ مِنَ الدِّرَاسَةِ.",
+      "exampleBs": "Specijalizovao se za ortopedsku hirurgiju nakon godina studiranja.",
+      "exampleEn": "He specialized in bone surgery after years of study."
+    },
+    {
+      "arabic": "فَحْصٌ دَوْرِيٌّ",
+      "root": "ف ح ص",
+      "type": "noun",
+      "bs": "redovni pregled, sistematski pregled",
+      "en": "routine checkup, periodic examination",
+      "exampleArabic": "يُنْصَحُ بِإِجْرَاءِ فَحْصٍ دَوْرِيٍّ كُلَّ سِتَّةِ أَشْهُرٍ.",
+      "exampleBs": "Preporučuje se obavljanje redovnog pregleda svaka šest mjeseci.",
+      "exampleEn": "It is recommended to have a periodic checkup every six months."
+    },
+    {
+      "arabic": "يُعَالِجُ",
+      "root": "ع ل ج",
+      "type": "verb",
+      "bs": "liječi, tretira",
+      "en": "he treats, cures",
+      "exampleArabic": "يُعَالِجُ الطَّبِيبُ مَرْضَاهُ بِمَهَارَةٍ وَتَفَانٍ.",
+      "exampleBs": "Ljekar liječi svoje pacijente s vještinom i predanošću.",
+      "exampleEn": "The doctor treats his patients with skill and dedication."
+    },
+    {
+      "arabic": "يَشْخَصُ",
+      "root": "ش خ ص",
+      "type": "verb",
+      "bs": "dijagnosticira, utvrđuje dijagnozu",
+      "en": "he diagnoses",
+      "exampleArabic": "يَصْعُبُ أَحْيَانًا تَشْخِيصُ بَعْضِ الأَمْرَاضِ النَّادِرَةِ.",
+      "exampleBs": "Ponekad je teško dijagnosticirati neke rijetke bolesti.",
+      "exampleEn": "It is sometimes difficult to diagnose certain rare diseases."
+    },
+    {
+      "arabic": "يَتَعَافَى",
+      "root": "ع ف و",
+      "type": "verb",
+      "bs": "oporavlja se, ozdravljuje",
+      "en": "he recovers, heals",
+      "exampleArabic": "يَتَعَافَى الْمَرِيضُ تَدْرِيجِيًّا بَعْدَ الْخُضُوعِ لِلْعِلَاجِ الْكِيمِيَائِيِّ.",
+      "exampleBs": "Pacijent se postepeno oporavlja nakon hemioterapije.",
+      "exampleEn": "The patient is gradually recovering after chemotherapy."
+    },
+    {
+      "arabic": "يَشْكُو مِنْ",
+      "root": "ش ك و",
+      "type": "verb",
+      "bs": "žali se na, tuži se na",
+      "en": "he complains of, suffers from",
+      "exampleArabic": "يَشْكُو مِنْ آلَامٍ مُسْتَمِرَّةٍ فِي الظَّهْرِ مُنْذُ أُسْبُوعَيْنِ.",
+      "exampleBs": "Žali se na stalnu bol u leđima već dvije sedmice.",
+      "exampleEn": "He has been complaining of persistent back pain for two weeks."
+    },
+    {
+      "arabic": "يَتَنَاوَلُ دَوَاءً",
+      "root": "ن و ل",
+      "type": "verb",
+      "bs": "uzima lijek",
+      "en": "he takes medicine",
+      "exampleArabic": "يَتَنَاوَلُ دَوَاءً لِضَغْطِ الدَّمِ كُلَّ يَوْمٍ.",
+      "exampleBs": "Svakodnevno uzima lijek za krvni pritisak.",
+      "exampleEn": "He takes blood pressure medicine every day."
+    },
+    {
+      "arabic": "يَحْجِزُ مَوْعِدًا",
+      "root": "ح ج ز",
+      "type": "verb",
+      "bs": "zakazuje termin",
+      "en": "he books an appointment",
+      "exampleArabic": "يَحْجِزُ مَوْعِدًا مَعَ طَبِيبِهِ مَرَّةً كُلَّ ثَلَاثَةِ أَشْهُرٍ.",
+      "exampleBs": "Zakazuje termin kod svog ljekara jednom u tri mjeseca.",
+      "exampleEn": "He books an appointment with his doctor once every three months."
+    },
+    {
+      "arabic": "مُخْبَرٌ",
+      "root": "خ ب ر",
+      "type": "noun",
+      "bs": "laboratorija, lab",
+      "en": "laboratory, lab",
+      "exampleArabic": "أُرْسِلَتِ الْعَيِّنَاتُ إِلَى الْمُخْبَرِ لِتَحْلِيلِهَا.",
+      "exampleBs": "Uzorci su poslani u laboratoriju na analizu.",
+      "exampleEn": "The samples were sent to the laboratory for analysis."
+    },
+    {
+      "arabic": "جِهَازٌ هَضْمِيٌّ",
+      "root": "ه ض م",
+      "type": "noun",
+      "bs": "probavni sistem",
+      "en": "digestive system",
+      "exampleArabic": "يُؤَثِّرُ الضَّغْطُ النَّفْسِيُّ سَلْبًا عَلَى الْجِهَازِ الْهَضْمِيِّ.",
+      "exampleBs": "Psihički stres negativno utječe na probavni sistem.",
+      "exampleEn": "Psychological stress negatively affects the digestive system."
+    },
+    {
+      "arabic": "نَوْمٌ كَافٍ",
+      "root": "ن و م",
+      "type": "noun",
+      "bs": "dovoljan san",
+      "en": "adequate sleep, sufficient sleep",
+      "exampleArabic": "النَّوْمُ الْكَافِي ضَرُورِيٌّ لِتَجْدِيدِ طَاقَةِ الجِسْمِ وَتَرْكِيزِ الذِّهْنِ.",
+      "exampleBs": "Dovoljan san je neophodan za obnavljanje tjelesne energije i koncentracije.",
+      "exampleEn": "Adequate sleep is essential for renewing body energy and mental focus."
+    }
+  ]
+}

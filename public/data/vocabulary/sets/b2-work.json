@@ -1,0 +1,559 @@
+{
+  "id": "b2-work",
+  "title": "Work & Careers",
+  "titleAr": "الْعَمَلُ وَالْمِهَنُ",
+  "level": "B2",
+  "topic": "work",
+  "words": [
+    {
+      "arabic": "الإِيرَادُ",
+      "root": "و ر د",
+      "type": "noun",
+      "bs": "prihod, prihodi",
+      "en": "revenue",
+      "exampleArabic": "حَقَّقَتِ الشَّرِكَةُ إِيرَادَاتٍ قِيَاسِيَّةً فِي الرُّبْعِ الثَّالِثِ.",
+      "exampleBs": "Kompanija je ostvarila rekordne prihode u trećem kvartalu.",
+      "exampleEn": "The company achieved record revenues in the third quarter."
+    },
+    {
+      "arabic": "الرِّبْحُ",
+      "root": "ر ب ح",
+      "type": "noun",
+      "bs": "profit, zarada",
+      "en": "profit",
+      "exampleArabic": "يَتَوَقَّفُ بَقَاءُ أَيِّ شَرِكَةٍ عَلَى تَحْقِيقِ الرِّبْحِ الْمُسْتَدَامِ.",
+      "exampleBs": "Opstanak svake kompanije ovisi o ostvarivanju održivog profita.",
+      "exampleEn": "The survival of any company depends on achieving sustainable profit."
+    },
+    {
+      "arabic": "الِاسْتِثْمَارُ",
+      "root": "ث م ر",
+      "type": "noun",
+      "bs": "investicija, ulaganje",
+      "en": "investment",
+      "exampleArabic": "يَتَطَلَّبُ نَجَاحُ الْمَشْرُوعِ اسْتِثْمَارًا مُبَكِّرًا فِي الْبُنْيَةِ التَّحْتِيَّةِ.",
+      "exampleBs": "Uspjeh projekta zahtijeva rano ulaganje u infrastrukturu.",
+      "exampleEn": "The project's success requires early investment in infrastructure."
+    },
+    {
+      "arabic": "الْمِيزَانِيَّةُ",
+      "root": "و ز ن",
+      "type": "noun",
+      "bs": "budžet",
+      "en": "budget",
+      "exampleArabic": "خَصَّصَتِ الإِدَارَةُ مِيزَانِيَّةً إِضَافِيَّةً لِلْبَحْثِ وَالتَّطْوِيرِ.",
+      "exampleBs": "Uprava je dodijelila dodatni budžet za istraživanje i razvoj.",
+      "exampleEn": "Management allocated an additional budget for research and development."
+    },
+    {
+      "arabic": "التَّكْلِفَةُ",
+      "root": "ك ل ف",
+      "type": "noun",
+      "bs": "trošak, cijena",
+      "en": "cost",
+      "exampleArabic": "تَسْعَى الشَّرِكَةُ إِلَى تَخْفِيضِ التَّكَالِيفِ التَّشْغِيلِيَّةِ دُونَ الْإِخْلَالِ بِالْجَوْدَةِ.",
+      "exampleBs": "Kompanija nastoji smanjiti operativne troškove bez narušavanja kvaliteta.",
+      "exampleEn": "The company seeks to reduce operational costs without compromising quality."
+    },
+    {
+      "arabic": "الْحِصَّةُ السُّوقِيَّةُ",
+      "root": "ح ص ص",
+      "type": "noun",
+      "bs": "tržišni udio",
+      "en": "market share",
+      "exampleArabic": "تُحَاوِلُ الشَّرِكَةُ تَوْسِيعَ حِصَّتِهَا السُّوقِيَّةِ فِي مَنْطَقَةِ الشَّرْقِ الأَوْسَطِ.",
+      "exampleBs": "Kompanija pokušava proširiti tržišni udio na području Bliskog istoka.",
+      "exampleEn": "The company is trying to expand its market share in the Middle East region."
+    },
+    {
+      "arabic": "الْمُنَافَسَةُ",
+      "root": "ن ف س",
+      "type": "noun",
+      "bs": "konkurencija",
+      "en": "competition",
+      "exampleArabic": "تَشْتَدُّ الْمُنَافَسَةُ بَيْنَ الشَّرِكَاتِ التِّقْنِيَّةِ فِي مَجَالِ الذَّكَاءِ الِاصْطِنَاعِيِّ.",
+      "exampleBs": "Konkurencija između tehnoloških kompanija u oblasti vještačke inteligencije se pojačava.",
+      "exampleEn": "Competition among technology companies in the field of artificial intelligence is intensifying."
+    },
+    {
+      "arabic": "الِاندِمَاجُ التِّجَارِيُّ",
+      "root": "د م ج",
+      "type": "noun",
+      "bs": "poslovni spoj, merger",
+      "en": "merger",
+      "exampleArabic": "أَعْلَنَتِ الشَّرِكَتَانِ عَنِ اندِمَاجٍ تِجَارِيٍّ يُخَلِّقُ عِمْلَاقًا صِنَاعِيًّا جَدِيدًا.",
+      "exampleBs": "Dvije kompanije su najavile poslovni spoj koji stvara novog industrijskog giganta.",
+      "exampleEn": "The two companies announced a merger creating a new industrial giant."
+    },
+    {
+      "arabic": "التَّوْظِيفُ",
+      "root": "و ظ ف",
+      "type": "noun",
+      "bs": "zapošljavanje, regrutacija",
+      "en": "recruitment, hiring",
+      "exampleArabic": "تَعْتَمِدُ الشَّرِكَةُ فِي التَّوْظِيفِ عَلَى آلِيَّاتِ الذَّكَاءِ الِاصْطِنَاعِيِّ لِفَرْزِ الطَّلَبَاتِ.",
+      "exampleBs": "Kompanija u zapošljavanju koristi mehanizme vještačke inteligencije za sortiranje prijava.",
+      "exampleEn": "The company uses artificial intelligence mechanisms in recruitment to sort applications."
+    },
+    {
+      "arabic": "تَقْيِيمُ الأَدَاءِ",
+      "root": "أ د و",
+      "type": "noun",
+      "bs": "ocjenjivanje učinka, performance review",
+      "en": "performance review",
+      "exampleArabic": "يُجْرَى تَقْيِيمُ الأَدَاءِ السَّنَوِيُّ فِي نِهَايَةِ كُلِّ عَامٍ مَالِيٍّ.",
+      "exampleBs": "Godišnje ocjenjivanje učinka provodi se na kraju svake finansijske godine.",
+      "exampleEn": "Annual performance review is conducted at the end of each financial year."
+    },
+    {
+      "arabic": "إِجَازَةُ الأُمُومَةِ",
+      "root": "أ م م",
+      "type": "noun",
+      "bs": "porodiljski dopust",
+      "en": "maternity leave",
+      "exampleArabic": "حَصَلَتِ الْمُوَظَّفَةُ عَلَى إِجَازَةِ أُمُومَةٍ مَدْفُوعَةِ الأَجْرِ لِمُدَّةِ ثَلَاثَةِ أَشْهُرٍ.",
+      "exampleBs": "Zaposlenica je dobila plaćeni porodiljski dopust u trajanju od tri mjeseca.",
+      "exampleEn": "The employee received three months of paid maternity leave."
+    },
+    {
+      "arabic": "الِاسْتِقَالَةُ",
+      "root": "ق و ل",
+      "type": "noun",
+      "bs": "ostavka, otkaz",
+      "en": "resignation",
+      "exampleArabic": "قَدَّمَ الْمُدِيرُ الْعَامُّ اسْتِقَالَتَهُ فِي أَعْقَابِ الأَزْمَةِ الإِدَارِيَّةِ.",
+      "exampleBs": "Generalni direktor je podnio ostavku nakon upravljačke krize.",
+      "exampleEn": "The general manager submitted his resignation following the management crisis."
+    },
+    {
+      "arabic": "الْفَصْلُ مِنَ الْعَمَلِ",
+      "root": "ف ص ل",
+      "type": "noun",
+      "bs": "otkaz, raskid radnog odnosa",
+      "en": "termination, dismissal",
+      "exampleArabic": "يَسْتَوْجِبُ الْفَصْلُ مِنَ الْعَمَلِ الِالْتِزَامَ بِالإِجْرَاءَاتِ الْقَانُونِيَّةِ الْمُعْتَمَدَةِ.",
+      "exampleBs": "Raskid radnog odnosa zahtijeva poštivanje utvrđenih zakonskih procedura.",
+      "exampleEn": "Termination of employment requires compliance with established legal procedures."
+    },
+    {
+      "arabic": "فَتْرَةُ التَّجْرِبَةِ",
+      "root": "ج ر ب",
+      "type": "noun",
+      "bs": "probni period",
+      "en": "probation period",
+      "exampleArabic": "يَخْضَعُ الْمُوَظَّفُ الْجَدِيدُ لِفَتْرَةِ تَجْرِبَةٍ مَدَّتُهَا سِتَّةُ أَشْهُرٍ.",
+      "exampleBs": "Novi zaposlenik prolazi kroz probni period od šest mjeseci.",
+      "exampleEn": "The new employee undergoes a six-month probation period."
+    },
+    {
+      "arabic": "الْقِيَادَةُ",
+      "root": "ق و د",
+      "type": "noun",
+      "bs": "liderstvo, rukovodstvo",
+      "en": "leadership",
+      "exampleArabic": "تَعْتَمِدُ الشَّرِكَةُ نَهْجًا فِي الْقِيَادَةِ يُشَجِّعُ الإِبْدَاعَ وَالِابْتِكَارَ.",
+      "exampleBs": "Kompanija primjenjuje pristup liderstvu koji potiče kreativnost i inovacije.",
+      "exampleEn": "The company adopts a leadership approach that encourages creativity and innovation."
+    },
+    {
+      "arabic": "التَّفْوِيضُ",
+      "root": "ف و ض",
+      "type": "noun",
+      "bs": "delegiranje, prenošenje ovlaštenja",
+      "en": "delegation",
+      "exampleArabic": "يَلْجَأُ الْمُدِيرُ الْكُفْءُ إِلَى التَّفْوِيضِ لِتَوْزِيعِ الْمَهَامِّ بِكَفَاءَةٍ.",
+      "exampleBs": "Kompetentan menadžer pribjegava delegiranju kako bi efikasno raspodijelio zadatke.",
+      "exampleEn": "A competent manager resorts to delegation to distribute tasks efficiently."
+    },
+    {
+      "arabic": "الْمَسَاءَلَةُ",
+      "root": "س أ ل",
+      "type": "noun",
+      "bs": "odgovornost, obaveza polaganja računa",
+      "en": "accountability",
+      "exampleArabic": "تُعَزِّزُ الْمَسَاءَلَةُ الثِّقَةَ بَيْنَ الإِدَارَةِ وَالْمُوَظَّفِينَ.",
+      "exampleBs": "Odgovornost jača povjerenje između uprave i zaposlenika.",
+      "exampleEn": "Accountability strengthens trust between management and employees."
+    },
+    {
+      "arabic": "التَّغْذِيَةُ الرَّاجِعَةُ",
+      "root": "غ ذ و",
+      "type": "noun",
+      "bs": "povratna informacija, feedback",
+      "en": "feedback",
+      "exampleArabic": "تُسَاعِدُ التَّغْذِيَةُ الرَّاجِعَةُ الْبَنَّاءَةُ الْمُوَظَّفِينَ عَلَى تَطْوِيرِ مَهَارَاتِهِمْ.",
+      "exampleBs": "Konstruktivna povratna informacija pomaže zaposlenicima da razviju svoje vještine.",
+      "exampleEn": "Constructive feedback helps employees develop their skills."
+    },
+    {
+      "arabic": "الْعَصْفُ الذِّهْنِيُّ",
+      "root": "ع ص ف",
+      "type": "noun",
+      "bs": "brainstorming, oluja ideja",
+      "en": "brainstorming",
+      "exampleArabic": "عَقَدَ الْفَرِيقُ جَلْسَةَ عَصْفٍ ذِهْنِيٍّ لِإِيجَادِ حَلٍّ مُبْتَكَرٍ لِلْمُشْكِلَةِ.",
+      "exampleBs": "Tim je održao brainstorming sesiju kako bi pronašao kreativno rješenje problema.",
+      "exampleEn": "The team held a brainstorming session to find an innovative solution to the problem."
+    },
+    {
+      "arabic": "التَّوَاصُلُ الْمِهَنِيُّ",
+      "root": "و ص ل",
+      "type": "noun",
+      "bs": "profesionalno umrežavanje, networking",
+      "en": "professional networking",
+      "exampleArabic": "يُسَاهِمُ التَّوَاصُلُ الْمِهَنِيُّ فِي فَتْحِ أَبْوَابٍ جَدِيدَةٍ لِلتَّعَاوُنِ.",
+      "exampleBs": "Profesionalno umrežavanje doprinosi otvaranju novih vrata za saradnju.",
+      "exampleEn": "Professional networking contributes to opening new doors for collaboration."
+    },
+    {
+      "arabic": "الشَّرِكَةُ النَّاشِئَةُ",
+      "root": "ن ش أ",
+      "type": "noun",
+      "bs": "startup kompanija",
+      "en": "startup",
+      "exampleArabic": "أَسَّسَ الشَّابُّ شَرِكَتَهُ النَّاشِئَةَ فِي مَجَالِ التِّقْنِيَّةِ الْمَالِيَّةِ.",
+      "exampleBs": "Mladić je osnovao svoju startup kompaniju u oblasti finansijskih tehnologija.",
+      "exampleEn": "The young man founded his startup in the field of financial technology."
+    },
+    {
+      "arabic": "خِطَّةُ الْعَمَلِ",
+      "root": "خ ط ط",
+      "type": "noun",
+      "bs": "poslovni plan",
+      "en": "business plan",
+      "exampleArabic": "قَدَّمَ رَائِدُ الأَعْمَالِ خِطَّةَ عَمَلٍ مُفَصَّلَةً أَمَامَ الْمُسْتَثْمِرِينَ.",
+      "exampleBs": "Poduzetnik je predstavio detaljan poslovni plan pred investitorima.",
+      "exampleEn": "The entrepreneur presented a detailed business plan before investors."
+    },
+    {
+      "arabic": "التَّمْوِيلُ",
+      "root": "م و ل",
+      "type": "noun",
+      "bs": "finansiranje",
+      "en": "funding, financing",
+      "exampleArabic": "نَجَحَتِ الشَّرِكَةُ النَّاشِئَةُ فِي الْحُصُولِ عَلَى تَمْوِيلٍ أَوَّلِيٍّ بِقِيمَةِ مِلْيُونِ دُولَارٍ.",
+      "exampleBs": "Startup kompanija je uspjela osigurati početno finansiranje od milijun dolara.",
+      "exampleEn": "The startup succeeded in securing initial funding of one million dollars."
+    },
+    {
+      "arabic": "رَأْسُ الْمَالِ الْمُجَازِفُ",
+      "root": "ج و ز",
+      "type": "noun",
+      "bs": "venture kapital",
+      "en": "venture capital",
+      "exampleArabic": "تَلْقَّتِ الشَّرِكَةُ دَعْمًا مَالِيًّا مِنْ صُنْدُوقِ رَأْسِ الْمَالِ الْمُجَازِفِ الْمَرْمُوقِ.",
+      "exampleBs": "Kompanija je primila finansijsku podršku od uglednog fonda rizičnog kapitala.",
+      "exampleEn": "The company received financial support from a prestigious venture capital fund."
+    },
+    {
+      "arabic": "الِابْتِكَارُ",
+      "root": "ب ك ر",
+      "type": "noun",
+      "bs": "inovacija",
+      "en": "innovation",
+      "exampleArabic": "يُعَدُّ الِابْتِكَارُ الْمُحَرِّكَ الرَّئِيسِيَّ لِلنُّمُوِّ الِاقْتِصَادِيِّ الْمُسْتَدَامِ.",
+      "exampleBs": "Inovacija se smatra glavnim pokretačem održivog ekonomskog rasta.",
+      "exampleEn": "Innovation is considered the main driver of sustainable economic growth."
+    },
+    {
+      "arabic": "قَابِلِيَّةُ التَّوَسُّعِ",
+      "root": "و س ع",
+      "type": "noun",
+      "bs": "skalabilnost",
+      "en": "scalability",
+      "exampleArabic": "تَهْتَمُّ الشَّرِكَاتُ التِّقْنِيَّةُ بِقَابِلِيَّةِ التَّوَسُّعِ لِضَمَانِ نُمُوِّهَا الْمُسْتَقْبَلِيِّ.",
+      "exampleBs": "Tehnološke kompanije posvećuju pažnju skalabilnosti kako bi osigurale budući rast.",
+      "exampleEn": "Technology companies pay attention to scalability to ensure future growth."
+    },
+    {
+      "arabic": "الْمُرَاسَلَةُ الرَّسْمِيَّةُ",
+      "root": "ر س ل",
+      "type": "noun",
+      "bs": "službena korespondencija",
+      "en": "formal correspondence",
+      "exampleArabic": "تَتَمَيَّزُ الْمُرَاسَلَةُ الرَّسْمِيَّةُ بِأُسْلُوبٍ مُهَذَّبٍ وَلُغَةٍ دَقِيقَةٍ.",
+      "exampleBs": "Službena korespondencija odlikuje se uljudnim stilom i preciznim jezikom.",
+      "exampleEn": "Formal correspondence is characterized by a polite style and precise language."
+    },
+    {
+      "arabic": "جَدْوَلُ الأَعْمَالِ",
+      "root": "ج د و",
+      "type": "noun",
+      "bs": "dnevni red, agenda",
+      "en": "agenda",
+      "exampleArabic": "وُزِّعَ جَدْوَلُ الأَعْمَالِ عَلَى الْمُشَارِكِينَ قَبْلَ الِاجْتِمَاعِ بِيَوْمٍ كَامِلٍ.",
+      "exampleBs": "Dnevni red je distribuiran učesnicima cijeli dan prije sastanka.",
+      "exampleEn": "The agenda was distributed to participants a full day before the meeting."
+    },
+    {
+      "arabic": "مَحْضَرُ الِاجْتِمَاعِ",
+      "root": "ح ض ر",
+      "type": "noun",
+      "bs": "zapisnik sa sastanka",
+      "en": "minutes of meeting",
+      "exampleArabic": "أَعَدَّ السِّكْرِتِيرُ مَحْضَرَ الِاجْتِمَاعِ وَأَرْسَلَهُ إِلَى جَمِيعِ الأَطْرَافِ.",
+      "exampleBs": "Sekretar je pripremio zapisnik sa sastanka i poslao ga svim stranama.",
+      "exampleEn": "The secretary prepared the minutes of the meeting and sent them to all parties."
+    },
+    {
+      "arabic": "الاقْتِرَاحُ",
+      "root": "ق ر ح",
+      "type": "noun",
+      "bs": "prijedlog",
+      "en": "proposal",
+      "exampleArabic": "أَرْسَلَ الْفَرِيقُ اقْتِرَاحًا مُفَصَّلًا إِلَى الْعَمِيلِ لِلنَّظَرِ فِيهِ.",
+      "exampleBs": "Tim je poslao detaljan prijedlog klijentu na razmatranje.",
+      "exampleEn": "The team sent a detailed proposal to the client for consideration."
+    },
+    {
+      "arabic": "الْمَوْعِدُ النِّهَائِيُّ",
+      "root": "و ع د",
+      "type": "noun",
+      "bs": "krajnji rok, deadline",
+      "en": "deadline",
+      "exampleArabic": "يَجِبُ تَسْلِيمُ الْمَشْرُوعِ قَبْلَ الْمَوْعِدِ النِّهَائِيِّ الْمُحَدَّدِ.",
+      "exampleBs": "Projekat mora biti isporučen prije utvrđenog krajnjeg roka.",
+      "exampleEn": "The project must be delivered before the specified deadline."
+    },
+    {
+      "arabic": "النَّتِيجَةُ الْمُتَوَقَّعَةُ",
+      "root": "ن ت ج",
+      "type": "noun",
+      "bs": "očekivani ishod, deliverable",
+      "en": "deliverable, expected outcome",
+      "exampleArabic": "حَدَّدَ الْعَقْدُ النَّتَائِجَ الْمُتَوَقَّعَةَ مِنْ كُلِّ مَرْحَلَةٍ مِنْ مَرَاحِلِ الْمَشْرُوعِ.",
+      "exampleBs": "Ugovor je definisao očekivane ishode svake faze projekta.",
+      "exampleEn": "The contract specified the deliverables from each phase of the project."
+    },
+    {
+      "arabic": "الْمُوَظَّفُ",
+      "root": "و ظ ف",
+      "type": "noun",
+      "bs": "zaposlenik, radnik",
+      "en": "employee",
+      "exampleArabic": "تَحْرِصُ الشَّرِكَةُ عَلَى تَوْفِيرِ بِيئَةِ عَمَلٍ صِحِّيَّةٍ لِجَمِيعِ مُوَظَّفِيهَا.",
+      "exampleBs": "Kompanija nastoji osigurati zdravo radno okruženje za sve zaposlenike.",
+      "exampleEn": "The company strives to provide a healthy work environment for all its employees."
+    },
+    {
+      "arabic": "الرَّاتِبُ",
+      "root": "ر ت ب",
+      "type": "noun",
+      "bs": "plata, plaća",
+      "en": "salary",
+      "exampleArabic": "تَتَفَاوَتُ الرَّوَاتِبُ تَبَعًا لِلْخِبْرَةِ وَمُسْتَوَى التَّعْلِيمِ.",
+      "exampleBs": "Plate variraju ovisno o iskustvu i nivou obrazovanja.",
+      "exampleEn": "Salaries vary depending on experience and education level."
+    },
+    {
+      "arabic": "الترَّقِّي الوَظِيفِيُّ",
+      "root": "ر ق ي",
+      "type": "noun",
+      "bs": "napredovanje u karijeri",
+      "en": "career advancement, promotion",
+      "exampleArabic": "يَعْتَمِدُ الترَّقِّي الوَظِيفِيُّ عَادَةً عَلَى الأَدَاءِ وَالْكَفَاءَةِ الشَّخْصِيَّةِ.",
+      "exampleBs": "Napredovanje u karijeri obično ovisi o učinku i ličnoj kompetentnosti.",
+      "exampleEn": "Career advancement usually depends on performance and personal competence."
+    },
+    {
+      "arabic": "الْعَمَلُ عَنْ بُعْدٍ",
+      "root": "ع م ل",
+      "type": "noun",
+      "bs": "rad na daljinu, rad od kuće",
+      "en": "remote work, telework",
+      "exampleArabic": "انْتَشَرَ الْعَمَلُ عَنْ بُعْدٍ بِشَكْلٍ وَاسِعٍ فِي مَرْحَلَةِ مَا بَعْدَ الْجَائِحَةِ.",
+      "exampleBs": "Rad na daljinu se znatno proširio u postpandemijskom periodu.",
+      "exampleEn": "Remote work spread widely in the post-pandemic period."
+    },
+    {
+      "arabic": "التَّوَازُنُ بَيْنَ الْعَمَلِ وَالْحَيَاةِ",
+      "root": "و ز ن",
+      "type": "noun",
+      "bs": "ravnoteža između posla i privatnog života",
+      "en": "work-life balance",
+      "exampleArabic": "يُوَلِّي الْجِيلُ الْجَدِيدُ اهْتِمَامًا بَالِغًا لِلتَّوَازُنِ بَيْنَ الْعَمَلِ وَالْحَيَاةِ.",
+      "exampleBs": "Nova generacija pridaje veliku važnost ravnoteži između posla i privatnog života.",
+      "exampleEn": "The new generation places great importance on work-life balance."
+    },
+    {
+      "arabic": "بِيئَةُ الْعَمَلِ",
+      "root": "ب ي أ",
+      "type": "noun",
+      "bs": "radno okruženje",
+      "en": "work environment",
+      "exampleArabic": "تُؤَثِّرُ بِيئَةُ الْعَمَلِ الإِيجَابِيَّةُ تَأْثِيرًا مُبَاشِرًا فِي إِنْتَاجِيَّةِ الْمُوَظَّفِينَ.",
+      "exampleBs": "Pozitivno radno okruženje ima direktan utjecaj na produktivnost zaposlenika.",
+      "exampleEn": "A positive work environment has a direct impact on employee productivity."
+    },
+    {
+      "arabic": "الثَّقَافَةُ الْمُؤَسَّسِيَّةُ",
+      "root": "ث ق ف",
+      "type": "noun",
+      "bs": "korporativna kultura",
+      "en": "corporate culture, organizational culture",
+      "exampleArabic": "تَحْرِصُ الْمُؤَسَّسَاتُ النَّاجِحَةُ عَلَى بِنَاءِ ثَقَافَةٍ مُؤَسَّسِيَّةٍ مُتَمَاسِكَةٍ.",
+      "exampleBs": "Uspješne organizacije nastoje izgraditi kohezivnu korporativnu kulturu.",
+      "exampleEn": "Successful organizations strive to build a cohesive corporate culture."
+    },
+    {
+      "arabic": "سِلْسِلَةُ الإِمْدَادِ",
+      "root": "م د د",
+      "type": "noun",
+      "bs": "lanac snabdijevanja, supply chain",
+      "en": "supply chain",
+      "exampleArabic": "عَانَتِ الصِّنَاعَاتُ الْعَالَمِيَّةُ مِنِ اضْطِرَابٍ حَادٍّ فِي سَلَاسِلِ الإِمْدَادِ.",
+      "exampleBs": "Globalne industrije su patile od ozbiljnih poremećaja u lancima snabdijevanja.",
+      "exampleEn": "Global industries suffered from severe disruptions in supply chains."
+    },
+    {
+      "arabic": "الِاسْتِرَاتِيجِيَّةُ التِّجَارِيَّةُ",
+      "root": "ت ج ر",
+      "type": "noun",
+      "bs": "poslovna strategija",
+      "en": "business strategy",
+      "exampleArabic": "وَضَعَتِ الإِدَارَةُ الْعُلْيَا اسْتِرَاتِيجِيَّةً تِجَارِيَّةً طَمُوحَةً لِلسَّنَوَاتِ الْخَمْسِ الْقَادِمَةِ.",
+      "exampleBs": "Najviši menadžment je postavio ambicioznu poslovnu strategiju za narednih pet godina.",
+      "exampleEn": "Senior management set an ambitious business strategy for the next five years."
+    },
+    {
+      "arabic": "مُؤَشِّرُ الأَدَاءِ الرَّئِيسِيُّ",
+      "root": "ش ر ر",
+      "type": "noun",
+      "bs": "ključni indikator učinka (KPI)",
+      "en": "key performance indicator (KPI)",
+      "exampleArabic": "تُتَابِعُ الإِدَارَةُ مُؤَشِّرَاتِ الأَدَاءِ الرَّئِيسِيَّةَ بِصِفَةٍ أَسْبُوعِيَّةٍ.",
+      "exampleBs": "Uprava sedmično prati ključne indikatore učinka.",
+      "exampleEn": "Management tracks key performance indicators on a weekly basis."
+    },
+    {
+      "arabic": "الْمَوَارِدُ الْبَشَرِيَّةُ",
+      "root": "و ر د",
+      "type": "noun",
+      "bs": "ljudski resursi, HR",
+      "en": "human resources (HR)",
+      "exampleArabic": "تَتَوَلَّى إِدَارَةُ الْمَوَارِدِ الْبَشَرِيَّةِ مَلَفَّاتِ التَّوْظِيفِ وَالتَّدْرِيبِ.",
+      "exampleBs": "Odjel za ljudske resurse upravlja dosjeima zapošljavanja i obuke.",
+      "exampleEn": "The human resources department handles recruitment and training files."
+    },
+    {
+      "arabic": "التَّدْرِيبُ الْمِهَنِيُّ",
+      "root": "د ر ب",
+      "type": "noun",
+      "bs": "stručna obuka",
+      "en": "professional training",
+      "exampleArabic": "تُنَظِّمُ الشَّرِكَةُ دَوْرَاتٍ لِلتَّدْرِيبِ الْمِهَنِيِّ لِرَفْعِ كَفَاءَةِ الْمُوَظَّفِينَ.",
+      "exampleBs": "Kompanija organizuje kurseve stručne obuke radi podizanja kompetentnosti zaposlenika.",
+      "exampleEn": "The company organizes professional training courses to raise employee competence."
+    },
+    {
+      "arabic": "الِاجْتِمَاعُ",
+      "root": "ج م ع",
+      "type": "noun",
+      "bs": "sastanak",
+      "en": "meeting",
+      "exampleArabic": "عُقِدَ الِاجْتِمَاعُ الطَّارِئُ لِمُنَاقَشَةِ الأَزْمَةِ الْمَالِيَّةِ الطَّارِئَةِ.",
+      "exampleBs": "Hitni sastanak je održan radi rasprave o iznenadnoj finansijskoj krizi.",
+      "exampleEn": "The emergency meeting was held to discuss the sudden financial crisis."
+    },
+    {
+      "arabic": "عَقْدُ الْعَمَلِ",
+      "root": "ع ق د",
+      "type": "noun",
+      "bs": "ugovor o radu",
+      "en": "employment contract",
+      "exampleArabic": "وَقَّعَ الْمُوَظَّفُ عَقْدَ الْعَمَلِ بَعْدَ مُرَاجَعَتِهِ بِعِنَايَةٍ.",
+      "exampleBs": "Zaposlenik je potpisao ugovor o radu nakon pažljivog pregleda.",
+      "exampleEn": "The employee signed the employment contract after careful review."
+    },
+    {
+      "arabic": "التَّعَاوُنُ",
+      "root": "ع و ن",
+      "type": "noun",
+      "bs": "saradnja, kooperacija",
+      "en": "cooperation, collaboration",
+      "exampleArabic": "يُسَهِّلُ التَّعَاوُنُ بَيْنَ الأَقْسَامِ تَحْقِيقَ الأَهْدَافِ الْمُشْتَرَكَةِ.",
+      "exampleBs": "Saradnja između odjela olakšava postizanje zajedničkih ciljeva.",
+      "exampleEn": "Cooperation between departments facilitates the achievement of shared goals."
+    },
+    {
+      "arabic": "الإِنْتَاجِيَّةُ",
+      "root": "ن ت ج",
+      "type": "noun",
+      "bs": "produktivnost",
+      "en": "productivity",
+      "exampleArabic": "تَرْتَبِطُ الإِنْتَاجِيَّةُ ارْتِبَاطًا وَثِيقًا بِمُسْتَوَى الرِّضَا الوَظِيفِيِّ.",
+      "exampleBs": "Produktivnost je usko povezana s nivoom zadovoljstva poslom.",
+      "exampleEn": "Productivity is closely linked to the level of job satisfaction."
+    },
+    {
+      "arabic": "الاسْتِدَامَةُ",
+      "root": "د و م",
+      "type": "noun",
+      "bs": "održivost",
+      "en": "sustainability",
+      "exampleArabic": "تَتَبَنَّى الشَّرِكَاتُ الْحَدِيثَةُ مُمَارَسَاتٍ تِجَارِيَّةً تُحَقِّقُ الِاسْتِدَامَةَ الْبِيئِيَّةَ.",
+      "exampleBs": "Moderne kompanije usvajaju poslovne prakse kojima se postiže ekološka održivost.",
+      "exampleEn": "Modern companies adopt business practices that achieve environmental sustainability."
+    },
+    {
+      "arabic": "الشَّرِيكُ التِّجَارِيُّ",
+      "root": "ش ر ك",
+      "type": "noun",
+      "bs": "poslovni partner",
+      "en": "business partner",
+      "exampleArabic": "وَقَّعَتِ الشَّرِكَةُ اتِّفَاقِيَّةَ شَرَاكَةٍ مَعَ مُؤَسَّسَةٍ إِقْلِيمِيَّةٍ كُبْرَى.",
+      "exampleBs": "Kompanija je potpisala partnerski sporazum s vodećom regionalnom institucijom.",
+      "exampleEn": "The company signed a partnership agreement with a major regional institution."
+    },
+    {
+      "arabic": "الرِّيَادَةُ",
+      "root": "ر و د",
+      "type": "noun",
+      "bs": "poduzetništvo, pionirstvo",
+      "en": "entrepreneurship",
+      "exampleArabic": "تَدْعَمُ الْحُكُومَةُ الرِّيَادَةَ الشَّبَابِيَّةَ مِنْ خِلَالِ بَرَامِجَ مُتَخَصِّصَةٍ.",
+      "exampleBs": "Vlada podržava mladalačko poduzetništvo kroz specijalizovane programe.",
+      "exampleEn": "The government supports youth entrepreneurship through specialized programs."
+    },
+    {
+      "arabic": "إِدَارَةُ الْمَشَارِيعِ",
+      "root": "د و ر",
+      "type": "noun",
+      "bs": "upravljanje projektima",
+      "en": "project management",
+      "exampleArabic": "تَتَطَلَّبُ إِدَارَةُ الْمَشَارِيعِ الْكَبِيرَةِ مَهَارَاتٍ تَنْظِيمِيَّةً وَتَوَاصُلِيَّةً عَالِيَةً.",
+      "exampleBs": "Upravljanje velikim projektima zahtijeva visoke organizacijske i komunikacijske vještine.",
+      "exampleEn": "Managing large projects requires high organizational and communication skills."
+    },
+    {
+      "arabic": "خِطَابُ التَّقْدِيمِ",
+      "root": "خ ط ب",
+      "type": "noun",
+      "bs": "propratno pismo, motivacijsko pismo",
+      "en": "cover letter",
+      "exampleArabic": "يُرْفَقُ خِطَابُ التَّقْدِيمِ بِالسِّيرَةِ الذَّاتِيَّةِ عِنْدَ التَّقَدُّمِ لِشَغْلِ وَظِيفَةٍ.",
+      "exampleBs": "Propratno pismo se prilaže uz CV pri prijavi za posao.",
+      "exampleEn": "The cover letter is attached to the CV when applying for a job."
+    },
+    {
+      "arabic": "السِّيرَةُ الذَّاتِيَّةُ",
+      "root": "س ي ر",
+      "type": "noun",
+      "bs": "curriculum vitae, životopis",
+      "en": "CV, resume",
+      "exampleArabic": "يَنْبَغِي أَنْ تَكُونَ السِّيرَةُ الذَّاتِيَّةُ مُحَدَّثَةً وَخَالِيَةً مِنَ الأَخْطَاءِ.",
+      "exampleBs": "Životopis treba biti ažuriran i bez grešaka.",
+      "exampleEn": "The CV should be up to date and free of errors."
+    },
+    {
+      "arabic": "الخِبْرَةُ الْمِهَنِيَّةُ",
+      "root": "خ ب ر",
+      "type": "noun",
+      "bs": "radno iskustvo",
+      "en": "professional experience",
+      "exampleArabic": "تُشْتَرَطُ خَمْسُ سَنَوَاتٍ عَلَى الأَقَلِّ مِنَ الخِبْرَةِ الْمِهَنِيَّةِ لِشَغْلِ هَذَا الْمَنْصِبِ.",
+      "exampleBs": "Zahtijeva se najmanje pet godina radnog iskustva za ovu poziciju.",
+      "exampleEn": "At least five years of professional experience are required for this position."
+    }
+  ]
+}

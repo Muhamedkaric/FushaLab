@@ -1,0 +1,489 @@
+{
+  "id": "b1-technology",
+  "title": "Technology",
+  "titleAr": "التِّقْنِيَّةُ",
+  "level": "B1",
+  "topic": "technology",
+  "words": [
+    {
+      "arabic": "الْحَاسُوبُ",
+      "root": "ح س ب",
+      "type": "noun",
+      "bs": "kompjuter, računar",
+      "en": "computer",
+      "exampleArabic": "يَسْتَخْدِمُ الْحَاسُوبَ فِي عَمَلِهِ يَوْمِيًّا.",
+      "exampleBs": "Koristi kompjuter svakodnevno na poslu.",
+      "exampleEn": "He uses the computer daily at work."
+    },
+    {
+      "arabic": "الْهَاتِفُ",
+      "root": "ه ت ف",
+      "type": "noun",
+      "bs": "telefon",
+      "en": "phone",
+      "exampleArabic": "نَسِيَتِ الْهَاتِفَ فِي الْبَيْتِ.",
+      "exampleBs": "Zaboravila je telefon kod kuće.",
+      "exampleEn": "She forgot the phone at home."
+    },
+    {
+      "arabic": "اللَّوْحِيُّ",
+      "root": "ل و ح",
+      "type": "noun",
+      "bs": "tablet",
+      "en": "tablet",
+      "exampleArabic": "يَقْرَأُ الْأَوْلَادُ عَلَى اللَّوْحِيِّ.",
+      "exampleBs": "Djeca čitaju na tabletu.",
+      "exampleEn": "The children read on the tablet."
+    },
+    {
+      "arabic": "الشَّاشَةُ",
+      "root": "ش و ش",
+      "type": "noun",
+      "bs": "ekran, zaslon",
+      "en": "screen",
+      "exampleArabic": "الشَّاشَةُ كَبِيرَةٌ وَوَاضِحَةٌ.",
+      "exampleBs": "Ekran je veliki i jasan.",
+      "exampleEn": "The screen is large and clear."
+    },
+    {
+      "arabic": "لَوْحَةُ الْمَفَاتِيحِ",
+      "root": "ف ت ح",
+      "type": "noun",
+      "bs": "tastatura, tipkovnica",
+      "en": "keyboard",
+      "exampleArabic": "لَوْحَةُ الْمَفَاتِيحِ لَا تَعْمَلُ بِشَكْلٍ صَحِيحٍ.",
+      "exampleBs": "Tastatura ne radi ispravno.",
+      "exampleEn": "The keyboard is not working properly."
+    },
+    {
+      "arabic": "الْكَامِيرَا",
+      "root": "ك م ر",
+      "type": "noun",
+      "bs": "kamera",
+      "en": "camera",
+      "exampleArabic": "تَلْتَقِطُ الْكَامِيرَا صُوَرًا رَائِعَةً.",
+      "exampleBs": "Kamera snima divne fotografije.",
+      "exampleEn": "The camera takes wonderful photos."
+    },
+    {
+      "arabic": "الْمَوْقِعُ الْإِلِكْتِرُونِيُّ",
+      "root": "و ق ع",
+      "type": "noun",
+      "bs": "web stranica, sajt",
+      "en": "website",
+      "exampleArabic": "زُرْتُ الْمَوْقِعَ الْإِلِكْتِرُونِيَّ لِلشَّرِكَةِ.",
+      "exampleBs": "Posjetio sam web stranicu kompanije.",
+      "exampleEn": "I visited the company's website."
+    },
+    {
+      "arabic": "الْبَرِيدُ الْإِلِكْتِرُونِيُّ",
+      "root": "ب ر د",
+      "type": "noun",
+      "bs": "elektronska pošta, imejl",
+      "en": "email",
+      "exampleArabic": "أَرْسَلَ الرِّسَالَةَ عَبْرَ الْبَرِيدِ الْإِلِكْتِرُونِيِّ.",
+      "exampleBs": "Poslao je poruku putem elektronske pošte.",
+      "exampleEn": "He sent the message via email."
+    },
+    {
+      "arabic": "كَلِمَةُ الْمُرُورِ",
+      "root": "م ر ر",
+      "type": "noun",
+      "bs": "lozinka",
+      "en": "password",
+      "exampleArabic": "نَسِيَ كَلِمَةَ الْمُرُورِ الْخَاصَّةَ بِهِ.",
+      "exampleBs": "Zaboravio je svoju lozinku.",
+      "exampleEn": "He forgot his password."
+    },
+    {
+      "arabic": "الْبَحْثُ",
+      "root": "ب ح ث",
+      "type": "noun",
+      "bs": "pretraga, istraživanje",
+      "en": "search",
+      "exampleArabic": "أَجْرَتْ بَحْثًا سَرِيعًا عَلَى الْإِنْتَرْنَتِ.",
+      "exampleBs": "Napravila je brzu pretragu na internetu.",
+      "exampleEn": "She did a quick search on the internet."
+    },
+    {
+      "arabic": "التَّحْمِيلُ",
+      "root": "ح م ل",
+      "type": "noun",
+      "bs": "preuzimanje (download)",
+      "en": "download",
+      "exampleArabic": "انْتَهَى التَّحْمِيلُ بَعْدَ دَقِيقَةٍ.",
+      "exampleBs": "Preuzimanje je završilo za minutu.",
+      "exampleEn": "The download finished after a minute."
+    },
+    {
+      "arabic": "الرَّفْعُ",
+      "root": "ر ف ع",
+      "type": "noun",
+      "bs": "otpremanje (upload)",
+      "en": "upload",
+      "exampleArabic": "رَفْعُ الْمَلَفَّاتِ يَسْتَغْرِقُ وَقْتًا.",
+      "exampleBs": "Otpremanje fajlova traje neko vrijeme.",
+      "exampleEn": "Uploading files takes time."
+    },
+    {
+      "arabic": "الْحِسَابُ",
+      "root": "ح س ب",
+      "type": "noun",
+      "bs": "nalog, račun",
+      "en": "account",
+      "exampleArabic": "أَنْشَأَتْ حِسَابًا جَدِيدًا عَلَى الْمَوْقِعِ.",
+      "exampleBs": "Napravila je novi nalog na sajtu.",
+      "exampleEn": "She created a new account on the website."
+    },
+    {
+      "arabic": "الصَّفْحَةُ الشَّخْصِيَّةُ",
+      "root": "ص ف ح",
+      "type": "noun",
+      "bs": "profil",
+      "en": "profile",
+      "exampleArabic": "حَدَّثَ صَفْحَتَهُ الشَّخْصِيَّةَ بِمَعْلُومَاتٍ جَدِيدَةٍ.",
+      "exampleBs": "Ažurirao je profil novim podacima.",
+      "exampleEn": "He updated his profile with new information."
+    },
+    {
+      "arabic": "الرِّسَالَةُ",
+      "root": "ر س ل",
+      "type": "noun",
+      "bs": "poruka",
+      "en": "message",
+      "exampleArabic": "أَرْسَلَتْ لَهُ رِسَالَةً قَصِيرَةً.",
+      "exampleBs": "Poslala mu je kratku poruku.",
+      "exampleEn": "She sent him a short message."
+    },
+    {
+      "arabic": "الْمَنْشُورُ",
+      "root": "ن ش ر",
+      "type": "noun",
+      "bs": "objava, post",
+      "en": "post",
+      "exampleArabic": "نَشَرَ مَنْشُورًا جَدِيدًا عَلَى وَسَائِلِ التَّوَاصُلِ الِاجْتِمَاعِيِّ.",
+      "exampleBs": "Objavio je novu objavu na društvenim mrežama.",
+      "exampleEn": "He posted a new post on social media."
+    },
+    {
+      "arabic": "الشَّبَكَةُ",
+      "root": "ش ب ك",
+      "type": "noun",
+      "bs": "mreža",
+      "en": "network",
+      "exampleArabic": "الشَّبَكَةُ بَطِيئَةٌ الْيَوْمَ.",
+      "exampleBs": "Mreža je danas spora.",
+      "exampleEn": "The network is slow today."
+    },
+    {
+      "arabic": "الْبَيَانَاتُ",
+      "root": "ب ي ن",
+      "type": "noun",
+      "bs": "podaci",
+      "en": "data",
+      "exampleArabic": "يَجِبُ حِمَايَةُ الْبَيَانَاتِ الشَّخْصِيَّةِ.",
+      "exampleBs": "Lični podaci se moraju zaštititi.",
+      "exampleEn": "Personal data must be protected."
+    },
+    {
+      "arabic": "الْبَرْنَامَجُ",
+      "root": "ب ر م ج",
+      "type": "noun",
+      "bs": "program, softver",
+      "en": "program, software",
+      "exampleArabic": "نَصَّبَ بَرْنَامَجًا جَدِيدًا عَلَى الْحَاسُوبِ.",
+      "exampleBs": "Instalirao je novi program na računar.",
+      "exampleEn": "He installed a new program on the computer."
+    },
+    {
+      "arabic": "التَّطْبِيقُ",
+      "root": "ط ب ق",
+      "type": "noun",
+      "bs": "aplikacija",
+      "en": "application, app",
+      "exampleArabic": "حَمَّلَتِ التَّطْبِيقَ عَلَى هَاتِفِهَا.",
+      "exampleBs": "Preuzela je aplikaciju na telefon.",
+      "exampleEn": "She downloaded the app on her phone."
+    },
+    {
+      "arabic": "الْبَطَّارِيَّةُ",
+      "root": "ب ط ر",
+      "type": "noun",
+      "bs": "baterija",
+      "en": "battery",
+      "exampleArabic": "الْبَطَّارِيَّةُ تَحْتَاجُ إِلَى شَحْنٍ.",
+      "exampleBs": "Baterija treba punjenje.",
+      "exampleEn": "The battery needs charging."
+    },
+    {
+      "arabic": "الْكَابِلُ",
+      "root": "ك ب ل",
+      "type": "noun",
+      "bs": "kabl",
+      "en": "cable",
+      "exampleArabic": "فَقَدَ كَابِلَ الشَّحْنِ الْخَاصَّ بِهِ.",
+      "exampleBs": "Izgubio je kabl za punjenje.",
+      "exampleEn": "He lost his charging cable."
+    },
+    {
+      "arabic": "اتَّصَلَ",
+      "root": "و ص ل",
+      "type": "verb",
+      "bs": "povezati se",
+      "en": "to connect",
+      "exampleArabic": "اتَّصَلَ الْهَاتِفُ بِشَبَكَةِ الْوَاي فَاي.",
+      "exampleBs": "Telefon se povezao na Wi-Fi mrežu.",
+      "exampleEn": "The phone connected to the Wi-Fi network."
+    },
+    {
+      "arabic": "أَرْسَلَ",
+      "root": "ر س ل",
+      "type": "verb",
+      "bs": "poslati",
+      "en": "to send",
+      "exampleArabic": "أَرْسَلَ الْمَلَفَّ عَبْرَ الْبَرِيدِ الْإِلِكْتِرُونِيِّ.",
+      "exampleBs": "Poslao je fajl putem emaila.",
+      "exampleEn": "He sent the file via email."
+    },
+    {
+      "arabic": "حَفِظَ",
+      "root": "ح ف ظ",
+      "type": "verb",
+      "bs": "sačuvati",
+      "en": "to save",
+      "exampleArabic": "احْفَظِ الْمَلَفَّ قَبْلَ الْإِغْلَاقِ.",
+      "exampleBs": "Sačuvaj fajl prije zatvaranja.",
+      "exampleEn": "Save the file before closing."
+    },
+    {
+      "arabic": "حَذَفَ",
+      "root": "ح ذ ف",
+      "type": "verb",
+      "bs": "obrisati, izbrisati",
+      "en": "to delete",
+      "exampleArabic": "حَذَفَتِ الصُّوَرَ الْقَدِيمَةَ.",
+      "exampleBs": "Obrisala je stare fotografije.",
+      "exampleEn": "She deleted the old photos."
+    },
+    {
+      "arabic": "حَدَّثَ",
+      "root": "ح د ث",
+      "type": "verb",
+      "bs": "ažurirati",
+      "en": "to update",
+      "exampleArabic": "يَجِبُ أَنْ تُحَدِّثَ التَّطْبِيقَ بِانْتِظَامٍ.",
+      "exampleBs": "Morate redovno ažurirati aplikaciju.",
+      "exampleEn": "You must update the app regularly."
+    },
+    {
+      "arabic": "شَحَنَ",
+      "root": "ش ح ن",
+      "type": "verb",
+      "bs": "puniti (bateriju)",
+      "en": "to charge",
+      "exampleArabic": "نَسِيَ أَنْ يَشْحَنَ هَاتِفَهُ لَيْلَةَ أَمْسِ.",
+      "exampleBs": "Zaboravio je puniti telefon sinoć.",
+      "exampleEn": "He forgot to charge his phone last night."
+    },
+    {
+      "arabic": "طَبَعَ",
+      "root": "ط ب ع",
+      "type": "verb",
+      "bs": "odštampati, ispisati",
+      "en": "to print",
+      "exampleArabic": "طَبَعَتِ الْوَثِيقَةَ فِي الْمَكْتَبِ.",
+      "exampleBs": "Odštampala je dokument u kancelariji.",
+      "exampleEn": "She printed the document at the office."
+    },
+    {
+      "arabic": "بَحَثَ",
+      "root": "ب ح ث",
+      "type": "verb",
+      "bs": "pretraživati",
+      "en": "to search",
+      "exampleArabic": "يَبْحَثُ عَنِ الْمَعْلُومَاتِ عَلَى الْإِنْتَرْنَتِ.",
+      "exampleBs": "Pretražuje informacije na internetu.",
+      "exampleEn": "He searches for information on the internet."
+    },
+    {
+      "arabic": "حَمَّلَ",
+      "root": "ح م ل",
+      "type": "verb",
+      "bs": "preuzeti (download)",
+      "en": "to download",
+      "exampleArabic": "حَمَّلَ التَّطْبِيقَ مَجَّانًا.",
+      "exampleBs": "Preuzeo je aplikaciju besplatno.",
+      "exampleEn": "He downloaded the app for free."
+    },
+    {
+      "arabic": "شَارَكَ",
+      "root": "ش ر ك",
+      "type": "verb",
+      "bs": "podijeliti",
+      "en": "to share",
+      "exampleArabic": "شَارَكَتِ الصُّورَةَ مَعَ أَصْدِقَائِهَا.",
+      "exampleBs": "Podijelila je fotografiju s prijateljicama.",
+      "exampleEn": "She shared the photo with her friends."
+    },
+    {
+      "arabic": "تَابَعَ",
+      "root": "ت ب ع",
+      "type": "verb",
+      "bs": "pratiti",
+      "en": "to follow",
+      "exampleArabic": "يَتَابِعُ الْكَثِيرَ مِنَ الصَّفَحَاتِ الْمُفِيدَةِ.",
+      "exampleBs": "Prati mnogo korisnih stranica.",
+      "exampleEn": "He follows many useful pages."
+    },
+    {
+      "arabic": "سَجَّلَ الدُّخُولَ",
+      "root": "س ج ل",
+      "type": "verb",
+      "bs": "prijaviti se (login)",
+      "en": "to log in",
+      "exampleArabic": "سَجَّلَتِ الدُّخُولَ إِلَى حِسَابِهَا.",
+      "exampleBs": "Prijavila se na svoj nalog.",
+      "exampleEn": "She logged in to her account."
+    },
+    {
+      "arabic": "نَسَخَ",
+      "root": "ن س خ",
+      "type": "verb",
+      "bs": "kopirati",
+      "en": "to copy",
+      "exampleArabic": "نَسَخَ النَّصَّ وَلَصَقَهُ فِي الْمَلَفِّ الْجَدِيدِ.",
+      "exampleBs": "Kopirao je tekst i zalijepio ga u novi fajl.",
+      "exampleEn": "He copied the text and pasted it in the new file."
+    },
+    {
+      "arabic": "رَقْمِيٌّ",
+      "root": "ر ق م",
+      "type": "adjective",
+      "bs": "digitalan",
+      "en": "digital",
+      "exampleArabic": "نَعِيشُ فِي عَصْرٍ رَقْمِيٍّ.",
+      "exampleBs": "Živimo u digitalnom dobu.",
+      "exampleEn": "We live in a digital age."
+    },
+    {
+      "arabic": "إِلِكْتِرُونِيٌّ",
+      "root": "ل ك ت ر",
+      "type": "adjective",
+      "bs": "elektronski",
+      "en": "electronic",
+      "exampleArabic": "الْجِهَازُ الْإِلِكْتِرُونِيُّ سَهْلُ الِاسْتِخْدَامِ.",
+      "exampleBs": "Elektronski uređaj je lagan za korištenje.",
+      "exampleEn": "The electronic device is easy to use."
+    },
+    {
+      "arabic": "لَاسِلْكِيٌّ",
+      "root": "س ل ك",
+      "type": "adjective",
+      "bs": "bežičan",
+      "en": "wireless",
+      "exampleArabic": "يَسْتَخْدِمُ سَمَّاعَاتٍ لَاسِلْكِيَّةً.",
+      "exampleBs": "Koristi bežične slušalice.",
+      "exampleEn": "He uses wireless headphones."
+    },
+    {
+      "arabic": "سَرِيعٌ",
+      "root": "س ر ع",
+      "type": "adjective",
+      "bs": "brz",
+      "en": "fast, quick",
+      "exampleArabic": "الْإِنْتَرْنَتُ سَرِيعٌ فِي هَذِهِ الْمِنْطَقَةِ.",
+      "exampleBs": "Internet je brz u ovom kraju.",
+      "exampleEn": "The internet is fast in this area."
+    },
+    {
+      "arabic": "بَطِيءٌ",
+      "root": "ب ط أ",
+      "type": "adjective",
+      "bs": "spor",
+      "en": "slow",
+      "exampleArabic": "الْحَاسُوبُ بَطِيءٌ وَيَحْتَاجُ تَحْدِيثًا.",
+      "exampleBs": "Kompjuter je spor i treba ažuriranje.",
+      "exampleEn": "The computer is slow and needs an update."
+    },
+    {
+      "arabic": "مُتَّصِلٌ",
+      "root": "و ص ل",
+      "type": "adjective",
+      "bs": "povezan (online)",
+      "en": "connected, online",
+      "exampleArabic": "هَلْ أَنْتَ مُتَّصِلٌ بِالشَّبَكَةِ الآنَ؟",
+      "exampleBs": "Jesi li sada povezan na mrežu?",
+      "exampleEn": "Are you connected to the network now?"
+    },
+    {
+      "arabic": "ذَكِيٌّ",
+      "root": "ذ ك و",
+      "type": "adjective",
+      "bs": "pametan, inteligentni",
+      "en": "smart, intelligent",
+      "exampleArabic": "الْهَاتِفُ الذَّكِيُّ أَصْبَحَ ضَرُورَةً.",
+      "exampleBs": "Pametni telefon je postao nužnost.",
+      "exampleEn": "The smartphone has become a necessity."
+    },
+    {
+      "arabic": "مَجَّانِيٌّ",
+      "root": "م ج ن",
+      "type": "adjective",
+      "bs": "besplatan",
+      "en": "free (of charge)",
+      "exampleArabic": "التَّطْبِيقُ مَجَّانِيٌّ لِلتَّحْمِيلِ.",
+      "exampleBs": "Aplikacija je besplatna za preuzimanje.",
+      "exampleEn": "The application is free to download."
+    },
+    {
+      "arabic": "أَنْشَأَ حِسَابًا",
+      "root": "ن ش أ",
+      "type": "phrase",
+      "bs": "napraviti nalog",
+      "en": "to create an account",
+      "exampleArabic": "أَنْشَأَ حِسَابًا جَدِيدًا عَلَى الْمَوْقِعِ.",
+      "exampleBs": "Napravio je novi nalog na sajtu.",
+      "exampleEn": "He created a new account on the website."
+    },
+    {
+      "arabic": "فَقَدَ الِاتِّصَالَ",
+      "root": "و ص ل",
+      "type": "phrase",
+      "bs": "izgubiti vezu",
+      "en": "to lose connection",
+      "exampleArabic": "فَقَدَ الِاتِّصَالَ بِالْإِنْتَرْنَتِ فَجْأَةً.",
+      "exampleBs": "Iznenada je izgubio vezu s internetom.",
+      "exampleEn": "He suddenly lost the internet connection."
+    },
+    {
+      "arabic": "أَعَادَ تَشْغِيلَ الْجِهَازِ",
+      "root": "ش غ ل",
+      "type": "phrase",
+      "bs": "ponovo pokrenuti uređaj",
+      "en": "to restart the device",
+      "exampleArabic": "أَعَادَ تَشْغِيلَ الْجِهَازِ لِحَلِّ الْمُشْكِلَةِ.",
+      "exampleBs": "Ponovo je pokrenuo uređaj da bi riješio problem.",
+      "exampleEn": "He restarted the device to solve the problem."
+    },
+    {
+      "arabic": "حَمَايَةُ الْخُصُوصِيَّةِ",
+      "root": "خ ص ص",
+      "type": "phrase",
+      "bs": "zaštita privatnosti",
+      "en": "privacy protection",
+      "exampleArabic": "حِمَايَةُ الْخُصُوصِيَّةِ عَلَى الْإِنْتَرْنَتِ مُهِمَّةٌ جِدًّا.",
+      "exampleBs": "Zaštita privatnosti na internetu je veoma važna.",
+      "exampleEn": "Privacy protection on the internet is very important."
+    },
+    {
+      "arabic": "وَسَائِلُ التَّوَاصُلِ الِاجْتِمَاعِيِّ",
+      "root": "و ص ل",
+      "type": "phrase",
+      "bs": "društvene mreže",
+      "en": "social media",
+      "exampleArabic": "يَقْضِي وَقْتًا طَوِيلًا عَلَى وَسَائِلِ التَّوَاصُلِ الِاجْتِمَاعِيِّ.",
+      "exampleBs": "Provodi dosta vremena na društvenim mrežama.",
+      "exampleEn": "He spends a lot of time on social media."
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "id": "b2-education",
+  "title": "Education",
+  "titleAr": "التَّعْلِيمُ وَالدِّرَاسَةُ",
+  "level": "B2",
+  "topic": "education",
+  "words": [
+    {
+      "arabic": "الْأُطْرُوحَةُ",
+      "root": "ط ر ح",
+      "type": "noun",
+      "bs": "teza, disertacija",
+      "en": "thesis, dissertation",
+      "exampleArabic": "كَتَبَ الطَّالِبُ أُطْرُوحَتَهُ عَنْ تَارِيخِ الْأَدَبِ الْعَرَبِيِّ.",
+      "exampleBs": "Student je napisao svoju tezu o historiji arapske književnosti.",
+      "exampleEn": "The student wrote his thesis on the history of Arabic literature."
+    },
+    {
+      "arabic": "الْمُلَخَّصُ",
+      "root": "ل خ ص",
+      "type": "noun",
+      "bs": "sažetak, apstrakt",
+      "en": "abstract, summary",
+      "exampleArabic": "يَجِبُ أَنْ يَكُونَ الْمُلَخَّصُ وَاضِحًا وَمُوجَزًا.",
+      "exampleBs": "Sažetak mora biti jasan i koncizan.",
+      "exampleEn": "The abstract must be clear and concise."
+    },
+    {
+      "arabic": "قَائِمَةُ الْمَصَادِرِ",
+      "root": "م ص د",
+      "type": "noun",
+      "bs": "bibliografija, popis izvora",
+      "en": "bibliography, list of references",
+      "exampleArabic": "أَضَافَ الْبَاحِثُ قَائِمَةَ الْمَصَادِرِ فِي نِهَايَةِ الْبَحْثِ.",
+      "exampleBs": "Istraživač je dodao bibliografiju na kraju rada.",
+      "exampleEn": "The researcher added the bibliography at the end of the paper."
+    },
+    {
+      "arabic": "الْحَاشِيَةُ",
+      "root": "ح ش و",
+      "type": "noun",
+      "bs": "fusnota, napomena",
+      "en": "footnote, annotation",
+      "exampleArabic": "شَرَحَ الْمُؤَلِّفُ الْمُصْطَلَحَ فِي الْحَاشِيَةِ.",
+      "exampleBs": "Autor je objasnio termin u fusnoti.",
+      "exampleEn": "The author explained the term in the footnote."
+    },
+    {
+      "arabic": "الِاقْتِبَاسُ",
+      "root": "ق ب س",
+      "type": "noun",
+      "bs": "citat, navod",
+      "en": "citation, quotation",
+      "exampleArabic": "يَجِبُ الْإِشَارَةُ إِلَى مَصْدَرِ كُلِّ اقْتِبَاسٍ فِي الْبَحْثِ.",
+      "exampleBs": "Potrebno je navesti izvor svakog citata u radu.",
+      "exampleEn": "Every citation in the paper must reference its source."
+    },
+    {
+      "arabic": "الْحُجَّةُ",
+      "root": "ح ج ج",
+      "type": "noun",
+      "bs": "argument, dokaz",
+      "en": "argument, proof",
+      "exampleArabic": "قَدَّمَ الطَّالِبُ حُجَجًا قَوِيَّةً لِدَعْمِ مَوْقِفِهِ.",
+      "exampleBs": "Student je iznio snažne argumente u prilog svog stava.",
+      "exampleEn": "The student presented strong arguments to support his position."
+    },
+    {
+      "arabic": "الْمَنْهَجِيَّةُ",
+      "root": "ن ه ج",
+      "type": "noun",
+      "bs": "metodologija",
+      "en": "methodology",
+      "exampleArabic": "وَصَفَ الْبَاحِثُ الْمَنْهَجِيَّةَ الْمُتَّبَعَةَ فِي دِرَاسَتِهِ.",
+      "exampleBs": "Istraživač je opisao metodologiju korištenu u svojoj studiji.",
+      "exampleEn": "The researcher described the methodology used in his study."
+    },
+    {
+      "arabic": "الْكُلِّيَّةُ",
+      "root": "ك ل ل",
+      "type": "noun",
+      "bs": "fakultet",
+      "en": "faculty, college",
+      "exampleArabic": "تَضُمُّ الْجَامِعَةُ عِدَّةَ كُلِّيَّاتٍ مُتَخَصِّصَةٍ.",
+      "exampleBs": "Univerzitet ima nekoliko specijaliziranih fakulteta.",
+      "exampleEn": "The university has several specialized faculties."
+    },
+    {
+      "arabic": "الْعَمِيدُ",
+      "root": "ع م د",
+      "type": "noun",
+      "bs": "dekan",
+      "en": "dean",
+      "exampleArabic": "عَقَدَ الْعَمِيدُ اجْتِمَاعًا مَعَ أَعْضَاءِ هَيْئَةِ التَّدْرِيسِ.",
+      "exampleBs": "Dekan je održao sastanak s nastavnim osobljem.",
+      "exampleEn": "The dean held a meeting with the teaching staff."
+    },
+    {
+      "arabic": "الْفَصْلُ الدِّرَاسِيُّ",
+      "root": "ف ص ل",
+      "type": "noun",
+      "bs": "semestar",
+      "en": "semester",
+      "exampleArabic": "يَبْدَأُ الْفَصْلُ الدِّرَاسِيُّ الثَّانِي فِي شَهْرِ فِبْرَايِرَ.",
+      "exampleBs": "Drugi semestar počinje u februaru.",
+      "exampleEn": "The second semester begins in February."
+    },
+    {
+      "arabic": "الرُّسُومُ الدِّرَاسِيَّةُ",
+      "root": "ر س م",
+      "type": "noun",
+      "bs": "školarina, upisnina",
+      "en": "tuition fees",
+      "exampleArabic": "ارْتَفَعَتِ الرُّسُومُ الدِّرَاسِيَّةُ فِي كَثِيرٍ مِنَ الْجَامِعَاتِ.",
+      "exampleBs": "Školarina je porasla na mnogim univerzitetima.",
+      "exampleEn": "Tuition fees have risen at many universities."
+    },
+    {
+      "arabic": "الْحَرَمُ الْجَامِعِيُّ",
+      "root": "ح ر م",
+      "type": "noun",
+      "bs": "kampus, sveučilišni prostor",
+      "en": "campus",
+      "exampleArabic": "يَقَعُ الْمَكْتَبَةُ فِي وَسَطِ الْحَرَمِ الْجَامِعِيِّ.",
+      "exampleBs": "Biblioteka se nalazi u centru kampusa.",
+      "exampleEn": "The library is located at the center of the campus."
+    },
+    {
+      "arabic": "السَّكَنُ الْجَامِعِيُّ",
+      "root": "س ك ن",
+      "type": "noun",
+      "bs": "studentski dom",
+      "en": "dormitory, student residence",
+      "exampleArabic": "يَسْكُنُ كَثِيرٌ مِنَ الطُّلَّابِ فِي السَّكَنِ الْجَامِعِيِّ.",
+      "exampleBs": "Mnogi studenti žive u studentskom domu.",
+      "exampleEn": "Many students live in the dormitory."
+    },
+    {
+      "arabic": "الْمِنْحَةُ الدِّرَاسِيَّةُ",
+      "root": "م ن ح",
+      "type": "noun",
+      "bs": "stipendija",
+      "en": "scholarship",
+      "exampleArabic": "حَصَلَ عَلَى مِنْحَةٍ دِرَاسِيَّةٍ لِإِكْمَالِ دِرَاسَتِهِ فِي الْخَارِجِ.",
+      "exampleBs": "Dobio je stipendiju za nastavak studija u inozemstvu.",
+      "exampleEn": "He received a scholarship to continue his studies abroad."
+    },
+    {
+      "arabic": "الزَّمَالَةُ",
+      "root": "ز م ل",
+      "type": "noun",
+      "bs": "fellowship, istraživačka stipendija",
+      "en": "fellowship",
+      "exampleArabic": "فَازَتْ بِزَمَالَةٍ بَحْثِيَّةٍ مَرْمُوقَةٍ فِي مَجَالِ الْعُلُومِ.",
+      "exampleBs": "Dobila je uglednu istraživačku fellowship u oblasti nauke.",
+      "exampleEn": "She won a prestigious research fellowship in the field of science."
+    },
+    {
+      "arabic": "الْمُحَاضَرَةُ",
+      "root": "ح ض ر",
+      "type": "noun",
+      "bs": "predavanje",
+      "en": "lecture",
+      "exampleArabic": "أَلْقَى الْأُسْتَاذُ مُحَاضَرَةً مُمْتِعَةً حَوْلَ اللِّسَانِيَّاتِ.",
+      "exampleBs": "Profesor je održao zanimljivo predavanje o lingvistici.",
+      "exampleEn": "The professor gave an engaging lecture on linguistics."
+    },
+    {
+      "arabic": "النَّدْوَةُ",
+      "root": "ن د و",
+      "type": "noun",
+      "bs": "seminar, simpozij",
+      "en": "seminar, symposium",
+      "exampleArabic": "شَارَكَ الْبَاحِثُونَ فِي نَدْوَةٍ دَوْلِيَّةٍ حَوْلَ التَّغَيُّرِ الْمَنَاخِيِّ.",
+      "exampleBs": "Istraživači su učestvovali u međunarodnom seminaru o klimatskim promjenama.",
+      "exampleEn": "The researchers participated in an international seminar on climate change."
+    },
+    {
+      "arabic": "وَرْشَةُ الْعَمَلِ",
+      "root": "و ر ش",
+      "type": "noun",
+      "bs": "radionica",
+      "en": "workshop",
+      "exampleArabic": "نَظَّمَتِ الْجَامِعَةُ وَرْشَةَ عَمَلٍ حَوْلَ مَهَارَاتِ الْكِتَابَةِ الْأَكَادِيمِيَّةِ.",
+      "exampleBs": "Univerzitet je organizirao radionicu o vještinama akademskog pisanja.",
+      "exampleEn": "The university organized a workshop on academic writing skills."
+    },
+    {
+      "arabic": "الدَّرْسُ الْخُصُوصِيُّ",
+      "root": "د ر س",
+      "type": "noun",
+      "bs": "instrukcije, privatni čas",
+      "en": "tutorial, private lesson",
+      "exampleArabic": "يَحْتَاجُ بَعْضُ الطُّلَّابِ إِلَى دُرُوسٍ خُصُوصِيَّةٍ إِضَافِيَّةٍ.",
+      "exampleBs": "Neki studenti trebaju dodatne privatne instrukcije.",
+      "exampleEn": "Some students need additional private tutorials."
+    },
+    {
+      "arabic": "التَّعَلُّمُ عَنْ بُعْدٍ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "učenje na daljinu",
+      "en": "distance learning",
+      "exampleArabic": "انْتَشَرَ التَّعَلُّمُ عَنْ بُعْدٍ بِشَكْلٍ كَبِيرٍ فِي السَّنَوَاتِ الْأَخِيرَةِ.",
+      "exampleBs": "Učenje na daljinu se znatno proširilo u posljednjih nekoliko godina.",
+      "exampleEn": "Distance learning has expanded significantly in recent years."
+    },
+    {
+      "arabic": "التَّعَلُّمُ الْإِلِكْتْرُونِيُّ",
+      "root": "ع ل م",
+      "type": "noun",
+      "bs": "e-učenje, elektronsko učenje",
+      "en": "e-learning",
+      "exampleArabic": "تَوَفَّرُ الْمَنَصَّاتُ الرَّقْمِيَّةُ فُرَصًا وَاسِعَةً لِلتَّعَلُّمِ الْإِلِكْتْرُونِيِّ.",
+      "exampleBs": "Digitalne platforme pružaju široke mogućnosti za e-učenje.",
+      "exampleEn": "Digital platforms offer wide opportunities for e-learning."
+    },
+    {
+      "arabic": "اللِّسَانِيَّاتُ",
+      "root": "ل س ن",
+      "type": "noun",
+      "bs": "lingvistika",
+      "en": "linguistics",
+      "exampleArabic": "تَدْرُسُ اللِّسَانِيَّاتُ بِنْيَةَ اللُّغَاتِ وَتَطَوُّرَهَا.",
+      "exampleBs": "Lingvistika proučava strukturu i razvoj jezika.",
+      "exampleEn": "Linguistics studies the structure and development of languages."
+    },
+    {
+      "arabic": "الْفَلْسَفَةُ",
+      "root": "ف ل س",
+      "type": "noun",
+      "bs": "filozofija",
+      "en": "philosophy",
+      "exampleArabic": "تَسْعَى الْفَلْسَفَةُ إِلَى الْإِجَابَةِ عَنِ الْأَسْئِلَةِ الْكُبْرَى لِلْوُجُودِ.",
+      "exampleBs": "Filozofija nastoji odgovoriti na velika egzistencijalna pitanja.",
+      "exampleEn": "Philosophy seeks to answer the great questions of existence."
+    },
+    {
+      "arabic": "عِلْمُ الِاجْتِمَاعِ",
+      "root": "ج م ع",
+      "type": "noun",
+      "bs": "sociologija",
+      "en": "sociology",
+      "exampleArabic": "يَدْرُسُ عِلْمُ الِاجْتِمَاعِ الظَّوَاهِرَ الِاجْتِمَاعِيَّةَ وَتَأْثِيرَهَا عَلَى الْأَفْرَادِ.",
+      "exampleBs": "Sociologija proučava društvene pojave i njihov utjecaj na pojedince.",
+      "exampleEn": "Sociology studies social phenomena and their impact on individuals."
+    },
+    {
+      "arabic": "الِاقْتِصَادُ",
+      "root": "ق ص د",
+      "type": "noun",
+      "bs": "ekonomija",
+      "en": "economics",
+      "exampleArabic": "يَدْرُسُ طُلَّابُ الِاقْتِصَادِ آلِيَّاتِ السُّوقِ وَالتَّنْمِيَةِ.",
+      "exampleBs": "Studenti ekonomije proučavaju tržišne mehanizme i razvoj.",
+      "exampleEn": "Economics students study market mechanisms and development."
+    },
+    {
+      "arabic": "الْهَنْدَسَةُ",
+      "root": "ه ن د",
+      "type": "noun",
+      "bs": "inženjerstvo, tehničke nauke",
+      "en": "engineering",
+      "exampleArabic": "تُعَدُّ الْهَنْدَسَةُ مِنْ أَكْثَرِ التَّخَصُّصَاتِ طَلَبًا فِي سُوقِ الْعَمَلِ.",
+      "exampleBs": "Inženjerstvo je jedan od najtraženih smjerova na tržištu rada.",
+      "exampleEn": "Engineering is one of the most sought-after specializations in the job market."
+    },
+    {
+      "arabic": "الطِّبُّ",
+      "root": "ط ب ب",
+      "type": "noun",
+      "bs": "medicina",
+      "en": "medicine",
+      "exampleArabic": "يَتَطَلَّبُ الِالْتِحَاقُ بِكُلِّيَّةِ الطِّبِّ تَحْصِيلًا أَكَادِيمِيًّا مُمَيَّزًا.",
+      "exampleBs": "Upis na medicinski fakultet zahtijeva izvanredan akademski uspjeh.",
+      "exampleEn": "Admission to medical school requires outstanding academic achievement."
+    },
+    {
+      "arabic": "الِامْتِحَانُ",
+      "root": "م ح ن",
+      "type": "noun",
+      "bs": "ispit",
+      "en": "exam, examination",
+      "exampleArabic": "اجْتَهَدَ الطُّلَّابُ فِي الْمُذَاكَرَةِ اسْتِعْدَادًا لِلِامْتِحَانِ النِّهَائِيِّ.",
+      "exampleBs": "Studenti su marljivo učili u pripremi za završni ispit.",
+      "exampleEn": "The students studied hard in preparation for the final exam."
+    },
+    {
+      "arabic": "الدَّرَجَةُ",
+      "root": "د ر ج",
+      "type": "noun",
+      "bs": "ocjena, stepen",
+      "en": "grade, degree",
+      "exampleArabic": "حَصَلَ عَلَى أَعْلَى دَرَجَةٍ فِي مَادَّةِ الرِّيَاضِيَّاتِ.",
+      "exampleBs": "Dobio je najvišu ocjenu iz matematike.",
+      "exampleEn": "He received the highest grade in mathematics."
+    },
+    {
+      "arabic": "الْمُعَدَّلُ التَّرَاكُمِيُّ",
+      "root": "ع د ل",
+      "type": "noun",
+      "bs": "prosjek ocjena (GPA)",
+      "en": "GPA, cumulative grade average",
+      "exampleArabic": "يُؤَثِّرُ الْمُعَدَّلُ التَّرَاكُمِيُّ عَلَى فُرَصِ الِالْتِحَاقِ بِبَرَامِجِ الدِّرَاسَاتِ الْعُلْيَا.",
+      "exampleBs": "Prosjek ocjena utječe na mogućnosti upisa na postdiplomske studije.",
+      "exampleEn": "The GPA affects chances of admission to postgraduate programs."
+    },
+    {
+      "arabic": "مُنَاقَشَةُ الرِّسَالَةِ",
+      "root": "ن ق ش",
+      "type": "noun",
+      "bs": "odbrana teze, usmeni ispit",
+      "en": "oral defense, thesis defense",
+      "exampleArabic": "نَجَحَ الطَّالِبُ فِي مُنَاقَشَةِ رِسَالَتِهِ أَمَامَ لَجْنَةِ الْحُكَّامِ.",
+      "exampleBs": "Student je uspješno odbranio svoju tezu pred komisijom.",
+      "exampleEn": "The student successfully defended his thesis before the committee."
+    },
+    {
+      "arabic": "التَّقْيِيمُ",
+      "root": "ق و م",
+      "type": "noun",
+      "bs": "evaluacija, procjena",
+      "en": "evaluation, assessment",
+      "exampleArabic": "يَشْمَلُ التَّقْيِيمُ النِّهَائِيُّ الِامْتِحَانَ وَالْأَعْمَالَ التَّطْبِيقِيَّةَ.",
+      "exampleBs": "Završna evaluacija uključuje ispit i praktične radove.",
+      "exampleEn": "The final evaluation includes the exam and practical assignments."
+    },
+    {
+      "arabic": "الْمُرَاجَعَةُ الْأَكَادِيمِيَّةُ",
+      "root": "ر ج ع",
+      "type": "noun",
+      "bs": "stručna recenzija",
+      "en": "peer review",
+      "exampleArabic": "تَخْضَعُ الْأَبْحَاثُ الْعِلْمِيَّةُ لِلْمُرَاجَعَةِ الْأَكَادِيمِيَّةِ قَبْلَ نَشْرِهَا.",
+      "exampleBs": "Naučni radovi prolaze kroz stručnu recenziju prije objavljivanja.",
+      "exampleEn": "Scientific papers undergo peer review before publication."
+    },
+    {
+      "arabic": "الْفَرْضِيَّةُ",
+      "root": "ف ر ض",
+      "type": "noun",
+      "bs": "hipoteza",
+      "en": "hypothesis",
+      "exampleArabic": "صَاغَ الْبَاحِثُ فَرْضِيَّةً وَاضِحَةً قَبْلَ بَدْءِ التَّجْرِبَةِ.",
+      "exampleBs": "Istraživač je formulisao jasnu hipotezu prije početka eksperimenta.",
+      "exampleEn": "The researcher formulated a clear hypothesis before starting the experiment."
+    },
+    {
+      "arabic": "الْبَيَانَاتُ",
+      "root": "ب ي ن",
+      "type": "noun",
+      "bs": "podaci",
+      "en": "data",
+      "exampleArabic": "جَمَعَ الْفَرِيقُ الْبَيَانَاتِ مِنْ مَصَادِرَ مُتَعَدِّدَةٍ.",
+      "exampleBs": "Tim je prikupio podatke iz više izvora.",
+      "exampleEn": "The team collected data from multiple sources."
+    },
+    {
+      "arabic": "التَّحْلِيلُ",
+      "root": "ح ل ل",
+      "type": "noun",
+      "bs": "analiza",
+      "en": "analysis",
+      "exampleArabic": "أَجْرَى الْبَاحِثُ تَحْلِيلًا دَقِيقًا لِلنَّتَائِجِ.",
+      "exampleBs": "Istraživač je proveo preciznu analizu rezultata.",
+      "exampleEn": "The researcher conducted a precise analysis of the results."
+    },
+    {
+      "arabic": "الِاسْتِنْتَاجُ",
+      "root": "ن ت ج",
+      "type": "noun",
+      "bs": "zaključak",
+      "en": "conclusion",
+      "exampleArabic": "خَلَصَ الْبَاحِثُ إِلَى اسْتِنْتَاجَاتٍ مُهِمَّةٍ مِنْ بِيَانَاتِهِ.",
+      "exampleBs": "Istraživač je došao do važnih zaključaka iz svojih podataka.",
+      "exampleEn": "The researcher drew important conclusions from his data."
+    },
+    {
+      "arabic": "التَّجْرِبَةُ",
+      "root": "ج ر ب",
+      "type": "noun",
+      "bs": "eksperiment, pokus",
+      "en": "experiment",
+      "exampleArabic": "أَجْرَى الطُّلَّابُ تَجَارِبَ عَمَلِيَّةً فِي مُخْتَبَرِ الْكِيمِيَاءِ.",
+      "exampleBs": "Studenti su proveli praktične eksperimente u hemijskoj laboratoriji.",
+      "exampleEn": "The students conducted practical experiments in the chemistry lab."
+    },
+    {
+      "arabic": "الِاسْتِطْلَاعُ",
+      "root": "ط ل ع",
+      "type": "noun",
+      "bs": "anketa, istraživanje",
+      "en": "survey",
+      "exampleArabic": "أَجْرَى الطَّاقِمُ الْبَحْثِيُّ اسْتِطْلَاعًا شَمِلَ أَلْفَ شَخْصٍ.",
+      "exampleBs": "Istraživački tim je proveo anketu koja je obuhvatila hiljadu osoba.",
+      "exampleEn": "The research team conducted a survey covering a thousand people."
+    },
+    {
+      "arabic": "الرِّسَالَةُ الْجَامِعِيَّةُ",
+      "root": "ر س ل",
+      "type": "noun",
+      "bs": "diplomski/magistarski rad",
+      "en": "university thesis, dissertation",
+      "exampleArabic": "اسْتَغْرَقَتِ الرِّسَالَةُ الْجَامِعِيَّةُ ثَلَاثَ سَنَوَاتٍ مِنَ الْبَحْثِ.",
+      "exampleBs": "Magistarski rad je zahtijevao tri godine istraživanja.",
+      "exampleEn": "The university dissertation took three years of research."
+    },
+    {
+      "arabic": "الْإِشْرَافُ",
+      "root": "ش ر ف",
+      "type": "noun",
+      "bs": "mentorstvo, nadzor",
+      "en": "supervision, mentorship",
+      "exampleArabic": "يُقَدِّمُ الْأُسْتَاذُ الْإِشْرَافَ اللَّازِمَ لِطُلَّابِ الدِّرَاسَاتِ الْعُلْيَا.",
+      "exampleBs": "Profesor pruža potrebno mentorstvo studentima postdiplomskog studija.",
+      "exampleEn": "The professor provides the necessary supervision for postgraduate students."
+    },
+    {
+      "arabic": "النَّشْرُ الْعِلْمِيُّ",
+      "root": "ن ش ر",
+      "type": "noun",
+      "bs": "naučna publikacija",
+      "en": "academic publication",
+      "exampleArabic": "يُعَدُّ النَّشْرُ الْعِلْمِيُّ مَعْيَارًا رَئِيسِيًّا لِتَقَدُّمِ أَعْضَاءِ هَيْئَةِ التَّدْرِيسِ.",
+      "exampleBs": "Naučna publikacija smatra se ključnim kriterijem napredovanja nastavnog osoblja.",
+      "exampleEn": "Academic publication is considered a key criterion for faculty advancement."
+    },
+    {
+      "arabic": "الِاعْتِمَادُ الْأَكَادِيمِيُّ",
+      "root": "ع م د",
+      "type": "noun",
+      "bs": "akademska akreditacija",
+      "en": "academic accreditation",
+      "exampleArabic": "حَصَلَتِ الْجَامِعَةُ عَلَى الِاعْتِمَادِ الْأَكَادِيمِيِّ الدَّوْلِيِّ.",
+      "exampleBs": "Univerzitet je dobio međunarodnu akademsku akreditaciju.",
+      "exampleEn": "The university obtained international academic accreditation."
+    },
+    {
+      "arabic": "التَّخَصُّصُ",
+      "root": "خ ص ص",
+      "type": "noun",
+      "bs": "specijalizacija, usmjerenje",
+      "en": "specialization, major",
+      "exampleArabic": "اخْتَارَ الطَّالِبُ تَخَصُّصَ الْأَدَبِ الْمُقَارَنِ.",
+      "exampleBs": "Student je odabrao specijalizaciju iz komparativne književnosti.",
+      "exampleEn": "The student chose comparative literature as his specialization."
+    },
+    {
+      "arabic": "الدِّرَاسَاتُ الْعُلْيَا",
+      "root": "د ر س",
+      "type": "noun",
+      "bs": "postdiplomski studij",
+      "en": "postgraduate studies",
+      "exampleArabic": "تَطْلُبُ الدِّرَاسَاتُ الْعُلْيَا مُسْتَوًى عَالِيًا مِنَ الِاسْتِقْلَالِيَّةِ الْبَحْثِيَّةِ.",
+      "exampleBs": "Postdiplomski studij zahtijeva visok nivo istraživačke samostalnosti.",
+      "exampleEn": "Postgraduate studies require a high level of research independence."
+    },
+    {
+      "arabic": "هَيْئَةُ التَّدْرِيسِ",
+      "root": "د ر س",
+      "type": "noun",
+      "bs": "nastavno osoblje",
+      "en": "teaching staff, faculty",
+      "exampleArabic": "تَضُمُّ هَيْئَةُ التَّدْرِيسِ نُخْبَةً مِنَ الْأَكَادِيمِيِّينَ الْمُتَمَيِّزِينَ.",
+      "exampleBs": "Nastavno osoblje uključuje elitne akademičare.",
+      "exampleEn": "The teaching staff comprises a selection of distinguished academics."
+    },
+    {
+      "arabic": "الْمُنَاهِجُ الدِّرَاسِيَّةُ",
+      "root": "ن ه ج",
+      "type": "noun",
+      "bs": "nastavni plan i program",
+      "en": "curriculum, syllabus",
+      "exampleArabic": "تُرَاجِعُ الْجَامِعَةُ الْمُنَاهِجَ الدِّرَاسِيَّةَ كُلَّ أَرْبَعِ سَنَوَاتٍ.",
+      "exampleBs": "Univerzitet revidira nastavni plan i program svakih četiri godine.",
+      "exampleEn": "The university reviews the curriculum every four years."
+    },
+    {
+      "arabic": "الْمَكْتَبَةُ",
+      "root": "ك ت ب",
+      "type": "noun",
+      "bs": "biblioteka, knjižnica",
+      "en": "library",
+      "exampleArabic": "تَمْتَلِكُ الْمَكْتَبَةُ مِئَاتِ الْآلَافِ مِنَ الْكُتُبِ وَالْمَجَلَّاتِ الْعِلْمِيَّةِ.",
+      "exampleBs": "Biblioteka posjeduje stotine hiljada knjiga i naučnih časopisa.",
+      "exampleEn": "The library holds hundreds of thousands of books and scientific journals."
+    },
+    {
+      "arabic": "الْإِنْجَازُ الْأَكَادِيمِيُّ",
+      "root": "ن ج ز",
+      "type": "noun",
+      "bs": "akademski uspjeh",
+      "en": "academic achievement",
+      "exampleArabic": "يَعْكِسُ الْإِنْجَازُ الْأَكَادِيمِيُّ مَدَى جَدِّيَّةِ الطَّالِبِ فِي تَحْصِيلِهِ.",
+      "exampleBs": "Akademski uspjeh odražava ozbiljnost studenta u učenju.",
+      "exampleEn": "Academic achievement reflects how seriously a student approaches their studies."
+    },
+    {
+      "arabic": "الْأُطُرُ الْمَرْجِعِيَّةُ",
+      "root": "ط ر ر",
+      "type": "noun",
+      "bs": "referentni okviri",
+      "en": "theoretical frameworks",
+      "exampleArabic": "اعْتَمَدَتِ الدِّرَاسَةُ عَلَى أُطُرٍ مَرْجِعِيَّةٍ مُتَعَدِّدَةٍ مِنَ الْأَدَبِ الْعِلْمِيِّ.",
+      "exampleBs": "Studija se oslonila na više referentnih okvira iz naučne literature.",
+      "exampleEn": "The study relied on multiple theoretical frameworks from the scientific literature."
+    },
+    {
+      "arabic": "النَّقْدُ الْأَكَادِيمِيُّ",
+      "root": "ن ق د",
+      "type": "noun",
+      "bs": "akademska kritika",
+      "en": "academic critique",
+      "exampleArabic": "يُسَاعِدُ النَّقْدُ الْأَكَادِيمِيُّ الْبَاحِثِينَ عَلَى تَطْوِيرِ أَعْمَالِهِمْ.",
+      "exampleBs": "Akademska kritika pomaže istraživačima da unaprijede svoje radove.",
+      "exampleEn": "Academic critique helps researchers improve their work."
+    },
+    {
+      "arabic": "الْأُطْرُوحَةُ الْمُضَادَّةُ",
+      "root": "ط ر ح",
+      "type": "noun",
+      "bs": "kontraargument, suprotna teza",
+      "en": "counter-argument, counter-thesis",
+      "exampleArabic": "قَدَّمَتِ الطَّالِبَةُ أُطْرُوحَةً مُضَادَّةً لِدَحْضِ الرَّأْيِ السَّائِدِ.",
+      "exampleBs": "Studentica je iznijela kontraargument kako bi pobila prevladavajuće mišljenje.",
+      "exampleEn": "The student presented a counter-argument to refute the prevailing view."
+    },
+    {
+      "arabic": "الِاسْتِدْلَالُ",
+      "root": "د ل ل",
+      "type": "noun",
+      "bs": "zaključivanje, rezonovanje",
+      "en": "reasoning, inference",
+      "exampleArabic": "يَعْتَمِدُ الِاسْتِدْلَالُ الْعِلْمِيُّ عَلَى الْأَدِلَّةِ الْمَوْضُوعِيَّةِ.",
+      "exampleBs": "Naučno zaključivanje oslanja se na objektivne dokaze.",
+      "exampleEn": "Scientific reasoning relies on objective evidence."
+    },
+    {
+      "arabic": "الطَّاقَةُ الِاسْتِيعَابِيَّةُ",
+      "root": "ط و ق",
+      "type": "noun",
+      "bs": "apsorpcijski kapacitet, sposobnost razumijevanja",
+      "en": "absorption capacity, comprehension ability",
+      "exampleArabic": "تَخْتَلِفُ الطَّاقَةُ الِاسْتِيعَابِيَّةُ مِنْ طَالِبٍ إِلَى آخَرَ.",
+      "exampleBs": "Sposobnost razumijevanja razlikuje se od studenta do studenta.",
+      "exampleEn": "Comprehension ability differs from one student to another."
+    },
+    {
+      "arabic": "التَّفْكِيرُ النَّقْدِيُّ",
+      "root": "ف ك ر",
+      "type": "noun",
+      "bs": "kritičko mišljenje",
+      "en": "critical thinking",
+      "exampleArabic": "يُشَجِّعُ الْأُسْتَاذُ طُلَّابَهُ عَلَى التَّفْكِيرِ النَّقْدِيِّ بَدَلًا مِنَ الْحِفْظِ.",
+      "exampleBs": "Profesor podstiče studente na kritičko mišljenje umjesto na memorisanje.",
+      "exampleEn": "The professor encourages his students to think critically rather than memorize."
+    }
+  ]
+}

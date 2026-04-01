@@ -1,0 +1,429 @@
+{
+  "id": "b1-religion",
+  "title": "Islamic Knowledge",
+  "titleAr": "الْعِلْمُ الشَّرْعِيُّ",
+  "level": "B1",
+  "topic": "religion",
+  "words": [
+    {
+      "arabic": "الصَّلَاةُ",
+      "root": "ص ل و",
+      "type": "noun",
+      "bs": "namaz, molitva",
+      "en": "prayer",
+      "exampleArabic": "الصَّلَاةُ عِمَادُ الدِّينِ.",
+      "exampleBs": "Namaz je stub vjere.",
+      "exampleEn": "Prayer is the pillar of the religion."
+    },
+    {
+      "arabic": "الصِّيَامُ",
+      "root": "ص و م",
+      "type": "noun",
+      "bs": "post",
+      "en": "fasting",
+      "exampleArabic": "الصِّيَامُ فِي رَمَضَانَ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ.",
+      "exampleBs": "Post u ramazanu je obaveza svakog muslimana.",
+      "exampleEn": "Fasting in Ramadan is an obligation on every Muslim."
+    },
+    {
+      "arabic": "الزَّكَاةُ",
+      "root": "ز ك و",
+      "type": "noun",
+      "bs": "zekat (islamski porez)",
+      "en": "zakat (obligatory almsgiving)",
+      "exampleArabic": "الزَّكَاةُ رُكْنٌ مِنْ أَرْكَانِ الْإِسْلَامِ.",
+      "exampleBs": "Zekat je jedan od stubova islama.",
+      "exampleEn": "Zakat is a pillar of Islam."
+    },
+    {
+      "arabic": "الْحَجُّ",
+      "root": "ح ج ج",
+      "type": "noun",
+      "bs": "hadž (hodočašće u Mekku)",
+      "en": "Hajj (pilgrimage to Mecca)",
+      "exampleArabic": "الْحَجُّ فَرِيضَةٌ عَلَى الْمُسْتَطِيعِ مَرَّةً فِي الْعُمْرِ.",
+      "exampleBs": "Hadž je obaveza jednom u životu za onoga ko je u mogućnosti.",
+      "exampleEn": "Hajj is an obligation once in a lifetime for those who are able."
+    },
+    {
+      "arabic": "الْمَسْجِدُ",
+      "root": "س ج د",
+      "type": "noun",
+      "bs": "džamija",
+      "en": "mosque",
+      "exampleArabic": "يَذْهَبُ إِلَى الْمَسْجِدِ لِأَدَاءِ الصَّلَوَاتِ الْخَمْسِ.",
+      "exampleBs": "Odlazi u džamiju radi klanjanja pet namaza.",
+      "exampleEn": "He goes to the mosque to perform the five prayers."
+    },
+    {
+      "arabic": "الْإِمَامُ",
+      "root": "أ م م",
+      "type": "noun",
+      "bs": "imam",
+      "en": "imam (prayer leader)",
+      "exampleArabic": "الْإِمَامُ يَؤُمُّ الْمُصَلِّينَ فِي الصَّلَاةِ.",
+      "exampleBs": "Imam predvodi klanjače u namazu.",
+      "exampleEn": "The imam leads the worshippers in prayer."
+    },
+    {
+      "arabic": "صَلَاةُ الْجُمُعَةِ",
+      "root": "ج م ع",
+      "type": "noun",
+      "bs": "džuma namaz",
+      "en": "Friday prayer",
+      "exampleArabic": "صَلَاةُ الْجُمُعَةِ وَاجِبَةٌ عَلَى كُلِّ مُسْلِمٍ بَالِغٍ.",
+      "exampleBs": "Džuma namaz je obavezan za svakog punoljetnog muslimana.",
+      "exampleEn": "Friday prayer is obligatory for every adult Muslim."
+    },
+    {
+      "arabic": "الْوُضُوءُ",
+      "root": "و ض أ",
+      "type": "noun",
+      "bs": "abdest",
+      "en": "ablution (ritual purification)",
+      "exampleArabic": "لَا تَصِحُّ الصَّلَاةُ بِغَيْرِ وُضُوءٍ.",
+      "exampleBs": "Namaz nije valjan bez abdesta.",
+      "exampleEn": "Prayer is not valid without ablution."
+    },
+    {
+      "arabic": "الْأَذَانُ",
+      "root": "أ ذ ن",
+      "type": "noun",
+      "bs": "ezan (poziv na namaz)",
+      "en": "adhan (call to prayer)",
+      "exampleArabic": "يُؤَذِّنُ الْمُؤَذِّنُ خَمْسَ مَرَّاتٍ فِي الْيَوْمِ.",
+      "exampleBs": "Mujezin uči ezan pet puta dnevno.",
+      "exampleEn": "The muezzin calls the adhan five times a day."
+    },
+    {
+      "arabic": "السُّجُودُ",
+      "root": "س ج د",
+      "type": "noun",
+      "bs": "sedžda (padanje na čelo)",
+      "en": "prostration (sujud)",
+      "exampleArabic": "السُّجُودُ أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ.",
+      "exampleBs": "Sedžda je trenutak kada je rob najbliži svom Gospodaru.",
+      "exampleEn": "Prostration is when the servant is closest to his Lord."
+    },
+    {
+      "arabic": "الرُّكُوعُ",
+      "root": "ر ك ع",
+      "type": "noun",
+      "bs": "rukuu (saginjanje u namazu)",
+      "en": "bowing (ruku)",
+      "exampleArabic": "الرُّكُوعُ رُكْنٌ مِنْ أَرْكَانِ الصَّلَاةِ.",
+      "exampleBs": "Rukuu je jedan od stubova namaza.",
+      "exampleEn": "Bowing (ruku) is a pillar of the prayer."
+    },
+    {
+      "arabic": "الصَّبْرُ",
+      "root": "ص ب ر",
+      "type": "noun",
+      "bs": "strpljenje, sabur",
+      "en": "patience",
+      "exampleArabic": "الصَّبْرُ فَضِيلَةٌ عَظِيمَةٌ فِي الْإِسْلَامِ.",
+      "exampleBs": "Strpljenje je velika vrlina u islamu.",
+      "exampleEn": "Patience is a great virtue in Islam."
+    },
+    {
+      "arabic": "الشُّكْرُ",
+      "root": "ش ك ر",
+      "type": "noun",
+      "bs": "zahvalnost",
+      "en": "gratitude",
+      "exampleArabic": "شُكْرُ النِّعَمِ يَزِيدُهَا.",
+      "exampleBs": "Zahvalnost za blagodati ih uvećava.",
+      "exampleEn": "Gratitude for blessings increases them."
+    },
+    {
+      "arabic": "التَّوَكُّلُ",
+      "root": "و ك ل",
+      "type": "noun",
+      "bs": "tevekkul (oslanjanje na Allaha)",
+      "en": "tawakkul (reliance on Allah)",
+      "exampleArabic": "التَّوَكُّلُ عَلَى اللهِ بَعْدَ الْأَخْذِ بِالْأَسْبَابِ.",
+      "exampleBs": "Oslanjanje na Allaha dolazi nakon poduzimanja mjera.",
+      "exampleEn": "Reliance on Allah comes after taking necessary steps."
+    },
+    {
+      "arabic": "الْإِحْسَانُ",
+      "root": "ح س ن",
+      "type": "noun",
+      "bs": "ihsan (dobročinstvo, savršenstvo u ibadetu)",
+      "en": "ihsan (excellence in worship and conduct)",
+      "exampleArabic": "الْإِحْسَانُ أَنْ تَعْبُدَ اللهَ كَأَنَّكَ تَرَاهُ.",
+      "exampleBs": "Ihsan je da robuješ Allahu kao da Ga vidiš.",
+      "exampleEn": "Ihsan is to worship Allah as if you see Him."
+    },
+    {
+      "arabic": "الْإِخْلَاصُ",
+      "root": "خ ل ص",
+      "type": "noun",
+      "bs": "iskrenost, iskren nijet",
+      "en": "sincerity",
+      "exampleArabic": "الْإِخْلَاصُ شَرْطٌ لِقَبُولِ الْعِبَادَةِ.",
+      "exampleBs": "Iskrenost je uvjet prihvatanja ibadeta.",
+      "exampleEn": "Sincerity is a condition for the acceptance of worship."
+    },
+    {
+      "arabic": "الدُّعَاءُ",
+      "root": "د ع و",
+      "type": "noun",
+      "bs": "dova (molitva, vapaj)",
+      "en": "supplication, dua",
+      "exampleArabic": "الدُّعَاءُ سِلَاحُ الْمُؤْمِنِ.",
+      "exampleBs": "Dova je oružje vjernika.",
+      "exampleEn": "Supplication is the weapon of the believer."
+    },
+    {
+      "arabic": "الذِّكْرُ",
+      "root": "ذ ك ر",
+      "type": "noun",
+      "bs": "zikr (spominjanje Allaha)",
+      "en": "dhikr (remembrance of Allah)",
+      "exampleArabic": "الذِّكْرُ يَجْلِبُ الطُّمَأْنِينَةَ لِلْقَلْبِ.",
+      "exampleBs": "Zikr donosi spokoj srcu.",
+      "exampleEn": "Dhikr brings tranquility to the heart."
+    },
+    {
+      "arabic": "الْعِبَادَةُ",
+      "root": "ع ب د",
+      "type": "noun",
+      "bs": "ibadet, bogoslužje",
+      "en": "worship",
+      "exampleArabic": "خُلِقَ الْإِنْسَانُ لِلْعِبَادَةِ.",
+      "exampleBs": "Čovjek je stvoren radi ibadeta.",
+      "exampleEn": "The human was created for worship."
+    },
+    {
+      "arabic": "الْحَلَالُ",
+      "root": "ح ل ل",
+      "type": "noun",
+      "bs": "halal (dozvoljeno)",
+      "en": "halal (permissible)",
+      "exampleArabic": "الْمُسْلِمُ يَبْحَثُ عَنِ الرِّزْقِ الْحَلَالِ.",
+      "exampleBs": "Musliman traži halal opskrbu.",
+      "exampleEn": "The Muslim seeks a halal livelihood."
+    },
+    {
+      "arabic": "الْحَرَامُ",
+      "root": "ح ر م",
+      "type": "noun",
+      "bs": "haram (zabranjeno)",
+      "en": "haram (forbidden)",
+      "exampleArabic": "يَجْتَنِبُ الْمُسْلِمُ كُلَّ مَا هُوَ حَرَامٌ.",
+      "exampleBs": "Musliman se kloni svega što je haram.",
+      "exampleEn": "The Muslim avoids everything that is forbidden."
+    },
+    {
+      "arabic": "التَّوْبَةُ",
+      "root": "ت و ب",
+      "type": "noun",
+      "bs": "tevba (pokajanje)",
+      "en": "repentance (tawbah)",
+      "exampleArabic": "بَابُ التَّوْبَةِ مَفْتُوحٌ لِكُلِّ عَبْدٍ.",
+      "exampleBs": "Vrata tevbe su otvorena svakom robu.",
+      "exampleEn": "The door of repentance is open to every servant."
+    },
+    {
+      "arabic": "صَلَّى",
+      "root": "ص ل و",
+      "type": "verb",
+      "bs": "klanjati, moliti se",
+      "en": "to pray",
+      "exampleArabic": "يُصَلِّي خَمْسَ صَلَوَاتٍ فِي الْيَوْمِ.",
+      "exampleBs": "Klanja pet namaza dnevno.",
+      "exampleEn": "He prays five prayers a day."
+    },
+    {
+      "arabic": "صَامَ",
+      "root": "ص و م",
+      "type": "verb",
+      "bs": "postiti",
+      "en": "to fast",
+      "exampleArabic": "صَامَتِ الْعَائِلَةُ كُلُّهَا فِي رَمَضَانَ.",
+      "exampleBs": "Cijela porodica je postila u ramazanu.",
+      "exampleEn": "The whole family fasted in Ramadan."
+    },
+    {
+      "arabic": "تَوَضَّأَ",
+      "root": "و ض أ",
+      "type": "verb",
+      "bs": "uzeti abdest",
+      "en": "to perform ablution",
+      "exampleArabic": "تَوَضَّأَ قَبْلَ صَلَاةِ الْفَجْرِ.",
+      "exampleBs": "Uzeo je abdest prije sabah namaza.",
+      "exampleEn": "He performed ablution before the dawn prayer."
+    },
+    {
+      "arabic": "دَعَا",
+      "root": "د ع و",
+      "type": "verb",
+      "bs": "učiti dovu, moliti",
+      "en": "to supplicate, to make dua",
+      "exampleArabic": "دَعَا اللهَ بِالشِّفَاءِ وَالْعَافِيَةِ.",
+      "exampleBs": "Molio je Allaha za ozdravljenje i zdravlje.",
+      "exampleEn": "He supplicated to Allah for healing and well-being."
+    },
+    {
+      "arabic": "تَابَ",
+      "root": "ت و ب",
+      "type": "verb",
+      "bs": "pokajati se",
+      "en": "to repent",
+      "exampleArabic": "تَابَ إِلَى اللهِ وَاسْتَغْفَرَ.",
+      "exampleBs": "Pokajao se Allahu i tražio oprosta.",
+      "exampleEn": "He repented to Allah and sought forgiveness."
+    },
+    {
+      "arabic": "اسْتَغْفَرَ",
+      "root": "غ ف ر",
+      "type": "verb",
+      "bs": "tražiti oprost",
+      "en": "to seek forgiveness (istighfar)",
+      "exampleArabic": "يَسْتَغْفِرُ اللهَ كَثِيرًا فِي يَوْمِهِ.",
+      "exampleBs": "Mnogo traži Allahov oprost tokom dana.",
+      "exampleEn": "He seeks Allah's forgiveness often during his day."
+    },
+    {
+      "arabic": "تَصَدَّقَ",
+      "root": "ص د ق",
+      "type": "verb",
+      "bs": "dati sadaku (milostinju)",
+      "en": "to give charity (sadaqah)",
+      "exampleArabic": "تَصَدَّقَ عَلَى الْفُقَرَاءِ فِي شَهْرِ رَمَضَانَ.",
+      "exampleBs": "Dao je sadaku siromašnima u toku ramazana.",
+      "exampleEn": "He gave charity to the poor during Ramadan."
+    },
+    {
+      "arabic": "ذَكَرَ اللهَ",
+      "root": "ذ ك ر",
+      "type": "verb",
+      "bs": "spominjati Allaha",
+      "en": "to remember Allah",
+      "exampleArabic": "يَذْكُرُ اللهَ فِي كُلِّ حَالٍ.",
+      "exampleBs": "Spominje Allaha u svakom stanju.",
+      "exampleEn": "He remembers Allah in every situation."
+    },
+    {
+      "arabic": "مُؤْمِنٌ",
+      "root": "أ م ن",
+      "type": "adjective",
+      "bs": "vjernik, mu'min",
+      "en": "believer",
+      "exampleArabic": "الْمُؤْمِنُ يَثِقُ بِاللهِ فِي كُلِّ أَمْرٍ.",
+      "exampleBs": "Vjernik se oslanja na Allaha u svakoj stvari.",
+      "exampleEn": "The believer trusts Allah in every matter."
+    },
+    {
+      "arabic": "مُخْلِصٌ",
+      "root": "خ ل ص",
+      "type": "adjective",
+      "bs": "iskren",
+      "en": "sincere",
+      "exampleArabic": "الْعَمَلُ الْمُخْلِصُ مَقْبُولٌ عِنْدَ اللهِ.",
+      "exampleBs": "Iskreno djelo je prihvaćeno kod Allaha.",
+      "exampleEn": "The sincere deed is accepted by Allah."
+    },
+    {
+      "arabic": "صَالِحٌ",
+      "root": "ص ل ح",
+      "type": "adjective",
+      "bs": "dobar, pravičan",
+      "en": "righteous, good",
+      "exampleArabic": "الْعَمَلُ الصَّالِحُ يَنْفَعُ صَاحِبَهُ فِي الدُّنْيَا وَالآخِرَةِ.",
+      "exampleBs": "Dobro djelo koristi svom tvorcu na dunjaluku i ahiretu.",
+      "exampleEn": "The righteous deed benefits its doer in this life and the next."
+    },
+    {
+      "arabic": "تَقِيٌّ",
+      "root": "و ق ي",
+      "type": "adjective",
+      "bs": "bogobojazni, pobožan",
+      "en": "pious, God-fearing",
+      "exampleArabic": "الشَّخْصُ التَّقِيُّ يَتَجَنَّبُ مَعَاصِيَ اللهِ.",
+      "exampleBs": "Pobožna osoba kloni se Allahovih grijeha.",
+      "exampleEn": "The pious person avoids disobeying Allah."
+    },
+    {
+      "arabic": "شَاكِرٌ",
+      "root": "ش ك ر",
+      "type": "adjective",
+      "bs": "zahvalan",
+      "en": "grateful",
+      "exampleArabic": "الْمُسْلِمُ الشَّاكِرُ يَرَى النِّعَمَ فِي كُلِّ شَيْءٍ.",
+      "exampleBs": "Zahvalni musliman vidi blagodati u svemu.",
+      "exampleEn": "The grateful Muslim sees blessings in everything."
+    },
+    {
+      "arabic": "صَابِرٌ",
+      "root": "ص ب ر",
+      "type": "adjective",
+      "bs": "strpljiv",
+      "en": "patient",
+      "exampleArabic": "الصَّابِرُ يَجِدُ الْفَرَجَ بَعْدَ الشِّدَّةِ.",
+      "exampleBs": "Strpljivi nađe izlaz nakon teškoće.",
+      "exampleEn": "The patient person finds relief after hardship."
+    },
+    {
+      "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ",
+      "root": "س م و",
+      "type": "phrase",
+      "bs": "U ime Allaha, Milostivog, Samilosnog",
+      "en": "In the name of Allah, the Most Gracious, the Most Merciful",
+      "exampleArabic": "يَبْدَأُ الْمُسْلِمُ كُلَّ عَمَلٍ بِبِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ.",
+      "exampleBs": "Musliman započinje svaki posao s bismillom.",
+      "exampleEn": "The Muslim begins every action with Bismillah."
+    },
+    {
+      "arabic": "الْحَمْدُ للهِ",
+      "root": "ح م د",
+      "type": "phrase",
+      "bs": "Hvala Allahu, el-hamdulillah",
+      "en": "Praise be to Allah",
+      "exampleArabic": "يَقُولُ الْحَمْدُ للهِ بَعْدَ كُلِّ نِعْمَةٍ.",
+      "exampleBs": "Govori el-hamdulillah nakon svake blagodati.",
+      "exampleEn": "He says Alhamdulillah after every blessing."
+    },
+    {
+      "arabic": "إِنْ شَاءَ اللهُ",
+      "root": "ش ي أ",
+      "type": "phrase",
+      "bs": "ako Allah da, inšallah",
+      "en": "if Allah wills, God willing",
+      "exampleArabic": "سَأَزُورُكَ غَدًا إِنْ شَاءَ اللهُ.",
+      "exampleBs": "Posjetiću te sutra, inšallah.",
+      "exampleEn": "I will visit you tomorrow, God willing."
+    },
+    {
+      "arabic": "سُبْحَانَ اللهِ",
+      "root": "س ب ح",
+      "type": "phrase",
+      "bs": "Slavljen neka je Allah, subhanallah",
+      "en": "Glory be to Allah",
+      "exampleArabic": "يَقُولُ سُبْحَانَ اللهِ عِنْدَ رُؤْيَةِ الْعَجَائِبِ.",
+      "exampleBs": "Govori subhanallah kad vidi nešto čudesno.",
+      "exampleEn": "He says Subhanallah when he sees something amazing."
+    },
+    {
+      "arabic": "اللهُ أَكْبَرُ",
+      "root": "ك ب ر",
+      "type": "phrase",
+      "bs": "Allah je Najveći, Allahu ekber",
+      "en": "Allah is the Greatest",
+      "exampleArabic": "يُكَبِّرُ الْمُسْلِمُ فِي الصَّلَاةِ وَفِي السُّرُورِ.",
+      "exampleBs": "Musliman uči tekbir u namazu i u radosti.",
+      "exampleEn": "The Muslim says Allahu Akbar in prayer and in joy."
+    },
+    {
+      "arabic": "إِنَّا للهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+      "root": "ر ج ع",
+      "type": "phrase",
+      "bs": "Zaista smo Allahovi i Njemu se vraćamo (inna lillahi)",
+      "en": "Indeed, to Allah we belong and to Him we return",
+      "exampleArabic": "يَقُولُ الْمُسْلِمُ إِنَّا للهِ عِنْدَ الْمُصِيبَةِ.",
+      "exampleBs": "Musliman govori inna lillahi kada ga zadesi nevolja.",
+      "exampleEn": "The Muslim says inna lillahi when afflicted with calamity."
+    }
+  ]
+}

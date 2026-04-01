@@ -1,0 +1,559 @@
+{
+  "id": "b2-travel",
+  "title": "Travel Essentials",
+  "titleAr": "مُفْرَدَاتُ السَّفَرِ",
+  "level": "B2",
+  "topic": "travel",
+  "words": [
+    {
+      "arabic": "بِطَاقَةُ الصُّعُودِ",
+      "root": "ص ع د",
+      "type": "noun",
+      "bs": "karta za ukrcaj, boarding pass",
+      "en": "boarding pass",
+      "exampleArabic": "يَجِبُ أَنْ تُحْضِرَ بِطَاقَةَ الصُّعُودِ قَبْلَ الدُّخُولِ إِلَى الطَّائِرَةِ.",
+      "exampleBs": "Moraš donijeti kartu za ukrcaj prije ulaska u avion.",
+      "exampleEn": "You must bring the boarding pass before entering the plane."
+    },
+    {
+      "arabic": "عُبُورٌ",
+      "root": "ع ب ر",
+      "type": "noun",
+      "bs": "transit, prolaz",
+      "en": "transit, stopover",
+      "exampleArabic": "سَيَمُرُّ الرَّكْبُ فِي دُبَيٍّ لِلْعُبُورِ إِلَى لَنْدَنَ.",
+      "exampleBs": "Putnici će proći kroz Dubai u tranzitu prema Londonu.",
+      "exampleEn": "The passengers will pass through Dubai in transit to London."
+    },
+    {
+      "arabic": "تَوَقُّفٌ مُؤَقَّتٌ",
+      "root": "و ق ف",
+      "type": "noun",
+      "bs": "međuslijetanje, layover",
+      "en": "layover, stopover",
+      "exampleArabic": "لَدَيْنَا تَوَقُّفٌ مُؤَقَّتٌ لِمُدَّةِ ثَلَاثِ سَاعَاتٍ فِي إِسْطَنْبُولَ.",
+      "exampleBs": "Imamo trosatno međuslijetanje u Istanbulu.",
+      "exampleEn": "We have a three-hour layover in Istanbul."
+    },
+    {
+      "arabic": "تَسْجِيلُ الْوُصُولِ",
+      "root": "س ج ل",
+      "type": "noun",
+      "bs": "prijava, check-in",
+      "en": "check-in",
+      "exampleArabic": "يَفْتَحُ مَكْتَبُ تَسْجِيلِ الْوُصُولِ قَبْلَ ثَلَاثِ سَاعَاتٍ مِنَ الإِقْلَاعِ.",
+      "exampleBs": "Šalter za prijavu se otvara tri sata prije polijetanja.",
+      "exampleEn": "The check-in desk opens three hours before departure."
+    },
+    {
+      "arabic": "بَوَّابَةُ الْمُغَادَرَةِ",
+      "root": "غ و د",
+      "type": "noun",
+      "bs": "izlaz za odlazak, gate",
+      "en": "departure gate",
+      "exampleArabic": "تَوَجَّهَ الرُّكَّابُ إِلَى بَوَّابَةِ الْمُغَادَرَةِ رَقْمِ خَمْسَةَ عَشَرَ.",
+      "exampleBs": "Putnici su se uputili prema izlazu broj petnaest.",
+      "exampleEn": "The passengers headed to departure gate number fifteen."
+    },
+    {
+      "arabic": "الْجَوَازَاتُ",
+      "root": "ج و ز",
+      "type": "noun",
+      "bs": "granična kontrola, pasoška kontrola",
+      "en": "passport control, immigration",
+      "exampleArabic": "اصْطَفَّ الْمُسَافِرُونَ فِي طَابُورٍ طَوِيلٍ عِنْدَ الْجَوَازَاتِ.",
+      "exampleBs": "Putnici su stajali u dugačkom redu kod granične kontrole.",
+      "exampleEn": "Travelers stood in a long queue at passport control."
+    },
+    {
+      "arabic": "إِقْرَارٌ جُمْرُكِيٌّ",
+      "root": "ق ر ر",
+      "type": "noun",
+      "bs": "carinska deklaracija",
+      "en": "customs declaration",
+      "exampleArabic": "يَجِبُ مَلْءُ الإِقْرَارِ الْجُمْرُكِيِّ عِنْدَ الْوُصُولِ.",
+      "exampleBs": "Carinsku deklaraciju treba ispuniti pri dolasku.",
+      "exampleEn": "The customs declaration must be filled in upon arrival."
+    },
+    {
+      "arabic": "نُزُلٌ شَبَابِيٌّ",
+      "root": "ن ز ل",
+      "type": "noun",
+      "bs": "hostel, omladinski hostel",
+      "en": "youth hostel",
+      "exampleArabic": "يُفَضِّلُ كَثِيرٌ مِنَ الشَّبَابِ النُّزُولَ فِي النُّزُلِ الشَّبَابِيِّ لِتَوْفِيرِ الْمَالِ.",
+      "exampleBs": "Mnogi mladi preferiraju odsjesti u hostelu radi uštede novca.",
+      "exampleEn": "Many young people prefer staying in a youth hostel to save money."
+    },
+    {
+      "arabic": "شَقَّةٌ مَفْرُوشَةٌ",
+      "root": "ف ر ش",
+      "type": "noun",
+      "bs": "namješteni stan, furnished apartment",
+      "en": "furnished apartment",
+      "exampleArabic": "اسْتَأْجَرَ شَقَّةً مَفْرُوشَةً لِمُدَّةِ أُسْبُوعَيْنِ فِي الْقَاهِرَةِ.",
+      "exampleBs": "Iznajmio je namješteni stan na dvije sedmice u Kairu.",
+      "exampleEn": "He rented a furnished apartment for two weeks in Cairo."
+    },
+    {
+      "arabic": "تَسْجِيلُ الْمُغَادَرَةِ",
+      "root": "غ و د",
+      "type": "noun",
+      "bs": "odjava, check-out",
+      "en": "check-out",
+      "exampleArabic": "مَوْعِدُ تَسْجِيلِ الْمُغَادَرَةِ هُوَ الثَّانِيَةَ عَشَرَ ظُهْرًا.",
+      "exampleBs": "Rok za odjavu je podne.",
+      "exampleEn": "The check-out time is noon."
+    },
+    {
+      "arabic": "مَرَافِقُ",
+      "root": "ر ف ق",
+      "type": "noun",
+      "bs": "sadržaji, pogodnosti",
+      "en": "amenities, facilities",
+      "exampleArabic": "يُوَفِّرُ الْفُنْدُقُ مَرَافِقَ مُتَعَدِّدَةً مِنْهَا مَسْبَحٌ وَصَالَةُ رِيَاضَةٍ.",
+      "exampleBs": "Hotel nudi različite sadržaje, uključujući bazen i teretanu.",
+      "exampleEn": "The hotel provides various amenities including a pool and gym."
+    },
+    {
+      "arabic": "خِدْمَةُ الْغُرَفِ",
+      "root": "خ د م",
+      "type": "noun",
+      "bs": "room service, usluga na sobu",
+      "en": "room service",
+      "exampleArabic": "طَلَبَ وَجْبَةَ الْإِفْطَارِ عَبْرَ خِدْمَةِ الْغُرَفِ.",
+      "exampleBs": "Naručio je doručak putem room servicea.",
+      "exampleEn": "He ordered breakfast through room service."
+    },
+    {
+      "arabic": "الْمُوَظَّفُ الرَّئِيسِيُّ",
+      "root": "ر أ س",
+      "type": "noun",
+      "bs": "recepcioner, concierge",
+      "en": "concierge, front desk officer",
+      "exampleArabic": "سَأَلَ الْمُوَظَّفَ الرَّئِيسِيَّ عَنْ أَفْضَلِ الْمَطَاعِمِ فِي الْمَدِينَةِ.",
+      "exampleBs": "Pitao je concierge za najbolje restorane u gradu.",
+      "exampleEn": "He asked the concierge about the best restaurants in the city."
+    },
+    {
+      "arabic": "رَحْلَةٌ مَحْجُوزَةٌ",
+      "root": "ح ج ز",
+      "type": "noun",
+      "bs": "charter let",
+      "en": "charter flight",
+      "exampleArabic": "حَجَزَتِ الشَّرَكَةُ رَحْلَةً مَحْجُوزَةً لِمَوَظَّفِيهَا.",
+      "exampleBs": "Kompanija je rezervirala charter let za svoje zaposlenike.",
+      "exampleEn": "The company booked a charter flight for its employees."
+    },
+    {
+      "arabic": "مَحَطَّةُ الْقِطَارِ",
+      "root": "ح ط ط",
+      "type": "noun",
+      "bs": "željeznička stanica",
+      "en": "railway station, train station",
+      "exampleArabic": "أَقَمْنَا بِالْقُرْبِ مِنْ مَحَطَّةِ الْقِطَارِ لِسُهُولَةِ التَّنَقُّلِ.",
+      "exampleBs": "Odsjeli smo u blizini željezničke stanice radi lakšeg kretanja.",
+      "exampleEn": "We stayed near the railway station for ease of transportation."
+    },
+    {
+      "arabic": "دَوَّارٌ",
+      "root": "د و ر",
+      "type": "noun",
+      "bs": "kružni tok, rondel",
+      "en": "roundabout",
+      "exampleArabic": "خُذِ الْمَخْرَجَ الثَّالِثَ عِنْدَ الدَّوَّارِ.",
+      "exampleBs": "Uzmi treći izlaz na kružnom toku.",
+      "exampleEn": "Take the third exit at the roundabout."
+    },
+    {
+      "arabic": "شَارِعٌ بِاتِّجَاهٍ وَاحِدٍ",
+      "root": "و ج ه",
+      "type": "noun",
+      "bs": "jednosmjerna ulica",
+      "en": "one-way street",
+      "exampleArabic": "هَذَا شَارِعٌ بِاتِّجَاهٍ وَاحِدٍ؛ لَا يُمْكِنُكَ الْعُبُورُ مِنْ هُنَا.",
+      "exampleBs": "Ovo je jednosmjerna ulica; ne možeš ovuda proći.",
+      "exampleEn": "This is a one-way street; you cannot pass through here."
+    },
+    {
+      "arabic": "ذِرْوَةُ الِازْدِحَامِ",
+      "root": "ذ ر و",
+      "type": "noun",
+      "bs": "jutarnja/večernja špica, vršni sat",
+      "en": "rush hour, peak hour",
+      "exampleArabic": "تَجَنَّبِ الْقِيَادَةَ فِي أَوْقَاتِ ذِرْوَةِ الِازْدِحَامِ.",
+      "exampleBs": "Izbjegavaj vožnju u vršnim satima.",
+      "exampleEn": "Avoid driving during rush hour."
+    },
+    {
+      "arabic": "اِزْدِحَامُ الْمُرُورِ",
+      "root": "ز ح م",
+      "type": "noun",
+      "bs": "prometna gužva, saobraćajna gužva",
+      "en": "traffic jam, traffic congestion",
+      "exampleArabic": "تَأَخَّرَ الْوُصُولُ بِسَبَبِ اِزْدِحَامِ الْمُرُورِ.",
+      "exampleBs": "Dolazak se odgodio zbog prometne gužve.",
+      "exampleEn": "The arrival was delayed due to traffic congestion."
+    },
+    {
+      "arabic": "جَدْوَلُ الرِّحْلَةِ",
+      "root": "ج د ل",
+      "type": "noun",
+      "bs": "itinerer, plan putovanja",
+      "en": "itinerary, travel plan",
+      "exampleArabic": "أَرْسَلَتِ الْوَكَالَةُ جَدْوَلَ الرِّحْلَةِ قَبْلَ أُسْبُوعٍ.",
+      "exampleBs": "Agencija je poslala itinerer tjedan dana ranije.",
+      "exampleEn": "The agency sent the itinerary a week in advance."
+    },
+    {
+      "arabic": "جَوْلَةٌ مَعَ مَرْشِدٍ",
+      "root": "ر ش د",
+      "type": "noun",
+      "bs": "vođena tura",
+      "en": "guided tour",
+      "exampleArabic": "شَارَكَ السُّيَّاحُ فِي جَوْلَةٍ مَعَ مَرْشِدٍ حَوْلَ الْمَعَالِمِ الْأَثَرِيَّةِ.",
+      "exampleBs": "Turisti su učestvovali u vođenoj turi po arheološkim lokalitetima.",
+      "exampleEn": "The tourists participated in a guided tour of the archaeological sites."
+    },
+    {
+      "arabic": "مَوْقِعٌ تُرَاثِيٌّ",
+      "root": "و ر ث",
+      "type": "noun",
+      "bs": "lokalitet baštine, heritage site",
+      "en": "heritage site",
+      "exampleArabic": "تُدْرَجُ الْمَدِينَةُ الْقَدِيمَةُ ضِمْنَ قَائِمَةِ مَوَاقِعِ التُّرَاثِ الْعَالَمِيِّ.",
+      "exampleBs": "Stari grad je uvršten na listu svjetskih heritage lokacija.",
+      "exampleEn": "The old city is listed among world heritage sites."
+    },
+    {
+      "arabic": "الْمَطْبَخُ الْمَحَلِّيُّ",
+      "root": "ط ب خ",
+      "type": "noun",
+      "bs": "lokalna kuhinja, lokalna gastronomija",
+      "en": "local cuisine",
+      "exampleArabic": "يُعَدُّ تَذَوُّقُ الْمَطْبَخِ الْمَحَلِّيِّ جُزْءًا أَصِيلًا مِنَ السَّفَرِ.",
+      "exampleBs": "Kušanje lokalne kuhinje smatra se suštinskim dijelom putovanja.",
+      "exampleEn": "Tasting the local cuisine is considered an essential part of traveling."
+    },
+    {
+      "arabic": "تَبَادُلٌ ثَقَافِيٌّ",
+      "root": "ب د ل",
+      "type": "noun",
+      "bs": "kulturna razmjena",
+      "en": "cultural exchange",
+      "exampleArabic": "يُعَزِّزُ التَّبَادُلُ الثَّقَافِيُّ التَّفَاهُمَ بَيْنَ الشُّعُوبِ.",
+      "exampleBs": "Kulturna razmjena jača razumijevanje između naroda.",
+      "exampleEn": "Cultural exchange enhances understanding between peoples."
+    },
+    {
+      "arabic": "إِرْهَاقُ الرِّحْلَةِ",
+      "root": "ر ه ق",
+      "type": "noun",
+      "bs": "jet lag, umor od putovanja",
+      "en": "jet lag",
+      "exampleArabic": "أَصَابَهُ إِرْهَاقُ الرِّحْلَةِ بَعْدَ الطَّيَرَانِ لِاثْنَتَيْ عَشَرَةَ سَاعَةً.",
+      "exampleBs": "Pogodio ga je jet lag nakon dvanaest sati leta.",
+      "exampleEn": "He was hit by jet lag after twelve hours of flying."
+    },
+    {
+      "arabic": "تَأْشِيرَةٌ",
+      "root": "أ ش ر",
+      "type": "noun",
+      "bs": "viza",
+      "en": "visa",
+      "exampleArabic": "يَحْتَاجُ إِلَى تَأْشِيرَةٍ لِدُخُولِ بَعْضِ الدُّوَلِ.",
+      "exampleBs": "Treba mu viza za ulazak u neke zemlje.",
+      "exampleEn": "He needs a visa to enter certain countries."
+    },
+    {
+      "arabic": "إِقَامَةٌ",
+      "root": "ق و م",
+      "type": "noun",
+      "bs": "boravak, boravišna dozvola",
+      "en": "residence, stay, residence permit",
+      "exampleArabic": "حَصَلَ عَلَى إِقَامَةٍ مُؤَقَّتَةٍ لِمُدَّةِ سَنَةٍ.",
+      "exampleBs": "Dobio je privremenu dozvolu boravka na godinu dana.",
+      "exampleEn": "He obtained a temporary residence permit for one year."
+    },
+    {
+      "arabic": "حُجْرَةٌ مُزْدَوَجَةٌ",
+      "root": "ز و ج",
+      "type": "noun",
+      "bs": "dvokrevetna soba",
+      "en": "double room",
+      "exampleArabic": "احْجِزْ حُجْرَةً مُزْدَوَجَةً لَيْلَتَيْنِ مِنْ فَضْلِكَ.",
+      "exampleBs": "Rezervirajte, molim vas, dvokrevetnu sobu na dvije noći.",
+      "exampleEn": "Please book a double room for two nights."
+    },
+    {
+      "arabic": "مُغَادَرَةٌ",
+      "root": "غ و د",
+      "type": "noun",
+      "bs": "odlazak, polazak",
+      "en": "departure",
+      "exampleArabic": "مَوْعِدُ الْمُغَادَرَةِ السَّاعَةُ السَّادِسَةُ صَبَاحًا.",
+      "exampleBs": "Polazak je u šest ujutro.",
+      "exampleEn": "The departure time is six in the morning."
+    },
+    {
+      "arabic": "وُصُولٌ",
+      "root": "و ص ل",
+      "type": "noun",
+      "bs": "dolazak, prispijeće",
+      "en": "arrival",
+      "exampleArabic": "يُتَوَقَّعُ الْوُصُولُ إِلَى الْمَطَارِ فِي تَمَامِ الثَّانِيَةَ عَشَرَ.",
+      "exampleBs": "Očekuje se dolazak na aerodrom tačno u podne.",
+      "exampleEn": "Arrival at the airport is expected at exactly noon."
+    },
+    {
+      "arabic": "حَقِيبَةُ يَدٍ",
+      "root": "ح ق ب",
+      "type": "noun",
+      "bs": "ručni prtljag, kabinska torba",
+      "en": "hand luggage, carry-on bag",
+      "exampleArabic": "يُسْمَحُ بِحَقِيبَةِ يَدٍ وَاحِدَةٍ فِي الطَّائِرَةِ.",
+      "exampleBs": "U avionu je dopuštena jedna ručna torba.",
+      "exampleEn": "One carry-on bag is allowed on the plane."
+    },
+    {
+      "arabic": "فُقْدَانُ الْأَمْتِعَةِ",
+      "root": "م ت ع",
+      "type": "noun",
+      "bs": "izgubljena prtljaga",
+      "en": "lost luggage",
+      "exampleArabic": "أَبْلَغَ عَنْ فُقْدَانِ أَمْتِعَتِهِ فِي مَكْتَبِ الْمَطَارِ.",
+      "exampleBs": "Prijavio je gubitak prtljage u aerodromskom uredu.",
+      "exampleEn": "He reported his lost luggage at the airport office."
+    },
+    {
+      "arabic": "صَرْفُ الْعُمْلَاتِ",
+      "root": "ص ر ف",
+      "type": "noun",
+      "bs": "mjenjačnica, zamjena valuta",
+      "en": "currency exchange",
+      "exampleArabic": "أَيْنَ أَقْرَبُ مَكْتَبٍ لِصَرْفِ الْعُمْلَاتِ؟",
+      "exampleBs": "Gdje je najbliža mjenjačnica?",
+      "exampleEn": "Where is the nearest currency exchange office?"
+    },
+    {
+      "arabic": "تَأْمِينُ السَّفَرِ",
+      "root": "أ م ن",
+      "type": "noun",
+      "bs": "putničko osiguranje",
+      "en": "travel insurance",
+      "exampleArabic": "يُوصَى بِشِرَاءِ تَأْمِينِ السَّفَرِ قَبْلَ أَيِّ رِحْلَةٍ.",
+      "exampleBs": "Preporučuje se kupovina putničkog osiguranja prije svakog putovanja.",
+      "exampleEn": "It is recommended to purchase travel insurance before any trip."
+    },
+    {
+      "arabic": "حَافِلَةٌ سِيَاحِيَّةٌ",
+      "root": "ح ف ل",
+      "type": "noun",
+      "bs": "turistički autobus",
+      "en": "tourist bus",
+      "exampleArabic": "تَنْطَلِقُ الْحَافِلَةُ السِّيَاحِيَّةُ مِنَ الْفُنْدُقِ كُلَّ صَبَاحٍ.",
+      "exampleBs": "Turistički autobus polazi iz hotela svako jutro.",
+      "exampleEn": "The tourist bus departs from the hotel every morning."
+    },
+    {
+      "arabic": "وَكَالَةُ السَّفَرِ",
+      "root": "و ك ل",
+      "type": "noun",
+      "bs": "turistička agencija",
+      "en": "travel agency",
+      "exampleArabic": "نَظَّمَتْ وَكَالَةُ السَّفَرِ رِحْلَةً كَامِلَةً بِسِعْرٍ مُنَاسِبٍ.",
+      "exampleBs": "Turistička agencija je organizirala kompletno putovanje po povoljnoj cijeni.",
+      "exampleEn": "The travel agency organized a complete trip at a reasonable price."
+    },
+    {
+      "arabic": "مَرْشِدٌ سِيَاحِيٌّ",
+      "root": "ر ش د",
+      "type": "noun",
+      "bs": "turistički vodič",
+      "en": "tourist guide",
+      "exampleArabic": "شَرَحَ الْمَرْشِدُ السِّيَاحِيُّ تَارِيخَ الْمَعْلَمِ بِتَفْصِيلٍ.",
+      "exampleBs": "Turistički vodič je detaljno objasnio historiju lokaliteta.",
+      "exampleEn": "The tourist guide explained the history of the landmark in detail."
+    },
+    {
+      "arabic": "مِيزَانُ الطَّائِرَةِ",
+      "root": "و ز ن",
+      "type": "noun",
+      "bs": "težinska norma prtljage",
+      "en": "baggage allowance",
+      "exampleArabic": "تَجَاوَزَتْ حَقِيبَتُهُ مِيزَانَ الطَّائِرَةِ فَدَفَعَ رُسُومًا إِضَافِيَّةً.",
+      "exampleBs": "Njegova torba je premašila dozvoljenu težinu prtljage pa je platio dodatne naknade.",
+      "exampleEn": "His bag exceeded the baggage allowance so he paid additional fees."
+    },
+    {
+      "arabic": "مَحَطَّةُ الْوَقُودِ",
+      "root": "و ق د",
+      "type": "noun",
+      "bs": "benzinska pumpa, stanica za gorivo",
+      "en": "fuel station, gas station",
+      "exampleArabic": "تَوَقَّفَ عِنْدَ مَحَطَّةِ الْوَقُودِ لِتَعْبِئَةِ خَزَّانِ السَّيَّارَةِ.",
+      "exampleBs": "Stao je na benzinskoj stanici da napuni rezervoar auta.",
+      "exampleEn": "He stopped at the fuel station to fill the car's tank."
+    },
+    {
+      "arabic": "تَعْطِيلٌ",
+      "root": "ع ط ل",
+      "type": "noun",
+      "bs": "kašnjenje, odgoda",
+      "en": "delay, cancellation",
+      "exampleArabic": "حَدَثَ تَعْطِيلٌ فِي مَوَاعِيدِ الرَّحَلَاتِ بِسَبَبِ سُوءِ الطَّقْسِ.",
+      "exampleBs": "Došlo je do kašnjenja letova zbog lošeg vremena.",
+      "exampleEn": "There was a delay in flight schedules due to bad weather."
+    },
+    {
+      "arabic": "صَالَةُ الْمُغَادَرَةِ",
+      "root": "غ و د",
+      "type": "noun",
+      "bs": "dvorana za odlazak, odlazna hala",
+      "en": "departure hall, departure lounge",
+      "exampleArabic": "انْتَظَرَ الرُّكَّابُ فِي صَالَةِ الْمُغَادَرَةِ لِمُدَّةِ سَاعَةٍ.",
+      "exampleBs": "Putnici su čekali u odlaznoj hali sat vremena.",
+      "exampleEn": "The passengers waited in the departure lounge for an hour."
+    },
+    {
+      "arabic": "مَسَافَةٌ",
+      "root": "س ف ر",
+      "type": "noun",
+      "bs": "udaljenost, razdaljina",
+      "en": "distance",
+      "exampleArabic": "تَبْلُغُ الْمَسَافَةُ بَيْنَ الْمَدِينَتَيْنِ ثَلَاثَمِائَةِ كِيلُومِتْرٍ.",
+      "exampleBs": "Udaljenost između dva grada iznosi tristo kilometara.",
+      "exampleEn": "The distance between the two cities is three hundred kilometers."
+    },
+    {
+      "arabic": "مَسَارٌ",
+      "root": "س ي ر",
+      "type": "noun",
+      "bs": "ruta, pravac",
+      "en": "route, path",
+      "exampleArabic": "اخْتَرْنَا مَسَارًا سَاحِلِيًّا لِقُدُومِنَا أَجْمَلَ.",
+      "exampleBs": "Odabrali smo obalni pravac da nam putovanje bude ljepše.",
+      "exampleEn": "We chose a coastal route to make our journey more beautiful."
+    },
+    {
+      "arabic": "اسْتِئْجَارُ سَيَّارَةٍ",
+      "root": "أ ج ر",
+      "type": "noun",
+      "bs": "iznajmljivanje auta, rent-a-car",
+      "en": "car rental",
+      "exampleArabic": "قَرَّرَ اسْتِئْجَارَ سَيَّارَةٍ لِاسْتِكْشَافِ الْمَنْطِقَةِ بِحُرِّيَّةٍ.",
+      "exampleBs": "Odlučio je iznajmiti auto da slobodno istražuje regiju.",
+      "exampleEn": "He decided to rent a car to explore the region freely."
+    },
+    {
+      "arabic": "دَلِيلٌ سِيَاحِيٌّ",
+      "root": "د ل ل",
+      "type": "noun",
+      "bs": "turistički vodič (knjiga)",
+      "en": "travel guidebook",
+      "exampleArabic": "اشْتَرَى دَلِيلًا سِيَاحِيًّا شَامِلًا لِلْمَدِينَةِ قَبْلَ سَفَرِهِ.",
+      "exampleBs": "Kupio je sveobuhvatni turistički vodič za grad prije svog putovanja.",
+      "exampleEn": "He bought a comprehensive travel guidebook for the city before his trip."
+    },
+    {
+      "arabic": "رُسُومُ الدُّخُولِ",
+      "root": "د خ ل",
+      "type": "noun",
+      "bs": "ulaznica, ulazna naknada",
+      "en": "entry fee, admission fee",
+      "exampleArabic": "رُسُومُ الدُّخُولِ إِلَى الْمَتْحَفِ خَمْسَةُ دَرَاهِمَ لِلشَّخْصِ.",
+      "exampleBs": "Ulaznica za muzej iznosi pet dirhama po osobi.",
+      "exampleEn": "The admission fee to the museum is five dirhams per person."
+    },
+    {
+      "arabic": "خَرِيطَةٌ",
+      "root": "خ ر ط",
+      "type": "noun",
+      "bs": "mapa, karta",
+      "en": "map",
+      "exampleArabic": "فَتَحَ تَطْبِيقَ الْخَرِيطَةِ عَلَى هَاتِفِهِ لِإِيجَادِ الطَّرِيقِ.",
+      "exampleBs": "Otvorio je aplikaciju za mape na svom telefonu da pronađe put.",
+      "exampleEn": "He opened the map application on his phone to find the way."
+    },
+    {
+      "arabic": "مَنْطِقَةٌ حُرَّةٌ",
+      "root": "ح ر ر",
+      "type": "noun",
+      "bs": "slobodna zona, duty-free zona",
+      "en": "duty-free zone, free zone",
+      "exampleArabic": "اشْتَرَى بَعْضَ الْهَدَايَا مِنَ الْمَنْطِقَةِ الْحُرَّةِ فِي الْمَطَارِ.",
+      "exampleBs": "Kupio je neke poklone u duty-free zoni na aerodromu.",
+      "exampleEn": "He bought some gifts from the duty-free zone at the airport."
+    },
+    {
+      "arabic": "يُسَجِّلُ الْوُصُولَ",
+      "root": "س ج ل",
+      "type": "verb",
+      "bs": "prijavljuje se (u hotel/avion), vrši check-in",
+      "en": "he checks in",
+      "exampleArabic": "يُمْكِنُكَ تَسْجِيلُ الْوُصُولِ عَبْرَ الإِنْتَرْنِتِ قَبْلَ أَرْبَعَةٍ وَعِشْرِينَ سَاعَةً.",
+      "exampleBs": "Možeš se prijaviti online dvadeset i četiri sata ranije.",
+      "exampleEn": "You can check in online twenty-four hours in advance."
+    },
+    {
+      "arabic": "يَحْجِزُ",
+      "root": "ح ج ز",
+      "type": "verb",
+      "bs": "rezervira, zauzima",
+      "en": "he books, reserves",
+      "exampleArabic": "يَحْجِزُ الْفُنْدُقَ مُبَكِّرًا لِلْحُصُولِ عَلَى سِعْرٍ أَفْضَلَ.",
+      "exampleBs": "Rezervira hotel ranije kako bi dobio bolju cijenu.",
+      "exampleEn": "He books the hotel early to get a better price."
+    },
+    {
+      "arabic": "يَتَجَوَّلُ",
+      "root": "ج و ل",
+      "type": "verb",
+      "bs": "šeta okolo, obilazi",
+      "en": "he wanders, tours around",
+      "exampleArabic": "أَحَبَّ أَنْ يَتَجَوَّلَ فِي أَزِقَّةِ الْمَدِينَةِ الْقَدِيمَةِ.",
+      "exampleBs": "Volio je lutati ulicama starog grada.",
+      "exampleEn": "He loved to wander the alleys of the old city."
+    },
+    {
+      "arabic": "يَسْتَكْشِفُ",
+      "root": "ك ش ف",
+      "type": "verb",
+      "bs": "istražuje, otkriva",
+      "en": "he explores, discovers",
+      "exampleArabic": "يَسْتَكْشِفُ السَّائِحُونَ الثَّقَافَةَ الْمَحَلِّيَّةَ بِفَضُولٍ.",
+      "exampleBs": "Turisti s radoznalošću istražuju lokalnu kulturu.",
+      "exampleEn": "Tourists explore the local culture with curiosity."
+    },
+    {
+      "arabic": "هل يمكنني تغيير موعد حجزي؟",
+      "root": "ح ج ز",
+      "type": "phrase",
+      "bs": "Mogu li promijeniti termin rezervacije?",
+      "en": "Can I change my booking date?",
+      "exampleArabic": "هَلْ يُمْكِنُنِي تَغْيِيرُ مَوْعِدِ حَجْزِي دُونَ رُسُومٍ إِضَافِيَّةٍ؟",
+      "exampleBs": "Mogu li promijeniti datum rezervacije bez dodatnih troškova?",
+      "exampleEn": "Can I change my booking date without additional fees?"
+    },
+    {
+      "arabic": "أَيْنَ أَقْرَبُ مَوْقِفٍ؟",
+      "root": "و ق ف",
+      "type": "phrase",
+      "bs": "Gdje je najbliže parkiralište?",
+      "en": "Where is the nearest parking?",
+      "exampleArabic": "أَيْنَ أَقْرَبُ مَوْقِفٍ لِلسَّيَّارَاتِ مِنْ هُنَا؟",
+      "exampleBs": "Gdje je najbliže parkiralište odavde?",
+      "exampleEn": "Where is the nearest car park from here?"
+    },
+    {
+      "arabic": "رِحْلَةٌ ذَهَابًا وَإِيَابًا",
+      "root": "ذ ه ب",
+      "type": "phrase",
+      "bs": "povratna karta, putovanje tamo-natrag",
+      "en": "round trip",
+      "exampleArabic": "أُرِيدُ رِحْلَةً ذَهَابًا وَإِيَابًا إِلَى بَيْرُوتَ مِنْ فَضْلِكَ.",
+      "exampleBs": "Želim povratnu kartu za Bejrut, molim.",
+      "exampleEn": "I want a round trip to Beirut, please."
+    }
+  ]
+}
