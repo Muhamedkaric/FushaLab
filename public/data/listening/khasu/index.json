@@ -2,25 +2,25 @@
   "channelId": "khasu",
   "playlists": [
     {
-      "id": "khasu-beginner-phrases",
-      "nameBs": "Arapski za početnike — fraze i konverzacija",
-      "nameEn": "Arabic Conversation for Beginners",
-      "level": "A1",
+      "id": "beginners-en",
+      "nameBs": "Kurs za početnike (engleski)",
+      "nameEn": "Beginners Course (English)",
+      "level": "A1–A2",
       "locale": "en",
-      "descriptionBs": "Osnove arapske konverzacije za početnike. Najgledaniji video na kanalu ima 8,3 miliona pregleda.",
-      "descriptionEn": "Basic Arabic phrases and conversations for beginners. The top video has 8.3M views.",
-      "videoCount": null,
+      "descriptionBs": "Kompletan kurs arapskog za početnike na engleskom jeziku.",
+      "descriptionEn": "Complete Arabic course for beginners in English.",
+      "videoCount": 0,
       "coverVideoId": ""
     },
     {
-      "id": "khasu-comprehensible-input",
-      "nameBs": "Razumljivi input za učenje arapskog",
-      "nameEn": "Comprehensible Input for Arabic Learners",
-      "level": "A2",
-      "locale": "en",
-      "descriptionBs": "Spori, jasni govor na standardnom arapskom o svakodnevnim temama — dizajnirano za učenike.",
-      "descriptionEn": "Slow, clear MSA speech on everyday topics — designed for learners to follow without subtitles.",
-      "videoCount": null,
+      "id": "beginners-bs",
+      "nameBs": "Lekcije na bosanskom",
+      "nameEn": "Lessons in Bosnian",
+      "level": "A1–A2",
+      "locale": "bs",
+      "descriptionBs": "Odabrane lekcije na bosanskom jeziku.",
+      "descriptionEn": "Selected lessons in Bosnian.",
+      "videoCount": 0,
       "coverVideoId": ""
     }
   ]
