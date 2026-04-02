@@ -26,58 +26,6 @@ Everything below is working and deployed to production.
 
 These should be the first things tackled after v1.0.
 
-### QW1. "Continue Reading" on Home Page
-
-The single most valuable UX improvement. After any reading session, the home page should show:
-
-> _"Nastavi čitati → Travel B2 · tekst 14/80"_
-
-Read `fushalab_progress` from localStorage, find the last-read item by `completedAt` timestamp, render a single card with category + level + title.
-
-- No new hooks needed — `useProgress` already has timestamps
-- Single component, ~50 lines
-- Works immediately, no data changes
-
----
-
-### QW2. Font Size Control in Reader
-
-A simple +/− or slider control in the reader toolbar. Save to localStorage as `fushalab_fontsize`. Apply as `fontSize` on the Arabic `Typography` element.
-
-- One `useLocalStorage` hook call
-- Two icon buttons in reader header
-- Range: 1.2rem → 2.4rem in 0.2rem steps
-
----
-
-### QW3. Share a Text — Copy URL Button
-
-Every reading text already has a unique URL (`/reading/travel/B2/travel-b2-042`). Just add a "Copy link" icon button in the reader header that calls `navigator.clipboard.writeText(window.location.href)` with a 2-second "Copied!" tooltip feedback.
-
-- ~10 lines
-- No routing changes
-
----
-
-### QW4. Daily Goal Ring on Home Page
-
-Set a daily reading goal (default: 3 texts). Show a small animated SVG ring on the home page indicating today's progress. The ring fills gold when the goal is hit.
-
-- Computed from `completedAt` timestamps filtered to today (midnight boundary)
-- Small widget in the returning-user section
-- Goal configurable in a small popover: 1 / 3 / 5 / 10 texts
-
----
-
-### QW5. Smart "Hard" Text Review Queue
-
-Texts rated "Hard" should resurface as suggestions after 3–7 days. A lightweight SRS idea: on the LevelPage or home page, show a small "Ready for review" section — max 3 texts — filtered from `ratings.hard` + `completedAt` older than 72 hours.
-
-- Purely derived from existing progress data
-- No new storage keys
-
----
-
 ### QW6. Exercise Content — B1/B2 Reading-Based Packs
 
 The 16 exercise packs cover A1–B2 vocabulary topics. Add 8 more packs drawn directly from reading content — one pack per major reading category at B1 and B2. The exercises test words and sentences from real texts the learner has already seen.
@@ -394,13 +342,9 @@ Generate a shareable card from any reading text — Arabic text + translation + 
 
 | Priority | Feature | Effort | Value |
 | --- | --- | --- | --- |
-| 🥇 | QW1 — Continue Reading on Home | XS | 🔥🔥🔥 |
 | 🥇 | I3 — Vercel Analytics | XS | 🔥🔥🔥 |
-| 🥈 | QW2 — Font Size Control | XS | 🔥🔥 |
-| 🥈 | QW3 — Share URL Button | XS | 🔥🔥 |
 | 🥈 | I2 — Export/Import Progress | S | 🔥🔥🔥 |
 | 🥈 | I4 — KV Cross-Device Sync | M | 🔥🔥🔥 |
-| 🥉 | QW4 — Daily Goal Ring | S | 🔥🔥 |
 | 🥉 | I1 — PWA Offline | M | 🔥🔥 |
 | 🥉 | L3 — Smart Return Home | S | 🔥🔥 |
 | 🥉 | L1 — Level Placement Quiz | S | 🔥🔥 |
