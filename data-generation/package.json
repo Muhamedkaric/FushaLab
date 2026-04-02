@@ -4,7 +4,9 @@
   "type": "module",
   "scripts": {
     "generate": "tsx generate.ts",
-    "auto-generate": "tsx auto-generate.ts",
+    "generate-reading": "tsx generate-reading.ts",
+    "generate-exercises": "tsx generate-exercises.ts",
+    "auto-generate": "tsx generate-reading.ts",
     "validate": "tsx validate.ts"
   },
   "devDependencies": {
