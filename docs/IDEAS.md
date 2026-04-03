@@ -1,17 +1,15 @@
 # FushaLab — Ideas & Roadmap
 
-_Last updated: 2026-04-01 — v1.0 shipped. Full rewrite of this doc to reflect current state._
+_Last updated: 2026-04-04_
 
 ---
 
-## ✅ v1.0 — What's Built
+## ✅ Built & Deployed
 
-Everything below is working and deployed to production.
-
-| Section | Status |
+| Feature | Status |
 | --- | --- |
 | **Reading** — 2,400+ texts, B1–C2, 19 categories, difficulty rating, progress tracking | ✅ |
-| **Listening** — YouTube channel hub, playlists, embedded player, locale filter | ✅ |
+| **Listening** — YouTube channel hub, playlists, embedded player, auto lang filter | ✅ |
 | **Vocabulary** — word sets, flashcard study, root explorer, known-word tracking | ✅ |
 | **Conversation** — dialogue browser, phrase categories, TTS, role-play modes | ✅ |
 | **Exercises** — 16 packs (A1–B2), 7 exercise types, XP + star system | ✅ |
@@ -19,6 +17,8 @@ Everything below is working and deployed to production.
 | **Home** — word of day, section cards, returning-user welcome | ✅ |
 | **i18n** — Bosnian + English, full coverage | ✅ |
 | **Dark / light mode** | ✅ |
+| **Auth + cloud sync** — Supabase email auth, progress syncs across devices | ✅ |
+| **Listening — Khasu comprehensible input** — 10 easy Arabic videos, bs+en | ✅ |
 
 ---
 
@@ -108,17 +108,6 @@ The biggest quality-of-life improvement for mobile learners. Since all content i
 
 ---
 
-### I2. Export / Import Progress
-
-Since there's no backend, progress lives only in the user's localStorage. If they switch browsers or devices, they lose everything. Solution: a simple "Export" button on the progress page that downloads `fushalab_backup.json` (all four localStorage keys), and an "Import" button that reads the file back.
-
-- No backend needed
-- `JSON.stringify` + `Blob` + `URL.createObjectURL` for export
-- `FileReader` for import
-- 30-second implementation for high trust value
-
----
-
 ### I3. Vercel Analytics
 
 Vercel's free hobby tier includes **Web Analytics** (100K events/month) and **Speed Insights**. Adding it takes 2 lines:
@@ -140,23 +129,7 @@ This is genuinely useful for deciding what to build next — instead of guessing
 
 ---
 
-### I4. Vercel KV — Cross-Device Progress Sync
-
-Vercel KV (Redis) is available on the free hobby tier: **30MB storage, 30K daily reads**.
-
-With a single Edge Function + KV, you can offer optional anonymous sync:
-- On first visit: generate a random `userId` (UUID), store in localStorage
-- "Sync to cloud" button: sends all progress to `kv.set(userId, progress)`
-- On new device: enter your sync code → restores progress
-- No accounts, no passwords, no email — just a UUID
-
-30MB is more than enough for thousands of users' localStorage data (each user's progress is <50KB).
-
-**This is the one Vercel feature that unlocks real long-term value for learners who switch devices.**
-
----
-
-### I5. Vercel Edge Functions — Content Search API
+### I4. Vercel Edge Functions — Content Search API
 
 A lightweight API route (`/api/search?q=...`) that searches across all reading text titles and summaries. Since Vercel Edge Functions run on every request with no cold start, it's fast enough for a search-as-you-type experience.
 
@@ -285,15 +258,7 @@ These connect the conversation section to the exercise vocabulary content (same 
 
 These are significant enough to plan separately — not quick wins.
 
-### B1. User Accounts + Sync (Full)
-
-If the app grows beyond personal use, Vercel KV (I4) scales to a proper account system with email + password via a lightweight Edge Function. Progress, saved words, notes — all synced. Still no heavy backend, all Edge Functions + KV.
-
-Not needed now — I4's anonymous UUID sync solves 90% of the use case.
-
----
-
-### B2. AI Reading Assistant
+### B1. AI Reading Assistant
 
 An AI-powered "explain this sentence" button in the reader. User taps a sentence → sends it to an API (could be user's own API key, like the generation pipeline) → gets a grammatical breakdown and explanation in Bosnian.
 
@@ -334,7 +299,7 @@ Generate a shareable card from any reading text — Arabic text + translation + 
 | **Blob Storage** | 500MB | Store user audio recordings (future feature) |
 | **Bandwidth** | 100GB/month | No issues for a static content app at this scale |
 
-**Verdict:** Vercel Analytics + KV for cross-device sync are the two free-tier features worth adding soon. Analytics tells you what real users actually do. KV solves the biggest pain point (losing progress when switching devices) without needing accounts.
+**Verdict:** Vercel Analytics is the main free-tier feature still worth adding. Cross-device sync is already solved via Supabase auth.
 
 ---
 
@@ -343,10 +308,8 @@ Generate a shareable card from any reading text — Arabic text + translation + 
 | Priority | Feature | Effort | Value |
 | --- | --- | --- | --- |
 | 🥇 | I3 — Vercel Analytics | XS | 🔥🔥🔥 |
-| 🥈 | I2 — Export/Import Progress | S | 🔥🔥🔥 |
-| 🥈 | I4 — KV Cross-Device Sync | M | 🔥🔥🔥 |
-| 🥉 | I1 — PWA Offline | M | 🔥🔥 |
-| 🥉 | L3 — Smart Return Home | S | 🔥🔥 |
+| 🥈 | I1 — PWA Offline | M | 🔥🔥 |
+| 🥈 | L3 — Smart Return Home | S | 🔥🔥 |
 | 🥉 | L1 — Level Placement Quiz | S | 🔥🔥 |
 | — | C1 — Vocabulary in Generation | S | 🔥🔥🔥 (enables R1, R2) |
 | — | R1 — Tap-to-Look-Up | M | 🔥🔥🔥 |
