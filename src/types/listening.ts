@@ -22,7 +22,7 @@ export interface ListeningPlaylist {
   nameBs: string
   nameEn: string
   level: string
-  locale: ListeningLocale
+  locales: ListeningLocale[]
   descriptionBs: string
   descriptionEn: string
   videoCount?: number

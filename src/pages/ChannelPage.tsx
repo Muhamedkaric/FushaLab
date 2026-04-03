@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import {
   Box,
   Typography,
@@ -11,8 +10,6 @@ import {
   CircularProgress,
   Alert,
   Button,
-  ToggleButtonGroup,
-  ToggleButton,
 } from '@mui/material'
 import Grid from '@mui/material/Grid'
 import ArrowBackIcon from '@mui/icons-material/ArrowBack'
@@ -23,6 +20,7 @@ import { useNavigate } from '@tanstack/react-router'
 import { useI18n } from '@/i18n'
 import { useChannelIndex, usePlaylistIndex } from '@/hooks/useListeningFetch'
 import type { ListeningLocale, ListeningPlaylist } from '@/types/listening'
+
 
 const containerVariants = {
   hidden: {},
@@ -112,13 +110,10 @@ export function ChannelPage({ channelId }: Props) {
   const channelIndex = useChannelIndex()
   const playlistIndex = usePlaylistIndex(channelId)
 
-  const [localeFilter, setLocaleFilter] = useState<ListeningLocale | 'all'>(lang)
-
   const channel = channelIndex.data?.channels.find(ch => ch.id === channelId)
   const playlists = playlistIndex.data?.playlists ?? []
 
-  const filtered =
-    localeFilter === 'all' ? playlists : playlists.filter(pl => pl.locale === localeFilter)
+  const filtered = playlists.filter(pl => pl.locales.includes(lang as ListeningLocale))
 
   function getPlaylistName(pl: ListeningPlaylist) {
     return lang === 'bs' ? pl.nameBs : pl.nameEn
@@ -162,30 +157,9 @@ export function ChannelPage({ channelId }: Props) {
         </motion.div>
       )}
 
-      <Stack
-        direction="row"
-        alignItems="center"
-        justifyContent="space-between"
-        mb={3}
-        flexWrap="wrap"
-        gap={2}
-      >
-        <Typography variant="h6" fontWeight={600}>
-          {t.listening.playlists}
-        </Typography>
-        <ToggleButtonGroup
-          value={localeFilter}
-          exclusive
-          onChange={(_, val) => {
-            if (val) setLocaleFilter(val as ListeningLocale | 'all')
-          }}
-          size="small"
-        >
-          <ToggleButton value="all">{t.listening.filterAll}</ToggleButton>
-          <ToggleButton value="bs">{t.listening.filterBs}</ToggleButton>
-          <ToggleButton value="en">{t.listening.filterEn}</ToggleButton>
-        </ToggleButtonGroup>
-      </Stack>
+      <Typography variant="h6" fontWeight={600} mb={3}>
+        {t.listening.playlists}
+      </Typography>
 
       {loading && (
         <Box display="flex" justifyContent="center" py={8}>

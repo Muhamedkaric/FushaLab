@@ -129,7 +129,6 @@ export function PlaylistPage({ channelId, playlistId }: Props) {
 
   const playlist = playlistIndex.data?.playlists.find(pl => pl.id === playlistId)
   const videos = data?.videos.filter(v => v.youtubeId && v.youtubeId.length > 0) ?? []
-  const allVideos = data?.videos ?? []
 
   // auto-select first video with a real youtubeId
   useEffect(() => {
@@ -170,11 +169,11 @@ export function PlaylistPage({ channelId, playlistId }: Props) {
           <Typography variant="h5" fontWeight={700} mb={0.5}>
             {getPlaylistName()}
           </Typography>
-          {allVideos.length > 0 && (
+          {videos.length > 0 && (
             <Stack direction="row" alignItems="center" gap={1} mb={3}>
               <OndemandVideoIcon sx={{ fontSize: 16, color: 'text.secondary' }} />
               <Typography variant="body2" color="text.secondary">
-                {allVideos.length} {t.listening.videos}
+                {videos.length} {t.listening.videos}
               </Typography>
             </Stack>
           )}

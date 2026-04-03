@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import {
   Box,
   Typography,
@@ -10,8 +9,6 @@ import {
   CardContent,
   CircularProgress,
   Alert,
-  ToggleButtonGroup,
-  ToggleButton,
 } from '@mui/material'
 import Grid from '@mui/material/Grid'
 import HeadphonesIcon from '@mui/icons-material/Headphones'
@@ -22,6 +19,7 @@ import { useNavigate } from '@tanstack/react-router'
 import { useI18n } from '@/i18n'
 import { useChannelIndex } from '@/hooks/useListeningFetch'
 import type { ListeningChannel, ListeningLocale } from '@/types/listening'
+
 
 const containerVariants = {
   hidden: {},
@@ -88,13 +86,8 @@ export function ListeningPage() {
   const navigate = useNavigate()
   const { data, loading, error } = useChannelIndex()
 
-  const [localeFilter, setLocaleFilter] = useState<ListeningLocale | 'all'>(lang)
-
   const channels = data?.channels ?? []
-  const filtered =
-    localeFilter === 'all'
-      ? channels
-      : channels.filter(ch => ch.locales.includes(localeFilter as ListeningLocale))
+  const filtered = channels.filter(ch => ch.locales.includes(lang as ListeningLocale))
 
   function getDescription(ch: ListeningChannel) {
     return lang === 'bs' ? ch.descriptionBs : ch.descriptionEn
@@ -137,21 +130,6 @@ export function ListeningPage() {
           {t.listening.subtitle}
         </Typography>
       </motion.div>
-
-      <Stack direction="row" alignItems="center" gap={2} mb={3}>
-        <ToggleButtonGroup
-          value={localeFilter}
-          exclusive
-          onChange={(_, val) => {
-            if (val) setLocaleFilter(val as ListeningLocale | 'all')
-          }}
-          size="small"
-        >
-          <ToggleButton value="all">{t.listening.filterAll}</ToggleButton>
-          <ToggleButton value="bs">{t.listening.filterBs}</ToggleButton>
-          <ToggleButton value="en">{t.listening.filterEn}</ToggleButton>
-        </ToggleButtonGroup>
-      </Stack>
 
       {loading && (
         <Box display="flex" justifyContent="center" py={8}>
