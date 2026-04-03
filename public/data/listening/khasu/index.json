@@ -2,24 +2,24 @@
   "channelId": "khasu",
   "playlists": [
     {
+      "id": "comprehensible-input",
+      "nameBs": "Lako razumljivi arapski",
+      "nameEn": "Easy Arabic Listening",
+      "level": "A1–A2",
+      "locales": ["en", "bs"],
+      "descriptionBs": "Kratki videi na arapskom sa engleskim titlovima — razumljivi input za početnike. Idealno za engleski i bosanski govornike koji žele slušati pravi arapski od prvog dana.",
+      "descriptionEn": "Short Arabic videos with English subtitles — comprehensible input for beginners. Perfect for English and Bosnian learners who want real Arabic from day one.",
+      "videoCount": 10,
+      "coverVideoId": "LJLV0BeRAqY"
+    },
+    {
       "id": "beginners-en",
       "nameBs": "Kurs za početnike (engleski)",
       "nameEn": "Beginners Course (English)",
       "level": "A1–A2",
-      "locale": "en",
+      "locales": ["en"],
       "descriptionBs": "Kompletan kurs arapskog za početnike na engleskom jeziku.",
       "descriptionEn": "Complete Arabic course for beginners in English.",
-      "videoCount": 0,
-      "coverVideoId": ""
-    },
-    {
-      "id": "beginners-bs",
-      "nameBs": "Lekcije na bosanskom",
-      "nameEn": "Lessons in Bosnian",
-      "level": "A1–A2",
-      "locale": "bs",
-      "descriptionBs": "Odabrane lekcije na bosanskom jeziku.",
-      "descriptionEn": "Selected lessons in Bosnian.",
       "videoCount": 0,
       "coverVideoId": ""
     }
