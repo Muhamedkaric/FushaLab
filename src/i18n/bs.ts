@@ -263,4 +263,13 @@ export const bs: Translations = {
     comingSoon: 'Uskoro',
     backToHome: 'Nazad na početnu',
   },
+  auth: {
+    signIn: 'Prijava',
+    signUp: 'Registracija',
+    signOut: 'Odjava',
+    email: 'Email',
+    password: 'Lozinka',
+    checkEmail: 'Provjeri email za potvrdu naloga.',
+    passwordHint: 'Minimum 6 znakova.',
+  },
 }

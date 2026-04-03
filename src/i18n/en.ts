@@ -234,6 +234,15 @@ export interface Translations {
     comingSoon: string
     backToHome: string
   }
+  auth: {
+    signIn: string
+    signUp: string
+    signOut: string
+    email: string
+    password: string
+    checkEmail: string
+    passwordHint: string
+  }
 }
 
 export const en: Translations = {
@@ -489,5 +498,14 @@ export const en: Translations = {
     lightMode: 'Light Mode',
     comingSoon: 'Coming Soon',
     backToHome: 'Back to Home',
+  },
+  auth: {
+    signIn: 'Sign in',
+    signUp: 'Sign up',
+    signOut: 'Sign out',
+    email: 'Email',
+    password: 'Password',
+    checkEmail: 'Check your email to confirm your account.',
+    passwordHint: 'Minimum 6 characters.',
   },
 }

@@ -3,6 +3,7 @@ import { RouterProvider } from '@tanstack/react-router'
 import { ThemeProvider } from '@mui/material/styles'
 import CssBaseline from '@mui/material/CssBaseline'
 import { I18nProvider } from './i18n'
+import { AuthProvider } from './context/AuthContext'
 import { darkTheme, lightTheme } from './theme'
 import { createAppRouter } from './router'
 
@@ -22,7 +23,9 @@ export function App() {
     <ThemeProvider theme={isDark ? darkTheme : lightTheme}>
       <CssBaseline />
       <I18nProvider>
-        <RouterProvider router={router} />
+        <AuthProvider>
+          <RouterProvider router={router} />
+        </AuthProvider>
       </I18nProvider>
     </ThemeProvider>
   )

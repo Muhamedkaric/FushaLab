@@ -29,6 +29,7 @@ import LightModeIcon from '@mui/icons-material/LightMode'
 import AutoStoriesIcon from '@mui/icons-material/AutoStories'
 import { useNavigate, useRouterState } from '@tanstack/react-router'
 import { LanguageSwitcher } from './LanguageSwitcher'
+import { UserButton } from './UserButton'
 import { useI18n } from '@/i18n'
 
 const SIDEBAR_WIDTH = 220
@@ -170,13 +171,16 @@ export function Layout({ children, onToggleTheme, isDark }: Props) {
         <Divider />
 
         {/* Bottom controls */}
-        <Box sx={{ px: 2, py: 1.5, display: 'flex', alignItems: 'center', gap: 1 }}>
-          <LanguageSwitcher />
-          <Tooltip title={isDark ? t.common.lightMode : t.common.darkMode}>
-            <IconButton onClick={onToggleTheme} size="small" color="inherit">
-              {isDark ? <LightModeIcon fontSize="small" /> : <DarkModeIcon fontSize="small" />}
-            </IconButton>
-          </Tooltip>
+        <Box sx={{ px: 2, py: 1.5, display: 'flex', flexDirection: 'column', gap: 1 }}>
+          <UserButton />
+          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+            <LanguageSwitcher />
+            <Tooltip title={isDark ? t.common.lightMode : t.common.darkMode}>
+              <IconButton onClick={onToggleTheme} size="small" color="inherit">
+                {isDark ? <LightModeIcon fontSize="small" /> : <DarkModeIcon fontSize="small" />}
+              </IconButton>
+            </Tooltip>
+          </Box>
         </Box>
       </Drawer>
 
@@ -215,6 +219,7 @@ export function Layout({ children, onToggleTheme, isDark }: Props) {
             </Typography>
           </Box>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
+            <UserButton />
             <LanguageSwitcher />
             <IconButton onClick={onToggleTheme} size="small" color="inherit">
               {isDark ? <LightModeIcon fontSize="small" /> : <DarkModeIcon fontSize="small" />}
