@@ -269,7 +269,10 @@ export const bs: Translations = {
     signOut: 'Odjava',
     email: 'Email',
     password: 'Lozinka',
-    checkEmail: 'Provjeri email za potvrdu naloga.',
+    checkEmail: 'Provjeri email.',
     passwordHint: 'Minimum 6 znakova.',
+    forgotPassword: 'Zaboravljena lozinka?',
+    sendResetLink: 'Pošalji link za reset',
+    backToSignIn: 'Nazad na prijavu',
   },
 }

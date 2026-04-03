@@ -242,6 +242,9 @@ export interface Translations {
     password: string
     checkEmail: string
     passwordHint: string
+    forgotPassword: string
+    sendResetLink: string
+    backToSignIn: string
   }
 }
 
@@ -505,7 +508,10 @@ export const en: Translations = {
     signOut: 'Sign out',
     email: 'Email',
     password: 'Password',
-    checkEmail: 'Check your email to confirm your account.',
+    checkEmail: 'Check your email.',
     passwordHint: 'Minimum 6 characters.',
+    forgotPassword: 'Forgot password?',
+    sendResetLink: 'Send reset link',
+    backToSignIn: 'Back to sign in',
   },
 }

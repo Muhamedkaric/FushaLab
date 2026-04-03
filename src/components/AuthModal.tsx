@@ -21,10 +21,10 @@ interface Props {
 }
 
 export function AuthModal({ open, onClose }: Props) {
-  const { signIn, signUp } = useAuth()
+  const { signIn, signUp, resetPassword } = useAuth()
   const { t } = useI18n()
 
-  const [mode, setMode] = useState<'signin' | 'signup'>('signin')
+  const [mode, setMode] = useState<'signin' | 'signup' | 'reset'>('signin')
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [error, setError] = useState<string | null>(null)
@@ -37,8 +37,14 @@ export function AuthModal({ open, onClose }: Props) {
     setSuccess(null)
     setLoading(true)
 
-    const err =
-      mode === 'signup' ? await signUp(email, password) : await signIn(email, password)
+    let err = null
+    if (mode === 'signup') {
+      err = await signUp(email, password)
+    } else if (mode === 'reset') {
+      err = await resetPassword(email)
+    } else {
+      err = await signIn(email, password)
+    }
 
     setLoading(false)
 
@@ -47,10 +53,10 @@ export function AuthModal({ open, onClose }: Props) {
       return
     }
 
-    if (mode === 'signup') {
-      setSuccess(t.auth.checkEmail)
-    } else {
+    if (mode === 'signin') {
       onClose()
+    } else {
+      setSuccess(t.auth.checkEmail)
     }
   }
 
@@ -59,32 +65,37 @@ export function AuthModal({ open, onClose }: Props) {
     setPassword('')
     setError(null)
     setSuccess(null)
+    setMode('signin')
     onClose()
   }
 
   return (
     <Dialog open={open} onClose={handleClose} maxWidth="xs" fullWidth>
       <DialogTitle sx={{ pb: 0 }}>
-        <ToggleButtonGroup
-          value={mode}
-          exclusive
-          onChange={(_, v) => {
-            if (v) {
-              setMode(v as 'signin' | 'signup')
-              setError(null)
-              setSuccess(null)
-            }
-          }}
-          size="small"
-          fullWidth
-        >
-          <ToggleButton value="signin" sx={{ flex: 1 }}>
-            {t.auth.signIn}
-          </ToggleButton>
-          <ToggleButton value="signup" sx={{ flex: 1 }}>
-            {t.auth.signUp}
-          </ToggleButton>
-        </ToggleButtonGroup>
+        {mode === 'reset' ? (
+          t.auth.forgotPassword
+        ) : (
+          <ToggleButtonGroup
+            value={mode}
+            exclusive
+            onChange={(_, v) => {
+              if (v) {
+                setMode(v as 'signin' | 'signup')
+                setError(null)
+                setSuccess(null)
+              }
+            }}
+            size="small"
+            fullWidth
+          >
+            <ToggleButton value="signin" sx={{ flex: 1 }}>
+              {t.auth.signIn}
+            </ToggleButton>
+            <ToggleButton value="signup" sx={{ flex: 1 }}>
+              {t.auth.signUp}
+            </ToggleButton>
+          </ToggleButtonGroup>
+        )}
       </DialogTitle>
 
       <DialogContent sx={{ pt: 2 }}>
@@ -102,27 +113,54 @@ export function AuthModal({ open, onClose }: Props) {
             size="small"
             autoComplete="email"
           />
-          <TextField
-            label={t.auth.password}
-            type="password"
-            value={password}
-            onChange={e => setPassword(e.target.value)}
-            required
-            fullWidth
-            size="small"
-            autoComplete={mode === 'signup' ? 'new-password' : 'current-password'}
-            inputProps={{ minLength: 6 }}
-          />
+
+          {mode !== 'reset' && (
+            <TextField
+              label={t.auth.password}
+              type="password"
+              value={password}
+              onChange={e => setPassword(e.target.value)}
+              required
+              fullWidth
+              size="small"
+              autoComplete={mode === 'signup' ? 'new-password' : 'current-password'}
+              inputProps={{ minLength: 6 }}
+            />
+          )}
 
           <Button type="submit" variant="contained" fullWidth disabled={loading}>
             {loading ? (
               <CircularProgress size={20} color="inherit" />
             ) : mode === 'signin' ? (
               t.auth.signIn
-            ) : (
+            ) : mode === 'signup' ? (
               t.auth.signUp
+            ) : (
+              t.auth.sendResetLink
             )}
           </Button>
+
+          {mode === 'signin' && (
+            <Button
+              size="small"
+              variant="text"
+              onClick={() => { setMode('reset'); setError(null); setSuccess(null) }}
+              sx={{ alignSelf: 'center', fontSize: '0.75rem' }}
+            >
+              {t.auth.forgotPassword}
+            </Button>
+          )}
+
+          {mode === 'reset' && (
+            <Button
+              size="small"
+              variant="text"
+              onClick={() => { setMode('signin'); setError(null); setSuccess(null) }}
+              sx={{ alignSelf: 'center', fontSize: '0.75rem' }}
+            >
+              {t.auth.backToSignIn}
+            </Button>
+          )}
 
           {mode === 'signup' && (
             <Typography variant="caption" color="text.secondary" textAlign="center">
