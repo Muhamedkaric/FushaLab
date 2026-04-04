@@ -25,6 +25,7 @@ import type { Category, Level } from '@/types/content'
 import { useLevelManifest } from '@/hooks/useContentFetch'
 import { useProgress } from '@/hooks/useProgress'
 import { ProgressBadge } from '@/components/ProgressBadge'
+import { DownloadSection } from '@/components/DownloadSection'
 import { useI18n } from '@/i18n'
 
 const LEVELS: Level[] = ['B1', 'B2', 'C1', 'C2']
@@ -112,17 +113,20 @@ export function LevelPage({ category, level }: Props) {
                 · {data.items.filter(i => getRating(i.id) === 'easy').length} {t.reader.completed}
               </Typography>
             </Stack>
-            {data.items.some(i => getRating(i.id) === 'easy') && (
-              <Button
-                size="small"
-                variant="text"
-                startIcon={hideEasy ? <VisibilityIcon /> : <VisibilityOffIcon />}
-                onClick={() => setHideEasy(h => !h)}
-                sx={{ fontSize: '0.75rem' }}
-              >
-                {hideEasy ? t.reader.showCompleted : t.reader.hideCompleted}
-              </Button>
-            )}
+            <Stack direction="row" alignItems="center" gap={1}>
+              {data.items.some(i => getRating(i.id) === 'easy') && (
+                <Button
+                  size="small"
+                  variant="text"
+                  startIcon={hideEasy ? <VisibilityIcon /> : <VisibilityOffIcon />}
+                  onClick={() => setHideEasy(h => !h)}
+                  sx={{ fontSize: '0.75rem' }}
+                >
+                  {hideEasy ? t.reader.showCompleted : t.reader.hideCompleted}
+                </Button>
+              )}
+              <DownloadSection category={category} level={level} manifest={data} />
+            </Stack>
           </Stack>
 
           <List disablePadding sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>

@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import type { ContentItem, Category, Level } from '@/types/content'
+import { getContent } from '@/lib/offlineDB'
 
 export interface LevelManifest {
   items: Array<{ id: string; arabic: string; metadata: { difficulty: number; tags: string[] } }>
@@ -19,25 +20,45 @@ function useFetch<T>(url: string): FetchResult<T> {
   useEffect(() => {
     let cancelled = false
 
-    fetch(url)
-      .then(r => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`)
-        return r.json() as Promise<T>
-      })
-      .then(result => {
-        if (!cancelled) {
-          setData(result)
-          setError(null)
-          setFetchedUrl(url)
+    const load = async () => {
+      // Check offline cache first
+      try {
+        const cached = await getContent<T>(url)
+        if (cached !== undefined) {
+          if (!cancelled) {
+            setData(cached)
+            setError(null)
+            setFetchedUrl(url)
+          }
+          return
         }
-      })
-      .catch((err: unknown) => {
-        if (!cancelled) {
-          setData(null)
-          setError(err instanceof Error ? err.message : 'Unknown error')
-          setFetchedUrl(url)
-        }
-      })
+      } catch {
+        // IndexedDB unavailable — fall through to network
+      }
+
+      // Network fetch
+      fetch(url)
+        .then(r => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`)
+          return r.json() as Promise<T>
+        })
+        .then(result => {
+          if (!cancelled) {
+            setData(result)
+            setError(null)
+            setFetchedUrl(url)
+          }
+        })
+        .catch((err: unknown) => {
+          if (!cancelled) {
+            setData(null)
+            setError(err instanceof Error ? err.message : 'Unknown error')
+            setFetchedUrl(url)
+          }
+        })
+    }
+
+    void load()
 
     return () => {
       cancelled = true
