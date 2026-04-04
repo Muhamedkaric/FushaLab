@@ -4,27 +4,33 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "سَقَطَ أَخِي أَثْنَاءَ اللَّعِبِ بِكُرَةِ الْقَدَمِ فِي الْحَدِيقَةِ.",
-      "translation": "Moj brat je pao dok se igrao fudbala u bašti.",
-      "translationEn": "My brother fell while playing football in the garden."
+      "arabic": "ذَهَبَتْ رَنَا إِلَى الصَّيْدَلِيَّةِ لِتَشْتَرِيَ دَوَاءً لِلصُّدَاعِ.",
+      "translation": "Rana je otišla u apoteku da kupi lijek za glavobolju.",
+      "translationEn": "Rana went to the pharmacy to buy medicine for a headache."
     },
     {
-      "arabic": "نَظَّفْتُ الْجُرْحَ الصَّغِيرَ بِالْمَاءِ وَالصَّابُونِ بِعِنَايَةٍ.",
-      "translation": "Pažljivo sam očistio malu ranu vodom i sapunom.",
-      "translationEn": "I cleaned the small wound with water and soap carefully."
+      "arabic": "سَأَلَ الصَّيْدَلَانِيُّ إِذَا كَانَتْ تَأْخُذُ أَدْوِيَةً أُخْرَى.",
+      "translation": "Farmaceut je upitao da li uzima neke druge lijekove.",
+      "translationEn": "The pharmacist asked if she was taking any other medicines."
     },
     {
-      "arabic": "بَعْدَ ذَلِكَ، وَضَعْتُ ضِمَادَةً طِبِّيَّةً نَظِيفَةً عَلَى الْجُرْحِ.",
-      "translation": "Nakon toga, stavio sam čist medicinski zavoj na ranu.",
-      "translationEn": "After that, I put a clean medical bandage on the wound."
+      "arabic": "قَالَتْ لَا وَأَخَذَتِ الدَّوَاءَ الَّذِي أَوْصَى بِهِ.",
+      "translation": "Rekla je ne i uzela lijek koji je preporučio.",
+      "translationEn": "She said no and took the medicine he recommended."
+    },
+    {
+      "arabic": "تَنَاوَلَتِ الدَّوَاءَ مَعَ كُوبٍ مِنَ الْمَاءِ وَاسْتَرَاحَتْ.",
+      "translation": "Uzela je lijek s čašom vode i odmorila se.",
+      "translationEn": "She took the medicine with a glass of water and rested."
+    },
+    {
+      "arabic": "بَعْدَ سَاعَةٍ ذَهَبَ الصُّدَاعُ وَشَعَرَتْ بِتَحَسُّنٍ.",
+      "translation": "Nakon sat vremena glavobolja je prošla i osjetila se bolje.",
+      "translationEn": "After an hour the headache went away and she felt better."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "first aid",
-      "safety",
-      "accidents"
-    ]
+    "tags": ["headache", "pharmacy", "medicine", "rest"]
   }
 }

@@ -4,26 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "مِنَ الضَّرُورِيِّ زِيَارَةُ الطَّبِيبِ لِلْفَحْصِ الدَّوْرِيِّ مَرَّةً فِي السَّنَةِ.",
-      "translation": "Neophodno je posjetiti ljekara radi redovnog pregleda jednom godišnje.",
-      "translationEn": "It is necessary to visit the doctor for a regular check-up once a year."
+      "arabic": "اشْتَرَتْ سُهَيْلَةُ مِنَ الصَّيْدَلِيَّةِ فِيتَامِينَاتٍ لِلشِّتَاءِ.",
+      "translation": "Suheila je iz apoteke kupila vitamine za zimu.",
+      "translationEn": "Suhayla bought vitamins from the pharmacy for the winter."
     },
     {
-      "arabic": "يَفْحَصُ الطَّبِيبُ ضَغْطَ الدَّمِ وَنَبَضَاتِ الْقَلْبِ.",
-      "translation": "Ljekar provjerava krvni pritisak i otkucaje srca.",
-      "translationEn": "The doctor checks the blood pressure and the heart rate."
+      "arabic": "نَصَحَهَا الطَّبِيبُ بِأَخْذِ فِيتَامِينِ (د) فِي الشِّتَاءِ.",
+      "translation": "Ljekar joj je savjetovao uzimanje vitamina D zimi.",
+      "translationEn": "The doctor advised her to take vitamin D in winter."
     },
     {
-      "arabic": "تُسَاعِدُ الرِّعَايَةُ الْوِقَائِيَّةُ فِي اكْتِشَافِ الْمَشَاكِلِ الصِّحِّيَّةِ مُبَكِّرًا.",
-      "translation": "Preventivna njega pomaže u ranom otkrivanju zdravstvenih problema.",
-      "translationEn": "Preventive care helps in discovering health problems early."
+      "arabic": "تَأْخُذُ حَبَّةً وَاحِدَةً كُلَّ يَوْمٍ مَعَ الْإِفْطَارِ.",
+      "translation": "Uzima jednu tabletu svaki dan uz doručak.",
+      "translationEn": "She takes one tablet every day with breakfast."
+    },
+    {
+      "arabic": "لَمْ تَمْرَضْ هَذَا الشِّتَاءَ وَهِيَ سَعِيدَةٌ بِذَلِكَ.",
+      "translation": "Nije se razbolila ove zime i sretna je zbog toga.",
+      "translationEn": "She did not get sick this winter and is happy about that."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "preventive care",
-      "medicine"
-    ]
+    "tags": ["vitamins", "pharmacy", "winter", "prevention"]
   }
 }

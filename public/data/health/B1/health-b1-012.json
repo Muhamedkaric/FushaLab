@@ -4,27 +4,33 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "الطَّعَامُ الصِّحِّيُّ هُوَ أَسَاسُ الْجِسْمِ الْقَوِيِّ وَالْعَقْلِ السَّلِيمِ.",
-      "translation": "Zdrava hrana je osnova jakog tijela i zdravog uma.",
-      "translationEn": "Healthy food is the foundation of a strong body and a sound mind."
+      "arabic": "لَمْ يَنَمْ مَازِنٌ جَيِّدًا لِأَنَّهُ كَانَ قَلِقًا.",
+      "translation": "Mazin nije dobro spavao jer je bio zabrinut.",
+      "translationEn": "Mazin did not sleep well because he was worried."
     },
     {
-      "arabic": "نَحْنُ نَحْتَاجُ إِلَى تَنَاوُلِ الْخَضْرَاوَاتِ وَالْفَوَاكِهِ بِاسْتِمْرَارٍ.",
-      "translation": "Trebamo stalno jesti povrće i voće.",
-      "translationEn": "We need to eat vegetables and fruits constantly."
+      "arabic": "شَعَرَ فِي الصَّبَاحِ بِتَعَبٍ شَدِيدٍ.",
+      "translation": "Ujutro se osjetio jako umornim.",
+      "translationEn": "In the morning he felt very tired."
     },
     {
-      "arabic": "هَذِهِ الْأَطْعِمَةُ تَمْنَحُنَا الْفِيتَامِينَاتِ اللَّازِمَةَ لِلنُّمُوِّ.",
-      "translation": "Ove namirnice nam daju vitamine potrebne za rast.",
-      "translationEn": "These foods provide us with the vitamins necessary for growth."
+      "arabic": "نَصَحَهُ صَدِيقُهُ بِأَنْ يَبْتَعِدَ عَنِ الْهَاتِفِ قَبْلَ النَّوْمِ.",
+      "translation": "Prijatelj ga je savjetovao da odloži telefon prije spavanja.",
+      "translationEn": "His friend advised him to stay away from the phone before sleeping."
+    },
+    {
+      "arabic": "جَرَّبَ مَازِنٌ ذَلِكَ وَنَامَ بِشَكْلٍ أَفْضَلَ.",
+      "translation": "Mazin je to isprobao i bolje je spavao.",
+      "translationEn": "Mazin tried that and slept much better."
+    },
+    {
+      "arabic": "أَصْبَحَ يَنَامُ مُبَكِّرًا وَيَسْتَيْقِظُ نَشِيطًا.",
+      "translation": "Počeo je rano ići na spavanje i buditi se svjež.",
+      "translationEn": "He started going to sleep early and waking up energetic."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "nutrition",
-      "healthy food",
-      "vitamins"
-    ]
+    "tags": ["sleep", "phone", "rest", "routine"]
   }
 }

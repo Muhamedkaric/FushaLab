@@ -4,32 +4,33 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "شُرْبُ الْمَاءِ مُهِمٌّ جِدًّا لِصِحَّةِ الْجِسْمِ.",
-      "translation": "Pijenje vode je veoma važno za zdravlje tijela.",
-      "translationEn": "Drinking water is very important for the health of the body."
+      "arabic": "شَعَرَ كَرِيمٌ بِأَلَمٍ فِي رَأْسِهِ وَذَهَبَ إِلَى الطَّبِيبِ.",
+      "translation": "Karim je osjetio bol u glavi i otišao je kod ljekara.",
+      "translationEn": "Karim had a headache and went to the doctor."
     },
     {
-      "arabic": "يَنْصَحُ الْأَطِبَّاءُ بِشُرْبِ ثَمَانِيَةِ أَكْوَابٍ مِنَ الْمَاءِ كُلَّ يَوْمٍ.",
-      "translation": "Ljekari preporučuju pijenje osam čaša vode svakog dana.",
-      "translationEn": "Doctors recommend drinking eight glasses of water every day."
+      "arabic": "قَالَ لَهُ الطَّبِيبُ أَنْ يَسْتَرِيحَ وَيَشْرَبَ كَثِيرًا مِنَ الْمَاءِ.",
+      "translation": "Ljekar mu je rekao da se odmori i da pije puno vode.",
+      "translationEn": "The doctor told him to rest and drink a lot of water."
     },
     {
-      "arabic": "يُسَاعِدُ الْمَاءُ فِي تَحْسِينِ الْهَضْمِ وَنَضَارَةِ الْبَشَرَةِ.",
-      "translation": "Voda pomaže u poboljšanju probave i svježini kože.",
-      "translationEn": "Water helps in improving digestion and skin radiance."
+      "arabic": "كَتَبَ الطَّبِيبُ لَهُ وَصْفَةً لِدَوَاءٍ بَسِيطٍ.",
+      "translation": "Ljekar mu je napisao recept za jednostavan lijek.",
+      "translationEn": "The doctor wrote him a prescription for a simple medicine."
     },
     {
-      "arabic": "يَجِبُ عَلَيْنَا أَنْ نَحْمِلَ زُجَاجَةَ مَاءٍ مَعَنَا دَائِمًا.",
-      "translation": "Uvijek trebamo nositi flašu vode sa sobom.",
-      "translationEn": "We must always carry a water bottle with us."
+      "arabic": "ذَهَبَ كَرِيمٌ إِلَى الصَّيْدَلِيَّةِ وَاشْتَرَى الدَّوَاءَ.",
+      "translation": "Karim je otišao u apoteku i kupio lijek.",
+      "translationEn": "Karim went to the pharmacy and bought the medicine."
+    },
+    {
+      "arabic": "بَعْدَ يَوْمَيْنِ شَعَرَ بِتَحَسُّنٍ كَبِيرٍ.",
+      "translation": "Nakon dva dana osjetio se mnogo bolje.",
+      "translationEn": "After two days he felt much better."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "nutrition",
-      "healthy habits",
-      "water"
-    ]
+    "tags": ["doctor", "headache", "medicine", "pharmacy"]
   }
 }

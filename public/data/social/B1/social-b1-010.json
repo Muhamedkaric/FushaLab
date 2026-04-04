@@ -4,27 +4,32 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "يَقْرَأُ النَّاسُ الْأَخْبَارَ الْيَوْمِيَّةَ مِنْ خِلَالِ الْمَوَاقِعِ الْإِلِكْتْرُونِيَّةِ.",
-      "translation": "Ljudi čitaju dnevne vijesti putem elektronskih stranica.",
-      "translationEn": "People read daily news through electronic websites."
+      "arabic": "ضَاعَ عَلِيٌّ فِي المَدِينَةِ وَلَمْ يَعْرِفِ الطَّرِيقَ.",
+      "translation": "Ali se izgubio u gradu i nije znao put.",
+      "translationEn": "Ali got lost in the city and didn't know the way."
     },
     {
-      "arabic": "تَنْتَشِرُ الْمَعْلُومَاتُ بِسُرْعَةٍ كَبِيرَةٍ عَلَى مَوَاقِعِ التَّوَاصُلِ.",
-      "translation": "Informacije se šire veoma brzo na društvenim mrežama.",
-      "translationEn": "Information spreads very quickly on social media sites."
+      "arabic": "سَأَلَ شَخْصًا فِي الشَّارِعِ عَنِ المَحَطَّةِ.",
+      "translation": "Pitao je osobu na ulici za stanicu.",
+      "translationEn": "He asked a person on the street about the station."
     },
     {
-      "arabic": "لِذَلِكَ، مِنَ الْمُهِمِّ التَّأَكُّدُ مِنْ صِحَّةِ الْخَبَرِ قَبْلَ نَشْرِهِ.",
-      "translation": "Zbog toga je važno provjeriti tačnost vijesti prije njenog objavljivanja.",
-      "translationEn": "Therefore, it is important to verify the authenticity of the news before publishing it."
+      "arabic": "أَخْبَرَهُ الشَّخْصُ أَنْ يَمْشِيَ لِلْيَمِينِ.",
+      "translation": "Osoba mu je rekla neka ide desno.",
+      "translationEn": "The person told him to walk to the right."
+    },
+    {
+      "arabic": "شَكَرَ عَلِيٌّ الشَّخْصَ وَمَشَى.",
+      "translation": "Ali je zahvalio osobi i pošao.",
+      "translationEn": "Ali thanked the person and walked away."
     }
   ],
   "metadata": {
     "difficulty": 1,
     "tags": [
-      "online news",
-      "information",
-      "social media"
+      "directions",
+      "lost",
+      "city"
     ]
   }
 }

@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "يَلْتَقِي زَعِيمَا الْبَلَدَيْنِ فِي قِمَّةٍ ثُنَائِيَّةٍ لِبَحْثِ الْعَلَاقَاتِ الدِّبْلُومَاسِيَّةِ.",
-      "translation": "Lideri dviju zemalja se susreću na bilateralnom samitu radi razmatranja diplomatskih odnosa.",
-      "translationEn": "The leaders of the two countries meet at a bilateral summit to discuss diplomatic relations."
+      "arabic": "نَظَّمَ نَادِي الشَّبَابِ مَسَابَقَةً فِي السِّبَاحَةِ.",
+      "translation": "Omladinski klub organizovao je takmičenje u plivanju.",
+      "translationEn": "The youth club organized a swimming competition."
+    },
+    {
+      "arabic": "شَارَكَ فِيهَا أَكْثَرُ مِنْ عِشْرِينَ طِفْلًا.",
+      "translation": "Učestvovalo je više od dvadeset djece.",
+      "translationEn": "More than twenty children participated in it."
+    },
+    {
+      "arabic": "فَازَتْ سَارَةُ بِالْمَرْكَزِ الأَوَّلِ فِي فِئَتِهَا.",
+      "translation": "Sara je zauzela prvo mjesto u svojoj kategoriji.",
+      "translationEn": "Sara won first place in her category."
+    },
+    {
+      "arabic": "حَصَلَ الْفَائِزُونَ عَلَى كُؤُوسٍ وَشَهَادَاتٍ تَقْدِيرِيَّةٍ.",
+      "translation": "Pobjednici su dobili pehare i pohvalnice.",
+      "translationEn": "The winners received trophies and certificates of appreciation."
     }
   ],
   "metadata": {
-    "difficulty": 2,
-    "tags": [
-      "news",
-      "diplomacy",
-      "summit"
-    ]
+    "difficulty": 1,
+    "tags": ["sports", "swimming", "youth"]
   }
 }

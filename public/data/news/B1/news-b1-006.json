@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "وَصَلَ وَفْدٌ تِجَارِيٌّ مِنَ الصِّينِ إِلَى الْعَاصِمَةِ لِبَحْثِ فُرَصِ الِاسْتِثْمَارِ.",
-      "translation": "Trgovačka delegacija iz Kine stigla je u glavni grad radi razmatranja investicijskih mogućnosti.",
-      "translationEn": "A trade delegation from China arrived in the capital to explore investment opportunities."
+      "arabic": "أَقَامَتِ الْمَدِينَةُ مَهْرَجَانًا لِلطَّعَامِ هَذَا الأُسْبُوعَ.",
+      "translation": "Grad je ovog sedmice organizovao festival hrane.",
+      "translationEn": "The city held a food festival this week."
+    },
+    {
+      "arabic": "قَدَّمَ الطُّهَاةُ أَطْبَاقًا لَذِيذَةً مِنْ بُلْدَانٍ مُخْتَلِفَةٍ.",
+      "translation": "Kuvari su ponudili ukusna jela iz različitih zemalja.",
+      "translationEn": "The chefs offered delicious dishes from different countries."
+    },
+    {
+      "arabic": "جَرَّبَ الزُّوَّارُ الأَكْلَ وَأَعْجَبَهُمْ كَثِيرًا.",
+      "translation": "Posjetioci su probali hranu i jako im se svidjela.",
+      "translationEn": "The visitors tried the food and liked it a lot."
+    },
+    {
+      "arabic": "يَسْتَمِرُّ الْمَهْرَجَانُ حَتَّى نِهَايَةِ الأُسْبُوعِ.",
+      "translation": "Festival traje do kraja sedmice.",
+      "translationEn": "The festival continues until the end of the week."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "news",
-      "trade",
-      "diplomacy"
-    ]
+    "tags": ["food", "festival", "city events"]
   }
 }

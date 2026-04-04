@@ -4,16 +4,32 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "حَجَزْتُ غُرْفَةً فِي فُنْدُقٍ قَرِيبٍ مِنَ الْمَطَارِ.",
-      "translation": "Rezervisao sam sobu u hotelu blizu aerodroma.",
-      "translationEn": "I booked a room in a hotel near the airport."
+      "arabic": "سَأَلَ عُمَرُ رَجُلًا عَنِ الطَّرِيقِ إِلَى الْمَتْحَفِ.",
+      "translation": "Omer je pitao čovjeka za put do muzeja.",
+      "translationEn": "Omar asked a man for directions to the museum."
+    },
+    {
+      "arabic": "قَالَ الرَّجُلُ: امْشِ إِلَى الْيَمِينِ ثُمَّ إِلَى الْيَسَارِ.",
+      "translation": "Čovjek je rekao: Idi desno pa lijevo.",
+      "translationEn": "The man said: Go right then left."
+    },
+    {
+      "arabic": "شَكَرَ عُمَرُ الرَّجُلَ وَمَشَى بِسُرْعَةٍ.",
+      "translation": "Omer mu je zahvalio i brzo krenuo.",
+      "translationEn": "Omar thanked the man and walked quickly."
+    },
+    {
+      "arabic": "وَصَلَ إِلَى الْمَتْحَفِ بَعْدَ عَشْرِ دَقَائِقَ.",
+      "translation": "Stigao je do muzeja nakon deset minuta.",
+      "translationEn": "He reached the museum after ten minutes."
     }
   ],
   "metadata": {
     "difficulty": 1,
     "tags": [
-      "travel",
-      "accommodation"
+      "directions",
+      "museum",
+      "city"
     ]
   }
 }

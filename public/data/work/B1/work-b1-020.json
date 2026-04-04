@@ -4,27 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "يَحْتَاجُ الْمُوَظَّفُونَ الْعَصْرِيُّونَ إِلَى مَهَارَاتٍ تَقْنِيَّةٍ مُتَنَوِّعَةٍ.",
-      "translation": "Savremeni zaposlenici trebaju raznovrsne tehničke vještine.",
-      "translationEn": "Modern employees need various technical skills."
+      "arabic": "نَسِيَ جَعْفَرٌ أَنْ يُرْسِلَ وَثِيقَةً مُهِمَّةً إِلَى الْمُدِيرِ.",
+      "translation": "Džafer je zaboravio poslati važan dokument direktoru.",
+      "translationEn": "Jaafar forgot to send an important document to the manager."
     },
     {
-      "arabic": "تَعَلُّمُ لُغَةٍ جَدِيدَةٍ يُسَاعِدُ فِي التَّوَاصُلِ مَعَ الْعُمَلَاءِ الدُّوَلِيِّينَ.",
-      "translation": "Učenje novog jezika pomaže u komunikaciji sa međunarodnim klijentima.",
-      "translationEn": "Learning a new language helps in communicating with international clients."
+      "arabic": "تَذَكَّرَ ذَلِكَ فِي نِهَايَةِ الْيَوْمِ قَبْلَ مُغَادَرَةِ الْمَكْتَبِ.",
+      "translation": "Sjetio se toga na kraju dana prije napuštanja kancelarije.",
+      "translationEn": "He remembered it at the end of the day before leaving the office."
     },
     {
-      "arabic": "كَمَا أَنَّ مَهَارَاتِ الْحَاسُوبِ ضَرُورِيَّةٌ فِي كُلِّ مِهْنَةٍ الْيَوْمَ.",
-      "translation": "Takođe, vještine rada na računaru su danas neophodne u svakoj profesiji.",
-      "translationEn": "Also, computer skills are essential in every profession today."
+      "arabic": "أَرْسَلَ الْوَثِيقَةَ فَوْرًا وَاعْتَذَرَ لِلْمُدِيرِ.",
+      "translation": "Odmah je poslao dokument i izvinio se direktoru.",
+      "translationEn": "He sent the document immediately and apologised to the manager."
+    },
+    {
+      "arabic": "قَالَ الْمُدِيرُ لَا بَأْسَ وَشَكَرَهُ عَلَى الْإِرْسَالِ.",
+      "translation": "Direktor je rekao nema problema i zahvalio mu na slanju.",
+      "translationEn": "The manager said no problem and thanked him for sending it."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "professional skills",
-      "technology",
-      "communication"
-    ]
+    "tags": ["document", "email", "apology", "office"]
   }
 }

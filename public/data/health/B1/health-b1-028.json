@@ -4,26 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "ذَهَبَ أَحْمَدُ إِلَى الصَّيْدَلِيَّةِ لِشِرَاءِ بَعْضِ الدَّوَاءِ.",
-      "translation": "Ahmed je otišao u apoteku da kupi neki lijek.",
-      "translationEn": "Ahmad went to the pharmacy to buy some medicine."
+      "arabic": "كَانَتِ الطِّفْلَةُ سُكَيْنَةُ مَرِيضَةً وَلَمْ تَنَمْ جَيِّدًا.",
+      "translation": "Mala Sukejna je bila bolesna i nije dobro spavala.",
+      "translationEn": "The girl Sukayna was sick and did not sleep well."
     },
     {
-      "arabic": "شَرَحَ الصَّيْدَلِيُّ كَيْفِيَّةَ اسْتِخْدَامِ العِلَاجِ بِشَكْلٍ صَحِيحٍ.",
-      "translation": "Apotekar je objasnio kako se pravilno koristi terapija.",
-      "translationEn": "The pharmacist explained how to use the treatment correctly."
+      "arabic": "جَلَسَتْ أُمُّهَا بِجَانِبِهَا طَوَالَ اللَّيْلِ.",
+      "translation": "Majka je sjedila kraj nje cijelu noć.",
+      "translationEn": "Her mother sat beside her all night."
     },
     {
-      "arabic": "مِنَ الضَّرُورِيِّ اتِّبَاعُ تَعْلِيمَاتِ الطَّبِيبِ بِدِقَّةٍ.",
-      "translation": "Neophodno je precizno slijediti ljekarska uputstva.",
-      "translationEn": "It is necessary to follow the doctor's instructions accurately."
+      "arabic": "أَعْطَتْهَا الدَّوَاءَ وَرَوَتْ لَهَا قِصَّةً.",
+      "translation": "Dala joj je lijek i ispričala joj priču.",
+      "translationEn": "She gave her the medicine and told her a story."
+    },
+    {
+      "arabic": "فِي الصَّبَاحِ انْخَفَضَتِ الْحَرَارَةُ وَابْتَسَمَتْ سُكَيْنَةُ.",
+      "translation": "Ujutro je temperatura opala i Sukejne se nasmiješila.",
+      "translationEn": "In the morning the temperature went down and Sukayna smiled."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "pharmacy",
-      "medicine"
-    ]
+    "tags": ["sick child", "fever", "mother", "medicine"]
   }
 }

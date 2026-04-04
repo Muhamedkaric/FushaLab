@@ -4,27 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "ذَهَبَ أَحْمَدُ إِلَى الصَّيْدَلِيَّةِ لِيَشْتَرِيَ دَوَاءً لِلسُّعَالِ.",
-      "translation": "Ahmed je otišao u apoteku da kupi lijek za kašalj.",
-      "translationEn": "Ahmed went to the pharmacy to buy cough medicine."
+      "arabic": "تَحْرِصُ مَنَالٌ عَلَى شُرْبِ الْحَلِيبِ كُلَّ يَوْمٍ.",
+      "translation": "Manal vodi brigu da svaki dan pije mlijeko.",
+      "translationEn": "Manal makes sure to drink milk every day."
     },
     {
-      "arabic": "طَلَبَ الصَّيْدَلَانِيُّ مِنْهُ الْوَصْفَةَ الطِّبِّيَّةَ.",
-      "translation": "Farmaceut je od njega tražio ljekarski recept.",
-      "translationEn": "The pharmacist asked him for the medical prescription."
+      "arabic": "تَعْلَمُ أَنَّ الْحَلِيبَ يُقَوِّي الْعِظَامَ وَالْأَسْنَانَ.",
+      "translation": "Zna da mlijeko jača kosti i zube.",
+      "translationEn": "She knows that milk strengthens bones and teeth."
     },
     {
-      "arabic": "اشْتَرَى أَيْضًا بَعْضَ الْمُعَقِّمَاتِ وَالضِّمَادَاتِ لِلْإِسْعَافَاتِ الْأَوَّلِيَّةِ.",
-      "translation": "Kupio je i neka sredstva za dezinfekciju i zavoje za prvu pomoć.",
-      "translationEn": "He also bought some disinfectants and bandages for first aid."
+      "arabic": "تَشْرَبُهُ فِي الصَّبَاحِ مَعَ الْإِفْطَارِ.",
+      "translation": "Pije ga ujutro uz doručak.",
+      "translationEn": "She drinks it in the morning with breakfast."
+    },
+    {
+      "arabic": "أَحْيَانًا تُضِيفُ إِلَيْهِ قَلِيلًا مِنَ الْعَسَلِ.",
+      "translation": "Ponekad dodaje malo meda u njega.",
+      "translationEn": "Sometimes she adds a little honey to it."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "pharmacy",
-      "medicine",
-      "first aid"
-    ]
+    "tags": ["milk", "calcium", "bones", "breakfast"]
   }
 }

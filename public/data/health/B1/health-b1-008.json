@@ -4,26 +4,33 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "شَعَرَ خَالِدٌ بِأَلَمٍ فِي رَأْسِهِ هَذَا الصَّبَاحَ.",
-      "translation": "Halid je osjetio bol u glavi jutros.",
-      "translationEn": "Khalid felt a pain in his head this morning."
+      "arabic": "شَعَرَتْ نُورٌ بِأَلَمٍ فِي مَعِدَتِهَا بَعْدَ الْغَدَاءِ.",
+      "translation": "Nur je osjetila bol u stomaku nakon ručka.",
+      "translationEn": "Nour felt stomach pain after lunch."
     },
     {
-      "arabic": "ذَهَبَ إِلَى الصَّيْدَلِيَّةِ لِيَشْتَرِيَ الدَّوَاءَ الْمُنَاسِبَ.",
-      "translation": "Otišao je u apoteku da kupi odgovarajući lijek.",
-      "translationEn": "He went to the pharmacy to buy the appropriate medicine."
+      "arabic": "لَمْ تَأْكُلْ كَثِيرًا فِي الْعَشَاءِ وَشَرِبَتِ الشَّايَ.",
+      "translation": "Nije puno jela za večeru i popila je čaj.",
+      "translationEn": "She did not eat much at dinner and drank tea."
     },
     {
-      "arabic": "قَالَ لَهُ الصَّيْدَلِيُّ: خُذْ هَذِهِ الْحُبُوبَ بَعْدَ الْأَكْلِ.",
-      "translation": "Farmaceut mu je rekao: Uzmi ove tablete nakon jela.",
-      "translationEn": "The pharmacist told him: Take these pills after eating."
+      "arabic": "فِي الصَّبَاحِ ذَهَبَتْ إِلَى الطَّبِيبِ لِتَعْرِفَ السَّبَبَ.",
+      "translation": "Ujutro je otišla kod ljekara da sazna razlog.",
+      "translationEn": "In the morning she went to the doctor to find the reason."
+    },
+    {
+      "arabic": "قَالَ لَهَا الطَّبِيبُ أَلَّا تَأْكُلَ الطَّعَامَ الدَّسِمَ.",
+      "translation": "Ljekar joj je rekao da ne jede masnu hranu.",
+      "translationEn": "The doctor told her not to eat fatty food."
+    },
+    {
+      "arabic": "اتَّبَعَتْ نُورٌ نَصِيحَةَ الطَّبِيبِ وَشَعَرَتْ بِتَحَسُّنٍ.",
+      "translation": "Nur je slijedila savjet ljekara i osjetila poboljšanje.",
+      "translationEn": "Nour followed the doctor's advice and felt better."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "medicine",
-      "pharmacy"
-    ]
+    "tags": ["stomach", "doctor", "diet", "advice"]
   }
 }

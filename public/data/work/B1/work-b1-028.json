@@ -4,26 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "أَصِلُ إِلَى الْمَكْتَبِ فِي السَّاعَةِ الثَّامِنَةِ صَبَاحاً كُلَّ يَوْمٍ.",
-      "translation": "Svaki dan dolazim u ured u osam sati ujutro.",
-      "translationEn": "I arrive at the office at eight o'clock every morning."
+      "arabic": "طَلَبَ مُدِيرُ الْقِسْمِ مِنْ عَامِرٍ أَنْ يُنَظِّمَ الْأَرْشِيفَ.",
+      "translation": "Šef odjela je tražio od Amira da organizira arhivu.",
+      "translationEn": "The department manager asked Amer to organise the archive."
     },
     {
-      "arabic": "أَقُومُ بِمُرَاجَعَةِ بَرِيدِي الْإِلِكْتُرُونِيِّ وَتَنْظِيمِ جَدْوَلِ أَعْمَالِي.",
-      "translation": "Pregledam svoju e-poštu i organizujem svoj raspored rada.",
-      "translationEn": "I check my email and organize my work schedule."
+      "arabic": "بَدَأَ عَامِرٌ يُرَتِّبُ الْمَجَلَّدَاتِ حَسَبَ التَّارِيخِ.",
+      "translation": "Amir je počeo slagati fascikle po datumu.",
+      "translationEn": "Amer started arranging the folders according to date."
     },
     {
-      "arabic": "أَشْرَبُ الْقَهْوَةَ مَعَ زُمَلَائِي قَبْلَ بَدْءِ الِاجْتِمَاعِ الْأُسْبُوعِيِّ.",
-      "translation": "Pijem kafu sa kolegama prije početka sedmičnog sastanka.",
-      "translationEn": "I drink coffee with my colleagues before starting the weekly meeting."
+      "arabic": "اسْتَغْرَقَ الْعَمَلُ سَاعَتَيْنِ وَلَكِنَّهُ انْتَهَى بِشَكْلٍ جَيِّدٍ.",
+      "translation": "Posao je trajao dva sata ali je dobro završen.",
+      "translationEn": "The work took two hours but it ended well."
+    },
+    {
+      "arabic": "مَدَحَهُ الْمُدِيرُ عَلَى التَّرْتِيبِ الْجَيِّدِ.",
+      "translation": "Direktor ga je pohvalio za dobro sređivanje.",
+      "translationEn": "The manager praised him for the good arrangement."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "daily routine",
-      "productivity"
-    ]
+    "tags": ["archive", "organisation", "office task", "praise"]
   }
 }

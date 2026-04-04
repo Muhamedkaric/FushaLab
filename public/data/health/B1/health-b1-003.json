@@ -4,27 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "مُمَارَسَةُ الرِّيَاضَةِ عَادَةٌ صِحِّيَّةٌ تَمْنَحُنَا الطَّاقَةَ.",
-      "translation": "Vježbanje je zdrava navika koja nam daje energiju.",
-      "translationEn": "Exercising is a healthy habit that gives us energy."
+      "arabic": "يَذْهَبُ أَحْمَدُ إِلَى الْمَلْعَبِ كُلَّ صَبَاحٍ.",
+      "translation": "Ahmed ide na sportski teren svako jutro.",
+      "translationEn": "Ahmed goes to the sports field every morning."
     },
     {
-      "arabic": "أَمْشِي لِمُدَّةِ نِصْفِ سَاعَةٍ فِي الْحَدِيقَةِ كُلَّ صَبَاحٍ.",
-      "translation": "Svako jutro šetam pola sata u parku.",
-      "translationEn": "I walk for half an hour in the park every morning."
+      "arabic": "يَجْرِي لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً ثُمَّ يَسْتَرِيحُ.",
+      "translation": "Trči trideset minuta, a zatim se odmori.",
+      "translationEn": "He runs for thirty minutes and then rests."
     },
     {
-      "arabic": "الرِّيَاضَةُ تُقَوِّي الْقَلْبَ وَالْعَضَلَاتِ وَتُقَلِّلُ التَّوَتُّرَ.",
-      "translation": "Sport jača srce i mišiće i smanjuje stres.",
-      "translationEn": "Sports strengthen the heart and muscles and reduce stress."
+      "arabic": "يُحِبُّ الرِّيَاضَةَ لِأَنَّهَا تَجْعَلُهُ يَشْعُرُ بِالنَّشَاطِ.",
+      "translation": "Voli sport jer ga čini aktivnim.",
+      "translationEn": "He loves sport because it makes him feel active."
+    },
+    {
+      "arabic": "بَعْدَ التَّمَارِينِ يَشْرَبُ كُوبًا كَبِيرًا مِنَ الْمَاءِ.",
+      "translation": "Nakon vježbanja pije veliku čašu vode.",
+      "translationEn": "After exercise he drinks a large glass of water."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "exercise",
-      "physical health",
-      "fitness"
-    ]
+    "tags": ["exercise", "running", "sport", "morning"]
   }
 }

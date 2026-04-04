@@ -4,32 +4,33 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "ذَهَبْتُ إِلَى الصَّيْدَلِيَّةِ أَمْسِ لِشِرَاءِ بَعْضِ الدَّوَاءِ.",
-      "translation": "Jučer sam otišao u apoteku da kupim neki lijek.",
-      "translationEn": "I went to the pharmacy yesterday to buy some medicine."
+      "arabic": "أَكَلَتْ سَلْمَى خُضَرَوَاتٍ طَازَجَةً كُلَّ يَوْمٍ.",
+      "translation": "Salma je jela svježe povrće svaki dan.",
+      "translationEn": "Salma ate fresh vegetables every day."
     },
     {
-      "arabic": "سَأَلْتُ الصَّيْدَلِيَّ عَنْ عِلَاجٍ لِأَلَمِ الرَّأْسِ.",
-      "translation": "Pitao sam apotekara za lijek protiv glavobolje.",
-      "translationEn": "I asked the pharmacist for a treatment for a headache."
+      "arabic": "شَرِبَتْ عَصِيرَ الْبُرْتُقَالِ فِي الصَّبَاحِ.",
+      "translation": "Popila je sok od naranče ujutro.",
+      "translationEn": "She drank orange juice in the morning."
     },
     {
-      "arabic": "أَعْطَانِي الدَّوَاءَ وَشَرَحَ لِي كَيْفِيَّةَ اسْتِخْدَامِهِ بِشَكْلٍ صَحِيحٍ.",
-      "translation": "Dao mi je lijek i objasnio mi kako da ga pravilno koristim.",
-      "translationEn": "He gave me the medicine and explained to me how to use it correctly."
+      "arabic": "قَالَتْ لِأُمِّهَا إِنَّ الطَّعَامَ الصِّحِّيَّ مُهِمٌّ جِدًّا.",
+      "translation": "Rekla je svojoj majci da je zdrava hrana veoma važna.",
+      "translationEn": "She told her mother that healthy food is very important."
     },
     {
-      "arabic": "شَعَرْتُ بِتَحَسُّنٍ كَبِيرٍ بَعْدَ تَنَاوُلِ الْجُرْعَةِ الْأُولَى.",
-      "translation": "Osjetio sam veliko poboljšanje nakon uzimanja prve doze.",
-      "translationEn": "I felt a great improvement after taking the first dose."
+      "arabic": "لَا تَأْكُلُ سَلْمَى كَثِيرًا مِنَ الْحَلْوَى.",
+      "translation": "Salma ne jede puno slatkiša.",
+      "translationEn": "Salma does not eat a lot of sweets."
+    },
+    {
+      "arabic": "جِسْمُهَا قَوِيٌّ وَصِحَّتُهَا جَيِّدَةٌ.",
+      "translation": "Njeno tijelo je snažno i njeno zdravlje je dobro.",
+      "translationEn": "Her body is strong and her health is good."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "pharmacy",
-      "medicine",
-      "health"
-    ]
+    "tags": ["healthy food", "vegetables", "nutrition"]
   }
 }

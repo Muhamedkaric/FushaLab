@@ -4,27 +4,32 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "تَعَلَّمْتُ أَسَاسِيَّاتِ الْبَرْمَجَةِ فِي مَدْرَسَتِي الثَّانَوِيَّةِ.",
-      "translation": "Naučio sam osnove programiranja u svojoj srednjoj školi.",
-      "translationEn": "I learned the basics of programming in my high school."
+      "arabic": "أَرَادَ سَعِيدٌ أَنْ يَعْرِفَ طَقْسَ الْغَدِ.",
+      "translation": "Saeed je htio znati kakvo je sutra vrijeme.",
+      "translationEn": "Saeed wanted to know tomorrow's weather."
     },
     {
-      "arabic": "كَتَبْتُ بَرْنَامَجًا بَسِيطًا يَقُومُ بِجَمْعِ الْأَعْدَادِ التِّلْقَائِيَّةِ.",
-      "translation": "Napisao sam jednostavan program koji automatski sabira brojeve.",
-      "translationEn": "I wrote a simple program that adds numbers automatically."
+      "arabic": "فَتَحَ تَطْبِيقَ الطَّقْسِ عَلَى هَاتِفِهِ.",
+      "translation": "Otvorio je aplikaciju za vremenske prilike na telefonu.",
+      "translationEn": "He opened the weather app on his phone."
     },
     {
-      "arabic": "تُعْتَبَرُ لُغَاتُ الْبَرْمَجَةِ أَدَاةً مُهِمَّةً لِلِابْتِكَارِ فِي الْمُسْتَقْبَلِ.",
-      "translation": "Programski jezici se smatraju važnim alatom za inovacije u budućnosti.",
-      "translationEn": "Programming languages are considered an important tool for innovation in the future."
+      "arabic": "رَأَى أَنَّ الْغَدَ سَيَكُونُ مُشْمِسًا وَحَارًّا.",
+      "translation": "Vidio je da će sutra biti sunčano i vruće.",
+      "translationEn": "He saw that tomorrow will be sunny and hot."
+    },
+    {
+      "arabic": "قَرَّرَ أَنْ يَأْخُذَ مَعَهُ مَاءً كَثِيرًا.",
+      "translation": "Odlučio je ponijeti sa sobom puno vode.",
+      "translationEn": "He decided to take a lot of water with him."
     }
   ],
   "metadata": {
     "difficulty": 1,
     "tags": [
-      "programming",
-      "software",
-      "skills"
+      "weather app",
+      "phone",
+      "planning"
     ]
   }
 }

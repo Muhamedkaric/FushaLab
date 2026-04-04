@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "نَجَحَ الطُّلَّابُ فِي امْتِحَانَاتِ الشَّهَادَةِ الثَّانَوِيَّةِ بِنِسَبٍ مُرْتَفِعَةٍ هَذَا الْعَامَ.",
-      "translation": "Učenici su ove godine položili maturu s visokim procentima.",
-      "translationEn": "Students passed the secondary school certificate exams at high rates this year."
+      "arabic": "أَعْلَنَتِ الْبَلَدِيَّةُ عَنْ إِصْلَاحِ الطَّرِيقِ الرَّئِيسِيِّ.",
+      "translation": "Općina je objavila popravku glavne ulice.",
+      "translationEn": "The municipality announced the repair of the main road."
+    },
+    {
+      "arabic": "سَيَبْدَأُ الْعَمَلُ فِي الطَّرِيقِ غَدَ الصَّبَاحِ.",
+      "translation": "Radovi na ulici počet će sutra ujutro.",
+      "translationEn": "The work on the road will begin tomorrow morning."
+    },
+    {
+      "arabic": "طَلَبَتِ الْبَلَدِيَّةُ مِنَ السَّائِقِينَ اسْتِخْدَامَ طَرِيقٍ آخَرَ.",
+      "translation": "Općina je zamolila vozače da koriste drugi put.",
+      "translationEn": "The municipality asked drivers to use another route."
+    },
+    {
+      "arabic": "يَنْتَهِي الإِصْلَاحُ خِلَالَ ثَلَاثَةِ أَيَّامٍ.",
+      "translation": "Popravka završava za tri dana.",
+      "translationEn": "The repair will be finished within three days."
     }
   ],
   "metadata": {
-    "difficulty": 2,
-    "tags": [
-      "news",
-      "education",
-      "exams"
-    ]
+    "difficulty": 1,
+    "tags": ["traffic", "city", "infrastructure"]
   }
 }

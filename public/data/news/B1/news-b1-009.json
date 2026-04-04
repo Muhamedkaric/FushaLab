@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "أُعِيدَ افْتِتَاحُ الْمَطَارِ الدَّوْلِيِّ بَعْدَ أَعْمَالِ التَّوْسِعَةِ وَالتَّطْوِيرِ.",
-      "translation": "Međunarodna aerodrom je ponovo otvoren nakon radova na proširenju i rekonstrukciji.",
-      "translationEn": "The international airport reopened after expansion and development works."
+      "arabic": "فَتَحَ مَطْعَمٌ جَدِيدٌ أَبْوَابَهُ فِي حَيِّنَا.",
+      "translation": "U našem kvartu otvorio se novi restoran.",
+      "translationEn": "A new restaurant opened its doors in our neighborhood."
+    },
+    {
+      "arabic": "يُقَدِّمُ الْمَطْعَمُ أَكْلًا شَعْبِيًّا بِأَسْعَارٍ مَعْقُولَةٍ.",
+      "translation": "Restoran nudi narodnu hranu po razumnim cijenama.",
+      "translationEn": "The restaurant offers traditional food at reasonable prices."
+    },
+    {
+      "arabic": "جَاءَ كَثِيرٌ مِنَ الْجِيرَانِ لِتَجْرِبَةِ الطَّعَامِ.",
+      "translation": "Mnogi komšije su došli da probaju hranu.",
+      "translationEn": "Many neighbors came to try the food."
+    },
+    {
+      "arabic": "قَالَ صَاحِبُ الْمَطْعَمِ إِنَّهُ سَعِيدٌ بِالتَّرْحِيبِ الْحَارِّ.",
+      "translation": "Vlasnik restorana je rekao da je sretan zbog toplog dočeka.",
+      "translationEn": "The restaurant owner said he is happy with the warm welcome."
     }
   ],
   "metadata": {
-    "difficulty": 2,
-    "tags": [
-      "news",
-      "transport",
-      "infrastructure"
-    ]
+    "difficulty": 1,
+    "tags": ["food", "neighborhood", "restaurant"]
   }
 }

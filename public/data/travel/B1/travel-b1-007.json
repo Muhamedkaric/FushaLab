@@ -4,17 +4,32 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "أَيْنَ أَقْرَبُ مَحَطَّةِ حَافِلَاتٍ مِنْ هُنَا؟",
-      "translation": "Gdje je najbliža autobusna stanica odavde?",
-      "translationEn": "Where is the nearest bus station from here?"
+      "arabic": "حَجَزَ سَمِيرٌ غُرْفَةً فِي الْفُنْدُقِ عَبْرَ الْهَاتِفِ.",
+      "translation": "Samir je rezervisao sobu u hotelu putem telefona.",
+      "translationEn": "Samir reserved a room in the hotel by phone."
+    },
+    {
+      "arabic": "وَصَلَ إِلَى الْفُنْدُقِ وَقَدَّمَ جَوَازَ سَفَرِهِ.",
+      "translation": "Stigao je u hotel i predao pasoš.",
+      "translationEn": "He arrived at the hotel and presented his passport."
+    },
+    {
+      "arabic": "أَعْطَاهُ الْمُوَظِّفُ مِفْتَاحَ الْغُرْفَةِ وَابْتَسَمَ.",
+      "translation": "Službenik mu je dao ključ sobe i nasmiješio se.",
+      "translationEn": "The employee gave him the room key and smiled."
+    },
+    {
+      "arabic": "كَانَتِ الْغُرْفَةُ نَظِيفَةً وَمُرِيحَةً.",
+      "translation": "Soba je bila čista i udobna.",
+      "translationEn": "The room was clean and comfortable."
     }
   ],
   "metadata": {
     "difficulty": 1,
     "tags": [
-      "travel",
-      "transport",
-      "directions"
+      "hotel",
+      "reservation",
+      "room"
     ]
   }
 }

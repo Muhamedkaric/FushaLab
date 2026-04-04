@@ -4,27 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "النَّظَافَةُ الشَّخْصِيَّةُ هِيَ الْخُطْوَةُ الْأُولَى لِلْوِقَايَةِ مِنَ الْأَمْرَاضِ.",
-      "translation": "Lična higijena je prvi korak u prevenciji bolesti.",
-      "translationEn": "Personal hygiene is the first step in preventing diseases."
+      "arabic": "أَحَسَّ وَلِيدٌ بِأَلَمٍ فِي حَلْقِهِ مُنْذُ الصَّبَاحِ.",
+      "translation": "Walid je od jutra osjećao bol u grlu.",
+      "translationEn": "Walid felt throat pain since the morning."
     },
     {
-      "arabic": "نَغْسِلُ أَيْدِيَنَا دَائِمًا قَبْلَ تَنَاوُلِ الْوَجَبَاتِ الْغِذَائِيَّةِ.",
-      "translation": "Uvijek peremo ruke prije jela.",
-      "translationEn": "We always wash our hands before eating meals."
+      "arabic": "شَرِبَ عَصِيرَ الْلَّيْمُونِ مَعَ الْعَسَلِ لِيَتَحَسَّنَ.",
+      "translation": "Popio je sok od limuna s medom da mu bude bolje.",
+      "translationEn": "He drank lemon juice with honey to get better."
     },
     {
-      "arabic": "كَذَلِكَ نَسْتَخْدِمُ الصَّابُونَ لِقَتْلِ الْجَرَاثِيمِ وَالْمَيْكُرُوبَاتِ.",
-      "translation": "Također koristimo sapun kako bismo ubili klice i mikrobe.",
-      "translationEn": "We also use soap to kill germs and microbes."
+      "arabic": "بَقِيَ فِي الْبَيْتِ وَلَمْ يَذْهَبْ إِلَى الْعَمَلِ.",
+      "translation": "Ostao je kod kuće i nije otišao na posao.",
+      "translationEn": "He stayed at home and did not go to work."
+    },
+    {
+      "arabic": "فِي الْمَسَاءِ ذَهَبَ إِلَى الطَّبِيبِ لِأَنَّ الْأَلَمَ اشْتَدَّ.",
+      "translation": "Uveče je otišao kod ljekara jer se bol pojačala.",
+      "translationEn": "In the evening he went to the doctor because the pain got worse."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "preventive care",
-      "hygiene",
-      "cleanliness"
-    ]
+    "tags": ["throat", "honey", "lemon", "doctor"]
   }
 }

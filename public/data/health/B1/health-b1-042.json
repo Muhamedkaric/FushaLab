@@ -4,27 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "تَنَاوُلُ الْخُضْرَاوَاتِ الطَّازَجَةِ يَحْمِي الْجِسْمَ مِنَ الْأَمْرَاضِ.",
-      "translation": "Jedenje svježeg povrća štiti tijelo od bolesti.",
-      "translationEn": "Eating fresh vegetables protects the body from diseases."
+      "arabic": "تَتَجَنَّبُ غَادَةُ الطَّعَامَ الْمَقْلِيَّ وَتُفَضِّلُ الْمَشْوِيَّ.",
+      "translation": "Gada izbjegava prženu hranu i preferira roštilj.",
+      "translationEn": "Ghada avoids fried food and prefers grilled food."
     },
     {
-      "arabic": "يَجِبُ أَنْ نَشْرَبَ لِتْرَيْنِ مِنَ الْمَاءِ يَوْمِيًّا.",
-      "translation": "Moramo piti dvije litre vode dnevno.",
-      "translationEn": "We must drink two liters of water daily."
+      "arabic": "قَالَ لَهَا الطَّبِيبُ إِنَّ الشَّوِيَّ أَقَلُّ دَسَمًا.",
+      "translation": "Ljekar joj je rekao da je roštilj manje mastan.",
+      "translationEn": "The doctor told her that grilled food has less fat."
     },
     {
-      "arabic": "الْفَوَاكِهُ تَمْنَحُنَا الْفِيتَامِينَاتِ الَّتِي نَحْتَاجُ إِلَيْهَا.",
-      "translation": "Voće nam daje vitamine koji su nam potrebni.",
-      "translationEn": "Fruits provide us with the vitamins we need."
+      "arabic": "تَطْبُخُ الدَّجَاجَ وَالسَّمَكَ فِي الْفُرْنِ بَدَلَ الْقَلْيِ.",
+      "translation": "Kuha piletinu i ribu u pećnici umjesto prženja.",
+      "translationEn": "She cooks chicken and fish in the oven instead of frying."
+    },
+    {
+      "arabic": "طَعَامُهَا لَذِيذٌ وَصِحِّيٌّ فِي نَفْسِ الْوَقْتِ.",
+      "translation": "Njena hrana je ukusna i zdrava u isto vrijeme.",
+      "translationEn": "Her food is tasty and healthy at the same time."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "nutrition",
-      "healthy food",
-      "preventive care"
-    ]
+    "tags": ["cooking", "grilled", "fried food", "nutrition"]
   }
 }

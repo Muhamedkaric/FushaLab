@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "يَتَعَلَّمُ الطُّلَّابُ فِي حِصَّةِ الأَدَبِ قِرَاءَةَ الشِّعْرِ الْعَرَبِيِّ الْقَدِيمِ وَفَهْمَهُ.",
-      "translation": "Studenti na satu književnosti uče čitati i razumjeti staru arapsku poeziju.",
-      "translationEn": "Students in the literature class learn to read and understand ancient Arabic poetry."
+      "arabic": "كَانَ إِبْرَاهِيمُ يُحِبُّ مُسَاعَدَةَ جِيرَانِهِ دَائِمًا.",
+      "translation": "Ibrahim je uvijek volio pomagati komšijama.",
+      "translationEn": "Ibrahim always loved helping his neighbors."
+    },
+    {
+      "arabic": "ذَاتَ يَوْمٍ رَأَى عَجُوزًا تَحْمِلُ أَكْيَاسًا ثَقِيلَةً.",
+      "translation": "Jednog dana je vidio staricu kako nosi teške vrećice.",
+      "translationEn": "One day he saw an old woman carrying heavy bags."
+    },
+    {
+      "arabic": "رَكَضَ إِلَيْهَا وَحَمَلَ الأَكْيَاسَ حَتَّى بَابِ بَيْتِهَا.",
+      "translation": "Potrčao je k njoj i nosio vrećice do njenih kućnih vrata.",
+      "translationEn": "He ran to her and carried the bags to her door."
+    },
+    {
+      "arabic": "شَكَرَتْهُ الْعَجُوزُ وَدَعَتْ لَهُ بِالْخَيْرِ.",
+      "translation": "Starica mu se zahvalila i poželjela mu dobro.",
+      "translationEn": "The old woman thanked him and wished him well."
     }
   ],
   "metadata": {
-    "difficulty": 2,
-    "tags": [
-      "literature",
-      "poetry",
-      "education"
-    ]
+    "difficulty": 1,
+    "tags": ["kindness", "neighborhood", "daily life"]
   }
 }

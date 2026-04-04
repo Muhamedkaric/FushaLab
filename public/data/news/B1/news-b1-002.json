@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "سَقَطَتْ أَمْطَارٌ غَزِيرَةٌ عَلَى الْعَاصِمَةِ وَتَوَقَّفَتِ الدِّرَاسَةُ فِي الْمَدَارِسِ.",
-      "translation": "Obilne kiše su pale na glavnom gradu i nastava u školama je obustavljena.",
-      "translationEn": "Heavy rains fell on the capital and classes in schools were suspended."
+      "arabic": "كَانَ الطَّقْسُ جَمِيلًا الْيَوْمَ فِي الْمَدِينَةِ.",
+      "translation": "Danas je bilo lijepo vrijeme u gradu.",
+      "translationEn": "The weather was nice today in the city."
+    },
+    {
+      "arabic": "خَرَجَ الأَطْفَالُ لِلَّعِبِ فِي الْحَدِيقَةِ الْعَامَّةِ.",
+      "translation": "Djeca su izašla da se igraju u javnom parku.",
+      "translationEn": "The children went out to play in the public park."
+    },
+    {
+      "arabic": "جَلَسَ الْكِبَارُ عَلَى الْمَقَاعِدِ وَتَحَدَّثُوا.",
+      "translation": "Odrasli su sjedili na klupama i razgovarali.",
+      "translationEn": "The adults sat on the benches and talked."
+    },
+    {
+      "arabic": "كَانَتْ أَجْوَاءُ الْحَدِيقَةِ هَادِئَةً وَمُمْتِعَةً.",
+      "translation": "Atmosfera u parku bila je mirna i ugodna.",
+      "translationEn": "The atmosphere in the park was calm and enjoyable."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "news",
-      "weather",
-      "education"
-    ]
+    "tags": ["weather", "park", "daily life"]
   }
 }

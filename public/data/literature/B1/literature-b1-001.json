@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "قَرَأَ الطَّالِبُ رِوَايَةً عَرَبِيَّةً جَمِيلَةً عَنِ الصَّدَاقَةِ وَالْوَفَاءِ.",
-      "translation": "Student je pročitao lijepi arapski roman o prijateljstvu i odanosti.",
-      "translationEn": "The student read a beautiful Arabic novel about friendship and loyalty."
+      "arabic": "ذَهَبَ أَحْمَدُ إِلَى السُّوقِ مَعَ أُمِّهِ صَبَاحَ يَوْمِ الْجُمُعَةِ.",
+      "translation": "Ahmed je otišao na pijacu sa svojom majkom u petак ujutro.",
+      "translationEn": "Ahmad went to the market with his mother on Friday morning."
+    },
+    {
+      "arabic": "رَأَى هُنَاكَ كَثِيرًا مِنَ الْفَوَاكِهِ وَالْخُضَرَاوَاتِ.",
+      "translation": "Tamo je vidio puno voća i povrća.",
+      "translationEn": "He saw many fruits and vegetables there."
+    },
+    {
+      "arabic": "طَلَبَتِ الأُمُّ مِنْهُ أَنْ يَخْتَارَ فَاكِهَةً لِلْعَائِلَةِ.",
+      "translation": "Majka ga je zamolila da odabere voće za porodicu.",
+      "translationEn": "His mother asked him to choose fruit for the family."
+    },
+    {
+      "arabic": "اخْتَارَ أَحْمَدُ الْبُرْتُقَالَ وَالتُّفَّاحَ وَابْتَسَمَتْ أُمُّهُ.",
+      "translation": "Ahmed je odabrao naranče i jabuke i majka mu se nasmiješila.",
+      "translationEn": "Ahmad chose oranges and apples and his mother smiled."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "literature",
-      "novel",
-      "reading"
-    ]
+    "tags": ["family", "shopping", "daily life"]
   }
 }

@@ -4,27 +4,33 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "النَّوْمُ الْمُبَكِّرُ يُسَاعِدُ الْجِسْمَ عَلَى الرَّاحَةِ وَالتَّعَافِي.",
-      "translation": "Rano spavanje pomaže tijelu da se odmori i oporavi.",
-      "translationEn": "Sleeping early helps the body rest and recover."
+      "arabic": "تَتَنَاوَلُ هِنْدٌ وَجْبَةَ الْإِفْطَارِ كُلَّ صَبَاحٍ.",
+      "translation": "Hind doručkuje svako jutro.",
+      "translationEn": "Hind has breakfast every morning."
     },
     {
-      "arabic": "يَجِبُ أَنْ يَنَامَ الشَّخْصُ الْبَالِغُ ثَمَانِي سَاعَاتٍ يَوْمِيًّا.",
-      "translation": "Odrasla osoba treba spavati osam sati dnevno.",
-      "translationEn": "An adult should sleep eight hours a day."
+      "arabic": "تَأْكُلُ الْبَيْضَ وَالْخُبْزَ وَتَشْرَبُ اللَّبَنَ.",
+      "translation": "Jede jaja i hljeb i pije mlijeko.",
+      "translationEn": "She eats eggs and bread and drinks milk."
     },
     {
-      "arabic": "السَّهَرُ الطَّوِيلُ يُؤَدِّي إِلَى التَّعَبِ وَضَعْفِ التَّرْكِيزِ.",
-      "translation": "Kasno ostajanje budnim dovodi do umora i slabog fokusa.",
-      "translationEn": "Staying up late leads to fatigue and poor concentration."
+      "arabic": "قَالَتْ إِنَّ الْإِفْطَارَ يُعِينُهَا عَلَى التَّرْكِيزِ فِي الدِّرَاسَةِ.",
+      "translation": "Rekla je da joj doručak pomaže da se koncentriše na učenje.",
+      "translationEn": "She said that breakfast helps her concentrate on studying."
+    },
+    {
+      "arabic": "لَا تَخْرُجُ مِنَ الْبَيْتِ قَبْلَ أَنْ تَأْكُلَ.",
+      "translation": "Ne izlazi iz kuće prije nego što pojede.",
+      "translationEn": "She does not leave the house before eating."
+    },
+    {
+      "arabic": "صِحَّتُهَا جَيِّدَةٌ وَتَشْعُرُ بِالنَّشَاطِ طَوَالَ الْيَوْمِ.",
+      "translation": "Njezino zdravlje je dobro i osjeća se aktivno cijeli dan.",
+      "translationEn": "Her health is good and she feels active throughout the day."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "mental wellness",
-      "sleep",
-      "rest"
-    ]
+    "tags": ["breakfast", "nutrition", "morning", "healthy habits"]
   }
 }

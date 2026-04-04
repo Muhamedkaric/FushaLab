@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "أَعْلَنَتِ الشُّرْطَةُ عَنِ الْقَبْضِ عَلَى الْمُشْتَبَهِ بِهِ فِي قَضِيَّةِ السَّرِقَةِ.",
-      "translation": "Policija je objavila hapšenje osumnjičenog u predmetu krađe.",
-      "translationEn": "The police announced the arrest of the suspect in the theft case."
+      "arabic": "سَقَطَ الْمَطَرُ بِغَزَارَةٍ عَلَى الْمَدِينَةِ أَمَسِ.",
+      "translation": "Jučer je pala jaka kiša na grad.",
+      "translationEn": "Heavy rain fell on the city yesterday."
+    },
+    {
+      "arabic": "أُغْلِقَتْ بَعْضُ الشَّوَارِعِ بِسَبَبِ الْمِيَاهِ.",
+      "translation": "Neke ulice su bile zatvorene zbog vode.",
+      "translationEn": "Some streets were closed because of the water."
+    },
+    {
+      "arabic": "طَلَبَتِ الْبَلَدِيَّةُ مِنَ النَّاسِ الْبَقَاءَ فِي الْبُيُوتِ.",
+      "translation": "Općina je zamolila ljude da ostanu kod kuće.",
+      "translationEn": "The municipality asked people to stay at home."
+    },
+    {
+      "arabic": "تَوَقَّفَ الْمَطَرُ مَسَاءً وَعَادَتِ الشَّمْسُ.",
+      "translation": "Kiša je prestala navečer i sunce se vratilo.",
+      "translationEn": "The rain stopped in the evening and the sun returned."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "news",
-      "crime",
-      "police"
-    ]
+    "tags": ["weather", "rain", "city"]
   }
 }

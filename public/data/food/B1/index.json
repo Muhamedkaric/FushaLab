@@ -2,301 +2,541 @@
   "items": [
     {
       "id": "food-b1-001",
-      "arabic": "يَتَنَاوَلُ النَّاسُ عَادَةً الْحُمُّصَ وَالْفَلَافِلَ فِي وَجْبَةِ الْإِفْطَارِ.",
+      "arabic": "طَبَخَتِ الْأُمُّ طَعَامًا لَذِيذًا لِلْعَشَاءِ.",
       "metadata": {
         "difficulty": 1,
         "tags": [
-          "breakfast",
-          "traditional food",
-          "vegetables"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-002",
-      "arabic": "الْمَنْسَفُ وَجْبَةٌ تَقْلِيدِيَّةٌ تَتَكَوَّنُ مِنَ اللَّحْمِ وَالْأُرْزِ وَاللَّبَنِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "cooking",
-          "hospitality",
-          "main course"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-003",
-      "arabic": "زُرْتُ السُّوقَ الشَّعْبِيَّ لِشِرَاءِ التَّوَابِلِ الطَّازَجَةِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "market",
-          "spices",
-          "shopping"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-004",
-      "arabic": "تَنَاوُلُ الْخَضْرَاوَاتِ وَالْفَوَاكِهِ يَوْمِيًّا مُهِمٌّ جِدًّا لِلصِّحَّةِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "nutrition",
-          "health",
-          "fruit"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-005",
-      "arabic": "الْقَهْوَةُ الْعَرَبِيَّةُ رَمْزٌ لِلْكَرَمِ وَالضِّيَافَةِ فِي ثَقَافَتِنَا.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "culture",
-          "coffee",
-          "hospitality"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-006",
-      "arabic": "يُعْتَبَرُ الْفُطُورُ وَجْبَةً مُهِمَّةً فِي الْعَالَمِ الْعَرَبِيِّ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "breakfast",
-          "traditional food",
-          "culture"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-007",
-      "arabic": "ذَهَبَتْ مَرْيَمُ إِلَى السُّوقِ لِشِرَاءِ الْخُضْرَاوَاتِ الطَّازَجَةِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "market",
-          "shopping",
-          "vegetables"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-008",
-      "arabic": "تُطْبَخُ شُورْبَةُ الْعَدَسِ كَثِيرًا فِي فَصْلِ الشِّتَاءِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "recipe",
-          "soup",
+          "family",
+          "dinner",
           "cooking"
         ]
       }
     },
     {
-      "id": "food-b1-009",
-      "arabic": "زَارَ أَحْمَدُ مَطْعَمًا تَقْلِيدِيًّا مَعَ عَائِلَتِهِ لَيْلَةَ أَمْسِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "restaurant",
-          "dinner",
-          "family"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-010",
-      "arabic": "تَمْتَازُ الدُّوَلُ الْعَرَبِيَّةُ بِإِنْتَاجِ أَنْوَاعٍ كَثِيرَةٍ مِنَ التُّمُورِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "dates",
-          "hospitality",
-          "nutrition"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-011",
-      "arabic": "يُعْتَبَرُ الْفُطُورُ الْعَرَبِيُّ صِحِّيًّا وَخَفِيفًا لِلْغَايَةِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "breakfast",
-          "tradition",
-          "culture"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-012",
-      "arabic": "ذَهَبْتُ إِلَى السُّوقِ الْمَحَلِّيِّ لِشِرَاءِ الْخُضَارِ الطَّازَجَةِ.",
+      "id": "food-b1-002",
+      "arabic": "اشْتَرَتِ الْأُمُّ الْخُضَارَ مِنَ السُّوقِ الْقَرِيبِ.",
       "metadata": {
         "difficulty": 1,
         "tags": [
           "market",
           "vegetables",
-          "shopping"
+          "cooking"
         ]
       }
     },
     {
-      "id": "food-b1-013",
-      "arabic": "تُحَضِّرُ أُمِّي طَبَقَ الْكَبْسَةِ الشَّهِيَّ فِي يَوْمِ الْجُمُعَةِ.",
+      "id": "food-b1-003",
+      "arabic": "يُحِبُّ الطِّفْلُ الْفَوَاكِهَ أَكْثَرَ مِنَ الْحَلَوَى.",
       "metadata": {
         "difficulty": 1,
         "tags": [
-          "cooking",
+          "children",
+          "fruit",
+          "healthy"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-004",
+      "arabic": "ذَهَبَتِ الْعَائِلَةُ إِلَى مَطْعَمٍ لِتَنَاوُلِ الْغَدَاءِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "restaurant",
+          "lunch",
+          "family"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-005",
+      "arabic": "اسْتَيْقَظَتِ الْعَائِلَةُ وَأَكَلَتِ الْفُطُورَ مَعًا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "breakfast",
           "family",
-          "traditional food"
+          "morning"
         ]
       }
     },
     {
-      "id": "food-b1-014",
-      "arabic": "الْعَسَلُ الطَّبِيعِيُّ مُفِيدٌ جِدًّا لِصِحَّةِ الْإِنْسَانِ وَنَشَاطِهِ.",
+      "id": "food-b1-006",
+      "arabic": "طَلَبَتِ الْأُمُّ مِنِ ابْنِهَا أَنْ يُحْضِرَ الْخُبْزَ.",
       "metadata": {
         "difficulty": 1,
         "tags": [
-          "health",
-          "nutrition",
-          "natural ingredients"
+          "bread",
+          "bakery",
+          "family"
         ]
       }
     },
     {
-      "id": "food-b1-015",
-      "arabic": "فِي اللَّيْلَةِ الْمَاضِيَةِ، زُرْتُ مَطْعَمًا لُبْنَانِيًّا مَعَ أَصْدِقَائِي.",
+      "id": "food-b1-007",
+      "arabic": "تَعَلَّمَتْ سَارَةُ طَبْخَ الْأَرُزِّ مِنْ جَدَّتِهَا.",
       "metadata": {
         "difficulty": 1,
         "tags": [
-          "restaurant",
-          "dining",
-          "friends"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-016",
-      "arabic": "يُعَدُّ الْفُطُورُ الْعَرَبِيُّ وَجْبَةً غَنِيَّةً وَمُتَنَوِّعَةً جِدًّا.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "breakfast",
-          "traditional food",
-          "culture"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-017",
-      "arabic": "ذَهَبَتْ مَرْيَمُ إِلَى السُّوقِ الشَّعْبِيِّ لِتَشْتَرِيَ الْخُضْرَاوَاتِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "market",
-          "shopping",
-          "ingredients"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-018",
-      "arabic": "تُعْتَبَرُ شُورْبَةُ الْعَدَسِ مِنَ الْأَطْبَاقِ الْمَشْهُورَةِ فِي الشِّتَاءِ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
-          "recipe",
           "cooking",
-          "winter food"
+          "rice",
+          "grandmother"
         ]
       }
     },
     {
-      "id": "food-b1-019",
-      "arabic": "زَارَ أَحْمَدُ مَطْعَمًا تَقْلِيدِيًّا كَبِيرًا مَعَ عَائِلَتِهِ.",
+      "id": "food-b1-008",
+      "arabic": "اشْتَرَى الْأَبُ لَحْمًا طَازِجًا مِنَ الْجَزَّارِ.",
       "metadata": {
         "difficulty": 1,
         "tags": [
-          "restaurant",
-          "dining",
-          "halal meat"
+          "meat",
+          "cooking",
+          "family"
         ]
       }
     },
     {
-      "id": "food-b1-020",
-      "arabic": "التَّغْذِيَةُ الصِّحِّيَّةُ تُسَاعِدُ الْجِسْمَ عَلَى النُّمُوِّ وَالْقُوَّةِ.",
+      "id": "food-b1-009",
+      "arabic": "تُحِبُّ هِنْدٌ أَكْلَ الْحُمُّصِ فِي الْفُطُورِ.",
       "metadata": {
         "difficulty": 1,
         "tags": [
-          "nutrition",
-          "health",
-          "lifestyle"
-        ]
-      }
-    },
-    {
-      "id": "food-b1-021",
-      "arabic": "نَتَنَاوَلُ الْفُطُورَ التَّقْلِيدِيَّ مَعَ الْعَائِلَةِ كُلَّ صَبَاحٍ.",
-      "metadata": {
-        "difficulty": 1,
-        "tags": [
+          "hummus",
           "breakfast",
+          "healthy"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-010",
+      "arabic": "أَعَدَّتِ الْجَدَّةُ طَبَقًا تَقْلِيدِيًّا لِلْعَائِلَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "grandmother",
           "traditional food",
           "family"
         ]
       }
     },
     {
-      "id": "food-b1-022",
-      "arabic": "زُرْتُ السُّوقَ الْقَدِيمَةَ يَوْمَ أَمْسِ فِي وَسَطِ الْمَدِينَةِ.",
+      "id": "food-b1-011",
+      "arabic": "ذَهَبَ عَلِيٌّ إِلَى الْبَقَّالَةِ لِيَشْتَرِيَ الْحَلِيبَ.",
       "metadata": {
         "difficulty": 1,
         "tags": [
+          "grocery",
+          "shopping",
+          "food"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-012",
+      "arabic": "طَلَبَ الْوَلَدُ مِنْ أُمِّهِ أَنْ تَطْبُخَ الشُّوربَةَ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "soup",
+          "mother",
+          "children"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-013",
+      "arabic": "أَرَادَ يَاسِرٌ أَنْ يَأْكُلَ شَيْئًا خَفِيفًا فِي الصَّبَاحِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "breakfast",
+          "yogurt",
+          "morning"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-014",
+      "arabic": "فَتَحَتْ مَرْيَمُ الثَّلَّاجَةَ وَلَمْ تَجِدْ شَيْئًا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "shopping",
+          "cooking",
+          "simple meal"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-015",
+      "arabic": "تُحِبُّ الْبِنْتُ الصَّغِيرَةُ الشُّوكُولَاتَةَ كَثِيرًا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "children",
+          "chocolate",
+          "sweets"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-016",
+      "arabic": "طَبَخَ الْأَبُ الدَّجَاجَ عَلَى الشَّوَّايَةِ فِي الْحَدِيقَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "barbecue",
+          "neighbors",
+          "family"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-017",
+      "arabic": "أَرَادَ الطِّفْلُ أَنْ يَصْنَعَ عَجِينًا مَعَ أُمِّهِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "baking",
+          "children",
+          "mother"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-018",
+      "arabic": "ذَهَبَتِ الْأُمُّ إِلَى السُّوقِ فِي الصَّبَاحِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "fish",
           "market",
-          "spices",
-          "shopping"
+          "cooking"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-019",
+      "arabic": "طَلَبَتِ الْأُمُّ مِنَ ابْنَتِهَا أَنْ تَغْسِلَ الْفَوَاكِهَ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "fruit",
+          "helping",
+          "family"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-020",
+      "arabic": "أَكَلَ الطُّلَّابُ غَدَاءَهُمْ فِي الْمَدْرَسَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "school",
+          "lunch",
+          "children"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-021",
+      "arabic": "وَجَدَ سَامِرٌ طَعَامًا مُتَبَقِّيًا مِنَ الْأَمْسِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "leftovers",
+          "microwave",
+          "cooking"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-022",
+      "arabic": "شَرِبَ الْجَمِيعُ الشَّايَ بَعْدَ الْعَشَاءِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "tea",
+          "family",
+          "evening"
         ]
       }
     },
     {
       "id": "food-b1-023",
-      "arabic": "تُحَضِّرُ أُمِّي الْمَنْسَفَ لِلضُّيُوفِ الْيَوْمَ.",
+      "arabic": "ذَهَبَ وَلِيدٌ مَعَ أَبِيهِ إِلَى الْمَطْعَمِ الشَّعْبِيِّ.",
       "metadata": {
         "difficulty": 1,
         "tags": [
-          "traditional dish",
-          "cooking",
-          "hospitality"
+          "falafel",
+          "popular restaurant",
+          "father"
         ]
       }
     },
     {
       "id": "food-b1-024",
-      "arabic": "تَنَاوُلُ الْخُضْرَاوَاتِ وَالْفَوَاكِهِ مُهِمٌّ جِدًّا لِلصِّحَّةِ.",
+      "arabic": "طَبَخَتِ الْجَدَّةُ كَعْكًا حُلْوًا لِلْأَحْفَادِ.",
       "metadata": {
         "difficulty": 1,
         "tags": [
-          "nutrition",
-          "health",
-          "vegetables"
+          "grandmother",
+          "cake",
+          "grandchildren"
         ]
       }
     },
     {
       "id": "food-b1-025",
-      "arabic": "ذَهَبْنَا إِلَى مَطْعَمٍ لُبْنَانِيٍّ فِي اللَّيْلَةِ الْمَاضِيَةِ.",
+      "arabic": "وَجَدَ رَامِي مَطْعَمًا جَدِيدًا فِي الشَّارِعِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "restaurant",
+          "kabsa",
+          "waiter"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-026",
+      "arabic": "اسْتَيْقَظَتِ الطِّفْلَةُ وَطَلَبَتِ الْبَيْضَ الْمَقْلِيَّ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "breakfast",
+          "eggs",
+          "children"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-027",
+      "arabic": "أَحَبَّ الطِّفْلُ الْعَصِيرَ الطَّبِيعِيَّ أَكْثَرَ مِنَ الْمَعْبَأِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "juice",
+          "orange",
+          "morning"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-028",
+      "arabic": "قَرَّرَتِ الْعَائِلَةُ أَنْ تَأْكُلَ فِي الْهَوَاءِ الطَّلْقِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "picnic",
+          "park",
+          "family"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-029",
+      "arabic": "اشْتَرَتِ الْأُمُّ خُبْزًا وَلَبَنًا وَعَسَلًا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "breakfast",
+          "honey",
+          "morning"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-030",
+      "arabic": "طَبَخَ أَحْمَدُ الْعَدَسَ لِأَوَّلِ مَرَّةٍ فِي حَيَاتِهِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "cooking",
+          "lentils",
+          "recipe"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-031",
+      "arabic": "اشْتَرَتْ نُورُ كَثِيرًا مِنَ التَّمْرِ مِنَ السُّوقِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "dates",
+          "guests",
+          "coffee"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-032",
+      "arabic": "ذَهَبَتِ الْعَائِلَةُ إِلَى مَطْعَمٍ لِلِاحْتِفَالِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "restaurant",
+          "birthday",
+          "celebration"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-033",
+      "arabic": "صَنَعَتِ الْأُمُّ عَصِيرَ الْمَانْجُو فِي الْمِيكْسَرِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "juice",
+          "mango",
+          "children"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-034",
+      "arabic": "أَرَادَ يَاسِرٌ أَنْ يَتَعَلَّمَ طَبْخَ الْكُسْكُسِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "couscous",
+          "cooking",
+          "mother"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-035",
+      "arabic": "أَكَلَ الرَّجُلُ وَجْبَتَهُ بِبُطْءٍ وَبِهُدُوءٍ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "mindful eating",
+          "health",
+          "gratitude"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-036",
+      "arabic": "وَجَدَ فَارُوقٌ مَنْزِلًا بِلَا طَعَامٍ فِي الثَّلَّاجَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "improvised cooking",
+          "eggs",
+          "simple"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-037",
+      "arabic": "تَعَلَّمَ الطِّفْلُ أَنْ يَغْسِلَ يَدَيْهِ قَبْلَ الْأَكْلِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "hygiene",
+          "children",
+          "father"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-038",
+      "arabic": "اشْتَرَى مُصْطَفَى فَلَافِلَ مِنَ الدُّكَّانِ الصَّغِيرِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "falafel",
+          "street food",
+          "quick meal"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-039",
+      "arabic": "طَبَخَتِ الْأُمُّ الرُّزَّ بِالدَّجَاجِ لِلْغَدَاءِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "rice",
+          "chicken",
+          "saffron"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-040",
+      "arabic": "قَدَّمَتِ الضَّيْفَةُ لِلْعَائِلَةِ حَلَوِيَّاتٍ مِنْ بَلَدِهَا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "sweets",
+          "guest",
+          "gift"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-041",
+      "arabic": "ذَهَبَ كَامِلٌ إِلَى الْمَطْعَمِ لِيَتَنَاوَلَ الْعَشَاءَ وَحْدَهُ.",
       "metadata": {
         "difficulty": 1,
         "tags": [
           "restaurant",
           "dinner",
-          "ordering food"
+          "alone"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-042",
+      "arabic": "طَبَخَتِ الْأُمُّ الْبَازِلَّاءَ بِالزَّيْتِ وَالثُّومِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "peas",
+          "cooking",
+          "home"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-043",
+      "arabic": "وَجَدَتِ الْعَائِلَةُ طَاوِلَةً فِي الْمَطْعَمِ بِجَانِبِ النَّافِذَةِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "restaurant",
+          "pizza",
+          "family"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-044",
+      "arabic": "اشْتَرَتِ الْأُمُّ مَوْزًا وَعِنَبًا وَرُمَّانًا.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "fruit",
+          "guests",
+          "hospitality"
+        ]
+      }
+    },
+    {
+      "id": "food-b1-045",
+      "arabic": "جَلَسَتِ الْعَائِلَةُ سَوِيًّا وَأَكَلَتْ آخِرَ وَجْبَةٍ فِي الْيَوْمِ.",
+      "metadata": {
+        "difficulty": 1,
+        "tags": [
+          "family",
+          "simple food",
+          "evening"
         ]
       }
     }

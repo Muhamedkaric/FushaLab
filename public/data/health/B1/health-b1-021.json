@@ -4,27 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "تَنَاوُلُ الْخُضْرَاوَاتِ وَالْفَوَاكِهِ يَوْمِيًّا مُهِمٌّ جِدًّا لِلْجِسْمِ.",
-      "translation": "Konzumiranje povrća i voća svakodnevno je veoma važno za tijelo.",
-      "translationEn": "Eating vegetables and fruits daily is very important for the body."
+      "arabic": "تَشْرَبُ أَمِيرَةُ فِنْجَانَ قَهْوَةٍ وَاحِدَةً فِي الصَّبَاحِ فَقَطْ.",
+      "translation": "Amira pije samo jednu šolju kafe ujutro.",
+      "translationEn": "Amira drinks only one cup of coffee in the morning."
     },
     {
-      "arabic": "هِيَ تَمُدُّنَا بِالْفِيتَامِينَاتِ وَالْمَعَادِنِ اللَّازِمَةِ لِلنُّمُوِّ.",
-      "translation": "Ono nas opskrbljuje vitaminima i mineralima potrebnim za rast.",
-      "translationEn": "It provides us with the vitamins and minerals necessary for growth."
+      "arabic": "قَالَ لَهَا الطَّبِيبُ أَلَّا تَشْرَبَ كَثِيرًا مِنَ الْقَهْوَةِ.",
+      "translation": "Ljekar joj je rekao da ne pije previše kafe.",
+      "translationEn": "The doctor told her not to drink too much coffee."
     },
     {
-      "arabic": "يَجِبُ أَنْ نَتَجَنَّبَ أَكْلَ السُّكَّرِ بِكَثْرَةٍ لِنُحَافِظَ عَلَى صِحَّتِنَا.",
-      "translation": "Moramo izbjegavati prekomjerno konzumiranje šećera kako bismo očuvali naše zdravlje.",
-      "translationEn": "We must avoid eating too much sugar to maintain our health."
+      "arabic": "تَشْرَبُ بَعْدَ الظُّهْرِ شَايًا أَخْضَرَ بَدَلَ الْقَهْوَةِ.",
+      "translation": "Poslije podne pije zeleni čaj umjesto kafe.",
+      "translationEn": "After noon she drinks green tea instead of coffee."
+    },
+    {
+      "arabic": "تَشْعُرُ الْآنَ بِنَوْمٍ أَفْضَلَ فِي اللَّيْلِ.",
+      "translation": "Sada se bolje naspava noću.",
+      "translationEn": "She now sleeps better at night."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "nutrition",
-      "healthy habits",
-      "diet"
-    ]
+    "tags": ["coffee", "green tea", "sleep", "doctor advice"]
   }
 }

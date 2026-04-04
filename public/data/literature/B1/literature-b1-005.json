@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "تُقِيمُ الْمَدْرَسَةُ مَعْرِضًا لِلْكُتُبِ كُلَّ سَنَةٍ لِتَشْجِيعِ الطَّلَّابِ عَلَى الْقِرَاءَةِ.",
-      "translation": "Škola svake godine organizira sajam knjiga kako bi poticala učenike na čitanje.",
-      "translationEn": "The school holds a book fair every year to encourage students to read."
+      "arabic": "كَانَتْ فَاطِمَةُ تُحِبُّ الطَّبْخَ مُنْذُ صِغَرِهَا.",
+      "translation": "Fatima je voljela kuhati od malih nogu.",
+      "translationEn": "Fatima loved cooking since she was young."
+    },
+    {
+      "arabic": "جَلَسَتْ مَعَ جَدَّتِهَا فِي الْمَطْبَخِ تَتَعَلَّمُ الْوَصَفَاتِ.",
+      "translation": "Sjela je sa svojom bakom u kuhinji i učila recepte.",
+      "translationEn": "She sat with her grandmother in the kitchen learning recipes."
+    },
+    {
+      "arabic": "عَلَّمَتْهَا الْجَدَّةُ طَرِيقَةَ طَبْخِ الْحَسَاءِ التَّقْلِيدِيِّ.",
+      "translation": "Baka ju je naučila kako kuhati tradicionalnu supu.",
+      "translationEn": "Her grandmother taught her how to make traditional soup."
+    },
+    {
+      "arabic": "طَبَخَتْ فَاطِمَةُ الْحَسَاءَ وَحِيدَةً لِأَوَّلِ مَرَّةٍ وَنَجَحَتْ.",
+      "translation": "Fatima je sama skuhala supu po prvi put i uspjela je.",
+      "translationEn": "Fatima cooked the soup alone for the first time and succeeded."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "literature",
-      "reading",
-      "education"
-    ]
+    "tags": ["cooking", "family", "grandmother"]
   }
 }

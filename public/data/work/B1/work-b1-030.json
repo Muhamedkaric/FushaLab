@@ -4,26 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "مِنَ الضَّرُورِيِّ تَحْقِيقُ التَّوَازُنِ بَيْنَ الْعَمَلِ وَالْحَيَاةِ الشَّخْصِيَّةِ.",
-      "translation": "Neophodno je postići ravnotežu između posla i privatnog života.",
-      "translationEn": "It is necessary to achieve a balance between work and personal life."
+      "arabic": "تَعْمَلُ لُبْنَى فِي مَطْعَمٍ وَتَخْدِمُ الزَّبَائِنَ.",
+      "translation": "Lubna radi u restoranu i usluţuje goste.",
+      "translationEn": "Lubna works in a restaurant and serves customers."
     },
     {
-      "arabic": "أَقْضِي وَقْتَ الْفَرَاغِ مَعَ عَائِلَتِي بَعْدَ انْتِهَاءِ الدَّوَامِ.",
-      "translation": "Slobodno vrijeme provodim sa svojom porodicom nakon završetka radnog vremena.",
-      "translationEn": "I spend my free time with my family after work hours end."
+      "arabic": "تَأْخُذُ الطَّلَبَاتِ وَتُوصِلُ الطَّعَامَ إِلَى الطِّاوِلَاتِ.",
+      "translation": "Prima narudžbe i donosi hranu do stolova.",
+      "translationEn": "She takes orders and delivers food to the tables."
     },
     {
-      "arabic": "الرَّاحَةُ الْكَافِيَةُ تُسَاعِدُنِي عَلَى زِيَادَةِ الْإِنْتَاجِيَّةِ فِي الْمَكْتَبِ.",
-      "translation": "Dovoljan odmor mi pomaže da povećam produktivnost u uredu.",
-      "translationEn": "Sufficient rest helps me increase productivity in the office."
+      "arabic": "تَبْتَسِمُ دَائِمًا وَتَتَكَلَّمُ مَعَ الزَّبَائِنِ بِلُطْفٍ.",
+      "translation": "Uvijek se smiješi i razgovara s gostima ljubazno.",
+      "translationEn": "She always smiles and talks to customers kindly."
+    },
+    {
+      "arabic": "أَعْطَاهَا زَبُونٌ سَعِيدٌ مَبْلَغًا إِضَافِيًّا شُكْرًا لَهَا.",
+      "translation": "Zadovoljni gost joj je dao dodatni iznos kao zahvalnost.",
+      "translationEn": "A happy customer gave her an extra amount as thanks."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "work-life balance",
-      "wellness"
-    ]
+    "tags": ["waitress", "restaurant", "customer service", "tip"]
   }
 }

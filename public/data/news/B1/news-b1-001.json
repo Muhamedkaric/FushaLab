@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "فَازَ الْمُنْتَخَبُ الْوَطَنِيُّ بِالْبُطُولَةِ الْعَرَبِيَّةِ لِكُرَةِ الْقَدَمِ أَمَسِ.",
-      "translation": "Nacionalna reprezentacija je jučer pobjedila na Arapskom fudbalskom turniru.",
-      "translationEn": "The national team won the Arab Football Championship yesterday."
+      "arabic": "فَازَ فَرِيقُ الْمَدْرَسَةِ بِمُبَارَاةِ كُرَةِ الْقَدَمِ أَمَسِ.",
+      "translation": "Školski tim je pobijedio na fudbalskoj utakmici jučer.",
+      "translationEn": "The school team won the football match yesterday."
+    },
+    {
+      "arabic": "سَجَّلَ الْفَرِيقُ ثَلَاثَةَ أَهْدَافٍ فِي الْمُبَارَاةِ.",
+      "translation": "Tim je postigao tri gola na utakmici.",
+      "translationEn": "The team scored three goals in the match."
+    },
+    {
+      "arabic": "فَرِحَ الطُّلَّابُ كَثِيرًا بِهَذَا الْفَوْزِ.",
+      "translation": "Učenici su se jako obradovali ovoj pobjedi.",
+      "translationEn": "The students were very happy about this victory."
+    },
+    {
+      "arabic": "شَكَرَ الْمُدِيرُ الْلَاعِبِينَ عَلَى جُهُودِهِمْ.",
+      "translation": "Direktor je zahvalio igračima na njihovom trudu.",
+      "translationEn": "The principal thanked the players for their efforts."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "news",
-      "sport",
-      "football"
-    ]
+    "tags": ["sports", "school", "football"]
   }
 }

@@ -4,26 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "قَرَّرَ صَدِيقِي أَنْ يَفْتَتِحَ مَشْرُوعَهُ الْخَاصَّ فِي مَجَالِ التِّكْنُولُوجِيَا.",
-      "translation": "Moj prijatelj je odlučio otvoriti vlastiti projekat u oblasti tehnologije.",
-      "translationEn": "My friend decided to open his own project in the field of technology."
+      "arabic": "اشْتَرَتِ الشَّرِكَةُ طَابِعَةً جَدِيدَةً لِلْمَكْتَبِ.",
+      "translation": "Kompanija je kupila novi printer za kancelariju.",
+      "translationEn": "The company bought a new printer for the office."
     },
     {
-      "arabic": "يَعْمَلُ بِجِدٍّ لِتَطْوِيرِ تَطْبِيقٍ جَدِيدٍ يُسَاعِدُ النَّاسَ فِي حَيَاتِهِمْ.",
-      "translation": "On naporno radi na razvoju nove aplikacije koja pomaže ljudima u njihovim životima.",
-      "translationEn": "He works hard to develop a new application that helps people in their lives."
+      "arabic": "حَاوَلَ مُنِيرٌ أَنْ يُشَغِّلَهَا وَلَكِنَّهُ لَمْ يَعْرِفْ كَيْفَ.",
+      "translation": "Munir je pokušao da je uključi ali nije znao kako.",
+      "translationEn": "Munir tried to operate it but did not know how."
     },
     {
-      "arabic": "النَّجَاحُ يَتَطَلَّبُ الصَّبْرَ وَالتَّخْطِيطَ الْجَيِّدَ لِلْمُسْتَقْبَلِ.",
-      "translation": "Uspjeh zahtijeva strpljenje i dobro planiranje za budućnost.",
-      "translationEn": "Success requires patience and good planning for the future."
+      "arabic": "سَأَلَ زَمِيلَهُ الَّذِي قَرَأَ التَّعْلِيمَاتِ بِعِنَايَةٍ.",
+      "translation": "Upitao je kolegu koji je pažljivo pročitao uputstva.",
+      "translationEn": "He asked his colleague who read the instructions carefully."
+    },
+    {
+      "arabic": "بَعْدَ عَشْرِ دَقَائِقَ بَدَأَتِ الطَّابِعَةُ تَعْمَلُ.",
+      "translation": "Nakon deset minuta printer je počeo raditi.",
+      "translationEn": "After ten minutes the printer started working."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "entrepreneurship",
-      "technology"
-    ]
+    "tags": ["printer", "office equipment", "colleagues", "instructions"]
   }
 }

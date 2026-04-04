@@ -4,16 +4,32 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "يَسْأَلُ الْمُسَافِرُ عَنْ مَوَاقِيتِ الْقِطَارَاتِ إِلَى الْإِسْكَنْدَرِيَّةِ.",
-      "translation": "Putnik pita o rasporedu vozova za Aleksandriju.",
-      "translationEn": "The traveller asks about the train schedule to Alexandria."
+      "arabic": "اشْتَرَى خَالِدٌ تَذْكِرَةَ الْقِطَارِ مِنَ الشِّبَّاكِ.",
+      "translation": "Halid je kupio kartu za voz na šalteru.",
+      "translationEn": "Khalid bought the train ticket at the counter."
+    },
+    {
+      "arabic": "كَانَتِ التَّذْكِرَةُ رَخِيصَةً وَالرِّحْلَةُ قَصِيرَةً.",
+      "translation": "Karta je bila jeftina a putovanje kratko.",
+      "translationEn": "The ticket was cheap and the journey was short."
+    },
+    {
+      "arabic": "جَلَسَ خَالِدٌ بِجَانِبِ النَّافِذَةِ وَنَظَرَ إِلَى الْحُقُولِ.",
+      "translation": "Halid je sjeo kraj prozora i gledao u polja.",
+      "translationEn": "Khalid sat by the window and looked at the fields."
+    },
+    {
+      "arabic": "وَصَلَ إِلَى مَدِينَتِهِ مَسَاءً وَهُوَ سَعِيدٌ.",
+      "translation": "Stigao je u svoj grad uvečer sretan.",
+      "translationEn": "He arrived in his city in the evening feeling happy."
     }
   ],
   "metadata": {
-    "difficulty": 2,
+    "difficulty": 1,
     "tags": [
-      "travel",
-      "transportation"
+      "train",
+      "ticket",
+      "journey"
     ]
   }
 }

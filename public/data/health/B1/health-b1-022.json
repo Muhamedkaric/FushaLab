@@ -4,27 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "الْمَشْيُ كُلَّ صَبَاحٍ يُسَاعِدُ عَلَى تَحْسِينِ الْمِزَاجِ وَتَقْوِيَةِ الْقَلْبِ.",
-      "translation": "Šetnja svako jutro pomaže u poboljšanju raspoloženja i jačanju srca.",
-      "translationEn": "Walking every morning helps improve the mood and strengthen the heart."
+      "arabic": "سَقَطَ الطِّفْلُ حَسَنٌ مِنَ الدَّرَّاجَةِ وَجُرِحَتْ رُكْبَتُهُ.",
+      "translation": "Dječak Hasan je pao s bicikla i povrijedio koljeno.",
+      "translationEn": "The child Hasan fell from the bicycle and hurt his knee."
     },
     {
-      "arabic": "أَذْهَبُ إِلَى الْحَدِيقَةِ لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً كُلَّ يَوْمٍ.",
-      "translation": "Idem u park na trideset minuta svaki dan.",
-      "translationEn": "I go to the park for thirty minutes every day."
+      "arabic": "أَسْرَعَتْ أُمُّهُ وَغَسَلَتِ الْجُرْحَ بِالْمَاءِ.",
+      "translation": "Majka je brzo prišla i oprala ranu vodom.",
+      "translationEn": "His mother hurried over and washed the wound with water."
     },
     {
-      "arabic": "الرِّيَاضَةُ الْمُنْتَظَمَةُ تَحْمِينَا مِنْ أَمْرَاضٍ كَثِيرَةٍ.",
-      "translation": "Redovno vježbanje nas štiti od mnogih bolesti.",
-      "translationEn": "Regular exercise protects us from many diseases."
+      "arabic": "وَضَعَتْ عَلَيْهِ ضِمَادًا صَغِيرًا مِنَ الصَّيْدَلِيَّةِ.",
+      "translation": "Stavila je na njega mali flaster iz apoteke.",
+      "translationEn": "She put a small bandage from the pharmacy on it."
+    },
+    {
+      "arabic": "بَكَى حَسَنٌ قَلِيلًا ثُمَّ عَادَ يَلْعَبُ.",
+      "translation": "Hasan je malo plakao, a zatim se vratio igrati.",
+      "translationEn": "Hasan cried a little then went back to playing."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "exercise",
-      "physical health",
-      "walking"
-    ]
+    "tags": ["injury", "child", "first aid", "bandage"]
   }
 }

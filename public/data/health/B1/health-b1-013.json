@@ -4,27 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "ذَهَبْتُ إِلَى الصَّيْدَلِيَّةِ لِشِرَاءِ دَوَاءٍ لِلسُّعَالِ.",
-      "translation": "Otišao sam u apoteku da kupim lijek protiv kašlja.",
-      "translationEn": "I went to the pharmacy to buy cough medicine."
+      "arabic": "اشْتَكَى رَامِيٌّ مِنْ أَلَمٍ فِي الظَّهْرِ.",
+      "translation": "Rami se žalio na bol u leđima.",
+      "translationEn": "Rami complained of back pain."
     },
     {
-      "arabic": "قَدَّمَ لِي الصَّيْدَلَانِيُّ نَصَائِحَ مُفِيدَةً حَوْلَ صِحَّتِي.",
-      "translation": "Farmaceut mi je dao korisne savjete o mom zdravlju.",
-      "translationEn": "The pharmacist gave me useful advice about my health."
+      "arabic": "قَالَ الطَّبِيبُ إِنَّهُ يَجْلِسُ كَثِيرًا أَمَامَ الْحَاسُوبِ.",
+      "translation": "Ljekar je rekao da previše sjedi ispred računara.",
+      "translationEn": "The doctor said he sits too much in front of the computer."
     },
     {
-      "arabic": "شَرِبْتُ الدَّوَاءَ وَشَعَرْتُ بِتَحَسُّنٍ بَعْدَ وَقْتٍ قَصِيرٍ.",
-      "translation": "Popio sam lijek i osjetio sam se bolje nakon kratkog vremena.",
-      "translationEn": "I took the medicine and felt better after a short time."
+      "arabic": "نَصَحَهُ بِالْوُقُوفِ وَالتَّمَدُّدِ كُلَّ سَاعَةٍ.",
+      "translation": "Savjetovao ga je da stane i pruži se svaki sat.",
+      "translationEn": "He advised him to stand up and stretch every hour."
+    },
+    {
+      "arabic": "بَدَأَ رَامِيٌّ يَقُومُ بِتَمَارِينَ خَفِيفَةٍ فِي الْبَيْتِ.",
+      "translation": "Rami je počeo raditi lagane vježbe kod kuće.",
+      "translationEn": "Rami started doing light exercises at home."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "pharmacy",
-      "medicine",
-      "health advice"
-    ]
+    "tags": ["back pain", "exercise", "posture", "computer"]
   }
 }

@@ -4,31 +4,33 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "يَجِبُ أَنْ نَأْكُلَ الْخُضْرَاوَاتِ وَالْفَوَاكِهَ كُلَّ يَوْمٍ.",
-      "translation": "Moramo jesti povrće i voće svaki dan.",
-      "translationEn": "We must eat vegetables and fruits every day."
+      "arabic": "ذَهَبَتْ فَاطِمَةُ إِلَى الصَّيْدَلِيَّةِ لِشِرَاءِ دَوَاءٍ لِلسُّعَالِ.",
+      "translation": "Fatima je otišla u apoteku da kupi lijek za kašalj.",
+      "translationEn": "Fatima went to the pharmacy to buy cough medicine."
     },
     {
-      "arabic": "هِيَ تَمُدُّ الْجِسْمَ بِالْفِيتَامِينَاتِ اللَّازِمَةِ لِلصِّحَّةِ.",
-      "translation": "Ono opskrbljuje tijelo vitaminima potrebnim za zdravlje.",
-      "translationEn": "It provides the body with the vitamins necessary for health."
+      "arabic": "سَأَلَ الصَّيْدَلَانِيُّ عَنْ أَعْرَاضِهَا.",
+      "translation": "Farmaceut je upitao o njezinim simptomima.",
+      "translationEn": "The pharmacist asked about her symptoms."
     },
     {
-      "arabic": "يُفَضِّلُ الْأَطِبَّاءُ تَنَاوُلَ التُّفَّاحِ لِتَقْوِيَةِ الْمَنَاعَةِ.",
-      "translation": "Ljekari preferiraju jedenje jabuka radi jačanja imuniteta.",
-      "translationEn": "Doctors prefer eating apples to strengthen immunity."
+      "arabic": "قَالَتْ إِنَّهَا تَسْعُلُ كَثِيرًا وَتَشْعُرُ بِبَرْدٍ.",
+      "translation": "Rekla je da mnogo kašlje i da se osjeća prehlaðeno.",
+      "translationEn": "She said she coughs a lot and feels cold."
     },
     {
-      "arabic": "الْغِذَاءُ الصِّحِّيُّ يُسَاعِدُنَا عَلَى النُّمُوِّ بِشَكْلٍ سَلِيمٍ.",
-      "translation": "Zdrava ishrana nam pomaže da rastemo na pravilan način.",
-      "translationEn": "Healthy food helps us grow in a sound way."
+      "arabic": "أَعْطَاهَا الصَّيْدَلَانِيُّ دَوَاءً مُنَاسِبًا وَشَرَحَ لَهَا كَيْفَ تَأْخُذُهُ.",
+      "translation": "Farmaceut joj je dao odgovarajući lijek i objasnio kako ga uzeti.",
+      "translationEn": "The pharmacist gave her a suitable medicine and explained how to take it."
+    },
+    {
+      "arabic": "شَكَرَتْ فَاطِمَةُ الصَّيْدَلَانِيَّ وَعَادَتْ إِلَى الْبَيْتِ.",
+      "translation": "Fatima je zahvalila farmaceutu i vratila se kući.",
+      "translationEn": "Fatima thanked the pharmacist and went back home."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "nutrition",
-      "healthy eating"
-    ]
+    "tags": ["pharmacy", "cough", "medicine", "cold"]
   }
 }

@@ -4,16 +4,32 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "يُرِيدُ أَحْمَدُ أَنْ يَزُورَ الْأَهْرَامَاتِ الْمَشْهُورَةَ فِي الْجِيزَةِ.",
-      "translation": "Ahmed želi posjetiti poznate piramide u Gizi.",
-      "translationEn": "Ahmed wants to visit the famous pyramids in Giza."
+      "arabic": "وَصَلَ الْقِطَارُ إِلَى الْمَحَطَّةِ فِي الصَّبَاحِ.",
+      "translation": "Voz je stigao na stanicu ujutro.",
+      "translationEn": "The train arrived at the station in the morning."
+    },
+    {
+      "arabic": "نَزَلَ الْمُسَافِرُونَ مِنَ الْقِطَارِ وَأَخَذُوا حَقَائِبَهُمْ.",
+      "translation": "Putnici su izašli iz voza i uzeli svoje torbe.",
+      "translationEn": "The travelers got off the train and took their bags."
+    },
+    {
+      "arabic": "بَحَثَ أَحْمَدُ عَنْ سَيَّارَةِ الْأُجْرَةِ أَمَامَ الْمَحَطَّةِ.",
+      "translation": "Ahmed je tražio taksi ispred stanice.",
+      "translationEn": "Ahmed looked for a taxi in front of the station."
+    },
+    {
+      "arabic": "وَصَلَ إِلَى الْفُنْدُقِ بَعْدَ نِصْفِ سَاعَةٍ.",
+      "translation": "Stigao je do hotela nakon pola sata.",
+      "translationEn": "He arrived at the hotel after half an hour."
     }
   ],
   "metadata": {
     "difficulty": 1,
     "tags": [
-      "travel",
-      "landmarks"
+      "train",
+      "station",
+      "taxi"
     ]
   }
 }

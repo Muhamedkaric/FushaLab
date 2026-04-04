@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "افْتَتَحَ الرَّئِيسُ مَسْتَشْفًى جَدِيدًا فِي الْمَدِينَةِ.",
-      "translation": "Predsjednik je otvorio novu bolnicu u gradu.",
-      "translationEn": "The president opened a new hospital in the city."
+      "arabic": "افْتَتَحَ السُّوقُ الأُسْبُوعِيُّ أَبْوَابَهُ صَبَاحَ الْيَوْمِ.",
+      "translation": "Sedmična pijaca otvorila je svoja vrata jutros.",
+      "translationEn": "The weekly market opened its doors this morning."
+    },
+    {
+      "arabic": "جَاءَ كَثِيرٌ مِنَ الْبَائِعِينَ بِخُضَرَاوَاتٍ طَازَجَةٍ.",
+      "translation": "Mnogi prodavači su donijeli svježe povrće.",
+      "translationEn": "Many vendors came with fresh vegetables."
+    },
+    {
+      "arabic": "اشْتَرَى النَّاسُ الْفَوَاكِهَ وَالْخُبْزَ وَالْجُبْنَ.",
+      "translation": "Ljudi su kupovali voće, hljeb i sir.",
+      "translationEn": "People bought fruits, bread, and cheese."
+    },
+    {
+      "arabic": "كَانَ السُّوقُ مُزْدَحِمًا وَصَاخِبًا طُولَ النَّهَارِ.",
+      "translation": "Pijaca je bila gužvava i glasna cijeli dan.",
+      "translationEn": "The market was crowded and noisy all day long."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "news",
-      "health",
-      "politics"
-    ]
+    "tags": ["market", "shopping", "daily life"]
   }
 }

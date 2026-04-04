@@ -4,17 +4,28 @@
   "level": "B1",
   "sentences": [
     {
-      "arabic": "ارْتَفَعَتْ أَسْعَارُ الْبَنْزِينِ فِي مَحَطَّاتِ الْوَقُودِ هَذَا الشَّهْرَ.",
-      "translation": "Cijene benzina na benzinskim stanicama su porasle ovog mjeseca.",
-      "translationEn": "Petrol prices at fuel stations rose this month."
+      "arabic": "نَظَّمَتِ الْمَدْرَسَةُ رِحْلَةً لِلطُّلَّابِ الأُسْبُوعَ الْمَاضِيَ.",
+      "translation": "Škola je organizovala izlet za učenike prošle sedmice.",
+      "translationEn": "The school organized a trip for students last week."
+    },
+    {
+      "arabic": "زَارَ الطُّلَّابُ مَتْحَفًا كَبِيرًا فِي وَسَطِ الْمَدِينَةِ.",
+      "translation": "Učenici su posjetili veliki muzej u centru grada.",
+      "translationEn": "The students visited a large museum in the city center."
+    },
+    {
+      "arabic": "رَأَوْا صُوَرًا قَدِيمَةً وَأَشْيَاءَ تَارِيخِيَّةً كَثِيرَةً.",
+      "translation": "Vidjeli su stare slike i mnoge historijske predmete.",
+      "translationEn": "They saw old paintings and many historical objects."
+    },
+    {
+      "arabic": "عَادَ الطُّلَّابُ إِلَى الْمَدْرَسَةِ وَهُمْ سُعَدَاءُ.",
+      "translation": "Učenici su se vratili u školu sretni.",
+      "translationEn": "The students returned to school happy."
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": [
-      "news",
-      "economy",
-      "fuel"
-    ]
+    "tags": ["school", "museum", "trip"]
   }
 }
