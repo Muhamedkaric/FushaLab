@@ -23,6 +23,7 @@ import HeadphonesIcon from '@mui/icons-material/Headphones'
 import TranslateIcon from '@mui/icons-material/Translate'
 import ForumIcon from '@mui/icons-material/Forum'
 import QuizIcon from '@mui/icons-material/Quiz'
+import SchoolIcon from '@mui/icons-material/School'
 import InsightsIcon from '@mui/icons-material/Insights'
 import DarkModeIcon from '@mui/icons-material/DarkMode'
 import LightModeIcon from '@mui/icons-material/LightMode'
@@ -53,6 +54,7 @@ export function Layout({ children, onToggleTheme, isDark }: Props) {
     { path: '/vocabulary', label: t.nav.vocabulary, icon: <TranslateIcon fontSize="small" /> },
     { path: '/conversation', label: t.nav.conversation, icon: <ForumIcon fontSize="small" /> },
     { path: '/exercises', label: t.nav.exercises, icon: <QuizIcon fontSize="small" /> },
+    { path: '/grammar', label: t.nav.grammar, icon: <SchoolIcon fontSize="small" /> },
     { path: '/progress', label: t.nav.progress, icon: <InsightsIcon fontSize="small" /> },
   ]
 

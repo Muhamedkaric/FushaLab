@@ -1,0 +1,201 @@
+{
+  "id": "al-mubtada-khabar",
+  "block": 1,
+  "order": 3,
+  "level": "A1",
+  "track": "nahw",
+  "titleAr": "الْمُبْتَدَأُ وَالْخَبَرُ",
+  "titleBs": "Subjekt i predikat imenske rečenice",
+  "summary": "Dva stuba imenske rečenice. Svaki nosi ضَمَّةٌ — ali imaju različite uloge i različita pravila.",
+  "estimatedMinutes": 9,
+  "sections": [
+    {
+      "type": "intro",
+      "content": "Imenska rečenica stoji na dva stuba: الْمُبْتَدَأُ i الْخَبَرُ. الْمُبْتَدَأُ je ono o čemu govorimo — subjekt, tema, polazišna točka. الْخَبَرُ je ono što kažemo o toj temi — predikat, vijest, informacija. Obje nose الرَّفْعُ (nominativ, ضمة), ali se razlikuju po određenosti, obliku i poziciji. Razumjeti ovaj par znači razumjeti pola arapske gramatike."
+    },
+    {
+      "type": "terms",
+      "items": [
+        {
+          "arabic": "الْمُبْتَدَأُ",
+          "roman": "al-mubtadaʾ",
+          "bs": "subjekt imenske rečenice",
+          "note": "Dolazi prvi. Uvijek مَرْفُوعٌ (nosi ضمة). Obično je مَعْرِفَةٌ (određen: ال, vlastito ime, zamjenica)."
+        },
+        {
+          "arabic": "الْخَبَرُ",
+          "roman": "al-khabar",
+          "bs": "predikat imenske rečenice",
+          "note": "Govori nešto o مُبْتَدَأ. Uvijek مَرْفُوعٌ. Može biti: imenica, pridjev, prijedloška fraza, cijela rečenica."
+        },
+        {
+          "arabic": "الرَّفْعُ",
+          "roman": "ar-raf'",
+          "bs": "nominativ — najviši padež",
+          "note": "Oznaka: ضَمَّةٌ (ُ) na kraju. Za مُبْتَدَأ i خَبَر i za فَاعِل. الرَّفْعُ = uzvisiti, podignuti."
+        },
+        {
+          "arabic": "الضَّمَّةُ",
+          "roman": "aḍ-ḍamma",
+          "bs": "kratki vokal (u) na kraju — znak رفع",
+          "note": "كِتَابٌ → الْكِتَابُ (ضمة na ب). Tanvīn ضم = ٌ na neodređenim imenicama."
+        }
+      ]
+    },
+    {
+      "type": "rule",
+      "titleAr": "شُرُوطُ الْمُبْتَدَأِ",
+      "formula": "الْمُبْتَدَأُ: مَعْرِفَةٌ + مَرْفُوعٌ",
+      "content": "الْمُبْتَدَأُ u osnovi mora biti مَعْرِفَةٌ (određen). Što je مَعْرِفَةٌ?\n• Imenica s ال: الْكِتَابُ, الْبَيْتُ\n• Vlastito ime: مُحَمَّدٌ, مَكَّةُ\n• Zamjenica: هُوَ, هِيَ, أَنْتَ\n• Izafet s određenim krajem: كِتَابُ الطَّالِبِ\n\nNeodređena imenica (كِتَابٌ) normalno ne može biti مُبْتَدَأٌ bez posebnog konteksta."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Vrste خَبَر — predikat nije uvijek jedna riječ",
+      "content": "خَبَر može imati četiri oblika:\n\n1. Jedna imenica/pridjev: الْبَيْتُ كَبِيرٌ (kuća je velika)\n2. Prijedloška fraza (شِبْهُ الْجُمْلَةِ): الْكِتَابُ عَلَى الطَّاوِلَةِ (knjiga je na stolu)\n3. Glagolska rečenica: الطَّالِبُ يَكْتُبُ (student piše)\n4. Imenska rečenica: الْبَابُ فَتْحُهُ سَهْلٌ (vrata — otvaranje im je lako)"
+    },
+    {
+      "type": "examples",
+      "title": "Primjeri s jednom imenicom/pridjevom kao خَبَر",
+      "items": [
+        {
+          "arabic": "الْقُرْآنُ كَرِيمٌ",
+          "bs": "Kur'an je plemenit.",
+          "annotated": [
+            { "word": "الْقُرْآنُ", "role": "mubtada", "label": "مُبْتَدَأٌ" },
+            { "word": "كَرِيمٌ", "role": "khabar", "label": "خَبَرٌ" }
+          ],
+          "note": "الْقُرْآنُ određen (ال) → مُبْتَدَأٌ. كَرِيمٌ nosi tanvīn ضم → خَبَرٌ. Obje na رفع."
+        },
+        {
+          "arabic": "هَذَا الطَّالِبُ مُجْتَهِدٌ",
+          "bs": "Ovaj student je marljiv.",
+          "annotated": [
+            { "word": "هَذَا", "role": "mubtada", "label": "مُبْتَدَأٌ" },
+            { "word": "الطَّالِبُ", "role": "nat", "label": "بَدَلٌ" },
+            { "word": "مُجْتَهِدٌ", "role": "khabar", "label": "خَبَرٌ" }
+          ],
+          "note": "هَذَا je zamjenica → mُبْتَدَأٌ. الطَّالِبُ objašnjava (بَدَلٌ). مُجْتَهِدٌ je خَبَرٌ."
+        },
+        {
+          "arabic": "اللُّغَةُ الْعَرَبِيَّةُ لُغَةُ الْقُرْآنِ",
+          "bs": "Arapski jezik je jezik Kur'ana.",
+          "annotated": [
+            { "word": "اللُّغَةُ", "role": "mubtada", "label": "مُبْتَدَأٌ" },
+            { "word": "الْعَرَبِيَّةُ", "role": "nat", "label": "نَعْتٌ" },
+            { "word": "لُغَةُ", "role": "khabar", "label": "خَبَرٌ" },
+            { "word": "الْقُرْآنِ", "role": "mudaf-ilayh", "label": "مُضَافٌ إِلَيْهِ" }
+          ],
+          "note": "Khabar je ovdje مُضَافٌ: لُغَةُ الْقُرْآنِ. Cijela izafetna fraza čini predikat."
+        }
+      ]
+    },
+    {
+      "type": "examples",
+      "title": "Primjeri s prijedložnom frazom kao خَبَر",
+      "items": [
+        {
+          "arabic": "الْمُعَلِّمُ فِي الْفَصْلِ",
+          "bs": "Učitelj je u razredu.",
+          "annotated": [
+            { "word": "الْمُعَلِّمُ", "role": "mubtada", "label": "مُبْتَدَأٌ" },
+            { "word": "فِي", "role": "harf", "label": "حَرْفُ جَرٍّ" },
+            { "word": "الْفَصْلِ", "role": "mudaf-ilayh", "label": "مَجْرُورٌ" }
+          ],
+          "note": "Khabar je شِبْهُ الْجُمْلَةِ (فِي الْفَصْلِ). Nema glagola 'je/jest' — to je normalno u arapskom!"
+        },
+        {
+          "arabic": "الْمَسْجِدُ أَمَامَ الْبَيْتِ",
+          "bs": "Džamija je ispred kuće.",
+          "annotated": [
+            { "word": "الْمَسْجِدُ", "role": "mubtada", "label": "مُبْتَدَأٌ" },
+            { "word": "أَمَامَ", "role": "khabar", "label": "خَبَرٌ (ظَرْفٌ)" },
+            { "word": "الْبَيْتِ", "role": "mudaf-ilayh", "label": "مُضَافٌ إِلَيْهِ" }
+          ],
+          "note": "أَمَامَ je ظَرْفٌ (prilog mjesta) koji služi kao khabar. Uvijek na نَصْب ali funkcioniše kao predikat."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Glagol 'je/jest' ne postoji u arapskom sadašnjosti",
+      "content": "U engleskom: 'The book IS new.' U arapskom: الْكِتَابُ جَدِيدٌ — bez glagola!\n\nArapski ne koristi glagol 'je/jest' (يَكُونُ) u sadašnjem vremenu za imensku rečenicu. Mubtada i khabar stoje jedan pored drugog bez spojke. Ovo je jedna od prvih stvari koje zbune učenike — zapamti: ako nema glagola, vjerovatno je اسمية u sadašnjosti."
+    },
+    {
+      "type": "table",
+      "title": "Sažetak: مُبْتَدَأٌ vs خَبَرٌ",
+      "headers": ["Osobina", "الْمُبْتَدَأُ", "الْخَبَرُ"],
+      "rows": [
+        ["Pozicija", "Uvijek prvi", "Dolazi iza mubtade"],
+        ["Padež", "مَرْفُوعٌ (ضمة)", "مَرْفُوعٌ (ضمة)"],
+        ["Određenost", "Obično مَعْرِفَةٌ", "Obično نَكِرَةٌ"],
+        ["Oblik", "Uvijek imenica/zamjenica", "Imenica, pridjev, fraza, rečenica"],
+        ["Uloga", "Tema razgovora", "Nova informacija o temi"]
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "type": "identify-role",
+      "arabic": "الْمَدِينَةُ جَمِيلَةٌ",
+      "question": "Tapni na الْخَبَرَ u ovoj rečenici.",
+      "words": ["الْمَدِينَةُ", "جَمِيلَةٌ"],
+      "correctIndex": 1,
+      "explanation": "الْمَدِينَةُ je مُبْتَدَأٌ (određen s ال, nosi ضمة). جَمِيلَةٌ je خَبَرٌ — govori nam da je grad lijep (nosi tanvīn ضم). 'Grad je lijep.'"
+    },
+    {
+      "type": "choose",
+      "question": "Koja od ovih rečenica je pravilna imenska rečenica?",
+      "options": [
+        "كَتَبَ كِتَابٌ",
+        "الْكِتَابُ جَدِيدٌ",
+        "يَقْرَأُ الطَّالِبُ",
+        "فِي الْبَيْتِ"
+      ],
+      "correctIndex": 1,
+      "explanation": "الْكِتَابُ جَدِيدٌ je pravilna اسمية: الْكِتَابُ je مُبْتَدَأٌ (مَعْرِفَةٌ, مَرْفُوعٌ), جَدِيدٌ je خَبَرٌ (نَكِرَةٌ, مَرْفُوعٌ). Ostale opcije su ili glagolske rečenice ili nepotpune fraze."
+    },
+    {
+      "type": "true-false",
+      "statement": "U arapskom sadašnjosti između مُبْتَدَأ i خَبَر mora stajati glagol يَكُونُ (je/jest).",
+      "correct": false,
+      "explanation": "Netačno. Arapski u sadašnjosti ne koristi يَكُونُ u imenskoj rečenici. الْكِتَابُ جَدِيدٌ = 'Knjiga je nova' — bez ikakvog glagola. يَكُونُ se koristi samo u prošlosti (كَانَ) ili za posebne gramatičke konstruke."
+    },
+    {
+      "type": "identify-role",
+      "arabic": "أَبُو بَكْرٍ الصِّدِّيقُ صَاحِبُ النَّبِيِّ",
+      "question": "Tapni na الْمُبْتَدَأَ u ovoj rečenici.",
+      "words": ["أَبُو بَكْرٍ", "الصِّدِّيقُ", "صَاحِبُ النَّبِيِّ"],
+      "correctIndex": 0,
+      "explanation": "أَبُو بَكْرٍ je مُبْتَدَأٌ (vlastito ime, nosi ضمة u أبو jer je مرفوع). الصِّدِّيقُ je نَعْتٌ ili بَدَلٌ. صَاحِبُ النَّبِيِّ je خَبَرٌ. 'Ebu Bekr es-Siddik je drug Vjerovjesnika.'"
+    },
+    {
+      "type": "classify",
+      "arabic": "الْكِتَابُ عَلَى الرَّفِّ",
+      "question": "Šta je خَبَر u ovoj rečenici?",
+      "options": [
+        "الْكِتَابُ (knjiga)",
+        "عَلَى الرَّفِّ (na polici)",
+        "الرَّفِّ (polica)",
+        "Nema khabara — rečenica je nepotpuna"
+      ],
+      "correctIndex": 1,
+      "explanation": "عَلَى الرَّفِّ (na polici) je خَبَرٌ tipa شِبْهُ الْجُمْلَةِ (prijedloška fraza). Khabar ne mora biti samo jedna imenica — cijela fraza može biti predikat. 'Knjiga je na polici.'"
+    },
+    {
+      "type": "true-false",
+      "statement": "Rečenica كِتَابٌ جَدِيدٌ je ispravna imenska rečenica s كِتَابٌ kao مُبْتَدَأٌ.",
+      "correct": false,
+      "explanation": "كِتَابٌ je نَكِرَةٌ (neodređeno) i normalno ne može biti مُبْتَدَأٌ. مُبْتَدَأٌ mora biti مَعْرِفَةٌ. Ispravno bi bilo الْكِتَابُ جَدِيدٌ. Postoje iznimke (u određenim kontekstima neodređena imenica može biti مُبْتَدَأ), ali to je napredna tema."
+    },
+    {
+      "type": "identify-role",
+      "arabic": "الْأُسْتَاذُ فِي غُرْفَتِهِ",
+      "question": "Tapni na الْخَبَرَ u ovoj rečenici.",
+      "words": ["الْأُسْتَاذُ", "فِي غُرْفَتِهِ"],
+      "correctIndex": 1,
+      "explanation": "فِي غُرْفَتِهِ (u svojoj sobi) je خَبَرٌ — prijedloška fraza koja kaže gdje je profesor. الْأُسْتَاذُ je مُبْتَدَأٌ. 'Profesor je u svojoj sobi.'"
+    }
+  ]
+}

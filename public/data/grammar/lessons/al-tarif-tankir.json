@@ -1,0 +1,166 @@
+{
+  "id": "al-tarif-tankir",
+  "block": 1,
+  "order": 4,
+  "level": "A1",
+  "track": "nahw",
+  "titleAr": "التَّعْرِيفُ وَالتَّنْكِيرُ",
+  "titleBs": "Određenost i neodređenost",
+  "summary": "الْكِتَابُ vs كِتَابٌ — razlika koja mijenja smisao i gramatiku svake rečenice.",
+  "estimatedMinutes": 7,
+  "sections": [
+    {
+      "type": "intro",
+      "content": "Svaka arapska imenica je ili مَعْرِفَةٌ (određena) ili نَكِرَةٌ (neodređena). Ova razlika nije samo jezička sitnica — ona određuje da li je imenica مُبْتَدَأٌ ili خَبَرٌ, da li se slaže نَعْتٌ (pridjev) s njom u određenosti, i kako se gradi cijela rečenica. كِتَابٌ je 'neka knjiga', الْكِتَابُ je 'ta knjiga' — određena, poznata, specifična."
+    },
+    {
+      "type": "terms",
+      "items": [
+        {
+          "arabic": "الْمَعْرِفَةُ",
+          "roman": "al-maʿrifa",
+          "bs": "određena imenica",
+          "note": "Imenica čiji identitet je poznat: الْكِتَابُ, مُحَمَّدٌ, هُوَ, هَذَا. Vrste: ال, vlastita imena, zamjenice, показivanje (هذا), izafet s određenim krajem."
+        },
+        {
+          "arabic": "النَّكِرَةُ",
+          "roman": "an-nakira",
+          "bs": "neodređena imenica",
+          "note": "Imenica čiji identitet nije određen: كِتَابٌ (neka knjiga), رَجُلٌ (neki čovjek). Nosi tanvīn (ٌ ً ٍ)."
+        },
+        {
+          "arabic": "أَلْ التَّعْرِيفِ",
+          "roman": "alif-lam at-ta'rif",
+          "bs": "određeni član ال",
+          "note": "Dodaje se ispred imenice da je odredi: كِتَابٌ → الْكِتَابُ. Oblik se ne mijenja, ali ل asimilira s nekim slovima (الشَّمْسِيَّةُ)."
+        },
+        {
+          "arabic": "التَّنْوِينُ",
+          "roman": "at-tanwīn",
+          "bs": "tanvīn — dvostruki vokal, znak neodređenosti",
+          "note": "Tri oblika: ٌ (tanvīn ḍamm), ً (tanvīn fatḥ), ٍ (tanvīn kasr). Imenica s ال ne može imati tanvīn — jedno isključuje drugo."
+        }
+      ]
+    },
+    {
+      "type": "rule",
+      "titleAr": "الْقَاعِدَةُ",
+      "formula": "اسْمٌ + ال = مَعْرِفَةٌ | اسْمٌ + تَنْوِينٌ = نَكِرَةٌ",
+      "content": "Ovo su dvije suprotnosti koje se međusobno isključuju:\n• Imenica s ال nosi ضمة (bez tanvīna) → مَعْرِفَةٌ\n• Imenica bez ال nosi tanvīn → نَكِرَةٌ\n\nالْكِتَابُ = 'knjiga (određena)' | كِتَابٌ = 'neka knjiga'\nالرَّجُلُ = 'čovjek (taj)' | رَجُلٌ = 'neki čovjek'"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Slova šemsijja i kamerijja",
+      "content": "ال se čita drugačije ispred 14 'sunčanih' slova (الشَّمْسِيَّةُ):\n→ الشَّمْسُ (ne čita se ل, asimilira u ش)\n→ الرَّجُلُ (ل postaje ر)\n→ النُّورُ (ل postaje ن)\n\nIspred 14 'mjesečnih' slova (الْقَمَرِيَّةُ) ل se čita normalno:\n→ الْقَمَرُ (ل se čita)\n→ الْكِتَابُ (ل se čita)\n→ الْبَيْتُ (ل se čita)\n\nZapamti: šems (sunce) 'proguta' ل — كما تغلب الشمس على كل شيء."
+    },
+    {
+      "type": "table",
+      "title": "Određenost: مَعْرِفَةٌ po tipu",
+      "headers": ["Tip مَعْرِفَة", "Primjer", "Zašto određen"],
+      "rows": [
+        ["Imenica s ال", "الْكِتَابُ", "ال čini imenicu poznatom"],
+        ["Vlastito ime", "مُحَمَّدٌ / مَكَّةُ", "Jedno jedino u kontekstu"],
+        ["Lična zamjenica", "هُوَ / هِيَ / أَنَا", "Znamo koga/šta označava"],
+        ["Pokazna zamjenica", "هَذَا / هَذِهِ / ذَلِكَ", "Pokazuje na konkretno"],
+        ["Izafet s određenim krajem", "كِتَابُ الطَّالِبِ", "Kraj الطَّالِبِ određuje cijeli izafet"]
+      ]
+    },
+    {
+      "type": "examples",
+      "title": "Određenost u rečenicama",
+      "items": [
+        {
+          "arabic": "قَرَأَ الطَّالِبُ كِتَابًا",
+          "bs": "Student je pročitao neku knjigu.",
+          "annotated": [
+            { "word": "قَرَأَ", "role": "fil", "label": "فِعْلٌ" },
+            { "word": "الطَّالِبُ", "role": "mubtada", "label": "فَاعِلٌ (مَعْرِفَةٌ)" },
+            { "word": "كِتَابًا", "role": "mafool", "label": "مَفْعُولٌ (نَكِرَةٌ)" }
+          ],
+          "note": "الطَّالِبُ je određen (ال) → znamo o kom se radi. كِتَابًا je نَكِرَةٌ (tanvīn fatḥ) → nije jasno koja knjiga."
+        },
+        {
+          "arabic": "قَرَأَ الطَّالِبُ الْكِتَابَ",
+          "bs": "Student je pročitao (tu određenu) knjigu.",
+          "annotated": [
+            { "word": "قَرَأَ", "role": "fil", "label": "فِعْلٌ" },
+            { "word": "الطَّالِبُ", "role": "mubtada", "label": "فَاعِلٌ (مَعْرِفَةٌ)" },
+            { "word": "الْكِتَابَ", "role": "mafool", "label": "مَفْعُولٌ (مَعْرِفَةٌ)" }
+          ],
+          "note": "الْكِتَابَ je određen (ال) → znamo o kojoj knjizi govorimo. Nema tanvīna — nosi samo فتحة jer je مَنْصُوبٌ."
+        },
+        {
+          "arabic": "هَذَا كِتَابٌ مُفِيدٌ",
+          "bs": "Ovo je korisna knjiga.",
+          "annotated": [
+            { "word": "هَذَا", "role": "mubtada", "label": "مُبْتَدَأٌ (مَعْرِفَةٌ)" },
+            { "word": "كِتَابٌ", "role": "khabar", "label": "خَبَرٌ (نَكِرَةٌ)" },
+            { "word": "مُفِيدٌ", "role": "nat", "label": "نَعْتٌ (نَكِرَةٌ)" }
+          ],
+          "note": "هَذَا (određena zamjenica) je مُبْتَدَأٌ. Khabar كِتَابٌ je نَكِرَةٌ — ovdje je dozvoljeno jer مُبْتَدَأ je zamjenica."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "root",
+      "title": "النَّعْتُ mora pratiti مَنْعُوتٌ u određenosti",
+      "content": "Ovo je pravilo koje mnogi zaborave:\nAko je imenica određena, i njen pridjev mora biti određen.\nAko je imenica neodređena, i njen pridjev mora biti neodređen.\n\n✓ الْكِتَابُ الْجَدِيدُ (određena imenica + određeni pridjev)\n✓ كِتَابٌ جَدِيدٌ (neodređena + neodređeni)\n✗ الْكِتَابُ جَدِيدٌ — ovo je imenska rečenica, ne imenica s pridjevom!\n\nالْكِتَابُ جَدِيدٌ = 'Knjiga je nova.' (mُبْتَدَأ + خَبَر)\nالْكِتَابُ الْجَدِيدُ = 'nova knjiga' (imenica + njen pridjev)"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "classify",
+      "arabic": "مَسْجِدٌ",
+      "question": "Je li ova imenica مَعْرِفَةٌ ili نَكِرَةٌ?",
+      "options": ["مَعْرِفَةٌ (određena)", "نَكِرَةٌ (neodređena)"],
+      "correctIndex": 1,
+      "explanation": "مَسْجِدٌ nosi tanvīn ضم (ٌ) i nema ال → نَكِرَةٌ. 'Neka džamija.' Kada dodamo ال → الْمَسْجِدُ = 'džamija (određena, poznata)'."
+    },
+    {
+      "type": "classify",
+      "arabic": "الْمَدِينَةُ",
+      "question": "Je li ova imenica مَعْرِفَةٌ ili نَكِرَةٌ?",
+      "options": ["مَعْرِفَةٌ (određena)", "نَكِرَةٌ (neodređena)"],
+      "correctIndex": 0,
+      "explanation": "الْمَدِينَةُ ima ال i nosi samo ضمة (bez tanvīna) → مَعْرِفَةٌ. 'Grad (taj određeni grad).' Nema tanvīna — ال i tanvīn se ne mogu naći zajedno."
+    },
+    {
+      "type": "true-false",
+      "statement": "الرَّجُلُ طَوِيلٌ je imenska rečenica, a ne imenica s pridjevom.",
+      "correct": true,
+      "explanation": "Tačno! الرَّجُلُ (određen) + طَوِيلٌ (neodređen s tanvīnom) = مُبْتَدَأٌ + خَبَرٌ = imenska rečenica: 'Muškarac je visok.' Da je رَجُلٌ طَوِيلٌ — to je neodređena imenica s pridjevom: 'visok muškarac'. Određenost odlučuje sve."
+    },
+    {
+      "type": "choose",
+      "question": "Koji izraz je ispravna imenska fraza (imenica + njen придjev) a ne rečenica?",
+      "options": [
+        "الْبَيْتُ كَبِيرٌ",
+        "الْبَيْتُ الْكَبِيرُ",
+        "بَيْتٌ الْكَبِيرُ",
+        "بَيْتٌ كَبِيرٌ الْجَمِيلُ"
+      ],
+      "correctIndex": 1,
+      "explanation": "الْبَيْتُ الْكَبِيرُ je ispravna fraza: određena imenica + određeni pridjev ('velika kuća'). الْبَيْتُ كَبِيرٌ je rečenica ('kuća je velika'). بَيْتٌ الْكَبِيرُ je gramatički pogrešno (مَعْرِفَةٌ ne može biti نَعْتٌ neodređenoj imenici)."
+    },
+    {
+      "type": "true-false",
+      "statement": "Vlastito ime مُحَمَّدٌ je نَكِرَةٌ jer nosi tanvīn.",
+      "correct": false,
+      "explanation": "Netačno! مُحَمَّدٌ je مَعْرِفَةٌ jer je vlastito ime (اسم علم) — bez obzira na tanvīn. Tanvīn na vlastitim imenima je morfološki znak, ne znak neodređenosti. Neodređenost i tanvīn nisu ista stvar — tanvīn prati padež i morfologiju, ne samo određenost."
+    },
+    {
+      "type": "choose",
+      "question": "Dopuni rečenicu: ذَهَبَ إِلَى __________ (otišao je u školu — određenu)",
+      "options": [
+        "مَدْرَسَةً",
+        "الْمَدْرَسَةِ",
+        "مَدْرَسَةٌ",
+        "الْمَدْرَسَةَ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iza إِلَى (harf jarr) dolazi مَجْرُورٌ (s كسرة): الْمَدْرَسَةِ. Određena imenica (ال) + kasra (jer je مجرور) = الْمَدْرَسَةِ. Prevod: 'Otišao je u školu (tu određenu).'"
+    }
+  ]
+}

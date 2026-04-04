@@ -1,0 +1,168 @@
+{
+  "id": "al-mudhakkar-muannath",
+  "block": 1,
+  "order": 5,
+  "level": "A1",
+  "track": "nahw",
+  "titleAr": "الْمُذَكَّرُ وَالْمُؤَنَّثُ",
+  "titleBs": "Muški i ženski rod",
+  "summary": "Arapski rod nije samo biološki — svaka imenica, pridjev i glagol nosi rod koji se mora slagati.",
+  "estimatedMinutes": 8,
+  "sections": [
+    {
+      "type": "intro",
+      "content": "U arapskom jeziku svaka imenica ima rod — الْمُذَكَّرُ (muški) ili الْمُؤَنَّثُ (ženski). To nije posebnost — to je osnova slaganja (الْمُطَابَقَةُ). Glagol, pridjev i zamjenica moraju se slagati s imenicom u rodu. Pogriješiti rod znači pogriješiti cijelu rečenicu. Dobra vijest: postoje jasna pravila i znaci koji otkrivaju koji rod je koja imenica."
+    },
+    {
+      "type": "terms",
+      "items": [
+        {
+          "arabic": "الْمُذَكَّرُ",
+          "roman": "al-mudhakkar",
+          "bs": "muški rod",
+          "note": "Nema posebnog znaka — to je osnova. Primjeri: رَجُلٌ (čovjek), كِتَابٌ (knjiga), بَابٌ (vrata), قَمَرٌ (mjesec)."
+        },
+        {
+          "arabic": "الْمُؤَنَّثُ",
+          "roman": "al-muʾannath",
+          "bs": "ženski rod",
+          "note": "Obično nosi jedan od znakova ženskog roda (علامات التأنيث). Primjeri: طَالِبَةٌ, فَاطِمَةُ, شَمْسٌ, أَرْضٌ."
+        },
+        {
+          "arabic": "التَّأْنِيثُ اللَّفْظِيُّ",
+          "roman": "at-taʾnīth al-lafẓī",
+          "bs": "formalni ženski rod — ima znak",
+          "note": "Imenica nosi ة (tāʾ marbūṭa), أَلِف مَمْدُودَة (اء) ili أَلِف مَقْصُورَة (ى). Primjeri: مَدْرَسَةٌ, صَحْرَاءُ, ذِكْرَى."
+        },
+        {
+          "arabic": "التَّأْنِيثُ الْمَعْنَوِيُّ",
+          "roman": "at-taʾnīth al-maʿnawī",
+          "bs": "semantički ženski rod — bez vidljivog znaka",
+          "note": "Neke imenice su ženskog roda bez ة: شَمْسٌ (sunce), نَارٌ (vatra), أَرْضٌ (zemlja), يَدٌ (ruka), عَيْنٌ (oko). Treba ih pamtiti."
+        }
+      ]
+    },
+    {
+      "type": "rule",
+      "titleAr": "عَلَامَاتُ التَّأْنِيثِ",
+      "formula": "ة | اء | ى → مُؤَنَّثٌ",
+      "content": "Tri znaka koji gotovo uvijek označavaju ženski rod:\n\n1. تَاءُ الْمَرْبُوطَةِ (ة): طَالِبَةٌ, مَدِينَةٌ, مَدْرَسَةٌ, سَيَّارَةٌ\n2. أَلِفٌ مَمْدُودَةٌ (اء na kraju): صَحْرَاءُ (pustinja), حَمْرَاءُ (crvena)\n3. أَلِفٌ مَقْصُورَةٌ (ى na kraju): ذِكْرَى (sjećanje), سَلْوَى (ime)\n\nIznimka: بَعْلَبَكُّ — vlastito ime s ة ali se tretira muški."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ženska imenica bez ة — treba pamtiti",
+      "content": "Ove imenice su ženskog roda iako nemaju ة:\n\n• شَمْسٌ (sunce) — الشَّمْسُ طَلَعَتْ (ne: طَلَعَ)\n• أَرْضٌ (zemlja) — الأَرْضُ وَاسِعَةٌ (ne: وَاسِعٌ)\n• نَارٌ (vatra) — النَّارُ حَارَّةٌ\n• يَدٌ (ruka) — يَدُهَا جَمِيلَةٌ\n• عَيْنٌ (oko) — عَيْنٌ جَمِيلَةٌ\n• رِيحٌ (vjetar) — الرِّيحُ شَدِيدَةٌ\n• نَفْسٌ (duša) — النَّفْسُ مُطْمَئِنَّةٌ\n\nBiološki ženski uvijek je مُؤَنَّثٌ: أُمٌّ, بِنْتٌ, امْرَأَةٌ."
+    },
+    {
+      "type": "rule",
+      "titleAr": "الْمُطَابَقَةُ فِي التَّذْكِيرِ وَالتَّأْنِيثِ",
+      "formula": "فِعْلٌ + فَاعِلٌ مُؤَنَّثٌ → فِعْلٌ + تَاءٌ",
+      "content": "Slaganje (الْمُطَابَقَةُ) u rodu:\n\n• فِعْلٌ s ženskim فاعلاً: dodaj تَاءُ التَّأْنِيثِ السَّاكِنَةِ (ت na kraju)\n  ذَهَبَ الطَّالِبُ → ذَهَبَتِ الطَّالِبَةُ\n  قَالَ الرَّجُلُ → قَالَتِ الْمَرْأَةُ\n\n• نَعْتٌ (pridjev) mora odgovarati imenici u rodu:\n  كِتَابٌ جَدِيدٌ (m.) → مَجَلَّةٌ جَدِيدَةٌ (ž.)\n  الطَّالِبُ الْمُجْتَهِدُ (m.) → الطَّالِبَةُ الْمُجْتَهِدَةُ (ž.)"
+    },
+    {
+      "type": "examples",
+      "title": "Slaganje u rodu — primjeri",
+      "items": [
+        {
+          "arabic": "ذَهَبَ الطَّالِبُ إِلَى الْمَسْجِدِ",
+          "bs": "Student je otišao u džamiju.",
+          "annotated": [
+            { "word": "ذَهَبَ", "role": "fil", "label": "فِعْلٌ (مُذَكَّرٌ)" },
+            { "word": "الطَّالِبُ", "role": "mubtada", "label": "فَاعِلٌ (مُذَكَّرٌ)" },
+            { "word": "إِلَى", "role": "harf", "label": "حَرْفُ جَرٍّ" },
+            { "word": "الْمَسْجِدِ", "role": "mudaf-ilayh", "label": "مَجْرُورٌ" }
+          ],
+          "note": "ذَهَبَ (m.) slaže se s الطَّالِبُ (m.). Bez ت na kraju glagola."
+        },
+        {
+          "arabic": "ذَهَبَتِ الطَّالِبَةُ إِلَى الْمَدْرَسَةِ",
+          "bs": "Studentica je otišla u školu.",
+          "annotated": [
+            { "word": "ذَهَبَتِ", "role": "fil", "label": "فِعْلٌ (مُؤَنَّثٌ)" },
+            { "word": "الطَّالِبَةُ", "role": "mubtada", "label": "فَاعِلٌ (مُؤَنَّثٌ)" },
+            { "word": "إِلَى", "role": "harf", "label": "حَرْفُ جَرٍّ" },
+            { "word": "الْمَدْرَسَةِ", "role": "mudaf-ilayh", "label": "مَجْرُورٌ" }
+          ],
+          "note": "ذَهَبَتِ ima ت za ženski rod — slaže se s الطَّالِبَةُ (ة → ž.). Kasra na ت ispred ال."
+        },
+        {
+          "arabic": "الشَّمْسُ طَلَعَتْ مِنَ الْمَشْرِقِ",
+          "bs": "Sunce je izašlo s istoka.",
+          "annotated": [
+            { "word": "الشَّمْسُ", "role": "mubtada", "label": "مُبْتَدَأٌ (مُؤَنَّثٌ)" },
+            { "word": "طَلَعَتْ", "role": "fil", "label": "فِعْلٌ (مُؤَنَّثٌ)" },
+            { "word": "مِنَ", "role": "harf", "label": "حَرْفُ جَرٍّ" },
+            { "word": "الْمَشْرِقِ", "role": "mudaf-ilayh", "label": "مَجْرُورٌ" }
+          ],
+          "note": "الشَّمْسُ je ženskog roda bez ة → طَلَعَتْ (s ت). Ovo je اسمية rečenica — khabar je جملة فعلية."
+        },
+        {
+          "arabic": "هِيَ مُعَلِّمَةٌ مَشْهُورَةٌ",
+          "bs": "Ona je poznata učiteljica.",
+          "annotated": [
+            { "word": "هِيَ", "role": "mubtada", "label": "مُبْتَدَأٌ (مُؤَنَّثٌ)" },
+            { "word": "مُعَلِّمَةٌ", "role": "khabar", "label": "خَبَرٌ (مُؤَنَّثٌ)" },
+            { "word": "مَشْهُورَةٌ", "role": "nat", "label": "نَعْتٌ (مُؤَنَّثٌ)" }
+          ],
+          "note": "هِيَ je ženska zamjenica → sve se slaže u ženskom: مُعَلِّمَةٌ (ة), مَشْهُورَةٌ (ة). Trostruko slaganje."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "compare",
+      "title": "Muški vs ženski — isti korijen",
+      "content": "Iz istog korijena nastaju parovi:\n\nمُعَلِّمٌ → مُعَلِّمَةٌ (učitelj → učiteljica)\nطَالِبٌ → طَالِبَةٌ (student → studentica)\nكَاتِبٌ → كَاتِبَةٌ (pisac → spisateljica)\nمُسْلِمٌ → مُسْلِمَةٌ (musliman → muslimanka)\n\nAli ne uvijek:\nرَجُلٌ (čovjek/muškarac) → امْرَأَةٌ (žena) — različiti korijeni!"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "classify",
+      "arabic": "مَدْرَسَةٌ",
+      "question": "Koji rod je ova imenica?",
+      "options": ["الْمُذَكَّرُ (muški)", "الْمُؤَنَّثُ (ženski)"],
+      "correctIndex": 1,
+      "explanation": "مَدْرَسَةٌ nosi تَاءَ الْمَرْبُوطَةِ (ة) → مُؤَنَّثٌ. Škola je ženskog roda u arapskom. Glagol koji prati ovu imenicu mora nositi ت: دَخَلَتِ الطَّالِبَةُ الْمَدْرَسَةَ."
+    },
+    {
+      "type": "classify",
+      "arabic": "قَمَرٌ",
+      "question": "Koji rod je قَمَرٌ (mjesec)?",
+      "options": ["الْمُذَكَّرُ (muški)", "الْمُؤَنَّثُ (ženski)"],
+      "correctIndex": 0,
+      "explanation": "قَمَرٌ je مُذَكَّرٌ — nema ة ni znakova ženskog roda. 'Mjesec' je muškog roda: الْقَمَرُ طَلَعَ (ne: طَلَعَتْ). Suprotno od شَمْسٌ (sunce) koja je مُؤَنَّثٌ."
+    },
+    {
+      "type": "choose",
+      "question": "Koji oblik glagola je tačan: الشَّمْسُ ______ مِنَ الْمَغْرِبِ؟",
+      "options": ["غَرَبَ", "غَرَبَتْ", "يَغْرُبُ", "تَغْرُبَ"],
+      "correctIndex": 1,
+      "explanation": "الشَّمْسُ je مُؤَنَّثٌ (bez ة ali semantički ženski) → glagol mora nositi ت za prošlo: غَرَبَتْ. 'Sunce je zašlo sa zapada.' (Ovo bi bilo čudo — normalno izlazi s istoka, ali gramatika je ispravna!)"
+    },
+    {
+      "type": "true-false",
+      "statement": "Pridjev za مَدِينَةٌ (grad) mora imati ة jer je مَدِينَةٌ ženskog roda.",
+      "correct": true,
+      "explanation": "Tačno. الْمُطَابَقَةُ (slaganje): مَدِينَةٌ كَبِيرَةٌ ✓ (ne كَبِيرٌ). مَدِينَةٌ je مُؤَنَّثٌ (ima ة) pa pridjev mora biti مُؤَنَّثٌ: جَمِيلَةٌ, قَدِيمَةٌ, كَبِيرَةٌ itd."
+    },
+    {
+      "type": "choose",
+      "question": "Koja rečenica je gramatički ispravna?",
+      "options": [
+        "الطَّالِبَةُ ذَهَبَ إِلَى الْمَكْتَبَةِ",
+        "الطَّالِبَةُ ذَهَبَتْ إِلَى الْمَكْتَبَةِ",
+        "الطَّالِبَةُ ذَهَبَتْ إِلَى الْمَكْتَبُ",
+        "الطَّالِبَةُ ذَهَبَ إِلَى مَكْتَبَةً"
+      ],
+      "correctIndex": 1,
+      "explanation": "الطَّالِبَةُ ذَهَبَتْ إِلَى الْمَكْتَبَةِ je ispravno: glagol ذَهَبَتْ slaže se s ženskim فاعلاً (الطَّالِبَةُ), a إِلَى traži مجرور → الْمَكْتَبَةِ (s كسرة). 'Studentica je otišla u biblioteku.'"
+    },
+    {
+      "type": "true-false",
+      "statement": "Imenica نَارٌ (vatra) je muškog roda jer nema تَاءَ الْمَرْبُوطَةِ.",
+      "correct": false,
+      "explanation": "Netačno. نَارٌ je مُؤَنَّثٌ — semantički ženski (التَّأْنِيثُ الْمَعْنَوِيُّ). Odsustvo ة ne znači muški rod. النَّارُ حَارَّةٌ (vatra je vruća — ženski pridjev). Ovo treba pamtiti jer ne postoji vizualni znak."
+    }
+  ]
+}

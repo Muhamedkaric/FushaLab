@@ -20,6 +20,8 @@ import { DialoguePage } from './pages/DialoguePage'
 import { PhrasesPage } from './pages/PhrasesPage'
 import { ExercisesPage } from './pages/ExercisesPage'
 import { ExerciseSessionPage } from './pages/ExerciseSessionPage'
+import { GrammarPage } from './pages/GrammarPage'
+import { GrammarLessonPage } from './pages/GrammarLessonPage'
 import { ProgressPage } from './pages/ProgressPage'
 import type { Category, Level } from './types/content'
 
@@ -186,6 +188,23 @@ const exerciseSessionRoute = createRoute({
   },
 })
 
+// Grammar — hub
+const grammarRoute = createRoute({
+  getParentRoute: () => shellRoute,
+  path: '/grammar',
+  component: GrammarPage,
+})
+
+// Grammar — lesson
+const grammarLessonRoute = createRoute({
+  getParentRoute: () => shellRoute,
+  path: '/grammar/$lessonId',
+  component: function GrammarLessonRouteComponent() {
+    const { lessonId } = grammarLessonRoute.useParams()
+    return <GrammarLessonPage lessonId={lessonId} />
+  },
+})
+
 // Progress
 const progressRoute = createRoute({
   getParentRoute: () => shellRoute,
@@ -211,6 +230,8 @@ const routeTree = rootRoute.addChildren([
     phraseCategoryRoute,
     exercisesRoute,
     exerciseSessionRoute,
+    grammarRoute,
+    grammarLessonRoute,
     progressRoute,
   ]),
 ])

@@ -8,6 +8,7 @@ export interface Translations {
     vocabulary: string
     conversation: string
     exercises: string
+    grammar: string
     progress: string
   }
   home: {
@@ -203,6 +204,54 @@ export interface Translations {
       keep: string
     }
   }
+  grammar: {
+    title: string
+    subtitle: string
+    totalXp: string
+    completed: string
+    lessons: string
+    minutes: string
+    startLesson: string
+    continueLesson: string
+    reviewLesson: string
+    mastered: string
+    takeQuiz: string
+    quizTitle: string
+    quizSubtitle: string
+    correct: string
+    wrong: string
+    next: string
+    finish: string
+    tryAgain: string
+    backToGrammar: string
+    keyTerms: string
+    examples: string
+    rule: string
+    tip: string
+    warning: string
+    compare: string
+    rootNote: string
+    identify: string
+    classify: string
+    quizDone: {
+      perfect: string
+      great: string
+      good: string
+      keep: string
+    }
+    tracks: {
+      nahw: string
+      sarf: string
+    }
+    levels: {
+      A1: string
+      A2: string
+      B1: string
+      B2: string
+      C1: string
+      C2: string
+    }
+  }
   progress: {
     title: string
     completed: string
@@ -266,6 +315,7 @@ export const en: Translations = {
     vocabulary: 'Vocabulary',
     conversation: 'Conversation',
     exercises: 'Exercises',
+    grammar: 'Grammar',
     progress: 'Progress',
   },
   home: {
@@ -477,6 +527,54 @@ export const en: Translations = {
       great: 'Excellent work!',
       good: 'Good job — keep it up!',
       keep: 'Keep practicing!',
+    },
+  },
+  grammar: {
+    title: 'Grammar',
+    subtitle: 'Arabic grammar through Arabic terminology — from sentence to mastery',
+    totalXp: 'XP',
+    completed: 'completed',
+    lessons: 'lessons',
+    minutes: 'min',
+    startLesson: 'Start',
+    continueLesson: 'Continue',
+    reviewLesson: 'Review',
+    mastered: 'Mastered',
+    takeQuiz: 'Take the quiz',
+    quizTitle: 'الِاخْتِبَارُ',
+    quizSubtitle: 'Test what you learned',
+    correct: 'Correct!',
+    wrong: 'Not quite',
+    next: 'Next →',
+    finish: 'Finish',
+    tryAgain: 'Try again',
+    backToGrammar: 'Back to Grammar',
+    keyTerms: 'Key terms',
+    examples: 'Examples',
+    rule: 'الْقَاعِدَةُ',
+    tip: 'Tip',
+    warning: 'Important',
+    compare: 'Compare',
+    rootNote: 'Root',
+    identify: 'Tap the correct word',
+    classify: 'Classify this sentence',
+    quizDone: {
+      perfect: 'Flawless — you own this!',
+      great: 'Excellent work!',
+      good: 'Good — keep going!',
+      keep: 'Review the lesson and try again',
+    },
+    tracks: {
+      nahw: 'النَّحْوُ — Syntax',
+      sarf: 'الصَّرْفُ — Morphology',
+    },
+    levels: {
+      A1: 'A1',
+      A2: 'A2',
+      B1: 'B1',
+      B2: 'B2',
+      C1: 'C1',
+      C2: 'C2',
     },
   },
   progress: {

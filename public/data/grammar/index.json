@@ -1,0 +1,518 @@
+{
+  "blocks": [
+    {
+      "number": 1,
+      "titleAr": "الْكَلِمَةُ وَالْجُمْلَةُ",
+      "titleBs": "Riječ i rečenica",
+      "lessons": [
+        {
+          "id": "al-kalima",
+          "block": 1,
+          "order": 1,
+          "level": "A1",
+          "track": "nahw",
+          "titleAr": "الْكَلِمَةُ: اسْمٌ وَفِعْلٌ وَحَرْفٌ",
+          "titleBs": "Imenica, glagol i čestica",
+          "summary": "Svaka arapska riječ spada u jednu od tri kategorije. Znati koje je koje — ključ je za sve.",
+          "estimatedMinutes": 6,
+          "quizCount": 6
+        },
+        {
+          "id": "al-jumlah",
+          "block": 1,
+          "order": 2,
+          "level": "A1",
+          "track": "nahw",
+          "titleAr": "الْجُمْلَةُ: اسْمِيَّةٌ أَمْ فِعْلِيَّةٌ؟",
+          "titleBs": "Rečenica: imenička ili glagolska?",
+          "summary": "Osnovna podjela svake arapske rečenice. Odavde počinje cijeli gramatički sistem.",
+          "estimatedMinutes": 8,
+          "quizCount": 7
+        },
+        {
+          "id": "al-mubtada-khabar",
+          "block": 1,
+          "order": 3,
+          "level": "A1",
+          "track": "nahw",
+          "titleAr": "الْمُبْتَدَأُ وَالْخَبَرُ",
+          "titleBs": "Subjekt i predikat imeničke rečenice",
+          "summary": "Dva stuba imeničke rečenice. Oba su u nominativu — ali šta to znači?",
+          "estimatedMinutes": 8,
+          "quizCount": 7
+        },
+        {
+          "id": "al-tarif-tankir",
+          "block": 1,
+          "order": 4,
+          "level": "A1",
+          "track": "nahw",
+          "titleAr": "التَّعْرِيفُ وَالتَّنْكِيرُ",
+          "titleBs": "Određenost i neodređenost",
+          "summary": "ال ili tanvīn — razlika koja utiče na svaki pridjav, slaganje i rečenicu.",
+          "estimatedMinutes": 6,
+          "quizCount": 6
+        },
+        {
+          "id": "al-mudhakkar-muannath",
+          "block": 1,
+          "order": 5,
+          "level": "A1",
+          "track": "nahw",
+          "titleAr": "الْمُذَكَّرُ وَالْمُؤَنَّثُ",
+          "titleBs": "Muški i ženski rod",
+          "summary": "Arapski rod je gramatički, ne samo prirodni. Pridjevi moraju slagati — uvijek.",
+          "estimatedMinutes": 6,
+          "quizCount": 6
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "titleAr": "الإِعْرَابُ — نِظَامُ الْحَرَكَاتِ",
+      "titleBs": "Padežni sistem",
+      "lessons": [
+        {
+          "id": "al-iraab",
+          "block": 2,
+          "order": 1,
+          "level": "A2",
+          "track": "nahw",
+          "titleAr": "الإِعْرَابُ: رَفْعٌ، نَصْبٌ، جَرٌّ",
+          "titleBs": "Nominativ, akuzativ, genitiv",
+          "summary": "Tri padežna završetka koji određuju ulogu svake imenice u rečenici.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        },
+        {
+          "id": "al-fail-mafool",
+          "block": 2,
+          "order": 2,
+          "level": "A2",
+          "track": "nahw",
+          "titleAr": "الْفَاعِلُ وَالْمَفْعُولُ بِهِ",
+          "titleBs": "Vršilac radnje i objekat",
+          "summary": "Ko vrši radnju (رَفْعٌ), ko je trpi (نَصْبٌ) — osnova glagolske rečenice.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        },
+        {
+          "id": "al-jumlah-filiyah",
+          "block": 2,
+          "order": 3,
+          "level": "A2",
+          "track": "nahw",
+          "titleAr": "الْجُمْلَةُ الْفِعْلِيَّةُ",
+          "titleBs": "Glagolska rečenica",
+          "summary": "Redosljed فِعْلٌ + فَاعِلٌ, slaganje glagola, i kada objekat mijenja padež.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "titleAr": "الأَفْعَالُ",
+      "titleBs": "Glagoli",
+      "lessons": [
+        {
+          "id": "al-madi",
+          "block": 3,
+          "order": 1,
+          "level": "A2",
+          "track": "sarf",
+          "titleAr": "الْفِعْلُ الْمَاضِي",
+          "titleBs": "Prošlo glagolsko vrijeme",
+          "summary": "Osnovna sprega u prošlom vremenu — 13 oblika, jedan obrazac.",
+          "estimatedMinutes": 10,
+          "quizCount": 8
+        },
+        {
+          "id": "al-mudari",
+          "block": 3,
+          "order": 2,
+          "level": "A2",
+          "track": "sarf",
+          "titleAr": "الْفِعْلُ الْمُضَارِعُ",
+          "titleBs": "Sadašnje i buduće glagolsko vrijeme",
+          "summary": "Glagol koji nosi i sadašnjost i budućnost — sprega i upotreba.",
+          "estimatedMinutes": 10,
+          "quizCount": 8
+        },
+        {
+          "id": "al-amr",
+          "block": 3,
+          "order": 3,
+          "level": "B1",
+          "track": "sarf",
+          "titleAr": "فِعْلُ الأَمْرِ",
+          "titleBs": "Imperativ (naredba)",
+          "summary": "Kako tvoriti naredbu iz مضارع — i kada koristiti لِ + مضارع.",
+          "estimatedMinutes": 7,
+          "quizCount": 6
+        },
+        {
+          "id": "al-nafy",
+          "block": 3,
+          "order": 4,
+          "level": "B1",
+          "track": "nahw",
+          "titleAr": "النَّفْيُ: لَا، لَمْ، لَنْ، لَيْسَ، مَا",
+          "titleBs": "Negacija",
+          "summary": "Pet načina negacije — svaki s drugačijim glagolskim oblikom i značenjem.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "titleAr": "الاسْمُ وَأَنْوَاعُهُ",
+      "titleBs": "Imenica i njene vrste",
+      "lessons": [
+        {
+          "id": "al-muthanna",
+          "block": 4,
+          "order": 1,
+          "level": "B1",
+          "track": "sarf",
+          "titleAr": "الْمُثَنَّى",
+          "titleBs": "Dvojina",
+          "summary": "Arapska dvojina — oblik koji bosanski nema, ali koji se javlja stalno.",
+          "estimatedMinutes": 7,
+          "quizCount": 6
+        },
+        {
+          "id": "al-jamul-salim",
+          "block": 4,
+          "order": 2,
+          "level": "B1",
+          "track": "sarf",
+          "titleAr": "جَمْعُ الْمُذَكَّرِ السَّالِمُ وَجَمْعُ الْمُؤَنَّثِ السَّالِمُ",
+          "titleBs": "Pravilne množine",
+          "summary": "Množine koje se grade po pravilnom obrascu — -ونَ/-ينَ i -اتٌ.",
+          "estimatedMinutes": 8,
+          "quizCount": 7
+        },
+        {
+          "id": "al-jamul-taksir",
+          "block": 4,
+          "order": 3,
+          "level": "B1",
+          "track": "sarf",
+          "titleAr": "جَمْعُ التَّكْسِيرِ",
+          "titleBs": "Nepravilne (polomljene) množine",
+          "summary": "Množine koje mijenjaju unutrašnju strukturu — najvažniji obrasci.",
+          "estimatedMinutes": 10,
+          "quizCount": 7
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "titleAr": "الإِضَافَةُ وَالنَّعْتُ",
+      "titleBs": "Genitivna veza i pridjev",
+      "lessons": [
+        {
+          "id": "al-idafa",
+          "block": 5,
+          "order": 1,
+          "level": "B1",
+          "track": "nahw",
+          "titleAr": "الإِضَافَةُ",
+          "titleBs": "Genitivna veza (idafa)",
+          "summary": "Najčešća konstrukcija u arapskom — i najvažnija. Dvije imenice, jedna veza.",
+          "estimatedMinutes": 10,
+          "quizCount": 8
+        },
+        {
+          "id": "al-nat",
+          "block": 5,
+          "order": 2,
+          "level": "B1",
+          "track": "nahw",
+          "titleAr": "النَّعْتُ وَالْمَنْعُوتُ",
+          "titleBs": "Pridjev i imenica — slaganje",
+          "summary": "Pridjav slaže u četiri stvari s imenicom. Propustiti jedno — gramatička greška.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        },
+        {
+          "id": "huruf-al-jarr",
+          "block": 5,
+          "order": 3,
+          "level": "B1",
+          "track": "nahw",
+          "titleAr": "حُرُوفُ الْجَرِّ",
+          "titleBs": "Prijedlozi (huruf al-jarr)",
+          "summary": "Deset najvažnijih prijedloga — svaki stavlja imenicu u genitiv.",
+          "estimatedMinutes": 8,
+          "quizCount": 7
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "titleAr": "الضَّمَائِرُ وَأَسْمَاءُ الإِشَارَةِ",
+      "titleBs": "Zamjenice i pokazne imenice",
+      "lessons": [
+        {
+          "id": "al-dhamair-munfasila",
+          "block": 6,
+          "order": 1,
+          "level": "A2",
+          "track": "nahw",
+          "titleAr": "الضَّمَائِرُ الْمُنْفَصِلَةُ",
+          "titleBs": "Odvojene zamjenice",
+          "summary": "13 zamjenica za sve lice/rod/broj — i kako ih koristiti kao مُبْتَدَأٌ.",
+          "estimatedMinutes": 7,
+          "quizCount": 6
+        },
+        {
+          "id": "al-dhamair-muttasila",
+          "block": 6,
+          "order": 2,
+          "level": "B1",
+          "track": "nahw",
+          "titleAr": "الضَّمَائِرُ الْمُتَّصِلَةُ",
+          "titleBs": "Vezane zamjenice (posvojne i objektne)",
+          "summary": "Zamjenice koje se dodaju na kraj imenice (posesiv) ili glagola (objekat).",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        },
+        {
+          "id": "asma-al-ishara",
+          "block": 6,
+          "order": 3,
+          "level": "A1",
+          "track": "nahw",
+          "titleAr": "أَسْمَاءُ الإِشَارَةِ",
+          "titleBs": "Pokazne zamjenice",
+          "summary": "هَذَا، هَذِهِ، ذَلِكَ، تِلْكَ — i slaganje s imenicom.",
+          "estimatedMinutes": 6,
+          "quizCount": 6
+        },
+        {
+          "id": "al-asma-al-mawsola",
+          "block": 6,
+          "order": 4,
+          "level": "B1",
+          "track": "nahw",
+          "titleAr": "الأَسْمَاءُ الْمَوْصُولَةُ",
+          "titleBs": "Odnosne zamjenice (koji, koja...)",
+          "summary": "الَّذِي، الَّتِي، الَّذِينَ — i kako se gradi odnosna rečenica.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "titleAr": "أَوْزَانُ الأَفْعَالِ",
+      "titleBs": "Obrasci glagola (I–X)",
+      "lessons": [
+        {
+          "id": "al-wazn-I",
+          "block": 7,
+          "order": 1,
+          "level": "B2",
+          "track": "sarf",
+          "titleAr": "الْوَزْنُ الأَوَّلُ: فَعَلَ",
+          "titleBs": "Obrazac I — osnova",
+          "summary": "Korijenski troliteralni glagol — polazna osnova svakog arapskog glagola.",
+          "estimatedMinutes": 8,
+          "quizCount": 6
+        },
+        {
+          "id": "al-awzan-II-III",
+          "block": 7,
+          "order": 2,
+          "level": "B2",
+          "track": "sarf",
+          "titleAr": "الأَوْزَانُ II وَIII: فَعَّلَ، فَاعَلَ",
+          "titleBs": "Obrasci II i III",
+          "summary": "Intenzitet i uzajamnost — kako dodavanje slova mijenja značenje korijena.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        },
+        {
+          "id": "al-awzan-IV-VI",
+          "block": 7,
+          "order": 3,
+          "level": "B2",
+          "track": "sarf",
+          "titleAr": "الأَوْزَانُ IV وَV وَVI",
+          "titleBs": "Obrasci IV, V i VI",
+          "summary": "Uzročni, refleksivni i uzajamni refleksivni glagoli.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        },
+        {
+          "id": "al-awzan-VII-X",
+          "block": 7,
+          "order": 4,
+          "level": "B2",
+          "track": "sarf",
+          "titleAr": "الأَوْزَانُ VII وَVIII وَX",
+          "titleBs": "Obrasci VII, VIII i X",
+          "summary": "Pasivni, refleksivni i tražidbeni glagoli — završni obrasci.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "titleAr": "الْمُشْتَقَّاتُ",
+      "titleBs": "Izvedene imenice",
+      "lessons": [
+        {
+          "id": "al-masdar",
+          "block": 8,
+          "order": 1,
+          "level": "B2",
+          "track": "sarf",
+          "titleAr": "الْمَصْدَرُ",
+          "titleBs": "Verbalna imenica (masdar)",
+          "summary": "Glagolska imenica — kako je tvori svaki obrazac i kako je koristiti u rečenici.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        },
+        {
+          "id": "ism-al-fail",
+          "block": 8,
+          "order": 2,
+          "level": "B2",
+          "track": "sarf",
+          "titleAr": "اسْمُ الْفَاعِلِ",
+          "titleBs": "Aktivni participip (vršilac radnje)",
+          "summary": "فَاعِلٌ i izvedeni obrasci — imenica koja opisuje onoga ko vrši radnju.",
+          "estimatedMinutes": 8,
+          "quizCount": 7
+        },
+        {
+          "id": "ism-al-mafool",
+          "block": 8,
+          "order": 3,
+          "level": "B2",
+          "track": "sarf",
+          "titleAr": "اسْمُ الْمَفْعُولِ",
+          "titleBs": "Pasivni participip (trpilac radnje)",
+          "summary": "مَفْعُولٌ i izvedeni obrasci — imenica koja opisuje onoga na kome se radnja vrši.",
+          "estimatedMinutes": 8,
+          "quizCount": 7
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "titleAr": "الْجُمَلُ الْمُرَكَّبَةُ",
+      "titleBs": "Složene rečenice",
+      "lessons": [
+        {
+          "id": "kana-akhawat",
+          "block": 9,
+          "order": 1,
+          "level": "B2",
+          "track": "nahw",
+          "titleAr": "كَانَ وَأَخَوَاتُهَا",
+          "titleBs": "كَانَ i njene sestre",
+          "summary": "Glagoli koji mijenjaju padež خَبَرٌ iz رَفْعٌ u نَصْبٌ — i zašto.",
+          "estimatedMinutes": 10,
+          "quizCount": 8
+        },
+        {
+          "id": "inna-akhawat",
+          "block": 9,
+          "order": 2,
+          "level": "B2",
+          "track": "nahw",
+          "titleAr": "إِنَّ وَأَخَوَاتُهَا",
+          "titleBs": "إِنَّ i njene sestre",
+          "summary": "Čestice naglašavanja koje mijenjaju مُبْتَدَأٌ u نَصْبٌ — i mijenjaju ton rečenice.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        },
+        {
+          "id": "al-shart",
+          "block": 9,
+          "order": 3,
+          "level": "B2",
+          "track": "nahw",
+          "titleAr": "الشَّرْطُ: إِذَا وَلَوْ",
+          "titleBs": "Uslovne rečenice",
+          "summary": "إِذَا za realne uvjete, لَوْ za nerealne — i kako glagoli slijede.",
+          "estimatedMinutes": 10,
+          "quizCount": 8
+        },
+        {
+          "id": "al-mabni-lil-majhool",
+          "block": 9,
+          "order": 4,
+          "level": "C1",
+          "track": "nahw",
+          "titleAr": "الْمَبْنِيُّ لِلْمَجْهُولِ",
+          "titleBs": "Pasiv",
+          "summary": "Pasivna forma u prošlom i sadašnjem — i pojava نَائِبُ الْفَاعِلِ.",
+          "estimatedMinutes": 10,
+          "quizCount": 8
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "titleAr": "أُسَالِيبُ مُتَقَدِّمَةٌ",
+      "titleBs": "Napredne strukture",
+      "lessons": [
+        {
+          "id": "al-hal",
+          "block": 10,
+          "order": 1,
+          "level": "C1",
+          "track": "nahw",
+          "titleAr": "الْحَالُ",
+          "titleBs": "Okolnosni dodatak (hal)",
+          "summary": "Opis stanja vršioca/trpioca u trenutku radnje — uvijek u akuzativu.",
+          "estimatedMinutes": 9,
+          "quizCount": 7
+        },
+        {
+          "id": "al-mafool-al-mutlaq",
+          "block": 10,
+          "order": 2,
+          "level": "C1",
+          "track": "nahw",
+          "titleAr": "الْمَفْعُولُ الْمُطْلَقُ",
+          "titleBs": "Apsolutni objekat",
+          "summary": "Verbalna imenica koja naglašava ili precizira radnju — مَفْعُولٌ مُطْلَقٌ.",
+          "estimatedMinutes": 8,
+          "quizCount": 6
+        },
+        {
+          "id": "al-tamyiz",
+          "block": 10,
+          "order": 3,
+          "level": "C1",
+          "track": "nahw",
+          "titleAr": "التَّمْيِيزُ",
+          "titleBs": "Specifikativ (tamyiz)",
+          "summary": "Imenica u akuzativu koja precizira neodređeni pojam — 'pet metara vode'.",
+          "estimatedMinutes": 8,
+          "quizCount": 6
+        },
+        {
+          "id": "al-munadah",
+          "block": 10,
+          "order": 4,
+          "level": "C1",
+          "track": "nahw",
+          "titleAr": "الْمُنَادَى",
+          "titleBs": "Vokativ (obraćanje)",
+          "summary": "يَا + imenica — i kako se padež mijenja zavisno od određenosti.",
+          "estimatedMinutes": 7,
+          "quizCount": 6
+        }
+      ]
+    }
+  ]
+}
