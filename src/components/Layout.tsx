@@ -31,6 +31,7 @@ import AutoStoriesIcon from '@mui/icons-material/AutoStories'
 import { useNavigate, useRouterState } from '@tanstack/react-router'
 import { LanguageSwitcher } from './LanguageSwitcher'
 import { UserButton } from './UserButton'
+import { FontSizeButton } from './FontSizeButton'
 import { useI18n } from '@/i18n'
 
 const SIDEBAR_WIDTH = 220
@@ -177,6 +178,7 @@ export function Layout({ children, onToggleTheme, isDark }: Props) {
           <UserButton />
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
             <LanguageSwitcher />
+            <FontSizeButton />
             <Tooltip title={isDark ? t.common.lightMode : t.common.darkMode}>
               <IconButton onClick={onToggleTheme} size="small" color="inherit">
                 {isDark ? <LightModeIcon fontSize="small" /> : <DarkModeIcon fontSize="small" />}
@@ -223,6 +225,7 @@ export function Layout({ children, onToggleTheme, isDark }: Props) {
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
             <UserButton />
             <LanguageSwitcher />
+            <FontSizeButton />
             <IconButton onClick={onToggleTheme} size="small" color="inherit">
               {isDark ? <LightModeIcon fontSize="small" /> : <DarkModeIcon fontSize="small" />}
             </IconButton>

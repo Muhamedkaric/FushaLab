@@ -4,6 +4,7 @@ import { ThemeProvider } from '@mui/material/styles'
 import CssBaseline from '@mui/material/CssBaseline'
 import { I18nProvider } from './i18n'
 import { AuthProvider } from './context/AuthContext'
+import { FontScaleProvider } from './context/FontScaleContext'
 import { darkTheme, lightTheme } from './theme'
 import { createAppRouter } from './router'
 
@@ -22,11 +23,13 @@ export function App() {
   return (
     <ThemeProvider theme={isDark ? darkTheme : lightTheme}>
       <CssBaseline />
-      <I18nProvider>
-        <AuthProvider>
-          <RouterProvider router={router} />
-        </AuthProvider>
-      </I18nProvider>
+      <FontScaleProvider>
+        <I18nProvider>
+          <AuthProvider>
+            <RouterProvider router={router} />
+          </AuthProvider>
+        </I18nProvider>
+      </FontScaleProvider>
     </ThemeProvider>
   )
 }
