@@ -320,6 +320,7 @@ export const bs: Translations = {
     lightMode: 'Svijetli način',
     comingSoon: 'Uskoro',
     backToHome: 'Nazad na početnu',
+    loadMore: 'Učitaj još',
   },
   auth: {
     signIn: 'Prijava',

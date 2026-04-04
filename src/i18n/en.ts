@@ -291,6 +291,7 @@ export interface Translations {
     lightMode: string
     comingSoon: string
     backToHome: string
+    loadMore: string
   }
   auth: {
     signIn: string
@@ -617,6 +618,7 @@ export const en: Translations = {
     lightMode: 'Light Mode',
     comingSoon: 'Coming Soon',
     backToHome: 'Back to Home',
+    loadMore: 'Load more',
   },
   auth: {
     signIn: 'Sign in',

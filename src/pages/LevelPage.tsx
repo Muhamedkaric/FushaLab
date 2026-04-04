@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import {
   Box,
   Typography,
@@ -29,6 +29,7 @@ import { DownloadSection } from '@/components/DownloadSection'
 import { useI18n } from '@/i18n'
 
 const LEVELS: Level[] = ['B1', 'B2', 'C1', 'C2']
+const PAGE_SIZE = 20
 
 interface Props {
   category: Category
@@ -41,6 +42,12 @@ export function LevelPage({ category, level }: Props) {
   const { data, loading, error } = useLevelManifest(category, level)
   const { getRating } = useProgress()
   const [hideEasy, setHideEasy] = useState(true)
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
+
+  // Reset pagination when level or filter changes
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE)
+  }, [category, level, hideEasy])
 
   const handleLevelChange = (_: React.SyntheticEvent, newLevel: string) => {
     void navigate({
@@ -48,6 +55,12 @@ export function LevelPage({ category, level }: Props) {
       params: { category, level: newLevel as Level },
     })
   }
+
+  const filtered = data
+    ? data.items.filter(item => !(hideEasy && getRating(item.id) === 'easy'))
+    : []
+  const visible = filtered.slice(0, visibleCount)
+  const hasMore = visibleCount < filtered.length
 
   return (
     <Container maxWidth="md" sx={{ py: { xs: 3, sm: 5 } }}>
@@ -130,88 +143,98 @@ export function LevelPage({ category, level }: Props) {
           </Stack>
 
           <List disablePadding sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
-            {data.items
-              .filter(item => !(hideEasy && getRating(item.id) === 'easy'))
-              .map((item, idx) => {
-                const rating = getRating(item.id)
-                const isEasy = rating === 'easy'
+            {visible.map((item, idx) => {
+              const rating = getRating(item.id)
+              const isEasy = rating === 'easy'
 
-                return (
-                  <motion.div
-                    key={item.id}
-                    initial={{ opacity: 0, x: -16 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ delay: idx * 0.04, duration: 0.3 }}
+              return (
+                <motion.div
+                  key={item.id}
+                  initial={{ opacity: 0, x: -16 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: Math.min(idx, 5) * 0.05, duration: 0.25 }}
+                >
+                  <ListItem
+                    disablePadding
+                    sx={{
+                      border: '1px solid',
+                      borderColor: isEasy ? 'success.main' : 'divider',
+                      borderRadius: 2,
+                      overflow: 'hidden',
+                      opacity: isEasy ? 0.65 : 1,
+                      transition: 'opacity 0.2s',
+                    }}
                   >
-                    <ListItem
-                      disablePadding
-                      sx={{
-                        border: '1px solid',
-                        borderColor: isEasy ? 'success.main' : 'divider',
-                        borderRadius: 2,
-                        overflow: 'hidden',
-                        opacity: isEasy ? 0.65 : 1,
-                        transition: 'opacity 0.2s',
-                      }}
+                    <ListItemButton
+                      onClick={() =>
+                        void navigate({
+                          to: '/reading/$category/$level/$id',
+                          params: { category, level, id: item.id },
+                        })
+                      }
+                      sx={{ py: 1.5, px: 2 }}
                     >
-                      <ListItemButton
-                        onClick={() =>
-                          void navigate({
-                            to: '/reading/$category/$level/$id',
-                            params: { category, level, id: item.id },
-                          })
+                      <ListItemText
+                        primary={
+                          <Typography
+                            dir="rtl"
+                            sx={{
+                              fontFamily: '"Amiri", serif',
+                              fontSize: '1.15rem',
+                              direction: 'rtl',
+                              textAlign: 'right',
+                              lineHeight: 1.8,
+                            }}
+                          >
+                            {item.arabic.split(' ').slice(0, 8).join(' ')}
+                            {item.arabic.split(' ').length > 8 ? '…' : ''}
+                          </Typography>
                         }
-                        sx={{ py: 1.5, px: 2 }}
-                      >
-                        <ListItemText
-                          primary={
-                            <Typography
-                              dir="rtl"
-                              sx={{
-                                fontFamily: '"Amiri", serif',
-                                fontSize: '1.15rem',
-                                direction: 'rtl',
-                                textAlign: 'right',
-                                lineHeight: 1.8,
-                              }}
-                            >
-                              {item.arabic.split(' ').slice(0, 8).join(' ')}
-                              {item.arabic.split(' ').length > 8 ? '…' : ''}
-                            </Typography>
-                          }
-                          secondary={
-                            <Stack
-                              component="span"
-                              direction="row"
-                              gap={0.5}
-                              mt={0.5}
-                              flexWrap="wrap"
-                            >
-                              {item.metadata.tags.map(tag => (
-                                <Chip
-                                  key={tag}
-                                  label={tag}
-                                  size="small"
-                                  variant="outlined"
-                                  sx={{ fontSize: '0.65rem', height: 20 }}
-                                />
-                              ))}
-                            </Stack>
-                          }
-                        />
-                        <Box sx={{ ml: 2 }}>
-                          {isEasy ? (
-                            <CheckCircleIcon color="success" fontSize="small" />
-                          ) : (
-                            <ProgressBadge rating={rating} />
-                          )}
-                        </Box>
-                      </ListItemButton>
-                    </ListItem>
-                  </motion.div>
-                )
-              })}
+                        secondary={
+                          <Stack
+                            component="span"
+                            direction="row"
+                            gap={0.5}
+                            mt={0.5}
+                            flexWrap="wrap"
+                          >
+                            {item.metadata.tags.map(tag => (
+                              <Chip
+                                key={tag}
+                                label={tag}
+                                size="small"
+                                variant="outlined"
+                                sx={{ fontSize: '0.65rem', height: 20 }}
+                              />
+                            ))}
+                          </Stack>
+                        }
+                      />
+                      <Box sx={{ ml: 2 }}>
+                        {isEasy ? (
+                          <CheckCircleIcon color="success" fontSize="small" />
+                        ) : (
+                          <ProgressBadge rating={rating} />
+                        )}
+                      </Box>
+                    </ListItemButton>
+                  </ListItem>
+                </motion.div>
+              )
+            })}
           </List>
+
+          {hasMore && (
+            <Box display="flex" justifyContent="center" mt={3}>
+              <Button
+                variant="outlined"
+                onClick={() => setVisibleCount(c => c + PAGE_SIZE)}
+                sx={{ borderRadius: 2, px: 4 }}
+              >
+                {t.common.loadMore} ({filtered.length - visibleCount})
+              </Button>
+            </Box>
+          )}
         </motion.div>
       )}
     </Container>
