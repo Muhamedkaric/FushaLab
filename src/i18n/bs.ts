@@ -212,6 +212,7 @@ export const bs: Translations = {
     rootNote: 'Korijen',
     identify: 'Tapni ispravnu riječ',
     classify: 'Klasificiraj ovu rečenicu',
+    questions: 'pitanja',
     quizDone: {
       perfect: 'Savršeno — ovo si svladao/la!',
       great: 'Odličan rad!',

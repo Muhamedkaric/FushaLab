@@ -18,9 +18,11 @@ export type WordRole =
 // A single term in the key-terms table
 export interface GrammarTerm {
   arabic: string
-  roman: string    // romanisation guide
-  bs: string       // Bosnian meaning
-  note?: string    // optional clarifying note
+  roman: string      // romanisation guide
+  bs: string         // Bosnian meaning
+  en?: string        // English meaning
+  note?: string      // optional clarifying note (Bosnian)
+  noteEn?: string    // English note
 }
 
 // One word in a colour-annotated example sentence
@@ -33,16 +35,19 @@ export interface AnnotatedWord {
 // A fully annotated grammar example
 export interface GrammarExample {
   arabic: string
-  bs: string
-  annotated?: AnnotatedWord[]  // word-by-word breakdown (optional)
-  note?: string                // one observation about this example
+  bs: string           // Bosnian translation
+  en?: string          // English translation
+  annotated?: AnnotatedWord[]
+  note?: string        // observation (Bosnian)
+  noteEn?: string      // observation (English)
 }
 
 // ── Content sections ────────────────────────────────────────────────────────
 
 export interface IntroSection {
   type: 'intro'
-  content: string   // Bosnian paragraph
+  content: string     // Bosnian paragraph
+  contentEn?: string  // English paragraph
 }
 
 export interface TermsSection {
@@ -52,30 +57,37 @@ export interface TermsSection {
 
 export interface RuleSection {
   type: 'rule'
-  titleAr?: string  // e.g. "الْقَاعِدَةُ"
-  formula?: string  // Arabic formula / pattern shown large
-  content: string   // explanation in BS
+  titleAr?: string    // e.g. "الْقَاعِدَةُ"
+  formula?: string    // Arabic formula / pattern shown large
+  content: string     // explanation (Bosnian)
+  contentEn?: string  // explanation (English)
 }
 
 export interface ExamplesSection {
   type: 'examples'
-  title?: string
+  title?: string      // section heading (Bosnian)
+  titleEn?: string    // section heading (English)
   items: GrammarExample[]
 }
 
 export interface CalloutSection {
   type: 'callout'
   variant: 'tip' | 'warning' | 'compare' | 'root'
-  title?: string
-  content: string
+  title?: string      // Bosnian callout heading
+  titleEn?: string    // English callout heading
+  content: string     // Bosnian body
+  contentEn?: string  // English body
 }
 
 export interface TableSection {
   type: 'table'
   titleAr?: string
   titleBs?: string
-  headers: string[]
-  rows: string[][]
+  titleEn?: string
+  headers: string[]     // Bosnian (or Arabic) column headers
+  headersEn?: string[]  // English column headers (if different)
+  rows: string[][]      // cell values
+  rowsEn?: string[][]   // English cell values (where non-Arabic cells differ)
 }
 
 export type GrammarSection =
@@ -91,36 +103,45 @@ export type GrammarSection =
 export interface ClassifyQuestion {
   type: 'classify'
   arabic: string
-  question: string    // BS question text
-  options: string[]   // exactly 2 options in Arabic
+  question: string        // Bosnian question text
+  questionEn?: string     // English question text
+  options: string[]       // Arabic options (no translation needed)
   correctIndex: number
-  explanation: string
+  explanation: string     // Bosnian
+  explanationEn?: string  // English
 }
 
 export interface ChooseQuestion {
   type: 'choose'
-  question: string    // BS question
-  arabic?: string     // optional sentence displayed
-  options: string[]   // 4 options
+  question: string        // Bosnian question
+  questionEn?: string     // English question
+  arabic?: string         // optional sentence displayed
+  options: string[]       // Bosnian (or Arabic) options
+  optionsEn?: string[]    // English options (for Bosnian-language options)
   correctIndex: number
-  explanation: string
+  explanation: string     // Bosnian
+  explanationEn?: string  // English
 }
 
 export interface TrueFalseGrammarQuestion {
   type: 'true-false'
-  statement: string   // grammatical claim in BS
-  arabic?: string     // optional example
+  statement: string       // grammatical claim (Bosnian)
+  statementEn?: string    // English
+  arabic?: string         // optional example
   correct: boolean
-  explanation: string
+  explanation: string     // Bosnian
+  explanationEn?: string  // English
 }
 
 export interface IdentifyRoleQuestion {
   type: 'identify-role'
-  arabic: string        // full sentence (display only)
-  question: string      // e.g. "Tapni na الْفَاعِلَ u ovoj rečenici"
-  words: string[]       // tokenised words (user taps one)
+  arabic: string            // full sentence (display only)
+  question: string          // Bosnian
+  questionEn?: string       // English
+  words: string[]           // tokenised Arabic words (user taps one)
   correctIndex: number
-  explanation: string
+  explanation: string       // Bosnian
+  explanationEn?: string    // English
 }
 
 export type GrammarQuizQuestion =
@@ -139,7 +160,9 @@ export interface GrammarLesson {
   track: GrammarTrack
   titleAr: string
   titleBs: string
-  summary: string          // one-line teaser (BS)
+  titleEn?: string
+  summary: string           // one-line teaser (Bosnian)
+  summaryEn?: string        // English teaser
   estimatedMinutes: number
   sections: GrammarSection[]
   quiz: GrammarQuizQuestion[]
@@ -155,7 +178,9 @@ export interface GrammarLessonMeta {
   track: GrammarTrack
   titleAr: string
   titleBs: string
+  titleEn?: string
   summary: string
+  summaryEn?: string
   estimatedMinutes: number
   quizCount: number
 }
@@ -164,6 +189,7 @@ export interface GrammarBlock {
   number: number
   titleAr: string
   titleBs: string
+  titleEn?: string
   lessons: GrammarLessonMeta[]
 }
 

@@ -6,12 +6,15 @@
   "track": "nahw",
   "titleAr": "التَّعْرِيفُ وَالتَّنْكِيرُ",
   "titleBs": "Određenost i neodređenost",
+  "titleEn": "Definiteness and Indefiniteness",
   "summary": "الْكِتَابُ vs كِتَابٌ — razlika koja mijenja smisao i gramatiku svake rečenice.",
+  "summaryEn": "الْكِتَابُ vs كِتَابٌ — a difference that changes the meaning and grammar of every sentence.",
   "estimatedMinutes": 7,
   "sections": [
     {
       "type": "intro",
-      "content": "Svaka arapska imenica je ili مَعْرِفَةٌ (određena) ili نَكِرَةٌ (neodređena). Ova razlika nije samo jezička sitnica — ona određuje da li je imenica مُبْتَدَأٌ ili خَبَرٌ, da li se slaže نَعْتٌ (pridjev) s njom u određenosti, i kako se gradi cijela rečenica. كِتَابٌ je 'neka knjiga', الْكِتَابُ je 'ta knjiga' — određena, poznata, specifična."
+      "content": "Svaka arapska imenica je ili مَعْرِفَةٌ (određena) ili نَكِرَةٌ (neodređena). Ova razlika nije samo jezička sitnica — ona određuje da li je imenica مُبْتَدَأٌ ili خَبَرٌ, da li se slaže نَعْتٌ (pridjev) s njom u određenosti, i kako se gradi cijela rečenica. كِتَابٌ je 'neka knjiga', الْكِتَابُ je 'ta knjiga' — određena, poznata, specifična.",
+      "contentEn": "Every Arabic noun is either مَعْرِفَةٌ (definite) or نَكِرَةٌ (indefinite). This distinction is not a minor linguistic detail — it determines whether a noun is the مُبْتَدَأٌ or the خَبَرٌ, whether a نَعْتٌ (adjective) must agree with it in definiteness, and how the entire sentence is built. كِتَابٌ is 'a book', الْكِتَابُ is 'the book' — specific, known, identified."
     },
     {
       "type": "terms",
@@ -20,25 +23,33 @@
           "arabic": "الْمَعْرِفَةُ",
           "roman": "al-maʿrifa",
           "bs": "određena imenica",
-          "note": "Imenica čiji identitet je poznat: الْكِتَابُ, مُحَمَّدٌ, هُوَ, هَذَا. Vrste: ال, vlastita imena, zamjenice, показivanje (هذا), izafet s određenim krajem."
+          "en": "definite noun",
+          "note": "Imenica čiji identitet je poznat: الْكِتَابُ, مُحَمَّدٌ, هُوَ, هَذَا. Vrste: ال, vlastita imena, zamjenice, показivanje (هذا), izafet s određenim krajem.",
+          "noteEn": "A noun whose identity is known: الْكِتَابُ, مُحَمَّدٌ, هُوَ, هَذَا. Types: ال, proper names, pronouns, demonstratives (هذا), iḍāfa with a definite ending."
         },
         {
           "arabic": "النَّكِرَةُ",
           "roman": "an-nakira",
           "bs": "neodređena imenica",
-          "note": "Imenica čiji identitet nije određen: كِتَابٌ (neka knjiga), رَجُلٌ (neki čovjek). Nosi tanvīn (ٌ ً ٍ)."
+          "en": "indefinite noun",
+          "note": "Imenica čiji identitet nije određen: كِتَابٌ (neka knjiga), رَجُلٌ (neki čovjek). Nosi tanvīn (ٌ ً ٍ).",
+          "noteEn": "A noun whose identity is not specified: كِتَابٌ (a book), رَجُلٌ (a man). Carries tanvīn (ٌ ً ٍ)."
         },
         {
           "arabic": "أَلْ التَّعْرِيفِ",
           "roman": "alif-lam at-ta'rif",
           "bs": "određeni član ال",
-          "note": "Dodaje se ispred imenice da je odredi: كِتَابٌ → الْكِتَابُ. Oblik se ne mijenja, ali ل asimilira s nekim slovima (الشَّمْسِيَّةُ)."
+          "en": "the definite article ال",
+          "note": "Dodaje se ispred imenice da je odredi: كِتَابٌ → الْكِتَابُ. Oblik se ne mijenja, ali ل asimilira s nekim slovima (الشَّمْسِيَّةُ).",
+          "noteEn": "Prefixed to a noun to make it definite: كِتَابٌ → الْكِتَابُ. The form does not change, but the ل assimilates with certain letters (الشَّمْسِيَّةُ — solar letters)."
         },
         {
           "arabic": "التَّنْوِينُ",
           "roman": "at-tanwīn",
           "bs": "tanvīn — dvostruki vokal, znak neodređenosti",
-          "note": "Tri oblika: ٌ (tanvīn ḍamm), ً (tanvīn fatḥ), ٍ (tanvīn kasr). Imenica s ال ne može imati tanvīn — jedno isključuje drugo."
+          "en": "tanvīn — doubled vowel, sign of indefiniteness",
+          "note": "Tri oblika: ٌ (tanvīn ḍamm), ً (tanvīn fatḥ), ٍ (tanvīn kasr). Imenica s ال ne može imati tanvīn — jedno isključuje drugo.",
+          "noteEn": "Three forms: ٌ (tanvīn ḍamm), ً (tanvīn fatḥ), ٍ (tanvīn kasr). A noun with ال cannot have tanvīn — one excludes the other."
         }
       ]
     },
@@ -46,59 +57,78 @@
       "type": "rule",
       "titleAr": "الْقَاعِدَةُ",
       "formula": "اسْمٌ + ال = مَعْرِفَةٌ | اسْمٌ + تَنْوِينٌ = نَكِرَةٌ",
-      "content": "Ovo su dvije suprotnosti koje se međusobno isključuju:\n• Imenica s ال nosi ضمة (bez tanvīna) → مَعْرِفَةٌ\n• Imenica bez ال nosi tanvīn → نَكِرَةٌ\n\nالْكِتَابُ = 'knjiga (određena)' | كِتَابٌ = 'neka knjiga'\nالرَّجُلُ = 'čovjek (taj)' | رَجُلٌ = 'neki čovjek'"
+      "content": "Ovo su dvije suprotnosti koje se međusobno isključuju:\n• Imenica s ال nosi ضمة (bez tanvīna) → مَعْرِفَةٌ\n• Imenica bez ال nosi tanvīn → نَكِرَةٌ\n\nالْكِتَابُ = 'knjiga (određena)' | كِتَابٌ = 'neka knjiga'\nالرَّجُلُ = 'čovjek (taj)' | رَجُلٌ = 'neki čovjek'",
+      "contentEn": "These two are opposites that mutually exclude each other:\n• Noun with ال carries ḍamma (without tanvīn) → مَعْرِفَةٌ\n• Noun without ال carries tanvīn → نَكِرَةٌ\n\nالْكِتَابُ = 'the book' | كِتَابٌ = 'a book'\nالرَّجُلُ = 'the man' | رَجُلٌ = 'a man'"
     },
     {
       "type": "callout",
       "variant": "tip",
       "title": "Slova šemsijja i kamerijja",
-      "content": "ال se čita drugačije ispred 14 'sunčanih' slova (الشَّمْسِيَّةُ):\n→ الشَّمْسُ (ne čita se ل, asimilira u ش)\n→ الرَّجُلُ (ل postaje ر)\n→ النُّورُ (ل postaje ن)\n\nIspred 14 'mjesečnih' slova (الْقَمَرِيَّةُ) ل se čita normalno:\n→ الْقَمَرُ (ل se čita)\n→ الْكِتَابُ (ل se čita)\n→ الْبَيْتُ (ل se čita)\n\nZapamti: šems (sunce) 'proguta' ل — كما تغلب الشمس على كل شيء."
+      "titleEn": "Solar and lunar letters",
+      "content": "ال se čita drugačije ispred 14 'sunčanih' slova (الشَّمْسِيَّةُ):\n→ الشَّمْسُ (ne čita se ل, asimilira u ش)\n→ الرَّجُلُ (ل postaje ر)\n→ النُّورُ (ل postaje ن)\n\nIspred 14 'mjesečnih' slova (الْقَمَرِيَّةُ) ل se čita normalno:\n→ الْقَمَرُ (ل se čita)\n→ الْكِتَابُ (ل se čita)\n→ الْبَيْتُ (ل se čita)\n\nZapamti: šems (sunce) 'proguta' ل — كما تغلب الشمس على كل شيء.",
+      "contentEn": "ال is pronounced differently before 14 'solar' letters (الشَّمْسِيَّةُ):\n→ الشَّمْسُ (the ل is not pronounced; it assimilates into ش)\n→ الرَّجُلُ (ل becomes ر)\n→ النُّورُ (ل becomes ن)\n\nBefore 14 'lunar' letters (الْقَمَرِيَّةُ) the ل is pronounced normally:\n→ الْقَمَرُ (ل is pronounced)\n→ الْكِتَابُ (ل is pronounced)\n→ الْبَيْتُ (ل is pronounced)\n\nRemember: the sun (شمس) 'swallows' the ل — just as the sun overpowers everything."
     },
     {
       "type": "table",
       "title": "Određenost: مَعْرِفَةٌ po tipu",
+      "titleEn": "Definiteness: types of مَعْرِفَةٌ",
       "headers": ["Tip مَعْرِفَة", "Primjer", "Zašto određen"],
+      "headersEn": ["Type of مَعْرِفَة", "Example", "Why definite"],
       "rows": [
         ["Imenica s ال", "الْكِتَابُ", "ال čini imenicu poznatom"],
         ["Vlastito ime", "مُحَمَّدٌ / مَكَّةُ", "Jedno jedino u kontekstu"],
         ["Lična zamjenica", "هُوَ / هِيَ / أَنَا", "Znamo koga/šta označava"],
         ["Pokazna zamjenica", "هَذَا / هَذِهِ / ذَلِكَ", "Pokazuje na konkretno"],
         ["Izafet s određenim krajem", "كِتَابُ الطَّالِبِ", "Kraj الطَّالِبِ određuje cijeli izafet"]
+      ],
+      "rowsEn": [
+        ["Noun with ال", "الْكِتَابُ", "ال makes the noun known/identified"],
+        ["Proper name", "مُحَمَّدٌ / مَكَّةُ", "Unique in its context"],
+        ["Personal pronoun", "هُوَ / هِيَ / أَنَا", "We know who/what it refers to"],
+        ["Demonstrative pronoun", "هَذَا / هَذِهِ / ذَلِكَ", "Points to something specific"],
+        ["Iḍāfa with a definite ending", "كِتَابُ الطَّالِبِ", "The definite الطَّالِبِ makes the whole iḍāfa definite"]
       ]
     },
     {
       "type": "examples",
       "title": "Određenost u rečenicama",
+      "titleEn": "Definiteness in sentences",
       "items": [
         {
           "arabic": "قَرَأَ الطَّالِبُ كِتَابًا",
           "bs": "Student je pročitao neku knjigu.",
+          "en": "The student read a book.",
           "annotated": [
             { "word": "قَرَأَ", "role": "fil", "label": "فِعْلٌ" },
             { "word": "الطَّالِبُ", "role": "mubtada", "label": "فَاعِلٌ (مَعْرِفَةٌ)" },
             { "word": "كِتَابًا", "role": "mafool", "label": "مَفْعُولٌ (نَكِرَةٌ)" }
           ],
-          "note": "الطَّالِبُ je određen (ال) → znamo o kom se radi. كِتَابًا je نَكِرَةٌ (tanvīn fatḥ) → nije jasno koja knjiga."
+          "note": "الطَّالِبُ je određen (ال) → znamo o kom se radi. كِتَابًا je نَكِرَةٌ (tanvīn fatḥ) → nije jasno koja knjiga.",
+          "noteEn": "الطَّالِبُ is definite (ال) → we know who is meant. كِتَابًا is نَكِرَةٌ (tanvīn fatḥ) → we do not know which book."
         },
         {
           "arabic": "قَرَأَ الطَّالِبُ الْكِتَابَ",
           "bs": "Student je pročitao (tu određenu) knjigu.",
+          "en": "The student read the (specific) book.",
           "annotated": [
             { "word": "قَرَأَ", "role": "fil", "label": "فِعْلٌ" },
             { "word": "الطَّالِبُ", "role": "mubtada", "label": "فَاعِلٌ (مَعْرِفَةٌ)" },
             { "word": "الْكِتَابَ", "role": "mafool", "label": "مَفْعُولٌ (مَعْرِفَةٌ)" }
           ],
-          "note": "الْكِتَابَ je određen (ال) → znamo o kojoj knjizi govorimo. Nema tanvīna — nosi samo فتحة jer je مَنْصُوبٌ."
+          "note": "الْكِتَابَ je određen (ال) → znamo o kojoj knjizi govorimo. Nema tanvīna — nosi samo فتحة jer je مَنْصُوبٌ.",
+          "noteEn": "الْكِتَابَ is definite (ال) → we know which book is meant. No tanvīn — it carries only fatḥa because it is مَنْصُوبٌ (accusative)."
         },
         {
           "arabic": "هَذَا كِتَابٌ مُفِيدٌ",
           "bs": "Ovo je korisna knjiga.",
+          "en": "This is a useful book.",
           "annotated": [
             { "word": "هَذَا", "role": "mubtada", "label": "مُبْتَدَأٌ (مَعْرِفَةٌ)" },
             { "word": "كِتَابٌ", "role": "khabar", "label": "خَبَرٌ (نَكِرَةٌ)" },
             { "word": "مُفِيدٌ", "role": "nat", "label": "نَعْتٌ (نَكِرَةٌ)" }
           ],
-          "note": "هَذَا (određena zamjenica) je مُبْتَدَأٌ. Khabar كِتَابٌ je نَكِرَةٌ — ovdje je dozvoljeno jer مُبْتَدَأ je zamjenica."
+          "note": "هَذَا (određena zamjenica) je مُبْتَدَأٌ. Khabar كِتَابٌ je نَكِرَةٌ — ovdje je dozvoljeno jer مُبْتَدَأ je zamjenica.",
+          "noteEn": "هَذَا (definite demonstrative pronoun) is the مُبْتَدَأٌ. The khabar كِتَابٌ is نَكِرَةٌ — this is permitted here because the مُبْتَدَأ is a pronoun."
         }
       ]
     },
@@ -106,7 +136,9 @@
       "type": "callout",
       "variant": "root",
       "title": "النَّعْتُ mora pratiti مَنْعُوتٌ u određenosti",
-      "content": "Ovo je pravilo koje mnogi zaborave:\nAko je imenica određena, i njen pridjev mora biti određen.\nAko je imenica neodređena, i njen pridjev mora biti neodređen.\n\n✓ الْكِتَابُ الْجَدِيدُ (određena imenica + određeni pridjev)\n✓ كِتَابٌ جَدِيدٌ (neodređena + neodređeni)\n✗ الْكِتَابُ جَدِيدٌ — ovo je imenska rečenica, ne imenica s pridjevom!\n\nالْكِتَابُ جَدِيدٌ = 'Knjiga je nova.' (mُبْتَدَأ + خَبَر)\nالْكِتَابُ الْجَدِيدُ = 'nova knjiga' (imenica + njen pridjev)"
+      "titleEn": "النَّعْتُ must follow مَنْعُوتٌ in definiteness",
+      "content": "Ovo je pravilo koje mnogi zaborave:\nAko je imenica određena, i njen pridjev mora biti određen.\nAko je imenica neodređena, i njen pridjev mora biti neodređen.\n\n✓ الْكِتَابُ الْجَدِيدُ (određena imenica + određeni pridjev)\n✓ كِتَابٌ جَدِيدٌ (neodređena + neodređeni)\n✗ الْكِتَابُ جَدِيدٌ — ovo je imenska rečenica, ne imenica s pridjevom!\n\nالْكِتَابُ جَدِيدٌ = 'Knjiga je nova.' (mُبْتَدَأ + خَبَر)\nالْكِتَابُ الْجَدِيدُ = 'nova knjiga' (imenica + njen pridjev)",
+      "contentEn": "This is a rule many learners forget:\nIf the noun is definite, its adjective must also be definite.\nIf the noun is indefinite, its adjective must also be indefinite.\n\n✓ الْكِتَابُ الْجَدِيدُ (definite noun + definite adjective)\n✓ كِتَابٌ جَدِيدٌ (indefinite + indefinite)\n✗ الْكِتَابُ جَدِيدٌ — this is a nominal sentence, not a noun with its adjective!\n\nالْكِتَابُ جَدِيدٌ = 'The book is new.' (مُبْتَدَأ + خَبَر)\nالْكِتَابُ الْجَدِيدُ = 'the new book' (noun + its adjective)"
     }
   ],
   "quiz": [
@@ -114,27 +146,34 @@
       "type": "classify",
       "arabic": "مَسْجِدٌ",
       "question": "Je li ova imenica مَعْرِفَةٌ ili نَكِرَةٌ?",
+      "questionEn": "Is this noun مَعْرِفَةٌ (definite) or نَكِرَةٌ (indefinite)?",
       "options": ["مَعْرِفَةٌ (određena)", "نَكِرَةٌ (neodređena)"],
       "correctIndex": 1,
-      "explanation": "مَسْجِدٌ nosi tanvīn ضم (ٌ) i nema ال → نَكِرَةٌ. 'Neka džamija.' Kada dodamo ال → الْمَسْجِدُ = 'džamija (određena, poznata)'."
+      "explanation": "مَسْجِدٌ nosi tanvīn ضم (ٌ) i nema ال → نَكِرَةٌ. 'Neka džamija.' Kada dodamo ال → الْمَسْجِدُ = 'džamija (određena, poznata)'.",
+      "explanationEn": "مَسْجِدٌ carries tanvīn ḍamm (ٌ) and has no ال → نَكِرَةٌ. 'A mosque.' When we add ال → الْمَسْجِدُ = 'the mosque (specific, known).'"
     },
     {
       "type": "classify",
       "arabic": "الْمَدِينَةُ",
       "question": "Je li ova imenica مَعْرِفَةٌ ili نَكِرَةٌ?",
+      "questionEn": "Is this noun مَعْرِفَةٌ (definite) or نَكِرَةٌ (indefinite)?",
       "options": ["مَعْرِفَةٌ (određena)", "نَكِرَةٌ (neodređena)"],
       "correctIndex": 0,
-      "explanation": "الْمَدِينَةُ ima ال i nosi samo ضمة (bez tanvīna) → مَعْرِفَةٌ. 'Grad (taj određeni grad).' Nema tanvīna — ال i tanvīn se ne mogu naći zajedno."
+      "explanation": "الْمَدِينَةُ ima ال i nosi samo ضمة (bez tanvīna) → مَعْرِفَةٌ. 'Grad (taj određeni grad).' Nema tanvīna — ال i tanvīn se ne mogu naći zajedno.",
+      "explanationEn": "الْمَدِينَةُ has ال and carries only ḍamma (no tanvīn) → مَعْرِفَةٌ. 'The city (that specific city).' No tanvīn — ال and tanvīn cannot coexist."
     },
     {
       "type": "true-false",
       "statement": "الرَّجُلُ طَوِيلٌ je imenska rečenica, a ne imenica s pridjevom.",
+      "statementEn": "الرَّجُلُ طَوِيلٌ is a nominal sentence, not a noun with its adjective.",
       "correct": true,
-      "explanation": "Tačno! الرَّجُلُ (određen) + طَوِيلٌ (neodređen s tanvīnom) = مُبْتَدَأٌ + خَبَرٌ = imenska rečenica: 'Muškarac je visok.' Da je رَجُلٌ طَوِيلٌ — to je neodređena imenica s pridjevom: 'visok muškarac'. Određenost odlučuje sve."
+      "explanation": "Tačno! الرَّجُلُ (određen) + طَوِيلٌ (neodređen s tanvīnom) = مُبْتَدَأٌ + خَبَرٌ = imenska rečenica: 'Muškarac je visok.' Da je رَجُلٌ طَوِيلٌ — to je neodređena imenica s pridjevom: 'visok muškarac'. Određenost odlučuje sve.",
+      "explanationEn": "Correct! الرَّجُلُ (definite) + طَوِيلٌ (indefinite with tanvīn) = مُبْتَدَأٌ + خَبَرٌ = a nominal sentence: 'The man is tall.' If it were رَجُلٌ طَوِيلٌ — that is an indefinite noun with its adjective: 'a tall man'. Definiteness decides everything."
     },
     {
       "type": "choose",
       "question": "Koji izraz je ispravna imenska fraza (imenica + njen придjev) a ne rečenica?",
+      "questionEn": "Which expression is a correct noun phrase (noun + its adjective) and not a sentence?",
       "options": [
         "الْبَيْتُ كَبِيرٌ",
         "الْبَيْتُ الْكَبِيرُ",
@@ -142,17 +181,21 @@
         "بَيْتٌ كَبِيرٌ الْجَمِيلُ"
       ],
       "correctIndex": 1,
-      "explanation": "الْبَيْتُ الْكَبِيرُ je ispravna fraza: određena imenica + određeni pridjev ('velika kuća'). الْبَيْتُ كَبِيرٌ je rečenica ('kuća je velika'). بَيْتٌ الْكَبِيرُ je gramatički pogrešno (مَعْرِفَةٌ ne može biti نَعْتٌ neodređenoj imenici)."
+      "explanation": "الْبَيْتُ الْكَبِيرُ je ispravna fraza: određena imenica + određeni pridjev ('velika kuća'). الْبَيْتُ كَبِيرٌ je rečenica ('kuća je velika'). بَيْتٌ الْكَبِيرُ je gramatički pogrešno (مَعْرِفَةٌ ne može biti نَعْتٌ neodređenoj imenici).",
+      "explanationEn": "الْبَيْتُ الْكَبِيرُ is a correct noun phrase: definite noun + definite adjective ('the large house'). الْبَيْتُ كَبِيرٌ is a sentence ('the house is large'). بَيْتٌ الْكَبِيرُ is grammatically incorrect (a definite مَعْرِفَةٌ cannot be a نَعْتٌ for an indefinite noun)."
     },
     {
       "type": "true-false",
       "statement": "Vlastito ime مُحَمَّدٌ je نَكِرَةٌ jer nosi tanvīn.",
+      "statementEn": "The proper name مُحَمَّدٌ is نَكِرَةٌ (indefinite) because it carries tanvīn.",
       "correct": false,
-      "explanation": "Netačno! مُحَمَّدٌ je مَعْرِفَةٌ jer je vlastito ime (اسم علم) — bez obzira na tanvīn. Tanvīn na vlastitim imenima je morfološki znak, ne znak neodređenosti. Neodređenost i tanvīn nisu ista stvar — tanvīn prati padež i morfologiju, ne samo određenost."
+      "explanation": "Netačno! مُحَمَّدٌ je مَعْرِفَةٌ jer je vlastito ime (اسم علم) — bez obzira na tanvīn. Tanvīn na vlastitim imenima je morfološki znak, ne znak neodređenosti. Neodređenost i tanvīn nisu ista stvar — tanvīn prati padež i morfologiju, ne samo određenost.",
+      "explanationEn": "Incorrect! مُحَمَّدٌ is مَعْرِفَةٌ because it is a proper name (اسم علم) — regardless of the tanvīn. Tanvīn on proper names is a morphological marker, not a sign of indefiniteness. Indefiniteness and tanvīn are not the same thing — tanvīn follows case and morphology, not just definiteness."
     },
     {
       "type": "choose",
       "question": "Dopuni rečenicu: ذَهَبَ إِلَى __________ (otišao je u školu — određenu)",
+      "questionEn": "Complete the sentence: ذَهَبَ إِلَى __________ (he went to the school — the specific one)",
       "options": [
         "مَدْرَسَةً",
         "الْمَدْرَسَةِ",
@@ -160,7 +203,8 @@
         "الْمَدْرَسَةَ"
       ],
       "correctIndex": 1,
-      "explanation": "Iza إِلَى (harf jarr) dolazi مَجْرُورٌ (s كسرة): الْمَدْرَسَةِ. Određena imenica (ال) + kasra (jer je مجرور) = الْمَدْرَسَةِ. Prevod: 'Otišao je u školu (tu određenu).'"
+      "explanation": "Iza إِلَى (harf jarr) dolazi مَجْرُورٌ (s كسرة): الْمَدْرَسَةِ. Određena imenica (ال) + kasra (jer je مجرور) = الْمَدْرَسَةِ. Prevod: 'Otišao je u školu (tu određenu).'",
+      "explanationEn": "After إِلَى (a preposition / harf jarr) comes a مَجْرُورٌ (with kasra): الْمَدْرَسَةِ. Definite noun (ال) + kasra (because it is مجرور — genitive) = الْمَدْرَسَةِ. Translation: 'He went to the school (that specific one).'"
     }
   ]
 }

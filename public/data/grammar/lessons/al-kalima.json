@@ -6,12 +6,15 @@
   "track": "nahw",
   "titleAr": "الْكَلِمَةُ: اسْمٌ وَفِعْلٌ وَحَرْفٌ",
   "titleBs": "Imenica, glagol i čestica",
+  "titleEn": "The Word: Noun, Verb, and Particle",
   "summary": "Svaka arapska riječ spada u jednu od tri kategorije. Znati koje je koje — ključ je za sve.",
+  "summaryEn": "Every Arabic word belongs to one of three categories. Knowing which is which is the key to everything.",
   "estimatedMinutes": 6,
   "sections": [
     {
       "type": "intro",
-      "content": "Svakom učeniku koji počinje s arapskom gramatikom potrebno je da usvoji jednu temeljnu istinu: svaka arapska riječ (كَلِمَةٌ) spada u jednu od tri kategorije — اسْمٌ, فِعْلٌ ili حَرْفٌ. Samo tri. Sve ostale gramatičke pojave u arapskom jeziku su posljedica toga u kojoj kategoriji se neka riječ nalazi. Tradicija kaže: العربُ لا تتكلَّمُ إلا بهذه الثلاثة — Arapi govore samo s ova tri."
+      "content": "Svakom učeniku koji počinje s arapskom gramatikom potrebno je da usvoji jednu temeljnu istinu: svaka arapska riječ (كَلِمَةٌ) spada u jednu od tri kategorije — اسْمٌ, فِعْلٌ ili حَرْفٌ. Samo tri. Sve ostale gramatičke pojave u arapskom jeziku su posljedica toga u kojoj kategoriji se neka riječ nalazi. Tradicija kaže: العربُ لا تتكلَّمُ إلا بهذه الثلاثة — Arapi govore samo s ova tri.",
+      "contentEn": "Every student beginning Arabic grammar must grasp one fundamental truth: every Arabic word (كَلِمَةٌ) belongs to one of three categories — اسْمٌ, فِعْلٌ, or حَرْفٌ. Just three. All other grammatical phenomena in Arabic follow from which category a word belongs to. The tradition says: العربُ لا تتكلَّمُ إلا بهذه الثلاثة — Arabs speak only with these three."
     },
     {
       "type": "terms",
@@ -20,25 +23,33 @@
           "arabic": "الْكَلِمَةُ",
           "roman": "al-kalima",
           "bs": "riječ",
-          "note": "Svaka arapska riječ je jedna od tri vrste."
+          "en": "word",
+          "note": "Svaka arapska riječ je jedna od tri vrste.",
+          "noteEn": "Every Arabic word is one of three types."
         },
         {
           "arabic": "الاسْمُ",
           "roman": "al-ism",
           "bs": "imenica — sve što ima ime",
-          "note": "Prihvata ال i može nositi تَنْوِينٌ. Primjeri: كِتَابٌ, مُحَمَّدٌ, مَدِينَةٌ."
+          "en": "noun — anything that has a name",
+          "note": "Prihvata ال i može nositi تَنْوِينٌ. Primjeri: كِتَابٌ, مُحَمَّدٌ, مَدِينَةٌ.",
+          "noteEn": "Accepts ال and can carry تَنْوِينٌ (nunation). Examples: كِتَابٌ (book), مُحَمَّدٌ (a name), مَدِينَةٌ (city)."
         },
         {
           "arabic": "الْفِعْلُ",
           "roman": "al-fi'l",
           "bs": "glagol — radnja ili stanje u vremenu",
-          "note": "Nosi vremensko značenje: prošlost, sadašnjost ili naredba. Primjeri: كَتَبَ, يَكْتُبُ, اكْتُبْ."
+          "en": "verb — an action or state tied to time",
+          "note": "Nosi vremensko značenje: prošlost, sadašnjost ili naredba. Primjeri: كَتَبَ, يَكْتُبُ, اكْتُبْ.",
+          "noteEn": "Carries a time meaning: past, present, or imperative. Examples: كَتَبَ (he wrote), يَكْتُبُ (he writes), اكْتُبْ (write!)."
         },
         {
           "arabic": "الْحَرْفُ",
           "roman": "al-harf",
           "bs": "čestica / prijedlog — nema smisla samo za sebe",
-          "note": "Ne prima ال, ne nosi tense. Primjeri: مِنْ, فِي, إِلَى, وَ, لَا."
+          "en": "particle / preposition — has no meaning on its own",
+          "note": "Ne prima ال, ne nosi tense. Primjeri: مِنْ, فِي, إِلَى, وَ, لَا.",
+          "noteEn": "Does not accept ال and carries no tense. Examples: مِنْ (from), فِي (in), إِلَى (to), وَ (and), لَا (no/not)."
         }
       ]
     },
@@ -46,46 +57,57 @@
       "type": "rule",
       "titleAr": "الْقَاعِدَةُ الأُولَى",
       "formula": "كُلُّ كَلِمَةٍ: إِمَّا اسْمٌ، أَوْ فِعْلٌ، أَوْ حَرْفٌ",
-      "content": "Svaka riječ je ili imenica, ili glagol, ili čestica. Nema četvrte kategorije. Ova podjela je apsolutna i vrijedi za svaku arapsku riječ bez iznimke."
+      "content": "Svaka riječ je ili imenica, ili glagol, ili čestica. Nema četvrte kategorije. Ova podjela je apsolutna i vrijedi za svaku arapsku riječ bez iznimke.",
+      "contentEn": "Every word is either a noun, a verb, or a particle. There is no fourth category. This division is absolute and applies to every Arabic word without exception."
     },
     {
       "type": "callout",
       "variant": "tip",
       "title": "Test za اسْمٌ",
-      "content": "Možeš li staviti ال ispred? → كِتَابٌ → الْكِتَابُ ✓ Imenica.\nNosi li تَنْوِينٌ (dvostruki vokal na kraju)? → كِتَابٌ ✓ Imenica.\nMožeš li reći 'ovaj/ova' ispred? → هَذَا الْكِتَابُ ✓ Imenica."
+      "titleEn": "Test for اسْمٌ",
+      "content": "Možeš li staviti ال ispred? → كِتَابٌ → الْكِتَابُ ✓ Imenica.\nNosi li تَنْوِينٌ (dvostruki vokal na kraju)? → كِتَابٌ ✓ Imenica.\nMožeš li reći 'ovaj/ova' ispred? → هَذَا الْكِتَابُ ✓ Imenica.",
+      "contentEn": "Can you put ال in front of it? → كِتَابٌ → الْكِتَابُ ✓ Noun.\nDoes it carry تَنْوِينٌ (double vowel ending)? → كِتَابٌ ✓ Noun.\nCan you say 'this' in front of it? → هَذَا الْكِتَابُ ✓ Noun."
     },
     {
       "type": "examples",
       "title": "Primjeri — svaka kategorija",
+      "titleEn": "Examples — each category",
       "items": [
         {
           "arabic": "كِتَابٌ",
           "bs": "knjiga",
+          "en": "a book",
           "annotated": [
             { "word": "كِتَابٌ", "role": "mubtada", "label": "اسْمٌ" }
           ],
-          "note": "Prihvata ال → الْكِتَابُ. Nosi tanvīn. Imenica ✓"
+          "note": "Prihvata ال → الْكِتَابُ. Nosi tanvīn. Imenica ✓",
+          "noteEn": "Accepts ال → الْكِتَابُ. Carries tanvīn. Noun ✓"
         },
         {
           "arabic": "كَتَبَ",
           "bs": "pisao je / napisao je",
+          "en": "he wrote / he has written",
           "annotated": [
             { "word": "كَتَبَ", "role": "fil", "label": "فِعْلٌ" }
           ],
-          "note": "Radnja u prošlom vremenu. Ne prima ال. Glagol ✓"
+          "note": "Radnja u prošlom vremenu. Ne prima ال. Glagol ✓",
+          "noteEn": "An action in the past tense. Does not accept ال. Verb ✓"
         },
         {
           "arabic": "فِي الْبَيْتِ",
           "bs": "u kući",
+          "en": "in the house",
           "annotated": [
             { "word": "فِي", "role": "harf", "label": "حَرْفٌ" },
             { "word": "الْبَيْتِ", "role": "mudaf-ilayh", "label": "اسْمٌ" }
           ],
-          "note": "فِي sama za sebe nema smisla. Čestica. الْبَيْتِ je imenica."
+          "note": "فِي sama za sebe nema smisla. Čestica. الْبَيْتِ je imenica.",
+          "noteEn": "فِي has no meaning on its own. Particle. الْبَيْتِ is a noun."
         },
         {
           "arabic": "مُحَمَّدٌ يَكْتُبُ رِسَالَةً فِي الْمَدْرَسَةِ",
           "bs": "Muhammed piše pismo u školi.",
+          "en": "Muhammad is writing a letter at school.",
           "annotated": [
             { "word": "مُحَمَّدٌ", "role": "mubtada", "label": "اسْمٌ" },
             { "word": "يَكْتُبُ", "role": "fil", "label": "فِعْلٌ" },
@@ -93,7 +115,8 @@
             { "word": "فِي", "role": "harf", "label": "حَرْفٌ" },
             { "word": "الْمَدْرَسَةِ", "role": "mudaf-ilayh", "label": "اسْمٌ" }
           ],
-          "note": "Sve tri kategorije u jednoj rečenici. Broji: 3 اسم, 1 فعل, 1 حرف."
+          "note": "Sve tri kategorije u jednoj rečenici. Broji: 3 اسم, 1 فعل, 1 حرف.",
+          "noteEn": "All three categories in one sentence. Count: 3 اسم, 1 فعل, 1 حرف."
         }
       ]
     },
@@ -101,13 +124,17 @@
       "type": "callout",
       "variant": "warning",
       "title": "الْحَرْفُ — uvijek nepromijenjen",
-      "content": "Čestice se nikad ne mijenjaju. Ne primaju padežne završetke (مَبْنِيٌّ = nepromjenljiv). Zapamti: ako se neka kratka riječ nikad ne mijenja i nema smisla bez konteksta — to je حَرْفٌ."
+      "titleEn": "الْحَرْفُ — always unchanged",
+      "content": "Čestice se nikad ne mijenjaju. Ne primaju padežne završetke (مَبْنِيٌّ = nepromjenljiv). Zapamti: ako se neka kratka riječ nikad ne mijenja i nema smisla bez konteksta — to je حَرْفٌ.",
+      "contentEn": "Particles never change. They do not take case endings (مَبْنِيٌّ = indeclinable). Remember: if a short word never changes and has no meaning without context — it is a حَرْفٌ."
     },
     {
       "type": "callout",
       "variant": "root",
       "title": "الْجَذْرُ — korijen i kategorija",
-      "content": "Iz jednog korijena mogu nastati i اسم i فعل. Korijen ك-ت-ب daje:\n• كَتَبَ (فِعْلٌ) — pisao je\n• كِتَابٌ (اسْمٌ) — knjiga\n• كَاتِبٌ (اسْمٌ) — pisac\n• مَكْتَبٌ (اسْمٌ) — ured / pisaći sto\nKategorija ovisi o obliku, ne samo o korijenu."
+      "titleEn": "الْجَذْرُ — root and category",
+      "content": "Iz jednog korijena mogu nastati i اسم i فعل. Korijen ك-ت-ب daje:\n• كَتَبَ (فِعْلٌ) — pisao je\n• كِتَابٌ (اسْمٌ) — knjiga\n• كَاتِبٌ (اسْمٌ) — pisac\n• مَكْتَبٌ (اسْمٌ) — ured / pisaći sto\nKategorija ovisi o obliku, ne samo o korijenu.",
+      "contentEn": "From a single root both اسم and فعل can be formed. The root ك-ت-ب gives:\n• كَتَبَ (فِعْلٌ) — he wrote\n• كِتَابٌ (اسْمٌ) — book\n• كَاتِبٌ (اسْمٌ) — writer\n• مَكْتَبٌ (اسْمٌ) — office / desk\nThe category depends on the form, not just the root."
     }
   ],
   "quiz": [
@@ -115,46 +142,58 @@
       "type": "classify",
       "arabic": "مَسْجِدٌ",
       "question": "Kojoj kategoriji pripada ova riječ?",
+      "questionEn": "Which category does this word belong to?",
       "options": ["اسْمٌ", "فِعْلٌ", "حَرْفٌ"],
       "correctIndex": 0,
-      "explanation": "مَسْجِدٌ (džamija) prihvata ال → الْمَسْجِدُ, i nosi tanvīn. To su jasni znakovi اسْمٌ."
+      "explanation": "مَسْجِدٌ (džamija) prihvata ال → الْمَسْجِدُ, i nosi tanvīn. To su jasni znakovi اسْمٌ.",
+      "explanationEn": "مَسْجِدٌ (mosque) accepts ال → الْمَسْجِدُ and carries tanvīn. These are clear signs of اسْمٌ."
     },
     {
       "type": "classify",
       "arabic": "ذَهَبَ",
       "question": "Kojoj kategoriji pripada ova riječ?",
+      "questionEn": "Which category does this word belong to?",
       "options": ["اسْمٌ", "فِعْلٌ", "حَرْفٌ"],
       "correctIndex": 1,
-      "explanation": "ذَهَبَ znači 'otišao je' — radnja u prošlom vremenu. Ne prima ال. To je فِعْلٌ."
+      "explanation": "ذَهَبَ znači 'otišao je' — radnja u prošlom vremenu. Ne prima ال. To je فِعْلٌ.",
+      "explanationEn": "ذَهَبَ means 'he went' — an action in the past tense. It does not accept ال. It is a فِعْلٌ."
     },
     {
       "type": "classify",
       "arabic": "إِلَى",
       "question": "Kojoj kategoriji pripada ova riječ?",
+      "questionEn": "Which category does this word belong to?",
       "options": ["اسْمٌ", "فِعْلٌ", "حَرْفٌ"],
       "correctIndex": 2,
-      "explanation": "إِلَى (prema/do) nema smisla sama za sebe. Ne prima ال. Ne nosi vremensko značenje. To je حَرْفٌ."
+      "explanation": "إِلَى (prema/do) nema smisla sama za sebe. Ne prima ال. Ne nosi vremensko značenje. To je حَرْفٌ.",
+      "explanationEn": "إِلَى (towards/to) has no meaning on its own. It does not accept ال and carries no tense. It is a حَرْفٌ."
     },
     {
       "type": "true-false",
       "statement": "Arapska čestica (حَرْفٌ) može primiti ال i postati određena.",
+      "statementEn": "An Arabic particle (حَرْفٌ) can accept ال and become definite.",
       "correct": false,
-      "explanation": "حَرْفٌ je uvijek مَبْنِيٌّ — nepromjenljiv. Nikada ne prima ال niti padežne završetke. To je jedna od glavnih razlika između حرف i اسم."
+      "explanation": "حَرْفٌ je uvijek مَبْنِيٌّ — nepromjenljiv. Nikada ne prima ال niti padežne završetke. To je jedna od glavnih razlika između حرف i اسم.",
+      "explanationEn": "حَرْفٌ is always مَبْنِيٌّ — indeclinable. It never accepts ال or case endings. This is one of the main differences between حرف and اسم."
     },
     {
       "type": "identify-role",
       "arabic": "يَشْرَبُ الطِّفْلُ الْحَلِيبَ",
       "question": "Tapni na الْفِعْلَ (glagol) u ovoj rečenici.",
+      "questionEn": "Tap on the الْفِعْلَ (verb) in this sentence.",
       "words": ["يَشْرَبُ", "الطِّفْلُ", "الْحَلِيبَ"],
       "correctIndex": 0,
-      "explanation": "يَشْرَبُ (pije) je glagol u sadašnjem vremenu. الطِّفْلُ (dijete) i الْحَلِيبَ (mlijeko) su imenice."
+      "explanation": "يَشْرَبُ (pije) je glagol u sadašnjem vremenu. الطِّفْلُ (dijete) i الْحَلِيبَ (mlijeko) su imenice.",
+      "explanationEn": "يَشْرَبُ (drinks) is a present-tense verb. الطِّفْلُ (child) and الْحَلِيبَ (milk) are nouns."
     },
     {
       "type": "choose",
       "question": "Koja od ovih riječi je اسْمٌ?",
+      "questionEn": "Which of these words is an اسْمٌ?",
       "options": ["كَتَبَ", "مِنْ", "عَلَى", "مَدْرَسَةٌ"],
       "correctIndex": 3,
-      "explanation": "مَدْرَسَةٌ (škola) nosi tanvīn i prihvata ال → الْمَدْرَسَةُ. كَتَبَ je فعل, a مِنْ i عَلَى su حروف."
+      "explanation": "مَدْرَسَةٌ (škola) nosi tanvīn i prihvata ال → الْمَدْرَسَةُ. كَتَبَ je فعل, a مِنْ i عَلَى su حروف.",
+      "explanationEn": "مَدْرَسَةٌ (school) carries tanvīn and accepts ال → الْمَدْرَسَةُ. كَتَبَ is a فعل, and مِنْ and عَلَى are حروف."
     }
   ]
 }

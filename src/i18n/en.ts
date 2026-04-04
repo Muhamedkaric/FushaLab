@@ -233,6 +233,7 @@ export interface Translations {
     rootNote: string
     identify: string
     classify: string
+    questions: string
     quizDone: {
       perfect: string
       great: string
@@ -558,6 +559,7 @@ export const en: Translations = {
     rootNote: 'Root',
     identify: 'Tap the correct word',
     classify: 'Classify this sentence',
+    questions: 'questions',
     quizDone: {
       perfect: 'Flawless — you own this!',
       great: 'Excellent work!',

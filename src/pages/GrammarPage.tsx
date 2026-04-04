@@ -62,15 +62,18 @@ const cardVariants = {
 
 // ── Lesson card ───────────────────────────────────────────────────────────────
 
+type Loc = (bs: string, en?: string) => string
+
 interface LessonCardProps {
   lesson: GrammarLessonMeta
   stars: number
   completed: boolean
   onStart: () => void
   t: ReturnType<typeof useI18n>['t']
+  loc: Loc
 }
 
-function LessonCard({ lesson, stars, completed, onStart, t }: LessonCardProps) {
+function LessonCard({ lesson, stars, completed, onStart, t, loc }: LessonCardProps) {
   const levelColor = LEVEL_COLOR[lesson.level] ?? 'primary'
 
   return (
@@ -122,13 +125,13 @@ function LessonCard({ lesson, stars, completed, onStart, t }: LessonCardProps) {
         {lesson.titleAr}
       </Typography>
 
-      {/* BS title + summary */}
+      {/* Localised title + summary */}
       <Box flex={1}>
         <Typography variant="subtitle2" fontWeight={700} color="text.primary">
-          {lesson.titleBs}
+          {loc(lesson.titleBs, lesson.titleEn)}
         </Typography>
         <Typography variant="caption" color="text.secondary" display="block" mt={0.25}>
-          {lesson.summary}
+          {loc(lesson.summary, lesson.summaryEn)}
         </Typography>
       </Box>
 
@@ -141,7 +144,7 @@ function LessonCard({ lesson, stars, completed, onStart, t }: LessonCardProps) {
           </Typography>
           <Typography variant="caption" color="text.disabled" sx={{ mx: 0.5 }}>·</Typography>
           <Typography variant="caption" color="text.disabled">
-            {lesson.quizCount} pitanja
+            {lesson.quizCount} {t.grammar.questions}
           </Typography>
         </Stack>
         <Button
@@ -170,9 +173,10 @@ interface BlockSectionProps {
   getLessonProgress: (id: string) => { stars: number; completed: boolean }
   onLesson: (id: string) => void
   t: ReturnType<typeof useI18n>['t']
+  loc: Loc
 }
 
-function BlockSection({ block, blockIndex, getLessonProgress, onLesson, t }: BlockSectionProps) {
+function BlockSection({ block, blockIndex, getLessonProgress, onLesson, t, loc }: BlockSectionProps) {
   const accent = BLOCK_COLORS[blockIndex % BLOCK_COLORS.length]
 
   return (
@@ -196,7 +200,7 @@ function BlockSection({ block, blockIndex, getLessonProgress, onLesson, t }: Blo
             {block.titleAr}
           </Typography>
           <Typography variant="caption" color="text.secondary" fontWeight={600}>
-            {block.titleBs} · {block.lessons.length} {t.grammar.lessons}
+            {loc(block.titleBs, block.titleEn)} · {block.lessons.length} {t.grammar.lessons}
           </Typography>
         </Box>
       </Stack>
@@ -215,6 +219,7 @@ function BlockSection({ block, blockIndex, getLessonProgress, onLesson, t }: Blo
                     completed={progress.completed}
                     onStart={() => onLesson(lesson.id)}
                     t={t}
+                    loc={loc}
                   />
                 </motion.div>
               </Grid>
@@ -229,7 +234,8 @@ function BlockSection({ block, blockIndex, getLessonProgress, onLesson, t }: Blo
 // ── GrammarPage ───────────────────────────────────────────────────────────────
 
 export function GrammarPage() {
-  const { t } = useI18n()
+  const { t, lang } = useI18n()
+  const loc = (bs: string, en?: string) => (lang === 'en' && en) ? en : bs
   const navigate = useNavigate()
   const { totalXp, completedCount, getLessonProgress } = useGrammarProgress()
 
@@ -321,6 +327,7 @@ export function GrammarPage() {
             getLessonProgress={id => getLessonProgress(id)}
             onLesson={id => void navigate({ to: '/grammar/$lessonId', params: { lessonId: id } })}
             t={t}
+            loc={loc}
           />
         ))
       ) : (

@@ -6,12 +6,15 @@
   "track": "nahw",
   "titleAr": "الْجُمْلَةُ: اسْمِيَّةٌ أَمْ فِعْلِيَّةٌ؟",
   "titleBs": "Rečenica: imenska ili glagolska?",
+  "titleEn": "The Sentence: Nominal or Verbal?",
   "summary": "Svaka arapska rečenica počinje ili imenicom ili glagolom. To nije slučajnost — to je temelj cijele gramatike.",
+  "summaryEn": "Every Arabic sentence begins with either a noun or a verb. This is not accidental — it is the foundation of the entire grammar system.",
   "estimatedMinutes": 8,
   "sections": [
     {
       "type": "intro",
-      "content": "Kada god čuješ ili pročitaš arapsku rečenicu, postavi jedno pitanje: Čime počinje? Ako počinje imenicom (اسْمٌ) — to je الْجُمْلَةُ الاسْمِيَّةُ. Ako počinje glagolom (فِعْلٌ) — to je الْجُمْلَةُ الْفِعْلِيَّةُ. Nema treće mogućnosti. Ova razlika određuje sve ostalo: koji padež nosi svaka riječ, kako se slaže subjekt i predikat, kako se gradi negacija. Sve počinje od صَدْرِ الْجُمْلَةِ — prvog člana rečenice."
+      "content": "Kada god čuješ ili pročitaš arapsku rečenicu, postavi jedno pitanje: Čime počinje? Ako počinje imenicom (اسْمٌ) — to je الْجُمْلَةُ الاسْمِيَّةُ. Ako počinje glagolom (فِعْلٌ) — to je الْجُمْلَةُ الْفِعْلِيَّةُ. Nema treće mogućnosti. Ova razlika određuje sve ostalo: koji padež nosi svaka riječ, kako se slaže subjekt i predikat, kako se gradi negacija. Sve počinje od صَدْرِ الْجُمْلَةِ — prvog člana rečenice.",
+      "contentEn": "Whenever you hear or read an Arabic sentence, ask one question: What does it begin with? If it begins with a noun (اسْمٌ) — it is الْجُمْلَةُ الاسْمِيَّةُ. If it begins with a verb (فِعْلٌ) — it is الْجُمْلَةُ الْفِعْلِيَّةُ. There is no third option. This distinction determines everything else: what case each word carries, how subject and predicate agree, how negation is formed. Everything begins with صَدْرُ الْجُمْلَةِ — the first element of the sentence."
     },
     {
       "type": "terms",
@@ -20,25 +23,33 @@
           "arabic": "الْجُمْلَةُ",
           "roman": "al-jumla",
           "bs": "rečenica",
-          "note": "Skup riječi koji daje potpun smisao. Svaka arapska rečenica je ili اسمية ili فعلية."
+          "en": "sentence",
+          "note": "Skup riječi koji daje potpun smisao. Svaka arapska rečenica je ili اسمية ili فعلية.",
+          "noteEn": "A group of words that gives complete meaning. Every Arabic sentence is either اسمية or فعلية."
         },
         {
           "arabic": "الْجُمْلَةُ الاسْمِيَّةُ",
           "roman": "al-jumla al-ismiyya",
           "bs": "imenska rečenica",
-          "note": "Počinje imenicom (الْمُبْتَدَأُ). Osnovna struktura: مُبْتَدَأٌ + خَبَرٌ. Primjer: الْعِلْمُ نُورٌ."
+          "en": "nominal sentence",
+          "note": "Počinje imenicom (الْمُبْتَدَأُ). Osnovna struktura: مُبْتَدَأٌ + خَبَرٌ. Primjer: الْعِلْمُ نُورٌ.",
+          "noteEn": "Begins with a noun (الْمُبْتَدَأُ). Basic structure: مُبْتَدَأٌ + خَبَرٌ. Example: الْعِلْمُ نُورٌ (Knowledge is light)."
         },
         {
           "arabic": "الْجُمْلَةُ الْفِعْلِيَّةُ",
           "roman": "al-jumla al-fi'liyya",
           "bs": "glagolska rečenica",
-          "note": "Počinje glagolom (الْفِعْلُ). Osnovna struktura: فِعْلٌ + فَاعِلٌ. Primjer: قَالَ اللهُ."
+          "en": "verbal sentence",
+          "note": "Počinje glagolom (الْفِعْلُ). Osnovna struktura: فِعْلٌ + فَاعِلٌ. Primjer: قَالَ اللهُ.",
+          "noteEn": "Begins with a verb (الْفِعْلُ). Basic structure: فِعْلٌ + فَاعِلٌ. Example: قَالَ اللهُ (Allah said)."
         },
         {
           "arabic": "الصَّدْرُ",
           "roman": "as-sadr",
           "bs": "početak / prva riječ rečenice",
-          "note": "Doslovno 'prsa'. Prva riječ rečenice određuje njen tip. الصَّدْرُ هُوَ الَّذِي يُحَدِّدُ نَوْعَ الْجُمْلَةِ."
+          "en": "beginning / the first word of the sentence",
+          "note": "Doslovno 'prsa'. Prva riječ rečenice određuje njen tip. الصَّدْرُ هُوَ الَّذِي يُحَدِّدُ نَوْعَ الْجُمْلَةِ.",
+          "noteEn": "Literally 'chest'. The first word of the sentence determines its type. الصَّدْرُ هُوَ الَّذِي يُحَدِّدُ نَوْعَ الْجُمْلَةِ — The opening is what determines the type of sentence."
         }
       ]
     },
@@ -46,88 +57,106 @@
       "type": "rule",
       "titleAr": "الْقَاعِدَةُ الثَّانِيَةُ",
       "formula": "الْجُمْلَةُ الاسْمِيَّةُ = مُبْتَدَأٌ + خَبَرٌ",
-      "content": "Imenska rečenica ima dva glavna dijela: الْمُبْتَدَأُ (subjekt — uvijek مَرْفُوعٌ, nominativ) i الْخَبَرُ (predikat — govori nešto o mubdati, i sam je مَرْفُوعٌ). Obje riječi nose الضَّمَّةُ (ili njen ekvivalent). Primjer: الْكِتَابُ جَدِيدٌ — Knjiga je nova."
+      "content": "Imenska rečenica ima dva glavna dijela: الْمُبْتَدَأُ (subjekt — uvijek مَرْفُوعٌ, nominativ) i الْخَبَرُ (predikat — govori nešto o mubdati, i sam je مَرْفُوعٌ). Obje riječi nose الضَّمَّةُ (ili njen ekvivalent). Primjer: الْكِتَابُ جَدِيدٌ — Knjiga je nova.",
+      "contentEn": "The nominal sentence has two main parts: الْمُبْتَدَأُ (the subject — always مَرْفُوعٌ, nominative) and الْخَبَرُ (the predicate — says something about the mubtadaʾ, also مَرْفُوعٌ). Both words carry الضَّمَّةُ (or its equivalent). Example: الْكِتَابُ جَدِيدٌ — The book is new."
     },
     {
       "type": "rule",
       "titleAr": "الْقَاعِدَةُ الثَّالِثَةُ",
       "formula": "الْجُمْلَةُ الْفِعْلِيَّةُ = فِعْلٌ + فَاعِلٌ",
-      "content": "Glagolska rečenica počinje glagolom, a iza glagola dolazi الْفَاعِلُ (vršilac radnje — مَرْفُوعٌ). Glagol se slaže s fāilom u rodu. Primjer: ذَهَبَ الطَّالِبُ — Otišao je student. Primjer: ذَهَبَتِ الطَّالِبَةُ — Otišla je studentica."
+      "content": "Glagolska rečenica počinje glagolom, a iza glagola dolazi الْفَاعِلُ (vršilac radnje — مَرْفُوعٌ). Glagol se slaže s fāilom u rodu. Primjer: ذَهَبَ الطَّالِبُ — Otišao je student. Primjer: ذَهَبَتِ الطَّالِبَةُ — Otišla je studentica.",
+      "contentEn": "The verbal sentence begins with a verb, followed by الْفَاعِلُ (the doer of the action — مَرْفُوعٌ). The verb agrees with the fāʿil in gender. Example: ذَهَبَ الطَّالِبُ — The student went. Example: ذَهَبَتِ الطَّالِبَةُ — The female student went."
     },
     {
       "type": "callout",
       "variant": "tip",
       "title": "Kako odmah prepoznati tip rečenice",
-      "content": "Pogledaj prvu riječ:\n• Nosi li تَنْوِينٌ ili ال i stoji na početku? → اسمية\n• Je li glagol (prošlo, sadašnje, zapovjedno)? → فعلية\n\nTest: اللهُ أَكْبَرُ — prva riječ اللهُ je imenica → اسمية ✓\nTest: قَالَ مُحَمَّدٌ — prva riječ قَالَ je glagol → فعلية ✓"
+      "titleEn": "How to instantly identify the sentence type",
+      "content": "Pogledaj prvu riječ:\n• Nosi li تَنْوِينٌ ili ال i stoji na početku? → اسمية\n• Je li glagol (prošlo, sadašnje, zapovjedno)? → فعلية\n\nTest: اللهُ أَكْبَرُ — prva riječ اللهُ je imenica → اسمية ✓\nTest: قَالَ مُحَمَّدٌ — prva riječ قَالَ je glagol → فعلية ✓",
+      "contentEn": "Look at the first word:\n• Does it carry تَنْوِينٌ or ال and stand at the beginning? → اسمية\n• Is it a verb (past, present, or imperative)? → فعلية\n\nTest: اللهُ أَكْبَرُ — the first word اللهُ is a noun → اسمية ✓\nTest: قَالَ مُحَمَّدٌ — the first word قَالَ is a verb → فعلية ✓"
     },
     {
       "type": "examples",
       "title": "Primjeri — imenska rečenica",
+      "titleEn": "Examples — nominal sentence",
       "items": [
         {
           "arabic": "الْعِلْمُ نُورٌ",
           "bs": "Znanje je svjetlo.",
+          "en": "Knowledge is light.",
           "annotated": [
             { "word": "الْعِلْمُ", "role": "mubtada", "label": "مُبْتَدَأٌ" },
             { "word": "نُورٌ", "role": "khabar", "label": "خَبَرٌ" }
           ],
-          "note": "Klasična izreka. الْعِلْمُ je مُبْتَدَأٌ (nosi ضمة), نُورٌ je خَبَرٌ (nosi ضمة + tanvīn). Obje na رفع."
+          "note": "Klasična izreka. الْعِلْمُ je مُبْتَدَأٌ (nosi ضمة), نُورٌ je خَبَرٌ (nosi ضمة + tanvīn). Obje na رفع.",
+          "noteEn": "A classical saying. الْعِلْمُ is the مُبْتَدَأٌ (carries ḍamma), نُورٌ is the خَبَرٌ (carries ḍamma + tanvīn). Both are in the nominative (رفع)."
         },
         {
           "arabic": "الْبَيْتُ كَبِيرٌ",
           "bs": "Kuća je velika.",
+          "en": "The house is large.",
           "annotated": [
             { "word": "الْبَيْتُ", "role": "mubtada", "label": "مُبْتَدَأٌ" },
             { "word": "كَبِيرٌ", "role": "khabar", "label": "خَبَرٌ" }
           ],
-          "note": "Mubtada određen (ال), khabar neodređen s tanvīnom. Ovo je standard."
+          "note": "Mubtada određen (ال), khabar neodređen s tanvīnom. Ovo je standard.",
+          "noteEn": "The mubtadaʾ is definite (ال), the khabar is indefinite with tanvīn. This is the standard pattern."
         },
         {
           "arabic": "مُحَمَّدٌ رَسُولُ اللهِ",
           "bs": "Muhammed je Allahov poslanik.",
+          "en": "Muhammad is the Messenger of Allah.",
           "annotated": [
             { "word": "مُحَمَّدٌ", "role": "mubtada", "label": "مُبْتَدَأٌ" },
             { "word": "رَسُولُ", "role": "khabar", "label": "خَبَرٌ" },
             { "word": "اللهِ", "role": "mudaf-ilayh", "label": "مُضَافٌ إِلَيْهِ" }
           ],
-          "note": "Khabar može biti مُضَافٌ — رَسُولُ اللهِ je cijela izafetna konstrukcija koja čini khabar."
+          "note": "Khabar može biti مُضَافٌ — رَسُولُ اللهِ je cijela izafetna konstrukcija koja čini khabar.",
+          "noteEn": "The khabar can be a مُضَافٌ (genitive construct) — رَسُولُ اللهِ is an entire iḍāfa construction serving as the predicate."
         }
       ]
     },
     {
       "type": "examples",
       "title": "Primjeri — glagolska rečenica",
+      "titleEn": "Examples — verbal sentence",
       "items": [
         {
           "arabic": "قَالَ اللهُ",
           "bs": "Allah je rekao.",
+          "en": "Allah said.",
           "annotated": [
             { "word": "قَالَ", "role": "fil", "label": "فِعْلٌ" },
             { "word": "اللهُ", "role": "mubtada", "label": "فَاعِلٌ" }
           ],
-          "note": "Glagolska rečenica. قَالَ je فِعْلٌ مَاضٍ, اللهُ je فَاعِلٌ (مَرْفُوعٌ — nosi ضمة)."
+          "note": "Glagolska rečenica. قَالَ je فِعْلٌ مَاضٍ, اللهُ je فَاعِلٌ (مَرْفُوعٌ — nosi ضمة).",
+          "noteEn": "A verbal sentence. قَالَ is a فِعْلٌ مَاضٍ (past verb), اللهُ is the فَاعِلٌ (مَرْفُوعٌ — carries ḍamma)."
         },
         {
           "arabic": "يَذْهَبُ الْوَلَدُ إِلَى الْمَدْرَسَةِ",
           "bs": "Dječak ide u školu.",
+          "en": "The boy is going to school.",
           "annotated": [
             { "word": "يَذْهَبُ", "role": "fil", "label": "فِعْلٌ" },
             { "word": "الْوَلَدُ", "role": "mubtada", "label": "فَاعِلٌ" },
             { "word": "إِلَى", "role": "harf", "label": "حَرْفٌ" },
             { "word": "الْمَدْرَسَةِ", "role": "mudaf-ilayh", "label": "مَجْرُورٌ" }
           ],
-          "note": "يَذْهَبُ je فِعْلٌ مُضَارِعٌ. الْوَلَدُ je فاعل. إِلَى je harf jarr, الْمَدْرَسَةِ nosi كسرة (مجرور)."
+          "note": "يَذْهَبُ je فِعْلٌ مُضَارِعٌ. الْوَلَدُ je فاعل. إِلَى je harf jarr, الْمَدْرَسَةِ nosi كسرة (مجرور).",
+          "noteEn": "يَذْهَبُ is a فِعْلٌ مُضَارِعٌ (present verb). الْوَلَدُ is the فَاعِلٌ. إِلَى is a preposition (harf jarr), and الْمَدْرَسَةِ carries kasra (مجرور — genitive)."
         },
         {
           "arabic": "نَزَلَ الْقُرْآنُ بِاللُّغَةِ الْعَرَبِيَّةِ",
           "bs": "Kur'an je objavljen na arapskom jeziku.",
+          "en": "The Quran was revealed in the Arabic language.",
           "annotated": [
             { "word": "نَزَلَ", "role": "fil", "label": "فِعْلٌ" },
             { "word": "الْقُرْآنُ", "role": "mubtada", "label": "فَاعِلٌ" },
             { "word": "بِاللُّغَةِ", "role": "harf", "label": "جَارٌّ وَمَجْرُورٌ" },
             { "word": "الْعَرَبِيَّةِ", "role": "nat", "label": "نَعْتٌ" }
           ],
-          "note": "Lijepa rečenica s prijedlogom. نَزَلَ = spustio se / objavljen je. الْقُرْآنُ je fāil (ضمة)."
+          "note": "Lijepa rečenica s prijedlogom. نَزَلَ = spustio se / objavljen je. الْقُرْآنُ je fāil (ضمة).",
+          "noteEn": "A beautiful sentence with a preposition. نَزَلَ = descended / was revealed. الْقُرْآنُ is the fāʿil (carrying ḍamma)."
         }
       ]
     },
@@ -135,13 +164,17 @@
       "type": "callout",
       "variant": "compare",
       "title": "Razlika koja mijenja sve",
-      "content": "اسمية: الْوَلَدُ يَذْهَبُ — Dječak (koji) ide... (naglasak na dječaku)\nفعلية: يَذْهَبُ الْوَلَدُ — Ide dječak (naglasak na radnji odlaska)\n\nIsta značenja, ali drugačiji naglasak. Klasični arapski pisci biraju tip rečenice s namjerom — اسمية = stabilnost, trajnost; فعلية = pokret, događaj."
+      "titleEn": "The difference that changes everything",
+      "content": "اسمية: الْوَلَدُ يَذْهَبُ — Dječak (koji) ide... (naglasak na dječaku)\nفعلية: يَذْهَبُ الْوَلَدُ — Ide dječak (naglasak na radnji odlaska)\n\nIsta značenja, ali drugačiji naglasak. Klasični arapski pisci biraju tip rečenice s namjerom — اسمية = stabilnost, trajnost; فعلية = pokret, događaj.",
+      "contentEn": "اسمية: الْوَلَدُ يَذْهَبُ — The boy (who) goes... (emphasis on the boy)\nفعلية: يَذْهَبُ الْوَلَدُ — Goes the boy (emphasis on the act of going)\n\nSame meaning, but different emphasis. Classical Arabic writers choose the sentence type intentionally — اسمية = stability, permanence; فعلية = movement, event."
     },
     {
       "type": "callout",
       "variant": "warning",
       "title": "Šta ako ima prijedlog na početku?",
-      "content": "فِي الْبَيْتِ وَلَدٌ — U kući je dječak.\n\nOva rečenica počinje prijedlogom فِي. Šta je to? Ovo je aسمية rečenica — prijedloška fraza (شِبْهُ الْجُمْلَةِ) stoji na mjestu khabara, a الْمُبْتَدَأُ المؤخر (وَلَدٌ) dolazi poslije. Ovo je naprednija tema, ali pamti: prijedlog na početku ≠ nova kategorija rečenice."
+      "titleEn": "What if a preposition comes first?",
+      "content": "فِي الْبَيْتِ وَلَدٌ — U kući je dječak.\n\nOva rečenica počinje prijedlogom فِي. Šta je to? Ovo je aسمية rečenica — prijedloška fraza (شِبْهُ الْجُمْلَةِ) stoji na mjestu khabara, a الْمُبْتَدَأُ المؤخر (وَلَدٌ) dolazi poslije. Ovo je naprednija tema, ali pamti: prijedlog na početku ≠ nova kategorija rečenice.",
+      "contentEn": "فِي الْبَيْتِ وَلَدٌ — In the house is a boy.\n\nThis sentence begins with the preposition فِي. What is it? This is a nominal sentence — the prepositional phrase (شِبْهُ الْجُمْلَةِ) stands in place of the khabar, and the delayed مُبْتَدَأٌ (وَلَدٌ) comes after. This is a more advanced topic, but remember: a preposition at the beginning ≠ a new sentence category."
     }
   ],
   "quiz": [
@@ -149,53 +182,67 @@
       "type": "classify",
       "arabic": "الْمَسْجِدُ بَعِيدٌ",
       "question": "Koji tip rečenice je ovo?",
+      "questionEn": "What type of sentence is this?",
       "options": ["الْجُمْلَةُ الاسْمِيَّةُ", "الْجُمْلَةُ الْفِعْلِيَّةُ"],
       "correctIndex": 0,
-      "explanation": "الْمَسْجِدُ je imenica na početku → اسمية. الْمَسْجِدُ je مُبْتَدَأٌ, بَعِيدٌ je خَبَرٌ. 'Džamija je daleko.'"
+      "explanation": "الْمَسْجِدُ je imenica na početku → اسمية. الْمَسْجِدُ je مُبْتَدَأٌ, بَعِيدٌ je خَبَرٌ. 'Džamija je daleko.'",
+      "explanationEn": "الْمَسْجِدُ is a noun at the beginning → اسمية. الْمَسْجِدُ is the مُبْتَدَأٌ, بَعِيدٌ is the خَبَرٌ. 'The mosque is far.'"
     },
     {
       "type": "classify",
       "arabic": "خَرَجَ الطَّالِبُ مِنَ الْفَصْلِ",
       "question": "Koji tip rečenice je ovo?",
+      "questionEn": "What type of sentence is this?",
       "options": ["الْجُمْلَةُ الاسْمِيَّةُ", "الْجُمْلَةُ الْفِعْلِيَّةُ"],
       "correctIndex": 1,
-      "explanation": "خَرَجَ je glagol na početku → فعلية. خَرَجَ je فِعْلٌ, الطَّالِبُ je فَاعِلٌ. 'Student je izašao iz razreda.'"
+      "explanation": "خَرَجَ je glagol na početku → فعلية. خَرَجَ je فِعْلٌ, الطَّالِبُ je فَاعِلٌ. 'Student je izašao iz razreda.'",
+      "explanationEn": "خَرَجَ is a verb at the beginning → فعلية. خَرَجَ is the فِعْلٌ, الطَّالِبُ is the فَاعِلٌ. 'The student left the classroom.'"
     },
     {
       "type": "identify-role",
       "arabic": "الْعَرَبِيَّةُ لُغَةٌ جَمِيلَةٌ",
       "question": "Tapni na الْمُبْتَدَأَ (početni subjekt) u ovoj rečenici.",
+      "questionEn": "Tap on the الْمُبْتَدَأَ (opening subject) in this sentence.",
       "words": ["الْعَرَبِيَّةُ", "لُغَةٌ", "جَمِيلَةٌ"],
       "correctIndex": 0,
-      "explanation": "الْعَرَبِيَّةُ (arapski jezik) je na početku i nosi ضمة → مُبْتَدَأٌ. لُغَةٌ je خَبَرٌ, جَمِيلَةٌ je نَعْتٌ (opisuje lugu). 'Arapski jezik je lijep jezik.'"
+      "explanation": "الْعَرَبِيَّةُ (arapski jezik) je na početku i nosi ضمة → مُبْتَدَأٌ. لُغَةٌ je خَبَرٌ, جَمِيلَةٌ je نَعْتٌ (opisuje lugu). 'Arapski jezik je lijep jezik.'",
+      "explanationEn": "الْعَرَبِيَّةُ (Arabic) is at the beginning and carries ḍamma → مُبْتَدَأٌ. لُغَةٌ is the خَبَرٌ, جَمِيلَةٌ is the نَعْتٌ (describing lugha). 'Arabic is a beautiful language.'"
     },
     {
       "type": "true-false",
       "statement": "Rečenica يَكْتُبُ الْمُعَلِّمُ je اسمية rečenica jer يَكْتُبُ opisuje الْمُعَلِّمَ.",
+      "statementEn": "The sentence يَكْتُبُ الْمُعَلِّمُ is a nominal sentence because يَكْتُبُ describes الْمُعَلِّمَ.",
       "correct": false,
-      "explanation": "يَكْتُبُ je glagol na početku rečenice → ovo je فعلية, ne اسمية. Tip rečenice određuje صَدْرُ الْجُمْلَةِ (prva riječ), a ovdje je to glagol يَكْتُبُ."
+      "explanation": "يَكْتُبُ je glagol na početku rečenice → ovo je فعلية, ne اسمية. Tip rečenice određuje صَدْرُ الْجُمْلَةِ (prva riječ), a ovdje je to glagol يَكْتُبُ.",
+      "explanationEn": "يَكْتُبُ is a verb at the beginning of the sentence → this is فعلية, not اسمية. The sentence type is determined by صَدْرُ الْجُمْلَةِ (the first word), and here that is the verb يَكْتُبُ."
     },
     {
       "type": "classify",
       "arabic": "اللهُ أَكْبَرُ",
       "question": "Koji tip rečenice je اللهُ أَكْبَرُ?",
+      "questionEn": "What type of sentence is اللهُ أَكْبَرُ?",
       "options": ["الْجُمْلَةُ الاسْمِيَّةُ", "الْجُمْلَةُ الْفِعْلِيَّةُ"],
       "correctIndex": 0,
-      "explanation": "اللهُ počinje rečenicu → اسمية. اللهُ je مُبْتَدَأٌ (ضمة), أَكْبَرُ je خَبَرٌ. 'Allah je najveći.' Jedna od najpoznatijih imenskih rečenica u islamu."
+      "explanation": "اللهُ počinje rečenicu → اسمية. اللهُ je مُبْتَدَأٌ (ضمة), أَكْبَرُ je خَبَرٌ. 'Allah je najveći.' Jedna od najpoznatijih imenskih rečenica u islamu.",
+      "explanationEn": "اللهُ begins the sentence → اسمية. اللهُ is the مُبْتَدَأٌ (ḍamma), أَكْبَرُ is the خَبَرٌ. 'Allah is the Greatest.' One of the most well-known nominal sentences in Islam."
     },
     {
       "type": "identify-role",
       "arabic": "سَمِعَ الْوَلَدُ الأَذَانَ",
       "question": "Tapni na الْفِعْلَ (glagol) u ovoj glagolskoj rečenici.",
+      "questionEn": "Tap on the الْفِعْلَ (verb) in this verbal sentence.",
       "words": ["سَمِعَ", "الْوَلَدُ", "الأَذَانَ"],
       "correctIndex": 0,
-      "explanation": "سَمِعَ (čuo je) je فِعْلٌ مَاضٍ. الْوَلَدُ je فَاعِلٌ (ko je čuo), الأَذَانَ je مَفْعُولٌ بِهِ (šta je čuo — nosi فتحة). 'Dječak je čuo ezan.'"
+      "explanation": "سَمِعَ (čuo je) je فِعْلٌ مَاضٍ. الْوَلَدُ je فَاعِلٌ (ko je čuo), الأَذَانَ je مَفْعُولٌ بِهِ (šta je čuo — nosi فتحة). 'Dječak je čuo ezan.'",
+      "explanationEn": "سَمِعَ (heard) is a فِعْلٌ مَاضٍ (past verb). الْوَلَدُ is the فَاعِلٌ (who heard), الأَذَانَ is the مَفْعُولٌ بِهِ (what was heard — carries fatḥa). 'The boy heard the call to prayer.'"
     },
     {
       "type": "true-false",
       "statement": "U rečenici الْكِتَابُ عَلَى الطَّاوِلَةِ — الْكِتَابُ je مُبْتَدَأٌ, a عَلَى الطَّاوِلَةِ je خَبَرٌ.",
+      "statementEn": "In the sentence الْكِتَابُ عَلَى الطَّاوِلَةِ — الْكِتَابُ is the مُبْتَدَأٌ, and عَلَى الطَّاوِلَةِ is the خَبَرٌ.",
       "correct": true,
-      "explanation": "Tačno. Khabar ne mora biti jedna imenica — može biti šِبْهُ الْجُمْلَةِ (prijedloška fraza). الْكِتَابُ je مُبْتَدَأٌ (ضمة), عَلَى الطَّاوِلَةِ (na stolu) je خَبَرٌ koji govori gdje je knjiga. 'Knjiga je na stolu.'"
+      "explanation": "Tačno. Khabar ne mora biti jedna imenica — može biti شِبْهُ الْجُمْلَةِ (prijedloška fraza). الْكِتَابُ je مُبْتَدَأٌ (ضمة), عَلَى الطَّاوِلَةِ (na stolu) je خَبَرٌ koji govori gdje je knjiga. 'Knjiga je na stolu.'",
+      "explanationEn": "Correct. The khabar does not have to be a single noun — it can be a شِبْهُ الْجُمْلَةِ (prepositional phrase). الْكِتَابُ is the مُبْتَدَأٌ (ḍamma), عَلَى الطَّاوِلَةِ (on the table) is the خَبَرٌ telling us where the book is. 'The book is on the table.'"
     }
   ]
 }

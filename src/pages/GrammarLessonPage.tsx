@@ -104,7 +104,7 @@ function AnnotatedLine({ annotated }: { annotated: AnnotatedWord[] }) {
 
 // ── Example card ──────────────────────────────────────────────────────────────
 
-function ExampleCard({ example }: { example: GrammarExample }) {
+function ExampleCard({ example, loc }: { example: GrammarExample; loc: Loc }) {
   return (
     <Box
       sx={{
@@ -126,11 +126,11 @@ function ExampleCard({ example }: { example: GrammarExample }) {
         </Typography>
       )}
       <Typography variant="body2" color="text.secondary" textAlign="center" mt={0.75}>
-        {example.bs}
+        {loc(example.bs, example.en)}
       </Typography>
       {example.note && (
         <Typography variant="caption" color="text.disabled" display="block" textAlign="center" mt={0.5} sx={{ fontStyle: 'italic' }}>
-          {example.note}
+          {loc(example.note, example.noteEn)}
         </Typography>
       )}
     </Box>
@@ -139,12 +139,14 @@ function ExampleCard({ example }: { example: GrammarExample }) {
 
 // ── Section renderers ─────────────────────────────────────────────────────────
 
-function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t'], idx: number) {
+type Loc = (bs: string, en?: string) => string
+
+function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t'], idx: number, loc: Loc) {
   switch (section.type) {
     case 'intro':
       return (
         <Typography key={idx} variant="body1" color="text.primary" sx={{ lineHeight: 1.8 }}>
-          {section.content}
+          {loc(section.content, section.contentEn)}
         </Typography>
       )
 
@@ -184,11 +186,11 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
                 {/* Meaning */}
                 <Box flex={1}>
                   <Typography variant="body2" fontWeight={700}>
-                    {term.bs}
+                    {loc(term.bs, term.en)}
                   </Typography>
                   {term.note && (
                     <Typography variant="caption" color="text.secondary">
-                      {term.note}
+                      {loc(term.note, term.noteEn)}
                     </Typography>
                   )}
                 </Box>
@@ -232,7 +234,7 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
             </Typography>
           )}
           <Typography variant="body2" color="text.primary" sx={{ lineHeight: 1.7 }}>
-            {section.content}
+            {loc(section.content, section.contentEn)}
           </Typography>
         </Box>
       )
@@ -242,12 +244,12 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
         <Box key={idx}>
           {section.title && (
             <Typography variant="overline" color="text.secondary" fontWeight={700} display="block" mb={1.5}>
-              {section.title ?? t.grammar.examples}
+              {loc(section.title, section.titleEn) ?? t.grammar.examples}
             </Typography>
           )}
           <Stack gap={1.5}>
             {section.items.map((ex, i) => (
-              <ExampleCard key={i} example={ex} />
+              <ExampleCard key={i} example={ex} loc={loc} />
             ))}
           </Stack>
         </Box>
@@ -273,10 +275,10 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
           }}
         >
           <Typography variant="caption" color="text.secondary" fontWeight={700} display="block" mb={0.75} sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}>
-            {variantStyle.icon} {section.title ?? variantStyle.label}
+            {variantStyle.icon} {section.title ? loc(section.title, section.titleEn) : variantStyle.label}
           </Typography>
-          <Typography variant="body2" color="text.primary" sx={{ lineHeight: 1.75 }}>
-            {section.content}
+          <Typography variant="body2" color="text.primary" sx={{ lineHeight: 1.75, whiteSpace: 'pre-line' }}>
+            {loc(section.content, section.contentEn)}
           </Typography>
         </Box>
       )
@@ -285,16 +287,16 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
     case 'table':
       return (
         <Box key={idx} sx={{ overflowX: 'auto' }}>
-          {(section.titleAr || section.titleBs) && (
+          {(section.titleAr || section.titleBs || section.titleEn) && (
             <Stack direction="row" gap={1.5} alignItems="baseline" mb={1.5}>
               {section.titleAr && (
                 <Typography dir="rtl" sx={{ fontFamily: 'Amiri, serif', fontSize: '1.1rem', color: 'primary.main', fontWeight: 700 }}>
                   {section.titleAr}
                 </Typography>
               )}
-              {section.titleBs && (
+              {(section.titleBs || section.titleEn) && (
                 <Typography variant="overline" color="text.secondary" fontWeight={700}>
-                  {section.titleBs}
+                  {loc(section.titleBs ?? '', section.titleEn)}
                 </Typography>
               )}
             </Stack>
@@ -305,7 +307,7 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
           >
             <Box component="thead">
               <Box component="tr">
-                {section.headers.map((h, i) => (
+                {(section.headersEn ? section.headers.map((h, i) => loc(h, section.headersEn?.[i])) : section.headers).map((h, i) => (
                   <Box
                     key={i}
                     component="th"
@@ -327,7 +329,7 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
               </Box>
             </Box>
             <Box component="tbody">
-              {section.rows.map((row, ri) => (
+              {(section.rowsEn ? section.rows.map((row, ri) => row.map((cell, ci) => loc(cell, section.rowsEn?.[ri]?.[ci]))) : section.rows).map((row, ri) => (
                 <Box
                   key={ri}
                   component="tr"
@@ -419,9 +421,10 @@ interface QuizQuestionProps {
   selectedIdx: number | null
   setSelectedIdx: (i: number) => void
   t: ReturnType<typeof useI18n>['t']
+  loc: Loc
 }
 
-function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSelectedIdx, t }: QuizQuestionProps) {
+function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSelectedIdx, t, loc }: QuizQuestionProps) {
   const pick = (i: number, correct: number) => {
     if (answered) return
     setSelectedIdx(i)
@@ -452,9 +455,12 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
               </Typography>
             </Box>
           )}
-          <Typography variant="body1" fontWeight={600}>{question.question}</Typography>
+          <Typography variant="body1" fontWeight={600}>{loc(question.question, question.questionEn)}</Typography>
           <Stack gap={1}>
-            {question.options.map((opt, i) => (
+            {(question.type === 'choose' && question.optionsEn
+              ? question.options.map((opt, i) => loc(opt, question.optionsEn?.[i]))
+              : question.options
+            ).map((opt, i) => (
               <QuizOption
                 key={i}
                 label={opt}
@@ -466,7 +472,7 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
           </Stack>
           {answered && (
             <Box sx={{ p: 1.5, bgcolor: 'action.hover', borderRadius: 2 }}>
-              <Typography variant="body2" color="text.secondary">{question.explanation}</Typography>
+              <Typography variant="body2" color="text.secondary">{loc(question.explanation, question.explanationEn)}</Typography>
             </Box>
           )}
         </Stack>
@@ -475,7 +481,7 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
 
     case 'true-false': {
       const correctIndex = question.correct ? 0 : 1
-      const btnLabels = ['✓ Tačno', '✗ Netačno']
+      const btnLabels = [`✓ ${t.exercises.trueFalseTrue}`, `✗ ${t.exercises.trueFalseFalse}`]
       return (
         <Stack gap={3}>
           {question.arabic && (
@@ -485,7 +491,7 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
               </Typography>
             </Box>
           )}
-          <Typography variant="body1" fontWeight={600}>{question.statement}</Typography>
+          <Typography variant="body1" fontWeight={600}>{loc(question.statement, question.statementEn)}</Typography>
           <Stack direction="row" gap={1.5}>
             {[0, 1].map(i => (
               <Box
@@ -512,7 +518,7 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
           </Stack>
           {answered && (
             <Box sx={{ p: 1.5, bgcolor: 'action.hover', borderRadius: 2 }}>
-              <Typography variant="body2" color="text.secondary">{question.explanation}</Typography>
+              <Typography variant="body2" color="text.secondary">{loc(question.explanation, question.explanationEn)}</Typography>
             </Box>
           )}
         </Stack>
@@ -525,7 +531,7 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
           <Typography variant="caption" color="text.secondary" fontWeight={600} sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}>
             {t.grammar.identify}
           </Typography>
-          <Typography variant="body1" fontWeight={600}>{question.question}</Typography>
+          <Typography variant="body1" fontWeight={600}>{loc(question.question, question.questionEn)}</Typography>
           <Box
             sx={{
               display: 'flex',
@@ -575,7 +581,7 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
           </Box>
           {answered && (
             <Box sx={{ p: 1.5, bgcolor: 'action.hover', borderRadius: 2 }}>
-              <Typography variant="body2" color="text.secondary">{question.explanation}</Typography>
+              <Typography variant="body2" color="text.secondary">{loc(question.explanation, question.explanationEn)}</Typography>
             </Box>
           )}
         </Stack>
@@ -638,7 +644,8 @@ interface GrammarLessonPageProps {
 type Phase = 'content' | 'quiz' | 'done'
 
 export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
-  const { t } = useI18n()
+  const { t, lang } = useI18n()
+  const loc: Loc = (bs, en) => (lang === 'en' && en) ? en : bs
   const navigate = useNavigate()
   const { saveResult } = useGrammarProgress()
 
@@ -795,6 +802,7 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
                 selectedIdx={selectedIdx}
                 setSelectedIdx={setSelectedIdx}
                 t={t}
+                loc={loc}
               />
             </Box>
           </motion.div>
@@ -870,7 +878,7 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
 
       {/* Sections */}
       <Stack gap={4}>
-        {lesson.sections.map((section, idx) => renderSection(section, t, idx))}
+        {lesson.sections.map((section, idx) => renderSection(section, t, idx, loc))}
       </Stack>
 
       {/* Take quiz CTA */}
