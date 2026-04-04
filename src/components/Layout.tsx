@@ -63,6 +63,7 @@ export function Layout({ children, onToggleTheme, isDark }: Props) {
     { path: '/', label: t.nav.home, icon: <HomeIcon /> },
     { path: '/reading', label: t.nav.reading, icon: <MenuBookIcon /> },
     { path: '/listening', label: t.nav.listening, icon: <HeadphonesIcon /> },
+    { path: '/grammar', label: t.nav.grammar, icon: <SchoolIcon /> },
     { path: '/vocabulary', label: t.nav.vocabulary, icon: <TranslateIcon /> },
     { path: '/progress', label: t.nav.progress, icon: <InsightsIcon /> },
   ]
