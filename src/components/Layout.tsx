@@ -224,7 +224,7 @@ export function Layout({ children, onToggleTheme, isDark }: Props) {
             </Typography>
           </Box>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
-            <UserButton />
+            <UserButton compact />
             <LanguageSwitcher />
             <FontSizeButton />
             <IconButton onClick={onToggleTheme} size="small" color="inherit">

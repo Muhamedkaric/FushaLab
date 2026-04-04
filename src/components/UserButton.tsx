@@ -1,11 +1,15 @@
 import { useState } from 'react'
-import { Avatar, Box, Menu, MenuItem, Button, Typography, Divider } from '@mui/material'
+import { Avatar, Box, Menu, MenuItem, Button, IconButton, Typography, Divider } from '@mui/material'
 import AccountCircleIcon from '@mui/icons-material/AccountCircle'
 import { useAuth } from '@/context/AuthContext'
 import { AuthModal } from './AuthModal'
 import { useI18n } from '@/i18n'
 
-export function UserButton() {
+interface Props {
+  compact?: boolean
+}
+
+export function UserButton({ compact }: Props) {
   const { user, signOut } = useAuth()
   const { t } = useI18n()
   const [modalOpen, setModalOpen] = useState(false)
@@ -14,16 +18,22 @@ export function UserButton() {
   if (!user) {
     return (
       <>
-        <Button
-          size="small"
-          variant="outlined"
-          startIcon={<AccountCircleIcon fontSize="small" />}
-          onClick={() => setModalOpen(true)}
-          fullWidth
-          sx={{ fontSize: '0.75rem', py: 0.5, borderRadius: 2, justifyContent: 'flex-start' }}
-        >
-          {t.auth.signIn}
-        </Button>
+        {compact ? (
+          <IconButton size="small" color="inherit" onClick={() => setModalOpen(true)}>
+            <AccountCircleIcon fontSize="small" />
+          </IconButton>
+        ) : (
+          <Button
+            size="small"
+            variant="outlined"
+            startIcon={<AccountCircleIcon fontSize="small" />}
+            onClick={() => setModalOpen(true)}
+            fullWidth
+            sx={{ fontSize: '0.75rem', py: 0.5, borderRadius: 2, justifyContent: 'flex-start' }}
+          >
+            {t.auth.signIn}
+          </Button>
+        )}
         <AuthModal open={modalOpen} onClose={() => setModalOpen(false)} />
       </>
     )
