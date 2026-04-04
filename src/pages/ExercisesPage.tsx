@@ -8,6 +8,7 @@ import {
   Skeleton,
   ToggleButtonGroup,
   ToggleButton,
+  Collapse,
 } from '@mui/material'
 import Grid from '@mui/material/Grid'
 import StarIcon from '@mui/icons-material/Star'
@@ -40,6 +41,10 @@ const TOPIC_EMOJI: Record<string, string> = {
   business: '🤝',
   roots: '🌳',
   academic: '🎓',
+  news: '🗞️',
+  culture: '🏛️',
+  comprehension: '📖',
+  grammar: '✏️',
 }
 
 const TYPE_LABELS: Record<ExerciseType, string> = {
@@ -50,6 +55,8 @@ const TYPE_LABELS: Record<ExerciseType, string> = {
   'match-pairs': '🔗',
   'odd-one-out': '🔍',
   'listen-select': '🔊',
+  'sentence-translate': '💬',
+  'true-false': '✓✗',
 }
 
 type LevelColor = 'success' | 'info' | 'primary' | 'secondary'
@@ -87,20 +94,22 @@ interface PackCardProps {
   stars: number
   onStart: () => void
   t: ReturnType<typeof useI18n>['t']
+  dimmed?: boolean
 }
 
-function PackCard({ pack, stars, onStart, t }: PackCardProps) {
+function PackCard({ pack, stars, onStart, t, dimmed }: PackCardProps) {
   const { lang } = useI18n()
   const emoji = TOPIC_EMOJI[pack.topic] ?? '📝'
   const levelColor = LEVEL_COLOR[pack.level] ?? 'primary'
   const primaryTitle = lang === 'bs' ? pack.titleBs : pack.title
   const secondaryTitle = lang === 'bs' ? pack.title : pack.titleBs
+  const isMastered = stars === 3
 
   return (
     <Box
       sx={{
         border: '1px solid',
-        borderColor: stars > 0 ? 'primary.main' : 'divider',
+        borderColor: isMastered ? 'success.main' : stars > 0 ? 'primary.main' : 'divider',
         borderRadius: 3,
         p: 2.5,
         bgcolor: 'background.paper',
@@ -108,8 +117,9 @@ function PackCard({ pack, stars, onStart, t }: PackCardProps) {
         flexDirection: 'column',
         gap: 1.5,
         height: '100%',
-        transition: 'box-shadow 0.2s, border-color 0.2s',
-        '&:hover': { boxShadow: '0 4px 20px rgba(0,0,0,0.1)' },
+        opacity: dimmed ? 0.6 : 1,
+        transition: 'box-shadow 0.2s, border-color 0.2s, opacity 0.2s',
+        '&:hover': { boxShadow: '0 4px 20px rgba(0,0,0,0.1)', opacity: 1 },
       }}
     >
       {/* Top row: emoji + level chip + stars */}
@@ -129,12 +139,22 @@ function PackCard({ pack, stars, onStart, t }: PackCardProps) {
           {emoji}
         </Box>
         <Stack alignItems="flex-end" gap={0.5}>
-          <Chip
-            label={pack.level}
-            color={levelColor}
-            size="small"
-            sx={{ fontWeight: 800, fontSize: '0.7rem', height: 20 }}
-          />
+          <Stack direction="row" gap={0.5} alignItems="center">
+            {isMastered && (
+              <Chip
+                label={t.exercises.mastered}
+                color="success"
+                size="small"
+                sx={{ fontWeight: 700, fontSize: '0.65rem', height: 20 }}
+              />
+            )}
+            <Chip
+              label={pack.level}
+              color={levelColor}
+              size="small"
+              sx={{ fontWeight: 800, fontSize: '0.7rem', height: 20 }}
+            />
+          </Stack>
           <Stack direction="row" gap={0.25}>
             {[0, 1, 2].map(i =>
               i < stars ? (
@@ -198,12 +218,13 @@ function PackCard({ pack, stars, onStart, t }: PackCardProps) {
           </Typography>
         </Stack>
         <Button
-          variant={stars > 0 ? 'outlined' : 'contained'}
+          variant={isMastered ? 'text' : stars > 0 ? 'outlined' : 'contained'}
           size="small"
+          color={isMastered ? 'success' : 'primary'}
           onClick={onStart}
           sx={{ fontWeight: 700, minWidth: 80 }}
         >
-          {stars > 0 ? t.exercises.continue : t.exercises.start}
+          {isMastered ? t.exercises.review : stars > 0 ? t.exercises.continue : t.exercises.start}
         </Button>
       </Stack>
     </Box>
@@ -222,6 +243,7 @@ export function ExercisesPage() {
   const [packs, setPacks] = useState<ExercisePackMeta[]>([])
   const [loading, setLoading] = useState(true)
   const [levelFilter, setLevelFilter] = useState<LevelFilter>('ALL')
+  const [showMastered, setShowMastered] = useState(false)
 
   useEffect(() => {
     void fetch('/data/exercises/index.json')
@@ -237,6 +259,11 @@ export function ExercisesPage() {
   }, [])
 
   const filtered = levelFilter === 'ALL' ? packs : packs.filter(p => p.level === levelFilter)
+  const activePacks = filtered.filter(p => getPackProgress(p.id).stars < 3)
+  const masteredPacks = filtered.filter(p => getPackProgress(p.id).stars === 3)
+
+  const goToPack = (packId: string) =>
+    void navigate({ to: '/exercises/$packId', params: { packId } })
 
   return (
     <Container maxWidth="md" sx={{ py: { xs: 3, sm: 5 } }}>
@@ -299,22 +326,58 @@ export function ExercisesPage() {
           ))}
         </Grid>
       ) : (
-        <motion.div variants={containerVariants} initial="hidden" animate="visible">
-          <Grid container spacing={2}>
-            {filtered.map(pack => (
-              <Grid key={pack.id} size={{ xs: 12, sm: 6 }}>
-                <motion.div variants={cardVariants} style={{ height: '100%' }}>
-                  <PackCard
-                    pack={pack}
-                    stars={getPackProgress(pack.id).stars}
-                    onStart={() => void navigate({ to: '/exercises/$packId', params: { packId: pack.id } })}
-                    t={t}
-                  />
+        <>
+          <motion.div variants={containerVariants} initial="hidden" animate="visible">
+            <Grid container spacing={2}>
+              {activePacks.map(pack => (
+                <Grid key={pack.id} size={{ xs: 12, sm: 6 }}>
+                  <motion.div variants={cardVariants} style={{ height: '100%' }}>
+                    <PackCard
+                      pack={pack}
+                      stars={getPackProgress(pack.id).stars}
+                      onStart={() => goToPack(pack.id)}
+                      t={t}
+                    />
+                  </motion.div>
+                </Grid>
+              ))}
+            </Grid>
+          </motion.div>
+
+          {/* Mastered packs toggle */}
+          {masteredPacks.length > 0 && (
+            <Box mt={4}>
+              <Button
+                variant="text"
+                size="small"
+                color="success"
+                onClick={() => setShowMastered(v => !v)}
+                sx={{ fontWeight: 600, mb: 1.5 }}
+              >
+                {showMastered ? t.exercises.hideMastered : `${t.exercises.showMastered} (${masteredPacks.length})`}
+              </Button>
+              <Collapse in={showMastered}>
+                <motion.div variants={containerVariants} initial="hidden" animate="visible">
+                  <Grid container spacing={2}>
+                    {masteredPacks.map(pack => (
+                      <Grid key={pack.id} size={{ xs: 12, sm: 6 }}>
+                        <motion.div variants={cardVariants} style={{ height: '100%' }}>
+                          <PackCard
+                            pack={pack}
+                            stars={3}
+                            onStart={() => goToPack(pack.id)}
+                            t={t}
+                            dimmed
+                          />
+                        </motion.div>
+                      </Grid>
+                    ))}
+                  </Grid>
                 </motion.div>
-              </Grid>
-            ))}
-          </Grid>
-        </motion.div>
+              </Collapse>
+            </Box>
+          )}
+        </>
       )}
     </Container>
   )

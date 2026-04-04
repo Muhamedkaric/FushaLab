@@ -1,0 +1,100 @@
+{
+  "id": "b2-grammar",
+  "level": "B2",
+  "topic": "grammar",
+  "title": "Grammar in Context",
+  "titleAr": "الْقَوَاعِدُ فِي السِّيَاقِ",
+  "titleBs": "Gramatika u kontekstu",
+  "estimatedMinutes": 10,
+  "exercises": [
+    {
+      "type": "fill-blank",
+      "sentence": "الطُّلَّابُ الَّذِينَ ___ بِجِدٍّ يَنْجَحُونَ فِي امْتِحَانَاتِهِمْ.",
+      "sentenceBs": "Studenti koji ___ marljivo uspijevaju na ispitima.",
+      "options": ["يَدْرُسُونَ", "نَامُوا", "أَكَلُوا", "لَعِبُوا"],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-order",
+      "translation": "Knjiga koja je na stolu pripada studentu.",
+      "words": ["عَلَى", "الطَّالِبِ", "تَعُودُ", "الْكِتَابُ", "لِ", "الطَّاوِلَةِ", "الَّذِي"],
+      "correct": ["الْكِتَابُ", "الَّذِي", "عَلَى", "الطَّاوِلَةِ", "تَعُودُ", "لِ", "الطَّالِبِ"]
+    },
+    {
+      "type": "true-false",
+      "arabic": "لَوْ كُنْتُ غَنِيًّا لَبَنَيْتُ مَدْرَسَةً فِي قَرْيَتِي.",
+      "statement": "Govornik nije bogat i govori o nečemu što bi učinio da jest.",
+      "correct": true,
+      "explanation": "لَوْ + الْمَاضِي je uslovni period koji govori o nečemu nerealnom u sadašnjosti. لَوْ كُنْتُ = 'da sam bio' — govornik zapravo nije bogat."
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "ذَهَبَ مُحَمَّدٌ إِلَى السُّوقِ ___ يَشْتَرِيَ الْخُضَارَ.",
+      "sentenceBs": "Muhamed je otišao na pijacu ___ kupi povrće.",
+      "options": ["لِ", "مِنْ", "عَلَى", "بَعْدَ"],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "كُلَّمَا زَادَ الْعِلْمُ زَادَتِ الْمَسْؤُولِيَّةُ.",
+      "options": [
+        "Što više znanja, to veća odgovornost.",
+        "Znanje i odgovornost su jednako važni.",
+        "Odgovorni ljudi uvijek traže više znanja.",
+        "Obrazovanje povećava odgovornost prema društvu."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-order",
+      "translation": "Učio sam arapski jezik dvije godine.",
+      "words": ["سَنَتَيْنِ", "اللُّغَةَ", "دَرَسْتُ", "الْعَرَبِيَّةَ", "مُنْذُ"],
+      "correct": ["دَرَسْتُ", "اللُّغَةَ", "الْعَرَبِيَّةَ", "مُنْذُ", "سَنَتَيْنِ"]
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "الْمَدِينَةُ الَّتِي وُلِدْتُ ___ تَقَعُ فِي شَمَالِ الْبِلَادِ.",
+      "sentenceBs": "Grad u ___ sam rođen nalazi se na sjeveru zemlje.",
+      "options": ["فِيهَا", "مِنْهَا", "إِلَيْهَا", "عَلَيْهَا"],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "يُكْتَبُ التَّقْرِيرُ بِاللُّغَةِ الرَّسْمِيَّةِ.",
+      "statement": "Izvještaj se piše na zvaničnom jeziku. Glagol je u pasivu (pasivnoj formi).",
+      "correct": true,
+      "explanation": "يُكْتَبُ je المضارع المبني للمجهول (prezent pasiv) — 'biva napisan / piše se'. Rečenica je zaista u pasivu."
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "لَيْسَ كُلُّ مَا يَلْمَعُ ذَهَبًا.",
+      "options": [
+        "Nije sve sjajno zlato. (Nije sve što blista zlato.)",
+        "Zlato je najvrjedniji metal na svijetu.",
+        "Sjaj nije znak vrijednosti ni ljepote.",
+        "Zlato se nalazi u rijekama i planinama."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-order",
+      "translation": "Uspjeh se postiže trudom i strpljenjem, a ne srećom.",
+      "words": ["يَتَحَقَّقُ", "بِالْحَظِّ", "بِالْجَدِّ", "النَّجَاحُ", "وَالصَّبْرِ", "لَا"],
+      "correct": ["النَّجَاحُ", "يَتَحَقَّقُ", "بِالْجَدِّ", "وَالصَّبْرِ", "لَا", "بِالْحَظِّ"]
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "مَا ___ الطَّالِبُ دَرْسَهُ حَتَّى الآنَ.",
+      "sentenceBs": "Student ___ još uvijek nije završio svoju lekciju.",
+      "options": ["أَنْهَى", "أَكَلَ", "لَعِبَ", "سَافَرَ"],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "يَجِبُ عَلَى كُلِّ طَالِبٍ أَنْ يَحْتَرِمَ مُعَلِّمَهُ.",
+      "statement": "Obaveza poštivanja nastavnika odnosi se na neke učenike, ali ne sve.",
+      "correct": false,
+      "explanation": "كُلِّ = svaki (bez izuzetka). يَجِبُ عَلَى كُلِّ طَالِبٍ = dužnost je svakog učenika. Radi se o svima, a ne nekima."
+    }
+  ]
+}

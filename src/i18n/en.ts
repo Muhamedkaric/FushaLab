@@ -164,6 +164,10 @@ export interface Translations {
     totalXp: string
     start: string
     continue: string
+    review: string
+    mastered: string
+    showMastered: string
+    hideMastered: string
     backToExercises: string
     correct: string
     wrong: string
@@ -187,7 +191,11 @@ export interface Translations {
       matchPairs: string
       oddOneOut: string
       listenSelect: string
+      sentenceTranslate: string
+      trueFalse: string
     }
+    trueFalseTrue: string
+    trueFalseFalse: string
     done: {
       perfect: string
       great: string
@@ -427,6 +435,10 @@ export const en: Translations = {
     totalXp: 'XP',
     start: 'Start',
     continue: 'Continue',
+    review: 'Review',
+    mastered: 'Mastered',
+    showMastered: 'Show mastered',
+    hideMastered: 'Hide mastered',
     backToExercises: 'Back to Exercises',
     correct: 'Correct!',
     wrong: 'Not quite',
@@ -455,7 +467,11 @@ export const en: Translations = {
       matchPairs: 'Match each word to its translation',
       oddOneOut: 'Which word does NOT belong?',
       listenSelect: 'Listen and select the word you heard',
+      sentenceTranslate: 'What does this sentence mean?',
+      trueFalse: 'True or false?',
     },
+    trueFalseTrue: 'True',
+    trueFalseFalse: 'False',
     done: {
       perfect: 'Perfect! Flawless run!',
       great: 'Excellent work!',

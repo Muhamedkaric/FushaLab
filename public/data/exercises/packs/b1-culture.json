@@ -1,0 +1,111 @@
+{
+  "id": "b1-culture",
+  "level": "B1",
+  "topic": "culture",
+  "title": "Culture & Traditions",
+  "titleAr": "الثَّقَافَةُ وَالتَّقَالِيدُ",
+  "titleBs": "Kultura i tradicije",
+  "estimatedMinutes": 9,
+  "exercises": [
+    {
+      "type": "sentence-translate",
+      "arabic": "تَحْتَفِلُ الأُسَرُ بِهَذَا الْعِيدِ كُلَّ عَامٍ.",
+      "options": [
+        "Porodice slave ovaj praznik svake godine.",
+        "Djeca ne vole ovaj praznik svake godine.",
+        "Porodice putuju u inozemstvo svaki praznik.",
+        "Studenti uče o prazniku u školi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "word-meaning",
+      "arabic": "تُرَاثٌ",
+      "root": "و ر ث",
+      "options": ["naslijeđe / baština", "sloboda", "putovanje", "jezik"],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "تَشْتَهِرُ هَذِهِ الْمَدِينَةُ بِمَعَالِمِهَا التَّارِيخِيَّةِ.",
+      "statement": "Ovaj grad je poznat po historijskim znamenitostima.",
+      "correct": true,
+      "explanation": "تَشْتَهِرُ = poznata je, مَعَالِمِهَا = njene znamenitosti, التَّارِيخِيَّةِ = historijske. Izjava je tačna."
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "يَتَعَلَّمُ الأَطْفَالُ ___ الشَّعْبِيَّةَ فِي الْمَدْرَسَةِ.",
+      "sentenceBs": "Djeca uče narodne ___ u školi.",
+      "options": ["الأَغَانِيَ", "الأَكْلَ", "الرِّيَاضَةَ", "الْحِسَابَ"],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "يَعْكِسُ الأَدَبُ الْعَرَبِيُّ الْقِيَمَ وَالتَّقَالِيدَ الْمُخْتَلِفَةَ.",
+      "options": [
+        "Arapska književnost odražava različite vrijednosti i tradicije.",
+        "Arapska muzika govori o slobodi i miru.",
+        "Arapski jezik se uči u školama diljem svijeta.",
+        "Arapska kultura je pod uticajem Zapada."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "odd-one-out",
+      "words": ["مَسْجِدٌ", "كَنِيسَةٌ", "مُسْتَشْفًى", "مَعْبَدٌ"],
+      "translations": ["džamija", "crkva", "bolnica", "hram"],
+      "oddIndex": 2,
+      "reason": "مُسْتَشْفًى (bolnica) je medicinska ustanova, a ostale tri su vjerski objekti."
+    },
+    {
+      "type": "true-false",
+      "arabic": "أَسَّسَ الْعَرَبُ مَدَارِسَ لِتَعْلِيمِ الْعُلُومِ وَالرِّيَاضِيَّاتِ فِي الْعُصُورِ الْوُسْطَى.",
+      "statement": "Arapi su osnivali škole za poučavanje nauka i matematike u srednjem vijeku.",
+      "correct": true,
+      "explanation": "أَسَّسَ = osnivao je, مَدَارِسَ = škole, الْعُلُومِ = nauke, الرِّيَاضِيَّاتِ = matematika, الْعُصُورِ الْوُسْطَى = srednji vijek. Istorijski tačno."
+    },
+    {
+      "type": "word-meaning",
+      "arabic": "حَضَارَةٌ",
+      "root": "ح ض ر",
+      "options": ["civilizacija / kultura", "priroda", "sloboda", "jezik"],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "تَنْتَشِرُ اللُّغَةُ الْعَرَبِيَّةُ فِي أَكْثَرَ مِنْ عِشْرِينَ دَوْلَةً.",
+      "options": [
+        "Arapski jezik se govori u više od dvadeset zemalja.",
+        "Arapski jezik se uči u školama u Evropi.",
+        "Arapski jezik ima više od sto miliona govornika.",
+        "Arapski jezik potiče iz Mesopotamije."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "يَزُورُ السُّيَّاحُ ___ التَّارِيخِيَّةَ كُلَّ عَامٍ.",
+      "sentenceBs": "Turisti posjećuju historijske ___ svake godine.",
+      "options": ["الْمَوَاقِعَ", "الْمَطَاعِمَ", "الصَّحَارِيَ", "الأَسْوَاقَ"],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "نَسِيَ الشَّبَابُ عَادَاتِهِمْ وَتَقَالِيدِهِمْ الْقَدِيمَةَ.",
+      "statement": "Mladi su sačuvali svoje drevne običaje i tradicije.",
+      "correct": false,
+      "explanation": "نَسِيَ = zaboravio je (ne sačuvao). Mladi su ZABORAVILI tradicije, a izjava kaže da su ih sačuvali."
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "يَجْمَعُ الْمُهْرَجَانُ فَنَّانِينَ مِنْ مُخْتَلَفِ الدُّوَلِ الْعَرَبِيَّةِ.",
+      "options": [
+        "Festival okuplja umjetnike iz raznih arapskih zemalja.",
+        "Takmičenje privlači studente iz cijelog svijeta.",
+        "Sajam knjiga predstavlja autore iz arapskog svijeta.",
+        "Konferencija spaja naučnike iz arapskih zemalja."
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

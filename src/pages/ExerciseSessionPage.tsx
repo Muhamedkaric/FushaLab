@@ -28,6 +28,8 @@ import type {
   MatchPairsExercise,
   OddOneOutExercise,
   ListenSelectExercise,
+  SentenceTranslateExercise,
+  TrueFalseExercise,
 } from '@/types/exercises'
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
@@ -773,6 +775,168 @@ function MatchPairsCard({
   )
 }
 
+// ── Exercise: SentenceTranslate ───────────────────────────────────────────────
+
+function SentenceTranslateCard({
+  exercise,
+  onAnswer,
+  answered,
+  selectedIdx,
+  setSelectedIdx,
+}: RendererProps<SentenceTranslateExercise>) {
+  const { t } = useI18n()
+  const handleClick = (i: number) => {
+    if (answered) return
+    setSelectedIdx(i)
+    onAnswer(i === exercise.correctIndex)
+  }
+  return (
+    <Stack gap={3}>
+      <PromptLabel text={t.exercises.prompts.sentenceTranslate} />
+      <Box
+        sx={{
+          bgcolor: 'action.hover',
+          borderRadius: 2,
+          p: 2.5,
+          textAlign: 'center',
+        }}
+      >
+        <Typography
+          dir="rtl"
+          sx={{ fontFamily: 'Amiri, serif', fontSize: '1.65rem', lineHeight: 1.9, color: 'text.primary' }}
+        >
+          {exercise.arabic}
+        </Typography>
+      </Box>
+      <Stack gap={1}>
+        {exercise.options.map((opt, i) => (
+          <OptionBtn
+            key={i}
+            label={opt}
+            state={
+              !answered
+                ? selectedIdx === i
+                  ? 'selected'
+                  : 'idle'
+                : selectedIdx === i
+                  ? i === exercise.correctIndex
+                    ? 'correct'
+                    : 'wrong'
+                  : i === exercise.correctIndex
+                    ? 'reveal'
+                    : 'idle'
+            }
+            onClick={() => handleClick(i)}
+          />
+        ))}
+      </Stack>
+    </Stack>
+  )
+}
+
+// ── Exercise: TrueFalse ───────────────────────────────────────────────────────
+
+function TrueFalseCard({
+  exercise,
+  onAnswer,
+  answered,
+  selectedIdx,
+  setSelectedIdx,
+}: RendererProps<TrueFalseExercise>) {
+  const { t } = useI18n()
+  const correctIndex = exercise.correct ? 0 : 1
+
+  const handleClick = (i: number) => {
+    if (answered) return
+    setSelectedIdx(i)
+    onAnswer(i === correctIndex)
+  }
+
+  const btnState = (i: number): OptionState => {
+    if (!answered) return selectedIdx === i ? 'selected' : 'idle'
+    if (i === correctIndex) return 'correct'
+    if (selectedIdx === i) return 'wrong'
+    return 'idle'
+  }
+
+  const btnColors = (state: OptionState): { border: string; bg: string; color: string } => {
+    const map: Record<OptionState, { border: string; bg: string; color: string }> = {
+      idle: { border: 'divider', bg: 'background.paper', color: 'text.primary' },
+      selected: { border: 'primary.main', bg: 'primary.main', color: 'primary.contrastText' },
+      correct: { border: 'success.main', bg: 'success.main', color: 'success.contrastText' },
+      wrong: { border: 'error.main', bg: 'error.light', color: 'error.dark' },
+      reveal: { border: 'success.main', bg: 'success.light', color: 'success.dark' },
+    }
+    return map[state]
+  }
+
+  return (
+    <Stack gap={3}>
+      <PromptLabel text={t.exercises.prompts.trueFalse} />
+
+      {/* Arabic sentence */}
+      <Box sx={{ bgcolor: 'action.hover', borderRadius: 2, p: 2.5, textAlign: 'center' }}>
+        <Typography
+          dir="rtl"
+          sx={{ fontFamily: 'Amiri, serif', fontSize: '1.65rem', lineHeight: 1.9, color: 'text.primary' }}
+        >
+          {exercise.arabic}
+        </Typography>
+      </Box>
+
+      {/* Statement to evaluate */}
+      <Box sx={{ px: 1 }}>
+        <Typography variant="caption" color="text.secondary" fontWeight={600} display="block" mb={0.5} sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}>
+          {t.exercises.prompts.trueFalse.split('?')[0]}
+        </Typography>
+        <Typography variant="body1" fontWeight={600} sx={{ lineHeight: 1.5 }}>
+          {exercise.statement}
+        </Typography>
+      </Box>
+
+      {/* True / False buttons */}
+      <Stack direction="row" gap={1.5}>
+        {[t.exercises.trueFalseTrue, t.exercises.trueFalseFalse].map((label, i) => {
+          const state = btnState(i)
+          const c = btnColors(state)
+          return (
+            <Box
+              key={i}
+              component="button"
+              onClick={() => handleClick(i)}
+              sx={{
+                flex: 1,
+                py: 2,
+                border: '2px solid',
+                borderColor: c.border,
+                borderRadius: 2,
+                bgcolor: c.bg,
+                color: c.color,
+                cursor: answered ? 'default' : 'pointer',
+                fontSize: '1rem',
+                fontWeight: 700,
+                transition: 'all 0.15s',
+                '&:hover': state === 'idle' ? { borderColor: 'primary.main', bgcolor: 'action.hover' } : {},
+              }}
+            >
+              {i === 0 ? '✓ ' : '✗ '}{label}
+            </Box>
+          )
+        })}
+      </Stack>
+
+      {/* Explanation after answering */}
+      {answered && (
+        <Box sx={{ p: 1.5, bgcolor: 'action.hover', borderRadius: 2, border: '1px solid', borderColor: 'divider' }}>
+          <Typography variant="body2" color="text.secondary">
+            {exercise.explanation}
+          </Typography>
+        </Box>
+      )}
+    </Stack>
+  )
+}
+
 // ── Exercise router ───────────────────────────────────────────────────────────
 
 interface ExerciseRouterProps {
@@ -800,6 +964,10 @@ function ExerciseRouter({ exercise, onAnswer, answered, selectedIdx, setSelected
       return <SentenceOrderCard exercise={exercise} onAnswer={onAnswer} answered={answered} />
     case 'match-pairs':
       return <MatchPairsCard exercise={exercise} onAnswer={onAnswer} answered={answered} />
+    case 'sentence-translate':
+      return <SentenceTranslateCard {...props} exercise={exercise} />
+    case 'true-false':
+      return <TrueFalseCard {...props} exercise={exercise} />
   }
 }
 

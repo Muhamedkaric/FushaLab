@@ -175,6 +175,50 @@
       "exerciseCount": 10,
       "estimatedMinutes": 8,
       "types": ["sentence-order", "fill-blank", "word-arabic"]
+    },
+    {
+      "id": "b1-news",
+      "level": "B1",
+      "topic": "news",
+      "title": "Reading the News",
+      "titleAr": "قِرَاءَةُ الأَخْبَارِ",
+      "titleBs": "Čitanje vijesti",
+      "exerciseCount": 12,
+      "estimatedMinutes": 9,
+      "types": ["sentence-translate", "true-false", "word-meaning", "fill-blank"]
+    },
+    {
+      "id": "b1-culture",
+      "level": "B1",
+      "topic": "culture",
+      "title": "Culture & Traditions",
+      "titleAr": "الثَّقَافَةُ وَالتَّقَالِيدُ",
+      "titleBs": "Kultura i tradicije",
+      "exerciseCount": 12,
+      "estimatedMinutes": 9,
+      "types": ["sentence-translate", "true-false", "word-meaning", "fill-blank", "odd-one-out"]
+    },
+    {
+      "id": "b2-comprehension",
+      "level": "B2",
+      "topic": "comprehension",
+      "title": "Reading Comprehension",
+      "titleAr": "فَهْمُ الْمَقْرُوءِ",
+      "titleBs": "Razumijevanje teksta",
+      "exerciseCount": 12,
+      "estimatedMinutes": 10,
+      "types": ["sentence-translate", "true-false", "word-meaning", "fill-blank"]
+    },
+    {
+      "id": "b2-grammar",
+      "level": "B2",
+      "topic": "grammar",
+      "title": "Grammar in Context",
+      "titleAr": "الْقَوَاعِدُ فِي السِّيَاقِ",
+      "titleBs": "Gramatika u kontekstu",
+      "exerciseCount": 12,
+      "estimatedMinutes": 10,
+      "types": ["fill-blank", "sentence-order", "sentence-translate", "true-false"]
     }
   ]
 }

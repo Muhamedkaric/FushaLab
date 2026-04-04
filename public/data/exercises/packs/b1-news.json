@@ -1,0 +1,111 @@
+{
+  "id": "b1-news",
+  "level": "B1",
+  "topic": "news",
+  "title": "Reading the News",
+  "titleAr": "قِرَاءَةُ الأَخْبَارِ",
+  "titleBs": "Čitanje vijesti",
+  "estimatedMinutes": 9,
+  "exercises": [
+    {
+      "type": "sentence-translate",
+      "arabic": "وَصَلَ الرَّئِيسُ إِلَى الْعَاصِمَةِ أَمْسِ.",
+      "options": [
+        "Predsjednik je stigao u glavni grad jučer.",
+        "Ministar je napustio glavni grad sinoć.",
+        "Predsjednik je otputovao iz zemlje.",
+        "Vojska je stigla u grad u zoru."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "word-meaning",
+      "arabic": "أَعْلَنَ",
+      "root": "ع ل ن",
+      "options": ["objavio / saopćio", "putovao", "odbio", "platio"],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "رَفَضَ الْبَرْلَمَانُ الْقَانُونَ الْجَدِيدَ.",
+      "statement": "Parlament je usvojio novi zakon.",
+      "correct": false,
+      "explanation": "رَفَضَ znači 'odbio' — suprotno od 'usvojio'. Parlament je odbio, a ne usvojio zakon."
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "انْعَقَدَ ___ الدَّوْلِيُّ فِي الْعَاصِمَةِ.",
+      "sentenceBs": "Međunarodna ___ se održala u glavnom gradu.",
+      "options": ["الْمُؤْتَمَرُ", "الشَّارِعُ", "الْمَطْبَخُ", "الْحَدِيقَةُ"],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "أَعْلَنَتِ الْحُكُومَةُ عَنْ خُطَّةٍ اقْتِصَادِيَّةٍ جَدِيدَةٍ.",
+      "options": [
+        "Vlada je objavila novi ekonomski plan.",
+        "Predsjednik je odbio ekonomski prijedlog.",
+        "Ministar je podnio ostavku zbog ekonomije.",
+        "Vlada je zatvorila granice zbog krize."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "word-meaning",
+      "arabic": "اِنْتِخَابَاتٌ",
+      "root": "ن خ ب",
+      "options": ["izbori", "vijesti", "ministarstvo", "zakon"],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "تَحَدَّثَ الْوَزِيرُ عَنِ الْبَطَالَةِ فِي مُؤْتَمَرٍ صِحَفِيٍّ.",
+      "statement": "Ministar je govorio o nezaposlenosti na konferenciji za medije.",
+      "correct": true,
+      "explanation": "تَحَدَّثَ = govorio je, الْوَزِيرُ = ministar, الْبَطَالَةِ = nezaposlenost, مُؤْتَمَرٍ صِحَفِيٍّ = konferencija za medije. Izjava je tačna."
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "نَشَرَتِ الصَّحِيفَةُ ___ مُهِمًّا عَنِ الانْتِخَابَاتِ.",
+      "sentenceBs": "Novine su objavile važan ___ o izborima.",
+      "options": ["تَقْرِيرًا", "طَعَامًا", "سَيَّارَةً", "مَلْعَبًا"],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "طَالَبَ الْمُتَظَاهِرُونَ بِإِصْلَاحَاتٍ سِيَاسِيَّةٍ.",
+      "options": [
+        "Demonstranti su zahtijevali političke reforme.",
+        "Studenti su protestirali zbog cijena hrane.",
+        "Radnici su tražili povišicu plate.",
+        "Vojska je zatražila nova sredstva."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "word-meaning",
+      "arabic": "مُرَاسِلٌ",
+      "root": "ر س ل",
+      "options": ["dopisnik / reporter", "predsjednik", "sudija", "vojnik"],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "وَقَّعَتِ الدَّوْلَتَانِ عَلَى اتِّفَاقِيَّةِ السَّلَامِ.",
+      "statement": "Obje države su odbile potpisati sporazum o miru.",
+      "correct": false,
+      "explanation": "وَقَّعَتِ = potpisale su (prošlo vrijeme). Države su POTPISALE sporazum, a ne odbile ga."
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "أَصْدَرَ الْقَاضِي حُكْمًا بِالسِّجْنِ عَشْرَ سَنَوَاتٍ.",
+      "options": [
+        "Sudija je izrekao kaznu zatvora od deset godina.",
+        "Predsjednik je pomilovao osuđenika nakon deset godina.",
+        "Sud je oslobodio optuženog bez uslovne kazne.",
+        "Tužilac je zahtijevao novčanu kaznu."
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

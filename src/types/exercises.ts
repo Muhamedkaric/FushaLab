@@ -8,6 +8,8 @@ export type ExerciseType =
   | 'match-pairs'
   | 'odd-one-out'
   | 'listen-select'
+  | 'sentence-translate'
+  | 'true-false'
 
 export interface WordMeaningExercise {
   type: 'word-meaning'
@@ -59,6 +61,21 @@ export interface ListenSelectExercise {
   correctIndex: number
 }
 
+export interface SentenceTranslateExercise {
+  type: 'sentence-translate'
+  arabic: string         // Full Arabic sentence with harakat
+  options: string[]      // 4 BS/EN full-sentence translations
+  correctIndex: number
+}
+
+export interface TrueFalseExercise {
+  type: 'true-false'
+  arabic: string         // Arabic sentence shown to user
+  statement: string      // Bosnian claim about the sentence
+  correct: boolean       // is the claim true?
+  explanation: string    // shown after answering (BS)
+}
+
 export type Exercise =
   | WordMeaningExercise
   | WordArabicExercise
@@ -67,6 +84,8 @@ export type Exercise =
   | MatchPairsExercise
   | OddOneOutExercise
   | ListenSelectExercise
+  | SentenceTranslateExercise
+  | TrueFalseExercise
 
 export interface ExercisePack {
   id: string

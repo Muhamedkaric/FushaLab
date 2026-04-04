@@ -1,0 +1,111 @@
+{
+  "id": "b2-comprehension",
+  "level": "B2",
+  "topic": "comprehension",
+  "title": "Reading Comprehension",
+  "titleAr": "فَهْمُ الْمَقْرُوءِ",
+  "titleBs": "Razumijevanje teksta",
+  "estimatedMinutes": 10,
+  "exercises": [
+    {
+      "type": "sentence-translate",
+      "arabic": "أَسْهَمَتِ التِّكْنُولُوجِيَا الْحَدِيثَةُ فِي تَغْيِيرِ أَسَالِيبِ التَّوَاصُلِ بَيْنَ النَّاسِ.",
+      "options": [
+        "Savremena tehnologija doprinijela je promjeni načina komunikacije među ljudima.",
+        "Internet je zamijenio tradicionalne metode učenja u školama.",
+        "Mobilni telefoni su promijenili navike čitanja kod mladih.",
+        "Društvene mreže negativno utječu na međuljudske odnose."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "يَرَى بَعْضُ الْعُلَمَاءِ أَنَّ التَّغَيُّرَ الْمَنَاخِيَّ يُهَدِّدُ الْأَمْنَ الْغِذَائِيَّ عَالَمِيًّا.",
+      "statement": "Svi naučnici su saglasni da klimatske promjene ne utiču na globalnu prehrambenu sigurnost.",
+      "correct": false,
+      "explanation": "بَعْضُ = neki (ne svi), يُهَدِّدُ = prijeti/ugrožava. Rečenica kaže da NEKI naučnici smatraju da klimatske promjene UGROŽAVAJU prehrambenu sigurnost."
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "تُعَدُّ الْقَاهِرَةُ مِنْ أَكْبَرِ ___ فِي الْعَالَمِ الْعَرَبِيِّ.",
+      "sentenceBs": "Kairo se smatra jednim od najvećih ___ u arapskom svijetu.",
+      "options": ["الْمُدُنِ", "الأَنْهَارِ", "الصَّحَارِي", "الْجِبَالِ"],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "يَتَوَقَّفُ نَجَاحُ أَيِّ مَشْرُوعٍ عَلَى جَوْدَةِ التَّخْطِيطِ وَالتَّنْفِيذِ.",
+      "options": [
+        "Uspjeh svakog projekta ovisi o kvalitetu planiranja i izvođenja.",
+        "Finansiranje projekata zavisi od podrške vlade i privatnog sektora.",
+        "Svaki uspješan projekt zahtijeva tim stručnjaka i dosta vremena.",
+        "Kvalitet rada određuje se brojem zaposlenih i opremom."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "لَمْ تَتَمَكَّنِ الدُّوَلُ النَّامِيَةُ مِنَ الْوُصُولِ إِلَى مَصَادِرِ الطَّاقَةِ الْمُتَجَدِّدَةِ.",
+      "statement": "Zemlje u razvoju nisu uspjele pristupiti obnovljivim izvorima energije.",
+      "correct": true,
+      "explanation": "لَمْ تَتَمَكَّنِ = nije uspjela, الدُّوَلُ النَّامِيَةُ = zemlje u razvoju, الطَّاقَةِ الْمُتَجَدِّدَةِ = obnovljiva energija. Izjava je tačna."
+    },
+    {
+      "type": "word-meaning",
+      "arabic": "اِسْتِرَاتِيجِيَّةٌ",
+      "root": "— (muarrab)",
+      "options": ["strategija / plan", "tehnologija", "ekonomija", "politika"],
+      "correctIndex": 0
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "تَسْعَى الْحُكُومَاتُ إِلَى تَحْقِيقِ التَّوَازُنِ بَيْنَ التَّنْمِيَةِ الاقْتِصَادِيَّةِ وَحِمَايَةِ الْبِيئَةِ.",
+      "options": [
+        "Vlade nastoje postići ravnotežu između ekonomskog razvoja i zaštite okoliša.",
+        "Međunarodne organizacije traže nova rješenja za ekološke probleme.",
+        "Privatni sektor ulaže u zelene tehnologije radi smanjenja emisija.",
+        "Vlade su pooštrile zakone o zaštiti okoliša na globalnom nivou."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "تَبَيَّنَ أَنَّ الطَّالِبَ قَدْ اجْتَازَ جَمِيعَ الامْتِحَانَاتِ بِنَجَاحٍ.",
+      "statement": "Pokazalo se da student nije položio nijedan ispit.",
+      "correct": false,
+      "explanation": "اجْتَازَ = položio je, جَمِيعَ = sve, بِنَجَاحٍ = uspješno. Student je položio SVE ispite, a izjava kaže suprotno."
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "يَتَطَلَّبُ هَذَا الْمَنْصِبُ ___ وَاسِعَةً فِي مَجَالِ الإِدَارَةِ.",
+      "sentenceBs": "Ova pozicija zahtijeva široko ___ u oblasti menadžmenta.",
+      "options": ["خِبْرَةً", "رَاتِبًا", "مَكْتَبًا", "سَيَّارَةً"],
+      "correctIndex": 0
+    },
+    {
+      "type": "word-meaning",
+      "arabic": "فَجْوَةٌ",
+      "root": "ف ج و",
+      "options": ["jaz / praznina / razlika", "prijedlog", "vijest", "granica"],
+      "correctIndex": 0
+    },
+    {
+      "type": "true-false",
+      "arabic": "أَشَارَتِ الدِّرَاسَةُ إِلَى أَنَّ الشَّبَابَ أَكْثَرُ اهْتِمَامًا بِالسِّيَاسَةِ مِنَ الْجِيلِ السَّابِقِ.",
+      "statement": "Studija je pokazala da su mladi manje zainteresovani za politiku od prethodne generacije.",
+      "correct": false,
+      "explanation": "أَكْثَرُ = više (komparativ), ne manje. Studija kaže da su mladi VIŠE zainteresovani za politiku, a izjava kaže manje."
+    },
+    {
+      "type": "sentence-translate",
+      "arabic": "يُؤَثِّرُ الضَّغْطُ النَّفْسِيُّ تَأْثِيرًا سَلْبِيًّا عَلَى صِحَّةِ الإِنْسَانِ.",
+      "options": [
+        "Psihički pritisak negativno utiče na zdravlje čovjeka.",
+        "Stres je glavni uzrok bolesti srca i krvnih sudova.",
+        "Mentalno zdravlje je jednako važno kao i fizičko.",
+        "Nedostatak sna uzrokuje probleme s koncentracijom."
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
