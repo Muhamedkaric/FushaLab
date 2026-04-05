@@ -1,0 +1,384 @@
+/**
+ * Backfill word annotations for existing B2/C1/C2 content files.
+ *
+ * Reads all files without word annotations, sends sentences to Gemini in batches
+ * (multiple sentences per API call), writes word annotations back to files.
+ * Saves progress to a JSON file so it's safe to interrupt and re-run.
+ *
+ * Run from data-generation dir:
+ *   pnpm backfill-annotations
+ */
+
+import { config } from 'dotenv'
+import { join } from 'path'
+
+config()
+config({ path: join(import.meta.dirname, '.env.reading'), override: false })
+
+import { existsSync, readFileSync, writeFileSync } from 'fs'
+import { resolve } from 'path'
+import {
+  GoogleGenerativeAI,
+  GoogleGenerativeAIFetchError,
+  GoogleGenerativeAIResponseError,
+} from '@google/generative-ai'
+
+// ── Types ─────────────────────────────────────────────────────────────────────
+
+interface WordAnnotation {
+  w: string
+  lemma?: string
+  root?: string
+  bs: string
+  en: string
+}
+
+interface Sentence {
+  arabic: string
+  translation: string
+  translationEn: string
+  words?: WordAnnotation[]
+}
+
+interface ContentItem {
+  id: string
+  category: string
+  level: string
+  sentences: Sentence[]
+  metadata: { difficulty: number; tags: string[] }
+}
+
+// ── Config ────────────────────────────────────────────────────────────────────
+
+const DATA_DIR = resolve(import.meta.dirname, '../public/data')
+const PROGRESS_FILE = resolve(import.meta.dirname, 'backfill-annotations-progress.json')
+const MODEL = process.env['READING_MODEL'] ?? 'gemini-2.0-flash'
+const SENTENCES_PER_BATCH = 8 // sentences per API call
+
+const LEVELS = ['B2', 'C1', 'C2']
+
+// ── Key rotation ──────────────────────────────────────────────────────────────
+
+const apiKeys = (process.env['GEMINI_API_KEYS'] ?? '').split(/\s+/).filter(Boolean)
+if (apiKeys.length === 0) {
+  console.error('Error: GEMINI_API_KEYS not set in data-generation/.env')
+  process.exit(1)
+}
+
+let currentKeyIndex = 0
+const exhaustedKeys = new Set<number>()
+
+function nextAvailableKey(): number | null {
+  for (let i = 0; i < apiKeys.length; i++) {
+    const idx = (currentKeyIndex + i) % apiKeys.length
+    if (!exhaustedKeys.has(idx)) return idx
+  }
+  return null
+}
+
+// ── Gemini call ───────────────────────────────────────────────────────────────
+
+async function callGemini(prompt: string): Promise<string> {
+  let consecutiveRateLimits = 0
+
+  while (true) {
+    const keyIdx = nextAvailableKey()
+    if (keyIdx === null) throw new Error('ALL_KEYS_EXHAUSTED')
+    currentKeyIndex = keyIdx
+
+    const gemini = new GoogleGenerativeAI(apiKeys[keyIdx]).getGenerativeModel({
+      model: MODEL,
+      generationConfig: { temperature: 0.2, responseMimeType: 'application/json' },
+    })
+
+    try {
+      const result = await gemini.generateContent(prompt)
+      consecutiveRateLimits = 0
+      return result.response.text()
+    } catch (err) {
+      if (err instanceof GoogleGenerativeAIResponseError) {
+        const reason = err.response?.candidates?.[0]?.finishReason
+        if (reason === 'RECITATION') throw new Error('RECITATION')
+        throw err
+      }
+
+      if (!(err instanceof GoogleGenerativeAIFetchError)) throw err
+
+      if (err.status === 429) {
+        const violations = (err.errorDetails as Array<Record<string, unknown>> | undefined) ?? []
+        const dailyExhausted = violations.some(
+          v => typeof v['quotaId'] === 'string' && v['quotaId'].includes('PerDay') && v['limit'] === 0
+        )
+        if (dailyExhausted) {
+          console.log(`  🔑 Daily quota exhausted on key ${keyIdx + 1}/${apiKeys.length}`)
+          exhaustedKeys.add(keyIdx)
+          const next = nextAvailableKey()
+          if (next === null) throw new Error('ALL_KEYS_EXHAUSTED')
+          currentKeyIndex = next
+          consecutiveRateLimits = 0
+          continue
+        }
+        consecutiveRateLimits++
+        currentKeyIndex = (keyIdx + 1) % apiKeys.length
+        if (consecutiveRateLimits >= apiKeys.length - exhaustedKeys.size) {
+          console.log(`  ⏳ All keys rate-limited — waiting 60s...`)
+          await new Promise(r => setTimeout(r, 60_000))
+          consecutiveRateLimits = 0
+        } else {
+          console.log(`  🔑 Rate limited on key ${keyIdx + 1} — switching...`)
+        }
+        continue
+      }
+
+      if (err.status === 503) {
+        consecutiveRateLimits++
+        currentKeyIndex = (keyIdx + 1) % apiKeys.length
+        if (consecutiveRateLimits >= apiKeys.length - exhaustedKeys.size) {
+          console.log(`  ⏳ All keys 503 — waiting 30s...`)
+          await new Promise(r => setTimeout(r, 30_000))
+          consecutiveRateLimits = 0
+        }
+        continue
+      }
+
+      throw err
+    }
+  }
+}
+
+// ── Prompt ────────────────────────────────────────────────────────────────────
+
+function buildAnnotationPrompt(sentences: Array<{ idx: number; arabic: string; bs: string; en: string }>): string {
+  const sentenceList = sentences
+    .map(s => `${s.idx}. Arabic: "${s.arabic}"\n   Bosnian: "${s.bs}"\n   English: "${s.en}"`)
+    .join('\n\n')
+
+  return `You are an expert Arabic linguist. For each sentence below, identify the CONTENT words and provide word-level annotations.
+
+SENTENCES:
+${sentenceList}
+
+RULES:
+- Include only CONTENT words: nouns, verbs, adjectives, adverbs
+- SKIP function words: فِي، عَلَى، مِنْ، إِلَى، وَ، فَ، بِ، لِ، أَنْ، إِنَّ، هُوَ، هِيَ، هَذَا، ذَلِكَ، لَا، لَمْ، قَدْ and standalone كَانَ as copula
+- SKIP proper nouns (names of people, places, specific books)
+- w: exact word form as it appears in the Arabic sentence (with full harakat)
+- lemma formats:
+  * Verb: past + present — e.g. "ذَهَبَ يَذْهَبُ"
+  * Noun: singular / plural — e.g. "مَدِينَةٌ / مُدُنٌ"
+  * Adjective: masculine singular indefinite — e.g. "كَبِيرٌ"
+- root: trilateral root with spaces between letters — e.g. "م د ن" — omit if no clear trilateral root (borrowed words, particles)
+- bs: Bosnian meaning of this specific word
+- en: English meaning of this specific word
+- Aim for 3–6 annotated words per sentence
+
+Return ONLY a valid JSON array with one object per sentence, in order:
+[
+  {
+    "idx": 1,
+    "words": [
+      { "w": "ذَهَبَتِ", "lemma": "ذَهَبَ يَذْهَبُ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+      { "w": "الْعَائِلَةُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ", "root": "ع و ل", "bs": "porodica", "en": "family" }
+    ]
+  }
+]`
+}
+
+// ── Parse annotation response ─────────────────────────────────────────────────
+
+function parseAnnotations(raw: string): Array<{ idx: number; words: WordAnnotation[] }> {
+  const cleaned = raw
+    .replace(/^```(?:json)?\s*/i, '')
+    .replace(/\s*```$/i, '')
+    .trim()
+
+  const parsed = JSON.parse(cleaned) as unknown
+  if (!Array.isArray(parsed)) throw new Error('Not an array')
+
+  return parsed.flatMap((item: unknown) => {
+    if (typeof item !== 'object' || item === null) return []
+    const o = item as Record<string, unknown>
+    const idx = typeof o['idx'] === 'number' ? o['idx'] : -1
+    if (idx < 0) return []
+    if (!Array.isArray(o['words'])) return [{ idx, words: [] }]
+
+    const words: WordAnnotation[] = (o['words'] as unknown[]).flatMap((w: unknown) => {
+      if (typeof w !== 'object' || w === null) return []
+      const wv = w as Record<string, unknown>
+      if (typeof wv['w'] !== 'string' || typeof wv['bs'] !== 'string' || typeof wv['en'] !== 'string') return []
+      return [{
+        w: wv['w'] as string,
+        ...(typeof wv['lemma'] === 'string' ? { lemma: wv['lemma'] } : {}),
+        ...(typeof wv['root'] === 'string' ? { root: wv['root'] } : {}),
+        bs: wv['bs'] as string,
+        en: wv['en'] as string,
+      }]
+    })
+
+    return [{ idx, words }]
+  })
+}
+
+// ── Progress tracking ─────────────────────────────────────────────────────────
+
+function loadProgress(): Set<string> {
+  if (!existsSync(PROGRESS_FILE)) return new Set()
+  try {
+    const data = JSON.parse(readFileSync(PROGRESS_FILE, 'utf-8')) as string[]
+    return new Set(data)
+  } catch {
+    return new Set()
+  }
+}
+
+function saveProgress(done: Set<string>) {
+  writeFileSync(PROGRESS_FILE, JSON.stringify([...done], null, 2))
+}
+
+// ── Collect files ─────────────────────────────────────────────────────────────
+
+import { readdirSync, statSync } from 'fs'
+
+function collectFilesSync(): string[] {
+  const results: string[] = []
+  for (const level of LEVELS) {
+    const categories = readdirSync(DATA_DIR).filter(d => {
+      try { return statSync(join(DATA_DIR, d)).isDirectory() } catch { return false }
+    })
+    for (const cat of categories) {
+      const dir = join(DATA_DIR, cat, level)
+      if (!existsSync(dir)) continue
+      const files = readdirSync(dir).filter(f => f.endsWith('.json') && f !== 'index.json')
+      for (const f of files) results.push(join(dir, f))
+    }
+  }
+  return results
+}
+
+console.log('\n📚 FushaLab Word Annotation Backfill (B2/C1/C2)')
+console.log(`   Model  : ${MODEL}`)
+console.log(`   Keys   : ${apiKeys.length}`)
+console.log(`   Batch  : ${SENTENCES_PER_BATCH} sentences per API call\n`)
+
+const done = loadProgress()
+const allFiles = collectFilesSync()
+
+// Filter files that need annotation (any sentence missing words)
+const toProcess = allFiles.filter(f => {
+  if (done.has(f)) return false
+  try {
+    const item = JSON.parse(readFileSync(f, 'utf-8')) as ContentItem
+    return item.sentences.some(s => !s.words || s.words.length === 0)
+  } catch {
+    return false
+  }
+})
+
+console.log(`Files already done : ${done.size}`)
+console.log(`Files to process   : ${toProcess.length}\n`)
+
+if (toProcess.length === 0) {
+  console.log('✅ All files already annotated!')
+  process.exit(0)
+}
+
+let totalFiles = 0
+let totalSentences = 0
+
+// Process in batches of SENTENCES_PER_BATCH across multiple files
+// Collect (file, sentence index) pairs that need annotation
+type SentenceRef = { file: string; sentIdx: number; arabic: string; bs: string; en: string }
+
+let pendingRefs: SentenceRef[] = []
+let fileItems = new Map<string, ContentItem>()
+
+// Load all items into memory and collect unannotated sentences
+for (const f of toProcess) {
+  try {
+    const item = JSON.parse(readFileSync(f, 'utf-8')) as ContentItem
+    fileItems.set(f, item)
+    for (let i = 0; i < item.sentences.length; i++) {
+      const s = item.sentences[i]
+      if (!s.words || s.words.length === 0) {
+        pendingRefs.push({ file: f, sentIdx: i, arabic: s.arabic, bs: s.translation, en: s.translationEn })
+      }
+    }
+  } catch {
+    // skip unparseable
+  }
+}
+
+console.log(`Total sentences to annotate: ${pendingRefs.length}`)
+const estimatedCalls = Math.ceil(pendingRefs.length / SENTENCES_PER_BATCH)
+console.log(`Estimated API calls: ${estimatedCalls}\n`)
+
+let processedSentences = 0
+let skippedSentences = 0
+
+while (pendingRefs.length > 0) {
+  const batch = pendingRefs.splice(0, SENTENCES_PER_BATCH)
+  const prompt = buildAnnotationPrompt(
+    batch.map((r, i) => ({ idx: i + 1, arabic: r.arabic, bs: r.bs, en: r.en }))
+  )
+
+  let annotations: Array<{ idx: number; words: WordAnnotation[] }>
+  try {
+    const raw = await callGemini(prompt)
+    annotations = parseAnnotations(raw)
+  } catch (err) {
+    if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
+      console.log(`\n⛔ All API keys exhausted. Progress saved. Re-run tomorrow.`)
+      saveProgress(done)
+      process.exit(0)
+    }
+    console.log(`  ⚠️  Batch failed (${err instanceof Error ? err.message : String(err)}) — skipping`)
+    skippedSentences += batch.length
+    continue
+  }
+
+  // Apply annotations back to file items
+  for (const ann of annotations) {
+    const ref = batch[ann.idx - 1]
+    if (!ref || ann.words.length === 0) continue
+    const item = fileItems.get(ref.file)
+    if (!item) continue
+    item.sentences[ref.sentIdx].words = ann.words
+    processedSentences++
+  }
+
+  // Save files that are now fully annotated
+  const filesInBatch = new Set(batch.map(r => r.file))
+  for (const f of filesInBatch) {
+    const item = fileItems.get(f)
+    if (!item) continue
+    const allAnnotated = item.sentences.every(s => s.words && s.words.length > 0)
+    if (allAnnotated) {
+      writeFileSync(f, JSON.stringify(item, null, 2))
+      done.add(f)
+      totalFiles++
+    }
+  }
+
+  totalSentences += batch.length - skippedSentences
+  process.stdout.write(`\r  ✓ ${processedSentences} sentences annotated, ${totalFiles} files done (${done.size}/${toProcess.length + done.size} total)`)
+
+  // Save progress every 50 files
+  if (totalFiles % 50 === 0) saveProgress(done)
+
+  // Small delay to avoid hammering the API
+  if (pendingRefs.length > 0) await new Promise(r => setTimeout(r, 1000))
+}
+
+// Final save — write any partially-annotated files too
+for (const [f, item] of fileItems) {
+  const hasAny = item.sentences.some(s => s.words && s.words.length > 0)
+  if (hasAny && !done.has(f)) {
+    writeFileSync(f, JSON.stringify(item, null, 2))
+  }
+}
+
+saveProgress(done)
+console.log(`\n\n✅ Backfill complete!`)
+console.log(`   Files annotated   : ${totalFiles}`)
+console.log(`   Sentences handled : ${processedSentences}`)
+if (skippedSentences > 0) console.log(`   Sentences skipped : ${skippedSentences}`)

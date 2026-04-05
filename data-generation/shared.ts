@@ -25,10 +25,19 @@ export type Category =
   | 'opinions'
 export type Level = 'B1' | 'B2' | 'C1' | 'C2'
 
+export interface WordAnnotation {
+  w: string // exact vocalized form as it appears in the sentence
+  lemma?: string // dictionary form: verb = "فَعَلَ يَفْعَلُ", noun = "فَاعِلٌ / فَوَاعِلُ", adj = "فَاعِلٌ"
+  root?: string // trilateral root with spaces, e.g. "د ر س"
+  bs: string // Bosnian meaning
+  en: string // English meaning
+}
+
 export interface Sentence {
   arabic: string
   translation: string // Bosnian
   translationEn: string // English
+  words?: WordAnnotation[]
 }
 
 export interface GeneratedItem {
@@ -288,22 +297,37 @@ STRICT REQUIREMENTS:
 7. Bosnian translation should use correct Bosnian grammar and vocabulary (ijekavica)
 8. Each text must be on a different specific topic within the category
 9. Tags: 2–4 short English descriptors relevant to the text content
+10. Each sentence MUST include a "words" array of annotated content words (see format below)
 ${HALAL_FILTER}
 ${religionSection}
+WORD ANNOTATIONS ("words" array per sentence):
+- Include only CONTENT words: nouns, verbs, adjectives, adverbs — skip function words
+- Skip: فِي، عَلَى، مِنْ، إِلَى، وَ، فَ، بِ، لِ، أَنْ، إِنَّ، هُوَ، هِيَ، هَذَا، ذَلِكَ، لَا، لَمْ، قَدْ، كَانَ (as copula only), proper nouns
+- Each word entry: w (exact form as in sentence with full harakat), lemma, root (if trilateral), bs, en
+- lemma formats:
+  * Verb: past + present separated by space — e.g. "ذَهَبَ يَذْهَبُ"
+  * Noun: singular / plural — e.g. "مَطَارٌ / مَطَارَاتٌ"
+  * Adjective: masculine singular indefinite — e.g. "جَمِيلٌ"
+- root: three-letter root with spaces between letters — e.g. "ذ ه ب" — omit if no clear trilateral root
+- bs: Bosnian meaning of this specific word (not the whole sentence)
+- en: English meaning of this specific word
+- Aim for 3–6 annotated words per sentence
+
 Return ONLY a valid JSON array — no explanation, no markdown, no code blocks.
 Format:
 [
   {
     "sentences": [
       {
-        "arabic": "الْجُمْلَةُ الْأُولَى بِالشَّكْلِ الْكَامِلِ.",
-        "translation": "Prva rečenica na bosanskom.",
-        "translationEn": "First sentence in English."
-      },
-      {
-        "arabic": "الْجُمْلَةُ الثَّانِيَةُ بِالشَّكْلِ الْكَامِلِ.",
-        "translation": "Druga rečenica na bosanskom.",
-        "translationEn": "Second sentence in English."
+        "arabic": "ذَهَبَتِ الْعَائِلَةُ إِلَى الْمَطَارِ صَبَاحًا.",
+        "translation": "Porodica je otišla na aerodrom ujutro.",
+        "translationEn": "The family went to the airport in the morning.",
+        "words": [
+          { "w": "ذَهَبَتِ", "lemma": "ذَهَبَ يَذْهَبُ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+          { "w": "الْعَائِلَةُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+          { "w": "الْمَطَارِ", "lemma": "مَطَارٌ / مَطَارَاتٌ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
+          { "w": "صَبَاحًا", "lemma": "صَبَاحٌ / أَصْبَاحٌ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        ]
       }
     ],
     "tags": ["tag1", "tag2"]
@@ -347,10 +371,27 @@ export function parseResponse(raw: string): GeneratedItem[] {
         throw new Error(`Item ${i} sentence ${j} missing "translation"`)
       if (typeof sv['translationEn'] !== 'string')
         throw new Error(`Item ${i} sentence ${j} missing "translationEn"`)
+
+      const words: WordAnnotation[] | undefined = Array.isArray(sv['words'])
+        ? (sv['words'] as unknown[]).flatMap((w: unknown) => {
+            if (typeof w !== 'object' || w === null) return []
+            const wv = w as Record<string, unknown>
+            if (typeof wv['w'] !== 'string' || typeof wv['bs'] !== 'string' || typeof wv['en'] !== 'string') return []
+            return [{
+              w: wv['w'] as string,
+              ...(typeof wv['lemma'] === 'string' ? { lemma: wv['lemma'] } : {}),
+              ...(typeof wv['root'] === 'string' ? { root: wv['root'] } : {}),
+              bs: wv['bs'] as string,
+              en: wv['en'] as string,
+            }]
+          })
+        : undefined
+
       return {
         arabic: sv['arabic'] as string,
         translation: sv['translation'] as string,
         translationEn: sv['translationEn'] as string,
+        ...(words && words.length > 0 ? { words } : {}),
       }
     })
 

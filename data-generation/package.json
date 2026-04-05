@@ -8,7 +8,8 @@
     "generate-exercises": "tsx generate-exercises.ts",
     "auto-generate": "tsx generate-reading.ts",
     "validate": "tsx validate.ts",
-    "build-dictionary": "tsx backfill-lemma.ts"
+    "build-dictionary": "tsx backfill-lemma.ts",
+    "backfill-annotations": "tsx backfill-word-annotations.ts"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
