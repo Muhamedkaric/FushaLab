@@ -4,6 +4,7 @@ import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder'
 import BookmarkIcon from '@mui/icons-material/Bookmark'
 import type { Sentence, WordAnnotation } from '@/types/content'
 import { lookupParticle, type ParticleEntry } from '@/data/particles'
+import { useDictionary } from '@/context/DictionaryContext'
 import { toggleHarakat } from '@/utils/diacritics'
 import { useI18n } from '@/i18n'
 
@@ -64,6 +65,7 @@ export function WordTapText({
   onToggleSave,
 }: Props) {
   const { t } = useI18n()
+  const { lookup: dictLookup } = useDictionary()
   const [activeWord, setActiveWord] = useState<string | null>(null)
   const [anchor, setAnchor] = useState<HTMLElement | null>(null)
   const [activeAnnotation, setActiveAnnotation] = useState<AnyAnnotation | null>(null)
@@ -76,7 +78,14 @@ export function WordTapText({
 
   function resolveAnnotation(rawToken: string): AnyAnnotation | null {
     const wordAnn = lookup.get(rawToken)
-    if (wordAnn) return { kind: 'word', ann: wordAnn }
+    if (wordAnn) {
+      // Enrich with dictionary data if available (dictionary is source of truth)
+      const dictEntry = wordAnn.lemma ? dictLookup(wordAnn.lemma) : null
+      const enriched: WordAnnotation = dictEntry
+        ? { ...wordAnn, root: dictEntry.root ?? wordAnn.root, bs: dictEntry.bs, en: dictEntry.en }
+        : wordAnn
+      return { kind: 'word', ann: enriched }
+    }
     const particle = lookupParticle(rawToken)
     if (particle) return { kind: 'particle', entry: particle, w: rawToken }
     return null

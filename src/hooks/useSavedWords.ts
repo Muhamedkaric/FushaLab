@@ -1,5 +1,6 @@
 import { useState, useCallback } from 'react'
 import type { WordAnnotation, SavedWord } from '@/types/content'
+import type { DictionaryEntry } from '@/context/DictionaryContext'
 
 const STORAGE_KEY = 'fushalab_saved_words'
 
@@ -20,32 +21,37 @@ function persist(data: Record<string, SavedWord>) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(data))
 }
 
-export function useSavedWords() {
+export function useSavedWords(dictLookup?: (lemma: string) => DictionaryEntry | null) {
   const [saved, setSaved] = useState<Record<string, SavedWord>>(load)
 
   const isSaved = useCallback((ann: WordAnnotation) => Boolean(saved[wordKey(ann)]), [saved])
 
-  const toggleSave = useCallback((ann: WordAnnotation) => {
-    const key = wordKey(ann)
-    setSaved(prev => {
-      const next = { ...prev }
-      if (next[key]) {
-        delete next[key]
-      } else {
-        next[key] = {
-          key,
-          w: ann.w,
-          lemma: ann.lemma,
-          root: ann.root,
-          bs: ann.bs,
-          en: ann.en,
-          savedAt: Date.now(),
+  const toggleSave = useCallback(
+    (ann: WordAnnotation) => {
+      const key = wordKey(ann)
+      setSaved(prev => {
+        const next = { ...prev }
+        if (next[key]) {
+          delete next[key]
+        } else {
+          // Enrich with dictionary data at save time — dictionary is source of truth
+          const dictEntry = ann.lemma && dictLookup ? dictLookup(ann.lemma) : null
+          next[key] = {
+            key,
+            w: ann.w,
+            lemma: ann.lemma,
+            root: dictEntry?.root ?? ann.root,
+            bs: dictEntry?.bs ?? ann.bs,
+            en: dictEntry?.en ?? ann.en,
+            savedAt: Date.now(),
+          }
         }
-      }
-      persist(next)
-      return next
-    })
-  }, [])
+        persist(next)
+        return next
+      })
+    },
+    [dictLookup]
+  )
 
   const removeWord = useCallback((key: string) => {
     setSaved(prev => {

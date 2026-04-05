@@ -32,28 +32,7 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
 
 ### Item JSON structure
 
-**B2, C1, C2** — standard format:
-
-```json
-{
-  "id": "travel-b2-011",
-  "category": "travel",
-  "level": "B2",
-  "sentences": [
-    {
-      "arabic": "الْجُمْلَةُ الْأُولَى بِالشَّكْلِ الْكَامِلِ.",
-      "translation": "Prva rečenica na bosanskom.",
-      "translationEn": "First sentence in English."
-    }
-  ],
-  "metadata": {
-    "difficulty": 2,
-    "tags": ["tag1", "tag2"]
-  }
-}
-```
-
-**B1 only** — include `words` array per sentence for word-tap feature:
+**All levels** — include `words` array per sentence (dictionary-connected, enables word-tap for every level):
 
 ```json
 {
@@ -80,20 +59,22 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
 }
 ```
 
-**`words` array rules for B1:**
+**`words` array rules (all levels):**
 - Include only **content words**: nouns, verbs, adjectives, adverbs
 - **Skip** function words: فِي، عَلَى، مِنْ، إِلَى، وَ، فَ، بِ، لِ، أَنْ، إِنَّ، هُوَ، هِيَ، هَذَا، هَذِهِ، ذَلِكَ، كَانَ (as copula), لَا، لَمْ، قَدْ، etc.
+  (function words are handled by the particles lookup table in the app — no need to annotate them)
 - **Skip** proper nouns (names: أَحْمَدُ، مَرْيَمُ، الْقَاهِرَةُ, etc.)
-- `w` = the **exact vocalized form** as it appears in the sentence (including case ending)
-- `lemma` = dictionary form of the word with full harakat:
+- `w` = the **exact vocalized form** as it appears in the sentence (including case ending and any prefixed conjunction وَ/فَ)
+- `lemma` = dictionary form — **this is the key that connects to `dictionary.json`**:
   - **Verb**: past 3rd masc sg + present 3rd masc sg — e.g. `"ذَهَبَ يَذْهَبُ"`, `"دَرَسَ يَدْرُسُ"`
-  - **Noun**: indefinite nominative singular + plural — e.g. `"مَطَارٌ / مَطَارَاتٌ"`, `"كِتَابٌ / كُتُبٌ"`
+  - **Noun**: indefinite nominative singular / plural — e.g. `"مَطَارٌ / مَطَارَاتٌ"`, `"كِتَابٌ / كُتُبٌ"`
   - **Adjective**: indefinite nominative singular masc — e.g. `"جَمِيلٌ"`
   - **Other**: simplest uninflected base form with full harakat
-- `root` = three-letter Arabic root with spaces between letters, e.g. `"ك ت ب"` — omit if the word has no clear trilateral root (e.g. borrowed words)
-- `bs` = natural Bosnian meaning in context (not dictionary form — match the sentence meaning)
+- `root` = three-letter Arabic root with spaces between letters, e.g. `"ك ت ب"` — omit if no clear trilateral root
+- `bs` = natural Bosnian meaning in context
 - `en` = natural English meaning in context
-- Aim for 3–6 annotated words per sentence (skip very obvious words if sentence has many)
+- **Annotate ALL content words** — do not skip any nouns, verbs, adjectives, or adverbs
+- After generating, run `pnpm rebuild-dictionary` in `data-generation/` to update `dictionary.json`
 
 ### Index JSON structure
 

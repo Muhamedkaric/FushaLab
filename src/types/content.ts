@@ -36,12 +36,12 @@ export interface WordAnnotation {
 }
 
 export interface SavedWord {
-  key: string // lemma if present, else w — used for deduplication
+  key: string // lemma if present, else w — used for deduplication and dictionary lookup
   w: string // the inflected form seen in text
-  lemma?: string // dictionary form for review display
-  root?: string
-  bs: string
-  en: string
+  lemma?: string // dictionary form — same as key when lemma is present
+  root?: string // cached from dictionary at save time
+  bs: string // cached from dictionary at save time
+  en: string // cached from dictionary at save time
   savedAt: number
 }
 

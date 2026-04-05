@@ -22,14 +22,25 @@ import { useNavigate } from '@tanstack/react-router'
 import { useMemo, useState } from 'react'
 import { useI18n } from '@/i18n'
 import { getTodaysWord } from '@/data/wordOfDay'
+import { useDictionary } from '@/context/DictionaryContext'
 import { useProgress } from '@/hooks/useProgress'
 
 const DAILY_GOAL_KEY = 'fushalab_daily_goal'
 const GOAL_OPTIONS = [1, 3, 5, 10]
 
 // SVG ring showing daily goal progress
-function GoalRing({ done, goal, onCycleGoal, label, reachedLabel }: {
-  done: number; goal: number; onCycleGoal: () => void; label: string; reachedLabel: string
+function GoalRing({
+  done,
+  goal,
+  onCycleGoal,
+  label,
+  reachedLabel,
+}: {
+  done: number
+  goal: number
+  onCycleGoal: () => void
+  label: string
+  reachedLabel: string
 }) {
   const r = 16
   const circ = 2 * Math.PI * r
@@ -48,9 +59,19 @@ function GoalRing({ done, goal, onCycleGoal, label, reachedLabel }: {
       >
         <Box sx={{ position: 'relative', width: 40, height: 40 }}>
           <svg width="40" height="40" style={{ transform: 'rotate(-90deg)' }}>
-            <circle cx="20" cy="20" r={r} fill="none" stroke="rgba(201,168,76,0.15)" strokeWidth={3} />
             <circle
-              cx="20" cy="20" r={r} fill="none"
+              cx="20"
+              cy="20"
+              r={r}
+              fill="none"
+              stroke="rgba(201,168,76,0.15)"
+              strokeWidth={3}
+            />
+            <circle
+              cx="20"
+              cy="20"
+              r={r}
+              fill="none"
               stroke={reached ? '#4caf50' : '#C9A84C'}
               strokeWidth={3}
               strokeDasharray={`${dash} ${circ}`}
@@ -62,15 +83,23 @@ function GoalRing({ done, goal, onCycleGoal, label, reachedLabel }: {
             variant="caption"
             fontWeight={700}
             sx={{
-              position: 'absolute', inset: 0, display: 'flex', alignItems: 'center',
-              justifyContent: 'center', fontSize: '0.65rem',
+              position: 'absolute',
+              inset: 0,
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              fontSize: '0.65rem',
               color: reached ? 'success.main' : 'primary.main',
             }}
           >
             {done}/{goal}
           </Typography>
         </Box>
-        <Typography variant="caption" color="text.secondary" sx={{ display: { xs: 'none', sm: 'block' } }}>
+        <Typography
+          variant="caption"
+          color="text.secondary"
+          sx={{ display: { xs: 'none', sm: 'block' } }}
+        >
           {reached ? reachedLabel : label}
         </Typography>
       </Stack>
@@ -124,7 +153,8 @@ export function HomePage() {
   const { t, lang } = useI18n()
   const navigate = useNavigate()
   const { stats, progress } = useProgress()
-  const word = getTodaysWord()
+  const { allEntries } = useDictionary()
+  const word = getTodaysWord(allEntries)
 
   const lastRead = useMemo(() => {
     const entries = Object.entries(progress.completedAt)
@@ -341,10 +371,21 @@ export function HomePage() {
                     <Typography variant="body2" color="text.secondary" sx={{ flexShrink: 0 }}>
                       {t.home.continueReading}
                     </Typography>
-                    <Typography variant="body2" fontWeight={700} noWrap sx={{ textTransform: 'capitalize' }}>
-                      {t.categories[lastRead.category as keyof typeof t.categories] ?? lastRead.category}
+                    <Typography
+                      variant="body2"
+                      fontWeight={700}
+                      noWrap
+                      sx={{ textTransform: 'capitalize' }}
+                    >
+                      {t.categories[lastRead.category as keyof typeof t.categories] ??
+                        lastRead.category}
                     </Typography>
-                    <Chip label={lastRead.level} size="small" color="primary" sx={{ height: 18, fontSize: '0.65rem', fontWeight: 700, flexShrink: 0 }} />
+                    <Chip
+                      label={lastRead.level}
+                      size="small"
+                      color="primary"
+                      sx={{ height: 18, fontSize: '0.65rem', fontWeight: 700, flexShrink: 0 }}
+                    />
                     <Button
                       size="small"
                       endIcon={<ArrowForwardIcon sx={{ fontSize: 14 }} />}
@@ -377,10 +418,21 @@ export function HomePage() {
         <Box sx={{ borderBottom: '1px solid', borderColor: 'divider' }}>
           <Container maxWidth="md" sx={{ py: 1.5 }}>
             <Stack direction="row" alignItems="center" gap={1} mb={1}>
-              <Typography variant="caption" fontWeight={700} color="warning.main" letterSpacing={1} sx={{ textTransform: 'uppercase' }}>
+              <Typography
+                variant="caption"
+                fontWeight={700}
+                color="warning.main"
+                letterSpacing={1}
+                sx={{ textTransform: 'uppercase' }}
+              >
                 {t.home.reviewQueue}
               </Typography>
-              <Chip label={reviewItems.length} size="small" color="warning" sx={{ height: 16, fontSize: '0.6rem', fontWeight: 700 }} />
+              <Chip
+                label={reviewItems.length}
+                size="small"
+                color="warning"
+                sx={{ height: 16, fontSize: '0.6rem', fontWeight: 700 }}
+              />
             </Stack>
             <Stack gap={0.5}>
               {reviewItems.map(item => (
@@ -391,8 +443,12 @@ export function HomePage() {
                   justifyContent="space-between"
                   onClick={() => void navigate({ to: item.path })}
                   sx={{
-                    px: 1.5, py: 0.75, borderRadius: 2, cursor: 'pointer',
-                    border: '1px solid', borderColor: 'warning.main',
+                    px: 1.5,
+                    py: 0.75,
+                    borderRadius: 2,
+                    cursor: 'pointer',
+                    border: '1px solid',
+                    borderColor: 'warning.main',
                     bgcolor: 'rgba(255,152,0,0.04)',
                     '&:hover': { bgcolor: 'rgba(255,152,0,0.08)' },
                     transition: 'background-color 0.15s',
@@ -402,7 +458,13 @@ export function HomePage() {
                     {t.categories[item.category as keyof typeof t.categories] ?? item.category}
                   </Typography>
                   <Stack direction="row" alignItems="center" gap={1}>
-                    <Chip label={item.level} size="small" color="warning" variant="outlined" sx={{ height: 18, fontSize: '0.65rem', fontWeight: 700 }} />
+                    <Chip
+                      label={item.level}
+                      size="small"
+                      color="warning"
+                      variant="outlined"
+                      sx={{ height: 18, fontSize: '0.65rem', fontWeight: 700 }}
+                    />
                     <ArrowForwardIcon sx={{ fontSize: 14, color: 'warning.main' }} />
                   </Stack>
                 </Stack>
@@ -453,20 +515,22 @@ export function HomePage() {
                   filter: 'drop-shadow(0 0 12px rgba(201, 168, 76, 0.25))',
                 }}
               >
-                {word.arabic}
+                {word ? word.lemma : '...'}
               </Typography>
               <Box>
-                <Stack direction="row" alignItems="center" gap={1} mb={0.5}>
-                  <Chip
-                    label={`${t.home.wordRoot}: ${word.root}`}
-                    size="small"
-                    variant="outlined"
-                    color="primary"
-                    sx={{ fontSize: '0.7rem', fontFamily: '"Amiri", serif', direction: 'rtl' }}
-                  />
-                </Stack>
+                {word?.root && (
+                  <Stack direction="row" alignItems="center" gap={1} mb={0.5}>
+                    <Chip
+                      label={`${t.home.wordRoot}: ${word.root}`}
+                      size="small"
+                      variant="outlined"
+                      color="primary"
+                      sx={{ fontSize: '0.7rem', fontFamily: '"Amiri", serif', direction: 'rtl' }}
+                    />
+                  </Stack>
+                )}
                 <Typography variant="h6" fontWeight={700}>
-                  {lang === 'bs' ? word.bs : word.en}
+                  {word ? (lang === 'bs' ? word.bs : word.en) : ''}
                 </Typography>
               </Box>
             </Box>

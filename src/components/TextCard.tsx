@@ -27,6 +27,7 @@ import { TranslationPanel } from './TranslationPanel'
 import { DifficultyRating } from './DifficultyRating'
 import { useProgress } from '@/hooks/useProgress'
 import { useSavedWords } from '@/hooks/useSavedWords'
+import { useDictionary } from '@/context/DictionaryContext'
 import { useI18n } from '@/i18n'
 
 const PIN_KEY = 'fushalab_pin_translation'
@@ -45,7 +46,8 @@ interface Props {
 export function TextCard({ item }: Props) {
   const { t, lang } = useI18n()
   const { rate, getRating } = useProgress()
-  const { isSaved, toggleSave } = useSavedWords()
+  const { lookup } = useDictionary()
+  const { isSaved, toggleSave } = useSavedWords(lookup)
   const rating = getRating(item.id)
 
   const [showHarakat, setShowHarakat] = useState(true)
