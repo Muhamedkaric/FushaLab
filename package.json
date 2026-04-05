@@ -12,7 +12,9 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "typecheck": "tsc --noEmit",
-    "precommit": "prettier --write src && eslint src --fix && tsc --noEmit && pnpm run build"
+    "precommit": "prettier --write src && eslint src --fix && tsc --noEmit && pnpm run build",
+    "dict:merge": "node scripts/merge-dictionary-lemmas.cjs",
+    "dict:standardize": "node scripts/standardize-dictionary.cjs"
   },
   "dependencies": {
     "@emotion/cache": "^11.14.0",

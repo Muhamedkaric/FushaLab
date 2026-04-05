@@ -151,3 +151,28 @@ Single form only — no slash, no second form:
 - Multiple plurals — pick one, the most common/irregular one
 - Construct state (إضافة) or definite forms (`الـ`)
 - Transliteration
+
+---
+
+## Maintenance scripts
+
+Two scripts in `scripts/` keep the dictionary clean. Run them from the repo root with `pnpm`.
+
+### `pnpm dict:merge`
+
+Merges duplicate entries where a base lemma (`أَبْيَضُ`) and its combined form (`أَبْيَضُ / بَيْضَاءُ`) exist as separate keys. Always promotes the combined form as canonical and updates all content files.
+
+- Uses root + meaning overlap to decide automatically
+- `FORCE_SKIP` / `FORCE_MERGE` sets in the script override the heuristic for known edge cases
+- Preview without writing: `node scripts/merge-dictionary-lemmas.cjs --dry-run`
+
+### `pnpm dict:standardize`
+
+Batch-fixes four categories of structural issues:
+
+1. **Hamzat al-wasl** — bare `ا` (U+0627) → `اِ` (with kasra) on Form VIII/X verbs and similar nouns; merges with any existing `اِ`-form entry
+2. **Definite article in key** — strips `الـ` from lemmas that shouldn't have it; keeps a small `DEFINITE_KEEP` whitelist for inherently-definite words
+3. **Multiple plural variants** — deletes the redundant entry, keeps the broken/irregular plural as canonical
+4. **Spelling variants** — removes non-standard duplicate spellings
+
+Both scripts also patch every `public/data/**/*.json` content file to use the new canonical lemma string.
