@@ -7,7 +7,7 @@
     "generate-exercises": "tsx generate-exercises.ts",
     "validate": "tsx validate.ts",
     "build-dictionary": "tsx backfill-lemma.ts",
-    "backfill-annotations": "tsx backfill-word-annotations.ts",
+    "backfill-annotations": "tsx backfill-word-annotations.ts && tsx rebuild-dictionary.ts",
     "rebuild-dictionary": "tsx rebuild-dictionary.ts"
   },
   "devDependencies": {
