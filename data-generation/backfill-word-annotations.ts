@@ -1,8 +1,10 @@
 /**
- * Backfill word annotations for existing B2/C1/C2 content files.
+ * Backfill word annotations for existing B1/B2/C1/C2 content files.
  *
- * Reads all files without word annotations, sends sentences to Gemini in batches
- * (multiple sentences per API call), writes word annotations back to files.
+ * - B2/C1/C2: no words[] at all → annotate from scratch
+ * - B1: has words[] but incomplete (3-6 word cap left gaps) → re-annotate fully
+ *
+ * Sends sentences to Gemini in batches (multiple per API call).
  * Saves progress to a JSON file so it's safe to interrupt and re-run.
  *
  * Run from data-generation dir:
@@ -55,7 +57,7 @@ const PROGRESS_FILE = resolve(import.meta.dirname, 'backfill-annotations-progres
 const MODEL = process.env['READING_MODEL'] ?? 'gemini-2.0-flash'
 const SENTENCES_PER_BATCH = 8 // sentences per API call
 
-const LEVELS = ['B2', 'C1', 'C2']
+const LEVELS = ['B1', 'B2', 'C1', 'C2']
 
 // ── Key rotation ──────────────────────────────────────────────────────────────
 
@@ -170,7 +172,7 @@ RULES:
 - root: trilateral root with spaces between letters — e.g. "م د ن" — omit if no clear trilateral root (borrowed words, particles)
 - bs: Bosnian meaning of this specific word
 - en: English meaning of this specific word
-- Aim for 3–6 annotated words per sentence
+- Annotate ALL content words in the sentence — do NOT skip any nouns, verbs, adjectives, or adverbs
 
 Return ONLY a valid JSON array with one object per sentence, in order:
 [
@@ -263,11 +265,14 @@ console.log(`   Batch  : ${SENTENCES_PER_BATCH} sentences per API call\n`)
 const done = loadProgress()
 const allFiles = collectFilesSync()
 
-// Filter files that need annotation (any sentence missing words)
+// Filter files that need annotation:
+// - B2/C1/C2: any sentence missing words entirely
+// - B1: re-annotate all (existing annotations were capped at 3-6 words, many gaps remain)
 const toProcess = allFiles.filter(f => {
   if (done.has(f)) return false
   try {
     const item = JSON.parse(readFileSync(f, 'utf-8')) as ContentItem
+    if (item.level === 'B1') return true // always re-annotate B1 fully
     return item.sentences.some(s => !s.words || s.words.length === 0)
   } catch {
     return false
@@ -299,7 +304,12 @@ for (const f of toProcess) {
     fileItems.set(f, item)
     for (let i = 0; i < item.sentences.length; i++) {
       const s = item.sentences[i]
-      if (!s.words || s.words.length === 0) {
+      const needsAnnotation = item.level === 'B1'
+        ? true  // always re-annotate B1 sentences fully
+        : (!s.words || s.words.length === 0)
+      if (needsAnnotation) {
+        // Clear existing words so they get replaced, not merged
+        item.sentences[i].words = undefined
         pendingRefs.push({ file: f, sentIdx: i, arabic: s.arabic, bs: s.translation, en: s.translationEn })
       }
     }
