@@ -6,27 +6,245 @@
     {
       "arabic": "يَحْتَلُّ الشَّايُ مَكَانَةً مَرْكَزِيَّةً فِي طُقُوسِ الضِّيَافَةِ فِي بِلَادِ الشَّامِ وَشِمَالِ أَفْرِيقِيَا، حَيْثُ يُقَدَّمُ عَادَةً فِي أَكْوَابٍ صَغِيرَةٍ مَعَ نَعْنَاعٍ طَازَجٍ أَوْ زَعْتَرٍ مُعَطَّرٍ.",
       "translation": "Čaj zauzima središnje mjesto u ritualima gostoprimstva u Levantu i sjevernoj Africi, gdje se obično poslužuje u malim čašicama s mladom metvicom ili mirisnim timijanom.",
-      "translationEn": "Tea holds a central place in hospitality rituals in the Levant and North Africa, where it is usually served in small glasses with fresh mint or fragrant thyme."
+      "translationEn": "Tea holds a central place in hospitality rituals in the Levant and North Africa, where it is usually served in small glasses with fresh mint or fragrant thyme.",
+      "words": [
+        {
+          "w": "يَحْتَلُّ",
+          "lemma": "احْتَلَّ يَحْتَلُّ",
+          "root": "ح ل ل",
+          "bs": "zauzima",
+          "en": "holds"
+        },
+        {
+          "w": "مَكَانَةً",
+          "lemma": "مَكَانَةٌ / مَكَانَاتٌ",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "place"
+        },
+        {
+          "w": "طُقُوسِ",
+          "lemma": "طَقْسٌ / طُقُوسٌ",
+          "bs": "rituali",
+          "en": "rituals"
+        },
+        {
+          "w": "الضِّيَافَةِ",
+          "lemma": "ضِيَافَةٌ",
+          "root": "ض ي ف",
+          "bs": "gostoprimstvo",
+          "en": "hospitality"
+        },
+        {
+          "w": "صَغِيرَةٍ",
+          "lemma": "صَغِيرٌ",
+          "root": "ص غ ر",
+          "bs": "malim",
+          "en": "small"
+        },
+        {
+          "w": "مُعَطَّرٍ",
+          "lemma": "مُعَطَّرٌ",
+          "root": "ع ط ر",
+          "bs": "mirisnim",
+          "en": "fragrant"
+        }
+      ]
     },
     {
       "arabic": "يُمَثِّلُ تَقْدِيمُ الشَّايِ لِلضَّيْفِ فِعْلًا رَمْزِيًّا يُعَبِّرُ عَنِ التَّرْحِيبِ وَالِاحْتِرَامِ وَالِاسْتِعْدَادِ لِلِاسْتِمَاعِ.",
       "translation": "Posluživanje čaja gostu simboličan je čin koji izražava dobrodošlicu, poštovanje i spremnost da se sasluša.",
-      "translationEn": "Serving tea to a guest is a symbolic act that expresses welcome, respect, and readiness to listen."
+      "translationEn": "Serving tea to a guest is a symbolic act that expresses welcome, respect, and readiness to listen.",
+      "words": [
+        {
+          "w": "يُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ",
+          "root": "م ث ل",
+          "bs": "predstavlja",
+          "en": "represents"
+        },
+        {
+          "w": "تَقْدِيمُ",
+          "lemma": "تَقْدِيمٌ / تَقْدِيمَاتٌ",
+          "root": "ق د م",
+          "bs": "posluživanje",
+          "en": "serving"
+        },
+        {
+          "w": "رَمْزِيًّا",
+          "lemma": "رَمْزِيٌّ",
+          "root": "ر م ز",
+          "bs": "simboličan",
+          "en": "symbolic"
+        },
+        {
+          "w": "يُعَبِّرُ",
+          "lemma": "عَبَّرَ يُعَبِّرُ",
+          "root": "ع ب ر",
+          "bs": "izražava",
+          "en": "expresses"
+        },
+        {
+          "w": "الِاحْتِرَامِ",
+          "lemma": "احْتِرَامٌ",
+          "root": "ح ر م",
+          "bs": "poštovanje",
+          "en": "respect"
+        },
+        {
+          "w": "الِاسْتِعْدَادِ",
+          "lemma": "اسْتِعْدَادٌ / اسْتِعْدَادَاتٌ",
+          "root": "ع د د",
+          "bs": "spremnost",
+          "en": "readiness"
+        }
+      ]
     },
     {
       "arabic": "وَفِي الْمَغْرِبِ، أَصْبَحَتْ طَقْسَةُ تَقْدِيمِ الشَّايِ الْأَخْضَرِ بِالنَّعْنَاعِ فَنًّا بِذَاتِهِ يَكْشِفُ عَنِ الْمَهَارَةِ وَالِاعْتِنَاءِ بِالتَّفَاصِيلِ.",
       "translation": "U Maroku je ritual posluživanja zelenog čaja s metvicom sam po sebi postalo umijeće koje otkriva vještinu i brigu o detaljima.",
-      "translationEn": "In Morocco, the ritual of serving green tea with mint has itself become an art form that reveals skill and attention to detail."
+      "translationEn": "In Morocco, the ritual of serving green tea with mint has itself become an art form that reveals skill and attention to detail.",
+      "words": [
+        {
+          "w": "طَقْسَةُ",
+          "lemma": "طَقْسَةٌ / طَقْسَاتٌ",
+          "bs": "ritual",
+          "en": "ritual"
+        },
+        {
+          "w": "الْأَخْضَرِ",
+          "lemma": "أَخْضَرُ",
+          "root": "خ ض ر",
+          "bs": "zeleni",
+          "en": "green"
+        },
+        {
+          "w": "يَكْشِفُ",
+          "lemma": "كَشَفَ يَكْشِفُ",
+          "root": "ك ش ف",
+          "bs": "otkriva",
+          "en": "reveals"
+        },
+        {
+          "w": "الْمَهَارَةِ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ",
+          "root": "م ه ر",
+          "bs": "vještinu",
+          "en": "skill"
+        },
+        {
+          "w": "الِاعْتِنَاءِ",
+          "lemma": "اعْتِنَاءٌ",
+          "root": "ع ن ي",
+          "bs": "brigu",
+          "en": "care"
+        },
+        {
+          "w": "التَّفَاصِيلِ",
+          "lemma": "تَفْصِيلٌ / تَفَاصِيلُ",
+          "root": "ف ص ل",
+          "bs": "detaljima",
+          "en": "details"
+        }
+      ]
     },
     {
       "arabic": "يَرَى عُلَمَاءُ الِأَنْثِرُوبُولُوجِيَا أَنَّ هَذِهِ الطُّقُوسَ تُعَزِّزُ الرَّوَابِطَ الِاجْتِمَاعِيَّةَ وَتَمُدُّ جُسُورًا بَيْنَ الْأَجْيَالِ.",
       "translation": "Antropolozi smatraju da ovi rituali jačaju društvene veze i grade mostove između generacija.",
-      "translationEn": "Anthropologists believe that these rituals strengthen social bonds and build bridges between generations."
+      "translationEn": "Anthropologists believe that these rituals strengthen social bonds and build bridges between generations.",
+      "words": [
+        {
+          "w": "عُلَمَاءُ",
+          "lemma": "عَالِمٌ / عُلَمَاءُ",
+          "root": "ع ل م",
+          "bs": "naučnici",
+          "en": "scientists"
+        },
+        {
+          "w": "تُعَزِّزُ",
+          "lemma": "عَزَّزَ يُعَزِّزُ",
+          "root": "ع ز ز",
+          "bs": "jačaju",
+          "en": "strengthen"
+        },
+        {
+          "w": "الرَّوَابِطَ",
+          "lemma": "رَابِطَةٌ / رَوَابِطُ",
+          "root": "ر ب ط",
+          "bs": "veze",
+          "en": "bonds"
+        },
+        {
+          "w": "الِاجْتِمَاعِيَّةَ",
+          "lemma": "اجْتِمَاعِيٌّ",
+          "root": "ج م ع",
+          "bs": "društvene",
+          "en": "social"
+        },
+        {
+          "w": "جُسُورًا",
+          "lemma": "جِسْرٌ / جُسُورٌ",
+          "root": "ج س ر",
+          "bs": "mostove",
+          "en": "bridges"
+        },
+        {
+          "w": "الْأَجْيَالِ",
+          "lemma": "جِيلٌ / أَجْيَالٌ",
+          "root": "ج ي ل",
+          "bs": "generacija",
+          "en": "generations"
+        }
+      ]
     },
     {
       "arabic": "وَلَا يَزَالُ الشَّايُ حَتَّى الْيَوْمَ رَمْزًا لِلتَّوَاصُلِ الْإِنْسَانِيِّ وَسَطَ مَوْجَةِ الِاتِّصَالَاتِ الرَّقْمِيَّةِ الْمُتَسَارِعَةِ.",
       "translation": "Čaj i danas ostaje simbolom međuljudske komunikacije usred ubrzanog vala digitalnih komunikacija.",
-      "translationEn": "Tea remains to this day a symbol of human communication amidst the rapid wave of digital communications."
+      "translationEn": "Tea remains to this day a symbol of human communication amidst the rapid wave of digital communications.",
+      "words": [
+        {
+          "w": "رَمْزًا",
+          "lemma": "رَمْزٌ / رُمُوزٌ",
+          "root": "ر م ز",
+          "bs": "simbolom",
+          "en": "symbol"
+        },
+        {
+          "w": "التَّوَاصُلِ",
+          "lemma": "تَوَاصُلٌ",
+          "root": "و ص ل",
+          "bs": "komunikaciju",
+          "en": "communication"
+        },
+        {
+          "w": "الْإِنْسَانِيِّ",
+          "lemma": "إِنْسَانِيٌّ",
+          "root": "أ ن س",
+          "bs": "ljudske",
+          "en": "human"
+        },
+        {
+          "w": "مَوْجَةِ",
+          "lemma": "مَوْجَةٌ / مَوْجَاتٌ",
+          "root": "م و ج",
+          "bs": "vala",
+          "en": "wave"
+        },
+        {
+          "w": "الِاتِّصَالَاتِ",
+          "lemma": "اِتِّصَالٌ / اِتِّصَالَاتٌ",
+          "root": "و ص ل",
+          "bs": "komunikacija",
+          "en": "communications"
+        },
+        {
+          "w": "الْمُتَسَارِعَةِ",
+          "lemma": "مُتَسَارِعٌ",
+          "root": "س ر ع",
+          "bs": "ubrzanog",
+          "en": "rapid"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,7 +6,51 @@
     {
       "arabic": "يَنْعَقِدُ مَهْرَجَانُ جَرَشَ الدَّوْلِيُّ فِي الْأَرْدُنِّ سَنَوِيًّا وَيَجْمَعُ فِي رَحَابِهِ فَنَّانِينَ وَأَدَبَاءَ مِنْ أَنْحَاءِ الْعَالَمِ الْعَرَبِيِّ.",
       "translation": "Međunarodni festival Jerash u Jordanu se godišnje održava i u svom okrilju okuplja umjetnike i književnike iz cijelog arapskog svijeta.",
-      "translationEn": "The Jerash International Festival in Jordan is held annually and brings together artists and writers from across the Arab world."
+      "translationEn": "The Jerash International Festival in Jordan is held annually and brings together artists and writers from across the Arab world.",
+      "words": [
+        {
+          "w": "يَنْعَقِدُ",
+          "lemma": "انْعَقَدَ يَنْعَقِدُ",
+          "root": "ع ق د",
+          "bs": "održava se",
+          "en": "is held"
+        },
+        {
+          "w": "مَهْرَجَانُ",
+          "lemma": "مَهْرَجَانٌ / مَهْرَجَانَاتٌ",
+          "root": "ه ر ج",
+          "bs": "festival",
+          "en": "festival"
+        },
+        {
+          "w": "الدَّوْلِيُّ",
+          "lemma": "دَوْلِيٌّ",
+          "root": "د و ل",
+          "bs": "međunarodni",
+          "en": "international"
+        },
+        {
+          "w": "يَجْمَعُ",
+          "lemma": "جَمَعَ يَجْمَعُ",
+          "root": "ج م ع",
+          "bs": "okuplja",
+          "en": "brings together"
+        },
+        {
+          "w": "فَنَّانِينَ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ",
+          "root": "ف ن ن",
+          "bs": "umjetnike",
+          "en": "artists"
+        },
+        {
+          "w": "أَدَبَاءَ",
+          "lemma": "أَدِيبٌ / أَدَبَاءُ",
+          "root": "أ د ب",
+          "bs": "književnike",
+          "en": "writers"
+        }
+      ]
     }
   ],
   "metadata": {

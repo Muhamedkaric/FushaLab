@@ -6,7 +6,51 @@
     {
       "arabic": "يَحْتَلُّ مَفْهُومُ الْكَرَمِ مَكَانَةً مَرْكَزِيَّةً فِي الْمَنْظُومَةِ الْقِيَمِيَّةِ الْعَرَبِيَّةِ وَيُعَدُّ مَصْدَرَ فَخْرٍ وَاعْتِزَازٍ لِلْفَرْدِ وَالْجَمَاعَةِ.",
       "translation": "Koncept velikodušnosti zauzima centralno mjesto u arapskom sustavu vrijednosti i smatra se izvorom ponosa za pojedinca i zajednicu.",
-      "translationEn": "The concept of generosity occupies a central place in the Arab value system and is considered a source of pride for both the individual and the community."
+      "translationEn": "The concept of generosity occupies a central place in the Arab value system and is considered a source of pride for both the individual and the community.",
+      "words": [
+        {
+          "w": "يَحْتَلُّ",
+          "lemma": "احْتَلَّ يَحْتَلُّ",
+          "root": "ح ل ل",
+          "bs": "zauzima",
+          "en": "occupies"
+        },
+        {
+          "w": "مَفْهُومُ",
+          "lemma": "مَفْهُومٌ / مَفَاهِيمُ",
+          "root": "ف ه م",
+          "bs": "koncept",
+          "en": "concept"
+        },
+        {
+          "w": "الْكَرَمِ",
+          "lemma": "كَرَمٌ",
+          "root": "ك ر م",
+          "bs": "velikodušnost",
+          "en": "generosity"
+        },
+        {
+          "w": "مَرْكَزِيَّةً",
+          "lemma": "مَرْكَزِيٌّ",
+          "root": "ر ك ز",
+          "bs": "centralno",
+          "en": "central"
+        },
+        {
+          "w": "مَصْدَرَ",
+          "lemma": "مَصْدَرٌ / مَصَادِرُ",
+          "root": "ص د ر",
+          "bs": "izvor",
+          "en": "source"
+        },
+        {
+          "w": "الْجَمَاعَةِ",
+          "lemma": "جَمَاعَةٌ / جَمَاعَاتٌ",
+          "root": "ج م ع",
+          "bs": "zajednicu",
+          "en": "community"
+        }
+      ]
     }
   ],
   "metadata": {

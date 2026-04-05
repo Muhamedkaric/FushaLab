@@ -6,7 +6,44 @@
     {
       "arabic": "أَسْهَمَتِ الْحَضَارَةُ الْعَرَبِيَّةُ الْإِسْلَامِيَّةُ إِسْهَامًا بَارِزًا فِي تَطَوُّرِ الْعُلُومِ وَالْفَلْسَفَةِ وَالْفُنُونِ خِلَالَ الْعُصُورِ الْوُسْطَى.",
       "translation": "Arapsko-islamska civilizacija dala je značajan doprinos razvoju nauka, filozofije i umjetnosti tokom srednjeg vijeka.",
-      "translationEn": "The Arab-Islamic civilisation made a notable contribution to the development of sciences, philosophy, and the arts during the Middle Ages."
+      "translationEn": "The Arab-Islamic civilisation made a notable contribution to the development of sciences, philosophy, and the arts during the Middle Ages.",
+      "words": [
+        {
+          "w": "أَسْهَمَتِ",
+          "lemma": "أَسْهَمَ يُسْهِمُ",
+          "root": "س ه م",
+          "bs": "doprinijela je",
+          "en": "contributed"
+        },
+        {
+          "w": "الْحَضَارَةُ",
+          "lemma": "حَضَارَةٌ / حَضَارَاتٌ",
+          "root": "ح ض ر",
+          "bs": "civilizacija",
+          "en": "civilisation"
+        },
+        {
+          "w": "بَارِزًا",
+          "lemma": "بَارِزٌ",
+          "root": "ب ر ز",
+          "bs": "značajan",
+          "en": "notable"
+        },
+        {
+          "w": "تَطَوُّرِ",
+          "lemma": "تَطَوُّرٌ / تَطَوُّرَاتٌ",
+          "root": "ط و ر",
+          "bs": "razvoju",
+          "en": "development"
+        },
+        {
+          "w": "الْعُلُومِ",
+          "lemma": "عِلْمٌ / عُلُومٌ",
+          "root": "ع ل م",
+          "bs": "nauka",
+          "en": "sciences"
+        }
+      ]
     }
   ],
   "metadata": {

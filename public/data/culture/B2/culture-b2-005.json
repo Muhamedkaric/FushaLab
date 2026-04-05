@@ -6,7 +6,51 @@
     {
       "arabic": "يَتَمَيَّزُ فَنُّ الرَّسْمِ عَلَى الزُّجَاجِ وَالنَّقْشِ عَلَى النُّحَاسِ بِمَكَانَةٍ بَارِزَةٍ فِي تُرَاثِ الْحِرَفِ الْيَدَوِيَّةِ الْعَرَبِيَّةِ.",
       "translation": "Umijeće slikarstva na staklu i graviranja na bakru zauzimaju istaknuto mjesto u nasljeđu arapskih zanata.",
-      "translationEn": "The art of glass painting and copper engraving hold a prominent place in the heritage of Arab handicrafts."
+      "translationEn": "The art of glass painting and copper engraving hold a prominent place in the heritage of Arab handicrafts.",
+      "words": [
+        {
+          "w": "يَتَمَيَّزُ",
+          "lemma": "تَمَيَّزَ يَتَمَيَّزُ",
+          "root": "م ي ز",
+          "bs": "odlikuje se",
+          "en": "is characterized"
+        },
+        {
+          "w": "الرَّسْمِ",
+          "lemma": "رَسْمٌ / رُسُومٌ",
+          "root": "ر س م",
+          "bs": "slikarstvo",
+          "en": "painting"
+        },
+        {
+          "w": "الزُّجَاجِ",
+          "lemma": "زُجَاجٌ",
+          "root": "ز ج ج",
+          "bs": "staklo",
+          "en": "glass"
+        },
+        {
+          "w": "النَّقْشِ",
+          "lemma": "نَقْشٌ / نُقُوشٌ",
+          "root": "ن ق ش",
+          "bs": "graviranje",
+          "en": "engraving"
+        },
+        {
+          "w": "تُرَاثِ",
+          "lemma": "تُرَاثٌ",
+          "root": "و ر ث",
+          "bs": "nasljeđu",
+          "en": "heritage"
+        },
+        {
+          "w": "الْحِرَفِ",
+          "lemma": "حِرْفَةٌ / حِرَفٌ",
+          "root": "ح ر ف",
+          "bs": "zanata",
+          "en": "handicrafts"
+        }
+      ]
     }
   ],
   "metadata": {

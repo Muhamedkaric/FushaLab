@@ -6,27 +6,246 @@
     {
       "arabic": "تَحْتَلُّ رِيَاضَةُ الْفُرُوسِيَّةِ مَكَانَةً خَاصَّةً فِي الثَّقَافَةِ الْعَرَبِيَّةِ، وَتَرْتَبِطُ ارْتِبَاطًا وَثِيقًا بِمَنْظُومَةِ قِيَمِ الشَّجَاعَةِ وَالشَّهَامَةِ وَالشَّرَفِ.",
       "translation": "Jahanje konja zauzima posebno mjesto u arapskoj kulturi i usko je povezano s vrijednosnim sustavom hrabrosti, plemenitosti i časti.",
-      "translationEn": "Horsemanship holds a special place in Arab culture, closely tied to the value system of courage, nobility, and honour."
+      "translationEn": "Horsemanship holds a special place in Arab culture, closely tied to the value system of courage, nobility, and honour.",
+      "words": [
+        {
+          "w": "تَحْتَلُّ",
+          "lemma": "احْتَلَّ يَحْتَلُّ",
+          "root": "ح ل ل",
+          "bs": "zauzima",
+          "en": "occupies"
+        },
+        {
+          "w": "رِيَاضَةُ",
+          "lemma": "رِيَاضَةٌ / رِيَاضَاتٌ",
+          "root": "ر و ض",
+          "bs": "sport",
+          "en": "sport"
+        },
+        {
+          "w": "الْفُرُوسِيَّةِ",
+          "lemma": "فُرُوسِيَّةٌ",
+          "root": "ف ر س",
+          "bs": "jahanje konja",
+          "en": "horsemanship"
+        },
+        {
+          "w": "مَكَانَةً",
+          "lemma": "مَكَانَةٌ / مَكَانَاتٌ",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "place"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ",
+          "root": "ث ق ف",
+          "bs": "kultura",
+          "en": "culture"
+        },
+        {
+          "w": "الشَّجَاعَةِ",
+          "lemma": "شَجَاعَةٌ",
+          "root": "ش ج ع",
+          "bs": "hrabrost",
+          "en": "courage"
+        }
+      ]
     },
     {
       "arabic": "تَعْكِسُ قَصَائِدُ الْفَرَسِ فِي الشِّعْرِ الْعَرَبِيِّ الْقَدِيمِ مَدَى الرَّابِطَةِ الِاسْتِثْنَائِيَّةِ الَّتِي كَانَتْ تَجْمَعُ الْفَارِسَ بِجَوَادِهِ.",
       "translation": "Pjesme o konju u staroj arapskoj poeziji odražavaju iznimnu vezu koja je spajala jahača s njegovim konjem.",
-      "translationEn": "Poems about the horse in classical Arabic poetry reflect the exceptional bond that united the rider with his steed."
+      "translationEn": "Poems about the horse in classical Arabic poetry reflect the exceptional bond that united the rider with his steed.",
+      "words": [
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ",
+          "root": "ع ك س",
+          "bs": "odražava",
+          "en": "reflects"
+        },
+        {
+          "w": "قَصَائِدُ",
+          "lemma": "قَصِيدَةٌ / قَصَائِدُ",
+          "root": "ق ص د",
+          "bs": "pjesme",
+          "en": "poems"
+        },
+        {
+          "w": "الشِّعْرِ",
+          "lemma": "شِعْرٌ / أَشْعَارٌ",
+          "root": "ش ع ر",
+          "bs": "poezija",
+          "en": "poetry"
+        },
+        {
+          "w": "الرَّابِطَةِ",
+          "lemma": "رَابِطَةٌ / رَوَابِطُ",
+          "root": "ر ب ط",
+          "bs": "veza",
+          "en": "bond"
+        },
+        {
+          "w": "الِاسْتِثْنَائِيَّةِ",
+          "lemma": "اِسْتِثْنَائِيٌّ",
+          "root": "ث ن ي",
+          "bs": "iznimna",
+          "en": "exceptional"
+        },
+        {
+          "w": "الْفَارِسَ",
+          "lemma": "فَارِسٌ / فُرْسَانٌ",
+          "root": "ف ر س",
+          "bs": "jahač",
+          "en": "rider"
+        }
+      ]
     },
     {
       "arabic": "وَمَا زَالَتِ الْمَهْرَجَانَاتُ الَّتِي تُقَامُ لِعُرُوضِ الْخَيْلِ فِي دُوَلِ الْخَلِيجِ تَسْتَقْطِبُ جُمُوعًا غَفِيرَةً مِنَ الْمُعْجَبِينَ وَالْهُوَاةِ.",
       "translation": "Festivali posvećeni konjskim nastupima u državama Zaljeva i dalje privlače ogromne mase obožavatelja i zaljubljenika.",
-      "translationEn": "Festivals dedicated to equestrian displays in the Gulf states still attract large crowds of admirers and enthusiasts."
+      "translationEn": "Festivals dedicated to equestrian displays in the Gulf states still attract large crowds of admirers and enthusiasts.",
+      "words": [
+        {
+          "w": "الْمَهْرَجَانَاتُ",
+          "lemma": "مَهْرَجَانٌ / مَهْرَجَانَاتٌ",
+          "bs": "festivali",
+          "en": "festivals"
+        },
+        {
+          "w": "عُرُوضِ",
+          "lemma": "عَرْضٌ / عُرُوضٌ",
+          "root": "ع ر ض",
+          "bs": "nastupi",
+          "en": "displays"
+        },
+        {
+          "w": "تَسْتَقْطِبُ",
+          "lemma": "اِسْتَقْطَبَ يَسْتَقْطِبُ",
+          "root": "ق ط ب",
+          "bs": "privlači",
+          "en": "attracts"
+        },
+        {
+          "w": "جُمُوعًا",
+          "lemma": "جَمْعٌ / جُمُوعٌ",
+          "root": "ج م ع",
+          "bs": "mase",
+          "en": "crowds"
+        },
+        {
+          "w": "الْمُعْجَبِينَ",
+          "lemma": "مُعْجَبٌ / مُعْجَبُونَ",
+          "root": "ع ج ب",
+          "bs": "obožavatelji",
+          "en": "admirers"
+        },
+        {
+          "w": "الْهُوَاةِ",
+          "lemma": "هَاوٍ / هُوَاةٌ",
+          "root": "ه و ي",
+          "bs": "zaljubljenici",
+          "en": "enthusiasts"
+        }
+      ]
     },
     {
       "arabic": "وَتُوَثِّقُ سِجِلَّاتُ النَّسَبِ الْخَاصَّةُ بِالْخَيْلِ الْعَرَبِيِّ الْأَصِيلِ تَارِيخًا مُمْتَدًّا لِأَلْفِ سَنَةٍ مِنَ الِاهْتِمَامِ وَالرِّعَايَةِ وَالتَّنَافُسِ.",
       "translation": "Rodovske matice arapskog čistokrvnog konja dokumentiraju historiju dugu hiljadu godina puna brige, uzgoja i takmičenja.",
-      "translationEn": "The genealogical records of the purebred Arabian horse document a history spanning a thousand years of care, breeding, and competition."
+      "translationEn": "The genealogical records of the purebred Arabian horse document a history spanning a thousand years of care, breeding, and competition.",
+      "words": [
+        {
+          "w": "تُوَثِّقُ",
+          "lemma": "وَثَّقَ يُوَثِّقُ",
+          "root": "و ث ق",
+          "bs": "dokumentira",
+          "en": "documents"
+        },
+        {
+          "w": "سِجِلَّاتُ",
+          "lemma": "سِجِلٌّ / سِجِلَّاتٌ",
+          "root": "س ج ل",
+          "bs": "matice",
+          "en": "records"
+        },
+        {
+          "w": "النَّسَبِ",
+          "lemma": "نَسَبٌ / أَنْسَابٌ",
+          "root": "ن س ب",
+          "bs": "rodoslovlje",
+          "en": "lineage"
+        },
+        {
+          "w": "الْأَصِيلِ",
+          "lemma": "أَصِيلٌ",
+          "root": "أ ص ل",
+          "bs": "čistokrvni",
+          "en": "purebred"
+        },
+        {
+          "w": "الرِّعَايَةِ",
+          "lemma": "رِعَايَةٌ",
+          "root": "ر ع ي",
+          "bs": "uzgoj",
+          "en": "breeding"
+        },
+        {
+          "w": "التَّنَافُسِ",
+          "lemma": "تَنَافُسٌ",
+          "root": "ن ف س",
+          "bs": "takmičenje",
+          "en": "competition"
+        }
+      ]
     },
     {
       "arabic": "يَتَحَوَّلُ هَذَا الْإِرْثُ الْيَوْمَ إِلَى صِنَاعَةٍ اقْتِصَادِيَّةٍ مُتَنَامِيَةٍ تَشْمَلُ سِبَاقَاتِ الْخَيْلِ الدَّوْلِيَّةَ وَتِجَارَةَ الْأَحْصِنَةِ بِمَلَايِينَ الدَّوْلَارَاتِ.",
       "translation": "Ova baština danas se pretvara u rastuću ekonomsku industriju koja obuhvaća međunarodne utrke konja i trgovinu konjima vrijednu milijune dolara.",
-      "translationEn": "This heritage is today transforming into a growing economic industry encompassing international horse racing and horse trading worth millions of dollars."
+      "translationEn": "This heritage is today transforming into a growing economic industry encompassing international horse racing and horse trading worth millions of dollars.",
+      "words": [
+        {
+          "w": "يَتَحَوَّلُ",
+          "lemma": "تَحَوَّلَ يَتَحَوَّلُ",
+          "root": "ح و ل",
+          "bs": "pretvara se",
+          "en": "transforms"
+        },
+        {
+          "w": "الْإِرْثُ",
+          "lemma": "إِرْثٌ",
+          "root": "و ر ث",
+          "bs": "baština",
+          "en": "heritage"
+        },
+        {
+          "w": "صِنَاعَةٍ",
+          "lemma": "صِنَاعَةٌ / صِنَاعَاتٌ",
+          "root": "ص ن ع",
+          "bs": "industrija",
+          "en": "industry"
+        },
+        {
+          "w": "اقْتِصَادِيَّةٍ",
+          "lemma": "اِقْتِصَادِيٌّ",
+          "root": "ق ص د",
+          "bs": "ekonomska",
+          "en": "economic"
+        },
+        {
+          "w": "سِبَاقَاتِ",
+          "lemma": "سِبَاقٌ / سِبَاقَاتٌ",
+          "root": "س ب ق",
+          "bs": "utrke",
+          "en": "races"
+        },
+        {
+          "w": "تِجَارَةَ",
+          "lemma": "تِجَارَةٌ",
+          "root": "ت ج ر",
+          "bs": "trgovina",
+          "en": "trade"
+        }
+      ]
     }
   ],
   "metadata": {

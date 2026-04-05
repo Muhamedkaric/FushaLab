@@ -6,7 +6,44 @@
     {
       "arabic": "تَتَنَوَّعُ الْمَطَابِخُ الْعَرَبِيَّةُ تَنَوُّعًا كَبِيرًا مِنْ بِلَادٍ إِلَى أُخْرَى، وَإِنْ كَانَتْ تَتَقَاسَمُ مُكَوِّنَاتٍ أَسَاسِيَّةً كَالزَّيْتُونِ وَالزَّعْتَرِ وَالتَّوَابِلِ الْعَطِرَةِ.",
       "translation": "Arapske kuhinje se znatno razlikuju od jedne do druge zemlje, premda dijele osnovne sastojke poput masline, timijana i mirisnih začina.",
-      "translationEn": "Arab cuisines vary greatly from one country to another, though they share fundamental ingredients such as olives, thyme and aromatic spices."
+      "translationEn": "Arab cuisines vary greatly from one country to another, though they share fundamental ingredients such as olives, thyme and aromatic spices.",
+      "words": [
+        {
+          "w": "تَتَنَوَّعُ",
+          "lemma": "تَنَوَّعَ يَتَنَوَّعُ",
+          "root": "ن و ع",
+          "bs": "razlikuju se",
+          "en": "vary"
+        },
+        {
+          "w": "الْمَطَابِخُ",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ",
+          "root": "ط ب خ",
+          "bs": "kuhinje",
+          "en": "cuisines"
+        },
+        {
+          "w": "مُكَوِّنَاتٍ",
+          "lemma": "مُكَوِّنٌ / مُكَوِّنَاتٌ",
+          "root": "ك و ن",
+          "bs": "sastojke",
+          "en": "ingredients"
+        },
+        {
+          "w": "أَسَاسِيَّةً",
+          "lemma": "أَسَاسِيٌّ",
+          "root": "أ س س",
+          "bs": "osnovne",
+          "en": "fundamental"
+        },
+        {
+          "w": "التَّوَابِلِ",
+          "lemma": "تَابِلٌ / تَوَابِلُ",
+          "root": "ت ب ل",
+          "bs": "začina",
+          "en": "spices"
+        }
+      ]
     }
   ],
   "metadata": {

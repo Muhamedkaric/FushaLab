@@ -6,7 +6,51 @@
     {
       "arabic": "تُعَبِّرُ الْأَمْثَالُ الشَّعْبِيَّةُ الْعَرَبِيَّةُ عَنْ حِكْمَةِ الْأَجْدَادِ وَتُلَخِّصُ تَجَارِبَ الْحَيَاةِ فِي صِيَغٍ مَوْجَزَةٍ وَبَلِيغَةٍ.",
       "translation": "Arapske narodne poslovice izražavaju mudrost predaka i sažimaju životna iskustva u konciznim i rječitim formama.",
-      "translationEn": "Arabic folk proverbs express the wisdom of ancestors and summarise life's experiences in concise and eloquent formulas."
+      "translationEn": "Arabic folk proverbs express the wisdom of ancestors and summarise life's experiences in concise and eloquent formulas.",
+      "words": [
+        {
+          "w": "تُعَبِّرُ",
+          "lemma": "عَبَّرَ يُعَبِّرُ",
+          "root": "ع ب ر",
+          "bs": "izražavaju",
+          "en": "express"
+        },
+        {
+          "w": "الْأَمْثَالُ",
+          "lemma": "مَثَلٌ / أَمْثَالٌ",
+          "root": "م ث ل",
+          "bs": "poslovice",
+          "en": "proverbs"
+        },
+        {
+          "w": "حِكْمَةِ",
+          "lemma": "حِكْمَةٌ / حِكَمٌ",
+          "root": "ح ك م",
+          "bs": "mudrost",
+          "en": "wisdom"
+        },
+        {
+          "w": "تُلَخِّصُ",
+          "lemma": "لَخَّصَ يُلَخِّصُ",
+          "root": "ل خ ص",
+          "bs": "sažimaju",
+          "en": "summarise"
+        },
+        {
+          "w": "تَجَارِبَ",
+          "lemma": "تَجْرِبَةٌ / تَجَارِبُ",
+          "root": "ج ر ب",
+          "bs": "iskustva",
+          "en": "experiences"
+        },
+        {
+          "w": "بَلِيغَةٍ",
+          "lemma": "بَلِيغٌ",
+          "root": "ب ل غ",
+          "bs": "rječit",
+          "en": "eloquent"
+        }
+      ]
     }
   ],
   "metadata": {
