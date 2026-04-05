@@ -8,10 +8,34 @@
       "translation": "Jusuf je vidio more po prvi put u životu.",
       "translationEn": "Yusuf saw the sea for the first time in his life.",
       "words": [
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
-        { "w": "الْبَحْرَ", "root": "ب ح ر", "bs": "more", "en": "sea" },
-        { "w": "مَرَّةٍ", "root": "م ر ر", "bs": "put / puta", "en": "time / occasion" },
-        { "w": "حَيَاتِهِ", "root": "ح ي ي", "bs": "njegov život", "en": "his life" }
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "الْبَحْرَ",
+          "root": "ب ح ر",
+          "bs": "more",
+          "en": "sea",
+          "lemma": "بَحْرٌ / بِحَارٌ"
+        },
+        {
+          "w": "مَرَّةٍ",
+          "root": "م ر ر",
+          "bs": "put / puta",
+          "en": "time / occasion",
+          "lemma": "مَرَّةٌ / مَرَّاتٌ"
+        },
+        {
+          "w": "حَيَاتِهِ",
+          "root": "ح ي ي",
+          "bs": "njegov život",
+          "en": "his life",
+          "lemma": "حَيَاةٌ / حَيَوَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Stajao je na plaži i gledao u plavu vodu.",
       "translationEn": "He stood on the beach and looked at the blue water.",
       "words": [
-        { "w": "وَقَفَ", "root": "و ق ف", "bs": "stajao je", "en": "stood" },
-        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plaža", "en": "beach" },
-        { "w": "الْمَاءِ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "الْأَزْرَقِ", "root": "ز ر ق", "bs": "plava", "en": "blue" }
+        {
+          "w": "وَقَفَ",
+          "root": "و ق ف",
+          "bs": "stajao je",
+          "en": "stood",
+          "lemma": "وَقَفَ يَقِفُ"
+        },
+        {
+          "w": "الشَّاطِئِ",
+          "root": "ش ط أ",
+          "bs": "plaža",
+          "en": "beach",
+          "lemma": "شَاطِئٌ / شَوَاطِئُ"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "الْأَزْرَقِ",
+          "root": "ز ر ق",
+          "bs": "plava",
+          "en": "blue",
+          "lemma": "أَزْرَقُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Valovi su bili veliki a vjetar blag.",
       "translationEn": "The waves were big and the wind was light.",
       "words": [
-        { "w": "الْمَوْجُ", "root": "م و ج", "bs": "val", "en": "wave" },
-        { "w": "كَبِيرًا", "root": "ك ب ر", "bs": "veliki", "en": "big" },
-        { "w": "الرِّيحُ", "root": "ر ي ح", "bs": "vjetar", "en": "wind" },
-        { "w": "خَفِيفَةً", "root": "خ ف ف", "bs": "blag / lagan", "en": "light / gentle" }
+        {
+          "w": "الْمَوْجُ",
+          "root": "م و ج",
+          "bs": "val",
+          "en": "wave",
+          "lemma": "مَوْجٌ / أَمْوَاجٌ"
+        },
+        {
+          "w": "كَبِيرًا",
+          "root": "ك ب ر",
+          "bs": "veliki",
+          "en": "big",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "الرِّيحُ",
+          "root": "ر ي ح",
+          "bs": "vjetar",
+          "en": "wind",
+          "lemma": "رِيحٌ / رِيَاحٌ"
+        },
+        {
+          "w": "خَفِيفَةً",
+          "root": "خ ف ف",
+          "bs": "blag / lagan",
+          "en": "light / gentle",
+          "lemma": "خَفِيفٌ"
+        }
       ]
     },
     {
@@ -41,8 +113,20 @@
       "translation": "Rekao je sebi: Kako je ovo mjesto lijepo!",
       "translationEn": "He said to himself: How beautiful this place is!",
       "words": [
-        { "w": "أَجْمَلَ", "root": "ج م ل", "bs": "najljepše", "en": "most beautiful" },
-        { "w": "الْمَكَانَ", "root": "ك و ن", "bs": "mjesto", "en": "place" }
+        {
+          "w": "أَجْمَلَ",
+          "root": "ج م ل",
+          "bs": "najljepše",
+          "en": "most beautiful",
+          "lemma": "أَجْمَلُ"
+        },
+        {
+          "w": "الْمَكَانَ",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        }
       ]
     }
   ],

@@ -23,6 +23,7 @@ import { ExerciseSessionPage } from './pages/ExerciseSessionPage'
 import { GrammarPage } from './pages/GrammarPage'
 import { GrammarLessonPage } from './pages/GrammarLessonPage'
 import { ProgressPage } from './pages/ProgressPage'
+import { SavedWordsPage } from './pages/SavedWordsPage'
 import type { Category, Level } from './types/content'
 
 export interface RouterContext {
@@ -212,6 +213,13 @@ const progressRoute = createRoute({
   component: ProgressPage,
 })
 
+// Saved Words
+const savedWordsRoute = createRoute({
+  getParentRoute: () => shellRoute,
+  path: '/words',
+  component: SavedWordsPage,
+})
+
 const routeTree = rootRoute.addChildren([
   shellRoute.addChildren([
     homeRoute,
@@ -233,6 +241,7 @@ const routeTree = rootRoute.addChildren([
     grammarRoute,
     grammarLessonRoute,
     progressRoute,
+    savedWordsRoute,
   ]),
 ])
 

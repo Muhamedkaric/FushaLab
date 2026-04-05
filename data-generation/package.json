@@ -7,7 +7,8 @@
     "generate-reading": "tsx generate-reading.ts",
     "generate-exercises": "tsx generate-exercises.ts",
     "auto-generate": "tsx generate-reading.ts",
-    "validate": "tsx validate.ts"
+    "validate": "tsx validate.ts",
+    "build-dictionary": "tsx backfill-lemma.ts"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
@@ -15,6 +16,7 @@
     "typescript": "^5.7.0"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.82.0",
     "@google/generative-ai": "^0.24.1",
     "dotenv": "^17.3.1"
   }

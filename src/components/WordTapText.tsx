@@ -1,7 +1,10 @@
 import { useState } from 'react'
-import { Box, Popover, Typography, Divider } from '@mui/material'
+import { Box, Popover, Typography, Divider, IconButton, Tooltip } from '@mui/material'
+import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder'
+import BookmarkIcon from '@mui/icons-material/Bookmark'
 import type { Sentence, WordAnnotation } from '@/types/content'
 import { toggleHarakat } from '@/utils/diacritics'
+import { useI18n } from '@/i18n'
 
 const PUNCT = /[،؟!.«»():؛\u0022\u0027]/g
 
@@ -10,8 +13,8 @@ function stripPunct(w: string) {
 }
 
 interface WordChipProps {
-  token: string       // rendered text (with or without harakat)
-  rawToken: string    // original form for lookup
+  token: string // rendered text (with or without harakat)
+  rawToken: string // original form for lookup
   annotation: WordAnnotation | null
   active: boolean
   onClick: (el: HTMLElement) => void
@@ -27,11 +30,7 @@ function WordChip({ token, annotation, active, onClick }: WordChipProps) {
         borderRadius: '3px',
         px: 0.25,
         transition: 'background-color 0.15s',
-        bgcolor: active
-          ? 'rgba(201,168,76,0.35)'
-          : annotation
-            ? 'transparent'
-            : 'transparent',
+        bgcolor: active ? 'rgba(201,168,76,0.35)' : annotation ? 'transparent' : 'transparent',
         '&:hover': annotation ? { bgcolor: 'rgba(201,168,76,0.18)' } : {},
         borderBottom: annotation ? '1px dotted' : 'none',
         borderColor: 'primary.main',
@@ -47,9 +46,19 @@ interface Props {
   fontSize: string
   showHarakat: boolean
   lang: 'bs' | 'en'
+  isSaved?: (ann: WordAnnotation) => boolean
+  onToggleSave?: (ann: WordAnnotation) => void
 }
 
-export function WordTapText({ sentence, fontSize, showHarakat, lang }: Props) {
+export function WordTapText({
+  sentence,
+  fontSize,
+  showHarakat,
+  lang,
+  isSaved,
+  onToggleSave,
+}: Props) {
+  const { t } = useI18n()
   const [activeWord, setActiveWord] = useState<string | null>(null)
   const [anchor, setAnchor] = useState<HTMLElement | null>(null)
   const [annotation, setAnnotation] = useState<WordAnnotation | null>(null)
@@ -114,7 +123,11 @@ export function WordTapText({ sentence, fontSize, showHarakat, lang }: Props) {
       <Popover
         open={Boolean(anchor)}
         anchorEl={anchor}
-        onClose={() => { setAnchor(null); setActiveWord(null); setAnnotation(null) }}
+        onClose={() => {
+          setAnchor(null)
+          setActiveWord(null)
+          setAnnotation(null)
+        }}
         anchorOrigin={{ vertical: 'top', horizontal: 'center' }}
         transformOrigin={{ vertical: 'bottom', horizontal: 'center' }}
         disableScrollLock
@@ -134,31 +147,74 @@ export function WordTapText({ sentence, fontSize, showHarakat, lang }: Props) {
       >
         {annotation && (
           <Box>
-            <Typography
+            <Box
               sx={{
-                fontFamily: '"Amiri", serif',
-                fontSize: '1.6rem',
-                direction: 'rtl',
-                textAlign: 'right',
-                lineHeight: 1.6,
-                color: 'primary.main',
-                fontWeight: 700,
+                display: 'flex',
+                alignItems: 'flex-start',
+                justifyContent: 'space-between',
+                gap: 1,
               }}
-              dir="rtl"
             >
-              {annotation.w}
-            </Typography>
+              <Box sx={{ flex: 1 }}>
+                {/* Lemma (dictionary form) — primary display */}
+                <Typography
+                  sx={{
+                    fontFamily: '"Amiri", serif',
+                    fontSize: '1.6rem',
+                    direction: 'rtl',
+                    textAlign: 'right',
+                    lineHeight: 1.6,
+                    color: 'primary.main',
+                    fontWeight: 700,
+                  }}
+                  dir="rtl"
+                >
+                  {annotation.lemma ?? annotation.w}
+                </Typography>
 
-            {annotation.root && (
-              <Typography
-                variant="caption"
-                color="text.secondary"
-                sx={{ display: 'block', textAlign: 'right', direction: 'rtl', mb: 0.5 }}
-                dir="rtl"
-              >
-                {annotation.root}
-              </Typography>
-            )}
+                {/* Show inflected form if different from lemma */}
+                {annotation.lemma && annotation.lemma !== annotation.w && (
+                  <Typography
+                    variant="caption"
+                    color="text.secondary"
+                    sx={{ display: 'block', textAlign: 'right', direction: 'rtl' }}
+                    dir="rtl"
+                  >
+                    {t.savedWords.seenInText}: {annotation.w}
+                  </Typography>
+                )}
+
+                {annotation.root && (
+                  <Typography
+                    variant="caption"
+                    color="text.secondary"
+                    sx={{ display: 'block', textAlign: 'right', direction: 'rtl', mb: 0.5 }}
+                    dir="rtl"
+                  >
+                    {annotation.root}
+                  </Typography>
+                )}
+              </Box>
+
+              {onToggleSave && (
+                <Tooltip
+                  title={isSaved?.(annotation) ? t.savedWords.unsaveWord : t.savedWords.saveWord}
+                >
+                  <IconButton
+                    size="small"
+                    onClick={() => onToggleSave(annotation)}
+                    color={isSaved?.(annotation) ? 'primary' : 'default'}
+                    sx={{ mt: 0.5, flexShrink: 0 }}
+                  >
+                    {isSaved?.(annotation) ? (
+                      <BookmarkIcon fontSize="small" />
+                    ) : (
+                      <BookmarkBorderIcon fontSize="small" />
+                    )}
+                  </IconButton>
+                </Tooltip>
+              )}
+            </Box>
 
             <Divider sx={{ my: 0.75 }} />
 

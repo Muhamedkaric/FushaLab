@@ -10,6 +10,7 @@ export interface Translations {
     exercises: string
     grammar: string
     progress: string
+    savedWords: string
   }
   home: {
     hero: string
@@ -283,6 +284,24 @@ export interface Translations {
     starsCollected: string
     outOf: string
   }
+  savedWords: {
+    title: string
+    subtitle: string
+    empty: string
+    emptyHint: string
+    saveWord: string
+    unsaveWord: string
+    review: string
+    wordsCount: string
+    reveal: string
+    gotIt: string
+    stillLearning: string
+    sessionDone: string
+    clearAll: string
+    clearConfirm: string
+    lemmaLabel: string
+    seenInText: string
+  }
   common: {
     loading: string
     error: string
@@ -319,6 +338,7 @@ export const en: Translations = {
     exercises: 'Exercises',
     grammar: 'Grammar',
     progress: 'Progress',
+    savedWords: 'My Words',
   },
   home: {
     hero: 'Learn Modern Standard Arabic',
@@ -588,7 +608,8 @@ export const en: Translations = {
     medium: 'Medium',
     hard: 'Hard',
     resetAll: 'Reset All Progress',
-    resetConfirm: 'This will clear all your reading, vocabulary and exercise progress. Are you sure?',
+    resetConfirm:
+      'This will clear all your reading, vocabulary and exercise progress. Are you sure?',
     streak: 'Day streak',
     today: 'Today',
     thisWeek: 'This week',
@@ -609,6 +630,24 @@ export const en: Translations = {
     packsDone: 'packs done',
     starsCollected: 'stars',
     outOf: 'of',
+  },
+  savedWords: {
+    title: 'My Words',
+    subtitle: 'Words you saved while reading',
+    empty: 'No saved words yet',
+    emptyHint: 'Tap any underlined word while reading to save it here',
+    saveWord: 'Save word',
+    unsaveWord: 'Remove word',
+    review: 'Review',
+    wordsCount: 'words saved',
+    reveal: 'Reveal',
+    gotIt: 'Got it',
+    stillLearning: 'Still learning',
+    sessionDone: 'Session complete!',
+    clearAll: 'Clear all',
+    clearConfirm: 'Remove all saved words?',
+    lemmaLabel: 'Dictionary form',
+    seenInText: 'Seen as',
   },
   common: {
     loading: 'Loading…',

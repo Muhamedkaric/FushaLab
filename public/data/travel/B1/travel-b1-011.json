@@ -8,10 +8,34 @@
       "translation": "Fatima je pitala policajca put do aerodroma.",
       "translationEn": "Fatima asked the policeman for the way to the airport.",
       "words": [
-        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "asked" },
-        { "w": "الشُّرْطِيَّ", "root": "ش ر ط", "bs": "policajac", "en": "policeman" },
-        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put / pravac", "en": "way / road" },
-        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" }
+        {
+          "w": "سَأَلَتْ",
+          "root": "س أ ل",
+          "bs": "pitala je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "الشُّرْطِيَّ",
+          "root": "ش ر ط",
+          "bs": "policajac",
+          "en": "policeman",
+          "lemma": "شُرْطِيٌّ / شُرْطِيُّونَ"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "put / pravac",
+          "en": "way / road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        },
+        {
+          "w": "الْمَطَارِ",
+          "root": "ط ي ر",
+          "bs": "aerodrom",
+          "en": "airport",
+          "lemma": "مَطَارٌ / مَطَارَاتٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Rekao joj je: Uzmi autobus broj sedam odavde.",
       "translationEn": "He told her: Take bus number seven from here.",
       "words": [
-        { "w": "خُذِي", "root": "أ خ ذ", "bs": "uzmi", "en": "take" },
-        { "w": "الْحَافِلَةَ", "root": "ح ف ل", "bs": "autobus", "en": "bus" },
-        { "w": "رَقْمَ", "root": "ر ق م", "bs": "broj", "en": "number" }
+        {
+          "w": "خُذِي",
+          "root": "أ خ ذ",
+          "bs": "uzmi",
+          "en": "take",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "الْحَافِلَةَ",
+          "root": "ح ف ل",
+          "bs": "autobus",
+          "en": "bus",
+          "lemma": "حَافِلَةٌ / حَافِلَاتٌ"
+        },
+        {
+          "w": "رَقْمَ",
+          "root": "ر ق م",
+          "bs": "broj",
+          "en": "number",
+          "lemma": "رَقْمٌ / أَرْقَامٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Zahvalila mu se i otišla na autobusku stanicu.",
       "translationEn": "She thanked him and went to the bus stop.",
       "words": [
-        { "w": "شَكَرَتْهُ", "root": "ش ك ر", "bs": "zahvalila mu se", "en": "thanked him" },
-        { "w": "مَحَطَّةِ", "root": "ح ط ط", "bs": "stanica", "en": "station / stop" },
-        { "w": "الْحَافِلَةِ", "root": "ح ف ل", "bs": "autobus", "en": "bus" }
+        {
+          "w": "شَكَرَتْهُ",
+          "root": "ش ك ر",
+          "bs": "zahvalila mu se",
+          "en": "thanked him",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "مَحَطَّةِ",
+          "root": "ح ط ط",
+          "bs": "stanica",
+          "en": "station / stop",
+          "lemma": "مَحَطَّةٌ / مَحَطَّاتٌ"
+        },
+        {
+          "w": "الْحَافِلَةِ",
+          "root": "ح ف ل",
+          "bs": "autobus",
+          "en": "bus",
+          "lemma": "حَافِلَةٌ / حَافِلَاتٌ"
+        }
       ]
     },
     {
@@ -39,10 +99,34 @@
       "translation": "Stigla je na aerodrom prije polaska aviona.",
       "translationEn": "She arrived at the airport before the flight time.",
       "words": [
-        { "w": "وَصَلَتْ", "root": "و ص ل", "bs": "stigla je", "en": "arrived" },
-        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
-        { "w": "مَوْعِدِ", "root": "و ع د", "bs": "termin / polazak", "en": "appointment / departure time" },
-        { "w": "الطَّائِرَةِ", "root": "ط ي ر", "bs": "avion", "en": "airplane" }
+        {
+          "w": "وَصَلَتْ",
+          "root": "و ص ل",
+          "bs": "stigla je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْمَطَارِ",
+          "root": "ط ي ر",
+          "bs": "aerodrom",
+          "en": "airport",
+          "lemma": "مَطَارٌ / مَطَارَاتٌ"
+        },
+        {
+          "w": "مَوْعِدِ",
+          "root": "و ع د",
+          "bs": "termin / polazak",
+          "en": "appointment / departure time",
+          "lemma": "مَوْعِدٌ / مَوَاعِيدُ"
+        },
+        {
+          "w": "الطَّائِرَةِ",
+          "root": "ط ي ر",
+          "bs": "avion",
+          "en": "airplane",
+          "lemma": "طَائِرَةٌ / طَائِرَاتٌ"
+        }
       ]
     }
   ],

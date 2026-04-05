@@ -66,10 +66,10 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
       "translation": "Porodica je otišla na aerodrom ujutro.",
       "translationEn": "The family went to the airport in the morning.",
       "words": [
-        { "w": "ذَهَبَتِ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
-        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        { "w": "ذَهَبَتِ", "lemma": "ذَهَبَ يَذْهَبُ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الْعَائِلَةُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "الْمَطَارِ", "lemma": "مَطَارٌ / مَطَارَاتٌ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
+        { "w": "الصَّبَاحِ", "lemma": "صَبَاحٌ / أَصْبَاحٌ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
       ]
     }
   ],
@@ -85,6 +85,11 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
 - **Skip** function words: فِي، عَلَى، مِنْ، إِلَى، وَ، فَ، بِ، لِ، أَنْ، إِنَّ، هُوَ، هِيَ، هَذَا، هَذِهِ، ذَلِكَ، كَانَ (as copula), لَا، لَمْ، قَدْ، etc.
 - **Skip** proper nouns (names: أَحْمَدُ، مَرْيَمُ، الْقَاهِرَةُ, etc.)
 - `w` = the **exact vocalized form** as it appears in the sentence (including case ending)
+- `lemma` = dictionary form of the word with full harakat:
+  - **Verb**: past 3rd masc sg + present 3rd masc sg — e.g. `"ذَهَبَ يَذْهَبُ"`, `"دَرَسَ يَدْرُسُ"`
+  - **Noun**: indefinite nominative singular + plural — e.g. `"مَطَارٌ / مَطَارَاتٌ"`, `"كِتَابٌ / كُتُبٌ"`
+  - **Adjective**: indefinite nominative singular masc — e.g. `"جَمِيلٌ"`
+  - **Other**: simplest uninflected base form with full harakat
 - `root` = three-letter Arabic root with spaces between letters, e.g. `"ك ت ب"` — omit if the word has no clear trilateral root (e.g. borrowed words)
 - `bs` = natural Bosnian meaning in context (not dictionary form — match the sentence meaning)
 - `en` = natural English meaning in context

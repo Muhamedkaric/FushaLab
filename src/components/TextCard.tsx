@@ -26,6 +26,7 @@ import { AudioPlayer } from './AudioPlayer'
 import { TranslationPanel } from './TranslationPanel'
 import { DifficultyRating } from './DifficultyRating'
 import { useProgress } from '@/hooks/useProgress'
+import { useSavedWords } from '@/hooks/useSavedWords'
 import { useI18n } from '@/i18n'
 
 const PIN_KEY = 'fushalab_pin_translation'
@@ -37,8 +38,6 @@ const DEFAULT_FONT_IDX = 2
 
 const difficultyColor = (d: number) => (d === 1 ? 'success' : d === 2 ? 'warning' : 'error')
 
-
-
 interface Props {
   item: ContentItem
 }
@@ -46,6 +45,7 @@ interface Props {
 export function TextCard({ item }: Props) {
   const { t, lang } = useI18n()
   const { rate, getRating } = useProgress()
+  const { isSaved, toggleSave } = useSavedWords()
   const rating = getRating(item.id)
 
   const [showHarakat, setShowHarakat] = useState(true)
@@ -140,14 +140,22 @@ export function TextCard({ item }: Props) {
               {/* Font size */}
               <Tooltip title="-A">
                 <span>
-                  <IconButton size="small" onClick={() => changeFontSize(-1)} disabled={fontSizeIdx === 0}>
+                  <IconButton
+                    size="small"
+                    onClick={() => changeFontSize(-1)}
+                    disabled={fontSizeIdx === 0}
+                  >
                     <TextDecreaseIcon fontSize="small" />
                   </IconButton>
                 </span>
               </Tooltip>
               <Tooltip title="+A">
                 <span>
-                  <IconButton size="small" onClick={() => changeFontSize(1)} disabled={fontSizeIdx === FONT_SIZES.length - 1}>
+                  <IconButton
+                    size="small"
+                    onClick={() => changeFontSize(1)}
+                    disabled={fontSizeIdx === FONT_SIZES.length - 1}
+                  >
                     <TextIncreaseIcon fontSize="small" />
                   </IconButton>
                 </span>
@@ -218,6 +226,8 @@ export function TextCard({ item }: Props) {
                 fontSize={`${FONT_SIZES[fontSizeIdx]}rem`}
                 showHarakat={showHarakat}
                 lang={lang}
+                isSaved={isSaved}
+                onToggleSave={toggleSave}
               />
             ) : (
               <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0.5 }}>
@@ -228,6 +238,8 @@ export function TextCard({ item }: Props) {
                     fontSize={`${FONT_SIZES[fontSizeIdx]}rem`}
                     showHarakat={showHarakat}
                     lang={lang}
+                    isSaved={isSaved}
+                    onToggleSave={toggleSave}
                   />
                 ))}
               </Box>

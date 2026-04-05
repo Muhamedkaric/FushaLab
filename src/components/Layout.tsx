@@ -28,6 +28,7 @@ import InsightsIcon from '@mui/icons-material/Insights'
 import DarkModeIcon from '@mui/icons-material/DarkMode'
 import LightModeIcon from '@mui/icons-material/LightMode'
 import AutoStoriesIcon from '@mui/icons-material/AutoStories'
+import BookmarkIcon from '@mui/icons-material/Bookmark'
 import { useNavigate, useRouterState } from '@tanstack/react-router'
 import { LanguageSwitcher } from './LanguageSwitcher'
 import { UserButton } from './UserButton'
@@ -57,6 +58,7 @@ export function Layout({ children, onToggleTheme, isDark }: Props) {
     { path: '/exercises', label: t.nav.exercises, icon: <QuizIcon fontSize="small" /> },
     { path: '/grammar', label: t.nav.grammar, icon: <SchoolIcon fontSize="small" /> },
     { path: '/progress', label: t.nav.progress, icon: <InsightsIcon fontSize="small" /> },
+    { path: '/words', label: t.nav.savedWords, icon: <BookmarkIcon fontSize="small" /> },
   ]
 
   const BOTTOM_NAV_ITEMS = [

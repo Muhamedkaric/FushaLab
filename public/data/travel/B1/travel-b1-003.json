@@ -8,9 +8,27 @@
       "translation": "Omer je pitao čovjeka za put do muzeja.",
       "translationEn": "Omar asked a man for directions to the museum.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
-        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put / pravac", "en": "road / way" },
-        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "put / pravac",
+          "en": "road / way",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        },
+        {
+          "w": "الْمَتْحَفِ",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum",
+          "lemma": "مَتْحَفٌ / مَتَاحِفُ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "Čovjek je rekao: Idi desno pa lijevo.",
       "translationEn": "The man said: Go right then left.",
       "words": [
-        { "w": "امْشِ", "root": "م ش ي", "bs": "idi / hodaj", "en": "walk / go" },
-        { "w": "الْيَمِينِ", "root": "ي م ن", "bs": "desno", "en": "right" },
-        { "w": "الْيَسَارِ", "root": "ي س ر", "bs": "lijevo", "en": "left" }
+        {
+          "w": "امْشِ",
+          "root": "م ش ي",
+          "bs": "idi / hodaj",
+          "en": "walk / go",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "الْيَمِينِ",
+          "root": "ي م ن",
+          "bs": "desno",
+          "en": "right",
+          "lemma": "يَمِينٌ / أَيْمَانٌ"
+        },
+        {
+          "w": "الْيَسَارِ",
+          "root": "ي س ر",
+          "bs": "lijevo",
+          "en": "left",
+          "lemma": "يَسَارٌ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Omer mu je zahvalio i brzo krenuo.",
       "translationEn": "Omar thanked the man and walked quickly.",
       "words": [
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
-        { "w": "مَشَى", "root": "م ش ي", "bs": "hodao je", "en": "walked" },
-        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "مَشَى",
+          "root": "م ش ي",
+          "bs": "hodao je",
+          "en": "walked",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly",
+          "lemma": "سُرْعَةٌ / سُرُعَاتٌ"
+        }
       ]
     },
     {
@@ -38,9 +92,27 @@
       "translation": "Stigao je do muzeja nakon deset minuta.",
       "translationEn": "He reached the museum after ten minutes.",
       "words": [
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
-        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" },
-        { "w": "دَقَائِقَ", "root": "د ق ق", "bs": "minuta", "en": "minutes" }
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْمَتْحَفِ",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum",
+          "lemma": "مَتْحَفٌ / مَتَاحِفُ"
+        },
+        {
+          "w": "دَقَائِقَ",
+          "root": "د ق ق",
+          "bs": "minuta",
+          "en": "minutes",
+          "lemma": "دَقِيقَةٌ / دَقَائِقُ"
+        }
       ]
     }
   ],

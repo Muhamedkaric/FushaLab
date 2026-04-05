@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@anthropic-ai/sdk':
+        specifier: ^0.82.0
+        version: 0.82.0
       '@google/generative-ai':
         specifier: ^0.24.1
         version: 0.24.1
@@ -26,6 +29,19 @@ importers:
         version: 5.9.3
 
 packages:
+
+  '@anthropic-ai/sdk@0.82.0':
+    resolution: {integrity: sha1-aOmT11vfA6jYtsKJZGS/Rg1zX78=}
+    hasBin: true
+    peerDependencies:
+      zod: ^3.25.0 || ^4.0.0
+    peerDependenciesMeta:
+      zod:
+        optional: true
+
+  '@babel/runtime@7.29.2':
+    resolution: {integrity: sha1-mm4tBfS2aS4YAc1PsXatgjkw7V4=}
+    engines: {node: '>=6.9.0'}
 
   '@esbuild/aix-ppc64@0.27.4':
     resolution: {integrity: sha1-TFhQAvetaU04/g6Mv1z9k5zP8yc=}
@@ -207,8 +223,15 @@ packages:
   get-tsconfig@4.13.6:
     resolution: {integrity: sha1-L7/aVYqYppGnmPEjr9lZFbrc6HY=}
 
+  json-schema-to-ts@3.1.1:
+    resolution: {integrity: sha1-gfOsr1o0c2SS9vX1GHDvns4cqFM=}
+    engines: {node: '>=16'}
+
   resolve-pkg-maps@1.0.0:
     resolution: {integrity: sha1-YWs9wsVwVrVYjDHN9LPWTbEzcg8=}
+
+  ts-algebra@2.0.0:
+    resolution: {integrity: sha1-Tj4JU4ePJlGPzn9rsRUGSmU4i3o=}
 
   tsx@4.21.0:
     resolution: {integrity: sha1-Mqps8XSB4zb3Vhleb+BNrj5jCLE=}
@@ -224,6 +247,12 @@ packages:
     resolution: {integrity: sha1-/8zf82rqSITL/OmnUKBYAiT1ikY=}
 
 snapshots:
+
+  '@anthropic-ai/sdk@0.82.0':
+    dependencies:
+      json-schema-to-ts: 3.1.1
+
+  '@babel/runtime@7.29.2': {}
 
   '@esbuild/aix-ppc64@0.27.4':
     optional: true
@@ -347,7 +376,14 @@ snapshots:
     dependencies:
       resolve-pkg-maps: 1.0.0
 
+  json-schema-to-ts@3.1.1:
+    dependencies:
+      '@babel/runtime': 7.29.2
+      ts-algebra: 2.0.0
+
   resolve-pkg-maps@1.0.0: {}
+
+  ts-algebra@2.0.0: {}
 
   tsx@4.21.0:
     dependencies:

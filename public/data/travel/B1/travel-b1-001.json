@@ -8,11 +8,41 @@
       "translation": "Porodica je putovala u lijep grad na moru.",
       "translationEn": "The family traveled to a beautiful city by the sea.",
       "words": [
-        { "w": "سَافَرَتِ", "root": "س ف ر", "bs": "putovala", "en": "traveled" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "مَدِينَةٍ", "root": "د ي ن", "bs": "grad", "en": "city" },
-        { "w": "جَمِيلَةٍ", "root": "ج م ل", "bs": "lijep", "en": "beautiful" },
-        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" }
+        {
+          "w": "سَافَرَتِ",
+          "root": "س ف ر",
+          "bs": "putovala",
+          "en": "traveled",
+          "lemma": "سَافَرَ يُسَافِرُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "مَدِينَةٍ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "جَمِيلَةٍ",
+          "root": "ج م ل",
+          "bs": "lijep",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "الْبَحْرِ",
+          "root": "ب ح ر",
+          "bs": "more",
+          "en": "sea",
+          "lemma": "بَحْرٌ / بِحَارٌ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Odsjeli su u malom hotelu blizu plaže.",
       "translationEn": "They stayed in a small hotel near the beach.",
       "words": [
-        { "w": "نَزَلُوا", "root": "ن ز ل", "bs": "odsjeli su", "en": "they stayed" },
-        { "w": "فُنْدُقٍ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
-        { "w": "صَغِيرٍ", "root": "ص غ ر", "bs": "mali", "en": "small" },
-        { "w": "قَرِيبٍ", "root": "ق ر ب", "bs": "blizu", "en": "near" },
-        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plaža", "en": "beach" }
+        {
+          "w": "نَزَلُوا",
+          "root": "ن ز ل",
+          "bs": "odsjeli su",
+          "en": "they stayed",
+          "lemma": "نَزَلَ يَنْزِلُ"
+        },
+        {
+          "w": "فُنْدُقٍ",
+          "root": "ف ن د ق",
+          "bs": "hotel",
+          "en": "hotel",
+          "lemma": "فُنْدُقٌ / فَنَادِقُ"
+        },
+        {
+          "w": "صَغِيرٍ",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "قَرِيبٍ",
+          "root": "ق ر ب",
+          "bs": "blizu",
+          "en": "near",
+          "lemma": "قَرِيبٌ"
+        },
+        {
+          "w": "الشَّاطِئِ",
+          "root": "ش ط أ",
+          "bs": "plaža",
+          "en": "beach",
+          "lemma": "شَاطِئٌ / شَوَاطِئُ"
+        }
       ]
     },
     {
@@ -32,11 +92,41 @@
       "translation": "Otac je otvorio prozor i pogledao prema moru.",
       "translationEn": "The father opened the window and looked at the sea.",
       "words": [
-        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio", "en": "opened" },
-        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
-        { "w": "النَّافِذَةَ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao", "en": "looked" },
-        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" }
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio",
+          "en": "opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "الْأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "النَّافِذَةَ",
+          "root": "ن ف ذ",
+          "bs": "prozor",
+          "en": "window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        },
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "pogledao",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "الْبَحْرِ",
+          "root": "ب ح ر",
+          "bs": "more",
+          "en": "sea",
+          "lemma": "بَحْرٌ / بِحَارٌ"
+        }
       ]
     },
     {
@@ -44,10 +134,34 @@
       "translation": "Majka je rekla: Ovo mjesto je veoma lijepo.",
       "translationEn": "The mother said: This place is very beautiful.",
       "words": [
-        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
-        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "الْمَكَانُ", "root": "ك و ن", "bs": "mjesto", "en": "place" },
-        { "w": "جَمِيلٌ", "root": "ج م ل", "bs": "lijepo", "en": "beautiful" }
+        {
+          "w": "قَالَتِ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "الْمَكَانُ",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "جَمِيلٌ",
+          "root": "ج م ل",
+          "bs": "lijepo",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     }
   ],

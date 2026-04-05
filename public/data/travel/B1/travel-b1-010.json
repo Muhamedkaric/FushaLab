@@ -8,10 +8,34 @@
       "translation": "Porodica je željela posjetiti planine na sjeveru.",
       "translationEn": "The family wanted to visit the mountains in the north.",
       "words": [
-        { "w": "أَرَادَتِ", "root": "ر و د", "bs": "željela je", "en": "wanted" },
-        { "w": "تَزُورَ", "root": "ز و ر", "bs": "posjetiti", "en": "to visit" },
-        { "w": "الْجِبَالَ", "root": "ج ب ل", "bs": "planine", "en": "mountains" },
-        { "w": "الشَّمَالِ", "root": "ش م ل", "bs": "sjever", "en": "north" }
+        {
+          "w": "أَرَادَتِ",
+          "root": "ر و د",
+          "bs": "željela je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "تَزُورَ",
+          "root": "ز و ر",
+          "bs": "posjetiti",
+          "en": "to visit",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "الْجِبَالَ",
+          "root": "ج ب ل",
+          "bs": "planine",
+          "en": "mountains",
+          "lemma": "جَبَلٌ / جِبَالٌ"
+        },
+        {
+          "w": "الشَّمَالِ",
+          "root": "ش م ل",
+          "bs": "sjever",
+          "en": "north",
+          "lemma": "شَمَالٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Iznajmili su auto i krenuli ujutro.",
       "translationEn": "They rented a car and traveled in the morning.",
       "words": [
-        { "w": "اسْتَأْجَرُوا", "root": "أ ج ر", "bs": "iznajmili su", "en": "rented" },
-        { "w": "سَيَّارَةً", "root": "س ي ر", "bs": "auto", "en": "car" },
-        { "w": "سَافَرُوا", "root": "س ف ر", "bs": "putovali su", "en": "traveled" }
+        {
+          "w": "اسْتَأْجَرُوا",
+          "root": "أ ج ر",
+          "bs": "iznajmili su",
+          "en": "rented",
+          "lemma": "اسْتَأْجَرَ يَسْتَأْجِرُ"
+        },
+        {
+          "w": "سَيَّارَةً",
+          "root": "س ي ر",
+          "bs": "auto",
+          "en": "car",
+          "lemma": "سَيَّارَةٌ / سَيَّارَاتٌ"
+        },
+        {
+          "w": "سَافَرُوا",
+          "root": "س ف ر",
+          "bs": "putovali su",
+          "en": "traveled",
+          "lemma": "سَافَرَ يُسَافِرُ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Put je bio dug ali su prizori bili lijepi.",
       "translationEn": "The road was long but the scenery was beautiful.",
       "words": [
-        { "w": "الطَّرِيقُ", "root": "ط ر ق", "bs": "put", "en": "road" },
-        { "w": "طَوِيلًا", "root": "ط و ل", "bs": "dug", "en": "long" },
-        { "w": "الْمَنَاظِرَ", "root": "ن ظ ر", "bs": "prizori / pejzaž", "en": "scenery / views" },
-        { "w": "جَمِيلَةٌ", "root": "ج م ل", "bs": "lijepi", "en": "beautiful" }
+        {
+          "w": "الطَّرِيقُ",
+          "root": "ط ر ق",
+          "bs": "put",
+          "en": "road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        },
+        {
+          "w": "طَوِيلًا",
+          "root": "ط و ل",
+          "bs": "dug",
+          "en": "long",
+          "lemma": "طَوِيلٌ"
+        },
+        {
+          "w": "الْمَنَاظِرَ",
+          "root": "ن ظ ر",
+          "bs": "prizori / pejzaž",
+          "en": "scenery / views",
+          "lemma": "مَنْظَرٌ / مَنَاظِرُ"
+        },
+        {
+          "w": "جَمِيلَةٌ",
+          "root": "ج م ل",
+          "bs": "lijepi",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -40,10 +106,34 @@
       "translation": "Zaustavili su se pored malog potoka i popili čaj.",
       "translationEn": "They stopped by a small river and drank tea.",
       "words": [
-        { "w": "نَزَلُوا", "root": "ن ز ل", "bs": "zaustavili su se", "en": "stopped / got out" },
-        { "w": "نَهْرٍ", "root": "ن ه ر", "bs": "rijeka / potok", "en": "river" },
-        { "w": "صَغِيرٍ", "root": "ص غ ر", "bs": "mali", "en": "small" },
-        { "w": "شَرِبُوا", "root": "ش ر ب", "bs": "popili su", "en": "drank" }
+        {
+          "w": "نَزَلُوا",
+          "root": "ن ز ل",
+          "bs": "zaustavili su se",
+          "en": "stopped / got out",
+          "lemma": "نَزَلَ يَنْزِلُ"
+        },
+        {
+          "w": "نَهْرٍ",
+          "root": "ن ه ر",
+          "bs": "rijeka / potok",
+          "en": "river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        },
+        {
+          "w": "صَغِيرٍ",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "شَرِبُوا",
+          "root": "ش ر ب",
+          "bs": "popili su",
+          "en": "drank",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        }
       ]
     }
   ],

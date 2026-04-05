@@ -8,9 +8,27 @@
       "translation": "Muhammed je letio avionom po prvi put.",
       "translationEn": "Muhammad traveled by plane for the first time.",
       "words": [
-        { "w": "سَافَرَ", "root": "س ف ر", "bs": "putovao je", "en": "traveled" },
-        { "w": "الطَّائِرَةِ", "root": "ط ي ر", "bs": "avion", "en": "airplane" },
-        { "w": "مَرَّةٍ", "root": "م ر ر", "bs": "put / puta", "en": "time / occasion" }
+        {
+          "w": "سَافَرَ",
+          "root": "س ف ر",
+          "bs": "putovao je",
+          "en": "traveled",
+          "lemma": "سَافَرَ يُسَافِرُ"
+        },
+        {
+          "w": "الطَّائِرَةِ",
+          "root": "ط ي ر",
+          "bs": "avion",
+          "en": "airplane",
+          "lemma": "طَائِرَةٌ / طَائِرَاتٌ"
+        },
+        {
+          "w": "مَرَّةٍ",
+          "root": "م ر ر",
+          "bs": "put / puta",
+          "en": "time / occasion",
+          "lemma": "مَرَّةٌ / مَرَّاتٌ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "Bio je uplašen u početku ali se smirio poslije.",
       "translationEn": "He was scared at first but calmed down afterward.",
       "words": [
-        { "w": "خَائِفًا", "root": "خ و ف", "bs": "uplašen", "en": "scared / afraid" },
-        { "w": "الْبِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "beginning" },
-        { "w": "هَدَأَ", "root": "ه د أ", "bs": "smirio se", "en": "calmed down" }
+        {
+          "w": "خَائِفًا",
+          "root": "خ و ف",
+          "bs": "uplašen",
+          "en": "scared / afraid",
+          "lemma": "خَائِفٌ"
+        },
+        {
+          "w": "الْبِدَايَةِ",
+          "root": "ب د أ",
+          "bs": "početak",
+          "en": "beginning",
+          "lemma": "بِدَايَةٌ / بِدَايَاتٌ"
+        },
+        {
+          "w": "هَدَأَ",
+          "root": "ه د أ",
+          "bs": "smirio se",
+          "en": "calmed down",
+          "lemma": "هَدَأَ يَهْدَأُ"
+        }
       ]
     },
     {
@@ -28,10 +64,34 @@
       "translation": "Gledao je kroz prozor i vidio oblake ispod sebe.",
       "translationEn": "He looked out the window and saw clouds below him.",
       "words": [
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "gledao je", "en": "looked" },
-        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
-        { "w": "الْغُيُومَ", "root": "غ ي م", "bs": "oblaci", "en": "clouds" }
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "gledao je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "النَّافِذَةِ",
+          "root": "ن ف ذ",
+          "bs": "prozor",
+          "en": "window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        },
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "الْغُيُومَ",
+          "root": "غ ي م",
+          "bs": "oblaci",
+          "en": "clouds",
+          "lemma": "غَيْمَةٌ / غُيُومٌ"
+        }
       ]
     },
     {
@@ -39,9 +99,27 @@
       "translation": "Avion je sletio sigurno i zahvalio je Allahu.",
       "translationEn": "The plane landed safely and he thanked God.",
       "words": [
-        { "w": "وَصَلَتِ", "root": "و ص ل", "bs": "stigla je / sletjela je", "en": "arrived / landed" },
-        { "w": "الطَّائِرَةُ", "root": "ط ي ر", "bs": "avion", "en": "airplane" },
-        { "w": "بِسَلَامَةٍ", "root": "س ل م", "bs": "sigurno / bez problema", "en": "safely" }
+        {
+          "w": "وَصَلَتِ",
+          "root": "و ص ل",
+          "bs": "stigla je / sletjela je",
+          "en": "arrived / landed",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الطَّائِرَةُ",
+          "root": "ط ي ر",
+          "bs": "avion",
+          "en": "airplane",
+          "lemma": "طَائِرَةٌ / طَائِرَاتٌ"
+        },
+        {
+          "w": "بِسَلَامَةٍ",
+          "root": "س ل م",
+          "bs": "sigurno / bez problema",
+          "en": "safely",
+          "lemma": "سَلَامَةٌ"
+        }
       ]
     }
   ],

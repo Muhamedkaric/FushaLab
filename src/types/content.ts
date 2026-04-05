@@ -28,10 +28,21 @@ export interface ContentMetadata {
 }
 
 export interface WordAnnotation {
-  w: string      // exact vocalized form as it appears in the sentence
-  root?: string  // trilateral root, e.g. "د ر س" (optional for non-root words)
-  bs: string     // Bosnian meaning
-  en: string     // English meaning
+  w: string // exact vocalized form as it appears in the sentence
+  lemma?: string // dictionary form: verb = "فَعَلَ يَفْعَلُ", noun/adj = indefinite nominative sg
+  root?: string // trilateral root, e.g. "د ر س" (optional for non-root words)
+  bs: string // Bosnian meaning
+  en: string // English meaning
+}
+
+export interface SavedWord {
+  key: string // lemma if present, else w — used for deduplication
+  w: string // the inflected form seen in text
+  lemma?: string // dictionary form for review display
+  root?: string
+  bs: string
+  en: string
+  savedAt: number
 }
 
 export interface Sentence {
