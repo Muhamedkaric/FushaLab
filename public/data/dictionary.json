@@ -65,47 +65,23 @@
     "bs": "osnovni; početni; elementaran",
     "en": "primary; elementary"
   },
-  "ابْتِسَامَةٌ / ابْتِسَامَاتٌ": {
-    "lemma": "ابْتِسَامَةٌ / ابْتِسَامَاتٌ",
-    "root": "ب س م",
-    "bs": "osmijeh",
-    "en": "smile"
-  },
   "اِبْتِسَامَةٌ / اِبْتِسَامَاتٌ": {
     "lemma": "اِبْتِسَامَةٌ / اِبْتِسَامَاتٌ",
     "root": "ب س م",
     "bs": "osmijeh / smiješak",
     "en": "smile / smiley"
   },
-  "ابْتَسَمَ يَبْتَسِمُ": {
-    "lemma": "ابْتَسَمَ يَبْتَسِمُ",
+  "اِبْتَسَمَ يَبْتَسِمُ": {
+    "lemma": "اِبْتَسَمَ يَبْتَسِمُ",
     "root": "ب س م",
     "bs": "smiješiti se, nasmiješiti se",
     "en": "to smile"
   },
-  "اِبْتَسَمَ يَبْتَسِمُ": {
-    "lemma": "اِبْتَسَمَ يَبْتَسِمُ",
-    "root": "ب س م",
-    "bs": "smiješiti se, osmjehivati se",
-    "en": "to smile"
-  },
-  "ابْتِعَادٌ": {
-    "lemma": "ابْتِعَادٌ",
-    "root": "ب ع د",
-    "bs": "udaljenost, odmicanje",
-    "en": "distance, distancing"
-  },
-  "ابْتَعَدَ يَبْتَعِدُ": {
-    "lemma": "ابْتَعَدَ يَبْتَعِدُ",
-    "root": "ب ع د",
-    "bs": "udaljiti se; izbjegavati",
-    "en": "to stay away; to distance oneself"
-  },
   "اِبْتَعَدَ يَبْتَعِدُ": {
     "lemma": "اِبْتَعَدَ يَبْتَعِدُ",
     "root": "ب ع د",
-    "bs": "udaljiti se",
-    "en": "to move away, to stray"
+    "bs": "udaljiti se; izbjegavati",
+    "en": "to stay away; to distance oneself"
   },
   "اِبْتَلَّ يَبْتَلُّ": {
     "lemma": "اِبْتَلَّ يَبْتَلُّ",
@@ -125,23 +101,11 @@
     "bs": "obavijestiti, prijaviti",
     "en": "to inform, to report"
   },
-  "ابْنٌ / أَبْنَاءٌ": {
-    "lemma": "ابْنٌ / أَبْنَاءٌ",
-    "root": "ب ن و",
-    "bs": "sin",
-    "en": "son"
-  },
   "اِبْنٌ / أَبْنَاءٌ": {
     "lemma": "اِبْنٌ / أَبْنَاءٌ",
     "root": "ب ن و",
     "bs": "sin",
     "en": "son"
-  },
-  "ابْنَةٌ / بَنَاتٌ": {
-    "lemma": "ابْنَةٌ / بَنَاتٌ",
-    "root": "ب ن و",
-    "bs": "kćerka",
-    "en": "daughter"
   },
   "أَبْيَضُ / بَيْضَاءُ": {
     "lemma": "أَبْيَضُ / بَيْضَاءُ",
@@ -149,23 +113,11 @@
     "bs": "bijel",
     "en": "white"
   },
-  "اتَّبَعَ يَتَّبِعُ": {
-    "lemma": "اتَّبَعَ يَتَّبِعُ",
-    "root": "ت ب ع",
-    "bs": "slijediti",
-    "en": "to follow"
-  },
   "اِتَّبَعَ يَتَّبِعُ": {
     "lemma": "اِتَّبَعَ يَتَّبِعُ",
     "root": "ت ب ع",
     "bs": "slijediti, pratiti",
     "en": "to follow"
-  },
-  "اتِّحَادٌ / اتِّحَادَاتٌ": {
-    "lemma": "اتِّحَادٌ / اتِّحَادَاتٌ",
-    "root": "و ح د",
-    "bs": "ujedinjenje, savez",
-    "en": "union, unification"
   },
   "اِتِّصَالٌ / اِتِّصَالَاتٌ": {
     "lemma": "اِتِّصَالٌ / اِتِّصَالَاتٌ",
@@ -173,23 +125,11 @@
     "bs": "poziv / veza",
     "en": "call / connection"
   },
-  "اتَّصَلَ يَتَّصِلُ": {
-    "lemma": "اتَّصَلَ يَتَّصِلُ",
-    "root": "و ص ل",
-    "bs": "nazvati / kontaktirati",
-    "en": "to call / to contact"
-  },
-  "اتَّفَقَ يَتَّفِقُ": {
-    "lemma": "اتَّفَقَ يَتَّفِقُ",
-    "root": "و ف ق",
-    "bs": "dogovoriti se, složiti se",
-    "en": "to agree, to come to an agreement"
-  },
   "اِتَّفَقَ يَتَّفِقُ": {
     "lemma": "اِتَّفَقَ يَتَّفِقُ",
     "root": "و ف ق",
-    "bs": "složiti se, dogovoriti se",
-    "en": "to agree"
+    "bs": "dogovoriti se, složiti se",
+    "en": "to agree, to come to an agreement"
   },
   "إِتْقَانٌ": {
     "lemma": "إِتْقَانٌ",
@@ -202,12 +142,6 @@
     "root": "ت ق ن",
     "bs": "savladati, vladati vještinom",
     "en": "to master, to be skilled at"
-  },
-  "اتَّقَى يَتَّقِي": {
-    "lemma": "اتَّقَى يَتَّقِي",
-    "root": "و ق ي",
-    "bs": "čuvati se, bojati se Boga",
-    "en": "to fear, to be wary of"
   },
   "أَتَمَّ يُتِمُّ": {
     "lemma": "أَتَمَّ يُتِمُّ",
@@ -269,34 +203,16 @@
     "bs": "odmor, godišnji odmor",
     "en": "holiday, vacation"
   },
-  "اجْتِمَاعٌ / اجْتِمَاعَاتٌ": {
-    "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ",
-    "root": "ج م ع",
-    "bs": "sastanak / skup",
-    "en": "meeting / gathering"
-  },
   "اِجْتِمَاعٌ / اِجْتِمَاعَاتٌ": {
     "lemma": "اِجْتِمَاعٌ / اِجْتِمَاعَاتٌ",
     "root": "ج م ع",
     "bs": "sastanak; sjednica",
-    "en": "meeting"
-  },
-  "اجْتِمَاعِيٌّ": {
-    "lemma": "اجْتِمَاعِيٌّ",
-    "root": "ج م ع",
-    "bs": "društveni; socijalni",
-    "en": "social"
-  },
-  "اجْتَمَعَ يَجْتَمِعُ": {
-    "lemma": "اجْتَمَعَ يَجْتَمِعُ",
-    "root": "ج م ع",
-    "bs": "okupljati se, skupljati se",
-    "en": "to gather, to meet"
+    "en": "meeting / gathering"
   },
   "اِجْتَمَعَ يَجْتَمِعُ": {
     "lemma": "اِجْتَمَعَ يَجْتَمِعُ",
     "root": "ج م ع",
-    "bs": "okupiti se, sastati se",
+    "bs": "okupljati se, skupljati se",
     "en": "to gather, to meet"
   },
   "أَجْرٌ / أُجُورٌ": {
@@ -359,23 +275,11 @@
     "bs": "razočaranje, frustracija",
     "en": "frustration, disappointment"
   },
-  "احْتَاجَ يَحْتَاجُ": {
-    "lemma": "احْتَاجَ يَحْتَاجُ",
-    "root": "ح و ج",
-    "bs": "trebati, imati potrebu",
-    "en": "to need, to require"
-  },
   "اِحْتَاجَ يَحْتَاجُ": {
     "lemma": "اِحْتَاجَ يَحْتَاجُ",
     "root": "ح و ج",
     "bs": "trebati, imati potrebu",
-    "en": "to need"
-  },
-  "احْتِرَامٌ": {
-    "lemma": "احْتِرَامٌ",
-    "root": "ح ر م",
-    "bs": "poštovanje",
-    "en": "respect"
+    "en": "to need, to require"
   },
   "اِحْتِرَامٌ": {
     "lemma": "اِحْتِرَامٌ",
@@ -389,23 +293,11 @@
     "bs": "poštovati",
     "en": "to respect"
   },
-  "احْتَضَنَ يَحْتَضِنُ": {
-    "lemma": "احْتَضَنَ يَحْتَضِنُ",
-    "root": "ح ض ن",
-    "bs": "zagrliti",
-    "en": "to hug, to embrace"
-  },
   "اِحْتَضَنَ يَحْتَضِنُ": {
     "lemma": "اِحْتَضَنَ يَحْتَضِنُ",
     "root": "ح ض ن",
     "bs": "zagrliti",
     "en": "to hug, to embrace"
-  },
-  "احْتِفَالٌ / احْتِفَالَاتٌ": {
-    "lemma": "احْتِفَالٌ / احْتِفَالَاتٌ",
-    "root": "ح ف ل",
-    "bs": "proslava, svečanost",
-    "en": "celebration, party"
   },
   "اِحْتِفَالٌ / اِحْتِفَالَاتٌ": {
     "lemma": "اِحْتِفَالٌ / اِحْتِفَالَاتٌ",
@@ -413,29 +305,11 @@
     "bs": "proslava; svečanost; slavlje",
     "en": "celebration; festivity"
   },
-  "احْتَفَظَ يَحْتَفِظُ": {
-    "lemma": "احْتَفَظَ يَحْتَفِظُ",
-    "root": "ح ف ظ",
-    "bs": "čuvati / zadržati",
-    "en": "to keep / to retain"
-  },
-  "احْتَفَلَ يَحْتَفِلُ": {
-    "lemma": "احْتَفَلَ يَحْتَفِلُ",
-    "root": "ح ف ل",
-    "bs": "proslaviti, obilježiti",
-    "en": "to celebrate"
-  },
   "اِحْتَفَلَ يَحْتَفِلُ": {
     "lemma": "اِحْتَفَلَ يَحْتَفِلُ",
     "root": "ح ف ل",
     "bs": "proslaviti, obilježiti",
     "en": "to celebrate, to commemorate"
-  },
-  "احْتَلَّ يَحْتَلُّ": {
-    "lemma": "احْتَلَّ يَحْتَلُّ",
-    "root": "ح ل ل",
-    "bs": "zauzima",
-    "en": "occupies"
   },
   "اِحْتَلَّ يَحْتَلُّ": {
     "lemma": "اِحْتَلَّ يَحْتَلُّ",
@@ -533,12 +407,6 @@
     "bs": "sestra",
     "en": "sister"
   },
-  "اخْتَارَ يَخْتَارُ": {
-    "lemma": "اخْتَارَ يَخْتَارُ",
-    "root": "خ ي ر",
-    "bs": "birati, odabirati",
-    "en": "to choose, to select"
-  },
   "اِخْتَارَ يَخْتَارُ": {
     "lemma": "اِخْتَارَ يَخْتَارُ",
     "root": "خ ي ر",
@@ -551,41 +419,17 @@
     "bs": "izum; pronalazak",
     "en": "invention"
   },
-  "اخْتَفَى يَخْتَفِي": {
-    "lemma": "اخْتَفَى يَخْتَفِي",
-    "root": "خ ف ي",
-    "bs": "nestati, sakriti se",
-    "en": "to disappear"
-  },
-  "اخْتَلَّ يَخْتَلُّ": {
-    "lemma": "اخْتَلَّ يَخْتَلُّ",
-    "root": "خ ل ل",
-    "bs": "rasplesti se, poremeti se",
-    "en": "to come undone, to fall apart"
-  },
   "اِخْتِلَافٌ / اِخْتِلَافَاتٌ": {
     "lemma": "اِخْتِلَافٌ / اِخْتِلَافَاتٌ",
     "root": "خ ل ف",
     "bs": "razlika, neslaganje",
     "en": "difference, disagreement"
   },
-  "اخْتَلَفَ يَخْتَلِفُ": {
-    "lemma": "اخْتَلَفَ يَخْتَلِفُ",
-    "root": "خ ل ف",
-    "bs": "razlikovati se, biti različit",
-    "en": "to differ, to disagree"
-  },
   "اِخْتَلَفَ يَخْتَلِفُ": {
     "lemma": "اِخْتَلَفَ يَخْتَلِفُ",
     "root": "خ ل ف",
-    "bs": "razlikovati se, ne slagati se",
+    "bs": "razlikovati se, biti različit",
     "en": "to differ, to disagree"
-  },
-  "اخْتِيَارٌ": {
-    "lemma": "اخْتِيَارٌ",
-    "root": "خ ي ر",
-    "bs": "odabir, izbor",
-    "en": "choice, selection"
   },
   "اِخْتِيَارٌ / اِخْتِيَارَاتٌ": {
     "lemma": "اِخْتِيَارٌ / اِخْتِيَارَاتٌ",
@@ -671,17 +515,11 @@
     "bs": "štednja; uštedina",
     "en": "saving; thrift"
   },
-  "ادَّخَرَ يَدَّخِرُ": {
-    "lemma": "ادَّخَرَ يَدَّخِرُ",
-    "root": "ذ خ ر",
-    "bs": "štedjeti, uštediti",
-    "en": "to save, to put aside"
-  },
   "اِدَّخَرَ يَدَّخِرُ": {
     "lemma": "اِدَّخَرَ يَدَّخِرُ",
     "root": "ذ خ ر",
-    "bs": "štediti; čuvati",
-    "en": "to save; to set aside"
+    "bs": "štedjeti, uštediti",
+    "en": "to save, to put aside"
   },
   "إِدْرَاجٌ": {
     "lemma": "إِدْرَاجٌ",
@@ -695,12 +533,6 @@
     "bs": "shvatiti, spoznati",
     "en": "to realise, to perceive"
   },
-  "ادَّعَى يَدَّعِي": {
-    "lemma": "ادَّعَى يَدَّعِي",
-    "root": "د ع و",
-    "bs": "tvrditi, pretendirati",
-    "en": "to claim, to pretend"
-  },
   "أَدَّى يُؤَدِّي": {
     "lemma": "أَدَّى يُؤَدِّي",
     "root": "أ د ي",
@@ -712,12 +544,6 @@
     "root": "أ د ب",
     "bs": "književnike",
     "en": "writers"
-  },
-  "أَذَانٌ / آذِنَةٌ": {
-    "lemma": "أَذَانٌ / آذِنَةٌ",
-    "root": "أ ذ ن",
-    "bs": "ezan, poziv na namaz",
-    "en": "call to prayer, adhan"
   },
   "أَذَانٌ / أَذَانَاتٌ": {
     "lemma": "أَذَانٌ / أَذَانَاتٌ",
@@ -761,40 +587,16 @@
     "bs": "četiri",
     "en": "four"
   },
-  "ارْتَبَطَ يَرْتَبِطُ": {
-    "lemma": "ارْتَبَطَ يَرْتَبِطُ",
-    "root": "ر ب ط",
-    "bs": "povezana je",
-    "en": "is linked"
-  },
-  "ارْتَجَفَ يَرْتَجِفُ": {
-    "lemma": "ارْتَجَفَ يَرْتَجِفُ",
-    "root": "ر ج ف",
-    "bs": "drhtati, tresti se",
-    "en": "to shiver, to tremble"
-  },
   "اِرْتَجَفَ يَرْتَجِفُ": {
     "lemma": "اِرْتَجَفَ يَرْتَجِفُ",
     "root": "ر ج ف",
     "bs": "drhtati, tresti se",
-    "en": "to tremble, to shake"
-  },
-  "ارْتَدَى يَرْتَدِي": {
-    "lemma": "ارْتَدَى يَرْتَدِي",
-    "root": "ر د ي",
-    "bs": "obući se, nositi (odjeću)",
-    "en": "to put on, to wear"
-  },
-  "ارْتَفَعَ يَرْتَفِعُ": {
-    "lemma": "ارْتَفَعَ يَرْتَفِعُ",
-    "root": "ر ف ع",
-    "bs": "porasti / povećati se",
-    "en": "to rise / to go up"
+    "en": "to shiver, to tremble"
   },
   "اِرْتَفَعَ يَرْتَفِعُ": {
     "lemma": "اِرْتَفَعَ يَرْتَفِعُ",
     "root": "ر ف ع",
-    "bs": "porasti, podići se",
+    "bs": "porasti / povećati se",
     "en": "to rise, to increase"
   },
   "اِرْتَكَبَ يَرْتَكِبُ": {
@@ -814,18 +616,6 @@
     "root": "ر ج ع",
     "bs": "vratiti, povratiti",
     "en": "to return, to put back"
-  },
-  "أَرُزٌّ": {
-    "lemma": "أَرُزٌّ",
-    "root": "أ ر ز",
-    "bs": "pirinač, riža",
-    "en": "rice"
-  },
-  "أُرُزٌّ": {
-    "lemma": "أُرُزٌّ",
-    "root": "أ ر ز",
-    "bs": "pirinač; riža",
-    "en": "rice"
   },
   "إِرْسَالٌ": {
     "lemma": "إِرْسَالٌ",
@@ -893,12 +683,6 @@
     "bs": "odmaknuti, ukloniti",
     "en": "to move aside, to remove"
   },
-  "ازْدَادَ يَزْدَادُ": {
-    "lemma": "ازْدَادَ يَزْدَادُ",
-    "root": "ز ي د",
-    "bs": "povećati se, narasti, ojačati",
-    "en": "to increase, to grow, to multiply"
-  },
   "أَزْرَقُ / زَرْقَاءُ": {
     "lemma": "أَزْرَقُ / زَرْقَاءُ",
     "root": "ز ر ق",
@@ -935,23 +719,11 @@
     "bs": "sedmični, tjedni",
     "en": "weekly"
   },
-  "اسْتَأْجَرَ يَسْتَأْجِرُ": {
-    "lemma": "اسْتَأْجَرَ يَسْتَأْجِرُ",
-    "root": "أ ج ر",
-    "bs": "iznajmiti; uzeti u zakup",
-    "en": "to rent; to hire"
-  },
   "أُسْتَاذٌ / أَسَاتِذَةٌ": {
     "lemma": "أُسْتَاذٌ / أَسَاتِذَةٌ",
     "root": "أ س ت ذ",
     "bs": "profesor, nastavnik",
     "en": "professor, teacher"
-  },
-  "اسْتِثْمَارٌ / اسْتِثْمَارَاتٌ": {
-    "lemma": "اسْتِثْمَارٌ / اسْتِثْمَارَاتٌ",
-    "root": "ث م ر",
-    "bs": "ulaganje, iskorištavanje",
-    "en": "investment, exploitation"
   },
   "اِسْتِثْنَاءٌ / اِسْتِثْنَاءَاتٌ": {
     "lemma": "اِسْتِثْنَاءٌ / اِسْتِثْنَاءَاتٌ",
@@ -971,83 +743,23 @@
     "bs": "zaslužiti",
     "en": "to deserve"
   },
-  "اسْتِحْمَامٌ": {
-    "lemma": "اسْتِحْمَامٌ",
-    "root": "ح م م",
-    "bs": "kupanje; tuširање",
-    "en": "bathing; showering"
-  },
-  "اسْتِخْدَامٌ / اسْتِخْدَامَاتٌ": {
-    "lemma": "اسْتِخْدَامٌ / اسْتِخْدَامَاتٌ",
-    "root": "خ د م",
-    "bs": "korišćenje, upotreba",
-    "en": "use, usage"
-  },
-  "اسْتَخْدَمَ يَسْتَخْدِمُ": {
-    "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ",
-    "root": "خ د م",
-    "bs": "koristiti, upotrebljavati",
-    "en": "to use, to employ"
-  },
   "اِسْتَخْدَمَ يَسْتَخْدِمُ": {
     "lemma": "اِسْتَخْدَمَ يَسْتَخْدِمُ",
     "root": "خ د م",
     "bs": "koristiti, upotrebljavati",
-    "en": "to use"
-  },
-  "اسْتَدْعَى يَسْتَدْعِي": {
-    "lemma": "اسْتَدْعَى يَسْتَدْعِي",
-    "root": "د ع و",
-    "bs": "pozvati, zahtijevati",
-    "en": "to call, to summon"
-  },
-  "اسْتَرَاحَ يَسْتَرِيحُ": {
-    "lemma": "اسْتَرَاحَ يَسْتَرِيحُ",
-    "root": "ر و ح",
-    "bs": "odmoriti se",
-    "en": "to rest"
+    "en": "to use, to employ"
   },
   "اِسْتَرَاحَ يَسْتَرِيحُ": {
     "lemma": "اِسْتَرَاحَ يَسْتَرِيحُ",
     "root": "ر و ح",
-    "bs": "odmarati se",
+    "bs": "odmoriti se",
     "en": "to rest"
-  },
-  "اسْتِرَاحَةٌ / اسْتِرَاحَاتٌ": {
-    "lemma": "اسْتِرَاحَةٌ / اسْتِرَاحَاتٌ",
-    "root": "ر و ح",
-    "bs": "pauza, odmor",
-    "en": "break, rest"
   },
   "اِسْتِرَاحَةٌ / اِسْتِرَاحَاتٌ": {
     "lemma": "اِسْتِرَاحَةٌ / اِسْتِرَاحَاتٌ",
     "root": "ر و ح",
-    "bs": "odmor, pauza",
-    "en": "rest, break"
-  },
-  "اسْتِرْخَاءٌ": {
-    "lemma": "اسْتِرْخَاءٌ",
-    "root": "ر خ و",
-    "bs": "opuštanje",
-    "en": "relaxation"
-  },
-  "اسْتَسْلَمَ يَسْتَسْلِمُ": {
-    "lemma": "اسْتَسْلَمَ يَسْتَسْلِمُ",
-    "root": "س ل م",
-    "bs": "predati se, odustati",
-    "en": "to surrender, to give up"
-  },
-  "اسْتَطَاعَ يَسْتَطِيعُ": {
-    "lemma": "اسْتَطَاعَ يَسْتَطِيعُ",
-    "root": "ط و ع",
-    "bs": "moći, biti u stanju",
-    "en": "to be able to, can"
-  },
-  "اسْتِعْدَادٌ / اسْتِعْدَادَاتٌ": {
-    "lemma": "اسْتِعْدَادٌ / اسْتِعْدَادَاتٌ",
-    "root": "ع د د",
-    "bs": "spremnost",
-    "en": "readiness"
+    "bs": "pauza, odmor",
+    "en": "break, rest"
   },
   "اِسْتِعْدَادٌ / اِسْتِعْدَادَاتٌ": {
     "lemma": "اِسْتِعْدَادٌ / اِسْتِعْدَادَاتٌ",
@@ -1055,47 +767,17 @@
     "bs": "priprema, spremnost",
     "en": "preparation, readiness"
   },
-  "اسْتَغْرَقَ يَسْتَغْرِقُ": {
-    "lemma": "اسْتَغْرَقَ يَسْتَغْرِقُ",
-    "root": "غ ر ق",
-    "bs": "trajati, oduzimati (vrijeme)",
-    "en": "to take (time), to last"
-  },
   "اِسْتَغْرَقَ يَسْتَغْرِقُ": {
     "lemma": "اِسْتَغْرَقَ يَسْتَغْرِقُ",
     "root": "غ ر ق",
-    "bs": "trajati",
-    "en": "take"
-  },
-  "اسْتَفَادَ يَسْتَفِيدُ": {
-    "lemma": "اسْتَفَادَ يَسْتَفِيدُ",
-    "root": "ف ي د",
-    "bs": "imati korist / okoristiti se",
-    "en": "to benefit"
-  },
-  "اسْتِقْبَالٌ": {
-    "lemma": "اسْتِقْبَالٌ",
-    "root": "ق ب ل",
-    "bs": "recepcija, doček",
-    "en": "reception, welcome"
-  },
-  "اسْتَقْبَلَ يَسْتَقْبِلُ": {
-    "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ",
-    "root": "ق ب ل",
-    "bs": "dočekati, primiti",
-    "en": "to receive, to welcome"
+    "bs": "trajati, oduzimati (vrijeme)",
+    "en": "to take (time), to last"
   },
   "اِسْتَقْطَبَ يَسْتَقْطِبُ": {
     "lemma": "اِسْتَقْطَبَ يَسْتَقْطِبُ",
     "root": "ق ط ب",
     "bs": "privlači",
     "en": "attracts"
-  },
-  "اسْتَلَمَ يَسْتَلِمُ": {
-    "lemma": "اسْتَلَمَ يَسْتَلِمُ",
-    "root": "س ل م",
-    "bs": "primiti / preuzeti",
-    "en": "to receive / to collect"
   },
   "اِسْتِمَاعٌ": {
     "lemma": "اِسْتِمَاعٌ",
@@ -1109,47 +791,23 @@
     "bs": "uživanje",
     "en": "enjoyment"
   },
-  "اسْتَمْتَعَ يَسْتَمْتِعُ": {
-    "lemma": "اسْتَمْتَعَ يَسْتَمْتِعُ",
-    "root": "م ت ع",
-    "bs": "uživati",
-    "en": "to enjoy"
-  },
   "اِسْتَمْتَعَ يَسْتَمْتِعُ": {
     "lemma": "اِسْتَمْتَعَ يَسْتَمْتِعُ",
     "root": "م ت ع",
     "bs": "uživati",
     "en": "to enjoy"
   },
-  "اسْتَمَرَّ يَسْتَمِرُّ": {
-    "lemma": "اسْتَمَرَّ يَسْتَمِرُّ",
-    "root": "م ر ر",
-    "bs": "nastaviti, trajati",
-    "en": "to continue, to keep on"
-  },
   "اِسْتَمَرَّ يَسْتَمِرُّ": {
     "lemma": "اِسْتَمَرَّ يَسْتَمِرُّ",
     "root": "م ر ر",
     "bs": "nastaviti, trajati",
-    "en": "to continue, to persist"
-  },
-  "اسْتِمْرَارٌ": {
-    "lemma": "اسْتِمْرَارٌ",
-    "root": "م ر ر",
-    "bs": "nastavak, trajanje",
-    "en": "continuation, continuity"
+    "en": "to continue, to keep on"
   },
   "اِسْتِمْرَارٌ": {
     "lemma": "اِسْتِمْرَارٌ",
     "root": "م ر ر",
     "bs": "nastavak, trajanje",
     "en": "continuation, persistence"
-  },
-  "اسْتَمَعَ يَسْتَمِعُ": {
-    "lemma": "اسْتَمَعَ يَسْتَمِعُ",
-    "root": "س م ع",
-    "bs": "slušati (pažljivo)",
-    "en": "to listen"
   },
   "اِسْتَمَعَ يَسْتَمِعُ": {
     "lemma": "اِسْتَمَعَ يَسْتَمِعُ",
@@ -1162,18 +820,6 @@
     "root": "ن ش ق",
     "bs": "udisati, njušiti",
     "en": "to inhale, to breathe in"
-  },
-  "اسْتِيقَاظٌ": {
-    "lemma": "اسْتِيقَاظٌ",
-    "root": "ي ق ظ",
-    "bs": "buđenje / ustajanje",
-    "en": "waking up / awakening"
-  },
-  "اسْتَيْقَظَ يَسْتَيْقِظُ": {
-    "lemma": "اسْتَيْقَظَ يَسْتَيْقِظُ",
-    "root": "ي ق ظ",
-    "bs": "probuditi se",
-    "en": "to wake up"
   },
   "اِسْتَيْقَظَ يَسْتَيْقِظُ": {
     "lemma": "اِسْتَيْقَظَ يَسْتَيْقِظُ",
@@ -1247,20 +893,8 @@
     "bs": "stil, način",
     "en": "style, manner"
   },
-  "اسْمٌ / أَسْمَاءٌ": {
-    "lemma": "اسْمٌ / أَسْمَاءٌ",
-    "root": "س م و",
-    "bs": "ime",
-    "en": "name"
-  },
   "اِسْمٌ / أَسْمَاءٌ": {
     "lemma": "اِسْمٌ / أَسْمَاءٌ",
-    "root": "س م و",
-    "bs": "ime",
-    "en": "name"
-  },
-  "اِسْمٌ / أَسْمَاءُ": {
-    "lemma": "اِسْمٌ / أَسْمَاءُ",
     "root": "س م و",
     "bs": "ime",
     "en": "name"
@@ -1275,12 +909,6 @@
     "lemma": "أَسْهَمَ يُسْهِمُ",
     "root": "س ه م",
     "bs": "doprinijela je",
-    "en": "contributed"
-  },
-  "أَسْهَمَ يُسْهِِمُ": {
-    "lemma": "أَسْهَمَ يُسْهِِمُ",
-    "root": "س ه م",
-    "bs": "doprinijeli su",
     "en": "contributed"
   },
   "أَسْوَدُ / سَوْدَاءُ": {
@@ -1301,18 +929,6 @@
     "bs": "čeznuti, nedostajati",
     "en": "to miss, to long for"
   },
-  "اشْتَدَّ يَشْتَدُّ": {
-    "lemma": "اشْتَدَّ يَشْتَدُّ",
-    "root": "ش د د",
-    "bs": "pojačati se, pogoršati se",
-    "en": "to intensify, to worsen"
-  },
-  "اشْتَرَى يَشْتَرِي": {
-    "lemma": "اشْتَرَى يَشْتَرِي",
-    "root": "ش ر ي",
-    "bs": "kupiti",
-    "en": "to buy"
-  },
   "اِشْتَرَى يَشْتَرِي": {
     "lemma": "اِشْتَرَى يَشْتَرِي",
     "root": "ش ر ي",
@@ -1324,12 +940,6 @@
     "root": "ش ع ل",
     "bs": "planuti, izbiti (o vatri)",
     "en": "to ignite, to blaze, to break out"
-  },
-  "اشْتَكَى يَشْتَكِي": {
-    "lemma": "اشْتَكَى يَشْتَكِي",
-    "root": "ش ك و",
-    "bs": "žaliti se; pritužiti se",
-    "en": "to complain"
   },
   "أَشْعَرَ يُشْعِرُ": {
     "lemma": "أَشْعَرَ يُشْعِرُ",
@@ -1366,12 +976,6 @@
     "root": "ص ب ح",
     "bs": "postati",
     "en": "to become"
-  },
-  "اصْطَادَ يَصْطَادُ": {
-    "lemma": "اصْطَادَ يَصْطَادُ",
-    "root": "ص ي د",
-    "bs": "loviti, pecati",
-    "en": "to fish, to hunt"
   },
   "أَصْعَبُ": {
     "lemma": "أَصْعَبُ",
@@ -1517,12 +1121,6 @@
     "bs": "isprika / izvinjenje",
     "en": "apology"
   },
-  "اعْتَذَرَ يَعْتَذِرُ": {
-    "lemma": "اعْتَذَرَ يَعْتَذِرُ",
-    "root": "ع ذ ر",
-    "bs": "izvinjavati se",
-    "en": "to apologise"
-  },
   "اِعْتَذَرَ يَعْتَذِرُ": {
     "lemma": "اِعْتَذَرَ يَعْتَذِرُ",
     "root": "ع ذ ر",
@@ -1535,35 +1133,11 @@
     "bs": "priznanje",
     "en": "confession / admission"
   },
-  "اعْتَرَفَ يَعْتَرِفُ": {
-    "lemma": "اعْتَرَفَ يَعْتَرِفُ",
-    "root": "ع ر ف",
-    "bs": "priznavati",
-    "en": "to admit / to confess"
-  },
-  "اعْتَقَدَ يَعْتَقِدُ": {
-    "lemma": "اعْتَقَدَ يَعْتَقِدُ",
-    "root": "ع ق د",
-    "bs": "smatrati, vjerovati",
-    "en": "to believe, to think, to consider"
-  },
-  "اعْتِمَادٌ": {
-    "lemma": "اعْتِمَادٌ",
-    "root": "ع م د",
-    "bs": "oslanjanje, pouzdanje",
-    "en": "reliance, dependence"
-  },
   "اِعْتَمَدَ يَعْتَمِدُ": {
     "lemma": "اِعْتَمَدَ يَعْتَمِدُ",
     "root": "ع م د",
     "bs": "oslanjati se; zavisiti",
     "en": "to depend; to rely on"
-  },
-  "اعْتِنَاءٌ": {
-    "lemma": "اعْتِنَاءٌ",
-    "root": "ع ن ي",
-    "bs": "brigu",
-    "en": "care"
   },
   "اِعْتِنَاءٌ": {
     "lemma": "اِعْتِنَاءٌ",
@@ -1571,16 +1145,10 @@
     "bs": "briga / staranje",
     "en": "care / looking after"
   },
-  "اعْتَنَى يَعْتَنِي": {
-    "lemma": "اعْتَنَى يَعْتَنِي",
-    "root": "ع ن ي",
-    "bs": "brinuti se, voditi brigu",
-    "en": "to take care of, to look after"
-  },
   "اِعْتَنَى يَعْتَنِي": {
     "lemma": "اِعْتَنَى يَعْتَنِي",
     "root": "ع ن ي",
-    "bs": "brinuti se, starати se",
+    "bs": "brinuti se, voditi brigu",
     "en": "to take care of, to look after"
   },
   "إِعْجَابٌ": {
@@ -1661,12 +1229,6 @@
     "bs": "pjesma",
     "en": "song"
   },
-  "أُغْنِيَةٌ / أُغْنِيَاتٌ": {
-    "lemma": "أُغْنِيَةٌ / أُغْنِيَاتٌ",
-    "root": "غ ن ي",
-    "bs": "pjesma",
-    "en": "song"
-  },
   "أَفَادَ يُفِيدُ": {
     "lemma": "أَفَادَ يُفِيدُ",
     "root": "ف ي د",
@@ -1733,35 +1295,11 @@
     "bs": "posuđivanja, preuzimanja",
     "en": "borrowings"
   },
-  "اقْتَرَبَ يَقْتَرِبُ": {
-    "lemma": "اقْتَرَبَ يَقْتَرِبُ",
-    "root": "ق ر ب",
-    "bs": "približiti se, prići",
-    "en": "to approach, to draw near"
-  },
-  "اقْتَرَحَ يَقْتَرِحُ": {
-    "lemma": "اقْتَرَحَ يَقْتَرِحُ",
-    "root": "ق ر ح",
-    "bs": "predložiti, sugerirati",
-    "en": "to suggest, to propose"
-  },
-  "اقْتِصَادِيٌّ": {
-    "lemma": "اقْتِصَادِيٌّ",
-    "root": "ق ص د",
-    "bs": "ekonomski",
-    "en": "economic"
-  },
   "اِقْتِصَادِيٌّ": {
     "lemma": "اِقْتِصَادِيٌّ",
     "root": "ق ص د",
-    "bs": "ekonomska",
+    "bs": "ekonomski",
     "en": "economic"
-  },
-  "اقْتَنَعَ يَقْتَنِعُ": {
-    "lemma": "اقْتَنَعَ يَقْتَنِعُ",
-    "root": "ق ن ع",
-    "bs": "uvjeriti se, biti uvjeren",
-    "en": "to be convinced, to be persuaded"
   },
   "أَقْرَبُ": {
     "lemma": "أَقْرَبُ",
@@ -1793,12 +1331,6 @@
     "bs": "veći, stariji",
     "en": "greater, older, bigger"
   },
-  "اكْتَشَفَ يَكْتَشِفُ": {
-    "lemma": "اكْتَشَفَ يَكْتَشِفُ",
-    "root": "ك ش ف",
-    "bs": "otkriti, pronaći",
-    "en": "to discover"
-  },
   "أَكْثَرُ": {
     "lemma": "أَكْثَرُ",
     "root": "ك ث ر",
@@ -1822,12 +1354,6 @@
     "root": "أ ك ل",
     "bs": "jesti",
     "en": "to eat"
-  },
-  "أَكْلَةٌ / أَكَلَاتٌ": {
-    "lemma": "أَكْلَةٌ / أَكَلَاتٌ",
-    "root": "أ ك ل",
-    "bs": "jelo; obrok",
-    "en": "dish; meal; food item"
   },
   "أَكْلَةٌ / أَكْلَاتٌ": {
     "lemma": "أَكْلَةٌ / أَكْلَاتٌ",
@@ -1870,24 +1396,6 @@
     "root": null,
     "bs": "album",
     "en": "album"
-  },
-  "الْتَحَقَ يَلْتَحِقُ": {
-    "lemma": "الْتَحَقَ يَلْتَحِقُ",
-    "root": "ل ح ق",
-    "bs": "pridružiti se / upisati se",
-    "en": "to join / to enrol"
-  },
-  "الْتَقَطَ يَلْتَقِطُ": {
-    "lemma": "الْتَقَطَ يَلْتَقِطُ",
-    "root": "ل ق ط",
-    "bs": "snimiti / uhvatiti",
-    "en": "to capture / to take (a photo)"
-  },
-  "الْتَقَى يَلْتَقِي": {
-    "lemma": "الْتَقَى يَلْتَقِي",
-    "root": "ل ق ي",
-    "bs": "sresti, sastati se",
-    "en": "to meet"
   },
   "اِلْتَقَى يَلْتَقِي": {
     "lemma": "اِلْتَقَى يَلْتَقِي",
@@ -1955,24 +1463,6 @@
     "bs": "bol",
     "en": "pain"
   },
-  "الْمُوسِيقَى": {
-    "lemma": "الْمُوسِيقَى",
-    "root": "م و س",
-    "bs": "muzika / glazba",
-    "en": "music"
-  },
-  "الْمِيكْرُوَيف": {
-    "lemma": "الْمِيكْرُوَيف",
-    "root": null,
-    "bs": "mikrovalna pećnica",
-    "en": "microwave"
-  },
-  "النَّاسُ": {
-    "lemma": "النَّاسُ",
-    "root": "ن و س",
-    "bs": "ljudi",
-    "en": "people"
-  },
   "أَلْهَمَ يُلْهِمُ": {
     "lemma": "أَلْهَمَ يُلْهِمُ",
     "root": "ل ه م",
@@ -2027,23 +1517,11 @@
     "bs": "poštenje, povjerenje",
     "en": "honesty, trustworthiness"
   },
-  "امْتِحَانٌ / امْتِحَانَاتٌ": {
-    "lemma": "امْتِحَانٌ / امْتِحَانَاتٌ",
-    "root": "م ح ن",
-    "bs": "ispit, provjera",
-    "en": "exam, test"
-  },
   "اِمْتِحَانٌ / اِمْتِحَانَاتٌ": {
     "lemma": "اِمْتِحَانٌ / اِمْتِحَانَاتٌ",
     "root": "م ح ن",
-    "bs": "ispit",
+    "bs": "ispit, provjera",
     "en": "exam / test"
-  },
-  "امْتَدَّ يَمْتَدُّ": {
-    "lemma": "امْتَدَّ يَمْتَدُّ",
-    "root": "م د د",
-    "bs": "proteže se",
-    "en": "extends"
   },
   "اِمْتَلَأَ يَمْتَلِئُ": {
     "lemma": "اِمْتَلَأَ يَمْتَلِئُ",
@@ -2051,17 +1529,11 @@
     "bs": "ispuniti se, biti pun",
     "en": "to fill, to be filled"
   },
-  "امْتِنَانٌ": {
-    "lemma": "امْتِنَانٌ",
-    "root": "م ن ن",
-    "bs": "zahvalnost",
-    "en": "gratitude, thankfulness"
-  },
   "اِمْتِنَانٌ": {
     "lemma": "اِمْتِنَانٌ",
     "root": "م ن ن",
     "bs": "zahvalnost",
-    "en": "gratitude"
+    "en": "gratitude, thankfulness"
   },
   "أَمْرٌ / أُمُورٌ": {
     "lemma": "أَمْرٌ / أُمُورٌ",
@@ -2069,22 +1541,11 @@
     "bs": "stvar, pitanje, nalog",
     "en": "matter, affair, thing"
   },
-  "امْرَأَةٌ / نِسَاءٌ": {
-    "lemma": "امْرَأَةٌ / نِسَاءٌ",
-    "root": "م ر أ",
-    "bs": "žena",
-    "en": "woman"
-  },
   "اِمْرَأَةٌ / نِسَاءٌ": {
     "lemma": "اِمْرَأَةٌ / نِسَاءٌ",
     "root": "م ر أ",
     "bs": "žena",
     "en": "woman"
-  },
-  "أَمَسِ": {
-    "lemma": "أَمَسِ",
-    "bs": "juče",
-    "en": "yesterday"
   },
   "أَمْسِ": {
     "lemma": "أَمْسِ",
@@ -2164,28 +1625,10 @@
     "bs": "internet",
     "en": "internet"
   },
-  "إِنْتِرْنِتٌ": {
-    "lemma": "إِنْتِرْنِتٌ",
-    "root": null,
-    "bs": "internet",
-    "en": "internet"
-  },
-  "انْتِشَاءٌ": {
-    "lemma": "انْتِشَاءٌ",
-    "root": "ن ش و",
-    "bs": "zanos",
-    "en": "ecstasy"
-  },
-  "انْتَشَرَ يَنْتَشِرُ": {
-    "lemma": "انْتَشَرَ يَنْتَشِرُ",
-    "root": "ن ش ر",
-    "bs": "proširiti se, rasprostraniti se",
-    "en": "to spread"
-  },
   "اِنْتَشَرَ يَنْتَشِرُ": {
     "lemma": "اِنْتَشَرَ يَنْتَشِرُ",
     "root": "ن ش ر",
-    "bs": "širiti se, rasprostirati se",
+    "bs": "proširiti se, rasprostraniti se",
     "en": "to spread"
   },
   "اِنْتِظَارٌ": {
@@ -2200,29 +1643,11 @@
     "bs": "redovitost, pravilnost",
     "en": "regularity"
   },
-  "انْتَظَرَ يَنْتَظِرُ": {
-    "lemma": "انْتَظَرَ يَنْتَظِرُ",
-    "root": "ن ظ ر",
-    "bs": "čekati",
-    "en": "to wait"
-  },
   "اِنْتَظَرَ يَنْتَظِرُ": {
     "lemma": "اِنْتَظَرَ يَنْتَظِرُ",
     "root": "ن ظ ر",
     "bs": "čekati",
     "en": "to wait"
-  },
-  "انْتَقَدَ يَنْتَقِدُ": {
-    "lemma": "انْتَقَدَ يَنْتَقِدُ",
-    "root": "ن ق د",
-    "bs": "kritikovati",
-    "en": "to criticize"
-  },
-  "انْتَقَلَ يَنْتَقِلُ": {
-    "lemma": "انْتَقَلَ يَنْتَقِلُ",
-    "root": "ن ق ل",
-    "bs": "preseliti se, premjestiti se",
-    "en": "to move, to transfer"
   },
   "اِنْتَقَلَ يَنْتَقِلُ": {
     "lemma": "اِنْتَقَلَ يَنْتَقِلُ",
@@ -2242,23 +1667,11 @@
     "bs": "završetak; okončanje",
     "en": "end; finishing; completion"
   },
-  "انْتِهَاءٌ / انْتِهَاءَاتٌ": {
-    "lemma": "انْتِهَاءٌ / انْتِهَاءَاتٌ",
-    "root": "ن ه ي",
-    "bs": "završetak",
-    "en": "end"
-  },
-  "انْتَهَى يَنْتَهِي": {
-    "lemma": "انْتَهَى يَنْتَهِي",
-    "root": "ن ه ي",
-    "bs": "završiti, okončati",
-    "en": "to finish, to end"
-  },
   "اِنْتَهَى يَنْتَهِي": {
     "lemma": "اِنْتَهَى يَنْتَهِي",
     "root": "ن ه ي",
-    "bs": "završiti se",
-    "en": "to end, to finish"
+    "bs": "završiti, okončati",
+    "en": "to finish, to end"
   },
   "إِنْجَازٌ / إِنْجَازَاتٌ": {
     "lemma": "إِنْجَازٌ / إِنْجَازَاتٌ",
@@ -2272,12 +1685,6 @@
     "bs": "postići, ostvariti",
     "en": "to achieve, to accomplish"
   },
-  "انْخَفَضَ يَنْخَفِضُ": {
-    "lemma": "انْخَفَضَ يَنْخَفِضُ",
-    "root": "خ ف ض",
-    "bs": "spasti; sniziti se",
-    "en": "to drop; to decrease"
-  },
   "أُنْسٌ": {
     "lemma": "أُنْسٌ",
     "root": "أ ن س",
@@ -2288,12 +1695,6 @@
     "lemma": "إِنْسَانٌ / أُنَاسٌ",
     "root": "أ ن س",
     "bs": "čovjek, ljudsko biće",
-    "en": "human being, person"
-  },
-  "إِنْسَانٌ / نَاسٌ": {
-    "lemma": "إِنْسَانٌ / نَاسٌ",
-    "root": "أ ن س",
-    "bs": "čovjek, osoba",
     "en": "human being, person"
   },
   "إِنْسَانِيٌّ": {
@@ -2314,23 +1715,11 @@
     "bs": "recitovati, pjevati",
     "en": "to recite, to chant"
   },
-  "انْطَلَقَ يَنْطَلِقُ": {
-    "lemma": "انْطَلَقَ يَنْطَلِقُ",
-    "root": "ط ل ق",
-    "bs": "krenuti, poći",
-    "en": "to set off, to depart"
-  },
   "اِنْطَلَقَ يَنْطَلِقُ": {
     "lemma": "اِنْطَلَقَ يَنْطَلِقُ",
     "root": "ط ل ق",
     "bs": "krenuti, otići",
     "en": "to set off, to dart away"
-  },
-  "انْعَقَدَ يَنْعَقِدُ": {
-    "lemma": "انْعَقَدَ يَنْعَقِدُ",
-    "root": "ع ق د",
-    "bs": "održava se",
-    "en": "is held"
   },
   "أَنْفٌ / آنَافٌ": {
     "lemma": "أَنْفٌ / آنَافٌ",
@@ -2350,23 +1739,11 @@
     "bs": "trošiti; izdavati",
     "en": "to spend; to expend"
   },
-  "انْقَطَعَ يَنْقَطِعُ": {
-    "lemma": "انْقَطَعَ يَنْقَطِعُ",
-    "root": "ق ط ع",
-    "bs": "prekinuti se, nestati",
-    "en": "to be cut off, to go out"
-  },
   "اِنْقَطَعَ يَنْقَطِعُ": {
     "lemma": "اِنْقَطَعَ يَنْقَطِعُ",
     "root": "ق ط ع",
     "bs": "prekinuti se, prestatiti",
-    "en": "to be cut off, to break"
-  },
-  "انْكَسَرَ يَنْكَسِرُ": {
-    "lemma": "انْكَسَرَ يَنْكَسِرُ",
-    "root": "ك س ر",
-    "bs": "slomiti se, razbiti se",
-    "en": "to break, to crack"
+    "en": "to be cut off, to go out"
   },
   "أَنْهَى يُنْهِي": {
     "lemma": "أَنْهَى يُنْهِي",
@@ -2374,28 +1751,16 @@
     "bs": "završiti / okončati",
     "en": "to finish / to complete"
   },
-  "اهْتَرَأَ يَهْتَرِئُ": {
-    "lemma": "اهْتَرَأَ يَهْتَرِئُ",
-    "root": "ه ر أ",
-    "bs": "istrošiti se / pohabati se",
-    "en": "to wear out / to become worn"
-  },
   "اِهْتَمَّ يَهْتَمُّ": {
     "lemma": "اِهْتَمَّ يَهْتَمُّ",
     "root": "ه م م",
     "bs": "brinuti se; mariti",
     "en": "to care; to be concerned"
   },
-  "اهْتِمَامٌ / اهْتِمَامَاتٌ": {
-    "lemma": "اهْتِمَامٌ / اهْتِمَامَاتٌ",
-    "root": "ه م م",
-    "bs": "briga, interes, pažnja",
-    "en": "interest, care, concern"
-  },
   "اِهْتِمَامٌ / اِهْتِمَامَاتٌ": {
     "lemma": "اِهْتِمَامٌ / اِهْتِمَامَاتٌ",
     "root": "ه م م",
-    "bs": "pažnja, interes",
+    "bs": "briga, interes, pažnja",
     "en": "attention, interest, care"
   },
   "أَهْدَى يُهْدِي": {
@@ -2415,12 +1780,6 @@
     "root": "ه م م",
     "bs": "važniji, najvažniji",
     "en": "more important, most important"
-  },
-  "أَهَمِّيَةٌ": {
-    "lemma": "أَهَمِّيَةٌ",
-    "root": "ه م م",
-    "bs": "važnost, značaj",
-    "en": "importance"
   },
   "أَهَمِّيَّةٌ": {
     "lemma": "أَهَمِّيَّةٌ",
@@ -2463,12 +1822,6 @@
     "root": "و ق ف",
     "bs": "zaustaviti / prekinuti",
     "en": "to stop / to halt"
-  },
-  "أَوَّلٌ": {
-    "lemma": "أَوَّلٌ",
-    "root": "أ و ل",
-    "bs": "prvi",
-    "en": "first"
   },
   "أَوَّلُ": {
     "lemma": "أَوَّلُ",
@@ -2650,20 +2003,8 @@
     "bs": "zamjena / alternativa",
     "en": "alternative / substitute"
   },
-  "بَذْرَةٌ / بَذَرَاتٌ": {
-    "lemma": "بَذْرَةٌ / بَذَرَاتٌ",
-    "root": "ب ذ ر",
-    "bs": "sjemenka / sjeme",
-    "en": "seed"
-  },
   "بَذْرَةٌ / بُذُورٌ": {
     "lemma": "بَذْرَةٌ / بُذُورٌ",
-    "root": "ب ذ ر",
-    "bs": "sjeme, sjemenka",
-    "en": "seed"
-  },
-  "بِذْرَةٌ / بُذُورٌ": {
-    "lemma": "بِذْرَةٌ / بُذُورٌ",
     "root": "ب ذ ر",
     "bs": "sjeme, sjemenka",
     "en": "seed"
@@ -2728,12 +2069,6 @@
     "bs": "voćnjak; bašta",
     "en": "orchard; garden"
   },
-  "بِسْمِ اللَّهِ": {
-    "lemma": "بِسْمِ اللَّهِ",
-    "root": "س م و",
-    "bs": "u ime Allaha, bismillah",
-    "en": "in the name of God, Bismillah"
-  },
   "بَسْمَةٌ / بَسَمَاتٌ": {
     "lemma": "بَسْمَةٌ / بَسَمَاتٌ",
     "root": "ب س م",
@@ -2788,23 +2123,11 @@
     "bs": "krompir; krumpir",
     "en": "potato"
   },
-  "بَطَاقَةٌ / بَطَاقَاتٌ": {
-    "lemma": "بَطَاقَةٌ / بَطَاقَاتٌ",
-    "root": "ب ط ق",
-    "bs": "kartica",
-    "en": "card"
-  },
   "بِطَاقَةٌ / بِطَاقَاتٌ": {
     "lemma": "بِطَاقَةٌ / بِطَاقَاتٌ",
     "root": "ب ط ق",
     "bs": "kartica",
     "en": "card"
-  },
-  "بِطَّانِيَةٌ / بِطَّانِيَاتٌ": {
-    "lemma": "بِطَّانِيَةٌ / بِطَّانِيَاتٌ",
-    "root": "ب ط ن",
-    "bs": "deka, ćebe",
-    "en": "blanket"
   },
   "بِطَّانِيَّةٌ / بَطَّانِيَّاتٌ": {
     "lemma": "بِطَّانِيَّةٌ / بَطَّانِيَّاتٌ",
@@ -2857,20 +2180,8 @@
   "بَقَالَةٌ / بَقَالَاتٌ": {
     "lemma": "بَقَالَةٌ / بَقَالَاتٌ",
     "root": "ب ق ل",
-    "bs": "bakalnica, prodavnica namirnica",
-    "en": "grocery store"
-  },
-  "بَقَّالَةٌ / بَقَّالَاتٌ": {
-    "lemma": "بَقَّالَةٌ / بَقَّالَاتٌ",
-    "root": "ب ق ل",
     "bs": "prodavnica mješovite robe; bakala",
     "en": "grocery store"
-  },
-  "بَقَرَةٌ / أَبْقَارٌ": {
-    "lemma": "بَقَرَةٌ / أَبْقَارٌ",
-    "root": "ب ق ر",
-    "bs": "krava",
-    "en": "cow"
   },
   "بَقَرَةٌ / بَقَرٌ": {
     "lemma": "بَقَرَةٌ / بَقَرٌ",
@@ -2913,12 +2224,6 @@
     "root": "ب ل د",
     "bs": "zemlja, grad, država",
     "en": "country, city, land"
-  },
-  "بَلَدٌ / بُلْدَانٌ": {
-    "lemma": "بَلَدٌ / بُلْدَانٌ",
-    "root": "ب ل د",
-    "bs": "zemlja, država",
-    "en": "country, land"
   },
   "بَلَدِيَّةٌ / بَلَدِيَّاتٌ": {
     "lemma": "بَلَدِيَّةٌ / بَلَدِيَّاتٌ",
@@ -4204,12 +3509,6 @@
     "bs": "frižider, hladnjak",
     "en": "refrigerator, fridge"
   },
-  "ثَلَجٌ / ثُلُوجٌ": {
-    "lemma": "ثَلَجٌ / ثُلُوجٌ",
-    "root": "ث ل ج",
-    "bs": "snijeg",
-    "en": "snow"
-  },
   "ثَلْجٌ / ثُلُوجٌ": {
     "lemma": "ثَلْجٌ / ثُلُوجٌ",
     "root": "ث ل ج",
@@ -4359,12 +3658,6 @@
     "root": "ج د د",
     "bs": "veoma; jako",
     "en": "very; extremely"
-  },
-  "جِدَارٌ / جُدُرٌ": {
-    "lemma": "جِدَارٌ / جُدُرٌ",
-    "root": "ج د ر",
-    "bs": "zid",
-    "en": "wall"
   },
   "جِدَارٌ / جُدْرَانٌ": {
     "lemma": "جِدَارٌ / جُدْرَانٌ",
@@ -4600,12 +3893,6 @@
     "bs": "džuma, petkom-namaz",
     "en": "Friday prayer, Jumu'ah"
   },
-  "جُمُعَةٌ / جُمُعَاتٌ": {
-    "lemma": "جُمُعَةٌ / جُمُعَاتٌ",
-    "root": "ج م ع",
-    "bs": "džuma, petkom-namaz",
-    "en": "Friday prayer, Jumu'ah"
-  },
   "جَمْعِيَّةٌ / جَمْعِيَّاتٌ": {
     "lemma": "جَمْعِيَّةٌ / جَمْعِيَّاتٌ",
     "root": "خ ي ر",
@@ -4833,12 +4120,6 @@
     "root": "ح ج ر",
     "bs": "kamen",
     "en": "stone"
-  },
-  "حَجَرٌ / حِجَارَةٌ": {
-    "lemma": "حَجَرٌ / حِجَارَةٌ",
-    "root": "ح ج ر",
-    "bs": "kamen",
-    "en": "stone; rock"
   },
   "حَجَزَ يَحْجُزُ": {
     "lemma": "حَجَزَ يَحْجُزُ",
@@ -5584,18 +4865,6 @@
     "bs": "povrće",
     "en": "vegetables"
   },
-  "خُضَارٌ / خُضَرَاوَاتٌ": {
-    "lemma": "خُضَارٌ / خُضَرَاوَاتٌ",
-    "root": "خ ض ر",
-    "bs": "povrće",
-    "en": "vegetables"
-  },
-  "خُضَارٌ / خُضْرَاوَاتٌ": {
-    "lemma": "خُضَارٌ / خُضْرَاوَاتٌ",
-    "root": "خ ض ر",
-    "bs": "povrće",
-    "en": "vegetables"
-  },
   "خُضَرٌ / خَضْرَاوَاتٌ": {
     "lemma": "خُضَرٌ / خَضْرَاوَاتٌ",
     "root": "خ ض ر",
@@ -5652,12 +4921,6 @@
   },
   "خُطْوَةٌ / خُطُوَاتٌ": {
     "lemma": "خُطْوَةٌ / خُطُوَاتٌ",
-    "root": "خ ط و",
-    "bs": "korak",
-    "en": "step"
-  },
-  "خُطْوَةٌ / خُطْوَاتٌ": {
-    "lemma": "خُطْوَةٌ / خُطْوَاتٌ",
     "root": "خ ط و",
     "bs": "korak",
     "en": "step"
@@ -5751,12 +5014,6 @@
     "root": "خ ي ر",
     "bs": "dobro, blagodat",
     "en": "goodness, good"
-  },
-  "خَيْرٌ / خُيُورٌ": {
-    "lemma": "خَيْرٌ / خُيُورٌ",
-    "root": "خ ي ر",
-    "bs": "dobro / blagoslov",
-    "en": "good / goodness"
   },
   "خَيْرِيٌّ": {
     "lemma": "خَيْرِيٌّ",
@@ -6370,18 +5627,6 @@
     "bs": "putovanje / izlet",
     "en": "trip / journey"
   },
-  "رِحْلَةٌ / رِحَلَاتٌ": {
-    "lemma": "رِحْلَةٌ / رِحَلَاتٌ",
-    "root": "ر ح ل",
-    "bs": "putovanje, izlet",
-    "en": "trip, journey, excursion"
-  },
-  "رِحْلَةٌ / رِحْلَاتٌ": {
-    "lemma": "رِحْلَةٌ / رِحْلَاتٌ",
-    "root": "ر ح ل",
-    "bs": "putovanje; izlet",
-    "en": "journey; trip"
-  },
   "رَحْمَةٌ / رَحَمَاتٌ": {
     "lemma": "رَحْمَةٌ / رَحَمَاتٌ",
     "root": "ر ح م",
@@ -6814,18 +6059,6 @@
     "bs": "cvijet",
     "en": "flower"
   },
-  "زَهْرَةٌ / زَهَرَاتٌ": {
-    "lemma": "زَهْرَةٌ / زَهَرَاتٌ",
-    "root": "ز ه ر",
-    "bs": "cvijet",
-    "en": "flower"
-  },
-  "زَهْرَةٌ / زُهُورٌ": {
-    "lemma": "زَهْرَةٌ / زُهُورٌ",
-    "root": "ز ه ر",
-    "bs": "cvijet",
-    "en": "flower"
-  },
   "زَوْجَةٌ / زَوْجَاتٌ": {
     "lemma": "زَوْجَةٌ / زَوْجَاتٌ",
     "root": "ز و ج",
@@ -7005,12 +6238,6 @@
     "root": "س ب ح",
     "bs": "slaviti, veličati (Allaha)",
     "en": "to glorify, to praise (God)"
-  },
-  "سُبْحَانَ اللَّهِ": {
-    "lemma": "سُبْحَانَ اللَّهِ",
-    "root": "س ب ح",
-    "bs": "SubhanAllah, slava Allahu",
-    "en": "Glory be to God, Subhanallah"
   },
   "سَبُّورَةٌ / سَبُّورَاتٌ": {
     "lemma": "سَبُّورَةٌ / سَبُّورَاتٌ",
@@ -7402,12 +6629,6 @@
     "bs": "crna boja, crnoća",
     "en": "blackness, darkness"
   },
-  "سُوبَرْمَارْكِت": {
-    "lemma": "سُوبَرْمَارْكِت",
-    "root": null,
-    "bs": "supermarket",
-    "en": "supermarket"
-  },
   "سُوبَرْمَارْكِتٌ": {
     "lemma": "سُوبَرْمَارْكِتٌ",
     "root": null,
@@ -7478,12 +6699,6 @@
     "lemma": "سِينَمَا",
     "root": null,
     "bs": "kino / bioskop",
-    "en": "cinema"
-  },
-  "سِينِمَا": {
-    "lemma": "سِينِمَا",
-    "root": null,
-    "bs": "kino, bioskop",
     "en": "cinema"
   },
   "شَائِعٌ": {
@@ -7708,12 +6923,6 @@
     "bs": "policija",
     "en": "police"
   },
-  "شُرْطِيٌّ / شُرْطَةٌ": {
-    "lemma": "شُرْطِيٌّ / شُرْطَةٌ",
-    "root": "ش ر ط",
-    "bs": "policajac",
-    "en": "police officer"
-  },
   "شُرْطِيٌّ / شُرْطِيُّونَ": {
     "lemma": "شُرْطِيٌّ / شُرْطِيُّونَ",
     "root": "ش ر ط",
@@ -7779,12 +6988,6 @@
     "root": "ش ع ر",
     "bs": "poezija; pjesništvo",
     "en": "poetry; verse"
-  },
-  "شَعْرٌ / شُعُورٌ": {
-    "lemma": "شَعْرٌ / شُعُورٌ",
-    "root": "ش ع ر",
-    "bs": "kosa",
-    "en": "hair"
   },
   "شَعَرَ يَشْعُرُ": {
     "lemma": "شَعَرَ يَشْعُرُ",
@@ -8092,24 +7295,6 @@
     "bs": "zanatlija; majstor",
     "en": "craftsman; maker"
   },
-  "صَبَاحٌ / أَصْبَاحٌ": {
-    "lemma": "صَبَاحٌ / أَصْبَاحٌ",
-    "root": "ص ب ح",
-    "bs": "jutro",
-    "en": "morning"
-  },
-  "صَبَاحٌ / أَصْبِحَةٌ": {
-    "lemma": "صَبَاحٌ / أَصْبِحَةٌ",
-    "root": "ص ب ح",
-    "bs": "jutro",
-    "en": "morning"
-  },
-  "صَبَاحٌ / بَاكِرٌ": {
-    "lemma": "صَبَاحٌ / بَاكِرٌ",
-    "root": "ص ب ح",
-    "bs": "rano jutro",
-    "en": "early morning"
-  },
   "صَبَاحٌ / صَبَاحَاتٌ": {
     "lemma": "صَبَاحٌ / صَبَاحَاتٌ",
     "root": "ص ب ح",
@@ -8338,12 +7523,6 @@
     "bs": "namaz, molitva",
     "en": "prayer"
   },
-  "صَلَاةُ الْعِيدِ": {
-    "lemma": "صَلَاةُ الْعِيدِ",
-    "root": "ع ي د",
-    "bs": "bajram-namaz",
-    "en": "Eid prayer"
-  },
   "صَلَاةٌ جَمَاعِيَّةٌ": {
     "lemma": "صَلَاةٌ جَمَاعِيَّةٌ",
     "root": "ج م ع",
@@ -8380,12 +7559,6 @@
     "bs": "zanata, proizvoda",
     "en": "crafts"
   },
-  "صِنَاعَةٌ / صِنَاعَاتٌ": {
-    "lemma": "صِنَاعَةٌ / صِنَاعَاتٌ",
-    "root": "ص ن ع",
-    "bs": "zanat; industrija",
-    "en": "craft; industry"
-  },
   "صُنْدُوقٌ / صَنَادِيقُ": {
     "lemma": "صُنْدُوقٌ / صَنَادِيقُ",
     "root": "ص ن د",
@@ -8409,12 +7582,6 @@
     "root": "ص و ت",
     "bs": "zvuk, glas",
     "en": "sound, voice"
-  },
-  "صَوْتٌ / أَصْوَاتٌ — عَالٍ": {
-    "lemma": "صَوْتٌ / أَصْوَاتٌ — عَالٍ",
-    "root": "ص و ت",
-    "bs": "glasno",
-    "en": "out loud, in a loud voice"
   },
   "صَوَّرَ يُصَوِّرُ": {
     "lemma": "صَوَّرَ يُصَوِّرُ",
@@ -8462,18 +7629,6 @@
     "lemma": "صَيْدَلَانِيٌّ / صَيَادِلَةٌ",
     "root": "ص د ل",
     "bs": "farmaceut; apotekar",
-    "en": "pharmacist"
-  },
-  "صَيْدَلَانِيٌّ / صَيَادِلَةُ": {
-    "lemma": "صَيْدَلَانِيٌّ / صَيَادِلَةُ",
-    "root": "ص ي د",
-    "bs": "farmaceut; apotekar",
-    "en": "pharmacist"
-  },
-  "صَيْدَلَانِيٌّ / صَيْدَلَانِيُّونَ": {
-    "lemma": "صَيْدَلَانِيٌّ / صَيْدَلَانِيُّونَ",
-    "root": "ص ي د ل",
-    "bs": "farmaceut",
     "en": "pharmacist"
   },
   "صَيْدَلَانِيَّةٌ / صَيَادِلَةُ": {
@@ -8890,18 +8045,6 @@
     "bs": "dijete",
     "en": "child"
   },
-  "طِفْلَةٌ / أَطْفَالٌ": {
-    "lemma": "طِفْلَةٌ / أَطْفَالٌ",
-    "root": "ط ف ل",
-    "bs": "djevojčica, dijete",
-    "en": "little girl, child"
-  },
-  "طِفْلَةٌ / طِفْلٌ / أَطْفَالٌ": {
-    "lemma": "طِفْلَةٌ / طِفْلٌ / أَطْفَالٌ",
-    "root": "ط ف ل",
-    "bs": "djevojčica; dijete",
-    "en": "girl; child"
-  },
   "طِفْلَةٌ / طِفْلَاتٌ": {
     "lemma": "طِفْلَةٌ / طِفْلَاتٌ",
     "root": "ط ف ل",
@@ -8913,12 +8056,6 @@
     "root": "ط ق س",
     "bs": "vremenska prognoza, klima",
     "en": "weather, climate"
-  },
-  "طَقْسٌ / طُقُوسٌ": {
-    "lemma": "طَقْسٌ / طُقُوسٌ",
-    "root": "ط ق س",
-    "bs": "vrijeme (meteorološko)",
-    "en": "weather"
   },
   "طَقْسَةٌ / طَقْسَاتٌ": {
     "lemma": "طَقْسَةٌ / طَقْسَاتٌ",
@@ -9327,12 +8464,6 @@
     "bs": "med",
     "en": "honey"
   },
-  "عَسَلٌ / عُسُولٌ": {
-    "lemma": "عَسَلٌ / عُسُولٌ",
-    "root": "ع س ل",
-    "bs": "med",
-    "en": "honey"
-  },
   "عُشٌّ / أَعْشَاشٌ": {
     "lemma": "عُشٌّ / أَعْشَاشٌ",
     "root": "ع ش ش",
@@ -9705,12 +8836,6 @@
     "bs": "praznik, bajram",
     "en": "feast, holiday"
   },
-  "عِيدُ الْأَضْحَى": {
-    "lemma": "عِيدُ الْأَضْحَى",
-    "root": "ض ح و",
-    "bs": "Kurban-bajram",
-    "en": "Eid al-Adha, Festival of Sacrifice"
-  },
   "عِيدُ مِيلَادٍ": {
     "lemma": "عِيدُ مِيلَادٍ",
     "root": "و ل د",
@@ -9770,12 +8895,6 @@
     "root": "غ د و",
     "bs": "sutra",
     "en": "tomorrow"
-  },
-  "غَدَاءٌ / أَغْدِيَةٌ": {
-    "lemma": "غَدَاءٌ / أَغْدِيَةٌ",
-    "root": "غ د و",
-    "bs": "ručak",
-    "en": "lunch"
   },
   "غَدَاءٌ / أَغْذِيَةٌ": {
     "lemma": "غَدَاءٌ / أَغْذِيَةٌ",
@@ -10202,12 +9321,6 @@
     "root": "ف ق د",
     "bs": "izgubiti",
     "en": "to lose"
-  },
-  "فَقِيرٌ / فُقَرَاءٌ": {
-    "lemma": "فَقِيرٌ / فُقَرَاءٌ",
-    "root": "ف ق ر",
-    "bs": "siromašan, siromah",
-    "en": "poor person, the poor"
   },
   "فَقِيرٌ / فُقَرَاءُ": {
     "lemma": "فَقِيرٌ / فُقَرَاءُ",
@@ -10971,23 +10084,11 @@
     "bs": "sveska, bilježnica",
     "en": "notebook, exercise book"
   },
-  "كُرَّاسَةٌ / كُرَّاسَاتٌ": {
-    "lemma": "كُرَّاسَةٌ / كُرَّاسَاتٌ",
-    "root": "ك ر س",
-    "bs": "sveska, bilježnica",
-    "en": "notebook, exercise book"
-  },
   "كُرَةٌ / كُرَاتٌ": {
     "lemma": "كُرَةٌ / كُرَاتٌ",
     "root": "ك و ر",
     "bs": "fudbal",
     "en": "football, soccer"
-  },
-  "كُرَةُ السَّلَّةِ": {
-    "lemma": "كُرَةُ السَّلَّةِ",
-    "root": "ك و ر",
-    "bs": "košarka",
-    "en": "basketball"
   },
   "كَرَّرَ يُكَرِّرُ": {
     "lemma": "كَرَّرَ يُكَرِّرُ",
@@ -11096,12 +10197,6 @@
     "root": "ك ل م",
     "bs": "riječ",
     "en": "word"
-  },
-  "كَلِمَةُ الْمُرُورِ": {
-    "lemma": "كَلِمَةُ الْمُرُورِ",
-    "root": "م ر ر",
-    "bs": "lozinka",
-    "en": "password"
   },
   "كُمْبِيُوتَرٌ / كُمْبِيُوتَرَاتٌ": {
     "lemma": "كُمْبِيُوتَرٌ / كُمْبِيُوتَرَاتٌ",
@@ -11283,12 +10378,6 @@
     "bs": "igračka / igra",
     "en": "toy / game"
   },
-  "لُعْبَةٌ / لُعَبٌ": {
-    "lemma": "لُعْبَةٌ / لُعَبٌ",
-    "root": "ل ع ب",
-    "bs": "igračka",
-    "en": "toy"
-  },
   "لَعِبَةٌ / لَعِبَاتٌ": {
     "lemma": "لَعِبَةٌ / لَعِبَاتٌ",
     "root": "ل ع ب",
@@ -11360,12 +10449,6 @@
     "root": "ل ي ل",
     "bs": "noć / večer",
     "en": "night / evening"
-  },
-  "لَيْلَةُ الْقَدْرِ": {
-    "lemma": "لَيْلَةُ الْقَدْرِ",
-    "root": "ق د ر",
-    "bs": "Lejletu-l-kadr, Noć odredbe",
-    "en": "the Night of Power, Laylat al-Qadr"
   },
   "لَيْمُونٌ": {
     "lemma": "لَيْمُونٌ",
@@ -11769,12 +10852,6 @@
     "bs": "ograničen",
     "en": "limited, restricted"
   },
-  "مُحَرِّكُ الْبَحْثِ": {
-    "lemma": "مُحَرِّكُ الْبَحْثِ",
-    "root": "ب ح ث",
-    "bs": "tražilica / pretraživač",
-    "en": "search engine"
-  },
   "مَحْصُولٌ / مَحَاصِيلُ": {
     "lemma": "مَحْصُولٌ / مَحَاصِيلُ",
     "root": "ح ص ل",
@@ -11907,12 +10984,6 @@
     "bs": "direktor, šef",
     "en": "manager, director"
   },
-  "مُدِيرٌ / مُدِيرُونَ": {
-    "lemma": "مُدِيرٌ / مُدِيرُونَ",
-    "root": "د و ر",
-    "bs": "direktor, ravnatelj",
-    "en": "director, principal"
-  },
   "مَدِينَةٌ / مُدُنٌ": {
     "lemma": "مَدِينَةٌ / مُدُنٌ",
     "root": "م د ن",
@@ -11936,12 +11007,6 @@
     "root": "ر أ ي",
     "bs": "ogledalo",
     "en": "mirror"
-  },
-  "مَرْأَةٌ / نِسَاءٌ": {
-    "lemma": "مَرْأَةٌ / نِسَاءٌ",
-    "root": "م ر أ",
-    "bs": "žena",
-    "en": "woman"
   },
   "مُرَاجِعٌ / مُرَاجِعُونَ": {
     "lemma": "مُرَاجِعٌ / مُرَاجِعُونَ",
@@ -13071,12 +12136,6 @@
     "bs": "val",
     "en": "wave"
   },
-  "مَوْجَةٌ / مَوْجَاتٌ": {
-    "lemma": "مَوْجَةٌ / مَوْجَاتٌ",
-    "root": "م و ج",
-    "bs": "vala",
-    "en": "wave"
-  },
   "مَوْرُوثٌ / مَوْرُوثَاتٌ": {
     "lemma": "مَوْرُوثٌ / مَوْرُوثَاتٌ",
     "root": "و ر ث",
@@ -13365,12 +12424,6 @@
     "bs": "zvijezda",
     "en": "star"
   },
-  "نَجْمَةٌ / نَجْمَاتٌ": {
-    "lemma": "نَجْمَةٌ / نَجْمَاتٌ",
-    "root": "ن ج م",
-    "bs": "zvijezda",
-    "en": "star"
-  },
   "نَجْمَةٌ / نُجُومٌ": {
     "lemma": "نَجْمَةٌ / نُجُومٌ",
     "root": "ن ج م",
@@ -13653,18 +12706,6 @@
     "bs": "načina, obrazaca",
     "en": "patterns"
   },
-  "نَهَارٌ / أَنْهُرٌ": {
-    "lemma": "نَهَارٌ / أَنْهُرٌ",
-    "root": "ن ه ر",
-    "bs": "dan",
-    "en": "day"
-  },
-  "نَهَارٌ / أَنْهِرَةٌ": {
-    "lemma": "نَهَارٌ / أَنْهِرَةٌ",
-    "root": "ن ه ر",
-    "bs": "dan",
-    "en": "day; daytime"
-  },
   "نِهَايَةٌ / نِهَايَاتٌ": {
     "lemma": "نِهَايَةٌ / نِهَايَاتٌ",
     "root": "ن ه ي",
@@ -13917,12 +12958,6 @@
     "bs": "obrok",
     "en": "meal"
   },
-  "وَجْبَةٌ / وَجْبَاتٌ": {
-    "lemma": "وَجْبَةٌ / وَجْبَاتٌ",
-    "root": "و ج ب",
-    "bs": "obrok",
-    "en": "meal"
-  },
   "وِجْبَةٌ / وِجَبَاتٌ": {
     "lemma": "وِجْبَةٌ / وِجَبَاتٌ",
     "root": "و ج ب",
@@ -13964,12 +12999,6 @@
     "root": "و د ع",
     "bs": "oprostiti se",
     "en": "to bid farewell"
-  },
-  "وَرْدَةٌ / وَرْدَاتٌ": {
-    "lemma": "وَرْدَةٌ / وَرْدَاتٌ",
-    "root": "و ر د",
-    "bs": "ruža; cvijet",
-    "en": "rose; flower"
   },
   "وَرْدَةٌ / وُرُودٌ": {
     "lemma": "وَرْدَةٌ / وُرُودٌ",
@@ -14051,12 +13080,6 @@
   },
   "وَصْفَةٌ / وَصَفَاتٌ": {
     "lemma": "وَصْفَةٌ / وَصَفَاتٌ",
-    "root": "و ص ف",
-    "bs": "recept",
-    "en": "recipe"
-  },
-  "وَصْفَةٌ / وَصْفَاتٌ": {
-    "lemma": "وَصْفَةٌ / وَصْفَاتٌ",
     "root": "و ص ف",
     "bs": "recept",
     "en": "recipe"
@@ -14252,5 +13275,347 @@
     "root": "ي و م",
     "bs": "dnevnik",
     "en": "diary, daily notes"
+  },
+  "مِيكْرُوَيف": {
+    "lemma": "مِيكْرُوَيف",
+    "root": null,
+    "bs": "mikrovalna pećnica",
+    "en": "microwave"
+  },
+  "اِبْتِعَادٌ": {
+    "lemma": "اِبْتِعَادٌ",
+    "root": "ب ع د",
+    "bs": "udaljenost, odmicanje",
+    "en": "distance, distancing"
+  },
+  "اِبْنَةٌ / بَنَاتٌ": {
+    "lemma": "اِبْنَةٌ / بَنَاتٌ",
+    "root": "ب ن و",
+    "bs": "kćerka",
+    "en": "daughter"
+  },
+  "اِتِّحَادٌ / اِتِّحَادَاتٌ": {
+    "lemma": "اِتِّحَادٌ / اِتِّحَادَاتٌ",
+    "root": "و ح د",
+    "bs": "ujedinjenje, savez",
+    "en": "union, unification"
+  },
+  "اِتَّصَلَ يَتَّصِلُ": {
+    "lemma": "اِتَّصَلَ يَتَّصِلُ",
+    "root": "و ص ل",
+    "bs": "nazvati / kontaktirati",
+    "en": "to call / to contact"
+  },
+  "اِتَّقَى يَتَّقِي": {
+    "lemma": "اِتَّقَى يَتَّقِي",
+    "root": "و ق ي",
+    "bs": "čuvati se, bojati se Boga",
+    "en": "to fear, to be wary of"
+  },
+  "اِجْتِمَاعِيٌّ": {
+    "lemma": "اِجْتِمَاعِيٌّ",
+    "root": "ج م ع",
+    "bs": "društveni; socijalni",
+    "en": "social"
+  },
+  "اِحْتَفَظَ يَحْتَفِظُ": {
+    "lemma": "اِحْتَفَظَ يَحْتَفِظُ",
+    "root": "ح ف ظ",
+    "bs": "čuvati / zadržati",
+    "en": "to keep / to retain"
+  },
+  "اِخْتَفَى يَخْتَفِي": {
+    "lemma": "اِخْتَفَى يَخْتَفِي",
+    "root": "خ ف ي",
+    "bs": "nestati, sakriti se",
+    "en": "to disappear"
+  },
+  "اِخْتَلَّ يَخْتَلُّ": {
+    "lemma": "اِخْتَلَّ يَخْتَلُّ",
+    "root": "خ ل ل",
+    "bs": "rasplesti se, poremeti se",
+    "en": "to come undone, to fall apart"
+  },
+  "اِخْتِيَارٌ": {
+    "lemma": "اِخْتِيَارٌ",
+    "root": "خ ي ر",
+    "bs": "odabir, izbor",
+    "en": "choice, selection"
+  },
+  "اِدَّعَى يَدَّعِي": {
+    "lemma": "اِدَّعَى يَدَّعِي",
+    "root": "د ع و",
+    "bs": "tvrditi, pretendirati",
+    "en": "to claim, to pretend"
+  },
+  "اِرْتَبَطَ يَرْتَبِطُ": {
+    "lemma": "اِرْتَبَطَ يَرْتَبِطُ",
+    "root": "ر ب ط",
+    "bs": "povezana je",
+    "en": "is linked"
+  },
+  "اِرْتَدَى يَرْتَدِي": {
+    "lemma": "اِرْتَدَى يَرْتَدِي",
+    "root": "ر د ي",
+    "bs": "obući se, nositi (odjeću)",
+    "en": "to put on, to wear"
+  },
+  "اِزْدَادَ يَزْدَادُ": {
+    "lemma": "اِزْدَادَ يَزْدَادُ",
+    "root": "ز ي د",
+    "bs": "povećati se, narasti, ojačati",
+    "en": "to increase, to grow, to multiply"
+  },
+  "اِسْتَأْجَرَ يَسْتَأْجِرُ": {
+    "lemma": "اِسْتَأْجَرَ يَسْتَأْجِرُ",
+    "root": "أ ج ر",
+    "bs": "iznajmiti; uzeti u zakup",
+    "en": "to rent; to hire"
+  },
+  "اِسْتِثْمَارٌ / اِسْتِثْمَارَاتٌ": {
+    "lemma": "اِسْتِثْمَارٌ / اِسْتِثْمَارَاتٌ",
+    "root": "ث م ر",
+    "bs": "ulaganje, iskorištavanje",
+    "en": "investment, exploitation"
+  },
+  "اِسْتِحْمَامٌ": {
+    "lemma": "اِسْتِحْمَامٌ",
+    "root": "ح م م",
+    "bs": "kupanje; tuširање",
+    "en": "bathing; showering"
+  },
+  "اِسْتِخْدَامٌ / اِسْتِخْدَامَاتٌ": {
+    "lemma": "اِسْتِخْدَامٌ / اِسْتِخْدَامَاتٌ",
+    "root": "خ د م",
+    "bs": "korišćenje, upotreba",
+    "en": "use, usage"
+  },
+  "اِسْتَدْعَى يَسْتَدْعِي": {
+    "lemma": "اِسْتَدْعَى يَسْتَدْعِي",
+    "root": "د ع و",
+    "bs": "pozvati, zahtijevati",
+    "en": "to call, to summon"
+  },
+  "اِسْتِرْخَاءٌ": {
+    "lemma": "اِسْتِرْخَاءٌ",
+    "root": "ر خ و",
+    "bs": "opuštanje",
+    "en": "relaxation"
+  },
+  "اِسْتَسْلَمَ يَسْتَسْلِمُ": {
+    "lemma": "اِسْتَسْلَمَ يَسْتَسْلِمُ",
+    "root": "س ل م",
+    "bs": "predati se, odustati",
+    "en": "to surrender, to give up"
+  },
+  "اِسْتَطَاعَ يَسْتَطِيعُ": {
+    "lemma": "اِسْتَطَاعَ يَسْتَطِيعُ",
+    "root": "ط و ع",
+    "bs": "moći, biti u stanju",
+    "en": "to be able to, can"
+  },
+  "اِسْتَفَادَ يَسْتَفِيدُ": {
+    "lemma": "اِسْتَفَادَ يَسْتَفِيدُ",
+    "root": "ف ي د",
+    "bs": "imati korist / okoristiti se",
+    "en": "to benefit"
+  },
+  "اِسْتِقْبَالٌ": {
+    "lemma": "اِسْتِقْبَالٌ",
+    "root": "ق ب ل",
+    "bs": "recepcija, doček",
+    "en": "reception, welcome"
+  },
+  "اِسْتَقْبَلَ يَسْتَقْبِلُ": {
+    "lemma": "اِسْتَقْبَلَ يَسْتَقْبِلُ",
+    "root": "ق ب ل",
+    "bs": "dočekati, primiti",
+    "en": "to receive, to welcome"
+  },
+  "اِسْتَلَمَ يَسْتَلِمُ": {
+    "lemma": "اِسْتَلَمَ يَسْتَلِمُ",
+    "root": "س ل م",
+    "bs": "primiti / preuzeti",
+    "en": "to receive / to collect"
+  },
+  "اِسْتِيقَاظٌ": {
+    "lemma": "اِسْتِيقَاظٌ",
+    "root": "ي ق ظ",
+    "bs": "buđenje / ustajanje",
+    "en": "waking up / awakening"
+  },
+  "اِشْتَدَّ يَشْتَدُّ": {
+    "lemma": "اِشْتَدَّ يَشْتَدُّ",
+    "root": "ش د د",
+    "bs": "pojačati se, pogoršati se",
+    "en": "to intensify, to worsen"
+  },
+  "اِشْتَكَى يَشْتَكِي": {
+    "lemma": "اِشْتَكَى يَشْتَكِي",
+    "root": "ش ك و",
+    "bs": "žaliti se; pritužiti se",
+    "en": "to complain"
+  },
+  "اِصْطَادَ يَصْطَادُ": {
+    "lemma": "اِصْطَادَ يَصْطَادُ",
+    "root": "ص ي د",
+    "bs": "loviti, pecati",
+    "en": "to fish, to hunt"
+  },
+  "اِعْتَرَفَ يَعْتَرِفُ": {
+    "lemma": "اِعْتَرَفَ يَعْتَرِفُ",
+    "root": "ع ر ف",
+    "bs": "priznavati",
+    "en": "to admit / to confess"
+  },
+  "اِعْتَقَدَ يَعْتَقِدُ": {
+    "lemma": "اِعْتَقَدَ يَعْتَقِدُ",
+    "root": "ع ق د",
+    "bs": "smatrati, vjerovati",
+    "en": "to believe, to think, to consider"
+  },
+  "اِعْتِمَادٌ": {
+    "lemma": "اِعْتِمَادٌ",
+    "root": "ع م د",
+    "bs": "oslanjanje, pouzdanje",
+    "en": "reliance, dependence"
+  },
+  "اِقْتَرَبَ يَقْتَرِبُ": {
+    "lemma": "اِقْتَرَبَ يَقْتَرِبُ",
+    "root": "ق ر ب",
+    "bs": "približiti se, prići",
+    "en": "to approach, to draw near"
+  },
+  "اِقْتَرَحَ يَقْتَرِحُ": {
+    "lemma": "اِقْتَرَحَ يَقْتَرِحُ",
+    "root": "ق ر ح",
+    "bs": "predložiti, sugerirati",
+    "en": "to suggest, to propose"
+  },
+  "اِقْتَنَعَ يَقْتَنِعُ": {
+    "lemma": "اِقْتَنَعَ يَقْتَنِعُ",
+    "root": "ق ن ع",
+    "bs": "uvjeriti se, biti uvjeren",
+    "en": "to be convinced, to be persuaded"
+  },
+  "اِكْتَشَفَ يَكْتَشِفُ": {
+    "lemma": "اِكْتَشَفَ يَكْتَشِفُ",
+    "root": "ك ش ف",
+    "bs": "otkriti, pronaći",
+    "en": "to discover"
+  },
+  "اِلْتَحَقَ يَلْتَحِقُ": {
+    "lemma": "اِلْتَحَقَ يَلْتَحِقُ",
+    "root": "ل ح ق",
+    "bs": "pridružiti se / upisati se",
+    "en": "to join / to enrol"
+  },
+  "اِلْتَقَطَ يَلْتَقِطُ": {
+    "lemma": "اِلْتَقَطَ يَلْتَقِطُ",
+    "root": "ل ق ط",
+    "bs": "snimiti / uhvatiti",
+    "en": "to capture / to take (a photo)"
+  },
+  "اِمْتَدَّ يَمْتَدُّ": {
+    "lemma": "اِمْتَدَّ يَمْتَدُّ",
+    "root": "م د د",
+    "bs": "proteže se",
+    "en": "extends"
+  },
+  "اِنْتِشَاءٌ": {
+    "lemma": "اِنْتِشَاءٌ",
+    "root": "ن ش و",
+    "bs": "zanos",
+    "en": "ecstasy"
+  },
+  "اِنْتَقَدَ يَنْتَقِدُ": {
+    "lemma": "اِنْتَقَدَ يَنْتَقِدُ",
+    "root": "ن ق د",
+    "bs": "kritikovati",
+    "en": "to criticize"
+  },
+  "اِنْتِهَاءٌ / اِنْتِهَاءَاتٌ": {
+    "lemma": "اِنْتِهَاءٌ / اِنْتِهَاءَاتٌ",
+    "root": "ن ه ي",
+    "bs": "završetak",
+    "en": "end"
+  },
+  "اِنْخَفَضَ يَنْخَفِضُ": {
+    "lemma": "اِنْخَفَضَ يَنْخَفِضُ",
+    "root": "خ ف ض",
+    "bs": "spasti; sniziti se",
+    "en": "to drop; to decrease"
+  },
+  "اِنْعَقَدَ يَنْعَقِدُ": {
+    "lemma": "اِنْعَقَدَ يَنْعَقِدُ",
+    "root": "ع ق د",
+    "bs": "održava se",
+    "en": "is held"
+  },
+  "اِنْكَسَرَ يَنْكَسِرُ": {
+    "lemma": "اِنْكَسَرَ يَنْكَسِرُ",
+    "root": "ك س ر",
+    "bs": "slomiti se, razbiti se",
+    "en": "to break, to crack"
+  },
+  "اِهْتَرَأَ يَهْتَرِئُ": {
+    "lemma": "اِهْتَرَأَ يَهْتَرِئُ",
+    "root": "ه ر أ",
+    "bs": "istrošiti se / pohabati se",
+    "en": "to wear out / to become worn"
+  },
+  "بِسْمِ اِللَّهِ": {
+    "lemma": "بِسْمِ اِللَّهِ",
+    "root": "س م و",
+    "bs": "u ime Allaha, bismillah",
+    "en": "in the name of God, Bismillah"
+  },
+  "سُبْحَانَ اِللَّهِ": {
+    "lemma": "سُبْحَانَ اِللَّهِ",
+    "root": "س ب ح",
+    "bs": "SubhanAllah, slava Allahu",
+    "en": "Glory be to God, Subhanallah"
+  },
+  "صَلَاةُ اِلْعِيدِ": {
+    "lemma": "صَلَاةُ اِلْعِيدِ",
+    "root": "ع ي د",
+    "bs": "bajram-namaz",
+    "en": "Eid prayer"
+  },
+  "عِيدُ اِلْأَضْحَى": {
+    "lemma": "عِيدُ اِلْأَضْحَى",
+    "root": "ض ح و",
+    "bs": "Kurban-bajram",
+    "en": "Eid al-Adha, Festival of Sacrifice"
+  },
+  "كُرَةُ اِلسَّلَّةِ": {
+    "lemma": "كُرَةُ اِلسَّلَّةِ",
+    "root": "ك و ر",
+    "bs": "košarka",
+    "en": "basketball"
+  },
+  "كَلِمَةُ اِلْمُرُورِ": {
+    "lemma": "كَلِمَةُ اِلْمُرُورِ",
+    "root": "م ر ر",
+    "bs": "lozinka",
+    "en": "password"
+  },
+  "لَيْلَةُ اِلْقَدْرِ": {
+    "lemma": "لَيْلَةُ اِلْقَدْرِ",
+    "root": "ق د ر",
+    "bs": "Lejletu-l-kadr, Noć odredbe",
+    "en": "the Night of Power, Laylat al-Qadr"
+  },
+  "مُحَرِّكُ اِلْبَحْثِ": {
+    "lemma": "مُحَرِّكُ اِلْبَحْثِ",
+    "root": "ب ح ث",
+    "bs": "tražilica / pretraživač",
+    "en": "search engine"
+  },
+  "نَهَارٌ": {
+    "lemma": "نَهَارٌ",
+    "root": "ن ه ر",
+    "bs": "dan",
+    "en": "day"
   }
 }
