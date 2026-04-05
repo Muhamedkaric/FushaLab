@@ -6,22 +6,46 @@
     {
       "arabic": "التَّنَفُّسُ الْعَمِيقُ يُهَدِّئُ الإِنْسَانَ حِينَ يَتَوَتَّرُ.",
       "translation": "Duboko disanje smiruje čovjeka kada se uznemiri.",
-      "translationEn": "Deep breathing calms a person down when they feel tense."
+      "translationEn": "Deep breathing calms a person down when they feel tense.",
+      "words": [
+        { "w": "التَّنَفُّسُ", "root": "ن ف س", "bs": "disanje", "en": "breathing" },
+        { "w": "الْعَمِيقُ", "root": "ع م ق", "bs": "duboko", "en": "deep" },
+        { "w": "يُهَدِّئُ", "root": "ه د أ", "bs": "smiruje", "en": "calms" },
+        { "w": "يَتَوَتَّرُ", "root": "و ت ر", "bs": "uznemiri se", "en": "feel tense" }
+      ]
     },
     {
       "arabic": "شَعَرَتْ مُنَى بِتَوَتُّرٍ شَدِيدٍ قَبْلَ الْمُقَابَلَةِ.",
       "translation": "Muna je osjetila jak stres prije razgovora za posao.",
-      "translationEn": "Muna felt strong tension before the interview."
+      "translationEn": "Muna felt strong tension before the interview.",
+      "words": [
+        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjetila je", "en": "felt" },
+        { "w": "بِتَوَتُّرٍ", "root": "و ت ر", "bs": "stres", "en": "tension" },
+        { "w": "شَدِيدٍ", "root": "ش د د", "bs": "jak", "en": "strong" },
+        { "w": "الْمُقَابَلَةِ", "root": "ق ب ل", "bs": "razgovor za posao", "en": "interview" }
+      ]
     },
     {
       "arabic": "أَغْمَضَتْ عَيْنَيْهَا وَتَنَفَّسَتْ بِبُطْءٍ عَشْرَ مَرَّاتٍ.",
       "translation": "Zatvorila je oči i polako disala deset puta.",
-      "translationEn": "She closed her eyes and breathed slowly ten times."
+      "translationEn": "She closed her eyes and breathed slowly ten times.",
+      "words": [
+        { "w": "أَغْمَضَتْ", "root": "غ م ض", "bs": "zatvorila je", "en": "closed" },
+        { "w": "عَيْنَيْهَا", "root": "ع ي ن", "bs": "njene oči", "en": "her eyes" },
+        { "w": "تَنَفَّسَتْ", "root": "ن ف س", "bs": "disala je", "en": "breathed" },
+        { "w": "بِبُطْءٍ", "root": "ب ط أ", "bs": "polako", "en": "slowly" }
+      ]
     },
     {
       "arabic": "هَدَأَ قَلْبُهَا وَدَخَلَتْ بِثِقَةٍ.",
       "translation": "Srce joj se smirilo i ušla je s pouzdanjem.",
-      "translationEn": "Her heart calmed down and she entered with confidence."
+      "translationEn": "Her heart calmed down and she entered with confidence.",
+      "words": [
+        { "w": "هَدَأَ", "root": "ه د أ", "bs": "smirilo se", "en": "calmed" },
+        { "w": "قَلْبُهَا", "root": "ق ل ب", "bs": "njeno srce", "en": "her heart" },
+        { "w": "دَخَلَتْ", "root": "د خ ل", "bs": "ušla je", "en": "entered" },
+        { "w": "ثِقَةٍ", "root": "ث ق و", "bs": "pouzdanje", "en": "confidence" }
+      ]
     }
   ],
   "metadata": {

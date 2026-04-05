@@ -6,22 +6,44 @@
     {
       "arabic": "سَمِعْتُ الْمَثَلَ: «الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ».",
       "translation": "Čuo sam poslovicu: «Lijepa riječ je sadaka».",
-      "translationEn": "I heard the proverb: «A kind word is charity»."
+      "translationEn": "I heard the proverb: «A kind word is charity».",
+      "words": [
+        { "w": "الْكَلِمَةُ", "root": "ك ل م", "bs": "riječ", "en": "word" },
+        { "w": "الطَّيِّبَةُ", "root": "ط ي ب", "bs": "lijepa", "en": "kind" },
+        { "w": "صَدَقَةٌ", "root": "ص د ق", "bs": "milostinja", "en": "charity" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الْكَلَامَ الْحَسَنَ يُفَرِّحُ الآخَرِينَ.",
       "translation": "To znači da lijepe riječi raduju druge.",
-      "translationEn": "This means that kind words bring joy to others."
+      "translationEn": "This means that kind words bring joy to others.",
+      "words": [
+        { "w": "الْكَلَامَ", "root": "ك ل م", "bs": "govor", "en": "words" },
+        { "w": "الْحَسَنَ", "root": "ح س ن", "bs": "lijep", "en": "kind" },
+        { "w": "يُفَرِّحُ", "root": "ف ر ح", "bs": "raduje", "en": "brings joy" },
+        { "w": "الآخَرِينَ", "root": "أ خ ر", "bs": "drugi", "en": "others" }
+      ]
     },
     {
       "arabic": "قَالَ هِشَامٌ لِزَمِيلِهِ: «أَنْتَ طَالِبٌ مُجْتَهِدٌ».",
       "translation": "Hišam je rekao svom kolegi: «Ti si marljiv učenik».",
-      "translationEn": "Hisham said to his classmate: «You are a hard-working student»."
+      "translationEn": "Hisham said to his classmate: «You are a hard-working student».",
+      "words": [
+        { "w": "لِزَمِيلِهِ", "root": "ز م ل", "bs": "svom kolegi", "en": "to his classmate" },
+        { "w": "طَالِبٌ", "root": "ط ل ب", "bs": "učenik", "en": "student" },
+        { "w": "مُجْتَهِدٌ", "root": "ج ه د", "bs": "marljiv", "en": "hard-working" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَ الزَّمِيلُ وَشَعَرَ بِالسَّعَادَةِ.",
       "translation": "Kolega se nasmiješio i osjetio sreću.",
-      "translationEn": "The classmate smiled and felt happy."
+      "translationEn": "The classmate smiled and felt happy.",
+      "words": [
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" },
+        { "w": "الزَّمِيلُ", "root": "ز م ل", "bs": "kolega", "en": "classmate" },
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
+        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happiness" }
+      ]
     }
   ],
   "metadata": {

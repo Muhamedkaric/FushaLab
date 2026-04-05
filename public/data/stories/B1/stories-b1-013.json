@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ وَلَدٌ اسْمُهُ كَرِيمٌ يَكْرَهُ أَكْلَ الْخُضَرِ.",
       "translation": "Bio je dječak po imenu Karim koji je mrzio jesti povrće.",
-      "translationEn": "There was a boy named Karim who hated eating vegetables."
+      "translationEn": "There was a boy named Karim who hated eating vegetables.",
+      "words": [
+        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" },
+        { "w": "يَكْرَهُ", "root": "ك ر ه", "bs": "mrzio je", "en": "hated" },
+        { "w": "أَكْلَ", "root": "أ ك ل", "bs": "jesti", "en": "eating" },
+        { "w": "الْخُضَرِ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" }
+      ]
     },
     {
       "arabic": "قَرَّرَتِ الْأُمُّ أَنْ يَزْرَعَا الْخَضَرَاوَاتِ مَعًا فِي الْحَدِيقَةِ.",
       "translation": "Majka je odlučila da zajedno posade povrće u vrtu.",
-      "translationEn": "His mother decided they would grow vegetables together in the garden."
+      "translationEn": "His mother decided they would grow vegetables together in the garden.",
+      "words": [
+        { "w": "قَرَّرَتِ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "يَزْرَعَا", "root": "ز ر ع", "bs": "posade", "en": "grow" },
+        { "w": "الْخَضَرَاوَاتِ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+      ]
     },
     {
       "arabic": "زَرَعَ كَرِيمٌ الطَّمَاطِمَ وَسَقَاهَا كُلَّ يَوْمٍ بِاهْتِمَامٍ.",
       "translation": "Karim je posadio paradajz i svaki dan ga zalijeva s pažnjom.",
-      "translationEn": "Karim planted tomatoes and watered them carefully every day."
+      "translationEn": "Karim planted tomatoes and watered them carefully every day.",
+      "words": [
+        { "w": "زَرَعَ", "root": "ز ر ع", "bs": "posadio je", "en": "planted" },
+        { "w": "الطَّمَاطِمَ", "root": "ط م ط م", "bs": "paradajz", "en": "tomatoes" },
+        { "w": "سَقَاهَا", "root": "س ق ي", "bs": "zalijeva ga", "en": "watered them" },
+        { "w": "بِاهْتِمَامٍ", "root": "ه م م", "bs": "s pažnjom", "en": "carefully" }
+      ]
     },
     {
       "arabic": "حِينَ نَضِجَتِ الطَّمَاطِمُ أَكَلَهَا بِفَرَحٍ كَبِيرٍ.",
       "translation": "Kada je paradajz sazrio, pojeo ga je s velikom radošću.",
-      "translationEn": "When the tomatoes ripened, he ate them with great joy."
+      "translationEn": "When the tomatoes ripened, he ate them with great joy.",
+      "words": [
+        { "w": "نَضِجَتِ", "root": "ن ض ج", "bs": "sazrio je", "en": "ripened" },
+        { "w": "الطَّمَاطِمُ", "root": "ط م ط م", "bs": "paradajz", "en": "tomatoes" },
+        { "w": "أَكَلَهَا", "root": "أ ك ل", "bs": "pojeo ga je", "en": "ate them" },
+        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "s radošću", "en": "with joy" },
+        { "w": "كَبِيرٍ", "root": "ك ب ر", "bs": "velikom", "en": "great" }
+      ]
     }
   ],
   "metadata": {

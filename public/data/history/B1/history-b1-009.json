@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَتِ الْقَرْيَةُ الْقَدِيمَةُ صَغِيرَةً وَهَادِئَةً.",
       "translation": "Staro selo je bilo malo i mirno.",
-      "translationEn": "The ancient village was small and quiet."
+      "translationEn": "The ancient village was small and quiet.",
+      "words": [
+        { "w": "الْقَرْيَةُ", "root": "ق ر ي", "bs": "selo", "en": "the village" },
+        { "w": "الْقَدِيمَةُ", "root": "ق د م", "bs": "staro", "en": "ancient" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "malo", "en": "small" },
+        { "w": "هَادِئَةً", "root": "ه د أ", "bs": "mirno", "en": "quiet" }
+      ]
     },
     {
       "arabic": "كَانَ النَّاسُ يَعْرِفُونَ بَعْضَهُمُ الْبَعْضَ جَيِّدًا.",
       "translation": "Ljudi su se međusobno dobro poznavali.",
-      "translationEn": "The people knew each other well."
+      "translationEn": "The people knew each other well.",
+      "words": [
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "يَعْرِفُونَ", "root": "ع ر ف", "bs": "poznaju", "en": "know" },
+        { "w": "جَيِّدًا", "root": "ج ي د", "bs": "dobro", "en": "well" }
+      ]
     },
     {
       "arabic": "كَانُوا يَتَعَاوَنُونَ فِي الْعَمَلِ وَيَتَقَاسَمُونَ الطَّعَامَ.",
       "translation": "Sarađivali su u poslu i dijelili hranu.",
-      "translationEn": "They cooperated in work and shared food."
+      "translationEn": "They cooperated in work and shared food.",
+      "words": [
+        { "w": "يَتَعَاوَنُونَ", "root": "ع و ن", "bs": "sarađuju", "en": "cooperate" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" },
+        { "w": "يَتَقَاسَمُونَ", "root": "ق س م", "bs": "dijele", "en": "share" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْحَيَاةُ فِي الْقَرْيَةِ بَسِيطَةً لَكِنْ سَعِيدَةً.",
       "translation": "Život u selu bio je jednostavan ali sretan.",
-      "translationEn": "Life in the village was simple but happy."
+      "translationEn": "Life in the village was simple but happy.",
+      "words": [
+        { "w": "الْحَيَاةُ", "root": "ح ي و", "bs": "život", "en": "life" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "sela", "en": "the village" },
+        { "w": "بَسِيطَةً", "root": "ب س ط", "bs": "jednostavan", "en": "simple" },
+        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretan", "en": "happy" }
+      ]
     }
   ],
   "metadata": {

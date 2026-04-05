@@ -6,22 +6,44 @@
     {
       "arabic": "كَانَ جَدُّ سَامِرٍ يُحِبُّ الزِّرَاعَةَ كَثِيرًا.",
       "translation": "Samirov djed je jako volio bavljenje poljoprivredom.",
-      "translationEn": "Samir's grandfather loved farming very much."
+      "translationEn": "Samir's grandfather loved farming very much.",
+      "words": [
+        { "w": "جَدُّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "volio je", "en": "loved" },
+        { "w": "الزِّرَاعَةَ", "root": "ز ر ع", "bs": "poljoprivreda/uzgoj", "en": "farming/agriculture" }
+      ]
     },
     {
       "arabic": "عَلَّمَ سَامِرًا كَيْفَ يَزْرَعُ الطَّمَاطِمَ وَالْبَاذِنْجَانَ.",
       "translation": "Naučio je Samira kako saditi paradajz i patlidžan.",
-      "translationEn": "He taught Samir how to plant tomatoes and eggplants."
+      "translationEn": "He taught Samir how to plant tomatoes and eggplants.",
+      "words": [
+        { "w": "عَلَّمَ", "root": "ع ل م", "bs": "naučio je/podučio", "en": "taught" },
+        { "w": "يَزْرَعُ", "root": "ز ر ع", "bs": "da sadi/uzgaja", "en": "to plant/grow" },
+        { "w": "الطَّمَاطِمَ", "root": "ط م ط م", "bs": "paradajz", "en": "tomatoes" },
+        { "w": "الْبَاذِنْجَانَ", "root": "ب ذ ج", "bs": "patlidžan", "en": "eggplants" }
+      ]
     },
     {
       "arabic": "كَانَ سَامِرٌ يَذْهَبُ إِلَى الْحَقْلِ كُلَّ إِجَازَةٍ.",
       "translation": "Samir je išao na polje za svaki odmor.",
-      "translationEn": "Samir would go to the field every holiday."
+      "translationEn": "Samir would go to the field every holiday.",
+      "words": [
+        { "w": "يَذْهَبُ", "root": "ذ ه ب", "bs": "išao je", "en": "would go" },
+        { "w": "الْحَقْلِ", "root": "ح ق ل", "bs": "polje/njiva", "en": "field" },
+        { "w": "إِجَازَةٍ", "root": "ج و ز", "bs": "odmor/praznik", "en": "holiday/vacation" }
+      ]
     },
     {
       "arabic": "أَحَبَّ سَامِرٌ الزِّرَاعَةَ وَقَالَ إِنَّهُ سَيَكُونُ مُزَارِعًا.",
       "translation": "Samir je zavolio poljoprivredu i rekao da će biti farmer.",
-      "translationEn": "Samir came to love farming and said he would become a farmer."
+      "translationEn": "Samir came to love farming and said he would become a farmer.",
+      "words": [
+        { "w": "أَحَبَّ", "root": "ح ب ب", "bs": "zavolio je", "en": "came to love" },
+        { "w": "الزِّرَاعَةَ", "root": "ز ر ع", "bs": "poljoprivreda", "en": "farming" },
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "مُزَارِعًا", "root": "ز ر ع", "bs": "farmer/zemljoradnik", "en": "farmer" }
+      ]
     }
   ],
   "metadata": {

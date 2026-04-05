@@ -6,27 +6,55 @@
     {
       "arabic": "طَلَبَتْ مُنَى مِنْ أَبِيهَا أَنْ يَشْتَرِيَ لَهَا قَلَمًا.",
       "translation": "Muna je zamolila oca da joj kupi olovku.",
-      "translationEn": "Muna asked her father to buy her a pen."
+      "translationEn": "Muna asked her father to buy her a pen.",
+      "words": [
+        { "w": "طَلَبَتْ", "root": "ط ل ب", "bs": "zamolila je", "en": "asked" },
+        { "w": "يَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "قَلَمًا", "root": "ق ل م", "bs": "olovka", "en": "pen" }
+      ]
     },
     {
       "arabic": "ذَهَبَا مَعًا إِلَى مَحَلِّ الأَدَوَاتِ المَكْتَبِيَّةِ.",
       "translation": "Otišli su zajedno u prodavnicu školskog pribora.",
-      "translationEn": "They went together to the stationery shop."
+      "translationEn": "They went together to the stationery shop.",
+      "words": [
+        { "w": "ذَهَبَا", "root": "ذ ه ب", "bs": "otišli su", "en": "went" },
+        { "w": "مَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" },
+        { "w": "الأَدَوَاتِ", "root": "أ د و", "bs": "pribor", "en": "supplies" },
+        { "w": "المَكْتَبِيَّةِ", "root": "ك ت ب", "bs": "školski", "en": "stationery" }
+      ]
     },
     {
       "arabic": "اخْتَارَتْ مُنَى قَلَمًا أَحْمَرَ بِسِعْرٍ بَسِيطٍ.",
       "translation": "Muna je odabrala crvenu olovku po jednostavnoj cijeni.",
-      "translationEn": "Muna chose a red pen at a simple price."
+      "translationEn": "Muna chose a red pen at a simple price.",
+      "words": [
+        { "w": "اخْتَارَتْ", "root": "خ ي ر", "bs": "odabrala je", "en": "chose" },
+        { "w": "قَلَمًا", "root": "ق ل م", "bs": "olovka", "en": "pen" },
+        { "w": "أَحْمَرَ", "root": "ح م ر", "bs": "crvena", "en": "red" },
+        { "w": "سِعْرٍ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+      ]
     },
     {
       "arabic": "دَفَعَ الأَبُ الثَّمَنَ وَشَكَرَ البَائِعَ.",
       "translation": "Otac je platio cijenu i zahvalio prodavaču.",
-      "translationEn": "The father paid the price and thanked the seller."
+      "translationEn": "The father paid the price and thanked the seller.",
+      "words": [
+        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
+        { "w": "الثَّمَنَ", "root": "ث م ن", "bs": "cijena", "en": "price" },
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "البَائِعَ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" }
+      ]
     },
     {
       "arabic": "كَانَتْ مُنَى سَعِيدَةً بِقَلَمِهَا الجَدِيدِ.",
       "translation": "Muna je bila sretna sa svojom novom olovkom.",
-      "translationEn": "Muna was happy with her new pen."
+      "translationEn": "Muna was happy with her new pen.",
+      "words": [
+        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
+        { "w": "قَلَمِهَا", "root": "ق ل م", "bs": "njena olovka", "en": "her pen" },
+        { "w": "الجَدِيدِ", "root": "ج د د", "bs": "nova", "en": "new" }
+      ]
     }
   ],
   "metadata": {

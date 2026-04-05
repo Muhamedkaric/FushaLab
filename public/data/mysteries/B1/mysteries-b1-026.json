@@ -6,27 +6,56 @@
     {
       "arabic": "وَجَدَ رَامِزٌ خَطًّا طَوِيلًا مَرْسُومًا عَلَى جِدَارِ الْغُرْفَةِ.",
       "translation": "Ramiz je pronašao dugačku liniju nacrtanu na zidu sobe.",
-      "translationEn": "Ramiz found a long line drawn on the wall of the room."
+      "translationEn": "Ramiz found a long line drawn on the wall of the room.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "خَطًّا", "root": "خ ط ط", "bs": "liniju", "en": "line" },
+        { "w": "طَوِيلًا", "root": "ط و ل", "bs": "dugačku", "en": "long" },
+        { "w": "مَرْسُومًا", "root": "ر س م", "bs": "nacrtanu", "en": "drawn" },
+        { "w": "جِدَارِ", "root": "ج د ر", "bs": "zidu", "en": "wall" }
+      ]
     },
     {
       "arabic": "كَانَتْ بِقَلَمٍ أَسْوَدَ وَلَمْ يَعْرِفْ مَنْ فَعَلَهُ.",
       "translation": "Bila je nacrtana crnom olovkom i nije znao ko je to uradio.",
-      "translationEn": "It was in black pen and he did not know who had done it."
+      "translationEn": "It was in black pen and he did not know who had done it.",
+      "words": [
+        { "w": "بِقَلَمٍ", "root": "ق ل م", "bs": "olovkom", "en": "pen" },
+        { "w": "أَسْوَدَ", "root": "س و د", "bs": "crnom", "en": "black" },
+        { "w": "يَعْرِفْ", "root": "ع ر ف", "bs": "znao je", "en": "he knew" }
+      ]
     },
     {
       "arabic": "سَأَلَ أَخَاهُ الصَّغِيرَ وَنَظَرَ إِلَيْهِ بِجِدِّيَّةٍ.",
       "translation": "Pitao je mlađeg brata i ozbiljno ga pogledao.",
-      "translationEn": "He asked his little brother and looked at him seriously."
+      "translationEn": "He asked his little brother and looked at him seriously.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "he asked" },
+        { "w": "أَخَاهُ", "root": "أ خ خ", "bs": "brata", "en": "his brother" },
+        { "w": "الصَّغِيرَ", "root": "ص غ ر", "bs": "mlađeg", "en": "little/younger" },
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "he looked" }
+      ]
     },
     {
       "arabic": "قَالَ الْأَخُ الصَّغِيرُ: كُنْتُ أَقِيسُ طُولِي!",
       "translation": "Mlađi brat je rekao: Mjerio sam svoju visinu!",
-      "translationEn": "The little brother said: I was measuring my height!"
+      "translationEn": "The little brother said: I was measuring my height!",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
+        { "w": "أَقِيسُ", "root": "ق ي س", "bs": "mjerio sam", "en": "I was measuring" },
+        { "w": "طُولِي", "root": "ط و ل", "bs": "visinu", "en": "my height" }
+      ]
     },
     {
       "arabic": "ضَحِكَ رَامِزٌ وَقَالَ: يَجِبُ أَنْ تَسْتَخْدِمَ الْوَرَقَ لَا الْجِدَارَ.",
       "translation": "Ramiz se nasmijao i rekao: Moraš koristiti papir, a ne zid.",
-      "translationEn": "Ramiz laughed and said: You must use paper not the wall."
+      "translationEn": "Ramiz laughed and said: You must use paper not the wall.",
+      "words": [
+        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijao se", "en": "he laughed" },
+        { "w": "تَسْتَخْدِمَ", "root": "خ د م", "bs": "koristiš", "en": "you use" },
+        { "w": "الْوَرَقَ", "root": "و ر ق", "bs": "papir", "en": "paper" },
+        { "w": "الْجِدَارَ", "root": "ج د ر", "bs": "zid", "en": "wall" }
+      ]
     }
   ],
   "metadata": {

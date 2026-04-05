@@ -6,22 +6,45 @@
     {
       "arabic": "جَاءَتْ ضَيْفَةٌ جَدِيدَةٌ إِلَى الصَّفِّ اسْمُهَا رِيمٌ.",
       "translation": "U razred je stigla nova gošća, njena je Rim.",
-      "translationEn": "A new guest came to the class named Reem."
+      "translationEn": "A new guest came to the class named Reem.",
+      "words": [
+        { "w": "جَاءَتْ", "root": "ج ي أ", "bs": "stigla je/došla", "en": "came" },
+        { "w": "ضَيْفَةٌ", "root": "ض ي ف", "bs": "gošća/nova učenica", "en": "guest/new student" },
+        { "w": "جَدِيدَةٌ", "root": "ج د د", "bs": "nova", "en": "new" },
+        { "w": "الصَّفِّ", "root": "ص ف ف", "bs": "razred/učionica", "en": "class/classroom" }
+      ]
     },
     {
       "arabic": "كَانَتْ خَجُولَةً وَلَمْ تَتَكَلَّمْ فِي الْبِدَايَةِ.",
       "translation": "Bila je stidljiva i u početku nije govorila.",
-      "translationEn": "She was shy and did not speak at first."
+      "translationEn": "She was shy and did not speak at first.",
+      "words": [
+        { "w": "خَجُولَةً", "root": "خ ج ل", "bs": "stidljiva", "en": "shy" },
+        { "w": "تَتَكَلَّمْ", "root": "ك ل م", "bs": "govorila je", "en": "speak" },
+        { "w": "الْبِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "beginning/at first" }
+      ]
     },
     {
       "arabic": "اقْتَرَبَتْ مِنْهَا إِحْدَى الْبَنَاتِ وَعَرَّفَتْهَا بِنَفْسِهَا.",
       "translation": "Jedna djevojčica je prišla i predstavila joj se.",
-      "translationEn": "One of the girls approached her and introduced herself."
+      "translationEn": "One of the girls approached her and introduced herself.",
+      "words": [
+        { "w": "اقْتَرَبَتْ", "root": "ق ر ب", "bs": "prišla je/približila se", "en": "approached" },
+        { "w": "الْبَنَاتِ", "root": "ب ن ت", "bs": "djevojčice", "en": "girls" },
+        { "w": "عَرَّفَتْهَا", "root": "ع ر ف", "bs": "predstavila joj se", "en": "introduced herself to her" },
+        { "w": "بِنَفْسِهَا", "root": "ن ف س", "bs": "sama/lično", "en": "herself" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَتْ رِيمٌ وَبَدَأَتْ تَتَكَلَّمُ وَتَضْحَكُ.",
       "translation": "Rim se nasmiješila i počela govoriti i smijati.",
-      "translationEn": "Reem smiled and began to talk and laugh."
+      "translationEn": "Reem smiled and began to talk and laugh.",
+      "words": [
+        { "w": "ابْتَسَمَتْ", "root": "ب س م", "bs": "nasmiješila se", "en": "smiled" },
+        { "w": "بَدَأَتْ", "root": "ب د أ", "bs": "počela je", "en": "began" },
+        { "w": "تَتَكَلَّمُ", "root": "ك ل م", "bs": "govoriti", "en": "to talk" },
+        { "w": "تَضْحَكُ", "root": "ض ح ك", "bs": "smijati se", "en": "to laugh" }
+      ]
     }
   ],
   "metadata": {

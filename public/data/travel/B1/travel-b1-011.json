@@ -6,22 +6,44 @@
     {
       "arabic": "سَأَلَتْ فَاطِمَةُ الشُّرْطِيَّ عَنِ الطَّرِيقِ إِلَى الْمَطَارِ.",
       "translation": "Fatima je pitala policajca put do aerodroma.",
-      "translationEn": "Fatima asked the policeman for the way to the airport."
+      "translationEn": "Fatima asked the policeman for the way to the airport.",
+      "words": [
+        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "asked" },
+        { "w": "الشُّرْطِيَّ", "root": "ش ر ط", "bs": "policajac", "en": "policeman" },
+        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put / pravac", "en": "way / road" },
+        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" }
+      ]
     },
     {
       "arabic": "قَالَ لَهَا: خُذِي الْحَافِلَةَ رَقْمَ سَبْعَةٍ مِنْ هُنَا.",
       "translation": "Rekao joj je: Uzmi autobus broj sedam odavde.",
-      "translationEn": "He told her: Take bus number seven from here."
+      "translationEn": "He told her: Take bus number seven from here.",
+      "words": [
+        { "w": "خُذِي", "root": "أ خ ذ", "bs": "uzmi", "en": "take" },
+        { "w": "الْحَافِلَةَ", "root": "ح ف ل", "bs": "autobus", "en": "bus" },
+        { "w": "رَقْمَ", "root": "ر ق م", "bs": "broj", "en": "number" }
+      ]
     },
     {
       "arabic": "شَكَرَتْهُ وَذَهَبَتْ إِلَى مَحَطَّةِ الْحَافِلَةِ.",
       "translation": "Zahvalila mu se i otišla na autobusku stanicu.",
-      "translationEn": "She thanked him and went to the bus stop."
+      "translationEn": "She thanked him and went to the bus stop.",
+      "words": [
+        { "w": "شَكَرَتْهُ", "root": "ش ك ر", "bs": "zahvalila mu se", "en": "thanked him" },
+        { "w": "مَحَطَّةِ", "root": "ح ط ط", "bs": "stanica", "en": "station / stop" },
+        { "w": "الْحَافِلَةِ", "root": "ح ف ل", "bs": "autobus", "en": "bus" }
+      ]
     },
     {
       "arabic": "وَصَلَتْ إِلَى الْمَطَارِ قَبْلَ مَوْعِدِ الطَّائِرَةِ.",
       "translation": "Stigla je na aerodrom prije polaska aviona.",
-      "translationEn": "She arrived at the airport before the flight time."
+      "translationEn": "She arrived at the airport before the flight time.",
+      "words": [
+        { "w": "وَصَلَتْ", "root": "و ص ل", "bs": "stigla je", "en": "arrived" },
+        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
+        { "w": "مَوْعِدِ", "root": "و ع د", "bs": "termin / polazak", "en": "appointment / departure time" },
+        { "w": "الطَّائِرَةِ", "root": "ط ي ر", "bs": "avion", "en": "airplane" }
+      ]
     }
   ],
   "metadata": {

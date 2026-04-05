@@ -6,22 +6,44 @@
     {
       "arabic": "نَجَحَتْ سَلْمَى فِي الامْتِحَانِ بِدَرَجَاتٍ عَالِيَةٍ.",
       "translation": "Salma je položila ispit s visokim ocjenama.",
-      "translationEn": "Salma passed the exam with high grades."
+      "translationEn": "Salma passed the exam with high grades.",
+      "words": [
+        { "w": "نَجَحَتْ", "root": "ن ج ح", "bs": "položila je", "en": "passed" },
+        { "w": "الامْتِحَانِ", "root": "م ح ن", "bs": "ispitu", "en": "exam" },
+        { "w": "بِدَرَجَاتٍ", "root": "د ر ج", "bs": "ocjenama", "en": "grades" },
+        { "w": "عَالِيَةٍ", "root": "ع ل و", "bs": "visokim", "en": "high" }
+      ]
     },
     {
       "arabic": "اتَّصَلَتْ بِأُمِّهَا فَوْرًا وَأَخْبَرَتْهَا.",
       "translation": "Odmah je nazvala majku i rekla joj.",
-      "translationEn": "She immediately called her mother and told her."
+      "translationEn": "She immediately called her mother and told her.",
+      "words": [
+        { "w": "اتَّصَلَتْ", "root": "و ص ل", "bs": "nazvala je", "en": "called" },
+        { "w": "بِأُمِّهَا", "root": "أ م م", "bs": "majku", "en": "her mother" },
+        { "w": "فَوْرًا", "root": "ف و ر", "bs": "odmah", "en": "immediately" },
+        { "w": "أَخْبَرَتْهَا", "root": "خ ب ر", "bs": "rekla joj je", "en": "told her" }
+      ]
     },
     {
       "arabic": "فَرِحَتِ الأُمُّ وَبَكَتْ مِنَ الفَرَحِ.",
       "translation": "Majka se obradovala i plakala od radosti.",
-      "translationEn": "The mother was happy and cried from joy."
+      "translationEn": "The mother was happy and cried from joy.",
+      "words": [
+        { "w": "فَرِحَتِ", "root": "ف ر ح", "bs": "obradovala se", "en": "was happy" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "بَكَتْ", "root": "ب ك ي", "bs": "plakala je", "en": "cried" },
+        { "w": "الفَرَحِ", "root": "ف ر ح", "bs": "radosti", "en": "joy" }
+      ]
     },
     {
       "arabic": "هَنَّأَتْ سَلْمَى وَقَالَتْ لَهَا «أَنْتِ فَخْرُنَا».",
       "translation": "Čestitala je Salmi i rekla «Ti si naš ponos».",
-      "translationEn": "She congratulated Salma and said «You are our pride»."
+      "translationEn": "She congratulated Salma and said «You are our pride».",
+      "words": [
+        { "w": "هَنَّأَتْ", "root": "هـ ن أ", "bs": "čestitala je", "en": "congratulated" },
+        { "w": "فَخْرُنَا", "root": "ف خ ر", "bs": "naš ponos", "en": "our pride" }
+      ]
     }
   ],
   "metadata": {

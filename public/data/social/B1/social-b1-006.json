@@ -6,27 +6,54 @@
     {
       "arabic": "ذَهَبَتْ نُورٌ إِلَى مَكْتَبِ البَرِيدِ.",
       "translation": "Nur je otišla na poštu.",
-      "translationEn": "Nour went to the post office."
+      "translationEn": "Nour went to the post office.",
+      "words": [
+        { "w": "ذَهَبَتْ", "root": "ذ هـ ب", "bs": "otišla je", "en": "went" },
+        { "w": "مَكْتَبِ", "root": "ك ت ب", "bs": "uredu", "en": "office" },
+        { "w": "البَرِيدِ", "root": "ب ر د", "bs": "pošte", "en": "post" }
+      ]
     },
     {
       "arabic": "أَرَادَتْ أَنْ تُرْسِلَ طَرْدًا إِلَى أُمِّهَا.",
       "translation": "Htjela je poslati paket majci.",
-      "translationEn": "She wanted to send a package to her mother."
+      "translationEn": "She wanted to send a package to her mother.",
+      "words": [
+        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
+        { "w": "تُرْسِلَ", "root": "ر س ل", "bs": "poslati", "en": "send" },
+        { "w": "طَرْدًا", "root": "ط ر د", "bs": "paket", "en": "package" },
+        { "w": "أُمِّهَا", "root": "أ م م", "bs": "majci", "en": "mother" }
+      ]
     },
     {
       "arabic": "سَأَلَهَا المُوَظَّفُ عَنْ مُحْتَوَى الطَّرْدِ.",
       "translation": "Službenik ju je pitao o sadržaju paketa.",
-      "translationEn": "The employee asked her about the package contents."
+      "translationEn": "The employee asked her about the package contents.",
+      "words": [
+        { "w": "سَأَلَهَا", "root": "س أ ل", "bs": "pitao je", "en": "asked her" },
+        { "w": "المُوَظَّفُ", "root": "و ظ ف", "bs": "službenik", "en": "employee" },
+        { "w": "مُحْتَوَى", "root": "ح و ي", "bs": "sadržaju", "en": "contents" },
+        { "w": "الطَّرْدِ", "root": "ط ر د", "bs": "paketa", "en": "package" }
+      ]
     },
     {
       "arabic": "أَجَابَتْ وَدَفَعَتِ الرُّسُومَ.",
       "translation": "Odgovorila je i platila troškove.",
-      "translationEn": "She answered and paid the fees."
+      "translationEn": "She answered and paid the fees.",
+      "words": [
+        { "w": "أَجَابَتْ", "root": "ج و ب", "bs": "odgovorila je", "en": "answered" },
+        { "w": "دَفَعَتِ", "root": "د ف ع", "bs": "platila je", "en": "paid" },
+        { "w": "الرُّسُومَ", "root": "ر س م", "bs": "troškove", "en": "fees" }
+      ]
     },
     {
       "arabic": "أَخَذَتْ وَصْلَ الاسْتِلَامِ وَخَرَجَتْ.",
       "translation": "Uzela je potvrdu i izašla.",
-      "translationEn": "She took the receipt and left."
+      "translationEn": "She took the receipt and left.",
+      "words": [
+        { "w": "أَخَذَتْ", "root": "أ خ ذ", "bs": "uzela je", "en": "took" },
+        { "w": "وَصْلَ", "root": "و ص ل", "bs": "potvrdu", "en": "receipt" },
+        { "w": "خَرَجَتْ", "root": "خ ر ج", "bs": "izašla je", "en": "left" }
+      ]
     }
   ],
   "metadata": {

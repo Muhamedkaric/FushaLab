@@ -6,22 +6,46 @@
     {
       "arabic": "فِي رَأْيِي، التَّعَلُّمُ لَا يَتَوَقَّفُ عِنْدَ سِنٍّ مُعَيَّنَةٍ.",
       "translation": "Po mom mišljenju, učenje se ne zaustavlja u određenim godinama.",
-      "translationEn": "In my opinion, learning does not stop at a certain age."
+      "translationEn": "In my opinion, learning does not stop at a certain age.",
+      "words": [
+        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
+        { "w": "التَّعَلُّمُ", "root": "ع ل م", "bs": "učenje", "en": "learning" },
+        { "w": "يَتَوَقَّفُ", "root": "و ق ف", "bs": "zaustavlja se", "en": "stops" },
+        { "w": "سِنٍّ", "root": "س ن ن", "bs": "godine", "en": "age" }
+      ]
     },
     {
       "arabic": "الْكَبِيرُ يَسْتَطِيعُ أَنْ يَتَعَلَّمَ مِثْلَ الصَّغِيرِ.",
       "translation": "Starija osoba može učiti poput mlađe.",
-      "translationEn": "An older person can learn just like a younger one."
+      "translationEn": "An older person can learn just like a younger one.",
+      "words": [
+        { "w": "الْكَبِيرُ", "root": "ك ب ر", "bs": "starija osoba", "en": "older person" },
+        { "w": "يَسْتَطِيعُ", "root": "ط و ع", "bs": "može", "en": "can" },
+        { "w": "يَتَعَلَّمَ", "root": "ع ل م", "bs": "da uči", "en": "to learn" },
+        { "w": "الصَّغِيرِ", "root": "ص غ ر", "bs": "mlađa osoba", "en": "younger one" }
+      ]
     },
     {
       "arabic": "رَأَيْتُ جَدَّتِي تَتَعَلَّمُ الْكِتَابَةَ فِي سِنِّ السِّتِّينَ.",
       "translation": "Vidio sam baku kako uči pisati u šezdesetoj godini.",
-      "translationEn": "I saw my grandmother learning to write at the age of sixty."
+      "translationEn": "I saw my grandmother learning to write at the age of sixty.",
+      "words": [
+        { "w": "رَأَيْتُ", "root": "ر أ ي", "bs": "vidio sam", "en": "I saw" },
+        { "w": "جَدَّتِي", "root": "ج د د", "bs": "moja baka", "en": "my grandmother" },
+        { "w": "تَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learning" },
+        { "w": "الْكِتَابَةَ", "root": "ك ت ب", "bs": "pisanje", "en": "to write" }
+      ]
     },
     {
       "arabic": "أَلْهَمَتْنِي جِدًّا وَجَعَلَتْنِي أُحِبُّ التَّعَلُّمَ أَكْثَرَ.",
       "translation": "Jako me nadahnula i navela me da više volim učenje.",
-      "translationEn": "She inspired me greatly and made me love learning more."
+      "translationEn": "She inspired me greatly and made me love learning more.",
+      "words": [
+        { "w": "أَلْهَمَتْنِي", "root": "ل ه م", "bs": "nadahnula me je", "en": "inspired me" },
+        { "w": "جَعَلَتْنِي", "root": "ج ع ل", "bs": "navela me je", "en": "made me" },
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "da volim", "en": "love" },
+        { "w": "التَّعَلُّمَ", "root": "ع ل م", "bs": "učenje", "en": "learning" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,46 @@
     {
       "arabic": "يَعْمَلُ حَيْدَرٌ مِيكَانِيكِيًّا فِي وَرْشَةِ سَيَّارَاتٍ.",
       "translation": "Hajdar radi kao mehaničar u autoradionici.",
-      "translationEn": "Haydar works as a mechanic in a car workshop."
+      "translationEn": "Haydar works as a mechanic in a car workshop.",
+      "words": [
+        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "مِيكَانِيكِيًّا", "root": "م ك ن", "bs": "mehaničar", "en": "mechanic" },
+        { "w": "وَرْشَةِ", "root": "و ر ش", "bs": "radionica/servis", "en": "workshop" },
+        { "w": "سَيَّارَاتٍ", "root": "س ي ر", "bs": "automobili/kola", "en": "cars" }
+      ]
     },
     {
       "arabic": "يَفْحَصُ السَّيَّارَاتِ وَيُصْلِحُ الْأَعْطَالَ.",
       "translation": "Pregledava automobile i popravlja kvarove.",
-      "translationEn": "He checks cars and fixes faults."
+      "translationEn": "He checks cars and fixes faults.",
+      "words": [
+        { "w": "يَفْحَصُ", "root": "ف ح ص", "bs": "pregledava/provjerava", "en": "checks/examines" },
+        { "w": "السَّيَّارَاتِ", "root": "س ي ر", "bs": "automobili", "en": "cars" },
+        { "w": "يُصْلِحُ", "root": "ص ل ح", "bs": "popravlja/servisira", "en": "fixes/repairs" },
+        { "w": "الْأَعْطَالَ", "root": "ع ط ل", "bs": "kvarovi/problemi", "en": "faults/breakdowns" }
+      ]
     },
     {
       "arabic": "يَشْرَحُ لِلزَّبَائِنِ مَا وَجَدَهُ بِلُغَةٍ بَسِيطَةٍ.",
       "translation": "Objašnjava kupcima šta je pronašao jednostavnim jezikom.",
-      "translationEn": "He explains to customers what he found in simple language."
+      "translationEn": "He explains to customers what he found in simple language.",
+      "words": [
+        { "w": "يَشْرَحُ", "root": "ش ر ح", "bs": "objašnjava", "en": "explains" },
+        { "w": "الزَّبَائِنِ", "root": "ز ب ن", "bs": "kupci/mušterije", "en": "customers" },
+        { "w": "وَجَدَهُ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "بِلُغَةٍ", "root": "ل غ و", "bs": "jezikom", "en": "in language" },
+        { "w": "بَسِيطَةٍ", "root": "ب س ط", "bs": "jednostavnom", "en": "simple" }
+      ]
     },
     {
       "arabic": "الزَّبَائِنُ يَثِقُونَ بِهِ وَيَعُودُونَ إِلَيْهِ دَائِمًا.",
       "translation": "Kupci mu vjeruju i uvijek se vraćaju njemu.",
-      "translationEn": "Customers trust him and always come back to him."
+      "translationEn": "Customers trust him and always come back to him.",
+      "words": [
+        { "w": "الزَّبَائِنُ", "root": "ز ب ن", "bs": "kupci/mušterije", "en": "customers" },
+        { "w": "يَثِقُونَ", "root": "و ث ق", "bs": "vjeruju/pouzdaju se", "en": "trust" },
+        { "w": "يَعُودُونَ", "root": "ع و د", "bs": "vraćaju se", "en": "come back/return" }
+      ]
     }
   ],
   "metadata": {

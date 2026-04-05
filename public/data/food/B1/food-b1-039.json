@@ -6,22 +6,50 @@
     {
       "arabic": "طَبَخَتِ الْأُمُّ الرُّزَّ بِالدَّجَاجِ لِلْغَدَاءِ.",
       "translation": "Majka je kuhala pirinač s piletinom za ručak.",
-      "translationEn": "The mother cooked rice with chicken for lunch."
+      "translationEn": "The mother cooked rice with chicken for lunch.",
+      "words": [
+        { "w": "طَبَخَتِ", "root": "ط ب خ", "bs": "kuhala je", "en": "cooked" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "الرُّزَّ", "root": "أ ر ز", "bs": "pirinač/riža", "en": "rice" },
+        { "w": "الدَّجَاجِ", "root": "د ج ج", "bs": "piletina/pile", "en": "chicken" },
+        { "w": "لِلْغَدَاءِ", "root": "غ د و", "bs": "za ručak", "en": "for lunch" }
+      ]
     },
     {
       "arabic": "أَضَافَتِ الزَّعْفَرَانَ فَأَصْبَحَ الرُّزُّ أَصْفَرَ وَجَمِيلًا.",
       "translation": "Dodala je šafran i pirinač je postao žut i lijep.",
-      "translationEn": "She added saffron and the rice became yellow and beautiful."
+      "translationEn": "She added saffron and the rice became yellow and beautiful.",
+      "words": [
+        { "w": "أَضَافَتِ", "root": "ض ي ف", "bs": "dodala je", "en": "added" },
+        { "w": "الزَّعْفَرَانَ", "root": "ز ع ف", "bs": "šafran", "en": "saffron" },
+        { "w": "أَصْبَحَ", "root": "ص ب ح", "bs": "postao je/je", "en": "became" },
+        { "w": "الرُّزُّ", "root": "أ ر ز", "bs": "pirinač/riža", "en": "rice" },
+        { "w": "أَصْفَرَ", "root": "ص ف ر", "bs": "žut/žutim", "en": "yellow" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijep/prekrasan", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "وَضَعَتِ الطَّبَقَ عَلَى الطَّاوِلَةِ وَنَادَتِ الْعَائِلَةَ.",
       "translation": "Stavila je tanjir na sto i pozvala porodicu.",
-      "translationEn": "She placed the dish on the table and called the family."
+      "translationEn": "She placed the dish on the table and called the family.",
+      "words": [
+        { "w": "وَضَعَتِ", "root": "و ض ع", "bs": "stavila je", "en": "placed" },
+        { "w": "الطَّبَقَ", "root": "ط ب ق", "bs": "tanjir/posuda", "en": "dish/plate" },
+        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stol/sto", "en": "table" },
+        { "w": "نَادَتِ", "root": "ن د و", "bs": "pozvala je/dozivala", "en": "called" },
+        { "w": "الْعَائِلَةَ", "root": "ع و ل", "bs": "porodica", "en": "family" }
+      ]
     },
     {
       "arabic": "أَكَلَ الْجَمِيعُ وَمَدَحُوا الطَّعَامَ.",
       "translation": "Svi su jeli i hvalili hranu.",
-      "translationEn": "Everyone ate and praised the food."
+      "translationEn": "Everyone ate and praised the food.",
+      "words": [
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
+        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
+        { "w": "مَدَحُوا", "root": "م د ح", "bs": "hvalili su", "en": "praised" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" }
+      ]
     }
   ],
   "metadata": {

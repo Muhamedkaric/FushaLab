@@ -6,22 +6,114 @@
     {
       "arabic": "نَسِيَ إِبْرَاهِيمُ مَوْعِدَ الِاجْتِمَاعِ.",
       "translation": "Ibrahim je zaboravio termin sastanka.",
-      "translationEn": "Ibrahim forgot the meeting appointment."
+      "translationEn": "Ibrahim forgot the meeting appointment.",
+      "words": [
+        {
+          "w": "نَسِيَ",
+          "root": "ن س ي",
+          "bs": "zaboravio je",
+          "en": "forgot"
+        },
+        {
+          "w": "مَوْعِدَ",
+          "root": "و ع د",
+          "bs": "termin",
+          "en": "the appointment"
+        },
+        {
+          "w": "الِاجْتِمَاعِ",
+          "root": "ج م ع",
+          "bs": "sastanka",
+          "en": "of the meeting"
+        }
+      ]
     },
     {
       "arabic": "فَتَحَ تَطْبِيقَ التَّقْوِيمِ لِيَتَذَكَّرَ الْمَوَاعِيدَ.",
       "translation": "Otvorio je aplikaciju kalendara da se sjeti termina.",
-      "translationEn": "He opened the calendar app to remember the appointments."
+      "translationEn": "He opened the calendar app to remember the appointments.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "تَطْبِيقَ التَّقْوِيمِ",
+          "root": "ق و م",
+          "bs": "aplikaciju kalendara",
+          "en": "the calendar app"
+        },
+        {
+          "w": "يَتَذَكَّرَ",
+          "root": "ذ ك ر",
+          "bs": "sjeti se",
+          "en": "remember"
+        },
+        {
+          "w": "الْمَوَاعِيدَ",
+          "root": "و ع د",
+          "bs": "termine",
+          "en": "the appointments"
+        }
+      ]
     },
     {
       "arabic": "أَضَافَ جَمِيعَ مَوَاعِيدِهِ فِي التَّطْبِيقِ.",
       "translation": "Dodao je sve termine u aplikaciju.",
-      "translationEn": "He added all his appointments in the app."
+      "translationEn": "He added all his appointments in the app.",
+      "words": [
+        {
+          "w": "أَضَافَ",
+          "root": "ض و ف",
+          "bs": "dodao je",
+          "en": "added"
+        },
+        {
+          "w": "مَوَاعِيدِهِ",
+          "root": "و ع د",
+          "bs": "termine",
+          "en": "his appointments"
+        },
+        {
+          "w": "التَّطْبِيقِ",
+          "root": "ط ب ق",
+          "bs": "aplikaciju",
+          "en": "the app"
+        }
+      ]
     },
     {
       "arabic": "قَرَّرَ أَنْ يَسْتَخْدِمَ التَّطْبِيقَ دَائِمًا حَتَّى لَا يَنْسَى.",
       "translation": "Odlučio je uvijek koristiti aplikaciju da ne zaboravlja.",
-      "translationEn": "He decided to always use the app so he would not forget."
+      "translationEn": "He decided to always use the app so he would not forget.",
+      "words": [
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided"
+        },
+        {
+          "w": "يَسْتَخْدِمَ",
+          "root": "خ د م",
+          "bs": "koristiti",
+          "en": "use"
+        },
+        {
+          "w": "التَّطْبِيقَ",
+          "root": "ط ب ق",
+          "bs": "aplikaciju",
+          "en": "the app"
+        },
+        {
+          "w": "يَنْسَى",
+          "root": "ن س ي",
+          "bs": "zaboravlja",
+          "en": "forget"
+        }
+      ]
     }
   ],
   "metadata": {

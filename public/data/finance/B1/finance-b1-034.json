@@ -6,22 +6,46 @@
     {
       "arabic": "ذَهَبَ الأَبُ إِلَى مَحَلِّ الخُضَارِ فِي الصَّبَاحِ.",
       "translation": "Otac je otišao u prodavnicu povrća ujutro.",
-      "translationEn": "The father went to the vegetable shop in the morning."
+      "translationEn": "The father went to the vegetable shop in the morning.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "مَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" },
+        { "w": "الخُضَارِ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "اشْتَرَى بَنَادُورَةً وَخِيَارًا وَجَزَرًا.",
       "translation": "Kupio je paradajz, krastavac i šargarepu.",
-      "translationEn": "He bought tomatoes, cucumbers, and carrots."
+      "translationEn": "He bought tomatoes, cucumbers, and carrots.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "بَنَادُورَةً", "root": "ب ن د", "bs": "paradajz", "en": "tomatoes" },
+        { "w": "خِيَارًا", "root": "خ ي ر", "bs": "krastavac", "en": "cucumbers" },
+        { "w": "جَزَرًا", "root": "ج ز ر", "bs": "šargarepa", "en": "carrots" }
+      ]
     },
     {
       "arabic": "دَفَعَ الثَّمَنَ وَأَخَذَ كُلَّ شَيْءٍ فِي حَقِيبَةٍ.",
       "translation": "Platio je cijenu i sve uzeo u vrećici.",
-      "translationEn": "He paid the price and took everything in a bag."
+      "translationEn": "He paid the price and took everything in a bag.",
+      "words": [
+        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
+        { "w": "الثَّمَنَ", "root": "ث م ن", "bs": "cijena", "en": "price" },
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "حَقِيبَةٍ", "root": "ح ق ب", "bs": "vrećica", "en": "bag" }
+      ]
     },
     {
       "arabic": "عَادَ إِلَى البَيْتِ وَأَعْطَى الخُضَارَ لِزَوْجَتِهِ.",
       "translation": "Vratio se kući i dao povrće ženi.",
-      "translationEn": "He returned home and gave the vegetables to his wife."
+      "translationEn": "He returned home and gave the vegetables to his wife.",
+      "words": [
+        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
+        { "w": "أَعْطَى", "root": "ع ط و", "bs": "dao je", "en": "gave" },
+        { "w": "الخُضَارَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
+        { "w": "لِزَوْجَتِهِ", "root": "ز و ج", "bs": "ženi", "en": "his wife" }
+      ]
     }
   ],
   "metadata": {

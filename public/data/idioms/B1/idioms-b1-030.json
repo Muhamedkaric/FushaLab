@@ -6,22 +6,44 @@
     {
       "arabic": "سَمِعَتِ الطِّفْلَةُ: «الشَّبَابُ رِيحٌ وَالشَّيْخُوخَةُ تَعَبٌ».",
       "translation": "Djevojčica je čula: «Mladost je vjetar a starost je umor».",
-      "translationEn": "The little girl heard: «Youth is wind and old age is fatigue»."
+      "translationEn": "The little girl heard: «Youth is wind and old age is fatigue».",
+      "words": [
+        { "w": "الشَّبَابُ", "root": "ش ب ب", "bs": "mladost", "en": "youth" },
+        { "w": "رِيحٌ", "root": "ر و ح", "bs": "vjetar", "en": "wind" },
+        { "w": "الشَّيْخُوخَةُ", "root": "ش ي خ", "bs": "starost", "en": "old age" },
+        { "w": "تَعَبٌ", "root": "ت ع ب", "bs": "umor", "en": "fatigue" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ عَلَيْنَا اسْتِثْمَارَ طَاقَةِ الشَّبَابِ.",
       "translation": "To znači da trebamo iskoristiti energiju mladosti.",
-      "translationEn": "This means that we should invest the energy of youth."
+      "translationEn": "This means that we should invest the energy of youth.",
+      "words": [
+        { "w": "اسْتِثْمَارَ", "root": "ث م ر", "bs": "iskorišćavanje", "en": "investing" },
+        { "w": "طَاقَةِ", "root": "ط و ق", "bs": "energija", "en": "energy" },
+        { "w": "الشَّبَابِ", "root": "ش ب ب", "bs": "mladost", "en": "youth" }
+      ]
     },
     {
       "arabic": "قَرَّرَتْ أَنْ تَتَعَلَّمَ الْعَزْفَ عَلَى الْبِيَانُو وَهِيَ صَغِيرَةٌ.",
       "translation": "Odlučila je naučiti svirati klavir dok je mala.",
-      "translationEn": "She decided to learn to play the piano while she is young."
+      "translationEn": "She decided to learn to play the piano while she is young.",
+      "words": [
+        { "w": "تَتَعَلَّمَ", "root": "ع ل م", "bs": "naučiti", "en": "learn" },
+        { "w": "الْعَزْفَ", "root": "ع ز ف", "bs": "sviranje", "en": "playing" },
+        { "w": "الْبِيَانُو", "bs": "klavir", "en": "piano" },
+        { "w": "صَغِيرَةٌ", "root": "ص غ ر", "bs": "mala", "en": "young" }
+      ]
     },
     {
       "arabic": "تَدَرَّبَتْ كُلَّ يَوْمٍ وَأَصْبَحَتْ عَازِفَةً مُمَيَّزَةً.",
       "translation": "Vježbala je svaki dan i postala je odlična sviračica.",
-      "translationEn": "She practiced every day and became an outstanding pianist."
+      "translationEn": "She practiced every day and became an outstanding pianist.",
+      "words": [
+        { "w": "تَدَرَّبَتْ", "root": "د ر ب", "bs": "vježbala je", "en": "practiced" },
+        { "w": "عَازِفَةً", "root": "ع ز ف", "bs": "sviračica", "en": "pianist" },
+        { "w": "مُمَيَّزَةً", "root": "م ي ز", "bs": "odlična", "en": "outstanding" }
+      ]
     }
   ],
   "metadata": {

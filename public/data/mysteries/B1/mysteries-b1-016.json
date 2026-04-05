@@ -6,27 +6,53 @@
     {
       "arabic": "وَجَدَ مَاجِدٌ رَسْمًا عَلَى الرَّمْلِ أَمَامَ الْبَيْتِ.",
       "translation": "Majid je pronašao crtež na pijesku ispred kuće.",
-      "translationEn": "Majid found a drawing on the sand in front of the house."
+      "translationEn": "Majid found a drawing on the sand in front of the house.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "رَسْمًا", "root": "ر س م", "bs": "crtež", "en": "drawing" },
+        { "w": "الرَّمْلِ", "root": "ر م ل", "bs": "pijesku", "en": "sand" }
+      ]
     },
     {
       "arabic": "كَانَ الرَّسْمُ شَمْسًا كَبِيرَةً وَنَجْمَةً.",
       "translation": "Crtež je prikazivao veliko sunce i zvijezdu.",
-      "translationEn": "The drawing was a big sun and a star."
+      "translationEn": "The drawing was a big sun and a star.",
+      "words": [
+        { "w": "الرَّسْمُ", "root": "ر س م", "bs": "crtež", "en": "the drawing" },
+        { "w": "شَمْسًا", "root": "ش م س", "bs": "sunce", "en": "sun" },
+        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "veliko", "en": "big" },
+        { "w": "نَجْمَةً", "root": "ن ج م", "bs": "zvijezdu", "en": "star" }
+      ]
     },
     {
       "arabic": "لَمْ يَعْرِفْ مَنْ رَسَمَهُ.",
       "translation": "Nije znao ko ga je nacrtao.",
-      "translationEn": "He did not know who had drawn it."
+      "translationEn": "He did not know who had drawn it.",
+      "words": [
+        { "w": "يَعْرِفْ", "root": "ع ر ف", "bs": "znao je", "en": "he knew" },
+        { "w": "رَسَمَهُ", "root": "ر س م", "bs": "nacrtao ga je", "en": "drew it" }
+      ]
     },
     {
       "arabic": "جَاءَ صَدِيقُهُ الصَّغِيرُ وَقَالَ: أَنَا رَسَمْتُهُ لَكَ!",
       "translation": "Došao je njegov mali prijatelj i rekao: Ja sam ga nacrtao za tebe!",
-      "translationEn": "His little friend came and said: I drew it for you!"
+      "translationEn": "His little friend came and said: I drew it for you!",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došao je", "en": "he came" },
+        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "prijatelj", "en": "his friend" },
+        { "w": "رَسَمْتُهُ", "root": "ر س م", "bs": "nacrtao sam ga", "en": "I drew it" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَ مَاجِدٌ وَشَكَرَ صَدِيقَهُ بِحُنَانٍ.",
       "translation": "Majid se nasmiješio i nježno zahvalio prijatelju.",
-      "translationEn": "Majid smiled and thanked his friend warmly."
+      "translationEn": "Majid smiled and thanked his friend warmly.",
+      "words": [
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "he smiled" },
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "he thanked" },
+        { "w": "صَدِيقَهُ", "root": "ص د ق", "bs": "prijatelja", "en": "his friend" },
+        { "w": "بِحُنَانٍ", "root": "ح ن ن", "bs": "nježno", "en": "warmly" }
+      ]
     }
   ],
   "metadata": {

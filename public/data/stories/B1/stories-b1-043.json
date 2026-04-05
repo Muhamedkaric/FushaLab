@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَ طِفْلٌ اسْمُهُ أَنَسٌ يُحِبُّ الْمُوسِيقَى كَثِيرًا.",
       "translation": "Bio je dječak po imenu Enes koji je jako volio muziku.",
-      "translationEn": "There was a boy named Anas who loved music very much."
+      "translationEn": "There was a boy named Anas who loved music very much.",
+      "words": [
+        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dječak", "en": "boy" },
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "volio je", "en": "loved" },
+        { "w": "الْمُوسِيقَى", "root": "م و س", "bs": "muzika", "en": "music" }
+      ]
     },
     {
       "arabic": "وَجَدَ نَايًا قَدِيمًا فِي بَيْتِ جَدِّهِ.",
       "translation": "Pronašao je staru frulu u djedinoj kući.",
-      "translationEn": "He found an old flute in his grandfather's house."
+      "translationEn": "He found an old flute in his grandfather's house.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "نَايًا", "root": "ن ي أ", "bs": "frula", "en": "flute" },
+        { "w": "قَدِيمًا", "root": "ق د م", "bs": "staru", "en": "old" },
+        { "w": "بَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "house" },
+        { "w": "جَدِّهِ", "root": "ج د د", "bs": "njegov djed", "en": "his grandfather" }
+      ]
     },
     {
       "arabic": "طَلَبَ مِنَ الْجَدِّ أَنْ يُعَلِّمَهُ الْعَزْفَ فَقَبِلَ الْجَدُّ بِفَرَحٍ.",
       "translation": "Zamolio je djeda da ga nauči svirati i djed je radosno prihvatio.",
-      "translationEn": "He asked his grandfather to teach him to play and the grandfather happily agreed."
+      "translationEn": "He asked his grandfather to teach him to play and the grandfather happily agreed.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je", "en": "asked" },
+        { "w": "الْجَدِّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
+        { "w": "يُعَلِّمَهُ", "root": "ع ل م", "bs": "da ga nauči", "en": "to teach him" },
+        { "w": "الْعَزْفَ", "root": "ع ز ف", "bs": "sviranje", "en": "playing" },
+        { "w": "قَبِلَ", "root": "ق ب ل", "bs": "prihvatio je", "en": "agreed" }
+      ]
     },
     {
       "arabic": "تَعَلَّمَ أَنَسٌ أَوَّلَ لَحْنٍ وَعَزَفَهُ لِأُسْرَتِهِ.",
       "translation": "Enes je naučio prvu melodiju i odsvirao je svojoj porodici.",
-      "translationEn": "Anas learned his first melody and played it for his family."
+      "translationEn": "Anas learned his first melody and played it for his family.",
+      "words": [
+        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučio je", "en": "learned" },
+        { "w": "لَحْنٍ", "root": "ل ح ن", "bs": "melodija", "en": "melody" },
+        { "w": "عَزَفَهُ", "root": "ع ز ف", "bs": "odsvirao je", "en": "played it" },
+        { "w": "لِأُسْرَتِهِ", "root": "أ س ر", "bs": "svojoj porodici", "en": "for his family" }
+      ]
     }
   ],
   "metadata": {

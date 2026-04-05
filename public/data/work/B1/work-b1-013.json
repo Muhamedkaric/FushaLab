@@ -6,22 +6,48 @@
     {
       "arabic": "تَعْمَلُ وَفَاءُ مُعَلِّمَةً فِي مَدْرَسَةٍ ابْتِدَائِيَّةٍ.",
       "translation": "Wefaa radi kao učiteljica u osnovnoj školi.",
-      "translationEn": "Wafaa works as a teacher in a primary school."
+      "translationEn": "Wafaa works as a teacher in a primary school.",
+      "words": [
+        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "مُعَلِّمَةً", "root": "ع ل م", "bs": "učiteljica/nastavnica", "en": "teacher (f)" },
+        { "w": "مَدْرَسَةٍ", "root": "د ر س", "bs": "škola", "en": "school" },
+        { "w": "ابْتِدَائِيَّةٍ", "root": "ب د أ", "bs": "osnovna/početna", "en": "primary/elementary" }
+      ]
     },
     {
       "arabic": "تَصِلُ إِلَى الْمَدْرَسَةِ قَبْلَ التَّلَامِيذِ بِنِصْفِ سَاعَةٍ.",
       "translation": "Stiže u školu pola sata prije učenika.",
-      "translationEn": "She arrives at school half an hour before the students."
+      "translationEn": "She arrives at school half an hour before the students.",
+      "words": [
+        { "w": "تَصِلُ", "root": "و ص ل", "bs": "stiže/dolazi", "en": "arrives" },
+        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" },
+        { "w": "التَّلَامِيذِ", "root": "ل م ذ", "bs": "učenici", "en": "students/pupils" },
+        { "w": "نِصْفِ", "root": "ن ص ف", "bs": "pola", "en": "half" },
+        { "w": "سَاعَةٍ", "root": "س ع و", "bs": "sat", "en": "hour" }
+      ]
     },
     {
       "arabic": "تُرَتِّبُ الْفَصْلَ وَتُعِدُّ الدَّرْسَ.",
       "translation": "Sređuje učionicu i priprema lekciju.",
-      "translationEn": "She tidies the classroom and prepares the lesson."
+      "translationEn": "She tidies the classroom and prepares the lesson.",
+      "words": [
+        { "w": "تُرَتِّبُ", "root": "ر ت ب", "bs": "sređuje/uređuje", "en": "tidies/arranges" },
+        { "w": "الْفَصْلَ", "root": "ف ص ل", "bs": "učionica/razred", "en": "classroom" },
+        { "w": "تُعِدُّ", "root": "ع د د", "bs": "priprema", "en": "prepares" },
+        { "w": "الدَّرْسَ", "root": "د ر س", "bs": "lekcija/čas", "en": "lesson" }
+      ]
     },
     {
       "arabic": "تُحِبُّ عَمَلَهَا وَتَشْعُرُ بِالسَّعَادَةِ مَعَ التَّلَامِيذِ.",
       "translation": "Voli posao i osjeća sreću s učenicima.",
-      "translationEn": "She loves her work and feels happy with the students."
+      "translationEn": "She loves her work and feels happy with the students.",
+      "words": [
+        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
+        { "w": "عَمَلَهَا", "root": "ع م ل", "bs": "njen posao", "en": "her work" },
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
+        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća/radost", "en": "happiness" },
+        { "w": "التَّلَامِيذِ", "root": "ل م ذ", "bs": "učenici", "en": "students" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,144 @@
     {
       "arabic": "يُصَلِّي أَبُو عَلِيٍّ الصُّبْحَ كُلَّ يَوْمٍ قَبْلَ الشَّمْسِ.",
       "translation": "Ebu Ali klanja sabah svaki dan prije izlaska sunca.",
-      "translationEn": "Abu Ali prays Fajr every day before sunrise."
+      "translationEn": "Abu Ali prays Fajr every day before sunrise.",
+      "words": [
+        {
+          "w": "يُصَلِّي",
+          "root": "ص ل و",
+          "bs": "klanja",
+          "en": "prays"
+        },
+        {
+          "w": "الصُّبْحَ",
+          "root": "ص ب ح",
+          "bs": "sabah",
+          "en": "Fajr"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "الشَّمْسِ",
+          "root": "ش م س",
+          "bs": "sunca",
+          "en": "the sun"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ الصَّلَاةِ يَقْرَأُ شَيْئًا مِنَ الْقُرْآنِ الْكَرِيمِ.",
       "translation": "Nakon namaza čita nešto iz Kur'ana Časnog.",
-      "translationEn": "After prayer he reads something from the Noble Quran."
+      "translationEn": "After prayer he reads something from the Noble Quran.",
+      "words": [
+        {
+          "w": "الصَّلَاةِ",
+          "root": "ص ل و",
+          "bs": "namaza",
+          "en": "prayer"
+        },
+        {
+          "w": "يَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "reads"
+        },
+        {
+          "w": "الْقُرْآنِ",
+          "root": "ق ر أ",
+          "bs": "Kur'ana",
+          "en": "the Quran"
+        },
+        {
+          "w": "الْكَرِيمِ",
+          "root": "ك ر م",
+          "bs": "Časnog",
+          "en": "Noble"
+        }
+      ]
     },
     {
       "arabic": "يَشْرَبُ كُوبًا مِنَ الشَّايِ وَيَبْدَأُ يَوْمَهُ بِهُدُوءٍ.",
       "translation": "Popije šolju čaja i mirno počne dan.",
-      "translationEn": "He drinks a cup of tea and starts his day peacefully."
+      "translationEn": "He drinks a cup of tea and starts his day peacefully.",
+      "words": [
+        {
+          "w": "يَشْرَبُ",
+          "root": "ش ر ب",
+          "bs": "pije",
+          "en": "drinks"
+        },
+        {
+          "w": "كُوبًا",
+          "root": "ك و ب",
+          "bs": "šolju",
+          "en": "a cup"
+        },
+        {
+          "w": "الشَّايِ",
+          "root": "ش ي و",
+          "bs": "čaja",
+          "en": "tea"
+        },
+        {
+          "w": "يَبْدَأُ",
+          "root": "ب د أ",
+          "bs": "počne",
+          "en": "starts"
+        },
+        {
+          "w": "يَوْمَهُ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "his day"
+        },
+        {
+          "w": "بِهُدُوءٍ",
+          "root": "ه د أ",
+          "bs": "mirno",
+          "en": "peacefully"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ: الصُّبْحُ يُعْطِينِي طَاقَةً لِيَوْمٍ جَمِيلٍ.",
       "translation": "Kaže: Sabah mi daje energiju za lijep dan.",
-      "translationEn": "He says: Fajr gives me energy for a beautiful day."
+      "translationEn": "He says: Fajr gives me energy for a beautiful day.",
+      "words": [
+        {
+          "w": "الصُّبْحُ",
+          "root": "ص ب ح",
+          "bs": "sabah",
+          "en": "Fajr"
+        },
+        {
+          "w": "يُعْطِينِي",
+          "root": "ع ط و",
+          "bs": "daje mi",
+          "en": "gives me"
+        },
+        {
+          "w": "طَاقَةً",
+          "root": "ط و ق",
+          "bs": "energiju",
+          "en": "energy"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "danu",
+          "en": "day"
+        },
+        {
+          "w": "جَمِيلٍ",
+          "root": "ج م ل",
+          "bs": "lijepom",
+          "en": "beautiful"
+        }
+      ]
     }
   ],
   "metadata": {

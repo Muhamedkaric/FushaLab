@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَ الْحَمَّالُ يَحْمِلُ الْبَضَائِعَ الثَّقِيلَةَ فِي السُّوقِ.",
       "translation": "Nosač je nosio tešku robu na tržnici.",
-      "translationEn": "The porter used to carry heavy goods in the market."
+      "translationEn": "The porter used to carry heavy goods in the market.",
+      "words": [
+        { "w": "الْحَمَّالُ", "root": "ح م ل", "bs": "nosač", "en": "the porter" },
+        { "w": "يَحْمِلُ", "root": "ح م ل", "bs": "nosi", "en": "carries" },
+        { "w": "الْبَضَائِعَ", "root": "ب ض ع", "bs": "robu", "en": "goods" },
+        { "w": "الثَّقِيلَةَ", "root": "ث ق ل", "bs": "tešku", "en": "heavy" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "tržnica", "en": "the market" }
+      ]
     },
     {
       "arabic": "كَانَ يَعْمَلُ مِنَ الصَّبَاحِ حَتَّى الْمَسَاءِ.",
       "translation": "Radio je od jutra do večeri.",
-      "translationEn": "He worked from morning until evening."
+      "translationEn": "He worked from morning until evening.",
+      "words": [
+        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" },
+        { "w": "الْمَسَاءِ", "root": "م س و", "bs": "večer", "en": "evening" }
+      ]
     },
     {
       "arabic": "أَخَذَ أُجْرَتَهُ فِي نِهَايَةِ الْيَوْمِ.",
       "translation": "Uzimao je svoju naknadu na kraju dana.",
-      "translationEn": "He received his payment at the end of the day."
+      "translationEn": "He received his payment at the end of the day.",
+      "words": [
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzimao je", "en": "received" },
+        { "w": "أُجْرَتَهُ", "root": "أ ج ر", "bs": "njegova naknada", "en": "his payment" },
+        { "w": "نِهَايَةِ", "root": "ن ه ي", "bs": "kraj", "en": "end" }
+      ]
     },
     {
       "arabic": "أَطْعَمَ أُسْرَتَهُ بِهَذَا الْعَمَلِ الشَّاقِّ.",
       "translation": "Hranio je svoju porodicu ovim teškim radom.",
-      "translationEn": "He fed his family with this hard work."
+      "translationEn": "He fed his family with this hard work.",
+      "words": [
+        { "w": "أَطْعَمَ", "root": "ط ع م", "bs": "hranio je", "en": "fed" },
+        { "w": "أُسْرَتَهُ", "root": "أ س ر", "bs": "njegova porodica", "en": "his family" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "rad", "en": "work" },
+        { "w": "الشَّاقِّ", "root": "ش ق ق", "bs": "teškom", "en": "hard" }
+      ]
     }
   ],
   "metadata": {

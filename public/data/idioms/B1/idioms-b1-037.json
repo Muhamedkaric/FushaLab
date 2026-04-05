@@ -6,22 +6,44 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «مَنْ طَلَبَ الْعُلَا سَهِرَ اللَّيَالِيَ».",
       "translation": "Poslovica kaže: «Ko traži visok položaj, bdijeva noćima».",
-      "translationEn": "The proverb says: «Whoever seeks greatness stays up through the nights»."
+      "translationEn": "The proverb says: «Whoever seeks greatness stays up through the nights».",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "traži", "en": "seeks" },
+        { "w": "الْعُلَا", "root": "ع ل و", "bs": "visina", "en": "greatness" },
+        { "w": "سَهِرَ", "root": "س ه ر", "bs": "bdijeva", "en": "stays up" },
+        { "w": "اللَّيَالِيَ", "root": "ل ي ل", "bs": "noći", "en": "nights" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ النَّجَاحَ الْكَبِيرَ يَحْتَاجُ إِلَى جُهْدٍ كَبِيرٍ.",
       "translation": "To znači da veliki uspjeh zahtijeva veliki napor.",
-      "translationEn": "This means that great success requires great effort."
+      "translationEn": "This means that great success requires great effort.",
+      "words": [
+        { "w": "النَّجَاحَ", "root": "ن ج ح", "bs": "uspjeh", "en": "success" },
+        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "zahtijeva", "en": "requires" },
+        { "w": "جُهْدٍ", "root": "ج ه د", "bs": "napor", "en": "effort" }
+      ]
     },
     {
       "arabic": "كَانَتْ رِيمٌ تَدْرُسُ كَثِيرًا وَتَنَامُ مُتَأَخِّرًا.",
       "translation": "Rim je mnogo učila i kasno spavala.",
-      "translationEn": "Reem studied a lot and slept late."
+      "translationEn": "Reem studied a lot and slept late.",
+      "words": [
+        { "w": "تَدْرُسُ", "root": "د ر س", "bs": "učila je", "en": "studied" },
+        { "w": "تَنَامُ", "root": "ن و م", "bs": "spavala je", "en": "slept" },
+        { "w": "مُتَأَخِّرًا", "root": "أ خ ر", "bs": "kasno", "en": "late" }
+      ]
     },
     {
       "arabic": "نَالَتْ أَوَّلَ مَرْتَبَةٍ فِي الْمَدْرَسَةِ وَفَرِحَ أَهْلُهَا.",
       "translation": "Zauzela je prvo mjesto u školi i njeni roditelji su se obradovali.",
-      "translationEn": "She got first place in school and her family was happy."
+      "translationEn": "She got first place in school and her family was happy.",
+      "words": [
+        { "w": "نَالَتْ", "root": "ن ي ل", "bs": "postigla je", "en": "got" },
+        { "w": "مَرْتَبَةٍ", "root": "ر ت ب", "bs": "mjesto", "en": "place" },
+        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" },
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" }
+      ]
     }
   ],
   "metadata": {

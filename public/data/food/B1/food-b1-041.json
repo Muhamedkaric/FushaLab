@@ -6,22 +6,48 @@
     {
       "arabic": "ذَهَبَ كَامِلٌ إِلَى الْمَطْعَمِ لِيَتَنَاوَلَ الْعَشَاءَ وَحْدَهُ.",
       "translation": "Kamil je otišao u restoran da večera sam.",
-      "translationEn": "Kamil went to the restaurant to have dinner alone."
+      "translationEn": "Kamil went to the restaurant to have dinner alone.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "الْمَطْعَمِ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
+        { "w": "يَتَنَاوَلَ", "root": "ن و ل", "bs": "da jede/uzme", "en": "to have/eat" },
+        { "w": "الْعَشَاءَ", "root": "ع ش و", "bs": "večera", "en": "dinner" },
+        { "w": "وَحْدَهُ", "root": "و ح د", "bs": "sam/alone", "en": "alone" }
+      ]
     },
     {
       "arabic": "جَلَسَ عِنْدَ الطَّاوِلَةِ وَفَتَحَ الْقَائِمَةَ.",
       "translation": "Sjeo je za sto i otvorio jelovnik.",
-      "translationEn": "He sat at the table and opened the menu."
+      "translationEn": "He sat at the table and opened the menu.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
+        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stol/sto", "en": "table" },
+        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "opened" },
+        { "w": "الْقَائِمَةَ", "root": "ق و م", "bs": "jelovnik/meni", "en": "menu" }
+      ]
     },
     {
       "arabic": "طَلَبَ شُوربَةً وَسَلَطَةً وَخُبْزًا.",
       "translation": "Naručio je supu, salatu i hljeb.",
-      "translationEn": "He ordered soup, salad, and bread."
+      "translationEn": "He ordered soup, salad, and bread.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "naručio je", "en": "ordered" },
+        { "w": "شُوربَةً", "root": "ش ر ب", "bs": "supa/čorba", "en": "soup" },
+        { "w": "سَلَطَةً", "root": "س ل ط", "bs": "salata", "en": "salad" },
+        { "w": "خُبْزًا", "root": "خ ب ز", "bs": "hljeb", "en": "bread" }
+      ]
     },
     {
       "arabic": "أَكَلَ بِهُدُوءٍ وَنَظَرَ مِنَ النَّافِذَةِ إِلَى الشَّارِعِ.",
       "translation": "Jeo je mirno i gledao kroz prozor u ulicu.",
-      "translationEn": "He ate calmly and looked through the window at the street."
+      "translationEn": "He ate calmly and looked through the window at the street.",
+      "words": [
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo je", "en": "ate" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno/smireno", "en": "calmly" },
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "gledao je", "en": "looked" },
+        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" }
+      ]
     }
   ],
   "metadata": {

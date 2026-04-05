@@ -6,27 +6,55 @@
     {
       "arabic": "رَأَتْ لُجَيْنُ ضَوْءًا أَصْفَرَ يَتَحَرَّكُ فِي الْحَدِيقَةِ.",
       "translation": "Lujain je vidjela žuto svjetlo kako se kreće u vrtu.",
-      "translationEn": "Lujain saw a yellow light moving in the garden."
+      "translationEn": "Lujain saw a yellow light moving in the garden.",
+      "words": [
+        { "w": "رَأَتْ", "root": "ر أ ي", "bs": "vidjela je", "en": "she saw" },
+        { "w": "ضَوْءًا", "root": "ض و أ", "bs": "svjetlo", "en": "light" },
+        { "w": "أَصْفَرَ", "root": "ص ف ر", "bs": "žuto", "en": "yellow" },
+        { "w": "يَتَحَرَّكُ", "root": "ح ر ك", "bs": "kreće se", "en": "moving" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrtu", "en": "garden" }
+      ]
     },
     {
       "arabic": "نَادَتْ أَبَاهَا وَقَالَتْ: انْظُرْ إِلَى ذَلِكَ الضَّوْءِ!",
       "translation": "Pozvala je oca i rekla: Pogledaj to svjetlo!",
-      "translationEn": "She called her father and said: Look at that light!"
+      "translationEn": "She called her father and said: Look at that light!",
+      "words": [
+        { "w": "نَادَتْ", "root": "ن د و", "bs": "pozvala je", "en": "she called" },
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "she said" },
+        { "w": "الضَّوْءِ", "root": "ض و أ", "bs": "svjetlo", "en": "light" }
+      ]
     },
     {
       "arabic": "خَرَجَا إِلَى الْحَدِيقَةِ مَعًا.",
       "translation": "Izašli su u vrt zajedno.",
-      "translationEn": "They went out to the garden together."
+      "translationEn": "They went out to the garden together.",
+      "words": [
+        { "w": "خَرَجَا", "root": "خ ر ج", "bs": "izašli su", "en": "they went out" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+      ]
     },
     {
       "arabic": "وَجَدَا حَشَرَةً صَغِيرَةً مُضِيئَةً تَطِيرُ بَيْنَ الزُّهُورِ.",
       "translation": "Pronašli su malu sjajnu insektu koja leti između cvijeća.",
-      "translationEn": "They found a small glowing insect flying among the flowers."
+      "translationEn": "They found a small glowing insect flying among the flowers.",
+      "words": [
+        { "w": "وَجَدَا", "root": "و ج د", "bs": "pronašli su", "en": "they found" },
+        { "w": "حَشَرَةً", "root": "ح ش ر", "bs": "insektu", "en": "insect" },
+        { "w": "مُضِيئَةً", "root": "ض و أ", "bs": "sjajnu", "en": "glowing" },
+        { "w": "تَطِيرُ", "root": "ط ي ر", "bs": "leti", "en": "flying" },
+        { "w": "الزُّهُورِ", "root": "ز ه ر", "bs": "cvijeća", "en": "flowers" }
+      ]
     },
     {
       "arabic": "قَالَ الْأَبُ: هَذِهِ يَرَاعَةٌ، تُضِيءُ فِي اللَّيْلِ.",
       "translation": "Otac je rekao: Ovo je krijesnica, svietli noću.",
-      "translationEn": "The father said: This is a firefly, it glows at night."
+      "translationEn": "The father said: This is a firefly, it glows at night.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
+        { "w": "يَرَاعَةٌ", "root": "ي ر ع", "bs": "krijesnica", "en": "firefly" },
+        { "w": "تُضِيءُ", "root": "ض و أ", "bs": "svijetli", "en": "it glows" }
+      ]
     }
   ],
   "metadata": {

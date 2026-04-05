@@ -6,22 +6,50 @@
     {
       "arabic": "تَعْمَلُ سَمِيَّةُ طَبِيبَةً فِي مُسْتَشْفَى قَرِيبٍ مِنَ الْبَيْتِ.",
       "translation": "Samija radi kao ljekarica u bolnici blizu kuće.",
-      "translationEn": "Samiyya works as a doctor in a hospital near her home."
+      "translationEn": "Samiyya works as a doctor in a hospital near her home.",
+      "words": [
+        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "طَبِيبَةً", "root": "ط ب ب", "bs": "ljekarica/doktorica", "en": "doctor (f)" },
+        { "w": "مُسْتَشْفَى", "root": "ش ف ي", "bs": "bolnica", "en": "hospital" },
+        { "w": "قَرِيبٍ", "root": "ق ر ب", "bs": "blizu/u blizini", "en": "near/close" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "home" }
+      ]
     },
     {
       "arabic": "تُفَحِّصُ الْمَرْضَى فِي الصَّبَاحِ وَتَكْتُبُ الْوَصَفَاتِ.",
       "translation": "Ujutro pregledava pacijente i piše recepte.",
-      "translationEn": "She examines patients in the morning and writes prescriptions."
+      "translationEn": "She examines patients in the morning and writes prescriptions.",
+      "words": [
+        { "w": "تُفَحِّصُ", "root": "ف ح ص", "bs": "pregledava", "en": "examines" },
+        { "w": "الْمَرْضَى", "root": "م ر ض", "bs": "pacijenti/bolesni", "en": "patients" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro/ujutro", "en": "morning" },
+        { "w": "تَكْتُبُ", "root": "ك ت ب", "bs": "piše", "en": "writes" },
+        { "w": "الْوَصَفَاتِ", "root": "و ص ف", "bs": "recepti", "en": "prescriptions" }
+      ]
     },
     {
       "arabic": "تَأْكُلُ غَدَاءَهَا مَعَ الزُّمَلَاءِ فِي الِاسْتِرَاحَةِ.",
       "translation": "Ručava s kolegama u pauzi.",
-      "translationEn": "She has lunch with colleagues during the break."
+      "translationEn": "She has lunch with colleagues during the break.",
+      "words": [
+        { "w": "تَأْكُلُ", "root": "أ ك ل", "bs": "jede/ručava", "en": "eats/has lunch" },
+        { "w": "غَدَاءَهَا", "root": "غ د و", "bs": "njen ručak", "en": "her lunch" },
+        { "w": "الزُّمَلَاءِ", "root": "ز م ل", "bs": "kolege", "en": "colleagues" },
+        { "w": "الِاسْتِرَاحَةِ", "root": "ر و ح", "bs": "pauza/odmor", "en": "break" }
+      ]
     },
     {
       "arabic": "تَشْعُرُ بِالرِّضَا حِينَ يَخْرُجُ الْمَرِيضُ بِصِحَّةٍ جَيِّدَةٍ.",
       "translation": "Osjeća zadovoljstvo kad pacijent izađe zdravo.",
-      "translationEn": "She feels satisfied when a patient leaves in good health."
+      "translationEn": "She feels satisfied when a patient leaves in good health.",
+      "words": [
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
+        { "w": "بِالرِّضَا", "root": "ر ض و", "bs": "zadovoljstvo", "en": "satisfaction" },
+        { "w": "يَخْرُجُ", "root": "خ ر ج", "bs": "izađe/napusti", "en": "leaves" },
+        { "w": "الْمَرِيضُ", "root": "م ر ض", "bs": "pacijent/bolesnik", "en": "patient" },
+        { "w": "بِصِحَّةٍ", "root": "ص ح ح", "bs": "zdravlje/zdravo", "en": "health" },
+        { "w": "جَيِّدَةٍ", "root": "ج و د", "bs": "dobra/dobro", "en": "good" }
+      ]
     }
   ],
   "metadata": {

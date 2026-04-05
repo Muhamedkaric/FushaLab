@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَ رَاشِدٌ يُؤَجِّلُ عَمَلَهُ دَائِمًا إِلَى الْغَدِ.",
       "translation": "Rašid je uvijek odgađao posao za sutra.",
-      "translationEn": "Rashed always used to postpone his work until tomorrow."
+      "translationEn": "Rashed always used to postpone his work until tomorrow.",
+      "words": [
+        { "w": "يُؤَجِّلُ", "root": "أ ج ل", "bs": "odgađao je", "en": "used to postpone" },
+        { "w": "عَمَلَهُ", "root": "ع م ل", "bs": "njegov posao", "en": "his work" },
+        { "w": "الْغَدِ", "root": "غ د و", "bs": "sutra", "en": "tomorrow" }
+      ]
     },
     {
       "arabic": "فِي النِّهَايَةِ تَرَاكَمَتِ الأَعْمَالُ وَشَعَرَ بِالضَّغْطِ.",
       "translation": "Na kraju su se gomilali poslovi i osjetio je pritisak.",
-      "translationEn": "In the end the tasks piled up and he felt pressure."
+      "translationEn": "In the end the tasks piled up and he felt pressure.",
+      "words": [
+        { "w": "تَرَاكَمَتِ", "root": "ر ك م", "bs": "nagomilali su se", "en": "piled up" },
+        { "w": "الأَعْمَالُ", "root": "ع م ل", "bs": "poslovi", "en": "tasks" },
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
+        { "w": "الضَّغْطِ", "root": "ض غ ط", "bs": "pritisak", "en": "pressure" }
+      ]
     },
     {
       "arabic": "قَرَّرَ أَنْ يَبْدَأَ بِعَمَلٍ صَغِيرٍ كُلَّ يَوْمٍ.",
       "translation": "Odlučio je da svaki dan počne s malim poslom.",
-      "translationEn": "He decided to start with a small task every day."
+      "translationEn": "He decided to start with a small task every day.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "يَبْدَأَ", "root": "ب د أ", "bs": "da počne", "en": "to start" },
+        { "w": "عَمَلٍ", "root": "ع م ل", "bs": "posao", "en": "task" }
+      ]
     },
     {
       "arabic": "الْبِدَايَةُ الصَّغِيرَةُ تَجْعَلُ الْعَمَلَ الْكَبِيرَ أَسْهَلَ.",
       "translation": "Mali početak čini veliki posao lakšim.",
-      "translationEn": "A small start makes a big task easier."
+      "translationEn": "A small start makes a big task easier.",
+      "words": [
+        { "w": "الْبِدَايَةُ", "root": "ب د أ", "bs": "početak", "en": "start" },
+        { "w": "الصَّغِيرَةُ", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao", "en": "task" },
+        { "w": "الْكَبِيرَ", "root": "ك ب ر", "bs": "veliki", "en": "big" },
+        { "w": "أَسْهَلَ", "root": "س ه ل", "bs": "lakšim", "en": "easier" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,137 @@
     {
       "arabic": "طَلَبَ الطِّفْلُ مِنْ أَبِيهِ أَنْ يَلْعَبَ لُعْبَةً عَلَى التَّابْلِيتِ.",
       "translation": "Dijete je zamolilo oca da igra igru na tabletu.",
-      "translationEn": "The child asked his father to play a game on the tablet."
+      "translationEn": "The child asked his father to play a game on the tablet.",
+      "words": [
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zamolilo je",
+          "en": "asked"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child"
+        },
+        {
+          "w": "يَلْعَبَ",
+          "root": "ل ع ب",
+          "bs": "igra",
+          "en": "play"
+        },
+        {
+          "w": "لُعْبَةً",
+          "root": "ل ع ب",
+          "bs": "igru",
+          "en": "a game"
+        },
+        {
+          "w": "التَّابْلِيتِ",
+          "bs": "tabletu",
+          "en": "the tablet"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الْأَبُ: حَسَنًا لَكِنْ لِمُدَّةِ نِصْفِ سَاعَةٍ فَقَطْ.",
       "translation": "Otac je rekao: U redu ali samo pola sata.",
-      "translationEn": "The father said: Alright but only for half an hour."
+      "translationEn": "The father said: Alright but only for half an hour.",
+      "words": [
+        {
+          "w": "حَسَنًا",
+          "root": "ح س ن",
+          "bs": "u redu",
+          "en": "alright"
+        },
+        {
+          "w": "نِصْفِ",
+          "root": "ن ص ف",
+          "bs": "pola",
+          "en": "half"
+        },
+        {
+          "w": "سَاعَةٍ",
+          "root": "س و ع",
+          "bs": "sata",
+          "en": "an hour"
+        }
+      ]
     },
     {
       "arabic": "وَافَقَ الطِّفْلُ وَبَدَأَ يَلْعَبُ بِفَرَحٍ.",
       "translation": "Dijete se složilo i počelo radosno igrati.",
-      "translationEn": "The child agreed and started playing happily."
+      "translationEn": "The child agreed and started playing happily.",
+      "words": [
+        {
+          "w": "وَافَقَ",
+          "root": "و ف ق",
+          "bs": "složilo se",
+          "en": "agreed"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child"
+        },
+        {
+          "w": "بَدَأَ",
+          "root": "ب د أ",
+          "bs": "počelo je",
+          "en": "started"
+        },
+        {
+          "w": "يَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "igrati",
+          "en": "playing"
+        },
+        {
+          "w": "بِفَرَحٍ",
+          "root": "ف ر ح",
+          "bs": "radosno",
+          "en": "happily"
+        }
+      ]
     },
     {
       "arabic": "حِينَ انْتَهَتِ الْمُدَّةُ أَوْقَفَ اللُّعْبَةَ بِدُونِ شِكَايَةٍ.",
       "translation": "Kad je isteklo vrijeme ugasio je igru bez prigovora.",
-      "translationEn": "When the time was up he stopped the game without complaint."
+      "translationEn": "When the time was up he stopped the game without complaint.",
+      "words": [
+        {
+          "w": "انْتَهَتِ",
+          "root": "ن ه ي",
+          "bs": "isteklo je",
+          "en": "ended"
+        },
+        {
+          "w": "الْمُدَّةُ",
+          "root": "م د د",
+          "bs": "vrijeme",
+          "en": "the time"
+        },
+        {
+          "w": "أَوْقَفَ",
+          "root": "و ق ف",
+          "bs": "ugasio je",
+          "en": "stopped"
+        },
+        {
+          "w": "اللُّعْبَةَ",
+          "root": "ل ع ب",
+          "bs": "igru",
+          "en": "the game"
+        },
+        {
+          "w": "شِكَايَةٍ",
+          "root": "ش ك و",
+          "bs": "prigovora",
+          "en": "complaint"
+        }
+      ]
     }
   ],
   "metadata": {

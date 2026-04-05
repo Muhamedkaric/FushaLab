@@ -6,26 +6,110 @@
     {
       "arabic": "يَمْشِي عَلِيٌّ كُلَّ يَوْمٍ لِمُدَّةِ عِشْرِينَ دَقِيقَةً.",
       "translation": "Ali hoda svaki dan dvadeset minuta.",
-      "translationEn": "Ali walks every day for twenty minutes."
+      "translationEn": "Ali walks every day for twenty minutes.",
+      "words": [
+        {
+          "w": "يَمْشِي",
+          "root": "م ش ي",
+          "bs": "hoda",
+          "en": "walks"
+        },
+        {
+          "w": "دَقِيقَةً",
+          "root": "د ق ق",
+          "bs": "minuta",
+          "en": "minutes"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ إِنَّ الْمَشْيَ يُنَشِّطُ الْجِسْمَ وَالْعَقْلَ.",
       "translation": "Kaže da hodanje aktivira tijelo i um.",
-      "translationEn": "He says that walking activates the body and mind."
+      "translationEn": "He says that walking activates the body and mind.",
+      "words": [
+        {
+          "w": "الْمَشْيَ",
+          "root": "م ش ي",
+          "bs": "hodanje",
+          "en": "walking"
+        },
+        {
+          "w": "يُنَشِّطُ",
+          "root": "ن ش ط",
+          "bs": "aktivira",
+          "en": "activates"
+        },
+        {
+          "w": "الْجِسْمَ",
+          "root": "ج س م",
+          "bs": "tijelo",
+          "en": "body"
+        },
+        {
+          "w": "الْعَقْلَ",
+          "root": "ع ق ل",
+          "bs": "um",
+          "en": "mind"
+        }
+      ]
     },
     {
       "arabic": "يَخْرُجُ بَعْدَ الْعَشَاءِ وَيَمْشِي فِي الشَّارِعِ.",
       "translation": "Izlazi nakon večere i hoda ulicom.",
-      "translationEn": "He goes out after dinner and walks in the street."
+      "translationEn": "He goes out after dinner and walks in the street.",
+      "words": [
+        {
+          "w": "يَخْرُجُ",
+          "root": "خ ر ج",
+          "bs": "izlazi",
+          "en": "goes out"
+        },
+        {
+          "w": "الْعَشَاءِ",
+          "root": "ع ش و",
+          "bs": "večera",
+          "en": "dinner"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulica",
+          "en": "street"
+        }
+      ]
     },
     {
       "arabic": "أَحْيَانًا يَصْحَبُهُ صَدِيقُهُ وَيَتَكَلَّمَانِ أَثْنَاءَ الْمَشْيِ.",
       "translation": "Ponekad ga prati prijatelj i razgovaraju tokom hodanja.",
-      "translationEn": "Sometimes his friend joins him and they talk while walking."
+      "translationEn": "Sometimes his friend joins him and they talk while walking.",
+      "words": [
+        {
+          "w": "يَصْحَبُهُ",
+          "root": "ص ح ب",
+          "bs": "prati ga",
+          "en": "joins him"
+        },
+        {
+          "w": "صَدِيقُهُ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "friend"
+        },
+        {
+          "w": "يَتَكَلَّمَانِ",
+          "root": "ك ل م",
+          "bs": "razgovaraju",
+          "en": "talk"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["walking", "exercise", "daily routine"]
+    "tags": [
+      "walking",
+      "exercise",
+      "daily routine"
+    ]
   }
 }

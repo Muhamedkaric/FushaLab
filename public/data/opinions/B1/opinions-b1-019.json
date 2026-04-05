@@ -6,22 +6,44 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ الْمُوسِيقَى تُرِيحُ الْعَقْلَ وَالْقَلْبَ.",
       "translation": "Smatram da muzika umiruje um i srce.",
-      "translationEn": "I believe that music calms the mind and the heart."
+      "translationEn": "I believe that music calms the mind and the heart.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "تُرِيحُ", "root": "ر و ح", "bs": "umiruje", "en": "calms" },
+        { "w": "الْعَقْلَ", "root": "ع ق ل", "bs": "um", "en": "mind" },
+        { "w": "الْقَلْبَ", "root": "ق ل ب", "bs": "srce", "en": "heart" }
+      ]
     },
     {
       "arabic": "أَسْمَعُ مُوسِيقَى هَادِئَةً حِينَ أَكُونُ مُتْعَبًا.",
       "translation": "Slušam mirnu muziku kada sam umoran.",
-      "translationEn": "I listen to calm music when I am tired."
+      "translationEn": "I listen to calm music when I am tired.",
+      "words": [
+        { "w": "أَسْمَعُ", "root": "س م ع", "bs": "slušam", "en": "I listen to" },
+        { "w": "هَادِئَةً", "root": "ه د أ", "bs": "mirnu", "en": "calm" },
+        { "w": "مُتْعَبًا", "root": "ت ع ب", "bs": "umoran", "en": "tired" }
+      ]
     },
     {
       "arabic": "الْمُوسِيقَى لُغَةٌ يَفْهَمُهَا كُلُّ النَّاسِ فِي كُلِّ مَكَانٍ.",
       "translation": "Muzika je jezik koji svi razumiju na svakom mjestu.",
-      "translationEn": "Music is a language that all people understand everywhere."
+      "translationEn": "Music is a language that all people understand everywhere.",
+      "words": [
+        { "w": "لُغَةٌ", "root": "ل غ و", "bs": "jezik", "en": "language" },
+        { "w": "يَفْهَمُهَا", "root": "ف ه م", "bs": "razumiju", "en": "understand" },
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "مَكَانٍ", "root": "ك و ن", "bs": "mjesto", "en": "place" }
+      ]
     },
     {
       "arabic": "لَا يَهُمُّ مِنْ أَيِّ بَلَدٍ تَكُونُ، الْمُوسِيقَى تَجْمَعُنَا.",
       "translation": "Nije važno iz koje si zemlje, muzika nas ujedinjuje.",
-      "translationEn": "It does not matter what country you are from, music brings us together."
+      "translationEn": "It does not matter what country you are from, music brings us together.",
+      "words": [
+        { "w": "يَهُمُّ", "root": "ه م م", "bs": "važno", "en": "matters" },
+        { "w": "بَلَدٍ", "root": "ب ل د", "bs": "zemlje", "en": "country" },
+        { "w": "تَجْمَعُنَا", "root": "ج م ع", "bs": "ujedinjuje nas", "en": "brings us together" }
+      ]
     }
   ],
   "metadata": {

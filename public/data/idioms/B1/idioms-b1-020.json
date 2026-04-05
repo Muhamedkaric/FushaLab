@@ -6,22 +6,44 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «الصَّمْتُ مِنْ ذَهَبٍ».",
       "translation": "Poslovica kaže: «Tišina je od zlata».",
-      "translationEn": "The proverb says: «Silence is golden»."
+      "translationEn": "The proverb says: «Silence is golden».",
+      "words": [
+        { "w": "الصَّمْتُ", "root": "ص م ت", "bs": "tišina", "en": "silence" },
+        { "w": "ذَهَبٍ", "root": "ذ ه ب", "bs": "zlato", "en": "gold" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ السُّكُوتَ أَحْيَانًا أَفْضَلُ مِنَ الْكَلَامِ.",
       "translation": "To znači da je šutnja ponekad bolja od govora.",
-      "translationEn": "This means that staying silent is sometimes better than speaking."
+      "translationEn": "This means that staying silent is sometimes better than speaking.",
+      "words": [
+        { "w": "السُّكُوتَ", "root": "س ك ت", "bs": "šutnja", "en": "silence" },
+        { "w": "أَفْضَلُ", "root": "ف ض ل", "bs": "bolja", "en": "better" },
+        { "w": "الْكَلَامِ", "root": "ك ل م", "bs": "govor", "en": "speaking" }
+      ]
     },
     {
       "arabic": "سَمِعَ حَسَنٌ كَلَامًا غَيْرَ صَحِيحٍ عَنْ صَدِيقِهِ.",
       "translation": "Hasan je čuo netačne stvari o svom prijatelju.",
-      "translationEn": "Hassan heard untrue things about his friend."
+      "translationEn": "Hassan heard untrue things about his friend.",
+      "words": [
+        { "w": "سَمِعَ", "root": "س م ع", "bs": "čuo je", "en": "heard" },
+        { "w": "كَلَامًا", "root": "ك ل م", "bs": "govor", "en": "talk" },
+        { "w": "صَحِيحٍ", "root": "ص ح ح", "bs": "tačan", "en": "true" },
+        { "w": "صَدِيقِهِ", "root": "ص د ق", "bs": "njegovog prijatelja", "en": "his friend" }
+      ]
     },
     {
       "arabic": "فَضَّلَ الصَّمْتَ وَلَمْ يَنْشُرِ الْكَلَامَ السَّيِّئَ.",
       "translation": "Odlučio je šutjeti i nije širio loše priče.",
-      "translationEn": "He chose to stay silent and did not spread the bad talk."
+      "translationEn": "He chose to stay silent and did not spread the bad talk.",
+      "words": [
+        { "w": "فَضَّلَ", "root": "ف ض ل", "bs": "odlučio je", "en": "chose" },
+        { "w": "الصَّمْتَ", "root": "ص م ت", "bs": "tišina", "en": "silence" },
+        { "w": "يَنْشُرِ", "root": "ن ش ر", "bs": "širiti", "en": "spread" },
+        { "w": "الْكَلَامَ", "root": "ك ل م", "bs": "priče", "en": "talk" },
+        { "w": "السَّيِّئَ", "root": "س و أ", "bs": "loše", "en": "bad" }
+      ]
     }
   ],
   "metadata": {

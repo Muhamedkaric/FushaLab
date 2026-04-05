@@ -6,22 +6,46 @@
     {
       "arabic": "لِلْعَرَبِ أَمْثَالٌ شَهِيرَةٌ فِي الحَيَاةِ اليَوْمِيَّةِ.",
       "translation": "Arapi imaju poznate poslovice u svakodnevnom životu.",
-      "translationEn": "Arabs have famous proverbs in daily life."
+      "translationEn": "Arabs have famous proverbs in daily life.",
+      "words": [
+        { "w": "أَمْثَالٌ", "root": "م ث ل", "bs": "poslovice", "en": "proverbs" },
+        { "w": "شَهِيرَةٌ", "root": "ش هـ ر", "bs": "poznate", "en": "famous" },
+        { "w": "الحَيَاةِ", "root": "ح ي ي", "bs": "životu", "en": "life" },
+        { "w": "اليَوْمِيَّةِ", "root": "ي و م", "bs": "svakodnevnom", "en": "daily" }
+      ]
     },
     {
       "arabic": "يَقُولُونَ «الصَّبْرُ مِفْتَاحُ الفَرَجِ».",
       "translation": "Kažu «Strpljivost je ključ olakšanja».",
-      "translationEn": "They say «Patience is the key to relief»."
+      "translationEn": "They say «Patience is the key to relief».",
+      "words": [
+        { "w": "يَقُولُونَ", "root": "ق و ل", "bs": "kažu", "en": "say" },
+        { "w": "الصَّبْرُ", "root": "ص ب ر", "bs": "strpljivost", "en": "patience" },
+        { "w": "مِفْتَاحُ", "root": "ف ت ح", "bs": "ključ", "en": "key" },
+        { "w": "الفَرَجِ", "root": "ف ر ج", "bs": "olakšanja", "en": "relief" }
+      ]
     },
     {
       "arabic": "هَذِهِ الأَمْثَالُ تَحْمِلُ حِكْمَةً قَدِيمَةً.",
       "translation": "Ove poslovice nose staru mudrost.",
-      "translationEn": "These proverbs carry old wisdom."
+      "translationEn": "These proverbs carry old wisdom.",
+      "words": [
+        { "w": "الأَمْثَالُ", "root": "م ث ل", "bs": "poslovice", "en": "proverbs" },
+        { "w": "تَحْمِلُ", "root": "ح م ل", "bs": "nose", "en": "carry" },
+        { "w": "حِكْمَةً", "root": "ح ك م", "bs": "mudrost", "en": "wisdom" },
+        { "w": "قَدِيمَةً", "root": "ق د م", "bs": "staru", "en": "old" }
+      ]
     },
     {
       "arabic": "يَتَعَلَّمُ الأَطْفَالُ الأَمْثَالَ مِنَ الكِبَارِ.",
       "translation": "Djeca uče poslovice od starijih.",
-      "translationEn": "Children learn proverbs from elders."
+      "translationEn": "Children learn proverbs from elders.",
+      "words": [
+        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uče", "en": "learn" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "الأَمْثَالَ", "root": "م ث ل", "bs": "poslovice", "en": "proverbs" },
+        { "w": "الكِبَارِ", "root": "ك ب ر", "bs": "starijih", "en": "elders" }
+      ]
     }
   ],
   "metadata": {

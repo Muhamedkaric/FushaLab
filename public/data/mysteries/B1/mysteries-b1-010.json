@@ -6,27 +6,54 @@
     {
       "arabic": "اسْتَيْقَظَ كَرِيمٌ وَوَجَدَ نَافِذَتَهُ مَفْتُوحَةً.",
       "translation": "Karim se probudio i pronašao prozor otvoren.",
-      "translationEn": "Karim woke up and found his window open."
+      "translationEn": "Karim woke up and found his window open.",
+      "words": [
+        { "w": "اسْتَيْقَظَ", "root": "ي ق ظ", "bs": "probudio se", "en": "he woke up" },
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "نَافِذَتَهُ", "root": "ن ف ذ", "bs": "prozor", "en": "his window" },
+        { "w": "مَفْتُوحَةً", "root": "ف ت ح", "bs": "otvoren", "en": "open" }
+      ]
     },
     {
       "arabic": "لَمْ يَفْتَحْهَا هُوَ قَبْلَ النَّوْمِ.",
       "translation": "On ga nije otvorio prije spavanja.",
-      "translationEn": "He had not opened it before sleeping."
+      "translationEn": "He had not opened it before sleeping.",
+      "words": [
+        { "w": "يَفْتَحْهَا", "root": "ف ت ح", "bs": "otvorio ga je", "en": "he opened it" },
+        { "w": "النَّوْمِ", "root": "ن و م", "bs": "spavanja", "en": "sleeping" }
+      ]
     },
     {
       "arabic": "نَظَرَ إِلَى الْخَارِجِ فَرَأَى طَائِرًا جَمِيلًا عَلَى الشُّبَّاكِ.",
       "translation": "Pogledao je napolje i vidio lijepu pticu na prozorčiću.",
-      "translationEn": "He looked outside and saw a beautiful bird on the windowsill."
+      "translationEn": "He looked outside and saw a beautiful bird on the windowsill.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "he looked" },
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
+        { "w": "طَائِرًا", "root": "ط ي ر", "bs": "pticu", "en": "bird" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepu", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "رُبَّمَا فَتَحَ الرِّيحُ النَّافِذَةَ فِي اللَّيْلِ.",
       "translation": "Možda je vjetar otvorio prozor noću.",
-      "translationEn": "Perhaps the wind opened the window in the night."
+      "translationEn": "Perhaps the wind opened the window in the night.",
+      "words": [
+        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "opened" },
+        { "w": "الرِّيحُ", "root": "ر و ح", "bs": "vjetar", "en": "the wind" },
+        { "w": "النَّافِذَةَ", "root": "ن ف ذ", "bs": "prozor", "en": "the window" }
+      ]
     },
     {
       "arabic": "قَرَّرَ كَرِيمٌ أَنْ يُغْلِقَ النَّافِذَةَ جَيِّدًا كُلَّ لَيْلَةٍ.",
       "translation": "Karim je odlučio dobro zatvori prozor svake večeri.",
-      "translationEn": "Karim decided to close the window properly every night."
+      "translationEn": "Karim decided to close the window properly every night.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "he decided" },
+        { "w": "يُغْلِقَ", "root": "غ ل ق", "bs": "zatvori", "en": "to close" },
+        { "w": "النَّافِذَةَ", "root": "ن ف ذ", "bs": "prozor", "en": "the window" },
+        { "w": "جَيِّدًا", "root": "ج و د", "bs": "dobro", "en": "properly" }
+      ]
     }
   ],
   "metadata": {

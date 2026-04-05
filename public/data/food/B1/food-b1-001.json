@@ -6,22 +6,47 @@
     {
       "arabic": "طَبَخَتِ الْأُمُّ طَعَامًا لَذِيذًا لِلْعَشَاءِ.",
       "translation": "Majka je skuhala ukusnu hranu za večeru.",
-      "translationEn": "The mother cooked a delicious meal for dinner."
+      "translationEn": "The mother cooked a delicious meal for dinner.",
+      "words": [
+        { "w": "طَبَخَتِ", "root": "ط ب خ", "bs": "skuhala je/kuhala", "en": "cooked" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hrana/jelo", "en": "food/meal" },
+        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusnu/ukusno", "en": "delicious" },
+        { "w": "الْعَشَاءِ", "root": "ع ش و", "bs": "večera", "en": "dinner" }
+      ]
     },
     {
       "arabic": "جَلَسَتِ الْأُسْرَةُ حَوْلَ الطَّاوِلَةِ وَأَكَلَتْ مَعًا.",
       "translation": "Porodica je sjela oko stola i jela zajedno.",
-      "translationEn": "The family sat around the table and ate together."
+      "translationEn": "The family sat around the table and ate together.",
+      "words": [
+        { "w": "جَلَسَتِ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
+        { "w": "الْأُسْرَةُ", "root": "أ س ر", "bs": "porodica/obitelj", "en": "family" },
+        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stol/sto", "en": "table" },
+        { "w": "أَكَلَتْ", "root": "أ ك ل", "bs": "jela je", "en": "ate" }
+      ]
     },
     {
       "arabic": "قَالَ الْأَبُ: هَذَا الطَّعَامُ شَهِيٌّ كَثِيرًا.",
       "translation": "Otac je rekao: Ova hrana je veoma ukusna.",
-      "translationEn": "The father said: This food is very tasty."
+      "translationEn": "The father said: This food is very tasty.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
+        { "w": "شَهِيٌّ", "root": "ش ه و", "bs": "ukusna/slasna", "en": "tasty/appetizing" }
+      ]
     },
     {
       "arabic": "شَكَرَ الْأَطْفَالُ أُمَّهُمْ عَلَى الْعَشَاءِ.",
       "translation": "Djeca su zahvalila majci za večeru.",
-      "translationEn": "The children thanked their mother for dinner."
+      "translationEn": "The children thanked their mother for dinner.",
+      "words": [
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalili su", "en": "thanked" },
+        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "أُمَّهُمْ", "root": "أ م م", "bs": "njihova majka", "en": "their mother" },
+        { "w": "الْعَشَاءِ", "root": "ع ش و", "bs": "večera", "en": "dinner" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,46 @@
     {
       "arabic": "فِي آخِرِ يَوْمٍ جَمَعَتِ الْعَائِلَةُ ذِكْرَيَاتِهَا.",
       "translation": "Posljednjeg dana porodica je skupila svoja sjećanja.",
-      "translationEn": "On the last day the family gathered their memories."
+      "translationEn": "On the last day the family gathered their memories.",
+      "words": [
+        { "w": "جَمَعَتِ", "root": "ج م ع", "bs": "skupila je", "en": "gathered" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "ذِكْرَيَاتِهَا", "root": "ذ ك ر", "bs": "njezina sjećanja", "en": "their memories" }
+      ]
     },
     {
       "arabic": "تَحَدَّثَ كُلُّ وَاحِدٍ عَنْ أَجْمَلِ لَحْظَةٍ فِي الرِّحْلَةِ.",
       "translation": "Svako je govorio o najljepšem trenutku putovanja.",
-      "translationEn": "Each one spoke about the most beautiful moment of the trip."
+      "translationEn": "Each one spoke about the most beautiful moment of the trip.",
+      "words": [
+        { "w": "تَحَدَّثَ", "root": "ح د ث", "bs": "razgovarao je / govorio je", "en": "spoke" },
+        { "w": "أَجْمَلِ", "root": "ج م ل", "bs": "najljepši", "en": "most beautiful" },
+        { "w": "لَحْظَةٍ", "root": "ل ح ظ", "bs": "trenutak", "en": "moment" },
+        { "w": "الرِّحْلَةِ", "root": "ر ح ل", "bs": "putovanje", "en": "trip" }
+      ]
     },
     {
       "arabic": "قَالَ الطِّفْلُ: أَحَبُّ مَا رَأَيْتُهُ هُوَ الْبَحْرُ.",
       "translation": "Dijete je reklo: Ono što sam najviše volio je more.",
-      "translationEn": "The child said: The thing I loved most was the sea."
+      "translationEn": "The child said: The thing I loved most was the sea.",
+      "words": [
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "أَحَبُّ", "root": "ح ب ب", "bs": "najdraže / najmilije", "en": "most loved / favorite" },
+        { "w": "رَأَيْتُهُ", "root": "ر أ ي", "bs": "vidio sam ga", "en": "I saw it" },
+        { "w": "الْبَحْرُ", "root": "ب ح ر", "bs": "more", "en": "sea" }
+      ]
     },
     {
       "arabic": "وَعَدَتِ الْعَائِلَةُ أَنْ تَعُودَ الصَّيْفَ الْقَادِمَ.",
       "translation": "Porodica je obećala da će se vratiti idućeg ljeta.",
-      "translationEn": "The family promised to return next summer."
+      "translationEn": "The family promised to return next summer.",
+      "words": [
+        { "w": "وَعَدَتِ", "root": "و ع د", "bs": "obećala je", "en": "promised" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "تَعُودَ", "root": "ع و د", "bs": "da se vrati", "en": "to return" },
+        { "w": "الصَّيْفَ", "root": "ص ي ف", "bs": "ljeto", "en": "summer" },
+        { "w": "الْقَادِمَ", "root": "ق د م", "bs": "iduće / sljedeće", "en": "next / coming" }
+      ]
     }
   ],
   "metadata": {

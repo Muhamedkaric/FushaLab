@@ -6,22 +6,46 @@
     {
       "arabic": "سَأَلَ النَّادِلُ الزَّبُونَ عَمَّا يُرِيدُ.",
       "translation": "Konobar je pitao gosta što želi.",
-      "translationEn": "The waiter asked the customer what he wanted."
+      "translationEn": "The waiter asked the customer what he wanted.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "النَّادِلُ", "root": "ن د ل", "bs": "konobar", "en": "waiter" },
+        { "w": "الزَّبُونَ", "root": "ز ب ن", "bs": "gosta", "en": "customer" },
+        { "w": "يُرِيدُ", "root": "ر و د", "bs": "želi", "en": "wants" }
+      ]
     },
     {
       "arabic": "قَالَ إِنَّهُ يُحِبُّ الأَكَلَ الخَفِيفَ.",
       "translation": "Rekao je da voli laganu hranu.",
-      "translationEn": "He said he likes light food."
+      "translationEn": "He said he likes light food.",
+      "words": [
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "likes" },
+        { "w": "الأَكَلَ", "root": "أ ك ل", "bs": "hranu", "en": "food" },
+        { "w": "الخَفِيفَ", "root": "خ ف ف", "bs": "laganu", "en": "light" }
+      ]
     },
     {
       "arabic": "أَوْصَى النَّادِلُ بِطَبَقِ الشُّوَرَبَةِ وَالخُبْزِ.",
       "translation": "Konobar je preporučio tanjir supe i hljeba.",
-      "translationEn": "The waiter recommended a plate of soup and bread."
+      "translationEn": "The waiter recommended a plate of soup and bread.",
+      "words": [
+        { "w": "أَوْصَى", "root": "و ص ي", "bs": "preporučio je", "en": "recommended" },
+        { "w": "النَّادِلُ", "root": "ن د ل", "bs": "konobar", "en": "waiter" },
+        { "w": "طَبَقِ", "root": "ط ب ق", "bs": "tanjir", "en": "plate" },
+        { "w": "الشُّوَرَبَةِ", "bs": "supe", "en": "soup" },
+        { "w": "الخُبْزِ", "root": "خ ب ز", "bs": "hljeba", "en": "bread" }
+      ]
     },
     {
       "arabic": "قَبِلَ الزَّبُونُ وَانْتَظَرَ طَعَامَهُ.",
       "translation": "Gost je prihvatio i čekao svoju hranu.",
-      "translationEn": "The customer accepted and waited for his food."
+      "translationEn": "The customer accepted and waited for his food.",
+      "words": [
+        { "w": "قَبِلَ", "root": "ق ب ل", "bs": "prihvatio je", "en": "accepted" },
+        { "w": "الزَّبُونُ", "root": "ز ب ن", "bs": "gost", "en": "customer" },
+        { "w": "انْتَظَرَ", "root": "ن ظ ر", "bs": "čekao je", "en": "waited" },
+        { "w": "طَعَامَهُ", "root": "ط ع م", "bs": "hranu", "en": "food" }
+      ]
     }
   ],
   "metadata": {

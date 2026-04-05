@@ -6,26 +6,116 @@
     {
       "arabic": "اشْتَعَلَ حَرِيقٌ صَغِيرٌ فِي مَطْبَخِ مَطْعَمٍ بِالْمَدِينَةِ.",
       "translation": "Izbio je mali požar u kuhinji restorana u gradu.",
-      "translationEn": "A small fire broke out in the kitchen of a city restaurant."
+      "translationEn": "A small fire broke out in the kitchen of a city restaurant.",
+      "words": [
+        {
+          "w": "اشْتَعَلَ",
+          "root": "ش ع ل",
+          "bs": "izbio je",
+          "en": "broke out"
+        },
+        {
+          "w": "حَرِيقٌ",
+          "root": "ح ر ق",
+          "bs": "požar",
+          "en": "fire"
+        },
+        {
+          "w": "صَغِيرٌ",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small"
+        },
+        {
+          "w": "مَطْبَخِ",
+          "root": "ط ب خ",
+          "bs": "kuhinji",
+          "en": "kitchen"
+        },
+        {
+          "w": "مَطْعَمٍ",
+          "root": "ط ع م",
+          "bs": "restorana",
+          "en": "restaurant"
+        }
+      ]
     },
     {
       "arabic": "وَصَلَتْ سَيَّارَةُ الْإِطْفَاءِ بِسُرْعَةٍ وَأَخْمَدَتِ النِّيرَانَ.",
       "translation": "Vatrogasno vozilo je brzo stiglo i ugasilo vatru.",
-      "translationEn": "The fire truck arrived quickly and extinguished the flames."
+      "translationEn": "The fire truck arrived quickly and extinguished the flames.",
+      "words": [
+        {
+          "w": "سَيَّارَةُ الْإِطْفَاءِ",
+          "root": "ط ف أ",
+          "bs": "vatrogasno vozilo",
+          "en": "fire truck"
+        },
+        {
+          "w": "أَخْمَدَتِ",
+          "root": "خ م د",
+          "bs": "ugasilo je",
+          "en": "extinguished"
+        },
+        {
+          "w": "النِّيرَانَ",
+          "root": "ن و ر",
+          "bs": "vatru",
+          "en": "flames"
+        }
+      ]
     },
     {
       "arabic": "لَمْ يُصَبْ أَحَدٌ بِأَذًى فِي هَذَا الْحَرِيقِ.",
       "translation": "Niko nije povrijeđen u ovom požaru.",
-      "translationEn": "No one was hurt in this fire."
+      "translationEn": "No one was hurt in this fire.",
+      "words": [
+        {
+          "w": "أَذًى",
+          "root": "أ ذ ي",
+          "bs": "ozljeda",
+          "en": "harm"
+        },
+        {
+          "w": "الْحَرِيقِ",
+          "root": "ح ر ق",
+          "bs": "požaru",
+          "en": "fire"
+        }
+      ]
     },
     {
       "arabic": "أَغْلَقَ الْمَطْعَمُ أَبْوَابَهُ لِيَوْمٍ وَاحِدٍ لِلتَّنْظِيفِ.",
       "translation": "Restoran je zatvorio vrata na jedan dan radi čišćenja.",
-      "translationEn": "The restaurant closed its doors for one day for cleaning."
+      "translationEn": "The restaurant closed its doors for one day for cleaning.",
+      "words": [
+        {
+          "w": "أَغْلَقَ",
+          "root": "غ ل ق",
+          "bs": "zatvorio je",
+          "en": "closed"
+        },
+        {
+          "w": "الْمَطْعَمُ",
+          "root": "ط ع م",
+          "bs": "restoran",
+          "en": "restaurant"
+        },
+        {
+          "w": "التَّنْظِيفِ",
+          "root": "ن ظ ف",
+          "bs": "čišćenje",
+          "en": "cleaning"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["fire", "city", "safety"]
+    "tags": [
+      "fire",
+      "city",
+      "safety"
+    ]
   }
 }

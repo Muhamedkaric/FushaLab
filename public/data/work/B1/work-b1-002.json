@@ -6,22 +6,46 @@
     {
       "arabic": "تَذْهَبُ سُوزَانُ إِلَى الْعَمَلِ كُلَّ يَوْمٍ بِالْحَافِلَةِ.",
       "translation": "Suzan ide na posao autobusom svaki dan.",
-      "translationEn": "Suzan goes to work by bus every day."
+      "translationEn": "Suzan goes to work by bus every day.",
+      "words": [
+        { "w": "تَذْهَبُ", "root": "ذ ه ب", "bs": "ide/odlazi", "en": "goes" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
+        { "w": "الْحَافِلَةِ", "root": "ح ف ل", "bs": "autobus", "en": "bus" }
+      ]
     },
     {
       "arabic": "تَسْتَغْرِقُ الرِّحْلَةُ عِشْرِينَ دَقِيقَةً مِنَ الْبَيْتِ.",
       "translation": "Putovanje traje dvadeset minuta od kuće.",
-      "translationEn": "The trip takes twenty minutes from home."
+      "translationEn": "The trip takes twenty minutes from home.",
+      "words": [
+        { "w": "تَسْتَغْرِقُ", "root": "غ ر ق", "bs": "traje/oduzima", "en": "takes" },
+        { "w": "الرِّحْلَةُ", "root": "ر ح ل", "bs": "putovanje/vožnja", "en": "trip/journey" },
+        { "w": "دَقِيقَةً", "root": "د ق ق", "bs": "minuta", "en": "minute" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "home" }
+      ]
     },
     {
       "arabic": "تَقْرَأُ كِتَابًا أَوْ تَسْتَمِعُ إِلَى الْمُوسِيقَى فِي الطَّرِيقِ.",
       "translation": "Čita knjigu ili sluša muziku na putu.",
-      "translationEn": "She reads a book or listens to music on the way."
+      "translationEn": "She reads a book or listens to music on the way.",
+      "words": [
+        { "w": "تَقْرَأُ", "root": "ق ر أ", "bs": "čita", "en": "reads" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "تَسْتَمِعُ", "root": "س م ع", "bs": "sluša", "en": "listens" },
+        { "w": "الْمُوسِيقَى", "root": "م و س", "bs": "muzika", "en": "music" },
+        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put/cesta", "en": "way/road" }
+      ]
     },
     {
       "arabic": "تَصِلُ إِلَى الْعَمَلِ نَشِيطَةً وَمُسْتَعِدَّةً لِلْيَوْمِ.",
       "translation": "Stiže na posao svježa i spremna za dan.",
-      "translationEn": "She arrives at work energetic and ready for the day."
+      "translationEn": "She arrives at work energetic and ready for the day.",
+      "words": [
+        { "w": "تَصِلُ", "root": "و ص ل", "bs": "stiže/dolazi", "en": "arrives" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" },
+        { "w": "نَشِيطَةً", "root": "ن ش ط", "bs": "aktivna/energična", "en": "energetic/active" },
+        { "w": "مُسْتَعِدَّةً", "root": "ع د د", "bs": "spremna/pripremljena", "en": "ready/prepared" }
+      ]
     }
   ],
   "metadata": {

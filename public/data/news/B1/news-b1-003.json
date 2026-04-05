@@ -6,26 +6,121 @@
     {
       "arabic": "افْتَتَحَ السُّوقُ الأُسْبُوعِيُّ أَبْوَابَهُ صَبَاحَ الْيَوْمِ.",
       "translation": "Sedmična pijaca otvorila je svoja vrata jutros.",
-      "translationEn": "The weekly market opened its doors this morning."
+      "translationEn": "The weekly market opened its doors this morning.",
+      "words": [
+        {
+          "w": "افْتَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "السُّوقُ",
+          "root": "س و ق",
+          "bs": "pijaca",
+          "en": "market"
+        },
+        {
+          "w": "الأُسْبُوعِيُّ",
+          "root": "س ب ع",
+          "bs": "sedmična",
+          "en": "weekly"
+        },
+        {
+          "w": "أَبْوَابَهُ",
+          "root": "ب و ب",
+          "bs": "svoja vrata",
+          "en": "its doors"
+        }
+      ]
     },
     {
       "arabic": "جَاءَ كَثِيرٌ مِنَ الْبَائِعِينَ بِخُضَرَاوَاتٍ طَازَجَةٍ.",
       "translation": "Mnogi prodavači su donijeli svježe povrće.",
-      "translationEn": "Many vendors came with fresh vegetables."
+      "translationEn": "Many vendors came with fresh vegetables.",
+      "words": [
+        {
+          "w": "الْبَائِعِينَ",
+          "root": "ب ي ع",
+          "bs": "prodavači",
+          "en": "vendors"
+        },
+        {
+          "w": "خُضَرَاوَاتٍ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables"
+        },
+        {
+          "w": "طَازَجَةٍ",
+          "bs": "svježe",
+          "en": "fresh"
+        }
+      ]
     },
     {
       "arabic": "اشْتَرَى النَّاسُ الْفَوَاكِهَ وَالْخُبْزَ وَالْجُبْنَ.",
       "translation": "Ljudi su kupovali voće, hljeb i sir.",
-      "translationEn": "People bought fruits, bread, and cheese."
+      "translationEn": "People bought fruits, bread, and cheese.",
+      "words": [
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought"
+        },
+        {
+          "w": "الْفَوَاكِهَ",
+          "root": "ف و ك",
+          "bs": "voće",
+          "en": "fruits"
+        },
+        {
+          "w": "الْخُبْزَ",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread"
+        },
+        {
+          "w": "الْجُبْنَ",
+          "root": "ج ب ن",
+          "bs": "sir",
+          "en": "cheese"
+        }
+      ]
     },
     {
       "arabic": "كَانَ السُّوقُ مُزْدَحِمًا وَصَاخِبًا طُولَ النَّهَارِ.",
       "translation": "Pijaca je bila gužvava i glasna cijeli dan.",
-      "translationEn": "The market was crowded and noisy all day long."
+      "translationEn": "The market was crowded and noisy all day long.",
+      "words": [
+        {
+          "w": "السُّوقُ",
+          "root": "س و ق",
+          "bs": "pijaca",
+          "en": "market"
+        },
+        {
+          "w": "مُزْدَحِمًا",
+          "root": "ز ح م",
+          "bs": "gužvava",
+          "en": "crowded"
+        },
+        {
+          "w": "صَاخِبًا",
+          "root": "ص خ ب",
+          "bs": "glasna",
+          "en": "noisy"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["market", "shopping", "daily life"]
+    "tags": [
+      "market",
+      "shopping",
+      "daily life"
+    ]
   }
 }

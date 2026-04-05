@@ -6,22 +6,43 @@
     {
       "arabic": "سَافَرَ جَابِرٌ إِلَى بَلَدٍ عَرَبِيٍّ لِزِيَارَةِ صَدِيقِهِ.",
       "translation": "Jabir je putovao u arapsku zemlju da posjeti prijatelja.",
-      "translationEn": "Jabir traveled to an Arab country to visit his friend."
+      "translationEn": "Jabir traveled to an Arab country to visit his friend.",
+      "words": [
+        { "w": "سَافَرَ", "root": "س ف ر", "bs": "putovao je", "en": "traveled" },
+        { "w": "بَلَدٍ", "root": "ب ل د", "bs": "zemlja / država", "en": "country" },
+        { "w": "عَرَبِيٍّ", "root": "ع ر ب", "bs": "arapska", "en": "Arab" },
+        { "w": "زِيَارَةِ", "root": "ز و ر", "bs": "posjeta", "en": "visit" }
+      ]
     },
     {
       "arabic": "اسْتَقْبَلَهُ الصَّدِيقُ فِي الْمَطَارِ وَرَحَّبَ بِهِ.",
       "translation": "Prijatelj ga je dočekao na aerodromu i toplo pozdravio.",
-      "translationEn": "His friend received him at the airport and welcomed him."
+      "translationEn": "His friend received him at the airport and welcomed him.",
+      "words": [
+        { "w": "اسْتَقْبَلَهُ", "root": "ق ب ل", "bs": "dočekao ga je", "en": "received him" },
+        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
+        { "w": "رَحَّبَ", "root": "ر ح ب", "bs": "pozdravio je", "en": "welcomed" }
+      ]
     },
     {
       "arabic": "أَخَذَهُ إِلَى الْبَيْتِ وَقَدَّمَ لَهُ الطَّعَامَ.",
       "translation": "Odveo ga je kući i ponudio ga hranom.",
-      "translationEn": "He took him home and offered him food."
+      "translationEn": "He took him home and offered him food.",
+      "words": [
+        { "w": "أَخَذَهُ", "root": "أ خ ذ", "bs": "odveo ga je", "en": "took him" },
+        { "w": "قَدَّمَ", "root": "ق د م", "bs": "ponudio je", "en": "offered / presented" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana", "en": "food" }
+      ]
     },
     {
       "arabic": "شَعَرَ جَابِرٌ بِالدِّفْءِ وَالتَّرْحِيبِ.",
       "translation": "Jabir je osjetio toplinu i dobrodošlicu.",
-      "translationEn": "Jabir felt warmth and welcome."
+      "translationEn": "Jabir felt warmth and welcome.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
+        { "w": "الدِّفْءِ", "root": "د ف أ", "bs": "toplina", "en": "warmth" },
+        { "w": "التَّرْحِيبِ", "root": "ر ح ب", "bs": "dobrodošlica", "en": "welcome" }
+      ]
     }
   ],
   "metadata": {

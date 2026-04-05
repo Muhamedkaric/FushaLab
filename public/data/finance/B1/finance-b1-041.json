@@ -6,27 +6,55 @@
     {
       "arabic": "أَرَادَتِ الأُمُّ أَنْ تُنَظِّمَ مَصَارِيفَ البَيْتِ.",
       "translation": "Majka je htjela organizovati kućne troškove.",
-      "translationEn": "The mother wanted to organize the household expenses."
+      "translationEn": "The mother wanted to organize the household expenses.",
+      "words": [
+        { "w": "أَرَادَتِ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
+        { "w": "تُنَظِّمَ", "root": "ن ظ م", "bs": "da organizuje", "en": "to organize" },
+        { "w": "مَصَارِيفَ", "root": "ص ر ف", "bs": "troškove", "en": "expenses" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "household" }
+      ]
     },
     {
       "arabic": "كَتَبَتْ قَائِمَةً بِالأَشْيَاءِ الضَّرُورِيَّةِ.",
       "translation": "Napisala je listu neophodnih stvari.",
-      "translationEn": "She wrote a list of necessary items."
+      "translationEn": "She wrote a list of necessary items.",
+      "words": [
+        { "w": "كَتَبَتْ", "root": "ك ت ب", "bs": "napisala je", "en": "wrote" },
+        { "w": "قَائِمَةً", "root": "ق و م", "bs": "lista", "en": "list" },
+        { "w": "الأَشْيَاءِ", "root": "ش ي أ", "bs": "stvari", "en": "items" },
+        { "w": "الضَّرُورِيَّةِ", "root": "ض ر ر", "bs": "neophodne", "en": "necessary" }
+      ]
     },
     {
       "arabic": "قَسَّمَتِ النُّقُودَ بَيْنَ الأَكْلِ وَالمَلَابِسِ وَغَيْرِهَا.",
       "translation": "Podijelila je novac između hrane, odjeće i ostalog.",
-      "translationEn": "She divided the money between food, clothes, and other things."
+      "translationEn": "She divided the money between food, clothes, and other things.",
+      "words": [
+        { "w": "قَسَّمَتِ", "root": "ق س م", "bs": "podijelila je", "en": "divided" },
+        { "w": "النُّقُودَ", "root": "ن ق د", "bs": "novac", "en": "money" },
+        { "w": "الأَكْلِ", "root": "أ ك ل", "bs": "hrana", "en": "food" },
+        { "w": "المَلَابِسِ", "root": "ل ب س", "bs": "odjeća", "en": "clothes" }
+      ]
     },
     {
       "arabic": "بِهَذِهِ الطَّرِيقَةِ لَمْ تُنْفِقْ أَكْثَرَ مِمَّا عِنْدَهَا.",
       "translation": "Na ovaj način nije potrošila više nego što ima.",
-      "translationEn": "This way she did not spend more than she had."
+      "translationEn": "This way she did not spend more than she had.",
+      "words": [
+        { "w": "الطَّرِيقَةِ", "root": "ط ر ق", "bs": "način", "en": "way" },
+        { "w": "تُنْفِقْ", "root": "ن ف ق", "bs": "potrošila je", "en": "spend" },
+        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više", "en": "more" }
+      ]
     },
     {
       "arabic": "كَانَ أَبُو الأُسْرَةِ سَعِيدًا بِهَذَا التَّنْظِيمِ.",
       "translation": "Otac porodice je bio sretan zbog ovog organiziranja.",
-      "translationEn": "The head of the family was happy with this organization."
+      "translationEn": "The head of the family was happy with this organization.",
+      "words": [
+        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "سَعِيدًا", "root": "س ع د", "bs": "sretan", "en": "happy" },
+        { "w": "التَّنْظِيمِ", "root": "ن ظ م", "bs": "organizovanje", "en": "organization" }
+      ]
     }
   ],
   "metadata": {

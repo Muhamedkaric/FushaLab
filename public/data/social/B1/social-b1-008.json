@@ -6,22 +6,43 @@
     {
       "arabic": "فَتَحَ حَسَنٌ البَابَ وَرَأَى جَارَهُ خَالِدًا.",
       "translation": "Hasan je otvorio vrata i vidio komšiju Halida.",
-      "translationEn": "Hassan opened the door and saw his neighbor Khalid."
+      "translationEn": "Hassan opened the door and saw his neighbor Khalid.",
+      "words": [
+        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "opened" },
+        { "w": "البَابَ", "root": "ب و ب", "bs": "vrata", "en": "door" },
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "جَارَهُ", "root": "ج و ر", "bs": "komšiju", "en": "neighbor" }
+      ]
     },
     {
       "arabic": "سَلَّمَ عَلَيْهِ وَدَعَاهُ لِلدُّخُولِ.",
       "translation": "Pozdravio ga je i pozvao unutra.",
-      "translationEn": "He greeted him and invited him inside."
+      "translationEn": "He greeted him and invited him inside.",
+      "words": [
+        { "w": "سَلَّمَ", "root": "س ل م", "bs": "pozdravio je", "en": "greeted" },
+        { "w": "دَعَاهُ", "root": "د ع و", "bs": "pozvao ga je", "en": "invited him" },
+        { "w": "لِلدُّخُولِ", "root": "د خ ل", "bs": "unutra", "en": "inside" }
+      ]
     },
     {
       "arabic": "قَدَّمَ لَهُ الشَّايَ وَالحَلْوَى.",
       "translation": "Poslužio ga je čajem i slatkišima.",
-      "translationEn": "He served him tea and sweets."
+      "translationEn": "He served him tea and sweets.",
+      "words": [
+        { "w": "قَدَّمَ", "root": "ق د م", "bs": "poslužio je", "en": "served" },
+        { "w": "الشَّايَ", "root": "ش ي ي", "bs": "čajem", "en": "tea" },
+        { "w": "الحَلْوَى", "root": "ح ل و", "bs": "slatkišima", "en": "sweets" }
+      ]
     },
     {
       "arabic": "تَحَدَّثَا عَنِ الحَيِّ وَالأَخْبَارِ.",
       "translation": "Razgovarali su o kvartu i vijestima.",
-      "translationEn": "They talked about the neighborhood and the news."
+      "translationEn": "They talked about the neighborhood and the news.",
+      "words": [
+        { "w": "تَحَدَّثَا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
+        { "w": "الحَيِّ", "root": "ح ي ي", "bs": "kvartu", "en": "neighborhood" },
+        { "w": "الأَخْبَارِ", "root": "خ ب ر", "bs": "vijestima", "en": "news" }
+      ]
     }
   ],
   "metadata": {

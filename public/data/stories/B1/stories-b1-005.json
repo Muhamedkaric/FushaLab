@@ -6,27 +6,58 @@
     {
       "arabic": "زَرَعَتْ سَارَةُ بَذْرَةً صَغِيرَةً فِي الْحَدِيقَةِ.",
       "translation": "Sara je posijala malo sjeme u vrtu.",
-      "translationEn": "Sara planted a small seed in the garden."
+      "translationEn": "Sara planted a small seed in the garden.",
+      "words": [
+        { "w": "زَرَعَتْ", "root": "ز ر ع", "bs": "posijala je", "en": "planted" },
+        { "w": "بَذْرَةً", "root": "ب ذ ر", "bs": "sjeme", "en": "seed" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "malo", "en": "small" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+      ]
     },
     {
       "arabic": "سَقَتْهَا كُلَّ يَوْمٍ صَبَاحًا وَمَسَاءً.",
       "translation": "Zalijevala je svaki dan ujutro i uveče.",
-      "translationEn": "She watered it every morning and evening."
+      "translationEn": "She watered it every morning and evening.",
+      "words": [
+        { "w": "سَقَتْهَا", "root": "س ق ي", "bs": "zalijevala je", "en": "watered it" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "صَبَاحًا", "root": "ص ب ح", "bs": "ujutro", "en": "morning" },
+        { "w": "مَسَاءً", "root": "م س و", "bs": "uveče", "en": "evening" }
+      ]
     },
     {
       "arabic": "بَعْدَ أُسْبُوعٍ رَأَتْ وَرَقَةً خَضْرَاءَ صَغِيرَةً تَخْرُجُ مِنَ الأَرْضِ.",
       "translation": "Nakon sedmice je ugledala mali zeleni listić koji izlazi iz zemlje.",
-      "translationEn": "After a week she saw a small green leaf coming out of the ground."
+      "translationEn": "After a week she saw a small green leaf coming out of the ground.",
+      "words": [
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica", "en": "week" },
+        { "w": "رَأَتْ", "root": "ر أ ي", "bs": "ugledala je", "en": "saw" },
+        { "w": "وَرَقَةً", "root": "و ر ق", "bs": "listić", "en": "leaf" },
+        { "w": "خَضْرَاءَ", "root": "خ ض ر", "bs": "zeleni", "en": "green" },
+        { "w": "تَخْرُجُ", "root": "خ ر ج", "bs": "izlazi", "en": "coming out" },
+        { "w": "الأَرْضِ", "root": "أ ر ض", "bs": "zemlja", "en": "ground" }
+      ]
     },
     {
       "arabic": "فَرِحَتْ كَثِيرًا وَقَالَتْ: «نَجَحْتُ أَنَا!»",
       "translation": "Veoma se obradovala i rekla: «Ja sam uspjela!»",
-      "translationEn": "She was very happy and said: «I did it!»"
+      "translationEn": "She was very happy and said: «I did it!»",
+      "words": [
+        { "w": "فَرِحَتْ", "root": "ف ر ح", "bs": "obradovala se", "en": "was happy" },
+        { "w": "نَجَحْتُ", "root": "ن ج ح", "bs": "uspjela sam", "en": "I did it" }
+      ]
     },
     {
       "arabic": "نَمَتِ الشَّجَرَةُ بَبْطْءٍ وَأَصْبَحَتْ مَكَانًا لِلطُّيُورِ.",
       "translation": "Stablo je polako raslo i postalo je mjesto za ptice.",
-      "translationEn": "The tree grew slowly and became a place for birds."
+      "translationEn": "The tree grew slowly and became a place for birds.",
+      "words": [
+        { "w": "نَمَتِ", "root": "ن م و", "bs": "raslo je", "en": "grew" },
+        { "w": "الشَّجَرَةُ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
+        { "w": "أَصْبَحَتْ", "root": "ص ب ح", "bs": "postalo je", "en": "became" },
+        { "w": "مَكَانًا", "root": "ك و ن", "bs": "mjesto", "en": "place" },
+        { "w": "الطُّيُورِ", "root": "ط ي ر", "bs": "ptice", "en": "birds" }
+      ]
     }
   ],
   "metadata": {

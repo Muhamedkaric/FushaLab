@@ -6,27 +6,57 @@
     {
       "arabic": "لَاحَظَتْ مَنَالُ أَنَّ شَعْرَهَا الْمَنْسُوجَ اخْتَلَّ فِي الصَّبَاحِ.",
       "translation": "Manal je primijetila da joj se pletenica rasplela ujutro.",
-      "translationEn": "Manal noticed that her braid had come undone in the morning."
+      "translationEn": "Manal noticed that her braid had come undone in the morning.",
+      "words": [
+        { "w": "لَاحَظَتْ", "root": "ل ح ظ", "bs": "primijetila je", "en": "she noticed" },
+        { "w": "شَعْرَهَا", "root": "ش ع ر", "bs": "kosu", "en": "her hair" },
+        { "w": "الْمَنْسُوجَ", "root": "ن س ج", "bs": "pletenu", "en": "braided" },
+        { "w": "اخْتَلَّ", "root": "خ ل ل", "bs": "rasplela se", "en": "came undone" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "ujutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "كَانَتْ أُمُّهَا ضَفَرَتْهُ بِعِنَايَةٍ فِي اللَّيْلِ.",
       "translation": "Majka joj ga je pažljivo oplela prethodne večeri.",
-      "translationEn": "Her mother had carefully braided it the night before."
+      "translationEn": "Her mother had carefully braided it the night before.",
+      "words": [
+        { "w": "ضَفَرَتْهُ", "root": "ض ف ر", "bs": "oplela ga je", "en": "had braided it" },
+        { "w": "بِعِنَايَةٍ", "root": "ع ن ي", "bs": "pažljivo", "en": "carefully" },
+        { "w": "اللَّيْلِ", "root": "ل ي ل", "bs": "večeri/noći", "en": "night" }
+      ]
     },
     {
       "arabic": "فَكَّرَتْ مَنَالُ فِي السَّبَبِ.",
       "translation": "Manal je razmišljala o razlogu.",
-      "translationEn": "Manal thought about the reason."
+      "translationEn": "Manal thought about the reason.",
+      "words": [
+        { "w": "فَكَّرَتْ", "root": "ف ك ر", "bs": "razmišljala je", "en": "she thought" },
+        { "w": "السَّبَبِ", "root": "س ب ب", "bs": "razlogu", "en": "reason" }
+      ]
     },
     {
       "arabic": "رَأَتْ قِطَّتَهَا تَنْظُرُ إِلَيْهَا بِعُيُونٍ بَرِيئَةٍ.",
       "translation": "Vidjela je mačku kako je gleda nevinim očima.",
-      "translationEn": "She saw her cat looking at her with innocent eyes."
+      "translationEn": "She saw her cat looking at her with innocent eyes.",
+      "words": [
+        { "w": "رَأَتْ", "root": "ر أ ي", "bs": "vidjela je", "en": "she saw" },
+        { "w": "قِطَّتَهَا", "root": "ق ط ط", "bs": "mačku", "en": "her cat" },
+        { "w": "تَنْظُرُ", "root": "ن ظ ر", "bs": "gleda", "en": "looking" },
+        { "w": "بِعُيُونٍ", "root": "ع ي ن", "bs": "očima", "en": "eyes" },
+        { "w": "بَرِيئَةٍ", "root": "ب ر أ", "bs": "nevinim", "en": "innocent" }
+      ]
     },
     {
       "arabic": "ظَنَّتْ أَنَّ الْقِطَّةَ لَعِبَتْ بِشَعْرِهَا وَهِيَ نَائِمَةٌ.",
       "translation": "Pomislila je da se mačka igrala s njenom kosom dok je spavala.",
-      "translationEn": "She thought the cat had played with her hair while she was asleep."
+      "translationEn": "She thought the cat had played with her hair while she was asleep.",
+      "words": [
+        { "w": "ظَنَّتْ", "root": "ظ ن ن", "bs": "pomislila je", "en": "she thought" },
+        { "w": "الْقِطَّةَ", "root": "ق ط ط", "bs": "mačka", "en": "the cat" },
+        { "w": "لَعِبَتْ", "root": "ل ع ب", "bs": "igrala se", "en": "had played" },
+        { "w": "بِشَعْرِهَا", "root": "ش ع ر", "bs": "s kosom", "en": "with her hair" },
+        { "w": "نَائِمَةٌ", "root": "ن و م", "bs": "spavala", "en": "asleep" }
+      ]
     }
   ],
   "metadata": {

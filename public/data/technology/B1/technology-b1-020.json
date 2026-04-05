@@ -6,22 +6,120 @@
     {
       "arabic": "أَرَادَ سَعِيدٌ أَنْ يَعْرِفَ طَقْسَ الْغَدِ.",
       "translation": "Saeed je htio znati kakvo je sutra vrijeme.",
-      "translationEn": "Saeed wanted to know tomorrow's weather."
+      "translationEn": "Saeed wanted to know tomorrow's weather.",
+      "words": [
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted"
+        },
+        {
+          "w": "يَعْرِفَ",
+          "root": "ع ر ف",
+          "bs": "znati",
+          "en": "know"
+        },
+        {
+          "w": "طَقْسَ",
+          "root": "ط ق س",
+          "bs": "vrijeme",
+          "en": "the weather"
+        },
+        {
+          "w": "الْغَدِ",
+          "root": "غ د و",
+          "bs": "sutra",
+          "en": "tomorrow"
+        }
+      ]
     },
     {
       "arabic": "فَتَحَ تَطْبِيقَ الطَّقْسِ عَلَى هَاتِفِهِ.",
       "translation": "Otvorio je aplikaciju za vremenske prilike na telefonu.",
-      "translationEn": "He opened the weather app on his phone."
+      "translationEn": "He opened the weather app on his phone.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "تَطْبِيقَ الطَّقْسِ",
+          "root": "ط ق س",
+          "bs": "aplikaciju za vrijeme",
+          "en": "the weather app"
+        },
+        {
+          "w": "هَاتِفِهِ",
+          "root": "ه ت ف",
+          "bs": "telefonu",
+          "en": "his phone"
+        }
+      ]
     },
     {
       "arabic": "رَأَى أَنَّ الْغَدَ سَيَكُونُ مُشْمِسًا وَحَارًّا.",
       "translation": "Vidio je da će sutra biti sunčano i vruće.",
-      "translationEn": "He saw that tomorrow will be sunny and hot."
+      "translationEn": "He saw that tomorrow will be sunny and hot.",
+      "words": [
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw"
+        },
+        {
+          "w": "الْغَدَ",
+          "root": "غ د و",
+          "bs": "sutra",
+          "en": "tomorrow"
+        },
+        {
+          "w": "مُشْمِسًا",
+          "root": "ش م س",
+          "bs": "sunčano",
+          "en": "sunny"
+        },
+        {
+          "w": "حَارًّا",
+          "root": "ح ر ر",
+          "bs": "vruće",
+          "en": "hot"
+        }
+      ]
     },
     {
       "arabic": "قَرَّرَ أَنْ يَأْخُذَ مَعَهُ مَاءً كَثِيرًا.",
       "translation": "Odlučio je ponijeti sa sobom puno vode.",
-      "translationEn": "He decided to take a lot of water with him."
+      "translationEn": "He decided to take a lot of water with him.",
+      "words": [
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided"
+        },
+        {
+          "w": "يَأْخُذَ",
+          "root": "أ خ ذ",
+          "bs": "ponijeti",
+          "en": "to take"
+        },
+        {
+          "w": "مَاءً",
+          "root": "م و ه",
+          "bs": "vode",
+          "en": "water"
+        },
+        {
+          "w": "كَثِيرًا",
+          "root": "ك ث ر",
+          "bs": "puno",
+          "en": "a lot"
+        }
+      ]
     }
   ],
   "metadata": {

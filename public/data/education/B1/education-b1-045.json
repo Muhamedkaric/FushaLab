@@ -6,27 +6,56 @@
     {
       "arabic": "بَدَأَ العَامُ الدِّرَاسِيُّ الجَدِيدُ فِي شَهْرِ سَبْتَمْبَرَ.",
       "translation": "Nova školska godina počela je u septembru.",
-      "translationEn": "The new school year started in September."
+      "translationEn": "The new school year started in September.",
+      "words": [
+        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počela je", "en": "started" },
+        { "w": "العَامُ", "root": "ع و م", "bs": "godina", "en": "year" },
+        { "w": "الجَدِيدُ", "root": "ج د د", "bs": "nova", "en": "new" },
+        { "w": "شَهْرِ", "root": "ش ه ر", "bs": "mjesec", "en": "month" }
+      ]
     },
     {
       "arabic": "جَاءَ الطُّلَّابُ بِمَلَابِسَ جَدِيدَةٍ وَحَقَائِبَ جَدِيدَةٍ.",
       "translation": "Učenici su došli s novom odjećom i novim torbama.",
-      "translationEn": "The students came with new clothes and new bags."
+      "translationEn": "The students came with new clothes and new bags.",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došli su", "en": "came" },
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "مَلَابِسَ", "root": "ل ب س", "bs": "odjeća", "en": "clothes" },
+        { "w": "حَقَائِبَ", "root": "ح ق ب", "bs": "torbe", "en": "bags" }
+      ]
     },
     {
       "arabic": "كَانُوا مُتَحَمِّسِينَ لِلقَاءِ أَصْدِقَائِهِمْ وَمُعَلِّمِيهِمْ.",
       "translation": "Bili su uzbuđeni što će sresti prijatelje i nastavnike.",
-      "translationEn": "They were excited to meet their friends and teachers."
+      "translationEn": "They were excited to meet their friends and teachers.",
+      "words": [
+        { "w": "مُتَحَمِّسِينَ", "root": "ح م س", "bs": "uzbuđeni", "en": "excited" },
+        { "w": "أَصْدِقَائِهِمْ", "root": "ص د ق", "bs": "njihovi prijatelji", "en": "their friends" },
+        { "w": "مُعَلِّمِيهِمْ", "root": "ع ل م", "bs": "njihovi nastavnici", "en": "their teachers" }
+      ]
     },
     {
       "arabic": "رَحَّبَ المُدِيرُ بِالطُّلَّابِ فِي الفِنَاءِ.",
       "translation": "Direktor je pozdravio učenike u dvorištu.",
-      "translationEn": "The principal welcomed the students in the yard."
+      "translationEn": "The principal welcomed the students in the yard.",
+      "words": [
+        { "w": "رَحَّبَ", "root": "ر ح ب", "bs": "pozdravio je", "en": "welcomed" },
+        { "w": "المُدِيرُ", "root": "د و ر", "bs": "direktor", "en": "principal" },
+        { "w": "الطُّلَّابِ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "الفِنَاءِ", "root": "ف ن و", "bs": "dvorište", "en": "yard" }
+      ]
     },
     {
       "arabic": "كَانَ يَوْمًا مَلِيئًا بِالبَهْجَةِ وَالأَمَلِ.",
       "translation": "Bio je to dan pun radosti i nade.",
-      "translationEn": "It was a day full of joy and hope."
+      "translationEn": "It was a day full of joy and hope.",
+      "words": [
+        { "w": "يَوْمًا", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "مَلِيئًا", "root": "م ل أ", "bs": "pun", "en": "full" },
+        { "w": "البَهْجَةِ", "root": "ب ه ج", "bs": "radost", "en": "joy" },
+        { "w": "الأَمَلِ", "root": "أ م ل", "bs": "nada", "en": "hope" }
+      ]
     }
   ],
   "metadata": {

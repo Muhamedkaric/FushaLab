@@ -6,22 +6,44 @@
     {
       "arabic": "ذَهَبَتِ الْمَجْمُوعَةُ إِلَى مَطْعَمٍ فِي وَسَطِ الْمَدِينَةِ.",
       "translation": "Grupa je otišla u restoran u centru grada.",
-      "translationEn": "The group went to a restaurant in the city center."
+      "translationEn": "The group went to a restaurant in the city center.",
+      "words": [
+        { "w": "الْمَجْمُوعَةُ", "root": "ج م ع", "bs": "grupa", "en": "group" },
+        { "w": "مَطْعَمٍ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
+        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "طَلَبُوا الطَّعَامَ الْمَحَلِّيَّ وَشَرِبُوا الْعَصِيرَ.",
       "translation": "Naručili su lokalna jela i pili sok.",
-      "translationEn": "They ordered local food and drank juice."
+      "translationEn": "They ordered local food and drank juice.",
+      "words": [
+        { "w": "طَلَبُوا", "root": "ط ل ب", "bs": "naručili su", "en": "ordered" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana", "en": "food" },
+        { "w": "الْمَحَلِّيَّ", "root": "ح ل ل", "bs": "lokalni", "en": "local" },
+        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" }
+      ]
     },
     {
       "arabic": "كَانَ الطَّعَامُ لَذِيذًا وَالسِّعْرُ مُنَاسِبًا.",
       "translation": "Hrana je bila ukusna a cijena prikladna.",
-      "translationEn": "The food was delicious and the price was reasonable."
+      "translationEn": "The food was delicious and the price was reasonable.",
+      "words": [
+        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana", "en": "food" },
+        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusna", "en": "delicious" },
+        { "w": "السِّعْرُ", "root": "س ع ر", "bs": "cijena", "en": "price" },
+        { "w": "مُنَاسِبًا", "root": "ن س ب", "bs": "prikladna / razumna", "en": "reasonable" }
+      ]
     },
     {
       "arabic": "دَفَعُوا الْحِسَابَ وَخَرَجُوا رَاضِينَ.",
       "translation": "Platili su račun i izašli zadovoljni.",
-      "translationEn": "They paid the bill and left satisfied."
+      "translationEn": "They paid the bill and left satisfied.",
+      "words": [
+        { "w": "دَفَعُوا", "root": "د ف ع", "bs": "platili su", "en": "paid" },
+        { "w": "الْحِسَابَ", "root": "ح س ب", "bs": "račun", "en": "bill / check" },
+        { "w": "رَاضِينَ", "root": "ر ض ي", "bs": "zadovoljni", "en": "satisfied" }
+      ]
     }
   ],
   "metadata": {

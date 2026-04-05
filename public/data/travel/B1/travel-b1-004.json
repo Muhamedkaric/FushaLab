@@ -6,22 +6,46 @@
     {
       "arabic": "اشْتَرَى خَالِدٌ تَذْكِرَةَ الْقِطَارِ مِنَ الشِّبَّاكِ.",
       "translation": "Halid je kupio kartu za voz na šalteru.",
-      "translationEn": "Khalid bought the train ticket at the counter."
+      "translationEn": "Khalid bought the train ticket at the counter.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "تَذْكِرَةَ", "root": "ذ ك ر", "bs": "karta", "en": "ticket" },
+        { "w": "الْقِطَارِ", "root": "ق ط ر", "bs": "voz", "en": "train" },
+        { "w": "الشِّبَّاكِ", "root": "ش ب ك", "bs": "šalter / blagajna", "en": "counter / ticket window" }
+      ]
     },
     {
       "arabic": "كَانَتِ التَّذْكِرَةُ رَخِيصَةً وَالرِّحْلَةُ قَصِيرَةً.",
       "translation": "Karta je bila jeftina a putovanje kratko.",
-      "translationEn": "The ticket was cheap and the journey was short."
+      "translationEn": "The ticket was cheap and the journey was short.",
+      "words": [
+        { "w": "التَّذْكِرَةُ", "root": "ذ ك ر", "bs": "karta", "en": "ticket" },
+        { "w": "رَخِيصَةً", "root": "ر خ ص", "bs": "jeftina", "en": "cheap" },
+        { "w": "الرِّحْلَةُ", "root": "ر ح ل", "bs": "putovanje", "en": "journey" },
+        { "w": "قَصِيرَةً", "root": "ق ص ر", "bs": "kratko", "en": "short" }
+      ]
     },
     {
       "arabic": "جَلَسَ خَالِدٌ بِجَانِبِ النَّافِذَةِ وَنَظَرَ إِلَى الْحُقُولِ.",
       "translation": "Halid je sjeo kraj prozora i gledao u polja.",
-      "translationEn": "Khalid sat by the window and looked at the fields."
+      "translationEn": "Khalid sat by the window and looked at the fields.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
+        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "gledao je", "en": "looked" },
+        { "w": "الْحُقُولِ", "root": "ح ق ل", "bs": "polja", "en": "fields" }
+      ]
     },
     {
       "arabic": "وَصَلَ إِلَى مَدِينَتِهِ مَسَاءً وَهُوَ سَعِيدٌ.",
       "translation": "Stigao je u svoj grad uvečer sretan.",
-      "translationEn": "He arrived in his city in the evening feeling happy."
+      "translationEn": "He arrived in his city in the evening feeling happy.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "مَدِينَتِهِ", "root": "د ي ن", "bs": "njegov grad", "en": "his city" },
+        { "w": "مَسَاءً", "root": "م س و", "bs": "uvečer", "en": "in the evening" },
+        { "w": "سَعِيدٌ", "root": "س ع د", "bs": "sretan", "en": "happy" }
+      ]
     }
   ],
   "metadata": {

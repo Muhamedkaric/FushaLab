@@ -6,26 +6,122 @@
     {
       "arabic": "افْتَتَحَتِ الْمَدِينَةُ حَدِيقَةً جَدِيدَةً قُرْبَ الْمَدْرَسَةِ.",
       "translation": "Grad je otvorio novi park u blizini škole.",
-      "translationEn": "The city opened a new park near the school."
+      "translationEn": "The city opened a new park near the school.",
+      "words": [
+        {
+          "w": "افْتَتَحَتِ",
+          "root": "ف ت ح",
+          "bs": "otvorilo je",
+          "en": "opened"
+        },
+        {
+          "w": "الْمَدِينَةُ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city"
+        },
+        {
+          "w": "حَدِيقَةً",
+          "root": "ح د ق",
+          "bs": "park",
+          "en": "park"
+        },
+        {
+          "w": "جَدِيدَةً",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new"
+        }
+      ]
     },
     {
       "arabic": "تَضُمُّ الْحَدِيقَةُ مَلَاعِبَ لِلأَطْفَالِ وَمَقَاعِدَ لِلرَّاحَةِ.",
       "translation": "Park ima dječija igrališta i klupe za odmor.",
-      "translationEn": "The park has playgrounds for children and benches for rest."
+      "translationEn": "The park has playgrounds for children and benches for rest.",
+      "words": [
+        {
+          "w": "مَلَاعِبَ",
+          "root": "ل ع ب",
+          "bs": "igrališta",
+          "en": "playgrounds"
+        },
+        {
+          "w": "الأَطْفَالِ",
+          "root": "ط ف ل",
+          "bs": "djece",
+          "en": "children"
+        },
+        {
+          "w": "مَقَاعِدَ",
+          "root": "ق ع د",
+          "bs": "klupe",
+          "en": "benches"
+        },
+        {
+          "w": "لِلرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "za odmor",
+          "en": "for rest"
+        }
+      ]
     },
     {
       "arabic": "زَارَ الْحَدِيقَةَ كَثِيرٌ مِنَ الأُسَرِ فِي الْيَوْمِ الأَوَّلِ.",
       "translation": "Mnoge porodice su posjetile park prvog dana.",
-      "translationEn": "Many families visited the park on the first day."
+      "translationEn": "Many families visited the park on the first day.",
+      "words": [
+        {
+          "w": "زَارَ",
+          "root": "ز و ر",
+          "bs": "posjetio je",
+          "en": "visited"
+        },
+        {
+          "w": "الأُسَرِ",
+          "root": "أ س ر",
+          "bs": "porodice",
+          "en": "families"
+        }
+      ]
     },
     {
       "arabic": "أَعْرَبَ الأَهَالِي عَنْ سَعَادَتِهِمْ بِهَذِهِ الْهَدِيَّةِ الْجَمِيلَةِ.",
       "translation": "Roditelji su izrazili radost ovim lijepim darom.",
-      "translationEn": "The residents expressed their happiness about this beautiful gift."
+      "translationEn": "The residents expressed their happiness about this beautiful gift.",
+      "words": [
+        {
+          "w": "أَعْرَبَ",
+          "root": "ع ر ب",
+          "bs": "izrazio je",
+          "en": "expressed"
+        },
+        {
+          "w": "سَعَادَتِهِمْ",
+          "root": "س ع د",
+          "bs": "njihovu sreću",
+          "en": "their happiness"
+        },
+        {
+          "w": "الْهَدِيَّةِ",
+          "root": "ه د ي",
+          "bs": "daru",
+          "en": "gift"
+        },
+        {
+          "w": "الْجَمِيلَةِ",
+          "root": "ج م ل",
+          "bs": "lijepom",
+          "en": "beautiful"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["park", "city", "family"]
+    "tags": [
+      "park",
+      "city",
+      "family"
+    ]
   }
 }

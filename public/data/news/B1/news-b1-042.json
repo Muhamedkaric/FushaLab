@@ -6,26 +6,126 @@
     {
       "arabic": "تَعَطَّلَتِ الْكَهْرَبَاءُ فِي بَعْضِ أَحْيَاءِ الْمَدِينَةِ.",
       "translation": "Struja se ugasila u nekim kvartovima grada.",
-      "translationEn": "The electricity went out in some neighborhoods of the city."
+      "translationEn": "The electricity went out in some neighborhoods of the city.",
+      "words": [
+        {
+          "w": "تَعَطَّلَتِ",
+          "root": "ع ط ل",
+          "bs": "ugasila se",
+          "en": "went out"
+        },
+        {
+          "w": "الْكَهْرَبَاءُ",
+          "bs": "struja",
+          "en": "electricity"
+        },
+        {
+          "w": "أَحْيَاءِ",
+          "root": "ح ي ي",
+          "bs": "kvartovima",
+          "en": "neighborhoods"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "م د ن",
+          "bs": "grada",
+          "en": "city"
+        }
+      ]
     },
     {
       "arabic": "عَمِلَ الْفَنِّيُّونَ طُولَ اللَّيْلِ لِإِصْلَاحِ الْعَطَلِ.",
       "translation": "Tehničari su radili cijelu noć da poprave kvar.",
-      "translationEn": "The technicians worked all night to fix the fault."
+      "translationEn": "The technicians worked all night to fix the fault.",
+      "words": [
+        {
+          "w": "عَمِلَ",
+          "root": "ع م ل",
+          "bs": "radili su",
+          "en": "worked"
+        },
+        {
+          "w": "الْفَنِّيُّونَ",
+          "root": "ف ن ن",
+          "bs": "tehničari",
+          "en": "technicians"
+        },
+        {
+          "w": "إِصْلَاحِ",
+          "root": "ص ل ح",
+          "bs": "popravak",
+          "en": "fix"
+        },
+        {
+          "w": "الْعَطَلِ",
+          "root": "ع ط ل",
+          "bs": "kvara",
+          "en": "fault"
+        }
+      ]
     },
     {
       "arabic": "عَادَتِ الْكَهْرَبَاءُ صَبَاحَ الْيَوْمِ إِلَى كُلِّ الْمَنَازِلِ.",
       "translation": "Struja se jutros vratila u sva domaćinstva.",
-      "translationEn": "The electricity returned this morning to all homes."
+      "translationEn": "The electricity returned this morning to all homes.",
+      "words": [
+        {
+          "w": "عَادَتِ",
+          "root": "ع و د",
+          "bs": "vratila se",
+          "en": "returned"
+        },
+        {
+          "w": "الْكَهْرَبَاءُ",
+          "bs": "struja",
+          "en": "electricity"
+        },
+        {
+          "w": "الْمَنَازِلِ",
+          "root": "ن ز ل",
+          "bs": "domaćinstvima",
+          "en": "homes"
+        }
+      ]
     },
     {
       "arabic": "اعْتَذَرَتِ الشَّرِكَةُ عَنِ الإِزْعَاجِ وَشَكَرَتِ النَّاسَ لِصَبْرِهِمْ.",
       "translation": "Kompanija se izvinjava zbog smetnji i zahvaljuje se ljudima na strpljenju.",
-      "translationEn": "The company apologized for the inconvenience and thanked people for their patience."
+      "translationEn": "The company apologized for the inconvenience and thanked people for their patience.",
+      "words": [
+        {
+          "w": "اعْتَذَرَتِ",
+          "root": "ع ذ ر",
+          "bs": "izvinjava se",
+          "en": "apologized"
+        },
+        {
+          "w": "الشَّرِكَةُ",
+          "root": "ش ر ك",
+          "bs": "kompanija",
+          "en": "company"
+        },
+        {
+          "w": "الإِزْعَاجِ",
+          "root": "ز ع ج",
+          "bs": "smetnje",
+          "en": "inconvenience"
+        },
+        {
+          "w": "الصَّبْرِ",
+          "root": "ص ب ر",
+          "bs": "strpljenje",
+          "en": "patience"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["electricity", "city", "infrastructure"]
+    "tags": [
+      "electricity",
+      "city",
+      "infrastructure"
+    ]
   }
 }

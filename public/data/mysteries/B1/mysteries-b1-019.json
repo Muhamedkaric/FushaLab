@@ -6,27 +6,55 @@
     {
       "arabic": "كَانَتْ هَدِيَّةُ عِيدِ مِيلَادِ رَنَا مَلْفُوفَةً بِوَرَقٍ أَزْرَقَ.",
       "translation": "Ranin poklon za rođendan bio je umotan u plavi papir.",
-      "translationEn": "Rana's birthday gift was wrapped in blue paper."
+      "translationEn": "Rana's birthday gift was wrapped in blue paper.",
+      "words": [
+        { "w": "هَدِيَّةُ", "root": "ه د ي", "bs": "poklon", "en": "gift" },
+        { "w": "مَلْفُوفَةً", "root": "ل ف ف", "bs": "umotan", "en": "wrapped" },
+        { "w": "وَرَقٍ", "root": "و ر ق", "bs": "papir", "en": "paper" },
+        { "w": "أَزْرَقَ", "root": "ز ر ق", "bs": "plavi", "en": "blue" }
+      ]
     },
     {
       "arabic": "لَمْ يَكُنْ عَلَيْهِ اسْمُ مَنْ أَرْسَلَهُ.",
       "translation": "Na njemu nije bilo imena onoga ko ga je poslao.",
-      "translationEn": "There was no name of who sent it on it."
+      "translationEn": "There was no name of who sent it on it.",
+      "words": [
+        { "w": "اسْمُ", "root": "س م و", "bs": "ime", "en": "name" },
+        { "w": "أَرْسَلَهُ", "root": "ر س ل", "bs": "poslao ga je", "en": "sent it" }
+      ]
     },
     {
       "arabic": "فَتَحَتْ رَنَا الْهَدِيَّةَ وَوَجَدَتْ كِتَابَ قِصَصٍ.",
       "translation": "Rana je otvorila poklon i pronašla knjigu priča.",
-      "translationEn": "Rana opened the gift and found a storybook."
+      "translationEn": "Rana opened the gift and found a storybook.",
+      "words": [
+        { "w": "فَتَحَتْ", "root": "ف ت ح", "bs": "otvorila je", "en": "she opened" },
+        { "w": "الْهَدِيَّةَ", "root": "ه د ي", "bs": "poklon", "en": "the gift" },
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "كِتَابَ", "root": "ك ت ب", "bs": "knjigu", "en": "book" },
+        { "w": "قِصَصٍ", "root": "ق ص ص", "bs": "priča", "en": "stories" }
+      ]
     },
     {
       "arabic": "كَانَتْ قَدْ قَالَتْ قَبْلَ أُسْبُوعٍ أَنَّهَا تُرِيدُ هَذَا الْكِتَابَ.",
       "translation": "Sedmicu ranije je rekla da želi tu knjigu.",
-      "translationEn": "She had said a week before that she wanted this book."
+      "translationEn": "She had said a week before that she wanted this book.",
+      "words": [
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "she said" },
+        { "w": "تُرِيدُ", "root": "ر و د", "bs": "želi", "en": "she wants" },
+        { "w": "الْكِتَابَ", "root": "ك ت ب", "bs": "knjigu", "en": "the book" }
+      ]
     },
     {
       "arabic": "عَرَفَتْ أَنَّ أَخَاهَا الَّذِي يَسْمَعُ جَيِّدًا هُوَ مَنْ أَرْسَلَهَا.",
       "translation": "Shvatila je da ju je poslao njen brat koji dobro sluša.",
-      "translationEn": "She realised that her brother who listens well had sent it."
+      "translationEn": "She realised that her brother who listens well had sent it.",
+      "words": [
+        { "w": "عَرَفَتْ", "root": "ع ر ف", "bs": "shvatila je", "en": "she realised" },
+        { "w": "أَخَاهَا", "root": "أ خ خ", "bs": "brat", "en": "her brother" },
+        { "w": "يَسْمَعُ", "root": "س م ع", "bs": "sluša", "en": "listens" },
+        { "w": "أَرْسَلَهَا", "root": "ر س ل", "bs": "poslao je", "en": "sent it" }
+      ]
     }
   ],
   "metadata": {

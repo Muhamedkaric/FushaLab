@@ -6,22 +6,49 @@
     {
       "arabic": "كَانَتْ إِيمَانُ تَشْعُرُ بِالتَّعَبِ بَعْدَ كُلِّ يَوْمٍ دِرَاسِيٍّ.",
       "translation": "Iman se osjećala umorno nakon svakog školskog dana.",
-      "translationEn": "Iman used to feel tired after every school day."
+      "translationEn": "Iman used to feel tired after every school day.",
+      "words": [
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
+        { "w": "التَّعَبِ", "root": "ت ع ب", "bs": "umor", "en": "tiredness" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "دِرَاسِيٍّ", "root": "د ر س", "bs": "školski", "en": "school" }
+      ]
     },
     {
       "arabic": "قَرَّرَتْ أَنْ تَأْخُذَ اسْتِرَاحَةً قَصِيرَةً بَعْدَ الظُّهْرِ.",
       "translation": "Odlučila je da uzme kratku pauzu poslije podne.",
-      "translationEn": "She decided to take a short rest in the afternoon."
+      "translationEn": "She decided to take a short rest in the afternoon.",
+      "words": [
+        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "تَأْخُذَ", "root": "أ خ ذ", "bs": "uzme", "en": "to take" },
+        { "w": "اسْتِرَاحَةً", "root": "ر و ح", "bs": "pauzu", "en": "a rest" },
+        { "w": "قَصِيرَةً", "root": "ق ص ر", "bs": "kratku", "en": "short" },
+        { "w": "الظُّهْرِ", "root": "ظ ه ر", "bs": "podne", "en": "the afternoon" }
+      ]
     },
     {
       "arabic": "جَلَسَتْ فِي الْهُدُوءِ وَشَرِبَتْ كُوبًا مِنَ الشَّايِ.",
       "translation": "Sjedila je u tišini i popila šolju čaja.",
-      "translationEn": "She sat in the quiet and drank a cup of tea."
+      "translationEn": "She sat in the quiet and drank a cup of tea.",
+      "words": [
+        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjedila je", "en": "sat" },
+        { "w": "الْهُدُوءِ", "root": "ه د أ", "bs": "tišina", "en": "the quiet" },
+        { "w": "شَرِبَتْ", "root": "ش ر ب", "bs": "popila je", "en": "drank" },
+        { "w": "كُوبًا", "root": "ك و ب", "bs": "šolju", "en": "a cup" },
+        { "w": "الشَّايِ", "root": "ش ي أ", "bs": "čaj", "en": "tea" }
+      ]
     },
     {
       "arabic": "الِاسْتِرَاحَةُ تُجَدِّدُ الطَّاقَةَ وَتُصَفِّي الذِّهْنَ.",
       "translation": "Odmor obnavlja energiju i bistri um.",
-      "translationEn": "Rest renews energy and clears the mind."
+      "translationEn": "Rest renews energy and clears the mind.",
+      "words": [
+        { "w": "الِاسْتِرَاحَةُ", "root": "ر و ح", "bs": "odmor", "en": "rest" },
+        { "w": "تُجَدِّدُ", "root": "ج د د", "bs": "obnavlja", "en": "renews" },
+        { "w": "الطَّاقَةَ", "root": "ط و ق", "bs": "energiju", "en": "energy" },
+        { "w": "تُصَفِّي", "root": "ص ف و", "bs": "bistri", "en": "clears" },
+        { "w": "الذِّهْنَ", "root": "ذ ه ن", "bs": "um", "en": "the mind" }
+      ]
     }
   ],
   "metadata": {

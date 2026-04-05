@@ -6,27 +6,58 @@
     {
       "arabic": "الفُطُورُ العَرَبِيُّ غَنِيٌّ وَلَذِيذٌ.",
       "translation": "Arapski doručak je bogat i ukusan.",
-      "translationEn": "The Arabic breakfast is rich and delicious."
+      "translationEn": "The Arabic breakfast is rich and delicious.",
+      "words": [
+        { "w": "الفُطُورُ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" },
+        { "w": "العَرَبِيُّ", "root": "ع ر ب", "bs": "arapski", "en": "Arabic" },
+        { "w": "غَنِيٌّ", "root": "غ ن ي", "bs": "bogat", "en": "rich" },
+        { "w": "لَذِيذٌ", "root": "ل ذ ذ", "bs": "ukusan", "en": "delicious" }
+      ]
     },
     {
       "arabic": "يَأْكُلُونَ الفُولَ وَالحُمُّصَ وَالبَيْضَ.",
       "translation": "Jedu ful, humus i jaja.",
-      "translationEn": "They eat foul, hummus, and eggs."
+      "translationEn": "They eat foul, hummus, and eggs.",
+      "words": [
+        { "w": "يَأْكُلُونَ", "root": "أ ك ل", "bs": "jedu", "en": "eat" },
+        { "w": "الفُولَ", "root": "ف و ل", "bs": "ful", "en": "foul" },
+        { "w": "الحُمُّصَ", "root": "ح م ص", "bs": "humus", "en": "hummus" },
+        { "w": "البَيْضَ", "root": "ب ي ض", "bs": "jaja", "en": "eggs" }
+      ]
     },
     {
       "arabic": "الخُبْزُ العَرَبِيُّ جُزْءٌ أَسَاسِيٌّ مِنَ الفُطُورِ.",
       "translation": "Arapski hljeb je osnovni dio doručka.",
-      "translationEn": "Arabic bread is an essential part of breakfast."
+      "translationEn": "Arabic bread is an essential part of breakfast.",
+      "words": [
+        { "w": "الخُبْزُ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "العَرَبِيُّ", "root": "ع ر ب", "bs": "arapski", "en": "Arabic" },
+        { "w": "جُزْءٌ", "root": "ج ز أ", "bs": "dio", "en": "part" },
+        { "w": "أَسَاسِيٌّ", "root": "أ س س", "bs": "osnovni", "en": "essential" },
+        { "w": "الفُطُورِ", "root": "ف ط ر", "bs": "doručka", "en": "breakfast" }
+      ]
     },
     {
       "arabic": "يَشْرَبُونَ الشَّايَ أَوِ القَهْوَةَ مَعَ الفُطُورِ.",
       "translation": "Piju čaj ili kafu uz doručak.",
-      "translationEn": "They drink tea or coffee with breakfast."
+      "translationEn": "They drink tea or coffee with breakfast.",
+      "words": [
+        { "w": "يَشْرَبُونَ", "root": "ش ر ب", "bs": "piju", "en": "drink" },
+        { "w": "الشَّايَ", "root": "ش ي ي", "bs": "čaj", "en": "tea" },
+        { "w": "القَهْوَةَ", "root": "ق ه و", "bs": "kafu", "en": "coffee" },
+        { "w": "الفُطُورِ", "root": "ف ط ر", "bs": "doručka", "en": "breakfast" }
+      ]
     },
     {
       "arabic": "الفُطُورُ أَهَمُّ وَجْبَةٍ فِي اليَوْمِ.",
       "translation": "Doručak je najvažniji obrok u danu.",
-      "translationEn": "Breakfast is the most important meal of the day."
+      "translationEn": "Breakfast is the most important meal of the day.",
+      "words": [
+        { "w": "الفُطُورُ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" },
+        { "w": "أَهَمُّ", "root": "هـ م م", "bs": "najvažniji", "en": "most important" },
+        { "w": "وَجْبَةٍ", "root": "و ج ب", "bs": "obrok", "en": "meal" },
+        { "w": "اليَوْمِ", "root": "ي و م", "bs": "danu", "en": "day" }
+      ]
     }
   ],
   "metadata": {

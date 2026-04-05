@@ -6,27 +6,56 @@
     {
       "arabic": "ذَهَبَتِ الأُسْرَةُ إِلَى المَطْعَمِ فِي العُطْلَةِ.",
       "translation": "Porodica je otišla u restoran za odmora.",
-      "translationEn": "The family went to the restaurant during the holiday."
+      "translationEn": "The family went to the restaurant during the holiday.",
+      "words": [
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "المَطْعَمِ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
+        { "w": "العُطْلَةِ", "root": "ع ط ل", "bs": "odmor", "en": "holiday" }
+      ]
     },
     {
       "arabic": "طَلَبَ كُلُّ فَرْدٍ مَا يُحِبُّهُ مِنَ الطَّعَامِ.",
       "translation": "Svaki član je naručio hranu koju voli.",
-      "translationEn": "Each family member ordered the food they liked."
+      "translationEn": "Each family member ordered the food they liked.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "naručio je", "en": "ordered" },
+        { "w": "فَرْدٍ", "root": "ف ر د", "bs": "član", "en": "member" },
+        { "w": "يُحِبُّهُ", "root": "ح ب ب", "bs": "voli", "en": "liked" },
+        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "hrana", "en": "food" }
+      ]
     },
     {
       "arabic": "بَعْدَ الأَكْلِ جَاءَ الحِسَابُ وَكَانَ المَبْلَغُ كَبِيرًا.",
       "translation": "Nakon jela stigao je račun i iznos je bio velik.",
-      "translationEn": "After eating the bill came and the amount was large."
+      "translationEn": "After eating the bill came and the amount was large.",
+      "words": [
+        { "w": "الأَكْلِ", "root": "أ ك ل", "bs": "jelo", "en": "eating" },
+        { "w": "الحِسَابُ", "root": "ح س ب", "bs": "račun", "en": "bill" },
+        { "w": "المَبْلَغُ", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
+        { "w": "كَبِيرًا", "root": "ك ب ر", "bs": "velik", "en": "large" }
+      ]
     },
     {
       "arabic": "قَسَّمَ الأَبُ الحِسَابَ بَيْنَ كُلِّ أَفْرَادِ الأُسْرَةِ.",
       "translation": "Otac je podijelio račun između svih članova porodice.",
-      "translationEn": "The father divided the bill among all family members."
+      "translationEn": "The father divided the bill among all family members.",
+      "words": [
+        { "w": "قَسَّمَ", "root": "ق س م", "bs": "podijelio je", "en": "divided" },
+        { "w": "الحِسَابَ", "root": "ح س ب", "bs": "račun", "en": "bill" },
+        { "w": "أَفْرَادِ", "root": "ف ر د", "bs": "članovi", "en": "members" },
+        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodica", "en": "family" }
+      ]
     },
     {
       "arabic": "دَفَعَ كُلُّ وَاحِدٍ نَصِيبَهُ وَخَرَجُوا مَسْرُورِينَ.",
       "translation": "Svako je platio svoj dio i izašli su veseli.",
-      "translationEn": "Each one paid their share and they left pleased."
+      "translationEn": "Each one paid their share and they left pleased.",
+      "words": [
+        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
+        { "w": "نَصِيبَهُ", "root": "ن ص ب", "bs": "njegov dio", "en": "their share" },
+        { "w": "خَرَجُوا", "root": "خ ر ج", "bs": "izašli su", "en": "left" },
+        { "w": "مَسْرُورِينَ", "root": "س ر ر", "bs": "veseli", "en": "pleased" }
+      ]
     }
   ],
   "metadata": {

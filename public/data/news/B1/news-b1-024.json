@@ -6,26 +6,128 @@
     {
       "arabic": "أَقَامَ مَرْكَزُ الشَّبَابِ وَرْشَةَ عَمَلٍ لِلطَّبْخِ.",
       "translation": "Omladinski centar organizovao je radionicu kuhanja.",
-      "translationEn": "The youth center held a cooking workshop."
+      "translationEn": "The youth center held a cooking workshop.",
+      "words": [
+        {
+          "w": "مَرْكَزُ",
+          "root": "ر ك ز",
+          "bs": "centar",
+          "en": "center"
+        },
+        {
+          "w": "الشَّبَابِ",
+          "root": "ش ب ب",
+          "bs": "mladih",
+          "en": "youth"
+        },
+        {
+          "w": "وَرْشَةَ عَمَلٍ",
+          "root": "و ر ش",
+          "bs": "radionicu",
+          "en": "workshop"
+        },
+        {
+          "w": "لِلطَّبْخِ",
+          "root": "ط ب خ",
+          "bs": "kuhanja",
+          "en": "cooking"
+        }
+      ]
     },
     {
       "arabic": "تَعَلَّمَ الشَّبَابُ طَرِيقَةَ طَبْخِ أَكْلَاتٍ شَعْبِيَّةٍ.",
       "translation": "Mladi su naučili kako kuhati narodna jela.",
-      "translationEn": "The young people learned how to cook traditional dishes."
+      "translationEn": "The young people learned how to cook traditional dishes.",
+      "words": [
+        {
+          "w": "تَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "learned"
+        },
+        {
+          "w": "الشَّبَابُ",
+          "root": "ش ب ب",
+          "bs": "mladi",
+          "en": "youth"
+        },
+        {
+          "w": "طَبْخِ",
+          "root": "ط ب خ",
+          "bs": "kuhanje",
+          "en": "cooking"
+        },
+        {
+          "w": "أَكْلَاتٍ",
+          "root": "أ ك ل",
+          "bs": "jela",
+          "en": "dishes"
+        },
+        {
+          "w": "شَعْبِيَّةٍ",
+          "root": "ش ع ب",
+          "bs": "narodna",
+          "en": "traditional"
+        }
+      ]
     },
     {
       "arabic": "شَارَكَ عَشَرَةُ شَبَابٍ فِي هَذِهِ الْوَرْشَةِ.",
       "translation": "Deset mladih je učestvovalo u ovoj radionici.",
-      "translationEn": "Ten young people participated in this workshop."
+      "translationEn": "Ten young people participated in this workshop.",
+      "words": [
+        {
+          "w": "شَارَكَ",
+          "root": "ش ر ك",
+          "bs": "učestvovao je",
+          "en": "participated"
+        },
+        {
+          "w": "شَبَابٍ",
+          "root": "ش ب ب",
+          "bs": "mladih",
+          "en": "young people"
+        },
+        {
+          "w": "الْوَرْشَةِ",
+          "root": "و ر ش",
+          "bs": "radionici",
+          "en": "workshop"
+        }
+      ]
     },
     {
       "arabic": "أَكَلُوا مَعًا مَا طَبَخُوهُ وَاسْتَمْتَعُوا كَثِيرًا.",
       "translation": "Zajedno su pojeli ono što su skuhali i jako se zabavili.",
-      "translationEn": "They ate together what they cooked and enjoyed it a lot."
+      "translationEn": "They ate together what they cooked and enjoyed it a lot.",
+      "words": [
+        {
+          "w": "أَكَلُوا",
+          "root": "أ ك ل",
+          "bs": "jeli su",
+          "en": "ate"
+        },
+        {
+          "w": "طَبَخُوهُ",
+          "root": "ط ب خ",
+          "bs": "skuhali su",
+          "en": "cooked"
+        },
+        {
+          "w": "اسْتَمْتَعُوا",
+          "root": "م ت ع",
+          "bs": "zabavili su se",
+          "en": "enjoyed"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["food", "youth", "workshop"]
+    "tags": [
+      "food",
+      "youth",
+      "workshop"
+    ]
   }
 }

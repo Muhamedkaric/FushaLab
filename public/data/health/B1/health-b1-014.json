@@ -6,31 +6,160 @@
     {
       "arabic": "تَتَنَاوَلُ هِنْدٌ وَجْبَةَ الْإِفْطَارِ كُلَّ صَبَاحٍ.",
       "translation": "Hind doručkuje svako jutro.",
-      "translationEn": "Hind has breakfast every morning."
+      "translationEn": "Hind has breakfast every morning.",
+      "words": [
+        {
+          "w": "تَتَنَاوَلُ",
+          "root": "ن و ل",
+          "bs": "doručkuje",
+          "en": "has"
+        },
+        {
+          "w": "وَجْبَةَ",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "meal"
+        },
+        {
+          "w": "الْإِفْطَارِ",
+          "root": "ف ط ر",
+          "bs": "doručak",
+          "en": "breakfast"
+        },
+        {
+          "w": "صَبَاحٍ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning"
+        }
+      ]
     },
     {
       "arabic": "تَأْكُلُ الْبَيْضَ وَالْخُبْزَ وَتَشْرَبُ اللَّبَنَ.",
       "translation": "Jede jaja i hljeb i pije mlijeko.",
-      "translationEn": "She eats eggs and bread and drinks milk."
+      "translationEn": "She eats eggs and bread and drinks milk.",
+      "words": [
+        {
+          "w": "تَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eats"
+        },
+        {
+          "w": "الْبَيْضَ",
+          "root": "ب ي ض",
+          "bs": "jaja",
+          "en": "eggs"
+        },
+        {
+          "w": "الْخُبْزَ",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread"
+        },
+        {
+          "w": "تَشْرَبُ",
+          "root": "ش ر ب",
+          "bs": "pije",
+          "en": "drinks"
+        },
+        {
+          "w": "اللَّبَنَ",
+          "root": "ل ب ن",
+          "bs": "mlijeko",
+          "en": "milk"
+        }
+      ]
     },
     {
       "arabic": "قَالَتْ إِنَّ الْإِفْطَارَ يُعِينُهَا عَلَى التَّرْكِيزِ فِي الدِّرَاسَةِ.",
       "translation": "Rekla je da joj doručak pomaže da se koncentriše na učenje.",
-      "translationEn": "She said that breakfast helps her concentrate on studying."
+      "translationEn": "She said that breakfast helps her concentrate on studying.",
+      "words": [
+        {
+          "w": "الْإِفْطَارَ",
+          "root": "ف ط ر",
+          "bs": "doručak",
+          "en": "breakfast"
+        },
+        {
+          "w": "يُعِينُهَا",
+          "root": "ع و ن",
+          "bs": "pomaže joj",
+          "en": "helps her"
+        },
+        {
+          "w": "التَّرْكِيزِ",
+          "root": "ر ك ز",
+          "bs": "koncentracija",
+          "en": "concentration"
+        },
+        {
+          "w": "الدِّرَاسَةِ",
+          "root": "د ر س",
+          "bs": "učenje",
+          "en": "studying"
+        }
+      ]
     },
     {
       "arabic": "لَا تَخْرُجُ مِنَ الْبَيْتِ قَبْلَ أَنْ تَأْكُلَ.",
       "translation": "Ne izlazi iz kuće prije nego što pojede.",
-      "translationEn": "She does not leave the house before eating."
+      "translationEn": "She does not leave the house before eating.",
+      "words": [
+        {
+          "w": "تَخْرُجُ",
+          "root": "خ ر ج",
+          "bs": "izlazi",
+          "en": "leaves"
+        },
+        {
+          "w": "تَأْكُلَ",
+          "root": "أ ك ل",
+          "bs": "pojede",
+          "en": "eat"
+        }
+      ]
     },
     {
       "arabic": "صِحَّتُهَا جَيِّدَةٌ وَتَشْعُرُ بِالنَّشَاطِ طَوَالَ الْيَوْمِ.",
       "translation": "Njezino zdravlje je dobro i osjeća se aktivno cijeli dan.",
-      "translationEn": "Her health is good and she feels active throughout the day."
+      "translationEn": "Her health is good and she feels active throughout the day.",
+      "words": [
+        {
+          "w": "صِحَّتُهَا",
+          "root": "ص ح ح",
+          "bs": "njeno zdravlje",
+          "en": "her health"
+        },
+        {
+          "w": "جَيِّدَةٌ",
+          "root": "ج و د",
+          "bs": "dobro",
+          "en": "good"
+        },
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels"
+        },
+        {
+          "w": "بِالنَّشَاطِ",
+          "root": "ن ش ط",
+          "bs": "aktivno",
+          "en": "active"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["breakfast", "nutrition", "morning", "healthy habits"]
+    "tags": [
+      "breakfast",
+      "nutrition",
+      "morning",
+      "healthy habits"
+    ]
   }
 }

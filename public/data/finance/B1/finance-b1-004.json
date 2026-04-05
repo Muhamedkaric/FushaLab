@@ -6,27 +6,53 @@
     {
       "arabic": "طَلَبَ وَلِيدٌ مِنْ أَبِيهِ مَصْرُوفًا لِلْأُسْبُوعِ.",
       "translation": "Velid je tražio od oca džeparac za sedmicu.",
-      "translationEn": "Walid asked his father for pocket money for the week."
+      "translationEn": "Walid asked his father for pocket money for the week.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je", "en": "asked for" },
+        { "w": "مَصْرُوفًا", "root": "ص ر ف", "bs": "džeparac", "en": "pocket money" },
+        { "w": "الأُسْبُوعِ", "root": "س ب ع", "bs": "sedmica", "en": "week" }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ الأَبُ مَبْلَغًا صَغِيرًا وَنَصَحَهُ بِتَوْفِيرِهِ.",
       "translation": "Otac mu je dao mali iznos i savjetovao ga da ga uštedi.",
-      "translationEn": "His father gave him a small amount and advised him to save it."
+      "translationEn": "His father gave him a small amount and advised him to save it.",
+      "words": [
+        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "gave him" },
+        { "w": "مَبْلَغًا", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "نَصَحَهُ", "root": "ن ص ح", "bs": "savjetovao ga je", "en": "advised him" }
+      ]
     },
     {
       "arabic": "قَرَّرَ وَلِيدٌ أَنْ يُنْفِقَ نِصْفَهُ فَقَطْ.",
       "translation": "Velid je odlučio potrošiti samo polovinu.",
-      "translationEn": "Walid decided to spend only half of it."
+      "translationEn": "Walid decided to spend only half of it.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "يُنْفِقَ", "root": "ن ف ق", "bs": "da potroši", "en": "to spend" },
+        { "w": "نِصْفَهُ", "root": "ن ص ف", "bs": "polovinu", "en": "half of it" }
+      ]
     },
     {
       "arabic": "وَضَعَ النِّصْفَ الآخَرَ فِي صُنْدُوقٍ صَغِيرٍ.",
       "translation": "Drugu polovinu je stavio u malu kutiju.",
-      "translationEn": "He put the other half in a small box."
+      "translationEn": "He put the other half in a small box.",
+      "words": [
+        { "w": "وَضَعَ", "root": "و ض ع", "bs": "stavio je", "en": "put" },
+        { "w": "النِّصْفَ", "root": "ن ص ف", "bs": "polovina", "en": "half" },
+        { "w": "الآخَرَ", "root": "أ خ ر", "bs": "drugi", "en": "other" },
+        { "w": "صُنْدُوقٍ", "root": "ص ن د", "bs": "kutija", "en": "box" }
+      ]
     },
     {
       "arabic": "كَانَ أَبُوهُ سَعِيدًا بِهَذَا القَرَارِ.",
       "translation": "Otac je bio sretan zbog ove odluke.",
-      "translationEn": "His father was happy with this decision."
+      "translationEn": "His father was happy with this decision.",
+      "words": [
+        { "w": "سَعِيدًا", "root": "س ع د", "bs": "sretan", "en": "happy" },
+        { "w": "القَرَارِ", "root": "ق ر ر", "bs": "odluka", "en": "decision" }
+      ]
     }
   ],
   "metadata": {

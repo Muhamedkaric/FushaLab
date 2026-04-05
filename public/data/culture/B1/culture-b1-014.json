@@ -6,22 +6,46 @@
     {
       "arabic": "يَسْتَيْقِظُ المُسْلِمُ مُبَكِّرًا لِصَلَاةِ الفَجْرِ.",
       "translation": "Musliman se budi rano za sabah-namaz.",
-      "translationEn": "The Muslim wakes up early for the Fajr prayer."
+      "translationEn": "The Muslim wakes up early for the Fajr prayer.",
+      "words": [
+        { "w": "يَسْتَيْقِظُ", "root": "ي ق ظ", "bs": "budi se", "en": "wakes up" },
+        { "w": "المُسْلِمُ", "root": "س ل م", "bs": "musliman", "en": "Muslim" },
+        { "w": "مُبَكِّرًا", "root": "ب ك ر", "bs": "rano", "en": "early" },
+        { "w": "صَلَاةِ", "root": "ص ل و", "bs": "namazu", "en": "prayer" },
+        { "w": "الفَجْرِ", "root": "ف ج ر", "bs": "sabahu", "en": "dawn" }
+      ]
     },
     {
       "arabic": "يَتَوَضَّأُ وَيُصَلِّي ثُمَّ يَشْرَبُ القَهْوَةَ.",
       "translation": "Uzima abdest, klanja, a zatim pije kafu.",
-      "translationEn": "He performs ablution, prays, then drinks coffee."
+      "translationEn": "He performs ablution, prays, then drinks coffee.",
+      "words": [
+        { "w": "يَتَوَضَّأُ", "root": "و ض أ", "bs": "uzima abdest", "en": "performs ablution" },
+        { "w": "يُصَلِّي", "root": "ص ل و", "bs": "klanja", "en": "prays" },
+        { "w": "يَشْرَبُ", "root": "ش ر ب", "bs": "pije", "en": "drinks" },
+        { "w": "القَهْوَةَ", "root": "ق ه و", "bs": "kafu", "en": "coffee" }
+      ]
     },
     {
       "arabic": "الصَّبَاحُ وَقْتٌ هَادِئٌ وَمُمْتَعٌ.",
       "translation": "Jutro je mirno i ugodno vrijeme.",
-      "translationEn": "The morning is a quiet and pleasant time."
+      "translationEn": "The morning is a quiet and pleasant time.",
+      "words": [
+        { "w": "الصَّبَاحُ", "root": "ص ب ح", "bs": "jutro", "en": "morning" },
+        { "w": "وَقْتٌ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "هَادِئٌ", "root": "هـ د أ", "bs": "mirno", "en": "quiet" },
+        { "w": "مُمْتَعٌ", "root": "م ت ع", "bs": "ugodno", "en": "pleasant" }
+      ]
     },
     {
       "arabic": "كَثِيرٌ مِنَ النَّاسِ يَقْرَأُونَ القُرْآنَ فِي الصَّبَاحِ.",
       "translation": "Mnogi ljudi uče Kur'an ujutro.",
-      "translationEn": "Many people read the Quran in the morning."
+      "translationEn": "Many people read the Quran in the morning.",
+      "words": [
+        { "w": "يَقْرَأُونَ", "root": "ق ر أ", "bs": "uče", "en": "read" },
+        { "w": "القُرْآنَ", "root": "ق ر أ", "bs": "Kur'an", "en": "Quran" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "ujutro", "en": "morning" }
+      ]
     }
   ],
   "metadata": {

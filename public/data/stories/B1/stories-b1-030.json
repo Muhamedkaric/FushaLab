@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ طِفْلٌ اسْمُهُ مُصْطَفَى لَا يُحِبُّ الْقِرَاءَةَ.",
       "translation": "Bio je dječak po imenu Mustafa koji nije volio čitanje.",
-      "translationEn": "There was a boy named Mustafa who did not like reading."
+      "translationEn": "There was a boy named Mustafa who did not like reading.",
+      "words": [
+        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dječak", "en": "boy" },
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "volio je", "en": "liked" },
+        { "w": "الْقِرَاءَةَ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ أَخُوهُ كِتَابًا عَنِ الْحَيَوَانَاتِ فِيهِ صُوَرٌ كَثِيرَةٌ.",
       "translation": "Brat mu je dao knjigu o životinjama s mnogo slika.",
-      "translationEn": "His brother gave him a book about animals with many pictures."
+      "translationEn": "His brother gave him a book about animals with many pictures.",
+      "words": [
+        { "w": "أَعْطَاهُ", "root": "ع ط ي", "bs": "dao mu je", "en": "gave him" },
+        { "w": "أَخُوهُ", "root": "أ خ و", "bs": "njegov brat", "en": "his brother" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "الْحَيَوَانَاتِ", "root": "ح ي و", "bs": "životinje", "en": "animals" },
+        { "w": "صُوَرٌ", "root": "ص و ر", "bs": "slike", "en": "pictures" }
+      ]
     },
     {
       "arabic": "بَدَأَ مُصْطَفَى بِقِرَاءَةِ الْكِتَابِ وَلَمْ يَتَوَقَّفْ حَتَّى انْتَهَى.",
       "translation": "Mustafa je počeo čitati knjigu i nije stao dok nije završio.",
-      "translationEn": "Mustafa started reading the book and did not stop until he finished."
+      "translationEn": "Mustafa started reading the book and did not stop until he finished.",
+      "words": [
+        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počeo je", "en": "started" },
+        { "w": "بِقِرَاءَةِ", "root": "ق ر أ", "bs": "čitati", "en": "reading" },
+        { "w": "الْكِتَابِ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "يَتَوَقَّفْ", "root": "و ق ف", "bs": "stao je", "en": "stopped" },
+        { "w": "انْتَهَى", "root": "ن ه ي", "bs": "završio je", "en": "finished" }
+      ]
     },
     {
       "arabic": "طَلَبَ مِنْ أَخِيهِ كِتَابًا آخَرَ فِي الْيَوْمِ التَّالِي.",
       "translation": "Sljedećeg dana je zamolio brata za još jednu knjigu.",
-      "translationEn": "The next day he asked his brother for another book."
+      "translationEn": "The next day he asked his brother for another book.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je", "en": "asked for" },
+        { "w": "أَخِيهِ", "root": "أ خ و", "bs": "svog brata", "en": "his brother" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "آخَرَ", "root": "أ خ ر", "bs": "drugu", "en": "another" },
+        { "w": "الْيَوْمِ", "root": "ي و م", "bs": "dan", "en": "day" }
+      ]
     }
   ],
   "metadata": {

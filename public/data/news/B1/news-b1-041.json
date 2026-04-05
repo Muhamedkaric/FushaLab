@@ -6,26 +6,121 @@
     {
       "arabic": "أَعْلَنَ الْمَتْحَفُ عَنْ دُخُولٍ مَجَّانِيٍّ لِلأَطْفَالِ يَوْمَ السَّبْتِ.",
       "translation": "Muzej je objavio besplatan ulaz za djecu u subotu.",
-      "translationEn": "The museum announced free entry for children on Saturday."
+      "translationEn": "The museum announced free entry for children on Saturday.",
+      "words": [
+        {
+          "w": "الْمَتْحَفُ",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum"
+        },
+        {
+          "w": "دُخُولٍ",
+          "root": "د خ ل",
+          "bs": "ulaz",
+          "en": "entry"
+        },
+        {
+          "w": "مَجَّانِيٍّ",
+          "bs": "besplatan",
+          "en": "free"
+        },
+        {
+          "w": "لِلأَطْفَالِ",
+          "root": "ط ف ل",
+          "bs": "za djecu",
+          "en": "for children"
+        }
+      ]
     },
     {
       "arabic": "جَاءَتْ عَائِلَاتٌ كَثِيرَةٌ لِزِيَارَةِ الْمَتْحَفِ.",
       "translation": "Mnoge porodice su došle da posjete muzej.",
-      "translationEn": "Many families came to visit the museum."
+      "translationEn": "Many families came to visit the museum.",
+      "words": [
+        {
+          "w": "عَائِلَاتٌ",
+          "root": "ع و ل",
+          "bs": "porodice",
+          "en": "families"
+        },
+        {
+          "w": "لِزِيَارَةِ",
+          "root": "ز و ر",
+          "bs": "da posjete",
+          "en": "to visit"
+        },
+        {
+          "w": "الْمَتْحَفِ",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum"
+        }
+      ]
     },
     {
       "arabic": "أُعْجِبَ الأَطْفَالُ بِالتَّمَاثِيلِ وَالصُّوَرِ الْقَدِيمَةِ.",
       "translation": "Djeca su bila oduševljena kipovima i starim slikama.",
-      "translationEn": "The children were amazed by the statues and old paintings."
+      "translationEn": "The children were amazed by the statues and old paintings.",
+      "words": [
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children"
+        },
+        {
+          "w": "التَّمَاثِيلِ",
+          "root": "م ث ل",
+          "bs": "kipovima",
+          "en": "statues"
+        },
+        {
+          "w": "الصُّوَرِ",
+          "root": "ص و ر",
+          "bs": "slikama",
+          "en": "paintings"
+        },
+        {
+          "w": "الْقَدِيمَةِ",
+          "root": "ق د م",
+          "bs": "starim",
+          "en": "old"
+        }
+      ]
     },
     {
       "arabic": "قَرَّرَ الْمَتْحَفُ تَكْرَارَ هَذِهِ الْمُبَادَرَةِ كُلَّ شَهْرٍ.",
       "translation": "Muzej je odlučio ponavljati ovu inicijativu svaki mjesec.",
-      "translationEn": "The museum decided to repeat this initiative every month."
+      "translationEn": "The museum decided to repeat this initiative every month.",
+      "words": [
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided"
+        },
+        {
+          "w": "تَكْرَارَ",
+          "root": "ك ر ر",
+          "bs": "ponavljanje",
+          "en": "repeat"
+        },
+        {
+          "w": "الْمُبَادَرَةِ",
+          "root": "ب د ر",
+          "bs": "inicijativu",
+          "en": "initiative"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["museum", "family", "culture"]
+    "tags": [
+      "museum",
+      "family",
+      "culture"
+    ]
   }
 }

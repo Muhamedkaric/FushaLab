@@ -6,22 +6,45 @@
     {
       "arabic": "ذَهَبَ مَازِنٌ إِلَى المَحَلِّ لِيَرُدَّ قَمِيصًا.",
       "translation": "Mazin je otišao u radnju vratiti košulju.",
-      "translationEn": "Mazin went to the shop to return a shirt."
+      "translationEn": "Mazin went to the shop to return a shirt.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ هـ ب", "bs": "otišao je", "en": "went" },
+        { "w": "المَحَلِّ", "root": "ح ل ل", "bs": "radnju", "en": "shop" },
+        { "w": "يَرُدَّ", "root": "ر د د", "bs": "vrati", "en": "return" },
+        { "w": "قَمِيصًا", "root": "ق م ص", "bs": "košulju", "en": "shirt" }
+      ]
     },
     {
       "arabic": "قَالَ إِنَّ القَمِيصَ لَمْ يَكُنْ بِالمَقَاسِ الصَّحِيحِ.",
       "translation": "Rekao je da košulja nije bila prave veličine.",
-      "translationEn": "He said the shirt was not the right size."
+      "translationEn": "He said the shirt was not the right size.",
+      "words": [
+        { "w": "القَمِيصَ", "root": "ق م ص", "bs": "košulja", "en": "shirt" },
+        { "w": "المَقَاسِ", "root": "ق و س", "bs": "veličine", "en": "size" },
+        { "w": "الصَّحِيحِ", "root": "ص ح ح", "bs": "pravom", "en": "right" }
+      ]
     },
     {
       "arabic": "سَأَلَ البَائِعُ إِنْ كَانَ مَعَهُ الوَصْلُ.",
       "translation": "Prodavač je pitao ima li račun.",
-      "translationEn": "The seller asked if he had the receipt."
+      "translationEn": "The seller asked if he had the receipt.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "البَائِعُ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" },
+        { "w": "الوَصْلُ", "root": "و ص ل", "bs": "račun", "en": "receipt" }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ مَازِنٌ الوَصْلَ وَأَخَذَ القَمِيصَ الجَدِيدَ.",
       "translation": "Mazin mu je dao račun i uzeo novu košulju.",
-      "translationEn": "Mazin gave him the receipt and took the new shirt."
+      "translationEn": "Mazin gave him the receipt and took the new shirt.",
+      "words": [
+        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "gave him" },
+        { "w": "الوَصْلَ", "root": "و ص ل", "bs": "račun", "en": "receipt" },
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "القَمِيصَ", "root": "ق م ص", "bs": "košulju", "en": "shirt" },
+        { "w": "الجَدِيدَ", "root": "ج د د", "bs": "novu", "en": "new" }
+      ]
     }
   ],
   "metadata": {

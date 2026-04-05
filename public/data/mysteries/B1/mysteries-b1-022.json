@@ -6,27 +6,54 @@
     {
       "arabic": "سَمِعَتْ إِيمَانُ صَوْتَ مُوسِيقَى مِنَ الطَّابِقِ الْعُلْوِيِّ.",
       "translation": "Iman je čula zvuk muzike s gornjeg sprata.",
-      "translationEn": "Iman heard the sound of music from the upper floor."
+      "translationEn": "Iman heard the sound of music from the upper floor.",
+      "words": [
+        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "čula je", "en": "she heard" },
+        { "w": "صَوْتَ", "root": "ص و ت", "bs": "zvuk", "en": "sound" },
+        { "w": "مُوسِيقَى", "bs": "muzike", "en": "music" },
+        { "w": "الطَّابِقِ", "root": "ط ب ق", "bs": "sprata", "en": "floor" },
+        { "w": "الْعُلْوِيِّ", "root": "ع ل و", "bs": "gornjeg", "en": "upper" }
+      ]
     },
     {
       "arabic": "كَانَ الطَّابِقُ الْعُلْوِيُّ فَارِغًا دَائِمًا.",
       "translation": "Gornji sprat je uvijek bio prazan.",
-      "translationEn": "The upper floor was always empty."
+      "translationEn": "The upper floor was always empty.",
+      "words": [
+        { "w": "الطَّابِقُ", "root": "ط ب ق", "bs": "sprat", "en": "floor" },
+        { "w": "فَارِغًا", "root": "ف ر غ", "bs": "prazan", "en": "empty" }
+      ]
     },
     {
       "arabic": "صَعِدَتْ إِيمَانُ بِبُطْءٍ وَفَتَحَتِ الْبَابَ.",
       "translation": "Iman je polako popela i otvorila vrata.",
-      "translationEn": "Iman went up slowly and opened the door."
+      "translationEn": "Iman went up slowly and opened the door.",
+      "words": [
+        { "w": "صَعِدَتْ", "root": "ص ع د", "bs": "popela se", "en": "she went up" },
+        { "w": "بِبُطْءٍ", "root": "ب ط أ", "bs": "polako", "en": "slowly" },
+        { "w": "فَتَحَتِ", "root": "ف ت ح", "bs": "otvorila je", "en": "she opened" }
+      ]
     },
     {
       "arabic": "وَجَدَتْ جَارَتَهَا الْجَدِيدَةَ تَعْزِفُ عَلَى الْبِيَانُو.",
       "translation": "Pronašla je svoju novu komšinicu kako svira klavir.",
-      "translationEn": "She found her new neighbour playing the piano."
+      "translationEn": "She found her new neighbour playing the piano.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "جَارَتَهَا", "root": "ج و ر", "bs": "komšinicu", "en": "her neighbour" },
+        { "w": "الْجَدِيدَةَ", "root": "ج د د", "bs": "novu", "en": "new" },
+        { "w": "تَعْزِفُ", "root": "ع ز ف", "bs": "svira", "en": "playing" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَتَا وَصَارَتَا صَدِيقَتَيْنِ مِنْ ذَلِكَ الْيَوْمِ.",
       "translation": "Nasmijale su se i postale prijateljice od tog dana.",
-      "translationEn": "They smiled and became friends from that day on."
+      "translationEn": "They smiled and became friends from that day on.",
+      "words": [
+        { "w": "ابْتَسَمَتَا", "root": "ب س م", "bs": "nasmijale su se", "en": "they smiled" },
+        { "w": "صَارَتَا", "root": "ص ي ر", "bs": "postale su", "en": "they became" },
+        { "w": "صَدِيقَتَيْنِ", "root": "ص د ق", "bs": "prijateljice", "en": "friends" }
+      ]
     }
   ],
   "metadata": {

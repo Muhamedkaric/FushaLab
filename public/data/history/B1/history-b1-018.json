@@ -6,22 +6,44 @@
     {
       "arabic": "كَانَتِ الرِّسَالَةُ تُرْسَلُ مَعَ مُسَافِرٍ أَمِينٍ.",
       "translation": "Pismo se slalo s pouzdanim putnikom.",
-      "translationEn": "The letter used to be sent with a trustworthy traveller."
+      "translationEn": "The letter used to be sent with a trustworthy traveller.",
+      "words": [
+        { "w": "الرِّسَالَةُ", "root": "ر س ل", "bs": "pismo", "en": "the letter" },
+        { "w": "تُرْسَلُ", "root": "ر س ل", "bs": "šalje se", "en": "is sent" },
+        { "w": "مُسَافِرٍ", "root": "س ف ر", "bs": "putnik", "en": "a traveller" },
+        { "w": "أَمِينٍ", "root": "أ م ن", "bs": "pouzdan", "en": "trustworthy" }
+      ]
     },
     {
       "arabic": "كَتَبَ الرَّجُلُ رِسَالَةً إِلَى أَخِيهِ فِي الْمَدِينَةِ الْبَعِيدَةِ.",
       "translation": "Čovjek je napisao pismo svome bratu u dalekom gradu.",
-      "translationEn": "The man wrote a letter to his brother in the distant city."
+      "translationEn": "The man wrote a letter to his brother in the distant city.",
+      "words": [
+        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
+        { "w": "رِسَالَةً", "root": "ر س ل", "bs": "pismo", "en": "a letter" },
+        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "the city" },
+        { "w": "الْبَعِيدَةِ", "root": "ب ع د", "bs": "daleki", "en": "distant" }
+      ]
     },
     {
       "arabic": "وَصَلَتِ الرِّسَالَةُ بَعْدَ أُسْبُوعَيْنِ.",
       "translation": "Pismo je stiglo nakon dvije sedmice.",
-      "translationEn": "The letter arrived after two weeks."
+      "translationEn": "The letter arrived after two weeks.",
+      "words": [
+        { "w": "وَصَلَتِ", "root": "و ص ل", "bs": "stiglo je", "en": "arrived" },
+        { "w": "الرِّسَالَةُ", "root": "ر س ل", "bs": "pismo", "en": "the letter" },
+        { "w": "أُسْبُوعَيْنِ", "root": "س ب ع", "bs": "dvije sedmice", "en": "two weeks" }
+      ]
     },
     {
       "arabic": "فَرِحَ الأَخُ كَثِيرًا حِينَ قَرَأَ الْكَلِمَاتِ.",
       "translation": "Brat se veoma obradovao kada je pročitao riječi.",
-      "translationEn": "The brother was very happy when he read the words."
+      "translationEn": "The brother was very happy when he read the words.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
+        { "w": "قَرَأَ", "root": "ق ر أ", "bs": "pročitao je", "en": "read" },
+        { "w": "الْكَلِمَاتِ", "root": "ك ل م", "bs": "riječi", "en": "the words" }
+      ]
     }
   ],
   "metadata": {

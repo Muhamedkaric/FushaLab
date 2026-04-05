@@ -6,22 +6,46 @@
     {
       "arabic": "ذَهَبَ وَلِيدٌ مَعَ أَبِيهِ إِلَى الْمَطْعَمِ الشَّعْبِيِّ.",
       "translation": "Walid je otišao sa ocem u narodni restoran.",
-      "translationEn": "Walid went with his father to the popular restaurant."
+      "translationEn": "Walid went with his father to the popular restaurant.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "أَبِيهِ", "root": "أ ب و", "bs": "njegov otac", "en": "his father" },
+        { "w": "الْمَطْعَمِ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
+        { "w": "الشَّعْبِيِّ", "root": "ش ع ب", "bs": "narodni/popularni", "en": "popular/folk" }
+      ]
     },
     {
       "arabic": "طَلَبَا الْفَلَافِلَ وَالْخُبْزَ وَالطَّحِينَةَ.",
       "translation": "Naručili su falafel, hljeb i tahini.",
-      "translationEn": "They ordered falafel, bread, and tahini."
+      "translationEn": "They ordered falafel, bread, and tahini.",
+      "words": [
+        { "w": "طَلَبَا", "root": "ط ل ب", "bs": "naručili su/tražili", "en": "ordered" },
+        { "w": "الْفَلَافِلَ", "root": "ف ل ف", "bs": "falafel", "en": "falafel" },
+        { "w": "الْخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "الطَّحِينَةَ", "root": "ط ح ن", "bs": "tahini/susam pasta", "en": "tahini" }
+      ]
     },
     {
       "arabic": "كَانَ الطَّعَامُ رَخِيصًا وَلَكِنَّهُ لَذِيذٌ جِدًّا.",
       "translation": "Hrana je bila jeftina ali veoma ukusna.",
-      "translationEn": "The food was cheap but very delicious."
+      "translationEn": "The food was cheap but very delicious.",
+      "words": [
+        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
+        { "w": "رَخِيصًا", "root": "ر خ ص", "bs": "jeftinu/jeftino", "en": "cheap" },
+        { "w": "لَذِيذٌ", "root": "ل ذ ذ", "bs": "ukusna/ukusno", "en": "delicious" },
+        { "w": "جِدًّا", "root": "ج د د", "bs": "veoma/jako", "en": "very" }
+      ]
     },
     {
       "arabic": "قَالَ وَلِيدٌ: هَذَا أَحْسَنُ فَلَافِلٍ أَكَلْتُهُ.",
       "translation": "Walid je rekao: Ovo je najbolji falafel koji sam jeo.",
-      "translationEn": "Walid said: This is the best falafel I have ever eaten."
+      "translationEn": "Walid said: This is the best falafel I have ever eaten.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "أَحْسَنُ", "root": "ح س ن", "bs": "najbolji", "en": "best" },
+        { "w": "فَلَافِلٍ", "root": "ف ل ف", "bs": "falafel", "en": "falafel" },
+        { "w": "أَكَلْتُهُ", "root": "أ ك ل", "bs": "pojeo sam ga", "en": "I ate it/I have eaten" }
+      ]
     }
   ],
   "metadata": {

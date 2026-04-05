@@ -6,27 +6,53 @@
     {
       "arabic": "وَصَلَتْ رِسَالَةٌ غَرِيبَةٌ إِلَى بَيْتِ سَارَةَ.",
       "translation": "Čudno pismo stiglo je u Sarinu kuću.",
-      "translationEn": "A strange letter arrived at Sara's house."
+      "translationEn": "A strange letter arrived at Sara's house.",
+      "words": [
+        { "w": "وَصَلَتْ", "root": "و ص ل", "bs": "stiglo je", "en": "arrived" },
+        { "w": "رِسَالَةٌ", "root": "ر س ل", "bs": "pismo", "en": "letter" },
+        { "w": "غَرِيبَةٌ", "root": "غ ر ب", "bs": "čudno", "en": "strange" },
+        { "w": "بَيْتِ", "root": "ب ي ت", "bs": "kuću", "en": "house" }
+      ]
     },
     {
       "arabic": "لَمْ يَكُنْ عَلَى الرِّسَالَةِ اسْمُ الْمُرْسِلِ.",
       "translation": "Na pismu nije bilo imena pošiljatelja.",
-      "translationEn": "There was no sender's name on the letter."
+      "translationEn": "There was no sender's name on the letter.",
+      "words": [
+        { "w": "الرِّسَالَةِ", "root": "ر س ل", "bs": "pismu", "en": "the letter" },
+        { "w": "اسْمُ", "root": "س م و", "bs": "ime", "en": "name" },
+        { "w": "الْمُرْسِلِ", "root": "ر س ل", "bs": "pošiljatelja", "en": "the sender" }
+      ]
     },
     {
       "arabic": "فَتَحَتْ سَارَةُ الرِّسَالَةَ وَقَرَأَتْهَا بِعِنَايَةٍ.",
       "translation": "Sara je otvorila pismo i pažljivo ga pročitala.",
-      "translationEn": "Sara opened the letter and read it carefully."
+      "translationEn": "Sara opened the letter and read it carefully.",
+      "words": [
+        { "w": "فَتَحَتْ", "root": "ف ت ح", "bs": "otvorila je", "en": "she opened" },
+        { "w": "قَرَأَتْهَا", "root": "ق ر أ", "bs": "pročitala je", "en": "she read it" },
+        { "w": "بِعِنَايَةٍ", "root": "ع ن ي", "bs": "pažljivo", "en": "carefully" }
+      ]
     },
     {
       "arabic": "كَانَ فِيهَا: شُكْرًا لَكِ عَلَى مَسَاعَدَتِكِ الْأُسْبُوعَ الْمَاضِيَ.",
       "translation": "U njemu je pisalo: Hvala ti na pomoći prošle sedmice.",
-      "translationEn": "It said: Thank you for your help last week."
+      "translationEn": "It said: Thank you for your help last week.",
+      "words": [
+        { "w": "مَسَاعَدَتِكِ", "root": "س ع د", "bs": "pomoći", "en": "your help" },
+        { "w": "الْأُسْبُوعَ", "root": "س ب ع", "bs": "sedmice", "en": "week" },
+        { "w": "الْمَاضِيَ", "root": "م ض ي", "bs": "prošle", "en": "last/past" }
+      ]
     },
     {
       "arabic": "فَكَّرَتْ سَارَةُ كَثِيرًا وَلَمْ تَعْرِفْ مَنْ أَرْسَلَهَا.",
       "translation": "Sara je dugo razmišljala ali nije znala ko ju je poslao.",
-      "translationEn": "Sara thought for a long time but did not know who sent it."
+      "translationEn": "Sara thought for a long time but did not know who sent it.",
+      "words": [
+        { "w": "فَكَّرَتْ", "root": "ف ك ر", "bs": "razmišljala je", "en": "she thought" },
+        { "w": "تَعْرِفْ", "root": "ع ر ف", "bs": "znala je", "en": "she knew" },
+        { "w": "أَرْسَلَهَا", "root": "ر س ل", "bs": "poslao je", "en": "sent it" }
+      ]
     }
   ],
   "metadata": {

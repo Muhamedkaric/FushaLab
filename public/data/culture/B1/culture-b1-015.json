@@ -6,27 +6,57 @@
     {
       "arabic": "يَذْهَبُ الأَبُ إِلَى السُّوقِ كُلَّ أُسْبُوعٍ.",
       "translation": "Otac ide na pijacu svake sedmice.",
-      "translationEn": "The father goes to the market every week."
+      "translationEn": "The father goes to the market every week.",
+      "words": [
+        { "w": "يَذْهَبُ", "root": "ذ هـ ب", "bs": "ide", "en": "goes" },
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijacu", "en": "market" },
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmice", "en": "week" }
+      ]
     },
     {
       "arabic": "يَشْتَرِي الخُضَرَ وَالفَوَاكِهَ الطَّازَجَةَ.",
       "translation": "Kupuje svježe povrće i voće.",
-      "translationEn": "He buys fresh vegetables and fruits."
+      "translationEn": "He buys fresh vegetables and fruits.",
+      "words": [
+        { "w": "يَشْتَرِي", "root": "ش ر ي", "bs": "kupuje", "en": "buys" },
+        { "w": "الخُضَرَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
+        { "w": "الفَوَاكِهَ", "root": "ف ك هـ", "bs": "voće", "en": "fruits" },
+        { "w": "الطَّازَجَةَ", "root": "ط ز ج", "bs": "svježe", "en": "fresh" }
+      ]
     },
     {
       "arabic": "يَتَحَدَّثُ مَعَ البَائِعِينَ وَيُسَاوِمُ عَلَى السِّعْرِ.",
       "translation": "Razgovara s prodavcima i cjenka se.",
-      "translationEn": "He talks to the sellers and negotiates the price."
+      "translationEn": "He talks to the sellers and negotiates the price.",
+      "words": [
+        { "w": "يَتَحَدَّثُ", "root": "ح د ث", "bs": "razgovara", "en": "talks" },
+        { "w": "البَائِعِينَ", "root": "ب ي ع", "bs": "prodavačima", "en": "sellers" },
+        { "w": "يُسَاوِمُ", "root": "س و م", "bs": "cjenka se", "en": "negotiates" },
+        { "w": "السِّعْرِ", "root": "س ع ر", "bs": "cijenu", "en": "price" }
+      ]
     },
     {
       "arabic": "السُّوقُ مَكَانٌ مُزْدَحِمٌ وَنَشِيطٌ.",
       "translation": "Pijaca je gužvavo i aktivno mjesto.",
-      "translationEn": "The market is a busy and lively place."
+      "translationEn": "The market is a busy and lively place.",
+      "words": [
+        { "w": "السُّوقُ", "root": "س و ق", "bs": "pijaca", "en": "market" },
+        { "w": "مَكَانٌ", "root": "م ك ن", "bs": "mjesto", "en": "place" },
+        { "w": "مُزْدَحِمٌ", "root": "ز ح م", "bs": "gužvavo", "en": "busy" },
+        { "w": "نَشِيطٌ", "root": "ن ش ط", "bs": "aktivno", "en": "lively" }
+      ]
     },
     {
       "arabic": "يَعُودُ إِلَى البَيْتِ بِأَشْيَاءَ كَثِيرَةٍ.",
       "translation": "Vraća se kući s puno stvari.",
-      "translationEn": "He returns home with many things."
+      "translationEn": "He returns home with many things.",
+      "words": [
+        { "w": "يَعُودُ", "root": "ع و د", "bs": "vraća se", "en": "returns" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kući", "en": "home" },
+        { "w": "بِأَشْيَاءَ", "root": "ش ي أ", "bs": "stvarima", "en": "things" },
+        { "w": "كَثِيرَةٍ", "root": "ك ث ر", "bs": "puno", "en": "many" }
+      ]
     }
   ],
   "metadata": {

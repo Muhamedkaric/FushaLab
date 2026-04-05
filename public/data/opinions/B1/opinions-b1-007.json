@@ -6,22 +6,48 @@
     {
       "arabic": "بَعْضُ النَّاسِ يُفَضِّلُ الطَّعَامَ الْمَنْزِلِيَّ عَلَى الطَّعَامِ فِي الْمَطَاعِمِ.",
       "translation": "Neki ljudi više vole domaću hranu od restoranskog jela.",
-      "translationEn": "Some people prefer home food to eating at restaurants."
+      "translationEn": "Some people prefer home food to eating at restaurants.",
+      "words": [
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "يُفَضِّلُ", "root": "ف ض ل", "bs": "više vole", "en": "prefer" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" },
+        { "w": "الْمَنْزِلِيَّ", "root": "ن ز ل", "bs": "domaću", "en": "home" },
+        { "w": "الْمَطَاعِمِ", "root": "ط ع م", "bs": "restorana", "en": "restaurants" }
+      ]
     },
     {
       "arabic": "أَنَا مِنْ هَؤُلَاءِ الَّذِينَ يُحِبُّونَ الطَّعَامَ الَّذِي يُطْبَخُ فِي الْبَيْتِ.",
       "translation": "Ja sam jedan od onih koji vole hranu kuhanu kod kuće.",
-      "translationEn": "I am one of those who like food cooked at home."
+      "translationEn": "I am one of those who like food cooked at home.",
+      "words": [
+        { "w": "يُحِبُّونَ", "root": "ح ب ب", "bs": "vole", "en": "like" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" },
+        { "w": "يُطْبَخُ", "root": "ط ب خ", "bs": "kuhanu", "en": "cooked" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuće", "en": "home" }
+      ]
     },
     {
       "arabic": "الطَّعَامُ الْمَنْزِلِيُّ أَكْثَرُ صِحِّيَّةً وَطَعْمُهُ أَلَذُّ.",
       "translation": "Domaća hrana je zdravija i ukusnija.",
-      "translationEn": "Home food is healthier and tastier."
+      "translationEn": "Home food is healthier and tastier.",
+      "words": [
+        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana", "en": "food" },
+        { "w": "الْمَنْزِلِيُّ", "root": "ن ز ل", "bs": "domaća", "en": "home" },
+        { "w": "صِحِّيَّةً", "root": "ص ح ح", "bs": "zdravija", "en": "healthier" },
+        { "w": "طَعْمُهُ", "root": "ط ع م", "bs": "ukus", "en": "taste" },
+        { "w": "أَلَذُّ", "root": "ل ذ ذ", "bs": "ukusniji", "en": "tastier" }
+      ]
     },
     {
       "arabic": "أُحِبُّ أَنْ أَطْبُخَ مَعَ عَائِلَتِي فِي الْعُطْلَةِ.",
       "translation": "Volim kuhati s porodicom tokom odmora.",
-      "translationEn": "I like to cook with my family during the holiday."
+      "translationEn": "I like to cook with my family during the holiday.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "أَطْبُخَ", "root": "ط ب خ", "bs": "kuhati", "en": "to cook" },
+        { "w": "عَائِلَتِي", "root": "ع و ل", "bs": "porodicom", "en": "family" },
+        { "w": "الْعُطْلَةِ", "root": "ع ط ل", "bs": "odmora", "en": "holiday" }
+      ]
     }
   ],
   "metadata": {

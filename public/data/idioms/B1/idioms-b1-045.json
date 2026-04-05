@@ -6,22 +6,45 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «حُسْنُ الظَّنِّ مِنَ الْإِيمَانِ».",
       "translation": "Poslovica kaže: «Dobro mišljenje o drugima je dio vjere».",
-      "translationEn": "The proverb says: «Thinking well of others is part of faith»."
+      "translationEn": "The proverb says: «Thinking well of others is part of faith».",
+      "words": [
+        { "w": "حُسْنُ", "root": "ح س ن", "bs": "dobro", "en": "goodness" },
+        { "w": "الظَّنِّ", "root": "ظ ن ن", "bs": "mišljenje", "en": "thinking" },
+        { "w": "الْإِيمَانِ", "root": "أ م ن", "bs": "vjera", "en": "faith" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ حُسْنَ النِّيَّةِ تُجَاهَ النَّاسِ صِفَةٌ حَسَنَةٌ.",
       "translation": "To znači da je dobra namjera prema ljudima lijepa osobina.",
-      "translationEn": "This means that good intentions toward people is a fine quality."
+      "translationEn": "This means that good intentions toward people is a fine quality.",
+      "words": [
+        { "w": "حُسْنَ", "root": "ح س ن", "bs": "dobro", "en": "goodness" },
+        { "w": "النِّيَّةِ", "root": "ن و ي", "bs": "namjera", "en": "intention" },
+        { "w": "صِفَةٌ", "root": "و ص ف", "bs": "osobina", "en": "quality" },
+        { "w": "حَسَنَةٌ", "root": "ح س ن", "bs": "lijepa", "en": "fine" }
+      ]
     },
     {
       "arabic": "لَمْ يَرُدَّ زَيْدٌ عَلَى رِسَالَتِهِ فَظَنَّتْ أَنَّهُ مَشْغُولٌ.",
       "translation": "Zejd joj nije odgovorio na poruku pa je mislila da je zauzet.",
-      "translationEn": "Zaid did not reply to her message so she thought he was busy."
+      "translationEn": "Zaid did not reply to her message so she thought he was busy.",
+      "words": [
+        { "w": "يَرُدَّ", "root": "ر د د", "bs": "odgovorio je", "en": "replied" },
+        { "w": "رِسَالَتِهِ", "root": "ر س ل", "bs": "njegova poruka", "en": "his message" },
+        { "w": "ظَنَّتْ", "root": "ظ ن ن", "bs": "mislila je", "en": "thought" },
+        { "w": "مَشْغُولٌ", "root": "ش غ ل", "bs": "zauzet", "en": "busy" }
+      ]
     },
     {
       "arabic": "بَعْدَ يَوْمٍ رَدَّ وَاعْتَذَرَ لِأَنَّ هَاتِفَهُ كَانَ مُعَطَّلًا.",
       "translation": "Nakon dana je odgovorio i ispričao se jer mu je telefon bio pokvaren.",
-      "translationEn": "After a day he replied and apologized because his phone was broken."
+      "translationEn": "After a day he replied and apologized because his phone was broken.",
+      "words": [
+        { "w": "رَدَّ", "root": "ر د د", "bs": "odgovorio je", "en": "replied" },
+        { "w": "اعْتَذَرَ", "root": "ع ذ ر", "bs": "ispričao se", "en": "apologized" },
+        { "w": "هَاتِفَهُ", "root": "ه ت ف", "bs": "telefon", "en": "phone" },
+        { "w": "مُعَطَّلًا", "root": "ع ط ل", "bs": "pokvaren", "en": "broken" }
+      ]
     }
   ],
   "metadata": {

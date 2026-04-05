@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَتِ الأُسْرَةُ تَجْتَمِعُ حَوْلَ النَّارِ فِي اللَّيْلِ.",
       "translation": "Porodica se skupljala oko vatre noću.",
-      "translationEn": "The family used to gather around the fire at night."
+      "translationEn": "The family used to gather around the fire at night.",
+      "words": [
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "the family" },
+        { "w": "تَجْتَمِعُ", "root": "ج م ع", "bs": "skuplja se", "en": "gathers" },
+        { "w": "النَّارِ", "root": "ن و ر", "bs": "vatra", "en": "the fire" }
+      ]
     },
     {
       "arabic": "كَانَ الْجَدُّ يَحْكِي قِصَصًا قَدِيمَةً لِلأَطْفَالِ.",
       "translation": "Djed je pričao stare priče djeci.",
-      "translationEn": "The grandfather used to tell old stories to the children."
+      "translationEn": "The grandfather used to tell old stories to the children.",
+      "words": [
+        { "w": "الْجَدُّ", "root": "ج د د", "bs": "djed", "en": "the grandfather" },
+        { "w": "يَحْكِي", "root": "ح ك ي", "bs": "priča", "en": "tells" },
+        { "w": "قِصَصًا", "root": "ق ص ص", "bs": "priče", "en": "stories" },
+        { "w": "قَدِيمَةً", "root": "ق د م", "bs": "stare", "en": "old" },
+        { "w": "الأَطْفَالِ", "root": "ط ف ل", "bs": "djeca", "en": "the children" }
+      ]
     },
     {
       "arabic": "أَصْغَى الأَطْفَالُ بِعُيُونٍ وَاسِعَةٍ وَقُلُوبٍ مُتَحَمِّسَةٍ.",
       "translation": "Djeca su slušala velikih očiju i uzbuđenih srca.",
-      "translationEn": "The children listened with wide eyes and excited hearts."
+      "translationEn": "The children listened with wide eyes and excited hearts.",
+      "words": [
+        { "w": "أَصْغَى", "root": "ص غ و", "bs": "slušao je", "en": "listened" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "the children" },
+        { "w": "عُيُونٍ", "root": "ع ي ن", "bs": "oči", "en": "eyes" },
+        { "w": "وَاسِعَةٍ", "root": "و س ع", "bs": "široke", "en": "wide" },
+        { "w": "قُلُوبٍ", "root": "ق ل ب", "bs": "srca", "en": "hearts" },
+        { "w": "مُتَحَمِّسَةٍ", "root": "ح م س", "bs": "uzbuđena", "en": "excited" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْقِصَصُ تُعَلِّمُهُمْ قِيَمًا جَمِيلَةً.",
       "translation": "Priče su ih učile lijepim vrijednostima.",
-      "translationEn": "The stories taught them beautiful values."
+      "translationEn": "The stories taught them beautiful values.",
+      "words": [
+        { "w": "الْقِصَصُ", "root": "ق ص ص", "bs": "priče", "en": "the stories" },
+        { "w": "تُعَلِّمُهُمْ", "root": "ع ل م", "bs": "uči ih", "en": "teaches them" },
+        { "w": "قِيَمًا", "root": "ق ي م", "bs": "vrijednosti", "en": "values" },
+        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijepim", "en": "beautiful" }
+      ]
     }
   ],
   "metadata": {

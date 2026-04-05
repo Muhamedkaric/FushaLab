@@ -6,22 +6,48 @@
     {
       "arabic": "العَسَلُ دَوَاءٌ طَبِيعِيٌّ مَعْرُوفٌ مُنْذُ القِدَمِ.",
       "translation": "Med je prirodni lijek poznat od davnina.",
-      "translationEn": "Honey is a natural remedy known since ancient times."
+      "translationEn": "Honey is a natural remedy known since ancient times.",
+      "words": [
+        { "w": "العَسَلُ", "root": "ع س ل", "bs": "med", "en": "honey" },
+        { "w": "دَوَاءٌ", "root": "د و ي", "bs": "lijek", "en": "remedy" },
+        { "w": "طَبِيعِيٌّ", "root": "ط ب ع", "bs": "prirodni", "en": "natural" },
+        { "w": "مَعْرُوفٌ", "root": "ع ر ف", "bs": "poznat", "en": "known" }
+      ]
     },
     {
       "arabic": "يَأْكُلُ النَّاسُ العَسَلَ فِي الصَّبَاحِ عَلَى مَعِدَةٍ فَارِغَةٍ.",
       "translation": "Ljudi jedu med ujutro na prazan stomak.",
-      "translationEn": "People eat honey in the morning on an empty stomach."
+      "translationEn": "People eat honey in the morning on an empty stomach.",
+      "words": [
+        { "w": "يَأْكُلُ", "root": "أ ك ل", "bs": "jedu", "en": "eat" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "العَسَلَ", "root": "ع س ل", "bs": "med", "en": "honey" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "ujutro", "en": "morning" },
+        { "w": "مَعِدَةٍ", "root": "م ع د", "bs": "stomak", "en": "stomach" },
+        { "w": "فَارِغَةٍ", "root": "ف ر غ", "bs": "prazan", "en": "empty" }
+      ]
     },
     {
       "arabic": "يَخْلِطُونَهُ بِالمَاءِ الدَّافِئِ أَوِ الحَلِيبِ.",
       "translation": "Miješaju ga s toplom vodom ili mlijekom.",
-      "translationEn": "They mix it with warm water or milk."
+      "translationEn": "They mix it with warm water or milk.",
+      "words": [
+        { "w": "يَخْلِطُونَهُ", "root": "خ ل ط", "bs": "miješaju ga", "en": "mix it" },
+        { "w": "المَاءِ", "root": "م و هـ", "bs": "vodom", "en": "water" },
+        { "w": "الدَّافِئِ", "root": "د ف أ", "bs": "toplom", "en": "warm" },
+        { "w": "الحَلِيبِ", "root": "ح ل ب", "bs": "mlijekom", "en": "milk" }
+      ]
     },
     {
       "arabic": "العَسَلُ مُفِيدٌ لِلْحَلْقِ وَالسُّعَالِ.",
       "translation": "Med je koristan za grlo i kašalj.",
-      "translationEn": "Honey is beneficial for the throat and cough."
+      "translationEn": "Honey is beneficial for the throat and cough.",
+      "words": [
+        { "w": "العَسَلُ", "root": "ع س ل", "bs": "med", "en": "honey" },
+        { "w": "مُفِيدٌ", "root": "ف ي د", "bs": "koristan", "en": "beneficial" },
+        { "w": "الحَلْقِ", "root": "ح ل ق", "bs": "grlu", "en": "throat" },
+        { "w": "السُّعَالِ", "root": "س ع ل", "bs": "kašlju", "en": "cough" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,126 @@
     {
       "arabic": "طَلَبَتِ الْمُعَلِّمَةُ مِنَ الطُّلَّابِ الْبَحْثَ عَنْ مَعْلُومَاتٍ.",
       "translation": "Nastavnica je zamolila učenike da potražite informacije.",
-      "translationEn": "The teacher asked the students to search for information."
+      "translationEn": "The teacher asked the students to search for information.",
+      "words": [
+        {
+          "w": "طَلَبَتِ",
+          "root": "ط ل ب",
+          "bs": "zamolila je",
+          "en": "asked"
+        },
+        {
+          "w": "الْمُعَلِّمَةُ",
+          "root": "ع ل م",
+          "bs": "nastavnica",
+          "en": "the teacher"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenike",
+          "en": "the students"
+        },
+        {
+          "w": "الْبَحْثَ",
+          "root": "ب ح ث",
+          "bs": "pretraživanje",
+          "en": "to search"
+        },
+        {
+          "w": "مَعْلُومَاتٍ",
+          "root": "ع ل م",
+          "bs": "informacije",
+          "en": "information"
+        }
+      ]
     },
     {
       "arabic": "فَتَحَ كُلُّ طَالِبٍ هَاتِفَهُ وَبَدَأَ يَبْحَثُ.",
       "translation": "Svaki učenik je otvorio telefon i počeo pretraživati.",
-      "translationEn": "Each student opened their phone and started searching."
+      "translationEn": "Each student opened their phone and started searching.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "طَالِبٍ",
+          "root": "ط ل ب",
+          "bs": "učenik",
+          "en": "student"
+        },
+        {
+          "w": "هَاتِفَهُ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "his phone"
+        },
+        {
+          "w": "يَبْحَثُ",
+          "root": "ب ح ث",
+          "bs": "pretraživao je",
+          "en": "searching"
+        }
+      ]
     },
     {
       "arabic": "كَتَبَ بَعْضُهُمُ الْمَعْلُومَاتِ فِي دَفَاتِرِهِمْ.",
       "translation": "Neki su zapisali informacije u bilježnice.",
-      "translationEn": "Some of them wrote the information in their notebooks."
+      "translationEn": "Some of them wrote the information in their notebooks.",
+      "words": [
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "zapisali su",
+          "en": "wrote"
+        },
+        {
+          "w": "الْمَعْلُومَاتِ",
+          "root": "ع ل م",
+          "bs": "informacije",
+          "en": "the information"
+        },
+        {
+          "w": "دَفَاتِرِهِمْ",
+          "root": "د ف ت",
+          "bs": "bilježnice",
+          "en": "their notebooks"
+        }
+      ]
     },
     {
       "arabic": "قَدَّمُوا مَا وَجَدُوهُ لِلْمُعَلِّمَةِ بَعْدَ خَمْسِ دَقَائِقَ.",
       "translation": "Prezentovali su ono što su pronašli nastavnici nakon pet minuta.",
-      "translationEn": "They presented what they found to the teacher after five minutes."
+      "translationEn": "They presented what they found to the teacher after five minutes.",
+      "words": [
+        {
+          "w": "قَدَّمُوا",
+          "root": "ق د م",
+          "bs": "prezentovali su",
+          "en": "presented"
+        },
+        {
+          "w": "وَجَدُوهُ",
+          "root": "و ج د",
+          "bs": "pronašli su",
+          "en": "what they found"
+        },
+        {
+          "w": "الْمُعَلِّمَةِ",
+          "root": "ع ل م",
+          "bs": "nastavnici",
+          "en": "the teacher"
+        },
+        {
+          "w": "دَقَائِقَ",
+          "root": "د ق ق",
+          "bs": "minuta",
+          "en": "minutes"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,46 @@
     {
       "arabic": "زَرَعَتِ الْبِنْتُ سَارَةُ بَذْرَةً صَغِيرَةً فِي الْحَدِيقَةِ.",
       "translation": "Djevojčica Sara je posadila malo sjeme u bašti.",
-      "translationEn": "The girl Sara planted a small seed in the garden."
+      "translationEn": "The girl Sara planted a small seed in the garden.",
+      "words": [
+        { "w": "زَرَعَتِ", "root": "ز ر ع", "bs": "posadila je", "en": "planted" },
+        { "w": "بَذْرَةً", "root": "ب ذ ر", "bs": "sjeme/sjemenka", "en": "seed" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "malo", "en": "small" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "bašta/vrt", "en": "garden" }
+      ]
     },
     {
       "arabic": "سَقَتِ الْبَذْرَةَ كُلَّ يَوْمٍ وَانْتَظَرَتْ بِصَبْرٍ.",
       "translation": "Zalijevala je sjeme svaki dan i strpljivo čekala.",
-      "translationEn": "She watered the seed every day and waited patiently."
+      "translationEn": "She watered the seed every day and waited patiently.",
+      "words": [
+        { "w": "سَقَتِ", "root": "س ق ي", "bs": "zalijevala je", "en": "watered" },
+        { "w": "الْبَذْرَةَ", "root": "ب ذ ر", "bs": "sjeme", "en": "seed" },
+        { "w": "انْتَظَرَتْ", "root": "ن ظ ر", "bs": "čekala je", "en": "waited" },
+        { "w": "بِصَبْرٍ", "root": "ص ب ر", "bs": "strpljivo", "en": "patiently" }
+      ]
     },
     {
       "arabic": "بَعْدَ أُسْبُوعٍ ظَهَرَ نَبْتٌ صَغِيرٌ مِنَ الأَرْضِ.",
       "translation": "Nakon sedmice se iz zemlje pojavio mali izdanak.",
-      "translationEn": "After a week a small sprout appeared from the ground."
+      "translationEn": "After a week a small sprout appeared from the ground.",
+      "words": [
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica/tjedan", "en": "week" },
+        { "w": "ظَهَرَ", "root": "ظ ه ر", "bs": "pojavio se", "en": "appeared" },
+        { "w": "نَبْتٌ", "root": "ن ب ت", "bs": "izdanak/biljčica", "en": "sprout/seedling" },
+        { "w": "الأَرْضِ", "root": "أ ر ض", "bs": "zemlja/tlo", "en": "ground/earth" }
+      ]
     },
     {
       "arabic": "صَرَخَتْ سَارَةُ مِنَ الْفَرَحِ وَأَرَتْ أُمَّهَا النَّبْتَةَ.",
       "translation": "Sara je vrisnula od radosti i pokazala majci biljčicu.",
-      "translationEn": "Sara cried out with joy and showed her mother the seedling."
+      "translationEn": "Sara cried out with joy and showed her mother the seedling.",
+      "words": [
+        { "w": "صَرَخَتْ", "root": "ص ر خ", "bs": "vrisnula je", "en": "cried out" },
+        { "w": "الْفَرَحِ", "root": "ف ر ح", "bs": "radost/sreća", "en": "joy" },
+        { "w": "أَرَتْ", "root": "ر أ ي", "bs": "pokazala je", "en": "showed" },
+        { "w": "النَّبْتَةَ", "root": "ن ب ت", "bs": "biljčica/izdanak", "en": "seedling" }
+      ]
     }
   ],
   "metadata": {

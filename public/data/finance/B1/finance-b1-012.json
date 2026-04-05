@@ -6,27 +6,53 @@
     {
       "arabic": "ذَهَبَ عَمَرُ وَأَبُوهُ إِلَى المَطْعَمِ لِلْغَدَاءِ.",
       "translation": "Omer i otac su otišli u restoran na ručak.",
-      "translationEn": "Omar and his father went to the restaurant for lunch."
+      "translationEn": "Omar and his father went to the restaurant for lunch.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "المَطْعَمِ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
+        { "w": "الغَدَاءِ", "root": "غ د و", "bs": "ručak", "en": "lunch" }
+      ]
     },
     {
       "arabic": "طَلَبَا الطَّعَامَ مِنَ القَائِمَةِ.",
       "translation": "Naručili su hranu s menija.",
-      "translationEn": "They ordered food from the menu."
+      "translationEn": "They ordered food from the menu.",
+      "words": [
+        { "w": "طَلَبَا", "root": "ط ل ب", "bs": "naručili su", "en": "ordered" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana", "en": "food" },
+        { "w": "القَائِمَةِ", "root": "ق و م", "bs": "meni", "en": "menu" }
+      ]
     },
     {
       "arabic": "أَكَلَا وَتَحَدَّثَا عَنْ يَوْمِهِمَا.",
       "translation": "Jeli su i razgovarali o svom danu.",
-      "translationEn": "They ate and talked about their day."
+      "translationEn": "They ate and talked about their day.",
+      "words": [
+        { "w": "أَكَلَا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
+        { "w": "تَحَدَّثَا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
+        { "w": "يَوْمِهِمَا", "root": "ي و م", "bs": "njihov dan", "en": "their day" }
+      ]
     },
     {
       "arabic": "طَلَبَ الأَبُ الحِسَابَ وَدَفَعَ كَامِلَ المَبْلَغِ.",
       "translation": "Otac je zatražio račun i platio cijeli iznos.",
-      "translationEn": "The father asked for the bill and paid the full amount."
+      "translationEn": "The father asked for the bill and paid the full amount.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zatražio je", "en": "asked for" },
+        { "w": "الحِسَابَ", "root": "ح س ب", "bs": "račun", "en": "bill" },
+        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
+        { "w": "المَبْلَغِ", "root": "ب ل غ", "bs": "iznos", "en": "amount" }
+      ]
     },
     {
       "arabic": "خَرَجَا مِنَ المَطْعَمِ وَهُمَا رَاضِيَانِ.",
       "translation": "Izašli su iz restorana zadovoljni.",
-      "translationEn": "They left the restaurant satisfied."
+      "translationEn": "They left the restaurant satisfied.",
+      "words": [
+        { "w": "خَرَجَا", "root": "خ ر ج", "bs": "izašli su", "en": "left" },
+        { "w": "المَطْعَمِ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
+        { "w": "رَاضِيَانِ", "root": "ر ض و", "bs": "zadovoljni", "en": "satisfied" }
+      ]
     }
   ],
   "metadata": {

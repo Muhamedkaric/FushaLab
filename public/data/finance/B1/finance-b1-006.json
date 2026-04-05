@@ -6,27 +6,55 @@
     {
       "arabic": "رَأَتْ هَلَا حِذَاءً جَمِيلًا فِي وَاجِهَةِ المَحَلِّ.",
       "translation": "Hela je vidjela lijepe cipele u izlogu prodavnice.",
-      "translationEn": "Hala saw a beautiful pair of shoes in the shop window."
+      "translationEn": "Hala saw a beautiful pair of shoes in the shop window.",
+      "words": [
+        { "w": "رَأَتْ", "root": "ر أ ي", "bs": "vidjela je", "en": "saw" },
+        { "w": "حِذَاءً", "root": "ح ذ و", "bs": "cipele", "en": "shoes" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepe", "en": "beautiful" },
+        { "w": "وَاجِهَةِ", "root": "و ج ه", "bs": "izlog", "en": "shop window" }
+      ]
     },
     {
       "arabic": "دَخَلَتْ وَسَأَلَتِ البَائِعَةَ عَنِ الثَّمَنِ.",
       "translation": "Ušla je i pitala prodavačicu za cijenu.",
-      "translationEn": "She went in and asked the saleswoman about the price."
+      "translationEn": "She went in and asked the saleswoman about the price.",
+      "words": [
+        { "w": "دَخَلَتْ", "root": "د خ ل", "bs": "ušla je", "en": "went in" },
+        { "w": "سَأَلَتِ", "root": "س أ ل", "bs": "pitala je", "en": "asked" },
+        { "w": "البَائِعَةَ", "root": "ب ي ع", "bs": "prodavačica", "en": "saleswoman" },
+        { "w": "الثَّمَنِ", "root": "ث م ن", "bs": "cijena", "en": "price" }
+      ]
     },
     {
       "arabic": "كَانَ السِّعْرُ أَكْثَرَ مِمَّا عِنْدَهَا مِنْ نُقُودٍ.",
       "translation": "Cijena je bila više nego što je imala novca.",
-      "translationEn": "The price was more than she had money."
+      "translationEn": "The price was more than she had money.",
+      "words": [
+        { "w": "السِّعْرُ", "root": "س ع ر", "bs": "cijena", "en": "price" },
+        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više", "en": "more" },
+        { "w": "نُقُودٍ", "root": "ن ق د", "bs": "novac", "en": "money" }
+      ]
     },
     {
       "arabic": "قَرَّرَتْ أَنْ تَدَّخِرَ حَتَّى تَشْتَرِيَ الحِذَاءَ لَاحِقًا.",
       "translation": "Odlučila je da uštedi kako bi kasnije kupila cipele.",
-      "translationEn": "She decided to save up to buy the shoes later."
+      "translationEn": "She decided to save up to buy the shoes later.",
+      "words": [
+        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "تَدَّخِرَ", "root": "ذ خ ر", "bs": "da uštedi", "en": "to save" },
+        { "w": "تَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "الحِذَاءَ", "root": "ح ذ و", "bs": "cipele", "en": "shoes" }
+      ]
     },
     {
       "arabic": "بَعْدَ أُسْبُوعَيْنِ اشْتَرَتْهُ وَهِيَ فَرِحَةٌ.",
       "translation": "Nakon dvije sedmice kupila ih je sretna.",
-      "translationEn": "After two weeks she bought them, feeling happy."
+      "translationEn": "After two weeks she bought them, feeling happy.",
+      "words": [
+        { "w": "أُسْبُوعَيْنِ", "root": "س ب ع", "bs": "dvije sedmice", "en": "two weeks" },
+        { "w": "اشْتَرَتْهُ", "root": "ش ر ي", "bs": "kupila ih je", "en": "bought them" },
+        { "w": "فَرِحَةٌ", "root": "ف ر ح", "bs": "sretna", "en": "happy" }
+      ]
     }
   ],
   "metadata": {

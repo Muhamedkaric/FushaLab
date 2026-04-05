@@ -6,26 +6,134 @@
     {
       "arabic": "وَصَلَ الرَّبِيعُ وَتَفَتَّحَتِ الأَزْهَارُ فِي الْحَدَائِقِ.",
       "translation": "Proljeće je stiglo i cvijeće se otvorilo u parkovima.",
-      "translationEn": "Spring arrived and flowers bloomed in the gardens."
+      "translationEn": "Spring arrived and flowers bloomed in the gardens.",
+      "words": [
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stiglo je",
+          "en": "arrived"
+        },
+        {
+          "w": "الرَّبِيعُ",
+          "root": "ر ب ع",
+          "bs": "proljeće",
+          "en": "spring"
+        },
+        {
+          "w": "تَفَتَّحَتِ",
+          "root": "ف ت ح",
+          "bs": "otvorilo se",
+          "en": "bloomed"
+        },
+        {
+          "w": "الأَزْهَارُ",
+          "root": "ز ه ر",
+          "bs": "cvijeće",
+          "en": "flowers"
+        },
+        {
+          "w": "الْحَدَائِقِ",
+          "root": "ح د ق",
+          "bs": "parkovima",
+          "en": "gardens"
+        }
+      ]
     },
     {
       "arabic": "خَرَجَ النَّاسُ لِلتَّمَتُّعِ بِالطَّقْسِ الدَّافِئِ.",
       "translation": "Ljudi su izašli da uživaju u toplom vremenu.",
-      "translationEn": "People went out to enjoy the warm weather."
+      "translationEn": "People went out to enjoy the warm weather.",
+      "words": [
+        {
+          "w": "خَرَجَ",
+          "root": "خ ر ج",
+          "bs": "izašli su",
+          "en": "went out"
+        },
+        {
+          "w": "الطَّقْسِ",
+          "root": "ط ق س",
+          "bs": "vremenu",
+          "en": "weather"
+        },
+        {
+          "w": "الدَّافِئِ",
+          "root": "د ف أ",
+          "bs": "toplom",
+          "en": "warm"
+        }
+      ]
     },
     {
       "arabic": "مَلَأَ الأَطْفَالُ الشَّوَارِعَ بِالضَّحَكَاتِ وَالأَلْعَابِ.",
       "translation": "Djeca su ispunila ulice smijehom i igrama.",
-      "translationEn": "Children filled the streets with laughter and games."
+      "translationEn": "Children filled the streets with laughter and games.",
+      "words": [
+        {
+          "w": "مَلَأَ",
+          "root": "م ل أ",
+          "bs": "ispunili su",
+          "en": "filled"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children"
+        },
+        {
+          "w": "الشَّوَارِعَ",
+          "root": "ش ر ع",
+          "bs": "ulice",
+          "en": "streets"
+        },
+        {
+          "w": "الضَّحَكَاتِ",
+          "root": "ض ح ك",
+          "bs": "smijehom",
+          "en": "laughter"
+        },
+        {
+          "w": "الأَلْعَابِ",
+          "root": "ل ع ب",
+          "bs": "igrama",
+          "en": "games"
+        }
+      ]
     },
     {
       "arabic": "قَالَ كَثِيرٌ مِنَ النَّاسِ إِنَّ الرَّبِيعَ أَجْمَلُ فُصُولِ السَّنَةِ.",
       "translation": "Mnogi ljudi su rekli da je proljeće najljepše godišnje doba.",
-      "translationEn": "Many people said that spring is the most beautiful season of the year."
+      "translationEn": "Many people said that spring is the most beautiful season of the year.",
+      "words": [
+        {
+          "w": "الرَّبِيعَ",
+          "root": "ر ب ع",
+          "bs": "proljeće",
+          "en": "spring"
+        },
+        {
+          "w": "فُصُولِ",
+          "root": "ف ص ل",
+          "bs": "godišnja doba",
+          "en": "seasons"
+        },
+        {
+          "w": "السَّنَةِ",
+          "root": "س ن و",
+          "bs": "godine",
+          "en": "year"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["seasons", "spring", "daily life"]
+    "tags": [
+      "seasons",
+      "spring",
+      "daily life"
+    ]
   }
 }

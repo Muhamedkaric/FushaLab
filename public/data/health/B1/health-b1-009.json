@@ -6,26 +6,122 @@
     {
       "arabic": "يَشْرَبُ تَامِرٌ ثَمَانِيَةَ أَكْوَابٍ مِنَ الْمَاءِ كُلَّ يَوْمٍ.",
       "translation": "Tamir pije osam čaša vode svaki dan.",
-      "translationEn": "Tamir drinks eight glasses of water every day."
+      "translationEn": "Tamir drinks eight glasses of water every day.",
+      "words": [
+        {
+          "w": "يَشْرَبُ",
+          "root": "ش ر ب",
+          "bs": "pije",
+          "en": "drinks"
+        },
+        {
+          "w": "أَكْوَابٍ",
+          "root": "ك و ب",
+          "bs": "čaše",
+          "en": "glasses"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water"
+        }
+      ]
     },
     {
       "arabic": "يَعْرِفُ أَنَّ الْمَاءَ مُهِمٌّ لِصِحَّةِ الْجِسْمِ.",
       "translation": "Zna da je voda važna za zdravlje tijela.",
-      "translationEn": "He knows that water is important for the health of the body."
+      "translationEn": "He knows that water is important for the health of the body.",
+      "words": [
+        {
+          "w": "يَعْرِفُ",
+          "root": "ع ر ف",
+          "bs": "zna",
+          "en": "knows"
+        },
+        {
+          "w": "الْمَاءَ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "root": "ه م م",
+          "bs": "važna",
+          "en": "important"
+        },
+        {
+          "w": "لِصِحَّةِ",
+          "root": "ص ح ح",
+          "bs": "za zdravlje",
+          "en": "for health"
+        }
+      ]
     },
     {
       "arabic": "يَحْمِلُ زُجَاجَةَ مَاءٍ مَعَهُ فِي كُلِّ مَكَانٍ.",
       "translation": "Nosi bocu vode sa sobom svuda.",
-      "translationEn": "He carries a water bottle with him everywhere."
+      "translationEn": "He carries a water bottle with him everywhere.",
+      "words": [
+        {
+          "w": "يَحْمِلُ",
+          "root": "ح م ل",
+          "bs": "nosi",
+          "en": "carries"
+        },
+        {
+          "w": "زُجَاجَةَ",
+          "root": "ز ج ج",
+          "bs": "boca",
+          "en": "bottle"
+        },
+        {
+          "w": "مَاءٍ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water"
+        }
+      ]
     },
     {
       "arabic": "أَخْبَرَ أَصْدِقَاءَهُ بِأَهَمِّيَّةِ شُرْبِ الْمَاءِ.",
       "translation": "Obavijestio je prijatelje o važnosti pijenja vode.",
-      "translationEn": "He told his friends about the importance of drinking water."
+      "translationEn": "He told his friends about the importance of drinking water.",
+      "words": [
+        {
+          "w": "أَخْبَرَ",
+          "root": "خ ب ر",
+          "bs": "obavijestio je",
+          "en": "told"
+        },
+        {
+          "w": "أَصْدِقَاءَهُ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends"
+        },
+        {
+          "w": "بِأَهَمِّيَّةِ",
+          "root": "ه م م",
+          "bs": "o važnosti",
+          "en": "about the importance"
+        },
+        {
+          "w": "شُرْبِ",
+          "root": "ش ر ب",
+          "bs": "pijenja",
+          "en": "drinking"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["water", "hydration", "health habits"]
+    "tags": [
+      "water",
+      "hydration",
+      "health habits"
+    ]
   }
 }

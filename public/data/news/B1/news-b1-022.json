@@ -6,26 +6,122 @@
     {
       "arabic": "نَظَّفَ أَبْنَاءُ الْحَيِّ الشَّاطِئَ الْقَرِيبَ مِنَ الْمَدِينَةِ.",
       "translation": "Mještani su očistili plažu nedaleko od grada.",
-      "translationEn": "The neighborhood residents cleaned the beach near the city."
+      "translationEn": "The neighborhood residents cleaned the beach near the city.",
+      "words": [
+        {
+          "w": "نَظَّفَ",
+          "root": "ن ظ ف",
+          "bs": "očistili su",
+          "en": "cleaned"
+        },
+        {
+          "w": "الشَّاطِئَ",
+          "root": "ش ط أ",
+          "bs": "plažu",
+          "en": "beach"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "م د ن",
+          "bs": "grada",
+          "en": "city"
+        }
+      ]
     },
     {
       "arabic": "جَمَعُوا الْقُمَامَةَ وَوَضَعُوهَا فِي أَكْيَاسٍ كَبِيرَةٍ.",
       "translation": "Skupili su smeće i stavili ga u velike vreće.",
-      "translationEn": "They collected the garbage and put it in large bags."
+      "translationEn": "They collected the garbage and put it in large bags.",
+      "words": [
+        {
+          "w": "جَمَعُوا",
+          "root": "ج م ع",
+          "bs": "skupili su",
+          "en": "collected"
+        },
+        {
+          "w": "الْقُمَامَةَ",
+          "root": "ق م م",
+          "bs": "smeće",
+          "en": "garbage"
+        },
+        {
+          "w": "أَكْيَاسٍ",
+          "root": "ك ي س",
+          "bs": "vreće",
+          "en": "bags"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "root": "ك ب ر",
+          "bs": "velikim",
+          "en": "large"
+        }
+      ]
     },
     {
       "arabic": "اسْتَغْرَقَ الْعَمَلُ ثَلَاثَ سَاعَاتٍ وَانْتَهَى الشَّاطِئُ نَظِيفًا.",
       "translation": "Posao je trajao tri sata i plaža je postala čista.",
-      "translationEn": "The work took three hours and the beach ended up clean."
+      "translationEn": "The work took three hours and the beach ended up clean.",
+      "words": [
+        {
+          "w": "الْعَمَلُ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work"
+        },
+        {
+          "w": "سَاعَاتٍ",
+          "root": "س و ع",
+          "bs": "sata",
+          "en": "hours"
+        },
+        {
+          "w": "الشَّاطِئُ",
+          "root": "ش ط أ",
+          "bs": "plaža",
+          "en": "beach"
+        },
+        {
+          "w": "نَظِيفًا",
+          "root": "ن ظ ف",
+          "bs": "čista",
+          "en": "clean"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الْمُتَطَوِّعُونَ إِنَّهُمْ سَيَعُودُونَ كُلَّ شَهْرٍ.",
       "translation": "Volonteri su rekli da će se vraćati svaki mjesec.",
-      "translationEn": "The volunteers said they will return every month."
+      "translationEn": "The volunteers said they will return every month.",
+      "words": [
+        {
+          "w": "الْمُتَطَوِّعُونَ",
+          "root": "ط و ع",
+          "bs": "volonteri",
+          "en": "volunteers"
+        },
+        {
+          "w": "سَيَعُودُونَ",
+          "root": "ع و د",
+          "bs": "vraćat će se",
+          "en": "will return"
+        },
+        {
+          "w": "شَهْرٍ",
+          "root": "ش ه ر",
+          "bs": "mjesec",
+          "en": "month"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["environment", "beach", "volunteering"]
+    "tags": [
+      "environment",
+      "beach",
+      "volunteering"
+    ]
   }
 }

@@ -6,22 +6,44 @@
     {
       "arabic": "أَرَادَ يَاسِرٌ أَنْ يَتَعَلَّمَ طَبْخَ الْكُسْكُسِ.",
       "translation": "Jasir je htio naučiti kuhati kuskus.",
-      "translationEn": "Yasir wanted to learn to cook couscous."
+      "translationEn": "Yasir wanted to learn to cook couscous.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je/željeo", "en": "wanted" },
+        { "w": "يَتَعَلَّمَ", "root": "ع ل م", "bs": "da nauči", "en": "to learn" },
+        { "w": "طَبْخَ", "root": "ط ب خ", "bs": "kuhanje/kuhati", "en": "cooking" },
+        { "w": "الْكُسْكُسِ", "root": "ك س ك", "bs": "kuskus", "en": "couscous" }
+      ]
     },
     {
       "arabic": "طَلَبَ مِنْ أُمِّهِ أَنْ تُعَلِّمَهُ.",
       "translation": "Zamolio je majku da ga nauči.",
-      "translationEn": "He asked his mother to teach him."
+      "translationEn": "He asked his mother to teach him.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je/tražio", "en": "asked" },
+        { "w": "أُمِّهِ", "root": "أ م م", "bs": "njegova majka", "en": "his mother" },
+        { "w": "تُعَلِّمَهُ", "root": "ع ل م", "bs": "da ga nauči", "en": "to teach him" }
+      ]
     },
     {
       "arabic": "شَرَحَتِ الْأُمُّ الْخُطُوَاتِ بِصَبْرٍ.",
       "translation": "Majka je strpljivo objasnila korake.",
-      "translationEn": "The mother explained the steps patiently."
+      "translationEn": "The mother explained the steps patiently.",
+      "words": [
+        { "w": "شَرَحَتِ", "root": "ش ر ح", "bs": "objasnila je", "en": "explained" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "الْخُطُوَاتِ", "root": "خ ط و", "bs": "koraci/upute", "en": "steps" },
+        { "w": "بِصَبْرٍ", "root": "ص ب ر", "bs": "strpljivo/sa strpljenjem", "en": "patiently" }
+      ]
     },
     {
       "arabic": "طَبَخَ يَاسِرٌ الْكُسْكُسَ وَكَانَ جَيِّدًا.",
       "translation": "Jasir je skuhao kuskus i bio je dobar.",
-      "translationEn": "Yasir cooked the couscous and it was good."
+      "translationEn": "Yasir cooked the couscous and it was good.",
+      "words": [
+        { "w": "طَبَخَ", "root": "ط ب خ", "bs": "skuhao je", "en": "cooked" },
+        { "w": "الْكُسْكُسَ", "root": "ك س ك", "bs": "kuskus", "en": "couscous" },
+        { "w": "جَيِّدًا", "root": "ج و د", "bs": "dobar/dobro", "en": "good" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَ السُّوقُ الْقَدِيمُ مَكَانًا مُزْدَحِمًا وَصَاخِبًا.",
       "translation": "Stara tržnica bila je gužvovito i bučno mjesto.",
-      "translationEn": "The old market was a busy and noisy place."
+      "translationEn": "The old market was a busy and noisy place.",
+      "words": [
+        { "w": "السُّوقُ", "root": "س و ق", "bs": "tržnica", "en": "the market" },
+        { "w": "الْقَدِيمُ", "root": "ق د م", "bs": "stara", "en": "old" },
+        { "w": "مَكَانًا", "root": "ك و ن", "bs": "mjesto", "en": "a place" },
+        { "w": "مُزْدَحِمًا", "root": "ز ح م", "bs": "gužvovito", "en": "busy" },
+        { "w": "صَاخِبًا", "root": "ص خ ب", "bs": "bučno", "en": "noisy" }
+      ]
     },
     {
       "arabic": "بَاعَ النَّاسُ الْفَوَاكِهَ وَالْخُضَرَ وَالْقُمَاشَ.",
       "translation": "Ljudi su prodavali voće, povrće i tkanine.",
-      "translationEn": "People sold fruits, vegetables, and fabrics."
+      "translationEn": "People sold fruits, vegetables, and fabrics.",
+      "words": [
+        { "w": "بَاعَ", "root": "ب ي ع", "bs": "prodavao je", "en": "sold" },
+        { "w": "الْفَوَاكِهَ", "root": "ف ك ه", "bs": "voće", "en": "fruits" },
+        { "w": "الْخُضَرَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
+        { "w": "الْقُمَاشَ", "root": "ق م ش", "bs": "tkanine", "en": "fabrics" }
+      ]
     },
     {
       "arabic": "كَانَ الْجَمِيعُ يَتَكَلَّمُ بِصَوْتٍ عَالٍ فِي السُّوقِ.",
       "translation": "Svi su govorili glasno na tržnici.",
-      "translationEn": "Everyone spoke loudly in the market."
+      "translationEn": "Everyone spoke loudly in the market.",
+      "words": [
+        { "w": "يَتَكَلَّمُ", "root": "ك ل م", "bs": "govori", "en": "speaks" },
+        { "w": "صَوْتٍ", "root": "ص و ت", "bs": "glas", "en": "voice" },
+        { "w": "عَالٍ", "root": "ع ل و", "bs": "visok", "en": "loud" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "tržnica", "en": "the market" }
+      ]
     },
     {
       "arabic": "كَانَ الْأَطْفَالُ يُحِبُّونَ الذَّهَابَ إِلَى السُّوقِ.",
       "translation": "Djeca su voljela ići na tržnicu.",
-      "translationEn": "The children loved going to the market."
+      "translationEn": "The children loved going to the market.",
+      "words": [
+        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "the children" },
+        { "w": "يُحِبُّونَ", "root": "ح ب ب", "bs": "vole", "en": "love" },
+        { "w": "الذَّهَابَ", "root": "ذ ه ب", "bs": "odlazak", "en": "going" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "tržnica", "en": "the market" }
+      ]
     }
   ],
   "metadata": {

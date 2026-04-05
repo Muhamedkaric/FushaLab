@@ -6,26 +6,116 @@
     {
       "arabic": "أَقَامَتِ الْمَكْتَبَةُ الْعَامَّةُ مَعْرِضًا لِلْكُتُبِ.",
       "translation": "Javna biblioteka organizovala je izložbu knjiga.",
-      "translationEn": "The public library held a book exhibition."
+      "translationEn": "The public library held a book exhibition.",
+      "words": [
+        {
+          "w": "الْمَكْتَبَةُ",
+          "root": "ك ت ب",
+          "bs": "biblioteka",
+          "en": "library"
+        },
+        {
+          "w": "مَعْرِضًا",
+          "root": "ع ر ض",
+          "bs": "izložbu",
+          "en": "exhibition"
+        },
+        {
+          "w": "لِلْكُتُبِ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "books"
+        }
+      ]
     },
     {
       "arabic": "عَرَضَتِ الْمَكْتَبَةُ أَكْثَرَ مِنْ مِئَةِ كِتَابٍ جَدِيدٍ.",
       "translation": "Biblioteka je izložila više od sto novih knjiga.",
-      "translationEn": "The library displayed more than one hundred new books."
+      "translationEn": "The library displayed more than one hundred new books.",
+      "words": [
+        {
+          "w": "عَرَضَتِ",
+          "root": "ع ر ض",
+          "bs": "izložila je",
+          "en": "displayed"
+        },
+        {
+          "w": "كِتَابٍ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book"
+        },
+        {
+          "w": "جَدِيدٍ",
+          "root": "ج د د",
+          "bs": "novih",
+          "en": "new"
+        }
+      ]
     },
     {
       "arabic": "تَحَدَّثَ كَاتِبٌ مَشْهُورٌ أَمَامَ الزُّوَّارِ.",
       "translation": "Poznati pisac govorio je pred posjetiocima.",
-      "translationEn": "A famous author spoke in front of the visitors."
+      "translationEn": "A famous author spoke in front of the visitors.",
+      "words": [
+        {
+          "w": "تَحَدَّثَ",
+          "root": "ح د ث",
+          "bs": "govorio je",
+          "en": "spoke"
+        },
+        {
+          "w": "كَاتِبٌ",
+          "root": "ك ت ب",
+          "bs": "pisac",
+          "en": "author"
+        },
+        {
+          "w": "مَشْهُورٌ",
+          "root": "ش ه ر",
+          "bs": "poznati",
+          "en": "famous"
+        },
+        {
+          "w": "الزُّوَّارِ",
+          "root": "ز و ر",
+          "bs": "posjetiocima",
+          "en": "visitors"
+        }
+      ]
     },
     {
       "arabic": "اشْتَرَى كَثِيرٌ مِنَ الزُّوَّارِ كُتُبًا وَذَهَبُوا سُعَدَاءَ.",
       "translation": "Mnogi posjetioci kupili su knjige i otišli sretni.",
-      "translationEn": "Many visitors bought books and left happy."
+      "translationEn": "Many visitors bought books and left happy.",
+      "words": [
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought"
+        },
+        {
+          "w": "كُتُبًا",
+          "root": "ك ت ب",
+          "bs": "knjige",
+          "en": "books"
+        },
+        {
+          "w": "سُعَدَاءَ",
+          "root": "س ع د",
+          "bs": "sretni",
+          "en": "happy"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["books", "library", "culture"]
+    "tags": [
+      "books",
+      "library",
+      "culture"
+    ]
   }
 }

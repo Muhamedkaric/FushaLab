@@ -6,22 +6,48 @@
     {
       "arabic": "ذَهَبَ عَلِيٌّ إِلَى الْبَقَّالَةِ لِيَشْتَرِيَ الْحَلِيبَ.",
       "translation": "Ali je otišao u prodavnicu da kupi mlijeko.",
-      "translationEn": "Ali went to the grocery store to buy milk."
+      "translationEn": "Ali went to the grocery store to buy milk.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "الْبَقَّالَةِ", "root": "ب ق ل", "bs": "prodavnica/bakala", "en": "grocery store" },
+        { "w": "لِيَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "الْحَلِيبَ", "root": "ح ل ب", "bs": "mlijeko", "en": "milk" }
+      ]
     },
     {
       "arabic": "أَخَذَ أَيْضًا زُبْدَةً وَبَيْضًا وَعَصِيرَ بُرْتُقَالٍ.",
       "translation": "Uzeo je i maslac, jaja i sok od narandže.",
-      "translationEn": "He also took butter, eggs, and orange juice."
+      "translationEn": "He also took butter, eggs, and orange juice.",
+      "words": [
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "زُبْدَةً", "root": "ز ب د", "bs": "maslac", "en": "butter" },
+        { "w": "بَيْضًا", "root": "ب ي ض", "bs": "jaja", "en": "eggs" },
+        { "w": "عَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "بُرْتُقَالٍ", "root": "ب ر ت ق", "bs": "narandža/pomorandža", "en": "orange" }
+      ]
     },
     {
       "arabic": "دَفَعَ الثَّمَنَ وَخَرَجَ مِنَ الْمَتْجَرِ.",
       "translation": "Platio je i izašao iz prodavnice.",
-      "translationEn": "He paid and left the store."
+      "translationEn": "He paid and left the store.",
+      "words": [
+        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
+        { "w": "الثَّمَنَ", "root": "ث م ن", "bs": "cijena/iznos", "en": "price/amount" },
+        { "w": "خَرَجَ", "root": "خ ر ج", "bs": "izašao je", "en": "left/exited" },
+        { "w": "الْمَتْجَرِ", "root": "ت ج ر", "bs": "prodavnica/dućan", "en": "store/shop" }
+      ]
     },
     {
       "arabic": "رَجَعَ إِلَى الْبَيْتِ وَوَضَعَ الْأَشْيَاءَ فِي الثَّلَّاجَةِ.",
       "translation": "Vratio se kući i stavio stvari u frižider.",
-      "translationEn": "He returned home and put the items in the fridge."
+      "translationEn": "He returned home and put the items in the fridge.",
+      "words": [
+        { "w": "رَجَعَ", "root": "ر ج ع", "bs": "vratio se", "en": "returned" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "home" },
+        { "w": "وَضَعَ", "root": "و ض ع", "bs": "stavio je", "en": "put" },
+        { "w": "الْأَشْيَاءَ", "root": "ش ي أ", "bs": "stvari/namirnice", "en": "items/things" },
+        { "w": "الثَّلَّاجَةِ", "root": "ث ل ج", "bs": "frižider/hladnjak", "en": "fridge/refrigerator" }
+      ]
     }
   ],
   "metadata": {

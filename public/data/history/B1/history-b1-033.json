@@ -6,22 +6,44 @@
     {
       "arabic": "كَانَتِ الأُمُّ تَحْمِلُ الطِّفْلَ عَلَى ظَهْرِهَا وَتَعْمَلُ.",
       "translation": "Majka je nosila dijete na leđima i radila.",
-      "translationEn": "The mother used to carry the child on her back and work."
+      "translationEn": "The mother used to carry the child on her back and work.",
+      "words": [
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "the mother" },
+        { "w": "تَحْمِلُ", "root": "ح م ل", "bs": "nosi", "en": "carries" },
+        { "w": "الطِّفْلَ", "root": "ط ف ل", "bs": "dijete", "en": "the child" },
+        { "w": "ظَهْرِهَا", "root": "ظ ه ر", "bs": "njene leđa", "en": "her back" },
+        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" }
+      ]
     },
     {
       "arabic": "كَانَتْ تَزْرَعُ الأَرْضَ وَتَجْمَعُ الثِّمَارَ.",
       "translation": "Obrađivala je zemlju i skupljala voće.",
-      "translationEn": "She would cultivate the land and gather fruits."
+      "translationEn": "She would cultivate the land and gather fruits.",
+      "words": [
+        { "w": "تَزْرَعُ", "root": "ز ر ع", "bs": "obrađuje", "en": "cultivates" },
+        { "w": "الأَرْضَ", "root": "أ ر ض", "bs": "zemlju", "en": "the land" },
+        { "w": "تَجْمَعُ", "root": "ج م ع", "bs": "skuplja", "en": "gathers" },
+        { "w": "الثِّمَارَ", "root": "ث م ر", "bs": "voće", "en": "fruits" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْمَرْأَةُ قَوِيَّةً وَتَعْمَلُ كُلَّ يَوْمٍ.",
       "translation": "Žena je bila snažna i radila je svaki dan.",
-      "translationEn": "The woman was strong and worked every day."
+      "translationEn": "The woman was strong and worked every day.",
+      "words": [
+        { "w": "الْمَرْأَةُ", "root": "م ر أ", "bs": "žena", "en": "the woman" },
+        { "w": "قَوِيَّةً", "root": "ق و ي", "bs": "snažna", "en": "strong" },
+        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْأُسْرَةُ تَعْتَمِدُ عَلَيْهَا كَثِيرًا.",
       "translation": "Porodica se jako oslanjala na nju.",
-      "translationEn": "The family depended on her a great deal."
+      "translationEn": "The family depended on her a great deal.",
+      "words": [
+        { "w": "الْأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "the family" },
+        { "w": "تَعْتَمِدُ", "root": "ع م د", "bs": "oslanja se", "en": "depends" }
+      ]
     }
   ],
   "metadata": {

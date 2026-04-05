@@ -6,22 +6,46 @@
     {
       "arabic": "يَقُولُ النَّاسُ: «الْوَقْتُ كَالسَّيْفِ إِنْ لَمْ تَقْطَعْهُ قَطَعَكَ».",
       "translation": "Ljudi kažu: «Vrijeme je poput mača; ako ga ne odrežeš, ono će odrezati tebe».",
-      "translationEn": "People say: «Time is like a sword; if you do not cut it, it will cut you»."
+      "translationEn": "People say: «Time is like a sword; if you do not cut it, it will cut you».",
+      "words": [
+        { "w": "الْوَقْتُ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "السَّيْفِ", "root": "س ي ف", "bs": "mač", "en": "sword" },
+        { "w": "تَقْطَعْهُ", "root": "ق ط ع", "bs": "odrežeš ga", "en": "cut it" },
+        { "w": "قَطَعَكَ", "root": "ق ط ع", "bs": "odrezao te", "en": "cut you" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الْوَقْتَ ثَمِينٌ وَيَجِبُ أَنْ نَسْتَخْدِمَهُ جَيِّدًا.",
       "translation": "To znači da je vrijeme dragocjeno i da ga moramo dobro koristiti.",
-      "translationEn": "This means that time is precious and we must use it well."
+      "translationEn": "This means that time is precious and we must use it well.",
+      "words": [
+        { "w": "الْوَقْتَ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "ثَمِينٌ", "root": "ث م ن", "bs": "dragocjeno", "en": "precious" },
+        { "w": "نَسْتَخْدِمَهُ", "root": "خ د م", "bs": "koristimo ga", "en": "use it" }
+      ]
     },
     {
       "arabic": "نَسِيَ عُمَرُ مَوْعِدَ الِاجْتِمَاعِ لِأَنَّهُ لَمْ يُنَظِّمْ وَقْتَهُ.",
       "translation": "Omar je zaboravio termin sastanka jer nije organizovao svoje vrijeme.",
-      "translationEn": "Omar forgot the meeting time because he did not organize his time."
+      "translationEn": "Omar forgot the meeting time because he did not organize his time.",
+      "words": [
+        { "w": "نَسِيَ", "root": "ن س ي", "bs": "zaboravio je", "en": "forgot" },
+        { "w": "مَوْعِدَ", "root": "و ع د", "bs": "termin", "en": "appointment" },
+        { "w": "الِاجْتِمَاعِ", "root": "ج م ع", "bs": "sastanak", "en": "meeting" },
+        { "w": "يُنَظِّمْ", "root": "ن ظ م", "bs": "organizovao", "en": "organize" },
+        { "w": "وَقْتَهُ", "root": "و ق ت", "bs": "njegovo vrijeme", "en": "his time" }
+      ]
     },
     {
       "arabic": "بَدَأَ بَعْدَ ذَلِكَ يَكْتُبُ مَوَاعِيدَهُ فِي دَفْتَرٍ صَغِيرٍ.",
       "translation": "Nakon toga je počeo zapisivati termine u malu bilježnicu.",
-      "translationEn": "After that he started writing his appointments in a small notebook."
+      "translationEn": "After that he started writing his appointments in a small notebook.",
+      "words": [
+        { "w": "يَكْتُبُ", "root": "ك ت ب", "bs": "zapisuje", "en": "writing" },
+        { "w": "مَوَاعِيدَهُ", "root": "و ع د", "bs": "termine", "en": "appointments" },
+        { "w": "دَفْتَرٍ", "root": "د ف ت ر", "bs": "bilježnica", "en": "notebook" },
+        { "w": "صَغِيرٍ", "root": "ص غ ر", "bs": "mala", "en": "small" }
+      ]
     }
   ],
   "metadata": {

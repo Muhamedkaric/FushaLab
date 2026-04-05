@@ -6,22 +6,47 @@
     {
       "arabic": "فِي رَأْيِي، الِاسْتِمَاعُ أَهَمُّ مِنَ الْكَلَامِ.",
       "translation": "Po mom mišljenju, slušanje je važnije od govora.",
-      "translationEn": "In my opinion, listening is more important than speaking."
+      "translationEn": "In my opinion, listening is more important than speaking.",
+      "words": [
+        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "mišljenju", "en": "opinion" },
+        { "w": "الِاسْتِمَاعُ", "root": "س م ع", "bs": "slušanje", "en": "listening" },
+        { "w": "أَهَمُّ", "root": "ه م م", "bs": "važnije", "en": "more important" },
+        { "w": "الْكَلَامِ", "root": "ك ل م", "bs": "govora", "en": "speaking" }
+      ]
     },
     {
       "arabic": "حِينَ تَسْمَعُ جَيِّدًا تَفْهَمُ النَّاسَ أَكْثَرَ.",
       "translation": "Kada dobro slušaš, bolje razumiješ ljude.",
-      "translationEn": "When you listen well you understand people more."
+      "translationEn": "When you listen well you understand people more.",
+      "words": [
+        { "w": "تَسْمَعُ", "root": "س م ع", "bs": "slušaš", "en": "you listen" },
+        { "w": "جَيِّدًا", "root": "ج و د", "bs": "dobro", "en": "well" },
+        { "w": "تَفْهَمُ", "root": "ف ه م", "bs": "razumiješ", "en": "you understand" },
+        { "w": "النَّاسَ", "root": "ن و س", "bs": "ljude", "en": "people" },
+        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "bolje/više", "en": "more" }
+      ]
     },
     {
       "arabic": "كَثِيرٌ مِنَ الْمَشَاكِلِ تَحِلُّ حِينَ يَسْمَعُ كُلُّ شَخْصٍ الْآخَرَ.",
       "translation": "Mnogi problemi se rješavaju kada svako sluša drugoga.",
-      "translationEn": "Many problems are solved when every person listens to the other."
+      "translationEn": "Many problems are solved when every person listens to the other.",
+      "words": [
+        { "w": "الْمَشَاكِلِ", "root": "ش ك ل", "bs": "problemi", "en": "problems" },
+        { "w": "تَحِلُّ", "root": "ح ل ل", "bs": "rješavaju se", "en": "are solved" },
+        { "w": "يَسْمَعُ", "root": "س م ع", "bs": "sluša", "en": "listens" },
+        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "svako", "en": "person" }
+      ]
     },
     {
       "arabic": "أُحَاوِلُ أَنْ أَسْتَمِعَ بِاهْتِمَامٍ حِينَ يَتَحَدَّثُ أَحَدٌ مَعِي.",
       "translation": "Trudim se pažljivo slušati kada mi neko govori.",
-      "translationEn": "I try to listen attentively when someone speaks to me."
+      "translationEn": "I try to listen attentively when someone speaks to me.",
+      "words": [
+        { "w": "أُحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
+        { "w": "أَسْتَمِعَ", "root": "س م ع", "bs": "slušati", "en": "to listen" },
+        { "w": "بِاهْتِمَامٍ", "root": "ه م م", "bs": "pažljivo", "en": "attentively" },
+        { "w": "يَتَحَدَّثُ", "root": "ح د ث", "bs": "govori", "en": "speaks" }
+      ]
     }
   ],
   "metadata": {

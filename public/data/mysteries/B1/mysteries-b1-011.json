@@ -6,27 +6,51 @@
     {
       "arabic": "وَجَدَتْ هَنَاءُ وَرْدَةً حَمْرَاءَ عَلَى بَابِ غُرْفَتِهَا.",
       "translation": "Hana je pronašla crvenu ružu na vratima svoje sobe.",
-      "translationEn": "Hana found a red rose on her bedroom door."
+      "translationEn": "Hana found a red rose on her bedroom door.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "وَرْدَةً", "root": "و ر د", "bs": "ružu", "en": "rose" },
+        { "w": "حَمْرَاءَ", "root": "ح م ر", "bs": "crvenu", "en": "red" },
+        { "w": "غُرْفَتِهَا", "root": "غ ر ف", "bs": "sobu", "en": "her room" }
+      ]
     },
     {
       "arabic": "لَمْ تَعْرِفْ مَنْ وَضَعَهَا هُنَاكَ.",
       "translation": "Nije znala ko ju je tamo stavio.",
-      "translationEn": "She did not know who had put it there."
+      "translationEn": "She did not know who had put it there.",
+      "words": [
+        { "w": "تَعْرِفْ", "root": "ع ر ف", "bs": "znala je", "en": "she knew" },
+        { "w": "وَضَعَهَا", "root": "و ض ع", "bs": "stavio je", "en": "had put it" }
+      ]
     },
     {
       "arabic": "سَأَلَتْ كُلَّ أَفْرَادِ عَائِلَتِهَا.",
       "translation": "Pitala je sve ukućane.",
-      "translationEn": "She asked every member of her family."
+      "translationEn": "She asked every member of her family.",
+      "words": [
+        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "she asked" },
+        { "w": "أَفْرَادِ", "root": "ف ر د", "bs": "članove", "en": "members" },
+        { "w": "عَائِلَتِهَا", "root": "ع ي ل", "bs": "porodice", "en": "her family" }
+      ]
     },
     {
       "arabic": "قَالُوا جَمِيعًا: لَيْسَ نَحْنُ.",
       "translation": "Svi su rekli: Nismo mi.",
-      "translationEn": "They all said: It was not us."
+      "translationEn": "They all said: It was not us.",
+      "words": [
+        { "w": "قَالُوا", "root": "ق و ل", "bs": "rekli su", "en": "they said" }
+      ]
     },
     {
       "arabic": "بَعْدَ يَوْمٍ اعْتَرَفَتْ صَدِيقَتُهَا بِأَنَّهَا وَضَعَتِ الْوَرْدَةَ.",
       "translation": "Dan nakon toga njena prijateljica je priznala da je stavila ružu.",
-      "translationEn": "A day later her friend admitted that she had put the rose."
+      "translationEn": "A day later her friend admitted that she had put the rose.",
+      "words": [
+        { "w": "اعْتَرَفَتْ", "root": "ع ر ف", "bs": "priznala je", "en": "she admitted" },
+        { "w": "صَدِيقَتُهَا", "root": "ص د ق", "bs": "prijateljica", "en": "her friend" },
+        { "w": "وَضَعَتِ", "root": "و ض ع", "bs": "stavila je", "en": "she had put" },
+        { "w": "الْوَرْدَةَ", "root": "و ر د", "bs": "ružu", "en": "the rose" }
+      ]
     }
   ],
   "metadata": {

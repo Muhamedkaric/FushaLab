@@ -6,22 +6,43 @@
     {
       "arabic": "غَادَرَتِ الْعَائِلَةُ الْفُنْدُقَ فِي الصَّبَاحِ.",
       "translation": "Porodica je napustila hotel ujutro.",
-      "translationEn": "The family checked out of the hotel in the morning."
+      "translationEn": "The family checked out of the hotel in the morning.",
+      "words": [
+        { "w": "غَادَرَتِ", "root": "غ د ر", "bs": "napustila je / otišla je", "en": "left / checked out" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "الْفُنْدُقَ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "وَدَّعَهُمُ الْمُوَظِّفُ وَتَمَنَّى لَهُمُ السَّلَامَةَ.",
       "translation": "Službenik im se oprošten i poželio im sretan put.",
-      "translationEn": "The employee bid them farewell and wished them safety."
+      "translationEn": "The employee bid them farewell and wished them safety.",
+      "words": [
+        { "w": "وَدَّعَهُمُ", "root": "و د ع", "bs": "oprostio se od njih", "en": "bid farewell" },
+        { "w": "الْمُوَظِّفُ", "root": "و ظ ف", "bs": "službenik", "en": "employee" },
+        { "w": "السَّلَامَةَ", "root": "س ل م", "bs": "sigurnost / sretan put", "en": "safety" }
+      ]
     },
     {
       "arabic": "حَمَلُوا حَقَائِبَهُمْ وَذَهَبُوا إِلَى الْمَحَطَّةِ.",
       "translation": "Uzeli su torbe i otišli na stanicu.",
-      "translationEn": "They carried their bags and went to the station."
+      "translationEn": "They carried their bags and went to the station.",
+      "words": [
+        { "w": "حَمَلُوا", "root": "ح م ل", "bs": "nosili su", "en": "carried" },
+        { "w": "حَقَائِبَهُمْ", "root": "ح ق ب", "bs": "njihove torbe", "en": "their bags" },
+        { "w": "الْمَحَطَّةِ", "root": "ح ط ط", "bs": "stanica", "en": "station" }
+      ]
     },
     {
       "arabic": "كَانَتْ رِحْلَةً جَمِيلَةً لَنْ يَنْسَوْهَا.",
       "translation": "Bilo je to lijepo putovanje koje neće zaboraviti.",
-      "translationEn": "It was a beautiful trip they would never forget."
+      "translationEn": "It was a beautiful trip they would never forget.",
+      "words": [
+        { "w": "رِحْلَةً", "root": "ر ح ل", "bs": "putovanje", "en": "trip / journey" },
+        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijepo", "en": "beautiful" },
+        { "w": "يَنْسَوْهَا", "root": "ن س ي", "bs": "zaboraviti je", "en": "forget it" }
+      ]
     }
   ],
   "metadata": {

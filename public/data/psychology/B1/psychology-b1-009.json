@@ -6,22 +6,48 @@
     {
       "arabic": "غَضِبَ كَرِيمٌ حِينَ أَخَذَ أَخُوهُ لُعْبَتَهُ بِلَا إِذْنٍ.",
       "translation": "Karim se naljutio kada je brat uzeo njegovu igračku bez dozvole.",
-      "translationEn": "Karim got angry when his brother took his toy without permission."
+      "translationEn": "Karim got angry when his brother took his toy without permission.",
+      "words": [
+        { "w": "غَضِبَ", "root": "غ ض ب", "bs": "naljutio se", "en": "got angry" },
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "لُعْبَتَهُ", "root": "ل ع ب", "bs": "njegova igračka", "en": "his toy" },
+        { "w": "إِذْنٍ", "root": "أ ذ ن", "bs": "dozvola", "en": "permission" }
+      ]
     },
     {
       "arabic": "شَعَرَ بِحَرَارَةٍ فِي وَجْهِهِ وَرَفَعَ صَوْتَهُ.",
       "translation": "Osjetio je toplinu u licu i podigao glas.",
-      "translationEn": "He felt heat in his face and raised his voice."
+      "translationEn": "He felt heat in his face and raised his voice.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
+        { "w": "حَرَارَةٍ", "root": "ح ر ر", "bs": "toplina", "en": "heat" },
+        { "w": "وَجْهِهِ", "root": "و ج ه", "bs": "njegovo lice", "en": "his face" },
+        { "w": "رَفَعَ", "root": "ر ف ع", "bs": "podigao je", "en": "raised" },
+        { "w": "صَوْتَهُ", "root": "ص و ت", "bs": "glas", "en": "his voice" }
+      ]
     },
     {
       "arabic": "ثُمَّ أَخَذَ نَفَسًا وَتَكَلَّمَ بِهُدُوءٍ مَعَ أَخِيهِ.",
       "translation": "Zatim je udahnuo i mirno razgovarao s bratom.",
-      "translationEn": "Then he took a breath and spoke calmly with his brother."
+      "translationEn": "Then he took a breath and spoke calmly with his brother.",
+      "words": [
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "نَفَسًا", "root": "ن ف س", "bs": "dah", "en": "a breath" },
+        { "w": "تَكَلَّمَ", "root": "ك ل م", "bs": "razgovarao je", "en": "spoke" },
+        { "w": "هُدُوءٍ", "root": "ه د أ", "bs": "mirnoća", "en": "calmly" }
+      ]
     },
     {
       "arabic": "الْكَلَامُ الْهَادِئُ يَحُلُّ الْمَشَاكِلَ أَفْضَلَ مِنَ الصُّرَاخِ.",
       "translation": "Miran razgovor bolje rješava probleme od vikanja.",
-      "translationEn": "Calm speech solves problems better than shouting."
+      "translationEn": "Calm speech solves problems better than shouting.",
+      "words": [
+        { "w": "الْكَلَامُ", "root": "ك ل م", "bs": "razgovor", "en": "speech" },
+        { "w": "الْهَادِئُ", "root": "ه د أ", "bs": "miran", "en": "calm" },
+        { "w": "يَحُلُّ", "root": "ح ل ل", "bs": "rješava", "en": "solves" },
+        { "w": "الْمَشَاكِلَ", "root": "ش ك ل", "bs": "probleme", "en": "problems" },
+        { "w": "الصُّرَاخِ", "root": "ص ر خ", "bs": "vikanje", "en": "shouting" }
+      ]
     }
   ],
   "metadata": {

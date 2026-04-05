@@ -6,22 +6,46 @@
     {
       "arabic": "فِي رَأْيِي، الطَّبْخُ مَهَارَةٌ مُفِيدَةٌ يَجِبُ أَنْ يَتَعَلَّمَهَا كُلُّ شَخْصٍ.",
       "translation": "Po mom mišljenju, kuhanje je korisna vještina koju svaka osoba treba naučiti.",
-      "translationEn": "In my opinion, cooking is a useful skill that every person should learn."
+      "translationEn": "In my opinion, cooking is a useful skill that every person should learn.",
+      "words": [
+        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
+        { "w": "الطَّبْخُ", "root": "ط ب خ", "bs": "kuhanje", "en": "cooking" },
+        { "w": "مَهَارَةٌ", "root": "م ه ر", "bs": "vještina", "en": "skill" },
+        { "w": "مُفِيدَةٌ", "root": "ف ي د", "bs": "korisna", "en": "useful" }
+      ]
     },
     {
       "arabic": "مَنْ يَطْبُخُ يَسْتَطِيعُ الِاعْتِمَادَ عَلَى نَفْسِهِ.",
       "translation": "Ko zna kuhati može se osloniti na sebe.",
-      "translationEn": "A person who cooks can rely on themselves."
+      "translationEn": "A person who cooks can rely on themselves.",
+      "words": [
+        { "w": "يَطْبُخُ", "root": "ط ب خ", "bs": "kuha", "en": "cooks" },
+        { "w": "يَسْتَطِيعُ", "root": "ط و ع", "bs": "može", "en": "can" },
+        { "w": "الِاعْتِمَادَ", "root": "ع م د", "bs": "oslanjanje", "en": "to rely" },
+        { "w": "نَفْسِهِ", "root": "ن ف س", "bs": "sebe", "en": "themselves" }
+      ]
     },
     {
       "arabic": "الطَّبْخُ أَيْضًا نَشَاطٌ مُمْتِعٌ يُقَرِّبُ الْعَائِلَةَ.",
       "translation": "Kuhanje je i zabavna aktivnost koja zbližava porodicu.",
-      "translationEn": "Cooking is also an enjoyable activity that brings the family closer."
+      "translationEn": "Cooking is also an enjoyable activity that brings the family closer.",
+      "words": [
+        { "w": "الطَّبْخُ", "root": "ط ب خ", "bs": "kuhanje", "en": "cooking" },
+        { "w": "نَشَاطٌ", "root": "ن ش ط", "bs": "aktivnost", "en": "activity" },
+        { "w": "مُمْتِعٌ", "root": "م ت ع", "bs": "zabavna", "en": "enjoyable" },
+        { "w": "يُقَرِّبُ", "root": "ق ر ب", "bs": "zbližava", "en": "brings closer" }
+      ]
     },
     {
       "arabic": "أُحِبُّ أَنْ أُجَرِّبَ طَبَخَ أَطْبَاقٍ جَدِيدَةٍ.",
       "translation": "Volim isprobavati kuhanje novih jela.",
-      "translationEn": "I like trying to cook new dishes."
+      "translationEn": "I like trying to cook new dishes.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "أُجَرِّبَ", "root": "ج ر ب", "bs": "da isprobavam", "en": "trying" },
+        { "w": "طَبَخَ", "root": "ط ب خ", "bs": "kuhanje", "en": "to cook" },
+        { "w": "أَطْبَاقٍ", "root": "ط ب ق", "bs": "jela", "en": "dishes" }
+      ]
     }
   ],
   "metadata": {

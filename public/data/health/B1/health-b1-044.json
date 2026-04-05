@@ -6,26 +6,123 @@
     {
       "arabic": "تَحْرِصُ مَنَالٌ عَلَى شُرْبِ الْحَلِيبِ كُلَّ يَوْمٍ.",
       "translation": "Manal vodi brigu da svaki dan pije mlijeko.",
-      "translationEn": "Manal makes sure to drink milk every day."
+      "translationEn": "Manal makes sure to drink milk every day.",
+      "words": [
+        {
+          "w": "تَحْرِصُ",
+          "root": "ح ر ص",
+          "bs": "vodi brigu",
+          "en": "makes sure"
+        },
+        {
+          "w": "شُرْبِ",
+          "root": "ش ر ب",
+          "bs": "pijenja",
+          "en": "drinking"
+        },
+        {
+          "w": "الْحَلِيبِ",
+          "root": "ح ل ب",
+          "bs": "mlijeko",
+          "en": "milk"
+        }
+      ]
     },
     {
       "arabic": "تَعْلَمُ أَنَّ الْحَلِيبَ يُقَوِّي الْعِظَامَ وَالْأَسْنَانَ.",
       "translation": "Zna da mlijeko jača kosti i zube.",
-      "translationEn": "She knows that milk strengthens bones and teeth."
+      "translationEn": "She knows that milk strengthens bones and teeth.",
+      "words": [
+        {
+          "w": "تَعْلَمُ",
+          "root": "ع ل م",
+          "bs": "zna",
+          "en": "knows"
+        },
+        {
+          "w": "الْحَلِيبَ",
+          "root": "ح ل ب",
+          "bs": "mlijeko",
+          "en": "milk"
+        },
+        {
+          "w": "يُقَوِّي",
+          "root": "ق و ي",
+          "bs": "jača",
+          "en": "strengthens"
+        },
+        {
+          "w": "الْعِظَامَ",
+          "root": "ع ظ م",
+          "bs": "kosti",
+          "en": "bones"
+        },
+        {
+          "w": "الْأَسْنَانَ",
+          "root": "س ن ن",
+          "bs": "zube",
+          "en": "teeth"
+        }
+      ]
     },
     {
       "arabic": "تَشْرَبُهُ فِي الصَّبَاحِ مَعَ الْإِفْطَارِ.",
       "translation": "Pije ga ujutro uz doručak.",
-      "translationEn": "She drinks it in the morning with breakfast."
+      "translationEn": "She drinks it in the morning with breakfast.",
+      "words": [
+        {
+          "w": "تَشْرَبُهُ",
+          "root": "ش ر ب",
+          "bs": "pije ga",
+          "en": "drinks it"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning"
+        },
+        {
+          "w": "الْإِفْطَارِ",
+          "root": "ف ط ر",
+          "bs": "doručak",
+          "en": "breakfast"
+        }
+      ]
     },
     {
       "arabic": "أَحْيَانًا تُضِيفُ إِلَيْهِ قَلِيلًا مِنَ الْعَسَلِ.",
       "translation": "Ponekad dodaje malo meda u njega.",
-      "translationEn": "Sometimes she adds a little honey to it."
+      "translationEn": "Sometimes she adds a little honey to it.",
+      "words": [
+        {
+          "w": "تُضِيفُ",
+          "root": "ض ي ف",
+          "bs": "dodaje",
+          "en": "adds"
+        },
+        {
+          "w": "قَلِيلًا",
+          "root": "ق ل ل",
+          "bs": "malo",
+          "en": "a little"
+        },
+        {
+          "w": "الْعَسَلِ",
+          "root": "ع س ل",
+          "bs": "med",
+          "en": "honey"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["milk", "calcium", "bones", "breakfast"]
+    "tags": [
+      "milk",
+      "calcium",
+      "bones",
+      "breakfast"
+    ]
   }
 }

@@ -6,26 +6,141 @@
     {
       "arabic": "عَطَسَ زَيْدٌ كَثِيرًا فِي الصَّبَاحِ وَسَالَ أَنْفُهُ.",
       "translation": "Zejd je puno kihao ujutro i curdio mu nos.",
-      "translationEn": "Zayd sneezed a lot in the morning and his nose ran."
+      "translationEn": "Zayd sneezed a lot in the morning and his nose ran.",
+      "words": [
+        {
+          "w": "عَطَسَ",
+          "root": "ع ط س",
+          "bs": "kihao je",
+          "en": "sneezed"
+        },
+        {
+          "w": "سَالَ",
+          "root": "س ي ل",
+          "bs": "curio je",
+          "en": "ran"
+        },
+        {
+          "w": "أَنْفُهُ",
+          "root": "أ ن ف",
+          "bs": "nos",
+          "en": "nose"
+        }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَى الصَّيْدَلِيَّةِ وَطَلَبَ دَوَاءً لِلْأَنْفِ.",
       "translation": "Otišao je u apoteku i tražio lijek za nos.",
-      "translationEn": "He went to the pharmacy and asked for nose medicine."
+      "translationEn": "He went to the pharmacy and asked for nose medicine.",
+      "words": [
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went"
+        },
+        {
+          "w": "الصَّيْدَلِيَّةِ",
+          "root": "ص ي د",
+          "bs": "apoteka",
+          "en": "pharmacy"
+        },
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "tražio je",
+          "en": "asked for"
+        },
+        {
+          "w": "دَوَاءً",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "لِلْأَنْفِ",
+          "root": "أ ن ف",
+          "bs": "za nos",
+          "en": "for nose"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ الصَّيْدَلَانِيُّ قَطَرَاتٍ لِلْأَنْفِ.",
       "translation": "Farmaceut mu je dao kapi za nos.",
-      "translationEn": "The pharmacist gave him nose drops."
+      "translationEn": "The pharmacist gave him nose drops.",
+      "words": [
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط ي",
+          "bs": "dao mu je",
+          "en": "gave him"
+        },
+        {
+          "w": "الصَّيْدَلَانِيُّ",
+          "root": "ص ي د",
+          "bs": "farmaceut",
+          "en": "pharmacist"
+        },
+        {
+          "w": "قَطَرَاتٍ",
+          "root": "ق ط ر",
+          "bs": "kapi",
+          "en": "drops"
+        },
+        {
+          "w": "لِلْأَنْفِ",
+          "root": "أ ن ف",
+          "bs": "za nos",
+          "en": "for nose"
+        }
+      ]
     },
     {
       "arabic": "اسْتَخْدَمَهَا وَشَعَرَ بِتَحَسُّنٍ خِلَالَ سَاعَاتٍ.",
       "translation": "Koristio ih je i osjetio poboljšanje za nekoliko sati.",
-      "translationEn": "He used them and felt improvement within hours."
+      "translationEn": "He used them and felt improvement within hours.",
+      "words": [
+        {
+          "w": "اسْتَخْدَمَهَا",
+          "root": "خ د م",
+          "bs": "koristio ih je",
+          "en": "used them"
+        },
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio je",
+          "en": "felt"
+        },
+        {
+          "w": "بِتَحَسُّنٍ",
+          "root": "ح س ن",
+          "bs": "poboljšanje",
+          "en": "improvement"
+        },
+        {
+          "w": "خِلَالَ",
+          "root": "خ ل ل",
+          "bs": "tokom",
+          "en": "within"
+        },
+        {
+          "w": "سَاعَاتٍ",
+          "root": "س ا ع",
+          "bs": "sati",
+          "en": "hours"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cold", "runny nose", "pharmacy", "drops"]
+    "tags": [
+      "cold",
+      "runny nose",
+      "pharmacy",
+      "drops"
+    ]
   }
 }

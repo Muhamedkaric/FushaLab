@@ -6,22 +6,120 @@
     {
       "arabic": "يُحِبُّ إِبْرَاهِيمُ أَنْ يُسَاعِدَ جِيرَانَهُ.",
       "translation": "Ibrahim voli pomagati komšijama.",
-      "translationEn": "Ibrahim loves to help his neighbors."
+      "translationEn": "Ibrahim loves to help his neighbors.",
+      "words": [
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "loves"
+        },
+        {
+          "w": "يُسَاعِدَ",
+          "root": "س ع د",
+          "bs": "pomagati",
+          "en": "to help"
+        },
+        {
+          "w": "جِيرَانَهُ",
+          "root": "ج و ر",
+          "bs": "komšijama",
+          "en": "his neighbors"
+        }
+      ]
     },
     {
       "arabic": "يَحْمِلُ الْأَشْيَاءَ الثَّقِيلَةَ لِلشَّيْخِ الْكَبِيرِ.",
       "translation": "Nosi teške stvari starcu.",
-      "translationEn": "He carries heavy things for the elderly man."
+      "translationEn": "He carries heavy things for the elderly man.",
+      "words": [
+        {
+          "w": "يَحْمِلُ",
+          "root": "ح م ل",
+          "bs": "nosi",
+          "en": "carries"
+        },
+        {
+          "w": "الْأَشْيَاءَ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "things"
+        },
+        {
+          "w": "الثَّقِيلَةَ",
+          "root": "ث ق ل",
+          "bs": "teške",
+          "en": "heavy"
+        },
+        {
+          "w": "لِلشَّيْخِ",
+          "root": "ش ي خ",
+          "bs": "starcu",
+          "en": "for the elderly man"
+        },
+        {
+          "w": "الْكَبِيرِ",
+          "root": "ك ب ر",
+          "bs": "starom",
+          "en": "old"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ: مُسَاعَدَةُ الْجَارِ مِنَ الدِّينِ.",
       "translation": "Kaže: Pomaganje komšiji je dio vjere.",
-      "translationEn": "He says: Helping the neighbor is part of the religion."
+      "translationEn": "He says: Helping the neighbor is part of the religion.",
+      "words": [
+        {
+          "w": "مُسَاعَدَةُ",
+          "root": "س ع د",
+          "bs": "pomaganje",
+          "en": "helping"
+        },
+        {
+          "w": "الْجَارِ",
+          "root": "ج و ر",
+          "bs": "komšiji",
+          "en": "the neighbor"
+        },
+        {
+          "w": "الدِّينِ",
+          "root": "د ي ن",
+          "bs": "vjere",
+          "en": "the religion"
+        }
+      ]
     },
     {
       "arabic": "يَشْعُرُ بِالسَّعَادَةِ حِينَ يَفْعَلُ الْخَيْرَ.",
       "translation": "Osjeća sreću kad čini dobro.",
-      "translationEn": "He feels happy when he does good."
+      "translationEn": "He feels happy when he does good.",
+      "words": [
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća",
+          "en": "feels"
+        },
+        {
+          "w": "بِالسَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sreću",
+          "en": "happy"
+        },
+        {
+          "w": "يَفْعَلُ",
+          "root": "ف ع ل",
+          "bs": "čini",
+          "en": "does"
+        },
+        {
+          "w": "الْخَيْرَ",
+          "root": "خ ي ر",
+          "bs": "dobro",
+          "en": "good"
+        }
+      ]
     }
   ],
   "metadata": {

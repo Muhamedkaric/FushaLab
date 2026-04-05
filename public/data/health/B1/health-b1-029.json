@@ -6,26 +6,129 @@
     {
       "arabic": "يَرْكَبُ إِبْرَاهِيمُ الدَّرَّاجَةَ لِلذِّهَابِ إِلَى الْعَمَلِ.",
       "translation": "Ibrahim vozi bicikl na posao.",
-      "translationEn": "Ibrahim rides the bicycle to work."
+      "translationEn": "Ibrahim rides the bicycle to work.",
+      "words": [
+        {
+          "w": "يَرْكَبُ",
+          "root": "ر ك ب",
+          "bs": "vozi",
+          "en": "rides"
+        },
+        {
+          "w": "الدَّرَّاجَةَ",
+          "root": "د ر ج",
+          "bs": "bicikl",
+          "en": "bicycle"
+        },
+        {
+          "w": "لِلذِّهَابِ",
+          "root": "ذ ه ب",
+          "bs": "za odlazak",
+          "en": "to go"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ إِنَّ ذَلِكَ يُوَفِّرُ الْوَقْتَ وَيُفِيدُ الصِّحَّةَ.",
       "translation": "Kaže da to štedi vrijeme i koristi zdravlju.",
-      "translationEn": "He says that this saves time and benefits health."
+      "translationEn": "He says that this saves time and benefits health.",
+      "words": [
+        {
+          "w": "يُوَفِّرُ",
+          "root": "و ف ر",
+          "bs": "štedi",
+          "en": "saves"
+        },
+        {
+          "w": "الْوَقْتَ",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "time"
+        },
+        {
+          "w": "يُفِيدُ",
+          "root": "ف ي د",
+          "bs": "koristi",
+          "en": "benefits"
+        },
+        {
+          "w": "الصِّحَّةَ",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health"
+        }
+      ]
     },
     {
       "arabic": "يَصِلُ إِلَى الْعَمَلِ فِي عِشْرِينَ دَقِيقَةً بِالدَّرَّاجَةِ.",
       "translation": "Stiže na posao za dvadeset minuta biciklom.",
-      "translationEn": "He arrives at work in twenty minutes by bicycle."
+      "translationEn": "He arrives at work in twenty minutes by bicycle.",
+      "words": [
+        {
+          "w": "يَصِلُ",
+          "root": "و ص ل",
+          "bs": "stiže",
+          "en": "arrives"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work"
+        },
+        {
+          "w": "دَقِيقَةً",
+          "root": "د ق ق",
+          "bs": "minuta",
+          "en": "minutes"
+        },
+        {
+          "w": "بِالدَّرَّاجَةِ",
+          "root": "د ر ج",
+          "bs": "biciklom",
+          "en": "by bicycle"
+        }
+      ]
     },
     {
       "arabic": "أَصْدِقَاؤُهُ بَدَأُوا يَفْعَلُونَ نَفْسَ الشَّيْءِ بَعْدَ أَنْ رَأَوْهُ.",
       "translation": "Prijatelji su počeli raditi isto nakon što su ga vidjeli.",
-      "translationEn": "His friends started doing the same after they saw him."
+      "translationEn": "His friends started doing the same after they saw him.",
+      "words": [
+        {
+          "w": "أَصْدِقَاؤُهُ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends"
+        },
+        {
+          "w": "بَدَأُوا",
+          "root": "ب د أ",
+          "bs": "počeli su",
+          "en": "started"
+        },
+        {
+          "w": "يَفْعَلُونَ",
+          "root": "ف ع ل",
+          "bs": "rade",
+          "en": "doing"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["bicycle", "exercise", "commute", "healthy habits"]
+    "tags": [
+      "bicycle",
+      "exercise",
+      "commute",
+      "healthy habits"
+    ]
   }
 }

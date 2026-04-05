@@ -6,31 +6,165 @@
     {
       "arabic": "تُحِبُّ رَنَا اللُّغَةَ العَرَبِيَّةَ أَكْثَرَ مِنْ كُلِّ المَوَادِّ.",
       "translation": "Rana voli arapski jezik više od svih predmeta.",
-      "translationEn": "Rana loves Arabic more than all other subjects."
+      "translationEn": "Rana loves Arabic more than all other subjects.",
+      "words": [
+        {
+          "w": "تُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "loves"
+        },
+        {
+          "w": "اللُّغَةَ",
+          "root": "ل غ و",
+          "bs": "jezik",
+          "en": "language"
+        },
+        {
+          "w": "العَرَبِيَّةَ",
+          "root": "ع ر ب",
+          "bs": "arapski",
+          "en": "Arabic"
+        },
+        {
+          "w": "المَوَادِّ",
+          "root": "م و د",
+          "bs": "predmeti",
+          "en": "subjects"
+        }
+      ]
     },
     {
       "arabic": "تَقْرَأُ كُلَّ يَوْمٍ كَلِمَاتٍ جَدِيدَةً وَتَكْتُبُهَا.",
       "translation": "Svaki dan čita nove riječi i piše ih.",
-      "translationEn": "She reads new words every day and writes them."
+      "translationEn": "She reads new words every day and writes them.",
+      "words": [
+        {
+          "w": "تَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "reads"
+        },
+        {
+          "w": "كَلِمَاتٍ",
+          "root": "ك ل م",
+          "bs": "riječi",
+          "en": "words"
+        },
+        {
+          "w": "جَدِيدَةً",
+          "root": "ج د د",
+          "bs": "nove",
+          "en": "new"
+        },
+        {
+          "w": "تَكْتُبُهَا",
+          "root": "ك ت ب",
+          "bs": "piše ih",
+          "en": "writes them"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَتِ المُعَلِّمَةَ عَنْ مَعْنَى كَلِمَةٍ لَمْ تَفْهَمْهَا.",
       "translation": "Pitala je nastavnicu o značenju riječi koju nije razumjela.",
-      "translationEn": "She asked the teacher about the meaning of a word she did not understand."
+      "translationEn": "She asked the teacher about the meaning of a word she did not understand.",
+      "words": [
+        {
+          "w": "سَأَلَتِ",
+          "root": "س أ ل",
+          "bs": "pitala",
+          "en": "asked"
+        },
+        {
+          "w": "المُعَلِّمَةَ",
+          "root": "ع ل م",
+          "bs": "nastavnicu",
+          "en": "teacher"
+        },
+        {
+          "w": "مَعْنَى",
+          "root": "ع ن ي",
+          "bs": "značenje",
+          "en": "meaning"
+        },
+        {
+          "w": "كَلِمَةٍ",
+          "root": "ك ل م",
+          "bs": "riječ",
+          "en": "word"
+        }
+      ]
     },
     {
       "arabic": "شَرَحَتِ المُعَلِّمَةُ الكَلِمَةَ وَكَتَبَتْهَا عَلَى السَّبُّورَةِ.",
       "translation": "Nastavnica je objasnila riječ i napisala je na tabli.",
-      "translationEn": "The teacher explained the word and wrote it on the board."
+      "translationEn": "The teacher explained the word and wrote it on the board.",
+      "words": [
+        {
+          "w": "شَرَحَتِ",
+          "root": "ش ر ح",
+          "bs": "objasnila",
+          "en": "explained"
+        },
+        {
+          "w": "الكَلِمَةَ",
+          "root": "ك ل م",
+          "bs": "riječ",
+          "en": "word"
+        },
+        {
+          "w": "كَتَبَتْهَا",
+          "root": "ك ت ب",
+          "bs": "napisala je",
+          "en": "wrote it"
+        },
+        {
+          "w": "السَّبُّورَةِ",
+          "root": "س ب ر",
+          "bs": "tabla",
+          "en": "board"
+        }
+      ]
     },
     {
       "arabic": "حَفِظَتْ رَنَا الكَلِمَةَ وَاسْتَخْدَمَتْهَا فِي جُمْلَةٍ.",
       "translation": "Rana je zapamtila riječ i upotrijebila je u rečenici.",
-      "translationEn": "Rana memorized the word and used it in a sentence."
+      "translationEn": "Rana memorized the word and used it in a sentence.",
+      "words": [
+        {
+          "w": "حَفِظَتْ",
+          "root": "ح ف ظ",
+          "bs": "zapamtila",
+          "en": "memorized"
+        },
+        {
+          "w": "الكَلِمَةَ",
+          "root": "ك ل م",
+          "bs": "riječ",
+          "en": "word"
+        },
+        {
+          "w": "اسْتَخْدَمَتْهَا",
+          "root": "خ د م",
+          "bs": "upotrijebila je",
+          "en": "used it"
+        },
+        {
+          "w": "جُمْلَةٍ",
+          "root": "ج م ل",
+          "bs": "rečenica",
+          "en": "sentence"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["arabic", "language", "vocabulary"]
+    "tags": [
+      "arabic",
+      "language",
+      "vocabulary"
+    ]
   }
 }

@@ -6,22 +6,43 @@
     {
       "arabic": "كَانَ عِنْدَ مَحَلِّ الأَلْعَابِ تَخْفِيضٌ كَبِيرٌ.",
       "translation": "U prodavnici igračaka bila je velika rasprodaja.",
-      "translationEn": "There was a big sale at the toy shop."
+      "translationEn": "There was a big sale at the toy shop.",
+      "words": [
+        { "w": "مَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" },
+        { "w": "الأَلْعَابِ", "root": "ل ع ب", "bs": "igračke", "en": "toys" },
+        { "w": "تَخْفِيضٌ", "root": "خ ف ض", "bs": "rasprodaja", "en": "sale" },
+        { "w": "كَبِيرٌ", "root": "ك ب ر", "bs": "velika", "en": "big" }
+      ]
     },
     {
       "arabic": "ذَهَبَ رَاشِدٌ وَصَدِيقُهُ إِلَى المَحَلِّ.",
       "translation": "Rašid i prijatelj su otišli u prodavnicu.",
-      "translationEn": "Rashid and his friend went to the shop."
+      "translationEn": "Rashid and his friend went to the shop.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" },
+        { "w": "المَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" }
+      ]
     },
     {
       "arabic": "كَانَتِ الأَلْعَابُ أَرْخَصَ مِنَ العَادَةِ بِكَثِيرٍ.",
       "translation": "Igračke su bile mnogo jeftinije nego obično.",
-      "translationEn": "The toys were much cheaper than usual."
+      "translationEn": "The toys were much cheaper than usual.",
+      "words": [
+        { "w": "الأَلْعَابُ", "root": "ل ع ب", "bs": "igračke", "en": "toys" },
+        { "w": "أَرْخَصَ", "root": "ر خ ص", "bs": "jeftinije", "en": "cheaper" },
+        { "w": "العَادَةِ", "root": "ع و د", "bs": "obično", "en": "usual" }
+      ]
     },
     {
       "arabic": "اشْتَرَى كُلُّ وَاحِدٍ لُعْبَةً بِنُقُودِهِ.",
       "translation": "Svaki od njih je kupio igračku za sopstveni novac.",
-      "translationEn": "Each one bought a toy with his own money."
+      "translationEn": "Each one bought a toy with his own money.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "لُعْبَةً", "root": "ل ع ب", "bs": "igračka", "en": "toy" },
+        { "w": "بِنُقُودِهِ", "root": "ن ق د", "bs": "za sopstveni novac", "en": "with his money" }
+      ]
     }
   ],
   "metadata": {

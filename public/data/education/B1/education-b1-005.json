@@ -6,26 +6,128 @@
     {
       "arabic": "كَانَتِ المُعَلِّمَةُ سَارَةُ طَيِّبَةً مَعَ الطُّلَّابِ دَائِمًا.",
       "translation": "Nastavnica Sara je uvijek bila ljubazna prema učenicima.",
-      "translationEn": "Teacher Sara was always kind to the students."
+      "translationEn": "Teacher Sara was always kind to the students.",
+      "words": [
+        {
+          "w": "المُعَلِّمَةُ",
+          "root": "ع ل م",
+          "bs": "nastavnica",
+          "en": "teacher"
+        },
+        {
+          "w": "طَيِّبَةً",
+          "root": "ط ي ب",
+          "bs": "ljubazna/dobra",
+          "en": "kind"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "دَائِمًا",
+          "root": "د و م",
+          "bs": "uvijek",
+          "en": "always"
+        }
+      ]
     },
     {
       "arabic": "كَانَتْ تَشْرَحُ الدُّرُوسَ بِطَرِيقَةٍ سَهْلَةٍ وَبَسِيطَةٍ.",
       "translation": "Objašnjavala je lekcije na jednostavan i lak način.",
-      "translationEn": "She explained lessons in an easy and simple way."
+      "translationEn": "She explained lessons in an easy and simple way.",
+      "words": [
+        {
+          "w": "تَشْرَحُ",
+          "root": "ش ر ح",
+          "bs": "objašnjava",
+          "en": "explains"
+        },
+        {
+          "w": "الدُّرُوسَ",
+          "root": "د ر س",
+          "bs": "lekcije",
+          "en": "lessons"
+        },
+        {
+          "w": "بِطَرِيقَةٍ",
+          "root": "ط ر ق",
+          "bs": "na način",
+          "en": "in a way"
+        },
+        {
+          "w": "سَهْلَةٍ",
+          "root": "س ه ل",
+          "bs": "lak",
+          "en": "easy"
+        },
+        {
+          "w": "بَسِيطَةٍ",
+          "root": "ب س ط",
+          "bs": "jednostavan",
+          "en": "simple"
+        }
+      ]
     },
     {
       "arabic": "كَانَتْ تَبْتَسِمُ كَثِيرًا وَتُشَجِّعُ الطُّلَّابَ.",
       "translation": "Često se osmjehivala i ohrabrivala učenike.",
-      "translationEn": "She smiled a lot and encouraged the students."
+      "translationEn": "She smiled a lot and encouraged the students.",
+      "words": [
+        {
+          "w": "تَبْتَسِمُ",
+          "root": "ب س م",
+          "bs": "osmjehuje se",
+          "en": "smiles"
+        },
+        {
+          "w": "تُشَجِّعُ",
+          "root": "ش ج ع",
+          "bs": "ohrabruje",
+          "en": "encourages"
+        },
+        {
+          "w": "الطُّلَّابَ",
+          "root": "ط ل ب",
+          "bs": "učenike",
+          "en": "students"
+        }
+      ]
     },
     {
       "arabic": "أَحَبَّ جَمِيعُ الطُّلَّابِ المُعَلِّمَةَ سَارَةَ.",
       "translation": "Svi učenici su voljeli nastavnicu Saru.",
-      "translationEn": "All the students loved Teacher Sara."
+      "translationEn": "All the students loved Teacher Sara.",
+      "words": [
+        {
+          "w": "أَحَبَّ",
+          "root": "ح ب ب",
+          "bs": "voljeli",
+          "en": "loved"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "المُعَلِّمَةَ",
+          "root": "ع ل م",
+          "bs": "nastavnicu",
+          "en": "teacher"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["teacher", "kindness", "classroom"]
+    "tags": [
+      "teacher",
+      "kindness",
+      "classroom"
+    ]
   }
 }

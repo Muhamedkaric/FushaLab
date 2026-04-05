@@ -6,22 +6,48 @@
     {
       "arabic": "قَدِمَ مُوَظَّفٌ جَدِيدٌ اسْمُهُ فَيْصَلٌ إِلَى الشَّرِكَةِ.",
       "translation": "U kompaniju je stigao novi radnik po imenu Fejsal.",
-      "translationEn": "A new employee named Faisal joined the company."
+      "translationEn": "A new employee named Faisal joined the company.",
+      "words": [
+        { "w": "قَدِمَ", "root": "ق د م", "bs": "stigao je/došao", "en": "arrived/came" },
+        { "w": "مُوَظَّفٌ", "root": "و ظ ف", "bs": "radnik/zaposleni", "en": "employee" },
+        { "w": "جَدِيدٌ", "root": "ج د د", "bs": "novi", "en": "new" },
+        { "w": "الشَّرِكَةِ", "root": "ش ر ك", "bs": "kompanija/firma", "en": "company" }
+      ]
     },
     {
       "arabic": "رَحَّبَ بِهِ الزُّمَلَاءُ بِحَفَاوَةٍ وَعَرَّفُوهُ عَلَى الْمَكَانِ.",
       "translation": "Kolege su ga toplo primile i upoznale ga s mjestom.",
-      "translationEn": "The colleagues welcomed him warmly and introduced him to the place."
+      "translationEn": "The colleagues welcomed him warmly and introduced him to the place.",
+      "words": [
+        { "w": "رَحَّبَ", "root": "ر ح ب", "bs": "primio/dočekao", "en": "welcomed" },
+        { "w": "الزُّمَلَاءُ", "root": "ز م ل", "bs": "kolege", "en": "colleagues" },
+        { "w": "بِحَفَاوَةٍ", "root": "ح ف و", "bs": "toplo/srdačno", "en": "warmly/cordially" },
+        { "w": "عَرَّفُوهُ", "root": "ع ر ف", "bs": "upoznali su ga", "en": "introduced him" },
+        { "w": "الْمَكَانِ", "root": "ك و ن", "bs": "mjesto/prostor", "en": "place" }
+      ]
     },
     {
       "arabic": "أَعْطَوْهُ مَكْتَبًا وَشَرَحُوا لَهُ مَهَامَّهُ.",
       "translation": "Dali su mu sto i objasnili mu njegove zadatke.",
-      "translationEn": "They gave him a desk and explained his tasks to him."
+      "translationEn": "They gave him a desk and explained his tasks to him.",
+      "words": [
+        { "w": "أَعْطَوْهُ", "root": "ع ط و", "bs": "dali su mu", "en": "gave him" },
+        { "w": "مَكْتَبًا", "root": "ك ت ب", "bs": "sto/radni stol", "en": "desk" },
+        { "w": "شَرَحُوا", "root": "ش ر ح", "bs": "objasnili su", "en": "explained" },
+        { "w": "مَهَامَّهُ", "root": "م ه م", "bs": "njegovi zadaci", "en": "his tasks/duties" }
+      ]
     },
     {
       "arabic": "شَكَرَ فَيْصَلٌ الْجَمِيعَ وَبَدَأَ أَوَّلَ يَوْمٍ لَهُ بِنَشَاطٍ.",
       "translation": "Fejsal je zahvalio svima i počeo svoj prvi dan aktivno.",
-      "translationEn": "Faisal thanked everyone and started his first day with energy."
+      "translationEn": "Faisal thanked everyone and started his first day with energy.",
+      "words": [
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "الْجَمِيعَ", "root": "ج م ع", "bs": "svima/svi", "en": "everyone" },
+        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počeo je", "en": "started" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "بِنَشَاطٍ", "root": "ن ش ط", "bs": "aktivno/energično", "en": "energetically/actively" }
+      ]
     }
   ],
   "metadata": {

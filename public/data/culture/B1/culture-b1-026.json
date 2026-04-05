@@ -6,22 +6,45 @@
     {
       "arabic": "يَسْتَيْقِظُ المُسْلِمُونَ قَبْلَ الفَجْرِ لِلسُّحُورِ.",
       "translation": "Muslimani se bude prije zore za sehur.",
-      "translationEn": "Muslims wake up before dawn for suhoor."
+      "translationEn": "Muslims wake up before dawn for suhoor.",
+      "words": [
+        { "w": "يَسْتَيْقِظُ", "root": "ي ق ظ", "bs": "bude se", "en": "wake up" },
+        { "w": "المُسْلِمُونَ", "root": "س ل م", "bs": "muslimani", "en": "Muslims" },
+        { "w": "الفَجْرِ", "root": "ف ج ر", "bs": "zore", "en": "dawn" },
+        { "w": "السُّحُورِ", "root": "س ح ر", "bs": "sehura", "en": "suhoor" }
+      ]
     },
     {
       "arabic": "يَأْكُلُونَ وَجْبَةً خَفِيفَةً وَيَشْرَبُونَ المَاءَ.",
       "translation": "Jedu lagani obrok i piju vodu.",
-      "translationEn": "They eat a light meal and drink water."
+      "translationEn": "They eat a light meal and drink water.",
+      "words": [
+        { "w": "يَأْكُلُونَ", "root": "أ ك ل", "bs": "jedu", "en": "eat" },
+        { "w": "وَجْبَةً", "root": "و ج ب", "bs": "obrok", "en": "meal" },
+        { "w": "خَفِيفَةً", "root": "خ ف ف", "bs": "lagani", "en": "light" },
+        { "w": "يَشْرَبُونَ", "root": "ش ر ب", "bs": "piju", "en": "drink" },
+        { "w": "المَاءَ", "root": "م و هـ", "bs": "vodu", "en": "water" }
+      ]
     },
     {
       "arabic": "بَعْدَ السُّحُورِ يَبْدَأُ الصَّوْمُ.",
       "translation": "Nakon sehura počinje post.",
-      "translationEn": "After suhoor, the fast begins."
+      "translationEn": "After suhoor, the fast begins.",
+      "words": [
+        { "w": "السُّحُورِ", "root": "س ح ر", "bs": "sehura", "en": "suhoor" },
+        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "begins" },
+        { "w": "الصَّوْمُ", "root": "ص و م", "bs": "post", "en": "fast" }
+      ]
     },
     {
       "arabic": "السُّحُورُ سُنَّةٌ نَبَوِيَّةٌ مُبَارَكَةٌ.",
       "translation": "Sehur je blagoslovena vjerovjesnikova praksa.",
-      "translationEn": "Suhoor is a blessed prophetic tradition."
+      "translationEn": "Suhoor is a blessed prophetic tradition.",
+      "words": [
+        { "w": "السُّحُورُ", "root": "س ح ر", "bs": "sehur", "en": "suhoor" },
+        { "w": "سُنَّةٌ", "root": "س ن ن", "bs": "sunnet", "en": "prophetic tradition" },
+        { "w": "مُبَارَكَةٌ", "root": "ب ر ك", "bs": "blagoslovena", "en": "blessed" }
+      ]
     }
   ],
   "metadata": {

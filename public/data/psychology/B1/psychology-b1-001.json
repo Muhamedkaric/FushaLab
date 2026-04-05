@@ -6,22 +6,45 @@
     {
       "arabic": "شَعَرَ رَامِي بِالسَّعَادَةِ بَعْدَ أَنْ سَاعَدَ صَدِيقَهُ.",
       "translation": "Rami se osjećao sretno nakon što je pomogao svom prijatelju.",
-      "translationEn": "Rami felt happy after he helped his friend."
+      "translationEn": "Rami felt happy after he helped his friend.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjećao se", "en": "felt" },
+        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happiness" },
+        { "w": "سَاعَدَ", "root": "س ع د", "bs": "pomogao je", "en": "helped" },
+        { "w": "صَدِيقَهُ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" }
+      ]
     },
     {
       "arabic": "قَالَ لَهُ صَدِيقُهُ «شُكْرًا» وَابْتَسَمَ لَهُ.",
       "translation": "Prijatelj mu je rekao \"hvala\" i nasmiješio mu se.",
-      "translationEn": "His friend said \"thank you\" and smiled at him."
+      "translationEn": "His friend said \"thank you\" and smiled at him.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" },
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" }
+      ]
     },
     {
       "arabic": "شَعَرَ رَامِي أَنَّ قَلْبَهُ امْتَلَأَ بِالدِّفْءِ.",
       "translation": "Rami je osjetio da mu se srce ispunilo toplinom.",
-      "translationEn": "Rami felt that his heart filled with warmth."
+      "translationEn": "Rami felt that his heart filled with warmth.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
+        { "w": "قَلْبَهُ", "root": "ق ل ب", "bs": "njegovo srce", "en": "his heart" },
+        { "w": "امْتَلَأَ", "root": "م ل أ", "bs": "ispunilo se", "en": "filled" },
+        { "w": "الدِّفْءِ", "root": "د ف أ", "bs": "toplina", "en": "warmth" }
+      ]
     },
     {
       "arabic": "مُسَاعَدَةُ الآخَرِينَ تُشْعِرُنَا بِالسَّعَادَةِ.",
       "translation": "Pomaganje drugima nas čini sretnima.",
-      "translationEn": "Helping others makes us feel happy."
+      "translationEn": "Helping others makes us feel happy.",
+      "words": [
+        { "w": "مُسَاعَدَةُ", "root": "س ع د", "bs": "pomaganje", "en": "helping" },
+        { "w": "الآخَرِينَ", "root": "أ خ ر", "bs": "drugima", "en": "others" },
+        { "w": "تُشْعِرُنَا", "root": "ش ع ر", "bs": "čini nas", "en": "makes us feel" },
+        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happy" }
+      ]
     }
   ],
   "metadata": {

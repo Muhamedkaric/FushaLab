@@ -6,22 +6,45 @@
     {
       "arabic": "الشُّكْرُ يُغَيِّرُ طَرِيقَةَ رُؤْيَتِنَا لِلْحَيَاةِ.",
       "translation": "Zahvalnost mijenja način na koji gledamo na život.",
-      "translationEn": "Gratitude changes the way we see life."
+      "translationEn": "Gratitude changes the way we see life.",
+      "words": [
+        { "w": "الشُّكْرُ", "root": "ش ك ر", "bs": "zahvalnost", "en": "gratitude" },
+        { "w": "يُغَيِّرُ", "root": "غ ي ر", "bs": "mijenja", "en": "changes" },
+        { "w": "طَرِيقَةَ", "root": "ط ر ق", "bs": "način", "en": "way" },
+        { "w": "الْحَيَاةِ", "root": "ح ي و", "bs": "život", "en": "life" }
+      ]
     },
     {
       "arabic": "كَتَبَتْ أَمَلٌ كُلَّ لَيْلَةٍ ثَلَاثَةَ أَشْيَاءَ تَشْكُرُ عَلَيْهَا.",
       "translation": "Amal je svake noći pisala tri stvari na kojima je zahvalna.",
-      "translationEn": "Amal wrote every night three things she was grateful for."
+      "translationEn": "Amal wrote every night three things she was grateful for.",
+      "words": [
+        { "w": "كَتَبَتْ", "root": "ك ت ب", "bs": "pisala je", "en": "wrote" },
+        { "w": "لَيْلَةٍ", "root": "ل ي ل", "bs": "noć", "en": "night" },
+        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "تَشْكُرُ", "root": "ش ك ر", "bs": "zahvalna je", "en": "grateful for" }
+      ]
     },
     {
       "arabic": "بَعْدَ أُسْبُوعٍ لَاحَظَتْ أَنَّهَا أَكْثَرُ سَعَادَةً.",
       "translation": "Nakon sedmice primijetila je da je sretnija.",
-      "translationEn": "After a week she noticed that she was happier."
+      "translationEn": "After a week she noticed that she was happier.",
+      "words": [
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica", "en": "week" },
+        { "w": "لَاحَظَتْ", "root": "ل ح ظ", "bs": "primijetila je", "en": "noticed" },
+        { "w": "سَعَادَةً", "root": "س ع د", "bs": "sretnija", "en": "happier" }
+      ]
     },
     {
       "arabic": "الأَشْيَاءُ الصَّغِيرَةُ فِي حَيَاتِنَا تَسْتَحِقُّ الشُّكْرَ.",
       "translation": "Male stvari u našem životu zaslužuju zahvalnost.",
-      "translationEn": "The small things in our life deserve gratitude."
+      "translationEn": "The small things in our life deserve gratitude.",
+      "words": [
+        { "w": "الأَشْيَاءُ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "الصَّغِيرَةُ", "root": "ص غ ر", "bs": "male", "en": "small" },
+        { "w": "حَيَاتِنَا", "root": "ح ي و", "bs": "naš život", "en": "our life" },
+        { "w": "تَسْتَحِقُّ", "root": "ح ق ق", "bs": "zaslužuju", "en": "deserve" }
+      ]
     }
   ],
   "metadata": {

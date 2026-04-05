@@ -6,27 +6,58 @@
     {
       "arabic": "كَانَ شَيْخٌ كَبِيرٌ يَمْشِي بِبُطْءٍ فِي الشَّارِعِ.",
       "translation": "Starac je polako hodao ulicom.",
-      "translationEn": "An old man was walking slowly in the street."
+      "translationEn": "An old man was walking slowly in the street.",
+      "words": [
+        { "w": "شَيْخٌ", "root": "ش ي خ", "bs": "starac", "en": "old man" },
+        { "w": "كَبِيرٌ", "root": "ك ب ر", "bs": "star", "en": "old" },
+        { "w": "يَمْشِي", "root": "م ش ي", "bs": "hoda", "en": "walks" },
+        { "w": "بِبُطْءٍ", "root": "ب ط أ", "bs": "polako", "en": "slowly" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" }
+      ]
     },
     {
       "arabic": "حَمَلَ حَقِيبَةً ثَقِيلَةً وَتَعِبَ كَثِيرًا.",
       "translation": "Nosio je tešku torbu i bio je jako umoran.",
-      "translationEn": "He was carrying a heavy bag and was very tired."
+      "translationEn": "He was carrying a heavy bag and was very tired.",
+      "words": [
+        { "w": "حَمَلَ", "root": "ح م ل", "bs": "nosio je", "en": "carried" },
+        { "w": "حَقِيبَةً", "root": "ح ق ب", "bs": "torba", "en": "bag" },
+        { "w": "ثَقِيلَةً", "root": "ث ق ل", "bs": "teška", "en": "heavy" },
+        { "w": "تَعِبَ", "root": "ت ع ب", "bs": "bio je umoran", "en": "was tired" }
+      ]
     },
     {
       "arabic": "رَأَتْهُ طِفْلَةٌ اسْمُهَا نُورٌ فَرَكَضَتْ إِلَيْهِ.",
       "translation": "Vidjela ga je djevojčica po imenu Nur pa je potrčala prema njemu.",
-      "translationEn": "A girl named Nour saw him and ran to him."
+      "translationEn": "A girl named Nour saw him and ran to him.",
+      "words": [
+        { "w": "رَأَتْهُ", "root": "ر أ ي", "bs": "vidjela ga je", "en": "saw him" },
+        { "w": "طِفْلَةٌ", "root": "ط ف ل", "bs": "djevojčica", "en": "girl" },
+        { "w": "رَكَضَتْ", "root": "ر ك ض", "bs": "potrčala je", "en": "ran" }
+      ]
     },
     {
       "arabic": "حَمَلَتِ الْحَقِيبَةَ مَعَهُ حَتَّى وَصَلَا إِلَى بَيْتِهِ.",
       "translation": "Ponijela je torbu s njim sve dok nisu stigli do njegove kuće.",
-      "translationEn": "She carried the bag with him until they reached his house."
+      "translationEn": "She carried the bag with him until they reached his house.",
+      "words": [
+        { "w": "حَمَلَتِ", "root": "ح م ل", "bs": "ponijela je", "en": "carried" },
+        { "w": "الْحَقِيبَةَ", "root": "ح ق ب", "bs": "torba", "en": "bag" },
+        { "w": "وَصَلَا", "root": "و ص ل", "bs": "stigli su", "en": "reached" },
+        { "w": "بَيْتِهِ", "root": "ب ي ت", "bs": "njegova kuća", "en": "his house" }
+      ]
     },
     {
       "arabic": "شَكَرَهَا الشَّيْخُ وَقَالَ لَهَا: «أَنْتِ طِفْلَةٌ طَيِّبَةُ الْقَلْبِ».",
       "translation": "Starac joj se zahvalio i rekao joj: «Ti si djevojčica dobrog srca».",
-      "translationEn": "The old man thanked her and said: «You are a kind-hearted girl»."
+      "translationEn": "The old man thanked her and said: «You are a kind-hearted girl».",
+      "words": [
+        { "w": "شَكَرَهَا", "root": "ش ك ر", "bs": "zahvalio joj se", "en": "thanked her" },
+        { "w": "الشَّيْخُ", "root": "ش ي خ", "bs": "starac", "en": "old man" },
+        { "w": "طِفْلَةٌ", "root": "ط ف ل", "bs": "djevojčica", "en": "girl" },
+        { "w": "طَيِّبَةُ", "root": "ط ي ب", "bs": "dobrog", "en": "kind" },
+        { "w": "الْقَلْبِ", "root": "ق ل ب", "bs": "srca", "en": "heart" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَ الصَّوْتُ الدَّاخِلِيُّ لِيَزِيدَ يَقُولُ «أَنْتَ لَسْتَ جَيِّدًا».",
       "translation": "Unutarnji glas Jazida mu je govorio \"nisi dobar\".",
-      "translationEn": "Yazid's inner voice used to say \"you are not good enough\"."
+      "translationEn": "Yazid's inner voice used to say \"you are not good enough\".",
+      "words": [
+        { "w": "الصَّوْتُ", "root": "ص و ت", "bs": "glas", "en": "voice" },
+        { "w": "الدَّاخِلِيُّ", "root": "د خ ل", "bs": "unutarnji", "en": "inner" },
+        { "w": "يَقُولُ", "root": "ق و ل", "bs": "govori", "en": "says" },
+        { "w": "جَيِّدًا", "root": "ج ي د", "bs": "dobar", "en": "good" }
+      ]
     },
     {
       "arabic": "أَدْرَكَ أَنَّ هَذَا الصَّوْتَ لَيْسَ صَحِيحًا.",
       "translation": "Shvatio je da taj glas nije istinit.",
-      "translationEn": "He realised that this voice was not true."
+      "translationEn": "He realised that this voice was not true.",
+      "words": [
+        { "w": "أَدْرَكَ", "root": "د ر ك", "bs": "shvatio je", "en": "realised" },
+        { "w": "الصَّوْتَ", "root": "ص و ت", "bs": "glas", "en": "voice" },
+        { "w": "صَحِيحًا", "root": "ص ح ح", "bs": "istinit", "en": "true" }
+      ]
     },
     {
       "arabic": "بَدَّلَ الْكَلِمَاتِ وَقَالَ «أَنَا أَتَعَلَّمُ وَأَتَحَسَّنُ».",
       "translation": "Promijenio je riječi i rekao \"ja učim i napredujem\".",
-      "translationEn": "He changed the words and said \"I am learning and improving\"."
+      "translationEn": "He changed the words and said \"I am learning and improving\".",
+      "words": [
+        { "w": "بَدَّلَ", "root": "ب د ل", "bs": "promijenio je", "en": "changed" },
+        { "w": "الْكَلِمَاتِ", "root": "ك ل م", "bs": "riječi", "en": "words" },
+        { "w": "أَتَعَلَّمُ", "root": "ع ل م", "bs": "učim", "en": "am learning" },
+        { "w": "أَتَحَسَّنُ", "root": "ح س ن", "bs": "napredujem", "en": "am improving" }
+      ]
     },
     {
       "arabic": "الطَّرِيقَةُ الَّتِي نُكَلِّمُ بِهَا أَنْفُسَنَا تُؤَثِّرُ عَلَيْنَا كَثِيرًا.",
       "translation": "Način na koji razgovaramo sami sa sobom jako na nas utiče.",
-      "translationEn": "The way we talk to ourselves affects us a great deal."
+      "translationEn": "The way we talk to ourselves affects us a great deal.",
+      "words": [
+        { "w": "الطَّرِيقَةُ", "root": "ط ر ق", "bs": "način", "en": "way" },
+        { "w": "نُكَلِّمُ", "root": "ك ل م", "bs": "razgovaramo", "en": "talk" },
+        { "w": "أَنْفُسَنَا", "root": "ن ف س", "bs": "sami sa sobom", "en": "ourselves" },
+        { "w": "تُؤَثِّرُ", "root": "أ ث ر", "bs": "utiče", "en": "affects" }
+      ]
     }
   ],
   "metadata": {

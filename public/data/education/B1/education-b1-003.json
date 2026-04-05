@@ -6,31 +6,165 @@
     {
       "arabic": "دَخَلَ الطُّلَّابُ إِلَى الفَصْلِ وَجَلَسُوا فِي أَمَاكِنِهِمْ.",
       "translation": "Učenici su ušli u razred i sjeli na svoja mjesta.",
-      "translationEn": "The students entered the classroom and sat in their places."
+      "translationEn": "The students entered the classroom and sat in their places.",
+      "words": [
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "دَخَلُوا",
+          "root": "د خ ل",
+          "bs": "ušli",
+          "en": "entered"
+        },
+        {
+          "w": "الفَصْلِ",
+          "root": "ف ص ل",
+          "bs": "razred",
+          "en": "classroom"
+        },
+        {
+          "w": "جَلَسُوا",
+          "root": "ج ل س",
+          "bs": "sjeli",
+          "en": "sat"
+        }
+      ]
     },
     {
       "arabic": "جَاءَ المُعَلِّمُ وَكَتَبَ عُنْوَانَ الدَّرْسِ عَلَى السَّبُّورَةِ.",
       "translation": "Nastavnik je došao i napisao naslov lekcije na tabli.",
-      "translationEn": "The teacher came and wrote the lesson title on the board."
+      "translationEn": "The teacher came and wrote the lesson title on the board.",
+      "words": [
+        {
+          "w": "المُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "nastavnik",
+          "en": "teacher"
+        },
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao",
+          "en": "wrote"
+        },
+        {
+          "w": "عُنْوَانَ",
+          "root": "ع ن و",
+          "bs": "naslov",
+          "en": "title"
+        },
+        {
+          "w": "الدَّرْسِ",
+          "root": "د ر س",
+          "bs": "lekcije/časa",
+          "en": "lesson"
+        },
+        {
+          "w": "السَّبُّورَةِ",
+          "root": "س ب ر",
+          "bs": "tabla",
+          "en": "board"
+        }
+      ]
     },
     {
       "arabic": "شَرَحَ المُعَلِّمُ الدَّرْسَ بِصَوْتٍ وَاضِحٍ.",
       "translation": "Nastavnik je objasnio lekciju jasnim glasom.",
-      "translationEn": "The teacher explained the lesson in a clear voice."
+      "translationEn": "The teacher explained the lesson in a clear voice.",
+      "words": [
+        {
+          "w": "شَرَحَ",
+          "root": "ش ر ح",
+          "bs": "objasnio",
+          "en": "explained"
+        },
+        {
+          "w": "الدَّرْسَ",
+          "root": "د ر س",
+          "bs": "lekciju",
+          "en": "lesson"
+        },
+        {
+          "w": "بِصَوْتٍ",
+          "root": "ص و ت",
+          "bs": "glasom",
+          "en": "voice"
+        },
+        {
+          "w": "وَاضِحٍ",
+          "root": "و ض ح",
+          "bs": "jasnim",
+          "en": "clear"
+        }
+      ]
     },
     {
       "arabic": "رَفَعَ بَعْضُ الطُّلَّابِ أَيْدِيَهُمْ لِيَسْأَلُوا أَسْئِلَةً.",
       "translation": "Neki učenici su podigli ruke da postave pitanja.",
-      "translationEn": "Some students raised their hands to ask questions."
+      "translationEn": "Some students raised their hands to ask questions.",
+      "words": [
+        {
+          "w": "رَفَعَ",
+          "root": "ر ف ع",
+          "bs": "podigli",
+          "en": "raised"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "أَيْدِيَهُمْ",
+          "root": "ي د ي",
+          "bs": "ruke",
+          "en": "hands"
+        },
+        {
+          "w": "أَسْئِلَةً",
+          "root": "س أ ل",
+          "bs": "pitanja",
+          "en": "questions"
+        }
+      ]
     },
     {
       "arabic": "كَانَ الدَّرْسُ مُمْتِعًا وَمُفِيدًا لِلْجَمِيعِ.",
       "translation": "Čas je bio zabavan i koristan za sve.",
-      "translationEn": "The class was fun and useful for everyone."
+      "translationEn": "The class was fun and useful for everyone.",
+      "words": [
+        {
+          "w": "الدَّرْسُ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "lesson"
+        },
+        {
+          "w": "مُمْتِعًا",
+          "root": "م ت ع",
+          "bs": "zabavan",
+          "en": "fun"
+        },
+        {
+          "w": "مُفِيدًا",
+          "root": "ف ي د",
+          "bs": "koristan",
+          "en": "useful"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["classroom", "teacher", "lesson"]
+    "tags": [
+      "classroom",
+      "teacher",
+      "lesson"
+    ]
   }
 }

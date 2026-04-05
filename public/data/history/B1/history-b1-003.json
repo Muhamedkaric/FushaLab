@@ -6,22 +6,49 @@
     {
       "arabic": "عَاشَ مَلِكٌ كَرِيمٌ فِي هَذِهِ الْمَدِينَةِ مِنْذُ زَمَنٍ بَعِيدٍ.",
       "translation": "Jedan plemeniti kralj živio je u ovom gradu davno.",
-      "translationEn": "A generous king lived in this city long ago."
+      "translationEn": "A generous king lived in this city long ago.",
+      "words": [
+        { "w": "عَاشَ", "root": "ع ي ش", "bs": "živio je", "en": "lived" },
+        { "w": "مَلِكٌ", "root": "م ل ك", "bs": "kralj", "en": "a king" },
+        { "w": "كَرِيمٌ", "root": "ك ر م", "bs": "plemenit", "en": "generous" },
+        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "gradu", "en": "the city" },
+        { "w": "زَمَنٍ", "root": "ز م ن", "bs": "vrijeme", "en": "a time" },
+        { "w": "بَعِيدٍ", "root": "ب ع د", "bs": "davno", "en": "long ago" }
+      ]
     },
     {
       "arabic": "كَانَ يُحِبُّ النَّاسَ وَيَهْتَمُّ بِهِمْ.",
       "translation": "Volio je ljude i brinuo se o njima.",
-      "translationEn": "He loved the people and cared for them."
+      "translationEn": "He loved the people and cared for them.",
+      "words": [
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
+        { "w": "النَّاسَ", "root": "ن و س", "bs": "ljude", "en": "the people" },
+        { "w": "يَهْتَمُّ", "root": "ه م م", "bs": "brine se", "en": "cares" }
+      ]
     },
     {
       "arabic": "بَنَى الْمَلِكُ مَدْرَسَةً كَبِيرَةً لِلْأَطْفَالِ.",
       "translation": "Kralj je izgradio veliku školu za djecu.",
-      "translationEn": "The king built a large school for the children."
+      "translationEn": "The king built a large school for the children.",
+      "words": [
+        { "w": "بَنَى", "root": "ب ن ي", "bs": "izgradio je", "en": "built" },
+        { "w": "الْمَلِكُ", "root": "م ل ك", "bs": "kralj", "en": "the king" },
+        { "w": "مَدْرَسَةً", "root": "د ر س", "bs": "školu", "en": "a school" },
+        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "veliku", "en": "large" },
+        { "w": "الْأَطْفَالِ", "root": "ط ف ل", "bs": "djeca", "en": "the children" }
+      ]
     },
     {
       "arabic": "تَذَكَّرَ النَّاسُ هَذَا الْمَلِكَ لِسَنَوَاتٍ طَوِيلَةٍ.",
       "translation": "Ljudi su pamtili ovog kralja dugim godinama.",
-      "translationEn": "The people remembered this king for many long years."
+      "translationEn": "The people remembered this king for many long years.",
+      "words": [
+        { "w": "تَذَكَّرَ", "root": "ذ ك ر", "bs": "pamtio je", "en": "remembered" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "الْمَلِكَ", "root": "م ل ك", "bs": "kralja", "en": "the king" },
+        { "w": "سَنَوَاتٍ", "root": "س ن و", "bs": "godine", "en": "years" },
+        { "w": "طَوِيلَةٍ", "root": "ط و ل", "bs": "duge", "en": "long" }
+      ]
     }
   ],
   "metadata": {

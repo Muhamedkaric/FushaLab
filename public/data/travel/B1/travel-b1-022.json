@@ -6,22 +6,44 @@
     {
       "arabic": "وَقَفَتِ الْأُمُّ أَمَامَ خَرِيطَةِ الْمَدِينَةِ عَلَى الْجِدَارِ.",
       "translation": "Majka je stajala ispred mape grada na zidu.",
-      "translationEn": "The mother stood in front of the city map on the wall."
+      "translationEn": "The mother stood in front of the city map on the wall.",
+      "words": [
+        { "w": "وَقَفَتِ", "root": "و ق ف", "bs": "stajala je", "en": "stood" },
+        { "w": "خَرِيطَةِ", "root": "خ ر ط", "bs": "mapa", "en": "map" },
+        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" },
+        { "w": "الْجِدَارِ", "root": "ج د ر", "bs": "zid", "en": "wall" }
+      ]
     },
     {
       "arabic": "أَشَارَتْ إِلَى الْمَكَانِ الَّذِي تُرِيدُ زِيَارَتَهُ.",
       "translation": "Pokazala je na mjesto koje želi posjetiti.",
-      "translationEn": "She pointed to the place she wanted to visit."
+      "translationEn": "She pointed to the place she wanted to visit.",
+      "words": [
+        { "w": "أَشَارَتْ", "root": "ش و ر", "bs": "pokazala je", "en": "pointed" },
+        { "w": "الْمَكَانِ", "root": "ك و ن", "bs": "mjesto", "en": "place" },
+        { "w": "تُرِيدُ", "root": "ر و د", "bs": "želi", "en": "wants" },
+        { "w": "زِيَارَتَهُ", "root": "ز و ر", "bs": "posjetiti ga", "en": "to visit it" }
+      ]
     },
     {
       "arabic": "قَالَتْ لِأَبِيهَا: هَذَا الْحَدِيقَةُ قَرِيبَةٌ مِنَّا.",
       "translation": "Rekla je ocu: Ovaj park je blizu nas.",
-      "translationEn": "She said to her father: This park is close to us."
+      "translationEn": "She said to her father: This park is close to us.",
+      "words": [
+        { "w": "الْحَدِيقَةُ", "root": "ح د ق", "bs": "park / bašta", "en": "park / garden" },
+        { "w": "قَرِيبَةٌ", "root": "ق ر ب", "bs": "blizu", "en": "close / near" }
+      ]
     },
     {
       "arabic": "مَشَوْا إِلَيْهَا وَقَضَوْا وَقْتًا جَمِيلًا.",
       "translation": "Hodali su do njega i proveli lijepo vrijeme.",
-      "translationEn": "They walked there and spent a nice time."
+      "translationEn": "They walked there and spent a nice time.",
+      "words": [
+        { "w": "مَشَوْا", "root": "م ش ي", "bs": "hodali su", "en": "walked" },
+        { "w": "قَضَوْا", "root": "ق ض ي", "bs": "proveli su", "en": "spent" },
+        { "w": "وَقْتًا", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepo", "en": "nice / beautiful" }
+      ]
     }
   ],
   "metadata": {

@@ -6,26 +6,122 @@
     {
       "arabic": "كَانَ الطَّقْسُ جَمِيلًا الْيَوْمَ فِي الْمَدِينَةِ.",
       "translation": "Danas je bilo lijepo vrijeme u gradu.",
-      "translationEn": "The weather was nice today in the city."
+      "translationEn": "The weather was nice today in the city.",
+      "words": [
+        {
+          "w": "الطَّقْسُ",
+          "root": "ط ق س",
+          "bs": "vrijeme",
+          "en": "weather"
+        },
+        {
+          "w": "جَمِيلًا",
+          "root": "ج م ل",
+          "bs": "lijepo",
+          "en": "nice"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "م د ن",
+          "bs": "gradu",
+          "en": "city"
+        }
+      ]
     },
     {
       "arabic": "خَرَجَ الأَطْفَالُ لِلَّعِبِ فِي الْحَدِيقَةِ الْعَامَّةِ.",
       "translation": "Djeca su izašla da se igraju u javnom parku.",
-      "translationEn": "The children went out to play in the public park."
+      "translationEn": "The children went out to play in the public park.",
+      "words": [
+        {
+          "w": "خَرَجَ",
+          "root": "خ ر ج",
+          "bs": "izašli su",
+          "en": "went out"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children"
+        },
+        {
+          "w": "لِلَّعِبِ",
+          "root": "ل ع ب",
+          "bs": "za igru",
+          "en": "to play"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "parku",
+          "en": "park"
+        }
+      ]
     },
     {
       "arabic": "جَلَسَ الْكِبَارُ عَلَى الْمَقَاعِدِ وَتَحَدَّثُوا.",
       "translation": "Odrasli su sjedili na klupama i razgovarali.",
-      "translationEn": "The adults sat on the benches and talked."
+      "translationEn": "The adults sat on the benches and talked.",
+      "words": [
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjedio je",
+          "en": "sat"
+        },
+        {
+          "w": "الْكِبَارُ",
+          "root": "ك ب ر",
+          "bs": "odrasli",
+          "en": "adults"
+        },
+        {
+          "w": "الْمَقَاعِدِ",
+          "root": "ق ع د",
+          "bs": "klupama",
+          "en": "benches"
+        },
+        {
+          "w": "تَحَدَّثُوا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked"
+        }
+      ]
     },
     {
       "arabic": "كَانَتْ أَجْوَاءُ الْحَدِيقَةِ هَادِئَةً وَمُمْتِعَةً.",
       "translation": "Atmosfera u parku bila je mirna i ugodna.",
-      "translationEn": "The atmosphere in the park was calm and enjoyable."
+      "translationEn": "The atmosphere in the park was calm and enjoyable.",
+      "words": [
+        {
+          "w": "أَجْوَاءُ",
+          "root": "ج و و",
+          "bs": "atmosfera",
+          "en": "atmosphere"
+        },
+        {
+          "w": "هَادِئَةً",
+          "root": "ه د أ",
+          "bs": "mirna",
+          "en": "calm"
+        },
+        {
+          "w": "مُمْتِعَةً",
+          "root": "م ت ع",
+          "bs": "ugodna",
+          "en": "enjoyable"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["weather", "park", "daily life"]
+    "tags": [
+      "weather",
+      "park",
+      "daily life"
+    ]
   }
 }

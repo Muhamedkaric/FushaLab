@@ -6,22 +6,46 @@
     {
       "arabic": "وَصَلَ الْقِطَارُ إِلَى الْمَحَطَّةِ فِي الصَّبَاحِ.",
       "translation": "Voz je stigao na stanicu ujutro.",
-      "translationEn": "The train arrived at the station in the morning."
+      "translationEn": "The train arrived at the station in the morning.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao", "en": "arrived" },
+        { "w": "الْقِطَارُ", "root": "ق ط ر", "bs": "voz", "en": "train" },
+        { "w": "الْمَحَطَّةِ", "root": "ح ط ط", "bs": "stanica", "en": "station" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "نَزَلَ الْمُسَافِرُونَ مِنَ الْقِطَارِ وَأَخَذُوا حَقَائِبَهُمْ.",
       "translation": "Putnici su izašli iz voza i uzeli svoje torbe.",
-      "translationEn": "The travelers got off the train and took their bags."
+      "translationEn": "The travelers got off the train and took their bags.",
+      "words": [
+        { "w": "الْمُسَافِرُونَ", "root": "س ف ر", "bs": "putnici", "en": "travelers" },
+        { "w": "الْقِطَارِ", "root": "ق ط ر", "bs": "voz", "en": "train" },
+        { "w": "أَخَذُوا", "root": "أ خ ذ", "bs": "uzeli su", "en": "they took" },
+        { "w": "حَقَائِبَهُمْ", "root": "ح ق ب", "bs": "njihove torbe", "en": "their bags" }
+      ]
     },
     {
       "arabic": "بَحَثَ أَحْمَدُ عَنْ سَيَّارَةِ الْأُجْرَةِ أَمَامَ الْمَحَطَّةِ.",
       "translation": "Ahmed je tražio taksi ispred stanice.",
-      "translationEn": "Ahmed looked for a taxi in front of the station."
+      "translationEn": "Ahmed looked for a taxi in front of the station.",
+      "words": [
+        { "w": "بَحَثَ", "root": "ب ح ث", "bs": "tražio je", "en": "looked for" },
+        { "w": "سَيَّارَةِ", "root": "س ي ر", "bs": "auto", "en": "car" },
+        { "w": "الْأُجْرَةِ", "root": "أ ج ر", "bs": "najam / taksi", "en": "taxi / hire" },
+        { "w": "الْمَحَطَّةِ", "root": "ح ط ط", "bs": "stanica", "en": "station" }
+      ]
     },
     {
       "arabic": "وَصَلَ إِلَى الْفُنْدُقِ بَعْدَ نِصْفِ سَاعَةٍ.",
       "translation": "Stigao je do hotela nakon pola sata.",
-      "translationEn": "He arrived at the hotel after half an hour."
+      "translationEn": "He arrived at the hotel after half an hour.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "الْفُنْدُقِ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
+        { "w": "نِصْفِ", "root": "ن ص ف", "bs": "pola", "en": "half" },
+        { "w": "سَاعَةٍ", "root": "س و ع", "bs": "sat", "en": "hour" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ يَاسِرٌ يَخَافُ مِنَ الاِمْتِحَانَاتِ كَثِيرًا.",
       "translation": "Jasir se jako bojao ispita.",
-      "translationEn": "Yasir was very afraid of exams."
+      "translationEn": "Yasir was very afraid of exams.",
+      "words": [
+        { "w": "يَخَافُ", "root": "خ و ف", "bs": "bojao se", "en": "was afraid" },
+        { "w": "الاِمْتِحَانَاتِ", "root": "م ح ن", "bs": "ispiti", "en": "exams" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "jako/mnogo", "en": "very much/a lot" }
+      ]
     },
     {
       "arabic": "جَلَسَتْ مَعَهُ أُخْتُهُ تُرَاجِعُ الدُّرُوسَ كُلَّ لَيْلَةٍ.",
       "translation": "Sestra je sjedila s njim i ponavljala gradivo svake večeri.",
-      "translationEn": "His sister sat with him reviewing the lessons every night."
+      "translationEn": "His sister sat with him reviewing the lessons every night.",
+      "words": [
+        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjedila je", "en": "sat" },
+        { "w": "أُخْتُهُ", "root": "أ خ و", "bs": "njegova sestra", "en": "his sister" },
+        { "w": "تُرَاجِعُ", "root": "ر ج ع", "bs": "ponavljala je", "en": "reviewing" },
+        { "w": "الدُّرُوسَ", "root": "د ر س", "bs": "lekcije/gradivo", "en": "lessons" },
+        { "w": "لَيْلَةٍ", "root": "ل ي ل", "bs": "večer/noć", "en": "night/evening" }
+      ]
     },
     {
       "arabic": "بِمُسَاعَدَتِهَا شَعَرَ يَاسِرٌ بِثِقَةٍ أَكْبَرَ.",
       "translation": "Uz njenu pomoć Jasir se osjećao samopouzdanije.",
-      "translationEn": "With her help Yasir felt more confident."
+      "translationEn": "With her help Yasir felt more confident.",
+      "words": [
+        { "w": "بِمُسَاعَدَتِهَا", "root": "س ع د", "bs": "uz njenu pomoć", "en": "with her help" },
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjećao se", "en": "felt" },
+        { "w": "بِثِقَةٍ", "root": "ث ق ة", "bs": "samopouzdanje", "en": "confidence" }
+      ]
     },
     {
       "arabic": "نَجَحَ فِي الاِمْتِحَانِ وَشَكَرَ أُخْتَهُ بِصِدْقٍ.",
       "translation": "Položio je ispit i iskreno zahvalio sestri.",
-      "translationEn": "He passed the exam and sincerely thanked his sister."
+      "translationEn": "He passed the exam and sincerely thanked his sister.",
+      "words": [
+        { "w": "نَجَحَ", "root": "ن ج ح", "bs": "položio je/uspio", "en": "passed/succeeded" },
+        { "w": "الاِمْتِحَانِ", "root": "م ح ن", "bs": "ispit", "en": "exam" },
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "أُخْتَهُ", "root": "أ خ و", "bs": "njegova sestra", "en": "his sister" },
+        { "w": "بِصِدْقٍ", "root": "ص د ق", "bs": "iskreno", "en": "sincerely" }
+      ]
     }
   ],
   "metadata": {

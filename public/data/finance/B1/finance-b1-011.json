@@ -6,22 +6,45 @@
     {
       "arabic": "أَعْطَتِ الجَدَّةُ حَفِيدَهَا نُقُودًا فِي العِيدِ.",
       "translation": "Baka je unuku dala novac za bajram.",
-      "translationEn": "The grandmother gave her grandchild money for the holiday."
+      "translationEn": "The grandmother gave her grandchild money for the holiday.",
+      "words": [
+        { "w": "أَعْطَتِ", "root": "ع ط و", "bs": "dala je", "en": "gave" },
+        { "w": "الجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "حَفِيدَهَا", "root": "ح ف د", "bs": "njen unuk", "en": "her grandchild" },
+        { "w": "نُقُودًا", "root": "ن ق د", "bs": "novac", "en": "money" }
+      ]
     },
     {
       "arabic": "فَرِحَ الطِّفْلُ كَثِيرًا وَقَبَّلَ يَدَ جَدَّتِهِ.",
       "translation": "Dijete se jako obradovalo i poljubilo bakin ruku.",
-      "translationEn": "The child was very happy and kissed his grandmother's hand."
+      "translationEn": "The child was very happy and kissed his grandmother's hand.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovalo se", "en": "was happy" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "قَبَّلَ", "root": "ق ب ل", "bs": "poljubilo je", "en": "kissed" },
+        { "w": "يَدَ", "root": "ي د ي", "bs": "ruku", "en": "hand" }
+      ]
     },
     {
       "arabic": "سَأَلَتْهُ أُمُّهُ: مَاذَا سَتَفْعَلُ بِهَذِهِ النُّقُودِ؟",
       "translation": "Majka ga je pitala: Šta ćeš uraditi s ovim novcem?",
-      "translationEn": "His mother asked him: What will you do with this money?"
+      "translationEn": "His mother asked him: What will you do with this money?",
+      "words": [
+        { "w": "سَأَلَتْهُ", "root": "س أ ل", "bs": "pitala ga je", "en": "asked him" },
+        { "w": "سَتَفْعَلُ", "root": "ف ع ل", "bs": "uradit ćeš", "en": "will you do" },
+        { "w": "النُّقُودِ", "root": "ن ق د", "bs": "novac", "en": "money" }
+      ]
     },
     {
       "arabic": "قَالَ: سَأَشْتَرِي كِتَابًا وَأَدَّخِرُ البَاقِيَ.",
       "translation": "Rekao je: Kupit ću knjigu a ostatak ću uštedjeti.",
-      "translationEn": "He said: I will buy a book and save the rest."
+      "translationEn": "He said: I will buy a book and save the rest.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "سَأَشْتَرِي", "root": "ش ر ي", "bs": "kupit ću", "en": "I will buy" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "أَدَّخِرُ", "root": "ذ خ ر", "bs": "uštedjeti ću", "en": "save" }
+      ]
     }
   ],
   "metadata": {

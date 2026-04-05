@@ -6,22 +6,44 @@
     {
       "arabic": "سَمِعَتِ الْأُمُّ الْمَثَلَ: «رُبَّ صَغِيرَةٍ أَطَاحَتْ بِكَبِيرَةٍ».",
       "translation": "Majka je čula poslovicu: «Ponekad mala stvar obori veliku».",
-      "translationEn": "The mother heard the proverb: «Sometimes a small thing topples a big one»."
+      "translationEn": "The mother heard the proverb: «Sometimes a small thing topples a big one».",
+      "words": [
+        { "w": "صَغِيرَةٍ", "root": "ص غ ر", "bs": "mala stvar", "en": "small thing" },
+        { "w": "أَطَاحَتْ", "root": "ط و ح", "bs": "oborila je", "en": "toppled" },
+        { "w": "بِكَبِيرَةٍ", "root": "ك ب ر", "bs": "veliku", "en": "big one" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ التَّفَاصِيلَ الصَّغِيرَةَ مُهِمَّةٌ جِدًّا.",
       "translation": "To znači da su mali detalji veoma važni.",
-      "translationEn": "This means that small details are very important."
+      "translationEn": "This means that small details are very important.",
+      "words": [
+        { "w": "التَّفَاصِيلَ", "root": "ف ص ل", "bs": "detalji", "en": "details" },
+        { "w": "الصَّغِيرَةَ", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "مُهِمَّةٌ", "root": "ه م م", "bs": "važni", "en": "important" }
+      ]
     },
     {
       "arabic": "نَسِيَ الطَّبَّاخُ إِضَافَةَ الْمِلْحِ لِلطَّعَامِ.",
       "translation": "Kuhar je zaboravio dodati sol u hranu.",
-      "translationEn": "The cook forgot to add salt to the food."
+      "translationEn": "The cook forgot to add salt to the food.",
+      "words": [
+        { "w": "نَسِيَ", "root": "ن س ي", "bs": "zaboravio je", "en": "forgot" },
+        { "w": "الطَّبَّاخُ", "root": "ط ب خ", "bs": "kuhar", "en": "cook" },
+        { "w": "إِضَافَةَ", "root": "ض ي ف", "bs": "dodavanje", "en": "adding" },
+        { "w": "الْمِلْحِ", "root": "م ل ح", "bs": "sol", "en": "salt" },
+        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "hrana", "en": "food" }
+      ]
     },
     {
       "arabic": "لَمْ يَكُنِ الطَّعَامُ لَذِيذًا بِسَبَبِ هَذِهِ التَّفْصِيلَةِ الصَّغِيرَةِ.",
       "translation": "Hrana nije bila ukusna zbog tog malog detalja.",
-      "translationEn": "The food was not tasty because of this small detail."
+      "translationEn": "The food was not tasty because of this small detail.",
+      "words": [
+        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana", "en": "food" },
+        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusna", "en": "tasty" },
+        { "w": "التَّفْصِيلَةِ", "root": "ف ص ل", "bs": "detalj", "en": "detail" }
+      ]
     }
   ],
   "metadata": {

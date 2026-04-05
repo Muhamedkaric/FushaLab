@@ -6,26 +6,116 @@
     {
       "arabic": "سَقَطَ الْمَطَرُ بِغَزَارَةٍ عَلَى الْمَدِينَةِ أَمَسِ.",
       "translation": "Jučer je pala jaka kiša na grad.",
-      "translationEn": "Heavy rain fell on the city yesterday."
+      "translationEn": "Heavy rain fell on the city yesterday.",
+      "words": [
+        {
+          "w": "سَقَطَ",
+          "root": "س ق ط",
+          "bs": "pao je",
+          "en": "fell"
+        },
+        {
+          "w": "الْمَطَرُ",
+          "root": "م ط ر",
+          "bs": "kiša",
+          "en": "rain"
+        },
+        {
+          "w": "بِغَزَارَةٍ",
+          "root": "غ ز ر",
+          "bs": "jako",
+          "en": "heavily"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "م د ن",
+          "bs": "gradu",
+          "en": "city"
+        }
+      ]
     },
     {
       "arabic": "أُغْلِقَتْ بَعْضُ الشَّوَارِعِ بِسَبَبِ الْمِيَاهِ.",
       "translation": "Neke ulice su bile zatvorene zbog vode.",
-      "translationEn": "Some streets were closed because of the water."
+      "translationEn": "Some streets were closed because of the water.",
+      "words": [
+        {
+          "w": "الشَّوَارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulice",
+          "en": "streets"
+        },
+        {
+          "w": "الْمِيَاهِ",
+          "root": "م و ه",
+          "bs": "vode",
+          "en": "water"
+        }
+      ]
     },
     {
       "arabic": "طَلَبَتِ الْبَلَدِيَّةُ مِنَ النَّاسِ الْبَقَاءَ فِي الْبُيُوتِ.",
       "translation": "Općina je zamolila ljude da ostanu kod kuće.",
-      "translationEn": "The municipality asked people to stay at home."
+      "translationEn": "The municipality asked people to stay at home.",
+      "words": [
+        {
+          "w": "الْبَلَدِيَّةُ",
+          "root": "ب ل د",
+          "bs": "općina",
+          "en": "municipality"
+        },
+        {
+          "w": "الْبَقَاءَ",
+          "root": "ب ق ي",
+          "bs": "ostanak",
+          "en": "staying"
+        },
+        {
+          "w": "الْبُيُوتِ",
+          "root": "ب ي ت",
+          "bs": "kućama",
+          "en": "homes"
+        }
+      ]
     },
     {
       "arabic": "تَوَقَّفَ الْمَطَرُ مَسَاءً وَعَادَتِ الشَّمْسُ.",
       "translation": "Kiša je prestala navečer i sunce se vratilo.",
-      "translationEn": "The rain stopped in the evening and the sun returned."
+      "translationEn": "The rain stopped in the evening and the sun returned.",
+      "words": [
+        {
+          "w": "تَوَقَّفَ",
+          "root": "و ق ف",
+          "bs": "prestao je",
+          "en": "stopped"
+        },
+        {
+          "w": "الْمَطَرُ",
+          "root": "م ط ر",
+          "bs": "kiša",
+          "en": "rain"
+        },
+        {
+          "w": "عَادَتِ",
+          "root": "ع و د",
+          "bs": "vratilo se",
+          "en": "returned"
+        },
+        {
+          "w": "الشَّمْسُ",
+          "root": "ش م س",
+          "bs": "sunce",
+          "en": "sun"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["weather", "rain", "city"]
+    "tags": [
+      "weather",
+      "rain",
+      "city"
+    ]
   }
 }

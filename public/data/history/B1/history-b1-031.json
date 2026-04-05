@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ الطَّرِيقُ الْقَدِيمُ يَمُرُّ عَبْرَ الْجِبَالِ وَالسُّهُولِ.",
       "translation": "Stari put je prolazio kroz planine i ravnice.",
-      "translationEn": "The ancient road used to pass through mountains and plains."
+      "translationEn": "The ancient road used to pass through mountains and plains.",
+      "words": [
+        { "w": "الطَّرِيقُ", "root": "ط ر ق", "bs": "put", "en": "the road" },
+        { "w": "الْقَدِيمُ", "root": "ق د م", "bs": "stari", "en": "ancient" },
+        { "w": "يَمُرُّ", "root": "م ر ر", "bs": "prolazi", "en": "passes" },
+        { "w": "الْجِبَالِ", "root": "ج ب ل", "bs": "planine", "en": "mountains" },
+        { "w": "السُّهُولِ", "root": "س ه ل", "bs": "ravnice", "en": "plains" }
+      ]
     },
     {
       "arabic": "سَارَ التُّجَّارُ عَلَيْهِ لِأَشْهُرٍ طَوِيلَةٍ.",
       "translation": "Trgovci su njim hodali dugo mjeseci.",
-      "translationEn": "The merchants walked on it for long months."
+      "translationEn": "The merchants walked on it for long months.",
+      "words": [
+        { "w": "سَارَ", "root": "س ي ر", "bs": "hodao je", "en": "walked" },
+        { "w": "التُّجَّارُ", "root": "ت ج ر", "bs": "trgovci", "en": "the merchants" },
+        { "w": "أَشْهُرٍ", "root": "ش ه ر", "bs": "mjeseci", "en": "months" },
+        { "w": "طَوِيلَةٍ", "root": "ط و ل", "bs": "dugi", "en": "long" }
+      ]
     },
     {
       "arabic": "تَبَادَلَ النَّاسُ الْبَضَائِعَ وَالأَفْكَارَ فِي الطَّرِيقِ.",
       "translation": "Ljudi su razmjenjivali robu i ideje na putu.",
-      "translationEn": "People exchanged goods and ideas along the road."
+      "translationEn": "People exchanged goods and ideas along the road.",
+      "words": [
+        { "w": "تَبَادَلَ", "root": "ب د ل", "bs": "razmjenjivao je", "en": "exchanged" },
+        { "w": "الْبَضَائِعَ", "root": "ب ض ع", "bs": "robu", "en": "goods" },
+        { "w": "الأَفْكَارَ", "root": "ف ك ر", "bs": "ideje", "en": "ideas" },
+        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "putu", "en": "the road" }
+      ]
     },
     {
       "arabic": "كَانَ الطَّرِيقُ يَرْبِطُ شُعُوبًا وَثَقَافَاتٍ مُخْتَلِفَةً.",
       "translation": "Put je povezivao različite narode i kulture.",
-      "translationEn": "The road connected different peoples and cultures."
+      "translationEn": "The road connected different peoples and cultures.",
+      "words": [
+        { "w": "الطَّرِيقُ", "root": "ط ر ق", "bs": "put", "en": "the road" },
+        { "w": "يَرْبِطُ", "root": "ر ب ط", "bs": "povezuje", "en": "connects" },
+        { "w": "شُعُوبًا", "root": "ش ع ب", "bs": "narode", "en": "peoples" },
+        { "w": "ثَقَافَاتٍ", "root": "ث ق ف", "bs": "kulture", "en": "cultures" },
+        { "w": "مُخْتَلِفَةً", "root": "خ ل ف", "bs": "različite", "en": "different" }
+      ]
     }
   ],
   "metadata": {

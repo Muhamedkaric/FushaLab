@@ -6,26 +6,127 @@
     {
       "arabic": "اشْتَرَتْ سُهَيْلَةُ مِنَ الصَّيْدَلِيَّةِ فِيتَامِينَاتٍ لِلشِّتَاءِ.",
       "translation": "Suheila je iz apoteke kupila vitamine za zimu.",
-      "translationEn": "Suhayla bought vitamins from the pharmacy for the winter."
+      "translationEn": "Suhayla bought vitamins from the pharmacy for the winter.",
+      "words": [
+        {
+          "w": "اشْتَرَتْ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought"
+        },
+        {
+          "w": "الصَّيْدَلِيَّةِ",
+          "root": "ص ي د",
+          "bs": "apoteka",
+          "en": "pharmacy"
+        },
+        {
+          "w": "فِيتَامِينَاتٍ",
+          "bs": "vitamini",
+          "en": "vitamins"
+        },
+        {
+          "w": "لِلشِّتَاءِ",
+          "root": "ش ت و",
+          "bs": "za zimu",
+          "en": "for the winter"
+        }
+      ]
     },
     {
       "arabic": "نَصَحَهَا الطَّبِيبُ بِأَخْذِ فِيتَامِينِ (د) فِي الشِّتَاءِ.",
       "translation": "Ljekar joj je savjetovao uzimanje vitamina D zimi.",
-      "translationEn": "The doctor advised her to take vitamin D in winter."
+      "translationEn": "The doctor advised her to take vitamin D in winter.",
+      "words": [
+        {
+          "w": "نَصَحَهَا",
+          "root": "ن ص ح",
+          "bs": "savjetovao joj je",
+          "en": "advised her"
+        },
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "بِأَخْذِ",
+          "root": "أ خ ذ",
+          "bs": "uzimanje",
+          "en": "to take"
+        },
+        {
+          "w": "فِيتَامِينِ",
+          "bs": "vitamin",
+          "en": "vitamin D"
+        },
+        {
+          "w": "الشِّتَاءِ",
+          "root": "ش ت و",
+          "bs": "zima",
+          "en": "winter"
+        }
+      ]
     },
     {
       "arabic": "تَأْخُذُ حَبَّةً وَاحِدَةً كُلَّ يَوْمٍ مَعَ الْإِفْطَارِ.",
       "translation": "Uzima jednu tabletu svaki dan uz doručak.",
-      "translationEn": "She takes one tablet every day with breakfast."
+      "translationEn": "She takes one tablet every day with breakfast.",
+      "words": [
+        {
+          "w": "تَأْخُذُ",
+          "root": "أ خ ذ",
+          "bs": "uzima",
+          "en": "takes"
+        },
+        {
+          "w": "حَبَّةً",
+          "root": "ح ب ب",
+          "bs": "tableta",
+          "en": "tablet"
+        },
+        {
+          "w": "الْإِفْطَارِ",
+          "root": "ف ط ر",
+          "bs": "doručak",
+          "en": "breakfast"
+        }
+      ]
     },
     {
       "arabic": "لَمْ تَمْرَضْ هَذَا الشِّتَاءَ وَهِيَ سَعِيدَةٌ بِذَلِكَ.",
       "translation": "Nije se razbolila ove zime i sretna je zbog toga.",
-      "translationEn": "She did not get sick this winter and is happy about that."
+      "translationEn": "She did not get sick this winter and is happy about that.",
+      "words": [
+        {
+          "w": "تَمْرَضْ",
+          "root": "م ر ض",
+          "bs": "razbolila se",
+          "en": "got sick"
+        },
+        {
+          "w": "الشِّتَاءَ",
+          "root": "ش ت و",
+          "bs": "zima",
+          "en": "winter"
+        },
+        {
+          "w": "سَعِيدَةٌ",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["vitamins", "pharmacy", "winter", "prevention"]
+    "tags": [
+      "vitamins",
+      "pharmacy",
+      "winter",
+      "prevention"
+    ]
   }
 }

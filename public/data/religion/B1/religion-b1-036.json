@@ -6,22 +6,114 @@
     {
       "arabic": "كَانَ مَنْصُورٌ يَعُودُ الْمَرِيضَ كُلَّ أُسْبُوعٍ.",
       "translation": "Mansur je svake sedmice posjećivao bolesnika.",
-      "translationEn": "Mansur visited the sick person every week."
+      "translationEn": "Mansur visited the sick person every week.",
+      "words": [
+        {
+          "w": "يَعُودُ",
+          "root": "ع و د",
+          "bs": "posjećivao je",
+          "en": "visited"
+        },
+        {
+          "w": "الْمَرِيضَ",
+          "root": "م ر ض",
+          "bs": "bolesnika",
+          "en": "the sick person"
+        },
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "أ س ب",
+          "bs": "sedmice",
+          "en": "every week"
+        }
+      ]
     },
     {
       "arabic": "كَانَ يَحْمِلُ لَهُ الطَّعَامَ وَالْفَوَاكِهَ.",
       "translation": "Nosio mu je hranu i voće.",
-      "translationEn": "He would bring him food and fruit."
+      "translationEn": "He would bring him food and fruit.",
+      "words": [
+        {
+          "w": "يَحْمِلُ",
+          "root": "ح م ل",
+          "bs": "nosio je",
+          "en": "brought"
+        },
+        {
+          "w": "لَهُ الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food"
+        },
+        {
+          "w": "الْفَوَاكِهَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit"
+        }
+      ]
     },
     {
       "arabic": "جَلَسَ مَعَهُ وَتَحَدَّثَ مَعَهُ لِيُؤْنِسَهُ.",
       "translation": "Sjedio bi s njim i razgovarao da mu bude društvo.",
-      "translationEn": "He sat with him and talked with him to keep him company."
+      "translationEn": "He sat with him and talked with him to keep him company.",
+      "words": [
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjedio je",
+          "en": "sat"
+        },
+        {
+          "w": "تَحَدَّثَ",
+          "root": "ح د ث",
+          "bs": "razgovarao je",
+          "en": "talked"
+        },
+        {
+          "w": "يُؤْنِسَهُ",
+          "root": "أ ن س",
+          "bs": "da mu bude društvo",
+          "en": "to keep him company"
+        }
+      ]
     },
     {
       "arabic": "يَعْلَمُ أَنَّ عِيَادَةَ الْمَرِيضِ مِنَ حَقِّ الْمُسْلِمِ.",
       "translation": "Zna da je posjeta bolesnog pravo muslimana.",
-      "translationEn": "He knows that visiting the sick is a right of the Muslim."
+      "translationEn": "He knows that visiting the sick is a right of the Muslim.",
+      "words": [
+        {
+          "w": "يَعْلَمُ",
+          "root": "ع ل م",
+          "bs": "zna",
+          "en": "knows"
+        },
+        {
+          "w": "عِيَادَةَ",
+          "root": "ع و د",
+          "bs": "posjeta",
+          "en": "visiting"
+        },
+        {
+          "w": "الْمَرِيضِ",
+          "root": "م ر ض",
+          "bs": "bolesnog",
+          "en": "the sick"
+        },
+        {
+          "w": "حَقِّ",
+          "root": "ح ق ق",
+          "bs": "pravo",
+          "en": "a right"
+        },
+        {
+          "w": "الْمُسْلِمِ",
+          "root": "س ل م",
+          "bs": "muslimana",
+          "en": "the Muslim"
+        }
+      ]
     }
   ],
   "metadata": {

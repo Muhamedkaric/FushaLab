@@ -6,22 +6,46 @@
     {
       "arabic": "أَظُنُّ أَنَّ الْكِتَابَةَ الْيَدَوِيَّةَ لَا تَزَالُ مُهِمَّةً.",
       "translation": "Mislim da je ručno pisanje i dalje važno.",
-      "translationEn": "I think that handwriting is still important."
+      "translationEn": "I think that handwriting is still important.",
+      "words": [
+        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
+        { "w": "الْكِتَابَةَ", "root": "ك ت ب", "bs": "pisanje", "en": "handwriting" },
+        { "w": "الْيَدَوِيَّةَ", "root": "ي د ي", "bs": "ručno", "en": "by hand" },
+        { "w": "مُهِمَّةً", "root": "ه م م", "bs": "važno", "en": "important" }
+      ]
     },
     {
       "arabic": "حِينَ أَكْتُبُ بِيَدِي أَتَذَكَّرُ الْمَعْلُومَاتِ أَفْضَلَ.",
       "translation": "Kada pišem rukom, bolje pamtim informacije.",
-      "translationEn": "When I write by hand I remember information better."
+      "translationEn": "When I write by hand I remember information better.",
+      "words": [
+        { "w": "أَكْتُبُ", "root": "ك ت ب", "bs": "pišem", "en": "write" },
+        { "w": "بِيَدِي", "root": "ي د ي", "bs": "rukom", "en": "by hand" },
+        { "w": "أَتَذَكَّرُ", "root": "ذ ك ر", "bs": "pamtim", "en": "remember" },
+        { "w": "الْمَعْلُومَاتِ", "root": "ع ل م", "bs": "informacije", "en": "information" }
+      ]
     },
     {
       "arabic": "الْكِتَابَةُ عَلَى الْوَرَقِ تُعَبِّرُ عَنْ شَخْصِيَّةِ الْكَاتِبِ.",
       "translation": "Pisanje na papiru izražava ličnost pisca.",
-      "translationEn": "Writing on paper expresses the personality of the writer."
+      "translationEn": "Writing on paper expresses the personality of the writer.",
+      "words": [
+        { "w": "الْكِتَابَةُ", "root": "ك ت ب", "bs": "pisanje", "en": "writing" },
+        { "w": "الْوَرَقِ", "root": "و ر ق", "bs": "papir", "en": "paper" },
+        { "w": "تُعَبِّرُ", "root": "ع ب ر", "bs": "izražava", "en": "expresses" },
+        { "w": "شَخْصِيَّةِ", "root": "ش خ ص", "bs": "ličnost", "en": "personality" }
+      ]
     },
     {
       "arabic": "أُحَاوِلُ أَنْ أَكْتُبَ بِيَدِي كُلَّ يَوْمٍ وَلَوْ قَلِيلًا.",
       "translation": "Trudim se svaki dan pisati rukom, makar malo.",
-      "translationEn": "I try to write by hand every day even if just a little."
+      "translationEn": "I try to write by hand every day even if just a little.",
+      "words": [
+        { "w": "أُحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
+        { "w": "أَكْتُبَ", "root": "ك ت ب", "bs": "da pišem", "en": "to write" },
+        { "w": "بِيَدِي", "root": "ي د ي", "bs": "rukom", "en": "by hand" },
+        { "w": "قَلِيلًا", "root": "ق ل ل", "bs": "malo", "en": "a little" }
+      ]
     }
   ],
   "metadata": {

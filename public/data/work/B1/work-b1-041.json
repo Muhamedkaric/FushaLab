@@ -6,22 +6,47 @@
     {
       "arabic": "تَعَلَّمَ شَادِيٌّ مَهَارَةً جَدِيدَةً فِي الْعَمَلِ.",
       "translation": "Šadi je naučio novu vještinu na poslu.",
-      "translationEn": "Shadi learned a new skill at work."
+      "translationEn": "Shadi learned a new skill at work.",
+      "words": [
+        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučio je", "en": "learned" },
+        { "w": "مَهَارَةً", "root": "م ه ر", "bs": "vještinu/sposobnost", "en": "skill" },
+        { "w": "جَدِيدَةً", "root": "ج د د", "bs": "novu", "en": "new" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao/rad", "en": "work" }
+      ]
     },
     {
       "arabic": "أَخَذَ دَوْرَةً تَدْرِيبِيَّةً قَصِيرَةً عَبْرَ الْإِنْتَرْنِتِ.",
       "translation": "Pohađao je kratki trening kurs putem interneta.",
-      "translationEn": "He took a short training course via the internet."
+      "translationEn": "He took a short training course via the internet.",
+      "words": [
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "pohađao je/uzeo", "en": "took" },
+        { "w": "دَوْرَةً", "root": "د و ر", "bs": "kurs/obuka", "en": "course" },
+        { "w": "تَدْرِيبِيَّةً", "root": "د ر ب", "bs": "trening/obuka", "en": "training" },
+        { "w": "قَصِيرَةً", "root": "ق ص ر", "bs": "kratkog/kratki", "en": "short" },
+        { "w": "الْإِنْتَرْنِتِ", "root": "ن ت ر", "bs": "internet", "en": "internet" }
+      ]
     },
     {
       "arabic": "طَبَّقَ مَا تَعَلَّمَهُ فِي عَمَلِهِ الْيَوْمِيِّ.",
       "translation": "Primijenio je ono što je naučio u svakodnevnom radu.",
-      "translationEn": "He applied what he learned in his daily work."
+      "translationEn": "He applied what he learned in his daily work.",
+      "words": [
+        { "w": "طَبَّقَ", "root": "ط ب ق", "bs": "primijenio je", "en": "applied" },
+        { "w": "تَعَلَّمَهُ", "root": "ع ل م", "bs": "naučio je", "en": "learned" },
+        { "w": "عَمَلِهِ", "root": "ع م ل", "bs": "njegov posao", "en": "his work" },
+        { "w": "الْيَوْمِيِّ", "root": "ي و م", "bs": "svakodnevnom/dnevnom", "en": "daily" }
+      ]
     },
     {
       "arabic": "لَاحَظَ الْمُدِيرُ تَحَسُّنًا وَأَثْنَى عَلَيْهِ.",
       "translation": "Direktor je primijetio poboljšanje i pohvalio ga.",
-      "translationEn": "The manager noticed the improvement and praised him."
+      "translationEn": "The manager noticed the improvement and praised him.",
+      "words": [
+        { "w": "لَاحَظَ", "root": "ل ح ظ", "bs": "primijetio je", "en": "noticed" },
+        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
+        { "w": "تَحَسُّنًا", "root": "ح س ن", "bs": "poboljšanje/napredak", "en": "improvement" },
+        { "w": "أَثْنَى", "root": "ث ن ي", "bs": "pohvalio je", "en": "praised" }
+      ]
     }
   ],
   "metadata": {

@@ -6,31 +6,148 @@
     {
       "arabic": "ذَهَبَتْ فَاطِمَةُ إِلَى الصَّيْدَلِيَّةِ لِشِرَاءِ دَوَاءٍ لِلسُّعَالِ.",
       "translation": "Fatima je otišla u apoteku da kupi lijek za kašalj.",
-      "translationEn": "Fatima went to the pharmacy to buy cough medicine."
+      "translationEn": "Fatima went to the pharmacy to buy cough medicine.",
+      "words": [
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla je",
+          "en": "went"
+        },
+        {
+          "w": "الصَّيْدَلِيَّةِ",
+          "root": "ص ي د",
+          "bs": "apoteka",
+          "en": "pharmacy"
+        },
+        {
+          "w": "دَوَاءٍ",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "لِلسُّعَالِ",
+          "root": "س ع ل",
+          "bs": "za kašalj",
+          "en": "for cough"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَ الصَّيْدَلَانِيُّ عَنْ أَعْرَاضِهَا.",
       "translation": "Farmaceut je upitao o njezinim simptomima.",
-      "translationEn": "The pharmacist asked about her symptoms."
+      "translationEn": "The pharmacist asked about her symptoms.",
+      "words": [
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "upitao je",
+          "en": "asked"
+        },
+        {
+          "w": "الصَّيْدَلَانِيُّ",
+          "root": "ص ي د",
+          "bs": "farmaceut",
+          "en": "pharmacist"
+        },
+        {
+          "w": "أَعْرَاضِهَا",
+          "root": "ع ر ض",
+          "bs": "simptomi",
+          "en": "symptoms"
+        }
+      ]
     },
     {
       "arabic": "قَالَتْ إِنَّهَا تَسْعُلُ كَثِيرًا وَتَشْعُرُ بِبَرْدٍ.",
       "translation": "Rekla je da mnogo kašlje i da se osjeća prehlaðeno.",
-      "translationEn": "She said she coughs a lot and feels cold."
+      "translationEn": "She said she coughs a lot and feels cold.",
+      "words": [
+        {
+          "w": "تَسْعُلُ",
+          "root": "س ع ل",
+          "bs": "kašlje",
+          "en": "coughs"
+        },
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels"
+        },
+        {
+          "w": "بِبَرْدٍ",
+          "root": "ب ر د",
+          "bs": "prehladnom",
+          "en": "cold"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَاهَا الصَّيْدَلَانِيُّ دَوَاءً مُنَاسِبًا وَشَرَحَ لَهَا كَيْفَ تَأْخُذُهُ.",
       "translation": "Farmaceut joj je dao odgovarajući lijek i objasnio kako ga uzeti.",
-      "translationEn": "The pharmacist gave her a suitable medicine and explained how to take it."
+      "translationEn": "The pharmacist gave her a suitable medicine and explained how to take it.",
+      "words": [
+        {
+          "w": "أَعْطَاهَا",
+          "root": "ع ط ي",
+          "bs": "dao joj je",
+          "en": "gave her"
+        },
+        {
+          "w": "دَوَاءً",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "مُنَاسِبًا",
+          "root": "ن س ب",
+          "bs": "odgovarajući",
+          "en": "suitable"
+        },
+        {
+          "w": "شَرَحَ",
+          "root": "ش ر ح",
+          "bs": "objasnio je",
+          "en": "explained"
+        }
+      ]
     },
     {
       "arabic": "شَكَرَتْ فَاطِمَةُ الصَّيْدَلَانِيَّ وَعَادَتْ إِلَى الْبَيْتِ.",
       "translation": "Fatima je zahvalila farmaceutu i vratila se kući.",
-      "translationEn": "Fatima thanked the pharmacist and went back home."
+      "translationEn": "Fatima thanked the pharmacist and went back home.",
+      "words": [
+        {
+          "w": "شَكَرَتْ",
+          "root": "ش ك ر",
+          "bs": "zahvalila je",
+          "en": "thanked"
+        },
+        {
+          "w": "الصَّيْدَلَانِيَّ",
+          "root": "ص ي د",
+          "bs": "farmaceut",
+          "en": "pharmacist"
+        },
+        {
+          "w": "عَادَتْ",
+          "root": "ع و د",
+          "bs": "vratila se",
+          "en": "returned"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["pharmacy", "cough", "medicine", "cold"]
+    "tags": [
+      "pharmacy",
+      "cough",
+      "medicine",
+      "cold"
+    ]
   }
 }

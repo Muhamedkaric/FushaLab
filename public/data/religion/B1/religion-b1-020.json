@@ -6,22 +6,132 @@
     {
       "arabic": "رَأَى خَالِدٌ رَجُلًا يَحْتَاجُ إِلَى مُسَاعَدَةٍ فِي الشَّارِعِ.",
       "translation": "Halid je u ulici vidio čovjeka koji treba pomoć.",
-      "translationEn": "Khalid saw a man who needed help in the street."
+      "translationEn": "Khalid saw a man who needed help in the street.",
+      "words": [
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw"
+        },
+        {
+          "w": "رَجُلًا",
+          "root": "ر ج ل",
+          "bs": "čovjeka",
+          "en": "a man"
+        },
+        {
+          "w": "يَحْتَاجُ",
+          "root": "ح و ج",
+          "bs": "treba",
+          "en": "needed"
+        },
+        {
+          "w": "مُسَاعَدَةٍ",
+          "root": "س ع د",
+          "bs": "pomoć",
+          "en": "help"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulici",
+          "en": "the street"
+        }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَيْهِ وَسَأَلَهُ: هَلْ تَحْتَاجُ مُسَاعَدَةً؟",
       "translation": "Prišao mu je i pitao ga: Trebaš li pomoć?",
-      "translationEn": "He went to him and asked: Do you need help?"
+      "translationEn": "He went to him and asked: Do you need help?",
+      "words": [
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "prišao mu je",
+          "en": "went to him"
+        },
+        {
+          "w": "سَأَلَهُ",
+          "root": "س أ ل",
+          "bs": "pitao ga je",
+          "en": "asked him"
+        },
+        {
+          "w": "تَحْتَاجُ",
+          "root": "ح و ج",
+          "bs": "trebaš",
+          "en": "need"
+        },
+        {
+          "w": "مُسَاعَدَةً",
+          "root": "س ع د",
+          "bs": "pomoć",
+          "en": "help"
+        }
+      ]
     },
     {
       "arabic": "أَعَانَهُ عَلَى حَمْلِ الْحَقِيبَةِ الثَّقِيلَةِ.",
       "translation": "Pomogao mu je ponijeti tešku torbu.",
-      "translationEn": "He helped him carry the heavy bag."
+      "translationEn": "He helped him carry the heavy bag.",
+      "words": [
+        {
+          "w": "أَعَانَهُ",
+          "root": "ع و ن",
+          "bs": "pomogao mu je",
+          "en": "helped him"
+        },
+        {
+          "w": "حَمْلِ",
+          "root": "ح م ل",
+          "bs": "nošenje",
+          "en": "carry"
+        },
+        {
+          "w": "الْحَقِيبَةِ",
+          "root": "ح ق ب",
+          "bs": "torbu",
+          "en": "the bag"
+        },
+        {
+          "w": "الثَّقِيلَةِ",
+          "root": "ث ق ل",
+          "bs": "tešku",
+          "en": "heavy"
+        }
+      ]
     },
     {
       "arabic": "شَعَرَ بِالسَّعَادَةِ لِأَنَّهُ فَعَلَ خَيْرًا.",
       "translation": "Osjetio je sreću jer je učinio dobro.",
-      "translationEn": "He felt happy because he did a good deed."
+      "translationEn": "He felt happy because he did a good deed.",
+      "words": [
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio je",
+          "en": "felt"
+        },
+        {
+          "w": "بِالسَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sreću",
+          "en": "happy"
+        },
+        {
+          "w": "فَعَلَ",
+          "root": "ف ع ل",
+          "bs": "učinio je",
+          "en": "did"
+        },
+        {
+          "w": "خَيْرًا",
+          "root": "خ ي ر",
+          "bs": "dobro",
+          "en": "a good deed"
+        }
+      ]
     }
   ],
   "metadata": {

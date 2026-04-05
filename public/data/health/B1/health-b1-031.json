@@ -6,26 +6,131 @@
     {
       "arabic": "يُحِبُّ طَارِقٌ الْيُوغَا وَيُمَارِسُهَا كُلَّ مَسَاءٍ.",
       "translation": "Tarik voli jogu i vježba je svake večeri.",
-      "translationEn": "Tariq loves yoga and practises it every evening."
+      "translationEn": "Tariq loves yoga and practises it every evening.",
+      "words": [
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "loves"
+        },
+        {
+          "w": "الْيُوغَا",
+          "bs": "joga",
+          "en": "yoga"
+        },
+        {
+          "w": "يُمَارِسُهَا",
+          "root": "م ر س",
+          "bs": "vježba je",
+          "en": "practises it"
+        },
+        {
+          "w": "مَسَاءٍ",
+          "root": "م س و",
+          "bs": "večer",
+          "en": "evening"
+        }
+      ]
     },
     {
       "arabic": "تُسَاعِدُهُ عَلَى الِاسْتِرْخَاءِ بَعْدَ يَوْمٍ مُتْعِبٍ.",
       "translation": "Pomaže mu da se opusti nakon napornog dana.",
-      "translationEn": "It helps him relax after a tiring day."
+      "translationEn": "It helps him relax after a tiring day.",
+      "words": [
+        {
+          "w": "تُسَاعِدُهُ",
+          "root": "س و ع",
+          "bs": "pomaže mu",
+          "en": "helps him"
+        },
+        {
+          "w": "الِاسْتِرْخَاءِ",
+          "root": "ر خ و",
+          "bs": "opuštanje",
+          "en": "relaxing"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "مُتْعِبٍ",
+          "root": "ت ع ب",
+          "bs": "naporan",
+          "en": "tiring"
+        }
+      ]
     },
     {
       "arabic": "تَعَلَّمَ الْيُوغَا مِنْ فِيدِيُوهَاتٍ عَلَى الْإِنْتَرْنِتِ.",
       "translation": "Naučio je jogu gledajući videa na internetu.",
-      "translationEn": "He learned yoga from videos on the internet."
+      "translationEn": "He learned yoga from videos on the internet.",
+      "words": [
+        {
+          "w": "تَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "learned"
+        },
+        {
+          "w": "الْيُوغَا",
+          "bs": "joga",
+          "en": "yoga"
+        },
+        {
+          "w": "فِيدِيُوهَاتٍ",
+          "bs": "videa",
+          "en": "videos"
+        },
+        {
+          "w": "الْإِنْتَرْنِتِ",
+          "bs": "internet",
+          "en": "internet"
+        }
+      ]
     },
     {
       "arabic": "يَمَارِسُهَا فِي غُرْفَتِهِ عَلَى سَجَّادَةٍ صَغِيرَةٍ.",
       "translation": "Vježba je u svojoj sobi na maloj prostirci.",
-      "translationEn": "He practises it in his room on a small mat."
+      "translationEn": "He practises it in his room on a small mat.",
+      "words": [
+        {
+          "w": "يَمَارِسُهَا",
+          "root": "م ر س",
+          "bs": "vježba je",
+          "en": "practises it"
+        },
+        {
+          "w": "غُرْفَتِهِ",
+          "root": "غ ر ف",
+          "bs": "soba",
+          "en": "room"
+        },
+        {
+          "w": "سَجَّادَةٍ",
+          "root": "س ج د",
+          "bs": "prostirka",
+          "en": "mat"
+        },
+        {
+          "w": "صَغِيرَةٍ",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "small"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["yoga", "relaxation", "evening routine", "exercise"]
+    "tags": [
+      "yoga",
+      "relaxation",
+      "evening routine",
+      "exercise"
+    ]
   }
 }

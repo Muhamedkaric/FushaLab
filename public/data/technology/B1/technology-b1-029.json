@@ -6,22 +6,113 @@
     {
       "arabic": "طَلَبَ الطِّفْلُ مِنْ أُمِّهِ أَنْ تُصَوِّرَهُ.",
       "translation": "Dijete je zamolilo majku da ga fotografiše.",
-      "translationEn": "The child asked his mother to take his photo."
+      "translationEn": "The child asked his mother to take his photo.",
+      "words": [
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zamolilo je",
+          "en": "asked"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child"
+        },
+        {
+          "w": "أُمِّهِ",
+          "root": "أ م م",
+          "bs": "majci",
+          "en": "his mother"
+        },
+        {
+          "w": "تُصَوِّرَهُ",
+          "root": "ص و ر",
+          "bs": "fotografiše ga",
+          "en": "take his photo"
+        }
+      ]
     },
     {
       "arabic": "أَمْسَكَتِ الْأُمُّ الْهَاتِفَ وَنَظَرَتْ إِلَيْهِ.",
       "translation": "Majka je uzela telefon i pogledala ga.",
-      "translationEn": "The mother held the phone and looked at him."
+      "translationEn": "The mother held the phone and looked at him.",
+      "words": [
+        {
+          "w": "أَمْسَكَتِ",
+          "root": "م س ك",
+          "bs": "uzela je",
+          "en": "held"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "the mother"
+        },
+        {
+          "w": "الْهَاتِفَ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "the phone"
+        }
+      ]
     },
     {
       "arabic": "قَالَتِ: ابْتَسِمْ وَاِنْظُرْ إِلَى الْكَامِيرَا.",
       "translation": "Rekla je: Nasmij se i gledaj u kameru.",
-      "translationEn": "She said: Smile and look at the camera."
+      "translationEn": "She said: Smile and look at the camera.",
+      "words": [
+        {
+          "w": "ابْتَسِمْ",
+          "root": "ب س م",
+          "bs": "nasmij se",
+          "en": "smile"
+        },
+        {
+          "w": "انْظُرْ",
+          "root": "ن ظ ر",
+          "bs": "gledaj",
+          "en": "look"
+        },
+        {
+          "w": "الْكَامِيرَا",
+          "bs": "kameru",
+          "en": "the camera"
+        }
+      ]
     },
     {
       "arabic": "الْتَقَطَتِ الصُّورَةَ وَأَعْطَتِ الطِّفْلَ يَنْظُرُ إِلَيْهَا.",
       "translation": "Snimila je fotografiju i dala djetetu da je gleda.",
-      "translationEn": "She took the photo and let the child look at it."
+      "translationEn": "She took the photo and let the child look at it.",
+      "words": [
+        {
+          "w": "الْتَقَطَتِ",
+          "root": "ل ق ط",
+          "bs": "snimila je",
+          "en": "took"
+        },
+        {
+          "w": "الصُّورَةَ",
+          "root": "ص و ر",
+          "bs": "fotografiju",
+          "en": "the photo"
+        },
+        {
+          "w": "أَعْطَتِ",
+          "root": "ع ط و",
+          "bs": "dala je",
+          "en": "let"
+        },
+        {
+          "w": "الطِّفْلَ",
+          "root": "ط ف ل",
+          "bs": "djetetu",
+          "en": "the child"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,45 @@
     {
       "arabic": "أَرَادَ مُحَمَّدٌ شِرَاءَ هَاتِفٍ جَدِيدٍ.",
       "translation": "Muhammed je htio kupiti novi telefon.",
-      "translationEn": "Mohammed wanted to buy a new phone."
+      "translationEn": "Mohammed wanted to buy a new phone.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "شِرَاءَ", "root": "ش ر ي", "bs": "kupovinu", "en": "to buy" },
+        { "w": "هَاتِفٍ", "root": "ه ت ف", "bs": "telefon", "en": "phone" },
+        { "w": "جَدِيدٍ", "root": "ج د د", "bs": "novi", "en": "new" }
+      ]
     },
     {
       "arabic": "جَمَعَ نُقُودَهُ لِمُدَّةِ أَرْبَعَةِ أَشْهُرٍ.",
       "translation": "Skupljao je novac četiri mjeseca.",
-      "translationEn": "He saved his money for four months."
+      "translationEn": "He saved his money for four months.",
+      "words": [
+        { "w": "جَمَعَ", "root": "ج م ع", "bs": "skupljao je", "en": "saved" },
+        { "w": "نُقُودَهُ", "root": "ن ق د", "bs": "njegov novac", "en": "his money" },
+        { "w": "أَشْهُرٍ", "root": "ش ه ر", "bs": "mjeseci", "en": "months" }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَى المَحَلِّ وَسَأَلَ عَنِ الأَسْعَارِ.",
       "translation": "Otišao je u prodavnicu i pitao za cijene.",
-      "translationEn": "He went to the shop and asked about prices."
+      "translationEn": "He went to the shop and asked about prices.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "المَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" },
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "الأَسْعَارِ", "root": "س ع ر", "bs": "cijene", "en": "prices" }
+      ]
     },
     {
       "arabic": "اخْتَارَ هَاتِفًا مُنَاسِبًا بِالمَبْلَغِ الذِي جَمَعَهُ.",
       "translation": "Odabrao je odgovarajući telefon za iznos koji je sakupio.",
-      "translationEn": "He chose a suitable phone with the amount he had saved."
+      "translationEn": "He chose a suitable phone with the amount he had saved.",
+      "words": [
+        { "w": "اخْتَارَ", "root": "خ ي ر", "bs": "odabrao je", "en": "chose" },
+        { "w": "هَاتِفًا", "root": "ه ت ف", "bs": "telefon", "en": "phone" },
+        { "w": "مُنَاسِبًا", "root": "ن س ب", "bs": "odgovarajući", "en": "suitable" },
+        { "w": "المَبْلَغِ", "root": "ب ل غ", "bs": "iznos", "en": "amount" }
+      ]
     }
   ],
   "metadata": {

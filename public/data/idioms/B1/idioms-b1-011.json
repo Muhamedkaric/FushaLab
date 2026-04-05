@@ -6,22 +6,41 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «قُلْ لِي مَنْ صَدِيقُكَ أَقُلْ لَكَ مَنْ أَنْتَ».",
       "translation": "Poslovica kaže: «Reci mi ko ti je prijatelj, reći ću ti ko si ti».",
-      "translationEn": "The proverb says: «Tell me who your friend is and I will tell you who you are»."
+      "translationEn": "The proverb says: «Tell me who your friend is and I will tell you who you are».",
+      "words": [
+        { "w": "صَدِيقُكَ", "root": "ص د ق", "bs": "tvoj prijatelj", "en": "your friend" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ أَصْدِقَاءَنَا يُؤَثِّرُونَ فِي شَخْصِيَّتِنَا.",
       "translation": "To znači da naši prijatelji utiču na naš karakter.",
-      "translationEn": "This means that our friends influence our character."
+      "translationEn": "This means that our friends influence our character.",
+      "words": [
+        { "w": "أَصْدِقَاءَنَا", "root": "ص د ق", "bs": "naši prijatelji", "en": "our friends" },
+        { "w": "يُؤَثِّرُونَ", "root": "أ ث ر", "bs": "utiču", "en": "influence" },
+        { "w": "شَخْصِيَّتِنَا", "root": "ش خ ص", "bs": "naš karakter", "en": "our character" }
+      ]
     },
     {
       "arabic": "اخْتَارَ رَامِيٌّ أَصْدِقَاءَ طَيِّبِينَ يُحِبُّونَ الْعِلْمَ.",
       "translation": "Rami je izabrao dobre prijatelje koji vole znanje.",
-      "translationEn": "Rami chose good friends who love knowledge."
+      "translationEn": "Rami chose good friends who love knowledge.",
+      "words": [
+        { "w": "اخْتَارَ", "root": "خ ي ر", "bs": "izabrao je", "en": "chose" },
+        { "w": "أَصْدِقَاءَ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
+        { "w": "طَيِّبِينَ", "root": "ط ي ب", "bs": "dobre", "en": "good" },
+        { "w": "الْعِلْمَ", "root": "ع ل م", "bs": "znanje", "en": "knowledge" }
+      ]
     },
     {
       "arabic": "أَصْبَحَ مِثْلَهُمْ مُحِبًّا لِلْكِتَابِ وَالتَّعَلُّمِ.",
       "translation": "Postao je poput njih - ljubitelj knjige i učenja.",
-      "translationEn": "He became like them, a lover of books and learning."
+      "translationEn": "He became like them, a lover of books and learning.",
+      "words": [
+        { "w": "مُحِبًّا", "root": "ح ب ب", "bs": "ljubitelj", "en": "lover" },
+        { "w": "لِلْكِتَابِ", "root": "ك ت ب", "bs": "knjiga", "en": "books" },
+        { "w": "التَّعَلُّمِ", "root": "ع ل م", "bs": "učenje", "en": "learning" }
+      ]
     }
   ],
   "metadata": {

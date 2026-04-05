@@ -6,22 +6,45 @@
     {
       "arabic": "أَعَدَّتِ الْأُمُّ الْحَقَائِبَ قَبْلَ يَوْمٍ مِنَ السَّفَرِ.",
       "translation": "Majka je pripremila torbe dan prije putovanja.",
-      "translationEn": "The mother prepared the bags one day before the trip."
+      "translationEn": "The mother prepared the bags one day before the trip.",
+      "words": [
+        { "w": "أَعَدَّتِ", "root": "ع د د", "bs": "pripremila je", "en": "prepared" },
+        { "w": "الْحَقَائِبَ", "root": "ح ق ب", "bs": "torbe", "en": "bags" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "السَّفَرِ", "root": "س ف ر", "bs": "putovanje", "en": "travel / trip" }
+      ]
     },
     {
       "arabic": "وَضَعَتْ فِي الْحَقِيبَةِ الْمَلَابِسَ وَالْأَدْوِيَةَ.",
       "translation": "Stavila je u torbu odjeću i lijekove.",
-      "translationEn": "She put clothes and medicine in the bag."
+      "translationEn": "She put clothes and medicine in the bag.",
+      "words": [
+        { "w": "وَضَعَتْ", "root": "و ض ع", "bs": "stavila je", "en": "put" },
+        { "w": "الْحَقِيبَةِ", "root": "ح ق ب", "bs": "torba", "en": "bag" },
+        { "w": "الْمَلَابِسَ", "root": "ل ب س", "bs": "odjeća", "en": "clothes" },
+        { "w": "الْأَدْوِيَةَ", "root": "د و ي", "bs": "lijekovi", "en": "medicines" }
+      ]
     },
     {
       "arabic": "نَسِيَتِ الْحَقِيبَةَ الصَّغِيرَةَ وَتَذَكَّرَتْهَا فِي الصَّبَاحِ.",
       "translation": "Zaboravila je malu torbu i sjetila se je ujutro.",
-      "translationEn": "She forgot the small bag and remembered it in the morning."
+      "translationEn": "She forgot the small bag and remembered it in the morning.",
+      "words": [
+        { "w": "نَسِيَتِ", "root": "ن س ي", "bs": "zaboravila je", "en": "forgot" },
+        { "w": "الْحَقِيبَةَ", "root": "ح ق ب", "bs": "torba", "en": "bag" },
+        { "w": "الصَّغِيرَةَ", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "تَذَكَّرَتْهَا", "root": "ذ ك ر", "bs": "sjetila se je", "en": "remembered it" }
+      ]
     },
     {
       "arabic": "أَضَافَتْهَا وَسَافَرَتِ الْعَائِلَةُ فِي الْوَقْتِ الْمُنَاسِبِ.",
       "translation": "Dodala ju je i porodica je putovala u pravo vrijeme.",
-      "translationEn": "She added it and the family traveled on time."
+      "translationEn": "She added it and the family traveled on time.",
+      "words": [
+        { "w": "أَضَافَتْهَا", "root": "ض ي ف", "bs": "dodala je / pripakovala je", "en": "added it" },
+        { "w": "سَافَرَتِ", "root": "س ف ر", "bs": "putovala je", "en": "traveled" },
+        { "w": "الْوَقْتِ", "root": "و ق ت", "bs": "vrijeme / termin", "en": "time" }
+      ]
     }
   ],
   "metadata": {

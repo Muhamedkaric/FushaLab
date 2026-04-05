@@ -6,22 +6,49 @@
     {
       "arabic": "الخَطُّ العَرَبِيُّ فَنٌّ قَدِيمٌ وَجَمِيلٌ.",
       "translation": "Arapska kaligrafija je stara i lijepa umjetnost.",
-      "translationEn": "Arabic calligraphy is an old and beautiful art."
+      "translationEn": "Arabic calligraphy is an old and beautiful art.",
+      "words": [
+        { "w": "الخَطُّ", "root": "خ ط ط", "bs": "kaligrafija", "en": "calligraphy" },
+        { "w": "العَرَبِيُّ", "root": "ع ر ب", "bs": "arapska", "en": "Arabic" },
+        { "w": "فَنٌّ", "root": "ف ن ن", "bs": "umjetnost", "en": "art" },
+        { "w": "قَدِيمٌ", "root": "ق د م", "bs": "stara", "en": "old" },
+        { "w": "جَمِيلٌ", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "يَتَعَلَّمُ الطَّالِبُ كَيْفَ يَكْتُبُ الحُرُوفَ بِشَكْلٍ صَحِيحٍ.",
       "translation": "Student uči kako pravilno pisati slova.",
-      "translationEn": "The student learns how to write letters correctly."
+      "translationEn": "The student learns how to write letters correctly.",
+      "words": [
+        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learns" },
+        { "w": "الطَّالِبُ", "root": "ط ل ب", "bs": "student", "en": "student" },
+        { "w": "يَكْتُبُ", "root": "ك ت ب", "bs": "pisati", "en": "write" },
+        { "w": "الحُرُوفَ", "root": "ح ر ف", "bs": "slova", "en": "letters" },
+        { "w": "صَحِيحٍ", "root": "ص ح ح", "bs": "pravilno", "en": "correctly" }
+      ]
     },
     {
       "arabic": "يَحْتَاجُ إِلَى قَلَمٍ خَاصٍّ وَوَرَقٍ جَيِّدٍ.",
       "translation": "Treba mu posebna olovka i dobar papir.",
-      "translationEn": "He needs a special pen and good paper."
+      "translationEn": "He needs a special pen and good paper.",
+      "words": [
+        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba mu", "en": "needs" },
+        { "w": "قَلَمٍ", "root": "ق ل م", "bs": "olovka", "en": "pen" },
+        { "w": "خَاصٍّ", "root": "خ ص ص", "bs": "posebna", "en": "special" },
+        { "w": "وَرَقٍ", "root": "و ر ق", "bs": "papir", "en": "paper" },
+        { "w": "جَيِّدٍ", "root": "ج و د", "bs": "dobar", "en": "good" }
+      ]
     },
     {
       "arabic": "يَتَمَرَّنُ كُلَّ يَوْمٍ حَتَّى يُتْقِنَ الخَطَّ.",
       "translation": "Vježba svaki dan dok ne savlada kaligrafiju.",
-      "translationEn": "He practices every day until he masters calligraphy."
+      "translationEn": "He practices every day until he masters calligraphy.",
+      "words": [
+        { "w": "يَتَمَرَّنُ", "root": "م ر ن", "bs": "vježba", "en": "practices" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "يُتْقِنَ", "root": "ت ق ن", "bs": "savlada", "en": "masters" },
+        { "w": "الخَطَّ", "root": "خ ط ط", "bs": "kaligrafiju", "en": "calligraphy" }
+      ]
     }
   ],
   "metadata": {

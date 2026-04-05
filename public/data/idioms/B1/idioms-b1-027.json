@@ -6,22 +6,46 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «خَيْرُ الْكَلَامِ مَا قَلَّ وَدَلَّ».",
       "translation": "Poslovica kaže: «NajboIji govor je onaj koji je kratak i jasan».",
-      "translationEn": "The proverb says: «The best speech is that which is brief and clear»."
+      "translationEn": "The proverb says: «The best speech is that which is brief and clear».",
+      "words": [
+        { "w": "خَيْرُ", "root": "خ ي ر", "bs": "najbolji", "en": "best" },
+        { "w": "الْكَلَامِ", "root": "ك ل م", "bs": "govor", "en": "speech" },
+        { "w": "قَلَّ", "root": "ق ل ل", "bs": "kratak", "en": "brief" },
+        { "w": "دَلَّ", "root": "د ل ل", "bs": "jasan", "en": "clear" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الْكَلَامَ الْمُخْتَصَرَ أَفْضَلُ مِنَ الطَّوِيلِ.",
       "translation": "To znači da je kratak govor bolji od dugog.",
-      "translationEn": "This means that brief speech is better than long speech."
+      "translationEn": "This means that brief speech is better than long speech.",
+      "words": [
+        { "w": "الْكَلَامَ", "root": "ك ل م", "bs": "govor", "en": "speech" },
+        { "w": "الْمُخْتَصَرَ", "root": "خ ص ر", "bs": "kratak", "en": "brief" },
+        { "w": "أَفْضَلُ", "root": "ف ض ل", "bs": "bolji", "en": "better" },
+        { "w": "الطَّوِيلِ", "root": "ط و ل", "bs": "dugi", "en": "long" }
+      ]
     },
     {
       "arabic": "كَتَبَ وَلِيدٌ رِسَالَةً قَصِيرَةً وَوَاضِحَةً لِمُعَلِّمِهِ.",
       "translation": "Walid je napisao kratku i jasnu poruku svom učitelju.",
-      "translationEn": "Walid wrote a short and clear message to his teacher."
+      "translationEn": "Walid wrote a short and clear message to his teacher.",
+      "words": [
+        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
+        { "w": "رِسَالَةً", "root": "ر س ل", "bs": "poruka", "en": "message" },
+        { "w": "قَصِيرَةً", "root": "ق ص ر", "bs": "kratku", "en": "short" },
+        { "w": "وَاضِحَةً", "root": "و ض ح", "bs": "jasnu", "en": "clear" }
+      ]
     },
     {
       "arabic": "فَهِمَ الْمُعَلِّمُ الرِّسَالَةَ بِسُرْعَةٍ وَرَدَّ عَلَيْهَا.",
       "translation": "Učitelj je brzo razumio poruku i odgovorio na nju.",
-      "translationEn": "The teacher understood the message quickly and replied to it."
+      "translationEn": "The teacher understood the message quickly and replied to it.",
+      "words": [
+        { "w": "فَهِمَ", "root": "ف ه م", "bs": "razumio je", "en": "understood" },
+        { "w": "الْمُعَلِّمُ", "root": "ع ل م", "bs": "učitelj", "en": "teacher" },
+        { "w": "الرِّسَالَةَ", "root": "ر س ل", "bs": "poruku", "en": "message" },
+        { "w": "رَدَّ", "root": "ر د د", "bs": "odgovorio je", "en": "replied" }
+      ]
     }
   ],
   "metadata": {

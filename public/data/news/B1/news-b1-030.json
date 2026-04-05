@@ -6,26 +6,122 @@
     {
       "arabic": "زَارَ فَرِيقُ الْهِلَالِ الأَحْمَرِ مَدْرَسَةَ الْحَيِّ.",
       "translation": "Tim Crvenog polumjeseca posjetio je školu u kvartu.",
-      "translationEn": "The Red Crescent team visited the neighborhood school."
+      "translationEn": "The Red Crescent team visited the neighborhood school.",
+      "words": [
+        {
+          "w": "زَارَ",
+          "root": "ز و ر",
+          "bs": "posjetio je",
+          "en": "visited"
+        },
+        {
+          "w": "فَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim",
+          "en": "team"
+        },
+        {
+          "w": "مَدْرَسَةَ",
+          "root": "د ر س",
+          "bs": "školu",
+          "en": "school"
+        }
+      ]
     },
     {
       "arabic": "عَلَّمَ الْفَرِيقُ الطُّلَّابَ الإِسْعَافَاتِ الأَوَّلِيَّةَ الْبَسِيطَةَ.",
       "translation": "Tim je naučio učenike jednostavnoj prvoj pomoći.",
-      "translationEn": "The team taught the students simple first aid."
+      "translationEn": "The team taught the students simple first aid.",
+      "words": [
+        {
+          "w": "عَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "taught"
+        },
+        {
+          "w": "الطُّلَّابَ",
+          "root": "ط ل ب",
+          "bs": "učenike",
+          "en": "students"
+        },
+        {
+          "w": "الإِسْعَافَاتِ الأَوَّلِيَّةَ",
+          "root": "س ع ف",
+          "bs": "prvu pomoć",
+          "en": "first aid"
+        },
+        {
+          "w": "الْبَسِيطَةَ",
+          "root": "ب س ط",
+          "bs": "jednostavnu",
+          "en": "simple"
+        }
+      ]
     },
     {
       "arabic": "تَدَرَّبَ الطُّلَّابُ عَلَى رِعَايَةِ الْجُرُوحِ الصَّغِيرَةِ.",
       "translation": "Učenici su se vježbali u zbrinjavanju manjih rana.",
-      "translationEn": "The students practiced caring for small wounds."
+      "translationEn": "The students practiced caring for small wounds.",
+      "words": [
+        {
+          "w": "تَدَرَّبَ",
+          "root": "د ر ب",
+          "bs": "vježbao se",
+          "en": "practiced"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "رِعَايَةِ",
+          "root": "ر ع ي",
+          "bs": "zbrinjavanju",
+          "en": "caring for"
+        },
+        {
+          "w": "الْجُرُوحِ",
+          "root": "ج ر ح",
+          "bs": "rana",
+          "en": "wounds"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الطُّلَّابُ إِنَّهُمْ تَعَلَّمُوا أَشْيَاءَ مُفِيدَةً جِدًّا.",
       "translation": "Učenici su rekli da su naučili veoma korisne stvari.",
-      "translationEn": "The students said they learned very useful things."
+      "translationEn": "The students said they learned very useful things.",
+      "words": [
+        {
+          "w": "تَعَلَّمُوا",
+          "root": "ع ل م",
+          "bs": "naučili su",
+          "en": "learned"
+        },
+        {
+          "w": "أَشْيَاءَ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "things"
+        },
+        {
+          "w": "مُفِيدَةً",
+          "root": "ف ي د",
+          "bs": "korisne",
+          "en": "useful"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["health", "school", "first aid"]
+    "tags": [
+      "health",
+      "school",
+      "first aid"
+    ]
   }
 }

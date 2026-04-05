@@ -6,26 +6,135 @@
     {
       "arabic": "اشْتَرَتْ مَيْسُونُ مِنَ الصَّيْدَلِيَّةِ كَرِيمًا لِلْجِلْدِ الْجَافِّ.",
       "translation": "Mejsun je iz apoteke kupila kremu za suhu kožu.",
-      "translationEn": "Maysoun bought a cream for dry skin from the pharmacy."
+      "translationEn": "Maysoun bought a cream for dry skin from the pharmacy.",
+      "words": [
+        {
+          "w": "اشْتَرَتْ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought"
+        },
+        {
+          "w": "الصَّيْدَلِيَّةِ",
+          "root": "ص ي د",
+          "bs": "apoteka",
+          "en": "pharmacy"
+        },
+        {
+          "w": "كَرِيمًا",
+          "root": "ك ر م",
+          "bs": "krema",
+          "en": "cream"
+        },
+        {
+          "w": "لِلْجِلْدِ",
+          "root": "ج ل د",
+          "bs": "koža",
+          "en": "skin"
+        },
+        {
+          "w": "الْجَافِّ",
+          "root": "ج ف ف",
+          "bs": "suha",
+          "en": "dry"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَتِ الصَّيْدَلَانِيَّةَ عَنْ أَفْضَلِ نَوْعٍ.",
       "translation": "Pitala je farmaceutkinju koja vrsta je najbolja.",
-      "translationEn": "She asked the pharmacist about the best type."
+      "translationEn": "She asked the pharmacist about the best type.",
+      "words": [
+        {
+          "w": "سَأَلَتِ",
+          "root": "س أ ل",
+          "bs": "pitala je",
+          "en": "asked"
+        },
+        {
+          "w": "الصَّيْدَلَانِيَّةَ",
+          "root": "ص ي د",
+          "bs": "farmaceutkinja",
+          "en": "pharmacist"
+        },
+        {
+          "w": "أَفْضَلِ",
+          "root": "ف ض ل",
+          "bs": "najbolja",
+          "en": "best"
+        },
+        {
+          "w": "نَوْعٍ",
+          "root": "ن و ع",
+          "bs": "vrsta",
+          "en": "type"
+        }
+      ]
     },
     {
       "arabic": "نَصَحَتْهَا الصَّيْدَلَانِيَّةُ بِكَرِيمٍ طَبِيعِيٍّ بِدُونِ كِيمِيَاوِيَّاتٍ.",
       "translation": "Farmaceutkinja joj je savjetovala prirodnu kremu bez hemikalija.",
-      "translationEn": "The pharmacist advised her a natural cream without chemicals."
+      "translationEn": "The pharmacist advised her a natural cream without chemicals.",
+      "words": [
+        {
+          "w": "نَصَحَتْهَا",
+          "root": "ن ص ح",
+          "bs": "savjetovala ju je",
+          "en": "advised her"
+        },
+        {
+          "w": "الصَّيْدَلَانِيَّةُ",
+          "root": "ص ي د",
+          "bs": "farmaceutkinja",
+          "en": "pharmacist"
+        },
+        {
+          "w": "بِكَرِيمٍ",
+          "root": "ك ر م",
+          "bs": "krema",
+          "en": "cream"
+        },
+        {
+          "w": "طَبِيعِيٍّ",
+          "root": "ط ب ع",
+          "bs": "prirodna",
+          "en": "natural"
+        }
+      ]
     },
     {
       "arabic": "اسْتَخْدَمَتْ مَيْسُونُ الْكَرِيمَ بَعْدَ الِاسْتِحْمَامِ كُلَّ يَوْمٍ.",
       "translation": "Mejsun je koristila kremu svaki dan nakon tuširanja.",
-      "translationEn": "Maysoun used the cream every day after showering."
+      "translationEn": "Maysoun used the cream every day after showering.",
+      "words": [
+        {
+          "w": "اسْتَخْدَمَتْ",
+          "root": "خ د م",
+          "bs": "koristila je",
+          "en": "used"
+        },
+        {
+          "w": "الْكَرِيمَ",
+          "root": "ك ر م",
+          "bs": "krema",
+          "en": "cream"
+        },
+        {
+          "w": "الِاسْتِحْمَامِ",
+          "root": "ح م م",
+          "bs": "tuširanja",
+          "en": "showering"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["skin care", "pharmacy", "cream", "daily routine"]
+    "tags": [
+      "skin care",
+      "pharmacy",
+      "cream",
+      "daily routine"
+    ]
   }
 }

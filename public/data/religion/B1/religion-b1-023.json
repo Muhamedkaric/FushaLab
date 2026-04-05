@@ -6,22 +6,108 @@
     {
       "arabic": "حِينَ أَخْطَأَ عَدْنَانُ اعْتَرَفَ بِخَطَئِهِ.",
       "translation": "Kad je Adnan pogriješio, prizno je grešku.",
-      "translationEn": "When Adnan made a mistake he admitted his error."
+      "translationEn": "When Adnan made a mistake he admitted his error.",
+      "words": [
+        {
+          "w": "أَخْطَأَ",
+          "root": "خ ط أ",
+          "bs": "pogriješio je",
+          "en": "made a mistake"
+        },
+        {
+          "w": "اعْتَرَفَ",
+          "root": "ع ر ف",
+          "bs": "prizno je",
+          "en": "admitted"
+        },
+        {
+          "w": "بِخَطَئِهِ",
+          "root": "خ ط أ",
+          "bs": "grešku",
+          "en": "his error"
+        }
+      ]
     },
     {
       "arabic": "اعْتَذَرَ لِمَنْ أَذَاهُ وَطَلَبَ مِنْهُ الْعَفْوَ.",
       "translation": "Ispričao se onome kome je naspudio i tražio oprost.",
-      "translationEn": "He apologized to the one he harmed and asked for forgiveness."
+      "translationEn": "He apologized to the one he harmed and asked for forgiveness.",
+      "words": [
+        {
+          "w": "اعْتَذَرَ",
+          "root": "ع ذ ر",
+          "bs": "ispričao se",
+          "en": "apologized"
+        },
+        {
+          "w": "أَذَاهُ",
+          "root": "أ ذ ي",
+          "bs": "naspudio mu je",
+          "en": "harmed"
+        },
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "tražio je",
+          "en": "asked for"
+        },
+        {
+          "w": "الْعَفْوَ",
+          "root": "ع ف و",
+          "bs": "oprost",
+          "en": "forgiveness"
+        }
+      ]
     },
     {
       "arabic": "قَالَ: الِاعْتِرَافُ بِالْخَطَأِ مِنَ الشَّجَاعَةِ.",
       "translation": "Rekao je: Priznavnje greške je od hrabrosti.",
-      "translationEn": "He said: Admitting a mistake is a form of courage."
+      "translationEn": "He said: Admitting a mistake is a form of courage.",
+      "words": [
+        {
+          "w": "الِاعْتِرَافُ",
+          "root": "ع ر ف",
+          "bs": "priznavanje",
+          "en": "admitting"
+        },
+        {
+          "w": "بِالْخَطَأِ",
+          "root": "خ ط أ",
+          "bs": "greške",
+          "en": "a mistake"
+        },
+        {
+          "w": "الشَّجَاعَةِ",
+          "root": "ش ج ع",
+          "bs": "hrabrosti",
+          "en": "courage"
+        }
+      ]
     },
     {
       "arabic": "عَفَا عَنْهُ صَاحِبُهُ وَصَافَحَهُ.",
       "translation": "Prijatelj mu je oprostio i rukovao se s njim.",
-      "translationEn": "His companion forgave him and shook his hand."
+      "translationEn": "His companion forgave him and shook his hand.",
+      "words": [
+        {
+          "w": "عَفَا",
+          "root": "ع ف و",
+          "bs": "oprostio je",
+          "en": "forgave"
+        },
+        {
+          "w": "صَاحِبُهُ",
+          "root": "ص ح ب",
+          "bs": "prijatelj",
+          "en": "his companion"
+        },
+        {
+          "w": "صَافَحَهُ",
+          "root": "ص ف ح",
+          "bs": "rukovao se",
+          "en": "shook his hand"
+        }
+      ]
     }
   ],
   "metadata": {

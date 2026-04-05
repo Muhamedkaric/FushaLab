@@ -6,26 +6,134 @@
     {
       "arabic": "كَسَرَ مَاجِدٌ قَلَمَهُ أَثْنَاءَ الكِتَابَةِ.",
       "translation": "Madžid je slomio olovku dok je pisao.",
-      "translationEn": "Majid broke his pen while writing."
+      "translationEn": "Majid broke his pen while writing.",
+      "words": [
+        {
+          "w": "كَسَرَ",
+          "root": "ك س ر",
+          "bs": "slomio",
+          "en": "broke"
+        },
+        {
+          "w": "قَلَمَهُ",
+          "root": "ق ل م",
+          "bs": "svoju olovku",
+          "en": "his pen"
+        },
+        {
+          "w": "الكِتَابَةِ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "writing"
+        }
+      ]
     },
     {
       "arabic": "طَلَبَ مِنْ صَدِيقِهِ أَنْ يُعِيرَهُ قَلَمًا آخَرَ.",
       "translation": "Zamolio je prijatelja da mu posudi drugu olovku.",
-      "translationEn": "He asked his friend to lend him another pen."
+      "translationEn": "He asked his friend to lend him another pen.",
+      "words": [
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zamolio",
+          "en": "asked"
+        },
+        {
+          "w": "صَدِيقِهِ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "friend"
+        },
+        {
+          "w": "يُعِيرَهُ",
+          "root": "ع ي ر",
+          "bs": "da mu posudi",
+          "en": "to lend him"
+        },
+        {
+          "w": "قَلَمًا",
+          "root": "ق ل م",
+          "bs": "olovka",
+          "en": "pen"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ الصَّدِيقُ قَلَمًا جَدِيدًا بِابْتِسَامَةٍ.",
       "translation": "Prijatelj mu je dao novu olovku s osmijehom.",
-      "translationEn": "His friend gave him a new pen with a smile."
+      "translationEn": "His friend gave him a new pen with a smile.",
+      "words": [
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط و",
+          "bs": "dao mu",
+          "en": "gave him"
+        },
+        {
+          "w": "الصَّدِيقُ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "friend"
+        },
+        {
+          "w": "قَلَمًا",
+          "root": "ق ل م",
+          "bs": "olovka",
+          "en": "pen"
+        },
+        {
+          "w": "جَدِيدًا",
+          "root": "ج د د",
+          "bs": "novu",
+          "en": "new"
+        },
+        {
+          "w": "بِابْتِسَامَةٍ",
+          "root": "ب س م",
+          "bs": "s osmijehom",
+          "en": "with a smile"
+        }
+      ]
     },
     {
       "arabic": "شَكَرَهُ مَاجِدٌ وَاسْتَمَرَّ فِي كِتَابَةِ الوَاجِبِ.",
       "translation": "Madžid mu se zahvalio i nastavio pisati zadaću.",
-      "translationEn": "Majid thanked him and continued writing the assignment."
+      "translationEn": "Majid thanked him and continued writing the assignment.",
+      "words": [
+        {
+          "w": "شَكَرَهُ",
+          "root": "ش ك ر",
+          "bs": "zahvalio mu se",
+          "en": "thanked him"
+        },
+        {
+          "w": "اسْتَمَرَّ",
+          "root": "س م ر",
+          "bs": "nastavio",
+          "en": "continued"
+        },
+        {
+          "w": "كِتَابَةِ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "writing"
+        },
+        {
+          "w": "الوَاجِبِ",
+          "root": "و ج ب",
+          "bs": "zadaća",
+          "en": "assignment"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["kindness", "sharing", "school"]
+    "tags": [
+      "kindness",
+      "sharing",
+      "school"
+    ]
   }
 }

@@ -6,22 +6,46 @@
     {
       "arabic": "فِي الأَفْرَاحِ، تَضَعُ النِّسَاءُ الحِنَّاءَ عَلَى أَيْدِيهِنَّ.",
       "translation": "Na proslavama, žene stavljaju kandžu na ruke.",
-      "translationEn": "At celebrations, women put henna on their hands."
+      "translationEn": "At celebrations, women put henna on their hands.",
+      "words": [
+        { "w": "الأَفْرَاحِ", "root": "ف ر ح", "bs": "proslavama", "en": "celebrations" },
+        { "w": "تَضَعُ", "root": "و ض ع", "bs": "stavljaju", "en": "put" },
+        { "w": "النِّسَاءُ", "root": "ن س و", "bs": "žene", "en": "women" },
+        { "w": "الحِنَّاءَ", "root": "ح ن أ", "bs": "kandžu", "en": "henna" },
+        { "w": "أَيْدِيهِنَّ", "root": "ي د ي", "bs": "ruke", "en": "hands" }
+      ]
     },
     {
       "arabic": "الحِنَّاءُ تُعْطِي لَوْنًا أَحْمَرَ جَمِيلًا.",
       "translation": "Kandža daje lijepu crvenu boju.",
-      "translationEn": "Henna gives a beautiful red color."
+      "translationEn": "Henna gives a beautiful red color.",
+      "words": [
+        { "w": "الحِنَّاءُ", "root": "ح ن أ", "bs": "kandža", "en": "henna" },
+        { "w": "تُعْطِي", "root": "ع ط و", "bs": "daje", "en": "gives" },
+        { "w": "لَوْنًا", "root": "ل و ن", "bs": "boju", "en": "color" },
+        { "w": "أَحْمَرَ", "root": "ح م ر", "bs": "crvenu", "en": "red" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepu", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "تَجْلِسُ النِّسَاءُ مَعًا وَيُزَيِّنَّ بَعْضَهُنَّ.",
       "translation": "Žene sjede zajedno i ukrašavaju jedna drugu.",
-      "translationEn": "Women sit together and decorate each other."
+      "translationEn": "Women sit together and decorate each other.",
+      "words": [
+        { "w": "تَجْلِسُ", "root": "ج ل س", "bs": "sjede", "en": "sit" },
+        { "w": "النِّسَاءُ", "root": "ن س و", "bs": "žene", "en": "women" },
+        { "w": "يُزَيِّنَّ", "root": "ز ي ن", "bs": "ukrašavaju", "en": "decorate" }
+      ]
     },
     {
       "arabic": "هَذِهِ تَقْلِيدٌ قَدِيمٌ وَمَحْبُوبٌ.",
       "translation": "Ovo je stara i omiljena tradicija.",
-      "translationEn": "This is an old and beloved tradition."
+      "translationEn": "This is an old and beloved tradition.",
+      "words": [
+        { "w": "تَقْلِيدٌ", "root": "ق ل د", "bs": "tradicija", "en": "tradition" },
+        { "w": "قَدِيمٌ", "root": "ق د م", "bs": "stara", "en": "old" },
+        { "w": "مَحْبُوبٌ", "root": "ح ب ب", "bs": "omiljena", "en": "beloved" }
+      ]
     }
   ],
   "metadata": {

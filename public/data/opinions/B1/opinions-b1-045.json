@@ -6,22 +6,49 @@
     {
       "arabic": "أَظُنُّ أَنَّ الْكَلِمَةَ الطَّيِّبَةَ لَهَا أَثَرٌ كَبِيرٌ.",
       "translation": "Mislim da lijepa riječ ima veliki utjecaj.",
-      "translationEn": "I think that a kind word has a great effect."
+      "translationEn": "I think that a kind word has a great effect.",
+      "words": [
+        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
+        { "w": "الْكَلِمَةَ", "root": "ك ل م", "bs": "riječ", "en": "word" },
+        { "w": "الطَّيِّبَةَ", "root": "ط ي ب", "bs": "lijepa", "en": "kind" },
+        { "w": "أَثَرٌ", "root": "أ ث ر", "bs": "utjecaj", "en": "effect" },
+        { "w": "كَبِيرٌ", "root": "ك ب ر", "bs": "veliki", "en": "great" }
+      ]
     },
     {
       "arabic": "كَلِمَةٌ وَاحِدَةٌ يُمْكِنُ أَنْ تُغَيِّرَ يَوْمَ شَخْصٍ كَامِلًا.",
       "translation": "Jedna jedina riječ može promijeniti cijeli dan neke osobe.",
-      "translationEn": "A single word can change a person's whole day."
+      "translationEn": "A single word can change a person's whole day.",
+      "words": [
+        { "w": "كَلِمَةٌ", "root": "ك ل م", "bs": "riječ", "en": "word" },
+        { "w": "وَاحِدَةٌ", "root": "و ح د", "bs": "jedna", "en": "single" },
+        { "w": "تُغَيِّرَ", "root": "غ ي ر", "bs": "promijeniti", "en": "change" },
+        { "w": "يَوْمَ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osobe", "en": "person's" }
+      ]
     },
     {
       "arabic": "أَحَاوِلُ أَنْ أَتَكَلَّمَ بِلُطْفٍ مَعَ كُلِّ النَّاسِ.",
       "translation": "Trudim se govoriti ljubazno sa svim ljudima.",
-      "translationEn": "I try to speak kindly with all people."
+      "translationEn": "I try to speak kindly with all people.",
+      "words": [
+        { "w": "أَحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
+        { "w": "أَتَكَلَّمَ", "root": "ك ل م", "bs": "govoriti", "en": "to speak" },
+        { "w": "بِلُطْفٍ", "root": "ل ط ف", "bs": "ljubazno", "en": "kindly" },
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" }
+      ]
     },
     {
       "arabic": "الْكَلِمَاتُ الطَّيِّبَةُ تَبْقَى فِي الذَّاكِرَةِ طَوِيلًا.",
       "translation": "Lijepe riječi dugo ostaju u sjećanju.",
-      "translationEn": "Kind words stay in the memory for a long time."
+      "translationEn": "Kind words stay in the memory for a long time.",
+      "words": [
+        { "w": "الْكَلِمَاتُ", "root": "ك ل م", "bs": "riječi", "en": "words" },
+        { "w": "الطَّيِّبَةُ", "root": "ط ي ب", "bs": "lijepe", "en": "kind" },
+        { "w": "تَبْقَى", "root": "ب ق ي", "bs": "ostaju", "en": "stay" },
+        { "w": "الذَّاكِرَةِ", "root": "ذ ك ر", "bs": "sjećanje", "en": "memory" },
+        { "w": "طَوِيلًا", "root": "ط و ل", "bs": "dugo", "en": "for a long time" }
+      ]
     }
   ],
   "metadata": {

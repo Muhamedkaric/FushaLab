@@ -6,27 +6,54 @@
     {
       "arabic": "اخْتَفَى كِتَابُ عَبِيرَ مِنَ الْحَقِيبَةِ.",
       "translation": "Abirino čitanje nestalo je iz torbe.",
-      "translationEn": "Abeer's book disappeared from her bag."
+      "translationEn": "Abeer's book disappeared from her bag.",
+      "words": [
+        { "w": "اخْتَفَى", "root": "خ ف ي", "bs": "nestalo je", "en": "disappeared" },
+        { "w": "كِتَابُ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "الْحَقِيبَةِ", "root": "ح ق ب", "bs": "torbe", "en": "bag" }
+      ]
     },
     {
       "arabic": "تَذَكَّرَتْ أَنَّهَا وَضَعَتْهُ فِيهَا فِي الصَّبَاحِ.",
       "translation": "Sjetila se da ga je ujutro stavila u nju.",
-      "translationEn": "She remembered that she had put it in it in the morning."
+      "translationEn": "She remembered that she had put it in it in the morning.",
+      "words": [
+        { "w": "تَذَكَّرَتْ", "root": "ذ ك ر", "bs": "sjetila se", "en": "she remembered" },
+        { "w": "وَضَعَتْهُ", "root": "و ض ع", "bs": "stavila ga je", "en": "she had put it" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutru", "en": "morning" }
+      ]
     },
     {
       "arabic": "سَأَلَتْ صَدِيقَتَهَا إِذَا كَانَتْ رَأَتْهُ.",
       "translation": "Pitala je prijateljicu je li ga vidjela.",
-      "translationEn": "She asked her friend if she had seen it."
+      "translationEn": "She asked her friend if she had seen it.",
+      "words": [
+        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "she asked" },
+        { "w": "صَدِيقَتَهَا", "root": "ص د ق", "bs": "prijateljicu", "en": "her friend" },
+        { "w": "رَأَتْهُ", "root": "ر أ ي", "bs": "vidjela ga je", "en": "she had seen it" }
+      ]
     },
     {
       "arabic": "قَالَتِ الصَّدِيقَةُ: أَخَذْتُهُ لِأَقْرَأَهُ، نَسِيتُ أَنْ أَطْلُبَ إِذْنًا.",
       "translation": "Prijateljica je rekla: Uzela sam ga da ga pročitam, zaboravila sam tražiti dozvolu.",
-      "translationEn": "The friend said: I took it to read, I forgot to ask permission."
+      "translationEn": "The friend said: I took it to read, I forgot to ask permission.",
+      "words": [
+        { "w": "أَخَذْتُهُ", "root": "أ خ ذ", "bs": "uzela sam ga", "en": "I took it" },
+        { "w": "أَقْرَأَهُ", "root": "ق ر أ", "bs": "pročitam ga", "en": "to read it" },
+        { "w": "نَسِيتُ", "root": "ن س ي", "bs": "zaboravila sam", "en": "I forgot" },
+        { "w": "إِذْنًا", "root": "أ ذ ن", "bs": "dozvolu", "en": "permission" }
+      ]
     },
     {
       "arabic": "عَفَتْ عَبِيرُ عَنْ صَدِيقَتِهَا وَأَعَارَتْهَا الْكِتَابَ بِرِضًا.",
       "translation": "Abeer je oprostila prijateljici i pozajmila joj knjigu s radošću.",
-      "translationEn": "Abeer forgave her friend and lent her the book willingly."
+      "translationEn": "Abeer forgave her friend and lent her the book willingly.",
+      "words": [
+        { "w": "عَفَتْ", "root": "ع ف و", "bs": "oprostila je", "en": "she forgave" },
+        { "w": "أَعَارَتْهَا", "root": "ع و ر", "bs": "pozajmila joj je", "en": "she lent her" },
+        { "w": "الْكِتَابَ", "root": "ك ت ب", "bs": "knjigu", "en": "the book" },
+        { "w": "بِرِضًا", "root": "ر ض ي", "bs": "s radošću", "en": "willingly" }
+      ]
     }
   ],
   "metadata": {

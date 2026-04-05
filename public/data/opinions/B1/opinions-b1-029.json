@@ -6,22 +6,46 @@
     {
       "arabic": "أَظُنُّ أَنَّ الْهُوَايَةَ تُضِيفُ مَتْعَةً إِلَى الْحَيَاةِ.",
       "translation": "Mislim da hobi dodaje užitak životu.",
-      "translationEn": "I think that a hobby adds enjoyment to life."
+      "translationEn": "I think that a hobby adds enjoyment to life.",
+      "words": [
+        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
+        { "w": "الْهُوَايَةَ", "root": "ه و ي", "bs": "hobi", "en": "hobby" },
+        { "w": "تُضِيفُ", "root": "ض ي ف", "bs": "dodaje", "en": "adds" },
+        { "w": "مَتْعَةً", "root": "م ت ع", "bs": "užitak", "en": "enjoyment" }
+      ]
     },
     {
       "arabic": "كُلُّ شَخْصٍ يَحْتَاجُ إِلَى شَيْءٍ يُحِبُّهُ بَعِيدًا عَنِ الْعَمَلِ.",
       "translation": "Svakoj osobi treba nešto što voli, van posla.",
-      "translationEn": "Every person needs something they love away from work."
+      "translationEn": "Every person needs something they love away from work.",
+      "words": [
+        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
+        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
+        { "w": "يُحِبُّهُ", "root": "ح ب ب", "bs": "voli ga", "en": "they love" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" }
+      ]
     },
     {
       "arabic": "هِوَايَتِي الرَّسْمُ وَأَجِدُ فِيهِ رَاحَةً كَبِيرَةً.",
       "translation": "Moj hobi je crtanje i u njemu nalazim veliku smirenost.",
-      "translationEn": "My hobby is drawing and I find great peace in it."
+      "translationEn": "My hobby is drawing and I find great peace in it.",
+      "words": [
+        { "w": "هِوَايَتِي", "root": "ه و ي", "bs": "moj hobi", "en": "my hobby" },
+        { "w": "الرَّسْمُ", "root": "ر س م", "bs": "crtanje", "en": "drawing" },
+        { "w": "أَجِدُ", "root": "و ج د", "bs": "nalazim", "en": "I find" },
+        { "w": "رَاحَةً", "root": "ر و ح", "bs": "smirenost", "en": "peace" }
+      ]
     },
     {
       "arabic": "أَنْصَحُكَ أَنْ تَجِدَ هِوَايَةً تُحِبُّهَا وَتَمَارِسَهَا.",
       "translation": "Savjetujem ti da pronađeš hobi koji voliš i da ga se pridržavaš.",
-      "translationEn": "I advise you to find a hobby you love and practise it."
+      "translationEn": "I advise you to find a hobby you love and practise it.",
+      "words": [
+        { "w": "أَنْصَحُكَ", "root": "ن ص ح", "bs": "savjetujem te", "en": "I advise you" },
+        { "w": "تَجِدَ", "root": "و ج د", "bs": "da pronađeš", "en": "to find" },
+        { "w": "هِوَايَةً", "root": "ه و ي", "bs": "hobi", "en": "hobby" },
+        { "w": "تَمَارِسَهَا", "root": "م ر س", "bs": "da ga pratiš", "en": "to practise it" }
+      ]
     }
   ],
   "metadata": {

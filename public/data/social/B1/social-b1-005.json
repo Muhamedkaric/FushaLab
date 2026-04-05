@@ -6,27 +6,57 @@
     {
       "arabic": "رَأَى يُوسُفُ عَجُوزًا يَحْمِلُ أَشْيَاءَ ثَقِيلَةً.",
       "translation": "Jusuf je vidio starca koji nosi teške stvari.",
-      "translationEn": "Youssef saw an old man carrying heavy things."
+      "translationEn": "Youssef saw an old man carrying heavy things.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "عَجُوزًا", "root": "ع ج ز", "bs": "starca", "en": "old man" },
+        { "w": "يَحْمِلُ", "root": "ح م ل", "bs": "nosi", "en": "carrying" },
+        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "ثَقِيلَةً", "root": "ث ق ل", "bs": "teške", "en": "heavy" }
+      ]
     },
     {
       "arabic": "اقْتَرَبَ مِنْهُ وَسَأَلَهُ إِنْ كَانَ يَحْتَاجُ مُسَاعَدَةً.",
       "translation": "Prišao mu je i pitao treba li pomoć.",
-      "translationEn": "He approached him and asked if he needed help."
+      "translationEn": "He approached him and asked if he needed help.",
+      "words": [
+        { "w": "اقْتَرَبَ", "root": "ق ر ب", "bs": "prišao je", "en": "approached" },
+        { "w": "سَأَلَهُ", "root": "س أ ل", "bs": "pitao ga je", "en": "asked him" },
+        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
+        { "w": "مُسَاعَدَةً", "root": "س ع د", "bs": "pomoć", "en": "help" }
+      ]
     },
     {
       "arabic": "قَبِلَ العَجُوزُ وَشَكَرَ يُوسُفَ كَثِيرًا.",
       "translation": "Starac je prihvatio i puno zahvalio Jusufu.",
-      "translationEn": "The old man accepted and thanked Youssef a lot."
+      "translationEn": "The old man accepted and thanked Youssef a lot.",
+      "words": [
+        { "w": "قَبِلَ", "root": "ق ب ل", "bs": "prihvatio je", "en": "accepted" },
+        { "w": "العَجُوزُ", "root": "ع ج ز", "bs": "starac", "en": "old man" },
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" }
+      ]
     },
     {
       "arabic": "حَمَلَ يُوسُفُ الأَشْيَاءَ حَتَّى بَابِ البَيْتِ.",
       "translation": "Jusuf je nosio stvari do vrata kuće.",
-      "translationEn": "Youssef carried the things to the door of the house."
+      "translationEn": "Youssef carried the things to the door of the house.",
+      "words": [
+        { "w": "حَمَلَ", "root": "ح م ل", "bs": "nosio je", "en": "carried" },
+        { "w": "الأَشْيَاءَ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "بَابِ", "root": "ب و ب", "bs": "vrata", "en": "door" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuće", "en": "house" }
+      ]
     },
     {
       "arabic": "شَعَرَ بِالسَّعَادَةِ لِأَنَّهُ سَاعَدَ شَخْصًا.",
       "translation": "Osjetio se sretan što je pomogao osobi.",
-      "translationEn": "He felt happy because he helped someone."
+      "translationEn": "He felt happy because he helped someone.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio se", "en": "felt" },
+        { "w": "بِالسَّعَادَةِ", "root": "س ع د", "bs": "sretan", "en": "happy" },
+        { "w": "سَاعَدَ", "root": "س ع د", "bs": "pomogao je", "en": "helped" },
+        { "w": "شَخْصًا", "root": "ش خ ص", "bs": "osobi", "en": "someone" }
+      ]
     }
   ],
   "metadata": {

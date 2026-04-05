@@ -6,26 +6,116 @@
     {
       "arabic": "أَقَامَتِ الْمَدْرَسَةُ يَوْمًا مَفْتُوحًا لِلْآبَاءِ وَالأُمَّهَاتِ.",
       "translation": "Škola je organizovala dan otvorenih vrata za roditelje.",
-      "translationEn": "The school held an open day for parents."
+      "translationEn": "The school held an open day for parents.",
+      "words": [
+        {
+          "w": "الْمَدْرَسَةُ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        },
+        {
+          "w": "يَوْمًا مَفْتُوحًا",
+          "root": "ف ت ح",
+          "bs": "dan otvorenih vrata",
+          "en": "open day"
+        },
+        {
+          "w": "الْآبَاءِ",
+          "root": "أ ب و",
+          "bs": "očevi",
+          "en": "fathers"
+        },
+        {
+          "w": "الأُمَّهَاتِ",
+          "root": "أ م م",
+          "bs": "majke",
+          "en": "mothers"
+        }
+      ]
     },
     {
       "arabic": "جَالَ الْآبَاءُ فِي الْفُصُولِ وَتَحَدَّثُوا مَعَ الْمُعَلِّمِينَ.",
       "translation": "Roditelji su prošetali po učionicama i razgovarali s nastavnicima.",
-      "translationEn": "The parents toured the classrooms and spoke with the teachers."
+      "translationEn": "The parents toured the classrooms and spoke with the teachers.",
+      "words": [
+        {
+          "w": "جَالَ",
+          "root": "ج و ل",
+          "bs": "prošetao je",
+          "en": "toured"
+        },
+        {
+          "w": "الْفُصُولِ",
+          "root": "ف ص ل",
+          "bs": "učionicama",
+          "en": "classrooms"
+        },
+        {
+          "w": "الْمُعَلِّمِينَ",
+          "root": "ع ل م",
+          "bs": "nastavnicima",
+          "en": "teachers"
+        }
+      ]
     },
     {
       "arabic": "عَرَضَ الطُّلَّابُ رُسُومَاتِهِمْ وَأَعْمَالَهُمْ الْيَدَوِيَّةَ.",
       "translation": "Učenici su izložili svoje crteže i ručne radove.",
-      "translationEn": "The students displayed their drawings and handmade crafts."
+      "translationEn": "The students displayed their drawings and handmade crafts.",
+      "words": [
+        {
+          "w": "عَرَضَ",
+          "root": "ع ر ض",
+          "bs": "izložio je",
+          "en": "displayed"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "رُسُومَاتِهِمْ",
+          "root": "ر س م",
+          "bs": "crteže",
+          "en": "drawings"
+        },
+        {
+          "w": "أَعْمَالَهُمْ الْيَدَوِيَّةَ",
+          "root": "ع م ل",
+          "bs": "ručne radove",
+          "en": "handmade crafts"
+        }
+      ]
     },
     {
       "arabic": "غَادَرَ الْآبَاءُ الْمَدْرَسَةَ وَهُمْ مَسْرُورُونَ بِمَا رَأَوْا.",
       "translation": "Roditelji su napustili školu zadovoljni onim što su vidjeli.",
-      "translationEn": "The parents left the school pleased with what they saw."
+      "translationEn": "The parents left the school pleased with what they saw.",
+      "words": [
+        {
+          "w": "غَادَرَ",
+          "root": "غ د ر",
+          "bs": "napustio je",
+          "en": "left"
+        },
+        {
+          "w": "مَسْرُورُونَ",
+          "root": "س ر ر",
+          "bs": "zadovoljni",
+          "en": "pleased"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school", "parents", "open day"]
+    "tags": [
+      "school",
+      "parents",
+      "open day"
+    ]
   }
 }

@@ -6,22 +6,48 @@
     {
       "arabic": "تَعَلَّمَ الطِّفْلُ أَنْ يَغْسِلَ يَدَيْهِ قَبْلَ الْأَكْلِ.",
       "translation": "Dijete je naučilo prati ruke prije jela.",
-      "translationEn": "The child learned to wash his hands before eating."
+      "translationEn": "The child learned to wash his hands before eating.",
+      "words": [
+        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučilo je", "en": "learned" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "يَغْسِلَ", "root": "غ س ل", "bs": "da opere", "en": "to wash" },
+        { "w": "يَدَيْهِ", "root": "ي د ي", "bs": "njegove ruke", "en": "his hands" },
+        { "w": "الْأَكْلِ", "root": "أ ك ل", "bs": "jela/jedenja", "en": "eating" }
+      ]
     },
     {
       "arabic": "كَانَ أَبُوهُ يُذَكِّرُهُ بِذَلِكَ كُلَّ يَوْمٍ.",
       "translation": "Otac ga je na to podsećao svaki dan.",
-      "translationEn": "His father used to remind him of that every day."
+      "translationEn": "His father used to remind him of that every day.",
+      "words": [
+        { "w": "أَبُوهُ", "root": "أ ب و", "bs": "njegov otac", "en": "his father" },
+        { "w": "يُذَكِّرُهُ", "root": "ذ ك ر", "bs": "podsjeća ga", "en": "reminds him" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" }
+      ]
     },
     {
       "arabic": "قَالَ الْأَبُ: النَّظَافَةُ مِنَ الصِّحَّةِ وَالدِّينِ.",
       "translation": "Otac je rekao: Čistoća je dio zdravlja i vjere.",
-      "translationEn": "The father said: Cleanliness is part of health and religion."
+      "translationEn": "The father said: Cleanliness is part of health and religion.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "النَّظَافَةُ", "root": "ن ظ ف", "bs": "čistoća/higijjena", "en": "cleanliness" },
+        { "w": "الصِّحَّةِ", "root": "ص ح ح", "bs": "zdravlje", "en": "health" },
+        { "w": "الدِّينِ", "root": "د ي ن", "bs": "vjera/din", "en": "religion" }
+      ]
     },
     {
       "arabic": "أَصْبَحَ الطِّفْلُ يَغْسِلُ يَدَيْهِ دَائِمًا قَبْلَ الْأَكْلِ.",
       "translation": "Dijete je počelo uvijek prati ruke prije jela.",
-      "translationEn": "The child started always washing his hands before eating."
+      "translationEn": "The child started always washing his hands before eating.",
+      "words": [
+        { "w": "أَصْبَحَ", "root": "ص ب ح", "bs": "počelo je/postalo", "en": "started/became" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "يَغْسِلُ", "root": "غ س ل", "bs": "pere/opere", "en": "washes" },
+        { "w": "يَدَيْهِ", "root": "ي د ي", "bs": "njegove ruke", "en": "his hands" },
+        { "w": "دَائِمًا", "root": "د و م", "bs": "uvijek/stalno", "en": "always" }
+      ]
     }
   ],
   "metadata": {

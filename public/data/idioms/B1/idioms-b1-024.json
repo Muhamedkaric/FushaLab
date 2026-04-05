@@ -6,22 +6,43 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «الْحَرَكَةُ بَرَكَةٌ».",
       "translation": "Poslovica kaže: «Kretanje je blagoslov».",
-      "translationEn": "The proverb says: «Movement is a blessing»."
+      "translationEn": "The proverb says: «Movement is a blessing».",
+      "words": [
+        { "w": "الْحَرَكَةُ", "root": "ح ر ك", "bs": "kretanje", "en": "movement" },
+        { "w": "بَرَكَةٌ", "root": "ب ر ك", "bs": "blagoslov", "en": "blessing" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الْعَمَلَ وَالنَّشَاطَ يَجْلِبَانِ الْخَيْرَ.",
       "translation": "To znači da rad i aktivnost donose dobro.",
-      "translationEn": "This means that work and activity bring good things."
+      "translationEn": "This means that work and activity bring good things.",
+      "words": [
+        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "rad", "en": "work" },
+        { "w": "النَّشَاطَ", "root": "ن ش ط", "bs": "aktivnost", "en": "activity" },
+        { "w": "يَجْلِبَانِ", "root": "ج ل ب", "bs": "donose", "en": "bring" },
+        { "w": "الْخَيْرَ", "root": "خ ي ر", "bs": "dobro", "en": "good things" }
+      ]
     },
     {
       "arabic": "كَانَ إِيَادٌ يَجْلِسُ كَثِيرًا وَيَشْعُرُ بِالْكَسَلِ.",
       "translation": "Ijad je puno sjedio i osjećao se lijenjem.",
-      "translationEn": "Iyad used to sit a lot and feel lazy."
+      "translationEn": "Iyad used to sit a lot and feel lazy.",
+      "words": [
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedio je", "en": "sit" },
+        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjećao se", "en": "feel" },
+        { "w": "الْكَسَلِ", "root": "ك س ل", "bs": "lijenost", "en": "laziness" }
+      ]
     },
     {
       "arabic": "بَدَأَ بِالْمَشْيِ يَوْمِيًّا فَتَحَسَّنَتْ صِحَّتُهُ وَمَزَاجُهُ.",
       "translation": "Počeo je hodati svakodnevno i popravilo mu se zdravlje i raspoloženje.",
-      "translationEn": "He started walking daily and his health and mood improved."
+      "translationEn": "He started walking daily and his health and mood improved.",
+      "words": [
+        { "w": "الْمَشْيِ", "root": "م ش ي", "bs": "hodanje", "en": "walking" },
+        { "w": "تَحَسَّنَتْ", "root": "ح س ن", "bs": "popravilo se", "en": "improved" },
+        { "w": "صِحَّتُهُ", "root": "ص ح ح", "bs": "njegovo zdravlje", "en": "his health" },
+        { "w": "مَزَاجُهُ", "root": "م ز ج", "bs": "raspoloženje", "en": "mood" }
+      ]
     }
   ],
   "metadata": {

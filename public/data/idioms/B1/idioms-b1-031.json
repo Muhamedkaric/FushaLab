@@ -6,22 +6,42 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «أَهْلُ مَكَّةَ أَدْرَى بِشِعَابِهَا».",
       "translation": "Poslovica kaže: «Stanovnici Mekke bolje poznaju njene klance».",
-      "translationEn": "The proverb says: «The people of Mecca know its paths better»."
+      "translationEn": "The proverb says: «The people of Mecca know its paths better».",
+      "words": [
+        { "w": "أَهْلُ", "root": "أ ه ل", "bs": "stanovnici", "en": "people" },
+        { "w": "أَدْرَى", "root": "د ر ي", "bs": "bolje znaju", "en": "know better" },
+        { "w": "بِشِعَابِهَا", "root": "ش ع ب", "bs": "njeni klanci", "en": "its paths" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ أَصْحَابَ الْخِبْرَةِ هُمُ الأَجْدَرُ بِالْمَشُورَةِ.",
       "translation": "To znači da su iskusni ljudi najprimjereniji za savjet.",
-      "translationEn": "This means that experienced people are most fit to give advice."
+      "translationEn": "This means that experienced people are most fit to give advice.",
+      "words": [
+        { "w": "الْخِبْرَةِ", "root": "خ ب ر", "bs": "iskustvo", "en": "experience" },
+        { "w": "الأَجْدَرُ", "root": "ج د ر", "bs": "najprimjereniji", "en": "most fit" },
+        { "w": "الْمَشُورَةِ", "root": "ش و ر", "bs": "savjet", "en": "advice" }
+      ]
     },
     {
       "arabic": "أَرَادَ تَوْفِيقٌ السَّفَرَ إِلَى مَدِينَةٍ جَدِيدَةٍ.",
       "translation": "Tawfik je htio putovati u novi grad.",
-      "translationEn": "Tawfiq wanted to travel to a new city."
+      "translationEn": "Tawfiq wanted to travel to a new city.",
+      "words": [
+        { "w": "السَّفَرَ", "root": "س ف ر", "bs": "putovanje", "en": "travel" },
+        { "w": "مَدِينَةٍ", "root": "م د ن", "bs": "grad", "en": "city" },
+        { "w": "جَدِيدَةٍ", "root": "ج د د", "bs": "novi", "en": "new" }
+      ]
     },
     {
       "arabic": "سَأَلَ صَدِيقًا يَعِيشُ هُنَاكَ فَأَعْطَاهُ أَفْضَلَ النَّصَائِحِ.",
       "translation": "Pitao je prijatelja koji živi tamo i ovaj mu je dao najboIje savjete.",
-      "translationEn": "He asked a friend who lives there and he gave him the best advice."
+      "translationEn": "He asked a friend who lives there and he gave him the best advice.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "صَدِيقًا", "root": "ص د ق", "bs": "prijatelja", "en": "friend" },
+        { "w": "النَّصَائِحِ", "root": "ن ص ح", "bs": "savjeti", "en": "advice" }
+      ]
     }
   ],
   "metadata": {

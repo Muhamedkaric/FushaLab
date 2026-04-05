@@ -6,22 +6,41 @@
     {
       "arabic": "كَانَ لِجَمَالٍ كَلْبٌ وَفِيٌّ اسْمُهُ نَمِرٌ.",
       "translation": "Džemal je imao vjernog psa po imenu Nemr.",
-      "translationEn": "Jamal had a loyal dog named Namr."
+      "translationEn": "Jamal had a loyal dog named Namr.",
+      "words": [
+        { "w": "كَلْبٌ", "root": "ك ل ب", "bs": "pas", "en": "dog" },
+        { "w": "وَفِيٌّ", "root": "و ف ي", "bs": "vjeran/lojalan", "en": "loyal/faithful" }
+      ]
     },
     {
       "arabic": "كَانَ نَمِرٌ يَنْتَظِرُهُ كُلَّ يَوْمٍ عِنْدَ بَابِ الْبَيْتِ.",
       "translation": "Nemr ga je svaki dan čekao na kućnim vratima.",
-      "translationEn": "Namr would wait for him every day at the house door."
+      "translationEn": "Namr would wait for him every day at the house door.",
+      "words": [
+        { "w": "يَنْتَظِرُهُ", "root": "ن ظ ر", "bs": "čekao ga je", "en": "wait for him" },
+        { "w": "بَابِ", "root": "ب و ب", "bs": "vrata", "en": "door" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "house" }
+      ]
     },
     {
       "arabic": "كَانَا يَمْشِيَانِ مَعًا فِي الْحَدِيقَةِ كُلَّ مَسَاءٍ.",
       "translation": "Šetali su zajedno u parku svako veče.",
-      "translationEn": "They would walk together in the park every evening."
+      "translationEn": "They would walk together in the park every evening.",
+      "words": [
+        { "w": "يَمْشِيَانِ", "root": "م ش ي", "bs": "hodali su/šetali", "en": "walk/used to walk" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "park/bašta", "en": "park/garden" },
+        { "w": "مَسَاءٍ", "root": "م س و", "bs": "veče", "en": "evening" }
+      ]
     },
     {
       "arabic": "قَالَ جَمَالٌ إِنَّ نَمِرًا أَوْفَى أَصْدِقَائِهِ.",
       "translation": "Džemal je rekao da je Nemr najvjerniji od njegovih prijatelja.",
-      "translationEn": "Jamal said that Namr is the most loyal of his friends."
+      "translationEn": "Jamal said that Namr is the most loyal of his friends.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "أَوْفَى", "root": "و ف ي", "bs": "najvjerniji", "en": "most loyal" },
+        { "w": "أَصْدِقَائِهِ", "root": "ص د ق", "bs": "njegovi prijatelji", "en": "his friends" }
+      ]
     }
   ],
   "metadata": {

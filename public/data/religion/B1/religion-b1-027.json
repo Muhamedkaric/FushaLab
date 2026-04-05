@@ -6,22 +6,126 @@
     {
       "arabic": "رَأَتْ هِنْدٌ جَارَتَهَا حَزِينَةً فَذَهَبَتْ إِلَيْهَا.",
       "translation": "Hind je vidjela komšijicu tužnu i otišla joj.",
-      "translationEn": "Hind saw her neighbor sad and went to her."
+      "translationEn": "Hind saw her neighbor sad and went to her.",
+      "words": [
+        {
+          "w": "رَأَتْ",
+          "root": "ر أ ي",
+          "bs": "vidjela je",
+          "en": "saw"
+        },
+        {
+          "w": "جَارَتَهَا",
+          "root": "ج و ر",
+          "bs": "komšijicu",
+          "en": "her neighbor"
+        },
+        {
+          "w": "حَزِينَةً",
+          "root": "ح ز ن",
+          "bs": "tužnu",
+          "en": "sad"
+        },
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla joj je",
+          "en": "went to her"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَتْهَا: هَلْ أَنْتِ بِخَيْرٍ؟ هَلْ أَقْدِرُ عَلَى مُسَاعَدَتِكِ؟",
       "translation": "Pitala ju je: Jesi li dobro? Mogu li ti pomoći?",
-      "translationEn": "She asked her: Are you okay? Can I help you?"
+      "translationEn": "She asked her: Are you okay? Can I help you?",
+      "words": [
+        {
+          "w": "سَأَلَتْهَا",
+          "root": "س أ ل",
+          "bs": "pitala ju je",
+          "en": "asked her"
+        },
+        {
+          "w": "بِخَيْرٍ",
+          "root": "خ ي ر",
+          "bs": "dobro",
+          "en": "okay"
+        },
+        {
+          "w": "أَقْدِرُ",
+          "root": "ق د ر",
+          "bs": "mogu",
+          "en": "can"
+        },
+        {
+          "w": "مُسَاعَدَتِكِ",
+          "root": "س ع د",
+          "bs": "pomoći ti",
+          "en": "help you"
+        }
+      ]
     },
     {
       "arabic": "أَخْبَرَتْهَا الْجَارَةُ بِمُشْكِلَتِهَا وَبَكَتْ.",
       "translation": "Komšijica joj je ispričala problem i zaplakala.",
-      "translationEn": "The neighbor told her her problem and cried."
+      "translationEn": "The neighbor told her her problem and cried.",
+      "words": [
+        {
+          "w": "أَخْبَرَتْهَا",
+          "root": "خ ب ر",
+          "bs": "ispričala joj je",
+          "en": "told her"
+        },
+        {
+          "w": "الْجَارَةُ",
+          "root": "ج و ر",
+          "bs": "komšijica",
+          "en": "the neighbor"
+        },
+        {
+          "w": "بِمُشْكِلَتِهَا",
+          "root": "ش ك ل",
+          "bs": "problem",
+          "en": "her problem"
+        },
+        {
+          "w": "بَكَتْ",
+          "root": "ب ك ي",
+          "bs": "zaplakala je",
+          "en": "cried"
+        }
+      ]
     },
     {
       "arabic": "جَلَسَتْ هِنْدٌ مَعَهَا وَسَمِعَتْهَا بِصَبْرٍ وَحَنَانٍ.",
       "translation": "Hind je sjela s njom i strpljivo i nježno je slušala.",
-      "translationEn": "Hind sat with her and listened patiently and tenderly."
+      "translationEn": "Hind sat with her and listened patiently and tenderly.",
+      "words": [
+        {
+          "w": "جَلَسَتْ",
+          "root": "ج ل س",
+          "bs": "sjela je",
+          "en": "sat"
+        },
+        {
+          "w": "سَمِعَتْهَا",
+          "root": "س م ع",
+          "bs": "slušala je",
+          "en": "listened"
+        },
+        {
+          "w": "بِصَبْرٍ",
+          "root": "ص ب ر",
+          "bs": "strpljivo",
+          "en": "patiently"
+        },
+        {
+          "w": "بِحَنَانٍ",
+          "root": "ح ن ن",
+          "bs": "nježno",
+          "en": "tenderly"
+        }
+      ]
     }
   ],
   "metadata": {

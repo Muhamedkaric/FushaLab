@@ -6,22 +6,49 @@
     {
       "arabic": "كَانَ الْخَبَّازُ يُوقِدُ الْفُرْنَ فِي السَّاعَةِ الرَّابِعَةِ صَبَاحًا.",
       "translation": "Pekar je palio pećnicu u četiri sata ujutro.",
-      "translationEn": "The baker used to light the oven at four in the morning."
+      "translationEn": "The baker used to light the oven at four in the morning.",
+      "words": [
+        { "w": "الْخَبَّازُ", "root": "خ ب ز", "bs": "pekar", "en": "the baker" },
+        { "w": "يُوقِدُ", "root": "و ق د", "bs": "pali", "en": "lights" },
+        { "w": "الْفُرْنَ", "root": "ف ر ن", "bs": "pećnica", "en": "the oven" },
+        { "w": "صَبَاحًا", "root": "ص ب ح", "bs": "ujutro", "en": "in the morning" }
+      ]
     },
     {
       "arabic": "عَجَنَ الدَّقِيقَ وَشَكَّلَ الأَرْغِفَةَ بِسُرْعَةٍ.",
       "translation": "Mijesio je brašno i brzo oblikovao hljebove.",
-      "translationEn": "He kneaded the flour and quickly shaped the loaves."
+      "translationEn": "He kneaded the flour and quickly shaped the loaves.",
+      "words": [
+        { "w": "عَجَنَ", "root": "ع ج ن", "bs": "mijesio je", "en": "kneaded" },
+        { "w": "الدَّقِيقَ", "root": "د ق ق", "bs": "brašno", "en": "the flour" },
+        { "w": "شَكَّلَ", "root": "ش ك ل", "bs": "oblikovao je", "en": "shaped" },
+        { "w": "الأَرْغِفَةَ", "root": "ر غ ف", "bs": "hljebove", "en": "the loaves" },
+        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+      ]
     },
     {
       "arabic": "جَاءَ النَّاسُ إِلَى الْمَخْبَزِ مُبَكِّرًا لِيَشْتَرُوا الْخُبْزَ الطَّازَجَ.",
       "translation": "Ljudi su rano dolazili u pekaru da kupe svježi hljeb.",
-      "translationEn": "People came to the bakery early to buy fresh bread."
+      "translationEn": "People came to the bakery early to buy fresh bread.",
+      "words": [
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "الْمَخْبَزِ", "root": "خ ب ز", "bs": "pekara", "en": "the bakery" },
+        { "w": "مُبَكِّرًا", "root": "ب ك ر", "bs": "rano", "en": "early" },
+        { "w": "الْخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "الطَّازَجَ", "root": "ط ز ج", "bs": "svježi", "en": "fresh" }
+      ]
     },
     {
       "arabic": "كَانَتْ رَائِحَةُ الْخُبْزِ تَمْلَأُ الشَّارِعَ كُلَّ صَبَاحٍ.",
       "translation": "Miris hljeba ispunjavao je ulicu svako jutro.",
-      "translationEn": "The smell of bread filled the street every morning."
+      "translationEn": "The smell of bread filled the street every morning.",
+      "words": [
+        { "w": "رَائِحَةُ", "root": "ر و ح", "bs": "miris", "en": "the smell" },
+        { "w": "الْخُبْزِ", "root": "خ ب ز", "bs": "hljeba", "en": "bread" },
+        { "w": "تَمْلَأُ", "root": "م ل أ", "bs": "ispunjava", "en": "fills" },
+        { "w": "الشَّارِعَ", "root": "ش ر ع", "bs": "ulica", "en": "the street" },
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     }
   ],
   "metadata": {

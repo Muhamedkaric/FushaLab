@@ -6,27 +6,55 @@
     {
       "arabic": "وَجَدَتْ دِينَا حَذَاءً صَغِيرًا وَحِيدًا فِي الطَّرِيقِ.",
       "translation": "Dina je pronašla jednu malu cipelu samu na putu.",
-      "translationEn": "Dina found a small lone shoe on the road."
+      "translationEn": "Dina found a small lone shoe on the road.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "حَذَاءً", "root": "ح ذ و", "bs": "cipelu", "en": "shoe" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "malu", "en": "small" },
+        { "w": "وَحِيدًا", "root": "و ح د", "bs": "samu", "en": "lone/alone" }
+      ]
     },
     {
       "arabic": "كَانَ الْحَذَاءُ جَمِيلًا وَجَدِيدًا.",
       "translation": "Cipela je bila lijepa i nova.",
-      "translationEn": "The shoe was beautiful and new."
+      "translationEn": "The shoe was beautiful and new.",
+      "words": [
+        { "w": "الْحَذَاءُ", "root": "ح ذ و", "bs": "cipela", "en": "the shoe" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" },
+        { "w": "جَدِيدًا", "root": "ج د د", "bs": "nova", "en": "new" }
+      ]
     },
     {
       "arabic": "أَخَذَتْهُ دِينَا وَبَحَثَتْ عَنْ صَاحِبِهِ.",
       "translation": "Dina ga je uzela i tražila njegovog vlasnika.",
-      "translationEn": "Dina took it and looked for its owner."
+      "translationEn": "Dina took it and looked for its owner.",
+      "words": [
+        { "w": "أَخَذَتْهُ", "root": "أ خ ذ", "bs": "uzela ga je", "en": "she took it" },
+        { "w": "بَحَثَتْ", "root": "ب ح ث", "bs": "tražila je", "en": "she looked for" },
+        { "w": "صَاحِبِهِ", "root": "ص ح ب", "bs": "vlasnika", "en": "its owner" }
+      ]
     },
     {
       "arabic": "رَأَتْ طِفْلًا صَغِيرًا يَبْكِي عِنْدَ الْبَقَالَةِ.",
       "translation": "Vidjela je malo dijete koje plače kod prodavnice.",
-      "translationEn": "She saw a small child crying near the grocery shop."
+      "translationEn": "She saw a small child crying near the grocery shop.",
+      "words": [
+        { "w": "رَأَتْ", "root": "ر أ ي", "bs": "vidjela je", "en": "she saw" },
+        { "w": "طِفْلًا", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "يَبْكِي", "root": "ب ك ي", "bs": "plače", "en": "crying" },
+        { "w": "الْبَقَالَةِ", "root": "ب ق ل", "bs": "prodavnice", "en": "grocery shop" }
+      ]
     },
     {
       "arabic": "فَرِحَ الطِّفْلُ جِدًّا حِينَ أَعَادَتْ لَهُ دِينَا حَذَاءَهُ.",
       "translation": "Dijete se veoma obradovalo kada mu je Dina vratila cipelu.",
-      "translationEn": "The child was very happy when Dina returned his shoe to him."
+      "translationEn": "The child was very happy when Dina returned his shoe to him.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovalo se", "en": "was happy" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "the child" },
+        { "w": "أَعَادَتْ", "root": "ع و د", "bs": "vratila je", "en": "she returned" },
+        { "w": "حَذَاءَهُ", "root": "ح ذ و", "bs": "cipelu", "en": "his shoe" }
+      ]
     }
   ],
   "metadata": {

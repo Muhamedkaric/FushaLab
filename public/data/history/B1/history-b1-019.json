@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ الرَّاعِي يَأْخُذُ الأَغْنَامَ إِلَى الْجَبَلِ كُلَّ صَبَاحٍ.",
       "translation": "Pastir je svakog jutra vodio ovce na planinu.",
-      "translationEn": "The shepherd used to take the sheep to the mountain every morning."
+      "translationEn": "The shepherd used to take the sheep to the mountain every morning.",
+      "words": [
+        { "w": "الرَّاعِي", "root": "ر ع ي", "bs": "pastir", "en": "the shepherd" },
+        { "w": "يَأْخُذُ", "root": "أ خ ذ", "bs": "vodi", "en": "takes" },
+        { "w": "الأَغْنَامَ", "root": "غ ن م", "bs": "ovce", "en": "the sheep" },
+        { "w": "الْجَبَلِ", "root": "ج ب ل", "bs": "planina", "en": "the mountain" },
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "كَانَ يَجْلِسُ تَحْتَ الشَّجَرَةِ وَيَنْظُرُ إِلَيْهَا.",
       "translation": "Sjedio je ispod drveta i gledao ih.",
-      "translationEn": "He would sit under a tree and watch them."
+      "translationEn": "He would sit under a tree and watch them.",
+      "words": [
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" },
+        { "w": "الشَّجَرَةِ", "root": "ش ج ر", "bs": "drvo", "en": "the tree" },
+        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gleda", "en": "watches" }
+      ]
     },
     {
       "arabic": "أَكَلَتِ الأَغْنَامُ الْعُشْبَ الأَخْضَرَ بِهَدَوءٍ.",
       "translation": "Ovce su mirno jele zelenu travu.",
-      "translationEn": "The sheep ate the green grass calmly."
+      "translationEn": "The sheep ate the green grass calmly.",
+      "words": [
+        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "jele su", "en": "ate" },
+        { "w": "الأَغْنَامُ", "root": "غ ن م", "bs": "ovce", "en": "the sheep" },
+        { "w": "الْعُشْبَ", "root": "ع ش ب", "bs": "trava", "en": "the grass" },
+        { "w": "الأَخْضَرَ", "root": "خ ض ر", "bs": "zelena", "en": "green" }
+      ]
     },
     {
       "arabic": "عَادَ إِلَى الْقَرْيَةِ قَبْلَ غُرُوبِ الشَّمْسِ.",
       "translation": "Vratio se u selo prije zalaska sunca.",
-      "translationEn": "He returned to the village before sunset."
+      "translationEn": "He returned to the village before sunset.",
+      "words": [
+        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "the village" },
+        { "w": "غُرُوبِ", "root": "غ ر ب", "bs": "zalazak", "en": "sunset" },
+        { "w": "الشَّمْسِ", "root": "ش م س", "bs": "sunce", "en": "the sun" }
+      ]
     }
   ],
   "metadata": {

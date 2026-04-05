@@ -6,22 +6,47 @@
     {
       "arabic": "يَعْمَلُ زَيَّادٌ مِنَ الْبَيْتِ ثَلَاثَةَ أَيَّامٍ فِي الْأُسْبُوعِ.",
       "translation": "Zijad radi od kuće tri dana sedmično.",
-      "translationEn": "Ziyad works from home three days a week."
+      "translationEn": "Ziyad works from home three days a week.",
+      "words": [
+        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "home" },
+        { "w": "أَيَّامٍ", "root": "ي و م", "bs": "dana", "en": "days" },
+        { "w": "الْأُسْبُوعِ", "root": "س ب ع", "bs": "sedmica/tjedan", "en": "week" }
+      ]
     },
     {
       "arabic": "يَجْلِسُ عَلَى مَكْتَبِهِ فِي الصَّالَةِ وَيَفْتَحُ الْحَاسُوبَ.",
       "translation": "Sjeda za svoji sto u dnevnoj sobi i otvara računar.",
-      "translationEn": "He sits at his desk in the living room and opens the computer."
+      "translationEn": "He sits at his desk in the living room and opens the computer.",
+      "words": [
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjeda", "en": "sits" },
+        { "w": "مَكْتَبِهِ", "root": "ك ت ب", "bs": "njegov sto/radni stol", "en": "his desk" },
+        { "w": "الصَّالَةِ", "root": "ص و ل", "bs": "dnevna soba/salon", "en": "living room" },
+        { "w": "يَفْتَحُ", "root": "ف ت ح", "bs": "otvara", "en": "opens" },
+        { "w": "الْحَاسُوبَ", "root": "ح س ب", "bs": "računar/kompjuter", "en": "computer" }
+      ]
     },
     {
       "arabic": "يَتَوَاصَلُ مَعَ زُمَلَائِهِ عَبْرَ الْإِنْتَرْنِتِ.",
       "translation": "Komunicira s kolegama putem interneta.",
-      "translationEn": "He communicates with his colleagues via the internet."
+      "translationEn": "He communicates with his colleagues via the internet.",
+      "words": [
+        { "w": "يَتَوَاصَلُ", "root": "و ص ل", "bs": "komunicira/kontaktira", "en": "communicates" },
+        { "w": "زُمَلَائِهِ", "root": "ز م ل", "bs": "njegovi kolege", "en": "his colleagues" },
+        { "w": "الْإِنْتَرْنِتِ", "root": "ن ت ر", "bs": "internet", "en": "internet" }
+      ]
     },
     {
       "arabic": "يُحِبُّ الْعَمَلَ مِنَ الْبَيْتِ لِأَنَّهُ يُوَفِّرُ وَقْتَ التَّنَقُّلِ.",
       "translation": "Voli rad od kuće jer štedi vrijeme putovanja.",
-      "translationEn": "He loves working from home because it saves commute time."
+      "translationEn": "He loves working from home because it saves commute time.",
+      "words": [
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
+        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "rad/posao", "en": "working" },
+        { "w": "يُوَفِّرُ", "root": "و ف ر", "bs": "štedi/čuva", "en": "saves" },
+        { "w": "وَقْتَ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "التَّنَقُّلِ", "root": "ن ق ل", "bs": "putovanje/komuta", "en": "commute/travel" }
+      ]
     }
   ],
   "metadata": {

@@ -6,27 +6,55 @@
     {
       "arabic": "يُحِبُّ كَثِيرٌ مِنَ النَّاسِ الْعَيْشَ فِي الْمَدِينَةِ.",
       "translation": "Mnogi ljudi vole živjeti u gradu.",
-      "translationEn": "Many people like living in the city."
+      "translationEn": "Many people like living in the city.",
+      "words": [
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "vole", "en": "like" },
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "الْعَيْشَ", "root": "ع ي ش", "bs": "živjeti", "en": "living" },
+        { "w": "الْمَدِينَةِ", "root": "م د ن", "bs": "gradu", "en": "city" }
+      ]
     },
     {
       "arabic": "لَكِنَّ بَعْضَهُمْ يُفَضِّلُ الْهُدُوءَ فِي الْقَرْيَةِ.",
       "translation": "Ali neki od njih više vole tišinu na selu.",
-      "translationEn": "But some of them prefer the quiet of the village."
+      "translationEn": "But some of them prefer the quiet of the village.",
+      "words": [
+        { "w": "يُفَضِّلُ", "root": "ف ض ل", "bs": "više vole", "en": "prefer" },
+        { "w": "الْهُدُوءَ", "root": "ه د أ", "bs": "tišinu", "en": "quiet" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selu", "en": "village" }
+      ]
     },
     {
       "arabic": "الْمَدِينَةُ فِيهَا كُلُّ شَيْءٍ لَكِنَّهَا صَاخِبَةٌ.",
       "translation": "Grad ima sve ali je bučan.",
-      "translationEn": "The city has everything but it is noisy."
+      "translationEn": "The city has everything but it is noisy.",
+      "words": [
+        { "w": "الْمَدِينَةُ", "root": "م د ن", "bs": "grad", "en": "city" },
+        { "w": "شَيْءٍ", "root": "ش ي أ", "bs": "sve", "en": "everything" },
+        { "w": "صَاخِبَةٌ", "root": "ص خ ب", "bs": "bučan", "en": "noisy" }
+      ]
     },
     {
       "arabic": "الْقَرْيَةُ هَادِئَةٌ وَالْهَوَاءُ فِيهَا نَظِيفٌ.",
       "translation": "Selo je mirno i zrak je u njemu čist.",
-      "translationEn": "The village is calm and the air there is clean."
+      "translationEn": "The village is calm and the air there is clean.",
+      "words": [
+        { "w": "الْقَرْيَةُ", "root": "ق ر ي", "bs": "selo", "en": "village" },
+        { "w": "هَادِئَةٌ", "root": "ه د أ", "bs": "mirno", "en": "calm" },
+        { "w": "الْهَوَاءُ", "root": "ه و أ", "bs": "zrak", "en": "air" },
+        { "w": "نَظِيفٌ", "root": "ن ظ ف", "bs": "čist", "en": "clean" }
+      ]
     },
     {
       "arabic": "كُلُّ شَخْصٍ يَخْتَارُ الْمَكَانَ الَّذِي يُنَاسِبُهُ.",
       "translation": "Svaka osoba bira mjesto koje joj odgovara.",
-      "translationEn": "Every person chooses the place that suits them."
+      "translationEn": "Every person chooses the place that suits them.",
+      "words": [
+        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
+        { "w": "يَخْتَارُ", "root": "خ ي ر", "bs": "bira", "en": "chooses" },
+        { "w": "الْمَكَانَ", "root": "ك و ن", "bs": "mjesto", "en": "place" },
+        { "w": "يُنَاسِبُهُ", "root": "ن س ب", "bs": "odgovara mu", "en": "suits them" }
+      ]
     }
   ],
   "metadata": {

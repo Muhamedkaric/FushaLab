@@ -6,22 +6,47 @@
     {
       "arabic": "كَتَبَتْ رَنِيمُ قَائِمَةً بِمَهَامِّهَا فِي بِدَايَةِ كُلِّ يَوْمٍ.",
       "translation": "Ranim je na početku svakog dana pisala popis zadataka.",
-      "translationEn": "Ranim wrote a list of her tasks at the beginning of every day."
+      "translationEn": "Ranim wrote a list of her tasks at the beginning of every day.",
+      "words": [
+        { "w": "كَتَبَتْ", "root": "ك ت ب", "bs": "pisala je", "en": "wrote" },
+        { "w": "قَائِمَةً", "root": "ق و م", "bs": "popis/lista", "en": "list" },
+        { "w": "بِمَهَامِّهَا", "root": "م ه م", "bs": "njeni zadaci", "en": "her tasks" },
+        { "w": "بِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "beginning" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" }
+      ]
     },
     {
       "arabic": "بَدَأَتْ بِالْمَهَامِّ الْأَهَمِّ أَوَّلًا.",
       "translation": "Počinjala je s najvažnijim zadacima prvo.",
-      "translationEn": "She started with the most important tasks first."
+      "translationEn": "She started with the most important tasks first.",
+      "words": [
+        { "w": "بَدَأَتْ", "root": "ب د أ", "bs": "počinjala je", "en": "started" },
+        { "w": "الْمَهَامِّ", "root": "م ه م", "bs": "zadaci/dužnosti", "en": "tasks" },
+        { "w": "الْأَهَمِّ", "root": "م ه م", "bs": "najvažnijim", "en": "most important" }
+      ]
     },
     {
       "arabic": "شَطَبَتْ كُلَّ مَهَمَّةٍ بَعْدَ الِانْتِهَاءِ مِنْهَا.",
       "translation": "Precrtavala je svaki zadatak nakon što ga završi.",
-      "translationEn": "She crossed out each task after finishing it."
+      "translationEn": "She crossed out each task after finishing it.",
+      "words": [
+        { "w": "شَطَبَتْ", "root": "ش ط ب", "bs": "precrtavala je", "en": "crossed out" },
+        { "w": "مَهَمَّةٍ", "root": "م ه م", "bs": "zadatak", "en": "task" },
+        { "w": "الِانْتِهَاءِ", "root": "ن ه ي", "bs": "završetak/okončanje", "en": "finishing" }
+      ]
     },
     {
       "arabic": "فِي نِهَايَةِ الْيَوْمِ أَنْهَتْ كُلَّ مَهَامِّهَا وَشَعَرَتْ بِرَاحَةٍ.",
       "translation": "Na kraju dana je završila sve zadatke i osjetila se smireno.",
-      "translationEn": "At the end of the day she finished all her tasks and felt relieved."
+      "translationEn": "At the end of the day she finished all her tasks and felt relieved.",
+      "words": [
+        { "w": "نِهَايَةِ", "root": "ن ه ي", "bs": "kraj/završetak", "en": "end" },
+        { "w": "الْيَوْمِ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "أَنْهَتْ", "root": "ن ه ي", "bs": "završila je", "en": "finished" },
+        { "w": "مَهَامِّهَا", "root": "م ه م", "bs": "njeni zadaci", "en": "her tasks" },
+        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjetila se", "en": "felt" },
+        { "w": "بِرَاحَةٍ", "root": "ر و ح", "bs": "smireno/olakšano", "en": "relieved/at ease" }
+      ]
     }
   ],
   "metadata": {

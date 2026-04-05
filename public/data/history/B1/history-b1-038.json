@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ النَّاسُ يَقِيسُونَ الزَّمَنَ بِالشَّمْسِ وَالْقَمَرِ.",
       "translation": "Ljudi su mjerili vrijeme suncem i mjesecom.",
-      "translationEn": "People used to measure time by the sun and the moon."
+      "translationEn": "People used to measure time by the sun and the moon.",
+      "words": [
+        { "w": "يَقِيسُونَ", "root": "ق ي س", "bs": "mjere", "en": "measure" },
+        { "w": "الزَّمَنَ", "root": "ز م ن", "bs": "vrijeme", "en": "time" },
+        { "w": "الشَّمْسِ", "root": "ش م س", "bs": "sunce", "en": "the sun" },
+        { "w": "الْقَمَرِ", "root": "ق م ر", "bs": "mjesec", "en": "the moon" }
+      ]
     },
     {
       "arabic": "كَانَ النَّهَارُ يَبْدَأُ بِشُرُوقِ الشَّمْسِ وَيَنْتَهِي بِغُرُوبِهَا.",
       "translation": "Dan je počinjao izlaskom sunca i završavao zalaskom.",
-      "translationEn": "The day started at sunrise and ended at sunset."
+      "translationEn": "The day started at sunrise and ended at sunset.",
+      "words": [
+        { "w": "النَّهَارُ", "root": "ن ه ر", "bs": "dan", "en": "the day" },
+        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "starts" },
+        { "w": "شُرُوقِ", "root": "ش ر ق", "bs": "izlazak", "en": "sunrise" },
+        { "w": "الشَّمْسِ", "root": "ش م س", "bs": "sunce", "en": "the sun" },
+        { "w": "غُرُوبِهَا", "root": "غ ر ب", "bs": "zalazak", "en": "its sunset" }
+      ]
     },
     {
       "arabic": "كَانَ الْقَمَرُ يُحَدِّدُ بِدَايَةَ الشَّهْرِ الْجَدِيدِ.",
       "translation": "Mjesec je određivao početak novog mjeseca.",
-      "translationEn": "The moon determined the beginning of the new month."
+      "translationEn": "The moon determined the beginning of the new month.",
+      "words": [
+        { "w": "الْقَمَرُ", "root": "ق م ر", "bs": "mjesec", "en": "the moon" },
+        { "w": "يُحَدِّدُ", "root": "ح د د", "bs": "određuje", "en": "determines" },
+        { "w": "بِدَايَةَ", "root": "ب د أ", "bs": "početak", "en": "the beginning" },
+        { "w": "الشَّهْرِ", "root": "ش ه ر", "bs": "mjeseca", "en": "the month" },
+        { "w": "الْجَدِيدِ", "root": "ج د د", "bs": "novog", "en": "new" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْفُصُولُ الأَرْبَعَةُ تُنَظِّمُ حَيَاةَ النَّاسِ.",
       "translation": "Četiri godišnja doba uređivala su život ljudi.",
-      "translationEn": "The four seasons organised people's lives."
+      "translationEn": "The four seasons organised people's lives.",
+      "words": [
+        { "w": "الْفُصُولُ", "root": "ف ص ل", "bs": "godišnja doba", "en": "the seasons" },
+        { "w": "تُنَظِّمُ", "root": "ن ظ م", "bs": "uređuje", "en": "organises" },
+        { "w": "حَيَاةَ", "root": "ح ي و", "bs": "život", "en": "lives" },
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" }
+      ]
     }
   ],
   "metadata": {

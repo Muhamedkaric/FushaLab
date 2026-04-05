@@ -6,22 +6,46 @@
     {
       "arabic": "رَكِبَ الطِّفْلُ الْحَافِلَةَ لِأَوَّلِ مَرَّةٍ مَعَ جَدِّهِ.",
       "translation": "Dijete je prvi put sjelo u autobus sa djedom.",
-      "translationEn": "The child rode the bus for the first time with his grandfather."
+      "translationEn": "The child rode the bus for the first time with his grandfather.",
+      "words": [
+        { "w": "رَكِبَ", "root": "ر ك ب", "bs": "sjeo je u / vozio se", "en": "rode" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "الْحَافِلَةَ", "root": "ح ف ل", "bs": "autobus", "en": "bus" },
+        { "w": "جَدِّهِ", "root": "ج د د", "bs": "njegov djed", "en": "his grandfather" }
+      ]
     },
     {
       "arabic": "جَلَسَ عِنْدَ النَّافِذَةِ وَنَظَرَ إِلَى الشَّارِعِ.",
       "translation": "Sjeo je kraj prozora i gledao u ulicu.",
-      "translationEn": "He sat by the window and looked at the street."
+      "translationEn": "He sat by the window and looked at the street.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
+        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "gledao je", "en": "looked" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" }
+      ]
     },
     {
       "arabic": "سَأَلَ جَدَّهُ عَنِ اسْمِ كُلِّ شَارِعٍ يَمُرُّونَ بِهِ.",
       "translation": "Pitao je djeda ime svake ulice kroz koju prolaze.",
-      "translationEn": "He asked his grandfather the name of every street they passed."
+      "translationEn": "He asked his grandfather the name of every street they passed.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "اسْمِ", "root": "س م و", "bs": "ime", "en": "name" },
+        { "w": "شَارِعٍ", "root": "ش ر ع", "bs": "ulica", "en": "street" },
+        { "w": "يَمُرُّونَ", "root": "م ر ر", "bs": "prolaze", "en": "they pass" }
+      ]
     },
     {
       "arabic": "ضَحِكَ الْجَدُّ وَأَجَابَ عَلَى كُلِّ سُؤَالٍ بِصَبْرٍ.",
       "translation": "Djed se nasmijao i strpljivo odgovarao na svako pitanje.",
-      "translationEn": "The grandfather laughed and answered every question patiently."
+      "translationEn": "The grandfather laughed and answered every question patiently.",
+      "words": [
+        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijao se", "en": "laughed" },
+        { "w": "أَجَابَ", "root": "ج و ب", "bs": "odgovorio je", "en": "answered" },
+        { "w": "سُؤَالٍ", "root": "س أ ل", "bs": "pitanje", "en": "question" },
+        { "w": "بِصَبْرٍ", "root": "ص ب ر", "bs": "strpljivo", "en": "patiently" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,49 @@
     {
       "arabic": "عِنْدَمَا يَأْتِي الضَّيْفُ، يُقَدِّمُ صَاحِبُ البَيْتِ القَهْوَةَ.",
       "translation": "Kada gost dođe, domaćin poslužuje kafu.",
-      "translationEn": "When a guest arrives, the host serves coffee."
+      "translationEn": "When a guest arrives, the host serves coffee.",
+      "words": [
+        { "w": "يَأْتِي", "root": "أ ت ي", "bs": "dolazi", "en": "arrives" },
+        { "w": "الضَّيْفُ", "root": "ض ي ف", "bs": "gost", "en": "guest" },
+        { "w": "يُقَدِّمُ", "root": "ق د م", "bs": "poslužuje", "en": "serves" },
+        { "w": "صَاحِبُ", "root": "ص ح ب", "bs": "domaćin", "en": "host" },
+        { "w": "القَهْوَةَ", "root": "ق ه و", "bs": "kafu", "en": "coffee" }
+      ]
     },
     {
       "arabic": "القَهْوَةُ العَرَبِيَّةُ لَهَا طَعْمٌ خَاصٌّ وَرَائِحَةٌ جَمِيلَةٌ.",
       "translation": "Arapska kafa ima poseban okus i lijep miris.",
-      "translationEn": "Arabic coffee has a special taste and a beautiful aroma."
+      "translationEn": "Arabic coffee has a special taste and a beautiful aroma.",
+      "words": [
+        { "w": "القَهْوَةُ", "root": "ق ه و", "bs": "kafa", "en": "coffee" },
+        { "w": "طَعْمٌ", "root": "ط ع م", "bs": "okus", "en": "taste" },
+        { "w": "خَاصٌّ", "root": "خ ص ص", "bs": "poseban", "en": "special" },
+        { "w": "رَائِحَةٌ", "root": "ر و ح", "bs": "miris", "en": "aroma" },
+        { "w": "جَمِيلَةٌ", "root": "ج م ل", "bs": "lijep", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "يَجْلِسُ الضَّيْفُ وَيَشْرَبُ القَهْوَةَ بِهُدُوءٍ.",
       "translation": "Gost sjedi i mirno pije kafu.",
-      "translationEn": "The guest sits and drinks coffee calmly."
+      "translationEn": "The guest sits and drinks coffee calmly.",
+      "words": [
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" },
+        { "w": "الضَّيْفُ", "root": "ض ي ف", "bs": "gost", "en": "guest" },
+        { "w": "يَشْرَبُ", "root": "ش ر ب", "bs": "pije", "en": "drinks" },
+        { "w": "القَهْوَةَ", "root": "ق ه و", "bs": "kafu", "en": "coffee" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno", "en": "calmly" }
+      ]
     },
     {
       "arabic": "هَذِهِ العَادَةُ مُهِمَّةٌ فِي ثَقَافَةِ الضِّيَافَةِ.",
       "translation": "Ova navika je važna u kulturi gostoprimstva.",
-      "translationEn": "This habit is important in the culture of hospitality."
+      "translationEn": "This habit is important in the culture of hospitality.",
+      "words": [
+        { "w": "العَادَةُ", "root": "ع و د", "bs": "navika", "en": "habit" },
+        { "w": "مُهِمَّةٌ", "root": "هـ م م", "bs": "važna", "en": "important" },
+        { "w": "ثَقَافَةِ", "root": "ث ق ف", "bs": "kulturi", "en": "culture" },
+        { "w": "الضِّيَافَةِ", "root": "ض ي ف", "bs": "gostoprimstva", "en": "hospitality" }
+      ]
     }
   ],
   "metadata": {

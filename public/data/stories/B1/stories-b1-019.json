@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ طِفْلٌ اسْمُهُ عُمَرُ يُحِبُّ النَّجُومَ كَثِيرًا.",
       "translation": "Bio je dječak po imenu Omer koji je jako volio zvijezde.",
-      "translationEn": "There was a boy named Omar who loved stars very much."
+      "translationEn": "There was a boy named Omar who loved stars very much.",
+      "words": [
+        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dječak", "en": "boy" },
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "volio je", "en": "loved" },
+        { "w": "النَّجُومَ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" }
+      ]
     },
     {
       "arabic": "كُلَّ لَيْلَةٍ كَانَ يَجْلِسُ عَلَى السَّطْحِ وَيَنْظُرُ إِلَى السَّمَاءِ.",
       "translation": "Svake večeri je sjedio na terasi i gledao u nebo.",
-      "translationEn": "Every night he sat on the roof and looked at the sky."
+      "translationEn": "Every night he sat on the roof and looked at the sky.",
+      "words": [
+        { "w": "لَيْلَةٍ", "root": "ل ي ل", "bs": "večer", "en": "night" },
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedio je", "en": "sat" },
+        { "w": "السَّطْحِ", "root": "س ط ح", "bs": "terasa", "en": "roof" },
+        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gledao je", "en": "looked" },
+        { "w": "السَّمَاءِ", "root": "س م و", "bs": "nebo", "en": "sky" }
+      ]
     },
     {
       "arabic": "اشْتَرَى لَهُ أَبُوهُ مِنْظَارًا صَغِيرًا لِيَرَى النُّجُومَ أَكْثَرَ.",
       "translation": "Otac mu je kupio mali teleskop da više vidi zvijezde.",
-      "translationEn": "His father bought him a small telescope to see the stars better."
+      "translationEn": "His father bought him a small telescope to see the stars better.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "أَبُوهُ", "root": "أ ب و", "bs": "njegov otac", "en": "his father" },
+        { "w": "مِنْظَارًا", "root": "ن ظ ر", "bs": "teleskop", "en": "telescope" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "النُّجُومَ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" }
+      ]
     },
     {
       "arabic": "فَرِحَ عُمَرُ فَرَحًا كَبِيرًا وَشَكَرَ أَبَاهُ كَثِيرًا.",
       "translation": "Omer se veoma obradovao i mnogo se zahvalio ocu.",
-      "translationEn": "Omar was very happy and thanked his father many times."
+      "translationEn": "Omar was very happy and thanked his father many times.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
+        { "w": "فَرَحًا", "root": "ف ر ح", "bs": "radost", "en": "happiness" },
+        { "w": "كَبِيرًا", "root": "ك ب ر", "bs": "veliku", "en": "great" },
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio se", "en": "thanked" },
+        { "w": "أَبَاهُ", "root": "أ ب و", "bs": "svog oca", "en": "his father" }
+      ]
     }
   ],
   "metadata": {

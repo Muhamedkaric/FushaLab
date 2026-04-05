@@ -6,22 +6,49 @@
     {
       "arabic": "الرِّيَاضَةُ تُسَاعِدُ الإِنْسَانَ عَلَى الشُّعُورِ بِالسَّعَادَةِ.",
       "translation": "Sport pomaže čovjeku da se osjeća sretno.",
-      "translationEn": "Exercise helps a person feel happy."
+      "translationEn": "Exercise helps a person feel happy.",
+      "words": [
+        { "w": "الرِّيَاضَةُ", "root": "ر و ض", "bs": "sport", "en": "exercise" },
+        { "w": "تُسَاعِدُ", "root": "س ع د", "bs": "pomaže", "en": "helps" },
+        { "w": "الإِنْسَانَ", "root": "أ ن س", "bs": "čovjeku", "en": "a person" },
+        { "w": "الشُّعُورِ", "root": "ش ع ر", "bs": "osjećaj", "en": "feeling" },
+        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happiness" }
+      ]
     },
     {
       "arabic": "بَعْدَ الْجَرْيِ لِنِصْفِ سَاعَةٍ شَعَرَ وَلِيدٌ بِخِفَّةٍ.",
       "translation": "Nakon trčanja pola sata Walid se osjetio lako.",
-      "translationEn": "After running for half an hour Walid felt light."
+      "translationEn": "After running for half an hour Walid felt light.",
+      "words": [
+        { "w": "الْجَرْيِ", "root": "ج ر ي", "bs": "trčanje", "en": "running" },
+        { "w": "نِصْفِ", "root": "ن ص ف", "bs": "pola", "en": "half" },
+        { "w": "سَاعَةٍ", "root": "س و ع", "bs": "sat", "en": "hour" },
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio se", "en": "felt" },
+        { "w": "بِخِفَّةٍ", "root": "خ ف ف", "bs": "lagano", "en": "light" }
+      ]
     },
     {
       "arabic": "ذَهَبَ الْهَمُّ وَجَاءَ الْفَرَحُ.",
       "translation": "Briga je otišla a radost je došla.",
-      "translationEn": "The worry went away and joy came."
+      "translationEn": "The worry went away and joy came.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went away" },
+        { "w": "الْهَمُّ", "root": "ه م م", "bs": "briga", "en": "the worry" },
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došla je", "en": "came" },
+        { "w": "الْفَرَحُ", "root": "ف ر ح", "bs": "radost", "en": "joy" }
+      ]
     },
     {
       "arabic": "الْحَرَكَةُ وَالنَّشَاطُ يَجْعَلَانِ الْعَقْلَ أَهْدَأَ.",
       "translation": "Kretanje i aktivnost čine um mirnijim.",
-      "translationEn": "Movement and activity make the mind calmer."
+      "translationEn": "Movement and activity make the mind calmer.",
+      "words": [
+        { "w": "الْحَرَكَةُ", "root": "ح ر ك", "bs": "kretanje", "en": "movement" },
+        { "w": "النَّشَاطُ", "root": "ن ش ط", "bs": "aktivnost", "en": "activity" },
+        { "w": "يَجْعَلَانِ", "root": "ج ع ل", "bs": "čine", "en": "make" },
+        { "w": "الْعَقْلَ", "root": "ع ق ل", "bs": "um", "en": "the mind" },
+        { "w": "أَهْدَأَ", "root": "ه د أ", "bs": "mirnijim", "en": "calmer" }
+      ]
     }
   ],
   "metadata": {

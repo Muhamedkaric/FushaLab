@@ -6,27 +6,55 @@
     {
       "arabic": "السُّوقُ القَدِيمُ مَكَانٌ شَهِيرٌ فِي المَدِينَةِ.",
       "translation": "Stara čaršija je poznato mjesto u gradu.",
-      "translationEn": "The old souq is a famous place in the city."
+      "translationEn": "The old souq is a famous place in the city.",
+      "words": [
+        { "w": "السُّوقُ", "root": "س و ق", "bs": "čaršija", "en": "souq" },
+        { "w": "القَدِيمُ", "root": "ق د م", "bs": "stara", "en": "old" },
+        { "w": "مَكَانٌ", "root": "م ك ن", "bs": "mjesto", "en": "place" },
+        { "w": "شَهِيرٌ", "root": "ش هـ ر", "bs": "poznato", "en": "famous" }
+      ]
     },
     {
       "arabic": "تَجِدُ فِيهِ التَّوَابِلَ وَالمَلَابِسَ وَالمَجَوْهَرَاتِ.",
       "translation": "Tu nalaziš začine, odjeću i nakit.",
-      "translationEn": "You find spices, clothing, and jewelry there."
+      "translationEn": "You find spices, clothing, and jewelry there.",
+      "words": [
+        { "w": "تَجِدُ", "root": "و ج د", "bs": "nalaziš", "en": "find" },
+        { "w": "التَّوَابِلَ", "root": "ت ب ل", "bs": "začine", "en": "spices" },
+        { "w": "المَلَابِسَ", "root": "ل ب س", "bs": "odjeću", "en": "clothing" },
+        { "w": "المَجَوْهَرَاتِ", "root": "ج هـ ر", "bs": "nakit", "en": "jewelry" }
+      ]
     },
     {
       "arabic": "البَائِعُونَ يُنَادُونَ الزَّبَائِنَ بِصَوْتٍ عَالٍ.",
       "translation": "Prodavači glasno dozivaju kupce.",
-      "translationEn": "Sellers call out to customers loudly."
+      "translationEn": "Sellers call out to customers loudly.",
+      "words": [
+        { "w": "البَائِعُونَ", "root": "ب ي ع", "bs": "prodavači", "en": "sellers" },
+        { "w": "يُنَادُونَ", "root": "ن د و", "bs": "dozivaju", "en": "call out" },
+        { "w": "الزَّبَائِنَ", "root": "ز ب ن", "bs": "kupce", "en": "customers" },
+        { "w": "بِصَوْتٍ", "root": "ص و ت", "bs": "glasno", "en": "loudly" }
+      ]
     },
     {
       "arabic": "يُمْكِنُكَ المُسَاوَمَةُ عَلَى السِّعْرِ هُنَا.",
-      "translation": "Ovdje možeš cjenкati se.",
-      "translationEn": "You can negotiate the price here."
+      "translation": "Ovdje možeš cjenkati se.",
+      "translationEn": "You can negotiate the price here.",
+      "words": [
+        { "w": "المُسَاوَمَةُ", "root": "س و م", "bs": "cjenkanje", "en": "negotiation" },
+        { "w": "السِّعْرِ", "root": "س ع ر", "bs": "cijenu", "en": "price" }
+      ]
     },
     {
       "arabic": "السُّوقُ التَّقْلِيدِيُّ تَجْرِبَةٌ مُمْتِعَةٌ جِدًّا.",
       "translation": "Tradicionalna čaršija je veoma zanimljivo iskustvo.",
-      "translationEn": "The traditional souq is a very enjoyable experience."
+      "translationEn": "The traditional souq is a very enjoyable experience.",
+      "words": [
+        { "w": "السُّوقُ", "root": "س و ق", "bs": "čaršija", "en": "souq" },
+        { "w": "التَّقْلِيدِيُّ", "root": "ق ل د", "bs": "tradicionalna", "en": "traditional" },
+        { "w": "تَجْرِبَةٌ", "root": "ج ر ب", "bs": "iskustvo", "en": "experience" },
+        { "w": "مُمْتِعَةٌ", "root": "م ت ع", "bs": "zanimljivo", "en": "enjoyable" }
+      ]
     }
   ],
   "metadata": {

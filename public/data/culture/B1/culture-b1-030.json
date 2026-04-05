@@ -6,27 +6,58 @@
     {
       "arabic": "المَنْسَفُ أَكْلَةٌ تَقْلِيدِيَّةٌ مَشْهُورَةٌ فِي الأُرْدُنِّ.",
       "translation": "Mansaf je poznato tradicionalno jelo u Jordanu.",
-      "translationEn": "Mansaf is a well-known traditional dish in Jordan."
+      "translationEn": "Mansaf is a well-known traditional dish in Jordan.",
+      "words": [
+        { "w": "المَنْسَفُ", "root": "ن س ف", "bs": "mansaf", "en": "mansaf" },
+        { "w": "أَكْلَةٌ", "root": "أ ك ل", "bs": "jelo", "en": "dish" },
+        { "w": "تَقْلِيدِيَّةٌ", "root": "ق ل د", "bs": "tradicionalno", "en": "traditional" },
+        { "w": "مَشْهُورَةٌ", "root": "ش هـ ر", "bs": "poznato", "en": "well-known" }
+      ]
     },
     {
       "arabic": "يُطْبَخُ اللَّحْمُ مَعَ اللَّبَنِ وَيُقَدَّمُ عَلَى الأُرُزِّ.",
       "translation": "Meso se kuha s jogurtom i poslužuje na pirinču.",
-      "translationEn": "The meat is cooked with yogurt and served over rice."
+      "translationEn": "The meat is cooked with yogurt and served over rice.",
+      "words": [
+        { "w": "يُطْبَخُ", "root": "ط ب خ", "bs": "kuha se", "en": "is cooked" },
+        { "w": "اللَّحْمُ", "root": "ل ح م", "bs": "meso", "en": "meat" },
+        { "w": "اللَّبَنِ", "root": "ل ب ن", "bs": "jogurtom", "en": "yogurt" },
+        { "w": "يُقَدَّمُ", "root": "ق د م", "bs": "poslužuje se", "en": "is served" },
+        { "w": "الأُرُزِّ", "root": "أ ر ز", "bs": "pirinču", "en": "rice" }
+      ]
     },
     {
       "arabic": "يَجْتَمِعُ الأَهْلُ حَوْلَ الصَّحْنِ الكَبِيرِ.",
       "translation": "Porodica se skuplja oko velikog tanjira.",
-      "translationEn": "The family gathers around the large plate."
+      "translationEn": "The family gathers around the large plate.",
+      "words": [
+        { "w": "يَجْتَمِعُ", "root": "ج م ع", "bs": "skuplja se", "en": "gathers" },
+        { "w": "الأَهْلُ", "root": "أ هـ ل", "bs": "porodica", "en": "family" },
+        { "w": "الصَّحْنِ", "root": "ص ح ن", "bs": "tanjira", "en": "plate" },
+        { "w": "الكَبِيرِ", "root": "ك ب ر", "bs": "velikog", "en": "large" }
+      ]
     },
     {
       "arabic": "يَأْكُلُونَ مَعًا بِيَدٍ وَاحِدَةٍ.",
       "translation": "Jedu zajedno jednom rukom.",
-      "translationEn": "They eat together with one hand."
+      "translationEn": "They eat together with one hand.",
+      "words": [
+        { "w": "يَأْكُلُونَ", "root": "أ ك ل", "bs": "jedu", "en": "eat" },
+        { "w": "بِيَدٍ", "root": "ي د ي", "bs": "rukom", "en": "hand" },
+        { "w": "وَاحِدَةٍ", "root": "و ح د", "bs": "jednom", "en": "one" }
+      ]
     },
     {
       "arabic": "المَنْسَفُ يُقَدَّمُ فِي الأَعْرَاسِ وَالمُنَاسَبَاتِ الكَبِيرَةِ.",
       "translation": "Mansaf se poslužuje na vjenčanjima i velikim proslavama.",
-      "translationEn": "Mansaf is served at weddings and large occasions."
+      "translationEn": "Mansaf is served at weddings and large occasions.",
+      "words": [
+        { "w": "المَنْسَفُ", "root": "ن س ف", "bs": "mansaf", "en": "mansaf" },
+        { "w": "يُقَدَّمُ", "root": "ق د م", "bs": "poslužuje se", "en": "is served" },
+        { "w": "الأَعْرَاسِ", "root": "ع ر س", "bs": "vjenčanjima", "en": "weddings" },
+        { "w": "المُنَاسَبَاتِ", "root": "ن س ب", "bs": "proslavama", "en": "occasions" },
+        { "w": "الكَبِيرَةِ", "root": "ك ب ر", "bs": "velikim", "en": "large" }
+      ]
     }
   ],
   "metadata": {

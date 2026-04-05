@@ -6,22 +6,114 @@
     {
       "arabic": "قَرَأَ الطِّفْلُ سُورَةَ الْفَاتِحَةِ مَعَ أُمِّهِ.",
       "translation": "Dijete je sa majkom pročitalo suru El-Fatihu.",
-      "translationEn": "The child read Surah Al-Fatiha with his mother."
+      "translationEn": "The child read Surah Al-Fatiha with his mother.",
+      "words": [
+        {
+          "w": "قَرَأَ",
+          "root": "ق ر أ",
+          "bs": "pročitalo je",
+          "en": "read"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child"
+        },
+        {
+          "w": "سُورَةَ الْفَاتِحَةِ",
+          "root": "ف ت ح",
+          "bs": "suru El-Fatihu",
+          "en": "Surah Al-Fatiha"
+        },
+        {
+          "w": "أُمِّهِ",
+          "root": "أ م م",
+          "bs": "majkom",
+          "en": "his mother"
+        }
+      ]
     },
     {
       "arabic": "كَرَّرَاهَا عِدَّةَ مَرَّاتٍ حَتَّى حَفِظَهَا.",
       "translation": "Ponavljali su je više puta dok je nije zapamtio.",
-      "translationEn": "They repeated it several times until he memorized it."
+      "translationEn": "They repeated it several times until he memorized it.",
+      "words": [
+        {
+          "w": "كَرَّرَاهَا",
+          "root": "ك ر ر",
+          "bs": "ponavljali su je",
+          "en": "they repeated it"
+        },
+        {
+          "w": "عِدَّةَ مَرَّاتٍ",
+          "root": "م ر ر",
+          "bs": "više puta",
+          "en": "several times"
+        },
+        {
+          "w": "حَفِظَهَا",
+          "root": "ح ف ظ",
+          "bs": "zapamtio je",
+          "en": "memorized it"
+        }
+      ]
     },
     {
       "arabic": "فَرِحَتِ الْأُمُّ حِينَ قَرَأَهَا وَحْدَهُ.",
       "translation": "Majka se obradovala kad ju je sam pročitao.",
-      "translationEn": "The mother was happy when he read it alone."
+      "translationEn": "The mother was happy when he read it alone.",
+      "words": [
+        {
+          "w": "فَرِحَتِ",
+          "root": "ف ر ح",
+          "bs": "obradovala se",
+          "en": "was happy"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "the mother"
+        },
+        {
+          "w": "قَرَأَهَا",
+          "root": "ق ر أ",
+          "bs": "pročitao je",
+          "en": "read it"
+        },
+        {
+          "w": "وَحْدَهُ",
+          "root": "و ح د",
+          "bs": "sam",
+          "en": "alone"
+        }
+      ]
     },
     {
       "arabic": "قَالَتْ: الْقُرْآنُ نُورٌ فِي قَلْبِكَ يَا بُنَيَّ.",
       "translation": "Rekla je: Kur'an je svjetlost u tvom srcu, sinčiću.",
-      "translationEn": "She said: The Quran is a light in your heart my son."
+      "translationEn": "She said: The Quran is a light in your heart my son.",
+      "words": [
+        {
+          "w": "الْقُرْآنُ",
+          "root": "ق ر أ",
+          "bs": "Kur'an",
+          "en": "the Quran"
+        },
+        {
+          "w": "نُورٌ",
+          "root": "ن و ر",
+          "bs": "svjetlost",
+          "en": "a light"
+        },
+        {
+          "w": "قَلْبِكَ",
+          "root": "ق ل ب",
+          "bs": "tvom srcu",
+          "en": "your heart"
+        }
+      ]
     }
   ],
   "metadata": {

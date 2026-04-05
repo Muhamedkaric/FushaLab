@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَتِ الْعُرْسُ فِي الْقَرْيَةِ يَوْمًا سَعِيدًا لِلْجَمِيعِ.",
       "translation": "Svadba u selu bila je sretan dan za sve.",
-      "translationEn": "The wedding in the village was a happy day for everyone."
+      "translationEn": "The wedding in the village was a happy day for everyone.",
+      "words": [
+        { "w": "الْعُرْسُ", "root": "ع ر س", "bs": "svadba", "en": "the wedding" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "sela", "en": "the village" },
+        { "w": "يَوْمًا", "root": "ي و م", "bs": "dan", "en": "a day" },
+        { "w": "سَعِيدًا", "root": "س ع د", "bs": "sretan", "en": "happy" }
+      ]
     },
     {
       "arabic": "جَاءَ كُلُّ النَّاسِ مِنَ الْبُيُوتِ الْقَرِيبَةِ وَالْبَعِيدَةِ.",
       "translation": "Svi su dolazili iz bliskih i dalekih kuća.",
-      "translationEn": "All the people came from nearby and distant homes."
+      "translationEn": "All the people came from nearby and distant homes.",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došao je", "en": "came" },
+        { "w": "الْبُيُوتِ", "root": "ب ي ت", "bs": "kuće", "en": "homes" },
+        { "w": "الْقَرِيبَةِ", "root": "ق ر ب", "bs": "bliske", "en": "nearby" },
+        { "w": "الْبَعِيدَةِ", "root": "ب ع د", "bs": "daleke", "en": "distant" }
+      ]
     },
     {
       "arabic": "أَكَلُوا الطَّعَامَ وَغَنَّوْا وَرَقَصُوا.",
       "translation": "Jeli su hranu, pjevali i plesali.",
-      "translationEn": "They ate food, sang, and danced."
+      "translationEn": "They ate food, sang, and danced.",
+      "words": [
+        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" },
+        { "w": "غَنَّوْا", "root": "غ ن ي", "bs": "pjevali su", "en": "sang" },
+        { "w": "رَقَصُوا", "root": "ر ق ص", "bs": "plesali su", "en": "danced" }
+      ]
     },
     {
       "arabic": "بَقِيَ الاحْتِفَالُ حَتَّى مَطْلَعِ الْفَجْرِ.",
       "translation": "Slavlje je trajalo do zore.",
-      "translationEn": "The celebration lasted until the break of dawn."
+      "translationEn": "The celebration lasted until the break of dawn.",
+      "words": [
+        { "w": "بَقِيَ", "root": "ب ق ي", "bs": "ostalo je", "en": "lasted" },
+        { "w": "الاحْتِفَالُ", "root": "ح ف ل", "bs": "slavlje", "en": "the celebration" },
+        { "w": "مَطْلَعِ", "root": "ط ل ع", "bs": "izlazak", "en": "the break" },
+        { "w": "الْفَجْرِ", "root": "ف ج ر", "bs": "zora", "en": "dawn" }
+      ]
     }
   ],
   "metadata": {

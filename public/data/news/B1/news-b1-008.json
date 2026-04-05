@@ -6,26 +6,116 @@
     {
       "arabic": "أَعْلَنَتِ الْبَلَدِيَّةُ عَنْ إِصْلَاحِ الطَّرِيقِ الرَّئِيسِيِّ.",
       "translation": "Općina je objavila popravku glavne ulice.",
-      "translationEn": "The municipality announced the repair of the main road."
+      "translationEn": "The municipality announced the repair of the main road.",
+      "words": [
+        {
+          "w": "أَعْلَنَتِ",
+          "root": "ع ل ن",
+          "bs": "objavila je",
+          "en": "announced"
+        },
+        {
+          "w": "الْبَلَدِيَّةُ",
+          "root": "ب ل د",
+          "bs": "općina",
+          "en": "municipality"
+        },
+        {
+          "w": "إِصْلَاحِ",
+          "root": "ص ل ح",
+          "bs": "popravku",
+          "en": "repair"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "ulice",
+          "en": "road"
+        },
+        {
+          "w": "الرَّئِيسِيِّ",
+          "root": "ر أ س",
+          "bs": "glavne",
+          "en": "main"
+        }
+      ]
     },
     {
       "arabic": "سَيَبْدَأُ الْعَمَلُ فِي الطَّرِيقِ غَدَ الصَّبَاحِ.",
       "translation": "Radovi na ulici počet će sutra ujutro.",
-      "translationEn": "The work on the road will begin tomorrow morning."
+      "translationEn": "The work on the road will begin tomorrow morning.",
+      "words": [
+        {
+          "w": "الْعَمَلُ",
+          "root": "ع م ل",
+          "bs": "radovi",
+          "en": "work"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "ulici",
+          "en": "road"
+        }
+      ]
     },
     {
       "arabic": "طَلَبَتِ الْبَلَدِيَّةُ مِنَ السَّائِقِينَ اسْتِخْدَامَ طَرِيقٍ آخَرَ.",
       "translation": "Općina je zamolila vozače da koriste drugi put.",
-      "translationEn": "The municipality asked drivers to use another route."
+      "translationEn": "The municipality asked drivers to use another route.",
+      "words": [
+        {
+          "w": "الْبَلَدِيَّةُ",
+          "root": "ب ل د",
+          "bs": "općina",
+          "en": "municipality"
+        },
+        {
+          "w": "السَّائِقِينَ",
+          "root": "س و ق",
+          "bs": "vozačima",
+          "en": "drivers"
+        },
+        {
+          "w": "اسْتِخْدَامَ",
+          "root": "خ د م",
+          "bs": "korištenje",
+          "en": "use"
+        }
+      ]
     },
     {
       "arabic": "يَنْتَهِي الإِصْلَاحُ خِلَالَ ثَلَاثَةِ أَيَّامٍ.",
       "translation": "Popravka završava za tri dana.",
-      "translationEn": "The repair will be finished within three days."
+      "translationEn": "The repair will be finished within three days.",
+      "words": [
+        {
+          "w": "يَنْتَهِي",
+          "root": "ن ه ي",
+          "bs": "završava",
+          "en": "finishes"
+        },
+        {
+          "w": "الإِصْلَاحُ",
+          "root": "ص ل ح",
+          "bs": "popravka",
+          "en": "repair"
+        },
+        {
+          "w": "أَيَّامٍ",
+          "root": "ي و م",
+          "bs": "dana",
+          "en": "days"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["traffic", "city", "infrastructure"]
+    "tags": [
+      "traffic",
+      "city",
+      "infrastructure"
+    ]
   }
 }

@@ -6,27 +6,56 @@
     {
       "arabic": "وَجَدَتِ الأُمُّ أَنَّ سِعْرَ الأَرُزِّ ارْتَفَعَ هَذَا الأُسْبُوعَ.",
       "translation": "Majka je otkrila da je cijena riže porasla ove sedmice.",
-      "translationEn": "The mother found that the price of rice had gone up this week."
+      "translationEn": "The mother found that the price of rice had gone up this week.",
+      "words": [
+        { "w": "وَجَدَتِ", "root": "و ج د", "bs": "otkrila je", "en": "found" },
+        { "w": "سِعْرَ", "root": "س ع ر", "bs": "cijena", "en": "price" },
+        { "w": "الأَرُزِّ", "root": "أ ر ز", "bs": "riža", "en": "rice" },
+        { "w": "ارْتَفَعَ", "root": "ر ف ع", "bs": "porasla je", "en": "gone up" }
+      ]
     },
     {
       "arabic": "قَرَّرَتْ أَنْ تَشْتَرِيَ كَمِّيَّةً أَقَلَّ هَذِهِ المَرَّةَ.",
       "translation": "Odlučila je kupiti manju količinu ovaj put.",
-      "translationEn": "She decided to buy a smaller quantity this time."
+      "translationEn": "She decided to buy a smaller quantity this time.",
+      "words": [
+        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "تَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "كَمِّيَّةً", "root": "ك م م", "bs": "količinu", "en": "quantity" },
+        { "w": "أَقَلَّ", "root": "ق ل ل", "bs": "manju", "en": "smaller" }
+      ]
     },
     {
       "arabic": "بَحَثَتْ عَنْ بَدِيلٍ رَخِيصٍ فِي نَفْسِ الدُّكَّانِ.",
       "translation": "Tražila je jeftinu alternativu u istoj prodavnici.",
-      "translationEn": "She looked for a cheap alternative in the same shop."
+      "translationEn": "She looked for a cheap alternative in the same shop.",
+      "words": [
+        { "w": "بَحَثَتْ", "root": "ب ح ث", "bs": "tražila je", "en": "looked for" },
+        { "w": "بَدِيلٍ", "root": "ب د ل", "bs": "alternativa", "en": "alternative" },
+        { "w": "رَخِيصٍ", "root": "ر خ ص", "bs": "jeftin", "en": "cheap" },
+        { "w": "الدُّكَّانِ", "root": "د ك ن", "bs": "prodavnica", "en": "shop" }
+      ]
     },
     {
       "arabic": "اشْتَرَتْ مَكَرُّونَةً بَدَلًا مِنَ الأَرُزِّ.",
       "translation": "Kupila je tjesteninu umjesto riže.",
-      "translationEn": "She bought pasta instead of rice."
+      "translationEn": "She bought pasta instead of rice.",
+      "words": [
+        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "مَكَرُّونَةً", "root": "م ك ر", "bs": "tjestenina", "en": "pasta" },
+        { "w": "الأَرُزِّ", "root": "أ ر ز", "bs": "riža", "en": "rice" }
+      ]
     },
     {
       "arabic": "طَبَخَتْ وَجْبَةً لَذِيذَةً لِلأُسْرَةِ.",
       "translation": "Skuhala je ukusno jelo za porodicu.",
-      "translationEn": "She cooked a delicious meal for the family."
+      "translationEn": "She cooked a delicious meal for the family.",
+      "words": [
+        { "w": "طَبَخَتْ", "root": "ط ب خ", "bs": "skuhala je", "en": "cooked" },
+        { "w": "وَجْبَةً", "root": "و ج ب", "bs": "jelo", "en": "meal" },
+        { "w": "لَذِيذَةً", "root": "ل ذ ذ", "bs": "ukusno", "en": "delicious" },
+        { "w": "لِلأُسْرَةِ", "root": "أ س ر", "bs": "za porodicu", "en": "for the family" }
+      ]
     }
   ],
   "metadata": {

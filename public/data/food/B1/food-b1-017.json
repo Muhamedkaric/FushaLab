@@ -6,22 +6,48 @@
     {
       "arabic": "أَرَادَ الطِّفْلُ أَنْ يَصْنَعَ عَجِينًا مَعَ أُمِّهِ.",
       "translation": "Dijete je htjelo napraviti tijesto sa majkom.",
-      "translationEn": "The child wanted to make dough with his mother."
+      "translationEn": "The child wanted to make dough with his mother.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htjelo je/željelo", "en": "wanted" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "يَصْنَعَ", "root": "ص ن ع", "bs": "da napravi/pravi", "en": "to make" },
+        { "w": "عَجِينًا", "root": "ع ج ن", "bs": "tijesto", "en": "dough" },
+        { "w": "أُمِّهِ", "root": "أ م م", "bs": "njegova majka", "en": "his mother" }
+      ]
     },
     {
       "arabic": "خَلَطَا الدَّقِيقَ وَالْمَاءَ وَالْمِلْحَ مَعًا.",
       "translation": "Pomiješali su brašno, vodu i sol zajedno.",
-      "translationEn": "They mixed flour, water, and salt together."
+      "translationEn": "They mixed flour, water, and salt together.",
+      "words": [
+        { "w": "خَلَطَا", "root": "خ ل ط", "bs": "pomiješali su", "en": "mixed" },
+        { "w": "الدَّقِيقَ", "root": "د ق ق", "bs": "brašno", "en": "flour" },
+        { "w": "الْمَاءَ", "root": "م و ه", "bs": "voda", "en": "water" },
+        { "w": "الْمِلْحَ", "root": "م ل ح", "bs": "sol", "en": "salt" }
+      ]
     },
     {
       "arabic": "فَرَدَا الْعَجِينَ وَقَطَّعَاهُ إِلَى أَشْكَالٍ صَغِيرَةٍ.",
       "translation": "Razvukli su tijesto i izrezali ga na male oblike.",
-      "translationEn": "They rolled out the dough and cut it into small shapes."
+      "translationEn": "They rolled out the dough and cut it into small shapes.",
+      "words": [
+        { "w": "فَرَدَا", "root": "ف ر د", "bs": "razvukli su/raširili", "en": "rolled out/spread" },
+        { "w": "الْعَجِينَ", "root": "ع ج ن", "bs": "tijesto", "en": "dough" },
+        { "w": "قَطَّعَاهُ", "root": "ق ط ع", "bs": "izrezali su ga", "en": "cut it" },
+        { "w": "أَشْكَالٍ", "root": "ش ك ل", "bs": "oblici/forme", "en": "shapes" },
+        { "w": "صَغِيرَةٍ", "root": "ص غ ر", "bs": "male/malim", "en": "small" }
+      ]
     },
     {
       "arabic": "وَضَعَاهُ فِي الْفُرْنِ وَانْتَظَرَا بِفَرَحٍ.",
       "translation": "Stavili su ga u rernu i radosno čekali.",
-      "translationEn": "They put it in the oven and waited happily."
+      "translationEn": "They put it in the oven and waited happily.",
+      "words": [
+        { "w": "وَضَعَاهُ", "root": "و ض ع", "bs": "stavili su ga", "en": "put it" },
+        { "w": "الْفُرْنِ", "root": "ف ر ن", "bs": "rerna/pećnica", "en": "oven" },
+        { "w": "انْتَظَرَا", "root": "ن ظ ر", "bs": "čekali su", "en": "waited" },
+        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "radosno/s radošću", "en": "happily" }
+      ]
     }
   ],
   "metadata": {

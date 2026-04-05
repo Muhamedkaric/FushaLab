@@ -6,22 +6,46 @@
     {
       "arabic": "فَازَ فَرِيقُ الْمَدْرَسَةِ بِمُبَارَاةِ كُرَةِ الْقَدَمِ أَمَسِ.",
       "translation": "Školski tim je pobijedio na fudbalskoj utakmici jučer.",
-      "translationEn": "The school team won the football match yesterday."
+      "translationEn": "The school team won the football match yesterday.",
+      "words": [
+        { "w": "فَازَ", "root": "ف و ز", "bs": "pobijedio je", "en": "won" },
+        { "w": "فَرِيقُ", "root": "ف ر ق", "bs": "tim", "en": "team" },
+        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škole", "en": "school" },
+        { "w": "مُبَارَاةِ", "root": "ب ر أ", "bs": "utakmici", "en": "match" },
+        { "w": "كُرَةِ الْقَدَمِ", "root": "ك ر ر", "bs": "fudbalu", "en": "football" }
+      ]
     },
     {
       "arabic": "سَجَّلَ الْفَرِيقُ ثَلَاثَةَ أَهْدَافٍ فِي الْمُبَارَاةِ.",
       "translation": "Tim je postigao tri gola na utakmici.",
-      "translationEn": "The team scored three goals in the match."
+      "translationEn": "The team scored three goals in the match.",
+      "words": [
+        { "w": "سَجَّلَ", "root": "س ج ل", "bs": "postigao je", "en": "scored" },
+        { "w": "الْفَرِيقُ", "root": "ف ر ق", "bs": "tim", "en": "team" },
+        { "w": "أَهْدَافٍ", "root": "ه د ف", "bs": "golova", "en": "goals" },
+        { "w": "الْمُبَارَاةِ", "root": "ب ر أ", "bs": "utakmici", "en": "match" }
+      ]
     },
     {
       "arabic": "فَرِحَ الطُّلَّابُ كَثِيرًا بِهَذَا الْفَوْزِ.",
       "translation": "Učenici su se jako obradovali ovoj pobjedi.",
-      "translationEn": "The students were very happy about this victory."
+      "translationEn": "The students were very happy about this victory.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "الْفَوْزِ", "root": "ف و ز", "bs": "pobjedi", "en": "victory" }
+      ]
     },
     {
       "arabic": "شَكَرَ الْمُدِيرُ الْلَاعِبِينَ عَلَى جُهُودِهِمْ.",
       "translation": "Direktor je zahvalio igračima na njihovom trudu.",
-      "translationEn": "The principal thanked the players for their efforts."
+      "translationEn": "The principal thanked the players for their efforts.",
+      "words": [
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor", "en": "principal" },
+        { "w": "الْلَاعِبِينَ", "root": "ل ع ب", "bs": "igračima", "en": "players" },
+        { "w": "جُهُودِهِمْ", "root": "ج ه د", "bs": "njihovom trudu", "en": "their efforts" }
+      ]
     }
   ],
   "metadata": {

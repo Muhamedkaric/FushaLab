@@ -6,22 +6,46 @@
     {
       "arabic": "خَرَجَ عَلِيٌّ يَبْحَثُ عَنْ عَمَلٍ فِي الصَّيْفِ.",
       "translation": "Ali je izašao u potrazi za ljetnim poslom.",
-      "translationEn": "Ali went out looking for a summer job."
+      "translationEn": "Ali went out looking for a summer job.",
+      "words": [
+        { "w": "خَرَجَ", "root": "خ ر ج", "bs": "izašao je", "en": "went out" },
+        { "w": "يَبْحَثُ", "root": "ب ح ث", "bs": "traži", "en": "looking for" },
+        { "w": "عَمَلٍ", "root": "ع م ل", "bs": "posao/rad", "en": "job/work" },
+        { "w": "الصَّيْفِ", "root": "ص ي ف", "bs": "ljeto", "en": "summer" }
+      ]
     },
     {
       "arabic": "وَجَدَ عَمَلًا فِي مَحَلِّ بَقَالَةٍ قَرِيبٍ مِنَ الْبَيْتِ.",
       "translation": "Pronašao je posao u prodavnici blizu kuće.",
-      "translationEn": "He found a job in a grocery store near his house."
+      "translationEn": "He found a job in a grocery store near his house.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "عَمَلًا", "root": "ع م ل", "bs": "posao", "en": "job" },
+        { "w": "مَحَلِّ", "root": "ح ل ل", "bs": "prodavnica/dućan", "en": "store/shop" },
+        { "w": "بَقَالَةٍ", "root": "ب ق ل", "bs": "namirnice/bقالة", "en": "grocery" }
+      ]
     },
     {
       "arabic": "عَمِلَ بِجِدٍّ وَصَاحِبُ الْمَحَلِّ كَانَ رَاضِيًا عَنْهُ.",
       "translation": "Radio je marljivo i vlasnik radnje je bio zadovoljan njime.",
-      "translationEn": "He worked hard and the shop owner was satisfied with him."
+      "translationEn": "He worked hard and the shop owner was satisfied with him.",
+      "words": [
+        { "w": "عَمِلَ", "root": "ع م ل", "bs": "radio je", "en": "worked" },
+        { "w": "بِجِدٍّ", "root": "ج د د", "bs": "marljivo/ozbiljno", "en": "hard/seriously" },
+        { "w": "صَاحِبُ", "root": "ص ح ب", "bs": "vlasnik", "en": "owner" },
+        { "w": "رَاضِيًا", "root": "ر ض و", "bs": "zadovoljan", "en": "satisfied" }
+      ]
     },
     {
       "arabic": "جَمَعَ عَلِيٌّ مَالًا كَثِيرًا وَاشْتَرَى كِتَابًا لِلدِّرَاسَةِ.",
       "translation": "Ali je zaradio mnogo novca i kupio udžbenik.",
-      "translationEn": "Ali saved a lot of money and bought a study book."
+      "translationEn": "Ali saved a lot of money and bought a study book.",
+      "words": [
+        { "w": "جَمَعَ", "root": "ج م ع", "bs": "zaradio/skupio je", "en": "saved/gathered" },
+        { "w": "مَالًا", "root": "م و ل", "bs": "novac", "en": "money" },
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga/udžbenik", "en": "book" }
+      ]
     }
   ],
   "metadata": {

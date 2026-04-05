@@ -6,27 +6,56 @@
     {
       "arabic": "وَجَدَ مُحَمَّدٌ كِيسًا أَمَامَ بَابِ الْبَيْتِ.",
       "translation": "Muhammed je pronašao vrećicu ispred kućnih vrata.",
-      "translationEn": "Muhammad found a bag in front of the house door."
+      "translationEn": "Muhammad found a bag in front of the house door.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "كِيسًا", "root": "ك ي س", "bs": "vrećicu", "en": "bag" },
+        { "w": "بَابِ", "root": "ب و ب", "bs": "vrata", "en": "door" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuće", "en": "house" }
+      ]
     },
     {
       "arabic": "كَانَ فِيهِ خُبْزٌ طَازَجٌ وَحَلِيبٌ.",
       "translation": "U njoj je bio svježi hljeb i mlijeko.",
-      "translationEn": "In it there was fresh bread and milk."
+      "translationEn": "In it there was fresh bread and milk.",
+      "words": [
+        { "w": "خُبْزٌ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "طَازَجٌ", "root": "ط ز ج", "bs": "svježi", "en": "fresh" },
+        { "w": "حَلِيبٌ", "root": "ح ل ب", "bs": "mlijeko", "en": "milk" }
+      ]
     },
     {
       "arabic": "سَأَلَ جِيرَانَهُ وَلَمْ يَعْرِفْ أَحَدٌ.",
       "translation": "Pitao je komšije ali niko nije znao.",
-      "translationEn": "He asked his neighbours and no one knew."
+      "translationEn": "He asked his neighbours and no one knew.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "he asked" },
+        { "w": "جِيرَانَهُ", "root": "ج و ر", "bs": "komšije", "en": "his neighbours" },
+        { "w": "يَعْرِفْ", "root": "ع ر ف", "bs": "znao", "en": "knew" }
+      ]
     },
     {
       "arabic": "بَعْدَ أُسْبُوعٍ رَأَى أُمَّهُ تَضَعُ الْكِيسَ فِي الصَّبَاحِ الْبَاكِرِ.",
       "translation": "Sedmicu kasnije vidio je majku kako stavlja vrećicu rano ujutro.",
-      "translationEn": "A week later he saw his mother putting the bag early in the morning."
+      "translationEn": "A week later he saw his mother putting the bag early in the morning.",
+      "words": [
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmicu", "en": "week" },
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
+        { "w": "تَضَعُ", "root": "و ض ع", "bs": "stavlja", "en": "putting" },
+        { "w": "الْكِيسَ", "root": "ك ي س", "bs": "vrećicu", "en": "the bag" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "ujutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "عَرَفَ أَنَّهَا تَفْعَلُ هَذَا لِجِيرَانِهِمُ الْكِبَارِ.",
       "translation": "Shvatio je da to radi za njihove starije komšije.",
-      "translationEn": "He realised that she did this for their elderly neighbours."
+      "translationEn": "He realised that she did this for their elderly neighbours.",
+      "words": [
+        { "w": "عَرَفَ", "root": "ع ر ف", "bs": "shvatio je", "en": "he realised" },
+        { "w": "تَفْعَلُ", "root": "ف ع ل", "bs": "radi", "en": "she does" },
+        { "w": "لِجِيرَانِهِمُ", "root": "ج و ر", "bs": "komšijama", "en": "neighbours" },
+        { "w": "الْكِبَارِ", "root": "ك ب ر", "bs": "starijima", "en": "elderly" }
+      ]
     }
   ],
   "metadata": {

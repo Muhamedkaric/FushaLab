@@ -6,22 +6,114 @@
     {
       "arabic": "كَانَ عُمَرُ يَبْتَسِمُ دَائِمًا حِينَ يَلْتَقِي النَّاسَ.",
       "translation": "Omer je uvijek nasmiješen kad sreće ljude.",
-      "translationEn": "Omar always smiled when he met people."
+      "translationEn": "Omar always smiled when he met people.",
+      "words": [
+        {
+          "w": "يَبْتَسِمُ",
+          "root": "ب س م",
+          "bs": "nasmiješen je",
+          "en": "smiled"
+        },
+        {
+          "w": "يَلْتَقِي",
+          "root": "ل ق ي",
+          "bs": "sreće",
+          "en": "met"
+        },
+        {
+          "w": "النَّاسَ",
+          "root": "ن و س",
+          "bs": "ljude",
+          "en": "people"
+        }
+      ]
     },
     {
       "arabic": "يَعْلَمُ أَنَّ الِابْتِسَامَةَ صَدَقَةٌ فِي الْإِسْلَامِ.",
       "translation": "Zna da je osmijeh sadaka u islamu.",
-      "translationEn": "He knows that smiling is charity in Islam."
+      "translationEn": "He knows that smiling is charity in Islam.",
+      "words": [
+        {
+          "w": "يَعْلَمُ",
+          "root": "ع ل م",
+          "bs": "zna",
+          "en": "knows"
+        },
+        {
+          "w": "الِابْتِسَامَةَ",
+          "root": "ب س م",
+          "bs": "osmijeh",
+          "en": "smiling"
+        },
+        {
+          "w": "صَدَقَةٌ",
+          "root": "ص د ق",
+          "bs": "sadaka",
+          "en": "charity"
+        },
+        {
+          "w": "الْإِسْلَامِ",
+          "root": "س ل م",
+          "bs": "islamu",
+          "en": "Islam"
+        }
+      ]
     },
     {
       "arabic": "قَالَ لِصَدِيقِهِ: الِابْتِسَامَةُ لَا تُكَلِّفُ شَيْئًا وَلَكِنَّهَا تُسْعِدُ النَّاسَ.",
       "translation": "Rekao je prijatelju: Osmijeh ništa ne košta ali čini ljude sretnim.",
-      "translationEn": "He told his friend: A smile costs nothing but makes people happy."
+      "translationEn": "He told his friend: A smile costs nothing but makes people happy.",
+      "words": [
+        {
+          "w": "الِابْتِسَامَةُ",
+          "root": "ب س م",
+          "bs": "osmijeh",
+          "en": "a smile"
+        },
+        {
+          "w": "تُكَلِّفُ",
+          "root": "ك ل ف",
+          "bs": "košta",
+          "en": "costs"
+        },
+        {
+          "w": "تُسْعِدُ",
+          "root": "س ع د",
+          "bs": "čini sretnim",
+          "en": "makes happy"
+        },
+        {
+          "w": "النَّاسَ",
+          "root": "ن و س",
+          "bs": "ljude",
+          "en": "people"
+        }
+      ]
     },
     {
       "arabic": "صَدِيقُهُ وَافَقَهُ وَابْتَسَمَ أَيْضًا.",
       "translation": "Prijatelj se složio i on se nasmiješio.",
-      "translationEn": "His friend agreed and smiled too."
+      "translationEn": "His friend agreed and smiled too.",
+      "words": [
+        {
+          "w": "صَدِيقُهُ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "his friend"
+        },
+        {
+          "w": "وَافَقَهُ",
+          "root": "و ف ق",
+          "bs": "složio se",
+          "en": "agreed"
+        },
+        {
+          "w": "ابْتَسَمَ",
+          "root": "ب س م",
+          "bs": "nasmiješio se",
+          "en": "smiled"
+        }
+      ]
     }
   ],
   "metadata": {

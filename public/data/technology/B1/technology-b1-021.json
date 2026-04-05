@@ -6,22 +6,119 @@
     {
       "arabic": "كَتَبَ مُحَمَّدٌ رِسَالَةً بِالْبَرِيدِ الْإِلِكْتِرُونِيِّ.",
       "translation": "Muhammed je napisao poruku e-poštom.",
-      "translationEn": "Muhammad wrote a message by email."
+      "translationEn": "Muhammad wrote a message by email.",
+      "words": [
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao je",
+          "en": "wrote"
+        },
+        {
+          "w": "رِسَالَةً",
+          "root": "ر س ل",
+          "bs": "poruku",
+          "en": "a message"
+        },
+        {
+          "w": "الْبَرِيدِ الْإِلِكْتِرُونِيِّ",
+          "bs": "e-poštom",
+          "en": "by email"
+        }
+      ]
     },
     {
       "arabic": "كَتَبَ الْعُنْوَانَ وَالْمَوْضُوعَ وَالرِّسَالَةَ.",
       "translation": "Napisao je adresu, temu i poruku.",
-      "translationEn": "He wrote the address, subject, and message."
+      "translationEn": "He wrote the address, subject, and message.",
+      "words": [
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao je",
+          "en": "wrote"
+        },
+        {
+          "w": "الْعُنْوَانَ",
+          "root": "ع ن و",
+          "bs": "adresu",
+          "en": "the address"
+        },
+        {
+          "w": "الْمَوْضُوعَ",
+          "root": "و ض ع",
+          "bs": "temu",
+          "en": "the subject"
+        },
+        {
+          "w": "الرِّسَالَةَ",
+          "root": "ر س ل",
+          "bs": "poruku",
+          "en": "the message"
+        }
+      ]
     },
     {
       "arabic": "قَرَأَ الرِّسَالَةَ مَرَّةً أُخْرَى قَبْلَ إِرْسَالِهَا.",
       "translation": "Pročitao je poruku još jednom prije slanja.",
-      "translationEn": "He read the message once more before sending it."
+      "translationEn": "He read the message once more before sending it.",
+      "words": [
+        {
+          "w": "قَرَأَ",
+          "root": "ق ر أ",
+          "bs": "pročitao je",
+          "en": "read"
+        },
+        {
+          "w": "الرِّسَالَةَ",
+          "root": "ر س ل",
+          "bs": "poruku",
+          "en": "the message"
+        },
+        {
+          "w": "قَبْلَ",
+          "root": "ق ب ل",
+          "bs": "prije",
+          "en": "before"
+        },
+        {
+          "w": "إِرْسَالِهَا",
+          "root": "ر س ل",
+          "bs": "slanja",
+          "en": "sending it"
+        }
+      ]
     },
     {
       "arabic": "ضَغَطَ إِرْسَالَ وَانْتَهَى مِنَ الْعَمَلِ.",
       "translation": "Pritisnuo je pošalji i završio posao.",
-      "translationEn": "He pressed send and finished the work."
+      "translationEn": "He pressed send and finished the work.",
+      "words": [
+        {
+          "w": "ضَغَطَ",
+          "root": "ض غ ط",
+          "bs": "pritisnuo je",
+          "en": "pressed"
+        },
+        {
+          "w": "إِرْسَالَ",
+          "root": "ر س ل",
+          "bs": "pošalji",
+          "en": "send"
+        },
+        {
+          "w": "انْتَهَى",
+          "root": "ن ه ي",
+          "bs": "završio je",
+          "en": "finished"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "the work"
+        }
+      ]
     }
   ],
   "metadata": {

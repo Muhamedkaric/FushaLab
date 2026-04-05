@@ -6,22 +6,48 @@
     {
       "arabic": "أَظُنُّ أَنَّ الزِّيَارَةَ الشَّخْصِيَّةَ أَحْسَنُ مِنَ الرِّسَالَةِ.",
       "translation": "Mislim da je osobna posjeta bolja od poruke.",
-      "translationEn": "I think that a personal visit is better than a message."
+      "translationEn": "I think that a personal visit is better than a message.",
+      "words": [
+        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
+        { "w": "الزِّيَارَةَ", "root": "ز و ر", "bs": "posjeta", "en": "visit" },
+        { "w": "الشَّخْصِيَّةَ", "root": "ش خ ص", "bs": "osobna", "en": "personal" },
+        { "w": "أَحْسَنُ", "root": "ح س ن", "bs": "bolja", "en": "better" },
+        { "w": "الرِّسَالَةِ", "root": "ر س ل", "bs": "poruka", "en": "message" }
+      ]
     },
     {
       "arabic": "حِينَ تَزُورُ شَخْصًا يَشْعُرُ بِالِاهْتِمَامِ الْحَقِيقِيِّ.",
       "translation": "Kada posjetiš nekoga, on osjeća pravu pažnju.",
-      "translationEn": "When you visit someone they feel genuine care."
+      "translationEn": "When you visit someone they feel genuine care.",
+      "words": [
+        { "w": "تَزُورُ", "root": "ز و ر", "bs": "posjetiš", "en": "you visit" },
+        { "w": "شَخْصًا", "root": "ش خ ص", "bs": "nekoga", "en": "someone" },
+        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
+        { "w": "الِاهْتِمَامِ", "root": "ه م م", "bs": "pažnja", "en": "care" },
+        { "w": "الْحَقِيقِيِّ", "root": "ح ق ق", "bs": "prava", "en": "genuine" }
+      ]
     },
     {
       "arabic": "الرَّسَائِلُ مُفِيدَةٌ لَكِنَّهَا لَا تُغْنِي عَنِ اللِّقَاءِ.",
       "translation": "Poruke su korisne ali ne mogu zamijeniti susret.",
-      "translationEn": "Messages are useful but they cannot replace meeting in person."
+      "translationEn": "Messages are useful but they cannot replace meeting in person.",
+      "words": [
+        { "w": "الرَّسَائِلُ", "root": "ر س ل", "bs": "poruke", "en": "messages" },
+        { "w": "مُفِيدَةٌ", "root": "ف ي د", "bs": "korisne", "en": "useful" },
+        { "w": "تُغْنِي", "root": "غ ن ي", "bs": "zamijeniti", "en": "replace" },
+        { "w": "اللِّقَاءِ", "root": "ل ق ي", "bs": "susret", "en": "meeting" }
+      ]
     },
     {
       "arabic": "أَزُورُ أَقَارِبِي وَأَصْدِقَائِي بِانْتِظَامٍ.",
       "translation": "Redovito posjećujem svoju rodbinu i prijatelje.",
-      "translationEn": "I visit my relatives and friends regularly."
+      "translationEn": "I visit my relatives and friends regularly.",
+      "words": [
+        { "w": "أَزُورُ", "root": "ز و ر", "bs": "posjećujem", "en": "I visit" },
+        { "w": "أَقَارِبِي", "root": "ق ر ب", "bs": "moja rodbina", "en": "my relatives" },
+        { "w": "أَصْدِقَائِي", "root": "ص د ق", "bs": "moji prijatelji", "en": "my friends" },
+        { "w": "بِانْتِظَامٍ", "root": "ن ظ م", "bs": "redovito", "en": "regularly" }
+      ]
     }
   ],
   "metadata": {

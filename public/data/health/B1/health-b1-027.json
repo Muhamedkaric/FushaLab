@@ -6,26 +6,135 @@
     {
       "arabic": "قَرَّرَ بِلَالٌ أَنْ يَتَوَقَّفَ عَنِ السُّكَّرِيَّاتِ لِشَهْرٍ.",
       "translation": "Bilal je odlučio prestati s konzumiranjem šećera na mjesec dana.",
-      "translationEn": "Bilal decided to stop eating sugar for one month."
+      "translationEn": "Bilal decided to stop eating sugar for one month.",
+      "words": [
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided"
+        },
+        {
+          "w": "يَتَوَقَّفَ",
+          "root": "و ق ف",
+          "bs": "prestati",
+          "en": "to stop"
+        },
+        {
+          "w": "السُّكَّرِيَّاتِ",
+          "root": "س ك ر",
+          "bs": "šećer",
+          "en": "sugar"
+        },
+        {
+          "w": "لِشَهْرٍ",
+          "root": "ش ه ر",
+          "bs": "na mjesec dana",
+          "en": "for a month"
+        }
+      ]
     },
     {
       "arabic": "فِي الْأُسْبُوعِ الْأَوَّلِ كَانَ الْأَمْرُ صَعْبًا عَلَيْهِ.",
       "translation": "U prvoj sedmici to mu je bilo teško.",
-      "translationEn": "In the first week it was hard for him."
+      "translationEn": "In the first week it was hard for him.",
+      "words": [
+        {
+          "w": "الْأُسْبُوعِ",
+          "root": "س ب ع",
+          "bs": "sedmica",
+          "en": "week"
+        },
+        {
+          "w": "الْأَوَّلِ",
+          "root": "أ و ل",
+          "bs": "prva",
+          "en": "first"
+        },
+        {
+          "w": "صَعْبًا",
+          "root": "ص ع ب",
+          "bs": "teško",
+          "en": "hard"
+        }
+      ]
     },
     {
       "arabic": "أَكَلَ الْفَاكِهَةَ بَدَلَ الْحَلْوَى كُلَّمَا جَاعَ.",
       "translation": "Jeo je voće umjesto slatkiša svaki put kad bi ogladnio.",
-      "translationEn": "He ate fruit instead of sweets whenever he was hungry."
+      "translationEn": "He ate fruit instead of sweets whenever he was hungry.",
+      "words": [
+        {
+          "w": "أَكَلَ",
+          "root": "أ ك ل",
+          "bs": "jeo je",
+          "en": "ate"
+        },
+        {
+          "w": "الْفَاكِهَةَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit"
+        },
+        {
+          "w": "بَدَلَ",
+          "root": "ب د ل",
+          "bs": "umjesto",
+          "en": "instead of"
+        },
+        {
+          "w": "الْحَلْوَى",
+          "root": "ح ل و",
+          "bs": "slatkiši",
+          "en": "sweets"
+        },
+        {
+          "w": "جَاعَ",
+          "root": "ج و ع",
+          "bs": "ogladnio",
+          "en": "was hungry"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ الشَّهْرِ شَعَرَ بِتَحَسُّنٍ فِي طَاقَتِهِ وَوَزْنِهِ.",
       "translation": "Nakon mjeseca osjetio je poboljšanje u energiji i težini.",
-      "translationEn": "After the month he felt improvement in his energy and weight."
+      "translationEn": "After the month he felt improvement in his energy and weight.",
+      "words": [
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio je",
+          "en": "felt"
+        },
+        {
+          "w": "بِتَحَسُّنٍ",
+          "root": "ح س ن",
+          "bs": "poboljšanje",
+          "en": "improvement"
+        },
+        {
+          "w": "طَاقَتِهِ",
+          "root": "ط و ق",
+          "bs": "energija",
+          "en": "energy"
+        },
+        {
+          "w": "وَزْنِهِ",
+          "root": "و ز ن",
+          "bs": "težina",
+          "en": "weight"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sugar", "diet", "healthy habits", "fruit"]
+    "tags": [
+      "sugar",
+      "diet",
+      "healthy habits",
+      "fruit"
+    ]
   }
 }

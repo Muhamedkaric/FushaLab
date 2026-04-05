@@ -6,22 +6,47 @@
     {
       "arabic": "قَرَأَتْ شَهَادُ الْإِعْلَانَ عَنْ وَظِيفَةٍ فِي مَكْتَبَةٍ.",
       "translation": "Šehad je pročitala oglas za posao u biblioteci.",
-      "translationEn": "Shahad read a job advertisement in a library."
+      "translationEn": "Shahad read a job advertisement in a library.",
+      "words": [
+        { "w": "قَرَأَتْ", "root": "ق ر أ", "bs": "pročitala je", "en": "read" },
+        { "w": "الْإِعْلَانَ", "root": "ع ل ن", "bs": "oglas/reklama", "en": "advertisement" },
+        { "w": "وَظِيفَةٍ", "root": "و ظ ف", "bs": "posao/radno mjesto", "en": "job/position" },
+        { "w": "مَكْتَبَةٍ", "root": "ك ت ب", "bs": "biblioteka", "en": "library" }
+      ]
     },
     {
       "arabic": "كَتَبَتْ طَلَبًا وَأَرْسَلَتْهُ عَبْرَ الْبَرِيدِ الْإِلِكْتُرُونِيِّ.",
       "translation": "Napisala je prijavu i poslala je putem e-maila.",
-      "translationEn": "She wrote an application and sent it via email."
+      "translationEn": "She wrote an application and sent it via email.",
+      "words": [
+        { "w": "كَتَبَتْ", "root": "ك ت ب", "bs": "napisala je", "en": "wrote" },
+        { "w": "طَلَبًا", "root": "ط ل ب", "bs": "prijava/molba", "en": "application/request" },
+        { "w": "أَرْسَلَتْهُ", "root": "ر س ل", "bs": "poslala ga je", "en": "sent it" },
+        { "w": "الْبَرِيدِ", "root": "ب ر د", "bs": "pošta/email", "en": "mail/email" }
+      ]
     },
     {
       "arabic": "اتَّصَلُوا بِهَا بَعْدَ يَوْمَيْنِ وَطَلَبُوا مِنْهَا الْحُضُورَ.",
-      "translation": "Nazvali su je nakon dva dana i pozvali je da doðe.",
-      "translationEn": "They called her after two days and asked her to come."
+      "translation": "Nazvali su je nakon dva dana i pozvali je da dođe.",
+      "translationEn": "They called her after two days and asked her to come.",
+      "words": [
+        { "w": "اتَّصَلُوا", "root": "و ص ل", "bs": "nazvali su je/kontaktirali", "en": "called her" },
+        { "w": "يَوْمَيْنِ", "root": "ي و م", "bs": "dva dana", "en": "two days" },
+        { "w": "طَلَبُوا", "root": "ط ل ب", "bs": "tražili su/zamolio su", "en": "asked" },
+        { "w": "الْحُضُورَ", "root": "ح ض ر", "bs": "dolazak/prisustvo", "en": "coming/presence" }
+      ]
     },
     {
       "arabic": "ذَهَبَتْ إِلَى الْمَقَابَلَةِ وَأَجَابَتْ عَنِ الْأَسْئِلَةِ بِثِقَةٍ.",
       "translation": "Otišla je na intervju i samopouzdano odgovorila na pitanja.",
-      "translationEn": "She went to the interview and answered the questions with confidence."
+      "translationEn": "She went to the interview and answered the questions with confidence.",
+      "words": [
+        { "w": "ذَهَبَتْ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الْمَقَابَلَةِ", "root": "ق ب ل", "bs": "intervju/razgovor", "en": "interview" },
+        { "w": "أَجَابَتْ", "root": "ج و ب", "bs": "odgovorila je", "en": "answered" },
+        { "w": "الْأَسْئِلَةِ", "root": "س أ ل", "bs": "pitanja", "en": "questions" },
+        { "w": "بِثِقَةٍ", "root": "ث ق ة", "bs": "samopouzdano/s pouzdanjem", "en": "with confidence" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,48 @@
     {
       "arabic": "تُحِبُّ الْبِنْتُ الصَّغِيرَةُ الشُّوكُولَاتَةَ كَثِيرًا.",
       "translation": "Mala djevojčica veoma voli čokoladu.",
-      "translationEn": "The little girl likes chocolate a lot."
+      "translationEn": "The little girl likes chocolate a lot.",
+      "words": [
+        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "likes/loves" },
+        { "w": "الْبِنْتُ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
+        { "w": "الصَّغِيرَةُ", "root": "ص غ ر", "bs": "mala/malu", "en": "little/small" },
+        { "w": "الشُّوكُولَاتَةَ", "root": "ش و ك", "bs": "čokolada", "en": "chocolate" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "mnogo/veoma", "en": "a lot/very much" }
+      ]
     },
     {
       "arabic": "تَطْلُبُ مِنْ أَبِيهَا قِطْعَةً كُلَّ يَوْمٍ.",
       "translation": "Svaki dan traži komad od svog oca.",
-      "translationEn": "She asks her father for a piece every day."
+      "translationEn": "She asks her father for a piece every day.",
+      "words": [
+        { "w": "تَطْلُبُ", "root": "ط ل ب", "bs": "traži/moli", "en": "asks for/requests" },
+        { "w": "أَبِيهَا", "root": "أ ب و", "bs": "njen otac", "en": "her father" },
+        { "w": "قِطْعَةً", "root": "ق ط ع", "bs": "komad/parče", "en": "piece" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" }
+      ]
     },
     {
       "arabic": "يَقُولُ لَهَا: قِطْعَةٌ وَاحِدَةٌ فَقَطْ بَعْدَ الطَّعَامِ.",
       "translation": "On joj kaže: Samo jedan komad nakon jela.",
-      "translationEn": "He tells her: Only one piece after the meal."
+      "translationEn": "He tells her: Only one piece after the meal.",
+      "words": [
+        { "w": "يَقُولُ", "root": "ق و ل", "bs": "kaže/govori", "en": "says/tells" },
+        { "w": "قِطْعَةٌ", "root": "ق ط ع", "bs": "komad/parče", "en": "piece" },
+        { "w": "وَاحِدَةٌ", "root": "و ح د", "bs": "jedan/jedna", "en": "one" },
+        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "jela/hrane", "en": "meal/food" }
+      ]
     },
     {
       "arabic": "تَضْحَكُ وَتَأْخُذُ الْقِطْعَةَ وَتَأْكُلُهَا بِفَرَحٍ.",
       "translation": "Ona se nasmije i uzme komad i pojede ga radosno.",
-      "translationEn": "She laughs and takes the piece and eats it happily."
+      "translationEn": "She laughs and takes the piece and eats it happily.",
+      "words": [
+        { "w": "تَضْحَكُ", "root": "ض ح ك", "bs": "smije se", "en": "laughs" },
+        { "w": "تَأْخُذُ", "root": "أ خ ذ", "bs": "uzima", "en": "takes" },
+        { "w": "الْقِطْعَةَ", "root": "ق ط ع", "bs": "komad/parče", "en": "piece" },
+        { "w": "تَأْكُلُهَا", "root": "أ ك ل", "bs": "jede je/pojede", "en": "eats it" },
+        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "radosno/s radošću", "en": "happily/with joy" }
+      ]
     }
   ],
   "metadata": {

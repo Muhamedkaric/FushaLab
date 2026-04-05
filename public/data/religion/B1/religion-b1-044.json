@@ -6,22 +6,126 @@
     {
       "arabic": "سَمِعَتِ الْعَائِلَةُ الْأَذَانَ وَتَوَقَّفُوا عَمَّا كَانُوا يَفْعَلُونَ.",
       "translation": "Porodica je čula ezan i prestala s onim što je radila.",
-      "translationEn": "The family heard the adhan and stopped what they were doing."
+      "translationEn": "The family heard the adhan and stopped what they were doing.",
+      "words": [
+        {
+          "w": "سَمِعَتِ",
+          "root": "س م ع",
+          "bs": "čula je",
+          "en": "heard"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "the family"
+        },
+        {
+          "w": "الْأَذَانَ",
+          "root": "أ ذ ن",
+          "bs": "ezan",
+          "en": "the adhan"
+        },
+        {
+          "w": "تَوَقَّفُوا",
+          "root": "و ق ف",
+          "bs": "prestali su",
+          "en": "stopped"
+        }
+      ]
     },
     {
       "arabic": "تَوَضَّؤُوا وَصَلَّوْا جَمَاعَةً فِي الْبَيْتِ.",
       "translation": "Uzeli su abdest i klanjali zajedno u kući.",
-      "translationEn": "They performed ablution and prayed in congregation at home."
+      "translationEn": "They performed ablution and prayed in congregation at home.",
+      "words": [
+        {
+          "w": "تَوَضَّؤُوا",
+          "root": "و ض أ",
+          "bs": "uzeli su abdest",
+          "en": "performed ablution"
+        },
+        {
+          "w": "صَلَّوْا",
+          "root": "ص ل و",
+          "bs": "klanjali su",
+          "en": "prayed"
+        },
+        {
+          "w": "جَمَاعَةً",
+          "root": "ج م ع",
+          "bs": "zajedno",
+          "en": "in congregation"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kući",
+          "en": "at home"
+        }
+      ]
     },
     {
       "arabic": "أَمَّ الْأَبُ الصَّلَاةَ وَالْعَائِلَةُ خَلْفَهُ.",
       "translation": "Otac je predvodio namaz a porodica iza njega.",
-      "translationEn": "The father led the prayer and the family was behind him."
+      "translationEn": "The father led the prayer and the family was behind him.",
+      "words": [
+        {
+          "w": "أَمَّ",
+          "root": "أ م م",
+          "bs": "predvodio je",
+          "en": "led"
+        },
+        {
+          "w": "الْأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "the father"
+        },
+        {
+          "w": "الصَّلَاةَ",
+          "root": "ص ل و",
+          "bs": "namaz",
+          "en": "the prayer"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "the family"
+        },
+        {
+          "w": "خَلْفَهُ",
+          "root": "خ ل ف",
+          "bs": "iza njega",
+          "en": "behind him"
+        }
+      ]
     },
     {
       "arabic": "كَانَتِ الصَّلَاةُ الْجَمَاعِيَّةُ لَحْظَةً جَمِيلَةً.",
       "translation": "Namaz u džematu bio je lijep trenutak.",
-      "translationEn": "The congregational prayer was a beautiful moment."
+      "translationEn": "The congregational prayer was a beautiful moment.",
+      "words": [
+        {
+          "w": "الصَّلَاةُ الْجَمَاعِيَّةُ",
+          "root": "ج م ع",
+          "bs": "namaz u džematu",
+          "en": "the congregational prayer"
+        },
+        {
+          "w": "لَحْظَةً",
+          "root": "ل ح ظ",
+          "bs": "trenutak",
+          "en": "a moment"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijep",
+          "en": "beautiful"
+        }
+      ]
     }
   ],
   "metadata": {

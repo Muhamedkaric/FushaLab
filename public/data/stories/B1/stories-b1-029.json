@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَتْ بِنْتٌ اسْمُهَا آيَةُ تَعِيشُ فِي قَرْيَةٍ جَمِيلَةٍ.",
       "translation": "Bila je djevojčica po imenu Aja koja je živjela u lijepom selu.",
-      "translationEn": "There was a girl named Aya who lived in a beautiful village."
+      "translationEn": "There was a girl named Aya who lived in a beautiful village.",
+      "words": [
+        { "w": "بِنْتٌ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
+        { "w": "تَعِيشُ", "root": "ع ي ش", "bs": "živjela je", "en": "lived" },
+        { "w": "قَرْيَةٍ", "root": "ق ر ي", "bs": "selo", "en": "village" },
+        { "w": "جَمِيلَةٍ", "root": "ج م ل", "bs": "lijepom", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "أَرَادَتْ أَنْ تُرِيَ الْقَرْيَةَ لِصَدِيقَتِهَا الَّتِي جَاءَتْ مِنَ الْمَدِينَةِ.",
       "translation": "Htjela je pokazati selo svojoj prijateljici koja je došla iz grada.",
-      "translationEn": "She wanted to show the village to her friend who came from the city."
+      "translationEn": "She wanted to show the village to her friend who came from the city.",
+      "words": [
+        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
+        { "w": "تُرِيَ", "root": "ر أ ي", "bs": "pokazati", "en": "to show" },
+        { "w": "الْقَرْيَةَ", "root": "ق ر ي", "bs": "selo", "en": "village" },
+        { "w": "صَدِيقَتِهَا", "root": "ص د ق", "bs": "njena prijateljica", "en": "her friend" },
+        { "w": "الْمَدِينَةِ", "root": "م د ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "مَشَيَا مَعًا فِي الْحُقُولِ وَبِجَانِبِ النَّهْرِ.",
       "translation": "Zajedno su šetale po poljima i pored rijeke.",
-      "translationEn": "They walked together through the fields and beside the river."
+      "translationEn": "They walked together through the fields and beside the river.",
+      "words": [
+        { "w": "مَشَيَا", "root": "م ش ي", "bs": "šetale su", "en": "walked" },
+        { "w": "الْحُقُولِ", "root": "ح ق ل", "bs": "polja", "en": "fields" },
+        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "river" }
+      ]
     },
     {
       "arabic": "قَالَتِ الصَّدِيقَةُ: «قَرْيَتُكِ أَجْمَلُ مِنَ الصُّوَرِ».",
       "translation": "Prijateljica je rekla: «Tvoje selo je ljepše od slika».",
-      "translationEn": "The friend said: «Your village is more beautiful than pictures»."
+      "translationEn": "The friend said: «Your village is more beautiful than pictures».",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "الصَّدِيقَةُ", "root": "ص د ق", "bs": "prijateljica", "en": "friend" },
+        { "w": "قَرْيَتُكِ", "root": "ق ر ي", "bs": "tvoje selo", "en": "your village" },
+        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "ljepše", "en": "more beautiful" },
+        { "w": "الصُّوَرِ", "root": "ص و ر", "bs": "slike", "en": "pictures" }
+      ]
     }
   ],
   "metadata": {

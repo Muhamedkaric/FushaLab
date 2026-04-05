@@ -6,22 +6,44 @@
     {
       "arabic": "جَلَسَتِ الْعَائِلَةُ عَلَى الْعَشَاءِ مَعًا كُلَّ لَيْلَةٍ.",
       "translation": "Porodica je zajedno sjedala na večeru svake večeri.",
-      "translationEn": "The family sat together for dinner every evening."
+      "translationEn": "The family sat together for dinner every evening.",
+      "words": [
+        { "w": "جَلَسَتِ", "root": "ج ل س", "bs": "sjedala je", "en": "sat" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "الْعَشَاءِ", "root": "ع ش و", "bs": "večera", "en": "dinner" },
+        { "w": "لَيْلَةٍ", "root": "ل ي ل", "bs": "večer/noć", "en": "evening/night" }
+      ]
     },
     {
       "arabic": "كَانَ كُلٌّ مِنْهُمْ يَحْكِي مَا حَدَثَ مَعَهُ الْيَوْمَ.",
       "translation": "Svako od njih bi ispričao šta mu se danas dogodilo.",
-      "translationEn": "Each of them would tell what happened to them during the day."
+      "translationEn": "Each of them would tell what happened to them during the day.",
+      "words": [
+        { "w": "يَحْكِي", "root": "ح ك ي", "bs": "ispričao bi", "en": "would tell" },
+        { "w": "حَدَثَ", "root": "ح د ث", "bs": "dogodilo se", "en": "happened" },
+        { "w": "الْيَوْمَ", "root": "ي و م", "bs": "danas", "en": "today" }
+      ]
     },
     {
       "arabic": "كَانَ الأَبُ يَسْمَعُ بِاهْتِمَامٍ وَيُعَلِّقُ بِرِفْقٍ.",
       "translation": "Otac bi pažljivo slušao i blago komentarisao.",
-      "translationEn": "The father would listen carefully and comment gently."
+      "translationEn": "The father would listen carefully and comment gently.",
+      "words": [
+        { "w": "يَسْمَعُ", "root": "س م ع", "bs": "slušao je", "en": "listen" },
+        { "w": "بِاهْتِمَامٍ", "root": "ه م م", "bs": "pažljivo", "en": "carefully" },
+        { "w": "يُعَلِّقُ", "root": "ع ل ق", "bs": "komentarisao je", "en": "comment" },
+        { "w": "بِرِفْقٍ", "root": "ر ف ق", "bs": "blago/nježno", "en": "gently" }
+      ]
     },
     {
       "arabic": "كَانَتِ الأُمُّ تَقُولُ إِنَّ هَذِهِ اللَّحَظَاتِ لَا تُعَوَّضُ.",
       "translation": "Majka bi govorila da se ovakvi trenuci ne mogu nadoknaditi.",
-      "translationEn": "The mother would say that these moments are irreplaceable."
+      "translationEn": "The mother would say that these moments are irreplaceable.",
+      "words": [
+        { "w": "تَقُولُ", "root": "ق و ل", "bs": "govorila je", "en": "would say" },
+        { "w": "اللَّحَظَاتِ", "root": "ل ح ظ", "bs": "trenuci/momenti", "en": "moments" },
+        { "w": "تُعَوَّضُ", "root": "ع و ض", "bs": "nadoknaditi/zamijeniti", "en": "be replaced/compensated" }
+      ]
     }
   ],
   "metadata": {

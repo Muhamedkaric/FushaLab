@@ -6,22 +6,47 @@
     {
       "arabic": "يَعْمَلُ بَاسِلٌ حَارِسًا فِي مَبْنًى كَبِيرٍ.",
       "translation": "Basil radi kao čuvar u veliku zgradi.",
-      "translationEn": "Basil works as a guard in a large building."
+      "translationEn": "Basil works as a guard in a large building.",
+      "words": [
+        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "حَارِسًا", "root": "ح ر س", "bs": "čuvar/stražar", "en": "guard" },
+        { "w": "مَبْنًى", "root": "ب ن ي", "bs": "zgrada/objekt", "en": "building" },
+        { "w": "كَبِيرٍ", "root": "ك ب ر", "bs": "velikoj/velikom", "en": "large" }
+      ]
     },
     {
       "arabic": "يَبْدَأُ دَوَامُهُ فِي الثَّامِنَةِ مَسَاءً وَيَنْتَهِي فِي الصَّبَاحِ.",
       "translation": "Njegova smjena počinje u osam uveče i završava ujutro.",
-      "translationEn": "His shift starts at eight in the evening and ends in the morning."
+      "translationEn": "His shift starts at eight in the evening and ends in the morning.",
+      "words": [
+        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "starts" },
+        { "w": "دَوَامُهُ", "root": "د و م", "bs": "njegova smjena/radno vrijeme", "en": "his shift" },
+        { "w": "مَسَاءً", "root": "م س و", "bs": "uveče/navečer", "en": "in the evening" },
+        { "w": "يَنْتَهِي", "root": "ن ه ي", "bs": "završava", "en": "ends" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "ujutro/jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "يَتَحَقَّقُ مِنَ الْبَابِ وَيُرَاقِبُ الشَّاشَاتِ.",
       "translation": "Provjerava vrata i prati ekrane.",
-      "translationEn": "He checks the door and monitors the screens."
+      "translationEn": "He checks the door and monitors the screens.",
+      "words": [
+        { "w": "يَتَحَقَّقُ", "root": "ح ق ق", "bs": "provjerava", "en": "checks/verifies" },
+        { "w": "الْبَابِ", "root": "ب و ب", "bs": "vrata/ulaz", "en": "door/gate" },
+        { "w": "يُرَاقِبُ", "root": "ر ق ب", "bs": "prati/nadzire", "en": "monitors/watches" },
+        { "w": "الشَّاشَاتِ", "root": "ش ش ش", "bs": "ekrani/monitori", "en": "screens/monitors" }
+      ]
     },
     {
       "arabic": "يَنَامُ فِي النَّهَارِ وَيَسْتَيْقِظُ قَبْلَ الْمَسَاءِ.",
       "translation": "Spava danju i budi se prije večeri.",
-      "translationEn": "He sleeps during the day and wakes up before evening."
+      "translationEn": "He sleeps during the day and wakes up before evening.",
+      "words": [
+        { "w": "يَنَامُ", "root": "ن و م", "bs": "spava", "en": "sleeps" },
+        { "w": "النَّهَارِ", "root": "ن ه ر", "bs": "dan/danju", "en": "daytime/day" },
+        { "w": "يَسْتَيْقِظُ", "root": "ي ق ظ", "bs": "budi se", "en": "wakes up" },
+        { "w": "الْمَسَاءِ", "root": "م س و", "bs": "večer", "en": "evening" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,108 @@
     {
       "arabic": "كَانَ وَلِيدٌ يَسْتَمِعُ إِلَى الْأُغْنِيَاتِ بِسَمَّاعَاتِهِ.",
       "translation": "Walid je slušao pjesme u slušalicama.",
-      "translationEn": "Walid was listening to songs with his headphones."
+      "translationEn": "Walid was listening to songs with his headphones.",
+      "words": [
+        {
+          "w": "يَسْتَمِعُ",
+          "root": "س م ع",
+          "bs": "slušao je",
+          "en": "was listening"
+        },
+        {
+          "w": "الْأُغْنِيَاتِ",
+          "root": "غ ن ي",
+          "bs": "pjesme",
+          "en": "songs"
+        },
+        {
+          "w": "بِسَمَّاعَاتِهِ",
+          "root": "س م ع",
+          "bs": "u slušalicama",
+          "en": "with his headphones"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَهُ أَخُوهُ: مَاذَا تَسْمَعُ؟",
       "translation": "Brat ga je upitao: Šta slušaš?",
-      "translationEn": "His brother asked him: What are you listening to?"
+      "translationEn": "His brother asked him: What are you listening to?",
+      "words": [
+        {
+          "w": "سَأَلَهُ",
+          "root": "س أ ل",
+          "bs": "upitao ga je",
+          "en": "asked him"
+        },
+        {
+          "w": "أَخُوهُ",
+          "root": "أ خ و",
+          "bs": "brat",
+          "en": "his brother"
+        },
+        {
+          "w": "تَسْمَعُ",
+          "root": "س م ع",
+          "bs": "slušaš",
+          "en": "listening to"
+        }
+      ]
     },
     {
       "arabic": "أَخَذَ وَلِيدٌ سَمَّاعَةً وَأَعْطَاهَا لِأَخِيهِ.",
       "translation": "Walid je uzeo jednu slušalicu i dao je bratu.",
-      "translationEn": "Walid took one headphone and gave it to his brother."
+      "translationEn": "Walid took one headphone and gave it to his brother.",
+      "words": [
+        {
+          "w": "أَخَذَ",
+          "root": "أ خ ذ",
+          "bs": "uzeo je",
+          "en": "took"
+        },
+        {
+          "w": "سَمَّاعَةً",
+          "root": "س م ع",
+          "bs": "slušalicu",
+          "en": "a headphone"
+        },
+        {
+          "w": "أَعْطَاهَا",
+          "root": "ع ط و",
+          "bs": "dao je",
+          "en": "gave it"
+        },
+        {
+          "w": "لِأَخِيهِ",
+          "root": "أ خ و",
+          "bs": "bratu",
+          "en": "to his brother"
+        }
+      ]
     },
     {
       "arabic": "اسْتَمَعَا إِلَى الْأُغْنِيَةِ مَعًا وَاسْتَمْتَعَا.",
       "translation": "Slušali su pjesmu zajedno i uživali.",
-      "translationEn": "They listened to the song together and enjoyed it."
+      "translationEn": "They listened to the song together and enjoyed it.",
+      "words": [
+        {
+          "w": "اسْتَمَعَا",
+          "root": "س م ع",
+          "bs": "slušali su",
+          "en": "they listened"
+        },
+        {
+          "w": "الْأُغْنِيَةِ",
+          "root": "غ ن ي",
+          "bs": "pjesmu",
+          "en": "the song"
+        },
+        {
+          "w": "اسْتَمْتَعَا",
+          "root": "م ت ع",
+          "bs": "uživali su",
+          "en": "enjoyed it"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَتْ هَنَاءُ خَجُولَةً وَلَا تَتَكَلَّمُ أَمَامَ النَّاسِ.",
       "translation": "Hana je bila stidljiva i nije govorila pred ljudima.",
-      "translationEn": "Hana was shy and did not speak in front of people."
+      "translationEn": "Hana was shy and did not speak in front of people.",
+      "words": [
+        { "w": "خَجُولَةً", "root": "خ ج ل", "bs": "stidljiva", "en": "shy" },
+        { "w": "تَتَكَلَّمُ", "root": "ك ل م", "bs": "govori", "en": "speaks" },
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" }
+      ]
     },
     {
       "arabic": "فِي يَوْمٍ مَا تَكَلَّمَتْ فِي الصَّفِّ وَأَجَابَتْ بِشَكْلٍ صَحِيحٍ.",
       "translation": "Jednog dana govorila je u razredu i odgovorila ispravno.",
-      "translationEn": "One day she spoke in class and answered correctly."
+      "translationEn": "One day she spoke in class and answered correctly.",
+      "words": [
+        { "w": "تَكَلَّمَتْ", "root": "ك ل م", "bs": "govorila je", "en": "spoke" },
+        { "w": "الصَّفِّ", "root": "ص ف ف", "bs": "razred", "en": "class" },
+        { "w": "أَجَابَتْ", "root": "ج و ب", "bs": "odgovorila je", "en": "answered" },
+        { "w": "صَحِيحٍ", "root": "ص ح ح", "bs": "ispravno", "en": "correctly" }
+      ]
     },
     {
       "arabic": "صَفَّقَ زُمَلَاؤُهَا لَهَا وَابْتَسَمَ الأُسْتَاذُ.",
       "translation": "Drugovi su joj pljeskali a učitelj se nasmiješio.",
-      "translationEn": "Her classmates clapped for her and the teacher smiled."
+      "translationEn": "Her classmates clapped for her and the teacher smiled.",
+      "words": [
+        { "w": "صَفَّقَ", "root": "ص ف ق", "bs": "plješćio je", "en": "clapped" },
+        { "w": "زُمَلَاؤُهَا", "root": "ز م ل", "bs": "njeni drugovi", "en": "her classmates" },
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" },
+        { "w": "الأُسْتَاذُ", "root": "أ س ت ذ", "bs": "učitelj", "en": "the teacher" }
+      ]
     },
     {
       "arabic": "شَعَرَتْ بِالثِّقَةِ وَبَدَأَتْ تَتَكَلَّمُ أَكْثَرَ.",
       "translation": "Osjetila je samopouzdanje i počela govoriti više.",
-      "translationEn": "She felt confident and began to speak more."
+      "translationEn": "She felt confident and began to speak more.",
+      "words": [
+        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjetila je", "en": "felt" },
+        { "w": "الثِّقَةِ", "root": "و ث ق", "bs": "samopouzdanje", "en": "confidence" },
+        { "w": "بَدَأَتْ", "root": "ب د أ", "bs": "počela je", "en": "began" },
+        { "w": "تَتَكَلَّمُ", "root": "ك ل م", "bs": "govoriti", "en": "to speak" }
+      ]
     }
   ],
   "metadata": {

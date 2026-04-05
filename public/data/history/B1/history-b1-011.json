@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ الْفَلَّاحُ يَزْرَعُ الْقَمْحَ فِي حَقْلِهِ الْكَبِيرِ.",
       "translation": "Seljak je sijao pšenicu na svom velikom polju.",
-      "translationEn": "The farmer used to sow wheat in his large field."
+      "translationEn": "The farmer used to sow wheat in his large field.",
+      "words": [
+        { "w": "الْفَلَّاحُ", "root": "ف ل ح", "bs": "seljak", "en": "the farmer" },
+        { "w": "يَزْرَعُ", "root": "ز ر ع", "bs": "sije", "en": "sows" },
+        { "w": "الْقَمْحَ", "root": "ق م ح", "bs": "pšenicu", "en": "wheat" },
+        { "w": "حَقْلِهِ", "root": "ح ق ل", "bs": "njegovo polje", "en": "his field" },
+        { "w": "الْكَبِيرِ", "root": "ك ب ر", "bs": "veliko", "en": "large" }
+      ]
     },
     {
       "arabic": "كَانَ يَسْتَيْقِظُ مُبَكِّرًا وَيَعْمَلُ طَوَالَ الْيَوْمِ.",
       "translation": "Ustajao je rano i radio cijeli dan.",
-      "translationEn": "He would wake up early and work throughout the day."
+      "translationEn": "He would wake up early and work throughout the day.",
+      "words": [
+        { "w": "يَسْتَيْقِظُ", "root": "ي ق ظ", "bs": "budi se", "en": "wakes up" },
+        { "w": "مُبَكِّرًا", "root": "ب ك ر", "bs": "rano", "en": "early" },
+        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" }
+      ]
     },
     {
       "arabic": "جَمَعَ الْقَمْحَ فِي الْخَرِيفِ وَأَدْخَلَهُ الْمَخْزَنَ.",
       "translation": "Sakupljao je pšenicu u jesen i stavljao je u skladište.",
-      "translationEn": "He collected the wheat in autumn and stored it in the storehouse."
+      "translationEn": "He collected the wheat in autumn and stored it in the storehouse.",
+      "words": [
+        { "w": "جَمَعَ", "root": "ج م ع", "bs": "sakupljao je", "en": "collected" },
+        { "w": "الْقَمْحَ", "root": "ق م ح", "bs": "pšenicu", "en": "the wheat" },
+        { "w": "الْخَرِيفِ", "root": "خ ر ف", "bs": "jesen", "en": "autumn" },
+        { "w": "الْمَخْزَنَ", "root": "خ ز ن", "bs": "skladište", "en": "the storehouse" }
+      ]
     },
     {
       "arabic": "كَانَتْ أُسْرَتُهُ سَعِيدَةً بِالْمَوْسِمِ الْجَيِّدِ.",
       "translation": "Njegova porodica bila je sretna zbog dobre sezone.",
-      "translationEn": "His family was happy with the good harvest season."
+      "translationEn": "His family was happy with the good harvest season.",
+      "words": [
+        { "w": "أُسْرَتُهُ", "root": "أ س ر", "bs": "njegova porodica", "en": "his family" },
+        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
+        { "w": "الْمَوْسِمِ", "root": "و س م", "bs": "sezona", "en": "the season" },
+        { "w": "الْجَيِّدِ", "root": "ج ي د", "bs": "dobra", "en": "good" }
+      ]
     }
   ],
   "metadata": {

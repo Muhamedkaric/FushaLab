@@ -6,22 +6,130 @@
     {
       "arabic": "فَتَحَ الطِّفْلُ التَّابْلِيتَ وَبَحَثَ عَنْ فِيدِيُو.",
       "translation": "Dijete je otvorilo tablet i tražilo video.",
-      "translationEn": "The child opened the tablet and searched for a video."
+      "translationEn": "The child opened the tablet and searched for a video.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child"
+        },
+        {
+          "w": "التَّابْلِيتَ",
+          "bs": "tablet",
+          "en": "the tablet"
+        },
+        {
+          "w": "بَحَثَ",
+          "root": "ب ح ث",
+          "bs": "tražio je",
+          "en": "searched"
+        }
+      ]
     },
     {
       "arabic": "وَجَدَ فِيدِيُو عَنِ الْحَيَوَانَاتِ وَضَغَطَ عَلَيْهِ.",
       "translation": "Pronašao je video o životinjama i kliknuo na njega.",
-      "translationEn": "He found a video about animals and clicked on it."
+      "translationEn": "He found a video about animals and clicked on it.",
+      "words": [
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found"
+        },
+        {
+          "w": "فِيدِيُو",
+          "bs": "video",
+          "en": "a video"
+        },
+        {
+          "w": "الْحَيَوَانَاتِ",
+          "root": "ح ي و",
+          "bs": "životinjama",
+          "en": "animals"
+        },
+        {
+          "w": "ضَغَطَ",
+          "root": "ض غ ط",
+          "bs": "kliknuo je",
+          "en": "clicked"
+        }
+      ]
     },
     {
       "arabic": "جَلَسَ وَشَاهَدَهُ بِاهْتِمَامٍ لِمُدَّةِ نِصْفِ سَاعَةٍ.",
       "translation": "Sjeo je i pažljivo ga gledao pola sata.",
-      "translationEn": "He sat and watched it attentively for half an hour."
+      "translationEn": "He sat and watched it attentively for half an hour.",
+      "words": [
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjeo je",
+          "en": "sat"
+        },
+        {
+          "w": "شَاهَدَهُ",
+          "root": "ش ه د",
+          "bs": "gledao ga je",
+          "en": "watched it"
+        },
+        {
+          "w": "بِاهْتِمَامٍ",
+          "root": "ه م م",
+          "bs": "pažljivo",
+          "en": "attentively"
+        },
+        {
+          "w": "سَاعَةٍ",
+          "root": "س و ع",
+          "bs": "sata",
+          "en": "hour"
+        }
+      ]
     },
     {
       "arabic": "تَعَلَّمَ أَسْمَاءَ حَيَوَانَاتٍ كَثِيرَةٍ جَدِيدَةٍ.",
       "translation": "Naučio je mnoga nova imena životinja.",
-      "translationEn": "He learned the names of many new animals."
+      "translationEn": "He learned the names of many new animals.",
+      "words": [
+        {
+          "w": "تَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "learned"
+        },
+        {
+          "w": "أَسْمَاءَ",
+          "root": "س م و",
+          "bs": "imena",
+          "en": "names"
+        },
+        {
+          "w": "حَيَوَانَاتٍ",
+          "root": "ح ي و",
+          "bs": "životinja",
+          "en": "animals"
+        },
+        {
+          "w": "كَثِيرَةٍ",
+          "root": "ك ث ر",
+          "bs": "mnogo",
+          "en": "many"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "root": "ج د د",
+          "bs": "novih",
+          "en": "new"
+        }
+      ]
     }
   ],
   "metadata": {

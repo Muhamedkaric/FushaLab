@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ النَّاسُ يَسْتَمِعُونَ إِلَى الْمُوسِيقَى فِي الأَعْيَادِ.",
       "translation": "Ljudi su slušali muziku na praznicima.",
-      "translationEn": "People used to listen to music during festivals."
+      "translationEn": "People used to listen to music during festivals.",
+      "words": [
+        { "w": "يَسْتَمِعُونَ", "root": "س م ع", "bs": "slušaju", "en": "listen" },
+        { "w": "الْمُوسِيقَى", "bs": "muzika", "en": "music" },
+        { "w": "الأَعْيَادِ", "root": "ع ي د", "bs": "praznici", "en": "festivals" }
+      ]
     },
     {
       "arabic": "عَزَفَ الْمُوسِيقَارُ عَلَى آلَةٍ مَصْنُوعَةٍ مِنَ الْخَشَبِ.",
       "translation": "Muzičar je svirao na instrumentu od drveta.",
-      "translationEn": "The musician played an instrument made of wood."
+      "translationEn": "The musician played an instrument made of wood.",
+      "words": [
+        { "w": "عَزَفَ", "root": "ع ز ف", "bs": "svirao je", "en": "played" },
+        { "w": "الْمُوسِيقَارُ", "bs": "muzičar", "en": "the musician" },
+        { "w": "آلَةٍ", "root": "أ ل ت", "bs": "instrument", "en": "an instrument" },
+        { "w": "مَصْنُوعَةٍ", "root": "ص ن ع", "bs": "napravljen", "en": "made" },
+        { "w": "الْخَشَبِ", "root": "خ ش ب", "bs": "drveta", "en": "wood" }
+      ]
     },
     {
       "arabic": "رَقَصَ الأَطْفَالُ وَغَنَّى الْكِبَارُ مَعًا.",
       "translation": "Djeca su plesala i odrasli su zajedno pjevali.",
-      "translationEn": "The children danced and the adults sang together."
+      "translationEn": "The children danced and the adults sang together.",
+      "words": [
+        { "w": "رَقَصَ", "root": "ر ق ص", "bs": "plesao je", "en": "danced" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "the children" },
+        { "w": "غَنَّى", "root": "غ ن ي", "bs": "pjevao je", "en": "sang" },
+        { "w": "الْكِبَارُ", "root": "ك ب ر", "bs": "odrasli", "en": "the adults" }
+      ]
     },
     {
       "arabic": "كَانَتِ الأَعْيَادُ وَقْتًا لِلْفَرَحِ وَالاجْتِمَاعِ.",
       "translation": "Praznici su bili vrijeme radosti i okupljanja.",
-      "translationEn": "Festivals were a time for joy and gathering."
+      "translationEn": "Festivals were a time for joy and gathering.",
+      "words": [
+        { "w": "الأَعْيَادُ", "root": "ع ي د", "bs": "praznici", "en": "festivals" },
+        { "w": "وَقْتًا", "root": "و ق ت", "bs": "vrijeme", "en": "a time" },
+        { "w": "الْفَرَحِ", "root": "ف ر ح", "bs": "radost", "en": "joy" },
+        { "w": "الاجْتِمَاعِ", "root": "ج م ع", "bs": "okupljanje", "en": "gathering" }
+      ]
     }
   ],
   "metadata": {

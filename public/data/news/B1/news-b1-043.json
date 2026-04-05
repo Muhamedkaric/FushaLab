@@ -6,26 +6,115 @@
     {
       "arabic": "أَقَامَ نَادِي الشَّطْرَنْجِ مُسَابَقَةً لِلأَطْفَالِ وَالشَّبَابِ.",
       "translation": "Šahovski klub je organizovao takmičenje za djecu i mlade.",
-      "translationEn": "The chess club held a competition for children and youth."
+      "translationEn": "The chess club held a competition for children and youth.",
+      "words": [
+        {
+          "w": "نَادِي الشَّطْرَنْجِ",
+          "bs": "šahovski klub",
+          "en": "chess club"
+        },
+        {
+          "w": "مُسَابَقَةً",
+          "root": "س ب ق",
+          "bs": "takmičenje",
+          "en": "competition"
+        },
+        {
+          "w": "الأَطْفَالِ",
+          "root": "ط ف ل",
+          "bs": "djecu",
+          "en": "children"
+        },
+        {
+          "w": "الشَّبَابِ",
+          "root": "ش ب ب",
+          "bs": "mlade",
+          "en": "youth"
+        }
+      ]
     },
     {
       "arabic": "شَارَكَ خَمْسَةٌ وَعِشْرُونَ لَاعِبًا مِنْ أَعْمَارٍ مُخْتَلِفَةٍ.",
       "translation": "Dvadeset i pet igrača različite dobi je učestvovalo.",
-      "translationEn": "Twenty-five players of different ages participated."
+      "translationEn": "Twenty-five players of different ages participated.",
+      "words": [
+        {
+          "w": "شَارَكَ",
+          "root": "ش ر ك",
+          "bs": "učestvovao je",
+          "en": "participated"
+        },
+        {
+          "w": "لَاعِبًا",
+          "root": "ل ع ب",
+          "bs": "igrača",
+          "en": "players"
+        },
+        {
+          "w": "أَعْمَارٍ",
+          "root": "ع م ر",
+          "bs": "dobi",
+          "en": "ages"
+        },
+        {
+          "w": "مُخْتَلِفَةٍ",
+          "root": "خ ل ف",
+          "bs": "različite",
+          "en": "different"
+        }
+      ]
     },
     {
       "arabic": "فَازَ وَلَدٌ صَغِيرٌ عُمْرُهُ عَشْرُ سَنَوَاتٍ بِالْجَائِزَةِ الأُولَى.",
       "translation": "Dječak od deset godina je osvojio prvu nagradu.",
-      "translationEn": "A ten-year-old boy won the first prize."
+      "translationEn": "A ten-year-old boy won the first prize.",
+      "words": [
+        {
+          "w": "فَازَ",
+          "root": "ف و ز",
+          "bs": "pobijedio je",
+          "en": "won"
+        },
+        {
+          "w": "وَلَدٌ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "boy"
+        },
+        {
+          "w": "الْجَائِزَةِ",
+          "root": "ج و ز",
+          "bs": "nagradu",
+          "en": "prize"
+        }
+      ]
     },
     {
       "arabic": "أَعْجَبَ الْجَمِيعَ هَذَا الطِّفْلُ الْمَوْهُوبُ.",
       "translation": "Svi su bili oduševljeni ovim talentovanim djetetom.",
-      "translationEn": "Everyone was impressed by this talented child."
+      "translationEn": "Everyone was impressed by this talented child.",
+      "words": [
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child"
+        },
+        {
+          "w": "الْمَوْهُوبُ",
+          "root": "و ه ب",
+          "bs": "talentovano",
+          "en": "talented"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["chess", "sports", "youth"]
+    "tags": [
+      "chess",
+      "sports",
+      "youth"
+    ]
   }
 }

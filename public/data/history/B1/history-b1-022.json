@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَ الشَّاعِرُ يَكْتُبُ قَصَائِدَ عَنِ الطَّبِيعَةِ.",
       "translation": "Pjesnik je pisao pjesme o prirodi.",
-      "translationEn": "The poet used to write poems about nature."
+      "translationEn": "The poet used to write poems about nature.",
+      "words": [
+        { "w": "الشَّاعِرُ", "root": "ش ع ر", "bs": "pjesnik", "en": "the poet" },
+        { "w": "يَكْتُبُ", "root": "ك ت ب", "bs": "piše", "en": "writes" },
+        { "w": "قَصَائِدَ", "root": "ق ص د", "bs": "pjesme", "en": "poems" },
+        { "w": "الطَّبِيعَةِ", "root": "ط ب ع", "bs": "priroda", "en": "nature" }
+      ]
     },
     {
       "arabic": "كَانَ يَقْرَأُ شِعْرَهُ لِلنَّاسِ فِي السُّوقِ.",
       "translation": "Čitao je svoju poeziju ljudima na tržnici.",
-      "translationEn": "He would read his poetry to the people in the market."
+      "translationEn": "He would read his poetry to the people in the market.",
+      "words": [
+        { "w": "يَقْرَأُ", "root": "ق ر أ", "bs": "čita", "en": "reads" },
+        { "w": "شِعْرَهُ", "root": "ش ع ر", "bs": "njegova poezija", "en": "his poetry" },
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "tržnica", "en": "the market" }
+      ]
     },
     {
       "arabic": "أَصْغَى النَّاسُ إِلَيْهِ بِاهْتِمَامٍ كَبِيرٍ.",
       "translation": "Ljudi su mu slušali s velikim interesom.",
-      "translationEn": "The people listened to him with great interest."
+      "translationEn": "The people listened to him with great interest.",
+      "words": [
+        { "w": "أَصْغَى", "root": "ص غ و", "bs": "slušao je", "en": "listened" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "اهْتِمَامٍ", "root": "ه م م", "bs": "interes", "en": "interest" },
+        { "w": "كَبِيرٍ", "root": "ك ب ر", "bs": "veliki", "en": "great" }
+      ]
     },
     {
       "arabic": "حَفِظَ الأَطْفَالُ بَعْضَ الأَبْيَاتِ عَنْ ظَهْرِ قَلْبٍ.",
       "translation": "Djeca su napamet naučila neke stihove.",
-      "translationEn": "The children memorised some verses by heart."
+      "translationEn": "The children memorised some verses by heart.",
+      "words": [
+        { "w": "حَفِظَ", "root": "ح ف ظ", "bs": "naučio je napamet", "en": "memorised" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "the children" },
+        { "w": "الأَبْيَاتِ", "root": "ب ي ت", "bs": "stihovi", "en": "verses" }
+      ]
     }
   ],
   "metadata": {

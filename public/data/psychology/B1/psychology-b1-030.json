@@ -6,22 +6,46 @@
     {
       "arabic": "شَعَرَتْ لَمَى بِالْفَرَحِ حِينَ تَلَقَّتْ هَدِيَّةً مِنْ أَبِيهَا.",
       "translation": "Lama se obradovala kada je dobila poklon od oca.",
-      "translationEn": "Lama felt joy when she received a gift from her father."
+      "translationEn": "Lama felt joy when she received a gift from her father.",
+      "words": [
+        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjetila je", "en": "felt" },
+        { "w": "الْفَرَحِ", "root": "ف ر ح", "bs": "radost", "en": "joy" },
+        { "w": "تَلَقَّتْ", "root": "ل ق ي", "bs": "dobila je", "en": "received" },
+        { "w": "هَدِيَّةً", "root": "ه د ي", "bs": "poklon", "en": "a gift" },
+        { "w": "أَبِيهَا", "root": "أ ب و", "bs": "njen otac", "en": "her father" }
+      ]
     },
     {
       "arabic": "لَيْسَتِ الْهَدِيَّةُ غَالِيَةً لَكِنَّ الأَهَمَّ هُوَ الْمَعْنَى.",
       "translation": "Poklon nije skup ali važnije je značenje.",
-      "translationEn": "The gift is not expensive but what matters more is the meaning."
+      "translationEn": "The gift is not expensive but what matters more is the meaning.",
+      "words": [
+        { "w": "الْهَدِيَّةُ", "root": "ه د ي", "bs": "poklon", "en": "the gift" },
+        { "w": "غَالِيَةً", "root": "غ ل و", "bs": "skup", "en": "expensive" },
+        { "w": "الأَهَمَّ", "root": "ه م م", "bs": "važnije", "en": "what matters more" },
+        { "w": "الْمَعْنَى", "root": "ع ن ي", "bs": "značenje", "en": "the meaning" }
+      ]
     },
     {
       "arabic": "قَالَتِ الأَبُ «فَكَّرْتُ فِيكِ وَاخْتَرْتُ هَذَا لَكِ».",
       "translation": "Otac je rekao \"mislio sam na tebe i izabrao sam ovo za tebe\".",
-      "translationEn": "The father said \"I thought of you and chose this for you\"."
+      "translationEn": "The father said \"I thought of you and chose this for you\".",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "فَكَّرْتُ", "root": "ف ك ر", "bs": "mislio sam", "en": "I thought" },
+        { "w": "اخْتَرْتُ", "root": "خ ي ر", "bs": "izabrao sam", "en": "I chose" }
+      ]
     },
     {
       "arabic": "الشُّعُورُ بِأَنَّنَا مُهِمُّونَ يَجْعَلُنَا سُعَدَاءَ.",
       "translation": "Osjećaj da smo važni nas čini sretnima.",
-      "translationEn": "Feeling that we are important makes us happy."
+      "translationEn": "Feeling that we are important makes us happy.",
+      "words": [
+        { "w": "الشُّعُورُ", "root": "ش ع ر", "bs": "osjećaj", "en": "feeling" },
+        { "w": "مُهِمُّونَ", "root": "ه م م", "bs": "važni", "en": "important" },
+        { "w": "يَجْعَلُنَا", "root": "ج ع ل", "bs": "čini nas", "en": "makes us" },
+        { "w": "سُعَدَاءَ", "root": "س ع د", "bs": "sretnima", "en": "happy" }
+      ]
     }
   ],
   "metadata": {

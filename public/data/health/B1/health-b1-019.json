@@ -6,26 +6,123 @@
     {
       "arabic": "يَلْعَبُ جَابِرٌ كُرَةَ الْقَدَمِ مَعَ أَصْدِقَائِهِ كُلَّ جُمْعَةٍ.",
       "translation": "Jabir igra fudbal s prijateljima svaki petak.",
-      "translationEn": "Jabir plays football with his friends every Friday."
+      "translationEn": "Jabir plays football with his friends every Friday.",
+      "words": [
+        {
+          "w": "يَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "igra",
+          "en": "plays"
+        },
+        {
+          "w": "كُرَةَ",
+          "root": "ك ر ر",
+          "bs": "lopta",
+          "en": "ball"
+        },
+        {
+          "w": "الْقَدَمِ",
+          "root": "ق د م",
+          "bs": "fudbal",
+          "en": "football"
+        },
+        {
+          "w": "أَصْدِقَائِهِ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends"
+        }
+      ]
     },
     {
       "arabic": "يَشْعُرُ بِالسَّعَادَةِ وَالنَّشَاطِ بَعْدَ اللَّعِبِ.",
       "translation": "Osjeća sreću i živost nakon igre.",
-      "translationEn": "He feels happy and active after playing."
+      "translationEn": "He feels happy and active after playing.",
+      "words": [
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća",
+          "en": "feels"
+        },
+        {
+          "w": "بِالسَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sreća",
+          "en": "happiness"
+        },
+        {
+          "w": "وَالنَّشَاطِ",
+          "root": "ن ش ط",
+          "bs": "živost",
+          "en": "activity"
+        },
+        {
+          "w": "اللَّعِبِ",
+          "root": "ل ع ب",
+          "bs": "igra",
+          "en": "playing"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ إِنَّ الرِّيَاضَةَ مَعَ الْأَصْدِقَاءِ أَمْتَعُ مِنَ الرِّيَاضَةِ مُنْفَرِدًا.",
       "translation": "Kaže da je sport s prijateljima zabavniji od sporta samog.",
-      "translationEn": "He says that sport with friends is more fun than sport alone."
+      "translationEn": "He says that sport with friends is more fun than sport alone.",
+      "words": [
+        {
+          "w": "الرِّيَاضَةَ",
+          "root": "ر و ض",
+          "bs": "sport",
+          "en": "sport"
+        },
+        {
+          "w": "الْأَصْدِقَاءِ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends"
+        },
+        {
+          "w": "أَمْتَعُ",
+          "root": "م ت ع",
+          "bs": "zabavniji",
+          "en": "more fun"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ الْمُبَارَاةِ يَأْكُلُونَ مَعًا وَيَتَحَدَّثُونَ.",
       "translation": "Nakon utakmice jedu zajedno i razgovaraju.",
-      "translationEn": "After the match they eat together and talk."
+      "translationEn": "After the match they eat together and talk.",
+      "words": [
+        {
+          "w": "الْمُبَارَاةِ",
+          "root": "ب ر ي",
+          "bs": "utakmica",
+          "en": "match"
+        },
+        {
+          "w": "يَأْكُلُونَ",
+          "root": "أ ك ل",
+          "bs": "jedu",
+          "en": "eat"
+        },
+        {
+          "w": "يَتَحَدَّثُونَ",
+          "root": "ح د ث",
+          "bs": "razgovaraju",
+          "en": "talk"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["football", "sport", "friends", "exercise"]
+    "tags": [
+      "football",
+      "sport",
+      "friends",
+      "exercise"
+    ]
   }
 }

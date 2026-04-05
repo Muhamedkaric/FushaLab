@@ -6,22 +6,126 @@
     {
       "arabic": "أَرَادَ صَالِحٌ أَنْ يَقْرَأَ الْأَخْبَارَ فِي الصَّبَاحِ.",
       "translation": "Salih je ujutro htio čitati vijesti.",
-      "translationEn": "Salih wanted to read the news in the morning."
+      "translationEn": "Salih wanted to read the news in the morning.",
+      "words": [
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted"
+        },
+        {
+          "w": "يَقْرَأَ",
+          "root": "ق ر أ",
+          "bs": "čitati",
+          "en": "read"
+        },
+        {
+          "w": "الْأَخْبَارَ",
+          "root": "خ ب ر",
+          "bs": "vijesti",
+          "en": "the news"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "ujutro",
+          "en": "in the morning"
+        }
+      ]
     },
     {
       "arabic": "فَتَحَ تَطْبِيقَ الْأَخْبَارِ عَلَى هَاتِفِهِ.",
       "translation": "Otvorio je aplikaciju za vijesti na telefonu.",
-      "translationEn": "He opened the news app on his phone."
+      "translationEn": "He opened the news app on his phone.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "تَطْبِيقَ الْأَخْبَارِ",
+          "root": "خ ب ر",
+          "bs": "aplikaciju za vijesti",
+          "en": "the news app"
+        },
+        {
+          "w": "هَاتِفِهِ",
+          "root": "ه ت ف",
+          "bs": "telefonu",
+          "en": "his phone"
+        }
+      ]
     },
     {
       "arabic": "قَرَأَ الْعُنَاوِينَ الرَّئِيسِيَّةَ وَاخْتَارَ خَبَرًا وَاحِدًا.",
       "translation": "Pročitao je glavne naslove i odabrao jednu vijest.",
-      "translationEn": "He read the main headlines and chose one news story."
+      "translationEn": "He read the main headlines and chose one news story.",
+      "words": [
+        {
+          "w": "قَرَأَ",
+          "root": "ق ر أ",
+          "bs": "pročitao je",
+          "en": "read"
+        },
+        {
+          "w": "الْعُنَاوِينَ",
+          "root": "ع ن و",
+          "bs": "naslove",
+          "en": "the headlines"
+        },
+        {
+          "w": "الرَّئِيسِيَّةَ",
+          "root": "ر أ س",
+          "bs": "glavne",
+          "en": "main"
+        },
+        {
+          "w": "اخْتَارَ",
+          "root": "خ ي ر",
+          "bs": "odabrao je",
+          "en": "chose"
+        },
+        {
+          "w": "خَبَرًا",
+          "root": "خ ب ر",
+          "bs": "vijest",
+          "en": "a news story"
+        }
+      ]
     },
     {
       "arabic": "قَرَأَهُ بِاهْتِمَامٍ ثُمَّ أَغْلَقَ التَّطْبِيقَ.",
       "translation": "Pažljivo ga pročitao pa zatvorio aplikaciju.",
-      "translationEn": "He read it attentively then closed the app."
+      "translationEn": "He read it attentively then closed the app.",
+      "words": [
+        {
+          "w": "قَرَأَهُ",
+          "root": "ق ر أ",
+          "bs": "pročitao ga je",
+          "en": "read it"
+        },
+        {
+          "w": "بِاهْتِمَامٍ",
+          "root": "ه م م",
+          "bs": "pažljivo",
+          "en": "attentively"
+        },
+        {
+          "w": "أَغْلَقَ",
+          "root": "غ ل ق",
+          "bs": "zatvorio je",
+          "en": "closed"
+        },
+        {
+          "w": "التَّطْبِيقَ",
+          "root": "ط ب ق",
+          "bs": "aplikaciju",
+          "en": "the app"
+        }
+      ]
     }
   ],
   "metadata": {

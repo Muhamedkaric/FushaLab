@@ -6,22 +6,47 @@
     {
       "arabic": "أَرَادَ زِيَادٌ أَنْ يُدَرِّبَ أَخَاهُ الصَّغِيرَ عَلَى السِّبَاحَةِ.",
       "translation": "Zijad je htio naučiti svog mlađeg brata plivanju.",
-      "translationEn": "Ziyad wanted to train his little brother in swimming."
+      "translationEn": "Ziyad wanted to train his little brother in swimming.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je/želio", "en": "wanted" },
+        { "w": "يُدَرِّبَ", "root": "د ر ب", "bs": "da trenira/nauči", "en": "to train" },
+        { "w": "أَخَاهُ", "root": "أ خ و", "bs": "njegov brat", "en": "his brother" },
+        { "w": "الصَّغِيرَ", "root": "ص غ ر", "bs": "mlađeg/malog", "en": "little/younger" },
+        { "w": "السِّبَاحَةِ", "root": "س ب ح", "bs": "plivanje", "en": "swimming" }
+      ]
     },
     {
       "arabic": "أَخَذَهُ إِلَى حَوْضِ السِّبَاحَةِ وَبَدَأَ التَّدْرِيبَ.",
       "translation": "Odveo ga je u bazen i počeo trening.",
-      "translationEn": "He took him to the swimming pool and started training."
+      "translationEn": "He took him to the swimming pool and started training.",
+      "words": [
+        { "w": "أَخَذَهُ", "root": "أ خ ذ", "bs": "odveo ga je/uzeo", "en": "took him" },
+        { "w": "حَوْضِ", "root": "ح و ض", "bs": "bazen/kada", "en": "pool/basin" },
+        { "w": "السِّبَاحَةِ", "root": "س ب ح", "bs": "plivanje", "en": "swimming" },
+        { "w": "التَّدْرِيبَ", "root": "د ر ب", "bs": "trening", "en": "training" }
+      ]
     },
     {
       "arabic": "خَافَ أَخُوهُ فِي الْبِدَايَةِ لَكِنَّ زِيَادًا شَجَّعَهُ.",
       "translation": "Brat se u početku bojao ali ga je Zijad ohrabrio.",
-      "translationEn": "His brother was scared at first but Ziyad encouraged him."
+      "translationEn": "His brother was scared at first but Ziyad encouraged him.",
+      "words": [
+        { "w": "خَافَ", "root": "خ و ف", "bs": "bojao se", "en": "was scared" },
+        { "w": "أَخُوهُ", "root": "أ خ و", "bs": "njegov brat", "en": "his brother" },
+        { "w": "الْبِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "beginning/at first" },
+        { "w": "شَجَّعَهُ", "root": "ش ج ع", "bs": "ohrabrio ga je", "en": "encouraged him" }
+      ]
     },
     {
       "arabic": "بَعْدَ أُسْبُوعٍ سَبَحَ الْأَخُ الصَّغِيرُ بِمُفْرَدِهِ.",
       "translation": "Nakon sedmice mlađi brat je sam plivao.",
-      "translationEn": "After a week the little brother swam by himself."
+      "translationEn": "After a week the little brother swam by himself.",
+      "words": [
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica/tjedan", "en": "week" },
+        { "w": "سَبَحَ", "root": "س ب ح", "bs": "plivao je", "en": "swam" },
+        { "w": "الْأَخُ", "root": "أ خ و", "bs": "brat", "en": "brother" },
+        { "w": "بِمُفْرَدِهِ", "root": "ف ر د", "bs": "sam/samostalno", "en": "by himself/alone" }
+      ]
     }
   ],
   "metadata": {

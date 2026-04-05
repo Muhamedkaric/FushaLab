@@ -6,22 +6,47 @@
     {
       "arabic": "جَاءَ مُفَتِّشٌ إِلَى الْمَكْتَبِ لِفَحْصِ الْأَوْرَاقِ.",
       "translation": "Inspektor je došao u kancelariju da pregleda papire.",
-      "translationEn": "An inspector came to the office to check the papers."
+      "translationEn": "An inspector came to the office to check the papers.",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došao je", "en": "came" },
+        { "w": "مُفَتِّشٌ", "root": "ف ت ش", "bs": "inspektor/kontrolor", "en": "inspector" },
+        { "w": "الْمَكْتَبِ", "root": "ك ت ب", "bs": "kancelarija/ured", "en": "office" },
+        { "w": "فَحْصِ", "root": "ف ح ص", "bs": "pregled/provjera", "en": "checking/inspection" },
+        { "w": "الْأَوْرَاقِ", "root": "و ر ق", "bs": "papiri/dokumenti", "en": "papers/documents" }
+      ]
     },
     {
       "arabic": "أَعَدَّتْ رَنَا كُلَّ الْوَثَائِقِ قَبْلَ وُصُولِهِ.",
       "translation": "Rana je pripremila sve dokumente prije njegovog dolaska.",
-      "translationEn": "Rana prepared all the documents before his arrival."
+      "translationEn": "Rana prepared all the documents before his arrival.",
+      "words": [
+        { "w": "أَعَدَّتْ", "root": "ع د د", "bs": "pripremila je", "en": "prepared" },
+        { "w": "الْوَثَائِقِ", "root": "و ث ق", "bs": "dokumenti/isprave", "en": "documents" },
+        { "w": "وُصُولِهِ", "root": "و ص ل", "bs": "njegov dolazak", "en": "his arrival" }
+      ]
     },
     {
       "arabic": "فَحَصَ الْمُفَتِّشُ الْأَوْرَاقَ وَلَمْ يَجِدْ أَيَّ مُشْكِلَةٍ.",
       "translation": "Inspektor je pregledao papire i nije pronašao nikakav problem.",
-      "translationEn": "The inspector checked the papers and found no problem."
+      "translationEn": "The inspector checked the papers and found no problem.",
+      "words": [
+        { "w": "فَحَصَ", "root": "ف ح ص", "bs": "pregledao je/provjerio", "en": "checked/inspected" },
+        { "w": "الْمُفَتِّشُ", "root": "ف ت ش", "bs": "inspektor", "en": "inspector" },
+        { "w": "الْأَوْرَاقَ", "root": "و ر ق", "bs": "papiri/dokumenti", "en": "papers" },
+        { "w": "يَجِدْ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "مُشْكِلَةٍ", "root": "ش ك ل", "bs": "problem/teškoća", "en": "problem" }
+      ]
     },
     {
       "arabic": "شَكَرَ رَنَا عَلَى تَنْظِيمِهَا الْجَيِّدِ وَغَادَرَ.",
       "translation": "Zahvalio je Rani na dobroj organizaciji i otišao.",
-      "translationEn": "He thanked Rana for her good organisation and left."
+      "translationEn": "He thanked Rana for her good organisation and left.",
+      "words": [
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "تَنْظِيمِهَا", "root": "ن ظ م", "bs": "njena organizacija", "en": "her organisation" },
+        { "w": "الْجَيِّدِ", "root": "ج و د", "bs": "dobra", "en": "good" },
+        { "w": "غَادَرَ", "root": "غ د ر", "bs": "otišao je/napustio", "en": "left" }
+      ]
     }
   ],
   "metadata": {

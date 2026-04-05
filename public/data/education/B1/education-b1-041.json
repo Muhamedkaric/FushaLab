@@ -6,22 +6,43 @@
     {
       "arabic": "أَحَبَّ عَبْدُاللهِ دَرْسَ الجُغْرَافِيَا أَكْثَرَ مِنْ غَيْرِهِ.",
       "translation": "Abdullah je volio čas geografije više od ostalih.",
-      "translationEn": "Abdullah liked geography class more than others."
+      "translationEn": "Abdullah liked geography class more than others.",
+      "words": [
+        { "w": "أَحَبَّ", "root": "ح ب ب", "bs": "volio je", "en": "liked" },
+        { "w": "دَرْسَ", "root": "د ر س", "bs": "čas", "en": "class" },
+        { "w": "الجُغْرَافِيَا", "root": "ج غ ر", "bs": "geografija", "en": "geography" }
+      ]
     },
     {
       "arabic": "كَانَ يَنْظُرُ إِلَى الخَرَائِطِ بِاهْتِمَامٍ كَبِيرٍ.",
       "translation": "Gledao je u mape s velikim zanimanjem.",
-      "translationEn": "He looked at maps with great interest."
+      "translationEn": "He looked at maps with great interest.",
+      "words": [
+        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gledao je", "en": "looked" },
+        { "w": "الخَرَائِطِ", "root": "خ ر ط", "bs": "mape", "en": "maps" },
+        { "w": "اهْتِمَامٍ", "root": "ه م م", "bs": "zanimanje", "en": "interest" }
+      ]
     },
     {
       "arabic": "حَفِظَ أَسْمَاءَ بِلَادٍ كَثِيرَةٍ حَوْلَ العَالَمِ.",
       "translation": "Zapamtio je nazive mnogih zemalja širom svijeta.",
-      "translationEn": "He memorized the names of many countries around the world."
+      "translationEn": "He memorized the names of many countries around the world.",
+      "words": [
+        { "w": "حَفِظَ", "root": "ح ف ظ", "bs": "zapamtio je", "en": "memorized" },
+        { "w": "أَسْمَاءَ", "root": "س م و", "bs": "nazivi", "en": "names" },
+        { "w": "بِلَادٍ", "root": "ب ل د", "bs": "zemlje", "en": "countries" },
+        { "w": "العَالَمِ", "root": "ع ل م", "bs": "svijet", "en": "world" }
+      ]
     },
     {
       "arabic": "أَرَادَ أَنْ يُسَافِرَ إِلَى هَذِهِ البِلَادِ يَوْمًا مَا.",
       "translation": "Jednog dana htio je putovati u te zemlje.",
-      "translationEn": "He wanted to travel to these countries someday."
+      "translationEn": "He wanted to travel to these countries someday.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "يُسَافِرَ", "root": "س ف ر", "bs": "da putuje", "en": "to travel" },
+        { "w": "البِلَادِ", "root": "ب ل د", "bs": "zemlje", "en": "countries" }
+      ]
     }
   ],
   "metadata": {

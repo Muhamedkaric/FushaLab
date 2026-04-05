@@ -6,26 +6,141 @@
     {
       "arabic": "أَصَابَ رِيحٌ بَارِدَةٌ سَارَةَ وَبَدَأَتْ تَعْطِسُ كَثِيرًا.",
       "translation": "Sara je uhvatila hladni vjetar i počela puno kihati.",
-      "translationEn": "Sara caught a cold wind and started sneezing a lot."
+      "translationEn": "Sara caught a cold wind and started sneezing a lot.",
+      "words": [
+        {
+          "w": "أَصَابَ",
+          "root": "ص و ب",
+          "bs": "zahvatilo je",
+          "en": "struck"
+        },
+        {
+          "w": "رِيحٌ",
+          "root": "ر و ح",
+          "bs": "vjetar",
+          "en": "wind"
+        },
+        {
+          "w": "بَارِدَةٌ",
+          "root": "ب ر د",
+          "bs": "hladan",
+          "en": "cold"
+        },
+        {
+          "w": "تَعْطِسُ",
+          "root": "ع ط س",
+          "bs": "kiha",
+          "en": "sneezes"
+        }
+      ]
     },
     {
       "arabic": "بَقِيَتْ فِي الْبَيْتِ وَغَطَّتْ نَفْسَهَا بِبِطَّانِيَّةٍ دَافِئَةٍ.",
       "translation": "Ostala je kod kuće i pokrila se toplim ćebetom.",
-      "translationEn": "She stayed at home and covered herself with a warm blanket."
+      "translationEn": "She stayed at home and covered herself with a warm blanket.",
+      "words": [
+        {
+          "w": "بَقِيَتْ",
+          "root": "ب ق ي",
+          "bs": "ostala je",
+          "en": "stayed"
+        },
+        {
+          "w": "غَطَّتْ",
+          "root": "غ ط و",
+          "bs": "pokrila se",
+          "en": "covered herself"
+        },
+        {
+          "w": "بِبِطَّانِيَّةٍ",
+          "root": "ب ط ن",
+          "bs": "ćebe",
+          "en": "blanket"
+        },
+        {
+          "w": "دَافِئَةٍ",
+          "root": "د ف أ",
+          "bs": "toplo",
+          "en": "warm"
+        }
+      ]
     },
     {
       "arabic": "شَرِبَتْ شَايًا سَاخِنًا وَأَكَلَتْ حَسَاءً دَافِئًا.",
       "translation": "Popila je vruć čaj i pojela toplu supu.",
-      "translationEn": "She drank hot tea and ate warm soup."
+      "translationEn": "She drank hot tea and ate warm soup.",
+      "words": [
+        {
+          "w": "شَرِبَتْ",
+          "root": "ش ر ب",
+          "bs": "popila je",
+          "en": "drank"
+        },
+        {
+          "w": "شَايًا",
+          "root": "ش ي ي",
+          "bs": "čaj",
+          "en": "tea"
+        },
+        {
+          "w": "سَاخِنًا",
+          "root": "س خ ن",
+          "bs": "vruć",
+          "en": "hot"
+        },
+        {
+          "w": "حَسَاءً",
+          "root": "ح س و",
+          "bs": "supa",
+          "en": "soup"
+        },
+        {
+          "w": "دَافِئًا",
+          "root": "د ف أ",
+          "bs": "topla",
+          "en": "warm"
+        }
+      ]
     },
     {
       "arabic": "فِي الْيَوْمِ التَّالِي شَعَرَتْ بِتَحَسُّنٍ وَعَادَتِ الْبَسْمَةُ إِلَى وَجْهِهَا.",
       "translation": "Sljedećeg dana se osjetila bolje i osmijeh se vratio na njezino lice.",
-      "translationEn": "The next day she felt better and the smile returned to her face."
+      "translationEn": "The next day she felt better and the smile returned to her face.",
+      "words": [
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjetila se",
+          "en": "felt"
+        },
+        {
+          "w": "بِتَحَسُّنٍ",
+          "root": "ح س ن",
+          "bs": "bolje",
+          "en": "better"
+        },
+        {
+          "w": "الْبَسْمَةُ",
+          "root": "ب س م",
+          "bs": "osmijeh",
+          "en": "smile"
+        },
+        {
+          "w": "وَجْهِهَا",
+          "root": "و ج ه",
+          "bs": "lice",
+          "en": "face"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cold", "rest", "tea", "home remedy"]
+    "tags": [
+      "cold",
+      "rest",
+      "tea",
+      "home remedy"
+    ]
   }
 }

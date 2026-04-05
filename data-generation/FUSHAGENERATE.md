@@ -32,6 +32,29 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
 
 ### Item JSON structure
 
+**B2, C1, C2** — standard format:
+
+```json
+{
+  "id": "travel-b2-011",
+  "category": "travel",
+  "level": "B2",
+  "sentences": [
+    {
+      "arabic": "الْجُمْلَةُ الْأُولَى بِالشَّكْلِ الْكَامِلِ.",
+      "translation": "Prva rečenica na bosanskom.",
+      "translationEn": "First sentence in English."
+    }
+  ],
+  "metadata": {
+    "difficulty": 2,
+    "tags": ["tag1", "tag2"]
+  }
+}
+```
+
+**B1 only** — include `words` array per sentence for word-tap feature:
+
 ```json
 {
   "id": "travel-b1-011",
@@ -39,14 +62,15 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
   "level": "B1",
   "sentences": [
     {
-      "arabic": "الْجُمْلَةُ الْأُولَى بِالشَّكْلِ الْكَامِلِ.",
-      "translation": "Prva rečenica na bosanskom.",
-      "translationEn": "First sentence in English."
-    },
-    {
-      "arabic": "الْجُمْلَةُ الثَّانِيَةُ بِالشَّكْلِ الْكَامِلِ.",
-      "translation": "Druga rečenica na bosanskom.",
-      "translationEn": "Second sentence in English."
+      "arabic": "ذَهَبَتِ الْعَائِلَةُ إِلَى الْمَطَارِ فِي الصَّبَاحِ.",
+      "translation": "Porodica je otišla na aerodrom ujutro.",
+      "translationEn": "The family went to the airport in the morning.",
+      "words": [
+        { "w": "ذَهَبَتِ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     }
   ],
   "metadata": {
@@ -55,6 +79,16 @@ After writing all files, update `public/data/{category}/{level}/index.json`.
   }
 }
 ```
+
+**`words` array rules for B1:**
+- Include only **content words**: nouns, verbs, adjectives, adverbs
+- **Skip** function words: فِي، عَلَى، مِنْ، إِلَى، وَ، فَ، بِ، لِ، أَنْ، إِنَّ، هُوَ، هِيَ، هَذَا، هَذِهِ، ذَلِكَ، كَانَ (as copula), لَا، لَمْ، قَدْ، etc.
+- **Skip** proper nouns (names: أَحْمَدُ، مَرْيَمُ، الْقَاهِرَةُ, etc.)
+- `w` = the **exact vocalized form** as it appears in the sentence (including case ending)
+- `root` = three-letter Arabic root with spaces between letters, e.g. `"ك ت ب"` — omit if the word has no clear trilateral root (e.g. borrowed words)
+- `bs` = natural Bosnian meaning in context (not dictionary form — match the sentence meaning)
+- `en` = natural English meaning in context
+- Aim for 3–6 annotated words per sentence (skip very obvious words if sentence has many)
 
 ### Index JSON structure
 

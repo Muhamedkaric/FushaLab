@@ -6,26 +6,128 @@
     {
       "arabic": "جَاءَ الصَّيْفُ وَارْتَفَعَتِ الْحَرَارَةُ فِي الْمَدِينَةِ.",
       "translation": "Ljeto je stiglo i temperatura je porasla u gradu.",
-      "translationEn": "Summer came and temperatures rose in the city."
+      "translationEn": "Summer came and temperatures rose in the city.",
+      "words": [
+        {
+          "w": "الصَّيْفُ",
+          "root": "ص ي ف",
+          "bs": "ljeto",
+          "en": "summer"
+        },
+        {
+          "w": "ارْتَفَعَتِ",
+          "root": "ر ف ع",
+          "bs": "porasla je",
+          "en": "rose"
+        },
+        {
+          "w": "الْحَرَارَةُ",
+          "root": "ح ر ر",
+          "bs": "temperatura",
+          "en": "temperature"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "م د ن",
+          "bs": "gradu",
+          "en": "city"
+        }
+      ]
     },
     {
       "arabic": "أَوْصَتِ السُّلُطَاتُ النَّاسَ بِشُرْبِ الْمَاءِ كَثِيرًا.",
       "translation": "Vlasti su savjetovale ljude da piju puno vode.",
-      "translationEn": "Authorities advised people to drink a lot of water."
+      "translationEn": "Authorities advised people to drink a lot of water.",
+      "words": [
+        {
+          "w": "أَوْصَتِ",
+          "root": "و ص ي",
+          "bs": "savjetovale su",
+          "en": "advised"
+        },
+        {
+          "w": "السُّلُطَاتُ",
+          "root": "س ل ط",
+          "bs": "vlasti",
+          "en": "authorities"
+        },
+        {
+          "w": "بِشُرْبِ",
+          "root": "ش ر ب",
+          "bs": "pijenje",
+          "en": "drinking"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "vode",
+          "en": "water"
+        }
+      ]
     },
     {
       "arabic": "تَوَجَّهَ كَثِيرٌ مِنَ النَّاسِ إِلَى الشَّاطِئِ لِلسِّبَاحَةِ.",
       "translation": "Mnogi ljudi su otišli na plažu da plivaju.",
-      "translationEn": "Many people headed to the beach for swimming."
+      "translationEn": "Many people headed to the beach for swimming.",
+      "words": [
+        {
+          "w": "تَوَجَّهَ",
+          "root": "و ج ه",
+          "bs": "uputio se",
+          "en": "headed"
+        },
+        {
+          "w": "الشَّاطِئِ",
+          "root": "ش ط أ",
+          "bs": "plažu",
+          "en": "beach"
+        },
+        {
+          "w": "لِلسِّبَاحَةِ",
+          "root": "س ب ح",
+          "bs": "plivanje",
+          "en": "swimming"
+        }
+      ]
     },
     {
       "arabic": "نَبَّهَتِ الْجِهَاتُ الصِّحِّيَّةُ مِنَ التَّعَرُّضِ لِلشَّمْسِ طَوِيلًا.",
       "translation": "Zdravstvene vlasti upozorile su na dugo izlaganje suncu.",
-      "translationEn": "Health authorities warned against prolonged sun exposure."
+      "translationEn": "Health authorities warned against prolonged sun exposure.",
+      "words": [
+        {
+          "w": "نَبَّهَتِ",
+          "root": "ن ب ه",
+          "bs": "upozorile su",
+          "en": "warned"
+        },
+        {
+          "w": "الْجِهَاتُ الصِّحِّيَّةُ",
+          "root": "ص ح ح",
+          "bs": "zdravstvene vlasti",
+          "en": "health authorities"
+        },
+        {
+          "w": "التَّعَرُّضِ",
+          "root": "ع ر ض",
+          "bs": "izlaganje",
+          "en": "exposure"
+        },
+        {
+          "w": "لِلشَّمْسِ",
+          "root": "ش م س",
+          "bs": "suncu",
+          "en": "sun"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["summer", "weather", "health"]
+    "tags": [
+      "summer",
+      "weather",
+      "health"
+    ]
   }
 }

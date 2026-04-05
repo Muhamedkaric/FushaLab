@@ -6,26 +6,116 @@
     {
       "arabic": "أَطْلَقَتِ الْمَدِينَةُ خَطًّا جَدِيدًا لِلْحَافِلَاتِ.",
       "translation": "Grad je uveo novu autobusku liniju.",
-      "translationEn": "The city launched a new bus line."
+      "translationEn": "The city launched a new bus line.",
+      "words": [
+        {
+          "w": "أَطْلَقَتِ",
+          "root": "ط ل ق",
+          "bs": "pokrenuo je",
+          "en": "launched"
+        },
+        {
+          "w": "الْمَدِينَةُ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city"
+        },
+        {
+          "w": "خَطًّا",
+          "root": "خ ط ط",
+          "bs": "liniju",
+          "en": "line"
+        },
+        {
+          "w": "لِلْحَافِلَاتِ",
+          "root": "ح ف ل",
+          "bs": "autobusa",
+          "en": "buses"
+        }
+      ]
     },
     {
       "arabic": "يَرْبِطُ الْخَطُّ الْجَدِيدُ الْأَحْيَاءَ الْبَعِيدَةَ بِالْمَرْكَزِ.",
       "translation": "Nova linija povezuje udaljene kvartove s centrom.",
-      "translationEn": "The new line connects distant neighborhoods to the center."
+      "translationEn": "The new line connects distant neighborhoods to the center.",
+      "words": [
+        {
+          "w": "يَرْبِطُ",
+          "root": "ر ب ط",
+          "bs": "povezuje",
+          "en": "connects"
+        },
+        {
+          "w": "الْأَحْيَاءَ",
+          "root": "ح ي ي",
+          "bs": "kvartove",
+          "en": "neighborhoods"
+        },
+        {
+          "w": "الْبَعِيدَةَ",
+          "root": "ب ع د",
+          "bs": "udaljene",
+          "en": "distant"
+        },
+        {
+          "w": "الْمَرْكَزِ",
+          "root": "ر ك ز",
+          "bs": "centrom",
+          "en": "center"
+        }
+      ]
     },
     {
       "arabic": "تَتَوَقَّفُ الْحَافِلَةُ عِنْدَ عَشَرَةِ مَحَطَّاتٍ فِي الطَّرِيقِ.",
       "translation": "Autobus staje na deset stanica na putu.",
-      "translationEn": "The bus stops at ten stations along the way."
+      "translationEn": "The bus stops at ten stations along the way.",
+      "words": [
+        {
+          "w": "الْحَافِلَةُ",
+          "root": "ح ف ل",
+          "bs": "autobus",
+          "en": "bus"
+        },
+        {
+          "w": "مَحَطَّاتٍ",
+          "root": "ح ط ط",
+          "bs": "stanica",
+          "en": "stations"
+        }
+      ]
     },
     {
       "arabic": "سَعِدَ السُّكَّانُ بِهَذَا الْخَطِّ الْجَدِيدِ كَثِيرًا.",
       "translation": "Stanovnici su se jako obradovali ovoj novoj liniji.",
-      "translationEn": "The residents were very pleased with this new line."
+      "translationEn": "The residents were very pleased with this new line.",
+      "words": [
+        {
+          "w": "سَعِدَ",
+          "root": "س ع د",
+          "bs": "obradovao se",
+          "en": "was pleased"
+        },
+        {
+          "w": "السُّكَّانُ",
+          "root": "س ك ن",
+          "bs": "stanovnici",
+          "en": "residents"
+        },
+        {
+          "w": "الْخَطِّ",
+          "root": "خ ط ط",
+          "bs": "linijom",
+          "en": "line"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["transport", "city", "bus"]
+    "tags": [
+      "transport",
+      "city",
+      "bus"
+    ]
   }
 }

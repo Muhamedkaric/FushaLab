@@ -6,22 +6,126 @@
     {
       "arabic": "أَعْطَى الْأَبُ ابْنَهُ هَاتِفًا جَدِيدًا.",
       "translation": "Otac je dao sinu novi telefon.",
-      "translationEn": "The father gave his son a new phone."
+      "translationEn": "The father gave his son a new phone.",
+      "words": [
+        {
+          "w": "أَعْطَى",
+          "root": "ع ط و",
+          "bs": "dao je",
+          "en": "gave"
+        },
+        {
+          "w": "الْأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "the father"
+        },
+        {
+          "w": "ابْنَهُ",
+          "root": "ب ن و",
+          "bs": "sinu",
+          "en": "his son"
+        },
+        {
+          "w": "هَاتِفًا",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "a phone"
+        },
+        {
+          "w": "جَدِيدًا",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new"
+        }
+      ]
     },
     {
       "arabic": "فَرِحَ الْوَلَدُ وَشَكَرَ أَبَاهُ كَثِيرًا.",
       "translation": "Dječak se obradovao i puno zahvalio ocu.",
-      "translationEn": "The boy was happy and thanked his father a lot."
+      "translationEn": "The boy was happy and thanked his father a lot.",
+      "words": [
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovao se",
+          "en": "was happy"
+        },
+        {
+          "w": "الْوَلَدُ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "the boy"
+        },
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked"
+        },
+        {
+          "w": "أَبَاهُ",
+          "root": "أ ب و",
+          "bs": "oca",
+          "en": "his father"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الْأَبُ: اسْتَخْدِمْهُ بِحِكْمَةٍ وَلَا تُكْثِرْ مِنَ الشَّاشَةِ.",
       "translation": "Otac je rekao: Koristi ga mudro i nemoj previše gledati u ekran.",
-      "translationEn": "The father said: Use it wisely and don't spend too much time on the screen."
+      "translationEn": "The father said: Use it wisely and don't spend too much time on the screen.",
+      "words": [
+        {
+          "w": "اسْتَخْدِمْهُ",
+          "root": "خ د م",
+          "bs": "koristi ga",
+          "en": "use it"
+        },
+        {
+          "w": "بِحِكْمَةٍ",
+          "root": "ح ك م",
+          "bs": "mudro",
+          "en": "wisely"
+        },
+        {
+          "w": "تُكْثِرْ",
+          "root": "ك ث ر",
+          "bs": "previše",
+          "en": "too much"
+        },
+        {
+          "w": "الشَّاشَةِ",
+          "root": "ش و ش",
+          "bs": "ekrana",
+          "en": "the screen"
+        }
+      ]
     },
     {
       "arabic": "وَافَقَ الْوَلَدُ وَوَعَدَ بِذَلِكَ.",
       "translation": "Dječak se složio i obećao to.",
-      "translationEn": "The boy agreed and promised to do so."
+      "translationEn": "The boy agreed and promised to do so.",
+      "words": [
+        {
+          "w": "وَافَقَ",
+          "root": "و ف ق",
+          "bs": "složio se",
+          "en": "agreed"
+        },
+        {
+          "w": "الْوَلَدُ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "the boy"
+        },
+        {
+          "w": "وَعَدَ",
+          "root": "و ع د",
+          "bs": "obećao je",
+          "en": "promised"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,26 +6,134 @@
     {
       "arabic": "جَلَسَتْ نُورَةُ أَمَامَ طَاوِلَتِهَا وَأَخَذَتِ القَلَمَ.",
       "translation": "Nura je sjela za sto i uzela olovku.",
-      "translationEn": "Noura sat at her desk and picked up the pen."
+      "translationEn": "Noura sat at her desk and picked up the pen.",
+      "words": [
+        {
+          "w": "جَلَسَتْ",
+          "root": "ج ل س",
+          "bs": "sjela",
+          "en": "sat"
+        },
+        {
+          "w": "طَاوِلَتِهَا",
+          "root": "ط و ل",
+          "bs": "njen sto",
+          "en": "her desk"
+        },
+        {
+          "w": "أَخَذَتِ",
+          "root": "أ خ ذ",
+          "bs": "uzela",
+          "en": "picked up"
+        },
+        {
+          "w": "القَلَمَ",
+          "root": "ق ل م",
+          "bs": "olovka",
+          "en": "pen"
+        }
+      ]
     },
     {
       "arabic": "كَتَبَتِ اسْمَهَا عَلَى وَرَقَةِ الاِمْتِحَانِ.",
       "translation": "Napisala je svoje ime na listu za ispit.",
-      "translationEn": "She wrote her name on the exam paper."
+      "translationEn": "She wrote her name on the exam paper.",
+      "words": [
+        {
+          "w": "كَتَبَتِ",
+          "root": "ك ت ب",
+          "bs": "napisala",
+          "en": "wrote"
+        },
+        {
+          "w": "اسْمَهَا",
+          "root": "س م و",
+          "bs": "njeno ime",
+          "en": "her name"
+        },
+        {
+          "w": "وَرَقَةِ",
+          "root": "و ر ق",
+          "bs": "list/papir",
+          "en": "paper"
+        },
+        {
+          "w": "الاِمْتِحَانِ",
+          "root": "م ح ن",
+          "bs": "ispit",
+          "en": "exam"
+        }
+      ]
     },
     {
       "arabic": "قَرَأَتِ الأَسْئِلَةَ بِعِنَايَةٍ قَبْلَ الإِجَابَةِ.",
       "translation": "Pažljivo je pročitala pitanja prije odgovaranja.",
-      "translationEn": "She carefully read the questions before answering."
+      "translationEn": "She carefully read the questions before answering.",
+      "words": [
+        {
+          "w": "قَرَأَتِ",
+          "root": "ق ر أ",
+          "bs": "pročitala",
+          "en": "read"
+        },
+        {
+          "w": "الأَسْئِلَةَ",
+          "root": "س أ ل",
+          "bs": "pitanja",
+          "en": "questions"
+        },
+        {
+          "w": "بِعِنَايَةٍ",
+          "root": "ع ن ي",
+          "bs": "pažljivo",
+          "en": "carefully"
+        },
+        {
+          "w": "الإِجَابَةِ",
+          "root": "ج و ب",
+          "bs": "odgovaranje",
+          "en": "answering"
+        }
+      ]
     },
     {
       "arabic": "أَنْهَتِ الاِمْتِحَانَ قَبْلَ نِهَايَةِ الوَقْتِ.",
       "translation": "Završila je ispit prije isteka vremena.",
-      "translationEn": "She finished the exam before the time was up."
+      "translationEn": "She finished the exam before the time was up.",
+      "words": [
+        {
+          "w": "أَنْهَتِ",
+          "root": "ن ه ي",
+          "bs": "završila",
+          "en": "finished"
+        },
+        {
+          "w": "الاِمْتِحَانَ",
+          "root": "م ح ن",
+          "bs": "ispit",
+          "en": "exam"
+        },
+        {
+          "w": "نِهَايَةِ",
+          "root": "ن ه ي",
+          "bs": "kraj",
+          "en": "end"
+        },
+        {
+          "w": "الوَقْتِ",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "time"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["exam", "writing", "student"]
+    "tags": [
+      "exam",
+      "writing",
+      "student"
+    ]
   }
 }

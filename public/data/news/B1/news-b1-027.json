@@ -6,26 +6,133 @@
     {
       "arabic": "أَجْرَى الطَّبِيبُ فَحْصًا طِبِّيًّا مَجَّانِيًّا لِأَبْنَاءِ الْحَيِّ.",
       "translation": "Ljekar je obavio besplatni zdravstveni pregled za mještane.",
-      "translationEn": "The doctor held a free medical checkup for neighborhood residents."
+      "translationEn": "The doctor held a free medical checkup for neighborhood residents.",
+      "words": [
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "فَحْصًا",
+          "root": "ف ح ص",
+          "bs": "pregled",
+          "en": "checkup"
+        },
+        {
+          "w": "طِبِّيًّا",
+          "root": "ط ب ب",
+          "bs": "zdravstveni",
+          "en": "medical"
+        },
+        {
+          "w": "مَجَّانِيًّا",
+          "bs": "besplatni",
+          "en": "free"
+        }
+      ]
     },
     {
       "arabic": "جَاءَ كَثِيرٌ مِنَ الْكِبَارِ وَالصِّغَارِ لِلْفَحْصِ.",
       "translation": "Mnogi stariji i mlađi su došli na pregled.",
-      "translationEn": "Many adults and children came for the checkup."
+      "translationEn": "Many adults and children came for the checkup.",
+      "words": [
+        {
+          "w": "الْكِبَارِ",
+          "root": "ك ب ر",
+          "bs": "stariji",
+          "en": "adults"
+        },
+        {
+          "w": "الصِّغَارِ",
+          "root": "ص غ ر",
+          "bs": "mlađi",
+          "en": "children"
+        },
+        {
+          "w": "لِلْفَحْصِ",
+          "root": "ف ح ص",
+          "bs": "na pregled",
+          "en": "for the checkup"
+        }
+      ]
     },
     {
       "arabic": "نَصَحَ الطَّبِيبُ النَّاسَ بِالأَكْلِ الصِّحِّيِّ وَالرِّيَاضَةِ.",
       "translation": "Ljekar je savjetovao ljude da jedu zdravo i vježbaju.",
-      "translationEn": "The doctor advised people to eat healthy and exercise."
+      "translationEn": "The doctor advised people to eat healthy and exercise.",
+      "words": [
+        {
+          "w": "نَصَحَ",
+          "root": "ن ص ح",
+          "bs": "savjetovao je",
+          "en": "advised"
+        },
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "الأَكْلِ",
+          "root": "أ ك ل",
+          "bs": "hrani",
+          "en": "eating"
+        },
+        {
+          "w": "الصِّحِّيِّ",
+          "root": "ص ح ح",
+          "bs": "zdravoj",
+          "en": "healthy"
+        },
+        {
+          "w": "الرِّيَاضَةِ",
+          "root": "ر ي ض",
+          "bs": "sportu",
+          "en": "exercise"
+        }
+      ]
     },
     {
       "arabic": "شَكَرَ النَّاسُ الطَّبِيبَ عَلَى تَفَانِيهِ وَخِدْمَتِهِ.",
       "translation": "Ljudi su zahvalili ljekaru na predanosti i usluzi.",
-      "translationEn": "People thanked the doctor for his dedication and service."
+      "translationEn": "People thanked the doctor for his dedication and service.",
+      "words": [
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalili su",
+          "en": "thanked"
+        },
+        {
+          "w": "الطَّبِيبَ",
+          "root": "ط ب ب",
+          "bs": "ljekaru",
+          "en": "doctor"
+        },
+        {
+          "w": "تَفَانِيهِ",
+          "root": "ف ن ي",
+          "bs": "predanosti",
+          "en": "dedication"
+        },
+        {
+          "w": "خِدْمَتِهِ",
+          "root": "خ د م",
+          "bs": "usluzi",
+          "en": "service"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["health", "doctor", "community"]
+    "tags": [
+      "health",
+      "doctor",
+      "community"
+    ]
   }
 }

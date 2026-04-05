@@ -6,27 +6,59 @@
     {
       "arabic": "النَّخْلَةُ شَجَرَةٌ مُهِمَّةٌ فِي البِيئَةِ العَرَبِيَّةِ.",
       "translation": "Palma je važno drvo u arapskom okruženju.",
-      "translationEn": "The palm tree is an important tree in the Arab environment."
+      "translationEn": "The palm tree is an important tree in the Arab environment.",
+      "words": [
+        { "w": "النَّخْلَةُ", "root": "ن خ ل", "bs": "palma", "en": "palm tree" },
+        { "w": "شَجَرَةٌ", "root": "ش ج ر", "bs": "drvo", "en": "tree" },
+        { "w": "مُهِمَّةٌ", "root": "هـ م م", "bs": "važno", "en": "important" },
+        { "w": "البِيئَةِ", "root": "ب و أ", "bs": "okruženju", "en": "environment" }
+      ]
     },
     {
       "arabic": "تُنْتِجُ النَّخْلَةُ التَّمْرَ الحَلْوَ وَاللَّذِيذَ.",
       "translation": "Palma daje slatke i ukusne hurme.",
-      "translationEn": "The palm tree produces sweet and delicious dates."
+      "translationEn": "The palm tree produces sweet and delicious dates.",
+      "words": [
+        { "w": "تُنْتِجُ", "root": "ن ت ج", "bs": "daje", "en": "produces" },
+        { "w": "النَّخْلَةُ", "root": "ن خ ل", "bs": "palma", "en": "palm tree" },
+        { "w": "التَّمْرَ", "root": "ت م ر", "bs": "hurme", "en": "dates" },
+        { "w": "الحَلْوَ", "root": "ح ل و", "bs": "slatke", "en": "sweet" },
+        { "w": "اللَّذِيذَ", "root": "ل ذ ذ", "bs": "ukusne", "en": "delicious" }
+      ]
     },
     {
       "arabic": "يَزْرَعُ الفَلَّاحُ النَّخِيلَ فِي الوَاحَاتِ.",
       "translation": "Seljak uzgaja palme u oazama.",
-      "translationEn": "The farmer grows palm trees in oases."
+      "translationEn": "The farmer grows palm trees in oases.",
+      "words": [
+        { "w": "يَزْرَعُ", "root": "ز ر ع", "bs": "uzgaja", "en": "grows" },
+        { "w": "الفَلَّاحُ", "root": "ف ل ح", "bs": "seljak", "en": "farmer" },
+        { "w": "النَّخِيلَ", "root": "ن خ ل", "bs": "palme", "en": "palm trees" },
+        { "w": "الوَاحَاتِ", "root": "و ح ي", "bs": "oazama", "en": "oases" }
+      ]
     },
     {
       "arabic": "النَّخِيلُ يُعْطِي ظِلًّا فِي الصَّحْرَاءِ الحَارَّةِ.",
       "translation": "Palme daju hlad u vrućoj pustinji.",
-      "translationEn": "Palm trees provide shade in the hot desert."
+      "translationEn": "Palm trees provide shade in the hot desert.",
+      "words": [
+        { "w": "النَّخِيلُ", "root": "ن خ ل", "bs": "palme", "en": "palm trees" },
+        { "w": "يُعْطِي", "root": "ع ط و", "bs": "daju", "en": "provide" },
+        { "w": "ظِلًّا", "root": "ظ ل ل", "bs": "hlad", "en": "shade" },
+        { "w": "الصَّحْرَاءِ", "root": "ص ح ر", "bs": "pustinji", "en": "desert" },
+        { "w": "الحَارَّةِ", "root": "ح ر ر", "bs": "vrućoj", "en": "hot" }
+      ]
     },
     {
       "arabic": "النَّخْلَةُ رَمْزٌ لِلخَيْرِ وَالعَطَاءِ.",
       "translation": "Palma je simbol dobrote i darežljivosti.",
-      "translationEn": "The palm tree is a symbol of goodness and giving."
+      "translationEn": "The palm tree is a symbol of goodness and giving.",
+      "words": [
+        { "w": "النَّخْلَةُ", "root": "ن خ ل", "bs": "palma", "en": "palm tree" },
+        { "w": "رَمْزٌ", "root": "ر م ز", "bs": "simbol", "en": "symbol" },
+        { "w": "الخَيْرِ", "root": "خ ي ر", "bs": "dobrote", "en": "goodness" },
+        { "w": "العَطَاءِ", "root": "ع ط و", "bs": "darežljivosti", "en": "giving" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,48 @@
     {
       "arabic": "ذَهَبَتِ الْعَائِلَةُ إِلَى مَطْعَمٍ لِلِاحْتِفَالِ.",
       "translation": "Porodica je otišla u restoran da proslavi.",
-      "translationEn": "The family went to a restaurant to celebrate."
+      "translationEn": "The family went to a restaurant to celebrate.",
+      "words": [
+        { "w": "ذَهَبَتِ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "مَطْعَمٍ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
+        { "w": "لِلِاحْتِفَالِ", "root": "ح ف ل", "bs": "proslava/slavlje", "en": "celebration" }
+      ]
     },
     {
       "arabic": "طَلَبُوا طَعَامًا كَثِيرًا وَعَصِيرًا وَحَلَوِيَّاتٍ.",
       "translation": "Naručili su mnogo hrane, sok i slatkiše.",
-      "translationEn": "They ordered a lot of food, juice, and sweets."
+      "translationEn": "They ordered a lot of food, juice, and sweets.",
+      "words": [
+        { "w": "طَلَبُوا", "root": "ط ل ب", "bs": "naručili su", "en": "ordered" },
+        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "mnogo/puno", "en": "a lot" },
+        { "w": "عَصِيرًا", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "حَلَوِيَّاتٍ", "root": "ح ل و", "bs": "slatkiše/deserti", "en": "sweets/desserts" }
+      ]
     },
     {
       "arabic": "غَنَّى النَّادِلُ أُغْنِيَةَ عِيدِ الْمِيلَادِ لِلطِّفْلِ.",
       "translation": "Konobar je zapjevao pjesmu za dječakov rođendan.",
-      "translationEn": "The waiter sang a birthday song for the child."
+      "translationEn": "The waiter sang a birthday song for the child.",
+      "words": [
+        { "w": "غَنَّى", "root": "غ ن و", "bs": "zapjevao je/pjevao", "en": "sang" },
+        { "w": "النَّادِلُ", "root": "ن د ل", "bs": "konobar", "en": "waiter" },
+        { "w": "أُغْنِيَةَ", "root": "غ ن و", "bs": "pjesma/himna", "en": "song" },
+        { "w": "عِيدِ", "root": "ع و د", "bs": "praznik/dan", "en": "feast/day" },
+        { "w": "الْمِيلَادِ", "root": "و ل د", "bs": "rođendan/rođenje", "en": "birthday/birth" }
+      ]
     },
     {
       "arabic": "ضَحِكَ الطِّفْلُ وَكَانَ سَعِيدًا جِدًّا.",
       "translation": "Dijete se nasmijalo i bilo veoma sretno.",
-      "translationEn": "The child laughed and was very happy."
+      "translationEn": "The child laughed and was very happy.",
+      "words": [
+        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijalo se/smijao", "en": "laughed" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "سَعِيدًا", "root": "س ع د", "bs": "sretno/sretan", "en": "happy" },
+        { "w": "جِدًّا", "root": "ج د د", "bs": "veoma/jako", "en": "very" }
+      ]
     }
   ],
   "metadata": {

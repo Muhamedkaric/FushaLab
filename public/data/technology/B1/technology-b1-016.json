@@ -6,22 +6,107 @@
     {
       "arabic": "نَسِيَ فَهْدٌ كَلِمَةَ الْمُرُورِ الْخَاصَّةَ بِهِ.",
       "translation": "Fahd je zaboravio svoju lozinku.",
-      "translationEn": "Fahd forgot his password."
+      "translationEn": "Fahd forgot his password.",
+      "words": [
+        {
+          "w": "نَسِيَ",
+          "root": "ن س ي",
+          "bs": "zaboravio je",
+          "en": "forgot"
+        },
+        {
+          "w": "كَلِمَةَ الْمُرُورِ",
+          "root": "م ر ر",
+          "bs": "lozinku",
+          "en": "the password"
+        }
+      ]
     },
     {
       "arabic": "ضَغَطَ عَلَى نَسِيتُ كَلِمَةَ الْمُرُورِ.",
       "translation": "Kliknuo je na zaboravio sam lozinku.",
-      "translationEn": "He clicked on 'forgot password'."
+      "translationEn": "He clicked on 'forgot password'.",
+      "words": [
+        {
+          "w": "ضَغَطَ",
+          "root": "ض غ ط",
+          "bs": "kliknuo je",
+          "en": "clicked"
+        },
+        {
+          "w": "نَسِيتُ",
+          "root": "ن س ي",
+          "bs": "zaboravio sam",
+          "en": "forgot"
+        },
+        {
+          "w": "كَلِمَةَ الْمُرُورِ",
+          "root": "م ر ر",
+          "bs": "lozinku",
+          "en": "password"
+        }
+      ]
     },
     {
       "arabic": "أَرْسَلَ التَّطْبِيقُ رِسَالَةً إِلَى بَرِيدِهِ الْإِلِكْتِرُونِيِّ.",
       "translation": "Aplikacija je poslala poruku na njegovu e-poštu.",
-      "translationEn": "The app sent a message to his email."
+      "translationEn": "The app sent a message to his email.",
+      "words": [
+        {
+          "w": "أَرْسَلَ",
+          "root": "ر س ل",
+          "bs": "poslao je",
+          "en": "sent"
+        },
+        {
+          "w": "التَّطْبِيقُ",
+          "root": "ط ب ق",
+          "bs": "aplikacija",
+          "en": "the app"
+        },
+        {
+          "w": "رِسَالَةً",
+          "root": "ر س ل",
+          "bs": "poruku",
+          "en": "a message"
+        },
+        {
+          "w": "بَرِيدِهِ الْإِلِكْتِرُونِيِّ",
+          "bs": "e-poštu",
+          "en": "his email"
+        }
+      ]
     },
     {
       "arabic": "فَتَحَ الرِّسَالَةَ وَغَيَّرَ كَلِمَةَ الْمُرُورِ.",
       "translation": "Otvorio je poruku i promijenio lozinku.",
-      "translationEn": "He opened the message and changed his password."
+      "translationEn": "He opened the message and changed his password.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "الرِّسَالَةَ",
+          "root": "ر س ل",
+          "bs": "poruku",
+          "en": "the message"
+        },
+        {
+          "w": "غَيَّرَ",
+          "root": "غ ي ر",
+          "bs": "promijenio je",
+          "en": "changed"
+        },
+        {
+          "w": "كَلِمَةَ الْمُرُورِ",
+          "root": "م ر ر",
+          "bs": "lozinku",
+          "en": "the password"
+        }
+      ]
     }
   ],
   "metadata": {

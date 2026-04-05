@@ -6,27 +6,55 @@
     {
       "arabic": "سَمِعَتْ لَيْلَى صَوْتًا غَرِيبًا فِي اللَّيْلِ.",
       "translation": "Leila je čula čudan zvuk noću.",
-      "translationEn": "Layla heard a strange sound in the night."
+      "translationEn": "Layla heard a strange sound in the night.",
+      "words": [
+        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "čula je", "en": "she heard" },
+        { "w": "صَوْتًا", "root": "ص و ت", "bs": "zvuk", "en": "sound" },
+        { "w": "غَرِيبًا", "root": "غ ر ب", "bs": "čudan", "en": "strange" },
+        { "w": "اللَّيْلِ", "root": "ل ي ل", "bs": "noći", "en": "night" }
+      ]
     },
     {
       "arabic": "كَانَ الصَّوْتُ يَأْتِي مِنَ الْمَطْبَخِ.",
       "translation": "Zvuk je dolazio iz kuhinje.",
-      "translationEn": "The sound was coming from the kitchen."
+      "translationEn": "The sound was coming from the kitchen.",
+      "words": [
+        { "w": "الصَّوْتُ", "root": "ص و ت", "bs": "zvuk", "en": "the sound" },
+        { "w": "يَأْتِي", "root": "أ ت ي", "bs": "dolazi", "en": "was coming" },
+        { "w": "الْمَطْبَخِ", "root": "ط ب خ", "bs": "kuhinje", "en": "kitchen" }
+      ]
     },
     {
       "arabic": "قَامَتْ مِنَ الْفِرَاشِ وَمَشَتْ بِهُدُوءٍ.",
       "translation": "Ustala je iz kreveta i tiho hodala.",
-      "translationEn": "She got up from the bed and walked quietly."
+      "translationEn": "She got up from the bed and walked quietly.",
+      "words": [
+        { "w": "قَامَتْ", "root": "ق و م", "bs": "ustala je", "en": "she got up" },
+        { "w": "الْفِرَاشِ", "root": "ف ر ش", "bs": "kreveta", "en": "bed" },
+        { "w": "مَشَتْ", "root": "م ش ي", "bs": "hodala je", "en": "she walked" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "tiho", "en": "quietly" }
+      ]
     },
     {
       "arabic": "فَتَحَتْ بَابَ الْمَطْبَخِ وَرَأَتِ الْقِطَّةَ عَلَى الطَّاوِلَةِ.",
       "translation": "Otvorila je vrata kuhinje i vidjela mačku na stolu.",
-      "translationEn": "She opened the kitchen door and saw the cat on the table."
+      "translationEn": "She opened the kitchen door and saw the cat on the table.",
+      "words": [
+        { "w": "فَتَحَتْ", "root": "ف ت ح", "bs": "otvorila je", "en": "she opened" },
+        { "w": "بَابَ", "root": "ب و ب", "bs": "vrata", "en": "door" },
+        { "w": "رَأَتِ", "root": "ر أ ي", "bs": "vidjela je", "en": "she saw" },
+        { "w": "الْقِطَّةَ", "root": "ق ط ط", "bs": "mačku", "en": "the cat" }
+      ]
     },
     {
       "arabic": "ضَحِكَتْ لَيْلَى وَأَخَذَتِ الْقِطَّةَ إِلَى غُرْفَتِهَا.",
       "translation": "Leila se nasmijala i odnijela mačku u svoju sobu.",
-      "translationEn": "Layla laughed and took the cat to her room."
+      "translationEn": "Layla laughed and took the cat to her room.",
+      "words": [
+        { "w": "ضَحِكَتْ", "root": "ض ح ك", "bs": "nasmijala se", "en": "she laughed" },
+        { "w": "أَخَذَتِ", "root": "أ خ ذ", "bs": "odnijela je", "en": "she took" },
+        { "w": "غُرْفَتِهَا", "root": "غ ر ف", "bs": "sobu", "en": "her room" }
+      ]
     }
   ],
   "metadata": {

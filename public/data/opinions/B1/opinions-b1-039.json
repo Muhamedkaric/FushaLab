@@ -6,22 +6,46 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ الْمَطَرَ نِعْمَةٌ يَجِبُ أَنْ نَشْكُرَ عَلَيْهَا.",
       "translation": "Smatram da je kiša blagodat za koju trebamo biti zahvalni.",
-      "translationEn": "I believe that rain is a blessing we should be grateful for."
+      "translationEn": "I believe that rain is a blessing we should be grateful for.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "الْمَطَرَ", "root": "م ط ر", "bs": "kiša", "en": "rain" },
+        { "w": "نِعْمَةٌ", "root": "ن ع م", "bs": "blagodat", "en": "blessing" },
+        { "w": "نَشْكُرَ", "root": "ش ك ر", "bs": "zahvalni smo", "en": "grateful" }
+      ]
     },
     {
       "arabic": "الْمَطَرُ يُسْقِي الزُّرُوعَ وَيُنَظِّفُ الْهَوَاءَ.",
       "translation": "Kiša zaliva usjeve i čisti zrak.",
-      "translationEn": "Rain waters the crops and cleans the air."
+      "translationEn": "Rain waters the crops and cleans the air.",
+      "words": [
+        { "w": "الْمَطَرُ", "root": "م ط ر", "bs": "kiša", "en": "rain" },
+        { "w": "يُسْقِي", "root": "س ق ي", "bs": "zaliva", "en": "waters" },
+        { "w": "الزُّرُوعَ", "root": "ز ر ع", "bs": "usjevi", "en": "crops" },
+        { "w": "يُنَظِّفُ", "root": "ن ظ ف", "bs": "čisti", "en": "cleans" }
+      ]
     },
     {
       "arabic": "أُحِبُّ أَنْ أَجْلِسَ وَأَسْمَعَ صَوْتَ الْمَطَرِ.",
       "translation": "Volim sjediti i slušati zvuk kiše.",
-      "translationEn": "I like to sit and listen to the sound of rain."
+      "translationEn": "I like to sit and listen to the sound of rain.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "أَجْلِسَ", "root": "ج ل س", "bs": "da sjedim", "en": "to sit" },
+        { "w": "أَسْمَعَ", "root": "س م ع", "bs": "da slušam", "en": "to listen" },
+        { "w": "صَوْتَ", "root": "ص و ت", "bs": "zvuk", "en": "sound" }
+      ]
     },
     {
       "arabic": "يَوْمُ الْمَطَرِ يَوْمٌ هَادِئٌ جَمِيلٌ لِلتَّأَمُّلِ.",
       "translation": "Kišni dan je miran i lijep dan za razmišljanje.",
-      "translationEn": "A rainy day is a calm beautiful day for reflection."
+      "translationEn": "A rainy day is a calm beautiful day for reflection.",
+      "words": [
+        { "w": "يَوْمُ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "الْمَطَرِ", "root": "م ط ر", "bs": "kiša", "en": "rain" },
+        { "w": "هَادِئٌ", "root": "ه د أ", "bs": "miran", "en": "calm" },
+        { "w": "التَّأَمُّلِ", "root": "أ م ل", "bs": "razmišljanje", "en": "reflection" }
+      ]
     }
   ],
   "metadata": {

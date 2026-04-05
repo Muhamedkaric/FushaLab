@@ -6,22 +6,47 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ الْعَائِلَةَ أَهَمُّ شَيْءٍ فِي الْحَيَاةِ.",
       "translation": "Smatram da je porodica najvažnija stvar u životu.",
-      "translationEn": "I believe that family is the most important thing in life."
+      "translationEn": "I believe that family is the most important thing in life.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "الْعَائِلَةَ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "أَهَمُّ", "root": "ه م م", "bs": "najvažnija", "en": "most important" },
+        { "w": "شَيْءٍ", "root": "ش ي أ", "bs": "stvar", "en": "thing" },
+        { "w": "الْحَيَاةِ", "root": "ح ي ي", "bs": "životu", "en": "life" }
+      ]
     },
     {
       "arabic": "حِينَ تَكُونُ مَعَ عَائِلَتِكَ تَشْعُرُ بِالْأَمَانِ.",
       "translation": "Kada si s porodicom, osjećaš se sigurno.",
-      "translationEn": "When you are with your family you feel safe."
+      "translationEn": "When you are with your family you feel safe.",
+      "words": [
+        { "w": "عَائِلَتِكَ", "root": "ع و ل", "bs": "porodicom", "en": "your family" },
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjećaš se", "en": "you feel" },
+        { "w": "بِالْأَمَانِ", "root": "أ م ن", "bs": "sigurno", "en": "safe" }
+      ]
     },
     {
       "arabic": "أُحِبُّ أَنْ نَجْتَمِعَ كُلَّ مَسَاءٍ عَلَى مَائِدَةِ الطَّعَامِ.",
       "translation": "Volim da se svake večeri okupimo za stolom za ručak.",
-      "translationEn": "I like us to gather every evening at the dinner table."
+      "translationEn": "I like us to gather every evening at the dinner table.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "نَجْتَمِعَ", "root": "ج م ع", "bs": "okupimo se", "en": "to gather" },
+        { "w": "مَسَاءٍ", "root": "م س و", "bs": "večeri", "en": "evening" },
+        { "w": "مَائِدَةِ", "root": "م أ د", "bs": "stolu", "en": "table" },
+        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "ručka", "en": "dinner" }
+      ]
     },
     {
       "arabic": "هَذِهِ اللَّحَظَاتُ الْبَسِيطَةُ هِيَ أَجْمَلُ ذِكْرَيَاتِنَا.",
       "translation": "Ovi jednostavni trenuci su naše najljepše uspomene.",
-      "translationEn": "These simple moments are our most beautiful memories."
+      "translationEn": "These simple moments are our most beautiful memories.",
+      "words": [
+        { "w": "اللَّحَظَاتُ", "root": "ل ح ظ", "bs": "trenuci", "en": "moments" },
+        { "w": "الْبَسِيطَةُ", "root": "ب س ط", "bs": "jednostavni", "en": "simple" },
+        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepše", "en": "most beautiful" },
+        { "w": "ذِكْرَيَاتِنَا", "root": "ذ ك ر", "bs": "uspomene", "en": "our memories" }
+      ]
     }
   ],
   "metadata": {

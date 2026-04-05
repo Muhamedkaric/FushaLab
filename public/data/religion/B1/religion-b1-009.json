@@ -6,22 +6,120 @@
     {
       "arabic": "أَدَّى حَامِدٌ الزَّكَاةَ فِي نِهَايَةِ السَّنَةِ.",
       "translation": "Hamid je platio zekat na kraju godine.",
-      "translationEn": "Hamid paid Zakat at the end of the year."
+      "translationEn": "Hamid paid Zakat at the end of the year.",
+      "words": [
+        {
+          "w": "أَدَّى",
+          "root": "أ د ي",
+          "bs": "platio je",
+          "en": "paid"
+        },
+        {
+          "w": "الزَّكَاةَ",
+          "root": "ز ك و",
+          "bs": "zekat",
+          "en": "Zakat"
+        },
+        {
+          "w": "نِهَايَةِ",
+          "root": "ن ه ي",
+          "bs": "kraju",
+          "en": "the end"
+        },
+        {
+          "w": "السَّنَةِ",
+          "root": "س ن و",
+          "bs": "godine",
+          "en": "the year"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَى جُزْءًا مِنْ مَالِهِ لِلْفُقَرَاءِ.",
       "translation": "Dao je dio svog imetka siromašnima.",
-      "translationEn": "He gave a portion of his money to the poor."
+      "translationEn": "He gave a portion of his money to the poor.",
+      "words": [
+        {
+          "w": "أَعْطَى",
+          "root": "ع ط و",
+          "bs": "dao je",
+          "en": "gave"
+        },
+        {
+          "w": "جُزْءًا",
+          "root": "ج ز أ",
+          "bs": "dio",
+          "en": "a portion"
+        },
+        {
+          "w": "مَالِهِ",
+          "root": "م و ل",
+          "bs": "imetka",
+          "en": "his money"
+        },
+        {
+          "w": "لِلْفُقَرَاءِ",
+          "root": "ف ق ر",
+          "bs": "siromašnima",
+          "en": "the poor"
+        }
+      ]
     },
     {
       "arabic": "شَعَرَ بِالرَّاحَةِ وَالسَّعَادَةِ بَعْدَ ذَلِكَ.",
       "translation": "Nakon toga osjetio je spokoj i sreću.",
-      "translationEn": "He felt peace and happiness after that."
+      "translationEn": "He felt peace and happiness after that.",
+      "words": [
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio je",
+          "en": "felt"
+        },
+        {
+          "w": "بِالرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "spokoj",
+          "en": "peace"
+        },
+        {
+          "w": "بِالسَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sreću",
+          "en": "happiness"
+        }
+      ]
     },
     {
       "arabic": "قَالَ: الزَّكَاةُ تُطَهِّرُ الْمَالَ وَتُبَارِكُ فِيهِ.",
       "translation": "Rekao je: Zekat čisti imetak i donosi bereket.",
-      "translationEn": "He said: Zakat purifies wealth and brings blessings to it."
+      "translationEn": "He said: Zakat purifies wealth and brings blessings to it.",
+      "words": [
+        {
+          "w": "الزَّكَاةُ",
+          "root": "ز ك و",
+          "bs": "zekat",
+          "en": "Zakat"
+        },
+        {
+          "w": "تُطَهِّرُ",
+          "root": "ط ه ر",
+          "bs": "čisti",
+          "en": "purifies"
+        },
+        {
+          "w": "الْمَالَ",
+          "root": "م و ل",
+          "bs": "imetak",
+          "en": "wealth"
+        },
+        {
+          "w": "تُبَارِكُ",
+          "root": "ب ر ك",
+          "bs": "blagoslivlja",
+          "en": "blesses"
+        }
+      ]
     }
   ],
   "metadata": {

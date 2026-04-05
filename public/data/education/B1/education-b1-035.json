@@ -6,22 +6,46 @@
     {
       "arabic": "فِي يَوْمِ الإِجَازَةِ بَقِيَ سُلَيْمَانُ فِي البَيْتِ.",
       "translation": "Na slobodan dan Sulejman je ostao kod kuće.",
-      "translationEn": "On the day off Suleiman stayed at home."
+      "translationEn": "On the day off Suleiman stayed at home.",
+      "words": [
+        { "w": "الإِجَازَةِ", "root": "ج و ز", "bs": "slobodan dan", "en": "day off" },
+        { "w": "بَقِيَ", "root": "ب ق ي", "bs": "ostao je", "en": "stayed" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+      ]
     },
     {
       "arabic": "رَاجَعَ دُرُوسَهُ وَقَرَأَ كِتَابًا جَدِيدًا.",
       "translation": "Ponovio je lekcije i pročitao novu knjigu.",
-      "translationEn": "He reviewed his lessons and read a new book."
+      "translationEn": "He reviewed his lessons and read a new book.",
+      "words": [
+        { "w": "رَاجَعَ", "root": "ر ج ع", "bs": "ponovio je", "en": "reviewed" },
+        { "w": "دُرُوسَهُ", "root": "د ر س", "bs": "njegove lekcije", "en": "his lessons" },
+        { "w": "قَرَأَ", "root": "ق ر أ", "bs": "pročitao je", "en": "read" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "جَدِيدًا", "root": "ج د د", "bs": "nova", "en": "new" }
+      ]
     },
     {
       "arabic": "كَتَبَ مُلَاحَظَاتٍ مُهِمَّةً فِي كُرَّاسَتِهِ.",
       "translation": "Zapisao je važne bilješke u svesci.",
-      "translationEn": "He wrote important notes in his notebook."
+      "translationEn": "He wrote important notes in his notebook.",
+      "words": [
+        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
+        { "w": "مُلَاحَظَاتٍ", "root": "ل ح ظ", "bs": "bilješke", "en": "notes" },
+        { "w": "مُهِمَّةً", "root": "أ ه م", "bs": "važne", "en": "important" },
+        { "w": "كُرَّاسَتِهِ", "root": "ك ر س", "bs": "njegova sveska", "en": "his notebook" }
+      ]
     },
     {
       "arabic": "أَرَادَ أَنْ يَكُونَ مُسْتَعِدًّا لِلدَّرْسِ القَادِمِ.",
       "translation": "Htio je biti spreman za sljedeći čas.",
-      "translationEn": "He wanted to be ready for the next lesson."
+      "translationEn": "He wanted to be ready for the next lesson.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "مُسْتَعِدًّا", "root": "ع د د", "bs": "spreman", "en": "ready" },
+        { "w": "الدَّرْسِ", "root": "د ر س", "bs": "čas", "en": "lesson" },
+        { "w": "القَادِمِ", "root": "ق د م", "bs": "sljedeći", "en": "next" }
+      ]
     }
   ],
   "metadata": {

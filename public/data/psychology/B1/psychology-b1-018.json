@@ -6,22 +6,48 @@
     {
       "arabic": "حِينَ يَسْمَعُ الوَالِدَانِ الطِّفْلَ يَشْعُرُ بِالْأَهَمِّيَةِ.",
       "translation": "Kada roditelji slušaju dijete, ono se osjeća važno.",
-      "translationEn": "When parents listen to the child it feels important."
+      "translationEn": "When parents listen to the child it feels important.",
+      "words": [
+        { "w": "يَسْمَعُ", "root": "س م ع", "bs": "slušaju", "en": "listen" },
+        { "w": "الوَالِدَانِ", "root": "و ل د", "bs": "roditelji", "en": "the parents" },
+        { "w": "الطِّفْلَ", "root": "ط ف ل", "bs": "dijete", "en": "the child" },
+        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
+        { "w": "الْأَهَمِّيَةِ", "root": "ه م م", "bs": "važnost", "en": "importance" }
+      ]
     },
     {
       "arabic": "قَعَدَ الأَبُ مَعَ ابْنِهِ وَسَأَلَهُ عَنْ يَوْمِهِ.",
       "translation": "Otac je sjedio sa sinom i pitao ga o danu.",
-      "translationEn": "The father sat with his son and asked him about his day."
+      "translationEn": "The father sat with his son and asked him about his day.",
+      "words": [
+        { "w": "قَعَدَ", "root": "ق ع د", "bs": "sjedio je", "en": "sat" },
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "the father" },
+        { "w": "ابْنِهِ", "root": "ب ن و", "bs": "njegov sin", "en": "his son" },
+        { "w": "سَأَلَهُ", "root": "س أ ل", "bs": "pitao ga je", "en": "asked him" }
+      ]
     },
     {
       "arabic": "حَكَى الِابْنُ كُلَّ شَيْءٍ بِفَرَحٍ وَثِقَةٍ.",
       "translation": "Sin je pričao sve sa radošću i samopouzdanjem.",
-      "translationEn": "The son told everything joyfully and confidently."
+      "translationEn": "The son told everything joyfully and confidently.",
+      "words": [
+        { "w": "حَكَى", "root": "ح ك ي", "bs": "pričao je", "en": "told" },
+        { "w": "الِابْنُ", "root": "ب ن و", "bs": "sin", "en": "the son" },
+        { "w": "فَرَحٍ", "root": "ف ر ح", "bs": "radost", "en": "joy" },
+        { "w": "ثِقَةٍ", "root": "و ث ق", "bs": "samopouzdanje", "en": "confidence" }
+      ]
     },
     {
       "arabic": "الاسْتِمَاعُ هَدِيَّةٌ كَبِيرَةٌ نُعْطِيهَا لِمَنْ نُحِبُّ.",
       "translation": "Slušanje je veliki dar koji dajemo onima koje volimo.",
-      "translationEn": "Listening is a great gift we give to those we love."
+      "translationEn": "Listening is a great gift we give to those we love.",
+      "words": [
+        { "w": "الاسْتِمَاعُ", "root": "س م ع", "bs": "slušanje", "en": "listening" },
+        { "w": "هَدِيَّةٌ", "root": "ه د ي", "bs": "dar", "en": "a gift" },
+        { "w": "كَبِيرَةٌ", "root": "ك ب ر", "bs": "veliki", "en": "great" },
+        { "w": "نُعْطِيهَا", "root": "ع ط و", "bs": "dajemo ga", "en": "we give" },
+        { "w": "نُحِبُّ", "root": "ح ب ب", "bs": "volimo", "en": "we love" }
+      ]
     }
   ],
   "metadata": {

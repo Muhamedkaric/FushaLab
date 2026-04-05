@@ -6,22 +6,42 @@
     {
       "arabic": "اتَّصَلَتْ لَيْلَى بِصَدِيقَتِهَا مَرْيَمَ بِالهَاتِفِ.",
       "translation": "Lejla je nazvala svoju prijateljicu Merjem.",
-      "translationEn": "Layla called her friend Maryam on the phone."
+      "translationEn": "Layla called her friend Maryam on the phone.",
+      "words": [
+        { "w": "اتَّصَلَتْ", "root": "و ص ل", "bs": "nazvala je", "en": "called" },
+        { "w": "صَدِيقَتِهَا", "root": "ص د ق", "bs": "prijateljicom", "en": "friend" },
+        { "w": "بِالهَاتِفِ", "root": "هـ ت ف", "bs": "telefonom", "en": "phone" }
+      ]
     },
     {
       "arabic": "سَأَلَتْهَا إِذَا كَانَتْ مَشْغُولَةً أَمْ لَا.",
       "translation": "Pitala je je li zauzeta ili ne.",
-      "translationEn": "She asked her if she was busy or not."
+      "translationEn": "She asked her if she was busy or not.",
+      "words": [
+        { "w": "سَأَلَتْهَا", "root": "س أ ل", "bs": "pitala je", "en": "asked her" },
+        { "w": "مَشْغُولَةً", "root": "ش غ ل", "bs": "zauzeta", "en": "busy" }
+      ]
     },
     {
       "arabic": "أَخْبَرَتْهَا عَنِ الحَفْلَةِ فِي نِهَايَةِ الأُسْبُوعِ.",
       "translation": "Obavijestila je o zabavi za vikend.",
-      "translationEn": "She told her about the party at the weekend."
+      "translationEn": "She told her about the party at the weekend.",
+      "words": [
+        { "w": "أَخْبَرَتْهَا", "root": "خ ب ر", "bs": "obavijestila je", "en": "told her" },
+        { "w": "الحَفْلَةِ", "root": "ح ف ل", "bs": "zabavi", "en": "party" },
+        { "w": "نِهَايَةِ", "root": "ن هـ ي", "bs": "kraju", "en": "end" },
+        { "w": "الأُسْبُوعِ", "root": "س ب ع", "bs": "sedmice", "en": "week" }
+      ]
     },
     {
       "arabic": "وَافَقَتْ مَرْيَمُ وَقَالَتْ سَتَحْضُرُ.",
       "translation": "Merjem je pristala i rekla da će doći.",
-      "translationEn": "Maryam agreed and said she would come."
+      "translationEn": "Maryam agreed and said she would come.",
+      "words": [
+        { "w": "وَافَقَتْ", "root": "و ف ق", "bs": "pristala je", "en": "agreed" },
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "سَتَحْضُرُ", "root": "ح ض ر", "bs": "doći će", "en": "will come" }
+      ]
     }
   ],
   "metadata": {

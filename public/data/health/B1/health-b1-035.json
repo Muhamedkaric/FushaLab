@@ -6,26 +6,141 @@
     {
       "arabic": "شَعَرَتْ زَيْنَبُ بِأَلَمٍ فِي أَسْنَانِهَا وَلَمْ تَسْتَطِعِ النَّوْمَ.",
       "translation": "Zejneba je osjetila bol u zubima i nije mogla spavati.",
-      "translationEn": "Zaynab felt toothache and could not sleep."
+      "translationEn": "Zaynab felt toothache and could not sleep.",
+      "words": [
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjetila je",
+          "en": "felt"
+        },
+        {
+          "w": "بِأَلَمٍ",
+          "root": "أ ل م",
+          "bs": "bol",
+          "en": "pain"
+        },
+        {
+          "w": "أَسْنَانِهَا",
+          "root": "س ن ن",
+          "bs": "zubi",
+          "en": "teeth"
+        },
+        {
+          "w": "تَسْتَطِعِ",
+          "root": "ط و ع",
+          "bs": "mogla",
+          "en": "could"
+        },
+        {
+          "w": "النَّوْمَ",
+          "root": "ن و م",
+          "bs": "spavati",
+          "en": "sleep"
+        }
+      ]
     },
     {
       "arabic": "فِي الصَّبَاحِ ذَهَبَتْ فَوْرًا إِلَى طَبِيبِ الْأَسْنَانِ.",
       "translation": "Ujutro je odmah otišla kod zubara.",
-      "translationEn": "In the morning she went straight to the dentist."
+      "translationEn": "In the morning she went straight to the dentist.",
+      "words": [
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla je",
+          "en": "went"
+        },
+        {
+          "w": "طَبِيبِ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "الْأَسْنَانِ",
+          "root": "س ن ن",
+          "bs": "zubi",
+          "en": "teeth"
+        }
+      ]
     },
     {
       "arabic": "فَحَصَ الطَّبِيبُ أَسْنَانَهَا وَعَالَجَ الضِّرْسَ الْمُؤْلِمَ.",
       "translation": "Zubar je pregledao njene zube i liječio bolni zub.",
-      "translationEn": "The dentist examined her teeth and treated the painful tooth."
+      "translationEn": "The dentist examined her teeth and treated the painful tooth.",
+      "words": [
+        {
+          "w": "فَحَصَ",
+          "root": "ف ح ص",
+          "bs": "pregledao je",
+          "en": "examined"
+        },
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "أَسْنَانَهَا",
+          "root": "س ن ن",
+          "bs": "zubi",
+          "en": "teeth"
+        },
+        {
+          "w": "عَالَجَ",
+          "root": "ع ل ج",
+          "bs": "liječio je",
+          "en": "treated"
+        },
+        {
+          "w": "الضِّرْسَ",
+          "root": "ض ر س",
+          "bs": "zub",
+          "en": "tooth"
+        },
+        {
+          "w": "الْمُؤْلِمَ",
+          "root": "أ ل م",
+          "bs": "bolan",
+          "en": "painful"
+        }
+      ]
     },
     {
       "arabic": "نَصَحَهَا بِتَفْرِيشِ أَسْنَانِهَا مَرَّتَيْنِ فِي الْيَوْمِ.",
       "translation": "Savjetovao joj je da pere zube dva puta dnevno.",
-      "translationEn": "He advised her to brush her teeth twice a day."
+      "translationEn": "He advised her to brush her teeth twice a day.",
+      "words": [
+        {
+          "w": "نَصَحَهَا",
+          "root": "ن ص ح",
+          "bs": "savjetovao joj je",
+          "en": "advised her"
+        },
+        {
+          "w": "بِتَفْرِيشِ",
+          "root": "ف ر ش",
+          "bs": "pranje",
+          "en": "brushing"
+        },
+        {
+          "w": "أَسْنَانِهَا",
+          "root": "س ن ن",
+          "bs": "zubi",
+          "en": "teeth"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["toothache", "dentist", "teeth", "hygiene"]
+    "tags": [
+      "toothache",
+      "dentist",
+      "teeth",
+      "hygiene"
+    ]
   }
 }

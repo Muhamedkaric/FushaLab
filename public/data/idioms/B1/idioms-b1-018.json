@@ -6,22 +6,42 @@
     {
       "arabic": "سَمِعَتِ الطِّفْلَةُ الْمَثَلَ: «الطَّيْرُ عَلَى أَشْكَالِهِ يَقَعُ».",
       "translation": "Djevojčica je čula poslovicu: «Ptica lijeće ka sebi sličnima».",
-      "translationEn": "The little girl heard the proverb: «Birds of a feather flock together»."
+      "translationEn": "The little girl heard the proverb: «Birds of a feather flock together».",
+      "words": [
+        { "w": "الطِّفْلَةُ", "root": "ط ف ل", "bs": "djevojčica", "en": "little girl" },
+        { "w": "الطَّيْرُ", "root": "ط ي ر", "bs": "ptica", "en": "bird" },
+        { "w": "أَشْكَالِهِ", "root": "ش ك ل", "bs": "slični njemu", "en": "its kind" },
+        { "w": "يَقَعُ", "root": "و ق ع", "bs": "pada", "en": "lands" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ النَّاسَ الْمُتَشَابِهِينَ يَجْتَمِعُونَ مَعًا.",
       "translation": "To znači da se slični ljudi okupe zajedno.",
-      "translationEn": "This means that similar people gather together."
+      "translationEn": "This means that similar people gather together.",
+      "words": [
+        { "w": "الْمُتَشَابِهِينَ", "root": "ش ب ه", "bs": "slični", "en": "similar" },
+        { "w": "يَجْتَمِعُونَ", "root": "ج م ع", "bs": "okupe se", "en": "gather" }
+      ]
     },
     {
       "arabic": "لَاحَظَتْ أَنَّ أَصْدِقَاءَهَا يُحِبُّونَ الْقِرَاءَةَ مِثْلَهَا.",
       "translation": "Primijetila je da njeni prijatelji vole čitanje kao i ona.",
-      "translationEn": "She noticed that her friends love reading just like her."
+      "translationEn": "She noticed that her friends love reading just like her.",
+      "words": [
+        { "w": "لَاحَظَتْ", "root": "ل ح ظ", "bs": "primijetila je", "en": "noticed" },
+        { "w": "أَصْدِقَاءَهَا", "root": "ص د ق", "bs": "njeni prijatelji", "en": "her friends" },
+        { "w": "الْقِرَاءَةَ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" }
+      ]
     },
     {
       "arabic": "فَهِمَتْ مَعْنَى الْمَثَلِ وَابْتَسَمَتْ.",
       "translation": "Shvatila je značenje poslovice i nasmiješila se.",
-      "translationEn": "She understood the meaning of the proverb and smiled."
+      "translationEn": "She understood the meaning of the proverb and smiled.",
+      "words": [
+        { "w": "فَهِمَتْ", "root": "ف ه م", "bs": "shvatila je", "en": "understood" },
+        { "w": "مَعْنَى", "root": "ع ن ي", "bs": "značenje", "en": "meaning" },
+        { "w": "ابْتَسَمَتْ", "root": "ب س م", "bs": "nasmiješila se", "en": "smiled" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ بِجَانِبِ الْقَرْيَةِ نَهْرٌ صَغِيرٌ يُحِبُّهُ الأَطْفَالُ.",
       "translation": "Pored sela je bila mala rijeka koju su djeca voljela.",
-      "translationEn": "Beside the village there was a small river that children loved."
+      "translationEn": "Beside the village there was a small river that children loved.",
+      "words": [
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" },
+        { "w": "نَهْرٌ", "root": "ن ه ر", "bs": "rijeka", "en": "river" },
+        { "w": "صَغِيرٌ", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" }
+      ]
     },
     {
       "arabic": "ذَاتَ يَوْمٍ جَرَفَ الْمَاءُ كُرَةَ طِفْلٍ صَغِيرٍ.",
       "translation": "Jednog dana je voda odnijela loptu malog dječaka.",
-      "translationEn": "One day the water carried away a small boy's ball."
+      "translationEn": "One day the water carried away a small boy's ball.",
+      "words": [
+        { "w": "جَرَفَ", "root": "ج ر ف", "bs": "odnijela je", "en": "carried away" },
+        { "w": "الْمَاءُ", "root": "م و ه", "bs": "voda", "en": "water" },
+        { "w": "كُرَةَ", "root": "ك ر ر", "bs": "lopta", "en": "ball" },
+        { "w": "طِفْلٍ", "root": "ط ف ل", "bs": "dječak", "en": "boy" }
+      ]
     },
     {
       "arabic": "رَأَى وَلَدٌ اسْمُهُ مَرْوَانُ الأَمْرَ فَبَحَثَ عَنْ عَصًا طَوِيلَةٍ.",
       "translation": "Dječak po imenu Mervan je vidio to i potražio je dugu granu.",
-      "translationEn": "A boy named Marwan saw this and looked for a long stick."
+      "translationEn": "A boy named Marwan saw this and looked for a long stick.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" },
+        { "w": "بَحَثَ", "root": "ب ح ث", "bs": "potražio je", "en": "looked for" },
+        { "w": "عَصًا", "root": "ع ص و", "bs": "grana", "en": "stick" },
+        { "w": "طَوِيلَةٍ", "root": "ط و ل", "bs": "dugačka", "en": "long" }
+      ]
     },
     {
       "arabic": "أَخْرَجَ الْكُرَةَ مِنَ النَّهْرِ وَأَعَادَهَا إِلَى صَاحِبِهَا.",
       "translation": "Izvukao je loptu iz rijeke i vratio je vlasniku.",
-      "translationEn": "He pulled the ball out of the river and returned it to its owner."
+      "translationEn": "He pulled the ball out of the river and returned it to its owner.",
+      "words": [
+        { "w": "أَخْرَجَ", "root": "خ ر ج", "bs": "izvukao je", "en": "pulled out" },
+        { "w": "الْكُرَةَ", "root": "ك ر ر", "bs": "lopta", "en": "ball" },
+        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "river" },
+        { "w": "أَعَادَهَا", "root": "ع و د", "bs": "vratio je", "en": "returned it" },
+        { "w": "صَاحِبِهَا", "root": "ص ح ب", "bs": "vlasnik", "en": "owner" }
+      ]
     }
   ],
   "metadata": {

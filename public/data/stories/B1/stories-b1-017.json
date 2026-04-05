@@ -6,22 +6,48 @@
     {
       "arabic": "أَرَادَتْ سَلْمَى تَعَلُّمَ الطَّبْخِ مِنْ جَدَّتِهَا.",
       "translation": "Selma je htjela naučiti kuhati od svoje bake.",
-      "translationEn": "Salma wanted to learn cooking from her grandmother."
+      "translationEn": "Salma wanted to learn cooking from her grandmother.",
+      "words": [
+        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
+        { "w": "تَعَلُّمَ", "root": "ع ل م", "bs": "naučiti", "en": "to learn" },
+        { "w": "الطَّبْخِ", "root": "ط ب خ", "bs": "kuhanje", "en": "cooking" },
+        { "w": "جَدَّتِهَا", "root": "ج د د", "bs": "njena baka", "en": "her grandmother" }
+      ]
     },
     {
       "arabic": "أَوَّلَ مَرَّةٍ أَحْرَقَتِ الأَكْلَ وَضَحِكَتِ الْجَدَّةُ بِرِفْقٍ.",
       "translation": "Prvi put je zagorjela hranu i baka se nježno nasmijala.",
-      "translationEn": "The first time she burned the food and the grandmother laughed gently."
+      "translationEn": "The first time she burned the food and the grandmother laughed gently.",
+      "words": [
+        { "w": "أَحْرَقَتِ", "root": "ح ر ق", "bs": "zagorjela je", "en": "burned" },
+        { "w": "الأَكْلَ", "root": "أ ك ل", "bs": "hranu", "en": "food" },
+        { "w": "ضَحِكَتِ", "root": "ض ح ك", "bs": "nasmijala se", "en": "laughed" },
+        { "w": "الْجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "بِرِفْقٍ", "root": "ر ف ق", "bs": "nježno", "en": "gently" }
+      ]
     },
     {
       "arabic": "قَالَتِ الْجَدَّةُ: «كُلُّ طَبَّاخٍ بَدَأَ هَكَذَا».",
       "translation": "Baka je rekla: «Svaki kuhar je počeo ovako».",
-      "translationEn": "The grandmother said: «Every cook started like this»."
+      "translationEn": "The grandmother said: «Every cook started like this».",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "الْجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "طَبَّاخٍ", "root": "ط ب خ", "bs": "kuhar", "en": "cook" },
+        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počeo je", "en": "started" }
+      ]
     },
     {
       "arabic": "تَدَرَّبَتْ سَلْمَى أُسْبُوعًا كَامِلًا وَطَبَخَتْ شُورْبَةً لَذِيذَةً.",
       "translation": "Selma je vježbala cijelu sedmicu i skuhala je ukusnu supu.",
-      "translationEn": "Salma practiced for a full week and cooked a delicious soup."
+      "translationEn": "Salma practiced for a full week and cooked a delicious soup.",
+      "words": [
+        { "w": "تَدَرَّبَتْ", "root": "د ر ب", "bs": "vježbala je", "en": "practiced" },
+        { "w": "أُسْبُوعًا", "root": "س ب ع", "bs": "sedmica", "en": "week" },
+        { "w": "كَامِلًا", "root": "ك م ل", "bs": "cijela", "en": "full" },
+        { "w": "طَبَخَتْ", "root": "ط ب خ", "bs": "skuhala je", "en": "cooked" },
+        { "w": "لَذِيذَةً", "root": "ل ذ ذ", "bs": "ukusna", "en": "delicious" }
+      ]
     }
   ],
   "metadata": {

@@ -6,31 +6,153 @@
     {
       "arabic": "تَعَلَّمَتْ مَرْيَمُ القِرَاءَةَ فِي المَدْرَسَةِ هَذَا العَامَ.",
       "translation": "Merjem je ove godine naučila čitati u školi.",
-      "translationEn": "Maryam learned to read at school this year."
+      "translationEn": "Maryam learned to read at school this year.",
+      "words": [
+        {
+          "w": "تَعَلَّمَتْ",
+          "root": "ع ل م",
+          "bs": "naučila",
+          "en": "learned"
+        },
+        {
+          "w": "القِرَاءَةَ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        }
+      ]
     },
     {
       "arabic": "كَانَتْ تَقْرَأُ الكَلِمَاتِ بِبُطْءٍ فِي البِدَايَةِ.",
       "translation": "U početku je čitala riječi polako.",
-      "translationEn": "She read the words slowly at first."
+      "translationEn": "She read the words slowly at first.",
+      "words": [
+        {
+          "w": "تَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "reads"
+        },
+        {
+          "w": "الكَلِمَاتِ",
+          "root": "ك ل م",
+          "bs": "riječi",
+          "en": "words"
+        },
+        {
+          "w": "بِبُطْءٍ",
+          "root": "ب ط أ",
+          "bs": "polako",
+          "en": "slowly"
+        },
+        {
+          "w": "البِدَايَةِ",
+          "root": "ب د أ",
+          "bs": "početak",
+          "en": "beginning"
+        }
+      ]
     },
     {
       "arabic": "مَعَ الوَقْتِ أَصْبَحَتْ تَقْرَأُ بِسُرْعَةٍ وَثِقَةٍ.",
       "translation": "S vremenom je počela čitati brzo i sigurno.",
-      "translationEn": "With time she began to read quickly and confidently."
+      "translationEn": "With time she began to read quickly and confidently.",
+      "words": [
+        {
+          "w": "أَصْبَحَتْ",
+          "root": "ص ب ح",
+          "bs": "postala",
+          "en": "became"
+        },
+        {
+          "w": "تَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "reads"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly"
+        },
+        {
+          "w": "وَثِقَةٍ",
+          "root": "و ث ق",
+          "bs": "i sigurno",
+          "en": "and confidently"
+        }
+      ]
     },
     {
       "arabic": "قَرَأَتْ مَرْيَمُ قِصَّةً كَامِلَةً أَمَامَ الفَصْلِ.",
       "translation": "Merjem je pročitala cijelu priču pred razredom.",
-      "translationEn": "Maryam read a whole story in front of the class."
+      "translationEn": "Maryam read a whole story in front of the class.",
+      "words": [
+        {
+          "w": "قَرَأَتْ",
+          "root": "ق ر أ",
+          "bs": "pročitala",
+          "en": "read"
+        },
+        {
+          "w": "قِصَّةً",
+          "root": "ق ص ص",
+          "bs": "priča",
+          "en": "story"
+        },
+        {
+          "w": "كَامِلَةً",
+          "root": "ك م ل",
+          "bs": "cijelu",
+          "en": "complete/whole"
+        },
+        {
+          "w": "الفَصْلِ",
+          "root": "ف ص ل",
+          "bs": "razred",
+          "en": "class"
+        }
+      ]
     },
     {
       "arabic": "صَفَّقَ الطُّلَّابُ لَهَا وَهِيَ تَبْتَسِمُ.",
       "translation": "Učenici su joj zapljeskali dok se ona osmjehivala.",
-      "translationEn": "The students clapped for her and she smiled."
+      "translationEn": "The students clapped for her and she smiled.",
+      "words": [
+        {
+          "w": "صَفَّقَ",
+          "root": "ص ف ق",
+          "bs": "zapljeskali",
+          "en": "clapped"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "تَبْتَسِمُ",
+          "root": "ب س م",
+          "bs": "osmjehuje se",
+          "en": "smiling"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["reading", "learning", "progress"]
+    "tags": [
+      "reading",
+      "learning",
+      "progress"
+    ]
   }
 }

@@ -6,31 +6,160 @@
     {
       "arabic": "شَعَرَتْ نُورٌ بِأَلَمٍ فِي مَعِدَتِهَا بَعْدَ الْغَدَاءِ.",
       "translation": "Nur je osjetila bol u stomaku nakon ručka.",
-      "translationEn": "Nour felt stomach pain after lunch."
+      "translationEn": "Nour felt stomach pain after lunch.",
+      "words": [
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjetila je",
+          "en": "felt"
+        },
+        {
+          "w": "بِأَلَمٍ",
+          "root": "أ ل م",
+          "bs": "bol",
+          "en": "pain"
+        },
+        {
+          "w": "مَعِدَتِهَا",
+          "root": "م ع د",
+          "bs": "stomak",
+          "en": "stomach"
+        },
+        {
+          "w": "الْغَدَاءِ",
+          "root": "غ د و",
+          "bs": "ručak",
+          "en": "lunch"
+        }
+      ]
     },
     {
       "arabic": "لَمْ تَأْكُلْ كَثِيرًا فِي الْعَشَاءِ وَشَرِبَتِ الشَّايَ.",
       "translation": "Nije puno jela za večeru i popila je čaj.",
-      "translationEn": "She did not eat much at dinner and drank tea."
+      "translationEn": "She did not eat much at dinner and drank tea.",
+      "words": [
+        {
+          "w": "تَأْكُلْ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eat"
+        },
+        {
+          "w": "الْعَشَاءِ",
+          "root": "ع ش و",
+          "bs": "večera",
+          "en": "dinner"
+        },
+        {
+          "w": "شَرِبَتِ",
+          "root": "ش ر ب",
+          "bs": "popila je",
+          "en": "drank"
+        },
+        {
+          "w": "الشَّايَ",
+          "root": "ش ي ي",
+          "bs": "čaj",
+          "en": "tea"
+        }
+      ]
     },
     {
       "arabic": "فِي الصَّبَاحِ ذَهَبَتْ إِلَى الطَّبِيبِ لِتَعْرِفَ السَّبَبَ.",
       "translation": "Ujutro je otišla kod ljekara da sazna razlog.",
-      "translationEn": "In the morning she went to the doctor to find the reason."
+      "translationEn": "In the morning she went to the doctor to find the reason.",
+      "words": [
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla je",
+          "en": "went"
+        },
+        {
+          "w": "الطَّبِيبِ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "تَعْرِفَ",
+          "root": "ع ر ف",
+          "bs": "sazna",
+          "en": "find out"
+        },
+        {
+          "w": "السَّبَبَ",
+          "root": "س ب ب",
+          "bs": "razlog",
+          "en": "reason"
+        }
+      ]
     },
     {
       "arabic": "قَالَ لَهَا الطَّبِيبُ أَلَّا تَأْكُلَ الطَّعَامَ الدَّسِمَ.",
       "translation": "Ljekar joj je rekao da ne jede masnu hranu.",
-      "translationEn": "The doctor told her not to eat fatty food."
+      "translationEn": "The doctor told her not to eat fatty food.",
+      "words": [
+        {
+          "w": "تَأْكُلَ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eat"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food"
+        },
+        {
+          "w": "الدَّسِمَ",
+          "root": "د س م",
+          "bs": "masna",
+          "en": "fatty"
+        }
+      ]
     },
     {
       "arabic": "اتَّبَعَتْ نُورٌ نَصِيحَةَ الطَّبِيبِ وَشَعَرَتْ بِتَحَسُّنٍ.",
       "translation": "Nur je slijedila savjet ljekara i osjetila poboljšanje.",
-      "translationEn": "Nour followed the doctor's advice and felt better."
+      "translationEn": "Nour followed the doctor's advice and felt better.",
+      "words": [
+        {
+          "w": "اتَّبَعَتْ",
+          "root": "ت ب ع",
+          "bs": "slijedila je",
+          "en": "followed"
+        },
+        {
+          "w": "نَصِيحَةَ",
+          "root": "ن ص ح",
+          "bs": "savjet",
+          "en": "advice"
+        },
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjetila je",
+          "en": "felt"
+        },
+        {
+          "w": "بِتَحَسُّنٍ",
+          "root": "ح س ن",
+          "bs": "poboljšanje",
+          "en": "improvement"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["stomach", "doctor", "diet", "advice"]
+    "tags": [
+      "stomach",
+      "doctor",
+      "diet",
+      "advice"
+    ]
   }
 }

@@ -6,22 +6,48 @@
     {
       "arabic": "أَظُنُّ أَنَّ الطَّبِيعَةَ أَجْمَلُ مَكَانٍ لِلرَّاحَةِ.",
       "translation": "Mislim da je priroda najljepše mjesto za odmor.",
-      "translationEn": "I think that nature is the most beautiful place to rest."
+      "translationEn": "I think that nature is the most beautiful place to rest.",
+      "words": [
+        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
+        { "w": "الطَّبِيعَةَ", "root": "ط ب ع", "bs": "priroda", "en": "nature" },
+        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepše", "en": "most beautiful" },
+        { "w": "مَكَانٍ", "root": "ك و ن", "bs": "mjesto", "en": "place" },
+        { "w": "لِلرَّاحَةِ", "root": "ر و ح", "bs": "odmor", "en": "rest" }
+      ]
     },
     {
       "arabic": "حِينَ أَجْلِسُ بَيْنَ الْأَشْجَارِ أَشْعُرُ بِالسَّكِينَةِ.",
       "translation": "Kada sjedim između drveća, osjećam mir.",
-      "translationEn": "When I sit among the trees I feel tranquil."
+      "translationEn": "When I sit among the trees I feel tranquil.",
+      "words": [
+        { "w": "أَجْلِسُ", "root": "ج ل س", "bs": "sjedim", "en": "I sit" },
+        { "w": "الْأَشْجَارِ", "root": "ش ج ر", "bs": "drveća", "en": "trees" },
+        { "w": "أَشْعُرُ", "root": "ش ع ر", "bs": "osjećam", "en": "I feel" },
+        { "w": "بِالسَّكِينَةِ", "root": "س ك ن", "bs": "mir", "en": "tranquil" }
+      ]
     },
     {
       "arabic": "أُحِبُّ الذَّهَابَ إِلَى الْجَبَلِ أَوِ الْبَحْرِ فِي الْعُطْلَةِ.",
       "translation": "Volim ići na planinu ili more tokom odmora.",
-      "translationEn": "I like going to the mountain or the sea during the holiday."
+      "translationEn": "I like going to the mountain or the sea during the holiday.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "الذَّهَابَ", "root": "ذ ه ب", "bs": "ići", "en": "going" },
+        { "w": "الْجَبَلِ", "root": "ج ب ل", "bs": "planinu", "en": "mountain" },
+        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" },
+        { "w": "الْعُطْلَةِ", "root": "ع ط ل", "bs": "odmora", "en": "holiday" }
+      ]
     },
     {
       "arabic": "الطَّبِيعَةُ تُعِيدُ إِلَيْنَا نَشَاطَنَا وَسَعَادَتَنَا.",
       "translation": "Priroda nam vraća energiju i sreću.",
-      "translationEn": "Nature restores our energy and happiness."
+      "translationEn": "Nature restores our energy and happiness.",
+      "words": [
+        { "w": "الطَّبِيعَةُ", "root": "ط ب ع", "bs": "priroda", "en": "nature" },
+        { "w": "تُعِيدُ", "root": "ع و د", "bs": "vraća", "en": "restores" },
+        { "w": "نَشَاطَنَا", "root": "ن ش ط", "bs": "energiju", "en": "our energy" },
+        { "w": "سَعَادَتَنَا", "root": "س ع د", "bs": "sreću", "en": "our happiness" }
+      ]
     }
   ],
   "metadata": {

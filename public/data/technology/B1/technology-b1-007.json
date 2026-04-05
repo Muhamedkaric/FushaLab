@@ -6,22 +6,119 @@
     {
       "arabic": "انْقَطَعَ الْإِنْتِرْنِتُ وَلَمْ يَسْتَطِعْ نَادِرٌ الْعَمَلَ.",
       "translation": "Nestao je internet i Nadir nije mogao raditi.",
-      "translationEn": "The internet went out and Nadir could not work."
+      "translationEn": "The internet went out and Nadir could not work.",
+      "words": [
+        {
+          "w": "انْقَطَعَ",
+          "root": "ق ط ع",
+          "bs": "nestao je",
+          "en": "went out"
+        },
+        {
+          "w": "الْإِنْتِرْنِتُ",
+          "bs": "internet",
+          "en": "the internet"
+        },
+        {
+          "w": "يَسْتَطِعْ",
+          "root": "ط و ع",
+          "bs": "mogao je",
+          "en": "could"
+        },
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "raditi",
+          "en": "work"
+        }
+      ]
     },
     {
       "arabic": "اتَّصَلَ بِالشَّرِكَةِ وَأَبْلَغَهُمْ بِالْمُشْكِلَةِ.",
       "translation": "Nazvao je kompaniju i prijavio im problem.",
-      "translationEn": "He called the company and reported the problem to them."
+      "translationEn": "He called the company and reported the problem to them.",
+      "words": [
+        {
+          "w": "اتَّصَلَ",
+          "root": "و ص ل",
+          "bs": "nazvao je",
+          "en": "called"
+        },
+        {
+          "w": "الشَّرِكَةِ",
+          "root": "ش ر ك",
+          "bs": "kompaniju",
+          "en": "the company"
+        },
+        {
+          "w": "أَبْلَغَهُمْ",
+          "root": "ب ل غ",
+          "bs": "prijavio im je",
+          "en": "reported to them"
+        },
+        {
+          "w": "الْمُشْكِلَةِ",
+          "root": "ش ك ل",
+          "bs": "problem",
+          "en": "the problem"
+        }
+      ]
     },
     {
       "arabic": "قَالُوا لَهُ: سَنُصْلِحُ الْمَشْكِلَةَ خِلَالَ سَاعَةٍ.",
       "translation": "Rekli su mu: Riješit ćemo problem za sat.",
-      "translationEn": "They told him: We will fix the problem within an hour."
+      "translationEn": "They told him: We will fix the problem within an hour.",
+      "words": [
+        {
+          "w": "سَنُصْلِحُ",
+          "root": "ص ل ح",
+          "bs": "popravit ćemo",
+          "en": "we will fix"
+        },
+        {
+          "w": "الْمَشْكِلَةَ",
+          "root": "ش ك ل",
+          "bs": "problem",
+          "en": "the problem"
+        },
+        {
+          "w": "سَاعَةٍ",
+          "root": "س و ع",
+          "bs": "sata",
+          "en": "an hour"
+        }
+      ]
     },
     {
       "arabic": "جَلَسَ وَقَرَأَ كِتَابًا حَتَّى عَادَ الْإِنْتِرْنِتُ.",
       "translation": "Sjeo je i čitao knjigu dok se internet nije vratio.",
-      "translationEn": "He sat and read a book until the internet came back."
+      "translationEn": "He sat and read a book until the internet came back.",
+      "words": [
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjeo je",
+          "en": "sat"
+        },
+        {
+          "w": "قَرَأَ",
+          "root": "ق ر أ",
+          "bs": "čitao je",
+          "en": "read"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjigu",
+          "en": "a book"
+        },
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "came back"
+        }
+      ]
     }
   ],
   "metadata": {

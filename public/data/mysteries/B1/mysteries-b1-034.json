@@ -6,27 +6,59 @@
     {
       "arabic": "وَجَدَ حَامِدٌ بَيْضَةً صَغِيرَةً وَحِيدَةً فِي الْحَدِيقَةِ.",
       "translation": "Hamid je pronašao jedno malo jaje samo u vrtu.",
-      "translationEn": "Hamid found a small lone egg in the garden."
+      "translationEn": "Hamid found a small lone egg in the garden.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "بَيْضَةً", "root": "ب ي ض", "bs": "jaje", "en": "egg" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "malo", "en": "small" },
+        { "w": "وَحِيدَةً", "root": "و ح د", "bs": "samo/usamljeno", "en": "lone" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrtu", "en": "garden" }
+      ]
     },
     {
       "arabic": "كَانَ لَوْنُهَا أَزْرَقَ فَاتِحًا وَجَمِيلًا.",
       "translation": "Bila je svijetloplave i lijepe boje.",
-      "translationEn": "Its colour was light blue and beautiful."
+      "translationEn": "Its colour was light blue and beautiful.",
+      "words": [
+        { "w": "لَوْنُهَا", "root": "ل و ن", "bs": "njena boja", "en": "its colour" },
+        { "w": "أَزْرَقَ", "root": "ز ر ق", "bs": "plave", "en": "blue" },
+        { "w": "فَاتِحًا", "root": "ف ت ح", "bs": "svijetlo", "en": "light" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepe", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "أَخْبَرَ أَبَاهُ وَقَالَ لَهُ: لَا تَلْمَسْهَا، رُبَّمَا بَيْضَةُ طَائِرٍ.",
       "translation": "Obavijestio je oca i rekao mu: Nemoj je dirati, možda je ptičje jaje.",
-      "translationEn": "He told his father and he said: Do not touch it, it may be a bird's egg."
+      "translationEn": "He told his father and he said: Do not touch it, it may be a bird's egg.",
+      "words": [
+        { "w": "أَخْبَرَ", "root": "خ ب ر", "bs": "obavijestio je", "en": "he told" },
+        { "w": "تَلْمَسْهَا", "root": "ل م س", "bs": "diraje", "en": "touch it" },
+        { "w": "بَيْضَةُ", "root": "ب ي ض", "bs": "jaje", "en": "egg" },
+        { "w": "طَائِرٍ", "root": "ط ي ر", "bs": "ptičje", "en": "bird's" }
+      ]
     },
     {
       "arabic": "بَعْدَ أَيَّامٍ رَأَيَا طَائِرًا صَغِيرًا يَخْرُجُ مِنَ الْبَيْضَةِ.",
       "translation": "Nakon nekoliko dana vidjeli su malu pticu kako izlazi iz jajeta.",
-      "translationEn": "After a few days they saw a small bird coming out of the egg."
+      "translationEn": "After a few days they saw a small bird coming out of the egg.",
+      "words": [
+        { "w": "رَأَيَا", "root": "ر أ ي", "bs": "vidjeli su", "en": "they saw" },
+        { "w": "طَائِرًا", "root": "ط ي ر", "bs": "pticu", "en": "bird" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "malu", "en": "small" },
+        { "w": "يَخْرُجُ", "root": "خ ر ج", "bs": "izlazi", "en": "coming out" },
+        { "w": "الْبَيْضَةِ", "root": "ب ي ض", "bs": "jajeta", "en": "the egg" }
+      ]
     },
     {
       "arabic": "فَرِحَ حَامِدٌ وَقَالَ: هَذَا أَجْمَلُ يَوْمٍ فِي حَيَاتِي.",
       "translation": "Hamid se obradovao i rekao: Ovo je najljepši dan u mom životu.",
-      "translationEn": "Hamid was happy and said: This is the most beautiful day of my life."
+      "translationEn": "Hamid was happy and said: This is the most beautiful day of my life.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
+        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepši", "en": "most beautiful" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "حَيَاتِي", "root": "ح ي ي", "bs": "mog života", "en": "my life" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,45 @@
     {
       "arabic": "حِينَ يَحْزَنُ الإِنْسَانُ يَحْتَاجُ إِلَى شَخْصٍ يَجْلِسُ مَعَهُ.",
       "translation": "Kada je čovjek tužan, treba mu neko ko će sjediti s njim.",
-      "translationEn": "When a person is sad they need someone to sit with them."
+      "translationEn": "When a person is sad they need someone to sit with them.",
+      "words": [
+        { "w": "يَحْزَنُ", "root": "ح ز ن", "bs": "tužan je", "en": "is sad" },
+        { "w": "الإِنْسَانُ", "root": "أ ن س", "bs": "čovjek", "en": "a person" },
+        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
+        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "neko", "en": "someone" },
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" }
+      ]
     },
     {
       "arabic": "لَا يَحْتَاجُ دَائِمًا إِلَى كَلَامٍ بَلْ إِلَى حُضُورٍ.",
       "translation": "Ne treba mu uvijek razgovor nego prisustvo.",
-      "translationEn": "They do not always need words but rather a presence."
+      "translationEn": "They do not always need words but rather a presence.",
+      "words": [
+        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
+        { "w": "كَلَامٍ", "root": "ك ل م", "bs": "razgovor", "en": "words" },
+        { "w": "حُضُورٍ", "root": "ح ض ر", "bs": "prisustvo", "en": "a presence" }
+      ]
     },
     {
       "arabic": "جَلَسَتْ جُمَانَةُ بِجَانِبِ صَدِيقَتِهَا الْحَزِينَةِ بِصَمْتٍ.",
       "translation": "Džumana je tiho sjela pored svoje tužne prijateljice.",
-      "translationEn": "Jumana sat beside her sad friend in silence."
+      "translationEn": "Jumana sat beside her sad friend in silence.",
+      "words": [
+        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
+        { "w": "صَدِيقَتِهَا", "root": "ص د ق", "bs": "njena prijateljica", "en": "her friend" },
+        { "w": "الْحَزِينَةِ", "root": "ح ز ن", "bs": "tužne", "en": "sad" },
+        { "w": "بِصَمْتٍ", "root": "ص م ت", "bs": "u tišini", "en": "in silence" }
+      ]
     },
     {
       "arabic": "شَعَرَتِ الصَّدِيقَةُ أَنَّهَا لَيْسَتْ وَحِيدَةً.",
       "translation": "Prijateljica je osjetila da nije sama.",
-      "translationEn": "The friend felt that she was not alone."
+      "translationEn": "The friend felt that she was not alone.",
+      "words": [
+        { "w": "شَعَرَتِ", "root": "ش ع ر", "bs": "osjetila je", "en": "felt" },
+        { "w": "الصَّدِيقَةُ", "root": "ص د ق", "bs": "prijateljica", "en": "the friend" },
+        { "w": "وَحِيدَةً", "root": "و ح د", "bs": "sama", "en": "alone" }
+      ]
     }
   ],
   "metadata": {

@@ -6,26 +6,110 @@
     {
       "arabic": "أَجْرَتِ الصَّيْدَلِيَّةُ الْمَحَلِّيَّةُ تَخْفِيضَاتٍ عَلَى الأَدْوِيَةِ.",
       "translation": "Lokalna apoteka je napravila popuste na lijekove.",
-      "translationEn": "The local pharmacy offered discounts on medicines."
+      "translationEn": "The local pharmacy offered discounts on medicines.",
+      "words": [
+        {
+          "w": "الصَّيْدَلِيَّةُ",
+          "root": "ص د ل",
+          "bs": "apoteka",
+          "en": "pharmacy"
+        },
+        {
+          "w": "تَخْفِيضَاتٍ",
+          "root": "خ ف ض",
+          "bs": "popuste",
+          "en": "discounts"
+        },
+        {
+          "w": "الأَدْوِيَةِ",
+          "root": "د و أ",
+          "bs": "lijekova",
+          "en": "medicines"
+        }
+      ]
     },
     {
       "arabic": "جَاءَ كَثِيرٌ مِنَ الزَّبَائِنِ لِلِاسْتِفَادَةِ مِنَ التَّخْفِيضَاتِ.",
       "translation": "Mnogi kupci su došli da iskoriste popuste.",
-      "translationEn": "Many customers came to take advantage of the discounts."
+      "translationEn": "Many customers came to take advantage of the discounts.",
+      "words": [
+        {
+          "w": "الزَّبَائِنِ",
+          "root": "ز ب ن",
+          "bs": "kupci",
+          "en": "customers"
+        },
+        {
+          "w": "التَّخْفِيضَاتِ",
+          "root": "خ ف ض",
+          "bs": "popuste",
+          "en": "discounts"
+        }
+      ]
     },
     {
       "arabic": "أَنْصَحَ الصَّيْدَلِيُّ الزَّبَائِنَ بِالأَدْوِيَةِ الْمُنَاسِبَةِ.",
       "translation": "Farmaceut je savjetovao kupce o odgovarajućim lijekovima.",
-      "translationEn": "The pharmacist advised customers about suitable medicines."
+      "translationEn": "The pharmacist advised customers about suitable medicines.",
+      "words": [
+        {
+          "w": "الصَّيْدَلِيُّ",
+          "root": "ص د ل",
+          "bs": "farmaceut",
+          "en": "pharmacist"
+        },
+        {
+          "w": "الزَّبَائِنَ",
+          "root": "ز ب ن",
+          "bs": "kupce",
+          "en": "customers"
+        },
+        {
+          "w": "الأَدْوِيَةِ",
+          "root": "د و أ",
+          "bs": "lijekovima",
+          "en": "medicines"
+        },
+        {
+          "w": "الْمُنَاسِبَةِ",
+          "root": "ن س ب",
+          "bs": "odgovarajućim",
+          "en": "suitable"
+        }
+      ]
     },
     {
       "arabic": "يَسْتَمِرُّ الْعَرْضُ حَتَّى نِهَايَةِ الشَّهْرِ.",
       "translation": "Ponuda traje do kraja mjeseca.",
-      "translationEn": "The offer continues until the end of the month."
+      "translationEn": "The offer continues until the end of the month.",
+      "words": [
+        {
+          "w": "الْعَرْضُ",
+          "root": "ع ر ض",
+          "bs": "ponuda",
+          "en": "offer"
+        },
+        {
+          "w": "نِهَايَةِ",
+          "root": "ن ه ي",
+          "bs": "kraja",
+          "en": "end"
+        },
+        {
+          "w": "الشَّهْرِ",
+          "root": "ش ه ر",
+          "bs": "mjeseca",
+          "en": "month"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["health", "pharmacy", "shopping"]
+    "tags": [
+      "health",
+      "pharmacy",
+      "shopping"
+    ]
   }
 }

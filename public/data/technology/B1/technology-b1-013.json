@@ -6,22 +6,119 @@
     {
       "arabic": "أَرَادَ يُوسُفُ أَنْ يُشَاهِدَ مُبَارَاةَ كُرَةِ الْقَدَمِ.",
       "translation": "Jusuf je htio gledati fudbalsku utakmicu.",
-      "translationEn": "Yusuf wanted to watch a football match."
+      "translationEn": "Yusuf wanted to watch a football match.",
+      "words": [
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted"
+        },
+        {
+          "w": "يُشَاهِدَ",
+          "root": "ش ه د",
+          "bs": "gledati",
+          "en": "watch"
+        },
+        {
+          "w": "مُبَارَاةَ",
+          "root": "ب ر أ",
+          "bs": "utakmicu",
+          "en": "a match"
+        },
+        {
+          "w": "كُرَةِ الْقَدَمِ",
+          "root": "ك ر ر",
+          "bs": "fudbalsku",
+          "en": "football"
+        }
+      ]
     },
     {
       "arabic": "بَحَثَ عَنْهَا عَلَى الْإِنْتِرْنِتِ وَوَجَدَهَا.",
       "translation": "Tražio je na internetu i pronašao je.",
-      "translationEn": "He searched for it on the internet and found it."
+      "translationEn": "He searched for it on the internet and found it.",
+      "words": [
+        {
+          "w": "بَحَثَ",
+          "root": "ب ح ث",
+          "bs": "tražio je",
+          "en": "searched"
+        },
+        {
+          "w": "الْإِنْتِرْنِتِ",
+          "bs": "internetu",
+          "en": "the internet"
+        },
+        {
+          "w": "وَجَدَهَا",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found it"
+        }
+      ]
     },
     {
       "arabic": "فَتَحَ الْمُتَصَفِّحَ وَبَدَأَ الْمُشَاهَدَةَ.",
       "translation": "Otvorio je pretraživač i počeo gledati.",
-      "translationEn": "He opened the browser and started watching."
+      "translationEn": "He opened the browser and started watching.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "الْمُتَصَفِّحَ",
+          "root": "ص ف ح",
+          "bs": "pretraživač",
+          "en": "the browser"
+        },
+        {
+          "w": "بَدَأَ",
+          "root": "ب د أ",
+          "bs": "počeo je",
+          "en": "started"
+        },
+        {
+          "w": "الْمُشَاهَدَةَ",
+          "root": "ش ه د",
+          "bs": "gledanje",
+          "en": "watching"
+        }
+      ]
     },
     {
       "arabic": "كَانَتِ الصُّورَةُ وَاضِحَةً وَالصَّوْتُ جَيِّدًا.",
       "translation": "Slika je bila jasna a zvuk dobar.",
-      "translationEn": "The picture was clear and the sound was good."
+      "translationEn": "The picture was clear and the sound was good.",
+      "words": [
+        {
+          "w": "الصُّورَةُ",
+          "root": "ص و ر",
+          "bs": "slika",
+          "en": "the picture"
+        },
+        {
+          "w": "وَاضِحَةً",
+          "root": "و ض ح",
+          "bs": "jasna",
+          "en": "clear"
+        },
+        {
+          "w": "الصَّوْتُ",
+          "root": "ص و ت",
+          "bs": "zvuk",
+          "en": "the sound"
+        },
+        {
+          "w": "جَيِّدًا",
+          "root": "ج و د",
+          "bs": "dobar",
+          "en": "good"
+        }
+      ]
     }
   ],
   "metadata": {

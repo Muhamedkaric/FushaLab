@@ -6,31 +6,142 @@
     {
       "arabic": "لَمْ يَنَمْ مَازِنٌ جَيِّدًا لِأَنَّهُ كَانَ قَلِقًا.",
       "translation": "Mazin nije dobro spavao jer je bio zabrinut.",
-      "translationEn": "Mazin did not sleep well because he was worried."
+      "translationEn": "Mazin did not sleep well because he was worried.",
+      "words": [
+        {
+          "w": "يَنَمْ",
+          "root": "ن و م",
+          "bs": "spavao",
+          "en": "sleep"
+        },
+        {
+          "w": "قَلِقًا",
+          "root": "ق ل ق",
+          "bs": "zabrinut",
+          "en": "worried"
+        }
+      ]
     },
     {
       "arabic": "شَعَرَ فِي الصَّبَاحِ بِتَعَبٍ شَدِيدٍ.",
       "translation": "Ujutro se osjetio jako umornim.",
-      "translationEn": "In the morning he felt very tired."
+      "translationEn": "In the morning he felt very tired.",
+      "words": [
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio se",
+          "en": "felt"
+        },
+        {
+          "w": "بِتَعَبٍ",
+          "root": "ت ع ب",
+          "bs": "umoran",
+          "en": "tired"
+        },
+        {
+          "w": "شَدِيدٍ",
+          "root": "ش د د",
+          "bs": "jako",
+          "en": "severe"
+        }
+      ]
     },
     {
       "arabic": "نَصَحَهُ صَدِيقُهُ بِأَنْ يَبْتَعِدَ عَنِ الْهَاتِفِ قَبْلَ النَّوْمِ.",
       "translation": "Prijatelj ga je savjetovao da odloži telefon prije spavanja.",
-      "translationEn": "His friend advised him to stay away from the phone before sleeping."
+      "translationEn": "His friend advised him to stay away from the phone before sleeping.",
+      "words": [
+        {
+          "w": "نَصَحَهُ",
+          "root": "ن ص ح",
+          "bs": "savjetovao ga je",
+          "en": "advised him"
+        },
+        {
+          "w": "صَدِيقُهُ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "friend"
+        },
+        {
+          "w": "يَبْتَعِدَ",
+          "root": "ب ع د",
+          "bs": "da se udalji",
+          "en": "to stay away"
+        },
+        {
+          "w": "الْهَاتِفِ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "phone"
+        },
+        {
+          "w": "النَّوْمِ",
+          "root": "ن و م",
+          "bs": "spavanje",
+          "en": "sleeping"
+        }
+      ]
     },
     {
       "arabic": "جَرَّبَ مَازِنٌ ذَلِكَ وَنَامَ بِشَكْلٍ أَفْضَلَ.",
       "translation": "Mazin je to isprobao i bolje je spavao.",
-      "translationEn": "Mazin tried that and slept much better."
+      "translationEn": "Mazin tried that and slept much better.",
+      "words": [
+        {
+          "w": "جَرَّبَ",
+          "root": "ج ر ب",
+          "bs": "isprobao je",
+          "en": "tried"
+        },
+        {
+          "w": "نَامَ",
+          "root": "ن و م",
+          "bs": "spavao je",
+          "en": "slept"
+        }
+      ]
     },
     {
       "arabic": "أَصْبَحَ يَنَامُ مُبَكِّرًا وَيَسْتَيْقِظُ نَشِيطًا.",
       "translation": "Počeo je rano ići na spavanje i buditi se svjež.",
-      "translationEn": "He started going to sleep early and waking up energetic."
+      "translationEn": "He started going to sleep early and waking up energetic.",
+      "words": [
+        {
+          "w": "يَنَامُ",
+          "root": "ن و م",
+          "bs": "ide na spavanje",
+          "en": "sleeps"
+        },
+        {
+          "w": "مُبَكِّرًا",
+          "root": "ب ك ر",
+          "bs": "rano",
+          "en": "early"
+        },
+        {
+          "w": "يَسْتَيْقِظُ",
+          "root": "ي ق ظ",
+          "bs": "budi se",
+          "en": "wakes up"
+        },
+        {
+          "w": "نَشِيطًا",
+          "root": "ن ش ط",
+          "bs": "svjež",
+          "en": "energetic"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sleep", "phone", "rest", "routine"]
+    "tags": [
+      "sleep",
+      "phone",
+      "rest",
+      "routine"
+    ]
   }
 }

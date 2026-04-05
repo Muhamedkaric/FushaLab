@@ -6,26 +6,128 @@
     {
       "arabic": "يَأْتِي المُعَلِّمُ إِلَى المَدْرَسَةِ فِي كُلِّ صَبَاحٍ.",
       "translation": "Nastavnik dolazi u školu svako jutro.",
-      "translationEn": "The teacher comes to school every morning."
+      "translationEn": "The teacher comes to school every morning.",
+      "words": [
+        {
+          "w": "يَأْتِي",
+          "root": "أ ت ي",
+          "bs": "dolazi",
+          "en": "comes"
+        },
+        {
+          "w": "المُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "nastavnik",
+          "en": "teacher"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        },
+        {
+          "w": "صَبَاحٍ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning"
+        }
+      ]
     },
     {
       "arabic": "يُحَضِّرُ الدَّرْسَ قَبْلَ أَنْ يَأْتِيَ الطُّلَّابُ.",
       "translation": "Priprema čas prije nego što dođu učenici.",
-      "translationEn": "He prepares the lesson before the students arrive."
+      "translationEn": "He prepares the lesson before the students arrive.",
+      "words": [
+        {
+          "w": "يُحَضِّرُ",
+          "root": "ح ض ر",
+          "bs": "priprema",
+          "en": "prepares"
+        },
+        {
+          "w": "الدَّرْسَ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "lesson"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        }
+      ]
     },
     {
       "arabic": "يَكْتُبُ الأَهْدَافَ عَلَى السَّبُّورَةِ بِوُضُوحٍ.",
       "translation": "Jasno piše ciljeve na tabli.",
-      "translationEn": "He writes the objectives on the board clearly."
+      "translationEn": "He writes the objectives on the board clearly.",
+      "words": [
+        {
+          "w": "يَكْتُبُ",
+          "root": "ك ت ب",
+          "bs": "piše",
+          "en": "writes"
+        },
+        {
+          "w": "الأَهْدَافَ",
+          "root": "ه د ف",
+          "bs": "ciljevi",
+          "en": "objectives"
+        },
+        {
+          "w": "السَّبُّورَةِ",
+          "root": "س ب ر",
+          "bs": "tabla",
+          "en": "board"
+        },
+        {
+          "w": "بِوُضُوحٍ",
+          "root": "و ض ح",
+          "bs": "jasno",
+          "en": "clearly"
+        }
+      ]
     },
     {
       "arabic": "يُرَحِّبُ بِالطُّلَّابِ عِنْدَ دُخُولِهِمُ الفَصْلَ.",
       "translation": "Dočekuje učenike kada ulaze u razred.",
-      "translationEn": "He welcomes the students when they enter the classroom."
+      "translationEn": "He welcomes the students when they enter the classroom.",
+      "words": [
+        {
+          "w": "يُرَحِّبُ",
+          "root": "ر ح ب",
+          "bs": "dočekuje",
+          "en": "welcomes"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "دُخُولِهِمُ",
+          "root": "د خ ل",
+          "bs": "ulazak",
+          "en": "entry"
+        },
+        {
+          "w": "الفَصْلَ",
+          "root": "ف ص ل",
+          "bs": "razred",
+          "en": "classroom"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["teacher", "preparation", "morning-routine"]
+    "tags": [
+      "teacher",
+      "preparation",
+      "morning-routine"
+    ]
   }
 }

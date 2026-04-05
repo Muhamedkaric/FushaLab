@@ -6,22 +6,45 @@
     {
       "arabic": "أَرَادَ أَبُو سَمِيرٍ شِرَاءَ خُضَارٍ مِنَ السُّوقِ.",
       "translation": "Samirov otac je htio kupiti povrće s pijace.",
-      "translationEn": "Samir's father wanted to buy vegetables from the market."
+      "translationEn": "Samir's father wanted to buy vegetables from the market.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "شِرَاءَ", "root": "ش ر ي", "bs": "kupovinu", "en": "to buy" },
+        { "w": "خُضَارٍ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca", "en": "market" }
+      ]
     },
     {
       "arabic": "كَانَ السُّوقُ مَزْدَحِمًا وَالأَصْوَاتُ عَالِيَةً.",
       "translation": "Pijaca je bila gužvovita i glasovi su bili glasni.",
-      "translationEn": "The market was crowded and the voices were loud."
+      "translationEn": "The market was crowded and the voices were loud.",
+      "words": [
+        { "w": "السُّوقُ", "root": "س و ق", "bs": "pijaca", "en": "market" },
+        { "w": "مَزْدَحِمًا", "root": "ز ح م", "bs": "gužvovita", "en": "crowded" },
+        { "w": "الأَصْوَاتُ", "root": "ص و ت", "bs": "glasovi", "en": "voices" },
+        { "w": "عَالِيَةً", "root": "ع ل و", "bs": "glasni", "en": "loud" }
+      ]
     },
     {
       "arabic": "قَارَنَ الأَسْعَارَ عِنْدَ أَكْثَرَ مِنْ بَائِعٍ.",
       "translation": "Usporedio je cijene kod više prodavača.",
-      "translationEn": "He compared prices at more than one seller."
+      "translationEn": "He compared prices at more than one seller.",
+      "words": [
+        { "w": "قَارَنَ", "root": "ق ر ن", "bs": "usporedio je", "en": "compared" },
+        { "w": "الأَسْعَارَ", "root": "س ع ر", "bs": "cijene", "en": "prices" },
+        { "w": "بَائِعٍ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" }
+      ]
     },
     {
       "arabic": "اشْتَرَى مِنَ البَائِعِ الذِي عِنْدَهُ أَرْخَصُ سِعْرٍ.",
       "translation": "Kupio je od prodavača koji je imao najjeftiniju cijenu.",
-      "translationEn": "He bought from the seller who had the cheapest price."
+      "translationEn": "He bought from the seller who had the cheapest price.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "البَائِعِ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" },
+        { "w": "أَرْخَصُ", "root": "ر خ ص", "bs": "najjeftinija", "en": "cheapest" },
+        { "w": "سِعْرٍ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+      ]
     }
   ],
   "metadata": {

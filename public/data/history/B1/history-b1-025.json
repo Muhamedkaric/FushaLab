@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ الأُسْتَاذُ يَجْلِسُ فِي الْمَسْجِدِ وَيُعَلِّمُ الطُّلَّابَ.",
       "translation": "Učitelj je sjedio u džamiji i poučavao studente.",
-      "translationEn": "The teacher used to sit in the mosque and teach the students."
+      "translationEn": "The teacher used to sit in the mosque and teach the students.",
+      "words": [
+        { "w": "الأُسْتَاذُ", "root": "أ س ت ذ", "bs": "učitelj", "en": "the teacher" },
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" },
+        { "w": "يُعَلِّمُ", "root": "ع ل م", "bs": "poučava", "en": "teaches" },
+        { "w": "الطُّلَّابَ", "root": "ط ل ب", "bs": "studente", "en": "the students" }
+      ]
     },
     {
       "arabic": "جَلَسَ الطُّلَّابُ حَوْلَهُ وَاسْتَمَعُوا بِانْتِبَاهٍ.",
       "translation": "Studenti su sjeli oko njega i pažljivo slušali.",
-      "translationEn": "The students sat around him and listened attentively."
+      "translationEn": "The students sat around him and listened attentively.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "studenti", "en": "the students" },
+        { "w": "اسْتَمَعُوا", "root": "س م ع", "bs": "slušali su", "en": "listened" },
+        { "w": "انْتِبَاهٍ", "root": "ن ب ه", "bs": "pažnja", "en": "attention" }
+      ]
     },
     {
       "arabic": "كَانَ يُعَلِّمُهُمُ اللُّغَةَ وَالْحِسَابَ وَالتَّارِيخَ.",
       "translation": "Podučavao ih je jeziku, računanju i historiji.",
-      "translationEn": "He taught them language, arithmetic, and history."
+      "translationEn": "He taught them language, arithmetic, and history.",
+      "words": [
+        { "w": "يُعَلِّمُهُمُ", "root": "ع ل م", "bs": "podučavao ih je", "en": "taught them" },
+        { "w": "اللُّغَةَ", "root": "ل غ و", "bs": "jezik", "en": "language" },
+        { "w": "الْحِسَابَ", "root": "ح س ب", "bs": "računanje", "en": "arithmetic" },
+        { "w": "التَّارِيخَ", "root": "أ ر خ", "bs": "historija", "en": "history" }
+      ]
     },
     {
       "arabic": "كَانَ الدَّرْسُ يَبْدَأُ بَعْدَ صَلَاةِ الصُّبْحِ.",
       "translation": "Čas je počinjao poslije jutarnje molitve.",
-      "translationEn": "The lesson used to start after the morning prayer."
+      "translationEn": "The lesson used to start after the morning prayer.",
+      "words": [
+        { "w": "الدَّرْسُ", "root": "د ر س", "bs": "čas", "en": "the lesson" },
+        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "starts" },
+        { "w": "صَلَاةِ", "root": "ص ل و", "bs": "molitva", "en": "prayer" },
+        { "w": "الصُّبْحِ", "root": "ص ب ح", "bs": "jutarnja", "en": "morning" }
+      ]
     }
   ],
   "metadata": {

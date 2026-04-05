@@ -6,22 +6,44 @@
     {
       "arabic": "قَالَتِ الْأُمُّ: «عَصَا السَّفَرِ مَنْ عَادَةِ الْأَسْفَارِ».",
       "translation": "Majka je rekla: «Štap za putovanje dolazi od navike putovanja».",
-      "translationEn": "The mother said: «The travel staff comes from the habit of traveling»."
+      "translationEn": "The mother said: «The travel staff comes from the habit of traveling».",
+      "words": [
+        { "w": "عَصَا", "root": "ع ص و", "bs": "štap", "en": "staff" },
+        { "w": "السَّفَرِ", "root": "س ف ر", "bs": "putovanje", "en": "travel" },
+        { "w": "عَادَةِ", "root": "ع و د", "bs": "navika", "en": "habit" },
+        { "w": "الْأَسْفَارِ", "root": "س ف ر", "bs": "putovanja", "en": "travels" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الِاسْتِعْدَادَ الْجَيِّدَ يَجْعَلُ الأُمُورَ أَسْهَلَ.",
       "translation": "To znači da dobra priprema čini stvari lakšim.",
-      "translationEn": "This means that good preparation makes things easier."
+      "translationEn": "This means that good preparation makes things easier.",
+      "words": [
+        { "w": "الِاسْتِعْدَادَ", "root": "ع د د", "bs": "priprema", "en": "preparation" },
+        { "w": "الْجَيِّدَ", "root": "ج و د", "bs": "dobra", "en": "good" },
+        { "w": "أَسْهَلَ", "root": "س ه ل", "bs": "lakše", "en": "easier" }
+      ]
     },
     {
       "arabic": "حَضَّرَتْ مَيَّاسُ حَقِيبَتَهَا قَبْلَ الرِّحْلَةِ بِيَوْمَيْنِ.",
       "translation": "Majas je pripremila svoju torbu dva dana prije putovanja.",
-      "translationEn": "Mayas prepared her bag two days before the trip."
+      "translationEn": "Mayas prepared her bag two days before the trip.",
+      "words": [
+        { "w": "حَضَّرَتْ", "root": "ح ض ر", "bs": "pripremila je", "en": "prepared" },
+        { "w": "حَقِيبَتَهَا", "root": "ح ق ب", "bs": "njena torba", "en": "her bag" },
+        { "w": "الرِّحْلَةِ", "root": "ر ح ل", "bs": "putovanje", "en": "trip" }
+      ]
     },
     {
       "arabic": "وَصَلَتْ إِلَى الْمَطَارِ بِهُدُوءٍ وَبِدُونِ تَوَتُّرٍ.",
       "translation": "Stigla je na aerodrom mirno i bez stresa.",
-      "translationEn": "She arrived at the airport calmly and without stress."
+      "translationEn": "She arrived at the airport calmly and without stress.",
+      "words": [
+        { "w": "وَصَلَتْ", "root": "و ص ل", "bs": "stigla je", "en": "arrived" },
+        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno", "en": "calmly" },
+        { "w": "تَوَتُّرٍ", "root": "و ت ر", "bs": "stres", "en": "stress" }
+      ]
     }
   ],
   "metadata": {

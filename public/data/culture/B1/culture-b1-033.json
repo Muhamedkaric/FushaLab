@@ -6,22 +6,47 @@
     {
       "arabic": "عِنْدَمَا يَمُوتُ شَخْصٌ، يَزُورُ النَّاسُ الأُسْرَةَ.",
       "translation": "Kada neko umre, ljudi posjećuju porodicu.",
-      "translationEn": "When someone dies, people visit the family."
+      "translationEn": "When someone dies, people visit the family.",
+      "words": [
+        { "w": "يَمُوتُ", "root": "م و ت", "bs": "umre", "en": "dies" },
+        { "w": "شَخْصٌ", "root": "ش خ ص", "bs": "neko", "en": "someone" },
+        { "w": "يَزُورُ", "root": "ز و ر", "bs": "posjećuju", "en": "visit" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "الأُسْرَةَ", "root": "أ س ر", "bs": "porodicu", "en": "family" }
+      ]
     },
     {
       "arabic": "يُقَدِّمُونَ العَزَاءَ وَيَقُولُونَ كَلَامًا طَيِّبًا.",
       "translation": "Izražavaju saučešće i govore lijepe riječi.",
-      "translationEn": "They offer condolences and say kind words."
+      "translationEn": "They offer condolences and say kind words.",
+      "words": [
+        { "w": "يُقَدِّمُونَ", "root": "ق د م", "bs": "izražavaju", "en": "offer" },
+        { "w": "العَزَاءَ", "root": "ع ز و", "bs": "saučešće", "en": "condolences" },
+        { "w": "يَقُولُونَ", "root": "ق و ل", "bs": "govore", "en": "say" },
+        { "w": "كَلَامًا", "root": "ك ل م", "bs": "riječi", "en": "words" },
+        { "w": "طَيِّبًا", "root": "ط ي ب", "bs": "lijepe", "en": "kind" }
+      ]
     },
     {
       "arabic": "يَجْلِسُونَ مَعَ الأُسْرَةِ وَيُشَارِكُونَهُمْ حُزْنَهُمْ.",
       "translation": "Sjede s porodicom i dijele njihovu žalost.",
-      "translationEn": "They sit with the family and share in their grief."
+      "translationEn": "They sit with the family and share in their grief.",
+      "words": [
+        { "w": "يَجْلِسُونَ", "root": "ج ل س", "bs": "sjede", "en": "sit" },
+        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodicom", "en": "family" },
+        { "w": "يُشَارِكُونَهُمْ", "root": "ش ر ك", "bs": "dijele s njima", "en": "share with them" },
+        { "w": "حُزْنَهُمْ", "root": "ح ز ن", "bs": "žalost", "en": "grief" }
+      ]
     },
     {
       "arabic": "هَذَا وَاجِبٌ اجْتِمَاعِيٌّ مُهِمٌّ جِدًّا.",
       "translation": "Ovo je vrlo važna društvena obaveza.",
-      "translationEn": "This is a very important social duty."
+      "translationEn": "This is a very important social duty.",
+      "words": [
+        { "w": "وَاجِبٌ", "root": "و ج ب", "bs": "obaveza", "en": "duty" },
+        { "w": "اجْتِمَاعِيٌّ", "root": "ج م ع", "bs": "društvena", "en": "social" },
+        { "w": "مُهِمٌّ", "root": "هـ م م", "bs": "važna", "en": "important" }
+      ]
     }
   ],
   "metadata": {

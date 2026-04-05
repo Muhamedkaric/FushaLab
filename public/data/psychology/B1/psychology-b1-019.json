@@ -6,22 +6,44 @@
     {
       "arabic": "كَانَ عَلِيٌّ يُقَارِنُ نَفْسَهُ بِأَصْدِقَائِهِ دَائِمًا.",
       "translation": "Ali je uvijek poređivao sebe sa prijateljima.",
-      "translationEn": "Ali always used to compare himself to his friends."
+      "translationEn": "Ali always used to compare himself to his friends.",
+      "words": [
+        { "w": "يُقَارِنُ", "root": "ق ر ن", "bs": "poredi", "en": "compares" },
+        { "w": "نَفْسَهُ", "root": "ن ف س", "bs": "sebe", "en": "himself" },
+        { "w": "أَصْدِقَائِهِ", "root": "ص د ق", "bs": "njegovi prijatelji", "en": "his friends" }
+      ]
     },
     {
       "arabic": "شَعَرَ بِالْحُزْنِ لِأَنَّهُ لَا يَعُدُّ نَفْسَهُ جَيِّدًا.",
       "translation": "Osjećao se tužno jer sebe nije smatrao dobrim.",
-      "translationEn": "He felt sad because he did not consider himself good enough."
+      "translationEn": "He felt sad because he did not consider himself good enough.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjećao se", "en": "felt" },
+        { "w": "الْحُزْنِ", "root": "ح ز ن", "bs": "tuga", "en": "sadness" },
+        { "w": "يَعُدُّ", "root": "ع د د", "bs": "smatra", "en": "considers" },
+        { "w": "نَفْسَهُ", "root": "ن ف س", "bs": "sebe", "en": "himself" },
+        { "w": "جَيِّدًا", "root": "ج ي د", "bs": "dobrim", "en": "good" }
+      ]
     },
     {
       "arabic": "قَالَتْ لَهُ أُمُّهُ «أَنْتَ مُمَيَّزٌ وَلَيْسَ كَأَحَدٍ».",
       "translation": "Majka mu je rekla \"ti si poseban i nisi kao niko drugi\".",
-      "translationEn": "His mother told him \"you are special and unlike anyone else\"."
+      "translationEn": "His mother told him \"you are special and unlike anyone else\".",
+      "words": [
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "told" },
+        { "w": "أُمُّهُ", "root": "أ م م", "bs": "njegova majka", "en": "his mother" },
+        { "w": "مُمَيَّزٌ", "root": "م ي ز", "bs": "poseban", "en": "special" }
+      ]
     },
     {
       "arabic": "كُلُّ إِنْسَانٍ لَهُ مَوَاهِبُ تَخُصُّهُ.",
       "translation": "Svaki čovjek ima talente koji mu pripadaju.",
-      "translationEn": "Every person has talents that are unique to them."
+      "translationEn": "Every person has talents that are unique to them.",
+      "words": [
+        { "w": "إِنْسَانٍ", "root": "أ ن س", "bs": "čovjek", "en": "a person" },
+        { "w": "مَوَاهِبُ", "root": "و ه ب", "bs": "talenti", "en": "talents" },
+        { "w": "تَخُصُّهُ", "root": "خ ص ص", "bs": "njemu pripadaju", "en": "unique to them" }
+      ]
     }
   ],
   "metadata": {

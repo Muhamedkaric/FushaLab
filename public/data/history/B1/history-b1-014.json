@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَتِ الْبِئْرُ فِي وَسَطِ الْقَرْيَةِ مُهِمَّةً جِدًّا.",
       "translation": "Bunar u središtu sela bio je veoma važan.",
-      "translationEn": "The well in the centre of the village was very important."
+      "translationEn": "The well in the centre of the village was very important.",
+      "words": [
+        { "w": "الْبِئْرُ", "root": "ب أ ر", "bs": "bunar", "en": "the well" },
+        { "w": "وَسَطِ", "root": "و س ط", "bs": "središte", "en": "centre" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "sela", "en": "the village" },
+        { "w": "مُهِمَّةً", "root": "ه م م", "bs": "važan", "en": "important" }
+      ]
     },
     {
       "arabic": "كَانَ النَّاسُ يَجْتَمِعُونَ عِنْدَهَا كُلَّ يَوْمٍ.",
       "translation": "Ljudi su se skupljali oko njega svaki dan.",
-      "translationEn": "The people would gather around it every day."
+      "translationEn": "The people would gather around it every day.",
+      "words": [
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "يَجْتَمِعُونَ", "root": "ج م ع", "bs": "skupljaju se", "en": "gather" }
+      ]
     },
     {
       "arabic": "أَخَذَتِ النِّسَاءُ الْمَاءَ فِي جِرَارٍ كَبِيرَةٍ.",
       "translation": "Žene su uzimale vodu u velikim loncima.",
-      "translationEn": "The women took water in large jars."
+      "translationEn": "The women took water in large jars.",
+      "words": [
+        { "w": "أَخَذَتِ", "root": "أ خ ذ", "bs": "uzimale su", "en": "took" },
+        { "w": "النِّسَاءُ", "root": "ن س و", "bs": "žene", "en": "the women" },
+        { "w": "الْمَاءَ", "root": "م و ه", "bs": "vodu", "en": "water" },
+        { "w": "جِرَارٍ", "root": "ج ر ر", "bs": "lonci", "en": "jars" },
+        { "w": "كَبِيرَةٍ", "root": "ك ب ر", "bs": "veliki", "en": "large" }
+      ]
     },
     {
       "arabic": "كَانَ الْمَاءُ الْبَارِدُ مِنَ الْبِئْرِ لَذِيذًا فِي الصَّيْفِ.",
       "translation": "Hladna voda iz bunara bila je ukusna ljeti.",
-      "translationEn": "The cold water from the well was delicious in summer."
+      "translationEn": "The cold water from the well was delicious in summer.",
+      "words": [
+        { "w": "الْمَاءُ", "root": "م و ه", "bs": "voda", "en": "the water" },
+        { "w": "الْبَارِدُ", "root": "ب ر د", "bs": "hladna", "en": "cold" },
+        { "w": "الْبِئْرِ", "root": "ب أ ر", "bs": "bunara", "en": "the well" },
+        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusna", "en": "delicious" },
+        { "w": "الصَّيْفِ", "root": "ص ي ف", "bs": "ljeto", "en": "summer" }
+      ]
     }
   ],
   "metadata": {

@@ -6,26 +6,127 @@
     {
       "arabic": "يَأْكُلُ خَالِدٌ الْفَاكِهَةَ كُلَّ يَوْمٍ لِأَنَّهَا مُفِيدَةٌ لِلصِّحَّةِ.",
       "translation": "Halid jede voće svaki dan jer je korisno za zdravlje.",
-      "translationEn": "Khalid eats fruit every day because it is good for health."
+      "translationEn": "Khalid eats fruit every day because it is good for health.",
+      "words": [
+        {
+          "w": "يَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eats"
+        },
+        {
+          "w": "الْفَاكِهَةَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit"
+        },
+        {
+          "w": "مُفِيدَةٌ",
+          "root": "ف ي د",
+          "bs": "korisno",
+          "en": "beneficial"
+        },
+        {
+          "w": "لِلصِّحَّةِ",
+          "root": "ص ح ح",
+          "bs": "za zdravlje",
+          "en": "for health"
+        }
+      ]
     },
     {
       "arabic": "يُفَضِّلُ التُّفَّاحَ وَالْمَوْزَ وَالْبُرْتُقَالَ.",
       "translation": "Preferira jabuke, banane i naranče.",
-      "translationEn": "He prefers apples, bananas, and oranges."
+      "translationEn": "He prefers apples, bananas, and oranges.",
+      "words": [
+        {
+          "w": "يُفَضِّلُ",
+          "root": "ف ض ل",
+          "bs": "preferira",
+          "en": "prefers"
+        },
+        {
+          "w": "التُّفَّاحَ",
+          "root": "ت ف ح",
+          "bs": "jabuke",
+          "en": "apples"
+        },
+        {
+          "w": "الْمَوْزَ",
+          "bs": "banane",
+          "en": "bananas"
+        },
+        {
+          "w": "الْبُرْتُقَالَ",
+          "bs": "naranče",
+          "en": "oranges"
+        }
+      ]
     },
     {
       "arabic": "قَالَتْ لَهُ أُمُّهُ إِنَّ الْفَاكِهَةَ تُقَوِّي الْمَنَاعَةَ.",
       "translation": "Majka mu je rekla da voće jača imunitet.",
-      "translationEn": "His mother told him that fruit strengthens immunity."
+      "translationEn": "His mother told him that fruit strengthens immunity.",
+      "words": [
+        {
+          "w": "الْفَاكِهَةَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit"
+        },
+        {
+          "w": "تُقَوِّي",
+          "root": "ق و ي",
+          "bs": "jača",
+          "en": "strengthens"
+        },
+        {
+          "w": "الْمَنَاعَةَ",
+          "root": "م ن ع",
+          "bs": "imunitet",
+          "en": "immunity"
+        }
+      ]
     },
     {
       "arabic": "يَأْخُذُ خَالِدٌ قِطْعَةَ فَاكِهَةٍ فِي حَقِيبَتِهِ كُلَّ يَوْمٍ.",
       "translation": "Halid svaki dan stavlja komad voća u svoju torbu.",
-      "translationEn": "Khalid puts a piece of fruit in his bag every day."
+      "translationEn": "Khalid puts a piece of fruit in his bag every day.",
+      "words": [
+        {
+          "w": "يَأْخُذُ",
+          "root": "أ خ ذ",
+          "bs": "uzima",
+          "en": "takes"
+        },
+        {
+          "w": "قِطْعَةَ",
+          "root": "ق ط ع",
+          "bs": "komad",
+          "en": "piece"
+        },
+        {
+          "w": "فَاكِهَةٍ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit"
+        },
+        {
+          "w": "حَقِيبَتِهِ",
+          "root": "ح ق ب",
+          "bs": "torba",
+          "en": "bag"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["fruit", "nutrition", "immunity", "healthy habits"]
+    "tags": [
+      "fruit",
+      "nutrition",
+      "immunity",
+      "healthy habits"
+    ]
   }
 }

@@ -6,27 +6,54 @@
     {
       "arabic": "يَوْمُ الجُمُعَةِ يَوْمٌ مُهِمٌّ لِلمُسْلِمِينَ.",
       "translation": "Džuma je važan dan za muslimane.",
-      "translationEn": "Friday is an important day for Muslims."
+      "translationEn": "Friday is an important day for Muslims.",
+      "words": [
+        { "w": "الجُمُعَةِ", "root": "ج م ع", "bs": "džuma", "en": "Friday" },
+        { "w": "يَوْمٌ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "مُهِمٌّ", "root": "هـ م م", "bs": "važan", "en": "important" },
+        { "w": "المُسْلِمِينَ", "root": "س ل م", "bs": "muslimanima", "en": "Muslims" }
+      ]
     },
     {
       "arabic": "يَذْهَبُ الرِّجَالُ إِلَى المَسْجِدِ لِصَلَاةِ الجُمُعَةِ.",
       "translation": "Muškarci idu u džamiju na džuma-namaz.",
-      "translationEn": "Men go to the mosque for Friday prayer."
+      "translationEn": "Men go to the mosque for Friday prayer.",
+      "words": [
+        { "w": "يَذْهَبُ", "root": "ذ هـ ب", "bs": "idu", "en": "go" },
+        { "w": "الرِّجَالُ", "root": "ر ج ل", "bs": "muškarci", "en": "men" },
+        { "w": "المَسْجِدِ", "root": "س ج د", "bs": "džamiju", "en": "mosque" },
+        { "w": "صَلَاةِ", "root": "ص ل و", "bs": "namazu", "en": "prayer" }
+      ]
     },
     {
       "arabic": "يَسْتَمِعُونَ إِلَى الخُطْبَةِ قَبْلَ الصَّلَاةِ.",
       "translation": "Slušaju hutbu prije namaza.",
-      "translationEn": "They listen to the sermon before the prayer."
+      "translationEn": "They listen to the sermon before the prayer.",
+      "words": [
+        { "w": "يَسْتَمِعُونَ", "root": "س م ع", "bs": "slušaju", "en": "listen" },
+        { "w": "الخُطْبَةِ", "root": "خ ط ب", "bs": "hutbu", "en": "sermon" },
+        { "w": "الصَّلَاةِ", "root": "ص ل و", "bs": "namaza", "en": "prayer" }
+      ]
     },
     {
       "arabic": "بَعْدَ الصَّلَاةِ، يَتَحَدَّثُونَ مَعَ بَعْضِهِمْ.",
       "translation": "Nakon namaza, razgovaraju međusobno.",
-      "translationEn": "After the prayer, they talk with each other."
+      "translationEn": "After the prayer, they talk with each other.",
+      "words": [
+        { "w": "الصَّلَاةِ", "root": "ص ل و", "bs": "namaza", "en": "prayer" },
+        { "w": "يَتَحَدَّثُونَ", "root": "ح د ث", "bs": "razgovaraju", "en": "talk" }
+      ]
     },
     {
       "arabic": "هَذَا اليَوْمُ وَقْتٌ لِلرَّاحَةِ وَالعَائِلَةِ.",
       "translation": "Ovaj dan je vrijeme za odmor i porodicu.",
-      "translationEn": "This day is a time for rest and family."
+      "translationEn": "This day is a time for rest and family.",
+      "words": [
+        { "w": "اليَوْمُ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "وَقْتٌ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "odmora", "en": "rest" },
+        { "w": "العَائِلَةِ", "root": "ع و ل", "bs": "porodice", "en": "family" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,46 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ بَعْضَ النَّاسِ يَتَعَلَّمُ بِشَكْلٍ أَفْضَلَ بِالسَّمَاعِ.",
       "translation": "Smatram da neki ljudi uče bolje slušanjem.",
-      "translationEn": "I believe that some people learn better by listening."
+      "translationEn": "I believe that some people learn better by listening.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uče", "en": "learn" },
+        { "w": "بِالسَّمَاعِ", "root": "س م ع", "bs": "slušanjem", "en": "by listening" }
+      ]
     },
     {
       "arabic": "وَبَعْضُهُمْ يَتَعَلَّمُ بِشَكْلٍ أَفْضَلَ بِالنَّظَرِ وَالْقِرَاءَةِ.",
       "translation": "A neki uče bolje gledanjem i čitanjem.",
-      "translationEn": "And some learn better by looking and reading."
+      "translationEn": "And some learn better by looking and reading.",
+      "words": [
+        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uče", "en": "learn" },
+        { "w": "أَفْضَلَ", "root": "ف ض ل", "bs": "bolje", "en": "better" },
+        { "w": "بِالنَّظَرِ", "root": "ن ظ ر", "bs": "gledanjem", "en": "by looking" },
+        { "w": "الْقِرَاءَةِ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" }
+      ]
     },
     {
       "arabic": "كُلُّ شَخْصٍ يَعْرِفُ الطَّرِيقَةَ الَّتِي تُنَاسِبُهُ.",
       "translation": "Svaka osoba zna metodu koja joj odgovara.",
-      "translationEn": "Every person knows the method that suits them."
+      "translationEn": "Every person knows the method that suits them.",
+      "words": [
+        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
+        { "w": "يَعْرِفُ", "root": "ع ر ف", "bs": "zna", "en": "knows" },
+        { "w": "الطَّرِيقَةَ", "root": "ط ر ق", "bs": "metoda", "en": "method" },
+        { "w": "تُنَاسِبُهُ", "root": "ن س ب", "bs": "odgovara mu", "en": "suits them" }
+      ]
     },
     {
       "arabic": "الْمُهِمُّ أَنْ تَجِدَ طَرِيقَتَكَ وَتَسِيرَ عَلَيْهَا.",
       "translation": "Važno je pronaći svoju metodu i slijediti je.",
-      "translationEn": "What matters is to find your way and follow it."
+      "translationEn": "What matters is to find your way and follow it.",
+      "words": [
+        { "w": "الْمُهِمُّ", "root": "ه م م", "bs": "važno", "en": "what matters" },
+        { "w": "تَجِدَ", "root": "و ج د", "bs": "da pronađeš", "en": "to find" },
+        { "w": "طَرِيقَتَكَ", "root": "ط ر ق", "bs": "tvoja metoda", "en": "your way" },
+        { "w": "تَسِيرَ", "root": "س ي ر", "bs": "da slijediš", "en": "to follow" }
+      ]
     }
   ],
   "metadata": {

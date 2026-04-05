@@ -6,22 +6,46 @@
     {
       "arabic": "ذَهَبَ يُوسُفُ إِلَى الدُّكَّانِ لِيَشْتَرِيَ الخُبْزَ وَالحَلِيبَ.",
       "translation": "Jusuf je otišao u prodavnicu da kupi hljeb i mlijeko.",
-      "translationEn": "Yusuf went to the shop to buy bread and milk."
+      "translationEn": "Yusuf went to the shop to buy bread and milk.",
+      "words": [
+        { "w": "الدُّكَّانِ", "root": "د ك ن", "bs": "prodavnica", "en": "shop" },
+        { "w": "لِيَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "الخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "الحَلِيبَ", "root": "ح ل ب", "bs": "mlijeko", "en": "milk" }
+      ]
     },
     {
       "arabic": "سَأَلَ عَنِ السِّعْرِ وَدَفَعَ بِالنُّقُودِ.",
       "translation": "Pitao je za cijenu i platio gotovinom.",
-      "translationEn": "He asked about the price and paid with cash."
+      "translationEn": "He asked about the price and paid with cash.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "السِّعْرِ", "root": "س ع ر", "bs": "cijena", "en": "price" },
+        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
+        { "w": "النُّقُودِ", "root": "ن ق د", "bs": "gotovina", "en": "cash" }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ البَائِعُ الباقِيَ مِنَ المَبْلَغِ.",
       "translation": "Prodavač mu je dao kusur.",
-      "translationEn": "The seller gave him the change."
+      "translationEn": "The seller gave him the change.",
+      "words": [
+        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "gave him" },
+        { "w": "البَائِعُ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" },
+        { "w": "الباقِيَ", "root": "ب ق ي", "bs": "kusur", "en": "change" },
+        { "w": "المَبْلَغِ", "root": "ب ل غ", "bs": "iznos", "en": "amount" }
+      ]
     },
     {
       "arabic": "شَكَرَ يُوسُفُ البَائِعَ وَخَرَجَ مِنَ الدُّكَّانِ.",
       "translation": "Jusuf je zahvalio prodavaču i izašao iz prodavnice.",
-      "translationEn": "Yusuf thanked the seller and left the shop."
+      "translationEn": "Yusuf thanked the seller and left the shop.",
+      "words": [
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "البَائِعَ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" },
+        { "w": "خَرَجَ", "root": "خ ر ج", "bs": "izašao je", "en": "left" },
+        { "w": "الدُّكَّانِ", "root": "د ك ن", "bs": "prodavnica", "en": "shop" }
+      ]
     }
   ],
   "metadata": {

@@ -6,27 +6,57 @@
     {
       "arabic": "اِسْتَيْقَظَ أَحْمَدُ بَاكِرًا فِي الصَّبَاحِ.",
       "translation": "Ahmed se probudio rano ujutro.",
-      "translationEn": "Ahmed woke up early in the morning."
+      "translationEn": "Ahmed woke up early in the morning.",
+      "words": [
+        { "w": "اِسْتَيْقَظَ", "root": "ي ق ظ", "bs": "probudio se", "en": "woke up" },
+        { "w": "بَاكِرًا", "root": "ب ك ر", "bs": "rano", "en": "early" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "لَبِسَ مَلَابِسَهُ وَأَكَلَ الإِفْطَارَ بِسُرْعَةٍ.",
       "translation": "Obukao se i brzo pojeo doručak.",
-      "translationEn": "He got dressed and quickly ate breakfast."
+      "translationEn": "He got dressed and quickly ate breakfast.",
+      "words": [
+        { "w": "لَبِسَ", "root": "ل ب س", "bs": "obukao se", "en": "got dressed" },
+        { "w": "مَلَابِسَهُ", "root": "ل ب س", "bs": "svoju odjeću", "en": "his clothes" },
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo", "en": "ate" },
+        { "w": "الإِفْطَارَ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" },
+        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+      ]
     },
     {
       "arabic": "أَخَذَ حَقِيبَتَهُ وَخَرَجَ مِنَ البَيْتِ.",
       "translation": "Uzeo je torbu i izašao iz kuće.",
-      "translationEn": "He took his bag and left the house."
+      "translationEn": "He took his bag and left the house.",
+      "words": [
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo", "en": "took" },
+        { "w": "حَقِيبَتَهُ", "root": "ح ق ب", "bs": "svoju torbu", "en": "his bag" },
+        { "w": "خَرَجَ", "root": "خ ر ج", "bs": "izašao", "en": "left/went out" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "house" }
+      ]
     },
     {
       "arabic": "وَصَلَ إِلَى المَدْرَسَةِ قَبْلَ الدَّرْسِ الأَوَّلِ.",
       "translation": "Stigao je u školu prije prvog časa.",
-      "translationEn": "He arrived at school before the first class."
+      "translationEn": "He arrived at school before the first class.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao", "en": "arrived" },
+        { "w": "المَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" },
+        { "w": "الدَّرْسِ", "root": "د ر س", "bs": "čas/lekcija", "en": "class/lesson" },
+        { "w": "الأَوَّلِ", "root": "أ و ل", "bs": "prvi", "en": "first" }
+      ]
     },
     {
       "arabic": "جَلَسَ فِي مَقْعَدِهِ وَأَخْرَجَ كِتَابَهُ.",
       "translation": "Sjeo je na svoje mjesto i izvadio knjigu.",
-      "translationEn": "He sat in his seat and took out his book."
+      "translationEn": "He sat in his seat and took out his book.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo", "en": "sat" },
+        { "w": "مَقْعَدِهِ", "root": "ق ع د", "bs": "njegovo sjedište/mjesto", "en": "his seat" },
+        { "w": "أَخْرَجَ", "root": "خ ر ج", "bs": "izvadio", "en": "took out" },
+        { "w": "كِتَابَهُ", "root": "ك ت ب", "bs": "njegova knjiga", "en": "his book" }
+      ]
     }
   ],
   "metadata": {

@@ -6,26 +6,129 @@
     {
       "arabic": "سَقَطَ الطِّفْلُ حَسَنٌ مِنَ الدَّرَّاجَةِ وَجُرِحَتْ رُكْبَتُهُ.",
       "translation": "Dječak Hasan je pao s bicikla i povrijedio koljeno.",
-      "translationEn": "The child Hasan fell from the bicycle and hurt his knee."
+      "translationEn": "The child Hasan fell from the bicycle and hurt his knee.",
+      "words": [
+        {
+          "w": "سَقَطَ",
+          "root": "س ق ط",
+          "bs": "pao je",
+          "en": "fell"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child"
+        },
+        {
+          "w": "الدَّرَّاجَةِ",
+          "root": "د ر ج",
+          "bs": "bicikl",
+          "en": "bicycle"
+        },
+        {
+          "w": "جُرِحَتْ",
+          "root": "ج ر ح",
+          "bs": "povrijedilo se",
+          "en": "was hurt"
+        },
+        {
+          "w": "رُكْبَتُهُ",
+          "root": "ر ك ب",
+          "bs": "koljeno",
+          "en": "knee"
+        }
+      ]
     },
     {
       "arabic": "أَسْرَعَتْ أُمُّهُ وَغَسَلَتِ الْجُرْحَ بِالْمَاءِ.",
       "translation": "Majka je brzo prišla i oprala ranu vodom.",
-      "translationEn": "His mother hurried over and washed the wound with water."
+      "translationEn": "His mother hurried over and washed the wound with water.",
+      "words": [
+        {
+          "w": "أَسْرَعَتْ",
+          "root": "س ر ع",
+          "bs": "požurila je",
+          "en": "hurried"
+        },
+        {
+          "w": "أُمُّهُ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother"
+        },
+        {
+          "w": "غَسَلَتِ",
+          "root": "غ س ل",
+          "bs": "oprala je",
+          "en": "washed"
+        },
+        {
+          "w": "الْجُرْحَ",
+          "root": "ج ر ح",
+          "bs": "rana",
+          "en": "wound"
+        }
+      ]
     },
     {
       "arabic": "وَضَعَتْ عَلَيْهِ ضِمَادًا صَغِيرًا مِنَ الصَّيْدَلِيَّةِ.",
       "translation": "Stavila je na njega mali flaster iz apoteke.",
-      "translationEn": "She put a small bandage from the pharmacy on it."
+      "translationEn": "She put a small bandage from the pharmacy on it.",
+      "words": [
+        {
+          "w": "وَضَعَتْ",
+          "root": "و ض ع",
+          "bs": "stavila je",
+          "en": "put"
+        },
+        {
+          "w": "ضِمَادًا",
+          "root": "ض م د",
+          "bs": "flaster",
+          "en": "bandage"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small"
+        }
+      ]
     },
     {
       "arabic": "بَكَى حَسَنٌ قَلِيلًا ثُمَّ عَادَ يَلْعَبُ.",
       "translation": "Hasan je malo plakao, a zatim se vratio igrati.",
-      "translationEn": "Hasan cried a little then went back to playing."
+      "translationEn": "Hasan cried a little then went back to playing.",
+      "words": [
+        {
+          "w": "بَكَى",
+          "root": "ب ك ي",
+          "bs": "plakao je",
+          "en": "cried"
+        },
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "went back"
+        },
+        {
+          "w": "يَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "igrati",
+          "en": "playing"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["injury", "child", "first aid", "bandage"]
+    "tags": [
+      "injury",
+      "child",
+      "first aid",
+      "bandage"
+    ]
   }
 }

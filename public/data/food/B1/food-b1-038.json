@@ -6,22 +6,44 @@
     {
       "arabic": "اشْتَرَى مُصْطَفَى فَلَافِلَ مِنَ الدُّكَّانِ الصَّغِيرِ.",
       "translation": "Mustafa je kupio falafel u maloj prodavnici.",
-      "translationEn": "Mustafa bought falafel from the small shop."
+      "translationEn": "Mustafa bought falafel from the small shop.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "فَلَافِلَ", "root": "ف ل ف", "bs": "falafel", "en": "falafel" },
+        { "w": "الدُّكَّانِ", "root": "د ك ك", "bs": "prodavnica/dućan", "en": "shop" },
+        { "w": "الصَّغِيرِ", "root": "ص غ ر", "bs": "male/mali", "en": "small" }
+      ]
     },
     {
       "arabic": "وَضَعَهُ فِي الْخُبْزِ مَعَ الطَّمَاطِمِ وَالطَّحِينَةِ.",
       "translation": "Stavio ga je u hljeb sa paradajzom i tahinijem.",
-      "translationEn": "He put it in the bread with tomatoes and tahini."
+      "translationEn": "He put it in the bread with tomatoes and tahini.",
+      "words": [
+        { "w": "وَضَعَهُ", "root": "و ض ع", "bs": "stavio ga je", "en": "put it" },
+        { "w": "الْخُبْزِ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "الطَّمَاطِمِ", "root": "ط م ط", "bs": "paradajz/rajčica", "en": "tomatoes" },
+        { "w": "الطَّحِينَةِ", "root": "ط ح ن", "bs": "tahini/susam pasta", "en": "tahini" }
+      ]
     },
     {
       "arabic": "أَكَلَهُ وَهُوَ يَمْشِي فِي الشَّارِعِ.",
       "translation": "Jeo ga je dok je hodao ulicom.",
-      "translationEn": "He ate it while walking in the street."
+      "translationEn": "He ate it while walking in the street.",
+      "words": [
+        { "w": "أَكَلَهُ", "root": "أ ك ل", "bs": "jeo ga je", "en": "ate it" },
+        { "w": "يَمْشِي", "root": "م ش ي", "bs": "hoda/ide", "en": "walking" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" }
+      ]
     },
     {
       "arabic": "كَانَتْ وَجْبَةً سَرِيعَةً وَلَكِنَّهَا شَهِيَّةً.",
       "translation": "Bio je to brzi obrok ali ukusan.",
-      "translationEn": "It was a quick meal but appetizing."
+      "translationEn": "It was a quick meal but appetizing.",
+      "words": [
+        { "w": "وَجْبَةً", "root": "و ج ب", "bs": "obrok/jelo", "en": "meal" },
+        { "w": "سَرِيعَةً", "root": "س ر ع", "bs": "brzu/brz", "en": "quick" },
+        { "w": "شَهِيَّةً", "root": "ش ه و", "bs": "ukusnu/slasnu", "en": "appetizing/tasty" }
+      ]
     }
   ],
   "metadata": {

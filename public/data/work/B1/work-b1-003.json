@@ -6,22 +6,46 @@
     {
       "arabic": "طَلَبَ الْمُدِيرُ مِنْ خَالِدٍ تَقْرِيرًا بَسِيطًا عَنِ الْعَمَلِ.",
       "translation": "Direktor je od Halida tražio jednostavan izvještaj o poslu.",
-      "translationEn": "The manager asked Khalid for a simple report about the work."
+      "translationEn": "The manager asked Khalid for a simple report about the work.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je/zamolio", "en": "asked/requested" },
+        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager/director" },
+        { "w": "تَقْرِيرًا", "root": "ق ر ر", "bs": "izvještaj", "en": "report" },
+        { "w": "بَسِيطًا", "root": "ب س ط", "bs": "jednostavan", "en": "simple" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao/rad", "en": "work" }
+      ]
     },
     {
       "arabic": "جَلَسَ خَالِدٌ عَلَى مَكْتَبِهِ وَبَدَأَ يَكْتُبُ.",
       "translation": "Halid je sjeo za svoj sto i počeo pisati.",
-      "translationEn": "Khalid sat at his desk and started writing."
+      "translationEn": "Khalid sat at his desk and started writing.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
+        { "w": "مَكْتَبِهِ", "root": "ك ت ب", "bs": "njegov sto/radni stol", "en": "his desk" },
+        { "w": "يَكْتُبُ", "root": "ك ت ب", "bs": "pisati", "en": "to write" }
+      ]
     },
     {
       "arabic": "كَتَبَ مَا حَقَّقَهُ الْفَرِيقُ خِلَالَ الْأُسْبُوعِ.",
       "translation": "Napisao je šta je tim postigao tokom sedmice.",
-      "translationEn": "He wrote what the team achieved during the week."
+      "translationEn": "He wrote what the team achieved during the week.",
+      "words": [
+        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
+        { "w": "حَقَّقَهُ", "root": "ح ق ق", "bs": "postigao je/ostvario", "en": "achieved" },
+        { "w": "الْفَرِيقُ", "root": "ف ر ق", "bs": "tim/ekipa", "en": "team" },
+        { "w": "الْأُسْبُوعِ", "root": "س ب ع", "bs": "sedmica/tjedan", "en": "week" }
+      ]
     },
     {
       "arabic": "أَرْسَلَ التَّقْرِيرَ إِلَى الْمُدِيرِ قَبْلَ نِهَايَةِ الْيَوْمِ.",
       "translation": "Poslao je izvještaj direktoru prije kraja dana.",
-      "translationEn": "He sent the report to the manager before the end of the day."
+      "translationEn": "He sent the report to the manager before the end of the day.",
+      "words": [
+        { "w": "أَرْسَلَ", "root": "ر س ل", "bs": "poslao je", "en": "sent" },
+        { "w": "التَّقْرِيرَ", "root": "ق ر ر", "bs": "izvještaj", "en": "report" },
+        { "w": "الْمُدِيرِ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
+        { "w": "نِهَايَةِ", "root": "ن ه ي", "bs": "kraj/završetak", "en": "end" }
+      ]
     }
   ],
   "metadata": {

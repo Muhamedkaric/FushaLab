@@ -6,22 +6,42 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «الِاتِّحَادُ قُوَّةٌ».",
       "translation": "Poslovica kaže: «Jedinstvo je snaga».",
-      "translationEn": "The proverb says: «Unity is strength»."
+      "translationEn": "The proverb says: «Unity is strength».",
+      "words": [
+        { "w": "الِاتِّحَادُ", "root": "و ح د", "bs": "jedinstvo", "en": "unity" },
+        { "w": "قُوَّةٌ", "root": "ق و ي", "bs": "snaga", "en": "strength" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ النَّاسَ أَقْوَى حِينَ يَعْمَلُونَ مَعًا.",
       "translation": "To znači da su ljudi jači kada rade zajedno.",
-      "translationEn": "This means that people are stronger when they work together."
+      "translationEn": "This means that people are stronger when they work together.",
+      "words": [
+        { "w": "أَقْوَى", "root": "ق و ي", "bs": "jači", "en": "stronger" },
+        { "w": "يَعْمَلُونَ", "root": "ع م ل", "bs": "rade", "en": "work" }
+      ]
     },
     {
       "arabic": "اجْتَمَعَ أَهْلُ الْحَيِّ لِتَنْظِيفِ الشَّارِعِ.",
       "translation": "Stanari četvrti su se okupili da očiste ulicu.",
-      "translationEn": "The neighborhood residents gathered to clean the street."
+      "translationEn": "The neighborhood residents gathered to clean the street.",
+      "words": [
+        { "w": "اجْتَمَعَ", "root": "ج م ع", "bs": "okupili su se", "en": "gathered" },
+        { "w": "أَهْلُ", "root": "أ ه ل", "bs": "stanari", "en": "residents" },
+        { "w": "الْحَيِّ", "root": "ح ي ي", "bs": "četvrt", "en": "neighborhood" },
+        { "w": "تَنْظِيفِ", "root": "ن ظ ف", "bs": "čišćenje", "en": "cleaning" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" }
+      ]
     },
     {
       "arabic": "أَنْجَزُوا الْعَمَلَ فِي سَاعَةٍ وَاحِدَةٍ وَفَرِحُوا مَعًا.",
       "translation": "Završili su posao za jedan sat i zajedno se obradovali.",
-      "translationEn": "They finished the work in one hour and rejoiced together."
+      "translationEn": "They finished the work in one hour and rejoiced together.",
+      "words": [
+        { "w": "أَنْجَزُوا", "root": "ن ج ز", "bs": "završili su", "en": "finished" },
+        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao", "en": "work" },
+        { "w": "فَرِحُوا", "root": "ف ر ح", "bs": "obradovali su se", "en": "rejoiced" }
+      ]
     }
   ],
   "metadata": {

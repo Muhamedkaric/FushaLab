@@ -6,27 +6,56 @@
     {
       "arabic": "ذَهَبَتْ رِيمُ إِلَى الْمَطْبَخِ لِتَأْكُلَ قِطْعَةً مِنَ الْكَعْكَةِ.",
       "translation": "Rima je otišla u kuhinju da pojede komad torte.",
-      "translationEn": "Rima went to the kitchen to eat a piece of cake."
+      "translationEn": "Rima went to the kitchen to eat a piece of cake.",
+      "words": [
+        { "w": "ذَهَبَتْ", "root": "ذ ه ب", "bs": "otišla je", "en": "she went" },
+        { "w": "الْمَطْبَخِ", "root": "ط ب خ", "bs": "kuhinju", "en": "kitchen" },
+        { "w": "تَأْكُلَ", "root": "أ ك ل", "bs": "da pojede", "en": "to eat" },
+        { "w": "قِطْعَةً", "root": "ق ط ع", "bs": "komad", "en": "piece" },
+        { "w": "الْكَعْكَةِ", "bs": "torte", "en": "cake" }
+      ]
     },
     {
       "arabic": "لَكِنَّهَا لَمْ تَجِدِ الْكَعْكَةَ فِي مَكَانِهَا.",
       "translation": "Ali nije pronašla tortu na njenom mjestu.",
-      "translationEn": "But she did not find the cake in its place."
+      "translationEn": "But she did not find the cake in its place.",
+      "words": [
+        { "w": "تَجِدِ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "الْكَعْكَةَ", "bs": "tortu", "en": "the cake" },
+        { "w": "مَكَانِهَا", "root": "ك و ن", "bs": "njenom mjestu", "en": "its place" }
+      ]
     },
     {
       "arabic": "سَأَلَتْ أَخَاهَا: هَلْ أَكَلْتَ الْكَعْكَةَ؟",
       "translation": "Pitala je brata: Jesi li pojeo tortu?",
-      "translationEn": "She asked her brother: Did you eat the cake?"
+      "translationEn": "She asked her brother: Did you eat the cake?",
+      "words": [
+        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "she asked" },
+        { "w": "أَخَاهَا", "root": "أ خ خ", "bs": "brata", "en": "her brother" },
+        { "w": "أَكَلْتَ", "root": "أ ك ل", "bs": "pojeo si", "en": "did you eat" }
+      ]
     },
     {
       "arabic": "قَالَ الْأَخُ: لَا، لَكِنَّنِي رَأَيْتُ أَبَانَا يَحْمِلُ شَيْئًا.",
       "translation": "Brat je rekao: Ne, ali vidio sam oca kako nešto nosi.",
-      "translationEn": "The brother said: No, but I saw our father carrying something."
+      "translationEn": "The brother said: No, but I saw our father carrying something.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
+        { "w": "رَأَيْتُ", "root": "ر أ ي", "bs": "vidio sam", "en": "I saw" },
+        { "w": "يَحْمِلُ", "root": "ح م ل", "bs": "nosi", "en": "carrying" },
+        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "nešto", "en": "something" }
+      ]
     },
     {
       "arabic": "اكْتَشَفَا أَنَّ الْأَبَ أَخَذَ الْكَعْكَةَ لِجِيرَانِهِمُ الْمَرْضَى.",
       "translation": "Otkrili su da je otac odneo tortu njihovim bolesnim komšijama.",
-      "translationEn": "They discovered that the father took the cake to their sick neighbours."
+      "translationEn": "They discovered that the father took the cake to their sick neighbours.",
+      "words": [
+        { "w": "اكْتَشَفَا", "root": "ك ش ف", "bs": "otkrili su", "en": "they discovered" },
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "الْكَعْكَةَ", "bs": "tortu", "en": "the cake" },
+        { "w": "الْمَرْضَى", "root": "م ر ض", "bs": "bolesnim", "en": "sick" }
+      ]
     }
   ],
   "metadata": {

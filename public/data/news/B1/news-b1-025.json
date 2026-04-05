@@ -6,26 +6,116 @@
     {
       "arabic": "أَطْلَقَتِ الْمَدْرَسَةُ حَمْلَةً لِتَشْجِيعِ الْقِرَاءَةِ.",
       "translation": "Škola je pokrenula kampanju za podsticanje čitanja.",
-      "translationEn": "The school launched a campaign to encourage reading."
+      "translationEn": "The school launched a campaign to encourage reading.",
+      "words": [
+        {
+          "w": "أَطْلَقَتِ",
+          "root": "ط ل ق",
+          "bs": "pokrenula je",
+          "en": "launched"
+        },
+        {
+          "w": "حَمْلَةً",
+          "root": "ح م ل",
+          "bs": "kampanju",
+          "en": "campaign"
+        },
+        {
+          "w": "الْقِرَاءَةِ",
+          "root": "ق ر أ",
+          "bs": "čitanja",
+          "en": "reading"
+        }
+      ]
     },
     {
       "arabic": "يَقْرَأُ كُلُّ طَالِبٍ كِتَابًا وَاحِدًا كُلَّ أُسْبُوعٍ.",
       "translation": "Svaki učenik čita jednu knjigu sedmično.",
-      "translationEn": "Every student reads one book per week."
+      "translationEn": "Every student reads one book per week.",
+      "words": [
+        {
+          "w": "يَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "reads"
+        },
+        {
+          "w": "طَالِبٍ",
+          "root": "ط ل ب",
+          "bs": "učenik",
+          "en": "student"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjigu",
+          "en": "book"
+        }
+      ]
     },
     {
       "arabic": "يَتَحَدَّثُ الطُّلَّابُ عَنِ الْكِتَابِ أَمَامَ زُمَلَائِهِمْ.",
       "translation": "Učenici govore o knjizi pred svojim drugarima.",
-      "translationEn": "The students talk about the book in front of their classmates."
+      "translationEn": "The students talk about the book in front of their classmates.",
+      "words": [
+        {
+          "w": "يَتَحَدَّثُ",
+          "root": "ح د ث",
+          "bs": "govori",
+          "en": "talks"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "الْكِتَابِ",
+          "root": "ك ت ب",
+          "bs": "knjizi",
+          "en": "book"
+        },
+        {
+          "w": "زُمَلَائِهِمْ",
+          "root": "ز م ل",
+          "bs": "drugarima",
+          "en": "classmates"
+        }
+      ]
     },
     {
       "arabic": "يَنَالُ أَكْثَرُ قَارِئٍ جَائِزَةً فِي نِهَايَةِ الشَّهْرِ.",
       "translation": "Najaktivniji čitalac dobija nagradu na kraju mjeseca.",
-      "translationEn": "The most avid reader receives a prize at the end of the month."
+      "translationEn": "The most avid reader receives a prize at the end of the month.",
+      "words": [
+        {
+          "w": "يَنَالُ",
+          "root": "ن ي ل",
+          "bs": "dobija",
+          "en": "receives"
+        },
+        {
+          "w": "قَارِئٍ",
+          "root": "ق ر أ",
+          "bs": "čitalac",
+          "en": "reader"
+        },
+        {
+          "w": "جَائِزَةً",
+          "root": "ج و ز",
+          "bs": "nagradu",
+          "en": "prize"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["reading", "school", "education"]
+    "tags": [
+      "reading",
+      "school",
+      "education"
+    ]
   }
 }

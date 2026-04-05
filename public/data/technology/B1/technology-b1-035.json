@@ -6,22 +6,120 @@
     {
       "arabic": "وَقَعَ هَاتِفُ لَيْلَى عَلَى الْأَرْضِ وَانْكَسَرَتِ الشَّاشَةُ.",
       "translation": "Lejlin telefon je pao na pod i ekran se razbio.",
-      "translationEn": "Layla's phone fell on the ground and the screen cracked."
+      "translationEn": "Layla's phone fell on the ground and the screen cracked.",
+      "words": [
+        {
+          "w": "وَقَعَ",
+          "root": "و ق ع",
+          "bs": "pao je",
+          "en": "fell"
+        },
+        {
+          "w": "هَاتِفُ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "the phone"
+        },
+        {
+          "w": "الْأَرْضِ",
+          "root": "أ ر ض",
+          "bs": "pod",
+          "en": "the ground"
+        },
+        {
+          "w": "انْكَسَرَتِ",
+          "root": "ك س ر",
+          "bs": "razbio se",
+          "en": "cracked"
+        },
+        {
+          "w": "الشَّاشَةُ",
+          "root": "ش و ش",
+          "bs": "ekran",
+          "en": "the screen"
+        }
+      ]
     },
     {
       "arabic": "حَزِنَتْ كَثِيرًا وَأَخْبَرَتْ أُمَّهَا.",
       "translation": "Veoma se rastužila i rekla majci.",
-      "translationEn": "She was very sad and told her mother."
+      "translationEn": "She was very sad and told her mother.",
+      "words": [
+        {
+          "w": "حَزِنَتْ",
+          "root": "ح ز ن",
+          "bs": "rastužila se",
+          "en": "was sad"
+        },
+        {
+          "w": "أَخْبَرَتْ",
+          "root": "خ ب ر",
+          "bs": "rekla je",
+          "en": "told"
+        },
+        {
+          "w": "أُمَّهَا",
+          "root": "أ م م",
+          "bs": "majci",
+          "en": "her mother"
+        }
+      ]
     },
     {
       "arabic": "قَالَتِ الْأُمُّ: سَنَذْهَبُ لِإِصْلَاحِهِ غَدًا.",
       "translation": "Majka je rekla: Sutra ćemo ga odnijeti na popravak.",
-      "translationEn": "The mother said: We will go to have it fixed tomorrow."
+      "translationEn": "The mother said: We will go to have it fixed tomorrow.",
+      "words": [
+        {
+          "w": "سَنَذْهَبُ",
+          "root": "ذ ه ب",
+          "bs": "ići ćemo",
+          "en": "we will go"
+        },
+        {
+          "w": "لِإِصْلَاحِهِ",
+          "root": "ص ل ح",
+          "bs": "na popravak",
+          "en": "to fix it"
+        },
+        {
+          "w": "غَدًا",
+          "root": "غ د و",
+          "bs": "sutra",
+          "en": "tomorrow"
+        }
+      ]
     },
     {
       "arabic": "تَعَلَّمَتْ لَيْلَى أَنْ تَحْمِلَ هَاتِفَهَا بِعِنَايَةٍ.",
       "translation": "Lejla je naučila da pažljivo nosi telefon.",
-      "translationEn": "Layla learned to carry her phone carefully."
+      "translationEn": "Layla learned to carry her phone carefully.",
+      "words": [
+        {
+          "w": "تَعَلَّمَتْ",
+          "root": "ع ل م",
+          "bs": "naučila je",
+          "en": "learned"
+        },
+        {
+          "w": "تَحْمِلَ",
+          "root": "ح م ل",
+          "bs": "nosi",
+          "en": "carry"
+        },
+        {
+          "w": "هَاتِفَهَا",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "her phone"
+        },
+        {
+          "w": "بِعِنَايَةٍ",
+          "root": "ع ن ي",
+          "bs": "pažljivo",
+          "en": "carefully"
+        }
+      ]
     }
   ],
   "metadata": {

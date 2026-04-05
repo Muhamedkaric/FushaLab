@@ -6,22 +6,44 @@
     {
       "arabic": "جَلَسَتِ الْعَائِلَةُ فِي الْحَدِيقَةِ بَعْدَ يَوْمٍ طَوِيلٍ.",
       "translation": "Porodica je sjela u park nakon dugog dana.",
-      "translationEn": "The family sat in the park after a long day."
+      "translationEn": "The family sat in the park after a long day.",
+      "words": [
+        { "w": "جَلَسَتِ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "park / bašta", "en": "park / garden" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "طَوِيلٍ", "root": "ط و ل", "bs": "dug", "en": "long" }
+      ]
     },
     {
       "arabic": "أَكَلَ الْأَطْفَالُ الْفَوَاكِهَ وَشَرِبُوا الْعَصِيرَ.",
       "translation": "Djeca su jela voće i pila sok.",
-      "translationEn": "The children ate fruit and drank juice."
+      "translationEn": "The children ate fruit and drank juice.",
+      "words": [
+        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "الْفَوَاكِهَ", "root": "ف ك ه", "bs": "voće", "en": "fruit" },
+        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" }
+      ]
     },
     {
       "arabic": "نَظَرَ الْأَبُ إِلَى السَّمَاءِ وَقَالَ: مَا أَجْمَلَ هَذَا الْيَوْمَ.",
       "translation": "Otac je pogledao nebo i rekao: Kako je ovaj dan lijep.",
-      "translationEn": "The father looked at the sky and said: What a beautiful day."
+      "translationEn": "The father looked at the sky and said: What a beautiful day.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" },
+        { "w": "السَّمَاءِ", "root": "س م و", "bs": "nebo", "en": "sky" },
+        { "w": "أَجْمَلَ", "root": "ج م ل", "bs": "najljepše", "en": "most beautiful" }
+      ]
     },
     {
       "arabic": "رَجَعُوا إِلَى الْفُنْدُقِ وَنَامُوا بَعْدَ عَشَاءٍ خَفِيفٍ.",
       "translation": "Vratili su se u hotel i spavali nakon lakog večernjeg obroka.",
-      "translationEn": "They returned to the hotel and slept after a light dinner."
+      "translationEn": "They returned to the hotel and slept after a light dinner.",
+      "words": [
+        { "w": "رَجَعُوا", "root": "ر ج ع", "bs": "vratili su se", "en": "returned" },
+        { "w": "الْفُنْدُقِ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
+        { "w": "نَامُوا", "root": "ن و م", "bs": "spavali su", "en": "slept" },
+        { "w": "عَشَاءٍ", "root": "ع ش و", "bs": "večera", "en": "dinner" }
+      ]
     }
   ],
   "metadata": {

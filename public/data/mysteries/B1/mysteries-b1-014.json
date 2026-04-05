@@ -6,27 +6,53 @@
     {
       "arabic": "سَمِعَ بِلَالٌ دَقًّا عَلَى الْبَابِ فِي الصَّبَاحِ الْبَاكِرِ.",
       "translation": "Bilal je ujutro rano čuo kucanje na vrata.",
-      "translationEn": "Bilal heard knocking on the door early in the morning."
+      "translationEn": "Bilal heard knocking on the door early in the morning.",
+      "words": [
+        { "w": "سَمِعَ", "root": "س م ع", "bs": "čuo je", "en": "he heard" },
+        { "w": "دَقًّا", "root": "د ق ق", "bs": "kucanje", "en": "knocking" },
+        { "w": "الْبَابِ", "root": "ب و ب", "bs": "vrata", "en": "door" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutru", "en": "morning" }
+      ]
     },
     {
       "arabic": "فَتَحَ الْبَابَ فَلَمْ يَجِدْ أَحَدًا.",
       "translation": "Otvorio je vrata ali nije pronašao nikoga.",
-      "translationEn": "He opened the door but found no one."
+      "translationEn": "He opened the door but found no one.",
+      "words": [
+        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "he opened" },
+        { "w": "يَجِدْ", "root": "و ج د", "bs": "pronašao je", "en": "he found" }
+      ]
     },
     {
       "arabic": "نَظَرَ إِلَى الْيَمِينِ وَإِلَى الْيَسَارِ.",
       "translation": "Pogledao je desno i lijevo.",
-      "translationEn": "He looked to the right and to the left."
+      "translationEn": "He looked to the right and to the left.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "he looked" },
+        { "w": "الْيَمِينِ", "root": "ي م ن", "bs": "desno", "en": "right" },
+        { "w": "الْيَسَارِ", "root": "ي س ر", "bs": "lijevo", "en": "left" }
+      ]
     },
     {
       "arabic": "ثُمَّ نَظَرَ إِلَى الْأَسْفَلِ فَرَأَى سَلَّةَ فَاكِهَةٍ.",
       "translation": "Zatim je pogledao dolje i vidio korpu voća.",
-      "translationEn": "Then he looked down and saw a basket of fruit."
+      "translationEn": "Then he looked down and saw a basket of fruit.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
+        { "w": "سَلَّةَ", "root": "س ل ل", "bs": "korpu", "en": "basket" },
+        { "w": "فَاكِهَةٍ", "root": "ف ك ه", "bs": "voća", "en": "fruit" }
+      ]
     },
     {
       "arabic": "كَانَ جَارُهُمُ الطَّيِّبُ يَتْرُكُ لَهُمْ هَدَايَا كُلَّ أُسْبُوعٍ.",
       "translation": "Njihov dobri susjed im je svake sedmice ostavljao poklone.",
-      "translationEn": "Their kind neighbour would leave them gifts every week."
+      "translationEn": "Their kind neighbour would leave them gifts every week.",
+      "words": [
+        { "w": "جَارُهُمُ", "root": "ج و ر", "bs": "susjed", "en": "their neighbour" },
+        { "w": "الطَّيِّبُ", "root": "ط ي ب", "bs": "dobri", "en": "kind" },
+        { "w": "يَتْرُكُ", "root": "ت ر ك", "bs": "ostavljao je", "en": "would leave" },
+        { "w": "هَدَايَا", "root": "ه د ي", "bs": "poklone", "en": "gifts" }
+      ]
     }
   ],
   "metadata": {

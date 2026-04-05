@@ -6,27 +6,56 @@
     {
       "arabic": "يَشْرَبُ النَّاسُ الشَّايَ فِي المَسَاءِ.",
       "translation": "Ljudi piju čaj uveče.",
-      "translationEn": "People drink tea in the evening."
+      "translationEn": "People drink tea in the evening.",
+      "words": [
+        { "w": "يَشْرَبُ", "root": "ش ر ب", "bs": "piju", "en": "drink" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "الشَّايَ", "root": "ش ي ي", "bs": "čaj", "en": "tea" },
+        { "w": "المَسَاءِ", "root": "م س و", "bs": "veče", "en": "evening" }
+      ]
     },
     {
       "arabic": "يُضِيفُونَ النَّعْنَاعَ وَالسُّكَّرَ إِلَى الشَّايِ.",
       "translation": "Dodaju mentu i šećer u čaj.",
-      "translationEn": "They add mint and sugar to the tea."
+      "translationEn": "They add mint and sugar to the tea.",
+      "words": [
+        { "w": "يُضِيفُونَ", "root": "ض ي ف", "bs": "dodaju", "en": "add" },
+        { "w": "النَّعْنَاعَ", "root": "ن ع ن ع", "bs": "mentu", "en": "mint" },
+        { "w": "السُّكَّرَ", "root": "س ك ر", "bs": "šećer", "en": "sugar" },
+        { "w": "الشَّايِ", "root": "ش ي ي", "bs": "čaj", "en": "tea" }
+      ]
     },
     {
       "arabic": "يَجْلِسُ الأَصْدِقَاءُ وَيَشْرَبُونَ الشَّايَ مَعًا.",
       "translation": "Prijatelji sjede i zajedno piju čaj.",
-      "translationEn": "Friends sit and drink tea together."
+      "translationEn": "Friends sit and drink tea together.",
+      "words": [
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjede", "en": "sit" },
+        { "w": "الأَصْدِقَاءُ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
+        { "w": "يَشْرَبُونَ", "root": "ش ر ب", "bs": "piju", "en": "drink" },
+        { "w": "الشَّايَ", "root": "ش ي ي", "bs": "čaj", "en": "tea" }
+      ]
     },
     {
       "arabic": "وَقْتُ الشَّايِ وَقْتٌ لِلحَدِيثِ وَالرَّاحَةِ.",
       "translation": "Vrijeme za čaj je vrijeme za razgovor i odmor.",
-      "translationEn": "Tea time is a time for talking and relaxing."
+      "translationEn": "Tea time is a time for talking and relaxing.",
+      "words": [
+        { "w": "وَقْتُ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "الشَّايِ", "root": "ش ي ي", "bs": "čaja", "en": "tea" },
+        { "w": "الحَدِيثِ", "root": "ح د ث", "bs": "razgovora", "en": "talking" },
+        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "odmora", "en": "relaxation" }
+      ]
     },
     {
       "arabic": "هَذِهِ عَادَةٌ يَوْمِيَّةٌ فِي كَثِيرٍ مِنَ البُيُوتِ.",
       "translation": "Ovo je svakodnevna navika u mnogim kućama.",
-      "translationEn": "This is a daily habit in many homes."
+      "translationEn": "This is a daily habit in many homes.",
+      "words": [
+        { "w": "عَادَةٌ", "root": "ع و د", "bs": "navika", "en": "habit" },
+        { "w": "يَوْمِيَّةٌ", "root": "ي و م", "bs": "svakodnevna", "en": "daily" },
+        { "w": "البُيُوتِ", "root": "ب ي ت", "bs": "kućama", "en": "homes" }
+      ]
     }
   ],
   "metadata": {

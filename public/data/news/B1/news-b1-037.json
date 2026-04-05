@@ -6,26 +6,116 @@
     {
       "arabic": "أَقَامَتِ الْمَدْرَسَةُ حَفْلًا لِتَكْرِيمِ الطُّلَّابِ الْمُتَمَيِّزِينَ.",
       "translation": "Škola je priredila svečanost za nagrađivanje odličnih učenika.",
-      "translationEn": "The school held a ceremony to honor the outstanding students."
+      "translationEn": "The school held a ceremony to honor the outstanding students.",
+      "words": [
+        {
+          "w": "حَفْلًا",
+          "root": "ح ف ل",
+          "bs": "svečanost",
+          "en": "ceremony"
+        },
+        {
+          "w": "لِتَكْرِيمِ",
+          "root": "ك ر م",
+          "bs": "nagrađivanje",
+          "en": "to honor"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenika",
+          "en": "students"
+        },
+        {
+          "w": "الْمُتَمَيِّزِينَ",
+          "root": "م ي ز",
+          "bs": "odličnih",
+          "en": "outstanding"
+        }
+      ]
     },
     {
       "arabic": "حَضَرَ الْآبَاءُ وَالْمُعَلِّمُونَ وَمَسْؤُولُو الْمَدِينَةِ.",
       "translation": "Prisustvovali su roditelji, nastavnici i gradski zvaničnici.",
-      "translationEn": "Parents, teachers, and city officials attended."
+      "translationEn": "Parents, teachers, and city officials attended.",
+      "words": [
+        {
+          "w": "حَضَرَ",
+          "root": "ح ض ر",
+          "bs": "prisustvovao je",
+          "en": "attended"
+        },
+        {
+          "w": "الْآبَاءُ",
+          "root": "أ ب و",
+          "bs": "roditelji",
+          "en": "parents"
+        },
+        {
+          "w": "الْمُعَلِّمُونَ",
+          "root": "ع ل م",
+          "bs": "nastavnici",
+          "en": "teachers"
+        },
+        {
+          "w": "مَسْؤُولُو",
+          "root": "س أ ل",
+          "bs": "zvaničnici",
+          "en": "officials"
+        }
+      ]
     },
     {
       "arabic": "نَالَ كُلُّ طَالِبٍ مُتَمَيِّزٍ شَهَادَةً وَهَدِيَّةً.",
       "translation": "Svaki odličan učenik je dobio diplomu i poklon.",
-      "translationEn": "Every outstanding student received a certificate and a gift."
+      "translationEn": "Every outstanding student received a certificate and a gift.",
+      "words": [
+        {
+          "w": "نَالَ",
+          "root": "ن ي ل",
+          "bs": "dobio je",
+          "en": "received"
+        },
+        {
+          "w": "شَهَادَةً",
+          "root": "ش ه د",
+          "bs": "diplomu",
+          "en": "certificate"
+        },
+        {
+          "w": "هَدِيَّةً",
+          "root": "ه د ي",
+          "bs": "poklon",
+          "en": "gift"
+        }
+      ]
     },
     {
       "arabic": "كَانَ الْيَوْمُ مُفْعَمًا بِالسَّعَادَةِ وَالْفَخْرِ.",
       "translation": "Dan je bio ispunjen srećom i ponosom.",
-      "translationEn": "The day was filled with happiness and pride."
+      "translationEn": "The day was filled with happiness and pride.",
+      "words": [
+        {
+          "w": "السَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "srećom",
+          "en": "happiness"
+        },
+        {
+          "w": "الْفَخْرِ",
+          "root": "ف خ ر",
+          "bs": "ponosom",
+          "en": "pride"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school", "awards", "success"]
+    "tags": [
+      "school",
+      "awards",
+      "success"
+    ]
   }
 }

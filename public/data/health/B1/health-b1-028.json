@@ -6,26 +6,123 @@
     {
       "arabic": "كَانَتِ الطِّفْلَةُ سُكَيْنَةُ مَرِيضَةً وَلَمْ تَنَمْ جَيِّدًا.",
       "translation": "Mala Sukejna je bila bolesna i nije dobro spavala.",
-      "translationEn": "The girl Sukayna was sick and did not sleep well."
+      "translationEn": "The girl Sukayna was sick and did not sleep well.",
+      "words": [
+        {
+          "w": "الطِّفْلَةُ",
+          "root": "ط ف ل",
+          "bs": "djevojčica",
+          "en": "girl"
+        },
+        {
+          "w": "مَرِيضَةً",
+          "root": "م ر ض",
+          "bs": "bolesna",
+          "en": "sick"
+        },
+        {
+          "w": "تَنَمْ",
+          "root": "ن و م",
+          "bs": "spava",
+          "en": "sleep"
+        }
+      ]
     },
     {
       "arabic": "جَلَسَتْ أُمُّهَا بِجَانِبِهَا طَوَالَ اللَّيْلِ.",
       "translation": "Majka je sjedila kraj nje cijelu noć.",
-      "translationEn": "Her mother sat beside her all night."
+      "translationEn": "Her mother sat beside her all night.",
+      "words": [
+        {
+          "w": "جَلَسَتْ",
+          "root": "ج ل س",
+          "bs": "sjedila je",
+          "en": "sat"
+        },
+        {
+          "w": "أُمُّهَا",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother"
+        },
+        {
+          "w": "بِجَانِبِهَا",
+          "root": "ج ن ب",
+          "bs": "kraj nje",
+          "en": "beside her"
+        },
+        {
+          "w": "اللَّيْلِ",
+          "root": "ل ي ل",
+          "bs": "noć",
+          "en": "night"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَتْهَا الدَّوَاءَ وَرَوَتْ لَهَا قِصَّةً.",
       "translation": "Dala joj je lijek i ispričala joj priču.",
-      "translationEn": "She gave her the medicine and told her a story."
+      "translationEn": "She gave her the medicine and told her a story.",
+      "words": [
+        {
+          "w": "أَعْطَتْهَا",
+          "root": "ع ط ي",
+          "bs": "dala joj je",
+          "en": "gave her"
+        },
+        {
+          "w": "الدَّوَاءَ",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "رَوَتْ",
+          "root": "ر و ي",
+          "bs": "ispričala je",
+          "en": "told"
+        },
+        {
+          "w": "قِصَّةً",
+          "root": "ق ص ص",
+          "bs": "priča",
+          "en": "story"
+        }
+      ]
     },
     {
       "arabic": "فِي الصَّبَاحِ انْخَفَضَتِ الْحَرَارَةُ وَابْتَسَمَتْ سُكَيْنَةُ.",
       "translation": "Ujutro je temperatura opala i Sukejne se nasmiješila.",
-      "translationEn": "In the morning the temperature went down and Sukayna smiled."
+      "translationEn": "In the morning the temperature went down and Sukayna smiled.",
+      "words": [
+        {
+          "w": "انْخَفَضَتِ",
+          "root": "خ ف ض",
+          "bs": "opala je",
+          "en": "went down"
+        },
+        {
+          "w": "الْحَرَارَةُ",
+          "root": "ح ر ر",
+          "bs": "temperatura",
+          "en": "temperature"
+        },
+        {
+          "w": "ابْتَسَمَتْ",
+          "root": "ب س م",
+          "bs": "nasmiješila se",
+          "en": "smiled"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sick child", "fever", "mother", "medicine"]
+    "tags": [
+      "sick child",
+      "fever",
+      "mother",
+      "medicine"
+    ]
   }
 }

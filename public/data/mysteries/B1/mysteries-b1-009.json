@@ -6,27 +6,56 @@
     {
       "arabic": "وَجَدَ عُمَرُ كِتَابًا قَدِيمًا فِي خِزَانَةِ جَدِّهِ.",
       "translation": "Omar je pronašao staru knjigu u djedovom ormaru.",
-      "translationEn": "Omar found an old book in his grandfather's cupboard."
+      "translationEn": "Omar found an old book in his grandfather's cupboard.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjigu", "en": "book" },
+        { "w": "قَدِيمًا", "root": "ق د م", "bs": "staru", "en": "old" },
+        { "w": "خِزَانَةِ", "root": "خ ز ن", "bs": "ormaru", "en": "cupboard" }
+      ]
     },
     {
       "arabic": "كَانَ الْكِتَابُ مَكْتُوبًا بِلُغَةٍ لَا يَعْرِفُهَا.",
       "translation": "Knjiga je bila napisana na jeziku koji nije znao.",
-      "translationEn": "The book was written in a language he did not know."
+      "translationEn": "The book was written in a language he did not know.",
+      "words": [
+        { "w": "الْكِتَابُ", "root": "ك ت ب", "bs": "knjiga", "en": "the book" },
+        { "w": "مَكْتُوبًا", "root": "ك ت ب", "bs": "napisana", "en": "written" },
+        { "w": "بِلُغَةٍ", "root": "ل غ و", "bs": "na jeziku", "en": "in a language" },
+        { "w": "يَعْرِفُهَا", "root": "ع ر ف", "bs": "zna je", "en": "he knows it" }
+      ]
     },
     {
       "arabic": "أَخَذَهُ إِلَى أُسْتَاذِهِ فِي الْمَدْرَسَةِ.",
       "translation": "Odneo ga je svom učitelju u školu.",
-      "translationEn": "He took it to his teacher at school."
+      "translationEn": "He took it to his teacher at school.",
+      "words": [
+        { "w": "أَخَذَهُ", "root": "أ خ ذ", "bs": "odneo ga je", "en": "he took it" },
+        { "w": "أُسْتَاذِهِ", "bs": "učitelju", "en": "his teacher" },
+        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "školi", "en": "school" }
+      ]
     },
     {
       "arabic": "قَالَ الْأُسْتَاذُ: هَذِهِ قَصَائِدُ قَدِيمَةٌ جَمِيلَةٌ.",
       "translation": "Učitelj je rekao: Ovo su stare lijepe pjesme.",
-      "translationEn": "The teacher said: These are beautiful old poems."
+      "translationEn": "The teacher said: These are beautiful old poems.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
+        { "w": "قَصَائِدُ", "root": "ق ص د", "bs": "pjesme", "en": "poems" },
+        { "w": "قَدِيمَةٌ", "root": "ق د م", "bs": "stare", "en": "old" },
+        { "w": "جَمِيلَةٌ", "root": "ج م ل", "bs": "lijepe", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "فَرِحَ عُمَرُ كَثِيرًا وَأَرَادَ أَنْ يَتَعَلَّمَ تِلْكَ اللُّغَةَ.",
       "translation": "Omar se veoma obradovao i htio je naučiti taj jezik.",
-      "translationEn": "Omar was very happy and wanted to learn that language."
+      "translationEn": "Omar was very happy and wanted to learn that language.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "he was happy" },
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "he wanted" },
+        { "w": "يَتَعَلَّمَ", "root": "ع ل م", "bs": "naučiti", "en": "to learn" },
+        { "w": "اللُّغَةَ", "root": "ل غ و", "bs": "jezik", "en": "the language" }
+      ]
     }
   ],
   "metadata": {

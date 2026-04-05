@@ -6,22 +6,45 @@
     {
       "arabic": "أَرَادَ طَارِقٌ أَنْ يَشْتَرِيَ هَدِيَّةً لِصَدِيقِهِ.",
       "translation": "Tariq je htio kupiti poklon za prijatelja.",
-      "translationEn": "Tariq wanted to buy a gift for his friend."
+      "translationEn": "Tariq wanted to buy a gift for his friend.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "يَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "هَدِيَّةً", "root": "ه د ي", "bs": "poklon", "en": "gift" },
+        { "w": "لِصَدِيقِهِ", "root": "ص د ق", "bs": "za prijatelja", "en": "for his friend" }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَى السُّوقِ وَنَظَرَ فِي كَثِيرٍ مِنَ المَحَلَّاتِ.",
       "translation": "Otišao je na pijacu i gledao u mnoge prodavnice.",
-      "translationEn": "He went to the market and looked in many shops."
+      "translationEn": "He went to the market and looked in many shops.",
+      "words": [
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca", "en": "market" },
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "gledao je", "en": "looked" },
+        { "w": "المَحَلَّاتِ", "root": "ح ل ل", "bs": "prodavnice", "en": "shops" }
+      ]
     },
     {
       "arabic": "وَجَدَ كِتَابًا مُنَاسِبًا بِسِعْرٍ مَعْقُولٍ.",
       "translation": "Pronašao je odgovarajuću knjigu po razumnoj cijeni.",
-      "translationEn": "He found a suitable book at a reasonable price."
+      "translationEn": "He found a suitable book at a reasonable price.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "مُنَاسِبًا", "root": "ن س ب", "bs": "odgovarajuća", "en": "suitable" },
+        { "w": "سِعْرٍ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+      ]
     },
     {
       "arabic": "دَفَعَ الثَّمَنَ وَغَلَّفَ الهَدِيَّةَ بِوَرَقٍ جَمِيلٍ.",
       "translation": "Platio je cijenu i upakovao poklon u lijep papir.",
-      "translationEn": "He paid the price and wrapped the gift in beautiful paper."
+      "translationEn": "He paid the price and wrapped the gift in beautiful paper.",
+      "words": [
+        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
+        { "w": "الثَّمَنَ", "root": "ث م ن", "bs": "cijena", "en": "price" },
+        { "w": "غَلَّفَ", "root": "غ ل ف", "bs": "upakovao je", "en": "wrapped" },
+        { "w": "الهَدِيَّةَ", "root": "ه د ي", "bs": "poklon", "en": "gift" }
+      ]
     }
   ],
   "metadata": {

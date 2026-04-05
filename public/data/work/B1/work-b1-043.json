@@ -6,22 +6,45 @@
     {
       "arabic": "يَعْمَلُ صَابِرٌ مُدَرِّبًا رِيَاضِيًّا فِي نَادٍ.",
       "translation": "Sabir radi kao sportski trener u klubu.",
-      "translationEn": "Sabir works as a sports trainer in a club."
+      "translationEn": "Sabir works as a sports trainer in a club.",
+      "words": [
+        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "مُدَرِّبًا", "root": "د ر ب", "bs": "trener", "en": "trainer/coach" },
+        { "w": "رِيَاضِيًّا", "root": "ر ي ض", "bs": "sportskog/sportski", "en": "sports/athletic" },
+        { "w": "نَادٍ", "root": "ن د و", "bs": "klub", "en": "club" }
+      ]
     },
     {
       "arabic": "يُعَلِّمُ الْأَعْضَاءَ تَمَارِينَ مُنَاسِبَةً لِكُلِّ مِنْهُمْ.",
       "translation": "Uči članove odgovarajućim vježbama za svakoga od njih.",
-      "translationEn": "He teaches members suitable exercises for each of them."
+      "translationEn": "He teaches members suitable exercises for each of them.",
+      "words": [
+        { "w": "يُعَلِّمُ", "root": "ع ل م", "bs": "uči/poučava", "en": "teaches" },
+        { "w": "الْأَعْضَاءَ", "root": "ع ض و", "bs": "članove", "en": "members" },
+        { "w": "تَمَارِينَ", "root": "م ر ن", "bs": "vježbe/treninge", "en": "exercises" },
+        { "w": "مُنَاسِبَةً", "root": "ن س ب", "bs": "odgovarajuće/prikladne", "en": "suitable" }
+      ]
     },
     {
       "arabic": "يَتَابِعُ تَقَدُّمَهُمْ وَيُشَجِّعُهُمْ دَائِمًا.",
       "translation": "Prati njihov napredak i uvijek ih ohrabruje.",
-      "translationEn": "He follows their progress and always encourages them."
+      "translationEn": "He follows their progress and always encourages them.",
+      "words": [
+        { "w": "يَتَابِعُ", "root": "ت ب ع", "bs": "prati/nadgleda", "en": "follows/monitors" },
+        { "w": "تَقَدُّمَهُمْ", "root": "ق د م", "bs": "njihov napredak", "en": "their progress" },
+        { "w": "يُشَجِّعُهُمْ", "root": "ش ج ع", "bs": "ohrabruje ih", "en": "encourages them" }
+      ]
     },
     {
       "arabic": "يَشْعُرُ بِسَعَادَةٍ كَبِيرَةٍ حِينَ يَتَقَدَّمُ أَحَدُهُمْ.",
       "translation": "Osjeća veliku sreću kad neko od njih napreduje.",
-      "translationEn": "He feels great happiness when one of them makes progress."
+      "translationEn": "He feels great happiness when one of them makes progress.",
+      "words": [
+        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
+        { "w": "بِسَعَادَةٍ", "root": "س ع د", "bs": "sreća/radost", "en": "happiness" },
+        { "w": "كَبِيرَةٍ", "root": "ك ب ر", "bs": "velika/veliki", "en": "great/big" },
+        { "w": "يَتَقَدَّمُ", "root": "ق د م", "bs": "napreduje", "en": "makes progress" }
+      ]
     }
   ],
   "metadata": {

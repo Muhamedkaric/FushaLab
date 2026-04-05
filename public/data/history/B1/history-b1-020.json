@@ -6,22 +6,49 @@
     {
       "arabic": "كَانَتِ الْمَكْتَبَةُ الْقَدِيمَةُ تَحْتَوِي عَلَى كُتُبٍ كَثِيرَةٍ.",
       "translation": "Stara biblioteka sadržavala je mnogo knjiga.",
-      "translationEn": "The ancient library contained many books."
+      "translationEn": "The ancient library contained many books.",
+      "words": [
+        { "w": "الْمَكْتَبَةُ", "root": "ك ت ب", "bs": "biblioteka", "en": "the library" },
+        { "w": "الْقَدِيمَةُ", "root": "ق د م", "bs": "stara", "en": "ancient" },
+        { "w": "تَحْتَوِي", "root": "ح و ي", "bs": "sadržava", "en": "contains" },
+        { "w": "كُتُبٍ", "root": "ك ت ب", "bs": "knjige", "en": "books" },
+        { "w": "كَثِيرَةٍ", "root": "ك ث ر", "bs": "mnogo", "en": "many" }
+      ]
     },
     {
       "arabic": "كَانَ الطُّلَّابُ يَأْتُونَ مِنْ بِلَادٍ بَعِيدَةٍ لِيَقْرَأُوا فِيهَا.",
       "translation": "Studenti su dolazili iz dalekih zemalja da čitaju u njoj.",
-      "translationEn": "Students came from distant lands to read in it."
+      "translationEn": "Students came from distant lands to read in it.",
+      "words": [
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "studenti", "en": "students" },
+        { "w": "يَأْتُونَ", "root": "أ ت ي", "bs": "dolaze", "en": "come" },
+        { "w": "بِلَادٍ", "root": "ب ل د", "bs": "zemlje", "en": "lands" },
+        { "w": "بَعِيدَةٍ", "root": "ب ع د", "bs": "daleke", "en": "distant" },
+        { "w": "يَقْرَأُوا", "root": "ق ر أ", "bs": "čitaju", "en": "read" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْكُتُبُ مَكْتُوبَةً بِأَقْلَامٍ وَحِبْرٍ.",
       "translation": "Knjige su bile pisane perom i tintom.",
-      "translationEn": "The books were written with pens and ink."
+      "translationEn": "The books were written with pens and ink.",
+      "words": [
+        { "w": "الْكُتُبُ", "root": "ك ت ب", "bs": "knjige", "en": "the books" },
+        { "w": "مَكْتُوبَةً", "root": "ك ت ب", "bs": "pisane", "en": "written" },
+        { "w": "أَقْلَامٍ", "root": "ق ل م", "bs": "pero", "en": "pens" },
+        { "w": "حِبْرٍ", "root": "ح ب ر", "bs": "tinta", "en": "ink" }
+      ]
     },
     {
       "arabic": "حَافَظَ النَّاسُ عَلَى هَذِهِ الْكُتُبِ بِعِنَايَةٍ كَبِيرَةٍ.",
       "translation": "Ljudi su čuvali ove knjige s velikom pažnjom.",
-      "translationEn": "The people preserved these books with great care."
+      "translationEn": "The people preserved these books with great care.",
+      "words": [
+        { "w": "حَافَظَ", "root": "ح ف ظ", "bs": "čuvao je", "en": "preserved" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "الْكُتُبِ", "root": "ك ت ب", "bs": "knjige", "en": "the books" },
+        { "w": "عِنَايَةٍ", "root": "ع ن ي", "bs": "pažnja", "en": "care" },
+        { "w": "كَبِيرَةٍ", "root": "ك ب ر", "bs": "velika", "en": "great" }
+      ]
     }
   ],
   "metadata": {

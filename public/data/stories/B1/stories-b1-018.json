@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ عَصْفُورٌ أَبْيَضُ يَعِيشُ فِي شَجَرَةٍ كَبِيرَةٍ.",
       "translation": "Bijela ptica je živjela u velikom stablu.",
-      "translationEn": "A white bird lived in a big tree."
+      "translationEn": "A white bird lived in a big tree.",
+      "words": [
+        { "w": "عَصْفُورٌ", "root": "ع ص ف", "bs": "ptica", "en": "bird" },
+        { "w": "أَبْيَضُ", "root": "ب ي ض", "bs": "bijela", "en": "white" },
+        { "w": "يَعِيشُ", "root": "ع ي ش", "bs": "živjela je", "en": "lived" },
+        { "w": "شَجَرَةٍ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
+        { "w": "كَبِيرَةٍ", "root": "ك ب ر", "bs": "veliko", "en": "big" }
+      ]
     },
     {
       "arabic": "فِي يَوْمٍ بَارِدٍ سَقَطَ ثَلَجٌ كَثِيرٌ وَغَطَّى كُلَّ شَيْءٍ.",
       "translation": "Hladnog dana je palo puno snijega i pokrio je sve.",
-      "translationEn": "On a cold day a lot of snow fell and covered everything."
+      "translationEn": "On a cold day a lot of snow fell and covered everything.",
+      "words": [
+        { "w": "بَارِدٍ", "root": "ب ر د", "bs": "hladan", "en": "cold" },
+        { "w": "سَقَطَ", "root": "س ق ط", "bs": "palo je", "en": "fell" },
+        { "w": "ثَلَجٌ", "root": "ث ل ج", "bs": "snijeg", "en": "snow" },
+        { "w": "غَطَّى", "root": "غ ط ي", "bs": "pokrio je", "en": "covered" }
+      ]
     },
     {
       "arabic": "لَمْ يَجِدِ الْعُصْفُورُ طَعَامًا فَصَاحَ بِصَوْتٍ حَزِينٍ.",
       "translation": "Ptica nije mogla naći hranu pa je cvrkutala tužnim glasom.",
-      "translationEn": "The bird could not find food and chirped in a sad voice."
+      "translationEn": "The bird could not find food and chirped in a sad voice.",
+      "words": [
+        { "w": "يَجِدِ", "root": "و ج د", "bs": "naći", "en": "find" },
+        { "w": "الْعُصْفُورُ", "root": "ع ص ف", "bs": "ptica", "en": "bird" },
+        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hranu", "en": "food" },
+        { "w": "صَاحَ", "root": "ص ي ح", "bs": "cvrkutala je", "en": "chirped" },
+        { "w": "حَزِينٍ", "root": "ح ز ن", "bs": "tužan", "en": "sad" }
+      ]
     },
     {
       "arabic": "سَمِعَهُ طِفْلٌ وَأَخْرَجَ لَهُ بَعْضَ الْحُبُوبِ عَلَى النَّافِذَةِ.",
       "translation": "Dijete ga je čulo i iznijelo mu na prozor malo zrna.",
-      "translationEn": "A child heard it and put some grains on the window for it."
+      "translationEn": "A child heard it and put some grains on the window for it.",
+      "words": [
+        { "w": "سَمِعَهُ", "root": "س م ع", "bs": "čulo ga je", "en": "heard it" },
+        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "الْحُبُوبِ", "root": "ح ب ب", "bs": "zrna", "en": "grains" },
+        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" }
+      ]
     }
   ],
   "metadata": {

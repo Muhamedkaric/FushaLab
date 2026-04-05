@@ -6,27 +6,54 @@
     {
       "arabic": "رَأَى وَلِيدٌ ظِلًّا كَبِيرًا عَلَى الْجِدَارِ فِي اللَّيْلِ.",
       "translation": "Walid je noću vidio veliku sjenu na zidu.",
-      "translationEn": "Walid saw a large shadow on the wall at night."
+      "translationEn": "Walid saw a large shadow on the wall at night.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
+        { "w": "ظِلًّا", "root": "ظ ل ل", "bs": "sjenu", "en": "shadow" },
+        { "w": "كَبِيرًا", "root": "ك ب ر", "bs": "veliku", "en": "large" },
+        { "w": "الْجِدَارِ", "root": "ج د ر", "bs": "zidu", "en": "wall" }
+      ]
     },
     {
       "arabic": "خَافَ قَلِيلًا وَنَادَى أَبَاهُ.",
       "translation": "Malo se uplašio i pozvao oca.",
-      "translationEn": "He was a little scared and called his father."
+      "translationEn": "He was a little scared and called his father.",
+      "words": [
+        { "w": "خَافَ", "root": "خ و ف", "bs": "uplašio se", "en": "he was scared" },
+        { "w": "نَادَى", "root": "ن د و", "bs": "pozvao je", "en": "he called" }
+      ]
     },
     {
       "arabic": "جَاءَ الْأَبُ وَنَظَرَ إِلَى الظِّلِّ.",
       "translation": "Otac je došao i pogledao sjenu.",
-      "translationEn": "The father came and looked at the shadow."
+      "translationEn": "The father came and looked at the shadow.",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došao je", "en": "he came" },
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "he looked" },
+        { "w": "الظِّلِّ", "root": "ظ ل ل", "bs": "sjenu", "en": "the shadow" }
+      ]
     },
     {
       "arabic": "قَالَ: هَذَا ظِلُّ الشَّجَرَةِ أَمَامَ الْمَصْبَاحِ.",
       "translation": "Rekao je: To je sjena drveta ispred lampe.",
-      "translationEn": "He said: This is the shadow of the tree in front of the lamp."
+      "translationEn": "He said: This is the shadow of the tree in front of the lamp.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
+        { "w": "ظِلُّ", "root": "ظ ل ل", "bs": "sjena", "en": "shadow" },
+        { "w": "الشَّجَرَةِ", "root": "ش ج ر", "bs": "drveta", "en": "tree" },
+        { "w": "الْمَصْبَاحِ", "root": "ص ب ح", "bs": "lampe", "en": "lamp" }
+      ]
     },
     {
       "arabic": "شَعَرَ وَلِيدٌ بِالرَّاحَةِ وَنَامَ بِهُدُوءٍ.",
       "translation": "Walid se osjećao smireno i tiho zaspao.",
-      "translationEn": "Walid felt at ease and slept calmly."
+      "translationEn": "Walid felt at ease and slept calmly.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjećao se", "en": "he felt" },
+        { "w": "بِالرَّاحَةِ", "root": "ر و ح", "bs": "smireno", "en": "at ease" },
+        { "w": "نَامَ", "root": "ن و م", "bs": "zaspao je", "en": "he slept" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "tiho", "en": "calmly" }
+      ]
     }
   ],
   "metadata": {

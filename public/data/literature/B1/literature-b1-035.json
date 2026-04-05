@@ -6,22 +6,47 @@
     {
       "arabic": "أَرَادَ بِلَالٌ أَنْ يُقَدِّمَ هَدِيَّةً لِمُعَلِّمِهِ.",
       "translation": "Bilal je želio pokloniti poklon svom nastavniku.",
-      "translationEn": "Bilal wanted to give a gift to his teacher."
+      "translationEn": "Bilal wanted to give a gift to his teacher.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "želio je", "en": "wanted" },
+        { "w": "يُقَدِّمَ", "root": "ق د م", "bs": "da pokloni/pruži", "en": "to give/offer" },
+        { "w": "هَدِيَّةً", "root": "ه د ي", "bs": "poklon", "en": "gift" },
+        { "w": "لِمُعَلِّمِهِ", "root": "ع ل م", "bs": "njegov nastavnik", "en": "his teacher" }
+      ]
     },
     {
       "arabic": "رَسَمَ صُورَةً جَمِيلَةً بِيَدِهِ وَكَتَبَ عَلَيْهَا شُكْرًا.",
       "translation": "Rukom je nacrtao lijepu sliku i na nju napisao zahvalnicu.",
-      "translationEn": "He drew a beautiful picture by hand and wrote a thank you on it."
+      "translationEn": "He drew a beautiful picture by hand and wrote a thank you on it.",
+      "words": [
+        { "w": "رَسَمَ", "root": "ر س م", "bs": "nacrtao je", "en": "drew" },
+        { "w": "صُورَةً", "root": "ص و ر", "bs": "slika/crtež", "en": "picture" },
+        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijep", "en": "beautiful" },
+        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
+        { "w": "شُكْرًا", "root": "ش ك ر", "bs": "zahvalnica/hvala", "en": "thank you" }
+      ]
     },
     {
       "arabic": "أَعْطَاهَا لِلْمُعَلِّمِ أَمَامَ زُمَلَائِهِ فِي الصَّفِّ.",
       "translation": "Dao mu je to pred drugarima u razredu.",
-      "translationEn": "He gave it to the teacher in front of his classmates."
+      "translationEn": "He gave it to the teacher in front of his classmates.",
+      "words": [
+        { "w": "أَعْطَاهَا", "root": "ع ط و", "bs": "dao mu je", "en": "gave it" },
+        { "w": "الْمُعَلِّمِ", "root": "ع ل م", "bs": "nastavnik", "en": "teacher" },
+        { "w": "زُمَلَائِهِ", "root": "ز م ل", "bs": "njegovi drugari", "en": "his classmates" },
+        { "w": "الصَّفِّ", "root": "ص ف ف", "bs": "razred/učionica", "en": "classroom" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَ الْمُعَلِّمُ وَقَالَ إِنَّ هَذِهِ أَجْمَلُ هَدِيَّةٍ.",
       "translation": "Nastavnik se nasmiješio i rekao da je ovo najljepši poklon.",
-      "translationEn": "The teacher smiled and said this was the most beautiful gift."
+      "translationEn": "The teacher smiled and said this was the most beautiful gift.",
+      "words": [
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" },
+        { "w": "الْمُعَلِّمُ", "root": "ع ل م", "bs": "nastavnik", "en": "teacher" },
+        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepši", "en": "most beautiful" },
+        { "w": "هَدِيَّةٍ", "root": "ه د ي", "bs": "poklon", "en": "gift" }
+      ]
     }
   ],
   "metadata": {

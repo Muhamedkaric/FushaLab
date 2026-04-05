@@ -6,22 +6,49 @@
     {
       "arabic": "طَلَبَتِ الْأُمُّ مِنَ ابْنَتِهَا أَنْ تَغْسِلَ الْفَوَاكِهَ.",
       "translation": "Majka je zamolila kćerku da opere voće.",
-      "translationEn": "The mother asked her daughter to wash the fruit."
+      "translationEn": "The mother asked her daughter to wash the fruit.",
+      "words": [
+        { "w": "طَلَبَتِ", "root": "ط ل ب", "bs": "zamolila je/tražila", "en": "asked/requested" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "ابْنَتِهَا", "root": "ب ن ت", "bs": "njena kćerka", "en": "her daughter" },
+        { "w": "تَغْسِلَ", "root": "غ س ل", "bs": "da opere", "en": "to wash" },
+        { "w": "الْفَوَاكِهَ", "root": "ف و ك", "bs": "voće", "en": "fruit" }
+      ]
     },
     {
       "arabic": "غَسَلَتِ الْبِنْتُ التُّفَّاحَ وَالْعِنَبَ وَالْمَوْزَ.",
       "translation": "Djevojčica je oprala jabuke, grožđe i banane.",
-      "translationEn": "The girl washed the apples, grapes, and bananas."
+      "translationEn": "The girl washed the apples, grapes, and bananas.",
+      "words": [
+        { "w": "غَسَلَتِ", "root": "غ س ل", "bs": "oprala je", "en": "washed" },
+        { "w": "الْبِنْتُ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
+        { "w": "التُّفَّاحَ", "root": "ت ف ح", "bs": "jabuke", "en": "apples" },
+        { "w": "الْعِنَبَ", "root": "ع ن ب", "bs": "grožđe", "en": "grapes" },
+        { "w": "الْمَوْزَ", "root": "م و ز", "bs": "banane", "en": "bananas" }
+      ]
     },
     {
       "arabic": "وَضَعَتْهَا فِي طَبَقٍ جَمِيلٍ عَلَى الطَّاوِلَةِ.",
       "translation": "Stavila ih je u lijepi tanjir na stolu.",
-      "translationEn": "She placed them in a beautiful dish on the table."
+      "translationEn": "She placed them in a beautiful dish on the table.",
+      "words": [
+        { "w": "وَضَعَتْهَا", "root": "و ض ع", "bs": "stavila ih je", "en": "placed them" },
+        { "w": "طَبَقٍ", "root": "ط ب ق", "bs": "tanjir/posuda", "en": "dish/plate" },
+        { "w": "جَمِيلٍ", "root": "ج م ل", "bs": "lijep/lijepi", "en": "beautiful" },
+        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stol/sto", "en": "table" }
+      ]
     },
     {
       "arabic": "مَدَحَتِ الْأُمُّ ابْنَتَهَا عَلَى عَمَلِهَا الْجَيِّدِ.",
       "translation": "Majka je pohvalila kćerku za njezin dobar rad.",
-      "translationEn": "The mother praised her daughter for her good work."
+      "translationEn": "The mother praised her daughter for her good work.",
+      "words": [
+        { "w": "مَدَحَتِ", "root": "م د ح", "bs": "pohvalila je", "en": "praised" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "ابْنَتَهَا", "root": "ب ن ت", "bs": "njena kćerka", "en": "her daughter" },
+        { "w": "عَمَلِهَا", "root": "ع م ل", "bs": "njen rad/posao", "en": "her work" },
+        { "w": "الْجَيِّدِ", "root": "ج و د", "bs": "dobrog/dobri", "en": "good" }
+      ]
     }
   ],
   "metadata": {

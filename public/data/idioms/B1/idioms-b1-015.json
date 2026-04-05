@@ -6,22 +6,43 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «رُبَّ أَخٍ لَكَ لَمْ تَلِدْهُ أُمُّكَ».",
       "translation": "Poslovica kaže: «Možda imaš brata kojeg tvoja majka nije rodila».",
-      "translationEn": "The proverb says: «Perhaps you have a brother your mother did not give birth to»."
+      "translationEn": "The proverb says: «Perhaps you have a brother your mother did not give birth to».",
+      "words": [
+        { "w": "أَخٍ", "root": "أ خ و", "bs": "brat", "en": "brother" },
+        { "w": "تَلِدْهُ", "root": "و ل د", "bs": "rodila ga", "en": "gave birth to him" },
+        { "w": "أُمُّكَ", "root": "أ م م", "bs": "tvoja majka", "en": "your mother" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الصَّدِيقَ الْوَفِيَّ يَكُونُ كَالأَخِ.",
       "translation": "To znači da vjerni prijatelj može biti poput brata.",
-      "translationEn": "This means that a loyal friend can be like a brother."
+      "translationEn": "This means that a loyal friend can be like a brother.",
+      "words": [
+        { "w": "الصَّدِيقَ", "root": "ص د ق", "bs": "prijatelj", "en": "friend" },
+        { "w": "الْوَفِيَّ", "root": "و ف ي", "bs": "vjerni", "en": "loyal" },
+        { "w": "الأَخِ", "root": "أ خ و", "bs": "brat", "en": "brother" }
+      ]
     },
     {
       "arabic": "سَاعَدَ بِلَالٌ صَدِيقَهُ حِينَ فَقَدَ عَمَلَهُ.",
       "translation": "Bilal je pomogao svom prijatelju kada je ostao bez posla.",
-      "translationEn": "Bilal helped his friend when he lost his job."
+      "translationEn": "Bilal helped his friend when he lost his job.",
+      "words": [
+        { "w": "سَاعَدَ", "root": "س ع د", "bs": "pomogao je", "en": "helped" },
+        { "w": "صَدِيقَهُ", "root": "ص د ق", "bs": "njegovog prijatelja", "en": "his friend" },
+        { "w": "فَقَدَ", "root": "ف ق د", "bs": "izgubio je", "en": "lost" },
+        { "w": "عَمَلَهُ", "root": "ع م ل", "bs": "posao", "en": "job" }
+      ]
     },
     {
       "arabic": "قَالَ الصَّدِيقُ: «أَنْتَ أَخِي وَإِنْ لَمْ نَكُنْ مِنْ أُسْرَةٍ وَاحِدَةٍ».",
       "translation": "Prijatelj je rekao: «Ti si moj brat iako nismo iz iste porodice».",
-      "translationEn": "The friend said: «You are my brother even though we are not from the same family»."
+      "translationEn": "The friend said: «You are my brother even though we are not from the same family».",
+      "words": [
+        { "w": "الصَّدِيقُ", "root": "ص د ق", "bs": "prijatelj", "en": "friend" },
+        { "w": "أَخِي", "root": "أ خ و", "bs": "moj brat", "en": "my brother" },
+        { "w": "أُسْرَةٍ", "root": "أ س ر", "bs": "porodica", "en": "family" }
+      ]
     }
   ],
   "metadata": {

@@ -6,27 +6,54 @@
     {
       "arabic": "سَأَلَ الأَبُ ابْنَهُ عَنِ المَدْرَسَةِ عِنْدَ عَوْدَتِهِ.",
       "translation": "Otac je pitao sina o školi kad se vratio.",
-      "translationEn": "The father asked his son about school when he returned."
+      "translationEn": "The father asked his son about school when he returned.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "ابْنَهُ", "root": "ب ن و", "bs": "njegov sin", "en": "his son" },
+        { "w": "المَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" }
+      ]
     },
     {
       "arabic": "قَالَ الِابْنُ: تَعَلَّمْنَا اليَوْمَ عَنِ الكَوَاكِبِ.",
       "translation": "Sin je rekao: Danas smo učili o planetama.",
-      "translationEn": "The son said: Today we learned about planets."
+      "translationEn": "The son said: Today we learned about planets.",
+      "words": [
+        { "w": "الِابْنُ", "root": "ب ن و", "bs": "sin", "en": "son" },
+        { "w": "تَعَلَّمْنَا", "root": "ع ل م", "bs": "učili smo", "en": "we learned" },
+        { "w": "الكَوَاكِبِ", "root": "ك و ك", "bs": "planete", "en": "planets" }
+      ]
     },
     {
       "arabic": "فَرِحَ الأَبُ وَسَأَلَهُ أَسْئِلَةً كَثِيرَةً.",
       "translation": "Otac se obradovao i postavljao mu mnoga pitanja.",
-      "translationEn": "The father was pleased and asked him many questions."
+      "translationEn": "The father was pleased and asked him many questions.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was pleased" },
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "أَسْئِلَةً", "root": "س أ ل", "bs": "pitanja", "en": "questions" }
+      ]
     },
     {
       "arabic": "أَجَابَ الِابْنُ عَلَى كُلِّ سُؤَالٍ بِثِقَةٍ.",
       "translation": "Sin je s pouzdanjem odgovorio na svako pitanje.",
-      "translationEn": "The son answered every question with confidence."
+      "translationEn": "The son answered every question with confidence.",
+      "words": [
+        { "w": "أَجَابَ", "root": "ج و ب", "bs": "odgovorio je", "en": "answered" },
+        { "w": "الِابْنُ", "root": "ب ن و", "bs": "sin", "en": "son" },
+        { "w": "سُؤَالٍ", "root": "س أ ل", "bs": "pitanje", "en": "question" },
+        { "w": "ثِقَةٍ", "root": "ث ق و", "bs": "pouzdanje", "en": "confidence" }
+      ]
     },
     {
       "arabic": "قَالَ الأَبُ: أَنَا فَخُورٌ بِكَ يَا بُنَيَّ.",
       "translation": "Otac je rekao: Ponosan sam na tebe, sine moj.",
-      "translationEn": "The father said: I am proud of you, my son."
+      "translationEn": "The father said: I am proud of you, my son.",
+      "words": [
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "فَخُورٌ", "root": "ف خ ر", "bs": "ponosan", "en": "proud" },
+        { "w": "بُنَيَّ", "root": "ب ن و", "bs": "moj sine", "en": "my son" }
+      ]
     }
   ],
   "metadata": {

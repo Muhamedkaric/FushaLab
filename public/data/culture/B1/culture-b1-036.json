@@ -6,22 +6,46 @@
     {
       "arabic": "الصَّقَرُ طَائِرٌ مَشْهُورٌ فِي الثَّقَافَةِ الخَلِيجِيَّةِ.",
       "translation": "Soko je poznata ptica u kulturi Zaljeva.",
-      "translationEn": "The falcon is a well-known bird in Gulf culture."
+      "translationEn": "The falcon is a well-known bird in Gulf culture.",
+      "words": [
+        { "w": "الصَّقَرُ", "root": "ص ق ر", "bs": "soko", "en": "falcon" },
+        { "w": "طَائِرٌ", "root": "ط ي ر", "bs": "ptica", "en": "bird" },
+        { "w": "مَشْهُورٌ", "root": "ش هـ ر", "bs": "poznata", "en": "well-known" },
+        { "w": "الثَّقَافَةِ", "root": "ث ق ف", "bs": "kulturi", "en": "culture" }
+      ]
     },
     {
       "arabic": "يُرَبِّي بَعْضُ الرِّجَالِ الصُّقُورَ كَهِوَايَةٍ.",
       "translation": "Neki muškarci uzgajaju sokolove kao hobi.",
-      "translationEn": "Some men raise falcons as a hobby."
+      "translationEn": "Some men raise falcons as a hobby.",
+      "words": [
+        { "w": "يُرَبِّي", "root": "ر ب و", "bs": "uzgajaju", "en": "raise" },
+        { "w": "الرِّجَالِ", "root": "ر ج ل", "bs": "muškarci", "en": "men" },
+        { "w": "الصُّقُورَ", "root": "ص ق ر", "bs": "sokolove", "en": "falcons" },
+        { "w": "هِوَايَةٍ", "root": "هـ و ي", "bs": "hobi", "en": "hobby" }
+      ]
     },
     {
       "arabic": "الصَّقَرُ يَتَعَلَّمُ الطَّيَرَانَ وَالصَّيْدَ.",
       "translation": "Soko uči letjeti i loviti.",
-      "translationEn": "The falcon learns to fly and hunt."
+      "translationEn": "The falcon learns to fly and hunt.",
+      "words": [
+        { "w": "الصَّقَرُ", "root": "ص ق ر", "bs": "soko", "en": "falcon" },
+        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learns" },
+        { "w": "الطَّيَرَانَ", "root": "ط ي ر", "bs": "letjeti", "en": "to fly" },
+        { "w": "الصَّيْدَ", "root": "ص ي د", "bs": "loviti", "en": "hunting" }
+      ]
     },
     {
       "arabic": "الصَّقَارَةُ تُرَاثٌ إِنْسَانِيٌّ مَعْتَرَفٌ بِهِ.",
       "translation": "Sokolari je priznatа kulturna baština čovječanstva.",
-      "translationEn": "Falconry is a recognized human heritage."
+      "translationEn": "Falconry is a recognized human heritage.",
+      "words": [
+        { "w": "الصَّقَارَةُ", "root": "ص ق ر", "bs": "sokolari", "en": "falconry" },
+        { "w": "تُرَاثٌ", "root": "و ر ث", "bs": "baština", "en": "heritage" },
+        { "w": "إِنْسَانِيٌّ", "root": "أ ن س", "bs": "čovječanstva", "en": "human" },
+        { "w": "مَعْتَرَفٌ", "root": "ع ر ف", "bs": "priznata", "en": "recognized" }
+      ]
     }
   ],
   "metadata": {

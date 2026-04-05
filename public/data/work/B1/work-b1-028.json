@@ -6,22 +6,47 @@
     {
       "arabic": "طَلَبَ مُدِيرُ الْقِسْمِ مِنْ عَامِرٍ أَنْ يُنَظِّمَ الْأَرْشِيفَ.",
       "translation": "Šef odjela je tražio od Amira da organizira arhivu.",
-      "translationEn": "The department manager asked Amer to organise the archive."
+      "translationEn": "The department manager asked Amer to organise the archive.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je", "en": "asked/requested" },
+        { "w": "مُدِيرُ", "root": "د و ر", "bs": "šef/direktor", "en": "manager" },
+        { "w": "الْقِسْمِ", "root": "ق س م", "bs": "odjel/sektor", "en": "department/section" },
+        { "w": "يُنَظِّمَ", "root": "ن ظ م", "bs": "da organizira/sredi", "en": "to organise" },
+        { "w": "الْأَرْشِيفَ", "root": "أ ر ش", "bs": "arhiv/arhiva", "en": "archive" }
+      ]
     },
     {
       "arabic": "بَدَأَ عَامِرٌ يُرَتِّبُ الْمَجَلَّدَاتِ حَسَبَ التَّارِيخِ.",
       "translation": "Amir je počeo slagati fascikle po datumu.",
-      "translationEn": "Amer started arranging the folders according to date."
+      "translationEn": "Amer started arranging the folders according to date.",
+      "words": [
+        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počeo je", "en": "started" },
+        { "w": "يُرَتِّبُ", "root": "ر ت ب", "bs": "slagati/sređivati", "en": "arranging" },
+        { "w": "الْمَجَلَّدَاتِ", "root": "ج ل د", "bs": "fascikle/svesci", "en": "folders/volumes" },
+        { "w": "التَّارِيخِ", "root": "أ ر خ", "bs": "datum/historija", "en": "date/history" }
+      ]
     },
     {
       "arabic": "اسْتَغْرَقَ الْعَمَلُ سَاعَتَيْنِ وَلَكِنَّهُ انْتَهَى بِشَكْلٍ جَيِّدٍ.",
       "translation": "Posao je trajao dva sata ali je dobro završen.",
-      "translationEn": "The work took two hours but it ended well."
+      "translationEn": "The work took two hours but it ended well.",
+      "words": [
+        { "w": "اسْتَغْرَقَ", "root": "غ ر ق", "bs": "trajao je/oduzeo", "en": "took/lasted" },
+        { "w": "الْعَمَلُ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
+        { "w": "سَاعَتَيْنِ", "root": "س ع و", "bs": "dva sata", "en": "two hours" },
+        { "w": "انْتَهَى", "root": "ن ه ي", "bs": "završio je", "en": "ended" }
+      ]
     },
     {
       "arabic": "مَدَحَهُ الْمُدِيرُ عَلَى التَّرْتِيبِ الْجَيِّدِ.",
       "translation": "Direktor ga je pohvalio za dobro sređivanje.",
-      "translationEn": "The manager praised him for the good arrangement."
+      "translationEn": "The manager praised him for the good arrangement.",
+      "words": [
+        { "w": "مَدَحَهُ", "root": "م د ح", "bs": "pohvalio ga je", "en": "praised him" },
+        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
+        { "w": "التَّرْتِيبِ", "root": "ر ت ب", "bs": "sređivanje/organizacija", "en": "arrangement/organisation" },
+        { "w": "الْجَيِّدِ", "root": "ج و د", "bs": "dobro/odlično", "en": "good" }
+      ]
     }
   ],
   "metadata": {

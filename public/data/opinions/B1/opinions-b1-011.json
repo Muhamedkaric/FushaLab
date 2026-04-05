@@ -6,22 +6,49 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ النَّظَامَ وَالتَّرْتِيبَ يُسَاعِدَانِ فِي الْعَمَلِ.",
       "translation": "Smatram da red i organiziranost pomažu u poslu.",
-      "translationEn": "I believe that order and organisation help in work."
+      "translationEn": "I believe that order and organisation help in work.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "النَّظَامَ", "root": "ن ظ م", "bs": "red", "en": "order" },
+        { "w": "التَّرْتِيبَ", "root": "ر ت ب", "bs": "organiziranost", "en": "organisation" },
+        { "w": "يُسَاعِدَانِ", "root": "س ع د", "bs": "pomažu", "en": "help" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "poslu", "en": "work" }
+      ]
     },
     {
       "arabic": "حِينَ تَكُونُ الْأَشْيَاءُ مُرَتَّبَةً يَسْهُلُ إِيجَادُهَا.",
       "translation": "Kada su stvari poredane, lakše ih je pronaći.",
-      "translationEn": "When things are tidy they are easy to find."
+      "translationEn": "When things are tidy they are easy to find.",
+      "words": [
+        { "w": "الْأَشْيَاءُ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "مُرَتَّبَةً", "root": "ر ت ب", "bs": "poredane", "en": "tidy" },
+        { "w": "يَسْهُلُ", "root": "س ه ل", "bs": "lakše je", "en": "it is easy" },
+        { "w": "إِيجَادُهَا", "root": "و ج د", "bs": "pronaći ih", "en": "finding them" }
+      ]
     },
     {
       "arabic": "أُحَاوِلُ أَنْ أُرَتِّبَ غُرْفَتِي كُلَّ صَبَاحٍ.",
       "translation": "Trudim se svako jutro pospremiti svoju sobu.",
-      "translationEn": "I try to tidy my room every morning."
+      "translationEn": "I try to tidy my room every morning.",
+      "words": [
+        { "w": "أُحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
+        { "w": "أُرَتِّبَ", "root": "ر ت ب", "bs": "pospremiti", "en": "to tidy" },
+        { "w": "غُرْفَتِي", "root": "غ ر ف", "bs": "sobu", "en": "my room" },
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "الشَّخْصُ الْمُنَظَّمُ يُنْجِزُ كَثِيرًا فِي وَقْتٍ قَصِيرٍ.",
       "translation": "Organizirana osoba postigne puno u kratkom vremenu.",
-      "translationEn": "An organised person achieves a lot in a short time."
+      "translationEn": "An organised person achieves a lot in a short time.",
+      "words": [
+        { "w": "الشَّخْصُ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
+        { "w": "الْمُنَظَّمُ", "root": "ن ظ م", "bs": "organizirana", "en": "organised" },
+        { "w": "يُنْجِزُ", "root": "ن ج ز", "bs": "postigne", "en": "achieves" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "puno", "en": "a lot" },
+        { "w": "وَقْتٍ", "root": "و ق ت", "bs": "vremenu", "en": "time" },
+        { "w": "قَصِيرٍ", "root": "ق ص ر", "bs": "kratkom", "en": "short" }
+      ]
     }
   ],
   "metadata": {

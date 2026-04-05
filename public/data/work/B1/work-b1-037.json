@@ -6,22 +6,48 @@
     {
       "arabic": "تَعْمَلُ مَرْوَةُ كَاتِبَةً فِي مَكْتَبِ الْبَلَدِيَّةِ.",
       "translation": "Merwa radi kao sekretarica u opštinskom uredu.",
-      "translationEn": "Marwa works as a secretary in the municipality office."
+      "translationEn": "Marwa works as a secretary in the municipality office.",
+      "words": [
+        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "كَاتِبَةً", "root": "ك ت ب", "bs": "sekretarica/pisar", "en": "secretary/clerk (f)" },
+        { "w": "مَكْتَبِ", "root": "ك ت ب", "bs": "ured/kancelarija", "en": "office" },
+        { "w": "الْبَلَدِيَّةِ", "root": "ب ل د", "bs": "opština/općina", "en": "municipality" }
+      ]
     },
     {
       "arabic": "تَسْتَقْبِلُ الْمُرَاجِعِينَ وَتُوَجِّهُهُمْ إِلَى الْقِسْمِ الْمُنَاسِبِ.",
       "translation": "Prima stranke i upućuje ih u odgovarajući odjel.",
-      "translationEn": "She receives visitors and directs them to the right department."
+      "translationEn": "She receives visitors and directs them to the right department.",
+      "words": [
+        { "w": "تَسْتَقْبِلُ", "root": "ق ب ل", "bs": "prima/dočekuje", "en": "receives/welcomes" },
+        { "w": "الْمُرَاجِعِينَ", "root": "ر ج ع", "bs": "stranke/posjetioci", "en": "visitors/clients" },
+        { "w": "تُوَجِّهُهُمْ", "root": "و ج ه", "bs": "upućuje ih", "en": "directs them" },
+        { "w": "الْقِسْمِ", "root": "ق س م", "bs": "odjel/sektor", "en": "department" },
+        { "w": "الْمُنَاسِبِ", "root": "ن س ب", "bs": "odgovarajući/prikladni", "en": "suitable/right" }
+      ]
     },
     {
       "arabic": "تُجِيبُ عَنِ الْأَسْئِلَةِ بِصَبْرٍ وَتَشْرَحُ الْإِجْرَاءَاتِ.",
       "translation": "Strpljivo odgovara na pitanja i objašnjava procedure.",
-      "translationEn": "She answers questions with patience and explains procedures."
+      "translationEn": "She answers questions with patience and explains procedures.",
+      "words": [
+        { "w": "تُجِيبُ", "root": "ج و ب", "bs": "odgovara", "en": "answers" },
+        { "w": "الْأَسْئِلَةِ", "root": "س أ ل", "bs": "pitanja", "en": "questions" },
+        { "w": "بِصَبْرٍ", "root": "ص ب ر", "bs": "strpljivo", "en": "patiently" },
+        { "w": "تَشْرَحُ", "root": "ش ر ح", "bs": "objašnjava", "en": "explains" },
+        { "w": "الْإِجْرَاءَاتِ", "root": "ج ر أ", "bs": "procedure/postupci", "en": "procedures" }
+      ]
     },
     {
       "arabic": "يَخْرُجُ النَّاسُ رَاضِينَ لِأَنَّهَا تُسَاعِدُهُمْ بِشَكْلٍ جَيِّدٍ.",
       "translation": "Ljudi izlaze zadovoljni jer im ona dobro pomaže.",
-      "translationEn": "People leave satisfied because she helps them well."
+      "translationEn": "People leave satisfied because she helps them well.",
+      "words": [
+        { "w": "يَخْرُجُ", "root": "خ ر ج", "bs": "izlaze", "en": "leave/exit" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "رَاضِينَ", "root": "ر ض و", "bs": "zadovoljni", "en": "satisfied" },
+        { "w": "تُسَاعِدُهُمْ", "root": "س ع د", "bs": "pomaže im", "en": "helps them" }
+      ]
     }
   ],
   "metadata": {

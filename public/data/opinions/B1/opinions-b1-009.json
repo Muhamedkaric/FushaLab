@@ -6,22 +6,47 @@
     {
       "arabic": "فِي رَأْيِي، الْوَقْتُ أَغْلَى مِنَ الْمَالِ.",
       "translation": "Po mom mišljenju, vrijeme je vrednije od novca.",
-      "translationEn": "In my opinion, time is more precious than money."
+      "translationEn": "In my opinion, time is more precious than money.",
+      "words": [
+        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "mišljenju", "en": "opinion" },
+        { "w": "الْوَقْتُ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "أَغْلَى", "root": "غ ل و", "bs": "vrednije", "en": "more precious" },
+        { "w": "الْمَالِ", "root": "م و ل", "bs": "novca", "en": "money" }
+      ]
     },
     {
       "arabic": "الْمَالُ يُمْكِنُ أَنْ يَعُودَ لَكِنَّ الْوَقْتَ لَا يَعُودُ.",
       "translation": "Novac se može vratiti ali se vrijeme ne može vratiti.",
-      "translationEn": "Money can come back but time cannot come back."
+      "translationEn": "Money can come back but time cannot come back.",
+      "words": [
+        { "w": "الْمَالُ", "root": "م و ل", "bs": "novac", "en": "money" },
+        { "w": "يُمْكِنُ", "root": "م ك ن", "bs": "može", "en": "can" },
+        { "w": "يَعُودَ", "root": "ع و د", "bs": "vratiti se", "en": "come back" },
+        { "w": "الْوَقْتَ", "root": "و ق ت", "bs": "vrijeme", "en": "time" }
+      ]
     },
     {
       "arabic": "أَحَاوِلُ أَنْ أَسْتَخْدِمَ وَقْتِي فِي أَشْيَاءَ مُفِيدَةٍ.",
       "translation": "Trudim se koristiti svoje vrijeme za korisne stvari.",
-      "translationEn": "I try to use my time for useful things."
+      "translationEn": "I try to use my time for useful things.",
+      "words": [
+        { "w": "أَحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
+        { "w": "أَسْتَخْدِمَ", "root": "خ د م", "bs": "koristiti", "en": "to use" },
+        { "w": "وَقْتِي", "root": "و ق ت", "bs": "svoje vrijeme", "en": "my time" },
+        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "مُفِيدَةٍ", "root": "ف ي د", "bs": "korisne", "en": "useful" }
+      ]
     },
     {
       "arabic": "لَا أُحِبُّ تَضْيِيعَ الْوَقْتِ فِي مَا لَا يَنْفَعُ.",
       "translation": "Ne volim gubiti vrijeme na ono što ne koristi.",
-      "translationEn": "I do not like wasting time on what is not useful."
+      "translationEn": "I do not like wasting time on what is not useful.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "تَضْيِيعَ", "root": "ض ي ع", "bs": "gubiti", "en": "wasting" },
+        { "w": "الْوَقْتِ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "يَنْفَعُ", "root": "ن ف ع", "bs": "koristi", "en": "is useful" }
+      ]
     }
   ],
   "metadata": {

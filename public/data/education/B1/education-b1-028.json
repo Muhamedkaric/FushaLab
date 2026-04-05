@@ -6,26 +6,146 @@
     {
       "arabic": "زَارَتِ المَدْرَسَةُ مَتْحَفًا قَرِيبًا مِنَ المَدِينَةِ.",
       "translation": "Škola je posjetila muzej blizu grada.",
-      "translationEn": "The school visited a museum near the city."
+      "translationEn": "The school visited a museum near the city.",
+      "words": [
+        {
+          "w": "زَارَتِ",
+          "root": "ز و ر",
+          "bs": "posjetila",
+          "en": "visited"
+        },
+        {
+          "w": "المَدْرَسَةُ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        },
+        {
+          "w": "مَتْحَفًا",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum"
+        },
+        {
+          "w": "قَرِيبًا",
+          "root": "ق ر ب",
+          "bs": "blizu",
+          "en": "near"
+        },
+        {
+          "w": "المَدِينَةِ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city"
+        }
+      ]
     },
     {
       "arabic": "رَأَى الطُّلَّابُ صُوَرًا قَدِيمَةً وَأَشْيَاءَ تَارِيخِيَّةً.",
       "translation": "Učenici su vidjeli stare slike i historijske predmete.",
-      "translationEn": "The students saw old pictures and historical objects."
+      "translationEn": "The students saw old pictures and historical objects.",
+      "words": [
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidjeli",
+          "en": "saw"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "صُوَرًا",
+          "root": "ص و ر",
+          "bs": "slike",
+          "en": "pictures"
+        },
+        {
+          "w": "قَدِيمَةً",
+          "root": "ق د م",
+          "bs": "stare",
+          "en": "old"
+        },
+        {
+          "w": "تَارِيخِيَّةً",
+          "root": "ت ر خ",
+          "bs": "historijski",
+          "en": "historical"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَ بَعْضُهُمُ الدَّلِيلَ عَنْ تَارِيخِ هَذِهِ الأَشْيَاءِ.",
       "translation": "Neki od njih su pitali vodiča o historiji ovih predmeta.",
-      "translationEn": "Some of them asked the guide about the history of these objects."
+      "translationEn": "Some of them asked the guide about the history of these objects.",
+      "words": [
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitali",
+          "en": "asked"
+        },
+        {
+          "w": "الدَّلِيلَ",
+          "root": "د ل ل",
+          "bs": "vodič",
+          "en": "guide"
+        },
+        {
+          "w": "تَارِيخِ",
+          "root": "ت ر خ",
+          "bs": "historija",
+          "en": "history"
+        },
+        {
+          "w": "الأَشْيَاءِ",
+          "root": "ش ي أ",
+          "bs": "predmeti",
+          "en": "objects"
+        }
+      ]
     },
     {
       "arabic": "اسْتَمَعُوا بِانْتِبَاهٍ لِشَرْحِ الدَّلِيلِ.",
       "translation": "Pažljivo su slušali vodičevo objašnjenje.",
-      "translationEn": "They listened attentively to the guide's explanation."
+      "translationEn": "They listened attentively to the guide's explanation.",
+      "words": [
+        {
+          "w": "اسْتَمَعُوا",
+          "root": "س م ع",
+          "bs": "slušali",
+          "en": "listened"
+        },
+        {
+          "w": "بِانْتِبَاهٍ",
+          "root": "ن ب ه",
+          "bs": "pažljivo",
+          "en": "attentively"
+        },
+        {
+          "w": "لِشَرْحِ",
+          "root": "ش ر ح",
+          "bs": "objašnjenje",
+          "en": "explanation"
+        },
+        {
+          "w": "الدَّلِيلِ",
+          "root": "د ل ل",
+          "bs": "vodič",
+          "en": "guide"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school-trip", "museum", "history"]
+    "tags": [
+      "school-trip",
+      "museum",
+      "history"
+    ]
   }
 }

@@ -6,26 +6,121 @@
     {
       "arabic": "نَظَّمَ نَادِي الْمَدْرَسَةِ حَفْلَةً مُوسِيقِيَّةً لِلطُّلَّابِ.",
       "translation": "Školski klub organizovao je muzički koncert za učenike.",
-      "translationEn": "The school club organized a music concert for students."
+      "translationEn": "The school club organized a music concert for students.",
+      "words": [
+        {
+          "w": "نَادِي",
+          "root": "ن د و",
+          "bs": "klub",
+          "en": "club"
+        },
+        {
+          "w": "حَفْلَةً",
+          "root": "ح ف ل",
+          "bs": "koncert",
+          "en": "concert"
+        },
+        {
+          "w": "مُوسِيقِيَّةً",
+          "bs": "muzički",
+          "en": "music"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenika",
+          "en": "students"
+        }
+      ]
     },
     {
       "arabic": "عَزَفَ الطُّلَّابُ مَقَاطِعَ مُوسِيقِيَّةً جَمِيلَةً.",
       "translation": "Učenici su svirali lijepe muzičke komade.",
-      "translationEn": "The students played beautiful musical pieces."
+      "translationEn": "The students played beautiful musical pieces.",
+      "words": [
+        {
+          "w": "عَزَفَ",
+          "root": "ع ز ف",
+          "bs": "svirao je",
+          "en": "played"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "مَقَاطِعَ",
+          "root": "ق ط ع",
+          "bs": "komade",
+          "en": "pieces"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijepe",
+          "en": "beautiful"
+        }
+      ]
     },
     {
       "arabic": "حَضَرَ آبَاءُ الطُّلَّابِ وَصَفَّقُوا بِحَرَارَةٍ.",
       "translation": "Roditelji učenika su prisustvovali i toplo pljeskom pozdravili.",
-      "translationEn": "The parents attended and applauded warmly."
+      "translationEn": "The parents attended and applauded warmly.",
+      "words": [
+        {
+          "w": "حَضَرَ",
+          "root": "ح ض ر",
+          "bs": "prisustvovao je",
+          "en": "attended"
+        },
+        {
+          "w": "آبَاءُ",
+          "root": "أ ب و",
+          "bs": "roditelji",
+          "en": "parents"
+        },
+        {
+          "w": "صَفَّقُوا",
+          "root": "ص ف ق",
+          "bs": "pljeskom su pozdravili",
+          "en": "applauded"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الْمُدِيرُ إِنَّ الطُّلَّابَ أَبْدَعُوا فِي الأَدَاءِ.",
       "translation": "Direktor je rekao da su učenici bili odlični u izvedbi.",
-      "translationEn": "The principal said the students excelled in the performance."
+      "translationEn": "The principal said the students excelled in the performance.",
+      "words": [
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor",
+          "en": "principal"
+        },
+        {
+          "w": "أَبْدَعُوا",
+          "root": "ب د ع",
+          "bs": "bili su odlični",
+          "en": "excelled"
+        },
+        {
+          "w": "الأَدَاءِ",
+          "root": "أ د و",
+          "bs": "izvedbi",
+          "en": "performance"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["music", "school", "arts"]
+    "tags": [
+      "music",
+      "school",
+      "arts"
+    ]
   }
 }

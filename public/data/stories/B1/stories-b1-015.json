@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ طِفْلٌ اسْمُهُ يُوسُفُ يَخَافُ مِنَ الظَّلَامِ.",
       "translation": "Bio je dječak po imenu Jusuf koji se bojao tame.",
-      "translationEn": "There was a boy named Yusuf who was afraid of the dark."
+      "translationEn": "There was a boy named Yusuf who was afraid of the dark.",
+      "words": [
+        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dječak", "en": "boy" },
+        { "w": "يَخَافُ", "root": "خ و ف", "bs": "bojao se", "en": "was afraid" },
+        { "w": "الظَّلَامِ", "root": "ظ ل م", "bs": "tama", "en": "dark" }
+      ]
     },
     {
       "arabic": "كَانَ لَا يَنَامُ بِدُونِ إِضَاءَةٍ فِي غُرْفَتِهِ.",
       "translation": "Nije mogao zaspati bez svjetla u sobi.",
-      "translationEn": "He could not sleep without a light in his room."
+      "translationEn": "He could not sleep without a light in his room.",
+      "words": [
+        { "w": "يَنَامُ", "root": "ن و م", "bs": "da zaspi", "en": "to sleep" },
+        { "w": "إِضَاءَةٍ", "root": "ض و أ", "bs": "svjetlo", "en": "light" },
+        { "w": "غُرْفَتِهِ", "root": "غ ر ف", "bs": "njegova soba", "en": "his room" }
+      ]
     },
     {
       "arabic": "اشْتَرَى لَهُ أَبُوهُ مِصْبَاحًا صَغِيرًا بِشَكْلِ نَجْمَةٍ.",
       "translation": "Otac mu je kupio malu lampu u obliku zvijezde.",
-      "translationEn": "His father bought him a small lamp in the shape of a star."
+      "translationEn": "His father bought him a small lamp in the shape of a star.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "أَبُوهُ", "root": "أ ب و", "bs": "njegov otac", "en": "his father" },
+        { "w": "مِصْبَاحًا", "root": "ص ب ح", "bs": "lampa", "en": "lamp" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "نَجْمَةٍ", "root": "ن ج م", "bs": "zvijezda", "en": "star" }
+      ]
     },
     {
       "arabic": "نَامَ يُوسُفُ بِهُدُوءٍ وَهُوَ يَنْظُرُ إِلَى الضَّوْءِ الأَصْفَرِ.",
       "translation": "Jusuf je mirno zaspao gledajući u žutu svjetlost.",
-      "translationEn": "Yusuf fell asleep peacefully while looking at the yellow light."
+      "translationEn": "Yusuf fell asleep peacefully while looking at the yellow light.",
+      "words": [
+        { "w": "نَامَ", "root": "ن و م", "bs": "zaspao je", "en": "fell asleep" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno", "en": "peacefully" },
+        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gledajući", "en": "looking" },
+        { "w": "الضَّوْءِ", "root": "ض و أ", "bs": "svjetlost", "en": "light" },
+        { "w": "الأَصْفَرِ", "root": "ص ف ر", "bs": "žuta", "en": "yellow" }
+      ]
     }
   ],
   "metadata": {

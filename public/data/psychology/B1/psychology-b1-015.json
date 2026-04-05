@@ -6,22 +6,47 @@
     {
       "arabic": "الِابْتِسَامَةُ الصَّغِيرَةُ تُغَيِّرُ مَزَاجَ الإِنْسَانِ.",
       "translation": "Mali osmijeh mijenja raspoloženje čovjeka.",
-      "translationEn": "A small smile can change a person's mood."
+      "translationEn": "A small smile can change a person's mood.",
+      "words": [
+        { "w": "الِابْتِسَامَةُ", "root": "ب س م", "bs": "osmijeh", "en": "a smile" },
+        { "w": "الصَّغِيرَةُ", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "تُغَيِّرُ", "root": "غ ي ر", "bs": "mijenja", "en": "changes" },
+        { "w": "مَزَاجَ", "root": "م ز ج", "bs": "raspoloženje", "en": "mood" },
+        { "w": "الإِنْسَانِ", "root": "أ ن س", "bs": "čovjek", "en": "a person" }
+      ]
     },
     {
       "arabic": "حِينَ تَبْتَسِمُ يَشْعُرُ مَنْ حَوْلَكَ بِالأَمَانِ.",
       "translation": "Kada se nasmijehiš, oni oko tebe osjećaju se sigurno.",
-      "translationEn": "When you smile, those around you feel safe."
+      "translationEn": "When you smile, those around you feel safe.",
+      "words": [
+        { "w": "تَبْتَسِمُ", "root": "ب س م", "bs": "nasmijehiš se", "en": "smile" },
+        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feel" },
+        { "w": "الأَمَانِ", "root": "أ م ن", "bs": "sigurnost", "en": "safe" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَتْ رِيمُ لِزَمِيلَتِهَا الْجَدِيدَةِ فِي الصَّفِّ.",
       "translation": "Rim se nasmijehila svojoj novoj drugarici u razredu.",
-      "translationEn": "Reem smiled at her new classmate in class."
+      "translationEn": "Reem smiled at her new classmate in class.",
+      "words": [
+        { "w": "ابْتَسَمَتْ", "root": "ب س م", "bs": "nasmijehila se", "en": "smiled" },
+        { "w": "زَمِيلَتِهَا", "root": "ز م ل", "bs": "njena drugarica", "en": "her classmate" },
+        { "w": "الْجَدِيدَةِ", "root": "ج د د", "bs": "nova", "en": "new" },
+        { "w": "الصَّفِّ", "root": "ص ف ف", "bs": "razred", "en": "class" }
+      ]
     },
     {
       "arabic": "شَعَرَتِ الزَّمِيلَةُ الْجَدِيدَةُ أَنَّ الْمَدْرَسَةَ لَيْسَتْ مُخِيفَةً.",
       "translation": "Nova drugarica je osjetila da škola nije strašna.",
-      "translationEn": "The new classmate felt that the school was not scary."
+      "translationEn": "The new classmate felt that the school was not scary.",
+      "words": [
+        { "w": "شَعَرَتِ", "root": "ش ع ر", "bs": "osjetila je", "en": "felt" },
+        { "w": "الزَّمِيلَةُ", "root": "ز م ل", "bs": "drugarica", "en": "the classmate" },
+        { "w": "الْجَدِيدَةُ", "root": "ج د د", "bs": "nova", "en": "new" },
+        { "w": "الْمَدْرَسَةَ", "root": "د ر س", "bs": "škola", "en": "the school" },
+        { "w": "مُخِيفَةً", "root": "خ و ف", "bs": "strašna", "en": "scary" }
+      ]
     }
   ],
   "metadata": {

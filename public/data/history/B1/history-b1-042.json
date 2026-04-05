@@ -6,22 +6,44 @@
     {
       "arabic": "كَانَ الْعَالِمُ يَنْظُرُ إِلَى النُّجُومِ كُلَّ لَيْلَةٍ.",
       "translation": "Naučnik je svake noći gledao u zvijezde.",
-      "translationEn": "The scholar used to look at the stars every night."
+      "translationEn": "The scholar used to look at the stars every night.",
+      "words": [
+        { "w": "الْعَالِمُ", "root": "ع ل م", "bs": "naučnik", "en": "the scholar" },
+        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gleda", "en": "looks" },
+        { "w": "النُّجُومِ", "root": "ن ج م", "bs": "zvijezde", "en": "the stars" },
+        { "w": "لَيْلَةٍ", "root": "ل ي ل", "bs": "noć", "en": "night" }
+      ]
     },
     {
       "arabic": "كَانَ يَكْتُبُ مَا يَرَاهُ فِي كُرَّاسٍ كَبِيرٍ.",
       "translation": "Bilježio je ono što vidi u veliku bilježnicu.",
-      "translationEn": "He would write what he saw in a large notebook."
+      "translationEn": "He would write what he saw in a large notebook.",
+      "words": [
+        { "w": "يَكْتُبُ", "root": "ك ت ب", "bs": "piše", "en": "writes" },
+        { "w": "يَرَاهُ", "root": "ر أ ي", "bs": "vidi", "en": "sees" },
+        { "w": "كُرَّاسٍ", "root": "ك ر س", "bs": "bilježnica", "en": "a notebook" },
+        { "w": "كَبِيرٍ", "root": "ك ب ر", "bs": "veliku", "en": "large" }
+      ]
     },
     {
       "arabic": "أَعْطَى كُلَّ نَجْمٍ اسْمًا خَاصًّا بِهِ.",
       "translation": "Dao je svakoj zvijezdi posebno ime.",
-      "translationEn": "He gave each star its own special name."
+      "translationEn": "He gave each star its own special name.",
+      "words": [
+        { "w": "أَعْطَى", "root": "ع ط و", "bs": "dao je", "en": "gave" },
+        { "w": "نَجْمٍ", "root": "ن ج م", "bs": "zvijezda", "en": "a star" },
+        { "w": "اسْمًا", "root": "س م و", "bs": "ime", "en": "a name" },
+        { "w": "خَاصًّا", "root": "خ ص ص", "bs": "posebno", "en": "special" }
+      ]
     },
     {
       "arabic": "كَثِيرٌ مِنْ هَذِهِ الأَسْمَاءِ لَا تَزَالُ تُسْتَخْدَمُ الْيَوْمَ.",
       "translation": "Mnoga od ovih imena koriste se još danas.",
-      "translationEn": "Many of these names are still used today."
+      "translationEn": "Many of these names are still used today.",
+      "words": [
+        { "w": "الأَسْمَاءِ", "root": "س م و", "bs": "imena", "en": "names" },
+        { "w": "تُسْتَخْدَمُ", "root": "خ د م", "bs": "koriste se", "en": "are used" }
+      ]
     }
   ],
   "metadata": {

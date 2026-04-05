@@ -6,27 +6,56 @@
     {
       "arabic": "ذَهَبَ عَلِيٌّ وَأُمُّهُ إِلَى السُّوقِ الأُسْبُوعِيِّ.",
       "translation": "Ali i majka su otišli na sedmičnu pijacu.",
-      "translationEn": "Ali and his mother went to the weekly market."
+      "translationEn": "Ali and his mother went to the weekly market.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca", "en": "market" },
+        { "w": "الأُسْبُوعِيِّ", "root": "س ب ع", "bs": "sedmična", "en": "weekly" }
+      ]
     },
     {
       "arabic": "كَانَ السُّوقُ مَلِيئًا بِالبَائِعِينَ وَالمُشْتَرِينَ.",
       "translation": "Pijaca je bila puna prodavača i kupaca.",
-      "translationEn": "The market was full of sellers and buyers."
+      "translationEn": "The market was full of sellers and buyers.",
+      "words": [
+        { "w": "السُّوقُ", "root": "س و ق", "bs": "pijaca", "en": "market" },
+        { "w": "مَلِيئًا", "root": "م ل أ", "bs": "puna", "en": "full" },
+        { "w": "بِالبَائِعِينَ", "root": "ب ي ع", "bs": "prodavači", "en": "sellers" },
+        { "w": "وَالمُشْتَرِينَ", "root": "ش ر ي", "bs": "kupci", "en": "buyers" }
+      ]
     },
     {
       "arabic": "اشْتَرَتِ الأُمُّ الفَاكِهَةَ وَالخُضَارَ وَبَعْضَ البَهَارَاتِ.",
       "translation": "Majka je kupila voće, povrće i neke začine.",
-      "translationEn": "The mother bought fruit, vegetables, and some spices."
+      "translationEn": "The mother bought fruit, vegetables, and some spices.",
+      "words": [
+        { "w": "اشْتَرَتِ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "الفَاكِهَةَ", "root": "ف ك ه", "bs": "voće", "en": "fruit" },
+        { "w": "الخُضَارَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
+        { "w": "البَهَارَاتِ", "root": "ب ه ر", "bs": "začini", "en": "spices" }
+      ]
     },
     {
       "arabic": "دَفَعَتِ الثَّمَنَ لِكُلِّ بَائِعٍ وَأَخَذَتِ الباقِيَ.",
       "translation": "Platila je cijenu svakom prodavaču i uzela kusur.",
-      "translationEn": "She paid the price to each seller and took the change."
+      "translationEn": "She paid the price to each seller and took the change.",
+      "words": [
+        { "w": "دَفَعَتِ", "root": "د ف ع", "bs": "platila je", "en": "paid" },
+        { "w": "الثَّمَنَ", "root": "ث م ن", "bs": "cijena", "en": "price" },
+        { "w": "بَائِعٍ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" },
+        { "w": "الباقِيَ", "root": "ب ق ي", "bs": "kusur", "en": "change" }
+      ]
     },
     {
       "arabic": "عَادَا إِلَى البَيْتِ وَالحَقِيبَةُ مَلِيئَةٌ.",
       "translation": "Vratili su se kući s punom vrećicom.",
-      "translationEn": "They returned home with the bag full."
+      "translationEn": "They returned home with the bag full.",
+      "words": [
+        { "w": "عَادَا", "root": "ع و د", "bs": "vratili su se", "en": "returned" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" },
+        { "w": "الحَقِيبَةُ", "root": "ح ق ب", "bs": "vrećica", "en": "bag" },
+        { "w": "مَلِيئَةٌ", "root": "م ل أ", "bs": "puna", "en": "full" }
+      ]
     }
   ],
   "metadata": {

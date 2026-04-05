@@ -6,22 +6,46 @@
     {
       "arabic": "زَارَتْ سَلْمَى جَدَّتَهَا فِي الْقَرْيَةِ فِي الصَّيْفِ.",
       "translation": "Selma je posjetila svoju baku u selu ljeti.",
-      "translationEn": "Salma visited her grandmother in the village in summer."
+      "translationEn": "Salma visited her grandmother in the village in summer.",
+      "words": [
+        { "w": "زَارَتْ", "root": "ز و ر", "bs": "posjetila je", "en": "visited" },
+        { "w": "جَدَّتَهَا", "root": "ج د د", "bs": "njena baka", "en": "her grandmother" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" },
+        { "w": "الصَّيْفِ", "root": "ص ي ف", "bs": "ljeto", "en": "summer" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْقَرْيَةُ هَادِئَةً وَالْهَوَاءُ نَقِيًّا وَبَارِدًا.",
       "translation": "Selo je bilo tiho a zrak čist i svjež.",
-      "translationEn": "The village was quiet and the air was clean and cool."
+      "translationEn": "The village was quiet and the air was clean and cool.",
+      "words": [
+        { "w": "الْقَرْيَةُ", "root": "ق ر ي", "bs": "selo", "en": "village" },
+        { "w": "هَادِئَةً", "root": "ه د أ", "bs": "tiho/mirno", "en": "quiet" },
+        { "w": "الْهَوَاءُ", "root": "ه و أ", "bs": "zrak/vazduh", "en": "air" },
+        { "w": "نَقِيًّا", "root": "ن ق و", "bs": "čist/bistar", "en": "clean" },
+        { "w": "بَارِدًا", "root": "ب ر د", "bs": "hladan/svjež", "en": "cool" }
+      ]
     },
     {
       "arabic": "مَشَتْ سَلْمَى مَعَ جَدَّتِهَا فِي الْحُقُولِ وَشَاهَدَتِ الطَّبِيعَةَ.",
       "translation": "Selma je šetala s bakom po poljima i promatrala prirodu.",
-      "translationEn": "Salma walked with her grandmother through the fields and observed nature."
+      "translationEn": "Salma walked with her grandmother through the fields and observed nature.",
+      "words": [
+        { "w": "مَشَتْ", "root": "م ش ي", "bs": "hodala je/šetala", "en": "walked" },
+        { "w": "الْحُقُولِ", "root": "ح ق ل", "bs": "polja", "en": "fields" },
+        { "w": "شَاهَدَتِ", "root": "ش ه د", "bs": "promatrala je", "en": "observed" },
+        { "w": "الطَّبِيعَةَ", "root": "ط ب ع", "bs": "priroda", "en": "nature" }
+      ]
     },
     {
       "arabic": "قَالَتْ سَلْمَى إِنَّهَا لَنْ تَنْسَى هَذِهِ الزِّيَارَةَ أَبَدًا.",
       "translation": "Selma je rekla da nikada neće zaboraviti ovu posjetu.",
-      "translationEn": "Salma said she would never forget this visit."
+      "translationEn": "Salma said she would never forget this visit.",
+      "words": [
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "تَنْسَى", "root": "ن س ي", "bs": "zaboraviti", "en": "forget" },
+        { "w": "الزِّيَارَةَ", "root": "ز و ر", "bs": "posjeta", "en": "visit" }
+      ]
     }
   ],
   "metadata": {

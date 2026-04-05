@@ -6,22 +6,44 @@
     {
       "arabic": "قَالَتْ سُهَيْلَةُ إِنَّ الجَوَّ حَارٌّ جِدًّا اليَوْمَ.",
       "translation": "Suhaila je rekla da je danas veoma vruće.",
-      "translationEn": "Suhaila said that the weather is very hot today."
+      "translationEn": "Suhaila said that the weather is very hot today.",
+      "words": [
+        { "w": "الجَوَّ", "root": "ج و و", "bs": "vrijeme (klima)", "en": "weather" },
+        { "w": "حَارٌّ", "root": "ح ر ر", "bs": "vruće", "en": "hot" },
+        { "w": "اليَوْمَ", "root": "ي و م", "bs": "danas", "en": "today" }
+      ]
     },
     {
       "arabic": "وَافَقَهَا صَدِيقُهَا وَقَالَ إِنَّهُ يُفَضِّلُ البَرْدَ.",
       "translation": "Prijatelj se složio i rekao da preferira hladnoću.",
-      "translationEn": "Her friend agreed and said he prefers cold weather."
+      "translationEn": "Her friend agreed and said he prefers cold weather.",
+      "words": [
+        { "w": "وَافَقَهَا", "root": "و ف ق", "bs": "složio se s njom", "en": "agreed with her" },
+        { "w": "صَدِيقُهَا", "root": "ص د ق", "bs": "prijatelj", "en": "friend" },
+        { "w": "يُفَضِّلُ", "root": "ف ض ل", "bs": "preferira", "en": "prefers" },
+        { "w": "البَرْدَ", "root": "ب ر د", "bs": "hladnoću", "en": "cold" }
+      ]
     },
     {
       "arabic": "تَحَدَّثَا عَنِ الفُصُولِ الأَرْبَعَةِ.",
       "translation": "Razgovarali su o četiri godišnja doba.",
-      "translationEn": "They talked about the four seasons."
+      "translationEn": "They talked about the four seasons.",
+      "words": [
+        { "w": "تَحَدَّثَا", "root": "ح د ث", "bs": "razgovarali su", "en": "they talked" },
+        { "w": "الفُصُولِ", "root": "ف ص ل", "bs": "godišnja doba", "en": "seasons" },
+        { "w": "الأَرْبَعَةِ", "root": "ر ب ع", "bs": "četiri", "en": "four" }
+      ]
     },
     {
       "arabic": "قَرَّرَا أَنَّ الرَّبِيعَ هُوَ الفَصْلُ الأَجْمَلُ.",
       "translation": "Zaključili su da je proljeće najljepše godišnje doba.",
-      "translationEn": "They decided that spring is the most beautiful season."
+      "translationEn": "They decided that spring is the most beautiful season.",
+      "words": [
+        { "w": "قَرَّرَا", "root": "ق ر ر", "bs": "zaključili su", "en": "they decided" },
+        { "w": "الرَّبِيعَ", "root": "ر ب ع", "bs": "proljeće", "en": "spring" },
+        { "w": "الفَصْلُ", "root": "ف ص ل", "bs": "godišnje doba", "en": "season" },
+        { "w": "الأَجْمَلُ", "root": "ج م ل", "bs": "najljepše", "en": "most beautiful" }
+      ]
     }
   ],
   "metadata": {

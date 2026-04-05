@@ -6,22 +6,42 @@
     {
       "arabic": "قَرَأَتِ الْبِنْتُ: «إِذَا أَرَدْتَ أَنْ تُطَاعَ فَاطْلُبْ الْمُسْتَطَاعَ».",
       "translation": "Djevojka je pročitala: «Ako hoćeš da budeš poslušan, traži ono što je moguće».",
-      "translationEn": "The girl read: «If you want to be obeyed, ask for what is possible»."
+      "translationEn": "The girl read: «If you want to be obeyed, ask for what is possible».",
+      "words": [
+        { "w": "تُطَاعَ", "root": "ط و ع", "bs": "budeš poslušan", "en": "be obeyed" },
+        { "w": "فَاطْلُبْ", "root": "ط ل ب", "bs": "traži", "en": "ask for" },
+        { "w": "الْمُسْتَطَاعَ", "root": "ط و ع", "bs": "ono što je moguće", "en": "what is possible" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الطَّلَبَاتِ يَجِبُ أَنْ تَكُونَ مَعْقُولَةً.",
       "translation": "To znači da zahtjevi moraju biti razumni.",
-      "translationEn": "This means that requests must be reasonable."
+      "translationEn": "This means that requests must be reasonable.",
+      "words": [
+        { "w": "الطَّلَبَاتِ", "root": "ط ل ب", "bs": "zahtjevi", "en": "requests" },
+        { "w": "مَعْقُولَةً", "root": "ع ق ل", "bs": "razumni", "en": "reasonable" }
+      ]
     },
     {
       "arabic": "طَلَبَ الأَبُ مِنَ ابْنِهِ تَرْتِيبَ غُرْفَتِهِ فَقَطْ.",
       "translation": "Otac je od sina tražio samo da sredi svoju sobu.",
-      "translationEn": "The father asked his son only to tidy his room."
+      "translationEn": "The father asked his son only to tidy his room.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je", "en": "asked" },
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "تَرْتِيبَ", "root": "ر ت ب", "bs": "sređivanje", "en": "tidying" },
+        { "w": "غُرْفَتِهِ", "root": "غ ر ف", "bs": "njegova soba", "en": "his room" }
+      ]
     },
     {
       "arabic": "رَتَّبَهَا الِابْنُ بِسُرْعَةٍ وَبِدُونِ شِكَايَةٍ.",
       "translation": "Sin ju je brzo sredio bez žalbe.",
-      "translationEn": "The son tidied it quickly and without complaint."
+      "translationEn": "The son tidied it quickly and without complaint.",
+      "words": [
+        { "w": "رَتَّبَهَا", "root": "ر ت ب", "bs": "sredio je", "en": "tidied" },
+        { "w": "الِابْنُ", "root": "ب ن ي", "bs": "sin", "en": "son" },
+        { "w": "شِكَايَةٍ", "root": "ش ك و", "bs": "žalba", "en": "complaint" }
+      ]
     }
   ],
   "metadata": {

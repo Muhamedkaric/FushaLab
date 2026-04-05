@@ -6,22 +6,43 @@
     {
       "arabic": "كَانَ الطِّفْلُ عَامِرٌ يَحْلُمُ بِأَنْ يَكُونَ طَبِيبًا.",
       "translation": "Dijete Amir je sanjalo da postane ljekar.",
-      "translationEn": "The child Amer dreamed of becoming a doctor."
+      "translationEn": "The child Amer dreamed of becoming a doctor.",
+      "words": [
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "يَحْلُمُ", "root": "ح ل م", "bs": "sanja", "en": "dreams" },
+        { "w": "طَبِيبًا", "root": "ط ب ب", "bs": "ljekar/doktor", "en": "doctor" }
+      ]
     },
     {
       "arabic": "كَانَ يَلْعَبُ بِأَدَوَاتِ طِبٍّ صَغِيرَةٍ فِي الْبَيْتِ.",
       "translation": "Igrao se malim medicinskim priborom kod kuće.",
-      "translationEn": "He would play with small medical tools at home."
+      "translationEn": "He would play with small medical tools at home.",
+      "words": [
+        { "w": "يَلْعَبُ", "root": "ل ع ب", "bs": "igrao se", "en": "play" },
+        { "w": "أَدَوَاتِ", "root": "أ د و", "bs": "pribor/alati", "en": "tools/instruments" },
+        { "w": "طِبٍّ", "root": "ط ب ب", "bs": "medicinski/ljekarski", "en": "medical" },
+        { "w": "صَغِيرَةٍ", "root": "ص غ ر", "bs": "mali", "en": "small" }
+      ]
     },
     {
       "arabic": "كَانَ يُعَالِجُ ألعابَهُ كَأَنَّهَا مَرِيضَةٌ.",
       "translation": "Liječio bi svoje igračke kao da su bolesne.",
-      "translationEn": "He would treat his toys as if they were sick."
+      "translationEn": "He would treat his toys as if they were sick.",
+      "words": [
+        { "w": "يُعَالِجُ", "root": "ع ل ج", "bs": "liječio je/tretirao", "en": "treat/cure" },
+        { "w": "ألعابَهُ", "root": "ل ع ب", "bs": "njegove igračke", "en": "his toys" },
+        { "w": "مَرِيضَةٌ", "root": "م ر ض", "bs": "bolesne", "en": "sick" }
+      ]
     },
     {
       "arabic": "قَالَتْ أُمُّهُ إِنَّهُ سَيَكُونُ طَبِيبًا مَاهِرًا يَوْمًا مَا.",
       "translation": "Majka mu je rekla da će jednog dana biti vješt ljekar.",
-      "translationEn": "His mother said he will be a skilled doctor one day."
+      "translationEn": "His mother said he will be a skilled doctor one day.",
+      "words": [
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "طَبِيبًا", "root": "ط ب ب", "bs": "ljekar", "en": "doctor" },
+        { "w": "مَاهِرًا", "root": "م ه ر", "bs": "vješt/sposoban", "en": "skilled" }
+      ]
     }
   ],
   "metadata": {

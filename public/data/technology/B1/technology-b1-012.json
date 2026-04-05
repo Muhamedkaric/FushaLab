@@ -6,22 +6,108 @@
     {
       "arabic": "فَقَدَ كَرِيمٌ هَاتِفَهُ فِي الشَّارِعِ.",
       "translation": "Karim je izgubio telefon u ulici.",
-      "translationEn": "Karim lost his phone in the street."
+      "translationEn": "Karim lost his phone in the street.",
+      "words": [
+        {
+          "w": "فَقَدَ",
+          "root": "ف ق د",
+          "bs": "izgubio je",
+          "en": "lost"
+        },
+        {
+          "w": "هَاتِفَهُ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "his phone"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulici",
+          "en": "the street"
+        }
+      ]
     },
     {
       "arabic": "رَجَعَ إِلَى الْمَكَانِ الَّذِي كَانَ فِيهِ لَكِنَّهُ لَمْ يَجِدْهُ.",
       "translation": "Vratio se na mjesto gdje je bio ali ga nije našao.",
-      "translationEn": "He returned to the place where he was but did not find it."
+      "translationEn": "He returned to the place where he was but did not find it.",
+      "words": [
+        {
+          "w": "رَجَعَ",
+          "root": "ر ج ع",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "الْمَكَانِ",
+          "root": "م ك ن",
+          "bs": "mjesto",
+          "en": "the place"
+        },
+        {
+          "w": "يَجِدْهُ",
+          "root": "و ج د",
+          "bs": "pronašao ga",
+          "en": "find it"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَ النَّاسَ مِنْ حَوْلِهِ فَأَخْبَرَهُ رَجُلٌ أَنَّهُ وَجَدَهُ.",
       "translation": "Pitao je ljude oko sebe i jedan čovjek mu je rekao da ga je pronašao.",
-      "translationEn": "He asked people around him and a man told him he found it."
+      "translationEn": "He asked people around him and a man told him he found it.",
+      "words": [
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked"
+        },
+        {
+          "w": "النَّاسَ",
+          "root": "ن و س",
+          "bs": "ljude",
+          "en": "people"
+        },
+        {
+          "w": "رَجُلٌ",
+          "root": "ر ج ل",
+          "bs": "čovjek",
+          "en": "a man"
+        },
+        {
+          "w": "وَجَدَهُ",
+          "root": "و ج د",
+          "bs": "pronašao ga je",
+          "en": "found it"
+        }
+      ]
     },
     {
       "arabic": "أَعَادَهُ إِلَيْهِ وَفَرِحَ كَرِيمٌ وَشَكَرَهُ كَثِيرًا.",
       "translation": "Vratio mu ga je i Karim se obradovao i puno mu zahvalio.",
-      "translationEn": "He returned it to him and Karim was happy and thanked him a lot."
+      "translationEn": "He returned it to him and Karim was happy and thanked him a lot.",
+      "words": [
+        {
+          "w": "أَعَادَهُ",
+          "root": "ع و د",
+          "bs": "vratio mu ga je",
+          "en": "returned it"
+        },
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovao se",
+          "en": "was happy"
+        },
+        {
+          "w": "شَكَرَهُ",
+          "root": "ش ك ر",
+          "bs": "zahvalio mu je",
+          "en": "thanked him"
+        }
+      ]
     }
   ],
   "metadata": {

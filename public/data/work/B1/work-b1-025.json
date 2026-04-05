@@ -6,22 +6,48 @@
     {
       "arabic": "تَعْمَلُ إِيمَانُ مُحَاسِبَةً فِي شَرِكَةٍ صَغِيرَةٍ.",
       "translation": "Iman radi kao računovođa u maloj kompaniji.",
-      "translationEn": "Iman works as an accountant in a small company."
+      "translationEn": "Iman works as an accountant in a small company.",
+      "words": [
+        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "مُحَاسِبَةً", "root": "ح س ب", "bs": "računovođa/računotkinja", "en": "accountant (f)" },
+        { "w": "شَرِكَةٍ", "root": "ش ر ك", "bs": "kompanija/firma", "en": "company" },
+        { "w": "صَغِيرَةٍ", "root": "ص غ ر", "bs": "mala", "en": "small" }
+      ]
     },
     {
       "arabic": "تُرَاجِعُ الْأَرْقَامَ وَتُسَجِّلُ الْمَصَارِيفَ كُلَّ يَوْمٍ.",
       "translation": "Svaki dan pregledava brojke i evidentira troškove.",
-      "translationEn": "She reviews the numbers and records the expenses every day."
+      "translationEn": "She reviews the numbers and records the expenses every day.",
+      "words": [
+        { "w": "تُرَاجِعُ", "root": "ر ج ع", "bs": "pregledava/revidira", "en": "reviews" },
+        { "w": "الْأَرْقَامَ", "root": "ر ق م", "bs": "brojke/cifre", "en": "numbers/figures" },
+        { "w": "تُسَجِّلُ", "root": "س ج ل", "bs": "evidentira/bilježi", "en": "records" },
+        { "w": "الْمَصَارِيفَ", "root": "ص ر ف", "bs": "troškovi/izdaci", "en": "expenses" }
+      ]
     },
     {
       "arabic": "تَسْتَخْدِمُ الْحَاسُوبَ وَبَرَامِجَ خَاصَّةً لِلْأَرْقَامِ.",
       "translation": "Koristi računar i posebne programe za brojeve.",
-      "translationEn": "She uses the computer and special programmes for numbers."
+      "translationEn": "She uses the computer and special programmes for numbers.",
+      "words": [
+        { "w": "تَسْتَخْدِمُ", "root": "خ د م", "bs": "koristi", "en": "uses" },
+        { "w": "الْحَاسُوبَ", "root": "ح س ب", "bs": "računar/kompjuter", "en": "computer" },
+        { "w": "بَرَامِجَ", "root": "ب ر م", "bs": "programi/aplikacije", "en": "programmes/software" },
+        { "w": "خَاصَّةً", "root": "خ ص ص", "bs": "posebne/specijalne", "en": "special" },
+        { "w": "الْأَرْقَامِ", "root": "ر ق م", "bs": "brojevi", "en": "numbers" }
+      ]
     },
     {
       "arabic": "تَشْعُرُ بِالرِّضَا حِينَ تَتَطَابَقُ الْأَرْقَامُ فِي النِّهَايَةِ.",
       "translation": "Osjeća zadovoljstvo kad se na kraju brojevi poklope.",
-      "translationEn": "She feels satisfied when the numbers match up at the end."
+      "translationEn": "She feels satisfied when the numbers match up at the end.",
+      "words": [
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
+        { "w": "بِالرِّضَا", "root": "ر ض و", "bs": "zadovoljstvo/zadovoljna", "en": "satisfaction" },
+        { "w": "تَتَطَابَقُ", "root": "ط ب ق", "bs": "poklapaju se/slažu", "en": "match up" },
+        { "w": "الْأَرْقَامُ", "root": "ر ق م", "bs": "brojevi", "en": "numbers" },
+        { "w": "النِّهَايَةِ", "root": "ن ه ي", "bs": "kraj/završetak", "en": "end" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ وَلَدٌ اسْمُهُ إِبْرَاهِيمُ لَا يُحِبُّ الِاسْتِيقَاظَ بَاكِرًا.",
       "translation": "Bio je dječak po imenu Ibrahim koji nije volio rano ustajanje.",
-      "translationEn": "There was a boy named Ibrahim who did not like waking up early."
+      "translationEn": "There was a boy named Ibrahim who did not like waking up early.",
+      "words": [
+        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" },
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "volio je", "en": "liked" },
+        { "w": "الِاسْتِيقَاظَ", "root": "ي ق ظ", "bs": "ustajanje", "en": "waking up" },
+        { "w": "بَاكِرًا", "root": "ب ك ر", "bs": "rano", "en": "early" }
+      ]
     },
     {
       "arabic": "تَأَخَّرَ ذَاتَ يَوْمٍ عَنِ الْمَدْرَسَةِ وَفَاتَهُ الِامْتِحَانُ.",
       "translation": "Jednog dana je zakasnio u školu i propustio ispit.",
-      "translationEn": "One day he was late for school and missed the exam."
+      "translationEn": "One day he was late for school and missed the exam.",
+      "words": [
+        { "w": "تَأَخَّرَ", "root": "أ خ ر", "bs": "zakasnio je", "en": "was late" },
+        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" },
+        { "w": "فَاتَهُ", "root": "ف و ت", "bs": "propustio je", "en": "missed" },
+        { "w": "الِامْتِحَانُ", "root": "م ح ن", "bs": "ispit", "en": "exam" }
+      ]
     },
     {
       "arabic": "حَزِنَ كَثِيرًا وَقَرَّرَ أَنْ يَضَعَ مُنَبِّهَيْنِ كُلَّ لَيْلَةٍ.",
       "translation": "Jako se rastuži i odlučio je svake večeri namjestiti dva alarma.",
-      "translationEn": "He was very sad and decided to set two alarms every night."
+      "translationEn": "He was very sad and decided to set two alarms every night.",
+      "words": [
+        { "w": "حَزِنَ", "root": "ح ز ن", "bs": "rastužio se", "en": "was sad" },
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "يَضَعَ", "root": "و ض ع", "bs": "namjestiti", "en": "to set" },
+        { "w": "مُنَبِّهَيْنِ", "root": "ن ب ه", "bs": "dva alarma", "en": "two alarms" }
+      ]
     },
     {
       "arabic": "مِنْ ذَلِكَ الْيَوْمِ لَمْ يَتَأَخَّرْ مَرَّةً أُخْرَى.",
       "translation": "Od tog dana više nikad nije zakasnio.",
-      "translationEn": "From that day he was never late again."
+      "translationEn": "From that day he was never late again.",
+      "words": [
+        { "w": "الْيَوْمِ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "يَتَأَخَّرْ", "root": "أ خ ر", "bs": "kasnio je", "en": "was late" },
+        { "w": "مَرَّةً", "root": "م ر ر", "bs": "put", "en": "time" },
+        { "w": "أُخْرَى", "root": "أ خ ر", "bs": "drugi", "en": "another" }
+      ]
     }
   ],
   "metadata": {

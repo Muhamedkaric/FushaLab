@@ -6,26 +6,128 @@
     {
       "arabic": "نَظَّمَتِ الْمَدْرَسَةُ يَوْمًا لِلرِّيَاضَةِ فِي الْهَوَاءِ الطَّلْقِ.",
       "translation": "Škola je organizovala dan sporta na otvorenom.",
-      "translationEn": "The school organized a sports day in the open air."
+      "translationEn": "The school organized a sports day in the open air.",
+      "words": [
+        {
+          "w": "نَظَّمَتِ",
+          "root": "ن ظ م",
+          "bs": "organizovala je",
+          "en": "organized"
+        },
+        {
+          "w": "الرِّيَاضَةِ",
+          "root": "ر ي ض",
+          "bs": "sporta",
+          "en": "sports"
+        },
+        {
+          "w": "الْهَوَاءِ الطَّلْقِ",
+          "root": "ه و و",
+          "bs": "na otvorenom",
+          "en": "open air"
+        }
+      ]
     },
     {
       "arabic": "تَنَافَسَ الطُّلَّابُ فِي الْجَرْيِ وَالْقَفْزِ وَرَمْيِ الْكُرَةِ.",
       "translation": "Učenici su se takmičili u trčanju, skakanju i bacanju lopte.",
-      "translationEn": "Students competed in running, jumping, and ball throwing."
+      "translationEn": "Students competed in running, jumping, and ball throwing.",
+      "words": [
+        {
+          "w": "تَنَافَسَ",
+          "root": "ن ف س",
+          "bs": "takmičio se",
+          "en": "competed"
+        },
+        {
+          "w": "الْجَرْيِ",
+          "root": "ج ر ي",
+          "bs": "trčanju",
+          "en": "running"
+        },
+        {
+          "w": "الْقَفْزِ",
+          "root": "ق ف ز",
+          "bs": "skakanju",
+          "en": "jumping"
+        },
+        {
+          "w": "رَمْيِ",
+          "root": "ر م ي",
+          "bs": "bacanju",
+          "en": "throwing"
+        },
+        {
+          "w": "الْكُرَةِ",
+          "root": "ك ر ر",
+          "bs": "lopte",
+          "en": "ball"
+        }
+      ]
     },
     {
       "arabic": "شَجَّعَ الْآبَاءُ أَبْنَاءَهُمْ مِنَ الْمَدْرَجَاتِ بِحَمَاسٍ.",
       "translation": "Roditelji su oduševljeno navijali za svoju djecu sa tribina.",
-      "translationEn": "Parents cheered for their children from the stands enthusiastically."
+      "translationEn": "Parents cheered for their children from the stands enthusiastically.",
+      "words": [
+        {
+          "w": "شَجَّعَ",
+          "root": "ش ج ع",
+          "bs": "navijao je",
+          "en": "cheered"
+        },
+        {
+          "w": "الْآبَاءُ",
+          "root": "أ ب و",
+          "bs": "roditelji",
+          "en": "parents"
+        },
+        {
+          "w": "الْمَدْرَجَاتِ",
+          "root": "د ر ج",
+          "bs": "tribina",
+          "en": "stands"
+        },
+        {
+          "w": "بِحَمَاسٍ",
+          "root": "ح م س",
+          "bs": "oduševljeno",
+          "en": "enthusiastically"
+        }
+      ]
     },
     {
       "arabic": "حَصَلَ كُلُّ طَالِبٍ عَلَى وِجْبَةٍ فِي نِهَايَةِ الْيَوْمِ.",
       "translation": "Svaki učenik je dobio obrok na kraju dana.",
-      "translationEn": "Every student received a meal at the end of the day."
+      "translationEn": "Every student received a meal at the end of the day.",
+      "words": [
+        {
+          "w": "حَصَلَ",
+          "root": "ح ص ل",
+          "bs": "dobio je",
+          "en": "received"
+        },
+        {
+          "w": "طَالِبٍ",
+          "root": "ط ل ب",
+          "bs": "učenik",
+          "en": "student"
+        },
+        {
+          "w": "وِجْبَةٍ",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "meal"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sports", "school", "family"]
+    "tags": [
+      "sports",
+      "school",
+      "family"
+    ]
   }
 }

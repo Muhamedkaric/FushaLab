@@ -6,27 +6,55 @@
     {
       "arabic": "وَجَدَتْ نُورُ شَيْئًا غَرِيبًا فِي الْحَدِيقَةِ.",
       "translation": "Nour je pronašla nešto čudno u vrtu.",
-      "translationEn": "Nour found something strange in the garden."
+      "translationEn": "Nour found something strange in the garden.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "nešto", "en": "something" },
+        { "w": "غَرِيبًا", "root": "غ ر ب", "bs": "čudno", "en": "strange" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrtu", "en": "garden" }
+      ]
     },
     {
       "arabic": "كَانَ الشَّيْءُ صَغِيرًا وَمُضِيئًا.",
       "translation": "Stvar je bila mala i sjajna.",
-      "translationEn": "The thing was small and shiny."
+      "translationEn": "The thing was small and shiny.",
+      "words": [
+        { "w": "الشَّيْءُ", "root": "ش ي أ", "bs": "stvar", "en": "the thing" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "مُضِيئًا", "root": "ض و أ", "bs": "sjajna", "en": "shiny" }
+      ]
     },
     {
       "arabic": "أَخَذَتْهُ نُورُ إِلَى أُمِّهَا لِتَرَاهُ.",
       "translation": "Nour ga je odnijela svojoj majci da ga pogleda.",
-      "translationEn": "Nour took it to her mother to look at it."
+      "translationEn": "Nour took it to her mother to look at it.",
+      "words": [
+        { "w": "أَخَذَتْهُ", "root": "أ خ ذ", "bs": "odnijela ga je", "en": "she took it" },
+        { "w": "أُمِّهَا", "root": "أ م م", "bs": "majci", "en": "her mother" },
+        { "w": "تَرَاهُ", "root": "ر أ ي", "bs": "da ga pogleda", "en": "to look at it" }
+      ]
     },
     {
       "arabic": "نَظَرَتِ الْأُمُّ إِلَيْهِ وَقَالَتْ: لَا أَعْرِفُ مَا هُوَ.",
       "translation": "Majka ga je pogledala i rekla: Ne znam šta je to.",
-      "translationEn": "The mother looked at it and said: I don't know what it is."
+      "translationEn": "The mother looked at it and said: I don't know what it is.",
+      "words": [
+        { "w": "نَظَرَتِ", "root": "ن ظ ر", "bs": "pogledala je", "en": "she looked" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "the mother" },
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "she said" },
+        { "w": "أَعْرِفُ", "root": "ع ر ف", "bs": "znam", "en": "I know" }
+      ]
     },
     {
       "arabic": "جَلَسَتَا مَعًا وَفَكَّرَتَا كَثِيرًا فِي الْأَمْرِ.",
       "translation": "Sjedile su zajedno i dugo razmišljale o tome.",
-      "translationEn": "They sat together and thought about it for a long time."
+      "translationEn": "They sat together and thought about it for a long time.",
+      "words": [
+        { "w": "جَلَسَتَا", "root": "ج ل س", "bs": "sjedile su", "en": "they sat" },
+        { "w": "فَكَّرَتَا", "root": "ف ك ر", "bs": "razmišljale su", "en": "they thought" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "dugo / puno", "en": "a lot" },
+        { "w": "الْأَمْرِ", "root": "أ م ر", "bs": "stvari", "en": "the matter" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,46 @@
     {
       "arabic": "يَلْعَبُ الأَطْفَالُ فِي الشَّارِعِ بَعْدَ المَدْرَسَةِ.",
       "translation": "Djeca se igraju na ulici nakon škole.",
-      "translationEn": "Children play in the street after school."
+      "translationEn": "Children play in the street after school.",
+      "words": [
+        { "w": "يَلْعَبُ", "root": "ل ع ب", "bs": "igraju se", "en": "play" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulici", "en": "street" },
+        { "w": "المَدْرَسَةِ", "root": "د ر س", "bs": "škole", "en": "school" }
+      ]
     },
     {
       "arabic": "يَلْعَبُونَ كُرَةَ القَدَمِ وَيَرْكُضُونَ.",
       "translation": "Igraju fudbal i trče.",
-      "translationEn": "They play football and run."
+      "translationEn": "They play football and run.",
+      "words": [
+        { "w": "يَلْعَبُونَ", "root": "ل ع ب", "bs": "igraju", "en": "play" },
+        { "w": "كُرَةَ", "root": "ك ر ر", "bs": "loptu", "en": "ball" },
+        { "w": "القَدَمِ", "root": "ق د م", "bs": "fudbal", "en": "football" },
+        { "w": "يَرْكُضُونَ", "root": "ر ك ض", "bs": "trče", "en": "run" }
+      ]
     },
     {
       "arabic": "الجِيرَانُ يُرَاقِبُونَ الأَطْفَالَ مِنَ النَّوَافِذِ.",
       "translation": "Komšije posmatraju djecu kroz prozore.",
-      "translationEn": "Neighbors watch the children from the windows."
+      "translationEn": "Neighbors watch the children from the windows.",
+      "words": [
+        { "w": "الجِيرَانُ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
+        { "w": "يُرَاقِبُونَ", "root": "ر ق ب", "bs": "posmatraju", "en": "watch" },
+        { "w": "الأَطْفَالَ", "root": "ط ف ل", "bs": "djecu", "en": "children" },
+        { "w": "النَّوَافِذِ", "root": "ن ف ذ", "bs": "prozorima", "en": "windows" }
+      ]
     },
     {
       "arabic": "اللَّعِبُ فِي الهَوَاءِ الطَّلْقِ مُفِيدٌ لِلصِّحَّةِ.",
       "translation": "Igranje na otvorenom je korisno za zdravlje.",
-      "translationEn": "Playing in the open air is good for health."
+      "translationEn": "Playing in the open air is good for health.",
+      "words": [
+        { "w": "اللَّعِبُ", "root": "ل ع ب", "bs": "igranje", "en": "playing" },
+        { "w": "الهَوَاءِ", "root": "هـ و أ", "bs": "zraku", "en": "air" },
+        { "w": "مُفِيدٌ", "root": "ف ي د", "bs": "korisno", "en": "beneficial" },
+        { "w": "الصِّحَّةِ", "root": "ص ح ح", "bs": "zdravlje", "en": "health" }
+      ]
     }
   ],
   "metadata": {

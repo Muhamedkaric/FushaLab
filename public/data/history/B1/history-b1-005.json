@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَ النَّاسُ قَدِيمًا يَصْنَعُونَ الْخُبْزَ فِي الْبَيْتِ.",
       "translation": "Ljudi su nekada pravili hljeb kod kuće.",
-      "translationEn": "People in the old days used to make bread at home."
+      "translationEn": "People in the old days used to make bread at home.",
+      "words": [
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "يَصْنَعُونَ", "root": "ص ن ع", "bs": "prave", "en": "make" },
+        { "w": "الْخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+      ]
     },
     {
       "arabic": "كَانُوا يَطْحَنُونَ الْقَمْحَ وَيُضِيفُونَ الْمَاءَ إِلَيْهِ.",
       "translation": "Mljeli su pšenicu i dodavali joj vodu.",
-      "translationEn": "They used to grind wheat and add water to it."
+      "translationEn": "They used to grind wheat and add water to it.",
+      "words": [
+        { "w": "يَطْحَنُونَ", "root": "ط ح ن", "bs": "melju", "en": "grind" },
+        { "w": "الْقَمْحَ", "root": "ق م ح", "bs": "pšenicu", "en": "wheat" },
+        { "w": "يُضِيفُونَ", "root": "ض ي ف", "bs": "dodaju", "en": "add" },
+        { "w": "الْمَاءَ", "root": "م و ه", "bs": "vodu", "en": "water" }
+      ]
     },
     {
       "arabic": "ثُمَّ كَانُوا يَخْبِزُونَهُ فَوْقَ النَّارِ.",
       "translation": "Zatim su ga pekli na vatri.",
-      "translationEn": "Then they would bake it over a fire."
+      "translationEn": "Then they would bake it over a fire.",
+      "words": [
+        { "w": "يَخْبِزُونَهُ", "root": "خ ب ز", "bs": "peku ga", "en": "bake it" },
+        { "w": "النَّارِ", "root": "ن و ر", "bs": "vatra", "en": "the fire" }
+      ]
     },
     {
       "arabic": "كَانَ الْخُبْزُ الطَّازَجُ يَفُوحُ مِنْهُ رَائِحَةٌ طَيِّبَةٌ.",
       "translation": "Svježi hljeb mirisao je prekrasno.",
-      "translationEn": "The fresh bread had a wonderful aroma."
+      "translationEn": "The fresh bread had a wonderful aroma.",
+      "words": [
+        { "w": "الْخُبْزُ", "root": "خ ب ز", "bs": "hljeb", "en": "the bread" },
+        { "w": "الطَّازَجُ", "root": "ط ز ج", "bs": "svježi", "en": "fresh" },
+        { "w": "يَفُوحُ", "root": "ف و ح", "bs": "miriše", "en": "wafts" },
+        { "w": "رَائِحَةٌ", "root": "ر و ح", "bs": "miris", "en": "aroma" },
+        { "w": "طَيِّبَةٌ", "root": "ط ي ب", "bs": "prekrasan", "en": "wonderful" }
+      ]
     }
   ],
   "metadata": {

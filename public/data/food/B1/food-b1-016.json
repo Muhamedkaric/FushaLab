@@ -6,22 +6,47 @@
     {
       "arabic": "طَبَخَ الْأَبُ الدَّجَاجَ عَلَى الشَّوَّايَةِ فِي الْحَدِيقَةِ.",
       "translation": "Otac je pekao piletinu na roštilju u dvorištu.",
-      "translationEn": "The father grilled chicken on the barbecue in the garden."
+      "translationEn": "The father grilled chicken on the barbecue in the garden.",
+      "words": [
+        { "w": "طَبَخَ", "root": "ط ب خ", "bs": "pekao je/kuhao", "en": "grilled/cooked" },
+        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "الدَّجَاجَ", "root": "د ج ج", "bs": "piletinu/pile", "en": "chicken" },
+        { "w": "الشَّوَّايَةِ", "root": "ش و ي", "bs": "roštilj", "en": "barbecue/grill" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "dvorište/vrt", "en": "garden/yard" }
+      ]
     },
     {
       "arabic": "كَانَتْ رَائِحَةُ الدَّجَاجِ تَمْلَأُ الْمَكَانَ.",
       "translation": "Miris piletine ispunjavao je prostor.",
-      "translationEn": "The smell of the chicken filled the place."
+      "translationEn": "The smell of the chicken filled the place.",
+      "words": [
+        { "w": "رَائِحَةُ", "root": "ر و ح", "bs": "miris", "en": "smell" },
+        { "w": "الدَّجَاجِ", "root": "د ج ج", "bs": "piletine/pileta", "en": "chicken" },
+        { "w": "تَمْلَأُ", "root": "م ل أ", "bs": "ispunjava/puni", "en": "fills" },
+        { "w": "الْمَكَانَ", "root": "م ك ن", "bs": "prostor/mjesto", "en": "place" }
+      ]
     },
     {
       "arabic": "جَاءَ الْجِيرَانُ وَجَلَسُوا مَعَ الْعَائِلَةِ.",
       "translation": "Komšije su došle i sjele sa porodicom.",
-      "translationEn": "The neighbors came and sat with the family."
+      "translationEn": "The neighbors came and sat with the family.",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došli su/doći", "en": "came" },
+        { "w": "الْجِيرَانُ", "root": "ج و ر", "bs": "komšije/susjedi", "en": "neighbors" },
+        { "w": "جَلَسُوا", "root": "ج ل س", "bs": "sjeli su", "en": "sat" },
+        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodica", "en": "family" }
+      ]
     },
     {
       "arabic": "أَكَلُوا مَعًا وَضَحِكُوا وَاسْتَمْتَعُوا بِالْوَقْتِ.",
       "translation": "Jeli su zajedno, smijali se i uživali u vremenu.",
-      "translationEn": "They ate together, laughed, and enjoyed the time."
+      "translationEn": "They ate together, laughed, and enjoyed the time.",
+      "words": [
+        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
+        { "w": "ضَحِكُوا", "root": "ض ح ك", "bs": "smijali su se", "en": "laughed" },
+        { "w": "اسْتَمْتَعُوا", "root": "م ت ع", "bs": "uživali su", "en": "enjoyed" },
+        { "w": "الْوَقْتِ", "root": "و ق ت", "bs": "vrijeme/momenat", "en": "time" }
+      ]
     }
   ],
   "metadata": {

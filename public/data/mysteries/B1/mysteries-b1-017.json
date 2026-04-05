@@ -6,27 +6,53 @@
     {
       "arabic": "فَقَدَتْ نَادِيَةُ قِلَادَتَهَا الذَّهَبِيَّةَ.",
       "translation": "Nadija je izgubila svoju zlatnu ogrlicu.",
-      "translationEn": "Nadia lost her golden necklace."
+      "translationEn": "Nadia lost her golden necklace.",
+      "words": [
+        { "w": "فَقَدَتْ", "root": "ف ق د", "bs": "izgubila je", "en": "she lost" },
+        { "w": "قِلَادَتَهَا", "root": "ق ل د", "bs": "ogrlicu", "en": "her necklace" },
+        { "w": "الذَّهَبِيَّةَ", "root": "ذ ه ب", "bs": "zlatnu", "en": "golden" }
+      ]
     },
     {
       "arabic": "بَكَتْ كَثِيرًا لِأَنَّهَا هَدِيَّةٌ مِنْ جَدَّتِهَا.",
       "translation": "Plakala je mnogo jer je to bio poklon od njene bake.",
-      "translationEn": "She cried a lot because it was a gift from her grandmother."
+      "translationEn": "She cried a lot because it was a gift from her grandmother.",
+      "words": [
+        { "w": "بَكَتْ", "root": "ب ك ي", "bs": "plakala je", "en": "she cried" },
+        { "w": "هَدِيَّةٌ", "root": "ه د ي", "bs": "poklon", "en": "gift" },
+        { "w": "جَدَّتِهَا", "root": "ج د د", "bs": "bake", "en": "her grandmother" }
+      ]
     },
     {
       "arabic": "بَحَثَتْ عَنْهَا فِي الْحَمَّامِ وَفِي الْمَطْبَخِ.",
       "translation": "Tražila je ogrlicu u kupatilu i u kuhinji.",
-      "translationEn": "She looked for it in the bathroom and in the kitchen."
+      "translationEn": "She looked for it in the bathroom and in the kitchen.",
+      "words": [
+        { "w": "بَحَثَتْ", "root": "ب ح ث", "bs": "tražila je", "en": "she looked for" },
+        { "w": "الْحَمَّامِ", "root": "ح م م", "bs": "kupatilu", "en": "bathroom" },
+        { "w": "الْمَطْبَخِ", "root": "ط ب خ", "bs": "kuhinji", "en": "kitchen" }
+      ]
     },
     {
       "arabic": "وَجَدَتْهَا فِي جَيْبِ مِعْطَفِهَا الْقَدِيمِ.",
       "translation": "Pronašla je ogrlicu u džepu svog starog kaputa.",
-      "translationEn": "She found it in the pocket of her old coat."
+      "translationEn": "She found it in the pocket of her old coat.",
+      "words": [
+        { "w": "وَجَدَتْهَا", "root": "و ج د", "bs": "pronašla je", "en": "she found it" },
+        { "w": "جَيْبِ", "root": "ج ي ب", "bs": "džepu", "en": "pocket" },
+        { "w": "مِعْطَفِهَا", "root": "ع ط ف", "bs": "kaputa", "en": "her coat" },
+        { "w": "الْقَدِيمِ", "root": "ق د م", "bs": "starog", "en": "old" }
+      ]
     },
     {
       "arabic": "فَرِحَتْ فَرَحًا كَبِيرًا وَارْتَدَتْهَا فَوْرًا.",
       "translation": "Jako se obradovala i odmah je obukla.",
-      "translationEn": "She was very happy and put it on immediately."
+      "translationEn": "She was very happy and put it on immediately.",
+      "words": [
+        { "w": "فَرِحَتْ", "root": "ف ر ح", "bs": "obradovala se", "en": "she was happy" },
+        { "w": "فَرَحًا", "root": "ف ر ح", "bs": "radošću", "en": "happiness" },
+        { "w": "ارْتَدَتْهَا", "root": "ر د ي", "bs": "obukla je", "en": "she put it on" }
+      ]
     }
   ],
   "metadata": {

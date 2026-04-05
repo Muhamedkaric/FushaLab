@@ -6,27 +6,56 @@
     {
       "arabic": "اجْتَمَعَتِ الأُسْرَةُ الكَبِيرَةُ فِي بَيْتِ الجَدِّ.",
       "translation": "Velika porodica se skupila u djedinoj kući.",
-      "translationEn": "The large family gathered at the grandfather's house."
+      "translationEn": "The large family gathered at the grandfather's house.",
+      "words": [
+        { "w": "اجْتَمَعَتِ", "root": "ج م ع", "bs": "skupila se", "en": "gathered" },
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "الكَبِيرَةُ", "root": "ك ب ر", "bs": "velika", "en": "large" },
+        { "w": "بَيْتِ", "root": "ب ي ت", "bs": "kući", "en": "house" },
+        { "w": "الجَدِّ", "root": "ج د د", "bs": "djede", "en": "grandfather" }
+      ]
     },
     {
       "arabic": "حَضَرَ الأَعْمَامُ وَالأَخْوَالُ وَالأَوْلَادُ.",
       "translation": "Došli su amidže, daidže i djeca.",
-      "translationEn": "The uncles, maternal uncles, and children came."
+      "translationEn": "The uncles, maternal uncles, and children came.",
+      "words": [
+        { "w": "حَضَرَ", "root": "ح ض ر", "bs": "došli su", "en": "came" },
+        { "w": "الأَعْمَامُ", "root": "ع م م", "bs": "amidže", "en": "paternal uncles" },
+        { "w": "الأَخْوَالُ", "root": "خ و ل", "bs": "daidže", "en": "maternal uncles" },
+        { "w": "الأَوْلَادُ", "root": "و ل د", "bs": "djeca", "en": "children" }
+      ]
     },
     {
       "arabic": "جَلَسُوا فِي الحَدِيقَةِ وَأَكَلُوا مَعًا.",
       "translation": "Sjeli su u baštu i jeli zajedno.",
-      "translationEn": "They sat in the garden and ate together."
+      "translationEn": "They sat in the garden and ate together.",
+      "words": [
+        { "w": "جَلَسُوا", "root": "ج ل س", "bs": "sjeli su", "en": "they sat" },
+        { "w": "الحَدِيقَةِ", "root": "ح د ق", "bs": "baštu", "en": "garden" },
+        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "they ate" },
+        { "w": "مَعًا", "root": "م ع و", "bs": "zajedno", "en": "together" }
+      ]
     },
     {
       "arabic": "تَحَدَّثُوا عَنِ الذِّكْرَيَاتِ القَدِيمَةِ.",
       "translation": "Razgovarali su o starim uspomenama.",
-      "translationEn": "They talked about old memories."
+      "translationEn": "They talked about old memories.",
+      "words": [
+        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "they talked" },
+        { "w": "الذِّكْرَيَاتِ", "root": "ذ ك ر", "bs": "uspomenama", "en": "memories" },
+        { "w": "القَدِيمَةِ", "root": "ق د م", "bs": "starim", "en": "old" }
+      ]
     },
     {
       "arabic": "كَانَ يَوْمًا سَعِيدًا لَا يُنْسَى.",
       "translation": "Bio je to nezaboravan sretan dan.",
-      "translationEn": "It was a happy and unforgettable day."
+      "translationEn": "It was a happy and unforgettable day.",
+      "words": [
+        { "w": "يَوْمًا", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "سَعِيدًا", "root": "س ع د", "bs": "sretan", "en": "happy" },
+        { "w": "يُنْسَى", "root": "ن س ي", "bs": "zaboravlja se", "en": "forgotten" }
+      ]
     }
   ],
   "metadata": {

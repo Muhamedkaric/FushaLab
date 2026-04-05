@@ -6,22 +6,49 @@
     {
       "arabic": "جَلَسَ رَاعٍ اسْمُهُ سُلَيْمَانُ تَحْتَ شَجَرَةٍ كَبِيرَةٍ.",
       "translation": "Pastir po imenu Sulejman je sjedio ispod velikog stabla.",
-      "translationEn": "A shepherd named Suleyman sat under a big tree."
+      "translationEn": "A shepherd named Suleyman sat under a big tree.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjedio je", "en": "sat" },
+        { "w": "رَاعٍ", "root": "ر ع ي", "bs": "pastir", "en": "shepherd" },
+        { "w": "شَجَرَةٍ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
+        { "w": "كَبِيرَةٍ", "root": "ك ب ر", "bs": "velikog", "en": "big" }
+      ]
     },
     {
       "arabic": "كَانَ الطَّقْسُ حَارًّا وَغَنَمُهُ تَأْكُلُ الْعُشْبَ بِهُدُوءٍ.",
       "translation": "Bilo je vruće i ovce su mirno jele travu.",
-      "translationEn": "The weather was hot and his sheep were quietly eating grass."
+      "translationEn": "The weather was hot and his sheep were quietly eating grass.",
+      "words": [
+        { "w": "الطَّقْسُ", "root": "ط ق س", "bs": "vrijeme", "en": "weather" },
+        { "w": "حَارًّا", "root": "ح ر ر", "bs": "vruće", "en": "hot" },
+        { "w": "غَنَمُهُ", "root": "غ ن م", "bs": "njegove ovce", "en": "his sheep" },
+        { "w": "الْعُشْبَ", "root": "ع ش ب", "bs": "trava", "en": "grass" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno", "en": "quietly" }
+      ]
     },
     {
       "arabic": "رَأَى طِفْلًا يَبْكِي عَلَى الطَّرِيقِ فَقَامَ إِلَيْهِ.",
       "translation": "Vidio je dijete kako plače na putu pa je krenuo prema njemu.",
-      "translationEn": "He saw a child crying on the road and went to him."
+      "translationEn": "He saw a child crying on the road and went to him.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "طِفْلًا", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "يَبْكِي", "root": "ب ك ي", "bs": "plače", "en": "crying" },
+        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put", "en": "road" },
+        { "w": "قَامَ", "root": "ق و م", "bs": "krenuo je", "en": "went" }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ مَاءً وَطَعَامًا وَأَرْشَدَهُ إِلَى الْقَرْيَةِ.",
       "translation": "Dao mu je vodu i hranu i uputio ga prema selu.",
-      "translationEn": "He gave him water and food and directed him to the village."
+      "translationEn": "He gave him water and food and directed him to the village.",
+      "words": [
+        { "w": "أَعْطَاهُ", "root": "ع ط ي", "bs": "dao mu je", "en": "gave him" },
+        { "w": "مَاءً", "root": "م و ه", "bs": "vodu", "en": "water" },
+        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hranu", "en": "food" },
+        { "w": "أَرْشَدَهُ", "root": "ر ش د", "bs": "uputio ga je", "en": "directed him" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" }
+      ]
     }
   ],
   "metadata": {

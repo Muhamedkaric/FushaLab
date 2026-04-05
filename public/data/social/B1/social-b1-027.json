@@ -6,27 +6,56 @@
     {
       "arabic": "زَارَتِ الجِيرَانُ أُسْرَةَ مَوْلُودٍ جَدِيدٍ.",
       "translation": "Komšije su posjetile porodicu s novorođenčetom.",
-      "translationEn": "The neighbors visited the family of a newborn."
+      "translationEn": "The neighbors visited the family of a newborn.",
+      "words": [
+        { "w": "زَارَتِ", "root": "ز و ر", "bs": "posjetile su", "en": "visited" },
+        { "w": "الجِيرَانُ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
+        { "w": "أُسْرَةَ", "root": "أ س ر", "bs": "porodicu", "en": "family" },
+        { "w": "مَوْلُودٍ", "root": "و ل د", "bs": "novorođenčeta", "en": "newborn" },
+        { "w": "جَدِيدٍ", "root": "ج د د", "bs": "novog", "en": "new" }
+      ]
     },
     {
       "arabic": "أَحْضَرُوا هَدَايَا صَغِيرَةً لِلطِّفْلِ.",
       "translation": "Donijeli su male poklone za bebu.",
-      "translationEn": "They brought small gifts for the baby."
+      "translationEn": "They brought small gifts for the baby.",
+      "words": [
+        { "w": "أَحْضَرُوا", "root": "ح ض ر", "bs": "donijeli su", "en": "they brought" },
+        { "w": "هَدَايَا", "root": "هـ د ي", "bs": "poklone", "en": "gifts" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "male", "en": "small" },
+        { "w": "الطِّفْلِ", "root": "ط ف ل", "bs": "bebe", "en": "baby" }
+      ]
     },
     {
       "arabic": "هَنَّأُوا الأُمَّ وَالأَبَ عَلَى المَوْلُودِ.",
       "translation": "Čestitali su majci i ocu na novorođenčetu.",
-      "translationEn": "They congratulated the mother and father on the newborn."
+      "translationEn": "They congratulated the mother and father on the newborn.",
+      "words": [
+        { "w": "هَنَّأُوا", "root": "هـ ن أ", "bs": "čestitali su", "en": "congratulated" },
+        { "w": "الأُمَّ", "root": "أ م م", "bs": "majci", "en": "mother" },
+        { "w": "الأَبَ", "root": "أ ب و", "bs": "ocu", "en": "father" },
+        { "w": "المَوْلُودِ", "root": "و ل د", "bs": "novorođenčetu", "en": "newborn" }
+      ]
     },
     {
       "arabic": "قَالُوا «مَبْرُوكَ وَبَارَكَ اللَّهُ فِيكُمْ».",
       "translation": "Rekli su «Mabruk i Allah vas blagoslovio».",
-      "translationEn": "They said «Congratulations and may God bless you»."
+      "translationEn": "They said «Congratulations and may God bless you».",
+      "words": [
+        { "w": "قَالُوا", "root": "ق و ل", "bs": "rekli su", "en": "they said" },
+        { "w": "مَبْرُوكَ", "root": "ب ر ك", "bs": "čestitamo", "en": "congratulations" },
+        { "w": "بَارَكَ", "root": "ب ر ك", "bs": "blagoslovio", "en": "blessed" }
+      ]
     },
     {
       "arabic": "كَانَتِ الأُمُّ سَعِيدَةً جِدًّا بِزِيَارَتِهِمْ.",
       "translation": "Majka je bila jako sretna njihovom posjetom.",
-      "translationEn": "The mother was very happy with their visit."
+      "translationEn": "The mother was very happy with their visit.",
+      "words": [
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
+        { "w": "بِزِيَارَتِهِمْ", "root": "ز و ر", "bs": "njihovom posjetom", "en": "with their visit" }
+      ]
     }
   ],
   "metadata": {

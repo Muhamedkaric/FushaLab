@@ -6,27 +6,56 @@
     {
       "arabic": "احْتَفَلَتِ الأُسْرَةُ بِعِيدِ مِيلَادِ رِيمَ.",
       "translation": "Porodica je proslavila Remin rođendan.",
-      "translationEn": "The family celebrated Reem's birthday."
+      "translationEn": "The family celebrated Reem's birthday.",
+      "words": [
+        { "w": "احْتَفَلَتِ", "root": "ح ف ل", "bs": "proslavila je", "en": "celebrated" },
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "عِيدِ", "root": "ع ي د", "bs": "dan", "en": "day" },
+        { "w": "مِيلَادِ", "root": "و ل د", "bs": "rođendana", "en": "birthday" }
+      ]
     },
     {
       "arabic": "زَيَّنُوا الغُرْفَةَ بِالبَالُونَاتِ المُلَوَّنَةِ.",
       "translation": "Ukrasili su sobu šarenim balonima.",
-      "translationEn": "They decorated the room with colorful balloons."
+      "translationEn": "They decorated the room with colorful balloons.",
+      "words": [
+        { "w": "زَيَّنُوا", "root": "ز ي ن", "bs": "ukrasili su", "en": "decorated" },
+        { "w": "الغُرْفَةَ", "root": "غ ر ف", "bs": "sobu", "en": "room" },
+        { "w": "البَالُونَاتِ", "bs": "balonima", "en": "balloons" },
+        { "w": "المُلَوَّنَةِ", "root": "ل و ن", "bs": "šarenim", "en": "colorful" }
+      ]
     },
     {
       "arabic": "أَحْضَرُوا كَعْكَةً كَبِيرَةً بِشُمُعَةٍ.",
       "translation": "Donijeli su veliku tortu sa svijećom.",
-      "translationEn": "They brought a big cake with a candle."
+      "translationEn": "They brought a big cake with a candle.",
+      "words": [
+        { "w": "أَحْضَرُوا", "root": "ح ض ر", "bs": "donijeli su", "en": "brought" },
+        { "w": "كَعْكَةً", "root": "ك ع ك", "bs": "tortu", "en": "cake" },
+        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "veliku", "en": "big" },
+        { "w": "بِشُمُعَةٍ", "root": "ش م ع", "bs": "sa svijećom", "en": "with a candle" }
+      ]
     },
     {
       "arabic": "غَنَّوْا أُغْنِيَةَ عِيدِ المِيلَادِ بِفَرَحٍ.",
       "translation": "Radosno su pjevali pjesmu za rođendan.",
-      "translationEn": "They sang the birthday song joyfully."
+      "translationEn": "They sang the birthday song joyfully.",
+      "words": [
+        { "w": "غَنَّوْا", "root": "غ ن ي", "bs": "pjevali su", "en": "sang" },
+        { "w": "أُغْنِيَةَ", "root": "غ ن ي", "bs": "pjesmu", "en": "song" },
+        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "radosno", "en": "joyfully" }
+      ]
     },
     {
       "arabic": "قَدَّمُوا الهَدَايَا وَشَكَرَتْ رِيمٌ الجَمِيعَ.",
       "translation": "Poklonili su darove i Reem je zahvalila svima.",
-      "translationEn": "They gave gifts and Reem thanked everyone."
+      "translationEn": "They gave gifts and Reem thanked everyone.",
+      "words": [
+        { "w": "قَدَّمُوا", "root": "ق د م", "bs": "dali su", "en": "gave" },
+        { "w": "الهَدَايَا", "root": "هـ د ي", "bs": "darove", "en": "gifts" },
+        { "w": "شَكَرَتْ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
+        { "w": "الجَمِيعَ", "root": "ج م ع", "bs": "svima", "en": "everyone" }
+      ]
     }
   ],
   "metadata": {

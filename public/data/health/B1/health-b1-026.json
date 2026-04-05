@@ -6,26 +6,135 @@
     {
       "arabic": "تَزُورُ هَاجِرُ طَبِيبَهَا مَرَّةً كُلَّ سِتَّةِ أَشْهُرٍ.",
       "translation": "Hadžira posjećuje svog ljekara jedanput svakih šest mjeseci.",
-      "translationEn": "Hajar visits her doctor once every six months."
+      "translationEn": "Hajar visits her doctor once every six months.",
+      "words": [
+        {
+          "w": "تَزُورُ",
+          "root": "ز و ر",
+          "bs": "posjećuje",
+          "en": "visits"
+        },
+        {
+          "w": "طَبِيبَهَا",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "مَرَّةً",
+          "root": "م ر ر",
+          "bs": "jedanput",
+          "en": "once"
+        },
+        {
+          "w": "أَشْهُرٍ",
+          "root": "ش ه ر",
+          "bs": "mjeseci",
+          "en": "months"
+        }
+      ]
     },
     {
       "arabic": "تَعْتَقِدُ أَنَّ الْفَحْصَ الدَّوْرِيَّ مُهِمٌّ جِدًّا.",
       "translation": "Smatra da je redovni pregled veoma važan.",
-      "translationEn": "She believes that regular check-ups are very important."
+      "translationEn": "She believes that regular check-ups are very important.",
+      "words": [
+        {
+          "w": "تَعْتَقِدُ",
+          "root": "ع ق د",
+          "bs": "smatra",
+          "en": "believes"
+        },
+        {
+          "w": "الْفَحْصَ",
+          "root": "ف ح ص",
+          "bs": "pregled",
+          "en": "check-up"
+        },
+        {
+          "w": "الدَّوْرِيَّ",
+          "root": "د و ر",
+          "bs": "redovni",
+          "en": "regular"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "root": "ه م م",
+          "bs": "važan",
+          "en": "important"
+        }
+      ]
     },
     {
       "arabic": "يَفْحَصُ الطَّبِيبُ ضَغْطَ الدَّمِ وَيَسْأَلُ عَنْ صِحَّتِهَا.",
       "translation": "Ljekar mjeri krvni pritisak i pita o njezinom zdravlju.",
-      "translationEn": "The doctor checks her blood pressure and asks about her health."
+      "translationEn": "The doctor checks her blood pressure and asks about her health.",
+      "words": [
+        {
+          "w": "يَفْحَصُ",
+          "root": "ف ح ص",
+          "bs": "mjeri",
+          "en": "checks"
+        },
+        {
+          "w": "ضَغْطَ",
+          "root": "ض غ ط",
+          "bs": "pritisak",
+          "en": "pressure"
+        },
+        {
+          "w": "الدَّمِ",
+          "root": "د م م",
+          "bs": "krvi",
+          "en": "blood"
+        },
+        {
+          "w": "يَسْأَلُ",
+          "root": "س أ ل",
+          "bs": "pita",
+          "en": "asks"
+        },
+        {
+          "w": "صِحَّتِهَا",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health"
+        }
+      ]
     },
     {
       "arabic": "تَشْعُرُ هَاجِرُ بِالطُّمَأْنِينَةِ بَعْدَ كُلِّ زِيَارَةٍ.",
       "translation": "Hadžira se osjeća smireno nakon svakog posjeta.",
-      "translationEn": "Hajar feels reassured after every visit."
+      "translationEn": "Hajar feels reassured after every visit.",
+      "words": [
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels"
+        },
+        {
+          "w": "بِالطُّمَأْنِينَةِ",
+          "root": "ط م ن",
+          "bs": "smireno",
+          "en": "reassured"
+        },
+        {
+          "w": "زِيَارَةٍ",
+          "root": "ز و ر",
+          "bs": "posjeta",
+          "en": "visit"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["check-up", "blood pressure", "prevention", "doctor"]
+    "tags": [
+      "check-up",
+      "blood pressure",
+      "prevention",
+      "doctor"
+    ]
   }
 }

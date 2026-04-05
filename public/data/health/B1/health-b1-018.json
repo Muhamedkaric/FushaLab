@@ -6,26 +6,141 @@
     {
       "arabic": "لَا تُحِبُّ دِيمَةُ الْأَكْلَ السَّرِيعَ وَتَطْبُخُ فِي الْبَيْتِ دَائِمًا.",
       "translation": "Dima ne voli brzu hranu i uvijek kuha kod kuće.",
-      "translationEn": "Dima does not like fast food and always cooks at home."
+      "translationEn": "Dima does not like fast food and always cooks at home.",
+      "words": [
+        {
+          "w": "تُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "likes"
+        },
+        {
+          "w": "الْأَكْلَ",
+          "root": "أ ك ل",
+          "bs": "hrana",
+          "en": "food"
+        },
+        {
+          "w": "السَّرِيعَ",
+          "root": "س ر ع",
+          "bs": "brza",
+          "en": "fast"
+        },
+        {
+          "w": "تَطْبُخُ",
+          "root": "ط ب خ",
+          "bs": "kuha",
+          "en": "cooks"
+        }
+      ]
     },
     {
       "arabic": "تَسْتَخْدِمُ زَيْتَ الزَّيْتُونِ بَدَلَ الزُّبْدَةِ فِي الطَّبْخِ.",
       "translation": "Koristi maslinovo ulje umjesto putera u kuhanju.",
-      "translationEn": "She uses olive oil instead of butter when cooking."
+      "translationEn": "She uses olive oil instead of butter when cooking.",
+      "words": [
+        {
+          "w": "تَسْتَخْدِمُ",
+          "root": "خ د م",
+          "bs": "koristi",
+          "en": "uses"
+        },
+        {
+          "w": "زَيْتَ",
+          "root": "ز ي ت",
+          "bs": "ulje",
+          "en": "oil"
+        },
+        {
+          "w": "الزَّيْتُونِ",
+          "root": "ز ي ت",
+          "bs": "maslinovo",
+          "en": "olive"
+        },
+        {
+          "w": "الزُّبْدَةِ",
+          "root": "ز ب د",
+          "bs": "puter",
+          "en": "butter"
+        },
+        {
+          "w": "الطَّبْخِ",
+          "root": "ط ب خ",
+          "bs": "kuhanje",
+          "en": "cooking"
+        }
+      ]
     },
     {
       "arabic": "تُضِيفُ الْخُضَرَ الطَّازَجَةَ إِلَى كُلِّ وَجْبَةٍ.",
       "translation": "Dodaje svježe povrće u svaki obrok.",
-      "translationEn": "She adds fresh vegetables to every meal."
+      "translationEn": "She adds fresh vegetables to every meal.",
+      "words": [
+        {
+          "w": "تُضِيفُ",
+          "root": "ض ي ف",
+          "bs": "dodaje",
+          "en": "adds"
+        },
+        {
+          "w": "الْخُضَرَ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables"
+        },
+        {
+          "w": "الطَّازَجَةَ",
+          "root": "ط ز ج",
+          "bs": "svježe",
+          "en": "fresh"
+        },
+        {
+          "w": "وَجْبَةٍ",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "meal"
+        }
+      ]
     },
     {
       "arabic": "أَصْدِقَاؤُهَا يُحِبُّونَ أَكْلَهَا وَيَأْتُونَ إِلَى بَيْتِهَا كَثِيرًا.",
       "translation": "Njeni prijatelji vole njenu hranu i često dolaze kod nje.",
-      "translationEn": "Her friends love her food and come to her house often."
+      "translationEn": "Her friends love her food and come to her house often.",
+      "words": [
+        {
+          "w": "أَصْدِقَاؤُهَا",
+          "root": "ص د ق",
+          "bs": "njeni prijatelji",
+          "en": "her friends"
+        },
+        {
+          "w": "يُحِبُّونَ",
+          "root": "ح ب ب",
+          "bs": "vole",
+          "en": "love"
+        },
+        {
+          "w": "أَكْلَهَا",
+          "root": "أ ك ل",
+          "bs": "njenu hranu",
+          "en": "her food"
+        },
+        {
+          "w": "يَأْتُونَ",
+          "root": "أ ت ي",
+          "bs": "dolaze",
+          "en": "come"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cooking", "healthy food", "olive oil", "vegetables"]
+    "tags": [
+      "cooking",
+      "healthy food",
+      "olive oil",
+      "vegetables"
+    ]
   }
 }

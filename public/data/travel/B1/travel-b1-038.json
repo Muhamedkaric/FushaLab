@@ -6,22 +6,43 @@
     {
       "arabic": "وَصَلَ الْمُسَافِرُونَ إِلَى الْمَدِينَةِ وَطَلَبُوا دَلِيلًا سِيَاحِيًّا.",
       "translation": "Putnici su stigli u grad i tražili turistički vodič.",
-      "translationEn": "The travelers arrived in the city and asked for a tourist guide."
+      "translationEn": "The travelers arrived in the city and asked for a tourist guide.",
+      "words": [
+        { "w": "الْمُسَافِرُونَ", "root": "س ف ر", "bs": "putnici", "en": "travelers" },
+        { "w": "طَلَبُوا", "root": "ط ل ب", "bs": "tražili su", "en": "asked for" },
+        { "w": "دَلِيلًا", "root": "د ل ل", "bs": "vodič", "en": "guide" },
+        { "w": "سِيَاحِيًّا", "root": "س ي ح", "bs": "turistički", "en": "tourist" }
+      ]
     },
     {
       "arabic": "أَعْطَتْهُمُ الْمَرْأَةُ فِي الْمَكْتَبِ كِتَيِّبًا عَنِ الْمَدِينَةِ.",
       "translation": "Žena u uredu im je dala brošuru o gradu.",
-      "translationEn": "The woman at the office gave them a booklet about the city."
+      "translationEn": "The woman at the office gave them a booklet about the city.",
+      "words": [
+        { "w": "أَعْطَتْهُمُ", "root": "ع ط ي", "bs": "dala im je", "en": "gave them" },
+        { "w": "الْمَكْتَبِ", "root": "ك ت ب", "bs": "ured / biro", "en": "office" },
+        { "w": "كِتَيِّبًا", "root": "ك ت ب", "bs": "brošura / priručnik", "en": "booklet" }
+      ]
     },
     {
       "arabic": "قَرَؤُوا الْكِتَيِّبَ وَاخْتَارُوا الْأَمَاكِنَ الَّتِي يُرِيدُونَهَا.",
       "translation": "Pročitali su brošuru i odabrali mjesta koja žele.",
-      "translationEn": "They read the booklet and chose the places they wanted."
+      "translationEn": "They read the booklet and chose the places they wanted.",
+      "words": [
+        { "w": "قَرَؤُوا", "root": "ق ر أ", "bs": "pročitali su", "en": "read" },
+        { "w": "اخْتَارُوا", "root": "خ ي ر", "bs": "odabrali su", "en": "chose" },
+        { "w": "الْأَمَاكِنَ", "root": "ك و ن", "bs": "mjesta", "en": "places" }
+      ]
     },
     {
       "arabic": "بَدَؤُوا زِيَارَتَهُمْ بِالْمَتْحَفِ الْكَبِيرِ.",
       "translation": "Počeli su posjetu od velikog muzeja.",
-      "translationEn": "They started their visit with the large museum."
+      "translationEn": "They started their visit with the large museum.",
+      "words": [
+        { "w": "بَدَؤُوا", "root": "ب د أ", "bs": "počeli su", "en": "started" },
+        { "w": "زِيَارَتَهُمْ", "root": "ز و ر", "bs": "njihova posjeta", "en": "their visit" },
+        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" }
+      ]
     }
   ],
   "metadata": {

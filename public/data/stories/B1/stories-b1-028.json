@@ -6,22 +6,47 @@
     {
       "arabic": "ذَهَبَ وَلَدٌ اسْمُهُ طَارِقٌ مَعَ أَبِيهِ إِلَى الْمَزْرَعَةِ.",
       "translation": "Dječak po imenu Tariq otišao je sa ocem na farmu.",
-      "translationEn": "A boy named Tariq went with his father to the farm."
+      "translationEn": "A boy named Tariq went with his father to the farm.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" },
+        { "w": "أَبِيهِ", "root": "أ ب و", "bs": "njegov otac", "en": "his father" },
+        { "w": "الْمَزْرَعَةِ", "root": "ز ر ع", "bs": "farma", "en": "farm" }
+      ]
     },
     {
       "arabic": "رَأَى الأَبْقَارَ وَالأَغْنَامَ لِأَوَّلِ مَرَّةٍ فِي حَيَاتِهِ.",
       "translation": "Po prvi put u životu je vidio krave i ovce.",
-      "translationEn": "He saw cows and sheep for the first time in his life."
+      "translationEn": "He saw cows and sheep for the first time in his life.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "الأَبْقَارَ", "root": "ب ق ر", "bs": "krave", "en": "cows" },
+        { "w": "الأَغْنَامَ", "root": "غ ن م", "bs": "ovce", "en": "sheep" },
+        { "w": "حَيَاتِهِ", "root": "ح ي ي", "bs": "njegov život", "en": "his life" }
+      ]
     },
     {
       "arabic": "أَرَادَ أَنْ يَلْمِسَ الْبَقَرَةَ فَخَافَ قَلِيلًا.",
       "translation": "Htio je dotaknuti kravu ali se malo bojao.",
-      "translationEn": "He wanted to touch the cow but was a little afraid."
+      "translationEn": "He wanted to touch the cow but was a little afraid.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "يَلْمِسَ", "root": "ل م س", "bs": "dotaknuti", "en": "to touch" },
+        { "w": "الْبَقَرَةَ", "root": "ب ق ر", "bs": "krava", "en": "cow" },
+        { "w": "خَافَ", "root": "خ و ف", "bs": "bojao se", "en": "was afraid" }
+      ]
     },
     {
       "arabic": "شَجَّعَهُ الْأَبُ فَلَمَسَهَا بِرِفْقٍ وَضَحِكَ.",
       "translation": "Otac ga je ohrabrio pa ju je nježno dotaknuo i nasmijao se.",
-      "translationEn": "His father encouraged him so he touched it gently and laughed."
+      "translationEn": "His father encouraged him so he touched it gently and laughed.",
+      "words": [
+        { "w": "شَجَّعَهُ", "root": "ش ج ع", "bs": "ohrabrio ga je", "en": "encouraged him" },
+        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "لَمَسَهَا", "root": "ل م س", "bs": "dotaknuo je", "en": "touched it" },
+        { "w": "بِرِفْقٍ", "root": "ر ف ق", "bs": "nježno", "en": "gently" },
+        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijao se", "en": "laughed" }
+      ]
     }
   ],
   "metadata": {

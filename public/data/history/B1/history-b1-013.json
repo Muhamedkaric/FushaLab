@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ التَّاجِرُ يُسَافِرُ بَيْنَ الْمُدُنِ لِبَيْعِ بِضَاعَتِهِ.",
       "translation": "Trgovac je putovao između gradova radi prodaje robe.",
-      "translationEn": "The merchant used to travel between cities to sell his goods."
+      "translationEn": "The merchant used to travel between cities to sell his goods.",
+      "words": [
+        { "w": "التَّاجِرُ", "root": "ت ج ر", "bs": "trgovac", "en": "the merchant" },
+        { "w": "يُسَافِرُ", "root": "س ف ر", "bs": "putuje", "en": "travels" },
+        { "w": "الْمُدُنِ", "root": "م د ن", "bs": "gradovi", "en": "cities" },
+        { "w": "بِضَاعَتِهِ", "root": "ب ض ع", "bs": "njegova roba", "en": "his goods" }
+      ]
     },
     {
       "arabic": "حَمَلَ الْبَضَائِعَ عَلَى ظُهُورِ الْبِغَالِ.",
       "translation": "Nosio je robu na leđima mazgi.",
-      "translationEn": "He carried the goods on the backs of mules."
+      "translationEn": "He carried the goods on the backs of mules.",
+      "words": [
+        { "w": "حَمَلَ", "root": "ح م ل", "bs": "nosio je", "en": "carried" },
+        { "w": "الْبَضَائِعَ", "root": "ب ض ع", "bs": "robu", "en": "the goods" },
+        { "w": "ظُهُورِ", "root": "ظ ه ر", "bs": "leđa", "en": "backs" },
+        { "w": "الْبِغَالِ", "root": "ب غ ل", "bs": "mazge", "en": "mules" }
+      ]
     },
     {
       "arabic": "كَانَ يَبِيعُ الْتَّوَابِلَ وَالْقُمَاشَ وَالْعُطُورَ.",
       "translation": "Prodavao je začine, tkanine i parfeme.",
-      "translationEn": "He used to sell spices, fabrics, and perfumes."
+      "translationEn": "He used to sell spices, fabrics, and perfumes.",
+      "words": [
+        { "w": "يَبِيعُ", "root": "ب ي ع", "bs": "prodaje", "en": "sells" },
+        { "w": "التَّوَابِلَ", "root": "ت ب ل", "bs": "začine", "en": "spices" },
+        { "w": "الْقُمَاشَ", "root": "ق م ش", "bs": "tkanine", "en": "fabrics" },
+        { "w": "الْعُطُورَ", "root": "ع ط ر", "bs": "parfeme", "en": "perfumes" }
+      ]
     },
     {
       "arabic": "عَادَ إِلَى بَيْتِهِ بَعْدَ أَسَابِيعَ مِنَ السَّفَرِ.",
       "translation": "Vratio se kući nakon sedmica putovanja.",
-      "translationEn": "He returned home after weeks of travel."
+      "translationEn": "He returned home after weeks of travel.",
+      "words": [
+        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
+        { "w": "بَيْتِهِ", "root": "ب ي ت", "bs": "njegova kuća", "en": "his home" },
+        { "w": "أَسَابِيعَ", "root": "س ب ع", "bs": "sedmice", "en": "weeks" },
+        { "w": "السَّفَرِ", "root": "س ف ر", "bs": "putovanje", "en": "travel" }
+      ]
     }
   ],
   "metadata": {

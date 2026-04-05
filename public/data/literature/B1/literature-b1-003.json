@@ -6,22 +6,45 @@
     {
       "arabic": "جَلَسَ عُمَرُ فِي الْحَدِيقَةِ يَقْرَأُ كِتَابَهُ الْمُفَضَّلَ.",
       "translation": "Omer je sjedio u parku i čitao svoju omiljenu knjigu.",
-      "translationEn": "Omar sat in the garden reading his favorite book."
+      "translationEn": "Omar sat in the garden reading his favorite book.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjedio je", "en": "sat" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "park/bašta", "en": "garden/park" },
+        { "w": "يَقْرَأُ", "root": "ق ر أ", "bs": "čita", "en": "reading" },
+        { "w": "كِتَابَهُ", "root": "ك ت ب", "bs": "njegova knjiga", "en": "his book" },
+        { "w": "الْمُفَضَّلَ", "root": "ف ض ل", "bs": "omiljena/najdraža", "en": "favorite" }
+      ]
     },
     {
       "arabic": "جَاءَ صَدِيقُهُ سَامِي وَجَلَسَ بِجَانِبِهِ.",
       "translation": "Njegov prijatelj Sami je došao i sjeo pored njega.",
-      "translationEn": "His friend Sami came and sat beside him."
+      "translationEn": "His friend Sami came and sat beside him.",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došao je", "en": "came" },
+        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" },
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" }
+      ]
     },
     {
       "arabic": "سَأَلَ سَامِي عَنِ الْكِتَابِ فَأَخْبَرَهُ عُمَرُ بِقِصَّتِهِ.",
       "translation": "Sami je pitao za knjigu pa mu je Omer ispričao priču.",
-      "translationEn": "Sami asked about the book and Omar told him its story."
+      "translationEn": "Sami asked about the book and Omar told him its story.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "الْكِتَابِ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "ispričao mu je", "en": "told him" },
+        { "w": "بِقِصَّتِهِ", "root": "ق ص ص", "bs": "njegova priča", "en": "its story" }
+      ]
     },
     {
       "arabic": "أَعَارَ عُمَرُ الْكِتَابَ لِسَامِي بَعْدَ أَنْ يَنْتَهِيَ مِنْهُ.",
       "translation": "Omer je odlučio posuditi Samiju knjigu kad završi s njom.",
-      "translationEn": "Omar lent Sami the book after he finishes reading it."
+      "translationEn": "Omar lent Sami the book after he finishes reading it.",
+      "words": [
+        { "w": "أَعَارَ", "root": "ع و ر", "bs": "posudio je", "en": "lent" },
+        { "w": "الْكِتَابَ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "يَنْتَهِيَ", "root": "ن ه ي", "bs": "završi", "en": "finishes" }
+      ]
     }
   ],
   "metadata": {

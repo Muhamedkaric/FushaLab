@@ -6,22 +6,48 @@
     {
       "arabic": "اسْتَيْقَظَتِ الطِّفْلَةُ وَطَلَبَتِ الْبَيْضَ الْمَقْلِيَّ.",
       "translation": "Djevojčica se probudila i tražila pržena jaja.",
-      "translationEn": "The little girl woke up and asked for fried eggs."
+      "translationEn": "The little girl woke up and asked for fried eggs.",
+      "words": [
+        { "w": "اسْتَيْقَظَتِ", "root": "ي ق ظ", "bs": "probudila se", "en": "woke up" },
+        { "w": "الطِّفْلَةُ", "root": "ط ف ل", "bs": "djevojčica/dijete", "en": "little girl/child" },
+        { "w": "طَلَبَتِ", "root": "ط ل ب", "bs": "tražila je/molila", "en": "asked for" },
+        { "w": "الْبَيْضَ", "root": "ب ي ض", "bs": "jaja", "en": "eggs" },
+        { "w": "الْمَقْلِيَّ", "root": "ق ل ي", "bs": "pržena", "en": "fried" }
+      ]
     },
     {
       "arabic": "قَالَتِ الْأُمُّ: حَسَنًا سَأَحْضِرُهَا لَكِ.",
       "translation": "Majka je rekla: U redu, donjet ću ti ih.",
-      "translationEn": "The mother said: Alright, I will make them for you."
+      "translationEn": "The mother said: Alright, I will make them for you.",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "حَسَنًا", "root": "ح س ن", "bs": "u redu/dobro", "en": "alright/good" },
+        { "w": "سَأَحْضِرُهَا", "root": "ح ض ر", "bs": "donjet ću ih", "en": "I will bring/make them" }
+      ]
     },
     {
       "arabic": "قَلَتِ الْبَيْضَ بِالزَّيْتِ وَأَضَافَتِ الْمِلْحَ.",
       "translation": "Pržila je jaja na ulju i dodala sol.",
-      "translationEn": "She fried the eggs in oil and added salt."
+      "translationEn": "She fried the eggs in oil and added salt.",
+      "words": [
+        { "w": "قَلَتِ", "root": "ق ل ي", "bs": "pržila je", "en": "fried" },
+        { "w": "الْبَيْضَ", "root": "ب ي ض", "bs": "jaja", "en": "eggs" },
+        { "w": "الزَّيْتِ", "root": "ز ي ت", "bs": "ulje", "en": "oil" },
+        { "w": "أَضَافَتِ", "root": "ض ي ف", "bs": "dodala je", "en": "added" },
+        { "w": "الْمِلْحَ", "root": "م ل ح", "bs": "sol", "en": "salt" }
+      ]
     },
     {
       "arabic": "أَكَلَتِ الطِّفْلَةُ الْبَيْضَ بِشَهِيَّةٍ.",
       "translation": "Djevojčica je s apetitom pojela jaja.",
-      "translationEn": "The little girl ate the eggs with appetite."
+      "translationEn": "The little girl ate the eggs with appetite.",
+      "words": [
+        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "pojela je/jela", "en": "ate" },
+        { "w": "الطِّفْلَةُ", "root": "ط ف ل", "bs": "djevojčica", "en": "little girl" },
+        { "w": "الْبَيْضَ", "root": "ب ي ض", "bs": "jaja", "en": "eggs" },
+        { "w": "بِشَهِيَّةٍ", "root": "ش ه و", "bs": "s apetitom/pohlepno", "en": "with appetite/eagerly" }
+      ]
     }
   ],
   "metadata": {

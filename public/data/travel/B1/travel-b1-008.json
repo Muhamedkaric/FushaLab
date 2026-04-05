@@ -6,22 +6,44 @@
     {
       "arabic": "زَارَتْ مَرْيَمُ سُوقَ الْمَدِينَةِ الْقَدِيمَةِ مَعَ أُخْتِهَا.",
       "translation": "Merjem je posjetila staru gradsku pijacu sa sestrom.",
-      "translationEn": "Maryam visited the old city market with her sister."
+      "translationEn": "Maryam visited the old city market with her sister.",
+      "words": [
+        { "w": "زَارَتْ", "root": "ز و ر", "bs": "posjetila je", "en": "visited" },
+        { "w": "سُوقَ", "root": "س و ق", "bs": "pijaca / tržnica", "en": "market / bazaar" },
+        { "w": "الْقَدِيمَةِ", "root": "ق د م", "bs": "stara", "en": "old" },
+        { "w": "أُخْتِهَا", "root": "أ خ ت", "bs": "njena sestra", "en": "her sister" }
+      ]
     },
     {
       "arabic": "رَأَتَا أَشْيَاءَ كَثِيرَةً وَجَمِيلَةً فِي السُّوقِ.",
       "translation": "Vidjele su mnogo lijepih stvari na pijaci.",
-      "translationEn": "They saw many beautiful things in the market."
+      "translationEn": "They saw many beautiful things in the market.",
+      "words": [
+        { "w": "رَأَتَا", "root": "ر أ ي", "bs": "vidjele su", "en": "they (both) saw" },
+        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "كَثِيرَةً", "root": "ك ث ر", "bs": "mnogo", "en": "many" },
+        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijepe", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "اشْتَرَتْ مَرْيَمُ هَدِيَّةً صَغِيرَةً لِأُمِّهَا.",
       "translation": "Merjem je kupila mali poklon za svoju majku.",
-      "translationEn": "Maryam bought a small gift for her mother."
+      "translationEn": "Maryam bought a small gift for her mother.",
+      "words": [
+        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "هَدِيَّةً", "root": "ه د ي", "bs": "poklon", "en": "gift" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mali", "en": "small" }
+      ]
     },
     {
       "arabic": "رَجَعَتَا إِلَى الْفُنْدُقِ مَسَاءً مَسْرُورَتَيْنِ.",
       "translation": "Vratile su se u hotel uvečer zadovoljne.",
-      "translationEn": "They returned to the hotel in the evening feeling happy."
+      "translationEn": "They returned to the hotel in the evening feeling happy.",
+      "words": [
+        { "w": "رَجَعَتَا", "root": "ر ج ع", "bs": "vratile su se", "en": "they (both) returned" },
+        { "w": "الْفُنْدُقِ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
+        { "w": "مَسْرُورَتَيْنِ", "root": "س ر ر", "bs": "zadovoljne / sretne", "en": "happy / pleased" }
+      ]
     }
   ],
   "metadata": {

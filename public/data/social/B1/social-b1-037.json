@@ -6,22 +6,45 @@
     {
       "arabic": "قَرَّرَ مَجْمُوعَةٌ مِنَ الشَّبَابِ التَّطَوُّعَ.",
       "translation": "Grupa mladih je odlučila da se dobrovoljno angažuje.",
-      "translationEn": "A group of young people decided to volunteer."
+      "translationEn": "A group of young people decided to volunteer.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "مَجْمُوعَةٌ", "root": "ج م ع", "bs": "grupa", "en": "group" },
+        { "w": "الشَّبَابِ", "root": "ش ب ب", "bs": "mladih", "en": "young people" },
+        { "w": "التَّطَوُّعَ", "root": "ط و ع", "bs": "volontiranje", "en": "volunteering" }
+      ]
     },
     {
       "arabic": "ذَهَبُوا إِلَى حَدِيقَةِ المَدِينَةِ وَنَظَّفُوهَا.",
       "translation": "Otišli su u gradski park i očistili ga.",
-      "translationEn": "They went to the city park and cleaned it."
+      "translationEn": "They went to the city park and cleaned it.",
+      "words": [
+        { "w": "ذَهَبُوا", "root": "ذ هـ ب", "bs": "otišli su", "en": "they went" },
+        { "w": "حَدِيقَةِ", "root": "ح د ق", "bs": "park", "en": "park" },
+        { "w": "المَدِينَةِ", "root": "م د ن", "bs": "gradski", "en": "city" },
+        { "w": "نَظَّفُوهَا", "root": "ن ظ ف", "bs": "očistili su ga", "en": "cleaned it" }
+      ]
     },
     {
       "arabic": "شَعَرُوا بِالفَخْرِ لِأَنَّهُمْ سَاعَدُوا المُجْتَمَعَ.",
       "translation": "Osjećali su ponos što su pomogli zajednici.",
-      "translationEn": "They felt proud because they helped the community."
+      "translationEn": "They felt proud because they helped the community.",
+      "words": [
+        { "w": "شَعَرُوا", "root": "ش ع ر", "bs": "osjećali su", "en": "they felt" },
+        { "w": "بِالفَخْرِ", "root": "ف خ ر", "bs": "ponos", "en": "pride" },
+        { "w": "سَاعَدُوا", "root": "س ع د", "bs": "pomogli su", "en": "they helped" },
+        { "w": "المُجْتَمَعَ", "root": "ج م ع", "bs": "zajednicu", "en": "community" }
+      ]
     },
     {
       "arabic": "أَحَبَّ النَّاسُ هَذِهِ المُبَادَرَةَ كَثِيرًا.",
       "translation": "Ljudi su jako voljeli ovu inicijativu.",
-      "translationEn": "People loved this initiative a lot."
+      "translationEn": "People loved this initiative a lot.",
+      "words": [
+        { "w": "أَحَبَّ", "root": "ح ب ب", "bs": "voljeli su", "en": "loved" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "المُبَادَرَةَ", "root": "ب د ر", "bs": "inicijativu", "en": "initiative" }
+      ]
     }
   ],
   "metadata": {

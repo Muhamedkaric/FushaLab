@@ -6,22 +6,44 @@
     {
       "arabic": "ذَهَبَتْ هِنْدٌ مَعَ أَبِيهَا لِشِرَاءِ كِتَابٍ جَدِيدٍ.",
       "translation": "Hind je otišla s ocem da kupi novu knjigu.",
-      "translationEn": "Hind went with her father to buy a new book."
+      "translationEn": "Hind went with her father to buy a new book.",
+      "words": [
+        { "w": "ذَهَبَتْ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "لِشِرَاءِ", "root": "ش ر ي", "bs": "kupovina", "en": "to buy" },
+        { "w": "كِتَابٍ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "جَدِيدٍ", "root": "ج د د", "bs": "nova", "en": "new" }
+      ]
     },
     {
       "arabic": "دَخَلَا مَكْتَبَةً كَبِيرَةً فِي وَسَطِ الْمَدِينَةِ.",
       "translation": "Ušli su u veliku knjižaru u centru grada.",
-      "translationEn": "They entered a large bookstore in the city center."
+      "translationEn": "They entered a large bookstore in the city center.",
+      "words": [
+        { "w": "دَخَلَا", "root": "د خ ل", "bs": "ušli su", "en": "entered" },
+        { "w": "مَكْتَبَةً", "root": "ك ت ب", "bs": "knjižara/biblioteka", "en": "bookstore" },
+        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "velika", "en": "large" },
+        { "w": "الْمَدِينَةِ", "root": "م د ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "وَجَدَتْ هِنْدٌ كِتَابًا عَنِ الْحَيَوَانَاتِ وَأَحَبَّتْهُ.",
       "translation": "Hind je pronašla knjigu o životinjama i svidjela joj se.",
-      "translationEn": "Hind found a book about animals and loved it."
+      "translationEn": "Hind found a book about animals and loved it.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "الْحَيَوَانَاتِ", "root": "ح ي و", "bs": "životinje", "en": "animals" },
+        { "w": "أَحَبَّتْهُ", "root": "ح ب ب", "bs": "svidjela joj se", "en": "loved it" }
+      ]
     },
     {
       "arabic": "اشْتَرَاهُ لَهَا أَبُوهَا وَهِيَ فَرِحَةٌ جِدًّا.",
       "translation": "Otac joj ga je kupio i ona je bila jako sretna.",
-      "translationEn": "Her father bought it for her and she was very happy."
+      "translationEn": "Her father bought it for her and she was very happy.",
+      "words": [
+        { "w": "اشْتَرَاهُ", "root": "ش ر ي", "bs": "kupio je", "en": "bought it" },
+        { "w": "فَرِحَةٌ", "root": "ف ر ح", "bs": "sretna/radosna", "en": "happy" }
+      ]
     }
   ],
   "metadata": {

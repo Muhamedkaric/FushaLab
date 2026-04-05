@@ -6,22 +6,45 @@
     {
       "arabic": "سَمِعَ الطُّلَّابُ الْمَثَلَ: «طَالِبُ الْعِلْمِ لَا يَشِيخُ».",
       "translation": "Učenici su čuli poslovicu: «Tražilac znanja ne stari».",
-      "translationEn": "The students heard the proverb: «The seeker of knowledge does not grow old»."
+      "translationEn": "The students heard the proverb: «The seeker of knowledge does not grow old».",
+      "words": [
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "طَالِبُ", "root": "ط ل ب", "bs": "tražilac", "en": "seeker" },
+        { "w": "الْعِلْمِ", "root": "ع ل م", "bs": "znanje", "en": "knowledge" },
+        { "w": "يَشِيخُ", "root": "ش ي خ", "bs": "stari", "en": "grows old" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ التَّعَلُّمَ يُبْقِي الْعَقْلَ حَيًّا وَنَشِيطًا.",
       "translation": "To znači da učenje drži um živim i aktivnim.",
-      "translationEn": "This means that learning keeps the mind alive and active."
+      "translationEn": "This means that learning keeps the mind alive and active.",
+      "words": [
+        { "w": "التَّعَلُّمَ", "root": "ع ل م", "bs": "učenje", "en": "learning" },
+        { "w": "الْعَقْلَ", "root": "ع ق ل", "bs": "um", "en": "mind" },
+        { "w": "حَيًّا", "root": "ح ي ي", "bs": "živim", "en": "alive" },
+        { "w": "نَشِيطًا", "root": "ن ش ط", "bs": "aktivnim", "en": "active" }
+      ]
     },
     {
       "arabic": "تَعَلَّمَتِ الْجَدَّةُ اسْتِخْدَامَ الْحَاسُوبِ وَهِيَ فِي السِّتِّينَ.",
       "translation": "Baka je naučila koristiti kompjuter s šezdeset godina.",
-      "translationEn": "The grandmother learned to use the computer at sixty years old."
+      "translationEn": "The grandmother learned to use the computer at sixty years old.",
+      "words": [
+        { "w": "تَعَلَّمَتِ", "root": "ع ل م", "bs": "naučila je", "en": "learned" },
+        { "w": "الْجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "اسْتِخْدَامَ", "root": "خ د م", "bs": "korištenje", "en": "use" },
+        { "w": "الْحَاسُوبِ", "root": "ح س ب", "bs": "kompjuter", "en": "computer" }
+      ]
     },
     {
       "arabic": "كَانَتْ سَعِيدَةً وَقَالَتْ: «التَّعَلُّمُ لَا يَنْتَهِي أَبَدًا».",
       "translation": "Bila je sretna i rekla: «Učenje nikada ne završava».",
-      "translationEn": "She was happy and said: «Learning never ends»."
+      "translationEn": "She was happy and said: «Learning never ends».",
+      "words": [
+        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
+        { "w": "التَّعَلُّمُ", "root": "ع ل م", "bs": "učenje", "en": "learning" },
+        { "w": "يَنْتَهِي", "root": "ن ه ي", "bs": "završava", "en": "ends" }
+      ]
     }
   ],
   "metadata": {

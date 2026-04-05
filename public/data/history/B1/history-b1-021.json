@@ -6,22 +6,48 @@
     {
       "arabic": "بَنَى النَّجَّارُ بَيْتًا جَمِيلًا لِأُسْرَتِهِ.",
       "translation": "Stolar je izgradio lijepu kuću za svoju porodicu.",
-      "translationEn": "The carpenter built a beautiful house for his family."
+      "translationEn": "The carpenter built a beautiful house for his family.",
+      "words": [
+        { "w": "بَنَى", "root": "ب ن ي", "bs": "izgradio je", "en": "built" },
+        { "w": "النَّجَّارُ", "root": "ن ج ر", "bs": "stolar", "en": "the carpenter" },
+        { "w": "بَيْتًا", "root": "ب ي ت", "bs": "kuću", "en": "a house" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepu", "en": "beautiful" },
+        { "w": "أُسْرَتِهِ", "root": "أ س ر", "bs": "njegova porodica", "en": "his family" }
+      ]
     },
     {
       "arabic": "قَطَعَ الْأَشْجَارَ وَنَحَتَ الْخَشَبَ بِيَدَيْهِ.",
       "translation": "Sjekao je drveće i klesao drvo vlastitim rukama.",
-      "translationEn": "He cut down trees and carved the wood with his own hands."
+      "translationEn": "He cut down trees and carved the wood with his own hands.",
+      "words": [
+        { "w": "قَطَعَ", "root": "ق ط ع", "bs": "sjekao je", "en": "cut" },
+        { "w": "الْأَشْجَارَ", "root": "ش ج ر", "bs": "drveće", "en": "the trees" },
+        { "w": "نَحَتَ", "root": "ن ح ت", "bs": "klesao je", "en": "carved" },
+        { "w": "الْخَشَبَ", "root": "خ ش ب", "bs": "drvo", "en": "the wood" }
+      ]
     },
     {
       "arabic": "صَنَعَ الأَبْوَابَ وَالنَّوَافِذَ وَالسُّقُفَ.",
       "translation": "Napravio je vrata, prozore i krov.",
-      "translationEn": "He made the doors, windows, and roof."
+      "translationEn": "He made the doors, windows, and roof.",
+      "words": [
+        { "w": "صَنَعَ", "root": "ص ن ع", "bs": "napravio je", "en": "made" },
+        { "w": "الأَبْوَابَ", "root": "ب و ب", "bs": "vrata", "en": "doors" },
+        { "w": "النَّوَافِذَ", "root": "ن ف ذ", "bs": "prozore", "en": "windows" },
+        { "w": "السُّقُفَ", "root": "س ق ف", "bs": "krov", "en": "roof" }
+      ]
     },
     {
       "arabic": "أَقَامَتِ الأُسْرَةُ فِي الْبَيْتِ الْجَدِيدِ بِسَعَادَةٍ.",
       "translation": "Porodica je sretno živjela u novoj kući.",
-      "translationEn": "The family lived happily in the new house."
+      "translationEn": "The family lived happily in the new house.",
+      "words": [
+        { "w": "أَقَامَتِ", "root": "ق و م", "bs": "živjela je", "en": "lived" },
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "the family" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "the house" },
+        { "w": "الْجَدِيدِ", "root": "ج د د", "bs": "nova", "en": "new" },
+        { "w": "سَعَادَةٍ", "root": "س ع د", "bs": "sreća", "en": "happiness" }
+      ]
     }
   ],
   "metadata": {

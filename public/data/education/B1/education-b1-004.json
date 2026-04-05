@@ -6,31 +6,159 @@
     {
       "arabic": "رَجَعَ عُمَرُ إِلَى البَيْتِ بَعْدَ المَدْرَسَةِ.",
       "translation": "Omer se vratio kući nakon škole.",
-      "translationEn": "Omar returned home after school."
+      "translationEn": "Omar returned home after school.",
+      "words": [
+        {
+          "w": "رَجَعَ",
+          "root": "ر ج ع",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "البَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "home"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        }
+      ]
     },
     {
       "arabic": "أَكَلَ الغَدَاءَ مَعَ عَائِلَتِهِ ثُمَّ اسْتَرَاحَ قَلِيلًا.",
       "translation": "Ručao je s porodicom, a zatim se malo odmarao.",
-      "translationEn": "He ate lunch with his family and then rested a little."
+      "translationEn": "He ate lunch with his family and then rested a little.",
+      "words": [
+        {
+          "w": "أَكَلَ",
+          "root": "أ ك ل",
+          "bs": "jeo",
+          "en": "ate"
+        },
+        {
+          "w": "الغَدَاءَ",
+          "root": "غ د و",
+          "bs": "ručak",
+          "en": "lunch"
+        },
+        {
+          "w": "عَائِلَتِهِ",
+          "root": "ع ي ل",
+          "bs": "njegova porodica",
+          "en": "his family"
+        },
+        {
+          "w": "اسْتَرَاحَ",
+          "root": "ر و ح",
+          "bs": "odmarao se",
+          "en": "rested"
+        }
+      ]
     },
     {
       "arabic": "فَتَحَ كِتَابَهُ وَبَدَأَ يَكْتُبُ الوَاجِبَ المَنْزِلِيَّ.",
       "translation": "Otvorio je knjigu i počeo pisati domaći zadatak.",
-      "translationEn": "He opened his book and began writing his homework."
+      "translationEn": "He opened his book and began writing his homework.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio",
+          "en": "opened"
+        },
+        {
+          "w": "كِتَابَهُ",
+          "root": "ك ت ب",
+          "bs": "svoju knjigu",
+          "en": "his book"
+        },
+        {
+          "w": "بَدَأَ",
+          "root": "ب د أ",
+          "bs": "počeo",
+          "en": "began"
+        },
+        {
+          "w": "الوَاجِبَ",
+          "root": "و ج ب",
+          "bs": "domaći zadatak",
+          "en": "homework"
+        }
+      ]
     },
     {
       "arabic": "كَتَبَ عُمَرُ إِجَابَاتِ الأَسْئِلَةِ بِعِنَايَةٍ.",
       "translation": "Omer je pažljivo napisao odgovore na pitanja.",
-      "translationEn": "Omar carefully wrote the answers to the questions."
+      "translationEn": "Omar carefully wrote the answers to the questions.",
+      "words": [
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao",
+          "en": "wrote"
+        },
+        {
+          "w": "إِجَابَاتِ",
+          "root": "ج و ب",
+          "bs": "odgovore",
+          "en": "answers"
+        },
+        {
+          "w": "الأَسْئِلَةِ",
+          "root": "س أ ل",
+          "bs": "pitanja",
+          "en": "questions"
+        },
+        {
+          "w": "بِعِنَايَةٍ",
+          "root": "ع ن ي",
+          "bs": "pažljivo",
+          "en": "carefully"
+        }
+      ]
     },
     {
       "arabic": "اِنْتَهَى مِنَ الوَاجِبِ وَشَعَرَ بِالرَّاحَةِ.",
       "translation": "Završio je domaći zadatak i osjetio olakšanje.",
-      "translationEn": "He finished his homework and felt relieved."
+      "translationEn": "He finished his homework and felt relieved.",
+      "words": [
+        {
+          "w": "اِنْتَهَى",
+          "root": "ن ه ي",
+          "bs": "završio",
+          "en": "finished"
+        },
+        {
+          "w": "الوَاجِبِ",
+          "root": "و ج ب",
+          "bs": "domaći zadatak",
+          "en": "homework"
+        },
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio",
+          "en": "felt"
+        },
+        {
+          "w": "بِالرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "olakšanje/mir",
+          "en": "relief"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["homework", "student", "after-school"]
+    "tags": [
+      "homework",
+      "student",
+      "after-school"
+    ]
   }
 }

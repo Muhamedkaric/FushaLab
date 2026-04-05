@@ -6,26 +6,140 @@
     {
       "arabic": "دَرَسَ طَارِقٌ اللُّغَةَ الإِنْجِلِيزِيَّةَ مَعَ مُعَلِّمٍ جَدِيدٍ.",
       "translation": "Tariq je učio engleski jezik s novim nastavnikom.",
-      "translationEn": "Tariq studied English with a new teacher."
+      "translationEn": "Tariq studied English with a new teacher.",
+      "words": [
+        {
+          "w": "دَرَسَ",
+          "root": "د ر س",
+          "bs": "učio",
+          "en": "studied"
+        },
+        {
+          "w": "اللُّغَةَ",
+          "root": "ل غ و",
+          "bs": "jezik",
+          "en": "language"
+        },
+        {
+          "w": "الإِنْجِلِيزِيَّةَ",
+          "root": "أ ن ج ل",
+          "bs": "engleski",
+          "en": "English"
+        },
+        {
+          "w": "مُعَلِّمٍ",
+          "root": "ع ل م",
+          "bs": "nastavnik",
+          "en": "teacher"
+        },
+        {
+          "w": "جَدِيدٍ",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new"
+        }
+      ]
     },
     {
       "arabic": "تَعَلَّمَ كَيْفَ يَقُولُ كَلِمَاتٍ بَسِيطَةً بِالإِنْجِلِيزِيَّةِ.",
       "translation": "Naučio je kako izgovoriti jednostavne riječi na engleskom.",
-      "translationEn": "He learned how to say simple words in English."
+      "translationEn": "He learned how to say simple words in English.",
+      "words": [
+        {
+          "w": "تَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio",
+          "en": "learned"
+        },
+        {
+          "w": "يَقُولُ",
+          "root": "ق و ل",
+          "bs": "govori",
+          "en": "to say"
+        },
+        {
+          "w": "كَلِمَاتٍ",
+          "root": "ك ل م",
+          "bs": "riječi",
+          "en": "words"
+        },
+        {
+          "w": "بَسِيطَةً",
+          "root": "ب س ط",
+          "bs": "jednostavne",
+          "en": "simple"
+        }
+      ]
     },
     {
       "arabic": "كَرَّرَ الكَلِمَاتِ بَعْدَ المُعَلِّمِ مَرَّاتٍ عَدِيدَةً.",
       "translation": "Ponavljao je riječi za nastavnikom više puta.",
-      "translationEn": "He repeated the words after the teacher many times."
+      "translationEn": "He repeated the words after the teacher many times.",
+      "words": [
+        {
+          "w": "كَرَّرَ",
+          "root": "ك ر ر",
+          "bs": "ponavljao",
+          "en": "repeated"
+        },
+        {
+          "w": "الكَلِمَاتِ",
+          "root": "ك ل م",
+          "bs": "riječi",
+          "en": "words"
+        },
+        {
+          "w": "المُعَلِّمِ",
+          "root": "ع ل م",
+          "bs": "nastavnik",
+          "en": "teacher"
+        },
+        {
+          "w": "مَرَّاتٍ",
+          "root": "م ر ر",
+          "bs": "puta/puta",
+          "en": "times"
+        }
+      ]
     },
     {
       "arabic": "فِي نِهَايَةِ الدَّرْسِ حَفِظَ عَشْرَ كَلِمَاتٍ جَدِيدَةٍ.",
       "translation": "Na kraju časa zapamtio je deset novih riječi.",
-      "translationEn": "At the end of the class he memorized ten new words."
+      "translationEn": "At the end of the class he memorized ten new words.",
+      "words": [
+        {
+          "w": "حَفِظَ",
+          "root": "ح ف ظ",
+          "bs": "zapamtio",
+          "en": "memorized"
+        },
+        {
+          "w": "عَشْرَ",
+          "root": "ع ش ر",
+          "bs": "deset",
+          "en": "ten"
+        },
+        {
+          "w": "كَلِمَاتٍ",
+          "root": "ك ل م",
+          "bs": "riječi",
+          "en": "words"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "root": "ج د د",
+          "bs": "novih",
+          "en": "new"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["english", "language-learning", "vocabulary"]
+    "tags": [
+      "english",
+      "language-learning",
+      "vocabulary"
+    ]
   }
 }

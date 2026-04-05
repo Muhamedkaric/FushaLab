@@ -6,22 +6,46 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ الْإِنْسَانَ يَحْتَاجُ إِلَى وَقْتٍ لِنَفْسِهِ.",
       "translation": "Smatram da čovjek treba vremena za sebe.",
-      "translationEn": "I believe that a person needs time for themselves."
+      "translationEn": "I believe that a person needs time for themselves.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "الْإِنْسَانَ", "root": "أ ن س", "bs": "čovjek", "en": "person" },
+        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
+        { "w": "وَقْتٍ", "root": "و ق ت", "bs": "vrijeme", "en": "time" }
+      ]
     },
     {
       "arabic": "الِانْفِرَادُ أَحْيَانًا يُجَدِّدُ الطَّاقَةَ وَيُصَفِّي الذِّهْنَ.",
       "translation": "Samoća ponekad obnavlja energiju i bistri um.",
-      "translationEn": "Solitude sometimes renews energy and clears the mind."
+      "translationEn": "Solitude sometimes renews energy and clears the mind.",
+      "words": [
+        { "w": "الِانْفِرَادُ", "root": "ف ر د", "bs": "samoća", "en": "solitude" },
+        { "w": "يُجَدِّدُ", "root": "ج د د", "bs": "obnavlja", "en": "renews" },
+        { "w": "الطَّاقَةَ", "root": "ط و ق", "bs": "energija", "en": "energy" },
+        { "w": "يُصَفِّي", "root": "ص ف و", "bs": "bistri", "en": "clears" }
+      ]
     },
     {
       "arabic": "أُخَصِّصُ وَقْتًا كُلَّ أُسْبُوعٍ لِأَجْلِسَ وَحْدِي وَأَفَكِّرَ.",
       "translation": "Svake sedmice odvojim neko vrijeme da sjedim sam i razmišljam.",
-      "translationEn": "I set aside time every week to sit alone and think."
+      "translationEn": "I set aside time every week to sit alone and think.",
+      "words": [
+        { "w": "أُخَصِّصُ", "root": "خ ص ص", "bs": "odvojim", "en": "set aside" },
+        { "w": "وَقْتًا", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica", "en": "week" },
+        { "w": "أَفَكِّرَ", "root": "ف ك ر", "bs": "razmišljam", "en": "think" }
+      ]
     },
     {
       "arabic": "هَذَا الْوَقْتُ يُسَاعِدُنِي عَلَى فَهْمِ نَفْسِي أَكْثَرَ.",
       "translation": "To vrijemos mi pomaže da sebe bolje razumijem.",
-      "translationEn": "This time helps me understand myself more."
+      "translationEn": "This time helps me understand myself more.",
+      "words": [
+        { "w": "الْوَقْتُ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "يُسَاعِدُنِي", "root": "س ع د", "bs": "pomaže mi", "en": "helps me" },
+        { "w": "فَهْمِ", "root": "ف ه م", "bs": "razumjeti", "en": "understand" },
+        { "w": "نَفْسِي", "root": "ن ف س", "bs": "sebe", "en": "myself" }
+      ]
     }
   ],
   "metadata": {

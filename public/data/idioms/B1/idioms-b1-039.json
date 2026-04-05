@@ -6,22 +6,44 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «الدَّمُ لَا يَصِيرُ مَاءً».",
       "translation": "Poslovica kaže: «Krv ne postaje voda».",
-      "translationEn": "The proverb says: «Blood does not become water»."
+      "translationEn": "The proverb says: «Blood does not become water».",
+      "words": [
+        { "w": "الدَّمُ", "root": "د م م", "bs": "krv", "en": "blood" },
+        { "w": "يَصِيرُ", "root": "ص ي ر", "bs": "postaje", "en": "becomes" },
+        { "w": "مَاءً", "root": "م و ه", "bs": "voda", "en": "water" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ رَوَابِطَ الأُسْرَةِ قَوِيَّةٌ وَلَا تَنْقَطِعُ.",
       "translation": "To znači da su porodične veze jake i ne prekidaju se.",
-      "translationEn": "This means that family bonds are strong and do not break."
+      "translationEn": "This means that family bonds are strong and do not break.",
+      "words": [
+        { "w": "رَوَابِطَ", "root": "ر ب ط", "bs": "veze", "en": "bonds" },
+        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "قَوِيَّةٌ", "root": "ق و ي", "bs": "jake", "en": "strong" },
+        { "w": "تَنْقَطِعُ", "root": "ق ط ع", "bs": "prekidaju se", "en": "break" }
+      ]
     },
     {
       "arabic": "تَشَاجَرَ الأَخَوَانِ لَكِنَّهُمَا عَادَا وَتَصَالَحَا.",
       "translation": "Braća su se posvađala ali su se pomirila.",
-      "translationEn": "The brothers argued but they made up and reconciled."
+      "translationEn": "The brothers argued but they made up and reconciled.",
+      "words": [
+        { "w": "تَشَاجَرَ", "root": "ش ج ر", "bs": "posvađali su se", "en": "argued" },
+        { "w": "الأَخَوَانِ", "root": "أ خ و", "bs": "braća", "en": "brothers" },
+        { "w": "تَصَالَحَا", "root": "ص ل ح", "bs": "pomirili su se", "en": "reconciled" }
+      ]
     },
     {
       "arabic": "قَالَتِ الأُمُّ: «أَنْتُمَا إِخْوَةٌ وَالأُسْرَةُ أَهَمُّ مِنَ الْخِلَافِ».",
       "translation": "Majka je rekla: «Vi ste braća i porodica je važnija od svađe».",
-      "translationEn": "The mother said: «You are brothers and family is more important than a quarrel»."
+      "translationEn": "The mother said: «You are brothers and family is more important than a quarrel».",
+      "words": [
+        { "w": "إِخْوَةٌ", "root": "أ خ و", "bs": "braća", "en": "brothers" },
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "أَهَمُّ", "root": "ه م م", "bs": "važnija", "en": "more important" },
+        { "w": "الْخِلَافِ", "root": "خ ل ف", "bs": "svađa", "en": "quarrel" }
+      ]
     }
   ],
   "metadata": {

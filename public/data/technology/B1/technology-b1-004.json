@@ -6,22 +6,120 @@
     {
       "arabic": "أَرَادَتْ لَيْلَى أَنْ تُرْسِلَ رِسَالَةً إِلَى صَدِيقَتِهَا.",
       "translation": "Lejla je htjela poslati poruku prijateljici.",
-      "translationEn": "Layla wanted to send a message to her friend."
+      "translationEn": "Layla wanted to send a message to her friend.",
+      "words": [
+        {
+          "w": "أَرَادَتْ",
+          "root": "ر و د",
+          "bs": "htjela je",
+          "en": "wanted"
+        },
+        {
+          "w": "تُرْسِلَ",
+          "root": "ر س ل",
+          "bs": "poslati",
+          "en": "to send"
+        },
+        {
+          "w": "رِسَالَةً",
+          "root": "ر س ل",
+          "bs": "poruku",
+          "en": "a message"
+        },
+        {
+          "w": "صَدِيقَتِهَا",
+          "root": "ص د ق",
+          "bs": "prijateljici",
+          "en": "her friend"
+        }
+      ]
     },
     {
       "arabic": "فَتَحَتِ التَّطْبِيقَ وَكَتَبَتِ الرِّسَالَةَ.",
       "translation": "Otvorila je aplikaciju i napisala poruku.",
-      "translationEn": "She opened the app and wrote the message."
+      "translationEn": "She opened the app and wrote the message.",
+      "words": [
+        {
+          "w": "فَتَحَتِ",
+          "root": "ف ت ح",
+          "bs": "otvorila je",
+          "en": "opened"
+        },
+        {
+          "w": "التَّطْبِيقَ",
+          "root": "ط ب ق",
+          "bs": "aplikaciju",
+          "en": "the app"
+        },
+        {
+          "w": "كَتَبَتِ",
+          "root": "ك ت ب",
+          "bs": "napisala je",
+          "en": "wrote"
+        },
+        {
+          "w": "الرِّسَالَةَ",
+          "root": "ر س ل",
+          "bs": "poruku",
+          "en": "the message"
+        }
+      ]
     },
     {
       "arabic": "أَضَافَتْ صُورَةً جَمِيلَةً مَعَ الرِّسَالَةِ.",
       "translation": "Dodala je lijepu fotografiju uz poruku.",
-      "translationEn": "She added a beautiful photo with the message."
+      "translationEn": "She added a beautiful photo with the message.",
+      "words": [
+        {
+          "w": "أَضَافَتْ",
+          "root": "ض و ف",
+          "bs": "dodala je",
+          "en": "added"
+        },
+        {
+          "w": "صُورَةً",
+          "root": "ص و ر",
+          "bs": "fotografiju",
+          "en": "a photo"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijepu",
+          "en": "beautiful"
+        }
+      ]
     },
     {
       "arabic": "ضَغَطَتْ إِرْسَالَ وَانْتَظَرَتِ الرَّدَّ.",
       "translation": "Pritisnula je pošalji i čekala odgovor.",
-      "translationEn": "She pressed send and waited for the reply."
+      "translationEn": "She pressed send and waited for the reply.",
+      "words": [
+        {
+          "w": "ضَغَطَتْ",
+          "root": "ض غ ط",
+          "bs": "pritisnula je",
+          "en": "pressed"
+        },
+        {
+          "w": "إِرْسَالَ",
+          "root": "ر س ل",
+          "bs": "pošalji",
+          "en": "send"
+        },
+        {
+          "w": "انْتَظَرَتِ",
+          "root": "ن ظ ر",
+          "bs": "čekala je",
+          "en": "waited"
+        },
+        {
+          "w": "الرَّدَّ",
+          "root": "ر د د",
+          "bs": "odgovor",
+          "en": "the reply"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,48 @@
     {
       "arabic": "أَرَادَ طِفْلٌ اسْمُهُ فَادِي تَعَلُّمَ الرُّكُوبِ عَلَى الدَّرَّاجَةِ.",
       "translation": "Dječak po imenu Fadi je htio naučiti voziti bicikl.",
-      "translationEn": "A boy named Fadi wanted to learn to ride a bicycle."
+      "translationEn": "A boy named Fadi wanted to learn to ride a bicycle.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dječak", "en": "boy" },
+        { "w": "تَعَلُّمَ", "root": "ع ل م", "bs": "naučiti", "en": "to learn" },
+        { "w": "الرُّكُوبِ", "root": "ر ك ب", "bs": "vožnja", "en": "riding" },
+        { "w": "الدَّرَّاجَةِ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" }
+      ]
     },
     {
       "arabic": "حَاوَلَ كَثِيرًا وَسَقَطَ مَرَّاتٍ عَدِيدَةٍ.",
       "translation": "Puno je pokušavao i pao je mnogo puta.",
-      "translationEn": "He tried many times and fell many times."
+      "translationEn": "He tried many times and fell many times.",
+      "words": [
+        { "w": "حَاوَلَ", "root": "ح و ل", "bs": "pokušavao je", "en": "tried" },
+        { "w": "سَقَطَ", "root": "س ق ط", "bs": "pao je", "en": "fell" },
+        { "w": "مَرَّاتٍ", "root": "م ر ر", "bs": "puta", "en": "times" },
+        { "w": "عَدِيدَةٍ", "root": "ع د د", "bs": "mnogo", "en": "many" }
+      ]
     },
     {
       "arabic": "وَقَفَتِ الأُمُّ بِجَانِبِهِ وَقَالَتْ: «أَنَا وَاثِقَةٌ مِنْكَ».",
       "translation": "Majka je stala pored njega i rekla: «Vjerujem u tebe».",
-      "translationEn": "His mother stood beside him and said: «I believe in you»."
+      "translationEn": "His mother stood beside him and said: «I believe in you».",
+      "words": [
+        { "w": "وَقَفَتِ", "root": "و ق ف", "bs": "stala je", "en": "stood" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "وَاثِقَةٌ", "root": "و ث ق", "bs": "uvjerena", "en": "certain" }
+      ]
     },
     {
       "arabic": "رَكَضَ فَادِي وَرَكِبَ الدَّرَّاجَةَ بِمُفْرَدِهِ أَخِيرًا.",
       "translation": "Fadi je potrčao i konačno sam vozio bicikl.",
-      "translationEn": "Fadi ran and finally rode the bicycle alone."
+      "translationEn": "Fadi ran and finally rode the bicycle alone.",
+      "words": [
+        { "w": "رَكَضَ", "root": "ر ك ض", "bs": "potrčao je", "en": "ran" },
+        { "w": "رَكِبَ", "root": "ر ك ب", "bs": "vozio je", "en": "rode" },
+        { "w": "الدَّرَّاجَةَ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" },
+        { "w": "بِمُفْرَدِهِ", "root": "ف ر د", "bs": "sam", "en": "alone" },
+        { "w": "أَخِيرًا", "root": "أ خ ر", "bs": "konačno", "en": "finally" }
+      ]
     }
   ],
   "metadata": {

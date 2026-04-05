@@ -6,22 +6,120 @@
     {
       "arabic": "أَكَلَ الطِّفْلُ وَحَمِدَ اللَّهَ بَعْدَ الطَّعَامِ.",
       "translation": "Dijete je jelo i zahvalilo Allahu nakon hrane.",
-      "translationEn": "The child ate and thanked God after the meal."
+      "translationEn": "The child ate and thanked God after the meal.",
+      "words": [
+        {
+          "w": "أَكَلَ",
+          "root": "أ ك ل",
+          "bs": "jelo je",
+          "en": "ate"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child"
+        },
+        {
+          "w": "حَمِدَ",
+          "root": "ح م د",
+          "bs": "zahvalilo je",
+          "en": "thanked"
+        },
+        {
+          "w": "اللَّهَ",
+          "root": "أ ل ه",
+          "bs": "Allahu",
+          "en": "God"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "root": "ط ع م",
+          "bs": "hrane",
+          "en": "the meal"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَهُ أَبُوهُ: لِمَاذَا تَقُولُ الْحَمْدُ لِلَّهِ؟",
       "translation": "Otac ga je upitao: Zašto kaži Elhamdulillah?",
-      "translationEn": "His father asked him: Why do you say Alhamdulillah?"
+      "translationEn": "His father asked him: Why do you say Alhamdulillah?",
+      "words": [
+        {
+          "w": "سَأَلَهُ",
+          "root": "س أ ل",
+          "bs": "upitao ga je",
+          "en": "asked him"
+        },
+        {
+          "w": "أَبُوهُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "his father"
+        },
+        {
+          "w": "تَقُولُ",
+          "root": "ق و ل",
+          "bs": "kažeš",
+          "en": "say"
+        },
+        {
+          "w": "الْحَمْدُ لِلَّهِ",
+          "root": "ح م د",
+          "bs": "Elhamdulillah",
+          "en": "Alhamdulillah"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الطِّفْلُ: لِأَنَّ اللَّهَ أَعْطَانَا الطَّعَامَ.",
       "translation": "Dijete je reklo: Jer nam je Allah dao hranu.",
-      "translationEn": "The child said: Because God gave us the food."
+      "translationEn": "The child said: Because God gave us the food.",
+      "words": [
+        {
+          "w": "اللَّهَ",
+          "root": "أ ل ه",
+          "bs": "Allah",
+          "en": "God"
+        },
+        {
+          "w": "أَعْطَانَا",
+          "root": "ع ط و",
+          "bs": "dao nam je",
+          "en": "gave us"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "the food"
+        }
+      ]
     },
     {
       "arabic": "ابْتَسَمَ الْأَبُ وَقَالَ: أَحْسَنْتَ يَا بُنَيَّ.",
       "translation": "Otac se nasmiješio i rekao: Bravo, sinčiću moj.",
-      "translationEn": "The father smiled and said: Well done my son."
+      "translationEn": "The father smiled and said: Well done my son.",
+      "words": [
+        {
+          "w": "ابْتَسَمَ",
+          "root": "ب س م",
+          "bs": "nasmiješio se",
+          "en": "smiled"
+        },
+        {
+          "w": "الْأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "the father"
+        },
+        {
+          "w": "أَحْسَنْتَ",
+          "root": "ح س ن",
+          "bs": "bravo",
+          "en": "well done"
+        }
+      ]
     }
   ],
   "metadata": {

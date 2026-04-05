@@ -6,22 +6,45 @@
     {
       "arabic": "لَيَالِي رَمَضَانَ مُخْتَلِفَةٌ عَنْ بَقِيَّةِ اللَّيَالِي.",
       "translation": "Ramazanske noći su drugačije od ostalih noći.",
-      "translationEn": "Ramadan nights are different from other nights."
+      "translationEn": "Ramadan nights are different from other nights.",
+      "words": [
+        { "w": "لَيَالِي", "root": "ل ي ل", "bs": "noći", "en": "nights" },
+        { "w": "رَمَضَانَ", "bs": "Ramazana", "en": "Ramadan" },
+        { "w": "مُخْتَلِفَةٌ", "root": "خ ل ف", "bs": "drugačije", "en": "different" },
+        { "w": "بَقِيَّةِ", "root": "ب ق ي", "bs": "ostalih", "en": "rest" }
+      ]
     },
     {
       "arabic": "تَبْقَى المَسَاجِدُ مَفْتُوحَةً حَتَّى وَقْتٍ مُتَأَخِّرٍ.",
       "translation": "Džamije ostaju otvorene do kasno.",
-      "translationEn": "Mosques stay open until late."
+      "translationEn": "Mosques stay open until late.",
+      "words": [
+        { "w": "تَبْقَى", "root": "ب ق ي", "bs": "ostaju", "en": "stay" },
+        { "w": "المَسَاجِدُ", "root": "س ج د", "bs": "džamije", "en": "mosques" },
+        { "w": "مَفْتُوحَةً", "root": "ف ت ح", "bs": "otvorene", "en": "open" },
+        { "w": "مُتَأَخِّرٍ", "root": "أ خ ر", "bs": "kasno", "en": "late" }
+      ]
     },
     {
       "arabic": "يَخْرُجُ النَّاسُ لِلتَّنَزُّهِ بَعْدَ الإِفْطَارِ.",
       "translation": "Ljudi izlaze u šetnju nakon iftara.",
-      "translationEn": "People go for a walk after iftar."
+      "translationEn": "People go for a walk after iftar.",
+      "words": [
+        { "w": "يَخْرُجُ", "root": "خ ر ج", "bs": "izlaze", "en": "go out" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "لِلتَّنَزُّهِ", "root": "ن ز هـ", "bs": "u šetnju", "en": "for a walk" },
+        { "w": "الإِفْطَارِ", "root": "ف ط ر", "bs": "iftara", "en": "iftar" }
+      ]
     },
     {
       "arabic": "الأَسْوَاقُ مُضِيئَةٌ وَمُزَيَّنَةٌ فِي رَمَضَانَ.",
       "translation": "Tržnice su osvjetljene i ukrašene u Ramazanu.",
-      "translationEn": "Markets are lit up and decorated during Ramadan."
+      "translationEn": "Markets are lit up and decorated during Ramadan.",
+      "words": [
+        { "w": "الأَسْوَاقُ", "root": "س و ق", "bs": "tržnice", "en": "markets" },
+        { "w": "مُضِيئَةٌ", "root": "ض و أ", "bs": "osvjetljene", "en": "lit up" },
+        { "w": "مُزَيَّنَةٌ", "root": "ز ي ن", "bs": "ukrašene", "en": "decorated" }
+      ]
     }
   ],
   "metadata": {

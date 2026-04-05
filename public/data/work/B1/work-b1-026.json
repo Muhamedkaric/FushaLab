@@ -6,22 +6,49 @@
     {
       "arabic": "تَأَخَّرَ أَدْهَمُ عَنِ الْعَمَلِ بِسَبَبِ الزِّحَامِ فِي الطَّرِيقِ.",
       "translation": "Adhem je zakasnio na posao zbog gužve na putu.",
-      "translationEn": "Adham was late to work because of traffic on the road."
+      "translationEn": "Adham was late to work because of traffic on the road.",
+      "words": [
+        { "w": "تَأَخَّرَ", "root": "أ خ ر", "bs": "zakasnio je/kasnio", "en": "was late" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" },
+        { "w": "الزِّحَامِ", "root": "ز ح م", "bs": "gužva/saobraćaj", "en": "traffic/congestion" },
+        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put/cesta", "en": "road/way" }
+      ]
     },
     {
       "arabic": "اتَّصَلَ بِمُدِيرِهِ وَأَخْبَرَهُ بِالسَّبَبِ.",
       "translation": "Nazvao je direktora i obavijestio ga o razlogu.",
-      "translationEn": "He called his manager and told him the reason."
+      "translationEn": "He called his manager and told him the reason.",
+      "words": [
+        { "w": "اتَّصَلَ", "root": "و ص ل", "bs": "nazvao je/kontaktirao", "en": "called" },
+        { "w": "بِمُدِيرِهِ", "root": "د و ر", "bs": "svog direktora", "en": "his manager" },
+        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "obavijestio ga je", "en": "told him" },
+        { "w": "بِالسَّبَبِ", "root": "س ب ب", "bs": "razlog/uzrok", "en": "the reason" }
+      ]
     },
     {
       "arabic": "قَالَ الْمُدِيرُ لَا مُشْكِلَةَ وَطَلَبَ مِنْهُ الْحُضُورَ بِسُرْعَةٍ.",
       "translation": "Direktor je rekao nema problema i zamolio ga da dođe brzo.",
-      "translationEn": "The manager said no problem and asked him to come quickly."
+      "translationEn": "The manager said no problem and asked him to come quickly.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
+        { "w": "مُشْكِلَةَ", "root": "ش ك ل", "bs": "problem", "en": "problem" },
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je/tražio", "en": "asked" },
+        { "w": "الْحُضُورَ", "root": "ح ض ر", "bs": "dolazak/prisustvo", "en": "coming/presence" }
+      ]
     },
     {
       "arabic": "وَصَلَ أَدْهَمُ وَعَمِلَ بِجُهْدٍ لِيُعَوِّضَ الْوَقْتَ الضَّائِعَ.",
       "translation": "Adhem je stigao i marljivo radio da nadoknadi izgubljeno vrijeme.",
-      "translationEn": "Adham arrived and worked hard to make up for the lost time."
+      "translationEn": "Adham arrived and worked hard to make up for the lost time.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "عَمِلَ", "root": "ع م ل", "bs": "radio je", "en": "worked" },
+        { "w": "بِجُهْدٍ", "root": "ج ه د", "bs": "marljivo/s trudom", "en": "hard/with effort" },
+        { "w": "يُعَوِّضَ", "root": "ع و ض", "bs": "da nadoknadi", "en": "to make up for" },
+        { "w": "الْوَقْتَ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "الضَّائِعَ", "root": "ض ي ع", "bs": "izgubljenog", "en": "lost" }
+      ]
     }
   ],
   "metadata": {

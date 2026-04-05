@@ -6,27 +6,57 @@
     {
       "arabic": "طَلَبَتِ المُعَلِّمَةُ مِنَ الطُّلَّابِ إِحْضَارَ صُوَرِ عَائِلَاتِهِمْ.",
       "translation": "Nastavnica je zamolila učenike da donesu slike svojih porodica.",
-      "translationEn": "The teacher asked the students to bring pictures of their families."
+      "translationEn": "The teacher asked the students to bring pictures of their families.",
+      "words": [
+        { "w": "طَلَبَتِ", "root": "ط ل ب", "bs": "zamolila je", "en": "asked" },
+        { "w": "المُعَلِّمَةُ", "root": "ع ل م", "bs": "nastavnica", "en": "teacher" },
+        { "w": "إِحْضَارَ", "root": "ح ض ر", "bs": "donošenje", "en": "to bring" },
+        { "w": "صُوَرِ", "root": "ص و ر", "bs": "slike", "en": "pictures" },
+        { "w": "عَائِلَاتِهِمْ", "root": "ع ي ل", "bs": "njihove porodice", "en": "their families" }
+      ]
     },
     {
       "arabic": "عَرَضَ كُلُّ طَالِبٍ صُورَتَهُ وَتَحَدَّثَ عَنْ عَائِلَتِهِ.",
       "translation": "Svaki učenik je pokazao svoju sliku i pričao o porodici.",
-      "translationEn": "Each student showed their picture and talked about their family."
+      "translationEn": "Each student showed their picture and talked about their family.",
+      "words": [
+        { "w": "عَرَضَ", "root": "ع ر ض", "bs": "pokazao je", "en": "showed" },
+        { "w": "صُورَتَهُ", "root": "ص و ر", "bs": "njegova slika", "en": "their picture" },
+        { "w": "تَحَدَّثَ", "root": "ح د ث", "bs": "pričao je", "en": "talked" },
+        { "w": "عَائِلَتِهِ", "root": "ع ي ل", "bs": "njegova porodica", "en": "their family" }
+      ]
     },
     {
       "arabic": "اسْتَمَعَ الطُّلَّابُ بِاهْتِمَامٍ لِزُمَلَائِهِمْ.",
       "translation": "Učenici su s pažnjom slušali svoje drugove.",
-      "translationEn": "The students listened attentively to their classmates."
+      "translationEn": "The students listened attentively to their classmates.",
+      "words": [
+        { "w": "اسْتَمَعَ", "root": "س م ع", "bs": "slušali su", "en": "listened" },
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "اهْتِمَامٍ", "root": "ه م م", "bs": "pažnja", "en": "attention" },
+        { "w": "زُمَلَائِهِمْ", "root": "ز م ل", "bs": "njihovi drugovi", "en": "their classmates" }
+      ]
     },
     {
       "arabic": "كَانَ النَّشَاطُ مُمْتِعًا وَتَعَرَّفُوا عَلَى بَعْضِهِمْ أَكْثَرَ.",
       "translation": "Aktivnost je bila zabavna i bolje su se upoznali.",
-      "translationEn": "The activity was fun and they got to know each other better."
+      "translationEn": "The activity was fun and they got to know each other better.",
+      "words": [
+        { "w": "النَّشَاطُ", "root": "ن ش ط", "bs": "aktivnost", "en": "activity" },
+        { "w": "مُمْتِعًا", "root": "م ت ع", "bs": "zabavna", "en": "fun" },
+        { "w": "تَعَرَّفُوا", "root": "ع ر ف", "bs": "upoznali su se", "en": "got to know" }
+      ]
     },
     {
       "arabic": "شَكَرَ الطُّلَّابُ المُعَلِّمَةَ عَلَى هَذِهِ الفِكْرَةِ الجَمِيلَةِ.",
       "translation": "Učenici su zahvalili nastavnici na ovoj lijepoj ideji.",
-      "translationEn": "The students thanked the teacher for this beautiful idea."
+      "translationEn": "The students thanked the teacher for this beautiful idea.",
+      "words": [
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalili su", "en": "thanked" },
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "الفِكْرَةِ", "root": "ف ك ر", "bs": "ideja", "en": "idea" },
+        { "w": "الجَمِيلَةِ", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" }
+      ]
     }
   ],
   "metadata": {

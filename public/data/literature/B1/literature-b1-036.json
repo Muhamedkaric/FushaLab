@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَتْ لَيْلَةُ الْعِيدِ لَيْلَةً مُبَهِجَةً فِي الْحَيِّ.",
       "translation": "Noć uoči praznika bila je radosna noć u kvartu.",
-      "translationEn": "The eve of the holiday was a joyful night in the neighborhood."
+      "translationEn": "The eve of the holiday was a joyful night in the neighborhood.",
+      "words": [
+        { "w": "لَيْلَةُ", "root": "ل ي ل", "bs": "noć/večer", "en": "night/eve" },
+        { "w": "الْعِيدِ", "root": "ع و د", "bs": "praznik/bajram", "en": "holiday/feast" },
+        { "w": "مُبَهِجَةً", "root": "ب ه ج", "bs": "radosna/vesela", "en": "joyful" },
+        { "w": "الْحَيِّ", "root": "ح ي ي", "bs": "kvart/mahala", "en": "neighborhood" }
+      ]
     },
     {
       "arabic": "خَرَجَ الأَطْفَالُ بِمَلَابِسَ جَدِيدَةٍ وَوُجُوهٍ مُبْتَسِمَةٍ.",
       "translation": "Djeca su izašla u novoj odjeći i s nasmiješenim licima.",
-      "translationEn": "Children went out in new clothes and with smiling faces."
+      "translationEn": "Children went out in new clothes and with smiling faces.",
+      "words": [
+        { "w": "خَرَجَ", "root": "خ ر ج", "bs": "izašla su", "en": "went out" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "مَلَابِسَ", "root": "ل ب س", "bs": "odjeća", "en": "clothes" },
+        { "w": "جَدِيدَةٍ", "root": "ج د د", "bs": "nova", "en": "new" },
+        { "w": "مُبْتَسِمَةٍ", "root": "ب س م", "bs": "nasmiješena", "en": "smiling" }
+      ]
     },
     {
       "arabic": "تَبَادَلَ الْجِيرَانُ التَّهَانِيَ وَالْحَلْوَى.",
       "translation": "Komšije su razmjenjivali čestitke i slatkiše.",
-      "translationEn": "Neighbors exchanged greetings and sweets."
+      "translationEn": "Neighbors exchanged greetings and sweets.",
+      "words": [
+        { "w": "تَبَادَلَ", "root": "ب د ل", "bs": "razmjenjivali su", "en": "exchanged" },
+        { "w": "الْجِيرَانُ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
+        { "w": "التَّهَانِيَ", "root": "ه ن أ", "bs": "čestitke", "en": "greetings/congratulations" },
+        { "w": "الْحَلْوَى", "root": "ح ل و", "bs": "slatkiši", "en": "sweets" }
+      ]
     },
     {
       "arabic": "بَقِيَ الْجَمِيعُ فِي الشَّارِعِ حَتَّى وَقْتٍ مُتَأَخِّرٍ مِنَ اللَّيْلِ.",
       "translation": "Svi su ostali na ulici do kasno u noć.",
-      "translationEn": "Everyone stayed in the street until late at night."
+      "translationEn": "Everyone stayed in the street until late at night.",
+      "words": [
+        { "w": "بَقِيَ", "root": "ب ق ي", "bs": "ostali su", "en": "stayed" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" },
+        { "w": "مُتَأَخِّرٍ", "root": "أ خ ر", "bs": "kasno", "en": "late" },
+        { "w": "اللَّيْلِ", "root": "ل ي ل", "bs": "noć", "en": "night" }
+      ]
     }
   ],
   "metadata": {

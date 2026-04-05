@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَتِ الثَّعَالِبُ وَالأَرَانِبُ لَا تَتَكَلَّمُ مَعَ بَعْضِهَا فِي الْغَابَةِ.",
       "translation": "Lisice i zečevi se nisu razgovarali jedni s drugima u šumi.",
-      "translationEn": "The foxes and rabbits did not speak to each other in the forest."
+      "translationEn": "The foxes and rabbits did not speak to each other in the forest.",
+      "words": [
+        { "w": "الثَّعَالِبُ", "root": "ث ع ل", "bs": "lisice", "en": "foxes" },
+        { "w": "الأَرَانِبُ", "root": "أ ر ن", "bs": "zečevi", "en": "rabbits" },
+        { "w": "تَتَكَلَّمُ", "root": "ك ل م", "bs": "razgovarali su", "en": "speak" },
+        { "w": "الْغَابَةِ", "root": "غ ي ب", "bs": "šuma", "en": "forest" }
+      ]
     },
     {
       "arabic": "ذَاتَ يَوْمٍ جَاءَ مَطَرٌ شَدِيدٌ وَفَاضَ النَّهْرُ.",
       "translation": "Jednog dana je pala jaka kiša i rijeka se prelila.",
-      "translationEn": "One day heavy rain came and the river overflowed."
+      "translationEn": "One day heavy rain came and the river overflowed.",
+      "words": [
+        { "w": "مَطَرٌ", "root": "م ط ر", "bs": "kiša", "en": "rain" },
+        { "w": "شَدِيدٌ", "root": "ش د د", "bs": "jaka", "en": "heavy" },
+        { "w": "فَاضَ", "root": "ف ي ض", "bs": "prelila se", "en": "overflowed" },
+        { "w": "النَّهْرُ", "root": "ن ه ر", "bs": "rijeka", "en": "river" }
+      ]
     },
     {
       "arabic": "عَمِلَ الثَّعَالِبُ وَالأَرَانِبُ مَعًا لِبِنَاءِ سَدٍّ صَغِيرٍ.",
       "translation": "Lisice i zečevi su zajedno radili na izgradnji male brane.",
-      "translationEn": "The foxes and rabbits worked together to build a small dam."
+      "translationEn": "The foxes and rabbits worked together to build a small dam.",
+      "words": [
+        { "w": "عَمِلَ", "root": "ع م ل", "bs": "radili su", "en": "worked" },
+        { "w": "الثَّعَالِبُ", "root": "ث ع ل", "bs": "lisice", "en": "foxes" },
+        { "w": "الأَرَانِبُ", "root": "أ ر ن", "bs": "zečevi", "en": "rabbits" },
+        { "w": "لِبِنَاءِ", "root": "ب ن ي", "bs": "izgradnja", "en": "to build" },
+        { "w": "سَدٍّ", "root": "س د د", "bs": "brana", "en": "dam" }
+      ]
     },
     {
       "arabic": "بَعْدَ ذَلِكَ أَصْبَحُوا جِيرَانًا طَيِّبِينَ.",
       "translation": "Nakon toga su postali dobri susjedi.",
-      "translationEn": "After that they became good neighbors."
+      "translationEn": "After that they became good neighbors.",
+      "words": [
+        { "w": "أَصْبَحُوا", "root": "ص ب ح", "bs": "postali su", "en": "became" },
+        { "w": "جِيرَانًا", "root": "ج و ر", "bs": "susjedi", "en": "neighbors" },
+        { "w": "طَيِّبِينَ", "root": "ط ي ب", "bs": "dobri", "en": "good" }
+      ]
     }
   ],
   "metadata": {

@@ -6,27 +6,53 @@
     {
       "arabic": "قَابَلَ سَامِيٌّ صَدِيقَهُ كَرِيمًا فِي الشَّارِعِ.",
       "translation": "Sami je sreo svog prijatelja Karima na ulici.",
-      "translationEn": "Sami met his friend Karim on the street."
+      "translationEn": "Sami met his friend Karim on the street.",
+      "words": [
+        { "w": "قَابَلَ", "root": "ق ب ل", "bs": "sreo je", "en": "met" },
+        { "w": "صَدِيقَهُ", "root": "ص د ق", "bs": "prijatelja", "en": "friend" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulici", "en": "street" }
+      ]
     },
     {
       "arabic": "سَلَّمَ عَلَيْهِ وَصَافَحَهُ بِحَفَاوَةٍ.",
       "translation": "Pozdravio ga je i toplo mu se rukovao.",
-      "translationEn": "He greeted him and shook his hand warmly."
+      "translationEn": "He greeted him and shook his hand warmly.",
+      "words": [
+        { "w": "سَلَّمَ", "root": "س ل م", "bs": "pozdravio je", "en": "greeted" },
+        { "w": "صَافَحَهُ", "root": "ص ف ح", "bs": "rukovao se s njim", "en": "shook his hand" },
+        { "w": "بِحَفَاوَةٍ", "root": "ح ف و", "bs": "toplo", "en": "warmly" }
+      ]
     },
     {
       "arabic": "سَأَلَهُ عَنْ أَحْوَالِهِ وَعَنْ عَائِلَتِهِ.",
       "translation": "Pitao ga je kako je i kako mu je porodica.",
-      "translationEn": "He asked him about his well-being and his family."
+      "translationEn": "He asked him about his well-being and his family.",
+      "words": [
+        { "w": "سَأَلَهُ", "root": "س أ ل", "bs": "pitao ga je", "en": "asked him" },
+        { "w": "أَحْوَالِهِ", "root": "ح و ل", "bs": "kako je", "en": "well-being" },
+        { "w": "عَائِلَتِهِ", "root": "ع و ل", "bs": "porodicu", "en": "family" }
+      ]
     },
     {
       "arabic": "قَالَ كَرِيمٌ إِنَّهُ بِخَيْرٍ وَالحَمْدُ لِلَّهِ.",
       "translation": "Karim je rekao da je dobro, hvala Bogu.",
-      "translationEn": "Karim said he is well, praise be to God."
+      "translationEn": "Karim said he is well, praise be to God.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "بِخَيْرٍ", "root": "خ ي ر", "bs": "dobro", "en": "well" },
+        { "w": "الحَمْدُ", "root": "ح م د", "bs": "hvala", "en": "praise" }
+      ]
     },
     {
       "arabic": "اتَّفَقَا عَلَى الاجْتِمَاعِ فِي المَقْهَى غَدًا.",
       "translation": "Dogovorili su se da se nađu u kafeu sutra.",
-      "translationEn": "They agreed to meet at the café tomorrow."
+      "translationEn": "They agreed to meet at the café tomorrow.",
+      "words": [
+        { "w": "اتَّفَقَا", "root": "و ف ق", "bs": "dogovorili su se", "en": "agreed" },
+        { "w": "الاجْتِمَاعِ", "root": "ج م ع", "bs": "susretu", "en": "meeting" },
+        { "w": "المَقْهَى", "root": "ق هـ و", "bs": "kafeu", "en": "café" },
+        { "w": "غَدًا", "root": "غ د و", "bs": "sutra", "en": "tomorrow" }
+      ]
     }
   ],
   "metadata": {

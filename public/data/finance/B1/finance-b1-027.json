@@ -6,27 +6,54 @@
     {
       "arabic": "طَلَبَتْ دِيمَةُ مِنْ أُمِّهَا نُقُودًا لِشِرَاءِ طَعَامٍ فِي المَدْرَسَةِ.",
       "translation": "Dima je tražila od majke novac za hranu u školi.",
-      "translationEn": "Dima asked her mother for money to buy food at school."
+      "translationEn": "Dima asked her mother for money to buy food at school.",
+      "words": [
+        { "w": "طَلَبَتْ", "root": "ط ل ب", "bs": "tražila je", "en": "asked" },
+        { "w": "نُقُودًا", "root": "ن ق د", "bs": "novac", "en": "money" },
+        { "w": "لِشِرَاءِ", "root": "ش ر ي", "bs": "za kupovinu", "en": "to buy" },
+        { "w": "طَعَامٍ", "root": "ط ع م", "bs": "hrana", "en": "food" }
+      ]
     },
     {
       "arabic": "أَعْطَتْهَا الأُمُّ مَبْلَغًا كَافِيًا لِلْوَجْبَةِ.",
       "translation": "Majka joj je dala dovoljan iznos za obrok.",
-      "translationEn": "The mother gave her enough money for the meal."
+      "translationEn": "The mother gave her enough money for the meal.",
+      "words": [
+        { "w": "أَعْطَتْهَا", "root": "ع ط و", "bs": "dala joj je", "en": "gave her" },
+        { "w": "مَبْلَغًا", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
+        { "w": "كَافِيًا", "root": "ك ف ي", "bs": "dovoljan", "en": "enough" },
+        { "w": "الوَجْبَةِ", "root": "و ج ب", "bs": "obrok", "en": "meal" }
+      ]
     },
     {
       "arabic": "اشْتَرَتْ دِيمَةُ سَاندوِيشًا وَعَصِيرًا.",
       "translation": "Dima je kupila sendvič i sok.",
-      "translationEn": "Dima bought a sandwich and juice."
+      "translationEn": "Dima bought a sandwich and juice.",
+      "words": [
+        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "سَاندوِيشًا", "root": "", "bs": "sendvič", "en": "sandwich" },
+        { "w": "عَصِيرًا", "root": "ع ص ر", "bs": "sok", "en": "juice" }
+      ]
     },
     {
       "arabic": "بَقِيَ مَعَهَا بَعْضُ النُّقُودِ فَأَعَادَتْهَا لِأُمِّهَا.",
       "translation": "Ostalo joj je nešto novca pa ga je vratila majci.",
-      "translationEn": "She had some money left so she returned it to her mother."
+      "translationEn": "She had some money left so she returned it to her mother.",
+      "words": [
+        { "w": "بَقِيَ", "root": "ب ق ي", "bs": "ostalo je", "en": "was left" },
+        { "w": "النُّقُودِ", "root": "ن ق د", "bs": "novac", "en": "money" },
+        { "w": "أَعَادَتْهَا", "root": "ع و د", "bs": "vratila ga je", "en": "returned it" }
+      ]
     },
     {
       "arabic": "مَدَحَتِ الأُمُّ ابْنَتَهَا عَلَى أَمَانَتِهَا.",
       "translation": "Majka je pohvalila kćer zbog poštenja.",
-      "translationEn": "The mother praised her daughter for her honesty."
+      "translationEn": "The mother praised her daughter for her honesty.",
+      "words": [
+        { "w": "مَدَحَتِ", "root": "م د ح", "bs": "pohvalila je", "en": "praised" },
+        { "w": "ابْنَتَهَا", "root": "ب ن ي", "bs": "njena kćer", "en": "her daughter" },
+        { "w": "أَمَانَتِهَا", "root": "أ م ن", "bs": "njeno poštenje", "en": "her honesty" }
+      ]
     }
   ],
   "metadata": {

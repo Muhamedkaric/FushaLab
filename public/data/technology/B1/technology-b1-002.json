@@ -6,22 +6,42 @@
     {
       "arabic": "اتَّصَلَ رَامِي بِأُمِّهِ عَبْرَ الْهَاتِفِ.",
       "translation": "Rami je nazvao majku telefonom.",
-      "translationEn": "Rami called his mother on the phone."
+      "translationEn": "Rami called his mother on the phone.",
+      "words": [
+        { "w": "اتَّصَلَ", "root": "و ص ل", "bs": "nazvao je", "en": "called" },
+        { "w": "أُمِّهِ", "root": "أ م م", "bs": "svojoj majci", "en": "his mother" },
+        { "w": "الْهَاتِفِ", "root": "ه ت ف", "bs": "telefonu", "en": "the phone" }
+      ]
     },
     {
       "arabic": "أَخْبَرَهَا أَنَّهُ وَصَلَ بِسَلَامَةٍ.",
       "translation": "Obavijestio ju je da je stigao sigurno.",
-      "translationEn": "He told her that he arrived safely."
+      "translationEn": "He told her that he arrived safely.",
+      "words": [
+        { "w": "أَخْبَرَهَا", "root": "خ ب ر", "bs": "obavijestio je", "en": "told her" },
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "سَلَامَةٍ", "root": "س ل م", "bs": "sigurno", "en": "safely" }
+      ]
     },
     {
       "arabic": "كَانَتْ سَعِيدَةً حِينَ سَمِعَتْ صَوْتَهُ.",
       "translation": "Bila je sretna kad je čula njegov glas.",
-      "translationEn": "She was happy when she heard his voice."
+      "translationEn": "She was happy when she heard his voice.",
+      "words": [
+        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
+        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "čula je", "en": "heard" },
+        { "w": "صَوْتَهُ", "root": "ص و ت", "bs": "njegov glas", "en": "his voice" }
+      ]
     },
     {
       "arabic": "تَحَدَّثَا قَلِيلًا ثُمَّ قَالَا مَعَ السَّلَامَةِ.",
       "translation": "Malo su razgovarali pa se pozdravili.",
-      "translationEn": "They talked a little then said goodbye."
+      "translationEn": "They talked a little then said goodbye.",
+      "words": [
+        { "w": "تَحَدَّثَا", "root": "ح د ث", "bs": "razgovarali su", "en": "they talked" },
+        { "w": "قَلِيلًا", "root": "ق ل ل", "bs": "malo", "en": "a little" },
+        { "w": "السَّلَامَةِ", "root": "س ل م", "bs": "zbogom", "en": "goodbye" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,45 @@
     {
       "arabic": "حَجَزَ مُحَمَّدٌ مَوْعِدًا عِنْدَ الطَّبِيبِ.",
       "translation": "Muhamed je zakazao termin kod ljekara.",
-      "translationEn": "Mohammed booked an appointment with the doctor."
+      "translationEn": "Mohammed booked an appointment with the doctor.",
+      "words": [
+        { "w": "حَجَزَ", "root": "ح ج ز", "bs": "zakazao je", "en": "booked" },
+        { "w": "مَوْعِدًا", "root": "و ع د", "bs": "termin", "en": "appointment" },
+        { "w": "الطَّبِيبِ", "root": "ط ب ب", "bs": "ljekara", "en": "doctor" }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَى العِيَادَةِ فِي الوَقْتِ المُحَدَّدِ.",
       "translation": "Otišao je u ambulantu u zakazano vrijeme.",
-      "translationEn": "He went to the clinic at the scheduled time."
+      "translationEn": "He went to the clinic at the scheduled time.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ هـ ب", "bs": "otišao je", "en": "went" },
+        { "w": "العِيَادَةِ", "root": "ع و د", "bs": "ambulantu", "en": "clinic" },
+        { "w": "الوَقْتِ", "root": "و ق ت", "bs": "vremenu", "en": "time" },
+        { "w": "المُحَدَّدِ", "root": "ح د د", "bs": "zakazanom", "en": "scheduled" }
+      ]
     },
     {
       "arabic": "أَخْبَرَ الطَّبِيبَ عَنْ أَلَمِهِ فِي الرَّأْسِ.",
       "translation": "Rekao je ljekaru o bolovima u glavi.",
-      "translationEn": "He told the doctor about his headache."
+      "translationEn": "He told the doctor about his headache.",
+      "words": [
+        { "w": "أَخْبَرَ", "root": "خ ب ر", "bs": "rekao je", "en": "told" },
+        { "w": "الطَّبِيبَ", "root": "ط ب ب", "bs": "ljekaru", "en": "doctor" },
+        { "w": "أَلَمِهِ", "root": "أ ل م", "bs": "bolovima", "en": "pain" },
+        { "w": "الرَّأْسِ", "root": "ر أ س", "bs": "glavi", "en": "head" }
+      ]
     },
     {
       "arabic": "فَحَصَهُ الطَّبِيبُ وَكَتَبَ لَهُ دَوَاءً.",
       "translation": "Ljekar ga je pregledao i napisao mu lijek.",
-      "translationEn": "The doctor examined him and wrote him a prescription."
+      "translationEn": "The doctor examined him and wrote him a prescription.",
+      "words": [
+        { "w": "فَحَصَهُ", "root": "ف ح ص", "bs": "pregledao ga je", "en": "examined him" },
+        { "w": "الطَّبِيبُ", "root": "ط ب ب", "bs": "ljekar", "en": "doctor" },
+        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
+        { "w": "دَوَاءً", "root": "د و ي", "bs": "lijek", "en": "medicine" }
+      ]
     }
   ],
   "metadata": {

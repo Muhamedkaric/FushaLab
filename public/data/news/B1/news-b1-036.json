@@ -6,26 +6,134 @@
     {
       "arabic": "نَظَّمَ النَّادِي الثَّقَافِيُّ رِحْلَةً إِلَى الْجَبَلِ.",
       "translation": "Kulturni klub organizovao je izlet na planinu.",
-      "translationEn": "The cultural club organized a trip to the mountain."
+      "translationEn": "The cultural club organized a trip to the mountain.",
+      "words": [
+        {
+          "w": "النَّادِي",
+          "root": "ن د و",
+          "bs": "klub",
+          "en": "club"
+        },
+        {
+          "w": "الثَّقَافِيُّ",
+          "root": "ث ق ف",
+          "bs": "kulturni",
+          "en": "cultural"
+        },
+        {
+          "w": "رِحْلَةً",
+          "root": "ر ح ل",
+          "bs": "izlet",
+          "en": "trip"
+        },
+        {
+          "w": "الْجَبَلِ",
+          "root": "ج ب ل",
+          "bs": "planinu",
+          "en": "mountain"
+        }
+      ]
     },
     {
       "arabic": "مَشَى الْمُشَارِكُونَ لِسَاعَتَيْنِ وَاسْتَمْتَعُوا بِالطَّبِيعَةِ.",
       "translation": "Učesnici su hodali dva sata i uživali u prirodi.",
-      "translationEn": "The participants walked for two hours and enjoyed nature."
+      "translationEn": "The participants walked for two hours and enjoyed nature.",
+      "words": [
+        {
+          "w": "مَشَى",
+          "root": "م ش ي",
+          "bs": "hodao je",
+          "en": "walked"
+        },
+        {
+          "w": "الْمُشَارِكُونَ",
+          "root": "ش ر ك",
+          "bs": "učesnici",
+          "en": "participants"
+        },
+        {
+          "w": "اسْتَمْتَعُوا",
+          "root": "م ت ع",
+          "bs": "uživali su",
+          "en": "enjoyed"
+        },
+        {
+          "w": "الطَّبِيعَةِ",
+          "root": "ط ب ع",
+          "bs": "prirodi",
+          "en": "nature"
+        }
+      ]
     },
     {
       "arabic": "الْتَقَطَ الْجَمِيعُ صُوَرًا جَمِيلَةً مِنَ الْقِمَّةِ.",
       "translation": "Svi su slikali lijepe fotografije s vrha.",
-      "translationEn": "Everyone took beautiful photos from the summit."
+      "translationEn": "Everyone took beautiful photos from the summit.",
+      "words": [
+        {
+          "w": "الْتَقَطَ",
+          "root": "ل ق ط",
+          "bs": "fotografisao je",
+          "en": "took photos"
+        },
+        {
+          "w": "صُوَرًا",
+          "root": "ص و ر",
+          "bs": "fotografije",
+          "en": "photos"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijepe",
+          "en": "beautiful"
+        },
+        {
+          "w": "الْقِمَّةِ",
+          "root": "ق م م",
+          "bs": "vrha",
+          "en": "summit"
+        }
+      ]
     },
     {
       "arabic": "أَكَلُوا الْغَدَاءَ فِي الطَّبِيعَةِ وَعَادُوا مَسَاءً.",
       "translation": "Ručali su u prirodi i vratili se navečer.",
-      "translationEn": "They had lunch in nature and returned in the evening."
+      "translationEn": "They had lunch in nature and returned in the evening.",
+      "words": [
+        {
+          "w": "أَكَلُوا",
+          "root": "أ ك ل",
+          "bs": "jeli su",
+          "en": "ate"
+        },
+        {
+          "w": "الْغَدَاءَ",
+          "root": "غ د و",
+          "bs": "ručak",
+          "en": "lunch"
+        },
+        {
+          "w": "الطَّبِيعَةِ",
+          "root": "ط ب ع",
+          "bs": "prirodi",
+          "en": "nature"
+        },
+        {
+          "w": "عَادُوا",
+          "root": "ع و د",
+          "bs": "vratili su se",
+          "en": "returned"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["nature", "hiking", "culture"]
+    "tags": [
+      "nature",
+      "hiking",
+      "culture"
+    ]
   }
 }

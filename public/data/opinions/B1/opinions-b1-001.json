@@ -6,22 +6,48 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ الْقِرَاءَةَ مُهِمَّةٌ جِدًّا فِي حَيَاةِ الْإِنْسَانِ.",
       "translation": "Smatram da je čitanje veoma važno u životu čovjeka.",
-      "translationEn": "I believe that reading is very important in a person's life."
+      "translationEn": "I believe that reading is very important in a person's life.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "الْقِرَاءَةَ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" },
+        { "w": "مُهِمَّةٌ", "root": "ه م م", "bs": "važno", "en": "important" },
+        { "w": "حَيَاةِ", "root": "ح ي ي", "bs": "životu", "en": "life" },
+        { "w": "الْإِنْسَانِ", "root": "أ ن س", "bs": "čovjeka", "en": "person" }
+      ]
     },
     {
       "arabic": "تُفِيدُنَا الْقِرَاءَةُ فِي تَعَلُّمِ أَشْيَاءَ جَدِيدَةٍ كُلَّ يَوْمٍ.",
       "translation": "Čitanje nam pomaže da svaki dan naučimo nove stvari.",
-      "translationEn": "Reading helps us to learn new things every day."
+      "translationEn": "Reading helps us to learn new things every day.",
+      "words": [
+        { "w": "تُفِيدُنَا", "root": "ف ي د", "bs": "pomaže nam", "en": "helps us" },
+        { "w": "الْقِرَاءَةُ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" },
+        { "w": "تَعَلُّمِ", "root": "ع ل م", "bs": "učenju", "en": "learning" },
+        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "جَدِيدَةٍ", "root": "ج د د", "bs": "nove", "en": "new" }
+      ]
     },
     {
       "arabic": "مَنْ يَقْرَأُ كَثِيرًا يَتَكَلَّمُ بِشَكْلٍ أَفْضَلَ.",
       "translation": "Ko puno čita, bolje govori.",
-      "translationEn": "A person who reads a lot speaks better."
+      "translationEn": "A person who reads a lot speaks better.",
+      "words": [
+        { "w": "يَقْرَأُ", "root": "ق ر أ", "bs": "čita", "en": "reads" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "puno", "en": "a lot" },
+        { "w": "يَتَكَلَّمُ", "root": "ك ل م", "bs": "govori", "en": "speaks" },
+        { "w": "أَفْضَلَ", "root": "ف ض ل", "bs": "bolje", "en": "better" }
+      ]
     },
     {
       "arabic": "أُحِبُّ أَنْ أَقْرَأَ كِتَابًا كُلَّ أُسْبُوعٍ.",
       "translation": "Volim svake sedmice pročitati jednu knjigu.",
-      "translationEn": "I like to read a book every week."
+      "translationEn": "I like to read a book every week.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "أَقْرَأَ", "root": "ق ر أ", "bs": "čitati", "en": "to read" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjigu", "en": "book" },
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmice", "en": "week" }
+      ]
     }
   ],
   "metadata": {

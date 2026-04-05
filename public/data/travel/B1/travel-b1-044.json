@@ -6,22 +6,46 @@
     {
       "arabic": "أَخَذَتِ الرِّيحُ قُبَّعَةَ الطِّفْلِ عَلَى الشَّاطِئِ.",
       "translation": "Vjetar je odnio dječakovu kapu na plaži.",
-      "translationEn": "The wind took the child's hat on the beach."
+      "translationEn": "The wind took the child's hat on the beach.",
+      "words": [
+        { "w": "الرِّيحُ", "root": "ر و ح", "bs": "vjetar", "en": "wind" },
+        { "w": "قُبَّعَةَ", "root": "ق ب ع", "bs": "kapa", "en": "hat" },
+        { "w": "الطِّفْلِ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plaža", "en": "beach" }
+      ]
     },
     {
       "arabic": "رَكَضَ الطِّفْلُ خَلْفَهَا وَلَكِنَّهَا وَقَعَتْ فِي الْبَحْرِ.",
       "translation": "Dijete je trčalo za njom ali je pala u more.",
-      "translationEn": "The child ran after it but it fell into the sea."
+      "translationEn": "The child ran after it but it fell into the sea.",
+      "words": [
+        { "w": "رَكَضَ", "root": "ر ك ض", "bs": "trčao je", "en": "ran" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "وَقَعَتْ", "root": "و ق ع", "bs": "pala je", "en": "fell" },
+        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" }
+      ]
     },
     {
       "arabic": "ضَحِكَ الطِّفْلُ وَقَالَ: ذَهَبَتِ الْقُبَّعَةُ!",
       "translation": "Dijete se nasmijalo i reklo: Kapa je otišla!",
-      "translationEn": "The child laughed and said: The hat is gone!"
+      "translationEn": "The child laughed and said: The hat is gone!",
+      "words": [
+        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijao se", "en": "laughed" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "ذَهَبَتِ", "root": "ذ ه ب", "bs": "otišla je", "en": "went / is gone" },
+        { "w": "الْقُبَّعَةُ", "root": "ق ب ع", "bs": "kapa", "en": "hat" }
+      ]
     },
     {
       "arabic": "اشْتَرَى لَهُ أَبُوهُ قُبَّعَةً جَدِيدَةً مِنَ الدُّكَّانِ.",
       "translation": "Otac mu je kupio novu kapu u prodavnici.",
-      "translationEn": "His father bought him a new hat from the shop."
+      "translationEn": "His father bought him a new hat from the shop.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "قُبَّعَةً", "root": "ق ب ع", "bs": "kapa", "en": "hat" },
+        { "w": "جَدِيدَةً", "root": "ج د د", "bs": "nova", "en": "new" },
+        { "w": "الدُّكَّانِ", "root": "د ك ن", "bs": "prodavnica", "en": "shop" }
+      ]
     }
   ],
   "metadata": {

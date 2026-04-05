@@ -6,22 +6,46 @@
     {
       "arabic": "أَخْطَأَ يُوسُفُ فِي الِامْتِحَانِ وَشَعَرَ بِالْإِحْبَاطِ.",
       "translation": "Jusuf je pogriješio na ispitu i osjetio razočaranje.",
-      "translationEn": "Yusuf made mistakes on the exam and felt frustrated."
+      "translationEn": "Yusuf made mistakes on the exam and felt frustrated.",
+      "words": [
+        { "w": "أَخْطَأَ", "root": "خ ط أ", "bs": "pogriješio je", "en": "made mistakes" },
+        { "w": "الِامْتِحَانِ", "root": "م ح ن", "bs": "ispit", "en": "the exam" },
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
+        { "w": "الْإِحْبَاطِ", "root": "ح ب ط", "bs": "razočaranje", "en": "frustration" }
+      ]
     },
     {
       "arabic": "جَلَسَ وَحِيدًا وَفَكَّرَ فِيمَا حَدَثَ.",
       "translation": "Sjedio je sam i razmišljao o onome što se desilo.",
-      "translationEn": "He sat alone and thought about what had happened."
+      "translationEn": "He sat alone and thought about what had happened.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjedio je", "en": "sat" },
+        { "w": "وَحِيدًا", "root": "و ح د", "bs": "sam", "en": "alone" },
+        { "w": "فَكَّرَ", "root": "ف ك ر", "bs": "razmišljao je", "en": "thought" },
+        { "w": "حَدَثَ", "root": "ح د ث", "bs": "desilo se", "en": "happened" }
+      ]
     },
     {
       "arabic": "قَرَّرَ أَنْ يَدْرُسَ أَكْثَرَ فِي الْمَرَّةِ الْقَادِمَةِ.",
       "translation": "Odlučio je da više uči sljedeći put.",
-      "translationEn": "He decided to study more the next time."
+      "translationEn": "He decided to study more the next time.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "يَدْرُسَ", "root": "د ر س", "bs": "uči", "en": "to study" },
+        { "w": "الْمَرَّةِ", "root": "م ر ر", "bs": "put", "en": "time" },
+        { "w": "الْقَادِمَةِ", "root": "ق د م", "bs": "sljedeći", "en": "next" }
+      ]
     },
     {
       "arabic": "الأَخْطَاءُ تُعَلِّمُنَا وَتَجْعَلُنَا أَقْوَى.",
       "translation": "Greške nas uče i čine nas jačima.",
-      "translationEn": "Mistakes teach us and make us stronger."
+      "translationEn": "Mistakes teach us and make us stronger.",
+      "words": [
+        { "w": "الأَخْطَاءُ", "root": "خ ط أ", "bs": "greške", "en": "mistakes" },
+        { "w": "تُعَلِّمُنَا", "root": "ع ل م", "bs": "uče nas", "en": "teach us" },
+        { "w": "تَجْعَلُنَا", "root": "ج ع ل", "bs": "čine nas", "en": "make us" },
+        { "w": "أَقْوَى", "root": "ق و و", "bs": "jačima", "en": "stronger" }
+      ]
     }
   ],
   "metadata": {

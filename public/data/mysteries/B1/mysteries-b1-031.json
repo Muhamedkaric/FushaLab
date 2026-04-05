@@ -6,27 +6,56 @@
     {
       "arabic": "وَجَدَ نَاصِرٌ كَنْزًا صَغِيرًا مَدْفُونًا فِي حَدِيقَةِ الْمَدْرَسَةِ.",
       "translation": "Nasir je pronašao mali zakopani blago u školskom vrtu.",
-      "translationEn": "Nasir found a small buried treasure in the school garden."
+      "translationEn": "Nasir found a small buried treasure in the school garden.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "كَنْزًا", "root": "ك ن ز", "bs": "blago", "en": "treasure" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "مَدْفُونًا", "root": "د ف ن", "bs": "zakopani", "en": "buried" },
+        { "w": "حَدِيقَةِ", "root": "ح د ق", "bs": "vrtu", "en": "garden" }
+      ]
     },
     {
       "arabic": "كَانَ صُنْدُوقًا صَغِيرًا مِنَ الْخَشَبِ.",
       "translation": "Bila je mala drvena kutija.",
-      "translationEn": "It was a small wooden box."
+      "translationEn": "It was a small wooden box.",
+      "words": [
+        { "w": "صُنْدُوقًا", "root": "ص ن د", "bs": "kutija", "en": "box" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "الْخَشَبِ", "root": "خ ش ب", "bs": "drvena", "en": "wooden" }
+      ]
     },
     {
       "arabic": "فَتَحَهُ وَوَجَدَ فِيهِ أَحْجَارًا جَمِيلَةَ الْأَلْوَانِ.",
       "translation": "Otvorio ga je i pronašao u njemu šareno kamenje.",
-      "translationEn": "He opened it and found colourful stones inside it."
+      "translationEn": "He opened it and found colourful stones inside it.",
+      "words": [
+        { "w": "فَتَحَهُ", "root": "ف ت ح", "bs": "otvorio ga je", "en": "he opened it" },
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "أَحْجَارًا", "root": "ح ج ر", "bs": "kamenje", "en": "stones" },
+        { "w": "جَمِيلَةَ", "root": "ج م ل", "bs": "šareno/lijepo", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "أَخْبَرَ مُعَلِّمَهُ بِمَا وَجَدَ.",
       "translation": "Obavijestio je učitelja o tome što je pronašao.",
-      "translationEn": "He told his teacher what he had found."
+      "translationEn": "He told his teacher what he had found.",
+      "words": [
+        { "w": "أَخْبَرَ", "root": "خ ب ر", "bs": "obavijestio je", "en": "he told" },
+        { "w": "مُعَلِّمَهُ", "root": "ع ل م", "bs": "učitelja", "en": "his teacher" },
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" }
+      ]
     },
     {
       "arabic": "قَالَ الْمُعَلِّمُ: تَلَامِيذُ قَدِيمُونَ دَفَنُوهُ هُنَا قَبْلَ سَنَوَاتٍ.",
       "translation": "Učitelj je rekao: Stari učenici su ga zakopali ovdje prije godina.",
-      "translationEn": "The teacher said: Old pupils buried it here years ago."
+      "translationEn": "The teacher said: Old pupils buried it here years ago.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
+        { "w": "تَلَامِيذُ", "root": "ت ل م", "bs": "učenici", "en": "pupils" },
+        { "w": "قَدِيمُونَ", "root": "ق د م", "bs": "stari", "en": "old" },
+        { "w": "دَفَنُوهُ", "root": "د ف ن", "bs": "zakopali su ga", "en": "they buried it" }
+      ]
     }
   ],
   "metadata": {

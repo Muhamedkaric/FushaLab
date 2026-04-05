@@ -6,27 +6,56 @@
     {
       "arabic": "عِنْدَمَا تَطْبُخُ الأُمُّ كَثِيرًا، تُرْسِلُ لِلجِيرَانِ.",
       "translation": "Kada majka skuha puno, šalje komšijama.",
-      "translationEn": "When the mother cooks a lot, she sends to the neighbors."
+      "translationEn": "When the mother cooks a lot, she sends to the neighbors.",
+      "words": [
+        { "w": "تَطْبُخُ", "root": "ط ب خ", "bs": "kuha", "en": "cooks" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "تُرْسِلُ", "root": "ر س ل", "bs": "šalje", "en": "sends" },
+        { "w": "لِلجِيرَانِ", "root": "ج و ر", "bs": "komšijama", "en": "neighbors" }
+      ]
     },
     {
       "arabic": "مُشَارَكَةُ الطَّعَامِ عَادَةٌ كَرِيمَةٌ.",
       "translation": "Dijeljenje hrane je plemenita navika.",
-      "translationEn": "Sharing food is a generous habit."
+      "translationEn": "Sharing food is a generous habit.",
+      "words": [
+        { "w": "مُشَارَكَةُ", "root": "ش ر ك", "bs": "dijeljenje", "en": "sharing" },
+        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "hrane", "en": "food" },
+        { "w": "عَادَةٌ", "root": "ع و د", "bs": "navika", "en": "habit" },
+        { "w": "كَرِيمَةٌ", "root": "ك ر م", "bs": "plemenita", "en": "generous" }
+      ]
     },
     {
       "arabic": "يَشْعُرُ الجَارُ بِالسَّعَادَةِ عِنْدَمَا يَصِلُهُ الطَّعَامُ.",
       "translation": "Komšija se osjeća sretno kada dobije hranu.",
-      "translationEn": "The neighbor feels happy when the food arrives."
+      "translationEn": "The neighbor feels happy when the food arrives.",
+      "words": [
+        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
+        { "w": "الجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
+        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sretno", "en": "happiness" },
+        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana", "en": "food" }
+      ]
     },
     {
       "arabic": "هَكَذَا تَقْوَى العَلَاقَاتُ بَيْنَ النَّاسِ.",
       "translation": "Tako se jačaju odnosi između ljudi.",
-      "translationEn": "This is how relationships between people are strengthened."
+      "translationEn": "This is how relationships between people are strengthened.",
+      "words": [
+        { "w": "تَقْوَى", "root": "ق و ي", "bs": "jačaju se", "en": "are strengthened" },
+        { "w": "العَلَاقَاتُ", "root": "ع ل ق", "bs": "odnosi", "en": "relationships" },
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" }
+      ]
     },
     {
       "arabic": "الكَرَمُ صِفَةٌ مَحْمُودَةٌ فِي الثَّقَافَةِ العَرَبِيَّةِ.",
       "translation": "Darežljivost je pohvaljena osobina u arapskoj kulturi.",
-      "translationEn": "Generosity is a praised quality in Arab culture."
+      "translationEn": "Generosity is a praised quality in Arab culture.",
+      "words": [
+        { "w": "الكَرَمُ", "root": "ك ر م", "bs": "darežljivost", "en": "generosity" },
+        { "w": "صِفَةٌ", "root": "و ص ف", "bs": "osobina", "en": "quality" },
+        { "w": "مَحْمُودَةٌ", "root": "ح م د", "bs": "pohvaljena", "en": "praised" },
+        { "w": "الثَّقَافَةِ", "root": "ث ق ف", "bs": "kulturi", "en": "culture" }
+      ]
     }
   ],
   "metadata": {

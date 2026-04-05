@@ -6,22 +6,47 @@
     {
       "arabic": "تَنَاوَلَ الزُّمَلَاءُ غَدَاءَهُمْ مَعًا فِي غُرْفَةِ الِاسْتِرَاحَةِ.",
       "translation": "Kolege su ručale zajedno u prostoriji za odmor.",
-      "translationEn": "The colleagues had lunch together in the break room."
+      "translationEn": "The colleagues had lunch together in the break room.",
+      "words": [
+        { "w": "تَنَاوَلَ", "root": "ن و ل", "bs": "jeli su/uzeli", "en": "had/ate" },
+        { "w": "الزُّمَلَاءُ", "root": "ز م ل", "bs": "kolege", "en": "colleagues" },
+        { "w": "غَدَاءَهُمْ", "root": "غ د و", "bs": "njihov ručak", "en": "their lunch" },
+        { "w": "غُرْفَةِ", "root": "غ ر ف", "bs": "prostorija/soba", "en": "room" },
+        { "w": "الِاسْتِرَاحَةِ", "root": "ر و ح", "bs": "odmor/pauza", "en": "break/rest" }
+      ]
     },
     {
       "arabic": "تَحَدَّثُوا عَنْ أَخْبَارِ الْيَوْمِ وَضَحِكُوا كَثِيرًا.",
       "translation": "Razgovarali su o dnevnim vijestima i puno se smijali.",
-      "translationEn": "They talked about the day's news and laughed a lot."
+      "translationEn": "They talked about the day's news and laughed a lot.",
+      "words": [
+        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
+        { "w": "أَخْبَارِ", "root": "خ ب ر", "bs": "vijesti/novosti", "en": "news" },
+        { "w": "الْيَوْمِ", "root": "ي و م", "bs": "dan/dnevni", "en": "day/today's" },
+        { "w": "ضَحِكُوا", "root": "ض ح ك", "bs": "smijali su se", "en": "laughed" }
+      ]
     },
     {
       "arabic": "جَلَبَ سَامِيٌّ طَعَامًا مَطْبُوخًا مِنَ الْبَيْتِ وَشَارَكَهُمْ.",
       "translation": "Sami je donio kuhanu hranu od kuće i podijelio s njima.",
-      "translationEn": "Sami brought home-cooked food and shared it with them."
+      "translationEn": "Sami brought home-cooked food and shared it with them.",
+      "words": [
+        { "w": "جَلَبَ", "root": "ج ل ب", "bs": "donio je", "en": "brought" },
+        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
+        { "w": "مَطْبُوخًا", "root": "ط ب خ", "bs": "kuhana/pripremljena", "en": "cooked" },
+        { "w": "شَارَكَهُمْ", "root": "ش ر ك", "bs": "podijelio je s njima", "en": "shared with them" }
+      ]
     },
     {
       "arabic": "قَالُوا إِنَّ وَقْتَ الْغَدَاءِ هُوَ أَجْمَلُ وَقْتٍ فِي الْيَوْمِ.",
       "translation": "Rekli su da je ručak najljepše vrijeme u danu.",
-      "translationEn": "They said that lunchtime is the nicest time of the day."
+      "translationEn": "They said that lunchtime is the nicest time of the day.",
+      "words": [
+        { "w": "قَالُوا", "root": "ق و ل", "bs": "rekli su", "en": "said" },
+        { "w": "وَقْتَ", "root": "و ق ت", "bs": "vrijeme/period", "en": "time" },
+        { "w": "الْغَدَاءِ", "root": "غ د و", "bs": "ručak", "en": "lunch" },
+        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepše", "en": "nicest/most beautiful" }
+      ]
     }
   ],
   "metadata": {

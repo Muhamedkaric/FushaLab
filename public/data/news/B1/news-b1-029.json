@@ -6,26 +6,116 @@
     {
       "arabic": "أَطْلَقَتِ الْمَدْرَسَةُ مُسَابَقَةً لِلرَّسْمِ وَالتَّصْوِيرِ.",
       "translation": "Škola je pokrenula takmičenje u crtanju i fotografiji.",
-      "translationEn": "The school launched a drawing and photography competition."
+      "translationEn": "The school launched a drawing and photography competition.",
+      "words": [
+        {
+          "w": "مُسَابَقَةً",
+          "root": "س ب ق",
+          "bs": "takmičenje",
+          "en": "competition"
+        },
+        {
+          "w": "لِلرَّسْمِ",
+          "root": "ر س م",
+          "bs": "crtanju",
+          "en": "drawing"
+        },
+        {
+          "w": "التَّصْوِيرِ",
+          "root": "ص و ر",
+          "bs": "fotografiji",
+          "en": "photography"
+        }
+      ]
     },
     {
       "arabic": "شَارَكَ طُلَّابٌ مِنْ كُلِّ الصُّفُوفِ فِي الْمُسَابَقَةِ.",
       "translation": "Učenici iz svih razreda su učestvovali u takmičenju.",
-      "translationEn": "Students from all grades participated in the competition."
+      "translationEn": "Students from all grades participated in the competition.",
+      "words": [
+        {
+          "w": "شَارَكَ",
+          "root": "ش ر ك",
+          "bs": "učestvovao je",
+          "en": "participated"
+        },
+        {
+          "w": "طُلَّابٌ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "الصُّفُوفِ",
+          "root": "ص ف ف",
+          "bs": "razreda",
+          "en": "grades"
+        },
+        {
+          "w": "الْمُسَابَقَةِ",
+          "root": "س ب ق",
+          "bs": "takmičenju",
+          "en": "competition"
+        }
+      ]
     },
     {
       "arabic": "اخْتَارَتِ اللَّجْنَةُ أَجْمَلَ الْأَعْمَالِ وَأَعْلَنَتِ الْفَائِزِينَ.",
       "translation": "Komisija je odabrala najljepše radove i objavila pobjednike.",
-      "translationEn": "The committee chose the most beautiful works and announced the winners."
+      "translationEn": "The committee chose the most beautiful works and announced the winners.",
+      "words": [
+        {
+          "w": "اللَّجْنَةُ",
+          "root": "ل ج ن",
+          "bs": "komisija",
+          "en": "committee"
+        },
+        {
+          "w": "الْأَعْمَالِ",
+          "root": "ع م ل",
+          "bs": "radove",
+          "en": "works"
+        },
+        {
+          "w": "الْفَائِزِينَ",
+          "root": "ف و ز",
+          "bs": "pobjednike",
+          "en": "winners"
+        }
+      ]
     },
     {
       "arabic": "عُرِضَتِ الأَعْمَالُ الْفَائِزَةُ فِي مَدْخَلِ الْمَدْرَسَةِ.",
       "translation": "Pobjednički radovi su izloženi u hodniku škole.",
-      "translationEn": "The winning works were displayed in the school entrance."
+      "translationEn": "The winning works were displayed in the school entrance.",
+      "words": [
+        {
+          "w": "الأَعْمَالُ",
+          "root": "ع م ل",
+          "bs": "radovi",
+          "en": "works"
+        },
+        {
+          "w": "الْفَائِزَةُ",
+          "root": "ف و ز",
+          "bs": "pobjednički",
+          "en": "winning"
+        },
+        {
+          "w": "مَدْخَلِ",
+          "root": "د خ ل",
+          "bs": "hodniku",
+          "en": "entrance"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["arts", "school", "competition"]
+    "tags": [
+      "arts",
+      "school",
+      "competition"
+    ]
   }
 }

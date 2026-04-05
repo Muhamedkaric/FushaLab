@@ -6,22 +6,46 @@
     {
       "arabic": "وَجَدَتْ سُعَادُ مَقْهًى صَغِيرًا بِجَانِبِ الْبَحْرِ.",
       "translation": "Suad je pronašla mali kafić pored mora.",
-      "translationEn": "Suad found a small cafe beside the sea."
+      "translationEn": "Suad found a small cafe beside the sea.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
+        { "w": "مَقْهًى", "root": "ق ه و", "bs": "kafić", "en": "cafe" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" }
+      ]
     },
     {
       "arabic": "دَخَلَتْ وَطَلَبَتْ قَهْوَةً وَكَعْكَةً.",
       "translation": "Ušla je i naručila kafu i kolač.",
-      "translationEn": "She entered and ordered coffee and cake."
+      "translationEn": "She entered and ordered coffee and cake.",
+      "words": [
+        { "w": "دَخَلَتْ", "root": "د خ ل", "bs": "ušla je", "en": "entered" },
+        { "w": "طَلَبَتْ", "root": "ط ل ب", "bs": "naručila je", "en": "ordered" },
+        { "w": "قَهْوَةً", "root": "ق ه و", "bs": "kafa", "en": "coffee" },
+        { "w": "كَعْكَةً", "root": "ك ع ك", "bs": "kolač", "en": "cake" }
+      ]
     },
     {
       "arabic": "جَلَسَتْ عِنْدَ النَّافِذَةِ وَنَظَرَتْ إِلَى الْأَمْوَاجِ.",
       "translation": "Sjela je kraj prozora i gledala u valove.",
-      "translationEn": "She sat by the window and watched the waves."
+      "translationEn": "She sat by the window and watched the waves.",
+      "words": [
+        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
+        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
+        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "gledala je", "en": "watched" },
+        { "w": "الْأَمْوَاجِ", "root": "م و ج", "bs": "valovi", "en": "waves" }
+      ]
     },
     {
       "arabic": "قَضَتْ سَاعَةً هَادِئَةً وَهِيَ مُرْتَاحَةٌ.",
       "translation": "Provela je mirni sat odmorna.",
-      "translationEn": "She spent a peaceful hour feeling relaxed."
+      "translationEn": "She spent a peaceful hour feeling relaxed.",
+      "words": [
+        { "w": "قَضَتْ", "root": "ق ض ي", "bs": "provela je", "en": "spent" },
+        { "w": "سَاعَةً", "root": "س و ع", "bs": "sat", "en": "hour" },
+        { "w": "هَادِئَةً", "root": "ه د أ", "bs": "miran / tih", "en": "peaceful / quiet" },
+        { "w": "مُرْتَاحَةٌ", "root": "ر و ح", "bs": "odmorna", "en": "relaxed" }
+      ]
     }
   ],
   "metadata": {

@@ -6,27 +6,53 @@
     {
       "arabic": "اسْتَيْقَظَتْ سَمِيرَةُ وَوَجَدَتْ قَدَحًا مِنَ الْحَلِيبِ عَلَى طَاوِلَتِهَا.",
       "translation": "Samira se probudila i pronašla šolju mlijeka na svom stolu.",
-      "translationEn": "Samira woke up and found a cup of milk on her table."
+      "translationEn": "Samira woke up and found a cup of milk on her table.",
+      "words": [
+        { "w": "اسْتَيْقَظَتْ", "root": "ي ق ظ", "bs": "probudila se", "en": "she woke up" },
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "قَدَحًا", "root": "ق د ح", "bs": "šolju", "en": "cup" },
+        { "w": "الْحَلِيبِ", "root": "ح ل ب", "bs": "mlijeka", "en": "milk" }
+      ]
     },
     {
       "arabic": "لَمْ تَضَعْهُ هِيَ هُنَاكَ.",
       "translation": "Ona ga nije stavila tamo.",
-      "translationEn": "She had not put it there herself."
+      "translationEn": "She had not put it there herself.",
+      "words": [
+        { "w": "تَضَعْهُ", "root": "و ض ع", "bs": "stavila ga je", "en": "she put it" }
+      ]
     },
     {
       "arabic": "نَزَلَتْ إِلَى الْمَطْبَخِ وَسَأَلَتْ أُمَّهَا.",
       "translation": "Sišla je u kuhinju i pitala majku.",
-      "translationEn": "She went down to the kitchen and asked her mother."
+      "translationEn": "She went down to the kitchen and asked her mother.",
+      "words": [
+        { "w": "نَزَلَتْ", "root": "ن ز ل", "bs": "sišla je", "en": "she went down" },
+        { "w": "الْمَطْبَخِ", "root": "ط ب خ", "bs": "kuhinju", "en": "kitchen" },
+        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "she asked" }
+      ]
     },
     {
       "arabic": "قَالَتِ الْأُمُّ: رَأَيْتُكِ نَائِمَةً وَعَرَفْتُ أَنَّكِ سَتَحْتَاجِينَهُ عِنْدَ الِاسْتِيقَاظِ.",
       "translation": "Majka je rekla: Vidjela sam te kako spavaš i znala sam da će ti trebati kad se probudiš.",
-      "translationEn": "The mother said: I saw you sleeping and knew you would need it when you woke up."
+      "translationEn": "The mother said: I saw you sleeping and knew you would need it when you woke up.",
+      "words": [
+        { "w": "رَأَيْتُكِ", "root": "ر أ ي", "bs": "vidjela sam te", "en": "I saw you" },
+        { "w": "نَائِمَةً", "root": "ن و م", "bs": "spavaš", "en": "sleeping" },
+        { "w": "عَرَفْتُ", "root": "ع ر ف", "bs": "znala sam", "en": "I knew" },
+        { "w": "سَتَحْتَاجِينَهُ", "root": "ح و ج", "bs": "trebat će ti", "en": "you would need it" }
+      ]
     },
     {
       "arabic": "عَانَقَتْ سَمِيرَةُ أُمَّهَا وَشَرِبَتِ الْحَلِيبَ بِسَعَادَةٍ.",
       "translation": "Samira je zagrljila majku i sretno popila mlijeko.",
-      "translationEn": "Samira hugged her mother and drank the milk happily."
+      "translationEn": "Samira hugged her mother and drank the milk happily.",
+      "words": [
+        { "w": "عَانَقَتْ", "root": "ع ن ق", "bs": "zagrljila je", "en": "she hugged" },
+        { "w": "شَرِبَتِ", "root": "ش ر ب", "bs": "popila je", "en": "she drank" },
+        { "w": "الْحَلِيبَ", "root": "ح ل ب", "bs": "mlijeko", "en": "the milk" },
+        { "w": "بِسَعَادَةٍ", "root": "س ع د", "bs": "sretno", "en": "happily" }
+      ]
     }
   ],
   "metadata": {

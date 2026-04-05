@@ -6,27 +6,55 @@
     {
       "arabic": "يَدَّخِرُ سَامِيٌّ النُّقُودَ فِي كُوزِ الخَزِّ كُلَّ أُسْبُوعٍ.",
       "translation": "Sami svake sedmice štedi novac u kasici.",
-      "translationEn": "Sami saves money in his piggy bank every week."
+      "translationEn": "Sami saves money in his piggy bank every week.",
+      "words": [
+        { "w": "يَدَّخِرُ", "root": "ذ خ ر", "bs": "štedi", "en": "saves" },
+        { "w": "النُّقُودَ", "root": "ن ق د", "bs": "novac", "en": "money" },
+        { "w": "كُوزِ", "root": "ك و ز", "bs": "kasica", "en": "piggy bank" },
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica", "en": "week" }
+      ]
     },
     {
       "arabic": "يَضَعُ فِيهِ كُلَّ مَا يَبْقَى مِنْ مَصْرُوفِهِ.",
       "translation": "Stavlja u nju sve što ostane od džeparca.",
-      "translationEn": "He puts in it everything left from his pocket money."
+      "translationEn": "He puts in it everything left from his pocket money.",
+      "words": [
+        { "w": "يَضَعُ", "root": "و ض ع", "bs": "stavlja", "en": "puts" },
+        { "w": "يَبْقَى", "root": "ب ق ي", "bs": "ostane", "en": "remains" },
+        { "w": "مَصْرُوفِهِ", "root": "ص ر ف", "bs": "džeparac", "en": "pocket money" }
+      ]
     },
     {
       "arabic": "بَعْدَ شَهْرٍ فَتَحَ الكُوزَ وَعَدَّ النُّقُودَ.",
       "translation": "Nakon mjesec dana otvorio je kasicu i prebrojao novac.",
-      "translationEn": "After a month he opened the piggy bank and counted the money."
+      "translationEn": "After a month he opened the piggy bank and counted the money.",
+      "words": [
+        { "w": "شَهْرٍ", "root": "ش ه ر", "bs": "mjesec", "en": "month" },
+        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "opened" },
+        { "w": "الكُوزَ", "root": "ك و ز", "bs": "kasica", "en": "piggy bank" },
+        { "w": "عَدَّ", "root": "ع د د", "bs": "prebrojao je", "en": "counted" }
+      ]
     },
     {
       "arabic": "كَانَ مَسْرُورًا لِأَنَّهُ جَمَعَ مَبْلَغًا جَيِّدًا.",
       "translation": "Bio je radostan jer je sakupio dobar iznos.",
-      "translationEn": "He was pleased because he had saved a good amount."
+      "translationEn": "He was pleased because he had saved a good amount.",
+      "words": [
+        { "w": "مَسْرُورًا", "root": "س ر ر", "bs": "radostan", "en": "pleased" },
+        { "w": "جَمَعَ", "root": "ج م ع", "bs": "sakupio je", "en": "gathered" },
+        { "w": "مَبْلَغًا", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
+        { "w": "جَيِّدًا", "root": "ج ي د", "bs": "dobar", "en": "good" }
+      ]
     },
     {
       "arabic": "قَرَّرَ أَنْ يَشْتَرِيَ هَدِيَّةً لِأُمِّهِ.",
       "translation": "Odlučio je da kupi poklon za svoju majku.",
-      "translationEn": "He decided to buy a gift for his mother."
+      "translationEn": "He decided to buy a gift for his mother.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "يَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "هَدِيَّةً", "root": "ه د ي", "bs": "poklon", "en": "gift" }
+      ]
     }
   ],
   "metadata": {

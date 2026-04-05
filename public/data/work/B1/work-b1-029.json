@@ -6,22 +6,47 @@
     {
       "arabic": "اشْتَرَتِ الشَّرِكَةُ طَابِعَةً جَدِيدَةً لِلْمَكْتَبِ.",
       "translation": "Kompanija je kupila novi printer za kancelariju.",
-      "translationEn": "The company bought a new printer for the office."
+      "translationEn": "The company bought a new printer for the office.",
+      "words": [
+        { "w": "اشْتَرَتِ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "الشَّرِكَةُ", "root": "ش ر ك", "bs": "kompanija/firma", "en": "company" },
+        { "w": "طَابِعَةً", "root": "ط ب ع", "bs": "printer/štampač", "en": "printer" },
+        { "w": "جَدِيدَةً", "root": "ج د د", "bs": "novi/nova", "en": "new" },
+        { "w": "الْمَكْتَبِ", "root": "ك ت ب", "bs": "kancelarija/ured", "en": "office" }
+      ]
     },
     {
       "arabic": "حَاوَلَ مُنِيرٌ أَنْ يُشَغِّلَهَا وَلَكِنَّهُ لَمْ يَعْرِفْ كَيْفَ.",
       "translation": "Munir je pokušao da je uključi ali nije znao kako.",
-      "translationEn": "Munir tried to operate it but did not know how."
+      "translationEn": "Munir tried to operate it but did not know how.",
+      "words": [
+        { "w": "حَاوَلَ", "root": "ح و ل", "bs": "pokušao je", "en": "tried" },
+        { "w": "يُشَغِّلَهَا", "root": "ش غ ل", "bs": "da je uključi/pokrene", "en": "to operate it" },
+        { "w": "يَعْرِفْ", "root": "ع ر ف", "bs": "znao je", "en": "knew" }
+      ]
     },
     {
       "arabic": "سَأَلَ زَمِيلَهُ الَّذِي قَرَأَ التَّعْلِيمَاتِ بِعِنَايَةٍ.",
       "translation": "Upitao je kolegu koji je pažljivo pročitao uputstva.",
-      "translationEn": "He asked his colleague who read the instructions carefully."
+      "translationEn": "He asked his colleague who read the instructions carefully.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "upitao je", "en": "asked" },
+        { "w": "زَمِيلَهُ", "root": "ز م ل", "bs": "njegov kolega", "en": "his colleague" },
+        { "w": "قَرَأَ", "root": "ق ر أ", "bs": "pročitao je", "en": "read" },
+        { "w": "التَّعْلِيمَاتِ", "root": "ع ل م", "bs": "uputstva/instrukcije", "en": "instructions" },
+        { "w": "بِعِنَايَةٍ", "root": "ع ن ي", "bs": "pažljivo/pomno", "en": "carefully" }
+      ]
     },
     {
       "arabic": "بَعْدَ عَشْرِ دَقَائِقَ بَدَأَتِ الطَّابِعَةُ تَعْمَلُ.",
       "translation": "Nakon deset minuta printer je počeo raditi.",
-      "translationEn": "After ten minutes the printer started working."
+      "translationEn": "After ten minutes the printer started working.",
+      "words": [
+        { "w": "دَقَائِقَ", "root": "د ق ق", "bs": "minuta", "en": "minutes" },
+        { "w": "بَدَأَتِ", "root": "ب د أ", "bs": "počeo je", "en": "started" },
+        { "w": "الطَّابِعَةُ", "root": "ط ب ع", "bs": "printer/štampač", "en": "printer" },
+        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "raditi/funkcionisati", "en": "to work/operate" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,44 @@
     {
       "arabic": "وَصَلَ الْقِطَارُ مُتَأَخِّرًا بِسَبَبِ الطَّقْسِ السَّيِّئِ.",
       "translation": "Voz je kasnio zbog lošeg vremena.",
-      "translationEn": "The train arrived late because of bad weather."
+      "translationEn": "The train arrived late because of bad weather.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "الْقِطَارُ", "root": "ق ط ر", "bs": "voz", "en": "train" },
+        { "w": "مُتَأَخِّرًا", "root": "أ خ ر", "bs": "kasno / zakasnjelo", "en": "late" },
+        { "w": "الطَّقْسِ", "root": "ط ق س", "bs": "vremenska situacija", "en": "weather" }
+      ]
     },
     {
       "arabic": "انْتَظَرَ الْمُسَافِرُونَ فِي الْمَحَطَّةِ وَهُمْ صَابِرُونَ.",
       "translation": "Putnici su strpljivo čekali na stanici.",
-      "translationEn": "The travelers waited at the station patiently."
+      "translationEn": "The travelers waited at the station patiently.",
+      "words": [
+        { "w": "انْتَظَرَ", "root": "ن ظ ر", "bs": "čekali su", "en": "waited" },
+        { "w": "الْمُسَافِرُونَ", "root": "س ف ر", "bs": "putnici", "en": "travelers" },
+        { "w": "الْمَحَطَّةِ", "root": "ح ط ط", "bs": "stanica", "en": "station" },
+        { "w": "صَابِرُونَ", "root": "ص ب ر", "bs": "strpljivi", "en": "patient" }
+      ]
     },
     {
       "arabic": "شَرِبَ بَعْضُهُمُ الشَّاي وَتَحَدَّثُوا مَعَ بَعْضٍ.",
       "translation": "Neki od njih su pili čaj i razgovarali.",
-      "translationEn": "Some of them drank tea and talked to each other."
+      "translationEn": "Some of them drank tea and talked to each other.",
+      "words": [
+        { "w": "شَرِبَ", "root": "ش ر ب", "bs": "pili su", "en": "drank" },
+        { "w": "الشَّاي", "root": "ش ي ي", "bs": "čaj", "en": "tea" },
+        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" }
+      ]
     },
     {
       "arabic": "حِينَ وَصَلَ الْقِطَارُ صَعِدُوا بِسُرُورٍ.",
       "translation": "Kad je voz stigao ukrcali su se radosno.",
-      "translationEn": "When the train arrived they boarded happily."
+      "translationEn": "When the train arrived they boarded happily.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "الْقِطَارُ", "root": "ق ط ر", "bs": "voz", "en": "train" },
+        { "w": "صَعِدُوا", "root": "ص ع د", "bs": "ukrcali su se / popeli su se", "en": "boarded / got on" }
+      ]
     }
   ],
   "metadata": {

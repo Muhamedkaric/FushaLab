@@ -6,22 +6,47 @@
     {
       "arabic": "فَتَحَتْ مَرْيَمُ الثَّلَّاجَةَ وَلَمْ تَجِدْ شَيْئًا.",
       "translation": "Merjem je otvorila frižider i nije ništa našla.",
-      "translationEn": "Maryam opened the fridge and found nothing."
+      "translationEn": "Maryam opened the fridge and found nothing.",
+      "words": [
+        { "w": "فَتَحَتْ", "root": "ف ت ح", "bs": "otvorila je", "en": "opened" },
+        { "w": "الثَّلَّاجَةَ", "root": "ث ل ج", "bs": "frižider/hladnjak", "en": "fridge" },
+        { "w": "تَجِدْ", "root": "و ج د", "bs": "nađe/pronađe", "en": "find" },
+        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "ništa/nešto", "en": "nothing/anything" }
+      ]
     },
     {
       "arabic": "قَرَّرَتْ أَنْ تَذْهَبَ إِلَى الْمَتْجَرِ الْقَرِيبِ.",
       "translation": "Odlučila je da ode u obližnju prodavnicu.",
-      "translationEn": "She decided to go to the nearby store."
+      "translationEn": "She decided to go to the nearby store.",
+      "words": [
+        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "تَذْهَبَ", "root": "ذ ه ب", "bs": "da ode/ide", "en": "to go" },
+        { "w": "الْمَتْجَرِ", "root": "ت ج ر", "bs": "prodavnica/dućan", "en": "store/shop" },
+        { "w": "الْقَرِيبِ", "root": "ق ر ب", "bs": "obližnji/blizu", "en": "nearby" }
+      ]
     },
     {
       "arabic": "اشْتَرَتْ خُضَارًا وَجُبْنًا وَخُبْزًا.",
       "translation": "Kupila je povrće, sir i hljeb.",
-      "translationEn": "She bought vegetables, cheese, and bread."
+      "translationEn": "She bought vegetables, cheese, and bread.",
+      "words": [
+        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "خُضَارًا", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
+        { "w": "جُبْنًا", "root": "ج ب ن", "bs": "sir", "en": "cheese" },
+        { "w": "خُبْزًا", "root": "خ ب ز", "bs": "hljeb", "en": "bread" }
+      ]
     },
     {
       "arabic": "رَجَعَتْ وَطَبَخَتْ وَجْبَةً بَسِيطَةً وَلَكِنَّهَا جَيِّدَةٌ.",
       "translation": "Vratila se i skuhala jednostavan ali dobar obrok.",
-      "translationEn": "She returned and cooked a simple but good meal."
+      "translationEn": "She returned and cooked a simple but good meal.",
+      "words": [
+        { "w": "رَجَعَتْ", "root": "ر ج ع", "bs": "vratila se", "en": "returned" },
+        { "w": "طَبَخَتْ", "root": "ط ب خ", "bs": "skuhala je", "en": "cooked" },
+        { "w": "وَجْبَةً", "root": "و ج ب", "bs": "obrok/jelo", "en": "meal" },
+        { "w": "بَسِيطَةً", "root": "ب س ط", "bs": "jednostavnu/jednostavan", "en": "simple" },
+        { "w": "جَيِّدَةٌ", "root": "ج و د", "bs": "dobru/dobro", "en": "good" }
+      ]
     }
   ],
   "metadata": {

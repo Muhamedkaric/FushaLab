@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ الْجَسْرُ الْقَدِيمُ يَعْبُرُ النَّهْرَ الْعَرِيضَ.",
       "translation": "Stari most prelazio je široku rijeku.",
-      "translationEn": "The ancient bridge crossed the wide river."
+      "translationEn": "The ancient bridge crossed the wide river.",
+      "words": [
+        { "w": "الْجَسْرُ", "root": "ج س ر", "bs": "most", "en": "the bridge" },
+        { "w": "الْقَدِيمُ", "root": "ق د م", "bs": "stari", "en": "ancient" },
+        { "w": "يَعْبُرُ", "root": "ع ب ر", "bs": "prelazi", "en": "crosses" },
+        { "w": "النَّهْرَ", "root": "ن ه ر", "bs": "rijeku", "en": "the river" },
+        { "w": "الْعَرِيضَ", "root": "ع ر ض", "bs": "široka", "en": "wide" }
+      ]
     },
     {
       "arabic": "بَنَاهُ الْعُمَّالُ مِنَ الْحِجَارَةِ الضَّخْمَةِ.",
       "translation": "Gradili su ga radnici od masivnog kamenja.",
-      "translationEn": "The workers built it from massive stones."
+      "translationEn": "The workers built it from massive stones.",
+      "words": [
+        { "w": "بَنَاهُ", "root": "ب ن ي", "bs": "gradili su ga", "en": "built it" },
+        { "w": "الْعُمَّالُ", "root": "ع م ل", "bs": "radnici", "en": "the workers" },
+        { "w": "الْحِجَارَةِ", "root": "ح ج ر", "bs": "kamenja", "en": "stones" },
+        { "w": "الضَّخْمَةِ", "root": "ض خ م", "bs": "masivno", "en": "massive" }
+      ]
     },
     {
       "arabic": "كَانَ النَّاسُ وَالْحَيَوَانَاتُ يَعْبُرُونَهُ كُلَّ يَوْمٍ.",
       "translation": "Ljudi i životinje prelazili su ga svaki dan.",
-      "translationEn": "People and animals crossed it every day."
+      "translationEn": "People and animals crossed it every day.",
+      "words": [
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "الْحَيَوَانَاتُ", "root": "ح ي و", "bs": "životinje", "en": "animals" },
+        { "w": "يَعْبُرُونَهُ", "root": "ع ب ر", "bs": "prelaze ga", "en": "cross it" }
+      ]
     },
     {
       "arabic": "رَبَطَ الْجَسْرُ قَرْيَتَيْنِ كَانَتَا مُنْفَصِلَتَيْنِ.",
       "translation": "Most je spajao dva sela koja su bila odvojena.",
-      "translationEn": "The bridge connected two villages that were separated."
+      "translationEn": "The bridge connected two villages that were separated.",
+      "words": [
+        { "w": "رَبَطَ", "root": "ر ب ط", "bs": "spajao je", "en": "connected" },
+        { "w": "الْجَسْرُ", "root": "ج س ر", "bs": "most", "en": "the bridge" },
+        { "w": "قَرْيَتَيْنِ", "root": "ق ر ي", "bs": "dva sela", "en": "two villages" },
+        { "w": "مُنْفَصِلَتَيْنِ", "root": "ف ص ل", "bs": "odvojena", "en": "separated" }
+      ]
     }
   ],
   "metadata": {

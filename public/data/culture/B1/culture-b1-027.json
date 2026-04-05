@@ -6,22 +6,46 @@
     {
       "arabic": "عِيَادَةُ المَرِيضِ وَاجِبٌ اجْتِمَاعِيٌّ مُهِمٌّ.",
       "translation": "Posjeta bolesnika je važna društvena obaveza.",
-      "translationEn": "Visiting the sick is an important social duty."
+      "translationEn": "Visiting the sick is an important social duty.",
+      "words": [
+        { "w": "عِيَادَةُ", "root": "ع و د", "bs": "posjeta", "en": "visiting" },
+        { "w": "المَرِيضِ", "root": "م ر ض", "bs": "bolesnika", "en": "sick person" },
+        { "w": "وَاجِبٌ", "root": "و ج ب", "bs": "obaveza", "en": "duty" },
+        { "w": "اجْتِمَاعِيٌّ", "root": "ج م ع", "bs": "društvena", "en": "social" },
+        { "w": "مُهِمٌّ", "root": "هـ م م", "bs": "važna", "en": "important" }
+      ]
     },
     {
       "arabic": "يَحْمِلُ الزَّائِرُ فَاكِهَةً أَوْ هَدِيَّةً صَغِيرَةً.",
       "translation": "Posjetilac nosi voće ili mali poklon.",
-      "translationEn": "The visitor brings fruit or a small gift."
+      "translationEn": "The visitor brings fruit or a small gift.",
+      "words": [
+        { "w": "يَحْمِلُ", "root": "ح م ل", "bs": "nosi", "en": "brings" },
+        { "w": "الزَّائِرُ", "root": "ز و ر", "bs": "posjetilac", "en": "visitor" },
+        { "w": "فَاكِهَةً", "root": "ف ك هـ", "bs": "voće", "en": "fruit" },
+        { "w": "هَدِيَّةً", "root": "هـ د ي", "bs": "poklon", "en": "gift" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mali", "en": "small" }
+      ]
     },
     {
       "arabic": "يَجْلِسُ مَعَ المَرِيضِ وَيُحَدِّثُهُ.",
       "translation": "Sjedi s bolesnikom i razgovara s njim.",
-      "translationEn": "He sits with the sick person and talks with them."
+      "translationEn": "He sits with the sick person and talks with them.",
+      "words": [
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" },
+        { "w": "المَرِيضِ", "root": "م ر ض", "bs": "bolesnikom", "en": "sick person" },
+        { "w": "يُحَدِّثُهُ", "root": "ح د ث", "bs": "razgovara s njim", "en": "talks with them" }
+      ]
     },
     {
       "arabic": "يَدْعُو لَهُ بِالشِّفَاءِ السَّرِيعِ.",
       "translation": "Želi mu brzi oporavak.",
-      "translationEn": "He wishes them a speedy recovery."
+      "translationEn": "He wishes them a speedy recovery.",
+      "words": [
+        { "w": "يَدْعُو", "root": "د ع و", "bs": "želi mu", "en": "wishes" },
+        { "w": "الشِّفَاءِ", "root": "ش ف ي", "bs": "oporavak", "en": "recovery" },
+        { "w": "السَّرِيعِ", "root": "س ر ع", "bs": "brzi", "en": "speedy" }
+      ]
     }
   ],
   "metadata": {

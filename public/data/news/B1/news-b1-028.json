@@ -6,26 +6,115 @@
     {
       "arabic": "فَتَحَتِ الْمَدِينَةُ مَلْعَبًا جَدِيدًا لِكُرَةِ الْقَدَمِ.",
       "translation": "Grad je otvorio novi fudbalski teren.",
-      "translationEn": "The city opened a new football field."
+      "translationEn": "The city opened a new football field.",
+      "words": [
+        {
+          "w": "فَتَحَتِ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "مَلْعَبًا",
+          "root": "ل ع ب",
+          "bs": "teren",
+          "en": "field"
+        },
+        {
+          "w": "جَدِيدًا",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new"
+        },
+        {
+          "w": "كُرَةِ الْقَدَمِ",
+          "bs": "fudbal",
+          "en": "football"
+        }
+      ]
     },
     {
       "arabic": "يَقَعُ الْمَلْعَبُ قُرْبَ الْمَدْرَسَةِ الْكَبِيرَةِ.",
       "translation": "Teren se nalazi blizu velike škole.",
-      "translationEn": "The field is located near the large school."
+      "translationEn": "The field is located near the large school.",
+      "words": [
+        {
+          "w": "يَقَعُ",
+          "root": "و ق ع",
+          "bs": "nalazi se",
+          "en": "is located"
+        },
+        {
+          "w": "الْمَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "teren",
+          "en": "field"
+        },
+        {
+          "w": "الْمَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škole",
+          "en": "school"
+        },
+        {
+          "w": "الْكَبِيرَةِ",
+          "root": "ك ب ر",
+          "bs": "velike",
+          "en": "large"
+        }
+      ]
     },
     {
       "arabic": "سَيَتَدَرَّبُ فِيهِ الأَطْفَالُ وَالشَّبَابُ كُلَّ أُسْبُوعٍ.",
       "translation": "Djeca i mladi će se tu trenirati svake sedmice.",
-      "translationEn": "Children and youth will train there every week."
+      "translationEn": "Children and youth will train there every week.",
+      "words": [
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children"
+        },
+        {
+          "w": "الشَّبَابُ",
+          "root": "ش ب ب",
+          "bs": "mladi",
+          "en": "youth"
+        }
+      ]
     },
     {
       "arabic": "قَالَ رَئِيسُ الْبَلَدِيَّةِ إِنَّ الرِّيَاضَةَ مُهِمَّةٌ لِلشَّبَابِ.",
       "translation": "Predsjednik općine je rekao da je sport važan za mlade.",
-      "translationEn": "The mayor said that sports are important for youth."
+      "translationEn": "The mayor said that sports are important for youth.",
+      "words": [
+        {
+          "w": "الرِّيَاضَةَ",
+          "root": "ر ي ض",
+          "bs": "sport",
+          "en": "sports"
+        },
+        {
+          "w": "مُهِمَّةٌ",
+          "root": "ه م م",
+          "bs": "važan",
+          "en": "important"
+        },
+        {
+          "w": "الشَّبَابِ",
+          "root": "ش ب ب",
+          "bs": "mlade",
+          "en": "youth"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sports", "city", "youth"]
+    "tags": [
+      "sports",
+      "city",
+      "youth"
+    ]
   }
 }

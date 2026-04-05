@@ -6,22 +6,47 @@
     {
       "arabic": "الزَّكَاةُ رُكْنٌ مِنْ أَرْكَانِ الإِسْلَامِ الخَمْسَةِ.",
       "translation": "Zekat je jedan od pet stubova islama.",
-      "translationEn": "Zakat is one of the five pillars of Islam."
+      "translationEn": "Zakat is one of the five pillars of Islam.",
+      "words": [
+        { "w": "الزَّكَاةُ", "root": "ز ك و", "bs": "zekat", "en": "zakat" },
+        { "w": "رُكْنٌ", "root": "ر ك ن", "bs": "stub", "en": "pillar" },
+        { "w": "أَرْكَانِ", "root": "ر ك ن", "bs": "stubovi", "en": "pillars" },
+        { "w": "الإِسْلَامِ", "root": "س ل م", "bs": "islama", "en": "Islam" }
+      ]
     },
     {
       "arabic": "يُعْطِي المُسْلِمُ جُزْءًا مِنْ مَالِهِ لِلفُقَرَاءِ.",
       "translation": "Musliman daje dio svog imetka siromašnima.",
-      "translationEn": "The Muslim gives a portion of their wealth to the poor."
+      "translationEn": "The Muslim gives a portion of their wealth to the poor.",
+      "words": [
+        { "w": "يُعْطِي", "root": "ع ط و", "bs": "daje", "en": "gives" },
+        { "w": "المُسْلِمُ", "root": "س ل م", "bs": "musliman", "en": "Muslim" },
+        { "w": "جُزْءًا", "root": "ج ز أ", "bs": "dio", "en": "portion" },
+        { "w": "مَالِهِ", "root": "م و ل", "bs": "imetka", "en": "wealth" },
+        { "w": "لِلفُقَرَاءِ", "root": "ف ق ر", "bs": "siromašnima", "en": "poor" }
+      ]
     },
     {
       "arabic": "الزَّكَاةُ تُنَظِّفُ المَالَ وَتُبَارِكُهُ.",
       "translation": "Zekat čisti imetak i čini ga blagoslovenim.",
-      "translationEn": "Zakat purifies wealth and blesses it."
+      "translationEn": "Zakat purifies wealth and blesses it.",
+      "words": [
+        { "w": "الزَّكَاةُ", "root": "ز ك و", "bs": "zekat", "en": "zakat" },
+        { "w": "تُنَظِّفُ", "root": "ن ظ ف", "bs": "čisti", "en": "purifies" },
+        { "w": "المَالَ", "root": "م و ل", "bs": "imetak", "en": "wealth" },
+        { "w": "تُبَارِكُهُ", "root": "ب ر ك", "bs": "blagoslivlja ga", "en": "blesses it" }
+      ]
     },
     {
       "arabic": "كَثِيرٌ مِنَ النَّاسِ يُؤَدُّونَ الزَّكَاةَ فِي رَمَضَانَ.",
       "translation": "Mnogi ljudi daju zekat u Ramazanu.",
-      "translationEn": "Many people pay zakat during Ramadan."
+      "translationEn": "Many people pay zakat during Ramadan.",
+      "words": [
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "يُؤَدُّونَ", "root": "أ د ي", "bs": "daju", "en": "pay" },
+        { "w": "الزَّكَاةَ", "root": "ز ك و", "bs": "zekat", "en": "zakat" },
+        { "w": "رَمَضَانَ", "bs": "Ramazanu", "en": "Ramadan" }
+      ]
     }
   ],
   "metadata": {

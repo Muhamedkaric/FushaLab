@@ -6,22 +6,48 @@
     {
       "arabic": "أَخَذَتْ لَانَا فَتْرَةَ اسْتِرَاحَةٍ فِي الْعَاشِرَةِ صَبَاحًا.",
       "translation": "Lana je uzela pauzu u deset ujutro.",
-      "translationEn": "Lana took a break at ten in the morning."
+      "translationEn": "Lana took a break at ten in the morning.",
+      "words": [
+        { "w": "أَخَذَتْ", "root": "أ خ ذ", "bs": "uzela je", "en": "took" },
+        { "w": "فَتْرَةَ", "root": "ف ت ر", "bs": "period/pauza", "en": "break/period" },
+        { "w": "اسْتِرَاحَةٍ", "root": "ر و ح", "bs": "odmor/pauza", "en": "break/rest" },
+        { "w": "صَبَاحًا", "root": "ص ب ح", "bs": "ujutro", "en": "in the morning" }
+      ]
     },
     {
       "arabic": "ذَهَبَتْ إِلَى الْمَطْبَخِ وَأَعَدَّتْ فِنْجَانَ قَهْوَةٍ.",
       "translation": "Otišla je u kuhinju i pripremila šolju kafe.",
-      "translationEn": "She went to the kitchen and prepared a cup of coffee."
+      "translationEn": "She went to the kitchen and prepared a cup of coffee.",
+      "words": [
+        { "w": "ذَهَبَتْ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الْمَطْبَخِ", "root": "ط ب خ", "bs": "kuhinja", "en": "kitchen" },
+        { "w": "أَعَدَّتْ", "root": "ع د د", "bs": "pripremila je", "en": "prepared" },
+        { "w": "فِنْجَانَ", "root": "ف ن ج", "bs": "šolja/fildžan", "en": "cup" },
+        { "w": "قَهْوَةٍ", "root": "ق ه و", "bs": "kafa", "en": "coffee" }
+      ]
     },
     {
       "arabic": "جَلَسَتْ مَعَ زَمِيلَيْنِ وَتَحَدَّثُوا بِضْعَ دَقَائِقَ.",
       "translation": "Sjela je s dvije kolege i razgovarali su nekoliko minuta.",
-      "translationEn": "She sat with two colleagues and they talked for a few minutes."
+      "translationEn": "She sat with two colleagues and they talked for a few minutes.",
+      "words": [
+        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
+        { "w": "زَمِيلَيْنِ", "root": "ز م ل", "bs": "dvije kolege", "en": "two colleagues" },
+        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
+        { "w": "دَقَائِقَ", "root": "د ق ق", "bs": "minuta", "en": "minutes" }
+      ]
     },
     {
       "arabic": "عَادَتْ إِلَى عَمَلِهَا بَعْدَ الِاسْتِرَاحَةِ وَهِيَ أَكْثَرُ نَشَاطًا.",
       "translation": "Vratila se na posao nakon pauze svježija.",
-      "translationEn": "She returned to her work after the break feeling more energetic."
+      "translationEn": "She returned to her work after the break feeling more energetic.",
+      "words": [
+        { "w": "عَادَتْ", "root": "ع و د", "bs": "vratila se", "en": "returned" },
+        { "w": "عَمَلِهَا", "root": "ع م ل", "bs": "njen posao", "en": "her work" },
+        { "w": "الِاسْتِرَاحَةِ", "root": "ر و ح", "bs": "pauza/odmor", "en": "break" },
+        { "w": "أَكْثَرُ", "root": "ك ث ر", "bs": "više/veće", "en": "more" },
+        { "w": "نَشَاطًا", "root": "ن ش ط", "bs": "aktivnost/energija", "en": "energy/activity" }
+      ]
     }
   ],
   "metadata": {

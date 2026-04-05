@@ -6,22 +6,129 @@
     {
       "arabic": "نَسِيَ الطِّفْلُ التَّابْلِيتَ عَلَى الطَّاوِلَةِ وَخَرَجَ.",
       "translation": "Dijete je zaboravilo tablet na stolu i izašlo.",
-      "translationEn": "The child forgot the tablet on the table and went out."
+      "translationEn": "The child forgot the tablet on the table and went out.",
+      "words": [
+        {
+          "w": "نَسِيَ",
+          "root": "ن س ي",
+          "bs": "zaboravio je",
+          "en": "forgot"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child"
+        },
+        {
+          "w": "التَّابْلِيتَ",
+          "bs": "tablet",
+          "en": "the tablet"
+        },
+        {
+          "w": "الطَّاوِلَةِ",
+          "root": "ط و ل",
+          "bs": "stolu",
+          "en": "the table"
+        }
+      ]
     },
     {
       "arabic": "أَغْلَقَتِ الْأُمُّ التَّابْلِيتَ وَوَضَعَتْهُ فِي الرَّفِّ.",
       "translation": "Majka je ugasila tablet i stavila ga na policu.",
-      "translationEn": "The mother turned off the tablet and placed it on the shelf."
+      "translationEn": "The mother turned off the tablet and placed it on the shelf.",
+      "words": [
+        {
+          "w": "أَغْلَقَتِ",
+          "root": "غ ل ق",
+          "bs": "ugasila je",
+          "en": "turned off"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "the mother"
+        },
+        {
+          "w": "التَّابْلِيتَ",
+          "bs": "tablet",
+          "en": "the tablet"
+        },
+        {
+          "w": "وَضَعَتْهُ",
+          "root": "و ض ع",
+          "bs": "stavila ga je",
+          "en": "placed it"
+        },
+        {
+          "w": "الرَّفِّ",
+          "root": "ر ف ف",
+          "bs": "policu",
+          "en": "the shelf"
+        }
+      ]
     },
     {
       "arabic": "حِينَ رَجَعَ الطِّفْلُ بَحَثَ عَنِ التَّابْلِيتِ.",
       "translation": "Kad se dijete vratilo tražilo je tablet.",
-      "translationEn": "When the child returned he looked for the tablet."
+      "translationEn": "When the child returned he looked for the tablet.",
+      "words": [
+        {
+          "w": "رَجَعَ",
+          "root": "ر ج ع",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child"
+        },
+        {
+          "w": "بَحَثَ",
+          "root": "ب ح ث",
+          "bs": "tražio je",
+          "en": "looked for"
+        },
+        {
+          "w": "التَّابْلِيتِ",
+          "bs": "tablet",
+          "en": "the tablet"
+        }
+      ]
     },
     {
       "arabic": "أَخْبَرَتْهُ الْأُمُّ مَكَانَهُ وَشَكَرَهَا.",
       "translation": "Majka mu je rekla gdje je i on joj zahvalio.",
-      "translationEn": "The mother told him where it was and he thanked her."
+      "translationEn": "The mother told him where it was and he thanked her.",
+      "words": [
+        {
+          "w": "أَخْبَرَتْهُ",
+          "root": "خ ب ر",
+          "bs": "rekla mu je",
+          "en": "told him"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "the mother"
+        },
+        {
+          "w": "مَكَانَهُ",
+          "root": "م ك ن",
+          "bs": "gdje je",
+          "en": "where it was"
+        },
+        {
+          "w": "شَكَرَهَا",
+          "root": "ش ك ر",
+          "bs": "zahvalio joj je",
+          "en": "thanked her"
+        }
+      ]
     }
   ],
   "metadata": {

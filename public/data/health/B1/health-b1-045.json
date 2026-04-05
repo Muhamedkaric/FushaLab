@@ -6,31 +6,178 @@
     {
       "arabic": "جَاءَ حَازِمٌ إِلَى الصَّيْدَلِيَّةِ لِيَشْتَرِيَ دَوَاءً لِأُمِّهِ.",
       "translation": "Hazim je došao u apoteku da kupi lijek za majku.",
-      "translationEn": "Hazim came to the pharmacy to buy medicine for his mother."
+      "translationEn": "Hazim came to the pharmacy to buy medicine for his mother.",
+      "words": [
+        {
+          "w": "جَاءَ",
+          "root": "ج ي أ",
+          "bs": "došao je",
+          "en": "came"
+        },
+        {
+          "w": "الصَّيْدَلِيَّةِ",
+          "root": "ص ي د",
+          "bs": "apoteka",
+          "en": "pharmacy"
+        },
+        {
+          "w": "يَشْتَرِيَ",
+          "root": "ش ر ي",
+          "bs": "kupi",
+          "en": "to buy"
+        },
+        {
+          "w": "دَوَاءً",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "أُمِّهِ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَى الصَّيْدَلَانِيَّ وَرَقَةَ الْوَصْفَةِ الطِّبِّيَّةِ.",
       "translation": "Dao je farmaceutu recept.",
-      "translationEn": "He gave the pharmacist the medical prescription."
+      "translationEn": "He gave the pharmacist the medical prescription.",
+      "words": [
+        {
+          "w": "أَعْطَى",
+          "root": "ع ط ي",
+          "bs": "dao je",
+          "en": "gave"
+        },
+        {
+          "w": "الصَّيْدَلَانِيَّ",
+          "root": "ص ي د",
+          "bs": "farmaceut",
+          "en": "pharmacist"
+        },
+        {
+          "w": "وَرَقَةَ",
+          "root": "و ر ق",
+          "bs": "papir",
+          "en": "paper"
+        },
+        {
+          "w": "الْوَصْفَةِ",
+          "root": "و ص ف",
+          "bs": "recept",
+          "en": "prescription"
+        },
+        {
+          "w": "الطِّبِّيَّةِ",
+          "root": "ط ب ب",
+          "bs": "medicinski",
+          "en": "medical"
+        }
+      ]
     },
     {
       "arabic": "أَحْضَرَ الصَّيْدَلَانِيُّ الدَّوَاءَ وَشَرَحَ كَيْفَ تَأْخُذُهُ.",
       "translation": "Farmaceut je donio lijek i objasnio kako ga uzimati.",
-      "translationEn": "The pharmacist brought the medicine and explained how to take it."
+      "translationEn": "The pharmacist brought the medicine and explained how to take it.",
+      "words": [
+        {
+          "w": "أَحْضَرَ",
+          "root": "ح ض ر",
+          "bs": "donio je",
+          "en": "brought"
+        },
+        {
+          "w": "الصَّيْدَلَانِيُّ",
+          "root": "ص ي د",
+          "bs": "farmaceut",
+          "en": "pharmacist"
+        },
+        {
+          "w": "الدَّوَاءَ",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "شَرَحَ",
+          "root": "ش ر ح",
+          "bs": "objasnio je",
+          "en": "explained"
+        }
+      ]
     },
     {
       "arabic": "عَادَ حَازِمٌ إِلَى الْبَيْتِ بِسُرْعَةٍ لِيُعْطِيَ أُمَّهُ الدَّوَاءَ.",
       "translation": "Hazim se brzo vratio kući da da majci lijek.",
-      "translationEn": "Hazim returned home quickly to give his mother the medicine."
+      "translationEn": "Hazim returned home quickly to give his mother the medicine.",
+      "words": [
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly"
+        },
+        {
+          "w": "يُعْطِيَ",
+          "root": "ع ط ي",
+          "bs": "da da",
+          "en": "to give"
+        },
+        {
+          "w": "أُمَّهُ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother"
+        },
+        {
+          "w": "الدَّوَاءَ",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        }
+      ]
     },
     {
       "arabic": "شَكَرَتْ أُمُّهُ عَلَى اهْتِمَامِهِ بِهَا.",
       "translation": "Majka mu je zahvalila na brizi o njoj.",
-      "translationEn": "His mother thanked him for his care for her."
+      "translationEn": "His mother thanked him for his care for her.",
+      "words": [
+        {
+          "w": "شَكَرَتْ",
+          "root": "ش ك ر",
+          "bs": "zahvalila je",
+          "en": "thanked"
+        },
+        {
+          "w": "أُمُّهُ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother"
+        },
+        {
+          "w": "اهْتِمَامِهِ",
+          "root": "ه ت م",
+          "bs": "briga",
+          "en": "care"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["pharmacy", "prescription", "medicine", "family"]
+    "tags": [
+      "pharmacy",
+      "prescription",
+      "medicine",
+      "family"
+    ]
   }
 }

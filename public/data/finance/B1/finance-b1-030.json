@@ -6,22 +6,45 @@
     {
       "arabic": "طَلَبَ المُعَلِّمُ مِنَ الطُّلَّابِ لَعِبَةَ بَيْعٍ وَشِرَاءٍ.",
       "translation": "Nastavnik je zamolio učenike da igraju igru prodaje i kupovine.",
-      "translationEn": "The teacher asked the students to play a buying and selling game."
+      "translationEn": "The teacher asked the students to play a buying and selling game.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je", "en": "asked" },
+        { "w": "المُعَلِّمُ", "root": "ع ل م", "bs": "nastavnik", "en": "teacher" },
+        { "w": "الطُّلَّابِ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "لَعِبَةَ", "root": "ل ع ب", "bs": "igra", "en": "game" }
+      ]
     },
     {
       "arabic": "أَعْطَى كُلَّ طَالِبٍ نُقُودًا وَرَقِيَّةً مَصْنُوعَةً مِنَ الكَرْتُونِ.",
       "translation": "Dao je svakom učeniku papirnati novac napravljen od kartona.",
-      "translationEn": "He gave each student paper money made from cardboard."
+      "translationEn": "He gave each student paper money made from cardboard.",
+      "words": [
+        { "w": "أَعْطَى", "root": "ع ط و", "bs": "dao je", "en": "gave" },
+        { "w": "طَالِبٍ", "root": "ط ل ب", "bs": "učenik", "en": "student" },
+        { "w": "نُقُودًا", "root": "ن ق د", "bs": "novac", "en": "money" },
+        { "w": "مَصْنُوعَةً", "root": "ص ن ع", "bs": "napravljen", "en": "made" }
+      ]
     },
     {
       "arabic": "بَاعَ بَعْضُهُمْ وَاشْتَرَى الآخَرُونَ.",
       "translation": "Neki su prodavali a drugi kupovali.",
-      "translationEn": "Some of them sold and others bought."
+      "translationEn": "Some of them sold and others bought.",
+      "words": [
+        { "w": "بَاعَ", "root": "ب ي ع", "bs": "prodavali su", "en": "sold" },
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupovali su", "en": "bought" },
+        { "w": "الآخَرُونَ", "root": "أ خ ر", "bs": "drugi", "en": "others" }
+      ]
     },
     {
       "arabic": "تَعَلَّمُوا كَيْفَ يَسْأَلُونَ عَنِ السِّعْرِ وَيَدْفَعُونَ.",
       "translation": "Naučili su kako pitati za cijenu i platiti.",
-      "translationEn": "They learned how to ask about the price and pay."
+      "translationEn": "They learned how to ask about the price and pay.",
+      "words": [
+        { "w": "تَعَلَّمُوا", "root": "ع ل م", "bs": "naučili su", "en": "learned" },
+        { "w": "يَسْأَلُونَ", "root": "س أ ل", "bs": "pitaju", "en": "ask" },
+        { "w": "السِّعْرِ", "root": "س ع ر", "bs": "cijena", "en": "price" },
+        { "w": "يَدْفَعُونَ", "root": "د ف ع", "bs": "plaćaju", "en": "pay" }
+      ]
     }
   ],
   "metadata": {

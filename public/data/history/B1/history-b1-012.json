@@ -6,22 +6,44 @@
     {
       "arabic": "كَانَ الْحَدَّادُ يَصْنَعُ أَدَوَاتٍ مِنَ الْحَدِيدِ.",
       "translation": "Kovač je pravio alate od željeza.",
-      "translationEn": "The blacksmith used to make tools from iron."
+      "translationEn": "The blacksmith used to make tools from iron.",
+      "words": [
+        { "w": "الْحَدَّادُ", "root": "ح د د", "bs": "kovač", "en": "the blacksmith" },
+        { "w": "يَصْنَعُ", "root": "ص ن ع", "bs": "pravi", "en": "makes" },
+        { "w": "أَدَوَاتٍ", "root": "أ د و", "bs": "alati", "en": "tools" },
+        { "w": "الْحَدِيدِ", "root": "ح د د", "bs": "željeza", "en": "iron" }
+      ]
     },
     {
       "arabic": "كَانَ يُسَخِّنُ الْحَدِيدَ فِي النَّارِ ثُمَّ يَطْرُقُهُ.",
       "translation": "Grijao je željezo u vatri, a potom ga udarao.",
-      "translationEn": "He would heat the iron in the fire and then hammer it."
+      "translationEn": "He would heat the iron in the fire and then hammer it.",
+      "words": [
+        { "w": "يُسَخِّنُ", "root": "س خ ن", "bs": "grije", "en": "heats" },
+        { "w": "الْحَدِيدَ", "root": "ح د د", "bs": "željeza", "en": "the iron" },
+        { "w": "النَّارِ", "root": "ن و ر", "bs": "vatra", "en": "the fire" },
+        { "w": "يَطْرُقُهُ", "root": "ط ر ق", "bs": "udara ga", "en": "hammers it" }
+      ]
     },
     {
       "arabic": "صَنَعَ سِكَّةً لِلْفَلَّاحِ وَمِفْتَاحًا لِلتَّاجِرِ.",
       "translation": "Napravio je plug za seljaka i ključ za trgovca.",
-      "translationEn": "He made a plough for the farmer and a key for the merchant."
+      "translationEn": "He made a plough for the farmer and a key for the merchant.",
+      "words": [
+        { "w": "صَنَعَ", "root": "ص ن ع", "bs": "napravio je", "en": "made" },
+        { "w": "سِكَّةً", "root": "س ك ك", "bs": "plug", "en": "a plough" },
+        { "w": "الْفَلَّاحِ", "root": "ف ل ح", "bs": "seljaka", "en": "the farmer" },
+        { "w": "مِفْتَاحًا", "root": "ف ت ح", "bs": "ključ", "en": "a key" }
+      ]
     },
     {
       "arabic": "كَانَ كُلُّ النَّاسِ يَحْتَاجُونَ إِلَى الْحَدَّادِ.",
       "translation": "Svima je bio potreban kovač.",
-      "translationEn": "Everyone needed the blacksmith."
+      "translationEn": "Everyone needed the blacksmith.",
+      "words": [
+        { "w": "يَحْتَاجُونَ", "root": "ح و ج", "bs": "trebaju", "en": "need" },
+        { "w": "الْحَدَّادِ", "root": "ح د د", "bs": "kovač", "en": "the blacksmith" }
+      ]
     }
   ],
   "metadata": {

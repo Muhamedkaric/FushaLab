@@ -6,27 +6,57 @@
     {
       "arabic": "فِي يَوْمِ الأُمِّ، يُقَدِّمُ الأَوْلَادُ هَدَايَا لِأُمَّهَاتِهِمْ.",
       "translation": "Na Majčin dan, djeca donose poklone majkama.",
-      "translationEn": "On Mother's Day, children give gifts to their mothers."
+      "translationEn": "On Mother's Day, children give gifts to their mothers.",
+      "words": [
+        { "w": "يَوْمِ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "الأُمِّ", "root": "أ م م", "bs": "majke", "en": "mother" },
+        { "w": "يُقَدِّمُ", "root": "ق د م", "bs": "donose", "en": "give" },
+        { "w": "الأَوْلَادُ", "root": "و ل د", "bs": "djeca", "en": "children" },
+        { "w": "هَدَايَا", "root": "هـ د ي", "bs": "poklone", "en": "gifts" }
+      ]
     },
     {
       "arabic": "يَشْتَرُونَ الزُّهُورَ وَالحَلْوَى وَالعِطْرَ.",
       "translation": "Kupuju cvijeće, slatkiše i parfem.",
-      "translationEn": "They buy flowers, sweets, and perfume."
+      "translationEn": "They buy flowers, sweets, and perfume.",
+      "words": [
+        { "w": "يَشْتَرُونَ", "root": "ش ر ي", "bs": "kupuju", "en": "buy" },
+        { "w": "الزُّهُورَ", "root": "ز هـ ر", "bs": "cvijeće", "en": "flowers" },
+        { "w": "الحَلْوَى", "root": "ح ل و", "bs": "slatkiše", "en": "sweets" },
+        { "w": "العِطْرَ", "root": "ع ط ر", "bs": "parfem", "en": "perfume" }
+      ]
     },
     {
       "arabic": "يَقُولُونَ لَهَا «أُحِبُّكِ يَا أُمِّي».",
       "translation": "Govore joj «Volim te, mama».",
-      "translationEn": "They say to her «I love you, Mom»."
+      "translationEn": "They say to her «I love you, Mom».",
+      "words": [
+        { "w": "يَقُولُونَ", "root": "ق و ل", "bs": "govore", "en": "say" },
+        { "w": "أُحِبُّكِ", "root": "ح ب ب", "bs": "volim te", "en": "I love you" }
+      ]
     },
     {
       "arabic": "الأُمُّ تَشْعُرُ بِالسَّعَادَةِ وَتَبْكِي مِنَ الفَرَحِ.",
       "translation": "Majka se osjeća sretno i plače od radosti.",
-      "translationEn": "The mother feels happy and cries from joy."
+      "translationEn": "The mother feels happy and cries from joy.",
+      "words": [
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
+        { "w": "بِالسَّعَادَةِ", "root": "س ع د", "bs": "sretno", "en": "happy" },
+        { "w": "تَبْكِي", "root": "ب ك ي", "bs": "plače", "en": "cries" },
+        { "w": "الفَرَحِ", "root": "ف ر ح", "bs": "radosti", "en": "joy" }
+      ]
     },
     {
       "arabic": "الأُمُّ هِيَ أَغْلَى إِنْسَانٍ فِي الحَيَاةِ.",
       "translation": "Majka je najdraža osoba u životu.",
-      "translationEn": "The mother is the most precious person in life."
+      "translationEn": "The mother is the most precious person in life.",
+      "words": [
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "أَغْلَى", "root": "غ ل و", "bs": "najdraža", "en": "most precious" },
+        { "w": "إِنْسَانٍ", "root": "أ ن س", "bs": "osoba", "en": "person" },
+        { "w": "الحَيَاةِ", "root": "ح ي ي", "bs": "životu", "en": "life" }
+      ]
     }
   ],
   "metadata": {

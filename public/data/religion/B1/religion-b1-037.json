@@ -6,22 +6,114 @@
     {
       "arabic": "تَبَرَّعَتِ الْعَائِلَةُ بِمَلَابِسَ لِلْفُقَرَاءِ.",
       "translation": "Porodica je donirala odjeću siromašnima.",
-      "translationEn": "The family donated clothes to the poor."
+      "translationEn": "The family donated clothes to the poor.",
+      "words": [
+        {
+          "w": "تَبَرَّعَتِ",
+          "root": "ب ر ع",
+          "bs": "donirala je",
+          "en": "donated"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "the family"
+        },
+        {
+          "w": "بِمَلَابِسَ",
+          "root": "ل ب س",
+          "bs": "odjeću",
+          "en": "clothes"
+        },
+        {
+          "w": "لِلْفُقَرَاءِ",
+          "root": "ف ق ر",
+          "bs": "siromašnima",
+          "en": "the poor"
+        }
+      ]
     },
     {
       "arabic": "جَمَعَتِ الْمَلَابِسَ النَّظِيفَةَ الَّتِي لَمْ تَعُدْ تَسْتَخْدِمُهَا.",
       "translation": "Skupili su čistu odjeću koju više ne koriste.",
-      "translationEn": "They collected clean clothes they no longer used."
+      "translationEn": "They collected clean clothes they no longer used.",
+      "words": [
+        {
+          "w": "جَمَعَتِ",
+          "root": "ج م ع",
+          "bs": "skupili su",
+          "en": "collected"
+        },
+        {
+          "w": "الْمَلَابِسَ",
+          "root": "ل ب س",
+          "bs": "odjeću",
+          "en": "clothes"
+        },
+        {
+          "w": "النَّظِيفَةَ",
+          "root": "ن ظ ف",
+          "bs": "čistu",
+          "en": "clean"
+        },
+        {
+          "w": "لَمْ تَعُدْ تَسْتَخْدِمُهَا",
+          "root": "خ د م",
+          "bs": "više ne koriste",
+          "en": "no longer used"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَوْهَا لِلْجَمْعِيَّةِ الْخَيْرِيَّةِ فِي الْحَيِّ.",
       "translation": "Dali su ih dobrotvornoj organizaciji u kvartu.",
-      "translationEn": "They gave them to the charity in the neighborhood."
+      "translationEn": "They gave them to the charity in the neighborhood.",
+      "words": [
+        {
+          "w": "أَعْطَوْهَا",
+          "root": "ع ط و",
+          "bs": "dali su je",
+          "en": "gave them"
+        },
+        {
+          "w": "لِلْجَمْعِيَّةِ الْخَيْرِيَّةِ",
+          "root": "خ ي ر",
+          "bs": "dobrotvornoj organizaciji",
+          "en": "the charity"
+        },
+        {
+          "w": "الْحَيِّ",
+          "root": "ح ي و",
+          "bs": "kvartu",
+          "en": "the neighborhood"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الطِّفْلُ: أَنَا سَعِيدٌ لِأَنَّنَا أَعَنَّا النَّاسَ.",
       "translation": "Dijete je reklo: Sretan sam što smo pomogli ljudima.",
-      "translationEn": "The child said: I am happy because we helped people."
+      "translationEn": "The child said: I am happy because we helped people.",
+      "words": [
+        {
+          "w": "سَعِيدٌ",
+          "root": "س ع د",
+          "bs": "sretan",
+          "en": "happy"
+        },
+        {
+          "w": "أَعَنَّا",
+          "root": "ع و ن",
+          "bs": "pomogli smo",
+          "en": "we helped"
+        },
+        {
+          "w": "النَّاسَ",
+          "root": "ن و س",
+          "bs": "ljude",
+          "en": "people"
+        }
+      ]
     }
   ],
   "metadata": {

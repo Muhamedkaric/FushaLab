@@ -6,22 +6,119 @@
     {
       "arabic": "بَحَثَ عُمَرُ عَنْ مَعْنَى كَلِمَةٍ فِي الْإِنْتِرْنِتِ.",
       "translation": "Omer je tražio značenje riječi na internetu.",
-      "translationEn": "Omar searched for the meaning of a word on the internet."
+      "translationEn": "Omar searched for the meaning of a word on the internet.",
+      "words": [
+        {
+          "w": "بَحَثَ",
+          "root": "ب ح ث",
+          "bs": "tražio je",
+          "en": "searched"
+        },
+        {
+          "w": "مَعْنَى",
+          "root": "ع ن ي",
+          "bs": "značenje",
+          "en": "the meaning"
+        },
+        {
+          "w": "كَلِمَةٍ",
+          "root": "ك ل م",
+          "bs": "riječi",
+          "en": "a word"
+        },
+        {
+          "w": "الْإِنْتِرْنِتِ",
+          "bs": "internetu",
+          "en": "the internet"
+        }
+      ]
     },
     {
       "arabic": "كَتَبَ الْكَلِمَةَ فِي مَحْرَكِ الْبَحْثِ وَضَغَطَ بَحْثًا.",
       "translation": "Upisao je riječ u tražilicu i pritisnuo pretraži.",
-      "translationEn": "He typed the word in the search engine and pressed search."
+      "translationEn": "He typed the word in the search engine and pressed search.",
+      "words": [
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "upisao je",
+          "en": "typed"
+        },
+        {
+          "w": "الْكَلِمَةَ",
+          "root": "ك ل م",
+          "bs": "riječ",
+          "en": "the word"
+        },
+        {
+          "w": "مَحْرَكِ الْبَحْثِ",
+          "root": "ب ح ث",
+          "bs": "tražilicu",
+          "en": "search engine"
+        },
+        {
+          "w": "ضَغَطَ",
+          "root": "ض غ ط",
+          "bs": "pritisnuo je",
+          "en": "pressed"
+        }
+      ]
     },
     {
       "arabic": "وَجَدَ الْمَعْنَى بِسُرْعَةٍ وَفَهِمَهُ.",
       "translation": "Brzo je pronašao značenje i razumio ga.",
-      "translationEn": "He found the meaning quickly and understood it."
+      "translationEn": "He found the meaning quickly and understood it.",
+      "words": [
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found"
+        },
+        {
+          "w": "الْمَعْنَى",
+          "root": "ع ن ي",
+          "bs": "značenje",
+          "en": "the meaning"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly"
+        },
+        {
+          "w": "فَهِمَهُ",
+          "root": "ف ه م",
+          "bs": "razumio ga je",
+          "en": "understood it"
+        }
+      ]
     },
     {
       "arabic": "قَالَ: الْإِنْتِرْنِتُ يُسَاعِدُنِي كَثِيرًا فِي تَعَلُّمِ اللُّغَةِ.",
       "translation": "Rekao je: Internet mi mnogo pomaže u učenju jezika.",
-      "translationEn": "He said: The internet helps me a lot in learning the language."
+      "translationEn": "He said: The internet helps me a lot in learning the language.",
+      "words": [
+        {
+          "w": "يُسَاعِدُنِي",
+          "root": "س ع د",
+          "bs": "pomaže mi",
+          "en": "helps me"
+        },
+        {
+          "w": "تَعَلُّمِ",
+          "root": "ع ل م",
+          "bs": "učenju",
+          "en": "learning"
+        },
+        {
+          "w": "اللُّغَةِ",
+          "root": "ل غ و",
+          "bs": "jezika",
+          "en": "the language"
+        }
+      ]
     }
   ],
   "metadata": {

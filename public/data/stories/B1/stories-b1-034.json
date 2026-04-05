@@ -6,22 +6,46 @@
     {
       "arabic": "وَجَدَتْ طِفْلَةٌ اسْمُهَا رَانِيَةُ مَحْفَظَةً عَلَى الأَرْضِ.",
       "translation": "Djevojčica po imenu Ranija pronašla je novčanik na tlu.",
-      "translationEn": "A girl named Rania found a wallet on the ground."
+      "translationEn": "A girl named Rania found a wallet on the ground.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
+        { "w": "طِفْلَةٌ", "root": "ط ف ل", "bs": "djevojčica", "en": "girl" },
+        { "w": "مَحْفَظَةً", "root": "ح ف ظ", "bs": "novčanik", "en": "wallet" },
+        { "w": "الأَرْضِ", "root": "أ ر ض", "bs": "tlo", "en": "ground" }
+      ]
     },
     {
       "arabic": "كَانَ فِي الْمَحْفَظَةِ مَالٌ وَبِطَاقَةٌ بِاسْمِ صَاحِبِهَا.",
       "translation": "U novčaniku je bio novac i kartica s imenom vlasnika.",
-      "translationEn": "The wallet had money and a card with the owner's name."
+      "translationEn": "The wallet had money and a card with the owner's name.",
+      "words": [
+        { "w": "الْمَحْفَظَةِ", "root": "ح ف ظ", "bs": "novčanik", "en": "wallet" },
+        { "w": "مَالٌ", "root": "م و ل", "bs": "novac", "en": "money" },
+        { "w": "بِطَاقَةٌ", "root": "ب ط ق", "bs": "kartica", "en": "card" },
+        { "w": "صَاحِبِهَا", "root": "ص ح ب", "bs": "vlasnik", "en": "owner" }
+      ]
     },
     {
       "arabic": "ذَهَبَتْ رَانِيَةُ إِلَى الشُّرْطِيِّ وَأَعْطَتْهُ الْمَحْفَظَةَ.",
       "translation": "Ranija je otišla policajcu i dala mu novčanik.",
-      "translationEn": "Rania went to the police officer and gave him the wallet."
+      "translationEn": "Rania went to the police officer and gave him the wallet.",
+      "words": [
+        { "w": "ذَهَبَتْ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الشُّرْطِيِّ", "root": "ش ر ط", "bs": "policajac", "en": "police officer" },
+        { "w": "أَعْطَتْهُ", "root": "ع ط ي", "bs": "dala mu je", "en": "gave him" },
+        { "w": "الْمَحْفَظَةَ", "root": "ح ف ظ", "bs": "novčanik", "en": "wallet" }
+      ]
     },
     {
       "arabic": "وَجَدَ الشُّرْطِيُّ صَاحِبَ الْمَحْفَظَةِ وَأَثْنَى عَلَى رَانِيَةَ.",
       "translation": "Policajac je pronašao vlasnika novčanika i pohvalio Raniju.",
-      "translationEn": "The police officer found the wallet's owner and praised Rania."
+      "translationEn": "The police officer found the wallet's owner and praised Rania.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "الشُّرْطِيُّ", "root": "ش ر ط", "bs": "policajac", "en": "police officer" },
+        { "w": "صَاحِبَ", "root": "ص ح ب", "bs": "vlasnik", "en": "owner" },
+        { "w": "أَثْنَى", "root": "ث ن ي", "bs": "pohvalio je", "en": "praised" }
+      ]
     }
   ],
   "metadata": {

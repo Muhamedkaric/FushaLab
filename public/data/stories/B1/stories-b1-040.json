@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَتْ بِنْتٌ اسْمُهَا إِيمَانُ تُسَاعِدُ أُمَّهَا كُلَّ يَوْمٍ.",
       "translation": "Bila je djevojčica po imenu Iman koja je svaki dan pomagala majci.",
-      "translationEn": "There was a girl named Iman who helped her mother every day."
+      "translationEn": "There was a girl named Iman who helped her mother every day.",
+      "words": [
+        { "w": "بِنْتٌ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
+        { "w": "تُسَاعِدُ", "root": "س ع د", "bs": "pomagala je", "en": "helped" },
+        { "w": "أُمَّهَا", "root": "أ م م", "bs": "njena majka", "en": "her mother" }
+      ]
     },
     {
       "arabic": "كَانَتْ تَكْنُسُ الْبَيْتَ وَتُرَتِّبُ الطَّاوِلَةَ.",
       "translation": "Metla je kuću i sređivala sto.",
-      "translationEn": "She swept the house and tidied the table."
+      "translationEn": "She swept the house and tidied the table.",
+      "words": [
+        { "w": "تَكْنُسُ", "root": "ك ن س", "bs": "metla je", "en": "swept" },
+        { "w": "الْبَيْتَ", "root": "ب ي ت", "bs": "kuća", "en": "house" },
+        { "w": "تُرَتِّبُ", "root": "ر ت ب", "bs": "sređivala je", "en": "tidied" },
+        { "w": "الطَّاوِلَةَ", "root": "ط و ل", "bs": "sto", "en": "table" }
+      ]
     },
     {
       "arabic": "مَرِضَتِ الأُمُّ يَوْمًا فَطَبَخَتْ إِيمَانُ الطَّعَامَ بِنَفْسِهَا.",
       "translation": "Jednog dana se majka razbolila pa je Iman sama skuhala hranu.",
-      "translationEn": "One day the mother got sick so Iman cooked the food herself."
+      "translationEn": "One day the mother got sick so Iman cooked the food herself.",
+      "words": [
+        { "w": "مَرِضَتِ", "root": "م ر ض", "bs": "razbolila se", "en": "got sick" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "طَبَخَتْ", "root": "ط ب خ", "bs": "skuhala je", "en": "cooked" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" },
+        { "w": "بِنَفْسِهَا", "root": "ن ف س", "bs": "sama", "en": "herself" }
+      ]
     },
     {
       "arabic": "قَالَتِ الأُمُّ: «أَنْتِ ابْنَتِي الطَّيِّبَةُ».",
       "translation": "Majka je rekla: «Ti si moja dobra kćerka».",
-      "translationEn": "The mother said: «You are my kind daughter»."
+      "translationEn": "The mother said: «You are my kind daughter».",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "ابْنَتِي", "root": "ب ن ت", "bs": "moja kćerka", "en": "my daughter" },
+        { "w": "الطَّيِّبَةُ", "root": "ط ي ب", "bs": "dobra", "en": "kind" }
+      ]
     }
   ],
   "metadata": {

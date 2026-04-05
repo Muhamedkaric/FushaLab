@@ -6,27 +6,55 @@
     {
       "arabic": "وَجَدَ فَارُوقٌ حَجَرًا مُلَوَّنًا فِي الطَّرِيقِ إِلَى الْمَدْرَسَةِ.",
       "translation": "Farouk je pronašao šareni kamen na putu do škole.",
-      "translationEn": "Farouk found a colourful stone on the way to school."
+      "translationEn": "Farouk found a colourful stone on the way to school.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "حَجَرًا", "root": "ح ج ر", "bs": "kamen", "en": "stone" },
+        { "w": "مُلَوَّنًا", "root": "ل و ن", "bs": "šareni", "en": "colourful" },
+        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "putu", "en": "road/way" }
+      ]
     },
     {
       "arabic": "كَانَتْ عَلَيْهِ رُسُومٌ صَغِيرَةٌ جَمِيلَةٌ.",
       "translation": "Na njemu su bili mali lijepi crteži.",
-      "translationEn": "It had small beautiful drawings on it."
+      "translationEn": "It had small beautiful drawings on it.",
+      "words": [
+        { "w": "رُسُومٌ", "root": "ر س م", "bs": "crteži", "en": "drawings" },
+        { "w": "صَغِيرَةٌ", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "جَمِيلَةٌ", "root": "ج م ل", "bs": "lijepi", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "أَخَذَهُ إِلَى الْمَدْرَسَةِ وَأَرَاهُ لِأَصْدِقَائِهِ.",
       "translation": "Odneo ga je u školu i pokazao ga prijateljima.",
-      "translationEn": "He took it to school and showed it to his friends."
+      "translationEn": "He took it to school and showed it to his friends.",
+      "words": [
+        { "w": "أَخَذَهُ", "root": "أ خ ذ", "bs": "odneo ga je", "en": "he took it" },
+        { "w": "أَرَاهُ", "root": "ر أ ي", "bs": "pokazao ga je", "en": "he showed it" },
+        { "w": "لِأَصْدِقَائِهِ", "root": "ص د ق", "bs": "prijateljima", "en": "his friends" }
+      ]
     },
     {
       "arabic": "قَالَتِ الْمُعَلِّمَةُ: هَذَا حَجَرٌ دَهَنَهُ طِفْلٌ وَتَرَكَهُ لِيُسَعِدَ شَخْصًا.",
       "translation": "Učiteljica je rekla: Ovo je kamen koji je obojilo dijete i ostavilo ga da usreći nekoga.",
-      "translationEn": "The teacher said: This is a stone a child painted and left to make someone happy."
+      "translationEn": "The teacher said: This is a stone a child painted and left to make someone happy.",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "she said" },
+        { "w": "حَجَرٌ", "root": "ح ج ر", "bs": "kamen", "en": "stone" },
+        { "w": "دَهَنَهُ", "root": "د ه ن", "bs": "obojilo ga je", "en": "painted it" },
+        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dijete", "en": "child" }
+      ]
     },
     {
       "arabic": "قَرَّرَ فَارُوقٌ أَنْ يَصْنَعَ حَجَرًا مُلَوَّنًا وَيَتْرُكَهُ لِشَخْصٍ آخَرَ.",
       "translation": "Farouk je odlučio da napravi šareni kamen i ostavi ga drugoj osobi.",
-      "translationEn": "Farouk decided to make a colourful stone and leave it for someone else."
+      "translationEn": "Farouk decided to make a colourful stone and leave it for someone else.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "he decided" },
+        { "w": "يَصْنَعَ", "root": "ص ن ع", "bs": "napravi", "en": "to make" },
+        { "w": "مُلَوَّنًا", "root": "ل و ن", "bs": "šareni", "en": "colourful" },
+        { "w": "يَتْرُكَهُ", "root": "ت ر ك", "bs": "ostavi ga", "en": "leave it" }
+      ]
     }
   ],
   "metadata": {

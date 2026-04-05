@@ -6,22 +6,42 @@
     {
       "arabic": "قَرَأَتِ التِّلْمِيذَةُ: «الْبَعِيدُ عَنِ الْعَيْنِ بَعِيدٌ عَنِ الْقَلْبِ».",
       "translation": "Učenica je pročitala: «Daleko od oka, daleko od srca».",
-      "translationEn": "The student read: «Far from the eye, far from the heart»."
+      "translationEn": "The student read: «Far from the eye, far from the heart».",
+      "words": [
+        { "w": "الْبَعِيدُ", "root": "ب ع د", "bs": "daleko", "en": "far" },
+        { "w": "الْعَيْنِ", "root": "ع ي ن", "bs": "oko", "en": "eye" },
+        { "w": "الْقَلْبِ", "root": "ق ل ب", "bs": "srce", "en": "heart" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الِابْتِعَادَ يُضْعِفُ الْعَلَاقَاتِ أَحْيَانًا.",
       "translation": "To znači da udaljenost ponekad slabi veze.",
-      "translationEn": "This means that distance sometimes weakens relationships."
+      "translationEn": "This means that distance sometimes weakens relationships.",
+      "words": [
+        { "w": "الِابْتِعَادَ", "root": "ب ع د", "bs": "udaljenost", "en": "distance" },
+        { "w": "يُضْعِفُ", "root": "ض ع ف", "bs": "slabi", "en": "weakens" },
+        { "w": "الْعَلَاقَاتِ", "root": "ع ل ق", "bs": "veze", "en": "relationships" }
+      ]
     },
     {
       "arabic": "انْتَقَلَ صَدِيقُهَا إِلَى مَدِينَةٍ أُخْرَى.",
       "translation": "Njen prijatelj se preselio u drugi grad.",
-      "translationEn": "Her friend moved to another city."
+      "translationEn": "Her friend moved to another city.",
+      "words": [
+        { "w": "انْتَقَلَ", "root": "ن ق ل", "bs": "preselio se", "en": "moved" },
+        { "w": "صَدِيقُهَا", "root": "ص د ق", "bs": "njen prijatelj", "en": "her friend" },
+        { "w": "مَدِينَةٍ", "root": "م د ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "لَكِنَّهُمَا تَكَلَّمَا كُلَّ أُسْبُوعٍ وَبَقِيَتِ الصَّدَاقَةُ قَوِيَّةً.",
       "translation": "Ali su svake sedmice razgovarali i prijateljstvo je ostalo jako.",
-      "translationEn": "But they spoke every week and the friendship remained strong."
+      "translationEn": "But they spoke every week and the friendship remained strong.",
+      "words": [
+        { "w": "تَكَلَّمَا", "root": "ك ل م", "bs": "razgovarali su", "en": "spoke" },
+        { "w": "الصَّدَاقَةُ", "root": "ص د ق", "bs": "prijateljstvo", "en": "friendship" },
+        { "w": "قَوِيَّةً", "root": "ق و ي", "bs": "jako", "en": "strong" }
+      ]
     }
   ],
   "metadata": {

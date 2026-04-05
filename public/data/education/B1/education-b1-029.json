@@ -6,31 +6,159 @@
     {
       "arabic": "كَانَ الطَّقْسُ بَارِدًا فِي الصَّبَاحِ.",
       "translation": "Jutro je bilo hladno.",
-      "translationEn": "The weather was cold in the morning."
+      "translationEn": "The weather was cold in the morning.",
+      "words": [
+        {
+          "w": "الطَّقْسُ",
+          "root": "ط ق س",
+          "bs": "vrijeme/klima",
+          "en": "weather"
+        },
+        {
+          "w": "بَارِدًا",
+          "root": "ب ر د",
+          "bs": "hladno",
+          "en": "cold"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning"
+        }
+      ]
     },
     {
       "arabic": "لَبِسَ الطُّلَّابُ مَعَاطِفَهُمْ وَذَهَبُوا إِلَى المَدْرَسَةِ.",
       "translation": "Učenici su obukli kapute i otišli u školu.",
-      "translationEn": "The students wore their coats and went to school."
+      "translationEn": "The students wore their coats and went to school.",
+      "words": [
+        {
+          "w": "لَبِسَ",
+          "root": "ل ب س",
+          "bs": "obukli",
+          "en": "wore"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "مَعَاطِفَهُمْ",
+          "root": "ع ط ف",
+          "bs": "kaputi",
+          "en": "coats"
+        },
+        {
+          "w": "ذَهَبُوا",
+          "root": "ذ ه ب",
+          "bs": "otišli",
+          "en": "went"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        }
+      ]
     },
     {
       "arabic": "دَخَلُوا الفَصْلَ وَشَعَرُوا بِالدِّفْءِ.",
       "translation": "Ušli su u razred i osjetili toplinu.",
-      "translationEn": "They entered the classroom and felt warm."
+      "translationEn": "They entered the classroom and felt warm.",
+      "words": [
+        {
+          "w": "دَخَلُوا",
+          "root": "د خ ل",
+          "bs": "ušli",
+          "en": "entered"
+        },
+        {
+          "w": "الفَصْلَ",
+          "root": "ف ص ل",
+          "bs": "razred",
+          "en": "classroom"
+        },
+        {
+          "w": "شَعَرُوا",
+          "root": "ش ع ر",
+          "bs": "osjetili",
+          "en": "felt"
+        },
+        {
+          "w": "بِالدِّفْءِ",
+          "root": "د ف أ",
+          "bs": "toplina",
+          "en": "warmth"
+        }
+      ]
     },
     {
       "arabic": "بَدَأَ الدَّرْسُ وَنَسِيَ الجَمِيعُ البَرْدَ.",
       "translation": "Čas je počeo i svi su zaboravili na hladnoću.",
-      "translationEn": "The lesson started and everyone forgot the cold."
+      "translationEn": "The lesson started and everyone forgot the cold.",
+      "words": [
+        {
+          "w": "بَدَأَ",
+          "root": "ب د أ",
+          "bs": "počeo",
+          "en": "started"
+        },
+        {
+          "w": "الدَّرْسُ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "lesson"
+        },
+        {
+          "w": "نَسِيَ",
+          "root": "ن س ي",
+          "bs": "zaboravili",
+          "en": "forgot"
+        },
+        {
+          "w": "البَرْدَ",
+          "root": "ب ر د",
+          "bs": "hladnoća",
+          "en": "cold"
+        }
+      ]
     },
     {
       "arabic": "كَانَ الدَّرْسُ يَوْمًا دَافِئًا لِلْجَمِيعِ.",
       "translation": "Čas je bio toplo iskustvo za sve.",
-      "translationEn": "The lesson was a warm experience for everyone."
+      "translationEn": "The lesson was a warm experience for everyone.",
+      "words": [
+        {
+          "w": "الدَّرْسُ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "lesson"
+        },
+        {
+          "w": "يَوْمًا",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "دَافِئًا",
+          "root": "د ف أ",
+          "bs": "toplo",
+          "en": "warm"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["weather", "school", "morning"]
+    "tags": [
+      "weather",
+      "school",
+      "morning"
+    ]
   }
 }

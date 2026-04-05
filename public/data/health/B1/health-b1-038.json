@@ -6,26 +6,129 @@
     {
       "arabic": "تَغْسِلُ لُجَيْنُ يَدَيْهَا قَبْلَ كُلِّ وَجْبَةٍ.",
       "translation": "Ludjejn pere ruke prije svakog obroka.",
-      "translationEn": "Lujain washes her hands before every meal."
+      "translationEn": "Lujain washes her hands before every meal.",
+      "words": [
+        {
+          "w": "تَغْسِلُ",
+          "root": "غ س ل",
+          "bs": "pere",
+          "en": "washes"
+        },
+        {
+          "w": "يَدَيْهَا",
+          "root": "ي د ي",
+          "bs": "ruke",
+          "en": "hands"
+        },
+        {
+          "w": "وَجْبَةٍ",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "meal"
+        }
+      ]
     },
     {
       "arabic": "تَعْلَمُ أَنَّ غَسِيلَ الْيَدَيْنِ يَمْنَعُ الْأَمْرَاضَ.",
       "translation": "Zna da pranje ruku sprečava bolesti.",
-      "translationEn": "She knows that washing hands prevents diseases."
+      "translationEn": "She knows that washing hands prevents diseases.",
+      "words": [
+        {
+          "w": "تَعْلَمُ",
+          "root": "ع ل م",
+          "bs": "zna",
+          "en": "knows"
+        },
+        {
+          "w": "غَسِيلَ",
+          "root": "غ س ل",
+          "bs": "pranje",
+          "en": "washing"
+        },
+        {
+          "w": "الْيَدَيْنِ",
+          "root": "ي د ي",
+          "bs": "ruke",
+          "en": "hands"
+        },
+        {
+          "w": "يَمْنَعُ",
+          "root": "م ن ع",
+          "bs": "sprečava",
+          "en": "prevents"
+        },
+        {
+          "w": "الْأَمْرَاضَ",
+          "root": "م ر ض",
+          "bs": "bolesti",
+          "en": "diseases"
+        }
+      ]
     },
     {
       "arabic": "تَغْسِلُهُمَا بِالصَّابُونِ لِمُدَّةِ عِشْرِينَ ثَانِيَةً.",
       "translation": "Pere ih sapunom dvadeset sekundi.",
-      "translationEn": "She washes them with soap for twenty seconds."
+      "translationEn": "She washes them with soap for twenty seconds.",
+      "words": [
+        {
+          "w": "تَغْسِلُهُمَا",
+          "root": "غ س ل",
+          "bs": "pere ih",
+          "en": "washes them"
+        },
+        {
+          "w": "بِالصَّابُونِ",
+          "root": "ص ب ن",
+          "bs": "sapun",
+          "en": "soap"
+        },
+        {
+          "w": "ثَانِيَةً",
+          "root": "ث ن ي",
+          "bs": "sekunda",
+          "en": "seconds"
+        }
+      ]
     },
     {
       "arabic": "عَلَّمَتْ أَخَاهَا الصَّغِيرَ نَفْسَ الْعَادَةِ.",
       "translation": "Naučila je svog malog brata istu naviku.",
-      "translationEn": "She taught her little brother the same habit."
+      "translationEn": "She taught her little brother the same habit.",
+      "words": [
+        {
+          "w": "عَلَّمَتْ",
+          "root": "ع ل م",
+          "bs": "naučila je",
+          "en": "taught"
+        },
+        {
+          "w": "أَخَاهَا",
+          "root": "أ خ و",
+          "bs": "brat",
+          "en": "brother"
+        },
+        {
+          "w": "الصَّغِيرَ",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "little"
+        },
+        {
+          "w": "الْعَادَةَ",
+          "root": "ع و د",
+          "bs": "navika",
+          "en": "habit"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["hygiene", "hand washing", "prevention", "healthy habits"]
+    "tags": [
+      "hygiene",
+      "hand washing",
+      "prevention",
+      "healthy habits"
+    ]
   }
 }

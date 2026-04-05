@@ -6,22 +6,49 @@
     {
       "arabic": "كَانَ هُنَاكَ طَائِرٌ أَزْرَقُ يَحِبُّ الْغِنَاءَ كُلَّ صَبَاحٍ.",
       "translation": "Bila je plava ptica koja je voljela pjevati svako jutro.",
-      "translationEn": "There was a blue bird who loved to sing every morning."
+      "translationEn": "There was a blue bird who loved to sing every morning.",
+      "words": [
+        { "w": "طَائِرٌ", "root": "ط ي ر", "bs": "ptica", "en": "bird" },
+        { "w": "أَزْرَقُ", "root": "ز ر ق", "bs": "plava", "en": "blue" },
+        { "w": "يَحِبُّ", "root": "ح ب ب", "bs": "voljela je", "en": "loved" },
+        { "w": "الْغِنَاءَ", "root": "غ ن ي", "bs": "pjevanje", "en": "singing" },
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "كَانَ سُكَّانُ الْقَرْيَةِ يَسْتَيْقِظُونَ عَلَى صَوْتِهِ.",
       "translation": "Stanovnici sela su se budili na zvuk njenog pjeva.",
-      "translationEn": "The village residents would wake up to its sound."
+      "translationEn": "The village residents would wake up to its sound.",
+      "words": [
+        { "w": "سُكَّانُ", "root": "س ك ن", "bs": "stanovnici", "en": "residents" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" },
+        { "w": "يَسْتَيْقِظُونَ", "root": "ي ق ظ", "bs": "budili su se", "en": "would wake up" },
+        { "w": "صَوْتِهِ", "root": "ص و ت", "bs": "njen glas", "en": "its sound" }
+      ]
     },
     {
       "arabic": "فِي يَوْمٍ مُمْطِرٍ سَكَتَ الطَّائِرُ وَاشْتَاقَ إِلَيْهِ النَّاسُ.",
       "translation": "Kišnog dana ptica je ušutjela i narodu je nedostajala.",
-      "translationEn": "On a rainy day the bird fell silent and people missed it."
+      "translationEn": "On a rainy day the bird fell silent and people missed it.",
+      "words": [
+        { "w": "مُمْطِرٍ", "root": "م ط ر", "bs": "kišan", "en": "rainy" },
+        { "w": "سَكَتَ", "root": "س ك ت", "bs": "ušutjela je", "en": "fell silent" },
+        { "w": "الطَّائِرُ", "root": "ط ي ر", "bs": "ptica", "en": "bird" },
+        { "w": "اشْتَاقَ", "root": "ش و ق", "bs": "nedostajala", "en": "missed" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "narod", "en": "people" }
+      ]
     },
     {
       "arabic": "حِينَ خَرَجَتِ الشَّمْسُ غَنَّى الطَّائِرُ مِنْ جَدِيدٍ وَفَرِحَ الْجَمِيعُ.",
       "translation": "Kad je izašlo sunce, ptica je ponovo zapjevala i svi su se obradovali.",
-      "translationEn": "When the sun came out the bird sang again and everyone was happy."
+      "translationEn": "When the sun came out the bird sang again and everyone was happy.",
+      "words": [
+        { "w": "خَرَجَتِ", "root": "خ ر ج", "bs": "izašlo je", "en": "came out" },
+        { "w": "الشَّمْسُ", "root": "ش م س", "bs": "sunce", "en": "sun" },
+        { "w": "غَنَّى", "root": "غ ن ي", "bs": "zapjevala je", "en": "sang" },
+        { "w": "الطَّائِرُ", "root": "ط ي ر", "bs": "ptica", "en": "bird" },
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" }
+      ]
     }
   ],
   "metadata": {

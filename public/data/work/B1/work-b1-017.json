@@ -6,22 +6,47 @@
     {
       "arabic": "أَنْهَتْ مَيَّادَةُ الْعَمَلَ وَشَعَرَتْ بِتَعَبٍ شَدِيدٍ.",
       "translation": "Mejjada je završila posao i osjetila se jako umornom.",
-      "translationEn": "Mayyada finished work and felt very tired."
+      "translationEn": "Mayyada finished work and felt very tired.",
+      "words": [
+        { "w": "أَنْهَتْ", "root": "ن ه ي", "bs": "završila je", "en": "finished" },
+        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
+        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjetila se", "en": "felt" },
+        { "w": "بِتَعَبٍ", "root": "ت ع ب", "bs": "umornom/zamorenom", "en": "tired/fatigue" },
+        { "w": "شَدِيدٍ", "root": "ش د د", "bs": "jako/snažno", "en": "very/intense" }
+      ]
     },
     {
       "arabic": "جَلَسَتْ مَعَ زَمِيلَتِهَا وَشَرِبَتَا الشَّايَ.",
       "translation": "Sjela je s kolegicom i pile su čaj.",
-      "translationEn": "She sat with her colleague and they drank tea."
+      "translationEn": "She sat with her colleague and they drank tea.",
+      "words": [
+        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
+        { "w": "زَمِيلَتِهَا", "root": "ز م ل", "bs": "njena kolegica", "en": "her colleague (f)" },
+        { "w": "شَرِبَتَا", "root": "ش ر ب", "bs": "pile su", "en": "they drank" },
+        { "w": "الشَّايَ", "root": "ش ي أ", "bs": "čaj", "en": "tea" }
+      ]
     },
     {
       "arabic": "تَحَدَّثَتَا عَنْ يَوْمِهِمَا وَضَحِكَتَا.",
       "translation": "Razgovarale su o svom danu i smijale se.",
-      "translationEn": "They talked about their day and laughed."
+      "translationEn": "They talked about their day and laughed.",
+      "words": [
+        { "w": "تَحَدَّثَتَا", "root": "ح د ث", "bs": "razgovarale su", "en": "talked" },
+        { "w": "يَوْمِهِمَا", "root": "ي و م", "bs": "njihov dan", "en": "their day" },
+        { "w": "ضَحِكَتَا", "root": "ض ح ك", "bs": "smijale su se", "en": "laughed" }
+      ]
     },
     {
       "arabic": "قَالَتْ مَيَّادَةُ إِنَّ الْعَمَلَ أَسْهَلُ مَعَ أَصْدِقَاءَ جَيِّدِينَ.",
       "translation": "Mejjada je rekla da je posao lakši uz dobre prijatelje.",
-      "translationEn": "Mayyada said that work is easier with good friends."
+      "translationEn": "Mayyada said that work is easier with good friends.",
+      "words": [
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao", "en": "work" },
+        { "w": "أَسْهَلُ", "root": "س ه ل", "bs": "lakši", "en": "easier" },
+        { "w": "أَصْدِقَاءَ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
+        { "w": "جَيِّدِينَ", "root": "ج و د", "bs": "dobri/dobar", "en": "good" }
+      ]
     }
   ],
   "metadata": {

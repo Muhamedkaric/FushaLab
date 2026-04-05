@@ -6,22 +6,126 @@
     {
       "arabic": "اسْتَمَعَ صَالِحٌ إِلَى دَرْسٍ دِينِيٍّ فِي الْمَسْجِدِ.",
       "translation": "Salih je slušao vjerski čas u džamiji.",
-      "translationEn": "Salih listened to a religious lesson in the mosque."
+      "translationEn": "Salih listened to a religious lesson in the mosque.",
+      "words": [
+        {
+          "w": "اسْتَمَعَ",
+          "root": "س م ع",
+          "bs": "slušao je",
+          "en": "listened"
+        },
+        {
+          "w": "دَرْسٍ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "a lesson"
+        },
+        {
+          "w": "دِينِيٍّ",
+          "root": "د ي ن",
+          "bs": "vjerski",
+          "en": "religious"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "root": "س ج د",
+          "bs": "džamiji",
+          "en": "the mosque"
+        }
+      ]
     },
     {
       "arabic": "تَحَدَّثَ الشَّيْخُ عَنِ الصِّدْقِ وَالْأَمَانَةِ.",
       "translation": "Šejh je govorio o iskrenosti i povjerljivosti.",
-      "translationEn": "The Sheikh spoke about honesty and trustworthiness."
+      "translationEn": "The Sheikh spoke about honesty and trustworthiness.",
+      "words": [
+        {
+          "w": "تَحَدَّثَ",
+          "root": "ح د ث",
+          "bs": "govorio je",
+          "en": "spoke"
+        },
+        {
+          "w": "الشَّيْخُ",
+          "root": "ش ي خ",
+          "bs": "šejh",
+          "en": "the Sheikh"
+        },
+        {
+          "w": "الصِّدْقِ",
+          "root": "ص د ق",
+          "bs": "iskrenosti",
+          "en": "honesty"
+        },
+        {
+          "w": "الْأَمَانَةِ",
+          "root": "أ م ن",
+          "bs": "povjerljivosti",
+          "en": "trustworthiness"
+        }
+      ]
     },
     {
       "arabic": "كَتَبَ صَالِحٌ بَعْضَ مَا قَالَهُ الشَّيْخُ فِي دَفْتَرِهِ.",
       "translation": "Salih je nešto od šejhovog govora zapisao u bilježnicu.",
-      "translationEn": "Salih wrote some of what the Sheikh said in his notebook."
+      "translationEn": "Salih wrote some of what the Sheikh said in his notebook.",
+      "words": [
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "zapisao je",
+          "en": "wrote"
+        },
+        {
+          "w": "مَا قَالَهُ",
+          "root": "ق و ل",
+          "bs": "ono što je rekao",
+          "en": "what he said"
+        },
+        {
+          "w": "الشَّيْخُ",
+          "root": "ش ي خ",
+          "bs": "šejh",
+          "en": "the Sheikh"
+        },
+        {
+          "w": "دَفْتَرِهِ",
+          "root": "د ف ت",
+          "bs": "bilježnicu",
+          "en": "his notebook"
+        }
+      ]
     },
     {
       "arabic": "قَرَّرَ أَنْ يُطَبِّقَ مَا تَعَلَّمَهُ فِي حَيَاتِهِ.",
       "translation": "Odlučio je primjeniti ono što je naučio u životu.",
-      "translationEn": "He decided to apply what he learned in his life."
+      "translationEn": "He decided to apply what he learned in his life.",
+      "words": [
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided"
+        },
+        {
+          "w": "يُطَبِّقَ",
+          "root": "ط ب ق",
+          "bs": "primjeniti",
+          "en": "apply"
+        },
+        {
+          "w": "تَعَلَّمَهُ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "what he learned"
+        },
+        {
+          "w": "حَيَاتِهِ",
+          "root": "ح ي و",
+          "bs": "životu",
+          "en": "his life"
+        }
+      ]
     }
   ],
   "metadata": {

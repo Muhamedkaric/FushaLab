@@ -6,22 +6,46 @@
     {
       "arabic": "رَأَى مِصْبَاحٌ كَلْبًا وَحِيدًا فِي الشَّارِعِ فَشَعَرَ بِالشَّفَقَةِ.",
       "translation": "Misbah je vidio usamljenog psa na ulici i osjetio samilost.",
-      "translationEn": "Misbah saw a lonely dog in the street and felt compassion."
+      "translationEn": "Misbah saw a lonely dog in the street and felt compassion.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "كَلْبًا", "root": "ك ل ب", "bs": "pas", "en": "dog" },
+        { "w": "وَحِيدًا", "root": "و ح د", "bs": "usamljenog", "en": "lonely" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" },
+        { "w": "الشَّفَقَةِ", "root": "ش ف ق", "bs": "samilost", "en": "compassion" }
+      ]
     },
     {
       "arabic": "أَحْضَرَ لَهُ الطَّعَامَ وَالْمَاءَ مِنَ الْبَيْتِ.",
       "translation": "Donio mu je hranu i vodu iz kuće.",
-      "translationEn": "He brought it food and water from home."
+      "translationEn": "He brought it food and water from home.",
+      "words": [
+        { "w": "أَحْضَرَ", "root": "ح ض ر", "bs": "donio je", "en": "brought" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana", "en": "food" },
+        { "w": "الْمَاءَ", "root": "م و ه", "bs": "voda", "en": "water" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+      ]
     },
     {
       "arabic": "كَانَ الْكَلْبُ يَهُزُّ ذَيْلَهُ بِفَرَحٍ.",
       "translation": "Pas je radosno mahao repom.",
-      "translationEn": "The dog wagged its tail with joy."
+      "translationEn": "The dog wagged its tail with joy.",
+      "words": [
+        { "w": "الْكَلْبُ", "root": "ك ل ب", "bs": "pas", "en": "dog" },
+        { "w": "يَهُزُّ", "root": "ه ز ز", "bs": "mahao je", "en": "wagged" },
+        { "w": "ذَيْلَهُ", "root": "ذ ي ل", "bs": "njegov rep", "en": "its tail" },
+        { "w": "فَرَحٍ", "root": "ف ر ح", "bs": "radost", "en": "joy" }
+      ]
     },
     {
       "arabic": "الشُّعُورُ بِمَا يَشْعُرُ بِهِ غَيْرُنَا يَجْعَلُنَا أَكْثَرَ إِنْسَانِيَّةً.",
       "translation": "Osjećati ono što osjećaju drugi čini nas humanijima.",
-      "translationEn": "Feeling what others feel makes us more humane."
+      "translationEn": "Feeling what others feel makes us more humane.",
+      "words": [
+        { "w": "الشُّعُورُ", "root": "ش ع ر", "bs": "osjećanje", "en": "feeling" },
+        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjećaju", "en": "feel" },
+        { "w": "إِنْسَانِيَّةً", "root": "أ ن س", "bs": "humanost", "en": "humanity" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,44 @@
     {
       "arabic": "جَمَعَ تَامِرٌ أَصْدِقَاءَهُ لِلَّعِبِ فِي الْحَدِيقَةِ.",
       "translation": "Tamir je skupio prijatelje da se igraju u parku.",
-      "translationEn": "Tamir gathered his friends to play in the park."
+      "translationEn": "Tamir gathered his friends to play in the park.",
+      "words": [
+        { "w": "جَمَعَ", "root": "ج م ع", "bs": "skupio je", "en": "gathered" },
+        { "w": "أَصْدِقَاءَهُ", "root": "ص د ق", "bs": "njegovi prijatelji", "en": "his friends" },
+        { "w": "لِلَّعِبِ", "root": "ل ع ب", "bs": "igranje", "en": "to play" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "park/bašta", "en": "park/garden" }
+      ]
     },
     {
       "arabic": "قَسَّمُوا أَنْفُسَهُمْ إِلَى فَرِيقَيْنِ وَلَعِبُوا كُرَةَ الْقَدَمِ.",
       "translation": "Podijelili su se u dva tima i igrali fudbal.",
-      "translationEn": "They divided themselves into two teams and played football."
+      "translationEn": "They divided themselves into two teams and played football.",
+      "words": [
+        { "w": "قَسَّمُوا", "root": "ق س م", "bs": "podijelili su se", "en": "divided" },
+        { "w": "فَرِيقَيْنِ", "root": "ف ر ق", "bs": "dva tima", "en": "two teams" },
+        { "w": "لَعِبُوا", "root": "ل ع ب", "bs": "igrali su", "en": "played" },
+        { "w": "كُرَةَ الْقَدَمِ", "root": "ك ر ر", "bs": "fudbal", "en": "football" }
+      ]
     },
     {
       "arabic": "سَقَطَ وَاحِدٌ مِنْهُمْ وَتَأَلَّمَ رُكْبَتُهُ قَلِيلًا.",
       "translation": "Jedan od njih je pao i malo ga je boljelo koljeno.",
-      "translationEn": "One of them fell and his knee hurt a little."
+      "translationEn": "One of them fell and his knee hurt a little.",
+      "words": [
+        { "w": "سَقَطَ", "root": "س ق ط", "bs": "pao je", "en": "fell" },
+        { "w": "تَأَلَّمَ", "root": "أ ل م", "bs": "bolio je/boljelo", "en": "hurt/ached" },
+        { "w": "رُكْبَتُهُ", "root": "ر ك ب", "bs": "njegovo koljeno", "en": "his knee" }
+      ]
     },
     {
       "arabic": "سَاعَدَهُ الأَصْدِقَاءُ وَعَادُوا لِلَّعِبِ بَعْدَ قَلِيلٍ.",
       "translation": "Prijatelji su mu pomogli i nastavili igru malo poslije.",
-      "translationEn": "His friends helped him and they resumed playing a little later."
+      "translationEn": "His friends helped him and they resumed playing a little later.",
+      "words": [
+        { "w": "سَاعَدَهُ", "root": "س ع د", "bs": "pomogli su mu", "en": "helped him" },
+        { "w": "الأَصْدِقَاءُ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
+        { "w": "عَادُوا", "root": "ع و د", "bs": "vratili su se/nastavili", "en": "resumed" }
+      ]
     }
   ],
   "metadata": {

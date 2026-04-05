@@ -6,22 +6,50 @@
     {
       "arabic": "سَمِعَتْ سُهَيْلَةُ صَوْتَ مَطَرٍ خَفِيفٍ عَلَى النَّافِذَةِ.",
       "translation": "Suhejla je čula zvuk lagane kiše na prozoru.",
-      "translationEn": "Suhayla heard the sound of light rain on the window."
+      "translationEn": "Suhayla heard the sound of light rain on the window.",
+      "words": [
+        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "čula je", "en": "heard" },
+        { "w": "صَوْتَ", "root": "ص و ت", "bs": "zvuk/glas", "en": "sound" },
+        { "w": "مَطَرٍ", "root": "م ط ر", "bs": "kiša", "en": "rain" },
+        { "w": "خَفِيفٍ", "root": "خ ف ف", "bs": "lagan/tih", "en": "light/gentle" },
+        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" }
+      ]
     },
     {
       "arabic": "فَتَحَتِ النَّافِذَةَ وَشَمَّتْ رَائِحَةَ الأَرْضِ الْمَبْلُولَةِ.",
       "translation": "Otvorila je prozor i namirisala miris mokre zemlje.",
-      "translationEn": "She opened the window and smelled the scent of wet earth."
+      "translationEn": "She opened the window and smelled the scent of wet earth.",
+      "words": [
+        { "w": "فَتَحَتِ", "root": "ف ت ح", "bs": "otvorila je", "en": "opened" },
+        { "w": "النَّافِذَةَ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
+        { "w": "شَمَّتْ", "root": "ش م م", "bs": "namirisala je/osjetila miris", "en": "smelled" },
+        { "w": "رَائِحَةَ", "root": "ر و ح", "bs": "miris", "en": "scent/smell" },
+        { "w": "الأَرْضِ", "root": "أ ر ض", "bs": "zemlja/tlo", "en": "earth/ground" },
+        { "w": "الْمَبْلُولَةِ", "root": "ب ل ل", "bs": "mokre/navlažene", "en": "wet/damp" }
+      ]
     },
     {
       "arabic": "أَحَبَّتْ هَذِهِ الرَّائِحَةَ كَثِيرًا وَجَلَسَتْ تَسْتَمِعُ.",
       "translation": "Jako je voljela taj miris i sjela je da sluša.",
-      "translationEn": "She loved that smell very much and sat down to listen."
+      "translationEn": "She loved that smell very much and sat down to listen.",
+      "words": [
+        { "w": "أَحَبَّتْ", "root": "ح ب ب", "bs": "voljela je", "en": "loved" },
+        { "w": "الرَّائِحَةَ", "root": "ر و ح", "bs": "miris", "en": "smell/scent" },
+        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat down" },
+        { "w": "تَسْتَمِعُ", "root": "س م ع", "bs": "da sluša", "en": "to listen" }
+      ]
     },
     {
       "arabic": "تَذَكَّرَتْ يَوْمَ الْمَطَرِ وَهِيَ طِفْلَةٌ تَلْعَبُ فِي الشَّارِعِ.",
       "translation": "Sjetila se kišnog dana kada je kao dijete igrala na ulici.",
-      "translationEn": "She remembered the rainy day when as a child she played in the street."
+      "translationEn": "She remembered the rainy day when as a child she played in the street.",
+      "words": [
+        { "w": "تَذَكَّرَتْ", "root": "ذ ك ر", "bs": "sjetila se/prisjetila", "en": "remembered" },
+        { "w": "الْمَطَرِ", "root": "م ط ر", "bs": "kiša", "en": "rain" },
+        { "w": "طِفْلَةٌ", "root": "ط ف ل", "bs": "dijete/djevojčica", "en": "child/little girl" },
+        { "w": "تَلْعَبُ", "root": "ل ع ب", "bs": "igrala se", "en": "played" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" }
+      ]
     }
   ],
   "metadata": {

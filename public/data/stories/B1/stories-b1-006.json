@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَ صَيَّادٌ اسْمُهُ رَاشِدٌ يَذْهَبُ إِلَى الْبَحْرِ كُلَّ فَجْرٍ.",
       "translation": "Bio je ribar po imenu Rašid koji je svaki zoru odlazio na more.",
-      "translationEn": "There was a fisherman named Rashid who went to the sea every dawn."
+      "translationEn": "There was a fisherman named Rashid who went to the sea every dawn.",
+      "words": [
+        { "w": "صَيَّادٌ", "root": "ص ي د", "bs": "ribar", "en": "fisherman" },
+        { "w": "يَذْهَبُ", "root": "ذ ه ب", "bs": "odlazi", "en": "goes" },
+        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" },
+        { "w": "فَجْرٍ", "root": "ف ج ر", "bs": "zora", "en": "dawn" }
+      ]
     },
     {
       "arabic": "كَانَ لَا يَأْخُذُ مِنَ السَّمَكِ إِلَّا مَا يَحْتَاجُ.",
       "translation": "Uzimao je od ribe samo onoliko koliko mu je trebalo.",
-      "translationEn": "He only took from the fish what he needed."
+      "translationEn": "He only took from the fish what he needed.",
+      "words": [
+        { "w": "يَأْخُذُ", "root": "أ خ ذ", "bs": "uzima", "en": "takes" },
+        { "w": "السَّمَكِ", "root": "س م ك", "bs": "riba", "en": "fish" },
+        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" }
+      ]
     },
     {
       "arabic": "قَالَ لِابْنِهِ: «الْبَحْرُ يُعْطِينَا فَيَجِبُ أَنْ نَحْتَرِمَهُ».",
       "translation": "Rekao je svom sinu: «More nam daje pa moramo ga poštovati».",
-      "translationEn": "He said to his son: «The sea gives to us so we must respect it»."
+      "translationEn": "He said to his son: «The sea gives to us so we must respect it».",
+      "words": [
+        { "w": "ابْنِهِ", "root": "ب ن ي", "bs": "njegov sin", "en": "his son" },
+        { "w": "الْبَحْرُ", "root": "ب ح ر", "bs": "more", "en": "sea" },
+        { "w": "يُعْطِينَا", "root": "ع ط و", "bs": "daje nam", "en": "gives us" },
+        { "w": "نَحْتَرِمَهُ", "root": "ح ر م", "bs": "poštujemo ga", "en": "respect it" }
+      ]
     },
     {
       "arabic": "بَقِيَ الْبَحْرُ غَنِيًّا بِالسَّمَكِ وَرَاشِدٌ يَعِيشُ بِرَاحَةٍ.",
       "translation": "More je ostalo bogato ribom a Rašid je živio mirno.",
-      "translationEn": "The sea remained rich with fish and Rashid lived peacefully."
+      "translationEn": "The sea remained rich with fish and Rashid lived peacefully.",
+      "words": [
+        { "w": "بَقِيَ", "root": "ب ق ي", "bs": "ostalo je", "en": "remained" },
+        { "w": "الْبَحْرُ", "root": "ب ح ر", "bs": "more", "en": "sea" },
+        { "w": "غَنِيًّا", "root": "غ ن ي", "bs": "bogato", "en": "rich" },
+        { "w": "السَّمَكِ", "root": "س م ك", "bs": "riba", "en": "fish" },
+        { "w": "يَعِيشُ", "root": "ع ي ش", "bs": "živi", "en": "lives" },
+        { "w": "بِرَاحَةٍ", "root": "ر و ح", "bs": "mirno", "en": "peacefully" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,42 @@
     {
       "arabic": "كَانَ نَادِرٌ يَقُولُ لِنَفْسِهِ «أَنَا لَا أَسْتَطِيعُ» قَبْلَ أَنْ يُحَاوِلَ.",
       "translation": "Nadir je govorio sebi \"ja ne mogu\" prije nego što bi pokušao.",
-      "translationEn": "Nadir used to say to himself \"I cannot\" before he even tried."
+      "translationEn": "Nadir used to say to himself \"I cannot\" before he even tried.",
+      "words": [
+        { "w": "يَقُولُ", "root": "ق و ل", "bs": "govorio je", "en": "used to say" },
+        { "w": "لِنَفْسِهِ", "root": "ن ف س", "bs": "sebi", "en": "to himself" },
+        { "w": "يُحَاوِلَ", "root": "ح و ل", "bs": "da pokuša", "en": "tried" }
+      ]
     },
     {
       "arabic": "قَرَّرَ أَنْ يُغَيِّرَ هَذِهِ الْعَادَةَ وَيَقُولَ «سَأُحَاوِلُ».",
       "translation": "Odlučio je da promijeni ovu naviku i kaže \"pokušaću\".",
-      "translationEn": "He decided to change this habit and say \"I will try\"."
+      "translationEn": "He decided to change this habit and say \"I will try\".",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "يُغَيِّرَ", "root": "غ ي ر", "bs": "da promijeni", "en": "to change" },
+        { "w": "الْعَادَةَ", "root": "ع و د", "bs": "navika", "en": "habit" }
+      ]
     },
     {
       "arabic": "حَاوَلَ وَأَخْطَأَ ثُمَّ حَاوَلَ مَرَّةً أُخْرَى.",
       "translation": "Pokušao je, pogriješio, pa pokušao ponovo.",
-      "translationEn": "He tried, made mistakes, then tried again."
+      "translationEn": "He tried, made mistakes, then tried again.",
+      "words": [
+        { "w": "حَاوَلَ", "root": "ح و ل", "bs": "pokušao je", "en": "tried" },
+        { "w": "أَخْطَأَ", "root": "خ ط أ", "bs": "pogriješio je", "en": "made mistakes" },
+        { "w": "مَرَّةً أُخْرَى", "root": "م ر ر", "bs": "ponovo", "en": "again" }
+      ]
     },
     {
       "arabic": "فِي النِّهَايَةِ نَجَحَ وَشَعَرَ بِفَخْرٍ كَبِيرٍ.",
       "translation": "Na kraju je uspio i osjetio veliki ponos.",
-      "translationEn": "In the end he succeeded and felt great pride."
+      "translationEn": "In the end he succeeded and felt great pride.",
+      "words": [
+        { "w": "نَجَحَ", "root": "ن ج ح", "bs": "uspio je", "en": "succeeded" },
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
+        { "w": "فَخْرٍ", "root": "ف خ ر", "bs": "ponos", "en": "pride" }
+      ]
     }
   ],
   "metadata": {

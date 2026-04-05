@@ -6,22 +6,44 @@
     {
       "arabic": "تَعْجِنُ الجَدَّةُ العَجِينَ كُلَّ صَبَاحٍ.",
       "translation": "Baka mijesi tijesto svako jutro.",
-      "translationEn": "The grandmother kneads dough every morning."
+      "translationEn": "The grandmother kneads dough every morning.",
+      "words": [
+        { "w": "تَعْجِنُ", "root": "ع ج ن", "bs": "mijesi", "en": "kneads" },
+        { "w": "الجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "العَجِينَ", "root": "ع ج ن", "bs": "tijesto", "en": "dough" },
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "تُشَكِّلُ الخُبْزَ بِيَدَيْهَا.",
       "translation": "Oblikuje hljeb rukama.",
-      "translationEn": "She shapes the bread with her hands."
+      "translationEn": "She shapes the bread with her hands.",
+      "words": [
+        { "w": "تُشَكِّلُ", "root": "ش ك ل", "bs": "oblikuje", "en": "shapes" },
+        { "w": "الخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "بِيَدَيْهَا", "root": "ي د ي", "bs": "rukama", "en": "hands" }
+      ]
     },
     {
       "arabic": "تَضَعُهُ فِي الفُرْنِ وَتَنْتَظِرُ.",
       "translation": "Stavlja ga u pećnicu i čeka.",
-      "translationEn": "She puts it in the oven and waits."
+      "translationEn": "She puts it in the oven and waits.",
+      "words": [
+        { "w": "تَضَعُهُ", "root": "و ض ع", "bs": "stavlja ga", "en": "puts it" },
+        { "w": "الفُرْنِ", "root": "ف ر ن", "bs": "pećnicu", "en": "oven" },
+        { "w": "تَنْتَظِرُ", "root": "ن ظ ر", "bs": "čeka", "en": "waits" }
+      ]
     },
     {
       "arabic": "رَائِحَةُ الخُبْزِ الطَّازَجِ جَمِيلَةٌ جِدًّا.",
       "translation": "Miris svježeg hljeba je jako lijep.",
-      "translationEn": "The smell of fresh bread is very beautiful."
+      "translationEn": "The smell of fresh bread is very beautiful.",
+      "words": [
+        { "w": "رَائِحَةُ", "root": "ر و ح", "bs": "miris", "en": "smell" },
+        { "w": "الخُبْزِ", "root": "خ ب ز", "bs": "hljeba", "en": "bread" },
+        { "w": "الطَّازَجِ", "root": "ط ز ج", "bs": "svježeg", "en": "fresh" },
+        { "w": "جَمِيلَةٌ", "root": "ج م ل", "bs": "lijep", "en": "beautiful" }
+      ]
     }
   ],
   "metadata": {

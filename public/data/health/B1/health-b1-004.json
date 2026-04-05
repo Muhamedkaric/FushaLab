@@ -6,31 +6,142 @@
     {
       "arabic": "مَرِضَ الطِّفْلُ يُوسُفُ وَبَقِيَ فِي الْبَيْتِ.",
       "translation": "Mali Jusuf se razbolio i ostao je kod kuće.",
-      "translationEn": "The child Yusuf got sick and stayed at home."
+      "translationEn": "The child Yusuf got sick and stayed at home.",
+      "words": [
+        {
+          "w": "مَرِضَ",
+          "root": "م ر ض",
+          "bs": "razbolio se",
+          "en": "got sick"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child"
+        },
+        {
+          "w": "بَقِيَ",
+          "root": "ب ق ي",
+          "bs": "ostao je",
+          "en": "stayed"
+        }
+      ]
     },
     {
       "arabic": "كَانَتْ حَرَارَتُهُ مُرْتَفِعَةً وَلَمْ يَأْكُلْ كَثِيرًا.",
       "translation": "Imao je visoku temperaturu i nije puno jeo.",
-      "translationEn": "He had a high temperature and did not eat much."
+      "translationEn": "He had a high temperature and did not eat much.",
+      "words": [
+        {
+          "w": "حَرَارَتُهُ",
+          "root": "ح ر ر",
+          "bs": "temperatura",
+          "en": "temperature"
+        },
+        {
+          "w": "مُرْتَفِعَةً",
+          "root": "ر ف ع",
+          "bs": "visoka",
+          "en": "high"
+        },
+        {
+          "w": "يَأْكُلْ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eat"
+        }
+      ]
     },
     {
       "arabic": "أَخَذَتْهُ أُمُّهُ إِلَى طَبِيبِ الْأَطْفَالِ.",
       "translation": "Majka ga je odvela kod pedijatra.",
-      "translationEn": "His mother took him to the children's doctor."
+      "translationEn": "His mother took him to the children's doctor.",
+      "words": [
+        {
+          "w": "أَخَذَتْهُ",
+          "root": "أ خ ذ",
+          "bs": "odvela ga je",
+          "en": "took him"
+        },
+        {
+          "w": "أُمُّهُ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother"
+        },
+        {
+          "w": "طَبِيبِ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "الْأَطْفَالِ",
+          "root": "ط ف ل",
+          "bs": "djece",
+          "en": "children"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الطَّبِيبُ إِنَّهُ مَصَابٌ بِنَزْلَةِ بَرْدٍ بَسِيطَةٍ.",
       "translation": "Ljekar je rekao da ima jednostavnu prehladu.",
-      "translationEn": "The doctor said he has a simple cold."
+      "translationEn": "The doctor said he has a simple cold.",
+      "words": [
+        {
+          "w": "مَصَابٌ",
+          "root": "ص و ب",
+          "bs": "zahvaćen je",
+          "en": "has"
+        },
+        {
+          "w": "نَزْلَةِ",
+          "root": "ن ز ل",
+          "bs": "prehlada",
+          "en": "cold"
+        },
+        {
+          "w": "بَرْدٍ",
+          "root": "ب ر د",
+          "bs": "hladnoće",
+          "en": "cold"
+        },
+        {
+          "w": "بَسِيطَةٍ",
+          "root": "ب س ط",
+          "bs": "jednostavna",
+          "en": "simple"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ ثَلَاثَةِ أَيَّامٍ عَادَ يُوسُفُ إِلَى الْمَدْرَسَةِ.",
       "translation": "Nakon tri dana Jusuf se vratio u školu.",
-      "translationEn": "After three days Yusuf returned to school."
+      "translationEn": "After three days Yusuf returned to school.",
+      "words": [
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "الْمَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sick child", "cold", "fever", "doctor"]
+    "tags": [
+      "sick child",
+      "cold",
+      "fever",
+      "doctor"
+    ]
   }
 }

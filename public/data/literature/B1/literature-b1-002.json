@@ -6,22 +6,46 @@
     {
       "arabic": "اسْتَيْقَظَتْ مَرْيَمُ مُبَكِّرًا وَنَظَرَتْ مِنَ النَّافِذَةِ.",
       "translation": "Merjema se probudila rano i pogledala kroz prozor.",
-      "translationEn": "Maryam woke up early and looked out the window."
+      "translationEn": "Maryam woke up early and looked out the window.",
+      "words": [
+        { "w": "اسْتَيْقَظَتْ", "root": "ي ق ظ", "bs": "probudila se", "en": "woke up" },
+        { "w": "مُبَكِّرًا", "root": "ب ك ر", "bs": "rano", "en": "early" },
+        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "pogledala je", "en": "looked" },
+        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" }
+      ]
     },
     {
       "arabic": "كَانَتِ السَّمَاءُ صَافِيَةً وَالطَّيْرُ يُغَرِّدُ فِي الأَشْجَارِ.",
       "translation": "Nebo je bilo vedro i ptice su pjevale na drveću.",
-      "translationEn": "The sky was clear and birds were singing in the trees."
+      "translationEn": "The sky was clear and birds were singing in the trees.",
+      "words": [
+        { "w": "السَّمَاءُ", "root": "س م و", "bs": "nebo", "en": "sky" },
+        { "w": "صَافِيَةً", "root": "ص ف و", "bs": "vedro/bistro", "en": "clear" },
+        { "w": "الطَّيْرُ", "root": "ط ي ر", "bs": "ptice", "en": "birds" },
+        { "w": "يُغَرِّدُ", "root": "غ ر د", "bs": "pjevaju/cvrkuću", "en": "singing" },
+        { "w": "الأَشْجَارِ", "root": "ش ج ر", "bs": "drveće", "en": "trees" }
+      ]
     },
     {
       "arabic": "ارْتَدَتْ مَلَابِسَهَا وَنَزَلَتْ لِتَأْكُلَ الْفُطُورَ.",
       "translation": "Obukla se i sišla da doručkuje.",
-      "translationEn": "She got dressed and went downstairs to have breakfast."
+      "translationEn": "She got dressed and went downstairs to have breakfast.",
+      "words": [
+        { "w": "ارْتَدَتْ", "root": "ر د ي", "bs": "obukla se", "en": "got dressed" },
+        { "w": "مَلَابِسَهَا", "root": "ل ب س", "bs": "njena odjeća", "en": "her clothes" },
+        { "w": "نَزَلَتْ", "root": "ن ز ل", "bs": "sišla je", "en": "went down" },
+        { "w": "الْفُطُورَ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" }
+      ]
     },
     {
       "arabic": "قَالَتْ لِأُمِّهَا إِنَّ الْيَوْمَ سَيَكُونُ يَوْمًا رَائِعًا.",
       "translation": "Rekla je majci da će dan biti divan.",
-      "translationEn": "She told her mother that today would be a wonderful day."
+      "translationEn": "She told her mother that today would be a wonderful day.",
+      "words": [
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "الْيَوْمَ", "root": "ي و م", "bs": "danas/dan", "en": "today/day" },
+        { "w": "رَائِعًا", "root": "ر و ع", "bs": "divan/predivan", "en": "wonderful" }
+      ]
     }
   ],
   "metadata": {

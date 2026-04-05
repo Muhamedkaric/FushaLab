@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَتْ لَيْلَى تَشْعُرُ بِالتَّوَتُّرِ قَبْلَ الِامْتِحَانِ.",
       "translation": "Lejla se osjećala nervozno prije ispita.",
-      "translationEn": "Layla used to feel nervous before the exam."
+      "translationEn": "Layla used to feel nervous before the exam.",
+      "words": [
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
+        { "w": "التَّوَتُّرِ", "root": "و ت ر", "bs": "nervoza", "en": "nervousness" },
+        { "w": "الِامْتِحَانِ", "root": "م ح ن", "bs": "ispit", "en": "the exam" }
+      ]
     },
     {
       "arabic": "كَانَ قَلْبُهَا يَخْفِقُ بِسُرْعَةٍ وَيَدَاهَا تَرْتَجِفَانِ.",
       "translation": "Srce joj je brzo kucalo a ruke su joj se tresle.",
-      "translationEn": "Her heart was beating fast and her hands were trembling."
+      "translationEn": "Her heart was beating fast and her hands were trembling.",
+      "words": [
+        { "w": "قَلْبُهَا", "root": "ق ل ب", "bs": "njeno srce", "en": "her heart" },
+        { "w": "يَخْفِقُ", "root": "خ ف ق", "bs": "kuca", "en": "beating" },
+        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "fast" },
+        { "w": "يَدَاهَا", "root": "ي د و", "bs": "njene ruke", "en": "her hands" },
+        { "w": "تَرْتَجِفَانِ", "root": "ر ج ف", "bs": "tresu se", "en": "trembling" }
+      ]
     },
     {
       "arabic": "أَخَذَتْ نَفَسًا عَمِيقًا وَقَالَتْ لِنَفْسِهَا «أَنَا قَادِرَةٌ».",
       "translation": "Uzela je duboki dah i rekla sebi \"ja mogu\".",
-      "translationEn": "She took a deep breath and told herself \"I can do it\"."
+      "translationEn": "She took a deep breath and told herself \"I can do it\".",
+      "words": [
+        { "w": "أَخَذَتْ", "root": "أ خ ذ", "bs": "uzela je", "en": "took" },
+        { "w": "نَفَسًا", "root": "ن ف س", "bs": "dah", "en": "a breath" },
+        { "w": "عَمِيقًا", "root": "ع م ق", "bs": "duboki", "en": "deep" },
+        { "w": "قَادِرَةٌ", "root": "ق د ر", "bs": "sposobna", "en": "capable" }
+      ]
     },
     {
       "arabic": "نَجَحَتْ فِي الِامْتِحَانِ وَشَعَرَتْ بِالرَّاحَةِ.",
       "translation": "Položila je ispit i osjetila olakšanje.",
-      "translationEn": "She passed the exam and felt relief."
+      "translationEn": "She passed the exam and felt relief.",
+      "words": [
+        { "w": "نَجَحَتْ", "root": "ن ج ح", "bs": "položila je", "en": "passed" },
+        { "w": "الِامْتِحَانِ", "root": "م ح ن", "bs": "ispit", "en": "the exam" },
+        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjetila je", "en": "felt" },
+        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "olakšanje", "en": "relief" }
+      ]
     }
   ],
   "metadata": {

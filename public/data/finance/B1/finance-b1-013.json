@@ -6,22 +6,42 @@
     {
       "arabic": "وَجَدَتْ رِيمُ دِينَارًا عَلَى الأَرْضِ فِي الشَّارِعِ.",
       "translation": "Rim je pronašla dinar na ulici.",
-      "translationEn": "Reem found a coin on the ground in the street."
+      "translationEn": "Reem found a coin on the ground in the street.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
+        { "w": "دِينَارًا", "root": "د ي ن", "bs": "dinar", "en": "coin" },
+        { "w": "الأَرْضِ", "root": "أ ر ض", "bs": "tlo", "en": "ground" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" }
+      ]
     },
     {
       "arabic": "نَظَرَتْ حَوْلَهَا لِتَعْرِفَ إِنْ كَانَ أَحَدٌ قَدْ أَسْقَطَهُ.",
       "translation": "Pogledala je unaokolo da vidi je li ga neko ispustio.",
-      "translationEn": "She looked around to see if anyone had dropped it."
+      "translationEn": "She looked around to see if anyone had dropped it.",
+      "words": [
+        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "pogledala je", "en": "looked" },
+        { "w": "لِتَعْرِفَ", "root": "ع ر ف", "bs": "da vidi", "en": "to see" },
+        { "w": "أَسْقَطَهُ", "root": "س ق ط", "bs": "ispustio ga je", "en": "dropped it" }
+      ]
     },
     {
       "arabic": "لَمْ تَجِدْ أَحَدًا فَأَعْطَتْهُ لِأُمِّهَا.",
       "translation": "Nije pronašla nikoga pa ga je dala majci.",
-      "translationEn": "She found no one so she gave it to her mother."
+      "translationEn": "She found no one so she gave it to her mother.",
+      "words": [
+        { "w": "تَجِدْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
+        { "w": "أَعْطَتْهُ", "root": "ع ط و", "bs": "dala ga je", "en": "gave it" }
+      ]
     },
     {
       "arabic": "مَدَحَتِ الأُمُّ ابْنَتَهَا عَلَى أَمَانَتِهَا.",
       "translation": "Majka je pohvalila kćer zbog njene poštenja.",
-      "translationEn": "The mother praised her daughter for her honesty."
+      "translationEn": "The mother praised her daughter for her honesty.",
+      "words": [
+        { "w": "مَدَحَتِ", "root": "م د ح", "bs": "pohvalila je", "en": "praised" },
+        { "w": "ابْنَتَهَا", "root": "ب ن ي", "bs": "njena kćer", "en": "her daughter" },
+        { "w": "أَمَانَتِهَا", "root": "أ م ن", "bs": "njeno poštenje", "en": "her honesty" }
+      ]
     }
   ],
   "metadata": {

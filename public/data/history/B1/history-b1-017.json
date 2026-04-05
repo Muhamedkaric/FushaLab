@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ النَّاسُ فِي الْقَدِيمِ يُضِيئُونَ بُيُوتَهُمْ بِالزَّيْتِ.",
       "translation": "Nekada su ljudi osvjetljavali kuće uljem.",
-      "translationEn": "People in the old days used to light their homes with oil."
+      "translationEn": "People in the old days used to light their homes with oil.",
+      "words": [
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "يُضِيئُونَ", "root": "ض و أ", "bs": "osvjetljavaju", "en": "light" },
+        { "w": "بُيُوتَهُمْ", "root": "ب ي ت", "bs": "njihove kuće", "en": "their homes" },
+        { "w": "الزَّيْتِ", "root": "ز ي ت", "bs": "ulje", "en": "oil" }
+      ]
     },
     {
       "arabic": "كَانَ الْمِصْبَاحُ مَصْنُوعًا مِنَ الطِّينِ.",
       "translation": "Lampa je bila napravljena od gline.",
-      "translationEn": "The lamp was made of clay."
+      "translationEn": "The lamp was made of clay.",
+      "words": [
+        { "w": "الْمِصْبَاحُ", "root": "ص ب ح", "bs": "lampa", "en": "the lamp" },
+        { "w": "مَصْنُوعًا", "root": "ص ن ع", "bs": "napravljen", "en": "made" },
+        { "w": "الطِّينِ", "root": "ط ي ن", "bs": "glina", "en": "clay" }
+      ]
     },
     {
       "arabic": "كَانَ يُوضَعُ فِيهِ زَيْتُ الزَّيْتُونِ وَفَتِيلٌ صَغِيرٌ.",
       "translation": "Stavljalo se u njega maslinovo ulje i mali fitilj.",
-      "translationEn": "Olive oil and a small wick were placed in it."
+      "translationEn": "Olive oil and a small wick were placed in it.",
+      "words": [
+        { "w": "زَيْتُ", "root": "ز ي ت", "bs": "ulje", "en": "oil" },
+        { "w": "الزَّيْتُونِ", "root": "ز ي ت", "bs": "maslina", "en": "olive" },
+        { "w": "فَتِيلٌ", "root": "ف ت ل", "bs": "fitilj", "en": "a wick" },
+        { "w": "صَغِيرٌ", "root": "ص غ ر", "bs": "mali", "en": "small" }
+      ]
     },
     {
       "arabic": "أَضَاءَ الْمِصْبَاحُ الْغُرْفَةَ بِنُورٍ هَادِئٍ.",
       "translation": "Lampa je osvjetljavala sobu mirnim svjetlom.",
-      "translationEn": "The lamp lit the room with a soft light."
+      "translationEn": "The lamp lit the room with a soft light.",
+      "words": [
+        { "w": "أَضَاءَ", "root": "ض و أ", "bs": "osvjetlio je", "en": "lit" },
+        { "w": "الْمِصْبَاحُ", "root": "ص ب ح", "bs": "lampa", "en": "the lamp" },
+        { "w": "الْغُرْفَةَ", "root": "غ ر ف", "bs": "soba", "en": "the room" },
+        { "w": "نُورٍ", "root": "ن و ر", "bs": "svjetlo", "en": "light" },
+        { "w": "هَادِئٍ", "root": "ه د أ", "bs": "mirno", "en": "soft" }
+      ]
     }
   ],
   "metadata": {

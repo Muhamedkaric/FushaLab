@@ -6,22 +6,46 @@
     {
       "arabic": "يَعْمَلُ كَمَالٌ فِي مَتْجَرٍ لِبَيْعِ الْمَلَابِسِ.",
       "translation": "Kemal radi u prodavnici odjeće.",
-      "translationEn": "Kamal works in a clothing shop."
+      "translationEn": "Kamal works in a clothing shop.",
+      "words": [
+        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "مَتْجَرٍ", "root": "ت ج ر", "bs": "prodavnica/radnja", "en": "shop/store" },
+        { "w": "بَيْعِ", "root": "ب ي ع", "bs": "prodaja", "en": "selling/sale" },
+        { "w": "الْمَلَابِسِ", "root": "ل ب س", "bs": "odjeća", "en": "clothes" }
+      ]
     },
     {
       "arabic": "يُسَاعِدُ الزَّبَائِنَ فِي اخْتِيَارِ الْمَلَابِسِ الْمُنَاسِبَةِ.",
       "translation": "Pomaže kupcima u odabiru odgovarajuće odjeće.",
-      "translationEn": "He helps customers choose suitable clothes."
+      "translationEn": "He helps customers choose suitable clothes.",
+      "words": [
+        { "w": "يُسَاعِدُ", "root": "س ع د", "bs": "pomaže", "en": "helps" },
+        { "w": "الزَّبَائِنَ", "root": "ز ب ن", "bs": "kupci/mušterije", "en": "customers" },
+        { "w": "اخْتِيَارِ", "root": "خ ي ر", "bs": "odabir/izbor", "en": "choosing/selection" },
+        { "w": "الْمُنَاسِبَةِ", "root": "ن س ب", "bs": "odgovarajuća/prikladna", "en": "suitable" }
+      ]
     },
     {
       "arabic": "يُجِيبُ عَلَى أَسْئِلَتِهِمْ بِصَبْرٍ وَبِابْتِسَامَةٍ.",
       "translation": "Odgovara na njihova pitanja s strpljenjem i osmijehom.",
-      "translationEn": "He answers their questions with patience and a smile."
+      "translationEn": "He answers their questions with patience and a smile.",
+      "words": [
+        { "w": "يُجِيبُ", "root": "ج و ب", "bs": "odgovara", "en": "answers" },
+        { "w": "أَسْئِلَتِهِمْ", "root": "س أ ل", "bs": "njihova pitanja", "en": "their questions" },
+        { "w": "بِصَبْرٍ", "root": "ص ب ر", "bs": "strpljivo/s strpljenjem", "en": "patiently/with patience" },
+        { "w": "بِابْتِسَامَةٍ", "root": "ب س م", "bs": "s osmijehom", "en": "with a smile" }
+      ]
     },
     {
       "arabic": "يَنْتَهِي عَمَلُهُ فِي السَّاعَةِ التَّاسِعَةِ مَسَاءً.",
       "translation": "Njegov posao završava u devet sati uveče.",
-      "translationEn": "His work ends at nine o'clock in the evening."
+      "translationEn": "His work ends at nine o'clock in the evening.",
+      "words": [
+        { "w": "يَنْتَهِي", "root": "ن ه ي", "bs": "završava", "en": "ends" },
+        { "w": "عَمَلُهُ", "root": "ع م ل", "bs": "njegov posao", "en": "his work" },
+        { "w": "السَّاعَةِ", "root": "س ع و", "bs": "sat/čas", "en": "hour/o'clock" },
+        { "w": "مَسَاءً", "root": "م س و", "bs": "uveče/navečer", "en": "in the evening" }
+      ]
     }
   ],
   "metadata": {

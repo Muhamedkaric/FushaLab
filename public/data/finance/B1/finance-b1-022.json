@@ -6,22 +6,46 @@
     {
       "arabic": "قَرَّرَ خَالِدٌ بَيْعَ بَعْضِ كُتُبِهِ القَدِيمَةِ.",
       "translation": "Halid je odlučio prodati neke stare knjige.",
-      "translationEn": "Khalid decided to sell some of his old books."
+      "translationEn": "Khalid decided to sell some of his old books.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "بَيْعَ", "root": "ب ي ع", "bs": "prodaju", "en": "to sell" },
+        { "w": "كُتُبِهِ", "root": "ك ت ب", "bs": "njegovih knjiga", "en": "his books" },
+        { "w": "القَدِيمَةِ", "root": "ق د م", "bs": "stare", "en": "old" }
+      ]
     },
     {
       "arabic": "وَضَعَهَا أَمَامَ البَيْتِ بِأَسْعَارٍ مُنَاسِبَةٍ.",
       "translation": "Postavio ih je ispred kuće po odgovarajućim cijenama.",
-      "translationEn": "He put them in front of the house at reasonable prices."
+      "translationEn": "He put them in front of the house at reasonable prices.",
+      "words": [
+        { "w": "وَضَعَهَا", "root": "و ض ع", "bs": "postavio ih je", "en": "put them" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "house" },
+        { "w": "بِأَسْعَارٍ", "root": "س ع ر", "bs": "po cijenama", "en": "at prices" },
+        { "w": "مُنَاسِبَةٍ", "root": "ن س ب", "bs": "odgovarajućim", "en": "reasonable" }
+      ]
     },
     {
       "arabic": "جَاءَ جِيرَانٌ وَاشْتَرَوْا مِنْهُ عِدَّةَ كُتُبٍ.",
       "translation": "Komšije su došle i kupile od njega nekoliko knjiga.",
-      "translationEn": "Neighbors came and bought several books from him."
+      "translationEn": "Neighbors came and bought several books from him.",
+      "words": [
+        { "w": "جِيرَانٌ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
+        { "w": "اشْتَرَوْا", "root": "ش ر ي", "bs": "kupili su", "en": "bought" },
+        { "w": "عِدَّةَ", "root": "ع د د", "bs": "nekoliko", "en": "several" },
+        { "w": "كُتُبٍ", "root": "ك ت ب", "bs": "knjiga", "en": "books" }
+      ]
     },
     {
       "arabic": "جَمَعَ خَالِدٌ بَعْضَ النُّقُودِ وَوَضَعَهَا فِي صُنْدُوقِهِ.",
       "translation": "Halid je sakupio nešto novca i stavio ga u svoju kutiju.",
-      "translationEn": "Khalid collected some money and put it in his box."
+      "translationEn": "Khalid collected some money and put it in his box.",
+      "words": [
+        { "w": "جَمَعَ", "root": "ج م ع", "bs": "sakupio je", "en": "collected" },
+        { "w": "النُّقُودِ", "root": "ن ق د", "bs": "novac", "en": "money" },
+        { "w": "وَضَعَهَا", "root": "و ض ع", "bs": "stavio ga je", "en": "put it" },
+        { "w": "صُنْدُوقِهِ", "root": "ص ن د", "bs": "njegova kutija", "en": "his box" }
+      ]
     }
   ],
   "metadata": {

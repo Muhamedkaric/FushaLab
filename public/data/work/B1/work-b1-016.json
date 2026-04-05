@@ -6,22 +6,47 @@
     {
       "arabic": "اتَّصَلَ زَبُونٌ بِالشَّرِكَةِ وَطَلَبَ الْكَلَامَ مَعَ الْمَسْؤُولِ.",
       "translation": "Klijent je nazvao kompaniju i tražio razgovor s odgovornim.",
-      "translationEn": "A client called the company and asked to speak with the manager."
+      "translationEn": "A client called the company and asked to speak with the manager.",
+      "words": [
+        { "w": "اتَّصَلَ", "root": "و ص ل", "bs": "nazvao je/kontaktirao", "en": "called/contacted" },
+        { "w": "زَبُونٌ", "root": "ز ب ن", "bs": "klijent/mušterija", "en": "client/customer" },
+        { "w": "الشَّرِكَةِ", "root": "ش ر ك", "bs": "kompanija/firma", "en": "company" },
+        { "w": "الْكَلَامَ", "root": "ك ل م", "bs": "razgovor", "en": "talk/conversation" },
+        { "w": "الْمَسْؤُولِ", "root": "س أ ل", "bs": "odgovorni/nadređeni", "en": "manager/person in charge" }
+      ]
     },
     {
       "arabic": "رَدَّتْ نَجْلَاءُ عَلَى الْهَاتِفِ بِأَدَبٍ.",
       "translation": "Nidžla je pristojno odgovorila na telefon.",
-      "translationEn": "Najlaa answered the phone politely."
+      "translationEn": "Najlaa answered the phone politely.",
+      "words": [
+        { "w": "رَدَّتْ", "root": "ر د د", "bs": "odgovorila je", "en": "answered" },
+        { "w": "الْهَاتِفِ", "root": "ه ت ف", "bs": "telefon", "en": "phone" },
+        { "w": "بِأَدَبٍ", "root": "أ د ب", "bs": "pristojno/ljubazno", "en": "politely/courteously" }
+      ]
     },
     {
       "arabic": "سَمِعَتْ طَلَبَ الزَّبُونِ وَوَعَدَتْهُ بِالرَّدِّ قَرِيبًا.",
       "translation": "Saslušala je zahtjev klijenta i obećala mu brz odgovor.",
-      "translationEn": "She listened to the client's request and promised him a reply soon."
+      "translationEn": "She listened to the client's request and promised him a reply soon.",
+      "words": [
+        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "saslušala je/čula", "en": "listened/heard" },
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zahtjev/molba", "en": "request" },
+        { "w": "الزَّبُونِ", "root": "ز ب ن", "bs": "klijent", "en": "client" },
+        { "w": "وَعَدَتْهُ", "root": "و ع د", "bs": "obećala mu je", "en": "promised him" },
+        { "w": "الرَّدِّ", "root": "ر د د", "bs": "odgovor", "en": "reply" }
+      ]
     },
     {
       "arabic": "أَحَالَتِ الْمَكَالَمَةَ إِلَى الْمُدِيرِ فَوْرًا.",
       "translation": "Odmah je proslijedila poziv direktoru.",
-      "translationEn": "She transferred the call to the manager immediately."
+      "translationEn": "She transferred the call to the manager immediately.",
+      "words": [
+        { "w": "أَحَالَتِ", "root": "ح و ل", "bs": "proslijedila je/prebacila", "en": "transferred/forwarded" },
+        { "w": "الْمَكَالَمَةَ", "root": "ك ل م", "bs": "poziv/razgovor", "en": "call" },
+        { "w": "الْمُدِيرِ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
+        { "w": "فَوْرًا", "root": "ف و ر", "bs": "odmah/instantno", "en": "immediately" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَتْ هُنَاكَ ثَعَالِبُ صَغِيرٌ اسْمُهُ فَارُوقٌ يَعِيشُ وَحِيدًا فِي الْغَابَةِ.",
       "translation": "Bio je mali lisac po imenu Faruq koji je živio sam u šumi.",
-      "translationEn": "There was a small fox named Faruq who lived alone in the forest."
+      "translationEn": "There was a small fox named Faruq who lived alone in the forest.",
+      "words": [
+        { "w": "ثَعَالِبُ", "root": "ث ع ل ب", "bs": "lisac", "en": "fox" },
+        { "w": "صَغِيرٌ", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "يَعِيشُ", "root": "ع ي ش", "bs": "živi", "en": "lives" },
+        { "w": "وَحِيدًا", "root": "و ح د", "bs": "sam", "en": "alone" },
+        { "w": "الْغَابَةِ", "root": "غ ي ب", "bs": "šuma", "en": "forest" }
+      ]
     },
     {
       "arabic": "ذَاتَ يَوْمٍ لَقِيَ أَرْنَبًا أَبْيَضَ يَبْكِي وَحْدَهُ.",
       "translation": "Jednog dana je sreo bijelog zeca koji je plakao sam.",
-      "translationEn": "One day he met a white rabbit crying alone."
+      "translationEn": "One day he met a white rabbit crying alone.",
+      "words": [
+        { "w": "لَقِيَ", "root": "ل ق ي", "bs": "sreo je", "en": "met" },
+        { "w": "أَرْنَبًا", "root": "أ ر ن ب", "bs": "zec", "en": "rabbit" },
+        { "w": "أَبْيَضَ", "root": "ب ي ض", "bs": "bijeli", "en": "white" },
+        { "w": "يَبْكِي", "root": "ب ك ي", "bs": "plače", "en": "crying" }
+      ]
     },
     {
       "arabic": "سَأَلَهُ: «لِمَاذَا تَبْكِي؟» فَقَالَ الأَرْنَبُ: «ضَاعَ طَرِيقِي إِلَى الْبَيْتِ».",
       "translation": "Upitao ga je: «Zašto plakaš?» Pa je zec rekao: «Izgubio sam put do kuće».",
-      "translationEn": "He asked: «Why are you crying?» The rabbit said: «I lost my way home»."
+      "translationEn": "He asked: «Why are you crying?» The rabbit said: «I lost my way home».",
+      "words": [
+        { "w": "سَأَلَهُ", "root": "س أ ل", "bs": "upitao ga je", "en": "asked him" },
+        { "w": "تَبْكِي", "root": "ب ك ي", "bs": "plakaš", "en": "crying" },
+        { "w": "الأَرْنَبُ", "root": "أ ر ن ب", "bs": "zec", "en": "rabbit" },
+        { "w": "ضَاعَ", "root": "ض ي ع", "bs": "izgubio sam", "en": "lost" },
+        { "w": "طَرِيقِي", "root": "ط ر ق", "bs": "moj put", "en": "my way" }
+      ]
     },
     {
       "arabic": "قَادَهُ فَارُوقٌ إِلَى بَيْتِهِ وَأَصْبَحَا صَدِيقَيْنِ.",
       "translation": "Faruq ga je odveo do kuće i postali su prijatelji.",
-      "translationEn": "Faruq led him home and they became friends."
+      "translationEn": "Faruq led him home and they became friends.",
+      "words": [
+        { "w": "قَادَهُ", "root": "ق و د", "bs": "odveo ga je", "en": "led him" },
+        { "w": "بَيْتِهِ", "root": "ب ي ت", "bs": "njegova kuća", "en": "his home" },
+        { "w": "أَصْبَحَا", "root": "ص ب ح", "bs": "postali su", "en": "became" },
+        { "w": "صَدِيقَيْنِ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" }
+      ]
     }
   ],
   "metadata": {

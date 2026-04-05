@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ إِبْرَاهِيمُ يُحِبُّ مُسَاعَدَةَ جِيرَانِهِ دَائِمًا.",
       "translation": "Ibrahim je uvijek volio pomagati komšijama.",
-      "translationEn": "Ibrahim always loved helping his neighbors."
+      "translationEn": "Ibrahim always loved helping his neighbors.",
+      "words": [
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "volio je", "en": "loved" },
+        { "w": "مُسَاعَدَةَ", "root": "س ع د", "bs": "pomaganje", "en": "helping" },
+        { "w": "جِيرَانِهِ", "root": "ج و ر", "bs": "njegovi komšije", "en": "his neighbors" }
+      ]
     },
     {
       "arabic": "ذَاتَ يَوْمٍ رَأَى عَجُوزًا تَحْمِلُ أَكْيَاسًا ثَقِيلَةً.",
       "translation": "Jednog dana je vidio staricu kako nosi teške vrećice.",
-      "translationEn": "One day he saw an old woman carrying heavy bags."
+      "translationEn": "One day he saw an old woman carrying heavy bags.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "عَجُوزًا", "root": "ع ج ز", "bs": "starica/stara žena", "en": "old woman" },
+        { "w": "تَحْمِلُ", "root": "ح م ل", "bs": "nosi", "en": "carrying" },
+        { "w": "أَكْيَاسًا", "root": "ك ي س", "bs": "vrećice/kese", "en": "bags" },
+        { "w": "ثَقِيلَةً", "root": "ث ق ل", "bs": "teške", "en": "heavy" }
+      ]
     },
     {
       "arabic": "رَكَضَ إِلَيْهَا وَحَمَلَ الأَكْيَاسَ حَتَّى بَابِ بَيْتِهَا.",
       "translation": "Potrčao je k njoj i nosio vrećice do njenih kućnih vrata.",
-      "translationEn": "He ran to her and carried the bags to her door."
+      "translationEn": "He ran to her and carried the bags to her door.",
+      "words": [
+        { "w": "رَكَضَ", "root": "ر ك ض", "bs": "potrčao je", "en": "ran" },
+        { "w": "حَمَلَ", "root": "ح م ل", "bs": "nosio je", "en": "carried" },
+        { "w": "الأَكْيَاسَ", "root": "ك ي س", "bs": "vrećice/kese", "en": "bags" },
+        { "w": "بَابِ", "root": "ب و ب", "bs": "vrata", "en": "door" }
+      ]
     },
     {
       "arabic": "شَكَرَتْهُ الْعَجُوزُ وَدَعَتْ لَهُ بِالْخَيْرِ.",
       "translation": "Starica mu se zahvalila i poželjela mu dobro.",
-      "translationEn": "The old woman thanked him and wished him well."
+      "translationEn": "The old woman thanked him and wished him well.",
+      "words": [
+        { "w": "شَكَرَتْهُ", "root": "ش ك ر", "bs": "zahvalila mu se", "en": "thanked him" },
+        { "w": "الْعَجُوزُ", "root": "ع ج ز", "bs": "starica", "en": "old woman" },
+        { "w": "دَعَتْ", "root": "د ع و", "bs": "poželjela je", "en": "wished/prayed" },
+        { "w": "بِالْخَيْرِ", "root": "خ ي ر", "bs": "dobro/blagoslov", "en": "well/good" }
+      ]
     }
   ],
   "metadata": {

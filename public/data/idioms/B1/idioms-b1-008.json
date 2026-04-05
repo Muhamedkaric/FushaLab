@@ -6,22 +6,43 @@
     {
       "arabic": "قَالَتِ الْمُعَلِّمَةُ: «مَنْ سَارَ عَلَى الدَّرْبِ وَصَلَ».",
       "translation": "Učiteljica je rekla: «Ko hoda po putu, stići će».",
-      "translationEn": "The teacher said: «Whoever walks the path will arrive»."
+      "translationEn": "The teacher said: «Whoever walks the path will arrive».",
+      "words": [
+        { "w": "الْمُعَلِّمَةُ", "root": "ع ل م", "bs": "učiteljica", "en": "teacher" },
+        { "w": "سَارَ", "root": "س ي ر", "bs": "hodao je", "en": "walked" },
+        { "w": "الدَّرْبِ", "root": "د ر ب", "bs": "put", "en": "path" },
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الِاسْتِمْرَارَ فِي الْعَمَلِ يُوصِلُنَا إِلَى هَدَفِنَا.",
       "translation": "To znači da nastavljanje s radom vodi nas do cilja.",
-      "translationEn": "This means that continuing to work will lead us to our goal."
+      "translationEn": "This means that continuing to work will lead us to our goal.",
+      "words": [
+        { "w": "الِاسْتِمْرَارَ", "root": "م ر ر", "bs": "nastavljanje", "en": "continuing" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "rad", "en": "work" },
+        { "w": "يُوصِلُنَا", "root": "و ص ل", "bs": "vodi nas", "en": "leads us" },
+        { "w": "هَدَفِنَا", "root": "ه د ف", "bs": "naš cilj", "en": "our goal" }
+      ]
     },
     {
       "arabic": "تَدَرَّبَ يُوسُفُ عَلَى الرَّسْمِ كُلَّ يَوْمٍ.",
       "translation": "Jusuf je svaki dan vježbao crtanje.",
-      "translationEn": "Yusuf practiced drawing every day."
+      "translationEn": "Yusuf practiced drawing every day.",
+      "words": [
+        { "w": "تَدَرَّبَ", "root": "د ر ب", "bs": "vježbao je", "en": "practiced" },
+        { "w": "الرَّسْمِ", "root": "ر س م", "bs": "crtanje", "en": "drawing" }
+      ]
     },
     {
       "arabic": "بَعْدَ سَنَةٍ أَصْبَحَ رَسَّامًا جَيِّدًا.",
       "translation": "Nakon godinu dana je postao dobar crtač.",
-      "translationEn": "After a year he became a good artist."
+      "translationEn": "After a year he became a good artist.",
+      "words": [
+        { "w": "سَنَةٍ", "root": "س ن و", "bs": "godina", "en": "year" },
+        { "w": "رَسَّامًا", "root": "ر س م", "bs": "crtač", "en": "artist" },
+        { "w": "جَيِّدًا", "root": "ج و د", "bs": "dobar", "en": "good" }
+      ]
     }
   ],
   "metadata": {

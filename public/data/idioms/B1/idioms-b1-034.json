@@ -6,22 +6,42 @@
     {
       "arabic": "سَمِعَ الطِّفْلُ: «ضَحِكَتِ السُّودَاءُ مِنَ السَّوَادِ».",
       "translation": "Dijete je čulo: «Crna se nasmijala crnoj boji».",
-      "translationEn": "The child heard: «The dark one laughed at the darkness»."
+      "translationEn": "The child heard: «The dark one laughed at the darkness».",
+      "words": [
+        { "w": "ضَحِكَتِ", "root": "ض ح ك", "bs": "nasmijala se", "en": "laughed" },
+        { "w": "السُّودَاءُ", "root": "س و د", "bs": "crna", "en": "dark one" },
+        { "w": "السَّوَادِ", "root": "س و د", "bs": "crnoća", "en": "darkness" }
+      ]
     },
     {
       "arabic": "يُقَالُ هَذَا حِينَ يَنْتَقِدُ شَخْصٌ عَيْبًا هُوَ نَفْسُهُ يَمْلِكُهُ.",
       "translation": "Ovo se kaže kad neko kritikuje manu koju i sam ima.",
-      "translationEn": "This is said when someone criticizes a flaw that he himself has."
+      "translationEn": "This is said when someone criticizes a flaw that he himself has.",
+      "words": [
+        { "w": "يَنْتَقِدُ", "root": "ن ق د", "bs": "kritikuje", "en": "criticizes" },
+        { "w": "شَخْصٌ", "root": "ش خ ص", "bs": "osoba", "en": "someone" },
+        { "w": "عَيْبًا", "root": "ع ي ب", "bs": "mana", "en": "flaw" },
+        { "w": "يَمْلِكُهُ", "root": "م ل ك", "bs": "posjeduje je", "en": "has" }
+      ]
     },
     {
       "arabic": "قَالَ غَالِبٌ إِنَّ صَدِيقَهُ يَتَأَخَّرُ دَائِمًا.",
       "translation": "Galib je rekao da mu se prijatelj uvijek kasni.",
-      "translationEn": "Ghalib said that his friend is always late."
+      "translationEn": "Ghalib said that his friend is always late.",
+      "words": [
+        { "w": "صَدِيقَهُ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" },
+        { "w": "يَتَأَخَّرُ", "root": "أ خ ر", "bs": "kasni", "en": "is late" }
+      ]
     },
     {
       "arabic": "ثُمَّ تَأَخَّرَ هُوَ نَفْسُهُ وَضَحِكَ الْجَمِيعُ.",
       "translation": "Zatim je i sam zakasno i svi su se nasmijali.",
-      "translationEn": "Then he himself was late and everyone laughed."
+      "translationEn": "Then he himself was late and everyone laughed.",
+      "words": [
+        { "w": "تَأَخَّرَ", "root": "أ خ ر", "bs": "zakasno je", "en": "was late" },
+        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijao se", "en": "laughed" },
+        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" }
+      ]
     }
   ],
   "metadata": {

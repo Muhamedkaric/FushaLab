@@ -6,22 +6,46 @@
     {
       "arabic": "تَحْكِي الجَدَّةُ قِصَصًا لِلأَطْفَالِ فِي اللَّيْلِ.",
       "translation": "Baka priča priče djeci noću.",
-      "translationEn": "The grandmother tells stories to the children at night."
+      "translationEn": "The grandmother tells stories to the children at night.",
+      "words": [
+        { "w": "تَحْكِي", "root": "ح ك ي", "bs": "priča", "en": "tells" },
+        { "w": "الجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "قِصَصًا", "root": "ق ص ص", "bs": "priče", "en": "stories" },
+        { "w": "الأَطْفَالِ", "root": "ط ف ل", "bs": "djeci", "en": "children" },
+        { "w": "اللَّيْلِ", "root": "ل ي ل", "bs": "noću", "en": "night" }
+      ]
     },
     {
       "arabic": "يَجْلِسُ الأَطْفَالُ حَوْلَهَا وَيَسْتَمِعُونَ.",
       "translation": "Djeca sjede oko nje i slušaju.",
-      "translationEn": "The children sit around her and listen."
+      "translationEn": "The children sit around her and listen.",
+      "words": [
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjede", "en": "sit" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "يَسْتَمِعُونَ", "root": "س م ع", "bs": "slušaju", "en": "listen" }
+      ]
     },
     {
       "arabic": "القِصَصُ فِيهَا دُرُوسٌ مُفِيدَةٌ لِلحَيَاةِ.",
       "translation": "Priče sadrže korisne životne lekcije.",
-      "translationEn": "The stories contain useful lessons for life."
+      "translationEn": "The stories contain useful lessons for life.",
+      "words": [
+        { "w": "القِصَصُ", "root": "ق ص ص", "bs": "priče", "en": "stories" },
+        { "w": "دُرُوسٌ", "root": "د ر س", "bs": "lekcije", "en": "lessons" },
+        { "w": "مُفِيدَةٌ", "root": "ف ي د", "bs": "korisne", "en": "useful" },
+        { "w": "الحَيَاةِ", "root": "ح ي ي", "bs": "životu", "en": "life" }
+      ]
     },
     {
       "arabic": "يَنَامُ الأَطْفَالُ بِهُدُوءٍ بَعْدَ القِصَّةِ.",
       "translation": "Djeca mirno zaspe nakon priče.",
-      "translationEn": "The children fall asleep peacefully after the story."
+      "translationEn": "The children fall asleep peacefully after the story.",
+      "words": [
+        { "w": "يَنَامُ", "root": "ن و م", "bs": "zaspe", "en": "fall asleep" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "بِهُدُوءٍ", "root": "هـ د أ", "bs": "mirno", "en": "peacefully" },
+        { "w": "القِصَّةِ", "root": "ق ص ص", "bs": "priče", "en": "story" }
+      ]
     }
   ],
   "metadata": {

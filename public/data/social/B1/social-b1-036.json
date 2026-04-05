@@ -6,22 +6,44 @@
     {
       "arabic": "نَظَرَتْ هِنْدٌ إِلَى الفُسْتَانِ وَأَعْجَبَهَا.",
       "translation": "Hind je pogledala haljinu i svidjela joj se.",
-      "translationEn": "Hind looked at the dress and liked it."
+      "translationEn": "Hind looked at the dress and liked it.",
+      "words": [
+        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "pogledala je", "en": "looked" },
+        { "w": "الفُسْتَانِ", "root": "ف س ت", "bs": "haljinu", "en": "dress" },
+        { "w": "أَعْجَبَهَا", "root": "ع ج ب", "bs": "svidjela joj se", "en": "she liked it" }
+      ]
     },
     {
       "arabic": "سَأَلَتِ البَائِعَةَ عَنِ السِّعْرِ.",
       "translation": "Pitala je prodavačicu o cijeni.",
-      "translationEn": "She asked the saleswoman about the price."
+      "translationEn": "She asked the saleswoman about the price.",
+      "words": [
+        { "w": "سَأَلَتِ", "root": "س أ ل", "bs": "pitala je", "en": "asked" },
+        { "w": "البَائِعَةَ", "root": "ب ي ع", "bs": "prodavačicu", "en": "saleswoman" },
+        { "w": "السِّعْرِ", "root": "س ع ر", "bs": "cijeni", "en": "price" }
+      ]
     },
     {
       "arabic": "قَالَتِ البَائِعَةُ إِنَّ السِّعْرَ مِئَةُ دِرْهَمٍ.",
       "translation": "Prodavačica je rekla da je cijena sto dirhama.",
-      "translationEn": "The saleswoman said the price is one hundred dirhams."
+      "translationEn": "The saleswoman said the price is one hundred dirhams.",
+      "words": [
+        { "w": "البَائِعَةُ", "root": "ب ي ع", "bs": "prodavačica", "en": "saleswoman" },
+        { "w": "السِّعْرَ", "root": "س ع ر", "bs": "cijena", "en": "price" },
+        { "w": "مِئَةُ", "root": "م ئ ة", "bs": "sto", "en": "hundred" },
+        { "w": "دِرْهَمٍ", "root": "د ر هـ", "bs": "dirhama", "en": "dirhams" }
+      ]
     },
     {
       "arabic": "فَكَّرَتْ قَلِيلًا ثُمَّ قَرَّرَتِ الشِّرَاءَ.",
       "translation": "Malo je razmislila, pa odlučila kupiti.",
-      "translationEn": "She thought a little then decided to buy it."
+      "translationEn": "She thought a little then decided to buy it.",
+      "words": [
+        { "w": "فَكَّرَتْ", "root": "ف ك ر", "bs": "razmislila je", "en": "thought" },
+        { "w": "قَلِيلًا", "root": "ق ل ل", "bs": "malo", "en": "a little" },
+        { "w": "قَرَّرَتِ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "الشِّرَاءَ", "root": "ش ر ي", "bs": "kupiti", "en": "to buy" }
+      ]
     }
   ],
   "metadata": {

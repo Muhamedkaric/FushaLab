@@ -6,22 +6,48 @@
     {
       "arabic": "اشْتَرَى الْأَبُ لَحْمًا طَازِجًا مِنَ الْجَزَّارِ.",
       "translation": "Otac je kupio svježe meso od mesara.",
-      "translationEn": "The father bought fresh meat from the butcher."
+      "translationEn": "The father bought fresh meat from the butcher.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "لَحْمًا", "root": "ل ح م", "bs": "meso", "en": "meat" },
+        { "w": "طَازِجًا", "root": "ط ز ج", "bs": "svježe", "en": "fresh" },
+        { "w": "الْجَزَّارِ", "root": "ج ز ر", "bs": "mesar/kasap", "en": "butcher" }
+      ]
     },
     {
       "arabic": "أَحْضَرَهُ إِلَى الْبَيْتِ وَأَعْطَاهُ لِلْأُمِّ.",
       "translation": "Donio ga je kući i dao ga majci.",
-      "translationEn": "He brought it home and gave it to the mother."
+      "translationEn": "He brought it home and gave it to the mother.",
+      "words": [
+        { "w": "أَحْضَرَهُ", "root": "ح ض ر", "bs": "donio ga je", "en": "brought it" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "home" },
+        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao ga je", "en": "gave it" },
+        { "w": "لِلْأُمِّ", "root": "أ م م", "bs": "majci", "en": "to the mother" }
+      ]
     },
     {
       "arabic": "طَبَخَتِ الْأُمُّ اللَّحْمَ مَعَ الْبَطَاطَا وَالْبَصَلِ.",
       "translation": "Majka je kuhala meso s krumpirom i lukom.",
-      "translationEn": "The mother cooked the meat with potatoes and onions."
+      "translationEn": "The mother cooked the meat with potatoes and onions.",
+      "words": [
+        { "w": "طَبَخَتِ", "root": "ط ب خ", "bs": "kuhala je", "en": "cooked" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "اللَّحْمَ", "root": "ل ح م", "bs": "meso", "en": "meat" },
+        { "w": "الْبَطَاطَا", "root": "ب ط ط", "bs": "krumpir/krompir", "en": "potatoes" },
+        { "w": "الْبَصَلِ", "root": "ب ص ل", "bs": "luk", "en": "onions" }
+      ]
     },
     {
       "arabic": "أَكَلَتِ الْعَائِلَةُ وَمَدَحُوا الطَّعَامَ.",
       "translation": "Porodica je jela i hvalila hranu.",
-      "translationEn": "The family ate and praised the food."
+      "translationEn": "The family ate and praised the food.",
+      "words": [
+        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "jela je", "en": "ate" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "مَدَحُوا", "root": "م د ح", "bs": "hvalili su", "en": "praised" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" }
+      ]
     }
   ],
   "metadata": {

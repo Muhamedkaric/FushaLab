@@ -6,22 +6,47 @@
     {
       "arabic": "يَعْمَلُ سُلَيْمَانُ فِي صَيْدَلِيَّةٍ كَمُسَاعِدٍ لِلصَّيْدَلَانِيِّ.",
       "translation": "Sulejman radi u apoteci kao pomoćnik farmaceuta.",
-      "translationEn": "Suleiman works in a pharmacy as a pharmacist's assistant."
+      "translationEn": "Suleiman works in a pharmacy as a pharmacist's assistant.",
+      "words": [
+        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "صَيْدَلِيَّةٍ", "root": "ص د ل", "bs": "apoteka/ljekarna", "en": "pharmacy" },
+        { "w": "مُسَاعِدٍ", "root": "س ع د", "bs": "pomoćnik/asistent", "en": "assistant" },
+        { "w": "لِلصَّيْدَلَانِيِّ", "root": "ص د ل", "bs": "farmaceut/apotekar", "en": "pharmacist" }
+      ]
     },
     {
       "arabic": "يُرَتِّبُ الْأَدْوِيَةَ عَلَى الرُّفُوفِ كُلَّ صَبَاحٍ.",
       "translation": "Svako jutro slaže lijekove na police.",
-      "translationEn": "He arranges the medicines on the shelves every morning."
+      "translationEn": "He arranges the medicines on the shelves every morning.",
+      "words": [
+        { "w": "يُرَتِّبُ", "root": "ر ت ب", "bs": "slaže/uređuje", "en": "arranges" },
+        { "w": "الْأَدْوِيَةَ", "root": "د و أ", "bs": "lijekovi", "en": "medicines" },
+        { "w": "الرُّفُوفِ", "root": "ر ف ف", "bs": "police/rafovi", "en": "shelves" },
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "يُسَاعِدُ الزَّبَائِنَ فِي إِيجَادِ الدَّوَاءِ الَّذِي يَحْتَاجُونَهُ.",
-      "translation": "Pomaže kupcima da naðu lijek koji im treba.",
-      "translationEn": "He helps customers find the medicine they need."
+      "translation": "Pomaže kupcima da nađu lijek koji im treba.",
+      "translationEn": "He helps customers find the medicine they need.",
+      "words": [
+        { "w": "يُسَاعِدُ", "root": "س ع د", "bs": "pomaže", "en": "helps" },
+        { "w": "الزَّبَائِنَ", "root": "ز ب ن", "bs": "kupci/mušterije", "en": "customers" },
+        { "w": "إِيجَادِ", "root": "و ج د", "bs": "pronalaženje", "en": "finding" },
+        { "w": "الدَّوَاءِ", "root": "د و أ", "bs": "lijek/medicina", "en": "medicine" },
+        { "w": "يَحْتَاجُونَهُ", "root": "ح و ج", "bs": "koji im treba", "en": "they need" }
+      ]
     },
     {
       "arabic": "يَسْأَلُ الصَّيْدَلَانِيَّ كَثِيرًا لِيَتَعَلَّمَ أَكْثَرَ.",
       "translation": "Puno pita farmaceuta da bi naučio više.",
-      "translationEn": "He asks the pharmacist a lot to learn more."
+      "translationEn": "He asks the pharmacist a lot to learn more.",
+      "words": [
+        { "w": "يَسْأَلُ", "root": "س أ ل", "bs": "pita/upita", "en": "asks" },
+        { "w": "الصَّيْدَلَانِيَّ", "root": "ص د ل", "bs": "farmaceut/apotekar", "en": "pharmacist" },
+        { "w": "لِيَتَعَلَّمَ", "root": "ع ل م", "bs": "da nauči", "en": "to learn" },
+        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više", "en": "more" }
+      ]
     }
   ],
   "metadata": {

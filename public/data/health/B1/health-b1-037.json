@@ -6,26 +6,147 @@
     {
       "arabic": "أَصِيبَ الْوَلَدُ سَعِيدٌ بِسُعَالٍ شَدِيدٍ فِي اللَّيْلِ.",
       "translation": "Dječaka Saida je noću uhvatio jak kašalj.",
-      "translationEn": "The boy Saeed had a severe cough at night."
+      "translationEn": "The boy Saeed had a severe cough at night.",
+      "words": [
+        {
+          "w": "أُصِيبَ",
+          "root": "ص و ب",
+          "bs": "zahvatio je",
+          "en": "struck"
+        },
+        {
+          "w": "الْوَلَدُ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "boy"
+        },
+        {
+          "w": "بِسُعَالٍ",
+          "root": "س ع ل",
+          "bs": "kašalj",
+          "en": "cough"
+        },
+        {
+          "w": "شَدِيدٍ",
+          "root": "ش د د",
+          "bs": "jak",
+          "en": "severe"
+        },
+        {
+          "w": "اللَّيْلِ",
+          "root": "ل ي ل",
+          "bs": "noć",
+          "en": "night"
+        }
+      ]
     },
     {
       "arabic": "قَامَتْ أُمُّهُ وَأَعْطَتْهُ دَوَاءً لِلسُّعَالِ.",
       "translation": "Majka je ustala i dala mu lijek za kašalj.",
-      "translationEn": "His mother got up and gave him cough medicine."
+      "translationEn": "His mother got up and gave him cough medicine.",
+      "words": [
+        {
+          "w": "قَامَتْ",
+          "root": "ق و م",
+          "bs": "ustala je",
+          "en": "got up"
+        },
+        {
+          "w": "أُمُّهُ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother"
+        },
+        {
+          "w": "أَعْطَتْهُ",
+          "root": "ع ط ي",
+          "bs": "dala mu je",
+          "en": "gave him"
+        },
+        {
+          "w": "دَوَاءً",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "لِلسُّعَالِ",
+          "root": "س ع ل",
+          "bs": "za kašalj",
+          "en": "for cough"
+        }
+      ]
     },
     {
       "arabic": "أَجْلَسَتْهُ وَأَعْطَتْهُ كُوبًا مِنَ الْمَاءِ الدَّافِئِ.",
       "translation": "Posadila ga je i dala mu čašu tople vode.",
-      "translationEn": "She sat him up and gave him a glass of warm water."
+      "translationEn": "She sat him up and gave him a glass of warm water.",
+      "words": [
+        {
+          "w": "أَجْلَسَتْهُ",
+          "root": "ج ل س",
+          "bs": "posadila ga je",
+          "en": "sat him"
+        },
+        {
+          "w": "أَعْطَتْهُ",
+          "root": "ع ط ي",
+          "bs": "dala mu je",
+          "en": "gave him"
+        },
+        {
+          "w": "كُوبًا",
+          "root": "ك و ب",
+          "bs": "čaša",
+          "en": "glass"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water"
+        },
+        {
+          "w": "الدَّافِئِ",
+          "root": "د ف أ",
+          "bs": "topla",
+          "en": "warm"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ قَلِيلٍ هَدَأَ السُّعَالُ وَنَامَ سَعِيدٌ.",
       "translation": "Ubrzo je kašalj stao i Said je zaspao.",
-      "translationEn": "After a while the cough calmed down and Saeed slept."
+      "translationEn": "After a while the cough calmed down and Saeed slept.",
+      "words": [
+        {
+          "w": "هَدَأَ",
+          "root": "ه د أ",
+          "bs": "stao je",
+          "en": "calmed down"
+        },
+        {
+          "w": "السُّعَالُ",
+          "root": "س ع ل",
+          "bs": "kašalj",
+          "en": "cough"
+        },
+        {
+          "w": "نَامَ",
+          "root": "ن و م",
+          "bs": "zaspao je",
+          "en": "slept"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cough", "night", "medicine", "child"]
+    "tags": [
+      "cough",
+      "night",
+      "medicine",
+      "child"
+    ]
   }
 }

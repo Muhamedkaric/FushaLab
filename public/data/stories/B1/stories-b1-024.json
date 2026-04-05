@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ شَجَرُ التُّفَّاحِ فِي حَدِيقَةِ الْجَدِّ مَلِيئًا بِالثِّمَارِ.",
       "translation": "Stabla jabuka u djedinoj bašti su bila puna plodova.",
-      "translationEn": "The apple trees in grandfather's garden were full of fruit."
+      "translationEn": "The apple trees in grandfather's garden were full of fruit.",
+      "words": [
+        { "w": "شَجَرُ", "root": "ش ج ر", "bs": "stabla", "en": "trees" },
+        { "w": "التُّفَّاحِ", "root": "ت ف ح", "bs": "jabuke", "en": "apples" },
+        { "w": "حَدِيقَةِ", "root": "ح د ق", "bs": "bašta", "en": "garden" },
+        { "w": "الْجَدِّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
+        { "w": "الثِّمَارِ", "root": "ث م ر", "bs": "plodovi", "en": "fruit" }
+      ]
     },
     {
       "arabic": "جَمَعَ الْجَدُّ وَحَفِيدُهُ التُّفَّاحَ مَعًا.",
       "translation": "Djed i unuk su zajedno brali jabuke.",
-      "translationEn": "The grandfather and his grandson picked the apples together."
+      "translationEn": "The grandfather and his grandson picked the apples together.",
+      "words": [
+        { "w": "جَمَعَ", "root": "ج م ع", "bs": "brao je", "en": "picked" },
+        { "w": "الْجَدُّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
+        { "w": "حَفِيدُهُ", "root": "ح ف د", "bs": "njegov unuk", "en": "his grandson" },
+        { "w": "التُّفَّاحَ", "root": "ت ف ح", "bs": "jabuke", "en": "apples" }
+      ]
     },
     {
       "arabic": "أَخَذَا بَعْضَهُ لِلْجِيرَانِ وَبَعْضَهُ لِلْبَيْتِ.",
       "translation": "Dio su dali komšijama a dio za kuću.",
-      "translationEn": "They took some for the neighbors and some for home."
+      "translationEn": "They took some for the neighbors and some for home.",
+      "words": [
+        { "w": "أَخَذَا", "root": "أ خ ذ", "bs": "uzeli su", "en": "took" },
+        { "w": "الْجِيرَانِ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+      ]
     },
     {
       "arabic": "قَالَ الْجَدُّ: «الْخَيْرُ يُشَارَكُ».",
       "translation": "Djed je rekao: «Dobro se dijeli».",
-      "translationEn": "The grandfather said: «Good things are shared»."
+      "translationEn": "The grandfather said: «Good things are shared».",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "الْجَدُّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
+        { "w": "الْخَيْرُ", "root": "خ ي ر", "bs": "dobro", "en": "good things" },
+        { "w": "يُشَارَكُ", "root": "ش ر ك", "bs": "dijeli se", "en": "shared" }
+      ]
     }
   ],
   "metadata": {

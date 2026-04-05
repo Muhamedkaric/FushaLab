@@ -6,22 +6,45 @@
     {
       "arabic": "قَدِمَ طَالِبٌ جَدِيدٌ إِلَى الفَصْلِ اليَوْمَ.",
       "translation": "Danas je u razred došao novi učenik.",
-      "translationEn": "A new student came to the class today."
+      "translationEn": "A new student came to the class today.",
+      "words": [
+        { "w": "قَدِمَ", "root": "ق د م", "bs": "došao je", "en": "came" },
+        { "w": "طَالِبٌ", "root": "ط ل ب", "bs": "učenik", "en": "student" },
+        { "w": "جَدِيدٌ", "root": "ج د د", "bs": "novi", "en": "new" },
+        { "w": "الفَصْلِ", "root": "ف ص ل", "bs": "razred", "en": "class" }
+      ]
     },
     {
       "arabic": "قَدَّمَهُ المُعَلِّمُ لِلطُّلَّابِ وَذَكَرَ اسْمَهُ.",
       "translation": "Nastavnik ga je predstavio učenicima i rekao njegovo ime.",
-      "translationEn": "The teacher introduced him to the students and said his name."
+      "translationEn": "The teacher introduced him to the students and said his name.",
+      "words": [
+        { "w": "قَدَّمَهُ", "root": "ق د م", "bs": "predstavio ga je", "en": "introduced him" },
+        { "w": "المُعَلِّمُ", "root": "ع ل م", "bs": "nastavnik", "en": "teacher" },
+        { "w": "الطُّلَّابِ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "اسْمَهُ", "root": "س م و", "bs": "njegovo ime", "en": "his name" }
+      ]
     },
     {
       "arabic": "رَحَّبَ الطُّلَّابُ بِهِ بِابْتِسَامَاتٍ وَكَلِمَاتٍ طَيِّبَةٍ.",
       "translation": "Učenici su ga dočekali osmjesima i ljubaznim riječima.",
-      "translationEn": "The students welcomed him with smiles and kind words."
+      "translationEn": "The students welcomed him with smiles and kind words.",
+      "words": [
+        { "w": "رَحَّبَ", "root": "ر ح ب", "bs": "dočekali su", "en": "welcomed" },
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "ابْتِسَامَاتٍ", "root": "ب س م", "bs": "osmijesi", "en": "smiles" },
+        { "w": "كَلِمَاتٍ طَيِّبَةٍ", "root": "ك ل م", "bs": "ljubazne riječi", "en": "kind words" }
+      ]
     },
     {
       "arabic": "جَلَسَ بِجَانِبِ زَيْدٍ وَبَدَأَ يَتَعَرَّفُ عَلَيْهِ.",
       "translation": "Sjeo je pored Zejda i počeo se upoznavati s njim.",
-      "translationEn": "He sat next to Zaid and began getting to know him."
+      "translationEn": "He sat next to Zaid and began getting to know him.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
+        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počeo je", "en": "began" },
+        { "w": "يَتَعَرَّفُ", "root": "ع ر ف", "bs": "da se upoznaje", "en": "getting to know" }
+      ]
     }
   ],
   "metadata": {

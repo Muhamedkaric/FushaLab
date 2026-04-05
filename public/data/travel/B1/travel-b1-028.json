@@ -6,22 +6,43 @@
     {
       "arabic": "نَسِيَ كَرِيمٌ حَقِيبَتَهُ فِي الْحَافِلَةِ.",
       "translation": "Karim je zaboravio torbu u autobusu.",
-      "translationEn": "Karim forgot his bag on the bus."
+      "translationEn": "Karim forgot his bag on the bus.",
+      "words": [
+        { "w": "نَسِيَ", "root": "ن س ي", "bs": "zaboravio je", "en": "forgot" },
+        { "w": "حَقِيبَتَهُ", "root": "ح ق ب", "bs": "njegova torba", "en": "his bag" },
+        { "w": "الْحَافِلَةِ", "root": "ح ف ل", "bs": "autobus", "en": "bus" }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَى مَكْتَبِ الْأَشْيَاءِ الْمَفْقُودَةِ.",
       "translation": "Otišao je u ured izgubljenih predmeta.",
-      "translationEn": "He went to the lost and found office."
+      "translationEn": "He went to the lost and found office.",
+      "words": [
+        { "w": "مَكْتَبِ", "root": "ك ت ب", "bs": "ured / kancelarija", "en": "office" },
+        { "w": "الْأَشْيَاءِ", "root": "ش ي أ", "bs": "predmeti / stvari", "en": "items / things" },
+        { "w": "الْمَفْقُودَةِ", "root": "ف ق د", "bs": "izgubljenih", "en": "lost" }
+      ]
     },
     {
       "arabic": "وَجَدَ الْمُوَظِّفُ الْحَقِيبَةَ وَأَعَادَهَا إِلَيْهِ.",
       "translation": "Službenik je pronašao torbu i vratio mu je.",
-      "translationEn": "The employee found the bag and returned it to him."
+      "translationEn": "The employee found the bag and returned it to him.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "الْمُوَظِّفُ", "root": "و ظ ف", "bs": "službenik", "en": "employee" },
+        { "w": "الْحَقِيبَةَ", "root": "ح ق ب", "bs": "torba", "en": "bag" },
+        { "w": "أَعَادَهَا", "root": "ع و د", "bs": "vratio je", "en": "returned it" }
+      ]
     },
     {
       "arabic": "فَرِحَ كَرِيمٌ وَشَكَرَ الْمُوَظِّفَ كَثِيرًا.",
       "translation": "Karim se obradovao i puno zahvalio službeniku.",
-      "translationEn": "Karim was happy and thanked the employee a lot."
+      "translationEn": "Karim was happy and thanked the employee a lot.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "الْمُوَظِّفَ", "root": "و ظ ف", "bs": "službenik", "en": "employee" }
+      ]
     }
   ],
   "metadata": {

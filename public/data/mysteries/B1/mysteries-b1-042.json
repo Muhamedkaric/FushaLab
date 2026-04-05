@@ -6,27 +6,59 @@
     {
       "arabic": "سَمِعَ رَشِيدٌ صَوْتَ غِنَاءٍ جَمِيلٍ مِنَ الشَّارِعِ.",
       "translation": "Rashid je čuo lijep pjev s ulice.",
-      "translationEn": "Rashid heard a beautiful singing voice from the street."
+      "translationEn": "Rashid heard a beautiful singing voice from the street.",
+      "words": [
+        { "w": "سَمِعَ", "root": "س م ع", "bs": "čuo je", "en": "he heard" },
+        { "w": "صَوْتَ", "root": "ص و ت", "bs": "zvuk/glas", "en": "voice/sound" },
+        { "w": "غِنَاءٍ", "root": "غ ن ي", "bs": "pjeva", "en": "singing" },
+        { "w": "جَمِيلٍ", "root": "ج م ل", "bs": "lijepog", "en": "beautiful" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulice", "en": "street" }
+      ]
     },
     {
       "arabic": "فَتَحَ النَّافِذَةَ وَنَظَرَ لَكِنَّهُ لَمْ يَرَ أَحَدًا.",
       "translation": "Otvorio je prozor i pogledao ali nije vidio nikoga.",
-      "translationEn": "He opened the window and looked but saw no one."
+      "translationEn": "He opened the window and looked but saw no one.",
+      "words": [
+        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "he opened" },
+        { "w": "النَّافِذَةَ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "he looked" },
+        { "w": "يَرَ", "root": "ر أ ي", "bs": "vidio", "en": "he saw" }
+      ]
     },
     {
       "arabic": "نَزَلَ إِلَى الشَّارِعِ وَبَحَثَ.",
       "translation": "Sišao je na ulicu i tražio.",
-      "translationEn": "He went down to the street and looked."
+      "translationEn": "He went down to the street and looked.",
+      "words": [
+        { "w": "نَزَلَ", "root": "ن ز ل", "bs": "sišao je", "en": "he went down" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulicu", "en": "street" },
+        { "w": "بَحَثَ", "root": "ب ح ث", "bs": "tražio je", "en": "he looked" }
+      ]
     },
     {
       "arabic": "رَأَى طِفْلَةً صَغِيرَةً تَجْلِسُ خَلْفَ الشَّجَرَةِ وَتَغَنِّي.",
       "translation": "Vidio je malo djevojčice koja sjedi iza drveta i pjeva.",
-      "translationEn": "He saw a little girl sitting behind the tree and singing."
+      "translationEn": "He saw a little girl sitting behind the tree and singing.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
+        { "w": "طِفْلَةً", "root": "ط ف ل", "bs": "djevojčicu", "en": "girl" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "malo", "en": "little" },
+        { "w": "تَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sitting" },
+        { "w": "الشَّجَرَةِ", "root": "ش ج ر", "bs": "drveta", "en": "tree" },
+        { "w": "تَغَنِّي", "root": "غ ن ي", "bs": "pjeva", "en": "singing" }
+      ]
     },
     {
       "arabic": "صَفَّقَ رَشِيدٌ لَهَا فَابْتَسَمَتْ وَاسْتَمَرَّتْ فِي الْغِنَاءِ.",
       "translation": "Rashid joj je zapljeskao a ona se nasmiješila i nastavila pjevati.",
-      "translationEn": "Rashid clapped for her and she smiled and kept on singing."
+      "translationEn": "Rashid clapped for her and she smiled and kept on singing.",
+      "words": [
+        { "w": "صَفَّقَ", "root": "ص ف ق", "bs": "zapljeskao je", "en": "he clapped" },
+        { "w": "ابْتَسَمَتْ", "root": "ب س م", "bs": "nasmiješila se", "en": "she smiled" },
+        { "w": "اسْتَمَرَّتْ", "root": "م ر ر", "bs": "nastavila je", "en": "she kept on" },
+        { "w": "الْغِنَاءِ", "root": "غ ن ي", "bs": "pjevanju", "en": "singing" }
+      ]
     }
   ],
   "metadata": {

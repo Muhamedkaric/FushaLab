@@ -6,26 +6,128 @@
     {
       "arabic": "أَقَامَتِ الْمَدِينَةُ حَفْلَةً بِمُنَاسَبَةِ الْعِيدِ الْوَطَنِيِّ.",
       "translation": "Grad je priredio svečanost povodom nacionalnog praznika.",
-      "translationEn": "The city held a celebration for the national holiday."
+      "translationEn": "The city held a celebration for the national holiday.",
+      "words": [
+        {
+          "w": "حَفْلَةً",
+          "root": "ح ف ل",
+          "bs": "svečanost",
+          "en": "celebration"
+        },
+        {
+          "w": "الْعِيدِ",
+          "root": "ع و د",
+          "bs": "praznika",
+          "en": "holiday"
+        },
+        {
+          "w": "الْوَطَنِيِّ",
+          "root": "و ط ن",
+          "bs": "nacionalnog",
+          "en": "national"
+        }
+      ]
     },
     {
       "arabic": "غَنَّى فَنَّانُونَ مَحَلِّيُّونَ أَمَامَ جُمْهُورٍ كَبِيرٍ.",
       "translation": "Lokalni umjetnici su pjevali pred velikom publikom.",
-      "translationEn": "Local artists sang in front of a large audience."
+      "translationEn": "Local artists sang in front of a large audience.",
+      "words": [
+        {
+          "w": "غَنَّى",
+          "root": "غ ن ي",
+          "bs": "pjevao je",
+          "en": "sang"
+        },
+        {
+          "w": "فَنَّانُونَ",
+          "root": "ف ن ن",
+          "bs": "umjetnici",
+          "en": "artists"
+        },
+        {
+          "w": "مَحَلِّيُّونَ",
+          "root": "م ح ل",
+          "bs": "lokalni",
+          "en": "local"
+        },
+        {
+          "w": "جُمْهُورٍ",
+          "root": "ج م ه",
+          "bs": "publika",
+          "en": "audience"
+        }
+      ]
     },
     {
       "arabic": "شَاهَدَ النَّاسُ أَلْعَابَ نَارِيَّةً جَمِيلَةً فِي السَّمَاءِ.",
       "translation": "Ljudi su gledali lijepa vatrometa na nebu.",
-      "translationEn": "People watched beautiful fireworks in the sky."
+      "translationEn": "People watched beautiful fireworks in the sky.",
+      "words": [
+        {
+          "w": "شَاهَدَ",
+          "root": "ش ه د",
+          "bs": "gledao je",
+          "en": "watched"
+        },
+        {
+          "w": "أَلْعَابَ نَارِيَّةً",
+          "root": "ل ع ب",
+          "bs": "vatromet",
+          "en": "fireworks"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijepe",
+          "en": "beautiful"
+        },
+        {
+          "w": "السَّمَاءِ",
+          "root": "س م و",
+          "bs": "nebu",
+          "en": "sky"
+        }
+      ]
     },
     {
       "arabic": "انْتَهَتِ الْحَفْلَةُ مُتَأَخِّرًا وَعَادَ النَّاسُ إِلَى بُيُوتِهِمْ.",
       "translation": "Slavlje je završilo kasno i ljudi su se vratili kućama.",
-      "translationEn": "The celebration ended late and people returned to their homes."
+      "translationEn": "The celebration ended late and people returned to their homes.",
+      "words": [
+        {
+          "w": "انْتَهَتِ",
+          "root": "ن ه ي",
+          "bs": "završilo je",
+          "en": "ended"
+        },
+        {
+          "w": "الْحَفْلَةُ",
+          "root": "ح ف ل",
+          "bs": "slavlje",
+          "en": "celebration"
+        },
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "بُيُوتِهِمْ",
+          "root": "ب ي ت",
+          "bs": "kućama",
+          "en": "homes"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["celebration", "city events", "holiday"]
+    "tags": [
+      "celebration",
+      "city events",
+      "holiday"
+    ]
   }
 }

@@ -6,22 +6,43 @@
     {
       "arabic": "وَلِدَ لِعَائِلَةِ مُحَمَّدٍ طِفْلٌ جَدِيدٌ اسْمُهُ زَيْدٌ.",
       "translation": "Muhammedovoj porodici rodilo se novo dijete po imenu Zejd.",
-      "translationEn": "A new baby named Zayd was born to Muhammad's family."
+      "translationEn": "A new baby named Zayd was born to Muhammad's family.",
+      "words": [
+        { "w": "وَلِدَ", "root": "و ل د", "bs": "rodio se", "en": "was born" },
+        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dijete/beba", "en": "baby/child" },
+        { "w": "جَدِيدٌ", "root": "ج د د", "bs": "novo", "en": "new" }
+      ]
     },
     {
       "arabic": "فَرِحَ الإِخْوَةُ الْكِبَارُ كَثِيرًا بِقُدُومِ زَيْدٍ.",
       "translation": "Starija braća su se jako obradovala Zejdovom dolasku.",
-      "translationEn": "The older siblings were very happy about Zayd's arrival."
+      "translationEn": "The older siblings were very happy about Zayd's arrival.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
+        { "w": "الإِخْوَةُ", "root": "أ خ و", "bs": "braća", "en": "siblings/brothers" },
+        { "w": "الْكِبَارُ", "root": "ك ب ر", "bs": "stariji", "en": "older" },
+        { "w": "بِقُدُومِ", "root": "ق د م", "bs": "dolazak/prisustvo", "en": "arrival" }
+      ]
     },
     {
       "arabic": "كَانُوا يُغَنُّونَ لَهُ وَيُلَاعِبُونَهُ كُلَّ يَوْمٍ.",
       "translation": "Pjevali su mu i zabavljali ga svaki dan.",
-      "translationEn": "They used to sing to him and play with him every day."
+      "translationEn": "They used to sing to him and play with him every day.",
+      "words": [
+        { "w": "يُغَنُّونَ", "root": "غ ن ي", "bs": "pjevali su", "en": "used to sing" },
+        { "w": "يُلَاعِبُونَهُ", "root": "ل ع ب", "bs": "zabavljali su ga", "en": "played with him" }
+      ]
     },
     {
       "arabic": "نَامَ زَيْدٌ بِسُرْعَةٍ كُلَّمَا سَمِعَ أَصْوَاتَهُمْ.",
       "translation": "Zejd je brzo zaspio svaki put kad bi čuo njihove glasove.",
-      "translationEn": "Zayd fell asleep quickly whenever he heard their voices."
+      "translationEn": "Zayd fell asleep quickly whenever he heard their voices.",
+      "words": [
+        { "w": "نَامَ", "root": "ن و م", "bs": "zaspio je", "en": "fell asleep" },
+        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" },
+        { "w": "سَمِعَ", "root": "س م ع", "bs": "čuo je", "en": "heard" },
+        { "w": "أَصْوَاتَهُمْ", "root": "ص و ت", "bs": "njihovi glasovi", "en": "their voices" }
+      ]
     }
   ],
   "metadata": {

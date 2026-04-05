@@ -6,26 +6,128 @@
     {
       "arabic": "أَحَسَّ وَلِيدٌ بِأَلَمٍ فِي حَلْقِهِ مُنْذُ الصَّبَاحِ.",
       "translation": "Walid je od jutra osjećao bol u grlu.",
-      "translationEn": "Walid felt throat pain since the morning."
+      "translationEn": "Walid felt throat pain since the morning.",
+      "words": [
+        {
+          "w": "أَحَسَّ",
+          "root": "ح س س",
+          "bs": "osjećao je",
+          "en": "felt"
+        },
+        {
+          "w": "بِأَلَمٍ",
+          "root": "أ ل م",
+          "bs": "bol",
+          "en": "pain"
+        },
+        {
+          "w": "حَلْقِهِ",
+          "root": "ح ل ق",
+          "bs": "grlo",
+          "en": "throat"
+        }
+      ]
     },
     {
       "arabic": "شَرِبَ عَصِيرَ الْلَّيْمُونِ مَعَ الْعَسَلِ لِيَتَحَسَّنَ.",
       "translation": "Popio je sok od limuna s medom da mu bude bolje.",
-      "translationEn": "He drank lemon juice with honey to get better."
+      "translationEn": "He drank lemon juice with honey to get better.",
+      "words": [
+        {
+          "w": "شَرِبَ",
+          "root": "ش ر ب",
+          "bs": "popio je",
+          "en": "drank"
+        },
+        {
+          "w": "عَصِيرَ",
+          "root": "ع ص ر",
+          "bs": "sok",
+          "en": "juice"
+        },
+        {
+          "w": "الْلَّيْمُونِ",
+          "bs": "limun",
+          "en": "lemon"
+        },
+        {
+          "w": "الْعَسَلِ",
+          "root": "ع س ل",
+          "bs": "med",
+          "en": "honey"
+        },
+        {
+          "w": "يَتَحَسَّنَ",
+          "root": "ح س ن",
+          "bs": "da mu bude bolje",
+          "en": "to get better"
+        }
+      ]
     },
     {
       "arabic": "بَقِيَ فِي الْبَيْتِ وَلَمْ يَذْهَبْ إِلَى الْعَمَلِ.",
       "translation": "Ostao je kod kuće i nije otišao na posao.",
-      "translationEn": "He stayed at home and did not go to work."
+      "translationEn": "He stayed at home and did not go to work.",
+      "words": [
+        {
+          "w": "بَقِيَ",
+          "root": "ب ق ي",
+          "bs": "ostao je",
+          "en": "stayed"
+        },
+        {
+          "w": "يَذْهَبْ",
+          "root": "ذ ه ب",
+          "bs": "ide",
+          "en": "go"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work"
+        }
+      ]
     },
     {
       "arabic": "فِي الْمَسَاءِ ذَهَبَ إِلَى الطَّبِيبِ لِأَنَّ الْأَلَمَ اشْتَدَّ.",
       "translation": "Uveče je otišao kod ljekara jer se bol pojačala.",
-      "translationEn": "In the evening he went to the doctor because the pain got worse."
+      "translationEn": "In the evening he went to the doctor because the pain got worse.",
+      "words": [
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went"
+        },
+        {
+          "w": "الطَّبِيبِ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "الْأَلَمَ",
+          "root": "أ ل م",
+          "bs": "bol",
+          "en": "pain"
+        },
+        {
+          "w": "اشْتَدَّ",
+          "root": "ش د د",
+          "bs": "pojačala se",
+          "en": "got worse"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["throat", "honey", "lemon", "doctor"]
+    "tags": [
+      "throat",
+      "honey",
+      "lemon",
+      "doctor"
+    ]
   }
 }

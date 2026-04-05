@@ -6,22 +6,108 @@
     {
       "arabic": "كَانَ هَاتِفُ عَادِلٍ بَطِيئًا جِدًّا.",
       "translation": "Adilov telefon je bio veoma spor.",
-      "translationEn": "Adil's phone was very slow."
+      "translationEn": "Adil's phone was very slow.",
+      "words": [
+        {
+          "w": "هَاتِفُ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "the phone"
+        },
+        {
+          "w": "بَطِيئًا",
+          "root": "ب ط أ",
+          "bs": "spor",
+          "en": "slow"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَ أَخَاهُ لِمَاذَا هُوَ بَطِيءٌ.",
       "translation": "Pitao je brata zašto je spor.",
-      "translationEn": "He asked his brother why it was slow."
+      "translationEn": "He asked his brother why it was slow.",
+      "words": [
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked"
+        },
+        {
+          "w": "أَخَاهُ",
+          "root": "أ خ و",
+          "bs": "brata",
+          "en": "his brother"
+        },
+        {
+          "w": "بَطِيءٌ",
+          "root": "ب ط أ",
+          "bs": "spor",
+          "en": "slow"
+        }
+      ]
     },
     {
       "arabic": "قَالَ لَهُ الْأَخُ: احْذِفِ الصُّوَرَ الْقَدِيمَةَ وَسَتَكُونُ أَسْرَعَ.",
       "translation": "Brat mu je rekao: Obriši stare fotografije i bit će brži.",
-      "translationEn": "The brother told him: Delete the old photos and it will be faster."
+      "translationEn": "The brother told him: Delete the old photos and it will be faster.",
+      "words": [
+        {
+          "w": "احْذِفِ",
+          "root": "ح ذ ف",
+          "bs": "obriši",
+          "en": "delete"
+        },
+        {
+          "w": "الصُّوَرَ",
+          "root": "ص و ر",
+          "bs": "fotografije",
+          "en": "the photos"
+        },
+        {
+          "w": "الْقَدِيمَةَ",
+          "root": "ق د م",
+          "bs": "stare",
+          "en": "old"
+        },
+        {
+          "w": "أَسْرَعَ",
+          "root": "س ر ع",
+          "bs": "brži",
+          "en": "faster"
+        }
+      ]
     },
     {
       "arabic": "حَذَفَ عَادِلٌ الصُّوَرَ وَأَصْبَحَ الْهَاتِفُ أَسْرَعَ.",
       "translation": "Adil je obrisao fotografije i telefon je postao brži.",
-      "translationEn": "Adil deleted the photos and the phone became faster."
+      "translationEn": "Adil deleted the photos and the phone became faster.",
+      "words": [
+        {
+          "w": "حَذَفَ",
+          "root": "ح ذ ف",
+          "bs": "obrisao je",
+          "en": "deleted"
+        },
+        {
+          "w": "الصُّوَرَ",
+          "root": "ص و ر",
+          "bs": "fotografije",
+          "en": "the photos"
+        },
+        {
+          "w": "الْهَاتِفُ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "the phone"
+        },
+        {
+          "w": "أَسْرَعَ",
+          "root": "س ر ع",
+          "bs": "brži",
+          "en": "faster"
+        }
+      ]
     }
   ],
   "metadata": {

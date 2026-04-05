@@ -6,22 +6,45 @@
     {
       "arabic": "تَشْعُرُ بَشَّارُ بِالسَّعَادَةِ حِينَ تُطْعِمُ الطُّيُورَ.",
       "translation": "Bašar se osjeća sretno kada hrani ptice.",
-      "translationEn": "Bashar feels happy when she feeds the birds."
+      "translationEn": "Bashar feels happy when she feeds the birds.",
+      "words": [
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
+        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happiness" },
+        { "w": "تُطْعِمُ", "root": "ط ع م", "bs": "hrani", "en": "feeds" },
+        { "w": "الطُّيُورَ", "root": "ط ي ر", "bs": "ptice", "en": "birds" }
+      ]
     },
     {
       "arabic": "كُلَّ صَبَاحٍ تَضَعُ لَهَا بَعْضَ الْحُبُوبِ فِي الْحَدِيقَةِ.",
       "translation": "Svako jutro stavlja im malo žitarica u vrtu.",
-      "translationEn": "Every morning she puts some grains for them in the garden."
+      "translationEn": "Every morning she puts some grains for them in the garden.",
+      "words": [
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" },
+        { "w": "تَضَعُ", "root": "و ض ع", "bs": "stavlja", "en": "puts" },
+        { "w": "الْحُبُوبِ", "root": "ح ب ب", "bs": "žitarice", "en": "grains" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+      ]
     },
     {
       "arabic": "تَنْظُرُ إِلَيْهَا وَهِيَ تَأْكُلُ وَتَبْتَسِمُ.",
       "translation": "Gleda ih kako jedu i smiješi se.",
-      "translationEn": "She watches them eating and smiles."
+      "translationEn": "She watches them eating and smiles.",
+      "words": [
+        { "w": "تَنْظُرُ", "root": "ن ظ ر", "bs": "gleda", "en": "watches" },
+        { "w": "تَأْكُلُ", "root": "أ ك ل", "bs": "jedu", "en": "eating" },
+        { "w": "تَبْتَسِمُ", "root": "ب س م", "bs": "smiješi se", "en": "smiles" }
+      ]
     },
     {
       "arabic": "الِاهْتِمَامُ بِالْكَائِنَاتِ الْحَيَّةِ يُسَعِّدُ الإِنْسَانَ.",
       "translation": "Briga o živim bićima čini čovjeka sretnim.",
-      "translationEn": "Caring for living creatures makes a person happy."
+      "translationEn": "Caring for living creatures makes a person happy.",
+      "words": [
+        { "w": "الِاهْتِمَامُ", "root": "ه م م", "bs": "briga", "en": "caring" },
+        { "w": "الْكَائِنَاتِ", "root": "ك و ن", "bs": "bića", "en": "creatures" },
+        { "w": "الْحَيَّةِ", "root": "ح ي و", "bs": "živa", "en": "living" },
+        { "w": "يُسَعِّدُ", "root": "س ع د", "bs": "usrećuje", "en": "makes happy" }
+      ]
     }
   ],
   "metadata": {

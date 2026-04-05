@@ -6,27 +6,57 @@
     {
       "arabic": "حَضَرَ كَثِيرٌ مِنَ النَّاسِ حَفْلَةَ الزَّفَافِ.",
       "translation": "Mnogi ljudi su prisustvovali vjenčanju.",
-      "translationEn": "Many people attended the wedding party."
+      "translationEn": "Many people attended the wedding party.",
+      "words": [
+        { "w": "حَضَرَ", "root": "ح ض ر", "bs": "prisustvovao", "en": "attended" },
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "حَفْلَةَ", "root": "ح ف ل", "bs": "svečanosti", "en": "party" },
+        { "w": "الزَّفَافِ", "root": "ز ف ف", "bs": "vjenčanju", "en": "wedding" }
+      ]
     },
     {
       "arabic": "ارْتَدَتِ العَرُوسُ فُسْتَانًا أَبْيَضَ جَمِيلًا.",
       "translation": "Mladenka je obukla lijepu bijelu haljinu.",
-      "translationEn": "The bride wore a beautiful white dress."
+      "translationEn": "The bride wore a beautiful white dress.",
+      "words": [
+        { "w": "ارْتَدَتِ", "root": "ر د ي", "bs": "obukla je", "en": "wore" },
+        { "w": "العَرُوسُ", "root": "ع ر س", "bs": "mladenka", "en": "bride" },
+        { "w": "فُسْتَانًا", "root": "ف س ت", "bs": "haljinu", "en": "dress" },
+        { "w": "أَبْيَضَ", "root": "ب ي ض", "bs": "bijelu", "en": "white" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepu", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "عَزَفَتِ المُوسِيقَى وَرَقَصَ النَّاسُ.",
       "translation": "Muzika je svirala i ljudi su plesali.",
-      "translationEn": "Music played and people danced."
+      "translationEn": "Music played and people danced.",
+      "words": [
+        { "w": "عَزَفَتِ", "root": "ع ز ف", "bs": "svirala", "en": "played" },
+        { "w": "المُوسِيقَى", "bs": "muzika", "en": "music" },
+        { "w": "رَقَصَ", "root": "ر ق ص", "bs": "plesali", "en": "danced" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" }
+      ]
     },
     {
       "arabic": "قَدَّمَ أَهْلُ العَرِيسِ الطَّعَامَ لِلضُّيُوفِ.",
       "translation": "Mladoženjina porodica je poslužila hranu gostima.",
-      "translationEn": "The groom's family served food to the guests."
+      "translationEn": "The groom's family served food to the guests.",
+      "words": [
+        { "w": "قَدَّمَ", "root": "ق د م", "bs": "poslužio", "en": "served" },
+        { "w": "أَهْلُ", "root": "أ هـ ل", "bs": "porodica", "en": "family" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" },
+        { "w": "الضُّيُوفِ", "root": "ض ي ف", "bs": "gostima", "en": "guests" }
+      ]
     },
     {
       "arabic": "كَانَ الجَمِيعُ سَعِيدًا فِي ذَلِكَ اليَوْمِ.",
       "translation": "Svi su bili sretni tog dana.",
-      "translationEn": "Everyone was happy on that day."
+      "translationEn": "Everyone was happy on that day.",
+      "words": [
+        { "w": "الجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
+        { "w": "سَعِيدًا", "root": "س ع د", "bs": "sretni", "en": "happy" },
+        { "w": "اليَوْمِ", "root": "ي و م", "bs": "dana", "en": "day" }
+      ]
     }
   ],
   "metadata": {

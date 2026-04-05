@@ -6,22 +6,41 @@
     {
       "arabic": "سَمِعَ عَلِيٌّ الْمَثَلَ: «اتَّقِ شَرَّ مَنْ أَحْسَنْتَ إِلَيْهِ».",
       "translation": "Ali je čuo poslovicu: «Čuvaj se zla onoga kome si dobro učinio».",
-      "translationEn": "Ali heard the proverb: «Beware the evil of one to whom you have done good»."
+      "translationEn": "Ali heard the proverb: «Beware the evil of one to whom you have done good».",
+      "words": [
+        { "w": "اتَّقِ", "root": "و ق ي", "bs": "čuvaj se", "en": "beware" },
+        { "w": "شَرَّ", "root": "ش ر ر", "bs": "zlo", "en": "evil" },
+        { "w": "أَحْسَنْتَ", "root": "ح س ن", "bs": "dobro si učinio", "en": "you have done good" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ بَعْضَ النَّاسِ لَا يَشْكُرُونَ مَنْ أَحْسَنَ إِلَيْهِمْ.",
       "translation": "To znači da neki ljudi ne zahvaljuju onima koji su im dobro učinili.",
-      "translationEn": "This means that some people do not thank those who have been good to them."
+      "translationEn": "This means that some people do not thank those who have been good to them.",
+      "words": [
+        { "w": "يَشْكُرُونَ", "root": "ش ك ر", "bs": "zahvaljuju", "en": "thank" },
+        { "w": "أَحْسَنَ", "root": "ح س ن", "bs": "dobro je učinio", "en": "been good" }
+      ]
     },
     {
       "arabic": "سَاعَدَ عَلِيٌّ زَمِيلَهُ فِي الدِّرَاسَةِ كَثِيرًا.",
       "translation": "Ali je mnogo pomagao svom kolegi u učenju.",
-      "translationEn": "Ali helped his classmate with studying a lot."
+      "translationEn": "Ali helped his classmate with studying a lot.",
+      "words": [
+        { "w": "سَاعَدَ", "root": "س ع د", "bs": "pomagao je", "en": "helped" },
+        { "w": "زَمِيلَهُ", "root": "ز م ل", "bs": "svog kolegu", "en": "his classmate" },
+        { "w": "الدِّرَاسَةِ", "root": "د ر س", "bs": "učenje", "en": "studying" }
+      ]
     },
     {
       "arabic": "لَمْ يَشْكُرْهُ الزَّمِيلُ فَحَزِنَ عَلِيٌّ قَلِيلًا.",
       "translation": "Kolega mu se nije zahvalio pa se Ali malo rastuži.",
-      "translationEn": "The classmate did not thank him so Ali was a little sad."
+      "translationEn": "The classmate did not thank him so Ali was a little sad.",
+      "words": [
+        { "w": "يَشْكُرْهُ", "root": "ش ك ر", "bs": "zahvalio mu se", "en": "thanked him" },
+        { "w": "الزَّمِيلُ", "root": "ز م ل", "bs": "kolega", "en": "classmate" },
+        { "w": "حَزِنَ", "root": "ح ز ن", "bs": "rastužio se", "en": "was sad" }
+      ]
     }
   ],
   "metadata": {

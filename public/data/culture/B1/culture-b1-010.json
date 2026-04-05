@@ -6,22 +6,47 @@
     {
       "arabic": "يَرْتَدِي بَعْضُ الرِّجَالِ الثَّوْبَ فِي المَنَاسَبَاتِ.",
       "translation": "Neki muškarci nose tobe na proslavama.",
-      "translationEn": "Some men wear the thobe on occasions."
+      "translationEn": "Some men wear the thobe on occasions.",
+      "words": [
+        { "w": "يَرْتَدِي", "root": "ر د ي", "bs": "nosi", "en": "wears" },
+        { "w": "الرِّجَالِ", "root": "ر ج ل", "bs": "muškarci", "en": "men" },
+        { "w": "الثَّوْبَ", "root": "ث و ب", "bs": "tobu", "en": "thobe" },
+        { "w": "المَنَاسَبَاتِ", "root": "ن س ب", "bs": "proslavama", "en": "occasions" }
+      ]
     },
     {
       "arabic": "اللَّوْنُ الأَبْيَضُ شَائِعٌ فِي دَوْلِ الخَلِيجِ.",
       "translation": "Bijela boja je uobičajena u državama Zaljeva.",
-      "translationEn": "White color is common in Gulf countries."
+      "translationEn": "White color is common in Gulf countries.",
+      "words": [
+        { "w": "اللَّوْنُ", "root": "ل و ن", "bs": "boja", "en": "color" },
+        { "w": "الأَبْيَضُ", "root": "ب ي ض", "bs": "bijela", "en": "white" },
+        { "w": "شَائِعٌ", "root": "ش ي ع", "bs": "uobičajena", "en": "common" },
+        { "w": "دَوْلِ", "root": "د و ل", "bs": "državama", "en": "countries" }
+      ]
     },
     {
       "arabic": "تَرْتَدِي المَرْأَةُ العَبَاءَةَ فِي الأَمَاكِنِ العَامَّةِ.",
       "translation": "Žena nosi abayu na javnim mjestima.",
-      "translationEn": "The woman wears the abaya in public places."
+      "translationEn": "The woman wears the abaya in public places.",
+      "words": [
+        { "w": "تَرْتَدِي", "root": "ر د ي", "bs": "nosi", "en": "wears" },
+        { "w": "المَرْأَةُ", "root": "م ر أ", "bs": "žena", "en": "woman" },
+        { "w": "العَبَاءَةَ", "root": "ع ب ي", "bs": "abayu", "en": "abaya" },
+        { "w": "الأَمَاكِنِ", "root": "م ك ن", "bs": "mjestima", "en": "places" }
+      ]
     },
     {
       "arabic": "المَلَابِسُ التَّقْلِيدِيَّةُ جُزْءٌ مِنَ الهُوِيَّةِ الثَّقَافِيَّةِ.",
       "translation": "Tradicionalna odjeća je dio kulturnog identiteta.",
-      "translationEn": "Traditional clothing is part of cultural identity."
+      "translationEn": "Traditional clothing is part of cultural identity.",
+      "words": [
+        { "w": "المَلَابِسُ", "root": "ل ب س", "bs": "odjeća", "en": "clothing" },
+        { "w": "التَّقْلِيدِيَّةُ", "root": "ق ل د", "bs": "tradicionalna", "en": "traditional" },
+        { "w": "جُزْءٌ", "root": "ج ز أ", "bs": "dio", "en": "part" },
+        { "w": "الهُوِيَّةِ", "root": "هـ و ي", "bs": "identiteta", "en": "identity" },
+        { "w": "الثَّقَافِيَّةِ", "root": "ث ق ف", "bs": "kulturnog", "en": "cultural" }
+      ]
     }
   ],
   "metadata": {

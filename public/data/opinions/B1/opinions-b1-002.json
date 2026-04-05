@@ -6,22 +6,50 @@
     {
       "arabic": "فِي رَأْيِي، مُسَاعَدَةُ الْآخَرِينَ تَجْعَلُ الْحَيَاةَ أَجْمَلَ.",
       "translation": "Po mom mišljenju, pomaganje drugima čini život ljepšim.",
-      "translationEn": "In my opinion, helping others makes life more beautiful."
+      "translationEn": "In my opinion, helping others makes life more beautiful.",
+      "words": [
+        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "mišljenju", "en": "opinion" },
+        { "w": "مُسَاعَدَةُ", "root": "س ع د", "bs": "pomaganje", "en": "helping" },
+        { "w": "الْآخَرِينَ", "root": "أ خ ر", "bs": "drugima", "en": "others" },
+        { "w": "تَجْعَلُ", "root": "ج ع ل", "bs": "čini", "en": "makes" },
+        { "w": "الْحَيَاةَ", "root": "ح ي ي", "bs": "život", "en": "life" },
+        { "w": "أَجْمَلَ", "root": "ج م ل", "bs": "ljepšim", "en": "more beautiful" }
+      ]
     },
     {
       "arabic": "حِينَ تُسَاعِدُ شَخْصًا تَشْعُرُ بِالسَّعَادَةِ.",
       "translation": "Kada nekome pomogneš, osjećaš sreću.",
-      "translationEn": "When you help someone you feel happy."
+      "translationEn": "When you help someone you feel happy.",
+      "words": [
+        { "w": "تُسَاعِدُ", "root": "س ع د", "bs": "pomogneš", "en": "you help" },
+        { "w": "شَخْصًا", "root": "ش خ ص", "bs": "nekome", "en": "someone" },
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjećaš", "en": "you feel" },
+        { "w": "بِالسَّعَادَةِ", "root": "س ع د", "bs": "sreću", "en": "happy" }
+      ]
     },
     {
       "arabic": "أُحَاوِلُ كُلَّ يَوْمٍ أَنْ أَفْعَلَ شَيْئًا طَيِّبًا لِشَخْصٍ آخَرَ.",
       "translation": "Svaki dan pokušavam nešto lijepo učiniti za drugu osobu.",
-      "translationEn": "Every day I try to do something kind for another person."
+      "translationEn": "Every day I try to do something kind for another person.",
+      "words": [
+        { "w": "أُحَاوِلُ", "root": "ح و ل", "bs": "pokušavam", "en": "I try" },
+        { "w": "أَفْعَلَ", "root": "ف ع ل", "bs": "učiniti", "en": "to do" },
+        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "nešto", "en": "something" },
+        { "w": "طَيِّبًا", "root": "ط ي ب", "bs": "lijepo/dobro", "en": "kind" },
+        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osobi", "en": "person" }
+      ]
     },
     {
       "arabic": "أَظُنُّ أَنَّ الْعَالَمَ يَصِيرُ أَفْضَلَ بِالتَّعَاوُنِ.",
       "translation": "Mislim da suradnjom svjet postaje bolji.",
-      "translationEn": "I think the world becomes better through cooperation."
+      "translationEn": "I think the world becomes better through cooperation.",
+      "words": [
+        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
+        { "w": "الْعَالَمَ", "root": "ع ل م", "bs": "svijet", "en": "the world" },
+        { "w": "يَصِيرُ", "root": "ص ي ر", "bs": "postaje", "en": "becomes" },
+        { "w": "أَفْضَلَ", "root": "ف ض ل", "bs": "bolji", "en": "better" },
+        { "w": "بِالتَّعَاوُنِ", "root": "ع و ن", "bs": "suradnjom", "en": "cooperation" }
+      ]
     }
   ],
   "metadata": {

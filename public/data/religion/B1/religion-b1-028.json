@@ -6,22 +6,108 @@
     {
       "arabic": "أَدَّى مُصْطَفَى صَلَاةَ الْعَصْرِ فِي وَقْتِهَا.",
       "translation": "Mustafa je klanjao ikindija-namaz u njegovo vrijeme.",
-      "translationEn": "Mustafa performed the Asr prayer on time."
+      "translationEn": "Mustafa performed the Asr prayer on time.",
+      "words": [
+        {
+          "w": "أَدَّى",
+          "root": "أ د ي",
+          "bs": "klanjao je",
+          "en": "performed"
+        },
+        {
+          "w": "صَلَاةَ الْعَصْرِ",
+          "root": "ع ص ر",
+          "bs": "ikindija-namaz",
+          "en": "the Asr prayer"
+        },
+        {
+          "w": "وَقْتِهَا",
+          "root": "و ق ت",
+          "bs": "njegovo vrijeme",
+          "en": "on time"
+        }
+      ]
     },
     {
       "arabic": "كَانَ فِي مَكَانِ عَمَلِهِ لَكِنَّهُ تَوَقَّفَ عَنِ الْعَمَلِ.",
       "translation": "Bio je na poslu ali je prestao raditi.",
-      "translationEn": "He was at his workplace but he stopped working."
+      "translationEn": "He was at his workplace but he stopped working.",
+      "words": [
+        {
+          "w": "مَكَانِ عَمَلِهِ",
+          "root": "ع م ل",
+          "bs": "poslu",
+          "en": "his workplace"
+        },
+        {
+          "w": "تَوَقَّفَ",
+          "root": "و ق ف",
+          "bs": "prestao je",
+          "en": "stopped"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "raditi",
+          "en": "working"
+        }
+      ]
     },
     {
       "arabic": "تَوَضَّأَ وَصَلَّى فِي مَكَانٍ هَادِئٍ.",
       "translation": "Uzeo je abdest i klanjao na mirnom mjestu.",
-      "translationEn": "He performed ablution and prayed in a quiet place."
+      "translationEn": "He performed ablution and prayed in a quiet place.",
+      "words": [
+        {
+          "w": "تَوَضَّأَ",
+          "root": "و ض أ",
+          "bs": "uzeo je abdest",
+          "en": "performed ablution"
+        },
+        {
+          "w": "صَلَّى",
+          "root": "ص ل و",
+          "bs": "klanjao je",
+          "en": "prayed"
+        },
+        {
+          "w": "مَكَانٍ",
+          "root": "م ك ن",
+          "bs": "mjesto",
+          "en": "a place"
+        },
+        {
+          "w": "هَادِئٍ",
+          "root": "ه د أ",
+          "bs": "mirnom",
+          "en": "quiet"
+        }
+      ]
     },
     {
       "arabic": "عَادَ إِلَى عَمَلِهِ وَهُوَ مُرْتَاحُ الْبَالِ.",
       "translation": "Vratio se na posao spokojnog uma.",
-      "translationEn": "He returned to his work with a peaceful mind."
+      "translationEn": "He returned to his work with a peaceful mind.",
+      "words": [
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "عَمَلِهِ",
+          "root": "ع م ل",
+          "bs": "poslu",
+          "en": "his work"
+        },
+        {
+          "w": "مُرْتَاحُ الْبَالِ",
+          "root": "ر و ح",
+          "bs": "spokojnog uma",
+          "en": "with a peaceful mind"
+        }
+      ]
     }
   ],
   "metadata": {

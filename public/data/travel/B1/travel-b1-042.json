@@ -6,22 +6,42 @@
     {
       "arabic": "سَأَلَ رَجُلٌ عَجُوزٌ مُحَمَّدًا عَنِ اسْمِ الْفُنْدُقِ.",
       "translation": "Stariji čovjek je pitao Muhammeda ime hotela.",
-      "translationEn": "An old man asked Muhammad for the name of the hotel."
+      "translationEn": "An old man asked Muhammad for the name of the hotel.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "عَجُوزٌ", "root": "ع ج ز", "bs": "stariji / star", "en": "old / elderly" },
+        { "w": "اسْمِ", "root": "س م و", "bs": "ime", "en": "name" },
+        { "w": "الْفُنْدُقِ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" }
+      ]
     },
     {
       "arabic": "أَخْبَرَهُ مُحَمَّدٌ وَأَعْطَاهُ الْعُنْوَانَ.",
       "translation": "Muhammed mu je rekao i dao mu adresu.",
-      "translationEn": "Muhammad told him and gave him the address."
+      "translationEn": "Muhammad told him and gave him the address.",
+      "words": [
+        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "rekao mu je / obavijestio ga", "en": "told him" },
+        { "w": "أَعْطَاهُ", "root": "ع ط ي", "bs": "dao mu je", "en": "gave him" },
+        { "w": "الْعُنْوَانَ", "root": "ع ن و", "bs": "adresa", "en": "address" }
+      ]
     },
     {
       "arabic": "شَكَرَهُ الرَّجُلُ الْعَجُوزُ وَمَشَى بِبُطْءٍ.",
       "translation": "Stariji čovjek mu je zahvalio i polako otišao.",
-      "translationEn": "The old man thanked him and walked slowly."
+      "translationEn": "The old man thanked him and walked slowly.",
+      "words": [
+        { "w": "شَكَرَهُ", "root": "ش ك ر", "bs": "zahvalio mu je", "en": "thanked him" },
+        { "w": "مَشَى", "root": "م ش ي", "bs": "hodao je", "en": "walked" },
+        { "w": "بِبُطْءٍ", "root": "ب ط أ", "bs": "polako", "en": "slowly" }
+      ]
     },
     {
       "arabic": "نَظَرَ مُحَمَّدٌ خَلْفَهُ وَابْتَسَمَ.",
       "translation": "Muhammed je pogledao za njim i nasmiješio se.",
-      "translationEn": "Muhammad looked after him and smiled."
+      "translationEn": "Muhammad looked after him and smiled.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" },
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" }
+      ]
     }
   ],
   "metadata": {

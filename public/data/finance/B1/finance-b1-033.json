@@ -6,27 +6,56 @@
     {
       "arabic": "كَانَتِ الجَدَّةُ تَدَّخِرُ النُّقُودَ فِي عُلْبَةٍ مَعْدَنِيَّةٍ قَدِيمَةٍ.",
       "translation": "Baka je štedila novac u staroj metalnoj kutiji.",
-      "translationEn": "The grandmother saved money in an old metal box."
+      "translationEn": "The grandmother saved money in an old metal box.",
+      "words": [
+        { "w": "الجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "تَدَّخِرُ", "root": "ذ خ ر", "bs": "štedila je", "en": "saved" },
+        { "w": "النُّقُودَ", "root": "ن ق د", "bs": "novac", "en": "money" },
+        { "w": "عُلْبَةٍ", "root": "ع ل ب", "bs": "kutija", "en": "box" }
+      ]
     },
     {
       "arabic": "كَانَتْ تَضَعُ فِيهَا قَلِيلًا مِنَ النُّقُودِ كُلَّ يَوْمٍ.",
       "translation": "Stavljala je u nju malo novca svaki dan.",
-      "translationEn": "She put a little money in it every day."
+      "translationEn": "She put a little money in it every day.",
+      "words": [
+        { "w": "تَضَعُ", "root": "و ض ع", "bs": "stavljala je", "en": "put" },
+        { "w": "قَلِيلًا", "root": "ق ل ل", "bs": "malo", "en": "a little" },
+        { "w": "النُّقُودِ", "root": "ن ق د", "bs": "novac", "en": "money" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" }
+      ]
     },
     {
       "arabic": "بَعْدَ سَنَةٍ فَتَحَتِ العُلْبَةَ وَكَانَتِ المَبَالِغُ كَثِيرَةً.",
       "translation": "Nakon godinu dana otvorila je kutiju i iznosi su bili veliki.",
-      "translationEn": "After a year she opened the box and the amounts were large."
+      "translationEn": "After a year she opened the box and the amounts were large.",
+      "words": [
+        { "w": "سَنَةٍ", "root": "س ن و", "bs": "godina", "en": "year" },
+        { "w": "فَتَحَتِ", "root": "ف ت ح", "bs": "otvorila je", "en": "opened" },
+        { "w": "العُلْبَةَ", "root": "ع ل ب", "bs": "kutija", "en": "box" },
+        { "w": "المَبَالِغُ", "root": "ب ل غ", "bs": "iznosi", "en": "amounts" }
+      ]
     },
     {
       "arabic": "أَعْطَتِ الجَدَّةُ بَعْضَهَا لِأَحْفَادِهَا هَدِيَّةً.",
       "translation": "Baka je dio poklonila unucima.",
-      "translationEn": "The grandmother gave some of it to her grandchildren as a gift."
+      "translationEn": "The grandmother gave some of it to her grandchildren as a gift.",
+      "words": [
+        { "w": "أَعْطَتِ", "root": "ع ط و", "bs": "poklonila je", "en": "gave" },
+        { "w": "الجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "لِأَحْفَادِهَا", "root": "ح ف د", "bs": "unucima", "en": "grandchildren" },
+        { "w": "هَدِيَّةً", "root": "ه د ي", "bs": "poklon", "en": "gift" }
+      ]
     },
     {
       "arabic": "فَرِحَ الأَحْفَادُ كَثِيرًا بِهَذِهِ الهَدِيَّةِ.",
       "translation": "Unuci su se jako obradovali ovom poklonu.",
-      "translationEn": "The grandchildren were very happy with this gift."
+      "translationEn": "The grandchildren were very happy with this gift.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
+        { "w": "الأَحْفَادُ", "root": "ح ف د", "bs": "unuci", "en": "grandchildren" },
+        { "w": "الهَدِيَّةِ", "root": "ه د ي", "bs": "poklon", "en": "gift" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,49 @@
     {
       "arabic": "أَرَادَ وَلَدٌ اسْمُهُ زُبَيْرٌ أَنْ يَصِيدَ سَمَكًا.",
       "translation": "Dječak po imenu Zubejr je htio loviti ribu.",
-      "translationEn": "A boy named Zubayr wanted to catch fish."
+      "translationEn": "A boy named Zubayr wanted to catch fish.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" },
+        { "w": "يَصِيدَ", "root": "ص ي د", "bs": "loviti", "en": "to catch" },
+        { "w": "سَمَكًا", "root": "س م ك", "bs": "ribu", "en": "fish" }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَى النَّهْرِ بِقَضِيبٍ وَانْتَظَرَ طَوِيلًا.",
       "translation": "Otišao je na rijeku sa štapom za pecanje i dugo čekao.",
-      "translationEn": "He went to the river with a fishing rod and waited a long time."
+      "translationEn": "He went to the river with a fishing rod and waited a long time.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "river" },
+        { "w": "بِقَضِيبٍ", "root": "ق ض ب", "bs": "štap za pecanje", "en": "fishing rod" },
+        { "w": "انْتَظَرَ", "root": "ن ظ ر", "bs": "čekao je", "en": "waited" },
+        { "w": "طَوِيلًا", "root": "ط و ل", "bs": "dugo", "en": "a long time" }
+      ]
     },
     {
       "arabic": "أَخِيرًا شَعَرَ بِسَمَكَةٍ فِي الْخَيْطِ وَسَحَبَهَا بِحَذَرٍ.",
       "translation": "Konačno je osjetio ribu na udici i pažljivo je izvukao.",
-      "translationEn": "Finally he felt a fish on the line and carefully pulled it out."
+      "translationEn": "Finally he felt a fish on the line and carefully pulled it out.",
+      "words": [
+        { "w": "أَخِيرًا", "root": "أ خ ر", "bs": "konačno", "en": "finally" },
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
+        { "w": "سَمَكَةٍ", "root": "س م ك", "bs": "riba", "en": "fish" },
+        { "w": "الْخَيْطِ", "root": "خ ي ط", "bs": "udica", "en": "line" },
+        { "w": "سَحَبَهَا", "root": "س ح ب", "bs": "izvukao je", "en": "pulled it out" },
+        { "w": "بِحَذَرٍ", "root": "ح ذ ر", "bs": "pažljivo", "en": "carefully" }
+      ]
     },
     {
       "arabic": "كَانَتْ صَغِيرَةً فَأَرْجَعَهَا إِلَى الْمَاءِ وَابْتَسَمَ.",
       "translation": "Bila je mala pa ju je vratio u vodu i nasmiješio se.",
-      "translationEn": "It was small so he put it back in the water and smiled."
+      "translationEn": "It was small so he put it back in the water and smiled.",
+      "words": [
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "أَرْجَعَهَا", "root": "ر ج ع", "bs": "vratio je", "en": "put back" },
+        { "w": "الْمَاءِ", "root": "م و ه", "bs": "voda", "en": "water" },
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" }
+      ]
     }
   ],
   "metadata": {

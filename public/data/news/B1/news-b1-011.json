@@ -6,26 +6,122 @@
     {
       "arabic": "زَرَعَ أَهْلُ الْحَيِّ أَشْجَارًا جَدِيدَةً فِي الشَّارِعِ.",
       "translation": "Stanovnici kvarta posadili su nova stabla u ulici.",
-      "translationEn": "The neighborhood residents planted new trees in the street."
+      "translationEn": "The neighborhood residents planted new trees in the street.",
+      "words": [
+        {
+          "w": "زَرَعَ",
+          "root": "ز ر ع",
+          "bs": "posadio je",
+          "en": "planted"
+        },
+        {
+          "w": "أَهْلُ",
+          "root": "أ ه ل",
+          "bs": "stanovnici",
+          "en": "residents"
+        },
+        {
+          "w": "أَشْجَارًا",
+          "root": "ش ج ر",
+          "bs": "stabla",
+          "en": "trees"
+        },
+        {
+          "w": "جَدِيدَةً",
+          "root": "ج د د",
+          "bs": "nova",
+          "en": "new"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulici",
+          "en": "street"
+        }
+      ]
     },
     {
       "arabic": "جَاءَ مُتَطَوِّعُونَ مِنَ الشَّبَابِ لِمُسَاعَدَةِ الْأَهْلِ.",
       "translation": "Mladi volonteri su došli da pomognu stanovnicima.",
-      "translationEn": "Young volunteers came to help the residents."
+      "translationEn": "Young volunteers came to help the residents.",
+      "words": [
+        {
+          "w": "مُتَطَوِّعُونَ",
+          "root": "ط و ع",
+          "bs": "volonteri",
+          "en": "volunteers"
+        },
+        {
+          "w": "الشَّبَابِ",
+          "root": "ش ب ب",
+          "bs": "mladih",
+          "en": "youth"
+        },
+        {
+          "w": "لِمُسَاعَدَةِ",
+          "root": "س ع د",
+          "bs": "da pomognu",
+          "en": "to help"
+        }
+      ]
     },
     {
       "arabic": "عَمِلَ الْجَمِيعُ مَعًا لِجَعْلِ الشَّارِعِ أَخْضَرَ.",
       "translation": "Svi su radili zajedno da ulicu učine zelenijom.",
-      "translationEn": "Everyone worked together to make the street greener."
+      "translationEn": "Everyone worked together to make the street greener.",
+      "words": [
+        {
+          "w": "عَمِلَ",
+          "root": "ع م ل",
+          "bs": "radio je",
+          "en": "worked"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulicu",
+          "en": "street"
+        },
+        {
+          "w": "أَخْضَرَ",
+          "root": "خ ض ر",
+          "bs": "zelenijom",
+          "en": "greener"
+        }
+      ]
     },
     {
       "arabic": "شَكَرَ رَئِيسُ الْحَيِّ الْمُتَطَوِّعِينَ عَلَى عَمَلِهِمْ.",
       "translation": "Predsjednik kvarta zahvalio je volonterima na njihovom radu.",
-      "translationEn": "The neighborhood head thanked the volunteers for their work."
+      "translationEn": "The neighborhood head thanked the volunteers for their work.",
+      "words": [
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked"
+        },
+        {
+          "w": "الْمُتَطَوِّعِينَ",
+          "root": "ط و ع",
+          "bs": "volonterima",
+          "en": "volunteers"
+        },
+        {
+          "w": "عَمَلِهِمْ",
+          "root": "ع م ل",
+          "bs": "njihovom radu",
+          "en": "their work"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["environment", "neighborhood", "volunteering"]
+    "tags": [
+      "environment",
+      "neighborhood",
+      "volunteering"
+    ]
   }
 }

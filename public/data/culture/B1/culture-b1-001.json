@@ -6,27 +6,58 @@
     {
       "arabic": "يَجْتَمِعُ أَفْرَادُ الأُسْرَةِ فِي رَمَضَانَ كُلَّ يَوْمٍ.",
       "translation": "Članovi porodice se svaki dan okupljaju u Ramazanu.",
-      "translationEn": "Family members gather every day during Ramadan."
+      "translationEn": "Family members gather every day during Ramadan.",
+      "words": [
+        { "w": "يَجْتَمِعُ", "root": "ج م ع", "bs": "okuplja se", "en": "gathers" },
+        { "w": "أَفْرَادُ", "root": "ف ر د", "bs": "članovi", "en": "members" },
+        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodice", "en": "family" },
+        { "w": "رَمَضَانَ", "bs": "Ramazanu", "en": "Ramadan" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" }
+      ]
     },
     {
       "arabic": "يَجْلِسُونَ مَعًا عَلَى الطَّاوِلَةِ وَيَنْتَظِرُونَ الإِفْطَارَ.",
       "translation": "Sjede zajedno za stolom i čekaju iftar.",
-      "translationEn": "They sit together at the table and wait for iftar."
+      "translationEn": "They sit together at the table and wait for iftar.",
+      "words": [
+        { "w": "يَجْلِسُونَ", "root": "ج ل س", "bs": "sjede", "en": "sit" },
+        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stolu", "en": "table" },
+        { "w": "يَنْتَظِرُونَ", "root": "ن ظ ر", "bs": "čekaju", "en": "wait" },
+        { "w": "الإِفْطَارَ", "root": "ف ط ر", "bs": "iftar", "en": "iftar" }
+      ]
     },
     {
       "arabic": "تُحَضِّرُ الأُمُّ الطَّعَامَ مِنَ الصَّبَاحِ.",
       "translation": "Majka priprema hranu od jutra.",
-      "translationEn": "The mother prepares food from the morning."
+      "translationEn": "The mother prepares food from the morning.",
+      "words": [
+        { "w": "تُحَضِّرُ", "root": "ح ض ر", "bs": "priprema", "en": "prepares" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutra", "en": "morning" }
+      ]
     },
     {
       "arabic": "يَأْكُلُونَ التَّمْرَ أَوَّلًا ثُمَّ يَشْرَبُونَ الشُّرْبَةَ.",
       "translation": "Prvo jedu hurme, a zatim piju supu.",
-      "translationEn": "They eat dates first, then drink soup."
+      "translationEn": "They eat dates first, then drink soup.",
+      "words": [
+        { "w": "يَأْكُلُونَ", "root": "أ ك ل", "bs": "jedu", "en": "eat" },
+        { "w": "التَّمْرَ", "root": "ت م ر", "bs": "hurme", "en": "dates" },
+        { "w": "يَشْرَبُونَ", "root": "ش ر ب", "bs": "piju", "en": "drink" },
+        { "w": "الشُّرْبَةَ", "root": "ش ر ب", "bs": "supu", "en": "soup" }
+      ]
     },
     {
       "arabic": "يَشْعُرُ الجَمِيعُ بِالسَّعَادَةِ فِي هَذَا الوَقْتِ.",
       "translation": "Svi se osjećaju sretno u ovo vrijeme.",
-      "translationEn": "Everyone feels happy at this time."
+      "translationEn": "Everyone feels happy at this time.",
+      "words": [
+        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
+        { "w": "الجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
+        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "srećom", "en": "happiness" },
+        { "w": "الوَقْتِ", "root": "و ق ت", "bs": "vremenu", "en": "time" }
+      ]
     }
   ],
   "metadata": {

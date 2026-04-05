@@ -6,22 +6,45 @@
     {
       "arabic": "زَارَ حَسَنٌ مَدِينَةً تَارِيخِيَّةً قَدِيمَةً.",
       "translation": "Hasan je posjetio stari historijski grad.",
-      "translationEn": "Hassan visited an old historical city."
+      "translationEn": "Hassan visited an old historical city.",
+      "words": [
+        { "w": "زَارَ", "root": "ز و ر", "bs": "posjetio je", "en": "visited" },
+        { "w": "مَدِينَةً", "root": "د ي ن", "bs": "grad", "en": "city" },
+        { "w": "تَارِيخِيَّةً", "root": "أ ر خ", "bs": "historijska", "en": "historical" },
+        { "w": "قَدِيمَةً", "root": "ق د م", "bs": "stara", "en": "old" }
+      ]
     },
     {
       "arabic": "رَأَى قِلَاعًا وَمَسَاجِدَ قَدِيمَةً.",
       "translation": "Vidio je tvrđave i stare džamije.",
-      "translationEn": "He saw old castles and mosques."
+      "translationEn": "He saw old castles and mosques.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "قِلَاعًا", "root": "ق ل ع", "bs": "tvrđave", "en": "castles / fortresses" },
+        { "w": "مَسَاجِدَ", "root": "س ج د", "bs": "džamije", "en": "mosques" },
+        { "w": "قَدِيمَةً", "root": "ق د م", "bs": "stare", "en": "old" }
+      ]
     },
     {
       "arabic": "الْتَقَطَ صُوَرًا كَثِيرَةً بِهَاتِفِهِ.",
       "translation": "Snimio je mnogo fotografija telefonom.",
-      "translationEn": "He took many photos with his phone."
+      "translationEn": "He took many photos with his phone.",
+      "words": [
+        { "w": "الْتَقَطَ", "root": "ل ق ط", "bs": "snimio je / uhvatio je", "en": "took (photos)" },
+        { "w": "صُوَرًا", "root": "ص و ر", "bs": "fotografije", "en": "photos" },
+        { "w": "كَثِيرَةً", "root": "ك ث ر", "bs": "mnogo", "en": "many" },
+        { "w": "هَاتِفِهِ", "root": "ه ت ف", "bs": "njegov telefon", "en": "his phone" }
+      ]
     },
     {
       "arabic": "أَرْسَلَ الصُّوَرَ إِلَى عَائِلَتِهِ وَهُمْ فَرِحُوا.",
       "translation": "Poslao je fotografije svojoj porodici i oni su se obradovali.",
-      "translationEn": "He sent the photos to his family and they were happy."
+      "translationEn": "He sent the photos to his family and they were happy.",
+      "words": [
+        { "w": "أَرْسَلَ", "root": "ر س ل", "bs": "poslao je", "en": "sent" },
+        { "w": "الصُّوَرَ", "root": "ص و ر", "bs": "fotografije", "en": "photos" },
+        { "w": "فَرِحُوا", "root": "ف ر ح", "bs": "obradovali su se", "en": "were happy" }
+      ]
     }
   ],
   "metadata": {

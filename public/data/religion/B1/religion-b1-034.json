@@ -6,22 +6,132 @@
     {
       "arabic": "كَانَ طَالِبٌ يَدْرُسُ وَلَمْ يَفْهَمِ الدَّرْسَ.",
       "translation": "Učenik je učio ali nije razumio lekciju.",
-      "translationEn": "A student was studying but did not understand the lesson."
+      "translationEn": "A student was studying but did not understand the lesson.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "root": "ك و ن",
+          "bs": "bio je",
+          "en": "was"
+        },
+        {
+          "w": "طَالِبٌ",
+          "root": "ط ل ب",
+          "bs": "učenik",
+          "en": "a student"
+        },
+        {
+          "w": "يَدْرُسُ",
+          "root": "د ر س",
+          "bs": "učio je",
+          "en": "studying"
+        },
+        {
+          "w": "يَفْهَمِ",
+          "root": "ف ه م",
+          "bs": "razumio je",
+          "en": "understand"
+        },
+        {
+          "w": "الدَّرْسَ",
+          "root": "د ر س",
+          "bs": "lekciju",
+          "en": "the lesson"
+        }
+      ]
     },
     {
       "arabic": "دَعَا اللَّهَ أَنْ يُعِينَهُ عَلَى الْفَهْمِ.",
       "translation": "Zamolio je Allaha da mu pomogne u razumijevanju.",
-      "translationEn": "He supplicated to God to help him understand."
+      "translationEn": "He supplicated to God to help him understand.",
+      "words": [
+        {
+          "w": "دَعَا",
+          "root": "د ع و",
+          "bs": "zamolio je",
+          "en": "supplicated"
+        },
+        {
+          "w": "اللَّهَ",
+          "root": "أ ل ه",
+          "bs": "Allaha",
+          "en": "God"
+        },
+        {
+          "w": "يُعِينَهُ",
+          "root": "ع و ن",
+          "bs": "pomogne mu",
+          "en": "help him"
+        },
+        {
+          "w": "الْفَهْمِ",
+          "root": "ف ه م",
+          "bs": "razumijevanju",
+          "en": "understanding"
+        }
+      ]
     },
     {
       "arabic": "ثُمَّ أَعَادَ الْقِرَاءَةَ بِتَأَنٍّ وَفَهِمَ.",
       "translation": "Zatim je polako ponovo čitao i razumio.",
-      "translationEn": "Then he read again calmly and understood."
+      "translationEn": "Then he read again calmly and understood.",
+      "words": [
+        {
+          "w": "أَعَادَ",
+          "root": "ع و د",
+          "bs": "ponovo je čitao",
+          "en": "read again"
+        },
+        {
+          "w": "الْقِرَاءَةَ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading"
+        },
+        {
+          "w": "بِتَأَنٍّ",
+          "root": "أ ن ي",
+          "bs": "polako",
+          "en": "calmly"
+        },
+        {
+          "w": "فَهِمَ",
+          "root": "ف ه م",
+          "bs": "razumio je",
+          "en": "understood"
+        }
+      ]
     },
     {
       "arabic": "قَالَ: الدُّعَاءُ مَعَ الْعَمَلِ يَفْتَحُ الطَّرِيقَ.",
       "translation": "Rekao je: Dova uz rad otvara put.",
-      "translationEn": "He said: Supplication with effort opens the way."
+      "translationEn": "He said: Supplication with effort opens the way.",
+      "words": [
+        {
+          "w": "الدُّعَاءُ",
+          "root": "د ع و",
+          "bs": "dova",
+          "en": "supplication"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "rada",
+          "en": "effort"
+        },
+        {
+          "w": "يَفْتَحُ",
+          "root": "ف ت ح",
+          "bs": "otvara",
+          "en": "opens"
+        },
+        {
+          "w": "الطَّرِيقَ",
+          "root": "ط ر ق",
+          "bs": "put",
+          "en": "the way"
+        }
+      ]
     }
   ],
   "metadata": {

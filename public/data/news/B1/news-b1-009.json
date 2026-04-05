@@ -6,26 +6,128 @@
     {
       "arabic": "فَتَحَ مَطْعَمٌ جَدِيدٌ أَبْوَابَهُ فِي حَيِّنَا.",
       "translation": "U našem kvartu otvorio se novi restoran.",
-      "translationEn": "A new restaurant opened its doors in our neighborhood."
+      "translationEn": "A new restaurant opened its doors in our neighborhood.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "مَطْعَمٌ",
+          "root": "ط ع م",
+          "bs": "restoran",
+          "en": "restaurant"
+        },
+        {
+          "w": "جَدِيدٌ",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new"
+        },
+        {
+          "w": "أَبْوَابَهُ",
+          "root": "ب و ب",
+          "bs": "svoja vrata",
+          "en": "its doors"
+        }
+      ]
     },
     {
       "arabic": "يُقَدِّمُ الْمَطْعَمُ أَكْلًا شَعْبِيًّا بِأَسْعَارٍ مَعْقُولَةٍ.",
       "translation": "Restoran nudi narodnu hranu po razumnim cijenama.",
-      "translationEn": "The restaurant offers traditional food at reasonable prices."
+      "translationEn": "The restaurant offers traditional food at reasonable prices.",
+      "words": [
+        {
+          "w": "أَكْلًا",
+          "root": "أ ك ل",
+          "bs": "hranu",
+          "en": "food"
+        },
+        {
+          "w": "شَعْبِيًّا",
+          "root": "ش ع ب",
+          "bs": "narodnu",
+          "en": "traditional"
+        },
+        {
+          "w": "أَسْعَارٍ",
+          "root": "س ع ر",
+          "bs": "cijenama",
+          "en": "prices"
+        },
+        {
+          "w": "مَعْقُولَةٍ",
+          "root": "ع ق ل",
+          "bs": "razumnim",
+          "en": "reasonable"
+        }
+      ]
     },
     {
       "arabic": "جَاءَ كَثِيرٌ مِنَ الْجِيرَانِ لِتَجْرِبَةِ الطَّعَامِ.",
       "translation": "Mnogi komšije su došli da probaju hranu.",
-      "translationEn": "Many neighbors came to try the food."
+      "translationEn": "Many neighbors came to try the food.",
+      "words": [
+        {
+          "w": "الْجِيرَانِ",
+          "root": "ج و ر",
+          "bs": "komšije",
+          "en": "neighbors"
+        },
+        {
+          "w": "لِتَجْرِبَةِ",
+          "root": "ج ر ب",
+          "bs": "da probaju",
+          "en": "to try"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food"
+        }
+      ]
     },
     {
       "arabic": "قَالَ صَاحِبُ الْمَطْعَمِ إِنَّهُ سَعِيدٌ بِالتَّرْحِيبِ الْحَارِّ.",
       "translation": "Vlasnik restorana je rekao da je sretan zbog toplog dočeka.",
-      "translationEn": "The restaurant owner said he is happy with the warm welcome."
+      "translationEn": "The restaurant owner said he is happy with the warm welcome.",
+      "words": [
+        {
+          "w": "صَاحِبُ",
+          "root": "ص ح ب",
+          "bs": "vlasnik",
+          "en": "owner"
+        },
+        {
+          "w": "سَعِيدٌ",
+          "root": "س ع د",
+          "bs": "sretan",
+          "en": "happy"
+        },
+        {
+          "w": "التَّرْحِيبِ",
+          "root": "ر ح ب",
+          "bs": "dočeka",
+          "en": "welcome"
+        },
+        {
+          "w": "الْحَارِّ",
+          "root": "ح ر ر",
+          "bs": "toplog",
+          "en": "warm"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["food", "neighborhood", "restaurant"]
+    "tags": [
+      "food",
+      "neighborhood",
+      "restaurant"
+    ]
   }
 }

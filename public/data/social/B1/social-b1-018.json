@@ -6,22 +6,44 @@
     {
       "arabic": "تَأَخَّرَ خَالِدٌ عَنِ المَوْعِدِ وَشَعَرَ بِالذَّنْبِ.",
       "translation": "Halid je zakasnio na termin i osjetio se krivim.",
-      "translationEn": "Khalid was late for the appointment and felt guilty."
+      "translationEn": "Khalid was late for the appointment and felt guilty.",
+      "words": [
+        { "w": "تَأَخَّرَ", "root": "أ خ ر", "bs": "zakasnio je", "en": "was late" },
+        { "w": "المَوْعِدِ", "root": "و ع د", "bs": "terminu", "en": "appointment" },
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio se", "en": "felt" },
+        { "w": "بِالذَّنْبِ", "root": "ذ ن ب", "bs": "krivim", "en": "guilty" }
+      ]
     },
     {
       "arabic": "اتَّصَلَ بِصَدِيقِهِ وَاعْتَذَرَ مِنْهُ.",
       "translation": "Nazvao je prijatelja i ispričao mu se.",
-      "translationEn": "He called his friend and apologized to him."
+      "translationEn": "He called his friend and apologized to him.",
+      "words": [
+        { "w": "اتَّصَلَ", "root": "و ص ل", "bs": "nazvao je", "en": "called" },
+        { "w": "صَدِيقِهِ", "root": "ص د ق", "bs": "prijatelja", "en": "friend" },
+        { "w": "اعْتَذَرَ", "root": "ع ذ ر", "bs": "ispričao se", "en": "apologized" }
+      ]
     },
     {
       "arabic": "قَالَ إِنَّ الزَّحْمَةَ كَانَتْ شَدِيدَةً.",
       "translation": "Rekao je da je saobraćaj bio velik.",
-      "translationEn": "He said that the traffic was very heavy."
+      "translationEn": "He said that the traffic was very heavy.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "الزَّحْمَةَ", "root": "ز ح م", "bs": "saobraćaj", "en": "traffic" },
+        { "w": "شَدِيدَةً", "root": "ش د د", "bs": "velik", "en": "heavy" }
+      ]
     },
     {
       "arabic": "قَبِلَ صَدِيقُهُ الاعْتِذَارَ بِكُلِّ رَحَابَةٍ.",
       "translation": "Prijatelj je prihvatio izvinjenje sa svim razumijevanjem.",
-      "translationEn": "His friend accepted the apology wholeheartedly."
+      "translationEn": "His friend accepted the apology wholeheartedly.",
+      "words": [
+        { "w": "قَبِلَ", "root": "ق ب ل", "bs": "prihvatio je", "en": "accepted" },
+        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "prijatelj", "en": "friend" },
+        { "w": "الاعْتِذَارَ", "root": "ع ذ ر", "bs": "izvinjenje", "en": "apology" },
+        { "w": "بِكُلِّ رَحَابَةٍ", "root": "ر ح ب", "bs": "sa svim razumijevanjem", "en": "wholeheartedly" }
+      ]
     }
   ],
   "metadata": {

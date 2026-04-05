@@ -6,22 +6,45 @@
     {
       "arabic": "حِينَ نَشْعُرُ بِالْقَلَقِ يَصْعُبُ عَلَيْنَا النَّوْمُ.",
       "translation": "Kada osjećamo anksioznost, teško nam je da spavamo.",
-      "translationEn": "When we feel anxious it is difficult for us to sleep."
+      "translationEn": "When we feel anxious it is difficult for us to sleep.",
+      "words": [
+        { "w": "نَشْعُرُ", "root": "ش ع ر", "bs": "osjećamo", "en": "feel" },
+        { "w": "الْقَلَقِ", "root": "ق ل ق", "bs": "anksioznost", "en": "anxiety" },
+        { "w": "يَصْعُبُ", "root": "ص ع ب", "bs": "teško je", "en": "is difficult" },
+        { "w": "النَّوْمُ", "root": "ن و م", "bs": "spavanje", "en": "sleep" }
+      ]
     },
     {
       "arabic": "كَانَتْ تَهَانِي تُفَكِّرُ فِي مَشَاكِلِهَا حِينَ تَنَامُ.",
       "translation": "Tahani je mislila o problemima dok bi spavala.",
-      "translationEn": "Tahani used to think about her problems when she lay down to sleep."
+      "translationEn": "Tahani used to think about her problems when she lay down to sleep.",
+      "words": [
+        { "w": "تُفَكِّرُ", "root": "ف ك ر", "bs": "razmišljala je", "en": "used to think" },
+        { "w": "مَشَاكِلِهَا", "root": "ش ك ل", "bs": "njeni problemi", "en": "her problems" },
+        { "w": "تَنَامُ", "root": "ن و م", "bs": "spava", "en": "sleep" }
+      ]
     },
     {
       "arabic": "قَرَّرَتْ أَنْ تَكْتُبَ أَفْكَارَهَا قَبْلَ النَّوْمِ.",
       "translation": "Odlučila je da zapisuje misli prije spavanja.",
-      "translationEn": "She decided to write down her thoughts before sleeping."
+      "translationEn": "She decided to write down her thoughts before sleeping.",
+      "words": [
+        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "تَكْتُبَ", "root": "ك ت ب", "bs": "da zapisuje", "en": "to write" },
+        { "w": "أَفْكَارَهَا", "root": "ف ك ر", "bs": "njene misli", "en": "her thoughts" },
+        { "w": "النَّوْمِ", "root": "ن و م", "bs": "spavanje", "en": "sleeping" }
+      ]
     },
     {
       "arabic": "بَعْدَ الْكِتَابَةِ شَعَرَتْ بِهُدُوءٍ وَنَامَتْ بِسُرْعَةٍ.",
       "translation": "Nakon pisanja osjetila je mir i brzo zaspala.",
-      "translationEn": "After writing she felt calm and fell asleep quickly."
+      "translationEn": "After writing she felt calm and fell asleep quickly.",
+      "words": [
+        { "w": "الْكِتَابَةِ", "root": "ك ت ب", "bs": "pisanje", "en": "writing" },
+        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjetila je", "en": "felt" },
+        { "w": "هُدُوءٍ", "root": "ه د أ", "bs": "mir", "en": "calm" },
+        { "w": "نَامَتْ", "root": "ن و م", "bs": "zaspala je", "en": "fell asleep" }
+      ]
     }
   ],
   "metadata": {

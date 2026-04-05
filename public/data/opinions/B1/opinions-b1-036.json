@@ -6,22 +6,44 @@
     {
       "arabic": "فِي رَأْيِي، مِنَ الْمُهِمِّ أَنْ نَحْتَرِمَ رَأْيَ الْآخَرِينَ.",
       "translation": "Po mom mišljenju, važno je poštovati mišljenje drugih.",
-      "translationEn": "In my opinion, it is important to respect others' opinions."
+      "translationEn": "In my opinion, it is important to respect others' opinions.",
+      "words": [
+        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
+        { "w": "الْمُهِمِّ", "root": "ه م م", "bs": "važno", "en": "important" },
+        { "w": "نَحْتَرِمَ", "root": "ح ر م", "bs": "poštujemo", "en": "respect" },
+        { "w": "رَأْيَ", "root": "ر أ ي", "bs": "mišljenje", "en": "opinions" }
+      ]
     },
     {
       "arabic": "لَيْسَ كُلُّ النَّاسِ يُفَكِّرُونَ بِنَفْسِ الطَّرِيقَةِ.",
       "translation": "Nisu svi ljudi koji razmišljaju na isti način.",
-      "translationEn": "Not all people think in the same way."
+      "translationEn": "Not all people think in the same way.",
+      "words": [
+        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "يُفَكِّرُونَ", "root": "ف ك ر", "bs": "razmišljaju", "en": "think" },
+        { "w": "الطَّرِيقَةِ", "root": "ط ر ق", "bs": "način", "en": "way" }
+      ]
     },
     {
       "arabic": "الِاخْتِلَافُ فِي الرَّأْيِ لَا يَعْنِي الِاخْتِلَافَ فِي الْقَلْبِ.",
       "translation": "Razlika u mišljenju ne znači razliku u srcu.",
-      "translationEn": "Difference in opinion does not mean difference in heart."
+      "translationEn": "Difference in opinion does not mean difference in heart.",
+      "words": [
+        { "w": "الِاخْتِلَافُ", "root": "خ ل ف", "bs": "razlika", "en": "difference" },
+        { "w": "الرَّأْيِ", "root": "ر أ ي", "bs": "mišljenje", "en": "opinion" },
+        { "w": "يَعْنِي", "root": "ع ن ي", "bs": "znači", "en": "means" },
+        { "w": "الْقَلْبِ", "root": "ق ل ب", "bs": "srce", "en": "heart" }
+      ]
     },
     {
       "arabic": "يُمْكِنُنَا أَنْ نَتَحَدَّثَ بِهُدُوءٍ حَتَّى لَوِ اخْتَلَفْنَا.",
       "translation": "Možemo mirno razgovarati čak i kada se ne slažemo.",
-      "translationEn": "We can talk calmly even if we disagree."
+      "translationEn": "We can talk calmly even if we disagree.",
+      "words": [
+        { "w": "نَتَحَدَّثَ", "root": "ح د ث", "bs": "razgovaramo", "en": "talk" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno", "en": "calmly" },
+        { "w": "اخْتَلَفْنَا", "root": "خ ل ف", "bs": "ne slažemo se", "en": "disagree" }
+      ]
     }
   ],
   "metadata": {

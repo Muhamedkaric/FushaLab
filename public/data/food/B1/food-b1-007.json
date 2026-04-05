@@ -6,22 +6,47 @@
     {
       "arabic": "تَعَلَّمَتْ سَارَةُ طَبْخَ الْأَرُزِّ مِنْ جَدَّتِهَا.",
       "translation": "Sara je naučila kuhati pirinač od bake.",
-      "translationEn": "Sara learned to cook rice from her grandmother."
+      "translationEn": "Sara learned to cook rice from her grandmother.",
+      "words": [
+        { "w": "تَعَلَّمَتْ", "root": "ع ل م", "bs": "naučila je", "en": "learned" },
+        { "w": "طَبْخَ", "root": "ط ب خ", "bs": "kuhanje/kuhati", "en": "cooking" },
+        { "w": "الْأَرُزِّ", "root": "أ ر ز", "bs": "pirinač/riža", "en": "rice" },
+        { "w": "جَدَّتِهَا", "root": "ج د د", "bs": "njena baka", "en": "her grandmother" }
+      ]
     },
     {
       "arabic": "غَسَلَتِ الْأَرُزَّ وَوَضَعَتْهُ فِي الْقِدْرِ مَعَ الْمَاءِ.",
       "translation": "Oprala je pirinač i stavila ga u lonac s vodom.",
-      "translationEn": "She washed the rice and put it in the pot with water."
+      "translationEn": "She washed the rice and put it in the pot with water.",
+      "words": [
+        { "w": "غَسَلَتِ", "root": "غ س ل", "bs": "oprala je", "en": "washed" },
+        { "w": "الْأَرُزَّ", "root": "أ ر ز", "bs": "pirinač/riža", "en": "rice" },
+        { "w": "وَضَعَتْهُ", "root": "و ض ع", "bs": "stavila ga je", "en": "put it" },
+        { "w": "الْقِدْرِ", "root": "ق د ر", "bs": "lonac/šerpa", "en": "pot" },
+        { "w": "الْمَاءِ", "root": "م و ه", "bs": "voda", "en": "water" }
+      ]
     },
     {
       "arabic": "أَضَافَتِ الْمِلْحَ وَتَرَكَتِ الْقِدْرَ عَلَى النَّارِ.",
       "translation": "Dodala je sol i ostavila lonac na vatri.",
-      "translationEn": "She added salt and left the pot on the fire."
+      "translationEn": "She added salt and left the pot on the fire.",
+      "words": [
+        { "w": "أَضَافَتِ", "root": "ض ي ف", "bs": "dodala je", "en": "added" },
+        { "w": "الْمِلْحَ", "root": "م ل ح", "bs": "sol", "en": "salt" },
+        { "w": "تَرَكَتِ", "root": "ت ر ك", "bs": "ostavila je", "en": "left" },
+        { "w": "الْقِدْرَ", "root": "ق د ر", "bs": "lonac/šerpa", "en": "pot" },
+        { "w": "النَّارِ", "root": "ن و ر", "bs": "vatra/šporet", "en": "fire/stove" }
+      ]
     },
     {
       "arabic": "بَعْدَ قَلِيلٍ كَانَ الْأَرُزُّ جَاهِزًا وَشَهِيًّا.",
       "translation": "Nakon kratkog vremena pirinač je bio gotov i ukusan.",
-      "translationEn": "After a while the rice was ready and delicious."
+      "translationEn": "After a while the rice was ready and delicious.",
+      "words": [
+        { "w": "الْأَرُزُّ", "root": "أ ر ز", "bs": "pirinač/riža", "en": "rice" },
+        { "w": "جَاهِزًا", "root": "ج ه ز", "bs": "gotov/spreman", "en": "ready" },
+        { "w": "شَهِيًّا", "root": "ش ه و", "bs": "ukusan/slasan", "en": "delicious/tasty" }
+      ]
     }
   ],
   "metadata": {

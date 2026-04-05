@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَ الأَطْفَالُ يَتَعَلَّمُونَ مِنْ آبَائِهِمْ وَأُمَّهَاتِهِمْ.",
       "translation": "Djeca su učila od svojih očeva i majki.",
-      "translationEn": "The children used to learn from their fathers and mothers."
+      "translationEn": "The children used to learn from their fathers and mothers.",
+      "words": [
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "the children" },
+        { "w": "يَتَعَلَّمُونَ", "root": "ع ل م", "bs": "uče", "en": "learn" },
+        { "w": "آبَائِهِمْ", "root": "أ ب و", "bs": "njihovi očevi", "en": "their fathers" },
+        { "w": "أُمَّهَاتِهِمْ", "root": "أ م م", "bs": "njihove majke", "en": "their mothers" }
+      ]
     },
     {
       "arabic": "تَعَلَّمَ الِابْنُ الزِّرَاعَةَ مِنَ أَبِيهِ الْفَلَّاحِ.",
       "translation": "Sin je naučio zemljoradnju od svoga oca seljaka.",
-      "translationEn": "The son learned farming from his farmer father."
+      "translationEn": "The son learned farming from his farmer father.",
+      "words": [
+        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučio je", "en": "learned" },
+        { "w": "الِابْنُ", "root": "ب ن و", "bs": "sin", "en": "the son" },
+        { "w": "الزِّرَاعَةَ", "root": "ز ر ع", "bs": "zemljoradnja", "en": "farming" },
+        { "w": "الْفَلَّاحِ", "root": "ف ل ح", "bs": "seljaka", "en": "the farmer" }
+      ]
     },
     {
       "arabic": "تَعَلَّمَتِ الْبِنْتُ الطَّبْخَ وَالنِّسَاجَةَ مِنْ أُمِّهَا.",
       "translation": "Kćerka je naučila kuhanje i tkanje od svoje majke.",
-      "translationEn": "The daughter learned cooking and weaving from her mother."
+      "translationEn": "The daughter learned cooking and weaving from her mother.",
+      "words": [
+        { "w": "تَعَلَّمَتِ", "root": "ع ل م", "bs": "naučila je", "en": "learned" },
+        { "w": "الْبِنْتُ", "root": "ب ن ت", "bs": "kćerka", "en": "the daughter" },
+        { "w": "الطَّبْخَ", "root": "ط ب خ", "bs": "kuhanje", "en": "cooking" },
+        { "w": "النِّسَاجَةَ", "root": "ن س ج", "bs": "tkanje", "en": "weaving" }
+      ]
     },
     {
       "arabic": "هَكَذَا انْتَقَلَتِ الْمَعْرِفَةُ مِنْ جِيلٍ إِلَى جِيلٍ.",
       "translation": "Tako se znanje prenosilo s generacije na generaciju.",
-      "translationEn": "This is how knowledge passed from one generation to the next."
+      "translationEn": "This is how knowledge passed from one generation to the next.",
+      "words": [
+        { "w": "انْتَقَلَتِ", "root": "ن ق ل", "bs": "prenosilo se", "en": "passed" },
+        { "w": "الْمَعْرِفَةُ", "root": "ع ر ف", "bs": "znanje", "en": "knowledge" },
+        { "w": "جِيلٍ", "root": "ج ي ل", "bs": "generacija", "en": "generation" }
+      ]
     }
   ],
   "metadata": {

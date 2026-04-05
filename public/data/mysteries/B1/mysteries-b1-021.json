@@ -6,27 +6,53 @@
     {
       "arabic": "فَتَحَ زَيْدٌ الثَّلَّاجَةَ فَلَمْ يَجِدِ الْعَصِيرَ الَّذِي تَرَكَهُ.",
       "translation": "Zaid je otvorio frižider ali nije pronašao sok koji je ostavio.",
-      "translationEn": "Zayd opened the fridge and did not find the juice he had left."
+      "translationEn": "Zayd opened the fridge and did not find the juice he had left.",
+      "words": [
+        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "he opened" },
+        { "w": "الثَّلَّاجَةَ", "root": "ث ل ج", "bs": "frižider", "en": "fridge" },
+        { "w": "يَجِدِ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" }
+      ]
     },
     {
       "arabic": "نَظَرَ فِي كُلِّ مَكَانٍ فِي الثَّلَّاجَةِ.",
       "translation": "Gledao je na svakom mjestu u frižideru.",
-      "translationEn": "He looked everywhere in the fridge."
+      "translationEn": "He looked everywhere in the fridge.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "gledao je", "en": "he looked" },
+        { "w": "مَكَانٍ", "root": "ك و ن", "bs": "mjesta", "en": "place" }
+      ]
     },
     {
       "arabic": "سَأَلَ أُمَّهُ وَأَبَاهُ وَأَخَاهُ.",
       "translation": "Pitao je majku, oca i brata.",
-      "translationEn": "He asked his mother, his father and his brother."
+      "translationEn": "He asked his mother, his father and his brother.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "he asked" },
+        { "w": "أُمَّهُ", "root": "أ م م", "bs": "majku", "en": "his mother" },
+        { "w": "أَخَاهُ", "root": "أ خ خ", "bs": "brata", "en": "his brother" }
+      ]
     },
     {
       "arabic": "قَالَ الْأَخُ: آسِفٌ، شَرِبْتُهُ لِأَنَّنِي ظَنَنْتُهُ لِي.",
       "translation": "Brat je rekao: Žao mi je, popio sam ga jer sam mislio da je moj.",
-      "translationEn": "The brother said: Sorry, I drank it because I thought it was mine."
+      "translationEn": "The brother said: Sorry, I drank it because I thought it was mine.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
+        { "w": "شَرِبْتُهُ", "root": "ش ر ب", "bs": "popio sam ga", "en": "I drank it" },
+        { "w": "ظَنَنْتُهُ", "root": "ظ ن ن", "bs": "mislio sam", "en": "I thought it" }
+      ]
     },
     {
       "arabic": "عَفَا زَيْدٌ عَنْهُ وَسَكَبَ لِنَفْسِهِ مَاءً بَارِدًا.",
       "translation": "Zaid mu je oprostio i sam sebi nalio hladne vode.",
-      "translationEn": "Zayd forgave him and poured himself cold water."
+      "translationEn": "Zayd forgave him and poured himself cold water.",
+      "words": [
+        { "w": "عَفَا", "root": "ع ف و", "bs": "oprostio je", "en": "he forgave" },
+        { "w": "سَكَبَ", "root": "س ك ب", "bs": "nalio je", "en": "he poured" },
+        { "w": "مَاءً", "root": "م و ه", "bs": "vode", "en": "water" },
+        { "w": "بَارِدًا", "root": "ب ر د", "bs": "hladne", "en": "cold" }
+      ]
     }
   ],
   "metadata": {

@@ -6,26 +6,126 @@
     {
       "arabic": "أَقَامَتِ الْمَدِينَةُ مَهْرَجَانًا لِلطَّعَامِ هَذَا الأُسْبُوعَ.",
       "translation": "Grad je ovog sedmice organizovao festival hrane.",
-      "translationEn": "The city held a food festival this week."
+      "translationEn": "The city held a food festival this week.",
+      "words": [
+        {
+          "w": "أَقَامَتِ",
+          "root": "ق و م",
+          "bs": "organizovao je",
+          "en": "held"
+        },
+        {
+          "w": "الْمَدِينَةُ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city"
+        },
+        {
+          "w": "مَهْرَجَانًا",
+          "bs": "festival",
+          "en": "festival"
+        },
+        {
+          "w": "لِلطَّعَامِ",
+          "root": "ط ع م",
+          "bs": "hrane",
+          "en": "food"
+        }
+      ]
     },
     {
       "arabic": "قَدَّمَ الطُّهَاةُ أَطْبَاقًا لَذِيذَةً مِنْ بُلْدَانٍ مُخْتَلِفَةٍ.",
       "translation": "Kuvari su ponudili ukusna jela iz različitih zemalja.",
-      "translationEn": "The chefs offered delicious dishes from different countries."
+      "translationEn": "The chefs offered delicious dishes from different countries.",
+      "words": [
+        {
+          "w": "الطُّهَاةُ",
+          "root": "ط ه و",
+          "bs": "kuvari",
+          "en": "chefs"
+        },
+        {
+          "w": "أَطْبَاقًا",
+          "root": "ط ب ق",
+          "bs": "jela",
+          "en": "dishes"
+        },
+        {
+          "w": "لَذِيذَةً",
+          "root": "ل ذ ذ",
+          "bs": "ukusna",
+          "en": "delicious"
+        },
+        {
+          "w": "بُلْدَانٍ",
+          "root": "ب ل د",
+          "bs": "zemalja",
+          "en": "countries"
+        },
+        {
+          "w": "مُخْتَلِفَةٍ",
+          "root": "خ ل ف",
+          "bs": "različitih",
+          "en": "different"
+        }
+      ]
     },
     {
       "arabic": "جَرَّبَ الزُّوَّارُ الأَكْلَ وَأَعْجَبَهُمْ كَثِيرًا.",
       "translation": "Posjetioci su probali hranu i jako im se svidjela.",
-      "translationEn": "The visitors tried the food and liked it a lot."
+      "translationEn": "The visitors tried the food and liked it a lot.",
+      "words": [
+        {
+          "w": "جَرَّبَ",
+          "root": "ج ر ب",
+          "bs": "probao je",
+          "en": "tried"
+        },
+        {
+          "w": "الزُّوَّارُ",
+          "root": "ز و ر",
+          "bs": "posjetioci",
+          "en": "visitors"
+        },
+        {
+          "w": "الأَكْلَ",
+          "root": "أ ك ل",
+          "bs": "hranu",
+          "en": "food"
+        }
+      ]
     },
     {
       "arabic": "يَسْتَمِرُّ الْمَهْرَجَانُ حَتَّى نِهَايَةِ الأُسْبُوعِ.",
       "translation": "Festival traje do kraja sedmice.",
-      "translationEn": "The festival continues until the end of the week."
+      "translationEn": "The festival continues until the end of the week.",
+      "words": [
+        {
+          "w": "يَسْتَمِرُّ",
+          "root": "م ر ر",
+          "bs": "nastavlja se",
+          "en": "continues"
+        },
+        {
+          "w": "الْمَهْرَجَانُ",
+          "bs": "festival",
+          "en": "festival"
+        },
+        {
+          "w": "نِهَايَةِ",
+          "root": "ن ه ي",
+          "bs": "kraja",
+          "en": "end"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["food", "festival", "city events"]
+    "tags": [
+      "food",
+      "festival",
+      "city events"
+    ]
   }
 }

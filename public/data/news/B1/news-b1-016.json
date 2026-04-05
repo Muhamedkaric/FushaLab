@@ -6,26 +6,109 @@
     {
       "arabic": "سَقَطَ ثَلْجٌ كَثِيرٌ عَلَى الْمَدِينَةِ اللَّيْلَةَ الْمَاضِيَةَ.",
       "translation": "Sinoć je na grad pao mnogo snijega.",
-      "translationEn": "A lot of snow fell on the city last night."
+      "translationEn": "A lot of snow fell on the city last night.",
+      "words": [
+        {
+          "w": "سَقَطَ",
+          "root": "س ق ط",
+          "bs": "pao je",
+          "en": "fell"
+        },
+        {
+          "w": "ثَلْجٌ",
+          "root": "ث ل ج",
+          "bs": "snijeg",
+          "en": "snow"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "م د ن",
+          "bs": "gradu",
+          "en": "city"
+        }
+      ]
     },
     {
       "arabic": "أَغْلَقَتِ بَعْضُ الْمَدَارِسُ أَبْوَابَهَا صَبَاحَ الْيَوْمِ.",
       "translation": "Neke škole su jutros zatvorile svoja vrata.",
-      "translationEn": "Some schools closed their doors this morning."
+      "translationEn": "Some schools closed their doors this morning.",
+      "words": [
+        {
+          "w": "الْمَدَارِسُ",
+          "root": "د ر س",
+          "bs": "škole",
+          "en": "schools"
+        },
+        {
+          "w": "أَبْوَابَهَا",
+          "root": "ب و ب",
+          "bs": "svoja vrata",
+          "en": "their doors"
+        }
+      ]
     },
     {
       "arabic": "لَعِبَ الأَطْفَالُ فِي الثَّلْجِ أَمَامَ بُيُوتِهِمْ.",
       "translation": "Djeca su se igrala u snijegu ispred svojih kuća.",
-      "translationEn": "The children played in the snow in front of their houses."
+      "translationEn": "The children played in the snow in front of their houses.",
+      "words": [
+        {
+          "w": "لَعِبَ",
+          "root": "ل ع ب",
+          "bs": "igrao se",
+          "en": "played"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children"
+        },
+        {
+          "w": "الثَّلْجِ",
+          "root": "ث ل ج",
+          "bs": "snijegu",
+          "en": "snow"
+        },
+        {
+          "w": "بُيُوتِهِمْ",
+          "root": "ب ي ت",
+          "bs": "kućama",
+          "en": "houses"
+        }
+      ]
     },
     {
       "arabic": "تَوَقَّعَتِ الأَرْصَادُ الْجَوِّيَّةُ اسْتِمْرَارَ الثَّلْجِ غَدًا.",
       "translation": "Meteorolozi su predvidjeli nastavak snijega sutra.",
-      "translationEn": "The weather forecast predicted more snow tomorrow."
+      "translationEn": "The weather forecast predicted more snow tomorrow.",
+      "words": [
+        {
+          "w": "الأَرْصَادُ الْجَوِّيَّةُ",
+          "bs": "meteorolozi",
+          "en": "weather forecast"
+        },
+        {
+          "w": "اسْتِمْرَارَ",
+          "root": "م ر ر",
+          "bs": "nastavak",
+          "en": "continuation"
+        },
+        {
+          "w": "الثَّلْجِ",
+          "root": "ث ل ج",
+          "bs": "snijega",
+          "en": "snow"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["weather", "snow", "school"]
+    "tags": [
+      "weather",
+      "snow",
+      "school"
+    ]
   }
 }

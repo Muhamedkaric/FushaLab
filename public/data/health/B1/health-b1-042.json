@@ -6,26 +6,147 @@
     {
       "arabic": "تَتَجَنَّبُ غَادَةُ الطَّعَامَ الْمَقْلِيَّ وَتُفَضِّلُ الْمَشْوِيَّ.",
       "translation": "Gada izbjegava prženu hranu i preferira roštilj.",
-      "translationEn": "Ghada avoids fried food and prefers grilled food."
+      "translationEn": "Ghada avoids fried food and prefers grilled food.",
+      "words": [
+        {
+          "w": "تَتَجَنَّبُ",
+          "root": "ج ن ب",
+          "bs": "izbjegava",
+          "en": "avoids"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food"
+        },
+        {
+          "w": "الْمَقْلِيَّ",
+          "root": "ق ل ي",
+          "bs": "pržena",
+          "en": "fried"
+        },
+        {
+          "w": "تُفَضِّلُ",
+          "root": "ف ض ل",
+          "bs": "preferira",
+          "en": "prefers"
+        },
+        {
+          "w": "الْمَشْوِيَّ",
+          "root": "ش و ي",
+          "bs": "roštilj",
+          "en": "grilled"
+        }
+      ]
     },
     {
       "arabic": "قَالَ لَهَا الطَّبِيبُ إِنَّ الشَّوِيَّ أَقَلُّ دَسَمًا.",
       "translation": "Ljekar joj je rekao da je roštilj manje mastan.",
-      "translationEn": "The doctor told her that grilled food has less fat."
+      "translationEn": "The doctor told her that grilled food has less fat.",
+      "words": [
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "الشَّوِيَّ",
+          "root": "ش و ي",
+          "bs": "roštilj",
+          "en": "grilled food"
+        },
+        {
+          "w": "أَقَلُّ",
+          "root": "ق ل ل",
+          "bs": "manje",
+          "en": "less"
+        },
+        {
+          "w": "دَسَمًا",
+          "root": "د س م",
+          "bs": "mastan",
+          "en": "fat"
+        }
+      ]
     },
     {
       "arabic": "تَطْبُخُ الدَّجَاجَ وَالسَّمَكَ فِي الْفُرْنِ بَدَلَ الْقَلْيِ.",
       "translation": "Kuha piletinu i ribu u pećnici umjesto prženja.",
-      "translationEn": "She cooks chicken and fish in the oven instead of frying."
+      "translationEn": "She cooks chicken and fish in the oven instead of frying.",
+      "words": [
+        {
+          "w": "تَطْبُخُ",
+          "root": "ط ب خ",
+          "bs": "kuha",
+          "en": "cooks"
+        },
+        {
+          "w": "الدَّجَاجَ",
+          "root": "د ج ج",
+          "bs": "piletina",
+          "en": "chicken"
+        },
+        {
+          "w": "وَالسَّمَكَ",
+          "root": "س م ك",
+          "bs": "riba",
+          "en": "fish"
+        },
+        {
+          "w": "الْفُرْنِ",
+          "root": "ف ر ن",
+          "bs": "pećnica",
+          "en": "oven"
+        },
+        {
+          "w": "بَدَلَ",
+          "root": "ب د ل",
+          "bs": "umjesto",
+          "en": "instead of"
+        },
+        {
+          "w": "الْقَلْيِ",
+          "root": "ق ل ي",
+          "bs": "prženja",
+          "en": "frying"
+        }
+      ]
     },
     {
       "arabic": "طَعَامُهَا لَذِيذٌ وَصِحِّيٌّ فِي نَفْسِ الْوَقْتِ.",
       "translation": "Njena hrana je ukusna i zdrava u isto vrijeme.",
-      "translationEn": "Her food is tasty and healthy at the same time."
+      "translationEn": "Her food is tasty and healthy at the same time.",
+      "words": [
+        {
+          "w": "طَعَامُهَا",
+          "root": "ط ع م",
+          "bs": "njena hrana",
+          "en": "her food"
+        },
+        {
+          "w": "لَذِيذٌ",
+          "root": "ل ذ ذ",
+          "bs": "ukusna",
+          "en": "tasty"
+        },
+        {
+          "w": "صِحِّيٌّ",
+          "root": "ص ح ح",
+          "bs": "zdrava",
+          "en": "healthy"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cooking", "grilled", "fried food", "nutrition"]
+    "tags": [
+      "cooking",
+      "grilled",
+      "fried food",
+      "nutrition"
+    ]
   }
 }

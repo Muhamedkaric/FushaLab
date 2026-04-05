@@ -6,26 +6,110 @@
     {
       "arabic": "وَجَدَ شَخْصٌ مَحْفَظَةً فِي الْحَافِلَةِ وَأَعَادَهَا لِصَاحِبِهَا.",
       "translation": "Osoba je pronašla novčanik u autobusu i vratila ga vlasniku.",
-      "translationEn": "A person found a wallet on the bus and returned it to its owner."
+      "translationEn": "A person found a wallet on the bus and returned it to its owner.",
+      "words": [
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found"
+        },
+        {
+          "w": "مَحْفَظَةً",
+          "root": "ح ف ظ",
+          "bs": "novčanik",
+          "en": "wallet"
+        },
+        {
+          "w": "الْحَافِلَةِ",
+          "root": "ح ف ل",
+          "bs": "autobusu",
+          "en": "bus"
+        },
+        {
+          "w": "أَعَادَهَا",
+          "root": "ع و د",
+          "bs": "vratio ga je",
+          "en": "returned it"
+        }
+      ]
     },
     {
       "arabic": "كَانَتِ الْمَحْفَظَةُ تَحْتَوِي عَلَى نُقُودٍ وَبَطَاقَاتٍ.",
       "translation": "Novčanik je sadržavao novac i kartice.",
-      "translationEn": "The wallet contained money and cards."
+      "translationEn": "The wallet contained money and cards.",
+      "words": [
+        {
+          "w": "الْمَحْفَظَةُ",
+          "root": "ح ف ظ",
+          "bs": "novčanik",
+          "en": "wallet"
+        },
+        {
+          "w": "نُقُودٍ",
+          "root": "ن ق د",
+          "bs": "novac",
+          "en": "money"
+        },
+        {
+          "w": "بَطَاقَاتٍ",
+          "root": "ب ط ق",
+          "bs": "kartice",
+          "en": "cards"
+        }
+      ]
     },
     {
       "arabic": "شَكَرَ صَاحِبُ الْمَحْفَظَةِ الشَّخْصَ الأَمِينَ كَثِيرًا.",
       "translation": "Vlasnik novčanika jako je zahvalio poštenom čovjeku.",
-      "translationEn": "The wallet's owner thanked the honest person a lot."
+      "translationEn": "The wallet's owner thanked the honest person a lot.",
+      "words": [
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked"
+        },
+        {
+          "w": "صَاحِبُ",
+          "root": "ص ح ب",
+          "bs": "vlasnik",
+          "en": "owner"
+        },
+        {
+          "w": "الأَمِينَ",
+          "root": "أ م ن",
+          "bs": "poštenom",
+          "en": "honest"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الْجَمِيعُ إِنَّ الأَمَانَةَ أَجْمَلُ صِفَةٍ.",
       "translation": "Svi su rekli da je poštenje najljepša osobina.",
-      "translationEn": "Everyone said that honesty is the most beautiful quality."
+      "translationEn": "Everyone said that honesty is the most beautiful quality.",
+      "words": [
+        {
+          "w": "الأَمَانَةَ",
+          "root": "أ م ن",
+          "bs": "poštenje",
+          "en": "honesty"
+        },
+        {
+          "w": "صِفَةٍ",
+          "root": "و ص ف",
+          "bs": "osobina",
+          "en": "quality"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["honesty", "daily life", "transport"]
+    "tags": [
+      "honesty",
+      "daily life",
+      "transport"
+    ]
   }
 }

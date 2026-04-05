@@ -6,22 +6,44 @@
     {
       "arabic": "ذَهَبَ كَامِلٌ إِلَى مَحَلِّ الحَلَوِيَّاتِ مَعَ أَخِيهِ.",
       "translation": "Kamil je otišao u slastičarnicu s bratom.",
-      "translationEn": "Kamil went to the confectionery shop with his brother."
+      "translationEn": "Kamil went to the confectionery shop with his brother.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "مَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" },
+        { "w": "الحَلَوِيَّاتِ", "root": "ح ل و", "bs": "slatkiši", "en": "confectionery" },
+        { "w": "أَخِيهِ", "root": "أ خ و", "bs": "brat", "en": "brother" }
+      ]
     },
     {
       "arabic": "اخْتَارَ كُلُّ وَاحِدٍ مَا يُحِبُّهُ مِنَ الحَلْوَى.",
       "translation": "Svaki od njih je odabrao slatkiše koje voli.",
-      "translationEn": "Each one chose the sweets they liked."
+      "translationEn": "Each one chose the sweets they liked.",
+      "words": [
+        { "w": "اخْتَارَ", "root": "خ ي ر", "bs": "odabrao je", "en": "chose" },
+        { "w": "يُحِبُّهُ", "root": "ح ب ب", "bs": "voli", "en": "liked" },
+        { "w": "الحَلْوَى", "root": "ح ل و", "bs": "slatkiši", "en": "sweets" }
+      ]
     },
     {
       "arabic": "سَأَلَ كَامِلٌ البَائِعَ عَنْ مَجْمُوعِ الثَّمَنِ.",
       "translation": "Kamil je pitao prodavača za ukupnu cijenu.",
-      "translationEn": "Kamil asked the seller about the total price."
+      "translationEn": "Kamil asked the seller about the total price.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "البَائِعَ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" },
+        { "w": "مَجْمُوعِ", "root": "ج م ع", "bs": "ukupna", "en": "total" },
+        { "w": "الثَّمَنِ", "root": "ث م ن", "bs": "cijena", "en": "price" }
+      ]
     },
     {
       "arabic": "دَفَعَ عَنِ الاثْنَيْنِ وَخَرَجَا يَأْكُلَانِ.",
       "translation": "Platio je za obojicu i izašli su jedući.",
-      "translationEn": "He paid for both and they left eating."
+      "translationEn": "He paid for both and they left eating.",
+      "words": [
+        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
+        { "w": "خَرَجَا", "root": "خ ر ج", "bs": "izašli su", "en": "left" },
+        { "w": "يَأْكُلَانِ", "root": "أ ك ل", "bs": "jedući", "en": "eating" }
+      ]
     }
   ],
   "metadata": {

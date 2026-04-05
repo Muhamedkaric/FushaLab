@@ -6,22 +6,102 @@
     {
       "arabic": "اسْتَلَمَتْ مَرْيَمُ رِسَالَةً مِنْ صَدِيقَتِهَا.",
       "translation": "Merjem je primila poruku od prijateljice.",
-      "translationEn": "Maryam received a message from her friend."
+      "translationEn": "Maryam received a message from her friend.",
+      "words": [
+        {
+          "w": "اسْتَلَمَتْ",
+          "root": "س ل م",
+          "bs": "primila je",
+          "en": "received"
+        },
+        {
+          "w": "رِسَالَةً",
+          "root": "ر س ل",
+          "bs": "poruku",
+          "en": "a message"
+        },
+        {
+          "w": "صَدِيقَتِهَا",
+          "root": "ص د ق",
+          "bs": "prijateljice",
+          "en": "her friend"
+        }
+      ]
     },
     {
       "arabic": "كَانَتِ الرِّسَالَةُ دَعْوَةً لِلِاجْتِمَاعِ.",
       "translation": "Poruka je bila pozivnica za sastanak.",
-      "translationEn": "The message was an invitation to meet."
+      "translationEn": "The message was an invitation to meet.",
+      "words": [
+        {
+          "w": "الرِّسَالَةُ",
+          "root": "ر س ل",
+          "bs": "poruka",
+          "en": "the message"
+        },
+        {
+          "w": "دَعْوَةً",
+          "root": "د ع و",
+          "bs": "pozivnica",
+          "en": "an invitation"
+        },
+        {
+          "w": "لِلِاجْتِمَاعِ",
+          "root": "ج م ع",
+          "bs": "za sastanak",
+          "en": "to meet"
+        }
+      ]
     },
     {
       "arabic": "رَدَّتْ بِسُرْعَةٍ وَقَالَتْ: سَأَكُونُ هُنَاكَ.",
       "translation": "Brzo je odgovorila i rekla: Biću tamo.",
-      "translationEn": "She replied quickly and said: I will be there."
+      "translationEn": "She replied quickly and said: I will be there.",
+      "words": [
+        {
+          "w": "رَدَّتْ",
+          "root": "ر د د",
+          "bs": "odgovorila je",
+          "en": "replied"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly"
+        },
+        {
+          "w": "سَأَكُونُ",
+          "root": "ك و ن",
+          "bs": "biću",
+          "en": "I will be"
+        }
+      ]
     },
     {
       "arabic": "أَضَافَتْ رَمْزَ الِابْتِسَامَةِ فِي نِهَايَةِ الرَّسَالَةِ.",
       "translation": "Dodala je emoji osmjeha na kraju poruke.",
-      "translationEn": "She added a smiley emoji at the end of the message."
+      "translationEn": "She added a smiley emoji at the end of the message.",
+      "words": [
+        {
+          "w": "أَضَافَتْ",
+          "root": "ض و ف",
+          "bs": "dodala je",
+          "en": "added"
+        },
+        {
+          "w": "رَمْزَ الِابْتِسَامَةِ",
+          "root": "ب س م",
+          "bs": "emoji osmjeha",
+          "en": "a smiley emoji"
+        },
+        {
+          "w": "الرَّسَالَةِ",
+          "root": "ر س ل",
+          "bs": "poruke",
+          "en": "the message"
+        }
+      ]
     }
   ],
   "metadata": {

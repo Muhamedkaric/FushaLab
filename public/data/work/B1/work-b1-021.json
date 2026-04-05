@@ -6,22 +6,48 @@
     {
       "arabic": "يَعْمَلُ حَسَّانُ سَائِقَ تَاكْسِي فِي الْمَدِينَةِ.",
       "translation": "Hassan radi kao vozač taksija u gradu.",
-      "translationEn": "Hassan works as a taxi driver in the city."
+      "translationEn": "Hassan works as a taxi driver in the city.",
+      "words": [
+        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "سَائِقَ", "root": "س و ق", "bs": "vozač", "en": "driver" },
+        { "w": "تَاكْسِي", "root": "ت ك س", "bs": "taksi", "en": "taxi" },
+        { "w": "الْمَدِينَةِ", "root": "م د ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "يَبْدَأُ عَمَلَهُ فِي السَّابِعَةِ صَبَاحًا وَيَنْتَهِي فِي الثَّالِثَةِ.",
       "translation": "Počinje posao u sedam ujutro i završava u tri.",
-      "translationEn": "He starts work at seven in the morning and finishes at three."
+      "translationEn": "He starts work at seven in the morning and finishes at three.",
+      "words": [
+        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "starts" },
+        { "w": "عَمَلَهُ", "root": "ع م ل", "bs": "njegov posao", "en": "his work" },
+        { "w": "صَبَاحًا", "root": "ص ب ح", "bs": "ujutro", "en": "in the morning" },
+        { "w": "يَنْتَهِي", "root": "ن ه ي", "bs": "završava", "en": "finishes" }
+      ]
     },
     {
       "arabic": "يَتَحَدَّثُ مَعَ الرُّكَّابِ بِلُطْفٍ وَيُجِيبُ عَلَى أَسْئِلَتِهِمْ.",
       "translation": "Razgovara s putnicima ljubazno i odgovara na njihova pitanja.",
-      "translationEn": "He talks to passengers kindly and answers their questions."
+      "translationEn": "He talks to passengers kindly and answers their questions.",
+      "words": [
+        { "w": "يَتَحَدَّثُ", "root": "ح د ث", "bs": "razgovara", "en": "talks" },
+        { "w": "الرُّكَّابِ", "root": "ر ك ب", "bs": "putnici", "en": "passengers" },
+        { "w": "بِلُطْفٍ", "root": "ل ط ف", "bs": "ljubazno/nježno", "en": "kindly/gently" },
+        { "w": "يُجِيبُ", "root": "ج و ب", "bs": "odgovara", "en": "answers" },
+        { "w": "أَسْئِلَتِهِمْ", "root": "س أ ل", "bs": "njihova pitanja", "en": "their questions" }
+      ]
     },
     {
       "arabic": "يَعْرِفُ شَوَارِعَ الْمَدِينَةِ جَيِّدًا وَيَصِلُ دَائِمًا فِي الْوَقْتِ.",
       "translation": "Dobro poznaje ulice grada i uvijek stiže na vrijeme.",
-      "translationEn": "He knows the city streets well and always arrives on time."
+      "translationEn": "He knows the city streets well and always arrives on time.",
+      "words": [
+        { "w": "يَعْرِفُ", "root": "ع ر ف", "bs": "poznaje/zna", "en": "knows" },
+        { "w": "شَوَارِعَ", "root": "ش ر ع", "bs": "ulice", "en": "streets" },
+        { "w": "الْمَدِينَةِ", "root": "م د ن", "bs": "grad", "en": "city" },
+        { "w": "يَصِلُ", "root": "و ص ل", "bs": "stiže/dolazi", "en": "arrives" },
+        { "w": "الْوَقْتِ", "root": "و ق ت", "bs": "vrijeme/na vrijeme", "en": "time/on time" }
+      ]
     }
   ],
   "metadata": {

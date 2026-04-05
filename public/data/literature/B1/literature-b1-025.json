@@ -6,22 +6,46 @@
     {
       "arabic": "مَشَى الصَّدِيقَانِ مَاهِرٌ وَأَنَسٌ إِلَى الْمَدْرَسَةِ مَعًا.",
       "translation": "Prijatelji Mahir i Enes su zajedno hodali u školu.",
-      "translationEn": "The two friends Mahir and Anas walked to school together."
+      "translationEn": "The two friends Mahir and Anas walked to school together.",
+      "words": [
+        { "w": "مَشَى", "root": "م ش ي", "bs": "hodali su", "en": "walked" },
+        { "w": "الصَّدِيقَانِ", "root": "ص د ق", "bs": "dva prijatelja", "en": "two friends" },
+        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" }
+      ]
     },
     {
       "arabic": "فِي الطَّرِيقِ رَأَيَا طِفْلًا يَبْكِي وَحِيدًا.",
       "translation": "Na putu su vidjeli dijete kako plače samo.",
-      "translationEn": "On the way they saw a child crying alone."
+      "translationEn": "On the way they saw a child crying alone.",
+      "words": [
+        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put/ulica", "en": "road/way" },
+        { "w": "رَأَيَا", "root": "ر أ ي", "bs": "vidjeli su", "en": "saw" },
+        { "w": "طِفْلًا", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "يَبْكِي", "root": "ب ك ي", "bs": "plače", "en": "crying" },
+        { "w": "وَحِيدًا", "root": "و ح د", "bs": "samo", "en": "alone" }
+      ]
     },
     {
       "arabic": "تَوَقَّفَا وَسَأَلَاهُ عَنْ سَبَبِ بُكَائِهِ.",
       "translation": "Stali su i pitali ga zašto plače.",
-      "translationEn": "They stopped and asked him why he was crying."
+      "translationEn": "They stopped and asked him why he was crying.",
+      "words": [
+        { "w": "تَوَقَّفَا", "root": "و ق ف", "bs": "stali su", "en": "stopped" },
+        { "w": "سَأَلَاهُ", "root": "س أ ل", "bs": "pitali su ga", "en": "asked him" },
+        { "w": "سَبَبِ", "root": "س ب ب", "bs": "razlog", "en": "reason" },
+        { "w": "بُكَائِهِ", "root": "ب ك ي", "bs": "njegovo plakanje", "en": "his crying" }
+      ]
     },
     {
       "arabic": "قَالَ إِنَّهُ ضَاعَ فَأَخَذَاهُ إِلَى أَقْرَبِ شُرْطِيٍّ.",
       "translation": "Rekao je da se izgubio pa su ga odveli do najbližeg policajca.",
-      "translationEn": "He said he was lost so they took him to the nearest police officer."
+      "translationEn": "He said he was lost so they took him to the nearest police officer.",
+      "words": [
+        { "w": "ضَاعَ", "root": "ض ي ع", "bs": "izgubio se", "en": "was lost" },
+        { "w": "أَخَذَاهُ", "root": "أ خ ذ", "bs": "odveli su ga", "en": "took him" },
+        { "w": "أَقْرَبِ", "root": "ق ر ب", "bs": "najbliži", "en": "nearest" },
+        { "w": "شُرْطِيٍّ", "root": "ش ر ط", "bs": "policajac", "en": "police officer" }
+      ]
     }
   ],
   "metadata": {

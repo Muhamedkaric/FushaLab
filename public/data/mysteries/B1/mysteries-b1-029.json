@@ -6,27 +6,55 @@
     {
       "arabic": "سَمِعَتْ دَلَالٌ صَوْتَ طَرْقٍ تَحْتَ الطَّاوِلَةِ.",
       "translation": "Dalal je čula zvuk kucanja ispod stola.",
-      "translationEn": "Dalal heard a knocking sound under the table."
+      "translationEn": "Dalal heard a knocking sound under the table.",
+      "words": [
+        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "čula je", "en": "she heard" },
+        { "w": "صَوْتَ", "root": "ص و ت", "bs": "zvuk", "en": "sound" },
+        { "w": "طَرْقٍ", "root": "ط ر ق", "bs": "kucanja", "en": "knocking" },
+        { "w": "الطَّاوِلَةِ", "bs": "stola", "en": "table" }
+      ]
     },
     {
       "arabic": "نَظَرَتْ تَحْتَ الطَّاوِلَةِ بِخَوْفٍ.",
       "translation": "Uplašeno je pogledala ispod stola.",
-      "translationEn": "She looked under the table with fear."
+      "translationEn": "She looked under the table with fear.",
+      "words": [
+        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "pogledala je", "en": "she looked" },
+        { "w": "بِخَوْفٍ", "root": "خ و ف", "bs": "uplašeno", "en": "with fear" }
+      ]
     },
     {
       "arabic": "وَجَدَتْ كَلْبًا صَغِيرًا يَرْتَجِفُ مِنَ الْبَرْدِ.",
       "translation": "Pronašla je malog psa koji drhti od hladnoće.",
-      "translationEn": "She found a small dog shivering from the cold."
+      "translationEn": "She found a small dog shivering from the cold.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "كَلْبًا", "root": "ك ل ب", "bs": "psa", "en": "dog" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "malog", "en": "small" },
+        { "w": "يَرْتَجِفُ", "root": "ر ج ف", "bs": "drhti", "en": "shivering" },
+        { "w": "الْبَرْدِ", "root": "ب ر د", "bs": "hladnoće", "en": "cold" }
+      ]
     },
     {
       "arabic": "أَحْضَرَتْ لَهُ بِطَّانِيَةً وَطَعَامًا.",
       "translation": "Donijela mu je deku i hrane.",
-      "translationEn": "She brought it a blanket and food."
+      "translationEn": "She brought it a blanket and food.",
+      "words": [
+        { "w": "أَحْضَرَتْ", "root": "ح ض ر", "bs": "donijela je", "en": "she brought" },
+        { "w": "بِطَّانِيَةً", "root": "ب ط ن", "bs": "deku", "en": "blanket" },
+        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hranu", "en": "food" }
+      ]
     },
     {
       "arabic": "سَأَلَتْ أَهْلَ الْحَيِّ عَنِ الْكَلْبِ حَتَّى وَجَدَتْ صَاحِبَهُ.",
       "translation": "Pitala je komšije o psu dok nije pronašla njegovog vlasnika.",
-      "translationEn": "She asked the neighbours about the dog until she found its owner."
+      "translationEn": "She asked the neighbours about the dog until she found its owner.",
+      "words": [
+        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "she asked" },
+        { "w": "الْكَلْبِ", "root": "ك ل ب", "bs": "psu", "en": "dog" },
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "صَاحِبَهُ", "root": "ص ح ب", "bs": "vlasnika", "en": "its owner" }
+      ]
     }
   ],
   "metadata": {

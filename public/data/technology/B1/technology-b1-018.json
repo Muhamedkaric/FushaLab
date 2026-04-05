@@ -6,22 +6,125 @@
     {
       "arabic": "شَاهَدَتِ الْعَائِلَةُ فِيلْمًا عَلَى التِّلِفِزْيُونِ الذَّكِيِّ.",
       "translation": "Porodica je gledala film na pametnoj televiziji.",
-      "translationEn": "The family watched a movie on the smart TV."
+      "translationEn": "The family watched a movie on the smart TV.",
+      "words": [
+        {
+          "w": "شَاهَدَتِ",
+          "root": "ش ه د",
+          "bs": "gledala je",
+          "en": "watched"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "the family"
+        },
+        {
+          "w": "فِيلْمًا",
+          "root": "ف ل م",
+          "bs": "film",
+          "en": "a movie"
+        },
+        {
+          "w": "التِّلِفِزْيُونِ الذَّكِيِّ",
+          "root": "ذ ك و",
+          "bs": "pametnoj televiziji",
+          "en": "the smart TV"
+        }
+      ]
     },
     {
       "arabic": "اخْتَارَ الْأَبُ الْفِيلْمَ مِنَ الْإِنْتِرْنِتِ.",
       "translation": "Otac je odabrao film s interneta.",
-      "translationEn": "The father chose the movie from the internet."
+      "translationEn": "The father chose the movie from the internet.",
+      "words": [
+        {
+          "w": "اخْتَارَ",
+          "root": "خ ي ر",
+          "bs": "odabrao je",
+          "en": "chose"
+        },
+        {
+          "w": "الْأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "the father"
+        },
+        {
+          "w": "الْفِيلْمَ",
+          "root": "ف ل م",
+          "bs": "film",
+          "en": "the movie"
+        },
+        {
+          "w": "الْإِنْتِرْنِتِ",
+          "bs": "interneta",
+          "en": "the internet"
+        }
+      ]
     },
     {
       "arabic": "جَلَسَ الْجَمِيعُ مَعًا وَشَاهَدُوهُ بِسَعَادَةٍ.",
       "translation": "Svi su sjeli zajedno i sretno ga gledali.",
-      "translationEn": "Everyone sat together and watched it happily."
+      "translationEn": "Everyone sat together and watched it happily.",
+      "words": [
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjeo je",
+          "en": "sat"
+        },
+        {
+          "w": "الْجَمِيعُ",
+          "root": "ج م ع",
+          "bs": "svi",
+          "en": "everyone"
+        },
+        {
+          "w": "شَاهَدُوهُ",
+          "root": "ش ه د",
+          "bs": "gledali su ga",
+          "en": "watched it"
+        },
+        {
+          "w": "بِسَعَادَةٍ",
+          "root": "س ع د",
+          "bs": "sretno",
+          "en": "happily"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ الْفِيلْمِ تَحَدَّثُوا عَنْ أَجْمَلِ مَشَاهِدِهِ.",
       "translation": "Nakon filma razgovarali su o najljepšim scenama.",
-      "translationEn": "After the movie they talked about its best scenes."
+      "translationEn": "After the movie they talked about its best scenes.",
+      "words": [
+        {
+          "w": "الْفِيلْمِ",
+          "root": "ف ل م",
+          "bs": "filma",
+          "en": "the movie"
+        },
+        {
+          "w": "تَحَدَّثُوا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked"
+        },
+        {
+          "w": "أَجْمَلِ",
+          "root": "ج م ل",
+          "bs": "najljepšim",
+          "en": "most beautiful"
+        },
+        {
+          "w": "مَشَاهِدِهِ",
+          "root": "ش ه د",
+          "bs": "scenama",
+          "en": "its scenes"
+        }
+      ]
     }
   ],
   "metadata": {

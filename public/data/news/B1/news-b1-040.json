@@ -6,26 +6,134 @@
     {
       "arabic": "نَظَّمَ الْحَيُّ سُوقًا خَيْرِيًّا لِمُسَاعَدَةِ الْأُسَرِ الْمُحْتَاجَةِ.",
       "translation": "Kvart je organizovao dobrotvorno tržište za pomoć siromašnim porodicama.",
-      "translationEn": "The neighborhood organized a charity market to help needy families."
+      "translationEn": "The neighborhood organized a charity market to help needy families.",
+      "words": [
+        {
+          "w": "سُوقًا",
+          "root": "س و ق",
+          "bs": "tržište",
+          "en": "market"
+        },
+        {
+          "w": "خَيْرِيًّا",
+          "root": "خ ي ر",
+          "bs": "dobrotvorni",
+          "en": "charity"
+        },
+        {
+          "w": "الْأُسَرِ",
+          "root": "أ س ر",
+          "bs": "porodicama",
+          "en": "families"
+        },
+        {
+          "w": "الْمُحْتَاجَةِ",
+          "root": "ح و ج",
+          "bs": "siromašnim",
+          "en": "needy"
+        }
+      ]
     },
     {
       "arabic": "تَبَرَّعَ السُّكَّانُ بِمَلَابِسَ وَأَطْعِمَةٍ وَكُتُبٍ.",
       "translation": "Stanovnici su donirali odjeću, hranu i knjige.",
-      "translationEn": "Residents donated clothing, food, and books."
+      "translationEn": "Residents donated clothing, food, and books.",
+      "words": [
+        {
+          "w": "تَبَرَّعَ",
+          "root": "ب ر ع",
+          "bs": "donirao je",
+          "en": "donated"
+        },
+        {
+          "w": "السُّكَّانُ",
+          "root": "س ك ن",
+          "bs": "stanovnici",
+          "en": "residents"
+        },
+        {
+          "w": "مَلَابِسَ",
+          "root": "ل ب س",
+          "bs": "odjeću",
+          "en": "clothing"
+        },
+        {
+          "w": "أَطْعِمَةٍ",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food"
+        },
+        {
+          "w": "كُتُبٍ",
+          "root": "ك ت ب",
+          "bs": "knjige",
+          "en": "books"
+        }
+      ]
     },
     {
       "arabic": "اشْتَرَى النَّاسُ الْبَضَائِعَ بِأَسْعَارٍ رَمْزِيَّةٍ جِدًّا.",
       "translation": "Ljudi su kupovali robu po veoma simboličnim cijenama.",
-      "translationEn": "People bought goods at very symbolic prices."
+      "translationEn": "People bought goods at very symbolic prices.",
+      "words": [
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought"
+        },
+        {
+          "w": "الْبَضَائِعَ",
+          "root": "ب ض ع",
+          "bs": "robu",
+          "en": "goods"
+        },
+        {
+          "w": "أَسْعَارٍ",
+          "root": "س ع ر",
+          "bs": "cijenama",
+          "en": "prices"
+        },
+        {
+          "w": "رَمْزِيَّةٍ",
+          "root": "ر م ز",
+          "bs": "simboličnim",
+          "en": "symbolic"
+        }
+      ]
     },
     {
       "arabic": "جُمِعَتْ أَمْوَالٌ كَثِيرَةٌ وَوُزِّعَتْ عَلَى الْمُحْتَاجِينَ.",
       "translation": "Prikupljeno je mnogo novca i podijeljen je potrebnima.",
-      "translationEn": "Much money was collected and distributed to those in need."
+      "translationEn": "Much money was collected and distributed to those in need.",
+      "words": [
+        {
+          "w": "أَمْوَالٌ",
+          "root": "م و ل",
+          "bs": "novac",
+          "en": "money"
+        },
+        {
+          "w": "وُزِّعَتْ",
+          "root": "و ز ع",
+          "bs": "podijeljen je",
+          "en": "distributed"
+        },
+        {
+          "w": "الْمُحْتَاجِينَ",
+          "root": "ح و ج",
+          "bs": "potrebnima",
+          "en": "those in need"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["charity", "community", "neighborhood"]
+    "tags": [
+      "charity",
+      "community",
+      "neighborhood"
+    ]
   }
 }

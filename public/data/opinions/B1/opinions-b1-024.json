@@ -6,22 +6,45 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ الْأَطْفَالَ يَجِبُ أَنْ يَلْعَبُوا فِي الْهَوَاءِ الطَّلْقِ.",
       "translation": "Smatram da djeca trebaju igrati na svježem zraku.",
-      "translationEn": "I believe that children should play in the open air."
+      "translationEn": "I believe that children should play in the open air.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "الْأَطْفَالَ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "يَلْعَبُوا", "root": "ل ع ب", "bs": "da se igraju", "en": "to play" },
+        { "w": "الْهَوَاءِ", "root": "ه و ي", "bs": "zrak", "en": "air" }
+      ]
     },
     {
       "arabic": "اللَّعِبُ خَارِجَ الْبَيْتِ يُقَوِّي الْجِسْمَ وَيُنَشِّطُ الْعَقْلَ.",
       "translation": "Igranje vani jača tijelo i aktivira um.",
-      "translationEn": "Playing outside strengthens the body and activates the mind."
+      "translationEn": "Playing outside strengthens the body and activates the mind.",
+      "words": [
+        { "w": "اللَّعِبُ", "root": "ل ع ب", "bs": "igranje", "en": "playing" },
+        { "w": "يُقَوِّي", "root": "ق و ي", "bs": "jača", "en": "strengthens" },
+        { "w": "الْجِسْمَ", "root": "ج س م", "bs": "tijelo", "en": "body" },
+        { "w": "يُنَشِّطُ", "root": "ن ش ط", "bs": "aktivira", "en": "activates" }
+      ]
     },
     {
       "arabic": "الشَّاشَاتُ مُفِيدَةٌ لَكِنَّ كَثِيرًا مِنْهَا يَضُرُّ.",
       "translation": "Ekrani su korisni ali previše ih šteti.",
-      "translationEn": "Screens are useful but too much of them is harmful."
+      "translationEn": "Screens are useful but too much of them is harmful.",
+      "words": [
+        { "w": "الشَّاشَاتُ", "root": "ش ش ش", "bs": "ekrani", "en": "screens" },
+        { "w": "مُفِيدَةٌ", "root": "ف ي د", "bs": "korisni", "en": "useful" },
+        { "w": "يَضُرُّ", "root": "ض ر ر", "bs": "šteti", "en": "harmful" }
+      ]
     },
     {
       "arabic": "أُفَضِّلُ أَنْ يَلْعَبَ الطِّفْلُ بَعْضَ الْوَقْتِ بِدُونِ شَاشَاتٍ.",
       "translation": "Više volim da se dijete igraji dio vremena bez ekrana.",
-      "translationEn": "I prefer that a child plays for some time without screens."
+      "translationEn": "I prefer that a child plays for some time without screens.",
+      "words": [
+        { "w": "أُفَضِّلُ", "root": "ف ض ل", "bs": "više volim", "en": "I prefer" },
+        { "w": "يَلْعَبَ", "root": "ل ع ب", "bs": "da se igra", "en": "plays" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "شَاشَاتٍ", "root": "ش ش ش", "bs": "ekrani", "en": "screens" }
+      ]
     }
   ],
   "metadata": {

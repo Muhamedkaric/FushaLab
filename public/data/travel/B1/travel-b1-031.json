@@ -6,22 +6,42 @@
     {
       "arabic": "رَأَى الطِّفْلُ غَرِيبًا وَسَأَلَ أَبَاهُ عَنْهُ.",
       "translation": "Dijete je vidjelo stranca i pitalo oca za njega.",
-      "translationEn": "The child saw a stranger and asked his father about him."
+      "translationEn": "The child saw a stranger and asked his father about him.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "غَرِيبًا", "root": "غ ر ب", "bs": "stranac", "en": "stranger / foreigner" },
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" }
+      ]
     },
     {
       "arabic": "قَالَ الْأَبُ: هُوَ مُسَافِرٌ مِثْلُنَا يَزُورُ الْمَدِينَةَ.",
       "translation": "Otac je rekao: On je putnik kao mi koji posjećuje grad.",
-      "translationEn": "The father said: He is a traveler like us visiting the city."
+      "translationEn": "The father said: He is a traveler like us visiting the city.",
+      "words": [
+        { "w": "مُسَافِرٌ", "root": "س ف ر", "bs": "putnik", "en": "traveler" },
+        { "w": "يَزُورُ", "root": "ز و ر", "bs": "posjećuje", "en": "visiting" },
+        { "w": "الْمَدِينَةَ", "root": "د ي ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَ الطِّفْلُ لِلرَّجُلِ وَقَالَ لَهُ: أَهْلًا.",
       "translation": "Dijete se nasmiješilo čovjeku i reklo mu: Dobrodošao.",
-      "translationEn": "The child smiled at the man and said: Welcome."
+      "translationEn": "The child smiled at the man and said: Welcome.",
+      "words": [
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" }
+      ]
     },
     {
       "arabic": "رَدَّ الرَّجُلُ بِابْتِسَامَةٍ وَشَكَرَ الطِّفْلَ.",
       "translation": "Čovjek je odvratio osmijehom i zahvalio djetetu.",
-      "translationEn": "The man responded with a smile and thanked the child."
+      "translationEn": "The man responded with a smile and thanked the child.",
+      "words": [
+        { "w": "رَدَّ", "root": "ر د د", "bs": "odgovorio je", "en": "responded" },
+        { "w": "بِابْتِسَامَةٍ", "root": "ب س م", "bs": "osmijehom", "en": "with a smile" },
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" }
+      ]
     }
   ],
   "metadata": {

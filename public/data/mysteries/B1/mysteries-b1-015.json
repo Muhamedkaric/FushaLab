@@ -6,27 +6,53 @@
     {
       "arabic": "لَاحَظَتْ سَلْمَى أَنَّ زَهْرَتَهَا نَمَتْ كَثِيرًا فَجْأَةً.",
       "translation": "Salma je primijetila da je njen cvijet iznenada mnogo porastao.",
-      "translationEn": "Salma noticed that her flower had suddenly grown a lot."
+      "translationEn": "Salma noticed that her flower had suddenly grown a lot.",
+      "words": [
+        { "w": "لَاحَظَتْ", "root": "ل ح ظ", "bs": "primijetila je", "en": "she noticed" },
+        { "w": "زَهْرَتَهَا", "root": "ز ه ر", "bs": "cvijet", "en": "her flower" },
+        { "w": "نَمَتْ", "root": "ن م و", "bs": "porasla je", "en": "had grown" },
+        { "w": "فَجْأَةً", "root": "ف ج أ", "bs": "iznenada", "en": "suddenly" }
+      ]
     },
     {
       "arabic": "كَانَتْ تَسْقِيهَا كُلَّ يَوْمٍ لَكِنَّهَا لَمْ تَنْمُ بِهَذَا السُّرْعَةِ مِنْ قَبْلُ.",
       "translation": "Zalijevala ga je svaki dan ali nikada prije nije rastao ovakvom brzinom.",
-      "translationEn": "She watered it every day but it had never grown this fast before."
+      "translationEn": "She watered it every day but it had never grown this fast before.",
+      "words": [
+        { "w": "تَسْقِيهَا", "root": "س ق ي", "bs": "zalijevala je", "en": "she watered it" },
+        { "w": "تَنْمُ", "root": "ن م و", "bs": "raste", "en": "it grows" },
+        { "w": "السُّرْعَةِ", "root": "س ر ع", "bs": "brzinom", "en": "speed" }
+      ]
     },
     {
       "arabic": "سَأَلَتْ أَبَاهَا عَنِ السَّبَبِ.",
       "translation": "Pitala je oca za razlog.",
-      "translationEn": "She asked her father about the reason."
+      "translationEn": "She asked her father about the reason.",
+      "words": [
+        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "she asked" },
+        { "w": "السَّبَبِ", "root": "س ب ب", "bs": "razlog", "en": "the reason" }
+      ]
     },
     {
       "arabic": "قَالَ الْأَبُ: وَضَعْتُ سَمَادًا جَدِيدًا فِي التُّرْبَةِ أَمْسِ.",
       "translation": "Otac je rekao: Juče sam stavio novo gnojivo u zemlju.",
-      "translationEn": "The father said: I put new fertiliser in the soil yesterday."
+      "translationEn": "The father said: I put new fertiliser in the soil yesterday.",
+      "words": [
+        { "w": "وَضَعْتُ", "root": "و ض ع", "bs": "stavio sam", "en": "I put" },
+        { "w": "سَمَادًا", "root": "س م د", "bs": "gnojivo", "en": "fertiliser" },
+        { "w": "جَدِيدًا", "root": "ج د د", "bs": "novo", "en": "new" },
+        { "w": "التُّرْبَةِ", "root": "ت ر ب", "bs": "zemlju", "en": "the soil" }
+      ]
     },
     {
       "arabic": "فَهِمَتْ سَلْمَى السِّرَّ وَشَكَرَتْ أَبَاهَا.",
       "translation": "Salma je shvatila tajnu i zahvalila se ocu.",
-      "translationEn": "Salma understood the secret and thanked her father."
+      "translationEn": "Salma understood the secret and thanked her father.",
+      "words": [
+        { "w": "فَهِمَتْ", "root": "ف ه م", "bs": "shvatila je", "en": "she understood" },
+        { "w": "السِّرَّ", "root": "س ر ر", "bs": "tajnu", "en": "the secret" },
+        { "w": "شَكَرَتْ", "root": "ش ك ر", "bs": "zahvalila se", "en": "she thanked" }
+      ]
     }
   ],
   "metadata": {

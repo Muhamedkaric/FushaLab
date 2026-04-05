@@ -6,26 +6,128 @@
     {
       "arabic": "نَظَّمَتِ الْمَدْرَسَةُ رِحْلَةً لِلطُّلَّابِ الأُسْبُوعَ الْمَاضِيَ.",
       "translation": "Škola je organizovala izlet za učenike prošle sedmice.",
-      "translationEn": "The school organized a trip for students last week."
+      "translationEn": "The school organized a trip for students last week.",
+      "words": [
+        {
+          "w": "نَظَّمَتِ",
+          "root": "ن ظ م",
+          "bs": "organizovala je",
+          "en": "organized"
+        },
+        {
+          "w": "الْمَدْرَسَةُ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        },
+        {
+          "w": "رِحْلَةً",
+          "root": "ر ح ل",
+          "bs": "izlet",
+          "en": "trip"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenicima",
+          "en": "students"
+        }
+      ]
     },
     {
       "arabic": "زَارَ الطُّلَّابُ مَتْحَفًا كَبِيرًا فِي وَسَطِ الْمَدِينَةِ.",
       "translation": "Učenici su posjetili veliki muzej u centru grada.",
-      "translationEn": "The students visited a large museum in the city center."
+      "translationEn": "The students visited a large museum in the city center.",
+      "words": [
+        {
+          "w": "زَارَ",
+          "root": "ز و ر",
+          "bs": "posjetio je",
+          "en": "visited"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "مَتْحَفًا",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum"
+        },
+        {
+          "w": "كَبِيرًا",
+          "root": "ك ب ر",
+          "bs": "veliki",
+          "en": "large"
+        }
+      ]
     },
     {
       "arabic": "رَأَوْا صُوَرًا قَدِيمَةً وَأَشْيَاءَ تَارِيخِيَّةً كَثِيرَةً.",
       "translation": "Vidjeli su stare slike i mnoge historijske predmete.",
-      "translationEn": "They saw old paintings and many historical objects."
+      "translationEn": "They saw old paintings and many historical objects.",
+      "words": [
+        {
+          "w": "رَأَوْا",
+          "root": "ر أ ي",
+          "bs": "vidjeli su",
+          "en": "saw"
+        },
+        {
+          "w": "صُوَرًا",
+          "root": "ص و ر",
+          "bs": "slike",
+          "en": "paintings"
+        },
+        {
+          "w": "قَدِيمَةً",
+          "root": "ق د م",
+          "bs": "stare",
+          "en": "old"
+        },
+        {
+          "w": "تَارِيخِيَّةً",
+          "root": "أ ر خ",
+          "bs": "historijske",
+          "en": "historical"
+        }
+      ]
     },
     {
       "arabic": "عَادَ الطُّلَّابُ إِلَى الْمَدْرَسَةِ وَهُمْ سُعَدَاءُ.",
       "translation": "Učenici su se vratili u školu sretni.",
-      "translationEn": "The students returned to school happy."
+      "translationEn": "The students returned to school happy.",
+      "words": [
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "سُعَدَاءُ",
+          "root": "س ع د",
+          "bs": "sretni",
+          "en": "happy"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school", "museum", "trip"]
+    "tags": [
+      "school",
+      "museum",
+      "trip"
+    ]
   }
 }

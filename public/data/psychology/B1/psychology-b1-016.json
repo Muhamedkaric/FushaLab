@@ -6,22 +6,47 @@
     {
       "arabic": "شَعَرَ خَالِدٌ بِالْمَلَلِ فِي يَوْمِ الْعُطْلَةِ الطَّوِيلِ.",
       "translation": "Halid se osjećao dosadno u dugom danu odmora.",
-      "translationEn": "Khalid felt bored on the long holiday day."
+      "translationEn": "Khalid felt bored on the long holiday day.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjećao se", "en": "felt" },
+        { "w": "الْمَلَلِ", "root": "م ل ل", "bs": "dosada", "en": "boredom" },
+        { "w": "الْعُطْلَةِ", "root": "ع ط ل", "bs": "odmor", "en": "holiday" },
+        { "w": "الطَّوِيلِ", "root": "ط و ل", "bs": "dugi", "en": "long" }
+      ]
     },
     {
       "arabic": "لَمْ يَكُنْ يَعْرِفُ مَاذَا يَفْعَلُ بِوَقْتِهِ.",
       "translation": "Nije znao šta da radi sa svojim vremenom.",
-      "translationEn": "He did not know what to do with his time."
+      "translationEn": "He did not know what to do with his time.",
+      "words": [
+        { "w": "يَعْرِفُ", "root": "ع ر ف", "bs": "zna", "en": "knows" },
+        { "w": "يَفْعَلُ", "root": "ف ع ل", "bs": "radi", "en": "do" },
+        { "w": "وَقْتِهِ", "root": "و ق ت", "bs": "njegovo vrijeme", "en": "his time" }
+      ]
     },
     {
       "arabic": "قَرَّرَ أَنْ يَقْرَأَ كِتَابًا وَجَدَهُ عَلَى الرَّفِّ.",
       "translation": "Odlučio je da čita knjigu koju je pronašao na polici.",
-      "translationEn": "He decided to read a book he found on the shelf."
+      "translationEn": "He decided to read a book he found on the shelf.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "يَقْرَأَ", "root": "ق ر أ", "bs": "čita", "en": "read" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjigu", "en": "a book" },
+        { "w": "وَجَدَهُ", "root": "و ج د", "bs": "pronašao ga je", "en": "found" },
+        { "w": "الرَّفِّ", "root": "ر ف ف", "bs": "polica", "en": "the shelf" }
+      ]
     },
     {
       "arabic": "بَعْدَ سَاعَةٍ نَسِيَ الْمَلَلَ وَاسْتَمَرَّ فِي الْقِرَاءَةِ.",
       "translation": "Nakon sat vremena zaboravio je dosadu i nastavio čitati.",
-      "translationEn": "After an hour he forgot the boredom and continued reading."
+      "translationEn": "After an hour he forgot the boredom and continued reading.",
+      "words": [
+        { "w": "سَاعَةٍ", "root": "س و ع", "bs": "sat", "en": "an hour" },
+        { "w": "نَسِيَ", "root": "ن س ي", "bs": "zaboravio je", "en": "forgot" },
+        { "w": "الْمَلَلَ", "root": "م ل ل", "bs": "dosadu", "en": "boredom" },
+        { "w": "اسْتَمَرَّ", "root": "م ر ر", "bs": "nastavio je", "en": "continued" },
+        { "w": "الْقِرَاءَةِ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" }
+      ]
     }
   ],
   "metadata": {

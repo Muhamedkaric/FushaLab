@@ -6,31 +6,129 @@
     {
       "arabic": "نَسِيَتْ هِنْدٌ كِتَابَهَا فِي البَيْتِ.",
       "translation": "Hind je zaboravila svoju knjigu kod kuće.",
-      "translationEn": "Hind forgot her book at home."
+      "translationEn": "Hind forgot her book at home.",
+      "words": [
+        {
+          "w": "نَسِيَتْ",
+          "root": "ن س ي",
+          "bs": "zaboravila",
+          "en": "forgot"
+        },
+        {
+          "w": "كِتَابَهَا",
+          "root": "ك ت ب",
+          "bs": "svoju knjigu",
+          "en": "her book"
+        },
+        {
+          "w": "البَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "home"
+        }
+      ]
     },
     {
       "arabic": "شَارَكَتْهَا صَدِيقَتُهَا الكِتَابَ طَوَالَ الدَّرْسِ.",
       "translation": "Prijateljica je dijelila s njom knjigu tokom cijelog časa.",
-      "translationEn": "Her friend shared the book with her throughout the lesson."
+      "translationEn": "Her friend shared the book with her throughout the lesson.",
+      "words": [
+        {
+          "w": "شَارَكَتْهَا",
+          "root": "ش ر ك",
+          "bs": "dijelila s njom",
+          "en": "shared with her"
+        },
+        {
+          "w": "صَدِيقَتُهَا",
+          "root": "ص د ق",
+          "bs": "njena prijateljica",
+          "en": "her friend"
+        },
+        {
+          "w": "الكِتَابَ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book"
+        },
+        {
+          "w": "الدَّرْسِ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "lesson"
+        }
+      ]
     },
     {
       "arabic": "قَالَتْ هِنْدٌ لِصَدِيقَتِهَا شُكْرًا جَزِيلًا.",
       "translation": "Hind je rekla prijateljici hvala lijepa.",
-      "translationEn": "Hind said to her friend many thanks."
+      "translationEn": "Hind said to her friend many thanks.",
+      "words": [
+        {
+          "w": "شُكْرًا",
+          "root": "ش ك ر",
+          "bs": "hvala",
+          "en": "thanks"
+        },
+        {
+          "w": "جَزِيلًا",
+          "root": "ج ز ل",
+          "bs": "lijepa/puno",
+          "en": "many"
+        }
+      ]
     },
     {
       "arabic": "قَالَتِ الصَّدِيقَةُ: لَا شُكْرَ عَلَى وَاجِبٍ.",
       "translation": "Prijateljica je rekla: Nema na čemu.",
-      "translationEn": "The friend said: Don't mention it."
+      "translationEn": "The friend said: Don't mention it.",
+      "words": [
+        {
+          "w": "الصَّدِيقَةُ",
+          "root": "ص د ق",
+          "bs": "prijateljica",
+          "en": "friend"
+        }
+      ]
     },
     {
       "arabic": "فِي اليَوْمِ التَّالِي لَمْ تَنْسَ هِنْدٌ كِتَابَهَا أَبَدًا.",
       "translation": "Sljedećeg dana Hind nikad više nije zaboravila knjigu.",
-      "translationEn": "The next day Hind never forgot her book again."
+      "translationEn": "The next day Hind never forgot her book again.",
+      "words": [
+        {
+          "w": "اليَوْمِ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "التَّالِي",
+          "root": "ت ل و",
+          "bs": "sljedeći",
+          "en": "following"
+        },
+        {
+          "w": "نَسِيَتْ",
+          "root": "ن س ي",
+          "bs": "zaboravila",
+          "en": "forgot"
+        },
+        {
+          "w": "كِتَابَهَا",
+          "root": "ك ت ب",
+          "bs": "svoju knjigu",
+          "en": "her book"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["friendship", "sharing", "lesson"]
+    "tags": [
+      "friendship",
+      "sharing",
+      "lesson"
+    ]
   }
 }

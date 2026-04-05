@@ -6,27 +6,54 @@
     {
       "arabic": "اسْتَيْقَظَ حَسَنٌ وَوَجَدَ كُلَّ أَلْعَابِهِ مُرَتَّبَةً.",
       "translation": "Hasan se probudio i pronašao sve svoje igračke poredane.",
-      "translationEn": "Hassan woke up and found all his toys tidied up."
+      "translationEn": "Hassan woke up and found all his toys tidied up.",
+      "words": [
+        { "w": "اسْتَيْقَظَ", "root": "ي ق ظ", "bs": "probudio se", "en": "he woke up" },
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "أَلْعَابِهِ", "root": "ل ع ب", "bs": "igračke", "en": "his toys" },
+        { "w": "مُرَتَّبَةً", "root": "ر ت ب", "bs": "poredane", "en": "tidied up" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْأَلْعَابُ فِي فَوْضَى كَبِيرَةٍ قَبْلَ أَنْ يَنَامَ.",
       "translation": "Igračke su bile u velikom neredu prije nego što je zaspao.",
-      "translationEn": "The toys had been in a big mess before he went to sleep."
+      "translationEn": "The toys had been in a big mess before he went to sleep.",
+      "words": [
+        { "w": "الْأَلْعَابُ", "root": "ل ع ب", "bs": "igračke", "en": "the toys" },
+        { "w": "فَوْضَى", "root": "ف و ض", "bs": "neredu", "en": "mess" },
+        { "w": "كَبِيرَةٍ", "root": "ك ب ر", "bs": "velikom", "en": "big" },
+        { "w": "يَنَامَ", "root": "ن و م", "bs": "zaspe", "en": "sleep" }
+      ]
     },
     {
       "arabic": "تَعَجَّبَ كَثِيرًا وَنَادَى أُمَّهُ.",
       "translation": "Mnogo se začudio i pozvao majku.",
-      "translationEn": "He was very surprised and called his mother."
+      "translationEn": "He was very surprised and called his mother.",
+      "words": [
+        { "w": "تَعَجَّبَ", "root": "ع ج ب", "bs": "začudio se", "en": "he was surprised" },
+        { "w": "نَادَى", "root": "ن د و", "bs": "pozvao je", "en": "he called" }
+      ]
     },
     {
       "arabic": "قَالَتِ الْأُمُّ: رَتَّبَتْهَا أُخْتُكَ بَعْدَ أَنْ نِمْتَ.",
       "translation": "Majka je rekla: Tvoja sestra ih je pospremila nakon što si zaspao.",
-      "translationEn": "The mother said: Your sister tidied them after you fell asleep."
+      "translationEn": "The mother said: Your sister tidied them after you fell asleep.",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "she said" },
+        { "w": "رَتَّبَتْهَا", "root": "ر ت ب", "bs": "pospremila ih je", "en": "tidied them" },
+        { "w": "أُخْتُكَ", "root": "أ خ ت", "bs": "sestra", "en": "your sister" }
+      ]
     },
     {
       "arabic": "ذَهَبَ حَسَنٌ وَقَبَّلَ أُخْتَهُ وَشَكَرَهَا.",
       "translation": "Hasan je otišao, poljubio sestru i zahvalio joj.",
-      "translationEn": "Hassan went and kissed his sister and thanked her."
+      "translationEn": "Hassan went and kissed his sister and thanked her.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "he went" },
+        { "w": "قَبَّلَ", "root": "ق ب ل", "bs": "poljubio je", "en": "he kissed" },
+        { "w": "أُخْتَهُ", "root": "أ خ ت", "bs": "sestru", "en": "his sister" },
+        { "w": "شَكَرَهَا", "root": "ش ك ر", "bs": "zahvalio joj je", "en": "he thanked her" }
+      ]
     }
   ],
   "metadata": {

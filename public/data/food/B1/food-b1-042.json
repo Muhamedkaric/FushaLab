@@ -6,22 +6,48 @@
     {
       "arabic": "طَبَخَتِ الْأُمُّ الْبَازِلَّاءَ بِالزَّيْتِ وَالثُّومِ.",
       "translation": "Majka je skuhala grašak s uljem i bijelim lukom.",
-      "translationEn": "The mother cooked peas with oil and garlic."
+      "translationEn": "The mother cooked peas with oil and garlic.",
+      "words": [
+        { "w": "طَبَخَتِ", "root": "ط ب خ", "bs": "skuhala je", "en": "cooked" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "الْبَازِلَّاءَ", "root": "ب ز ل", "bs": "grašak", "en": "peas" },
+        { "w": "الزَّيْتِ", "root": "ز ي ت", "bs": "ulje", "en": "oil" },
+        { "w": "الثُّومِ", "root": "ث و م", "bs": "bijeli luk/češnjak", "en": "garlic" }
+      ]
     },
     {
       "arabic": "كَانَتِ الرَّائِحَةُ شَهِيَّةً وَمَلَأَتِ الْمَطْبَخَ.",
       "translation": "Miris je bio ukusan i ispunio je kuhinju.",
-      "translationEn": "The smell was appetizing and filled the kitchen."
+      "translationEn": "The smell was appetizing and filled the kitchen.",
+      "words": [
+        { "w": "الرَّائِحَةُ", "root": "ر و ح", "bs": "miris", "en": "smell/aroma" },
+        { "w": "شَهِيَّةً", "root": "ش ه و", "bs": "ukusnu/apetitnu", "en": "appetizing" },
+        { "w": "مَلَأَتِ", "root": "م ل أ", "bs": "ispunila je", "en": "filled" },
+        { "w": "الْمَطْبَخَ", "root": "ط ب خ", "bs": "kuhinja", "en": "kitchen" }
+      ]
     },
     {
       "arabic": "جَاءَ الْأَبُ مُتْعَبًا مِنَ الْعَمَلِ وَشَمَّ الرَّائِحَةَ.",
       "translation": "Otac je došao umoran s posla i nanjušio miris.",
-      "translationEn": "The father came tired from work and smelled the aroma."
+      "translationEn": "The father came tired from work and smelled the aroma.",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došao je", "en": "came" },
+        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "مُتْعَبًا", "root": "ت ع ب", "bs": "umoran", "en": "tired" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
+        { "w": "شَمَّ", "root": "ش م م", "bs": "nanjušio je/osjetio miris", "en": "smelled" }
+      ]
     },
     {
       "arabic": "قَالَ: يَا سَلَامَ هَذِهِ رَائِحَةُ الطَّعَامِ الْمَنْزِلِيِّ.",
       "translation": "Rekao je: Bravo, ovo je miris domaće hrane.",
-      "translationEn": "He said: Wonderful, this is the smell of home cooking."
+      "translationEn": "He said: Wonderful, this is the smell of home cooking.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "رَائِحَةُ", "root": "ر و ح", "bs": "miris", "en": "smell" },
+        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
+        { "w": "الْمَنْزِلِيِّ", "root": "ن ز ل", "bs": "domaće/kućnog", "en": "home/homemade" }
+      ]
     }
   ],
   "metadata": {

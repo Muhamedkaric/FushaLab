@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَتْ بِنْتٌ اسْمُهَا لُجَيْنُ تُحِبُّ الرَّسْمَ.",
       "translation": "Bila je djevojčica po imenu Ludžejn koja je voljela crtanje.",
-      "translationEn": "There was a girl named Lujain who loved drawing."
+      "translationEn": "There was a girl named Lujain who loved drawing.",
+      "words": [
+        { "w": "بِنْتٌ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
+        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voljela je", "en": "loved" },
+        { "w": "الرَّسْمَ", "root": "ر س م", "bs": "crtanje", "en": "drawing" }
+      ]
     },
     {
       "arabic": "رَسَمَتْ صُورَةً لِلسَّمَاءِ وَالشَّجَرِ وَالنَّهْرِ.",
       "translation": "Nacrtala je sliku neba, stabla i rijeke.",
-      "translationEn": "She drew a picture of the sky, trees, and river."
+      "translationEn": "She drew a picture of the sky, trees, and river.",
+      "words": [
+        { "w": "رَسَمَتْ", "root": "ر س م", "bs": "nacrtala je", "en": "drew" },
+        { "w": "صُورَةً", "root": "ص و ر", "bs": "slika", "en": "picture" },
+        { "w": "السَّمَاءِ", "root": "س م و", "bs": "nebo", "en": "sky" },
+        { "w": "الشَّجَرِ", "root": "ش ج ر", "bs": "stabla", "en": "trees" },
+        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "river" }
+      ]
     },
     {
       "arabic": "أَرَتِ الصُّورَةَ لِمُعَلِّمَتِهَا فَأُعْجِبَتْ بِهَا كَثِيرًا.",
       "translation": "Pokazala je sliku učiteljici koja joj se jako svidjela.",
-      "translationEn": "She showed the picture to her teacher who admired it very much."
+      "translationEn": "She showed the picture to her teacher who admired it very much.",
+      "words": [
+        { "w": "أَرَتِ", "root": "ر أ ي", "bs": "pokazala je", "en": "showed" },
+        { "w": "الصُّورَةَ", "root": "ص و ر", "bs": "sliku", "en": "picture" },
+        { "w": "مُعَلِّمَتِهَا", "root": "ع ل م", "bs": "njena učiteljica", "en": "her teacher" },
+        { "w": "أُعْجِبَتْ", "root": "ع ج ب", "bs": "svidjela joj se", "en": "admired" }
+      ]
     },
     {
       "arabic": "عُلِّقَتِ الصُّورَةُ عَلَى جِدَارِ الْفَصْلِ وَفَرِحَتْ لُجَيْنُ.",
       "translation": "Slika je okačena na zid učionice i Ludžejn se obradovala.",
-      "translationEn": "The picture was hung on the classroom wall and Lujain was happy."
+      "translationEn": "The picture was hung on the classroom wall and Lujain was happy.",
+      "words": [
+        { "w": "عُلِّقَتِ", "root": "ع ل ق", "bs": "okačena je", "en": "was hung" },
+        { "w": "الصُّورَةُ", "root": "ص و ر", "bs": "slika", "en": "picture" },
+        { "w": "جِدَارِ", "root": "ج د ر", "bs": "zid", "en": "wall" },
+        { "w": "الْفَصْلِ", "root": "ف ص ل", "bs": "učionica", "en": "classroom" },
+        { "w": "فَرِحَتْ", "root": "ف ر ح", "bs": "obradovala se", "en": "was happy" }
+      ]
     }
   ],
   "metadata": {

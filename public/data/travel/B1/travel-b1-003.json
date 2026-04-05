@@ -6,22 +6,42 @@
     {
       "arabic": "سَأَلَ عُمَرُ رَجُلًا عَنِ الطَّرِيقِ إِلَى الْمَتْحَفِ.",
       "translation": "Omer je pitao čovjeka za put do muzeja.",
-      "translationEn": "Omar asked a man for directions to the museum."
+      "translationEn": "Omar asked a man for directions to the museum.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put / pravac", "en": "road / way" },
+        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" }
+      ]
     },
     {
       "arabic": "قَالَ الرَّجُلُ: امْشِ إِلَى الْيَمِينِ ثُمَّ إِلَى الْيَسَارِ.",
       "translation": "Čovjek je rekao: Idi desno pa lijevo.",
-      "translationEn": "The man said: Go right then left."
+      "translationEn": "The man said: Go right then left.",
+      "words": [
+        { "w": "امْشِ", "root": "م ش ي", "bs": "idi / hodaj", "en": "walk / go" },
+        { "w": "الْيَمِينِ", "root": "ي م ن", "bs": "desno", "en": "right" },
+        { "w": "الْيَسَارِ", "root": "ي س ر", "bs": "lijevo", "en": "left" }
+      ]
     },
     {
       "arabic": "شَكَرَ عُمَرُ الرَّجُلَ وَمَشَى بِسُرْعَةٍ.",
       "translation": "Omer mu je zahvalio i brzo krenuo.",
-      "translationEn": "Omar thanked the man and walked quickly."
+      "translationEn": "Omar thanked the man and walked quickly.",
+      "words": [
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "مَشَى", "root": "م ش ي", "bs": "hodao je", "en": "walked" },
+        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+      ]
     },
     {
       "arabic": "وَصَلَ إِلَى الْمَتْحَفِ بَعْدَ عَشْرِ دَقَائِقَ.",
       "translation": "Stigao je do muzeja nakon deset minuta.",
-      "translationEn": "He reached the museum after ten minutes."
+      "translationEn": "He reached the museum after ten minutes.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" },
+        { "w": "دَقَائِقَ", "root": "د ق ق", "bs": "minuta", "en": "minutes" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ الصَّيَّادُ يَذْهَبُ إِلَى الْبَحْرِ كُلَّ صَبَاحٍ.",
       "translation": "Ribar je odlazio na more svako jutro.",
-      "translationEn": "The fisherman used to go to the sea every morning."
+      "translationEn": "The fisherman used to go to the sea every morning.",
+      "words": [
+        { "w": "الصَّيَّادُ", "root": "ص ي د", "bs": "ribar", "en": "the fisherman" },
+        { "w": "يَذْهَبُ", "root": "ذ ه ب", "bs": "odlazi", "en": "goes" },
+        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "the sea" },
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "كَانَ يَرْكَبُ قَارِبًا صَغِيرًا مِنَ الْخَشَبِ.",
       "translation": "Plovio je malim drvenim čamcem.",
-      "translationEn": "He would ride a small wooden boat."
+      "translationEn": "He would ride a small wooden boat.",
+      "words": [
+        { "w": "يَرْكَبُ", "root": "ر ك ب", "bs": "vozi se", "en": "rides" },
+        { "w": "قَارِبًا", "root": "ق ر ب", "bs": "čamac", "en": "a boat" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "الْخَشَبِ", "root": "خ ش ب", "bs": "drvo", "en": "wood" }
+      ]
     },
     {
       "arabic": "صَادَ السَّمَكَ وَعَادَ إِلَى بَيْتِهِ فِي الْمَسَاءِ.",
       "translation": "Lovio je ribu i vraćao se kući navečer.",
-      "translationEn": "He caught fish and returned home in the evening."
+      "translationEn": "He caught fish and returned home in the evening.",
+      "words": [
+        { "w": "صَادَ", "root": "ص ي د", "bs": "lovio je", "en": "caught" },
+        { "w": "السَّمَكَ", "root": "س م ك", "bs": "ribu", "en": "fish" },
+        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
+        { "w": "الْمَسَاءِ", "root": "م س و", "bs": "večer", "en": "the evening" }
+      ]
     },
     {
       "arabic": "بَاعَ جُزْءًا مِنَ السَّمَكِ فِي السُّوقِ.",
       "translation": "Dio ribe prodavao je na tržnici.",
-      "translationEn": "He sold part of the fish in the market."
+      "translationEn": "He sold part of the fish in the market.",
+      "words": [
+        { "w": "بَاعَ", "root": "ب ي ع", "bs": "prodavao je", "en": "sold" },
+        { "w": "جُزْءًا", "root": "ج ز أ", "bs": "dio", "en": "a part" },
+        { "w": "السَّمَكِ", "root": "س م ك", "bs": "ribe", "en": "the fish" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "tržnica", "en": "the market" }
+      ]
     }
   ],
   "metadata": {

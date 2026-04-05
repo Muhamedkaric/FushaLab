@@ -6,22 +6,108 @@
     {
       "arabic": "ذَهَبَ أَحْمَدُ إِلَى الْمَسْجِدِ وَسَلَّمَ عَلَى النَّاسِ.",
       "translation": "Ahmed je otišao u džamiju i pozdravio ljude.",
-      "translationEn": "Ahmad went to the mosque and greeted the people."
+      "translationEn": "Ahmad went to the mosque and greeted the people.",
+      "words": [
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "root": "س ج د",
+          "bs": "džamiju",
+          "en": "the mosque"
+        },
+        {
+          "w": "سَلَّمَ",
+          "root": "س ل م",
+          "bs": "pozdravio je",
+          "en": "greeted"
+        },
+        {
+          "w": "النَّاسِ",
+          "root": "ن و س",
+          "bs": "ljude",
+          "en": "the people"
+        }
+      ]
     },
     {
       "arabic": "قَالَ: السَّلَامُ عَلَيْكُمْ وَرَدَّ عَلَيْهِ الْجَمِيعُ.",
       "translation": "Rekao je: Es-selamu alejkum i svi su mu uzvratili.",
-      "translationEn": "He said: Peace be upon you and everyone responded."
+      "translationEn": "He said: Peace be upon you and everyone responded.",
+      "words": [
+        {
+          "w": "السَّلَامُ عَلَيْكُمْ",
+          "root": "س ل م",
+          "bs": "es-selamu alejkum",
+          "en": "peace be upon you"
+        },
+        {
+          "w": "رَدَّ",
+          "root": "ر د د",
+          "bs": "uzvratili su",
+          "en": "responded"
+        },
+        {
+          "w": "الْجَمِيعُ",
+          "root": "ج م ع",
+          "bs": "svi",
+          "en": "everyone"
+        }
+      ]
     },
     {
       "arabic": "جَلَسَ مَعَ أَصْدِقَائِهِ وَتَحَدَّثُوا قَبْلَ الصَّلَاةِ.",
       "translation": "Sjeo je s prijateljima i razgovarali su prije namaza.",
-      "translationEn": "He sat with his friends and they talked before the prayer."
+      "translationEn": "He sat with his friends and they talked before the prayer.",
+      "words": [
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjeo je",
+          "en": "sat"
+        },
+        {
+          "w": "أَصْدِقَائِهِ",
+          "root": "ص د ق",
+          "bs": "prijatelja",
+          "en": "his friends"
+        },
+        {
+          "w": "تَحَدَّثُوا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked"
+        },
+        {
+          "w": "الصَّلَاةِ",
+          "root": "ص ل و",
+          "bs": "namaza",
+          "en": "prayer"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ: الْمَسْجِدُ بَيْتُ اللَّهِ وَبَيْتُنَا أَيْضًا.",
       "translation": "Kaže: Džamija je Allahova kuća i naša kuća također.",
-      "translationEn": "He says: The mosque is God's house and our house too."
+      "translationEn": "He says: The mosque is God's house and our house too.",
+      "words": [
+        {
+          "w": "الْمَسْجِدُ",
+          "root": "س ج د",
+          "bs": "džamija",
+          "en": "the mosque"
+        },
+        {
+          "w": "بَيْتُ اللَّهِ",
+          "root": "ب ي ت",
+          "bs": "Allahova kuća",
+          "en": "God's house"
+        }
+      ]
     }
   ],
   "metadata": {

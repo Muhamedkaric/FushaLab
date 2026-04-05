@@ -6,27 +6,55 @@
     {
       "arabic": "اجْتَمَعَ الطُّلَّابُ فِي مَنْزِلِ جَمَالٍ لِلْمُذَاكَرَةِ.",
       "translation": "Studenti su se skupili u Džemalovoj kući za učenje.",
-      "translationEn": "The students gathered at Jamal's house to study."
+      "translationEn": "The students gathered at Jamal's house to study.",
+      "words": [
+        { "w": "اجْتَمَعَ", "root": "ج م ع", "bs": "skupili su se", "en": "gathered" },
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "studenti", "en": "students" },
+        { "w": "مَنْزِلِ", "root": "ن ز ل", "bs": "kući", "en": "house" },
+        { "w": "لِلْمُذَاكَرَةِ", "root": "ذ ك ر", "bs": "za učenje", "en": "to study" }
+      ]
     },
     {
       "arabic": "قَسَّمُوا الدُّرُوسَ بَيْنَهُمْ.",
       "translation": "Podijelili su lekcije između sebe.",
-      "translationEn": "They divided the lessons among themselves."
+      "translationEn": "They divided the lessons among themselves.",
+      "words": [
+        { "w": "قَسَّمُوا", "root": "ق س م", "bs": "podijelili su", "en": "they divided" },
+        { "w": "الدُّرُوسَ", "root": "د ر س", "bs": "lekcije", "en": "lessons" }
+      ]
     },
     {
       "arabic": "شَرَحَ كُلُّ وَاحِدٍ جُزْءَهُ لِلْآخَرِينَ.",
       "translation": "Svako je objasnio svoj dio drugima.",
-      "translationEn": "Each one explained their part to the others."
+      "translationEn": "Each one explained their part to the others.",
+      "words": [
+        { "w": "شَرَحَ", "root": "ش ر ح", "bs": "objasnio je", "en": "explained" },
+        { "w": "وَاحِدٍ", "root": "و ح د", "bs": "jedan", "en": "one" },
+        { "w": "جُزْءَهُ", "root": "ج ز أ", "bs": "dio", "en": "part" },
+        { "w": "لِلْآخَرِينَ", "root": "أ خ ر", "bs": "drugima", "en": "to the others" }
+      ]
     },
     {
       "arabic": "أَنْهَوُا المُذَاكَرَةَ وَشَعَرُوا بِالثِّقَةِ.",
       "translation": "Završili su s učenjem i osjećali se sigurno.",
-      "translationEn": "They finished studying and felt confident."
+      "translationEn": "They finished studying and felt confident.",
+      "words": [
+        { "w": "أَنْهَوُا", "root": "ن هـ ي", "bs": "završili su", "en": "they finished" },
+        { "w": "المُذَاكَرَةَ", "root": "ذ ك ر", "bs": "učenje", "en": "studying" },
+        { "w": "شَعَرُوا", "root": "ش ع ر", "bs": "osjećali su se", "en": "they felt" },
+        { "w": "بِالثِّقَةِ", "root": "ث ق و", "bs": "sigurno", "en": "confident" }
+      ]
     },
     {
       "arabic": "الدِّرَاسَةُ الجَمَاعِيَّةُ أَفْضَلُ مِنَ الدِّرَاسَةِ الفَرْدِيَّةِ.",
       "translation": "Grupno učenje je bolje od individualnog učenja.",
-      "translationEn": "Group studying is better than studying alone."
+      "translationEn": "Group studying is better than studying alone.",
+      "words": [
+        { "w": "الدِّرَاسَةُ", "root": "د ر س", "bs": "učenje", "en": "studying" },
+        { "w": "الجَمَاعِيَّةُ", "root": "ج م ع", "bs": "grupno", "en": "group" },
+        { "w": "أَفْضَلُ", "root": "ف ض ل", "bs": "bolje", "en": "better" },
+        { "w": "الفَرْدِيَّةِ", "root": "ف ر د", "bs": "individualnog", "en": "individual" }
+      ]
     }
   ],
   "metadata": {

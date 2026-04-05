@@ -6,22 +6,47 @@
     {
       "arabic": "اعْتَذَرَ مَاجِدٌ عَنْ خَطَأٍ ارْتَكَبَهُ مَعَ صَدِيقِهِ.",
       "translation": "Majid se izvinio za grešku koju je napravio prema prijatelju.",
-      "translationEn": "Majid apologised for a mistake he had made with his friend."
+      "translationEn": "Majid apologised for a mistake he had made with his friend.",
+      "words": [
+        { "w": "اعْتَذَرَ", "root": "ع ذ ر", "bs": "izvinio se", "en": "apologised" },
+        { "w": "خَطَأٍ", "root": "خ ط أ", "bs": "greška", "en": "a mistake" },
+        { "w": "ارْتَكَبَهُ", "root": "ر ك ب", "bs": "napravio ga je", "en": "made" },
+        { "w": "صَدِيقِهِ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" }
+      ]
     },
     {
       "arabic": "كَانَ الاعْتِذَارُ صَعْبًا لَكِنَّهُ فَعَلَهُ.",
       "translation": "Izvinjenje je bilo teško ali ga je ipak izrekao.",
-      "translationEn": "The apology was difficult but he did it."
+      "translationEn": "The apology was difficult but he did it.",
+      "words": [
+        { "w": "الاعْتِذَارُ", "root": "ع ذ ر", "bs": "izvinjenje", "en": "the apology" },
+        { "w": "صَعْبًا", "root": "ص ع ب", "bs": "teško", "en": "difficult" },
+        { "w": "فَعَلَهُ", "root": "ف ع ل", "bs": "uradio ga je", "en": "did it" }
+      ]
     },
     {
       "arabic": "قَبِلَ الصَّدِيقُ الاعْتِذَارَ وَعَادَتِ الصَّدَاقَةُ.",
       "translation": "Prijatelj je prihvatio izvinjenje i prijateljstvo se obnovilo.",
-      "translationEn": "The friend accepted the apology and the friendship returned."
+      "translationEn": "The friend accepted the apology and the friendship returned.",
+      "words": [
+        { "w": "قَبِلَ", "root": "ق ب ل", "bs": "prihvatio je", "en": "accepted" },
+        { "w": "الصَّدِيقُ", "root": "ص د ق", "bs": "prijatelj", "en": "the friend" },
+        { "w": "الاعْتِذَارَ", "root": "ع ذ ر", "bs": "izvinjenje", "en": "the apology" },
+        { "w": "الصَّدَاقَةُ", "root": "ص د ق", "bs": "prijateljstvo", "en": "friendship" }
+      ]
     },
     {
       "arabic": "الاعْتِذَارُ يَجْعَلُ الْقَلْبَ أَخَفَّ وَالْعَلَاقَةَ أَقْوَى.",
       "translation": "Izvinjenje čini srce lakšim a odnos jačim.",
-      "translationEn": "An apology makes the heart lighter and the relationship stronger."
+      "translationEn": "An apology makes the heart lighter and the relationship stronger.",
+      "words": [
+        { "w": "الاعْتِذَارُ", "root": "ع ذ ر", "bs": "izvinjenje", "en": "an apology" },
+        { "w": "يَجْعَلُ", "root": "ج ع ل", "bs": "čini", "en": "makes" },
+        { "w": "الْقَلْبَ", "root": "ق ل ب", "bs": "srce", "en": "the heart" },
+        { "w": "أَخَفَّ", "root": "خ ف ف", "bs": "lakšim", "en": "lighter" },
+        { "w": "الْعَلَاقَةَ", "root": "ع ل ق", "bs": "odnos", "en": "the relationship" },
+        { "w": "أَقْوَى", "root": "ق و و", "bs": "jačim", "en": "stronger" }
+      ]
     }
   ],
   "metadata": {

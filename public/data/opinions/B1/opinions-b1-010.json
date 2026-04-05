@@ -6,22 +6,48 @@
     {
       "arabic": "أَظُنُّ أَنَّ احْتِرَامَ الْكِبَارِ وَاجِبٌ عَلَى كُلِّ شَخْصٍ.",
       "translation": "Mislim da je poštivanje starijih obaveza svake osobe.",
-      "translationEn": "I think that respecting elders is an obligation for every person."
+      "translationEn": "I think that respecting elders is an obligation for every person.",
+      "words": [
+        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
+        { "w": "احْتِرَامَ", "root": "ح ر م", "bs": "poštivanje", "en": "respecting" },
+        { "w": "الْكِبَارِ", "root": "ك ب ر", "bs": "starijih", "en": "elders" },
+        { "w": "وَاجِبٌ", "root": "و ج ب", "bs": "obaveza", "en": "obligation" },
+        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osobe", "en": "person" }
+      ]
     },
     {
       "arabic": "الْكِبَارُ عِنْدَهُمْ تَجْرِبَةٌ كَبِيرَةٌ نَسْتَفِيدُ مِنْهَا.",
       "translation": "Stariji imaju veliko iskustvo od kojeg možemo imati koristi.",
-      "translationEn": "Elders have great experience that we can benefit from."
+      "translationEn": "Elders have great experience that we can benefit from.",
+      "words": [
+        { "w": "الْكِبَارُ", "root": "ك ب ر", "bs": "stariji", "en": "elders" },
+        { "w": "تَجْرِبَةٌ", "root": "ج ر ب", "bs": "iskustvo", "en": "experience" },
+        { "w": "كَبِيرَةٌ", "root": "ك ب ر", "bs": "veliko", "en": "great" },
+        { "w": "نَسْتَفِيدُ", "root": "ف ي د", "bs": "imamo koristi", "en": "we benefit" }
+      ]
     },
     {
       "arabic": "أُحِبُّ أَنْ أَجْلِسَ مَعَ جَدِّي وَأَسْمَعَ قِصَصَهُ.",
       "translation": "Volim sjediti s djedom i slušati njegove priče.",
-      "translationEn": "I like to sit with my grandfather and listen to his stories."
+      "translationEn": "I like to sit with my grandfather and listen to his stories.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "أَجْلِسَ", "root": "ج ل س", "bs": "sjediti", "en": "to sit" },
+        { "w": "أَسْمَعَ", "root": "س م ع", "bs": "slušati", "en": "to listen" },
+        { "w": "قِصَصَهُ", "root": "ق ص ص", "bs": "priče", "en": "his stories" }
+      ]
     },
     {
       "arabic": "كَلَامُ الْكِبَارِ يُعَلِّمُنَا أَشْيَاءَ لَا تُوجَدُ فِي الْكُتُبِ.",
       "translation": "Govor starijih nas uči stvarima koje ne postoje u knjigama.",
-      "translationEn": "The words of elders teach us things that are not found in books."
+      "translationEn": "The words of elders teach us things that are not found in books.",
+      "words": [
+        { "w": "كَلَامُ", "root": "ك ل م", "bs": "govor/riječi", "en": "words" },
+        { "w": "الْكِبَارِ", "root": "ك ب ر", "bs": "starijih", "en": "elders" },
+        { "w": "يُعَلِّمُنَا", "root": "ع ل م", "bs": "uči nas", "en": "teaches us" },
+        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvarima", "en": "things" },
+        { "w": "الْكُتُبِ", "root": "ك ت ب", "bs": "knjigama", "en": "books" }
+      ]
     }
   ],
   "metadata": {

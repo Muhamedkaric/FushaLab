@@ -27,10 +27,18 @@ export interface ContentMetadata {
   source?: string
 }
 
+export interface WordAnnotation {
+  w: string      // exact vocalized form as it appears in the sentence
+  root?: string  // trilateral root, e.g. "د ر س" (optional for non-root words)
+  bs: string     // Bosnian meaning
+  en: string     // English meaning
+}
+
 export interface Sentence {
   arabic: string
   translation: string // Bosnian
   translationEn: string // English
+  words?: WordAnnotation[] // content words only — skip function words and proper nouns
 }
 
 export interface ContentItem {

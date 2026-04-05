@@ -6,22 +6,45 @@
     {
       "arabic": "أَظُنُّ أَنَّ الضَّحِكَ دَوَاءٌ لِلنَّفْسِ.",
       "translation": "Mislim da je smijeh lijek za dušu.",
-      "translationEn": "I think that laughter is medicine for the soul."
+      "translationEn": "I think that laughter is medicine for the soul.",
+      "words": [
+        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
+        { "w": "الضَّحِكَ", "root": "ض ح ك", "bs": "smijeh", "en": "laughter" },
+        { "w": "دَوَاءٌ", "root": "د و ي", "bs": "lijek", "en": "medicine" },
+        { "w": "لِلنَّفْسِ", "root": "ن ف س", "bs": "za dušu", "en": "for the soul" }
+      ]
     },
     {
       "arabic": "يَوْمٌ بِدُونِ ضَحِكٍ يَوْمٌ مَفْقُودٌ.",
       "translation": "Dan bez smijeha je izgubljen dan.",
-      "translationEn": "A day without laughter is a lost day."
+      "translationEn": "A day without laughter is a lost day.",
+      "words": [
+        { "w": "يَوْمٌ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "ضَحِكٍ", "root": "ض ح ك", "bs": "smijeh", "en": "laughter" },
+        { "w": "مَفْقُودٌ", "root": "ف ق د", "bs": "izgubljen", "en": "lost" }
+      ]
     },
     {
       "arabic": "أُحِبُّ أَنْ أَجْلِسَ مَعَ النَّاسِ الَّذِينَ يَجْلِبُونَ الْبَهْجَةَ.",
       "translation": "Volim sjediti s ljudima koji donose radost.",
-      "translationEn": "I like to sit with people who bring joy."
+      "translationEn": "I like to sit with people who bring joy.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "أَجْلِسَ", "root": "ج ل س", "bs": "da sjedim", "en": "to sit" },
+        { "w": "يَجْلِبُونَ", "root": "ج ل ب", "bs": "donose", "en": "bring" },
+        { "w": "الْبَهْجَةَ", "root": "ب ه ج", "bs": "radost", "en": "joy" }
+      ]
     },
     {
       "arabic": "الضَّحِكُ مَعَ الْأَصْدِقَاءِ يَجْعَلُ أَصْعَبَ الْأَيَّامِ أَخَفَّ.",
       "translation": "Smijeh s prijateljima čini i najteže dane lakšim.",
-      "translationEn": "Laughing with friends makes the hardest days lighter."
+      "translationEn": "Laughing with friends makes the hardest days lighter.",
+      "words": [
+        { "w": "الضَّحِكُ", "root": "ض ح ك", "bs": "smijeh", "en": "laughing" },
+        { "w": "الْأَصْدِقَاءِ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
+        { "w": "يَجْعَلُ", "root": "ج ع ل", "bs": "čini", "en": "makes" },
+        { "w": "أَصْعَبَ", "root": "ص ع ب", "bs": "najteže", "en": "hardest" }
+      ]
     }
   ],
   "metadata": {

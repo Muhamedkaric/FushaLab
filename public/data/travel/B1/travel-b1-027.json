@@ -6,22 +6,46 @@
     {
       "arabic": "أَخَذَ طَارِقٌ سَيَّارَةَ الْأُجْرَةِ إِلَى وَسَطِ الْمَدِينَةِ.",
       "translation": "Tariq je uzeo taksi do centra grada.",
-      "translationEn": "Tariq took a taxi to the city center."
+      "translationEn": "Tariq took a taxi to the city center.",
+      "words": [
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "سَيَّارَةَ", "root": "س ي ر", "bs": "auto", "en": "car" },
+        { "w": "الْأُجْرَةِ", "root": "أ ج ر", "bs": "taksi / najam", "en": "taxi / hire" },
+        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "سَأَلَ السَّائِقَ عَنِ الْأَمَاكِنِ الْجَمِيلَةِ فِي الْمَدِينَةِ.",
       "translation": "Pitao je vozača o lijepim mjestima u gradu.",
-      "translationEn": "He asked the driver about beautiful places in the city."
+      "translationEn": "He asked the driver about beautiful places in the city.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "السَّائِقَ", "root": "س و ق", "bs": "vozač", "en": "driver" },
+        { "w": "الْأَمَاكِنِ", "root": "ك و ن", "bs": "mjesta", "en": "places" },
+        { "w": "الْجَمِيلَةِ", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "أَخْبَرَهُ السَّائِقُ عَنِ السُّوقِ الْقَدِيمِ وَالْمَتْحَفِ.",
       "translation": "Vozač mu je ispričao o staroj pijaci i muzeju.",
-      "translationEn": "The driver told him about the old market and the museum."
+      "translationEn": "The driver told him about the old market and the museum.",
+      "words": [
+        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "ispričao mu je", "en": "told him" },
+        { "w": "السَّائِقُ", "root": "س و ق", "bs": "vozač", "en": "driver" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca / tržnica", "en": "market" },
+        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" }
+      ]
     },
     {
       "arabic": "شَكَرَ طَارِقٌ السَّائِقَ وَنَزَلَ مِنَ السَّيَّارَةِ.",
       "translation": "Tariq je zahvalio vozaču i izašao iz auta.",
-      "translationEn": "Tariq thanked the driver and got out of the car."
+      "translationEn": "Tariq thanked the driver and got out of the car.",
+      "words": [
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "السَّائِقَ", "root": "س و ق", "bs": "vozač", "en": "driver" },
+        { "w": "نَزَلَ", "root": "ن ز ل", "bs": "izašao je", "en": "got out" },
+        { "w": "السَّيَّارَةِ", "root": "س ي ر", "bs": "auto", "en": "car" }
+      ]
     }
   ],
   "metadata": {

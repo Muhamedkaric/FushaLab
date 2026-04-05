@@ -6,22 +6,45 @@
     {
       "arabic": "دَخَلَتِ الْعَائِلَةُ إِلَى مَتْحَفٍ كَبِيرٍ فِي الْمَدِينَةِ.",
       "translation": "Porodica je ušla u veliki muzej u gradu.",
-      "translationEn": "The family entered a large museum in the city."
+      "translationEn": "The family entered a large museum in the city.",
+      "words": [
+        { "w": "دَخَلَتِ", "root": "د خ ل", "bs": "ušla je", "en": "entered" },
+        { "w": "مَتْحَفٍ", "root": "ت ح ف", "bs": "muzej", "en": "museum" },
+        { "w": "كَبِيرٍ", "root": "ك ب ر", "bs": "veliki", "en": "large" },
+        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "رَأَوْا صُوَرًا قَدِيمَةً وَأَشْيَاءَ تَارِيخِيَّةً.",
       "translation": "Vidjeli su stare slike i historijske predmete.",
-      "translationEn": "They saw old paintings and historical objects."
+      "translationEn": "They saw old paintings and historical objects.",
+      "words": [
+        { "w": "رَأَوْا", "root": "ر أ ي", "bs": "vidjeli su", "en": "saw" },
+        { "w": "صُوَرًا", "root": "ص و ر", "bs": "slike / fotografije", "en": "paintings / pictures" },
+        { "w": "قَدِيمَةً", "root": "ق د م", "bs": "stare", "en": "old" },
+        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "predmeti / stvari", "en": "objects / things" }
+      ]
     },
     {
       "arabic": "أَعْجَبَ الْأَطْفَالَ الْقِسْمُ الْخَاصُّ بِالْحَيَوَانَاتِ.",
       "translation": "Djeci se svidio odjel sa životinjama.",
-      "translationEn": "The children were impressed by the animal section."
+      "translationEn": "The children were impressed by the animal section.",
+      "words": [
+        { "w": "أَعْجَبَ", "root": "ع ج ب", "bs": "svidio se / oduševio", "en": "impressed / pleased" },
+        { "w": "الْقِسْمُ", "root": "ق س م", "bs": "odjel / sekcija", "en": "section / department" },
+        { "w": "الْحَيَوَانَاتِ", "root": "ح ي ي", "bs": "životinje", "en": "animals" }
+      ]
     },
     {
       "arabic": "قَضَوْا سَاعَتَيْنِ فِي الْمَتْحَفِ وَخَرَجُوا سُعَدَاءَ.",
       "translation": "Proveli su dva sata u muzeju i izašli sretni.",
-      "translationEn": "They spent two hours in the museum and left happy."
+      "translationEn": "They spent two hours in the museum and left happy.",
+      "words": [
+        { "w": "قَضَوْا", "root": "ق ض ي", "bs": "proveli su", "en": "spent" },
+        { "w": "سَاعَتَيْنِ", "root": "س و ع", "bs": "dva sata", "en": "two hours" },
+        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" },
+        { "w": "سُعَدَاءَ", "root": "س ع د", "bs": "sretni", "en": "happy" }
+      ]
     }
   ],
   "metadata": {

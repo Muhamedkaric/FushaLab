@@ -6,22 +6,46 @@
     {
       "arabic": "يُزَيِّنُ النَّاسُ بُيُوتَهُمْ بِالفَوَانِيسِ فِي رَمَضَانَ.",
       "translation": "Ljudi ukrašavaju svoje kuće fenjeriа u Ramazanu.",
-      "translationEn": "People decorate their homes with lanterns during Ramadan."
+      "translationEn": "People decorate their homes with lanterns during Ramadan.",
+      "words": [
+        { "w": "يُزَيِّنُ", "root": "ز ي ن", "bs": "ukrašavaju", "en": "decorate" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "بُيُوتَهُمْ", "root": "ب ي ت", "bs": "kuće", "en": "homes" },
+        { "w": "الفَوَانِيسِ", "root": "ف ن س", "bs": "fenjeri", "en": "lanterns" }
+      ]
     },
     {
       "arabic": "الفَانُوسُ رَمْزٌ شَهِيرٌ لِشَهْرِ رَمَضَانَ.",
       "translation": "Fenjer je poznati simbol mjeseca Ramazana.",
-      "translationEn": "The lantern is a famous symbol of the month of Ramadan."
+      "translationEn": "The lantern is a famous symbol of the month of Ramadan.",
+      "words": [
+        { "w": "الفَانُوسُ", "root": "ف ن س", "bs": "fenjer", "en": "lantern" },
+        { "w": "رَمْزٌ", "root": "ر م ز", "bs": "simbol", "en": "symbol" },
+        { "w": "شَهِيرٌ", "root": "ش هـ ر", "bs": "poznati", "en": "famous" },
+        { "w": "شَهْرِ", "root": "ش هـ ر", "bs": "mjeseca", "en": "month" }
+      ]
     },
     {
       "arabic": "يَحْمِلُ الأَطْفَالُ الفَوَانِيسَ فِي الشَّوَارِعِ.",
       "translation": "Djeca nose fenjere po ulicama.",
-      "translationEn": "Children carry lanterns through the streets."
+      "translationEn": "Children carry lanterns through the streets.",
+      "words": [
+        { "w": "يَحْمِلُ", "root": "ح م ل", "bs": "nose", "en": "carry" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "الفَوَانِيسَ", "root": "ف ن س", "bs": "fenjere", "en": "lanterns" },
+        { "w": "الشَّوَارِعِ", "root": "ش ر ع", "bs": "ulicama", "en": "streets" }
+      ]
     },
     {
       "arabic": "يُغَنُّونَ أَغَانِيَ رَمَضَانَ بِصَوْتٍ عَالٍ.",
       "translation": "Pjevaju ramazanske pjesme glasno.",
-      "translationEn": "They sing Ramadan songs loudly."
+      "translationEn": "They sing Ramadan songs loudly.",
+      "words": [
+        { "w": "يُغَنُّونَ", "root": "غ ن ي", "bs": "pjevaju", "en": "sing" },
+        { "w": "أَغَانِيَ", "root": "غ ن ي", "bs": "pjesme", "en": "songs" },
+        { "w": "بِصَوْتٍ", "root": "ص و ت", "bs": "glasno", "en": "voice" },
+        { "w": "عَالٍ", "root": "ع ل و", "bs": "visoko", "en": "loudly" }
+      ]
     }
   ],
   "metadata": {

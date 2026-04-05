@@ -6,22 +6,46 @@
     {
       "arabic": "أَرَادَ يَاسِرٌ أَنْ يَأْكُلَ شَيْئًا خَفِيفًا فِي الصَّبَاحِ.",
       "translation": "Jasir je htio nešto lagano pojesti ujutro.",
-      "translationEn": "Yasir wanted to eat something light in the morning."
+      "translationEn": "Yasir wanted to eat something light in the morning.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je/željeo", "en": "wanted" },
+        { "w": "يَأْكُلَ", "root": "أ ك ل", "bs": "da jede/pojede", "en": "to eat" },
+        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "nešto", "en": "something" },
+        { "w": "خَفِيفًا", "root": "خ ف ف", "bs": "lagano/lako", "en": "light" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "أَخَذَ كُوبًا مِنَ الزَّبَادِي وَمَوْزَةً.",
       "translation": "Uzeo je šolju jogurta i jednu bananu.",
-      "translationEn": "He took a cup of yogurt and a banana."
+      "translationEn": "He took a cup of yogurt and a banana.",
+      "words": [
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "كُوبًا", "root": "ك و ب", "bs": "šolja/čaša", "en": "cup" },
+        { "w": "الزَّبَادِي", "root": "ز ب د", "bs": "jogurt", "en": "yogurt" },
+        { "w": "مَوْزَةً", "root": "م و ز", "bs": "banana", "en": "banana" }
+      ]
     },
     {
       "arabic": "أَكَلَ بِسُرْعَةٍ لِأَنَّهُ كَانَ مُتَأَخِّرًا.",
       "translation": "Jeo je brzo jer je kasnio.",
-      "translationEn": "He ate quickly because he was late."
+      "translationEn": "He ate quickly because he was late.",
+      "words": [
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo je/pojeo", "en": "ate" },
+        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" },
+        { "w": "مُتَأَخِّرًا", "root": "أ خ ر", "bs": "zakasnio/kasni", "en": "late" }
+      ]
     },
     {
       "arabic": "خَرَجَ إِلَى الْعَمَلِ وَهُوَ يَشْعُرُ بِنَشَاطٍ.",
       "translation": "Otišao je na posao osjećajući se aktivnim.",
-      "translationEn": "He went to work feeling energetic."
+      "translationEn": "He went to work feeling energetic.",
+      "words": [
+        { "w": "خَرَجَ", "root": "خ ر ج", "bs": "izašao je/otišao", "en": "went/left" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
+        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
+        { "w": "بِنَشَاطٍ", "root": "ن ش ط", "bs": "aktivno/energično", "en": "energetically" }
+      ]
     }
   ],
   "metadata": {

@@ -6,26 +6,116 @@
     {
       "arabic": "ذَهَبَتْ لَيْلَى إِلَى المَدْرَسَةِ مَعَ أُمِّهَا.",
       "translation": "Lejla je otišla u školu s majkom.",
-      "translationEn": "Layla went to school with her mother."
+      "translationEn": "Layla went to school with her mother.",
+      "words": [
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla",
+          "en": "went"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        },
+        {
+          "w": "أُمِّهَا",
+          "root": "أ م م",
+          "bs": "njena majka",
+          "en": "her mother"
+        }
+      ]
     },
     {
       "arabic": "كَانَتِ الشَّمْسُ مُشْرِقَةً فِي ذَلِكَ الصَّبَاحِ.",
       "translation": "Sunce je sijalo tog jutra.",
-      "translationEn": "The sun was shining that morning."
+      "translationEn": "The sun was shining that morning.",
+      "words": [
+        {
+          "w": "الشَّمْسُ",
+          "root": "ش م س",
+          "bs": "sunce",
+          "en": "sun"
+        },
+        {
+          "w": "مُشْرِقَةً",
+          "root": "ش ر ق",
+          "bs": "koja sija",
+          "en": "shining"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning"
+        }
+      ]
     },
     {
       "arabic": "قَالَتْ لَيْلَى لِأُمِّهَا: أُحِبُّ المَدْرَسَةَ كَثِيرًا.",
       "translation": "Lejla je rekla majci: Jako volim školu.",
-      "translationEn": "Layla said to her mother: I love school very much."
+      "translationEn": "Layla said to her mother: I love school very much.",
+      "words": [
+        {
+          "w": "أُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "volim",
+          "en": "I love"
+        },
+        {
+          "w": "المَدْرَسَةَ",
+          "root": "د ر س",
+          "bs": "školu",
+          "en": "school"
+        },
+        {
+          "w": "كَثِيرًا",
+          "root": "ك ث ر",
+          "bs": "jako/mnogo",
+          "en": "very much"
+        }
+      ]
     },
     {
       "arabic": "اِبْتَسَمَتِ الأُمُّ وَوَدَّعَتْ ابْنَتَهَا عِنْدَ البَابِ.",
       "translation": "Majka se nasmiješila i oprostila od kćeri na vratima.",
-      "translationEn": "The mother smiled and said goodbye to her daughter at the door."
+      "translationEn": "The mother smiled and said goodbye to her daughter at the door.",
+      "words": [
+        {
+          "w": "اِبْتَسَمَتِ",
+          "root": "ب س م",
+          "bs": "nasmiješila se",
+          "en": "smiled"
+        },
+        {
+          "w": "وَدَّعَتْ",
+          "root": "و د ع",
+          "bs": "oprostila se",
+          "en": "said goodbye"
+        },
+        {
+          "w": "ابْنَتَهَا",
+          "root": "ب ن و",
+          "bs": "njena kćer",
+          "en": "her daughter"
+        },
+        {
+          "w": "البَابِ",
+          "root": "ب و ب",
+          "bs": "vrata",
+          "en": "door"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["morning-routine", "school", "family"]
+    "tags": [
+      "morning-routine",
+      "school",
+      "family"
+    ]
   }
 }

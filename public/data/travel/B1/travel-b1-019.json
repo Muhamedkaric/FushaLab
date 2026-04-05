@@ -6,22 +6,45 @@
     {
       "arabic": "أَرَادَ سَعِيدٌ أَنْ يَشْتَرِيَ تَذْكِرَةَ الْحَافِلَةِ.",
       "translation": "Saeed je htio kupiti kartu za autobus.",
-      "translationEn": "Saeed wanted to buy a bus ticket."
+      "translationEn": "Saeed wanted to buy a bus ticket.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "يَشْتَرِيَ", "root": "ش ر ي", "bs": "kupiti", "en": "to buy" },
+        { "w": "تَذْكِرَةَ", "root": "ذ ك ر", "bs": "karta", "en": "ticket" },
+        { "w": "الْحَافِلَةِ", "root": "ح ف ل", "bs": "autobus", "en": "bus" }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَى شِبَّاكِ التَّذَاكِرِ وَسَأَلَ عَنِ السِّعْرِ.",
       "translation": "Otišao je na šalter karata i pitao za cijenu.",
-      "translationEn": "He went to the ticket window and asked about the price."
+      "translationEn": "He went to the ticket window and asked about the price.",
+      "words": [
+        { "w": "شِبَّاكِ", "root": "ش ب ك", "bs": "šalter / blagajna", "en": "ticket window" },
+        { "w": "التَّذَاكِرِ", "root": "ذ ك ر", "bs": "karte", "en": "tickets" },
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "السِّعْرِ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+      ]
     },
     {
       "arabic": "اشْتَرَى تَذْكِرَةً لِلذِّهَابِ وَالْإِيَابِ.",
       "translation": "Kupio je kartu u oba smjera.",
-      "translationEn": "He bought a round-trip ticket."
+      "translationEn": "He bought a round-trip ticket.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "تَذْكِرَةً", "root": "ذ ك ر", "bs": "karta", "en": "ticket" },
+        { "w": "الذِّهَابِ", "root": "ذ ه ب", "bs": "odlazak", "en": "going / departure" },
+        { "w": "الْإِيَابِ", "root": "أ و ب", "bs": "povratak", "en": "return" }
+      ]
     },
     {
       "arabic": "جَلَسَ وَانْتَظَرَ الْحَافِلَةَ بِهُدُوءٍ.",
       "translation": "Sjeo je i mirno čekao autobus.",
-      "translationEn": "He sat and waited for the bus calmly."
+      "translationEn": "He sat and waited for the bus calmly.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
+        { "w": "انْتَظَرَ", "root": "ن ظ ر", "bs": "čekao je", "en": "waited" },
+        { "w": "الْحَافِلَةَ", "root": "ح ف ل", "bs": "autobus", "en": "bus" }
+      ]
     }
   ],
   "metadata": {

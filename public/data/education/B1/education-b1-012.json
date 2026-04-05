@@ -6,31 +6,153 @@
     {
       "arabic": "كَانَ دَرْسُ الرَّسْمِ يَوْمَ الأَرْبِعَاءِ.",
       "translation": "Čas crtanja bio je u srijedu.",
-      "translationEn": "The drawing class was on Wednesday."
+      "translationEn": "The drawing class was on Wednesday.",
+      "words": [
+        {
+          "w": "دَرْسُ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "lesson"
+        },
+        {
+          "w": "الرَّسْمِ",
+          "root": "ر س م",
+          "bs": "crtanje",
+          "en": "drawing"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَتِ المُعَلِّمَةُ كُلَّ طَالِبٍ وَرَقَةً وَأَقْلَامَ أَلْوَانٍ.",
       "translation": "Nastavnica je svakom učeniku dala papir i bojice.",
-      "translationEn": "The teacher gave each student paper and colored pencils."
+      "translationEn": "The teacher gave each student paper and colored pencils.",
+      "words": [
+        {
+          "w": "أَعْطَتِ",
+          "root": "ع ط و",
+          "bs": "dala",
+          "en": "gave"
+        },
+        {
+          "w": "المُعَلِّمَةُ",
+          "root": "ع ل م",
+          "bs": "nastavnica",
+          "en": "teacher"
+        },
+        {
+          "w": "وَرَقَةً",
+          "root": "و ر ق",
+          "bs": "papir",
+          "en": "paper"
+        },
+        {
+          "w": "أَقْلَامَ",
+          "root": "ق ل م",
+          "bs": "olovke",
+          "en": "pencils"
+        },
+        {
+          "w": "أَلْوَانٍ",
+          "root": "ل و ن",
+          "bs": "boje",
+          "en": "colors"
+        }
+      ]
     },
     {
       "arabic": "طَلَبَتْ مِنْهُمْ أَنْ يَرْسُمُوا مَنَازِلَهُمْ.",
       "translation": "Zamolila ih je da nacrtaju svoje kuće.",
-      "translationEn": "She asked them to draw their homes."
+      "translationEn": "She asked them to draw their homes.",
+      "words": [
+        {
+          "w": "طَلَبَتْ",
+          "root": "ط ل ب",
+          "bs": "zamolila",
+          "en": "asked"
+        },
+        {
+          "w": "يَرْسُمُوا",
+          "root": "ر س م",
+          "bs": "da nacrtaju",
+          "en": "to draw"
+        },
+        {
+          "w": "مَنَازِلَهُمْ",
+          "root": "ن ز ل",
+          "bs": "njihove kuće",
+          "en": "their homes"
+        }
+      ]
     },
     {
       "arabic": "رَسَمَ نُورٌ بَيْتًا كَبِيرًا بِأَلْوَانٍ جَمِيلَةٍ.",
       "translation": "Nur je nacrtao veliku kuću lijepim bojama.",
-      "translationEn": "Nour drew a big house with beautiful colors."
+      "translationEn": "Nour drew a big house with beautiful colors.",
+      "words": [
+        {
+          "w": "رَسَمَ",
+          "root": "ر س م",
+          "bs": "nacrtao",
+          "en": "drew"
+        },
+        {
+          "w": "بَيْتًا",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "house"
+        },
+        {
+          "w": "كَبِيرًا",
+          "root": "ك ب ر",
+          "bs": "veliku",
+          "en": "big"
+        },
+        {
+          "w": "بِأَلْوَانٍ",
+          "root": "ل و ن",
+          "bs": "bojama",
+          "en": "colors"
+        },
+        {
+          "w": "جَمِيلَةٍ",
+          "root": "ج م ل",
+          "bs": "lijepim",
+          "en": "beautiful"
+        }
+      ]
     },
     {
       "arabic": "عَلَّقَتِ المُعَلِّمَةُ الرُّسُومَاتِ عَلَى الجِدَارِ.",
       "translation": "Nastavnica je okačila crteže na zid.",
-      "translationEn": "The teacher hung the drawings on the wall."
+      "translationEn": "The teacher hung the drawings on the wall.",
+      "words": [
+        {
+          "w": "عَلَّقَتِ",
+          "root": "ع ل ق",
+          "bs": "okačila",
+          "en": "hung"
+        },
+        {
+          "w": "الرُّسُومَاتِ",
+          "root": "ر س م",
+          "bs": "crteži",
+          "en": "drawings"
+        },
+        {
+          "w": "الجِدَارِ",
+          "root": "ج د ر",
+          "bs": "zid",
+          "en": "wall"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["art", "drawing", "classroom"]
+    "tags": [
+      "art",
+      "drawing",
+      "classroom"
+    ]
   }
 }

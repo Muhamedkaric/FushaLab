@@ -6,22 +6,45 @@
     {
       "arabic": "رَكِبَتِ الْأُسْرَةُ الْقِطَارَ إِلَى الْقَرْيَةِ.",
       "translation": "Porodica je sjela u voz do sela.",
-      "translationEn": "The family took the train to the village."
+      "translationEn": "The family took the train to the village.",
+      "words": [
+        { "w": "رَكِبَتِ", "root": "ر ك ب", "bs": "sjeli su u / vozili su se", "en": "rode / took" },
+        { "w": "الْأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "الْقِطَارَ", "root": "ق ط ر", "bs": "voz", "en": "train" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" }
+      ]
     },
     {
       "arabic": "كَانَ الْقِطَارُ بَطِيئًا لَكِنَّ الرِّحْلَةَ هَادِئَةً.",
       "translation": "Voz je bio spor ali je putovanje bilo mirno.",
-      "translationEn": "The train was slow but the journey was peaceful."
+      "translationEn": "The train was slow but the journey was peaceful.",
+      "words": [
+        { "w": "الْقِطَارُ", "root": "ق ط ر", "bs": "voz", "en": "train" },
+        { "w": "بَطِيئًا", "root": "ب ط أ", "bs": "spor", "en": "slow" },
+        { "w": "الرِّحْلَةَ", "root": "ر ح ل", "bs": "putovanje", "en": "journey" },
+        { "w": "هَادِئَةً", "root": "ه د أ", "bs": "mirno / tiho", "en": "peaceful / quiet" }
+      ]
     },
     {
       "arabic": "وَصَلُوا إِلَى الْقَرْيَةِ ظُهْرًا وَاسْتَقْبَلَهُمُ الْجَدُّ.",
       "translation": "Stigli su u selo u podne i djed ih je dočekao.",
-      "translationEn": "They arrived in the village at noon and grandfather welcomed them."
+      "translationEn": "They arrived in the village at noon and grandfather welcomed them.",
+      "words": [
+        { "w": "وَصَلُوا", "root": "و ص ل", "bs": "stigli su", "en": "arrived" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" },
+        { "w": "ظُهْرًا", "root": "ظ ه ر", "bs": "u podne", "en": "at noon" },
+        { "w": "اسْتَقْبَلَهُمُ", "root": "ق ب ل", "bs": "dočekao ih je", "en": "welcomed them" }
+      ]
     },
     {
       "arabic": "فَرِحَ الْجَدُّ كَثِيرًا حِينَ رَأَى أَحْفَادَهُ.",
       "translation": "Djed se veoma obradovao kad je vidio unuke.",
-      "translationEn": "Grandfather was very happy when he saw his grandchildren."
+      "translationEn": "Grandfather was very happy when he saw his grandchildren.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "أَحْفَادَهُ", "root": "ح ف د", "bs": "njegovi unuci", "en": "his grandchildren" }
+      ]
     }
   ],
   "metadata": {

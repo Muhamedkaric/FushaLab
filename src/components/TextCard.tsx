@@ -23,6 +23,7 @@ import { motion } from 'framer-motion'
 import type { ContentItem, Sentence } from '@/types/content'
 import { toggleHarakat } from '@/utils/diacritics'
 import { HarakatToggle } from './HarakatToggle'
+import { WordTapText } from './WordTapText'
 import { AudioPlayer } from './AudioPlayer'
 import { TranslationPanel } from './TranslationPanel'
 import { DifficultyRating } from './DifficultyRating'
@@ -270,23 +271,30 @@ export function TextCard({ item }: Props) {
 
           {/* ── Arabic text ───────────────────────────────────────────────── */}
           <Box dir="rtl" sx={{ py: 2, px: 1, borderRadius: 2, bgcolor: 'action.hover', mb: 2 }}>
-            <Typography
-              variant="h5"
-              component="p"
-              sx={{ ...baseArabicSx, fontSize: `${FONT_SIZES[fontSizeIdx]}rem` }}
-            >
-              {sentenceMode
-                ? toggleHarakat(currentSentence.arabic, showHarakat)
-                : item.sentences.map((s, i) => (
-                    <SentenceSpan
-                      key={i}
-                      text={toggleHarakat(s.arabic, showHarakat)}
-                      active={popoverIdx === i}
-                      onClick={el => handleSentenceClick(el, i)}
-                      isLast={i === total - 1}
-                    />
-                  ))}
-            </Typography>
+            {sentenceMode ? (
+              <WordTapText
+                sentence={currentSentence}
+                fontSize={`${FONT_SIZES[fontSizeIdx]}rem`}
+                showHarakat={showHarakat}
+                lang={lang}
+              />
+            ) : (
+              <Typography
+                variant="h5"
+                component="p"
+                sx={{ ...baseArabicSx, fontSize: `${FONT_SIZES[fontSizeIdx]}rem` }}
+              >
+                {item.sentences.map((s, i) => (
+                  <SentenceSpan
+                    key={i}
+                    text={toggleHarakat(s.arabic, showHarakat)}
+                    active={popoverIdx === i}
+                    onClick={el => handleSentenceClick(el, i)}
+                    isLast={i === total - 1}
+                  />
+                ))}
+              </Typography>
+            )}
           </Box>
 
           {/* ── Sentence tooltip popover (full-text mode) ─────────────────── */}

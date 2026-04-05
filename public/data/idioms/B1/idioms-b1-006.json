@@ -6,22 +6,46 @@
     {
       "arabic": "قَالَ الْجَدُّ: «الْجَارُ قَبْلَ الدَّارِ».",
       "translation": "Djed je rekao: «Komšija prije kuće».",
-      "translationEn": "The grandfather said: «Choose the neighbor before the house»."
+      "translationEn": "The grandfather said: «Choose the neighbor before the house».",
+      "words": [
+        { "w": "الْجَدُّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
+        { "w": "الْجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
+        { "w": "الدَّارِ", "root": "د و ر", "bs": "kuća", "en": "house" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الْجَارَ الطَّيِّبَ أَهَمُّ مِنَ الْبَيْتِ الْجَمِيلِ.",
       "translation": "To znači da je dobar komšija važniji od lijepe kuće.",
-      "translationEn": "This means that a good neighbor is more important than a beautiful house."
+      "translationEn": "This means that a good neighbor is more important than a beautiful house.",
+      "words": [
+        { "w": "الْجَارَ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
+        { "w": "الطَّيِّبَ", "root": "ط ي ب", "bs": "dobar", "en": "good" },
+        { "w": "أَهَمُّ", "root": "ه م م", "bs": "važniji", "en": "more important" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "house" },
+        { "w": "الْجَمِيلِ", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "سَاعَدَ الْجَارُ الْعَجُوزَةَ حِينَ مَرِضَتْ.",
       "translation": "Komšija je pomogao starijoj ženi kada se razbolila.",
-      "translationEn": "The neighbor helped the old woman when she got sick."
+      "translationEn": "The neighbor helped the old woman when she got sick.",
+      "words": [
+        { "w": "سَاعَدَ", "root": "س ع د", "bs": "pomogao je", "en": "helped" },
+        { "w": "الْجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
+        { "w": "الْعَجُوزَةَ", "root": "ع ج ز", "bs": "starija žena", "en": "old woman" },
+        { "w": "مَرِضَتْ", "root": "م ر ض", "bs": "razbolila se", "en": "got sick" }
+      ]
     },
     {
       "arabic": "شَعَرَتْ بِالسَّعَادَةِ لِأَنَّ لَهَا جِيرَانًا طَيِّبِينَ.",
       "translation": "Osjećala se sretno jer ima dobre komšije.",
-      "translationEn": "She felt happy because she has good neighbors."
+      "translationEn": "She felt happy because she has good neighbors.",
+      "words": [
+        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjećala se", "en": "felt" },
+        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happiness" },
+        { "w": "جِيرَانًا", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
+        { "w": "طَيِّبِينَ", "root": "ط ي ب", "bs": "dobre", "en": "good" }
+      ]
     }
   ],
   "metadata": {

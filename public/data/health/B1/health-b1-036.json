@@ -6,26 +6,159 @@
     {
       "arabic": "يَحْمِلُ عِصَامٌ مَعَهُ وَجْبَةً خَفِيفَةً صِحِّيَّةً إِلَى الْعَمَلِ.",
       "translation": "Isam nosi sa sobom zdrave grickalice na posao.",
-      "translationEn": "Issam carries a healthy snack with him to work."
+      "translationEn": "Issam carries a healthy snack with him to work.",
+      "words": [
+        {
+          "w": "يَحْمِلُ",
+          "root": "ح م ل",
+          "bs": "nosi",
+          "en": "carries"
+        },
+        {
+          "w": "وَجْبَةً",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "snack"
+        },
+        {
+          "w": "خَفِيفَةً",
+          "root": "خ ف ف",
+          "bs": "lahak",
+          "en": "light"
+        },
+        {
+          "w": "صِحِّيَّةً",
+          "root": "ص ح ح",
+          "bs": "zdrav",
+          "en": "healthy"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work"
+        }
+      ]
     },
     {
       "arabic": "يَأْكُلُ الْمَكْسَرَاتِ وَالْفَاكِهَةَ بَيْنَ الْوَجَبَاتِ.",
       "translation": "Jede orašaste plodove i voće između obroka.",
-      "translationEn": "He eats nuts and fruit between meals."
+      "translationEn": "He eats nuts and fruit between meals.",
+      "words": [
+        {
+          "w": "يَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eats"
+        },
+        {
+          "w": "الْمَكْسَرَاتِ",
+          "root": "ك س ر",
+          "bs": "orašasti plodovi",
+          "en": "nuts"
+        },
+        {
+          "w": "الْفَاكِهَةَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit"
+        },
+        {
+          "w": "الْوَجَبَاتِ",
+          "root": "و ج ب",
+          "bs": "obroci",
+          "en": "meals"
+        }
+      ]
     },
     {
       "arabic": "لَا يَشْتَرِي أَكْلًا مِنَ الشَّارِعِ لِأَنَّهُ غَيْرُ صِحِّيٍّ.",
       "translation": "Ne kupuje hranu s ulice jer nije zdrava.",
-      "translationEn": "He does not buy food from the street because it is unhealthy."
+      "translationEn": "He does not buy food from the street because it is unhealthy.",
+      "words": [
+        {
+          "w": "يَشْتَرِي",
+          "root": "ش ر ي",
+          "bs": "kupuje",
+          "en": "buys"
+        },
+        {
+          "w": "أَكْلًا",
+          "root": "أ ك ل",
+          "bs": "hrana",
+          "en": "food"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulica",
+          "en": "street"
+        },
+        {
+          "w": "غَيْرُ",
+          "root": "غ ي ر",
+          "bs": "nije",
+          "en": "not"
+        },
+        {
+          "w": "صِحِّيٍّ",
+          "root": "ص ح ح",
+          "bs": "zdrav",
+          "en": "healthy"
+        }
+      ]
     },
     {
       "arabic": "صَارَ زَمَلَاؤُهُ يَسْأَلُونَهُ عَنْ وَصَفَاتِ الْأَكْلِ الصِّحِّيِّ.",
       "translation": "Kolege su ga počeli pitati za recepte zdrave hrane.",
-      "translationEn": "His colleagues started asking him for healthy food recipes."
+      "translationEn": "His colleagues started asking him for healthy food recipes.",
+      "words": [
+        {
+          "w": "صَارَ",
+          "root": "ص ي ر",
+          "bs": "počeli su",
+          "en": "started"
+        },
+        {
+          "w": "زَمَلَاؤُهُ",
+          "root": "ز م ل",
+          "bs": "kolege",
+          "en": "colleagues"
+        },
+        {
+          "w": "يَسْأَلُونَهُ",
+          "root": "س أ ل",
+          "bs": "pitaju ga",
+          "en": "ask him"
+        },
+        {
+          "w": "وَصَفَاتِ",
+          "root": "و ص ف",
+          "bs": "recepti",
+          "en": "recipes"
+        },
+        {
+          "w": "الْأَكْلِ",
+          "root": "أ ك ل",
+          "bs": "hrana",
+          "en": "food"
+        },
+        {
+          "w": "الصِّحِّيِّ",
+          "root": "ص ح ح",
+          "bs": "zdrava",
+          "en": "healthy"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["snack", "nuts", "healthy eating", "work"]
+    "tags": [
+      "snack",
+      "nuts",
+      "healthy eating",
+      "work"
+    ]
   }
 }

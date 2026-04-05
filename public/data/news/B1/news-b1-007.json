@@ -6,26 +6,122 @@
     {
       "arabic": "بَدَأَتِ الدِّرَاسَةُ فِي الْمَدْرَسَةِ بَعْدَ الإِجَازَةِ.",
       "translation": "Nastava u školi počela je nakon odmora.",
-      "translationEn": "School started again after the holiday break."
+      "translationEn": "School started again after the holiday break.",
+      "words": [
+        {
+          "w": "بَدَأَتِ",
+          "root": "ب د أ",
+          "bs": "počela je",
+          "en": "started"
+        },
+        {
+          "w": "الدِّرَاسَةُ",
+          "root": "د ر س",
+          "bs": "nastava",
+          "en": "school"
+        },
+        {
+          "w": "الإِجَازَةِ",
+          "root": "ج و ز",
+          "bs": "odmora",
+          "en": "holiday"
+        }
+      ]
     },
     {
       "arabic": "جَاءَ الطُّلَّابُ بِحَقَائِبَ جَدِيدَةٍ وَوُجُوهٍ مُبْتَسِمَةٍ.",
       "translation": "Učenici su došli s novim torbama i nasmiješenim licima.",
-      "translationEn": "Students came with new bags and smiling faces."
+      "translationEn": "Students came with new bags and smiling faces.",
+      "words": [
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "حَقَائِبَ",
+          "root": "ح ق ب",
+          "bs": "torbama",
+          "en": "bags"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "root": "ج د د",
+          "bs": "novim",
+          "en": "new"
+        },
+        {
+          "w": "وُجُوهٍ",
+          "root": "و ج ه",
+          "bs": "licima",
+          "en": "faces"
+        },
+        {
+          "w": "مُبْتَسِمَةٍ",
+          "root": "ب س م",
+          "bs": "nasmiješenim",
+          "en": "smiling"
+        }
+      ]
     },
     {
       "arabic": "قَدَّمَ الْمُعَلِّمُونَ أَنْفُسَهُمْ لِلطُّلَّابِ الْجُدُدِ.",
       "translation": "Nastavnici su se predstavili novim učenicima.",
-      "translationEn": "The teachers introduced themselves to the new students."
+      "translationEn": "The teachers introduced themselves to the new students.",
+      "words": [
+        {
+          "w": "الْمُعَلِّمُونَ",
+          "root": "ع ل م",
+          "bs": "nastavnici",
+          "en": "teachers"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenicima",
+          "en": "students"
+        },
+        {
+          "w": "الْجُدُدِ",
+          "root": "ج د د",
+          "bs": "novim",
+          "en": "new"
+        }
+      ]
     },
     {
       "arabic": "كَانَ الْيَوْمُ الأَوَّلُ مُثِيرًا وَمَلِيئًا بِالنَّشَاطِ.",
       "translation": "Prvi dan bio je uzbudljiv i pun aktivnosti.",
-      "translationEn": "The first day was exciting and full of activity."
+      "translationEn": "The first day was exciting and full of activity.",
+      "words": [
+        {
+          "w": "مُثِيرًا",
+          "root": "ث و ر",
+          "bs": "uzbudljiv",
+          "en": "exciting"
+        },
+        {
+          "w": "مَلِيئًا",
+          "root": "م ل أ",
+          "bs": "pun",
+          "en": "full"
+        },
+        {
+          "w": "النَّشَاطِ",
+          "root": "ن ش ط",
+          "bs": "aktivnosti",
+          "en": "activity"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school", "back to school", "daily life"]
+    "tags": [
+      "school",
+      "back to school",
+      "daily life"
+    ]
   }
 }

@@ -6,22 +6,47 @@
     {
       "arabic": "لَمْ يَكُنِ الطَّعَامُ طَازَجًا وَشَكَا الزَّبُونُ.",
       "translation": "Hrana nije bila svježa i gost se žalio.",
-      "translationEn": "The food was not fresh and the customer complained."
+      "translationEn": "The food was not fresh and the customer complained.",
+      "words": [
+        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana", "en": "food" },
+        { "w": "طَازَجًا", "bs": "svježa", "en": "fresh" },
+        { "w": "شَكَا", "root": "ش ك و", "bs": "žalio se", "en": "complained" },
+        { "w": "الزَّبُونُ", "root": "ز ب ن", "bs": "gost", "en": "customer" }
+      ]
     },
     {
       "arabic": "اسْتَدْعَى النَّادِلَ وَأَخْبَرَهُ بِالمُشْكِلَةِ.",
       "translation": "Pozvao je konobara i rekao mu o problemu.",
-      "translationEn": "He called the waiter and told him about the problem."
+      "translationEn": "He called the waiter and told him about the problem.",
+      "words": [
+        { "w": "اسْتَدْعَى", "root": "د ع و", "bs": "pozvao je", "en": "called" },
+        { "w": "النَّادِلَ", "root": "ن د ل", "bs": "konobara", "en": "waiter" },
+        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "rekao mu je", "en": "told him" },
+        { "w": "بِالمُشْكِلَةِ", "root": "ش ك ل", "bs": "o problemu", "en": "about the problem" }
+      ]
     },
     {
       "arabic": "اعْتَذَرَ النَّادِلُ وَأَحْضَرَ طَبَقًا جَدِيدًا.",
       "translation": "Konobar se ispričao i donio novi tanjir.",
-      "translationEn": "The waiter apologized and brought a new dish."
+      "translationEn": "The waiter apologized and brought a new dish.",
+      "words": [
+        { "w": "اعْتَذَرَ", "root": "ع ذ ر", "bs": "ispričao se", "en": "apologized" },
+        { "w": "النَّادِلُ", "root": "ن د ل", "bs": "konobar", "en": "waiter" },
+        { "w": "أَحْضَرَ", "root": "ح ض ر", "bs": "donio je", "en": "brought" },
+        { "w": "طَبَقًا", "root": "ط ب ق", "bs": "tanjir", "en": "dish" },
+        { "w": "جَدِيدًا", "root": "ج د د", "bs": "novi", "en": "new" }
+      ]
     },
     {
       "arabic": "قَبِلَ الزَّبُونُ وَأَكَلَ بِهُدُوءٍ.",
       "translation": "Gost je prihvatio i mirno jeo.",
-      "translationEn": "The customer accepted and ate calmly."
+      "translationEn": "The customer accepted and ate calmly.",
+      "words": [
+        { "w": "قَبِلَ", "root": "ق ب ل", "bs": "prihvatio je", "en": "accepted" },
+        { "w": "الزَّبُونُ", "root": "ز ب ن", "bs": "gost", "en": "customer" },
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo je", "en": "ate" },
+        { "w": "بِهُدُوءٍ", "root": "هـ د أ", "bs": "mirno", "en": "calmly" }
+      ]
     }
   ],
   "metadata": {

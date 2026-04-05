@@ -6,22 +6,46 @@
     {
       "arabic": "فِي رَأْيِي، مِنَ الْجَيِّدِ أَنْ يَسَاعَدَ الْأَطْفَالُ فِي الْمَنْزِلِ.",
       "translation": "Po mom mišljenju, dobro je da djeca pomažu u kući.",
-      "translationEn": "In my opinion, it is good for children to help at home."
+      "translationEn": "In my opinion, it is good for children to help at home.",
+      "words": [
+        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
+        { "w": "الْجَيِّدِ", "root": "ج ي د", "bs": "dobro", "en": "good" },
+        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "يَسَاعَدَ", "root": "س ع د", "bs": "pomažu", "en": "to help" }
+      ]
     },
     {
       "arabic": "يَتَعَلَّمُ الطِّفْلُ مِنْ خِلَالِ الْمَسَاعَدَةِ الْمَسْؤُولِيَّةَ.",
       "translation": "Dijete kroz pomoć uči odgovornost.",
-      "translationEn": "A child learns responsibility through helping."
+      "translationEn": "A child learns responsibility through helping.",
+      "words": [
+        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learns" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "الْمَسَاعَدَةِ", "root": "س ع د", "bs": "pomoć", "en": "helping" },
+        { "w": "الْمَسْؤُولِيَّةَ", "root": "س أ ل", "bs": "odgovornost", "en": "responsibility" }
+      ]
     },
     {
       "arabic": "أَشْيَاءُ بَسِيطَةٌ مِثْلُ تَرْتِيبِ السَّرِيرِ كَافِيَةٌ.",
       "translation": "Jednostavne stvari poput pravljenja kreveta su dovoljne.",
-      "translationEn": "Simple things like making the bed are enough."
+      "translationEn": "Simple things like making the bed are enough.",
+      "words": [
+        { "w": "أَشْيَاءُ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "بَسِيطَةٌ", "root": "ب س ط", "bs": "jednostavne", "en": "simple" },
+        { "w": "تَرْتِيبِ", "root": "ر ت ب", "bs": "pravljenja", "en": "making" },
+        { "w": "السَّرِيرِ", "root": "س ر ر", "bs": "krevet", "en": "bed" }
+      ]
     },
     {
       "arabic": "هَذَا يُعَلِّمُهُمُ الِاعْتِمَادَ عَلَى أَنْفُسِهِمْ فِي الْمُسْتَقْبَلِ.",
       "translation": "To ih uči oslanjanju na sebe u budućnosti.",
-      "translationEn": "This teaches them to rely on themselves in the future."
+      "translationEn": "This teaches them to rely on themselves in the future.",
+      "words": [
+        { "w": "يُعَلِّمُهُمُ", "root": "ع ل م", "bs": "uči ih", "en": "teaches them" },
+        { "w": "الِاعْتِمَادَ", "root": "ع م د", "bs": "oslanjanje", "en": "to rely" },
+        { "w": "أَنْفُسِهِمْ", "root": "ن ف س", "bs": "sebe", "en": "themselves" },
+        { "w": "الْمُسْتَقْبَلِ", "root": "ق ب ل", "bs": "budućnost", "en": "future" }
+      ]
     }
   ],
   "metadata": {

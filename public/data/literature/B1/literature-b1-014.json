@@ -6,22 +6,42 @@
     {
       "arabic": "كَانَتْ لَيْلَى تَخَافُ مِنَ الظَّلَامِ حِينَ كَانَتْ صَغِيرَةً.",
       "translation": "Lejla se bojala mraka kada je bila mala.",
-      "translationEn": "Layla used to be afraid of the dark when she was young."
+      "translationEn": "Layla used to be afraid of the dark when she was young.",
+      "words": [
+        { "w": "تَخَافُ", "root": "خ و ف", "bs": "bojala se", "en": "was afraid" },
+        { "w": "الظَّلَامِ", "root": "ظ ل م", "bs": "mrak/tama", "en": "darkness" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mala", "en": "young/small" }
+      ]
     },
     {
       "arabic": "كَانَ أَبُوهَا يَجْلِسُ مَعَهَا وَيُحَدِّثُهَا حَتَّى تَنَامَ.",
       "translation": "Otac je sjedio s njom i pričao joj dok ne zaspi.",
-      "translationEn": "Her father would sit with her and talk until she fell asleep."
+      "translationEn": "Her father would sit with her and talk until she fell asleep.",
+      "words": [
+        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedio je", "en": "would sit" },
+        { "w": "يُحَدِّثُهَا", "root": "ح د ث", "bs": "pričao joj je", "en": "would talk to her" },
+        { "w": "تَنَامَ", "root": "ن و م", "bs": "zaspi", "en": "falls asleep" }
+      ]
     },
     {
       "arabic": "كَبِرَتْ لَيْلَى وَلَمْ تَعُدْ تَخَافُ مِنَ الظَّلَامِ.",
       "translation": "Lejla je odrasla i više se nije bojala mraka.",
-      "translationEn": "Layla grew up and no longer feared the dark."
+      "translationEn": "Layla grew up and no longer feared the dark.",
+      "words": [
+        { "w": "كَبِرَتْ", "root": "ك ب ر", "bs": "odrasla je", "en": "grew up" },
+        { "w": "تَخَافُ", "root": "خ و ف", "bs": "bojala se", "en": "feared" },
+        { "w": "الظَّلَامِ", "root": "ظ ل م", "bs": "mrak", "en": "darkness" }
+      ]
     },
     {
       "arabic": "تَذْكُرُ دَائِمًا أَبَاهَا وَكَلَامَهُ الطَّيِّبَ.",
       "translation": "Uvijek se sjeća oca i njegovih lijepih riječi.",
-      "translationEn": "She always remembers her father and his kind words."
+      "translationEn": "She always remembers her father and his kind words.",
+      "words": [
+        { "w": "تَذْكُرُ", "root": "ذ ك ر", "bs": "sjeća se", "en": "remembers" },
+        { "w": "كَلَامَهُ", "root": "ك ل م", "bs": "njegove riječi", "en": "his words" },
+        { "w": "الطَّيِّبَ", "root": "ط ي ب", "bs": "lijep/dobar", "en": "kind/good" }
+      ]
     }
   ],
   "metadata": {

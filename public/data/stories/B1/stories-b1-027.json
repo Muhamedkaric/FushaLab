@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَتْ عَائِلَةٌ تَسْكُنُ بِجَانِبِ الْبَحْرِ.",
       "translation": "Jedna porodica je živjela pored mora.",
-      "translationEn": "A family lived beside the sea."
+      "translationEn": "A family lived beside the sea.",
+      "words": [
+        { "w": "عَائِلَةٌ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "تَسْكُنُ", "root": "س ك ن", "bs": "živjela je", "en": "lived" },
+        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" }
+      ]
     },
     {
       "arabic": "كُلَّ صَبَاحٍ كَانَ الأَبُ يَصْطَادُ السَّمَكَ وَيَعُودُ بِهِ.",
       "translation": "Svako jutro otac je lovio ribu i vraćao se s njom.",
-      "translationEn": "Every morning the father fished and came back with it."
+      "translationEn": "Every morning the father fished and came back with it.",
+      "words": [
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" },
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "يَصْطَادُ", "root": "ص ي د", "bs": "lovio je", "en": "fished" },
+        { "w": "السَّمَكَ", "root": "س م ك", "bs": "riba", "en": "fish" },
+        { "w": "يَعُودُ", "root": "ع و د", "bs": "vraćao se", "en": "came back" }
+      ]
     },
     {
       "arabic": "أَحَبَّ الأَطْفَالُ الْجُلُوسَ عَلَى الشَّاطِئِ وَمَدَّ الشِّبَاكِ.",
       "translation": "Djeca su voljela sjediti na plaži i rastezati mreže.",
-      "translationEn": "The children loved sitting on the shore and spreading the nets."
+      "translationEn": "The children loved sitting on the shore and spreading the nets.",
+      "words": [
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "الْجُلُوسَ", "root": "ج ل س", "bs": "sjediti", "en": "sitting" },
+        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plaža", "en": "shore" },
+        { "w": "الشِّبَاكِ", "root": "ش ب ك", "bs": "mreže", "en": "nets" }
+      ]
     },
     {
       "arabic": "فِي الْمَسَاءِ أَكَلَتِ الْعَائِلَةُ السَّمَكَ مَعًا بِسَعَادَةٍ.",
       "translation": "Uveče je porodica sretno zajedno jela ribu.",
-      "translationEn": "In the evening the family ate fish together happily."
+      "translationEn": "In the evening the family ate fish together happily.",
+      "words": [
+        { "w": "الْمَسَاءِ", "root": "م س و", "bs": "večer", "en": "evening" },
+        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "jela je", "en": "ate" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "السَّمَكَ", "root": "س م ك", "bs": "ribu", "en": "fish" },
+        { "w": "بِسَعَادَةٍ", "root": "س ع د", "bs": "sretno", "en": "happily" }
+      ]
     }
   ],
   "metadata": {

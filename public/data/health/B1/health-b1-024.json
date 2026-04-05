@@ -6,26 +6,141 @@
     {
       "arabic": "اشْتَكَتِ الْبِنْتُ لَمَى مِنْ أَلَمٍ فِي أُذُنِهَا.",
       "translation": "Djevojčica Lama se žalila na bol u uhu.",
-      "translationEn": "The girl Lama complained of pain in her ear."
+      "translationEn": "The girl Lama complained of pain in her ear.",
+      "words": [
+        {
+          "w": "اشْتَكَتِ",
+          "root": "ش ك و",
+          "bs": "žalila se",
+          "en": "complained"
+        },
+        {
+          "w": "الْبِنْتُ",
+          "root": "ب ن ت",
+          "bs": "djevojčica",
+          "en": "girl"
+        },
+        {
+          "w": "بِأَلَمٍ",
+          "root": "أ ل م",
+          "bs": "bol",
+          "en": "pain"
+        },
+        {
+          "w": "أُذُنِهَا",
+          "root": "أ ذ ن",
+          "bs": "uho",
+          "en": "ear"
+        }
+      ]
     },
     {
       "arabic": "أَخَذَتْهَا أُمُّهَا إِلَى طَبِيبِ الْأَطْفَالِ فِي الصَّبَاحِ.",
       "translation": "Majka ju je odvela kod pedijatra ujutro.",
-      "translationEn": "Her mother took her to the children's doctor in the morning."
+      "translationEn": "Her mother took her to the children's doctor in the morning.",
+      "words": [
+        {
+          "w": "أَخَذَتْهَا",
+          "root": "أ خ ذ",
+          "bs": "odvela ju je",
+          "en": "took her"
+        },
+        {
+          "w": "أُمُّهَا",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother"
+        },
+        {
+          "w": "طَبِيبِ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "الْأَطْفَالِ",
+          "root": "ط ف ل",
+          "bs": "djece",
+          "en": "children"
+        }
+      ]
     },
     {
       "arabic": "فَحَصَ الطَّبِيبُ أُذُنَهَا وَكَتَبَ لَهَا دَوَاءً.",
       "translation": "Ljekar je pregledao njezino uho i napisao joj lijek.",
-      "translationEn": "The doctor examined her ear and wrote her a prescription."
+      "translationEn": "The doctor examined her ear and wrote her a prescription.",
+      "words": [
+        {
+          "w": "فَحَصَ",
+          "root": "ف ح ص",
+          "bs": "pregledao je",
+          "en": "examined"
+        },
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "أُذُنَهَا",
+          "root": "أ ذ ن",
+          "bs": "uho",
+          "en": "ear"
+        },
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao je",
+          "en": "wrote"
+        },
+        {
+          "w": "دَوَاءً",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ يَوْمَيْنِ زَالَ الْأَلَمُ وَعَادَتْ لَمَى تَلْعَبُ بِسَعَادَةٍ.",
       "translation": "Nakon dva dana bol je prošla i Lama se radosno vratila igrati.",
-      "translationEn": "After two days the pain was gone and Lama returned to playing happily."
+      "translationEn": "After two days the pain was gone and Lama returned to playing happily.",
+      "words": [
+        {
+          "w": "زَالَ",
+          "root": "ز و ل",
+          "bs": "prošla je",
+          "en": "was gone"
+        },
+        {
+          "w": "الْأَلَمُ",
+          "root": "أ ل م",
+          "bs": "bol",
+          "en": "pain"
+        },
+        {
+          "w": "تَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "igra",
+          "en": "playing"
+        },
+        {
+          "w": "بِسَعَادَةٍ",
+          "root": "س ع د",
+          "bs": "radosno",
+          "en": "happily"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["ear pain", "child", "doctor", "medicine"]
+    "tags": [
+      "ear pain",
+      "child",
+      "doctor",
+      "medicine"
+    ]
   }
 }

@@ -6,27 +6,55 @@
     {
       "arabic": "كَانَتِ الفُرْصَةُ قَصِيرَةً لَكِنْ مُمْتِعَةً.",
       "translation": "Odmor je bio kratak, ali zabavan.",
-      "translationEn": "The break was short but enjoyable."
+      "translationEn": "The break was short but enjoyable.",
+      "words": [
+        { "w": "الفُرْصَةُ", "root": "ف ر ص", "bs": "odmor", "en": "break" },
+        { "w": "قَصِيرَةً", "root": "ق ص ر", "bs": "kratak", "en": "short" },
+        { "w": "مُمْتِعَةً", "root": "م ت ع", "bs": "zabavan", "en": "enjoyable" }
+      ]
     },
     {
       "arabic": "أَكَلَ الطُّلَّابُ وَجْبَاتِهِمُ الخَفِيفَةَ فِي الفِنَاءِ.",
       "translation": "Učenici su jeli užinu u dvorištu.",
-      "translationEn": "The students ate their snacks in the yard."
+      "translationEn": "The students ate their snacks in the yard.",
+      "words": [
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
+        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "وَجْبَاتِهِمُ", "root": "و ج ب", "bs": "njihova jela", "en": "their meals" },
+        { "w": "الفِنَاءِ", "root": "ف ن و", "bs": "dvorište", "en": "yard" }
+      ]
     },
     {
       "arabic": "لَعِبَ بَعْضُهُمُ الكُرَةَ وَجَلَسَ بَعْضُهُمْ يَتَحَدَّثُونَ.",
       "translation": "Neki su igrali loptu a neki sjeli i razgovarali.",
-      "translationEn": "Some played ball and some sat talking."
+      "translationEn": "Some played ball and some sat talking.",
+      "words": [
+        { "w": "لَعِبَ", "root": "ل ع ب", "bs": "igrali su", "en": "played" },
+        { "w": "الكُرَةَ", "root": "ك ر ر", "bs": "lopta", "en": "ball" },
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeli su", "en": "sat" },
+        { "w": "يَتَحَدَّثُونَ", "root": "ح د ث", "bs": "razgovaraju", "en": "talking" }
+      ]
     },
     {
       "arabic": "رَنَّ الجَرَسُ وَعَادَ الجَمِيعُ إِلَى فُصُولِهِمْ.",
       "translation": "Zazvonilo je zvono i svi su se vratili u razrede.",
-      "translationEn": "The bell rang and everyone returned to their classrooms."
+      "translationEn": "The bell rang and everyone returned to their classrooms.",
+      "words": [
+        { "w": "رَنَّ", "root": "ر ن ن", "bs": "zazvonilo je", "en": "rang" },
+        { "w": "الجَرَسُ", "root": "ج ر س", "bs": "zvono", "en": "bell" },
+        { "w": "عَادَ", "root": "ع و د", "bs": "vratili su se", "en": "returned" },
+        { "w": "فُصُولِهِمْ", "root": "ف ص ل", "bs": "njihovi razredi", "en": "their classrooms" }
+      ]
     },
     {
       "arabic": "كَانُوا مُسْتَعِدِّينَ لِلدَّرْسِ التَّالِي.",
       "translation": "Bili su spremni za sljedeći čas.",
-      "translationEn": "They were ready for the next lesson."
+      "translationEn": "They were ready for the next lesson.",
+      "words": [
+        { "w": "مُسْتَعِدِّينَ", "root": "ع د د", "bs": "spremni", "en": "ready" },
+        { "w": "الدَّرْسِ", "root": "د ر س", "bs": "čas", "en": "lesson" },
+        { "w": "التَّالِي", "root": "ت ل و", "bs": "sljedeći", "en": "next" }
+      ]
     }
   ],
   "metadata": {

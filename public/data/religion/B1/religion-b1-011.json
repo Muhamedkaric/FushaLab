@@ -6,22 +6,132 @@
     {
       "arabic": "نَظَّفَ عَمَّارٌ الْمَسْجِدَ قَبْلَ صَلَاةِ الْجُمُعَةِ.",
       "translation": "Ammar je počistio džamiju prije džuma-namaza.",
-      "translationEn": "Ammar cleaned the mosque before Friday prayer."
+      "translationEn": "Ammar cleaned the mosque before Friday prayer.",
+      "words": [
+        {
+          "w": "نَظَّفَ",
+          "root": "ن ظ ف",
+          "bs": "počistio je",
+          "en": "cleaned"
+        },
+        {
+          "w": "الْمَسْجِدَ",
+          "root": "س ج د",
+          "bs": "džamiju",
+          "en": "the mosque"
+        },
+        {
+          "w": "قَبْلَ",
+          "root": "ق ب ل",
+          "bs": "prije",
+          "en": "before"
+        },
+        {
+          "w": "صَلَاةِ الْجُمُعَةِ",
+          "root": "ج م ع",
+          "bs": "džuma-namaza",
+          "en": "Friday prayer"
+        }
+      ]
     },
     {
       "arabic": "كَنَسَ الْأَرْضَ وَنَظَّفَ النَّوَافِذَ بِعِنَايَةٍ.",
       "translation": "Pomeo je pod i pažljivo očistio prozore.",
-      "translationEn": "He swept the floor and cleaned the windows carefully."
+      "translationEn": "He swept the floor and cleaned the windows carefully.",
+      "words": [
+        {
+          "w": "كَنَسَ",
+          "root": "ك ن س",
+          "bs": "pomeo je",
+          "en": "swept"
+        },
+        {
+          "w": "الْأَرْضَ",
+          "root": "أ ر ض",
+          "bs": "pod",
+          "en": "the floor"
+        },
+        {
+          "w": "نَظَّفَ",
+          "root": "ن ظ ف",
+          "bs": "očistio je",
+          "en": "cleaned"
+        },
+        {
+          "w": "النَّوَافِذَ",
+          "root": "ن ف ذ",
+          "bs": "prozore",
+          "en": "the windows"
+        },
+        {
+          "w": "بِعِنَايَةٍ",
+          "root": "ع ن ي",
+          "bs": "pažljivo",
+          "en": "carefully"
+        }
+      ]
     },
     {
       "arabic": "أَحَبَّ أَنْ يَخْدُمَ الْمَسْجِدَ بِنَفْسِهِ.",
       "translation": "Volio je lično služiti džamiji.",
-      "translationEn": "He loved to serve the mosque himself."
+      "translationEn": "He loved to serve the mosque himself.",
+      "words": [
+        {
+          "w": "أَحَبَّ",
+          "root": "ح ب ب",
+          "bs": "volio je",
+          "en": "loved"
+        },
+        {
+          "w": "يَخْدُمَ",
+          "root": "خ د م",
+          "bs": "služiti",
+          "en": "to serve"
+        },
+        {
+          "w": "الْمَسْجِدَ",
+          "root": "س ج د",
+          "bs": "džamiji",
+          "en": "the mosque"
+        },
+        {
+          "w": "بِنَفْسِهِ",
+          "root": "ن ف س",
+          "bs": "lično",
+          "en": "himself"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الْإِمَامُ: جَزَاكَ اللَّهُ خَيْرًا يَا عَمَّارُ.",
       "translation": "Imam je rekao: Allah ti nagradio dobrim, Ammare.",
-      "translationEn": "The imam said: May God reward you with good, Ammar."
+      "translationEn": "The imam said: May God reward you with good, Ammar.",
+      "words": [
+        {
+          "w": "الْإِمَامُ",
+          "root": "أ م م",
+          "bs": "imam",
+          "en": "the imam"
+        },
+        {
+          "w": "جَزَاكَ",
+          "root": "ج ز ي",
+          "bs": "nagradio te",
+          "en": "may reward you"
+        },
+        {
+          "w": "اللَّهُ",
+          "root": "أ ل ه",
+          "bs": "Allah",
+          "en": "God"
+        },
+        {
+          "w": "خَيْرًا",
+          "root": "خ ي ر",
+          "bs": "dobrim",
+          "en": "with good"
+        }
+      ]
     }
   ],
   "metadata": {

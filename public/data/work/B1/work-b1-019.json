@@ -6,22 +6,47 @@
     {
       "arabic": "تَعْمَلُ حَنَانُ فِي مَكْتَبَةٍ عَامَّةٍ فِي الْمَدِينَةِ.",
       "translation": "Hanan radi u javnoj biblioteci u gradu.",
-      "translationEn": "Hanan works in a public library in the city."
+      "translationEn": "Hanan works in a public library in the city.",
+      "words": [
+        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
+        { "w": "مَكْتَبَةٍ", "root": "ك ت ب", "bs": "biblioteka/knjižnica", "en": "library" },
+        { "w": "عَامَّةٍ", "root": "ع م م", "bs": "javna/opća", "en": "public/general" },
+        { "w": "الْمَدِينَةِ", "root": "م د ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "تُرَتِّبُ الْكُتُبَ وَتُسَاعِدُ الزُّوَّارَ فِي إِيجَادِ مَا يُرِيدُونَ.",
       "translation": "Sređuje knjige i pomaže posjetiocima da nađu šta žele.",
-      "translationEn": "She organises books and helps visitors find what they want."
+      "translationEn": "She organises books and helps visitors find what they want.",
+      "words": [
+        { "w": "تُرَتِّبُ", "root": "ر ت ب", "bs": "sređuje/organizuje", "en": "organises/arranges" },
+        { "w": "الْكُتُبَ", "root": "ك ت ب", "bs": "knjige", "en": "books" },
+        { "w": "تُسَاعِدُ", "root": "س ع د", "bs": "pomaže", "en": "helps" },
+        { "w": "الزُّوَّارَ", "root": "ز و ر", "bs": "posjetioci/gosti", "en": "visitors" },
+        { "w": "إِيجَادِ", "root": "و ج د", "bs": "pronalaženje/traženje", "en": "finding" }
+      ]
     },
     {
       "arabic": "تُحِبُّ الْعَمَلَ لِأَنَّهَا تُحِبُّ الْكُتُبَ كَثِيرًا.",
       "translation": "Voli posao jer jako voli knjige.",
-      "translationEn": "She loves the work because she loves books very much."
+      "translationEn": "She loves the work because she loves books very much.",
+      "words": [
+        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
+        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao", "en": "work" },
+        { "w": "الْكُتُبَ", "root": "ك ت ب", "bs": "knjige", "en": "books" }
+      ]
     },
     {
       "arabic": "يَأْتِي أَطْفَالٌ كَثِيرُونَ إِلَى الْمَكْتَبَةِ وَتُرَحِّبُ بِهِمْ.",
       "translation": "Mnogo djece dolazi u biblioteku i ona ih prima toplom.",
-      "translationEn": "Many children come to the library and she welcomes them."
+      "translationEn": "Many children come to the library and she welcomes them.",
+      "words": [
+        { "w": "يَأْتِي", "root": "أ ت ي", "bs": "dolazi", "en": "comes" },
+        { "w": "أَطْفَالٌ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "كَثِيرُونَ", "root": "ك ث ر", "bs": "mnogi/puno", "en": "many" },
+        { "w": "الْمَكْتَبَةِ", "root": "ك ت ب", "bs": "biblioteka", "en": "library" },
+        { "w": "تُرَحِّبُ", "root": "ر ح ب", "bs": "prima/dočekuje", "en": "welcomes" }
+      ]
     }
   ],
   "metadata": {

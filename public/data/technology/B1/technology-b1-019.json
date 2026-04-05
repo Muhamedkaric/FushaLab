@@ -6,22 +6,113 @@
     {
       "arabic": "طَلَبَ الطِّفْلُ مِنْ أُمِّهِ أَنْ يَرَى صُوَرَ الْأُسْرَةِ.",
       "translation": "Dijete je zamolilo majku da vidi porodične fotografije.",
-      "translationEn": "The child asked his mother to see the family photos."
+      "translationEn": "The child asked his mother to see the family photos.",
+      "words": [
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zamolilo je",
+          "en": "asked"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child"
+        },
+        {
+          "w": "يَرَى",
+          "root": "ر أ ي",
+          "bs": "vidi",
+          "en": "see"
+        },
+        {
+          "w": "صُوَرَ",
+          "root": "ص و ر",
+          "bs": "fotografije",
+          "en": "photos"
+        },
+        {
+          "w": "الْأُسْرَةِ",
+          "root": "أ س ر",
+          "bs": "porodične",
+          "en": "family"
+        }
+      ]
     },
     {
       "arabic": "فَتَحَتِ الْأُمُّ الْهَاتِفَ وَفَتَحَتِ الْأَلْبُومَ.",
       "translation": "Majka je otvorila telefon i otvorila album.",
-      "translationEn": "The mother opened the phone and opened the album."
+      "translationEn": "The mother opened the phone and opened the album.",
+      "words": [
+        {
+          "w": "فَتَحَتِ",
+          "root": "ف ت ح",
+          "bs": "otvorila je",
+          "en": "opened"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "the mother"
+        },
+        {
+          "w": "الْهَاتِفَ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "the phone"
+        },
+        {
+          "w": "الْأَلْبُومَ",
+          "bs": "album",
+          "en": "the album"
+        }
+      ]
     },
     {
       "arabic": "نَظَرَا إِلَى الصُّوَرِ مَعًا وَضَحِكَا.",
       "translation": "Gledali su fotografije zajedno i smijali se.",
-      "translationEn": "They looked at the photos together and laughed."
+      "translationEn": "They looked at the photos together and laughed.",
+      "words": [
+        {
+          "w": "نَظَرَا",
+          "root": "ن ظ ر",
+          "bs": "gledali su",
+          "en": "they looked"
+        },
+        {
+          "w": "الصُّوَرِ",
+          "root": "ص و ر",
+          "bs": "fotografije",
+          "en": "the photos"
+        },
+        {
+          "w": "ضَحِكَا",
+          "root": "ض ح ك",
+          "bs": "smijali su se",
+          "en": "they laughed"
+        }
+      ]
     },
     {
       "arabic": "قَالَتِ الْأُمُّ: هَذِهِ صُورَتُكَ حِينَ كُنْتَ صَغِيرًا.",
       "translation": "Majka je rekla: Ovo je tvoja fotografija kad si bio mali.",
-      "translationEn": "The mother said: This is your photo when you were little."
+      "translationEn": "The mother said: This is your photo when you were little.",
+      "words": [
+        {
+          "w": "صُورَتُكَ",
+          "root": "ص و ر",
+          "bs": "tvoja fotografija",
+          "en": "your photo"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "little"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,46 @@
     {
       "arabic": "لِكُلِّ مُسْلِمٍ سَجَّادَةٌ خَاصَّةٌ لِلصَّلَاةِ.",
       "translation": "Svaki musliman ima poseban serdžadu za namaz.",
-      "translationEn": "Every Muslim has a special prayer rug."
+      "translationEn": "Every Muslim has a special prayer rug.",
+      "words": [
+        { "w": "مُسْلِمٍ", "root": "س ل م", "bs": "musliman", "en": "Muslim" },
+        { "w": "سَجَّادَةٌ", "root": "س ج د", "bs": "serdžada", "en": "prayer rug" },
+        { "w": "خَاصَّةٌ", "root": "خ ص ص", "bs": "posebna", "en": "special" },
+        { "w": "لِلصَّلَاةِ", "root": "ص ل و", "bs": "za namaz", "en": "for prayer" }
+      ]
     },
     {
       "arabic": "يَضَعُهَا فِي مَكَانٍ نَظِيفٍ وَهَادِئٍ.",
       "translation": "Stavlja je na čisto i mirno mjesto.",
-      "translationEn": "He places it in a clean and quiet place."
+      "translationEn": "He places it in a clean and quiet place.",
+      "words": [
+        { "w": "يَضَعُهَا", "root": "و ض ع", "bs": "stavlja je", "en": "places it" },
+        { "w": "مَكَانٍ", "root": "م ك ن", "bs": "mjesto", "en": "place" },
+        { "w": "نَظِيفٍ", "root": "ن ظ ف", "bs": "čisto", "en": "clean" },
+        { "w": "هَادِئٍ", "root": "هـ د أ", "bs": "mirno", "en": "quiet" }
+      ]
     },
     {
       "arabic": "يُصَلِّي عَلَيْهَا خَمْسَ مَرَّاتٍ فِي اليَوْمِ.",
       "translation": "Klanja na njoj pet puta dnevno.",
-      "translationEn": "He prays on it five times a day."
+      "translationEn": "He prays on it five times a day.",
+      "words": [
+        { "w": "يُصَلِّي", "root": "ص ل و", "bs": "klanja", "en": "prays" },
+        { "w": "خَمْسَ", "root": "خ م س", "bs": "pet", "en": "five" },
+        { "w": "مَرَّاتٍ", "root": "م ر ر", "bs": "puta", "en": "times" },
+        { "w": "اليَوْمِ", "root": "ي و م", "bs": "dnevno", "en": "a day" }
+      ]
     },
     {
       "arabic": "بَعْضُ السَّجَّادَاتِ مُزَيَّنَةٌ بِأَشْكَالٍ جَمِيلَةٍ.",
       "translation": "Neki serdžadeti su ukrašeni lijepim oblicima.",
-      "translationEn": "Some prayer rugs are decorated with beautiful patterns."
+      "translationEn": "Some prayer rugs are decorated with beautiful patterns.",
+      "words": [
+        { "w": "السَّجَّادَاتِ", "root": "س ج د", "bs": "serdžadeti", "en": "prayer rugs" },
+        { "w": "مُزَيَّنَةٌ", "root": "ز ي ن", "bs": "ukrašeni", "en": "decorated" },
+        { "w": "بِأَشْكَالٍ", "root": "ش ك ل", "bs": "oblicima", "en": "patterns" },
+        { "w": "جَمِيلَةٍ", "root": "ج م ل", "bs": "lijepim", "en": "beautiful" }
+      ]
     }
   ],
   "metadata": {

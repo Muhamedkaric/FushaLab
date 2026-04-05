@@ -6,22 +6,47 @@
     {
       "arabic": "طَرَقَ الجَارُ البَابَ وَبَدَا مُتَضَايِقًا.",
       "translation": "Komšija je pokucao na vrata i izgledao uznemireno.",
-      "translationEn": "The neighbor knocked on the door and looked upset."
+      "translationEn": "The neighbor knocked on the door and looked upset.",
+      "words": [
+        { "w": "طَرَقَ", "root": "ط ر ق", "bs": "pokucao je", "en": "knocked" },
+        { "w": "الجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
+        { "w": "البَابَ", "root": "ب و ب", "bs": "vrata", "en": "door" },
+        { "w": "مُتَضَايِقًا", "root": "ض ي ق", "bs": "uznemireno", "en": "upset" }
+      ]
     },
     {
       "arabic": "قَالَ إِنَّ الضَّوْضَاءَ مُزْعِجَةٌ وَيُرِيدُ النَّوْمَ.",
       "translation": "Rekao je da je buka uznemirujuća i želi spavati.",
-      "translationEn": "He said the noise is disturbing and he wants to sleep."
+      "translationEn": "He said the noise is disturbing and he wants to sleep.",
+      "words": [
+        { "w": "الضَّوْضَاءَ", "root": "ض و ض", "bs": "buka", "en": "noise" },
+        { "w": "مُزْعِجَةٌ", "root": "ز ع ج", "bs": "uznemirujuća", "en": "disturbing" },
+        { "w": "يُرِيدُ", "root": "ر و د", "bs": "želi", "en": "wants" },
+        { "w": "النَّوْمَ", "root": "ن و م", "bs": "spavati", "en": "sleep" }
+      ]
     },
     {
       "arabic": "اعْتَذَرَ صَاحِبُ البَيْتِ وَوَعَدَ بِالهُدُوءِ.",
       "translation": "Domaćin se ispričao i obećao tišinu.",
-      "translationEn": "The homeowner apologized and promised quiet."
+      "translationEn": "The homeowner apologized and promised quiet.",
+      "words": [
+        { "w": "اعْتَذَرَ", "root": "ع ذ ر", "bs": "ispričao se", "en": "apologized" },
+        { "w": "صَاحِبُ", "root": "ص ح ب", "bs": "vlasnik", "en": "owner" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuće", "en": "house" },
+        { "w": "وَعَدَ", "root": "و ع د", "bs": "obećao je", "en": "promised" },
+        { "w": "بِالهُدُوءِ", "root": "هـ د أ", "bs": "tišinu", "en": "quiet" }
+      ]
     },
     {
       "arabic": "شَكَرَهُ الجَارُ وَرَجَعَ إِلَى بَيْتِهِ.",
       "translation": "Komšija mu je zahvalio i vratio se kući.",
-      "translationEn": "The neighbor thanked him and returned to his house."
+      "translationEn": "The neighbor thanked him and returned to his house.",
+      "words": [
+        { "w": "شَكَرَهُ", "root": "ش ك ر", "bs": "zahvalio mu je", "en": "thanked him" },
+        { "w": "الجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
+        { "w": "رَجَعَ", "root": "ر ج ع", "bs": "vratio se", "en": "returned" },
+        { "w": "بَيْتِهِ", "root": "ب ي ت", "bs": "kući", "en": "house" }
+      ]
     }
   ],
   "metadata": {

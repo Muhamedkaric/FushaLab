@@ -6,22 +6,49 @@
     {
       "arabic": "كَانَ هُنَاكَ خَرُوفٌ أَبْيَضُ يَأْكُلُ الْعُشْبَ بِجَانِبِ الْجَبَلِ.",
       "translation": "Bila je bijela ovca koja je jela travu pored planine.",
-      "translationEn": "There was a white sheep eating grass beside the mountain."
+      "translationEn": "There was a white sheep eating grass beside the mountain.",
+      "words": [
+        { "w": "خَرُوفٌ", "root": "خ ر ف", "bs": "ovca", "en": "sheep" },
+        { "w": "أَبْيَضُ", "root": "ب ي ض", "bs": "bijela", "en": "white" },
+        { "w": "يَأْكُلُ", "root": "أ ك ل", "bs": "jela je", "en": "eating" },
+        { "w": "الْعُشْبَ", "root": "ع ش ب", "bs": "trava", "en": "grass" },
+        { "w": "الْجَبَلِ", "root": "ج ب ل", "bs": "planina", "en": "mountain" }
+      ]
     },
     {
       "arabic": "رَأَتْ زَهْرَةً حَمْرَاءَ بَعِيدَةً وَمَشَتْ نَحْوَهَا.",
       "translation": "Ugledala je crveni cvijet daleko i krenula prema njemu.",
-      "translationEn": "It saw a red flower far away and walked toward it."
+      "translationEn": "It saw a red flower far away and walked toward it.",
+      "words": [
+        { "w": "رَأَتْ", "root": "ر أ ي", "bs": "ugledala je", "en": "saw" },
+        { "w": "زَهْرَةً", "root": "ز ه ر", "bs": "cvijet", "en": "flower" },
+        { "w": "حَمْرَاءَ", "root": "ح م ر", "bs": "crveni", "en": "red" },
+        { "w": "بَعِيدَةً", "root": "ب ع د", "bs": "daleko", "en": "far away" },
+        { "w": "مَشَتْ", "root": "م ش ي", "bs": "krenula je", "en": "walked" }
+      ]
     },
     {
       "arabic": "ضَاعَتْ وَلَمْ تَجِدِ الطَّرِيقَ إِلَى الْقَطِيعِ.",
       "translation": "Zalutala je i nije mogla naći put do stada.",
-      "translationEn": "It got lost and could not find the way back to the flock."
+      "translationEn": "It got lost and could not find the way back to the flock.",
+      "words": [
+        { "w": "ضَاعَتْ", "root": "ض ي ع", "bs": "zalutala je", "en": "got lost" },
+        { "w": "تَجِدِ", "root": "و ج د", "bs": "naći", "en": "find" },
+        { "w": "الطَّرِيقَ", "root": "ط ر ق", "bs": "put", "en": "way" },
+        { "w": "الْقَطِيعِ", "root": "ق ط ع", "bs": "stado", "en": "flock" }
+      ]
     },
     {
       "arabic": "سَمِعَتْ صَوْتَ رَاعِيهَا فَرَكَضَتْ نَحْوَهُ بِسُرْعَةٍ.",
       "translation": "Čula je glas svog pastira i brzo je potrčala prema njemu.",
-      "translationEn": "It heard its shepherd's voice and ran quickly toward it."
+      "translationEn": "It heard its shepherd's voice and ran quickly toward it.",
+      "words": [
+        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "čula je", "en": "heard" },
+        { "w": "صَوْتَ", "root": "ص و ت", "bs": "glas", "en": "voice" },
+        { "w": "رَاعِيهَا", "root": "ر ع ي", "bs": "njen pastir", "en": "its shepherd" },
+        { "w": "رَكَضَتْ", "root": "ر ك ض", "bs": "potrčala je", "en": "ran" },
+        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+      ]
     }
   ],
   "metadata": {

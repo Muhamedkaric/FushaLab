@@ -6,22 +6,44 @@
     {
       "arabic": "كَانَتِ الْعَائِلَةُ تَجْتَمِعُ كُلَّ جُمُعَةٍ عِنْدَ الْجَدِّ.",
       "translation": "Porodica se svake subote skupljala kod djeda.",
-      "translationEn": "The family gathered every Friday at their grandfather's house."
+      "translationEn": "The family gathered every Friday at their grandfather's house.",
+      "words": [
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "تَجْتَمِعُ", "root": "ج م ع", "bs": "skupljala se", "en": "gathered" },
+        { "w": "الْجَدِّ", "root": "ج د د", "bs": "djed", "en": "grandfather" }
+      ]
     },
     {
       "arabic": "كَانَ الْجَدُّ يَحْكِي قِصَصًا مِنْ أَيَّامِهِ الْقَدِيمَةِ.",
       "translation": "Djed je pričao priče iz svojih starih dana.",
-      "translationEn": "The grandfather used to tell stories from his old days."
+      "translationEn": "The grandfather used to tell stories from his old days.",
+      "words": [
+        { "w": "يَحْكِي", "root": "ح ك ي", "bs": "pričao je", "en": "used to tell" },
+        { "w": "قِصَصًا", "root": "ق ص ص", "bs": "priče", "en": "stories" },
+        { "w": "أَيَّامِهِ", "root": "ي و م", "bs": "njegovi dani", "en": "his days" },
+        { "w": "الْقَدِيمَةِ", "root": "ق د م", "bs": "stari/prošli", "en": "old/past" }
+      ]
     },
     {
       "arabic": "جَلَسَ الأَطْفَالُ حَوْلَهُ وَاسْتَمَعُوا بِانْتِبَاهٍ.",
       "translation": "Djeca su sjedila oko njega i pažljivo slušala.",
-      "translationEn": "The children sat around him and listened carefully."
+      "translationEn": "The children sat around him and listened carefully.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjedili su", "en": "sat" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "اسْتَمَعُوا", "root": "س م ع", "bs": "slušali su", "en": "listened" },
+        { "w": "بِانْتِبَاهٍ", "root": "ن ب ه", "bs": "pažljivo", "en": "carefully" }
+      ]
     },
     {
       "arabic": "كَانَتْ تِلْكَ الأُمْسِيَاتُ مِنْ أَجْمَلِ ذِكْرَيَاتِهِمْ.",
       "translation": "Те večeri bile su među njihovim najlijepšim uspomenama.",
-      "translationEn": "Those evenings were among their most beautiful memories."
+      "translationEn": "Those evenings were among their most beautiful memories.",
+      "words": [
+        { "w": "الأُمْسِيَاتُ", "root": "م س و", "bs": "večeri", "en": "evenings" },
+        { "w": "أَجْمَلِ", "root": "ج م ل", "bs": "najljepši", "en": "most beautiful" },
+        { "w": "ذِكْرَيَاتِهِمْ", "root": "ذ ك ر", "bs": "njihove uspomene", "en": "their memories" }
+      ]
     }
   ],
   "metadata": {

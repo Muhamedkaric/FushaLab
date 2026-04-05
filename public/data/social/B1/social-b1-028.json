@@ -6,22 +6,46 @@
     {
       "arabic": "ذَهَبَتْ رِيمَا إِلَى المَكْتَبَةِ لِلبَحْثِ عَنْ كِتَابٍ.",
       "translation": "Rima je otišla u biblioteku tražiti knjigu.",
-      "translationEn": "Reema went to the library to look for a book."
+      "translationEn": "Reema went to the library to look for a book.",
+      "words": [
+        { "w": "ذَهَبَتْ", "root": "ذ هـ ب", "bs": "otišla je", "en": "went" },
+        { "w": "المَكْتَبَةِ", "root": "ك ت ب", "bs": "biblioteku", "en": "library" },
+        { "w": "لِلبَحْثِ", "root": "ب ح ث", "bs": "tražiti", "en": "to search" },
+        { "w": "كِتَابٍ", "root": "ك ت ب", "bs": "knjigu", "en": "book" }
+      ]
     },
     {
       "arabic": "لَمْ تَجِدِ الكِتَابَ فَسَأَلَتِ المُوَظَّفَةَ.",
       "translation": "Nije našla knjigu pa je pitala službenicu.",
-      "translationEn": "She didn't find the book so she asked the employee."
+      "translationEn": "She didn't find the book so she asked the employee.",
+      "words": [
+        { "w": "تَجِدِ", "root": "و ج د", "bs": "nađe", "en": "find" },
+        { "w": "الكِتَابَ", "root": "ك ت ب", "bs": "knjigu", "en": "book" },
+        { "w": "سَأَلَتِ", "root": "س أ ل", "bs": "pitala je", "en": "asked" },
+        { "w": "المُوَظَّفَةَ", "root": "و ظ ف", "bs": "službenicu", "en": "employee" }
+      ]
     },
     {
       "arabic": "أَرْشَدَتْهَا المُوَظَّفَةُ إِلَى القِسْمِ الصَّحِيحِ.",
       "translation": "Službenica ju je uputila na pravi odjel.",
-      "translationEn": "The employee directed her to the correct section."
+      "translationEn": "The employee directed her to the correct section.",
+      "words": [
+        { "w": "أَرْشَدَتْهَا", "root": "ر ش د", "bs": "uputila ju je", "en": "directed her" },
+        { "w": "المُوَظَّفَةُ", "root": "و ظ ف", "bs": "službenica", "en": "employee" },
+        { "w": "القِسْمِ", "root": "ق س م", "bs": "odjel", "en": "section" },
+        { "w": "الصَّحِيحِ", "root": "ص ح ح", "bs": "pravom", "en": "correct" }
+      ]
     },
     {
       "arabic": "وَجَدَتِ الكِتَابَ وَشَكَرَتِ المُوَظَّفَةَ.",
       "translation": "Pronašla je knjigu i zahvalila službenici.",
-      "translationEn": "She found the book and thanked the employee."
+      "translationEn": "She found the book and thanked the employee.",
+      "words": [
+        { "w": "وَجَدَتِ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
+        { "w": "الكِتَابَ", "root": "ك ت ب", "bs": "knjigu", "en": "book" },
+        { "w": "شَكَرَتِ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
+        { "w": "المُوَظَّفَةَ", "root": "و ظ ف", "bs": "službenici", "en": "employee" }
+      ]
     }
   ],
   "metadata": {

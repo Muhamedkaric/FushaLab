@@ -6,22 +6,114 @@
     {
       "arabic": "احْتَاجَ حَسَنٌ إِلَى شَحْنِ هَاتِفِهِ.",
       "translation": "Hasan je trebao napuniti telefon.",
-      "translationEn": "Hassan needed to charge his phone."
+      "translationEn": "Hassan needed to charge his phone.",
+      "words": [
+        {
+          "w": "احْتَاجَ",
+          "root": "ح و ج",
+          "bs": "trebao je",
+          "en": "needed"
+        },
+        {
+          "w": "شَحْنِ",
+          "root": "ش ح ن",
+          "bs": "punjenja",
+          "en": "charging"
+        },
+        {
+          "w": "هَاتِفِهِ",
+          "root": "ه ت ف",
+          "bs": "telefona",
+          "en": "his phone"
+        }
+      ]
     },
     {
       "arabic": "بَحَثَ عَنِ الشَّاحِنِ فِي حَقِيبَتِهِ فَلَمْ يَجِدْهُ.",
       "translation": "Tražio je punjač u torbi ali ga nije pronašao.",
-      "translationEn": "He looked for the charger in his bag but did not find it."
+      "translationEn": "He looked for the charger in his bag but did not find it.",
+      "words": [
+        {
+          "w": "بَحَثَ",
+          "root": "ب ح ث",
+          "bs": "tražio je",
+          "en": "looked for"
+        },
+        {
+          "w": "الشَّاحِنِ",
+          "root": "ش ح ن",
+          "bs": "punjač",
+          "en": "the charger"
+        },
+        {
+          "w": "حَقِيبَتِهِ",
+          "root": "ح ق ب",
+          "bs": "torbi",
+          "en": "his bag"
+        },
+        {
+          "w": "يَجِدْهُ",
+          "root": "و ج د",
+          "bs": "pronašao ga",
+          "en": "found it"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَ صَدِيقَهُ فَأَعَارَهُ شَاحِنَهُ.",
       "translation": "Pitao je prijatelja i on mu je posudio punjač.",
-      "translationEn": "He asked his friend and he lent him his charger."
+      "translationEn": "He asked his friend and he lent him his charger.",
+      "words": [
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked"
+        },
+        {
+          "w": "صَدِيقَهُ",
+          "root": "ص د ق",
+          "bs": "prijatelja",
+          "en": "his friend"
+        },
+        {
+          "w": "أَعَارَهُ",
+          "root": "ع و ر",
+          "bs": "posudio mu je",
+          "en": "lent him"
+        },
+        {
+          "w": "شَاحِنَهُ",
+          "root": "ش ح ن",
+          "bs": "punjač",
+          "en": "his charger"
+        }
+      ]
     },
     {
       "arabic": "شَكَرَهُ وَشَحَنَ هَاتِفَهُ.",
       "translation": "Zahvalio mu je i napunio telefon.",
-      "translationEn": "He thanked him and charged his phone."
+      "translationEn": "He thanked him and charged his phone.",
+      "words": [
+        {
+          "w": "شَكَرَهُ",
+          "root": "ش ك ر",
+          "bs": "zahvalio mu je",
+          "en": "thanked him"
+        },
+        {
+          "w": "شَحَنَ",
+          "root": "ش ح ن",
+          "bs": "napunio je",
+          "en": "charged"
+        },
+        {
+          "w": "هَاتِفَهُ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "his phone"
+        }
+      ]
     }
   ],
   "metadata": {

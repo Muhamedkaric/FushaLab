@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَتْ بِنْتٌ اسْمُهَا مَيَسُ تُحِبُّ النُّجُومَ.",
       "translation": "Bila je djevojčica po imenu Majas koja je voljela zvijezde.",
-      "translationEn": "There was a girl named Mayes who loved the stars."
+      "translationEn": "There was a girl named Mayes who loved the stars.",
+      "words": [
+        { "w": "بِنْتٌ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
+        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voljela je", "en": "loved" },
+        { "w": "النُّجُومَ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" }
+      ]
     },
     {
       "arabic": "كَانَتْ تَرْسُمُهَا كُلَّ لَيْلَةٍ فِي دَفْتَرِهَا.",
       "translation": "Svake večeri ih je crtala u svojoj bilježnici.",
-      "translationEn": "She drew them every night in her notebook."
+      "translationEn": "She drew them every night in her notebook.",
+      "words": [
+        { "w": "تَرْسُمُهَا", "root": "ر س م", "bs": "crtala ih je", "en": "drew them" },
+        { "w": "لَيْلَةٍ", "root": "ل ي ل", "bs": "večer", "en": "night" },
+        { "w": "دَفْتَرِهَا", "root": "د ف ت", "bs": "njena bilježnica", "en": "her notebook" }
+      ]
     },
     {
       "arabic": "رَأَتِ الْمُعَلِّمَةُ الدَّفْتَرَ وَاقْتَرَحَتْ أَنْ تَدْرُسَ الْفَلَكَ.",
       "translation": "Učiteljica je vidjela bilježnicu i predložila da studira astronomiju.",
-      "translationEn": "The teacher saw the notebook and suggested she study astronomy."
+      "translationEn": "The teacher saw the notebook and suggested she study astronomy.",
+      "words": [
+        { "w": "رَأَتِ", "root": "ر أ ي", "bs": "vidjela je", "en": "saw" },
+        { "w": "الْمُعَلِّمَةُ", "root": "ع ل م", "bs": "učiteljica", "en": "teacher" },
+        { "w": "الدَّفْتَرَ", "root": "د ف ت", "bs": "bilježnica", "en": "notebook" },
+        { "w": "اقْتَرَحَتْ", "root": "ق ر ح", "bs": "predložila je", "en": "suggested" },
+        { "w": "تَدْرُسَ", "root": "د ر س", "bs": "da studira", "en": "to study" },
+        { "w": "الْفَلَكَ", "root": "ف ل ك", "bs": "astronomija", "en": "astronomy" }
+      ]
     },
     {
       "arabic": "قَرَأَتْ مَيَسُ كِتَابًا عَنِ النُّجُومِ وَعَرَفَتْ أَسْمَاءَ كَثِيرَةٍ مِنْهَا.",
       "translation": "Majas je pročitala knjigu o zvijezdama i naučila mnoga njihova imena.",
-      "translationEn": "Mayes read a book about stars and learned many of their names."
+      "translationEn": "Mayes read a book about stars and learned many of their names.",
+      "words": [
+        { "w": "قَرَأَتْ", "root": "ق ر أ", "bs": "pročitala je", "en": "read" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "النُّجُومِ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" },
+        { "w": "عَرَفَتْ", "root": "ع ر ف", "bs": "naučila je", "en": "learned" },
+        { "w": "أَسْمَاءَ", "root": "س م و", "bs": "imena", "en": "names" }
+      ]
     }
   ],
   "metadata": {

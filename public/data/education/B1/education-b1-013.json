@@ -6,31 +6,153 @@
     {
       "arabic": "كَانَ يَوْمُ الرِّيَاضَةِ فِي المَلْعَبِ المَدْرَسِيِّ.",
       "translation": "Dan sporta bio je na školskom terenu.",
-      "translationEn": "Sports day was at the school playground."
+      "translationEn": "Sports day was at the school playground.",
+      "words": [
+        {
+          "w": "يَوْمُ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "الرِّيَاضَةِ",
+          "root": "ر و ض",
+          "bs": "sport",
+          "en": "sports"
+        },
+        {
+          "w": "المَلْعَبِ",
+          "root": "ل ع ب",
+          "bs": "teren/igralište",
+          "en": "playground"
+        }
+      ]
     },
     {
       "arabic": "تَنَافَسَ الطُّلَّابُ فِي سِبَاقِ الجَرْيِ.",
       "translation": "Učenici su se takmičili u trci.",
-      "translationEn": "The students competed in a running race."
+      "translationEn": "The students competed in a running race.",
+      "words": [
+        {
+          "w": "تَنَافَسَ",
+          "root": "ن ف س",
+          "bs": "takmičili su se",
+          "en": "competed"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "سِبَاقِ",
+          "root": "س ب ق",
+          "bs": "trka",
+          "en": "race"
+        },
+        {
+          "w": "الجَرْيِ",
+          "root": "ج ر ي",
+          "bs": "trčanje",
+          "en": "running"
+        }
+      ]
     },
     {
       "arabic": "جَرَى سَامِيٌّ بِسُرْعَةٍ كَبِيرَةٍ وَوَصَلَ أَوَّلًا.",
       "translation": "Sami je trčao velikom brzinom i stigao prvi.",
-      "translationEn": "Sami ran very fast and arrived first."
+      "translationEn": "Sami ran very fast and arrived first.",
+      "words": [
+        {
+          "w": "جَرَى",
+          "root": "ج ر ي",
+          "bs": "trčao",
+          "en": "ran"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "fast"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "root": "ك ب ر",
+          "bs": "velikom",
+          "en": "great"
+        },
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao",
+          "en": "arrived"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَى المُدِيرُ سَامِيًّا مِيدَالِيَّةً ذَهَبِيَّةً.",
       "translation": "Direktor je dao Samiju zlatnu medalju.",
-      "translationEn": "The principal gave Sami a gold medal."
+      "translationEn": "The principal gave Sami a gold medal.",
+      "words": [
+        {
+          "w": "أَعْطَى",
+          "root": "ع ط و",
+          "bs": "dao",
+          "en": "gave"
+        },
+        {
+          "w": "المُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor",
+          "en": "principal"
+        },
+        {
+          "w": "مِيدَالِيَّةً",
+          "root": "م د ل",
+          "bs": "medalja",
+          "en": "medal"
+        },
+        {
+          "w": "ذَهَبِيَّةً",
+          "root": "ذ ه ب",
+          "bs": "zlatnu",
+          "en": "gold"
+        }
+      ]
     },
     {
       "arabic": "صَفَّقَ الجَمِيعُ لَهُ وَهُوَ يَبْتَسِمُ بِفَخْرٍ.",
       "translation": "Svi su mu zapljeskali dok se on ponosno osmjehivao.",
-      "translationEn": "Everyone clapped for him as he smiled with pride."
+      "translationEn": "Everyone clapped for him as he smiled with pride.",
+      "words": [
+        {
+          "w": "صَفَّقَ",
+          "root": "ص ف ق",
+          "bs": "zapljeskali",
+          "en": "clapped"
+        },
+        {
+          "w": "يَبْتَسِمُ",
+          "root": "ب س م",
+          "bs": "osmjehuje se",
+          "en": "smiling"
+        },
+        {
+          "w": "بِفَخْرٍ",
+          "root": "ف خ ر",
+          "bs": "ponosno",
+          "en": "proudly"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sports", "school", "competition"]
+    "tags": [
+      "sports",
+      "school",
+      "competition"
+    ]
   }
 }

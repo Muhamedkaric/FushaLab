@@ -6,22 +6,45 @@
     {
       "arabic": "اسْتَيْقَظَتِ الْعَائِلَةُ وَأَكَلَتِ الْفُطُورَ مَعًا.",
       "translation": "Porodica se probudila i jela doručak zajedno.",
-      "translationEn": "The family woke up and ate breakfast together."
+      "translationEn": "The family woke up and ate breakfast together.",
+      "words": [
+        { "w": "اسْتَيْقَظَتِ", "root": "ي ق ظ", "bs": "probudila se", "en": "woke up" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "jela je", "en": "ate" },
+        { "w": "الْفُطُورَ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" }
+      ]
     },
     {
       "arabic": "كَانَ عَلَى الطَّاوِلَةِ خُبْزٌ وَجُبْنٌ وَبَيْضٌ.",
       "translation": "Na stolu je bio hljeb, sir i jaja.",
-      "translationEn": "On the table there was bread, cheese, and eggs."
+      "translationEn": "On the table there was bread, cheese, and eggs.",
+      "words": [
+        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stol/sto", "en": "table" },
+        { "w": "خُبْزٌ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "جُبْنٌ", "root": "ج ب ن", "bs": "sir", "en": "cheese" },
+        { "w": "بَيْضٌ", "root": "ب ي ض", "bs": "jaja", "en": "eggs" }
+      ]
     },
     {
       "arabic": "شَرِبَ الْجَمِيعُ الشَّاي بِالْحَلِيبِ.",
       "translation": "Svi su pili čaj sa mlijekom.",
-      "translationEn": "Everyone drank tea with milk."
+      "translationEn": "Everyone drank tea with milk.",
+      "words": [
+        { "w": "شَرِبَ", "root": "ش ر ب", "bs": "pili su", "en": "drank" },
+        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
+        { "w": "الشَّاي", "root": "ش ي أ", "bs": "čaj", "en": "tea" },
+        { "w": "الْحَلِيبِ", "root": "ح ل ب", "bs": "mlijeko", "en": "milk" }
+      ]
     },
     {
       "arabic": "كَانَ الْفُطُورُ بَسِيطًا لَكِنَّهُ جَمِيلٌ.",
       "translation": "Doručak je bio jednostavan ali lijep.",
-      "translationEn": "The breakfast was simple but lovely."
+      "translationEn": "The breakfast was simple but lovely.",
+      "words": [
+        { "w": "الْفُطُورُ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" },
+        { "w": "بَسِيطًا", "root": "ب س ط", "bs": "jednostavan", "en": "simple" },
+        { "w": "جَمِيلٌ", "root": "ج م ل", "bs": "lijep/ugodan", "en": "lovely/beautiful" }
+      ]
     }
   ],
   "metadata": {

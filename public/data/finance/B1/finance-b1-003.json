@@ -6,22 +6,45 @@
     {
       "arabic": "ذَهَبَتْ أُمُّ كَرِيمٍ إِلَى السُّوقِ لِشِرَاءِ الخُضَارِ.",
       "translation": "Kerimova mama je otišla na pijacu kupiti povrće.",
-      "translationEn": "Karim's mother went to the market to buy vegetables."
+      "translationEn": "Karim's mother went to the market to buy vegetables.",
+      "words": [
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca", "en": "market" },
+        { "w": "لِشِرَاءِ", "root": "ش ر ي", "bs": "za kupovinu", "en": "to buy" },
+        { "w": "الخُضَارِ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" }
+      ]
     },
     {
       "arabic": "سَأَلَتِ البَائِعَ عَنْ سِعْرِ الطَّمَاطِمِ وَالبَطَاطِسِ.",
       "translation": "Upitala je prodavača za cijenu paradajza i krompira.",
-      "translationEn": "She asked the seller about the price of tomatoes and potatoes."
+      "translationEn": "She asked the seller about the price of tomatoes and potatoes.",
+      "words": [
+        { "w": "سَأَلَتِ", "root": "س أ ل", "bs": "upitala je", "en": "asked" },
+        { "w": "البَائِعَ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" },
+        { "w": "سِعْرِ", "root": "س ع ر", "bs": "cijena", "en": "price" },
+        { "w": "الطَّمَاطِمِ", "root": "ط م ط م", "bs": "paradajz", "en": "tomatoes" }
+      ]
     },
     {
       "arabic": "وَجَدَتِ السِّعْرَ مُنَاسِبًا فَاشْتَرَتْ كَمِّيَّةً كَافِيَةً.",
       "translation": "Smatrala je cijenu odgovarajućom i kupila dovoljnu količinu.",
-      "translationEn": "She found the price reasonable and bought a sufficient quantity."
+      "translationEn": "She found the price reasonable and bought a sufficient quantity.",
+      "words": [
+        { "w": "وَجَدَتِ", "root": "و ج د", "bs": "smatrala je", "en": "found" },
+        { "w": "السِّعْرَ", "root": "س ع ر", "bs": "cijena", "en": "price" },
+        { "w": "مُنَاسِبًا", "root": "ن س ب", "bs": "odgovarajuća", "en": "reasonable" },
+        { "w": "كَمِّيَّةً", "root": "ك م م", "bs": "količina", "en": "quantity" }
+      ]
     },
     {
       "arabic": "دَفَعَتِ الثَّمَنَ وَشَكَرَتِ البَائِعَ.",
       "translation": "Platila je cijenu i zahvalila prodavaču.",
-      "translationEn": "She paid the price and thanked the seller."
+      "translationEn": "She paid the price and thanked the seller.",
+      "words": [
+        { "w": "دَفَعَتِ", "root": "د ف ع", "bs": "platila je", "en": "paid" },
+        { "w": "الثَّمَنَ", "root": "ث م ن", "bs": "cijena", "en": "price" },
+        { "w": "شَكَرَتِ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
+        { "w": "البَائِعَ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" }
+      ]
     }
   ],
   "metadata": {

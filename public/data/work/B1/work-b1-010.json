@@ -6,22 +6,46 @@
     {
       "arabic": "سَأَلَ الْمُدِيرُ رِيمَ عَنْ سَيْرِ الْمَشْرُوعِ.",
       "translation": "Direktor je pitao Rim o napretku projekta.",
-      "translationEn": "The manager asked Reem about the progress of the project."
+      "translationEn": "The manager asked Reem about the progress of the project.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager/director" },
+        { "w": "سَيْرِ", "root": "س ي ر", "bs": "napredak/tok", "en": "progress/course" },
+        { "w": "الْمَشْرُوعِ", "root": "ش ر ع", "bs": "projekat", "en": "project" }
+      ]
     },
     {
       "arabic": "قَالَتْ إِنَّ الْعَمَلَ يَسِيرُ بِشَكْلٍ جَيِّدٍ.",
       "translation": "Rekla je da posao napreduje dobro.",
-      "translationEn": "She said that the work is going well."
+      "translationEn": "She said that the work is going well.",
+      "words": [
+        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
+        { "w": "يَسِيرُ", "root": "س ي ر", "bs": "napreduje/ide", "en": "is going/progressing" },
+        { "w": "جَيِّدٍ", "root": "ج و د", "bs": "dobro/dobro", "en": "well/good" }
+      ]
     },
     {
       "arabic": "أَخْبَرَتْهُ أَنَّهَا سَتُنْهِيهِ قَبْلَ نِهَايَةِ الْأُسْبُوعِ.",
       "translation": "Rekla mu je da će ga završiti prije kraja sedmice.",
-      "translationEn": "She told him she will finish it before the end of the week."
+      "translationEn": "She told him she will finish it before the end of the week.",
+      "words": [
+        { "w": "أَخْبَرَتْهُ", "root": "خ ب ر", "bs": "rekla mu je/obavijestila ga", "en": "told him/informed him" },
+        { "w": "سَتُنْهِيهِ", "root": "ن ه ي", "bs": "završit će ga", "en": "she will finish it" },
+        { "w": "نِهَايَةِ", "root": "ن ه ي", "bs": "kraj/završetak", "en": "end" },
+        { "w": "الْأُسْبُوعِ", "root": "س ب ع", "bs": "sedmica/tjedan", "en": "week" }
+      ]
     },
     {
       "arabic": "قَالَ الْمُدِيرُ «مُمْتَازٌ» وَابْتَسَمَ لَهَا.",
       "translation": "Direktor je rekao «odlično» i nasmiješio joj se.",
-      "translationEn": "The manager said «excellent» and smiled at her."
+      "translationEn": "The manager said «excellent» and smiled at her.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
+        { "w": "مُمْتَازٌ", "root": "م ي ز", "bs": "odlično/izvrsno", "en": "excellent" },
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" }
+      ]
     }
   ],
   "metadata": {

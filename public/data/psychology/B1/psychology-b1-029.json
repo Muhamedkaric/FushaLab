@@ -6,22 +6,47 @@
     {
       "arabic": "حِينَ نَقُولُ «لَا» نَحْمِي أَنْفُسَنَا مِنَ التَّعَبِ.",
       "translation": "Kada kažemo \"ne\" štitimo sebe od umora.",
-      "translationEn": "When we say \"no\" we protect ourselves from exhaustion."
+      "translationEn": "When we say \"no\" we protect ourselves from exhaustion.",
+      "words": [
+        { "w": "نَقُولُ", "root": "ق و ل", "bs": "kažemo", "en": "say" },
+        { "w": "نَحْمِي", "root": "ح م ي", "bs": "štitimo", "en": "protect" },
+        { "w": "أَنْفُسَنَا", "root": "ن ف س", "bs": "sebe", "en": "ourselves" },
+        { "w": "التَّعَبِ", "root": "ت ع ب", "bs": "umor", "en": "exhaustion" }
+      ]
     },
     {
       "arabic": "طُلِبَ مِنْ سُلْطَانَ أَنْ يَعْمَلَ لِسَاعَاتٍ إِضَافِيَّةٍ.",
       "translation": "Od Sultana je traženo da radi prekovremene sate.",
-      "translationEn": "Sultan was asked to work extra hours."
+      "translationEn": "Sultan was asked to work extra hours.",
+      "words": [
+        { "w": "طُلِبَ", "root": "ط ل ب", "bs": "traženo je", "en": "was asked" },
+        { "w": "يَعْمَلَ", "root": "ع م ل", "bs": "radi", "en": "to work" },
+        { "w": "سَاعَاتٍ", "root": "س و ع", "bs": "sati", "en": "hours" },
+        { "w": "إِضَافِيَّةٍ", "root": "ض ي ف", "bs": "prekovremeni", "en": "extra" }
+      ]
     },
     {
       "arabic": "قَالَ بِهُدُوءٍ «أَنَا مُتْعَبٌ وَأَحْتَاجُ إِلَى الرَّاحَةِ».",
       "translation": "Mirno je rekao \"umoran sam i trebam odmor\".",
-      "translationEn": "He calmly said \"I am tired and I need rest\"."
+      "translationEn": "He calmly said \"I am tired and I need rest\".",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno", "en": "calmly" },
+        { "w": "مُتْعَبٌ", "root": "ت ع ب", "bs": "umoran", "en": "tired" },
+        { "w": "أَحْتَاجُ", "root": "ح و ج", "bs": "trebam", "en": "I need" },
+        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "odmor", "en": "rest" }
+      ]
     },
     {
       "arabic": "مَعْرِفَةُ حُدُودِنَا شَيْءٌ مُهِمٌّ لِصِحَّتِنَا.",
       "translation": "Poznavanje naših granica je važna stvar za naše zdravlje.",
-      "translationEn": "Knowing our limits is an important thing for our health."
+      "translationEn": "Knowing our limits is an important thing for our health.",
+      "words": [
+        { "w": "مَعْرِفَةُ", "root": "ع ر ف", "bs": "poznavanje", "en": "knowing" },
+        { "w": "حُدُودِنَا", "root": "ح د د", "bs": "naše granice", "en": "our limits" },
+        { "w": "مُهِمٌّ", "root": "ه م م", "bs": "važno", "en": "important" },
+        { "w": "صِحَّتِنَا", "root": "ص ح ح", "bs": "naše zdravlje", "en": "our health" }
+      ]
     }
   ],
   "metadata": {

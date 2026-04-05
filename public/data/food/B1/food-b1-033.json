@@ -6,22 +6,48 @@
     {
       "arabic": "صَنَعَتِ الْأُمُّ عَصِيرَ الْمَانْجُو فِي الْمِيكْسَرِ.",
       "translation": "Majka je napravila sok od manga u blenderu.",
-      "translationEn": "The mother made mango juice in the blender."
+      "translationEn": "The mother made mango juice in the blender.",
+      "words": [
+        { "w": "صَنَعَتِ", "root": "ص ن ع", "bs": "napravila je", "en": "made" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "عَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "الْمَانْجُو", "root": "", "bs": "mango", "en": "mango" },
+        { "w": "الْمِيكْسَرِ", "root": "", "bs": "blender/mikser", "en": "blender/mixer" }
+      ]
     },
     {
       "arabic": "أَضَافَتْ قَلِيلًا مِنَ السُّكَّرِ وَالثَّلْجِ.",
       "translation": "Dodala je malo šećera i leda.",
-      "translationEn": "She added a little sugar and ice."
+      "translationEn": "She added a little sugar and ice.",
+      "words": [
+        { "w": "أَضَافَتْ", "root": "ض ي ف", "bs": "dodala je", "en": "added" },
+        { "w": "السُّكَّرِ", "root": "س ك ر", "bs": "šećer", "en": "sugar" },
+        { "w": "الثَّلْجِ", "root": "ث ل ج", "bs": "led", "en": "ice" }
+      ]
     },
     {
       "arabic": "سَكَبَتِ الْعَصِيرَ فِي كُؤُوسٍ وَقَدَّمَتْهُ لِلْأَطْفَالِ.",
       "translation": "Točila je sok u čaše i ponudila ga djeci.",
-      "translationEn": "She poured the juice into glasses and offered it to the children."
+      "translationEn": "She poured the juice into glasses and offered it to the children.",
+      "words": [
+        { "w": "سَكَبَتِ", "root": "س ك ب", "bs": "točila je/ulila", "en": "poured" },
+        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "كُؤُوسٍ", "root": "ك أ س", "bs": "čaše", "en": "glasses" },
+        { "w": "قَدَّمَتْهُ", "root": "ق د م", "bs": "ponudila ga je/dala", "en": "offered it" },
+        { "w": "الْأَطْفَالِ", "root": "ط ف ل", "bs": "djeca", "en": "children" }
+      ]
     },
     {
       "arabic": "أَحَبَّ الْأَطْفَالُ الْعَصِيرَ وَطَلَبُوا الْمَزِيدَ.",
       "translation": "Djeca su zavoljela sok i tražila još.",
-      "translationEn": "The children loved the juice and asked for more."
+      "translationEn": "The children loved the juice and asked for more.",
+      "words": [
+        { "w": "أَحَبَّ", "root": "ح ب ب", "bs": "zavoljeli su/voljeli", "en": "loved" },
+        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "طَلَبُوا", "root": "ط ل ب", "bs": "tražili su", "en": "asked for" },
+        { "w": "الْمَزِيدَ", "root": "ز ي د", "bs": "još/više", "en": "more" }
+      ]
     }
   ],
   "metadata": {

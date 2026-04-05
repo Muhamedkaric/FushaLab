@@ -6,22 +6,45 @@
     {
       "arabic": "ذَهَبَتِ الْأُمُّ إِلَى السُّوقِ فِي الصَّبَاحِ.",
       "translation": "Majka je otišla na pijacu ujutro.",
-      "translationEn": "The mother went to the market in the morning."
+      "translationEn": "The mother went to the market in the morning.",
+      "words": [
+        { "w": "ذَهَبَتِ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca/tržnica", "en": "market" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "اشْتَرَتِ السَّمَكَ الطَّازِجَ مِنَ الْبَائِعِ.",
       "translation": "Kupila je svježu ribu od prodavca.",
-      "translationEn": "She bought fresh fish from the vendor."
+      "translationEn": "She bought fresh fish from the vendor.",
+      "words": [
+        { "w": "اشْتَرَتِ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "السَّمَكَ", "root": "س م ك", "bs": "riba", "en": "fish" },
+        { "w": "الطَّازِجَ", "root": "ط ز ج", "bs": "svježu/svježe", "en": "fresh" },
+        { "w": "الْبَائِعِ", "root": "ب ي ع", "bs": "prodavac", "en": "vendor/seller" }
+      ]
     },
     {
       "arabic": "طَبَخَتِ السَّمَكَ بِالْبَهَارَاتِ وَالزَّيْتِ.",
       "translation": "Skuhala je ribu s začinima i uljem.",
-      "translationEn": "She cooked the fish with spices and oil."
+      "translationEn": "She cooked the fish with spices and oil.",
+      "words": [
+        { "w": "طَبَخَتِ", "root": "ط ب خ", "bs": "skuhala je/pekla", "en": "cooked" },
+        { "w": "السَّمَكَ", "root": "س م ك", "bs": "ribu", "en": "fish" },
+        { "w": "الْبَهَارَاتِ", "root": "ب ه ر", "bs": "začini", "en": "spices" },
+        { "w": "الزَّيْتِ", "root": "ز ي ت", "bs": "ulje", "en": "oil" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْوَجْبَةُ خَفِيفَةً وَمُفِيدَةً.",
       "translation": "Obrok je bio lagan i koristan.",
-      "translationEn": "The meal was light and nutritious."
+      "translationEn": "The meal was light and nutritious.",
+      "words": [
+        { "w": "الْوَجْبَةُ", "root": "و ج ب", "bs": "obrok/jelo", "en": "meal" },
+        { "w": "خَفِيفَةً", "root": "خ ف ف", "bs": "lagan/laganu", "en": "light" },
+        { "w": "مُفِيدَةً", "root": "ف ي د", "bs": "korisnu/hranjivo", "en": "nutritious/beneficial" }
+      ]
     }
   ],
   "metadata": {

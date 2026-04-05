@@ -6,22 +6,120 @@
     {
       "arabic": "يَقْرَأُ عَبْدُ اللَّهِ الْقُرْآنَ كُلَّ مَسَاءٍ.",
       "translation": "Abdullah svake večeri čita Kur'an.",
-      "translationEn": "Abdullah reads the Quran every evening."
+      "translationEn": "Abdullah reads the Quran every evening.",
+      "words": [
+        {
+          "w": "يَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "reads"
+        },
+        {
+          "w": "الْقُرْآنَ",
+          "root": "ق ر أ",
+          "bs": "Kur'an",
+          "en": "the Quran"
+        },
+        {
+          "w": "مَسَاءٍ",
+          "root": "م س و",
+          "bs": "večeri",
+          "en": "every evening"
+        }
+      ]
     },
     {
       "arabic": "يَجْلِسُ فِي غُرْفَتِهِ بَعْدَ صَلَاةِ الْعِشَاءِ.",
       "translation": "Sjedi u sobi nakon jacija-namaza.",
-      "translationEn": "He sits in his room after the Isha prayer."
+      "translationEn": "He sits in his room after the Isha prayer.",
+      "words": [
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedi",
+          "en": "sits"
+        },
+        {
+          "w": "غُرْفَتِهِ",
+          "root": "غ ر ف",
+          "bs": "sobi",
+          "en": "his room"
+        },
+        {
+          "w": "صَلَاةِ الْعِشَاءِ",
+          "root": "ع ش و",
+          "bs": "jacija-namaza",
+          "en": "the Isha prayer"
+        }
+      ]
     },
     {
       "arabic": "يَقْرَأُ ببُطْءٍ وَيَتَدَبَّرُ الْآيَاتِ.",
       "translation": "Čita polako i razmišlja o ajetima.",
-      "translationEn": "He reads slowly and ponders the verses."
+      "translationEn": "He reads slowly and ponders the verses.",
+      "words": [
+        {
+          "w": "يَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "reads"
+        },
+        {
+          "w": "بُطْءٍ",
+          "root": "ب ط أ",
+          "bs": "polako",
+          "en": "slowly"
+        },
+        {
+          "w": "يَتَدَبَّرُ",
+          "root": "د ب ر",
+          "bs": "razmišlja",
+          "en": "ponders"
+        },
+        {
+          "w": "الْآيَاتِ",
+          "root": "أ ي ي",
+          "bs": "ajetima",
+          "en": "the verses"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ: الْقُرْآنُ يُرِيحُ قَلْبِي وَيُنِيرُ عَقْلِي.",
       "translation": "Kaže: Kur'an smiruje moje srce i prosvjetljuje moj razum.",
-      "translationEn": "He says: The Quran calms my heart and enlightens my mind."
+      "translationEn": "He says: The Quran calms my heart and enlightens my mind.",
+      "words": [
+        {
+          "w": "الْقُرْآنُ",
+          "root": "ق ر أ",
+          "bs": "Kur'an",
+          "en": "the Quran"
+        },
+        {
+          "w": "يُرِيحُ",
+          "root": "ر و ح",
+          "bs": "smiruje",
+          "en": "calms"
+        },
+        {
+          "w": "قَلْبِي",
+          "root": "ق ل ب",
+          "bs": "moje srce",
+          "en": "my heart"
+        },
+        {
+          "w": "يُنِيرُ",
+          "root": "ن و ر",
+          "bs": "prosvjetljuje",
+          "en": "enlightens"
+        },
+        {
+          "w": "عَقْلِي",
+          "root": "ع ق ل",
+          "bs": "moj razum",
+          "en": "my mind"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,27 +6,55 @@
     {
       "arabic": "رَأَى بَدْرٌ إِعْلَانًا عَنْ تَخْفِيضَاتٍ فِي المَلَابِسِ.",
       "translation": "Badr je vidio oglas o popustima na odjeću.",
-      "translationEn": "Badr saw an advertisement about discounts on clothes."
+      "translationEn": "Badr saw an advertisement about discounts on clothes.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "إِعْلَانًا", "root": "ع ل ن", "bs": "oglas", "en": "advertisement" },
+        { "w": "تَخْفِيضَاتٍ", "root": "خ ف ض", "bs": "popusti", "en": "discounts" },
+        { "w": "المَلَابِسِ", "root": "ل ب س", "bs": "odjeća", "en": "clothes" }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَى المَحَلِّ وَوَجَدَ الأَسْعَارَ مُنْخَفِضَةً جِدًّا.",
       "translation": "Otišao je u prodavnicu i pronašao cijene jako niske.",
-      "translationEn": "He went to the shop and found prices very low."
+      "translationEn": "He went to the shop and found prices very low.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "الأَسْعَارَ", "root": "س ع ر", "bs": "cijene", "en": "prices" },
+        { "w": "مُنْخَفِضَةً", "root": "خ ف ض", "bs": "niske", "en": "low" }
+      ]
     },
     {
       "arabic": "اشْتَرَى قَمِيصًا وَبَنْطَلُونًا بِسِعْرٍ جَيِّدٍ.",
       "translation": "Kupio je košulju i pantalone po dobroj cijeni.",
-      "translationEn": "He bought a shirt and trousers at a good price."
+      "translationEn": "He bought a shirt and trousers at a good price.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "قَمِيصًا", "root": "ق م ص", "bs": "košulja", "en": "shirt" },
+        { "w": "بَنْطَلُونًا", "root": "", "bs": "pantalone", "en": "trousers" },
+        { "w": "سِعْرٍ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+      ]
     },
     {
       "arabic": "كَانَ مَسْرُورًا لِأَنَّهُ وَفَّرَ نُقُودًا كَثِيرَةً.",
       "translation": "Bio je zadovoljan što je uštedio puno novca.",
-      "translationEn": "He was pleased because he saved a lot of money."
+      "translationEn": "He was pleased because he saved a lot of money.",
+      "words": [
+        { "w": "مَسْرُورًا", "root": "س ر ر", "bs": "zadovoljan", "en": "pleased" },
+        { "w": "وَفَّرَ", "root": "و ف ر", "bs": "uštedio je", "en": "saved" },
+        { "w": "نُقُودًا", "root": "ن ق د", "bs": "novac", "en": "money" }
+      ]
     },
     {
       "arabic": "أَخْبَرَ أَصْدِقَاءَهُ عَنِ التَّخْفِيضَاتِ.",
       "translation": "Obavijestio je prijatelje o popustima.",
-      "translationEn": "He told his friends about the discounts."
+      "translationEn": "He told his friends about the discounts.",
+      "words": [
+        { "w": "أَخْبَرَ", "root": "خ ب ر", "bs": "obavijestio je", "en": "told" },
+        { "w": "أَصْدِقَاءَهُ", "root": "ص د ق", "bs": "njegove prijatelje", "en": "his friends" },
+        { "w": "التَّخْفِيضَاتِ", "root": "خ ف ض", "bs": "popusti", "en": "discounts" }
+      ]
     }
   ],
   "metadata": {

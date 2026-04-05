@@ -6,22 +6,47 @@
     {
       "arabic": "اشْتَرَتِ الْأُمُّ خُبْزًا وَلَبَنًا وَعَسَلًا.",
       "translation": "Majka je kupila hljeb, sir i med.",
-      "translationEn": "The mother bought bread, cheese, and honey."
+      "translationEn": "The mother bought bread, cheese, and honey.",
+      "words": [
+        { "w": "اشْتَرَتِ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "خُبْزًا", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "لَبَنًا", "root": "ل ب ن", "bs": "sir/jogurt", "en": "cheese/yogurt" },
+        { "w": "عَسَلًا", "root": "ع س ل", "bs": "med", "en": "honey" }
+      ]
     },
     {
       "arabic": "حَضَّرَتِ الْفُطُورَ فِي خَمْسِ دَقَائِقَ.",
       "translation": "Pripremila je doručak za pet minuta.",
-      "translationEn": "She prepared breakfast in five minutes."
+      "translationEn": "She prepared breakfast in five minutes.",
+      "words": [
+        { "w": "حَضَّرَتِ", "root": "ح ض ر", "bs": "pripremila je", "en": "prepared" },
+        { "w": "الْفُطُورَ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" },
+        { "w": "دَقَائِقَ", "root": "د ق ق", "bs": "minuta", "en": "minutes" }
+      ]
     },
     {
       "arabic": "جَلَسَ الْجَمِيعُ وَأَكَلُوا قَبْلَ الذَّهَابِ إِلَى الْعَمَلِ.",
       "translation": "Svi su sjeli i jeli prije odlaska na posao.",
-      "translationEn": "Everyone sat and ate before going to work."
+      "translationEn": "Everyone sat and ate before going to work.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeli su", "en": "sat" },
+        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
+        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
+        { "w": "الذَّهَابِ", "root": "ذ ه ب", "bs": "odlaska/odlazak", "en": "going" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao/rad", "en": "work" }
+      ]
     },
     {
       "arabic": "كَانَ الْفُطُورُ خَفِيفًا لَكِنَّهُ أَعْطَاهُمُ الطَّاقَةَ.",
       "translation": "Doručak je bio lagan ali im je dao energiju.",
-      "translationEn": "The breakfast was light but gave them energy."
+      "translationEn": "The breakfast was light but gave them energy.",
+      "words": [
+        { "w": "الْفُطُورُ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" },
+        { "w": "خَفِيفًا", "root": "خ ف ف", "bs": "lagan/laganu", "en": "light" },
+        { "w": "أَعْطَاهُمُ", "root": "ع ط و", "bs": "dao im je", "en": "gave them" },
+        { "w": "الطَّاقَةَ", "root": "ط و ق", "bs": "energija", "en": "energy" }
+      ]
     }
   ],
   "metadata": {

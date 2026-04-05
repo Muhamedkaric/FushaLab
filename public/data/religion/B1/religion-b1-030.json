@@ -6,22 +6,108 @@
     {
       "arabic": "تَذَكَّرَ يَاسِرٌ أَنَّهُ وَعَدَ صَدِيقَهُ وَلَمْ يَفِ.",
       "translation": "Jasir je sjeo da je obećao prijatelju ali nije ispunio.",
-      "translationEn": "Yasir remembered that he had promised his friend but did not fulfill it."
+      "translationEn": "Yasir remembered that he had promised his friend but did not fulfill it.",
+      "words": [
+        {
+          "w": "تَذَكَّرَ",
+          "root": "ذ ك ر",
+          "bs": "sjeo je",
+          "en": "remembered"
+        },
+        {
+          "w": "وَعَدَ",
+          "root": "و ع د",
+          "bs": "obećao je",
+          "en": "had promised"
+        },
+        {
+          "w": "صَدِيقَهُ",
+          "root": "ص د ق",
+          "bs": "prijatelju",
+          "en": "his friend"
+        },
+        {
+          "w": "يَفِ",
+          "root": "و ف ي",
+          "bs": "ispunio je",
+          "en": "fulfill"
+        }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَيْهِ وَاعْتَذَرَ مِنْهُ.",
       "translation": "Otišao mu je i ispričao mu se.",
-      "translationEn": "He went to him and apologized to him."
+      "translationEn": "He went to him and apologized to him.",
+      "words": [
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao mu je",
+          "en": "went to him"
+        },
+        {
+          "w": "اعْتَذَرَ",
+          "root": "ع ذ ر",
+          "bs": "ispričao se",
+          "en": "apologized"
+        }
+      ]
     },
     {
       "arabic": "قَالَ لَهُ: الْوَفَاءُ بِالْوَعْدِ وَاجِبٌ عَلَى الْمُؤْمِنِ.",
       "translation": "Rekao mu je: Ispunjavanje obećanja je obaveza vjernika.",
-      "translationEn": "He told him: Fulfilling promises is obligatory for a believer."
+      "translationEn": "He told him: Fulfilling promises is obligatory for a believer.",
+      "words": [
+        {
+          "w": "الْوَفَاءُ",
+          "root": "و ف ي",
+          "bs": "ispunjavanje",
+          "en": "fulfilling"
+        },
+        {
+          "w": "بِالْوَعْدِ",
+          "root": "و ع د",
+          "bs": "obećanja",
+          "en": "promises"
+        },
+        {
+          "w": "وَاجِبٌ",
+          "root": "و ج ب",
+          "bs": "obaveza",
+          "en": "obligatory"
+        },
+        {
+          "w": "الْمُؤْمِنِ",
+          "root": "أ م ن",
+          "bs": "vjernika",
+          "en": "a believer"
+        }
+      ]
     },
     {
       "arabic": "وَفَى بِوَعْدِهِ بَعْدَ ذَلِكَ وَلَمْ يَنْسَ مَرَّةً أُخْرَى.",
       "translation": "Ispunio je obećanje nakon toga i više nije zaboravio.",
-      "translationEn": "He fulfilled his promise after that and never forgot again."
+      "translationEn": "He fulfilled his promise after that and never forgot again.",
+      "words": [
+        {
+          "w": "وَفَى",
+          "root": "و ف ي",
+          "bs": "ispunio je",
+          "en": "fulfilled"
+        },
+        {
+          "w": "بِوَعْدِهِ",
+          "root": "و ع د",
+          "bs": "obećanje",
+          "en": "his promise"
+        },
+        {
+          "w": "يَنْسَ",
+          "root": "ن س ي",
+          "bs": "zaboravio",
+          "en": "forgot"
+        }
+      ]
     }
   ],
   "metadata": {

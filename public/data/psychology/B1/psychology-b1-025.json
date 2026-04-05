@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَ فَارِسٌ يَخَافُ مِنَ التَّحَدُّثِ أَمَامَ زُمَلَائِهِ.",
       "translation": "Faris se bojao govoriti pred drugarima.",
-      "translationEn": "Faris was afraid to speak in front of his classmates."
+      "translationEn": "Faris was afraid to speak in front of his classmates.",
+      "words": [
+        { "w": "يَخَافُ", "root": "خ و ف", "bs": "boji se", "en": "is afraid" },
+        { "w": "التَّحَدُّثِ", "root": "ح د ث", "bs": "govorenje", "en": "speaking" },
+        { "w": "زُمَلَائِهِ", "root": "ز م ل", "bs": "njegovi drugari", "en": "his classmates" }
+      ]
     },
     {
       "arabic": "كَانَتْ رُكْبَتَاهُ تَرْتَجِفَانِ حِينَ يَقِفُ.",
       "translation": "Koljena su mu se tresla kada bi ustajao.",
-      "translationEn": "His knees would tremble when he stood up."
+      "translationEn": "His knees would tremble when he stood up.",
+      "words": [
+        { "w": "رُكْبَتَاهُ", "root": "ر ك ب", "bs": "njegova koljena", "en": "his knees" },
+        { "w": "تَرْتَجِفَانِ", "root": "ر ج ف", "bs": "tresu se", "en": "tremble" },
+        { "w": "يَقِفُ", "root": "و ق ف", "bs": "ustaje", "en": "stands up" }
+      ]
     },
     {
       "arabic": "تَدَرَّبَ كَثِيرًا أَمَامَ الْمِرْآةِ فِي الْبَيْتِ.",
       "translation": "Mnogo je vježbao ispred ogledala kod kuće.",
-      "translationEn": "He practised a lot in front of the mirror at home."
+      "translationEn": "He practised a lot in front of the mirror at home.",
+      "words": [
+        { "w": "تَدَرَّبَ", "root": "د ر ب", "bs": "vježbao je", "en": "practised" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "mnogo", "en": "a lot" },
+        { "w": "الْمِرْآةِ", "root": "ر أ ي", "bs": "ogledalo", "en": "the mirror" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+      ]
     },
     {
       "arabic": "فِي النِّهَايَةِ تَكَلَّمَ بِثِقَةٍ وَصَفَّقَ لَهُ الصَّفُّ.",
       "translation": "Na kraju je govorio s pouzdanjem i razred mu je pljesko.",
-      "translationEn": "In the end he spoke confidently and the class applauded him."
+      "translationEn": "In the end he spoke confidently and the class applauded him.",
+      "words": [
+        { "w": "النِّهَايَةِ", "root": "ن ه ي", "bs": "kraj", "en": "the end" },
+        { "w": "تَكَلَّمَ", "root": "ك ل م", "bs": "govorio je", "en": "spoke" },
+        { "w": "بِثِقَةٍ", "root": "ث ق ة", "bs": "s pouzdanjem", "en": "confidently" },
+        { "w": "صَفَّقَ", "root": "ص ف ق", "bs": "pljesko je", "en": "applauded" },
+        { "w": "الصَّفُّ", "root": "ص ف ف", "bs": "razred", "en": "the class" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَ النَّهْرُ الْكَبِيرُ مَشْهُورًا فِي التَّارِيخِ الْقَدِيمِ.",
       "translation": "Velika rijeka bila je čuvena u drevnoj historiji.",
-      "translationEn": "The great river was famous in ancient history."
+      "translationEn": "The great river was famous in ancient history.",
+      "words": [
+        { "w": "النَّهْرُ", "root": "ن ه ر", "bs": "rijeka", "en": "the river" },
+        { "w": "الْكَبِيرُ", "root": "ك ب ر", "bs": "velika", "en": "great" },
+        { "w": "مَشْهُورًا", "root": "ش ه ر", "bs": "čuvena", "en": "famous" },
+        { "w": "التَّارِيخِ", "root": "أ ر خ", "bs": "historija", "en": "history" },
+        { "w": "الْقَدِيمِ", "root": "ق د م", "bs": "drevna", "en": "ancient" }
+      ]
     },
     {
       "arabic": "عَاشَ النَّاسُ عَلَى ضِفَافِهِ وَزَرَعُوا الْأَرْضَ.",
       "translation": "Ljudi su živjeli na njenim obalama i obrađivali zemlju.",
-      "translationEn": "People lived on its banks and cultivated the land."
+      "translationEn": "People lived on its banks and cultivated the land.",
+      "words": [
+        { "w": "عَاشَ", "root": "ع ي ش", "bs": "živio je", "en": "lived" },
+        { "w": "ضِفَافِهِ", "root": "ض ف ف", "bs": "obale", "en": "its banks" },
+        { "w": "زَرَعُوا", "root": "ز ر ع", "bs": "obrađivali su", "en": "cultivated" },
+        { "w": "الْأَرْضَ", "root": "أ ر ض", "bs": "zemlja", "en": "the land" }
+      ]
     },
     {
       "arabic": "كَانَ مَاءُ النَّهْرِ يَسْقِي الْحُقُولَ وَالْحَدَائِقَ.",
       "translation": "Voda rijeke natapala je polja i vrtove.",
-      "translationEn": "The river water irrigated the fields and gardens."
+      "translationEn": "The river water irrigated the fields and gardens.",
+      "words": [
+        { "w": "مَاءُ", "root": "م و ه", "bs": "voda", "en": "water" },
+        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeke", "en": "of the river" },
+        { "w": "يَسْقِي", "root": "س ق ي", "bs": "natapa", "en": "irrigates" },
+        { "w": "الْحُقُولَ", "root": "ح ق ل", "bs": "polja", "en": "the fields" },
+        { "w": "الْحَدَائِقَ", "root": "ح د ق", "bs": "vrtovi", "en": "the gardens" }
+      ]
     },
     {
       "arabic": "كَانَ النَّهْرُ يُعْطِي الْحَيَاةَ لِكُلِّ مَنْ حَوْلَهُ.",
       "translation": "Rijeka je davala život svima oko nje.",
-      "translationEn": "The river gave life to all those around it."
+      "translationEn": "The river gave life to all those around it.",
+      "words": [
+        { "w": "النَّهْرُ", "root": "ن ه ر", "bs": "rijeka", "en": "the river" },
+        { "w": "يُعْطِي", "root": "ع ط و", "bs": "daje", "en": "gives" },
+        { "w": "الْحَيَاةَ", "root": "ح ي و", "bs": "život", "en": "life" }
+      ]
     }
   ],
   "metadata": {

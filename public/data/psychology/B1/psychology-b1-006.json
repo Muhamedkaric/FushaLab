@@ -6,22 +6,45 @@
     {
       "arabic": "شَعَرَتْ سَارَةُ بِالْفَخْرِ بَعْدَ أَنْ أَنْهَتْ رَسْمَهَا.",
       "translation": "Sara se osjećala ponosno nakon što je završila svoju sliku.",
-      "translationEn": "Sara felt proud after she finished her drawing."
+      "translationEn": "Sara felt proud after she finished her drawing.",
+      "words": [
+        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjećala se", "en": "felt" },
+        { "w": "الْفَخْرِ", "root": "ف خ ر", "bs": "ponos", "en": "pride" },
+        { "w": "أَنْهَتْ", "root": "ن ه ي", "bs": "završila je", "en": "finished" },
+        { "w": "رَسْمَهَا", "root": "ر س م", "bs": "njenu sliku", "en": "her drawing" }
+      ]
     },
     {
       "arabic": "عَمِلَتْ عَلَيْهِ لِأَيَّامٍ كَثِيرَةٍ بِصَبْرٍ.",
       "translation": "Radila je na njoj strpljivo mnogo dana.",
-      "translationEn": "She worked on it patiently for many days."
+      "translationEn": "She worked on it patiently for many days.",
+      "words": [
+        { "w": "عَمِلَتْ", "root": "ع م ل", "bs": "radila je", "en": "worked" },
+        { "w": "أَيَّامٍ", "root": "ي و م", "bs": "dana", "en": "days" },
+        { "w": "كَثِيرَةٍ", "root": "ك ث ر", "bs": "mnogo", "en": "many" },
+        { "w": "صَبْرٍ", "root": "ص ب ر", "bs": "strpljenje", "en": "patience" }
+      ]
     },
     {
       "arabic": "أَرَتِ الرَّسْمَ لِأُمِّهَا وَأَبِيهَا فَأُعْجِبَا بِهِ.",
       "translation": "Pokazala je crtež majci i ocu i obradovali su se.",
-      "translationEn": "She showed the drawing to her mother and father and they were impressed."
+      "translationEn": "She showed the drawing to her mother and father and they were impressed.",
+      "words": [
+        { "w": "أَرَتِ", "root": "ر أ ي", "bs": "pokazala je", "en": "showed" },
+        { "w": "الرَّسْمَ", "root": "ر س م", "bs": "crtež", "en": "the drawing" },
+        { "w": "أُعْجِبَا", "root": "ع ج ب", "bs": "bili su impresionirani", "en": "were impressed" }
+      ]
     },
     {
       "arabic": "الشُّعُورُ بِالْفَخْرِ يَجْعَلُنَا نَعْمَلُ أَكْثَرَ.",
       "translation": "Osjećaj ponosa nas tjera da radimo više.",
-      "translationEn": "The feeling of pride makes us work more."
+      "translationEn": "The feeling of pride makes us work more.",
+      "words": [
+        { "w": "الشُّعُورُ", "root": "ش ع ر", "bs": "osjećaj", "en": "the feeling" },
+        { "w": "الْفَخْرِ", "root": "ف خ ر", "bs": "ponos", "en": "pride" },
+        { "w": "يَجْعَلُنَا", "root": "ج ع ل", "bs": "tjera nas", "en": "makes us" },
+        { "w": "نَعْمَلُ", "root": "ع م ل", "bs": "radimo", "en": "work" }
+      ]
     }
   ],
   "metadata": {

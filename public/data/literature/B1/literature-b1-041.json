@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ مَنْزِلُ الْعَائِلَةِ صَغِيرًا لَكِنَّهُ مَلِيءٌ بِالْحُبِّ.",
       "translation": "Kuća porodice bila je mala ali puna ljubavi.",
-      "translationEn": "The family's house was small but full of love."
+      "translationEn": "The family's house was small but full of love.",
+      "words": [
+        { "w": "مَنْزِلُ", "root": "ن ز ل", "bs": "kuća/dom", "en": "house/home" },
+        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mala/mali", "en": "small" },
+        { "w": "مَلِيءٌ", "root": "م ل أ", "bs": "pun/ispunjen", "en": "full" },
+        { "w": "الْحُبِّ", "root": "ح ب ب", "bs": "ljubav", "en": "love" }
+      ]
     },
     {
       "arabic": "كَانَتِ الأُمُّ تُزَيِّنُهُ بِالزُّهُورِ فِي كُلِّ فَصْلٍ.",
       "translation": "Majka ga je krasila cvijećem u svakom godišnjem dobu.",
-      "translationEn": "The mother used to decorate it with flowers in every season."
+      "translationEn": "The mother used to decorate it with flowers in every season.",
+      "words": [
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "تُزَيِّنُهُ", "root": "ز ي ن", "bs": "krasila ga je/ukrašavala", "en": "would decorate it" },
+        { "w": "الزُّهُورِ", "root": "ز ه ر", "bs": "cvijeće", "en": "flowers" },
+        { "w": "فَصْلٍ", "root": "ف ص ل", "bs": "godišnje doba/sezona", "en": "season" }
+      ]
     },
     {
       "arabic": "كَانَ الأَبُ يُصْلِحُ كُلَّ شَيْءٍ يَتَعَطَّلُ بِيَدَيْهِ.",
       "translation": "Otac bi popravljao vlastitim rukama sve što bi se pokvarilo.",
-      "translationEn": "The father would fix with his own hands everything that broke down."
+      "translationEn": "The father would fix with his own hands everything that broke down.",
+      "words": [
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "يُصْلِحُ", "root": "ص ل ح", "bs": "popravljao je", "en": "would fix/repair" },
+        { "w": "يَتَعَطَّلُ", "root": "ع ط ل", "bs": "što bi se pokvarilo", "en": "that breaks down" },
+        { "w": "بِيَدَيْهِ", "root": "ي د ي", "bs": "vlastitim rukama", "en": "with his own hands" }
+      ]
     },
     {
       "arabic": "كَانَ ذَلِكَ الْبَيْتُ الصَّغِيرُ أَسْعَدَ مَكَانٍ فِي الدُّنْيَا.",
       "translation": "Ta mala kućica bila je najsretniji kutak na svijetu.",
-      "translationEn": "That small house was the happiest place in the world."
+      "translationEn": "That small house was the happiest place in the world.",
+      "words": [
+        { "w": "الْبَيْتُ", "root": "ب ي ت", "bs": "kuća/dom", "en": "house" },
+        { "w": "الصَّغِيرُ", "root": "ص غ ر", "bs": "mali/mala", "en": "small" },
+        { "w": "أَسْعَدَ", "root": "س ع د", "bs": "najsretniji", "en": "happiest" },
+        { "w": "مَكَانٍ", "root": "ك و ن", "bs": "mjesto/kutak", "en": "place" },
+        { "w": "الدُّنْيَا", "root": "د ن و", "bs": "svijet", "en": "world" }
+      ]
     }
   ],
   "metadata": {

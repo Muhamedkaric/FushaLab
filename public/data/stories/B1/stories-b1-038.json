@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَتِ الطَّالِبَةُ دَلَالٌ لَا تَفْهَمُ الرِّيَاضِيَّاتِ.",
       "translation": "Učenica Dalal nije razumjela matematiku.",
-      "translationEn": "The student Dalal did not understand mathematics."
+      "translationEn": "The student Dalal did not understand mathematics.",
+      "words": [
+        { "w": "الطَّالِبَةُ", "root": "ط ل ب", "bs": "učenica", "en": "student" },
+        { "w": "تَفْهَمُ", "root": "ف ه م", "bs": "razumjela je", "en": "understand" },
+        { "w": "الرِّيَاضِيَّاتِ", "root": "ر ي ض", "bs": "matematika", "en": "mathematics" }
+      ]
     },
     {
       "arabic": "سَأَلَتْ زَمِيلَتَهَا مَنَارَ أَنْ تُسَاعِدَهَا بَعْدَ الدَّرْسِ.",
       "translation": "Zamolila je koleginicu Manar da joj pomogne nakon časa.",
-      "translationEn": "She asked her classmate Manar to help her after class."
+      "translationEn": "She asked her classmate Manar to help her after class.",
+      "words": [
+        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "zamolila je", "en": "asked" },
+        { "w": "زَمِيلَتَهَا", "root": "ز م ل", "bs": "njena kolegica", "en": "her classmate" },
+        { "w": "تُسَاعِدَهَا", "root": "س ع د", "bs": "da joj pomogne", "en": "to help her" },
+        { "w": "الدَّرْسِ", "root": "د ر س", "bs": "čas", "en": "class" }
+      ]
     },
     {
       "arabic": "جَلَسَتَا مَعًا سَاعَةً كَامِلَةً وَشَرَحَتْ مَنَارُ بِصَبْرٍ.",
       "translation": "Sjedile su zajedno cijeli sat i Manar je strpljivo objašnjavala.",
-      "translationEn": "They sat together for a full hour and Manar explained patiently."
+      "translationEn": "They sat together for a full hour and Manar explained patiently.",
+      "words": [
+        { "w": "جَلَسَتَا", "root": "ج ل س", "bs": "sjedile su", "en": "sat" },
+        { "w": "سَاعَةً", "root": "س و ع", "bs": "sat", "en": "hour" },
+        { "w": "كَامِلَةً", "root": "ك م ل", "bs": "cijeli", "en": "full" },
+        { "w": "شَرَحَتْ", "root": "ش ر ح", "bs": "objašnjavala je", "en": "explained" },
+        { "w": "بِصَبْرٍ", "root": "ص ب ر", "bs": "strpljivo", "en": "patiently" }
+      ]
     },
     {
       "arabic": "فِي الِامْتِحَانِ الْقَادِمِ نَجَحَتْ دَلَالٌ وَشَكَرَتْ مَنَارَ.",
       "translation": "Na sljedećem ispitu je Dalal prošla i zahvalila Manar.",
-      "translationEn": "In the next exam Dalal passed and thanked Manar."
+      "translationEn": "In the next exam Dalal passed and thanked Manar.",
+      "words": [
+        { "w": "الِامْتِحَانِ", "root": "م ح ن", "bs": "ispit", "en": "exam" },
+        { "w": "الْقَادِمِ", "root": "ق د م", "bs": "sljedećem", "en": "next" },
+        { "w": "نَجَحَتْ", "root": "ن ج ح", "bs": "prošla je", "en": "passed" },
+        { "w": "شَكَرَتْ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" }
+      ]
     }
   ],
   "metadata": {

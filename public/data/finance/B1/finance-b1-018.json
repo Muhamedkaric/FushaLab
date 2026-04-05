@@ -6,27 +6,56 @@
     {
       "arabic": "وَصَلَ فَاتُورَةُ الكَهْرَبَاءِ إِلَى البَيْتِ هَذَا الشَّهْرَ.",
       "translation": "Ovog mjeseca stigao je račun za struju kući.",
-      "translationEn": "The electricity bill arrived at home this month."
+      "translationEn": "The electricity bill arrived at home this month.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "فَاتُورَةُ", "root": "ف ت ر", "bs": "račun", "en": "bill" },
+        { "w": "الكَهْرَبَاءِ", "root": "ك ه ر", "bs": "struja", "en": "electricity" },
+        { "w": "الشَّهْرَ", "root": "ش ه ر", "bs": "mjesec", "en": "month" }
+      ]
     },
     {
       "arabic": "نَظَرَ الأَبُ فِي المَبْلَغِ وَقَالَ إِنَّهُ كَبِيرٌ.",
       "translation": "Otac je pogledao iznos i rekao da je velik.",
-      "translationEn": "The father looked at the amount and said it was large."
+      "translationEn": "The father looked at the amount and said it was large.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" },
+        { "w": "المَبْلَغِ", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
+        { "w": "كَبِيرٌ", "root": "ك ب ر", "bs": "velik", "en": "large" }
+      ]
     },
     {
       "arabic": "طَلَبَ مِنَ الأُسْرَةِ أَنْ تَتَوَفَّرَ فِي اسْتِخْدَامِ الكَهْرَبَاءِ.",
       "translation": "Zamolio je porodicu da štedi struju.",
-      "translationEn": "He asked the family to be careful with electricity use."
+      "translationEn": "He asked the family to be careful with electricity use.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je", "en": "asked" },
+        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "اسْتِخْدَامِ", "root": "خ د م", "bs": "korištenje", "en": "use" },
+        { "w": "الكَهْرَبَاءِ", "root": "ك ه ر", "bs": "struja", "en": "electricity" }
+      ]
     },
     {
       "arabic": "ذَهَبَ إِلَى مَكْتَبِ الدَّفْعِ وَسَدَّدَ الفَاتُورَةَ.",
       "translation": "Otišao je u uplatnicu i platio račun.",
-      "translationEn": "He went to the payment office and settled the bill."
+      "translationEn": "He went to the payment office and settled the bill.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "مَكْتَبِ", "root": "ك ت ب", "bs": "ured", "en": "office" },
+        { "w": "الدَّفْعِ", "root": "د ف ع", "bs": "plaćanje", "en": "payment" },
+        { "w": "سَدَّدَ", "root": "س د د", "bs": "platio je", "en": "settled" }
+      ]
     },
     {
       "arabic": "فِي الشَّهْرِ التَّالِي كَانَ المَبْلَغُ أَقَلَّ.",
       "translation": "Sljedećeg mjeseca iznos je bio manji.",
-      "translationEn": "The following month the amount was less."
+      "translationEn": "The following month the amount was less.",
+      "words": [
+        { "w": "الشَّهْرِ", "root": "ش ه ر", "bs": "mjesec", "en": "month" },
+        { "w": "التَّالِي", "root": "ت ل و", "bs": "sljedeći", "en": "following" },
+        { "w": "المَبْلَغُ", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
+        { "w": "أَقَلَّ", "root": "ق ل ل", "bs": "manji", "en": "less" }
+      ]
     }
   ],
   "metadata": {

@@ -6,26 +6,110 @@
     {
       "arabic": "نَجَحَتِ الطَّالِبَةُ لَيْلَى فِي امْتِحَانِ اللُّغَةِ الْعَرَبِيَّةِ.",
       "translation": "Učenica Lejla je položila ispit iz arapskog jezika.",
-      "translationEn": "The student Layla passed her Arabic language exam."
+      "translationEn": "The student Layla passed her Arabic language exam.",
+      "words": [
+        {
+          "w": "نَجَحَتِ",
+          "root": "ن ج ح",
+          "bs": "položila je",
+          "en": "passed"
+        },
+        {
+          "w": "الطَّالِبَةُ",
+          "root": "ط ل ب",
+          "bs": "učenica",
+          "en": "student"
+        },
+        {
+          "w": "امْتِحَانِ",
+          "root": "م ح ن",
+          "bs": "ispit",
+          "en": "exam"
+        },
+        {
+          "w": "اللُّغَةِ",
+          "root": "ل غ و",
+          "bs": "jeziku",
+          "en": "language"
+        }
+      ]
     },
     {
       "arabic": "حَصَلَتْ عَلَى أَعْلَى دَرَجَةٍ فِي صَفِّهَا.",
       "translation": "Dobila je najvišu ocjenu u svom razredu.",
-      "translationEn": "She got the highest grade in her class."
+      "translationEn": "She got the highest grade in her class.",
+      "words": [
+        {
+          "w": "حَصَلَتْ",
+          "root": "ح ص ل",
+          "bs": "dobila je",
+          "en": "got"
+        },
+        {
+          "w": "دَرَجَةٍ",
+          "root": "د ر ج",
+          "bs": "ocjenu",
+          "en": "grade"
+        },
+        {
+          "w": "صَفِّهَا",
+          "root": "ص ف ف",
+          "bs": "razredu",
+          "en": "class"
+        }
+      ]
     },
     {
       "arabic": "هَنَّأَ الْمُعَلِّمُ لَيْلَى أَمَامَ زُمَلَائِهَا.",
       "translation": "Nastavnik je čestitao Lejli pred njenim drugarima.",
-      "translationEn": "The teacher congratulated Layla in front of her classmates."
+      "translationEn": "The teacher congratulated Layla in front of her classmates.",
+      "words": [
+        {
+          "w": "هَنَّأَ",
+          "root": "ه ن أ",
+          "bs": "čestitao je",
+          "en": "congratulated"
+        },
+        {
+          "w": "الْمُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "nastavnik",
+          "en": "teacher"
+        },
+        {
+          "w": "زُمَلَائِهَا",
+          "root": "ز م ل",
+          "bs": "drugovima",
+          "en": "classmates"
+        }
+      ]
     },
     {
       "arabic": "قَالَتْ لَيْلَى إِنَّهَا دَرَسَتْ كَثِيرًا لِهَذَا الامْتِحَانِ.",
       "translation": "Lejla je rekla da je puno učila za ovaj ispit.",
-      "translationEn": "Layla said that she studied a lot for this exam."
+      "translationEn": "Layla said that she studied a lot for this exam.",
+      "words": [
+        {
+          "w": "دَرَسَتْ",
+          "root": "د ر س",
+          "bs": "učila je",
+          "en": "studied"
+        },
+        {
+          "w": "الامْتِحَانِ",
+          "root": "م ح ن",
+          "bs": "ispit",
+          "en": "exam"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school", "exam", "success"]
+    "tags": [
+      "school",
+      "exam",
+      "success"
+    ]
   }
 }

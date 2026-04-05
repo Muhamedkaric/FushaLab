@@ -6,22 +6,50 @@
     {
       "arabic": "كَانَتْ هُنَاكَ عُصْفُورَةٌ صَغِيرَةٌ فَقَدَتْ طَرِيقَهَا إِلَى عُشِّهَا.",
       "translation": "Bila je mala vrapčica koja je izgubila put do svog gnijezda.",
-      "translationEn": "There was a small sparrow who lost her way back to her nest."
+      "translationEn": "There was a small sparrow who lost her way back to her nest.",
+      "words": [
+        { "w": "عُصْفُورَةٌ", "root": "ع ص ف ر", "bs": "vrapčica", "en": "sparrow" },
+        { "w": "صَغِيرَةٌ", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "فَقَدَتْ", "root": "ف ق د", "bs": "izgubila je", "en": "lost" },
+        { "w": "طَرِيقَهَا", "root": "ط ر ق", "bs": "njen put", "en": "her way" },
+        { "w": "عُشِّهَا", "root": "ع ش ش", "bs": "njeno gnijezdo", "en": "her nest" }
+      ]
     },
     {
       "arabic": "طَارَتْ يَمِينًا وَيَسَارًا وَلَمْ تَجِدِ الْمَكَانَ.",
       "translation": "Letjela je lijevo i desno ali nije pronašla to mjesto.",
-      "translationEn": "She flew right and left but did not find the place."
+      "translationEn": "She flew right and left but did not find the place.",
+      "words": [
+        { "w": "طَارَتْ", "root": "ط ي ر", "bs": "letjela je", "en": "flew" },
+        { "w": "يَمِينًا", "root": "ي م ن", "bs": "desno", "en": "right" },
+        { "w": "يَسَارًا", "root": "ي س ر", "bs": "lijevo", "en": "left" },
+        { "w": "تَجِدِ", "root": "و ج د", "bs": "pronašla je", "en": "find" },
+        { "w": "الْمَكَانَ", "root": "ك و ن", "bs": "mjesto", "en": "place" }
+      ]
     },
     {
       "arabic": "سَمِعَتْ أَصْوَاتَ أَفْرَاخِهَا فِي الشَّجَرَةِ الْكَبِيرَةِ.",
       "translation": "Čula je glasove svojih pilića u velikom stablu.",
-      "translationEn": "She heard the voices of her chicks in the big tree."
+      "translationEn": "She heard the voices of her chicks in the big tree.",
+      "words": [
+        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "čula je", "en": "heard" },
+        { "w": "أَصْوَاتَ", "root": "ص و ت", "bs": "glasovi", "en": "voices" },
+        { "w": "أَفْرَاخِهَا", "root": "ف ر خ", "bs": "njeni pilići", "en": "her chicks" },
+        { "w": "الشَّجَرَةِ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
+        { "w": "الْكَبِيرَةِ", "root": "ك ب ر", "bs": "veliko", "en": "big" }
+      ]
     },
     {
       "arabic": "طَارَتْ نَحْوَ الصَّوْتِ وَوَجَدَتْ عُشَّهَا وَأَفْرَاخَهَا.",
       "translation": "Poletjela je prema glasovima i pronašla je gnijezdo i pilenike.",
-      "translationEn": "She flew toward the sound and found her nest and her chicks."
+      "translationEn": "She flew toward the sound and found her nest and her chicks.",
+      "words": [
+        { "w": "طَارَتْ", "root": "ط ي ر", "bs": "poletjela je", "en": "flew" },
+        { "w": "الصَّوْتِ", "root": "ص و ت", "bs": "glas", "en": "sound" },
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
+        { "w": "عُشَّهَا", "root": "ع ش ش", "bs": "njeno gnijezdo", "en": "her nest" },
+        { "w": "أَفْرَاخَهَا", "root": "ف ر خ", "bs": "njeni pilići", "en": "her chicks" }
+      ]
     }
   ],
   "metadata": {

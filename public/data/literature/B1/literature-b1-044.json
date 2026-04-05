@@ -6,22 +6,50 @@
     {
       "arabic": "قَرَّرَ الأَخُ الْكَبِيرُ تَعْلِيمَ أُخْتِهِ الصَّغِيرَةِ الْحِسَابَ.",
       "translation": "Stariji brat je odlučio naučiti mlađu sestru računanju.",
-      "translationEn": "The older brother decided to teach his little sister arithmetic."
+      "translationEn": "The older brother decided to teach his little sister arithmetic.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "الأَخُ", "root": "أ خ و", "bs": "brat", "en": "brother" },
+        { "w": "الْكَبِيرُ", "root": "ك ب ر", "bs": "stariji/veliki", "en": "older/big" },
+        { "w": "تَعْلِيمَ", "root": "ع ل م", "bs": "poučavanje/učenje", "en": "teaching" },
+        { "w": "أُخْتِهِ", "root": "أ خ ت", "bs": "njegova sestra", "en": "his sister" },
+        { "w": "الْحِسَابَ", "root": "ح س ب", "bs": "računanje/matematika", "en": "arithmetic/math" }
+      ]
     },
     {
       "arabic": "جَلَسَا مَعًا عَلَى الطَّاوِلَةِ وَبَدَآ الدَّرْسَ.",
       "translation": "Sjeli su zajedno za sto i počeli lekciju.",
-      "translationEn": "They sat together at the table and began the lesson."
+      "translationEn": "They sat together at the table and began the lesson.",
+      "words": [
+        { "w": "جَلَسَا", "root": "ج ل س", "bs": "sjeli su", "en": "sat" },
+        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "sto/stol", "en": "table" },
+        { "w": "بَدَآ", "root": "ب د أ", "bs": "počeli su", "en": "began" },
+        { "w": "الدَّرْسَ", "root": "د ر س", "bs": "lekcija/čas", "en": "lesson" }
+      ]
     },
     {
       "arabic": "كَانَتِ الأُخْتُ تَسْأَلُ كَثِيرًا وَالأَخُ يَشْرَحُ بِصَبْرٍ.",
       "translation": "Sestra je puno pitala a brat je strpljivo objašnjavao.",
-      "translationEn": "The sister asked a lot and the brother explained patiently."
+      "translationEn": "The sister asked a lot and the brother explained patiently.",
+      "words": [
+        { "w": "الأُخْتُ", "root": "أ خ ت", "bs": "sestra", "en": "sister" },
+        { "w": "تَسْأَلُ", "root": "س أ ل", "bs": "pitala je", "en": "would ask" },
+        { "w": "الأَخُ", "root": "أ خ و", "bs": "brat", "en": "brother" },
+        { "w": "يَشْرَحُ", "root": "ش ر ح", "bs": "objašnjavao je", "en": "would explain" },
+        { "w": "بِصَبْرٍ", "root": "ص ب ر", "bs": "strpljivo", "en": "patiently" }
+      ]
     },
     {
       "arabic": "فِي النِّهَايَةِ فَهِمَتِ الأُخْتُ وَشَكَرَتْ أَخَاهَا.",
       "translation": "Na kraju je sestra razumjela i zahvalila bratu.",
-      "translationEn": "In the end the sister understood and thanked her brother."
+      "translationEn": "In the end the sister understood and thanked her brother.",
+      "words": [
+        { "w": "النِّهَايَةِ", "root": "ن ه ي", "bs": "kraj/završetak", "en": "end" },
+        { "w": "فَهِمَتِ", "root": "ف ه م", "bs": "razumjela je", "en": "understood" },
+        { "w": "الأُخْتُ", "root": "أ خ ت", "bs": "sestra", "en": "sister" },
+        { "w": "شَكَرَتْ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
+        { "w": "أَخَاهَا", "root": "أ خ و", "bs": "njen brat", "en": "her brother" }
+      ]
     }
   ],
   "metadata": {

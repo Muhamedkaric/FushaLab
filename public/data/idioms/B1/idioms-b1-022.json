@@ -6,22 +6,42 @@
     {
       "arabic": "يَقُولُ الْمَثَلُ: «مَنْ يَزْرَعُ يَحْصُدُ».",
       "translation": "Poslovica kaže: «Ko sije, žanje».",
-      "translationEn": "The proverb says: «Whoever plants will harvest»."
+      "translationEn": "The proverb says: «Whoever plants will harvest».",
+      "words": [
+        { "w": "يَزْرَعُ", "root": "ز ر ع", "bs": "sije", "en": "plants" },
+        { "w": "يَحْصُدُ", "root": "ح ص د", "bs": "žanje", "en": "harvests" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ نَتِيجَةَ أَعْمَالِنَا تَعُودُ إِلَيْنَا.",
       "translation": "To znači da se rezultati naših djela vraćaju nama.",
-      "translationEn": "This means that the results of our actions return to us."
+      "translationEn": "This means that the results of our actions return to us.",
+      "words": [
+        { "w": "نَتِيجَةَ", "root": "ن ت ج", "bs": "rezultat", "en": "results" },
+        { "w": "أَعْمَالِنَا", "root": "ع م ل", "bs": "naša djela", "en": "our actions" },
+        { "w": "تَعُودُ", "root": "ع و د", "bs": "vraćaju se", "en": "return" }
+      ]
     },
     {
       "arabic": "زَرَعَتِ الطِّفْلَةُ بَذْرَةً فِي الْحَدِيقَةِ.",
       "translation": "Djevojčica je posijala sjeme u vrtu.",
-      "translationEn": "The little girl planted a seed in the garden."
+      "translationEn": "The little girl planted a seed in the garden.",
+      "words": [
+        { "w": "زَرَعَتِ", "root": "ز ر ع", "bs": "posijala je", "en": "planted" },
+        { "w": "الطِّفْلَةُ", "root": "ط ف ل", "bs": "djevojčica", "en": "little girl" },
+        { "w": "بَذْرَةً", "root": "ب ذ ر", "bs": "sjeme", "en": "seed" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+      ]
     },
     {
       "arabic": "سَقَتْهَا كُلَّ يَوْمٍ حَتَّى نَمَتْ وَأَصْبَحَتْ شَجَرَةً.",
       "translation": "Svaki dan ju je zalijevala dok nije naraslo i postalo stablo.",
-      "translationEn": "She watered it every day until it grew and became a tree."
+      "translationEn": "She watered it every day until it grew and became a tree.",
+      "words": [
+        { "w": "سَقَتْهَا", "root": "س ق ي", "bs": "zalijevala je", "en": "watered it" },
+        { "w": "نَمَتْ", "root": "ن م و", "bs": "naraslo je", "en": "grew" },
+        { "w": "شَجَرَةً", "root": "ش ج ر", "bs": "stablo", "en": "tree" }
+      ]
     }
   ],
   "metadata": {

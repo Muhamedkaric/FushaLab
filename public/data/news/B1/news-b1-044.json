@@ -6,26 +6,120 @@
     {
       "arabic": "أَطْلَقَ الْحَيُّ مَشْرُوعَ حَدِيقَةٍ مُشْتَرَكَةٍ لِلْخُضَرَاوَاتِ.",
       "translation": "Kvart je pokrenuo projekat zajedničkog vrta za povrće.",
-      "translationEn": "The neighborhood launched a shared vegetable garden project."
+      "translationEn": "The neighborhood launched a shared vegetable garden project.",
+      "words": [
+        {
+          "w": "مَشْرُوعَ",
+          "root": "ش ر ع",
+          "bs": "projekat",
+          "en": "project"
+        },
+        {
+          "w": "حَدِيقَةٍ",
+          "root": "ح د ق",
+          "bs": "vrta",
+          "en": "garden"
+        },
+        {
+          "w": "مُشْتَرَكَةٍ",
+          "root": "ش ر ك",
+          "bs": "zajedničkog",
+          "en": "shared"
+        },
+        {
+          "w": "لِلْخُضَرَاوَاتِ",
+          "root": "خ ض ر",
+          "bs": "povrća",
+          "en": "vegetables"
+        }
+      ]
     },
     {
       "arabic": "تَطَوَّعَ عَشَرَةٌ مِنَ السُّكَّانِ لِلْعَمَلِ فِي الْحَدِيقَةِ.",
       "translation": "Deset stanovnika se javilo za rad u vrtu.",
-      "translationEn": "Ten residents volunteered to work in the garden."
+      "translationEn": "Ten residents volunteered to work in the garden.",
+      "words": [
+        {
+          "w": "تَطَوَّعَ",
+          "root": "ط و ع",
+          "bs": "prijavilo se",
+          "en": "volunteered"
+        },
+        {
+          "w": "السُّكَّانِ",
+          "root": "س ك ن",
+          "bs": "stanovnika",
+          "en": "residents"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "vrtu",
+          "en": "garden"
+        }
+      ]
     },
     {
       "arabic": "يَزْرَعُونَ الطَّمَاطِمَ وَالْخِيَارَ وَالْبَصَلَ مَعًا.",
       "translation": "Zajedno sade paradajz, krastavce i luk.",
-      "translationEn": "They plant tomatoes, cucumbers, and onions together."
+      "translationEn": "They plant tomatoes, cucumbers, and onions together.",
+      "words": [
+        {
+          "w": "يَزْرَعُونَ",
+          "root": "ز ر ع",
+          "bs": "sade",
+          "en": "plant"
+        },
+        {
+          "w": "الطَّمَاطِمَ",
+          "bs": "paradajz",
+          "en": "tomatoes"
+        },
+        {
+          "w": "الْخِيَارَ",
+          "bs": "krastavce",
+          "en": "cucumbers"
+        },
+        {
+          "w": "الْبَصَلَ",
+          "root": "ب ص ل",
+          "bs": "luk",
+          "en": "onions"
+        }
+      ]
     },
     {
       "arabic": "يُوَزِّعُونَ الْمَحْصُولَ عَلَى الْعَائِلَاتِ فِي الْحَيِّ.",
       "translation": "Dijele prinos porodicama u kvartu.",
-      "translationEn": "They distribute the harvest to families in the neighborhood."
+      "translationEn": "They distribute the harvest to families in the neighborhood.",
+      "words": [
+        {
+          "w": "يُوَزِّعُونَ",
+          "root": "و ز ع",
+          "bs": "dijele",
+          "en": "distribute"
+        },
+        {
+          "w": "الْمَحْصُولَ",
+          "root": "ح ص ل",
+          "bs": "prinos",
+          "en": "harvest"
+        },
+        {
+          "w": "الْعَائِلَاتِ",
+          "root": "ع و ل",
+          "bs": "porodicama",
+          "en": "families"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["gardening", "community", "neighborhood"]
+    "tags": [
+      "gardening",
+      "community",
+      "neighborhood"
+    ]
   }
 }

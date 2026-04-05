@@ -5,28 +5,56 @@
   "sentences": [
     {
       "arabic": "تَجْتَمِعُ الأُسْرَةُ عَلَى العَشَاءِ كُلَّ يَوْمٍ.",
-      "translation": "Porodica se svaki dan ocuplja na večeri.",
-      "translationEn": "The family gathers for dinner every day."
+      "translation": "Porodica se svaki dan skuplja na večeri.",
+      "translationEn": "The family gathers for dinner every day.",
+      "words": [
+        { "w": "تَجْتَمِعُ", "root": "ج م ع", "bs": "skuplja se", "en": "gathers" },
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "العَشَاءِ", "root": "ع ش و", "bs": "večeri", "en": "dinner" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" }
+      ]
     },
     {
       "arabic": "يَحْكِي كُلُّ وَاحِدٍ عَنْ يَوْمِهِ.",
       "translation": "Svako priča o svom danu.",
-      "translationEn": "Everyone talks about their day."
+      "translationEn": "Everyone talks about their day.",
+      "words": [
+        { "w": "يَحْكِي", "root": "ح ك ي", "bs": "priča", "en": "talks" },
+        { "w": "يَوْمِهِ", "root": "ي و م", "bs": "danu", "en": "day" }
+      ]
     },
     {
       "arabic": "الأَبُ يَسْأَلُ عَنِ المَدْرَسَةِ وَالدِّرَاسَةِ.",
       "translation": "Otac pita o školi i učenju.",
-      "translationEn": "The father asks about school and studying."
+      "translationEn": "The father asks about school and studying.",
+      "words": [
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "يَسْأَلُ", "root": "س أ ل", "bs": "pita", "en": "asks" },
+        { "w": "المَدْرَسَةِ", "root": "د ر س", "bs": "školi", "en": "school" },
+        { "w": "الدِّرَاسَةِ", "root": "د ر س", "bs": "učenju", "en": "studying" }
+      ]
     },
     {
       "arabic": "العَشَاءُ وَقْتٌ لِلتَّوَاصُلِ وَالتَّحَدُّثِ.",
       "translation": "Večera je vrijeme za komunikaciju i razgovor.",
-      "translationEn": "Dinner is a time for connection and conversation."
+      "translationEn": "Dinner is a time for connection and conversation.",
+      "words": [
+        { "w": "العَشَاءُ", "root": "ع ش و", "bs": "večera", "en": "dinner" },
+        { "w": "وَقْتٌ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "التَّوَاصُلِ", "root": "و ص ل", "bs": "komunikacije", "en": "connection" },
+        { "w": "التَّحَدُّثِ", "root": "ح د ث", "bs": "razgovora", "en": "conversation" }
+      ]
     },
     {
       "arabic": "هَذَا يُقَوِّي العَلَاقَةَ بَيْنَ أَفْرَادِ الأُسْرَةِ.",
       "translation": "Ovo jača odnos između članova porodice.",
-      "translationEn": "This strengthens the bond between family members."
+      "translationEn": "This strengthens the bond between family members.",
+      "words": [
+        { "w": "يُقَوِّي", "root": "ق و ي", "bs": "jača", "en": "strengthens" },
+        { "w": "العَلَاقَةَ", "root": "ع ل ق", "bs": "odnos", "en": "bond" },
+        { "w": "أَفْرَادِ", "root": "ف ر د", "bs": "članova", "en": "members" },
+        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodice", "en": "family" }
+      ]
     }
   ],
   "metadata": {

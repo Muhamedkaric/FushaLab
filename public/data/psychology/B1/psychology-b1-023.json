@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَتْ آيَةُ تَشْعُرُ بِالْغِيرَةِ مِنْ أُخْتِهَا الصَّغِيرَةِ.",
       "translation": "Aja je osjećala ljubomoru prema svojoj mlađoj sestri.",
-      "translationEn": "Aya used to feel jealous of her younger sister."
+      "translationEn": "Aya used to feel jealous of her younger sister.",
+      "words": [
+        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
+        { "w": "الْغِيرَةِ", "root": "غ ي ر", "bs": "ljubomora", "en": "jealousy" },
+        { "w": "أُخْتِهَا", "root": "أ خ ت", "bs": "njena sestra", "en": "her sister" },
+        { "w": "الصَّغِيرَةِ", "root": "ص غ ر", "bs": "mlađa", "en": "younger" }
+      ]
     },
     {
       "arabic": "كَانَتْ تَعْتَقِدُ أَنَّ أُمَّهَا تُحِبُّ أُخْتَهَا أَكْثَرَ.",
       "translation": "Mislila je da majka više voli njenu sestru.",
-      "translationEn": "She believed that her mother loved her sister more."
+      "translationEn": "She believed that her mother loved her sister more.",
+      "words": [
+        { "w": "تَعْتَقِدُ", "root": "ع ق د", "bs": "misli", "en": "believes" },
+        { "w": "أُمَّهَا", "root": "أ م م", "bs": "njena majka", "en": "her mother" },
+        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
+        { "w": "أُخْتَهَا", "root": "أ خ ت", "bs": "njena sestra", "en": "her sister" }
+      ]
     },
     {
       "arabic": "تَكَلَّمَتْ مَعَ أُمِّهَا وَعَرَفَتِ الْحَقِيقَةَ.",
       "translation": "Razgovarala je s majkom i saznala istinu.",
-      "translationEn": "She talked with her mother and learned the truth."
+      "translationEn": "She talked with her mother and learned the truth.",
+      "words": [
+        { "w": "تَكَلَّمَتْ", "root": "ك ل م", "bs": "razgovarala je", "en": "talked" },
+        { "w": "أُمِّهَا", "root": "أ م م", "bs": "njena majka", "en": "her mother" },
+        { "w": "عَرَفَتِ", "root": "ع ر ف", "bs": "saznala je", "en": "learned" },
+        { "w": "الْحَقِيقَةَ", "root": "ح ق ق", "bs": "istinu", "en": "the truth" }
+      ]
     },
     {
       "arabic": "قَالَتِ الأُمُّ «أَحِبُّكِ أَنْتِ وَأُخْتَكِ بِنَفْسِ الْقَدْرِ».",
       "translation": "Majka je rekla \"volim tebe i tvoju sestru jednako\".",
-      "translationEn": "The mother said \"I love you and your sister equally\"."
+      "translationEn": "The mother said \"I love you and your sister equally\".",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "the mother" },
+        { "w": "أَحِبُّكِ", "root": "ح ب ب", "bs": "volim te", "en": "I love you" }
+      ]
     }
   ],
   "metadata": {

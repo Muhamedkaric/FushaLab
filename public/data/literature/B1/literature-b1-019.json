@@ -6,22 +6,44 @@
     {
       "arabic": "أَرَادَ سُلَيْمَانُ أَنْ يَتَعَلَّمَ رُكُوبَ الدَّرَّاجَةِ.",
       "translation": "Sulejman je želio naučiti voziti bicikl.",
-      "translationEn": "Sulayman wanted to learn how to ride a bicycle."
+      "translationEn": "Sulayman wanted to learn how to ride a bicycle.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "želio je", "en": "wanted" },
+        { "w": "يَتَعَلَّمَ", "root": "ع ل م", "bs": "da nauči", "en": "to learn" },
+        { "w": "رُكُوبَ", "root": "ر ك ب", "bs": "jahanje/vožnja", "en": "riding" },
+        { "w": "الدَّرَّاجَةِ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" }
+      ]
     },
     {
       "arabic": "أَمْسَكَ أَبُوهُ بِالدَّرَّاجَةِ وَسَاعَدَهُ فِي الْبِدَايَةِ.",
       "translation": "Otac mu je držao bicikl i pomagao mu u početku.",
-      "translationEn": "His father held the bicycle and helped him at the start."
+      "translationEn": "His father held the bicycle and helped him at the start.",
+      "words": [
+        { "w": "أَمْسَكَ", "root": "م س ك", "bs": "držao je", "en": "held" },
+        { "w": "الدَّرَّاجَةِ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" },
+        { "w": "سَاعَدَهُ", "root": "س ع د", "bs": "pomagao mu je", "en": "helped him" }
+      ]
     },
     {
       "arabic": "سَقَطَ سُلَيْمَانُ مَرَّتَيْنِ لَكِنَّهُ لَمْ يَسْتَسْلِمْ.",
       "translation": "Sulejman je pao dvaput ali se nije predao.",
-      "translationEn": "Sulayman fell twice but he did not give up."
+      "translationEn": "Sulayman fell twice but he did not give up.",
+      "words": [
+        { "w": "سَقَطَ", "root": "س ق ط", "bs": "pao je", "en": "fell" },
+        { "w": "مَرَّتَيْنِ", "root": "م ر ر", "bs": "dvaput", "en": "twice" },
+        { "w": "يَسْتَسْلِمْ", "root": "س ل م", "bs": "predao se", "en": "give up" }
+      ]
     },
     {
       "arabic": "فِي النِّهَايَةِ رَكِبَ الدَّرَّاجَةَ وَحْدَهُ وَفَرِحَ كَثِيرًا.",
       "translation": "Na kraju je sam vozio bicikl i jako se obradovao.",
-      "translationEn": "In the end he rode the bicycle alone and was very happy."
+      "translationEn": "In the end he rode the bicycle alone and was very happy.",
+      "words": [
+        { "w": "رَكِبَ", "root": "ر ك ب", "bs": "vozio je/jahao", "en": "rode" },
+        { "w": "الدَّرَّاجَةَ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" },
+        { "w": "وَحْدَهُ", "root": "و ح د", "bs": "sam", "en": "alone" },
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" }
+      ]
     }
   ],
   "metadata": {

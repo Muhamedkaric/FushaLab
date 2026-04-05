@@ -6,31 +6,165 @@
     {
       "arabic": "قَرَّرَتِ الإِدَارَةُ تَنْظِيمَ يَوْمٍ لِلقِرَاءَةِ فِي المَدْرَسَةِ.",
       "translation": "Uprava je odlučila organizovati dan čitanja u školi.",
-      "translationEn": "The administration decided to organize a reading day at school."
+      "translationEn": "The administration decided to organize a reading day at school.",
+      "words": [
+        {
+          "w": "قَرَّرَتِ",
+          "root": "ق ر ر",
+          "bs": "odlučila",
+          "en": "decided"
+        },
+        {
+          "w": "الإِدَارَةُ",
+          "root": "د و ر",
+          "bs": "uprava",
+          "en": "administration"
+        },
+        {
+          "w": "تَنْظِيمَ",
+          "root": "ن ظ م",
+          "bs": "organizovanje",
+          "en": "organizing"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "لِلقِرَاءَةِ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading"
+        }
+      ]
     },
     {
       "arabic": "أَحْضَرَ كُلُّ طَالِبٍ كِتَابَهُ المُفَضَّلَ مِنَ البَيْتِ.",
       "translation": "Svaki učenik je donio svoju omiljenu knjigu od kuće.",
-      "translationEn": "Each student brought their favorite book from home."
+      "translationEn": "Each student brought their favorite book from home.",
+      "words": [
+        {
+          "w": "أَحْضَرَ",
+          "root": "ح ض ر",
+          "bs": "donio",
+          "en": "brought"
+        },
+        {
+          "w": "طَالِبٍ",
+          "root": "ط ل ب",
+          "bs": "učenik",
+          "en": "student"
+        },
+        {
+          "w": "كِتَابَهُ",
+          "root": "ك ت ب",
+          "bs": "svoju knjigu",
+          "en": "his book"
+        },
+        {
+          "w": "المُفَضَّلَ",
+          "root": "ف ض ل",
+          "bs": "omiljenu",
+          "en": "favorite"
+        }
+      ]
     },
     {
       "arabic": "جَلَسُوا فِي الحَدِيقَةِ وَقَرَأُوا بِهُدُوءٍ.",
       "translation": "Sjeli su u bašti i tiho čitali.",
-      "translationEn": "They sat in the garden and read quietly."
+      "translationEn": "They sat in the garden and read quietly.",
+      "words": [
+        {
+          "w": "جَلَسُوا",
+          "root": "ج ل س",
+          "bs": "sjeli",
+          "en": "sat"
+        },
+        {
+          "w": "الحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "bašta/park",
+          "en": "garden"
+        },
+        {
+          "w": "قَرَأُوا",
+          "root": "ق ر أ",
+          "bs": "čitali",
+          "en": "read"
+        },
+        {
+          "w": "بِهُدُوءٍ",
+          "root": "ه د أ",
+          "bs": "tiho",
+          "en": "quietly"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ القِرَاءَةِ تَحَدَّثَ كُلُّ طَالِبٍ عَنْ كِتَابِهِ.",
       "translation": "Nakon čitanja svaki učenik je pričao o svojoj knjizi.",
-      "translationEn": "After reading, each student talked about their book."
+      "translationEn": "After reading, each student talked about their book.",
+      "words": [
+        {
+          "w": "القِرَاءَةِ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading"
+        },
+        {
+          "w": "تَحَدَّثَ",
+          "root": "ح د ث",
+          "bs": "pričao",
+          "en": "talked"
+        },
+        {
+          "w": "طَالِبٍ",
+          "root": "ط ل ب",
+          "bs": "učenik",
+          "en": "student"
+        },
+        {
+          "w": "كِتَابِهِ",
+          "root": "ك ت ب",
+          "bs": "njegova knjiga",
+          "en": "his book"
+        }
+      ]
     },
     {
       "arabic": "كَانَ يَوْمًا مُمْتِعًا أَحَبَّهُ الجَمِيعُ.",
       "translation": "Bio je to zabavan dan koji su svi voljeli.",
-      "translationEn": "It was a fun day that everyone loved."
+      "translationEn": "It was a fun day that everyone loved.",
+      "words": [
+        {
+          "w": "يَوْمًا",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "مُمْتِعًا",
+          "root": "م ت ع",
+          "bs": "zabavan",
+          "en": "fun"
+        },
+        {
+          "w": "أَحَبَّهُ",
+          "root": "ح ب ب",
+          "bs": "koji su voljeli",
+          "en": "that everyone loved"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["reading", "books", "school-activities"]
+    "tags": [
+      "reading",
+      "books",
+      "school-activities"
+    ]
   }
 }

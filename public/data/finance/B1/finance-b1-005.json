@@ -6,22 +6,42 @@
     {
       "arabic": "جَلَسَتْ نَادِيَا وَأَبُوهَا فِي المَقْهَى.",
       "translation": "Nadija je sjela s ocem u kafiću.",
-      "translationEn": "Nadia sat with her father in the café."
+      "translationEn": "Nadia sat with her father in the café.",
+      "words": [
+        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
+        { "w": "المَقْهَى", "root": "ق ه و", "bs": "kafić", "en": "café" }
+      ]
     },
     {
       "arabic": "طَلَبَا قَهْوَةً وَعَصِيرًا وَكَعْكَةً صَغِيرَةً.",
       "translation": "Naručili su kafu, sok i mali kolač.",
-      "translationEn": "They ordered coffee, juice, and a small cake."
+      "translationEn": "They ordered coffee, juice, and a small cake.",
+      "words": [
+        { "w": "طَلَبَا", "root": "ط ل ب", "bs": "naručili su", "en": "ordered" },
+        { "w": "قَهْوَةً", "root": "ق ه و", "bs": "kafa", "en": "coffee" },
+        { "w": "عَصِيرًا", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "كَعْكَةً", "root": "ك ع ك", "bs": "kolač", "en": "cake" }
+      ]
     },
     {
       "arabic": "عِنْدَمَا جَاءَ الحِسَابُ نَظَرَ الأَبُ فِيهِ.",
       "translation": "Kad je stigao račun, otac ga je pogledao.",
-      "translationEn": "When the bill came, the father looked at it."
+      "translationEn": "When the bill came, the father looked at it.",
+      "words": [
+        { "w": "الحِسَابُ", "root": "ح س ب", "bs": "račun", "en": "bill" },
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" }
+      ]
     },
     {
       "arabic": "دَفَعَ المَبْلَغَ كَامِلًا وَتَرَكَ بَقْشِيشًا لِلنَّادِلِ.",
       "translation": "Platio je cijeli iznos i ostavio napojnicu konobaru.",
-      "translationEn": "He paid the full amount and left a tip for the waiter."
+      "translationEn": "He paid the full amount and left a tip for the waiter.",
+      "words": [
+        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
+        { "w": "المَبْلَغَ", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
+        { "w": "كَامِلًا", "root": "ك م ل", "bs": "cijeli", "en": "full" },
+        { "w": "بَقْشِيشًا", "root": "ب ق ش", "bs": "napojnica", "en": "tip" }
+      ]
     }
   ],
   "metadata": {

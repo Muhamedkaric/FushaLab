@@ -6,22 +6,49 @@
     {
       "arabic": "كَانَ هُنَاكَ طِفْلٌ صَغِيرٌ اسْمُهُ زَيْدٌ يُحِبُّ الطُّيُورَ.",
       "translation": "Bilo je jednom malo dijete po imenu Zejd koje je voljelo ptice.",
-      "translationEn": "There was a small child named Zayd who loved birds."
+      "translationEn": "There was a small child named Zayd who loved birds.",
+      "words": [
+        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "صَغِيرٌ", "root": "ص غ ر", "bs": "malo", "en": "small" },
+        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
+        { "w": "الطُّيُورَ", "root": "ط ي ر", "bs": "ptice", "en": "birds" }
+      ]
     },
     {
       "arabic": "وَجَدَ ذَاتَ يَوْمٍ طَائِرًا صَغِيرًا وَحِيدًا عَلَى الأَرْضِ.",
       "translation": "Jednog dana je pronašao malu usamljenu pticu na zemlji.",
-      "translationEn": "One day he found a small lonely bird on the ground."
+      "translationEn": "One day he found a small lonely bird on the ground.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "طَائِرًا", "root": "ط ي ر", "bs": "ptica", "en": "bird" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "وَحِيدًا", "root": "و ح د", "bs": "usamljena", "en": "lonely" },
+        { "w": "الأَرْضِ", "root": "أ ر ض", "bs": "zemlja", "en": "ground" }
+      ]
     },
     {
       "arabic": "وَضَعَهُ فِي صُنْدُوقٍ دَافِئٍ وَأَعْطَاهُ مَاءً وَطَعَامًا.",
       "translation": "Stavio ga je u toplu kutiju i dao mu vodu i hranu.",
-      "translationEn": "He put it in a warm box and gave it water and food."
+      "translationEn": "He put it in a warm box and gave it water and food.",
+      "words": [
+        { "w": "وَضَعَهُ", "root": "و ض ع", "bs": "stavio ga je", "en": "put it" },
+        { "w": "صُنْدُوقٍ", "root": "ص ن د ق", "bs": "kutija", "en": "box" },
+        { "w": "دَافِئٍ", "root": "د ف أ", "bs": "topla", "en": "warm" },
+        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "gave it" },
+        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hrana", "en": "food" }
+      ]
     },
     {
       "arabic": "بَعْدَ أَيَّامٍ قَلِيلَةٍ طَارَ الطَّائِرُ وَزَيْدٌ يَبْتَسِمُ.",
       "translation": "Nakon nekoliko dana ptica je odletjela a Zejd se smiješio.",
-      "translationEn": "After a few days the bird flew away while Zayd smiled."
+      "translationEn": "After a few days the bird flew away while Zayd smiled.",
+      "words": [
+        { "w": "أَيَّامٍ", "root": "ي و م", "bs": "dana", "en": "days" },
+        { "w": "قَلِيلَةٍ", "root": "ق ل ل", "bs": "nekoliko", "en": "few" },
+        { "w": "طَارَ", "root": "ط ي ر", "bs": "odletjela je", "en": "flew away" },
+        { "w": "الطَّائِرُ", "root": "ط ي ر", "bs": "ptica", "en": "bird" },
+        { "w": "يَبْتَسِمُ", "root": "ب س م", "bs": "smiješi se", "en": "smiles" }
+      ]
     }
   ],
   "metadata": {

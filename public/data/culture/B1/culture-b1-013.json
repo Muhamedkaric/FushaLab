@@ -6,22 +6,45 @@
     {
       "arabic": "تَتَعَلَّمُ البِنْتُ الخِيَاطَةَ مِنْ أُمِّهَا.",
       "translation": "Djevojka uči šivanje od majke.",
-      "translationEn": "The girl learns sewing from her mother."
+      "translationEn": "The girl learns sewing from her mother.",
+      "words": [
+        { "w": "تَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learns" },
+        { "w": "البِنْتُ", "root": "ب ن ت", "bs": "djevojka", "en": "girl" },
+        { "w": "الخِيَاطَةَ", "root": "خ ي ط", "bs": "šivanje", "en": "sewing" }
+      ]
     },
     {
       "arabic": "تَصْنَعُ الأُمُّ مَلَابِسَ جَمِيلَةً بِيَدَيْهَا.",
       "translation": "Majka šije lijepu odjeću rukama.",
-      "translationEn": "The mother makes beautiful clothes with her hands."
+      "translationEn": "The mother makes beautiful clothes with her hands.",
+      "words": [
+        { "w": "تَصْنَعُ", "root": "ص ن ع", "bs": "šije", "en": "makes" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "مَلَابِسَ", "root": "ل ب س", "bs": "odjeću", "en": "clothes" },
+        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijepu", "en": "beautiful" }
+      ]
     },
     {
       "arabic": "الصِّنَاعَاتُ اليَدَوِيَّةُ تُرَاثٌ قَدِيمٌ.",
       "translation": "Ručni radovi su stara baština.",
-      "translationEn": "Handicrafts are an old heritage."
+      "translationEn": "Handicrafts are an old heritage.",
+      "words": [
+        { "w": "الصِّنَاعَاتُ", "root": "ص ن ع", "bs": "zanati", "en": "crafts" },
+        { "w": "اليَدَوِيَّةُ", "root": "ي د ي", "bs": "ručni", "en": "handmade" },
+        { "w": "تُرَاثٌ", "root": "و ر ث", "bs": "baština", "en": "heritage" },
+        { "w": "قَدِيمٌ", "root": "ق د م", "bs": "stara", "en": "old" }
+      ]
     },
     {
       "arabic": "تَبِيعُ النِّسَاءُ مَنْتُوجَاتِهِنَّ فِي السُّوقِ.",
       "translation": "Žene prodaju svoje proizvode na pijaci.",
-      "translationEn": "Women sell their products at the market."
+      "translationEn": "Women sell their products at the market.",
+      "words": [
+        { "w": "تَبِيعُ", "root": "ب ي ع", "bs": "prodaju", "en": "sell" },
+        { "w": "النِّسَاءُ", "root": "ن س و", "bs": "žene", "en": "women" },
+        { "w": "مَنْتُوجَاتِهِنَّ", "root": "ن ت ج", "bs": "proizvode", "en": "products" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaci", "en": "market" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,41 @@
     {
       "arabic": "قَالَ الْأَبُ: «لَوْلَا الْمِشَقَّةُ سَادَ النَّاسُ كُلُّهُمْ».",
       "translation": "Otac je rekao: «Da nema teškoća, svi bi bili veliki».",
-      "translationEn": "The father said: «If not for hardship, everyone would be great»."
+      "translationEn": "The father said: «If not for hardship, everyone would be great».",
+      "words": [
+        { "w": "الْمِشَقَّةُ", "root": "ش ق ق", "bs": "teškoća", "en": "hardship" },
+        { "w": "سَادَ", "root": "س و د", "bs": "bio bi veliki", "en": "would be great" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الصُّعُوبَاتِ تُعَلِّمُنَا وَتُقَوِّينَا.",
       "translation": "To znači da nas teškoće uče i jačaju.",
-      "translationEn": "This means that difficulties teach us and make us stronger."
+      "translationEn": "This means that difficulties teach us and make us stronger.",
+      "words": [
+        { "w": "الصُّعُوبَاتِ", "root": "ص ع ب", "bs": "teškoće", "en": "difficulties" },
+        { "w": "تُعَلِّمُنَا", "root": "ع ل م", "bs": "uče nas", "en": "teach us" },
+        { "w": "تُقَوِّينَا", "root": "ق و ي", "bs": "jačaju nas", "en": "make us stronger" }
+      ]
     },
     {
       "arabic": "سَقَطَ نَادِرٌ مِنَ الدَّرَّاجَةِ أَكْثَرَ مِنْ مَرَّةٍ.",
       "translation": "Nadir je pao s bicikla više puta.",
-      "translationEn": "Nadir fell off the bicycle more than once."
+      "translationEn": "Nadir fell off the bicycle more than once.",
+      "words": [
+        { "w": "سَقَطَ", "root": "س ق ط", "bs": "pao je", "en": "fell" },
+        { "w": "الدَّرَّاجَةِ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" }
+      ]
     },
     {
       "arabic": "لَمْ يَتَوَقَّفْ وَتَعَلَّمَ رُكُوبَ الدَّرَّاجَةِ فِي النِّهَايَةِ.",
       "translation": "Nije odustao i na kraju je naučio voziti bicikl.",
-      "translationEn": "He did not give up and finally learned to ride the bicycle."
+      "translationEn": "He did not give up and finally learned to ride the bicycle.",
+      "words": [
+        { "w": "يَتَوَقَّفْ", "root": "و ق ف", "bs": "odustao", "en": "give up" },
+        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučio je", "en": "learned" },
+        { "w": "رُكُوبَ", "root": "ر ك ب", "bs": "vožnju", "en": "riding" },
+        { "w": "الدَّرَّاجَةِ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" }
+      ]
     }
   ],
   "metadata": {

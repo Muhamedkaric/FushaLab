@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ رَاعٍ اسْمُهُ نُوحٌ يَرْعَى الْغَنَمَ قُرْبَ النَّهْرِ.",
       "translation": "Bio je pastir po imenu Nuh koji je čuvao ovce blizu rijeke.",
-      "translationEn": "There was a shepherd named Nuh who tended sheep near the river."
+      "translationEn": "There was a shepherd named Nuh who tended sheep near the river.",
+      "words": [
+        { "w": "رَاعٍ", "root": "ر ع ي", "bs": "pastir", "en": "shepherd" },
+        { "w": "يَرْعَى", "root": "ر ع ي", "bs": "čuvao je", "en": "tended" },
+        { "w": "الْغَنَمَ", "root": "غ ن م", "bs": "ovce", "en": "sheep" },
+        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "river" }
+      ]
     },
     {
       "arabic": "رَأَى سَمَكَةً كَبِيرَةً عَلِقَتْ بَيْنَ الصُّخُورِ.",
       "translation": "Vidio je veliku ribu koja se zaglavila između stijena.",
-      "translationEn": "He saw a large fish stuck between the rocks."
+      "translationEn": "He saw a large fish stuck between the rocks.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "سَمَكَةً", "root": "س م ك", "bs": "riba", "en": "fish" },
+        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "velika", "en": "large" },
+        { "w": "عَلِقَتْ", "root": "ع ل ق", "bs": "zaglavila se", "en": "stuck" },
+        { "w": "الصُّخُورِ", "root": "ص خ ر", "bs": "stijene", "en": "rocks" }
+      ]
     },
     {
       "arabic": "نَزَلَ إِلَى الْمَاءِ وَحَرَّكَ الصَّخْرَةَ بِيَدِهِ.",
       "translation": "Ušao je u vodu i rukom je pomjerao stijenu.",
-      "translationEn": "He went into the water and moved the rock with his hand."
+      "translationEn": "He went into the water and moved the rock with his hand.",
+      "words": [
+        { "w": "نَزَلَ", "root": "ن ز ل", "bs": "ušao je", "en": "went into" },
+        { "w": "الْمَاءِ", "root": "م و ه", "bs": "voda", "en": "water" },
+        { "w": "حَرَّكَ", "root": "ح ر ك", "bs": "pomjerao je", "en": "moved" },
+        { "w": "الصَّخْرَةَ", "root": "ص خ ر", "bs": "stijena", "en": "rock" },
+        { "w": "بِيَدِهِ", "root": "ي د ي", "bs": "svojom rukom", "en": "with his hand" }
+      ]
     },
     {
       "arabic": "انْطَلَقَتِ السَّمَكَةُ فِي الْمَاءِ وَنُوحٌ يَنْظُرُ إِلَيْهَا بِفَرَحٍ.",
       "translation": "Riba je uplovila u vodu a Nuh je radosno gledao za njom.",
-      "translationEn": "The fish swam away in the water while Nuh watched it joyfully."
+      "translationEn": "The fish swam away in the water while Nuh watched it joyfully.",
+      "words": [
+        { "w": "انْطَلَقَتِ", "root": "ط ل ق", "bs": "uplovila je", "en": "swam away" },
+        { "w": "السَّمَكَةُ", "root": "س م ك", "bs": "riba", "en": "fish" },
+        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gledao je", "en": "watched" },
+        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "radosno", "en": "joyfully" }
+      ]
     }
   ],
   "metadata": {

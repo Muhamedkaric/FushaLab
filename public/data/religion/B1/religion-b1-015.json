@@ -6,22 +6,114 @@
     {
       "arabic": "أَكْمَلَتِ الْبِنْتُ الصَّوْمَ لِأَوَّلِ مَرَّةٍ فِي حَيَاتِهَا.",
       "translation": "Djevojčica je po prvi put u životu završila post.",
-      "translationEn": "The girl completed fasting for the first time in her life."
+      "translationEn": "The girl completed fasting for the first time in her life.",
+      "words": [
+        {
+          "w": "أَكْمَلَتِ",
+          "root": "ك م ل",
+          "bs": "završila je",
+          "en": "completed"
+        },
+        {
+          "w": "الْبِنْتُ",
+          "root": "ب ن ت",
+          "bs": "djevojčica",
+          "en": "the girl"
+        },
+        {
+          "w": "الصَّوْمَ",
+          "root": "ص و م",
+          "bs": "post",
+          "en": "fasting"
+        },
+        {
+          "w": "أَوَّلِ مَرَّةٍ",
+          "root": "م ر ر",
+          "bs": "po prvi put",
+          "en": "for the first time"
+        }
+      ]
     },
     {
       "arabic": "صَامَتْ مِنَ الصُّبْحِ حَتَّى الْمَغْرِبِ دُونَ شِكَايَةٍ.",
       "translation": "Postila je od sabaha do akšama bez prigovora.",
-      "translationEn": "She fasted from dawn to sunset without complaint."
+      "translationEn": "She fasted from dawn to sunset without complaint.",
+      "words": [
+        {
+          "w": "صَامَتْ",
+          "root": "ص و م",
+          "bs": "postila je",
+          "en": "fasted"
+        },
+        {
+          "w": "الصُّبْحِ",
+          "root": "ص ب ح",
+          "bs": "sabaha",
+          "en": "dawn"
+        },
+        {
+          "w": "الْمَغْرِبِ",
+          "root": "غ ر ب",
+          "bs": "akšama",
+          "en": "sunset"
+        },
+        {
+          "w": "شِكَايَةٍ",
+          "root": "ش ك و",
+          "bs": "prigovora",
+          "en": "complaint"
+        }
+      ]
     },
     {
       "arabic": "فَرِحَتِ الْعَائِلَةُ بِهَا وَمَدَحُوهَا كَثِيرًا.",
       "translation": "Porodica se obradovala zbog nje i puno je hvalila.",
-      "translationEn": "The family was happy for her and praised her a lot."
+      "translationEn": "The family was happy for her and praised her a lot.",
+      "words": [
+        {
+          "w": "فَرِحَتِ",
+          "root": "ف ر ح",
+          "bs": "obradovala se",
+          "en": "was happy"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "the family"
+        },
+        {
+          "w": "مَدَحُوهَا",
+          "root": "م د ح",
+          "bs": "hvalili su je",
+          "en": "praised her"
+        }
+      ]
     },
     {
       "arabic": "قَالَتِ الْجَدَّةُ: بَارَكَ اللَّهُ فِيكِ يَا حَبِيبَتِي.",
       "translation": "Baka je rekla: Allah ti podario bereket, dragana moja.",
-      "translationEn": "The grandmother said: May God bless you my dear."
+      "translationEn": "The grandmother said: May God bless you my dear.",
+      "words": [
+        {
+          "w": "الْجَدَّةُ",
+          "root": "ج د د",
+          "bs": "baka",
+          "en": "the grandmother"
+        },
+        {
+          "w": "بَارَكَ",
+          "root": "ب ر ك",
+          "bs": "podario bereket",
+          "en": "blessed"
+        },
+        {
+          "w": "اللَّهُ",
+          "root": "أ ل ه",
+          "bs": "Allah",
+          "en": "God"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,126 @@
     {
       "arabic": "حِينَ سَأَلَهُ أَخُوهُ طَلَبَ مِنْهُ مَالًا فَأَعْطَاهُ بِخِفَّةٍ.",
       "translation": "Kad ga je brat zamolio tražeći novac, dao mu je rado.",
-      "translationEn": "When his brother asked him for money he gave it readily."
+      "translationEn": "When his brother asked him for money he gave it readily.",
+      "words": [
+        {
+          "w": "سَأَلَهُ",
+          "root": "س أ ل",
+          "bs": "zamolio ga je",
+          "en": "asked him"
+        },
+        {
+          "w": "أَخُوهُ",
+          "root": "أ خ و",
+          "bs": "brat",
+          "en": "his brother"
+        },
+        {
+          "w": "مَالًا",
+          "root": "م و ل",
+          "bs": "novac",
+          "en": "money"
+        },
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط و",
+          "bs": "dao mu je",
+          "en": "gave it"
+        },
+        {
+          "w": "بِخِفَّةٍ",
+          "root": "خ ف ف",
+          "bs": "rado",
+          "en": "readily"
+        }
+      ]
     },
     {
       "arabic": "لَمْ يُحَاسِبْهُ وَلَمْ يَذْكُرْ مَا أَعْطَاهُ.",
       "translation": "Nije ga pozivao na odgovornost niti spominjao što mu je dao.",
-      "translationEn": "He did not hold it over him or mention what he had given."
+      "translationEn": "He did not hold it over him or mention what he had given.",
+      "words": [
+        {
+          "w": "يُحَاسِبْهُ",
+          "root": "ح س ب",
+          "bs": "pozivao na odgovornost",
+          "en": "held it over him"
+        },
+        {
+          "w": "يَذْكُرْ",
+          "root": "ذ ك ر",
+          "bs": "spominjao",
+          "en": "mention"
+        },
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط و",
+          "bs": "što mu je dao",
+          "en": "what he gave"
+        }
+      ]
     },
     {
       "arabic": "قَالَ لَهُ: نَحْنُ إِخْوَةٌ وَالْإِخْوَةُ يُسَاعِدُونَ بَعْضَهُمْ.",
       "translation": "Rekao mu je: Mi smo braća, a braća si pomažu.",
-      "translationEn": "He told him: We are brothers and brothers help each other."
+      "translationEn": "He told him: We are brothers and brothers help each other.",
+      "words": [
+        {
+          "w": "نَحْنُ إِخْوَةٌ",
+          "root": "أ خ و",
+          "bs": "mi smo braća",
+          "en": "we are brothers"
+        },
+        {
+          "w": "الْإِخْوَةُ",
+          "root": "أ خ و",
+          "bs": "braća",
+          "en": "brothers"
+        },
+        {
+          "w": "يُسَاعِدُونَ",
+          "root": "س ع د",
+          "bs": "pomažu",
+          "en": "help"
+        },
+        {
+          "w": "بَعْضَهُمْ",
+          "root": "ب ع ض",
+          "bs": "jedni druge",
+          "en": "each other"
+        }
+      ]
     },
     {
       "arabic": "شَكَرَهُ الْأَخُ وَدَعَا لَهُ بِالْخَيْرِ.",
       "translation": "Brat mu je zahvalio i dovio za njega dobro.",
-      "translationEn": "The brother thanked him and prayed for his wellbeing."
+      "translationEn": "The brother thanked him and prayed for his wellbeing.",
+      "words": [
+        {
+          "w": "شَكَرَهُ",
+          "root": "ش ك ر",
+          "bs": "zahvalio mu je",
+          "en": "thanked him"
+        },
+        {
+          "w": "الْأَخُ",
+          "root": "أ خ و",
+          "bs": "brat",
+          "en": "the brother"
+        },
+        {
+          "w": "دَعَا",
+          "root": "د ع و",
+          "bs": "dovio je",
+          "en": "prayed"
+        },
+        {
+          "w": "لَهُ بِالْخَيْرِ",
+          "root": "خ ي ر",
+          "bs": "za dobro",
+          "en": "for his wellbeing"
+        }
+      ]
     }
   ],
   "metadata": {

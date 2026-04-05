@@ -6,26 +6,117 @@
     {
       "arabic": "يَذْهَبُ أَحْمَدُ إِلَى الْمَلْعَبِ كُلَّ صَبَاحٍ.",
       "translation": "Ahmed ide na sportski teren svako jutro.",
-      "translationEn": "Ahmed goes to the sports field every morning."
+      "translationEn": "Ahmed goes to the sports field every morning.",
+      "words": [
+        {
+          "w": "يَذْهَبُ",
+          "root": "ذ ه ب",
+          "bs": "ide",
+          "en": "goes"
+        },
+        {
+          "w": "الْمَلْعَبِ",
+          "root": "ل ع ب",
+          "bs": "sportski teren",
+          "en": "sports field"
+        },
+        {
+          "w": "صَبَاحٍ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning"
+        }
+      ]
     },
     {
       "arabic": "يَجْرِي لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً ثُمَّ يَسْتَرِيحُ.",
       "translation": "Trči trideset minuta, a zatim se odmori.",
-      "translationEn": "He runs for thirty minutes and then rests."
+      "translationEn": "He runs for thirty minutes and then rests.",
+      "words": [
+        {
+          "w": "يَجْرِي",
+          "root": "ج ر ي",
+          "bs": "trči",
+          "en": "runs"
+        },
+        {
+          "w": "يَسْتَرِيحُ",
+          "root": "ر و ح",
+          "bs": "odmara se",
+          "en": "rests"
+        }
+      ]
     },
     {
       "arabic": "يُحِبُّ الرِّيَاضَةَ لِأَنَّهَا تَجْعَلُهُ يَشْعُرُ بِالنَّشَاطِ.",
       "translation": "Voli sport jer ga čini aktivnim.",
-      "translationEn": "He loves sport because it makes him feel active."
+      "translationEn": "He loves sport because it makes him feel active.",
+      "words": [
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "loves"
+        },
+        {
+          "w": "الرِّيَاضَةَ",
+          "root": "ر و ض",
+          "bs": "sport",
+          "en": "sport"
+        },
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels"
+        },
+        {
+          "w": "بِالنَّشَاطِ",
+          "root": "ن ش ط",
+          "bs": "aktivno",
+          "en": "active"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ التَّمَارِينِ يَشْرَبُ كُوبًا كَبِيرًا مِنَ الْمَاءِ.",
       "translation": "Nakon vježbanja pije veliku čašu vode.",
-      "translationEn": "After exercise he drinks a large glass of water."
+      "translationEn": "After exercise he drinks a large glass of water.",
+      "words": [
+        {
+          "w": "التَّمَارِينِ",
+          "root": "م ر ن",
+          "bs": "vježbanje",
+          "en": "exercise"
+        },
+        {
+          "w": "يَشْرَبُ",
+          "root": "ش ر ب",
+          "bs": "pije",
+          "en": "drinks"
+        },
+        {
+          "w": "كُوبًا",
+          "root": "ك و ب",
+          "bs": "čaša",
+          "en": "glass"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["exercise", "running", "sport", "morning"]
+    "tags": [
+      "exercise",
+      "running",
+      "sport",
+      "morning"
+    ]
   }
 }

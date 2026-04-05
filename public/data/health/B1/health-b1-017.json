@@ -6,26 +6,147 @@
     {
       "arabic": "أَخَذَ سَامِيٌّ ابْنَهُ الصَّغِيرَ إِلَى الطَّبِيبِ لِلْفَحْصِ الدَّوْرِيِّ.",
       "translation": "Sami je odveo svog malog sina kod ljekara na redovni pregled.",
-      "translationEn": "Sami took his young son to the doctor for a routine check-up."
+      "translationEn": "Sami took his young son to the doctor for a routine check-up.",
+      "words": [
+        {
+          "w": "أَخَذَ",
+          "root": "أ خ ذ",
+          "bs": "odveo je",
+          "en": "took"
+        },
+        {
+          "w": "ابْنَهُ",
+          "root": "ب ن ي",
+          "bs": "sin",
+          "en": "son"
+        },
+        {
+          "w": "الصَّغِيرَ",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "young"
+        },
+        {
+          "w": "الطَّبِيبِ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "لِلْفَحْصِ",
+          "root": "ف ح ص",
+          "bs": "za pregled",
+          "en": "for check-up"
+        }
+      ]
     },
     {
       "arabic": "وَزَنَ الطَّبِيبُ الطِّفْلَ وَقَاسَ طُولَهُ.",
       "translation": "Ljekar je izmjerio dijete i izmjerio mu visinu.",
-      "translationEn": "The doctor weighed the child and measured his height."
+      "translationEn": "The doctor weighed the child and measured his height.",
+      "words": [
+        {
+          "w": "وَزَنَ",
+          "root": "و ز ن",
+          "bs": "izmjerio je težinu",
+          "en": "weighed"
+        },
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "الطِّفْلَ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child"
+        },
+        {
+          "w": "قَاسَ",
+          "root": "ق ي س",
+          "bs": "izmjerio je",
+          "en": "measured"
+        },
+        {
+          "w": "طُولَهُ",
+          "root": "ط و ل",
+          "bs": "visinu",
+          "en": "height"
+        }
+      ]
     },
     {
       "arabic": "قَالَ إِنَّ الطِّفْلَ بِصِحَّةٍ جَيِّدَةٍ وَيَنْمُو بِشَكْلٍ طَبِيعِيٍّ.",
       "translation": "Rekao je da je dijete zdravo i da normalno raste.",
-      "translationEn": "He said the child is in good health and growing normally."
+      "translationEn": "He said the child is in good health and growing normally.",
+      "words": [
+        {
+          "w": "الطِّفْلَ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child"
+        },
+        {
+          "w": "بِصِحَّةٍ",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health"
+        },
+        {
+          "w": "جَيِّدَةٍ",
+          "root": "ج و د",
+          "bs": "dobro",
+          "en": "good"
+        },
+        {
+          "w": "يَنْمُو",
+          "root": "ن م و",
+          "bs": "raste",
+          "en": "growing"
+        }
+      ]
     },
     {
       "arabic": "سَعِدَ سَامِيٌّ بِهَذِهِ الْأَخْبَارِ وَشَكَرَ الطَّبِيبَ.",
       "translation": "Sami se obradovao ovim vijestima i zahvalio ljekaru.",
-      "translationEn": "Sami was happy with this news and thanked the doctor."
+      "translationEn": "Sami was happy with this news and thanked the doctor.",
+      "words": [
+        {
+          "w": "سَعِدَ",
+          "root": "س ع د",
+          "bs": "obradovao se",
+          "en": "was happy"
+        },
+        {
+          "w": "الْأَخْبَارِ",
+          "root": "خ ب ر",
+          "bs": "vijesti",
+          "en": "news"
+        },
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked"
+        },
+        {
+          "w": "الطَّبِيبَ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["check-up", "child health", "growth", "doctor"]
+    "tags": [
+      "check-up",
+      "child health",
+      "growth",
+      "doctor"
+    ]
   }
 }

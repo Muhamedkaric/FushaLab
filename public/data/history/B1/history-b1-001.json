@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ النَّاسُ قَدِيمًا يُسَافِرُونَ عَلَى ظُهُورِ الْجِمَالِ.",
       "translation": "Ljudi su u stara vremena putovali na leđima kamila.",
-      "translationEn": "People in the old days used to travel on the backs of camels."
+      "translationEn": "People in the old days used to travel on the backs of camels.",
+      "words": [
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
+        { "w": "يُسَافِرُونَ", "root": "س ف ر", "bs": "putuju", "en": "travel" },
+        { "w": "ظُهُورِ", "root": "ظ ه ر", "bs": "leđa", "en": "backs" },
+        { "w": "الْجِمَالِ", "root": "ج م ل", "bs": "kamile", "en": "camels" }
+      ]
     },
     {
       "arabic": "كَانَتِ الرِّحْلَةُ طَوِيلَةً وَصَعْبَةً أَحْيَانًا.",
       "translation": "Putovanje je bilo dugo i ponekad teško.",
-      "translationEn": "The journey was long and sometimes difficult."
+      "translationEn": "The journey was long and sometimes difficult.",
+      "words": [
+        { "w": "الرِّحْلَةُ", "root": "ر ح ل", "bs": "putovanje", "en": "the journey" },
+        { "w": "طَوِيلَةً", "root": "ط و ل", "bs": "dugo", "en": "long" },
+        { "w": "صَعْبَةً", "root": "ص ع ب", "bs": "teško", "en": "difficult" },
+        { "w": "أَحْيَانًا", "root": "ح ي ن", "bs": "ponekad", "en": "sometimes" }
+      ]
     },
     {
       "arabic": "حَمَلَ الْمُسَافِرُونَ الْمَاءَ وَالطَّعَامَ مَعَهُمْ.",
       "translation": "Putnici su nosili vodu i hranu sa sobom.",
-      "translationEn": "The travellers carried water and food with them."
+      "translationEn": "The travellers carried water and food with them.",
+      "words": [
+        { "w": "حَمَلَ", "root": "ح م ل", "bs": "nosio je", "en": "carried" },
+        { "w": "الْمُسَافِرُونَ", "root": "س ف ر", "bs": "putnici", "en": "the travellers" },
+        { "w": "الْمَاءَ", "root": "م و ه", "bs": "vodu", "en": "the water" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "the food" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْجِمَالُ تَسِيرُ كَثِيرًا فِي الصَّحْرَاءِ.",
       "translation": "Kamile su hodile mnogo po pustinji.",
-      "translationEn": "The camels walked a lot through the desert."
+      "translationEn": "The camels walked a lot through the desert.",
+      "words": [
+        { "w": "الْجِمَالُ", "root": "ج م ل", "bs": "kamile", "en": "the camels" },
+        { "w": "تَسِيرُ", "root": "س ي ر", "bs": "hoda", "en": "walks" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "mnogo", "en": "a lot" },
+        { "w": "الصَّحْرَاءِ", "root": "ص ح ر", "bs": "pustinja", "en": "the desert" }
+      ]
     }
   ],
   "metadata": {

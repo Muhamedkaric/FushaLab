@@ -6,22 +6,44 @@
     {
       "arabic": "سَأَلَ صَدِيقٌ رَامِيًا عَنْ أُسْرَتِهِ.",
       "translation": "Prijatelj je pitao Ramija o njegovoj porodici.",
-      "translationEn": "A friend asked Rami about his family."
+      "translationEn": "A friend asked Rami about his family.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "صَدِيقٌ", "root": "ص د ق", "bs": "prijatelj", "en": "friend" },
+        { "w": "أُسْرَتِهِ", "root": "أ س ر", "bs": "njegova porodica", "en": "his family" }
+      ]
     },
     {
       "arabic": "أَخْبَرَهُ أَنَّهُ يَعِيشُ مَعَ وَالِدَيْهِ وَأُخْتِهِ.",
       "translation": "Rekao mu je da živi s roditeljima i sestrom.",
-      "translationEn": "He told him he lives with his parents and sister."
+      "translationEn": "He told him he lives with his parents and sister.",
+      "words": [
+        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "rekao mu je", "en": "told him" },
+        { "w": "يَعِيشُ", "root": "ع ي ش", "bs": "živi", "en": "lives" },
+        { "w": "وَالِدَيْهِ", "root": "و ل د", "bs": "njegovi roditelji", "en": "his parents" },
+        { "w": "أُخْتِهِ", "root": "أ خ ت", "bs": "njegova sestra", "en": "his sister" }
+      ]
     },
     {
       "arabic": "قَالَ إِنَّ أُسْرَتَهُ صَغِيرَةٌ لَكِنَّهَا سَعِيدَةٌ.",
       "translation": "Rekao je da je njegova porodica mala ali sretna.",
-      "translationEn": "He said his family is small but happy."
+      "translationEn": "He said his family is small but happy.",
+      "words": [
+        { "w": "أُسْرَتَهُ", "root": "أ س ر", "bs": "njegova porodica", "en": "his family" },
+        { "w": "صَغِيرَةٌ", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "سَعِيدَةٌ", "root": "س ع د", "bs": "sretna", "en": "happy" }
+      ]
     },
     {
       "arabic": "يَقْضُونَ وَقْتًا كَثِيرًا مَعًا فِي البَيْتِ.",
       "translation": "Provode puno vremena zajedno kod kuće.",
-      "translationEn": "They spend a lot of time together at home."
+      "translationEn": "They spend a lot of time together at home.",
+      "words": [
+        { "w": "يَقْضُونَ", "root": "ق ض ي", "bs": "provode", "en": "they spend" },
+        { "w": "وَقْتًا", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "puno", "en": "a lot" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+      ]
     }
   ],
   "metadata": {

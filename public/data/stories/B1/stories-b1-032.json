@@ -6,22 +6,47 @@
     {
       "arabic": "خَرَجَ وَلَدٌ اسْمُهُ حَمْزَةُ وَحْدَهُ لِيَلْعَبَ.",
       "translation": "Dječak po imenu Hamza izašao je sam da se igra.",
-      "translationEn": "A boy named Hamza went out alone to play."
+      "translationEn": "A boy named Hamza went out alone to play.",
+      "words": [
+        { "w": "خَرَجَ", "root": "خ ر ج", "bs": "izašao je", "en": "went out" },
+        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" },
+        { "w": "وَحْدَهُ", "root": "و ح د", "bs": "sam", "en": "alone" },
+        { "w": "لِيَلْعَبَ", "root": "ل ع ب", "bs": "da se igra", "en": "to play" }
+      ]
     },
     {
       "arabic": "رَأَى طِفْلًا جَدِيدًا فِي الْحَيِّ يَجْلِسُ وَحِيدًا.",
       "translation": "Vidio je novo dijete u četvrti koje sjedi samo.",
-      "translationEn": "He saw a new child in the neighborhood sitting alone."
+      "translationEn": "He saw a new child in the neighborhood sitting alone.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "طِفْلًا", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "جَدِيدًا", "root": "ج د د", "bs": "novo", "en": "new" },
+        { "w": "الْحَيِّ", "root": "ح ي ي", "bs": "četvrt", "en": "neighborhood" },
+        { "w": "وَحِيدًا", "root": "و ح د", "bs": "samo", "en": "alone" }
+      ]
     },
     {
       "arabic": "مَشَى إِلَيْهِ وَقَالَ: «هَلْ تُرِيدُ أَنْ تَلْعَبَ مَعِي؟»",
       "translation": "Otišao je prema njemu i rekao: «Hoćeš li se igrati sa mnom?»",
-      "translationEn": "He walked to him and said: «Do you want to play with me?»"
+      "translationEn": "He walked to him and said: «Do you want to play with me?»",
+      "words": [
+        { "w": "مَشَى", "root": "م ش ي", "bs": "otišao je", "en": "walked" },
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "تُرِيدُ", "root": "ر و د", "bs": "hoćeš", "en": "want" },
+        { "w": "تَلْعَبَ", "root": "ل ع ب", "bs": "da se igraš", "en": "to play" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَ الطِّفْلُ الْجَدِيدُ وَقَالَ: «نَعَمْ بِكُلِّ سُرُورٍ».",
       "translation": "Novo dijete se nasmiješilo i reklo: «Da, sa zadovoljstvom».",
-      "translationEn": "The new child smiled and said: «Yes, with pleasure»."
+      "translationEn": "The new child smiled and said: «Yes, with pleasure».",
+      "words": [
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješilo se", "en": "smiled" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "الْجَدِيدُ", "root": "ج د د", "bs": "novo", "en": "new" },
+        { "w": "سُرُورٍ", "root": "س ر ر", "bs": "zadovoljstvo", "en": "pleasure" }
+      ]
     }
   ],
   "metadata": {

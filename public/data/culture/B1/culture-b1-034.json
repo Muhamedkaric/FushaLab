@@ -6,27 +6,57 @@
     {
       "arabic": "فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ، تَذْهَبُ الأُسْرَةُ لِلنُّزْهَةِ.",
       "translation": "Za vikend, porodica ide na izlet.",
-      "translationEn": "On the weekend, the family goes on a picnic."
+      "translationEn": "On the weekend, the family goes on a picnic.",
+      "words": [
+        { "w": "عُطْلَةِ", "root": "ع ط ل", "bs": "odmor", "en": "holiday" },
+        { "w": "الأُسْبُوعِ", "root": "س ب ع", "bs": "sedmica", "en": "weekend" },
+        { "w": "تَذْهَبُ", "root": "ذ هـ ب", "bs": "ide", "en": "goes" },
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "لِلنُّزْهَةِ", "root": "ن ز هـ", "bs": "na izlet", "en": "on a picnic" }
+      ]
     },
     {
       "arabic": "يَخْتَارُونَ مَكَانًا جَمِيلًا قَرِيبًا مِنَ الطَّبِيعَةِ.",
       "translation": "Biraju lijepo mjesto blizu prirode.",
-      "translationEn": "They choose a beautiful place close to nature."
+      "translationEn": "They choose a beautiful place close to nature.",
+      "words": [
+        { "w": "يَخْتَارُونَ", "root": "خ ي ر", "bs": "biraju", "en": "choose" },
+        { "w": "مَكَانًا", "root": "م ك ن", "bs": "mjesto", "en": "place" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepo", "en": "beautiful" },
+        { "w": "الطَّبِيعَةِ", "root": "ط ب ع", "bs": "prirode", "en": "nature" }
+      ]
     },
     {
       "arabic": "تُحَضِّرُ الأُمُّ الطَّعَامَ وَالمَشْرُوبَاتِ.",
       "translation": "Majka priprema hranu i pića.",
-      "translationEn": "The mother prepares food and drinks."
+      "translationEn": "The mother prepares food and drinks.",
+      "words": [
+        { "w": "تُحَضِّرُ", "root": "ح ض ر", "bs": "priprema", "en": "prepares" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" },
+        { "w": "المَشْرُوبَاتِ", "root": "ش ر ب", "bs": "pića", "en": "drinks" }
+      ]
     },
     {
       "arabic": "يَلْعَبُ الأَطْفَالُ وَالكِبَارُ يَسْتَرِيحُونَ.",
       "translation": "Djeca se igraju, a odrasli se odmaraju.",
-      "translationEn": "The children play and the adults rest."
+      "translationEn": "The children play and the adults rest.",
+      "words": [
+        { "w": "يَلْعَبُ", "root": "ل ع ب", "bs": "igraju se", "en": "play" },
+        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "الكِبَارُ", "root": "ك ب ر", "bs": "odrasli", "en": "adults" },
+        { "w": "يَسْتَرِيحُونَ", "root": "ر و ح", "bs": "odmaraju se", "en": "rest" }
+      ]
     },
     {
       "arabic": "هَذِهِ اللَّحَظَاتُ تُسْعِدُ الجَمِيعَ.",
       "translation": "Ovi trenuci usrećuju sve.",
-      "translationEn": "These moments make everyone happy."
+      "translationEn": "These moments make everyone happy.",
+      "words": [
+        { "w": "اللَّحَظَاتُ", "root": "ل ح ظ", "bs": "trenuci", "en": "moments" },
+        { "w": "تُسْعِدُ", "root": "س ع د", "bs": "usrećuju", "en": "make happy" },
+        { "w": "الجَمِيعَ", "root": "ج م ع", "bs": "sve", "en": "everyone" }
+      ]
     }
   ],
   "metadata": {

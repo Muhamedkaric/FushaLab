@@ -6,31 +6,147 @@
     {
       "arabic": "التَقَى يَاسِرُ بِصَدِيقٍ جَدِيدٍ فِي أَوَّلِ يَوْمٍ مَدْرَسِيٍّ.",
       "translation": "Jasir je upoznao novog prijatelja prvog školskog dana.",
-      "translationEn": "Yasir met a new friend on the first day of school."
+      "translationEn": "Yasir met a new friend on the first day of school.",
+      "words": [
+        {
+          "w": "اِلْتَقَى",
+          "root": "ل ق ي",
+          "bs": "upoznao/sreo",
+          "en": "met"
+        },
+        {
+          "w": "صَدِيقٍ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "friend"
+        },
+        {
+          "w": "جَدِيدٍ",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "مَدْرَسِيٍّ",
+          "root": "د ر س",
+          "bs": "školski",
+          "en": "school"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَهُ: مَا اسْمُكَ وَمِنْ أَيْنَ أَنْتَ؟",
       "translation": "Upitao ga je: Kako se zoveš i odakle si?",
-      "translationEn": "He asked him: What is your name and where are you from?"
+      "translationEn": "He asked him: What is your name and where are you from?",
+      "words": [
+        {
+          "w": "سَأَلَهُ",
+          "root": "س أ ل",
+          "bs": "pitao ga",
+          "en": "asked him"
+        },
+        {
+          "w": "اسْمُكَ",
+          "root": "س م و",
+          "bs": "tvoje ime",
+          "en": "your name"
+        }
+      ]
     },
     {
       "arabic": "أَجَابَ الصَّدِيقُ: اسْمِي كَرِيمٌ وَأَنَا مِنْ هَذِهِ المَدِينَةِ.",
       "translation": "Prijatelj je odgovorio: Zovem se Kerim i iz ovog sam grada.",
-      "translationEn": "The friend answered: My name is Karim and I am from this city."
+      "translationEn": "The friend answered: My name is Karim and I am from this city.",
+      "words": [
+        {
+          "w": "أَجَابَ",
+          "root": "ج و ب",
+          "bs": "odgovorio",
+          "en": "answered"
+        },
+        {
+          "w": "الصَّدِيقُ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "friend"
+        },
+        {
+          "w": "اسْمِي",
+          "root": "س م و",
+          "bs": "moje ime",
+          "en": "my name"
+        },
+        {
+          "w": "المَدِينَةِ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city"
+        }
+      ]
     },
     {
       "arabic": "لَعِبَا مَعًا فِي الفُرْصَةِ وَضَحِكَا كَثِيرًا.",
       "translation": "Igrali su zajedno u odmoru i puno se smijali.",
-      "translationEn": "They played together during break and laughed a lot."
+      "translationEn": "They played together during break and laughed a lot.",
+      "words": [
+        {
+          "w": "لَعِبَا",
+          "root": "ل ع ب",
+          "bs": "igrali su se",
+          "en": "played"
+        },
+        {
+          "w": "الفُرْصَةِ",
+          "root": "ف ر ص",
+          "bs": "odmor",
+          "en": "break"
+        },
+        {
+          "w": "ضَحِكَا",
+          "root": "ض ح ك",
+          "bs": "smijali su se",
+          "en": "laughed"
+        }
+      ]
     },
     {
       "arabic": "أَصْبَحَ يَاسِرُ وَكَرِيمٌ صَدِيقَيْنِ مُقَرَّبَيْنِ.",
       "translation": "Jasir i Kerim su postali bliski prijatelji.",
-      "translationEn": "Yasir and Karim became close friends."
+      "translationEn": "Yasir and Karim became close friends.",
+      "words": [
+        {
+          "w": "أَصْبَحَ",
+          "root": "ص ب ح",
+          "bs": "postali",
+          "en": "became"
+        },
+        {
+          "w": "صَدِيقَيْنِ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends"
+        },
+        {
+          "w": "مُقَرَّبَيْنِ",
+          "root": "ق ر ب",
+          "bs": "bliski",
+          "en": "close"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["friendship", "school", "new-student"]
+    "tags": [
+      "friendship",
+      "school",
+      "new-student"
+    ]
   }
 }

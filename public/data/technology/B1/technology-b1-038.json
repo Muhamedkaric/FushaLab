@@ -6,22 +6,125 @@
     {
       "arabic": "أَرَادَتِ الْأُمُّ أَنْ تَعْرِفَ رَقْمَ الطَّبِيبِ.",
       "translation": "Majka je htjela znati doktorov broj.",
-      "translationEn": "The mother wanted to know the doctor's number."
+      "translationEn": "The mother wanted to know the doctor's number.",
+      "words": [
+        {
+          "w": "أَرَادَتِ",
+          "root": "ر و د",
+          "bs": "htjela je",
+          "en": "wanted"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "the mother"
+        },
+        {
+          "w": "تَعْرِفَ",
+          "root": "ع ر ف",
+          "bs": "znati",
+          "en": "know"
+        },
+        {
+          "w": "رَقْمَ",
+          "root": "ر ق م",
+          "bs": "broj",
+          "en": "the number"
+        },
+        {
+          "w": "الطَّبِيبِ",
+          "root": "ط ب ب",
+          "bs": "doktora",
+          "en": "the doctor"
+        }
+      ]
     },
     {
       "arabic": "بَحَثَتْ عَنْهُ فِي الْإِنْتِرْنِتِ وَوَجَدَتْهُ.",
       "translation": "Tražila ga je na internetu i pronašla ga.",
-      "translationEn": "She searched for it on the internet and found it."
+      "translationEn": "She searched for it on the internet and found it.",
+      "words": [
+        {
+          "w": "بَحَثَتْ",
+          "root": "ب ح ث",
+          "bs": "tražila je",
+          "en": "searched"
+        },
+        {
+          "w": "الْإِنْتِرْنِتِ",
+          "bs": "internetu",
+          "en": "the internet"
+        },
+        {
+          "w": "وَجَدَتْهُ",
+          "root": "و ج د",
+          "bs": "pronašla ga je",
+          "en": "found it"
+        }
+      ]
     },
     {
       "arabic": "اتَّصَلَتْ بِهِ وَحَجَزَتْ مَوْعِدًا لِابْنِهَا.",
       "translation": "Nazvala ga je i rezervisala termin za sina.",
-      "translationEn": "She called him and booked an appointment for her son."
+      "translationEn": "She called him and booked an appointment for her son.",
+      "words": [
+        {
+          "w": "اتَّصَلَتْ",
+          "root": "و ص ل",
+          "bs": "nazvala je",
+          "en": "called"
+        },
+        {
+          "w": "حَجَزَتْ",
+          "root": "ح ج ز",
+          "bs": "rezervisala je",
+          "en": "booked"
+        },
+        {
+          "w": "مَوْعِدًا",
+          "root": "و ع د",
+          "bs": "termin",
+          "en": "an appointment"
+        },
+        {
+          "w": "لِابْنِهَا",
+          "root": "ب ن و",
+          "bs": "za sina",
+          "en": "for her son"
+        }
+      ]
     },
     {
       "arabic": "كَتَبَتِ الرَّقْمَ فِي دَفْتَرِهَا لِلْمُسْتَقْبَلِ.",
       "translation": "Zapisala je broj u bilježnicu za budućnost.",
-      "translationEn": "She wrote the number in her notebook for the future."
+      "translationEn": "She wrote the number in her notebook for the future.",
+      "words": [
+        {
+          "w": "كَتَبَتِ",
+          "root": "ك ت ب",
+          "bs": "zapisala je",
+          "en": "wrote"
+        },
+        {
+          "w": "الرَّقْمَ",
+          "root": "ر ق م",
+          "bs": "broj",
+          "en": "the number"
+        },
+        {
+          "w": "دَفْتَرِهَا",
+          "root": "د ف ت",
+          "bs": "bilježnicu",
+          "en": "her notebook"
+        },
+        {
+          "w": "لِلْمُسْتَقْبَلِ",
+          "root": "ق ب ل",
+          "bs": "za budućnost",
+          "en": "for the future"
+        }
+      ]
     }
   ],
   "metadata": {

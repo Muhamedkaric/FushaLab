@@ -6,22 +6,43 @@
     {
       "arabic": "قَالَتِ الْأُمُّ لِابْنِهَا: «مَنْ جَدَّ وَجَدَ».",
       "translation": "Majka je rekla svom sinu: «Ko se trudi, naći će».",
-      "translationEn": "The mother said to her son: «Whoever works hard will find»."
+      "translationEn": "The mother said to her son: «Whoever works hard will find».",
+      "words": [
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "لِابْنِهَا", "root": "ب ن ي", "bs": "svom sinu", "en": "to her son" },
+        { "w": "جَدَّ", "root": "ج د د", "bs": "trudio se", "en": "worked hard" },
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "našao je", "en": "found" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ الْعَمَلَ الْجَادَّ يُؤَدِّي إِلَى النَّجَاحِ.",
       "translation": "To znači da ozbiljan rad vodi ka uspjehu.",
-      "translationEn": "This means that hard work leads to success."
+      "translationEn": "This means that hard work leads to success.",
+      "words": [
+        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "rad", "en": "work" },
+        { "w": "الْجَادَّ", "root": "ج د د", "bs": "ozbiljan", "en": "serious" },
+        { "w": "يُؤَدِّي", "root": "أ د ي", "bs": "vodi", "en": "leads" },
+        { "w": "النَّجَاحِ", "root": "ن ج ح", "bs": "uspjeh", "en": "success" }
+      ]
     },
     {
       "arabic": "دَرَسَ سَامِيٌّ كُلَّ يَوْمٍ وَلَمْ يَتَوَقَّفْ.",
       "translation": "Sami je učio svaki dan i nije prestajao.",
-      "translationEn": "Sami studied every day and did not stop."
+      "translationEn": "Sami studied every day and did not stop.",
+      "words": [
+        { "w": "دَرَسَ", "root": "د ر س", "bs": "učio je", "en": "studied" },
+        { "w": "يَتَوَقَّفْ", "root": "و ق ف", "bs": "prestajao", "en": "stop" }
+      ]
     },
     {
       "arabic": "نَجَحَ فِي الِامْتِحَانِ وَفَرِحَ كَثِيرًا.",
       "translation": "Uspio je na ispitu i veoma se obradovao.",
-      "translationEn": "He passed the exam and was very happy."
+      "translationEn": "He passed the exam and was very happy.",
+      "words": [
+        { "w": "نَجَحَ", "root": "ن ج ح", "bs": "uspio je", "en": "passed" },
+        { "w": "الِامْتِحَانِ", "root": "م ح ن", "bs": "ispit", "en": "exam" },
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" }
+      ]
     }
   ],
   "metadata": {

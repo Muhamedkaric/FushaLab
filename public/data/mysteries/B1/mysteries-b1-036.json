@@ -6,27 +6,57 @@
     {
       "arabic": "وَجَدَ يَزِيدُ بَابَ الْمَخْزَنِ مَفْتُوحًا وَهُوَ مُتَأَكِّدٌ أَنَّهُ أَغْلَقَهُ.",
       "translation": "Yazid je pronašao vrata ostave otvorena a bio je siguran da ih je zatvorio.",
-      "translationEn": "Yazid found the storage room door open and he was sure he had closed it."
+      "translationEn": "Yazid found the storage room door open and he was sure he had closed it.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "بَابَ", "root": "ب و ب", "bs": "vrata", "en": "door" },
+        { "w": "الْمَخْزَنِ", "root": "خ ز ن", "bs": "ostave", "en": "storage room" },
+        { "w": "مَفْتُوحًا", "root": "ف ت ح", "bs": "otvorena", "en": "open" },
+        { "w": "مُتَأَكِّدٌ", "root": "أ ك د", "bs": "siguran", "en": "sure" }
+      ]
     },
     {
       "arabic": "دَخَلَ وَرَأَى أَنَّ بَعْضَ الْأَشْيَاءِ تَغَيَّرَتْ أَمَاكِنُهَا.",
       "translation": "Ušao je i vidio da su se neke stvari pomjerile sa svog mjesta.",
-      "translationEn": "He went in and saw that some things had changed places."
+      "translationEn": "He went in and saw that some things had changed places.",
+      "words": [
+        { "w": "دَخَلَ", "root": "د خ ل", "bs": "ušao je", "en": "he went in" },
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
+        { "w": "الْأَشْيَاءِ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "تَغَيَّرَتْ", "root": "غ ي ر", "bs": "pomjerile su se", "en": "had changed" }
+      ]
     },
     {
       "arabic": "سَأَلَ كُلَّ أَفْرَادِ الْعَائِلَةِ.",
       "translation": "Pitao je sve ukućane.",
-      "translationEn": "He asked all the family members."
+      "translationEn": "He asked all the family members.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "he asked" },
+        { "w": "أَفْرَادِ", "root": "ف ر د", "bs": "članove", "en": "members" },
+        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodice", "en": "family" }
+      ]
     },
     {
       "arabic": "قَالَتِ الْجَدَّةُ: بَحَثْتُ عَنْ خَيْطٍ لِأَخِيطَ بِهِ الثَّوْبَ.",
       "translation": "Baka je rekla: Tražila sam konac da šijem haljinu.",
-      "translationEn": "The grandmother said: I was looking for thread to sew a dress."
+      "translationEn": "The grandmother said: I was looking for thread to sew a dress.",
+      "words": [
+        { "w": "بَحَثْتُ", "root": "ب ح ث", "bs": "tražila sam", "en": "I was looking for" },
+        { "w": "خَيْطٍ", "root": "خ ي ط", "bs": "konac", "en": "thread" },
+        { "w": "أَخِيطَ", "root": "خ ي ط", "bs": "šijem", "en": "to sew" },
+        { "w": "الثَّوْبَ", "root": "ث و ب", "bs": "haljinu", "en": "dress" }
+      ]
     },
     {
       "arabic": "ضَحِكَ يَزِيدُ وَقَالَ: فِي الْمَرَّةِ الْقَادِمَةِ أَخْبِرِينِي يَا جَدَّتِي.",
       "translation": "Yazid se nasmijao i rekao: Sljedeći put mi reci, bako.",
-      "translationEn": "Yazid laughed and said: Next time tell me, grandmother."
+      "translationEn": "Yazid laughed and said: Next time tell me, grandmother.",
+      "words": [
+        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijao se", "en": "he laughed" },
+        { "w": "الْمَرَّةِ", "root": "م ر ر", "bs": "put/puta", "en": "time" },
+        { "w": "الْقَادِمَةِ", "root": "ق د م", "bs": "sljedećeg", "en": "next" },
+        { "w": "أَخْبِرِينِي", "root": "خ ب ر", "bs": "reci mi", "en": "tell me" }
+      ]
     }
   ],
   "metadata": {

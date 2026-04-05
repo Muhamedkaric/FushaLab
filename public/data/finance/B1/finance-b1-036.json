@@ -6,22 +6,45 @@
     {
       "arabic": "ذَهَبَتِ الأُسْرَةُ إِلَى السُّوبَرْمَارْكِتِ الكَبِيرِ.",
       "translation": "Porodica je otišla u veliki supermarket.",
-      "translationEn": "The family went to the big supermarket."
+      "translationEn": "The family went to the big supermarket.",
+      "words": [
+        { "w": "ذَهَبَتِ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "السُّوبَرْمَارْكِتِ", "root": "", "bs": "supermarket", "en": "supermarket" },
+        { "w": "الكَبِيرِ", "root": "ك ب ر", "bs": "veliki", "en": "big" }
+      ]
     },
     {
       "arabic": "أَخَذُوا عَرَبَةَ التَّسَوُّقِ وَجَالُوا بَيْنَ الأَقْسَامِ.",
       "translation": "Uzeli su kolica za kupovinu i hodali između odjela.",
-      "translationEn": "They took a shopping cart and walked between the sections."
+      "translationEn": "They took a shopping cart and walked between the sections.",
+      "words": [
+        { "w": "أَخَذُوا", "root": "أ خ ذ", "bs": "uzeli su", "en": "took" },
+        { "w": "عَرَبَةَ", "root": "ع ر ب", "bs": "kolica", "en": "cart" },
+        { "w": "التَّسَوُّقِ", "root": "س و ق", "bs": "kupovina", "en": "shopping" },
+        { "w": "الأَقْسَامِ", "root": "ق س م", "bs": "odjeli", "en": "sections" }
+      ]
     },
     {
       "arabic": "وَضَعُوا فِي العَرَبَةِ مَا يَحْتَاجُونَهُ.",
       "translation": "Stavili su u kolica ono što im treba.",
-      "translationEn": "They put in the cart what they needed."
+      "translationEn": "They put in the cart what they needed.",
+      "words": [
+        { "w": "وَضَعُوا", "root": "و ض ع", "bs": "stavili su", "en": "put" },
+        { "w": "العَرَبَةِ", "root": "ع ر ب", "bs": "kolica", "en": "cart" },
+        { "w": "يَحْتَاجُونَهُ", "root": "ح و ج", "bs": "trebaju", "en": "needed" }
+      ]
     },
     {
       "arabic": "عِنْدَ الصُّنْدُوقِ حَسَبَ الصُّنْدُوقِيُّ المَبْلَغَ الكُلِّيَّ.",
       "translation": "Na kasi je kasir izračunao ukupni iznos.",
-      "translationEn": "At the checkout the cashier calculated the total amount."
+      "translationEn": "At the checkout the cashier calculated the total amount.",
+      "words": [
+        { "w": "الصُّنْدُوقِ", "root": "ص ن د", "bs": "kasa", "en": "checkout" },
+        { "w": "حَسَبَ", "root": "ح س ب", "bs": "izračunao je", "en": "calculated" },
+        { "w": "الصُّنْدُوقِيُّ", "root": "ص ن د", "bs": "kasir", "en": "cashier" },
+        { "w": "المَبْلَغَ", "root": "ب ل غ", "bs": "iznos", "en": "amount" }
+      ]
     }
   ],
   "metadata": {

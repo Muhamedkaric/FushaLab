@@ -6,22 +6,46 @@
     {
       "arabic": "قَدَّمَتِ الضَّيْفَةُ لِلْعَائِلَةِ حَلَوِيَّاتٍ مِنْ بَلَدِهَا.",
       "translation": "Gošća je porodici ponudila slatkiše iz svog kraja.",
-      "translationEn": "The guest brought sweets from her country for the family."
+      "translationEn": "The guest brought sweets from her country for the family.",
+      "words": [
+        { "w": "قَدَّمَتِ", "root": "ق د م", "bs": "ponudila je/donijela", "en": "offered/brought" },
+        { "w": "الضَّيْفَةُ", "root": "ض ي ف", "bs": "gošća", "en": "guest (female)" },
+        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "حَلَوِيَّاتٍ", "root": "ح ل و", "bs": "slatkiše/deserti", "en": "sweets" },
+        { "w": "بَلَدِهَا", "root": "ب ل د", "bs": "njena zemlja/kraj", "en": "her country" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْحَلَوِيَّاتُ بِالْعَسَلِ وَالْمُكَسَّرَاتِ.",
       "translation": "Slatkiši su bili sa medom i orašastim plodovima.",
-      "translationEn": "The sweets were with honey and nuts."
+      "translationEn": "The sweets were with honey and nuts.",
+      "words": [
+        { "w": "الْحَلَوِيَّاتُ", "root": "ح ل و", "bs": "slatkiši/deserti", "en": "sweets" },
+        { "w": "الْعَسَلِ", "root": "ع س ل", "bs": "med", "en": "honey" },
+        { "w": "الْمُكَسَّرَاتِ", "root": "ك س ر", "bs": "orašasti plodovi", "en": "nuts" }
+      ]
     },
     {
       "arabic": "أَكَلَ الْأَطْفَالُ مِنْهَا وَأَحَبُّوهَا كَثِيرًا.",
       "translation": "Djeca su ih jela i jako ih zavoljela.",
-      "translationEn": "The children ate from them and loved them a lot."
+      "translationEn": "The children ate from them and loved them a lot.",
+      "words": [
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
+        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "أَحَبُّوهَا", "root": "ح ب ب", "bs": "zavoljeli su ih", "en": "loved them" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "mnogo/jako", "en": "a lot" }
+      ]
     },
     {
       "arabic": "شَكَرَتِ الْأُمُّ الضَّيْفَةَ عَلَى هَدِيَّتِهَا.",
       "translation": "Majka je zahvalila gošći za njezin poklon.",
-      "translationEn": "The mother thanked the guest for her gift."
+      "translationEn": "The mother thanked the guest for her gift.",
+      "words": [
+        { "w": "شَكَرَتِ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "الضَّيْفَةَ", "root": "ض ي ف", "bs": "gošću", "en": "guest (female)" },
+        { "w": "هَدِيَّتِهَا", "root": "ه د ي", "bs": "njen poklon", "en": "her gift" }
+      ]
     }
   ],
   "metadata": {

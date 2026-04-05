@@ -6,27 +6,57 @@
     {
       "arabic": "وَصَلَ فَيْصَلٌ إِلَى المَكْتَبِ فِي السَّابِعَةِ صَبَاحًا.",
       "translation": "Fajsal je stigao u kancelariju u sedam ujutro.",
-      "translationEn": "Faisal arrived at the office at seven in the morning."
+      "translationEn": "Faisal arrived at the office at seven in the morning.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "المَكْتَبِ", "root": "ك ت ب", "bs": "kancelariju", "en": "office" },
+        { "w": "صَبَاحًا", "root": "ص ب ح", "bs": "ujutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "سَلَّمَ عَلَى زُمَلَائِهِ وَشَرِبَ قَهْوَتَهُ.",
       "translation": "Pozdravio je kolege i popio svoju kafu.",
-      "translationEn": "He greeted his colleagues and drank his coffee."
+      "translationEn": "He greeted his colleagues and drank his coffee.",
+      "words": [
+        { "w": "سَلَّمَ", "root": "س ل م", "bs": "pozdravio je", "en": "greeted" },
+        { "w": "زُمَلَائِهِ", "root": "ز م ل", "bs": "kolege", "en": "colleagues" },
+        { "w": "شَرِبَ", "root": "ش ر ب", "bs": "popio je", "en": "drank" },
+        { "w": "قَهْوَتَهُ", "root": "ق هـ و", "bs": "kafu", "en": "coffee" }
+      ]
     },
     {
       "arabic": "فَتَحَ الكُمْبِيُوتَرَ وَبَدَأَ بِقِرَاءَةِ الرَّسَائِلِ.",
       "translation": "Otvorio je računar i počeo čitati poruke.",
-      "translationEn": "He opened the computer and started reading messages."
+      "translationEn": "He opened the computer and started reading messages.",
+      "words": [
+        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "opened" },
+        { "w": "الكُمْبِيُوتَرَ", "bs": "računar", "en": "computer" },
+        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počeo je", "en": "started" },
+        { "w": "بِقِرَاءَةِ", "root": "ق ر أ", "bs": "čitati", "en": "reading" },
+        { "w": "الرَّسَائِلِ", "root": "ر س ل", "bs": "poruke", "en": "messages" }
+      ]
     },
     {
       "arabic": "كَانَ اليَوْمُ هَادِئًا وَمُنَظَّمًا.",
       "translation": "Dan je bio miran i organizovan.",
-      "translationEn": "The day was calm and organized."
+      "translationEn": "The day was calm and organized.",
+      "words": [
+        { "w": "اليَوْمُ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "هَادِئًا", "root": "هـ د أ", "bs": "miran", "en": "calm" },
+        { "w": "مُنَظَّمًا", "root": "ن ظ م", "bs": "organizovan", "en": "organized" }
+      ]
     },
     {
       "arabic": "شَعَرَ بِالرَّاحَةِ لِأَنَّهُ أَنْهَى عَمَلَهُ مُبَكِّرًا.",
       "translation": "Osjetio se opušteno jer je završio posao rano.",
-      "translationEn": "He felt relaxed because he finished his work early."
+      "translationEn": "He felt relaxed because he finished his work early.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio se", "en": "felt" },
+        { "w": "بِالرَّاحَةِ", "root": "ر و ح", "bs": "opušteno", "en": "relaxed" },
+        { "w": "أَنْهَى", "root": "ن هـ ي", "bs": "završio je", "en": "finished" },
+        { "w": "عَمَلَهُ", "root": "ع م ل", "bs": "posao", "en": "work" },
+        { "w": "مُبَكِّرًا", "root": "ب ك ر", "bs": "rano", "en": "early" }
+      ]
     }
   ],
   "metadata": {

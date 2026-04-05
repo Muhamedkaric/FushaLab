@@ -6,26 +6,114 @@
     {
       "arabic": "أَعْلَنَ الْمَلْعَبُ عَنْ دَوْرَةٍ رِيَاضِيَّةٍ صَيْفِيَّةٍ لِلأَطْفَالِ.",
       "translation": "Sportski centar je objavio ljetnu sportsku školu za djecu.",
-      "translationEn": "The sports center announced a summer sports camp for children."
+      "translationEn": "The sports center announced a summer sports camp for children.",
+      "words": [
+        {
+          "w": "أَعْلَنَ",
+          "root": "ع ل ن",
+          "bs": "objavio je",
+          "en": "announced"
+        },
+        {
+          "w": "الْمَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "sportski centar",
+          "en": "sports center"
+        },
+        {
+          "w": "دَوْرَةٍ",
+          "root": "د و ر",
+          "bs": "kamp",
+          "en": "camp"
+        },
+        {
+          "w": "رِيَاضِيَّةٍ",
+          "root": "ر ي ض",
+          "bs": "sportski",
+          "en": "sports"
+        },
+        {
+          "w": "صَيْفِيَّةٍ",
+          "root": "ص ي ف",
+          "bs": "ljetni",
+          "en": "summer"
+        }
+      ]
     },
     {
       "arabic": "تَشْمَلُ الدَّوْرَةُ كُرَةَ الْقَدَمِ وَالسِّبَاحَةَ وَالْجِمْبَازَ.",
       "translation": "Škola uključuje fudbal, plivanje i gimnastiku.",
-      "translationEn": "The camp includes football, swimming, and gymnastics."
+      "translationEn": "The camp includes football, swimming, and gymnastics.",
+      "words": [
+        {
+          "w": "كُرَةَ الْقَدَمِ",
+          "bs": "fudbal",
+          "en": "football"
+        },
+        {
+          "w": "السِّبَاحَةَ",
+          "root": "س ب ح",
+          "bs": "plivanje",
+          "en": "swimming"
+        },
+        {
+          "w": "الْجِمْبَازَ",
+          "bs": "gimnastiku",
+          "en": "gymnastics"
+        }
+      ]
     },
     {
       "arabic": "يُمْكِنُ لِلأَطْفَالِ التَّسْجِيلُ ابْتِدَاءً مِنَ الأُسْبُوعِ الْقَادِمِ.",
       "translation": "Djeca se mogu prijaviti počevši od sljedeće sedmice.",
-      "translationEn": "Children can register starting from next week."
+      "translationEn": "Children can register starting from next week.",
+      "words": [
+        {
+          "w": "الأَطْفَالِ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children"
+        },
+        {
+          "w": "التَّسْجِيلُ",
+          "root": "س ج ل",
+          "bs": "prijava",
+          "en": "registration"
+        }
+      ]
     },
     {
       "arabic": "الأَمَاكِنُ مَحْدُودَةٌ فَسَارِعْ إِلَى التَّسْجِيلِ.",
       "translation": "Mjesta su ograničena, pa pohitaj s prijavom.",
-      "translationEn": "Spots are limited so register quickly."
+      "translationEn": "Spots are limited so register quickly.",
+      "words": [
+        {
+          "w": "الأَمَاكِنُ",
+          "root": "م ك ن",
+          "bs": "mjesta",
+          "en": "spots"
+        },
+        {
+          "w": "مَحْدُودَةٌ",
+          "root": "ح د د",
+          "bs": "ograničena",
+          "en": "limited"
+        },
+        {
+          "w": "التَّسْجِيلِ",
+          "root": "س ج ل",
+          "bs": "prijavi",
+          "en": "registration"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sports", "children", "summer"]
+    "tags": [
+      "sports",
+      "children",
+      "summer"
+    ]
   }
 }

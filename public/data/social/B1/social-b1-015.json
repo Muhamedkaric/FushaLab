@@ -6,22 +6,43 @@
     {
       "arabic": "وَقَفَتْ إِيمَانُ عِنْدَ مَوْقِفِ الحَافِلَةِ.",
       "translation": "Iman je stala na stanici autobusa.",
-      "translationEn": "Iman stood at the bus stop."
+      "translationEn": "Iman stood at the bus stop.",
+      "words": [
+        { "w": "وَقَفَتْ", "root": "و ق ف", "bs": "stala je", "en": "stood" },
+        { "w": "مَوْقِفِ", "root": "و ق ف", "bs": "stanici", "en": "stop" },
+        { "w": "الحَافِلَةِ", "root": "ح ف ل", "bs": "autobusa", "en": "bus" }
+      ]
     },
     {
       "arabic": "تَأَخَّرَتِ الحَافِلَةُ عَشْرَ دَقَائِقَ.",
       "translation": "Autobus je kasnio deset minuta.",
-      "translationEn": "The bus was ten minutes late."
+      "translationEn": "The bus was ten minutes late.",
+      "words": [
+        { "w": "تَأَخَّرَتِ", "root": "أ خ ر", "bs": "kasnio je", "en": "was late" },
+        { "w": "الحَافِلَةُ", "root": "ح ف ل", "bs": "autobus", "en": "bus" },
+        { "w": "عَشْرَ", "root": "ع ش ر", "bs": "deset", "en": "ten" },
+        { "w": "دَقَائِقَ", "root": "د ق ق", "bs": "minuta", "en": "minutes" }
+      ]
     },
     {
       "arabic": "تَحَدَّثَتْ مَعَ سَيِّدَةٍ تَقِفُ بِجَانِبِهَا.",
       "translation": "Razgovarala je s gospođom koja stoji pored nje.",
-      "translationEn": "She talked with a woman standing next to her."
+      "translationEn": "She talked with a woman standing next to her.",
+      "words": [
+        { "w": "تَحَدَّثَتْ", "root": "ح د ث", "bs": "razgovarala je", "en": "talked" },
+        { "w": "سَيِّدَةٍ", "root": "س ي د", "bs": "gospođom", "en": "woman" },
+        { "w": "تَقِفُ", "root": "و ق ف", "bs": "stoji", "en": "standing" }
+      ]
     },
     {
       "arabic": "أَخِيرًا وَصَلَتِ الحَافِلَةُ وَرَكِبَتَا مَعًا.",
       "translation": "Na kraju je autobus stigao i obje su ušle.",
-      "translationEn": "Finally the bus arrived and they both got on."
+      "translationEn": "Finally the bus arrived and they both got on.",
+      "words": [
+        { "w": "وَصَلَتِ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "الحَافِلَةُ", "root": "ح ف ل", "bs": "autobus", "en": "bus" },
+        { "w": "رَكِبَتَا", "root": "ر ك ب", "bs": "ušle su", "en": "got on" }
+      ]
     }
   ],
   "metadata": {

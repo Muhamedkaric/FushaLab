@@ -6,22 +6,44 @@
     {
       "arabic": "أَحَبَّ الْأَطْفَالُ الشَّاطِئَ وَلَعِبُوا فِيهِ كَثِيرًا.",
       "translation": "Djeca su voljela plažu i puno se igrala.",
-      "translationEn": "The children loved the beach and played in it a lot."
+      "translationEn": "The children loved the beach and played in it a lot.",
+      "words": [
+        { "w": "أَحَبَّ", "root": "ح ب ب", "bs": "voljeli su", "en": "loved" },
+        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
+        { "w": "الشَّاطِئَ", "root": "ش ط أ", "bs": "plaža", "en": "beach" },
+        { "w": "لَعِبُوا", "root": "ل ع ب", "bs": "igrali su se", "en": "played" }
+      ]
     },
     {
       "arabic": "بَنَى أَحَدُهُمْ قَلْعَةً مِنَ الرَّمْلِ بِجَانِبِ الْبَحْرِ.",
       "translation": "Jedan od njih je izgradio tvrđavu od pijeska pored mora.",
-      "translationEn": "One of them built a sand castle by the sea."
+      "translationEn": "One of them built a sand castle by the sea.",
+      "words": [
+        { "w": "بَنَى", "root": "ب ن ي", "bs": "izgradio je", "en": "built" },
+        { "w": "قَلْعَةً", "root": "ق ل ع", "bs": "tvrđava / dvorac", "en": "castle / fortress" },
+        { "w": "الرَّمْلِ", "root": "ر م ل", "bs": "pijesak", "en": "sand" },
+        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" }
+      ]
     },
     {
       "arabic": "جَاءَ الْمَوْجُ وَأَسْقَطَهَا فَضَحِكَ الْأَطْفَالُ.",
       "translation": "Dođe val i obori je pa se djeca nasmijala.",
-      "translationEn": "The wave came and knocked it down and the children laughed."
+      "translationEn": "The wave came and knocked it down and the children laughed.",
+      "words": [
+        { "w": "الْمَوْجُ", "root": "م و ج", "bs": "val", "en": "wave" },
+        { "w": "أَسْقَطَهَا", "root": "س ق ط", "bs": "oborio je / srušio je", "en": "knocked it down" },
+        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijali su se", "en": "laughed" }
+      ]
     },
     {
       "arabic": "بَنَوْهَا مَرَّةً أُخْرَى وَحَرَسُوهَا مِنَ الْأَمْوَاجِ.",
       "translation": "Sagradili su je ponovo i čuvali je od valova.",
-      "translationEn": "They built it again and guarded it from the waves."
+      "translationEn": "They built it again and guarded it from the waves.",
+      "words": [
+        { "w": "بَنَوْهَا", "root": "ب ن ي", "bs": "sagradili su je", "en": "built it" },
+        { "w": "حَرَسُوهَا", "root": "ح ر س", "bs": "čuvali su je", "en": "guarded it" },
+        { "w": "الْأَمْوَاجِ", "root": "م و ج", "bs": "valovi", "en": "waves" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,43 @@
     {
       "arabic": "سَافَرَ مُحَمَّدٌ بِالطَّائِرَةِ لِأَوَّلِ مَرَّةٍ.",
       "translation": "Muhammed je letio avionom po prvi put.",
-      "translationEn": "Muhammad traveled by plane for the first time."
+      "translationEn": "Muhammad traveled by plane for the first time.",
+      "words": [
+        { "w": "سَافَرَ", "root": "س ف ر", "bs": "putovao je", "en": "traveled" },
+        { "w": "الطَّائِرَةِ", "root": "ط ي ر", "bs": "avion", "en": "airplane" },
+        { "w": "مَرَّةٍ", "root": "م ر ر", "bs": "put / puta", "en": "time / occasion" }
+      ]
     },
     {
       "arabic": "كَانَ خَائِفًا فِي الْبِدَايَةِ لَكِنَّهُ هَدَأَ بَعْدَ ذَلِكَ.",
       "translation": "Bio je uplašen u početku ali se smirio poslije.",
-      "translationEn": "He was scared at first but calmed down afterward."
+      "translationEn": "He was scared at first but calmed down afterward.",
+      "words": [
+        { "w": "خَائِفًا", "root": "خ و ف", "bs": "uplašen", "en": "scared / afraid" },
+        { "w": "الْبِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "beginning" },
+        { "w": "هَدَأَ", "root": "ه د أ", "bs": "smirio se", "en": "calmed down" }
+      ]
     },
     {
       "arabic": "نَظَرَ مِنَ النَّافِذَةِ وَرَأَى الْغُيُومَ تَحْتَهُ.",
       "translation": "Gledao je kroz prozor i vidio oblake ispod sebe.",
-      "translationEn": "He looked out the window and saw clouds below him."
+      "translationEn": "He looked out the window and saw clouds below him.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "gledao je", "en": "looked" },
+        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "الْغُيُومَ", "root": "غ ي م", "bs": "oblaci", "en": "clouds" }
+      ]
     },
     {
       "arabic": "وَصَلَتِ الطَّائِرَةُ بِسَلَامَةٍ وَشَكَرَ اللَّهَ.",
       "translation": "Avion je sletio sigurno i zahvalio je Allahu.",
-      "translationEn": "The plane landed safely and he thanked God."
+      "translationEn": "The plane landed safely and he thanked God.",
+      "words": [
+        { "w": "وَصَلَتِ", "root": "و ص ل", "bs": "stigla je / sletjela je", "en": "arrived / landed" },
+        { "w": "الطَّائِرَةُ", "root": "ط ي ر", "bs": "avion", "en": "airplane" },
+        { "w": "بِسَلَامَةٍ", "root": "س ل م", "bs": "sigurno / bez problema", "en": "safely" }
+      ]
     }
   ],
   "metadata": {

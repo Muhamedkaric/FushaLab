@@ -6,22 +6,47 @@
     {
       "arabic": "كَانَ يُوجَدُ بِئْرٌ قَدِيمٌ فِي الْقَرْيَةِ يَشْرَبُ مِنْهُ الْجَمِيعُ.",
       "translation": "U selu je postojao stari bunar iz kojeg su svi pili.",
-      "translationEn": "There was an old well in the village from which everyone drank."
+      "translationEn": "There was an old well in the village from which everyone drank.",
+      "words": [
+        { "w": "بِئْرٌ", "root": "ب أ ر", "bs": "bunar", "en": "well" },
+        { "w": "قَدِيمٌ", "root": "ق د م", "bs": "stari", "en": "old" },
+        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" },
+        { "w": "يَشْرَبُ", "root": "ش ر ب", "bs": "pili su", "en": "drank" }
+      ]
     },
     {
       "arabic": "ذَاتَ يَوْمٍ جَفَّ الْبِئْرُ وَقَلِقَ أَهْلُ الْقَرْيَةِ.",
       "translation": "Jednog dana se bunar isušio i mještani su se uznemirili.",
-      "translationEn": "One day the well dried up and the villagers were worried."
+      "translationEn": "One day the well dried up and the villagers were worried.",
+      "words": [
+        { "w": "جَفَّ", "root": "ج ف ف", "bs": "isušio se", "en": "dried up" },
+        { "w": "الْبِئْرُ", "root": "ب أ ر", "bs": "bunar", "en": "well" },
+        { "w": "قَلِقَ", "root": "ق ل ق", "bs": "uznemirili su se", "en": "were worried" },
+        { "w": "أَهْلُ", "root": "أ ه ل", "bs": "mještani", "en": "villagers" }
+      ]
     },
     {
       "arabic": "تَشَاوَرَ الرِّجَالُ وَقَرَّرُوا حَفْرَ بِئْرٍ جَدِيدَةٍ.",
       "translation": "Muškarci su se posavjetovali i odlučili su iskopati novi bunar.",
-      "translationEn": "The men consulted and decided to dig a new well."
+      "translationEn": "The men consulted and decided to dig a new well.",
+      "words": [
+        { "w": "تَشَاوَرَ", "root": "ش و ر", "bs": "posavjetovali su se", "en": "consulted" },
+        { "w": "الرِّجَالُ", "root": "ر ج ل", "bs": "muškarci", "en": "men" },
+        { "w": "قَرَّرُوا", "root": "ق ر ر", "bs": "odlučili su", "en": "decided" },
+        { "w": "حَفْرَ", "root": "ح ف ر", "bs": "iskopati", "en": "to dig" },
+        { "w": "بِئْرٍ", "root": "ب أ ر", "bs": "bunar", "en": "well" }
+      ]
     },
     {
       "arabic": "عَمِلَ الْجَمِيعُ مَعًا وَوَجَدُوا الْمَاءَ بَعْدَ يَوْمَيْنِ.",
       "translation": "Svi su radili zajedno i pronašli su vodu nakon dva dana.",
-      "translationEn": "Everyone worked together and found water after two days."
+      "translationEn": "Everyone worked together and found water after two days.",
+      "words": [
+        { "w": "عَمِلَ", "root": "ع م ل", "bs": "radili su", "en": "worked" },
+        { "w": "وَجَدُوا", "root": "و ج د", "bs": "pronašli su", "en": "found" },
+        { "w": "الْمَاءَ", "root": "م و ه", "bs": "vodu", "en": "water" },
+        { "w": "يَوْمَيْنِ", "root": "ي و م", "bs": "dva dana", "en": "two days" }
+      ]
     }
   ],
   "metadata": {

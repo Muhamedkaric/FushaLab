@@ -6,22 +6,46 @@
     {
       "arabic": "نَسِيَ أَيْمَنُ كِتَابَ الرِّيَاضِيَّاتِ فِي الْبَيْتِ.",
       "translation": "Ejmen je zaboravio knjigu matematike kod kuće.",
-      "translationEn": "Ayman forgot his math book at home."
+      "translationEn": "Ayman forgot his math book at home.",
+      "words": [
+        { "w": "نَسِيَ", "root": "ن س ي", "bs": "zaboravio je", "en": "forgot" },
+        { "w": "كِتَابَ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
+        { "w": "الرِّيَاضِيَّاتِ", "root": "ر ي ض", "bs": "matematika", "en": "mathematics" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "home" }
+      ]
     },
     {
       "arabic": "طَلَبَ مِنْ زَمِيلِهِ فِي الصَّفِّ أَنْ يُشَارِكَهُ الْكِتَابَ.",
       "translation": "Zamolio je drugaricu iz razreda da podijeli s njim knjigu.",
-      "translationEn": "He asked his classmate to share the book with him."
+      "translationEn": "He asked his classmate to share the book with him.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je/tražio", "en": "asked/requested" },
+        { "w": "زَمِيلِهِ", "root": "ز م ل", "bs": "njegov drugar/kolega", "en": "his classmate" },
+        { "w": "الصَّفِّ", "root": "ص ف ف", "bs": "razred", "en": "class" },
+        { "w": "يُشَارِكَهُ", "root": "ش ر ك", "bs": "da podijeli s njim", "en": "to share with him" },
+        { "w": "الْكِتَابَ", "root": "ك ت ب", "bs": "knjiga", "en": "book" }
+      ]
     },
     {
       "arabic": "وَافَقَ الزَّمِيلُ بِكُلِّ سُرُورٍ وَجَلَسَا مَعًا.",
       "translation": "Drugić se rado složio i sjeli su zajedno.",
-      "translationEn": "The classmate agreed with pleasure and they sat together."
+      "translationEn": "The classmate agreed with pleasure and they sat together.",
+      "words": [
+        { "w": "وَافَقَ", "root": "و ف ق", "bs": "složio se/pristao", "en": "agreed" },
+        { "w": "الزَّمِيلُ", "root": "ز م ل", "bs": "drugar/kolega", "en": "classmate" },
+        { "w": "سُرُورٍ", "root": "س ر ر", "bs": "radost/zadovoljstvo", "en": "pleasure/joy" },
+        { "w": "جَلَسَا", "root": "ج ل س", "bs": "sjeli su", "en": "sat" }
+      ]
     },
     {
       "arabic": "بَعْدَ ذَلِكَ أَصْبَحَا أَصْدِقَاءَ مَقْرُوبِينَ.",
       "translation": "Nakon toga postali su bliski prijatelji.",
-      "translationEn": "After that they became close friends."
+      "translationEn": "After that they became close friends.",
+      "words": [
+        { "w": "أَصْبَحَا", "root": "ص ب ح", "bs": "postali su", "en": "became" },
+        { "w": "أَصْدِقَاءَ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
+        { "w": "مَقْرُوبِينَ", "root": "ق ر ب", "bs": "bliski", "en": "close" }
+      ]
     }
   ],
   "metadata": {

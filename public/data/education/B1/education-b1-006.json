@@ -6,31 +6,147 @@
     {
       "arabic": "كَانَ يَوْمُ الاِمْتِحَانِ فِي يَوْمِ الثُّلَاثَاءِ.",
       "translation": "Dan ispita bio je u utorak.",
-      "translationEn": "The exam day was on Tuesday."
+      "translationEn": "The exam day was on Tuesday.",
+      "words": [
+        {
+          "w": "يَوْمُ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "الاِمْتِحَانِ",
+          "root": "م ح ن",
+          "bs": "ispit",
+          "en": "exam"
+        }
+      ]
     },
     {
       "arabic": "ذَاكَرَتْ فَاطِمَةُ دُرُوسَهَا كَثِيرًا فِي اللَّيْلَةِ السَّابِقَةِ.",
       "translation": "Fatima je prethodne noći puno učila.",
-      "translationEn": "Fatima studied her lessons a lot the previous night."
+      "translationEn": "Fatima studied her lessons a lot the previous night.",
+      "words": [
+        {
+          "w": "ذَاكَرَتْ",
+          "root": "ذ ك ر",
+          "bs": "učila/ponavljala",
+          "en": "studied/reviewed"
+        },
+        {
+          "w": "دُرُوسَهَا",
+          "root": "د ر س",
+          "bs": "njene lekcije",
+          "en": "her lessons"
+        },
+        {
+          "w": "اللَّيْلَةِ",
+          "root": "ل ي ل",
+          "bs": "noć",
+          "en": "night"
+        },
+        {
+          "w": "السَّابِقَةِ",
+          "root": "س ب ق",
+          "bs": "prethodna",
+          "en": "previous"
+        }
+      ]
     },
     {
       "arabic": "جَاءَتْ إِلَى المَدْرَسَةِ مُبَكِّرًا وَجَلَسَتْ فِي مَقْعَدِهَا.",
       "translation": "Došla je u školu rano i sjela na svoje mjesto.",
-      "translationEn": "She came to school early and sat in her seat."
+      "translationEn": "She came to school early and sat in her seat.",
+      "words": [
+        {
+          "w": "جَاءَتْ",
+          "root": "ج ي أ",
+          "bs": "došla",
+          "en": "came"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        },
+        {
+          "w": "مُبَكِّرًا",
+          "root": "ب ك ر",
+          "bs": "rano",
+          "en": "early"
+        },
+        {
+          "w": "مَقْعَدِهَا",
+          "root": "ق ع د",
+          "bs": "njeno mjesto",
+          "en": "her seat"
+        }
+      ]
     },
     {
       "arabic": "أَجَابَتْ عَلَى جَمِيعِ الأَسْئِلَةِ بِهُدُوءٍ.",
       "translation": "Mirno je odgovorila na sva pitanja.",
-      "translationEn": "She answered all the questions calmly."
+      "translationEn": "She answered all the questions calmly.",
+      "words": [
+        {
+          "w": "أَجَابَتْ",
+          "root": "ج و ب",
+          "bs": "odgovorila",
+          "en": "answered"
+        },
+        {
+          "w": "الأَسْئِلَةِ",
+          "root": "س أ ل",
+          "bs": "pitanja",
+          "en": "questions"
+        },
+        {
+          "w": "بِهُدُوءٍ",
+          "root": "ه د أ",
+          "bs": "mirno",
+          "en": "calmly"
+        }
+      ]
     },
     {
       "arabic": "حَصَلَتْ فَاطِمَةُ عَلَى دَرَجَةٍ عَالِيَةٍ فِي الاِمْتِحَانِ.",
       "translation": "Fatima je dobila visoku ocjenu na ispitu.",
-      "translationEn": "Fatima got a high grade on the exam."
+      "translationEn": "Fatima got a high grade on the exam.",
+      "words": [
+        {
+          "w": "حَصَلَتْ",
+          "root": "ح ص ل",
+          "bs": "dobila",
+          "en": "received/got"
+        },
+        {
+          "w": "دَرَجَةٍ",
+          "root": "د ر ج",
+          "bs": "ocjena",
+          "en": "grade"
+        },
+        {
+          "w": "عَالِيَةٍ",
+          "root": "ع ل و",
+          "bs": "visoka",
+          "en": "high"
+        },
+        {
+          "w": "الاِمْتِحَانِ",
+          "root": "م ح ن",
+          "bs": "ispit",
+          "en": "exam"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["exam", "student", "studying"]
+    "tags": [
+      "exam",
+      "student",
+      "studying"
+    ]
   }
 }

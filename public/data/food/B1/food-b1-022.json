@@ -6,22 +6,44 @@
     {
       "arabic": "شَرِبَ الْجَمِيعُ الشَّايَ بَعْدَ الْعَشَاءِ.",
       "translation": "Svi su pili čaj nakon večere.",
-      "translationEn": "Everyone drank tea after dinner."
+      "translationEn": "Everyone drank tea after dinner.",
+      "words": [
+        { "w": "شَرِبَ", "root": "ش ر ب", "bs": "pili su", "en": "drank" },
+        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
+        { "w": "الشَّايَ", "root": "ش ي أ", "bs": "čaj", "en": "tea" },
+        { "w": "الْعَشَاءِ", "root": "ع ش و", "bs": "večera", "en": "dinner" }
+      ]
     },
     {
       "arabic": "أَضَافَ بَعْضُهُمُ السُّكَّرَ وَبَعْضُهُمْ لَمْ يُضِفْ.",
       "translation": "Neki su dodali šećer a neki nisu.",
-      "translationEn": "Some of them added sugar and some did not."
+      "translationEn": "Some of them added sugar and some did not.",
+      "words": [
+        { "w": "أَضَافَ", "root": "ض ي ف", "bs": "dodao je/dodali su", "en": "added" },
+        { "w": "بَعْضُهُمُ", "root": "ب ع ض", "bs": "neki od njih", "en": "some of them" },
+        { "w": "السُّكَّرَ", "root": "س ك ر", "bs": "šećer", "en": "sugar" }
+      ]
     },
     {
       "arabic": "تَحَدَّثُوا وَضَحِكُوا حَوْلَ الطَّاوِلَةِ.",
       "translation": "Razgovarali su i smijali se oko stola.",
-      "translationEn": "They talked and laughed around the table."
+      "translationEn": "They talked and laughed around the table.",
+      "words": [
+        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
+        { "w": "ضَحِكُوا", "root": "ض ح ك", "bs": "smijali su se", "en": "laughed" },
+        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stol/sto", "en": "table" }
+      ]
     },
     {
       "arabic": "كَانَ وَقْتُ الشَّايِ هُوَ أَجْمَلُ وَقْتٍ فِي الْيَوْمِ.",
       "translation": "Čaj-vrijeme je bilo najljepše doba dana.",
-      "translationEn": "Tea time was the most beautiful time of the day."
+      "translationEn": "Tea time was the most beautiful time of the day.",
+      "words": [
+        { "w": "وَقْتُ", "root": "و ق ت", "bs": "vrijeme/čas", "en": "time" },
+        { "w": "الشَّايِ", "root": "ش ي أ", "bs": "čaja", "en": "tea" },
+        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepše/najljepši", "en": "most beautiful" },
+        { "w": "الْيَوْمِ", "root": "ي و م", "bs": "dan/dana", "en": "day" }
+      ]
     }
   ],
   "metadata": {

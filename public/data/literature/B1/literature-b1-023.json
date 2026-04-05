@@ -6,22 +6,45 @@
     {
       "arabic": "قَرَّرَتْ عَائِلَةُ حَسَّانٍ زِيَارَةَ أَقَارِبِهَا فِي الْمَدِينَةِ.",
       "translation": "Hassanova porodica je odlučila posjetiti rodbinu u gradu.",
-      "translationEn": "Hassan's family decided to visit their relatives in the city."
+      "translationEn": "Hassan's family decided to visit their relatives in the city.",
+      "words": [
+        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "زِيَارَةَ", "root": "ز و ر", "bs": "posjeta", "en": "visit" },
+        { "w": "أَقَارِبِهَا", "root": "ق ر ب", "bs": "njena rodbina", "en": "their relatives" },
+        { "w": "الْمَدِينَةِ", "root": "م د ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "رَكِبُوا السَّيَّارَةَ وَانْطَلَقُوا فِي الصَّبَاحِ الْبَاكِرِ.",
       "translation": "Ušli su u auto i krenuli rano ujutro.",
-      "translationEn": "They got in the car and set off early in the morning."
+      "translationEn": "They got in the car and set off early in the morning.",
+      "words": [
+        { "w": "رَكِبُوا", "root": "ر ك ب", "bs": "ušli su/sjeli u", "en": "got in" },
+        { "w": "السَّيَّارَةَ", "root": "س ي ر", "bs": "auto/kola", "en": "car" },
+        { "w": "انْطَلَقُوا", "root": "ط ل ق", "bs": "krenuli su", "en": "set off" },
+        { "w": "الصَّبَاحِ الْبَاكِرِ", "root": "ص ب ح", "bs": "rano jutro", "en": "early morning" }
+      ]
     },
     {
       "arabic": "وَصَلُوا بَعْدَ سَاعَةٍ وَاسْتَقْبَلَهُمُ الأَقَارِبُ بِفَرَحٍ.",
       "translation": "Stigli su nakon sat vremena i rodbina ih je dočekala radosno.",
-      "translationEn": "They arrived after an hour and their relatives welcomed them joyfully."
+      "translationEn": "They arrived after an hour and their relatives welcomed them joyfully.",
+      "words": [
+        { "w": "وَصَلُوا", "root": "و ص ل", "bs": "stigli su", "en": "arrived" },
+        { "w": "اسْتَقْبَلَهُمُ", "root": "ق ب ل", "bs": "dočekali su ih", "en": "welcomed them" },
+        { "w": "الأَقَارِبُ", "root": "ق ر ب", "bs": "rodbina", "en": "relatives" },
+        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "radosno", "en": "joyfully" }
+      ]
     },
     {
       "arabic": "أَكَلُوا وَتَحَدَّثُوا وَضَحِكُوا طُولَ النَّهَارِ.",
       "translation": "Jeli su, razgovarali i smijali se cijeli dan.",
-      "translationEn": "They ate, talked, and laughed all day long."
+      "translationEn": "They ate, talked, and laughed all day long.",
+      "words": [
+        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
+        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
+        { "w": "ضَحِكُوا", "root": "ض ح ك", "bs": "smijali su se", "en": "laughed" }
+      ]
     }
   ],
   "metadata": {

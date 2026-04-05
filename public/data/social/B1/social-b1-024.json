@@ -6,22 +6,42 @@
     {
       "arabic": "الْتَقَتْ سُعَادُ بِقَرِيبَتِهَا فِي حَفْلَةِ الزَّفَافِ.",
       "translation": "Suad je srela svoju rodbinicu na vjenčanju.",
-      "translationEn": "Souad met her relative at the wedding party."
+      "translationEn": "Souad met her relative at the wedding party.",
+      "words": [
+        { "w": "الْتَقَتْ", "root": "ل ق ي", "bs": "srela je", "en": "met" },
+        { "w": "بِقَرِيبَتِهَا", "root": "ق ر ب", "bs": "rodbinicu", "en": "relative" },
+        { "w": "حَفْلَةِ", "root": "ح ف ل", "bs": "svečanosti", "en": "party" },
+        { "w": "الزَّفَافِ", "root": "ز ف ف", "bs": "vjenčanju", "en": "wedding" }
+      ]
     },
     {
       "arabic": "لَمْ تَرَهَا مُنْذُ سَنَةٍ.",
       "translation": "Nije je vidjela godinu dana.",
-      "translationEn": "She hadn't seen her for a year."
+      "translationEn": "She hadn't seen her for a year.",
+      "words": [
+        { "w": "تَرَهَا", "root": "ر أ ي", "bs": "vidjela je", "en": "seen her" },
+        { "w": "سَنَةٍ", "root": "س ن ي", "bs": "godinu", "en": "year" }
+      ]
     },
     {
       "arabic": "تَحَدَّثَتَا عَنِ الأَوْلَادِ وَالعَمَلِ.",
       "translation": "Razgovarale su o djeci i poslu.",
-      "translationEn": "They talked about the children and work."
+      "translationEn": "They talked about the children and work.",
+      "words": [
+        { "w": "تَحَدَّثَتَا", "root": "ح د ث", "bs": "razgovarale su", "en": "talked" },
+        { "w": "الأَوْلَادِ", "root": "و ل د", "bs": "djeci", "en": "children" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "poslu", "en": "work" }
+      ]
     },
     {
       "arabic": "وَعَدَتَا بِالزِّيَارَةِ قَرِيبًا.",
       "translation": "Obećale su da će se uskoro posjetiti.",
-      "translationEn": "They promised to visit each other soon."
+      "translationEn": "They promised to visit each other soon.",
+      "words": [
+        { "w": "وَعَدَتَا", "root": "و ع د", "bs": "obećale su", "en": "promised" },
+        { "w": "بِالزِّيَارَةِ", "root": "ز و ر", "bs": "posjetiti", "en": "visit" },
+        { "w": "قَرِيبًا", "root": "ق ر ب", "bs": "uskoro", "en": "soon" }
+      ]
     }
   ],
   "metadata": {

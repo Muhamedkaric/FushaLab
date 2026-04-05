@@ -6,22 +6,45 @@
     {
       "arabic": "يَبِيعُ الوَلَدُ عَصِيرَ البُرْتُقَالِ أَمَامَ بَيْتِهِ.",
       "translation": "Dječak prodaje sok od naranče ispred kuće.",
-      "translationEn": "The boy sells orange juice in front of his house."
+      "translationEn": "The boy sells orange juice in front of his house.",
+      "words": [
+        { "w": "يَبِيعُ", "root": "ب ي ع", "bs": "prodaje", "en": "sells" },
+        { "w": "الوَلَدُ", "root": "و ل د", "bs": "dječak", "en": "boy" },
+        { "w": "عَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "البُرْتُقَالِ", "root": "ب ر ت ق", "bs": "naranče", "en": "orange" }
+      ]
     },
     {
       "arabic": "يَضَعُ العَصِيرَ فِي كَأْسٍ كَبِيرٍ بِسِعْرٍ رَخِيصٍ.",
       "translation": "Stavlja sok u veliku čašu po jeftinoj cijeni.",
-      "translationEn": "He puts the juice in a large glass at a cheap price."
+      "translationEn": "He puts the juice in a large glass at a cheap price.",
+      "words": [
+        { "w": "يَضَعُ", "root": "و ض ع", "bs": "stavlja", "en": "puts" },
+        { "w": "العَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "كَأْسٍ", "root": "ك أ س", "bs": "čaša", "en": "glass" },
+        { "w": "رَخِيصٍ", "root": "ر خ ص", "bs": "jeftina", "en": "cheap" }
+      ]
     },
     {
       "arabic": "يَشْتَرِي الجِيرَانُ مِنْهُ كُلَّ يَوْمٍ.",
       "translation": "Komšije kupuju od njega svaki dan.",
-      "translationEn": "The neighbors buy from him every day."
+      "translationEn": "The neighbors buy from him every day.",
+      "words": [
+        { "w": "يَشْتَرِي", "root": "ش ر ي", "bs": "kupuju", "en": "buy" },
+        { "w": "الجِيرَانُ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" }
+      ]
     },
     {
       "arabic": "يَجْمَعُ نُقُودَهُ وَيَدَّخِرُهَا بِعِنَايَةٍ.",
       "translation": "Skuplja novac i pažljivo ga štedi.",
-      "translationEn": "He collects his money and saves it carefully."
+      "translationEn": "He collects his money and saves it carefully.",
+      "words": [
+        { "w": "يَجْمَعُ", "root": "ج م ع", "bs": "skuplja", "en": "collects" },
+        { "w": "نُقُودَهُ", "root": "ن ق د", "bs": "njegov novac", "en": "his money" },
+        { "w": "يَدَّخِرُهَا", "root": "ذ خ ر", "bs": "štedi ga", "en": "saves it" },
+        { "w": "بِعِنَايَةٍ", "root": "ع ن ي", "bs": "pažljivo", "en": "carefully" }
+      ]
     }
   ],
   "metadata": {

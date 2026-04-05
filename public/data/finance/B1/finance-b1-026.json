@@ -6,22 +6,45 @@
     {
       "arabic": "أَخَذَ نِزَارٌ نُقُودَهُ وَذَهَبَ إِلَى السُّوقِ.",
       "translation": "Nizar je uzeo novac i otišao na pijacu.",
-      "translationEn": "Nizar took his money and went to the market."
+      "translationEn": "Nizar took his money and went to the market.",
+      "words": [
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "نُقُودَهُ", "root": "ن ق د", "bs": "njegov novac", "en": "his money" },
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca", "en": "market" }
+      ]
     },
     {
       "arabic": "أَرَادَ شِرَاءَ هَدِيَّةٍ لِأَخِيهِ الصَّغِيرِ.",
       "translation": "Htio je kupiti poklon za mlađeg brata.",
-      "translationEn": "He wanted to buy a gift for his younger brother."
+      "translationEn": "He wanted to buy a gift for his younger brother.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "شِرَاءَ", "root": "ش ر ي", "bs": "kupovinu", "en": "to buy" },
+        { "w": "هَدِيَّةٍ", "root": "ه د ي", "bs": "poklon", "en": "gift" },
+        { "w": "الصَّغِيرِ", "root": "ص غ ر", "bs": "mlađeg", "en": "younger" }
+      ]
     },
     {
       "arabic": "نَظَرَ فِي كَثِيرٍ مِنَ الأَشْيَاءِ قَبْلَ أَنْ يَخْتَارَ.",
       "translation": "Pogledao je mnoge stvari prije nego što je odabrao.",
-      "translationEn": "He looked at many things before choosing."
+      "translationEn": "He looked at many things before choosing.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" },
+        { "w": "الأَشْيَاءِ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "يَخْتَارَ", "root": "خ ي ر", "bs": "odabere", "en": "choosing" }
+      ]
     },
     {
       "arabic": "اشْتَرَى لُعْبَةً صَغِيرَةً بِسِعْرٍ مُنَاسِبٍ.",
       "translation": "Kupio je malu igračku po odgovarajućoj cijeni.",
-      "translationEn": "He bought a small toy at a suitable price."
+      "translationEn": "He bought a small toy at a suitable price.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "لُعْبَةً", "root": "ل ع ب", "bs": "igračka", "en": "toy" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "سِعْرٍ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+      ]
     }
   ],
   "metadata": {

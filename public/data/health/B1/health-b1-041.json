@@ -6,26 +6,153 @@
     {
       "arabic": "أَحَسَّ فِرَاسٌ بِإِرْهَاقٍ شَدِيدٍ بَعْدَ أُسْبُوعٍ طَوِيلٍ مِنَ الْعَمَلِ.",
       "translation": "Firas je osjetio veliki umor nakon dugačke radne sedmice.",
-      "translationEn": "Firas felt extreme exhaustion after a long week of work."
+      "translationEn": "Firas felt extreme exhaustion after a long week of work.",
+      "words": [
+        {
+          "w": "أَحَسَّ",
+          "root": "ح س س",
+          "bs": "osjetio je",
+          "en": "felt"
+        },
+        {
+          "w": "بِإِرْهَاقٍ",
+          "root": "ر ه ق",
+          "bs": "umor",
+          "en": "exhaustion"
+        },
+        {
+          "w": "شَدِيدٍ",
+          "root": "ش د د",
+          "bs": "veliki",
+          "en": "extreme"
+        },
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "س ب ع",
+          "bs": "sedmica",
+          "en": "week"
+        },
+        {
+          "w": "طَوِيلٍ",
+          "root": "ط و ل",
+          "bs": "dugačka",
+          "en": "long"
+        }
+      ]
     },
     {
       "arabic": "قَرَّرَ أَنْ يَأْخُذَ يَوْمَ رَاحَةٍ فِي الْبَيْتِ.",
       "translation": "Odlučio je uzeti dan odmora kod kuće.",
-      "translationEn": "He decided to take a rest day at home."
+      "translationEn": "He decided to take a rest day at home.",
+      "words": [
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided"
+        },
+        {
+          "w": "يَأْخُذَ",
+          "root": "أ خ ذ",
+          "bs": "uzme",
+          "en": "to take"
+        },
+        {
+          "w": "يَوْمَ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day"
+        },
+        {
+          "w": "رَاحَةٍ",
+          "root": "ر و ح",
+          "bs": "odmor",
+          "en": "rest"
+        }
+      ]
     },
     {
       "arabic": "نَامَ طَوِيلًا وَأَكَلَ وَجَبَةً صِحِّيَّةً.",
       "translation": "Dugo je spavao i pojeo zdrav obrok.",
-      "translationEn": "He slept for a long time and ate a healthy meal."
+      "translationEn": "He slept for a long time and ate a healthy meal.",
+      "words": [
+        {
+          "w": "نَامَ",
+          "root": "ن و م",
+          "bs": "spavao je",
+          "en": "slept"
+        },
+        {
+          "w": "طَوِيلًا",
+          "root": "ط و ل",
+          "bs": "dugo",
+          "en": "long"
+        },
+        {
+          "w": "أَكَلَ",
+          "root": "أ ك ل",
+          "bs": "pojeo je",
+          "en": "ate"
+        },
+        {
+          "w": "وَجْبَةً",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "meal"
+        },
+        {
+          "w": "صِحِّيَّةً",
+          "root": "ص ح ح",
+          "bs": "zdrav",
+          "en": "healthy"
+        }
+      ]
     },
     {
       "arabic": "فِي الْمَسَاءِ تَمَشَّى فِي الْهَوَاءِ الطَّلْقِ وَشَعَرَ بِتَحَسُّنٍ كَبِيرٍ.",
       "translation": "Uveče se prošetao na svježem zraku i osjetio se mnogo bolje.",
-      "translationEn": "In the evening he walked in the fresh air and felt much better."
+      "translationEn": "In the evening he walked in the fresh air and felt much better.",
+      "words": [
+        {
+          "w": "تَمَشَّى",
+          "root": "م ش ي",
+          "bs": "prošetao se",
+          "en": "walked"
+        },
+        {
+          "w": "الْهَوَاءِ",
+          "root": "ه و ي",
+          "bs": "zrak",
+          "en": "air"
+        },
+        {
+          "w": "الطَّلْقِ",
+          "root": "ط ل ق",
+          "bs": "svjež",
+          "en": "fresh"
+        },
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio se",
+          "en": "felt"
+        },
+        {
+          "w": "بِتَحَسُّنٍ",
+          "root": "ح س ن",
+          "bs": "bolje",
+          "en": "better"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["exhaustion", "rest", "recovery", "fresh air"]
+    "tags": [
+      "exhaustion",
+      "rest",
+      "recovery",
+      "fresh air"
+    ]
   }
 }

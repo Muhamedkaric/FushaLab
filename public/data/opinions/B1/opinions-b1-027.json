@@ -6,22 +6,46 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ الْأَشْجَارَ وَالنَّبَاتَاتِ تَجْعَلُ الْمَدِينَةَ أَجْمَلَ.",
       "translation": "Smatram da drveće i biljke grad čine ljepšim.",
-      "translationEn": "I believe that trees and plants make the city more beautiful."
+      "translationEn": "I believe that trees and plants make the city more beautiful.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "الْأَشْجَارَ", "root": "ش ج ر", "bs": "drveće", "en": "trees" },
+        { "w": "النَّبَاتَاتِ", "root": "ن ب ت", "bs": "biljke", "en": "plants" },
+        { "w": "الْمَدِينَةَ", "root": "م د ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "الشَّجَرَةُ تُعْطِي الظِّلَّ وَتُنَقِّي الْهَوَاءَ.",
       "translation": "Drvo daje hlad i pročišćuje zrak.",
-      "translationEn": "A tree gives shade and purifies the air."
+      "translationEn": "A tree gives shade and purifies the air.",
+      "words": [
+        { "w": "الشَّجَرَةُ", "root": "ش ج ر", "bs": "drvo", "en": "tree" },
+        { "w": "تُعْطِي", "root": "ع ط و", "bs": "daje", "en": "gives" },
+        { "w": "الظِّلَّ", "root": "ظ ل ل", "bs": "hlad", "en": "shade" },
+        { "w": "تُنَقِّي", "root": "ن ق و", "bs": "pročišćuje", "en": "purifies" }
+      ]
     },
     {
       "arabic": "أُحِبُّ أَنْ أَرَى الزُّهُورَ فِي الشَّوَارِعِ.",
       "translation": "Volim vidjeti cvijeće na ulicama.",
-      "translationEn": "I like to see flowers in the streets."
+      "translationEn": "I like to see flowers in the streets.",
+      "words": [
+        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
+        { "w": "أَرَى", "root": "ر أ ي", "bs": "da vidim", "en": "to see" },
+        { "w": "الزُّهُورَ", "root": "ز ه ر", "bs": "cvijeće", "en": "flowers" },
+        { "w": "الشَّوَارِعِ", "root": "ش ر ع", "bs": "ulice", "en": "streets" }
+      ]
     },
     {
       "arabic": "يَجِبُ عَلَيْنَا أَنْ نَزْرَعَ أَكْثَرَ وَنَقْطَعَ أَقَلَّ.",
       "translation": "Treba da sadimo više i sječemo manje.",
-      "translationEn": "We should plant more and cut less."
+      "translationEn": "We should plant more and cut less.",
+      "words": [
+        { "w": "نَزْرَعَ", "root": "ز ر ع", "bs": "da sadimo", "en": "to plant" },
+        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više", "en": "more" },
+        { "w": "نَقْطَعَ", "root": "ق ط ع", "bs": "da sječemo", "en": "to cut" },
+        { "w": "أَقَلَّ", "root": "ق ل ل", "bs": "manje", "en": "less" }
+      ]
     }
   ],
   "metadata": {

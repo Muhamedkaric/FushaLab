@@ -6,22 +6,47 @@
     {
       "arabic": "أَحَبَّ الطِّفْلُ الْعَصِيرَ الطَّبِيعِيَّ أَكْثَرَ مِنَ الْمَعْبَأِ.",
       "translation": "Dijete je više voljelo prirodni sok nego pakovan.",
-      "translationEn": "The child liked fresh juice more than packaged juice."
+      "translationEn": "The child liked fresh juice more than packaged juice.",
+      "words": [
+        { "w": "أَحَبَّ", "root": "ح ب ب", "bs": "više je volio/volio", "en": "liked/preferred" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "الطَّبِيعِيَّ", "root": "ط ب ع", "bs": "prirodni/svježi", "en": "natural/fresh" },
+        { "w": "الْمَعْبَأِ", "root": "ع ب أ", "bs": "pakovani/tetrapaket", "en": "packaged" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْأُمُّ تَعْصِرُ الْبُرْتُقَالَ كُلَّ صَبَاحٍ.",
       "translation": "Majka je cijedila narandže svako jutro.",
-      "translationEn": "The mother used to squeeze oranges every morning."
+      "translationEn": "The mother used to squeeze oranges every morning.",
+      "words": [
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "تَعْصِرُ", "root": "ع ص ر", "bs": "cijedi/iscjeđuje", "en": "squeezes" },
+        { "w": "الْبُرْتُقَالَ", "root": "ب ر ت ق", "bs": "narandže", "en": "oranges" },
+        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "كَانَ الْعَصِيرُ طَازِجًا وَحُلْوًا وَصِحِّيًّا.",
       "translation": "Sok je bio svjež, sladak i zdrav.",
-      "translationEn": "The juice was fresh, sweet, and healthy."
+      "translationEn": "The juice was fresh, sweet, and healthy.",
+      "words": [
+        { "w": "الْعَصِيرُ", "root": "ع ص ر", "bs": "sok", "en": "juice" },
+        { "w": "طَازِجًا", "root": "ط ز ج", "bs": "svježi/svjež", "en": "fresh" },
+        { "w": "حُلْوًا", "root": "ح ل و", "bs": "slatki/sladak", "en": "sweet" },
+        { "w": "صِحِّيًّا", "root": "ص ح ح", "bs": "zdravi/zdrav", "en": "healthy" }
+      ]
     },
     {
       "arabic": "كَانَ الطِّفْلُ يَنْتَظِرُهُ كُلَّ يَوْمٍ بِفَرَحٍ.",
       "translation": "Dijete ga je svaki dan radosno čekalo.",
-      "translationEn": "The child waited for it happily every day."
+      "translationEn": "The child waited for it happily every day.",
+      "words": [
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "يَنْتَظِرُهُ", "root": "ن ظ ر", "bs": "čeka ga", "en": "waits for it" },
+        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "radosno/s radošću", "en": "happily" }
+      ]
     }
   ],
   "metadata": {

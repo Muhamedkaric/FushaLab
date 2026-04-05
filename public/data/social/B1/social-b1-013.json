@@ -6,27 +6,51 @@
     {
       "arabic": "عَلِمَ الفَرِيقُ أَنَّ رَانِيَا تَرَقَّتْ فِي العَمَلِ.",
       "translation": "Tim je saznao da je Ranija napredovala na poslu.",
-      "translationEn": "The team learned that Rania got a promotion at work."
+      "translationEn": "The team learned that Rania got a promotion at work.",
+      "words": [
+        { "w": "عَلِمَ", "root": "ع ل م", "bs": "saznao je", "en": "learned" },
+        { "w": "الفَرِيقُ", "root": "ف ر ق", "bs": "tim", "en": "team" },
+        { "w": "تَرَقَّتْ", "root": "ر ق ي", "bs": "napredovala je", "en": "got promoted" },
+        { "w": "العَمَلِ", "root": "ع م ل", "bs": "poslu", "en": "work" }
+      ]
     },
     {
       "arabic": "ذَهَبُوا إِلَيْهَا وَهَنَّأُوهَا.",
       "translation": "Otišli su k njoj i čestitali joj.",
-      "translationEn": "They went to her and congratulated her."
+      "translationEn": "They went to her and congratulated her.",
+      "words": [
+        { "w": "ذَهَبُوا", "root": "ذ هـ ب", "bs": "otišli su", "en": "went" },
+        { "w": "هَنَّأُوهَا", "root": "هـ ن أ", "bs": "čestitali su joj", "en": "congratulated her" }
+      ]
     },
     {
       "arabic": "قَالُوا لَهَا «مَبْرُوكَ عَلَى التَّرَقِّي».",
       "translation": "Rekli su joj «Mabruk na napredovanju».",
-      "translationEn": "They said to her «Congratulations on the promotion»."
+      "translationEn": "They said to her «Congratulations on the promotion».",
+      "words": [
+        { "w": "قَالُوا", "root": "ق و ل", "bs": "rekli su", "en": "said" },
+        { "w": "التَّرَقِّي", "root": "ر ق ي", "bs": "napredovanju", "en": "promotion" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَتْ رَانِيَا وَشَكَرَتِ الجَمِيعَ.",
       "translation": "Ranija se nasmiješila i zahvalila svima.",
-      "translationEn": "Rania smiled and thanked everyone."
+      "translationEn": "Rania smiled and thanked everyone.",
+      "words": [
+        { "w": "ابْتَسَمَتْ", "root": "ب س م", "bs": "nasmiješila se", "en": "smiled" },
+        { "w": "شَكَرَتِ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
+        { "w": "الجَمِيعَ", "root": "ج م ع", "bs": "svima", "en": "everyone" }
+      ]
     },
     {
       "arabic": "قَرَّرُوا الاحْتِفَالَ مَعًا فِي المَطْعَمِ.",
       "translation": "Odlučili su slaviti zajedno u restoranu.",
-      "translationEn": "They decided to celebrate together at the restaurant."
+      "translationEn": "They decided to celebrate together at the restaurant.",
+      "words": [
+        { "w": "قَرَّرُوا", "root": "ق ر ر", "bs": "odlučili su", "en": "decided" },
+        { "w": "الاحْتِفَالَ", "root": "ح ف ل", "bs": "slaviti", "en": "celebrate" },
+        { "w": "المَطْعَمِ", "root": "ط ع م", "bs": "restoranu", "en": "restaurant" }
+      ]
     }
   ],
   "metadata": {

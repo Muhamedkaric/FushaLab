@@ -6,26 +6,146 @@
     {
       "arabic": "حَصَلَ بِلَالٌ عَلَى جَائِزَةِ أَفْضَلِ طَالِبٍ هَذَا الشَّهْرَ.",
       "translation": "Bilal je dobio nagradu za najboljeg učenika ovog mjeseca.",
-      "translationEn": "Bilal received the best student award this month."
+      "translationEn": "Bilal received the best student award this month.",
+      "words": [
+        {
+          "w": "حَصَلَ",
+          "root": "ح ص ل",
+          "bs": "dobio",
+          "en": "received"
+        },
+        {
+          "w": "جَائِزَةِ",
+          "root": "ج و ز",
+          "bs": "nagrada",
+          "en": "award"
+        },
+        {
+          "w": "أَفْضَلِ",
+          "root": "ف ض ل",
+          "bs": "najboljeg",
+          "en": "best"
+        },
+        {
+          "w": "طَالِبٍ",
+          "root": "ط ل ب",
+          "bs": "učenik",
+          "en": "student"
+        }
+      ]
     },
     {
       "arabic": "وَقَفَ أَمَامَ زُمَلَائِهِ وَأَخَذَ الشَّهَادَةَ مِنَ المُدِيرِ.",
       "translation": "Stao je pred drugovima i uzeo diplomu od direktora.",
-      "translationEn": "He stood in front of his classmates and received the certificate from the principal."
+      "translationEn": "He stood in front of his classmates and received the certificate from the principal.",
+      "words": [
+        {
+          "w": "وَقَفَ",
+          "root": "و ق ف",
+          "bs": "stao",
+          "en": "stood"
+        },
+        {
+          "w": "زُمَلَائِهِ",
+          "root": "ز م ل",
+          "bs": "drugovi",
+          "en": "classmates"
+        },
+        {
+          "w": "أَخَذَ",
+          "root": "أ خ ذ",
+          "bs": "uzeo",
+          "en": "received"
+        },
+        {
+          "w": "الشَّهَادَةَ",
+          "root": "ش ه د",
+          "bs": "diploma/potvrda",
+          "en": "certificate"
+        },
+        {
+          "w": "المُدِيرِ",
+          "root": "د و ر",
+          "bs": "direktor",
+          "en": "principal"
+        }
+      ]
     },
     {
       "arabic": "شَكَرَ مُعَلِّمِيهِ وَوَالِدَيْهِ بِكَلِمَاتٍ جَمِيلَةٍ.",
       "translation": "Zahvalio se nastavnicima i roditeljima lijepim riječima.",
-      "translationEn": "He thanked his teachers and parents with kind words."
+      "translationEn": "He thanked his teachers and parents with kind words.",
+      "words": [
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio se",
+          "en": "thanked"
+        },
+        {
+          "w": "مُعَلِّمِيهِ",
+          "root": "ع ل م",
+          "bs": "nastavnici",
+          "en": "teachers"
+        },
+        {
+          "w": "وَالِدَيْهِ",
+          "root": "و ل د",
+          "bs": "roditelji",
+          "en": "parents"
+        },
+        {
+          "w": "بِكَلِمَاتٍ",
+          "root": "ك ل م",
+          "bs": "riječima",
+          "en": "words"
+        },
+        {
+          "w": "جَمِيلَةٍ",
+          "root": "ج م ل",
+          "bs": "lijepim",
+          "en": "kind/beautiful"
+        }
+      ]
     },
     {
       "arabic": "كَانَ وَالِدَاهُ سَعِيدَيْنِ جِدًّا بِنَجَاحِ ابْنِهِمَا.",
       "translation": "Roditelji su bili jako sretni zbog uspjeha svog sina.",
-      "translationEn": "His parents were very happy about their son's success."
+      "translationEn": "His parents were very happy about their son's success.",
+      "words": [
+        {
+          "w": "وَالِدَاهُ",
+          "root": "و ل د",
+          "bs": "roditelji",
+          "en": "parents"
+        },
+        {
+          "w": "سَعِيدَيْنِ",
+          "root": "س ع د",
+          "bs": "sretni",
+          "en": "happy"
+        },
+        {
+          "w": "نَجَاحِ",
+          "root": "ن ج ح",
+          "bs": "uspjeh",
+          "en": "success"
+        },
+        {
+          "w": "ابْنِهِمَا",
+          "root": "ب ن و",
+          "bs": "njihov sin",
+          "en": "their son"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["award", "success", "school"]
+    "tags": [
+      "award",
+      "success",
+      "school"
+    ]
   }
 }

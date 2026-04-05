@@ -6,22 +6,46 @@
     {
       "arabic": "أَحَبَّ رَامِي الْمُشِيَ فِي الصَّبَاحِ كُلَّ يَوْمٍ.",
       "translation": "Rami je volio jutarnje šetanje svaki dan.",
-      "translationEn": "Rami loved walking in the morning every day."
+      "translationEn": "Rami loved walking in the morning every day.",
+      "words": [
+        { "w": "أَحَبَّ", "root": "ح ب ب", "bs": "volio je", "en": "loved" },
+        { "w": "الْمُشِيَ", "root": "م ش ي", "bs": "hodanje/šetanje", "en": "walking" },
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+      ]
     },
     {
       "arabic": "كَانَ يَمُرُّ بِالْحَدِيقَةِ وَيُسَلِّمُ عَلَى الْجِيرَانِ.",
       "translation": "Prolazio je pored parka i pozdravljao komšije.",
-      "translationEn": "He would pass through the park and greet the neighbors."
+      "translationEn": "He would pass through the park and greet the neighbors.",
+      "words": [
+        { "w": "يَمُرُّ", "root": "م ر ر", "bs": "prolazio je", "en": "passed" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "park/bašta", "en": "park/garden" },
+        { "w": "يُسَلِّمُ", "root": "س ل م", "bs": "pozdravljao je", "en": "greet" },
+        { "w": "الْجِيرَانِ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" }
+      ]
     },
     {
       "arabic": "أَحَسَّ بِنَشَاطٍ كَبِيرٍ بَعْدَ كُلِّ مَشْيَةٍ صَبَاحِيَّةٍ.",
       "translation": "Osjećao je veliku energiju nakon svake jutarnje šetnje.",
-      "translationEn": "He felt great energy after every morning walk."
+      "translationEn": "He felt great energy after every morning walk.",
+      "words": [
+        { "w": "أَحَسَّ", "root": "ح س س", "bs": "osjećao je", "en": "felt" },
+        { "w": "بِنَشَاطٍ", "root": "ن ش ط", "bs": "energija/aktivnost", "en": "energy/activity" },
+        { "w": "كَبِيرٍ", "root": "ك ب ر", "bs": "velika/snažna", "en": "great/big" },
+        { "w": "مَشْيَةٍ", "root": "م ش ي", "bs": "šetnja", "en": "walk" },
+        { "w": "صَبَاحِيَّةٍ", "root": "ص ب ح", "bs": "jutarnja", "en": "morning (adj.)" }
+      ]
     },
     {
       "arabic": "نَصَحَ صَدِيقَهُ بِالتَّجْرِبَةِ وَوَافَقَ الصَّدِيقُ.",
       "translation": "Savjetovao je prijatelja da proba i prijatelj se složio.",
-      "translationEn": "He advised his friend to try it and the friend agreed."
+      "translationEn": "He advised his friend to try it and the friend agreed.",
+      "words": [
+        { "w": "نَصَحَ", "root": "ن ص ح", "bs": "savjetovao je", "en": "advised" },
+        { "w": "صَدِيقَهُ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" },
+        { "w": "بِالتَّجْرِبَةِ", "root": "ج ر ب", "bs": "iskustvo/isprobati", "en": "to try it" },
+        { "w": "وَافَقَ", "root": "و ف ق", "bs": "složio se/pristao", "en": "agreed" }
+      ]
     }
   ],
   "metadata": {

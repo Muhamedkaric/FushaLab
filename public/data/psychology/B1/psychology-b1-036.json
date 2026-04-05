@@ -6,22 +6,47 @@
     {
       "arabic": "حِينَ نُشْكِرُ النَّاسَ نَشْعُرُ بِالْبَهْجَةِ.",
       "translation": "Kada zahvaljujemo ljudima osjećamo radost.",
-      "translationEn": "When we thank people we feel joy."
+      "translationEn": "When we thank people we feel joy.",
+      "words": [
+        { "w": "نُشْكِرُ", "root": "ش ك ر", "bs": "zahvaljujemo", "en": "thank" },
+        { "w": "النَّاسَ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "نَشْعُرُ", "root": "ش ع ر", "bs": "osjećamo", "en": "feel" },
+        { "w": "الْبَهْجَةِ", "root": "ب ه ج", "bs": "radost", "en": "joy" }
+      ]
     },
     {
       "arabic": "كَتَبَتْ رُوَيْدَا رِسَالَةَ شُكْرٍ لِمُعَلِّمَتِهَا.",
       "translation": "Rueida je napisala pismo zahvalnosti svojoj učiteljici.",
-      "translationEn": "Ruwaida wrote a thank-you letter to her teacher."
+      "translationEn": "Ruwaida wrote a thank-you letter to her teacher.",
+      "words": [
+        { "w": "كَتَبَتْ", "root": "ك ت ب", "bs": "napisala je", "en": "wrote" },
+        { "w": "رِسَالَةَ", "root": "ر س ل", "bs": "pismo", "en": "letter" },
+        { "w": "شُكْرٍ", "root": "ش ك ر", "bs": "zahvalnosti", "en": "gratitude" },
+        { "w": "مُعَلِّمَتِهَا", "root": "ع ل م", "bs": "njena učiteljica", "en": "her teacher" }
+      ]
     },
     {
       "arabic": "قَرَأَتِ الْمُعَلِّمَةُ الرِّسَالَةَ وَعَيْنَاهَا دَامِعَتَانِ.",
       "translation": "Učiteljica je čitala pismo s suzama u očima.",
-      "translationEn": "The teacher read the letter with tears in her eyes."
+      "translationEn": "The teacher read the letter with tears in her eyes.",
+      "words": [
+        { "w": "قَرَأَتِ", "root": "ق ر أ", "bs": "čitala je", "en": "read" },
+        { "w": "الْمُعَلِّمَةُ", "root": "ع ل م", "bs": "učiteljica", "en": "teacher" },
+        { "w": "الرِّسَالَةَ", "root": "ر س ل", "bs": "pismo", "en": "letter" },
+        { "w": "عَيْنَاهَا", "root": "ع ي ن", "bs": "njene oči", "en": "her eyes" },
+        { "w": "دَامِعَتَانِ", "root": "د م ع", "bs": "u suzama", "en": "tearful" }
+      ]
     },
     {
       "arabic": "كَلِمَةُ «شُكْرًا» الصَّغِيرَةُ تَصْنَعُ فَرْقًا كَبِيرًا.",
       "translation": "Mala riječ \"hvala\" pravi veliku razliku.",
-      "translationEn": "The small word \"thank you\" makes a big difference."
+      "translationEn": "The small word \"thank you\" makes a big difference.",
+      "words": [
+        { "w": "كَلِمَةُ", "root": "ك ل م", "bs": "riječ", "en": "word" },
+        { "w": "الصَّغِيرَةُ", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "تَصْنَعُ", "root": "ص ن ع", "bs": "pravi", "en": "makes" },
+        { "w": "فَرْقًا", "root": "ف ر ق", "bs": "razliku", "en": "difference" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,45 @@
     {
       "arabic": "تُحِبُّ الأُمُّ أَنْ تَطْبُخَ الطَّعَامَ فِي البَيْتِ.",
       "translation": "Majka voli kuhati hranu kod kuće.",
-      "translationEn": "The mother loves to cook food at home."
+      "translationEn": "The mother loves to cook food at home.",
+      "words": [
+        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "تَطْبُخَ", "root": "ط ب خ", "bs": "kuhati", "en": "cook" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" }
+      ]
     },
     {
       "arabic": "تُحَضِّرُ الأُرُزَّ وَاللَّحْمَ وَالخُضَرَ.",
       "translation": "Priprema pirinač, meso i povrće.",
-      "translationEn": "She prepares rice, meat, and vegetables."
+      "translationEn": "She prepares rice, meat, and vegetables.",
+      "words": [
+        { "w": "تُحَضِّرُ", "root": "ح ض ر", "bs": "priprema", "en": "prepares" },
+        { "w": "الأُرُزَّ", "root": "أ ر ز", "bs": "pirinač", "en": "rice" },
+        { "w": "اللَّحْمَ", "root": "ل ح م", "bs": "meso", "en": "meat" },
+        { "w": "الخُضَرَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" }
+      ]
     },
     {
       "arabic": "الأَكْلُ البَيْتِيُّ أَفْضَلُ مِنَ الأَكْلِ فِي المَطْعَمِ.",
       "translation": "Domaća hrana je bolja od hrane u restoranu.",
-      "translationEn": "Home cooking is better than restaurant food."
+      "translationEn": "Home cooking is better than restaurant food.",
+      "words": [
+        { "w": "الأَكْلُ", "root": "أ ك ل", "bs": "hrana", "en": "food" },
+        { "w": "البَيْتِيُّ", "root": "ب ي ت", "bs": "domaća", "en": "home" },
+        { "w": "أَفْضَلُ", "root": "ف ض ل", "bs": "bolja", "en": "better" },
+        { "w": "المَطْعَمِ", "root": "ط ع م", "bs": "restoranu", "en": "restaurant" }
+      ]
     },
     {
       "arabic": "تَجْلِسُ الأُسْرَةُ مَعًا وَتَأْكُلُ.",
       "translation": "Porodica sjedi zajedno i jede.",
-      "translationEn": "The family sits together and eats."
+      "translationEn": "The family sits together and eats.",
+      "words": [
+        { "w": "تَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" },
+        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
+        { "w": "تَأْكُلُ", "root": "أ ك ل", "bs": "jede", "en": "eats" }
+      ]
     }
   ],
   "metadata": {

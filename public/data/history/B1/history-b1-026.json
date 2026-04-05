@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ الْمُزَارِعُ يَسْقِي بُسْتَانَهُ مِنَ النَّهْرِ الْقَرِيبِ.",
       "translation": "Farmer je natapao svoju baštu iz obližnje rijeke.",
-      "translationEn": "The farmer used to water his orchard from the nearby river."
+      "translationEn": "The farmer used to water his orchard from the nearby river.",
+      "words": [
+        { "w": "الْمُزَارِعُ", "root": "ز ر ع", "bs": "farmer", "en": "the farmer" },
+        { "w": "يَسْقِي", "root": "س ق ي", "bs": "natapa", "en": "waters" },
+        { "w": "بُسْتَانَهُ", "root": "ب س ت ن", "bs": "njegova bašta", "en": "his orchard" },
+        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeke", "en": "the river" },
+        { "w": "الْقَرِيبِ", "root": "ق ر ب", "bs": "obližnja", "en": "nearby" }
+      ]
     },
     {
       "arabic": "حَفَرَ قَنَوَاتٍ صَغِيرَةً لِيَصِلَ الْمَاءُ إِلَى كُلِّ شَجَرَةٍ.",
       "translation": "Iskopao je male kanale da voda dođe do svakog drveta.",
-      "translationEn": "He dug small channels so that water could reach every tree."
+      "translationEn": "He dug small channels so that water could reach every tree.",
+      "words": [
+        { "w": "حَفَرَ", "root": "ح ف ر", "bs": "iskopao je", "en": "dug" },
+        { "w": "قَنَوَاتٍ", "root": "ق ن و", "bs": "kanali", "en": "channels" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "الْمَاءُ", "root": "م و ه", "bs": "voda", "en": "water" },
+        { "w": "شَجَرَةٍ", "root": "ش ج ر", "bs": "drvo", "en": "a tree" }
+      ]
     },
     {
       "arabic": "نَمَتِ الأَشْجَارُ وَأَعْطَتْ ثِمَارًا كَثِيرَةً.",
       "translation": "Drveće je raslo i davalo mnogo voća.",
-      "translationEn": "The trees grew and gave many fruits."
+      "translationEn": "The trees grew and gave many fruits.",
+      "words": [
+        { "w": "نَمَتِ", "root": "ن م و", "bs": "raslo je", "en": "grew" },
+        { "w": "الأَشْجَارُ", "root": "ش ج ر", "bs": "drveće", "en": "the trees" },
+        { "w": "أَعْطَتْ", "root": "ع ط و", "bs": "davalo je", "en": "gave" },
+        { "w": "ثِمَارًا", "root": "ث م ر", "bs": "voće", "en": "fruits" }
+      ]
     },
     {
       "arabic": "أَخَذَ الْمُزَارِعُ الثِّمَارَ إِلَى السُّوقِ وَبَاعَهَا.",
       "translation": "Farmer je odnio voće na tržnicu i prodao ga.",
-      "translationEn": "The farmer took the fruits to the market and sold them."
+      "translationEn": "The farmer took the fruits to the market and sold them.",
+      "words": [
+        { "w": "الْمُزَارِعُ", "root": "ز ر ع", "bs": "farmer", "en": "the farmer" },
+        { "w": "الثِّمَارَ", "root": "ث م ر", "bs": "voće", "en": "the fruits" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "tržnica", "en": "the market" },
+        { "w": "بَاعَهَا", "root": "ب ي ع", "bs": "prodao ga je", "en": "sold them" }
+      ]
     }
   ],
   "metadata": {

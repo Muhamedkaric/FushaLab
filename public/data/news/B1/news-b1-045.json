@@ -6,26 +6,140 @@
     {
       "arabic": "أَنْهَى فَرِيقُ الْمَدْرَسَةِ مَوْسِمَهُ بِفَوْزِ كَبِيرٍ.",
       "translation": "Školski tim je završio sezonu velikom pobjedom.",
-      "translationEn": "The school team ended their season with a big win."
+      "translationEn": "The school team ended their season with a big win.",
+      "words": [
+        {
+          "w": "أَنْهَى",
+          "root": "ن ه ي",
+          "bs": "završio je",
+          "en": "ended"
+        },
+        {
+          "w": "فَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim",
+          "en": "team"
+        },
+        {
+          "w": "مَوْسِمَهُ",
+          "root": "م و س",
+          "bs": "sezonu",
+          "en": "season"
+        },
+        {
+          "w": "فَوْزِ",
+          "root": "ف و ز",
+          "bs": "pobjedom",
+          "en": "win"
+        },
+        {
+          "w": "كَبِيرٍ",
+          "root": "ك ب ر",
+          "bs": "velikom",
+          "en": "big"
+        }
+      ]
     },
     {
       "arabic": "فَازَ الْفَرِيقُ عَلَى خَصْمِهِ بِأَرْبَعَةِ أَهْدَافٍ مُقَابِلَ صِفْرٍ.",
       "translation": "Tim je pobijedio protivnika sa četiri gola na nulu.",
-      "translationEn": "The team defeated their opponent four goals to zero."
+      "translationEn": "The team defeated their opponent four goals to zero.",
+      "words": [
+        {
+          "w": "فَازَ",
+          "root": "ف و ز",
+          "bs": "pobijedio je",
+          "en": "defeated"
+        },
+        {
+          "w": "الْفَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim",
+          "en": "team"
+        },
+        {
+          "w": "خَصْمِهِ",
+          "root": "خ ص م",
+          "bs": "protivnika",
+          "en": "opponent"
+        },
+        {
+          "w": "أَهْدَافٍ",
+          "root": "ه د ف",
+          "bs": "golova",
+          "en": "goals"
+        }
+      ]
     },
     {
       "arabic": "احْتَفَلَ الطُّلَّابُ وَالْمُعَلِّمُونَ مَعًا بِهَذَا الإِنْجَازِ.",
       "translation": "Učenici i nastavnici su zajedno proslavili ovaj uspjeh.",
-      "translationEn": "The students and teachers celebrated this achievement together."
+      "translationEn": "The students and teachers celebrated this achievement together.",
+      "words": [
+        {
+          "w": "احْتَفَلَ",
+          "root": "ح ف ل",
+          "bs": "proslavio je",
+          "en": "celebrated"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "الْمُعَلِّمُونَ",
+          "root": "ع ل م",
+          "bs": "nastavnici",
+          "en": "teachers"
+        },
+        {
+          "w": "الإِنْجَازِ",
+          "root": "ن ج ز",
+          "bs": "uspjeh",
+          "en": "achievement"
+        }
+      ]
     },
     {
       "arabic": "وَعَدَ الْفَرِيقُ بِتَقْدِيمِ أَفْضَلِ أَدَاءٍ فِي الْمَوْسِمِ الْقَادِمِ.",
       "translation": "Tim je obećao da će pružiti bolji nastup u narednoj sezoni.",
-      "translationEn": "The team promised to deliver better performance next season."
+      "translationEn": "The team promised to deliver better performance next season.",
+      "words": [
+        {
+          "w": "وَعَدَ",
+          "root": "و ع د",
+          "bs": "obećao je",
+          "en": "promised"
+        },
+        {
+          "w": "الْفَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim",
+          "en": "team"
+        },
+        {
+          "w": "أَدَاءٍ",
+          "root": "أ د و",
+          "bs": "nastup",
+          "en": "performance"
+        },
+        {
+          "w": "الْمَوْسِمِ",
+          "root": "م و س",
+          "bs": "sezoni",
+          "en": "season"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sports", "school", "football"]
+    "tags": [
+      "sports",
+      "school",
+      "football"
+    ]
   }
 }

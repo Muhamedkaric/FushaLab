@@ -6,22 +6,45 @@
     {
       "arabic": "يَبْدَأُ الطِّفْلُ بِتَعَلُّمِ الحُرُوفِ العَرَبِيَّةِ.",
       "translation": "Dijete počinje učiti arapska slova.",
-      "translationEn": "The child begins learning Arabic letters."
+      "translationEn": "The child begins learning Arabic letters.",
+      "words": [
+        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "begins" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "بِتَعَلُّمِ", "root": "ع ل م", "bs": "učiti", "en": "learning" },
+        { "w": "الحُرُوفِ", "root": "ح ر ف", "bs": "slova", "en": "letters" },
+        { "w": "العَرَبِيَّةِ", "root": "ع ر ب", "bs": "arapska", "en": "Arabic" }
+      ]
     },
     {
       "arabic": "اللُّغَةُ العَرَبِيَّةُ لَهَا ثَمَانِيَةٌ وَعِشْرُونَ حَرْفًا.",
       "translation": "Arapski jezik ima dvadeset i osam slova.",
-      "translationEn": "The Arabic language has twenty-eight letters."
+      "translationEn": "The Arabic language has twenty-eight letters.",
+      "words": [
+        { "w": "اللُّغَةُ", "root": "ل غ و", "bs": "jezik", "en": "language" },
+        { "w": "العَرَبِيَّةُ", "root": "ع ر ب", "bs": "arapski", "en": "Arabic" },
+        { "w": "حَرْفًا", "root": "ح ر ف", "bs": "slova", "en": "letters" }
+      ]
     },
     {
       "arabic": "يَكْتُبُ الطِّفْلُ الحُرُوفَ فِي الدَّفْتَرِ.",
       "translation": "Dijete piše slova u bilježnici.",
-      "translationEn": "The child writes the letters in the notebook."
+      "translationEn": "The child writes the letters in the notebook.",
+      "words": [
+        { "w": "يَكْتُبُ", "root": "ك ت ب", "bs": "piše", "en": "writes" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "الحُرُوفَ", "root": "ح ر ف", "bs": "slova", "en": "letters" },
+        { "w": "الدَّفْتَرِ", "root": "د ف ت", "bs": "bilježnici", "en": "notebook" }
+      ]
     },
     {
       "arabic": "المُعَلِّمَةُ تُشَجِّعُهُ وَتُكَافِئُهُ.",
       "translation": "Učiteljica ga ohrabruje i nagrađuje.",
-      "translationEn": "The teacher encourages and rewards him."
+      "translationEn": "The teacher encourages and rewards him.",
+      "words": [
+        { "w": "المُعَلِّمَةُ", "root": "ع ل م", "bs": "učiteljica", "en": "teacher" },
+        { "w": "تُشَجِّعُهُ", "root": "ش ج ع", "bs": "ohrabruje ga", "en": "encourages him" },
+        { "w": "تُكَافِئُهُ", "root": "ك ف أ", "bs": "nagrađuje ga", "en": "rewards him" }
+      ]
     }
   ],
   "metadata": {

@@ -6,27 +6,55 @@
     {
       "arabic": "أَرَادَتْ أُمُّ جَاسِرٍ شِرَاءَ أَثَاثٍ جَدِيدٍ لِلْبَيْتِ.",
       "translation": "Jasirova majka je htjela kupiti novi namještaj za kuću.",
-      "translationEn": "Jasir's mother wanted to buy new furniture for the house."
+      "translationEn": "Jasir's mother wanted to buy new furniture for the house.",
+      "words": [
+        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
+        { "w": "شِرَاءَ", "root": "ش ر ي", "bs": "kupovinu", "en": "to buy" },
+        { "w": "أَثَاثٍ", "root": "أ ث ث", "bs": "namještaj", "en": "furniture" },
+        { "w": "جَدِيدٍ", "root": "ج د د", "bs": "novi", "en": "new" }
+      ]
     },
     {
       "arabic": "قَارَنَتِ الأَسْعَارَ فِي أَكْثَرَ مِنْ مَحَلٍّ.",
       "translation": "Uspoređivala je cijene u više od jedne prodavnice.",
-      "translationEn": "She compared prices in more than one shop."
+      "translationEn": "She compared prices in more than one shop.",
+      "words": [
+        { "w": "قَارَنَتِ", "root": "ق ر ن", "bs": "uspoređivala je", "en": "compared" },
+        { "w": "الأَسْعَارَ", "root": "س ع ر", "bs": "cijene", "en": "prices" },
+        { "w": "مَحَلٍّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" }
+      ]
     },
     {
       "arabic": "وَجَدَتْ أَثَاثًا جَمِيلًا بِسِعْرٍ مُنَاسِبٍ.",
       "translation": "Pronašla je lijep namještaj po odgovarajućoj cijeni.",
-      "translationEn": "She found beautiful furniture at a reasonable price."
+      "translationEn": "She found beautiful furniture at a reasonable price.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
+        { "w": "أَثَاثًا", "root": "أ ث ث", "bs": "namještaj", "en": "furniture" },
+        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijep", "en": "beautiful" },
+        { "w": "سِعْرٍ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+      ]
     },
     {
       "arabic": "دَفَعَتِ المَبْلَغَ وَطَلَبَتِ التَّوْصِيلَ إِلَى البَيْتِ.",
       "translation": "Platila je iznos i zatražila dostavu kući.",
-      "translationEn": "She paid the amount and asked for delivery to the house."
+      "translationEn": "She paid the amount and asked for delivery to the house.",
+      "words": [
+        { "w": "دَفَعَتِ", "root": "د ف ع", "bs": "platila je", "en": "paid" },
+        { "w": "المَبْلَغَ", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
+        { "w": "طَلَبَتِ", "root": "ط ل ب", "bs": "zatražila je", "en": "asked for" },
+        { "w": "التَّوْصِيلَ", "root": "و ص ل", "bs": "dostava", "en": "delivery" }
+      ]
     },
     {
       "arabic": "كَانَتْ سَعِيدَةً بِاخْتِيَارِهَا الجَيِّدِ.",
       "translation": "Bila je sretna zbog svog dobrog izbora.",
-      "translationEn": "She was happy with her good choice."
+      "translationEn": "She was happy with her good choice.",
+      "words": [
+        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
+        { "w": "بِاخْتِيَارِهَا", "root": "خ ي ر", "bs": "njenim izborom", "en": "with her choice" },
+        { "w": "الجَيِّدِ", "root": "ج ي د", "bs": "dobrog", "en": "good" }
+      ]
     }
   ],
   "metadata": {

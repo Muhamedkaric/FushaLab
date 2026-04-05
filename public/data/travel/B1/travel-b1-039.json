@@ -6,22 +6,45 @@
     {
       "arabic": "قَرَّرَ صَالِحٌ أَنْ يُسَافِرَ بِالسَّيَّارَةِ إِلَى الشَّمَالِ.",
       "translation": "Salih je odlučio putovati autom na sjever.",
-      "translationEn": "Salih decided to travel by car to the north."
+      "translationEn": "Salih decided to travel by car to the north.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "يُسَافِرَ", "root": "س ف ر", "bs": "putovati", "en": "to travel" },
+        { "w": "السَّيَّارَةِ", "root": "س ي ر", "bs": "auto", "en": "car" },
+        { "w": "الشَّمَالِ", "root": "ش م ل", "bs": "sjever", "en": "north" }
+      ]
     },
     {
       "arabic": "مَلَأَ الْخَزَّانَ بِالْوَقُودِ قَبْلَ الْخُرُوجِ.",
       "translation": "Napunio je rezervoar gorivom prije polaska.",
-      "translationEn": "He filled the tank with fuel before leaving."
+      "translationEn": "He filled the tank with fuel before leaving.",
+      "words": [
+        { "w": "مَلَأَ", "root": "م ل أ", "bs": "napunio je", "en": "filled" },
+        { "w": "الْخَزَّانَ", "root": "خ ز ن", "bs": "rezervoar / tank", "en": "tank" },
+        { "w": "الْوَقُودِ", "root": "و ق د", "bs": "gorivo", "en": "fuel" },
+        { "w": "الْخُرُوجِ", "root": "خ ر ج", "bs": "odlazak / polazak", "en": "departure / leaving" }
+      ]
     },
     {
       "arabic": "سَافَرَ سَاعَاتٍ وَتَوَقَّفَ لِيَسْتَرِيحَ وَيَأْكُلَ.",
       "translation": "Putovao je satima i zaustavio se da se odmori i pojede.",
-      "translationEn": "He drove for hours and stopped to rest and eat."
+      "translationEn": "He drove for hours and stopped to rest and eat.",
+      "words": [
+        { "w": "سَافَرَ", "root": "س ف ر", "bs": "putovao je", "en": "traveled / drove" },
+        { "w": "سَاعَاتٍ", "root": "س و ع", "bs": "sati", "en": "hours" },
+        { "w": "تَوَقَّفَ", "root": "و ق ف", "bs": "zaustavio se", "en": "stopped" },
+        { "w": "يَسْتَرِيحَ", "root": "ر و ح", "bs": "da se odmori", "en": "to rest" }
+      ]
     },
     {
       "arabic": "وَصَلَ إِلَى الشَّمَالِ قَبْلَ الْغُرُوبِ.",
       "translation": "Stigao je na sjever prije zalaska sunca.",
-      "translationEn": "He arrived in the north before sunset."
+      "translationEn": "He arrived in the north before sunset.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "الشَّمَالِ", "root": "ش م ل", "bs": "sjever", "en": "north" },
+        { "w": "الْغُرُوبِ", "root": "غ ر ب", "bs": "zalazak sunca", "en": "sunset" }
+      ]
     }
   ],
   "metadata": {

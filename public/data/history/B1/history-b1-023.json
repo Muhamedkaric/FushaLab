@@ -6,22 +6,43 @@
     {
       "arabic": "كَانَتِ الْحَمَّامَاتُ الْعَامَّةُ مَكَانًا مُهِمًّا فِي الْمَدِينَةِ.",
       "translation": "Javna kupatila bila su važno mjesto u gradu.",
-      "translationEn": "The public baths were an important place in the city."
+      "translationEn": "The public baths were an important place in the city.",
+      "words": [
+        { "w": "الْحَمَّامَاتُ", "root": "ح م م", "bs": "kupatila", "en": "the baths" },
+        { "w": "الْعَامَّةُ", "root": "ع م م", "bs": "javna", "en": "public" },
+        { "w": "مَكَانًا", "root": "ك و ن", "bs": "mjesto", "en": "a place" },
+        { "w": "مُهِمًّا", "root": "ه م م", "bs": "važno", "en": "important" },
+        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "the city" }
+      ]
     },
     {
       "arabic": "كَانَ النَّاسُ يَذْهَبُونَ إِلَيْهَا لِلِاسْتِحْمَامِ وَالرَّاحَةِ.",
       "translation": "Ljudi su odlazili tamo da se okupe i odmore.",
-      "translationEn": "People used to go there to bathe and rest."
+      "translationEn": "People used to go there to bathe and rest.",
+      "words": [
+        { "w": "يَذْهَبُونَ", "root": "ذ ه ب", "bs": "odlaze", "en": "go" },
+        { "w": "الِاسْتِحْمَامِ", "root": "ح م م", "bs": "kupanje", "en": "bathing" },
+        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "odmor", "en": "rest" }
+      ]
     },
     {
       "arabic": "كَانُوا يَتَحَدَّثُونَ وَيَتَبَادَلُونَ الأَخْبَارَ.",
       "translation": "Razgovarali su i razmjenjivali vijesti.",
-      "translationEn": "They would chat and exchange news."
+      "translationEn": "They would chat and exchange news.",
+      "words": [
+        { "w": "يَتَحَدَّثُونَ", "root": "ح د ث", "bs": "razgovaraju", "en": "chat" },
+        { "w": "يَتَبَادَلُونَ", "root": "ب د ل", "bs": "razmjenjuju", "en": "exchange" },
+        { "w": "الأَخْبَارَ", "root": "خ ب ر", "bs": "vijesti", "en": "news" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْحَمَّامَاتُ مَفْتُوحَةً كُلَّ يَوْمٍ.",
       "translation": "Kupatila su bila otvorena svaki dan.",
-      "translationEn": "The baths were open every day."
+      "translationEn": "The baths were open every day.",
+      "words": [
+        { "w": "الْحَمَّامَاتُ", "root": "ح م م", "bs": "kupatila", "en": "the baths" },
+        { "w": "مَفْتُوحَةً", "root": "ف ت ح", "bs": "otvorena", "en": "open" }
+      ]
     }
   ],
   "metadata": {

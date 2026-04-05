@@ -6,27 +6,53 @@
     {
       "arabic": "لَاحَظَتْ شَهَدُ أَنَّ حَقِيبَتَهَا أَصْبَحَتْ ثَقِيلَةً جِدًّا.",
       "translation": "Shahad je primijetila da joj je torba postala veoma teška.",
-      "translationEn": "Shahad noticed that her bag had become very heavy."
+      "translationEn": "Shahad noticed that her bag had become very heavy.",
+      "words": [
+        { "w": "لَاحَظَتْ", "root": "ل ح ظ", "bs": "primijetila je", "en": "she noticed" },
+        { "w": "حَقِيبَتَهَا", "root": "ح ق ب", "bs": "torba", "en": "her bag" },
+        { "w": "أَصْبَحَتْ", "root": "ص ب ح", "bs": "postala je", "en": "had become" },
+        { "w": "ثَقِيلَةً", "root": "ث ق ل", "bs": "teška", "en": "heavy" }
+      ]
     },
     {
       "arabic": "فَتَحَتِ الْحَقِيبَةَ وَنَظَرَتْ دَاخِلَهَا.",
       "translation": "Otvorila je torbu i pogledala unutra.",
-      "translationEn": "She opened the bag and looked inside."
+      "translationEn": "She opened the bag and looked inside.",
+      "words": [
+        { "w": "فَتَحَتِ", "root": "ف ت ح", "bs": "otvorila je", "en": "she opened" },
+        { "w": "الْحَقِيبَةَ", "root": "ح ق ب", "bs": "torbu", "en": "the bag" },
+        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "pogledala je", "en": "she looked" }
+      ]
     },
     {
       "arabic": "وَجَدَتْ خَمْسَةَ كُتُبٍ لَيْسَتْ لَهَا.",
       "translation": "Pronašla je pet knjiga koje nisu njene.",
-      "translationEn": "She found five books that were not hers."
+      "translationEn": "She found five books that were not hers.",
+      "words": [
+        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
+        { "w": "كُتُبٍ", "root": "ك ت ب", "bs": "knjiga", "en": "books" }
+      ]
     },
     {
       "arabic": "ادَّعَى أَخُوهَا أَنَّهُ وَضَعَهَا بِالْخَطَأِ فِي حَقِيبَتِهَا.",
       "translation": "Njen brat je tvrdio da ih je greškom stavio u njenu torbu.",
-      "translationEn": "Her brother claimed he had put them in her bag by mistake."
+      "translationEn": "Her brother claimed he had put them in her bag by mistake.",
+      "words": [
+        { "w": "ادَّعَى", "root": "د ع و", "bs": "tvrdio je", "en": "he claimed" },
+        { "w": "أَخُوهَا", "root": "أ خ خ", "bs": "brat", "en": "her brother" },
+        { "w": "وَضَعَهَا", "root": "و ض ع", "bs": "stavio ih je", "en": "he put them" },
+        { "w": "بِالْخَطَأِ", "root": "خ ط أ", "bs": "greškom", "en": "by mistake" }
+      ]
     },
     {
       "arabic": "أَعَادَتْ شَهَدُ الْكُتُبَ إِلَيْهِ وَضَحِكَا مَعًا.",
       "translation": "Shahad mu je vratila knjige i nasmijali su se zajedno.",
-      "translationEn": "Shahad returned the books to him and they laughed together."
+      "translationEn": "Shahad returned the books to him and they laughed together.",
+      "words": [
+        { "w": "أَعَادَتْ", "root": "ع و د", "bs": "vratila je", "en": "she returned" },
+        { "w": "الْكُتُبَ", "root": "ك ت ب", "bs": "knjige", "en": "the books" },
+        { "w": "ضَحِكَا", "root": "ض ح ك", "bs": "nasmijali su se", "en": "they laughed" }
+      ]
     }
   ],
   "metadata": {

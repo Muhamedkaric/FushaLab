@@ -6,27 +6,55 @@
     {
       "arabic": "فَقَدَتْ آيَةُ مِقَصَّهَا الصَّغِيرَ.",
       "translation": "Aya je izgubila male makaze.",
-      "translationEn": "Aya lost her small scissors."
+      "translationEn": "Aya lost her small scissors.",
+      "words": [
+        { "w": "فَقَدَتْ", "root": "ف ق د", "bs": "izgubila je", "en": "she lost" },
+        { "w": "مِقَصَّهَا", "root": "ق ص ص", "bs": "makaze", "en": "her scissors" },
+        { "w": "الصَّغِيرَ", "root": "ص غ ر", "bs": "male", "en": "small" }
+      ]
     },
     {
       "arabic": "بَحَثَتْ عَنْهُمَا فِي حَقِيبَتِهَا وَفِي الدَّرَجِ.",
       "translation": "Tražila ih je u torbi i u fioci.",
-      "translationEn": "She looked for them in her bag and in the drawer."
+      "translationEn": "She looked for them in her bag and in the drawer.",
+      "words": [
+        { "w": "بَحَثَتْ", "root": "ب ح ث", "bs": "tražila je", "en": "she looked for" },
+        { "w": "حَقِيبَتِهَا", "root": "ح ق ب", "bs": "torbi", "en": "her bag" },
+        { "w": "الدَّرَجِ", "root": "د ر ج", "bs": "fioci", "en": "drawer" }
+      ]
     },
     {
       "arabic": "أَعَادَتِ الْبَحْثَ فِي كُلِّ مَكَانٍ.",
       "translation": "Ponovo je tražila svuda.",
-      "translationEn": "She searched everywhere again."
+      "translationEn": "She searched everywhere again.",
+      "words": [
+        { "w": "أَعَادَتِ", "root": "ع و د", "bs": "ponovo je", "en": "she again" },
+        { "w": "الْبَحْثَ", "root": "ب ح ث", "bs": "tražila", "en": "searched" },
+        { "w": "مَكَانٍ", "root": "ك و ن", "bs": "mjesto", "en": "place" }
+      ]
     },
     {
       "arabic": "وَجَدَتْهُمَا أَخِيرًا تَحْتَ سَجَّادَةِ غُرْفَتِهَا.",
       "translation": "Konačno ih je pronašla ispod tepiha u svojoj sobi.",
-      "translationEn": "She finally found them under the carpet in her room."
+      "translationEn": "She finally found them under the carpet in her room.",
+      "words": [
+        { "w": "وَجَدَتْهُمَا", "root": "و ج د", "bs": "pronašla ih je", "en": "she found them" },
+        { "w": "أَخِيرًا", "root": "أ خ ر", "bs": "konačno", "en": "finally" },
+        { "w": "سَجَّادَةِ", "root": "س ج د", "bs": "tepiha", "en": "carpet" },
+        { "w": "غُرْفَتِهَا", "root": "غ ر ف", "bs": "sobe", "en": "her room" }
+      ]
     },
     {
       "arabic": "قَرَّرَتْ أَنْ تَضَعَ كُلَّ شَيْءٍ فِي مَكَانِهِ دَائِمًا.",
       "translation": "Odlučila je uvijek stavljati sve na svoje mjesto.",
-      "translationEn": "She decided to always put everything in its place."
+      "translationEn": "She decided to always put everything in its place.",
+      "words": [
+        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "she decided" },
+        { "w": "تَضَعَ", "root": "و ض ع", "bs": "stavljati", "en": "to put" },
+        { "w": "شَيْءٍ", "root": "ش ي أ", "bs": "stvar", "en": "thing" },
+        { "w": "مَكَانِهِ", "root": "ك و ن", "bs": "mjesto", "en": "its place" },
+        { "w": "دَائِمًا", "root": "د و م", "bs": "uvijek", "en": "always" }
+      ]
     }
   ],
   "metadata": {

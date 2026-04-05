@@ -6,26 +6,128 @@
     {
       "arabic": "بَدَأَتِ الْمَدِينَةُ مَشْرُوعَ تَجْمِيلِ الشَّوَارِعِ الرَّئِيسِيَّةِ.",
       "translation": "Grad je pokrenuo projekat uljepšavanja glavnih ulica.",
-      "translationEn": "The city started a project to beautify the main streets."
+      "translationEn": "The city started a project to beautify the main streets.",
+      "words": [
+        {
+          "w": "مَشْرُوعَ",
+          "root": "ش ر ع",
+          "bs": "projekat",
+          "en": "project"
+        },
+        {
+          "w": "تَجْمِيلِ",
+          "root": "ج م ل",
+          "bs": "uljepšavanja",
+          "en": "beautify"
+        },
+        {
+          "w": "الشَّوَارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulica",
+          "en": "streets"
+        },
+        {
+          "w": "الرَّئِيسِيَّةِ",
+          "root": "ر أ س",
+          "bs": "glavnih",
+          "en": "main"
+        }
+      ]
     },
     {
       "arabic": "رُسِمَتْ لَوْحَاتٌ مُلَوَّنَةٌ عَلَى جُدْرَانِ الشَّوَارِعِ.",
       "translation": "Na zidovima ulica nacrtane su šarene slike.",
-      "translationEn": "Colorful murals were painted on the walls of the streets."
+      "translationEn": "Colorful murals were painted on the walls of the streets.",
+      "words": [
+        {
+          "w": "لَوْحَاتٌ",
+          "root": "ل و ح",
+          "bs": "slike",
+          "en": "murals"
+        },
+        {
+          "w": "مُلَوَّنَةٌ",
+          "root": "ل و ن",
+          "bs": "šarene",
+          "en": "colorful"
+        },
+        {
+          "w": "جُدْرَانِ",
+          "root": "ج د ر",
+          "bs": "zidovima",
+          "en": "walls"
+        }
+      ]
     },
     {
       "arabic": "رَكَّبَتِ الْبَلَدِيَّةُ إِضَاءَةً جَدِيدَةً فِي كُلِّ شَارِعٍ.",
       "translation": "Općina je postavila novo osvjetljenje u svakoj ulici.",
-      "translationEn": "The municipality installed new lighting in every street."
+      "translationEn": "The municipality installed new lighting in every street.",
+      "words": [
+        {
+          "w": "رَكَّبَتِ",
+          "root": "ر ك ب",
+          "bs": "postavila je",
+          "en": "installed"
+        },
+        {
+          "w": "الْبَلَدِيَّةُ",
+          "root": "ب ل د",
+          "bs": "općina",
+          "en": "municipality"
+        },
+        {
+          "w": "إِضَاءَةً",
+          "root": "ض و أ",
+          "bs": "osvjetljenje",
+          "en": "lighting"
+        },
+        {
+          "w": "جَدِيدَةً",
+          "root": "ج د د",
+          "bs": "novo",
+          "en": "new"
+        },
+        {
+          "w": "شَارِعٍ",
+          "root": "ش ر ع",
+          "bs": "ulici",
+          "en": "street"
+        }
+      ]
     },
     {
       "arabic": "أَصْبَحَتِ الشَّوَارِعُ أَجْمَلَ وَأَكْثَرَ أَمَانًا فِي اللَّيْلِ.",
       "translation": "Ulice su postale ljepše i sigurnije noću.",
-      "translationEn": "The streets became more beautiful and safer at night."
+      "translationEn": "The streets became more beautiful and safer at night.",
+      "words": [
+        {
+          "w": "الشَّوَارِعُ",
+          "root": "ش ر ع",
+          "bs": "ulice",
+          "en": "streets"
+        },
+        {
+          "w": "أَجْمَلَ",
+          "root": "ج م ل",
+          "bs": "ljepše",
+          "en": "more beautiful"
+        },
+        {
+          "w": "أَمَانًا",
+          "root": "أ م ن",
+          "bs": "sigurnije",
+          "en": "safer"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["city", "infrastructure", "arts"]
+    "tags": [
+      "city",
+      "infrastructure",
+      "arts"
+    ]
   }
 }

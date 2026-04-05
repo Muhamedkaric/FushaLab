@@ -6,22 +6,49 @@
     {
       "arabic": "طَلَبَتِ الْأُمُّ مِنِ ابْنِهَا أَنْ يُحْضِرَ الْخُبْزَ.",
       "translation": "Majka je zamolila sina da donese hljeb.",
-      "translationEn": "The mother asked her son to bring the bread."
+      "translationEn": "The mother asked her son to bring the bread.",
+      "words": [
+        { "w": "طَلَبَتِ", "root": "ط ل ب", "bs": "zamolila je/tražila", "en": "asked/requested" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "ابْنِهَا", "root": "ب ن و", "bs": "njen sin", "en": "her son" },
+        { "w": "يُحْضِرَ", "root": "ح ض ر", "bs": "da donese", "en": "to bring" },
+        { "w": "الْخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" }
+      ]
     },
     {
       "arabic": "ذَهَبَ الْوَلَدُ إِلَى الْمَخْبَزِ الْقَرِيبِ.",
       "translation": "Dječak je otišao do obližnje pekare.",
-      "translationEn": "The boy went to the nearby bakery."
+      "translationEn": "The boy went to the nearby bakery.",
+      "words": [
+        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
+        { "w": "الْوَلَدُ", "root": "و ل د", "bs": "dječak/sin", "en": "boy/son" },
+        { "w": "الْمَخْبَزِ", "root": "خ ب ز", "bs": "pekara", "en": "bakery" },
+        { "w": "الْقَرِيبِ", "root": "ق ر ب", "bs": "obližnje/blizu", "en": "nearby" }
+      ]
     },
     {
       "arabic": "اشْتَرَى رَغِيفًا طَازِجًا وَرَجَعَ بِسُرْعَةٍ.",
       "translation": "Kupio je svježu vijenac hljeba i brzo se vratio.",
-      "translationEn": "He bought a fresh loaf and returned quickly."
+      "translationEn": "He bought a fresh loaf and returned quickly.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "رَغِيفًا", "root": "ر غ ف", "bs": "vekna/vijenac hljeba", "en": "loaf" },
+        { "w": "طَازِجًا", "root": "ط ز ج", "bs": "svježi/svježu", "en": "fresh" },
+        { "w": "رَجَعَ", "root": "ر ج ع", "bs": "vratio se", "en": "returned" },
+        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+      ]
     },
     {
       "arabic": "شَكَرَتْهُ أُمُّهُ وَقَطَعَتِ الْخُبْزَ عَلَى الطَّاوِلَةِ.",
       "translation": "Majka mu je zahvalila i narezala hljeb na stolu.",
-      "translationEn": "His mother thanked him and sliced the bread on the table."
+      "translationEn": "His mother thanked him and sliced the bread on the table.",
+      "words": [
+        { "w": "شَكَرَتْهُ", "root": "ش ك ر", "bs": "zahvalila mu je", "en": "thanked him" },
+        { "w": "أُمُّهُ", "root": "أ م م", "bs": "njegova majka", "en": "his mother" },
+        { "w": "قَطَعَتِ", "root": "ق ط ع", "bs": "narezala je/presjecala", "en": "sliced/cut" },
+        { "w": "الْخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stol/sto", "en": "table" }
+      ]
     }
   ],
   "metadata": {

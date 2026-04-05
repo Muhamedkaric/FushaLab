@@ -6,26 +6,140 @@
     {
       "arabic": "كَانَ المُعَلِّمُ يَسْأَلُ الطُّلَّابَ أَسْئِلَةً فِي كُلِّ دَرْسٍ.",
       "translation": "Nastavnik je postavljao učenicima pitanja na svakom času.",
-      "translationEn": "The teacher asked the students questions in every lesson."
+      "translationEn": "The teacher asked the students questions in every lesson.",
+      "words": [
+        {
+          "w": "المُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "nastavnik",
+          "en": "teacher"
+        },
+        {
+          "w": "يَسْأَلُ",
+          "root": "س أ ل",
+          "bs": "postavlja pitanja",
+          "en": "asks questions"
+        },
+        {
+          "w": "الطُّلَّابَ",
+          "root": "ط ل ب",
+          "bs": "učenike",
+          "en": "students"
+        },
+        {
+          "w": "أَسْئِلَةً",
+          "root": "س أ ل",
+          "bs": "pitanja",
+          "en": "questions"
+        },
+        {
+          "w": "دَرْسٍ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "lesson"
+        }
+      ]
     },
     {
       "arabic": "رَفَعَ حَسَنٌ يَدَهُ وَأَجَابَ بِصَوْتٍ عَالٍ.",
       "translation": "Hasan je podigao ruku i glasno odgovorio.",
-      "translationEn": "Hassan raised his hand and answered in a loud voice."
+      "translationEn": "Hassan raised his hand and answered in a loud voice.",
+      "words": [
+        {
+          "w": "رَفَعَ",
+          "root": "ر ف ع",
+          "bs": "podigao",
+          "en": "raised"
+        },
+        {
+          "w": "يَدَهُ",
+          "root": "ي د ي",
+          "bs": "svoju ruku",
+          "en": "his hand"
+        },
+        {
+          "w": "أَجَابَ",
+          "root": "ج و ب",
+          "bs": "odgovorio",
+          "en": "answered"
+        },
+        {
+          "w": "بِصَوْتٍ",
+          "root": "ص و ت",
+          "bs": "glasom",
+          "en": "voice"
+        },
+        {
+          "w": "عَالٍ",
+          "root": "ع ل و",
+          "bs": "glasnim",
+          "en": "loud"
+        }
+      ]
     },
     {
       "arabic": "كَانَتِ الإِجَابَةُ صَحِيحَةً وَمَدَحَهُ المُعَلِّمُ.",
       "translation": "Odgovor je bio tačan i nastavnik ga je pohvalio.",
-      "translationEn": "The answer was correct and the teacher praised him."
+      "translationEn": "The answer was correct and the teacher praised him.",
+      "words": [
+        {
+          "w": "الإِجَابَةُ",
+          "root": "ج و ب",
+          "bs": "odgovor",
+          "en": "answer"
+        },
+        {
+          "w": "صَحِيحَةً",
+          "root": "ص ح ح",
+          "bs": "tačan",
+          "en": "correct"
+        },
+        {
+          "w": "مَدَحَهُ",
+          "root": "م د ح",
+          "bs": "pohvalio ga",
+          "en": "praised him"
+        },
+        {
+          "w": "المُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "nastavnik",
+          "en": "teacher"
+        }
+      ]
     },
     {
       "arabic": "شَعَرَ حَسَنٌ بِالفَخْرِ أَمَامَ زُمَلَائِهِ.",
       "translation": "Hasan se osjećao ponosno pred drugovima.",
-      "translationEn": "Hassan felt proud in front of his classmates."
+      "translationEn": "Hassan felt proud in front of his classmates.",
+      "words": [
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjećao se",
+          "en": "felt"
+        },
+        {
+          "w": "بِالفَخْرِ",
+          "root": "ف خ ر",
+          "bs": "ponosno",
+          "en": "proud"
+        },
+        {
+          "w": "زُمَلَائِهِ",
+          "root": "ز م ل",
+          "bs": "drugovi",
+          "en": "classmates"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["classroom", "participation", "praise"]
+    "tags": [
+      "classroom",
+      "participation",
+      "praise"
+    ]
   }
 }

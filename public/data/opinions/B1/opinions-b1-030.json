@@ -6,22 +6,43 @@
     {
       "arabic": "فِي رَأْيِي، الْأَخْطَاءُ جُزْءٌ طَبِيعِيٌّ مِنَ التَّعَلُّمِ.",
       "translation": "Po mom mišljenju, greške su prirodni dio učenja.",
-      "translationEn": "In my opinion, mistakes are a natural part of learning."
+      "translationEn": "In my opinion, mistakes are a natural part of learning.",
+      "words": [
+        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
+        { "w": "الْأَخْطَاءُ", "root": "خ ط أ", "bs": "greške", "en": "mistakes" },
+        { "w": "جُزْءٌ", "root": "ج ز أ", "bs": "dio", "en": "part" },
+        { "w": "طَبِيعِيٌّ", "root": "ط ب ع", "bs": "prirodni", "en": "natural" }
+      ]
     },
     {
       "arabic": "لَا يُوجَدُ شَخْصٌ نَجَحَ بِدُونِ أَنْ يُخْطِئَ.",
       "translation": "Ne postoji osoba koja je uspjela a da nije griješila.",
-      "translationEn": "There is no person who succeeded without making mistakes."
+      "translationEn": "There is no person who succeeded without making mistakes.",
+      "words": [
+        { "w": "شَخْصٌ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
+        { "w": "نَجَحَ", "root": "ن ج ح", "bs": "uspjela je", "en": "succeeded" },
+        { "w": "يُخْطِئَ", "root": "خ ط أ", "bs": "griješila je", "en": "making mistakes" }
+      ]
     },
     {
       "arabic": "الْخَطَأُ يُعَلِّمُنَا مَا لَا تُعَلِّمُنَا الْكُتُبُ.",
       "translation": "Greška nas uči ono što nam knjige ne mogu naučiti.",
-      "translationEn": "A mistake teaches us what books cannot teach us."
+      "translationEn": "A mistake teaches us what books cannot teach us.",
+      "words": [
+        { "w": "الْخَطَأُ", "root": "خ ط أ", "bs": "greška", "en": "mistake" },
+        { "w": "يُعَلِّمُنَا", "root": "ع ل م", "bs": "uči nas", "en": "teaches us" },
+        { "w": "الْكُتُبُ", "root": "ك ت ب", "bs": "knjige", "en": "books" }
+      ]
     },
     {
       "arabic": "لَا تَخَفْ مِنَ الْخَطَأِ بَلْ تَعَلَّمْ مِنْهُ.",
       "translation": "Ne boj se greške, nego uči iz nje.",
-      "translationEn": "Do not be afraid of the mistake but learn from it."
+      "translationEn": "Do not be afraid of the mistake but learn from it.",
+      "words": [
+        { "w": "تَخَفْ", "root": "خ و ف", "bs": "boj se", "en": "be afraid" },
+        { "w": "الْخَطَأِ", "root": "خ ط أ", "bs": "greška", "en": "mistake" },
+        { "w": "تَعَلَّمْ", "root": "ع ل م", "bs": "uči", "en": "learn" }
+      ]
     }
   ],
   "metadata": {

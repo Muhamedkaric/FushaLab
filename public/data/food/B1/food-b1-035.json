@@ -6,22 +6,48 @@
     {
       "arabic": "أَكَلَ الرَّجُلُ وَجْبَتَهُ بِبُطْءٍ وَبِهُدُوءٍ.",
       "translation": "Čovjek je polako i mirno jeo obrok.",
-      "translationEn": "The man ate his meal slowly and calmly."
+      "translationEn": "The man ate his meal slowly and calmly.",
+      "words": [
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo je", "en": "ate" },
+        { "w": "الرَّجُلُ", "root": "ر ج ل", "bs": "čovjek/muškarac", "en": "man" },
+        { "w": "وَجْبَتَهُ", "root": "و ج ب", "bs": "njegov obrok", "en": "his meal" },
+        { "w": "بِبُطْءٍ", "root": "ب ط أ", "bs": "polako/sporo", "en": "slowly" },
+        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno/smireno", "en": "calmly" }
+      ]
     },
     {
       "arabic": "لَمْ يَنْظُرْ إِلَى هَاتِفِهِ أَثْنَاءَ الْأَكْلِ.",
       "translation": "Nije gledao u telefon za vrijeme jela.",
-      "translationEn": "He did not look at his phone while eating."
+      "translationEn": "He did not look at his phone while eating.",
+      "words": [
+        { "w": "يَنْظُرْ", "root": "ن ظ ر", "bs": "gleda/pogleda", "en": "look" },
+        { "w": "هَاتِفِهِ", "root": "ه ت ف", "bs": "njegov telefon", "en": "his phone" },
+        { "w": "أَثْنَاءَ", "root": "ث ن ي", "bs": "za vrijeme/tokom", "en": "while/during" },
+        { "w": "الْأَكْلِ", "root": "أ ك ل", "bs": "jela/jedenja", "en": "eating" }
+      ]
     },
     {
       "arabic": "تَمَتَّعَ بِكُلِّ لُقْمَةٍ وَشَكَرَ اللَّهَ عَلَى الرِّزْقِ.",
       "translation": "Uživao je u svakom zalogaju i zahvalio Allahu na opskrbi.",
-      "translationEn": "He enjoyed every bite and thanked God for the provision."
+      "translationEn": "He enjoyed every bite and thanked God for the provision.",
+      "words": [
+        { "w": "تَمَتَّعَ", "root": "م ت ع", "bs": "uživao je", "en": "enjoyed" },
+        { "w": "لُقْمَةٍ", "root": "ل ق م", "bs": "zalogaj", "en": "bite/morsel" },
+        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
+        { "w": "الرِّزْقِ", "root": "ر ز ق", "bs": "opskrba/blagoslov", "en": "provision/sustenance" }
+      ]
     },
     {
       "arabic": "قَالَ: الْأَكْلُ الْهَادِئُ أَفْضَلُ لِلصِّحَّةِ.",
       "translation": "Rekao je: Mirno jedenje je bolje za zdravlje.",
-      "translationEn": "He said: Calm eating is better for health."
+      "translationEn": "He said: Calm eating is better for health.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "الْأَكْلُ", "root": "أ ك ل", "bs": "jedenje/jelo", "en": "eating" },
+        { "w": "الْهَادِئُ", "root": "ه د أ", "bs": "mirno/spokojno", "en": "calm" },
+        { "w": "أَفْضَلُ", "root": "ف ض ل", "bs": "bolje/najbolje", "en": "better" },
+        { "w": "لِلصِّحَّةِ", "root": "ص ح ح", "bs": "za zdravlje", "en": "for health" }
+      ]
     }
   ],
   "metadata": {

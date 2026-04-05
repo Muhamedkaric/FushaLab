@@ -6,22 +6,46 @@
     {
       "arabic": "كَانَ يَوْمُ الِاثْنَيْنِ مَشْغُولًا جِدًّا لِعَلَاءٍ.",
       "translation": "Ponedjeljak je bio veoma zauzet za Alaau.",
-      "translationEn": "Monday was very busy for Alaa."
+      "translationEn": "Monday was very busy for Alaa.",
+      "words": [
+        { "w": "يَوْمُ", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "الِاثْنَيْنِ", "root": "ث ن ي", "bs": "ponedjeljak", "en": "Monday" },
+        { "w": "مَشْغُولًا", "root": "ش غ ل", "bs": "zauzet/zaposlen", "en": "busy" }
+      ]
     },
     {
       "arabic": "اجْتَمَعَ بِثَلَاثَةِ أَشْخَاصٍ وَأَتَمَّ أَرْبَعَ مَهَامٍّ.",
       "translation": "Imao je sastanak s tri osobe i završio četiri zadatka.",
-      "translationEn": "He met with three people and completed four tasks."
+      "translationEn": "He met with three people and completed four tasks.",
+      "words": [
+        { "w": "اجْتَمَعَ", "root": "ج م ع", "bs": "imao je sastanak/sreo se", "en": "met" },
+        { "w": "أَشْخَاصٍ", "root": "ش خ ص", "bs": "osobe/lica", "en": "people/persons" },
+        { "w": "أَتَمَّ", "root": "ت م م", "bs": "završio je/okončao", "en": "completed" },
+        { "w": "مَهَامٍّ", "root": "م ه م", "bs": "zadaci", "en": "tasks" }
+      ]
     },
     {
       "arabic": "أَكَلَ غَدَاءَهُ عَلَى عَجَلٍ أَمَامَ الْحَاسُوبِ.",
       "translation": "U žurbi je ručao ispred računara.",
-      "translationEn": "He ate his lunch hurriedly in front of the computer."
+      "translationEn": "He ate his lunch hurriedly in front of the computer.",
+      "words": [
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo je/ručao", "en": "ate" },
+        { "w": "غَدَاءَهُ", "root": "غ د و", "bs": "njegov ručak", "en": "his lunch" },
+        { "w": "عَلَى عَجَلٍ", "root": "ع ج ل", "bs": "u žurbi/brzo", "en": "hurriedly" },
+        { "w": "الْحَاسُوبِ", "root": "ح س ب", "bs": "računar/kompjuter", "en": "computer" }
+      ]
     },
     {
       "arabic": "فِي الْمَسَاءِ تَنَهَّدَ وَقَالَ «الْحَمْدُ لِلَّهِ انْتَهَى الْيَوْمُ».",
       "translation": "Uveče je uzdahnuo i rekao «hvala Bogu, dan je završen».",
-      "translationEn": "In the evening he sighed and said «thank God, the day is over»."
+      "translationEn": "In the evening he sighed and said «thank God, the day is over».",
+      "words": [
+        { "w": "الْمَسَاءِ", "root": "م س و", "bs": "večer/uveče", "en": "evening" },
+        { "w": "تَنَهَّدَ", "root": "ن ه د", "bs": "uzdahnuo je", "en": "sighed" },
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "انْتَهَى", "root": "ن ه ي", "bs": "završio je", "en": "is over/ended" },
+        { "w": "الْيَوْمُ", "root": "ي و م", "bs": "dan", "en": "day" }
+      ]
     }
   ],
   "metadata": {

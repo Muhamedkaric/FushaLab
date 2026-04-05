@@ -6,22 +6,45 @@
     {
       "arabic": "طَلَبَ أَنَسٌ مِنْ صَدِيقِهِ كِتَابًا.",
       "translation": "Enes je tražio od prijatelja knjigu.",
-      "translationEn": "Anas asked his friend for a book."
+      "translationEn": "Anas asked his friend for a book.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je", "en": "asked for" },
+        { "w": "صَدِيقِهِ", "root": "ص د ق", "bs": "prijatelja", "en": "friend" },
+        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjigu", "en": "book" }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ صَدِيقُهُ الكِتَابَ بِكُلِّ سُرُورٍ.",
       "translation": "Prijatelj mu je dao knjigu s velikim zadovoljstvom.",
-      "translationEn": "His friend gave him the book with great pleasure."
+      "translationEn": "His friend gave him the book with great pleasure.",
+      "words": [
+        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "gave him" },
+        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "prijatelj", "en": "friend" },
+        { "w": "الكِتَابَ", "root": "ك ت ب", "bs": "knjigu", "en": "book" },
+        { "w": "بِكُلِّ سُرُورٍ", "root": "س ر ر", "bs": "s velikim zadovoljstvom", "en": "with great pleasure" }
+      ]
     },
     {
       "arabic": "وَعَدَ أَنَسٌ بِأَنْ يُعِيدَهُ بَعْدَ أُسْبُوعٍ.",
       "translation": "Enes je obećao da će ga vratiti za sedmicu.",
-      "translationEn": "Anas promised to return it after a week."
+      "translationEn": "Anas promised to return it after a week.",
+      "words": [
+        { "w": "وَعَدَ", "root": "و ع د", "bs": "obećao je", "en": "promised" },
+        { "w": "يُعِيدَهُ", "root": "ع و د", "bs": "vratiti ga", "en": "return it" },
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmicu", "en": "week" }
+      ]
     },
     {
       "arabic": "قَرَأَ الكِتَابَ وَأَعَادَهُ فِي الوَقْتِ المُحَدَّدِ.",
       "translation": "Pročitao je knjigu i vratio je u dogovoreno vrijeme.",
-      "translationEn": "He read the book and returned it on time."
+      "translationEn": "He read the book and returned it on time.",
+      "words": [
+        { "w": "قَرَأَ", "root": "ق ر أ", "bs": "pročitao je", "en": "read" },
+        { "w": "الكِتَابَ", "root": "ك ت ب", "bs": "knjigu", "en": "book" },
+        { "w": "أَعَادَهُ", "root": "ع و د", "bs": "vratio je", "en": "returned it" },
+        { "w": "الوَقْتِ", "root": "و ق ت", "bs": "vremenu", "en": "time" },
+        { "w": "المُحَدَّدِ", "root": "ح د د", "bs": "dogovorenom", "en": "scheduled" }
+      ]
     }
   ],
   "metadata": {

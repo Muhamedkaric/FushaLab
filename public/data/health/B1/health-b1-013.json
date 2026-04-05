@@ -6,26 +6,111 @@
     {
       "arabic": "اشْتَكَى رَامِيٌّ مِنْ أَلَمٍ فِي الظَّهْرِ.",
       "translation": "Rami se žalio na bol u leđima.",
-      "translationEn": "Rami complained of back pain."
+      "translationEn": "Rami complained of back pain.",
+      "words": [
+        {
+          "w": "اشْتَكَى",
+          "root": "ش ك و",
+          "bs": "žalio se",
+          "en": "complained"
+        },
+        {
+          "w": "بِأَلَمٍ",
+          "root": "أ ل م",
+          "bs": "bol",
+          "en": "pain"
+        },
+        {
+          "w": "الظَّهْرِ",
+          "root": "ظ ه ر",
+          "bs": "leđa",
+          "en": "back"
+        }
+      ]
     },
     {
       "arabic": "قَالَ الطَّبِيبُ إِنَّهُ يَجْلِسُ كَثِيرًا أَمَامَ الْحَاسُوبِ.",
       "translation": "Ljekar je rekao da previše sjedi ispred računara.",
-      "translationEn": "The doctor said he sits too much in front of the computer."
+      "translationEn": "The doctor said he sits too much in front of the computer.",
+      "words": [
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedi",
+          "en": "sits"
+        },
+        {
+          "w": "أَمَامَ",
+          "root": "أ م م",
+          "bs": "ispred",
+          "en": "in front of"
+        },
+        {
+          "w": "الْحَاسُوبِ",
+          "root": "ح س ب",
+          "bs": "računar",
+          "en": "computer"
+        }
+      ]
     },
     {
       "arabic": "نَصَحَهُ بِالْوُقُوفِ وَالتَّمَدُّدِ كُلَّ سَاعَةٍ.",
       "translation": "Savjetovao ga je da stane i pruži se svaki sat.",
-      "translationEn": "He advised him to stand up and stretch every hour."
+      "translationEn": "He advised him to stand up and stretch every hour.",
+      "words": [
+        {
+          "w": "نَصَحَهُ",
+          "root": "ن ص ح",
+          "bs": "savjetovao ga je",
+          "en": "advised him"
+        },
+        {
+          "w": "بِالْوُقُوفِ",
+          "root": "و ق ف",
+          "bs": "da stane",
+          "en": "to stand up"
+        },
+        {
+          "w": "وَالتَّمَدُّدِ",
+          "root": "م د د",
+          "bs": "i istezanju",
+          "en": "and stretching"
+        }
+      ]
     },
     {
       "arabic": "بَدَأَ رَامِيٌّ يَقُومُ بِتَمَارِينَ خَفِيفَةٍ فِي الْبَيْتِ.",
       "translation": "Rami je počeo raditi lagane vježbe kod kuće.",
-      "translationEn": "Rami started doing light exercises at home."
+      "translationEn": "Rami started doing light exercises at home.",
+      "words": [
+        {
+          "w": "يَقُومُ",
+          "root": "ق و م",
+          "bs": "radi",
+          "en": "does"
+        },
+        {
+          "w": "بِتَمَارِينَ",
+          "root": "م ر ن",
+          "bs": "vježbe",
+          "en": "exercises"
+        },
+        {
+          "w": "خَفِيفَةٍ",
+          "root": "خ ف ف",
+          "bs": "lagane",
+          "en": "light"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["back pain", "exercise", "posture", "computer"]
+    "tags": [
+      "back pain",
+      "exercise",
+      "posture",
+      "computer"
+    ]
   }
 }

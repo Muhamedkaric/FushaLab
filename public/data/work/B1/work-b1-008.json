@@ -6,22 +6,49 @@
     {
       "arabic": "يَصْحُو نَبِيلٌ فِي السَّاعَةِ السَّادِسَةِ وَيُعِدُّ نَفْسَهُ لِلْعَمَلِ.",
       "translation": "Nabil se budi u šest sati i priprema se za posao.",
-      "translationEn": "Nabil wakes up at six o'clock and prepares himself for work."
+      "translationEn": "Nabil wakes up at six o'clock and prepares himself for work.",
+      "words": [
+        { "w": "يَصْحُو", "root": "ص ح و", "bs": "budi se", "en": "wakes up" },
+        { "w": "السَّاعَةِ", "root": "س ع و", "bs": "sat/čas", "en": "hour/o'clock" },
+        { "w": "يُعِدُّ", "root": "ع د د", "bs": "priprema se", "en": "prepares" },
+        { "w": "نَفْسَهُ", "root": "ن ف س", "bs": "sebe/sam sebe", "en": "himself" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" }
+      ]
     },
     {
       "arabic": "يَأْكُلُ إِفْطَارًا سَرِيعًا وَيَلْبَسُ مَلَابِسَهُ.",
       "translation": "Brzo doručkuje i oblači se.",
-      "translationEn": "He eats a quick breakfast and puts on his clothes."
+      "translationEn": "He eats a quick breakfast and puts on his clothes.",
+      "words": [
+        { "w": "يَأْكُلُ", "root": "أ ك ل", "bs": "jede", "en": "eats" },
+        { "w": "إِفْطَارًا", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" },
+        { "w": "سَرِيعًا", "root": "س ر ع", "bs": "brzo/brzi", "en": "quick/fast" },
+        { "w": "يَلْبَسُ", "root": "ل ب س", "bs": "oblači se", "en": "puts on/dresses" },
+        { "w": "مَلَابِسَهُ", "root": "ل ب س", "bs": "njegova odjeća", "en": "his clothes" }
+      ]
     },
     {
       "arabic": "يَخْرُجُ مِنَ الْبَيْتِ فِي السَّاعَةِ السَّابِعَةِ وَالنِّصْفِ.",
       "translation": "Izlazi iz kuće u pola osam.",
-      "translationEn": "He leaves the house at half past seven."
+      "translationEn": "He leaves the house at half past seven.",
+      "words": [
+        { "w": "يَخْرُجُ", "root": "خ ر ج", "bs": "izlazi", "en": "leaves/exits" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "house/home" },
+        { "w": "السَّاعَةِ", "root": "س ع و", "bs": "sat/čas", "en": "hour/o'clock" },
+        { "w": "النِّصْفِ", "root": "ن ص ف", "bs": "pola", "en": "half" }
+      ]
     },
     {
       "arabic": "يَصِلُ إِلَى الْعَمَلِ قَبْلَ بِدَايَةِ الدَّوَامِ بِعَشْرِ دَقَائِقَ.",
       "translation": "Stiže na posao deset minuta prije početka radnog vremena.",
-      "translationEn": "He arrives at work ten minutes before the shift starts."
+      "translationEn": "He arrives at work ten minutes before the shift starts.",
+      "words": [
+        { "w": "يَصِلُ", "root": "و ص ل", "bs": "stiže/dolazi", "en": "arrives" },
+        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" },
+        { "w": "بِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "beginning/start" },
+        { "w": "الدَّوَامِ", "root": "د و م", "bs": "radno vrijeme/smjena", "en": "shift/working hours" },
+        { "w": "دَقَائِقَ", "root": "د ق ق", "bs": "minuta", "en": "minutes" }
+      ]
     }
   ],
   "metadata": {

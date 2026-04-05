@@ -6,22 +6,47 @@
     {
       "arabic": "طَبَخَتِ الْجَدَّةُ كَعْكًا حُلْوًا لِلْأَحْفَادِ.",
       "translation": "Baka je ispekla slatku tortu za unuke.",
-      "translationEn": "The grandmother baked sweet cake for the grandchildren."
+      "translationEn": "The grandmother baked sweet cake for the grandchildren.",
+      "words": [
+        { "w": "طَبَخَتِ", "root": "ط ب خ", "bs": "ispekla je/kuhala", "en": "baked/cooked" },
+        { "w": "الْجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "كَعْكًا", "root": "ك ع ك", "bs": "kolač/torta", "en": "cake" },
+        { "w": "حُلْوًا", "root": "ح ل و", "bs": "slatku/slatko", "en": "sweet" },
+        { "w": "الْأَحْفَادِ", "root": "ح ف د", "bs": "unuci/unuke", "en": "grandchildren" }
+      ]
     },
     {
       "arabic": "وَضَعَتْ فِيهِ الزَّبِيبَ وَالْجَوْزَ وَالْعَسَلَ.",
       "translation": "Stavila je u njega grožđice, orahe i med.",
-      "translationEn": "She put raisins, walnuts, and honey in it."
+      "translationEn": "She put raisins, walnuts, and honey in it.",
+      "words": [
+        { "w": "وَضَعَتْ", "root": "و ض ع", "bs": "stavila je", "en": "put" },
+        { "w": "الزَّبِيبَ", "root": "ز ب ب", "bs": "grožđice/suvo grožđe", "en": "raisins" },
+        { "w": "الْجَوْزَ", "root": "ج و ز", "bs": "orasi/orahe", "en": "walnuts" },
+        { "w": "الْعَسَلَ", "root": "ع س ل", "bs": "med", "en": "honey" }
+      ]
     },
     {
       "arabic": "أَخْرَجَتِ الْكَعْكَ مِنَ الْفُرْنِ وَبَرَّدَتْهُ قَلِيلًا.",
       "translation": "Izvadila je tortu iz rerne i malo je ohladila.",
-      "translationEn": "She took the cake out of the oven and let it cool a little."
+      "translationEn": "She took the cake out of the oven and let it cool a little.",
+      "words": [
+        { "w": "أَخْرَجَتِ", "root": "خ ر ج", "bs": "izvadila je", "en": "took out" },
+        { "w": "الْكَعْكَ", "root": "ك ع ك", "bs": "kolač/tortu", "en": "cake" },
+        { "w": "الْفُرْنِ", "root": "ف ر ن", "bs": "rerna/pećnica", "en": "oven" },
+        { "w": "بَرَّدَتْهُ", "root": "ب ر د", "bs": "ohladila ga je", "en": "cooled it" }
+      ]
     },
     {
       "arabic": "أَكَلَ الْأَحْفَادُ وَقَالُوا: يَا سَلَامَ يَا جَدَّةُ!",
       "translation": "Unuci su jeli i rekli: Bravo bako!",
-      "translationEn": "The grandchildren ate and said: Wonderful grandmother!"
+      "translationEn": "The grandchildren ate and said: Wonderful grandmother!",
+      "words": [
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
+        { "w": "الْأَحْفَادُ", "root": "ح ف د", "bs": "unuci", "en": "grandchildren" },
+        { "w": "قَالُوا", "root": "ق و ل", "bs": "rekli su", "en": "said" },
+        { "w": "سَلَامَ", "root": "س ل م", "bs": "bravo/divno", "en": "wonderful/wow" }
+      ]
     }
   ],
   "metadata": {

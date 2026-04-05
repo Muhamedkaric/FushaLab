@@ -6,27 +6,56 @@
     {
       "arabic": "أَرَادَ عَادِلٌ أَنْ يَشْتَرِيَ دَرَّاجَةً جَدِيدَةً.",
       "translation": "Adil je htio kupiti novi bicikl.",
-      "translationEn": "Adil wanted to buy a new bicycle."
+      "translationEn": "Adil wanted to buy a new bicycle.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "يَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "دَرَّاجَةً", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" },
+        { "w": "جَدِيدَةً", "root": "ج د د", "bs": "novi", "en": "new" }
+      ]
     },
     {
       "arabic": "كَانَ سِعْرُ الدَّرَّاجَةِ كَبِيرًا بِالنِّسْبَةِ لَهُ.",
       "translation": "Cijena bicikla je bila velika za njega.",
-      "translationEn": "The price of the bicycle was too high for him."
+      "translationEn": "The price of the bicycle was too high for him.",
+      "words": [
+        { "w": "سِعْرُ", "root": "س ع ر", "bs": "cijena", "en": "price" },
+        { "w": "الدَّرَّاجَةِ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" },
+        { "w": "كَبِيرًا", "root": "ك ب ر", "bs": "velika", "en": "high" }
+      ]
     },
     {
       "arabic": "بَدَأَ يَدَّخِرُ مِنْ مَصْرُوفِهِ كُلَّ أُسْبُوعٍ.",
       "translation": "Počeo je štediti od džeparca svake sedmice.",
-      "translationEn": "He started saving from his pocket money every week."
+      "translationEn": "He started saving from his pocket money every week.",
+      "words": [
+        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počeo je", "en": "started" },
+        { "w": "يَدَّخِرُ", "root": "ذ خ ر", "bs": "štediti", "en": "saving" },
+        { "w": "مَصْرُوفِهِ", "root": "ص ر ف", "bs": "džeparac", "en": "pocket money" },
+        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica", "en": "week" }
+      ]
     },
     {
       "arabic": "بَعْدَ ثَلَاثَةِ أَشْهُرٍ جَمَعَ المَبْلَغَ الكَافِيَ.",
       "translation": "Nakon tri mjeseca sakupio je dovoljan iznos.",
-      "translationEn": "After three months he saved enough money."
+      "translationEn": "After three months he saved enough money.",
+      "words": [
+        { "w": "أَشْهُرٍ", "root": "ش ه ر", "bs": "mjeseci", "en": "months" },
+        { "w": "جَمَعَ", "root": "ج م ع", "bs": "sakupio je", "en": "saved" },
+        { "w": "المَبْلَغَ", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
+        { "w": "الكَافِيَ", "root": "ك ف ي", "bs": "dovoljan", "en": "enough" }
+      ]
     },
     {
       "arabic": "اشْتَرَى الدَّرَّاجَةَ وَرَكِبَهَا بِفَرَحٍ كَبِيرٍ.",
       "translation": "Kupio je bicikl i vozio ga s velikom radošću.",
-      "translationEn": "He bought the bicycle and rode it with great joy."
+      "translationEn": "He bought the bicycle and rode it with great joy.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "الدَّرَّاجَةَ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" },
+        { "w": "رَكِبَهَا", "root": "ر ك ب", "bs": "vozio ga je", "en": "rode it" },
+        { "w": "فَرَحٍ", "root": "ف ر ح", "bs": "radost", "en": "joy" }
+      ]
     }
   ],
   "metadata": {

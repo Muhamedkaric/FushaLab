@@ -6,27 +6,53 @@
     {
       "arabic": "أَرْسَلَتْ دِينَا رِسَالَةً لِصَدِيقَتِهَا هَنَاءَ.",
       "translation": "Dina je poslala poruku prijateljici Hani.",
-      "translationEn": "Dina sent a message to her friend Hanaa."
+      "translationEn": "Dina sent a message to her friend Hanaa.",
+      "words": [
+        { "w": "أَرْسَلَتْ", "root": "ر س ل", "bs": "poslala je", "en": "sent" },
+        { "w": "رِسَالَةً", "root": "ر س ل", "bs": "poruku", "en": "message" },
+        { "w": "لِصَدِيقَتِهَا", "root": "ص د ق", "bs": "prijateljici", "en": "friend" }
+      ]
     },
     {
       "arabic": "اقْتَرَحَتْ أَنْ يَذْهَبَا إِلَى السِّينِمَا.",
       "translation": "Predložila je da idu u kino.",
-      "translationEn": "She suggested that they go to the cinema."
+      "translationEn": "She suggested that they go to the cinema.",
+      "words": [
+        { "w": "اقْتَرَحَتْ", "root": "ق ر ح", "bs": "predložila je", "en": "suggested" },
+        { "w": "يَذْهَبَا", "root": "ذ هـ ب", "bs": "idu", "en": "go" },
+        { "w": "السِّينِمَا", "bs": "kino", "en": "cinema" }
+      ]
     },
     {
       "arabic": "سَأَلَتْهَا عَنِ الفِيلْمِ الَّذِي تُرِيدُ مُشَاهَدَتَهُ.",
       "translation": "Pitala je koji film želi gledati.",
-      "translationEn": "She asked her about the film she wants to watch."
+      "translationEn": "She asked her about the film she wants to watch.",
+      "words": [
+        { "w": "سَأَلَتْهَا", "root": "س أ ل", "bs": "pitala je", "en": "asked her" },
+        { "w": "الفِيلْمِ", "bs": "film", "en": "film" },
+        { "w": "تُرِيدُ", "root": "ر و د", "bs": "želi", "en": "wants" },
+        { "w": "مُشَاهَدَتَهُ", "root": "ش هـ د", "bs": "gledati ga", "en": "watch it" }
+      ]
     },
     {
       "arabic": "اتَّفَقَتَا عَلَى مَوْعِدِ اللِّقَاءِ أَمَامَ السِّينِمَا.",
       "translation": "Dogovorile su se za termin ispred kina.",
-      "translationEn": "They agreed on a meeting time in front of the cinema."
+      "translationEn": "They agreed on a meeting time in front of the cinema.",
+      "words": [
+        { "w": "اتَّفَقَتَا", "root": "و ف ق", "bs": "dogovorile su se", "en": "agreed" },
+        { "w": "مَوْعِدِ", "root": "و ع د", "bs": "terminu", "en": "time" },
+        { "w": "اللِّقَاءِ", "root": "ل ق ي", "bs": "susreta", "en": "meeting" }
+      ]
     },
     {
       "arabic": "كَانَ الفِيلْمُ رَائِعًا وَضَحِكَتَا كَثِيرًا.",
       "translation": "Film je bio odličan i puno su se smijale.",
-      "translationEn": "The film was great and they laughed a lot."
+      "translationEn": "The film was great and they laughed a lot.",
+      "words": [
+        { "w": "الفِيلْمُ", "bs": "film", "en": "film" },
+        { "w": "رَائِعًا", "root": "ر و ع", "bs": "odličan", "en": "great" },
+        { "w": "ضَحِكَتَا", "root": "ض ح ك", "bs": "smijale su se", "en": "laughed" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,45 @@
     {
       "arabic": "وَجَدَ كَرِيمٌ قِطَّةً صَغِيرَةً أَمَامَ بَابِ الْبَيْتِ.",
       "translation": "Karim je pronašao mačića ispred kućnih vrata.",
-      "translationEn": "Karim found a small cat in front of the house door."
+      "translationEn": "Karim found a small cat in front of the house door.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "قِطَّةً", "root": "ق ط ط", "bs": "mačka/mačić", "en": "cat" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mala", "en": "small" },
+        { "w": "بَابِ", "root": "ب و ب", "bs": "vrata", "en": "door" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْقِطَّةُ جَائِعَةً وَتَبْدُو خَائِفَةً.",
       "translation": "Mačka je bila gladna i izgledala je uplašeno.",
-      "translationEn": "The cat was hungry and looked frightened."
+      "translationEn": "The cat was hungry and looked frightened.",
+      "words": [
+        { "w": "الْقِطَّةُ", "root": "ق ط ط", "bs": "mačka", "en": "cat" },
+        { "w": "جَائِعَةً", "root": "ج و ع", "bs": "gladna", "en": "hungry" },
+        { "w": "خَائِفَةً", "root": "خ و ف", "bs": "uplašena", "en": "frightened" }
+      ]
     },
     {
       "arabic": "أَحْضَرَ كَرِيمٌ لَهَا الطَّعَامَ وَالْمَاءَ بِسُرْعَةٍ.",
       "translation": "Karim joj je brzo donio hranu i vodu.",
-      "translationEn": "Karim quickly brought her food and water."
+      "translationEn": "Karim quickly brought her food and water.",
+      "words": [
+        { "w": "أَحْضَرَ", "root": "ح ض ر", "bs": "donio je", "en": "brought" },
+        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana", "en": "food" },
+        { "w": "الْمَاءَ", "root": "م و ه", "bs": "voda", "en": "water" },
+        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+      ]
     },
     {
       "arabic": "قَرَّرَتِ الْعَائِلَةُ الِاعْتِنَاءَ بِالْقِطَّةِ وَتَرْبِيَتَهَا.",
       "translation": "Porodica je odlučila brinuti se o mački i uzgajati je.",
-      "translationEn": "The family decided to take care of the cat and raise it."
+      "translationEn": "The family decided to take care of the cat and raise it.",
+      "words": [
+        { "w": "قَرَّرَتِ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "الِاعْتِنَاءَ", "root": "ع ن ي", "bs": "briga/staranje", "en": "care" },
+        { "w": "تَرْبِيَتَهَا", "root": "ر ب و", "bs": "odgajanje", "en": "raising it" }
+      ]
     }
   ],
   "metadata": {

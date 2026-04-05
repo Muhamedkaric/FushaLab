@@ -6,22 +6,46 @@
     {
       "arabic": "وَجَدَ رَامِي مَطْعَمًا جَدِيدًا فِي الشَّارِعِ.",
       "translation": "Rami je pronašao novi restoran u ulici.",
-      "translationEn": "Rami found a new restaurant in the street."
+      "translationEn": "Rami found a new restaurant in the street.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je/našao", "en": "found" },
+        { "w": "مَطْعَمًا", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
+        { "w": "جَدِيدًا", "root": "ج د د", "bs": "novi/novu", "en": "new" },
+        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica/put", "en": "street" }
+      ]
     },
     {
       "arabic": "دَخَلَ وَسَأَلَ عَنِ الطَّعَامِ الْمُمَيَّزِ.",
       "translation": "Ušao je i pitao o specijalitetima.",
-      "translationEn": "He entered and asked about the specialty dishes."
+      "translationEn": "He entered and asked about the specialty dishes.",
+      "words": [
+        { "w": "دَخَلَ", "root": "د خ ل", "bs": "ušao je", "en": "entered" },
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food/dishes" },
+        { "w": "الْمُمَيَّزِ", "root": "م ي ز", "bs": "specijalnom/posebnom", "en": "specialty/special" }
+      ]
     },
     {
       "arabic": "أَخْبَرَهُ النَّادِلُ أَنَّ الْكَبْسَةَ هِيَ الأَفْضَلُ.",
       "translation": "Konobar mu je rekao da je kabsa najbolja.",
-      "translationEn": "The waiter told him that kabsa is the best."
+      "translationEn": "The waiter told him that kabsa is the best.",
+      "words": [
+        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "rekao mu je/obavijestio", "en": "told him" },
+        { "w": "النَّادِلُ", "root": "ن د ل", "bs": "konobar", "en": "waiter" },
+        { "w": "الْكَبْسَةَ", "root": "ك ب س", "bs": "kabsa (jelo)", "en": "kabsa (dish)" },
+        { "w": "الأَفْضَلُ", "root": "ف ض ل", "bs": "najbolji/bolja", "en": "the best" }
+      ]
     },
     {
       "arabic": "طَلَبَ الْكَبْسَةَ وَأُعْجِبَ بِطَعْمِهَا.",
       "translation": "Naručio je kabsu i bio oduševljen njenim ukusom.",
-      "translationEn": "He ordered the kabsa and was impressed by its taste."
+      "translationEn": "He ordered the kabsa and was impressed by its taste.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "naručio je", "en": "ordered" },
+        { "w": "الْكَبْسَةَ", "root": "ك ب س", "bs": "kabsu (jelo)", "en": "kabsa" },
+        { "w": "أُعْجِبَ", "root": "ع ج ب", "bs": "oduševio se/bio impresioniran", "en": "was impressed" },
+        { "w": "بِطَعْمِهَا", "root": "ط ع م", "bs": "njenim ukusom", "en": "by its taste" }
+      ]
     }
   ],
   "metadata": {

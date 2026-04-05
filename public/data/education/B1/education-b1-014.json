@@ -6,26 +6,116 @@
     {
       "arabic": "يَدْرُسُ خَالِدٌ الرِّيَاضِيَّاتِ كُلَّ يَوْمٍ بَعْدَ الظُّهْرِ.",
       "translation": "Halid uči matematiku svaki dan poslijepodne.",
-      "translationEn": "Khalid studies mathematics every day in the afternoon."
+      "translationEn": "Khalid studies mathematics every day in the afternoon.",
+      "words": [
+        {
+          "w": "يَدْرُسُ",
+          "root": "د ر س",
+          "bs": "uči",
+          "en": "studies"
+        },
+        {
+          "w": "الرِّيَاضِيَّاتِ",
+          "root": "ر و ض",
+          "bs": "matematika",
+          "en": "mathematics"
+        },
+        {
+          "w": "بَعْدَ",
+          "root": "ب ع د",
+          "bs": "poslije",
+          "en": "after"
+        },
+        {
+          "w": "الظُّهْرِ",
+          "root": "ظ ه ر",
+          "bs": "podne",
+          "en": "noon"
+        }
+      ]
     },
     {
       "arabic": "يَجِدُ بَعْضَ الأَسْئِلَةِ صَعْبَةً أَحْيَانًا.",
       "translation": "Ponekad smatra neka pitanja teškim.",
-      "translationEn": "He sometimes finds some questions difficult."
+      "translationEn": "He sometimes finds some questions difficult.",
+      "words": [
+        {
+          "w": "يَجِدُ",
+          "root": "و ج د",
+          "bs": "smatra/nalazi",
+          "en": "finds"
+        },
+        {
+          "w": "الأَسْئِلَةِ",
+          "root": "س أ ل",
+          "bs": "pitanja",
+          "en": "questions"
+        },
+        {
+          "w": "صَعْبَةً",
+          "root": "ص ع ب",
+          "bs": "teška",
+          "en": "difficult"
+        }
+      ]
     },
     {
       "arabic": "يَسْأَلُ أَبَاهُ عَنِ المَسَائِلِ الصَّعْبَةِ.",
       "translation": "Pita oca za teške zadatke.",
-      "translationEn": "He asks his father about the difficult problems."
+      "translationEn": "He asks his father about the difficult problems.",
+      "words": [
+        {
+          "w": "يَسْأَلُ",
+          "root": "س أ ل",
+          "bs": "pita",
+          "en": "asks"
+        },
+        {
+          "w": "المَسَائِلِ",
+          "root": "س أ ل",
+          "bs": "zadaci/problemi",
+          "en": "problems"
+        },
+        {
+          "w": "الصَّعْبَةِ",
+          "root": "ص ع ب",
+          "bs": "teški",
+          "en": "difficult"
+        }
+      ]
     },
     {
       "arabic": "يَشْرَحُ الأَبُ لَهُ بِطَرِيقَةٍ سَهْلَةٍ.",
       "translation": "Otac mu objašnjava na jednostavan način.",
-      "translationEn": "His father explains to him in an easy way."
+      "translationEn": "His father explains to him in an easy way.",
+      "words": [
+        {
+          "w": "يَشْرَحُ",
+          "root": "ش ر ح",
+          "bs": "objašnjava",
+          "en": "explains"
+        },
+        {
+          "w": "بِطَرِيقَةٍ",
+          "root": "ط ر ق",
+          "bs": "na način",
+          "en": "in a way"
+        },
+        {
+          "w": "سَهْلَةٍ",
+          "root": "س ه ل",
+          "bs": "lak",
+          "en": "easy"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mathematics", "homework", "family"]
+    "tags": [
+      "mathematics",
+      "homework",
+      "family"
+    ]
   }
 }

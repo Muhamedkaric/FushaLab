@@ -6,27 +6,54 @@
     {
       "arabic": "تَذْهَبُ سَمِيرَةُ إِلَى السُّوبَرْمَارْكِتِ كُلَّ جُمُعَةٍ.",
       "translation": "Samira svaki petak ide u supermarket.",
-      "translationEn": "Samira goes to the supermarket every Friday."
+      "translationEn": "Samira goes to the supermarket every Friday.",
+      "words": [
+        { "w": "تَذْهَبُ", "root": "ذ ه ب", "bs": "ide", "en": "goes" },
+        { "w": "السُّوبَرْمَارْكِتِ", "root": "", "bs": "supermarket", "en": "supermarket" },
+        { "w": "جُمُعَةٍ", "root": "ج م ع", "bs": "petak", "en": "Friday" }
+      ]
     },
     {
       "arabic": "تَكْتُبُ قَائِمَةً بِالأَشْيَاءِ التِي تَحْتَاجُهَا.",
       "translation": "Piše listu stvari koje su joj potrebne.",
-      "translationEn": "She writes a list of the things she needs."
+      "translationEn": "She writes a list of the things she needs.",
+      "words": [
+        { "w": "تَكْتُبُ", "root": "ك ت ب", "bs": "piše", "en": "writes" },
+        { "w": "قَائِمَةً", "root": "ق و م", "bs": "lista", "en": "list" },
+        { "w": "الأَشْيَاءِ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
+        { "w": "تَحْتَاجُهَا", "root": "ح و ج", "bs": "treba ih", "en": "she needs" }
+      ]
     },
     {
       "arabic": "تَشْتَرِي فَقَطْ مَا هُوَ مَكْتُوبٌ فِي القَائِمَةِ.",
       "translation": "Kupuje samo ono što je napisano na listi.",
-      "translationEn": "She buys only what is written on the list."
+      "translationEn": "She buys only what is written on the list.",
+      "words": [
+        { "w": "تَشْتَرِي", "root": "ش ر ي", "bs": "kupuje", "en": "buys" },
+        { "w": "مَكْتُوبٌ", "root": "ك ت ب", "bs": "napisano", "en": "written" },
+        { "w": "القَائِمَةِ", "root": "ق و م", "bs": "lista", "en": "list" }
+      ]
     },
     {
       "arabic": "بِهَذِهِ الطَّرِيقَةِ لَا تُنْفِقُ نُقُودًا كَثِيرَةً.",
       "translation": "Na ovaj način ne troši puno novca.",
-      "translationEn": "This way she does not spend a lot of money."
+      "translationEn": "This way she does not spend a lot of money.",
+      "words": [
+        { "w": "الطَّرِيقَةِ", "root": "ط ر ق", "bs": "način", "en": "way" },
+        { "w": "تُنْفِقُ", "root": "ن ف ق", "bs": "troši", "en": "spends" },
+        { "w": "نُقُودًا", "root": "ن ق د", "bs": "novac", "en": "money" }
+      ]
     },
     {
       "arabic": "تَدْفَعُ عِنْدَ الصُّنْدُوقِ وَتَعُودُ إِلَى البَيْتِ.",
       "translation": "Plaća na kasi i vraća se kući.",
-      "translationEn": "She pays at the checkout and returns home."
+      "translationEn": "She pays at the checkout and returns home.",
+      "words": [
+        { "w": "تَدْفَعُ", "root": "د ف ع", "bs": "plaća", "en": "pays" },
+        { "w": "الصُّنْدُوقِ", "root": "ص ن د", "bs": "kasa", "en": "checkout" },
+        { "w": "تَعُودُ", "root": "ع و د", "bs": "vraća se", "en": "returns" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+      ]
     }
   ],
   "metadata": {

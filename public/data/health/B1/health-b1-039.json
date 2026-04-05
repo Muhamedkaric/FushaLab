@@ -6,26 +6,135 @@
     {
       "arabic": "قَرَّرَ وَائِلٌ أَنْ يَمْشِيَ بَدَلَ رُكُوبِ السَّيَّارَةِ.",
       "translation": "Wail je odlučio hodati umjesto vožnje automobilom.",
-      "translationEn": "Wail decided to walk instead of riding the car."
+      "translationEn": "Wail decided to walk instead of riding the car.",
+      "words": [
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided"
+        },
+        {
+          "w": "يَمْشِيَ",
+          "root": "م ش ي",
+          "bs": "da hoda",
+          "en": "to walk"
+        },
+        {
+          "w": "بَدَلَ",
+          "root": "ب د ل",
+          "bs": "umjesto",
+          "en": "instead of"
+        },
+        {
+          "w": "رُكُوبِ",
+          "root": "ر ك ب",
+          "bs": "vožnje",
+          "en": "riding"
+        },
+        {
+          "w": "السَّيَّارَةِ",
+          "root": "س ي ر",
+          "bs": "auto",
+          "en": "car"
+        }
+      ]
     },
     {
       "arabic": "يَمْشِي إِلَى السُّوقِ وَإِلَى الْمَسْجِدِ كُلَّ يَوْمٍ.",
       "translation": "Hoda do marketa i džamije svaki dan.",
-      "translationEn": "He walks to the market and the mosque every day."
+      "translationEn": "He walks to the market and the mosque every day.",
+      "words": [
+        {
+          "w": "يَمْشِي",
+          "root": "م ش ي",
+          "bs": "hoda",
+          "en": "walks"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "market",
+          "en": "market"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "root": "س ج د",
+          "bs": "džamija",
+          "en": "mosque"
+        }
+      ]
     },
     {
       "arabic": "فَقَدَ بَعْضَ الْوَزْنِ خِلَالَ شَهْرٍ.",
       "translation": "Izgubio je nešto kilograma tokom jednog mjeseca.",
-      "translationEn": "He lost some weight within one month."
+      "translationEn": "He lost some weight within one month.",
+      "words": [
+        {
+          "w": "فَقَدَ",
+          "root": "ف ق د",
+          "bs": "izgubio je",
+          "en": "lost"
+        },
+        {
+          "w": "بَعْضَ",
+          "root": "ب ع ض",
+          "bs": "nešto",
+          "en": "some"
+        },
+        {
+          "w": "الْوَزْنِ",
+          "root": "و ز ن",
+          "bs": "kilogrami",
+          "en": "weight"
+        },
+        {
+          "w": "خِلَالَ",
+          "root": "خ ل ل",
+          "bs": "tokom",
+          "en": "within"
+        },
+        {
+          "w": "شَهْرٍ",
+          "root": "ش ه ر",
+          "bs": "mjesec",
+          "en": "month"
+        }
+      ]
     },
     {
       "arabic": "يَشْعُرُ بِنَشَاطٍ أَكْثَرَ مِمَّا كَانَ مِنْ قَبْلُ.",
       "translation": "Osjeća se aktivnijim nego što je bio ranije.",
-      "translationEn": "He feels more active than he was before."
+      "translationEn": "He feels more active than he was before.",
+      "words": [
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels"
+        },
+        {
+          "w": "بِنَشَاطٍ",
+          "root": "ن ش ط",
+          "bs": "aktivno",
+          "en": "active"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "root": "ك ث ر",
+          "bs": "više",
+          "en": "more"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["walking", "weight loss", "daily routine", "exercise"]
+    "tags": [
+      "walking",
+      "weight loss",
+      "daily routine",
+      "exercise"
+    ]
   }
 }

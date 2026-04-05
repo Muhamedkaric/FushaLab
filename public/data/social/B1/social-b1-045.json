@@ -6,27 +6,56 @@
     {
       "arabic": "فِي المَسَاءِ سَأَلَ الأَبُ وَلَدَهُ عَنْ يَوْمِهِ.",
       "translation": "Uveče je otac pitao sina o njegovom danu.",
-      "translationEn": "In the evening the father asked his son about his day."
+      "translationEn": "In the evening the father asked his son about his day.",
+      "words": [
+        { "w": "المَسَاءِ", "root": "م س و", "bs": "večer", "en": "evening" },
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "وَلَدَهُ", "root": "و ل د", "bs": "njegov sin", "en": "his son" },
+        { "w": "يَوْمِهِ", "root": "ي و م", "bs": "njegov dan", "en": "his day" }
+      ]
     },
     {
       "arabic": "أَخْبَرَهُ أَنَّهُ كَانَ يَوْمًا جَيِّدًا.",
       "translation": "Rekao mu je da je bio dobar dan.",
-      "translationEn": "He told him it was a good day."
+      "translationEn": "He told him it was a good day.",
+      "words": [
+        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "rekao mu je", "en": "told him" },
+        { "w": "يَوْمًا", "root": "ي و م", "bs": "dan", "en": "day" },
+        { "w": "جَيِّدًا", "root": "ج ي د", "bs": "dobar", "en": "good" }
+      ]
     },
     {
       "arabic": "لَعِبَ مَعَ أَصْدِقَائِهِ وَأَكَلَ جَيِّدًا.",
       "translation": "Igrao se s prijateljima i dobro jeo.",
-      "translationEn": "He played with his friends and ate well."
+      "translationEn": "He played with his friends and ate well.",
+      "words": [
+        { "w": "لَعِبَ", "root": "ل ع ب", "bs": "igrao se", "en": "played" },
+        { "w": "أَصْدِقَائِهِ", "root": "ص د ق", "bs": "njegovi prijatelji", "en": "his friends" },
+        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo je", "en": "ate" },
+        { "w": "جَيِّدًا", "root": "ج ي د", "bs": "dobro", "en": "well" }
+      ]
     },
     {
       "arabic": "ابْتَسَمَ الأَبُ وَقَالَ «الحَمْدُ لِلَّهِ».",
       "translation": "Otac se nasmiješio i rekao «Hvala Bogu».",
-      "translationEn": "The father smiled and said «Thank God»."
+      "translationEn": "The father smiled and said «Thank God».",
+      "words": [
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" },
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" }
+      ]
     },
     {
       "arabic": "تَمَنَّى لَهُ لَيْلَةً هَانِئَةً وَنَامَ الوَلَدُ.",
       "translation": "Poželio mu mirnu noć i dječak je zaspao.",
-      "translationEn": "He wished him a peaceful night and the boy fell asleep."
+      "translationEn": "He wished him a peaceful night and the boy fell asleep.",
+      "words": [
+        { "w": "تَمَنَّى", "root": "م ن ي", "bs": "poželio je", "en": "wished" },
+        { "w": "لَيْلَةً", "root": "ل ي ل", "bs": "noć", "en": "night" },
+        { "w": "هَانِئَةً", "root": "ه ن أ", "bs": "mirna", "en": "peaceful" },
+        { "w": "نَامَ", "root": "ن و م", "bs": "zaspao je", "en": "fell asleep" },
+        { "w": "الوَلَدُ", "root": "و ل د", "bs": "dječak", "en": "the boy" }
+      ]
     }
   ],
   "metadata": {

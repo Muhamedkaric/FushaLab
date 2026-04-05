@@ -6,31 +6,165 @@
     {
       "arabic": "ذَهَبَ الطُّلَّابُ إِلَى المَلْعَبِ فِي حِصَّةِ التَّرْبِيَةِ البَدَنِيَّةِ.",
       "translation": "Učenici su otišli na teren na čas tjelesnog odgoja.",
-      "translationEn": "The students went to the field during physical education class."
+      "translationEn": "The students went to the field during physical education class.",
+      "words": [
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišli",
+          "en": "went"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "المَلْعَبِ",
+          "root": "ل ع ب",
+          "bs": "teren",
+          "en": "field"
+        },
+        {
+          "w": "التَّرْبِيَةِ",
+          "root": "ر ب و",
+          "bs": "odgoj",
+          "en": "education"
+        },
+        {
+          "w": "البَدَنِيَّةِ",
+          "root": "ب د ن",
+          "bs": "tjelesni",
+          "en": "physical"
+        }
+      ]
     },
     {
       "arabic": "لَعِبُوا كُرَةَ القَدَمِ وَاسْتَمْتَعُوا كَثِيرًا.",
       "translation": "Igrali su fudbal i jako se zabavljali.",
-      "translationEn": "They played football and had a great time."
+      "translationEn": "They played football and had a great time.",
+      "words": [
+        {
+          "w": "لَعِبُوا",
+          "root": "ل ع ب",
+          "bs": "igrali",
+          "en": "played"
+        },
+        {
+          "w": "كُرَةَ",
+          "root": "ك ر و",
+          "bs": "lopta",
+          "en": "ball"
+        },
+        {
+          "w": "القَدَمِ",
+          "root": "ق د م",
+          "bs": "fudbal",
+          "en": "football"
+        },
+        {
+          "w": "اسْتَمْتَعُوا",
+          "root": "م ت ع",
+          "bs": "zabavljali se",
+          "en": "enjoyed"
+        }
+      ]
     },
     {
       "arabic": "سَجَّلَ فَرِيقُ أَحْمَدَ هَدَفَيْنِ فِي المَبَارَاةِ.",
       "translation": "Ahmedov tim je postigao dva gola na utakmici.",
-      "translationEn": "Ahmed's team scored two goals in the match."
+      "translationEn": "Ahmed's team scored two goals in the match.",
+      "words": [
+        {
+          "w": "سَجَّلَ",
+          "root": "س ج ل",
+          "bs": "postigao",
+          "en": "scored"
+        },
+        {
+          "w": "فَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim",
+          "en": "team"
+        },
+        {
+          "w": "هَدَفَيْنِ",
+          "root": "ه د ف",
+          "bs": "dva gola",
+          "en": "two goals"
+        },
+        {
+          "w": "المَبَارَاةِ",
+          "root": "ب ر ي",
+          "bs": "utakmica",
+          "en": "match"
+        }
+      ]
     },
     {
       "arabic": "انْتَهَتِ المَبَارَاةُ وَعَادَ الجَمِيعُ إِلَى الفَصْلِ.",
       "translation": "Utakmica je završila i svi su se vratili u razred.",
-      "translationEn": "The match ended and everyone returned to class."
+      "translationEn": "The match ended and everyone returned to class.",
+      "words": [
+        {
+          "w": "انْتَهَتِ",
+          "root": "ن ه ي",
+          "bs": "završila",
+          "en": "ended"
+        },
+        {
+          "w": "المَبَارَاةُ",
+          "root": "ب ر ي",
+          "bs": "utakmica",
+          "en": "match"
+        },
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "الفَصْلِ",
+          "root": "ف ص ل",
+          "bs": "razred",
+          "en": "class"
+        }
+      ]
     },
     {
       "arabic": "كَانَ الطُّلَّابُ مُتْعَبِينَ لَكِنَّهُمْ سَعِيدُونَ.",
       "translation": "Učenici su bili umorni, ali sretni.",
-      "translationEn": "The students were tired but happy."
+      "translationEn": "The students were tired but happy.",
+      "words": [
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "مُتْعَبِينَ",
+          "root": "ت ع ب",
+          "bs": "umorni",
+          "en": "tired"
+        },
+        {
+          "w": "سَعِيدُونَ",
+          "root": "س ع د",
+          "bs": "sretni",
+          "en": "happy"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sports", "football", "physical-education"]
+    "tags": [
+      "sports",
+      "football",
+      "physical-education"
+    ]
   }
 }

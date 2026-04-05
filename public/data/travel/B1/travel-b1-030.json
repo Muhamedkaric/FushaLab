@@ -6,22 +6,44 @@
     {
       "arabic": "بَحَثَ إِبْرَاهِيمُ عَنْ فُنْدُقٍ رَخِيصٍ فِي الْمَدِينَةِ.",
       "translation": "Ibrahim je tražio jeftin hotel u gradu.",
-      "translationEn": "Ibrahim looked for a cheap hotel in the city."
+      "translationEn": "Ibrahim looked for a cheap hotel in the city.",
+      "words": [
+        { "w": "بَحَثَ", "root": "ب ح ث", "bs": "tražio je", "en": "looked for" },
+        { "w": "فُنْدُقٍ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
+        { "w": "رَخِيصٍ", "root": "ر خ ص", "bs": "jeftin", "en": "cheap" },
+        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "وَجَدَ فُنْدُقًا صَغِيرًا بِسِعْرٍ مُنَاسِبٍ.",
       "translation": "Pronašao je mali hotel po prikladnoj cijeni.",
-      "translationEn": "He found a small hotel at a reasonable price."
+      "translationEn": "He found a small hotel at a reasonable price.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
+        { "w": "فُنْدُقًا", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "مُنَاسِبٍ", "root": "ن س ب", "bs": "prikladna / razumna", "en": "reasonable" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْغُرْفَةُ نَظِيفَةً وَبِهَا نَافِذَةٌ كَبِيرَةٌ.",
       "translation": "Soba je bila čista i imala je veliki prozor.",
-      "translationEn": "The room was clean and had a large window."
+      "translationEn": "The room was clean and had a large window.",
+      "words": [
+        { "w": "الْغُرْفَةُ", "root": "غ ر ف", "bs": "soba", "en": "room" },
+        { "w": "نَظِيفَةً", "root": "ن ظ ف", "bs": "čista", "en": "clean" },
+        { "w": "نَافِذَةٌ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
+        { "w": "كَبِيرَةٌ", "root": "ك ب ر", "bs": "veliki", "en": "large" }
+      ]
     },
     {
       "arabic": "نَامَ إِبْرَاهِيمُ بِهُدُوءٍ تِلْكَ اللَّيْلَةَ.",
       "translation": "Ibrahim je mirno spavao te noći.",
-      "translationEn": "Ibrahim slept peacefully that night."
+      "translationEn": "Ibrahim slept peacefully that night.",
+      "words": [
+        { "w": "نَامَ", "root": "ن و م", "bs": "spavao je", "en": "slept" },
+        { "w": "اللَّيْلَةَ", "root": "ل ي ل", "bs": "noć", "en": "night" }
+      ]
     }
   ],
   "metadata": {

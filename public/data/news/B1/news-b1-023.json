@@ -6,26 +6,109 @@
     {
       "arabic": "أَعْلَنَ الْمَلْعَبُ عَنْ مُبَارَاةٍ لِكُرَةِ السَّلَّةِ يَوْمَ الْجُمُعَةِ.",
       "translation": "Sportski centar je objavio utakmicu košarke u petak.",
-      "translationEn": "The sports center announced a basketball match on Friday."
+      "translationEn": "The sports center announced a basketball match on Friday.",
+      "words": [
+        {
+          "w": "مُبَارَاةٍ",
+          "root": "ب ر أ",
+          "bs": "utakmicu",
+          "en": "match"
+        },
+        {
+          "w": "كُرَةِ السَّلَّةِ",
+          "bs": "košarke",
+          "en": "basketball"
+        }
+      ]
     },
     {
       "arabic": "تَنَافَسَ فَرِيقَانِ مِنْ أَحْيَاءٍ مُخْتَلِفَةٍ.",
       "translation": "Dva tima iz različitih kvartova su se takmičila.",
-      "translationEn": "Two teams from different neighborhoods competed."
+      "translationEn": "Two teams from different neighborhoods competed.",
+      "words": [
+        {
+          "w": "تَنَافَسَ",
+          "root": "ن ف س",
+          "bs": "takmičio se",
+          "en": "competed"
+        },
+        {
+          "w": "فَرِيقَانِ",
+          "root": "ف ر ق",
+          "bs": "dva tima",
+          "en": "two teams"
+        },
+        {
+          "w": "أَحْيَاءٍ",
+          "root": "ح ي ي",
+          "bs": "kvartova",
+          "en": "neighborhoods"
+        },
+        {
+          "w": "مُخْتَلِفَةٍ",
+          "root": "خ ل ف",
+          "bs": "različitih",
+          "en": "different"
+        }
+      ]
     },
     {
       "arabic": "كَانَتِ الْمُبَارَاةُ مُثِيرَةً وَانْتَهَتْ بِتَعَادُلٍ.",
       "translation": "Utakmica je bila uzbudljiva i završila je neriješenim rezultatom.",
-      "translationEn": "The match was exciting and ended in a draw."
+      "translationEn": "The match was exciting and ended in a draw.",
+      "words": [
+        {
+          "w": "الْمُبَارَاةُ",
+          "root": "ب ر أ",
+          "bs": "utakmica",
+          "en": "match"
+        },
+        {
+          "w": "مُثِيرَةً",
+          "root": "ث و ر",
+          "bs": "uzbudljiva",
+          "en": "exciting"
+        },
+        {
+          "w": "بِتَعَادُلٍ",
+          "root": "ع د ل",
+          "bs": "neriješenim",
+          "en": "draw"
+        }
+      ]
     },
     {
       "arabic": "قَرَّرَ الْجَمِيعُ إِعَادَةَ الْمُبَارَاةِ الأُسْبُوعَ الْقَادِمَ.",
       "translation": "Svi su odlučili ponoviti utakmicu sljedeće sedmice.",
-      "translationEn": "Everyone decided to replay the match next week."
+      "translationEn": "Everyone decided to replay the match next week.",
+      "words": [
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided"
+        },
+        {
+          "w": "إِعَادَةَ",
+          "root": "ع و د",
+          "bs": "ponavljanje",
+          "en": "replay"
+        },
+        {
+          "w": "الْمُبَارَاةِ",
+          "root": "ب ر أ",
+          "bs": "utakmice",
+          "en": "match"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sports", "basketball", "neighborhood"]
+    "tags": [
+      "sports",
+      "basketball",
+      "neighborhood"
+    ]
   }
 }

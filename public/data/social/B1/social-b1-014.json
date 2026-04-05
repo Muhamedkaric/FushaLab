@@ -6,22 +6,43 @@
     {
       "arabic": "طَرَقَ وَلِيدٌ بَابَ جَارِهِ.",
       "translation": "Walid je pokucao na vrata komšije.",
-      "translationEn": "Walid knocked on his neighbor's door."
+      "translationEn": "Walid knocked on his neighbor's door.",
+      "words": [
+        { "w": "طَرَقَ", "root": "ط ر ق", "bs": "pokucao je", "en": "knocked" },
+        { "w": "بَابَ", "root": "ب و ب", "bs": "vrata", "en": "door" },
+        { "w": "جَارِهِ", "root": "ج و ر", "bs": "komšije", "en": "neighbor" }
+      ]
     },
     {
       "arabic": "طَلَبَ مِنْهُ قَهْوَةً صَغِيرَةً.",
       "translation": "Zatražio je od njega malo kafe.",
-      "translationEn": "He asked him for a little coffee."
+      "translationEn": "He asked him for a little coffee.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zatražio je", "en": "asked for" },
+        { "w": "قَهْوَةً", "root": "ق هـ و", "bs": "kafe", "en": "coffee" },
+        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "malo", "en": "little" }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ الجَارُ القَهْوَةَ وَابْتَسَمَ.",
       "translation": "Komšija mu je dao kafu i nasmiješio se.",
-      "translationEn": "The neighbor gave him the coffee and smiled."
+      "translationEn": "The neighbor gave him the coffee and smiled.",
+      "words": [
+        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "gave him" },
+        { "w": "الجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
+        { "w": "القَهْوَةَ", "root": "ق هـ و", "bs": "kafu", "en": "coffee" },
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" }
+      ]
     },
     {
       "arabic": "شَكَرَهُ وَعَدَ أَنْ يُعِيدَ لَهُ ذَلِكَ.",
       "translation": "Zahvalio mu je i obećao da će mu uzvratiti.",
-      "translationEn": "He thanked him and promised to return the favor."
+      "translationEn": "He thanked him and promised to return the favor.",
+      "words": [
+        { "w": "شَكَرَهُ", "root": "ش ك ر", "bs": "zahvalio mu je", "en": "thanked him" },
+        { "w": "وَعَدَ", "root": "و ع د", "bs": "obećao je", "en": "promised" },
+        { "w": "يُعِيدَ", "root": "ع و د", "bs": "uzvratiti", "en": "return" }
+      ]
     }
   ],
   "metadata": {

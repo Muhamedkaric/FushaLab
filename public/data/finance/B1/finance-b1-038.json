@@ -6,22 +6,46 @@
     {
       "arabic": "أَرْسَلَتِ الأُمُّ ابْنَهَا لِشِرَاءِ الخُبْزِ مِنَ الفُرْنِ.",
       "translation": "Majka je poslala sina da kupi hljeb iz pekare.",
-      "translationEn": "The mother sent her son to buy bread from the bakery."
+      "translationEn": "The mother sent her son to buy bread from the bakery.",
+      "words": [
+        { "w": "أَرْسَلَتِ", "root": "ر س ل", "bs": "poslala je", "en": "sent" },
+        { "w": "ابْنَهَا", "root": "ب ن ي", "bs": "njen sin", "en": "her son" },
+        { "w": "لِشِرَاءِ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "الخُبْزِ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" }
+      ]
     },
     {
       "arabic": "أَعْطَتْهُ عَشَرَةَ دَرَاهِمَ وَطَلَبَتْ ثَلَاثَةَ أَرْغِفَةٍ.",
       "translation": "Dala mu je deset dirhema i tražila tri hljeba.",
-      "translationEn": "She gave him ten dirhams and asked for three loaves."
+      "translationEn": "She gave him ten dirhams and asked for three loaves.",
+      "words": [
+        { "w": "أَعْطَتْهُ", "root": "ع ط و", "bs": "dala mu je", "en": "gave him" },
+        { "w": "دَرَاهِمَ", "root": "د ر ه م", "bs": "dirhema", "en": "dirhams" },
+        { "w": "طَلَبَتْ", "root": "ط ل ب", "bs": "tražila je", "en": "asked for" },
+        { "w": "أَرْغِفَةٍ", "root": "ر غ ف", "bs": "hljebova", "en": "loaves" }
+      ]
     },
     {
       "arabic": "ذَهَبَ وَاشْتَرَى الأَرْغِفَةَ وَأَخَذَ البَاقِيَ.",
       "translation": "Otišao je i kupio hljebove i uzeo ostatak.",
-      "translationEn": "He went and bought the loaves and took the change."
+      "translationEn": "He went and bought the loaves and took the change.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "الأَرْغِفَةَ", "root": "ر غ ف", "bs": "hljebove", "en": "loaves" },
+        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
+        { "w": "البَاقِيَ", "root": "ب ق ي", "bs": "kusur", "en": "change" }
+      ]
     },
     {
       "arabic": "عَادَ إِلَى البَيْتِ وَأَعْطَى الأُمَّ الخُبْزَ وَالباقِيَ.",
       "translation": "Vratio se kući i dao majci hljeb i kusur.",
-      "translationEn": "He returned home and gave his mother the bread and the change."
+      "translationEn": "He returned home and gave his mother the bread and the change.",
+      "words": [
+        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
+        { "w": "أَعْطَى", "root": "ع ط و", "bs": "dao je", "en": "gave" },
+        { "w": "الخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
+        { "w": "الباقِيَ", "root": "ب ق ي", "bs": "kusur", "en": "change" }
+      ]
     }
   ],
   "metadata": {

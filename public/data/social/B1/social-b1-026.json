@@ -6,22 +6,46 @@
     {
       "arabic": "يَلْعَبُ بَاسِمٌ كُرَةَ القَدَمِ مَعَ أَصْدِقَائِهِ كُلَّ جُمُعَةٍ.",
       "translation": "Basim igra fudbal sa prijateljima svaki petak.",
-      "translationEn": "Basim plays football with his friends every Friday."
+      "translationEn": "Basim plays football with his friends every Friday.",
+      "words": [
+        { "w": "يَلْعَبُ", "root": "ل ع ب", "bs": "igra", "en": "plays" },
+        { "w": "كُرَةَ", "root": "ك ر و", "bs": "loptu", "en": "ball" },
+        { "w": "القَدَمِ", "root": "ق د م", "bs": "fudbal (noga)", "en": "foot" },
+        { "w": "أَصْدِقَائِهِ", "root": "ص د ق", "bs": "prijatelja", "en": "friends" },
+        { "w": "جُمُعَةٍ", "root": "ج م ع", "bs": "petak", "en": "Friday" }
+      ]
     },
     {
       "arabic": "يَجْتَمِعُونَ فِي المَلْعَبِ فِي الرَّابِعَةِ مَسَاءً.",
       "translation": "Skupljaju se na terenu u četiri popodne.",
-      "translationEn": "They gather at the field at four in the afternoon."
+      "translationEn": "They gather at the field at four in the afternoon.",
+      "words": [
+        { "w": "يَجْتَمِعُونَ", "root": "ج م ع", "bs": "skupljaju se", "en": "they gather" },
+        { "w": "المَلْعَبِ", "root": "ل ع ب", "bs": "terenu", "en": "field" },
+        { "w": "مَسَاءً", "root": "م س و", "bs": "popodne", "en": "afternoon" }
+      ]
     },
     {
       "arabic": "يَلْعَبُونَ لِمُدَّةِ سَاعَةٍ ثُمَّ يَسْتَرِيحُونَ.",
       "translation": "Igraju sat vremena, a zatim se odmaraju.",
-      "translationEn": "They play for one hour then rest."
+      "translationEn": "They play for one hour then rest.",
+      "words": [
+        { "w": "يَلْعَبُونَ", "root": "ل ع ب", "bs": "igraju", "en": "they play" },
+        { "w": "مُدَّةِ", "root": "م د د", "bs": "trajanje", "en": "duration" },
+        { "w": "سَاعَةٍ", "root": "س و ع", "bs": "sat", "en": "hour" },
+        { "w": "يَسْتَرِيحُونَ", "root": "ر و ح", "bs": "odmaraju se", "en": "they rest" }
+      ]
     },
     {
       "arabic": "بَعْدَ اللُّعْبَةِ يَشْرَبُونَ المَاءَ وَيَتَحَدَّثُونَ.",
       "translation": "Nakon igre piju vodu i razgovaraju.",
-      "translationEn": "After the game they drink water and talk."
+      "translationEn": "After the game they drink water and talk.",
+      "words": [
+        { "w": "اللُّعْبَةِ", "root": "ل ع ب", "bs": "igre", "en": "game" },
+        { "w": "يَشْرَبُونَ", "root": "ش ر ب", "bs": "piju", "en": "they drink" },
+        { "w": "المَاءَ", "root": "م و ه", "bs": "vodu", "en": "water" },
+        { "w": "يَتَحَدَّثُونَ", "root": "ح د ث", "bs": "razgovaraju", "en": "they talk" }
+      ]
     }
   ],
   "metadata": {

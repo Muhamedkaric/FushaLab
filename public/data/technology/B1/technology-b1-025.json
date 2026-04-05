@@ -6,22 +6,119 @@
     {
       "arabic": "فَتَحَ نَادِرٌ الْحَاسُوبَ الْمَحْمُولَ فِي الْمَقْهَى.",
       "translation": "Nadir je otvorio laptop u kafiću.",
-      "translationEn": "Nadir opened the laptop in the cafe."
+      "translationEn": "Nadir opened the laptop in the cafe.",
+      "words": [
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened"
+        },
+        {
+          "w": "الْحَاسُوبَ الْمَحْمُولَ",
+          "root": "ح م ل",
+          "bs": "laptop",
+          "en": "the laptop"
+        },
+        {
+          "w": "الْمَقْهَى",
+          "root": "ق ه و",
+          "bs": "kafiću",
+          "en": "the cafe"
+        }
+      ]
     },
     {
       "arabic": "اتَّصَلَ بِشَبَكَةِ الْوِاي فَاي وَبَدَأَ عَمَلَهُ.",
       "translation": "Spojio se na Wi-Fi i počeo raditi.",
-      "translationEn": "He connected to the Wi-Fi and started his work."
+      "translationEn": "He connected to the Wi-Fi and started his work.",
+      "words": [
+        {
+          "w": "اتَّصَلَ",
+          "root": "و ص ل",
+          "bs": "spojio se",
+          "en": "connected"
+        },
+        {
+          "w": "شَبَكَةِ الْوِاي فَاي",
+          "bs": "Wi-Fi mrežu",
+          "en": "the Wi-Fi network"
+        },
+        {
+          "w": "بَدَأَ",
+          "root": "ب د أ",
+          "bs": "počeo je",
+          "en": "started"
+        },
+        {
+          "w": "عَمَلَهُ",
+          "root": "ع م ل",
+          "bs": "raditi",
+          "en": "his work"
+        }
+      ]
     },
     {
       "arabic": "شَرِبَ الْقَهْوَةَ وَعَمِلَ سَاعَةً كَامِلَةً.",
       "translation": "Pio je kafu i radio cijeli sat.",
-      "translationEn": "He drank coffee and worked for a full hour."
+      "translationEn": "He drank coffee and worked for a full hour.",
+      "words": [
+        {
+          "w": "شَرِبَ",
+          "root": "ش ر ب",
+          "bs": "pio je",
+          "en": "drank"
+        },
+        {
+          "w": "الْقَهْوَةَ",
+          "root": "ق ه و",
+          "bs": "kafu",
+          "en": "coffee"
+        },
+        {
+          "w": "عَمِلَ",
+          "root": "ع م ل",
+          "bs": "radio je",
+          "en": "worked"
+        },
+        {
+          "w": "سَاعَةً",
+          "root": "س و ع",
+          "bs": "sat",
+          "en": "an hour"
+        }
+      ]
     },
     {
       "arabic": "أَنْهَى عَمَلَهُ وَأَغْلَقَ الْحَاسُوبَ.",
       "translation": "Završio je posao i zatvorio laptop.",
-      "translationEn": "He finished his work and closed the laptop."
+      "translationEn": "He finished his work and closed the laptop.",
+      "words": [
+        {
+          "w": "أَنْهَى",
+          "root": "ن ه ي",
+          "bs": "završio je",
+          "en": "finished"
+        },
+        {
+          "w": "عَمَلَهُ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "his work"
+        },
+        {
+          "w": "أَغْلَقَ",
+          "root": "غ ل ق",
+          "bs": "zatvorio je",
+          "en": "closed"
+        },
+        {
+          "w": "الْحَاسُوبَ",
+          "root": "ح س ب",
+          "bs": "laptop",
+          "en": "the laptop"
+        }
+      ]
     }
   ],
   "metadata": {

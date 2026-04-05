@@ -6,22 +6,47 @@
     {
       "arabic": "نَظَرَ الطِّفْلُ مُصْطَفَى إِلَى السَّمَاءِ وَرَأَى النُّجُومَ.",
       "translation": "Dijete Mustafa je pogledalo u nebo i vidjelo zvijezde.",
-      "translationEn": "The child Mustafa looked at the sky and saw the stars."
+      "translationEn": "The child Mustafa looked at the sky and saw the stars.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" },
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "السَّمَاءِ", "root": "س م و", "bs": "nebo", "en": "sky" },
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
+        { "w": "النُّجُومَ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" }
+      ]
     },
     {
       "arabic": "سَأَلَ أَبَاهُ مَا هِيَ النُّجُومُ وَكَيْفَ تَضِيءُ.",
       "translation": "Pitao je oca šta su zvijezde i kako sjaje.",
-      "translationEn": "He asked his father what the stars are and how they shine."
+      "translationEn": "He asked his father what the stars are and how they shine.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "أَبَاهُ", "root": "أ ب و", "bs": "njegov otac", "en": "his father" },
+        { "w": "النُّجُومُ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" },
+        { "w": "تَضِيءُ", "root": "ض و أ", "bs": "sjaje/osvjetljavaju", "en": "shine/illuminate" }
+      ]
     },
     {
       "arabic": "جَلَسَ الأَبُ مَعَهُ وَشَرَحَ لَهُ عَنِ الْكَوْنِ وَالنُّجُومِ.",
       "translation": "Otac je sjeo s njim i objasnio mu o svemiru i zvijezdama.",
-      "translationEn": "The father sat with him and explained about the universe and stars."
+      "translationEn": "The father sat with him and explained about the universe and stars.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
+        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "شَرَحَ", "root": "ش ر ح", "bs": "objasnio je", "en": "explained" },
+        { "w": "الْكَوْنِ", "root": "ك و ن", "bs": "svemir/vasiona", "en": "universe" },
+        { "w": "النُّجُومِ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" }
+      ]
     },
     {
       "arabic": "نَامَ مُصْطَفَى بَعْدَ ذَلِكَ وَهُوَ يَحْلُمُ بِالنُّجُومِ.",
       "translation": "Mustafa je poslije toga zaspao sanjarući o zvijezdama.",
-      "translationEn": "Mustafa fell asleep afterward dreaming about the stars."
+      "translationEn": "Mustafa fell asleep afterward dreaming about the stars.",
+      "words": [
+        { "w": "نَامَ", "root": "ن و م", "bs": "zaspao je", "en": "fell asleep" },
+        { "w": "يَحْلُمُ", "root": "ح ل م", "bs": "sanjarući/sanjao je", "en": "dreaming" },
+        { "w": "النُّجُومِ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" }
+      ]
     }
   ],
   "metadata": {

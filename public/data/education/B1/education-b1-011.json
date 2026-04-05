@@ -6,31 +6,171 @@
     {
       "arabic": "أَعْلَنَ المُدِيرُ عَنْ رِحْلَةٍ مَدْرَسِيَّةٍ إِلَى الحَدِيقَةِ.",
       "translation": "Direktor je objavio školski izlet u park.",
-      "translationEn": "The principal announced a school trip to the park."
+      "translationEn": "The principal announced a school trip to the park.",
+      "words": [
+        {
+          "w": "أَعْلَنَ",
+          "root": "ع ل ن",
+          "bs": "objavio",
+          "en": "announced"
+        },
+        {
+          "w": "المُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor",
+          "en": "principal"
+        },
+        {
+          "w": "رِحْلَةٍ",
+          "root": "ر ح ل",
+          "bs": "izlet/putovanje",
+          "en": "trip"
+        },
+        {
+          "w": "مَدْرَسِيَّةٍ",
+          "root": "د ر س",
+          "bs": "školski",
+          "en": "school"
+        },
+        {
+          "w": "الحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "park",
+          "en": "park"
+        }
+      ]
     },
     {
       "arabic": "فَرِحَ الطُّلَّابُ كَثِيرًا عِنْدَمَا سَمِعُوا الخَبَرَ.",
       "translation": "Učenici su se jako obradovali kad su čuli vijest.",
-      "translationEn": "The students were very happy when they heard the news."
+      "translationEn": "The students were very happy when they heard the news.",
+      "words": [
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovali se",
+          "en": "were happy"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "سَمِعُوا",
+          "root": "س م ع",
+          "bs": "čuli",
+          "en": "heard"
+        },
+        {
+          "w": "الخَبَرَ",
+          "root": "خ ب ر",
+          "bs": "vijest",
+          "en": "news"
+        }
+      ]
     },
     {
       "arabic": "رَكِبُوا الحَافِلَةَ وَغَنَّوْا فِي الطَّرِيقِ.",
       "translation": "Ukrcali su se u autobus i pjevali na putu.",
-      "translationEn": "They boarded the bus and sang on the way."
+      "translationEn": "They boarded the bus and sang on the way.",
+      "words": [
+        {
+          "w": "رَكِبُوا",
+          "root": "ر ك ب",
+          "bs": "ukrcali su se",
+          "en": "boarded"
+        },
+        {
+          "w": "الحَافِلَةَ",
+          "root": "ح ف ل",
+          "bs": "autobus",
+          "en": "bus"
+        },
+        {
+          "w": "غَنَّوْا",
+          "root": "غ ن ي",
+          "bs": "pjevali",
+          "en": "sang"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "put",
+          "en": "way/road"
+        }
+      ]
     },
     {
       "arabic": "لَعِبُوا فِي الحَدِيقَةِ وَأَكَلُوا الغَدَاءَ هُنَاكَ.",
       "translation": "Igrali su se u parku i tamo ručali.",
-      "translationEn": "They played in the park and ate lunch there."
+      "translationEn": "They played in the park and ate lunch there.",
+      "words": [
+        {
+          "w": "لَعِبُوا",
+          "root": "ل ع ب",
+          "bs": "igrali su se",
+          "en": "played"
+        },
+        {
+          "w": "الحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "park",
+          "en": "park"
+        },
+        {
+          "w": "أَكَلُوا",
+          "root": "أ ك ل",
+          "bs": "jeli",
+          "en": "ate"
+        },
+        {
+          "w": "الغَدَاءَ",
+          "root": "غ د و",
+          "bs": "ručak",
+          "en": "lunch"
+        }
+      ]
     },
     {
       "arabic": "عَادُوا إِلَى المَدْرَسَةِ مَسْرُورِينَ وَمُتْعَبِينَ.",
       "translation": "Vratili su se u školu veseli i umorni.",
-      "translationEn": "They returned to school happy and tired."
+      "translationEn": "They returned to school happy and tired.",
+      "words": [
+        {
+          "w": "عَادُوا",
+          "root": "ع و د",
+          "bs": "vratili su se",
+          "en": "returned"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        },
+        {
+          "w": "مَسْرُورِينَ",
+          "root": "س ر ر",
+          "bs": "veseli",
+          "en": "happy"
+        },
+        {
+          "w": "مُتْعَبِينَ",
+          "root": "ت ع ب",
+          "bs": "umorni",
+          "en": "tired"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school-trip", "park", "fun"]
+    "tags": [
+      "school-trip",
+      "park",
+      "fun"
+    ]
   }
 }

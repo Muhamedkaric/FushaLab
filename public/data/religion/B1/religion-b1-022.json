@@ -6,22 +6,126 @@
     {
       "arabic": "تَصَدَّقَ سَعِيدٌ بِجُزْءٍ مِنْ مَالِهِ كُلَّ أُسْبُوعٍ.",
       "translation": "Saeed je svake sedmice davao sadaku od svog imetka.",
-      "translationEn": "Saeed gave charity from his money every week."
+      "translationEn": "Saeed gave charity from his money every week.",
+      "words": [
+        {
+          "w": "تَصَدَّقَ",
+          "root": "ص د ق",
+          "bs": "davao je sadaku",
+          "en": "gave charity"
+        },
+        {
+          "w": "جُزْءٍ",
+          "root": "ج ز أ",
+          "bs": "dio",
+          "en": "a portion"
+        },
+        {
+          "w": "مَالِهِ",
+          "root": "م و ل",
+          "bs": "imetka",
+          "en": "his money"
+        },
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "أ س ب",
+          "bs": "sedmice",
+          "en": "every week"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَى الْمِسْكِينَ الَّذِي يَجْلِسُ أَمَامَ الْمَسْجِدِ.",
       "translation": "Davao je siromahu koji sjedi ispred džamije.",
-      "translationEn": "He gave to the poor man sitting in front of the mosque."
+      "translationEn": "He gave to the poor man sitting in front of the mosque.",
+      "words": [
+        {
+          "w": "أَعْطَى",
+          "root": "ع ط و",
+          "bs": "davao je",
+          "en": "gave"
+        },
+        {
+          "w": "الْمِسْكِينَ",
+          "root": "م س ك",
+          "bs": "siromahu",
+          "en": "the poor man"
+        },
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedi",
+          "en": "sitting"
+        },
+        {
+          "w": "أَمَامَ",
+          "root": "أ م م",
+          "bs": "ispred",
+          "en": "in front of"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "root": "س ج د",
+          "bs": "džamije",
+          "en": "the mosque"
+        }
+      ]
     },
     {
       "arabic": "لَمْ يَمُنَّ عَلَيْهِ وَلَمْ يُؤْذِهِ بِالْكَلَامِ.",
       "translation": "Nije ga uznemiravao niti ga vrijedio riječima.",
-      "translationEn": "He did not make him feel obligated or hurt him with words."
+      "translationEn": "He did not make him feel obligated or hurt him with words.",
+      "words": [
+        {
+          "w": "يَمُنَّ",
+          "root": "م ن ن",
+          "bs": "uznemiravao ga",
+          "en": "made feel obligated"
+        },
+        {
+          "w": "يُؤْذِهِ",
+          "root": "أ ذ ي",
+          "bs": "vrijedio ga",
+          "en": "hurt him"
+        },
+        {
+          "w": "بِالْكَلَامِ",
+          "root": "ك ل م",
+          "bs": "riječima",
+          "en": "with words"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ: الصَّدَقَةُ تُطَهِّرُ الْقَلْبَ وَالْمَالَ.",
       "translation": "Kaže: Sadaka čisti srce i imetak.",
-      "translationEn": "He says: Charity purifies the heart and wealth."
+      "translationEn": "He says: Charity purifies the heart and wealth.",
+      "words": [
+        {
+          "w": "الصَّدَقَةُ",
+          "root": "ص د ق",
+          "bs": "sadaka",
+          "en": "charity"
+        },
+        {
+          "w": "تُطَهِّرُ",
+          "root": "ط ه ر",
+          "bs": "čisti",
+          "en": "purifies"
+        },
+        {
+          "w": "الْقَلْبَ",
+          "root": "ق ل ب",
+          "bs": "srce",
+          "en": "the heart"
+        },
+        {
+          "w": "الْمَالَ",
+          "root": "م و ل",
+          "bs": "imetak",
+          "en": "wealth"
+        }
+      ]
     }
   ],
   "metadata": {

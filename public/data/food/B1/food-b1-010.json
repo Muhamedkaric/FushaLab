@@ -6,22 +6,50 @@
     {
       "arabic": "أَعَدَّتِ الْجَدَّةُ طَبَقًا تَقْلِيدِيًّا لِلْعَائِلَةِ.",
       "translation": "Baka je pripremila tradicionalno jelo za porodicu.",
-      "translationEn": "The grandmother prepared a traditional dish for the family."
+      "translationEn": "The grandmother prepared a traditional dish for the family.",
+      "words": [
+        { "w": "أَعَدَّتِ", "root": "ع د د", "bs": "pripremila je", "en": "prepared" },
+        { "w": "الْجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "طَبَقًا", "root": "ط ب ق", "bs": "jelo/tanjir", "en": "dish/plate" },
+        { "w": "تَقْلِيدِيًّا", "root": "ق ل د", "bs": "tradicionalno", "en": "traditional" },
+        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodica", "en": "family" }
+      ]
     },
     {
       "arabic": "طَبَخَتِ الْمَنْسَفَ بِاللَّحْمِ وَالْأَرُزِّ وَاللَّبَنِ.",
       "translation": "Skuhala je mansaf s mesom, pirinčem i jogurtom.",
-      "translationEn": "She cooked mansaf with meat, rice, and yogurt."
+      "translationEn": "She cooked mansaf with meat, rice, and yogurt.",
+      "words": [
+        { "w": "طَبَخَتِ", "root": "ط ب خ", "bs": "skuhala je", "en": "cooked" },
+        { "w": "الْمَنْسَفَ", "root": "ن س ف", "bs": "mansaf (tradicionalno jelo)", "en": "mansaf (traditional dish)" },
+        { "w": "اللَّحْمِ", "root": "ل ح م", "bs": "meso", "en": "meat" },
+        { "w": "الْأَرُزِّ", "root": "أ ر ز", "bs": "pirinač/riža", "en": "rice" },
+        { "w": "اللَّبَنِ", "root": "ل ب ن", "bs": "jogurt/kiselo mlijeko", "en": "yogurt" }
+      ]
     },
     {
       "arabic": "جَلَسَ الْجَمِيعُ حَوْلَ الطَّبَقِ الْكَبِيرِ وَأَكَلُوا.",
       "translation": "Svi su sjeli oko velikog tanjira i jeli.",
-      "translationEn": "Everyone sat around the large plate and ate."
+      "translationEn": "Everyone sat around the large plate and ate.",
+      "words": [
+        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeli su/sjeo je", "en": "sat" },
+        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
+        { "w": "الطَّبَقِ", "root": "ط ب ق", "bs": "tanjir/posuda", "en": "plate/dish" },
+        { "w": "الْكَبِيرِ", "root": "ك ب ر", "bs": "veliki/velikom", "en": "large/big" },
+        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" }
+      ]
     },
     {
       "arabic": "قَالَتِ الْجَدَّةُ: الطَّعَامُ يَجْمَعُ الْعَائِلَةَ.",
       "translation": "Baka je rekla: Hrana okuplja porodicu.",
-      "translationEn": "The grandmother said: Food brings the family together."
+      "translationEn": "The grandmother said: Food brings the family together.",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
+        { "w": "الْجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
+        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
+        { "w": "يَجْمَعُ", "root": "ج م ع", "bs": "okuplja/spaja", "en": "brings together/gathers" },
+        { "w": "الْعَائِلَةَ", "root": "ع و ل", "bs": "porodicu", "en": "family" }
+      ]
     }
   ],
   "metadata": {

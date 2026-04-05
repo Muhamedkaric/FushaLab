@@ -6,22 +6,47 @@
     {
       "arabic": "أَرَادَ وَلَدٌ اسْمُهُ صَالِحٌ أَنْ يُهْدِيَ أُمَّهُ شَيْئًا فِي عِيدِ الْأُمِّ.",
       "translation": "Dječak po imenu Salih je htio pokloniti majci nešto za Dan majki.",
-      "translationEn": "A boy named Salih wanted to give his mother a gift on Mother's Day."
+      "translationEn": "A boy named Salih wanted to give his mother a gift on Mother's Day.",
+      "words": [
+        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
+        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" },
+        { "w": "يُهْدِيَ", "root": "ه د ي", "bs": "pokloni", "en": "give a gift" },
+        { "w": "أُمَّهُ", "root": "أ م م", "bs": "majka mu", "en": "his mother" },
+        { "w": "عِيدِ", "root": "ع ي د", "bs": "dan", "en": "day" }
+      ]
     },
     {
       "arabic": "لَمْ يَكُنْ عِنْدَهُ مَالٌ كَثِيرٌ فَفَكَّرَ كَثِيرًا.",
       "translation": "Nije imao mnogo novca pa je puno razmišljao.",
-      "translationEn": "He did not have much money so he thought a lot."
+      "translationEn": "He did not have much money so he thought a lot.",
+      "words": [
+        { "w": "مَالٌ", "root": "م و ل", "bs": "novac", "en": "money" },
+        { "w": "كَثِيرٌ", "root": "ك ث ر", "bs": "mnogo", "en": "much" },
+        { "w": "فَكَّرَ", "root": "ف ك ر", "bs": "razmišljao je", "en": "thought" }
+      ]
     },
     {
       "arabic": "رَسَمَ صُورَتَهَا وَكَتَبَ عَلَيْهَا: «أَنْتِ أَحْسَنُ أُمٍّ فِي الْعَالَمِ».",
       "translation": "Nacrtao je njenu sliku i napisao na njoj: «Ti si najbolja majka na svijetu».",
-      "translationEn": "He drew her portrait and wrote on it: «You are the best mother in the world»."
+      "translationEn": "He drew her portrait and wrote on it: «You are the best mother in the world».",
+      "words": [
+        { "w": "رَسَمَ", "root": "ر س م", "bs": "nacrtao je", "en": "drew" },
+        { "w": "صُورَتَهَا", "root": "ص و ر", "bs": "njenu sliku", "en": "her portrait" },
+        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
+        { "w": "أَحْسَنُ", "root": "ح س ن", "bs": "najbolja", "en": "best" },
+        { "w": "الْعَالَمِ", "root": "ع ل م", "bs": "svijet", "en": "world" }
+      ]
     },
     {
       "arabic": "بَكَتِ الأُمُّ مِنَ الْفَرَحِ وَاحْتَضَنَتْهُ.",
       "translation": "Majka je zaplakala od radosti i zagrlila ga.",
-      "translationEn": "His mother cried from joy and hugged him."
+      "translationEn": "His mother cried from joy and hugged him.",
+      "words": [
+        { "w": "بَكَتِ", "root": "ب ك ي", "bs": "zaplakala je", "en": "cried" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "الْفَرَحِ", "root": "ف ر ح", "bs": "radost", "en": "joy" },
+        { "w": "احْتَضَنَتْهُ", "root": "ح ض ن", "bs": "zagrlila ga je", "en": "hugged him" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,43 @@
     {
       "arabic": "رَكِبَتِ الْعَائِلَةُ الْحَافِلَةَ إِلَى وَسَطِ الْمَدِينَةِ.",
       "translation": "Porodica je sjela u autobus do centra grada.",
-      "translationEn": "The family took the bus to the city center."
+      "translationEn": "The family took the bus to the city center.",
+      "words": [
+        { "w": "رَكِبَتِ", "root": "ر ك ب", "bs": "sjeli su u / vozili su", "en": "rode / took" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "الْحَافِلَةَ", "root": "ح ف ل", "bs": "autobus", "en": "bus" },
+        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْحَافِلَةُ مَلِيئَةً بِالنَّاسِ وَلَكِنَّهَا مَرِيحَةٌ.",
       "translation": "Autobus je bio pun ljudi ali udoban.",
-      "translationEn": "The bus was full of people but comfortable."
+      "translationEn": "The bus was full of people but comfortable.",
+      "words": [
+        { "w": "الْحَافِلَةُ", "root": "ح ف ل", "bs": "autobus", "en": "bus" },
+        { "w": "مَلِيئَةً", "root": "م ل أ", "bs": "puna", "en": "full" },
+        { "w": "مَرِيحَةٌ", "root": "ر و ح", "bs": "udobna", "en": "comfortable" }
+      ]
     },
     {
       "arabic": "نَزَلُوا أَمَامَ الْمَسْجِدِ الْكَبِيرِ فِي وَسَطِ الْمَدِينَةِ.",
       "translation": "Izašli su ispred velike džamije u centru.",
-      "translationEn": "They got off in front of the big mosque in the city center."
+      "translationEn": "They got off in front of the big mosque in the city center.",
+      "words": [
+        { "w": "نَزَلُوا", "root": "ن ز ل", "bs": "izašli su", "en": "got off" },
+        { "w": "الْمَسْجِدِ", "root": "س ج د", "bs": "džamija", "en": "mosque" },
+        { "w": "الْكَبِيرِ", "root": "ك ب ر", "bs": "velika", "en": "big" }
+      ]
     },
     {
       "arabic": "مَشَوْا فِي الشَّوَارِعِ وَنَظَرُوا إِلَى الْمَحَلَّاتِ.",
       "translation": "Šetali su ulicama i gledali u prodavnice.",
-      "translationEn": "They walked through the streets and looked at the shops."
+      "translationEn": "They walked through the streets and looked at the shops.",
+      "words": [
+        { "w": "مَشَوْا", "root": "م ش ي", "bs": "šetali su", "en": "walked" },
+        { "w": "الشَّوَارِعِ", "root": "ش ر ع", "bs": "ulice", "en": "streets" },
+        { "w": "الْمَحَلَّاتِ", "root": "ح ل ل", "bs": "prodavnice", "en": "shops" }
+      ]
     }
   ],
   "metadata": {

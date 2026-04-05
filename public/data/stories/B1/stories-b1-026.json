@@ -6,22 +6,48 @@
     {
       "arabic": "كَانَ كَلْبٌ صَغِيرٌ اسْمُهُ بِشَارٌ يَلْعَبُ فِي الْحَدِيقَةِ.",
       "translation": "Bio je mali pas po imenu Bišar koji se igrao u vrtu.",
-      "translationEn": "There was a small dog named Bishar who played in the garden."
+      "translationEn": "There was a small dog named Bishar who played in the garden.",
+      "words": [
+        { "w": "كَلْبٌ", "root": "ك ل ب", "bs": "pas", "en": "dog" },
+        { "w": "صَغِيرٌ", "root": "ص غ ر", "bs": "mali", "en": "small" },
+        { "w": "يَلْعَبُ", "root": "ل ع ب", "bs": "igrao se", "en": "played" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+      ]
     },
     {
       "arabic": "ذَاتَ يَوْمٍ سَقَطَ فِي حُفْرَةٍ عَمِيقَةٍ وَلَمْ يَسْتَطِعِ الْخُرُوجَ.",
       "translation": "Jednog dana je upao u duboku jamu i nije mogao izaći.",
-      "translationEn": "One day he fell into a deep hole and could not get out."
+      "translationEn": "One day he fell into a deep hole and could not get out.",
+      "words": [
+        { "w": "سَقَطَ", "root": "س ق ط", "bs": "upao je", "en": "fell" },
+        { "w": "حُفْرَةٍ", "root": "ح ف ر", "bs": "jama", "en": "hole" },
+        { "w": "عَمِيقَةٍ", "root": "ع م ق", "bs": "duboka", "en": "deep" },
+        { "w": "الْخُرُوجَ", "root": "خ ر ج", "bs": "izaći", "en": "to get out" }
+      ]
     },
     {
       "arabic": "نَبَحَ بِصَوْتٍ عَالٍ فَسَمِعَهُ وَلَدٌ صَغِيرٌ.",
       "translation": "Lajao je glasno i čuo ga je mali dječak.",
-      "translationEn": "He barked loudly and a small boy heard him."
+      "translationEn": "He barked loudly and a small boy heard him.",
+      "words": [
+        { "w": "نَبَحَ", "root": "ن ب ح", "bs": "lajao je", "en": "barked" },
+        { "w": "بِصَوْتٍ", "root": "ص و ت", "bs": "glasom", "en": "voice" },
+        { "w": "عَالٍ", "root": "ع ل و", "bs": "glasan", "en": "loud" },
+        { "w": "سَمِعَهُ", "root": "س م ع", "bs": "čuo ga je", "en": "heard him" },
+        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" }
+      ]
     },
     {
       "arabic": "جَاءَ الْوَلَدُ بِحَبْلٍ وَأَخْرَجَ بِشَارًا مِنَ الْحُفْرَةِ.",
       "translation": "Dječak je došao s užetom i izvukao Bišara iz jame.",
-      "translationEn": "The boy came with a rope and pulled Bishar out of the hole."
+      "translationEn": "The boy came with a rope and pulled Bishar out of the hole.",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došao je", "en": "came" },
+        { "w": "الْوَلَدُ", "root": "و ل د", "bs": "dječak", "en": "boy" },
+        { "w": "بِحَبْلٍ", "root": "ح ب ل", "bs": "s užetom", "en": "with a rope" },
+        { "w": "أَخْرَجَ", "root": "خ ر ج", "bs": "izvukao je", "en": "pulled out" },
+        { "w": "الْحُفْرَةِ", "root": "ح ف ر", "bs": "jama", "en": "hole" }
+      ]
     }
   ],
   "metadata": {

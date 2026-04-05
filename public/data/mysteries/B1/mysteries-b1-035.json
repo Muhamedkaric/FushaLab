@@ -6,27 +6,56 @@
     {
       "arabic": "رَأَتْ أَمَلُ أَنَّ كُلَّ مَاءِ الزُّجَاجَةِ اخْتَفَى.",
       "translation": "Amal je vidjela da je sva voda iz flaše nestala.",
-      "translationEn": "Amal saw that all the water in the bottle had disappeared."
+      "translationEn": "Amal saw that all the water in the bottle had disappeared.",
+      "words": [
+        { "w": "رَأَتْ", "root": "ر أ ي", "bs": "vidjela je", "en": "she saw" },
+        { "w": "مَاءِ", "root": "م و ه", "bs": "vode", "en": "water" },
+        { "w": "الزُّجَاجَةِ", "root": "ز ج ج", "bs": "flaše", "en": "bottle" },
+        { "w": "اخْتَفَى", "root": "خ ف ي", "bs": "nestala", "en": "disappeared" }
+      ]
     },
     {
       "arabic": "وَضَعَتِ الزُّجَاجَةَ بِالْأَمْسِ وَكَانَتْ مَلِيئَةً.",
       "translation": "Stavila je flaše juče i bila je puna.",
-      "translationEn": "She put the bottle yesterday and it was full."
+      "translationEn": "She put the bottle yesterday and it was full.",
+      "words": [
+        { "w": "وَضَعَتِ", "root": "و ض ع", "bs": "stavila je", "en": "she put" },
+        { "w": "الزُّجَاجَةَ", "root": "ز ج ج", "bs": "flaše", "en": "the bottle" },
+        { "w": "بِالْأَمْسِ", "root": "أ م س", "bs": "juče", "en": "yesterday" },
+        { "w": "مَلِيئَةً", "root": "م ل أ", "bs": "puna", "en": "full" }
+      ]
     },
     {
       "arabic": "فَكَّرَتْ وَتَذَكَّرَتْ أَنَّهَا رَأَتِ الشَّمْسَ تُسَلِّطُ عَلَيْهَا النَّهَارَ كُلَّهُ.",
       "translation": "Razmišljala je i prisjetila se da je sunce cijeli dan sijalo na nju.",
-      "translationEn": "She thought and remembered that the sun had been shining on it all day."
+      "translationEn": "She thought and remembered that the sun had been shining on it all day.",
+      "words": [
+        { "w": "فَكَّرَتْ", "root": "ف ك ر", "bs": "razmišljala je", "en": "she thought" },
+        { "w": "تَذَكَّرَتْ", "root": "ذ ك ر", "bs": "prisjetila se", "en": "she remembered" },
+        { "w": "الشَّمْسَ", "root": "ش م س", "bs": "sunce", "en": "the sun" },
+        { "w": "النَّهَارَ", "root": "ن ه ر", "bs": "dan", "en": "day" }
+      ]
     },
     {
       "arabic": "سَأَلَتْ مُعَلِّمَهَا عَنِ السَّبَبِ.",
       "translation": "Pitala je učitelja za razlog.",
-      "translationEn": "She asked her teacher about the reason."
+      "translationEn": "She asked her teacher about the reason.",
+      "words": [
+        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "she asked" },
+        { "w": "مُعَلِّمَهَا", "root": "ع ل م", "bs": "učitelja", "en": "her teacher" },
+        { "w": "السَّبَبِ", "root": "س ب ب", "bs": "razlog", "en": "the reason" }
+      ]
     },
     {
       "arabic": "شَرَحَ الْمُعَلِّمُ أَنَّ الْمَاءَ تَبَخَّرَ بِسَبَبِ الْحَرَارَةِ.",
       "translation": "Učitelj je objasnio da je voda isparila zbog topline.",
-      "translationEn": "The teacher explained that the water evaporated because of the heat."
+      "translationEn": "The teacher explained that the water evaporated because of the heat.",
+      "words": [
+        { "w": "شَرَحَ", "root": "ش ر ح", "bs": "objasnio je", "en": "he explained" },
+        { "w": "الْمَاءَ", "root": "م و ه", "bs": "voda", "en": "the water" },
+        { "w": "تَبَخَّرَ", "root": "ب خ ر", "bs": "isparila je", "en": "evaporated" },
+        { "w": "الْحَرَارَةِ", "root": "ح ر ر", "bs": "topline", "en": "the heat" }
+      ]
     }
   ],
   "metadata": {

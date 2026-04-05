@@ -6,27 +6,55 @@
     {
       "arabic": "كَانَ عِنْدَ زَيْنَبَ نُقُودٌ كَثِيرَةٌ فِي كُوزِ الخَزِّ.",
       "translation": "Zejneba je imala puno novca u kasici.",
-      "translationEn": "Zaynab had a lot of money in her piggy bank."
+      "translationEn": "Zaynab had a lot of money in her piggy bank.",
+      "words": [
+        { "w": "نُقُودٌ", "root": "ن ق د", "bs": "novac", "en": "money" },
+        { "w": "كَثِيرَةٌ", "root": "ك ث ر", "bs": "puno", "en": "a lot" },
+        { "w": "كُوزِ", "root": "ك و ز", "bs": "kasica", "en": "piggy bank" }
+      ]
     },
     {
       "arabic": "أَرَادَتْ أَنْ تَشْتَرِيَ شَيْئًا مُفِيدًا.",
       "translation": "Htjela je kupiti nešto korisno.",
-      "translationEn": "She wanted to buy something useful."
+      "translationEn": "She wanted to buy something useful.",
+      "words": [
+        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
+        { "w": "تَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
+        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "nešto", "en": "something" },
+        { "w": "مُفِيدًا", "root": "ف ي د", "bs": "korisno", "en": "useful" }
+      ]
     },
     {
       "arabic": "فَكَّرَتْ كَثِيرًا ثُمَّ قَرَّرَتْ شِرَاءَ كِتَابٍ.",
       "translation": "Dugo je razmišljala pa odlučila kupiti knjigu.",
-      "translationEn": "She thought for a long time then decided to buy a book."
+      "translationEn": "She thought for a long time then decided to buy a book.",
+      "words": [
+        { "w": "فَكَّرَتْ", "root": "ف ك ر", "bs": "razmišljala je", "en": "thought" },
+        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
+        { "w": "شِرَاءَ", "root": "ش ر ي", "bs": "kupovinu", "en": "to buy" },
+        { "w": "كِتَابٍ", "root": "ك ت ب", "bs": "knjiga", "en": "book" }
+      ]
     },
     {
       "arabic": "كَانَتْ سَعِيدَةً لِأَنَّهَا اشْتَرَتْ شَيْئًا مُفِيدًا.",
       "translation": "Bila je sretna što je kupila nešto korisno.",
-      "translationEn": "She was happy because she bought something useful."
+      "translationEn": "She was happy because she bought something useful.",
+      "words": [
+        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
+        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "مُفِيدًا", "root": "ف ي د", "bs": "korisno", "en": "useful" }
+      ]
     },
     {
       "arabic": "وَاصَلَتِ الاِدِّخَارَ لِلشَّهْرِ القَادِمِ.",
       "translation": "Nastavila je štediti za sljedeći mjesec.",
-      "translationEn": "She continued saving for the next month."
+      "translationEn": "She continued saving for the next month.",
+      "words": [
+        { "w": "وَاصَلَتِ", "root": "و ص ل", "bs": "nastavila je", "en": "continued" },
+        { "w": "الاِدِّخَارَ", "root": "ذ خ ر", "bs": "štednju", "en": "saving" },
+        { "w": "الشَّهْرِ", "root": "ش ه ر", "bs": "mjesec", "en": "month" },
+        { "w": "القَادِمِ", "root": "ق د م", "bs": "sljedeći", "en": "next" }
+      ]
     }
   ],
   "metadata": {

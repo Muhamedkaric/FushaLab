@@ -6,26 +6,133 @@
     {
       "arabic": "أَعْلَنَتِ الْمَدْرَسَةُ عَنْ رِحْلَةٍ إِلَى الْمَزْرَعَةِ.",
       "translation": "Škola je objavila izlet na farmu.",
-      "translationEn": "The school announced a trip to the farm."
+      "translationEn": "The school announced a trip to the farm.",
+      "words": [
+        {
+          "w": "رِحْلَةٍ",
+          "root": "ر ح ل",
+          "bs": "izlet",
+          "en": "trip"
+        },
+        {
+          "w": "الْمَزْرَعَةِ",
+          "root": "ز ر ع",
+          "bs": "farmu",
+          "en": "farm"
+        }
+      ]
     },
     {
       "arabic": "رَأَى الطُّلَّابُ الْحَيَوَانَاتِ وَالنَّبَاتَاتِ الْمُخْتَلِفَةَ.",
       "translation": "Učenici su vidjeli različite životinje i biljke.",
-      "translationEn": "The students saw various animals and plants."
+      "translationEn": "The students saw various animals and plants.",
+      "words": [
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "الْحَيَوَانَاتِ",
+          "root": "ح ي و",
+          "bs": "životinje",
+          "en": "animals"
+        },
+        {
+          "w": "النَّبَاتَاتِ",
+          "root": "ن ب ت",
+          "bs": "biljke",
+          "en": "plants"
+        },
+        {
+          "w": "الْمُخْتَلِفَةَ",
+          "root": "خ ل ف",
+          "bs": "različite",
+          "en": "various"
+        }
+      ]
     },
     {
       "arabic": "جَرَّبَ الطُّلَّابُ حَلْبَ الْبَقَرَةِ وَقَطْفَ الثِّمَارِ.",
       "translation": "Učenici su pokušali musti kravu i brati voće.",
-      "translationEn": "The students tried milking the cow and picking fruit."
+      "translationEn": "The students tried milking the cow and picking fruit.",
+      "words": [
+        {
+          "w": "جَرَّبَ",
+          "root": "ج ر ب",
+          "bs": "pokušao je",
+          "en": "tried"
+        },
+        {
+          "w": "حَلْبَ",
+          "root": "ح ل ب",
+          "bs": "mužu",
+          "en": "milking"
+        },
+        {
+          "w": "الْبَقَرَةِ",
+          "root": "ب ق ر",
+          "bs": "krave",
+          "en": "cow"
+        },
+        {
+          "w": "قَطْفَ",
+          "root": "ق ط ف",
+          "bs": "branje",
+          "en": "picking"
+        },
+        {
+          "w": "الثِّمَارِ",
+          "root": "ث م ر",
+          "bs": "voća",
+          "en": "fruit"
+        }
+      ]
     },
     {
       "arabic": "عَادَ الطُّلَّابُ وَهُمْ يَحْمِلُونَ خُضَرَاوَاتٍ طَازَجَةً.",
       "translation": "Učenici su se vratili noseći svježe povrće.",
-      "translationEn": "The students returned carrying fresh vegetables."
+      "translationEn": "The students returned carrying fresh vegetables.",
+      "words": [
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned"
+        },
+        {
+          "w": "يَحْمِلُونَ",
+          "root": "ح م ل",
+          "bs": "noseći",
+          "en": "carrying"
+        },
+        {
+          "w": "خُضَرَاوَاتٍ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables"
+        },
+        {
+          "w": "طَازَجَةً",
+          "bs": "svježe",
+          "en": "fresh"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school", "farm", "nature"]
+    "tags": [
+      "school",
+      "farm",
+      "nature"
+    ]
   }
 }

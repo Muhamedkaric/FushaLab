@@ -6,22 +6,46 @@
     {
       "arabic": "أَحَبَّ يُوسُفُ الرَّسْمَ مُنْذُ أَنْ كَانَ طِفْلًا صَغِيرًا.",
       "translation": "Jusuf je volio crtanje otkako je bio malo dijete.",
-      "translationEn": "Yusuf loved drawing since he was a small child."
+      "translationEn": "Yusuf loved drawing since he was a small child.",
+      "words": [
+        { "w": "أَحَبَّ", "root": "ح ب ب", "bs": "volio je", "en": "loved" },
+        { "w": "الرَّسْمَ", "root": "ر س م", "bs": "crtanje", "en": "drawing" },
+        { "w": "طِفْلًا", "root": "ط ف ل", "bs": "dijete", "en": "child" },
+        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "malo/malen", "en": "small" }
+      ]
     },
     {
       "arabic": "كَانَ يَرْسُمُ عَلَى كُلِّ شَيْءٍ يَجِدُهُ فِي الْبَيْتِ.",
       "translation": "Crtao je na svemu što bi pronašao u kući.",
-      "translationEn": "He used to draw on everything he found in the house."
+      "translationEn": "He used to draw on everything he found in the house.",
+      "words": [
+        { "w": "يَرْسُمُ", "root": "ر س م", "bs": "crta/crtao je", "en": "draw" },
+        { "w": "يَجِدُهُ", "root": "و ج د", "bs": "pronašao bi", "en": "found" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "house" }
+      ]
     },
     {
       "arabic": "اشْتَرَى لَهُ أَبُوهُ أَلْوَانًا وَدَفَاتِرَ رَسْمٍ.",
       "translation": "Otac mu je kupio boje i bilježnice za crtanje.",
-      "translationEn": "His father bought him colors and drawing notebooks."
+      "translationEn": "His father bought him colors and drawing notebooks.",
+      "words": [
+        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
+        { "w": "أَلْوَانًا", "root": "ل و ن", "bs": "boje", "en": "colors" },
+        { "w": "دَفَاتِرَ", "root": "د ف ت ر", "bs": "bilježnice/sveske", "en": "notebooks" },
+        { "w": "رَسْمٍ", "root": "ر س م", "bs": "crtanje", "en": "drawing" }
+      ]
     },
     {
       "arabic": "رَسَمَ يُوسُفُ مَنْزِلَهُ وَعَائِلَتَهُ وَحَدِيقَتَهُ بِأَلْوَانٍ جَمِيلَةٍ.",
       "translation": "Jusuf je nacrtao svoju kuću, porodicu i vrt lijepim bojama.",
-      "translationEn": "Yusuf drew his house, his family, and his garden in beautiful colors."
+      "translationEn": "Yusuf drew his house, his family, and his garden in beautiful colors.",
+      "words": [
+        { "w": "رَسَمَ", "root": "ر س م", "bs": "nacrtao je", "en": "drew" },
+        { "w": "مَنْزِلَهُ", "root": "ن ز ل", "bs": "njegova kuća", "en": "his house" },
+        { "w": "عَائِلَتَهُ", "root": "ع و ل", "bs": "njegova porodica", "en": "his family" },
+        { "w": "حَدِيقَتَهُ", "root": "ح د ق", "bs": "njegova bašta", "en": "his garden" },
+        { "w": "جَمِيلَةٍ", "root": "ج م ل", "bs": "lijepe", "en": "beautiful" }
+      ]
     }
   ],
   "metadata": {

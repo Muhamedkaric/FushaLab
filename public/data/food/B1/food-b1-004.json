@@ -6,22 +6,49 @@
     {
       "arabic": "ذَهَبَتِ الْعَائِلَةُ إِلَى مَطْعَمٍ لِتَنَاوُلِ الْغَدَاءِ.",
       "translation": "Porodica je otišla u restoran na ručak.",
-      "translationEn": "The family went to a restaurant for lunch."
+      "translationEn": "The family went to a restaurant for lunch.",
+      "words": [
+        { "w": "ذَهَبَتِ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
+        { "w": "مَطْعَمٍ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
+        { "w": "تَنَاوُلِ", "root": "ن و ل", "bs": "objedovanje/jelo", "en": "having/eating" },
+        { "w": "الْغَدَاءِ", "root": "غ د و", "bs": "ručak", "en": "lunch" }
+      ]
     },
     {
       "arabic": "نَظَرُوا إِلَى قَائِمَةِ الطَّعَامِ وَاخْتَارُوا الْأَطْبَاقَ.",
       "translation": "Pogledali su jelovnik i odabrali jela.",
-      "translationEn": "They looked at the menu and chose their dishes."
+      "translationEn": "They looked at the menu and chose their dishes.",
+      "words": [
+        { "w": "نَظَرُوا", "root": "ن ظ ر", "bs": "pogledali su", "en": "looked" },
+        { "w": "قَائِمَةِ", "root": "ق و م", "bs": "jelovnik/lista", "en": "menu/list" },
+        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "hrana", "en": "food" },
+        { "w": "اخْتَارُوا", "root": "خ ي ر", "bs": "odabrali su", "en": "chose" },
+        { "w": "الْأَطْبَاقَ", "root": "ط ب ق", "bs": "jela/tanjiri", "en": "dishes" }
+      ]
     },
     {
       "arabic": "طَلَبَ الْأَبُ الشَّوْرَبَةَ وَطَلَبَتِ الْأُمُّ السَّلَطَةَ.",
       "translation": "Otac je naručio supu a majka salatu.",
-      "translationEn": "The father ordered soup and the mother ordered salad."
+      "translationEn": "The father ordered soup and the mother ordered salad.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "naručio je/tražio", "en": "ordered" },
+        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
+        { "w": "الشَّوْرَبَةَ", "root": "ش ر ب", "bs": "supa/čorba", "en": "soup" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "السَّلَطَةَ", "root": "س ل ط", "bs": "salata", "en": "salad" }
+      ]
     },
     {
       "arabic": "جَاءَ الطَّعَامُ سَرِيعًا وَكَانَ كُلُّهُ لَذِيذًا.",
       "translation": "Hrana je brzo stigla i sve je bilo ukusno.",
-      "translationEn": "The food came quickly and everything was delicious."
+      "translationEn": "The food came quickly and everything was delicious.",
+      "words": [
+        { "w": "جَاءَ", "root": "ج ي أ", "bs": "stigla je/došla", "en": "came" },
+        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
+        { "w": "سَرِيعًا", "root": "س ر ع", "bs": "brzo", "en": "quickly" },
+        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusno", "en": "delicious" }
+      ]
     }
   ],
   "metadata": {

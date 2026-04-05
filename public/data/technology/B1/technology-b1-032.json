@@ -6,22 +6,118 @@
     {
       "arabic": "فَتَحَتْ سَلْمَى فِيدِيُو تَعْلِيمِيًّا عَنِ الطَّبْخِ.",
       "translation": "Salma je otvorila edukativni video o kuhanju.",
-      "translationEn": "Salma opened an educational video about cooking."
+      "translationEn": "Salma opened an educational video about cooking.",
+      "words": [
+        {
+          "w": "فَتَحَتْ",
+          "root": "ف ت ح",
+          "bs": "otvorila je",
+          "en": "opened"
+        },
+        {
+          "w": "فِيدِيُو",
+          "bs": "video",
+          "en": "a video"
+        },
+        {
+          "w": "تَعْلِيمِيًّا",
+          "root": "ع ل م",
+          "bs": "edukativni",
+          "en": "educational"
+        },
+        {
+          "w": "الطَّبْخِ",
+          "root": "ط ب خ",
+          "bs": "kuhanju",
+          "en": "cooking"
+        }
+      ]
     },
     {
       "arabic": "شَاهَدَتِ الْفِيدِيُو وَكَتَبَتِ الْمَقَادِيرَ.",
       "translation": "Gledala je video i zapisivala sastojke.",
-      "translationEn": "She watched the video and wrote down the ingredients."
+      "translationEn": "She watched the video and wrote down the ingredients.",
+      "words": [
+        {
+          "w": "شَاهَدَتِ",
+          "root": "ش ه د",
+          "bs": "gledala je",
+          "en": "watched"
+        },
+        {
+          "w": "الْفِيدِيُو",
+          "bs": "video",
+          "en": "the video"
+        },
+        {
+          "w": "كَتَبَتِ",
+          "root": "ك ت ب",
+          "bs": "zapisivala je",
+          "en": "wrote"
+        },
+        {
+          "w": "الْمَقَادِيرَ",
+          "root": "ق د ر",
+          "bs": "sastojke",
+          "en": "the ingredients"
+        }
+      ]
     },
     {
       "arabic": "ذَهَبَتْ إِلَى الْمَطْبَخِ وَطَبَّقَتْ مَا تَعَلَّمَتْهُ.",
       "translation": "Otišla je u kuhinju i primijenila ono što je naučila.",
-      "translationEn": "She went to the kitchen and applied what she learned."
+      "translationEn": "She went to the kitchen and applied what she learned.",
+      "words": [
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla je",
+          "en": "went"
+        },
+        {
+          "w": "الْمَطْبَخِ",
+          "root": "ط ب خ",
+          "bs": "kuhinju",
+          "en": "the kitchen"
+        },
+        {
+          "w": "طَبَّقَتْ",
+          "root": "ط ب ق",
+          "bs": "primijenila je",
+          "en": "applied"
+        },
+        {
+          "w": "تَعَلَّمَتْهُ",
+          "root": "ع ل م",
+          "bs": "naučila je",
+          "en": "what she learned"
+        }
+      ]
     },
     {
       "arabic": "خَرَجَ الطَّبَقُ جَمِيلًا وَشَكَرَتِ الْفِيدِيُو.",
       "translation": "Jelo je ispalo lijepo i zahvalila je videu.",
-      "translationEn": "The dish turned out beautiful and she thanked the video."
+      "translationEn": "The dish turned out beautiful and she thanked the video.",
+      "words": [
+        {
+          "w": "خَرَجَ",
+          "root": "خ ر ج",
+          "bs": "ispalo je",
+          "en": "turned out"
+        },
+        {
+          "w": "الطَّبَقُ",
+          "root": "ط ب ق",
+          "bs": "jelo",
+          "en": "the dish"
+        },
+        {
+          "w": "جَمِيلًا",
+          "root": "ج م ل",
+          "bs": "lijepo",
+          "en": "beautiful"
+        }
+      ]
     }
   ],
   "metadata": {

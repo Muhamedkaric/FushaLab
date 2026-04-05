@@ -6,22 +6,45 @@
     {
       "arabic": "كَانَ الطَّالِبُ وَلِيدٌ يَتَأَخَّرُ عَنِ الْمَدْرَسَةِ دَائِمًا.",
       "translation": "Učenik Velid je uvijek kasnio u školu.",
-      "translationEn": "The student Walid was always late for school."
+      "translationEn": "The student Walid was always late for school.",
+      "words": [
+        { "w": "الطَّالِبُ", "root": "ط ل ب", "bs": "učenik/student", "en": "student" },
+        { "w": "يَتَأَخَّرُ", "root": "أ خ ر", "bs": "kasnio je", "en": "was late" },
+        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" }
+      ]
     },
     {
       "arabic": "نَصَحَهُ الْمُعَلِّمُ بِالنَّوْمِ مُبَكِّرًا وَالاسْتِيقَاظِ مُبَكِّرًا.",
       "translation": "Nastavnik ga je savjetovao da ide rano na spavanje i rano ustaje.",
-      "translationEn": "The teacher advised him to sleep early and wake up early."
+      "translationEn": "The teacher advised him to sleep early and wake up early.",
+      "words": [
+        { "w": "نَصَحَهُ", "root": "ن ص ح", "bs": "savjetovao ga je", "en": "advised him" },
+        { "w": "الْمُعَلِّمُ", "root": "ع ل م", "bs": "nastavnik/učitelj", "en": "teacher" },
+        { "w": "بِالنَّوْمِ", "root": "ن و م", "bs": "spavanje", "en": "sleeping" },
+        { "w": "مُبَكِّرًا", "root": "ب ك ر", "bs": "rano", "en": "early" },
+        { "w": "الاسْتِيقَاظِ", "root": "ي ق ظ", "bs": "buđenje", "en": "waking up" }
+      ]
     },
     {
       "arabic": "جَرَّبَ وَلِيدٌ النَّصِيحَةَ وَتَغَيَّرَتْ حَيَاتُهُ.",
       "translation": "Velid je isprobao savjet i njegov se život promijenio.",
-      "translationEn": "Walid tried the advice and his life changed."
+      "translationEn": "Walid tried the advice and his life changed.",
+      "words": [
+        { "w": "جَرَّبَ", "root": "ج ر ب", "bs": "isprobao je", "en": "tried" },
+        { "w": "النَّصِيحَةَ", "root": "ن ص ح", "bs": "savjet", "en": "advice" },
+        { "w": "تَغَيَّرَتْ", "root": "غ ي ر", "bs": "promijenio se", "en": "changed" },
+        { "w": "حَيَاتُهُ", "root": "ح ي ي", "bs": "njegov život", "en": "his life" }
+      ]
     },
     {
       "arabic": "أَصْبَحَ أَوَّلَ مَنْ يَصِلُ إِلَى الْمَدْرَسَةِ كُلَّ يَوْمٍ.",
       "translation": "Postao je prvi koji dolazi u školu svaki dan.",
-      "translationEn": "He became the first to arrive at school every day."
+      "translationEn": "He became the first to arrive at school every day.",
+      "words": [
+        { "w": "أَصْبَحَ", "root": "ص ب ح", "bs": "postao je", "en": "became" },
+        { "w": "يَصِلُ", "root": "و ص ل", "bs": "dolazi/stiže", "en": "arrives" },
+        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" }
+      ]
     }
   ],
   "metadata": {

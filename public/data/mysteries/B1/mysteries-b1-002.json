@@ -6,27 +6,55 @@
     {
       "arabic": "بَحَثَ أَحْمَدُ عَنْ مِفْتَاحِهِ فِي كُلِّ مَكَانٍ.",
       "translation": "Ahmed je tražio ključ svuda.",
-      "translationEn": "Ahmed looked for his key everywhere."
+      "translationEn": "Ahmed looked for his key everywhere.",
+      "words": [
+        { "w": "بَحَثَ", "root": "ب ح ث", "bs": "tražio je", "en": "he looked for" },
+        { "w": "مِفْتَاحِهِ", "root": "ف ت ح", "bs": "ključ", "en": "his key" },
+        { "w": "مَكَانٍ", "root": "ك و ن", "bs": "mjesta", "en": "place" }
+      ]
     },
     {
       "arabic": "نَظَرَ فِي الْجَيْبِ وَعَلَى الطَّاوِلَةِ وَلَمْ يَجِدْهُ.",
       "translation": "Pogledao je u džep i na sto, ali ga nije pronašao.",
-      "translationEn": "He looked in his pocket and on the table but did not find it."
+      "translationEn": "He looked in his pocket and on the table but did not find it.",
+      "words": [
+        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "he looked" },
+        { "w": "الْجَيْبِ", "root": "ج ي ب", "bs": "džep", "en": "pocket" },
+        { "w": "الطَّاوِلَةِ", "bs": "sto", "en": "table" },
+        { "w": "يَجِدْهُ", "root": "و ج د", "bs": "pronađe ga", "en": "find it" }
+      ]
     },
     {
       "arabic": "سَأَلَ أُخْتَهُ إِذَا كَانَتْ رَأَتْهُ.",
       "translation": "Pitao je svoju sestru je li ga vidjela.",
-      "translationEn": "He asked his sister if she had seen it."
+      "translationEn": "He asked his sister if she had seen it.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "he asked" },
+        { "w": "أُخْتَهُ", "root": "أ خ ت", "bs": "sestru", "en": "his sister" },
+        { "w": "رَأَتْهُ", "root": "ر أ ي", "bs": "vidjela ga je", "en": "she had seen it" }
+      ]
     },
     {
       "arabic": "قَالَتِ الْأُخْتُ: رَأَيْتُ قِطَّتَنَا تَلْعَبُ بِشَيْءٍ أَمْسِ.",
       "translation": "Sestra je rekla: Vidjela sam našu mačku kako se juče igrala s nečim.",
-      "translationEn": "The sister said: I saw our cat playing with something yesterday."
+      "translationEn": "The sister said: I saw our cat playing with something yesterday.",
+      "words": [
+        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "she said" },
+        { "w": "رَأَيْتُ", "root": "ر أ ي", "bs": "vidjela sam", "en": "I saw" },
+        { "w": "قِطَّتَنَا", "root": "ق ط ط", "bs": "našu mačku", "en": "our cat" },
+        { "w": "تَلْعَبُ", "root": "ل ع ب", "bs": "igra se", "en": "playing" }
+      ]
     },
     {
       "arabic": "وَجَدَ أَحْمَدُ الْمِفْتَاحَ تَحْتَ سَرِيرِ الْقِطَّةِ.",
       "translation": "Ahmed je pronašao ključ ispod mačkinog kreveta.",
-      "translationEn": "Ahmed found the key under the cat's bed."
+      "translationEn": "Ahmed found the key under the cat's bed.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "الْمِفْتَاحَ", "root": "ف ت ح", "bs": "ključ", "en": "the key" },
+        { "w": "سَرِيرِ", "root": "س ر ر", "bs": "kreveta", "en": "bed" },
+        { "w": "الْقِطَّةِ", "root": "ق ط ط", "bs": "mačke", "en": "the cat" }
+      ]
     }
   ],
   "metadata": {

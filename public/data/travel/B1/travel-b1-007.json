@@ -6,22 +6,45 @@
     {
       "arabic": "حَجَزَ سَمِيرٌ غُرْفَةً فِي الْفُنْدُقِ عَبْرَ الْهَاتِفِ.",
       "translation": "Samir je rezervisao sobu u hotelu putem telefona.",
-      "translationEn": "Samir reserved a room in the hotel by phone."
+      "translationEn": "Samir reserved a room in the hotel by phone.",
+      "words": [
+        { "w": "حَجَزَ", "root": "ح ج ز", "bs": "rezervisao je", "en": "reserved" },
+        { "w": "غُرْفَةً", "root": "غ ر ف", "bs": "soba", "en": "room" },
+        { "w": "الْفُنْدُقِ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
+        { "w": "الْهَاتِفِ", "root": "ه ت ف", "bs": "telefon", "en": "phone" }
+      ]
     },
     {
       "arabic": "وَصَلَ إِلَى الْفُنْدُقِ وَقَدَّمَ جَوَازَ سَفَرِهِ.",
       "translation": "Stigao je u hotel i predao pasoš.",
-      "translationEn": "He arrived at the hotel and presented his passport."
+      "translationEn": "He arrived at the hotel and presented his passport.",
+      "words": [
+        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
+        { "w": "قَدَّمَ", "root": "ق د م", "bs": "predao je", "en": "presented" },
+        { "w": "جَوَازَ", "root": "ج و ز", "bs": "pasoš", "en": "passport" },
+        { "w": "سَفَرِهِ", "root": "س ف ر", "bs": "njegovo putovanje", "en": "his travel" }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ الْمُوَظِّفُ مِفْتَاحَ الْغُرْفَةِ وَابْتَسَمَ.",
       "translation": "Službenik mu je dao ključ sobe i nasmiješio se.",
-      "translationEn": "The employee gave him the room key and smiled."
+      "translationEn": "The employee gave him the room key and smiled.",
+      "words": [
+        { "w": "الْمُوَظِّفُ", "root": "و ظ ف", "bs": "službenik", "en": "employee" },
+        { "w": "مِفْتَاحَ", "root": "ف ت ح", "bs": "ključ", "en": "key" },
+        { "w": "الْغُرْفَةِ", "root": "غ ر ف", "bs": "soba", "en": "room" },
+        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" }
+      ]
     },
     {
       "arabic": "كَانَتِ الْغُرْفَةُ نَظِيفَةً وَمُرِيحَةً.",
       "translation": "Soba je bila čista i udobna.",
-      "translationEn": "The room was clean and comfortable."
+      "translationEn": "The room was clean and comfortable.",
+      "words": [
+        { "w": "الْغُرْفَةُ", "root": "غ ر ف", "bs": "soba", "en": "room" },
+        { "w": "نَظِيفَةً", "root": "ن ظ ف", "bs": "čista", "en": "clean" },
+        { "w": "مُرِيحَةً", "root": "ر و ح", "bs": "udobna", "en": "comfortable" }
+      ]
     }
   ],
   "metadata": {

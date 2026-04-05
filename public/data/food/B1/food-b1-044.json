@@ -6,22 +6,47 @@
     {
       "arabic": "اشْتَرَتِ الْأُمُّ مَوْزًا وَعِنَبًا وَرُمَّانًا.",
       "translation": "Majka je kupila banane, grožđe i nar.",
-      "translationEn": "The mother bought bananas, grapes, and pomegranate."
+      "translationEn": "The mother bought bananas, grapes, and pomegranate.",
+      "words": [
+        { "w": "اشْتَرَتِ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
+        { "w": "مَوْزًا", "root": "م و ز", "bs": "banane", "en": "bananas" },
+        { "w": "عِنَبًا", "root": "ع ن ب", "bs": "grožđe", "en": "grapes" },
+        { "w": "رُمَّانًا", "root": "ر م م", "bs": "nar/šipak", "en": "pomegranate" }
+      ]
     },
     {
       "arabic": "قَطَّعَتِ الْفَوَاكِهَ وَوَضَعَتْهَا فِي طَبَقٍ وَاحِدٍ.",
       "translation": "Isrekla je voće i stavila ga u jedan tanjir.",
-      "translationEn": "She cut the fruits and placed them in one dish."
+      "translationEn": "She cut the fruits and placed them in one dish.",
+      "words": [
+        { "w": "قَطَّعَتِ", "root": "ق ط ع", "bs": "isrekla je/narezala", "en": "cut" },
+        { "w": "الْفَوَاكِهَ", "root": "ف و ك", "bs": "voće", "en": "fruits" },
+        { "w": "وَضَعَتْهَا", "root": "و ض ع", "bs": "stavila ga je", "en": "placed them" },
+        { "w": "طَبَقٍ", "root": "ط ب ق", "bs": "tanjir/posuda", "en": "dish/plate" }
+      ]
     },
     {
       "arabic": "قَدَّمَتِ الطَّبَقَ لِلضُّيُوفِ مَعَ الشَّايِ.",
       "translation": "Donijela je tanjir gostima uz čaj.",
-      "translationEn": "She offered the dish to the guests with tea."
+      "translationEn": "She offered the dish to the guests with tea.",
+      "words": [
+        { "w": "قَدَّمَتِ", "root": "ق د م", "bs": "donijela je/ponudila", "en": "offered" },
+        { "w": "الطَّبَقَ", "root": "ط ب ق", "bs": "tanjir/tanjiru", "en": "dish/plate" },
+        { "w": "الضُّيُوفِ", "root": "ض ي ف", "bs": "gosti", "en": "guests" },
+        { "w": "الشَّايِ", "root": "ش ي أ", "bs": "čaj", "en": "tea" }
+      ]
     },
     {
       "arabic": "أَثْنَى الضُّيُوفُ عَلَى حُسْنِ الضِّيَافَةِ.",
       "translation": "Gosti su pohvalili lijep domaćinski prijem.",
-      "translationEn": "The guests praised the generous hospitality."
+      "translationEn": "The guests praised the generous hospitality.",
+      "words": [
+        { "w": "أَثْنَى", "root": "ث ن ي", "bs": "pohvalili su/veličali", "en": "praised" },
+        { "w": "الضُّيُوفُ", "root": "ض ي ف", "bs": "gosti", "en": "guests" },
+        { "w": "حُسْنِ", "root": "ح س ن", "bs": "ljepotu/dobrotu", "en": "goodness/beauty" },
+        { "w": "الضِّيَافَةِ", "root": "ض ي ف", "bs": "gostoprimstvo/doček gostiju", "en": "hospitality" }
+      ]
     }
   ],
   "metadata": {

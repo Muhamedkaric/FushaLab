@@ -6,26 +6,129 @@
     {
       "arabic": "تَشْرَبُ أَمِيرَةُ فِنْجَانَ قَهْوَةٍ وَاحِدَةً فِي الصَّبَاحِ فَقَطْ.",
       "translation": "Amira pije samo jednu šolju kafe ujutro.",
-      "translationEn": "Amira drinks only one cup of coffee in the morning."
+      "translationEn": "Amira drinks only one cup of coffee in the morning.",
+      "words": [
+        {
+          "w": "تَشْرَبُ",
+          "root": "ش ر ب",
+          "bs": "pije",
+          "en": "drinks"
+        },
+        {
+          "w": "فِنْجَانَ",
+          "root": "ف ن ج",
+          "bs": "šolja",
+          "en": "cup"
+        },
+        {
+          "w": "قَهْوَةٍ",
+          "root": "ق ه و",
+          "bs": "kafa",
+          "en": "coffee"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning"
+        }
+      ]
     },
     {
       "arabic": "قَالَ لَهَا الطَّبِيبُ أَلَّا تَشْرَبَ كَثِيرًا مِنَ الْقَهْوَةِ.",
       "translation": "Ljekar joj je rekao da ne pije previše kafe.",
-      "translationEn": "The doctor told her not to drink too much coffee."
+      "translationEn": "The doctor told her not to drink too much coffee.",
+      "words": [
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "تَشْرَبَ",
+          "root": "ش ر ب",
+          "bs": "pije",
+          "en": "drink"
+        },
+        {
+          "w": "الْقَهْوَةِ",
+          "root": "ق ه و",
+          "bs": "kafa",
+          "en": "coffee"
+        }
+      ]
     },
     {
       "arabic": "تَشْرَبُ بَعْدَ الظُّهْرِ شَايًا أَخْضَرَ بَدَلَ الْقَهْوَةِ.",
       "translation": "Poslije podne pije zeleni čaj umjesto kafe.",
-      "translationEn": "After noon she drinks green tea instead of coffee."
+      "translationEn": "After noon she drinks green tea instead of coffee.",
+      "words": [
+        {
+          "w": "تَشْرَبُ",
+          "root": "ش ر ب",
+          "bs": "pije",
+          "en": "drinks"
+        },
+        {
+          "w": "شَايًا",
+          "root": "ش ي ي",
+          "bs": "čaj",
+          "en": "tea"
+        },
+        {
+          "w": "أَخْضَرَ",
+          "root": "خ ض ر",
+          "bs": "zeleni",
+          "en": "green"
+        },
+        {
+          "w": "بَدَلَ",
+          "root": "ب د ل",
+          "bs": "umjesto",
+          "en": "instead of"
+        },
+        {
+          "w": "الْقَهْوَةِ",
+          "root": "ق ه و",
+          "bs": "kafa",
+          "en": "coffee"
+        }
+      ]
     },
     {
       "arabic": "تَشْعُرُ الْآنَ بِنَوْمٍ أَفْضَلَ فِي اللَّيْلِ.",
       "translation": "Sada se bolje naspava noću.",
-      "translationEn": "She now sleeps better at night."
+      "translationEn": "She now sleeps better at night.",
+      "words": [
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels"
+        },
+        {
+          "w": "بِنَوْمٍ",
+          "root": "ن و م",
+          "bs": "san",
+          "en": "sleep"
+        },
+        {
+          "w": "أَفْضَلَ",
+          "root": "ف ض ل",
+          "bs": "bolji",
+          "en": "better"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["coffee", "green tea", "sleep", "doctor advice"]
+    "tags": [
+      "coffee",
+      "green tea",
+      "sleep",
+      "doctor advice"
+    ]
   }
 }

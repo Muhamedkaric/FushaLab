@@ -6,26 +6,128 @@
     {
       "arabic": "زَارَ الطُّلَّابُ مَكْتَبَةَ المَدْرَسَةِ مَعَ المُعَلِّمِ.",
       "translation": "Učenici su posjetili školsku biblioteku s nastavnikom.",
-      "translationEn": "The students visited the school library with the teacher."
+      "translationEn": "The students visited the school library with the teacher.",
+      "words": [
+        {
+          "w": "زَارَ",
+          "root": "ز و ر",
+          "bs": "posjetili",
+          "en": "visited"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "مَكْتَبَةَ",
+          "root": "ك ت ب",
+          "bs": "biblioteka",
+          "en": "library"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school"
+        }
+      ]
     },
     {
       "arabic": "كَانَتِ المَكْتَبَةُ هَادِئَةً وَمَلِيئَةً بِالكُتُبِ.",
       "translation": "Biblioteka je bila tiha i puna knjiga.",
-      "translationEn": "The library was quiet and full of books."
+      "translationEn": "The library was quiet and full of books.",
+      "words": [
+        {
+          "w": "المَكْتَبَةُ",
+          "root": "ك ت ب",
+          "bs": "biblioteka",
+          "en": "library"
+        },
+        {
+          "w": "هَادِئَةً",
+          "root": "ه د أ",
+          "bs": "tiha",
+          "en": "quiet"
+        },
+        {
+          "w": "مَلِيئَةً",
+          "root": "م ل أ",
+          "bs": "puna",
+          "en": "full"
+        },
+        {
+          "w": "بِالكُتُبِ",
+          "root": "ك ت ب",
+          "bs": "knjigama",
+          "en": "books"
+        }
+      ]
     },
     {
       "arabic": "اخْتَارَ كُلُّ طَالِبٍ كِتَابًا يُحِبُّهُ.",
       "translation": "Svaki učenik je odabrao knjigu koju voli.",
-      "translationEn": "Each student chose a book they liked."
+      "translationEn": "Each student chose a book they liked.",
+      "words": [
+        {
+          "w": "اخْتَارَ",
+          "root": "خ ي ر",
+          "bs": "odabrao",
+          "en": "chose"
+        },
+        {
+          "w": "طَالِبٍ",
+          "root": "ط ل ب",
+          "bs": "učenik",
+          "en": "student"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book"
+        }
+      ]
     },
     {
       "arabic": "جَلَسُوا عَلَى الكَرَاسِي وَقَرَأُوا بِهُدُوءٍ.",
       "translation": "Sjeli su na stolice i tiho čitali.",
-      "translationEn": "They sat on chairs and read quietly."
+      "translationEn": "They sat on chairs and read quietly.",
+      "words": [
+        {
+          "w": "جَلَسُوا",
+          "root": "ج ل س",
+          "bs": "sjeli",
+          "en": "sat"
+        },
+        {
+          "w": "الكَرَاسِي",
+          "root": "ك ر س",
+          "bs": "stolice",
+          "en": "chairs"
+        },
+        {
+          "w": "قَرَأُوا",
+          "root": "ق ر أ",
+          "bs": "čitali",
+          "en": "read"
+        },
+        {
+          "w": "بِهُدُوءٍ",
+          "root": "ه د أ",
+          "bs": "tiho",
+          "en": "quietly"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["library", "books", "reading"]
+    "tags": [
+      "library",
+      "books",
+      "reading"
+    ]
   }
 }

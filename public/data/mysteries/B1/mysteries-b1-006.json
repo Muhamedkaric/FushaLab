@@ -6,27 +6,56 @@
     {
       "arabic": "رَأَى سَامِيٌّ ضَوْءًا فِي الْبَيْتِ الْقَدِيمِ.",
       "translation": "Sami je vidio svjetlo u staroj kući.",
-      "translationEn": "Sami saw a light in the old house."
+      "translationEn": "Sami saw a light in the old house.",
+      "words": [
+        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
+        { "w": "ضَوْءًا", "root": "ض و أ", "bs": "svjetlo", "en": "light" },
+        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kući", "en": "house" },
+        { "w": "الْقَدِيمِ", "root": "ق د م", "bs": "staroj", "en": "old" }
+      ]
     },
     {
       "arabic": "كَانَ الْبَيْتُ فَارِغًا مُنْذُ سَنَوَاتٍ.",
       "translation": "Kuća je bila prazna godinama.",
-      "translationEn": "The house had been empty for years."
+      "translationEn": "The house had been empty for years.",
+      "words": [
+        { "w": "الْبَيْتُ", "root": "ب ي ت", "bs": "kuća", "en": "the house" },
+        { "w": "فَارِغًا", "root": "ف ر غ", "bs": "prazna", "en": "empty" },
+        { "w": "سَنَوَاتٍ", "root": "س ن و", "bs": "godina", "en": "years" }
+      ]
     },
     {
       "arabic": "سَأَلَ جَارَهُ: هَلْ رَأَيْتَ ضَوْءًا هُنَاكَ؟",
       "translation": "Pitao je susjeda: Jesi li vidio svjetlo tamo?",
-      "translationEn": "He asked his neighbour: Did you see a light there?"
+      "translationEn": "He asked his neighbour: Did you see a light there?",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "he asked" },
+        { "w": "جَارَهُ", "root": "ج و ر", "bs": "susjeda", "en": "his neighbour" },
+        { "w": "رَأَيْتَ", "root": "ر أ ي", "bs": "vidio si", "en": "did you see" },
+        { "w": "ضَوْءًا", "root": "ض و أ", "bs": "svjetlo", "en": "a light" }
+      ]
     },
     {
       "arabic": "قَالَ الْجَارُ: نَعَمْ، رَأَيْتُهُ أَيْضًا الْبَارِحَةَ.",
       "translation": "Susjed je rekao: Da, vidio sam ga i sinoć.",
-      "translationEn": "The neighbour said: Yes, I saw it yesterday too."
+      "translationEn": "The neighbour said: Yes, I saw it yesterday too.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
+        { "w": "رَأَيْتُهُ", "root": "ر أ ي", "bs": "vidio sam ga", "en": "I saw it" },
+        { "w": "الْبَارِحَةَ", "root": "ب ر ح", "bs": "sinoć", "en": "yesterday" }
+      ]
     },
     {
       "arabic": "فِي الصَّبَاحِ عَرَفَا أَنَّ عَائِلَةً جَدِيدَةً انْتَقَلَتْ إِلَى الْبَيْتِ.",
       "translation": "Ujutro su saznali da se nova porodica uselila u kuću.",
-      "translationEn": "In the morning they learned that a new family had moved into the house."
+      "translationEn": "In the morning they learned that a new family had moved into the house.",
+      "words": [
+        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutru", "en": "morning" },
+        { "w": "عَرَفَا", "root": "ع ر ف", "bs": "saznali su", "en": "they learned" },
+        { "w": "عَائِلَةً", "root": "ع ي ل", "bs": "porodica", "en": "family" },
+        { "w": "جَدِيدَةً", "root": "ج د د", "bs": "nova", "en": "new" },
+        { "w": "انْتَقَلَتْ", "root": "ن ق ل", "bs": "preselila se", "en": "had moved" }
+      ]
     }
   ],
   "metadata": {

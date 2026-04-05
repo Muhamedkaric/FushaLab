@@ -6,22 +6,47 @@
     {
       "arabic": "يَقُولُ النَّاسُ «صَبَاحَ الخَيْرِ» عِنْدَ اللِّقَاءِ.",
       "translation": "Ljudi kažu «Sabah el-hajr» kad se sretnu.",
-      "translationEn": "People say «Good morning» when they meet."
+      "translationEn": "People say «Good morning» when they meet.",
+      "words": [
+        { "w": "يَقُولُ", "root": "ق و ل", "bs": "kažu", "en": "say" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "صَبَاحَ", "root": "ص ب ح", "bs": "jutro", "en": "morning" },
+        { "w": "الخَيْرِ", "root": "خ ي ر", "bs": "dobro", "en": "goodness" },
+        { "w": "اللِّقَاءِ", "root": "ل ق ي", "bs": "susreta", "en": "meeting" }
+      ]
     },
     {
       "arabic": "يَرُدُّ الشَّخْصُ الآخَرُ «صَبَاحَ النُّورِ».",
       "translation": "Druga osoba odgovara «Sabah en-nur».",
-      "translationEn": "The other person replies «Morning of light»."
+      "translationEn": "The other person replies «Morning of light».",
+      "words": [
+        { "w": "يَرُدُّ", "root": "ر د د", "bs": "odgovara", "en": "replies" },
+        { "w": "الشَّخْصُ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
+        { "w": "صَبَاحَ", "root": "ص ب ح", "bs": "jutro", "en": "morning" },
+        { "w": "النُّورِ", "root": "ن و ر", "bs": "svjetlo", "en": "light" }
+      ]
     },
     {
       "arabic": "هَذِهِ تَحِيَّةٌ مَشْهُورَةٌ فِي البِلَادِ العَرَبِيَّةِ.",
       "translation": "Ovo je poznati pozdrav u arapskim zemljama.",
-      "translationEn": "This is a well-known greeting in Arab countries."
+      "translationEn": "This is a well-known greeting in Arab countries.",
+      "words": [
+        { "w": "تَحِيَّةٌ", "root": "ح ي ي", "bs": "pozdrav", "en": "greeting" },
+        { "w": "مَشْهُورَةٌ", "root": "ش ه ر", "bs": "poznata", "en": "well-known" },
+        { "w": "البِلَادِ", "root": "ب ل د", "bs": "zemljama", "en": "countries" },
+        { "w": "العَرَبِيَّةِ", "root": "ع ر ب", "bs": "arapskim", "en": "Arab" }
+      ]
     },
     {
       "arabic": "يُحِبُّ الكِبَارُ أَنْ يُعَلِّمُوا الأَطْفَالَ التَّحِيَّاتِ.",
       "translation": "Stariji vole učiti djecu pozdravljanju.",
-      "translationEn": "Elders love to teach children greetings."
+      "translationEn": "Elders love to teach children greetings.",
+      "words": [
+        { "w": "الكِبَارُ", "root": "ك ب ر", "bs": "stariji", "en": "elders" },
+        { "w": "يُعَلِّمُوا", "root": "ع ل م", "bs": "uče", "en": "teach" },
+        { "w": "الأَطْفَالَ", "root": "ط ف ل", "bs": "djecu", "en": "children" },
+        { "w": "التَّحِيَّاتِ", "root": "ح ي ي", "bs": "pozdravljanju", "en": "greetings" }
+      ]
     }
   ],
   "metadata": {

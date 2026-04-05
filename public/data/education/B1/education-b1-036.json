@@ -6,27 +6,56 @@
     {
       "arabic": "كَانَتِ المَدْرَسَةُ تُنَظِّمُ مَسْرَحِيَّةً صَغِيرَةً كُلَّ عَامٍ.",
       "translation": "Škola je svake godine organizovala malu pozorišnu predstavu.",
-      "translationEn": "The school organized a small play every year."
+      "translationEn": "The school organized a small play every year.",
+      "words": [
+        { "w": "المَدْرَسَةُ", "root": "د ر س", "bs": "škola", "en": "school" },
+        { "w": "تُنَظِّمُ", "root": "ن ظ م", "bs": "organizuje", "en": "organizes" },
+        { "w": "مَسْرَحِيَّةً", "root": "س ر ح", "bs": "pozorišna predstava", "en": "play" },
+        { "w": "عَامٍ", "root": "ع و م", "bs": "godina", "en": "year" }
+      ]
     },
     {
       "arabic": "اخْتَارَتِ المُعَلِّمَةُ بَعْضَ الطُّلَّابِ لِلتَّمْثِيلِ.",
       "translation": "Nastavnica je odabrala neke učenike za glumu.",
-      "translationEn": "The teacher chose some students to act."
+      "translationEn": "The teacher chose some students to act.",
+      "words": [
+        { "w": "اخْتَارَتِ", "root": "خ ي ر", "bs": "odabrala je", "en": "chose" },
+        { "w": "المُعَلِّمَةُ", "root": "ع ل م", "bs": "nastavnica", "en": "teacher" },
+        { "w": "الطُّلَّابِ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
+        { "w": "التَّمْثِيلِ", "root": "م ث ل", "bs": "gluma", "en": "acting" }
+      ]
     },
     {
       "arabic": "حَفِظَ كُلُّ طَالِبٍ دَوْرَهُ وَتَدَرَّبَ عَلَيْهِ.",
       "translation": "Svaki učenik je zapamtio svoju ulogu i uvježbavao je.",
-      "translationEn": "Each student memorized their role and practiced it."
+      "translationEn": "Each student memorized their role and practiced it.",
+      "words": [
+        { "w": "حَفِظَ", "root": "ح ف ظ", "bs": "zapamtio je", "en": "memorized" },
+        { "w": "طَالِبٍ", "root": "ط ل ب", "bs": "učenik", "en": "student" },
+        { "w": "دَوْرَهُ", "root": "د و ر", "bs": "njegova uloga", "en": "their role" },
+        { "w": "تَدَرَّبَ", "root": "د ر ب", "bs": "uvježbavao je", "en": "practiced" }
+      ]
     },
     {
       "arabic": "كَانَتِ المَسْرَحِيَّةُ رَائِعَةً وَضَحِكَ الجَمِيعُ.",
       "translation": "Predstava je bila odlična i svi su se smijali.",
-      "translationEn": "The play was wonderful and everyone laughed."
+      "translationEn": "The play was wonderful and everyone laughed.",
+      "words": [
+        { "w": "المَسْرَحِيَّةُ", "root": "س ر ح", "bs": "predstava", "en": "play" },
+        { "w": "رَائِعَةً", "root": "ر و ع", "bs": "odlična", "en": "wonderful" },
+        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "smijali su se", "en": "laughed" }
+      ]
     },
     {
       "arabic": "صَفَّقَ الآبَاءُ لِأَبْنَائِهِمْ بِفَرَحٍ كَبِيرٍ.",
       "translation": "Roditelji su se radosno pljeskom pohvalili svojoj djeci.",
-      "translationEn": "The parents clapped for their children with great joy."
+      "translationEn": "The parents clapped for their children with great joy.",
+      "words": [
+        { "w": "صَفَّقَ", "root": "ص ف ق", "bs": "pljeskom su nagradili", "en": "clapped" },
+        { "w": "الآبَاءُ", "root": "أ ب و", "bs": "roditelji", "en": "parents" },
+        { "w": "أَبْنَائِهِمْ", "root": "ب ن و", "bs": "njihova djeca", "en": "their children" },
+        { "w": "فَرَحٍ", "root": "ف ر ح", "bs": "radost", "en": "joy" }
+      ]
     }
   ],
   "metadata": {

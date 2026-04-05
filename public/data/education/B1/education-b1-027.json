@@ -6,31 +6,177 @@
     {
       "arabic": "طَلَبَ المُعَلِّمُ مِنَ الطُّلَّابِ كِتَابَةَ مَوْضُوعٍ قَصِيرٍ.",
       "translation": "Nastavnik je zamolio učenike da napišu kratki sastav.",
-      "translationEn": "The teacher asked the students to write a short essay."
+      "translationEn": "The teacher asked the students to write a short essay.",
+      "words": [
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zamolio",
+          "en": "asked"
+        },
+        {
+          "w": "المُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "nastavnik",
+          "en": "teacher"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students"
+        },
+        {
+          "w": "كِتَابَةَ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "writing"
+        },
+        {
+          "w": "مَوْضُوعٍ",
+          "root": "و ض ع",
+          "bs": "tema/sastav",
+          "en": "essay/topic"
+        },
+        {
+          "w": "قَصِيرٍ",
+          "root": "ق ص ر",
+          "bs": "kratki",
+          "en": "short"
+        }
+      ]
     },
     {
       "arabic": "كَتَبَ زِيَادٌ عَنْ عَائِلَتِهِ وَبَيْتِهِ.",
       "translation": "Zijad je pisao o svojoj porodici i kući.",
-      "translationEn": "Ziad wrote about his family and home."
+      "translationEn": "Ziad wrote about his family and home.",
+      "words": [
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "pisao",
+          "en": "wrote"
+        },
+        {
+          "w": "عَائِلَتِهِ",
+          "root": "ع ي ل",
+          "bs": "njegova porodica",
+          "en": "his family"
+        },
+        {
+          "w": "بَيْتِهِ",
+          "root": "ب ي ت",
+          "bs": "njegova kuća",
+          "en": "his home"
+        }
+      ]
     },
     {
       "arabic": "وَصَفَ أَبَاهُ وَأُمَّهُ وَأَخَاهُ الصَّغِيرَ.",
       "translation": "Opisao je oca, majku i mlađeg brata.",
-      "translationEn": "He described his father, mother, and younger brother."
+      "translationEn": "He described his father, mother, and younger brother.",
+      "words": [
+        {
+          "w": "وَصَفَ",
+          "root": "و ص ف",
+          "bs": "opisao",
+          "en": "described"
+        },
+        {
+          "w": "أَبَاهُ",
+          "root": "أ ب و",
+          "bs": "oca",
+          "en": "his father"
+        },
+        {
+          "w": "أُمَّهُ",
+          "root": "أ م م",
+          "bs": "majku",
+          "en": "his mother"
+        },
+        {
+          "w": "أَخَاهُ",
+          "root": "أ خ و",
+          "bs": "brata",
+          "en": "his brother"
+        },
+        {
+          "w": "الصَّغِيرَ",
+          "root": "ص غ ر",
+          "bs": "mlađeg",
+          "en": "younger"
+        }
+      ]
     },
     {
       "arabic": "كَانَ الأُسْلُوبُ وَاضِحًا وَالجُمَلُ قَصِيرَةً.",
       "translation": "Stil je bio jasan a rečenice kratke.",
-      "translationEn": "The style was clear and the sentences were short."
+      "translationEn": "The style was clear and the sentences were short.",
+      "words": [
+        {
+          "w": "الأُسْلُوبُ",
+          "root": "س ل ب",
+          "bs": "stil",
+          "en": "style"
+        },
+        {
+          "w": "وَاضِحًا",
+          "root": "و ض ح",
+          "bs": "jasan",
+          "en": "clear"
+        },
+        {
+          "w": "الجُمَلُ",
+          "root": "ج م ل",
+          "bs": "rečenice",
+          "en": "sentences"
+        },
+        {
+          "w": "قَصِيرَةً",
+          "root": "ق ص ر",
+          "bs": "kratke",
+          "en": "short"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ المُعَلِّمُ عَلَامَةً مُمْتَازَةً.",
       "translation": "Nastavnik mu je dao odličnu ocjenu.",
-      "translationEn": "The teacher gave him an excellent grade."
+      "translationEn": "The teacher gave him an excellent grade.",
+      "words": [
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط و",
+          "bs": "dao mu",
+          "en": "gave him"
+        },
+        {
+          "w": "المُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "nastavnik",
+          "en": "teacher"
+        },
+        {
+          "w": "عَلَامَةً",
+          "root": "ع ل م",
+          "bs": "ocjena",
+          "en": "grade"
+        },
+        {
+          "w": "مُمْتَازَةً",
+          "root": "م ي ز",
+          "bs": "odličnu",
+          "en": "excellent"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["writing", "essay", "family"]
+    "tags": [
+      "writing",
+      "essay",
+      "family"
+    ]
   }
 }

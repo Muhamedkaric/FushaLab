@@ -6,26 +6,128 @@
     {
       "arabic": "يَأْكُلُ مُحَمَّدٌ السَّلَطَةَ مَعَ كُلِّ وَجْبَةٍ.",
       "translation": "Muhammed jede salatu uz svaki obrok.",
-      "translationEn": "Muhammad eats salad with every meal."
+      "translationEn": "Muhammad eats salad with every meal.",
+      "words": [
+        {
+          "w": "يَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eats"
+        },
+        {
+          "w": "السَّلَطَةَ",
+          "root": "س ل ط",
+          "bs": "salata",
+          "en": "salad"
+        },
+        {
+          "w": "وَجْبَةٍ",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "meal"
+        }
+      ]
     },
     {
       "arabic": "يُضِيفُ زَيْتَ الزَّيْتُونِ وَالْلَّيْمُونَ عَلَيْهَا.",
       "translation": "Dodaje na nju maslinovo ulje i limun.",
-      "translationEn": "He adds olive oil and lemon on it."
+      "translationEn": "He adds olive oil and lemon on it.",
+      "words": [
+        {
+          "w": "يُضِيفُ",
+          "root": "ض ي ف",
+          "bs": "dodaje",
+          "en": "adds"
+        },
+        {
+          "w": "زَيْتَ",
+          "root": "ز ي ت",
+          "bs": "ulje",
+          "en": "oil"
+        },
+        {
+          "w": "الزَّيْتُونِ",
+          "root": "ز ي ت",
+          "bs": "maslinovo",
+          "en": "olive"
+        },
+        {
+          "w": "الْلَّيْمُونَ",
+          "bs": "limun",
+          "en": "lemon"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ إِنَّ السَّلَطَةَ تُسَاعِدُهُ عَلَى الشُّعُورِ بِالشَّبَعِ.",
       "translation": "Kaže da mu salata pomaže da se osjeća sito.",
-      "translationEn": "He says that salad helps him feel full."
+      "translationEn": "He says that salad helps him feel full.",
+      "words": [
+        {
+          "w": "السَّلَطَةَ",
+          "root": "س ل ط",
+          "bs": "salata",
+          "en": "salad"
+        },
+        {
+          "w": "تُسَاعِدُهُ",
+          "root": "س و ع",
+          "bs": "pomaže mu",
+          "en": "helps him"
+        },
+        {
+          "w": "الشُّعُورِ",
+          "root": "ش ع ر",
+          "bs": "osjećanje",
+          "en": "feeling"
+        },
+        {
+          "w": "بِالشَّبَعِ",
+          "root": "ش ب ع",
+          "bs": "sito",
+          "en": "full"
+        }
+      ]
     },
     {
       "arabic": "وَزْنُهُ مُنَاسِبٌ وَصِحَّتُهُ مُمْتَازَةٌ.",
       "translation": "Njegova težina je odgovarajuća i zdravlje odlično.",
-      "translationEn": "His weight is suitable and his health is excellent."
+      "translationEn": "His weight is suitable and his health is excellent.",
+      "words": [
+        {
+          "w": "وَزْنُهُ",
+          "root": "و ز ن",
+          "bs": "njegova težina",
+          "en": "his weight"
+        },
+        {
+          "w": "مُنَاسِبٌ",
+          "root": "ن س ب",
+          "bs": "odgovarajuća",
+          "en": "suitable"
+        },
+        {
+          "w": "صِحَّتُهُ",
+          "root": "ص ح ح",
+          "bs": "njegovo zdravlje",
+          "en": "his health"
+        },
+        {
+          "w": "مُمْتَازَةٌ",
+          "root": "م ت ز",
+          "bs": "odlično",
+          "en": "excellent"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["salad", "nutrition", "olive oil", "weight"]
+    "tags": [
+      "salad",
+      "nutrition",
+      "olive oil",
+      "weight"
+    ]
   }
 }

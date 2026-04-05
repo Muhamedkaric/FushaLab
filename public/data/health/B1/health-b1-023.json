@@ -6,26 +6,117 @@
     {
       "arabic": "تَتَمَدَّدُ يَسْمِينُ كُلَّ صَبَاحٍ لِمُدَّةِ خَمْسَ عَشْرَةَ دَقِيقَةً.",
       "translation": "Jasmin se isteže svako jutro petnaest minuta.",
-      "translationEn": "Yasmin stretches every morning for fifteen minutes."
+      "translationEn": "Yasmin stretches every morning for fifteen minutes.",
+      "words": [
+        {
+          "w": "تَتَمَدَّدُ",
+          "root": "م د د",
+          "bs": "isteže se",
+          "en": "stretches"
+        },
+        {
+          "w": "دَقِيقَةً",
+          "root": "د ق ق",
+          "bs": "minuta",
+          "en": "minutes"
+        }
+      ]
     },
     {
       "arabic": "تَقُولُ إِنَّ التَّمَدُّدَ يُخَفِّفُ أَلَمَ الظَّهْرِ.",
       "translation": "Kaže da istezanje smanjuje bol u leđima.",
-      "translationEn": "She says that stretching reduces back pain."
+      "translationEn": "She says that stretching reduces back pain.",
+      "words": [
+        {
+          "w": "التَّمَدُّدَ",
+          "root": "م د د",
+          "bs": "istezanje",
+          "en": "stretching"
+        },
+        {
+          "w": "يُخَفِّفُ",
+          "root": "خ ف ف",
+          "bs": "smanjuje",
+          "en": "reduces"
+        },
+        {
+          "w": "أَلَمَ",
+          "root": "أ ل م",
+          "bs": "bol",
+          "en": "pain"
+        },
+        {
+          "w": "الظَّهْرِ",
+          "root": "ظ ه ر",
+          "bs": "leđa",
+          "en": "back"
+        }
+      ]
     },
     {
       "arabic": "تَعَلَّمَتْ هَذِهِ التَّمَارِينَ مِنْ كِتَابٍ عَنِ الصِّحَّةِ.",
       "translation": "Naučila je ove vježbe iz knjige o zdravlju.",
-      "translationEn": "She learned these exercises from a health book."
+      "translationEn": "She learned these exercises from a health book.",
+      "words": [
+        {
+          "w": "تَعَلَّمَتْ",
+          "root": "ع ل م",
+          "bs": "naučila je",
+          "en": "learned"
+        },
+        {
+          "w": "التَّمَارِينَ",
+          "root": "م ر ن",
+          "bs": "vježbe",
+          "en": "exercises"
+        },
+        {
+          "w": "كِتَابٍ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book"
+        },
+        {
+          "w": "الصِّحَّةِ",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health"
+        }
+      ]
     },
     {
       "arabic": "نَصَحَتْ أُمَّهَا بِنَفْسِ التَّمَارِينِ.",
       "translation": "Savjetovala je majci iste vježbe.",
-      "translationEn": "She recommended the same exercises to her mother."
+      "translationEn": "She recommended the same exercises to her mother.",
+      "words": [
+        {
+          "w": "نَصَحَتْ",
+          "root": "ن ص ح",
+          "bs": "savjetovala je",
+          "en": "advised"
+        },
+        {
+          "w": "أُمَّهَا",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother"
+        },
+        {
+          "w": "التَّمَارِينِ",
+          "root": "م ر ن",
+          "bs": "vježbe",
+          "en": "exercises"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["stretching", "exercise", "back pain", "morning"]
+    "tags": [
+      "stretching",
+      "exercise",
+      "back pain",
+      "morning"
+    ]
   }
 }

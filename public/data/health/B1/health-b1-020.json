@@ -6,31 +6,166 @@
     {
       "arabic": "ذَهَبَتْ رَنَا إِلَى الصَّيْدَلِيَّةِ لِتَشْتَرِيَ دَوَاءً لِلصُّدَاعِ.",
       "translation": "Rana je otišla u apoteku da kupi lijek za glavobolju.",
-      "translationEn": "Rana went to the pharmacy to buy medicine for a headache."
+      "translationEn": "Rana went to the pharmacy to buy medicine for a headache.",
+      "words": [
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla je",
+          "en": "went"
+        },
+        {
+          "w": "الصَّيْدَلِيَّةِ",
+          "root": "ص ي د",
+          "bs": "apoteka",
+          "en": "pharmacy"
+        },
+        {
+          "w": "دَوَاءً",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "لِلصُّدَاعِ",
+          "root": "ص د ع",
+          "bs": "za glavobolju",
+          "en": "for headache"
+        }
+      ]
     },
     {
       "arabic": "سَأَلَ الصَّيْدَلَانِيُّ إِذَا كَانَتْ تَأْخُذُ أَدْوِيَةً أُخْرَى.",
       "translation": "Farmaceut je upitao da li uzima neke druge lijekove.",
-      "translationEn": "The pharmacist asked if she was taking any other medicines."
+      "translationEn": "The pharmacist asked if she was taking any other medicines.",
+      "words": [
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "upitao je",
+          "en": "asked"
+        },
+        {
+          "w": "الصَّيْدَلَانِيُّ",
+          "root": "ص ي د",
+          "bs": "farmaceut",
+          "en": "pharmacist"
+        },
+        {
+          "w": "تَأْخُذُ",
+          "root": "أ خ ذ",
+          "bs": "uzima",
+          "en": "taking"
+        },
+        {
+          "w": "أَدْوِيَةً",
+          "root": "د و ي",
+          "bs": "lijekovi",
+          "en": "medicines"
+        }
+      ]
     },
     {
       "arabic": "قَالَتْ لَا وَأَخَذَتِ الدَّوَاءَ الَّذِي أَوْصَى بِهِ.",
       "translation": "Rekla je ne i uzela lijek koji je preporučio.",
-      "translationEn": "She said no and took the medicine he recommended."
+      "translationEn": "She said no and took the medicine he recommended.",
+      "words": [
+        {
+          "w": "أَخَذَتِ",
+          "root": "أ خ ذ",
+          "bs": "uzela je",
+          "en": "took"
+        },
+        {
+          "w": "الدَّوَاءَ",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "أَوْصَى",
+          "root": "و ص ي",
+          "bs": "preporučio je",
+          "en": "recommended"
+        }
+      ]
     },
     {
       "arabic": "تَنَاوَلَتِ الدَّوَاءَ مَعَ كُوبٍ مِنَ الْمَاءِ وَاسْتَرَاحَتْ.",
       "translation": "Uzela je lijek s čašom vode i odmorila se.",
-      "translationEn": "She took the medicine with a glass of water and rested."
+      "translationEn": "She took the medicine with a glass of water and rested.",
+      "words": [
+        {
+          "w": "تَنَاوَلَتِ",
+          "root": "ن و ل",
+          "bs": "uzela je",
+          "en": "took"
+        },
+        {
+          "w": "الدَّوَاءَ",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine"
+        },
+        {
+          "w": "كُوبٍ",
+          "root": "ك و ب",
+          "bs": "čaša",
+          "en": "glass"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water"
+        },
+        {
+          "w": "اسْتَرَاحَتْ",
+          "root": "ر و ح",
+          "bs": "odmorila se",
+          "en": "rested"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ سَاعَةٍ ذَهَبَ الصُّدَاعُ وَشَعَرَتْ بِتَحَسُّنٍ.",
       "translation": "Nakon sat vremena glavobolja je prošla i osjetila se bolje.",
-      "translationEn": "After an hour the headache went away and she felt better."
+      "translationEn": "After an hour the headache went away and she felt better.",
+      "words": [
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "prošla je",
+          "en": "went away"
+        },
+        {
+          "w": "الصُّدَاعُ",
+          "root": "ص د ع",
+          "bs": "glavobolja",
+          "en": "headache"
+        },
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjetila se",
+          "en": "felt"
+        },
+        {
+          "w": "بِتَحَسُّنٍ",
+          "root": "ح س ن",
+          "bs": "bolje",
+          "en": "better"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["headache", "pharmacy", "medicine", "rest"]
+    "tags": [
+      "headache",
+      "pharmacy",
+      "medicine",
+      "rest"
+    ]
   }
 }

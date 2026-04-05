@@ -6,22 +6,108 @@
     {
       "arabic": "كَانَ حَمَدٌ يَعْمَلُ وَيَتَعَبُ لِيُطْعِمَ عَائِلَتَهُ.",
       "translation": "Hamad je radio i naprezao se da prehrani porodicu.",
-      "translationEn": "Hamad worked and toiled to feed his family."
+      "translationEn": "Hamad worked and toiled to feed his family.",
+      "words": [
+        {
+          "w": "يَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radio je",
+          "en": "worked"
+        },
+        {
+          "w": "يَتَعَبُ",
+          "root": "ت ع ب",
+          "bs": "naprezao se",
+          "en": "toiled"
+        },
+        {
+          "w": "يُطْعِمَ",
+          "root": "ط ع م",
+          "bs": "prehrani",
+          "en": "feed"
+        },
+        {
+          "w": "عَائِلَتَهُ",
+          "root": "ع و ل",
+          "bs": "porodicu",
+          "en": "his family"
+        }
+      ]
     },
     {
       "arabic": "كَانَ دَائِمًا أَمِينًا فِي عَمَلِهِ وَلَا يَكْذِبُ.",
       "translation": "Uvijek je bio pošten u poslu i nije lagao.",
-      "translationEn": "He was always trustworthy in his work and did not lie."
+      "translationEn": "He was always trustworthy in his work and did not lie.",
+      "words": [
+        {
+          "w": "أَمِينًا",
+          "root": "أ م ن",
+          "bs": "pošten",
+          "en": "trustworthy"
+        },
+        {
+          "w": "عَمَلِهِ",
+          "root": "ع م ل",
+          "bs": "poslu",
+          "en": "his work"
+        },
+        {
+          "w": "يَكْذِبُ",
+          "root": "ك ذ ب",
+          "bs": "lagao",
+          "en": "lie"
+        }
+      ]
     },
     {
       "arabic": "يَعْتَقِدُ أَنَّ الْعَمَلَ الصَّالِحَ عِبَادَةٌ.",
       "translation": "Vjeruje da je dobro djelo ibadeta.",
-      "translationEn": "He believes that good work is worship."
+      "translationEn": "He believes that good work is worship.",
+      "words": [
+        {
+          "w": "يَعْتَقِدُ",
+          "root": "ع ق د",
+          "bs": "vjeruje",
+          "en": "believes"
+        },
+        {
+          "w": "الْعَمَلَ الصَّالِحَ",
+          "root": "ص ل ح",
+          "bs": "dobro djelo",
+          "en": "good work"
+        },
+        {
+          "w": "عِبَادَةٌ",
+          "root": "ع ب د",
+          "bs": "ibadet",
+          "en": "worship"
+        }
+      ]
     },
     {
       "arabic": "يَقُولُ: أَعْمَلُ وَأَتَوَكَّلُ عَلَى اللَّهِ.",
       "translation": "Kaže: Radim i oslanjam se na Allaha.",
-      "translationEn": "He says: I work and put my trust in God."
+      "translationEn": "He says: I work and put my trust in God.",
+      "words": [
+        {
+          "w": "أَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radim",
+          "en": "I work"
+        },
+        {
+          "w": "أَتَوَكَّلُ",
+          "root": "و ك ل",
+          "bs": "oslanjam se",
+          "en": "put my trust"
+        },
+        {
+          "w": "اللَّهِ",
+          "root": "أ ل ه",
+          "bs": "na Allaha",
+          "en": "in God"
+        }
+      ]
     }
   ],
   "metadata": {

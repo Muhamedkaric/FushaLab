@@ -6,22 +6,46 @@
     {
       "arabic": "احْتَاجَ صَالِحٌ مَالًا لِإِصْلَاحِ سَيَّارَتِهِ.",
       "translation": "Salih je trebao novac za popravku auta.",
-      "translationEn": "Salih needed money to repair his car."
+      "translationEn": "Salih needed money to repair his car.",
+      "words": [
+        { "w": "احْتَاجَ", "root": "ح و ج", "bs": "trebao je", "en": "needed" },
+        { "w": "مَالًا", "root": "م و ل", "bs": "novac", "en": "money" },
+        { "w": "لِإِصْلَاحِ", "root": "ص ل ح", "bs": "za popravku", "en": "to repair" },
+        { "w": "سَيَّارَتِهِ", "root": "س ي ر", "bs": "njegov auto", "en": "his car" }
+      ]
     },
     {
       "arabic": "طَلَبَ مِنْ أَخِيهِ أَنْ يُقْرِضَهُ.",
       "translation": "Zatražio je od brata da mu pozajmi.",
-      "translationEn": "He asked his brother to lend him money."
+      "translationEn": "He asked his brother to lend him money.",
+      "words": [
+        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zatražio je", "en": "asked" },
+        { "w": "أَخِيهِ", "root": "أ خ و", "bs": "njegov brat", "en": "his brother" },
+        { "w": "يُقْرِضَهُ", "root": "ق ر ض", "bs": "da mu pozajmi", "en": "to lend him" }
+      ]
     },
     {
       "arabic": "أَعْطَاهُ الأَخُ المَبْلَغَ بِكُلِّ سَعَادَةٍ.",
       "translation": "Brat mu je s radošću dao iznos.",
-      "translationEn": "The brother gave him the amount happily."
+      "translationEn": "The brother gave him the amount happily.",
+      "words": [
+        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "gave him" },
+        { "w": "الأَخُ", "root": "أ خ و", "bs": "brat", "en": "the brother" },
+        { "w": "المَبْلَغَ", "root": "ب ل غ", "bs": "iznos", "en": "the amount" },
+        { "w": "سَعَادَةٍ", "root": "س ع د", "bs": "radost", "en": "happiness" }
+      ]
     },
     {
       "arabic": "وَعَدَ صَالِحٌ بِرَدِّ المَبْلَغِ فِي نِهَايَةِ الشَّهْرِ.",
       "translation": "Salih je obećao da će vratiti iznos krajem mjeseca.",
-      "translationEn": "Salih promised to return the amount at the end of the month."
+      "translationEn": "Salih promised to return the amount at the end of the month.",
+      "words": [
+        { "w": "وَعَدَ", "root": "و ع د", "bs": "obećao je", "en": "promised" },
+        { "w": "بِرَدِّ", "root": "ر د د", "bs": "da vrati", "en": "to return" },
+        { "w": "المَبْلَغِ", "root": "ب ل غ", "bs": "iznos", "en": "the amount" },
+        { "w": "نِهَايَةِ", "root": "ن ه ي", "bs": "kraj", "en": "end" },
+        { "w": "الشَّهْرِ", "root": "ش ه ر", "bs": "mjesec", "en": "month" }
+      ]
     }
   ],
   "metadata": {

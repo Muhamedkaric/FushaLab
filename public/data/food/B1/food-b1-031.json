@@ -6,22 +6,48 @@
     {
       "arabic": "اشْتَرَتْ نُورُ كَثِيرًا مِنَ التَّمْرِ مِنَ السُّوقِ.",
       "translation": "Nur je kupila mnogo hurmi na pijaci.",
-      "translationEn": "Nour bought a lot of dates from the market."
+      "translationEn": "Nour bought a lot of dates from the market.",
+      "words": [
+        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
+        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "mnogo/puno", "en": "a lot" },
+        { "w": "التَّمْرِ", "root": "ت م ر", "bs": "hurme/datule", "en": "dates" },
+        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca/tržnica", "en": "market" }
+      ]
     },
     {
       "arabic": "وَضَعَتِ التَّمْرَ فِي طَبَقٍ جَمِيلٍ لِلضُّيُوفِ.",
       "translation": "Stavila je hurme u lijepi tanjir za goste.",
-      "translationEn": "She placed the dates in a beautiful dish for the guests."
+      "translationEn": "She placed the dates in a beautiful dish for the guests.",
+      "words": [
+        { "w": "وَضَعَتِ", "root": "و ض ع", "bs": "stavila je", "en": "placed" },
+        { "w": "التَّمْرَ", "root": "ت م ر", "bs": "hurme/datule", "en": "dates" },
+        { "w": "طَبَقٍ", "root": "ط ب ق", "bs": "tanjir/posuda", "en": "dish/plate" },
+        { "w": "جَمِيلٍ", "root": "ج م ل", "bs": "lijep/lijepi", "en": "beautiful" },
+        { "w": "الضُّيُوفِ", "root": "ض ي ف", "bs": "gosti", "en": "guests" }
+      ]
     },
     {
       "arabic": "قَالَ الضَّيْفُ: التَّمْرُ مِنْ أَحْلَى الثِّمَارِ.",
       "translation": "Gost je rekao: Hurme su od najslađeg voća.",
-      "translationEn": "The guest said: Dates are among the sweetest fruits."
+      "translationEn": "The guest said: Dates are among the sweetest fruits.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "الضَّيْفُ", "root": "ض ي ف", "bs": "gost", "en": "guest" },
+        { "w": "التَّمْرُ", "root": "ت م ر", "bs": "hurme/datule", "en": "dates" },
+        { "w": "أَحْلَى", "root": "ح ل و", "bs": "najslađi/od najslađih", "en": "sweetest" },
+        { "w": "الثِّمَارِ", "root": "ث م ر", "bs": "voće/plodovi", "en": "fruits" }
+      ]
     },
     {
       "arabic": "شَرِبُوا الْقَهْوَةَ مَعَ التَّمْرِ وَتَحَدَّثُوا.",
       "translation": "Pili su kafu sa hurmama i razgovarali.",
-      "translationEn": "They drank coffee with dates and talked."
+      "translationEn": "They drank coffee with dates and talked.",
+      "words": [
+        { "w": "شَرِبُوا", "root": "ش ر ب", "bs": "pili su", "en": "drank" },
+        { "w": "الْقَهْوَةَ", "root": "ق ه و", "bs": "kafa/kava", "en": "coffee" },
+        { "w": "التَّمْرِ", "root": "ت م ر", "bs": "hurme/datule", "en": "dates" },
+        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" }
+      ]
     }
   ],
   "metadata": {

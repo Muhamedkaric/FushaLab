@@ -6,26 +6,135 @@
     {
       "arabic": "تَسْبَحُ مَرْيَمُ فِي الْمَسْبَحِ ثَلَاثَ مَرَّاتٍ فِي الْأُسْبُوعِ.",
       "translation": "Merjema pliva u bazenu tri puta sedmično.",
-      "translationEn": "Maryam swims in the pool three times a week."
+      "translationEn": "Maryam swims in the pool three times a week.",
+      "words": [
+        {
+          "w": "تَسْبَحُ",
+          "root": "س ب ح",
+          "bs": "pliva",
+          "en": "swims"
+        },
+        {
+          "w": "الْمَسْبَحِ",
+          "root": "س ب ح",
+          "bs": "bazen",
+          "en": "pool"
+        },
+        {
+          "w": "مَرَّاتٍ",
+          "root": "م ر ر",
+          "bs": "puta",
+          "en": "times"
+        },
+        {
+          "w": "الْأُسْبُوعِ",
+          "root": "س ب ع",
+          "bs": "sedmica",
+          "en": "week"
+        }
+      ]
     },
     {
       "arabic": "تَقُولُ إِنَّ السِّبَاحَةَ تُرِيحُ الْعَضَلَاتِ وَتُقَوِّي الْجِسْمَ.",
       "translation": "Kaže da plivanje opušta mišiće i jača tijelo.",
-      "translationEn": "She says that swimming relaxes the muscles and strengthens the body."
+      "translationEn": "She says that swimming relaxes the muscles and strengthens the body.",
+      "words": [
+        {
+          "w": "السِّبَاحَةَ",
+          "root": "س ب ح",
+          "bs": "plivanje",
+          "en": "swimming"
+        },
+        {
+          "w": "تُرِيحُ",
+          "root": "ر و ح",
+          "bs": "opušta",
+          "en": "relaxes"
+        },
+        {
+          "w": "الْعَضَلَاتِ",
+          "root": "ع ض ل",
+          "bs": "mišiće",
+          "en": "muscles"
+        },
+        {
+          "w": "تُقَوِّي",
+          "root": "ق و ي",
+          "bs": "jača",
+          "en": "strengthens"
+        },
+        {
+          "w": "الْجِسْمَ",
+          "root": "ج س م",
+          "bs": "tijelo",
+          "en": "body"
+        }
+      ]
     },
     {
       "arabic": "تَبَدَّأُ بِعَشْرِ دَقَائِقَ مِنَ التَّمْدِيدِ قَبْلَ السِّبَاحَةِ.",
       "translation": "Počinje s deset minuta istezanja prije plivanja.",
-      "translationEn": "She starts with ten minutes of stretching before swimming."
+      "translationEn": "She starts with ten minutes of stretching before swimming.",
+      "words": [
+        {
+          "w": "التَّمْدِيدِ",
+          "root": "م د د",
+          "bs": "istezanje",
+          "en": "stretching"
+        },
+        {
+          "w": "قَبْلَ",
+          "root": "ق ب ل",
+          "bs": "prije",
+          "en": "before"
+        },
+        {
+          "w": "السِّبَاحَةِ",
+          "root": "س ب ح",
+          "bs": "plivanje",
+          "en": "swimming"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ السِّبَاحَةِ تَشْعُرُ بِرَاحَةٍ كَبِيرَةٍ.",
       "translation": "Nakon plivanja osjeća se jako odmorno.",
-      "translationEn": "After swimming she feels very relaxed."
+      "translationEn": "After swimming she feels very relaxed.",
+      "words": [
+        {
+          "w": "السِّبَاحَةِ",
+          "root": "س ب ح",
+          "bs": "plivanje",
+          "en": "swimming"
+        },
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels"
+        },
+        {
+          "w": "بِرَاحَةٍ",
+          "root": "ر و ح",
+          "bs": "odmorno",
+          "en": "relaxed"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "root": "ك ب ر",
+          "bs": "jako",
+          "en": "great"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["swimming", "exercise", "muscles", "sport"]
+    "tags": [
+      "swimming",
+      "exercise",
+      "muscles",
+      "sport"
+    ]
   }
 }

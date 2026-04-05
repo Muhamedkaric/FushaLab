@@ -6,26 +6,99 @@
     {
       "arabic": "يَتَجَنَّبُ نَادِرٌ الْأَكْلَ كَثِيرًا فِي اللَّيْلِ.",
       "translation": "Nadir izbjegava puno jesti noću.",
-      "translationEn": "Nadir avoids eating too much at night."
+      "translationEn": "Nadir avoids eating too much at night.",
+      "words": [
+        {
+          "w": "يَتَجَنَّبُ",
+          "root": "ج ن ب",
+          "bs": "izbjegava",
+          "en": "avoids"
+        },
+        {
+          "w": "الْأَكْلَ",
+          "root": "أ ك ل",
+          "bs": "jelo",
+          "en": "eating"
+        }
+      ]
     },
     {
       "arabic": "يَأْكُلُ عَشَاءَهُ قَبْلَ السَّاعَةِ الثَّامِنَةِ مَسَاءً.",
       "translation": "Večera prije osam sati uveče.",
-      "translationEn": "He has dinner before eight o'clock in the evening."
+      "translationEn": "He has dinner before eight o'clock in the evening.",
+      "words": [
+        {
+          "w": "يَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eats"
+        },
+        {
+          "w": "عَشَاءَهُ",
+          "root": "ع ش و",
+          "bs": "večera",
+          "en": "dinner"
+        }
+      ]
     },
     {
       "arabic": "قَالَ لَهُ الطَّبِيبُ إِنَّ ذَلِكَ مُفِيدٌ لِلْهَضْمِ.",
       "translation": "Ljekar mu je rekao da je to korisno za varenje.",
-      "translationEn": "The doctor told him that this is good for digestion."
+      "translationEn": "The doctor told him that this is good for digestion.",
+      "words": [
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "doctor"
+        },
+        {
+          "w": "مُفِيدٌ",
+          "root": "ف ي د",
+          "bs": "korisno",
+          "en": "good"
+        },
+        {
+          "w": "لِلْهَضْمِ",
+          "root": "ه ض م",
+          "bs": "za varenje",
+          "en": "for digestion"
+        }
+      ]
     },
     {
       "arabic": "يَشْعُرُ نَادِرٌ بِخِفَّةٍ وَرَاحَةٍ كُلَّ صَبَاحٍ.",
       "translation": "Nadir se svako jutro osjeća lako i odmorno.",
-      "translationEn": "Nadir feels light and rested every morning."
+      "translationEn": "Nadir feels light and rested every morning.",
+      "words": [
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels"
+        },
+        {
+          "w": "بِخِفَّةٍ",
+          "root": "خ ف ف",
+          "bs": "lako",
+          "en": "light"
+        },
+        {
+          "w": "وَرَاحَةٍ",
+          "root": "ر و ح",
+          "bs": "odmorno",
+          "en": "rested"
+        }
+      ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["dinner", "digestion", "night eating", "healthy habits"]
+    "tags": [
+      "dinner",
+      "digestion",
+      "night eating",
+      "healthy habits"
+    ]
   }
 }

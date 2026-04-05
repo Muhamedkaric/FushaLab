@@ -6,22 +6,112 @@
     {
       "arabic": "شَاهَدَ عَلِيٌّ فِيدِيُو مُضْحِكًا عَلَى الْهَاتِفِ.",
       "translation": "Ali je na telefonu gledao smiješan video.",
-      "translationEn": "Ali watched a funny video on his phone."
+      "translationEn": "Ali watched a funny video on his phone.",
+      "words": [
+        {
+          "w": "شَاهَدَ",
+          "root": "ش ه د",
+          "bs": "gledao je",
+          "en": "watched"
+        },
+        {
+          "w": "فِيدِيُو",
+          "bs": "video",
+          "en": "a video"
+        },
+        {
+          "w": "مُضْحِكًا",
+          "root": "ض ح ك",
+          "bs": "smiješan",
+          "en": "funny"
+        },
+        {
+          "w": "الْهَاتِفِ",
+          "root": "ه ت ف",
+          "bs": "telefonu",
+          "en": "the phone"
+        }
+      ]
     },
     {
       "arabic": "أَرْسَلَهُ إِلَى أَخِيهِ لِيَضْحَكَ مَعَهُ.",
       "translation": "Poslao ga je bratu da se zajedno nasmiju.",
-      "translationEn": "He sent it to his brother so they could laugh together."
+      "translationEn": "He sent it to his brother so they could laugh together.",
+      "words": [
+        {
+          "w": "أَرْسَلَهُ",
+          "root": "ر س ل",
+          "bs": "poslao ga je",
+          "en": "sent it"
+        },
+        {
+          "w": "أَخِيهِ",
+          "root": "أ خ و",
+          "bs": "bratu",
+          "en": "his brother"
+        },
+        {
+          "w": "يَضْحَكَ",
+          "root": "ض ح ك",
+          "bs": "nasmije se",
+          "en": "laugh"
+        }
+      ]
     },
     {
       "arabic": "ضَحِكَ الْأَخُ وَأَرْسَلَهُ إِلَى أَصْدِقَائِهِ أَيْضًا.",
       "translation": "Brat se nasmijao i poslao ga i svojim prijateljima.",
-      "translationEn": "The brother laughed and sent it to his friends as well."
+      "translationEn": "The brother laughed and sent it to his friends as well.",
+      "words": [
+        {
+          "w": "ضَحِكَ",
+          "root": "ض ح ك",
+          "bs": "nasmijao se",
+          "en": "laughed"
+        },
+        {
+          "w": "الْأَخُ",
+          "root": "أ خ و",
+          "bs": "brat",
+          "en": "the brother"
+        },
+        {
+          "w": "أَصْدِقَائِهِ",
+          "root": "ص د ق",
+          "bs": "prijateljima",
+          "en": "his friends"
+        }
+      ]
     },
     {
       "arabic": "انْتَشَرَ الْفِيدِيُو بَيْنَ الْجَمِيعِ فِي يَوْمٍ وَاحِدٍ.",
       "translation": "Video se proširio među svima za jedan dan.",
-      "translationEn": "The video spread among everyone in one day."
+      "translationEn": "The video spread among everyone in one day.",
+      "words": [
+        {
+          "w": "انْتَشَرَ",
+          "root": "ن ش ر",
+          "bs": "proširio se",
+          "en": "spread"
+        },
+        {
+          "w": "الْفِيدِيُو",
+          "bs": "video",
+          "en": "the video"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "danu",
+          "en": "day"
+        },
+        {
+          "w": "وَاحِدٍ",
+          "root": "و ح د",
+          "bs": "jednom",
+          "en": "one"
+        }
+      ]
     }
   ],
   "metadata": {

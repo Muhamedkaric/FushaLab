@@ -6,27 +6,56 @@
     {
       "arabic": "وَجَدَ طَارِقٌ بِذْرَةً غَرِيبَةَ الشَّكْلِ فِي الْحَدِيقَةِ.",
       "translation": "Tarik je pronašao sjemenku čudnog oblika u vrtu.",
-      "translationEn": "Tariq found a strangely shaped seed in the garden."
+      "translationEn": "Tariq found a strangely shaped seed in the garden.",
+      "words": [
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
+        { "w": "بِذْرَةً", "root": "ب ذ ر", "bs": "sjemenku", "en": "seed" },
+        { "w": "غَرِيبَةَ", "root": "غ ر ب", "bs": "čudnog", "en": "strange" },
+        { "w": "الشَّكْلِ", "root": "ش ك ل", "bs": "oblika", "en": "shape" },
+        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrtu", "en": "garden" }
+      ]
     },
     {
       "arabic": "زَرَعَهَا فِي التُّرْبَةِ وَسَقَاهَا كُلَّ يَوْمٍ.",
       "translation": "Posadio je sjemenku u zemlju i zalijevao je svaki dan.",
-      "translationEn": "He planted it in the soil and watered it every day."
+      "translationEn": "He planted it in the soil and watered it every day.",
+      "words": [
+        { "w": "زَرَعَهَا", "root": "ز ر ع", "bs": "posadio je", "en": "he planted it" },
+        { "w": "التُّرْبَةِ", "root": "ت ر ب", "bs": "zemlju", "en": "soil" },
+        { "w": "سَقَاهَا", "root": "س ق ي", "bs": "zalijevao je", "en": "he watered it" }
+      ]
     },
     {
       "arabic": "بَعْدَ أُسْبُوعٍ نَبَتَ نَبَاتٌ جَمِيلٌ بِأَزْهَارٍ بَيْضَاءَ.",
       "translation": "Sedmicu kasnije iznikla je lijepa biljka s bijelim cvjetovima.",
-      "translationEn": "After a week a beautiful plant with white flowers had grown."
+      "translationEn": "After a week a beautiful plant with white flowers had grown.",
+      "words": [
+        { "w": "نَبَتَ", "root": "ن ب ت", "bs": "iznikla je", "en": "had grown" },
+        { "w": "نَبَاتٌ", "root": "ن ب ت", "bs": "biljka", "en": "plant" },
+        { "w": "جَمِيلٌ", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" },
+        { "w": "أَزْهَارٍ", "root": "ز ه ر", "bs": "cvjetovima", "en": "flowers" },
+        { "w": "بَيْضَاءَ", "root": "ب ي ض", "bs": "bijelim", "en": "white" }
+      ]
     },
     {
       "arabic": "أَرَاهَا الْأَبُ لِجَارِهِمُ الَّذِي يَعْرِفُ النَّبَاتَاتِ.",
       "translation": "Otac ju je pokazao susjedu koji poznaje biljke.",
-      "translationEn": "The father showed it to their neighbour who knows about plants."
+      "translationEn": "The father showed it to their neighbour who knows about plants.",
+      "words": [
+        { "w": "أَرَاهَا", "root": "ر أ ي", "bs": "pokazao je", "en": "he showed it" },
+        { "w": "يَعْرِفُ", "root": "ع ر ف", "bs": "poznaje", "en": "knows" },
+        { "w": "النَّبَاتَاتِ", "root": "ن ب ت", "bs": "biljke", "en": "plants" }
+      ]
     },
     {
       "arabic": "قَالَ الْجَارُ: هَذَا يَاسَمِينٌ، رَائِحَتُهُ جَمِيلَةٌ جِدًّا.",
       "translation": "Susjed je rekao: Ovo je jasmin, njegov miris je veoma lijep.",
-      "translationEn": "The neighbour said: This is jasmine, its smell is very beautiful."
+      "translationEn": "The neighbour said: This is jasmine, its smell is very beautiful.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
+        { "w": "رَائِحَتُهُ", "root": "ر و ح", "bs": "miris", "en": "its smell" },
+        { "w": "جَمِيلَةٌ", "root": "ج م ل", "bs": "lijep", "en": "beautiful" }
+      ]
     }
   ],
   "metadata": {

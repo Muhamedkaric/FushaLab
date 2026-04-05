@@ -6,22 +6,47 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ الصَّدَاقَةَ الْحَقِيقِيَّةَ نِعْمَةٌ كَبِيرَةٌ.",
       "translation": "Smatram da je pravo prijateljstvo velika blagodat.",
-      "translationEn": "I believe that true friendship is a great blessing."
+      "translationEn": "I believe that true friendship is a great blessing.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "الصَّدَاقَةَ", "root": "ص د ق", "bs": "prijateljstvo", "en": "friendship" },
+        { "w": "الْحَقِيقِيَّةَ", "root": "ح ق ق", "bs": "pravo", "en": "true" },
+        { "w": "نِعْمَةٌ", "root": "ن ع م", "bs": "blagodat", "en": "blessing" },
+        { "w": "كَبِيرَةٌ", "root": "ك ب ر", "bs": "velika", "en": "great" }
+      ]
     },
     {
       "arabic": "الصَّدِيقُ الْحَقِيقِيُّ يَقِفُ مَعَكَ فِي الْأَوْقَاتِ الصَّعْبَةِ.",
       "translation": "Pravi prijatelj stoji uz tebe u teškim vremenima.",
-      "translationEn": "A true friend stands by you in difficult times."
+      "translationEn": "A true friend stands by you in difficult times.",
+      "words": [
+        { "w": "الصَّدِيقُ", "root": "ص د ق", "bs": "prijatelj", "en": "friend" },
+        { "w": "الْحَقِيقِيُّ", "root": "ح ق ق", "bs": "pravi", "en": "true" },
+        { "w": "يَقِفُ", "root": "و ق ف", "bs": "stoji", "en": "stands" },
+        { "w": "الْأَوْقَاتِ", "root": "و ق ت", "bs": "vremenima", "en": "times" },
+        { "w": "الصَّعْبَةِ", "root": "ص ع ب", "bs": "teškim", "en": "difficult" }
+      ]
     },
     {
       "arabic": "لَيْسَ مُهِمًّا أَنْ يَكُونَ لَكَ أَصْدِقَاءُ كَثِيرُونَ.",
       "translation": "Nije važno imati puno prijatelja.",
-      "translationEn": "It is not important to have many friends."
+      "translationEn": "It is not important to have many friends.",
+      "words": [
+        { "w": "مُهِمًّا", "root": "ه م م", "bs": "važno", "en": "important" },
+        { "w": "أَصْدِقَاءُ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
+        { "w": "كَثِيرُونَ", "root": "ك ث ر", "bs": "puno", "en": "many" }
+      ]
     },
     {
       "arabic": "الْمُهِمُّ أَنْ يَكُونَ لَكَ صَدِيقٌ وَاحِدٌ صَادِقٌ.",
       "translation": "Važno je imati jednog iskrenog prijatelja.",
-      "translationEn": "What matters is to have one honest friend."
+      "translationEn": "What matters is to have one honest friend.",
+      "words": [
+        { "w": "الْمُهِمُّ", "root": "ه م م", "bs": "važno", "en": "what matters" },
+        { "w": "صَدِيقٌ", "root": "ص د ق", "bs": "prijatelja", "en": "friend" },
+        { "w": "وَاحِدٌ", "root": "و ح د", "bs": "jednog", "en": "one" },
+        { "w": "صَادِقٌ", "root": "ص د ق", "bs": "iskrenog", "en": "honest" }
+      ]
     }
   ],
   "metadata": {

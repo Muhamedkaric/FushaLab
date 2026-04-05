@@ -6,22 +6,44 @@
     {
       "arabic": "كَانَ الطِّفْلُ يَخَافُ مِنَ الظَّلَامِ فِي اللَّيْلِ.",
       "translation": "Dijete se bojalo mraka noću.",
-      "translationEn": "The child was afraid of the dark at night."
+      "translationEn": "The child was afraid of the dark at night.",
+      "words": [
+        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "the child" },
+        { "w": "يَخَافُ", "root": "خ و ف", "bs": "boji se", "en": "is afraid" },
+        { "w": "الظَّلَامِ", "root": "ظ ل م", "bs": "mrak", "en": "the dark" }
+      ]
     },
     {
       "arabic": "كَانَ يَطْلُبُ مِنْ أُمِّهِ أَنْ تُشْعِلَ لَهُ الضَّوْءَ.",
       "translation": "Tražio je od majke da mu upali svjetlo.",
-      "translationEn": "He would ask his mother to turn on the light for him."
+      "translationEn": "He would ask his mother to turn on the light for him.",
+      "words": [
+        { "w": "يَطْلُبُ", "root": "ط ل ب", "bs": "traži", "en": "asks" },
+        { "w": "أُمِّهِ", "root": "أ م م", "bs": "njegova majka", "en": "his mother" },
+        { "w": "تُشْعِلَ", "root": "ش ع ل", "bs": "upali", "en": "turn on" },
+        { "w": "الضَّوْءَ", "root": "ض و أ", "bs": "svjetlo", "en": "the light" }
+      ]
     },
     {
       "arabic": "جَلَسَتِ الأُمُّ بِجَانِبِهِ حَتَّى نَامَ.",
       "translation": "Majka je sjedila pored njega dok nije zaspao.",
-      "translationEn": "The mother sat beside him until he fell asleep."
+      "translationEn": "The mother sat beside him until he fell asleep.",
+      "words": [
+        { "w": "جَلَسَتِ", "root": "ج ل س", "bs": "sjedila je", "en": "sat" },
+        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "the mother" },
+        { "w": "نَامَ", "root": "ن و م", "bs": "zaspao je", "en": "fell asleep" }
+      ]
     },
     {
       "arabic": "شَعَرَ بِالأَمَانِ حِينَ كَانَتْ أُمُّهُ قَرِيبَةً مِنْهُ.",
       "translation": "Osjećao se sigurno kada je majka bila blizu njega.",
-      "translationEn": "He felt safe when his mother was close to him."
+      "translationEn": "He felt safe when his mother was close to him.",
+      "words": [
+        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
+        { "w": "الأَمَانِ", "root": "أ م ن", "bs": "sigurnost", "en": "safety" },
+        { "w": "أُمُّهُ", "root": "أ م م", "bs": "njegova majka", "en": "his mother" },
+        { "w": "قَرِيبَةً", "root": "ق ر ب", "bs": "bliska", "en": "close" }
+      ]
     }
   ],
   "metadata": {

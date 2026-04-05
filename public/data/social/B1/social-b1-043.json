@@ -6,27 +6,54 @@
     {
       "arabic": "ذَهَبَتْ لَيْلَى إِلَى الصَّيْدَلِيَّةِ.",
       "translation": "Lejla je otišla u apoteku.",
-      "translationEn": "Layla went to the pharmacy."
+      "translationEn": "Layla went to the pharmacy.",
+      "words": [
+        { "w": "ذَهَبَتْ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
+        { "w": "الصَّيْدَلِيَّةِ", "root": "ص ي د", "bs": "apoteka", "en": "pharmacy" }
+      ]
     },
     {
       "arabic": "أَعْطَتِ الصَّيْدَلَانِيَّةَ وَصْفَةً مِنَ الطَّبِيبِ.",
       "translation": "Dala je farmaceutkinji recept od ljekara.",
-      "translationEn": "She gave the pharmacist a prescription from the doctor."
+      "translationEn": "She gave the pharmacist a prescription from the doctor.",
+      "words": [
+        { "w": "أَعْطَتِ", "root": "ع ط و", "bs": "dala je", "en": "gave" },
+        { "w": "الصَّيْدَلَانِيَّةَ", "root": "ص ي د", "bs": "farmaceutkinja", "en": "pharmacist" },
+        { "w": "وَصْفَةً", "root": "و ص ف", "bs": "recept", "en": "prescription" },
+        { "w": "الطَّبِيبِ", "root": "ط ب ب", "bs": "ljekar", "en": "doctor" }
+      ]
     },
     {
       "arabic": "شَرَحَتِ الصَّيْدَلَانِيَّةُ كَيْفَ تَأْخُذُ الدَّوَاءَ.",
       "translation": "Farmaceutkinja je objasnila kako uzimati lijek.",
-      "translationEn": "The pharmacist explained how to take the medicine."
+      "translationEn": "The pharmacist explained how to take the medicine.",
+      "words": [
+        { "w": "شَرَحَتِ", "root": "ش ر ح", "bs": "objasnila je", "en": "explained" },
+        { "w": "الصَّيْدَلَانِيَّةُ", "root": "ص ي د", "bs": "farmaceutkinja", "en": "the pharmacist" },
+        { "w": "تَأْخُذُ", "root": "أ خ ذ", "bs": "uzima", "en": "to take" },
+        { "w": "الدَّوَاءَ", "root": "د و ي", "bs": "lijek", "en": "medicine" }
+      ]
     },
     {
       "arabic": "دَفَعَتْ لَيْلَى وَشَكَرَتِ الصَّيْدَلَانِيَّةَ.",
       "translation": "Lejla je platila i zahvalila farmaceutkinji.",
-      "translationEn": "Layla paid and thanked the pharmacist."
+      "translationEn": "Layla paid and thanked the pharmacist.",
+      "words": [
+        { "w": "دَفَعَتْ", "root": "د ف ع", "bs": "platila je", "en": "paid" },
+        { "w": "شَكَرَتِ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
+        { "w": "الصَّيْدَلَانِيَّةَ", "root": "ص ي د", "bs": "farmaceutkinja", "en": "the pharmacist" }
+      ]
     },
     {
       "arabic": "رَجَعَتْ إِلَى البَيْتِ وَأَخَذَتِ الدَّوَاءَ.",
       "translation": "Vratila se kući i uzela lijek.",
-      "translationEn": "She returned home and took the medicine."
+      "translationEn": "She returned home and took the medicine.",
+      "words": [
+        { "w": "رَجَعَتْ", "root": "ر ج ع", "bs": "vratila se", "en": "returned" },
+        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" },
+        { "w": "أَخَذَتِ", "root": "أ خ ذ", "bs": "uzela je", "en": "took" },
+        { "w": "الدَّوَاءَ", "root": "د و ي", "bs": "lijek", "en": "medicine" }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,41 @@
     {
       "arabic": "سَمِعَ النَّاسُ: «الدُّنْيَا مَزْرَعَةُ الآخِرَةِ».",
       "translation": "Ljudi su čuli: «Ovaj svijet je njiva za onaj svijet».",
-      "translationEn": "People heard: «This world is the field for the next world»."
+      "translationEn": "People heard: «This world is the field for the next world».",
+      "words": [
+        { "w": "الدُّنْيَا", "root": "د ن و", "bs": "ovaj svijet", "en": "this world" },
+        { "w": "مَزْرَعَةُ", "root": "ز ر ع", "bs": "njiva", "en": "field" },
+        { "w": "الآخِرَةِ", "root": "أ خ ر", "bs": "onaj svijet", "en": "next world" }
+      ]
     },
     {
       "arabic": "يَعْنِي هَذَا أَنَّ أَفْعَالَنَا فِي الدُّنْيَا تُحَدِّدُ مَا يَنْتَظِرُنَا.",
       "translation": "To znači da naša djela na ovom svijetu određuju šta nas čeka.",
-      "translationEn": "This means that our actions in this world determine what awaits us."
+      "translationEn": "This means that our actions in this world determine what awaits us.",
+      "words": [
+        { "w": "أَفْعَالَنَا", "root": "ف ع ل", "bs": "naša djela", "en": "our actions" },
+        { "w": "تُحَدِّدُ", "root": "ح د د", "bs": "određuju", "en": "determine" },
+        { "w": "يَنْتَظِرُنَا", "root": "ن ظ ر", "bs": "čeka nas", "en": "awaits us" }
+      ]
     },
     {
       "arabic": "أَحْسَنَ خَلِيلٌ إِلَى النَّاسِ طَوَالَ حَيَاتِهِ.",
       "translation": "Halil je činio dobro ljudima tokom cijelog života.",
-      "translationEn": "Khalil was good to people throughout his life."
+      "translationEn": "Khalil was good to people throughout his life.",
+      "words": [
+        { "w": "أَحْسَنَ", "root": "ح س ن", "bs": "činio je dobro", "en": "was good" },
+        { "w": "حَيَاتِهِ", "root": "ح ي ي", "bs": "njegov život", "en": "his life" }
+      ]
     },
     {
       "arabic": "عِنْدَمَا احْتَاجَ إِلَى مُسَاعَدَةٍ وَجَدَ كَثِيرًا مِنَ النَّاسِ حَوْلَهُ.",
       "translation": "Kad mu je trebala pomoć, pronašao je mnogo ljudi oko sebe.",
-      "translationEn": "When he needed help, he found many people around him."
+      "translationEn": "When he needed help, he found many people around him.",
+      "words": [
+        { "w": "احْتَاجَ", "root": "ح و ج", "bs": "trebalo mu je", "en": "needed" },
+        { "w": "مُسَاعَدَةٍ", "root": "س ع د", "bs": "pomoć", "en": "help" },
+        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" }
+      ]
     }
   ],
   "metadata": {

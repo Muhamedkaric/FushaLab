@@ -6,27 +6,55 @@
     {
       "arabic": "سَأَلَ زَيْدٌ زَمِيلَهُ عَنْ خُطَطِ نِهَايَةِ الأُسْبُوعِ.",
       "translation": "Zejd je pitao kolegu o planovima za vikend.",
-      "translationEn": "Zaid asked his colleague about weekend plans."
+      "translationEn": "Zaid asked his colleague about weekend plans.",
+      "words": [
+        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
+        { "w": "زَمِيلَهُ", "root": "ز م ل", "bs": "kolegu", "en": "colleague" },
+        { "w": "خُطَطِ", "root": "خ ط ط", "bs": "planovima", "en": "plans" },
+        { "w": "نِهَايَةِ", "root": "ن هـ ي", "bs": "kraju", "en": "end" },
+        { "w": "الأُسْبُوعِ", "root": "س ب ع", "bs": "sedmice", "en": "week" }
+      ]
     },
     {
       "arabic": "قَالَ إِنَّهُ سَيَذْهَبُ مَعَ الأُسْرَةِ إِلَى الشَّاطِئِ.",
       "translation": "Rekao je da će ići s porodicom na plažu.",
-      "translationEn": "He said he would go with the family to the beach."
+      "translationEn": "He said he would go with the family to the beach.",
+      "words": [
+        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
+        { "w": "سَيَذْهَبُ", "root": "ذ هـ ب", "bs": "ići će", "en": "will go" },
+        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodicom", "en": "family" },
+        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plažu", "en": "beach" }
+      ]
     },
     {
       "arabic": "سَأَلَهُ زَيْدٌ عَنِ المَكَانِ وَالوَقْتِ.",
       "translation": "Zejd ga je pitao o mjestu i vremenu.",
-      "translationEn": "Zaid asked him about the place and time."
+      "translationEn": "Zaid asked him about the place and time.",
+      "words": [
+        { "w": "سَأَلَهُ", "root": "س أ ل", "bs": "pitao ga je", "en": "asked him" },
+        { "w": "المَكَانِ", "root": "م ك ن", "bs": "mjestu", "en": "place" },
+        { "w": "الوَقْتِ", "root": "و ق ت", "bs": "vremenu", "en": "time" }
+      ]
     },
     {
       "arabic": "قَرَّرَ زَيْدٌ أَنْ يَذْهَبَ مَعَهُمْ أَيْضًا.",
       "translation": "Zejd je odlučio da i on ide s njima.",
-      "translationEn": "Zaid decided to go with them too."
+      "translationEn": "Zaid decided to go with them too.",
+      "words": [
+        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
+        { "w": "يَذْهَبَ", "root": "ذ هـ ب", "bs": "idi", "en": "go" }
+      ]
     },
     {
       "arabic": "فَرِحَ الجَمِيعُ وَانْتَظَرُوا يَوْمَ الجُمُعَةِ بِشَوْقٍ.",
       "translation": "Svi su se radovali i nestrpljivo čekali petak.",
-      "translationEn": "Everyone was happy and eagerly waited for Friday."
+      "translationEn": "Everyone was happy and eagerly waited for Friday.",
+      "words": [
+        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "radovali su se", "en": "were happy" },
+        { "w": "الجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
+        { "w": "انْتَظَرُوا", "root": "ن ظ ر", "bs": "čekali su", "en": "waited" },
+        { "w": "بِشَوْقٍ", "root": "ش و ق", "bs": "nestrpljivo", "en": "eagerly" }
+      ]
     }
   ],
   "metadata": {

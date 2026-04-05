@@ -6,22 +6,48 @@
     {
       "arabic": "أَعْتَقِدُ أَنَّ الصِّدْقَ أَهَمُّ صِفَةٍ فِي الْإِنْسَانِ.",
       "translation": "Smatram da je iskrenost najvažnija osobina čovjeka.",
-      "translationEn": "I believe that honesty is the most important quality in a person."
+      "translationEn": "I believe that honesty is the most important quality in a person.",
+      "words": [
+        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
+        { "w": "الصِّدْقَ", "root": "ص د ق", "bs": "iskrenost", "en": "honesty" },
+        { "w": "أَهَمُّ", "root": "ه م م", "bs": "najvažnija", "en": "most important" },
+        { "w": "صِفَةٍ", "root": "ص ف و", "bs": "osobina", "en": "quality" },
+        { "w": "الْإِنْسَانِ", "root": "أ ن س", "bs": "čovjeka", "en": "person" }
+      ]
     },
     {
       "arabic": "الشَّخْصُ الصَّادِقُ يَثِقُ النَّاسُ بِهِ دَائِمًا.",
       "translation": "Iskrenoj osobi uvijek se vjeruje.",
-      "translationEn": "An honest person is always trusted by people."
+      "translationEn": "An honest person is always trusted by people.",
+      "words": [
+        { "w": "الشَّخْصُ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
+        { "w": "الصَّادِقُ", "root": "ص د ق", "bs": "iskrena", "en": "honest" },
+        { "w": "يَثِقُ", "root": "و ث ق", "bs": "vjeruje", "en": "trusts" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "دَائِمًا", "root": "د و م", "bs": "uvijek", "en": "always" }
+      ]
     },
     {
       "arabic": "حِينَ تَكُونُ صَادِقًا لَا تَحْتَاجُ إِلَى تَذَكُّرِ مَا قُلْتَ.",
       "translation": "Kada si iskren, ne trebaš pamtiti šta si rekao.",
-      "translationEn": "When you are honest you do not need to remember what you said."
+      "translationEn": "When you are honest you do not need to remember what you said.",
+      "words": [
+        { "w": "صَادِقًا", "root": "ص د ق", "bs": "iskren", "en": "honest" },
+        { "w": "تَحْتَاجُ", "root": "ح و ج", "bs": "trebaš", "en": "you need" },
+        { "w": "تَذَكُّرِ", "root": "ذ ك ر", "bs": "pamtiti", "en": "to remember" },
+        { "w": "قُلْتَ", "root": "ق و ل", "bs": "rekao si", "en": "you said" }
+      ]
     },
     {
       "arabic": "أُحَاوِلُ دَائِمًا أَنْ أَقُولَ الْحَقِيقَةَ.",
       "translation": "Uvijek se trudim govoriti istinu.",
-      "translationEn": "I always try to tell the truth."
+      "translationEn": "I always try to tell the truth.",
+      "words": [
+        { "w": "أُحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
+        { "w": "دَائِمًا", "root": "د و م", "bs": "uvijek", "en": "always" },
+        { "w": "أَقُولَ", "root": "ق و ل", "bs": "govoriti", "en": "to say" },
+        { "w": "الْحَقِيقَةَ", "root": "ح ق ق", "bs": "istinu", "en": "the truth" }
+      ]
     }
   ],
   "metadata": {

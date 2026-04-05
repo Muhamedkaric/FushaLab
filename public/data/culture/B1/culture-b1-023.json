@@ -6,27 +6,55 @@
     {
       "arabic": "فِي رَأْسِ السَّنَةِ، يَتَبَادَلُ النَّاسُ التَّهَانِيَ.",
       "translation": "Na Novu godinu, ljudi razmjenjuju čestitke.",
-      "translationEn": "On New Year's, people exchange congratulations."
+      "translationEn": "On New Year's, people exchange congratulations.",
+      "words": [
+        { "w": "السَّنَةِ", "root": "س ن ي", "bs": "godinu", "en": "year" },
+        { "w": "يَتَبَادَلُ", "root": "ب د ل", "bs": "razmjenjuju", "en": "exchange" },
+        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
+        { "w": "التَّهَانِيَ", "root": "هـ ن أ", "bs": "čestitke", "en": "congratulations" }
+      ]
     },
     {
       "arabic": "يَقُولُونَ «كُلُّ عَامٍ وَأَنْتُمْ بِخَيْرٍ».",
       "translation": "Kažu «Kul am ve antum bihajr».",
-      "translationEn": "They say «May you be well every year»."
+      "translationEn": "They say «May you be well every year».",
+      "words": [
+        { "w": "يَقُولُونَ", "root": "ق و ل", "bs": "kažu", "en": "say" },
+        { "w": "عَامٍ", "root": "ع و م", "bs": "godina", "en": "year" },
+        { "w": "بِخَيْرٍ", "root": "خ ي ر", "bs": "dobro", "en": "well" }
+      ]
     },
     {
       "arabic": "يَزُورُونَ الأَصْدِقَاءَ وَيُقَدِّمُونَ الهَدَايَا.",
       "translation": "Posjećuju prijatelje i donose poklone.",
-      "translationEn": "They visit friends and bring gifts."
+      "translationEn": "They visit friends and bring gifts.",
+      "words": [
+        { "w": "يَزُورُونَ", "root": "ز و ر", "bs": "posjećuju", "en": "visit" },
+        { "w": "الأَصْدِقَاءَ", "root": "ص د ق", "bs": "prijatelje", "en": "friends" },
+        { "w": "يُقَدِّمُونَ", "root": "ق د م", "bs": "donose", "en": "bring" },
+        { "w": "الهَدَايَا", "root": "هـ د ي", "bs": "poklone", "en": "gifts" }
+      ]
     },
     {
       "arabic": "الاحْتِفَالُ بِالسَّنَةِ الجَدِيدَةِ يَخْتَلِفُ مِنْ بَلَدٍ إِلَى بَلَدٍ.",
       "translation": "Proslava Nove godine se razlikuje od zemlje do zemlje.",
-      "translationEn": "The New Year celebration differs from country to country."
+      "translationEn": "The New Year celebration differs from country to country.",
+      "words": [
+        { "w": "الاحْتِفَالُ", "root": "ح ف ل", "bs": "proslava", "en": "celebration" },
+        { "w": "السَّنَةِ", "root": "س ن ي", "bs": "godine", "en": "year" },
+        { "w": "الجَدِيدَةِ", "root": "ج د د", "bs": "nove", "en": "new" },
+        { "w": "يَخْتَلِفُ", "root": "خ ل ف", "bs": "razlikuje se", "en": "differs" },
+        { "w": "بَلَدٍ", "root": "ب ل د", "bs": "zemlja", "en": "country" }
+      ]
     },
     {
       "arabic": "الأَهَمُّ هُوَ أَنْ نَكُونَ مَعَ مَنْ نُحِبُّ.",
       "translation": "Najvažnije je biti s onima koje volimo.",
-      "translationEn": "The most important thing is to be with those we love."
+      "translationEn": "The most important thing is to be with those we love.",
+      "words": [
+        { "w": "الأَهَمُّ", "root": "هـ م م", "bs": "najvažnije", "en": "most important" },
+        { "w": "نُحِبُّ", "root": "ح ب ب", "bs": "volimo", "en": "we love" }
+      ]
     }
   ],
   "metadata": {
