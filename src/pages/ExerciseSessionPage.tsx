@@ -104,7 +104,12 @@ function OptionBtn({ label, state, onClick, isArabic }: OptionBtnProps) {
 
 function PromptLabel({ text }: { text: string }) {
   return (
-    <Typography variant="caption" color="text.secondary" fontWeight={600} sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}>
+    <Typography
+      variant="caption"
+      color="text.secondary"
+      fontWeight={600}
+      sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}
+    >
       {text}
     </Typography>
   )
@@ -144,7 +149,12 @@ function WordMeaningCard({
         )}
         <Typography
           dir="rtl"
-          sx={{ fontFamily: 'Amiri, serif', fontSize: '3.5rem', lineHeight: 1.4, color: 'text.primary' }}
+          sx={{
+            fontFamily: 'Amiri, serif',
+            fontSize: '3.5rem',
+            lineHeight: 1.4,
+            color: 'text.primary',
+          }}
         >
           {exercise.arabic}
         </Typography>
@@ -271,21 +281,9 @@ function FillBlankCard({
               mx: 0.5,
               borderRadius: 1,
               border: '2px dashed',
-              borderColor: !answered
-                ? 'text.disabled'
-                : isCorrect
-                  ? 'success.main'
-                  : 'error.main',
-              bgcolor: !answered
-                ? 'transparent'
-                : isCorrect
-                  ? 'success.light'
-                  : 'error.light',
-              color: !answered
-                ? 'text.disabled'
-                : isCorrect
-                  ? 'success.dark'
-                  : 'error.dark',
+              borderColor: !answered ? 'text.disabled' : isCorrect ? 'success.main' : 'error.main',
+              bgcolor: !answered ? 'transparent' : isCorrect ? 'success.light' : 'error.light',
+              color: !answered ? 'text.disabled' : isCorrect ? 'success.dark' : 'error.dark',
               transition: 'all 0.2s',
               fontFamily: 'Amiri, serif',
             }}
@@ -305,7 +303,9 @@ function FillBlankCard({
               lineHeight: 1.8,
             }}
           >
-            ✓ {parts[0]}{exercise.options[exercise.correctIndex]}{parts[1] ?? ''}
+            ✓ {parts[0]}
+            {exercise.options[exercise.correctIndex]}
+            {parts[1] ?? ''}
           </Typography>
         )}
       </Box>
@@ -396,7 +396,9 @@ function OddOneOutCard({
                 alignItems: 'center',
                 justifyContent: 'space-between',
                 transition: 'all 0.15s',
-                '&:hover': !answered ? { borderColor: 'primary.main', bgcolor: 'action.hover' } : {},
+                '&:hover': !answered
+                  ? { borderColor: 'primary.main', bgcolor: 'action.hover' }
+                  : {},
               }}
             >
               <Typography
@@ -434,7 +436,13 @@ function OddOneOutCard({
       </Stack>
       {answered && (
         <Box
-          sx={{ p: 1.5, bgcolor: 'success.light', borderRadius: 2, border: '1px solid', borderColor: 'success.main' }}
+          sx={{
+            p: 1.5,
+            bgcolor: 'success.light',
+            borderRadius: 2,
+            border: '1px solid',
+            borderColor: 'success.main',
+          }}
         >
           <Typography variant="body2" color="success.dark">
             {exercise.reason}
@@ -469,10 +477,7 @@ function ListenSelectCard({
     <Stack gap={3}>
       <PromptLabel text={t.exercises.prompts.listenSelect} />
       <Box textAlign="center" py={2}>
-        <motion.div
-          animate={played ? { scale: [1, 1.12, 1] } : {}}
-          transition={{ duration: 0.3 }}
-        >
+        <motion.div animate={played ? { scale: [1, 1.12, 1] } : {}} transition={{ duration: 0.3 }}>
           <IconButton
             onClick={handlePlay}
             sx={{
@@ -597,7 +602,14 @@ function SentenceOrderCard({
             onClick={() => removeWord(i)}
             onDelete={() => removeWord(i)}
             color={checked ? (isCorrect ? 'success' : 'error') : 'default'}
-            sx={{ fontFamily: 'Amiri, serif', fontSize: '1.1rem', lineHeight: 1.6, cursor: 'pointer', height: 'auto', py: 0.5 }}
+            sx={{
+              fontFamily: 'Amiri, serif',
+              fontSize: '1.1rem',
+              lineHeight: 1.6,
+              cursor: 'pointer',
+              height: 'auto',
+              py: 0.5,
+            }}
           />
         ))}
       </Box>
@@ -607,7 +619,12 @@ function SentenceOrderCard({
         <Box sx={{ p: 1.5, bgcolor: 'success.light', borderRadius: 2 }}>
           <Typography
             dir="rtl"
-            sx={{ fontFamily: 'Amiri, serif', fontSize: '1.2rem', lineHeight: 1.7, color: 'success.dark' }}
+            sx={{
+              fontFamily: 'Amiri, serif',
+              fontSize: '1.2rem',
+              lineHeight: 1.7,
+              color: 'success.dark',
+            }}
           >
             ✓ {exercise.correct.join(' ')}
           </Typography>
@@ -628,14 +645,29 @@ function SentenceOrderCard({
       )}
 
       {/* Word bank */}
-      <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 0.75, direction: 'rtl', justifyContent: 'center' }}>
+      <Box
+        sx={{
+          display: 'flex',
+          flexWrap: 'wrap',
+          gap: 0.75,
+          direction: 'rtl',
+          justifyContent: 'center',
+        }}
+      >
         {availableBank.map(item => (
           <Chip
             key={item.id}
             label={item.word}
             onClick={() => addWord(item.id)}
             variant="outlined"
-            sx={{ fontFamily: 'Amiri, serif', fontSize: '1.1rem', lineHeight: 1.6, height: 'auto', py: 0.5, cursor: 'pointer' }}
+            sx={{
+              fontFamily: 'Amiri, serif',
+              fontSize: '1.1rem',
+              lineHeight: 1.6,
+              height: 'auto',
+              py: 0.5,
+              cursor: 'pointer',
+            }}
           />
         ))}
       </Box>
@@ -728,7 +760,11 @@ function MatchPairsCard({
                 if (matched.has(i) || answered || pendingRef.current) return
                 setLeftSel(leftSel === i ? null : i)
               }}
-              sx={cardStyle(leftSel === i, matched.has(i), wrongFlash && (leftSel === i || rightSel !== null && rightOrder[rightSel] === i))}
+              sx={cardStyle(
+                leftSel === i,
+                matched.has(i),
+                wrongFlash && (leftSel === i || (rightSel !== null && rightOrder[rightSel] === i))
+              )}
             >
               <Typography
                 dir="rtl"
@@ -803,7 +839,12 @@ function SentenceTranslateCard({
       >
         <Typography
           dir="rtl"
-          sx={{ fontFamily: 'Amiri, serif', fontSize: '1.65rem', lineHeight: 1.9, color: 'text.primary' }}
+          sx={{
+            fontFamily: 'Amiri, serif',
+            fontSize: '1.65rem',
+            lineHeight: 1.9,
+            color: 'text.primary',
+          }}
         >
           {exercise.arabic}
         </Typography>
@@ -878,7 +919,12 @@ function TrueFalseCard({
       <Box sx={{ bgcolor: 'action.hover', borderRadius: 2, p: 2.5, textAlign: 'center' }}>
         <Typography
           dir="rtl"
-          sx={{ fontFamily: 'Amiri, serif', fontSize: '1.65rem', lineHeight: 1.9, color: 'text.primary' }}
+          sx={{
+            fontFamily: 'Amiri, serif',
+            fontSize: '1.65rem',
+            lineHeight: 1.9,
+            color: 'text.primary',
+          }}
         >
           {exercise.arabic}
         </Typography>
@@ -886,7 +932,14 @@ function TrueFalseCard({
 
       {/* Statement to evaluate */}
       <Box sx={{ px: 1 }}>
-        <Typography variant="caption" color="text.secondary" fontWeight={600} display="block" mb={0.5} sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}>
+        <Typography
+          variant="caption"
+          color="text.secondary"
+          fontWeight={600}
+          display="block"
+          mb={0.5}
+          sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}
+        >
           {t.exercises.prompts.trueFalse.split('?')[0]}
         </Typography>
         <Typography variant="body1" fontWeight={600} sx={{ lineHeight: 1.5 }}>
@@ -916,10 +969,12 @@ function TrueFalseCard({
                 fontSize: '1rem',
                 fontWeight: 700,
                 transition: 'all 0.15s',
-                '&:hover': state === 'idle' ? { borderColor: 'primary.main', bgcolor: 'action.hover' } : {},
+                '&:hover':
+                  state === 'idle' ? { borderColor: 'primary.main', bgcolor: 'action.hover' } : {},
               }}
             >
-              {i === 0 ? '✓ ' : '✗ '}{label}
+              {i === 0 ? '✓ ' : '✗ '}
+              {label}
             </Box>
           )
         })}
@@ -927,7 +982,15 @@ function TrueFalseCard({
 
       {/* Explanation after answering */}
       {answered && (
-        <Box sx={{ p: 1.5, bgcolor: 'action.hover', borderRadius: 2, border: '1px solid', borderColor: 'divider' }}>
+        <Box
+          sx={{
+            p: 1.5,
+            bgcolor: 'action.hover',
+            borderRadius: 2,
+            border: '1px solid',
+            borderColor: 'divider',
+          }}
+        >
           <Typography variant="body2" color="text.secondary">
             {exercise.explanation}
           </Typography>
@@ -947,7 +1010,13 @@ interface ExerciseRouterProps {
   setSelectedIdx: (i: number) => void
 }
 
-function ExerciseRouter({ exercise, onAnswer, answered, selectedIdx, setSelectedIdx }: ExerciseRouterProps) {
+function ExerciseRouter({
+  exercise,
+  onAnswer,
+  answered,
+  selectedIdx,
+  setSelectedIdx,
+}: ExerciseRouterProps) {
   const props = { exercise, onAnswer, answered, selectedIdx, setSelectedIdx }
   switch (exercise.type) {
     case 'word-meaning':
@@ -998,7 +1067,10 @@ function DoneScreen({ correctCount, total, xpEarned, onRetry, onBack, t }: DoneS
     <motion.div
       initial={{ opacity: 0, scale: 0.94 }}
       animate={{ opacity: 1, scale: 1 }}
-      transition={{ duration: 0.35, ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number] }}
+      transition={{
+        duration: 0.35,
+        ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number],
+      }}
     >
       <Box
         sx={{
@@ -1044,9 +1116,7 @@ function DoneScreen({ correctCount, total, xpEarned, onRetry, onBack, t }: DoneS
         </Typography>
 
         {/* Score */}
-        <Box
-          sx={{ p: 2, bgcolor: 'action.hover', borderRadius: 2, mb: 2 }}
-        >
+        <Box sx={{ p: 2, bgcolor: 'action.hover', borderRadius: 2, mb: 2 }}>
           <Typography variant="h3" fontWeight={800} color="primary">
             {correctCount}/{total}
           </Typography>
@@ -1326,8 +1396,22 @@ export function ExerciseSessionPage({ packId }: ExerciseSessionPageProps) {
         <motion.div
           key={current}
           initial={{ opacity: 0, x: 40 }}
-          animate={{ opacity: 1, x: 0, transition: { duration: 0.25, ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number] } }}
-          exit={{ opacity: 0, x: -40, transition: { duration: 0.18, ease: [0.55, 0.055, 0.675, 0.19] as [number, number, number, number] } }}
+          animate={{
+            opacity: 1,
+            x: 0,
+            transition: {
+              duration: 0.25,
+              ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number],
+            },
+          }}
+          exit={{
+            opacity: 0,
+            x: -40,
+            transition: {
+              duration: 0.18,
+              ease: [0.55, 0.055, 0.675, 0.19] as [number, number, number, number],
+            },
+          }}
         >
           <Box
             sx={{
@@ -1377,7 +1461,12 @@ export function ExerciseSessionPage({ packId }: ExerciseSessionPageProps) {
                     ? t.exercises.correct
                     : t.exercises.wrong}
               </Typography>
-              <Button variant="contained" size="large" onClick={handleNext} sx={{ fontWeight: 700 }}>
+              <Button
+                variant="contained"
+                size="large"
+                onClick={handleNext}
+                sx={{ fontWeight: 700 }}
+              >
                 {current < pack.exercises.length - 1 ? t.exercises.next : t.exercises.finish}
               </Button>
             </Stack>

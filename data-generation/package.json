@@ -8,7 +8,8 @@
     "validate": "tsx validate.ts",
     "build-dictionary": "tsx backfill-lemma.ts",
     "backfill-annotations": "tsx backfill-word-annotations.ts && tsx rebuild-dictionary.ts",
-    "rebuild-dictionary": "tsx rebuild-dictionary.ts"
+    "rebuild-dictionary": "tsx rebuild-dictionary.ts",
+    "strip-inline-data": "tsx strip-word-inline-data.ts"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",

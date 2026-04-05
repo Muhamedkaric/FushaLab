@@ -29,12 +29,12 @@ import { useTheme } from '@mui/material/styles'
 // ── Rank system ───────────────────────────────────────────────────────────────
 
 const RANKS = [
-  { min: 0,    ar: 'طَالِبٌ',   bs: 'Učenik',     en: 'Student',  color: '#6366f1' },
-  { min: 100,  ar: 'قَارِئٌ',   bs: 'Čitalac',    en: 'Reader',   color: '#0ea5e9' },
-  { min: 300,  ar: 'عَارِفٌ',   bs: 'Poznavalac', en: 'Knower',   color: '#10b981' },
-  { min: 600,  ar: 'عَالِمٌ',   bs: 'Učenjak',    en: 'Scholar',  color: '#f59e0b' },
-  { min: 1200, ar: 'حَكِيمٌ',   bs: 'Mudrac',     en: 'Wise',     color: '#ef4444' },
-  { min: 2500, ar: 'أُسْتَاذٌ', bs: 'Majstor',    en: 'Master',   color: '#8b5cf6' },
+  { min: 0, ar: 'طَالِبٌ', bs: 'Učenik', en: 'Student', color: '#6366f1' },
+  { min: 100, ar: 'قَارِئٌ', bs: 'Čitalac', en: 'Reader', color: '#0ea5e9' },
+  { min: 300, ar: 'عَارِفٌ', bs: 'Poznavalac', en: 'Knower', color: '#10b981' },
+  { min: 600, ar: 'عَالِمٌ', bs: 'Učenjak', en: 'Scholar', color: '#f59e0b' },
+  { min: 1200, ar: 'حَكِيمٌ', bs: 'Mudrac', en: 'Wise', color: '#ef4444' },
+  { min: 2500, ar: 'أُسْتَاذٌ', bs: 'Majstor', en: 'Master', color: '#8b5cf6' },
 ]
 
 function getRank(xp: number) {
@@ -67,30 +67,141 @@ interface AchievementStats {
 }
 
 const ACHIEVEMENTS = [
-  { id: 'first-text',   emoji: '📄', bs: 'Prve stranice',       en: 'First Pages',      desc: 'Pročitaj prvi tekst',              check: (s: AchievementStats) => s.readingTotal >= 1  },
-  { id: 'reader-10',    emoji: '📚', bs: 'Čitalac',              en: 'Bookworm',         desc: 'Pročitaj 10 tekstova',             check: (s: AchievementStats) => s.readingTotal >= 10 },
-  { id: 'reader-25',    emoji: '📖', bs: 'Strastveni čitalac',   en: 'Avid Reader',      desc: 'Pročitaj 25 tekstova',             check: (s: AchievementStats) => s.readingTotal >= 25 },
-  { id: 'first-word',   emoji: '🌱', bs: 'Prve riječi',          en: 'First Words',      desc: 'Nauči prvu arapsku riječ',         check: (s: AchievementStats) => s.vocabTotal >= 1    },
-  { id: 'vocab-50',     emoji: '📝', bs: '50 Riječi',            en: '50 Words',         desc: 'Nauči 50 arapskih riječi',         check: (s: AchievementStats) => s.vocabTotal >= 50   },
-  { id: 'vocab-200',    emoji: '🌿', bs: '200 Riječi',           en: '200 Words',        desc: 'Nauči 200 arapskih riječi',        check: (s: AchievementStats) => s.vocabTotal >= 200  },
-  { id: 'vocab-500',    emoji: '🌳', bs: '500 Riječi',           en: '500 Words',        desc: 'Nauči 500 arapskih riječi',        check: (s: AchievementStats) => s.vocabTotal >= 500  },
-  { id: 'first-ex',     emoji: '⚡', bs: 'Vježbač',              en: 'Exerciser',        desc: 'Završi svoju prvu vježbu',         check: (s: AchievementStats) => s.packsCompleted >= 1},
-  { id: 'xp-100',       emoji: '✨', bs: '100 XP',               en: '100 XP',           desc: 'Osvoji 100 XP u vježbama',         check: (s: AchievementStats) => s.exercisesXp >= 100 },
-  { id: 'xp-500',       emoji: '⭐', bs: 'Istraživač',           en: 'Explorer',         desc: 'Osvoji 500 XP u vježbama',         check: (s: AchievementStats) => s.exercisesXp >= 500 },
-  { id: 'perfect',      emoji: '🏆', bs: 'Savršen rezultat',     en: 'Perfect Score',    desc: 'Osvoji 3 zvjezdice u paketu',      check: (s: AchievementStats) => s.maxStars >= 3      },
-  { id: 'a1-done',      emoji: '🥉', bs: 'A1 Završen',           en: 'A1 Complete',      desc: 'Završi sve A1 pakete vježbi',      check: (s: AchievementStats) => s.a1Done >= 4        },
-  { id: 'a2-done',      emoji: '🥈', bs: 'A2 Završen',           en: 'A2 Complete',      desc: 'Završi sve A2 pakete vježbi',      check: (s: AchievementStats) => s.a2Done >= 4        },
-  { id: 'b1-done',      emoji: '🥇', bs: 'B1 Završen',           en: 'B1 Complete',      desc: 'Završi sve B1 pakete vježbi',      check: (s: AchievementStats) => s.b1Done >= 4        },
-  { id: 'b2-done',      emoji: '💎', bs: 'B2 Završen',           en: 'B2 Majstor',       desc: 'Završi sve B2 pakete vježbi',      check: (s: AchievementStats) => s.b2Done >= 4        },
+  {
+    id: 'first-text',
+    emoji: '📄',
+    bs: 'Prve stranice',
+    en: 'First Pages',
+    desc: 'Pročitaj prvi tekst',
+    check: (s: AchievementStats) => s.readingTotal >= 1,
+  },
+  {
+    id: 'reader-10',
+    emoji: '📚',
+    bs: 'Čitalac',
+    en: 'Bookworm',
+    desc: 'Pročitaj 10 tekstova',
+    check: (s: AchievementStats) => s.readingTotal >= 10,
+  },
+  {
+    id: 'reader-25',
+    emoji: '📖',
+    bs: 'Strastveni čitalac',
+    en: 'Avid Reader',
+    desc: 'Pročitaj 25 tekstova',
+    check: (s: AchievementStats) => s.readingTotal >= 25,
+  },
+  {
+    id: 'first-word',
+    emoji: '🌱',
+    bs: 'Prve riječi',
+    en: 'First Words',
+    desc: 'Nauči prvu arapsku riječ',
+    check: (s: AchievementStats) => s.vocabTotal >= 1,
+  },
+  {
+    id: 'vocab-50',
+    emoji: '📝',
+    bs: '50 Riječi',
+    en: '50 Words',
+    desc: 'Nauči 50 arapskih riječi',
+    check: (s: AchievementStats) => s.vocabTotal >= 50,
+  },
+  {
+    id: 'vocab-200',
+    emoji: '🌿',
+    bs: '200 Riječi',
+    en: '200 Words',
+    desc: 'Nauči 200 arapskih riječi',
+    check: (s: AchievementStats) => s.vocabTotal >= 200,
+  },
+  {
+    id: 'vocab-500',
+    emoji: '🌳',
+    bs: '500 Riječi',
+    en: '500 Words',
+    desc: 'Nauči 500 arapskih riječi',
+    check: (s: AchievementStats) => s.vocabTotal >= 500,
+  },
+  {
+    id: 'first-ex',
+    emoji: '⚡',
+    bs: 'Vježbač',
+    en: 'Exerciser',
+    desc: 'Završi svoju prvu vježbu',
+    check: (s: AchievementStats) => s.packsCompleted >= 1,
+  },
+  {
+    id: 'xp-100',
+    emoji: '✨',
+    bs: '100 XP',
+    en: '100 XP',
+    desc: 'Osvoji 100 XP u vježbama',
+    check: (s: AchievementStats) => s.exercisesXp >= 100,
+  },
+  {
+    id: 'xp-500',
+    emoji: '⭐',
+    bs: 'Istraživač',
+    en: 'Explorer',
+    desc: 'Osvoji 500 XP u vježbama',
+    check: (s: AchievementStats) => s.exercisesXp >= 500,
+  },
+  {
+    id: 'perfect',
+    emoji: '🏆',
+    bs: 'Savršen rezultat',
+    en: 'Perfect Score',
+    desc: 'Osvoji 3 zvjezdice u paketu',
+    check: (s: AchievementStats) => s.maxStars >= 3,
+  },
+  {
+    id: 'a1-done',
+    emoji: '🥉',
+    bs: 'A1 Završen',
+    en: 'A1 Complete',
+    desc: 'Završi sve A1 pakete vježbi',
+    check: (s: AchievementStats) => s.a1Done >= 4,
+  },
+  {
+    id: 'a2-done',
+    emoji: '🥈',
+    bs: 'A2 Završen',
+    en: 'A2 Complete',
+    desc: 'Završi sve A2 pakete vježbi',
+    check: (s: AchievementStats) => s.a2Done >= 4,
+  },
+  {
+    id: 'b1-done',
+    emoji: '🥇',
+    bs: 'B1 Završen',
+    en: 'B1 Complete',
+    desc: 'Završi sve B1 pakete vježbi',
+    check: (s: AchievementStats) => s.b1Done >= 4,
+  },
+  {
+    id: 'b2-done',
+    emoji: '💎',
+    bs: 'B2 Završen',
+    en: 'B2 Majstor',
+    desc: 'Završi sve B2 pakete vježbi',
+    check: (s: AchievementStats) => s.b2Done >= 4,
+  },
 ]
 
 // ── Motivational quotes ───────────────────────────────────────────────────────
 
 const QUOTES = [
-  { ar: 'اطْلُبُوا الْعِلْمَ مِنَ الْمَهْدِ إِلَى اللَّحْدِ', bs: 'Tražite znanje od kolijevke do groba' },
+  {
+    ar: 'اطْلُبُوا الْعِلْمَ مِنَ الْمَهْدِ إِلَى اللَّحْدِ',
+    bs: 'Tražite znanje od kolijevke do groba',
+  },
   { ar: 'الْعِلْمُ نُورٌ وَالْجَهْلُ ظُلْمَةٌ', bs: 'Znanje je svjetlost, a neznanje je tama' },
   { ar: 'مَنْ طَلَبَ الْعُلَا سَهِرَ اللَّيَالِي', bs: 'Ko teži visinama, bdije noćima' },
-  { ar: 'تَعَلَّمُوا الْعَرَبِيَّةَ فَإِنَّهَا لِسَانُ الْجَنَّةِ', bs: 'Učite arapski — to je jezik Dženneta' },
+  {
+    ar: 'تَعَلَّمُوا الْعَرَبِيَّةَ فَإِنَّهَا لِسَانُ الْجَنَّةِ',
+    bs: 'Učite arapski — to je jezik Dženneta',
+  },
   { ar: 'خَيْرُ جَلِيسٍ فِي الزَّمَانِ كِتَابٌ', bs: 'Najbolji pratilac u svako doba je knjiga' },
 ]
 
@@ -100,7 +211,10 @@ function useCountUp(target: number, duration = 1000) {
   const [val, setVal] = useState(0)
   const frameRef = useRef<number | null>(null)
   useEffect(() => {
-    if (target === 0) { setVal(0); return }
+    if (target === 0) {
+      setVal(0)
+      return
+    }
     const start = Date.now()
     const tick = () => {
       const t = Math.min((Date.now() - start) / duration, 1)
@@ -109,7 +223,9 @@ function useCountUp(target: number, duration = 1000) {
       if (t < 1) frameRef.current = requestAnimationFrame(tick)
     }
     frameRef.current = requestAnimationFrame(tick)
-    return () => { if (frameRef.current) cancelAnimationFrame(frameRef.current) }
+    return () => {
+      if (frameRef.current) cancelAnimationFrame(frameRef.current)
+    }
   }, [target, duration])
   return val
 }
@@ -128,19 +244,43 @@ function CircleGauge({ value, max, color }: { value: number; max: number; color:
   return (
     <Box sx={{ position: 'relative', width: size, height: size, flexShrink: 0 }}>
       <svg width={size} height={size} style={{ transform: 'rotate(-90deg)' }}>
-        <circle cx={cx} cy={cx} r={r} fill="none" stroke="rgba(128,128,128,0.12)" strokeWidth={stroke} />
         <circle
-          cx={cx} cy={cx} r={r} fill="none"
-          stroke={color} strokeWidth={stroke}
+          cx={cx}
+          cy={cx}
+          r={r}
+          fill="none"
+          stroke="rgba(128,128,128,0.12)"
+          strokeWidth={stroke}
+        />
+        <circle
+          cx={cx}
+          cy={cx}
+          r={r}
+          fill="none"
+          stroke={color}
+          strokeWidth={stroke}
           strokeDasharray={circ}
           strokeDashoffset={offset}
           strokeLinecap="round"
           style={{ transition: 'stroke-dashoffset 1.2s ease-out' }}
         />
       </svg>
-      <Box sx={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-        <Typography variant="h5" fontWeight={800}>{value}</Typography>
-        <Typography variant="caption" color="text.disabled" sx={{ fontSize: '0.65rem' }}>/ {max}</Typography>
+      <Box
+        sx={{
+          position: 'absolute',
+          inset: 0,
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          justifyContent: 'center',
+        }}
+      >
+        <Typography variant="h5" fontWeight={800}>
+          {value}
+        </Typography>
+        <Typography variant="caption" color="text.disabled" sx={{ fontSize: '0.65rem' }}>
+          / {max}
+        </Typography>
       </Box>
     </Box>
   )
@@ -150,7 +290,11 @@ function CircleGauge({ value, max, color }: { value: number; max: number; color:
 
 function SectionTitle({ label }: { label: string }) {
   return (
-    <Typography variant="overline" color="text.secondary" sx={{ letterSpacing: 1.5, fontWeight: 700, display: 'block', mb: 1.5 }}>
+    <Typography
+      variant="overline"
+      color="text.secondary"
+      sx={{ letterSpacing: 1.5, fontWeight: 700, display: 'block', mb: 1.5 }}
+    >
       {label}
     </Typography>
   )
@@ -197,7 +341,7 @@ export function ProgressPage() {
   // Activity heatmap from reading completedAt timestamps
   const dayActivity: Record<string, number> = {}
   Object.values(progress.completedAt ?? {}).forEach(ts => {
-    const day = new Date(ts as number).toDateString()
+    const day = new Date(ts).toDateString()
     dayActivity[day] = (dayActivity[day] ?? 0) + 1
   })
   const today = new Date()
@@ -240,7 +384,13 @@ export function ProgressPage() {
       >
         <Typography
           dir="rtl"
-          sx={{ fontFamily: 'Amiri, serif', fontSize: '1.4rem', lineHeight: 1.8, color: 'text.primary', mb: 0.5 }}
+          sx={{
+            fontFamily: 'Amiri, serif',
+            fontSize: '1.4rem',
+            lineHeight: 1.8,
+            color: 'text.primary',
+            mb: 0.5,
+          }}
         >
           {quote.ar}
         </Typography>
@@ -253,7 +403,10 @@ export function ProgressPage() {
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.4, ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number] }}
+        transition={{
+          duration: 0.4,
+          ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number],
+        }}
       >
         <Box
           sx={{
@@ -341,7 +494,13 @@ export function ProgressPage() {
                 />
               </Box>
               {next && (
-                <Typography variant="caption" color="text.disabled" display="block" mt={0.5} textAlign="right">
+                <Typography
+                  variant="caption"
+                  color="text.disabled"
+                  display="block"
+                  mt={0.5}
+                  textAlign="right"
+                >
                   {next.min - totalXp} {t.progress.xpToNext}
                 </Typography>
               )}
@@ -353,15 +512,29 @@ export function ProgressPage() {
       {/* ── Stats Trinity ────────────────────────────────────────────────────── */}
       <Grid container spacing={2} mb={4}>
         {[
-          { icon: <MenuBookIcon />, value: animTexts, label: t.progress.textsRead, color: '#0ea5e9' },
-          { icon: <TranslateIcon />, value: animWords, label: t.progress.wordsKnown, color: '#10b981' },
+          {
+            icon: <MenuBookIcon />,
+            value: animTexts,
+            label: t.progress.textsRead,
+            color: '#0ea5e9',
+          },
+          {
+            icon: <TranslateIcon />,
+            value: animWords,
+            label: t.progress.wordsKnown,
+            color: '#10b981',
+          },
           { icon: <BoltIcon />, value: animXp, label: 'XP', color: '#f59e0b' },
         ].map(({ icon, value, label, color }, i) => (
           <Grid key={i} size={{ xs: 4 }}>
             <motion.div
               initial={{ opacity: 0, scale: 0.9 }}
               animate={{ opacity: 1, scale: 1 }}
-              transition={{ delay: i * 0.08, duration: 0.35, ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number] }}
+              transition={{
+                delay: i * 0.08,
+                duration: 0.35,
+                ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number],
+              }}
             >
               <Box
                 sx={{
@@ -377,7 +550,13 @@ export function ProgressPage() {
                 <Typography variant="h4" fontWeight={800} sx={{ color, lineHeight: 1 }}>
                   {value}
                 </Typography>
-                <Typography variant="caption" color="text.secondary" display="block" mt={0.5} sx={{ fontSize: { xs: '0.6rem', sm: '0.75rem' } }}>
+                <Typography
+                  variant="caption"
+                  color="text.secondary"
+                  display="block"
+                  mt={0.5}
+                  sx={{ fontSize: { xs: '0.6rem', sm: '0.75rem' } }}
+                >
                   {label}
                 </Typography>
               </Box>
@@ -387,10 +566,21 @@ export function ProgressPage() {
       </Grid>
 
       {/* ── Activity Heatmap ─────────────────────────────────────────────────── */}
-      <Box mb={4} sx={{ p: 2.5, border: '1px solid', borderColor: 'divider', borderRadius: 3, bgcolor: 'background.paper' }}>
+      <Box
+        mb={4}
+        sx={{
+          p: 2.5,
+          border: '1px solid',
+          borderColor: 'divider',
+          borderRadius: 3,
+          bgcolor: 'background.paper',
+        }}
+      >
         <Stack direction="row" justifyContent="space-between" alignItems="center" mb={1.5}>
           <SectionTitle label={t.progress.activity} />
-          <Typography variant="caption" color="text.disabled">{t.progress.last35Days}</Typography>
+          <Typography variant="caption" color="text.disabled">
+            {t.progress.last35Days}
+          </Typography>
         </Stack>
         <Box
           sx={{
@@ -400,8 +590,21 @@ export function ProgressPage() {
           }}
         >
           {/* Day labels */}
-          {(lang === 'bs' ? ['P','U','S','Č','P','S','N'] : ['M','T','W','T','F','S','S']).map((d, i) => (
-            <Typography key={i} variant="caption" sx={{ textAlign: 'center', fontSize: '0.6rem', color: 'text.disabled', lineHeight: 1, pb: 0.5 }}>
+          {(lang === 'bs'
+            ? ['P', 'U', 'S', 'Č', 'P', 'S', 'N']
+            : ['M', 'T', 'W', 'T', 'F', 'S', 'S']
+          ).map((d, i) => (
+            <Typography
+              key={i}
+              variant="caption"
+              sx={{
+                textAlign: 'center',
+                fontSize: '0.6rem',
+                color: 'text.disabled',
+                lineHeight: 1,
+                pb: 0.5,
+              }}
+            >
               {d}
             </Typography>
           ))}
@@ -409,7 +612,13 @@ export function ProgressPage() {
             const intensity = cell.count === 0 ? 0 : cell.count / maxActivity
             const alpha = cell.count === 0 ? 0.06 : 0.2 + intensity * 0.8
             return (
-              <Tooltip key={i} title={cell.count > 0 ? `${cell.count} ${cell.count === 1 ? 'tekst' : 'tekstova'}` : ''} arrow>
+              <Tooltip
+                key={i}
+                title={
+                  cell.count > 0 ? `${cell.count} ${cell.count === 1 ? 'tekst' : 'tekstova'}` : ''
+                }
+                arrow
+              >
                 <Box
                   sx={{
                     height: { xs: 10, sm: 14 },
@@ -429,23 +638,45 @@ export function ProgressPage() {
       <Grid container spacing={2} mb={4}>
         {/* Reading breakdown */}
         <Grid size={{ xs: 12, sm: 6 }}>
-          <Box sx={{ p: 2.5, border: '1px solid', borderColor: 'divider', borderRadius: 3, bgcolor: 'background.paper', height: '100%' }}>
+          <Box
+            sx={{
+              p: 2.5,
+              border: '1px solid',
+              borderColor: 'divider',
+              borderRadius: 3,
+              bgcolor: 'background.paper',
+              height: '100%',
+            }}
+          >
             <SectionTitle label={t.progress.readingSection} />
             {readingStats.total === 0 ? (
-              <Typography variant="body2" color="text.disabled">{t.progress.noProgress}</Typography>
+              <Typography variant="body2" color="text.disabled">
+                {t.progress.noProgress}
+              </Typography>
             ) : (
               <Stack gap={1.5}>
                 {[
-                  { label: t.progress.easy,   count: readingStats.easy,   color: '#10b981' },
+                  { label: t.progress.easy, count: readingStats.easy, color: '#10b981' },
                   { label: t.progress.medium, count: readingStats.medium, color: '#f59e0b' },
-                  { label: t.progress.hard,   count: readingStats.hard,   color: '#ef4444' },
+                  { label: t.progress.hard, count: readingStats.hard, color: '#ef4444' },
                 ].map(({ label, count, color }) => (
                   <Box key={label}>
                     <Stack direction="row" justifyContent="space-between" mb={0.4}>
-                      <Typography variant="caption" color="text.secondary" fontWeight={600}>{label}</Typography>
-                      <Typography variant="caption" color="text.disabled">{count}</Typography>
+                      <Typography variant="caption" color="text.secondary" fontWeight={600}>
+                        {label}
+                      </Typography>
+                      <Typography variant="caption" color="text.disabled">
+                        {count}
+                      </Typography>
                     </Stack>
-                    <Box sx={{ height: 8, bgcolor: 'action.hover', borderRadius: 4, overflow: 'hidden' }}>
+                    <Box
+                      sx={{
+                        height: 8,
+                        bgcolor: 'action.hover',
+                        borderRadius: 4,
+                        overflow: 'hidden',
+                      }}
+                    >
                       <Box
                         sx={{
                           height: '100%',
@@ -468,29 +699,73 @@ export function ProgressPage() {
 
         {/* Vocabulary gauge */}
         <Grid size={{ xs: 12, sm: 6 }}>
-          <Box sx={{ p: 2.5, border: '1px solid', borderColor: 'divider', borderRadius: 3, bgcolor: 'background.paper', height: '100%' }}>
+          <Box
+            sx={{
+              p: 2.5,
+              border: '1px solid',
+              borderColor: 'divider',
+              borderRadius: 3,
+              bgcolor: 'background.paper',
+              height: '100%',
+            }}
+          >
             <SectionTitle label={t.progress.vocabSection} />
             {totalKnown === 0 ? (
-              <Typography variant="body2" color="text.disabled">{t.progress.noProgress}</Typography>
+              <Typography variant="body2" color="text.disabled">
+                {t.progress.noProgress}
+              </Typography>
             ) : (
               <Stack direction="row" alignItems="center" gap={3}>
                 <CircleGauge value={totalKnown} max={1403} color={theme.palette.primary.main} />
                 <Box>
-                  <Typography variant="h5" fontWeight={800} color="primary">{totalKnown}</Typography>
-                  <Typography variant="body2" color="text.secondary">{t.progress.wordsKnown}</Typography>
+                  <Typography variant="h5" fontWeight={800} color="primary">
+                    {totalKnown}
+                  </Typography>
+                  <Typography variant="body2" color="text.secondary">
+                    {t.progress.wordsKnown}
+                  </Typography>
                   <Typography variant="caption" color="text.disabled" display="block" mt={0.5}>
                     {t.progress.outOf} 1403 {lang === 'bs' ? 'mogućih' : 'possible'}
                   </Typography>
                   <Box
                     sx={{
-                      mt: 1.5, px: 1, py: 0.5, borderRadius: 1,
-                      bgcolor: totalKnown >= 500 ? 'success.light' : totalKnown >= 200 ? 'warning.light' : 'action.hover',
+                      mt: 1.5,
+                      px: 1,
+                      py: 0.5,
+                      borderRadius: 1,
+                      bgcolor:
+                        totalKnown >= 500
+                          ? 'success.light'
+                          : totalKnown >= 200
+                            ? 'warning.light'
+                            : 'action.hover',
                       display: 'inline-block',
                     }}
                   >
-                    <Typography variant="caption" fontWeight={700} sx={{ color: totalKnown >= 500 ? 'success.dark' : totalKnown >= 200 ? 'warning.dark' : 'text.secondary' }}>
+                    <Typography
+                      variant="caption"
+                      fontWeight={700}
+                      sx={{
+                        color:
+                          totalKnown >= 500
+                            ? 'success.dark'
+                            : totalKnown >= 200
+                              ? 'warning.dark'
+                              : 'text.secondary',
+                      }}
+                    >
                       {totalKnown >= 500 ? '🌳 ' : totalKnown >= 200 ? '🌿 ' : '🌱 '}
-                      {totalKnown >= 500 ? (lang === 'bs' ? 'Ekspert' : 'Expert') : totalKnown >= 200 ? (lang === 'bs' ? 'Napredni' : 'Advanced') : (lang === 'bs' ? 'Početnik' : 'Beginner')}
+                      {totalKnown >= 500
+                        ? lang === 'bs'
+                          ? 'Ekspert'
+                          : 'Expert'
+                        : totalKnown >= 200
+                          ? lang === 'bs'
+                            ? 'Napredni'
+                            : 'Advanced'
+                          : lang === 'bs'
+                            ? 'Početnik'
+                            : 'Beginner'}
                     </Typography>
                   </Box>
                 </Box>
@@ -501,7 +776,15 @@ export function ProgressPage() {
 
         {/* Exercise breakdown */}
         <Grid size={{ xs: 12 }}>
-          <Box sx={{ p: 2.5, border: '1px solid', borderColor: 'divider', borderRadius: 3, bgcolor: 'background.paper' }}>
+          <Box
+            sx={{
+              p: 2.5,
+              border: '1px solid',
+              borderColor: 'divider',
+              borderRadius: 3,
+              bgcolor: 'background.paper',
+            }}
+          >
             <Stack direction="row" justifyContent="space-between" alignItems="center" mb={1.5}>
               <SectionTitle label={t.progress.exerciseSection} />
               <Stack direction="row" gap={2}>
@@ -514,7 +797,9 @@ export function ProgressPage() {
               </Stack>
             </Stack>
             {packsCompleted === 0 ? (
-              <Typography variant="body2" color="text.disabled">{t.progress.noProgress}</Typography>
+              <Typography variant="body2" color="text.disabled">
+                {t.progress.noProgress}
+              </Typography>
             ) : (
               <Stack gap={1.25}>
                 {[
@@ -527,10 +812,22 @@ export function ProgressPage() {
                   const stars = ids.reduce((s, id) => s + (exercisePacks[id]?.stars ?? 0), 0)
                   return (
                     <Stack key={label} direction="row" alignItems="center" gap={1.5}>
-                      <Typography variant="caption" fontWeight={700} sx={{ width: 24, color, flexShrink: 0 }}>
+                      <Typography
+                        variant="caption"
+                        fontWeight={700}
+                        sx={{ width: 24, color, flexShrink: 0 }}
+                      >
                         {label}
                       </Typography>
-                      <Box flex={1} sx={{ height: 8, bgcolor: 'action.hover', borderRadius: 4, overflow: 'hidden' }}>
+                      <Box
+                        flex={1}
+                        sx={{
+                          height: 8,
+                          bgcolor: 'action.hover',
+                          borderRadius: 4,
+                          overflow: 'hidden',
+                        }}
+                      >
                         <Box
                           sx={{
                             height: '100%',
@@ -541,7 +838,11 @@ export function ProgressPage() {
                           }}
                         />
                       </Box>
-                      <Typography variant="caption" color="text.disabled" sx={{ width: 40, textAlign: 'right', flexShrink: 0 }}>
+                      <Typography
+                        variant="caption"
+                        color="text.disabled"
+                        sx={{ width: 40, textAlign: 'right', flexShrink: 0 }}
+                      >
                         {done}/4 {'★'.repeat(Math.round(stars / Math.max(done, 1)))}
                       </Typography>
                     </Stack>
@@ -598,12 +899,31 @@ export function ProgressPage() {
                     }}
                   >
                     {!unlocked && (
-                      <LockIcon sx={{ position: 'absolute', top: 4, right: 4, fontSize: 11, color: 'text.disabled' }} />
+                      <LockIcon
+                        sx={{
+                          position: 'absolute',
+                          top: 4,
+                          right: 4,
+                          fontSize: 11,
+                          color: 'text.disabled',
+                        }}
+                      />
                     )}
-                    <Typography sx={{ fontSize: '1.8rem', lineHeight: 1.2, display: 'block', mb: 0.5 }}>
+                    <Typography
+                      sx={{ fontSize: '1.8rem', lineHeight: 1.2, display: 'block', mb: 0.5 }}
+                    >
                       {ach.emoji}
                     </Typography>
-                    <Typography variant="caption" fontWeight={unlocked ? 700 : 400} sx={{ fontSize: '0.6rem', lineHeight: 1.3, display: 'block', color: unlocked ? 'text.primary' : 'text.disabled' }}>
+                    <Typography
+                      variant="caption"
+                      fontWeight={unlocked ? 700 : 400}
+                      sx={{
+                        fontSize: '0.6rem',
+                        lineHeight: 1.3,
+                        display: 'block',
+                        color: unlocked ? 'text.primary' : 'text.disabled',
+                      }}
+                    >
                       {lang === 'bs' ? ach.bs : ach.en}
                     </Typography>
                   </Box>
@@ -632,10 +952,14 @@ export function ProgressPage() {
       <Dialog open={confirmOpen} onClose={() => setConfirmOpen(false)} maxWidth="xs" fullWidth>
         <DialogTitle>{t.progress.resetAll}</DialogTitle>
         <DialogContent>
-          <Typography variant="body2" color="text.secondary">{t.progress.resetConfirm}</Typography>
+          <Typography variant="body2" color="text.secondary">
+            {t.progress.resetConfirm}
+          </Typography>
         </DialogContent>
         <DialogActions>
-          <Button onClick={() => setConfirmOpen(false)}>{lang === 'bs' ? 'Otkaži' : 'Cancel'}</Button>
+          <Button onClick={() => setConfirmOpen(false)}>
+            {lang === 'bs' ? 'Otkaži' : 'Cancel'}
+          </Button>
           <Button onClick={handleReset} color="error" variant="contained">
             {lang === 'bs' ? 'Resetuj' : 'Reset'}
           </Button>

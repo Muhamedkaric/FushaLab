@@ -3,7 +3,7 @@ import { useState, useCallback, useEffect } from 'react'
 const STORAGE_KEY = 'fushalab_grammar'
 
 interface LessonProgress {
-  stars: number      // 0–3
+  stars: number // 0–3
   xp: number
   completed: boolean
 }

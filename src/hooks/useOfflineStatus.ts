@@ -63,7 +63,7 @@ export function useOfflineStatus(category: Category, level: Level) {
         setState('error')
       }
     },
-    [category, level],
+    [category, level]
   )
 
   const remove = useCallback(async () => {

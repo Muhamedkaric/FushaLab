@@ -97,9 +97,7 @@ function DialogueCard({ dialogue }: DialogueCardProps) {
         }}
       >
         <CardActionArea
-          onClick={() =>
-            void navigate({ to: '/conversation/$id', params: { id: dialogue.id } })
-          }
+          onClick={() => void navigate({ to: '/conversation/$id', params: { id: dialogue.id } })}
           sx={{ p: 2, height: '100%', alignItems: 'flex-start' }}
         >
           <CardContent sx={{ p: 0, width: '100%' }}>
@@ -195,7 +193,10 @@ function PhraseCategoryCard({ category }: PhraseCategoryCardProps) {
   return (
     <Box
       onClick={() =>
-        void navigate({ to: '/conversation/phrases/$categoryId', params: { categoryId: category.id } })
+        void navigate({
+          to: '/conversation/phrases/$categoryId',
+          params: { categoryId: category.id },
+        })
       }
       sx={{
         flexShrink: 0,
@@ -281,9 +282,7 @@ export function ConversationPage() {
   const phraseCategories: PhraseCategoryMeta[] = index?.phraseCategories ?? []
 
   const filteredDialogues =
-    levelFilter === 'all'
-      ? allDialogues
-      : allDialogues.filter(d => d.level === levelFilter)
+    levelFilter === 'all' ? allDialogues : allDialogues.filter(d => d.level === levelFilter)
 
   if (error) {
     return (

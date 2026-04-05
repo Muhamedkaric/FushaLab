@@ -38,7 +38,7 @@ function openDB(): Promise<IDBDatabase> {
 function tx<T>(
   store: string,
   mode: IDBTransactionMode,
-  fn: (s: IDBObjectStore) => IDBRequest<T>,
+  fn: (s: IDBObjectStore) => IDBRequest<T>
 ): Promise<T> {
   return openDB().then(
     db =>
@@ -46,7 +46,7 @@ function tx<T>(
         const req = fn(db.transaction(store, mode).objectStore(store))
         req.onsuccess = () => resolve(req.result)
         req.onerror = () => reject(req.error)
-      }),
+      })
   )
 }
 
@@ -71,7 +71,7 @@ export function deleteContentByPrefix(prefix: string): Promise<void> {
           cursor.continue()
         }
         req.onerror = () => reject(req.error)
-      }),
+      })
   )
 }
 
@@ -79,7 +79,11 @@ export function getLevelMeta(category: string, level: string): Promise<LevelMeta
   return tx<LevelMeta | undefined>(STORE_LEVELS, 'readonly', s => s.get(`${category}/${level}`))
 }
 
-export function putLevelMeta(category: string, level: string, meta: LevelMeta): Promise<IDBValidKey> {
+export function putLevelMeta(
+  category: string,
+  level: string,
+  meta: LevelMeta
+): Promise<IDBValidKey> {
   return tx<IDBValidKey>(STORE_LEVELS, 'readwrite', s => s.put(meta, `${category}/${level}`))
 }
 

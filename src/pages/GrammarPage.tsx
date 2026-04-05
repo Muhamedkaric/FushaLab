@@ -1,12 +1,4 @@
-import {
-  Box,
-  Typography,
-  Container,
-  Stack,
-  Chip,
-  Button,
-  Skeleton,
-} from '@mui/material'
+import { Box, Typography, Container, Stack, Chip, Button, Skeleton } from '@mui/material'
 import Grid from '@mui/material/Grid'
 import StarIcon from '@mui/icons-material/Star'
 import StarBorderIcon from '@mui/icons-material/StarBorder'
@@ -22,7 +14,10 @@ import type { GrammarIndex, GrammarBlock, GrammarLessonMeta } from '@/types/gram
 
 // ── Colours ───────────────────────────────────────────────────────────────────
 
-const LEVEL_COLOR: Record<string, 'success' | 'info' | 'primary' | 'secondary' | 'warning' | 'error'> = {
+const LEVEL_COLOR: Record<
+  string,
+  'success' | 'info' | 'primary' | 'secondary' | 'warning' | 'error'
+> = {
   A1: 'success',
   A2: 'info',
   B1: 'primary',
@@ -56,7 +51,10 @@ const cardVariants = {
   visible: {
     opacity: 1,
     y: 0,
-    transition: { duration: 0.28, ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number] },
+    transition: {
+      duration: 0.28,
+      ease: [0.25, 0.46, 0.45, 0.94] as [number, number, number, number],
+    },
   },
 }
 
@@ -95,7 +93,12 @@ function LessonCard({ lesson, stars, completed, onStart, t, loc }: LessonCardPro
       {/* Top: level + stars */}
       <Stack direction="row" alignItems="center" justifyContent="space-between">
         <Stack direction="row" gap={0.5} alignItems="center">
-          <Chip label={lesson.level} color={levelColor} size="small" sx={{ fontWeight: 800, fontSize: '0.7rem', height: 20 }} />
+          <Chip
+            label={lesson.level}
+            color={levelColor}
+            size="small"
+            sx={{ fontWeight: 800, fontSize: '0.7rem', height: 20 }}
+          />
           <Chip
             label={lesson.track === 'nahw' ? 'نَحْوٌ' : 'صَرْفٌ'}
             size="small"
@@ -120,7 +123,13 @@ function LessonCard({ lesson, stars, completed, onStart, t, loc }: LessonCardPro
       {/* Arabic title */}
       <Typography
         dir="rtl"
-        sx={{ fontFamily: 'Amiri, serif', fontSize: '1.35rem', lineHeight: 1.7, color: 'text.primary', fontWeight: 600 }}
+        sx={{
+          fontFamily: 'Amiri, serif',
+          fontSize: '1.35rem',
+          lineHeight: 1.7,
+          color: 'text.primary',
+          fontWeight: 600,
+        }}
       >
         {lesson.titleAr}
       </Typography>
@@ -142,7 +151,9 @@ function LessonCard({ lesson, stars, completed, onStart, t, loc }: LessonCardPro
           <Typography variant="caption" color="text.disabled">
             {lesson.estimatedMinutes} {t.grammar.minutes}
           </Typography>
-          <Typography variant="caption" color="text.disabled" sx={{ mx: 0.5 }}>·</Typography>
+          <Typography variant="caption" color="text.disabled" sx={{ mx: 0.5 }}>
+            ·
+          </Typography>
           <Typography variant="caption" color="text.disabled">
             {lesson.quizCount} {t.grammar.questions}
           </Typography>
@@ -176,7 +187,14 @@ interface BlockSectionProps {
   loc: Loc
 }
 
-function BlockSection({ block, blockIndex, getLessonProgress, onLesson, t, loc }: BlockSectionProps) {
+function BlockSection({
+  block,
+  blockIndex,
+  getLessonProgress,
+  onLesson,
+  t,
+  loc,
+}: BlockSectionProps) {
   const accent = BLOCK_COLORS[blockIndex % BLOCK_COLORS.length]
 
   return (
@@ -195,7 +213,13 @@ function BlockSection({ block, blockIndex, getLessonProgress, onLesson, t, loc }
         <Box>
           <Typography
             dir="rtl"
-            sx={{ fontFamily: 'Amiri, serif', fontSize: '1.2rem', lineHeight: 1.4, color: accent, fontWeight: 700 }}
+            sx={{
+              fontFamily: 'Amiri, serif',
+              fontSize: '1.2rem',
+              lineHeight: 1.4,
+              color: accent,
+              fontWeight: 700,
+            }}
           >
             {block.titleAr}
           </Typography>
@@ -235,7 +259,7 @@ function BlockSection({ block, blockIndex, getLessonProgress, onLesson, t, loc }
 
 export function GrammarPage() {
   const { t, lang } = useI18n()
-  const loc = (bs: string, en?: string) => (lang === 'en' && en) ? en : bs
+  const loc = (bs: string, en?: string) => (lang === 'en' && en ? en : bs)
   const navigate = useNavigate()
   const { totalXp, completedCount, getLessonProgress } = useGrammarProgress()
 
@@ -264,7 +288,14 @@ export function GrammarPage() {
         <Box>
           <Typography
             dir="rtl"
-            sx={{ fontFamily: 'Amiri, serif', fontSize: '2rem', lineHeight: 1.3, color: 'text.primary', fontWeight: 700, display: 'block' }}
+            sx={{
+              fontFamily: 'Amiri, serif',
+              fontSize: '2rem',
+              lineHeight: 1.3,
+              color: 'text.primary',
+              fontWeight: 700,
+              display: 'block',
+            }}
           >
             قَوَاعِدُ اللُّغَةِ
           </Typography>

@@ -30,17 +30,17 @@ import type {
 // ── Role colour map ────────────────────────────────────────────────────────────
 
 const ROLE_STYLE: Record<WordRole, { bg: string; color: string }> = {
-  fail:         { bg: '#1565C0', color: '#fff' },
-  mubtada:      { bg: '#1565C0', color: '#fff' },
-  fil:          { bg: '#2E7D32', color: '#fff' },
-  mafool:       { bg: '#BF360C', color: '#fff' },
-  khabar:       { bg: '#E65100', color: '#fff' },
-  mudaf:        { bg: '#6A1B9A', color: '#fff' },
-  'mudaf-ilayh':{ bg: '#4A148C', color: '#fff' },
-  harf:         { bg: '#546E7A', color: '#fff' },
-  nat:          { bg: '#00695C', color: '#fff' },
-  hal:          { bg: '#01579B', color: '#fff' },
-  neutral:      { bg: 'transparent', color: 'inherit' },
+  fail: { bg: '#1565C0', color: '#fff' },
+  mubtada: { bg: '#1565C0', color: '#fff' },
+  fil: { bg: '#2E7D32', color: '#fff' },
+  mafool: { bg: '#BF360C', color: '#fff' },
+  khabar: { bg: '#E65100', color: '#fff' },
+  mudaf: { bg: '#6A1B9A', color: '#fff' },
+  'mudaf-ilayh': { bg: '#4A148C', color: '#fff' },
+  harf: { bg: '#546E7A', color: '#fff' },
+  nat: { bg: '#00695C', color: '#fff' },
+  hal: { bg: '#01579B', color: '#fff' },
+  neutral: { bg: 'transparent', color: 'inherit' },
 }
 
 // ── Annotated word chip ───────────────────────────────────────────────────────
@@ -120,7 +120,12 @@ function ExampleCard({ example, loc }: { example: GrammarExample; loc: Loc }) {
       ) : (
         <Typography
           dir="rtl"
-          sx={{ fontFamily: 'Amiri, serif', fontSize: '1.5rem', lineHeight: 1.9, textAlign: 'center' }}
+          sx={{
+            fontFamily: 'Amiri, serif',
+            fontSize: '1.5rem',
+            lineHeight: 1.9,
+            textAlign: 'center',
+          }}
         >
           {example.arabic}
         </Typography>
@@ -129,7 +134,14 @@ function ExampleCard({ example, loc }: { example: GrammarExample; loc: Loc }) {
         {loc(example.bs, example.en)}
       </Typography>
       {example.note && (
-        <Typography variant="caption" color="text.disabled" display="block" textAlign="center" mt={0.5} sx={{ fontStyle: 'italic' }}>
+        <Typography
+          variant="caption"
+          color="text.disabled"
+          display="block"
+          textAlign="center"
+          mt={0.5}
+          sx={{ fontStyle: 'italic' }}
+        >
           {loc(example.note, example.noteEn)}
         </Typography>
       )}
@@ -141,7 +153,12 @@ function ExampleCard({ example, loc }: { example: GrammarExample; loc: Loc }) {
 
 type Loc = (bs: string, en?: string) => string
 
-function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t'], idx: number, loc: Loc) {
+function renderSection(
+  section: GrammarSection,
+  t: ReturnType<typeof useI18n>['t'],
+  idx: number,
+  loc: Loc
+) {
   switch (section.type) {
     case 'intro':
       return (
@@ -153,7 +170,13 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
     case 'terms':
       return (
         <Box key={idx}>
-          <Typography variant="overline" color="text.secondary" fontWeight={700} display="block" mb={1.5}>
+          <Typography
+            variant="overline"
+            color="text.secondary"
+            fontWeight={700}
+            display="block"
+            mb={1.5}
+          >
             {t.grammar.keyTerms}
           </Typography>
           <Stack gap={0}>
@@ -175,7 +198,13 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
                 <Box sx={{ minWidth: 160, textAlign: 'right' }}>
                   <Typography
                     dir="rtl"
-                    sx={{ fontFamily: 'Amiri, serif', fontSize: '1.3rem', lineHeight: 1.5, color: 'primary.main', fontWeight: 700 }}
+                    sx={{
+                      fontFamily: 'Amiri, serif',
+                      fontSize: '1.3rem',
+                      lineHeight: 1.5,
+                      color: 'primary.main',
+                      fontWeight: 700,
+                    }}
                   >
                     {term.arabic}
                   </Typography>
@@ -209,7 +238,8 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
             borderColor: 'primary.main',
             borderRadius: 2,
             p: 2.5,
-            bgcolor: theme => theme.palette.mode === 'dark' ? 'rgba(201,168,76,0.08)' : 'rgba(138,105,20,0.06)',
+            bgcolor: theme =>
+              theme.palette.mode === 'dark' ? 'rgba(201,168,76,0.08)' : 'rgba(138,105,20,0.06)',
           }}
         >
           <Typography variant="overline" color="primary" fontWeight={800} display="block" mb={1}>
@@ -243,7 +273,13 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
       return (
         <Box key={idx}>
           {section.title && (
-            <Typography variant="overline" color="text.secondary" fontWeight={700} display="block" mb={1.5}>
+            <Typography
+              variant="overline"
+              color="text.secondary"
+              fontWeight={700}
+              display="block"
+              mb={1.5}
+            >
               {loc(section.title, section.titleEn) ?? t.grammar.examples}
             </Typography>
           )}
@@ -257,10 +293,25 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
 
     case 'callout': {
       const variantStyle = {
-        tip:     { border: 'info.main',    bg: 'rgba(33,150,243,0.08)',   icon: '💡', label: t.grammar.tip },
-        warning: { border: 'warning.main', bg: 'rgba(255,152,0,0.08)',   icon: '⚠️', label: t.grammar.warning },
-        compare: { border: 'secondary.main', bg: 'rgba(156,39,176,0.07)', icon: '↔️', label: t.grammar.compare },
-        root:    { border: 'success.main', bg: 'rgba(76,175,80,0.08)',   icon: '🌳', label: t.grammar.rootNote },
+        tip: { border: 'info.main', bg: 'rgba(33,150,243,0.08)', icon: '💡', label: t.grammar.tip },
+        warning: {
+          border: 'warning.main',
+          bg: 'rgba(255,152,0,0.08)',
+          icon: '⚠️',
+          label: t.grammar.warning,
+        },
+        compare: {
+          border: 'secondary.main',
+          bg: 'rgba(156,39,176,0.07)',
+          icon: '↔️',
+          label: t.grammar.compare,
+        },
+        root: {
+          border: 'success.main',
+          bg: 'rgba(76,175,80,0.08)',
+          icon: '🌳',
+          label: t.grammar.rootNote,
+        },
       }[section.variant]
 
       return (
@@ -274,10 +325,22 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
             bgcolor: variantStyle.bg,
           }}
         >
-          <Typography variant="caption" color="text.secondary" fontWeight={700} display="block" mb={0.75} sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}>
-            {variantStyle.icon} {section.title ? loc(section.title, section.titleEn) : variantStyle.label}
+          <Typography
+            variant="caption"
+            color="text.secondary"
+            fontWeight={700}
+            display="block"
+            mb={0.75}
+            sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}
+          >
+            {variantStyle.icon}{' '}
+            {section.title ? loc(section.title, section.titleEn) : variantStyle.label}
           </Typography>
-          <Typography variant="body2" color="text.primary" sx={{ lineHeight: 1.75, whiteSpace: 'pre-line' }}>
+          <Typography
+            variant="body2"
+            color="text.primary"
+            sx={{ lineHeight: 1.75, whiteSpace: 'pre-line' }}
+          >
             {loc(section.content, section.contentEn)}
           </Typography>
         </Box>
@@ -290,7 +353,15 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
           {(section.titleAr || section.titleBs || section.titleEn) && (
             <Stack direction="row" gap={1.5} alignItems="baseline" mb={1.5}>
               {section.titleAr && (
-                <Typography dir="rtl" sx={{ fontFamily: 'Amiri, serif', fontSize: '1.1rem', color: 'primary.main', fontWeight: 700 }}>
+                <Typography
+                  dir="rtl"
+                  sx={{
+                    fontFamily: 'Amiri, serif',
+                    fontSize: '1.1rem',
+                    color: 'primary.main',
+                    fontWeight: 700,
+                  }}
+                >
                   {section.titleAr}
                 </Typography>
               )}
@@ -307,7 +378,10 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
           >
             <Box component="thead">
               <Box component="tr">
-                {(section.headersEn ? section.headers.map((h, i) => loc(h, section.headersEn?.[i])) : section.headers).map((h, i) => (
+                {(section.headersEn
+                  ? section.headers.map((h, i) => loc(h, section.headersEn?.[i]))
+                  : section.headers
+                ).map((h, i) => (
                   <Box
                     key={i}
                     component="th"
@@ -329,7 +403,12 @@ function renderSection(section: GrammarSection, t: ReturnType<typeof useI18n>['t
               </Box>
             </Box>
             <Box component="tbody">
-              {(section.rowsEn ? section.rows.map((row, ri) => row.map((cell, ci) => loc(cell, section.rowsEn?.[ri]?.[ci]))) : section.rows).map((row, ri) => (
+              {(section.rowsEn
+                ? section.rows.map((row, ri) =>
+                    row.map((cell, ci) => loc(cell, section.rowsEn?.[ri]?.[ci]))
+                  )
+                : section.rows
+              ).map((row, ri) => (
                 <Box
                   key={ri}
                   component="tr"
@@ -378,10 +457,10 @@ interface QuizOptionProps {
 
 function QuizOption({ label, state, onClick, isArabic }: QuizOptionProps) {
   const styles: Record<QuizOptionState, { border: string; bg: string; color: string }> = {
-    idle:   { border: 'divider',       bg: 'background.paper', color: 'text.primary' },
-    correct:{ border: 'success.main',  bg: 'success.main',     color: 'success.contrastText' },
-    wrong:  { border: 'error.main',    bg: 'error.light',      color: 'error.dark' },
-    reveal: { border: 'success.main',  bg: 'success.light',    color: 'success.dark' },
+    idle: { border: 'divider', bg: 'background.paper', color: 'text.primary' },
+    correct: { border: 'success.main', bg: 'success.main', color: 'success.contrastText' },
+    wrong: { border: 'error.main', bg: 'error.light', color: 'error.dark' },
+    reveal: { border: 'success.main', bg: 'success.light', color: 'success.dark' },
   }
   const s = styles[state]
   return (
@@ -424,7 +503,15 @@ interface QuizQuestionProps {
   loc: Loc
 }
 
-function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSelectedIdx, t, loc }: QuizQuestionProps) {
+function QuizQuestionRenderer({
+  question,
+  onAnswer,
+  answered,
+  selectedIdx,
+  setSelectedIdx,
+  t,
+  loc,
+}: QuizQuestionProps) {
   const pick = (i: number, correct: number) => {
     if (answered) return
     setSelectedIdx(i)
@@ -445,17 +532,27 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
       const isArabic = (opt: string) => /[\u0600-\u06FF]/.test(opt)
       return (
         <Stack gap={3}>
-          <Typography variant="caption" color="text.secondary" fontWeight={600} sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}>
+          <Typography
+            variant="caption"
+            color="text.secondary"
+            fontWeight={600}
+            sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}
+          >
             {question.type === 'classify' ? t.grammar.classify : ''}
           </Typography>
           {question.arabic && (
             <Box sx={{ p: 2, bgcolor: 'action.hover', borderRadius: 2, textAlign: 'center' }}>
-              <Typography dir="rtl" sx={{ fontFamily: 'Amiri, serif', fontSize: '1.5rem', lineHeight: 1.9 }}>
+              <Typography
+                dir="rtl"
+                sx={{ fontFamily: 'Amiri, serif', fontSize: '1.5rem', lineHeight: 1.9 }}
+              >
                 {question.arabic}
               </Typography>
             </Box>
           )}
-          <Typography variant="body1" fontWeight={600}>{loc(question.question, question.questionEn)}</Typography>
+          <Typography variant="body1" fontWeight={600}>
+            {loc(question.question, question.questionEn)}
+          </Typography>
           <Stack gap={1}>
             {(question.type === 'choose' && question.optionsEn
               ? question.options.map((opt, i) => loc(opt, question.optionsEn?.[i]))
@@ -472,7 +569,9 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
           </Stack>
           {answered && (
             <Box sx={{ p: 1.5, bgcolor: 'action.hover', borderRadius: 2 }}>
-              <Typography variant="body2" color="text.secondary">{loc(question.explanation, question.explanationEn)}</Typography>
+              <Typography variant="body2" color="text.secondary">
+                {loc(question.explanation, question.explanationEn)}
+              </Typography>
             </Box>
           )}
         </Stack>
@@ -486,26 +585,54 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
         <Stack gap={3}>
           {question.arabic && (
             <Box sx={{ p: 2, bgcolor: 'action.hover', borderRadius: 2, textAlign: 'center' }}>
-              <Typography dir="rtl" sx={{ fontFamily: 'Amiri, serif', fontSize: '1.5rem', lineHeight: 1.9 }}>
+              <Typography
+                dir="rtl"
+                sx={{ fontFamily: 'Amiri, serif', fontSize: '1.5rem', lineHeight: 1.9 }}
+              >
                 {question.arabic}
               </Typography>
             </Box>
           )}
-          <Typography variant="body1" fontWeight={600}>{loc(question.statement, question.statementEn)}</Typography>
+          <Typography variant="body1" fontWeight={600}>
+            {loc(question.statement, question.statementEn)}
+          </Typography>
           <Stack direction="row" gap={1.5}>
             {[0, 1].map(i => (
               <Box
                 key={i}
                 component="button"
-                onClick={() => { if (!answered) { setSelectedIdx(i); onAnswer(i === correctIndex) } }}
+                onClick={() => {
+                  if (!answered) {
+                    setSelectedIdx(i)
+                    onAnswer(i === correctIndex)
+                  }
+                }}
                 sx={{
                   flex: 1,
                   py: 1.75,
                   border: '2px solid',
                   borderRadius: 2,
-                  borderColor: !answered ? 'divider' : i === correctIndex ? 'success.main' : selectedIdx === i ? 'error.main' : 'divider',
-                  bgcolor: !answered ? 'background.paper' : i === correctIndex ? 'success.main' : selectedIdx === i ? 'error.light' : 'background.paper',
-                  color: !answered ? 'text.primary' : i === correctIndex ? 'success.contrastText' : selectedIdx === i ? 'error.dark' : 'text.disabled',
+                  borderColor: !answered
+                    ? 'divider'
+                    : i === correctIndex
+                      ? 'success.main'
+                      : selectedIdx === i
+                        ? 'error.main'
+                        : 'divider',
+                  bgcolor: !answered
+                    ? 'background.paper'
+                    : i === correctIndex
+                      ? 'success.main'
+                      : selectedIdx === i
+                        ? 'error.light'
+                        : 'background.paper',
+                  color: !answered
+                    ? 'text.primary'
+                    : i === correctIndex
+                      ? 'success.contrastText'
+                      : selectedIdx === i
+                        ? 'error.dark'
+                        : 'text.disabled',
                   cursor: answered ? 'default' : 'pointer',
                   fontSize: '0.95rem',
                   fontWeight: 700,
@@ -518,7 +645,9 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
           </Stack>
           {answered && (
             <Box sx={{ p: 1.5, bgcolor: 'action.hover', borderRadius: 2 }}>
-              <Typography variant="body2" color="text.secondary">{loc(question.explanation, question.explanationEn)}</Typography>
+              <Typography variant="body2" color="text.secondary">
+                {loc(question.explanation, question.explanationEn)}
+              </Typography>
             </Box>
           )}
         </Stack>
@@ -528,10 +657,17 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
     case 'identify-role': {
       return (
         <Stack gap={3}>
-          <Typography variant="caption" color="text.secondary" fontWeight={600} sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}>
+          <Typography
+            variant="caption"
+            color="text.secondary"
+            fontWeight={600}
+            sx={{ textTransform: 'uppercase', letterSpacing: 0.8 }}
+          >
             {t.grammar.identify}
           </Typography>
-          <Typography variant="body1" fontWeight={600}>{loc(question.question, question.questionEn)}</Typography>
+          <Typography variant="body1" fontWeight={600}>
+            {loc(question.question, question.questionEn)}
+          </Typography>
           <Box
             sx={{
               display: 'flex',
@@ -549,8 +685,15 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
               let color = 'text.primary'
               let border = 'divider'
               if (answered) {
-                if (i === question.correctIndex) { bg = 'success.main'; color = 'success.contrastText'; border = 'success.main' }
-                else if (selectedIdx === i) { bg = 'error.light'; color = 'error.dark'; border = 'error.main' }
+                if (i === question.correctIndex) {
+                  bg = 'success.main'
+                  color = 'success.contrastText'
+                  border = 'success.main'
+                } else if (selectedIdx === i) {
+                  bg = 'error.light'
+                  color = 'error.dark'
+                  border = 'error.main'
+                }
               } else if (selectedIdx === i) {
                 border = 'primary.main'
               }
@@ -558,9 +701,15 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
                 <Box
                   key={i}
                   component="button"
-                  onClick={() => { if (!answered) { setSelectedIdx(i); onAnswer(i === question.correctIndex) } }}
+                  onClick={() => {
+                    if (!answered) {
+                      setSelectedIdx(i)
+                      onAnswer(i === question.correctIndex)
+                    }
+                  }}
                   sx={{
-                    px: 1.5, py: 0.75,
+                    px: 1.5,
+                    py: 0.75,
                     border: '2px solid',
                     borderColor: border,
                     borderRadius: 1.5,
@@ -581,7 +730,9 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
           </Box>
           {answered && (
             <Box sx={{ p: 1.5, bgcolor: 'action.hover', borderRadius: 2 }}>
-              <Typography variant="body2" color="text.secondary">{loc(question.explanation, question.explanationEn)}</Typography>
+              <Typography variant="body2" color="text.secondary">
+                {loc(question.explanation, question.explanationEn)}
+              </Typography>
             </Box>
           )}
         </Stack>
@@ -596,39 +747,99 @@ function QuizQuestionRenderer({ question, onAnswer, answered, selectedIdx, setSe
 // ── Done screen ───────────────────────────────────────────────────────────────
 
 function DoneScreen({
-  correct, total, xp, onRetry, onBack, t,
+  correct,
+  total,
+  xp,
+  onRetry,
+  onBack,
+  t,
 }: {
-  correct: number; total: number; xp: number
-  onRetry: () => void; onBack: () => void
+  correct: number
+  total: number
+  xp: number
+  onRetry: () => void
+  onBack: () => void
   t: ReturnType<typeof useI18n>['t']
 }) {
   const pct = total > 0 ? correct / total : 0
   const stars = pct >= 0.9 ? 3 : pct >= 0.7 ? 2 : 1
-  const msg = pct === 1 ? t.grammar.quizDone.perfect : pct >= 0.9 ? t.grammar.quizDone.great : pct >= 0.7 ? t.grammar.quizDone.good : t.grammar.quizDone.keep
+  const msg =
+    pct === 1
+      ? t.grammar.quizDone.perfect
+      : pct >= 0.9
+        ? t.grammar.quizDone.great
+        : pct >= 0.7
+          ? t.grammar.quizDone.good
+          : t.grammar.quizDone.keep
 
   return (
-    <motion.div initial={{ opacity: 0, scale: 0.94 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.35 }}>
-      <Box sx={{ maxWidth: 440, mx: 'auto', mt: { xs: 4, sm: 8 }, p: 4, border: '1px solid', borderColor: 'divider', borderRadius: 3, textAlign: 'center', bgcolor: 'background.paper' }}>
+    <motion.div
+      initial={{ opacity: 0, scale: 0.94 }}
+      animate={{ opacity: 1, scale: 1 }}
+      transition={{ duration: 0.35 }}
+    >
+      <Box
+        sx={{
+          maxWidth: 440,
+          mx: 'auto',
+          mt: { xs: 4, sm: 8 },
+          p: 4,
+          border: '1px solid',
+          borderColor: 'divider',
+          borderRadius: 3,
+          textAlign: 'center',
+          bgcolor: 'background.paper',
+        }}
+      >
         <Stack direction="row" justifyContent="center" gap={1} mb={2}>
           {[0, 1, 2].map(i => (
-            <motion.div key={i} initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.2 + i * 0.15, type: 'spring', stiffness: 300, damping: 15 }}>
-              {i < stars
-                ? <StarIcon sx={{ fontSize: 44, color: 'warning.main' }} />
-                : <StarBorderIcon sx={{ fontSize: 44, color: 'text.disabled' }} />}
+            <motion.div
+              key={i}
+              initial={{ scale: 0 }}
+              animate={{ scale: 1 }}
+              transition={{ delay: 0.2 + i * 0.15, type: 'spring', stiffness: 300, damping: 15 }}
+            >
+              {i < stars ? (
+                <StarIcon sx={{ fontSize: 44, color: 'warning.main' }} />
+              ) : (
+                <StarBorderIcon sx={{ fontSize: 44, color: 'text.disabled' }} />
+              )}
             </motion.div>
           ))}
         </Stack>
-        <Typography variant="h5" fontWeight={700} mb={0.5}>{msg}</Typography>
+        <Typography variant="h5" fontWeight={700} mb={0.5}>
+          {msg}
+        </Typography>
         <Box sx={{ p: 2, bgcolor: 'action.hover', borderRadius: 2, mb: 2 }}>
-          <Typography variant="h3" fontWeight={800} color="primary">{correct}/{total}</Typography>
+          <Typography variant="h3" fontWeight={800} color="primary">
+            {correct}/{total}
+          </Typography>
         </Box>
-        <Box sx={{ display: 'inline-flex', alignItems: 'center', gap: 0.5, px: 2, py: 0.75, borderRadius: 2, bgcolor: 'warning.main', color: 'warning.contrastText', mb: 3 }}>
+        <Box
+          sx={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: 0.5,
+            px: 2,
+            py: 0.75,
+            borderRadius: 2,
+            bgcolor: 'warning.main',
+            color: 'warning.contrastText',
+            mb: 3,
+          }}
+        >
           <BoltIcon sx={{ fontSize: 18 }} />
-          <Typography variant="subtitle1" fontWeight={800}>+{xp} {t.grammar.totalXp}</Typography>
+          <Typography variant="subtitle1" fontWeight={800}>
+            +{xp} {t.grammar.totalXp}
+          </Typography>
         </Box>
         <Stack direction="row" gap={2} justifyContent="center">
-          <Button variant="outlined" onClick={onRetry}>{t.grammar.tryAgain}</Button>
-          <Button variant="contained" onClick={onBack}>{t.grammar.finish}</Button>
+          <Button variant="outlined" onClick={onRetry}>
+            {t.grammar.tryAgain}
+          </Button>
+          <Button variant="contained" onClick={onBack}>
+            {t.grammar.finish}
+          </Button>
         </Stack>
       </Box>
     </motion.div>
@@ -645,7 +856,7 @@ type Phase = 'content' | 'quiz' | 'done'
 
 export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
   const { t, lang } = useI18n()
-  const loc: Loc = (bs, en) => (lang === 'en' && en) ? en : bs
+  const loc: Loc = (bs, en) => (lang === 'en' && en ? en : bs)
   const navigate = useNavigate()
   const { saveResult } = useGrammarProgress()
 
@@ -666,22 +877,34 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
     setLoading(true)
     setError(false)
     void fetch(`/data/grammar/lessons/${lessonId}.json`)
-      .then(async r => { if (!r.ok) throw new Error(); return r.json() as Promise<GrammarLesson> })
-      .then(data => { setLesson(data); setLoading(false) })
-      .catch(() => { setError(true); setLoading(false) })
+      .then(async r => {
+        if (!r.ok) throw new Error()
+        return r.json() as Promise<GrammarLesson>
+      })
+      .then(data => {
+        setLesson(data)
+        setLoading(false)
+      })
+      .catch(() => {
+        setError(true)
+        setLoading(false)
+      })
   }, [lessonId])
 
-  const handleAnswer = useCallback((correct: boolean) => {
-    if (answered) return
-    setAnswered(true)
-    const xpGained = correct ? 10 : 0
-    if (xpGained > 0) {
-      setSessionXp(x => x + xpGained)
-      setXpPop({ id: Date.now(), amount: xpGained })
-      setTimeout(() => setXpPop(null), 900)
-    }
-    setResults(r => [...r, correct])
-  }, [answered])
+  const handleAnswer = useCallback(
+    (correct: boolean) => {
+      if (answered) return
+      setAnswered(true)
+      const xpGained = correct ? 10 : 0
+      if (xpGained > 0) {
+        setSessionXp(x => x + xpGained)
+        setXpPop({ id: Date.now(), amount: xpGained })
+        setTimeout(() => setXpPop(null), 900)
+      }
+      setResults(r => [...r, correct])
+    },
+    [answered]
+  )
 
   const handleNext = useCallback(() => {
     if (!lesson) return
@@ -719,7 +942,9 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
         <Skeleton variant="rounded" height={8} sx={{ mb: 3 }} />
         <Skeleton variant="rounded" height={60} sx={{ mb: 3, borderRadius: 2 }} />
         <Stack gap={2}>
-          {[1, 2, 3].map(i => <Skeleton key={i} variant="rounded" height={80} sx={{ borderRadius: 2 }} />)}
+          {[1, 2, 3].map(i => (
+            <Skeleton key={i} variant="rounded" height={80} sx={{ borderRadius: 2 }} />
+          ))}
         </Stack>
       </Container>
     )
@@ -728,8 +953,12 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
   if (error || !lesson) {
     return (
       <Container maxWidth="md" sx={{ py: 5, textAlign: 'center' }}>
-        <Typography color="error" mb={2}>{t.common.error}</Typography>
-        <Button variant="outlined" onClick={goBack}>{t.grammar.backToGrammar}</Button>
+        <Typography color="error" mb={2}>
+          {t.common.error}
+        </Typography>
+        <Button variant="outlined" onClick={goBack}>
+          {t.grammar.backToGrammar}
+        </Button>
       </Container>
     )
   }
@@ -762,7 +991,11 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
             <ArrowBackIcon fontSize="small" />
           </IconButton>
           <Box flex={1}>
-            <LinearProgress variant="determinate" value={progressPct} sx={{ height: 8, borderRadius: 4 }} />
+            <LinearProgress
+              variant="determinate"
+              value={progressPct}
+              sx={{ height: 8, borderRadius: 4 }}
+            />
           </Box>
           <Box position="relative">
             <AnimatePresence>
@@ -773,7 +1006,16 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
                   animate={{ opacity: 0, y: -28 }}
                   exit={{ opacity: 0 }}
                   transition={{ duration: 0.8 }}
-                  style={{ position: 'absolute', top: -8, right: 0, pointerEvents: 'none', whiteSpace: 'nowrap', color: '#C9A84C', fontWeight: 800, fontSize: 14 }}
+                  style={{
+                    position: 'absolute',
+                    top: -8,
+                    right: 0,
+                    pointerEvents: 'none',
+                    whiteSpace: 'nowrap',
+                    color: '#C9A84C',
+                    fontWeight: 800,
+                    fontSize: 14,
+                  }}
                 >
                   +{xpPop.amount} XP
                 </motion.div>
@@ -794,7 +1036,16 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
             exit={{ opacity: 0, x: -20 }}
             transition={{ duration: 0.22 }}
           >
-            <Box sx={{ border: '1px solid', borderColor: 'divider', borderRadius: 3, p: { xs: 2, sm: 3 }, bgcolor: 'background.paper', mb: 2 }}>
+            <Box
+              sx={{
+                border: '1px solid',
+                borderColor: 'divider',
+                borderRadius: 3,
+                p: { xs: 2, sm: 3 },
+                bgcolor: 'background.paper',
+                mb: 2,
+              }}
+            >
               <QuizQuestionRenderer
                 question={q}
                 onAnswer={handleAnswer}
@@ -810,9 +1061,17 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
 
         {/* Feedback + next */}
         {answered && (
-          <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.2 }}>
+          <motion.div
+            initial={{ opacity: 0, y: 8 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.2 }}
+          >
             <Stack direction="row" alignItems="center" justifyContent="space-between">
-              <Typography variant="subtitle2" fontWeight={700} color={results[results.length - 1] ? 'success.main' : 'error.main'}>
+              <Typography
+                variant="subtitle2"
+                fontWeight={700}
+                color={results[results.length - 1] ? 'success.main' : 'error.main'}
+              >
                 {results[results.length - 1] ? t.grammar.correct : t.grammar.wrong}
               </Typography>
               <Button variant="contained" onClick={handleNext}>
@@ -850,7 +1109,12 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
         }}
       >
         <Stack direction="row" gap={1} mb={1.5}>
-          <Chip label={lesson.level} size="small" color="primary" sx={{ fontWeight: 800, fontSize: '0.7rem' }} />
+          <Chip
+            label={lesson.level}
+            size="small"
+            color="primary"
+            sx={{ fontWeight: 800, fontSize: '0.7rem' }}
+          />
           <Chip
             label={lesson.track === 'nahw' ? t.grammar.tracks.nahw : t.grammar.tracks.sarf}
             size="small"
@@ -860,7 +1124,15 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
         </Stack>
         <Typography
           dir="rtl"
-          sx={{ fontFamily: 'Amiri, serif', fontSize: { xs: '1.8rem', sm: '2.3rem' }, lineHeight: 1.5, color: 'primary.main', fontWeight: 700, display: 'block', mb: 0.5 }}
+          sx={{
+            fontFamily: 'Amiri, serif',
+            fontSize: { xs: '1.8rem', sm: '2.3rem' },
+            lineHeight: 1.5,
+            color: 'primary.main',
+            fontWeight: 700,
+            display: 'block',
+            mb: 0.5,
+          }}
         >
           {lesson.titleAr}
         </Typography>
@@ -871,8 +1143,12 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
           {lesson.summary}
         </Typography>
         <Stack direction="row" gap={2} mt={1.5}>
-          <Typography variant="caption" color="text.disabled">⏱ {lesson.estimatedMinutes} {t.grammar.minutes}</Typography>
-          <Typography variant="caption" color="text.disabled">❓ {lesson.quiz.length} pitanja</Typography>
+          <Typography variant="caption" color="text.disabled">
+            ⏱ {lesson.estimatedMinutes} {t.grammar.minutes}
+          </Typography>
+          <Typography variant="caption" color="text.disabled">
+            ❓ {lesson.quiz.length} pitanja
+          </Typography>
         </Stack>
       </Box>
 
@@ -890,19 +1166,38 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
           borderColor: 'primary.main',
           borderRadius: 3,
           textAlign: 'center',
-          bgcolor: theme => theme.palette.mode === 'dark' ? 'rgba(201,168,76,0.06)' : 'rgba(138,105,20,0.04)',
+          bgcolor: theme =>
+            theme.palette.mode === 'dark' ? 'rgba(201,168,76,0.06)' : 'rgba(138,105,20,0.04)',
         }}
       >
         <Typography
           dir="rtl"
-          sx={{ fontFamily: 'Amiri, serif', fontSize: '1.5rem', color: 'primary.main', fontWeight: 700, mb: 0.5 }}
+          sx={{
+            fontFamily: 'Amiri, serif',
+            fontSize: '1.5rem',
+            color: 'primary.main',
+            fontWeight: 700,
+            mb: 0.5,
+          }}
         >
           {t.grammar.quizTitle}
         </Typography>
         <Typography variant="body2" color="text.secondary" mb={2}>
           {t.grammar.quizSubtitle} — {lesson.quiz.length} pitanja
         </Typography>
-        <Button variant="contained" size="large" onClick={() => { setPhase('quiz'); setCurrent(0); setResults([]); setAnswered(false); setSelectedIdx(null); setSessionXp(0) }} sx={{ fontWeight: 700, px: 4 }}>
+        <Button
+          variant="contained"
+          size="large"
+          onClick={() => {
+            setPhase('quiz')
+            setCurrent(0)
+            setResults([])
+            setAnswered(false)
+            setSelectedIdx(null)
+            setSessionXp(0)
+          }}
+          sx={{ fontWeight: 700, px: 4 }}
+        >
           {t.grammar.takeQuiz}
         </Button>
       </Box>

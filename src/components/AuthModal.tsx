@@ -144,7 +144,11 @@ export function AuthModal({ open, onClose }: Props) {
             <Button
               size="small"
               variant="text"
-              onClick={() => { setMode('reset'); setError(null); setSuccess(null) }}
+              onClick={() => {
+                setMode('reset')
+                setError(null)
+                setSuccess(null)
+              }}
               sx={{ alignSelf: 'center', fontSize: '0.75rem' }}
             >
               {t.auth.forgotPassword}
@@ -155,7 +159,11 @@ export function AuthModal({ open, onClose }: Props) {
             <Button
               size="small"
               variant="text"
-              onClick={() => { setMode('signin'); setError(null); setSuccess(null) }}
+              onClick={() => {
+                setMode('signin')
+                setError(null)
+                setSuccess(null)
+              }}
               sx={{ alignSelf: 'center', fontSize: '0.75rem' }}
             >
               {t.auth.backToSignIn}

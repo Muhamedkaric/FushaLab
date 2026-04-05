@@ -177,7 +177,12 @@ function PackCard({ pack, stars, onStart, t, dimmed }: PackCardProps) {
         </Typography>
         <Typography
           dir="rtl"
-          sx={{ fontFamily: 'Amiri, serif', fontSize: '1rem', color: 'text.disabled', lineHeight: 1.6 }}
+          sx={{
+            fontFamily: 'Amiri, serif',
+            fontSize: '1rem',
+            color: 'text.disabled',
+            lineHeight: 1.6,
+          }}
         >
           {pack.titleAr}
         </Typography>
@@ -354,7 +359,9 @@ export function ExercisesPage() {
                 onClick={() => setShowMastered(v => !v)}
                 sx={{ fontWeight: 600, mb: 1.5 }}
               >
-                {showMastered ? t.exercises.hideMastered : `${t.exercises.showMastered} (${masteredPacks.length})`}
+                {showMastered
+                  ? t.exercises.hideMastered
+                  : `${t.exercises.showMastered} (${masteredPacks.length})`}
               </Button>
               <Collapse in={showMastered}>
                 <motion.div variants={containerVariants} initial="hidden" animate="visible">

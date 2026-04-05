@@ -21,7 +21,6 @@ import { useI18n } from '@/i18n'
 import { useChannelIndex, usePlaylistIndex } from '@/hooks/useListeningFetch'
 import type { ListeningLocale, ListeningPlaylist } from '@/types/listening'
 
-
 const containerVariants = {
   hidden: {},
   visible: { transition: { staggerChildren: 0.08 } },

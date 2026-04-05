@@ -73,8 +73,7 @@ function ChatBubble({ line, mode, shadowVisible }: ChatBubbleProps) {
   const isA = line.speaker === 'A'
 
   // Determine if this line is the "player's" hidden line in role-play
-  const isHiddenLine =
-    (mode === 'roleplay-a' && isA) || (mode === 'roleplay-b' && !isA)
+  const isHiddenLine = (mode === 'roleplay-a' && isA) || (mode === 'roleplay-b' && !isA)
 
   // In role-play mode translations are hidden by default; in read mode they're tappable
   const showTranslationToggle = mode !== 'shadow'
@@ -104,11 +103,7 @@ function ChatBubble({ line, mode, shadowVisible }: ChatBubbleProps) {
       }}
     >
       {/* Role label */}
-      <Typography
-        variant="caption"
-        color="text.disabled"
-        sx={{ mb: 0.5, px: 1, direction: 'ltr' }}
-      >
+      <Typography variant="caption" color="text.disabled" sx={{ mb: 0.5, px: 1, direction: 'ltr' }}>
         {line.roleAr} · {line.role}
       </Typography>
 
@@ -122,9 +117,7 @@ function ChatBubble({ line, mode, shadowVisible }: ChatBubbleProps) {
           color: isA ? 'primary.contrastText' : 'text.primary',
           border: isA ? 'none' : '1px solid',
           borderColor: 'divider',
-          borderRadius: isA
-            ? '18px 18px 4px 18px'
-            : '18px 18px 18px 4px',
+          borderRadius: isA ? '18px 18px 4px 18px' : '18px 18px 18px 4px',
           px: 2,
           py: 1.5,
           transition: 'box-shadow 0.15s',
@@ -150,11 +143,21 @@ function ChatBubble({ line, mode, shadowVisible }: ChatBubbleProps) {
         {/* Translation — collapsible, hidden in shadow + hidden by default in role-play */}
         {mode !== 'shadow' && (
           <Collapse in={translationOpen} unmountOnExit>
-            <Box mt={1} pt={1} sx={{ borderTop: '1px solid', borderColor: isA ? 'rgba(255,255,255,0.2)' : 'divider' }}>
+            <Box
+              mt={1}
+              pt={1}
+              sx={{
+                borderTop: '1px solid',
+                borderColor: isA ? 'rgba(255,255,255,0.2)' : 'divider',
+              }}
+            >
               <Typography variant="body2" sx={{ color: isA ? 'inherit' : 'text.primary' }}>
                 {line.bs}
               </Typography>
-              <Typography variant="caption" sx={{ color: isA ? 'rgba(255,255,255,0.7)' : 'text.secondary' }}>
+              <Typography
+                variant="caption"
+                sx={{ color: isA ? 'rgba(255,255,255,0.7)' : 'text.secondary' }}
+              >
                 {line.en}
               </Typography>
             </Box>
@@ -283,7 +286,12 @@ export function DialoguePage({ id }: DialoguePageProps) {
         <Skeleton width="40%" height={24} sx={{ mb: 3 }} />
         <Skeleton variant="rounded" height={52} sx={{ mb: 3, borderRadius: 2 }} />
         {Array.from({ length: 5 }, (_, i) => (
-          <Box key={i} mb={2} display="flex" justifyContent={i % 2 === 0 ? 'flex-end' : 'flex-start'}>
+          <Box
+            key={i}
+            mb={2}
+            display="flex"
+            justifyContent={i % 2 === 0 ? 'flex-end' : 'flex-start'}
+          >
             <Skeleton variant="rounded" width="65%" height={72} sx={{ borderRadius: 3 }} />
           </Box>
         ))}
@@ -341,7 +349,13 @@ export function DialoguePage({ id }: DialoguePageProps) {
           {dialogue.title}
         </Typography>
         <Stack direction="row" gap={1} flexWrap="wrap">
-          <Chip label={dialogue.level} color="primary" size="small" variant="outlined" sx={{ fontWeight: 700 }} />
+          <Chip
+            label={dialogue.level}
+            color="primary"
+            size="small"
+            variant="outlined"
+            sx={{ fontWeight: 700 }}
+          />
           <Chip
             label={`${dialogue.estimatedMinutes} ${t.conversation.minutes}`}
             size="small"

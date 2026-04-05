@@ -1,20 +1,13 @@
 import { useState, useRef } from 'react'
-import {
-  Box,
-  Popover,
-  Typography,
-  ButtonBase,
-  Tooltip,
-  Divider,
-} from '@mui/material'
+import { Box, Popover, Typography, ButtonBase, Tooltip, Divider } from '@mui/material'
 import TextFieldsIcon from '@mui/icons-material/TextFields'
 import { useFontScale, type FontScale } from '@/context/FontScaleContext'
 
 const SIZES: { value: FontScale; label: string; arSize: string; bsLabel: string }[] = [
-  { value: 0.9, label: 'S',  arSize: '1rem',    bsLabel: 'Sitno' },
-  { value: 1,   label: 'M',  arSize: '1.15rem',  bsLabel: 'Zadano' },
-  { value: 1.15,label: 'L',  arSize: '1.3rem',  bsLabel: 'Veće' },
-  { value: 1.3, label: 'XL', arSize: '1.5rem',  bsLabel: 'Veliko' },
+  { value: 0.9, label: 'S', arSize: '1rem', bsLabel: 'Sitno' },
+  { value: 1, label: 'M', arSize: '1.15rem', bsLabel: 'Zadano' },
+  { value: 1.15, label: 'L', arSize: '1.3rem', bsLabel: 'Veće' },
+  { value: 1.3, label: 'XL', arSize: '1.5rem', bsLabel: 'Veliko' },
 ]
 
 export function FontSizeButton() {
@@ -69,7 +62,12 @@ export function FontSizeButton() {
           },
         }}
       >
-        <Typography variant="caption" color="text.secondary" fontWeight={600} sx={{ textTransform: 'uppercase', letterSpacing: 0.8, display: 'block', mb: 1 }}>
+        <Typography
+          variant="caption"
+          color="text.secondary"
+          fontWeight={600}
+          sx={{ textTransform: 'uppercase', letterSpacing: 0.8, display: 'block', mb: 1 }}
+        >
           Veličina teksta
         </Typography>
 
@@ -79,7 +77,10 @@ export function FontSizeButton() {
             return (
               <ButtonBase
                 key={size.value}
-                onClick={() => { setScale(size.value); setOpen(false) }}
+                onClick={() => {
+                  setScale(size.value)
+                  setOpen(false)
+                }}
                 sx={{
                   flex: 1,
                   flexDirection: 'column',
@@ -107,7 +108,10 @@ export function FontSizeButton() {
                 >
                   A
                 </Typography>
-                <Typography variant="caption" sx={{ fontSize: '0.6rem', fontWeight: 600, opacity: 0.8 }}>
+                <Typography
+                  variant="caption"
+                  sx={{ fontSize: '0.6rem', fontWeight: 600, opacity: 0.8 }}
+                >
                   {size.bsLabel}
                 </Typography>
               </ButtonBase>
@@ -118,12 +122,17 @@ export function FontSizeButton() {
         <Divider sx={{ my: 1.25 }} />
 
         <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <Typography variant="caption" color="text.secondary">Pregled:</Typography>
+          <Typography variant="caption" color="text.secondary">
+            Pregled:
+          </Typography>
           <Box sx={{ display: 'flex', gap: 1.5, alignItems: 'baseline' }}>
             <Typography variant="body2" sx={{ fontFamily: '"Inter", sans-serif' }}>
               Bosanski
             </Typography>
-            <Typography sx={{ fontFamily: '"Amiri", serif', fontSize: '1.1rem', lineHeight: 1 }} dir="rtl">
+            <Typography
+              sx={{ fontFamily: '"Amiri", serif', fontSize: '1.1rem', lineHeight: 1 }}
+              dir="rtl"
+            >
               عَرَبِيٌّ
             </Typography>
           </Box>

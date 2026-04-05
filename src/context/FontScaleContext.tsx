@@ -38,9 +38,7 @@ export function FontScaleProvider({ children }: { children: React.ReactNode }) {
   }, [])
 
   return (
-    <FontScaleContext.Provider value={{ scale, setScale }}>
-      {children}
-    </FontScaleContext.Provider>
+    <FontScaleContext.Provider value={{ scale, setScale }}>{children}</FontScaleContext.Provider>
   )
 }
 

@@ -29,19 +29,17 @@ export interface ContentMetadata {
 
 export interface WordAnnotation {
   w: string // exact vocalized form as it appears in the sentence
-  lemma?: string // dictionary form: verb = "فَعَلَ يَفْعَلُ", noun/adj = indefinite nominative sg
-  root?: string // trilateral root, e.g. "د ر س" (optional for non-root words)
-  bs: string // Bosnian meaning
-  en: string // English meaning
+  lemma?: string // dictionary key — look up root/bs/en from dictionary.json via this
 }
 
 export interface SavedWord {
-  key: string // lemma if present, else w — used for deduplication and dictionary lookup
+  key: string // lemma if present, else w — dictionary lookup key
   w: string // the inflected form seen in text
-  lemma?: string // dictionary form — same as key when lemma is present
-  root?: string // cached from dictionary at save time
-  bs: string // cached from dictionary at save time
-  en: string // cached from dictionary at save time
+  lemma?: string // dictionary key
+  // bs/en/root cached from dictionary at save time so review works offline
+  root?: string
+  bs: string
+  en: string
   savedAt: number
 }
 

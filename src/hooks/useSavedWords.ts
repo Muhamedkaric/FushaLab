@@ -40,9 +40,9 @@ export function useSavedWords(dictLookup?: (lemma: string) => DictionaryEntry | 
             key,
             w: ann.w,
             lemma: ann.lemma,
-            root: dictEntry?.root ?? ann.root,
-            bs: dictEntry?.bs ?? ann.bs,
-            en: dictEntry?.en ?? ann.en,
+            root: dictEntry?.root,
+            bs: dictEntry?.bs ?? '',
+            en: dictEntry?.en ?? '',
             savedAt: Date.now(),
           }
         }

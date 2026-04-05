@@ -1,13 +1,4 @@
-import {
-  Box,
-  Typography,
-  Stack,
-  Container,
-  Chip,
-  IconButton,
-  Skeleton,
-  Paper,
-} from '@mui/material'
+import { Box, Typography, Stack, Container, Chip, IconButton, Skeleton, Paper } from '@mui/material'
 import ArrowBackIcon from '@mui/icons-material/ArrowBack'
 import VolumeUpIcon from '@mui/icons-material/VolumeUp'
 import { motion } from 'framer-motion'
@@ -67,12 +58,17 @@ interface PhraseCardProps {
   registerLabel: string
 }
 
-function PhraseCard({ arabic, bs, en, register, context, contextBs, registerLabel }: PhraseCardProps) {
+function PhraseCard({
+  arabic,
+  bs,
+  en,
+  register,
+  context,
+  contextBs,
+  registerLabel,
+}: PhraseCardProps) {
   return (
-    <Paper
-      variant="outlined"
-      sx={{ p: 2, borderRadius: 2 }}
-    >
+    <Paper variant="outlined" sx={{ p: 2, borderRadius: 2 }}>
       <Stack direction="row" alignItems="flex-start" justifyContent="space-between" gap={1}>
         <Box flex={1} minWidth={0}>
           {/* Arabic */}
@@ -261,11 +257,7 @@ export function PhrasesPage({ initialCategoryId }: PhrasesPageProps = {}) {
       </Box>
 
       {/* Body: category selector + phrase list */}
-      <Stack
-        direction={{ xs: 'column', sm: 'row' }}
-        gap={{ xs: 2, sm: 4 }}
-        alignItems="flex-start"
-      >
+      <Stack direction={{ xs: 'column', sm: 'row' }} gap={{ xs: 2, sm: 4 }} alignItems="flex-start">
         {/* Category selector */}
         {indexLoading ? (
           <Box sx={{ width: { xs: '100%', sm: 220 }, flexShrink: 0 }}>
@@ -366,7 +358,12 @@ export function PhrasesPage({ initialCategoryId }: PhrasesPageProps = {}) {
           {phraseLoading ? (
             <PhraseSkeletons />
           ) : phraseSet ? (
-            <motion.div key={phraseSet.id} variants={listVariants} initial="hidden" animate="visible">
+            <motion.div
+              key={phraseSet.id}
+              variants={listVariants}
+              initial="hidden"
+              animate="visible"
+            >
               <Stack gap={1.5}>
                 {phraseSet.phrases.map((phrase, idx) => (
                   <motion.div key={idx} variants={cardVariants}>
