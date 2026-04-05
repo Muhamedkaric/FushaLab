@@ -8,10 +8,34 @@
       "translation": "Kada si ljubazan prema drugima osjećaš se lagodno.",
       "translationEn": "When you are kind to others you feel at ease.",
       "words": [
-        { "w": "لَطِيفًا", "root": "ل ط ف", "bs": "ljubazan", "en": "kind" },
-        { "w": "الآخَرِينَ", "root": "أ خ ر", "bs": "drugima", "en": "others" },
-        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjećaš se", "en": "feel" },
-        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "lagodnost", "en": "ease" }
+        {
+          "w": "لَطِيفًا",
+          "root": "ل ط ف",
+          "bs": "ljubazan",
+          "en": "kind",
+          "lemma": "لَطِيفٌ"
+        },
+        {
+          "w": "الآخَرِينَ",
+          "root": "أ خ ر",
+          "bs": "drugima",
+          "en": "others",
+          "lemma": "آخَرُ / أُخَرُ"
+        },
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećaš se",
+          "en": "feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "lagodnost",
+          "en": "ease",
+          "lemma": "رَاحَةٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Ahmed je rekao lijepu riječ svom tužnom drugu.",
       "translationEn": "Ahmed said a kind word to his sad classmate.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "كَلِمَةً", "root": "ك ل م", "bs": "riječ", "en": "a word" },
-        { "w": "طَيِّبَةً", "root": "ط ي ب", "bs": "lijepu", "en": "kind" },
-        { "w": "زَمِيلِهِ", "root": "ز م ل", "bs": "njegov drug", "en": "his classmate" },
-        { "w": "الْحَزِينِ", "root": "ح ز ن", "bs": "tužnog", "en": "sad" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "كَلِمَةً",
+          "root": "ك ل م",
+          "bs": "riječ",
+          "en": "a word",
+          "lemma": "كَلِمَةٌ / كَلِمَاتٌ"
+        },
+        {
+          "w": "طَيِّبَةً",
+          "root": "ط ي ب",
+          "bs": "lijepu",
+          "en": "kind",
+          "lemma": "طَيِّبٌ"
+        },
+        {
+          "w": "زَمِيلِهِ",
+          "root": "ز م ل",
+          "bs": "njegov drug",
+          "en": "his classmate",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "الْحَزِينِ",
+          "root": "ح ز ن",
+          "bs": "tužnog",
+          "en": "sad",
+          "lemma": "حَزِينٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Drug se nasmiješio i osjetio se bolje.",
       "translationEn": "The classmate smiled and felt better.",
       "words": [
-        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" },
-        { "w": "الزَّمِيلُ", "root": "ز م ل", "bs": "drug", "en": "the classmate" },
-        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio se", "en": "felt" },
-        { "w": "تَحَسُّنٍ", "root": "ح س ن", "bs": "poboljšanje", "en": "better" }
+        {
+          "w": "ابْتَسَمَ",
+          "root": "ب س م",
+          "bs": "nasmiješio se",
+          "en": "smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "الزَّمِيلُ",
+          "root": "ز م ل",
+          "bs": "drug",
+          "en": "the classmate",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio se",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "تَحَسُّنٍ",
+          "root": "ح س ن",
+          "bs": "poboljšanje",
+          "en": "better",
+          "lemma": "تَحَسُّنٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,43 @@
       "translation": "Ljubaznost čini dan ljepšim za sve.",
       "translationEn": "Kindness makes the day more beautiful for everyone.",
       "words": [
-        { "w": "اللُّطْفُ", "root": "ل ط ف", "bs": "ljubaznost", "en": "kindness" },
-        { "w": "يَجْعَلُ", "root": "ج ع ل", "bs": "čini", "en": "makes" },
-        { "w": "الْيَوْمَ", "root": "ي و م", "bs": "dan", "en": "the day" },
-        { "w": "أَجْمَلَ", "root": "ج م ل", "bs": "ljepšim", "en": "more beautiful" }
+        {
+          "w": "اللُّطْفُ",
+          "root": "ل ط ف",
+          "bs": "ljubaznost",
+          "en": "kindness",
+          "lemma": "لُطْفٌ"
+        },
+        {
+          "w": "يَجْعَلُ",
+          "root": "ج ع ل",
+          "bs": "čini",
+          "en": "makes",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "الْيَوْمَ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "the day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "أَجْمَلَ",
+          "root": "ج م ل",
+          "bs": "ljepšim",
+          "en": "more beautiful",
+          "lemma": "أَجْمَلُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["kindness", "empathy", "feelings"]
+    "tags": [
+      "kindness",
+      "empathy",
+      "feelings"
+    ]
   }
 }

@@ -8,9 +8,27 @@
       "translation": "Učitelj je rekao: «Početak je pola puta».",
       "translationEn": "The teacher said: «Beginning is half the journey».",
       "words": [
-        { "w": "الْبِدَايَةُ", "root": "ب د أ", "bs": "početak", "en": "beginning" },
-        { "w": "نِصْفُ", "root": "ن ص ف", "bs": "polovina", "en": "half" },
-        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "puta", "en": "journey" }
+        {
+          "w": "الْبِدَايَةُ",
+          "root": "ب د أ",
+          "bs": "početak",
+          "en": "beginning",
+          "lemma": "بِدَايَةٌ / بِدَايَاتٌ"
+        },
+        {
+          "w": "نِصْفُ",
+          "root": "ن ص ف",
+          "bs": "polovina",
+          "en": "half",
+          "lemma": "نِصْفٌ / أَنْصَافٌ"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "puta",
+          "en": "journey",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "To znači da je početak rada najteži korak.",
       "translationEn": "This means that starting the work is the hardest step.",
       "words": [
-        { "w": "الْبَدْءَ", "root": "ب د أ", "bs": "početak", "en": "starting" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "rad", "en": "work" },
-        { "w": "أَصْعَبُ", "root": "ص ع ب", "bs": "najteži", "en": "hardest" },
-        { "w": "خُطْوَةٍ", "root": "خ ط و", "bs": "korak", "en": "step" }
+        {
+          "w": "الْبَدْءَ",
+          "root": "ب د أ",
+          "bs": "početak",
+          "en": "starting",
+          "lemma": "بَدْءٌ / بُدُوءٌ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "أَصْعَبُ",
+          "root": "ص ع ب",
+          "bs": "najteži",
+          "en": "hardest",
+          "lemma": "صَعْبٌ"
+        },
+        {
+          "w": "خُطْوَةٍ",
+          "root": "خ ط و",
+          "bs": "korak",
+          "en": "step",
+          "lemma": "خُطْوَةٌ / خُطُوَاتٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Selma je željela napisati priču ali se bojala.",
       "translationEn": "Salma wanted to write a story but she was afraid.",
       "words": [
-        { "w": "كِتَابَةَ", "root": "ك ت ب", "bs": "pisanje", "en": "writing" },
-        { "w": "قِصَّةٍ", "root": "ق ص ص", "bs": "priča", "en": "story" },
-        { "w": "خَافَتْ", "root": "خ و ف", "bs": "bojala se", "en": "was afraid" }
+        {
+          "w": "كِتَابَةَ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "writing",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "قِصَّةٍ",
+          "root": "ق ص ص",
+          "bs": "priča",
+          "en": "story",
+          "lemma": "قِصَّةٌ / قِصَصٌ"
+        },
+        {
+          "w": "خَافَتْ",
+          "root": "خ و ف",
+          "bs": "bojala se",
+          "en": "was afraid",
+          "lemma": "خَافَ يَخَافُ"
+        }
       ]
     },
     {
@@ -39,15 +99,43 @@
       "translation": "Napisala je prvu rečenicu i nakon toga je pisanje teklo lako.",
       "translationEn": "She wrote the first sentence and after that the writing flowed easily.",
       "words": [
-        { "w": "كَتَبَتِ", "root": "ك ت ب", "bs": "napisala je", "en": "wrote" },
-        { "w": "الْجُمْلَةَ", "root": "ج م ل", "bs": "rečenica", "en": "sentence" },
-        { "w": "الْكِتَابَةُ", "root": "ك ت ب", "bs": "pisanje", "en": "writing" },
-        { "w": "بِسُهُولَةٍ", "root": "س ه ل", "bs": "lako", "en": "easily" }
+        {
+          "w": "كَتَبَتِ",
+          "root": "ك ت ب",
+          "bs": "napisala je",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "الْجُمْلَةَ",
+          "root": "ج م ل",
+          "bs": "rečenica",
+          "en": "sentence",
+          "lemma": "جُمْلَةٌ / جُمَلٌ"
+        },
+        {
+          "w": "الْكِتَابَةُ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "writing",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "بِسُهُولَةٍ",
+          "root": "س ه ل",
+          "bs": "lako",
+          "en": "easily",
+          "lemma": "سُهُولَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["beginning", "proverb", "courage"]
+    "tags": [
+      "beginning",
+      "proverb",
+      "courage"
+    ]
   }
 }

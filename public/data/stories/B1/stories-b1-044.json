@@ -8,10 +8,34 @@
       "translation": "U selu je postojao stari bunar iz kojeg su svi pili.",
       "translationEn": "There was an old well in the village from which everyone drank.",
       "words": [
-        { "w": "بِئْرٌ", "root": "ب أ ر", "bs": "bunar", "en": "well" },
-        { "w": "قَدِيمٌ", "root": "ق د م", "bs": "stari", "en": "old" },
-        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" },
-        { "w": "يَشْرَبُ", "root": "ش ر ب", "bs": "pili su", "en": "drank" }
+        {
+          "w": "بِئْرٌ",
+          "root": "ب أ ر",
+          "bs": "bunar",
+          "en": "well",
+          "lemma": "بِئْرٌ / آبَارٌ"
+        },
+        {
+          "w": "قَدِيمٌ",
+          "root": "ق د م",
+          "bs": "stari",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "يَشْرَبُ",
+          "root": "ش ر ب",
+          "bs": "pili su",
+          "en": "drank",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Jednog dana se bunar isušio i mještani su se uznemirili.",
       "translationEn": "One day the well dried up and the villagers were worried.",
       "words": [
-        { "w": "جَفَّ", "root": "ج ف ف", "bs": "isušio se", "en": "dried up" },
-        { "w": "الْبِئْرُ", "root": "ب أ ر", "bs": "bunar", "en": "well" },
-        { "w": "قَلِقَ", "root": "ق ل ق", "bs": "uznemirili su se", "en": "were worried" },
-        { "w": "أَهْلُ", "root": "أ ه ل", "bs": "mještani", "en": "villagers" }
+        {
+          "w": "جَفَّ",
+          "root": "ج ف ف",
+          "bs": "isušio se",
+          "en": "dried up",
+          "lemma": "جَفَّ يَجِفُّ"
+        },
+        {
+          "w": "الْبِئْرُ",
+          "root": "ب أ ر",
+          "bs": "bunar",
+          "en": "well",
+          "lemma": "بِئْرٌ / آبَارٌ"
+        },
+        {
+          "w": "قَلِقَ",
+          "root": "ق ل ق",
+          "bs": "uznemirili su se",
+          "en": "were worried",
+          "lemma": "قَلِقَ يَقْلَقُ"
+        },
+        {
+          "w": "أَهْلُ",
+          "root": "أ ه ل",
+          "bs": "mještani",
+          "en": "villagers",
+          "lemma": "أَهْلٌ / أَهَالٍ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Muškarci su se posavjetovali i odlučili su iskopati novi bunar.",
       "translationEn": "The men consulted and decided to dig a new well.",
       "words": [
-        { "w": "تَشَاوَرَ", "root": "ش و ر", "bs": "posavjetovali su se", "en": "consulted" },
-        { "w": "الرِّجَالُ", "root": "ر ج ل", "bs": "muškarci", "en": "men" },
-        { "w": "قَرَّرُوا", "root": "ق ر ر", "bs": "odlučili su", "en": "decided" },
-        { "w": "حَفْرَ", "root": "ح ف ر", "bs": "iskopati", "en": "to dig" },
-        { "w": "بِئْرٍ", "root": "ب أ ر", "bs": "bunar", "en": "well" }
+        {
+          "w": "تَشَاوَرَ",
+          "root": "ش و ر",
+          "bs": "posavjetovali su se",
+          "en": "consulted",
+          "lemma": "تَشَاوَرَ يَتَشَاوَرُ"
+        },
+        {
+          "w": "الرِّجَالُ",
+          "root": "ر ج ل",
+          "bs": "muškarci",
+          "en": "men",
+          "lemma": "رَجُلٌ / رِجَالٌ"
+        },
+        {
+          "w": "قَرَّرُوا",
+          "root": "ق ر ر",
+          "bs": "odlučili su",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "حَفْرَ",
+          "root": "ح ف ر",
+          "bs": "iskopati",
+          "en": "to dig",
+          "lemma": "حَفَرَ يَحْفِرُ"
+        },
+        {
+          "w": "بِئْرٍ",
+          "root": "ب أ ر",
+          "bs": "bunar",
+          "en": "well",
+          "lemma": "بِئْرٌ / آبَارٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Svi su radili zajedno i pronašli su vodu nakon dva dana.",
       "translationEn": "Everyone worked together and found water after two days.",
       "words": [
-        { "w": "عَمِلَ", "root": "ع م ل", "bs": "radili su", "en": "worked" },
-        { "w": "وَجَدُوا", "root": "و ج د", "bs": "pronašli su", "en": "found" },
-        { "w": "الْمَاءَ", "root": "م و ه", "bs": "vodu", "en": "water" },
-        { "w": "يَوْمَيْنِ", "root": "ي و م", "bs": "dva dana", "en": "two days" }
+        {
+          "w": "عَمِلَ",
+          "root": "ع م ل",
+          "bs": "radili su",
+          "en": "worked",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "وَجَدُوا",
+          "root": "و ج د",
+          "bs": "pronašli su",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الْمَاءَ",
+          "root": "م و ه",
+          "bs": "vodu",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "يَوْمَيْنِ",
+          "root": "ي و م",
+          "bs": "dva dana",
+          "en": "two days",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["well", "village", "community", "cooperation"]
+    "tags": [
+      "well",
+      "village",
+      "community",
+      "cooperation"
+    ]
   }
 }

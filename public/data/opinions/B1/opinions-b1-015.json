@@ -8,12 +8,48 @@
       "translation": "Po mom mišljenju, zdrava ishrana produžuje nam život.",
       "translationEn": "In my opinion, healthy eating helps us live a longer life.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "mišljenju", "en": "opinion" },
-        { "w": "الْأَكْلُ", "root": "أ ك ل", "bs": "ishrana", "en": "eating" },
-        { "w": "الصِّحِّيُّ", "root": "ص ح ح", "bs": "zdrava", "en": "healthy" },
-        { "w": "يُعِيشُنَا", "root": "ع ي ش", "bs": "produžuje nam život", "en": "helps us live" },
-        { "w": "حَيَاةً", "root": "ح ي ي", "bs": "život", "en": "life" },
-        { "w": "أَطْوَلَ", "root": "ط و ل", "bs": "duži", "en": "longer" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "mišljenju",
+          "en": "opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "الْأَكْلُ",
+          "root": "أ ك ل",
+          "bs": "ishrana",
+          "en": "eating",
+          "lemma": "أَكْلٌ"
+        },
+        {
+          "w": "الصِّحِّيُّ",
+          "root": "ص ح ح",
+          "bs": "zdrava",
+          "en": "healthy",
+          "lemma": "صِحِّيٌّ"
+        },
+        {
+          "w": "يُعِيشُنَا",
+          "root": "ع ي ش",
+          "bs": "produžuje nam život",
+          "en": "helps us live",
+          "lemma": "عَاشَ يَعِيشُ"
+        },
+        {
+          "w": "حَيَاةً",
+          "root": "ح ي ي",
+          "bs": "život",
+          "en": "life",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "أَطْوَلَ",
+          "root": "ط و ل",
+          "bs": "duži",
+          "en": "longer",
+          "lemma": "أَطْوَلُ"
+        }
       ]
     },
     {
@@ -21,10 +57,34 @@
       "translation": "Trudim se jesti povrće i voće svaki dan.",
       "translationEn": "I try to eat vegetables and fruit every day.",
       "words": [
-        { "w": "أَحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
-        { "w": "آكُلَ", "root": "أ ك ل", "bs": "jesti", "en": "to eat" },
-        { "w": "الْخُضَارَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
-        { "w": "الْفَاكِهَةَ", "root": "ف ك ه", "bs": "voće", "en": "fruit" }
+        {
+          "w": "أَحَاوِلُ",
+          "root": "ح و ل",
+          "bs": "trudim se",
+          "en": "I try",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "آكُلَ",
+          "root": "أ ك ل",
+          "bs": "jesti",
+          "en": "to eat",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الْخُضَارَ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables",
+          "lemma": "خُضَارٌ / خُضْرَاوَاتٌ"
+        },
+        {
+          "w": "الْفَاكِهَةَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        }
       ]
     },
     {
@@ -32,10 +92,34 @@
       "translation": "Brza hrana je ukusna ali nije uvijek zdrava.",
       "translationEn": "Fast food is tasty but it is not always healthy.",
       "words": [
-        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "السَّرِيعُ", "root": "س ر ع", "bs": "brza", "en": "fast" },
-        { "w": "لَذِيذٌ", "root": "ل ذ ذ", "bs": "ukusna", "en": "tasty" },
-        { "w": "صِحِّيًّا", "root": "ص ح ح", "bs": "zdrava", "en": "healthy" }
+        {
+          "w": "الطَّعَامُ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "السَّرِيعُ",
+          "root": "س ر ع",
+          "bs": "brza",
+          "en": "fast",
+          "lemma": "سَرِيعٌ"
+        },
+        {
+          "w": "لَذِيذٌ",
+          "root": "ل ذ ذ",
+          "bs": "ukusna",
+          "en": "tasty",
+          "lemma": "لَذِيذٌ"
+        },
+        {
+          "w": "صِحِّيًّا",
+          "root": "ص ح ح",
+          "bs": "zdrava",
+          "en": "healthy",
+          "lemma": "صِحِّيٌّ"
+        }
       ]
     },
     {
@@ -43,17 +127,58 @@
       "translation": "Tijelu treba dobra hrana da bi pravilno funkcionisalo.",
       "translationEn": "The body needs good food to function properly.",
       "words": [
-        { "w": "الْجِسْمُ", "root": "ج س م", "bs": "tijelu", "en": "body" },
-        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
-        { "w": "طَعَامٍ", "root": "ط ع م", "bs": "hranu", "en": "food" },
-        { "w": "جَيِّدٍ", "root": "ج و د", "bs": "dobra", "en": "good" },
-        { "w": "يَعْمَلَ", "root": "ع م ل", "bs": "funkcioniše", "en": "to function" },
-        { "w": "صَحِيحٍ", "root": "ص ح ح", "bs": "pravilno", "en": "properly" }
+        {
+          "w": "الْجِسْمُ",
+          "root": "ج س م",
+          "bs": "tijelu",
+          "en": "body",
+          "lemma": "جِسْمٌ / أَجْسَامٌ"
+        },
+        {
+          "w": "يَحْتَاجُ",
+          "root": "ح و ج",
+          "bs": "treba",
+          "en": "needs",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
+        },
+        {
+          "w": "طَعَامٍ",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "جَيِّدٍ",
+          "root": "ج و د",
+          "bs": "dobra",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        },
+        {
+          "w": "يَعْمَلَ",
+          "root": "ع م ل",
+          "bs": "funkcioniše",
+          "en": "to function",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "صَحِيحٍ",
+          "root": "ص ح ح",
+          "bs": "pravilno",
+          "en": "properly",
+          "lemma": "صَحِيحٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "healthy-eating", "food", "health"]
+    "tags": [
+      "opinion",
+      "healthy-eating",
+      "food",
+      "health"
+    ]
   }
 }

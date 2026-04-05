@@ -8,10 +8,34 @@
       "translation": "Stigla je nova poruka u Hebin elektronski sandučić.",
       "translationEn": "A new message arrived in Heba's email inbox.",
       "words": [
-        { "w": "وَصَلَتْ", "root": "و ص ل", "bs": "stigla je", "en": "arrived" },
-        { "w": "رَسَالَةٌ", "root": "ر س ل", "bs": "poruka/pismo", "en": "message" },
-        { "w": "جَدِيدَةٌ", "root": "ج د د", "bs": "nova", "en": "new" },
-        { "w": "الْبَرِيدِ", "root": "ب ر د", "bs": "pošta/email", "en": "mail/email" }
+        {
+          "w": "وَصَلَتْ",
+          "root": "و ص ل",
+          "bs": "stigla je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "رَسَالَةٌ",
+          "root": "ر س ل",
+          "bs": "poruka/pismo",
+          "en": "message",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "جَدِيدَةٌ",
+          "root": "ج د د",
+          "bs": "nova",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "الْبَرِيدِ",
+          "root": "ب ر د",
+          "bs": "pošta/email",
+          "en": "mail/email",
+          "lemma": "بَرِيدٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Poruka je bila od klijenta koji pita o terminu.",
       "translationEn": "The message was from a client asking about an appointment.",
       "words": [
-        { "w": "الرِّسَالَةُ", "root": "ر س ل", "bs": "poruka/pismo", "en": "message" },
-        { "w": "زَبُونٍ", "root": "ز ب ن", "bs": "klijent/mušterija", "en": "client/customer" },
-        { "w": "يَسْأَلُ", "root": "س أ ل", "bs": "pita/traži", "en": "asking" },
-        { "w": "مَوْعِدٍ", "root": "و ع د", "bs": "termin/zakazivanje", "en": "appointment" }
+        {
+          "w": "الرِّسَالَةُ",
+          "root": "ر س ل",
+          "bs": "poruka/pismo",
+          "en": "message",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "زَبُونٍ",
+          "root": "ز ب ن",
+          "bs": "klijent/mušterija",
+          "en": "client/customer",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "يَسْأَلُ",
+          "root": "س أ ل",
+          "bs": "pita/traži",
+          "en": "asking",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "مَوْعِدٍ",
+          "root": "و ع د",
+          "bs": "termin/zakazivanje",
+          "en": "appointment",
+          "lemma": "مَوْعِدٌ / مَوَاعِيدُ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Heba je brzo odgovorila i odredila odgovarajući termin.",
       "translationEn": "Heba replied quickly and set a suitable appointment.",
       "words": [
-        { "w": "رَدَّتْ", "root": "ر د د", "bs": "odgovorila je", "en": "replied" },
-        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" },
-        { "w": "حَدَّدَتْ", "root": "ح د د", "bs": "odredila je/zakazala", "en": "set/determined" },
-        { "w": "مَوْعِدًا", "root": "و ع د", "bs": "termin", "en": "appointment" },
-        { "w": "مُنَاسِبًا", "root": "ن س ب", "bs": "odgovarajući/prikladan", "en": "suitable" }
+        {
+          "w": "رَدَّتْ",
+          "root": "ر د د",
+          "bs": "odgovorila je",
+          "en": "replied",
+          "lemma": "رَدَّ يَرُدُّ"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly",
+          "lemma": "سُرْعَةٌ"
+        },
+        {
+          "w": "حَدَّدَتْ",
+          "root": "ح د د",
+          "bs": "odredila je/zakazala",
+          "en": "set/determined",
+          "lemma": "حَدَّدَ يُحَدِّدُ"
+        },
+        {
+          "w": "مَوْعِدًا",
+          "root": "و ع د",
+          "bs": "termin",
+          "en": "appointment",
+          "lemma": "مَوْعِدٌ / مَوَاعِيدُ"
+        },
+        {
+          "w": "مُنَاسِبًا",
+          "root": "ن س ب",
+          "bs": "odgovarajući/prikladan",
+          "en": "suitable",
+          "lemma": "مُنَاسِبٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Klijent joj je zahvalio na brzom odgovoru.",
       "translationEn": "The client thanked her for the quick reply.",
       "words": [
-        { "w": "شَكَرَهَا", "root": "ش ك ر", "bs": "zahvalio joj je", "en": "thanked her" },
-        { "w": "الزَّبُونُ", "root": "ز ب ن", "bs": "klijent/mušterija", "en": "client" },
-        { "w": "سُرْعَةِ", "root": "س ر ع", "bs": "brzina/brzo", "en": "speed/quickness" },
-        { "w": "الرَّدِّ", "root": "ر د د", "bs": "odgovor", "en": "reply" }
+        {
+          "w": "شَكَرَهَا",
+          "root": "ش ك ر",
+          "bs": "zahvalio joj je",
+          "en": "thanked her",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الزَّبُونُ",
+          "root": "ز ب ن",
+          "bs": "klijent/mušterija",
+          "en": "client",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "سُرْعَةِ",
+          "root": "س ر ع",
+          "bs": "brzina/brzo",
+          "en": "speed/quickness",
+          "lemma": "سُرْعَةٌ / سُرَعٌ"
+        },
+        {
+          "w": "الرَّدِّ",
+          "root": "ر د د",
+          "bs": "odgovor",
+          "en": "reply",
+          "lemma": "رَدٌّ / رُدُودٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["email", "client", "appointment", "office communication"]
+    "tags": [
+      "email",
+      "client",
+      "appointment",
+      "office communication"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Po mom mišljenju, priznanje greške je od hrabrosti.",
       "translationEn": "In my opinion, admitting a mistake takes courage.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
-        { "w": "الِاعْتِرَافُ", "root": "ع ر ف", "bs": "priznanje", "en": "admitting" },
-        { "w": "بِالْخَطَأِ", "root": "خ ط أ", "bs": "greška", "en": "mistake" },
-        { "w": "الشَّجَاعَةِ", "root": "ش ج ع", "bs": "hrabrost", "en": "courage" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "moje mišljenje",
+          "en": "my opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "الِاعْتِرَافُ",
+          "root": "ع ر ف",
+          "bs": "priznanje",
+          "en": "admitting",
+          "lemma": "اِعْتِرَافٌ"
+        },
+        {
+          "w": "بِالْخَطَأِ",
+          "root": "خ ط أ",
+          "bs": "greška",
+          "en": "mistake",
+          "lemma": "خَطَأٌ / أَخْطَاءٌ"
+        },
+        {
+          "w": "الشَّجَاعَةِ",
+          "root": "ش ج ع",
+          "bs": "hrabrost",
+          "en": "courage",
+          "lemma": "شَجَاعَةٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Savršen čovjek nije onaj koji ne griješi, nego onaj koji prizna i ispravi.",
       "translationEn": "The perfect person is not one who does not make mistakes but one who admits and corrects them.",
       "words": [
-        { "w": "الْإِنْسَانُ", "root": "أ ن س", "bs": "čovjek", "en": "person" },
-        { "w": "الْكَامِلُ", "root": "ك م ل", "bs": "savršen", "en": "perfect" },
-        { "w": "يُخْطِئُ", "root": "خ ط أ", "bs": "griješi", "en": "makes mistakes" },
-        { "w": "يَعْتَرِفُ", "root": "ع ر ف", "bs": "prizna", "en": "admits" },
-        { "w": "يُصَحِّحُ", "root": "ص ح ح", "bs": "ispravi", "en": "corrects" }
+        {
+          "w": "الْإِنْسَانُ",
+          "root": "أ ن س",
+          "bs": "čovjek",
+          "en": "person",
+          "lemma": "إِنْسَانٌ / أُنَاسٌ"
+        },
+        {
+          "w": "الْكَامِلُ",
+          "root": "ك م ل",
+          "bs": "savršen",
+          "en": "perfect",
+          "lemma": "كَامِلٌ"
+        },
+        {
+          "w": "يُخْطِئُ",
+          "root": "خ ط أ",
+          "bs": "griješi",
+          "en": "makes mistakes",
+          "lemma": "أَخْطَأَ يُخْطِئُ"
+        },
+        {
+          "w": "يَعْتَرِفُ",
+          "root": "ع ر ف",
+          "bs": "prizna",
+          "en": "admits",
+          "lemma": "اعْتَرَفَ يَعْتَرِفُ"
+        },
+        {
+          "w": "يُصَحِّحُ",
+          "root": "ص ح ح",
+          "bs": "ispravi",
+          "en": "corrects",
+          "lemma": "صَحَّحَ يُصَحِّحُ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Kada pogriješim, iskreno se izvinjavam.",
       "translationEn": "When I make a mistake I apologise sincerely.",
       "words": [
-        { "w": "أُخْطِئُ", "root": "خ ط أ", "bs": "pogriješim", "en": "make a mistake" },
-        { "w": "أَعْتَذِرُ", "root": "ع ذ ر", "bs": "izvinjavam se", "en": "apologise" },
-        { "w": "بِصِدْقٍ", "root": "ص د ق", "bs": "iskreno", "en": "sincerely" }
+        {
+          "w": "أُخْطِئُ",
+          "root": "خ ط أ",
+          "bs": "pogriješim",
+          "en": "make a mistake",
+          "lemma": "أَخْطَأَ يُخْطِئُ"
+        },
+        {
+          "w": "أَعْتَذِرُ",
+          "root": "ع ذ ر",
+          "bs": "izvinjavam se",
+          "en": "apologise",
+          "lemma": "اعْتَذَرَ يَعْتَذِرُ"
+        },
+        {
+          "w": "بِصِدْقٍ",
+          "root": "ص د ق",
+          "bs": "iskreno",
+          "en": "sincerely",
+          "lemma": "صِدْقٌ"
+        }
       ]
     },
     {
@@ -41,14 +113,37 @@
       "translation": "Isprika zbližava srca.",
       "translationEn": "An apology brings hearts closer.",
       "words": [
-        { "w": "الِاعْتِذَارُ", "root": "ع ذ ر", "bs": "isprika", "en": "apology" },
-        { "w": "يُقَرِّبُ", "root": "ق ر ب", "bs": "zbližava", "en": "brings closer" },
-        { "w": "الْقُلُوبَ", "root": "ق ل ب", "bs": "srca", "en": "hearts" }
+        {
+          "w": "الِاعْتِذَارُ",
+          "root": "ع ذ ر",
+          "bs": "isprika",
+          "en": "apology",
+          "lemma": "اِعْتِذَارٌ"
+        },
+        {
+          "w": "يُقَرِّبُ",
+          "root": "ق ر ب",
+          "bs": "zbližava",
+          "en": "brings closer",
+          "lemma": "قَرَّبَ يُقَرِّبُ"
+        },
+        {
+          "w": "الْقُلُوبَ",
+          "root": "ق ل ب",
+          "bs": "srca",
+          "en": "hearts",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "mistakes", "apology", "character"]
+    "tags": [
+      "opinion",
+      "mistakes",
+      "apology",
+      "character"
+    ]
   }
 }

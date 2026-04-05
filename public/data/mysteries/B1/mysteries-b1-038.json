@@ -8,11 +8,41 @@
       "translation": "Sulejman je vidio male tragove stopala na snijegu.",
       "translationEn": "Sulayman saw small footprints in the snow.",
       "words": [
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
-        { "w": "آثَارَ", "root": "أ ث ر", "bs": "tragove", "en": "prints/traces" },
-        { "w": "أَقْدَامٍ", "root": "ق د م", "bs": "stopala", "en": "footprints" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "male", "en": "small" },
-        { "w": "الثَّلْجِ", "root": "ث ل ج", "bs": "snijegu", "en": "snow" }
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "he saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "آثَارَ",
+          "root": "أ ث ر",
+          "bs": "tragove",
+          "en": "prints/traces",
+          "lemma": "أَثَرٌ / آثَارٌ"
+        },
+        {
+          "w": "أَقْدَامٍ",
+          "root": "ق د م",
+          "bs": "stopala",
+          "en": "footprints",
+          "lemma": "قَدَمٌ / أَقْدَامٌ"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "male",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "الثَّلْجِ",
+          "root": "ث ل ج",
+          "bs": "snijegu",
+          "en": "snow",
+          "lemma": "ثَلْجٌ / ثُلُوجٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Tragovi su vodili prema prozoru.",
       "translationEn": "The prints were leading to the window.",
       "words": [
-        { "w": "الْآثَارُ", "root": "أ ث ر", "bs": "tragovi", "en": "the prints" },
-        { "w": "تَذْهَبُ", "root": "ذ ه ب", "bs": "vodili su", "en": "leading" },
-        { "w": "الشُّبَّاكِ", "root": "ش ب ك", "bs": "prozoru", "en": "the window" }
+        {
+          "w": "الْآثَارُ",
+          "root": "أ ث ر",
+          "bs": "tragovi",
+          "en": "the prints",
+          "lemma": "أَثَرٌ / آثَارٌ"
+        },
+        {
+          "w": "تَذْهَبُ",
+          "root": "ذ ه ب",
+          "bs": "vodili su",
+          "en": "leading",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الشُّبَّاكِ",
+          "root": "ش ب ك",
+          "bs": "prozoru",
+          "en": "the window",
+          "lemma": "شُبَّاكٌ / شَبَابِيكُ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Sulejman je polako pratio tragove.",
       "translationEn": "Sulayman followed the prints slowly.",
       "words": [
-        { "w": "تَبِعَ", "root": "ت ب ع", "bs": "pratio je", "en": "he followed" },
-        { "w": "الْآثَارَ", "root": "أ ث ر", "bs": "tragove", "en": "the prints" },
-        { "w": "بَطْءٍ", "root": "ب ط أ", "bs": "polako", "en": "slowly" }
+        {
+          "w": "تَبِعَ",
+          "root": "ت ب ع",
+          "bs": "pratio je",
+          "en": "he followed",
+          "lemma": "تَبِعَ يَتْبَعُ"
+        },
+        {
+          "w": "الْآثَارَ",
+          "root": "أ ث ر",
+          "bs": "tragove",
+          "en": "the prints",
+          "lemma": "أَثَرٌ / آثَارٌ"
+        },
+        {
+          "w": "بَطْءٍ",
+          "root": "ب ط أ",
+          "bs": "polako",
+          "en": "slowly",
+          "lemma": "بُطْءٌ"
+        }
       ]
     },
     {
@@ -40,11 +106,41 @@
       "translation": "Pronašao je malog vjevericu koja sjedi na ivici prozora.",
       "translationEn": "He found a small squirrel sitting on the edge of the window.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "سِنْجَابًا", "root": "س ن ج", "bs": "vjevericu", "en": "squirrel" },
-        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "malog", "en": "small" },
-        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sitting" },
-        { "w": "حَافَّةِ", "root": "ح ف ف", "bs": "ivici", "en": "edge" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "سِنْجَابًا",
+          "root": "س ن ج",
+          "bs": "vjevericu",
+          "en": "squirrel",
+          "lemma": "سِنْجَابٌ / سَنَاجِبُ"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "malog",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedi",
+          "en": "sitting",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "حَافَّةِ",
+          "root": "ح ف ف",
+          "bs": "ivici",
+          "en": "edge",
+          "lemma": "حَافَّةٌ / حَوَافٌّ"
+        }
       ]
     },
     {
@@ -52,15 +148,44 @@
       "translation": "Dao mu je malo orašastih plodova i pustio ga da ode.",
       "translationEn": "He gave it some nuts and let it go.",
       "words": [
-        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "he gave it" },
-        { "w": "الْمَكَسَّرَاتِ", "root": "ك س ر", "bs": "orašastih plodova", "en": "nuts" },
-        { "w": "تَرَكَهُ", "root": "ت ر ك", "bs": "pustio ga je", "en": "he let it go" },
-        { "w": "يَذْهَبُ", "root": "ذ ه ب", "bs": "da ode", "en": "to go" }
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط و",
+          "bs": "dao mu je",
+          "en": "he gave it",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "الْمَكَسَّرَاتِ",
+          "root": "ك س ر",
+          "bs": "orašastih plodova",
+          "en": "nuts",
+          "lemma": "مَكَسَّرَاتٌ"
+        },
+        {
+          "w": "تَرَكَهُ",
+          "root": "ت ر ك",
+          "bs": "pustio ga je",
+          "en": "he let it go",
+          "lemma": "تَرَكَ يَتْرُكُ"
+        },
+        {
+          "w": "يَذْهَبُ",
+          "root": "ذ ه ب",
+          "bs": "da ode",
+          "en": "to go",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "snow", "footprints", "squirrel"]
+    "tags": [
+      "mystery",
+      "snow",
+      "footprints",
+      "squirrel"
+    ]
   }
 }

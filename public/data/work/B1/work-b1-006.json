@@ -8,9 +8,27 @@
       "translation": "Jasir je od svog direktora tražio slobodan dan.",
       "translationEn": "Yassir asked his manager for a day off.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je", "en": "asked/requested" },
-        { "w": "مُدِيرِهِ", "root": "د و ر", "bs": "njegov direktor/šef", "en": "his manager" },
-        { "w": "إِجَازَةً", "root": "ج و ز", "bs": "slobodan dan/odmor", "en": "day off/leave" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "tražio je",
+          "en": "asked/requested",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "مُدِيرِهِ",
+          "root": "د و ر",
+          "bs": "njegov direktor/šef",
+          "en": "his manager",
+          "lemma": "مُدِيرٌ / مُدَرَاءُ"
+        },
+        {
+          "w": "إِجَازَةً",
+          "root": "ج و ز",
+          "bs": "slobodan dan/odmor",
+          "en": "day off/leave",
+          "lemma": "إِجَازَةٌ / إِجَازَاتٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Rekao je da želi ići kod ljekara.",
       "translationEn": "He said he wants to see a doctor.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "يُرِيدُ", "root": "ر و د", "bs": "želi", "en": "wants" },
-        { "w": "يَرَى", "root": "ر أ ي", "bs": "da vidi/posjeti", "en": "to see" },
-        { "w": "طَبِيبًا", "root": "ط ب ب", "bs": "ljekar/doktor", "en": "doctor" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "يُرِيدُ",
+          "root": "ر و د",
+          "bs": "želi",
+          "en": "wants",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "يَرَى",
+          "root": "ر أ ي",
+          "bs": "da vidi/posjeti",
+          "en": "to see",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "طَبِيبًا",
+          "root": "ط ب ب",
+          "bs": "ljekar/doktor",
+          "en": "doctor",
+          "lemma": "طَبِيبٌ / أَطِبَّاءُ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Direktor je pristao i rekao mu da vodi brigu o zdravlju.",
       "translationEn": "The manager agreed and told him to take care of his health.",
       "words": [
-        { "w": "وَافَقَ", "root": "و ف ق", "bs": "pristao je/složio se", "en": "agreed" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
-        { "w": "يَعْتَنِيَ", "root": "ع ن ي", "bs": "da vodi brigu/da pazi", "en": "to take care" },
-        { "w": "بِصِحَّتِهِ", "root": "ص ح ح", "bs": "njegovo zdravlje", "en": "his health" }
+        {
+          "w": "وَافَقَ",
+          "root": "و ف ق",
+          "bs": "pristao je/složio se",
+          "en": "agreed",
+          "lemma": "وَافَقَ يُوَافِقُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "يَعْتَنِيَ",
+          "root": "ع ن ي",
+          "bs": "da vodi brigu/da pazi",
+          "en": "to take care",
+          "lemma": "اعْتَنَى يَعْتَنِي"
+        },
+        {
+          "w": "بِصِحَّتِهِ",
+          "root": "ص ح ح",
+          "bs": "njegovo zdravlje",
+          "en": "his health",
+          "lemma": "صِحَّةٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,44 @@
       "translation": "Jasir je zahvalio direktoru i otišao kod ljekara.",
       "translationEn": "Yassir thanked his manager and went to the doctor.",
       "words": [
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
-        { "w": "مُدِيرَهُ", "root": "د و ر", "bs": "njegov direktor", "en": "his manager" },
-        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
-        { "w": "الطَّبِيبِ", "root": "ط ب ب", "bs": "ljekar/doktor", "en": "doctor" }
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "مُدِيرَهُ",
+          "root": "د و ر",
+          "bs": "njegov direktor",
+          "en": "his manager",
+          "lemma": "مُدِيرٌ / مُدَرَاءُ"
+        },
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الطَّبِيبِ",
+          "root": "ط ب ب",
+          "bs": "ljekar/doktor",
+          "en": "doctor",
+          "lemma": "طَبِيبٌ / أَطِبَّاءُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["day off", "manager", "request", "office"]
+    "tags": [
+      "day off",
+      "manager",
+      "request",
+      "office"
+    ]
   }
 }

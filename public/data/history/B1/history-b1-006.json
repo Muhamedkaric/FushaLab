@@ -8,10 +8,34 @@
       "translation": "Djeca su išla u školu pješice.",
       "translationEn": "The children went to school on foot.",
       "words": [
-        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
-        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "the children" },
-        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "the school" },
-        { "w": "الْأَقْدَامِ", "root": "ق د م", "bs": "noge", "en": "feet" }
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الْأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "the children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الْمَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "the school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        },
+        {
+          "w": "الْأَقْدَامِ",
+          "root": "ق د م",
+          "bs": "noge",
+          "en": "feet",
+          "lemma": "قَدَمٌ / أَقْدَامٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Škola je bila mala soba u selu.",
       "translationEn": "The school was a small room in the village.",
       "words": [
-        { "w": "الْمَدْرَسَةُ", "root": "د ر س", "bs": "škola", "en": "the school" },
-        { "w": "غُرْفَةً", "root": "غ ر ف", "bs": "soba", "en": "a room" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mala", "en": "small" },
-        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "the village" }
+        {
+          "w": "الْمَدْرَسَةُ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "the school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        },
+        {
+          "w": "غُرْفَةً",
+          "root": "غ ر ف",
+          "bs": "soba",
+          "en": "a room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "the village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Učenici su sjedili na podu i pisali na pločicama.",
       "translationEn": "The students sat on the floor and wrote on tablets.",
       "words": [
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjedio je", "en": "sat" },
-        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "the students" },
-        { "w": "كَتَبُوا", "root": "ك ت ب", "bs": "pisali su", "en": "wrote" },
-        { "w": "أَلْوَاحٍ", "root": "ل و ح", "bs": "pločice", "en": "tablets" }
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjedio je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "the students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "كَتَبُوا",
+          "root": "ك ت ب",
+          "bs": "pisali su",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "أَلْوَاحٍ",
+          "root": "ل و ح",
+          "bs": "pločice",
+          "en": "tablets",
+          "lemma": "لَوْحٌ / أَلْوَاحٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Učili su čitanje, pisanje i računanje.",
       "translationEn": "They learned reading, writing, and arithmetic.",
       "words": [
-        { "w": "تَعَلَّمُوا", "root": "ع ل م", "bs": "učili su", "en": "they learned" },
-        { "w": "الْقِرَاءَةَ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" },
-        { "w": "الْكِتَابَةَ", "root": "ك ت ب", "bs": "pisanje", "en": "writing" },
-        { "w": "الْحِسَابَ", "root": "ح س ب", "bs": "računanje", "en": "arithmetic" }
+        {
+          "w": "تَعَلَّمُوا",
+          "root": "ع ل م",
+          "bs": "učili su",
+          "en": "they learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الْقِرَاءَةَ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading",
+          "lemma": "قِرَاءَةٌ"
+        },
+        {
+          "w": "الْكِتَابَةَ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "writing",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "الْحِسَابَ",
+          "root": "ح س ب",
+          "bs": "računanje",
+          "en": "arithmetic",
+          "lemma": "حِسَابٌ / حِسَابَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school", "children", "education"]
+    "tags": [
+      "school",
+      "children",
+      "education"
+    ]
   }
 }

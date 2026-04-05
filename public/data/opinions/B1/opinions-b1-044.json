@@ -8,11 +8,41 @@
       "translation": "Po mom mišljenju, zahvalnost za male blagodati nas čini sretnijim.",
       "translationEn": "In my opinion, being grateful for small blessings makes us happier.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
-        { "w": "الشُّكْرُ", "root": "ش ك ر", "bs": "zahvalnost", "en": "gratitude" },
-        { "w": "النِّعَمِ", "root": "ن ع م", "bs": "blagodati", "en": "blessings" },
-        { "w": "الصَّغِيرَةِ", "root": "ص غ ر", "bs": "male", "en": "small" },
-        { "w": "أَسْعَدَ", "root": "س ع د", "bs": "sretniji", "en": "happier" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "moje mišljenje",
+          "en": "my opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "الشُّكْرُ",
+          "root": "ش ك ر",
+          "bs": "zahvalnost",
+          "en": "gratitude",
+          "lemma": "شُكْرٌ"
+        },
+        {
+          "w": "النِّعَمِ",
+          "root": "ن ع م",
+          "bs": "blagodati",
+          "en": "blessings",
+          "lemma": "نِعْمَةٌ / نِعَمٌ"
+        },
+        {
+          "w": "الصَّغِيرَةِ",
+          "root": "ص غ ر",
+          "bs": "male",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "أَسْعَدَ",
+          "root": "س ع د",
+          "bs": "sretniji",
+          "en": "happier",
+          "lemma": "أَسْعَدُ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Svako jutro govorim sebi: Danas je lijep dan.",
       "translationEn": "Every morning I say to myself: Today is a beautiful day.",
       "words": [
-        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" },
-        { "w": "أَقُولُ", "root": "ق و ل", "bs": "govorim", "en": "I say" },
-        { "w": "الْيَوْمُ", "root": "ي و م", "bs": "dan", "en": "today" },
-        { "w": "جَمِيلٌ", "root": "ج م ل", "bs": "lijep", "en": "beautiful" }
+        {
+          "w": "صَبَاحٍ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        },
+        {
+          "w": "أَقُولُ",
+          "root": "ق و ل",
+          "bs": "govorim",
+          "en": "I say",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْيَوْمُ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "today",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "جَمِيلٌ",
+          "root": "ج م ل",
+          "bs": "lijep",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Blagodat zdravlja i porodice veća je od novca.",
       "translationEn": "The blessing of health and family is greater than money.",
       "words": [
-        { "w": "نِعْمَةُ", "root": "ن ع م", "bs": "blagodat", "en": "blessing" },
-        { "w": "الصِّحَّةِ", "root": "ص ح ح", "bs": "zdravlje", "en": "health" },
-        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "أَكْبَرُ", "root": "ك ب ر", "bs": "veća", "en": "greater" },
-        { "w": "الْمَالِ", "root": "م و ل", "bs": "novac", "en": "money" }
+        {
+          "w": "نِعْمَةُ",
+          "root": "ن ع م",
+          "bs": "blagodat",
+          "en": "blessing",
+          "lemma": "نِعْمَةٌ / نِعَمٌ"
+        },
+        {
+          "w": "الصِّحَّةِ",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health",
+          "lemma": "صِحَّةٌ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "أَكْبَرُ",
+          "root": "ك ب ر",
+          "bs": "veća",
+          "en": "greater",
+          "lemma": "أَكْبَرُ"
+        },
+        {
+          "w": "الْمَالِ",
+          "root": "م و ل",
+          "bs": "novac",
+          "en": "money",
+          "lemma": "مَالٌ / أَمْوَالٌ"
+        }
       ]
     },
     {
@@ -43,16 +127,51 @@
       "translation": "Ko je uvijek zahvalan, pronalazi da je život lakši i ljepši.",
       "translationEn": "One who is always grateful finds life lighter and more beautiful.",
       "words": [
-        { "w": "يَشْكُرُ", "root": "ش ك ر", "bs": "zahvalan je", "en": "is grateful" },
-        { "w": "يَجِدُ", "root": "و ج د", "bs": "pronalazi", "en": "finds" },
-        { "w": "الْحَيَاةَ", "root": "ح ي ي", "bs": "život", "en": "life" },
-        { "w": "أَخَفَّ", "root": "خ ف ف", "bs": "lakši", "en": "lighter" },
-        { "w": "أَجْمَلَ", "root": "ج م ل", "bs": "ljepši", "en": "more beautiful" }
+        {
+          "w": "يَشْكُرُ",
+          "root": "ش ك ر",
+          "bs": "zahvalan je",
+          "en": "is grateful",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "يَجِدُ",
+          "root": "و ج د",
+          "bs": "pronalazi",
+          "en": "finds",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الْحَيَاةَ",
+          "root": "ح ي ي",
+          "bs": "život",
+          "en": "life",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "أَخَفَّ",
+          "root": "خ ف ف",
+          "bs": "lakši",
+          "en": "lighter",
+          "lemma": "أَخَفُّ"
+        },
+        {
+          "w": "أَجْمَلَ",
+          "root": "ج م ل",
+          "bs": "ljepši",
+          "en": "more beautiful",
+          "lemma": "أَجْمَلُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "gratitude", "happiness", "life"]
+    "tags": [
+      "opinion",
+      "gratitude",
+      "happiness",
+      "life"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Porodica je ušla u veliki muzej u gradu.",
       "translationEn": "The family entered a large museum in the city.",
       "words": [
-        { "w": "دَخَلَتِ", "root": "د خ ل", "bs": "ušla je", "en": "entered" },
-        { "w": "مَتْحَفٍ", "root": "ت ح ف", "bs": "muzej", "en": "museum" },
-        { "w": "كَبِيرٍ", "root": "ك ب ر", "bs": "veliki", "en": "large" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" }
+        {
+          "w": "دَخَلَتِ",
+          "root": "د خ ل",
+          "bs": "ušla je",
+          "en": "entered",
+          "lemma": "دَخَلَ يَدْخُلُ"
+        },
+        {
+          "w": "مَتْحَفٍ",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum",
+          "lemma": "مَتْحَفٌ / مَتَاحِفُ"
+        },
+        {
+          "w": "كَبِيرٍ",
+          "root": "ك ب ر",
+          "bs": "veliki",
+          "en": "large",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Vidjeli su stare slike i historijske predmete.",
       "translationEn": "They saw old paintings and historical objects.",
       "words": [
-        { "w": "رَأَوْا", "root": "ر أ ي", "bs": "vidjeli su", "en": "saw" },
-        { "w": "صُوَرًا", "root": "ص و ر", "bs": "slike / fotografije", "en": "paintings / pictures" },
-        { "w": "قَدِيمَةً", "root": "ق د م", "bs": "stare", "en": "old" },
-        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "predmeti / stvari", "en": "objects / things" }
+        {
+          "w": "رَأَوْا",
+          "root": "ر أ ي",
+          "bs": "vidjeli su",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "صُوَرًا",
+          "root": "ص و ر",
+          "bs": "slike / fotografije",
+          "en": "paintings / pictures",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "قَدِيمَةً",
+          "root": "ق د م",
+          "bs": "stare",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "أَشْيَاءَ",
+          "root": "ش ي أ",
+          "bs": "predmeti / stvari",
+          "en": "objects / things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Djeci se svidio odjel sa životinjama.",
       "translationEn": "The children were impressed by the animal section.",
       "words": [
-        { "w": "أَعْجَبَ", "root": "ع ج ب", "bs": "svidio se / oduševio", "en": "impressed / pleased" },
-        { "w": "الْقِسْمُ", "root": "ق س م", "bs": "odjel / sekcija", "en": "section / department" },
-        { "w": "الْحَيَوَانَاتِ", "root": "ح ي ي", "bs": "životinje", "en": "animals" }
+        {
+          "w": "أَعْجَبَ",
+          "root": "ع ج ب",
+          "bs": "svidio se / oduševio",
+          "en": "impressed / pleased",
+          "lemma": "أَعْجَبَ يُعْجِبُ"
+        },
+        {
+          "w": "الْقِسْمُ",
+          "root": "ق س م",
+          "bs": "odjel / sekcija",
+          "en": "section / department",
+          "lemma": "قِسْمٌ / أَقْسَامٌ"
+        },
+        {
+          "w": "الْحَيَوَانَاتِ",
+          "root": "ح ي ي",
+          "bs": "životinje",
+          "en": "animals",
+          "lemma": "حَيَوَانٌ / حَيَوَانَاتٌ"
+        }
       ]
     },
     {
@@ -40,10 +106,34 @@
       "translation": "Proveli su dva sata u muzeju i izašli sretni.",
       "translationEn": "They spent two hours in the museum and left happy.",
       "words": [
-        { "w": "قَضَوْا", "root": "ق ض ي", "bs": "proveli su", "en": "spent" },
-        { "w": "سَاعَتَيْنِ", "root": "س و ع", "bs": "dva sata", "en": "two hours" },
-        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" },
-        { "w": "سُعَدَاءَ", "root": "س ع د", "bs": "sretni", "en": "happy" }
+        {
+          "w": "قَضَوْا",
+          "root": "ق ض ي",
+          "bs": "proveli su",
+          "en": "spent",
+          "lemma": "قَضَى يَقْضِي"
+        },
+        {
+          "w": "سَاعَتَيْنِ",
+          "root": "س و ع",
+          "bs": "dva sata",
+          "en": "two hours",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "الْمَتْحَفِ",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum",
+          "lemma": "مَتْحَفٌ / مَتَاحِفُ"
+        },
+        {
+          "w": "سُعَدَاءَ",
+          "root": "س ع د",
+          "bs": "sretni",
+          "en": "happy",
+          "lemma": "سَعِيدٌ / سُعَدَاءُ"
+        }
       ]
     }
   ],

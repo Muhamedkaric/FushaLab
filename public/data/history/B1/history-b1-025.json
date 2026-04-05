@@ -8,10 +8,34 @@
       "translation": "Učitelj je sjedio u džamiji i poučavao studente.",
       "translationEn": "The teacher used to sit in the mosque and teach the students.",
       "words": [
-        { "w": "الأُسْتَاذُ", "root": "أ س ت ذ", "bs": "učitelj", "en": "the teacher" },
-        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" },
-        { "w": "يُعَلِّمُ", "root": "ع ل م", "bs": "poučava", "en": "teaches" },
-        { "w": "الطُّلَّابَ", "root": "ط ل ب", "bs": "studente", "en": "the students" }
+        {
+          "w": "الأُسْتَاذُ",
+          "root": "أ س ت ذ",
+          "bs": "učitelj",
+          "en": "the teacher",
+          "lemma": "أُسْتَاذٌ / أَسَاتِذَةٌ"
+        },
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedi",
+          "en": "sits",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "يُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "poučava",
+          "en": "teaches",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "الطُّلَّابَ",
+          "root": "ط ل ب",
+          "bs": "studente",
+          "en": "the students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Studenti su sjeli oko njega i pažljivo slušali.",
       "translationEn": "The students sat around him and listened attentively.",
       "words": [
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
-        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "studenti", "en": "the students" },
-        { "w": "اسْتَمَعُوا", "root": "س م ع", "bs": "slušali su", "en": "listened" },
-        { "w": "انْتِبَاهٍ", "root": "ن ب ه", "bs": "pažnja", "en": "attention" }
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjeo je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "studenti",
+          "en": "the students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "اسْتَمَعُوا",
+          "root": "س م ع",
+          "bs": "slušali su",
+          "en": "listened",
+          "lemma": "اسْتَمَعَ يَسْتَمِعُ"
+        },
+        {
+          "w": "انْتِبَاهٍ",
+          "root": "ن ب ه",
+          "bs": "pažnja",
+          "en": "attention",
+          "lemma": "اِنْتِبَاهٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Podučavao ih je jeziku, računanju i historiji.",
       "translationEn": "He taught them language, arithmetic, and history.",
       "words": [
-        { "w": "يُعَلِّمُهُمُ", "root": "ع ل م", "bs": "podučavao ih je", "en": "taught them" },
-        { "w": "اللُّغَةَ", "root": "ل غ و", "bs": "jezik", "en": "language" },
-        { "w": "الْحِسَابَ", "root": "ح س ب", "bs": "računanje", "en": "arithmetic" },
-        { "w": "التَّارِيخَ", "root": "أ ر خ", "bs": "historija", "en": "history" }
+        {
+          "w": "يُعَلِّمُهُمُ",
+          "root": "ع ل م",
+          "bs": "podučavao ih je",
+          "en": "taught them",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "اللُّغَةَ",
+          "root": "ل غ و",
+          "bs": "jezik",
+          "en": "language",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "الْحِسَابَ",
+          "root": "ح س ب",
+          "bs": "računanje",
+          "en": "arithmetic",
+          "lemma": "حِسَابٌ / حِسَابَاتٌ"
+        },
+        {
+          "w": "التَّارِيخَ",
+          "root": "أ ر خ",
+          "bs": "historija",
+          "en": "history",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Čas je počinjao poslije jutarnje molitve.",
       "translationEn": "The lesson used to start after the morning prayer.",
       "words": [
-        { "w": "الدَّرْسُ", "root": "د ر س", "bs": "čas", "en": "the lesson" },
-        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "starts" },
-        { "w": "صَلَاةِ", "root": "ص ل و", "bs": "molitva", "en": "prayer" },
-        { "w": "الصُّبْحِ", "root": "ص ب ح", "bs": "jutarnja", "en": "morning" }
+        {
+          "w": "الدَّرْسُ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "the lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
+        },
+        {
+          "w": "يَبْدَأُ",
+          "root": "ب د أ",
+          "bs": "počinje",
+          "en": "starts",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "صَلَاةِ",
+          "root": "ص ل و",
+          "bs": "molitva",
+          "en": "prayer",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        },
+        {
+          "w": "الصُّبْحِ",
+          "root": "ص ب ح",
+          "bs": "jutarnja",
+          "en": "morning",
+          "lemma": "صُبْحٌ / أَصْبَاحٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["education", "mosque", "learning"]
+    "tags": [
+      "education",
+      "mosque",
+      "learning"
+    ]
   }
 }

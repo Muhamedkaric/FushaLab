@@ -8,10 +8,34 @@
       "translation": "Ljudi vole živjeti s drugima a ne sami.",
       "translationEn": "People like to live with others and not alone.",
       "words": [
-        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "likes" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "الْعَيْشَ", "root": "ع ي ش", "bs": "življenje", "en": "living" },
-        { "w": "الآخَرِينَ", "root": "أ خ ر", "bs": "drugi", "en": "others" }
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "likes",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "الْعَيْشَ",
+          "root": "ع ي ش",
+          "bs": "življenje",
+          "en": "living",
+          "lemma": "عَيْشٌ"
+        },
+        {
+          "w": "الآخَرِينَ",
+          "root": "أ خ ر",
+          "bs": "drugi",
+          "en": "others",
+          "lemma": "آخَرُ / أُخَرُ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Osjećamo se sretno kada smo sa prijateljima.",
       "translationEn": "We feel happy when we are with our friends.",
       "words": [
-        { "w": "نَشْعُرُ", "root": "ش ع ر", "bs": "osjećamo se", "en": "we feel" },
-        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happiness" },
-        { "w": "أَصْدِقَائِنَا", "root": "ص د ق", "bs": "naši prijatelji", "en": "our friends" }
+        {
+          "w": "نَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećamo se",
+          "en": "we feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "السَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sreća",
+          "en": "happiness",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
+          "w": "أَصْدِقَائِنَا",
+          "root": "ص د ق",
+          "bs": "naši prijatelji",
+          "en": "our friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Čovjeku treba neko s kim će razgovarati.",
       "translationEn": "A person needs someone to talk with.",
       "words": [
-        { "w": "الإِنْسَانُ", "root": "أ ن س", "bs": "čovjek", "en": "a person" },
-        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "neko", "en": "someone" },
-        { "w": "يَتَحَدَّثُ", "root": "ح د ث", "bs": "razgovara", "en": "talks" }
+        {
+          "w": "الإِنْسَانُ",
+          "root": "أ ن س",
+          "bs": "čovjek",
+          "en": "a person",
+          "lemma": "إِنْسَانٌ / نَاسٌ"
+        },
+        {
+          "w": "يَحْتَاجُ",
+          "root": "ح و ج",
+          "bs": "treba",
+          "en": "needs",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
+        },
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "neko",
+          "en": "someone",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "يَتَحَدَّثُ",
+          "root": "ح د ث",
+          "bs": "razgovara",
+          "en": "talks",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        }
       ]
     },
     {
@@ -40,16 +106,50 @@
       "translation": "Usamljenost ponekad čini srce tužnim.",
       "translationEn": "Loneliness sometimes makes the heart sad.",
       "words": [
-        { "w": "الْوَحْدَةُ", "root": "و ح د", "bs": "usamljenost", "en": "loneliness" },
-        { "w": "تَجْعَلُ", "root": "ج ع ل", "bs": "čini", "en": "makes" },
-        { "w": "الْقَلْبَ", "root": "ق ل ب", "bs": "srce", "en": "the heart" },
-        { "w": "حَزِينًا", "root": "ح ز ن", "bs": "tužno", "en": "sad" },
-        { "w": "أَحْيَانًا", "root": "ح ي ن", "bs": "ponekad", "en": "sometimes" }
+        {
+          "w": "الْوَحْدَةُ",
+          "root": "و ح د",
+          "bs": "usamljenost",
+          "en": "loneliness",
+          "lemma": "وَحْدَةٌ"
+        },
+        {
+          "w": "تَجْعَلُ",
+          "root": "ج ع ل",
+          "bs": "čini",
+          "en": "makes",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "الْقَلْبَ",
+          "root": "ق ل ب",
+          "bs": "srce",
+          "en": "the heart",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "حَزِينًا",
+          "root": "ح ز ن",
+          "bs": "tužno",
+          "en": "sad",
+          "lemma": "حَزِينٌ"
+        },
+        {
+          "w": "أَحْيَانًا",
+          "root": "ح ي ن",
+          "bs": "ponekad",
+          "en": "sometimes",
+          "lemma": "أَحْيَانًا"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["social needs", "loneliness", "friendship"]
+    "tags": [
+      "social needs",
+      "loneliness",
+      "friendship"
+    ]
   }
 }

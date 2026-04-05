@@ -12,24 +12,28 @@
           "w": "فَتَحَتِ",
           "root": "ف ت ح",
           "bs": "otvorio je",
-          "en": "opened"
+          "en": "opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
         },
         {
           "w": "مَلْعَبًا",
           "root": "ل ع ب",
           "bs": "teren",
-          "en": "field"
+          "en": "field",
+          "lemma": "مَلْعَبٌ / مَلَاعِبُ"
         },
         {
           "w": "جَدِيدًا",
           "root": "ج د د",
           "bs": "novi",
-          "en": "new"
+          "en": "new",
+          "lemma": "جَدِيدٌ"
         },
         {
           "w": "كُرَةِ الْقَدَمِ",
           "bs": "fudbal",
-          "en": "football"
+          "en": "football",
+          "lemma": "كُرَةٌ / كُرَاتٌ"
         }
       ]
     },
@@ -42,25 +46,29 @@
           "w": "يَقَعُ",
           "root": "و ق ع",
           "bs": "nalazi se",
-          "en": "is located"
+          "en": "is located",
+          "lemma": "وَقَعَ يَقَعُ"
         },
         {
           "w": "الْمَلْعَبُ",
           "root": "ل ع ب",
           "bs": "teren",
-          "en": "field"
+          "en": "field",
+          "lemma": "مَلْعَبٌ / مَلَاعِبُ"
         },
         {
           "w": "الْمَدْرَسَةِ",
           "root": "د ر س",
           "bs": "škole",
-          "en": "school"
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
         },
         {
           "w": "الْكَبِيرَةِ",
           "root": "ك ب ر",
           "bs": "velike",
-          "en": "large"
+          "en": "large",
+          "lemma": "كَبِيرٌ"
         }
       ]
     },
@@ -73,13 +81,15 @@
           "w": "الأَطْفَالُ",
           "root": "ط ف ل",
           "bs": "djeca",
-          "en": "children"
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "الشَّبَابُ",
           "root": "ش ب ب",
           "bs": "mladi",
-          "en": "youth"
+          "en": "youth",
+          "lemma": "شَبَابٌ"
         }
       ]
     },
@@ -92,19 +102,22 @@
           "w": "الرِّيَاضَةَ",
           "root": "ر ي ض",
           "bs": "sport",
-          "en": "sports"
+          "en": "sports",
+          "lemma": "رِيَاضَةٌ / رِيَاضَاتٌ"
         },
         {
           "w": "مُهِمَّةٌ",
           "root": "ه م م",
           "bs": "važan",
-          "en": "important"
+          "en": "important",
+          "lemma": "مُهِمٌّ"
         },
         {
           "w": "الشَّبَابِ",
           "root": "ش ب ب",
           "bs": "mlade",
-          "en": "youth"
+          "en": "youth",
+          "lemma": "شَبَابٌ"
         }
       ]
     }

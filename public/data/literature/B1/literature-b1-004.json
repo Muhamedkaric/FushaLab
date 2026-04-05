@@ -8,10 +8,34 @@
       "translation": "Porodica je odlučila otići na more za vrijeme odmora.",
       "translationEn": "The family decided to go to the sea during the holiday.",
       "words": [
-        { "w": "قَرَّرَتِ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" },
-        { "w": "الْإِجَازَةِ", "root": "ج و ز", "bs": "odmor/raspust", "en": "holiday" }
+        {
+          "w": "قَرَّرَتِ",
+          "root": "ق ر ر",
+          "bs": "odlučila je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "الْبَحْرِ",
+          "root": "ب ح ر",
+          "bs": "more",
+          "en": "sea",
+          "lemma": "بَحْرٌ / بِحَارٌ"
+        },
+        {
+          "w": "الْإِجَازَةِ",
+          "root": "ج و ز",
+          "bs": "odmor/raspust",
+          "en": "holiday",
+          "lemma": "إِجَازَةٌ / إِجَازَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Spakovali su kofere i krenuli sljedećeg jutra.",
       "translationEn": "They packed their bags and set off the next morning.",
       "words": [
-        { "w": "حَزَمُوا", "root": "ح ز م", "bs": "spakovali su", "en": "packed" },
-        { "w": "حَقَائِبَهُمْ", "root": "ح ق ب", "bs": "njihovi koferi", "en": "their bags" },
-        { "w": "انْطَلَقُوا", "root": "ط ل ق", "bs": "krenuli su", "en": "set off" },
-        { "w": "صَبَاحَ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        {
+          "w": "حَزَمُوا",
+          "root": "ح ز م",
+          "bs": "spakovali su",
+          "en": "packed",
+          "lemma": "حَزَمَ يَحْزِمُ"
+        },
+        {
+          "w": "حَقَائِبَهُمْ",
+          "root": "ح ق ب",
+          "bs": "njihovi koferi",
+          "en": "their bags",
+          "lemma": "حَقِيبَةٌ / حَقَائِبُ"
+        },
+        {
+          "w": "انْطَلَقُوا",
+          "root": "ط ل ق",
+          "bs": "krenuli su",
+          "en": "set off",
+          "lemma": "انْطَلَقَ يَنْطَلِقُ"
+        },
+        {
+          "w": "صَبَاحَ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبِحَةٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Stigli su na plažu nakon tri sata vožnje.",
       "translationEn": "They arrived at the beach after three hours of travel.",
       "words": [
-        { "w": "وَصَلُوا", "root": "و ص ل", "bs": "stigli su", "en": "arrived" },
-        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plaža/obala", "en": "beach" },
-        { "w": "سَاعَاتٍ", "root": "س و ع", "bs": "sati", "en": "hours" },
-        { "w": "السَّفَرِ", "root": "س ف ر", "bs": "putovanje", "en": "travel" }
+        {
+          "w": "وَصَلُوا",
+          "root": "و ص ل",
+          "bs": "stigli su",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الشَّاطِئِ",
+          "root": "ش ط أ",
+          "bs": "plaža/obala",
+          "en": "beach",
+          "lemma": "شَاطِئٌ / شَوَاطِئُ"
+        },
+        {
+          "w": "سَاعَاتٍ",
+          "root": "س و ع",
+          "bs": "sati",
+          "en": "hours",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "السَّفَرِ",
+          "root": "س ف ر",
+          "bs": "putovanje",
+          "en": "travel",
+          "lemma": "سَفَرٌ / أَسْفَارٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Djeca su se igrala u pijesku i vodi cijeli dan.",
       "translationEn": "The children played in the sand and water all day long.",
       "words": [
-        { "w": "لَعِبَ", "root": "ل ع ب", "bs": "igrao se", "en": "played" },
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "الرَّمْلِ", "root": "ر م ل", "bs": "pijesak", "en": "sand" },
-        { "w": "الْمَاءِ", "root": "م و ه", "bs": "voda", "en": "water" }
+        {
+          "w": "لَعِبَ",
+          "root": "ل ع ب",
+          "bs": "igrao se",
+          "en": "played",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الرَّمْلِ",
+          "root": "ر م ل",
+          "bs": "pijesak",
+          "en": "sand",
+          "lemma": "رَمْلٌ / رِمَالٌ"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["family", "travel", "beach"]
+    "tags": [
+      "family",
+      "travel",
+      "beach"
+    ]
   }
 }

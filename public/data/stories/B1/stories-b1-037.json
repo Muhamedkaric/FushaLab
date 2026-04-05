@@ -8,10 +8,34 @@
       "translation": "Lisice i zečevi se nisu razgovarali jedni s drugima u šumi.",
       "translationEn": "The foxes and rabbits did not speak to each other in the forest.",
       "words": [
-        { "w": "الثَّعَالِبُ", "root": "ث ع ل", "bs": "lisice", "en": "foxes" },
-        { "w": "الأَرَانِبُ", "root": "أ ر ن", "bs": "zečevi", "en": "rabbits" },
-        { "w": "تَتَكَلَّمُ", "root": "ك ل م", "bs": "razgovarali su", "en": "speak" },
-        { "w": "الْغَابَةِ", "root": "غ ي ب", "bs": "šuma", "en": "forest" }
+        {
+          "w": "الثَّعَالِبُ",
+          "root": "ث ع ل",
+          "bs": "lisice",
+          "en": "foxes",
+          "lemma": "ثَعْلَبٌ / ثَعَالِبُ"
+        },
+        {
+          "w": "الأَرَانِبُ",
+          "root": "أ ر ن",
+          "bs": "zečevi",
+          "en": "rabbits",
+          "lemma": "أَرْنَبٌ / أَرَانِبُ"
+        },
+        {
+          "w": "تَتَكَلَّمُ",
+          "root": "ك ل م",
+          "bs": "razgovarali su",
+          "en": "speak",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "الْغَابَةِ",
+          "root": "غ ي ب",
+          "bs": "šuma",
+          "en": "forest",
+          "lemma": "غَابَةٌ / غَابَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Jednog dana je pala jaka kiša i rijeka se prelila.",
       "translationEn": "One day heavy rain came and the river overflowed.",
       "words": [
-        { "w": "مَطَرٌ", "root": "م ط ر", "bs": "kiša", "en": "rain" },
-        { "w": "شَدِيدٌ", "root": "ش د د", "bs": "jaka", "en": "heavy" },
-        { "w": "فَاضَ", "root": "ف ي ض", "bs": "prelila se", "en": "overflowed" },
-        { "w": "النَّهْرُ", "root": "ن ه ر", "bs": "rijeka", "en": "river" }
+        {
+          "w": "مَطَرٌ",
+          "root": "م ط ر",
+          "bs": "kiša",
+          "en": "rain",
+          "lemma": "مَطَرٌ / أَمْطَارٌ"
+        },
+        {
+          "w": "شَدِيدٌ",
+          "root": "ش د د",
+          "bs": "jaka",
+          "en": "heavy",
+          "lemma": "شَدِيدٌ"
+        },
+        {
+          "w": "فَاضَ",
+          "root": "ف ي ض",
+          "bs": "prelila se",
+          "en": "overflowed",
+          "lemma": "فَاضَ يَفِيضُ"
+        },
+        {
+          "w": "النَّهْرُ",
+          "root": "ن ه ر",
+          "bs": "rijeka",
+          "en": "river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Lisice i zečevi su zajedno radili na izgradnji male brane.",
       "translationEn": "The foxes and rabbits worked together to build a small dam.",
       "words": [
-        { "w": "عَمِلَ", "root": "ع م ل", "bs": "radili su", "en": "worked" },
-        { "w": "الثَّعَالِبُ", "root": "ث ع ل", "bs": "lisice", "en": "foxes" },
-        { "w": "الأَرَانِبُ", "root": "أ ر ن", "bs": "zečevi", "en": "rabbits" },
-        { "w": "لِبِنَاءِ", "root": "ب ن ي", "bs": "izgradnja", "en": "to build" },
-        { "w": "سَدٍّ", "root": "س د د", "bs": "brana", "en": "dam" }
+        {
+          "w": "عَمِلَ",
+          "root": "ع م ل",
+          "bs": "radili su",
+          "en": "worked",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "الثَّعَالِبُ",
+          "root": "ث ع ل",
+          "bs": "lisice",
+          "en": "foxes",
+          "lemma": "ثَعْلَبٌ / ثَعَالِبُ"
+        },
+        {
+          "w": "الأَرَانِبُ",
+          "root": "أ ر ن",
+          "bs": "zečevi",
+          "en": "rabbits",
+          "lemma": "أَرْنَبٌ / أَرَانِبُ"
+        },
+        {
+          "w": "لِبِنَاءِ",
+          "root": "ب ن ي",
+          "bs": "izgradnja",
+          "en": "to build",
+          "lemma": "بِنَاءٌ / أَبْنِيَةٌ"
+        },
+        {
+          "w": "سَدٍّ",
+          "root": "س د د",
+          "bs": "brana",
+          "en": "dam",
+          "lemma": "سَدٌّ / سُدُودٌ"
+        }
       ]
     },
     {
@@ -42,14 +120,37 @@
       "translation": "Nakon toga su postali dobri susjedi.",
       "translationEn": "After that they became good neighbors.",
       "words": [
-        { "w": "أَصْبَحُوا", "root": "ص ب ح", "bs": "postali su", "en": "became" },
-        { "w": "جِيرَانًا", "root": "ج و ر", "bs": "susjedi", "en": "neighbors" },
-        { "w": "طَيِّبِينَ", "root": "ط ي ب", "bs": "dobri", "en": "good" }
+        {
+          "w": "أَصْبَحُوا",
+          "root": "ص ب ح",
+          "bs": "postali su",
+          "en": "became",
+          "lemma": "أَصْبَحَ يُصْبِحُ"
+        },
+        {
+          "w": "جِيرَانًا",
+          "root": "ج و ر",
+          "bs": "susjedi",
+          "en": "neighbors",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "طَيِّبِينَ",
+          "root": "ط ي ب",
+          "bs": "dobri",
+          "en": "good",
+          "lemma": "طَيِّبٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["fox", "rabbit", "cooperation", "forest"]
+    "tags": [
+      "fox",
+      "rabbit",
+      "cooperation",
+      "forest"
+    ]
   }
 }

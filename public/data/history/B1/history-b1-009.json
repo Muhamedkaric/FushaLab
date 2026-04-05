@@ -8,10 +8,34 @@
       "translation": "Staro selo je bilo malo i mirno.",
       "translationEn": "The ancient village was small and quiet.",
       "words": [
-        { "w": "الْقَرْيَةُ", "root": "ق ر ي", "bs": "selo", "en": "the village" },
-        { "w": "الْقَدِيمَةُ", "root": "ق د م", "bs": "staro", "en": "ancient" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "malo", "en": "small" },
-        { "w": "هَادِئَةً", "root": "ه د أ", "bs": "mirno", "en": "quiet" }
+        {
+          "w": "الْقَرْيَةُ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "the village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "الْقَدِيمَةُ",
+          "root": "ق د م",
+          "bs": "staro",
+          "en": "ancient",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "malo",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "هَادِئَةً",
+          "root": "ه د أ",
+          "bs": "mirno",
+          "en": "quiet",
+          "lemma": "هَادِئٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Ljudi su se međusobno dobro poznavali.",
       "translationEn": "The people knew each other well.",
       "words": [
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
-        { "w": "يَعْرِفُونَ", "root": "ع ر ف", "bs": "poznaju", "en": "know" },
-        { "w": "جَيِّدًا", "root": "ج ي د", "bs": "dobro", "en": "well" }
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "the people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "يَعْرِفُونَ",
+          "root": "ع ر ف",
+          "bs": "poznaju",
+          "en": "know",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "جَيِّدًا",
+          "root": "ج ي د",
+          "bs": "dobro",
+          "en": "well",
+          "lemma": "جَيِّدٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Sarađivali su u poslu i dijelili hranu.",
       "translationEn": "They cooperated in work and shared food.",
       "words": [
-        { "w": "يَتَعَاوَنُونَ", "root": "ع و ن", "bs": "sarađuju", "en": "cooperate" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" },
-        { "w": "يَتَقَاسَمُونَ", "root": "ق س م", "bs": "dijele", "en": "share" },
-        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" }
+        {
+          "w": "يَتَعَاوَنُونَ",
+          "root": "ع و ن",
+          "bs": "sarađuju",
+          "en": "cooperate",
+          "lemma": "تَعَاوَنَ يَتَعَاوَنُ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "يَتَقَاسَمُونَ",
+          "root": "ق س م",
+          "bs": "dijele",
+          "en": "share",
+          "lemma": "تَقَاسَمَ يَتَقَاسَمُ"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Život u selu bio je jednostavan ali sretan.",
       "translationEn": "Life in the village was simple but happy.",
       "words": [
-        { "w": "الْحَيَاةُ", "root": "ح ي و", "bs": "život", "en": "life" },
-        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "sela", "en": "the village" },
-        { "w": "بَسِيطَةً", "root": "ب س ط", "bs": "jednostavan", "en": "simple" },
-        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretan", "en": "happy" }
+        {
+          "w": "الْحَيَاةُ",
+          "root": "ح ي و",
+          "bs": "život",
+          "en": "life",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "root": "ق ر ي",
+          "bs": "sela",
+          "en": "the village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "بَسِيطَةً",
+          "root": "ب س ط",
+          "bs": "jednostavan",
+          "en": "simple",
+          "lemma": "بَسِيطٌ"
+        },
+        {
+          "w": "سَعِيدَةً",
+          "root": "س ع د",
+          "bs": "sretan",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["village", "community", "daily life"]
+    "tags": [
+      "village",
+      "community",
+      "daily life"
+    ]
   }
 }

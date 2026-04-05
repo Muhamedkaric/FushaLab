@@ -12,24 +12,28 @@
           "w": "فَتَحَتْ",
           "root": "ف ت ح",
           "bs": "otvorila je",
-          "en": "opened"
+          "en": "opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
         },
         {
           "w": "فِيدِيُو",
           "bs": "video",
-          "en": "a video"
+          "en": "a video",
+          "lemma": "فِيدِيُو"
         },
         {
           "w": "تَعْلِيمِيًّا",
           "root": "ع ل م",
           "bs": "edukativni",
-          "en": "educational"
+          "en": "educational",
+          "lemma": "تَعْلِيمِيٌّ"
         },
         {
           "w": "الطَّبْخِ",
           "root": "ط ب خ",
           "bs": "kuhanju",
-          "en": "cooking"
+          "en": "cooking",
+          "lemma": "طَبْخٌ"
         }
       ]
     },
@@ -42,24 +46,28 @@
           "w": "شَاهَدَتِ",
           "root": "ش ه د",
           "bs": "gledala je",
-          "en": "watched"
+          "en": "watched",
+          "lemma": "شَاهَدَ يُشَاهِدُ"
         },
         {
           "w": "الْفِيدِيُو",
           "bs": "video",
-          "en": "the video"
+          "en": "the video",
+          "lemma": "فِيدِيُو"
         },
         {
           "w": "كَتَبَتِ",
           "root": "ك ت ب",
           "bs": "zapisivala je",
-          "en": "wrote"
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
         },
         {
           "w": "الْمَقَادِيرَ",
           "root": "ق د ر",
           "bs": "sastojke",
-          "en": "the ingredients"
+          "en": "the ingredients",
+          "lemma": "مِقْدَارٌ / مَقَادِيرُ"
         }
       ]
     },
@@ -72,25 +80,29 @@
           "w": "ذَهَبَتْ",
           "root": "ذ ه ب",
           "bs": "otišla je",
-          "en": "went"
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
         },
         {
           "w": "الْمَطْبَخِ",
           "root": "ط ب خ",
           "bs": "kuhinju",
-          "en": "the kitchen"
+          "en": "the kitchen",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
         },
         {
           "w": "طَبَّقَتْ",
           "root": "ط ب ق",
           "bs": "primijenila je",
-          "en": "applied"
+          "en": "applied",
+          "lemma": "طَبَّقَ يُطَبِّقُ"
         },
         {
           "w": "تَعَلَّمَتْهُ",
           "root": "ع ل م",
           "bs": "naučila je",
-          "en": "what she learned"
+          "en": "what she learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
         }
       ]
     },
@@ -103,19 +115,22 @@
           "w": "خَرَجَ",
           "root": "خ ر ج",
           "bs": "ispalo je",
-          "en": "turned out"
+          "en": "turned out",
+          "lemma": "خَرَجَ يَخْرُجُ"
         },
         {
           "w": "الطَّبَقُ",
           "root": "ط ب ق",
           "bs": "jelo",
-          "en": "the dish"
+          "en": "the dish",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
         },
         {
           "w": "جَمِيلًا",
           "root": "ج م ل",
           "bs": "lijepo",
-          "en": "beautiful"
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
         }
       ]
     }

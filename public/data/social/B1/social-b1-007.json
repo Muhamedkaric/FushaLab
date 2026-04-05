@@ -8,10 +8,34 @@
       "translation": "Umer je pitao kolegu o novom poslu.",
       "translationEn": "Omar asked his colleague about his new job.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
-        { "w": "زَمِيلَهُ", "root": "ز م ل", "bs": "kolegu", "en": "colleague" },
-        { "w": "عَمَلِهِ", "root": "ع م ل", "bs": "poslu", "en": "job" },
-        { "w": "الجَدِيدِ", "root": "ج د د", "bs": "novom", "en": "new" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "زَمِيلَهُ",
+          "root": "ز م ل",
+          "bs": "kolegu",
+          "en": "colleague",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "عَمَلِهِ",
+          "root": "ع م ل",
+          "bs": "poslu",
+          "en": "job",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الجَدِيدِ",
+          "root": "ج د د",
+          "bs": "novom",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Rekao mu je da je posao težak ali zanimljiv.",
       "translationEn": "He told him that the work is hard but enjoyable.",
       "words": [
-        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "rekao mu je", "en": "told him" },
-        { "w": "العَمَلَ", "root": "ع م ل", "bs": "posao", "en": "work" },
-        { "w": "صَعْبٌ", "root": "ص ع ب", "bs": "težak", "en": "hard" },
-        { "w": "مُمْتِعٌ", "root": "م ت ع", "bs": "zanimljiv", "en": "enjoyable" }
+        {
+          "w": "أَخْبَرَهُ",
+          "root": "خ ب ر",
+          "bs": "rekao mu je",
+          "en": "told him",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "العَمَلَ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "صَعْبٌ",
+          "root": "ص ع ب",
+          "bs": "težak",
+          "en": "hard",
+          "lemma": "صَعْبٌ"
+        },
+        {
+          "w": "مُمْتِعٌ",
+          "root": "م ت ع",
+          "bs": "zanimljiv",
+          "en": "enjoyable",
+          "lemma": "مُمْتِعٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Radi s malim timom i voli ih.",
       "translationEn": "He works with a small team and likes them.",
       "words": [
-        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "فَرِيقٍ", "root": "ف ر ق", "bs": "timom", "en": "team" },
-        { "w": "صَغِيرٍ", "root": "ص غ ر", "bs": "malim", "en": "small" },
-        { "w": "يُحِبُّهُمْ", "root": "ح ب ب", "bs": "voli ih", "en": "likes them" }
+        {
+          "w": "يَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "فَرِيقٍ",
+          "root": "ف ر ق",
+          "bs": "timom",
+          "en": "team",
+          "lemma": "فَرِيقٌ / فِرَقٌ"
+        },
+        {
+          "w": "صَغِيرٍ",
+          "root": "ص غ ر",
+          "bs": "malim",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "يُحِبُّهُمْ",
+          "root": "ح ب ب",
+          "bs": "voli ih",
+          "en": "likes them",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Plata je dobra i mjesto je blizu kuće.",
       "translationEn": "The salary is good and the place is close to home.",
       "words": [
-        { "w": "الرَّاتِبُ", "root": "ر ت ب", "bs": "plata", "en": "salary" },
-        { "w": "جَيِّدٌ", "root": "ج و د", "bs": "dobra", "en": "good" },
-        { "w": "المَكَانُ", "root": "م ك ن", "bs": "mjesto", "en": "place" },
-        { "w": "قَرِيبٌ", "root": "ق ر ب", "bs": "blizu", "en": "close" }
+        {
+          "w": "الرَّاتِبُ",
+          "root": "ر ت ب",
+          "bs": "plata",
+          "en": "salary",
+          "lemma": "رَاتِبٌ / رَوَاتِبُ"
+        },
+        {
+          "w": "جَيِّدٌ",
+          "root": "ج و د",
+          "bs": "dobra",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        },
+        {
+          "w": "المَكَانُ",
+          "root": "م ك ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "قَرِيبٌ",
+          "root": "ق ر ب",
+          "bs": "blizu",
+          "en": "close",
+          "lemma": "قَرِيبٌ"
+        }
       ]
     }
   ],

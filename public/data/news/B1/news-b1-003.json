@@ -12,25 +12,29 @@
           "w": "افْتَتَحَ",
           "root": "ف ت ح",
           "bs": "otvorio je",
-          "en": "opened"
+          "en": "opened",
+          "lemma": "اِفْتَتَحَ يَفْتَتِحُ"
         },
         {
           "w": "السُّوقُ",
           "root": "س و ق",
           "bs": "pijaca",
-          "en": "market"
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
         },
         {
           "w": "الأُسْبُوعِيُّ",
           "root": "س ب ع",
           "bs": "sedmična",
-          "en": "weekly"
+          "en": "weekly",
+          "lemma": "أُسْبُوعِيٌّ"
         },
         {
           "w": "أَبْوَابَهُ",
           "root": "ب و ب",
           "bs": "svoja vrata",
-          "en": "its doors"
+          "en": "its doors",
+          "lemma": "بَابٌ / أَبْوَابٌ"
         }
       ]
     },
@@ -43,18 +47,21 @@
           "w": "الْبَائِعِينَ",
           "root": "ب ي ع",
           "bs": "prodavači",
-          "en": "vendors"
+          "en": "vendors",
+          "lemma": "بَائِعٌ / بَائِعُونَ"
         },
         {
           "w": "خُضَرَاوَاتٍ",
           "root": "خ ض ر",
           "bs": "povrće",
-          "en": "vegetables"
+          "en": "vegetables",
+          "lemma": "خَضْرَاوَاتٌ"
         },
         {
           "w": "طَازَجَةٍ",
           "bs": "svježe",
-          "en": "fresh"
+          "en": "fresh",
+          "lemma": "طَازَجٌ"
         }
       ]
     },
@@ -67,25 +74,29 @@
           "w": "اشْتَرَى",
           "root": "ش ر ي",
           "bs": "kupio je",
-          "en": "bought"
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
         },
         {
           "w": "الْفَوَاكِهَ",
           "root": "ف و ك",
           "bs": "voće",
-          "en": "fruits"
+          "en": "fruits",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
         },
         {
           "w": "الْخُبْزَ",
           "root": "خ ب ز",
           "bs": "hljeb",
-          "en": "bread"
+          "en": "bread",
+          "lemma": "خُبْزٌ"
         },
         {
           "w": "الْجُبْنَ",
           "root": "ج ب ن",
           "bs": "sir",
-          "en": "cheese"
+          "en": "cheese",
+          "lemma": "جُبْنٌ"
         }
       ]
     },
@@ -98,19 +109,22 @@
           "w": "السُّوقُ",
           "root": "س و ق",
           "bs": "pijaca",
-          "en": "market"
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
         },
         {
           "w": "مُزْدَحِمًا",
           "root": "ز ح م",
           "bs": "gužvava",
-          "en": "crowded"
+          "en": "crowded",
+          "lemma": "مُزْدَحِمٌ"
         },
         {
           "w": "صَاخِبًا",
           "root": "ص خ ب",
           "bs": "glasna",
-          "en": "noisy"
+          "en": "noisy",
+          "lemma": "صَاخِبٌ"
         }
       ]
     }

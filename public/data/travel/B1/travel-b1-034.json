@@ -8,10 +8,34 @@
       "translation": "Bilo je vruće kad su stigli u grad.",
       "translationEn": "It was hot when they arrived in the city.",
       "words": [
-        { "w": "الطَّقْسُ", "root": "ط ق س", "bs": "vrijeme", "en": "weather" },
-        { "w": "حَارًّا", "root": "ح ر ر", "bs": "vruće", "en": "hot" },
-        { "w": "وَصَلُوا", "root": "و ص ل", "bs": "stigli su", "en": "arrived" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" }
+        {
+          "w": "الطَّقْسُ",
+          "root": "ط ق س",
+          "bs": "vrijeme",
+          "en": "weather",
+          "lemma": "طَقْسٌ"
+        },
+        {
+          "w": "حَارًّا",
+          "root": "ح ر ر",
+          "bs": "vruće",
+          "en": "hot",
+          "lemma": "حَارٌّ"
+        },
+        {
+          "w": "وَصَلُوا",
+          "root": "و ص ل",
+          "bs": "stigli su",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Ušli su u kafić i naručili hladan sok.",
       "translationEn": "They entered a cafe and ordered cold juice.",
       "words": [
-        { "w": "دَخَلُوا", "root": "د خ ل", "bs": "ušli su", "en": "entered" },
-        { "w": "مَقْهًى", "root": "ق ه و", "bs": "kafić", "en": "cafe" },
-        { "w": "طَلَبُوا", "root": "ط ل ب", "bs": "naručili su", "en": "ordered" },
-        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" }
+        {
+          "w": "دَخَلُوا",
+          "root": "د خ ل",
+          "bs": "ušli su",
+          "en": "entered",
+          "lemma": "دَخَلَ يَدْخُلُ"
+        },
+        {
+          "w": "مَقْهًى",
+          "root": "ق ه و",
+          "bs": "kafić",
+          "en": "cafe",
+          "lemma": "مَقْهًى / مَقَاهٍ"
+        },
+        {
+          "w": "طَلَبُوا",
+          "root": "ط ل ب",
+          "bs": "naručili su",
+          "en": "ordered",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الْعَصِيرَ",
+          "root": "ع ص ر",
+          "bs": "sok",
+          "en": "juice",
+          "lemma": "عَصِيرٌ / عُصَارَاتٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Sjeli su u hladu i odmorili se.",
       "translationEn": "They sat in the shade and rested.",
       "words": [
-        { "w": "جَلَسُوا", "root": "ج ل س", "bs": "sjeli su", "en": "sat" },
-        { "w": "الظِّلِّ", "root": "ظ ل ل", "bs": "hlad / sjena", "en": "shade / shadow" },
-        { "w": "اسْتَرَاحُوا", "root": "ر و ح", "bs": "odmorili su se", "en": "rested" }
+        {
+          "w": "جَلَسُوا",
+          "root": "ج ل س",
+          "bs": "sjeli su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الظِّلِّ",
+          "root": "ظ ل ل",
+          "bs": "hlad / sjena",
+          "en": "shade / shadow",
+          "lemma": "ظِلٌّ / ظِلَالٌ"
+        },
+        {
+          "w": "اسْتَرَاحُوا",
+          "root": "ر و ح",
+          "bs": "odmorili su se",
+          "en": "rested",
+          "lemma": "اسْتَرَاحَ يَسْتَرِيحُ"
+        }
       ]
     },
     {
@@ -40,9 +106,27 @@
       "translation": "Nakon odmora izašli su i prošetali gradom.",
       "translationEn": "After resting they went out and took a walk through the city.",
       "words": [
-        { "w": "الِاسْتِرَاحَةِ", "root": "ر و ح", "bs": "odmor", "en": "rest" },
-        { "w": "خَرَجُوا", "root": "خ ر ج", "bs": "izašli su", "en": "went out" },
-        { "w": "جُولَةً", "root": "ج و ل", "bs": "šetnja / obilazak", "en": "tour / walk" }
+        {
+          "w": "الِاسْتِرَاحَةِ",
+          "root": "ر و ح",
+          "bs": "odmor",
+          "en": "rest",
+          "lemma": "اسْتِرَاحَةٌ / اسْتِرَاحَاتٌ"
+        },
+        {
+          "w": "خَرَجُوا",
+          "root": "خ ر ج",
+          "bs": "izašli su",
+          "en": "went out",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "جُولَةً",
+          "root": "ج و ل",
+          "bs": "šetnja / obilazak",
+          "en": "tour / walk",
+          "lemma": "جَوْلَةٌ / جَوْلَاتٌ"
+        }
       ]
     }
   ],

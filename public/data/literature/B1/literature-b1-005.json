@@ -8,9 +8,27 @@
       "translation": "Fatima je voljela kuhati od malih nogu.",
       "translationEn": "Fatima loved cooking since she was young.",
       "words": [
-        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voljela je", "en": "loved" },
-        { "w": "الطَّبْخَ", "root": "ط ب خ", "bs": "kuhanje", "en": "cooking" },
-        { "w": "صِغَرِهَا", "root": "ص غ ر", "bs": "njeno djetinjstvo", "en": "her youth/childhood" }
+        {
+          "w": "تُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voljela je",
+          "en": "loved",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الطَّبْخَ",
+          "root": "ط ب خ",
+          "bs": "kuhanje",
+          "en": "cooking",
+          "lemma": "طَبْخٌ"
+        },
+        {
+          "w": "صِغَرِهَا",
+          "root": "ص غ ر",
+          "bs": "njeno djetinjstvo",
+          "en": "her youth/childhood",
+          "lemma": "صِغَرٌ"
+        }
       ]
     },
     {
@@ -18,11 +36,41 @@
       "translation": "Sjela je sa svojom bakom u kuhinji i učila recepte.",
       "translationEn": "She sat with her grandmother in the kitchen learning recipes.",
       "words": [
-        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
-        { "w": "جَدَّتِهَا", "root": "ج د د", "bs": "njena baka", "en": "her grandmother" },
-        { "w": "الْمَطْبَخِ", "root": "ط ب خ", "bs": "kuhinja", "en": "kitchen" },
-        { "w": "تَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learning" },
-        { "w": "الْوَصَفَاتِ", "root": "و ص ف", "bs": "recepti", "en": "recipes" }
+        {
+          "w": "جَلَسَتْ",
+          "root": "ج ل س",
+          "bs": "sjela je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "جَدَّتِهَا",
+          "root": "ج د د",
+          "bs": "njena baka",
+          "en": "her grandmother",
+          "lemma": "جَدَّةٌ / جَدَّاتٌ"
+        },
+        {
+          "w": "الْمَطْبَخِ",
+          "root": "ط ب خ",
+          "bs": "kuhinja",
+          "en": "kitchen",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
+        },
+        {
+          "w": "تَتَعَلَّمُ",
+          "root": "ع ل م",
+          "bs": "uči",
+          "en": "learning",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الْوَصَفَاتِ",
+          "root": "و ص ف",
+          "bs": "recepti",
+          "en": "recipes",
+          "lemma": "وَصَفَةٌ / وَصَفَاتٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Baka ju je naučila kako kuhati tradicionalnu supu.",
       "translationEn": "Her grandmother taught her how to make traditional soup.",
       "words": [
-        { "w": "عَلَّمَتْهَا", "root": "ع ل م", "bs": "naučila ju je", "en": "taught her" },
-        { "w": "طَرِيقَةَ", "root": "ط ر ق", "bs": "način/metoda", "en": "method/way" },
-        { "w": "طَبْخِ", "root": "ط ب خ", "bs": "kuhanje", "en": "cooking" },
-        { "w": "الْحَسَاءِ", "root": "ح س و", "bs": "supa/čorba", "en": "soup" },
-        { "w": "التَّقْلِيدِيِّ", "root": "ق ل د", "bs": "tradicionalna", "en": "traditional" }
+        {
+          "w": "عَلَّمَتْهَا",
+          "root": "ع ل م",
+          "bs": "naučila ju je",
+          "en": "taught her",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "طَرِيقَةَ",
+          "root": "ط ر ق",
+          "bs": "način/metoda",
+          "en": "method/way",
+          "lemma": "طَرِيقَةٌ / طَرَائِقُ"
+        },
+        {
+          "w": "طَبْخِ",
+          "root": "ط ب خ",
+          "bs": "kuhanje",
+          "en": "cooking",
+          "lemma": "طَبْخٌ"
+        },
+        {
+          "w": "الْحَسَاءِ",
+          "root": "ح س و",
+          "bs": "supa/čorba",
+          "en": "soup",
+          "lemma": "حَسَاءٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيِّ",
+          "root": "ق ل د",
+          "bs": "tradicionalna",
+          "en": "traditional",
+          "lemma": "تَقْلِيدِيٌّ"
+        }
       ]
     },
     {
@@ -42,15 +120,43 @@
       "translation": "Fatima je sama skuhala supu po prvi put i uspjela je.",
       "translationEn": "Fatima cooked the soup alone for the first time and succeeded.",
       "words": [
-        { "w": "طَبَخَتْ", "root": "ط ب خ", "bs": "skuhala je", "en": "cooked" },
-        { "w": "الْحَسَاءَ", "root": "ح س و", "bs": "supa", "en": "soup" },
-        { "w": "وَحِيدَةً", "root": "و ح د", "bs": "sama/jedina", "en": "alone" },
-        { "w": "نَجَحَتْ", "root": "ن ج ح", "bs": "uspjela je", "en": "succeeded" }
+        {
+          "w": "طَبَخَتْ",
+          "root": "ط ب خ",
+          "bs": "skuhala je",
+          "en": "cooked",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "الْحَسَاءَ",
+          "root": "ح س و",
+          "bs": "supa",
+          "en": "soup",
+          "lemma": "حَسَاءٌ"
+        },
+        {
+          "w": "وَحِيدَةً",
+          "root": "و ح د",
+          "bs": "sama/jedina",
+          "en": "alone",
+          "lemma": "وَحِيدٌ"
+        },
+        {
+          "w": "نَجَحَتْ",
+          "root": "ن ج ح",
+          "bs": "uspjela je",
+          "en": "succeeded",
+          "lemma": "نَجَحَ يَنْجَحُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cooking", "family", "grandmother"]
+    "tags": [
+      "cooking",
+      "family",
+      "grandmother"
+    ]
   }
 }

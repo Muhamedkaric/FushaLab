@@ -8,11 +8,41 @@
       "translation": "Učitelj je rekao svojim učenicima: «Strpljenje je ključ olakšanja».",
       "translationEn": "The teacher said to his students: «Patience is the key to relief».",
       "words": [
-        { "w": "الْمُعَلِّمُ", "root": "ع ل م", "bs": "učitelj", "en": "teacher" },
-        { "w": "طُلَّابِهِ", "root": "ط ل ب", "bs": "njegovi učenici", "en": "his students" },
-        { "w": "الصَّبْرُ", "root": "ص ب ر", "bs": "strpljenje", "en": "patience" },
-        { "w": "مِفْتَاحُ", "root": "ف ت ح", "bs": "ključ", "en": "key" },
-        { "w": "الْفَرَجِ", "root": "ف ر ج", "bs": "olakšanje", "en": "relief" }
+        {
+          "w": "الْمُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "učitelj",
+          "en": "teacher",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "طُلَّابِهِ",
+          "root": "ط ل ب",
+          "bs": "njegovi učenici",
+          "en": "his students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الصَّبْرُ",
+          "root": "ص ب ر",
+          "bs": "strpljenje",
+          "en": "patience",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "مِفْتَاحُ",
+          "root": "ف ت ح",
+          "bs": "ključ",
+          "en": "key",
+          "lemma": "مِفْتَاحٌ / مَفَاتِيحُ"
+        },
+        {
+          "w": "الْفَرَجِ",
+          "root": "ف ر ج",
+          "bs": "olakšanje",
+          "en": "relief",
+          "lemma": "فَرَجٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "To znači da nam strpljenje pomaže u rješavanju problema.",
       "translationEn": "This means that patience helps us solve problems.",
       "words": [
-        { "w": "الصَّبْرَ", "root": "ص ب ر", "bs": "strpljenje", "en": "patience" },
-        { "w": "يُسَاعِدُنَا", "root": "س ع د", "bs": "pomaže nam", "en": "helps us" },
-        { "w": "حَلِّ", "root": "ح ل ل", "bs": "rješavanje", "en": "solving" },
-        { "w": "الْمَشَاكِلِ", "root": "ش ك ل", "bs": "problemi", "en": "problems" }
+        {
+          "w": "الصَّبْرَ",
+          "root": "ص ب ر",
+          "bs": "strpljenje",
+          "en": "patience",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "يُسَاعِدُنَا",
+          "root": "س ع د",
+          "bs": "pomaže nam",
+          "en": "helps us",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "حَلِّ",
+          "root": "ح ل ل",
+          "bs": "rješavanje",
+          "en": "solving",
+          "lemma": "حَلٌّ / حُلُولٌ"
+        },
+        {
+          "w": "الْمَشَاكِلِ",
+          "root": "ش ك ل",
+          "bs": "problemi",
+          "en": "problems",
+          "lemma": "مُشْكِلَةٌ / مَشَاكِلُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Ahmed je s brigom čekao rezultat ispita.",
       "translationEn": "Ahmad was anxiously waiting for the exam result.",
       "words": [
-        { "w": "يَنْتَظِرُ", "root": "ن ظ ر", "bs": "čekao je", "en": "was waiting" },
-        { "w": "نَتِيجَةَ", "root": "ن ت ج", "bs": "rezultat", "en": "result" },
-        { "w": "الِامْتِحَانِ", "root": "م ح ن", "bs": "ispit", "en": "exam" },
-        { "w": "بِقَلَقٍ", "root": "ق ل ق", "bs": "s brigom", "en": "anxiously" }
+        {
+          "w": "يَنْتَظِرُ",
+          "root": "ن ظ ر",
+          "bs": "čekao je",
+          "en": "was waiting",
+          "lemma": "انْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "نَتِيجَةَ",
+          "root": "ن ت ج",
+          "bs": "rezultat",
+          "en": "result",
+          "lemma": "نَتِيجَةٌ / نَتَائِجُ"
+        },
+        {
+          "w": "الِامْتِحَانِ",
+          "root": "م ح ن",
+          "bs": "ispit",
+          "en": "exam",
+          "lemma": "اِمْتِحَانٌ / اِمْتِحَانَاتٌ"
+        },
+        {
+          "w": "بِقَلَقٍ",
+          "root": "ق ل ق",
+          "bs": "s brigom",
+          "en": "anxiously",
+          "lemma": "قَلَقٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,50 @@
       "translation": "Sjetio se poslovice i strpio se dok nisu stigle dobre vijesti.",
       "translationEn": "He remembered the proverb and was patient until good news came.",
       "words": [
-        { "w": "تَذَكَّرَ", "root": "ذ ك ر", "bs": "sjetio se", "en": "remembered" },
-        { "w": "الْمَثَلَ", "root": "م ث ل", "bs": "poslovica", "en": "proverb" },
-        { "w": "صَبَرَ", "root": "ص ب ر", "bs": "strpio se", "en": "was patient" },
-        { "w": "الْأَخْبَارُ", "root": "خ ب ر", "bs": "vijesti", "en": "news" },
-        { "w": "الْجَيِّدَةُ", "root": "ج و د", "bs": "dobre", "en": "good" }
+        {
+          "w": "تَذَكَّرَ",
+          "root": "ذ ك ر",
+          "bs": "sjetio se",
+          "en": "remembered",
+          "lemma": "تَذَكَّرَ يَتَذَكَّرُ"
+        },
+        {
+          "w": "الْمَثَلَ",
+          "root": "م ث ل",
+          "bs": "poslovica",
+          "en": "proverb",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
+          "w": "صَبَرَ",
+          "root": "ص ب ر",
+          "bs": "strpio se",
+          "en": "was patient",
+          "lemma": "صَبَرَ يَصْبِرُ"
+        },
+        {
+          "w": "الْأَخْبَارُ",
+          "root": "خ ب ر",
+          "bs": "vijesti",
+          "en": "news",
+          "lemma": "خَبَرٌ / أَخْبَارٌ"
+        },
+        {
+          "w": "الْجَيِّدَةُ",
+          "root": "ج و د",
+          "bs": "dobre",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["patience", "proverb", "school"]
+    "tags": [
+      "patience",
+      "proverb",
+      "school"
+    ]
   }
 }

@@ -8,11 +8,41 @@
       "translation": "Majka je kupila banane, grožđe i nar.",
       "translationEn": "The mother bought bananas, grapes, and pomegranate.",
       "words": [
-        { "w": "اشْتَرَتِ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
-        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "مَوْزًا", "root": "م و ز", "bs": "banane", "en": "bananas" },
-        { "w": "عِنَبًا", "root": "ع ن ب", "bs": "grožđe", "en": "grapes" },
-        { "w": "رُمَّانًا", "root": "ر م م", "bs": "nar/šipak", "en": "pomegranate" }
+        {
+          "w": "اشْتَرَتِ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "مَوْزًا",
+          "root": "م و ز",
+          "bs": "banane",
+          "en": "bananas",
+          "lemma": "مَوْزٌ / مَوْزَةٌ"
+        },
+        {
+          "w": "عِنَبًا",
+          "root": "ع ن ب",
+          "bs": "grožđe",
+          "en": "grapes",
+          "lemma": "عِنَبٌ"
+        },
+        {
+          "w": "رُمَّانًا",
+          "root": "ر م م",
+          "bs": "nar/šipak",
+          "en": "pomegranate",
+          "lemma": "رُمَّانٌ / رُمَّانَةٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Isrekla je voće i stavila ga u jedan tanjir.",
       "translationEn": "She cut the fruits and placed them in one dish.",
       "words": [
-        { "w": "قَطَّعَتِ", "root": "ق ط ع", "bs": "isrekla je/narezala", "en": "cut" },
-        { "w": "الْفَوَاكِهَ", "root": "ف و ك", "bs": "voće", "en": "fruits" },
-        { "w": "وَضَعَتْهَا", "root": "و ض ع", "bs": "stavila ga je", "en": "placed them" },
-        { "w": "طَبَقٍ", "root": "ط ب ق", "bs": "tanjir/posuda", "en": "dish/plate" }
+        {
+          "w": "قَطَّعَتِ",
+          "root": "ق ط ع",
+          "bs": "isrekla je/narezala",
+          "en": "cut",
+          "lemma": "قَطَّعَ يُقَطِّعُ"
+        },
+        {
+          "w": "الْفَوَاكِهَ",
+          "root": "ف و ك",
+          "bs": "voće",
+          "en": "fruits",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "وَضَعَتْهَا",
+          "root": "و ض ع",
+          "bs": "stavila ga je",
+          "en": "placed them",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "طَبَقٍ",
+          "root": "ط ب ق",
+          "bs": "tanjir/posuda",
+          "en": "dish/plate",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Donijela je tanjir gostima uz čaj.",
       "translationEn": "She offered the dish to the guests with tea.",
       "words": [
-        { "w": "قَدَّمَتِ", "root": "ق د م", "bs": "donijela je/ponudila", "en": "offered" },
-        { "w": "الطَّبَقَ", "root": "ط ب ق", "bs": "tanjir/tanjiru", "en": "dish/plate" },
-        { "w": "الضُّيُوفِ", "root": "ض ي ف", "bs": "gosti", "en": "guests" },
-        { "w": "الشَّايِ", "root": "ش ي أ", "bs": "čaj", "en": "tea" }
+        {
+          "w": "قَدَّمَتِ",
+          "root": "ق د م",
+          "bs": "donijela je/ponudila",
+          "en": "offered",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الطَّبَقَ",
+          "root": "ط ب ق",
+          "bs": "tanjir/tanjiru",
+          "en": "dish/plate",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "الضُّيُوفِ",
+          "root": "ض ي ف",
+          "bs": "gosti",
+          "en": "guests",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "الشَّايِ",
+          "root": "ش ي أ",
+          "bs": "čaj",
+          "en": "tea",
+          "lemma": "شَايٌ"
+        }
       ]
     },
     {
@@ -42,10 +120,34 @@
       "translation": "Gosti su pohvalili lijep domaćinski prijem.",
       "translationEn": "The guests praised the generous hospitality.",
       "words": [
-        { "w": "أَثْنَى", "root": "ث ن ي", "bs": "pohvalili su/veličali", "en": "praised" },
-        { "w": "الضُّيُوفُ", "root": "ض ي ف", "bs": "gosti", "en": "guests" },
-        { "w": "حُسْنِ", "root": "ح س ن", "bs": "ljepotu/dobrotu", "en": "goodness/beauty" },
-        { "w": "الضِّيَافَةِ", "root": "ض ي ف", "bs": "gostoprimstvo/doček gostiju", "en": "hospitality" }
+        {
+          "w": "أَثْنَى",
+          "root": "ث ن ي",
+          "bs": "pohvalili su/veličali",
+          "en": "praised",
+          "lemma": "أَثْنَى يُثْنِي"
+        },
+        {
+          "w": "الضُّيُوفُ",
+          "root": "ض ي ف",
+          "bs": "gosti",
+          "en": "guests",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "حُسْنِ",
+          "root": "ح س ن",
+          "bs": "ljepotu/dobrotu",
+          "en": "goodness/beauty",
+          "lemma": "حُسْنٌ"
+        },
+        {
+          "w": "الضِّيَافَةِ",
+          "root": "ض ي ف",
+          "bs": "gostoprimstvo/doček gostiju",
+          "en": "hospitality",
+          "lemma": "ضِيَافَةٌ / ضِيَافَاتٌ"
+        }
       ]
     }
   ],

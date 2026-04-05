@@ -12,19 +12,22 @@
           "w": "الطِّفْلَةُ",
           "root": "ط ف ل",
           "bs": "djevojčica",
-          "en": "girl"
+          "en": "girl",
+          "lemma": "طِفْلَةٌ / طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "مَرِيضَةً",
           "root": "م ر ض",
           "bs": "bolesna",
-          "en": "sick"
+          "en": "sick",
+          "lemma": "مَرِيضٌ"
         },
         {
           "w": "تَنَمْ",
           "root": "ن و م",
           "bs": "spava",
-          "en": "sleep"
+          "en": "sleep",
+          "lemma": "نَامَ يَنَامُ"
         }
       ]
     },
@@ -37,25 +40,29 @@
           "w": "جَلَسَتْ",
           "root": "ج ل س",
           "bs": "sjedila je",
-          "en": "sat"
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
         },
         {
           "w": "أُمُّهَا",
           "root": "أ م م",
           "bs": "majka",
-          "en": "mother"
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
         },
         {
           "w": "بِجَانِبِهَا",
           "root": "ج ن ب",
           "bs": "kraj nje",
-          "en": "beside her"
+          "en": "beside her",
+          "lemma": "جَانِبٌ / جَوَانِبُ"
         },
         {
           "w": "اللَّيْلِ",
           "root": "ل ي ل",
           "bs": "noć",
-          "en": "night"
+          "en": "night",
+          "lemma": "لَيْلٌ"
         }
       ]
     },
@@ -68,25 +75,29 @@
           "w": "أَعْطَتْهَا",
           "root": "ع ط ي",
           "bs": "dala joj je",
-          "en": "gave her"
+          "en": "gave her",
+          "lemma": "أَعْطَى يُعْطِي"
         },
         {
           "w": "الدَّوَاءَ",
           "root": "د و ي",
           "bs": "lijek",
-          "en": "medicine"
+          "en": "medicine",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
         },
         {
           "w": "رَوَتْ",
           "root": "ر و ي",
           "bs": "ispričala je",
-          "en": "told"
+          "en": "told",
+          "lemma": "رَوَى يَرْوِي"
         },
         {
           "w": "قِصَّةً",
           "root": "ق ص ص",
           "bs": "priča",
-          "en": "story"
+          "en": "story",
+          "lemma": "قِصَّةٌ / قِصَصٌ"
         }
       ]
     },
@@ -99,19 +110,22 @@
           "w": "انْخَفَضَتِ",
           "root": "خ ف ض",
           "bs": "opala je",
-          "en": "went down"
+          "en": "went down",
+          "lemma": "انْخَفَضَ يَنْخَفِضُ"
         },
         {
           "w": "الْحَرَارَةُ",
           "root": "ح ر ر",
           "bs": "temperatura",
-          "en": "temperature"
+          "en": "temperature",
+          "lemma": "حَرَارَةٌ"
         },
         {
           "w": "ابْتَسَمَتْ",
           "root": "ب س م",
           "bs": "nasmiješila se",
-          "en": "smiled"
+          "en": "smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
         }
       ]
     }

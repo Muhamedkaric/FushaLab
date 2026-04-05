@@ -8,10 +8,34 @@
       "translation": "Jasirova majka je htjela kupiti novi namještaj za kuću.",
       "translationEn": "Jasir's mother wanted to buy new furniture for the house.",
       "words": [
-        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
-        { "w": "شِرَاءَ", "root": "ش ر ي", "bs": "kupovinu", "en": "to buy" },
-        { "w": "أَثَاثٍ", "root": "أ ث ث", "bs": "namještaj", "en": "furniture" },
-        { "w": "جَدِيدٍ", "root": "ج د د", "bs": "novi", "en": "new" }
+        {
+          "w": "أَرَادَتْ",
+          "root": "ر و د",
+          "bs": "htjela je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "شِرَاءَ",
+          "root": "ش ر ي",
+          "bs": "kupovinu",
+          "en": "to buy",
+          "lemma": "شِرَاءٌ"
+        },
+        {
+          "w": "أَثَاثٍ",
+          "root": "أ ث ث",
+          "bs": "namještaj",
+          "en": "furniture",
+          "lemma": "أَثَاثٌ"
+        },
+        {
+          "w": "جَدِيدٍ",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new",
+          "lemma": "جَدِيدٌ / جُدُدٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Uspoređivala je cijene u više od jedne prodavnice.",
       "translationEn": "She compared prices in more than one shop.",
       "words": [
-        { "w": "قَارَنَتِ", "root": "ق ر ن", "bs": "uspoređivala je", "en": "compared" },
-        { "w": "الأَسْعَارَ", "root": "س ع ر", "bs": "cijene", "en": "prices" },
-        { "w": "مَحَلٍّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" }
+        {
+          "w": "قَارَنَتِ",
+          "root": "ق ر ن",
+          "bs": "uspoređivala je",
+          "en": "compared",
+          "lemma": "قَارَنَ يُقَارِنُ"
+        },
+        {
+          "w": "الأَسْعَارَ",
+          "root": "س ع ر",
+          "bs": "cijene",
+          "en": "prices",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        },
+        {
+          "w": "مَحَلٍّ",
+          "root": "ح ل ل",
+          "bs": "prodavnica",
+          "en": "shop",
+          "lemma": "مَحَلٌّ / مَحَلَّاتٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Pronašla je lijep namještaj po odgovarajućoj cijeni.",
       "translationEn": "She found beautiful furniture at a reasonable price.",
       "words": [
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
-        { "w": "أَثَاثًا", "root": "أ ث ث", "bs": "namještaj", "en": "furniture" },
-        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijep", "en": "beautiful" },
-        { "w": "سِعْرٍ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "أَثَاثًا",
+          "root": "أ ث ث",
+          "bs": "namještaj",
+          "en": "furniture",
+          "lemma": "أَثَاثٌ"
+        },
+        {
+          "w": "جَمِيلًا",
+          "root": "ج م ل",
+          "bs": "lijep",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "سِعْرٍ",
+          "root": "س ع ر",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        }
       ]
     },
     {
@@ -40,10 +106,34 @@
       "translation": "Platila je iznos i zatražila dostavu kući.",
       "translationEn": "She paid the amount and asked for delivery to the house.",
       "words": [
-        { "w": "دَفَعَتِ", "root": "د ف ع", "bs": "platila je", "en": "paid" },
-        { "w": "المَبْلَغَ", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
-        { "w": "طَلَبَتِ", "root": "ط ل ب", "bs": "zatražila je", "en": "asked for" },
-        { "w": "التَّوْصِيلَ", "root": "و ص ل", "bs": "dostava", "en": "delivery" }
+        {
+          "w": "دَفَعَتِ",
+          "root": "د ف ع",
+          "bs": "platila je",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "المَبْلَغَ",
+          "root": "ب ل غ",
+          "bs": "iznos",
+          "en": "amount",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        },
+        {
+          "w": "طَلَبَتِ",
+          "root": "ط ل ب",
+          "bs": "zatražila je",
+          "en": "asked for",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "التَّوْصِيلَ",
+          "root": "و ص ل",
+          "bs": "dostava",
+          "en": "delivery",
+          "lemma": "تَوْصِيلٌ / تَوْصِيلَاتٌ"
+        }
       ]
     },
     {
@@ -51,14 +141,36 @@
       "translation": "Bila je sretna zbog svog dobrog izbora.",
       "translationEn": "She was happy with her good choice.",
       "words": [
-        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
-        { "w": "بِاخْتِيَارِهَا", "root": "خ ي ر", "bs": "njenim izborom", "en": "with her choice" },
-        { "w": "الجَيِّدِ", "root": "ج ي د", "bs": "dobrog", "en": "good" }
+        {
+          "w": "سَعِيدَةً",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "بِاخْتِيَارِهَا",
+          "root": "خ ي ر",
+          "bs": "njenim izborom",
+          "en": "with her choice",
+          "lemma": "اِخْتِيَارٌ / اِخْتِيَارَاتٌ"
+        },
+        {
+          "w": "الجَيِّدِ",
+          "root": "ج ي د",
+          "bs": "dobrog",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["furniture", "shopping", "price-comparison"]
+    "tags": [
+      "furniture",
+      "shopping",
+      "price-comparison"
+    ]
   }
 }

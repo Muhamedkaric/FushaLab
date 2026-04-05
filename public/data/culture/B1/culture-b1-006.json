@@ -8,10 +8,34 @@
       "translation": "Džuma je važan dan za muslimane.",
       "translationEn": "Friday is an important day for Muslims.",
       "words": [
-        { "w": "الجُمُعَةِ", "root": "ج م ع", "bs": "džuma", "en": "Friday" },
-        { "w": "يَوْمٌ", "root": "ي و م", "bs": "dan", "en": "day" },
-        { "w": "مُهِمٌّ", "root": "هـ م م", "bs": "važan", "en": "important" },
-        { "w": "المُسْلِمِينَ", "root": "س ل م", "bs": "muslimanima", "en": "Muslims" }
+        {
+          "w": "الجُمُعَةِ",
+          "root": "ج م ع",
+          "bs": "džuma",
+          "en": "Friday",
+          "lemma": "جُمُعَةٌ / جُمَعٌ"
+        },
+        {
+          "w": "يَوْمٌ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "root": "هـ م م",
+          "bs": "važan",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "المُسْلِمِينَ",
+          "root": "س ل م",
+          "bs": "muslimanima",
+          "en": "Muslims",
+          "lemma": "مُسْلِمٌ / مُسْلِمُونَ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Muškarci idu u džamiju na džuma-namaz.",
       "translationEn": "Men go to the mosque for Friday prayer.",
       "words": [
-        { "w": "يَذْهَبُ", "root": "ذ هـ ب", "bs": "idu", "en": "go" },
-        { "w": "الرِّجَالُ", "root": "ر ج ل", "bs": "muškarci", "en": "men" },
-        { "w": "المَسْجِدِ", "root": "س ج د", "bs": "džamiju", "en": "mosque" },
-        { "w": "صَلَاةِ", "root": "ص ل و", "bs": "namazu", "en": "prayer" }
+        {
+          "w": "يَذْهَبُ",
+          "root": "ذ هـ ب",
+          "bs": "idu",
+          "en": "go",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الرِّجَالُ",
+          "root": "ر ج ل",
+          "bs": "muškarci",
+          "en": "men",
+          "lemma": "رَجُلٌ / رِجَالٌ"
+        },
+        {
+          "w": "المَسْجِدِ",
+          "root": "س ج د",
+          "bs": "džamiju",
+          "en": "mosque",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "صَلَاةِ",
+          "root": "ص ل و",
+          "bs": "namazu",
+          "en": "prayer",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Slušaju hutbu prije namaza.",
       "translationEn": "They listen to the sermon before the prayer.",
       "words": [
-        { "w": "يَسْتَمِعُونَ", "root": "س م ع", "bs": "slušaju", "en": "listen" },
-        { "w": "الخُطْبَةِ", "root": "خ ط ب", "bs": "hutbu", "en": "sermon" },
-        { "w": "الصَّلَاةِ", "root": "ص ل و", "bs": "namaza", "en": "prayer" }
+        {
+          "w": "يَسْتَمِعُونَ",
+          "root": "س م ع",
+          "bs": "slušaju",
+          "en": "listen",
+          "lemma": "اِسْتَمَعَ يَسْتَمِعُ"
+        },
+        {
+          "w": "الخُطْبَةِ",
+          "root": "خ ط ب",
+          "bs": "hutbu",
+          "en": "sermon",
+          "lemma": "خُطْبَةٌ / خُطَبٌ"
+        },
+        {
+          "w": "الصَّلَاةِ",
+          "root": "ص ل و",
+          "bs": "namaza",
+          "en": "prayer",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        }
       ]
     },
     {
@@ -40,8 +106,20 @@
       "translation": "Nakon namaza, razgovaraju međusobno.",
       "translationEn": "After the prayer, they talk with each other.",
       "words": [
-        { "w": "الصَّلَاةِ", "root": "ص ل و", "bs": "namaza", "en": "prayer" },
-        { "w": "يَتَحَدَّثُونَ", "root": "ح د ث", "bs": "razgovaraju", "en": "talk" }
+        {
+          "w": "الصَّلَاةِ",
+          "root": "ص ل و",
+          "bs": "namaza",
+          "en": "prayer",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        },
+        {
+          "w": "يَتَحَدَّثُونَ",
+          "root": "ح د ث",
+          "bs": "razgovaraju",
+          "en": "talk",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        }
       ]
     },
     {
@@ -49,10 +127,34 @@
       "translation": "Ovaj dan je vrijeme za odmor i porodicu.",
       "translationEn": "This day is a time for rest and family.",
       "words": [
-        { "w": "اليَوْمُ", "root": "ي و م", "bs": "dan", "en": "day" },
-        { "w": "وَقْتٌ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
-        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "odmora", "en": "rest" },
-        { "w": "العَائِلَةِ", "root": "ع و ل", "bs": "porodice", "en": "family" }
+        {
+          "w": "اليَوْمُ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "وَقْتٌ",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "odmora",
+          "en": "rest",
+          "lemma": "رَاحَةٌ"
+        },
+        {
+          "w": "العَائِلَةِ",
+          "root": "ع و ل",
+          "bs": "porodice",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        }
       ]
     }
   ],

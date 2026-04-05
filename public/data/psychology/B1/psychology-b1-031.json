@@ -8,11 +8,41 @@
       "translation": "Čovjek se osjeća ugodno kada sredi svoju sobu.",
       "translationEn": "A person feels at ease when they tidy their room.",
       "words": [
-        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
-        { "w": "الإِنْسَانُ", "root": "أ ن س", "bs": "čovjek", "en": "person" },
-        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "ugodnost", "en": "ease" },
-        { "w": "يُرَتِّبُ", "root": "ر ت ب", "bs": "kada sredi", "en": "tidies" },
-        { "w": "غُرْفَتَهُ", "root": "غ ر ف", "bs": "njegova soba", "en": "their room" }
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الإِنْسَانُ",
+          "root": "أ ن س",
+          "bs": "čovjek",
+          "en": "person",
+          "lemma": "إِنْسَانٌ / نَاسٌ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "ugodnost",
+          "en": "ease",
+          "lemma": "رَاحَةٌ"
+        },
+        {
+          "w": "يُرَتِّبُ",
+          "root": "ر ت ب",
+          "bs": "kada sredi",
+          "en": "tidies",
+          "lemma": "رَتَّبَ يُرَتِّبُ"
+        },
+        {
+          "w": "غُرْفَتَهُ",
+          "root": "غ ر ف",
+          "bs": "njegova soba",
+          "en": "their room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Ranim je pažljivo sredila knjige i odjeću.",
       "translationEn": "Ranim tidied her books and clothes carefully.",
       "words": [
-        { "w": "رَتَّبَتْ", "root": "ر ت ب", "bs": "sredila je", "en": "tidied" },
-        { "w": "كُتُبَهَا", "root": "ك ت ب", "bs": "njene knjige", "en": "her books" },
-        { "w": "مَلَابِسَهَا", "root": "ل ب س", "bs": "njena odjeća", "en": "her clothes" },
-        { "w": "بِعِنَايَةٍ", "root": "ع ن ي", "bs": "pažljivo", "en": "carefully" }
+        {
+          "w": "رَتَّبَتْ",
+          "root": "ر ت ب",
+          "bs": "sredila je",
+          "en": "tidied",
+          "lemma": "رَتَّبَ يُرَتِّبُ"
+        },
+        {
+          "w": "كُتُبَهَا",
+          "root": "ك ت ب",
+          "bs": "njene knjige",
+          "en": "her books",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "مَلَابِسَهَا",
+          "root": "ل ب س",
+          "bs": "njena odjeća",
+          "en": "her clothes",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
+        },
+        {
+          "w": "بِعِنَايَةٍ",
+          "root": "ع ن ي",
+          "bs": "pažljivo",
+          "en": "carefully",
+          "lemma": "عِنَايَةٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Pogledala je uređenu sobu i osjetila radost.",
       "translationEn": "She looked at the tidy room and felt pleased.",
       "words": [
-        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "pogledala je", "en": "looked" },
-        { "w": "الْغُرْفَةِ", "root": "غ ر ف", "bs": "soba", "en": "room" },
-        { "w": "الْمُرَتَّبَةِ", "root": "ر ت ب", "bs": "uređena", "en": "tidy" },
-        { "w": "السُّرُورِ", "root": "س ر ر", "bs": "radost", "en": "pleasure" }
+        {
+          "w": "نَظَرَتْ",
+          "root": "ن ظ ر",
+          "bs": "pogledala je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "الْغُرْفَةِ",
+          "root": "غ ر ف",
+          "bs": "soba",
+          "en": "room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        },
+        {
+          "w": "الْمُرَتَّبَةِ",
+          "root": "ر ت ب",
+          "bs": "uređena",
+          "en": "tidy",
+          "lemma": "مُرَتَّبٌ"
+        },
+        {
+          "w": "السُّرُورِ",
+          "root": "س ر ر",
+          "bs": "radost",
+          "en": "pleasure",
+          "lemma": "سُرُورٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,43 @@
       "translation": "Red na mjestu odmara um.",
       "translationEn": "Order in a place rests the mind.",
       "words": [
-        { "w": "النِّظَامُ", "root": "ن ظ م", "bs": "red", "en": "order" },
-        { "w": "الْمَكَانِ", "root": "ك و ن", "bs": "mjesto", "en": "place" },
-        { "w": "يُرِيحُ", "root": "ر و ح", "bs": "odmara", "en": "rests" },
-        { "w": "الذِّهْنَ", "root": "ذ ه ن", "bs": "um", "en": "mind" }
+        {
+          "w": "النِّظَامُ",
+          "root": "ن ظ م",
+          "bs": "red",
+          "en": "order",
+          "lemma": "نِظَامٌ / أَنْظِمَةٌ"
+        },
+        {
+          "w": "الْمَكَانِ",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "يُرِيحُ",
+          "root": "ر و ح",
+          "bs": "odmara",
+          "en": "rests",
+          "lemma": "أَرَاحَ يُرِيحُ"
+        },
+        {
+          "w": "الذِّهْنَ",
+          "root": "ذ ه ن",
+          "bs": "um",
+          "en": "mind",
+          "lemma": "ذِهْنٌ / أَذْهَانٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["tidiness", "order", "wellbeing"]
+    "tags": [
+      "tidiness",
+      "order",
+      "wellbeing"
+    ]
   }
 }

@@ -8,9 +8,27 @@
       "translation": "Jasir se jako bojao ispita.",
       "translationEn": "Yasir was very afraid of exams.",
       "words": [
-        { "w": "يَخَافُ", "root": "خ و ف", "bs": "bojao se", "en": "was afraid" },
-        { "w": "الاِمْتِحَانَاتِ", "root": "م ح ن", "bs": "ispiti", "en": "exams" },
-        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "jako/mnogo", "en": "very much/a lot" }
+        {
+          "w": "يَخَافُ",
+          "root": "خ و ف",
+          "bs": "bojao se",
+          "en": "was afraid",
+          "lemma": "خَافَ يَخَافُ"
+        },
+        {
+          "w": "الاِمْتِحَانَاتِ",
+          "root": "م ح ن",
+          "bs": "ispiti",
+          "en": "exams",
+          "lemma": "اِمْتِحَانٌ / اِمْتِحَانَاتٌ"
+        },
+        {
+          "w": "كَثِيرًا",
+          "root": "ك ث ر",
+          "bs": "jako/mnogo",
+          "en": "very much/a lot",
+          "lemma": "كَثِيرٌ"
+        }
       ]
     },
     {
@@ -18,11 +36,41 @@
       "translation": "Sestra je sjedila s njim i ponavljala gradivo svake večeri.",
       "translationEn": "His sister sat with him reviewing the lessons every night.",
       "words": [
-        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjedila je", "en": "sat" },
-        { "w": "أُخْتُهُ", "root": "أ خ و", "bs": "njegova sestra", "en": "his sister" },
-        { "w": "تُرَاجِعُ", "root": "ر ج ع", "bs": "ponavljala je", "en": "reviewing" },
-        { "w": "الدُّرُوسَ", "root": "د ر س", "bs": "lekcije/gradivo", "en": "lessons" },
-        { "w": "لَيْلَةٍ", "root": "ل ي ل", "bs": "večer/noć", "en": "night/evening" }
+        {
+          "w": "جَلَسَتْ",
+          "root": "ج ل س",
+          "bs": "sjedila je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "أُخْتُهُ",
+          "root": "أ خ و",
+          "bs": "njegova sestra",
+          "en": "his sister",
+          "lemma": "أُخْتٌ / أَخَوَاتٌ"
+        },
+        {
+          "w": "تُرَاجِعُ",
+          "root": "ر ج ع",
+          "bs": "ponavljala je",
+          "en": "reviewing",
+          "lemma": "رَاجَعَ يُرَاجِعُ"
+        },
+        {
+          "w": "الدُّرُوسَ",
+          "root": "د ر س",
+          "bs": "lekcije/gradivo",
+          "en": "lessons",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
+        },
+        {
+          "w": "لَيْلَةٍ",
+          "root": "ل ي ل",
+          "bs": "večer/noć",
+          "en": "night/evening",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Uz njenu pomoć Jasir se osjećao samopouzdanije.",
       "translationEn": "With her help Yasir felt more confident.",
       "words": [
-        { "w": "بِمُسَاعَدَتِهَا", "root": "س ع د", "bs": "uz njenu pomoć", "en": "with her help" },
-        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjećao se", "en": "felt" },
-        { "w": "بِثِقَةٍ", "root": "ث ق ة", "bs": "samopouzdanje", "en": "confidence" }
+        {
+          "w": "بِمُسَاعَدَتِهَا",
+          "root": "س ع د",
+          "bs": "uz njenu pomoć",
+          "en": "with her help",
+          "lemma": "مُسَاعَدَةٌ"
+        },
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjećao se",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِثِقَةٍ",
+          "root": "ث ق ة",
+          "bs": "samopouzdanje",
+          "en": "confidence",
+          "lemma": "ثِقَةٌ"
+        }
       ]
     },
     {
@@ -40,16 +106,50 @@
       "translation": "Položio je ispit i iskreno zahvalio sestri.",
       "translationEn": "He passed the exam and sincerely thanked his sister.",
       "words": [
-        { "w": "نَجَحَ", "root": "ن ج ح", "bs": "položio je/uspio", "en": "passed/succeeded" },
-        { "w": "الاِمْتِحَانِ", "root": "م ح ن", "bs": "ispit", "en": "exam" },
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
-        { "w": "أُخْتَهُ", "root": "أ خ و", "bs": "njegova sestra", "en": "his sister" },
-        { "w": "بِصِدْقٍ", "root": "ص د ق", "bs": "iskreno", "en": "sincerely" }
+        {
+          "w": "نَجَحَ",
+          "root": "ن ج ح",
+          "bs": "položio je/uspio",
+          "en": "passed/succeeded",
+          "lemma": "نَجَحَ يَنْجَحُ"
+        },
+        {
+          "w": "الاِمْتِحَانِ",
+          "root": "م ح ن",
+          "bs": "ispit",
+          "en": "exam",
+          "lemma": "اِمْتِحَانٌ / اِمْتِحَانَاتٌ"
+        },
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "أُخْتَهُ",
+          "root": "أ خ و",
+          "bs": "njegova sestra",
+          "en": "his sister",
+          "lemma": "أُخْتٌ / أَخَوَاتٌ"
+        },
+        {
+          "w": "بِصِدْقٍ",
+          "root": "ص د ق",
+          "bs": "iskreno",
+          "en": "sincerely",
+          "lemma": "صِدْقٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school", "siblings", "support"]
+    "tags": [
+      "school",
+      "siblings",
+      "support"
+    ]
   }
 }

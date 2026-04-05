@@ -8,9 +8,27 @@
       "translation": "Bila je djevojčica po imenu Ludžejn koja je voljela crtanje.",
       "translationEn": "There was a girl named Lujain who loved drawing.",
       "words": [
-        { "w": "بِنْتٌ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
-        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voljela je", "en": "loved" },
-        { "w": "الرَّسْمَ", "root": "ر س م", "bs": "crtanje", "en": "drawing" }
+        {
+          "w": "بِنْتٌ",
+          "root": "ب ن ت",
+          "bs": "djevojčica",
+          "en": "girl",
+          "lemma": "بِنْتٌ / بَنَاتٌ"
+        },
+        {
+          "w": "تُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voljela je",
+          "en": "loved",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الرَّسْمَ",
+          "root": "ر س م",
+          "bs": "crtanje",
+          "en": "drawing",
+          "lemma": "رَسْمٌ / رُسُومٌ"
+        }
       ]
     },
     {
@@ -18,11 +36,41 @@
       "translation": "Nacrtala je sliku neba, stabla i rijeke.",
       "translationEn": "She drew a picture of the sky, trees, and river.",
       "words": [
-        { "w": "رَسَمَتْ", "root": "ر س م", "bs": "nacrtala je", "en": "drew" },
-        { "w": "صُورَةً", "root": "ص و ر", "bs": "slika", "en": "picture" },
-        { "w": "السَّمَاءِ", "root": "س م و", "bs": "nebo", "en": "sky" },
-        { "w": "الشَّجَرِ", "root": "ش ج ر", "bs": "stabla", "en": "trees" },
-        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "river" }
+        {
+          "w": "رَسَمَتْ",
+          "root": "ر س م",
+          "bs": "nacrtala je",
+          "en": "drew",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        },
+        {
+          "w": "صُورَةً",
+          "root": "ص و ر",
+          "bs": "slika",
+          "en": "picture",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "السَّمَاءِ",
+          "root": "س م و",
+          "bs": "nebo",
+          "en": "sky",
+          "lemma": "سَمَاءٌ / سَمَاوَاتٌ"
+        },
+        {
+          "w": "الشَّجَرِ",
+          "root": "ش ج ر",
+          "bs": "stabla",
+          "en": "trees",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "النَّهْرِ",
+          "root": "ن ه ر",
+          "bs": "rijeka",
+          "en": "river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Pokazala je sliku učiteljici koja joj se jako svidjela.",
       "translationEn": "She showed the picture to her teacher who admired it very much.",
       "words": [
-        { "w": "أَرَتِ", "root": "ر أ ي", "bs": "pokazala je", "en": "showed" },
-        { "w": "الصُّورَةَ", "root": "ص و ر", "bs": "sliku", "en": "picture" },
-        { "w": "مُعَلِّمَتِهَا", "root": "ع ل م", "bs": "njena učiteljica", "en": "her teacher" },
-        { "w": "أُعْجِبَتْ", "root": "ع ج ب", "bs": "svidjela joj se", "en": "admired" }
+        {
+          "w": "أَرَتِ",
+          "root": "ر أ ي",
+          "bs": "pokazala je",
+          "en": "showed",
+          "lemma": "أَرَى يُرِي"
+        },
+        {
+          "w": "الصُّورَةَ",
+          "root": "ص و ر",
+          "bs": "sliku",
+          "en": "picture",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "مُعَلِّمَتِهَا",
+          "root": "ع ل م",
+          "bs": "njena učiteljica",
+          "en": "her teacher",
+          "lemma": "مُعَلِّمَةٌ / مُعَلِّمَاتٌ"
+        },
+        {
+          "w": "أُعْجِبَتْ",
+          "root": "ع ج ب",
+          "bs": "svidjela joj se",
+          "en": "admired",
+          "lemma": "أُعْجِبَ يُعْجَبُ"
+        }
       ]
     },
     {
@@ -41,16 +113,51 @@
       "translation": "Slika je okačena na zid učionice i Ludžejn se obradovala.",
       "translationEn": "The picture was hung on the classroom wall and Lujain was happy.",
       "words": [
-        { "w": "عُلِّقَتِ", "root": "ع ل ق", "bs": "okačena je", "en": "was hung" },
-        { "w": "الصُّورَةُ", "root": "ص و ر", "bs": "slika", "en": "picture" },
-        { "w": "جِدَارِ", "root": "ج د ر", "bs": "zid", "en": "wall" },
-        { "w": "الْفَصْلِ", "root": "ف ص ل", "bs": "učionica", "en": "classroom" },
-        { "w": "فَرِحَتْ", "root": "ف ر ح", "bs": "obradovala se", "en": "was happy" }
+        {
+          "w": "عُلِّقَتِ",
+          "root": "ع ل ق",
+          "bs": "okačena je",
+          "en": "was hung",
+          "lemma": "عَلَّقَ يُعَلِّقُ"
+        },
+        {
+          "w": "الصُّورَةُ",
+          "root": "ص و ر",
+          "bs": "slika",
+          "en": "picture",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "جِدَارِ",
+          "root": "ج د ر",
+          "bs": "zid",
+          "en": "wall",
+          "lemma": "جِدَارٌ / جُدُرٌ"
+        },
+        {
+          "w": "الْفَصْلِ",
+          "root": "ف ص ل",
+          "bs": "učionica",
+          "en": "classroom",
+          "lemma": "فَصْلٌ / فُصُولٌ"
+        },
+        {
+          "w": "فَرِحَتْ",
+          "root": "ف ر ح",
+          "bs": "obradovala se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["drawing", "girl", "school", "art"]
+    "tags": [
+      "drawing",
+      "girl",
+      "school",
+      "art"
+    ]
   }
 }

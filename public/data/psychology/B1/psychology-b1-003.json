@@ -8,11 +8,41 @@
       "translation": "Omer se osjećao tužno kada se njegov prijatelj preselio u drugi grad.",
       "translationEn": "Omar felt sad when his friend moved to another city.",
       "words": [
-        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjećao se", "en": "felt" },
-        { "w": "الْحُزْنِ", "root": "ح ز ن", "bs": "tuga", "en": "sadness" },
-        { "w": "انْتَقَلَ", "root": "ن ق ل", "bs": "preselio se", "en": "moved" },
-        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" },
-        { "w": "مَدِينَةٍ", "root": "د ي ن", "bs": "grad", "en": "a city" }
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjećao se",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الْحُزْنِ",
+          "root": "ح ز ن",
+          "bs": "tuga",
+          "en": "sadness",
+          "lemma": "حُزْنٌ"
+        },
+        {
+          "w": "انْتَقَلَ",
+          "root": "ن ق ل",
+          "bs": "preselio se",
+          "en": "moved",
+          "lemma": "انْتَقَلَ يَنْتَقِلُ"
+        },
+        {
+          "w": "صَدِيقُهُ",
+          "root": "ص د ق",
+          "bs": "njegov prijatelj",
+          "en": "his friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "مَدِينَةٍ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "a city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -20,8 +50,20 @@
       "translation": "Nedostajalo mu je igranje s njim svaki dan.",
       "translationEn": "He missed playing with him every day.",
       "words": [
-        { "w": "يَفْتَقِدُ", "root": "ف ق د", "bs": "nedostaje mu", "en": "misses" },
-        { "w": "اللَّعِبَ", "root": "ل ع ب", "bs": "igranje", "en": "playing" }
+        {
+          "w": "يَفْتَقِدُ",
+          "root": "ف ق د",
+          "bs": "nedostaje mu",
+          "en": "misses",
+          "lemma": "اِفْتَقَدَ يَفْتَقِدُ"
+        },
+        {
+          "w": "اللَّعِبَ",
+          "root": "ل ع ب",
+          "bs": "igranje",
+          "en": "playing",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Razgovarali su telefonom svake sedmice.",
       "translationEn": "They talked on the phone every week.",
       "words": [
-        { "w": "تَحَدَّثَا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
-        { "w": "الْهَاتِفِ", "root": "ه ت ف", "bs": "telefon", "en": "the phone" },
-        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmice", "en": "a week" }
+        {
+          "w": "تَحَدَّثَا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "الْهَاتِفِ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "the phone",
+          "lemma": "هَاتِفٌ / هَوَاتِفُ"
+        },
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "س ب ع",
+          "bs": "sedmice",
+          "en": "a week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -39,15 +99,43 @@
       "translation": "Pravo prijateljstvo ne završava udaljenošću.",
       "translationEn": "True friendship does not end with distance.",
       "words": [
-        { "w": "الصَّدَاقَةُ", "root": "ص د ق", "bs": "prijateljstvo", "en": "friendship" },
-        { "w": "الْحَقِيقِيَّةُ", "root": "ح ق ق", "bs": "pravo", "en": "true" },
-        { "w": "تَنْتَهِي", "root": "ن ه ي", "bs": "završava", "en": "ends" },
-        { "w": "الْبُعْدِ", "root": "ب ع د", "bs": "udaljenost", "en": "distance" }
+        {
+          "w": "الصَّدَاقَةُ",
+          "root": "ص د ق",
+          "bs": "prijateljstvo",
+          "en": "friendship",
+          "lemma": "صَدَاقَةٌ"
+        },
+        {
+          "w": "الْحَقِيقِيَّةُ",
+          "root": "ح ق ق",
+          "bs": "pravo",
+          "en": "true",
+          "lemma": "حَقِيقِيٌّ"
+        },
+        {
+          "w": "تَنْتَهِي",
+          "root": "ن ه ي",
+          "bs": "završava",
+          "en": "ends",
+          "lemma": "اِنْتَهَى يَنْتَهِي"
+        },
+        {
+          "w": "الْبُعْدِ",
+          "root": "ب ع د",
+          "bs": "udaljenost",
+          "en": "distance",
+          "lemma": "بُعْدٌ / أَبْعَادٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sadness", "friendship", "separation"]
+    "tags": [
+      "sadness",
+      "friendship",
+      "separation"
+    ]
   }
 }

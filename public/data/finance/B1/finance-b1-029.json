@@ -8,10 +8,34 @@
       "translation": "Sara je platila cijenu knjige kovanim novcem.",
       "translationEn": "Sara paid the price of the book with coins.",
       "words": [
-        { "w": "دَفَعَتْ", "root": "د ف ع", "bs": "platila je", "en": "paid" },
-        { "w": "ثَمَنَ", "root": "ث م ن", "bs": "cijena", "en": "price" },
-        { "w": "الكِتَابِ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "نُقُودٍ", "root": "ن ق د", "bs": "novac", "en": "coins" }
+        {
+          "w": "دَفَعَتْ",
+          "root": "د ف ع",
+          "bs": "platila je",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "ثَمَنَ",
+          "root": "ث م ن",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "ثَمَنٌ / أَثْمَانٌ"
+        },
+        {
+          "w": "الكِتَابِ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "نُقُودٍ",
+          "root": "ن ق د",
+          "bs": "novac",
+          "en": "coins",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Polako je prebrojala kovanice pred prodavačem.",
       "translationEn": "She counted the coins slowly in front of the seller.",
       "words": [
-        { "w": "عَدَّتِ", "root": "ع د د", "bs": "prebrojala je", "en": "counted" },
-        { "w": "القِطَعَ", "root": "ق ط ع", "bs": "kovanice", "en": "coins" },
-        { "w": "النَّقْدِيَّةَ", "root": "ن ق د", "bs": "metalne", "en": "metal" },
-        { "w": "بِبُطْءٍ", "root": "ب ط أ", "bs": "polako", "en": "slowly" }
+        {
+          "w": "عَدَّتِ",
+          "root": "ع د د",
+          "bs": "prebrojala je",
+          "en": "counted",
+          "lemma": "عَدَّ يَعُدُّ"
+        },
+        {
+          "w": "القِطَعَ",
+          "root": "ق ط ع",
+          "bs": "kovanice",
+          "en": "coins",
+          "lemma": "قِطْعَةٌ / قِطَعٌ"
+        },
+        {
+          "w": "النَّقْدِيَّةَ",
+          "root": "ن ق د",
+          "bs": "metalne",
+          "en": "metal",
+          "lemma": "نَقْدِيٌّ"
+        },
+        {
+          "w": "بِبُطْءٍ",
+          "root": "ب ط أ",
+          "bs": "polako",
+          "en": "slowly",
+          "lemma": "بُطْءٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Iznos je bio potpuno tačan.",
       "translationEn": "The amount was exactly right.",
       "words": [
-        { "w": "الكَمِّيَّةُ", "root": "ك م م", "bs": "iznos", "en": "amount" },
-        { "w": "صَحِيحَةً", "root": "ص ح ح", "bs": "tačan", "en": "right" },
-        { "w": "تَمَامًا", "root": "ت م م", "bs": "potpuno", "en": "exactly" }
+        {
+          "w": "الكَمِّيَّةُ",
+          "root": "ك م م",
+          "bs": "iznos",
+          "en": "amount",
+          "lemma": "كَمِّيَّةٌ / كَمِّيَّاتٌ"
+        },
+        {
+          "w": "صَحِيحَةً",
+          "root": "ص ح ح",
+          "bs": "tačan",
+          "en": "right",
+          "lemma": "صَحِيحٌ"
+        },
+        {
+          "w": "تَمَامًا",
+          "root": "ت م م",
+          "bs": "potpuno",
+          "en": "exactly",
+          "lemma": "تَمَامٌ"
+        }
       ]
     },
     {
@@ -40,10 +106,34 @@
       "translation": "Prodavač se nasmiješio i dao joj knjigu.",
       "translationEn": "The seller smiled and gave her the book.",
       "words": [
-        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" },
-        { "w": "البَائِعُ", "root": "ب ي ع", "bs": "prodavač", "en": "seller" },
-        { "w": "أَعْطَاهَا", "root": "ع ط و", "bs": "dao joj je", "en": "gave her" },
-        { "w": "الكِتَابَ", "root": "ك ت ب", "bs": "knjiga", "en": "book" }
+        {
+          "w": "ابْتَسَمَ",
+          "root": "ب س م",
+          "bs": "nasmiješio se",
+          "en": "smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "البَائِعُ",
+          "root": "ب ي ع",
+          "bs": "prodavač",
+          "en": "seller",
+          "lemma": "بَائِعٌ / بَائِعُونَ"
+        },
+        {
+          "w": "أَعْطَاهَا",
+          "root": "ع ط و",
+          "bs": "dao joj je",
+          "en": "gave her",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "الكِتَابَ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        }
       ]
     },
     {
@@ -51,15 +141,43 @@
       "translation": "Sara je izašla sretna sa svojom novom knjigom.",
       "translationEn": "Sara left happy with her new book.",
       "words": [
-        { "w": "خَرَجَتْ", "root": "خ ر ج", "bs": "izašla je", "en": "left" },
-        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
-        { "w": "بِكِتَابِهَا", "root": "ك ت ب", "bs": "sa njenom knjigom", "en": "with her book" },
-        { "w": "الجَدِيدِ", "root": "ج د د", "bs": "nova", "en": "new" }
+        {
+          "w": "خَرَجَتْ",
+          "root": "خ ر ج",
+          "bs": "izašla je",
+          "en": "left",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "سَعِيدَةً",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "بِكِتَابِهَا",
+          "root": "ك ت ب",
+          "bs": "sa njenom knjigom",
+          "en": "with her book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "الجَدِيدِ",
+          "root": "ج د د",
+          "bs": "nova",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["coins", "payment", "book"]
+    "tags": [
+      "coins",
+      "payment",
+      "book"
+    ]
   }
 }

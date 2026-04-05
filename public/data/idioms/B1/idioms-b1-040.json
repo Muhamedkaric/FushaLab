@@ -8,10 +8,34 @@
       "translation": "Muhammed je pročitao: «Strpljenjem i opreznošću postiže se ono čemu se teži».",
       "translationEn": "Muhammad read: «With patience and care, wishes are achieved».",
       "words": [
-        { "w": "الصَّبْرِ", "root": "ص ب ر", "bs": "strpljenje", "en": "patience" },
-        { "w": "التَّأَنِّي", "root": "أ ن ي", "bs": "opreznost", "en": "care" },
-        { "w": "تُنَالُ", "root": "ن ي ل", "bs": "postiže se", "en": "are achieved" },
-        { "w": "الْمَنَى", "root": "م ن ي", "bs": "želje", "en": "wishes" }
+        {
+          "w": "الصَّبْرِ",
+          "root": "ص ب ر",
+          "bs": "strpljenje",
+          "en": "patience",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "التَّأَنِّي",
+          "root": "أ ن ي",
+          "bs": "opreznost",
+          "en": "care",
+          "lemma": "تَأَنٍّ"
+        },
+        {
+          "w": "تُنَالُ",
+          "root": "ن ي ل",
+          "bs": "postiže se",
+          "en": "are achieved",
+          "lemma": "نَالَ يَنَالُ"
+        },
+        {
+          "w": "الْمَنَى",
+          "root": "م ن ي",
+          "bs": "želje",
+          "en": "wishes",
+          "lemma": "مُنْيَةٌ / مُنًى"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "To znači da strpljenje i opreznost vode do ciljeva.",
       "translationEn": "This means that patience and carefulness lead to goals.",
       "words": [
-        { "w": "الصَّبْرَ", "root": "ص ب ر", "bs": "strpljenje", "en": "patience" },
-        { "w": "التَّرَوِّيَ", "root": "ر و ي", "bs": "opreznost", "en": "carefulness" },
-        { "w": "يُوصِلَانِ", "root": "و ص ل", "bs": "vode", "en": "lead" },
-        { "w": "الأَهْدَافِ", "root": "ه د ف", "bs": "ciljevi", "en": "goals" }
+        {
+          "w": "الصَّبْرَ",
+          "root": "ص ب ر",
+          "bs": "strpljenje",
+          "en": "patience",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "التَّرَوِّيَ",
+          "root": "ر و ي",
+          "bs": "opreznost",
+          "en": "carefulness",
+          "lemma": "تَرَوٍّ"
+        },
+        {
+          "w": "يُوصِلَانِ",
+          "root": "و ص ل",
+          "bs": "vode",
+          "en": "lead",
+          "lemma": "أَوْصَلَ يُوصِلُ"
+        },
+        {
+          "w": "الأَهْدَافِ",
+          "root": "ه د ف",
+          "bs": "ciljevi",
+          "en": "goals",
+          "lemma": "هَدَفٌ / أَهْدَافٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Muhammed je htio kupiti novi bicikl pa je štedio džeparac.",
       "translationEn": "Muhammad wanted to buy a new bicycle so he saved his pocket money.",
       "words": [
-        { "w": "شِرَاءَ", "root": "ش ر ي", "bs": "kupovina", "en": "buying" },
-        { "w": "دَرَّاجَةٍ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" },
-        { "w": "ادَّخَرَ", "root": "ذ خ ر", "bs": "štedio je", "en": "saved" },
-        { "w": "مَصْرُوفَهُ", "root": "ص ر ف", "bs": "džeparac", "en": "pocket money" }
+        {
+          "w": "شِرَاءَ",
+          "root": "ش ر ي",
+          "bs": "kupovina",
+          "en": "buying",
+          "lemma": "شِرَاءٌ"
+        },
+        {
+          "w": "دَرَّاجَةٍ",
+          "root": "د ر ج",
+          "bs": "bicikl",
+          "en": "bicycle",
+          "lemma": "دَرَّاجَةٌ / دَرَّاجَاتٌ"
+        },
+        {
+          "w": "ادَّخَرَ",
+          "root": "ذ خ ر",
+          "bs": "štedio je",
+          "en": "saved",
+          "lemma": "ادَّخَرَ يَدَّخِرُ"
+        },
+        {
+          "w": "مَصْرُوفَهُ",
+          "root": "ص ر ف",
+          "bs": "džeparac",
+          "en": "pocket money",
+          "lemma": "مَصْرُوفٌ / مَصَارِيفُ"
+        }
       ]
     },
     {
@@ -41,14 +113,36 @@
       "translation": "Nakon dva mjeseca kupio je bicikl i bio je sretan.",
       "translationEn": "After two months he bought the bicycle and was happy.",
       "words": [
-        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
-        { "w": "الدَّرَّاجَةَ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" },
-        { "w": "سَعِيدًا", "root": "س ع د", "bs": "sretan", "en": "happy" }
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "الدَّرَّاجَةَ",
+          "root": "د ر ج",
+          "bs": "bicikl",
+          "en": "bicycle",
+          "lemma": "دَرَّاجَةٌ / دَرَّاجَاتٌ"
+        },
+        {
+          "w": "سَعِيدًا",
+          "root": "س ع د",
+          "bs": "sretan",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["patience", "proverb", "goals"]
+    "tags": [
+      "patience",
+      "proverb",
+      "goals"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Bio je pastir po imenu Džabir koji je čuvao ovce u planini.",
       "translationEn": "There was a shepherd named Jabir who tended his sheep in the mountain.",
       "words": [
-        { "w": "رَاعٍ", "root": "ر ع ي", "bs": "pastir", "en": "shepherd" },
-        { "w": "يَرْعَى", "root": "ر ع ي", "bs": "čuva", "en": "tends" },
-        { "w": "الْغَنَمَ", "root": "غ ن م", "bs": "ovce", "en": "sheep" },
-        { "w": "الْجَبَلِ", "root": "ج ب ل", "bs": "planina", "en": "mountain" }
+        {
+          "w": "رَاعٍ",
+          "root": "ر ع ي",
+          "bs": "pastir",
+          "en": "shepherd",
+          "lemma": "رَاعٍ / رُعَاةٌ"
+        },
+        {
+          "w": "يَرْعَى",
+          "root": "ر ع ي",
+          "bs": "čuva",
+          "en": "tends",
+          "lemma": "رَعَى يَرْعَى"
+        },
+        {
+          "w": "الْغَنَمَ",
+          "root": "غ ن م",
+          "bs": "ovce",
+          "en": "sheep",
+          "lemma": "غَنَمٌ / أَغْنَامٌ"
+        },
+        {
+          "w": "الْجَبَلِ",
+          "root": "ج ب ل",
+          "bs": "planina",
+          "en": "mountain",
+          "lemma": "جَبَلٌ / جِبَالٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Jednog dana se malo ovče zalutalo i udaljilo od stada.",
       "translationEn": "One day a small lamb got lost and strayed from the flock.",
       "words": [
-        { "w": "ضَلَّتْ", "root": "ض ل ل", "bs": "zalutalo je", "en": "got lost" },
-        { "w": "خَرُوفٌ", "root": "خ ر ف", "bs": "ovče", "en": "lamb" },
-        { "w": "صَغِيرٌ", "root": "ص غ ر", "bs": "malo", "en": "small" },
-        { "w": "ابْتَعَدَ", "root": "ب ع د", "bs": "udaljilo se", "en": "strayed" },
-        { "w": "الْقَطِيعِ", "root": "ق ط ع", "bs": "stado", "en": "flock" }
+        {
+          "w": "ضَلَّتْ",
+          "root": "ض ل ل",
+          "bs": "zalutalo je",
+          "en": "got lost",
+          "lemma": "ضَلَّ يَضِلُّ"
+        },
+        {
+          "w": "خَرُوفٌ",
+          "root": "خ ر ف",
+          "bs": "ovče",
+          "en": "lamb",
+          "lemma": "خَرُوفٌ / خِرْفَانٌ"
+        },
+        {
+          "w": "صَغِيرٌ",
+          "root": "ص غ ر",
+          "bs": "malo",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "ابْتَعَدَ",
+          "root": "ب ع د",
+          "bs": "udaljilo se",
+          "en": "strayed",
+          "lemma": "اِبْتَعَدَ يَبْتَعِدُ"
+        },
+        {
+          "w": "الْقَطِيعِ",
+          "root": "ق ط ع",
+          "bs": "stado",
+          "en": "flock",
+          "lemma": "قَطِيعٌ / قُطْعَانٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Džabir ga je dugo tražio dok ga nije pronašao između stabala.",
       "translationEn": "Jabir searched for it a long time until he found it among the trees.",
       "words": [
-        { "w": "بَحَثَ", "root": "ب ح ث", "bs": "tražio je", "en": "searched" },
-        { "w": "طَوِيلًا", "root": "ط و ل", "bs": "dugo", "en": "a long time" },
-        { "w": "وَجَدَهُ", "root": "و ج د", "bs": "pronašao ga je", "en": "found it" },
-        { "w": "الأَشْجَارِ", "root": "ش ج ر", "bs": "stabla", "en": "trees" }
+        {
+          "w": "بَحَثَ",
+          "root": "ب ح ث",
+          "bs": "tražio je",
+          "en": "searched",
+          "lemma": "بَحَثَ يَبْحَثُ"
+        },
+        {
+          "w": "طَوِيلًا",
+          "root": "ط و ل",
+          "bs": "dugo",
+          "en": "a long time",
+          "lemma": "طَوِيلٌ"
+        },
+        {
+          "w": "وَجَدَهُ",
+          "root": "و ج د",
+          "bs": "pronašao ga je",
+          "en": "found it",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الأَشْجَارِ",
+          "root": "ش ج ر",
+          "bs": "stabla",
+          "en": "trees",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Nježno ga je podigao i vratio ga ostatku stada.",
       "translationEn": "He gently carried it and returned it to the rest of the flock.",
       "words": [
-        { "w": "حَمَلَهُ", "root": "ح م ل", "bs": "podigao ga je", "en": "carried it" },
-        { "w": "بِرِفْقٍ", "root": "ر ف ق", "bs": "nježno", "en": "gently" },
-        { "w": "أَعَادَهُ", "root": "ع و د", "bs": "vratio ga je", "en": "returned it" },
-        { "w": "بَقِيَّةِ", "root": "ب ق ي", "bs": "ostatak", "en": "rest" },
-        { "w": "الْقَطِيعِ", "root": "ق ط ع", "bs": "stado", "en": "flock" }
+        {
+          "w": "حَمَلَهُ",
+          "root": "ح م ل",
+          "bs": "podigao ga je",
+          "en": "carried it",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "بِرِفْقٍ",
+          "root": "ر ف ق",
+          "bs": "nježno",
+          "en": "gently",
+          "lemma": "رِفْقٌ"
+        },
+        {
+          "w": "أَعَادَهُ",
+          "root": "ع و د",
+          "bs": "vratio ga je",
+          "en": "returned it",
+          "lemma": "أَعَادَ يُعِيدُ"
+        },
+        {
+          "w": "بَقِيَّةِ",
+          "root": "ب ق ي",
+          "bs": "ostatak",
+          "en": "rest",
+          "lemma": "بَقِيَّةٌ / بَقَايَا"
+        },
+        {
+          "w": "الْقَطِيعِ",
+          "root": "ق ط ع",
+          "bs": "stado",
+          "en": "flock",
+          "lemma": "قَطِيعٌ / قُطْعَانٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["shepherd", "sheep", "care", "mountain"]
+    "tags": [
+      "shepherd",
+      "sheep",
+      "care",
+      "mountain"
+    ]
   }
 }

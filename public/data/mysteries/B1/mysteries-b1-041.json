@@ -8,9 +8,27 @@
       "translation": "Jabir je primijetio da je mlijeko sa stola nestalo.",
       "translationEn": "Jabir noticed that the milk on the table had disappeared.",
       "words": [
-        { "w": "لَاحَظَ", "root": "ل ح ظ", "bs": "primijetio je", "en": "he noticed" },
-        { "w": "حَلِيبَ", "root": "ح ل ب", "bs": "mlijeko", "en": "milk" },
-        { "w": "اخْتَفَى", "root": "خ ف ي", "bs": "nestalo", "en": "disappeared" }
+        {
+          "w": "لَاحَظَ",
+          "root": "ل ح ظ",
+          "bs": "primijetio je",
+          "en": "he noticed",
+          "lemma": "لَاحَظَ يُلَاحِظُ"
+        },
+        {
+          "w": "حَلِيبَ",
+          "root": "ح ل ب",
+          "bs": "mlijeko",
+          "en": "milk",
+          "lemma": "حَلِيبٌ"
+        },
+        {
+          "w": "اخْتَفَى",
+          "root": "خ ف ي",
+          "bs": "nestalo",
+          "en": "disappeared",
+          "lemma": "اخْتَفَى يَخْتَفِي"
+        }
       ]
     },
     {
@@ -18,8 +36,20 @@
       "translation": "Ni on ni niko iz porodice ga nije pio.",
       "translationEn": "Neither he nor anyone in the family had drunk it.",
       "words": [
-        { "w": "يَشْرَبْهُ", "root": "ش ر ب", "bs": "pio ga je", "en": "drunk it" },
-        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodice", "en": "family" }
+        {
+          "w": "يَشْرَبْهُ",
+          "root": "ش ر ب",
+          "bs": "pio ga je",
+          "en": "drunk it",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "root": "ع و ل",
+          "bs": "porodice",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        }
       ]
     },
     {
@@ -27,12 +57,48 @@
       "translation": "Pogledao je prema otvorenom prozoru i vidio mačku kako se udaljava.",
       "translationEn": "He looked at the open window and saw the cat moving away.",
       "words": [
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "he looked" },
-        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozoru", "en": "window" },
-        { "w": "الْمَفْتُوحَةِ", "root": "ف ت ح", "bs": "otvorenom", "en": "open" },
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
-        { "w": "الْقِطَّةَ", "root": "ق ط ط", "bs": "mačku", "en": "the cat" },
-        { "w": "تَبْتَعِدُ", "root": "ب ع د", "bs": "udaljava se", "en": "moving away" }
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "pogledao je",
+          "en": "he looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "النَّافِذَةِ",
+          "root": "ن ف ذ",
+          "bs": "prozoru",
+          "en": "window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        },
+        {
+          "w": "الْمَفْتُوحَةِ",
+          "root": "ف ت ح",
+          "bs": "otvorenom",
+          "en": "open",
+          "lemma": "مَفْتُوحٌ"
+        },
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "he saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "الْقِطَّةَ",
+          "root": "ق ط ط",
+          "bs": "mačku",
+          "en": "the cat",
+          "lemma": "قِطَّةٌ / قِطَطٌ"
+        },
+        {
+          "w": "تَبْتَعِدُ",
+          "root": "ب ع د",
+          "bs": "udaljava se",
+          "en": "moving away",
+          "lemma": "ابْتَعَدَ يَبْتَعِدُ"
+        }
       ]
     },
     {
@@ -40,9 +106,27 @@
       "translation": "Jabir je shvatio šta se desilo i nasmijao se.",
       "translationEn": "Jabir understood what had happened and laughed.",
       "words": [
-        { "w": "فَهِمَ", "root": "ف ه م", "bs": "shvatio je", "en": "he understood" },
-        { "w": "حَدَثَ", "root": "ح د ث", "bs": "desilo se", "en": "had happened" },
-        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijao se", "en": "he laughed" }
+        {
+          "w": "فَهِمَ",
+          "root": "ف ه م",
+          "bs": "shvatio je",
+          "en": "he understood",
+          "lemma": "فَهِمَ يَفْهَمُ"
+        },
+        {
+          "w": "حَدَثَ",
+          "root": "ح د ث",
+          "bs": "desilo se",
+          "en": "had happened",
+          "lemma": "حَدَثَ يَحْدُثُ"
+        },
+        {
+          "w": "ضَحِكَ",
+          "root": "ض ح ك",
+          "bs": "nasmijao se",
+          "en": "he laughed",
+          "lemma": "ضَحِكَ يَضْحَكُ"
+        }
       ]
     },
     {
@@ -50,16 +134,51 @@
       "translation": "Odlučio je zatvoriti prozor kada odloži hranu.",
       "translationEn": "He decided to close the window when he put out food.",
       "words": [
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "he decided" },
-        { "w": "يُغْلِقَ", "root": "غ ل ق", "bs": "zatvoriti", "en": "to close" },
-        { "w": "النَّافِذَةَ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
-        { "w": "يَضَعُ", "root": "و ض ع", "bs": "odlaže", "en": "he puts out" },
-        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hranu", "en": "food" }
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "he decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "يُغْلِقَ",
+          "root": "غ ل ق",
+          "bs": "zatvoriti",
+          "en": "to close",
+          "lemma": "أَغْلَقَ يُغْلِقُ"
+        },
+        {
+          "w": "النَّافِذَةَ",
+          "root": "ن ف ذ",
+          "bs": "prozor",
+          "en": "window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        },
+        {
+          "w": "يَضَعُ",
+          "root": "و ض ع",
+          "bs": "odlaže",
+          "en": "he puts out",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "milk", "cat", "window"]
+    "tags": [
+      "mystery",
+      "milk",
+      "cat",
+      "window"
+    ]
   }
 }

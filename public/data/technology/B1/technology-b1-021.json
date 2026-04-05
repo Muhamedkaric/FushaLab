@@ -12,18 +12,21 @@
           "w": "كَتَبَ",
           "root": "ك ت ب",
           "bs": "napisao je",
-          "en": "wrote"
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
         },
         {
           "w": "رِسَالَةً",
           "root": "ر س ل",
           "bs": "poruku",
-          "en": "a message"
+          "en": "a message",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
         },
         {
           "w": "الْبَرِيدِ الْإِلِكْتِرُونِيِّ",
           "bs": "e-poštom",
-          "en": "by email"
+          "en": "by email",
+          "lemma": "بَرِيدٌ إِلِكْتِرُونِيٌّ"
         }
       ]
     },
@@ -36,25 +39,29 @@
           "w": "كَتَبَ",
           "root": "ك ت ب",
           "bs": "napisao je",
-          "en": "wrote"
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
         },
         {
           "w": "الْعُنْوَانَ",
           "root": "ع ن و",
           "bs": "adresu",
-          "en": "the address"
+          "en": "the address",
+          "lemma": "عُنْوَانٌ / عَنَاوِينُ"
         },
         {
           "w": "الْمَوْضُوعَ",
           "root": "و ض ع",
           "bs": "temu",
-          "en": "the subject"
+          "en": "the subject",
+          "lemma": "مَوْضُوعٌ / مَوَاضِيعُ"
         },
         {
           "w": "الرِّسَالَةَ",
           "root": "ر س ل",
           "bs": "poruku",
-          "en": "the message"
+          "en": "the message",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
         }
       ]
     },
@@ -67,25 +74,29 @@
           "w": "قَرَأَ",
           "root": "ق ر أ",
           "bs": "pročitao je",
-          "en": "read"
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
         },
         {
           "w": "الرِّسَالَةَ",
           "root": "ر س ل",
           "bs": "poruku",
-          "en": "the message"
+          "en": "the message",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
         },
         {
           "w": "قَبْلَ",
           "root": "ق ب ل",
           "bs": "prije",
-          "en": "before"
+          "en": "before",
+          "lemma": "قَبْلَ"
         },
         {
           "w": "إِرْسَالِهَا",
           "root": "ر س ل",
           "bs": "slanja",
-          "en": "sending it"
+          "en": "sending it",
+          "lemma": "إِرْسَالٌ"
         }
       ]
     },
@@ -98,25 +109,29 @@
           "w": "ضَغَطَ",
           "root": "ض غ ط",
           "bs": "pritisnuo je",
-          "en": "pressed"
+          "en": "pressed",
+          "lemma": "ضَغَطَ يَضْغَطُ"
         },
         {
           "w": "إِرْسَالَ",
           "root": "ر س ل",
           "bs": "pošalji",
-          "en": "send"
+          "en": "send",
+          "lemma": "إِرْسَالٌ"
         },
         {
           "w": "انْتَهَى",
           "root": "ن ه ي",
           "bs": "završio je",
-          "en": "finished"
+          "en": "finished",
+          "lemma": "انْتَهَى يَنْتَهِي"
         },
         {
           "w": "الْعَمَلِ",
           "root": "ع م ل",
           "bs": "posao",
-          "en": "the work"
+          "en": "the work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
         }
       ]
     }

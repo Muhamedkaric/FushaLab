@@ -12,31 +12,36 @@
           "w": "يَحْمِلُ",
           "root": "ح م ل",
           "bs": "nosi",
-          "en": "carries"
+          "en": "carries",
+          "lemma": "حَمَلَ يَحْمِلُ"
         },
         {
           "w": "وَجْبَةً",
           "root": "و ج ب",
           "bs": "obrok",
-          "en": "snack"
+          "en": "snack",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
         },
         {
           "w": "خَفِيفَةً",
           "root": "خ ف ف",
           "bs": "lahak",
-          "en": "light"
+          "en": "light",
+          "lemma": "خَفِيفٌ"
         },
         {
           "w": "صِحِّيَّةً",
           "root": "ص ح ح",
           "bs": "zdrav",
-          "en": "healthy"
+          "en": "healthy",
+          "lemma": "صِحِّيٌّ"
         },
         {
           "w": "الْعَمَلِ",
           "root": "ع م ل",
           "bs": "posao",
-          "en": "work"
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
         }
       ]
     },
@@ -49,25 +54,29 @@
           "w": "يَأْكُلُ",
           "root": "أ ك ل",
           "bs": "jede",
-          "en": "eats"
+          "en": "eats",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "الْمَكْسَرَاتِ",
           "root": "ك س ر",
           "bs": "orašasti plodovi",
-          "en": "nuts"
+          "en": "nuts",
+          "lemma": "مَكْسَرَاتٌ"
         },
         {
           "w": "الْفَاكِهَةَ",
           "root": "ف ك ه",
           "bs": "voće",
-          "en": "fruit"
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
         },
         {
           "w": "الْوَجَبَاتِ",
           "root": "و ج ب",
           "bs": "obroci",
-          "en": "meals"
+          "en": "meals",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
         }
       ]
     },
@@ -80,31 +89,36 @@
           "w": "يَشْتَرِي",
           "root": "ش ر ي",
           "bs": "kupuje",
-          "en": "buys"
+          "en": "buys",
+          "lemma": "اشْتَرَى يَشْتَرِي"
         },
         {
           "w": "أَكْلًا",
           "root": "أ ك ل",
           "bs": "hrana",
-          "en": "food"
+          "en": "food",
+          "lemma": "أَكْلٌ"
         },
         {
           "w": "الشَّارِعِ",
           "root": "ش ر ع",
           "bs": "ulica",
-          "en": "street"
+          "en": "street",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
         },
         {
           "w": "غَيْرُ",
           "root": "غ ي ر",
           "bs": "nije",
-          "en": "not"
+          "en": "not",
+          "lemma": "غَيْرُ"
         },
         {
           "w": "صِحِّيٍّ",
           "root": "ص ح ح",
           "bs": "zdrav",
-          "en": "healthy"
+          "en": "healthy",
+          "lemma": "صِحِّيٌّ"
         }
       ]
     },
@@ -117,37 +131,43 @@
           "w": "صَارَ",
           "root": "ص ي ر",
           "bs": "počeli su",
-          "en": "started"
+          "en": "started",
+          "lemma": "صَارَ يَصِيرُ"
         },
         {
           "w": "زَمَلَاؤُهُ",
           "root": "ز م ل",
           "bs": "kolege",
-          "en": "colleagues"
+          "en": "colleagues",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
         },
         {
           "w": "يَسْأَلُونَهُ",
           "root": "س أ ل",
           "bs": "pitaju ga",
-          "en": "ask him"
+          "en": "ask him",
+          "lemma": "سَأَلَ يَسْأَلُ"
         },
         {
           "w": "وَصَفَاتِ",
           "root": "و ص ف",
           "bs": "recepti",
-          "en": "recipes"
+          "en": "recipes",
+          "lemma": "وَصْفَةٌ / وَصَفَاتٌ"
         },
         {
           "w": "الْأَكْلِ",
           "root": "أ ك ل",
           "bs": "hrana",
-          "en": "food"
+          "en": "food",
+          "lemma": "أَكْلٌ"
         },
         {
           "w": "الصِّحِّيِّ",
           "root": "ص ح ح",
           "bs": "zdrava",
-          "en": "healthy"
+          "en": "healthy",
+          "lemma": "صِحِّيٌّ"
         }
       ]
     }

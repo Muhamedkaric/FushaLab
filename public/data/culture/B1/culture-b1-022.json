@@ -8,10 +8,34 @@
       "translation": "Djeca se igraju na ulici nakon škole.",
       "translationEn": "Children play in the street after school.",
       "words": [
-        { "w": "يَلْعَبُ", "root": "ل ع ب", "bs": "igraju se", "en": "play" },
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulici", "en": "street" },
-        { "w": "المَدْرَسَةِ", "root": "د ر س", "bs": "škole", "en": "school" }
+        {
+          "w": "يَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "igraju se",
+          "en": "play",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulici",
+          "en": "street",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škole",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Igraju fudbal i trče.",
       "translationEn": "They play football and run.",
       "words": [
-        { "w": "يَلْعَبُونَ", "root": "ل ع ب", "bs": "igraju", "en": "play" },
-        { "w": "كُرَةَ", "root": "ك ر ر", "bs": "loptu", "en": "ball" },
-        { "w": "القَدَمِ", "root": "ق د م", "bs": "fudbal", "en": "football" },
-        { "w": "يَرْكُضُونَ", "root": "ر ك ض", "bs": "trče", "en": "run" }
+        {
+          "w": "يَلْعَبُونَ",
+          "root": "ل ع ب",
+          "bs": "igraju",
+          "en": "play",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "كُرَةَ",
+          "root": "ك ر ر",
+          "bs": "loptu",
+          "en": "ball",
+          "lemma": "كُرَةٌ / كُرَاتٌ"
+        },
+        {
+          "w": "القَدَمِ",
+          "root": "ق د م",
+          "bs": "fudbal",
+          "en": "football",
+          "lemma": "قَدَمٌ / أَقْدَامٌ"
+        },
+        {
+          "w": "يَرْكُضُونَ",
+          "root": "ر ك ض",
+          "bs": "trče",
+          "en": "run",
+          "lemma": "رَكَضَ يَرْكُضُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Komšije posmatraju djecu kroz prozore.",
       "translationEn": "Neighbors watch the children from the windows.",
       "words": [
-        { "w": "الجِيرَانُ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
-        { "w": "يُرَاقِبُونَ", "root": "ر ق ب", "bs": "posmatraju", "en": "watch" },
-        { "w": "الأَطْفَالَ", "root": "ط ف ل", "bs": "djecu", "en": "children" },
-        { "w": "النَّوَافِذِ", "root": "ن ف ذ", "bs": "prozorima", "en": "windows" }
+        {
+          "w": "الجِيرَانُ",
+          "root": "ج و ر",
+          "bs": "komšije",
+          "en": "neighbors",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "يُرَاقِبُونَ",
+          "root": "ر ق ب",
+          "bs": "posmatraju",
+          "en": "watch",
+          "lemma": "رَاقَبَ يُرَاقِبُ"
+        },
+        {
+          "w": "الأَطْفَالَ",
+          "root": "ط ف ل",
+          "bs": "djecu",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "النَّوَافِذِ",
+          "root": "ن ف ذ",
+          "bs": "prozorima",
+          "en": "windows",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Igranje na otvorenom je korisno za zdravlje.",
       "translationEn": "Playing in the open air is good for health.",
       "words": [
-        { "w": "اللَّعِبُ", "root": "ل ع ب", "bs": "igranje", "en": "playing" },
-        { "w": "الهَوَاءِ", "root": "هـ و أ", "bs": "zraku", "en": "air" },
-        { "w": "مُفِيدٌ", "root": "ف ي د", "bs": "korisno", "en": "beneficial" },
-        { "w": "الصِّحَّةِ", "root": "ص ح ح", "bs": "zdravlje", "en": "health" }
+        {
+          "w": "اللَّعِبُ",
+          "root": "ل ع ب",
+          "bs": "igranje",
+          "en": "playing",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الهَوَاءِ",
+          "root": "هـ و أ",
+          "bs": "zraku",
+          "en": "air",
+          "lemma": "هَوَاءٌ"
+        },
+        {
+          "w": "مُفِيدٌ",
+          "root": "ف ي د",
+          "bs": "korisno",
+          "en": "beneficial",
+          "lemma": "مُفِيدٌ"
+        },
+        {
+          "w": "الصِّحَّةِ",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health",
+          "lemma": "صِحَّةٌ"
+        }
       ]
     }
   ],

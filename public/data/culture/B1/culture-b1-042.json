@@ -8,10 +8,34 @@
       "translation": "Med je prirodni lijek poznat od davnina.",
       "translationEn": "Honey is a natural remedy known since ancient times.",
       "words": [
-        { "w": "العَسَلُ", "root": "ع س ل", "bs": "med", "en": "honey" },
-        { "w": "دَوَاءٌ", "root": "د و ي", "bs": "lijek", "en": "remedy" },
-        { "w": "طَبِيعِيٌّ", "root": "ط ب ع", "bs": "prirodni", "en": "natural" },
-        { "w": "مَعْرُوفٌ", "root": "ع ر ف", "bs": "poznat", "en": "known" }
+        {
+          "w": "العَسَلُ",
+          "root": "ع س ل",
+          "bs": "med",
+          "en": "honey",
+          "lemma": "عَسَلٌ / عُسُولٌ"
+        },
+        {
+          "w": "دَوَاءٌ",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "remedy",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
+        },
+        {
+          "w": "طَبِيعِيٌّ",
+          "root": "ط ب ع",
+          "bs": "prirodni",
+          "en": "natural",
+          "lemma": "طَبِيعِيٌّ"
+        },
+        {
+          "w": "مَعْرُوفٌ",
+          "root": "ع ر ف",
+          "bs": "poznat",
+          "en": "known",
+          "lemma": "مَعْرُوفٌ"
+        }
       ]
     },
     {
@@ -19,12 +43,48 @@
       "translation": "Ljudi jedu med ujutro na prazan stomak.",
       "translationEn": "People eat honey in the morning on an empty stomach.",
       "words": [
-        { "w": "يَأْكُلُ", "root": "أ ك ل", "bs": "jedu", "en": "eat" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "العَسَلَ", "root": "ع س ل", "bs": "med", "en": "honey" },
-        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "ujutro", "en": "morning" },
-        { "w": "مَعِدَةٍ", "root": "م ع د", "bs": "stomak", "en": "stomach" },
-        { "w": "فَارِغَةٍ", "root": "ف ر غ", "bs": "prazan", "en": "empty" }
+        {
+          "w": "يَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jedu",
+          "en": "eat",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "العَسَلَ",
+          "root": "ع س ل",
+          "bs": "med",
+          "en": "honey",
+          "lemma": "عَسَلٌ / عُسُولٌ"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "ujutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ"
+        },
+        {
+          "w": "مَعِدَةٍ",
+          "root": "م ع د",
+          "bs": "stomak",
+          "en": "stomach",
+          "lemma": "مَعِدَةٌ / مَعِدَاتٌ"
+        },
+        {
+          "w": "فَارِغَةٍ",
+          "root": "ف ر غ",
+          "bs": "prazan",
+          "en": "empty",
+          "lemma": "فَارِغٌ"
+        }
       ]
     },
     {
@@ -32,10 +92,34 @@
       "translation": "Miješaju ga s toplom vodom ili mlijekom.",
       "translationEn": "They mix it with warm water or milk.",
       "words": [
-        { "w": "يَخْلِطُونَهُ", "root": "خ ل ط", "bs": "miješaju ga", "en": "mix it" },
-        { "w": "المَاءِ", "root": "م و هـ", "bs": "vodom", "en": "water" },
-        { "w": "الدَّافِئِ", "root": "د ف أ", "bs": "toplom", "en": "warm" },
-        { "w": "الحَلِيبِ", "root": "ح ل ب", "bs": "mlijekom", "en": "milk" }
+        {
+          "w": "يَخْلِطُونَهُ",
+          "root": "خ ل ط",
+          "bs": "miješaju ga",
+          "en": "mix it",
+          "lemma": "خَلَطَ يَخْلِطُ"
+        },
+        {
+          "w": "المَاءِ",
+          "root": "م و هـ",
+          "bs": "vodom",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "الدَّافِئِ",
+          "root": "د ف أ",
+          "bs": "toplom",
+          "en": "warm",
+          "lemma": "دَافِئٌ"
+        },
+        {
+          "w": "الحَلِيبِ",
+          "root": "ح ل ب",
+          "bs": "mlijekom",
+          "en": "milk",
+          "lemma": "حَلِيبٌ"
+        }
       ]
     },
     {
@@ -43,10 +127,34 @@
       "translation": "Med je koristan za grlo i kašalj.",
       "translationEn": "Honey is beneficial for the throat and cough.",
       "words": [
-        { "w": "العَسَلُ", "root": "ع س ل", "bs": "med", "en": "honey" },
-        { "w": "مُفِيدٌ", "root": "ف ي د", "bs": "koristan", "en": "beneficial" },
-        { "w": "الحَلْقِ", "root": "ح ل ق", "bs": "grlu", "en": "throat" },
-        { "w": "السُّعَالِ", "root": "س ع ل", "bs": "kašlju", "en": "cough" }
+        {
+          "w": "العَسَلُ",
+          "root": "ع س ل",
+          "bs": "med",
+          "en": "honey",
+          "lemma": "عَسَلٌ / عُسُولٌ"
+        },
+        {
+          "w": "مُفِيدٌ",
+          "root": "ف ي د",
+          "bs": "koristan",
+          "en": "beneficial",
+          "lemma": "مُفِيدٌ"
+        },
+        {
+          "w": "الحَلْقِ",
+          "root": "ح ل ق",
+          "bs": "grlu",
+          "en": "throat",
+          "lemma": "حَلْقٌ / حُلُوقٌ"
+        },
+        {
+          "w": "السُّعَالِ",
+          "root": "س ع ل",
+          "bs": "kašlju",
+          "en": "cough",
+          "lemma": "سُعَالٌ"
+        }
       ]
     }
   ],

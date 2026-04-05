@@ -8,10 +8,34 @@
       "translation": "Salma je pročitala tužnu priču i zaplakala.",
       "translationEn": "Salma read a sad story and cried.",
       "words": [
-        { "w": "قَرَأَتْ", "root": "ق ر أ", "bs": "pročitala je", "en": "read" },
-        { "w": "قِصَّةً", "root": "ق ص ص", "bs": "priča", "en": "story" },
-        { "w": "حَزِينَةً", "root": "ح ز ن", "bs": "tužna", "en": "sad" },
-        { "w": "بَكَتْ", "root": "ب ك ي", "bs": "zaplakala je", "en": "cried" }
+        {
+          "w": "قَرَأَتْ",
+          "root": "ق ر أ",
+          "bs": "pročitala je",
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "قِصَّةً",
+          "root": "ق ص ص",
+          "bs": "priča",
+          "en": "story",
+          "lemma": "قِصَّةٌ / قِصَصٌ"
+        },
+        {
+          "w": "حَزِينَةً",
+          "root": "ح ز ن",
+          "bs": "tužna",
+          "en": "sad",
+          "lemma": "حَزِينٌ"
+        },
+        {
+          "w": "بَكَتْ",
+          "root": "ب ك ي",
+          "bs": "zaplakala je",
+          "en": "cried",
+          "lemma": "بَكَى يَبْكِي"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Plakanje nije slabost nego je prirodno izražavanje.",
       "translationEn": "Crying is not weakness but a natural expression.",
       "words": [
-        { "w": "الْبُكَاءُ", "root": "ب ك ي", "bs": "plakanje", "en": "crying" },
-        { "w": "ضَعْفًا", "root": "ض ع ف", "bs": "slabost", "en": "weakness" },
-        { "w": "تَعْبِيرٌ", "root": "ع ب ر", "bs": "izražavanje", "en": "expression" },
-        { "w": "طَبِيعِيٌّ", "root": "ط ب ع", "bs": "prirodno", "en": "natural" }
+        {
+          "w": "الْبُكَاءُ",
+          "root": "ب ك ي",
+          "bs": "plakanje",
+          "en": "crying",
+          "lemma": "بُكَاءٌ"
+        },
+        {
+          "w": "ضَعْفًا",
+          "root": "ض ع ف",
+          "bs": "slabost",
+          "en": "weakness",
+          "lemma": "ضَعْفٌ"
+        },
+        {
+          "w": "تَعْبِيرٌ",
+          "root": "ع ب ر",
+          "bs": "izražavanje",
+          "en": "expression",
+          "lemma": "تَعْبِيرٌ / تَعْبِيرَاتٌ"
+        },
+        {
+          "w": "طَبِيعِيٌّ",
+          "root": "ط ب ع",
+          "bs": "prirodno",
+          "en": "natural",
+          "lemma": "طَبِيعِيٌّ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Nakon plakanja Salma se osjetila olakšano.",
       "translationEn": "After crying Salma felt a sense of relief.",
       "words": [
-        { "w": "الْبُكَاءِ", "root": "ب ك ي", "bs": "plakanje", "en": "crying" },
-        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjetila je", "en": "felt" },
-        { "w": "بِتَخَفُّفٍ", "root": "خ ف ف", "bs": "olakšanje", "en": "relief" }
+        {
+          "w": "الْبُكَاءِ",
+          "root": "ب ك ي",
+          "bs": "plakanje",
+          "en": "crying",
+          "lemma": "بُكَاءٌ"
+        },
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjetila je",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِتَخَفُّفٍ",
+          "root": "خ ف ف",
+          "bs": "olakšanje",
+          "en": "relief",
+          "lemma": "تَخَفُّفٌ"
+        }
       ]
     },
     {
@@ -40,14 +106,36 @@
       "translation": "Suze nam pomažu da izrazimo bol.",
       "translationEn": "Tears help us release pain.",
       "words": [
-        { "w": "الدُّمُوعُ", "root": "د م ع", "bs": "suze", "en": "tears" },
-        { "w": "تُسَاعِدُنَا", "root": "س ع د", "bs": "pomažu nam", "en": "help us" },
-        { "w": "الأَلَمِ", "root": "أ ل م", "bs": "bol", "en": "pain" }
+        {
+          "w": "الدُّمُوعُ",
+          "root": "د م ع",
+          "bs": "suze",
+          "en": "tears",
+          "lemma": "دَمْعٌ / دُمُوعٌ"
+        },
+        {
+          "w": "تُسَاعِدُنَا",
+          "root": "س ع د",
+          "bs": "pomažu nam",
+          "en": "help us",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "الأَلَمِ",
+          "root": "أ ل م",
+          "bs": "bol",
+          "en": "pain",
+          "lemma": "أَلَمٌ / آلَامٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["crying", "emotions", "wellbeing"]
+    "tags": [
+      "crying",
+      "emotions",
+      "wellbeing"
+    ]
   }
 }

@@ -12,30 +12,35 @@
           "w": "قَضَى",
           "root": "ق ض و",
           "bs": "provodili su",
-          "en": "spent"
+          "en": "spent",
+          "lemma": "قَضَى يَقْضِي"
         },
         {
           "w": "الْمُسْلِمُونَ",
           "root": "س ل م",
           "bs": "muslimani",
-          "en": "the Muslims"
+          "en": "the Muslims",
+          "lemma": "مُسْلِمٌ / مُسْلِمُونَ"
         },
         {
           "w": "لَيَالِيَ",
           "root": "ل ي ل",
           "bs": "noći",
-          "en": "the nights"
+          "en": "the nights",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
         },
         {
           "w": "رَمَضَانَ",
           "bs": "Ramazana",
-          "en": "Ramadan"
+          "en": "Ramadan",
+          "lemma": "رَمَضَانُ"
         },
         {
           "w": "الْعِبَادَةِ",
           "root": "ع ب د",
           "bs": "ibadetu",
-          "en": "worship"
+          "en": "worship",
+          "lemma": "عِبَادَةٌ / عِبَادَاتٌ"
         }
       ]
     },
@@ -48,31 +53,36 @@
           "w": "صَلَّوْا",
           "root": "ص ل و",
           "bs": "klanjali su",
-          "en": "prayed"
+          "en": "prayed",
+          "lemma": "صَلَّى يُصَلِّي"
         },
         {
           "w": "قَرَؤُوا",
           "root": "ق ر أ",
           "bs": "učili su",
-          "en": "read"
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
         },
         {
           "w": "الْقُرْآنَ",
           "root": "ق ر أ",
           "bs": "Kur'an",
-          "en": "the Quran"
+          "en": "the Quran",
+          "lemma": "قُرْآنٌ"
         },
         {
           "w": "ذَكَرُوا",
           "root": "ذ ك ر",
           "bs": "veličali su",
-          "en": "remembered"
+          "en": "remembered",
+          "lemma": "ذَكَرَ يَذْكُرُ"
         },
         {
           "w": "اللَّهَ",
           "root": "أ ل ه",
           "bs": "Allaha",
-          "en": "God"
+          "en": "God",
+          "lemma": "اللَّهُ"
         }
       ]
     },
@@ -85,25 +95,29 @@
           "w": "يَبْحَثُونَ",
           "root": "ب ح ث",
           "bs": "tražili su",
-          "en": "sought"
+          "en": "sought",
+          "lemma": "بَحَثَ يَبْحَثُ"
         },
         {
           "w": "لَيْلَةِ الْقَدْرِ",
           "root": "ق د ر",
           "bs": "Lejletu-l-kadr",
-          "en": "the Night of Power"
+          "en": "the Night of Power",
+          "lemma": "لَيْلَةُ الْقَدْرِ"
         },
         {
           "w": "بِنِيَّةٍ",
           "root": "ن و ي",
           "bs": "namjerom",
-          "en": "intention"
+          "en": "intention",
+          "lemma": "نِيَّةٌ / نِيَّاتٌ"
         },
         {
           "w": "صَادِقَةٍ",
           "root": "ص د ق",
           "bs": "iskrenom",
-          "en": "sincere"
+          "en": "sincere",
+          "lemma": "صَادِقٌ"
         }
       ]
     },
@@ -116,31 +130,36 @@
           "w": "شَعَرُوا",
           "root": "ش ع ر",
           "bs": "osjetili su",
-          "en": "felt"
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
         },
         {
           "w": "بِبَرَكَةِ",
           "root": "ب ر ك",
           "bs": "bereketom",
-          "en": "the blessing"
+          "en": "the blessing",
+          "lemma": "بَرَكَةٌ / بَرَكَاتٌ"
         },
         {
           "w": "الشَّهْرِ",
           "root": "ش ه ر",
           "bs": "mjeseca",
-          "en": "the month"
+          "en": "the month",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
         },
         {
           "w": "الْمُبَارَكِ",
           "root": "ب ر ك",
           "bs": "blagoslovljenog",
-          "en": "sacred"
+          "en": "sacred",
+          "lemma": "مُبَارَكٌ"
         },
         {
           "w": "قُلُوبِهِمْ",
           "root": "ق ل ب",
           "bs": "srcima",
-          "en": "their hearts"
+          "en": "their hearts",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
         }
       ]
     }

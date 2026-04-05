@@ -8,9 +8,27 @@
       "translation": "Bio je dječak po imenu Omer koji je jako volio zvijezde.",
       "translationEn": "There was a boy named Omar who loved stars very much.",
       "words": [
-        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dječak", "en": "boy" },
-        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "volio je", "en": "loved" },
-        { "w": "النَّجُومَ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" }
+        {
+          "w": "طِفْلٌ",
+          "root": "ط ف ل",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "volio je",
+          "en": "loved",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "النَّجُومَ",
+          "root": "ن ج م",
+          "bs": "zvijezde",
+          "en": "stars",
+          "lemma": "نَجْمٌ / نُجُومٌ"
+        }
       ]
     },
     {
@@ -18,11 +36,41 @@
       "translation": "Svake večeri je sjedio na terasi i gledao u nebo.",
       "translationEn": "Every night he sat on the roof and looked at the sky.",
       "words": [
-        { "w": "لَيْلَةٍ", "root": "ل ي ل", "bs": "večer", "en": "night" },
-        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedio je", "en": "sat" },
-        { "w": "السَّطْحِ", "root": "س ط ح", "bs": "terasa", "en": "roof" },
-        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gledao je", "en": "looked" },
-        { "w": "السَّمَاءِ", "root": "س م و", "bs": "nebo", "en": "sky" }
+        {
+          "w": "لَيْلَةٍ",
+          "root": "ل ي ل",
+          "bs": "večer",
+          "en": "night",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
+        },
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedio je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "السَّطْحِ",
+          "root": "س ط ح",
+          "bs": "terasa",
+          "en": "roof",
+          "lemma": "سَطْحٌ / أَسْطُحٌ"
+        },
+        {
+          "w": "يَنْظُرُ",
+          "root": "ن ظ ر",
+          "bs": "gledao je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "السَّمَاءِ",
+          "root": "س م و",
+          "bs": "nebo",
+          "en": "sky",
+          "lemma": "سَمَاءٌ / سَمَاوَاتٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Otac mu je kupio mali teleskop da više vidi zvijezde.",
       "translationEn": "His father bought him a small telescope to see the stars better.",
       "words": [
-        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
-        { "w": "أَبُوهُ", "root": "أ ب و", "bs": "njegov otac", "en": "his father" },
-        { "w": "مِنْظَارًا", "root": "ن ظ ر", "bs": "teleskop", "en": "telescope" },
-        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mali", "en": "small" },
-        { "w": "النُّجُومَ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" }
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "أَبُوهُ",
+          "root": "أ ب و",
+          "bs": "njegov otac",
+          "en": "his father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "مِنْظَارًا",
+          "root": "ن ظ ر",
+          "bs": "teleskop",
+          "en": "telescope",
+          "lemma": "مِنْظَارٌ / مَنَاظِيرُ"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "النُّجُومَ",
+          "root": "ن ج م",
+          "bs": "zvijezde",
+          "en": "stars",
+          "lemma": "نَجْمٌ / نُجُومٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Omer se veoma obradovao i mnogo se zahvalio ocu.",
       "translationEn": "Omar was very happy and thanked his father many times.",
       "words": [
-        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
-        { "w": "فَرَحًا", "root": "ف ر ح", "bs": "radost", "en": "happiness" },
-        { "w": "كَبِيرًا", "root": "ك ب ر", "bs": "veliku", "en": "great" },
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio se", "en": "thanked" },
-        { "w": "أَبَاهُ", "root": "أ ب و", "bs": "svog oca", "en": "his father" }
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovao se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "فَرَحًا",
+          "root": "ف ر ح",
+          "bs": "radost",
+          "en": "happiness",
+          "lemma": "فَرَحٌ"
+        },
+        {
+          "w": "كَبِيرًا",
+          "root": "ك ب ر",
+          "bs": "veliku",
+          "en": "great",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio se",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "أَبَاهُ",
+          "root": "أ ب و",
+          "bs": "svog oca",
+          "en": "his father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["stars", "boy", "father", "curiosity"]
+    "tags": [
+      "stars",
+      "boy",
+      "father",
+      "curiosity"
+    ]
   }
 }

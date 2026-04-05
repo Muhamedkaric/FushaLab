@@ -8,10 +8,34 @@
       "translation": "Arapi imaju poznate poslovice u svakodnevnom životu.",
       "translationEn": "Arabs have famous proverbs in daily life.",
       "words": [
-        { "w": "أَمْثَالٌ", "root": "م ث ل", "bs": "poslovice", "en": "proverbs" },
-        { "w": "شَهِيرَةٌ", "root": "ش هـ ر", "bs": "poznate", "en": "famous" },
-        { "w": "الحَيَاةِ", "root": "ح ي ي", "bs": "životu", "en": "life" },
-        { "w": "اليَوْمِيَّةِ", "root": "ي و م", "bs": "svakodnevnom", "en": "daily" }
+        {
+          "w": "أَمْثَالٌ",
+          "root": "م ث ل",
+          "bs": "poslovice",
+          "en": "proverbs",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
+          "w": "شَهِيرَةٌ",
+          "root": "ش هـ ر",
+          "bs": "poznate",
+          "en": "famous",
+          "lemma": "شَهِيرٌ"
+        },
+        {
+          "w": "الحَيَاةِ",
+          "root": "ح ي ي",
+          "bs": "životu",
+          "en": "life",
+          "lemma": "حَيَاةٌ / حَيَوَاتٌ"
+        },
+        {
+          "w": "اليَوْمِيَّةِ",
+          "root": "ي و م",
+          "bs": "svakodnevnom",
+          "en": "daily",
+          "lemma": "يَوْمِيٌّ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Kažu «Strpljivost je ključ olakšanja».",
       "translationEn": "They say «Patience is the key to relief».",
       "words": [
-        { "w": "يَقُولُونَ", "root": "ق و ل", "bs": "kažu", "en": "say" },
-        { "w": "الصَّبْرُ", "root": "ص ب ر", "bs": "strpljivost", "en": "patience" },
-        { "w": "مِفْتَاحُ", "root": "ف ت ح", "bs": "ključ", "en": "key" },
-        { "w": "الفَرَجِ", "root": "ف ر ج", "bs": "olakšanja", "en": "relief" }
+        {
+          "w": "يَقُولُونَ",
+          "root": "ق و ل",
+          "bs": "kažu",
+          "en": "say",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الصَّبْرُ",
+          "root": "ص ب ر",
+          "bs": "strpljivost",
+          "en": "patience",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "مِفْتَاحُ",
+          "root": "ف ت ح",
+          "bs": "ključ",
+          "en": "key",
+          "lemma": "مِفْتَاحٌ / مَفَاتِيحُ"
+        },
+        {
+          "w": "الفَرَجِ",
+          "root": "ف ر ج",
+          "bs": "olakšanja",
+          "en": "relief",
+          "lemma": "فَرَجٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Ove poslovice nose staru mudrost.",
       "translationEn": "These proverbs carry old wisdom.",
       "words": [
-        { "w": "الأَمْثَالُ", "root": "م ث ل", "bs": "poslovice", "en": "proverbs" },
-        { "w": "تَحْمِلُ", "root": "ح م ل", "bs": "nose", "en": "carry" },
-        { "w": "حِكْمَةً", "root": "ح ك م", "bs": "mudrost", "en": "wisdom" },
-        { "w": "قَدِيمَةً", "root": "ق د م", "bs": "staru", "en": "old" }
+        {
+          "w": "الأَمْثَالُ",
+          "root": "م ث ل",
+          "bs": "poslovice",
+          "en": "proverbs",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
+          "w": "تَحْمِلُ",
+          "root": "ح م ل",
+          "bs": "nose",
+          "en": "carry",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "حِكْمَةً",
+          "root": "ح ك م",
+          "bs": "mudrost",
+          "en": "wisdom",
+          "lemma": "حِكْمَةٌ / حِكَمٌ"
+        },
+        {
+          "w": "قَدِيمَةً",
+          "root": "ق د م",
+          "bs": "staru",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Djeca uče poslovice od starijih.",
       "translationEn": "Children learn proverbs from elders.",
       "words": [
-        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uče", "en": "learn" },
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "الأَمْثَالَ", "root": "م ث ل", "bs": "poslovice", "en": "proverbs" },
-        { "w": "الكِبَارِ", "root": "ك ب ر", "bs": "starijih", "en": "elders" }
+        {
+          "w": "يَتَعَلَّمُ",
+          "root": "ع ل م",
+          "bs": "uče",
+          "en": "learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الأَمْثَالَ",
+          "root": "م ث ل",
+          "bs": "poslovice",
+          "en": "proverbs",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
+          "w": "الكِبَارِ",
+          "root": "ك ب ر",
+          "bs": "starijih",
+          "en": "elders",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        }
       ]
     }
   ],

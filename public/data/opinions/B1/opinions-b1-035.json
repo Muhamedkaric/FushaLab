@@ -8,10 +8,34 @@
       "translation": "Smatram da dobra slika o sebi nam pomaže.",
       "translationEn": "I believe that a good image of oneself helps us.",
       "words": [
-        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
-        { "w": "الصُّورَةَ", "root": "ص و ر", "bs": "slika", "en": "image" },
-        { "w": "الطَّيِّبَةَ", "root": "ط ي ب", "bs": "dobra", "en": "good" },
-        { "w": "تُسَاعِدُنَا", "root": "س ع د", "bs": "pomaže nam", "en": "helps us" }
+        {
+          "w": "أَعْتَقِدُ",
+          "root": "ع ق د",
+          "bs": "smatram",
+          "en": "I believe",
+          "lemma": "اعْتَقَدَ يَعْتَقِدُ"
+        },
+        {
+          "w": "الصُّورَةَ",
+          "root": "ص و ر",
+          "bs": "slika",
+          "en": "image",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "الطَّيِّبَةَ",
+          "root": "ط ي ب",
+          "bs": "dobra",
+          "en": "good",
+          "lemma": "طَيِّبٌ"
+        },
+        {
+          "w": "تُسَاعِدُنَا",
+          "root": "س ع د",
+          "bs": "pomaže nam",
+          "en": "helps us",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Kada vjeruješ u sebe, pronalziš snagu da probaš.",
       "translationEn": "When you believe in yourself you find strength to try.",
       "words": [
-        { "w": "تُؤْمِنُ", "root": "أ م ن", "bs": "vjeruješ", "en": "believe" },
-        { "w": "بِنَفْسِكَ", "root": "ن ف س", "bs": "u sebe", "en": "in yourself" },
-        { "w": "تَجِدُ", "root": "و ج د", "bs": "pronalaziš", "en": "find" },
-        { "w": "قُوَّةً", "root": "ق و و", "bs": "snaga", "en": "strength" }
+        {
+          "w": "تُؤْمِنُ",
+          "root": "أ م ن",
+          "bs": "vjeruješ",
+          "en": "believe",
+          "lemma": "آمَنَ يُؤْمِنُ"
+        },
+        {
+          "w": "بِنَفْسِكَ",
+          "root": "ن ف س",
+          "bs": "u sebe",
+          "en": "in yourself",
+          "lemma": "نَفْسٌ / أَنْفُسٌ"
+        },
+        {
+          "w": "تَجِدُ",
+          "root": "و ج د",
+          "bs": "pronalaziš",
+          "en": "find",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "قُوَّةً",
+          "root": "ق و و",
+          "bs": "snaga",
+          "en": "strength",
+          "lemma": "قُوَّةٌ / قُوًى"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Ne smiješ uvijek porediti sebe s drugima.",
       "translationEn": "You should not always compare yourself to others.",
       "words": [
-        { "w": "تُقَارِنَ", "root": "ق ر ن", "bs": "da porediš", "en": "compare" },
-        { "w": "نَفْسَكَ", "root": "ن ف س", "bs": "sebe", "en": "yourself" },
-        { "w": "بِالْآخَرِينَ", "root": "أ خ ر", "bs": "s drugima", "en": "to others" }
+        {
+          "w": "تُقَارِنَ",
+          "root": "ق ر ن",
+          "bs": "da porediš",
+          "en": "compare",
+          "lemma": "قَارَنَ يُقَارِنُ"
+        },
+        {
+          "w": "نَفْسَكَ",
+          "root": "ن ف س",
+          "bs": "sebe",
+          "en": "yourself",
+          "lemma": "نَفْسٌ / أَنْفُسٌ"
+        },
+        {
+          "w": "بِالْآخَرِينَ",
+          "root": "أ خ ر",
+          "bs": "s drugima",
+          "en": "to others",
+          "lemma": "آخَرُ / آخَرُونَ"
+        }
       ]
     },
     {
@@ -40,15 +106,44 @@
       "translation": "Svaka osoba ima svoje talente i sposobnosti.",
       "translationEn": "Every person has their own talents and abilities.",
       "words": [
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
-        { "w": "مَوَاهِبُهُ", "root": "و ه ب", "bs": "njegovi talenti", "en": "their talents" },
-        { "w": "قُدُرَاتُهُ", "root": "ق د ر", "bs": "njegove sposobnosti", "en": "their abilities" },
-        { "w": "الْخَاصَّةُ", "root": "خ ص ص", "bs": "posebne", "en": "own" }
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "مَوَاهِبُهُ",
+          "root": "و ه ب",
+          "bs": "njegovi talenti",
+          "en": "their talents",
+          "lemma": "مَوْهِبَةٌ / مَوَاهِبُ"
+        },
+        {
+          "w": "قُدُرَاتُهُ",
+          "root": "ق د ر",
+          "bs": "njegove sposobnosti",
+          "en": "their abilities",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
+        },
+        {
+          "w": "الْخَاصَّةُ",
+          "root": "خ ص ص",
+          "bs": "posebne",
+          "en": "own",
+          "lemma": "خَاصٌّ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "self-confidence", "values", "growth"]
+    "tags": [
+      "opinion",
+      "self-confidence",
+      "values",
+      "growth"
+    ]
   }
 }

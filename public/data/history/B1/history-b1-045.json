@@ -8,10 +8,34 @@
       "translation": "Posjete između porodica bile su važan običaj.",
       "translationEn": "Visits between families were an important custom.",
       "words": [
-        { "w": "الزِّيَارَةُ", "root": "ز و ر", "bs": "posjeta", "en": "visits" },
-        { "w": "الأُسَرِ", "root": "أ س ر", "bs": "porodice", "en": "families" },
-        { "w": "عَادَةً", "root": "ع و د", "bs": "običaj", "en": "a custom" },
-        { "w": "مُهِمَّةً", "root": "ه م م", "bs": "važan", "en": "important" }
+        {
+          "w": "الزِّيَارَةُ",
+          "root": "ز و ر",
+          "bs": "posjeta",
+          "en": "visits",
+          "lemma": "زِيَارَةٌ / زِيَارَاتٌ"
+        },
+        {
+          "w": "الأُسَرِ",
+          "root": "أ س ر",
+          "bs": "porodice",
+          "en": "families",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "عَادَةً",
+          "root": "ع و د",
+          "bs": "običaj",
+          "en": "a custom",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "مُهِمَّةً",
+          "root": "ه م م",
+          "bs": "važan",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Gostu se nudilo čaj i slatkiši.",
       "translationEn": "The guest would be offered tea and sweets.",
       "words": [
-        { "w": "الضَّيْفُ", "root": "ض ي ف", "bs": "gost", "en": "the guest" },
-        { "w": "يُقَدَّمُ", "root": "ق د م", "bs": "nudi se", "en": "is offered" },
-        { "w": "الشَّايُ", "root": "ش ي ه", "bs": "čaj", "en": "tea" },
-        { "w": "الْحَلْوَى", "root": "ح ل و", "bs": "slatkiši", "en": "sweets" }
+        {
+          "w": "الضَّيْفُ",
+          "root": "ض ي ف",
+          "bs": "gost",
+          "en": "the guest",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "يُقَدَّمُ",
+          "root": "ق د م",
+          "bs": "nudi se",
+          "en": "is offered",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الشَّايُ",
+          "root": "ش ي ه",
+          "bs": "čaj",
+          "en": "tea",
+          "lemma": "شَايٌ"
+        },
+        {
+          "w": "الْحَلْوَى",
+          "root": "ح ل و",
+          "bs": "slatkiši",
+          "en": "sweets",
+          "lemma": "حَلْوَى"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Komšije su se posjećivale svake sedmice.",
       "translationEn": "The neighbours used to visit each other every week.",
       "words": [
-        { "w": "الْجِيرَانُ", "root": "ج و ر", "bs": "komšije", "en": "the neighbours" },
-        { "w": "يَزُورُونَ", "root": "ز و ر", "bs": "posjećuju", "en": "visit" },
-        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmice", "en": "a week" }
+        {
+          "w": "الْجِيرَانُ",
+          "root": "ج و ر",
+          "bs": "komšije",
+          "en": "the neighbours",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "يَزُورُونَ",
+          "root": "ز و ر",
+          "bs": "posjećuju",
+          "en": "visit",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "س ب ع",
+          "bs": "sedmice",
+          "en": "a week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Posjete su jačale odnose među ljudima.",
       "translationEn": "The visits strengthened the relationships between people.",
       "words": [
-        { "w": "الزِّيَارَاتُ", "root": "ز و ر", "bs": "posjete", "en": "the visits" },
-        { "w": "تُقَوِّي", "root": "ق و ي", "bs": "jača", "en": "strengthens" },
-        { "w": "الْعَلَاقَاتِ", "root": "ع ل ق", "bs": "odnose", "en": "relationships" },
-        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "people" }
+        {
+          "w": "الزِّيَارَاتُ",
+          "root": "ز و ر",
+          "bs": "posjete",
+          "en": "the visits",
+          "lemma": "زِيَارَةٌ / زِيَارَاتٌ"
+        },
+        {
+          "w": "تُقَوِّي",
+          "root": "ق و ي",
+          "bs": "jača",
+          "en": "strengthens",
+          "lemma": "قَوَّى يُقَوِّي"
+        },
+        {
+          "w": "الْعَلَاقَاتِ",
+          "root": "ع ل ق",
+          "bs": "odnose",
+          "en": "relationships",
+          "lemma": "عَلَاقَةٌ / عَلَاقَاتٌ"
+        },
+        {
+          "w": "النَّاسِ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["family", "community", "traditions"]
+    "tags": [
+      "family",
+      "community",
+      "traditions"
+    ]
   }
 }

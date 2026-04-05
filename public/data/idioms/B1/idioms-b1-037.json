@@ -8,10 +8,34 @@
       "translation": "Poslovica kaže: «Ko traži visok položaj, bdijeva noćima».",
       "translationEn": "The proverb says: «Whoever seeks greatness stays up through the nights».",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "traži", "en": "seeks" },
-        { "w": "الْعُلَا", "root": "ع ل و", "bs": "visina", "en": "greatness" },
-        { "w": "سَهِرَ", "root": "س ه ر", "bs": "bdijeva", "en": "stays up" },
-        { "w": "اللَّيَالِيَ", "root": "ل ي ل", "bs": "noći", "en": "nights" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "traži",
+          "en": "seeks",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الْعُلَا",
+          "root": "ع ل و",
+          "bs": "visina",
+          "en": "greatness",
+          "lemma": "عُلًا"
+        },
+        {
+          "w": "سَهِرَ",
+          "root": "س ه ر",
+          "bs": "bdijeva",
+          "en": "stays up",
+          "lemma": "سَهِرَ يَسْهَرُ"
+        },
+        {
+          "w": "اللَّيَالِيَ",
+          "root": "ل ي ل",
+          "bs": "noći",
+          "en": "nights",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "To znači da veliki uspjeh zahtijeva veliki napor.",
       "translationEn": "This means that great success requires great effort.",
       "words": [
-        { "w": "النَّجَاحَ", "root": "ن ج ح", "bs": "uspjeh", "en": "success" },
-        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "zahtijeva", "en": "requires" },
-        { "w": "جُهْدٍ", "root": "ج ه د", "bs": "napor", "en": "effort" }
+        {
+          "w": "النَّجَاحَ",
+          "root": "ن ج ح",
+          "bs": "uspjeh",
+          "en": "success",
+          "lemma": "نَجَاحٌ / نَجَاحَاتٌ"
+        },
+        {
+          "w": "يَحْتَاجُ",
+          "root": "ح و ج",
+          "bs": "zahtijeva",
+          "en": "requires",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
+        },
+        {
+          "w": "جُهْدٍ",
+          "root": "ج ه د",
+          "bs": "napor",
+          "en": "effort",
+          "lemma": "جُهْدٌ / جُهُودٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Rim je mnogo učila i kasno spavala.",
       "translationEn": "Reem studied a lot and slept late.",
       "words": [
-        { "w": "تَدْرُسُ", "root": "د ر س", "bs": "učila je", "en": "studied" },
-        { "w": "تَنَامُ", "root": "ن و م", "bs": "spavala je", "en": "slept" },
-        { "w": "مُتَأَخِّرًا", "root": "أ خ ر", "bs": "kasno", "en": "late" }
+        {
+          "w": "تَدْرُسُ",
+          "root": "د ر س",
+          "bs": "učila je",
+          "en": "studied",
+          "lemma": "دَرَسَ يَدْرُسُ"
+        },
+        {
+          "w": "تَنَامُ",
+          "root": "ن و م",
+          "bs": "spavala je",
+          "en": "slept",
+          "lemma": "نَامَ يَنَامُ"
+        },
+        {
+          "w": "مُتَأَخِّرًا",
+          "root": "أ خ ر",
+          "bs": "kasno",
+          "en": "late",
+          "lemma": "مُتَأَخِّرٌ"
+        }
       ]
     },
     {
@@ -39,15 +99,43 @@
       "translation": "Zauzela je prvo mjesto u školi i njeni roditelji su se obradovali.",
       "translationEn": "She got first place in school and her family was happy.",
       "words": [
-        { "w": "نَالَتْ", "root": "ن ي ل", "bs": "postigla je", "en": "got" },
-        { "w": "مَرْتَبَةٍ", "root": "ر ت ب", "bs": "mjesto", "en": "place" },
-        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" },
-        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" }
+        {
+          "w": "نَالَتْ",
+          "root": "ن ي ل",
+          "bs": "postigla je",
+          "en": "got",
+          "lemma": "نَالَ يَنَالُ"
+        },
+        {
+          "w": "مَرْتَبَةٍ",
+          "root": "ر ت ب",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَرْتَبَةٌ / مَرَاتِبُ"
+        },
+        {
+          "w": "الْمَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        },
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovao se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["ambition", "proverb", "hard work"]
+    "tags": [
+      "ambition",
+      "proverb",
+      "hard work"
+    ]
   }
 }

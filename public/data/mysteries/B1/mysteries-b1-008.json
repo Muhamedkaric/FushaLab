@@ -8,9 +8,27 @@
       "translation": "Marijamina mačka je iznenada nestala.",
       "translationEn": "Maryam's cat suddenly disappeared.",
       "words": [
-        { "w": "اخْتَفَتْ", "root": "خ ف ي", "bs": "nestala je", "en": "disappeared" },
-        { "w": "قِطَّةُ", "root": "ق ط ط", "bs": "mačka", "en": "cat" },
-        { "w": "فَجْأَةً", "root": "ف ج أ", "bs": "iznenada", "en": "suddenly" }
+        {
+          "w": "اخْتَفَتْ",
+          "root": "خ ف ي",
+          "bs": "nestala je",
+          "en": "disappeared",
+          "lemma": "اخْتَفَى يَخْتَفِي"
+        },
+        {
+          "w": "قِطَّةُ",
+          "root": "ق ط ط",
+          "bs": "mačka",
+          "en": "cat",
+          "lemma": "قِطَّةٌ / قِطَطٌ"
+        },
+        {
+          "w": "فَجْأَةً",
+          "root": "ف ج أ",
+          "bs": "iznenada",
+          "en": "suddenly",
+          "lemma": "فَجْأَةٌ"
+        }
       ]
     },
     {
@@ -18,8 +36,20 @@
       "translation": "Maryam je tražila mačku u svakoj sobi.",
       "translationEn": "Maryam looked for it in every room.",
       "words": [
-        { "w": "بَحَثَتْ", "root": "ب ح ث", "bs": "tražila je", "en": "she looked for" },
-        { "w": "غُرْفَةٍ", "root": "غ ر ف", "bs": "sobi", "en": "room" }
+        {
+          "w": "بَحَثَتْ",
+          "root": "ب ح ث",
+          "bs": "tražila je",
+          "en": "she looked for",
+          "lemma": "بَحَثَ يَبْحَثُ"
+        },
+        {
+          "w": "غُرْفَةٍ",
+          "root": "غ ر ف",
+          "bs": "sobi",
+          "en": "room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        }
       ]
     },
     {
@@ -27,9 +57,27 @@
       "translation": "Zvala je mačku glasno s vrata.",
       "translationEn": "She called it loudly from the door.",
       "words": [
-        { "w": "نَادَتْهَا", "root": "ن د و", "bs": "zvala je", "en": "she called it" },
-        { "w": "بِصَوْتٍ", "root": "ص و ت", "bs": "glasom", "en": "with a voice" },
-        { "w": "عَالٍ", "root": "ع ل و", "bs": "glasnim", "en": "loud" }
+        {
+          "w": "نَادَتْهَا",
+          "root": "ن د و",
+          "bs": "zvala je",
+          "en": "she called it",
+          "lemma": "نَادَى يُنَادِي"
+        },
+        {
+          "w": "بِصَوْتٍ",
+          "root": "ص و ت",
+          "bs": "glasom",
+          "en": "with a voice",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "عَالٍ",
+          "root": "ع ل و",
+          "bs": "glasnim",
+          "en": "loud",
+          "lemma": "عَالٍ"
+        }
       ]
     },
     {
@@ -37,9 +85,27 @@
       "translation": "Nakon sat vremena mačka se sama vratila.",
       "translationEn": "After an hour the cat came back on its own.",
       "words": [
-        { "w": "سَاعَةٍ", "root": "س و ع", "bs": "sata", "en": "hour" },
-        { "w": "عَادَتِ", "root": "ع و د", "bs": "vratila se", "en": "came back" },
-        { "w": "الْقِطَّةُ", "root": "ق ط ط", "bs": "mačka", "en": "the cat" }
+        {
+          "w": "سَاعَةٍ",
+          "root": "س و ع",
+          "bs": "sata",
+          "en": "hour",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "عَادَتِ",
+          "root": "ع و د",
+          "bs": "vratila se",
+          "en": "came back",
+          "lemma": "عَادَ يَعُودُ"
+        },
+        {
+          "w": "الْقِطَّةُ",
+          "root": "ق ط ط",
+          "bs": "mačka",
+          "en": "the cat",
+          "lemma": "قِطَّةٌ / قِطَطٌ"
+        }
       ]
     },
     {
@@ -47,15 +113,44 @@
       "translation": "Mačka je nosila nešto malo u ustima.",
       "translationEn": "The cat was carrying something small in its mouth.",
       "words": [
-        { "w": "تَحْمِلُ", "root": "ح م ل", "bs": "nosi", "en": "carrying" },
-        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "nešto", "en": "something" },
-        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "malo", "en": "small" },
-        { "w": "فَمِهَا", "root": "ف م م", "bs": "ustima", "en": "its mouth" }
+        {
+          "w": "تَحْمِلُ",
+          "root": "ح م ل",
+          "bs": "nosi",
+          "en": "carrying",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "شَيْئًا",
+          "root": "ش ي أ",
+          "bs": "nešto",
+          "en": "something",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "malo",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "فَمِهَا",
+          "root": "ف م م",
+          "bs": "ustima",
+          "en": "its mouth",
+          "lemma": "فَمٌ / أَفْوَاهٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "cat", "missing", "return"]
+    "tags": [
+      "mystery",
+      "cat",
+      "missing",
+      "return"
+    ]
   }
 }

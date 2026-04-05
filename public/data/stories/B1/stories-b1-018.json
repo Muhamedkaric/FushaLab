@@ -8,11 +8,41 @@
       "translation": "Bijela ptica je živjela u velikom stablu.",
       "translationEn": "A white bird lived in a big tree.",
       "words": [
-        { "w": "عَصْفُورٌ", "root": "ع ص ف", "bs": "ptica", "en": "bird" },
-        { "w": "أَبْيَضُ", "root": "ب ي ض", "bs": "bijela", "en": "white" },
-        { "w": "يَعِيشُ", "root": "ع ي ش", "bs": "živjela je", "en": "lived" },
-        { "w": "شَجَرَةٍ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
-        { "w": "كَبِيرَةٍ", "root": "ك ب ر", "bs": "veliko", "en": "big" }
+        {
+          "w": "عَصْفُورٌ",
+          "root": "ع ص ف",
+          "bs": "ptica",
+          "en": "bird",
+          "lemma": "عُصْفُورٌ / عَصَافِيرُ"
+        },
+        {
+          "w": "أَبْيَضُ",
+          "root": "ب ي ض",
+          "bs": "bijela",
+          "en": "white",
+          "lemma": "أَبْيَضُ"
+        },
+        {
+          "w": "يَعِيشُ",
+          "root": "ع ي ش",
+          "bs": "živjela je",
+          "en": "lived",
+          "lemma": "عَاشَ يَعِيشُ"
+        },
+        {
+          "w": "شَجَرَةٍ",
+          "root": "ش ج ر",
+          "bs": "stablo",
+          "en": "tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "root": "ك ب ر",
+          "bs": "veliko",
+          "en": "big",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Hladnog dana je palo puno snijega i pokrio je sve.",
       "translationEn": "On a cold day a lot of snow fell and covered everything.",
       "words": [
-        { "w": "بَارِدٍ", "root": "ب ر د", "bs": "hladan", "en": "cold" },
-        { "w": "سَقَطَ", "root": "س ق ط", "bs": "palo je", "en": "fell" },
-        { "w": "ثَلَجٌ", "root": "ث ل ج", "bs": "snijeg", "en": "snow" },
-        { "w": "غَطَّى", "root": "غ ط ي", "bs": "pokrio je", "en": "covered" }
+        {
+          "w": "بَارِدٍ",
+          "root": "ب ر د",
+          "bs": "hladan",
+          "en": "cold",
+          "lemma": "بَارِدٌ"
+        },
+        {
+          "w": "سَقَطَ",
+          "root": "س ق ط",
+          "bs": "palo je",
+          "en": "fell",
+          "lemma": "سَقَطَ يَسْقُطُ"
+        },
+        {
+          "w": "ثَلَجٌ",
+          "root": "ث ل ج",
+          "bs": "snijeg",
+          "en": "snow",
+          "lemma": "ثَلَجٌ / ثُلُوجٌ"
+        },
+        {
+          "w": "غَطَّى",
+          "root": "غ ط ي",
+          "bs": "pokrio je",
+          "en": "covered",
+          "lemma": "غَطَّى يُغَطِّي"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Ptica nije mogla naći hranu pa je cvrkutala tužnim glasom.",
       "translationEn": "The bird could not find food and chirped in a sad voice.",
       "words": [
-        { "w": "يَجِدِ", "root": "و ج د", "bs": "naći", "en": "find" },
-        { "w": "الْعُصْفُورُ", "root": "ع ص ف", "bs": "ptica", "en": "bird" },
-        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hranu", "en": "food" },
-        { "w": "صَاحَ", "root": "ص ي ح", "bs": "cvrkutala je", "en": "chirped" },
-        { "w": "حَزِينٍ", "root": "ح ز ن", "bs": "tužan", "en": "sad" }
+        {
+          "w": "يَجِدِ",
+          "root": "و ج د",
+          "bs": "naći",
+          "en": "find",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الْعُصْفُورُ",
+          "root": "ع ص ف",
+          "bs": "ptica",
+          "en": "bird",
+          "lemma": "عُصْفُورٌ / عَصَافِيرُ"
+        },
+        {
+          "w": "طَعَامًا",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "صَاحَ",
+          "root": "ص ي ح",
+          "bs": "cvrkutala je",
+          "en": "chirped",
+          "lemma": "صَاحَ يَصِيحُ"
+        },
+        {
+          "w": "حَزِينٍ",
+          "root": "ح ز ن",
+          "bs": "tužan",
+          "en": "sad",
+          "lemma": "حَزِينٌ"
+        }
       ]
     },
     {
@@ -43,15 +127,44 @@
       "translation": "Dijete ga je čulo i iznijelo mu na prozor malo zrna.",
       "translationEn": "A child heard it and put some grains on the window for it.",
       "words": [
-        { "w": "سَمِعَهُ", "root": "س م ع", "bs": "čulo ga je", "en": "heard it" },
-        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "الْحُبُوبِ", "root": "ح ب ب", "bs": "zrna", "en": "grains" },
-        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" }
+        {
+          "w": "سَمِعَهُ",
+          "root": "س م ع",
+          "bs": "čulo ga je",
+          "en": "heard it",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "طِفْلٌ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الْحُبُوبِ",
+          "root": "ح ب ب",
+          "bs": "zrna",
+          "en": "grains",
+          "lemma": "حَبٌّ / حُبُوبٌ"
+        },
+        {
+          "w": "النَّافِذَةِ",
+          "root": "ن ف ذ",
+          "bs": "prozor",
+          "en": "window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["bird", "winter", "child", "kindness"]
+    "tags": [
+      "bird",
+      "winter",
+      "child",
+      "kindness"
+    ]
   }
 }

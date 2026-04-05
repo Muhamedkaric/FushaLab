@@ -8,11 +8,41 @@
       "translation": "Tim se okupio da podijeli zadatke između članova.",
       "translationEn": "The team met to divide tasks among the members.",
       "words": [
-        { "w": "اجْتَمَعَ", "root": "ج م ع", "bs": "okupio se/sastao se", "en": "met/gathered" },
-        { "w": "الْفَرِيقُ", "root": "ف ر ق", "bs": "tim/ekipa", "en": "team" },
-        { "w": "يُقَسِّمَ", "root": "ق س م", "bs": "da podijeli", "en": "to divide" },
-        { "w": "الْمَهَامَّ", "root": "م ه م", "bs": "zadaci/dužnosti", "en": "tasks" },
-        { "w": "الْأَعْضَاءِ", "root": "ع ض و", "bs": "članovi", "en": "members" }
+        {
+          "w": "اجْتَمَعَ",
+          "root": "ج م ع",
+          "bs": "okupio se/sastao se",
+          "en": "met/gathered",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الْفَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim/ekipa",
+          "en": "team",
+          "lemma": "فَرِيقٌ / فِرَقٌ"
+        },
+        {
+          "w": "يُقَسِّمَ",
+          "root": "ق س م",
+          "bs": "da podijeli",
+          "en": "to divide",
+          "lemma": "قَسَّمَ يُقَسِّمُ"
+        },
+        {
+          "w": "الْمَهَامَّ",
+          "root": "م ه م",
+          "bs": "zadaci/dužnosti",
+          "en": "tasks",
+          "lemma": "مَهَمَّةٌ / مَهَامُّ"
+        },
+        {
+          "w": "الْأَعْضَاءِ",
+          "root": "ع ض و",
+          "bs": "članovi",
+          "en": "members",
+          "lemma": "عُضْوٌ / أَعْضَاءٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Svaka osoba preuzela je zadatak u kojem je vješta.",
       "translationEn": "Each person took the task they are skilled at.",
       "words": [
-        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je/preuzeo", "en": "took" },
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osoba/pojedinac", "en": "person" },
-        { "w": "الْمَهْمَّةَ", "root": "م ه م", "bs": "zadatak", "en": "task" },
-        { "w": "يُتْقِنُهَا", "root": "ت ق ن", "bs": "u kojoj je vješt/majstorski", "en": "they are skilled at" }
+        {
+          "w": "أَخَذَ",
+          "root": "أ خ ذ",
+          "bs": "uzeo je/preuzeo",
+          "en": "took",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "osoba/pojedinac",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "الْمَهْمَّةَ",
+          "root": "م ه م",
+          "bs": "zadatak",
+          "en": "task",
+          "lemma": "مَهَمَّةٌ / مَهَامُّ"
+        },
+        {
+          "w": "يُتْقِنُهَا",
+          "root": "ت ق ن",
+          "bs": "u kojoj je vješt/majstorski",
+          "en": "they are skilled at",
+          "lemma": "أَتْقَنَ يُتْقِنُ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Radili su usklađeno i završili posao prije roka.",
       "translationEn": "They worked in harmony and completed the work before the deadline.",
       "words": [
-        { "w": "عَمِلُوا", "root": "ع م ل", "bs": "radili su", "en": "worked" },
-        { "w": "بِتَنَاسُقٍ", "root": "ن س ق", "bs": "usklađeno/harmonično", "en": "in harmony/harmoniously" },
-        { "w": "أَنْجَزُوا", "root": "ن ج ز", "bs": "završili su/izvršili", "en": "completed" },
-        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
-        { "w": "الْمَوْعِدِ", "root": "و ع د", "bs": "rok/termin", "en": "deadline/deadline" }
+        {
+          "w": "عَمِلُوا",
+          "root": "ع م ل",
+          "bs": "radili su",
+          "en": "worked",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "بِتَنَاسُقٍ",
+          "root": "ن س ق",
+          "bs": "usklađeno/harmonično",
+          "en": "in harmony/harmoniously",
+          "lemma": "تَنَاسُقٌ"
+        },
+        {
+          "w": "أَنْجَزُوا",
+          "root": "ن ج ز",
+          "bs": "završili su/izvršili",
+          "en": "completed",
+          "lemma": "أَنْجَزَ يُنْجِزُ"
+        },
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "posao/rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْمَوْعِدِ",
+          "root": "و ع د",
+          "bs": "rok/termin",
+          "en": "deadline/deadline",
+          "lemma": "مَوْعِدٌ / مَوَاعِيدُ"
+        }
       ]
     },
     {
@@ -43,16 +127,51 @@
       "translation": "Direktor ih je pohvalio za izvanredan timski rad.",
       "translationEn": "The manager praised them for the excellent teamwork.",
       "words": [
-        { "w": "مَدَحَهُمُ", "root": "م د ح", "bs": "pohvalio ih je", "en": "praised them" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "rad/posao", "en": "work" },
-        { "w": "الْجَمَاعِيِّ", "root": "ج م ع", "bs": "timski/kolektivni", "en": "team/collective" },
-        { "w": "الْمُمَيَّزِ", "root": "م ي ز", "bs": "izvanredan/odličan", "en": "excellent/distinguished" }
+        {
+          "w": "مَدَحَهُمُ",
+          "root": "م د ح",
+          "bs": "pohvalio ih je",
+          "en": "praised them",
+          "lemma": "مَدَحَ يَمْدَحُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "rad/posao",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْجَمَاعِيِّ",
+          "root": "ج م ع",
+          "bs": "timski/kolektivni",
+          "en": "team/collective",
+          "lemma": "جَمَاعِيٌّ"
+        },
+        {
+          "w": "الْمُمَيَّزِ",
+          "root": "م ي ز",
+          "bs": "izvanredan/odličan",
+          "en": "excellent/distinguished",
+          "lemma": "مُمَيَّزٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["teamwork", "task division", "deadline", "praise"]
+    "tags": [
+      "teamwork",
+      "task division",
+      "deadline",
+      "praise"
+    ]
   }
 }

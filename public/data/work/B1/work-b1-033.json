@@ -8,10 +8,34 @@
       "translation": "Sulejman radi u apoteci kao pomoćnik farmaceuta.",
       "translationEn": "Suleiman works in a pharmacy as a pharmacist's assistant.",
       "words": [
-        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "صَيْدَلِيَّةٍ", "root": "ص د ل", "bs": "apoteka/ljekarna", "en": "pharmacy" },
-        { "w": "مُسَاعِدٍ", "root": "س ع د", "bs": "pomoćnik/asistent", "en": "assistant" },
-        { "w": "لِلصَّيْدَلَانِيِّ", "root": "ص د ل", "bs": "farmaceut/apotekar", "en": "pharmacist" }
+        {
+          "w": "يَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "صَيْدَلِيَّةٍ",
+          "root": "ص د ل",
+          "bs": "apoteka/ljekarna",
+          "en": "pharmacy",
+          "lemma": "صَيْدَلِيَّةٌ / صَيْدَلِيَّاتٌ"
+        },
+        {
+          "w": "مُسَاعِدٍ",
+          "root": "س ع د",
+          "bs": "pomoćnik/asistent",
+          "en": "assistant",
+          "lemma": "مُسَاعِدٌ / مُسَاعِدُونَ"
+        },
+        {
+          "w": "لِلصَّيْدَلَانِيِّ",
+          "root": "ص د ل",
+          "bs": "farmaceut/apotekar",
+          "en": "pharmacist",
+          "lemma": "صَيْدَلَانِيٌّ / صَيَادِلَةٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Svako jutro slaže lijekove na police.",
       "translationEn": "He arranges the medicines on the shelves every morning.",
       "words": [
-        { "w": "يُرَتِّبُ", "root": "ر ت ب", "bs": "slaže/uređuje", "en": "arranges" },
-        { "w": "الْأَدْوِيَةَ", "root": "د و أ", "bs": "lijekovi", "en": "medicines" },
-        { "w": "الرُّفُوفِ", "root": "ر ف ف", "bs": "police/rafovi", "en": "shelves" },
-        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        {
+          "w": "يُرَتِّبُ",
+          "root": "ر ت ب",
+          "bs": "slaže/uređuje",
+          "en": "arranges",
+          "lemma": "رَتَّبَ يُرَتِّبُ"
+        },
+        {
+          "w": "الْأَدْوِيَةَ",
+          "root": "د و أ",
+          "bs": "lijekovi",
+          "en": "medicines",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
+        },
+        {
+          "w": "الرُّفُوفِ",
+          "root": "ر ف ف",
+          "bs": "police/rafovi",
+          "en": "shelves",
+          "lemma": "رَفٌّ / رُفُوفٌ"
+        },
+        {
+          "w": "صَبَاحٍ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Pomaže kupcima da nađu lijek koji im treba.",
       "translationEn": "He helps customers find the medicine they need.",
       "words": [
-        { "w": "يُسَاعِدُ", "root": "س ع د", "bs": "pomaže", "en": "helps" },
-        { "w": "الزَّبَائِنَ", "root": "ز ب ن", "bs": "kupci/mušterije", "en": "customers" },
-        { "w": "إِيجَادِ", "root": "و ج د", "bs": "pronalaženje", "en": "finding" },
-        { "w": "الدَّوَاءِ", "root": "د و أ", "bs": "lijek/medicina", "en": "medicine" },
-        { "w": "يَحْتَاجُونَهُ", "root": "ح و ج", "bs": "koji im treba", "en": "they need" }
+        {
+          "w": "يُسَاعِدُ",
+          "root": "س ع د",
+          "bs": "pomaže",
+          "en": "helps",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "الزَّبَائِنَ",
+          "root": "ز ب ن",
+          "bs": "kupci/mušterije",
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "إِيجَادِ",
+          "root": "و ج د",
+          "bs": "pronalaženje",
+          "en": "finding",
+          "lemma": "إِيجَادٌ"
+        },
+        {
+          "w": "الدَّوَاءِ",
+          "root": "د و أ",
+          "bs": "lijek/medicina",
+          "en": "medicine",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
+        },
+        {
+          "w": "يَحْتَاجُونَهُ",
+          "root": "ح و ج",
+          "bs": "koji im treba",
+          "en": "they need",
+          "lemma": "اِحْتَاجَ يَحْتَاجُ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Puno pita farmaceuta da bi naučio više.",
       "translationEn": "He asks the pharmacist a lot to learn more.",
       "words": [
-        { "w": "يَسْأَلُ", "root": "س أ ل", "bs": "pita/upita", "en": "asks" },
-        { "w": "الصَّيْدَلَانِيَّ", "root": "ص د ل", "bs": "farmaceut/apotekar", "en": "pharmacist" },
-        { "w": "لِيَتَعَلَّمَ", "root": "ع ل م", "bs": "da nauči", "en": "to learn" },
-        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više", "en": "more" }
+        {
+          "w": "يَسْأَلُ",
+          "root": "س أ ل",
+          "bs": "pita/upita",
+          "en": "asks",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "الصَّيْدَلَانِيَّ",
+          "root": "ص د ل",
+          "bs": "farmaceut/apotekar",
+          "en": "pharmacist",
+          "lemma": "صَيْدَلَانِيٌّ / صَيَادِلَةُ"
+        },
+        {
+          "w": "لِيَتَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "da nauči",
+          "en": "to learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "root": "ك ث ر",
+          "bs": "više",
+          "en": "more",
+          "lemma": "أَكْثَرُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["pharmacy", "assistant", "learning", "customer service"]
+    "tags": [
+      "pharmacy",
+      "assistant",
+      "learning",
+      "customer service"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Na vrhu brežuljka nalazila se stara tvrđava.",
       "translationEn": "There was an old castle on top of the hill.",
       "words": [
-        { "w": "قَلْعَةٌ", "root": "ق ل ع", "bs": "tvrđava", "en": "a castle" },
-        { "w": "قَدِيمَةٌ", "root": "ق د م", "bs": "stara", "en": "old" },
-        { "w": "قِمَّةِ", "root": "ق م م", "bs": "vrh", "en": "top" },
-        { "w": "التَّلِّ", "root": "ت ل ل", "bs": "brežuljak", "en": "the hill" }
+        {
+          "w": "قَلْعَةٌ",
+          "root": "ق ل ع",
+          "bs": "tvrđava",
+          "en": "a castle",
+          "lemma": "قَلْعَةٌ / قِلَاعٌ"
+        },
+        {
+          "w": "قَدِيمَةٌ",
+          "root": "ق د م",
+          "bs": "stara",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "قِمَّةِ",
+          "root": "ق م م",
+          "bs": "vrh",
+          "en": "top",
+          "lemma": "قِمَّةٌ / قِمَمٌ"
+        },
+        {
+          "w": "التَّلِّ",
+          "root": "ت ل ل",
+          "bs": "brežuljak",
+          "en": "the hill",
+          "lemma": "تَلٌّ / تِلَالٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Ljudi su izgradili ovu tvrđavu od velikog kamenja.",
       "translationEn": "The people built this castle from large stones.",
       "words": [
-        { "w": "بَنَى", "root": "ب ن ي", "bs": "izgradio je", "en": "built" },
-        { "w": "الْقَلْعَةَ", "root": "ق ل ع", "bs": "tvrđavu", "en": "the castle" },
-        { "w": "الْحِجَارَةِ", "root": "ح ج ر", "bs": "kamenje", "en": "stones" },
-        { "w": "الْكَبِيرَةِ", "root": "ك ب ر", "bs": "veliko", "en": "large" }
+        {
+          "w": "بَنَى",
+          "root": "ب ن ي",
+          "bs": "izgradio je",
+          "en": "built",
+          "lemma": "بَنَى يَبْنِي"
+        },
+        {
+          "w": "الْقَلْعَةَ",
+          "root": "ق ل ع",
+          "bs": "tvrđavu",
+          "en": "the castle",
+          "lemma": "قَلْعَةٌ / قِلَاعٌ"
+        },
+        {
+          "w": "الْحِجَارَةِ",
+          "root": "ح ج ر",
+          "bs": "kamenje",
+          "en": "stones",
+          "lemma": "حَجَرٌ / حِجَارَةٌ"
+        },
+        {
+          "w": "الْكَبِيرَةِ",
+          "root": "ك ب ر",
+          "bs": "veliko",
+          "en": "large",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Tvrđava je štitila grad.",
       "translationEn": "The castle used to protect the city.",
       "words": [
-        { "w": "الْقَلْعَةُ", "root": "ق ل ع", "bs": "tvrđava", "en": "the castle" },
-        { "w": "تُحَافِظُ", "root": "ح ف ظ", "bs": "štiti", "en": "protects" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "the city" }
+        {
+          "w": "الْقَلْعَةُ",
+          "root": "ق ل ع",
+          "bs": "tvrđava",
+          "en": "the castle",
+          "lemma": "قَلْعَةٌ / قِلَاعٌ"
+        },
+        {
+          "w": "تُحَافِظُ",
+          "root": "ح ف ظ",
+          "bs": "štiti",
+          "en": "protects",
+          "lemma": "حَافَظَ يُحَافِظُ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "the city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -40,14 +106,36 @@
       "translation": "Neki dijelovi tvrđave stoje još i danas.",
       "translationEn": "Some parts of the castle still stand to this day.",
       "words": [
-        { "w": "أَجْزَاءِ", "root": "ج ز أ", "bs": "dijelovi", "en": "parts" },
-        { "w": "الْقَلْعَةِ", "root": "ق ل ع", "bs": "tvrđave", "en": "of the castle" },
-        { "w": "قَائِمَةً", "root": "ق و م", "bs": "uspravan", "en": "standing" }
+        {
+          "w": "أَجْزَاءِ",
+          "root": "ج ز أ",
+          "bs": "dijelovi",
+          "en": "parts",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "الْقَلْعَةِ",
+          "root": "ق ل ع",
+          "bs": "tvrđave",
+          "en": "of the castle",
+          "lemma": "قَلْعَةٌ / قِلَاعٌ"
+        },
+        {
+          "w": "قَائِمَةً",
+          "root": "ق و م",
+          "bs": "uspravan",
+          "en": "standing",
+          "lemma": "قَائِمَةٌ / قَوَائِمُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["castle", "architecture", "ancient"]
+    "tags": [
+      "castle",
+      "architecture",
+      "ancient"
+    ]
   }
 }

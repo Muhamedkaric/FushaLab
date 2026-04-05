@@ -8,9 +8,27 @@
       "translation": "Majid je pronašao crtež na pijesku ispred kuće.",
       "translationEn": "Majid found a drawing on the sand in front of the house.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "رَسْمًا", "root": "ر س م", "bs": "crtež", "en": "drawing" },
-        { "w": "الرَّمْلِ", "root": "ر م ل", "bs": "pijesku", "en": "sand" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "رَسْمًا",
+          "root": "ر س م",
+          "bs": "crtež",
+          "en": "drawing",
+          "lemma": "رَسْمٌ / رُسُومٌ"
+        },
+        {
+          "w": "الرَّمْلِ",
+          "root": "ر م ل",
+          "bs": "pijesku",
+          "en": "sand",
+          "lemma": "رَمْلٌ / رِمَالٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Crtež je prikazivao veliko sunce i zvijezdu.",
       "translationEn": "The drawing was a big sun and a star.",
       "words": [
-        { "w": "الرَّسْمُ", "root": "ر س م", "bs": "crtež", "en": "the drawing" },
-        { "w": "شَمْسًا", "root": "ش م س", "bs": "sunce", "en": "sun" },
-        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "veliko", "en": "big" },
-        { "w": "نَجْمَةً", "root": "ن ج م", "bs": "zvijezdu", "en": "star" }
+        {
+          "w": "الرَّسْمُ",
+          "root": "ر س م",
+          "bs": "crtež",
+          "en": "the drawing",
+          "lemma": "رَسْمٌ / رُسُومٌ"
+        },
+        {
+          "w": "شَمْسًا",
+          "root": "ش م س",
+          "bs": "sunce",
+          "en": "sun",
+          "lemma": "شَمْسٌ"
+        },
+        {
+          "w": "كَبِيرَةً",
+          "root": "ك ب ر",
+          "bs": "veliko",
+          "en": "big",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "نَجْمَةً",
+          "root": "ن ج م",
+          "bs": "zvijezdu",
+          "en": "star",
+          "lemma": "نَجْمَةٌ / نَجْمَاتٌ"
+        }
       ]
     },
     {
@@ -29,8 +71,20 @@
       "translation": "Nije znao ko ga je nacrtao.",
       "translationEn": "He did not know who had drawn it.",
       "words": [
-        { "w": "يَعْرِفْ", "root": "ع ر ف", "bs": "znao je", "en": "he knew" },
-        { "w": "رَسَمَهُ", "root": "ر س م", "bs": "nacrtao ga je", "en": "drew it" }
+        {
+          "w": "يَعْرِفْ",
+          "root": "ع ر ف",
+          "bs": "znao je",
+          "en": "he knew",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "رَسَمَهُ",
+          "root": "ر س م",
+          "bs": "nacrtao ga je",
+          "en": "drew it",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        }
       ]
     },
     {
@@ -38,9 +92,27 @@
       "translation": "Došao je njegov mali prijatelj i rekao: Ja sam ga nacrtao za tebe!",
       "translationEn": "His little friend came and said: I drew it for you!",
       "words": [
-        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došao je", "en": "he came" },
-        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "prijatelj", "en": "his friend" },
-        { "w": "رَسَمْتُهُ", "root": "ر س م", "bs": "nacrtao sam ga", "en": "I drew it" }
+        {
+          "w": "جَاءَ",
+          "root": "ج ي أ",
+          "bs": "došao je",
+          "en": "he came",
+          "lemma": "جَاءَ يَجِيءُ"
+        },
+        {
+          "w": "صَدِيقُهُ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "his friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "رَسَمْتُهُ",
+          "root": "ر س م",
+          "bs": "nacrtao sam ga",
+          "en": "I drew it",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        }
       ]
     },
     {
@@ -48,15 +120,44 @@
       "translation": "Majid se nasmiješio i nježno zahvalio prijatelju.",
       "translationEn": "Majid smiled and thanked his friend warmly.",
       "words": [
-        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "he smiled" },
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "he thanked" },
-        { "w": "صَدِيقَهُ", "root": "ص د ق", "bs": "prijatelja", "en": "his friend" },
-        { "w": "بِحُنَانٍ", "root": "ح ن ن", "bs": "nježno", "en": "warmly" }
+        {
+          "w": "ابْتَسَمَ",
+          "root": "ب س م",
+          "bs": "nasmiješio se",
+          "en": "he smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "he thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "صَدِيقَهُ",
+          "root": "ص د ق",
+          "bs": "prijatelja",
+          "en": "his friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "بِحُنَانٍ",
+          "root": "ح ن ن",
+          "bs": "nježno",
+          "en": "warmly",
+          "lemma": "حَنَانٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "drawing", "sand", "friend"]
+    "tags": [
+      "mystery",
+      "drawing",
+      "sand",
+      "friend"
+    ]
   }
 }

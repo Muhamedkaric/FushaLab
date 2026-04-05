@@ -8,10 +8,34 @@
       "translation": "Madžid je pogriješio u izvještaju i obavijestio direktora.",
       "translationEn": "Majid made a mistake in a report and told his manager.",
       "words": [
-        { "w": "أَخْطَأَ", "root": "خ ط أ", "bs": "pogriješio je", "en": "made a mistake" },
-        { "w": "تَقْرِيرٍ", "root": "ق ر ر", "bs": "izvještaj", "en": "report" },
-        { "w": "أَخْبَرَ", "root": "خ ب ر", "bs": "obavijestio je/rekao", "en": "told/informed" },
-        { "w": "مُدِيرَهُ", "root": "د و ر", "bs": "njegov direktor", "en": "his manager" }
+        {
+          "w": "أَخْطَأَ",
+          "root": "خ ط أ",
+          "bs": "pogriješio je",
+          "en": "made a mistake",
+          "lemma": "أَخْطَأَ يُخْطِئُ"
+        },
+        {
+          "w": "تَقْرِيرٍ",
+          "root": "ق ر ر",
+          "bs": "izvještaj",
+          "en": "report",
+          "lemma": "تَقْرِيرٌ / تَقَارِيرُ"
+        },
+        {
+          "w": "أَخْبَرَ",
+          "root": "خ ب ر",
+          "bs": "obavijestio je/rekao",
+          "en": "told/informed",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "مُدِيرَهُ",
+          "root": "د و ر",
+          "bs": "njegov direktor",
+          "en": "his manager",
+          "lemma": "مُدِيرٌ / مُدَرَاءُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Direktor je rekao nema problema i zatražio da to ispravi.",
       "translationEn": "The manager said no problem and asked him to correct it.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je/zamolio", "en": "asked/requested" },
-        { "w": "تَصْحِيحَهُ", "root": "ص ح ح", "bs": "ispravku/korekciju", "en": "correction" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "tražio je/zamolio",
+          "en": "asked/requested",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "تَصْحِيحَهُ",
+          "root": "ص ح ح",
+          "bs": "ispravku/korekciju",
+          "en": "correction",
+          "lemma": "تَصْحِيحٌ / تَصْحِيحَاتٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Madžid je ispravio grešku i ponovo poslao izvještaj.",
       "translationEn": "Majid fixed the mistake and sent the report again.",
       "words": [
-        { "w": "أَصْلَحَ", "root": "ص ل ح", "bs": "ispravio je/popravio", "en": "fixed/corrected" },
-        { "w": "الْخَطَأَ", "root": "خ ط أ", "bs": "greška/pogreška", "en": "mistake/error" },
-        { "w": "أَرْسَلَ", "root": "ر س ل", "bs": "poslao je", "en": "sent" },
-        { "w": "التَّقْرِيرَ", "root": "ق ر ر", "bs": "izvještaj", "en": "report" }
+        {
+          "w": "أَصْلَحَ",
+          "root": "ص ل ح",
+          "bs": "ispravio je/popravio",
+          "en": "fixed/corrected",
+          "lemma": "أَصْلَحَ يُصْلِحُ"
+        },
+        {
+          "w": "الْخَطَأَ",
+          "root": "خ ط أ",
+          "bs": "greška/pogreška",
+          "en": "mistake/error",
+          "lemma": "خَطَأٌ / أَخْطَاءٌ"
+        },
+        {
+          "w": "أَرْسَلَ",
+          "root": "ر س ل",
+          "bs": "poslao je",
+          "en": "sent",
+          "lemma": "أَرْسَلَ يُرْسِلُ"
+        },
+        {
+          "w": "التَّقْرِيرَ",
+          "root": "ق ر ر",
+          "bs": "izvještaj",
+          "en": "report",
+          "lemma": "تَقْرِيرٌ / تَقَارِيرُ"
+        }
       ]
     },
     {
@@ -41,16 +113,51 @@
       "translation": "Naučio je da je iskrenost na poslu važna stvar.",
       "translationEn": "He learned that honesty at work is an important thing.",
       "words": [
-        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučio je", "en": "learned" },
-        { "w": "الصِّدْقَ", "root": "ص د ق", "bs": "iskrenost/poštenje", "en": "honesty" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" },
-        { "w": "أَمْرٌ", "root": "أ م ر", "bs": "stvar/pitanje", "en": "thing/matter" },
-        { "w": "مُهِمٌّ", "root": "م ه م", "bs": "važna/bitna", "en": "important" }
+        {
+          "w": "تَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الصِّدْقَ",
+          "root": "ص د ق",
+          "bs": "iskrenost/poštenje",
+          "en": "honesty",
+          "lemma": "صِدْقٌ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "أَمْرٌ",
+          "root": "أ م ر",
+          "bs": "stvar/pitanje",
+          "en": "thing/matter",
+          "lemma": "أَمْرٌ / أُمُورٌ"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "root": "م ه م",
+          "bs": "važna/bitna",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mistake", "honesty", "report", "manager"]
+    "tags": [
+      "mistake",
+      "honesty",
+      "report",
+      "manager"
+    ]
   }
 }

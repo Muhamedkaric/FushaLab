@@ -8,8 +8,20 @@
       "translation": "Pročitao sam poslovicu: «Za svaku situaciju postoji primjerena riječ».",
       "translationEn": "I read the proverb: «Every situation has its appropriate words».",
       "words": [
-        { "w": "مَقَامٍ", "root": "ق و م", "bs": "situacija", "en": "situation" },
-        { "w": "مَقَالٌ", "root": "ق و ل", "bs": "primjerena riječ", "en": "appropriate words" }
+        {
+          "w": "مَقَامٍ",
+          "root": "ق و م",
+          "bs": "situacija",
+          "en": "situation",
+          "lemma": "مَقَامٌ / مَقَامَاتٌ"
+        },
+        {
+          "w": "مَقَالٌ",
+          "root": "ق و ل",
+          "bs": "primjerena riječ",
+          "en": "appropriate words",
+          "lemma": "مَقَالٌ / مَقَالَاتٌ"
+        }
       ]
     },
     {
@@ -17,9 +29,27 @@
       "translation": "To znači da se govor razlikuje prema situaciji.",
       "translationEn": "This means that speech differs according to the situation.",
       "words": [
-        { "w": "الْكَلَامَ", "root": "ك ل م", "bs": "govor", "en": "speech" },
-        { "w": "يَخْتَلِفُ", "root": "خ ل ف", "bs": "razlikuje se", "en": "differs" },
-        { "w": "الْمَوْقِفِ", "root": "و ق ف", "bs": "situacija", "en": "situation" }
+        {
+          "w": "الْكَلَامَ",
+          "root": "ك ل م",
+          "bs": "govor",
+          "en": "speech",
+          "lemma": "كَلَامٌ"
+        },
+        {
+          "w": "يَخْتَلِفُ",
+          "root": "خ ل ف",
+          "bs": "razlikuje se",
+          "en": "differs",
+          "lemma": "اخْتَلَفَ يَخْتَلِفُ"
+        },
+        {
+          "w": "الْمَوْقِفِ",
+          "root": "و ق ف",
+          "bs": "situacija",
+          "en": "situation",
+          "lemma": "مَوْقِفٌ / مَوَاقِفُ"
+        }
       ]
     },
     {
@@ -27,9 +57,27 @@
       "translation": "Rani je govorio pristojno pred učiteljem.",
       "translationEn": "Rani spoke politely in front of the teacher.",
       "words": [
-        { "w": "تَكَلَّمَ", "root": "ك ل م", "bs": "govorio je", "en": "spoke" },
-        { "w": "بِأَدَبٍ", "root": "أ د ب", "bs": "pristojno", "en": "politely" },
-        { "w": "الْمُعَلِّمِ", "root": "ع ل م", "bs": "učitelj", "en": "teacher" }
+        {
+          "w": "تَكَلَّمَ",
+          "root": "ك ل م",
+          "bs": "govorio je",
+          "en": "spoke",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "بِأَدَبٍ",
+          "root": "أ د ب",
+          "bs": "pristojno",
+          "en": "politely",
+          "lemma": "أَدَبٌ / آدَابٌ"
+        },
+        {
+          "w": "الْمُعَلِّمِ",
+          "root": "ع ل م",
+          "bs": "učitelj",
+          "en": "teacher",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        }
       ]
     },
     {
@@ -37,14 +85,36 @@
       "translation": "I govorio je slobodnije sa svojim prijateljima.",
       "translationEn": "And he spoke more freely with his friends.",
       "words": [
-        { "w": "تَكَلَّمَ", "root": "ك ل م", "bs": "govorio je", "en": "spoke" },
-        { "w": "بِحُرِّيَّةٍ", "root": "ح ر ر", "bs": "slobodnije", "en": "freely" },
-        { "w": "أَصْدِقَائِهِ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" }
+        {
+          "w": "تَكَلَّمَ",
+          "root": "ك ل م",
+          "bs": "govorio je",
+          "en": "spoke",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "بِحُرِّيَّةٍ",
+          "root": "ح ر ر",
+          "bs": "slobodnije",
+          "en": "freely",
+          "lemma": "حُرِّيَّةٌ / حُرِّيَّاتٌ"
+        },
+        {
+          "w": "أَصْدِقَائِهِ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["speech", "proverb", "manners"]
+    "tags": [
+      "speech",
+      "proverb",
+      "manners"
+    ]
   }
 }

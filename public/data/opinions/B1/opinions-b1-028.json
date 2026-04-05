@@ -8,10 +8,34 @@
       "translation": "Po mom mišljenju, učenje se ne zaustavlja u određenim godinama.",
       "translationEn": "In my opinion, learning does not stop at a certain age.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
-        { "w": "التَّعَلُّمُ", "root": "ع ل م", "bs": "učenje", "en": "learning" },
-        { "w": "يَتَوَقَّفُ", "root": "و ق ف", "bs": "zaustavlja se", "en": "stops" },
-        { "w": "سِنٍّ", "root": "س ن ن", "bs": "godine", "en": "age" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "moje mišljenje",
+          "en": "my opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "التَّعَلُّمُ",
+          "root": "ع ل م",
+          "bs": "učenje",
+          "en": "learning",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "يَتَوَقَّفُ",
+          "root": "و ق ف",
+          "bs": "zaustavlja se",
+          "en": "stops",
+          "lemma": "تَوَقَّفَ يَتَوَقَّفُ"
+        },
+        {
+          "w": "سِنٍّ",
+          "root": "س ن ن",
+          "bs": "godine",
+          "en": "age",
+          "lemma": "سِنٌّ / أَسْنَانٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Starija osoba može učiti poput mlađe.",
       "translationEn": "An older person can learn just like a younger one.",
       "words": [
-        { "w": "الْكَبِيرُ", "root": "ك ب ر", "bs": "starija osoba", "en": "older person" },
-        { "w": "يَسْتَطِيعُ", "root": "ط و ع", "bs": "može", "en": "can" },
-        { "w": "يَتَعَلَّمَ", "root": "ع ل م", "bs": "da uči", "en": "to learn" },
-        { "w": "الصَّغِيرِ", "root": "ص غ ر", "bs": "mlađa osoba", "en": "younger one" }
+        {
+          "w": "الْكَبِيرُ",
+          "root": "ك ب ر",
+          "bs": "starija osoba",
+          "en": "older person",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "يَسْتَطِيعُ",
+          "root": "ط و ع",
+          "bs": "može",
+          "en": "can",
+          "lemma": "اسْتَطَاعَ يَسْتَطِيعُ"
+        },
+        {
+          "w": "يَتَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "da uči",
+          "en": "to learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الصَّغِيرِ",
+          "root": "ص غ ر",
+          "bs": "mlađa osoba",
+          "en": "younger one",
+          "lemma": "صَغِيرٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Vidio sam baku kako uči pisati u šezdesetoj godini.",
       "translationEn": "I saw my grandmother learning to write at the age of sixty.",
       "words": [
-        { "w": "رَأَيْتُ", "root": "ر أ ي", "bs": "vidio sam", "en": "I saw" },
-        { "w": "جَدَّتِي", "root": "ج د د", "bs": "moja baka", "en": "my grandmother" },
-        { "w": "تَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learning" },
-        { "w": "الْكِتَابَةَ", "root": "ك ت ب", "bs": "pisanje", "en": "to write" }
+        {
+          "w": "رَأَيْتُ",
+          "root": "ر أ ي",
+          "bs": "vidio sam",
+          "en": "I saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "جَدَّتِي",
+          "root": "ج د د",
+          "bs": "moja baka",
+          "en": "my grandmother",
+          "lemma": "جَدَّةٌ / جَدَّاتٌ"
+        },
+        {
+          "w": "تَتَعَلَّمُ",
+          "root": "ع ل م",
+          "bs": "uči",
+          "en": "learning",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الْكِتَابَةَ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "to write",
+          "lemma": "كِتَابَةٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Jako me nadahnula i navela me da više volim učenje.",
       "translationEn": "She inspired me greatly and made me love learning more.",
       "words": [
-        { "w": "أَلْهَمَتْنِي", "root": "ل ه م", "bs": "nadahnula me je", "en": "inspired me" },
-        { "w": "جَعَلَتْنِي", "root": "ج ع ل", "bs": "navela me je", "en": "made me" },
-        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "da volim", "en": "love" },
-        { "w": "التَّعَلُّمَ", "root": "ع ل م", "bs": "učenje", "en": "learning" }
+        {
+          "w": "أَلْهَمَتْنِي",
+          "root": "ل ه م",
+          "bs": "nadahnula me je",
+          "en": "inspired me",
+          "lemma": "أَلْهَمَ يُلْهِمُ"
+        },
+        {
+          "w": "جَعَلَتْنِي",
+          "root": "ج ع ل",
+          "bs": "navela me je",
+          "en": "made me",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "أُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "da volim",
+          "en": "love",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "التَّعَلُّمَ",
+          "root": "ع ل م",
+          "bs": "učenje",
+          "en": "learning",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "lifelong-learning", "education", "inspiration"]
+    "tags": [
+      "opinion",
+      "lifelong-learning",
+      "education",
+      "inspiration"
+    ]
   }
 }

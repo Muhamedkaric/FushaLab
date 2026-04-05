@@ -8,11 +8,41 @@
       "translation": "Hamid je pronašao jedno malo jaje samo u vrtu.",
       "translationEn": "Hamid found a small lone egg in the garden.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "بَيْضَةً", "root": "ب ي ض", "bs": "jaje", "en": "egg" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "malo", "en": "small" },
-        { "w": "وَحِيدَةً", "root": "و ح د", "bs": "samo/usamljeno", "en": "lone" },
-        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrtu", "en": "garden" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "بَيْضَةً",
+          "root": "ب ي ض",
+          "bs": "jaje",
+          "en": "egg",
+          "lemma": "بَيْضَةٌ / بَيْضٌ"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "malo",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "وَحِيدَةً",
+          "root": "و ح د",
+          "bs": "samo/usamljeno",
+          "en": "lone",
+          "lemma": "وَحِيدٌ"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "vrtu",
+          "en": "garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Bila je svijetloplave i lijepe boje.",
       "translationEn": "Its colour was light blue and beautiful.",
       "words": [
-        { "w": "لَوْنُهَا", "root": "ل و ن", "bs": "njena boja", "en": "its colour" },
-        { "w": "أَزْرَقَ", "root": "ز ر ق", "bs": "plave", "en": "blue" },
-        { "w": "فَاتِحًا", "root": "ف ت ح", "bs": "svijetlo", "en": "light" },
-        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepe", "en": "beautiful" }
+        {
+          "w": "لَوْنُهَا",
+          "root": "ل و ن",
+          "bs": "njena boja",
+          "en": "its colour",
+          "lemma": "لَوْنٌ / أَلْوَانٌ"
+        },
+        {
+          "w": "أَزْرَقَ",
+          "root": "ز ر ق",
+          "bs": "plave",
+          "en": "blue",
+          "lemma": "أَزْرَقُ"
+        },
+        {
+          "w": "فَاتِحًا",
+          "root": "ف ت ح",
+          "bs": "svijetlo",
+          "en": "light",
+          "lemma": "فَاتِحٌ"
+        },
+        {
+          "w": "جَمِيلًا",
+          "root": "ج م ل",
+          "bs": "lijepe",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Obavijestio je oca i rekao mu: Nemoj je dirati, možda je ptičje jaje.",
       "translationEn": "He told his father and he said: Do not touch it, it may be a bird's egg.",
       "words": [
-        { "w": "أَخْبَرَ", "root": "خ ب ر", "bs": "obavijestio je", "en": "he told" },
-        { "w": "تَلْمَسْهَا", "root": "ل م س", "bs": "diraje", "en": "touch it" },
-        { "w": "بَيْضَةُ", "root": "ب ي ض", "bs": "jaje", "en": "egg" },
-        { "w": "طَائِرٍ", "root": "ط ي ر", "bs": "ptičje", "en": "bird's" }
+        {
+          "w": "أَخْبَرَ",
+          "root": "خ ب ر",
+          "bs": "obavijestio je",
+          "en": "he told",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "تَلْمَسْهَا",
+          "root": "ل م س",
+          "bs": "diraje",
+          "en": "touch it",
+          "lemma": "لَمَسَ يَلْمِسُ"
+        },
+        {
+          "w": "بَيْضَةُ",
+          "root": "ب ي ض",
+          "bs": "jaje",
+          "en": "egg",
+          "lemma": "بَيْضَةٌ / بَيْضٌ"
+        },
+        {
+          "w": "طَائِرٍ",
+          "root": "ط ي ر",
+          "bs": "ptičje",
+          "en": "bird's",
+          "lemma": "طَائِرٌ / طُيُورٌ"
+        }
       ]
     },
     {
@@ -42,11 +120,41 @@
       "translation": "Nakon nekoliko dana vidjeli su malu pticu kako izlazi iz jajeta.",
       "translationEn": "After a few days they saw a small bird coming out of the egg.",
       "words": [
-        { "w": "رَأَيَا", "root": "ر أ ي", "bs": "vidjeli su", "en": "they saw" },
-        { "w": "طَائِرًا", "root": "ط ي ر", "bs": "pticu", "en": "bird" },
-        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "malu", "en": "small" },
-        { "w": "يَخْرُجُ", "root": "خ ر ج", "bs": "izlazi", "en": "coming out" },
-        { "w": "الْبَيْضَةِ", "root": "ب ي ض", "bs": "jajeta", "en": "the egg" }
+        {
+          "w": "رَأَيَا",
+          "root": "ر أ ي",
+          "bs": "vidjeli su",
+          "en": "they saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "طَائِرًا",
+          "root": "ط ي ر",
+          "bs": "pticu",
+          "en": "bird",
+          "lemma": "طَائِرٌ / طُيُورٌ"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "malu",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "يَخْرُجُ",
+          "root": "خ ر ج",
+          "bs": "izlazi",
+          "en": "coming out",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "الْبَيْضَةِ",
+          "root": "ب ي ض",
+          "bs": "jajeta",
+          "en": "the egg",
+          "lemma": "بَيْضَةٌ / بَيْضٌ"
+        }
       ]
     },
     {
@@ -54,15 +162,45 @@
       "translation": "Hamid se obradovao i rekao: Ovo je najljepši dan u mom životu.",
       "translationEn": "Hamid was happy and said: This is the most beautiful day of my life.",
       "words": [
-        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
-        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepši", "en": "most beautiful" },
-        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
-        { "w": "حَيَاتِي", "root": "ح ي ي", "bs": "mog života", "en": "my life" }
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovao se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "أَجْمَلُ",
+          "root": "ج م ل",
+          "bs": "najljepši",
+          "en": "most beautiful",
+          "lemma": "أَجْمَلُ"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "حَيَاتِي",
+          "root": "ح ي ي",
+          "bs": "mog života",
+          "en": "my life",
+          "lemma": "حَيَاةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "egg", "bird", "garden", "nature"]
+    "tags": [
+      "mystery",
+      "egg",
+      "bird",
+      "garden",
+      "nature"
+    ]
   }
 }

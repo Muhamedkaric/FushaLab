@@ -8,9 +8,27 @@
       "translation": "Bila je djevojčica po imenu Majas koja je voljela zvijezde.",
       "translationEn": "There was a girl named Mayes who loved the stars.",
       "words": [
-        { "w": "بِنْتٌ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
-        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voljela je", "en": "loved" },
-        { "w": "النُّجُومَ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" }
+        {
+          "w": "بِنْتٌ",
+          "root": "ب ن ت",
+          "bs": "djevojčica",
+          "en": "girl",
+          "lemma": "بِنْتٌ / بَنَاتٌ"
+        },
+        {
+          "w": "تُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voljela je",
+          "en": "loved",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "النُّجُومَ",
+          "root": "ن ج م",
+          "bs": "zvijezde",
+          "en": "stars",
+          "lemma": "نَجْمٌ / نُجُومٌ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "Svake večeri ih je crtala u svojoj bilježnici.",
       "translationEn": "She drew them every night in her notebook.",
       "words": [
-        { "w": "تَرْسُمُهَا", "root": "ر س م", "bs": "crtala ih je", "en": "drew them" },
-        { "w": "لَيْلَةٍ", "root": "ل ي ل", "bs": "večer", "en": "night" },
-        { "w": "دَفْتَرِهَا", "root": "د ف ت", "bs": "njena bilježnica", "en": "her notebook" }
+        {
+          "w": "تَرْسُمُهَا",
+          "root": "ر س م",
+          "bs": "crtala ih je",
+          "en": "drew them",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        },
+        {
+          "w": "لَيْلَةٍ",
+          "root": "ل ي ل",
+          "bs": "večer",
+          "en": "night",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
+        },
+        {
+          "w": "دَفْتَرِهَا",
+          "root": "د ف ت",
+          "bs": "njena bilježnica",
+          "en": "her notebook",
+          "lemma": "دَفْتَرٌ / دَفَاتِرُ"
+        }
       ]
     },
     {
@@ -28,12 +64,48 @@
       "translation": "Učiteljica je vidjela bilježnicu i predložila da studira astronomiju.",
       "translationEn": "The teacher saw the notebook and suggested she study astronomy.",
       "words": [
-        { "w": "رَأَتِ", "root": "ر أ ي", "bs": "vidjela je", "en": "saw" },
-        { "w": "الْمُعَلِّمَةُ", "root": "ع ل م", "bs": "učiteljica", "en": "teacher" },
-        { "w": "الدَّفْتَرَ", "root": "د ف ت", "bs": "bilježnica", "en": "notebook" },
-        { "w": "اقْتَرَحَتْ", "root": "ق ر ح", "bs": "predložila je", "en": "suggested" },
-        { "w": "تَدْرُسَ", "root": "د ر س", "bs": "da studira", "en": "to study" },
-        { "w": "الْفَلَكَ", "root": "ف ل ك", "bs": "astronomija", "en": "astronomy" }
+        {
+          "w": "رَأَتِ",
+          "root": "ر أ ي",
+          "bs": "vidjela je",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "الْمُعَلِّمَةُ",
+          "root": "ع ل م",
+          "bs": "učiteljica",
+          "en": "teacher",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "الدَّفْتَرَ",
+          "root": "د ف ت",
+          "bs": "bilježnica",
+          "en": "notebook",
+          "lemma": "دَفْتَرٌ / دَفَاتِرُ"
+        },
+        {
+          "w": "اقْتَرَحَتْ",
+          "root": "ق ر ح",
+          "bs": "predložila je",
+          "en": "suggested",
+          "lemma": "اقْتَرَحَ يَقْتَرِحُ"
+        },
+        {
+          "w": "تَدْرُسَ",
+          "root": "د ر س",
+          "bs": "da studira",
+          "en": "to study",
+          "lemma": "دَرَسَ يَدْرُسُ"
+        },
+        {
+          "w": "الْفَلَكَ",
+          "root": "ف ل ك",
+          "bs": "astronomija",
+          "en": "astronomy",
+          "lemma": "فَلَكٌ"
+        }
       ]
     },
     {
@@ -41,16 +113,51 @@
       "translation": "Majas je pročitala knjigu o zvijezdama i naučila mnoga njihova imena.",
       "translationEn": "Mayes read a book about stars and learned many of their names.",
       "words": [
-        { "w": "قَرَأَتْ", "root": "ق ر أ", "bs": "pročitala je", "en": "read" },
-        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "النُّجُومِ", "root": "ن ج م", "bs": "zvijezde", "en": "stars" },
-        { "w": "عَرَفَتْ", "root": "ع ر ف", "bs": "naučila je", "en": "learned" },
-        { "w": "أَسْمَاءَ", "root": "س م و", "bs": "imena", "en": "names" }
+        {
+          "w": "قَرَأَتْ",
+          "root": "ق ر أ",
+          "bs": "pročitala je",
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "النُّجُومِ",
+          "root": "ن ج م",
+          "bs": "zvijezde",
+          "en": "stars",
+          "lemma": "نَجْمٌ / نُجُومٌ"
+        },
+        {
+          "w": "عَرَفَتْ",
+          "root": "ع ر ف",
+          "bs": "naučila je",
+          "en": "learned",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "أَسْمَاءَ",
+          "root": "س م و",
+          "bs": "imena",
+          "en": "names",
+          "lemma": "اِسْمٌ / أَسْمَاءُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["stars", "girl", "school", "curiosity"]
+    "tags": [
+      "stars",
+      "girl",
+      "school",
+      "curiosity"
+    ]
   }
 }

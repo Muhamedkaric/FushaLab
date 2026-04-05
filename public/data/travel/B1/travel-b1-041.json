@@ -8,10 +8,34 @@
       "translation": "Porodica je napustila hotel ujutro.",
       "translationEn": "The family checked out of the hotel in the morning.",
       "words": [
-        { "w": "غَادَرَتِ", "root": "غ د ر", "bs": "napustila je / otišla je", "en": "left / checked out" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "الْفُنْدُقَ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
-        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        {
+          "w": "غَادَرَتِ",
+          "root": "غ د ر",
+          "bs": "napustila je / otišla je",
+          "en": "left / checked out",
+          "lemma": "غَادَرَ يُغَادِرُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "الْفُنْدُقَ",
+          "root": "ف ن د ق",
+          "bs": "hotel",
+          "en": "hotel",
+          "lemma": "فُنْدُقٌ / فَنَادِقُ"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Službenik im se oprošten i poželio im sretan put.",
       "translationEn": "The employee bid them farewell and wished them safety.",
       "words": [
-        { "w": "وَدَّعَهُمُ", "root": "و د ع", "bs": "oprostio se od njih", "en": "bid farewell" },
-        { "w": "الْمُوَظِّفُ", "root": "و ظ ف", "bs": "službenik", "en": "employee" },
-        { "w": "السَّلَامَةَ", "root": "س ل م", "bs": "sigurnost / sretan put", "en": "safety" }
+        {
+          "w": "وَدَّعَهُمُ",
+          "root": "و د ع",
+          "bs": "oprostio se od njih",
+          "en": "bid farewell",
+          "lemma": "وَدَّعَ يُوَدِّعُ"
+        },
+        {
+          "w": "الْمُوَظِّفُ",
+          "root": "و ظ ف",
+          "bs": "službenik",
+          "en": "employee",
+          "lemma": "مُوَظِّفٌ / مُوَظِّفُونَ"
+        },
+        {
+          "w": "السَّلَامَةَ",
+          "root": "س ل م",
+          "bs": "sigurnost / sretan put",
+          "en": "safety",
+          "lemma": "سَلَامَةٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Uzeli su torbe i otišli na stanicu.",
       "translationEn": "They carried their bags and went to the station.",
       "words": [
-        { "w": "حَمَلُوا", "root": "ح م ل", "bs": "nosili su", "en": "carried" },
-        { "w": "حَقَائِبَهُمْ", "root": "ح ق ب", "bs": "njihove torbe", "en": "their bags" },
-        { "w": "الْمَحَطَّةِ", "root": "ح ط ط", "bs": "stanica", "en": "station" }
+        {
+          "w": "حَمَلُوا",
+          "root": "ح م ل",
+          "bs": "nosili su",
+          "en": "carried",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "حَقَائِبَهُمْ",
+          "root": "ح ق ب",
+          "bs": "njihove torbe",
+          "en": "their bags",
+          "lemma": "حَقِيبَةٌ / حَقَائِبُ"
+        },
+        {
+          "w": "الْمَحَطَّةِ",
+          "root": "ح ط ط",
+          "bs": "stanica",
+          "en": "station",
+          "lemma": "مَحَطَّةٌ / مَحَطَّاتٌ"
+        }
       ]
     },
     {
@@ -39,9 +99,27 @@
       "translation": "Bilo je to lijepo putovanje koje neće zaboraviti.",
       "translationEn": "It was a beautiful trip they would never forget.",
       "words": [
-        { "w": "رِحْلَةً", "root": "ر ح ل", "bs": "putovanje", "en": "trip / journey" },
-        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijepo", "en": "beautiful" },
-        { "w": "يَنْسَوْهَا", "root": "ن س ي", "bs": "zaboraviti je", "en": "forget it" }
+        {
+          "w": "رِحْلَةً",
+          "root": "ر ح ل",
+          "bs": "putovanje",
+          "en": "trip / journey",
+          "lemma": "رِحْلَةٌ / رِحَلَاتٌ"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijepo",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "يَنْسَوْهَا",
+          "root": "ن س ي",
+          "bs": "zaboraviti je",
+          "en": "forget it",
+          "lemma": "نَسِيَ يَنْسَى"
+        }
       ]
     }
   ],

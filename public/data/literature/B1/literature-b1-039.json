@@ -8,10 +8,34 @@
       "translation": "U razred je stigla nova gošća, njena je Rim.",
       "translationEn": "A new guest came to the class named Reem.",
       "words": [
-        { "w": "جَاءَتْ", "root": "ج ي أ", "bs": "stigla je/došla", "en": "came" },
-        { "w": "ضَيْفَةٌ", "root": "ض ي ف", "bs": "gošća/nova učenica", "en": "guest/new student" },
-        { "w": "جَدِيدَةٌ", "root": "ج د د", "bs": "nova", "en": "new" },
-        { "w": "الصَّفِّ", "root": "ص ف ف", "bs": "razred/učionica", "en": "class/classroom" }
+        {
+          "w": "جَاءَتْ",
+          "root": "ج ي أ",
+          "bs": "stigla je/došla",
+          "en": "came",
+          "lemma": "جَاءَ يَجِيءُ"
+        },
+        {
+          "w": "ضَيْفَةٌ",
+          "root": "ض ي ف",
+          "bs": "gošća/nova učenica",
+          "en": "guest/new student",
+          "lemma": "ضَيْفَةٌ / ضَيْفَاتٌ"
+        },
+        {
+          "w": "جَدِيدَةٌ",
+          "root": "ج د د",
+          "bs": "nova",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "الصَّفِّ",
+          "root": "ص ف ف",
+          "bs": "razred/učionica",
+          "en": "class/classroom",
+          "lemma": "صَفٌّ / صُفُوفٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Bila je stidljiva i u početku nije govorila.",
       "translationEn": "She was shy and did not speak at first.",
       "words": [
-        { "w": "خَجُولَةً", "root": "خ ج ل", "bs": "stidljiva", "en": "shy" },
-        { "w": "تَتَكَلَّمْ", "root": "ك ل م", "bs": "govorila je", "en": "speak" },
-        { "w": "الْبِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "beginning/at first" }
+        {
+          "w": "خَجُولَةً",
+          "root": "خ ج ل",
+          "bs": "stidljiva",
+          "en": "shy",
+          "lemma": "خَجُولٌ"
+        },
+        {
+          "w": "تَتَكَلَّمْ",
+          "root": "ك ل م",
+          "bs": "govorila je",
+          "en": "speak",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "الْبِدَايَةِ",
+          "root": "ب د أ",
+          "bs": "početak",
+          "en": "beginning/at first",
+          "lemma": "بِدَايَةٌ / بِدَايَاتٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Jedna djevojčica je prišla i predstavila joj se.",
       "translationEn": "One of the girls approached her and introduced herself.",
       "words": [
-        { "w": "اقْتَرَبَتْ", "root": "ق ر ب", "bs": "prišla je/približila se", "en": "approached" },
-        { "w": "الْبَنَاتِ", "root": "ب ن ت", "bs": "djevojčice", "en": "girls" },
-        { "w": "عَرَّفَتْهَا", "root": "ع ر ف", "bs": "predstavila joj se", "en": "introduced herself to her" },
-        { "w": "بِنَفْسِهَا", "root": "ن ف س", "bs": "sama/lično", "en": "herself" }
+        {
+          "w": "اقْتَرَبَتْ",
+          "root": "ق ر ب",
+          "bs": "prišla je/približila se",
+          "en": "approached",
+          "lemma": "اقْتَرَبَ يَقْتَرِبُ"
+        },
+        {
+          "w": "الْبَنَاتِ",
+          "root": "ب ن ت",
+          "bs": "djevojčice",
+          "en": "girls",
+          "lemma": "بِنْتٌ / بَنَاتٌ"
+        },
+        {
+          "w": "عَرَّفَتْهَا",
+          "root": "ع ر ف",
+          "bs": "predstavila joj se",
+          "en": "introduced herself to her",
+          "lemma": "عَرَّفَ يُعَرِّفُ"
+        },
+        {
+          "w": "بِنَفْسِهَا",
+          "root": "ن ف س",
+          "bs": "sama/lično",
+          "en": "herself",
+          "lemma": "نَفْسٌ / أَنْفُسٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Rim se nasmiješila i počela govoriti i smijati.",
       "translationEn": "Reem smiled and began to talk and laugh.",
       "words": [
-        { "w": "ابْتَسَمَتْ", "root": "ب س م", "bs": "nasmiješila se", "en": "smiled" },
-        { "w": "بَدَأَتْ", "root": "ب د أ", "bs": "počela je", "en": "began" },
-        { "w": "تَتَكَلَّمُ", "root": "ك ل م", "bs": "govoriti", "en": "to talk" },
-        { "w": "تَضْحَكُ", "root": "ض ح ك", "bs": "smijati se", "en": "to laugh" }
+        {
+          "w": "ابْتَسَمَتْ",
+          "root": "ب س م",
+          "bs": "nasmiješila se",
+          "en": "smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "بَدَأَتْ",
+          "root": "ب د أ",
+          "bs": "počela je",
+          "en": "began",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "تَتَكَلَّمُ",
+          "root": "ك ل م",
+          "bs": "govoriti",
+          "en": "to talk",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "تَضْحَكُ",
+          "root": "ض ح ك",
+          "bs": "smijati se",
+          "en": "to laugh",
+          "lemma": "ضَحِكَ يَضْحَكُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["school", "friendship", "shyness"]
+    "tags": [
+      "school",
+      "friendship",
+      "shyness"
+    ]
   }
 }

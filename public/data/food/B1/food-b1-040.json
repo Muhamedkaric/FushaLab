@@ -8,11 +8,41 @@
       "translation": "Gošća je porodici ponudila slatkiše iz svog kraja.",
       "translationEn": "The guest brought sweets from her country for the family.",
       "words": [
-        { "w": "قَدَّمَتِ", "root": "ق د م", "bs": "ponudila je/donijela", "en": "offered/brought" },
-        { "w": "الضَّيْفَةُ", "root": "ض ي ف", "bs": "gošća", "en": "guest (female)" },
-        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "حَلَوِيَّاتٍ", "root": "ح ل و", "bs": "slatkiše/deserti", "en": "sweets" },
-        { "w": "بَلَدِهَا", "root": "ب ل د", "bs": "njena zemlja/kraj", "en": "her country" }
+        {
+          "w": "قَدَّمَتِ",
+          "root": "ق د م",
+          "bs": "ponudila je/donijela",
+          "en": "offered/brought",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الضَّيْفَةُ",
+          "root": "ض ي ف",
+          "bs": "gošća",
+          "en": "guest (female)",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "حَلَوِيَّاتٍ",
+          "root": "ح ل و",
+          "bs": "slatkiše/deserti",
+          "en": "sweets",
+          "lemma": "حَلَوِيَّاتٌ"
+        },
+        {
+          "w": "بَلَدِهَا",
+          "root": "ب ل د",
+          "bs": "njena zemlja/kraj",
+          "en": "her country",
+          "lemma": "بَلَدٌ / بِلَادٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Slatkiši su bili sa medom i orašastim plodovima.",
       "translationEn": "The sweets were with honey and nuts.",
       "words": [
-        { "w": "الْحَلَوِيَّاتُ", "root": "ح ل و", "bs": "slatkiši/deserti", "en": "sweets" },
-        { "w": "الْعَسَلِ", "root": "ع س ل", "bs": "med", "en": "honey" },
-        { "w": "الْمُكَسَّرَاتِ", "root": "ك س ر", "bs": "orašasti plodovi", "en": "nuts" }
+        {
+          "w": "الْحَلَوِيَّاتُ",
+          "root": "ح ل و",
+          "bs": "slatkiši/deserti",
+          "en": "sweets",
+          "lemma": "حَلَوِيَّاتٌ"
+        },
+        {
+          "w": "الْعَسَلِ",
+          "root": "ع س ل",
+          "bs": "med",
+          "en": "honey",
+          "lemma": "عَسَلٌ"
+        },
+        {
+          "w": "الْمُكَسَّرَاتِ",
+          "root": "ك س ر",
+          "bs": "orašasti plodovi",
+          "en": "nuts",
+          "lemma": "مُكَسَّرَاتٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Djeca su ih jela i jako ih zavoljela.",
       "translationEn": "The children ate from them and loved them a lot.",
       "words": [
-        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
-        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "أَحَبُّوهَا", "root": "ح ب ب", "bs": "zavoljeli su ih", "en": "loved them" },
-        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "mnogo/jako", "en": "a lot" }
+        {
+          "w": "أَكَلَ",
+          "root": "أ ك ل",
+          "bs": "jeli su",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الْأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "أَحَبُّوهَا",
+          "root": "ح ب ب",
+          "bs": "zavoljeli su ih",
+          "en": "loved them",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "كَثِيرًا",
+          "root": "ك ث ر",
+          "bs": "mnogo/jako",
+          "en": "a lot",
+          "lemma": "كَثِيرٌ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Majka je zahvalila gošći za njezin poklon.",
       "translationEn": "The mother thanked the guest for her gift.",
       "words": [
-        { "w": "شَكَرَتِ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
-        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "الضَّيْفَةَ", "root": "ض ي ف", "bs": "gošću", "en": "guest (female)" },
-        { "w": "هَدِيَّتِهَا", "root": "ه د ي", "bs": "njen poklon", "en": "her gift" }
+        {
+          "w": "شَكَرَتِ",
+          "root": "ش ك ر",
+          "bs": "zahvalila je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "الضَّيْفَةَ",
+          "root": "ض ي ف",
+          "bs": "gošću",
+          "en": "guest (female)",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "هَدِيَّتِهَا",
+          "root": "ه د ي",
+          "bs": "njen poklon",
+          "en": "her gift",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        }
       ]
     }
   ],

@@ -8,11 +8,41 @@
       "translation": "Stari most prelazio je široku rijeku.",
       "translationEn": "The ancient bridge crossed the wide river.",
       "words": [
-        { "w": "الْجَسْرُ", "root": "ج س ر", "bs": "most", "en": "the bridge" },
-        { "w": "الْقَدِيمُ", "root": "ق د م", "bs": "stari", "en": "ancient" },
-        { "w": "يَعْبُرُ", "root": "ع ب ر", "bs": "prelazi", "en": "crosses" },
-        { "w": "النَّهْرَ", "root": "ن ه ر", "bs": "rijeku", "en": "the river" },
-        { "w": "الْعَرِيضَ", "root": "ع ر ض", "bs": "široka", "en": "wide" }
+        {
+          "w": "الْجَسْرُ",
+          "root": "ج س ر",
+          "bs": "most",
+          "en": "the bridge",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        },
+        {
+          "w": "الْقَدِيمُ",
+          "root": "ق د م",
+          "bs": "stari",
+          "en": "ancient",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "يَعْبُرُ",
+          "root": "ع ب ر",
+          "bs": "prelazi",
+          "en": "crosses",
+          "lemma": "عَبَرَ يَعْبُرُ"
+        },
+        {
+          "w": "النَّهْرَ",
+          "root": "ن ه ر",
+          "bs": "rijeku",
+          "en": "the river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        },
+        {
+          "w": "الْعَرِيضَ",
+          "root": "ع ر ض",
+          "bs": "široka",
+          "en": "wide",
+          "lemma": "عَرِيضٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Gradili su ga radnici od masivnog kamenja.",
       "translationEn": "The workers built it from massive stones.",
       "words": [
-        { "w": "بَنَاهُ", "root": "ب ن ي", "bs": "gradili su ga", "en": "built it" },
-        { "w": "الْعُمَّالُ", "root": "ع م ل", "bs": "radnici", "en": "the workers" },
-        { "w": "الْحِجَارَةِ", "root": "ح ج ر", "bs": "kamenja", "en": "stones" },
-        { "w": "الضَّخْمَةِ", "root": "ض خ م", "bs": "masivno", "en": "massive" }
+        {
+          "w": "بَنَاهُ",
+          "root": "ب ن ي",
+          "bs": "gradili su ga",
+          "en": "built it",
+          "lemma": "بَنَى يَبْنِي"
+        },
+        {
+          "w": "الْعُمَّالُ",
+          "root": "ع م ل",
+          "bs": "radnici",
+          "en": "the workers",
+          "lemma": "عَامِلٌ / عُمَّالٌ"
+        },
+        {
+          "w": "الْحِجَارَةِ",
+          "root": "ح ج ر",
+          "bs": "kamenja",
+          "en": "stones",
+          "lemma": "حَجَرٌ / حِجَارَةٌ"
+        },
+        {
+          "w": "الضَّخْمَةِ",
+          "root": "ض خ م",
+          "bs": "masivno",
+          "en": "massive",
+          "lemma": "ضَخْمٌ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Ljudi i životinje prelazili su ga svaki dan.",
       "translationEn": "People and animals crossed it every day.",
       "words": [
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "الْحَيَوَانَاتُ", "root": "ح ي و", "bs": "životinje", "en": "animals" },
-        { "w": "يَعْبُرُونَهُ", "root": "ع ب ر", "bs": "prelaze ga", "en": "cross it" }
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "الْحَيَوَانَاتُ",
+          "root": "ح ي و",
+          "bs": "životinje",
+          "en": "animals",
+          "lemma": "حَيَوَانٌ / حَيَوَانَاتٌ"
+        },
+        {
+          "w": "يَعْبُرُونَهُ",
+          "root": "ع ب ر",
+          "bs": "prelaze ga",
+          "en": "cross it",
+          "lemma": "عَبَرَ يَعْبُرُ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Most je spajao dva sela koja su bila odvojena.",
       "translationEn": "The bridge connected two villages that were separated.",
       "words": [
-        { "w": "رَبَطَ", "root": "ر ب ط", "bs": "spajao je", "en": "connected" },
-        { "w": "الْجَسْرُ", "root": "ج س ر", "bs": "most", "en": "the bridge" },
-        { "w": "قَرْيَتَيْنِ", "root": "ق ر ي", "bs": "dva sela", "en": "two villages" },
-        { "w": "مُنْفَصِلَتَيْنِ", "root": "ف ص ل", "bs": "odvojena", "en": "separated" }
+        {
+          "w": "رَبَطَ",
+          "root": "ر ب ط",
+          "bs": "spajao je",
+          "en": "connected",
+          "lemma": "رَبَطَ يَرْبُطُ"
+        },
+        {
+          "w": "الْجَسْرُ",
+          "root": "ج س ر",
+          "bs": "most",
+          "en": "the bridge",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        },
+        {
+          "w": "قَرْيَتَيْنِ",
+          "root": "ق ر ي",
+          "bs": "dva sela",
+          "en": "two villages",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "مُنْفَصِلَتَيْنِ",
+          "root": "ف ص ل",
+          "bs": "odvojena",
+          "en": "separated",
+          "lemma": "مُنْفَصِلٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["bridge", "architecture", "river"]
+    "tags": [
+      "bridge",
+      "architecture",
+      "river"
+    ]
   }
 }

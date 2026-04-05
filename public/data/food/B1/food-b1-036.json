@@ -8,10 +8,34 @@
       "translation": "Faruq je pronašao dom bez hrane u frižideru.",
       "translationEn": "Faruq found a home with no food in the fridge.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je/našao", "en": "found" },
-        { "w": "مَنْزِلًا", "root": "ن ز ل", "bs": "dom/kuća", "en": "home" },
-        { "w": "طَعَامٍ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "الثَّلَّاجَةِ", "root": "ث ل ج", "bs": "frižider/hladnjak", "en": "fridge" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je/našao",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "مَنْزِلًا",
+          "root": "ن ز ل",
+          "bs": "dom/kuća",
+          "en": "home",
+          "lemma": "مَنْزِلٌ / مَنَازِلُ"
+        },
+        {
+          "w": "طَعَامٍ",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الثَّلَّاجَةِ",
+          "root": "ث ل ج",
+          "bs": "frižider/hladnjak",
+          "en": "fridge",
+          "lemma": "ثَلَّاجَةٌ / ثَلَّاجَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Odlučio je kuhati s onim što je ostalo u kuhinji.",
       "translationEn": "He decided to cook with what remained in his kitchen.",
       "words": [
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
-        { "w": "يَطْبُخَ", "root": "ط ب خ", "bs": "da kuha/kuhati", "en": "to cook" },
-        { "w": "تَبَقَّى", "root": "ب ق ي", "bs": "ostalo/preostalo", "en": "remained" },
-        { "w": "مَطْبَخِهِ", "root": "ط ب خ", "bs": "njegova kuhinja", "en": "his kitchen" }
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "يَطْبُخَ",
+          "root": "ط ب خ",
+          "bs": "da kuha/kuhati",
+          "en": "to cook",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "تَبَقَّى",
+          "root": "ب ق ي",
+          "bs": "ostalo/preostalo",
+          "en": "remained",
+          "lemma": "تَبَقَّى يَتَبَقَّى"
+        },
+        {
+          "w": "مَطْبَخِهِ",
+          "root": "ط ب خ",
+          "bs": "njegova kuhinja",
+          "en": "his kitchen",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
+        }
       ]
     },
     {
@@ -30,13 +78,55 @@
       "translation": "Pronašao je jaja, hljeb i ulje i skuhao jednostavan doručak.",
       "translationEn": "He found eggs, bread, and oil and cooked a simple breakfast.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
-        { "w": "بَيْضًا", "root": "ب ي ض", "bs": "jaja", "en": "eggs" },
-        { "w": "خُبْزًا", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
-        { "w": "زَيْتًا", "root": "ز ي ت", "bs": "ulje", "en": "oil" },
-        { "w": "طَبَخَ", "root": "ط ب خ", "bs": "skuhao je", "en": "cooked" },
-        { "w": "إِفْطَارًا", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" },
-        { "w": "بَسِيطًا", "root": "ب س ط", "bs": "jednostavan", "en": "simple" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "بَيْضًا",
+          "root": "ب ي ض",
+          "bs": "jaja",
+          "en": "eggs",
+          "lemma": "بَيْضٌ"
+        },
+        {
+          "w": "خُبْزًا",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread",
+          "lemma": "خُبْزٌ / أَخْبَازٌ"
+        },
+        {
+          "w": "زَيْتًا",
+          "root": "ز ي ت",
+          "bs": "ulje",
+          "en": "oil",
+          "lemma": "زَيْتٌ / زُيُوتٌ"
+        },
+        {
+          "w": "طَبَخَ",
+          "root": "ط ب خ",
+          "bs": "skuhao je",
+          "en": "cooked",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "إِفْطَارًا",
+          "root": "ف ط ر",
+          "bs": "doručak",
+          "en": "breakfast",
+          "lemma": "إِفْطَارٌ / إِفْطَارَاتٌ"
+        },
+        {
+          "w": "بَسِيطًا",
+          "root": "ب س ط",
+          "bs": "jednostavan",
+          "en": "simple",
+          "lemma": "بَسِيطٌ"
+        }
       ]
     },
     {
@@ -44,12 +134,48 @@
       "translation": "Jeo je zadovoljno i odlučio kupiti hranu sutra.",
       "translationEn": "He ate with contentment and decided to buy food tomorrow.",
       "words": [
-        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo je", "en": "ate" },
-        { "w": "بِرِضًا", "root": "ر ض و", "bs": "zadovoljno/s zadovoljstvom", "en": "with contentment" },
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
-        { "w": "يَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
-        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "غَدًا", "root": "غ د و", "bs": "sutra", "en": "tomorrow" }
+        {
+          "w": "أَكَلَ",
+          "root": "أ ك ل",
+          "bs": "jeo je",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "بِرِضًا",
+          "root": "ر ض و",
+          "bs": "zadovoljno/s zadovoljstvom",
+          "en": "with contentment",
+          "lemma": "رِضًا / رِضَاءٌ"
+        },
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "يَشْتَرِيَ",
+          "root": "ش ر ي",
+          "bs": "da kupi",
+          "en": "to buy",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "غَدًا",
+          "root": "غ د و",
+          "bs": "sutra",
+          "en": "tomorrow",
+          "lemma": "غَدٌ"
+        }
       ]
     }
   ],

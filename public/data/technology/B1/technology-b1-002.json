@@ -8,9 +8,27 @@
       "translation": "Rami je nazvao majku telefonom.",
       "translationEn": "Rami called his mother on the phone.",
       "words": [
-        { "w": "اتَّصَلَ", "root": "و ص ل", "bs": "nazvao je", "en": "called" },
-        { "w": "أُمِّهِ", "root": "أ م م", "bs": "svojoj majci", "en": "his mother" },
-        { "w": "الْهَاتِفِ", "root": "ه ت ف", "bs": "telefonu", "en": "the phone" }
+        {
+          "w": "اتَّصَلَ",
+          "root": "و ص ل",
+          "bs": "nazvao je",
+          "en": "called",
+          "lemma": "اتَّصَلَ يَتَّصِلُ"
+        },
+        {
+          "w": "أُمِّهِ",
+          "root": "أ م م",
+          "bs": "svojoj majci",
+          "en": "his mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "الْهَاتِفِ",
+          "root": "ه ت ف",
+          "bs": "telefonu",
+          "en": "the phone",
+          "lemma": "هَاتِفٌ / هَوَاتِفُ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "Obavijestio ju je da je stigao sigurno.",
       "translationEn": "He told her that he arrived safely.",
       "words": [
-        { "w": "أَخْبَرَهَا", "root": "خ ب ر", "bs": "obavijestio je", "en": "told her" },
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
-        { "w": "سَلَامَةٍ", "root": "س ل م", "bs": "sigurno", "en": "safely" }
+        {
+          "w": "أَخْبَرَهَا",
+          "root": "خ ب ر",
+          "bs": "obavijestio je",
+          "en": "told her",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "سَلَامَةٍ",
+          "root": "س ل م",
+          "bs": "sigurno",
+          "en": "safely",
+          "lemma": "سَلَامَةٌ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Bila je sretna kad je čula njegov glas.",
       "translationEn": "She was happy when she heard his voice.",
       "words": [
-        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
-        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "čula je", "en": "heard" },
-        { "w": "صَوْتَهُ", "root": "ص و ت", "bs": "njegov glas", "en": "his voice" }
+        {
+          "w": "سَعِيدَةً",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "سَمِعَتْ",
+          "root": "س م ع",
+          "bs": "čula je",
+          "en": "heard",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "صَوْتَهُ",
+          "root": "ص و ت",
+          "bs": "njegov glas",
+          "en": "his voice",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        }
       ]
     },
     {
@@ -38,9 +92,27 @@
       "translation": "Malo su razgovarali pa se pozdravili.",
       "translationEn": "They talked a little then said goodbye.",
       "words": [
-        { "w": "تَحَدَّثَا", "root": "ح د ث", "bs": "razgovarali su", "en": "they talked" },
-        { "w": "قَلِيلًا", "root": "ق ل ل", "bs": "malo", "en": "a little" },
-        { "w": "السَّلَامَةِ", "root": "س ل م", "bs": "zbogom", "en": "goodbye" }
+        {
+          "w": "تَحَدَّثَا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "they talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "قَلِيلًا",
+          "root": "ق ل ل",
+          "bs": "malo",
+          "en": "a little",
+          "lemma": "قَلِيلٌ"
+        },
+        {
+          "w": "السَّلَامَةِ",
+          "root": "س ل م",
+          "bs": "zbogom",
+          "en": "goodbye",
+          "lemma": "سَلَامَةٌ"
+        }
       ]
     }
   ],

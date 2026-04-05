@@ -8,11 +8,41 @@
       "translation": "Stari put je prolazio kroz planine i ravnice.",
       "translationEn": "The ancient road used to pass through mountains and plains.",
       "words": [
-        { "w": "الطَّرِيقُ", "root": "ط ر ق", "bs": "put", "en": "the road" },
-        { "w": "الْقَدِيمُ", "root": "ق د م", "bs": "stari", "en": "ancient" },
-        { "w": "يَمُرُّ", "root": "م ر ر", "bs": "prolazi", "en": "passes" },
-        { "w": "الْجِبَالِ", "root": "ج ب ل", "bs": "planine", "en": "mountains" },
-        { "w": "السُّهُولِ", "root": "س ه ل", "bs": "ravnice", "en": "plains" }
+        {
+          "w": "الطَّرِيقُ",
+          "root": "ط ر ق",
+          "bs": "put",
+          "en": "the road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        },
+        {
+          "w": "الْقَدِيمُ",
+          "root": "ق د م",
+          "bs": "stari",
+          "en": "ancient",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "يَمُرُّ",
+          "root": "م ر ر",
+          "bs": "prolazi",
+          "en": "passes",
+          "lemma": "مَرَّ يَمُرُّ"
+        },
+        {
+          "w": "الْجِبَالِ",
+          "root": "ج ب ل",
+          "bs": "planine",
+          "en": "mountains",
+          "lemma": "جَبَلٌ / جِبَالٌ"
+        },
+        {
+          "w": "السُّهُولِ",
+          "root": "س ه ل",
+          "bs": "ravnice",
+          "en": "plains",
+          "lemma": "سَهْلٌ / سُهُولٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Trgovci su njim hodali dugo mjeseci.",
       "translationEn": "The merchants walked on it for long months.",
       "words": [
-        { "w": "سَارَ", "root": "س ي ر", "bs": "hodao je", "en": "walked" },
-        { "w": "التُّجَّارُ", "root": "ت ج ر", "bs": "trgovci", "en": "the merchants" },
-        { "w": "أَشْهُرٍ", "root": "ش ه ر", "bs": "mjeseci", "en": "months" },
-        { "w": "طَوِيلَةٍ", "root": "ط و ل", "bs": "dugi", "en": "long" }
+        {
+          "w": "سَارَ",
+          "root": "س ي ر",
+          "bs": "hodao je",
+          "en": "walked",
+          "lemma": "سَارَ يَسِيرُ"
+        },
+        {
+          "w": "التُّجَّارُ",
+          "root": "ت ج ر",
+          "bs": "trgovci",
+          "en": "the merchants",
+          "lemma": "تَاجِرٌ / تُجَّارٌ"
+        },
+        {
+          "w": "أَشْهُرٍ",
+          "root": "ش ه ر",
+          "bs": "mjeseci",
+          "en": "months",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "طَوِيلَةٍ",
+          "root": "ط و ل",
+          "bs": "dugi",
+          "en": "long",
+          "lemma": "طَوِيلٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Ljudi su razmjenjivali robu i ideje na putu.",
       "translationEn": "People exchanged goods and ideas along the road.",
       "words": [
-        { "w": "تَبَادَلَ", "root": "ب د ل", "bs": "razmjenjivao je", "en": "exchanged" },
-        { "w": "الْبَضَائِعَ", "root": "ب ض ع", "bs": "robu", "en": "goods" },
-        { "w": "الأَفْكَارَ", "root": "ف ك ر", "bs": "ideje", "en": "ideas" },
-        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "putu", "en": "the road" }
+        {
+          "w": "تَبَادَلَ",
+          "root": "ب د ل",
+          "bs": "razmjenjivao je",
+          "en": "exchanged",
+          "lemma": "تَبَادَلَ يَتَبَادَلُ"
+        },
+        {
+          "w": "الْبَضَائِعَ",
+          "root": "ب ض ع",
+          "bs": "robu",
+          "en": "goods",
+          "lemma": "بِضَاعَةٌ / بَضَائِعُ"
+        },
+        {
+          "w": "الأَفْكَارَ",
+          "root": "ف ك ر",
+          "bs": "ideje",
+          "en": "ideas",
+          "lemma": "فِكْرَةٌ / أَفْكَارٌ"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "putu",
+          "en": "the road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,50 @@
       "translation": "Put je povezivao različite narode i kulture.",
       "translationEn": "The road connected different peoples and cultures.",
       "words": [
-        { "w": "الطَّرِيقُ", "root": "ط ر ق", "bs": "put", "en": "the road" },
-        { "w": "يَرْبِطُ", "root": "ر ب ط", "bs": "povezuje", "en": "connects" },
-        { "w": "شُعُوبًا", "root": "ش ع ب", "bs": "narode", "en": "peoples" },
-        { "w": "ثَقَافَاتٍ", "root": "ث ق ف", "bs": "kulture", "en": "cultures" },
-        { "w": "مُخْتَلِفَةً", "root": "خ ل ف", "bs": "različite", "en": "different" }
+        {
+          "w": "الطَّرِيقُ",
+          "root": "ط ر ق",
+          "bs": "put",
+          "en": "the road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        },
+        {
+          "w": "يَرْبِطُ",
+          "root": "ر ب ط",
+          "bs": "povezuje",
+          "en": "connects",
+          "lemma": "رَبَطَ يَرْبِطُ"
+        },
+        {
+          "w": "شُعُوبًا",
+          "root": "ش ع ب",
+          "bs": "narode",
+          "en": "peoples",
+          "lemma": "شَعْبٌ / شُعُوبٌ"
+        },
+        {
+          "w": "ثَقَافَاتٍ",
+          "root": "ث ق ف",
+          "bs": "kulture",
+          "en": "cultures",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "مُخْتَلِفَةً",
+          "root": "خ ل ف",
+          "bs": "različite",
+          "en": "different",
+          "lemma": "مُخْتَلِفٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["trade route", "travel", "culture"]
+    "tags": [
+      "trade route",
+      "travel",
+      "culture"
+    ]
   }
 }

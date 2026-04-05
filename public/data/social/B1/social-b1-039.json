@@ -8,10 +8,33 @@
       "translation": "Hrana nije bila svježa i gost se žalio.",
       "translationEn": "The food was not fresh and the customer complained.",
       "words": [
-        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "طَازَجًا", "bs": "svježa", "en": "fresh" },
-        { "w": "شَكَا", "root": "ش ك و", "bs": "žalio se", "en": "complained" },
-        { "w": "الزَّبُونُ", "root": "ز ب ن", "bs": "gost", "en": "customer" }
+        {
+          "w": "الطَّعَامُ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "طَازَجًا",
+          "bs": "svježa",
+          "en": "fresh",
+          "lemma": "طَازَجٌ"
+        },
+        {
+          "w": "شَكَا",
+          "root": "ش ك و",
+          "bs": "žalio se",
+          "en": "complained",
+          "lemma": "شَكَا يَشْكُو"
+        },
+        {
+          "w": "الزَّبُونُ",
+          "root": "ز ب ن",
+          "bs": "gost",
+          "en": "customer",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        }
       ]
     },
     {
@@ -19,10 +42,34 @@
       "translation": "Pozvao je konobara i rekao mu o problemu.",
       "translationEn": "He called the waiter and told him about the problem.",
       "words": [
-        { "w": "اسْتَدْعَى", "root": "د ع و", "bs": "pozvao je", "en": "called" },
-        { "w": "النَّادِلَ", "root": "ن د ل", "bs": "konobara", "en": "waiter" },
-        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "rekao mu je", "en": "told him" },
-        { "w": "بِالمُشْكِلَةِ", "root": "ش ك ل", "bs": "o problemu", "en": "about the problem" }
+        {
+          "w": "اسْتَدْعَى",
+          "root": "د ع و",
+          "bs": "pozvao je",
+          "en": "called",
+          "lemma": "اسْتَدْعَى يَسْتَدْعِي"
+        },
+        {
+          "w": "النَّادِلَ",
+          "root": "ن د ل",
+          "bs": "konobara",
+          "en": "waiter",
+          "lemma": "نَادِلٌ / نُدَلَاءُ"
+        },
+        {
+          "w": "أَخْبَرَهُ",
+          "root": "خ ب ر",
+          "bs": "rekao mu je",
+          "en": "told him",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "بِالمُشْكِلَةِ",
+          "root": "ش ك ل",
+          "bs": "o problemu",
+          "en": "about the problem",
+          "lemma": "مُشْكِلَةٌ / مَشَاكِلُ"
+        }
       ]
     },
     {
@@ -30,11 +77,41 @@
       "translation": "Konobar se ispričao i donio novi tanjir.",
       "translationEn": "The waiter apologized and brought a new dish.",
       "words": [
-        { "w": "اعْتَذَرَ", "root": "ع ذ ر", "bs": "ispričao se", "en": "apologized" },
-        { "w": "النَّادِلُ", "root": "ن د ل", "bs": "konobar", "en": "waiter" },
-        { "w": "أَحْضَرَ", "root": "ح ض ر", "bs": "donio je", "en": "brought" },
-        { "w": "طَبَقًا", "root": "ط ب ق", "bs": "tanjir", "en": "dish" },
-        { "w": "جَدِيدًا", "root": "ج د د", "bs": "novi", "en": "new" }
+        {
+          "w": "اعْتَذَرَ",
+          "root": "ع ذ ر",
+          "bs": "ispričao se",
+          "en": "apologized",
+          "lemma": "اِعْتَذَرَ يَعْتَذِرُ"
+        },
+        {
+          "w": "النَّادِلُ",
+          "root": "ن د ل",
+          "bs": "konobar",
+          "en": "waiter",
+          "lemma": "نَادِلٌ / نُدَلَاءُ"
+        },
+        {
+          "w": "أَحْضَرَ",
+          "root": "ح ض ر",
+          "bs": "donio je",
+          "en": "brought",
+          "lemma": "أَحْضَرَ يُحْضِرُ"
+        },
+        {
+          "w": "طَبَقًا",
+          "root": "ط ب ق",
+          "bs": "tanjir",
+          "en": "dish",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "جَدِيدًا",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -42,10 +119,34 @@
       "translation": "Gost je prihvatio i mirno jeo.",
       "translationEn": "The customer accepted and ate calmly.",
       "words": [
-        { "w": "قَبِلَ", "root": "ق ب ل", "bs": "prihvatio je", "en": "accepted" },
-        { "w": "الزَّبُونُ", "root": "ز ب ن", "bs": "gost", "en": "customer" },
-        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo je", "en": "ate" },
-        { "w": "بِهُدُوءٍ", "root": "هـ د أ", "bs": "mirno", "en": "calmly" }
+        {
+          "w": "قَبِلَ",
+          "root": "ق ب ل",
+          "bs": "prihvatio je",
+          "en": "accepted",
+          "lemma": "قَبِلَ يَقْبَلُ"
+        },
+        {
+          "w": "الزَّبُونُ",
+          "root": "ز ب ن",
+          "bs": "gost",
+          "en": "customer",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "أَكَلَ",
+          "root": "أ ك ل",
+          "bs": "jeo je",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "بِهُدُوءٍ",
+          "root": "هـ د أ",
+          "bs": "mirno",
+          "en": "calmly",
+          "lemma": "هُدُوءٌ"
+        }
       ]
     }
   ],

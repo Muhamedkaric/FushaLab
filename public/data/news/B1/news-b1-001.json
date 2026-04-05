@@ -8,11 +8,41 @@
       "translation": "Školski tim je pobijedio na fudbalskoj utakmici jučer.",
       "translationEn": "The school team won the football match yesterday.",
       "words": [
-        { "w": "فَازَ", "root": "ف و ز", "bs": "pobijedio je", "en": "won" },
-        { "w": "فَرِيقُ", "root": "ف ر ق", "bs": "tim", "en": "team" },
-        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škole", "en": "school" },
-        { "w": "مُبَارَاةِ", "root": "ب ر أ", "bs": "utakmici", "en": "match" },
-        { "w": "كُرَةِ الْقَدَمِ", "root": "ك ر ر", "bs": "fudbalu", "en": "football" }
+        {
+          "w": "فَازَ",
+          "root": "ف و ز",
+          "bs": "pobijedio je",
+          "en": "won",
+          "lemma": "فَازَ يَفُوزُ"
+        },
+        {
+          "w": "فَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim",
+          "en": "team",
+          "lemma": "فَرِيقٌ / فِرَقٌ"
+        },
+        {
+          "w": "الْمَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škole",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        },
+        {
+          "w": "مُبَارَاةِ",
+          "root": "ب ر أ",
+          "bs": "utakmici",
+          "en": "match",
+          "lemma": "مُبَارَاةٌ / مُبَارَيَاتٌ"
+        },
+        {
+          "w": "كُرَةِ الْقَدَمِ",
+          "root": "ك ر ر",
+          "bs": "fudbalu",
+          "en": "football",
+          "lemma": "كُرَةٌ / كُرَاتٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Tim je postigao tri gola na utakmici.",
       "translationEn": "The team scored three goals in the match.",
       "words": [
-        { "w": "سَجَّلَ", "root": "س ج ل", "bs": "postigao je", "en": "scored" },
-        { "w": "الْفَرِيقُ", "root": "ف ر ق", "bs": "tim", "en": "team" },
-        { "w": "أَهْدَافٍ", "root": "ه د ف", "bs": "golova", "en": "goals" },
-        { "w": "الْمُبَارَاةِ", "root": "ب ر أ", "bs": "utakmici", "en": "match" }
+        {
+          "w": "سَجَّلَ",
+          "root": "س ج ل",
+          "bs": "postigao je",
+          "en": "scored",
+          "lemma": "سَجَّلَ يُسَجِّلُ"
+        },
+        {
+          "w": "الْفَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim",
+          "en": "team",
+          "lemma": "فَرِيقٌ / فِرَقٌ"
+        },
+        {
+          "w": "أَهْدَافٍ",
+          "root": "ه د ف",
+          "bs": "golova",
+          "en": "goals",
+          "lemma": "هَدَفٌ / أَهْدَافٌ"
+        },
+        {
+          "w": "الْمُبَارَاةِ",
+          "root": "ب ر أ",
+          "bs": "utakmici",
+          "en": "match",
+          "lemma": "مُبَارَاةٌ / مُبَارَيَاتٌ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Učenici su se jako obradovali ovoj pobjedi.",
       "translationEn": "The students were very happy about this victory.",
       "words": [
-        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
-        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
-        { "w": "الْفَوْزِ", "root": "ف و ز", "bs": "pobjedi", "en": "victory" }
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovao se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الْفَوْزِ",
+          "root": "ف و ز",
+          "bs": "pobjedi",
+          "en": "victory",
+          "lemma": "فَوْزٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Direktor je zahvalio igračima na njihovom trudu.",
       "translationEn": "The principal thanked the players for their efforts.",
       "words": [
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor", "en": "principal" },
-        { "w": "الْلَاعِبِينَ", "root": "ل ع ب", "bs": "igračima", "en": "players" },
-        { "w": "جُهُودِهِمْ", "root": "ج ه د", "bs": "njihovom trudu", "en": "their efforts" }
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor",
+          "en": "principal",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "الْلَاعِبِينَ",
+          "root": "ل ع ب",
+          "bs": "igračima",
+          "en": "players",
+          "lemma": "لَاعِبٌ / لَاعِبُونَ"
+        },
+        {
+          "w": "جُهُودِهِمْ",
+          "root": "ج ه د",
+          "bs": "njihovom trudu",
+          "en": "their efforts",
+          "lemma": "جُهْدٌ / جُهُودٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sports", "school", "football"]
+    "tags": [
+      "sports",
+      "school",
+      "football"
+    ]
   }
 }

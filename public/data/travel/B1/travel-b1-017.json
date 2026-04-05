@@ -8,10 +8,34 @@
       "translation": "Porodica je stigla u hotel noću.",
       "translationEn": "The family arrived at the hotel at night.",
       "words": [
-        { "w": "وَصَلَتِ", "root": "و ص ل", "bs": "stigla je", "en": "arrived" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "الْفُنْدُقِ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
-        { "w": "لَيْلًا", "root": "ل ي ل", "bs": "noću", "en": "at night" }
+        {
+          "w": "وَصَلَتِ",
+          "root": "و ص ل",
+          "bs": "stigla je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "الْفُنْدُقِ",
+          "root": "ف ن د ق",
+          "bs": "hotel",
+          "en": "hotel",
+          "lemma": "فُنْدُقٌ / فَنَادِقُ"
+        },
+        {
+          "w": "لَيْلًا",
+          "root": "ل ي ل",
+          "bs": "noću",
+          "en": "at night",
+          "lemma": "لَيْلٌ / لَيَالٍ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Sobe su bile spremne i svjetlo prigušeno.",
       "translationEn": "The rooms were ready and the light was dim.",
       "words": [
-        { "w": "الْغُرَفُ", "root": "غ ر ف", "bs": "sobe", "en": "rooms" },
-        { "w": "جَاهِزَةً", "root": "ج ه ز", "bs": "spremne", "en": "ready" },
-        { "w": "الضَّوْءُ", "root": "ض و أ", "bs": "svjetlo", "en": "light" },
-        { "w": "خَافِتًا", "root": "خ ف ت", "bs": "prigušeno", "en": "dim" }
+        {
+          "w": "الْغُرَفُ",
+          "root": "غ ر ف",
+          "bs": "sobe",
+          "en": "rooms",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        },
+        {
+          "w": "جَاهِزَةً",
+          "root": "ج ه ز",
+          "bs": "spremne",
+          "en": "ready",
+          "lemma": "جَاهِزٌ"
+        },
+        {
+          "w": "الضَّوْءُ",
+          "root": "ض و أ",
+          "bs": "svjetlo",
+          "en": "light",
+          "lemma": "ضَوْءٌ / أَضْوَاءٌ"
+        },
+        {
+          "w": "خَافِتًا",
+          "root": "خ ف ت",
+          "bs": "prigušeno",
+          "en": "dim",
+          "lemma": "خَافِتٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Djeca su brzo zaspala nakon dugog putovanja.",
       "translationEn": "The children fell asleep quickly after a long trip.",
       "words": [
-        { "w": "نَامَ", "root": "ن و م", "bs": "zaspali su", "en": "slept / fell asleep" },
-        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "رِحْلَةٍ", "root": "ر ح ل", "bs": "putovanje", "en": "trip / journey" },
-        { "w": "طَوِيلَةٍ", "root": "ط و ل", "bs": "dugog", "en": "long" }
+        {
+          "w": "نَامَ",
+          "root": "ن و م",
+          "bs": "zaspali su",
+          "en": "slept / fell asleep",
+          "lemma": "نَامَ يَنَامُ"
+        },
+        {
+          "w": "الْأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "رِحْلَةٍ",
+          "root": "ر ح ل",
+          "bs": "putovanje",
+          "en": "trip / journey",
+          "lemma": "رِحْلَةٌ / رِحَلٌ"
+        },
+        {
+          "w": "طَوِيلَةٍ",
+          "root": "ط و ل",
+          "bs": "dugog",
+          "en": "long",
+          "lemma": "طَوِيلٌ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Otac je ostao budan malo i čitao knjigu.",
       "translationEn": "The father stayed awake a little and read a book.",
       "words": [
-        { "w": "مُسْتَيْقِظًا", "root": "ي ق ظ", "bs": "budan", "en": "awake" },
-        { "w": "قَرَأَ", "root": "ق ر أ", "bs": "čitao je", "en": "read" },
-        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" }
+        {
+          "w": "مُسْتَيْقِظًا",
+          "root": "ي ق ظ",
+          "bs": "budan",
+          "en": "awake",
+          "lemma": "مُسْتَيْقِظٌ"
+        },
+        {
+          "w": "قَرَأَ",
+          "root": "ق ر أ",
+          "bs": "čitao je",
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        }
       ]
     }
   ],

@@ -8,8 +8,20 @@
       "translation": "Nadija je sjela s ocem u kafiću.",
       "translationEn": "Nadia sat with her father in the café.",
       "words": [
-        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
-        { "w": "المَقْهَى", "root": "ق ه و", "bs": "kafić", "en": "café" }
+        {
+          "w": "جَلَسَتْ",
+          "root": "ج ل س",
+          "bs": "sjela je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "المَقْهَى",
+          "root": "ق ه و",
+          "bs": "kafić",
+          "en": "café",
+          "lemma": "مَقْهًى / مَقَاهٍ"
+        }
       ]
     },
     {
@@ -17,10 +29,34 @@
       "translation": "Naručili su kafu, sok i mali kolač.",
       "translationEn": "They ordered coffee, juice, and a small cake.",
       "words": [
-        { "w": "طَلَبَا", "root": "ط ل ب", "bs": "naručili su", "en": "ordered" },
-        { "w": "قَهْوَةً", "root": "ق ه و", "bs": "kafa", "en": "coffee" },
-        { "w": "عَصِيرًا", "root": "ع ص ر", "bs": "sok", "en": "juice" },
-        { "w": "كَعْكَةً", "root": "ك ع ك", "bs": "kolač", "en": "cake" }
+        {
+          "w": "طَلَبَا",
+          "root": "ط ل ب",
+          "bs": "naručili su",
+          "en": "ordered",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "قَهْوَةً",
+          "root": "ق ه و",
+          "bs": "kafa",
+          "en": "coffee",
+          "lemma": "قَهْوَةٌ / قَهَوَاتٌ"
+        },
+        {
+          "w": "عَصِيرًا",
+          "root": "ع ص ر",
+          "bs": "sok",
+          "en": "juice",
+          "lemma": "عَصِيرٌ / عُصَارَاتٌ"
+        },
+        {
+          "w": "كَعْكَةً",
+          "root": "ك ع ك",
+          "bs": "kolač",
+          "en": "cake",
+          "lemma": "كَعْكَةٌ / كَعْكَاتٌ"
+        }
       ]
     },
     {
@@ -28,8 +64,20 @@
       "translation": "Kad je stigao račun, otac ga je pogledao.",
       "translationEn": "When the bill came, the father looked at it.",
       "words": [
-        { "w": "الحِسَابُ", "root": "ح س ب", "bs": "račun", "en": "bill" },
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" }
+        {
+          "w": "الحِسَابُ",
+          "root": "ح س ب",
+          "bs": "račun",
+          "en": "bill",
+          "lemma": "حِسَابٌ / حِسَابَاتٌ"
+        },
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "pogledao je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        }
       ]
     },
     {
@@ -37,15 +85,43 @@
       "translation": "Platio je cijeli iznos i ostavio napojnicu konobaru.",
       "translationEn": "He paid the full amount and left a tip for the waiter.",
       "words": [
-        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
-        { "w": "المَبْلَغَ", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
-        { "w": "كَامِلًا", "root": "ك م ل", "bs": "cijeli", "en": "full" },
-        { "w": "بَقْشِيشًا", "root": "ب ق ش", "bs": "napojnica", "en": "tip" }
+        {
+          "w": "دَفَعَ",
+          "root": "د ف ع",
+          "bs": "platio je",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "المَبْلَغَ",
+          "root": "ب ل غ",
+          "bs": "iznos",
+          "en": "amount",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        },
+        {
+          "w": "كَامِلًا",
+          "root": "ك م ل",
+          "bs": "cijeli",
+          "en": "full",
+          "lemma": "كَامِلٌ"
+        },
+        {
+          "w": "بَقْشِيشًا",
+          "root": "ب ق ش",
+          "bs": "napojnica",
+          "en": "tip",
+          "lemma": "بَقْشِيشٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cafe", "bill", "payment"]
+    "tags": [
+      "cafe",
+      "bill",
+      "payment"
+    ]
   }
 }

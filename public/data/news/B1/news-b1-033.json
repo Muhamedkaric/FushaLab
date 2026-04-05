@@ -12,31 +12,36 @@
           "w": "اشْتَعَلَ",
           "root": "ش ع ل",
           "bs": "izbio je",
-          "en": "broke out"
+          "en": "broke out",
+          "lemma": "اِشْتَعَلَ يَشْتَعِلُ"
         },
         {
           "w": "حَرِيقٌ",
           "root": "ح ر ق",
           "bs": "požar",
-          "en": "fire"
+          "en": "fire",
+          "lemma": "حَرِيقٌ / حَرَائِقُ"
         },
         {
           "w": "صَغِيرٌ",
           "root": "ص غ ر",
           "bs": "mali",
-          "en": "small"
+          "en": "small",
+          "lemma": "صَغِيرٌ"
         },
         {
           "w": "مَطْبَخِ",
           "root": "ط ب خ",
           "bs": "kuhinji",
-          "en": "kitchen"
+          "en": "kitchen",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
         },
         {
           "w": "مَطْعَمٍ",
           "root": "ط ع م",
           "bs": "restorana",
-          "en": "restaurant"
+          "en": "restaurant",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
         }
       ]
     },
@@ -49,19 +54,22 @@
           "w": "سَيَّارَةُ الْإِطْفَاءِ",
           "root": "ط ف أ",
           "bs": "vatrogasno vozilo",
-          "en": "fire truck"
+          "en": "fire truck",
+          "lemma": "سَيَّارَةٌ / سَيَّارَاتٌ"
         },
         {
           "w": "أَخْمَدَتِ",
           "root": "خ م د",
           "bs": "ugasilo je",
-          "en": "extinguished"
+          "en": "extinguished",
+          "lemma": "أَخْمَدَ يُخْمِدُ"
         },
         {
           "w": "النِّيرَانَ",
           "root": "ن و ر",
           "bs": "vatru",
-          "en": "flames"
+          "en": "flames",
+          "lemma": "نَارٌ / نِيرَانٌ"
         }
       ]
     },
@@ -74,13 +82,15 @@
           "w": "أَذًى",
           "root": "أ ذ ي",
           "bs": "ozljeda",
-          "en": "harm"
+          "en": "harm",
+          "lemma": "أَذًى"
         },
         {
           "w": "الْحَرِيقِ",
           "root": "ح ر ق",
           "bs": "požaru",
-          "en": "fire"
+          "en": "fire",
+          "lemma": "حَرِيقٌ / حَرَائِقُ"
         }
       ]
     },
@@ -93,19 +103,22 @@
           "w": "أَغْلَقَ",
           "root": "غ ل ق",
           "bs": "zatvorio je",
-          "en": "closed"
+          "en": "closed",
+          "lemma": "أَغْلَقَ يُغْلِقُ"
         },
         {
           "w": "الْمَطْعَمُ",
           "root": "ط ع م",
           "bs": "restoran",
-          "en": "restaurant"
+          "en": "restaurant",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
         },
         {
           "w": "التَّنْظِيفِ",
           "root": "ن ظ ف",
           "bs": "čišćenje",
-          "en": "cleaning"
+          "en": "cleaning",
+          "lemma": "تَنْظِيفٌ"
         }
       ]
     }

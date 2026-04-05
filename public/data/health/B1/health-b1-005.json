@@ -12,19 +12,22 @@
           "w": "تَنَامُ",
           "root": "ن و م",
           "bs": "spava",
-          "en": "sleeps"
+          "en": "sleeps",
+          "lemma": "نَامَ يَنَامُ"
         },
         {
           "w": "سَاعَاتٍ",
           "root": "س ا ع",
           "bs": "sati",
-          "en": "hours"
+          "en": "hours",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
         },
         {
           "w": "لَيْلَةٍ",
           "root": "ل ي ل",
           "bs": "noć",
-          "en": "night"
+          "en": "night",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
         }
       ]
     },
@@ -37,25 +40,29 @@
           "w": "النَّوْمَ",
           "root": "ن و م",
           "bs": "san",
-          "en": "sleep"
+          "en": "sleep",
+          "lemma": "نَوْمٌ"
         },
         {
           "w": "الْجَيِّدَ",
           "root": "ج و د",
           "bs": "dobar",
-          "en": "good"
+          "en": "good",
+          "lemma": "جَيِّدٌ"
         },
         {
           "w": "يُعْطِيهَا",
           "root": "ع ط ي",
           "bs": "daje joj",
-          "en": "gives her"
+          "en": "gives her",
+          "lemma": "أَعْطَى يُعْطِي"
         },
         {
           "w": "طَاقَةً",
           "root": "ط و ق",
           "bs": "energija",
-          "en": "energy"
+          "en": "energy",
+          "lemma": "طَاقَةٌ / طَاقَاتٌ"
         }
       ]
     },
@@ -68,19 +75,22 @@
           "w": "تَنْظُرُ",
           "root": "ن ظ ر",
           "bs": "gleda",
-          "en": "looks"
+          "en": "looks",
+          "lemma": "نَظَرَ يَنْظُرُ"
         },
         {
           "w": "الْهَاتِفِ",
           "root": "ه ت ف",
           "bs": "telefon",
-          "en": "phone"
+          "en": "phone",
+          "lemma": "هَاتِفٌ / هَوَاتِفُ"
         },
         {
           "w": "النَّوْمِ",
           "root": "ن و م",
           "bs": "spavanje",
-          "en": "sleeping"
+          "en": "sleeping",
+          "lemma": "نَوْمٌ"
         }
       ]
     },
@@ -93,13 +103,15 @@
           "w": "تَسْتَيْقِظُ",
           "root": "ي ق ظ",
           "bs": "budi se",
-          "en": "wakes up"
+          "en": "wakes up",
+          "lemma": "اسْتَيْقَظَ يَسْتَيْقِظُ"
         },
         {
           "w": "نَشِيطَةٌ",
           "root": "ن ش ط",
           "bs": "aktivna",
-          "en": "energetic"
+          "en": "energetic",
+          "lemma": "نَشِيطٌ"
         }
       ]
     }

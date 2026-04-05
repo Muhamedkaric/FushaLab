@@ -12,25 +12,29 @@
           "w": "يَرْكَبُ",
           "root": "ر ك ب",
           "bs": "vozi",
-          "en": "rides"
+          "en": "rides",
+          "lemma": "رَكِبَ يَرْكَبُ"
         },
         {
           "w": "الدَّرَّاجَةَ",
           "root": "د ر ج",
           "bs": "bicikl",
-          "en": "bicycle"
+          "en": "bicycle",
+          "lemma": "دَرَّاجَةٌ / دَرَّاجَاتٌ"
         },
         {
           "w": "لِلذِّهَابِ",
           "root": "ذ ه ب",
           "bs": "za odlazak",
-          "en": "to go"
+          "en": "to go",
+          "lemma": "ذَهَابٌ"
         },
         {
           "w": "الْعَمَلِ",
           "root": "ع م ل",
           "bs": "posao",
-          "en": "work"
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
         }
       ]
     },
@@ -43,25 +47,29 @@
           "w": "يُوَفِّرُ",
           "root": "و ف ر",
           "bs": "štedi",
-          "en": "saves"
+          "en": "saves",
+          "lemma": "وَفَّرَ يُوَفِّرُ"
         },
         {
           "w": "الْوَقْتَ",
           "root": "و ق ت",
           "bs": "vrijeme",
-          "en": "time"
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
         },
         {
           "w": "يُفِيدُ",
           "root": "ف ي د",
           "bs": "koristi",
-          "en": "benefits"
+          "en": "benefits",
+          "lemma": "أَفَادَ يُفِيدُ"
         },
         {
           "w": "الصِّحَّةَ",
           "root": "ص ح ح",
           "bs": "zdravlje",
-          "en": "health"
+          "en": "health",
+          "lemma": "صِحَّةٌ"
         }
       ]
     },
@@ -74,25 +82,29 @@
           "w": "يَصِلُ",
           "root": "و ص ل",
           "bs": "stiže",
-          "en": "arrives"
+          "en": "arrives",
+          "lemma": "وَصَلَ يَصِلُ"
         },
         {
           "w": "الْعَمَلِ",
           "root": "ع م ل",
           "bs": "posao",
-          "en": "work"
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
         },
         {
           "w": "دَقِيقَةً",
           "root": "د ق ق",
           "bs": "minuta",
-          "en": "minutes"
+          "en": "minutes",
+          "lemma": "دَقِيقَةٌ / دَقَائِقُ"
         },
         {
           "w": "بِالدَّرَّاجَةِ",
           "root": "د ر ج",
           "bs": "biciklom",
-          "en": "by bicycle"
+          "en": "by bicycle",
+          "lemma": "دَرَّاجَةٌ / دَرَّاجَاتٌ"
         }
       ]
     },
@@ -105,19 +117,22 @@
           "w": "أَصْدِقَاؤُهُ",
           "root": "ص د ق",
           "bs": "prijatelji",
-          "en": "friends"
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "بَدَأُوا",
           "root": "ب د أ",
           "bs": "počeli su",
-          "en": "started"
+          "en": "started",
+          "lemma": "بَدَأَ يَبْدَأُ"
         },
         {
           "w": "يَفْعَلُونَ",
           "root": "ف ع ل",
           "bs": "rade",
-          "en": "doing"
+          "en": "doing",
+          "lemma": "فَعَلَ يَفْعَلُ"
         }
       ]
     }

@@ -12,19 +12,22 @@
           "w": "يَأْكُلُ",
           "root": "أ ك ل",
           "bs": "jede",
-          "en": "eats"
+          "en": "eats",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "السَّلَطَةَ",
           "root": "س ل ط",
           "bs": "salata",
-          "en": "salad"
+          "en": "salad",
+          "lemma": "سَلَطَةٌ"
         },
         {
           "w": "وَجْبَةٍ",
           "root": "و ج ب",
           "bs": "obrok",
-          "en": "meal"
+          "en": "meal",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
         }
       ]
     },
@@ -37,24 +40,28 @@
           "w": "يُضِيفُ",
           "root": "ض ي ف",
           "bs": "dodaje",
-          "en": "adds"
+          "en": "adds",
+          "lemma": "أَضَافَ يُضِيفُ"
         },
         {
           "w": "زَيْتَ",
           "root": "ز ي ت",
           "bs": "ulje",
-          "en": "oil"
+          "en": "oil",
+          "lemma": "زَيْتٌ"
         },
         {
           "w": "الزَّيْتُونِ",
           "root": "ز ي ت",
           "bs": "maslinovo",
-          "en": "olive"
+          "en": "olive",
+          "lemma": "زَيْتُونٌ"
         },
         {
           "w": "الْلَّيْمُونَ",
           "bs": "limun",
-          "en": "lemon"
+          "en": "lemon",
+          "lemma": "لَيْمُونٌ"
         }
       ]
     },
@@ -67,25 +74,29 @@
           "w": "السَّلَطَةَ",
           "root": "س ل ط",
           "bs": "salata",
-          "en": "salad"
+          "en": "salad",
+          "lemma": "سَلَطَةٌ"
         },
         {
           "w": "تُسَاعِدُهُ",
           "root": "س و ع",
           "bs": "pomaže mu",
-          "en": "helps him"
+          "en": "helps him",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
         },
         {
           "w": "الشُّعُورِ",
           "root": "ش ع ر",
           "bs": "osjećanje",
-          "en": "feeling"
+          "en": "feeling",
+          "lemma": "شُعُورٌ"
         },
         {
           "w": "بِالشَّبَعِ",
           "root": "ش ب ع",
           "bs": "sito",
-          "en": "full"
+          "en": "full",
+          "lemma": "شَبَعٌ"
         }
       ]
     },
@@ -98,25 +109,29 @@
           "w": "وَزْنُهُ",
           "root": "و ز ن",
           "bs": "njegova težina",
-          "en": "his weight"
+          "en": "his weight",
+          "lemma": "وَزْنٌ / أَوْزَانٌ"
         },
         {
           "w": "مُنَاسِبٌ",
           "root": "ن س ب",
           "bs": "odgovarajuća",
-          "en": "suitable"
+          "en": "suitable",
+          "lemma": "مُنَاسِبٌ"
         },
         {
           "w": "صِحَّتُهُ",
           "root": "ص ح ح",
           "bs": "njegovo zdravlje",
-          "en": "his health"
+          "en": "his health",
+          "lemma": "صِحَّةٌ"
         },
         {
           "w": "مُمْتَازَةٌ",
           "root": "م ت ز",
           "bs": "odlično",
-          "en": "excellent"
+          "en": "excellent",
+          "lemma": "مُمْتَازٌ"
         }
       ]
     }

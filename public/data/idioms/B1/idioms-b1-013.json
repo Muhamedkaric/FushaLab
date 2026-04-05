@@ -8,8 +8,20 @@
       "translation": "Poslovica kaže: «Istina je spas».",
       "translationEn": "The proverb says: «Truthfulness is salvation».",
       "words": [
-        { "w": "الصِّدْقُ", "root": "ص د ق", "bs": "istina", "en": "truthfulness" },
-        { "w": "مَنْجَاةٌ", "root": "ن ج و", "bs": "spas", "en": "salvation" }
+        {
+          "w": "الصِّدْقُ",
+          "root": "ص د ق",
+          "bs": "istina",
+          "en": "truthfulness",
+          "lemma": "صِدْقٌ"
+        },
+        {
+          "w": "مَنْجَاةٌ",
+          "root": "ن ج و",
+          "bs": "spas",
+          "en": "salvation",
+          "lemma": "مَنْجَاةٌ"
+        }
       ]
     },
     {
@@ -17,9 +29,27 @@
       "translation": "To znači da nas istina štiti od problema.",
       "translationEn": "This means that honesty protects us from problems.",
       "words": [
-        { "w": "الصِّدْقَ", "root": "ص د ق", "bs": "iskrenost", "en": "honesty" },
-        { "w": "يَحْمِينَا", "root": "ح م ي", "bs": "štiti nas", "en": "protects us" },
-        { "w": "الْمَشَاكِلِ", "root": "ش ك ل", "bs": "problemi", "en": "problems" }
+        {
+          "w": "الصِّدْقَ",
+          "root": "ص د ق",
+          "bs": "iskrenost",
+          "en": "honesty",
+          "lemma": "صِدْقٌ"
+        },
+        {
+          "w": "يَحْمِينَا",
+          "root": "ح م ي",
+          "bs": "štiti nas",
+          "en": "protects us",
+          "lemma": "حَمَى يَحْمِي"
+        },
+        {
+          "w": "الْمَشَاكِلِ",
+          "root": "ش ك ل",
+          "bs": "problemi",
+          "en": "problems",
+          "lemma": "مُشْكِلَةٌ / مَشَاكِلُ"
+        }
       ]
     },
     {
@@ -27,10 +57,34 @@
       "translation": "Faris je greškom razbio čašu i rekao majci istinu.",
       "translationEn": "Faris accidentally broke a cup and told his mother the truth.",
       "words": [
-        { "w": "كَسَرَ", "root": "ك س ر", "bs": "razbio je", "en": "broke" },
-        { "w": "كُوبًا", "root": "ك و ب", "bs": "čaša", "en": "cup" },
-        { "w": "أَخْبَرَ", "root": "خ ب ر", "bs": "rekao je", "en": "told" },
-        { "w": "الْحَقِيقَةِ", "root": "ح ق ق", "bs": "istina", "en": "truth" }
+        {
+          "w": "كَسَرَ",
+          "root": "ك س ر",
+          "bs": "razbio je",
+          "en": "broke",
+          "lemma": "كَسَرَ يَكْسِرُ"
+        },
+        {
+          "w": "كُوبًا",
+          "root": "ك و ب",
+          "bs": "čaša",
+          "en": "cup",
+          "lemma": "كُوبٌ / أَكْوَابٌ"
+        },
+        {
+          "w": "أَخْبَرَ",
+          "root": "خ ب ر",
+          "bs": "rekao je",
+          "en": "told",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "الْحَقِيقَةِ",
+          "root": "ح ق ق",
+          "bs": "istina",
+          "en": "truth",
+          "lemma": "حَقِيقَةٌ / حَقَائِقُ"
+        }
       ]
     },
     {
@@ -38,14 +92,36 @@
       "translation": "Majka mu je zahvalila na iskrenosti i nije se naljutila.",
       "translationEn": "His mother thanked him for his honesty and was not angry.",
       "words": [
-        { "w": "شَكَرَتْهُ", "root": "ش ك ر", "bs": "zahvalila mu je", "en": "thanked him" },
-        { "w": "صِدْقِهِ", "root": "ص د ق", "bs": "njegova iskrenost", "en": "his honesty" },
-        { "w": "تَغْضَبْ", "root": "غ ض ب", "bs": "naljutila se", "en": "angry" }
+        {
+          "w": "شَكَرَتْهُ",
+          "root": "ش ك ر",
+          "bs": "zahvalila mu je",
+          "en": "thanked him",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "صِدْقِهِ",
+          "root": "ص د ق",
+          "bs": "njegova iskrenost",
+          "en": "his honesty",
+          "lemma": "صِدْقٌ"
+        },
+        {
+          "w": "تَغْضَبْ",
+          "root": "غ ض ب",
+          "bs": "naljutila se",
+          "en": "angry",
+          "lemma": "غَضِبَ يَغْضَبُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["honesty", "proverb", "family"]
+    "tags": [
+      "honesty",
+      "proverb",
+      "family"
+    ]
   }
 }

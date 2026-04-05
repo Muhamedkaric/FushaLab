@@ -8,11 +8,41 @@
       "translation": "Komšije su posjetile porodicu s novorođenčetom.",
       "translationEn": "The neighbors visited the family of a newborn.",
       "words": [
-        { "w": "زَارَتِ", "root": "ز و ر", "bs": "posjetile su", "en": "visited" },
-        { "w": "الجِيرَانُ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
-        { "w": "أُسْرَةَ", "root": "أ س ر", "bs": "porodicu", "en": "family" },
-        { "w": "مَوْلُودٍ", "root": "و ل د", "bs": "novorođenčeta", "en": "newborn" },
-        { "w": "جَدِيدٍ", "root": "ج د د", "bs": "novog", "en": "new" }
+        {
+          "w": "زَارَتِ",
+          "root": "ز و ر",
+          "bs": "posjetile su",
+          "en": "visited",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "الجِيرَانُ",
+          "root": "ج و ر",
+          "bs": "komšije",
+          "en": "neighbors",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "أُسْرَةَ",
+          "root": "أ س ر",
+          "bs": "porodicu",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "مَوْلُودٍ",
+          "root": "و ل د",
+          "bs": "novorođenčeta",
+          "en": "newborn",
+          "lemma": "مَوْلُودٌ / مَوَالِيدُ"
+        },
+        {
+          "w": "جَدِيدٍ",
+          "root": "ج د د",
+          "bs": "novog",
+          "en": "new",
+          "lemma": "جَدِيدٌ / جُدُدٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Donijeli su male poklone za bebu.",
       "translationEn": "They brought small gifts for the baby.",
       "words": [
-        { "w": "أَحْضَرُوا", "root": "ح ض ر", "bs": "donijeli su", "en": "they brought" },
-        { "w": "هَدَايَا", "root": "هـ د ي", "bs": "poklone", "en": "gifts" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "male", "en": "small" },
-        { "w": "الطِّفْلِ", "root": "ط ف ل", "bs": "bebe", "en": "baby" }
+        {
+          "w": "أَحْضَرُوا",
+          "root": "ح ض ر",
+          "bs": "donijeli su",
+          "en": "they brought",
+          "lemma": "أَحْضَرَ يُحْضِرُ"
+        },
+        {
+          "w": "هَدَايَا",
+          "root": "هـ د ي",
+          "bs": "poklone",
+          "en": "gifts",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "male",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "الطِّفْلِ",
+          "root": "ط ف ل",
+          "bs": "bebe",
+          "en": "baby",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Čestitali su majci i ocu na novorođenčetu.",
       "translationEn": "They congratulated the mother and father on the newborn.",
       "words": [
-        { "w": "هَنَّأُوا", "root": "هـ ن أ", "bs": "čestitali su", "en": "congratulated" },
-        { "w": "الأُمَّ", "root": "أ م م", "bs": "majci", "en": "mother" },
-        { "w": "الأَبَ", "root": "أ ب و", "bs": "ocu", "en": "father" },
-        { "w": "المَوْلُودِ", "root": "و ل د", "bs": "novorođenčetu", "en": "newborn" }
+        {
+          "w": "هَنَّأُوا",
+          "root": "هـ ن أ",
+          "bs": "čestitali su",
+          "en": "congratulated",
+          "lemma": "هَنَّأَ يُهَنِّئُ"
+        },
+        {
+          "w": "الأُمَّ",
+          "root": "أ م م",
+          "bs": "majci",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "الأَبَ",
+          "root": "أ ب و",
+          "bs": "ocu",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "المَوْلُودِ",
+          "root": "و ل د",
+          "bs": "novorođenčetu",
+          "en": "newborn",
+          "lemma": "مَوْلُودٌ / مَوَالِيدُ"
+        }
       ]
     },
     {
@@ -42,9 +120,27 @@
       "translation": "Rekli su «Mabruk i Allah vas blagoslovio».",
       "translationEn": "They said «Congratulations and may God bless you».",
       "words": [
-        { "w": "قَالُوا", "root": "ق و ل", "bs": "rekli su", "en": "they said" },
-        { "w": "مَبْرُوكَ", "root": "ب ر ك", "bs": "čestitamo", "en": "congratulations" },
-        { "w": "بَارَكَ", "root": "ب ر ك", "bs": "blagoslovio", "en": "blessed" }
+        {
+          "w": "قَالُوا",
+          "root": "ق و ل",
+          "bs": "rekli su",
+          "en": "they said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "مَبْرُوكَ",
+          "root": "ب ر ك",
+          "bs": "čestitamo",
+          "en": "congratulations",
+          "lemma": "مَبْرُوكٌ"
+        },
+        {
+          "w": "بَارَكَ",
+          "root": "ب ر ك",
+          "bs": "blagoslovio",
+          "en": "blessed",
+          "lemma": "بَارَكَ يُبَارِكُ"
+        }
       ]
     },
     {
@@ -52,9 +148,27 @@
       "translation": "Majka je bila jako sretna njihovom posjetom.",
       "translationEn": "The mother was very happy with their visit.",
       "words": [
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
-        { "w": "بِزِيَارَتِهِمْ", "root": "ز و ر", "bs": "njihovom posjetom", "en": "with their visit" }
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "سَعِيدَةً",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "بِزِيَارَتِهِمْ",
+          "root": "ز و ر",
+          "bs": "njihovom posjetom",
+          "en": "with their visit",
+          "lemma": "زِيَارَةٌ / زِيَارَاتٌ"
+        }
       ]
     }
   ],

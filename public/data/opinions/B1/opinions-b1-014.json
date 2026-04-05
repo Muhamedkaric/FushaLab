@@ -8,11 +8,41 @@
       "translation": "Mislim da je priroda najljepše mjesto za odmor.",
       "translationEn": "I think that nature is the most beautiful place to rest.",
       "words": [
-        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
-        { "w": "الطَّبِيعَةَ", "root": "ط ب ع", "bs": "priroda", "en": "nature" },
-        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepše", "en": "most beautiful" },
-        { "w": "مَكَانٍ", "root": "ك و ن", "bs": "mjesto", "en": "place" },
-        { "w": "لِلرَّاحَةِ", "root": "ر و ح", "bs": "odmor", "en": "rest" }
+        {
+          "w": "أَظُنُّ",
+          "root": "ظ ن ن",
+          "bs": "mislim",
+          "en": "I think",
+          "lemma": "ظَنَّ يَظُنُّ"
+        },
+        {
+          "w": "الطَّبِيعَةَ",
+          "root": "ط ب ع",
+          "bs": "priroda",
+          "en": "nature",
+          "lemma": "طَبِيعَةٌ / طَبَائِعُ"
+        },
+        {
+          "w": "أَجْمَلُ",
+          "root": "ج م ل",
+          "bs": "najljepše",
+          "en": "most beautiful",
+          "lemma": "أَجْمَلُ"
+        },
+        {
+          "w": "مَكَانٍ",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "لِلرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "odmor",
+          "en": "rest",
+          "lemma": "رَاحَةٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Kada sjedim između drveća, osjećam mir.",
       "translationEn": "When I sit among the trees I feel tranquil.",
       "words": [
-        { "w": "أَجْلِسُ", "root": "ج ل س", "bs": "sjedim", "en": "I sit" },
-        { "w": "الْأَشْجَارِ", "root": "ش ج ر", "bs": "drveća", "en": "trees" },
-        { "w": "أَشْعُرُ", "root": "ش ع ر", "bs": "osjećam", "en": "I feel" },
-        { "w": "بِالسَّكِينَةِ", "root": "س ك ن", "bs": "mir", "en": "tranquil" }
+        {
+          "w": "أَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedim",
+          "en": "I sit",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الْأَشْجَارِ",
+          "root": "ش ج ر",
+          "bs": "drveća",
+          "en": "trees",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "أَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećam",
+          "en": "I feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِالسَّكِينَةِ",
+          "root": "س ك ن",
+          "bs": "mir",
+          "en": "tranquil",
+          "lemma": "سَكِينَةٌ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Volim ići na planinu ili more tokom odmora.",
       "translationEn": "I like going to the mountain or the sea during the holiday.",
       "words": [
-        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
-        { "w": "الذَّهَابَ", "root": "ذ ه ب", "bs": "ići", "en": "going" },
-        { "w": "الْجَبَلِ", "root": "ج ب ل", "bs": "planinu", "en": "mountain" },
-        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" },
-        { "w": "الْعُطْلَةِ", "root": "ع ط ل", "bs": "odmora", "en": "holiday" }
+        {
+          "w": "أُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "volim",
+          "en": "I like",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الذَّهَابَ",
+          "root": "ذ ه ب",
+          "bs": "ići",
+          "en": "going",
+          "lemma": "ذَهَابٌ"
+        },
+        {
+          "w": "الْجَبَلِ",
+          "root": "ج ب ل",
+          "bs": "planinu",
+          "en": "mountain",
+          "lemma": "جَبَلٌ / جِبَالٌ"
+        },
+        {
+          "w": "الْبَحْرِ",
+          "root": "ب ح ر",
+          "bs": "more",
+          "en": "sea",
+          "lemma": "بَحْرٌ / بِحَارٌ"
+        },
+        {
+          "w": "الْعُطْلَةِ",
+          "root": "ع ط ل",
+          "bs": "odmora",
+          "en": "holiday",
+          "lemma": "عُطْلَةٌ / عُطَلٌ"
+        }
       ]
     },
     {
@@ -43,15 +127,44 @@
       "translation": "Priroda nam vraća energiju i sreću.",
       "translationEn": "Nature restores our energy and happiness.",
       "words": [
-        { "w": "الطَّبِيعَةُ", "root": "ط ب ع", "bs": "priroda", "en": "nature" },
-        { "w": "تُعِيدُ", "root": "ع و د", "bs": "vraća", "en": "restores" },
-        { "w": "نَشَاطَنَا", "root": "ن ش ط", "bs": "energiju", "en": "our energy" },
-        { "w": "سَعَادَتَنَا", "root": "س ع د", "bs": "sreću", "en": "our happiness" }
+        {
+          "w": "الطَّبِيعَةُ",
+          "root": "ط ب ع",
+          "bs": "priroda",
+          "en": "nature",
+          "lemma": "طَبِيعَةٌ / طَبَائِعُ"
+        },
+        {
+          "w": "تُعِيدُ",
+          "root": "ع و د",
+          "bs": "vraća",
+          "en": "restores",
+          "lemma": "أَعَادَ يُعِيدُ"
+        },
+        {
+          "w": "نَشَاطَنَا",
+          "root": "ن ش ط",
+          "bs": "energiju",
+          "en": "our energy",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
+        },
+        {
+          "w": "سَعَادَتَنَا",
+          "root": "س ع د",
+          "bs": "sreću",
+          "en": "our happiness",
+          "lemma": "سَعَادَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "nature", "relaxation", "wellbeing"]
+    "tags": [
+      "opinion",
+      "nature",
+      "relaxation",
+      "wellbeing"
+    ]
   }
 }

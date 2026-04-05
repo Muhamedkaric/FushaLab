@@ -8,10 +8,34 @@
       "translation": "Po mom mišljenju, osmijeh je najlakši način da se širi sreća.",
       "translationEn": "In my opinion, a smile is the easiest way to spread happiness.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
-        { "w": "الِابْتِسَامَةُ", "root": "ب س م", "bs": "osmijeh", "en": "smile" },
-        { "w": "أَسْهَلُ", "root": "س ه ل", "bs": "najlakši", "en": "easiest" },
-        { "w": "طَرِيقَةٍ", "root": "ط ر ق", "bs": "način", "en": "way" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "moje mišljenje",
+          "en": "my opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "الِابْتِسَامَةُ",
+          "root": "ب س م",
+          "bs": "osmijeh",
+          "en": "smile",
+          "lemma": "ابْتِسَامَةٌ / ابْتِسَامَاتٌ"
+        },
+        {
+          "w": "أَسْهَلُ",
+          "root": "س ه ل",
+          "bs": "najlakši",
+          "en": "easiest",
+          "lemma": "أَسْهَلُ"
+        },
+        {
+          "w": "طَرِيقَةٍ",
+          "root": "ط ر ق",
+          "bs": "način",
+          "en": "way",
+          "lemma": "طَرِيقَةٌ / طَرَائِقُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Kada se nekome nasmiješiš, on se osjeća ugodnije.",
       "translationEn": "When you smile at someone they feel at ease.",
       "words": [
-        { "w": "تَبْتَسِمُ", "root": "ب س م", "bs": "nasmiješiš se", "en": "smile" },
-        { "w": "لِشَخْصٍ", "root": "ش خ ص", "bs": "nekome", "en": "someone" },
-        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
-        { "w": "بِالرَّاحَةِ", "root": "ر و ح", "bs": "ugodnost", "en": "at ease" }
+        {
+          "w": "تَبْتَسِمُ",
+          "root": "ب س م",
+          "bs": "nasmiješiš se",
+          "en": "smile",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "لِشَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "nekome",
+          "en": "someone",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِالرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "ugodnost",
+          "en": "at ease",
+          "lemma": "رَاحَةٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Osmijeh ne košta ništa ali daje mnogo.",
       "translationEn": "A smile costs nothing but gives a lot.",
       "words": [
-        { "w": "الِابْتِسَامَةُ", "root": "ب س م", "bs": "osmijeh", "en": "smile" },
-        { "w": "تَكُلِّفُ", "root": "ك ل ف", "bs": "košta", "en": "costs" },
-        { "w": "تُعْطِي", "root": "ع ط و", "bs": "daje", "en": "gives" }
+        {
+          "w": "الِابْتِسَامَةُ",
+          "root": "ب س م",
+          "bs": "osmijeh",
+          "en": "smile",
+          "lemma": "ابْتِسَامَةٌ / ابْتِسَامَاتٌ"
+        },
+        {
+          "w": "تَكُلِّفُ",
+          "root": "ك ل ف",
+          "bs": "košta",
+          "en": "costs",
+          "lemma": "كَلَّفَ يُكَلِّفُ"
+        },
+        {
+          "w": "تُعْطِي",
+          "root": "ع ط و",
+          "bs": "daje",
+          "en": "gives",
+          "lemma": "أَعْطَى يُعْطِي"
+        }
       ]
     },
     {
@@ -40,15 +106,44 @@
       "translation": "Trudim se nasmiješiti svakoj osobi s kojom se srećem.",
       "translationEn": "I try to smile at every person I meet.",
       "words": [
-        { "w": "أَحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
-        { "w": "أَبْتَسِمَ", "root": "ب س م", "bs": "da se nasmiješim", "en": "to smile" },
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
-        { "w": "أَلْتَقِيهِ", "root": "ل ق ي", "bs": "srećem ga", "en": "I meet" }
+        {
+          "w": "أَحَاوِلُ",
+          "root": "ح و ل",
+          "bs": "trudim se",
+          "en": "I try",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "أَبْتَسِمَ",
+          "root": "ب س م",
+          "bs": "da se nasmiješim",
+          "en": "to smile",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "أَلْتَقِيهِ",
+          "root": "ل ق ي",
+          "bs": "srećem ga",
+          "en": "I meet",
+          "lemma": "الْتَقَى يَلْتَقِي"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "smile", "kindness", "happiness"]
+    "tags": [
+      "opinion",
+      "smile",
+      "kindness",
+      "happiness"
+    ]
   }
 }

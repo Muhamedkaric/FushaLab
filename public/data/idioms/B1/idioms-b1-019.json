@@ -8,10 +8,34 @@
       "translation": "Djed je rekao: «Ko iskopa jamu za brata svoga, u nju će upasti».",
       "translationEn": "The grandfather said: «Whoever digs a pit for his brother will fall into it».",
       "words": [
-        { "w": "حَفَرَ", "root": "ح ف ر", "bs": "iskopao je", "en": "dug" },
-        { "w": "بِئْرًا", "root": "ب ئ ر", "bs": "jama", "en": "pit" },
-        { "w": "لِأَخِيهِ", "root": "أ خ و", "bs": "za brata", "en": "for his brother" },
-        { "w": "وَقَعَ", "root": "و ق ع", "bs": "upao je", "en": "fell" }
+        {
+          "w": "حَفَرَ",
+          "root": "ح ف ر",
+          "bs": "iskopao je",
+          "en": "dug",
+          "lemma": "حَفَرَ يَحْفِرُ"
+        },
+        {
+          "w": "بِئْرًا",
+          "root": "ب ئ ر",
+          "bs": "jama",
+          "en": "pit",
+          "lemma": "بِئْرٌ / آبَارٌ"
+        },
+        {
+          "w": "لِأَخِيهِ",
+          "root": "أ خ و",
+          "bs": "za brata",
+          "en": "for his brother",
+          "lemma": "أَخٌ / إِخْوَةٌ"
+        },
+        {
+          "w": "وَقَعَ",
+          "root": "و ق ع",
+          "bs": "upao je",
+          "en": "fell",
+          "lemma": "وَقَعَ يَقَعُ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "To znači da će onaj ko povrijedi druge, povrijediti i sebe.",
       "translationEn": "This means that whoever harms others will harm himself.",
       "words": [
-        { "w": "يُؤْذِي", "root": "أ ذ ي", "bs": "povređuje", "en": "harms" },
-        { "w": "الآخَرِينَ", "root": "أ خ ر", "bs": "druge", "en": "others" },
-        { "w": "نَفْسَهُ", "root": "ن ف س", "bs": "sebe", "en": "himself" }
+        {
+          "w": "يُؤْذِي",
+          "root": "أ ذ ي",
+          "bs": "povređuje",
+          "en": "harms",
+          "lemma": "آذَى يُؤْذِي"
+        },
+        {
+          "w": "الآخَرِينَ",
+          "root": "أ خ ر",
+          "bs": "druge",
+          "en": "others",
+          "lemma": "آخَرُ / أُخَرُ"
+        },
+        {
+          "w": "نَفْسَهُ",
+          "root": "ن ف س",
+          "bs": "sebe",
+          "en": "himself",
+          "lemma": "نَفْسٌ / أَنْفُسٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Dječak je pokušao uzeti knjgu svog prijatelja bez dozvole.",
       "translationEn": "A boy tried to take his friend's book without permission.",
       "words": [
-        { "w": "حَاوَلَ", "root": "ح و ل", "bs": "pokušao je", "en": "tried" },
-        { "w": "يَأْخُذَ", "root": "أ خ ذ", "bs": "uzeti", "en": "take" },
-        { "w": "كِتَابَ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "إِذْنٍ", "root": "أ ذ ن", "bs": "dozvola", "en": "permission" }
+        {
+          "w": "حَاوَلَ",
+          "root": "ح و ل",
+          "bs": "pokušao je",
+          "en": "tried",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "يَأْخُذَ",
+          "root": "أ خ ذ",
+          "bs": "uzeti",
+          "en": "take",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "كِتَابَ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "إِذْنٍ",
+          "root": "أ ذ ن",
+          "bs": "dozvola",
+          "en": "permission",
+          "lemma": "إِذْنٌ"
+        }
       ]
     },
     {
@@ -40,14 +106,36 @@
       "translation": "Izgubio je povjerenje prijatelja i osjetio kajanje.",
       "translationEn": "He lost his friend's trust and felt regret.",
       "words": [
-        { "w": "خَسِرَ", "root": "خ س ر", "bs": "izgubio je", "en": "lost" },
-        { "w": "ثِقَةَ", "root": "و ث ق", "bs": "povjerenje", "en": "trust" },
-        { "w": "النَّدَمِ", "root": "ن د م", "bs": "kajanje", "en": "regret" }
+        {
+          "w": "خَسِرَ",
+          "root": "خ س ر",
+          "bs": "izgubio je",
+          "en": "lost",
+          "lemma": "خَسِرَ يَخْسَرُ"
+        },
+        {
+          "w": "ثِقَةَ",
+          "root": "و ث ق",
+          "bs": "povjerenje",
+          "en": "trust",
+          "lemma": "ثِقَةٌ"
+        },
+        {
+          "w": "النَّدَمِ",
+          "root": "ن د م",
+          "bs": "kajanje",
+          "en": "regret",
+          "lemma": "نَدَمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["harm", "proverb", "consequences"]
+    "tags": [
+      "harm",
+      "proverb",
+      "consequences"
+    ]
   }
 }

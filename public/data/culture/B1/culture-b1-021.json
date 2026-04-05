@@ -8,11 +8,41 @@
       "translation": "Hamam je tradicionalno mjesto za kupanje.",
       "translationEn": "The public bath is a traditional place for bathing.",
       "words": [
-        { "w": "الحَمَّامُ", "root": "ح م م", "bs": "hamam", "en": "bath" },
-        { "w": "الشَّعْبِيُّ", "root": "ش ع ب", "bs": "narodni", "en": "public" },
-        { "w": "مَكَانٌ", "root": "م ك ن", "bs": "mjesto", "en": "place" },
-        { "w": "تَقْلِيدِيٌّ", "root": "ق ل د", "bs": "tradicionalno", "en": "traditional" },
-        { "w": "لِلِاسْتِحْمَامِ", "root": "ح م م", "bs": "za kupanje", "en": "for bathing" }
+        {
+          "w": "الحَمَّامُ",
+          "root": "ح م م",
+          "bs": "hamam",
+          "en": "bath",
+          "lemma": "حَمَّامٌ / حَمَّامَاتٌ"
+        },
+        {
+          "w": "الشَّعْبِيُّ",
+          "root": "ش ع ب",
+          "bs": "narodni",
+          "en": "public",
+          "lemma": "شَعْبِيٌّ"
+        },
+        {
+          "w": "مَكَانٌ",
+          "root": "م ك ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "تَقْلِيدِيٌّ",
+          "root": "ق ل د",
+          "bs": "tradicionalno",
+          "en": "traditional",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "لِلِاسْتِحْمَامِ",
+          "root": "ح م م",
+          "bs": "za kupanje",
+          "en": "for bathing",
+          "lemma": "اسْتِحْمَامٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Ljudi odlaze tamo radi odmora i čistoće.",
       "translationEn": "People go there for rest and cleanliness.",
       "words": [
-        { "w": "يَذْهَبُ", "root": "ذ هـ ب", "bs": "odlaze", "en": "go" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "لِلاِسْتِرَاحَةِ", "root": "ر و ح", "bs": "radi odmora", "en": "for rest" },
-        { "w": "النَّظَافَةِ", "root": "ن ظ ف", "bs": "čistoće", "en": "cleanliness" }
+        {
+          "w": "يَذْهَبُ",
+          "root": "ذ هـ ب",
+          "bs": "odlaze",
+          "en": "go",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "لِلاِسْتِرَاحَةِ",
+          "root": "ر و ح",
+          "bs": "radi odmora",
+          "en": "for rest",
+          "lemma": "اِسْتِرَاحَةٌ / اِسْتِرَاحَاتٌ"
+        },
+        {
+          "w": "النَّظَافَةِ",
+          "root": "ن ظ ف",
+          "bs": "čistoće",
+          "en": "cleanliness",
+          "lemma": "نَظَافَةٌ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Hamam je i društveno mjesto.",
       "translationEn": "The hammam is also a social place.",
       "words": [
-        { "w": "الحَمَّامُ", "root": "ح م م", "bs": "hamam", "en": "hammam" },
-        { "w": "مَكَانٌ", "root": "م ك ن", "bs": "mjesto", "en": "place" },
-        { "w": "اجْتِمَاعِيٌّ", "root": "ج م ع", "bs": "društveno", "en": "social" }
+        {
+          "w": "الحَمَّامُ",
+          "root": "ح م م",
+          "bs": "hamam",
+          "en": "hammam",
+          "lemma": "حَمَّامٌ / حَمَّامَاتٌ"
+        },
+        {
+          "w": "مَكَانٌ",
+          "root": "م ك ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "اجْتِمَاعِيٌّ",
+          "root": "ج م ع",
+          "bs": "društveno",
+          "en": "social",
+          "lemma": "اجْتِمَاعِيٌّ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Žene se tamo sreću i razgovaraju.",
       "translationEn": "Women meet there and talk.",
       "words": [
-        { "w": "تَلْتَقِي", "root": "ل ق ي", "bs": "sreću se", "en": "meet" },
-        { "w": "النِّسَاءُ", "root": "ن س و", "bs": "žene", "en": "women" },
-        { "w": "يَتَحَدَّثْنَ", "root": "ح د ث", "bs": "razgovaraju", "en": "talk" }
+        {
+          "w": "تَلْتَقِي",
+          "root": "ل ق ي",
+          "bs": "sreću se",
+          "en": "meet",
+          "lemma": "الْتَقَى يَلْتَقِي"
+        },
+        {
+          "w": "النِّسَاءُ",
+          "root": "ن س و",
+          "bs": "žene",
+          "en": "women",
+          "lemma": "اِمْرَأَةٌ / نِسَاءٌ"
+        },
+        {
+          "w": "يَتَحَدَّثْنَ",
+          "root": "ح د ث",
+          "bs": "razgovaraju",
+          "en": "talk",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        }
       ]
     }
   ],

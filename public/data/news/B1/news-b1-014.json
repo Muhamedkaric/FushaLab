@@ -12,31 +12,36 @@
           "w": "أَعْلَنَ",
           "root": "ع ل ن",
           "bs": "objavio je",
-          "en": "announced"
+          "en": "announced",
+          "lemma": "أَعْلَنَ يُعْلِنُ"
         },
         {
           "w": "الْمَلْعَبُ",
           "root": "ل ع ب",
           "bs": "sportski centar",
-          "en": "sports center"
+          "en": "sports center",
+          "lemma": "مَلْعَبٌ / مَلَاعِبُ"
         },
         {
           "w": "دَوْرَةٍ",
           "root": "د و ر",
           "bs": "kamp",
-          "en": "camp"
+          "en": "camp",
+          "lemma": "دَوْرَةٌ / دَوْرَاتٌ"
         },
         {
           "w": "رِيَاضِيَّةٍ",
           "root": "ر ي ض",
           "bs": "sportski",
-          "en": "sports"
+          "en": "sports",
+          "lemma": "رِيَاضِيٌّ"
         },
         {
           "w": "صَيْفِيَّةٍ",
           "root": "ص ي ف",
           "bs": "ljetni",
-          "en": "summer"
+          "en": "summer",
+          "lemma": "صَيْفِيٌّ"
         }
       ]
     },
@@ -48,18 +53,21 @@
         {
           "w": "كُرَةَ الْقَدَمِ",
           "bs": "fudbal",
-          "en": "football"
+          "en": "football",
+          "lemma": "كُرَةٌ / كُرَاتٌ"
         },
         {
           "w": "السِّبَاحَةَ",
           "root": "س ب ح",
           "bs": "plivanje",
-          "en": "swimming"
+          "en": "swimming",
+          "lemma": "سِبَاحَةٌ"
         },
         {
           "w": "الْجِمْبَازَ",
           "bs": "gimnastiku",
-          "en": "gymnastics"
+          "en": "gymnastics",
+          "lemma": "جِمْبَازٌ"
         }
       ]
     },
@@ -72,13 +80,15 @@
           "w": "الأَطْفَالِ",
           "root": "ط ف ل",
           "bs": "djeca",
-          "en": "children"
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "التَّسْجِيلُ",
           "root": "س ج ل",
           "bs": "prijava",
-          "en": "registration"
+          "en": "registration",
+          "lemma": "تَسْجِيلٌ / تَسْجِيلَاتٌ"
         }
       ]
     },
@@ -91,19 +101,22 @@
           "w": "الأَمَاكِنُ",
           "root": "م ك ن",
           "bs": "mjesta",
-          "en": "spots"
+          "en": "spots",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
         },
         {
           "w": "مَحْدُودَةٌ",
           "root": "ح د د",
           "bs": "ograničena",
-          "en": "limited"
+          "en": "limited",
+          "lemma": "مَحْدُودٌ"
         },
         {
           "w": "التَّسْجِيلِ",
           "root": "س ج ل",
           "bs": "prijavi",
-          "en": "registration"
+          "en": "registration",
+          "lemma": "تَسْجِيلٌ"
         }
       ]
     }

@@ -8,10 +8,34 @@
       "translation": "Na kraju školske godine svi učenici su prošli.",
       "translationEn": "At the end of the school year all students passed.",
       "words": [
-        { "w": "نِهَايَةِ", "root": "ن ه ي", "bs": "kraj", "en": "end" },
-        { "w": "العَامِ", "root": "ع و م", "bs": "godina", "en": "year" },
-        { "w": "نَجَحَ", "root": "ن ج ح", "bs": "prošli su", "en": "passed" },
-        { "w": "الطُّلَّابِ", "root": "ط ل ب", "bs": "učenici", "en": "students" }
+        {
+          "w": "نِهَايَةِ",
+          "root": "ن ه ي",
+          "bs": "kraj",
+          "en": "end",
+          "lemma": "نِهَايَةٌ / نِهَايَاتٌ"
+        },
+        {
+          "w": "العَامِ",
+          "root": "ع و م",
+          "bs": "godina",
+          "en": "year",
+          "lemma": "عَامٌ / أَعْوَامٌ"
+        },
+        {
+          "w": "نَجَحَ",
+          "root": "ن ج ح",
+          "bs": "prošli su",
+          "en": "passed",
+          "lemma": "نَجَحَ يَنْجَحُ"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Porodice su se obradovale uspjehu svoje djece.",
       "translationEn": "The families were happy about their children's success.",
       "words": [
-        { "w": "فَرِحَتِ", "root": "ف ر ح", "bs": "obradovale su se", "en": "were happy" },
-        { "w": "الأُسَرُ", "root": "أ س ر", "bs": "porodice", "en": "families" },
-        { "w": "نَجَاحِ", "root": "ن ج ح", "bs": "uspjeh", "en": "success" },
-        { "w": "أَبْنَائِهَا", "root": "ب ن و", "bs": "njihova djeca", "en": "their children" }
+        {
+          "w": "فَرِحَتِ",
+          "root": "ف ر ح",
+          "bs": "obradovale su se",
+          "en": "were happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "الأُسَرُ",
+          "root": "أ س ر",
+          "bs": "porodice",
+          "en": "families",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "نَجَاحِ",
+          "root": "ن ج ح",
+          "bs": "uspjeh",
+          "en": "success",
+          "lemma": "نَجَاحٌ"
+        },
+        {
+          "w": "أَبْنَائِهَا",
+          "root": "ب ن و",
+          "bs": "njihova djeca",
+          "en": "their children",
+          "lemma": "اِبْنٌ / أَبْنَاءٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Škola je organizovala malu proslavu čestitanja.",
       "translationEn": "The school organized a small celebration.",
       "words": [
-        { "w": "نَظَّمَتِ", "root": "ن ظ م", "bs": "organizovala je", "en": "organized" },
-        { "w": "المَدْرَسَةُ", "root": "د ر س", "bs": "škola", "en": "school" },
-        { "w": "حَفْلَةً", "root": "ح ف ل", "bs": "proslava", "en": "celebration" },
-        { "w": "التَّهْنِئَةِ", "root": "ه ن أ", "bs": "čestitanje", "en": "congratulation" }
+        {
+          "w": "نَظَّمَتِ",
+          "root": "ن ظ م",
+          "bs": "organizovala je",
+          "en": "organized",
+          "lemma": "نَظَّمَ يُنَظِّمُ"
+        },
+        {
+          "w": "المَدْرَسَةُ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        },
+        {
+          "w": "حَفْلَةً",
+          "root": "ح ف ل",
+          "bs": "proslava",
+          "en": "celebration",
+          "lemma": "حَفْلَةٌ / حَفَلَاتٌ"
+        },
+        {
+          "w": "التَّهْنِئَةِ",
+          "root": "ه ن أ",
+          "bs": "čestitanje",
+          "en": "congratulation",
+          "lemma": "تَهْنِئَةٌ / تَهَانٍ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Učenici su se oprostili od nastavnika i zahvalili im.",
       "translationEn": "The students said goodbye to their teachers and thanked them.",
       "words": [
-        { "w": "وَدَّعَ", "root": "و د ع", "bs": "oprostili su se", "en": "said goodbye" },
-        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
-        { "w": "مُعَلِّمِيهِمْ", "root": "ع ل م", "bs": "njihovi nastavnici", "en": "their teachers" },
-        { "w": "شَكَرُوهُمْ", "root": "ش ك ر", "bs": "zahvalili su im", "en": "thanked them" }
+        {
+          "w": "وَدَّعَ",
+          "root": "و د ع",
+          "bs": "oprostili su se",
+          "en": "said goodbye",
+          "lemma": "وَدَّعَ يُوَدِّعُ"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "مُعَلِّمِيهِمْ",
+          "root": "ع ل م",
+          "bs": "njihovi nastavnici",
+          "en": "their teachers",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "شَكَرُوهُمْ",
+          "root": "ش ك ر",
+          "bs": "zahvalili su im",
+          "en": "thanked them",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        }
       ]
     },
     {
@@ -52,15 +148,43 @@
       "translation": "Obećali su da će se vratiti sljedeće školske godine.",
       "translationEn": "They promised to return in the next school year.",
       "words": [
-        { "w": "وَعَدُوا", "root": "و ع د", "bs": "obećali su", "en": "promised" },
-        { "w": "العَوْدَةِ", "root": "ع و د", "bs": "povratak", "en": "return" },
-        { "w": "السَّنَةِ", "root": "س ن و", "bs": "godina", "en": "year" },
-        { "w": "القَادِمَةِ", "root": "ق د م", "bs": "sljedeća", "en": "next" }
+        {
+          "w": "وَعَدُوا",
+          "root": "و ع د",
+          "bs": "obećali su",
+          "en": "promised",
+          "lemma": "وَعَدَ يَعِدُ"
+        },
+        {
+          "w": "العَوْدَةِ",
+          "root": "ع و د",
+          "bs": "povratak",
+          "en": "return",
+          "lemma": "عَوْدَةٌ / عَوْدَاتٌ"
+        },
+        {
+          "w": "السَّنَةِ",
+          "root": "س ن و",
+          "bs": "godina",
+          "en": "year",
+          "lemma": "سَنَةٌ / سَنَوَاتٌ"
+        },
+        {
+          "w": "القَادِمَةِ",
+          "root": "ق د م",
+          "bs": "sljedeća",
+          "en": "next",
+          "lemma": "قَادِمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["end-of-year", "success", "celebration"]
+    "tags": [
+      "end-of-year",
+      "success",
+      "celebration"
+    ]
   }
 }

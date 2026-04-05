@@ -8,10 +8,34 @@
       "translation": "Putnici su stigli na aerodrom rano ujutro.",
       "translationEn": "The passengers arrived at the airport early in the morning.",
       "words": [
-        { "w": "الرَّكَّابُ", "root": "ر ك ب", "bs": "putnici", "en": "passengers" },
-        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
-        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" },
-        { "w": "الْبَاكِرِ", "root": "ب ك ر", "bs": "rano", "en": "early" }
+        {
+          "w": "الرَّكَّابُ",
+          "root": "ر ك ب",
+          "bs": "putnici",
+          "en": "passengers",
+          "lemma": "رَاكِبٌ / رُكَّابٌ"
+        },
+        {
+          "w": "الْمَطَارِ",
+          "root": "ط ي ر",
+          "bs": "aerodrom",
+          "en": "airport",
+          "lemma": "مَطَارٌ / مَطَارَاتٌ"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ"
+        },
+        {
+          "w": "الْبَاكِرِ",
+          "root": "ب ك ر",
+          "bs": "rano",
+          "en": "early",
+          "lemma": "بَاكِرٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Stavili su torbe na vagu i čekali.",
       "translationEn": "They placed their bags on the scale and waited.",
       "words": [
-        { "w": "وَضَعُوا", "root": "و ض ع", "bs": "stavili su", "en": "placed" },
-        { "w": "حَقَائِبَهُمْ", "root": "ح ق ب", "bs": "njihove torbe", "en": "their bags" },
-        { "w": "الْمِيزَانِ", "root": "و ز ن", "bs": "vaga", "en": "scale / balance" },
-        { "w": "انْتَظَرُوا", "root": "ن ظ ر", "bs": "čekali su", "en": "waited" }
+        {
+          "w": "وَضَعُوا",
+          "root": "و ض ع",
+          "bs": "stavili su",
+          "en": "placed",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "حَقَائِبَهُمْ",
+          "root": "ح ق ب",
+          "bs": "njihove torbe",
+          "en": "their bags",
+          "lemma": "حَقِيبَةٌ / حَقَائِبُ"
+        },
+        {
+          "w": "الْمِيزَانِ",
+          "root": "و ز ن",
+          "bs": "vaga",
+          "en": "scale / balance",
+          "lemma": "مِيزَانٌ / مَوَازِينُ"
+        },
+        {
+          "w": "انْتَظَرُوا",
+          "root": "ن ظ ر",
+          "bs": "čekali su",
+          "en": "waited",
+          "lemma": "انْتَظَرَ يَنْتَظِرُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Ušli su u avion i sjeli na svoja mjesta.",
       "translationEn": "They entered the plane and sat in their seats.",
       "words": [
-        { "w": "دَخَلُوا", "root": "د خ ل", "bs": "ušli su", "en": "entered" },
-        { "w": "الطَّائِرَةِ", "root": "ط ي ر", "bs": "avion", "en": "airplane" },
-        { "w": "جَلَسُوا", "root": "ج ل س", "bs": "sjeli su", "en": "sat" },
-        { "w": "أَمَاكِنِهِمْ", "root": "ك و ن", "bs": "njihova mjesta / sjedišta", "en": "their seats / places" }
+        {
+          "w": "دَخَلُوا",
+          "root": "د خ ل",
+          "bs": "ušli su",
+          "en": "entered",
+          "lemma": "دَخَلَ يَدْخُلُ"
+        },
+        {
+          "w": "الطَّائِرَةِ",
+          "root": "ط ي ر",
+          "bs": "avion",
+          "en": "airplane",
+          "lemma": "طَائِرَةٌ / طَائِرَاتٌ"
+        },
+        {
+          "w": "جَلَسُوا",
+          "root": "ج ل س",
+          "bs": "sjeli su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "أَمَاكِنِهِمْ",
+          "root": "ك و ن",
+          "bs": "njihova mjesta / sjedišta",
+          "en": "their seats / places",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Avion je poletio a nebo je bilo vedro.",
       "translationEn": "The plane took off and the sky was clear.",
       "words": [
-        { "w": "أَقْلَعَتِ", "root": "ق ل ع", "bs": "poletjela je", "en": "took off" },
-        { "w": "الطَّائِرَةُ", "root": "ط ي ر", "bs": "avion", "en": "airplane" },
-        { "w": "السَّمَاءُ", "root": "س م و", "bs": "nebo", "en": "sky" },
-        { "w": "صَافِيَةٌ", "root": "ص ف و", "bs": "vedro / bistro", "en": "clear" }
+        {
+          "w": "أَقْلَعَتِ",
+          "root": "ق ل ع",
+          "bs": "poletjela je",
+          "en": "took off",
+          "lemma": "أَقْلَعَ يُقْلِعُ"
+        },
+        {
+          "w": "الطَّائِرَةُ",
+          "root": "ط ي ر",
+          "bs": "avion",
+          "en": "airplane",
+          "lemma": "طَائِرَةٌ / طَائِرَاتٌ"
+        },
+        {
+          "w": "السَّمَاءُ",
+          "root": "س م و",
+          "bs": "nebo",
+          "en": "sky",
+          "lemma": "سَمَاءٌ / سَمَاوَاتٌ"
+        },
+        {
+          "w": "صَافِيَةٌ",
+          "root": "ص ف و",
+          "bs": "vedro / bistro",
+          "en": "clear",
+          "lemma": "صَافٍ"
+        }
       ]
     }
   ],

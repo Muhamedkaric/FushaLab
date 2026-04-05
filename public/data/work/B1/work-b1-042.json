@@ -8,10 +8,34 @@
       "translation": "Kompanija je objavila zaposlenika mjeseca.",
       "translationEn": "The company announced the employee of the month.",
       "words": [
-        { "w": "أَعْلَنَتِ", "root": "ع ل ن", "bs": "objavila je/saopštila", "en": "announced" },
-        { "w": "الشَّرِكَةُ", "root": "ش ر ك", "bs": "kompanija/firma", "en": "company" },
-        { "w": "مُوَظَّفِ", "root": "و ظ ف", "bs": "zaposlenik/radnik", "en": "employee" },
-        { "w": "الشَّهْرِ", "root": "ش ه ر", "bs": "mesec/sijed", "en": "month" }
+        {
+          "w": "أَعْلَنَتِ",
+          "root": "ع ل ن",
+          "bs": "objavila je/saopštila",
+          "en": "announced",
+          "lemma": "أَعْلَنَ يُعْلِنُ"
+        },
+        {
+          "w": "الشَّرِكَةُ",
+          "root": "ش ر ك",
+          "bs": "kompanija/firma",
+          "en": "company",
+          "lemma": "شَرِكَةٌ / شَرِكَاتٌ"
+        },
+        {
+          "w": "مُوَظَّفِ",
+          "root": "و ظ ف",
+          "bs": "zaposlenik/radnik",
+          "en": "employee",
+          "lemma": "مُوَظَّفٌ / مُوَظَّفُونَ"
+        },
+        {
+          "w": "الشَّهْرِ",
+          "root": "ش ه ر",
+          "bs": "mesec/sijed",
+          "en": "month",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Nagradu je osvojila radnica po imenu Ferida.",
       "translationEn": "An employee named Farida won the title.",
       "words": [
-        { "w": "فَازَتْ", "root": "ف و ز", "bs": "osvojila je/pobijedila", "en": "won" },
-        { "w": "بِاللَّقَبِ", "root": "ل ق ب", "bs": "nagrada/titula", "en": "title/award" },
-        { "w": "مُوَظَّفَةٌ", "root": "و ظ ف", "bs": "radnica/zaposlenica", "en": "employee (f)" }
+        {
+          "w": "فَازَتْ",
+          "root": "ف و ز",
+          "bs": "osvojila je/pobijedila",
+          "en": "won",
+          "lemma": "فَازَ يَفُوزُ"
+        },
+        {
+          "w": "بِاللَّقَبِ",
+          "root": "ل ق ب",
+          "bs": "nagrada/titula",
+          "en": "title/award",
+          "lemma": "لَقَبٌ / أَلْقَابٌ"
+        },
+        {
+          "w": "مُوَظَّفَةٌ",
+          "root": "و ظ ف",
+          "bs": "radnica/zaposlenica",
+          "en": "employee (f)",
+          "lemma": "مُوَظَّفٌ / مُوَظَّفُونَ"
+        }
       ]
     },
     {
@@ -29,11 +71,41 @@
       "translation": "Kompanija joj je uručila certifikat i mali poklon.",
       "translationEn": "The company gave her a certificate and a small gift.",
       "words": [
-        { "w": "قَدَّمَتِ", "root": "ق د م", "bs": "uručila je/dala", "en": "gave/presented" },
-        { "w": "الشَّرِكَةُ", "root": "ش ر ك", "bs": "kompanija", "en": "company" },
-        { "w": "شَهَادَةً", "root": "ش ه د", "bs": "certifikat/diploma", "en": "certificate" },
-        { "w": "هَدِيَّةً", "root": "ه د ي", "bs": "poklon", "en": "gift" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mali/mala", "en": "small" }
+        {
+          "w": "قَدَّمَتِ",
+          "root": "ق د م",
+          "bs": "uručila je/dala",
+          "en": "gave/presented",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الشَّرِكَةُ",
+          "root": "ش ر ك",
+          "bs": "kompanija",
+          "en": "company",
+          "lemma": "شَرِكَةٌ / شَرِكَاتٌ"
+        },
+        {
+          "w": "شَهَادَةً",
+          "root": "ش ه د",
+          "bs": "certifikat/diploma",
+          "en": "certificate",
+          "lemma": "شَهَادَةٌ / شَهَادَاتٌ"
+        },
+        {
+          "w": "هَدِيَّةً",
+          "root": "ه د ي",
+          "bs": "poklon",
+          "en": "gift",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "mali/mala",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Ferida se obradovala i zahvalila timu na podršci.",
       "translationEn": "Farida was happy and thanked the team for their support.",
       "words": [
-        { "w": "سَعِدَتْ", "root": "س ع د", "bs": "obradovala se/bila sretna", "en": "was happy" },
-        { "w": "شَكَرَتِ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
-        { "w": "الْفَرِيقَ", "root": "ف ر ق", "bs": "tim/ekipa", "en": "team" },
-        { "w": "دَعْمِهِ", "root": "د ع م", "bs": "podrška/pomoć", "en": "support" }
+        {
+          "w": "سَعِدَتْ",
+          "root": "س ع د",
+          "bs": "obradovala se/bila sretna",
+          "en": "was happy",
+          "lemma": "سَعِدَ يَسْعَدُ"
+        },
+        {
+          "w": "شَكَرَتِ",
+          "root": "ش ك ر",
+          "bs": "zahvalila je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الْفَرِيقَ",
+          "root": "ف ر ق",
+          "bs": "tim/ekipa",
+          "en": "team",
+          "lemma": "فَرِيقٌ / فِرَقٌ"
+        },
+        {
+          "w": "دَعْمِهِ",
+          "root": "د ع م",
+          "bs": "podrška/pomoć",
+          "en": "support",
+          "lemma": "دَعْمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["employee of the month", "award", "recognition", "company"]
+    "tags": [
+      "employee of the month",
+      "award",
+      "recognition",
+      "company"
+    ]
   }
 }

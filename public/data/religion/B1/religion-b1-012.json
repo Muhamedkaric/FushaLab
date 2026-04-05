@@ -12,25 +12,29 @@
           "w": "يُحِبُّ",
           "root": "ح ب ب",
           "bs": "volio je",
-          "en": "loved"
+          "en": "loved",
+          "lemma": "أَحَبَّ يُحِبُّ"
         },
         {
           "w": "مُشَارَكَةَ",
           "root": "ش ر ك",
           "bs": "dijeljenje",
-          "en": "sharing"
+          "en": "sharing",
+          "lemma": "مُشَارَكَةٌ / مُشَارَكَاتٌ"
         },
         {
           "w": "طَعَامِهِ",
           "root": "ط ع م",
           "bs": "hrane",
-          "en": "his food"
+          "en": "his food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         },
         {
           "w": "الْآخَرِينَ",
           "root": "أ خ ر",
           "bs": "drugima",
-          "en": "others"
+          "en": "others",
+          "lemma": "آخَرُ / آخَرُونَ"
         }
       ]
     },
@@ -43,19 +47,22 @@
           "w": "أَكَلَ",
           "root": "أ ك ل",
           "bs": "jeo je",
-          "en": "ate"
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "أَصْدِقَائِهِ",
           "root": "ص د ق",
           "bs": "prijatelja",
-          "en": "his friends"
+          "en": "his friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "يَعْرِضُ",
           "root": "ع ر ض",
           "bs": "nudio je",
-          "en": "offered"
+          "en": "offered",
+          "lemma": "عَرَضَ يَعْرِضُ"
         }
       ]
     },
@@ -68,25 +75,29 @@
           "w": "الطَّعَامُ",
           "root": "ط ع م",
           "bs": "hrane",
-          "en": "food"
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         },
         {
           "w": "يَكْفِي",
           "root": "ك ف ي",
           "bs": "ima dovoljno",
-          "en": "is enough"
+          "en": "is enough",
+          "lemma": "كَفَى يَكْفِي"
         },
         {
           "w": "لِلْجَمِيعِ",
           "root": "ج م ع",
           "bs": "za sve",
-          "en": "for all"
+          "en": "for all",
+          "lemma": "جَمِيعٌ"
         },
         {
           "w": "تَشَارَكْنَا",
           "root": "ش ر ك",
           "bs": "dijelimo",
-          "en": "we share"
+          "en": "we share",
+          "lemma": "تَشَارَكَ يَتَشَارَكُ"
         }
       ]
     },
@@ -99,25 +110,29 @@
           "w": "تَعَلَّمَ",
           "root": "ع ل م",
           "bs": "naučio je",
-          "en": "learned"
+          "en": "learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
         },
         {
           "w": "الْخُلُقَ",
           "root": "خ ل ق",
           "bs": "osobinu",
-          "en": "character trait"
+          "en": "character trait",
+          "lemma": "خُلُقٌ / أَخْلَاقٌ"
         },
         {
           "w": "تَعَالِيمِ",
           "root": "ع ل م",
           "bs": "učenja",
-          "en": "teachings"
+          "en": "teachings",
+          "lemma": "تَعْلِيمٌ / تَعَالِيمُ"
         },
         {
           "w": "الدِّينِ",
           "root": "د ي ن",
           "bs": "vjere",
-          "en": "religion"
+          "en": "religion",
+          "lemma": "دِينٌ / أَدْيَانٌ"
         }
       ]
     }

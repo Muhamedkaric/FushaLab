@@ -8,10 +8,34 @@
       "translation": "Hamdi radi kao prodavač na pijaci.",
       "translationEn": "Hamdi works as a seller in a popular market.",
       "words": [
-        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "بَائِعًا", "root": "ب ي ع", "bs": "prodavač/prodavalac", "en": "seller" },
-        { "w": "سُوقٍ", "root": "س و ق", "bs": "pijaca/tržnica", "en": "market" },
-        { "w": "شَعْبِيٍّ", "root": "ش ع ب", "bs": "narodna/popularna", "en": "popular/public" }
+        {
+          "w": "يَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "بَائِعًا",
+          "root": "ب ي ع",
+          "bs": "prodavač/prodavalac",
+          "en": "seller",
+          "lemma": "بَائِعٌ / بَائِعُونَ"
+        },
+        {
+          "w": "سُوقٍ",
+          "root": "س و ق",
+          "bs": "pijaca/tržnica",
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "شَعْبِيٍّ",
+          "root": "ش ع ب",
+          "bs": "narodna/popularna",
+          "en": "popular/public",
+          "lemma": "شَعْبِيٌّ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Svaki dan od jutra izlaže povrće i voće.",
       "translationEn": "He displays vegetables and fruit every day from the morning.",
       "words": [
-        { "w": "يَعْرِضُ", "root": "ع ر ض", "bs": "izlaže/nudi", "en": "displays/offers" },
-        { "w": "الْخُضَرَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
-        { "w": "الْفَاكِهَةَ", "root": "ف ك ه", "bs": "voće", "en": "fruit" },
-        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro/ujutro", "en": "morning" }
+        {
+          "w": "يَعْرِضُ",
+          "root": "ع ر ض",
+          "bs": "izlaže/nudi",
+          "en": "displays/offers",
+          "lemma": "عَرَضَ يَعْرِضُ"
+        },
+        {
+          "w": "الْخُضَرَ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables",
+          "lemma": "خُضَرٌ / خَضْرَاوَاتٌ"
+        },
+        {
+          "w": "الْفَاكِهَةَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro/ujutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ"
+        }
       ]
     },
     {
@@ -30,12 +78,48 @@
       "translation": "Viče cijene jakim glasom da privuče kupce.",
       "translationEn": "He calls out his prices in a loud voice to attract customers.",
       "words": [
-        { "w": "يُنَادِي", "root": "ن د و", "bs": "viče/zove", "en": "calls out" },
-        { "w": "بِأَسْعَارِهِ", "root": "س ع ر", "bs": "njegove cijene", "en": "his prices" },
-        { "w": "بِصَوْتٍ", "root": "ص و ت", "bs": "glasom/zvukom", "en": "voice" },
-        { "w": "قَوِيٍّ", "root": "ق و ي", "bs": "jakim/snažnim", "en": "loud/strong" },
-        { "w": "لِيَجْذِبَ", "root": "ج ذ ب", "bs": "da privuče", "en": "to attract" },
-        { "w": "الزَّبَائِنَ", "root": "ز ب ن", "bs": "kupci/mušterije", "en": "customers" }
+        {
+          "w": "يُنَادِي",
+          "root": "ن د و",
+          "bs": "viče/zove",
+          "en": "calls out",
+          "lemma": "نَادَى يُنَادِي"
+        },
+        {
+          "w": "بِأَسْعَارِهِ",
+          "root": "س ع ر",
+          "bs": "njegove cijene",
+          "en": "his prices",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        },
+        {
+          "w": "بِصَوْتٍ",
+          "root": "ص و ت",
+          "bs": "glasom/zvukom",
+          "en": "voice",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "قَوِيٍّ",
+          "root": "ق و ي",
+          "bs": "jakim/snažnim",
+          "en": "loud/strong",
+          "lemma": "قَوِيٌّ"
+        },
+        {
+          "w": "لِيَجْذِبَ",
+          "root": "ج ذ ب",
+          "bs": "da privuče",
+          "en": "to attract",
+          "lemma": "جَذَبَ يَجْذِبُ"
+        },
+        {
+          "w": "الزَّبَائِنَ",
+          "root": "ز ب ن",
+          "bs": "kupci/mušterije",
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        }
       ]
     },
     {
@@ -43,15 +127,44 @@
       "translation": "Proda sve prije podneva u vršnim danima.",
       "translationEn": "He sells everything before noon on peak days.",
       "words": [
-        { "w": "يَبِيعُ", "root": "ب ي ع", "bs": "prodaje", "en": "sells" },
-        { "w": "الظُّهْرِ", "root": "ظ ه ر", "bs": "podne", "en": "noon" },
-        { "w": "أَيَّامِ", "root": "ي و م", "bs": "dani", "en": "days" },
-        { "w": "الذُّرْوَةِ", "root": "ذ ر و", "bs": "vršnih/prometnih", "en": "peak" }
+        {
+          "w": "يَبِيعُ",
+          "root": "ب ي ع",
+          "bs": "prodaje",
+          "en": "sells",
+          "lemma": "بَاعَ يَبِيعُ"
+        },
+        {
+          "w": "الظُّهْرِ",
+          "root": "ظ ه ر",
+          "bs": "podne",
+          "en": "noon",
+          "lemma": "ظُهْرٌ"
+        },
+        {
+          "w": "أَيَّامِ",
+          "root": "ي و م",
+          "bs": "dani",
+          "en": "days",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "الذُّرْوَةِ",
+          "root": "ذ ر و",
+          "bs": "vršnih/prometnih",
+          "en": "peak",
+          "lemma": "ذُرْوَةٌ / ذُرًى"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["market seller", "vegetables", "fruit", "market"]
+    "tags": [
+      "market seller",
+      "vegetables",
+      "fruit",
+      "market"
+    ]
   }
 }

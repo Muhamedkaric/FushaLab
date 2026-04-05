@@ -8,11 +8,41 @@
       "translation": "Majka je učila svoju kćerku kako da tka vunu.",
       "translationEn": "The mother used to teach her daughter how to weave wool.",
       "words": [
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "the mother" },
-        { "w": "تُعَلِّمُ", "root": "ع ل م", "bs": "uči", "en": "teaches" },
-        { "w": "بِنْتَهَا", "root": "ب ن ت", "bs": "njenu kćerku", "en": "her daughter" },
-        { "w": "تَنْسِجُ", "root": "ن س ج", "bs": "tka", "en": "weaves" },
-        { "w": "الصُّوفَ", "root": "ص و ف", "bs": "vunu", "en": "wool" }
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "the mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "تُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "uči",
+          "en": "teaches",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "بِنْتَهَا",
+          "root": "ب ن ت",
+          "bs": "njenu kćerku",
+          "en": "her daughter",
+          "lemma": "بِنْتٌ / بَنَاتٌ"
+        },
+        {
+          "w": "تَنْسِجُ",
+          "root": "ن س ج",
+          "bs": "tka",
+          "en": "weaves",
+          "lemma": "نَسَجَ يَنْسِجُ"
+        },
+        {
+          "w": "الصُّوفَ",
+          "root": "ص و ف",
+          "bs": "vunu",
+          "en": "wool",
+          "lemma": "صُوفٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Sjedile su ispred kuće ujutro.",
       "translationEn": "They would sit in front of the house in the morning.",
       "words": [
-        { "w": "تَجْلِسَانِ", "root": "ج ل س", "bs": "sjede", "en": "sit" },
-        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "the house" },
-        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "the morning" }
+        {
+          "w": "تَجْلِسَانِ",
+          "root": "ج ل س",
+          "bs": "sjede",
+          "en": "sit",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "the house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "the morning",
+          "lemma": "صَبَاحٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Napravile su lijepi tepih od šarene vune.",
       "translationEn": "They made a beautiful carpet from coloured wool.",
       "words": [
-        { "w": "صَنَعَتَا", "root": "ص ن ع", "bs": "napravile su", "en": "made" },
-        { "w": "سِجَّادَةً", "root": "س ج د", "bs": "tepih", "en": "a carpet" },
-        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijep", "en": "beautiful" },
-        { "w": "الصُّوفِ", "root": "ص و ف", "bs": "vune", "en": "wool" },
-        { "w": "الْمُلَوَّنِ", "root": "ل و ن", "bs": "šarena", "en": "coloured" }
+        {
+          "w": "صَنَعَتَا",
+          "root": "ص ن ع",
+          "bs": "napravile su",
+          "en": "made",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "سِجَّادَةً",
+          "root": "س ج د",
+          "bs": "tepih",
+          "en": "a carpet",
+          "lemma": "سِجَّادَةٌ / سَجَاجِيدُ"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijep",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "الصُّوفِ",
+          "root": "ص و ف",
+          "bs": "vune",
+          "en": "wool",
+          "lemma": "صُوفٌ"
+        },
+        {
+          "w": "الْمُلَوَّنِ",
+          "root": "ل و ن",
+          "bs": "šarena",
+          "en": "coloured",
+          "lemma": "مُلَوَّنٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,50 @@
       "translation": "Ručni rad bio je izvor prihoda za mnoge porodice.",
       "translationEn": "Handicraft was a source of income for many families.",
       "words": [
-        { "w": "الصِّنَاعَةُ", "root": "ص ن ع", "bs": "zanat", "en": "handicraft" },
-        { "w": "الْيَدَوِيَّةُ", "root": "ي د و", "bs": "ručni", "en": "manual" },
-        { "w": "مَصْدَرَ", "root": "ص د ر", "bs": "izvor", "en": "source" },
-        { "w": "رِزْقٍ", "root": "ر ز ق", "bs": "prihod", "en": "income" },
-        { "w": "الأُسَرِ", "root": "أ س ر", "bs": "porodice", "en": "families" }
+        {
+          "w": "الصِّنَاعَةُ",
+          "root": "ص ن ع",
+          "bs": "zanat",
+          "en": "handicraft",
+          "lemma": "صِنَاعَةٌ / صِنَاعَاتٌ"
+        },
+        {
+          "w": "الْيَدَوِيَّةُ",
+          "root": "ي د و",
+          "bs": "ručni",
+          "en": "manual",
+          "lemma": "يَدَوِيٌّ"
+        },
+        {
+          "w": "مَصْدَرَ",
+          "root": "ص د ر",
+          "bs": "izvor",
+          "en": "source",
+          "lemma": "مَصْدَرٌ / مَصَادِرُ"
+        },
+        {
+          "w": "رِزْقٍ",
+          "root": "ر ز ق",
+          "bs": "prihod",
+          "en": "income",
+          "lemma": "رِزْقٌ / أَرْزَاقٌ"
+        },
+        {
+          "w": "الأُسَرِ",
+          "root": "أ س ر",
+          "bs": "porodice",
+          "en": "families",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["crafts", "weaving", "family"]
+    "tags": [
+      "crafts",
+      "weaving",
+      "family"
+    ]
   }
 }

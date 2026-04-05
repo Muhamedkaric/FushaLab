@@ -8,11 +8,41 @@
       "translation": "Velika rijeka bila je čuvena u drevnoj historiji.",
       "translationEn": "The great river was famous in ancient history.",
       "words": [
-        { "w": "النَّهْرُ", "root": "ن ه ر", "bs": "rijeka", "en": "the river" },
-        { "w": "الْكَبِيرُ", "root": "ك ب ر", "bs": "velika", "en": "great" },
-        { "w": "مَشْهُورًا", "root": "ش ه ر", "bs": "čuvena", "en": "famous" },
-        { "w": "التَّارِيخِ", "root": "أ ر خ", "bs": "historija", "en": "history" },
-        { "w": "الْقَدِيمِ", "root": "ق د م", "bs": "drevna", "en": "ancient" }
+        {
+          "w": "النَّهْرُ",
+          "root": "ن ه ر",
+          "bs": "rijeka",
+          "en": "the river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        },
+        {
+          "w": "الْكَبِيرُ",
+          "root": "ك ب ر",
+          "bs": "velika",
+          "en": "great",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "مَشْهُورًا",
+          "root": "ش ه ر",
+          "bs": "čuvena",
+          "en": "famous",
+          "lemma": "مَشْهُورٌ"
+        },
+        {
+          "w": "التَّارِيخِ",
+          "root": "أ ر خ",
+          "bs": "historija",
+          "en": "history",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        },
+        {
+          "w": "الْقَدِيمِ",
+          "root": "ق د م",
+          "bs": "drevna",
+          "en": "ancient",
+          "lemma": "قَدِيمٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Ljudi su živjeli na njenim obalama i obrađivali zemlju.",
       "translationEn": "People lived on its banks and cultivated the land.",
       "words": [
-        { "w": "عَاشَ", "root": "ع ي ش", "bs": "živio je", "en": "lived" },
-        { "w": "ضِفَافِهِ", "root": "ض ف ف", "bs": "obale", "en": "its banks" },
-        { "w": "زَرَعُوا", "root": "ز ر ع", "bs": "obrađivali su", "en": "cultivated" },
-        { "w": "الْأَرْضَ", "root": "أ ر ض", "bs": "zemlja", "en": "the land" }
+        {
+          "w": "عَاشَ",
+          "root": "ع ي ش",
+          "bs": "živio je",
+          "en": "lived",
+          "lemma": "عَاشَ يَعِيشُ"
+        },
+        {
+          "w": "ضِفَافِهِ",
+          "root": "ض ف ف",
+          "bs": "obale",
+          "en": "its banks",
+          "lemma": "ضِفَّةٌ / ضِفَافٌ"
+        },
+        {
+          "w": "زَرَعُوا",
+          "root": "ز ر ع",
+          "bs": "obrađivali su",
+          "en": "cultivated",
+          "lemma": "زَرَعَ يَزْرَعُ"
+        },
+        {
+          "w": "الْأَرْضَ",
+          "root": "أ ر ض",
+          "bs": "zemlja",
+          "en": "the land",
+          "lemma": "أَرْضٌ / أَرَاضٍ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Voda rijeke natapala je polja i vrtove.",
       "translationEn": "The river water irrigated the fields and gardens.",
       "words": [
-        { "w": "مَاءُ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeke", "en": "of the river" },
-        { "w": "يَسْقِي", "root": "س ق ي", "bs": "natapa", "en": "irrigates" },
-        { "w": "الْحُقُولَ", "root": "ح ق ل", "bs": "polja", "en": "the fields" },
-        { "w": "الْحَدَائِقَ", "root": "ح د ق", "bs": "vrtovi", "en": "the gardens" }
+        {
+          "w": "مَاءُ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "النَّهْرِ",
+          "root": "ن ه ر",
+          "bs": "rijeke",
+          "en": "of the river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        },
+        {
+          "w": "يَسْقِي",
+          "root": "س ق ي",
+          "bs": "natapa",
+          "en": "irrigates",
+          "lemma": "سَقَى يَسْقِي"
+        },
+        {
+          "w": "الْحُقُولَ",
+          "root": "ح ق ل",
+          "bs": "polja",
+          "en": "the fields",
+          "lemma": "حَقْلٌ / حُقُولٌ"
+        },
+        {
+          "w": "الْحَدَائِقَ",
+          "root": "ح د ق",
+          "bs": "vrtovi",
+          "en": "the gardens",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        }
       ]
     },
     {
@@ -43,14 +127,36 @@
       "translation": "Rijeka je davala život svima oko nje.",
       "translationEn": "The river gave life to all those around it.",
       "words": [
-        { "w": "النَّهْرُ", "root": "ن ه ر", "bs": "rijeka", "en": "the river" },
-        { "w": "يُعْطِي", "root": "ع ط و", "bs": "daje", "en": "gives" },
-        { "w": "الْحَيَاةَ", "root": "ح ي و", "bs": "život", "en": "life" }
+        {
+          "w": "النَّهْرُ",
+          "root": "ن ه ر",
+          "bs": "rijeka",
+          "en": "the river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        },
+        {
+          "w": "يُعْطِي",
+          "root": "ع ط و",
+          "bs": "daje",
+          "en": "gives",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "الْحَيَاةَ",
+          "root": "ح ي و",
+          "bs": "život",
+          "en": "life",
+          "lemma": "حَيَاةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["river", "farming", "ancient"]
+    "tags": [
+      "river",
+      "farming",
+      "ancient"
+    ]
   }
 }

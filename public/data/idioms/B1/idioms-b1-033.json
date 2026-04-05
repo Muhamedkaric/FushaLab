@@ -8,8 +8,20 @@
       "translation": "Poslovica kaže: «U sporosti je sigurnost».",
       "translationEn": "The proverb says: «In deliberateness there is safety».",
       "words": [
-        { "w": "التَّأَنِّي", "root": "أ ن ي", "bs": "opreznost", "en": "deliberateness" },
-        { "w": "السَّلَامَةُ", "root": "س ل م", "bs": "sigurnost", "en": "safety" }
+        {
+          "w": "التَّأَنِّي",
+          "root": "أ ن ي",
+          "bs": "opreznost",
+          "en": "deliberateness",
+          "lemma": "تَأَنٍّ"
+        },
+        {
+          "w": "السَّلَامَةُ",
+          "root": "س ل م",
+          "bs": "sigurnost",
+          "en": "safety",
+          "lemma": "سَلَامَةٌ"
+        }
       ]
     },
     {
@@ -17,10 +29,34 @@
       "translation": "To znači da razmišljanje prije akcije sprječava greške.",
       "translationEn": "This means that thinking before acting prevents mistakes.",
       "words": [
-        { "w": "التَّفْكِيرَ", "root": "ف ك ر", "bs": "razmišljanje", "en": "thinking" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "djelanje", "en": "acting" },
-        { "w": "يَمْنَعُ", "root": "م ن ع", "bs": "sprječava", "en": "prevents" },
-        { "w": "الأَخْطَاءَ", "root": "خ ط أ", "bs": "greške", "en": "mistakes" }
+        {
+          "w": "التَّفْكِيرَ",
+          "root": "ف ك ر",
+          "bs": "razmišljanje",
+          "en": "thinking",
+          "lemma": "تَفْكِيرٌ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "djelanje",
+          "en": "acting",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "يَمْنَعُ",
+          "root": "م ن ع",
+          "bs": "sprječava",
+          "en": "prevents",
+          "lemma": "مَنَعَ يَمْنَعُ"
+        },
+        {
+          "w": "الأَخْطَاءَ",
+          "root": "خ ط أ",
+          "bs": "greške",
+          "en": "mistakes",
+          "lemma": "خَطَأٌ / أَخْطَاءٌ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Mihad je htio brzo poslati ljutitu poruku.",
       "translationEn": "Mihad wanted to quickly send an angry message.",
       "words": [
-        { "w": "إِرْسَالَ", "root": "ر س ل", "bs": "slanje", "en": "sending" },
-        { "w": "رِسَالَةٍ", "root": "ر س ل", "bs": "poruka", "en": "message" },
-        { "w": "غَاضِبَةٍ", "root": "غ ض ب", "bs": "ljutita", "en": "angry" }
+        {
+          "w": "إِرْسَالَ",
+          "root": "ر س ل",
+          "bs": "slanje",
+          "en": "sending",
+          "lemma": "إِرْسَالٌ"
+        },
+        {
+          "w": "رِسَالَةٍ",
+          "root": "ر س ل",
+          "bs": "poruka",
+          "en": "message",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "غَاضِبَةٍ",
+          "root": "غ ض ب",
+          "bs": "ljutita",
+          "en": "angry",
+          "lemma": "غَاضِبٌ"
+        }
       ]
     },
     {
@@ -38,16 +92,50 @@
       "translation": "Pričekao je i razmislio, pa je napisao mirnu i mudru poruku.",
       "translationEn": "He waited and thought then wrote a calm and wise message.",
       "words": [
-        { "w": "انْتَظَرَ", "root": "ن ظ ر", "bs": "pričekao je", "en": "waited" },
-        { "w": "فَكَّرَ", "root": "ف ك ر", "bs": "razmislio je", "en": "thought" },
-        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
-        { "w": "هَادِئَةً", "root": "ه د أ", "bs": "mirnu", "en": "calm" },
-        { "w": "حَكِيمَةً", "root": "ح ك م", "bs": "mudru", "en": "wise" }
+        {
+          "w": "انْتَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "pričekao je",
+          "en": "waited",
+          "lemma": "اِنْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "فَكَّرَ",
+          "root": "ف ك ر",
+          "bs": "razmislio je",
+          "en": "thought",
+          "lemma": "فَكَّرَ يُفَكِّرُ"
+        },
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao je",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "هَادِئَةً",
+          "root": "ه د أ",
+          "bs": "mirnu",
+          "en": "calm",
+          "lemma": "هَادِئٌ"
+        },
+        {
+          "w": "حَكِيمَةً",
+          "root": "ح ك م",
+          "bs": "mudru",
+          "en": "wise",
+          "lemma": "حَكِيمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["patience", "proverb", "wisdom"]
+    "tags": [
+      "patience",
+      "proverb",
+      "wisdom"
+    ]
   }
 }

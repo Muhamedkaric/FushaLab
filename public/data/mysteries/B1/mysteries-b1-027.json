@@ -8,11 +8,41 @@
       "translation": "Tarik je pronašao sjemenku čudnog oblika u vrtu.",
       "translationEn": "Tariq found a strangely shaped seed in the garden.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "بِذْرَةً", "root": "ب ذ ر", "bs": "sjemenku", "en": "seed" },
-        { "w": "غَرِيبَةَ", "root": "غ ر ب", "bs": "čudnog", "en": "strange" },
-        { "w": "الشَّكْلِ", "root": "ش ك ل", "bs": "oblika", "en": "shape" },
-        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrtu", "en": "garden" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "بِذْرَةً",
+          "root": "ب ذ ر",
+          "bs": "sjemenku",
+          "en": "seed",
+          "lemma": "بِذْرَةٌ / بُذُورٌ"
+        },
+        {
+          "w": "غَرِيبَةَ",
+          "root": "غ ر ب",
+          "bs": "čudnog",
+          "en": "strange",
+          "lemma": "غَرِيبٌ"
+        },
+        {
+          "w": "الشَّكْلِ",
+          "root": "ش ك ل",
+          "bs": "oblika",
+          "en": "shape",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "vrtu",
+          "en": "garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Posadio je sjemenku u zemlju i zalijevao je svaki dan.",
       "translationEn": "He planted it in the soil and watered it every day.",
       "words": [
-        { "w": "زَرَعَهَا", "root": "ز ر ع", "bs": "posadio je", "en": "he planted it" },
-        { "w": "التُّرْبَةِ", "root": "ت ر ب", "bs": "zemlju", "en": "soil" },
-        { "w": "سَقَاهَا", "root": "س ق ي", "bs": "zalijevao je", "en": "he watered it" }
+        {
+          "w": "زَرَعَهَا",
+          "root": "ز ر ع",
+          "bs": "posadio je",
+          "en": "he planted it",
+          "lemma": "زَرَعَ يَزْرَعُ"
+        },
+        {
+          "w": "التُّرْبَةِ",
+          "root": "ت ر ب",
+          "bs": "zemlju",
+          "en": "soil",
+          "lemma": "تُرْبَةٌ / تُرَبٌ"
+        },
+        {
+          "w": "سَقَاهَا",
+          "root": "س ق ي",
+          "bs": "zalijevao je",
+          "en": "he watered it",
+          "lemma": "سَقَى يَسْقِي"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Sedmicu kasnije iznikla je lijepa biljka s bijelim cvjetovima.",
       "translationEn": "After a week a beautiful plant with white flowers had grown.",
       "words": [
-        { "w": "نَبَتَ", "root": "ن ب ت", "bs": "iznikla je", "en": "had grown" },
-        { "w": "نَبَاتٌ", "root": "ن ب ت", "bs": "biljka", "en": "plant" },
-        { "w": "جَمِيلٌ", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" },
-        { "w": "أَزْهَارٍ", "root": "ز ه ر", "bs": "cvjetovima", "en": "flowers" },
-        { "w": "بَيْضَاءَ", "root": "ب ي ض", "bs": "bijelim", "en": "white" }
+        {
+          "w": "نَبَتَ",
+          "root": "ن ب ت",
+          "bs": "iznikla je",
+          "en": "had grown",
+          "lemma": "نَبَتَ يَنْبُتُ"
+        },
+        {
+          "w": "نَبَاتٌ",
+          "root": "ن ب ت",
+          "bs": "biljka",
+          "en": "plant",
+          "lemma": "نَبَاتٌ / نَبَاتَاتٌ"
+        },
+        {
+          "w": "جَمِيلٌ",
+          "root": "ج م ل",
+          "bs": "lijepa",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "أَزْهَارٍ",
+          "root": "ز ه ر",
+          "bs": "cvjetovima",
+          "en": "flowers",
+          "lemma": "زَهْرَةٌ / أَزْهَارٌ"
+        },
+        {
+          "w": "بَيْضَاءَ",
+          "root": "ب ي ض",
+          "bs": "bijelim",
+          "en": "white",
+          "lemma": "أَبْيَضُ"
+        }
       ]
     },
     {
@@ -42,9 +120,27 @@
       "translation": "Otac ju je pokazao susjedu koji poznaje biljke.",
       "translationEn": "The father showed it to their neighbour who knows about plants.",
       "words": [
-        { "w": "أَرَاهَا", "root": "ر أ ي", "bs": "pokazao je", "en": "he showed it" },
-        { "w": "يَعْرِفُ", "root": "ع ر ف", "bs": "poznaje", "en": "knows" },
-        { "w": "النَّبَاتَاتِ", "root": "ن ب ت", "bs": "biljke", "en": "plants" }
+        {
+          "w": "أَرَاهَا",
+          "root": "ر أ ي",
+          "bs": "pokazao je",
+          "en": "he showed it",
+          "lemma": "أَرَى يُرِي"
+        },
+        {
+          "w": "يَعْرِفُ",
+          "root": "ع ر ف",
+          "bs": "poznaje",
+          "en": "knows",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "النَّبَاتَاتِ",
+          "root": "ن ب ت",
+          "bs": "biljke",
+          "en": "plants",
+          "lemma": "نَبَاتٌ / نَبَاتَاتٌ"
+        }
       ]
     },
     {
@@ -52,14 +148,37 @@
       "translation": "Susjed je rekao: Ovo je jasmin, njegov miris je veoma lijep.",
       "translationEn": "The neighbour said: This is jasmine, its smell is very beautiful.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
-        { "w": "رَائِحَتُهُ", "root": "ر و ح", "bs": "miris", "en": "its smell" },
-        { "w": "جَمِيلَةٌ", "root": "ج م ل", "bs": "lijep", "en": "beautiful" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "he said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "رَائِحَتُهُ",
+          "root": "ر و ح",
+          "bs": "miris",
+          "en": "its smell",
+          "lemma": "رَائِحَةٌ / رَوَائِحُ"
+        },
+        {
+          "w": "جَمِيلَةٌ",
+          "root": "ج م ل",
+          "bs": "lijep",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "seed", "garden", "plant"]
+    "tags": [
+      "mystery",
+      "seed",
+      "garden",
+      "plant"
+    ]
   }
 }

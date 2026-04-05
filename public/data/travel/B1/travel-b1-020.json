@@ -8,8 +8,20 @@
       "translation": "Rana je veoma zavoljela grad Aleksandriju.",
       "translationEn": "Rana loved the city of Alexandria very much.",
       "words": [
-        { "w": "أَحَبَّتْ", "root": "ح ب ب", "bs": "zavoljela je", "en": "loved" },
-        { "w": "مَدِينَةَ", "root": "د ي ن", "bs": "grad", "en": "city" }
+        {
+          "w": "أَحَبَّتْ",
+          "root": "ح ب ب",
+          "bs": "zavoljela je",
+          "en": "loved",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "مَدِينَةَ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -17,10 +29,33 @@
       "translation": "Šetala je po korničeu i uživala u zraku.",
       "translationEn": "She walked on the corniche and enjoyed the breeze.",
       "words": [
-        { "w": "مَشَتْ", "root": "م ش ي", "bs": "šetala je", "en": "walked" },
-        { "w": "الْكُورْنِيشِ", "bs": "korniš / obalna šetnica", "en": "corniche / seafront promenade" },
-        { "w": "اسْتَمَتَعَتْ", "root": "م ت ع", "bs": "uživala je", "en": "enjoyed" },
-        { "w": "الْهَوَاءِ", "root": "ه و ي", "bs": "zrak / vazduh", "en": "air / breeze" }
+        {
+          "w": "مَشَتْ",
+          "root": "م ش ي",
+          "bs": "šetala je",
+          "en": "walked",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "الْكُورْنِيشِ",
+          "bs": "korniš / obalna šetnica",
+          "en": "corniche / seafront promenade",
+          "lemma": "كُورْنِيشٌ"
+        },
+        {
+          "w": "اسْتَمَتَعَتْ",
+          "root": "م ت ع",
+          "bs": "uživala je",
+          "en": "enjoyed",
+          "lemma": "اسْتَمْتَعَ يَسْتَمْتِعُ"
+        },
+        {
+          "w": "الْهَوَاءِ",
+          "root": "ه و ي",
+          "bs": "zrak / vazduh",
+          "en": "air / breeze",
+          "lemma": "هَوَاءٌ"
+        }
       ]
     },
     {
@@ -28,10 +63,34 @@
       "translation": "Kupila je pečenu ribu od prodavca na plaži.",
       "translationEn": "She bought grilled fish from a vendor on the beach.",
       "words": [
-        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
-        { "w": "سَمَكًا", "root": "س م ك", "bs": "riba", "en": "fish" },
-        { "w": "مَشْوِيًّا", "root": "ش و ي", "bs": "pečena / na roštilju", "en": "grilled" },
-        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plaža", "en": "beach" }
+        {
+          "w": "اشْتَرَتْ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "سَمَكًا",
+          "root": "س م ك",
+          "bs": "riba",
+          "en": "fish",
+          "lemma": "سَمَكٌ / أَسْمَاكٌ"
+        },
+        {
+          "w": "مَشْوِيًّا",
+          "root": "ش و ي",
+          "bs": "pečena / na roštilju",
+          "en": "grilled",
+          "lemma": "مَشْوِيٌّ"
+        },
+        {
+          "w": "الشَّاطِئِ",
+          "root": "ش ط أ",
+          "bs": "plaža",
+          "en": "beach",
+          "lemma": "شَاطِئٌ / شَوَاطِئُ"
+        }
       ]
     },
     {
@@ -39,10 +98,34 @@
       "translation": "Jela je ribu dok je gledala u more.",
       "translationEn": "She ate the fish while looking at the sea.",
       "words": [
-        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "jela je", "en": "ate" },
-        { "w": "السَّمَكَ", "root": "س م ك", "bs": "riba", "en": "fish" },
-        { "w": "تَنْظُرُ", "root": "ن ظ ر", "bs": "gleda", "en": "looking" },
-        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" }
+        {
+          "w": "أَكَلَتِ",
+          "root": "أ ك ل",
+          "bs": "jela je",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "السَّمَكَ",
+          "root": "س م ك",
+          "bs": "riba",
+          "en": "fish",
+          "lemma": "سَمَكٌ / أَسْمَاكٌ"
+        },
+        {
+          "w": "تَنْظُرُ",
+          "root": "ن ظ ر",
+          "bs": "gleda",
+          "en": "looking",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "الْبَحْرِ",
+          "root": "ب ح ر",
+          "bs": "more",
+          "en": "sea",
+          "lemma": "بَحْرٌ / بِحَارٌ"
+        }
       ]
     }
   ],

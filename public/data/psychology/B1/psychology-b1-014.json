@@ -8,10 +8,34 @@
       "translation": "Sami se bojao kada je bio sam kod kuće.",
       "translationEn": "Sami used to feel afraid when he was alone at home.",
       "words": [
-        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
-        { "w": "الْخَوْفِ", "root": "خ و ف", "bs": "strah", "en": "fear" },
-        { "w": "وَحِيدًا", "root": "و ح د", "bs": "sam", "en": "alone" },
-        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الْخَوْفِ",
+          "root": "خ و ف",
+          "bs": "strah",
+          "en": "fear",
+          "lemma": "خَوْفٌ"
+        },
+        {
+          "w": "وَحِيدًا",
+          "root": "و ح د",
+          "bs": "sam",
+          "en": "alone",
+          "lemma": "وَحِيدٌ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "home",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Čuo bi zvukove i zamišljao strašne stvari.",
       "translationEn": "He would hear sounds and imagine scary things.",
       "words": [
-        { "w": "يَسْمَعُ", "root": "س م ع", "bs": "čuje", "en": "hears" },
-        { "w": "أَصْوَاتًا", "root": "ص و ت", "bs": "zvukove", "en": "sounds" },
-        { "w": "يَتَخَيَّلُ", "root": "خ ي ل", "bs": "zamišlja", "en": "imagines" },
-        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
-        { "w": "مُخِيفَةً", "root": "خ و ف", "bs": "strašne", "en": "scary" }
+        {
+          "w": "يَسْمَعُ",
+          "root": "س م ع",
+          "bs": "čuje",
+          "en": "hears",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "أَصْوَاتًا",
+          "root": "ص و ت",
+          "bs": "zvukove",
+          "en": "sounds",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "يَتَخَيَّلُ",
+          "root": "خ ي ل",
+          "bs": "zamišlja",
+          "en": "imagines",
+          "lemma": "تَخَيَّلَ يَتَخَيَّلُ"
+        },
+        {
+          "w": "أَشْيَاءَ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "مُخِيفَةً",
+          "root": "خ و ف",
+          "bs": "strašne",
+          "en": "scary",
+          "lemma": "مُخِيفٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Upalio je svjetla i uključio radio da se osjeća prijatno.",
       "translationEn": "He turned on the lights and the radio to feel comfortable.",
       "words": [
-        { "w": "أَضَاءَ", "root": "ض و أ", "bs": "upalio je", "en": "turned on" },
-        { "w": "الأَنْوَارَ", "root": "ن و ر", "bs": "svjetla", "en": "the lights" },
-        { "w": "شَغَّلَ", "root": "ش غ ل", "bs": "uključio je", "en": "turned on" },
-        { "w": "الأَنْسِ", "root": "أ ن س", "bs": "prijatnost", "en": "comfort" }
+        {
+          "w": "أَضَاءَ",
+          "root": "ض و أ",
+          "bs": "upalio je",
+          "en": "turned on",
+          "lemma": "أَضَاءَ يُضِيءُ"
+        },
+        {
+          "w": "الأَنْوَارَ",
+          "root": "ن و ر",
+          "bs": "svjetla",
+          "en": "the lights",
+          "lemma": "نُورٌ / أَنْوَارٌ"
+        },
+        {
+          "w": "شَغَّلَ",
+          "root": "ش غ ل",
+          "bs": "uključio je",
+          "en": "turned on",
+          "lemma": "شَغَّلَ يُشَغِّلُ"
+        },
+        {
+          "w": "الأَنْسِ",
+          "root": "أ ن س",
+          "bs": "prijatnost",
+          "en": "comfort",
+          "lemma": "أُنْسٌ"
+        }
       ]
     },
     {
@@ -42,14 +120,36 @@
       "translation": "Polako je naučio biti sam bez straha.",
       "translationEn": "Little by little he learned to be alone without fear.",
       "words": [
-        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučio je", "en": "learned" },
-        { "w": "وَحِيدًا", "root": "و ح د", "bs": "sam", "en": "alone" },
-        { "w": "خَوْفٍ", "root": "خ و ف", "bs": "strah", "en": "fear" }
+        {
+          "w": "تَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "وَحِيدًا",
+          "root": "و ح د",
+          "bs": "sam",
+          "en": "alone",
+          "lemma": "وَحِيدٌ"
+        },
+        {
+          "w": "خَوْفٍ",
+          "root": "خ و ف",
+          "bs": "strah",
+          "en": "fear",
+          "lemma": "خَوْفٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["fear", "coping", "growth"]
+    "tags": [
+      "fear",
+      "coping",
+      "growth"
+    ]
   }
 }

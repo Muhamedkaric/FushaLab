@@ -8,10 +8,34 @@
       "translation": "Bila je djevojčica po imenu Aja koja je živjela u lijepom selu.",
       "translationEn": "There was a girl named Aya who lived in a beautiful village.",
       "words": [
-        { "w": "بِنْتٌ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
-        { "w": "تَعِيشُ", "root": "ع ي ش", "bs": "živjela je", "en": "lived" },
-        { "w": "قَرْيَةٍ", "root": "ق ر ي", "bs": "selo", "en": "village" },
-        { "w": "جَمِيلَةٍ", "root": "ج م ل", "bs": "lijepom", "en": "beautiful" }
+        {
+          "w": "بِنْتٌ",
+          "root": "ب ن ت",
+          "bs": "djevojčica",
+          "en": "girl",
+          "lemma": "بِنْتٌ / بَنَاتٌ"
+        },
+        {
+          "w": "تَعِيشُ",
+          "root": "ع ي ش",
+          "bs": "živjela je",
+          "en": "lived",
+          "lemma": "عَاشَ يَعِيشُ"
+        },
+        {
+          "w": "قَرْيَةٍ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "جَمِيلَةٍ",
+          "root": "ج م ل",
+          "bs": "lijepom",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Htjela je pokazati selo svojoj prijateljici koja je došla iz grada.",
       "translationEn": "She wanted to show the village to her friend who came from the city.",
       "words": [
-        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
-        { "w": "تُرِيَ", "root": "ر أ ي", "bs": "pokazati", "en": "to show" },
-        { "w": "الْقَرْيَةَ", "root": "ق ر ي", "bs": "selo", "en": "village" },
-        { "w": "صَدِيقَتِهَا", "root": "ص د ق", "bs": "njena prijateljica", "en": "her friend" },
-        { "w": "الْمَدِينَةِ", "root": "م د ن", "bs": "grad", "en": "city" }
+        {
+          "w": "أَرَادَتْ",
+          "root": "ر و د",
+          "bs": "htjela je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "تُرِيَ",
+          "root": "ر أ ي",
+          "bs": "pokazati",
+          "en": "to show",
+          "lemma": "أَرَى يُرِي"
+        },
+        {
+          "w": "الْقَرْيَةَ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "صَدِيقَتِهَا",
+          "root": "ص د ق",
+          "bs": "njena prijateljica",
+          "en": "her friend",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Zajedno su šetale po poljima i pored rijeke.",
       "translationEn": "They walked together through the fields and beside the river.",
       "words": [
-        { "w": "مَشَيَا", "root": "م ش ي", "bs": "šetale su", "en": "walked" },
-        { "w": "الْحُقُولِ", "root": "ح ق ل", "bs": "polja", "en": "fields" },
-        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "river" }
+        {
+          "w": "مَشَيَا",
+          "root": "م ش ي",
+          "bs": "šetale su",
+          "en": "walked",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "الْحُقُولِ",
+          "root": "ح ق ل",
+          "bs": "polja",
+          "en": "fields",
+          "lemma": "حَقْلٌ / حُقُولٌ"
+        },
+        {
+          "w": "النَّهْرِ",
+          "root": "ن ه ر",
+          "bs": "rijeka",
+          "en": "river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        }
       ]
     },
     {
@@ -41,16 +113,51 @@
       "translation": "Prijateljica je rekla: «Tvoje selo je ljepše od slika».",
       "translationEn": "The friend said: «Your village is more beautiful than pictures».",
       "words": [
-        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
-        { "w": "الصَّدِيقَةُ", "root": "ص د ق", "bs": "prijateljica", "en": "friend" },
-        { "w": "قَرْيَتُكِ", "root": "ق ر ي", "bs": "tvoje selo", "en": "your village" },
-        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "ljepše", "en": "more beautiful" },
-        { "w": "الصُّوَرِ", "root": "ص و ر", "bs": "slike", "en": "pictures" }
+        {
+          "w": "قَالَتِ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الصَّدِيقَةُ",
+          "root": "ص د ق",
+          "bs": "prijateljica",
+          "en": "friend",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        },
+        {
+          "w": "قَرْيَتُكِ",
+          "root": "ق ر ي",
+          "bs": "tvoje selo",
+          "en": "your village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "أَجْمَلُ",
+          "root": "ج م ل",
+          "bs": "ljepše",
+          "en": "more beautiful",
+          "lemma": "أَجْمَلُ"
+        },
+        {
+          "w": "الصُّوَرِ",
+          "root": "ص و ر",
+          "bs": "slike",
+          "en": "pictures",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["village", "friendship", "nature", "girl"]
+    "tags": [
+      "village",
+      "friendship",
+      "nature",
+      "girl"
+    ]
   }
 }

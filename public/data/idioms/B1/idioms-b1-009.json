@@ -8,9 +8,27 @@
       "translation": "Poslovica kaže: «Jedna ruka ne može pljeskati».",
       "translationEn": "The proverb says: «One hand cannot clap».",
       "words": [
-        { "w": "الْيَدُ", "root": "ي د ي", "bs": "ruka", "en": "hand" },
-        { "w": "الْوَاحِدَةُ", "root": "و ح د", "bs": "jedna", "en": "one" },
-        { "w": "تُصَفِّقُ", "root": "ص ف ق", "bs": "plješće", "en": "claps" }
+        {
+          "w": "الْيَدُ",
+          "root": "ي د ي",
+          "bs": "ruka",
+          "en": "hand",
+          "lemma": "يَدٌ / أَيْدٍ"
+        },
+        {
+          "w": "الْوَاحِدَةُ",
+          "root": "و ح د",
+          "bs": "jedna",
+          "en": "one",
+          "lemma": "وَاحِدٌ"
+        },
+        {
+          "w": "تُصَفِّقُ",
+          "root": "ص ف ق",
+          "bs": "plješće",
+          "en": "claps",
+          "lemma": "صَفَّقَ يُصَفِّقُ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "To znači da je saradnja s drugima neophodna.",
       "translationEn": "This means that cooperation with others is necessary.",
       "words": [
-        { "w": "التَّعَاوُنَ", "root": "ع و ن", "bs": "saradnja", "en": "cooperation" },
-        { "w": "الآخَرِينَ", "root": "أ خ ر", "bs": "drugi", "en": "others" },
-        { "w": "ضَرُورِيٌّ", "root": "ض ر ر", "bs": "neophodan", "en": "necessary" }
+        {
+          "w": "التَّعَاوُنَ",
+          "root": "ع و ن",
+          "bs": "saradnja",
+          "en": "cooperation",
+          "lemma": "تَعَاوُنٌ"
+        },
+        {
+          "w": "الآخَرِينَ",
+          "root": "أ خ ر",
+          "bs": "drugi",
+          "en": "others",
+          "lemma": "آخَرُ / أُخَرُ"
+        },
+        {
+          "w": "ضَرُورِيٌّ",
+          "root": "ض ر ر",
+          "bs": "neophodan",
+          "en": "necessary",
+          "lemma": "ضَرُورِيٌّ"
+        }
       ]
     },
     {
@@ -28,10 +64,34 @@
       "translation": "Mahir je pokušao sam nositi veliku kutiju ali nije mogao.",
       "translationEn": "Mahir tried to carry the big box alone but could not.",
       "words": [
-        { "w": "حَاوَلَ", "root": "ح و ل", "bs": "pokušao je", "en": "tried" },
-        { "w": "حَمْلَ", "root": "ح م ل", "bs": "nošenje", "en": "carrying" },
-        { "w": "الصَّنْدُوقِ", "root": "ص ن د ق", "bs": "kutija", "en": "box" },
-        { "w": "الْكَبِيرِ", "root": "ك ب ر", "bs": "velika", "en": "big" }
+        {
+          "w": "حَاوَلَ",
+          "root": "ح و ل",
+          "bs": "pokušao je",
+          "en": "tried",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "حَمْلَ",
+          "root": "ح م ل",
+          "bs": "nošenje",
+          "en": "carrying",
+          "lemma": "حَمْلٌ"
+        },
+        {
+          "w": "الصَّنْدُوقِ",
+          "root": "ص ن د ق",
+          "bs": "kutija",
+          "en": "box",
+          "lemma": "صُنْدُوقٌ / صَنَادِيقُ"
+        },
+        {
+          "w": "الْكَبِيرِ",
+          "root": "ك ب ر",
+          "bs": "velika",
+          "en": "big",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -39,15 +99,43 @@
       "translation": "Zatražio je pomoć brata i zajedno su lako ponijeli kutiju.",
       "translationEn": "He asked his brother for help and they carried the box together easily.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zatražio je", "en": "asked for" },
-        { "w": "مُسَاعَدَةَ", "root": "س ع د", "bs": "pomoć", "en": "help" },
-        { "w": "حَمَلَا", "root": "ح م ل", "bs": "ponijeli su", "en": "carried" },
-        { "w": "بِسُهُولَةٍ", "root": "س ه ل", "bs": "lako", "en": "easily" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zatražio je",
+          "en": "asked for",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "مُسَاعَدَةَ",
+          "root": "س ع د",
+          "bs": "pomoć",
+          "en": "help",
+          "lemma": "مُسَاعَدَةٌ"
+        },
+        {
+          "w": "حَمَلَا",
+          "root": "ح م ل",
+          "bs": "ponijeli su",
+          "en": "carried",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "بِسُهُولَةٍ",
+          "root": "س ه ل",
+          "bs": "lako",
+          "en": "easily",
+          "lemma": "سُهُولَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cooperation", "proverb", "teamwork"]
+    "tags": [
+      "cooperation",
+      "proverb",
+      "teamwork"
+    ]
   }
 }

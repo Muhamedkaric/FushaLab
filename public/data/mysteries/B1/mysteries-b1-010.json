@@ -8,10 +8,34 @@
       "translation": "Karim se probudio i pronašao prozor otvoren.",
       "translationEn": "Karim woke up and found his window open.",
       "words": [
-        { "w": "اسْتَيْقَظَ", "root": "ي ق ظ", "bs": "probudio se", "en": "he woke up" },
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "نَافِذَتَهُ", "root": "ن ف ذ", "bs": "prozor", "en": "his window" },
-        { "w": "مَفْتُوحَةً", "root": "ف ت ح", "bs": "otvoren", "en": "open" }
+        {
+          "w": "اسْتَيْقَظَ",
+          "root": "ي ق ظ",
+          "bs": "probudio se",
+          "en": "he woke up",
+          "lemma": "اسْتَيْقَظَ يَسْتَيْقِظُ"
+        },
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "نَافِذَتَهُ",
+          "root": "ن ف ذ",
+          "bs": "prozor",
+          "en": "his window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        },
+        {
+          "w": "مَفْتُوحَةً",
+          "root": "ف ت ح",
+          "bs": "otvoren",
+          "en": "open",
+          "lemma": "مَفْتُوحٌ"
+        }
       ]
     },
     {
@@ -19,8 +43,20 @@
       "translation": "On ga nije otvorio prije spavanja.",
       "translationEn": "He had not opened it before sleeping.",
       "words": [
-        { "w": "يَفْتَحْهَا", "root": "ف ت ح", "bs": "otvorio ga je", "en": "he opened it" },
-        { "w": "النَّوْمِ", "root": "ن و م", "bs": "spavanja", "en": "sleeping" }
+        {
+          "w": "يَفْتَحْهَا",
+          "root": "ف ت ح",
+          "bs": "otvorio ga je",
+          "en": "he opened it",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "النَّوْمِ",
+          "root": "ن و م",
+          "bs": "spavanja",
+          "en": "sleeping",
+          "lemma": "نَوْمٌ"
+        }
       ]
     },
     {
@@ -28,10 +64,34 @@
       "translation": "Pogledao je napolje i vidio lijepu pticu na prozorčiću.",
       "translationEn": "He looked outside and saw a beautiful bird on the windowsill.",
       "words": [
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "he looked" },
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
-        { "w": "طَائِرًا", "root": "ط ي ر", "bs": "pticu", "en": "bird" },
-        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepu", "en": "beautiful" }
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "pogledao je",
+          "en": "he looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "he saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "طَائِرًا",
+          "root": "ط ي ر",
+          "bs": "pticu",
+          "en": "bird",
+          "lemma": "طَائِرٌ / طُيُورٌ"
+        },
+        {
+          "w": "جَمِيلًا",
+          "root": "ج م ل",
+          "bs": "lijepu",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -39,9 +99,27 @@
       "translation": "Možda je vjetar otvorio prozor noću.",
       "translationEn": "Perhaps the wind opened the window in the night.",
       "words": [
-        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "opened" },
-        { "w": "الرِّيحُ", "root": "ر و ح", "bs": "vjetar", "en": "the wind" },
-        { "w": "النَّافِذَةَ", "root": "ن ف ذ", "bs": "prozor", "en": "the window" }
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "الرِّيحُ",
+          "root": "ر و ح",
+          "bs": "vjetar",
+          "en": "the wind",
+          "lemma": "رِيحٌ / رِيَاحٌ"
+        },
+        {
+          "w": "النَّافِذَةَ",
+          "root": "ن ف ذ",
+          "bs": "prozor",
+          "en": "the window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        }
       ]
     },
     {
@@ -49,15 +127,44 @@
       "translation": "Karim je odlučio dobro zatvori prozor svake večeri.",
       "translationEn": "Karim decided to close the window properly every night.",
       "words": [
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "he decided" },
-        { "w": "يُغْلِقَ", "root": "غ ل ق", "bs": "zatvori", "en": "to close" },
-        { "w": "النَّافِذَةَ", "root": "ن ف ذ", "bs": "prozor", "en": "the window" },
-        { "w": "جَيِّدًا", "root": "ج و د", "bs": "dobro", "en": "properly" }
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "he decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "يُغْلِقَ",
+          "root": "غ ل ق",
+          "bs": "zatvori",
+          "en": "to close",
+          "lemma": "أَغْلَقَ يُغْلِقُ"
+        },
+        {
+          "w": "النَّافِذَةَ",
+          "root": "ن ف ذ",
+          "bs": "prozor",
+          "en": "the window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        },
+        {
+          "w": "جَيِّدًا",
+          "root": "ج و د",
+          "bs": "dobro",
+          "en": "properly",
+          "lemma": "جَيِّدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "window", "night", "bird"]
+    "tags": [
+      "mystery",
+      "window",
+      "night",
+      "bird"
+    ]
   }
 }

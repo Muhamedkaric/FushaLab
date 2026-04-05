@@ -8,9 +8,26 @@
       "translation": "Ljudi su slušali muziku na praznicima.",
       "translationEn": "People used to listen to music during festivals.",
       "words": [
-        { "w": "يَسْتَمِعُونَ", "root": "س م ع", "bs": "slušaju", "en": "listen" },
-        { "w": "الْمُوسِيقَى", "bs": "muzika", "en": "music" },
-        { "w": "الأَعْيَادِ", "root": "ع ي د", "bs": "praznici", "en": "festivals" }
+        {
+          "w": "يَسْتَمِعُونَ",
+          "root": "س م ع",
+          "bs": "slušaju",
+          "en": "listen",
+          "lemma": "اِسْتَمَعَ يَسْتَمِعُ"
+        },
+        {
+          "w": "الْمُوسِيقَى",
+          "bs": "muzika",
+          "en": "music",
+          "lemma": "الْمُوسِيقَى"
+        },
+        {
+          "w": "الأَعْيَادِ",
+          "root": "ع ي د",
+          "bs": "praznici",
+          "en": "festivals",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        }
       ]
     },
     {
@@ -18,11 +35,40 @@
       "translation": "Muzičar je svirao na instrumentu od drveta.",
       "translationEn": "The musician played an instrument made of wood.",
       "words": [
-        { "w": "عَزَفَ", "root": "ع ز ف", "bs": "svirao je", "en": "played" },
-        { "w": "الْمُوسِيقَارُ", "bs": "muzičar", "en": "the musician" },
-        { "w": "آلَةٍ", "root": "أ ل ت", "bs": "instrument", "en": "an instrument" },
-        { "w": "مَصْنُوعَةٍ", "root": "ص ن ع", "bs": "napravljen", "en": "made" },
-        { "w": "الْخَشَبِ", "root": "خ ش ب", "bs": "drveta", "en": "wood" }
+        {
+          "w": "عَزَفَ",
+          "root": "ع ز ف",
+          "bs": "svirao je",
+          "en": "played",
+          "lemma": "عَزَفَ يَعْزِفُ"
+        },
+        {
+          "w": "الْمُوسِيقَارُ",
+          "bs": "muzičar",
+          "en": "the musician",
+          "lemma": "مُوسِيقَارٌ / مُوسِيقَارُونَ"
+        },
+        {
+          "w": "آلَةٍ",
+          "root": "أ ل ت",
+          "bs": "instrument",
+          "en": "an instrument",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "مَصْنُوعَةٍ",
+          "root": "ص ن ع",
+          "bs": "napravljen",
+          "en": "made",
+          "lemma": "مَصْنُوعٌ"
+        },
+        {
+          "w": "الْخَشَبِ",
+          "root": "خ ش ب",
+          "bs": "drveta",
+          "en": "wood",
+          "lemma": "خَشَبٌ / أَخْشَابٌ"
+        }
       ]
     },
     {
@@ -30,10 +76,34 @@
       "translation": "Djeca su plesala i odrasli su zajedno pjevali.",
       "translationEn": "The children danced and the adults sang together.",
       "words": [
-        { "w": "رَقَصَ", "root": "ر ق ص", "bs": "plesao je", "en": "danced" },
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "the children" },
-        { "w": "غَنَّى", "root": "غ ن ي", "bs": "pjevao je", "en": "sang" },
-        { "w": "الْكِبَارُ", "root": "ك ب ر", "bs": "odrasli", "en": "the adults" }
+        {
+          "w": "رَقَصَ",
+          "root": "ر ق ص",
+          "bs": "plesao je",
+          "en": "danced",
+          "lemma": "رَقَصَ يَرْقُصُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "the children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "غَنَّى",
+          "root": "غ ن ي",
+          "bs": "pjevao je",
+          "en": "sang",
+          "lemma": "غَنَّى يُغَنِّي"
+        },
+        {
+          "w": "الْكِبَارُ",
+          "root": "ك ب ر",
+          "bs": "odrasli",
+          "en": "the adults",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        }
       ]
     },
     {
@@ -41,15 +111,43 @@
       "translation": "Praznici su bili vrijeme radosti i okupljanja.",
       "translationEn": "Festivals were a time for joy and gathering.",
       "words": [
-        { "w": "الأَعْيَادُ", "root": "ع ي د", "bs": "praznici", "en": "festivals" },
-        { "w": "وَقْتًا", "root": "و ق ت", "bs": "vrijeme", "en": "a time" },
-        { "w": "الْفَرَحِ", "root": "ف ر ح", "bs": "radost", "en": "joy" },
-        { "w": "الاجْتِمَاعِ", "root": "ج م ع", "bs": "okupljanje", "en": "gathering" }
+        {
+          "w": "الأَعْيَادُ",
+          "root": "ع ي د",
+          "bs": "praznici",
+          "en": "festivals",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "وَقْتًا",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "a time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "الْفَرَحِ",
+          "root": "ف ر ح",
+          "bs": "radost",
+          "en": "joy",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        },
+        {
+          "w": "الاجْتِمَاعِ",
+          "root": "ج م ع",
+          "bs": "okupljanje",
+          "en": "gathering",
+          "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["music", "festival", "celebrations"]
+    "tags": [
+      "music",
+      "festival",
+      "celebrations"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Stari brod bio je napravljen od drveta.",
       "translationEn": "The ancient ship was made of wood.",
       "words": [
-        { "w": "السَّفِينَةُ", "root": "س ف ن", "bs": "brod", "en": "the ship" },
-        { "w": "الْقَدِيمَةُ", "root": "ق د م", "bs": "stari", "en": "ancient" },
-        { "w": "مَصْنُوعَةً", "root": "ص ن ع", "bs": "napravljen", "en": "made" },
-        { "w": "الْخَشَبِ", "root": "خ ش ب", "bs": "drvo", "en": "wood" }
+        {
+          "w": "السَّفِينَةُ",
+          "root": "س ف ن",
+          "bs": "brod",
+          "en": "the ship",
+          "lemma": "سَفِينَةٌ / سُفُنٌ"
+        },
+        {
+          "w": "الْقَدِيمَةُ",
+          "root": "ق د م",
+          "bs": "stari",
+          "en": "ancient",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "مَصْنُوعَةً",
+          "root": "ص ن ع",
+          "bs": "napravljen",
+          "en": "made",
+          "lemma": "مَصْنُوعٌ"
+        },
+        {
+          "w": "الْخَشَبِ",
+          "root": "خ ش ب",
+          "bs": "drvo",
+          "en": "wood",
+          "lemma": "خَشَبٌ / أَخْشَابٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Mornari su koristili vjetar za pokretanje broda.",
       "translationEn": "The sailors used the wind to move the ship.",
       "words": [
-        { "w": "الْبَحَّارَةُ", "root": "ب ح ر", "bs": "mornari", "en": "the sailors" },
-        { "w": "يَسْتَخْدِمُونَ", "root": "خ د م", "bs": "koriste", "en": "use" },
-        { "w": "الرِّيَاحَ", "root": "ر و ح", "bs": "vjetar", "en": "the wind" },
-        { "w": "السَّفِينَةِ", "root": "س ف ن", "bs": "brod", "en": "the ship" }
+        {
+          "w": "الْبَحَّارَةُ",
+          "root": "ب ح ر",
+          "bs": "mornari",
+          "en": "the sailors",
+          "lemma": "بَحَّارٌ / بَحَّارَةٌ"
+        },
+        {
+          "w": "يَسْتَخْدِمُونَ",
+          "root": "خ د م",
+          "bs": "koriste",
+          "en": "use",
+          "lemma": "اِسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "الرِّيَاحَ",
+          "root": "ر و ح",
+          "bs": "vjetar",
+          "en": "the wind",
+          "lemma": "رِيحٌ / رِيَاحٌ"
+        },
+        {
+          "w": "السَّفِينَةِ",
+          "root": "س ف ن",
+          "bs": "brod",
+          "en": "the ship",
+          "lemma": "سَفِينَةٌ / سُفُنٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Gledali su u zvijezde da bi znali put.",
       "translationEn": "They would look at the stars to know the route.",
       "words": [
-        { "w": "يَنْظُرُونَ", "root": "ن ظ ر", "bs": "gledaju", "en": "look" },
-        { "w": "النُّجُومِ", "root": "ن ج م", "bs": "zvijezde", "en": "the stars" },
-        { "w": "يَعْرِفُوا", "root": "ع ر ف", "bs": "znaju", "en": "know" },
-        { "w": "الطَّرِيقَ", "root": "ط ر ق", "bs": "put", "en": "the route" }
+        {
+          "w": "يَنْظُرُونَ",
+          "root": "ن ظ ر",
+          "bs": "gledaju",
+          "en": "look",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "النُّجُومِ",
+          "root": "ن ج م",
+          "bs": "zvijezde",
+          "en": "the stars",
+          "lemma": "نَجْمٌ / نُجُومٌ"
+        },
+        {
+          "w": "يَعْرِفُوا",
+          "root": "ع ر ف",
+          "bs": "znaju",
+          "en": "know",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "الطَّرِيقَ",
+          "root": "ط ر ق",
+          "bs": "put",
+          "en": "the route",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        }
       ]
     },
     {
@@ -41,16 +113,50 @@
       "translation": "Brod je stigao u luku nakon dugih dana.",
       "translationEn": "The ship arrived at the port after many long days.",
       "words": [
-        { "w": "وَصَلَتِ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
-        { "w": "السَّفِينَةُ", "root": "س ف ن", "bs": "brod", "en": "the ship" },
-        { "w": "الْمِيناءِ", "root": "م ي ن", "bs": "luka", "en": "the port" },
-        { "w": "أَيَّامٍ", "root": "ي و م", "bs": "dana", "en": "days" },
-        { "w": "طَوِيلَةٍ", "root": "ط و ل", "bs": "dugi", "en": "long" }
+        {
+          "w": "وَصَلَتِ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "السَّفِينَةُ",
+          "root": "س ف ن",
+          "bs": "brod",
+          "en": "the ship",
+          "lemma": "سَفِينَةٌ / سُفُنٌ"
+        },
+        {
+          "w": "الْمِيناءِ",
+          "root": "م ي ن",
+          "bs": "luka",
+          "en": "the port",
+          "lemma": "مِيناءٌ / مَوَانِئُ"
+        },
+        {
+          "w": "أَيَّامٍ",
+          "root": "ي و م",
+          "bs": "dana",
+          "en": "days",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "طَوِيلَةٍ",
+          "root": "ط و ل",
+          "bs": "dugi",
+          "en": "long",
+          "lemma": "طَوِيلٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sea", "ship", "navigation"]
+    "tags": [
+      "sea",
+      "ship",
+      "navigation"
+    ]
   }
 }

@@ -8,9 +8,27 @@
       "translation": "Omer i otac su otišli u restoran na ručak.",
       "translationEn": "Omar and his father went to the restaurant for lunch.",
       "words": [
-        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
-        { "w": "المَطْعَمِ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
-        { "w": "الغَدَاءِ", "root": "غ د و", "bs": "ručak", "en": "lunch" }
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "المَطْعَمِ",
+          "root": "ط ع م",
+          "bs": "restoran",
+          "en": "restaurant",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "الغَدَاءِ",
+          "root": "غ د و",
+          "bs": "ručak",
+          "en": "lunch",
+          "lemma": "غَدَاءٌ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "Naručili su hranu s menija.",
       "translationEn": "They ordered food from the menu.",
       "words": [
-        { "w": "طَلَبَا", "root": "ط ل ب", "bs": "naručili su", "en": "ordered" },
-        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "القَائِمَةِ", "root": "ق و م", "bs": "meni", "en": "menu" }
+        {
+          "w": "طَلَبَا",
+          "root": "ط ل ب",
+          "bs": "naručili su",
+          "en": "ordered",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "القَائِمَةِ",
+          "root": "ق و م",
+          "bs": "meni",
+          "en": "menu",
+          "lemma": "قَائِمَةٌ / قَوَائِمُ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Jeli su i razgovarali o svom danu.",
       "translationEn": "They ate and talked about their day.",
       "words": [
-        { "w": "أَكَلَا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
-        { "w": "تَحَدَّثَا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
-        { "w": "يَوْمِهِمَا", "root": "ي و م", "bs": "njihov dan", "en": "their day" }
+        {
+          "w": "أَكَلَا",
+          "root": "أ ك ل",
+          "bs": "jeli su",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "تَحَدَّثَا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "يَوْمِهِمَا",
+          "root": "ي و م",
+          "bs": "njihov dan",
+          "en": "their day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        }
       ]
     },
     {
@@ -38,10 +92,34 @@
       "translation": "Otac je zatražio račun i platio cijeli iznos.",
       "translationEn": "The father asked for the bill and paid the full amount.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zatražio je", "en": "asked for" },
-        { "w": "الحِسَابَ", "root": "ح س ب", "bs": "račun", "en": "bill" },
-        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
-        { "w": "المَبْلَغِ", "root": "ب ل غ", "bs": "iznos", "en": "amount" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zatražio je",
+          "en": "asked for",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الحِسَابَ",
+          "root": "ح س ب",
+          "bs": "račun",
+          "en": "bill",
+          "lemma": "حِسَابٌ / حِسَابَاتٌ"
+        },
+        {
+          "w": "دَفَعَ",
+          "root": "د ف ع",
+          "bs": "platio je",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "المَبْلَغِ",
+          "root": "ب ل غ",
+          "bs": "iznos",
+          "en": "amount",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        }
       ]
     },
     {
@@ -49,14 +127,36 @@
       "translation": "Izašli su iz restorana zadovoljni.",
       "translationEn": "They left the restaurant satisfied.",
       "words": [
-        { "w": "خَرَجَا", "root": "خ ر ج", "bs": "izašli su", "en": "left" },
-        { "w": "المَطْعَمِ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
-        { "w": "رَاضِيَانِ", "root": "ر ض و", "bs": "zadovoljni", "en": "satisfied" }
+        {
+          "w": "خَرَجَا",
+          "root": "خ ر ج",
+          "bs": "izašli su",
+          "en": "left",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "المَطْعَمِ",
+          "root": "ط ع م",
+          "bs": "restoran",
+          "en": "restaurant",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "رَاضِيَانِ",
+          "root": "ر ض و",
+          "bs": "zadovoljni",
+          "en": "satisfied",
+          "lemma": "رَاضٍ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["restaurant", "bill", "family"]
+    "tags": [
+      "restaurant",
+      "bill",
+      "family"
+    ]
   }
 }

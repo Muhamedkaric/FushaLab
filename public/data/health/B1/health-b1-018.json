@@ -12,25 +12,29 @@
           "w": "تُحِبُّ",
           "root": "ح ب ب",
           "bs": "voli",
-          "en": "likes"
+          "en": "likes",
+          "lemma": "أَحَبَّ يُحِبُّ"
         },
         {
           "w": "الْأَكْلَ",
           "root": "أ ك ل",
           "bs": "hrana",
-          "en": "food"
+          "en": "food",
+          "lemma": "أَكْلٌ"
         },
         {
           "w": "السَّرِيعَ",
           "root": "س ر ع",
           "bs": "brza",
-          "en": "fast"
+          "en": "fast",
+          "lemma": "سَرِيعٌ"
         },
         {
           "w": "تَطْبُخُ",
           "root": "ط ب خ",
           "bs": "kuha",
-          "en": "cooks"
+          "en": "cooks",
+          "lemma": "طَبَخَ يَطْبُخُ"
         }
       ]
     },
@@ -43,31 +47,36 @@
           "w": "تَسْتَخْدِمُ",
           "root": "خ د م",
           "bs": "koristi",
-          "en": "uses"
+          "en": "uses",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
         },
         {
           "w": "زَيْتَ",
           "root": "ز ي ت",
           "bs": "ulje",
-          "en": "oil"
+          "en": "oil",
+          "lemma": "زَيْتٌ"
         },
         {
           "w": "الزَّيْتُونِ",
           "root": "ز ي ت",
           "bs": "maslinovo",
-          "en": "olive"
+          "en": "olive",
+          "lemma": "زَيْتُونٌ"
         },
         {
           "w": "الزُّبْدَةِ",
           "root": "ز ب د",
           "bs": "puter",
-          "en": "butter"
+          "en": "butter",
+          "lemma": "زُبْدَةٌ"
         },
         {
           "w": "الطَّبْخِ",
           "root": "ط ب خ",
           "bs": "kuhanje",
-          "en": "cooking"
+          "en": "cooking",
+          "lemma": "طَبْخٌ"
         }
       ]
     },
@@ -80,25 +89,29 @@
           "w": "تُضِيفُ",
           "root": "ض ي ف",
           "bs": "dodaje",
-          "en": "adds"
+          "en": "adds",
+          "lemma": "أَضَافَ يُضِيفُ"
         },
         {
           "w": "الْخُضَرَ",
           "root": "خ ض ر",
           "bs": "povrće",
-          "en": "vegetables"
+          "en": "vegetables",
+          "lemma": "خُضَرٌ / خَضْرَاوَاتٌ"
         },
         {
           "w": "الطَّازَجَةَ",
           "root": "ط ز ج",
           "bs": "svježe",
-          "en": "fresh"
+          "en": "fresh",
+          "lemma": "طَازَجٌ"
         },
         {
           "w": "وَجْبَةٍ",
           "root": "و ج ب",
           "bs": "obrok",
-          "en": "meal"
+          "en": "meal",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
         }
       ]
     },
@@ -111,25 +124,29 @@
           "w": "أَصْدِقَاؤُهَا",
           "root": "ص د ق",
           "bs": "njeni prijatelji",
-          "en": "her friends"
+          "en": "her friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "يُحِبُّونَ",
           "root": "ح ب ب",
           "bs": "vole",
-          "en": "love"
+          "en": "love",
+          "lemma": "أَحَبَّ يُحِبُّ"
         },
         {
           "w": "أَكْلَهَا",
           "root": "أ ك ل",
           "bs": "njenu hranu",
-          "en": "her food"
+          "en": "her food",
+          "lemma": "أَكْلٌ"
         },
         {
           "w": "يَأْتُونَ",
           "root": "أ ت ي",
           "bs": "dolaze",
-          "en": "come"
+          "en": "come",
+          "lemma": "أَتَى يَأْتِي"
         }
       ]
     }

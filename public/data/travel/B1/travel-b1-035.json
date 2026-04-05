@@ -8,10 +8,34 @@
       "translation": "Lejla je željela gledati zalazak sunca nad morem.",
       "translationEn": "Layla wanted to see the sunset over the sea.",
       "words": [
-        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "željela je", "en": "wanted" },
-        { "w": "تَرَى", "root": "ر أ ي", "bs": "da vidi", "en": "to see" },
-        { "w": "غُرُوبَ", "root": "غ ر ب", "bs": "zalazak", "en": "sunset / setting" },
-        { "w": "الشَّمْسِ", "root": "ش م س", "bs": "sunce", "en": "sun" }
+        {
+          "w": "أَرَادَتْ",
+          "root": "ر و د",
+          "bs": "željela je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "تَرَى",
+          "root": "ر أ ي",
+          "bs": "da vidi",
+          "en": "to see",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "غُرُوبَ",
+          "root": "غ ر ب",
+          "bs": "zalazak",
+          "en": "sunset / setting",
+          "lemma": "غُرُوبٌ / غُرُوبَاتٌ"
+        },
+        {
+          "w": "الشَّمْسِ",
+          "root": "ش م س",
+          "bs": "sunce",
+          "en": "sun",
+          "lemma": "شَمْسٌ / شُمُوسٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Otišla je na plažu kratko prije zalaska.",
       "translationEn": "She went to the beach a short while before sunset.",
       "words": [
-        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plaža", "en": "beach" },
-        { "w": "الْمَغْرِبِ", "root": "غ ر ب", "bs": "zalazak sunca / sumrak", "en": "sunset / dusk" },
-        { "w": "وَقْتٍ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
-        { "w": "قَصِيرٍ", "root": "ق ص ر", "bs": "kratko", "en": "short" }
+        {
+          "w": "الشَّاطِئِ",
+          "root": "ش ط أ",
+          "bs": "plaža",
+          "en": "beach",
+          "lemma": "شَاطِئٌ / شَوَاطِئُ"
+        },
+        {
+          "w": "الْمَغْرِبِ",
+          "root": "غ ر ب",
+          "bs": "zalazak sunca / sumrak",
+          "en": "sunset / dusk",
+          "lemma": "مَغْرِبٌ"
+        },
+        {
+          "w": "وَقْتٍ",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "قَصِيرٍ",
+          "root": "ق ص ر",
+          "bs": "kratko",
+          "en": "short",
+          "lemma": "قَصِيرٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Sjela je na pijesak i gledala u horizont.",
       "translationEn": "She sat on the sand and looked at the horizon.",
       "words": [
-        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
-        { "w": "الرَّمْلِ", "root": "ر م ل", "bs": "pijesak", "en": "sand" },
-        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "gledala je", "en": "looked" },
-        { "w": "الْأُفُقِ", "root": "أ ف ق", "bs": "horizont", "en": "horizon" }
+        {
+          "w": "جَلَسَتْ",
+          "root": "ج ل س",
+          "bs": "sjela je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الرَّمْلِ",
+          "root": "ر م ل",
+          "bs": "pijesak",
+          "en": "sand",
+          "lemma": "رَمْلٌ / رِمَالٌ"
+        },
+        {
+          "w": "نَظَرَتْ",
+          "root": "ن ظ ر",
+          "bs": "gledala je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "الْأُفُقِ",
+          "root": "أ ف ق",
+          "bs": "horizont",
+          "en": "horizon",
+          "lemma": "أُفُقٌ / آفَاقٌ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Zalazak sunca je bio najljepše što je vidjela u životu.",
       "translationEn": "The sunset was the most beautiful thing she had ever seen.",
       "words": [
-        { "w": "غُرُوبُ", "root": "غ ر ب", "bs": "zalazak", "en": "sunset / setting" },
-        { "w": "الشَّمْسِ", "root": "ش م س", "bs": "sunce", "en": "sun" },
-        { "w": "أَجْمَلَ", "root": "ج م ل", "bs": "najljepše", "en": "most beautiful" },
-        { "w": "حَيَاتِهَا", "root": "ح ي ي", "bs": "njen život", "en": "her life" }
+        {
+          "w": "غُرُوبُ",
+          "root": "غ ر ب",
+          "bs": "zalazak",
+          "en": "sunset / setting",
+          "lemma": "غُرُوبٌ / غُرُوبَاتٌ"
+        },
+        {
+          "w": "الشَّمْسِ",
+          "root": "ش م س",
+          "bs": "sunce",
+          "en": "sun",
+          "lemma": "شَمْسٌ / شُمُوسٌ"
+        },
+        {
+          "w": "أَجْمَلَ",
+          "root": "ج م ل",
+          "bs": "najljepše",
+          "en": "most beautiful",
+          "lemma": "أَجْمَلُ"
+        },
+        {
+          "w": "حَيَاتِهَا",
+          "root": "ح ي ي",
+          "bs": "njen život",
+          "en": "her life",
+          "lemma": "حَيَاةٌ / حَيَوَاتٌ"
+        }
       ]
     }
   ],

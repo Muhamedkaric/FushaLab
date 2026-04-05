@@ -8,10 +8,34 @@
       "translation": "Prijatelji su planirali iznenađenje za Tamira na rođendan.",
       "translationEn": "The friends planned a surprise for Tamer's birthday.",
       "words": [
-        { "w": "خَطَّطَ", "root": "خ ط ط", "bs": "planirali su", "en": "planned" },
-        { "w": "الأَصْدِقَاءُ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
-        { "w": "مُفَاجَأَةِ", "root": "ف ج أ", "bs": "iznenađenje", "en": "surprise" },
-        { "w": "عِيدِ مِيلَادِهِ", "root": "م و ل", "bs": "njegov rođendan", "en": "his birthday" }
+        {
+          "w": "خَطَّطَ",
+          "root": "خ ط ط",
+          "bs": "planirali su",
+          "en": "planned",
+          "lemma": "خَطَّطَ يُخَطِّطُ"
+        },
+        {
+          "w": "الأَصْدِقَاءُ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "مُفَاجَأَةِ",
+          "root": "ف ج أ",
+          "bs": "iznenađenje",
+          "en": "surprise",
+          "lemma": "مُفَاجَأَةٌ / مُفَاجَآتٌ"
+        },
+        {
+          "w": "عِيدِ مِيلَادِهِ",
+          "root": "م و ل",
+          "bs": "njegov rođendan",
+          "en": "his birthday",
+          "lemma": "عِيدُ مِيلَادٍ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Govorili su tiho da ih ne čuje.",
       "translationEn": "They spoke quietly so he wouldn't hear them.",
       "words": [
-        { "w": "تَكَلَّمُوا", "root": "ك ل م", "bs": "govorili su", "en": "they spoke" },
-        { "w": "بِصَوْتٍ", "root": "ص و ت", "bs": "glasom", "en": "voice" },
-        { "w": "هَادِئٍ", "root": "ه د أ", "bs": "tih", "en": "quiet" },
-        { "w": "يَسْمَعَهُمْ", "root": "س م ع", "bs": "da ih čuje", "en": "hear them" }
+        {
+          "w": "تَكَلَّمُوا",
+          "root": "ك ل م",
+          "bs": "govorili su",
+          "en": "they spoke",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "بِصَوْتٍ",
+          "root": "ص و ت",
+          "bs": "glasom",
+          "en": "voice",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "هَادِئٍ",
+          "root": "ه د أ",
+          "bs": "tih",
+          "en": "quiet",
+          "lemma": "هَادِئٌ"
+        },
+        {
+          "w": "يَسْمَعَهُمْ",
+          "root": "س م ع",
+          "bs": "da ih čuje",
+          "en": "hear them",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Ukrasili su sobu i kupili tortu.",
       "translationEn": "They decorated the room and bought the cake.",
       "words": [
-        { "w": "زَيَّنُوا", "root": "ز ي ن", "bs": "ukrasili su", "en": "decorated" },
-        { "w": "الغُرْفَةَ", "root": "غ ر ف", "bs": "soba", "en": "the room" },
-        { "w": "اشْتَرَوُا", "root": "ش ر ي", "bs": "kupili su", "en": "bought" },
-        { "w": "الكَعْكَةَ", "root": "ك ع ك", "bs": "torta", "en": "the cake" }
+        {
+          "w": "زَيَّنُوا",
+          "root": "ز ي ن",
+          "bs": "ukrasili su",
+          "en": "decorated",
+          "lemma": "زَيَّنَ يُزَيِّنُ"
+        },
+        {
+          "w": "الغُرْفَةَ",
+          "root": "غ ر ف",
+          "bs": "soba",
+          "en": "the room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        },
+        {
+          "w": "اشْتَرَوُا",
+          "root": "ش ر ي",
+          "bs": "kupili su",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "الكَعْكَةَ",
+          "root": "ك ع ك",
+          "bs": "torta",
+          "en": "the cake",
+          "lemma": "كَعْكَةٌ / كَعْكَاتٌ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Kada je Tamir ušao, vikali su «Sretan rođendan».",
       "translationEn": "When Tamer entered, they shouted «Happy Birthday».",
       "words": [
-        { "w": "دَخَلَ", "root": "د خ ل", "bs": "ušao je", "en": "entered" },
-        { "w": "صَرَخُوا", "root": "ص ر خ", "bs": "vikali su", "en": "shouted" },
-        { "w": "عِيدَ مِيلَادٍ سَعِيدٍ", "root": "س ع د", "bs": "sretan rođendan", "en": "happy birthday" }
+        {
+          "w": "دَخَلَ",
+          "root": "د خ ل",
+          "bs": "ušao je",
+          "en": "entered",
+          "lemma": "دَخَلَ يَدْخُلُ"
+        },
+        {
+          "w": "صَرَخُوا",
+          "root": "ص ر خ",
+          "bs": "vikali su",
+          "en": "shouted",
+          "lemma": "صَرَخَ يَصْرُخُ"
+        },
+        {
+          "w": "عِيدَ مِيلَادٍ سَعِيدٍ",
+          "root": "س ع د",
+          "bs": "sretan rođendan",
+          "en": "happy birthday",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        }
       ]
     }
   ],

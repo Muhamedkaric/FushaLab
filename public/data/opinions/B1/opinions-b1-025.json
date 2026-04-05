@@ -8,10 +8,34 @@
       "translation": "Mislim da zahvalnost čini odnose boljim.",
       "translationEn": "I think that gratitude makes relationships better.",
       "words": [
-        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
-        { "w": "الشُّكْرَ", "root": "ش ك ر", "bs": "zahvalnost", "en": "gratitude" },
-        { "w": "يَجْعَلُ", "root": "ج ع ل", "bs": "čini", "en": "makes" },
-        { "w": "الْعَلَاقَاتِ", "root": "ع ل ق", "bs": "odnosi", "en": "relationships" }
+        {
+          "w": "أَظُنُّ",
+          "root": "ظ ن ن",
+          "bs": "mislim",
+          "en": "I think",
+          "lemma": "ظَنَّ يَظُنُّ"
+        },
+        {
+          "w": "الشُّكْرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalnost",
+          "en": "gratitude",
+          "lemma": "شُكْرٌ"
+        },
+        {
+          "w": "يَجْعَلُ",
+          "root": "ج ع ل",
+          "bs": "čini",
+          "en": "makes",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "الْعَلَاقَاتِ",
+          "root": "ع ل ق",
+          "bs": "odnosi",
+          "en": "relationships",
+          "lemma": "عَلَاقَةٌ / عَلَاقَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Kada zahvališ nekome na pomoći, on se raduje i ponovo ti pomaže.",
       "translationEn": "When you thank someone for their help they are happy and help you again.",
       "words": [
-        { "w": "تَشْكُرُ", "root": "ش ك ر", "bs": "zahvališ", "en": "thank" },
-        { "w": "شَخْصًا", "root": "ش خ ص", "bs": "nekome", "en": "someone" },
-        { "w": "مَسَاعَدَتِهِ", "root": "س ع د", "bs": "njegova pomoć", "en": "their help" },
-        { "w": "يَفْرَحُ", "root": "ف ر ح", "bs": "raduje se", "en": "is happy" }
+        {
+          "w": "تَشْكُرُ",
+          "root": "ش ك ر",
+          "bs": "zahvališ",
+          "en": "thank",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "شَخْصًا",
+          "root": "ش خ ص",
+          "bs": "nekome",
+          "en": "someone",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "مَسَاعَدَتِهِ",
+          "root": "س ع د",
+          "bs": "njegova pomoć",
+          "en": "their help",
+          "lemma": "مُسَاعَدَةٌ / مُسَاعَدَاتٌ"
+        },
+        {
+          "w": "يَفْرَحُ",
+          "root": "ف ر ح",
+          "bs": "raduje se",
+          "en": "is happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Često govorim hvala ljudima oko mene.",
       "translationEn": "I say thank you a lot to the people around me.",
       "words": [
-        { "w": "أَقُولُ", "root": "ق و ل", "bs": "govorim", "en": "I say" },
-        { "w": "شُكْرًا", "root": "ش ك ر", "bs": "hvala", "en": "thank you" },
-        { "w": "لِلنَّاسِ", "root": "ن و س", "bs": "ljudima", "en": "the people" }
+        {
+          "w": "أَقُولُ",
+          "root": "ق و ل",
+          "bs": "govorim",
+          "en": "I say",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "شُكْرًا",
+          "root": "ش ك ر",
+          "bs": "hvala",
+          "en": "thank you",
+          "lemma": "شُكْرٌ"
+        },
+        {
+          "w": "لِلنَّاسِ",
+          "root": "ن و س",
+          "bs": "ljudima",
+          "en": "the people",
+          "lemma": "نَاسٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,44 @@
       "translation": "Hvala je mala riječ ali njen utjecaj je veliki.",
       "translationEn": "Thank you is a small word but its effect is big.",
       "words": [
-        { "w": "الشُّكْرُ", "root": "ش ك ر", "bs": "hvala", "en": "thank you" },
-        { "w": "كَلِمَةٌ", "root": "ك ل م", "bs": "riječ", "en": "word" },
-        { "w": "صَغِيرَةٌ", "root": "ص غ ر", "bs": "mala", "en": "small" },
-        { "w": "أَثَرَهَا", "root": "أ ث ر", "bs": "njen utjecaj", "en": "its effect" }
+        {
+          "w": "الشُّكْرُ",
+          "root": "ش ك ر",
+          "bs": "hvala",
+          "en": "thank you",
+          "lemma": "شُكْرٌ"
+        },
+        {
+          "w": "كَلِمَةٌ",
+          "root": "ك ل م",
+          "bs": "riječ",
+          "en": "word",
+          "lemma": "كَلِمَةٌ / كَلِمَاتٌ"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "أَثَرَهَا",
+          "root": "أ ث ر",
+          "bs": "njen utjecaj",
+          "en": "its effect",
+          "lemma": "أَثَرٌ / آثَارٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "gratitude", "relationships", "values"]
+    "tags": [
+      "opinion",
+      "gratitude",
+      "relationships",
+      "values"
+    ]
   }
 }

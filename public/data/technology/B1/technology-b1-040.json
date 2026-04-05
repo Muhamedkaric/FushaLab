@@ -12,25 +12,29 @@
           "w": "أَرَادَ",
           "root": "ر و د",
           "bs": "htio je",
-          "en": "wanted"
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
         },
         {
           "w": "يَعْرِفَ",
           "root": "ع ر ف",
           "bs": "znati",
-          "en": "know"
+          "en": "know",
+          "lemma": "عَرَفَ يَعْرِفُ"
         },
         {
           "w": "يَطْبُخَ",
           "root": "ط ب خ",
           "bs": "kuhati",
-          "en": "cook"
+          "en": "cook",
+          "lemma": "طَبَخَ يَطْبُخُ"
         },
         {
           "w": "الْأَرُزَّ",
           "root": "أ ر ز",
           "bs": "pirinač",
-          "en": "rice"
+          "en": "rice",
+          "lemma": "أَرُزٌّ"
         }
       ]
     },
@@ -43,18 +47,21 @@
           "w": "بَحَثَ",
           "root": "ب ح ث",
           "bs": "tražio je",
-          "en": "searched"
+          "en": "searched",
+          "lemma": "بَحَثَ يَبْحَثُ"
         },
         {
           "w": "الْوَصْفَةِ",
           "root": "و ص ف",
           "bs": "recept",
-          "en": "the recipe"
+          "en": "the recipe",
+          "lemma": "وَصْفَةٌ / وَصْفَاتٌ"
         },
         {
           "w": "الْإِنْتِرْنِتِ",
           "bs": "internetu",
-          "en": "the internet"
+          "en": "the internet",
+          "lemma": "إِنْتِرْنِتٌ"
         }
       ]
     },
@@ -67,30 +74,35 @@
           "w": "وَجَدَ",
           "root": "و ج د",
           "bs": "pronašao je",
-          "en": "found"
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
         },
         {
           "w": "فِيدِيُو",
           "bs": "video",
-          "en": "a video"
+          "en": "a video",
+          "lemma": "فِيدِيُو"
         },
         {
           "w": "قَصِيرًا",
           "root": "ق ص ر",
           "bs": "kratki",
-          "en": "short"
+          "en": "short",
+          "lemma": "قَصِيرٌ"
         },
         {
           "w": "يَشْرَحُ",
           "root": "ش ر ح",
           "bs": "objašnjava",
-          "en": "explaining"
+          "en": "explaining",
+          "lemma": "شَرَحَ يَشْرَحُ"
         },
         {
           "w": "الْخُطُوَاتِ",
           "root": "خ ط و",
           "bs": "korake",
-          "en": "the steps"
+          "en": "the steps",
+          "lemma": "خُطْوَةٌ / خُطُوَاتٌ"
         }
       ]
     },
@@ -103,31 +115,36 @@
           "w": "اتَّبَعَ",
           "root": "ت ب ع",
           "bs": "slijedio je",
-          "en": "followed"
+          "en": "followed",
+          "lemma": "اتَّبَعَ يَتَّبِعُ"
         },
         {
           "w": "الْخُطُوَاتِ",
           "root": "خ ط و",
           "bs": "korake",
-          "en": "the steps"
+          "en": "the steps",
+          "lemma": "خُطْوَةٌ / خُطُوَاتٌ"
         },
         {
           "w": "طَبَخَ",
           "root": "ط ب خ",
           "bs": "skuhao je",
-          "en": "cooked"
+          "en": "cooked",
+          "lemma": "طَبَخَ يَطْبُخُ"
         },
         {
           "w": "الْأَرُزَّ",
           "root": "أ ر ز",
           "bs": "pirinač",
-          "en": "the rice"
+          "en": "the rice",
+          "lemma": "أَرُزٌّ"
         },
         {
           "w": "بِنَجَاحٍ",
           "root": "ن ج ح",
           "bs": "uspješno",
-          "en": "successfully"
+          "en": "successfully",
+          "lemma": "نَجَاحٌ"
         }
       ]
     }

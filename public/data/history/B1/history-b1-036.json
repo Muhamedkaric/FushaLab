@@ -8,11 +8,41 @@
       "translation": "Slikar je crtao oblike na zidovima pećine.",
       "translationEn": "The artist used to draw shapes on the walls of the cave.",
       "words": [
-        { "w": "الرَّسَّامُ", "root": "ر س م", "bs": "slikar", "en": "the artist" },
-        { "w": "يَرْسُمُ", "root": "ر س م", "bs": "crta", "en": "draws" },
-        { "w": "الأَشْكَالَ", "root": "ش ك ل", "bs": "oblike", "en": "shapes" },
-        { "w": "جُدْرَانِ", "root": "ج د ر", "bs": "zidovi", "en": "walls" },
-        { "w": "الْكَهْفِ", "root": "ك ه ف", "bs": "pećina", "en": "the cave" }
+        {
+          "w": "الرَّسَّامُ",
+          "root": "ر س م",
+          "bs": "slikar",
+          "en": "the artist",
+          "lemma": "رَسَّامٌ / رَسَّامُونَ"
+        },
+        {
+          "w": "يَرْسُمُ",
+          "root": "ر س م",
+          "bs": "crta",
+          "en": "draws",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        },
+        {
+          "w": "الأَشْكَالَ",
+          "root": "ش ك ل",
+          "bs": "oblike",
+          "en": "shapes",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "جُدْرَانِ",
+          "root": "ج د ر",
+          "bs": "zidovi",
+          "en": "walls",
+          "lemma": "جِدَارٌ / جُدْرَانٌ"
+        },
+        {
+          "w": "الْكَهْفِ",
+          "root": "ك ه ف",
+          "bs": "pećina",
+          "en": "the cave",
+          "lemma": "كَهْفٌ / كُهُوفٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Crtao je životinje, drveće i ljude.",
       "translationEn": "He drew animals, trees, and human figures.",
       "words": [
-        { "w": "رَسَمَ", "root": "ر س م", "bs": "crtao je", "en": "drew" },
-        { "w": "حَيَوَانَاتٍ", "root": "ح ي و", "bs": "životinje", "en": "animals" },
-        { "w": "أَشْجَارًا", "root": "ش ج ر", "bs": "drveće", "en": "trees" },
-        { "w": "بَشَرًا", "root": "ب ش ر", "bs": "ljude", "en": "human figures" }
+        {
+          "w": "رَسَمَ",
+          "root": "ر س م",
+          "bs": "crtao je",
+          "en": "drew",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        },
+        {
+          "w": "حَيَوَانَاتٍ",
+          "root": "ح ي و",
+          "bs": "životinje",
+          "en": "animals",
+          "lemma": "حَيَوَانٌ / حَيَوَانَاتٌ"
+        },
+        {
+          "w": "أَشْجَارًا",
+          "root": "ش ج ر",
+          "bs": "drveće",
+          "en": "trees",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "بَشَرًا",
+          "root": "ب ش ر",
+          "bs": "ljude",
+          "en": "human figures",
+          "lemma": "بَشَرٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Koristio je boje od gline i kamenja.",
       "translationEn": "He used colours made from clay and stones.",
       "words": [
-        { "w": "يَسْتَخْدِمُ", "root": "خ د م", "bs": "koristi", "en": "uses" },
-        { "w": "أَلْوَانًا", "root": "ل و ن", "bs": "boje", "en": "colours" },
-        { "w": "الطِّينِ", "root": "ط ي ن", "bs": "gline", "en": "clay" },
-        { "w": "الْأَحْجَارِ", "root": "ح ج ر", "bs": "kamenja", "en": "stones" }
+        {
+          "w": "يَسْتَخْدِمُ",
+          "root": "خ د م",
+          "bs": "koristi",
+          "en": "uses",
+          "lemma": "اِسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "أَلْوَانًا",
+          "root": "ل و ن",
+          "bs": "boje",
+          "en": "colours",
+          "lemma": "لَوْنٌ / أَلْوَانٌ"
+        },
+        {
+          "w": "الطِّينِ",
+          "root": "ط ي ن",
+          "bs": "gline",
+          "en": "clay",
+          "lemma": "طِينٌ"
+        },
+        {
+          "w": "الْأَحْجَارِ",
+          "root": "ح ج ر",
+          "bs": "kamenja",
+          "en": "stones",
+          "lemma": "حَجَرٌ / أَحْجَارٌ"
+        }
       ]
     },
     {
@@ -42,13 +120,29 @@
       "translation": "Ovi crteži ostali su do naših dana.",
       "translationEn": "These drawings have remained until our day.",
       "words": [
-        { "w": "بَقِيَتْ", "root": "ب ق ي", "bs": "ostali su", "en": "remained" },
-        { "w": "الرُّسُومَاتُ", "root": "ر س م", "bs": "crteži", "en": "the drawings" }
+        {
+          "w": "بَقِيَتْ",
+          "root": "ب ق ي",
+          "bs": "ostali su",
+          "en": "remained",
+          "lemma": "بَقِيَ يَبْقَى"
+        },
+        {
+          "w": "الرُّسُومَاتُ",
+          "root": "ر س م",
+          "bs": "crteži",
+          "en": "the drawings",
+          "lemma": "رَسْمٌ / رُسُومٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["art", "cave", "ancient"]
+    "tags": [
+      "art",
+      "cave",
+      "ancient"
+    ]
   }
 }

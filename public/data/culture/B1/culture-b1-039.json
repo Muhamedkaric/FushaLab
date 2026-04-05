@@ -8,11 +8,40 @@
       "translation": "Ud je stari arapski muzički instrument.",
       "translationEn": "The oud is an old Arabic musical instrument.",
       "words": [
-        { "w": "العُودُ", "root": "ع و د", "bs": "ud", "en": "oud" },
-        { "w": "آلَةٌ", "root": "أ ل و", "bs": "instrument", "en": "instrument" },
-        { "w": "مُوسِيقِيَّةٌ", "bs": "muzički", "en": "musical" },
-        { "w": "عَرَبِيَّةٌ", "root": "ع ر ب", "bs": "arapski", "en": "Arabic" },
-        { "w": "قَدِيمَةٌ", "root": "ق د م", "bs": "stari", "en": "old" }
+        {
+          "w": "العُودُ",
+          "root": "ع و د",
+          "bs": "ud",
+          "en": "oud",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        },
+        {
+          "w": "آلَةٌ",
+          "root": "أ ل و",
+          "bs": "instrument",
+          "en": "instrument",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "مُوسِيقِيَّةٌ",
+          "bs": "muzički",
+          "en": "musical",
+          "lemma": "مُوسِيقِيٌّ"
+        },
+        {
+          "w": "عَرَبِيَّةٌ",
+          "root": "ع ر ب",
+          "bs": "arapski",
+          "en": "Arabic",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "قَدِيمَةٌ",
+          "root": "ق د م",
+          "bs": "stari",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        }
       ]
     },
     {
@@ -20,10 +49,34 @@
       "translation": "Umjetnik vješto svira ud.",
       "translationEn": "The artist plays the oud skillfully.",
       "words": [
-        { "w": "يَعْزِفُ", "root": "ع ز ف", "bs": "svira", "en": "plays" },
-        { "w": "الفَنَّانُ", "root": "ف ن ن", "bs": "umjetnik", "en": "artist" },
-        { "w": "العُودِ", "root": "ع و د", "bs": "ud", "en": "oud" },
-        { "w": "بِمَهَارَةٍ", "root": "م هـ ر", "bs": "vješto", "en": "skillfully" }
+        {
+          "w": "يَعْزِفُ",
+          "root": "ع ز ف",
+          "bs": "svira",
+          "en": "plays",
+          "lemma": "عَزَفَ يَعْزِفُ"
+        },
+        {
+          "w": "الفَنَّانُ",
+          "root": "ف ن ن",
+          "bs": "umjetnik",
+          "en": "artist",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "العُودِ",
+          "root": "ع و د",
+          "bs": "ud",
+          "en": "oud",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        },
+        {
+          "w": "بِمَهَارَةٍ",
+          "root": "م هـ ر",
+          "bs": "vješto",
+          "en": "skillfully",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        }
       ]
     },
     {
@@ -31,10 +84,34 @@
       "translation": "Zvuk uda je miran i lijep.",
       "translationEn": "The sound of the oud is calm and beautiful.",
       "words": [
-        { "w": "صَوْتُ", "root": "ص و ت", "bs": "zvuk", "en": "sound" },
-        { "w": "العُودِ", "root": "ع و د", "bs": "uda", "en": "oud" },
-        { "w": "هَادِئٌ", "root": "هـ د أ", "bs": "miran", "en": "calm" },
-        { "w": "جَمِيلٌ", "root": "ج م ل", "bs": "lijep", "en": "beautiful" }
+        {
+          "w": "صَوْتُ",
+          "root": "ص و ت",
+          "bs": "zvuk",
+          "en": "sound",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "العُودِ",
+          "root": "ع و د",
+          "bs": "uda",
+          "en": "oud",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        },
+        {
+          "w": "هَادِئٌ",
+          "root": "هـ د أ",
+          "bs": "miran",
+          "en": "calm",
+          "lemma": "هَادِئٌ"
+        },
+        {
+          "w": "جَمِيلٌ",
+          "root": "ج م ل",
+          "bs": "lijep",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -42,10 +119,34 @@
       "translation": "Mladi uče svirati ud.",
       "translationEn": "Young people learn to play the oud.",
       "words": [
-        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uče", "en": "learn" },
-        { "w": "الشَّبَابُ", "root": "ش ب ب", "bs": "mladi", "en": "young people" },
-        { "w": "العَزْفَ", "root": "ع ز ف", "bs": "svirati", "en": "playing" },
-        { "w": "العُودِ", "root": "ع و د", "bs": "ud", "en": "oud" }
+        {
+          "w": "يَتَعَلَّمُ",
+          "root": "ع ل م",
+          "bs": "uče",
+          "en": "learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الشَّبَابُ",
+          "root": "ش ب ب",
+          "bs": "mladi",
+          "en": "young people",
+          "lemma": "شَبَابٌ"
+        },
+        {
+          "w": "العَزْفَ",
+          "root": "ع ز ف",
+          "bs": "svirati",
+          "en": "playing",
+          "lemma": "عَزْفٌ"
+        },
+        {
+          "w": "العُودِ",
+          "root": "ع و د",
+          "bs": "ud",
+          "en": "oud",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        }
       ]
     }
   ],

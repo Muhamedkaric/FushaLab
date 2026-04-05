@@ -8,10 +8,34 @@
       "translation": "Dječak Jasir je htio naučiti plivati.",
       "translationEn": "The boy Yasir wanted to learn to swim.",
       "words": [
-        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
-        { "w": "الْوَلَدُ", "root": "و ل د", "bs": "dječak", "en": "boy" },
-        { "w": "يَتَعَلَّمَ", "root": "ع ل م", "bs": "da nauči", "en": "to learn" },
-        { "w": "السِّبَاحَةَ", "root": "س ب ح", "bs": "plivanje", "en": "swimming" }
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "الْوَلَدُ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "وَلَدٌ / أَوْلَادٌ"
+        },
+        {
+          "w": "يَتَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "da nauči",
+          "en": "to learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "السِّبَاحَةَ",
+          "root": "س ب ح",
+          "bs": "plivanje",
+          "en": "swimming",
+          "lemma": "سِبَاحَةٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Svake sedmice je išao u bazen sa ocem.",
       "translationEn": "He went to the swimming pool with his father every week.",
       "words": [
-        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "išao je", "en": "went" },
-        { "w": "الْمَسْبَحِ", "root": "س ب ح", "bs": "bazen", "en": "swimming pool" },
-        { "w": "أَبِيهِ", "root": "أ ب و", "bs": "njegov otac", "en": "his father" },
-        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica", "en": "week" }
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "išao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الْمَسْبَحِ",
+          "root": "س ب ح",
+          "bs": "bazen",
+          "en": "swimming pool",
+          "lemma": "مَسْبَحٌ / مَسَابِحُ"
+        },
+        {
+          "w": "أَبِيهِ",
+          "root": "أ ب و",
+          "bs": "njegov otac",
+          "en": "his father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "س ب ع",
+          "bs": "sedmica",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "U početku se bojao vode ali nije odustao.",
       "translationEn": "At first he was afraid of the water but he did not stop.",
       "words": [
-        { "w": "الْبِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "beginning" },
-        { "w": "خَافَ", "root": "خ و ف", "bs": "bojao se", "en": "was afraid" },
-        { "w": "الْمَاءِ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "يَتَوَقَّفْ", "root": "و ق ف", "bs": "odustao", "en": "stop" }
+        {
+          "w": "الْبِدَايَةِ",
+          "root": "ب د أ",
+          "bs": "početak",
+          "en": "beginning",
+          "lemma": "بِدَايَةٌ / بِدَايَاتٌ"
+        },
+        {
+          "w": "خَافَ",
+          "root": "خ و ف",
+          "bs": "bojao se",
+          "en": "was afraid",
+          "lemma": "خَافَ يَخَافُ"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "يَتَوَقَّفْ",
+          "root": "و ق ف",
+          "bs": "odustao",
+          "en": "stop",
+          "lemma": "تَوَقَّفَ يَتَوَقَّفُ"
+        }
       ]
     },
     {
@@ -41,16 +113,51 @@
       "translation": "Nakon mjeseca je plivao sam i otac mu je pljeskao.",
       "translationEn": "After a month he swam alone and his father applauded him.",
       "words": [
-        { "w": "شَهْرٍ", "root": "ش ه ر", "bs": "mjesec", "en": "month" },
-        { "w": "سَبَحَ", "root": "س ب ح", "bs": "plivao je", "en": "swam" },
-        { "w": "بِمُفْرَدِهِ", "root": "ف ر د", "bs": "sam", "en": "alone" },
-        { "w": "صَفَّقَ", "root": "ص ف ق", "bs": "pljeskao je", "en": "applauded" },
-        { "w": "أَبُوهُ", "root": "أ ب و", "bs": "njegov otac", "en": "his father" }
+        {
+          "w": "شَهْرٍ",
+          "root": "ش ه ر",
+          "bs": "mjesec",
+          "en": "month",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "سَبَحَ",
+          "root": "س ب ح",
+          "bs": "plivao je",
+          "en": "swam",
+          "lemma": "سَبَحَ يَسْبَحُ"
+        },
+        {
+          "w": "بِمُفْرَدِهِ",
+          "root": "ف ر د",
+          "bs": "sam",
+          "en": "alone",
+          "lemma": "مُفْرَدٌ"
+        },
+        {
+          "w": "صَفَّقَ",
+          "root": "ص ف ق",
+          "bs": "pljeskao je",
+          "en": "applauded",
+          "lemma": "صَفَّقَ يُصَفِّقُ"
+        },
+        {
+          "w": "أَبُوهُ",
+          "root": "أ ب و",
+          "bs": "njegov otac",
+          "en": "his father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["swimming", "boy", "courage", "father"]
+    "tags": [
+      "swimming",
+      "boy",
+      "courage",
+      "father"
+    ]
   }
 }

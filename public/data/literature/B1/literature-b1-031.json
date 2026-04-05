@@ -8,10 +8,34 @@
       "translation": "Porodica je putovala u novi grad radi turizma.",
       "translationEn": "The family traveled to a new city for tourism.",
       "words": [
-        { "w": "سَافَرَتِ", "root": "س ف ر", "bs": "putovala je", "en": "traveled" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "مَدِينَةٍ", "root": "م د ن", "bs": "grad", "en": "city" },
-        { "w": "لِلسِّيَاحَةِ", "root": "س ي ح", "bs": "turizam", "en": "tourism" }
+        {
+          "w": "سَافَرَتِ",
+          "root": "س ف ر",
+          "bs": "putovala je",
+          "en": "traveled",
+          "lemma": "سَافَرَ يُسَافِرُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "مَدِينَةٍ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "لِلسِّيَاحَةِ",
+          "root": "س ي ح",
+          "bs": "turizam",
+          "en": "tourism",
+          "lemma": "سِيَاحَةٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Posjetili su stare bazare i historijske ulice.",
       "translationEn": "They visited the old markets and historical streets.",
       "words": [
-        { "w": "زَارُوا", "root": "ز و ر", "bs": "posjetili su", "en": "visited" },
-        { "w": "الأَسْوَاقَ", "root": "س و ق", "bs": "bazari/tržnice", "en": "markets" },
-        { "w": "الْقَدِيمَةَ", "root": "ق د م", "bs": "stare", "en": "old" },
-        { "w": "الشَّوَارِعَ", "root": "ش ر ع", "bs": "ulice", "en": "streets" },
-        { "w": "التَّارِيخِيَّةَ", "root": "ت ر خ", "bs": "historijske", "en": "historical" }
+        {
+          "w": "زَارُوا",
+          "root": "ز و ر",
+          "bs": "posjetili su",
+          "en": "visited",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "الأَسْوَاقَ",
+          "root": "س و ق",
+          "bs": "bazari/tržnice",
+          "en": "markets",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الْقَدِيمَةَ",
+          "root": "ق د م",
+          "bs": "stare",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "الشَّوَارِعَ",
+          "root": "ش ر ع",
+          "bs": "ulice",
+          "en": "streets",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        },
+        {
+          "w": "التَّارِيخِيَّةَ",
+          "root": "ت ر خ",
+          "bs": "historijske",
+          "en": "historical",
+          "lemma": "تَارِيخِيٌّ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Probali su ukusna lokalna jela koja ranije nisu poznavali.",
       "translationEn": "They tasted delicious local foods they had not known before.",
       "words": [
-        { "w": "تَذَوَّقُوا", "root": "ذ و ق", "bs": "probali su/kušali", "en": "tasted" },
-        { "w": "أَطْعِمَةً", "root": "ط ع م", "bs": "hrana/jela", "en": "foods/dishes" },
-        { "w": "مَحَلِّيَّةً", "root": "ح ل ل", "bs": "lokalna", "en": "local" },
-        { "w": "لَذِيذَةً", "root": "ل ذ ذ", "bs": "ukusna", "en": "delicious" }
+        {
+          "w": "تَذَوَّقُوا",
+          "root": "ذ و ق",
+          "bs": "probali su/kušali",
+          "en": "tasted",
+          "lemma": "تَذَوَّقَ يَتَذَوَّقُ"
+        },
+        {
+          "w": "أَطْعِمَةً",
+          "root": "ط ع م",
+          "bs": "hrana/jela",
+          "en": "foods/dishes",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "مَحَلِّيَّةً",
+          "root": "ح ل ل",
+          "bs": "lokalna",
+          "en": "local",
+          "lemma": "مَحَلِّيٌّ"
+        },
+        {
+          "w": "لَذِيذَةً",
+          "root": "ل ذ ذ",
+          "bs": "ukusna",
+          "en": "delicious",
+          "lemma": "لَذِيذٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,43 @@
       "translation": "Vratili su se s lijepim uspomenama i puno fotografija.",
       "translationEn": "They returned with beautiful memories and many photos.",
       "words": [
-        { "w": "عَادُوا", "root": "ع و د", "bs": "vratili su se", "en": "returned" },
-        { "w": "بِذِكْرَيَاتٍ", "root": "ذ ك ر", "bs": "uspomene", "en": "memories" },
-        { "w": "جَمِيلَةٍ", "root": "ج م ل", "bs": "lijepe", "en": "beautiful" },
-        { "w": "صُوَرٍ", "root": "ص و ر", "bs": "fotografije/slike", "en": "photos/pictures" }
+        {
+          "w": "عَادُوا",
+          "root": "ع و د",
+          "bs": "vratili su se",
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
+        },
+        {
+          "w": "بِذِكْرَيَاتٍ",
+          "root": "ذ ك ر",
+          "bs": "uspomene",
+          "en": "memories",
+          "lemma": "ذِكْرَى / ذِكْرَيَاتٌ"
+        },
+        {
+          "w": "جَمِيلَةٍ",
+          "root": "ج م ل",
+          "bs": "lijepe",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "صُوَرٍ",
+          "root": "ص و ر",
+          "bs": "fotografije/slike",
+          "en": "photos/pictures",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["travel", "family", "tourism"]
+    "tags": [
+      "travel",
+      "family",
+      "tourism"
+    ]
   }
 }

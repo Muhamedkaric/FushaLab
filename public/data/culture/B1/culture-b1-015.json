@@ -8,10 +8,34 @@
       "translation": "Otac ide na pijacu svake sedmice.",
       "translationEn": "The father goes to the market every week.",
       "words": [
-        { "w": "يَذْهَبُ", "root": "ذ هـ ب", "bs": "ide", "en": "goes" },
-        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijacu", "en": "market" },
-        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmice", "en": "week" }
+        {
+          "w": "يَذْهَبُ",
+          "root": "ذ هـ ب",
+          "bs": "ide",
+          "en": "goes",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "pijacu",
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "س ب ع",
+          "bs": "sedmice",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Kupuje svježe povrće i voće.",
       "translationEn": "He buys fresh vegetables and fruits.",
       "words": [
-        { "w": "يَشْتَرِي", "root": "ش ر ي", "bs": "kupuje", "en": "buys" },
-        { "w": "الخُضَرَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
-        { "w": "الفَوَاكِهَ", "root": "ف ك هـ", "bs": "voće", "en": "fruits" },
-        { "w": "الطَّازَجَةَ", "root": "ط ز ج", "bs": "svježe", "en": "fresh" }
+        {
+          "w": "يَشْتَرِي",
+          "root": "ش ر ي",
+          "bs": "kupuje",
+          "en": "buys",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "الخُضَرَ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables",
+          "lemma": "خُضَرٌ / خَضْرَاوَاتٌ"
+        },
+        {
+          "w": "الفَوَاكِهَ",
+          "root": "ف ك هـ",
+          "bs": "voće",
+          "en": "fruits",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "الطَّازَجَةَ",
+          "root": "ط ز ج",
+          "bs": "svježe",
+          "en": "fresh",
+          "lemma": "طَازَجٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Razgovara s prodavcima i cjenka se.",
       "translationEn": "He talks to the sellers and negotiates the price.",
       "words": [
-        { "w": "يَتَحَدَّثُ", "root": "ح د ث", "bs": "razgovara", "en": "talks" },
-        { "w": "البَائِعِينَ", "root": "ب ي ع", "bs": "prodavačima", "en": "sellers" },
-        { "w": "يُسَاوِمُ", "root": "س و م", "bs": "cjenka se", "en": "negotiates" },
-        { "w": "السِّعْرِ", "root": "س ع ر", "bs": "cijenu", "en": "price" }
+        {
+          "w": "يَتَحَدَّثُ",
+          "root": "ح د ث",
+          "bs": "razgovara",
+          "en": "talks",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "البَائِعِينَ",
+          "root": "ب ي ع",
+          "bs": "prodavačima",
+          "en": "sellers",
+          "lemma": "بَائِعٌ / بَائِعُونَ"
+        },
+        {
+          "w": "يُسَاوِمُ",
+          "root": "س و م",
+          "bs": "cjenka se",
+          "en": "negotiates",
+          "lemma": "سَاوَمَ يُسَاوِمُ"
+        },
+        {
+          "w": "السِّعْرِ",
+          "root": "س ع ر",
+          "bs": "cijenu",
+          "en": "price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Pijaca je gužvavo i aktivno mjesto.",
       "translationEn": "The market is a busy and lively place.",
       "words": [
-        { "w": "السُّوقُ", "root": "س و ق", "bs": "pijaca", "en": "market" },
-        { "w": "مَكَانٌ", "root": "م ك ن", "bs": "mjesto", "en": "place" },
-        { "w": "مُزْدَحِمٌ", "root": "ز ح م", "bs": "gužvavo", "en": "busy" },
-        { "w": "نَشِيطٌ", "root": "ن ش ط", "bs": "aktivno", "en": "lively" }
+        {
+          "w": "السُّوقُ",
+          "root": "س و ق",
+          "bs": "pijaca",
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "مَكَانٌ",
+          "root": "م ك ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "مُزْدَحِمٌ",
+          "root": "ز ح م",
+          "bs": "gužvavo",
+          "en": "busy",
+          "lemma": "مُزْدَحِمٌ"
+        },
+        {
+          "w": "نَشِيطٌ",
+          "root": "ن ش ط",
+          "bs": "aktivno",
+          "en": "lively",
+          "lemma": "نَشِيطٌ"
+        }
       ]
     },
     {
@@ -52,10 +148,34 @@
       "translation": "Vraća se kući s puno stvari.",
       "translationEn": "He returns home with many things.",
       "words": [
-        { "w": "يَعُودُ", "root": "ع و د", "bs": "vraća se", "en": "returns" },
-        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kući", "en": "home" },
-        { "w": "بِأَشْيَاءَ", "root": "ش ي أ", "bs": "stvarima", "en": "things" },
-        { "w": "كَثِيرَةٍ", "root": "ك ث ر", "bs": "puno", "en": "many" }
+        {
+          "w": "يَعُودُ",
+          "root": "ع و د",
+          "bs": "vraća se",
+          "en": "returns",
+          "lemma": "عَادَ يَعُودُ"
+        },
+        {
+          "w": "البَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kući",
+          "en": "home",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "بِأَشْيَاءَ",
+          "root": "ش ي أ",
+          "bs": "stvarima",
+          "en": "things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "كَثِيرَةٍ",
+          "root": "ك ث ر",
+          "bs": "puno",
+          "en": "many",
+          "lemma": "كَثِيرٌ"
+        }
       ]
     }
   ],

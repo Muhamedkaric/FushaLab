@@ -8,10 +8,34 @@
       "translation": "Lubna radi u restoranu i uslužuje goste.",
       "translationEn": "Lubna works in a restaurant and serves customers.",
       "words": [
-        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "مَطْعَمٍ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
-        { "w": "تَخْدِمُ", "root": "خ د م", "bs": "uslužuje/opsluţuje", "en": "serves" },
-        { "w": "الزَّبَائِنَ", "root": "ز ب ن", "bs": "gosti/mušterije", "en": "customers" }
+        {
+          "w": "تَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "مَطْعَمٍ",
+          "root": "ط ع م",
+          "bs": "restoran",
+          "en": "restaurant",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "تَخْدِمُ",
+          "root": "خ د م",
+          "bs": "uslužuje/opsluţuje",
+          "en": "serves",
+          "lemma": "خَدَمَ يَخْدِمُ"
+        },
+        {
+          "w": "الزَّبَائِنَ",
+          "root": "ز ب ن",
+          "bs": "gosti/mušterije",
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Prima narudžbe i donosi hranu do stolova.",
       "translationEn": "She takes orders and delivers food to the tables.",
       "words": [
-        { "w": "تَأْخُذُ", "root": "أ خ ذ", "bs": "uzima/prima", "en": "takes" },
-        { "w": "الطَّلَبَاتِ", "root": "ط ل ب", "bs": "narudžbe/zahtjevi", "en": "orders" },
-        { "w": "تُوصِلُ", "root": "و ص ل", "bs": "donosi/dostavlja", "en": "delivers/brings" },
-        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "الطِّاوِلَاتِ", "root": "ط و ل", "bs": "stolovi", "en": "tables" }
+        {
+          "w": "تَأْخُذُ",
+          "root": "أ خ ذ",
+          "bs": "uzima/prima",
+          "en": "takes",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "الطَّلَبَاتِ",
+          "root": "ط ل ب",
+          "bs": "narudžbe/zahtjevi",
+          "en": "orders",
+          "lemma": "طَلَبٌ / طَلَبَاتٌ"
+        },
+        {
+          "w": "تُوصِلُ",
+          "root": "و ص ل",
+          "bs": "donosi/dostavlja",
+          "en": "delivers/brings",
+          "lemma": "أَوْصَلَ يُوصِلُ"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الطِّاوِلَاتِ",
+          "root": "ط و ل",
+          "bs": "stolovi",
+          "en": "tables",
+          "lemma": "طَاوِلَةٌ / طَاوِلَاتٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Uvijek se smiješi i razgovara s gostima ljubazno.",
       "translationEn": "She always smiles and talks to customers kindly.",
       "words": [
-        { "w": "تَبْتَسِمُ", "root": "ب س م", "bs": "smiješi se", "en": "smiles" },
-        { "w": "تَتَكَلَّمُ", "root": "ك ل م", "bs": "razgovara", "en": "talks" },
-        { "w": "الزَّبَائِنِ", "root": "ز ب ن", "bs": "gosti/kupci", "en": "customers" },
-        { "w": "بِلُطْفٍ", "root": "ل ط ف", "bs": "ljubazno/nježno", "en": "kindly" }
+        {
+          "w": "تَبْتَسِمُ",
+          "root": "ب س م",
+          "bs": "smiješi se",
+          "en": "smiles",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "تَتَكَلَّمُ",
+          "root": "ك ل م",
+          "bs": "razgovara",
+          "en": "talks",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "الزَّبَائِنِ",
+          "root": "ز ب ن",
+          "bs": "gosti/kupci",
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "بِلُطْفٍ",
+          "root": "ل ط ف",
+          "bs": "ljubazno/nježno",
+          "en": "kindly",
+          "lemma": "لُطْفٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Zadovoljni gost joj je dao dodatni iznos kao zahvalnost.",
       "translationEn": "A happy customer gave her an extra amount as thanks.",
       "words": [
-        { "w": "أَعْطَاهَا", "root": "ع ط و", "bs": "dao joj je", "en": "gave her" },
-        { "w": "زَبُونٌ", "root": "ز ب ن", "bs": "gost/mušterija", "en": "customer" },
-        { "w": "سَعِيدٌ", "root": "س ع د", "bs": "zadovoljni/sretni", "en": "happy" },
-        { "w": "مَبْلَغًا", "root": "ب ل غ", "bs": "iznos/suma", "en": "amount" },
-        { "w": "إِضَافِيًّا", "root": "ض ف و", "bs": "dodatni/ekstra", "en": "extra/additional" }
+        {
+          "w": "أَعْطَاهَا",
+          "root": "ع ط و",
+          "bs": "dao joj je",
+          "en": "gave her",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "زَبُونٌ",
+          "root": "ز ب ن",
+          "bs": "gost/mušterija",
+          "en": "customer",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "سَعِيدٌ",
+          "root": "س ع د",
+          "bs": "zadovoljni/sretni",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "مَبْلَغًا",
+          "root": "ب ل غ",
+          "bs": "iznos/suma",
+          "en": "amount",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        },
+        {
+          "w": "إِضَافِيًّا",
+          "root": "ض ف و",
+          "bs": "dodatni/ekstra",
+          "en": "extra/additional",
+          "lemma": "إِضَافِيٌّ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["waitress", "restaurant", "customer service", "tip"]
+    "tags": [
+      "waitress",
+      "restaurant",
+      "customer service",
+      "tip"
+    ]
   }
 }

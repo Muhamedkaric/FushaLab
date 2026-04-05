@@ -12,25 +12,29 @@
           "w": "يُصَلِّي",
           "root": "ص ل و",
           "bs": "klanja",
-          "en": "prays"
+          "en": "prays",
+          "lemma": "صَلَّى يُصَلِّي"
         },
         {
           "w": "الصُّبْحَ",
           "root": "ص ب ح",
           "bs": "sabah",
-          "en": "Fajr"
+          "en": "Fajr",
+          "lemma": "صُبْحٌ / أَصْبَاحٌ"
         },
         {
           "w": "يَوْمٍ",
           "root": "ي و م",
           "bs": "dan",
-          "en": "day"
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
         },
         {
           "w": "الشَّمْسِ",
           "root": "ش م س",
           "bs": "sunca",
-          "en": "the sun"
+          "en": "the sun",
+          "lemma": "شَمْسٌ / شُمُوسٌ"
         }
       ]
     },
@@ -43,25 +47,29 @@
           "w": "الصَّلَاةِ",
           "root": "ص ل و",
           "bs": "namaza",
-          "en": "prayer"
+          "en": "prayer",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
         },
         {
           "w": "يَقْرَأُ",
           "root": "ق ر أ",
           "bs": "čita",
-          "en": "reads"
+          "en": "reads",
+          "lemma": "قَرَأَ يَقْرَأُ"
         },
         {
           "w": "الْقُرْآنِ",
           "root": "ق ر أ",
           "bs": "Kur'ana",
-          "en": "the Quran"
+          "en": "the Quran",
+          "lemma": "قُرْآنٌ"
         },
         {
           "w": "الْكَرِيمِ",
           "root": "ك ر م",
           "bs": "Časnog",
-          "en": "Noble"
+          "en": "Noble",
+          "lemma": "كَرِيمٌ"
         }
       ]
     },
@@ -74,37 +82,43 @@
           "w": "يَشْرَبُ",
           "root": "ش ر ب",
           "bs": "pije",
-          "en": "drinks"
+          "en": "drinks",
+          "lemma": "شَرِبَ يَشْرَبُ"
         },
         {
           "w": "كُوبًا",
           "root": "ك و ب",
           "bs": "šolju",
-          "en": "a cup"
+          "en": "a cup",
+          "lemma": "كُوبٌ / أَكْوَابٌ"
         },
         {
           "w": "الشَّايِ",
           "root": "ش ي و",
           "bs": "čaja",
-          "en": "tea"
+          "en": "tea",
+          "lemma": "شَايٌ"
         },
         {
           "w": "يَبْدَأُ",
           "root": "ب د أ",
           "bs": "počne",
-          "en": "starts"
+          "en": "starts",
+          "lemma": "بَدَأَ يَبْدَأُ"
         },
         {
           "w": "يَوْمَهُ",
           "root": "ي و م",
           "bs": "dan",
-          "en": "his day"
+          "en": "his day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
         },
         {
           "w": "بِهُدُوءٍ",
           "root": "ه د أ",
           "bs": "mirno",
-          "en": "peacefully"
+          "en": "peacefully",
+          "lemma": "هُدُوءٌ"
         }
       ]
     },
@@ -117,31 +131,36 @@
           "w": "الصُّبْحُ",
           "root": "ص ب ح",
           "bs": "sabah",
-          "en": "Fajr"
+          "en": "Fajr",
+          "lemma": "صُبْحٌ / أَصْبَاحٌ"
         },
         {
           "w": "يُعْطِينِي",
           "root": "ع ط و",
           "bs": "daje mi",
-          "en": "gives me"
+          "en": "gives me",
+          "lemma": "أَعْطَى يُعْطِي"
         },
         {
           "w": "طَاقَةً",
           "root": "ط و ق",
           "bs": "energiju",
-          "en": "energy"
+          "en": "energy",
+          "lemma": "طَاقَةٌ / طَاقَاتٌ"
         },
         {
           "w": "يَوْمٍ",
           "root": "ي و م",
           "bs": "danu",
-          "en": "day"
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
         },
         {
           "w": "جَمِيلٍ",
           "root": "ج م ل",
           "bs": "lijepom",
-          "en": "beautiful"
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
         }
       ]
     }

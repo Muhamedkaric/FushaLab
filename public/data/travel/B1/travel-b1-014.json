@@ -8,10 +8,34 @@
       "translation": "Ali je kupio mapu grada u prodavnici.",
       "translationEn": "Ali bought a map of the city from the shop.",
       "words": [
-        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
-        { "w": "خَرِيطَةَ", "root": "خ ر ط", "bs": "mapa / karta", "en": "map" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" },
-        { "w": "الدُّكَّانِ", "root": "د ك ن", "bs": "prodavnica / dućan", "en": "shop" }
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "خَرِيطَةَ",
+          "root": "خ ر ط",
+          "bs": "mapa / karta",
+          "en": "map",
+          "lemma": "خَرِيطَةٌ / خَرَائِطُ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "الدُّكَّانِ",
+          "root": "د ك ن",
+          "bs": "prodavnica / dućan",
+          "en": "shop",
+          "lemma": "دُكَّانٌ / دَكَاكِينُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Otvorio je mapu i tražio muzej.",
       "translationEn": "He opened the map and looked for the museum.",
       "words": [
-        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "opened" },
-        { "w": "الْخَرِيطَةَ", "root": "خ ر ط", "bs": "mapa", "en": "map" },
-        { "w": "بَحَثَ", "root": "ب ح ث", "bs": "tražio je", "en": "looked for" },
-        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" }
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "الْخَرِيطَةَ",
+          "root": "خ ر ط",
+          "bs": "mapa",
+          "en": "map",
+          "lemma": "خَرِيطَةٌ / خَرَائِطُ"
+        },
+        {
+          "w": "بَحَثَ",
+          "root": "ب ح ث",
+          "bs": "tražio je",
+          "en": "looked for",
+          "lemma": "بَحَثَ يَبْحَثُ"
+        },
+        {
+          "w": "الْمَتْحَفِ",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum",
+          "lemma": "مَتْحَفٌ / مَتَاحِفُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Pronašao je put i hodao pouzdano.",
       "translationEn": "He found the way and walked with confidence.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
-        { "w": "الطَّرِيقَ", "root": "ط ر ق", "bs": "put", "en": "way / road" },
-        { "w": "مَشَى", "root": "م ش ي", "bs": "hodao je", "en": "walked" },
-        { "w": "بِثِقَةٍ", "root": "ث ق ة", "bs": "pouzdano / samopouzdano", "en": "with confidence" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الطَّرِيقَ",
+          "root": "ط ر ق",
+          "bs": "put",
+          "en": "way / road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        },
+        {
+          "w": "مَشَى",
+          "root": "م ش ي",
+          "bs": "hodao je",
+          "en": "walked",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "بِثِقَةٍ",
+          "root": "ث ق ة",
+          "bs": "pouzdano / samopouzdano",
+          "en": "with confidence",
+          "lemma": "ثِقَةٌ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Stigao je do muzeja i ušao radosno.",
       "translationEn": "He reached the museum and entered with joy.",
       "words": [
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "reached" },
-        { "w": "الْمَتْحَفِ", "root": "ت ح ف", "bs": "muzej", "en": "museum" },
-        { "w": "دَخَلَ", "root": "د خ ل", "bs": "ušao je", "en": "entered" }
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "reached",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْمَتْحَفِ",
+          "root": "ت ح ف",
+          "bs": "muzej",
+          "en": "museum",
+          "lemma": "مَتْحَفٌ / مَتَاحِفُ"
+        },
+        {
+          "w": "دَخَلَ",
+          "root": "د خ ل",
+          "bs": "ušao je",
+          "en": "entered",
+          "lemma": "دَخَلَ يَدْخُلُ"
+        }
       ]
     }
   ],

@@ -8,10 +8,34 @@
       "translation": "Po mom mišljenju, briga o okolini je naša zajednička odgovornost.",
       "translationEn": "In my opinion, caring for the environment is all our responsibility.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
-        { "w": "الِاهْتِمَامُ", "root": "ه م م", "bs": "briga", "en": "caring" },
-        { "w": "الْبِيئَةِ", "root": "ب ي أ", "bs": "okoliš", "en": "environment" },
-        { "w": "مَسْؤُولِيَّتُنَا", "root": "س أ ل", "bs": "naša odgovornost", "en": "our responsibility" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "moje mišljenje",
+          "en": "my opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "الِاهْتِمَامُ",
+          "root": "ه م م",
+          "bs": "briga",
+          "en": "caring",
+          "lemma": "اهْتِمَامٌ / اهْتِمَامَاتٌ"
+        },
+        {
+          "w": "الْبِيئَةِ",
+          "root": "ب ي أ",
+          "bs": "okoliš",
+          "en": "environment",
+          "lemma": "بِيئَةٌ / بِيئَاتٌ"
+        },
+        {
+          "w": "مَسْؤُولِيَّتُنَا",
+          "root": "س أ ل",
+          "bs": "naša odgovornost",
+          "en": "our responsibility",
+          "lemma": "مَسْؤُولِيَّةٌ / مَسْؤُولِيَّاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Izbjegavam bacati smeće na ulicu.",
       "translationEn": "I avoid throwing rubbish on the road.",
       "words": [
-        { "w": "أَتَجَنَّبُ", "root": "ج ن ب", "bs": "izbjegavam", "en": "I avoid" },
-        { "w": "رَمْيَ", "root": "ر م ي", "bs": "bacanje", "en": "throwing" },
-        { "w": "الْأَوْسَاخِ", "root": "و س خ", "bs": "smeće", "en": "rubbish" },
-        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "ulica", "en": "road" }
+        {
+          "w": "أَتَجَنَّبُ",
+          "root": "ج ن ب",
+          "bs": "izbjegavam",
+          "en": "I avoid",
+          "lemma": "تَجَنَّبَ يَتَجَنَّبُ"
+        },
+        {
+          "w": "رَمْيَ",
+          "root": "ر م ي",
+          "bs": "bacanje",
+          "en": "throwing",
+          "lemma": "رَمْيٌ"
+        },
+        {
+          "w": "الْأَوْسَاخِ",
+          "root": "و س خ",
+          "bs": "smeće",
+          "en": "rubbish",
+          "lemma": "وَسَخٌ / أَوْسَاخٌ"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "ulica",
+          "en": "road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Trudim se koristiti vodu i svjetlo razumno.",
       "translationEn": "I try to use water and light rationally.",
       "words": [
-        { "w": "أُحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
-        { "w": "أَسْتَخْدِمَ", "root": "خ د م", "bs": "koristiti", "en": "to use" },
-        { "w": "الْمَاءَ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "الضَّوْءَ", "root": "ض و أ", "bs": "svjetlo", "en": "light" },
-        { "w": "بِعَقْلَانِيَّةٍ", "root": "ع ق ل", "bs": "razumno", "en": "rationally" }
+        {
+          "w": "أُحَاوِلُ",
+          "root": "ح و ل",
+          "bs": "trudim se",
+          "en": "I try",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "أَسْتَخْدِمَ",
+          "root": "خ د م",
+          "bs": "koristiti",
+          "en": "to use",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "الْمَاءَ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "الضَّوْءَ",
+          "root": "ض و أ",
+          "bs": "svjetlo",
+          "en": "light",
+          "lemma": "ضَوْءٌ / أَضْوَاءٌ"
+        },
+        {
+          "w": "بِعَقْلَانِيَّةٍ",
+          "root": "ع ق ل",
+          "bs": "razumno",
+          "en": "rationally",
+          "lemma": "عَقْلَانِيَّةٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Svaka mala stvar koju radimo pomaže u zaštiti okoliša.",
       "translationEn": "Every small thing we do helps in protecting the environment.",
       "words": [
-        { "w": "صَغِيرٍ", "root": "ص غ ر", "bs": "mala", "en": "small" },
-        { "w": "نَفْعَلُهُ", "root": "ف ع ل", "bs": "radimo", "en": "we do" },
-        { "w": "يُسَاعِدُ", "root": "س ع د", "bs": "pomaže", "en": "helps" },
-        { "w": "الْحِفَاظِ", "root": "ح ف ظ", "bs": "zaštita", "en": "protecting" },
-        { "w": "الْبِيئَةِ", "root": "ب ي أ", "bs": "okoliš", "en": "environment" }
+        {
+          "w": "صَغِيرٍ",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "نَفْعَلُهُ",
+          "root": "ف ع ل",
+          "bs": "radimo",
+          "en": "we do",
+          "lemma": "فَعَلَ يَفْعَلُ"
+        },
+        {
+          "w": "يُسَاعِدُ",
+          "root": "س ع د",
+          "bs": "pomaže",
+          "en": "helps",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "الْحِفَاظِ",
+          "root": "ح ف ظ",
+          "bs": "zaštita",
+          "en": "protecting",
+          "lemma": "حِفَاظٌ"
+        },
+        {
+          "w": "الْبِيئَةِ",
+          "root": "ب ي أ",
+          "bs": "okoliš",
+          "en": "environment",
+          "lemma": "بِيئَةٌ / بِيئَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "environment", "responsibility", "sustainability"]
+    "tags": [
+      "opinion",
+      "environment",
+      "responsibility",
+      "sustainability"
+    ]
   }
 }

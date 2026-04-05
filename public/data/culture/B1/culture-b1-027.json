@@ -8,11 +8,41 @@
       "translation": "Posjeta bolesnika je važna društvena obaveza.",
       "translationEn": "Visiting the sick is an important social duty.",
       "words": [
-        { "w": "عِيَادَةُ", "root": "ع و د", "bs": "posjeta", "en": "visiting" },
-        { "w": "المَرِيضِ", "root": "م ر ض", "bs": "bolesnika", "en": "sick person" },
-        { "w": "وَاجِبٌ", "root": "و ج ب", "bs": "obaveza", "en": "duty" },
-        { "w": "اجْتِمَاعِيٌّ", "root": "ج م ع", "bs": "društvena", "en": "social" },
-        { "w": "مُهِمٌّ", "root": "هـ م م", "bs": "važna", "en": "important" }
+        {
+          "w": "عِيَادَةُ",
+          "root": "ع و د",
+          "bs": "posjeta",
+          "en": "visiting",
+          "lemma": "عِيَادَةٌ / عِيَادَاتٌ"
+        },
+        {
+          "w": "المَرِيضِ",
+          "root": "م ر ض",
+          "bs": "bolesnika",
+          "en": "sick person",
+          "lemma": "مَرِيضٌ / مَرْضَى"
+        },
+        {
+          "w": "وَاجِبٌ",
+          "root": "و ج ب",
+          "bs": "obaveza",
+          "en": "duty",
+          "lemma": "وَاجِبٌ / وَاجِبَاتٌ"
+        },
+        {
+          "w": "اجْتِمَاعِيٌّ",
+          "root": "ج م ع",
+          "bs": "društvena",
+          "en": "social",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "root": "هـ م م",
+          "bs": "važna",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Posjetilac nosi voće ili mali poklon.",
       "translationEn": "The visitor brings fruit or a small gift.",
       "words": [
-        { "w": "يَحْمِلُ", "root": "ح م ل", "bs": "nosi", "en": "brings" },
-        { "w": "الزَّائِرُ", "root": "ز و ر", "bs": "posjetilac", "en": "visitor" },
-        { "w": "فَاكِهَةً", "root": "ف ك هـ", "bs": "voće", "en": "fruit" },
-        { "w": "هَدِيَّةً", "root": "هـ د ي", "bs": "poklon", "en": "gift" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mali", "en": "small" }
+        {
+          "w": "يَحْمِلُ",
+          "root": "ح م ل",
+          "bs": "nosi",
+          "en": "brings",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "الزَّائِرُ",
+          "root": "ز و ر",
+          "bs": "posjetilac",
+          "en": "visitor",
+          "lemma": "زَائِرٌ / زُوَّارٌ"
+        },
+        {
+          "w": "فَاكِهَةً",
+          "root": "ف ك هـ",
+          "bs": "voće",
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "هَدِيَّةً",
+          "root": "هـ د ي",
+          "bs": "poklon",
+          "en": "gift",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        }
       ]
     },
     {
@@ -32,9 +92,27 @@
       "translation": "Sjedi s bolesnikom i razgovara s njim.",
       "translationEn": "He sits with the sick person and talks with them.",
       "words": [
-        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" },
-        { "w": "المَرِيضِ", "root": "م ر ض", "bs": "bolesnikom", "en": "sick person" },
-        { "w": "يُحَدِّثُهُ", "root": "ح د ث", "bs": "razgovara s njim", "en": "talks with them" }
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedi",
+          "en": "sits",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "المَرِيضِ",
+          "root": "م ر ض",
+          "bs": "bolesnikom",
+          "en": "sick person",
+          "lemma": "مَرِيضٌ / مَرْضَى"
+        },
+        {
+          "w": "يُحَدِّثُهُ",
+          "root": "ح د ث",
+          "bs": "razgovara s njim",
+          "en": "talks with them",
+          "lemma": "حَدَّثَ يُحَدِّثُ"
+        }
       ]
     },
     {
@@ -42,9 +120,27 @@
       "translation": "Želi mu brzi oporavak.",
       "translationEn": "He wishes them a speedy recovery.",
       "words": [
-        { "w": "يَدْعُو", "root": "د ع و", "bs": "želi mu", "en": "wishes" },
-        { "w": "الشِّفَاءِ", "root": "ش ف ي", "bs": "oporavak", "en": "recovery" },
-        { "w": "السَّرِيعِ", "root": "س ر ع", "bs": "brzi", "en": "speedy" }
+        {
+          "w": "يَدْعُو",
+          "root": "د ع و",
+          "bs": "želi mu",
+          "en": "wishes",
+          "lemma": "دَعَا يَدْعُو"
+        },
+        {
+          "w": "الشِّفَاءِ",
+          "root": "ش ف ي",
+          "bs": "oporavak",
+          "en": "recovery",
+          "lemma": "شِفَاءٌ"
+        },
+        {
+          "w": "السَّرِيعِ",
+          "root": "س ر ع",
+          "bs": "brzi",
+          "en": "speedy",
+          "lemma": "سَرِيعٌ"
+        }
       ]
     }
   ],

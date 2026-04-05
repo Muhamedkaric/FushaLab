@@ -8,10 +8,34 @@
       "translation": "Djeca uče mnogo oponašanjem odraslih.",
       "translationEn": "Children learn a lot by imitating adults.",
       "words": [
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "يَتَعَلَّمُونَ", "root": "ع ل م", "bs": "uče", "en": "learn" },
-        { "w": "بِتَقْلِيدِ", "root": "ق ل د", "bs": "oponašanjem", "en": "by imitating" },
-        { "w": "الْكِبَارِ", "root": "ك ب ر", "bs": "odrasli", "en": "adults" }
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يَتَعَلَّمُونَ",
+          "root": "ع ل م",
+          "bs": "uče",
+          "en": "learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "بِتَقْلِيدِ",
+          "root": "ق ل د",
+          "bs": "oponašanjem",
+          "en": "by imitating",
+          "lemma": "تَقْلِيدٌ"
+        },
+        {
+          "w": "الْكِبَارِ",
+          "root": "ك ب ر",
+          "bs": "odrasli",
+          "en": "adults",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Sanaa je primijetila da joj sin uvijek govori \"molim\".",
       "translationEn": "Sanaa noticed that her son always said \"please\".",
       "words": [
-        { "w": "لَاحَظَتْ", "root": "ل ح ظ", "bs": "primijetila je", "en": "noticed" },
-        { "w": "ابْنَهَا", "root": "ب ن و", "bs": "njen sin", "en": "her son" },
-        { "w": "يَقُولُ", "root": "ق و ل", "bs": "govori", "en": "says" }
+        {
+          "w": "لَاحَظَتْ",
+          "root": "ل ح ظ",
+          "bs": "primijetila je",
+          "en": "noticed",
+          "lemma": "لَاحَظَ يُلَاحِظُ"
+        },
+        {
+          "w": "ابْنَهَا",
+          "root": "ب ن و",
+          "bs": "njen sin",
+          "en": "her son",
+          "lemma": "اِبْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "يَقُولُ",
+          "root": "ق و ل",
+          "bs": "govori",
+          "en": "says",
+          "lemma": "قَالَ يَقُولُ"
+        }
       ]
     },
     {
@@ -29,8 +71,20 @@
       "translation": "Znala je da je to naučio od nje.",
       "translationEn": "She knew that he had learned it from her.",
       "words": [
-        { "w": "عَرَفَتْ", "root": "ع ر ف", "bs": "znala je", "en": "knew" },
-        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučio je", "en": "had learned" }
+        {
+          "w": "عَرَفَتْ",
+          "root": "ع ر ف",
+          "bs": "znala je",
+          "en": "knew",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "تَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "had learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        }
       ]
     },
     {
@@ -38,14 +92,36 @@
       "translation": "Dijete nas gleda i uči od nas svaki dan.",
       "translationEn": "The child watches us and learns from us every day.",
       "words": [
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gleda", "en": "watches" },
-        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learns" }
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يَنْظُرُ",
+          "root": "ن ظ ر",
+          "bs": "gleda",
+          "en": "watches",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "يَتَعَلَّمُ",
+          "root": "ع ل م",
+          "bs": "uči",
+          "en": "learns",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["children", "learning", "parenting"]
+    "tags": [
+      "children",
+      "learning",
+      "parenting"
+    ]
   }
 }

@@ -8,11 +8,40 @@
       "translation": "Iman je čula zvuk muzike s gornjeg sprata.",
       "translationEn": "Iman heard the sound of music from the upper floor.",
       "words": [
-        { "w": "سَمِعَتْ", "root": "س م ع", "bs": "čula je", "en": "she heard" },
-        { "w": "صَوْتَ", "root": "ص و ت", "bs": "zvuk", "en": "sound" },
-        { "w": "مُوسِيقَى", "bs": "muzike", "en": "music" },
-        { "w": "الطَّابِقِ", "root": "ط ب ق", "bs": "sprata", "en": "floor" },
-        { "w": "الْعُلْوِيِّ", "root": "ع ل و", "bs": "gornjeg", "en": "upper" }
+        {
+          "w": "سَمِعَتْ",
+          "root": "س م ع",
+          "bs": "čula je",
+          "en": "she heard",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "صَوْتَ",
+          "root": "ص و ت",
+          "bs": "zvuk",
+          "en": "sound",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "مُوسِيقَى",
+          "bs": "muzike",
+          "en": "music",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "الطَّابِقِ",
+          "root": "ط ب ق",
+          "bs": "sprata",
+          "en": "floor",
+          "lemma": "طَابِقٌ / طَوَابِقُ"
+        },
+        {
+          "w": "الْعُلْوِيِّ",
+          "root": "ع ل و",
+          "bs": "gornjeg",
+          "en": "upper",
+          "lemma": "عُلْوِيٌّ"
+        }
       ]
     },
     {
@@ -20,8 +49,20 @@
       "translation": "Gornji sprat je uvijek bio prazan.",
       "translationEn": "The upper floor was always empty.",
       "words": [
-        { "w": "الطَّابِقُ", "root": "ط ب ق", "bs": "sprat", "en": "floor" },
-        { "w": "فَارِغًا", "root": "ف ر غ", "bs": "prazan", "en": "empty" }
+        {
+          "w": "الطَّابِقُ",
+          "root": "ط ب ق",
+          "bs": "sprat",
+          "en": "floor",
+          "lemma": "طَابِقٌ / طَوَابِقُ"
+        },
+        {
+          "w": "فَارِغًا",
+          "root": "ف ر غ",
+          "bs": "prazan",
+          "en": "empty",
+          "lemma": "فَارِغٌ"
+        }
       ]
     },
     {
@@ -29,9 +70,27 @@
       "translation": "Iman je polako popela i otvorila vrata.",
       "translationEn": "Iman went up slowly and opened the door.",
       "words": [
-        { "w": "صَعِدَتْ", "root": "ص ع د", "bs": "popela se", "en": "she went up" },
-        { "w": "بِبُطْءٍ", "root": "ب ط أ", "bs": "polako", "en": "slowly" },
-        { "w": "فَتَحَتِ", "root": "ف ت ح", "bs": "otvorila je", "en": "she opened" }
+        {
+          "w": "صَعِدَتْ",
+          "root": "ص ع د",
+          "bs": "popela se",
+          "en": "she went up",
+          "lemma": "صَعِدَ يَصْعَدُ"
+        },
+        {
+          "w": "بِبُطْءٍ",
+          "root": "ب ط أ",
+          "bs": "polako",
+          "en": "slowly",
+          "lemma": "بُطْءٌ"
+        },
+        {
+          "w": "فَتَحَتِ",
+          "root": "ف ت ح",
+          "bs": "otvorila je",
+          "en": "she opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        }
       ]
     },
     {
@@ -39,10 +98,34 @@
       "translation": "Pronašla je svoju novu komšinicu kako svira klavir.",
       "translationEn": "She found her new neighbour playing the piano.",
       "words": [
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
-        { "w": "جَارَتَهَا", "root": "ج و ر", "bs": "komšinicu", "en": "her neighbour" },
-        { "w": "الْجَدِيدَةَ", "root": "ج د د", "bs": "novu", "en": "new" },
-        { "w": "تَعْزِفُ", "root": "ع ز ف", "bs": "svira", "en": "playing" }
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "she found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "جَارَتَهَا",
+          "root": "ج و ر",
+          "bs": "komšinicu",
+          "en": "her neighbour",
+          "lemma": "جَارَةٌ / جَارَاتٌ"
+        },
+        {
+          "w": "الْجَدِيدَةَ",
+          "root": "ج د د",
+          "bs": "novu",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "تَعْزِفُ",
+          "root": "ع ز ف",
+          "bs": "svira",
+          "en": "playing",
+          "lemma": "عَزَفَ يَعْزِفُ"
+        }
       ]
     },
     {
@@ -50,14 +133,37 @@
       "translation": "Nasmijale su se i postale prijateljice od tog dana.",
       "translationEn": "They smiled and became friends from that day on.",
       "words": [
-        { "w": "ابْتَسَمَتَا", "root": "ب س م", "bs": "nasmijale su se", "en": "they smiled" },
-        { "w": "صَارَتَا", "root": "ص ي ر", "bs": "postale su", "en": "they became" },
-        { "w": "صَدِيقَتَيْنِ", "root": "ص د ق", "bs": "prijateljice", "en": "friends" }
+        {
+          "w": "ابْتَسَمَتَا",
+          "root": "ب س م",
+          "bs": "nasmijale su se",
+          "en": "they smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "صَارَتَا",
+          "root": "ص ي ر",
+          "bs": "postale su",
+          "en": "they became",
+          "lemma": "صَارَ يَصِيرُ"
+        },
+        {
+          "w": "صَدِيقَتَيْنِ",
+          "root": "ص د ق",
+          "bs": "prijateljice",
+          "en": "friends",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "music", "neighbour", "friendship"]
+    "tags": [
+      "mystery",
+      "music",
+      "neighbour",
+      "friendship"
+    ]
   }
 }

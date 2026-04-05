@@ -8,11 +8,41 @@
       "translation": "Dijete više voli voće nego slatkiše.",
       "translationEn": "The child likes fruit more than sweets.",
       "words": [
-        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "likes/loves" },
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "الْفَوَاكِهَ", "root": "ف ك ه", "bs": "voće", "en": "fruit" },
-        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više", "en": "more" },
-        { "w": "الْحَلَوَى", "root": "ح ل و", "bs": "slatkiši", "en": "sweets" }
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "likes/loves",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الْفَوَاكِهَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "root": "ك ث ر",
+          "bs": "više",
+          "en": "more",
+          "lemma": "أَكْثَرُ"
+        },
+        {
+          "w": "الْحَلَوَى",
+          "root": "ح ل و",
+          "bs": "slatkiši",
+          "en": "sweets",
+          "lemma": "حَلْوَى"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Svaki dan jede crvenu jabuku nakon škole.",
       "translationEn": "Every day he eats a red apple after school.",
       "words": [
-        { "w": "يَأْكُلُ", "root": "أ ك ل", "bs": "jede", "en": "eats" },
-        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
-        { "w": "تُفَّاحَةً", "root": "ت ف ح", "bs": "jabuka", "en": "apple" },
-        { "w": "حَمْرَاءَ", "root": "ح م ر", "bs": "crvenu", "en": "red" },
-        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" }
+        {
+          "w": "يَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eats",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "تُفَّاحَةً",
+          "root": "ت ف ح",
+          "bs": "jabuka",
+          "en": "apple",
+          "lemma": "تُفَّاحَةٌ / تُفَّاحٌ"
+        },
+        {
+          "w": "حَمْرَاءَ",
+          "root": "ح م ر",
+          "bs": "crvenu",
+          "en": "red",
+          "lemma": "أَحْمَرُ"
+        },
+        {
+          "w": "الْمَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        }
       ]
     },
     {
@@ -32,11 +92,41 @@
       "translation": "Majka mu kaže: Voće je zdravo i dobro za tebe.",
       "translationEn": "His mother says: Fruit is healthy and good for you.",
       "words": [
-        { "w": "تَقُولُ", "root": "ق و ل", "bs": "kaže/govori", "en": "says" },
-        { "w": "أُمُّهُ", "root": "أ م م", "bs": "njegova majka", "en": "his mother" },
-        { "w": "الْفَاكِهَةُ", "root": "ف ك ه", "bs": "voće", "en": "fruit" },
-        { "w": "صِحِّيَّةٌ", "root": "ص ح ح", "bs": "zdravo/zdravstveno", "en": "healthy" },
-        { "w": "جَيِّدَةٌ", "root": "ج و د", "bs": "dobro/dobra", "en": "good" }
+        {
+          "w": "تَقُولُ",
+          "root": "ق و ل",
+          "bs": "kaže/govori",
+          "en": "says",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "أُمُّهُ",
+          "root": "أ م م",
+          "bs": "njegova majka",
+          "en": "his mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "الْفَاكِهَةُ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "صِحِّيَّةٌ",
+          "root": "ص ح ح",
+          "bs": "zdravo/zdravstveno",
+          "en": "healthy",
+          "lemma": "صِحِّيٌّ"
+        },
+        {
+          "w": "جَيِّدَةٌ",
+          "root": "ج و د",
+          "bs": "dobro/dobra",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        }
       ]
     },
     {
@@ -44,10 +134,34 @@
       "translation": "Dijete se slaže i jede sa apetitom.",
       "translationEn": "The child agrees and eats with appetite.",
       "words": [
-        { "w": "يُوَافِقُهَا", "root": "و ف ق", "bs": "slaže se s njom", "en": "agrees with her" },
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "يَأْكُلُ", "root": "أ ك ل", "bs": "jede", "en": "eats" },
-        { "w": "بِشَهِيَّةٍ", "root": "ش ه و", "bs": "s apetitom/pohlepno", "en": "with appetite" }
+        {
+          "w": "يُوَافِقُهَا",
+          "root": "و ف ق",
+          "bs": "slaže se s njom",
+          "en": "agrees with her",
+          "lemma": "وَافَقَ يُوَافِقُ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eats",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "بِشَهِيَّةٍ",
+          "root": "ش ه و",
+          "bs": "s apetitom/pohlepno",
+          "en": "with appetite",
+          "lemma": "شَهِيَّةٌ / شَهِيَّاتٌ"
+        }
       ]
     }
   ],

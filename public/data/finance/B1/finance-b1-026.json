@@ -8,10 +8,34 @@
       "translation": "Nizar je uzeo novac i otišao na pijacu.",
       "translationEn": "Nizar took his money and went to the market.",
       "words": [
-        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
-        { "w": "نُقُودَهُ", "root": "ن ق د", "bs": "njegov novac", "en": "his money" },
-        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca", "en": "market" }
+        {
+          "w": "أَخَذَ",
+          "root": "أ خ ذ",
+          "bs": "uzeo je",
+          "en": "took",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "نُقُودَهُ",
+          "root": "ن ق د",
+          "bs": "njegov novac",
+          "en": "his money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        },
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "pijaca",
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Htio je kupiti poklon za mlađeg brata.",
       "translationEn": "He wanted to buy a gift for his younger brother.",
       "words": [
-        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
-        { "w": "شِرَاءَ", "root": "ش ر ي", "bs": "kupovinu", "en": "to buy" },
-        { "w": "هَدِيَّةٍ", "root": "ه د ي", "bs": "poklon", "en": "gift" },
-        { "w": "الصَّغِيرِ", "root": "ص غ ر", "bs": "mlađeg", "en": "younger" }
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "شِرَاءَ",
+          "root": "ش ر ي",
+          "bs": "kupovinu",
+          "en": "to buy",
+          "lemma": "شِرَاءٌ"
+        },
+        {
+          "w": "هَدِيَّةٍ",
+          "root": "ه د ي",
+          "bs": "poklon",
+          "en": "gift",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "الصَّغِيرِ",
+          "root": "ص غ ر",
+          "bs": "mlađeg",
+          "en": "younger",
+          "lemma": "صَغِيرٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Pogledao je mnoge stvari prije nego što je odabrao.",
       "translationEn": "He looked at many things before choosing.",
       "words": [
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" },
-        { "w": "الأَشْيَاءِ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
-        { "w": "يَخْتَارَ", "root": "خ ي ر", "bs": "odabere", "en": "choosing" }
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "pogledao je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "الأَشْيَاءِ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "يَخْتَارَ",
+          "root": "خ ي ر",
+          "bs": "odabere",
+          "en": "choosing",
+          "lemma": "اخْتَارَ يَخْتَارُ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Kupio je malu igračku po odgovarajućoj cijeni.",
       "translationEn": "He bought a small toy at a suitable price.",
       "words": [
-        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
-        { "w": "لُعْبَةً", "root": "ل ع ب", "bs": "igračka", "en": "toy" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mala", "en": "small" },
-        { "w": "سِعْرٍ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "لُعْبَةً",
+          "root": "ل ع ب",
+          "bs": "igračka",
+          "en": "toy",
+          "lemma": "لُعْبَةٌ / أَلْعَابٌ"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "سِعْرٍ",
+          "root": "س ع ر",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["gift", "market", "siblings"]
+    "tags": [
+      "gift",
+      "market",
+      "siblings"
+    ]
   }
 }

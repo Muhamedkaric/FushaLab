@@ -12,25 +12,29 @@
           "w": "يَلْعَبُ",
           "root": "ل ع ب",
           "bs": "igra",
-          "en": "plays"
+          "en": "plays",
+          "lemma": "لَعِبَ يَلْعَبُ"
         },
         {
           "w": "كُرَةَ",
           "root": "ك ر ر",
           "bs": "lopta",
-          "en": "ball"
+          "en": "ball",
+          "lemma": "كُرَةٌ / كُرَاتٌ"
         },
         {
           "w": "الْقَدَمِ",
           "root": "ق د م",
           "bs": "fudbal",
-          "en": "football"
+          "en": "football",
+          "lemma": "قَدَمٌ / أَقْدَامٌ"
         },
         {
           "w": "أَصْدِقَائِهِ",
           "root": "ص د ق",
           "bs": "prijatelji",
-          "en": "friends"
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         }
       ]
     },
@@ -43,25 +47,29 @@
           "w": "يَشْعُرُ",
           "root": "ش ع ر",
           "bs": "osjeća",
-          "en": "feels"
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
         },
         {
           "w": "بِالسَّعَادَةِ",
           "root": "س ع د",
           "bs": "sreća",
-          "en": "happiness"
+          "en": "happiness",
+          "lemma": "سَعَادَةٌ"
         },
         {
           "w": "وَالنَّشَاطِ",
           "root": "ن ش ط",
           "bs": "živost",
-          "en": "activity"
+          "en": "activity",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
         },
         {
           "w": "اللَّعِبِ",
           "root": "ل ع ب",
           "bs": "igra",
-          "en": "playing"
+          "en": "playing",
+          "lemma": "لَعِبَ يَلْعَبُ"
         }
       ]
     },
@@ -74,19 +82,22 @@
           "w": "الرِّيَاضَةَ",
           "root": "ر و ض",
           "bs": "sport",
-          "en": "sport"
+          "en": "sport",
+          "lemma": "رِيَاضَةٌ / رِيَاضَاتٌ"
         },
         {
           "w": "الْأَصْدِقَاءِ",
           "root": "ص د ق",
           "bs": "prijatelji",
-          "en": "friends"
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "أَمْتَعُ",
           "root": "م ت ع",
           "bs": "zabavniji",
-          "en": "more fun"
+          "en": "more fun",
+          "lemma": "مُمْتِعٌ"
         }
       ]
     },
@@ -99,19 +110,22 @@
           "w": "الْمُبَارَاةِ",
           "root": "ب ر ي",
           "bs": "utakmica",
-          "en": "match"
+          "en": "match",
+          "lemma": "مُبَارَاةٌ / مُبَارَيَاتٌ"
         },
         {
           "w": "يَأْكُلُونَ",
           "root": "أ ك ل",
           "bs": "jedu",
-          "en": "eat"
+          "en": "eat",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "يَتَحَدَّثُونَ",
           "root": "ح د ث",
           "bs": "razgovaraju",
-          "en": "talk"
+          "en": "talk",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
         }
       ]
     }

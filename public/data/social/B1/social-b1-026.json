@@ -8,11 +8,41 @@
       "translation": "Basim igra fudbal sa prijateljima svaki petak.",
       "translationEn": "Basim plays football with his friends every Friday.",
       "words": [
-        { "w": "يَلْعَبُ", "root": "ل ع ب", "bs": "igra", "en": "plays" },
-        { "w": "كُرَةَ", "root": "ك ر و", "bs": "loptu", "en": "ball" },
-        { "w": "القَدَمِ", "root": "ق د م", "bs": "fudbal (noga)", "en": "foot" },
-        { "w": "أَصْدِقَائِهِ", "root": "ص د ق", "bs": "prijatelja", "en": "friends" },
-        { "w": "جُمُعَةٍ", "root": "ج م ع", "bs": "petak", "en": "Friday" }
+        {
+          "w": "يَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "igra",
+          "en": "plays",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "كُرَةَ",
+          "root": "ك ر و",
+          "bs": "loptu",
+          "en": "ball",
+          "lemma": "كُرَةٌ / كُرَاتٌ"
+        },
+        {
+          "w": "القَدَمِ",
+          "root": "ق د م",
+          "bs": "fudbal (noga)",
+          "en": "foot",
+          "lemma": "قَدَمٌ / أَقْدَامٌ"
+        },
+        {
+          "w": "أَصْدِقَائِهِ",
+          "root": "ص د ق",
+          "bs": "prijatelja",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "جُمُعَةٍ",
+          "root": "ج م ع",
+          "bs": "petak",
+          "en": "Friday",
+          "lemma": "جُمُعَةٌ / جُمَعٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Skupljaju se na terenu u četiri popodne.",
       "translationEn": "They gather at the field at four in the afternoon.",
       "words": [
-        { "w": "يَجْتَمِعُونَ", "root": "ج م ع", "bs": "skupljaju se", "en": "they gather" },
-        { "w": "المَلْعَبِ", "root": "ل ع ب", "bs": "terenu", "en": "field" },
-        { "w": "مَسَاءً", "root": "م س و", "bs": "popodne", "en": "afternoon" }
+        {
+          "w": "يَجْتَمِعُونَ",
+          "root": "ج م ع",
+          "bs": "skupljaju se",
+          "en": "they gather",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "المَلْعَبِ",
+          "root": "ل ع ب",
+          "bs": "terenu",
+          "en": "field",
+          "lemma": "مَلْعَبٌ / مَلَاعِبُ"
+        },
+        {
+          "w": "مَسَاءً",
+          "root": "م س و",
+          "bs": "popodne",
+          "en": "afternoon",
+          "lemma": "مَسَاءٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Igraju sat vremena, a zatim se odmaraju.",
       "translationEn": "They play for one hour then rest.",
       "words": [
-        { "w": "يَلْعَبُونَ", "root": "ل ع ب", "bs": "igraju", "en": "they play" },
-        { "w": "مُدَّةِ", "root": "م د د", "bs": "trajanje", "en": "duration" },
-        { "w": "سَاعَةٍ", "root": "س و ع", "bs": "sat", "en": "hour" },
-        { "w": "يَسْتَرِيحُونَ", "root": "ر و ح", "bs": "odmaraju se", "en": "they rest" }
+        {
+          "w": "يَلْعَبُونَ",
+          "root": "ل ع ب",
+          "bs": "igraju",
+          "en": "they play",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "مُدَّةِ",
+          "root": "م د د",
+          "bs": "trajanje",
+          "en": "duration",
+          "lemma": "مُدَّةٌ / مُدَدٌ"
+        },
+        {
+          "w": "سَاعَةٍ",
+          "root": "س و ع",
+          "bs": "sat",
+          "en": "hour",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "يَسْتَرِيحُونَ",
+          "root": "ر و ح",
+          "bs": "odmaraju se",
+          "en": "they rest",
+          "lemma": "اسْتَرَاحَ يَسْتَرِيحُ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Nakon igre piju vodu i razgovaraju.",
       "translationEn": "After the game they drink water and talk.",
       "words": [
-        { "w": "اللُّعْبَةِ", "root": "ل ع ب", "bs": "igre", "en": "game" },
-        { "w": "يَشْرَبُونَ", "root": "ش ر ب", "bs": "piju", "en": "they drink" },
-        { "w": "المَاءَ", "root": "م و ه", "bs": "vodu", "en": "water" },
-        { "w": "يَتَحَدَّثُونَ", "root": "ح د ث", "bs": "razgovaraju", "en": "they talk" }
+        {
+          "w": "اللُّعْبَةِ",
+          "root": "ل ع ب",
+          "bs": "igre",
+          "en": "game",
+          "lemma": "لُعْبَةٌ / أَلْعَابٌ"
+        },
+        {
+          "w": "يَشْرَبُونَ",
+          "root": "ش ر ب",
+          "bs": "piju",
+          "en": "they drink",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "المَاءَ",
+          "root": "م و ه",
+          "bs": "vodu",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "يَتَحَدَّثُونَ",
+          "root": "ح د ث",
+          "bs": "razgovaraju",
+          "en": "they talk",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        }
       ]
     }
   ],

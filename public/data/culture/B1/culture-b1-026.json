@@ -8,10 +8,34 @@
       "translation": "Muslimani se bude prije zore za sehur.",
       "translationEn": "Muslims wake up before dawn for suhoor.",
       "words": [
-        { "w": "يَسْتَيْقِظُ", "root": "ي ق ظ", "bs": "bude se", "en": "wake up" },
-        { "w": "المُسْلِمُونَ", "root": "س ل م", "bs": "muslimani", "en": "Muslims" },
-        { "w": "الفَجْرِ", "root": "ف ج ر", "bs": "zore", "en": "dawn" },
-        { "w": "السُّحُورِ", "root": "س ح ر", "bs": "sehura", "en": "suhoor" }
+        {
+          "w": "يَسْتَيْقِظُ",
+          "root": "ي ق ظ",
+          "bs": "bude se",
+          "en": "wake up",
+          "lemma": "اسْتَيْقَظَ يَسْتَيْقِظُ"
+        },
+        {
+          "w": "المُسْلِمُونَ",
+          "root": "س ل م",
+          "bs": "muslimani",
+          "en": "Muslims",
+          "lemma": "مُسْلِمٌ / مُسْلِمُونَ"
+        },
+        {
+          "w": "الفَجْرِ",
+          "root": "ف ج ر",
+          "bs": "zore",
+          "en": "dawn",
+          "lemma": "فَجْرٌ / فُجُورٌ"
+        },
+        {
+          "w": "السُّحُورِ",
+          "root": "س ح ر",
+          "bs": "sehura",
+          "en": "suhoor",
+          "lemma": "سَحُورٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Jedu lagani obrok i piju vodu.",
       "translationEn": "They eat a light meal and drink water.",
       "words": [
-        { "w": "يَأْكُلُونَ", "root": "أ ك ل", "bs": "jedu", "en": "eat" },
-        { "w": "وَجْبَةً", "root": "و ج ب", "bs": "obrok", "en": "meal" },
-        { "w": "خَفِيفَةً", "root": "خ ف ف", "bs": "lagani", "en": "light" },
-        { "w": "يَشْرَبُونَ", "root": "ش ر ب", "bs": "piju", "en": "drink" },
-        { "w": "المَاءَ", "root": "م و هـ", "bs": "vodu", "en": "water" }
+        {
+          "w": "يَأْكُلُونَ",
+          "root": "أ ك ل",
+          "bs": "jedu",
+          "en": "eat",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "وَجْبَةً",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "meal",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "خَفِيفَةً",
+          "root": "خ ف ف",
+          "bs": "lagani",
+          "en": "light",
+          "lemma": "خَفِيفٌ"
+        },
+        {
+          "w": "يَشْرَبُونَ",
+          "root": "ش ر ب",
+          "bs": "piju",
+          "en": "drink",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "المَاءَ",
+          "root": "م و هـ",
+          "bs": "vodu",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Nakon sehura počinje post.",
       "translationEn": "After suhoor, the fast begins.",
       "words": [
-        { "w": "السُّحُورِ", "root": "س ح ر", "bs": "sehura", "en": "suhoor" },
-        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "begins" },
-        { "w": "الصَّوْمُ", "root": "ص و م", "bs": "post", "en": "fast" }
+        {
+          "w": "السُّحُورِ",
+          "root": "س ح ر",
+          "bs": "sehura",
+          "en": "suhoor",
+          "lemma": "سَحُورٌ"
+        },
+        {
+          "w": "يَبْدَأُ",
+          "root": "ب د أ",
+          "bs": "počinje",
+          "en": "begins",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الصَّوْمُ",
+          "root": "ص و م",
+          "bs": "post",
+          "en": "fast",
+          "lemma": "صَوْمٌ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Sehur je blagoslovena vjerovjesnikova praksa.",
       "translationEn": "Suhoor is a blessed prophetic tradition.",
       "words": [
-        { "w": "السُّحُورُ", "root": "س ح ر", "bs": "sehur", "en": "suhoor" },
-        { "w": "سُنَّةٌ", "root": "س ن ن", "bs": "sunnet", "en": "prophetic tradition" },
-        { "w": "مُبَارَكَةٌ", "root": "ب ر ك", "bs": "blagoslovena", "en": "blessed" }
+        {
+          "w": "السُّحُورُ",
+          "root": "س ح ر",
+          "bs": "sehur",
+          "en": "suhoor",
+          "lemma": "سَحُورٌ"
+        },
+        {
+          "w": "سُنَّةٌ",
+          "root": "س ن ن",
+          "bs": "sunnet",
+          "en": "prophetic tradition",
+          "lemma": "سُنَّةٌ / سُنَنٌ"
+        },
+        {
+          "w": "مُبَارَكَةٌ",
+          "root": "ب ر ك",
+          "bs": "blagoslovena",
+          "en": "blessed",
+          "lemma": "مُبَارَكٌ"
+        }
       ]
     }
   ],

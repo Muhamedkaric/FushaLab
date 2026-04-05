@@ -8,10 +8,34 @@
       "translation": "Kovač je pravio alate od željeza.",
       "translationEn": "The blacksmith used to make tools from iron.",
       "words": [
-        { "w": "الْحَدَّادُ", "root": "ح د د", "bs": "kovač", "en": "the blacksmith" },
-        { "w": "يَصْنَعُ", "root": "ص ن ع", "bs": "pravi", "en": "makes" },
-        { "w": "أَدَوَاتٍ", "root": "أ د و", "bs": "alati", "en": "tools" },
-        { "w": "الْحَدِيدِ", "root": "ح د د", "bs": "željeza", "en": "iron" }
+        {
+          "w": "الْحَدَّادُ",
+          "root": "ح د د",
+          "bs": "kovač",
+          "en": "the blacksmith",
+          "lemma": "حَدَّادٌ / حَدَّادُونَ"
+        },
+        {
+          "w": "يَصْنَعُ",
+          "root": "ص ن ع",
+          "bs": "pravi",
+          "en": "makes",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "أَدَوَاتٍ",
+          "root": "أ د و",
+          "bs": "alati",
+          "en": "tools",
+          "lemma": "أَدَاةٌ / أَدَوَاتٌ"
+        },
+        {
+          "w": "الْحَدِيدِ",
+          "root": "ح د د",
+          "bs": "željeza",
+          "en": "iron",
+          "lemma": "حَدِيدٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Grijao je željezo u vatri, a potom ga udarao.",
       "translationEn": "He would heat the iron in the fire and then hammer it.",
       "words": [
-        { "w": "يُسَخِّنُ", "root": "س خ ن", "bs": "grije", "en": "heats" },
-        { "w": "الْحَدِيدَ", "root": "ح د د", "bs": "željeza", "en": "the iron" },
-        { "w": "النَّارِ", "root": "ن و ر", "bs": "vatra", "en": "the fire" },
-        { "w": "يَطْرُقُهُ", "root": "ط ر ق", "bs": "udara ga", "en": "hammers it" }
+        {
+          "w": "يُسَخِّنُ",
+          "root": "س خ ن",
+          "bs": "grije",
+          "en": "heats",
+          "lemma": "سَخَّنَ يُسَخِّنُ"
+        },
+        {
+          "w": "الْحَدِيدَ",
+          "root": "ح د د",
+          "bs": "željeza",
+          "en": "the iron",
+          "lemma": "حَدِيدٌ"
+        },
+        {
+          "w": "النَّارِ",
+          "root": "ن و ر",
+          "bs": "vatra",
+          "en": "the fire",
+          "lemma": "نَارٌ / نِيرَانٌ"
+        },
+        {
+          "w": "يَطْرُقُهُ",
+          "root": "ط ر ق",
+          "bs": "udara ga",
+          "en": "hammers it",
+          "lemma": "طَرَقَ يَطْرُقُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Napravio je plug za seljaka i ključ za trgovca.",
       "translationEn": "He made a plough for the farmer and a key for the merchant.",
       "words": [
-        { "w": "صَنَعَ", "root": "ص ن ع", "bs": "napravio je", "en": "made" },
-        { "w": "سِكَّةً", "root": "س ك ك", "bs": "plug", "en": "a plough" },
-        { "w": "الْفَلَّاحِ", "root": "ف ل ح", "bs": "seljaka", "en": "the farmer" },
-        { "w": "مِفْتَاحًا", "root": "ف ت ح", "bs": "ključ", "en": "a key" }
+        {
+          "w": "صَنَعَ",
+          "root": "ص ن ع",
+          "bs": "napravio je",
+          "en": "made",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "سِكَّةً",
+          "root": "س ك ك",
+          "bs": "plug",
+          "en": "a plough",
+          "lemma": "سِكَّةٌ / سِكَكٌ"
+        },
+        {
+          "w": "الْفَلَّاحِ",
+          "root": "ف ل ح",
+          "bs": "seljaka",
+          "en": "the farmer",
+          "lemma": "فَلَّاحٌ / فَلَّاحُونَ"
+        },
+        {
+          "w": "مِفْتَاحًا",
+          "root": "ف ت ح",
+          "bs": "ključ",
+          "en": "a key",
+          "lemma": "مِفْتَاحٌ / مَفَاتِيحُ"
+        }
       ]
     },
     {
@@ -41,13 +113,29 @@
       "translation": "Svima je bio potreban kovač.",
       "translationEn": "Everyone needed the blacksmith.",
       "words": [
-        { "w": "يَحْتَاجُونَ", "root": "ح و ج", "bs": "trebaju", "en": "need" },
-        { "w": "الْحَدَّادِ", "root": "ح د د", "bs": "kovač", "en": "the blacksmith" }
+        {
+          "w": "يَحْتَاجُونَ",
+          "root": "ح و ج",
+          "bs": "trebaju",
+          "en": "need",
+          "lemma": "اِحْتَاجَ يَحْتَاجُ"
+        },
+        {
+          "w": "الْحَدَّادِ",
+          "root": "ح د د",
+          "bs": "kovač",
+          "en": "the blacksmith",
+          "lemma": "حَدَّادٌ / حَدَّادُونَ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["crafts", "iron", "trades"]
+    "tags": [
+      "crafts",
+      "iron",
+      "trades"
+    ]
   }
 }

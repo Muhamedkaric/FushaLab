@@ -8,10 +8,34 @@
       "translation": "Učenik je pročitao: «Zdrav duh u zdravom tijelu».",
       "translationEn": "The student read: «A sound mind in a sound body».",
       "words": [
-        { "w": "الطَّالِبُ", "root": "ط ل ب", "bs": "učenik", "en": "student" },
-        { "w": "الْعَقْلُ", "root": "ع ق ل", "bs": "um", "en": "mind" },
-        { "w": "السَّلِيمُ", "root": "س ل م", "bs": "zdrav", "en": "sound" },
-        { "w": "الْجِسْمِ", "root": "ج س م", "bs": "tijelo", "en": "body" }
+        {
+          "w": "الطَّالِبُ",
+          "root": "ط ل ب",
+          "bs": "učenik",
+          "en": "student",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الْعَقْلُ",
+          "root": "ع ق ل",
+          "bs": "um",
+          "en": "mind",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        },
+        {
+          "w": "السَّلِيمُ",
+          "root": "س ل م",
+          "bs": "zdrav",
+          "en": "sound",
+          "lemma": "سَلِيمٌ"
+        },
+        {
+          "w": "الْجِسْمِ",
+          "root": "ج س م",
+          "bs": "tijelo",
+          "en": "body",
+          "lemma": "جِسْمٌ / أَجْسَامٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "To znači da zdravlje tijela pomaže zdravlju uma.",
       "translationEn": "This means that physical health helps mental health.",
       "words": [
-        { "w": "صِحَّةَ", "root": "ص ح ح", "bs": "zdravlje", "en": "health" },
-        { "w": "الْجِسْمِ", "root": "ج س م", "bs": "tijelo", "en": "body" },
-        { "w": "تُسَاعِدُ", "root": "س ع د", "bs": "pomaže", "en": "helps" },
-        { "w": "الْعَقْلِ", "root": "ع ق ل", "bs": "um", "en": "mind" }
+        {
+          "w": "صِحَّةَ",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health",
+          "lemma": "صِحَّةٌ"
+        },
+        {
+          "w": "الْجِسْمِ",
+          "root": "ج س م",
+          "bs": "tijelo",
+          "en": "body",
+          "lemma": "جِسْمٌ / أَجْسَامٌ"
+        },
+        {
+          "w": "تُسَاعِدُ",
+          "root": "س ع د",
+          "bs": "pomaže",
+          "en": "helps",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "الْعَقْلِ",
+          "root": "ع ق ل",
+          "bs": "um",
+          "en": "mind",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Karim svaki dan hoda i jede zdravu hranu.",
       "translationEn": "Karim walks every day and eats healthy food.",
       "words": [
-        { "w": "يَمْشِي", "root": "م ش ي", "bs": "hoda", "en": "walks" },
-        { "w": "يَأْكُلُ", "root": "أ ك ل", "bs": "jede", "en": "eats" },
-        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "صِحِّيًّا", "root": "ص ح ح", "bs": "zdrava", "en": "healthy" }
+        {
+          "w": "يَمْشِي",
+          "root": "م ش ي",
+          "bs": "hoda",
+          "en": "walks",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "يَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jede",
+          "en": "eats",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "طَعَامًا",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "صِحِّيًّا",
+          "root": "ص ح ح",
+          "bs": "zdrava",
+          "en": "healthy",
+          "lemma": "صِحِّيٌّ"
+        }
       ]
     },
     {
@@ -41,14 +113,37 @@
       "translation": "On je uvijek aktivan i razmišlja jasno.",
       "translationEn": "He is always active and thinks clearly.",
       "words": [
-        { "w": "نَشِيطٌ", "root": "ن ش ط", "bs": "aktivan", "en": "active" },
-        { "w": "يُفَكِّرُ", "root": "ف ك ر", "bs": "razmišlja", "en": "thinks" },
-        { "w": "بِوُضُوحٍ", "root": "و ض ح", "bs": "jasno", "en": "clearly" }
+        {
+          "w": "نَشِيطٌ",
+          "root": "ن ش ط",
+          "bs": "aktivan",
+          "en": "active",
+          "lemma": "نَشِيطٌ"
+        },
+        {
+          "w": "يُفَكِّرُ",
+          "root": "ف ك ر",
+          "bs": "razmišlja",
+          "en": "thinks",
+          "lemma": "فَكَّرَ يُفَكِّرُ"
+        },
+        {
+          "w": "بِوُضُوحٍ",
+          "root": "و ض ح",
+          "bs": "jasno",
+          "en": "clearly",
+          "lemma": "وُضُوحٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["health", "proverb", "body", "mind"]
+    "tags": [
+      "health",
+      "proverb",
+      "body",
+      "mind"
+    ]
   }
 }

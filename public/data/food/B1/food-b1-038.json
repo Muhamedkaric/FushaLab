@@ -8,10 +8,34 @@
       "translation": "Mustafa je kupio falafel u maloj prodavnici.",
       "translationEn": "Mustafa bought falafel from the small shop.",
       "words": [
-        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
-        { "w": "فَلَافِلَ", "root": "ف ل ف", "bs": "falafel", "en": "falafel" },
-        { "w": "الدُّكَّانِ", "root": "د ك ك", "bs": "prodavnica/dućan", "en": "shop" },
-        { "w": "الصَّغِيرِ", "root": "ص غ ر", "bs": "male/mali", "en": "small" }
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "فَلَافِلَ",
+          "root": "ف ل ف",
+          "bs": "falafel",
+          "en": "falafel",
+          "lemma": "فَلَافِلُ"
+        },
+        {
+          "w": "الدُّكَّانِ",
+          "root": "د ك ك",
+          "bs": "prodavnica/dućan",
+          "en": "shop",
+          "lemma": "دُكَّانٌ / دَكَاكِينُ"
+        },
+        {
+          "w": "الصَّغِيرِ",
+          "root": "ص غ ر",
+          "bs": "male/mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Stavio ga je u hljeb sa paradajzom i tahinijem.",
       "translationEn": "He put it in the bread with tomatoes and tahini.",
       "words": [
-        { "w": "وَضَعَهُ", "root": "و ض ع", "bs": "stavio ga je", "en": "put it" },
-        { "w": "الْخُبْزِ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
-        { "w": "الطَّمَاطِمِ", "root": "ط م ط", "bs": "paradajz/rajčica", "en": "tomatoes" },
-        { "w": "الطَّحِينَةِ", "root": "ط ح ن", "bs": "tahini/susam pasta", "en": "tahini" }
+        {
+          "w": "وَضَعَهُ",
+          "root": "و ض ع",
+          "bs": "stavio ga je",
+          "en": "put it",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "الْخُبْزِ",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread",
+          "lemma": "خُبْزٌ / أَخْبَازٌ"
+        },
+        {
+          "w": "الطَّمَاطِمِ",
+          "root": "ط م ط",
+          "bs": "paradajz/rajčica",
+          "en": "tomatoes",
+          "lemma": "طَمَاطِمُ"
+        },
+        {
+          "w": "الطَّحِينَةِ",
+          "root": "ط ح ن",
+          "bs": "tahini/susam pasta",
+          "en": "tahini",
+          "lemma": "طَحِينَةٌ / طَحِينَاتٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Jeo ga je dok je hodao ulicom.",
       "translationEn": "He ate it while walking in the street.",
       "words": [
-        { "w": "أَكَلَهُ", "root": "أ ك ل", "bs": "jeo ga je", "en": "ate it" },
-        { "w": "يَمْشِي", "root": "م ش ي", "bs": "hoda/ide", "en": "walking" },
-        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "street" }
+        {
+          "w": "أَكَلَهُ",
+          "root": "أ ك ل",
+          "bs": "jeo ga je",
+          "en": "ate it",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "يَمْشِي",
+          "root": "م ش ي",
+          "bs": "hoda/ide",
+          "en": "walking",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulica",
+          "en": "street",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        }
       ]
     },
     {
@@ -40,9 +106,27 @@
       "translation": "Bio je to brzi obrok ali ukusan.",
       "translationEn": "It was a quick meal but appetizing.",
       "words": [
-        { "w": "وَجْبَةً", "root": "و ج ب", "bs": "obrok/jelo", "en": "meal" },
-        { "w": "سَرِيعَةً", "root": "س ر ع", "bs": "brzu/brz", "en": "quick" },
-        { "w": "شَهِيَّةً", "root": "ش ه و", "bs": "ukusnu/slasnu", "en": "appetizing/tasty" }
+        {
+          "w": "وَجْبَةً",
+          "root": "و ج ب",
+          "bs": "obrok/jelo",
+          "en": "meal",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "سَرِيعَةً",
+          "root": "س ر ع",
+          "bs": "brzu/brz",
+          "en": "quick",
+          "lemma": "سَرِيعٌ"
+        },
+        {
+          "w": "شَهِيَّةً",
+          "root": "ش ه و",
+          "bs": "ukusnu/slasnu",
+          "en": "appetizing/tasty",
+          "lemma": "شَهِيٌّ"
+        }
       ]
     }
   ],

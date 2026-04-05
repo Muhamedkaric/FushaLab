@@ -8,11 +8,41 @@
       "translation": "Porodica je odlučila jesti na otvorenom.",
       "translationEn": "The family decided to eat in the open air.",
       "words": [
-        { "w": "قَرَّرَتِ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "تَأْكُلَ", "root": "أ ك ل", "bs": "da jede/jesti", "en": "to eat" },
-        { "w": "الْهَوَاءِ", "root": "ه و أ", "bs": "zrak/vazduh", "en": "air" },
-        { "w": "الطَّلْقِ", "root": "ط ل ق", "bs": "otvorenom/slobodnom", "en": "open/free" }
+        {
+          "w": "قَرَّرَتِ",
+          "root": "ق ر ر",
+          "bs": "odlučila je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "تَأْكُلَ",
+          "root": "أ ك ل",
+          "bs": "da jede/jesti",
+          "en": "to eat",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الْهَوَاءِ",
+          "root": "ه و أ",
+          "bs": "zrak/vazduh",
+          "en": "air",
+          "lemma": "هَوَاءٌ"
+        },
+        {
+          "w": "الطَّلْقِ",
+          "root": "ط ل ق",
+          "bs": "otvorenom/slobodnom",
+          "en": "open/free",
+          "lemma": "طَلْقٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Odnijeli su hranu u obližnji park.",
       "translationEn": "They took the food to the nearby park.",
       "words": [
-        { "w": "أَخَذُوا", "root": "أ خ ذ", "bs": "uzeli su/odnijeli", "en": "took" },
-        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "park/vrt", "en": "park/garden" },
-        { "w": "الْقَرِيبَةِ", "root": "ق ر ب", "bs": "obližnji/blizu", "en": "nearby" }
+        {
+          "w": "أَخَذُوا",
+          "root": "أ خ ذ",
+          "bs": "uzeli su/odnijeli",
+          "en": "took",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "park/vrt",
+          "en": "park/garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        },
+        {
+          "w": "الْقَرِيبَةِ",
+          "root": "ق ر ب",
+          "bs": "obližnji/blizu",
+          "en": "nearby",
+          "lemma": "قَرِيبٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Prostrijeli su tepih na travi i sjeli.",
       "translationEn": "They spread a mat on the grass and sat down.",
       "words": [
-        { "w": "فَرَشُوا", "root": "ف ر ش", "bs": "prostrijeli su", "en": "spread" },
-        { "w": "سِجَّادَةً", "root": "س ج د", "bs": "tepih/prostirka", "en": "mat/carpet" },
-        { "w": "الْعُشْبِ", "root": "ع ش ب", "bs": "trava", "en": "grass" },
-        { "w": "جَلَسُوا", "root": "ج ل س", "bs": "sjeli su", "en": "sat down" }
+        {
+          "w": "فَرَشُوا",
+          "root": "ف ر ش",
+          "bs": "prostrijeli su",
+          "en": "spread",
+          "lemma": "فَرَشَ يَفْرُشُ"
+        },
+        {
+          "w": "سِجَّادَةً",
+          "root": "س ج د",
+          "bs": "tepih/prostirka",
+          "en": "mat/carpet",
+          "lemma": "سِجَّادَةٌ / سَجَاجِيدُ"
+        },
+        {
+          "w": "الْعُشْبِ",
+          "root": "ع ش ب",
+          "bs": "trava",
+          "en": "grass",
+          "lemma": "عُشْبٌ / أَعْشَابٌ"
+        },
+        {
+          "w": "جَلَسُوا",
+          "root": "ج ل س",
+          "bs": "sjeli su",
+          "en": "sat down",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        }
       ]
     },
     {
@@ -42,9 +120,27 @@
       "translation": "Jeli su i uživali u prirodi oko sebe.",
       "translationEn": "They ate and enjoyed the nature around them.",
       "words": [
-        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
-        { "w": "اسْتَمْتَعُوا", "root": "م ت ع", "bs": "uživali su", "en": "enjoyed" },
-        { "w": "الطَّبِيعَةِ", "root": "ط ب ع", "bs": "priroda", "en": "nature" }
+        {
+          "w": "أَكَلُوا",
+          "root": "أ ك ل",
+          "bs": "jeli su",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "اسْتَمْتَعُوا",
+          "root": "م ت ع",
+          "bs": "uživali su",
+          "en": "enjoyed",
+          "lemma": "اسْتَمْتَعَ يَسْتَمْتِعُ"
+        },
+        {
+          "w": "الطَّبِيعَةِ",
+          "root": "ط ب ع",
+          "bs": "priroda",
+          "en": "nature",
+          "lemma": "طَبِيعَةٌ"
+        }
       ]
     }
   ],

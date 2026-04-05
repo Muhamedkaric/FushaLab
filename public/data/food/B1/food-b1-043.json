@@ -8,11 +8,41 @@
       "translation": "Porodica je pronašla sto u restoranu kraj prozora.",
       "translationEn": "The family found a table in the restaurant by the window.",
       "words": [
-        { "w": "وَجَدَتِ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "طَاوِلَةً", "root": "ط و ل", "bs": "stol/sto", "en": "table" },
-        { "w": "الْمَطْعَمِ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
-        { "w": "النَّافِذَةِ", "root": "ن ف ذ", "bs": "prozor", "en": "window" }
+        {
+          "w": "وَجَدَتِ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "طَاوِلَةً",
+          "root": "ط و ل",
+          "bs": "stol/sto",
+          "en": "table",
+          "lemma": "طَاوِلَةٌ / طَاوِلَاتٌ"
+        },
+        {
+          "w": "الْمَطْعَمِ",
+          "root": "ط ع م",
+          "bs": "restoran",
+          "en": "restaurant",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "النَّافِذَةِ",
+          "root": "ن ف ذ",
+          "bs": "prozor",
+          "en": "window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Dijete je naručilo pizzu a roditelji salatu.",
       "translationEn": "The child ordered pizza and the parents ordered salad.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "naručio je", "en": "ordered" },
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "الْبِيتْزَا", "root": "", "bs": "pizza", "en": "pizza" },
-        { "w": "الْوَالِدَانِ", "root": "و ل د", "bs": "roditelji", "en": "parents" },
-        { "w": "السَّلَطَةَ", "root": "س ل ط", "bs": "salata", "en": "salad" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "naručio je",
+          "en": "ordered",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الْبِيتْزَا",
+          "root": "",
+          "bs": "pizza",
+          "en": "pizza",
+          "lemma": "بِيتْزَا"
+        },
+        {
+          "w": "الْوَالِدَانِ",
+          "root": "و ل د",
+          "bs": "roditelji",
+          "en": "parents",
+          "lemma": "وَالِدٌ / وَالِدَانِ"
+        },
+        {
+          "w": "السَّلَطَةَ",
+          "root": "س ل ط",
+          "bs": "salata",
+          "en": "salad",
+          "lemma": "سَلَطَةٌ"
+        }
       ]
     },
     {
@@ -32,10 +92,34 @@
       "translation": "Malo su čekali i razgovarali za vrijeme čekanja.",
       "translationEn": "They waited a little and talked while waiting.",
       "words": [
-        { "w": "انْتَظَرُوا", "root": "ن ظ ر", "bs": "čekali su", "en": "waited" },
-        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
-        { "w": "أَثْنَاءَ", "root": "ث ن ي", "bs": "za vrijeme/tokom", "en": "while/during" },
-        { "w": "الِانْتِظَارِ", "root": "ن ظ ر", "bs": "čekanje", "en": "waiting" }
+        {
+          "w": "انْتَظَرُوا",
+          "root": "ن ظ ر",
+          "bs": "čekali su",
+          "en": "waited",
+          "lemma": "انْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "تَحَدَّثُوا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "أَثْنَاءَ",
+          "root": "ث ن ي",
+          "bs": "za vrijeme/tokom",
+          "en": "while/during",
+          "lemma": "أَثْنَاءَ"
+        },
+        {
+          "w": "الِانْتِظَارِ",
+          "root": "ن ظ ر",
+          "bs": "čekanje",
+          "en": "waiting",
+          "lemma": "اِنْتِظَارٌ"
+        }
       ]
     },
     {
@@ -43,10 +127,34 @@
       "translation": "Stigla je hrana i jeli su sretni.",
       "translationEn": "The food came and they ate happily.",
       "words": [
-        { "w": "جَاءَ", "root": "ج ي أ", "bs": "stigao je/došao", "en": "came" },
-        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
-        { "w": "بِسَعَادَةٍ", "root": "س ع د", "bs": "sretno/sa srećom", "en": "happily" }
+        {
+          "w": "جَاءَ",
+          "root": "ج ي أ",
+          "bs": "stigao je/došao",
+          "en": "came",
+          "lemma": "جَاءَ يَجِيءُ"
+        },
+        {
+          "w": "الطَّعَامُ",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "أَكَلُوا",
+          "root": "أ ك ل",
+          "bs": "jeli su",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "بِسَعَادَةٍ",
+          "root": "س ع د",
+          "bs": "sretno/sa srećom",
+          "en": "happily",
+          "lemma": "سَعَادَةٌ"
+        }
       ]
     }
   ],

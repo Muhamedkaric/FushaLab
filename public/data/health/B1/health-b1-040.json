@@ -12,24 +12,28 @@
           "w": "اشْتَرَتْ",
           "root": "ش ر ي",
           "bs": "kupila je",
-          "en": "bought"
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
         },
         {
           "w": "الصَّيْدَلِيَّةِ",
           "root": "ص ي د",
           "bs": "apoteka",
-          "en": "pharmacy"
+          "en": "pharmacy",
+          "lemma": "صَيْدَلِيَّةٌ / صَيْدَلِيَّاتٌ"
         },
         {
           "w": "فِيتَامِينَاتٍ",
           "bs": "vitamini",
-          "en": "vitamins"
+          "en": "vitamins",
+          "lemma": "فِيتَامِينٌ / فِيتَامِينَاتٌ"
         },
         {
           "w": "لِلشِّتَاءِ",
           "root": "ش ت و",
           "bs": "za zimu",
-          "en": "for the winter"
+          "en": "for the winter",
+          "lemma": "شِتَاءٌ / أَشْتِيَةٌ"
         }
       ]
     },
@@ -42,30 +46,35 @@
           "w": "نَصَحَهَا",
           "root": "ن ص ح",
           "bs": "savjetovao joj je",
-          "en": "advised her"
+          "en": "advised her",
+          "lemma": "نَصَحَ يَنْصَحُ"
         },
         {
           "w": "الطَّبِيبُ",
           "root": "ط ب ب",
           "bs": "ljekar",
-          "en": "doctor"
+          "en": "doctor",
+          "lemma": "طَبِيبٌ / أَطِبَّاءُ"
         },
         {
           "w": "بِأَخْذِ",
           "root": "أ خ ذ",
           "bs": "uzimanje",
-          "en": "to take"
+          "en": "to take",
+          "lemma": "أَخَذَ يَأْخُذُ"
         },
         {
           "w": "فِيتَامِينِ",
           "bs": "vitamin",
-          "en": "vitamin D"
+          "en": "vitamin D",
+          "lemma": "فِيتَامِينٌ / فِيتَامِينَاتٌ"
         },
         {
           "w": "الشِّتَاءِ",
           "root": "ش ت و",
           "bs": "zima",
-          "en": "winter"
+          "en": "winter",
+          "lemma": "شِتَاءٌ / أَشْتِيَةٌ"
         }
       ]
     },
@@ -78,19 +87,22 @@
           "w": "تَأْخُذُ",
           "root": "أ خ ذ",
           "bs": "uzima",
-          "en": "takes"
+          "en": "takes",
+          "lemma": "أَخَذَ يَأْخُذُ"
         },
         {
           "w": "حَبَّةً",
           "root": "ح ب ب",
           "bs": "tableta",
-          "en": "tablet"
+          "en": "tablet",
+          "lemma": "حَبَّةٌ / حَبَّاتٌ"
         },
         {
           "w": "الْإِفْطَارِ",
           "root": "ف ط ر",
           "bs": "doručak",
-          "en": "breakfast"
+          "en": "breakfast",
+          "lemma": "إِفْطَارٌ"
         }
       ]
     },
@@ -103,19 +115,22 @@
           "w": "تَمْرَضْ",
           "root": "م ر ض",
           "bs": "razbolila se",
-          "en": "got sick"
+          "en": "got sick",
+          "lemma": "مَرِضَ يَمْرَضُ"
         },
         {
           "w": "الشِّتَاءَ",
           "root": "ش ت و",
           "bs": "zima",
-          "en": "winter"
+          "en": "winter",
+          "lemma": "شِتَاءٌ / أَشْتِيَةٌ"
         },
         {
           "w": "سَعِيدَةٌ",
           "root": "س ع د",
           "bs": "sretna",
-          "en": "happy"
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
         }
       ]
     }

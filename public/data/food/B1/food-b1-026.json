@@ -8,11 +8,41 @@
       "translation": "Djevojčica se probudila i tražila pržena jaja.",
       "translationEn": "The little girl woke up and asked for fried eggs.",
       "words": [
-        { "w": "اسْتَيْقَظَتِ", "root": "ي ق ظ", "bs": "probudila se", "en": "woke up" },
-        { "w": "الطِّفْلَةُ", "root": "ط ف ل", "bs": "djevojčica/dijete", "en": "little girl/child" },
-        { "w": "طَلَبَتِ", "root": "ط ل ب", "bs": "tražila je/molila", "en": "asked for" },
-        { "w": "الْبَيْضَ", "root": "ب ي ض", "bs": "jaja", "en": "eggs" },
-        { "w": "الْمَقْلِيَّ", "root": "ق ل ي", "bs": "pržena", "en": "fried" }
+        {
+          "w": "اسْتَيْقَظَتِ",
+          "root": "ي ق ظ",
+          "bs": "probudila se",
+          "en": "woke up",
+          "lemma": "اِسْتَيْقَظَ يَسْتَيْقِظُ"
+        },
+        {
+          "w": "الطِّفْلَةُ",
+          "root": "ط ف ل",
+          "bs": "djevojčica/dijete",
+          "en": "little girl/child",
+          "lemma": "طِفْلَةٌ / طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "طَلَبَتِ",
+          "root": "ط ل ب",
+          "bs": "tražila je/molila",
+          "en": "asked for",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الْبَيْضَ",
+          "root": "ب ي ض",
+          "bs": "jaja",
+          "en": "eggs",
+          "lemma": "بَيْضٌ / بَيْضَةٌ"
+        },
+        {
+          "w": "الْمَقْلِيَّ",
+          "root": "ق ل ي",
+          "bs": "pržena",
+          "en": "fried",
+          "lemma": "مَقْلِيٌّ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Majka je rekla: U redu, donjet ću ti ih.",
       "translationEn": "The mother said: Alright, I will make them for you.",
       "words": [
-        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
-        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "حَسَنًا", "root": "ح س ن", "bs": "u redu/dobro", "en": "alright/good" },
-        { "w": "سَأَحْضِرُهَا", "root": "ح ض ر", "bs": "donjet ću ih", "en": "I will bring/make them" }
+        {
+          "w": "قَالَتِ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "حَسَنًا",
+          "root": "ح س ن",
+          "bs": "u redu/dobro",
+          "en": "alright/good",
+          "lemma": "حَسَنٌ"
+        },
+        {
+          "w": "سَأَحْضِرُهَا",
+          "root": "ح ض ر",
+          "bs": "donjet ću ih",
+          "en": "I will bring/make them",
+          "lemma": "أَحْضَرَ يُحْضِرُ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Pržila je jaja na ulju i dodala sol.",
       "translationEn": "She fried the eggs in oil and added salt.",
       "words": [
-        { "w": "قَلَتِ", "root": "ق ل ي", "bs": "pržila je", "en": "fried" },
-        { "w": "الْبَيْضَ", "root": "ب ي ض", "bs": "jaja", "en": "eggs" },
-        { "w": "الزَّيْتِ", "root": "ز ي ت", "bs": "ulje", "en": "oil" },
-        { "w": "أَضَافَتِ", "root": "ض ي ف", "bs": "dodala je", "en": "added" },
-        { "w": "الْمِلْحَ", "root": "م ل ح", "bs": "sol", "en": "salt" }
+        {
+          "w": "قَلَتِ",
+          "root": "ق ل ي",
+          "bs": "pržila je",
+          "en": "fried",
+          "lemma": "قَلَى يَقْلِي"
+        },
+        {
+          "w": "الْبَيْضَ",
+          "root": "ب ي ض",
+          "bs": "jaja",
+          "en": "eggs",
+          "lemma": "بَيْضٌ / بَيْضَةٌ"
+        },
+        {
+          "w": "الزَّيْتِ",
+          "root": "ز ي ت",
+          "bs": "ulje",
+          "en": "oil",
+          "lemma": "زَيْتٌ / زُيُوتٌ"
+        },
+        {
+          "w": "أَضَافَتِ",
+          "root": "ض ي ف",
+          "bs": "dodala je",
+          "en": "added",
+          "lemma": "أَضَافَ يُضِيفُ"
+        },
+        {
+          "w": "الْمِلْحَ",
+          "root": "م ل ح",
+          "bs": "sol",
+          "en": "salt",
+          "lemma": "مِلْحٌ / أَمْلَاحٌ"
+        }
       ]
     },
     {
@@ -43,10 +127,34 @@
       "translation": "Djevojčica je s apetitom pojela jaja.",
       "translationEn": "The little girl ate the eggs with appetite.",
       "words": [
-        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "pojela je/jela", "en": "ate" },
-        { "w": "الطِّفْلَةُ", "root": "ط ف ل", "bs": "djevojčica", "en": "little girl" },
-        { "w": "الْبَيْضَ", "root": "ب ي ض", "bs": "jaja", "en": "eggs" },
-        { "w": "بِشَهِيَّةٍ", "root": "ش ه و", "bs": "s apetitom/pohlepno", "en": "with appetite/eagerly" }
+        {
+          "w": "أَكَلَتِ",
+          "root": "أ ك ل",
+          "bs": "pojela je/jela",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الطِّفْلَةُ",
+          "root": "ط ف ل",
+          "bs": "djevojčica",
+          "en": "little girl",
+          "lemma": "طِفْلَةٌ / طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الْبَيْضَ",
+          "root": "ب ي ض",
+          "bs": "jaja",
+          "en": "eggs",
+          "lemma": "بَيْضٌ / بَيْضَةٌ"
+        },
+        {
+          "w": "بِشَهِيَّةٍ",
+          "root": "ش ه و",
+          "bs": "s apetitom/pohlepno",
+          "en": "with appetite/eagerly",
+          "lemma": "شَهِيَّةٌ / شَهِيَّاتٌ"
+        }
       ]
     }
   ],

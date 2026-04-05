@@ -8,12 +8,48 @@
       "translation": "Mislim da učenje novog jezika otvara nove horizonte.",
       "translationEn": "I think that learning a new language opens new horizons.",
       "words": [
-        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
-        { "w": "تَعَلُّمَ", "root": "ع ل م", "bs": "učenje", "en": "learning" },
-        { "w": "لُغَةٍ", "root": "ل غ و", "bs": "jezika", "en": "language" },
-        { "w": "جَدِيدَةٍ", "root": "ج د د", "bs": "novog", "en": "new" },
-        { "w": "يَفْتَحُ", "root": "ف ت ح", "bs": "otvara", "en": "opens" },
-        { "w": "آفَاقًا", "root": "أ ف ق", "bs": "horizonte", "en": "horizons" }
+        {
+          "w": "أَظُنُّ",
+          "root": "ظ ن ن",
+          "bs": "mislim",
+          "en": "I think",
+          "lemma": "ظَنَّ يَظُنُّ"
+        },
+        {
+          "w": "تَعَلُّمَ",
+          "root": "ع ل م",
+          "bs": "učenje",
+          "en": "learning",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "لُغَةٍ",
+          "root": "ل غ و",
+          "bs": "jezika",
+          "en": "language",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "root": "ج د د",
+          "bs": "novog",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "يَفْتَحُ",
+          "root": "ف ت ح",
+          "bs": "otvara",
+          "en": "opens",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "آفَاقًا",
+          "root": "أ ف ق",
+          "bs": "horizonte",
+          "en": "horizons",
+          "lemma": "أُفُقٌ / آفَاقٌ"
+        }
       ]
     },
     {
@@ -21,12 +57,48 @@
       "translation": "Kada učim jezik, mogu razgovarati s novim ljudima.",
       "translationEn": "When I learn a language I can talk with new people.",
       "words": [
-        { "w": "أَتَعَلَّمُ", "root": "ع ل م", "bs": "učim", "en": "I learn" },
-        { "w": "لُغَةً", "root": "ل غ و", "bs": "jezik", "en": "language" },
-        { "w": "أَسْتَطِيعُ", "root": "ط و ع", "bs": "mogu", "en": "I can" },
-        { "w": "أَتَحَدَّثَ", "root": "ح د ث", "bs": "razgovarati", "en": "to talk" },
-        { "w": "أُنَاسٍ", "root": "أ ن س", "bs": "ljudima", "en": "people" },
-        { "w": "جُدُدٍ", "root": "ج د د", "bs": "novim", "en": "new" }
+        {
+          "w": "أَتَعَلَّمُ",
+          "root": "ع ل م",
+          "bs": "učim",
+          "en": "I learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "لُغَةً",
+          "root": "ل غ و",
+          "bs": "jezik",
+          "en": "language",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "أَسْتَطِيعُ",
+          "root": "ط و ع",
+          "bs": "mogu",
+          "en": "I can",
+          "lemma": "اسْتَطَاعَ يَسْتَطِيعُ"
+        },
+        {
+          "w": "أَتَحَدَّثَ",
+          "root": "ح د ث",
+          "bs": "razgovarati",
+          "en": "to talk",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "أُنَاسٍ",
+          "root": "أ ن س",
+          "bs": "ljudima",
+          "en": "people",
+          "lemma": "إِنْسَانٌ / أُنَاسٌ"
+        },
+        {
+          "w": "جُدُدٍ",
+          "root": "ج د د",
+          "bs": "novim",
+          "en": "new",
+          "lemma": "جَدِيدٌ / جُدُدٌ"
+        }
       ]
     },
     {
@@ -34,10 +106,34 @@
       "translation": "Svaki jezik nas uči novoj kulturi.",
       "translationEn": "Every language teaches us a new culture.",
       "words": [
-        { "w": "لُغَةٍ", "root": "ل غ و", "bs": "jezik", "en": "language" },
-        { "w": "تُعَلِّمُنَا", "root": "ع ل م", "bs": "uči nas", "en": "teaches us" },
-        { "w": "ثَقَافَةً", "root": "ث ق ف", "bs": "kulturi", "en": "culture" },
-        { "w": "جَدِيدَةً", "root": "ج د د", "bs": "novoj", "en": "new" }
+        {
+          "w": "لُغَةٍ",
+          "root": "ل غ و",
+          "bs": "jezik",
+          "en": "language",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "تُعَلِّمُنَا",
+          "root": "ع ل م",
+          "bs": "uči nas",
+          "en": "teaches us",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "ثَقَافَةً",
+          "root": "ث ق ف",
+          "bs": "kulturi",
+          "en": "culture",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "جَدِيدَةً",
+          "root": "ج د د",
+          "bs": "novoj",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -45,16 +141,51 @@
       "translation": "Volim učiti jezike jer su zabavni i korisni.",
       "translationEn": "I like learning languages because they are enjoyable and useful.",
       "words": [
-        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
-        { "w": "تَعَلُّمَ", "root": "ع ل م", "bs": "učiti", "en": "learning" },
-        { "w": "اللُّغَاتِ", "root": "ل غ و", "bs": "jezike", "en": "languages" },
-        { "w": "مُمْتِعَةٌ", "root": "م ت ع", "bs": "zabavni", "en": "enjoyable" },
-        { "w": "مُفِيدَةٌ", "root": "ف ي د", "bs": "korisni", "en": "useful" }
+        {
+          "w": "أُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "volim",
+          "en": "I like",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "تَعَلُّمَ",
+          "root": "ع ل م",
+          "bs": "učiti",
+          "en": "learning",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "اللُّغَاتِ",
+          "root": "ل غ و",
+          "bs": "jezike",
+          "en": "languages",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "مُمْتِعَةٌ",
+          "root": "م ت ع",
+          "bs": "zabavni",
+          "en": "enjoyable",
+          "lemma": "مُمْتِعٌ"
+        },
+        {
+          "w": "مُفِيدَةٌ",
+          "root": "ف ي د",
+          "bs": "korisni",
+          "en": "useful",
+          "lemma": "مُفِيدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "language-learning", "culture", "education"]
+    "tags": [
+      "opinion",
+      "language-learning",
+      "culture",
+      "education"
+    ]
   }
 }

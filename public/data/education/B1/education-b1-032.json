@@ -8,10 +8,34 @@
       "translation": "Nastavnica je govorila o važnosti zdravlja.",
       "translationEn": "The teacher talked about the importance of health.",
       "words": [
-        { "w": "تَحَدَّثَتِ", "root": "ح د ث", "bs": "govorila je", "en": "talked" },
-        { "w": "المُعَلِّمَةُ", "root": "ع ل م", "bs": "nastavnica", "en": "teacher" },
-        { "w": "أَهَمِّيَّةِ", "root": "أ ه م", "bs": "važnost", "en": "importance" },
-        { "w": "الصِّحَّةِ", "root": "ص ح ح", "bs": "zdravlje", "en": "health" }
+        {
+          "w": "تَحَدَّثَتِ",
+          "root": "ح د ث",
+          "bs": "govorila je",
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "المُعَلِّمَةُ",
+          "root": "ع ل م",
+          "bs": "nastavnica",
+          "en": "teacher",
+          "lemma": "مُعَلِّمَةٌ / مُعَلِّمَاتٌ"
+        },
+        {
+          "w": "أَهَمِّيَّةِ",
+          "root": "أ ه م",
+          "bs": "važnost",
+          "en": "importance",
+          "lemma": "أَهَمِّيَّةٌ"
+        },
+        {
+          "w": "الصِّحَّةِ",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health",
+          "lemma": "صِحَّةٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Rekla je da pranje ruku sprečava bolesti.",
       "translationEn": "She said that washing hands prevents diseases.",
       "words": [
-        { "w": "غَسْلَ", "root": "غ س ل", "bs": "pranje", "en": "washing" },
-        { "w": "الأَيْدِي", "root": "ي د ي", "bs": "ruke", "en": "hands" },
-        { "w": "يَمْنَعُ", "root": "م ن ع", "bs": "sprečava", "en": "prevents" },
-        { "w": "الأَمْرَاضَ", "root": "م ر ض", "bs": "bolesti", "en": "diseases" }
+        {
+          "w": "غَسْلَ",
+          "root": "غ س ل",
+          "bs": "pranje",
+          "en": "washing",
+          "lemma": "غَسْلٌ"
+        },
+        {
+          "w": "الأَيْدِي",
+          "root": "ي د ي",
+          "bs": "ruke",
+          "en": "hands",
+          "lemma": "يَدٌ / أَيْدٍ"
+        },
+        {
+          "w": "يَمْنَعُ",
+          "root": "م ن ع",
+          "bs": "sprečava",
+          "en": "prevents",
+          "lemma": "مَنَعَ يَمْنَعُ"
+        },
+        {
+          "w": "الأَمْرَاضَ",
+          "root": "م ر ض",
+          "bs": "bolesti",
+          "en": "diseases",
+          "lemma": "مَرَضٌ / أَمْرَاضٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Zamolila je učenike da peru ruke prije jela.",
       "translationEn": "She asked the students to wash their hands before eating.",
       "words": [
-        { "w": "طَلَبَتْ", "root": "ط ل ب", "bs": "zamolila je", "en": "asked" },
-        { "w": "الطُّلَّابِ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
-        { "w": "يَغْسِلُوا", "root": "غ س ل", "bs": "da peru", "en": "to wash" },
-        { "w": "أَيْدِيَهُمْ", "root": "ي د ي", "bs": "njihove ruke", "en": "their hands" }
+        {
+          "w": "طَلَبَتْ",
+          "root": "ط ل ب",
+          "bs": "zamolila je",
+          "en": "asked",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "يَغْسِلُوا",
+          "root": "غ س ل",
+          "bs": "da peru",
+          "en": "to wash",
+          "lemma": "غَسَلَ يَغْسِلُ"
+        },
+        {
+          "w": "أَيْدِيَهُمْ",
+          "root": "ي د ي",
+          "bs": "njihove ruke",
+          "en": "their hands",
+          "lemma": "يَدٌ / أَيْدٍ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Učenici su obećali da će slijediti ovu naviku.",
       "translationEn": "The students promised to follow this habit.",
       "words": [
-        { "w": "وَعَدَ", "root": "و ع د", "bs": "obećali su", "en": "promised" },
-        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
-        { "w": "يَتَّبِعُوا", "root": "ت ب ع", "bs": "da slijede", "en": "to follow" },
-        { "w": "العَادَةَ", "root": "ع و د", "bs": "navika", "en": "habit" }
+        {
+          "w": "وَعَدَ",
+          "root": "و ع د",
+          "bs": "obećali su",
+          "en": "promised",
+          "lemma": "وَعَدَ يَعِدُ"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "يَتَّبِعُوا",
+          "root": "ت ب ع",
+          "bs": "da slijede",
+          "en": "to follow",
+          "lemma": "اِتَّبَعَ يَتَّبِعُ"
+        },
+        {
+          "w": "العَادَةَ",
+          "root": "ع و د",
+          "bs": "navika",
+          "en": "habit",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        }
       ]
     },
     {
@@ -52,14 +148,36 @@
       "translation": "Nastavnica je bila sretna zbog njihovog interesovanja.",
       "translationEn": "The teacher was happy with their interest.",
       "words": [
-        { "w": "المُعَلِّمَةُ", "root": "ع ل م", "bs": "nastavnica", "en": "teacher" },
-        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
-        { "w": "اهْتِمَامِهِمْ", "root": "ه م م", "bs": "njihovo interesovanje", "en": "their interest" }
+        {
+          "w": "المُعَلِّمَةُ",
+          "root": "ع ل م",
+          "bs": "nastavnica",
+          "en": "teacher",
+          "lemma": "مُعَلِّمَةٌ / مُعَلِّمَاتٌ"
+        },
+        {
+          "w": "سَعِيدَةً",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "اهْتِمَامِهِمْ",
+          "root": "ه م م",
+          "bs": "njihovo interesovanje",
+          "en": "their interest",
+          "lemma": "اِهْتِمَامٌ / اِهْتِمَامَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["health", "hygiene", "school"]
+    "tags": [
+      "health",
+      "hygiene",
+      "school"
+    ]
   }
 }

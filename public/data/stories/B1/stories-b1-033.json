@@ -8,10 +8,34 @@
       "translation": "Bio je pastir po imenu Nuh koji je čuvao ovce blizu rijeke.",
       "translationEn": "There was a shepherd named Nuh who tended sheep near the river.",
       "words": [
-        { "w": "رَاعٍ", "root": "ر ع ي", "bs": "pastir", "en": "shepherd" },
-        { "w": "يَرْعَى", "root": "ر ع ي", "bs": "čuvao je", "en": "tended" },
-        { "w": "الْغَنَمَ", "root": "غ ن م", "bs": "ovce", "en": "sheep" },
-        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "river" }
+        {
+          "w": "رَاعٍ",
+          "root": "ر ع ي",
+          "bs": "pastir",
+          "en": "shepherd",
+          "lemma": "رَاعٍ / رُعَاةٌ"
+        },
+        {
+          "w": "يَرْعَى",
+          "root": "ر ع ي",
+          "bs": "čuvao je",
+          "en": "tended",
+          "lemma": "رَعَى يَرْعَى"
+        },
+        {
+          "w": "الْغَنَمَ",
+          "root": "غ ن م",
+          "bs": "ovce",
+          "en": "sheep",
+          "lemma": "غَنَمٌ / أَغْنَامٌ"
+        },
+        {
+          "w": "النَّهْرِ",
+          "root": "ن ه ر",
+          "bs": "rijeka",
+          "en": "river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Vidio je veliku ribu koja se zaglavila između stijena.",
       "translationEn": "He saw a large fish stuck between the rocks.",
       "words": [
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
-        { "w": "سَمَكَةً", "root": "س م ك", "bs": "riba", "en": "fish" },
-        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "velika", "en": "large" },
-        { "w": "عَلِقَتْ", "root": "ع ل ق", "bs": "zaglavila se", "en": "stuck" },
-        { "w": "الصُّخُورِ", "root": "ص خ ر", "bs": "stijene", "en": "rocks" }
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "سَمَكَةً",
+          "root": "س م ك",
+          "bs": "riba",
+          "en": "fish",
+          "lemma": "سَمَكَةٌ / سَمَكٌ"
+        },
+        {
+          "w": "كَبِيرَةً",
+          "root": "ك ب ر",
+          "bs": "velika",
+          "en": "large",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "عَلِقَتْ",
+          "root": "ع ل ق",
+          "bs": "zaglavila se",
+          "en": "stuck",
+          "lemma": "عَلِقَ يَعْلَقُ"
+        },
+        {
+          "w": "الصُّخُورِ",
+          "root": "ص خ ر",
+          "bs": "stijene",
+          "en": "rocks",
+          "lemma": "صَخْرَةٌ / صُخُورٌ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Ušao je u vodu i rukom je pomjerao stijenu.",
       "translationEn": "He went into the water and moved the rock with his hand.",
       "words": [
-        { "w": "نَزَلَ", "root": "ن ز ل", "bs": "ušao je", "en": "went into" },
-        { "w": "الْمَاءِ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "حَرَّكَ", "root": "ح ر ك", "bs": "pomjerao je", "en": "moved" },
-        { "w": "الصَّخْرَةَ", "root": "ص خ ر", "bs": "stijena", "en": "rock" },
-        { "w": "بِيَدِهِ", "root": "ي د ي", "bs": "svojom rukom", "en": "with his hand" }
+        {
+          "w": "نَزَلَ",
+          "root": "ن ز ل",
+          "bs": "ušao je",
+          "en": "went into",
+          "lemma": "نَزَلَ يَنْزِلُ"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "حَرَّكَ",
+          "root": "ح ر ك",
+          "bs": "pomjerao je",
+          "en": "moved",
+          "lemma": "حَرَّكَ يُحَرِّكُ"
+        },
+        {
+          "w": "الصَّخْرَةَ",
+          "root": "ص خ ر",
+          "bs": "stijena",
+          "en": "rock",
+          "lemma": "صَخْرَةٌ / صُخُورٌ"
+        },
+        {
+          "w": "بِيَدِهِ",
+          "root": "ي د ي",
+          "bs": "svojom rukom",
+          "en": "with his hand",
+          "lemma": "يَدٌ / أَيْدٍ"
+        }
       ]
     },
     {
@@ -43,15 +127,44 @@
       "translation": "Riba je uplovila u vodu a Nuh je radosno gledao za njom.",
       "translationEn": "The fish swam away in the water while Nuh watched it joyfully.",
       "words": [
-        { "w": "انْطَلَقَتِ", "root": "ط ل ق", "bs": "uplovila je", "en": "swam away" },
-        { "w": "السَّمَكَةُ", "root": "س م ك", "bs": "riba", "en": "fish" },
-        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gledao je", "en": "watched" },
-        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "radosno", "en": "joyfully" }
+        {
+          "w": "انْطَلَقَتِ",
+          "root": "ط ل ق",
+          "bs": "uplovila je",
+          "en": "swam away",
+          "lemma": "اِنْطَلَقَ يَنْطَلِقُ"
+        },
+        {
+          "w": "السَّمَكَةُ",
+          "root": "س م ك",
+          "bs": "riba",
+          "en": "fish",
+          "lemma": "سَمَكَةٌ / سَمَكٌ"
+        },
+        {
+          "w": "يَنْظُرُ",
+          "root": "ن ظ ر",
+          "bs": "gledao je",
+          "en": "watched",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "بِفَرَحٍ",
+          "root": "ف ر ح",
+          "bs": "radosno",
+          "en": "joyfully",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["shepherd", "river", "fish", "kindness"]
+    "tags": [
+      "shepherd",
+      "river",
+      "fish",
+      "kindness"
+    ]
   }
 }

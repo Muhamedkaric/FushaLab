@@ -12,31 +12,36 @@
           "w": "أَكَلَ",
           "root": "أ ك ل",
           "bs": "jelo je",
-          "en": "ate"
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "الطِّفْلُ",
           "root": "ط ف ل",
           "bs": "dijete",
-          "en": "the child"
+          "en": "the child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "حَمِدَ",
           "root": "ح م د",
           "bs": "zahvalilo je",
-          "en": "thanked"
+          "en": "thanked",
+          "lemma": "حَمِدَ يَحْمَدُ"
         },
         {
           "w": "اللَّهَ",
           "root": "أ ل ه",
           "bs": "Allahu",
-          "en": "God"
+          "en": "God",
+          "lemma": "اللَّهُ"
         },
         {
           "w": "الطَّعَامِ",
           "root": "ط ع م",
           "bs": "hrane",
-          "en": "the meal"
+          "en": "the meal",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         }
       ]
     },
@@ -49,25 +54,29 @@
           "w": "سَأَلَهُ",
           "root": "س أ ل",
           "bs": "upitao ga je",
-          "en": "asked him"
+          "en": "asked him",
+          "lemma": "سَأَلَ يَسْأَلُ"
         },
         {
           "w": "أَبُوهُ",
           "root": "أ ب و",
           "bs": "otac",
-          "en": "his father"
+          "en": "his father",
+          "lemma": "أَبٌ / آبَاءٌ"
         },
         {
           "w": "تَقُولُ",
           "root": "ق و ل",
           "bs": "kažeš",
-          "en": "say"
+          "en": "say",
+          "lemma": "قَالَ يَقُولُ"
         },
         {
           "w": "الْحَمْدُ لِلَّهِ",
           "root": "ح م د",
           "bs": "Elhamdulillah",
-          "en": "Alhamdulillah"
+          "en": "Alhamdulillah",
+          "lemma": "الْحَمْدُ لِلَّهِ"
         }
       ]
     },
@@ -80,19 +89,22 @@
           "w": "اللَّهَ",
           "root": "أ ل ه",
           "bs": "Allah",
-          "en": "God"
+          "en": "God",
+          "lemma": "اللَّهُ"
         },
         {
           "w": "أَعْطَانَا",
           "root": "ع ط و",
           "bs": "dao nam je",
-          "en": "gave us"
+          "en": "gave us",
+          "lemma": "أَعْطَى يُعْطِي"
         },
         {
           "w": "الطَّعَامَ",
           "root": "ط ع م",
           "bs": "hranu",
-          "en": "the food"
+          "en": "the food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         }
       ]
     },
@@ -105,19 +117,22 @@
           "w": "ابْتَسَمَ",
           "root": "ب س م",
           "bs": "nasmiješio se",
-          "en": "smiled"
+          "en": "smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
         },
         {
           "w": "الْأَبُ",
           "root": "أ ب و",
           "bs": "otac",
-          "en": "the father"
+          "en": "the father",
+          "lemma": "أَبٌ / آبَاءٌ"
         },
         {
           "w": "أَحْسَنْتَ",
           "root": "ح س ن",
           "bs": "bravo",
-          "en": "well done"
+          "en": "well done",
+          "lemma": "أَحْسَنَ يُحْسِنُ"
         }
       ]
     }

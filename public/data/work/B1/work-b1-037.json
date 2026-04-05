@@ -8,10 +8,34 @@
       "translation": "Merwa radi kao sekretarica u opštinskom uredu.",
       "translationEn": "Marwa works as a secretary in the municipality office.",
       "words": [
-        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "كَاتِبَةً", "root": "ك ت ب", "bs": "sekretarica/pisar", "en": "secretary/clerk (f)" },
-        { "w": "مَكْتَبِ", "root": "ك ت ب", "bs": "ured/kancelarija", "en": "office" },
-        { "w": "الْبَلَدِيَّةِ", "root": "ب ل د", "bs": "opština/općina", "en": "municipality" }
+        {
+          "w": "تَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "كَاتِبَةً",
+          "root": "ك ت ب",
+          "bs": "sekretarica/pisar",
+          "en": "secretary/clerk (f)",
+          "lemma": "كَاتِبٌ / كُتَّابٌ"
+        },
+        {
+          "w": "مَكْتَبِ",
+          "root": "ك ت ب",
+          "bs": "ured/kancelarija",
+          "en": "office",
+          "lemma": "مَكْتَبٌ / مَكَاتِبُ"
+        },
+        {
+          "w": "الْبَلَدِيَّةِ",
+          "root": "ب ل د",
+          "bs": "opština/općina",
+          "en": "municipality",
+          "lemma": "بَلَدِيَّةٌ / بَلَدِيَّاتٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Prima stranke i upućuje ih u odgovarajući odjel.",
       "translationEn": "She receives visitors and directs them to the right department.",
       "words": [
-        { "w": "تَسْتَقْبِلُ", "root": "ق ب ل", "bs": "prima/dočekuje", "en": "receives/welcomes" },
-        { "w": "الْمُرَاجِعِينَ", "root": "ر ج ع", "bs": "stranke/posjetioci", "en": "visitors/clients" },
-        { "w": "تُوَجِّهُهُمْ", "root": "و ج ه", "bs": "upućuje ih", "en": "directs them" },
-        { "w": "الْقِسْمِ", "root": "ق س م", "bs": "odjel/sektor", "en": "department" },
-        { "w": "الْمُنَاسِبِ", "root": "ن س ب", "bs": "odgovarajući/prikladni", "en": "suitable/right" }
+        {
+          "w": "تَسْتَقْبِلُ",
+          "root": "ق ب ل",
+          "bs": "prima/dočekuje",
+          "en": "receives/welcomes",
+          "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ"
+        },
+        {
+          "w": "الْمُرَاجِعِينَ",
+          "root": "ر ج ع",
+          "bs": "stranke/posjetioci",
+          "en": "visitors/clients",
+          "lemma": "مُرَاجِعٌ / مُرَاجِعُونَ"
+        },
+        {
+          "w": "تُوَجِّهُهُمْ",
+          "root": "و ج ه",
+          "bs": "upućuje ih",
+          "en": "directs them",
+          "lemma": "وَجَّهَ يُوَجِّهُ"
+        },
+        {
+          "w": "الْقِسْمِ",
+          "root": "ق س م",
+          "bs": "odjel/sektor",
+          "en": "department",
+          "lemma": "قِسْمٌ / أَقْسَامٌ"
+        },
+        {
+          "w": "الْمُنَاسِبِ",
+          "root": "ن س ب",
+          "bs": "odgovarajući/prikladni",
+          "en": "suitable/right",
+          "lemma": "مُنَاسِبٌ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Strpljivo odgovara na pitanja i objašnjava procedure.",
       "translationEn": "She answers questions with patience and explains procedures.",
       "words": [
-        { "w": "تُجِيبُ", "root": "ج و ب", "bs": "odgovara", "en": "answers" },
-        { "w": "الْأَسْئِلَةِ", "root": "س أ ل", "bs": "pitanja", "en": "questions" },
-        { "w": "بِصَبْرٍ", "root": "ص ب ر", "bs": "strpljivo", "en": "patiently" },
-        { "w": "تَشْرَحُ", "root": "ش ر ح", "bs": "objašnjava", "en": "explains" },
-        { "w": "الْإِجْرَاءَاتِ", "root": "ج ر أ", "bs": "procedure/postupci", "en": "procedures" }
+        {
+          "w": "تُجِيبُ",
+          "root": "ج و ب",
+          "bs": "odgovara",
+          "en": "answers",
+          "lemma": "أَجَابَ يُجِيبُ"
+        },
+        {
+          "w": "الْأَسْئِلَةِ",
+          "root": "س أ ل",
+          "bs": "pitanja",
+          "en": "questions",
+          "lemma": "سُؤَالٌ / أَسْئِلَةٌ"
+        },
+        {
+          "w": "بِصَبْرٍ",
+          "root": "ص ب ر",
+          "bs": "strpljivo",
+          "en": "patiently",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "تَشْرَحُ",
+          "root": "ش ر ح",
+          "bs": "objašnjava",
+          "en": "explains",
+          "lemma": "شَرَحَ يَشْرَحُ"
+        },
+        {
+          "w": "الْإِجْرَاءَاتِ",
+          "root": "ج ر أ",
+          "bs": "procedure/postupci",
+          "en": "procedures",
+          "lemma": "إِجْرَاءٌ / إِجْرَاءَاتٌ"
+        }
       ]
     },
     {
@@ -43,15 +127,44 @@
       "translation": "Ljudi izlaze zadovoljni jer im ona dobro pomaže.",
       "translationEn": "People leave satisfied because she helps them well.",
       "words": [
-        { "w": "يَخْرُجُ", "root": "خ ر ج", "bs": "izlaze", "en": "leave/exit" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "رَاضِينَ", "root": "ر ض و", "bs": "zadovoljni", "en": "satisfied" },
-        { "w": "تُسَاعِدُهُمْ", "root": "س ع د", "bs": "pomaže im", "en": "helps them" }
+        {
+          "w": "يَخْرُجُ",
+          "root": "خ ر ج",
+          "bs": "izlaze",
+          "en": "leave/exit",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "رَاضِينَ",
+          "root": "ر ض و",
+          "bs": "zadovoljni",
+          "en": "satisfied",
+          "lemma": "رَاضٍ"
+        },
+        {
+          "w": "تُسَاعِدُهُمْ",
+          "root": "س ع د",
+          "bs": "pomaže im",
+          "en": "helps them",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["secretary", "municipality", "public service", "reception"]
+    "tags": [
+      "secretary",
+      "municipality",
+      "public service",
+      "reception"
+    ]
   }
 }

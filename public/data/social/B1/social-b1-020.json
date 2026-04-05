@@ -8,10 +8,34 @@
       "translation": "Učenica je zamolila prijateljicu da joj pomogne.",
       "translationEn": "The student asked her friend to help her.",
       "words": [
-        { "w": "طَلَبَتِ", "root": "ط ل ب", "bs": "zamolila je", "en": "asked" },
-        { "w": "الطَّالِبَةُ", "root": "ط ل ب", "bs": "učenica", "en": "student" },
-        { "w": "صَدِيقَتِهَا", "root": "ص د ق", "bs": "prijateljicom", "en": "friend" },
-        { "w": "مُسَاعَدَتَهَا", "root": "س ع د", "bs": "pomoć", "en": "help" }
+        {
+          "w": "طَلَبَتِ",
+          "root": "ط ل ب",
+          "bs": "zamolila je",
+          "en": "asked",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الطَّالِبَةُ",
+          "root": "ط ل ب",
+          "bs": "učenica",
+          "en": "student",
+          "lemma": "طَالِبَةٌ / طَالِبَاتٌ"
+        },
+        {
+          "w": "صَدِيقَتِهَا",
+          "root": "ص د ق",
+          "bs": "prijateljicom",
+          "en": "friend",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        },
+        {
+          "w": "مُسَاعَدَتَهَا",
+          "root": "س ع د",
+          "bs": "pomoć",
+          "en": "help",
+          "lemma": "مُسَاعَدَةٌ / مُسَاعَدَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Nije razumjela novu lekciju iz matematike.",
       "translationEn": "She didn't understand the new mathematics lesson.",
       "words": [
-        { "w": "تَفْهَمِ", "root": "ف هـ م", "bs": "razumjela je", "en": "understand" },
-        { "w": "الدَّرْسَ", "root": "د ر س", "bs": "lekciju", "en": "lesson" },
-        { "w": "الجَدِيدَ", "root": "ج د د", "bs": "novu", "en": "new" },
-        { "w": "الرِّيَاضِيَّاتِ", "root": "ر ي ض", "bs": "matematike", "en": "mathematics" }
+        {
+          "w": "تَفْهَمِ",
+          "root": "ف هـ م",
+          "bs": "razumjela je",
+          "en": "understand",
+          "lemma": "فَهِمَ يَفْهَمُ"
+        },
+        {
+          "w": "الدَّرْسَ",
+          "root": "د ر س",
+          "bs": "lekciju",
+          "en": "lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
+        },
+        {
+          "w": "الجَدِيدَ",
+          "root": "ج د د",
+          "bs": "novu",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "الرِّيَاضِيَّاتِ",
+          "root": "ر ي ض",
+          "bs": "matematike",
+          "en": "mathematics",
+          "lemma": "رِيَاضِيَّاتٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Sjele su zajedno i prijateljica joj je objasnila.",
       "translationEn": "They sat together and the friend explained to her.",
       "words": [
-        { "w": "جَلَسَتَا", "root": "ج ل س", "bs": "sjele su", "en": "sat" },
-        { "w": "شَرَحَتْ", "root": "ش ر ح", "bs": "objasnila je", "en": "explained" },
-        { "w": "الصَّدِيقَةُ", "root": "ص د ق", "bs": "prijateljica", "en": "friend" }
+        {
+          "w": "جَلَسَتَا",
+          "root": "ج ل س",
+          "bs": "sjele su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "شَرَحَتْ",
+          "root": "ش ر ح",
+          "bs": "objasnila je",
+          "en": "explained",
+          "lemma": "شَرَحَ يَشْرَحُ"
+        },
+        {
+          "w": "الصَّدِيقَةُ",
+          "root": "ص د ق",
+          "bs": "prijateljica",
+          "en": "friend",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        }
       ]
     },
     {
@@ -40,9 +106,27 @@
       "translation": "Na kraju je razumjela i zahvalila prijateljici.",
       "translationEn": "She finally understood and thanked her friend.",
       "words": [
-        { "w": "فَهِمَتْ", "root": "ف هـ م", "bs": "razumjela je", "en": "understood" },
-        { "w": "شَكَرَتْ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
-        { "w": "صَدِيقَتَهَا", "root": "ص د ق", "bs": "prijateljicom", "en": "friend" }
+        {
+          "w": "فَهِمَتْ",
+          "root": "ف هـ م",
+          "bs": "razumjela je",
+          "en": "understood",
+          "lemma": "فَهِمَ يَفْهَمُ"
+        },
+        {
+          "w": "شَكَرَتْ",
+          "root": "ش ك ر",
+          "bs": "zahvalila je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "صَدِيقَتَهَا",
+          "root": "ص د ق",
+          "bs": "prijateljicom",
+          "en": "friend",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        }
       ]
     }
   ],

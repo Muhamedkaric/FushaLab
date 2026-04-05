@@ -8,10 +8,34 @@
       "translation": "Pohvala podstiče čovjeka da nastavi.",
       "translationEn": "Praise encourages a person to continue.",
       "words": [
-        { "w": "الْمَدِيحُ", "root": "م د ح", "bs": "pohvala", "en": "praise" },
-        { "w": "يُشَجِّعُ", "root": "ش ج ع", "bs": "podstiče", "en": "encourages" },
-        { "w": "الإِنْسَانَ", "root": "أ ن س", "bs": "čovjeka", "en": "person" },
-        { "w": "الاسْتِمْرَارِ", "root": "م ر ر", "bs": "nastavak", "en": "continue" }
+        {
+          "w": "الْمَدِيحُ",
+          "root": "م د ح",
+          "bs": "pohvala",
+          "en": "praise",
+          "lemma": "مَدِيحٌ"
+        },
+        {
+          "w": "يُشَجِّعُ",
+          "root": "ش ج ع",
+          "bs": "podstiče",
+          "en": "encourages",
+          "lemma": "شَجَّعَ يُشَجِّعُ"
+        },
+        {
+          "w": "الإِنْسَانَ",
+          "root": "أ ن س",
+          "bs": "čovjeka",
+          "en": "person",
+          "lemma": "إِنْسَانٌ / أُنَاسٌ"
+        },
+        {
+          "w": "الاسْتِمْرَارِ",
+          "root": "م ر ر",
+          "bs": "nastavak",
+          "en": "continue",
+          "lemma": "اِسْتِمْرَارٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Učitelj je rekao studentu \"odličan rad, Abdurrahmane\".",
       "translationEn": "The teacher said to the student \"wonderful work, Abdurrahman\".",
       "words": [
-        { "w": "الْمُعَلِّمُ", "root": "ع ل م", "bs": "učitelj", "en": "teacher" },
-        { "w": "الطَّالِبِ", "root": "ط ل ب", "bs": "student", "en": "student" },
-        { "w": "عَمَلٌ رَائِعٌ", "root": "ر و ع", "bs": "odličan rad", "en": "wonderful work" }
+        {
+          "w": "الْمُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "učitelj",
+          "en": "teacher",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "الطَّالِبِ",
+          "root": "ط ل ب",
+          "bs": "student",
+          "en": "student",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "عَمَلٌ رَائِعٌ",
+          "root": "ر و ع",
+          "bs": "odličan rad",
+          "en": "wonderful work",
+          "lemma": "رَائِعٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Studentovo lice je pocrvenilo i osjetio se sretno.",
       "translationEn": "The student's face turned red and he felt happy.",
       "words": [
-        { "w": "اِحْمَرَّ", "root": "ح م ر", "bs": "pocrvenilo je", "en": "turned red" },
-        { "w": "وَجْهُ", "root": "و ج ه", "bs": "lice", "en": "face" },
-        { "w": "الطَّالِبِ", "root": "ط ل ب", "bs": "student", "en": "student" },
-        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happiness" }
+        {
+          "w": "اِحْمَرَّ",
+          "root": "ح م ر",
+          "bs": "pocrvenilo je",
+          "en": "turned red",
+          "lemma": "اِحْمَرَّ يَحْمَرُّ"
+        },
+        {
+          "w": "وَجْهُ",
+          "root": "و ج ه",
+          "bs": "lice",
+          "en": "face",
+          "lemma": "وَجْهٌ / وُجُوهٌ"
+        },
+        {
+          "w": "الطَّالِبِ",
+          "root": "ط ل ب",
+          "bs": "student",
+          "en": "student",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "السَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sreća",
+          "en": "happiness",
+          "lemma": "سَعَادَةٌ"
+        }
       ]
     },
     {
@@ -40,14 +106,36 @@
       "translation": "Na sljedećem času trudio se više nego obično.",
       "translationEn": "In the next lesson he tried harder than usual.",
       "words": [
-        { "w": "الدَّرْسِ", "root": "د ر س", "bs": "čas", "en": "lesson" },
-        { "w": "التَّالِي", "root": "ت ل و", "bs": "sljedeći", "en": "next" },
-        { "w": "حَاوَلَ", "root": "ح و ل", "bs": "trudio se", "en": "tried" }
+        {
+          "w": "الدَّرْسِ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
+        },
+        {
+          "w": "التَّالِي",
+          "root": "ت ل و",
+          "bs": "sljedeći",
+          "en": "next",
+          "lemma": "تَالٍ"
+        },
+        {
+          "w": "حَاوَلَ",
+          "root": "ح و ل",
+          "bs": "trudio se",
+          "en": "tried",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["praise", "motivation", "school"]
+    "tags": [
+      "praise",
+      "motivation",
+      "school"
+    ]
   }
 }

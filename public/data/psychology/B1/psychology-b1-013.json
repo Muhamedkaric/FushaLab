@@ -8,11 +8,41 @@
       "translation": "Čovjek se osjeća olakšano kada govori o svojim osjećajima.",
       "translationEn": "A person feels relieved when they talk about their feelings.",
       "words": [
-        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
-        { "w": "الإِنْسَانُ", "root": "أ ن س", "bs": "čovjek", "en": "a person" },
-        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "olakšanje", "en": "relief" },
-        { "w": "يَتَحَدَّثُ", "root": "ح د ث", "bs": "govori", "en": "talks" },
-        { "w": "مَشَاعِرِهِ", "root": "ش ع ر", "bs": "njegovi osjećaji", "en": "their feelings" }
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الإِنْسَانُ",
+          "root": "أ ن س",
+          "bs": "čovjek",
+          "en": "a person",
+          "lemma": "إِنْسَانٌ / نَاسٌ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "olakšanje",
+          "en": "relief",
+          "lemma": "رَاحَةٌ"
+        },
+        {
+          "w": "يَتَحَدَّثُ",
+          "root": "ح د ث",
+          "bs": "govori",
+          "en": "talks",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "مَشَاعِرِهِ",
+          "root": "ش ع ر",
+          "bs": "njegovi osjećaji",
+          "en": "their feelings",
+          "lemma": "مَشَاعِرُ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Nur je rekla svojoj prijateljici da osjeća pritisak.",
       "translationEn": "Nour told her friend that she was feeling pressured.",
       "words": [
-        { "w": "أَخْبَرَتْ", "root": "خ ب ر", "bs": "rekla je", "en": "told" },
-        { "w": "صَدِيقَتَهَا", "root": "ص د ق", "bs": "njena prijateljica", "en": "her friend" },
-        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
-        { "w": "الضَّغْطِ", "root": "ض غ ط", "bs": "pritisak", "en": "pressure" }
+        {
+          "w": "أَخْبَرَتْ",
+          "root": "خ ب ر",
+          "bs": "rekla je",
+          "en": "told",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "صَدِيقَتَهَا",
+          "root": "ص د ق",
+          "bs": "njena prijateljica",
+          "en": "her friend",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        },
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الضَّغْطِ",
+          "root": "ض غ ط",
+          "bs": "pritisak",
+          "en": "pressure",
+          "lemma": "ضَغْطٌ / ضُغُوطٌ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Prijateljica ju je pažljivo slušala i nije je prekidala.",
       "translationEn": "The friend listened to her attentively and did not interrupt her.",
       "words": [
-        { "w": "أَصْغَتِ", "root": "ص غ و", "bs": "slušala je", "en": "listened" },
-        { "w": "الصَّدِيقَةُ", "root": "ص د ق", "bs": "prijateljica", "en": "the friend" },
-        { "w": "انْتِبَاهٍ", "root": "ن ب ه", "bs": "pažnja", "en": "attention" },
-        { "w": "تَقْطَعْ", "root": "ق ط ع", "bs": "prekida", "en": "interrupt" },
-        { "w": "حَدِيثَهَا", "root": "ح د ث", "bs": "njen razgovor", "en": "her speech" }
+        {
+          "w": "أَصْغَتِ",
+          "root": "ص غ و",
+          "bs": "slušala je",
+          "en": "listened",
+          "lemma": "أَصْغَى يُصْغِي"
+        },
+        {
+          "w": "الصَّدِيقَةُ",
+          "root": "ص د ق",
+          "bs": "prijateljica",
+          "en": "the friend",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        },
+        {
+          "w": "انْتِبَاهٍ",
+          "root": "ن ب ه",
+          "bs": "pažnja",
+          "en": "attention",
+          "lemma": "اِنْتِبَاهٌ"
+        },
+        {
+          "w": "تَقْطَعْ",
+          "root": "ق ط ع",
+          "bs": "prekida",
+          "en": "interrupt",
+          "lemma": "قَطَعَ يَقْطَعُ"
+        },
+        {
+          "w": "حَدِيثَهَا",
+          "root": "ح د ث",
+          "bs": "njen razgovor",
+          "en": "her speech",
+          "lemma": "حَدِيثٌ / أَحَادِيثُ"
+        }
       ]
     },
     {
@@ -43,15 +127,43 @@
       "translation": "Nur se osjetila mnogo bolje nakon razgovora.",
       "translationEn": "Nour felt much better after the conversation.",
       "words": [
-        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjetila se", "en": "felt" },
-        { "w": "تَحَسُّنٍ", "root": "ح س ن", "bs": "poboljšanje", "en": "improvement" },
-        { "w": "كَبِيرٍ", "root": "ك ب ر", "bs": "veliko", "en": "great" },
-        { "w": "الْحَدِيثِ", "root": "ح د ث", "bs": "razgovor", "en": "the conversation" }
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjetila se",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "تَحَسُّنٍ",
+          "root": "ح س ن",
+          "bs": "poboljšanje",
+          "en": "improvement",
+          "lemma": "تَحَسُّنٌ"
+        },
+        {
+          "w": "كَبِيرٍ",
+          "root": "ك ب ر",
+          "bs": "veliko",
+          "en": "great",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "الْحَدِيثِ",
+          "root": "ح د ث",
+          "bs": "razgovor",
+          "en": "the conversation",
+          "lemma": "حَدِيثٌ / أَحَادِيثُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sharing feelings", "listening", "friendship"]
+    "tags": [
+      "sharing feelings",
+      "listening",
+      "friendship"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Muna je odštampala važne dokumente prije sastanka.",
       "translationEn": "Muna printed important documents before the meeting.",
       "words": [
-        { "w": "طَبَعَتْ", "root": "ط ب ع", "bs": "odštampala je/printala", "en": "printed" },
-        { "w": "وَثَائِقَ", "root": "و ث ق", "bs": "dokumenti/isprave", "en": "documents" },
-        { "w": "مُهِمَّةً", "root": "م ه م", "bs": "važne", "en": "important" },
-        { "w": "الِاجْتِمَاعِ", "root": "ج م ع", "bs": "sastanak", "en": "meeting" }
+        {
+          "w": "طَبَعَتْ",
+          "root": "ط ب ع",
+          "bs": "odštampala je/printala",
+          "en": "printed",
+          "lemma": "طَبَعَ يَطْبَعُ"
+        },
+        {
+          "w": "وَثَائِقَ",
+          "root": "و ث ق",
+          "bs": "dokumenti/isprave",
+          "en": "documents",
+          "lemma": "وَثِيقَةٌ / وَثَائِقُ"
+        },
+        {
+          "w": "مُهِمَّةً",
+          "root": "م ه م",
+          "bs": "važne",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "الِاجْتِمَاعِ",
+          "root": "ج م ع",
+          "bs": "sastanak",
+          "en": "meeting",
+          "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Složila ih je i stavila po jedan primjerak za svakog sudionika.",
       "translationEn": "She arranged them and placed a copy for each participant.",
       "words": [
-        { "w": "رَتَّبَتْهَا", "root": "ر ت ب", "bs": "složila ih je/uredila", "en": "arranged them" },
-        { "w": "وَضَعَتْ", "root": "و ض ع", "bs": "stavila je", "en": "placed" },
-        { "w": "نُسْخَةً", "root": "ن س خ", "bs": "primjerak/kopija", "en": "copy" },
-        { "w": "مُشَارِكٍ", "root": "ش ر ك", "bs": "sudionik/učesnik", "en": "participant" }
+        {
+          "w": "رَتَّبَتْهَا",
+          "root": "ر ت ب",
+          "bs": "složila ih je/uredila",
+          "en": "arranged them",
+          "lemma": "رَتَّبَ يُرَتِّبُ"
+        },
+        {
+          "w": "وَضَعَتْ",
+          "root": "و ض ع",
+          "bs": "stavila je",
+          "en": "placed",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "نُسْخَةً",
+          "root": "ن س خ",
+          "bs": "primjerak/kopija",
+          "en": "copy",
+          "lemma": "نُسْخَةٌ / نُسَخٌ"
+        },
+        {
+          "w": "مُشَارِكٍ",
+          "root": "ش ر ك",
+          "bs": "sudionik/učesnik",
+          "en": "participant",
+          "lemma": "مُشَارِكٌ / مُشَارِكُونَ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Sastanak je počeo na vrijeme i bio je organizovan.",
       "translationEn": "The meeting started on time and was well organised.",
       "words": [
-        { "w": "حَضَرَ", "root": "ح ض ر", "bs": "počeo je/odvijao se", "en": "started/took place" },
-        { "w": "الِاجْتِمَاعُ", "root": "ج م ع", "bs": "sastanak", "en": "meeting" },
-        { "w": "الْوَقْتِ", "root": "و ق ت", "bs": "na vrijeme", "en": "on time" },
-        { "w": "مُنَظَّمًا", "root": "ن ظ م", "bs": "organizovan/uredan", "en": "organised" }
+        {
+          "w": "حَضَرَ",
+          "root": "ح ض ر",
+          "bs": "počeo je/odvijao se",
+          "en": "started/took place",
+          "lemma": "حَضَرَ يَحْضُرُ"
+        },
+        {
+          "w": "الِاجْتِمَاعُ",
+          "root": "ج م ع",
+          "bs": "sastanak",
+          "en": "meeting",
+          "lemma": "اِجْتِمَاعٌ / اِجْتِمَاعَاتٌ"
+        },
+        {
+          "w": "الْوَقْتِ",
+          "root": "و ق ت",
+          "bs": "na vrijeme",
+          "en": "on time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "مُنَظَّمًا",
+          "root": "ن ظ م",
+          "bs": "organizovan/uredan",
+          "en": "organised",
+          "lemma": "مُنَظَّمٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Direktor joj je zahvalio na dobrim pripremama.",
       "translationEn": "The manager thanked her for the good preparation.",
       "words": [
-        { "w": "شَكَرَهَا", "root": "ش ك ر", "bs": "zahvalio joj je", "en": "thanked her" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
-        { "w": "الِاسْتِعْدَادِ", "root": "ع د د", "bs": "priprema/sprema", "en": "preparation" },
-        { "w": "الْجَيِّدِ", "root": "ج و د", "bs": "dobra/dobar", "en": "good" }
+        {
+          "w": "شَكَرَهَا",
+          "root": "ش ك ر",
+          "bs": "zahvalio joj je",
+          "en": "thanked her",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "الِاسْتِعْدَادِ",
+          "root": "ع د د",
+          "bs": "priprema/sprema",
+          "en": "preparation",
+          "lemma": "اِسْتِعْدَادٌ / اِسْتِعْدَادَاتٌ"
+        },
+        {
+          "w": "الْجَيِّدِ",
+          "root": "ج و د",
+          "bs": "dobra/dobar",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["meeting preparation", "printing", "documents", "organisation"]
+    "tags": [
+      "meeting preparation",
+      "printing",
+      "documents",
+      "organisation"
+    ]
   }
 }

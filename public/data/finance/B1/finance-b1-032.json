@@ -8,10 +8,34 @@
       "translation": "Muhammed je htio kupiti novi telefon.",
       "translationEn": "Mohammed wanted to buy a new phone.",
       "words": [
-        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
-        { "w": "شِرَاءَ", "root": "ش ر ي", "bs": "kupovinu", "en": "to buy" },
-        { "w": "هَاتِفٍ", "root": "ه ت ف", "bs": "telefon", "en": "phone" },
-        { "w": "جَدِيدٍ", "root": "ج د د", "bs": "novi", "en": "new" }
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "شِرَاءَ",
+          "root": "ش ر ي",
+          "bs": "kupovinu",
+          "en": "to buy",
+          "lemma": "شِرَاءٌ"
+        },
+        {
+          "w": "هَاتِفٍ",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "phone",
+          "lemma": "هَاتِفٌ / هَوَاتِفُ"
+        },
+        {
+          "w": "جَدِيدٍ",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new",
+          "lemma": "جَدِيدٌ / جُدُدٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Skupljao je novac četiri mjeseca.",
       "translationEn": "He saved his money for four months.",
       "words": [
-        { "w": "جَمَعَ", "root": "ج م ع", "bs": "skupljao je", "en": "saved" },
-        { "w": "نُقُودَهُ", "root": "ن ق د", "bs": "njegov novac", "en": "his money" },
-        { "w": "أَشْهُرٍ", "root": "ش ه ر", "bs": "mjeseci", "en": "months" }
+        {
+          "w": "جَمَعَ",
+          "root": "ج م ع",
+          "bs": "skupljao je",
+          "en": "saved",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "نُقُودَهُ",
+          "root": "ن ق د",
+          "bs": "njegov novac",
+          "en": "his money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        },
+        {
+          "w": "أَشْهُرٍ",
+          "root": "ش ه ر",
+          "bs": "mjeseci",
+          "en": "months",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Otišao je u prodavnicu i pitao za cijene.",
       "translationEn": "He went to the shop and asked about prices.",
       "words": [
-        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
-        { "w": "المَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" },
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
-        { "w": "الأَسْعَارِ", "root": "س ع ر", "bs": "cijene", "en": "prices" }
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "المَحَلِّ",
+          "root": "ح ل ل",
+          "bs": "prodavnica",
+          "en": "shop",
+          "lemma": "مَحَلٌّ / مَحَلَّاتٌ"
+        },
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "الأَسْعَارِ",
+          "root": "س ع ر",
+          "bs": "cijene",
+          "en": "prices",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Odabrao je odgovarajući telefon za iznos koji je sakupio.",
       "translationEn": "He chose a suitable phone with the amount he had saved.",
       "words": [
-        { "w": "اخْتَارَ", "root": "خ ي ر", "bs": "odabrao je", "en": "chose" },
-        { "w": "هَاتِفًا", "root": "ه ت ف", "bs": "telefon", "en": "phone" },
-        { "w": "مُنَاسِبًا", "root": "ن س ب", "bs": "odgovarajući", "en": "suitable" },
-        { "w": "المَبْلَغِ", "root": "ب ل غ", "bs": "iznos", "en": "amount" }
+        {
+          "w": "اخْتَارَ",
+          "root": "خ ي ر",
+          "bs": "odabrao je",
+          "en": "chose",
+          "lemma": "اخْتَارَ يَخْتَارُ"
+        },
+        {
+          "w": "هَاتِفًا",
+          "root": "ه ت ف",
+          "bs": "telefon",
+          "en": "phone",
+          "lemma": "هَاتِفٌ / هَوَاتِفُ"
+        },
+        {
+          "w": "مُنَاسِبًا",
+          "root": "ن س ب",
+          "bs": "odgovarajući",
+          "en": "suitable",
+          "lemma": "مُنَاسِبٌ"
+        },
+        {
+          "w": "المَبْلَغِ",
+          "root": "ب ل غ",
+          "bs": "iznos",
+          "en": "amount",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["saving", "phone", "goal"]
+    "tags": [
+      "saving",
+      "phone",
+      "goal"
+    ]
   }
 }

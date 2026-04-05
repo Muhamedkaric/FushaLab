@@ -8,10 +8,34 @@
       "translation": "Majka je otišla na pijacu ujutro.",
       "translationEn": "The mother went to the market in the morning.",
       "words": [
-        { "w": "ذَهَبَتِ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
-        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca/tržnica", "en": "market" },
-        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        {
+          "w": "ذَهَبَتِ",
+          "root": "ذ ه ب",
+          "bs": "otišla je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "pijaca/tržnica",
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Kupila je svježu ribu od prodavca.",
       "translationEn": "She bought fresh fish from the vendor.",
       "words": [
-        { "w": "اشْتَرَتِ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
-        { "w": "السَّمَكَ", "root": "س م ك", "bs": "riba", "en": "fish" },
-        { "w": "الطَّازِجَ", "root": "ط ز ج", "bs": "svježu/svježe", "en": "fresh" },
-        { "w": "الْبَائِعِ", "root": "ب ي ع", "bs": "prodavac", "en": "vendor/seller" }
+        {
+          "w": "اشْتَرَتِ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "السَّمَكَ",
+          "root": "س م ك",
+          "bs": "riba",
+          "en": "fish",
+          "lemma": "سَمَكٌ / أَسْمَاكٌ"
+        },
+        {
+          "w": "الطَّازِجَ",
+          "root": "ط ز ج",
+          "bs": "svježu/svježe",
+          "en": "fresh",
+          "lemma": "طَازِجٌ"
+        },
+        {
+          "w": "الْبَائِعِ",
+          "root": "ب ي ع",
+          "bs": "prodavac",
+          "en": "vendor/seller",
+          "lemma": "بَائِعٌ / بَائِعُونَ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Skuhala je ribu s začinima i uljem.",
       "translationEn": "She cooked the fish with spices and oil.",
       "words": [
-        { "w": "طَبَخَتِ", "root": "ط ب خ", "bs": "skuhala je/pekla", "en": "cooked" },
-        { "w": "السَّمَكَ", "root": "س م ك", "bs": "ribu", "en": "fish" },
-        { "w": "الْبَهَارَاتِ", "root": "ب ه ر", "bs": "začini", "en": "spices" },
-        { "w": "الزَّيْتِ", "root": "ز ي ت", "bs": "ulje", "en": "oil" }
+        {
+          "w": "طَبَخَتِ",
+          "root": "ط ب خ",
+          "bs": "skuhala je/pekla",
+          "en": "cooked",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "السَّمَكَ",
+          "root": "س م ك",
+          "bs": "ribu",
+          "en": "fish",
+          "lemma": "سَمَكٌ / أَسْمَاكٌ"
+        },
+        {
+          "w": "الْبَهَارَاتِ",
+          "root": "ب ه ر",
+          "bs": "začini",
+          "en": "spices",
+          "lemma": "بَهَارٌ / بَهَارَاتٌ"
+        },
+        {
+          "w": "الزَّيْتِ",
+          "root": "ز ي ت",
+          "bs": "ulje",
+          "en": "oil",
+          "lemma": "زَيْتٌ / زُيُوتٌ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Obrok je bio lagan i koristan.",
       "translationEn": "The meal was light and nutritious.",
       "words": [
-        { "w": "الْوَجْبَةُ", "root": "و ج ب", "bs": "obrok/jelo", "en": "meal" },
-        { "w": "خَفِيفَةً", "root": "خ ف ف", "bs": "lagan/laganu", "en": "light" },
-        { "w": "مُفِيدَةً", "root": "ف ي د", "bs": "korisnu/hranjivo", "en": "nutritious/beneficial" }
+        {
+          "w": "الْوَجْبَةُ",
+          "root": "و ج ب",
+          "bs": "obrok/jelo",
+          "en": "meal",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "خَفِيفَةً",
+          "root": "خ ف ف",
+          "bs": "lagan/laganu",
+          "en": "light",
+          "lemma": "خَفِيفٌ"
+        },
+        {
+          "w": "مُفِيدَةً",
+          "root": "ف ي د",
+          "bs": "korisnu/hranjivo",
+          "en": "nutritious/beneficial",
+          "lemma": "مُفِيدٌ"
+        }
       ]
     }
   ],

@@ -8,10 +8,34 @@
       "translation": "Tariq je pozvao kolegu na večeru u svoju kuću.",
       "translationEn": "Tariq invited his colleague to dinner at his house.",
       "words": [
-        { "w": "دَعَا", "root": "د ع و", "bs": "pozvao je", "en": "invited" },
-        { "w": "زَمِيلَهُ", "root": "ز م ل", "bs": "kolegu", "en": "colleague" },
-        { "w": "لِلْعَشَاءِ", "root": "ع ش و", "bs": "na večeru", "en": "to dinner" },
-        { "w": "بَيْتِهِ", "root": "ب ي ت", "bs": "kuću", "en": "house" }
+        {
+          "w": "دَعَا",
+          "root": "د ع و",
+          "bs": "pozvao je",
+          "en": "invited",
+          "lemma": "دَعَا يَدْعُو"
+        },
+        {
+          "w": "زَمِيلَهُ",
+          "root": "ز م ل",
+          "bs": "kolegu",
+          "en": "colleague",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "لِلْعَشَاءِ",
+          "root": "ع ش و",
+          "bs": "na večeru",
+          "en": "to dinner",
+          "lemma": "عَشَاءٌ"
+        },
+        {
+          "w": "بَيْتِهِ",
+          "root": "ب ي ت",
+          "bs": "kuću",
+          "en": "house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Njegova supruga je skuhala ukusnu hranu.",
       "translationEn": "His wife cooked delicious food.",
       "words": [
-        { "w": "طَبَخَتِ", "root": "ط ب خ", "bs": "skuhala je", "en": "cooked" },
-        { "w": "زَوْجَتُهُ", "root": "ز و ج", "bs": "supruga", "en": "wife" },
-        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hranu", "en": "food" },
-        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusnu", "en": "delicious" }
+        {
+          "w": "طَبَخَتِ",
+          "root": "ط ب خ",
+          "bs": "skuhala je",
+          "en": "cooked",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "زَوْجَتُهُ",
+          "root": "ز و ج",
+          "bs": "supruga",
+          "en": "wife",
+          "lemma": "زَوْجَةٌ / زَوْجَاتٌ"
+        },
+        {
+          "w": "طَعَامًا",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "لَذِيذًا",
+          "root": "ل ذ ذ",
+          "bs": "ukusnu",
+          "en": "delicious",
+          "lemma": "لَذِيذٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Sjeli su za sto i jeli zajedno.",
       "translationEn": "They sat at the table and ate together.",
       "words": [
-        { "w": "جَلَسُوا", "root": "ج ل س", "bs": "sjeli su", "en": "sat" },
-        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stolu", "en": "table" },
-        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" }
+        {
+          "w": "جَلَسُوا",
+          "root": "ج ل س",
+          "bs": "sjeli su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الطَّاوِلَةِ",
+          "root": "ط و ل",
+          "bs": "stolu",
+          "en": "table",
+          "lemma": "طَاوِلَةٌ / طَاوِلَاتٌ"
+        },
+        {
+          "w": "أَكَلُوا",
+          "root": "أ ك ل",
+          "bs": "jeli su",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        }
       ]
     },
     {
@@ -40,10 +106,34 @@
       "translation": "Gost je pohvalio hranu i zahvalio svima.",
       "translationEn": "The guest praised the food and thanked everyone.",
       "words": [
-        { "w": "أَثْنَى", "root": "ث ن ي", "bs": "pohvalio je", "en": "praised" },
-        { "w": "الضَّيْفُ", "root": "ض ي ف", "bs": "gost", "en": "guest" },
-        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "hranu", "en": "food" },
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" }
+        {
+          "w": "أَثْنَى",
+          "root": "ث ن ي",
+          "bs": "pohvalio je",
+          "en": "praised",
+          "lemma": "أَثْنَى يُثْنِي"
+        },
+        {
+          "w": "الضَّيْفُ",
+          "root": "ض ي ف",
+          "bs": "gost",
+          "en": "guest",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        }
       ]
     },
     {
@@ -51,10 +141,34 @@
       "translation": "Otišao je kasno, osjećajući se sretan.",
       "translationEn": "He left late, feeling happy.",
       "words": [
-        { "w": "غَادَرَ", "root": "غ و د", "bs": "otišao je", "en": "left" },
-        { "w": "مُتَأَخِّرًا", "root": "أ خ ر", "bs": "kasno", "en": "late" },
-        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjećajući se", "en": "feeling" },
-        { "w": "بِالسَّعَادَةِ", "root": "س ع د", "bs": "sretan", "en": "happy" }
+        {
+          "w": "غَادَرَ",
+          "root": "غ و د",
+          "bs": "otišao je",
+          "en": "left",
+          "lemma": "غَادَرَ يُغَادِرُ"
+        },
+        {
+          "w": "مُتَأَخِّرًا",
+          "root": "أ خ ر",
+          "bs": "kasno",
+          "en": "late",
+          "lemma": "مُتَأَخِّرٌ"
+        },
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjećajući se",
+          "en": "feeling",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِالسَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sretan",
+          "en": "happy",
+          "lemma": "سَعَادَةٌ"
+        }
       ]
     }
   ],

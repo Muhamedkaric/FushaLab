@@ -8,11 +8,41 @@
       "translation": "Veliko stablo u sredini sela je bilo mjesto za okupljanje.",
       "translationEn": "The big tree in the middle of the village was a gathering place.",
       "words": [
-        { "w": "الشَّجَرَةُ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
-        { "w": "الْكَبِيرَةُ", "root": "ك ب ر", "bs": "veliko", "en": "big" },
-        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" },
-        { "w": "مَكَانًا", "root": "م ك ن", "bs": "mjesto", "en": "place" },
-        { "w": "لِلِاجْتِمَاعِ", "root": "ج م ع", "bs": "za okupljanje", "en": "gathering" }
+        {
+          "w": "الشَّجَرَةُ",
+          "root": "ش ج ر",
+          "bs": "stablo",
+          "en": "tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "الْكَبِيرَةُ",
+          "root": "ك ب ر",
+          "bs": "veliko",
+          "en": "big",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "مَكَانًا",
+          "root": "م ك ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "لِلِاجْتِمَاعِ",
+          "root": "ج م ع",
+          "bs": "za okupljanje",
+          "en": "gathering",
+          "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Djeca su se igrala ispod njega a starci su sjedili pored njega.",
       "translationEn": "Children played beneath it and elders sat beside it.",
       "words": [
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "يَلْعَبُونَ", "root": "ل ع ب", "bs": "igrala su se", "en": "played" },
-        { "w": "الشُّيُوخُ", "root": "ش ي خ", "bs": "starci", "en": "elders" },
-        { "w": "يَجْلِسُونَ", "root": "ج ل س", "bs": "sjedili su", "en": "sat" }
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يَلْعَبُونَ",
+          "root": "ل ع ب",
+          "bs": "igrala su se",
+          "en": "played",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الشُّيُوخُ",
+          "root": "ش ي خ",
+          "bs": "starci",
+          "en": "elders",
+          "lemma": "شَيْخٌ / شُيُوخٌ"
+        },
+        {
+          "w": "يَجْلِسُونَ",
+          "root": "ج ل س",
+          "bs": "sjedili su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Jednog dana se stablo razbolilo i listovi su počeli otpadati.",
       "translationEn": "One day the tree got sick and its leaves began to fall.",
       "words": [
-        { "w": "مَرِضَتِ", "root": "م ر ض", "bs": "razbolilo se", "en": "got sick" },
-        { "w": "الشَّجَرَةُ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
-        { "w": "أَوْرَاقُهَا", "root": "و ر ق", "bs": "listovi", "en": "its leaves" },
-        { "w": "تَسْقُطُ", "root": "س ق ط", "bs": "otpadaju", "en": "fall" }
+        {
+          "w": "مَرِضَتِ",
+          "root": "م ر ض",
+          "bs": "razbolilo se",
+          "en": "got sick",
+          "lemma": "مَرِضَ يَمْرَضُ"
+        },
+        {
+          "w": "الشَّجَرَةُ",
+          "root": "ش ج ر",
+          "bs": "stablo",
+          "en": "tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "أَوْرَاقُهَا",
+          "root": "و ر ق",
+          "bs": "listovi",
+          "en": "its leaves",
+          "lemma": "وَرَقَةٌ / أَوْرَاقٌ"
+        },
+        {
+          "w": "تَسْقُطُ",
+          "root": "س ق ط",
+          "bs": "otpadaju",
+          "en": "fall",
+          "lemma": "سَقَطَ يَسْقُطُ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Odrasli i djeca su zajedno zalijevali stablo pa mu se vratio zelenilo.",
       "translationEn": "The adults and children watered the tree together and its greenery returned.",
       "words": [
-        { "w": "سَقَى", "root": "س ق ي", "bs": "zalijevali su", "en": "watered" },
-        { "w": "الأَهْلُ", "root": "أ ه ل", "bs": "odrasli", "en": "adults" },
-        { "w": "الشَّجَرَةَ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
-        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
-        { "w": "خُضْرَتُهَا", "root": "خ ض ر", "bs": "zelenilo", "en": "greenery" }
+        {
+          "w": "سَقَى",
+          "root": "س ق ي",
+          "bs": "zalijevali su",
+          "en": "watered",
+          "lemma": "سَقَى يَسْقِي"
+        },
+        {
+          "w": "الأَهْلُ",
+          "root": "أ ه ل",
+          "bs": "odrasli",
+          "en": "adults",
+          "lemma": "أَهْلٌ"
+        },
+        {
+          "w": "الشَّجَرَةَ",
+          "root": "ش ج ر",
+          "bs": "stablo",
+          "en": "tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
+        },
+        {
+          "w": "خُضْرَتُهَا",
+          "root": "خ ض ر",
+          "bs": "zelenilo",
+          "en": "greenery",
+          "lemma": "خُضْرَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["tree", "village", "community", "care"]
+    "tags": [
+      "tree",
+      "village",
+      "community",
+      "care"
+    ]
   }
 }

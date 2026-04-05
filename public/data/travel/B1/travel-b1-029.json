@@ -8,9 +8,27 @@
       "translation": "Porodica je stajala na mostu iznad rijeke.",
       "translationEn": "The family stood on a bridge over the river.",
       "words": [
-        { "w": "وَقَفَتِ", "root": "و ق ف", "bs": "stajala je", "en": "stood" },
-        { "w": "جِسْرٍ", "root": "ج س ر", "bs": "most", "en": "bridge" },
-        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "river" }
+        {
+          "w": "وَقَفَتِ",
+          "root": "و ق ف",
+          "bs": "stajala je",
+          "en": "stood",
+          "lemma": "وَقَفَ يَقِفُ"
+        },
+        {
+          "w": "جِسْرٍ",
+          "root": "ج س ر",
+          "bs": "most",
+          "en": "bridge",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        },
+        {
+          "w": "النَّهْرِ",
+          "root": "ن ه ر",
+          "bs": "rijeka",
+          "en": "river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Voda je bila bistra a ptice su letjele iznad.",
       "translationEn": "The water was clear and birds were flying above it.",
       "words": [
-        { "w": "الْمَاءُ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "صَافِيًا", "root": "ص ف و", "bs": "bistro / vedro", "en": "clear" },
-        { "w": "الطُّيُورُ", "root": "ط ي ر", "bs": "ptice", "en": "birds" },
-        { "w": "تَطِيرُ", "root": "ط ي ر", "bs": "lete", "en": "flying" }
+        {
+          "w": "الْمَاءُ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "صَافِيًا",
+          "root": "ص ف و",
+          "bs": "bistro / vedro",
+          "en": "clear",
+          "lemma": "صَافٍ"
+        },
+        {
+          "w": "الطُّيُورُ",
+          "root": "ط ي ر",
+          "bs": "ptice",
+          "en": "birds",
+          "lemma": "طَائِرٌ / طُيُورٌ"
+        },
+        {
+          "w": "تَطِيرُ",
+          "root": "ط ي ر",
+          "bs": "lete",
+          "en": "flying",
+          "lemma": "طَارَ يَطِيرُ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Otac je snimio fotografiju porodice na mostu.",
       "translationEn": "The father took a photo of the family on the bridge.",
       "words": [
-        { "w": "الْتَقَطَ", "root": "ل ق ط", "bs": "snimio je", "en": "took (a photo)" },
-        { "w": "صُورَةً", "root": "ص و ر", "bs": "fotografija", "en": "photo" },
-        { "w": "الْجِسْرِ", "root": "ج س ر", "bs": "most", "en": "bridge" }
+        {
+          "w": "الْتَقَطَ",
+          "root": "ل ق ط",
+          "bs": "snimio je",
+          "en": "took (a photo)",
+          "lemma": "الْتَقَطَ يَلْتَقِطُ"
+        },
+        {
+          "w": "صُورَةً",
+          "root": "ص و ر",
+          "bs": "fotografija",
+          "en": "photo",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "الْجِسْرِ",
+          "root": "ج س ر",
+          "bs": "most",
+          "en": "bridge",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        }
       ]
     },
     {
@@ -39,9 +99,27 @@
       "translation": "Fotografija je bila lijepa i čuvali su je.",
       "translationEn": "The photo was beautiful and they kept it.",
       "words": [
-        { "w": "الصُّورَةُ", "root": "ص و ر", "bs": "fotografija", "en": "photo" },
-        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" },
-        { "w": "احْتَفَظُوا", "root": "ح ف ظ", "bs": "čuvali su", "en": "kept" }
+        {
+          "w": "الصُّورَةُ",
+          "root": "ص و ر",
+          "bs": "fotografija",
+          "en": "photo",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijepa",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "احْتَفَظُوا",
+          "root": "ح ف ظ",
+          "bs": "čuvali su",
+          "en": "kept",
+          "lemma": "احْتَفَظَ يَحْتَفِظُ"
+        }
       ]
     }
   ],

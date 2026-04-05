@@ -8,10 +8,34 @@
       "translation": "Stari sat radio je na vodu.",
       "translationEn": "The ancient clock worked with water.",
       "words": [
-        { "w": "السَّاعَةُ", "root": "س و ع", "bs": "sat", "en": "the clock" },
-        { "w": "الْقَدِيمَةُ", "root": "ق د م", "bs": "stari", "en": "ancient" },
-        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "الْمَاءِ", "root": "م و ه", "bs": "voda", "en": "water" }
+        {
+          "w": "السَّاعَةُ",
+          "root": "س و ع",
+          "bs": "sat",
+          "en": "the clock",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "الْقَدِيمَةُ",
+          "root": "ق د م",
+          "bs": "stari",
+          "en": "ancient",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "تَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Voda je polako padala iz jedne posude u drugu.",
       "translationEn": "The water fell slowly from one vessel to another.",
       "words": [
-        { "w": "الْمَاءُ", "root": "م و ه", "bs": "voda", "en": "the water" },
-        { "w": "يَسْقُطُ", "root": "س ق ط", "bs": "pada", "en": "falls" },
-        { "w": "بُطْءٍ", "root": "ب ط أ", "bs": "polako", "en": "slowly" },
-        { "w": "وِعَاءٍ", "root": "و ع ي", "bs": "posuda", "en": "a vessel" }
+        {
+          "w": "الْمَاءُ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "the water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "يَسْقُطُ",
+          "root": "س ق ط",
+          "bs": "pada",
+          "en": "falls",
+          "lemma": "سَقَطَ يَسْقُطُ"
+        },
+        {
+          "w": "بُطْءٍ",
+          "root": "ب ط أ",
+          "bs": "polako",
+          "en": "slowly",
+          "lemma": "بُطْءٌ"
+        },
+        {
+          "w": "وِعَاءٍ",
+          "root": "و ع ي",
+          "bs": "posuda",
+          "en": "a vessel",
+          "lemma": "وِعَاءٌ / أَوْعِيَةٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Pokazivalo je vrijeme ljudima u gradu.",
       "translationEn": "It used to tell the time for the people in the city.",
       "words": [
-        { "w": "تُعَيِّنُ", "root": "ع ي ن", "bs": "pokazuje", "en": "tells" },
-        { "w": "الْوَقْتَ", "root": "و ق ت", "bs": "vrijeme", "en": "the time" },
-        { "w": "النَّاسِ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "the city" }
+        {
+          "w": "تُعَيِّنُ",
+          "root": "ع ي ن",
+          "bs": "pokazuje",
+          "en": "tells",
+          "lemma": "عَيَّنَ يُعَيِّنُ"
+        },
+        {
+          "w": "الْوَقْتَ",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "the time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "النَّاسِ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "the people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "the city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Učenjaci su puno razmišljali da izmisle ovaj alat.",
       "translationEn": "The scholars thought a lot to invent this tool.",
       "words": [
-        { "w": "الْعُلَمَاءُ", "root": "ع ل م", "bs": "učenjaci", "en": "the scholars" },
-        { "w": "يُفَكِّرُونَ", "root": "ف ك ر", "bs": "razmišljaju", "en": "think" },
-        { "w": "اخْتِرَاعِ", "root": "خ ر ع", "bs": "izum", "en": "invention" },
-        { "w": "الأَدَاةِ", "root": "أ د و", "bs": "alat", "en": "the tool" }
+        {
+          "w": "الْعُلَمَاءُ",
+          "root": "ع ل م",
+          "bs": "učenjaci",
+          "en": "the scholars",
+          "lemma": "عَالِمٌ / عُلَمَاءُ"
+        },
+        {
+          "w": "يُفَكِّرُونَ",
+          "root": "ف ك ر",
+          "bs": "razmišljaju",
+          "en": "think",
+          "lemma": "فَكَّرَ يُفَكِّرُ"
+        },
+        {
+          "w": "اخْتِرَاعِ",
+          "root": "خ ر ع",
+          "bs": "izum",
+          "en": "invention",
+          "lemma": "اِخْتِرَاعٌ / اِخْتِرَاعَاتٌ"
+        },
+        {
+          "w": "الأَدَاةِ",
+          "root": "أ د و",
+          "bs": "alat",
+          "en": "the tool",
+          "lemma": "أَدَاةٌ / أَدَوَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["invention", "science", "ancient"]
+    "tags": [
+      "invention",
+      "science",
+      "ancient"
+    ]
   }
 }

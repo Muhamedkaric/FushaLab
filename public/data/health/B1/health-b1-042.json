@@ -12,31 +12,36 @@
           "w": "تَتَجَنَّبُ",
           "root": "ج ن ب",
           "bs": "izbjegava",
-          "en": "avoids"
+          "en": "avoids",
+          "lemma": "تَجَنَّبَ يَتَجَنَّبُ"
         },
         {
           "w": "الطَّعَامَ",
           "root": "ط ع م",
           "bs": "hrana",
-          "en": "food"
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         },
         {
           "w": "الْمَقْلِيَّ",
           "root": "ق ل ي",
           "bs": "pržena",
-          "en": "fried"
+          "en": "fried",
+          "lemma": "مَقْلِيٌّ"
         },
         {
           "w": "تُفَضِّلُ",
           "root": "ف ض ل",
           "bs": "preferira",
-          "en": "prefers"
+          "en": "prefers",
+          "lemma": "فَضَّلَ يُفَضِّلُ"
         },
         {
           "w": "الْمَشْوِيَّ",
           "root": "ش و ي",
           "bs": "roštilj",
-          "en": "grilled"
+          "en": "grilled",
+          "lemma": "مَشْوِيٌّ"
         }
       ]
     },
@@ -49,25 +54,29 @@
           "w": "الطَّبِيبُ",
           "root": "ط ب ب",
           "bs": "ljekar",
-          "en": "doctor"
+          "en": "doctor",
+          "lemma": "طَبِيبٌ / أَطِبَّاءُ"
         },
         {
           "w": "الشَّوِيَّ",
           "root": "ش و ي",
           "bs": "roštilj",
-          "en": "grilled food"
+          "en": "grilled food",
+          "lemma": "شَوِيٌّ"
         },
         {
           "w": "أَقَلُّ",
           "root": "ق ل ل",
           "bs": "manje",
-          "en": "less"
+          "en": "less",
+          "lemma": "أَقَلُّ"
         },
         {
           "w": "دَسَمًا",
           "root": "د س م",
           "bs": "mastan",
-          "en": "fat"
+          "en": "fat",
+          "lemma": "دَسَمٌ"
         }
       ]
     },
@@ -80,37 +89,43 @@
           "w": "تَطْبُخُ",
           "root": "ط ب خ",
           "bs": "kuha",
-          "en": "cooks"
+          "en": "cooks",
+          "lemma": "طَبَخَ يَطْبُخُ"
         },
         {
           "w": "الدَّجَاجَ",
           "root": "د ج ج",
           "bs": "piletina",
-          "en": "chicken"
+          "en": "chicken",
+          "lemma": "دَجَاجٌ / دَجَاجَةٌ"
         },
         {
           "w": "وَالسَّمَكَ",
           "root": "س م ك",
           "bs": "riba",
-          "en": "fish"
+          "en": "fish",
+          "lemma": "سَمَكٌ / أَسْمَاكٌ"
         },
         {
           "w": "الْفُرْنِ",
           "root": "ف ر ن",
           "bs": "pećnica",
-          "en": "oven"
+          "en": "oven",
+          "lemma": "فُرْنٌ / أَفْرَانٌ"
         },
         {
           "w": "بَدَلَ",
           "root": "ب د ل",
           "bs": "umjesto",
-          "en": "instead of"
+          "en": "instead of",
+          "lemma": "بَدَلٌ"
         },
         {
           "w": "الْقَلْيِ",
           "root": "ق ل ي",
           "bs": "prženja",
-          "en": "frying"
+          "en": "frying",
+          "lemma": "قَلْيٌ"
         }
       ]
     },
@@ -123,19 +138,22 @@
           "w": "طَعَامُهَا",
           "root": "ط ع م",
           "bs": "njena hrana",
-          "en": "her food"
+          "en": "her food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         },
         {
           "w": "لَذِيذٌ",
           "root": "ل ذ ذ",
           "bs": "ukusna",
-          "en": "tasty"
+          "en": "tasty",
+          "lemma": "لَذِيذٌ"
         },
         {
           "w": "صِحِّيٌّ",
           "root": "ص ح ح",
           "bs": "zdrava",
-          "en": "healthy"
+          "en": "healthy",
+          "lemma": "صِحِّيٌّ"
         }
       ]
     }

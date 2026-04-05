@@ -8,11 +8,41 @@
       "translation": "Direktor je od Halida tražio jednostavan izvještaj o poslu.",
       "translationEn": "The manager asked Khalid for a simple report about the work.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je/zamolio", "en": "asked/requested" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager/director" },
-        { "w": "تَقْرِيرًا", "root": "ق ر ر", "bs": "izvještaj", "en": "report" },
-        { "w": "بَسِيطًا", "root": "ب س ط", "bs": "jednostavan", "en": "simple" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao/rad", "en": "work" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "tražio je/zamolio",
+          "en": "asked/requested",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager/director",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "تَقْرِيرًا",
+          "root": "ق ر ر",
+          "bs": "izvještaj",
+          "en": "report",
+          "lemma": "تَقْرِيرٌ / تَقَارِيرُ"
+        },
+        {
+          "w": "بَسِيطًا",
+          "root": "ب س ط",
+          "bs": "jednostavan",
+          "en": "simple",
+          "lemma": "بَسِيطٌ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao/rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Halid je sjeo za svoj sto i počeo pisati.",
       "translationEn": "Khalid sat at his desk and started writing.",
       "words": [
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
-        { "w": "مَكْتَبِهِ", "root": "ك ت ب", "bs": "njegov sto/radni stol", "en": "his desk" },
-        { "w": "يَكْتُبُ", "root": "ك ت ب", "bs": "pisati", "en": "to write" }
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjeo je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "مَكْتَبِهِ",
+          "root": "ك ت ب",
+          "bs": "njegov sto/radni stol",
+          "en": "his desk",
+          "lemma": "مَكْتَبٌ / مَكَاتِبُ"
+        },
+        {
+          "w": "يَكْتُبُ",
+          "root": "ك ت ب",
+          "bs": "pisati",
+          "en": "to write",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Napisao je šta je tim postigao tokom sedmice.",
       "translationEn": "He wrote what the team achieved during the week.",
       "words": [
-        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
-        { "w": "حَقَّقَهُ", "root": "ح ق ق", "bs": "postigao je/ostvario", "en": "achieved" },
-        { "w": "الْفَرِيقُ", "root": "ف ر ق", "bs": "tim/ekipa", "en": "team" },
-        { "w": "الْأُسْبُوعِ", "root": "س ب ع", "bs": "sedmica/tjedan", "en": "week" }
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao je",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "حَقَّقَهُ",
+          "root": "ح ق ق",
+          "bs": "postigao je/ostvario",
+          "en": "achieved",
+          "lemma": "حَقَّقَ يُحَقِّقُ"
+        },
+        {
+          "w": "الْفَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim/ekipa",
+          "en": "team",
+          "lemma": "فَرِيقٌ / فِرَقٌ"
+        },
+        {
+          "w": "الْأُسْبُوعِ",
+          "root": "س ب ع",
+          "bs": "sedmica/tjedan",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Poslao je izvještaj direktoru prije kraja dana.",
       "translationEn": "He sent the report to the manager before the end of the day.",
       "words": [
-        { "w": "أَرْسَلَ", "root": "ر س ل", "bs": "poslao je", "en": "sent" },
-        { "w": "التَّقْرِيرَ", "root": "ق ر ر", "bs": "izvještaj", "en": "report" },
-        { "w": "الْمُدِيرِ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
-        { "w": "نِهَايَةِ", "root": "ن ه ي", "bs": "kraj/završetak", "en": "end" }
+        {
+          "w": "أَرْسَلَ",
+          "root": "ر س ل",
+          "bs": "poslao je",
+          "en": "sent",
+          "lemma": "أَرْسَلَ يُرْسِلُ"
+        },
+        {
+          "w": "التَّقْرِيرَ",
+          "root": "ق ر ر",
+          "bs": "izvještaj",
+          "en": "report",
+          "lemma": "تَقْرِيرٌ / تَقَارِيرُ"
+        },
+        {
+          "w": "الْمُدِيرِ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager",
+          "lemma": "مُدِيرٌ / مُدَرَاءُ"
+        },
+        {
+          "w": "نِهَايَةِ",
+          "root": "ن ه ي",
+          "bs": "kraj/završetak",
+          "en": "end",
+          "lemma": "نِهَايَةٌ / نِهَايَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["report", "manager", "office task", "writing"]
+    "tags": [
+      "report",
+      "manager",
+      "office task",
+      "writing"
+    ]
   }
 }

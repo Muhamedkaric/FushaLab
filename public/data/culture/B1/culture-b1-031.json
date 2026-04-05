@@ -8,10 +8,34 @@
       "translation": "Ljudi ukrašavaju svoje kuće fenjeriа u Ramazanu.",
       "translationEn": "People decorate their homes with lanterns during Ramadan.",
       "words": [
-        { "w": "يُزَيِّنُ", "root": "ز ي ن", "bs": "ukrašavaju", "en": "decorate" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "بُيُوتَهُمْ", "root": "ب ي ت", "bs": "kuće", "en": "homes" },
-        { "w": "الفَوَانِيسِ", "root": "ف ن س", "bs": "fenjeri", "en": "lanterns" }
+        {
+          "w": "يُزَيِّنُ",
+          "root": "ز ي ن",
+          "bs": "ukrašavaju",
+          "en": "decorate",
+          "lemma": "زَيَّنَ يُزَيِّنُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "بُيُوتَهُمْ",
+          "root": "ب ي ت",
+          "bs": "kuće",
+          "en": "homes",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "الفَوَانِيسِ",
+          "root": "ف ن س",
+          "bs": "fenjeri",
+          "en": "lanterns",
+          "lemma": "فَانُوسٌ / فَوَانِيسُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Fenjer je poznati simbol mjeseca Ramazana.",
       "translationEn": "The lantern is a famous symbol of the month of Ramadan.",
       "words": [
-        { "w": "الفَانُوسُ", "root": "ف ن س", "bs": "fenjer", "en": "lantern" },
-        { "w": "رَمْزٌ", "root": "ر م ز", "bs": "simbol", "en": "symbol" },
-        { "w": "شَهِيرٌ", "root": "ش هـ ر", "bs": "poznati", "en": "famous" },
-        { "w": "شَهْرِ", "root": "ش هـ ر", "bs": "mjeseca", "en": "month" }
+        {
+          "w": "الفَانُوسُ",
+          "root": "ف ن س",
+          "bs": "fenjer",
+          "en": "lantern",
+          "lemma": "فَانُوسٌ / فَوَانِيسُ"
+        },
+        {
+          "w": "رَمْزٌ",
+          "root": "ر م ز",
+          "bs": "simbol",
+          "en": "symbol",
+          "lemma": "رَمْزٌ / رُمُوزٌ"
+        },
+        {
+          "w": "شَهِيرٌ",
+          "root": "ش هـ ر",
+          "bs": "poznati",
+          "en": "famous",
+          "lemma": "شَهِيرٌ"
+        },
+        {
+          "w": "شَهْرِ",
+          "root": "ش هـ ر",
+          "bs": "mjeseca",
+          "en": "month",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Djeca nose fenjere po ulicama.",
       "translationEn": "Children carry lanterns through the streets.",
       "words": [
-        { "w": "يَحْمِلُ", "root": "ح م ل", "bs": "nose", "en": "carry" },
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "الفَوَانِيسَ", "root": "ف ن س", "bs": "fenjere", "en": "lanterns" },
-        { "w": "الشَّوَارِعِ", "root": "ش ر ع", "bs": "ulicama", "en": "streets" }
+        {
+          "w": "يَحْمِلُ",
+          "root": "ح م ل",
+          "bs": "nose",
+          "en": "carry",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الفَوَانِيسَ",
+          "root": "ف ن س",
+          "bs": "fenjere",
+          "en": "lanterns",
+          "lemma": "فَانُوسٌ / فَوَانِيسُ"
+        },
+        {
+          "w": "الشَّوَارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulicama",
+          "en": "streets",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Pjevaju ramazanske pjesme glasno.",
       "translationEn": "They sing Ramadan songs loudly.",
       "words": [
-        { "w": "يُغَنُّونَ", "root": "غ ن ي", "bs": "pjevaju", "en": "sing" },
-        { "w": "أَغَانِيَ", "root": "غ ن ي", "bs": "pjesme", "en": "songs" },
-        { "w": "بِصَوْتٍ", "root": "ص و ت", "bs": "glasno", "en": "voice" },
-        { "w": "عَالٍ", "root": "ع ل و", "bs": "visoko", "en": "loudly" }
+        {
+          "w": "يُغَنُّونَ",
+          "root": "غ ن ي",
+          "bs": "pjevaju",
+          "en": "sing",
+          "lemma": "غَنَّى يُغَنِّي"
+        },
+        {
+          "w": "أَغَانِيَ",
+          "root": "غ ن ي",
+          "bs": "pjesme",
+          "en": "songs",
+          "lemma": "أُغْنِيَةٌ / أَغَانٍ"
+        },
+        {
+          "w": "بِصَوْتٍ",
+          "root": "ص و ت",
+          "bs": "glasno",
+          "en": "voice",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "عَالٍ",
+          "root": "ع ل و",
+          "bs": "visoko",
+          "en": "loudly",
+          "lemma": "عَالٍ"
+        }
       ]
     }
   ],

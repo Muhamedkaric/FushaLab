@@ -12,24 +12,28 @@
           "w": "انْقَطَعَ",
           "root": "ق ط ع",
           "bs": "nestao je",
-          "en": "went out"
+          "en": "went out",
+          "lemma": "انْقَطَعَ يَنْقَطِعُ"
         },
         {
           "w": "الْإِنْتِرْنِتُ",
           "bs": "internet",
-          "en": "the internet"
+          "en": "the internet",
+          "lemma": "إِنْتِرْنِتٌ"
         },
         {
           "w": "يَسْتَطِعْ",
           "root": "ط و ع",
           "bs": "mogao je",
-          "en": "could"
+          "en": "could",
+          "lemma": "اسْتَطَاعَ يَسْتَطِيعُ"
         },
         {
           "w": "الْعَمَلَ",
           "root": "ع م ل",
           "bs": "raditi",
-          "en": "work"
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
         }
       ]
     },
@@ -42,25 +46,29 @@
           "w": "اتَّصَلَ",
           "root": "و ص ل",
           "bs": "nazvao je",
-          "en": "called"
+          "en": "called",
+          "lemma": "اتَّصَلَ يَتَّصِلُ"
         },
         {
           "w": "الشَّرِكَةِ",
           "root": "ش ر ك",
           "bs": "kompaniju",
-          "en": "the company"
+          "en": "the company",
+          "lemma": "شَرِكَةٌ / شَرِكَاتٌ"
         },
         {
           "w": "أَبْلَغَهُمْ",
           "root": "ب ل غ",
           "bs": "prijavio im je",
-          "en": "reported to them"
+          "en": "reported to them",
+          "lemma": "أَبْلَغَ يُبْلِغُ"
         },
         {
           "w": "الْمُشْكِلَةِ",
           "root": "ش ك ل",
           "bs": "problem",
-          "en": "the problem"
+          "en": "the problem",
+          "lemma": "مُشْكِلَةٌ / مَشَاكِلُ"
         }
       ]
     },
@@ -73,19 +81,22 @@
           "w": "سَنُصْلِحُ",
           "root": "ص ل ح",
           "bs": "popravit ćemo",
-          "en": "we will fix"
+          "en": "we will fix",
+          "lemma": "أَصْلَحَ يُصْلِحُ"
         },
         {
           "w": "الْمَشْكِلَةَ",
           "root": "ش ك ل",
           "bs": "problem",
-          "en": "the problem"
+          "en": "the problem",
+          "lemma": "مُشْكِلَةٌ / مَشَاكِلُ"
         },
         {
           "w": "سَاعَةٍ",
           "root": "س و ع",
           "bs": "sata",
-          "en": "an hour"
+          "en": "an hour",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
         }
       ]
     },
@@ -98,25 +109,29 @@
           "w": "جَلَسَ",
           "root": "ج ل س",
           "bs": "sjeo je",
-          "en": "sat"
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
         },
         {
           "w": "قَرَأَ",
           "root": "ق ر أ",
           "bs": "čitao je",
-          "en": "read"
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
         },
         {
           "w": "كِتَابًا",
           "root": "ك ت ب",
           "bs": "knjigu",
-          "en": "a book"
+          "en": "a book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
         },
         {
           "w": "عَادَ",
           "root": "ع و د",
           "bs": "vratio se",
-          "en": "came back"
+          "en": "came back",
+          "lemma": "عَادَ يَعُودُ"
         }
       ]
     }

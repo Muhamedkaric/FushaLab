@@ -8,10 +8,34 @@
       "translation": "Porodica je sjela u voz do sela.",
       "translationEn": "The family took the train to the village.",
       "words": [
-        { "w": "رَكِبَتِ", "root": "ر ك ب", "bs": "sjeli su u / vozili su se", "en": "rode / took" },
-        { "w": "الْأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
-        { "w": "الْقِطَارَ", "root": "ق ط ر", "bs": "voz", "en": "train" },
-        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" }
+        {
+          "w": "رَكِبَتِ",
+          "root": "ر ك ب",
+          "bs": "sjeli su u / vozili su se",
+          "en": "rode / took",
+          "lemma": "رَكِبَ يَرْكَبُ"
+        },
+        {
+          "w": "الْأُسْرَةُ",
+          "root": "أ س ر",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "الْقِطَارَ",
+          "root": "ق ط ر",
+          "bs": "voz",
+          "en": "train",
+          "lemma": "قِطَارٌ / قِطَارَاتٌ"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Voz je bio spor ali je putovanje bilo mirno.",
       "translationEn": "The train was slow but the journey was peaceful.",
       "words": [
-        { "w": "الْقِطَارُ", "root": "ق ط ر", "bs": "voz", "en": "train" },
-        { "w": "بَطِيئًا", "root": "ب ط أ", "bs": "spor", "en": "slow" },
-        { "w": "الرِّحْلَةَ", "root": "ر ح ل", "bs": "putovanje", "en": "journey" },
-        { "w": "هَادِئَةً", "root": "ه د أ", "bs": "mirno / tiho", "en": "peaceful / quiet" }
+        {
+          "w": "الْقِطَارُ",
+          "root": "ق ط ر",
+          "bs": "voz",
+          "en": "train",
+          "lemma": "قِطَارٌ / قِطَارَاتٌ"
+        },
+        {
+          "w": "بَطِيئًا",
+          "root": "ب ط أ",
+          "bs": "spor",
+          "en": "slow",
+          "lemma": "بَطِيءٌ"
+        },
+        {
+          "w": "الرِّحْلَةَ",
+          "root": "ر ح ل",
+          "bs": "putovanje",
+          "en": "journey",
+          "lemma": "رِحْلَةٌ / رِحْلَاتٌ"
+        },
+        {
+          "w": "هَادِئَةً",
+          "root": "ه د أ",
+          "bs": "mirno / tiho",
+          "en": "peaceful / quiet",
+          "lemma": "هَادِئٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Stigli su u selo u podne i djed ih je dočekao.",
       "translationEn": "They arrived in the village at noon and grandfather welcomed them.",
       "words": [
-        { "w": "وَصَلُوا", "root": "و ص ل", "bs": "stigli su", "en": "arrived" },
-        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" },
-        { "w": "ظُهْرًا", "root": "ظ ه ر", "bs": "u podne", "en": "at noon" },
-        { "w": "اسْتَقْبَلَهُمُ", "root": "ق ب ل", "bs": "dočekao ih je", "en": "welcomed them" }
+        {
+          "w": "وَصَلُوا",
+          "root": "و ص ل",
+          "bs": "stigli su",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "ظُهْرًا",
+          "root": "ظ ه ر",
+          "bs": "u podne",
+          "en": "at noon",
+          "lemma": "ظُهْرٌ"
+        },
+        {
+          "w": "اسْتَقْبَلَهُمُ",
+          "root": "ق ب ل",
+          "bs": "dočekao ih je",
+          "en": "welcomed them",
+          "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Djed se veoma obradovao kad je vidio unuke.",
       "translationEn": "Grandfather was very happy when he saw his grandchildren.",
       "words": [
-        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" },
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
-        { "w": "أَحْفَادَهُ", "root": "ح ف د", "bs": "njegovi unuci", "en": "his grandchildren" }
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovao se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "أَحْفَادَهُ",
+          "root": "ح ف د",
+          "bs": "njegovi unuci",
+          "en": "his grandchildren",
+          "lemma": "حَفِيدٌ / أَحْفَادٌ"
+        }
       ]
     }
   ],

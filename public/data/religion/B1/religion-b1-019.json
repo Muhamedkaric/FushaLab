@@ -12,31 +12,36 @@
           "w": "أَكَلَتِ",
           "root": "أ ك ل",
           "bs": "jela je",
-          "en": "ate"
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "الْعَائِلَةُ",
           "root": "ع و ل",
           "bs": "porodica",
-          "en": "the family"
+          "en": "the family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
         },
         {
           "w": "قَالُوا",
           "root": "ق و ل",
           "bs": "rekli su",
-          "en": "said"
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
         },
         {
           "w": "بِسْمِ اللَّهِ",
           "root": "س م و",
           "bs": "Bismillah",
-          "en": "in the name of God"
+          "en": "in the name of God",
+          "lemma": "بِسْمِ اللَّهِ"
         },
         {
           "w": "الطَّعَامِ",
           "root": "ط ع م",
           "bs": "hrane",
-          "en": "food"
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         }
       ]
     },
@@ -49,31 +54,36 @@
           "w": "عَلَّمَ",
           "root": "ع ل م",
           "bs": "naučio je",
-          "en": "taught"
+          "en": "taught",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
         },
         {
           "w": "الْأَبُ",
           "root": "أ ب و",
           "bs": "otac",
-          "en": "the father"
+          "en": "the father",
+          "lemma": "أَبٌ / آبَاءٌ"
         },
         {
           "w": "الطِّفْلَ",
           "root": "ط ف ل",
           "bs": "dijete",
-          "en": "the child"
+          "en": "the child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "يَقُولَ",
           "root": "ق و ل",
           "bs": "kaže",
-          "en": "say"
+          "en": "say",
+          "lemma": "قَالَ يَقُولُ"
         },
         {
           "w": "الْبَسْمَلَةَ",
           "root": "ب س م",
           "bs": "Bismillah",
-          "en": "Bismillah"
+          "en": "Bismillah",
+          "lemma": "بَسْمَلَةٌ"
         }
       ]
     },
@@ -86,13 +96,15 @@
           "w": "الرِّزْقَ",
           "root": "ر ز ق",
           "bs": "opskrba",
-          "en": "provision"
+          "en": "provision",
+          "lemma": "رِزْقٌ / أَرْزَاقٌ"
         },
         {
           "w": "اللَّهِ",
           "root": "أ ل ه",
           "bs": "od Allaha",
-          "en": "from God"
+          "en": "from God",
+          "lemma": "اللَّهُ"
         }
       ]
     },
@@ -105,25 +117,29 @@
           "w": "فَهِمَ",
           "root": "ف ه م",
           "bs": "razumjelo je",
-          "en": "understood"
+          "en": "understood",
+          "lemma": "فَهِمَ يَفْهَمُ"
         },
         {
           "w": "الطِّفْلُ",
           "root": "ط ف ل",
           "bs": "dijete",
-          "en": "the child"
+          "en": "the child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "قَالَ",
           "root": "ق و ل",
           "bs": "reklo je",
-          "en": "said"
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
         },
         {
           "w": "الْبَسْمَلَةَ",
           "root": "ب س م",
           "bs": "Bismillah",
-          "en": "Bismillah"
+          "en": "Bismillah",
+          "lemma": "بَسْمَلَةٌ"
         }
       ]
     }

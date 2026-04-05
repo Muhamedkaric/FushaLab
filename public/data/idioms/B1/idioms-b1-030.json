@@ -8,10 +8,34 @@
       "translation": "Djevojčica je čula: «Mladost je vjetar a starost je umor».",
       "translationEn": "The little girl heard: «Youth is wind and old age is fatigue».",
       "words": [
-        { "w": "الشَّبَابُ", "root": "ش ب ب", "bs": "mladost", "en": "youth" },
-        { "w": "رِيحٌ", "root": "ر و ح", "bs": "vjetar", "en": "wind" },
-        { "w": "الشَّيْخُوخَةُ", "root": "ش ي خ", "bs": "starost", "en": "old age" },
-        { "w": "تَعَبٌ", "root": "ت ع ب", "bs": "umor", "en": "fatigue" }
+        {
+          "w": "الشَّبَابُ",
+          "root": "ش ب ب",
+          "bs": "mladost",
+          "en": "youth",
+          "lemma": "شَبَابٌ"
+        },
+        {
+          "w": "رِيحٌ",
+          "root": "ر و ح",
+          "bs": "vjetar",
+          "en": "wind",
+          "lemma": "رِيحٌ / رِيَاحٌ"
+        },
+        {
+          "w": "الشَّيْخُوخَةُ",
+          "root": "ش ي خ",
+          "bs": "starost",
+          "en": "old age",
+          "lemma": "شَيْخُوخَةٌ"
+        },
+        {
+          "w": "تَعَبٌ",
+          "root": "ت ع ب",
+          "bs": "umor",
+          "en": "fatigue",
+          "lemma": "تَعَبٌ / أَتْعَابٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "To znači da trebamo iskoristiti energiju mladosti.",
       "translationEn": "This means that we should invest the energy of youth.",
       "words": [
-        { "w": "اسْتِثْمَارَ", "root": "ث م ر", "bs": "iskorišćavanje", "en": "investing" },
-        { "w": "طَاقَةِ", "root": "ط و ق", "bs": "energija", "en": "energy" },
-        { "w": "الشَّبَابِ", "root": "ش ب ب", "bs": "mladost", "en": "youth" }
+        {
+          "w": "اسْتِثْمَارَ",
+          "root": "ث م ر",
+          "bs": "iskorišćavanje",
+          "en": "investing",
+          "lemma": "اسْتِثْمَارٌ / اسْتِثْمَارَاتٌ"
+        },
+        {
+          "w": "طَاقَةِ",
+          "root": "ط و ق",
+          "bs": "energija",
+          "en": "energy",
+          "lemma": "طَاقَةٌ / طَاقَاتٌ"
+        },
+        {
+          "w": "الشَّبَابِ",
+          "root": "ش ب ب",
+          "bs": "mladost",
+          "en": "youth",
+          "lemma": "شَبَابٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,33 @@
       "translation": "Odlučila je naučiti svirati klavir dok je mala.",
       "translationEn": "She decided to learn to play the piano while she is young.",
       "words": [
-        { "w": "تَتَعَلَّمَ", "root": "ع ل م", "bs": "naučiti", "en": "learn" },
-        { "w": "الْعَزْفَ", "root": "ع ز ف", "bs": "sviranje", "en": "playing" },
-        { "w": "الْبِيَانُو", "bs": "klavir", "en": "piano" },
-        { "w": "صَغِيرَةٌ", "root": "ص غ ر", "bs": "mala", "en": "young" }
+        {
+          "w": "تَتَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučiti",
+          "en": "learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الْعَزْفَ",
+          "root": "ع ز ف",
+          "bs": "sviranje",
+          "en": "playing",
+          "lemma": "عَزْفٌ"
+        },
+        {
+          "w": "الْبِيَانُو",
+          "bs": "klavir",
+          "en": "piano",
+          "lemma": "بِيَانُو"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "young",
+          "lemma": "صَغِيرٌ"
+        }
       ]
     },
     {
@@ -40,14 +105,36 @@
       "translation": "Vježbala je svaki dan i postala je odlična sviračica.",
       "translationEn": "She practiced every day and became an outstanding pianist.",
       "words": [
-        { "w": "تَدَرَّبَتْ", "root": "د ر ب", "bs": "vježbala je", "en": "practiced" },
-        { "w": "عَازِفَةً", "root": "ع ز ف", "bs": "sviračica", "en": "pianist" },
-        { "w": "مُمَيَّزَةً", "root": "م ي ز", "bs": "odlična", "en": "outstanding" }
+        {
+          "w": "تَدَرَّبَتْ",
+          "root": "د ر ب",
+          "bs": "vježbala je",
+          "en": "practiced",
+          "lemma": "تَدَرَّبَ يَتَدَرَّبُ"
+        },
+        {
+          "w": "عَازِفَةً",
+          "root": "ع ز ف",
+          "bs": "sviračica",
+          "en": "pianist",
+          "lemma": "عَازِفٌ / عَازِفُونَ"
+        },
+        {
+          "w": "مُمَيَّزَةً",
+          "root": "م ي ز",
+          "bs": "odlična",
+          "en": "outstanding",
+          "lemma": "مُمَيَّزٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["youth", "proverb", "time"]
+    "tags": [
+      "youth",
+      "proverb",
+      "time"
+    ]
   }
 }

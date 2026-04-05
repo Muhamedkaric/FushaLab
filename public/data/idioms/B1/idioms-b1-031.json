@@ -8,9 +8,27 @@
       "translation": "Poslovica kaže: «Stanovnici Mekke bolje poznaju njene klance».",
       "translationEn": "The proverb says: «The people of Mecca know its paths better».",
       "words": [
-        { "w": "أَهْلُ", "root": "أ ه ل", "bs": "stanovnici", "en": "people" },
-        { "w": "أَدْرَى", "root": "د ر ي", "bs": "bolje znaju", "en": "know better" },
-        { "w": "بِشِعَابِهَا", "root": "ش ع ب", "bs": "njeni klanci", "en": "its paths" }
+        {
+          "w": "أَهْلُ",
+          "root": "أ ه ل",
+          "bs": "stanovnici",
+          "en": "people",
+          "lemma": "أَهْلٌ / أَهَالٍ"
+        },
+        {
+          "w": "أَدْرَى",
+          "root": "د ر ي",
+          "bs": "bolje znaju",
+          "en": "know better",
+          "lemma": "دَرَى يَدْرِي"
+        },
+        {
+          "w": "بِشِعَابِهَا",
+          "root": "ش ع ب",
+          "bs": "njeni klanci",
+          "en": "its paths",
+          "lemma": "شِعْبٌ / شِعَابٌ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "To znači da su iskusni ljudi najprimjereniji za savjet.",
       "translationEn": "This means that experienced people are most fit to give advice.",
       "words": [
-        { "w": "الْخِبْرَةِ", "root": "خ ب ر", "bs": "iskustvo", "en": "experience" },
-        { "w": "الأَجْدَرُ", "root": "ج د ر", "bs": "najprimjereniji", "en": "most fit" },
-        { "w": "الْمَشُورَةِ", "root": "ش و ر", "bs": "savjet", "en": "advice" }
+        {
+          "w": "الْخِبْرَةِ",
+          "root": "خ ب ر",
+          "bs": "iskustvo",
+          "en": "experience",
+          "lemma": "خِبْرَةٌ / خِبْرَاتٌ"
+        },
+        {
+          "w": "الأَجْدَرُ",
+          "root": "ج د ر",
+          "bs": "najprimjereniji",
+          "en": "most fit",
+          "lemma": "جَدِيرٌ"
+        },
+        {
+          "w": "الْمَشُورَةِ",
+          "root": "ش و ر",
+          "bs": "savjet",
+          "en": "advice",
+          "lemma": "مَشُورَةٌ / مَشُورَاتٌ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Tawfik je htio putovati u novi grad.",
       "translationEn": "Tawfiq wanted to travel to a new city.",
       "words": [
-        { "w": "السَّفَرَ", "root": "س ف ر", "bs": "putovanje", "en": "travel" },
-        { "w": "مَدِينَةٍ", "root": "م د ن", "bs": "grad", "en": "city" },
-        { "w": "جَدِيدَةٍ", "root": "ج د د", "bs": "novi", "en": "new" }
+        {
+          "w": "السَّفَرَ",
+          "root": "س ف ر",
+          "bs": "putovanje",
+          "en": "travel",
+          "lemma": "سَفَرٌ / أَسْفَارٌ"
+        },
+        {
+          "w": "مَدِينَةٍ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -38,14 +92,36 @@
       "translation": "Pitao je prijatelja koji živi tamo i ovaj mu je dao najboIje savjete.",
       "translationEn": "He asked a friend who lives there and he gave him the best advice.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
-        { "w": "صَدِيقًا", "root": "ص د ق", "bs": "prijatelja", "en": "friend" },
-        { "w": "النَّصَائِحِ", "root": "ن ص ح", "bs": "savjeti", "en": "advice" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "صَدِيقًا",
+          "root": "ص د ق",
+          "bs": "prijatelja",
+          "en": "friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "النَّصَائِحِ",
+          "root": "ن ص ح",
+          "bs": "savjeti",
+          "en": "advice",
+          "lemma": "نَصِيحَةٌ / نَصَائِحُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["experience", "proverb", "advice"]
+    "tags": [
+      "experience",
+      "proverb",
+      "advice"
+    ]
   }
 }

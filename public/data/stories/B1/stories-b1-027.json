@@ -8,9 +8,27 @@
       "translation": "Jedna porodica je živjela pored mora.",
       "translationEn": "A family lived beside the sea.",
       "words": [
-        { "w": "عَائِلَةٌ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "تَسْكُنُ", "root": "س ك ن", "bs": "živjela je", "en": "lived" },
-        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "sea" }
+        {
+          "w": "عَائِلَةٌ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "تَسْكُنُ",
+          "root": "س ك ن",
+          "bs": "živjela je",
+          "en": "lived",
+          "lemma": "سَكَنَ يَسْكُنُ"
+        },
+        {
+          "w": "الْبَحْرِ",
+          "root": "ب ح ر",
+          "bs": "more",
+          "en": "sea",
+          "lemma": "بَحْرٌ / بِحَارٌ"
+        }
       ]
     },
     {
@@ -18,11 +36,41 @@
       "translation": "Svako jutro otac je lovio ribu i vraćao se s njom.",
       "translationEn": "Every morning the father fished and came back with it.",
       "words": [
-        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" },
-        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
-        { "w": "يَصْطَادُ", "root": "ص ي د", "bs": "lovio je", "en": "fished" },
-        { "w": "السَّمَكَ", "root": "س م ك", "bs": "riba", "en": "fish" },
-        { "w": "يَعُودُ", "root": "ع و د", "bs": "vraćao se", "en": "came back" }
+        {
+          "w": "صَبَاحٍ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        },
+        {
+          "w": "الأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "يَصْطَادُ",
+          "root": "ص ي د",
+          "bs": "lovio je",
+          "en": "fished",
+          "lemma": "اصْطَادَ يَصْطَادُ"
+        },
+        {
+          "w": "السَّمَكَ",
+          "root": "س م ك",
+          "bs": "riba",
+          "en": "fish",
+          "lemma": "سَمَكٌ / أَسْمَاكٌ"
+        },
+        {
+          "w": "يَعُودُ",
+          "root": "ع و د",
+          "bs": "vraćao se",
+          "en": "came back",
+          "lemma": "عَادَ يَعُودُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Djeca su voljela sjediti na plaži i rastezati mreže.",
       "translationEn": "The children loved sitting on the shore and spreading the nets.",
       "words": [
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "الْجُلُوسَ", "root": "ج ل س", "bs": "sjediti", "en": "sitting" },
-        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plaža", "en": "shore" },
-        { "w": "الشِّبَاكِ", "root": "ش ب ك", "bs": "mreže", "en": "nets" }
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الْجُلُوسَ",
+          "root": "ج ل س",
+          "bs": "sjediti",
+          "en": "sitting",
+          "lemma": "جُلُوسٌ"
+        },
+        {
+          "w": "الشَّاطِئِ",
+          "root": "ش ط أ",
+          "bs": "plaža",
+          "en": "shore",
+          "lemma": "شَاطِئٌ / شَوَاطِئُ"
+        },
+        {
+          "w": "الشِّبَاكِ",
+          "root": "ش ب ك",
+          "bs": "mreže",
+          "en": "nets",
+          "lemma": "شَبَكَةٌ / شِبَاكٌ"
+        }
       ]
     },
     {
@@ -41,16 +113,51 @@
       "translation": "Uveče je porodica sretno zajedno jela ribu.",
       "translationEn": "In the evening the family ate fish together happily.",
       "words": [
-        { "w": "الْمَسَاءِ", "root": "م س و", "bs": "večer", "en": "evening" },
-        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "jela je", "en": "ate" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "السَّمَكَ", "root": "س م ك", "bs": "ribu", "en": "fish" },
-        { "w": "بِسَعَادَةٍ", "root": "س ع د", "bs": "sretno", "en": "happily" }
+        {
+          "w": "الْمَسَاءِ",
+          "root": "م س و",
+          "bs": "večer",
+          "en": "evening",
+          "lemma": "مَسَاءٌ"
+        },
+        {
+          "w": "أَكَلَتِ",
+          "root": "أ ك ل",
+          "bs": "jela je",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "السَّمَكَ",
+          "root": "س م ك",
+          "bs": "ribu",
+          "en": "fish",
+          "lemma": "سَمَكٌ / أَسْمَاكٌ"
+        },
+        {
+          "w": "بِسَعَادَةٍ",
+          "root": "س ع د",
+          "bs": "sretno",
+          "en": "happily",
+          "lemma": "سَعَادَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sea", "family", "fishing", "daily life"]
+    "tags": [
+      "sea",
+      "family",
+      "fishing",
+      "daily life"
+    ]
   }
 }

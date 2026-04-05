@@ -8,11 +8,41 @@
       "translation": "Jasir je htio nešto lagano pojesti ujutro.",
       "translationEn": "Yasir wanted to eat something light in the morning.",
       "words": [
-        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je/željeo", "en": "wanted" },
-        { "w": "يَأْكُلَ", "root": "أ ك ل", "bs": "da jede/pojede", "en": "to eat" },
-        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "nešto", "en": "something" },
-        { "w": "خَفِيفًا", "root": "خ ف ف", "bs": "lagano/lako", "en": "light" },
-        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je/željeo",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "يَأْكُلَ",
+          "root": "أ ك ل",
+          "bs": "da jede/pojede",
+          "en": "to eat",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "شَيْئًا",
+          "root": "ش ي أ",
+          "bs": "nešto",
+          "en": "something",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "خَفِيفًا",
+          "root": "خ ف ف",
+          "bs": "lagano/lako",
+          "en": "light",
+          "lemma": "خَفِيفٌ"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Uzeo je šolju jogurta i jednu bananu.",
       "translationEn": "He took a cup of yogurt and a banana.",
       "words": [
-        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
-        { "w": "كُوبًا", "root": "ك و ب", "bs": "šolja/čaša", "en": "cup" },
-        { "w": "الزَّبَادِي", "root": "ز ب د", "bs": "jogurt", "en": "yogurt" },
-        { "w": "مَوْزَةً", "root": "م و ز", "bs": "banana", "en": "banana" }
+        {
+          "w": "أَخَذَ",
+          "root": "أ خ ذ",
+          "bs": "uzeo je",
+          "en": "took",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "كُوبًا",
+          "root": "ك و ب",
+          "bs": "šolja/čaša",
+          "en": "cup",
+          "lemma": "كُوبٌ / أَكْوَابٌ"
+        },
+        {
+          "w": "الزَّبَادِي",
+          "root": "ز ب د",
+          "bs": "jogurt",
+          "en": "yogurt",
+          "lemma": "زَبَادِي"
+        },
+        {
+          "w": "مَوْزَةً",
+          "root": "م و ز",
+          "bs": "banana",
+          "en": "banana",
+          "lemma": "مَوْزٌ / مَوْزَةٌ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Jeo je brzo jer je kasnio.",
       "translationEn": "He ate quickly because he was late.",
       "words": [
-        { "w": "أَكَلَ", "root": "أ ك ل", "bs": "jeo je/pojeo", "en": "ate" },
-        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" },
-        { "w": "مُتَأَخِّرًا", "root": "أ خ ر", "bs": "zakasnio/kasni", "en": "late" }
+        {
+          "w": "أَكَلَ",
+          "root": "أ ك ل",
+          "bs": "jeo je/pojeo",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly",
+          "lemma": "سُرْعَةٌ"
+        },
+        {
+          "w": "مُتَأَخِّرًا",
+          "root": "أ خ ر",
+          "bs": "zakasnio/kasni",
+          "en": "late",
+          "lemma": "مُتَأَخِّرٌ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Otišao je na posao osjećajući se aktivnim.",
       "translationEn": "He went to work feeling energetic.",
       "words": [
-        { "w": "خَرَجَ", "root": "خ ر ج", "bs": "izašao je/otišao", "en": "went/left" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
-        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
-        { "w": "بِنَشَاطٍ", "root": "ن ش ط", "bs": "aktivno/energično", "en": "energetically" }
+        {
+          "w": "خَرَجَ",
+          "root": "خ ر ج",
+          "bs": "izašao je/otišao",
+          "en": "went/left",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao/rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِنَشَاطٍ",
+          "root": "ن ش ط",
+          "bs": "aktivno/energično",
+          "en": "energetically",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
+        }
       ]
     }
   ],

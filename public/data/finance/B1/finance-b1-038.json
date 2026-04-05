@@ -8,10 +8,34 @@
       "translation": "Majka je poslala sina da kupi hljeb iz pekare.",
       "translationEn": "The mother sent her son to buy bread from the bakery.",
       "words": [
-        { "w": "أَرْسَلَتِ", "root": "ر س ل", "bs": "poslala je", "en": "sent" },
-        { "w": "ابْنَهَا", "root": "ب ن ي", "bs": "njen sin", "en": "her son" },
-        { "w": "لِشِرَاءِ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
-        { "w": "الخُبْزِ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" }
+        {
+          "w": "أَرْسَلَتِ",
+          "root": "ر س ل",
+          "bs": "poslala je",
+          "en": "sent",
+          "lemma": "أَرْسَلَ يُرْسِلُ"
+        },
+        {
+          "w": "ابْنَهَا",
+          "root": "ب ن ي",
+          "bs": "njen sin",
+          "en": "her son",
+          "lemma": "اِبْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "لِشِرَاءِ",
+          "root": "ش ر ي",
+          "bs": "da kupi",
+          "en": "to buy",
+          "lemma": "شِرَاءٌ"
+        },
+        {
+          "w": "الخُبْزِ",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread",
+          "lemma": "خُبْزٌ / أَخْبَازٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Dala mu je deset dirhema i tražila tri hljeba.",
       "translationEn": "She gave him ten dirhams and asked for three loaves.",
       "words": [
-        { "w": "أَعْطَتْهُ", "root": "ع ط و", "bs": "dala mu je", "en": "gave him" },
-        { "w": "دَرَاهِمَ", "root": "د ر ه م", "bs": "dirhema", "en": "dirhams" },
-        { "w": "طَلَبَتْ", "root": "ط ل ب", "bs": "tražila je", "en": "asked for" },
-        { "w": "أَرْغِفَةٍ", "root": "ر غ ف", "bs": "hljebova", "en": "loaves" }
+        {
+          "w": "أَعْطَتْهُ",
+          "root": "ع ط و",
+          "bs": "dala mu je",
+          "en": "gave him",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "دَرَاهِمَ",
+          "root": "د ر ه م",
+          "bs": "dirhema",
+          "en": "dirhams",
+          "lemma": "دِرْهَمٌ / دَرَاهِمُ"
+        },
+        {
+          "w": "طَلَبَتْ",
+          "root": "ط ل ب",
+          "bs": "tražila je",
+          "en": "asked for",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "أَرْغِفَةٍ",
+          "root": "ر غ ف",
+          "bs": "hljebova",
+          "en": "loaves",
+          "lemma": "رَغِيفٌ / أَرْغِفَةٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Otišao je i kupio hljebove i uzeo ostatak.",
       "translationEn": "He went and bought the loaves and took the change.",
       "words": [
-        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
-        { "w": "الأَرْغِفَةَ", "root": "ر غ ف", "bs": "hljebove", "en": "loaves" },
-        { "w": "أَخَذَ", "root": "أ خ ذ", "bs": "uzeo je", "en": "took" },
-        { "w": "البَاقِيَ", "root": "ب ق ي", "bs": "kusur", "en": "change" }
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "الأَرْغِفَةَ",
+          "root": "ر غ ف",
+          "bs": "hljebove",
+          "en": "loaves",
+          "lemma": "رَغِيفٌ / أَرْغِفَةٌ"
+        },
+        {
+          "w": "أَخَذَ",
+          "root": "أ خ ذ",
+          "bs": "uzeo je",
+          "en": "took",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "البَاقِيَ",
+          "root": "ب ق ي",
+          "bs": "kusur",
+          "en": "change",
+          "lemma": "بَاقٍ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Vratio se kući i dao majci hljeb i kusur.",
       "translationEn": "He returned home and gave his mother the bread and the change.",
       "words": [
-        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
-        { "w": "أَعْطَى", "root": "ع ط و", "bs": "dao je", "en": "gave" },
-        { "w": "الخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
-        { "w": "الباقِيَ", "root": "ب ق ي", "bs": "kusur", "en": "change" }
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
+        },
+        {
+          "w": "أَعْطَى",
+          "root": "ع ط و",
+          "bs": "dao je",
+          "en": "gave",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "الخُبْزَ",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread",
+          "lemma": "خُبْزٌ / أَخْبَازٌ"
+        },
+        {
+          "w": "الباقِيَ",
+          "root": "ب ق ي",
+          "bs": "kusur",
+          "en": "change",
+          "lemma": "بَاقٍ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["bread", "errand", "change"]
+    "tags": [
+      "bread",
+      "errand",
+      "change"
+    ]
   }
 }

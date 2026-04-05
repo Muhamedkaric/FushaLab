@@ -8,10 +8,34 @@
       "translation": "Porodica je sjela u park nakon dugog dana.",
       "translationEn": "The family sat in the park after a long day.",
       "words": [
-        { "w": "جَلَسَتِ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
-        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "park / bašta", "en": "park / garden" },
-        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
-        { "w": "طَوِيلٍ", "root": "ط و ل", "bs": "dug", "en": "long" }
+        {
+          "w": "جَلَسَتِ",
+          "root": "ج ل س",
+          "bs": "sjela je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "park / bašta",
+          "en": "park / garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "طَوِيلٍ",
+          "root": "ط و ل",
+          "bs": "dug",
+          "en": "long",
+          "lemma": "طَوِيلٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Djeca su jela voće i pila sok.",
       "translationEn": "The children ate fruit and drank juice.",
       "words": [
-        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "الْفَوَاكِهَ", "root": "ف ك ه", "bs": "voće", "en": "fruit" },
-        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" }
+        {
+          "w": "الْأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الْفَوَاكِهَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "الْعَصِيرَ",
+          "root": "ع ص ر",
+          "bs": "sok",
+          "en": "juice",
+          "lemma": "عَصِيرٌ / عُصَارَاتٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Otac je pogledao nebo i rekao: Kako je ovaj dan lijep.",
       "translationEn": "The father looked at the sky and said: What a beautiful day.",
       "words": [
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" },
-        { "w": "السَّمَاءِ", "root": "س م و", "bs": "nebo", "en": "sky" },
-        { "w": "أَجْمَلَ", "root": "ج م ل", "bs": "najljepše", "en": "most beautiful" }
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "pogledao je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "السَّمَاءِ",
+          "root": "س م و",
+          "bs": "nebo",
+          "en": "sky",
+          "lemma": "سَمَاءٌ / سَمَاوَاتٌ"
+        },
+        {
+          "w": "أَجْمَلَ",
+          "root": "ج م ل",
+          "bs": "najljepše",
+          "en": "most beautiful",
+          "lemma": "أَجْمَلُ"
+        }
       ]
     },
     {
@@ -39,10 +99,34 @@
       "translation": "Vratili su se u hotel i spavali nakon lakog večernjeg obroka.",
       "translationEn": "They returned to the hotel and slept after a light dinner.",
       "words": [
-        { "w": "رَجَعُوا", "root": "ر ج ع", "bs": "vratili su se", "en": "returned" },
-        { "w": "الْفُنْدُقِ", "root": "ف ن د ق", "bs": "hotel", "en": "hotel" },
-        { "w": "نَامُوا", "root": "ن و م", "bs": "spavali su", "en": "slept" },
-        { "w": "عَشَاءٍ", "root": "ع ش و", "bs": "večera", "en": "dinner" }
+        {
+          "w": "رَجَعُوا",
+          "root": "ر ج ع",
+          "bs": "vratili su se",
+          "en": "returned",
+          "lemma": "رَجَعَ يَرْجِعُ"
+        },
+        {
+          "w": "الْفُنْدُقِ",
+          "root": "ف ن د ق",
+          "bs": "hotel",
+          "en": "hotel",
+          "lemma": "فُنْدُقٌ / فَنَادِقُ"
+        },
+        {
+          "w": "نَامُوا",
+          "root": "ن و م",
+          "bs": "spavali su",
+          "en": "slept",
+          "lemma": "نَامَ يَنَامُ"
+        },
+        {
+          "w": "عَشَاءٍ",
+          "root": "ع ش و",
+          "bs": "večera",
+          "en": "dinner",
+          "lemma": "عَشَاءٌ / أَعْشِيَةٌ"
+        }
       ]
     }
   ],

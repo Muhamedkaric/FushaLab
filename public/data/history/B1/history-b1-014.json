@@ -8,10 +8,34 @@
       "translation": "Bunar u središtu sela bio je veoma važan.",
       "translationEn": "The well in the centre of the village was very important.",
       "words": [
-        { "w": "الْبِئْرُ", "root": "ب أ ر", "bs": "bunar", "en": "the well" },
-        { "w": "وَسَطِ", "root": "و س ط", "bs": "središte", "en": "centre" },
-        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "sela", "en": "the village" },
-        { "w": "مُهِمَّةً", "root": "ه م م", "bs": "važan", "en": "important" }
+        {
+          "w": "الْبِئْرُ",
+          "root": "ب أ ر",
+          "bs": "bunar",
+          "en": "the well",
+          "lemma": "بِئْرٌ / آبَارٌ"
+        },
+        {
+          "w": "وَسَطِ",
+          "root": "و س ط",
+          "bs": "središte",
+          "en": "centre",
+          "lemma": "وَسَطٌ / أَوْسَاطٌ"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "root": "ق ر ي",
+          "bs": "sela",
+          "en": "the village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "مُهِمَّةً",
+          "root": "ه م م",
+          "bs": "važan",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        }
       ]
     },
     {
@@ -19,8 +43,20 @@
       "translation": "Ljudi su se skupljali oko njega svaki dan.",
       "translationEn": "The people would gather around it every day.",
       "words": [
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
-        { "w": "يَجْتَمِعُونَ", "root": "ج م ع", "bs": "skupljaju se", "en": "gather" }
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "the people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "يَجْتَمِعُونَ",
+          "root": "ج م ع",
+          "bs": "skupljaju se",
+          "en": "gather",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        }
       ]
     },
     {
@@ -28,11 +64,41 @@
       "translation": "Žene su uzimale vodu u velikim loncima.",
       "translationEn": "The women took water in large jars.",
       "words": [
-        { "w": "أَخَذَتِ", "root": "أ خ ذ", "bs": "uzimale su", "en": "took" },
-        { "w": "النِّسَاءُ", "root": "ن س و", "bs": "žene", "en": "the women" },
-        { "w": "الْمَاءَ", "root": "م و ه", "bs": "vodu", "en": "water" },
-        { "w": "جِرَارٍ", "root": "ج ر ر", "bs": "lonci", "en": "jars" },
-        { "w": "كَبِيرَةٍ", "root": "ك ب ر", "bs": "veliki", "en": "large" }
+        {
+          "w": "أَخَذَتِ",
+          "root": "أ خ ذ",
+          "bs": "uzimale su",
+          "en": "took",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "النِّسَاءُ",
+          "root": "ن س و",
+          "bs": "žene",
+          "en": "the women",
+          "lemma": "اِمْرَأَةٌ / نِسَاءٌ"
+        },
+        {
+          "w": "الْمَاءَ",
+          "root": "م و ه",
+          "bs": "vodu",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "جِرَارٍ",
+          "root": "ج ر ر",
+          "bs": "lonci",
+          "en": "jars",
+          "lemma": "جَرَّةٌ / جِرَارٌ"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "root": "ك ب ر",
+          "bs": "veliki",
+          "en": "large",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -40,16 +106,50 @@
       "translation": "Hladna voda iz bunara bila je ukusna ljeti.",
       "translationEn": "The cold water from the well was delicious in summer.",
       "words": [
-        { "w": "الْمَاءُ", "root": "م و ه", "bs": "voda", "en": "the water" },
-        { "w": "الْبَارِدُ", "root": "ب ر د", "bs": "hladna", "en": "cold" },
-        { "w": "الْبِئْرِ", "root": "ب أ ر", "bs": "bunara", "en": "the well" },
-        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusna", "en": "delicious" },
-        { "w": "الصَّيْفِ", "root": "ص ي ف", "bs": "ljeto", "en": "summer" }
+        {
+          "w": "الْمَاءُ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "the water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "الْبَارِدُ",
+          "root": "ب ر د",
+          "bs": "hladna",
+          "en": "cold",
+          "lemma": "بَارِدٌ"
+        },
+        {
+          "w": "الْبِئْرِ",
+          "root": "ب أ ر",
+          "bs": "bunara",
+          "en": "the well",
+          "lemma": "بِئْرٌ / آبَارٌ"
+        },
+        {
+          "w": "لَذِيذًا",
+          "root": "ل ذ ذ",
+          "bs": "ukusna",
+          "en": "delicious",
+          "lemma": "لَذِيذٌ"
+        },
+        {
+          "w": "الصَّيْفِ",
+          "root": "ص ي ف",
+          "bs": "ljeto",
+          "en": "summer",
+          "lemma": "صَيْفٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["village", "water", "daily life"]
+    "tags": [
+      "village",
+      "water",
+      "daily life"
+    ]
   }
 }

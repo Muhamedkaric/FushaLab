@@ -8,11 +8,41 @@
       "translation": "Po mom mišljenju, dovoljan san je veoma važan za zdravlje.",
       "translationEn": "In my opinion, sufficient sleep is very important for health.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "mišljenju", "en": "opinion" },
-        { "w": "النَّوْمُ", "root": "ن و م", "bs": "san", "en": "sleep" },
-        { "w": "الْكَافِي", "root": "ك ف ي", "bs": "dovoljan", "en": "sufficient" },
-        { "w": "مُهِمٌّ", "root": "ه م م", "bs": "važan", "en": "important" },
-        { "w": "الصِّحَّةِ", "root": "ص ح ح", "bs": "zdravlje", "en": "health" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "mišljenju",
+          "en": "opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "النَّوْمُ",
+          "root": "ن و م",
+          "bs": "san",
+          "en": "sleep",
+          "lemma": "نَوْمٌ"
+        },
+        {
+          "w": "الْكَافِي",
+          "root": "ك ف ي",
+          "bs": "dovoljan",
+          "en": "sufficient",
+          "lemma": "كَافٍ"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "root": "ه م م",
+          "bs": "važan",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "الصِّحَّةِ",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health",
+          "lemma": "صِحَّةٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Kada ne spavam dobro, cijeli dan se osjećam umorno.",
       "translationEn": "When I do not sleep well I feel tired all day.",
       "words": [
-        { "w": "أَنَامُ", "root": "ن و م", "bs": "spavam", "en": "I sleep" },
-        { "w": "جَيِّدًا", "root": "ج و د", "bs": "dobro", "en": "well" },
-        { "w": "أَشْعُرُ", "root": "ش ع ر", "bs": "osjećam", "en": "I feel" },
-        { "w": "بِالتَّعَبِ", "root": "ت ع ب", "bs": "umorno", "en": "tired" }
+        {
+          "w": "أَنَامُ",
+          "root": "ن و م",
+          "bs": "spavam",
+          "en": "I sleep",
+          "lemma": "نَامَ يَنَامُ"
+        },
+        {
+          "w": "جَيِّدًا",
+          "root": "ج و د",
+          "bs": "dobro",
+          "en": "well",
+          "lemma": "جَيِّدٌ"
+        },
+        {
+          "w": "أَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećam",
+          "en": "I feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِالتَّعَبِ",
+          "root": "ت ع ب",
+          "bs": "umorno",
+          "en": "tired",
+          "lemma": "تَعَبٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Tijelu treba osam sati sna.",
       "translationEn": "The body needs eight hours of sleep.",
       "words": [
-        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
-        { "w": "الْجِسْمُ", "root": "ج س م", "bs": "tijelu", "en": "body" },
-        { "w": "سَاعَاتٍ", "root": "س و ع", "bs": "sati", "en": "hours" },
-        { "w": "النَّوْمِ", "root": "ن و م", "bs": "sna", "en": "sleep" }
+        {
+          "w": "يَحْتَاجُ",
+          "root": "ح و ج",
+          "bs": "treba",
+          "en": "needs",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
+        },
+        {
+          "w": "الْجِسْمُ",
+          "root": "ج س م",
+          "bs": "tijelu",
+          "en": "body",
+          "lemma": "جِسْمٌ / أَجْسَامٌ"
+        },
+        {
+          "w": "سَاعَاتٍ",
+          "root": "س و ع",
+          "bs": "sati",
+          "en": "hours",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "النَّوْمِ",
+          "root": "ن و م",
+          "bs": "sna",
+          "en": "sleep",
+          "lemma": "نَوْمٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Rano legam svaki dan da bih bio u dobrom zdravlju.",
       "translationEn": "I sleep early every day to be in good health.",
       "words": [
-        { "w": "أَنَامُ", "root": "ن و م", "bs": "legam", "en": "I sleep" },
-        { "w": "مُبَكِّرًا", "root": "ب ك ر", "bs": "rano", "en": "early" },
-        { "w": "بِصِحَّةٍ", "root": "ص ح ح", "bs": "zdravlju", "en": "health" },
-        { "w": "جَيِّدَةٍ", "root": "ج و د", "bs": "dobrom", "en": "good" }
+        {
+          "w": "أَنَامُ",
+          "root": "ن و م",
+          "bs": "legam",
+          "en": "I sleep",
+          "lemma": "نَامَ يَنَامُ"
+        },
+        {
+          "w": "مُبَكِّرًا",
+          "root": "ب ك ر",
+          "bs": "rano",
+          "en": "early",
+          "lemma": "مُبَكِّرٌ"
+        },
+        {
+          "w": "بِصِحَّةٍ",
+          "root": "ص ح ح",
+          "bs": "zdravlju",
+          "en": "health",
+          "lemma": "صِحَّةٌ"
+        },
+        {
+          "w": "جَيِّدَةٍ",
+          "root": "ج و د",
+          "bs": "dobrom",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "sleep", "health", "habits"]
+    "tags": [
+      "opinion",
+      "sleep",
+      "health",
+      "habits"
+    ]
   }
 }

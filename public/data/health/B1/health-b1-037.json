@@ -12,31 +12,36 @@
           "w": "أُصِيبَ",
           "root": "ص و ب",
           "bs": "zahvatio je",
-          "en": "struck"
+          "en": "struck",
+          "lemma": "أَصَابَ يُصِيبُ"
         },
         {
           "w": "الْوَلَدُ",
           "root": "و ل د",
           "bs": "dječak",
-          "en": "boy"
+          "en": "boy",
+          "lemma": "وَلَدٌ / أَوْلَادٌ"
         },
         {
           "w": "بِسُعَالٍ",
           "root": "س ع ل",
           "bs": "kašalj",
-          "en": "cough"
+          "en": "cough",
+          "lemma": "سُعَالٌ"
         },
         {
           "w": "شَدِيدٍ",
           "root": "ش د د",
           "bs": "jak",
-          "en": "severe"
+          "en": "severe",
+          "lemma": "شَدِيدٌ"
         },
         {
           "w": "اللَّيْلِ",
           "root": "ل ي ل",
           "bs": "noć",
-          "en": "night"
+          "en": "night",
+          "lemma": "لَيْلٌ"
         }
       ]
     },
@@ -49,31 +54,36 @@
           "w": "قَامَتْ",
           "root": "ق و م",
           "bs": "ustala je",
-          "en": "got up"
+          "en": "got up",
+          "lemma": "قَامَ يَقُومُ"
         },
         {
           "w": "أُمُّهُ",
           "root": "أ م م",
           "bs": "majka",
-          "en": "mother"
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
         },
         {
           "w": "أَعْطَتْهُ",
           "root": "ع ط ي",
           "bs": "dala mu je",
-          "en": "gave him"
+          "en": "gave him",
+          "lemma": "أَعْطَى يُعْطِي"
         },
         {
           "w": "دَوَاءً",
           "root": "د و ي",
           "bs": "lijek",
-          "en": "medicine"
+          "en": "medicine",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
         },
         {
           "w": "لِلسُّعَالِ",
           "root": "س ع ل",
           "bs": "za kašalj",
-          "en": "for cough"
+          "en": "for cough",
+          "lemma": "سُعَالٌ"
         }
       ]
     },
@@ -86,31 +96,36 @@
           "w": "أَجْلَسَتْهُ",
           "root": "ج ل س",
           "bs": "posadila ga je",
-          "en": "sat him"
+          "en": "sat him",
+          "lemma": "أَجْلَسَ يُجْلِسُ"
         },
         {
           "w": "أَعْطَتْهُ",
           "root": "ع ط ي",
           "bs": "dala mu je",
-          "en": "gave him"
+          "en": "gave him",
+          "lemma": "أَعْطَى يُعْطِي"
         },
         {
           "w": "كُوبًا",
           "root": "ك و ب",
           "bs": "čaša",
-          "en": "glass"
+          "en": "glass",
+          "lemma": "كُوبٌ / أَكْوَابٌ"
         },
         {
           "w": "الْمَاءِ",
           "root": "م و ه",
           "bs": "voda",
-          "en": "water"
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
         },
         {
           "w": "الدَّافِئِ",
           "root": "د ف أ",
           "bs": "topla",
-          "en": "warm"
+          "en": "warm",
+          "lemma": "دَافِئٌ"
         }
       ]
     },
@@ -123,19 +138,22 @@
           "w": "هَدَأَ",
           "root": "ه د أ",
           "bs": "stao je",
-          "en": "calmed down"
+          "en": "calmed down",
+          "lemma": "هَدَأَ يَهْدَأُ"
         },
         {
           "w": "السُّعَالُ",
           "root": "س ع ل",
           "bs": "kašalj",
-          "en": "cough"
+          "en": "cough",
+          "lemma": "سُعَالٌ"
         },
         {
           "w": "نَامَ",
           "root": "ن و م",
           "bs": "zaspao je",
-          "en": "slept"
+          "en": "slept",
+          "lemma": "نَامَ يَنَامُ"
         }
       ]
     }

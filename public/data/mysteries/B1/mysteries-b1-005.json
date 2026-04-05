@@ -8,11 +8,41 @@
       "translation": "Yusuf je vidio čudne tragove stopala u pijesku.",
       "translationEn": "Yusuf saw strange footprints in the sand.",
       "words": [
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
-        { "w": "آثَارَ", "root": "أ ث ر", "bs": "tragove", "en": "prints/traces" },
-        { "w": "أَقْدَامٍ", "root": "ق د م", "bs": "stopala", "en": "feet" },
-        { "w": "غَرِيبَةً", "root": "غ ر ب", "bs": "čudne", "en": "strange" },
-        { "w": "الرَّمْلِ", "root": "ر م ل", "bs": "pijesku", "en": "sand" }
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "he saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "آثَارَ",
+          "root": "أ ث ر",
+          "bs": "tragove",
+          "en": "prints/traces",
+          "lemma": "أَثَرٌ / آثَارٌ"
+        },
+        {
+          "w": "أَقْدَامٍ",
+          "root": "ق د م",
+          "bs": "stopala",
+          "en": "feet",
+          "lemma": "قَدَمٌ / أَقْدَامٌ"
+        },
+        {
+          "w": "غَرِيبَةً",
+          "root": "غ ر ب",
+          "bs": "čudne",
+          "en": "strange",
+          "lemma": "غَرِيبٌ"
+        },
+        {
+          "w": "الرَّمْلِ",
+          "root": "ر م ل",
+          "bs": "pijesku",
+          "en": "sand",
+          "lemma": "رَمْلٌ / رِمَالٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Tragovi su bili veoma veliki i duboki.",
       "translationEn": "The prints were very large and deep.",
       "words": [
-        { "w": "الْآثَارُ", "root": "أ ث ر", "bs": "tragovi", "en": "the prints" },
-        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "veliki", "en": "large" },
-        { "w": "عَمِيقَةً", "root": "ع م ق", "bs": "duboki", "en": "deep" }
+        {
+          "w": "الْآثَارُ",
+          "root": "أ ث ر",
+          "bs": "tragovi",
+          "en": "the prints",
+          "lemma": "أَثَرٌ / آثَارٌ"
+        },
+        {
+          "w": "كَبِيرَةً",
+          "root": "ك ب ر",
+          "bs": "veliki",
+          "en": "large",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "عَمِيقَةً",
+          "root": "ع م ق",
+          "bs": "duboki",
+          "en": "deep",
+          "lemma": "عَمِيقٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Yusuf je pratio tragove sve do velikog drveta.",
       "translationEn": "Yusuf followed the prints until he reached the big tree.",
       "words": [
-        { "w": "تَبِعَ", "root": "ت ب ع", "bs": "pratio je", "en": "he followed" },
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "he reached" },
-        { "w": "الشَّجَرَةِ", "root": "ش ج ر", "bs": "drveta", "en": "tree" }
+        {
+          "w": "تَبِعَ",
+          "root": "ت ب ع",
+          "bs": "pratio je",
+          "en": "he followed",
+          "lemma": "تَبِعَ يَتْبَعُ"
+        },
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "he reached",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الشَّجَرَةِ",
+          "root": "ش ج ر",
+          "bs": "drveta",
+          "en": "tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        }
       ]
     },
     {
@@ -40,10 +106,34 @@
       "translation": "Ispod drveta pronašao je velikog psa koji spava.",
       "translationEn": "Under the tree he found a big dog sleeping.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "كَلْبًا", "root": "ك ل ب", "bs": "psa", "en": "dog" },
-        { "w": "كَبِيرًا", "root": "ك ب ر", "bs": "velikog", "en": "big" },
-        { "w": "نَائِمًا", "root": "ن و م", "bs": "koji spava", "en": "sleeping" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "كَلْبًا",
+          "root": "ك ل ب",
+          "bs": "psa",
+          "en": "dog",
+          "lemma": "كَلْبٌ / كِلَابٌ"
+        },
+        {
+          "w": "كَبِيرًا",
+          "root": "ك ب ر",
+          "bs": "velikog",
+          "en": "big",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "نَائِمًا",
+          "root": "ن و م",
+          "bs": "koji spava",
+          "en": "sleeping",
+          "lemma": "نَائِمٌ"
+        }
       ]
     },
     {
@@ -51,14 +141,37 @@
       "translation": "Yusuf se nasmijao i potapšao psa po glavi.",
       "translationEn": "Yusuf laughed and patted the dog on the head.",
       "words": [
-        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "nasmijao se", "en": "he laughed" },
-        { "w": "رَبَّتَ", "root": "ر ب ت", "bs": "potapšao je", "en": "he patted" },
-        { "w": "رَأْسِ", "root": "ر أ س", "bs": "glavi", "en": "head" }
+        {
+          "w": "ضَحِكَ",
+          "root": "ض ح ك",
+          "bs": "nasmijao se",
+          "en": "he laughed",
+          "lemma": "ضَحِكَ يَضْحَكُ"
+        },
+        {
+          "w": "رَبَّتَ",
+          "root": "ر ب ت",
+          "bs": "potapšao je",
+          "en": "he patted",
+          "lemma": "رَبَّتَ يُرَبِّتُ"
+        },
+        {
+          "w": "رَأْسِ",
+          "root": "ر أ س",
+          "bs": "glavi",
+          "en": "head",
+          "lemma": "رَأْسٌ / رُؤُوسٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "footprints", "sand", "dog"]
+    "tags": [
+      "mystery",
+      "footprints",
+      "sand",
+      "dog"
+    ]
   }
 }

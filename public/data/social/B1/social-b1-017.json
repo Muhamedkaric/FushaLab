@@ -8,8 +8,20 @@
       "translation": "Gospodin Yasir je stigao u hotel.",
       "translationEn": "Mr. Yasir arrived at the hotel.",
       "words": [
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
-        { "w": "الفُنْدُقِ", "root": "ف ن د", "bs": "hotelu", "en": "hotel" }
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الفُنْدُقِ",
+          "root": "ف ن د",
+          "bs": "hotelu",
+          "en": "hotel",
+          "lemma": "فُنْدُقٌ / فَنَادِقُ"
+        }
       ]
     },
     {
@@ -17,9 +29,27 @@
       "translation": "Otišao je na recepciju.",
       "translationEn": "He went to the reception desk.",
       "words": [
-        { "w": "ذَهَبَ", "root": "ذ هـ ب", "bs": "otišao je", "en": "went" },
-        { "w": "مَكْتَبِ", "root": "ك ت ب", "bs": "uredu", "en": "desk" },
-        { "w": "الاسْتِقْبَالِ", "root": "ق ب ل", "bs": "recepcije", "en": "reception" }
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ هـ ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "مَكْتَبِ",
+          "root": "ك ت ب",
+          "bs": "uredu",
+          "en": "desk",
+          "lemma": "مَكْتَبٌ / مَكَاتِبُ"
+        },
+        {
+          "w": "الاسْتِقْبَالِ",
+          "root": "ق ب ل",
+          "bs": "recepcije",
+          "en": "reception",
+          "lemma": "اسْتِقْبَالٌ"
+        }
       ]
     },
     {
@@ -27,10 +57,34 @@
       "translation": "Rekao je da je rezervisao sobu na tri dana.",
       "translationEn": "He said he booked a room for three days.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "حَجَزَ", "root": "ح ج ز", "bs": "rezervisao je", "en": "booked" },
-        { "w": "غُرْفَةً", "root": "غ ر ف", "bs": "sobu", "en": "room" },
-        { "w": "أَيَّامٍ", "root": "ي و م", "bs": "dana", "en": "days" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "حَجَزَ",
+          "root": "ح ج ز",
+          "bs": "rezervisao je",
+          "en": "booked",
+          "lemma": "حَجَزَ يَحْجُزُ"
+        },
+        {
+          "w": "غُرْفَةً",
+          "root": "غ ر ف",
+          "bs": "sobu",
+          "en": "room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        },
+        {
+          "w": "أَيَّامٍ",
+          "root": "ي و م",
+          "bs": "dana",
+          "en": "days",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        }
       ]
     },
     {
@@ -38,10 +92,34 @@
       "translation": "Službenik mu je dao ključ sobe.",
       "translationEn": "The employee gave him the room key.",
       "words": [
-        { "w": "أَعْطَى", "root": "ع ط و", "bs": "dao je", "en": "gave" },
-        { "w": "المُوَظَّفُ", "root": "و ظ ف", "bs": "službenik", "en": "employee" },
-        { "w": "مِفْتَاحَ", "root": "ف ت ح", "bs": "ključ", "en": "key" },
-        { "w": "الغُرْفَةِ", "root": "غ ر ف", "bs": "sobe", "en": "room" }
+        {
+          "w": "أَعْطَى",
+          "root": "ع ط و",
+          "bs": "dao je",
+          "en": "gave",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "المُوَظَّفُ",
+          "root": "و ظ ف",
+          "bs": "službenik",
+          "en": "employee",
+          "lemma": "مُوَظَّفٌ / مُوَظَّفُونَ"
+        },
+        {
+          "w": "مِفْتَاحَ",
+          "root": "ف ت ح",
+          "bs": "ključ",
+          "en": "key",
+          "lemma": "مِفْتَاحٌ / مَفَاتِيحُ"
+        },
+        {
+          "w": "الغُرْفَةِ",
+          "root": "غ ر ف",
+          "bs": "sobe",
+          "en": "room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        }
       ]
     }
   ],

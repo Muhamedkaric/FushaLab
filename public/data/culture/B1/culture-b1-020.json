@@ -8,10 +8,34 @@
       "translation": "Hurme su važno voće u arapskoj kulturi.",
       "translationEn": "Dates are an important fruit in Arab culture.",
       "words": [
-        { "w": "التَّمْرُ", "root": "ت م ر", "bs": "hurme", "en": "dates" },
-        { "w": "فَاكِهَةٌ", "root": "ف ك هـ", "bs": "voće", "en": "fruit" },
-        { "w": "مُهِمَّةٌ", "root": "هـ م م", "bs": "važno", "en": "important" },
-        { "w": "الثَّقَافَةِ", "root": "ث ق ف", "bs": "kulturi", "en": "culture" }
+        {
+          "w": "التَّمْرُ",
+          "root": "ت م ر",
+          "bs": "hurme",
+          "en": "dates",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "فَاكِهَةٌ",
+          "root": "ف ك هـ",
+          "bs": "voće",
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "مُهِمَّةٌ",
+          "root": "هـ م م",
+          "bs": "važno",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "root": "ث ق ف",
+          "bs": "kulturi",
+          "en": "culture",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Ljudi jedu hurme na svakoj prigodi.",
       "translationEn": "People eat dates on every occasion.",
       "words": [
-        { "w": "يَأْكُلُ", "root": "أ ك ل", "bs": "jedu", "en": "eat" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "التَّمْرَ", "root": "ت م ر", "bs": "hurme", "en": "dates" },
-        { "w": "مُنَاسَبَةٍ", "root": "ن س ب", "bs": "prigodi", "en": "occasion" }
+        {
+          "w": "يَأْكُلُ",
+          "root": "أ ك ل",
+          "bs": "jedu",
+          "en": "eat",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "التَّمْرَ",
+          "root": "ت م ر",
+          "bs": "hurme",
+          "en": "dates",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "مُنَاسَبَةٍ",
+          "root": "ن س ب",
+          "bs": "prigodi",
+          "en": "occasion",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Hurme se poslužuju gostima uz kafu.",
       "translationEn": "Dates are served to guests with coffee.",
       "words": [
-        { "w": "يُقَدَّمُ", "root": "ق د م", "bs": "poslužuju se", "en": "are served" },
-        { "w": "التَّمْرُ", "root": "ت م ر", "bs": "hurme", "en": "dates" },
-        { "w": "لِلضُّيُوفِ", "root": "ض ي ف", "bs": "gostima", "en": "guests" },
-        { "w": "القَهْوَةِ", "root": "ق ه و", "bs": "kafu", "en": "coffee" }
+        {
+          "w": "يُقَدَّمُ",
+          "root": "ق د م",
+          "bs": "poslužuju se",
+          "en": "are served",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "التَّمْرُ",
+          "root": "ت م ر",
+          "bs": "hurme",
+          "en": "dates",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "لِلضُّيُوفِ",
+          "root": "ض ي ف",
+          "bs": "gostima",
+          "en": "guests",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "القَهْوَةِ",
+          "root": "ق ه و",
+          "bs": "kafu",
+          "en": "coffee",
+          "lemma": "قَهْوَةٌ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Hurme su slatke i pune energije.",
       "translationEn": "Dates are sweet and have great energy.",
       "words": [
-        { "w": "التَّمْرُ", "root": "ت م ر", "bs": "hurme", "en": "dates" },
-        { "w": "حَلْوٌ", "root": "ح ل و", "bs": "slatke", "en": "sweet" },
-        { "w": "طَاقَةٌ", "root": "ط و ق", "bs": "energija", "en": "energy" },
-        { "w": "كَبِيرَةٌ", "root": "ك ب ر", "bs": "velika", "en": "great" }
+        {
+          "w": "التَّمْرُ",
+          "root": "ت م ر",
+          "bs": "hurme",
+          "en": "dates",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "حَلْوٌ",
+          "root": "ح ل و",
+          "bs": "slatke",
+          "en": "sweet",
+          "lemma": "حَلْوٌ"
+        },
+        {
+          "w": "طَاقَةٌ",
+          "root": "ط و ق",
+          "bs": "energija",
+          "en": "energy",
+          "lemma": "طَاقَةٌ / طَاقَاتٌ"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "root": "ك ب ر",
+          "bs": "velika",
+          "en": "great",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -52,10 +148,34 @@
       "translation": "Palmina stabljika je poznat simbol u arapskim zemljama.",
       "translationEn": "The date palm is a well-known symbol in Arab countries.",
       "words": [
-        { "w": "نَخْلَةُ", "root": "ن خ ل", "bs": "palma", "en": "palm tree" },
-        { "w": "رَمْزٌ", "root": "ر م ز", "bs": "simbol", "en": "symbol" },
-        { "w": "مَعْرُوفٌ", "root": "ع ر ف", "bs": "poznat", "en": "well-known" },
-        { "w": "البِلَادِ", "root": "ب ل د", "bs": "zemljama", "en": "countries" }
+        {
+          "w": "نَخْلَةُ",
+          "root": "ن خ ل",
+          "bs": "palma",
+          "en": "palm tree",
+          "lemma": "نَخْلَةٌ / نَخِيلٌ"
+        },
+        {
+          "w": "رَمْزٌ",
+          "root": "ر م ز",
+          "bs": "simbol",
+          "en": "symbol",
+          "lemma": "رَمْزٌ / رُمُوزٌ"
+        },
+        {
+          "w": "مَعْرُوفٌ",
+          "root": "ع ر ف",
+          "bs": "poznat",
+          "en": "well-known",
+          "lemma": "مَعْرُوفٌ"
+        },
+        {
+          "w": "البِلَادِ",
+          "root": "ب ل د",
+          "bs": "zemljama",
+          "en": "countries",
+          "lemma": "بَلَدٌ / بِلَادٌ"
+        }
       ]
     }
   ],

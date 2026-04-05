@@ -8,9 +8,27 @@
       "translation": "Sami je sreo svog prijatelja Karima na ulici.",
       "translationEn": "Sami met his friend Karim on the street.",
       "words": [
-        { "w": "قَابَلَ", "root": "ق ب ل", "bs": "sreo je", "en": "met" },
-        { "w": "صَدِيقَهُ", "root": "ص د ق", "bs": "prijatelja", "en": "friend" },
-        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulici", "en": "street" }
+        {
+          "w": "قَابَلَ",
+          "root": "ق ب ل",
+          "bs": "sreo je",
+          "en": "met",
+          "lemma": "قَابَلَ يُقَابِلُ"
+        },
+        {
+          "w": "صَدِيقَهُ",
+          "root": "ص د ق",
+          "bs": "prijatelja",
+          "en": "friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulici",
+          "en": "street",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "Pozdravio ga je i toplo mu se rukovao.",
       "translationEn": "He greeted him and shook his hand warmly.",
       "words": [
-        { "w": "سَلَّمَ", "root": "س ل م", "bs": "pozdravio je", "en": "greeted" },
-        { "w": "صَافَحَهُ", "root": "ص ف ح", "bs": "rukovao se s njim", "en": "shook his hand" },
-        { "w": "بِحَفَاوَةٍ", "root": "ح ف و", "bs": "toplo", "en": "warmly" }
+        {
+          "w": "سَلَّمَ",
+          "root": "س ل م",
+          "bs": "pozdravio je",
+          "en": "greeted",
+          "lemma": "سَلَّمَ يُسَلِّمُ"
+        },
+        {
+          "w": "صَافَحَهُ",
+          "root": "ص ف ح",
+          "bs": "rukovao se s njim",
+          "en": "shook his hand",
+          "lemma": "صَافَحَ يُصَافِحُ"
+        },
+        {
+          "w": "بِحَفَاوَةٍ",
+          "root": "ح ف و",
+          "bs": "toplo",
+          "en": "warmly",
+          "lemma": "حَفَاوَةٌ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Pitao ga je kako je i kako mu je porodica.",
       "translationEn": "He asked him about his well-being and his family.",
       "words": [
-        { "w": "سَأَلَهُ", "root": "س أ ل", "bs": "pitao ga je", "en": "asked him" },
-        { "w": "أَحْوَالِهِ", "root": "ح و ل", "bs": "kako je", "en": "well-being" },
-        { "w": "عَائِلَتِهِ", "root": "ع و ل", "bs": "porodicu", "en": "family" }
+        {
+          "w": "سَأَلَهُ",
+          "root": "س أ ل",
+          "bs": "pitao ga je",
+          "en": "asked him",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "أَحْوَالِهِ",
+          "root": "ح و ل",
+          "bs": "kako je",
+          "en": "well-being",
+          "lemma": "حَالٌ / أَحْوَالٌ"
+        },
+        {
+          "w": "عَائِلَتِهِ",
+          "root": "ع و ل",
+          "bs": "porodicu",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        }
       ]
     },
     {
@@ -38,9 +92,27 @@
       "translation": "Karim je rekao da je dobro, hvala Bogu.",
       "translationEn": "Karim said he is well, praise be to God.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "بِخَيْرٍ", "root": "خ ي ر", "bs": "dobro", "en": "well" },
-        { "w": "الحَمْدُ", "root": "ح م د", "bs": "hvala", "en": "praise" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "بِخَيْرٍ",
+          "root": "خ ي ر",
+          "bs": "dobro",
+          "en": "well",
+          "lemma": "خَيْرٌ / خُيُورٌ"
+        },
+        {
+          "w": "الحَمْدُ",
+          "root": "ح م د",
+          "bs": "hvala",
+          "en": "praise",
+          "lemma": "حَمْدٌ"
+        }
       ]
     },
     {
@@ -48,10 +120,34 @@
       "translation": "Dogovorili su se da se nađu u kafeu sutra.",
       "translationEn": "They agreed to meet at the café tomorrow.",
       "words": [
-        { "w": "اتَّفَقَا", "root": "و ف ق", "bs": "dogovorili su se", "en": "agreed" },
-        { "w": "الاجْتِمَاعِ", "root": "ج م ع", "bs": "susretu", "en": "meeting" },
-        { "w": "المَقْهَى", "root": "ق هـ و", "bs": "kafeu", "en": "café" },
-        { "w": "غَدًا", "root": "غ د و", "bs": "sutra", "en": "tomorrow" }
+        {
+          "w": "اتَّفَقَا",
+          "root": "و ف ق",
+          "bs": "dogovorili su se",
+          "en": "agreed",
+          "lemma": "اتَّفَقَ يَتَّفِقُ"
+        },
+        {
+          "w": "الاجْتِمَاعِ",
+          "root": "ج م ع",
+          "bs": "susretu",
+          "en": "meeting",
+          "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ"
+        },
+        {
+          "w": "المَقْهَى",
+          "root": "ق هـ و",
+          "bs": "kafeu",
+          "en": "café",
+          "lemma": "مَقْهًى / مَقَاهٍ"
+        },
+        {
+          "w": "غَدًا",
+          "root": "غ د و",
+          "bs": "sutra",
+          "en": "tomorrow",
+          "lemma": "غَدٌ"
+        }
       ]
     }
   ],

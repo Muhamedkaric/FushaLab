@@ -8,11 +8,41 @@
       "translation": "Smatram da je čitanje veoma važno u životu čovjeka.",
       "translationEn": "I believe that reading is very important in a person's life.",
       "words": [
-        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
-        { "w": "الْقِرَاءَةَ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" },
-        { "w": "مُهِمَّةٌ", "root": "ه م م", "bs": "važno", "en": "important" },
-        { "w": "حَيَاةِ", "root": "ح ي ي", "bs": "životu", "en": "life" },
-        { "w": "الْإِنْسَانِ", "root": "أ ن س", "bs": "čovjeka", "en": "person" }
+        {
+          "w": "أَعْتَقِدُ",
+          "root": "ع ق د",
+          "bs": "smatram",
+          "en": "I believe",
+          "lemma": "اعْتَقَدَ يَعْتَقِدُ"
+        },
+        {
+          "w": "الْقِرَاءَةَ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading",
+          "lemma": "قِرَاءَةٌ"
+        },
+        {
+          "w": "مُهِمَّةٌ",
+          "root": "ه م م",
+          "bs": "važno",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "حَيَاةِ",
+          "root": "ح ي ي",
+          "bs": "životu",
+          "en": "life",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "الْإِنْسَانِ",
+          "root": "أ ن س",
+          "bs": "čovjeka",
+          "en": "person",
+          "lemma": "إِنْسَانٌ / أُنَاسٌ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Čitanje nam pomaže da svaki dan naučimo nove stvari.",
       "translationEn": "Reading helps us to learn new things every day.",
       "words": [
-        { "w": "تُفِيدُنَا", "root": "ف ي د", "bs": "pomaže nam", "en": "helps us" },
-        { "w": "الْقِرَاءَةُ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" },
-        { "w": "تَعَلُّمِ", "root": "ع ل م", "bs": "učenju", "en": "learning" },
-        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
-        { "w": "جَدِيدَةٍ", "root": "ج د د", "bs": "nove", "en": "new" }
+        {
+          "w": "تُفِيدُنَا",
+          "root": "ف ي د",
+          "bs": "pomaže nam",
+          "en": "helps us",
+          "lemma": "أَفَادَ يُفِيدُ"
+        },
+        {
+          "w": "الْقِرَاءَةُ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading",
+          "lemma": "قِرَاءَةٌ"
+        },
+        {
+          "w": "تَعَلُّمِ",
+          "root": "ع ل م",
+          "bs": "učenju",
+          "en": "learning",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "أَشْيَاءَ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "root": "ج د د",
+          "bs": "nove",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -32,10 +92,34 @@
       "translation": "Ko puno čita, bolje govori.",
       "translationEn": "A person who reads a lot speaks better.",
       "words": [
-        { "w": "يَقْرَأُ", "root": "ق ر أ", "bs": "čita", "en": "reads" },
-        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "puno", "en": "a lot" },
-        { "w": "يَتَكَلَّمُ", "root": "ك ل م", "bs": "govori", "en": "speaks" },
-        { "w": "أَفْضَلَ", "root": "ف ض ل", "bs": "bolje", "en": "better" }
+        {
+          "w": "يَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "reads",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "كَثِيرًا",
+          "root": "ك ث ر",
+          "bs": "puno",
+          "en": "a lot",
+          "lemma": "كَثِيرٌ"
+        },
+        {
+          "w": "يَتَكَلَّمُ",
+          "root": "ك ل م",
+          "bs": "govori",
+          "en": "speaks",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "أَفْضَلَ",
+          "root": "ف ض ل",
+          "bs": "bolje",
+          "en": "better",
+          "lemma": "أَفْضَلُ"
+        }
       ]
     },
     {
@@ -43,15 +127,44 @@
       "translation": "Volim svake sedmice pročitati jednu knjigu.",
       "translationEn": "I like to read a book every week.",
       "words": [
-        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
-        { "w": "أَقْرَأَ", "root": "ق ر أ", "bs": "čitati", "en": "to read" },
-        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjigu", "en": "book" },
-        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmice", "en": "week" }
+        {
+          "w": "أُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "volim",
+          "en": "I like",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "أَقْرَأَ",
+          "root": "ق ر أ",
+          "bs": "čitati",
+          "en": "to read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjigu",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "س ب ع",
+          "bs": "sedmice",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "reading", "learning", "habits"]
+    "tags": [
+      "opinion",
+      "reading",
+      "learning",
+      "habits"
+    ]
   }
 }

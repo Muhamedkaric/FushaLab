@@ -12,25 +12,29 @@
           "w": "امْرَأَةٌ",
           "root": "م ر أ",
           "bs": "žena",
-          "en": "a woman"
+          "en": "a woman",
+          "lemma": "اِمْرَأَةٌ / نِسَاءٌ"
         },
         {
           "w": "صَالِحَةٌ",
           "root": "ص ل ح",
           "bs": "bogobojazna",
-          "en": "righteous"
+          "en": "righteous",
+          "lemma": "صَالِحٌ"
         },
         {
           "w": "تُكْثِرُ",
           "root": "ك ث ر",
           "bs": "mnogo je",
-          "en": "often"
+          "en": "often",
+          "lemma": "أَكْثَرَ يُكْثِرُ"
         },
         {
           "w": "الصَّلَاةَ عَلَى النَّبِيِّ",
           "root": "ص ل و",
           "bs": "salavat na Poslanika",
-          "en": "blessings upon the Prophet"
+          "en": "blessings upon the Prophet",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
         }
       ]
     },
@@ -43,25 +47,29 @@
           "w": "تَقُولُهَا",
           "root": "ق و ل",
           "bs": "govorila bi ga",
-          "en": "would say it"
+          "en": "would say it",
+          "lemma": "قَالَ يَقُولُ"
         },
         {
           "w": "تَسْمَعُ",
           "root": "س م ع",
           "bs": "čuje",
-          "en": "hears"
+          "en": "hears",
+          "lemma": "سَمِعَ يَسْمَعُ"
         },
         {
           "w": "اسْمَهُ",
           "root": "س م و",
           "bs": "njegovo ime",
-          "en": "his name"
+          "en": "his name",
+          "lemma": "اِسْمٌ / أَسْمَاءٌ"
         },
         {
           "w": "الشَّرِيفَ",
           "root": "ش ر ف",
           "bs": "plemenito",
-          "en": "noble"
+          "en": "noble",
+          "lemma": "شَرِيفٌ"
         }
       ]
     },
@@ -74,31 +82,36 @@
           "w": "صَلَّى",
           "root": "ص ل و",
           "bs": "donese salavat",
-          "en": "blesses"
+          "en": "blesses",
+          "lemma": "صَلَّى يُصَلِّي"
         },
         {
           "w": "عَلَيْهِ",
           "root": "ع ل و",
           "bs": "njemu",
-          "en": "him"
+          "en": "him",
+          "lemma": "عَلَى"
         },
         {
           "w": "صَلَاةً",
           "root": "ص ل و",
           "bs": "jednom",
-          "en": "once"
+          "en": "once",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
         },
         {
           "w": "صَلَّى اللَّهُ عَلَيْهِ",
           "root": "ص ل و",
           "bs": "Allah ga blagosivi",
-          "en": "God blesses him"
+          "en": "God blesses him",
+          "lemma": "صَلَّى يُصَلِّي"
         },
         {
           "w": "عَشْرًا",
           "root": "ع ش ر",
           "bs": "deset puta",
-          "en": "ten times"
+          "en": "ten times",
+          "lemma": "عَشَرَةٌ"
         }
       ]
     },
@@ -111,31 +124,36 @@
           "w": "تَعَلَّمَتِ",
           "root": "ع ل م",
           "bs": "naučila je",
-          "en": "learned"
+          "en": "learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
         },
         {
           "w": "الِابْنَةُ",
           "root": "ب ن ت",
           "bs": "kćerka",
-          "en": "the daughter"
+          "en": "the daughter",
+          "lemma": "ابْنَةٌ / بَنَاتٌ"
         },
         {
           "w": "بَدَأَتْ",
           "root": "ب د أ",
           "bs": "počela je",
-          "en": "started"
+          "en": "started",
+          "lemma": "بَدَأَ يَبْدَأُ"
         },
         {
           "w": "تَفْعَلُ",
           "root": "ف ع ل",
           "bs": "raditi",
-          "en": "doing"
+          "en": "doing",
+          "lemma": "فَعَلَ يَفْعَلُ"
         },
         {
           "w": "مِثْلَهَا",
           "root": "م ث ل",
           "bs": "isto kao ona",
-          "en": "the same"
+          "en": "the same",
+          "lemma": "مِثْلٌ / أَمْثَالٌ"
         }
       ]
     }

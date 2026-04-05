@@ -12,31 +12,36 @@
           "w": "أَعْلَنَ",
           "root": "ع ل ن",
           "bs": "objavio",
-          "en": "announced"
+          "en": "announced",
+          "lemma": "أَعْلَنَ يُعْلِنُ"
         },
         {
           "w": "المُدِيرُ",
           "root": "د و ر",
           "bs": "direktor",
-          "en": "principal"
+          "en": "principal",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
         },
         {
           "w": "رِحْلَةٍ",
           "root": "ر ح ل",
           "bs": "izlet/putovanje",
-          "en": "trip"
+          "en": "trip",
+          "lemma": "رِحْلَةٌ / رِحَلٌ"
         },
         {
           "w": "مَدْرَسِيَّةٍ",
           "root": "د ر س",
           "bs": "školski",
-          "en": "school"
+          "en": "school",
+          "lemma": "مَدْرَسِيٌّ"
         },
         {
           "w": "الحَدِيقَةِ",
           "root": "ح د ق",
           "bs": "park",
-          "en": "park"
+          "en": "park",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
         }
       ]
     },
@@ -49,25 +54,29 @@
           "w": "فَرِحَ",
           "root": "ف ر ح",
           "bs": "obradovali se",
-          "en": "were happy"
+          "en": "were happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
         },
         {
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "سَمِعُوا",
           "root": "س م ع",
           "bs": "čuli",
-          "en": "heard"
+          "en": "heard",
+          "lemma": "سَمِعَ يَسْمَعُ"
         },
         {
           "w": "الخَبَرَ",
           "root": "خ ب ر",
           "bs": "vijest",
-          "en": "news"
+          "en": "news",
+          "lemma": "خَبَرٌ / أَخْبَارٌ"
         }
       ]
     },
@@ -80,25 +89,29 @@
           "w": "رَكِبُوا",
           "root": "ر ك ب",
           "bs": "ukrcali su se",
-          "en": "boarded"
+          "en": "boarded",
+          "lemma": "رَكِبَ يَرْكَبُ"
         },
         {
           "w": "الحَافِلَةَ",
           "root": "ح ف ل",
           "bs": "autobus",
-          "en": "bus"
+          "en": "bus",
+          "lemma": "حَافِلَةٌ / حَافِلَاتٌ"
         },
         {
           "w": "غَنَّوْا",
           "root": "غ ن ي",
           "bs": "pjevali",
-          "en": "sang"
+          "en": "sang",
+          "lemma": "غَنَّى يُغَنِّي"
         },
         {
           "w": "الطَّرِيقِ",
           "root": "ط ر ق",
           "bs": "put",
-          "en": "way/road"
+          "en": "way/road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
         }
       ]
     },
@@ -111,25 +124,29 @@
           "w": "لَعِبُوا",
           "root": "ل ع ب",
           "bs": "igrali su se",
-          "en": "played"
+          "en": "played",
+          "lemma": "لَعِبَ يَلْعَبُ"
         },
         {
           "w": "الحَدِيقَةِ",
           "root": "ح د ق",
           "bs": "park",
-          "en": "park"
+          "en": "park",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
         },
         {
           "w": "أَكَلُوا",
           "root": "أ ك ل",
           "bs": "jeli",
-          "en": "ate"
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "الغَدَاءَ",
           "root": "غ د و",
           "bs": "ručak",
-          "en": "lunch"
+          "en": "lunch",
+          "lemma": "غَدَاءٌ / أَغْدِيَةٌ"
         }
       ]
     },
@@ -142,25 +159,29 @@
           "w": "عَادُوا",
           "root": "ع و د",
           "bs": "vratili su se",
-          "en": "returned"
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
         },
         {
           "w": "المَدْرَسَةِ",
           "root": "د ر س",
           "bs": "škola",
-          "en": "school"
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
         },
         {
           "w": "مَسْرُورِينَ",
           "root": "س ر ر",
           "bs": "veseli",
-          "en": "happy"
+          "en": "happy",
+          "lemma": "مَسْرُورٌ"
         },
         {
           "w": "مُتْعَبِينَ",
           "root": "ت ع ب",
           "bs": "umorni",
-          "en": "tired"
+          "en": "tired",
+          "lemma": "مُتْعَبٌ"
         }
       ]
     }

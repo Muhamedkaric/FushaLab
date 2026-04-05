@@ -8,9 +8,27 @@
       "translation": "Suhaila je rekla da je danas veoma vruće.",
       "translationEn": "Suhaila said that the weather is very hot today.",
       "words": [
-        { "w": "الجَوَّ", "root": "ج و و", "bs": "vrijeme (klima)", "en": "weather" },
-        { "w": "حَارٌّ", "root": "ح ر ر", "bs": "vruće", "en": "hot" },
-        { "w": "اليَوْمَ", "root": "ي و م", "bs": "danas", "en": "today" }
+        {
+          "w": "الجَوَّ",
+          "root": "ج و و",
+          "bs": "vrijeme (klima)",
+          "en": "weather",
+          "lemma": "جَوٌّ / أَجْوَاءٌ"
+        },
+        {
+          "w": "حَارٌّ",
+          "root": "ح ر ر",
+          "bs": "vruće",
+          "en": "hot",
+          "lemma": "حَارٌّ"
+        },
+        {
+          "w": "اليَوْمَ",
+          "root": "ي و م",
+          "bs": "danas",
+          "en": "today",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Prijatelj se složio i rekao da preferira hladnoću.",
       "translationEn": "Her friend agreed and said he prefers cold weather.",
       "words": [
-        { "w": "وَافَقَهَا", "root": "و ف ق", "bs": "složio se s njom", "en": "agreed with her" },
-        { "w": "صَدِيقُهَا", "root": "ص د ق", "bs": "prijatelj", "en": "friend" },
-        { "w": "يُفَضِّلُ", "root": "ف ض ل", "bs": "preferira", "en": "prefers" },
-        { "w": "البَرْدَ", "root": "ب ر د", "bs": "hladnoću", "en": "cold" }
+        {
+          "w": "وَافَقَهَا",
+          "root": "و ف ق",
+          "bs": "složio se s njom",
+          "en": "agreed with her",
+          "lemma": "وَافَقَ يُوَافِقُ"
+        },
+        {
+          "w": "صَدِيقُهَا",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "يُفَضِّلُ",
+          "root": "ف ض ل",
+          "bs": "preferira",
+          "en": "prefers",
+          "lemma": "فَضَّلَ يُفَضِّلُ"
+        },
+        {
+          "w": "البَرْدَ",
+          "root": "ب ر د",
+          "bs": "hladnoću",
+          "en": "cold",
+          "lemma": "بَرْدٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Razgovarali su o četiri godišnja doba.",
       "translationEn": "They talked about the four seasons.",
       "words": [
-        { "w": "تَحَدَّثَا", "root": "ح د ث", "bs": "razgovarali su", "en": "they talked" },
-        { "w": "الفُصُولِ", "root": "ف ص ل", "bs": "godišnja doba", "en": "seasons" },
-        { "w": "الأَرْبَعَةِ", "root": "ر ب ع", "bs": "četiri", "en": "four" }
+        {
+          "w": "تَحَدَّثَا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "they talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "الفُصُولِ",
+          "root": "ف ص ل",
+          "bs": "godišnja doba",
+          "en": "seasons",
+          "lemma": "فَصْلٌ / فُصُولٌ"
+        },
+        {
+          "w": "الأَرْبَعَةِ",
+          "root": "ر ب ع",
+          "bs": "četiri",
+          "en": "four",
+          "lemma": "أَرْبَعَةٌ"
+        }
       ]
     },
     {
@@ -39,10 +99,34 @@
       "translation": "Zaključili su da je proljeće najljepše godišnje doba.",
       "translationEn": "They decided that spring is the most beautiful season.",
       "words": [
-        { "w": "قَرَّرَا", "root": "ق ر ر", "bs": "zaključili su", "en": "they decided" },
-        { "w": "الرَّبِيعَ", "root": "ر ب ع", "bs": "proljeće", "en": "spring" },
-        { "w": "الفَصْلُ", "root": "ف ص ل", "bs": "godišnje doba", "en": "season" },
-        { "w": "الأَجْمَلُ", "root": "ج م ل", "bs": "najljepše", "en": "most beautiful" }
+        {
+          "w": "قَرَّرَا",
+          "root": "ق ر ر",
+          "bs": "zaključili su",
+          "en": "they decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "الرَّبِيعَ",
+          "root": "ر ب ع",
+          "bs": "proljeće",
+          "en": "spring",
+          "lemma": "رَبِيعٌ"
+        },
+        {
+          "w": "الفَصْلُ",
+          "root": "ف ص ل",
+          "bs": "godišnje doba",
+          "en": "season",
+          "lemma": "فَصْلٌ / فُصُولٌ"
+        },
+        {
+          "w": "الأَجْمَلُ",
+          "root": "ج م ل",
+          "bs": "najljepše",
+          "en": "most beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     }
   ],

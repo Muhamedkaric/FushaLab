@@ -12,25 +12,29 @@
           "w": "ذَهَبَ",
           "root": "ذ ه ب",
           "bs": "otišao je",
-          "en": "went"
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
         },
         {
           "w": "الْمَسْجِدِ",
           "root": "س ج د",
           "bs": "džamiju",
-          "en": "the mosque"
+          "en": "the mosque",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
         },
         {
           "w": "سَلَّمَ",
           "root": "س ل م",
           "bs": "pozdravio je",
-          "en": "greeted"
+          "en": "greeted",
+          "lemma": "سَلَّمَ يُسَلِّمُ"
         },
         {
           "w": "النَّاسِ",
           "root": "ن و س",
           "bs": "ljude",
-          "en": "the people"
+          "en": "the people",
+          "lemma": "نَاسٌ"
         }
       ]
     },
@@ -43,19 +47,22 @@
           "w": "السَّلَامُ عَلَيْكُمْ",
           "root": "س ل م",
           "bs": "es-selamu alejkum",
-          "en": "peace be upon you"
+          "en": "peace be upon you",
+          "lemma": "سَلَامٌ"
         },
         {
           "w": "رَدَّ",
           "root": "ر د د",
           "bs": "uzvratili su",
-          "en": "responded"
+          "en": "responded",
+          "lemma": "رَدَّ يَرُدُّ"
         },
         {
           "w": "الْجَمِيعُ",
           "root": "ج م ع",
           "bs": "svi",
-          "en": "everyone"
+          "en": "everyone",
+          "lemma": "الْجَمِيعُ"
         }
       ]
     },
@@ -68,25 +75,29 @@
           "w": "جَلَسَ",
           "root": "ج ل س",
           "bs": "sjeo je",
-          "en": "sat"
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
         },
         {
           "w": "أَصْدِقَائِهِ",
           "root": "ص د ق",
           "bs": "prijatelja",
-          "en": "his friends"
+          "en": "his friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "تَحَدَّثُوا",
           "root": "ح د ث",
           "bs": "razgovarali su",
-          "en": "talked"
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
         },
         {
           "w": "الصَّلَاةِ",
           "root": "ص ل و",
           "bs": "namaza",
-          "en": "prayer"
+          "en": "prayer",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
         }
       ]
     },
@@ -99,13 +110,15 @@
           "w": "الْمَسْجِدُ",
           "root": "س ج د",
           "bs": "džamija",
-          "en": "the mosque"
+          "en": "the mosque",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
         },
         {
           "w": "بَيْتُ اللَّهِ",
           "root": "ب ي ت",
           "bs": "Allahova kuća",
-          "en": "God's house"
+          "en": "God's house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
         }
       ]
     }

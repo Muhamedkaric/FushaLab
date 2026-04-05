@@ -12,25 +12,29 @@
           "w": "جَاءَ",
           "root": "ج ي أ",
           "bs": "došao je",
-          "en": "came"
+          "en": "came",
+          "lemma": "جَاءَ يَجِيءُ"
         },
         {
           "w": "شَهْرُ رَمَضَانَ",
           "root": "ش ه ر",
           "bs": "Ramazanski mjesec",
-          "en": "the month of Ramadan"
+          "en": "the month of Ramadan",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
         },
         {
           "w": "فَرِحَ",
           "root": "ف ر ح",
           "bs": "obradovali su se",
-          "en": "were happy"
+          "en": "were happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
         },
         {
           "w": "الْمُسْلِمُونَ",
           "root": "س ل م",
           "bs": "muslimani",
-          "en": "the Muslims"
+          "en": "the Muslims",
+          "lemma": "مُسْلِمٌ / مُسْلِمُونَ"
         }
       ]
     },
@@ -43,31 +47,36 @@
           "w": "أَمْسَكَ",
           "root": "م س ك",
           "bs": "suzdržali su se",
-          "en": "abstained"
+          "en": "abstained",
+          "lemma": "أَمْسَكَ يُمْسِكُ"
         },
         {
           "w": "الصَّائِمُونَ",
           "root": "ص و م",
           "bs": "postači",
-          "en": "those fasting"
+          "en": "those fasting",
+          "lemma": "صَائِمٌ / صَائِمُونَ"
         },
         {
           "w": "الطَّعَامِ",
           "root": "ط ع م",
           "bs": "hrane",
-          "en": "food"
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         },
         {
           "w": "الشَّرَابِ",
           "root": "ش ر ب",
           "bs": "pića",
-          "en": "drink"
+          "en": "drink",
+          "lemma": "شَرَابٌ / أَشْرِبَةٌ"
         },
         {
           "w": "الصُّبْحِ",
           "root": "ص ب ح",
           "bs": "sabaha",
-          "en": "dawn"
+          "en": "dawn",
+          "lemma": "صُبْحٌ / أَصْبَاحٌ"
         }
       ]
     },
@@ -80,31 +89,36 @@
           "w": "قَضَوُا",
           "root": "ق ض و",
           "bs": "proveli su",
-          "en": "spent"
+          "en": "spent",
+          "lemma": "قَضَى يَقْضِي"
         },
         {
           "w": "النَّهَارَ",
           "root": "ن ه ر",
           "bs": "dan",
-          "en": "the day"
+          "en": "the day",
+          "lemma": "نَهَارٌ / أَنْهُرٌ"
         },
         {
           "w": "الذِّكْرِ",
           "root": "ذ ك ر",
           "bs": "zikru",
-          "en": "remembrance"
+          "en": "remembrance",
+          "lemma": "ذِكْرٌ / أَذْكَارٌ"
         },
         {
           "w": "الدُّعَاءِ",
           "root": "د ع و",
           "bs": "dovi",
-          "en": "supplication"
+          "en": "supplication",
+          "lemma": "دُعَاءٌ / أَدْعِيَةٌ"
         },
         {
           "w": "الصَّبْرِ",
           "root": "ص ب ر",
           "bs": "strpljenju",
-          "en": "patience"
+          "en": "patience",
+          "lemma": "صَبْرٌ"
         }
       ]
     },
@@ -117,31 +131,36 @@
           "w": "سَمِعُوا",
           "root": "س م ع",
           "bs": "čuli su",
-          "en": "heard"
+          "en": "heard",
+          "lemma": "سَمِعَ يَسْمَعُ"
         },
         {
           "w": "الْأَذَانَ",
           "root": "أ ذ ن",
           "bs": "ezan",
-          "en": "the adhan"
+          "en": "the adhan",
+          "lemma": "أَذَانٌ / آذِنَةٌ"
         },
         {
           "w": "فَرِحُوا",
           "root": "ف ر ح",
           "bs": "obradovali su se",
-          "en": "were happy"
+          "en": "were happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
         },
         {
           "w": "أَفْطَرُوا",
           "root": "ف ط ر",
           "bs": "iftarili su",
-          "en": "broke fast"
+          "en": "broke fast",
+          "lemma": "أَفْطَرَ يُفْطِرُ"
         },
         {
           "w": "بِالتَّمْرِ",
           "root": "ت م ر",
           "bs": "hurmama",
-          "en": "with dates"
+          "en": "with dates",
+          "lemma": "تَمْرٌ / تُمُورٌ"
         }
       ]
     }

@@ -8,11 +8,41 @@
       "translation": "Nur je napisala pismo svojoj prijateljici u dalekom gradu.",
       "translationEn": "Nour wrote a letter to her friend in a distant city.",
       "words": [
-        { "w": "كَتَبَتْ", "root": "ك ت ب", "bs": "napisala je", "en": "wrote" },
-        { "w": "رِسَالَةً", "root": "ر س ل", "bs": "pismo", "en": "letter" },
-        { "w": "صَدِيقَتِهَا", "root": "ص د ق", "bs": "njena prijateljica", "en": "her friend" },
-        { "w": "مَدِينَةٍ", "root": "م د ن", "bs": "grad", "en": "city" },
-        { "w": "بَعِيدَةٍ", "root": "ب ع د", "bs": "daleki", "en": "distant" }
+        {
+          "w": "كَتَبَتْ",
+          "root": "ك ت ب",
+          "bs": "napisala je",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "رِسَالَةً",
+          "root": "ر س ل",
+          "bs": "pismo",
+          "en": "letter",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "صَدِيقَتِهَا",
+          "root": "ص د ق",
+          "bs": "njena prijateljica",
+          "en": "her friend",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        },
+        {
+          "w": "مَدِينَةٍ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "بَعِيدَةٍ",
+          "root": "ب ع د",
+          "bs": "daleki",
+          "en": "distant",
+          "lemma": "بَعِيدٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Obavijestila ju je o vijestima iz škole, porodice i kvarta.",
       "translationEn": "She told her about news from school, the family, and the neighborhood.",
       "words": [
-        { "w": "أَخْبَرَتْهَا", "root": "خ ب ر", "bs": "obavijestila je", "en": "told her" },
-        { "w": "بِأَخْبَارِ", "root": "خ ب ر", "bs": "vijesti", "en": "news" },
-        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" },
-        { "w": "الْحَيِّ", "root": "ح ي ي", "bs": "kvart/mahala", "en": "neighborhood" }
+        {
+          "w": "أَخْبَرَتْهَا",
+          "root": "خ ب ر",
+          "bs": "obavijestila je",
+          "en": "told her",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "بِأَخْبَارِ",
+          "root": "خ ب ر",
+          "bs": "vijesti",
+          "en": "news",
+          "lemma": "خَبَرٌ / أَخْبَارٌ"
+        },
+        {
+          "w": "الْمَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        },
+        {
+          "w": "الْحَيِّ",
+          "root": "ح ي ي",
+          "bs": "kvart/mahala",
+          "en": "neighborhood",
+          "lemma": "حَيٌّ / أَحْيَاءٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Nacrtala joj je malu sliku i stavila je uz pismo.",
       "translationEn": "She drew her a small picture and put it with the letter.",
       "words": [
-        { "w": "رَسَمَتْ", "root": "ر س م", "bs": "nacrtala je", "en": "drew" },
-        { "w": "صُورَةً", "root": "ص و ر", "bs": "slika/crtež", "en": "picture" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mala", "en": "small" },
-        { "w": "الرِّسَالَةِ", "root": "ر س ل", "bs": "pismo", "en": "letter" }
+        {
+          "w": "رَسَمَتْ",
+          "root": "ر س م",
+          "bs": "nacrtala je",
+          "en": "drew",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        },
+        {
+          "w": "صُورَةً",
+          "root": "ص و ر",
+          "bs": "slika/crtež",
+          "en": "picture",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "الرِّسَالَةِ",
+          "root": "ر س ل",
+          "bs": "pismo",
+          "en": "letter",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        }
       ]
     },
     {
@@ -42,16 +120,50 @@
       "translation": "Prijateljica je odgovorila dugim i lijepim pismom.",
       "translationEn": "The friend replied with a long and beautiful letter.",
       "words": [
-        { "w": "رَدَّتِ", "root": "ر د د", "bs": "odgovorila je", "en": "replied" },
-        { "w": "الصَّدِيقَةُ", "root": "ص د ق", "bs": "prijateljica", "en": "friend (f.)" },
-        { "w": "رِسَالَةٍ", "root": "ر س ل", "bs": "pismo", "en": "letter" },
-        { "w": "طَوِيلَةٍ", "root": "ط و ل", "bs": "dugim", "en": "long" },
-        { "w": "جَمِيلَةٍ", "root": "ج م ل", "bs": "lijepim", "en": "beautiful" }
+        {
+          "w": "رَدَّتِ",
+          "root": "ر د د",
+          "bs": "odgovorila je",
+          "en": "replied",
+          "lemma": "رَدَّ يَرُدُّ"
+        },
+        {
+          "w": "الصَّدِيقَةُ",
+          "root": "ص د ق",
+          "bs": "prijateljica",
+          "en": "friend (f.)",
+          "lemma": "صَدِيقَةٌ / صَدِيقَاتٌ"
+        },
+        {
+          "w": "رِسَالَةٍ",
+          "root": "ر س ل",
+          "bs": "pismo",
+          "en": "letter",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "طَوِيلَةٍ",
+          "root": "ط و ل",
+          "bs": "dugim",
+          "en": "long",
+          "lemma": "طَوِيلٌ"
+        },
+        {
+          "w": "جَمِيلَةٍ",
+          "root": "ج م ل",
+          "bs": "lijepim",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["friendship", "letters", "communication"]
+    "tags": [
+      "friendship",
+      "letters",
+      "communication"
+    ]
   }
 }

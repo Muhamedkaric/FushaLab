@@ -8,10 +8,34 @@
       "translation": "Hajdar radi kao mehaničar u autoradionici.",
       "translationEn": "Haydar works as a mechanic in a car workshop.",
       "words": [
-        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "مِيكَانِيكِيًّا", "root": "م ك ن", "bs": "mehaničar", "en": "mechanic" },
-        { "w": "وَرْشَةِ", "root": "و ر ش", "bs": "radionica/servis", "en": "workshop" },
-        { "w": "سَيَّارَاتٍ", "root": "س ي ر", "bs": "automobili/kola", "en": "cars" }
+        {
+          "w": "يَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "مِيكَانِيكِيًّا",
+          "root": "م ك ن",
+          "bs": "mehaničar",
+          "en": "mechanic",
+          "lemma": "مِيكَانِيكِيٌّ / مِيكَانِيكِيُّونَ"
+        },
+        {
+          "w": "وَرْشَةِ",
+          "root": "و ر ش",
+          "bs": "radionica/servis",
+          "en": "workshop",
+          "lemma": "وَرْشَةٌ / وَرَشٌ"
+        },
+        {
+          "w": "سَيَّارَاتٍ",
+          "root": "س ي ر",
+          "bs": "automobili/kola",
+          "en": "cars",
+          "lemma": "سَيَّارَةٌ / سَيَّارَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Pregledava automobile i popravlja kvarove.",
       "translationEn": "He checks cars and fixes faults.",
       "words": [
-        { "w": "يَفْحَصُ", "root": "ف ح ص", "bs": "pregledava/provjerava", "en": "checks/examines" },
-        { "w": "السَّيَّارَاتِ", "root": "س ي ر", "bs": "automobili", "en": "cars" },
-        { "w": "يُصْلِحُ", "root": "ص ل ح", "bs": "popravlja/servisira", "en": "fixes/repairs" },
-        { "w": "الْأَعْطَالَ", "root": "ع ط ل", "bs": "kvarovi/problemi", "en": "faults/breakdowns" }
+        {
+          "w": "يَفْحَصُ",
+          "root": "ف ح ص",
+          "bs": "pregledava/provjerava",
+          "en": "checks/examines",
+          "lemma": "فَحَصَ يَفْحَصُ"
+        },
+        {
+          "w": "السَّيَّارَاتِ",
+          "root": "س ي ر",
+          "bs": "automobili",
+          "en": "cars",
+          "lemma": "سَيَّارَةٌ / سَيَّارَاتٌ"
+        },
+        {
+          "w": "يُصْلِحُ",
+          "root": "ص ل ح",
+          "bs": "popravlja/servisira",
+          "en": "fixes/repairs",
+          "lemma": "أَصْلَحَ يُصْلِحُ"
+        },
+        {
+          "w": "الْأَعْطَالَ",
+          "root": "ع ط ل",
+          "bs": "kvarovi/problemi",
+          "en": "faults/breakdowns",
+          "lemma": "عُطْلٌ / أَعْطَالٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Objašnjava kupcima šta je pronašao jednostavnim jezikom.",
       "translationEn": "He explains to customers what he found in simple language.",
       "words": [
-        { "w": "يَشْرَحُ", "root": "ش ر ح", "bs": "objašnjava", "en": "explains" },
-        { "w": "الزَّبَائِنِ", "root": "ز ب ن", "bs": "kupci/mušterije", "en": "customers" },
-        { "w": "وَجَدَهُ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
-        { "w": "بِلُغَةٍ", "root": "ل غ و", "bs": "jezikom", "en": "in language" },
-        { "w": "بَسِيطَةٍ", "root": "ب س ط", "bs": "jednostavnom", "en": "simple" }
+        {
+          "w": "يَشْرَحُ",
+          "root": "ش ر ح",
+          "bs": "objašnjava",
+          "en": "explains",
+          "lemma": "شَرَحَ يَشْرَحُ"
+        },
+        {
+          "w": "الزَّبَائِنِ",
+          "root": "ز ب ن",
+          "bs": "kupci/mušterije",
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "وَجَدَهُ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "بِلُغَةٍ",
+          "root": "ل غ و",
+          "bs": "jezikom",
+          "en": "in language",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "بَسِيطَةٍ",
+          "root": "ب س ط",
+          "bs": "jednostavnom",
+          "en": "simple",
+          "lemma": "بَسِيطٌ"
+        }
       ]
     },
     {
@@ -42,14 +120,37 @@
       "translation": "Kupci mu vjeruju i uvijek se vraćaju njemu.",
       "translationEn": "Customers trust him and always come back to him.",
       "words": [
-        { "w": "الزَّبَائِنُ", "root": "ز ب ن", "bs": "kupci/mušterije", "en": "customers" },
-        { "w": "يَثِقُونَ", "root": "و ث ق", "bs": "vjeruju/pouzdaju se", "en": "trust" },
-        { "w": "يَعُودُونَ", "root": "ع و د", "bs": "vraćaju se", "en": "come back/return" }
+        {
+          "w": "الزَّبَائِنُ",
+          "root": "ز ب ن",
+          "bs": "kupci/mušterije",
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "يَثِقُونَ",
+          "root": "و ث ق",
+          "bs": "vjeruju/pouzdaju se",
+          "en": "trust",
+          "lemma": "وَثِقَ يَثِقُ"
+        },
+        {
+          "w": "يَعُودُونَ",
+          "root": "ع و د",
+          "bs": "vraćaju se",
+          "en": "come back/return",
+          "lemma": "عَادَ يَعُودُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mechanic", "car workshop", "repair", "trust"]
+    "tags": [
+      "mechanic",
+      "car workshop",
+      "repair",
+      "trust"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Omer je stigao u kancelariju u osam sati ujutro.",
       "translationEn": "Omar arrived at the office at eight in the morning.",
       "words": [
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je/doputovao", "en": "arrived" },
-        { "w": "الْمَكْتَبِ", "root": "ك ت ب", "bs": "kancelarija/ured", "en": "office" },
-        { "w": "السَّاعَةِ", "root": "س ع و", "bs": "sat/čas", "en": "hour/o'clock" },
-        { "w": "صَبَاحًا", "root": "ص ب ح", "bs": "ujutro", "en": "in the morning" }
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je/doputovao",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْمَكْتَبِ",
+          "root": "ك ت ب",
+          "bs": "kancelarija/ured",
+          "en": "office",
+          "lemma": "مَكْتَبٌ / مَكَاتِبُ"
+        },
+        {
+          "w": "السَّاعَةِ",
+          "root": "س ع و",
+          "bs": "sat/čas",
+          "en": "hour/o'clock",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "صَبَاحًا",
+          "root": "ص ب ح",
+          "bs": "ujutro",
+          "en": "in the morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Rekao je kolegi «dobro jutro» i sjeo na svoju stolicu.",
       "translationEn": "He said «good morning» to his colleague and sat in his chair.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "لِزَمِيلِهِ", "root": "ز م ل", "bs": "svom kolegi", "en": "to his colleague" },
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
-        { "w": "كُرْسِيِّهِ", "root": "ك ر س", "bs": "njegova stolica", "en": "his chair" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "لِزَمِيلِهِ",
+          "root": "ز م ل",
+          "bs": "svom kolegi",
+          "en": "to his colleague",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjeo je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "كُرْسِيِّهِ",
+          "root": "ك ر س",
+          "bs": "njegova stolica",
+          "en": "his chair",
+          "lemma": "كُرْسِيٌّ / كَرَاسِيُّ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Otvorio je računar i počeo čitati elektronsku poštu.",
       "translationEn": "He opened the computer and started reading emails.",
       "words": [
-        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "opened" },
-        { "w": "الْحَاسُوبَ", "root": "ح س ب", "bs": "računar/kompjuter", "en": "computer" },
-        { "w": "يَقْرَأُ", "root": "ق ر أ", "bs": "čitati", "en": "to read" },
-        { "w": "رَسَائِلَ", "root": "ر س ل", "bs": "poruke/pisma", "en": "messages/emails" },
-        { "w": "الْبَرِيدِ", "root": "ب ر د", "bs": "pošta", "en": "mail" }
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "الْحَاسُوبَ",
+          "root": "ح س ب",
+          "bs": "računar/kompjuter",
+          "en": "computer",
+          "lemma": "حَاسُوبٌ / حَوَاسِيبُ"
+        },
+        {
+          "w": "يَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čitati",
+          "en": "to read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "رَسَائِلَ",
+          "root": "ر س ل",
+          "bs": "poruke/pisma",
+          "en": "messages/emails",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "الْبَرِيدِ",
+          "root": "ب ر د",
+          "bs": "pošta",
+          "en": "mail",
+          "lemma": "بَرِيدٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Bio je to organizovan dan i počeo ga je jasnim koracima.",
       "translationEn": "It was an organized day and he started it with clear steps.",
       "words": [
-        { "w": "يَوْمًا", "root": "ي و م", "bs": "dan", "en": "day" },
-        { "w": "مُنَظَّمًا", "root": "ن ظ م", "bs": "organizovan/uredan", "en": "organized" },
-        { "w": "خُطْوَاتٍ", "root": "خ ط و", "bs": "koraci", "en": "steps" },
-        { "w": "وَاضِحَةٍ", "root": "و ض ح", "bs": "jasni/vidljivi", "en": "clear" }
+        {
+          "w": "يَوْمًا",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "مُنَظَّمًا",
+          "root": "ن ظ م",
+          "bs": "organizovan/uredan",
+          "en": "organized",
+          "lemma": "مُنَظَّمٌ"
+        },
+        {
+          "w": "خُطْوَاتٍ",
+          "root": "خ ط و",
+          "bs": "koraci",
+          "en": "steps",
+          "lemma": "خُطْوَةٌ / خُطْوَاتٌ"
+        },
+        {
+          "w": "وَاضِحَةٍ",
+          "root": "و ض ح",
+          "bs": "jasni/vidljivi",
+          "en": "clear",
+          "lemma": "وَاضِحٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["office", "morning", "email", "arrival"]
+    "tags": [
+      "office",
+      "morning",
+      "email",
+      "arrival"
+    ]
   }
 }

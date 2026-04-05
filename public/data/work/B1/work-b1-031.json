@@ -8,10 +8,34 @@
       "translation": "Zijad radi od kuće tri dana sedmično.",
       "translationEn": "Ziyad works from home three days a week.",
       "words": [
-        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "home" },
-        { "w": "أَيَّامٍ", "root": "ي و م", "bs": "dana", "en": "days" },
-        { "w": "الْأُسْبُوعِ", "root": "س ب ع", "bs": "sedmica/tjedan", "en": "week" }
+        {
+          "w": "يَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća/dom",
+          "en": "home",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "أَيَّامٍ",
+          "root": "ي و م",
+          "bs": "dana",
+          "en": "days",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "الْأُسْبُوعِ",
+          "root": "س ب ع",
+          "bs": "sedmica/tjedan",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Sjeda za svoji sto u dnevnoj sobi i otvara računar.",
       "translationEn": "He sits at his desk in the living room and opens the computer.",
       "words": [
-        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjeda", "en": "sits" },
-        { "w": "مَكْتَبِهِ", "root": "ك ت ب", "bs": "njegov sto/radni stol", "en": "his desk" },
-        { "w": "الصَّالَةِ", "root": "ص و ل", "bs": "dnevna soba/salon", "en": "living room" },
-        { "w": "يَفْتَحُ", "root": "ف ت ح", "bs": "otvara", "en": "opens" },
-        { "w": "الْحَاسُوبَ", "root": "ح س ب", "bs": "računar/kompjuter", "en": "computer" }
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjeda",
+          "en": "sits",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "مَكْتَبِهِ",
+          "root": "ك ت ب",
+          "bs": "njegov sto/radni stol",
+          "en": "his desk",
+          "lemma": "مَكْتَبٌ / مَكَاتِبُ"
+        },
+        {
+          "w": "الصَّالَةِ",
+          "root": "ص و ل",
+          "bs": "dnevna soba/salon",
+          "en": "living room",
+          "lemma": "صَالَةٌ / صَالَاتٌ"
+        },
+        {
+          "w": "يَفْتَحُ",
+          "root": "ف ت ح",
+          "bs": "otvara",
+          "en": "opens",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "الْحَاسُوبَ",
+          "root": "ح س ب",
+          "bs": "računar/kompjuter",
+          "en": "computer",
+          "lemma": "حَاسُوبٌ / حَوَاسِيبُ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Komunicira s kolegama putem interneta.",
       "translationEn": "He communicates with his colleagues via the internet.",
       "words": [
-        { "w": "يَتَوَاصَلُ", "root": "و ص ل", "bs": "komunicira/kontaktira", "en": "communicates" },
-        { "w": "زُمَلَائِهِ", "root": "ز م ل", "bs": "njegovi kolege", "en": "his colleagues" },
-        { "w": "الْإِنْتَرْنِتِ", "root": "ن ت ر", "bs": "internet", "en": "internet" }
+        {
+          "w": "يَتَوَاصَلُ",
+          "root": "و ص ل",
+          "bs": "komunicira/kontaktira",
+          "en": "communicates",
+          "lemma": "تَوَاصَلَ يَتَوَاصَلُ"
+        },
+        {
+          "w": "زُمَلَائِهِ",
+          "root": "ز م ل",
+          "bs": "njegovi kolege",
+          "en": "his colleagues",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "الْإِنْتَرْنِتِ",
+          "root": "ن ت ر",
+          "bs": "internet",
+          "en": "internet",
+          "lemma": "إِنْتَرْنِتٌ"
+        }
       ]
     },
     {
@@ -41,16 +113,51 @@
       "translation": "Voli rad od kuće jer štedi vrijeme putovanja.",
       "translationEn": "He loves working from home because it saves commute time.",
       "words": [
-        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
-        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "rad/posao", "en": "working" },
-        { "w": "يُوَفِّرُ", "root": "و ف ر", "bs": "štedi/čuva", "en": "saves" },
-        { "w": "وَقْتَ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
-        { "w": "التَّنَقُّلِ", "root": "ن ق ل", "bs": "putovanje/komuta", "en": "commute/travel" }
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "loves",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "rad/posao",
+          "en": "working",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "يُوَفِّرُ",
+          "root": "و ف ر",
+          "bs": "štedi/čuva",
+          "en": "saves",
+          "lemma": "وَفَّرَ يُوَفِّرُ"
+        },
+        {
+          "w": "وَقْتَ",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "التَّنَقُّلِ",
+          "root": "ن ق ل",
+          "bs": "putovanje/komuta",
+          "en": "commute/travel",
+          "lemma": "تَنَقُّلٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["remote work", "home office", "internet", "work routine"]
+    "tags": [
+      "remote work",
+      "home office",
+      "internet",
+      "work routine"
+    ]
   }
 }

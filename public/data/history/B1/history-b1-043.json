@@ -8,11 +8,41 @@
       "translation": "Javni park bio je mjesto za odmor u gradu.",
       "translationEn": "The public garden was a place for rest in the city.",
       "words": [
-        { "w": "الْحَدِيقَةُ", "root": "ح د ق", "bs": "park", "en": "the garden" },
-        { "w": "الْعَامَّةُ", "root": "ع م م", "bs": "javni", "en": "public" },
-        { "w": "مَكَانًا", "root": "ك و ن", "bs": "mjesto", "en": "a place" },
-        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "odmor", "en": "rest" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grada", "en": "the city" }
+        {
+          "w": "الْحَدِيقَةُ",
+          "root": "ح د ق",
+          "bs": "park",
+          "en": "the garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        },
+        {
+          "w": "الْعَامَّةُ",
+          "root": "ع م م",
+          "bs": "javni",
+          "en": "public",
+          "lemma": "عَامٌّ"
+        },
+        {
+          "w": "مَكَانًا",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "a place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "odmor",
+          "en": "rest",
+          "lemma": "رَاحَةٌ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grada",
+          "en": "the city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "U njemu je bilo mnogo drveća i vodoskok.",
       "translationEn": "It had many trees and a water fountain.",
       "words": [
-        { "w": "أَشْجَارٌ", "root": "ش ج ر", "bs": "drveće", "en": "trees" },
-        { "w": "كَثِيرَةٌ", "root": "ك ث ر", "bs": "mnogo", "en": "many" },
-        { "w": "نَافُورَةُ", "root": "ن ف ر", "bs": "vodoskok", "en": "a fountain" },
-        { "w": "مَاءٍ", "root": "م و ه", "bs": "vode", "en": "water" }
+        {
+          "w": "أَشْجَارٌ",
+          "root": "ش ج ر",
+          "bs": "drveće",
+          "en": "trees",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "root": "ك ث ر",
+          "bs": "mnogo",
+          "en": "many",
+          "lemma": "كَثِيرٌ"
+        },
+        {
+          "w": "نَافُورَةُ",
+          "root": "ن ف ر",
+          "bs": "vodoskok",
+          "en": "a fountain",
+          "lemma": "نَافُورَةٌ / نَوَافِيرُ"
+        },
+        {
+          "w": "مَاءٍ",
+          "root": "م و ه",
+          "bs": "vode",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Odrasli su sjedili a djeca se igrala u hladu.",
       "translationEn": "The adults sat and the children played in the shade.",
       "words": [
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjedio je", "en": "sat" },
-        { "w": "الْكِبَارُ", "root": "ك ب ر", "bs": "odrasli", "en": "the adults" },
-        { "w": "لَعِبَ", "root": "ل ع ب", "bs": "igrao se", "en": "played" },
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "the children" },
-        { "w": "الظِّلِّ", "root": "ظ ل ل", "bs": "hlad", "en": "the shade" }
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjedio je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الْكِبَارُ",
+          "root": "ك ب ر",
+          "bs": "odrasli",
+          "en": "the adults",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "لَعِبَ",
+          "root": "ل ع ب",
+          "bs": "igrao se",
+          "en": "played",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "the children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الظِّلِّ",
+          "root": "ظ ل ل",
+          "bs": "hlad",
+          "en": "the shade",
+          "lemma": "ظِلٌّ / ظِلَالٌ"
+        }
       ]
     },
     {
@@ -43,14 +127,36 @@
       "translation": "Park je bio otvoren za sve bez izuzetka.",
       "translationEn": "The garden was open to everyone without exception.",
       "words": [
-        { "w": "الْحَدِيقَةُ", "root": "ح د ق", "bs": "park", "en": "the garden" },
-        { "w": "مَفْتُوحَةً", "root": "ف ت ح", "bs": "otvoren", "en": "open" },
-        { "w": "اسْتِثْنَاءٍ", "root": "ث ن ي", "bs": "izuzetak", "en": "exception" }
+        {
+          "w": "الْحَدِيقَةُ",
+          "root": "ح د ق",
+          "bs": "park",
+          "en": "the garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        },
+        {
+          "w": "مَفْتُوحَةً",
+          "root": "ف ت ح",
+          "bs": "otvoren",
+          "en": "open",
+          "lemma": "مَفْتُوحٌ"
+        },
+        {
+          "w": "اسْتِثْنَاءٍ",
+          "root": "ث ن ي",
+          "bs": "izuzetak",
+          "en": "exception",
+          "lemma": "اِسْتِثْنَاءٌ / اِسْتِثْنَاءَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["city", "garden", "community"]
+    "tags": [
+      "city",
+      "garden",
+      "community"
+    ]
   }
 }

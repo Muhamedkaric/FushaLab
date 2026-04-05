@@ -8,10 +8,34 @@
       "translation": "Bio je mali mačak po imenu Lejt koji je živio u vrtu.",
       "translationEn": "There was a small cat named Layth who lived in a garden.",
       "words": [
-        { "w": "قِطٌّ", "root": "ق ط ط", "bs": "mačak", "en": "cat" },
-        { "w": "صَغِيرٌ", "root": "ص غ ر", "bs": "mali", "en": "small" },
-        { "w": "يَعِيشُ", "root": "ع ي ش", "bs": "živi", "en": "lived" },
-        { "w": "حَدِيقَةٍ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+        {
+          "w": "قِطٌّ",
+          "root": "ق ط ط",
+          "bs": "mačak",
+          "en": "cat",
+          "lemma": "قِطٌّ / قِطَطٌ"
+        },
+        {
+          "w": "صَغِيرٌ",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "يَعِيشُ",
+          "root": "ع ي ش",
+          "bs": "živi",
+          "en": "lived",
+          "lemma": "عَاشَ يَعِيشُ"
+        },
+        {
+          "w": "حَدِيقَةٍ",
+          "root": "ح د ق",
+          "bs": "vrt",
+          "en": "garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Bojao se kiše i sjedio je ispod stabla.",
       "translationEn": "He was afraid of the rain and sat under the tree.",
       "words": [
-        { "w": "يَخَافُ", "root": "خ و ف", "bs": "boji se", "en": "is afraid" },
-        { "w": "الْمَطَرِ", "root": "م ط ر", "bs": "kiša", "en": "rain" },
-        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" },
-        { "w": "الشَّجَرَةِ", "root": "ش ج ر", "bs": "stablo", "en": "tree" }
+        {
+          "w": "يَخَافُ",
+          "root": "خ و ف",
+          "bs": "boji se",
+          "en": "is afraid",
+          "lemma": "خَافَ يَخَافُ"
+        },
+        {
+          "w": "الْمَطَرِ",
+          "root": "م ط ر",
+          "bs": "kiša",
+          "en": "rain",
+          "lemma": "مَطَرٌ / أَمْطَارٌ"
+        },
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedi",
+          "en": "sits",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الشَّجَرَةِ",
+          "root": "ش ج ر",
+          "bs": "stablo",
+          "en": "tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Jedna mala djevojčica je otvorila prozor i pozvala ga unutra.",
       "translationEn": "A little girl opened the window and called him inside.",
       "words": [
-        { "w": "فَتَحَتْ", "root": "ف ت ح", "bs": "otvorila je", "en": "opened" },
-        { "w": "بِنْتٌ", "root": "ب ن ت", "bs": "djevojčica", "en": "girl" },
-        { "w": "صَغِيرَةٌ", "root": "ص غ ر", "bs": "mala", "en": "little" },
-        { "w": "النَّافِذَةَ", "root": "ن ف ذ", "bs": "prozor", "en": "window" },
-        { "w": "نَادَتْهُ", "root": "ن د و", "bs": "pozvala ga je", "en": "called him" }
+        {
+          "w": "فَتَحَتْ",
+          "root": "ف ت ح",
+          "bs": "otvorila je",
+          "en": "opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "بِنْتٌ",
+          "root": "ب ن ت",
+          "bs": "djevojčica",
+          "en": "girl",
+          "lemma": "بِنْتٌ / بَنَاتٌ"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "little",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "النَّافِذَةَ",
+          "root": "ن ف ذ",
+          "bs": "prozor",
+          "en": "window",
+          "lemma": "نَافِذَةٌ / نَوَافِذُ"
+        },
+        {
+          "w": "نَادَتْهُ",
+          "root": "ن د و",
+          "bs": "pozvala ga je",
+          "en": "called him",
+          "lemma": "نَادَى يُنَادِي"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Mačak je ušao i toplo sjedio pored nje.",
       "translationEn": "The cat entered and sat warmly beside her.",
       "words": [
-        { "w": "دَخَلَ", "root": "د خ ل", "bs": "ušao je", "en": "entered" },
-        { "w": "الْقِطُّ", "root": "ق ط ط", "bs": "mačak", "en": "cat" },
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjedio je", "en": "sat" },
-        { "w": "بِدِفْءٍ", "root": "د ف أ", "bs": "toplo", "en": "warmly" }
+        {
+          "w": "دَخَلَ",
+          "root": "د خ ل",
+          "bs": "ušao je",
+          "en": "entered",
+          "lemma": "دَخَلَ يَدْخُلُ"
+        },
+        {
+          "w": "الْقِطُّ",
+          "root": "ق ط ط",
+          "bs": "mačak",
+          "en": "cat",
+          "lemma": "قِطٌّ / قِطَطٌ"
+        },
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjedio je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "بِدِفْءٍ",
+          "root": "د ف أ",
+          "bs": "toplo",
+          "en": "warmly",
+          "lemma": "دِفْءٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cat", "girl", "rain", "kindness"]
+    "tags": [
+      "cat",
+      "girl",
+      "rain",
+      "kindness"
+    ]
   }
 }

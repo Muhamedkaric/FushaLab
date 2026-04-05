@@ -8,10 +8,34 @@
       "translation": "Po mom mišljenju, pisanje dnevnika je veoma korisno.",
       "translationEn": "In my opinion, writing in a diary is very useful.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
-        { "w": "الْكِتَابَةُ", "root": "ك ت ب", "bs": "pisanje", "en": "writing" },
-        { "w": "الْيَوْمِيَّاتِ", "root": "ي و م", "bs": "dnevnik", "en": "diary" },
-        { "w": "مُفِيدَةٌ", "root": "ف ي د", "bs": "korisno", "en": "useful" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "moje mišljenje",
+          "en": "my opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "الْكِتَابَةُ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "writing",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "الْيَوْمِيَّاتِ",
+          "root": "ي و م",
+          "bs": "dnevnik",
+          "en": "diary",
+          "lemma": "يَوْمِيَّاتٌ"
+        },
+        {
+          "w": "مُفِيدَةٌ",
+          "root": "ف ي د",
+          "bs": "korisno",
+          "en": "useful",
+          "lemma": "مُفِيدٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Kada zapišeš svoje osjećaje, osjećaš veću smirenost.",
       "translationEn": "When you write your feelings you feel greater relief.",
       "words": [
-        { "w": "تَكْتُبُ", "root": "ك ت ب", "bs": "zapišeš", "en": "write" },
-        { "w": "مَشَاعِرَكَ", "root": "ش ع ر", "bs": "tvoje osjećaje", "en": "your feelings" },
-        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjećaš", "en": "feel" },
-        { "w": "بِرَاحَةٍ", "root": "ر و ح", "bs": "smirenost", "en": "relief" }
+        {
+          "w": "تَكْتُبُ",
+          "root": "ك ت ب",
+          "bs": "zapišeš",
+          "en": "write",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "مَشَاعِرَكَ",
+          "root": "ش ع ر",
+          "bs": "tvoje osjećaje",
+          "en": "your feelings",
+          "lemma": "شُعُورٌ / مَشَاعِرُ"
+        },
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećaš",
+          "en": "feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِرَاحَةٍ",
+          "root": "ر و ح",
+          "bs": "smirenost",
+          "en": "relief",
+          "lemma": "رَاحَةٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Dnevnik bilježi lijepe uspomene iz života.",
       "translationEn": "A diary records the beautiful memories of life.",
       "words": [
-        { "w": "الْيَوْمِيَّاتُ", "root": "ي و م", "bs": "dnevnik", "en": "diary" },
-        { "w": "تُسَجِّلُ", "root": "س ج ل", "bs": "bilježi", "en": "records" },
-        { "w": "ذِكْرَيَاتِ", "root": "ذ ك ر", "bs": "uspomene", "en": "memories" },
-        { "w": "الْجَمِيلَةِ", "root": "ج م ل", "bs": "lijepe", "en": "beautiful" }
+        {
+          "w": "الْيَوْمِيَّاتُ",
+          "root": "ي و م",
+          "bs": "dnevnik",
+          "en": "diary",
+          "lemma": "يَوْمِيَّاتٌ"
+        },
+        {
+          "w": "تُسَجِّلُ",
+          "root": "س ج ل",
+          "bs": "bilježi",
+          "en": "records",
+          "lemma": "سَجَّلَ يُسَجِّلُ"
+        },
+        {
+          "w": "ذِكْرَيَاتِ",
+          "root": "ذ ك ر",
+          "bs": "uspomene",
+          "en": "memories",
+          "lemma": "ذِكْرَى / ذِكْرَيَاتٌ"
+        },
+        {
+          "w": "الْجَمِيلَةِ",
+          "root": "ج م ل",
+          "bs": "lijepe",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Pišem u svoju bilježnicu svake večeri prije spavanja.",
       "translationEn": "I write in my notebook every evening before sleeping.",
       "words": [
-        { "w": "أَكْتُبُ", "root": "ك ت ب", "bs": "pišem", "en": "write" },
-        { "w": "دَفْتَرِي", "root": "د ف ت", "bs": "moja bilježnica", "en": "my notebook" },
-        { "w": "مَسَاءٍ", "root": "م س و", "bs": "večer", "en": "evening" },
-        { "w": "النَّوْمِ", "root": "ن و م", "bs": "spavanje", "en": "sleeping" }
+        {
+          "w": "أَكْتُبُ",
+          "root": "ك ت ب",
+          "bs": "pišem",
+          "en": "write",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "دَفْتَرِي",
+          "root": "د ف ت",
+          "bs": "moja bilježnica",
+          "en": "my notebook",
+          "lemma": "دَفْتَرٌ / دَفَاتِرُ"
+        },
+        {
+          "w": "مَسَاءٍ",
+          "root": "م س و",
+          "bs": "večer",
+          "en": "evening",
+          "lemma": "مَسَاءٌ"
+        },
+        {
+          "w": "النَّوْمِ",
+          "root": "ن و م",
+          "bs": "spavanje",
+          "en": "sleeping",
+          "lemma": "نَوْمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "diary", "writing", "wellbeing"]
+    "tags": [
+      "opinion",
+      "diary",
+      "writing",
+      "wellbeing"
+    ]
   }
 }

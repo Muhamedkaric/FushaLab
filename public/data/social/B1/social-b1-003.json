@@ -8,11 +8,41 @@
       "translation": "Prijatelji su sjeli u kafeu i naručili pića.",
       "translationEn": "The friends sat in the café and ordered drinks.",
       "words": [
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeli su", "en": "sat" },
-        { "w": "الأَصْدِقَاءُ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
-        { "w": "المَقْهَى", "root": "ق هـ و", "bs": "kafeu", "en": "café" },
-        { "w": "طَلَبُوا", "root": "ط ل ب", "bs": "naručili su", "en": "ordered" },
-        { "w": "المَشْرُوبَاتِ", "root": "ش ر ب", "bs": "pića", "en": "drinks" }
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjeli su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الأَصْدِقَاءُ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "المَقْهَى",
+          "root": "ق هـ و",
+          "bs": "kafeu",
+          "en": "café",
+          "lemma": "مَقْهًى / مَقَاهٍ"
+        },
+        {
+          "w": "طَلَبُوا",
+          "root": "ط ل ب",
+          "bs": "naručili su",
+          "en": "ordered",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "المَشْرُوبَاتِ",
+          "root": "ش ر ب",
+          "bs": "pića",
+          "en": "drinks",
+          "lemma": "مَشْرُوبٌ / مَشْرُوبَاتٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Ahmed je naručio kafu, a Sara je naručila sok.",
       "translationEn": "Ahmed ordered coffee and Sara ordered juice.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "naručio je", "en": "ordered" },
-        { "w": "قَهْوَةً", "root": "ق هـ و", "bs": "kafu", "en": "coffee" },
-        { "w": "عَصِيرًا", "root": "ع ص ر", "bs": "sok", "en": "juice" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "naručio je",
+          "en": "ordered",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "قَهْوَةً",
+          "root": "ق هـ و",
+          "bs": "kafu",
+          "en": "coffee",
+          "lemma": "قَهْوَةٌ / قَهَوَاتٌ"
+        },
+        {
+          "w": "عَصِيرًا",
+          "root": "ع ص ر",
+          "bs": "sok",
+          "en": "juice",
+          "lemma": "عَصِيرٌ / عُصَارَاتٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Razgovarali su o poslu i svakodnevnom životu.",
       "translationEn": "They talked about their work and daily lives.",
       "words": [
-        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
-        { "w": "عَمَلِهِمْ", "root": "ع م ل", "bs": "poslu", "en": "work" },
-        { "w": "حَيَاتِهِمُ", "root": "ح ي ي", "bs": "životu", "en": "lives" },
-        { "w": "اليَوْمِيَّةِ", "root": "ي و م", "bs": "svakodnevnom", "en": "daily" }
+        {
+          "w": "تَحَدَّثُوا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "عَمَلِهِمْ",
+          "root": "ع م ل",
+          "bs": "poslu",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "حَيَاتِهِمُ",
+          "root": "ح ي ي",
+          "bs": "životu",
+          "en": "lives",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "اليَوْمِيَّةِ",
+          "root": "ي و م",
+          "bs": "svakodnevnom",
+          "en": "daily",
+          "lemma": "يَوْمِيٌّ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Proveli su lijepo vrijeme zajedno.",
       "translationEn": "They spent a nice time together.",
       "words": [
-        { "w": "قَضَوْا", "root": "ق ض ي", "bs": "proveli su", "en": "spent" },
-        { "w": "وَقْتًا", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
-        { "w": "لَطِيفًا", "root": "ل ط ف", "bs": "lijepo", "en": "nice" }
+        {
+          "w": "قَضَوْا",
+          "root": "ق ض ي",
+          "bs": "proveli su",
+          "en": "spent",
+          "lemma": "قَضَى يَقْضِي"
+        },
+        {
+          "w": "وَقْتًا",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "لَطِيفًا",
+          "root": "ل ط ف",
+          "bs": "lijepo",
+          "en": "nice",
+          "lemma": "لَطِيفٌ"
+        }
       ]
     },
     {
@@ -51,9 +141,27 @@
       "translation": "Ahmed je platio račun i otišli su.",
       "translationEn": "Ahmed paid the bill and they left.",
       "words": [
-        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
-        { "w": "الحِسَابَ", "root": "ح س ب", "bs": "račun", "en": "bill" },
-        { "w": "خَرَجُوا", "root": "خ ر ج", "bs": "otišli su", "en": "left" }
+        {
+          "w": "دَفَعَ",
+          "root": "د ف ع",
+          "bs": "platio je",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "الحِسَابَ",
+          "root": "ح س ب",
+          "bs": "račun",
+          "en": "bill",
+          "lemma": "حِسَابٌ / حِسَابَاتٌ"
+        },
+        {
+          "w": "خَرَجُوا",
+          "root": "خ ر ج",
+          "bs": "otišli su",
+          "en": "left",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        }
       ]
     }
   ],

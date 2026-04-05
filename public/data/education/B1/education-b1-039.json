@@ -8,11 +8,41 @@
       "translation": "Ibrahim je pronašao staru knjigu u školskoj biblioteci.",
       "translationEn": "Ibrahim found an old book in the school library.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
-        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "قَدِيمًا", "root": "ق د م", "bs": "stara", "en": "old" },
-        { "w": "مَكْتَبَةِ", "root": "ك ت ب", "bs": "biblioteka", "en": "library" },
-        { "w": "المَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "قَدِيمًا",
+          "root": "ق د م",
+          "bs": "stara",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "مَكْتَبَةِ",
+          "root": "ك ت ب",
+          "bs": "biblioteka",
+          "en": "library",
+          "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Knjiga je bila o životinjama u šumi.",
       "translationEn": "The book was about animals in the forest.",
       "words": [
-        { "w": "الكِتَابُ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "الحَيَوَانَاتِ", "root": "ح ي و", "bs": "životinje", "en": "animals" },
-        { "w": "الغَابَةِ", "root": "غ ي ب", "bs": "šuma", "en": "forest" }
+        {
+          "w": "الكِتَابُ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "الحَيَوَانَاتِ",
+          "root": "ح ي و",
+          "bs": "životinje",
+          "en": "animals",
+          "lemma": "حَيَوَانٌ / حَيَوَانَاتٌ"
+        },
+        {
+          "w": "الغَابَةِ",
+          "root": "غ ي ب",
+          "bs": "šuma",
+          "en": "forest",
+          "lemma": "غَابَةٌ / غَابَاتٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Čitao ga je s velikim zanimanjem i uživao u njemu.",
       "translationEn": "He read it with great interest and enjoyed it.",
       "words": [
-        { "w": "قَرَأَهُ", "root": "ق ر أ", "bs": "čitao ga je", "en": "read it" },
-        { "w": "اهْتِمَامٍ", "root": "ه م م", "bs": "zanimanje", "en": "interest" },
-        { "w": "اسْتَمْتَعَ", "root": "م ت ع", "bs": "uživao je", "en": "enjoyed" }
+        {
+          "w": "قَرَأَهُ",
+          "root": "ق ر أ",
+          "bs": "čitao ga je",
+          "en": "read it",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "اهْتِمَامٍ",
+          "root": "ه م م",
+          "bs": "zanimanje",
+          "en": "interest",
+          "lemma": "اِهْتِمَامٌ / اِهْتِمَامَاتٌ"
+        },
+        {
+          "w": "اسْتَمْتَعَ",
+          "root": "م ت ع",
+          "bs": "uživao je",
+          "en": "enjoyed",
+          "lemma": "اِسْتَمْتَعَ يَسْتَمْتِعُ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Rekao je prijateljima o knjizi u odmoru.",
       "translationEn": "He told his friends about the book during break.",
       "words": [
-        { "w": "أَخْبَرَ", "root": "خ ب ر", "bs": "rekao je", "en": "told" },
-        { "w": "أَصْدِقَاءَهُ", "root": "ص د ق", "bs": "njegovi prijatelji", "en": "his friends" },
-        { "w": "الكِتَابِ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "الاِسْتِرَاحَةِ", "root": "ر و ح", "bs": "odmor", "en": "break" }
+        {
+          "w": "أَخْبَرَ",
+          "root": "خ ب ر",
+          "bs": "rekao je",
+          "en": "told",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "أَصْدِقَاءَهُ",
+          "root": "ص د ق",
+          "bs": "njegovi prijatelji",
+          "en": "his friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "الكِتَابِ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "الاِسْتِرَاحَةِ",
+          "root": "ر و ح",
+          "bs": "odmor",
+          "en": "break",
+          "lemma": "اِسْتِرَاحَةٌ / اِسْتِرَاحَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["library", "animals", "reading"]
+    "tags": [
+      "library",
+      "animals",
+      "reading"
+    ]
   }
 }

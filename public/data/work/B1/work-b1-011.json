@@ -8,10 +8,34 @@
       "translation": "Kemal radi u prodavnici odjeće.",
       "translationEn": "Kamal works in a clothing shop.",
       "words": [
-        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "مَتْجَرٍ", "root": "ت ج ر", "bs": "prodavnica/radnja", "en": "shop/store" },
-        { "w": "بَيْعِ", "root": "ب ي ع", "bs": "prodaja", "en": "selling/sale" },
-        { "w": "الْمَلَابِسِ", "root": "ل ب س", "bs": "odjeća", "en": "clothes" }
+        {
+          "w": "يَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "مَتْجَرٍ",
+          "root": "ت ج ر",
+          "bs": "prodavnica/radnja",
+          "en": "shop/store",
+          "lemma": "مَتْجَرٌ / مَتَاجِرُ"
+        },
+        {
+          "w": "بَيْعِ",
+          "root": "ب ي ع",
+          "bs": "prodaja",
+          "en": "selling/sale",
+          "lemma": "بَيْعٌ"
+        },
+        {
+          "w": "الْمَلَابِسِ",
+          "root": "ل ب س",
+          "bs": "odjeća",
+          "en": "clothes",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Pomaže kupcima u odabiru odgovarajuće odjeće.",
       "translationEn": "He helps customers choose suitable clothes.",
       "words": [
-        { "w": "يُسَاعِدُ", "root": "س ع د", "bs": "pomaže", "en": "helps" },
-        { "w": "الزَّبَائِنَ", "root": "ز ب ن", "bs": "kupci/mušterije", "en": "customers" },
-        { "w": "اخْتِيَارِ", "root": "خ ي ر", "bs": "odabir/izbor", "en": "choosing/selection" },
-        { "w": "الْمُنَاسِبَةِ", "root": "ن س ب", "bs": "odgovarajuća/prikladna", "en": "suitable" }
+        {
+          "w": "يُسَاعِدُ",
+          "root": "س ع د",
+          "bs": "pomaže",
+          "en": "helps",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "الزَّبَائِنَ",
+          "root": "ز ب ن",
+          "bs": "kupci/mušterije",
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "اخْتِيَارِ",
+          "root": "خ ي ر",
+          "bs": "odabir/izbor",
+          "en": "choosing/selection",
+          "lemma": "اخْتِيَارٌ"
+        },
+        {
+          "w": "الْمُنَاسِبَةِ",
+          "root": "ن س ب",
+          "bs": "odgovarajuća/prikladna",
+          "en": "suitable",
+          "lemma": "مُنَاسِبٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Odgovara na njihova pitanja s strpljenjem i osmijehom.",
       "translationEn": "He answers their questions with patience and a smile.",
       "words": [
-        { "w": "يُجِيبُ", "root": "ج و ب", "bs": "odgovara", "en": "answers" },
-        { "w": "أَسْئِلَتِهِمْ", "root": "س أ ل", "bs": "njihova pitanja", "en": "their questions" },
-        { "w": "بِصَبْرٍ", "root": "ص ب ر", "bs": "strpljivo/s strpljenjem", "en": "patiently/with patience" },
-        { "w": "بِابْتِسَامَةٍ", "root": "ب س م", "bs": "s osmijehom", "en": "with a smile" }
+        {
+          "w": "يُجِيبُ",
+          "root": "ج و ب",
+          "bs": "odgovara",
+          "en": "answers",
+          "lemma": "أَجَابَ يُجِيبُ"
+        },
+        {
+          "w": "أَسْئِلَتِهِمْ",
+          "root": "س أ ل",
+          "bs": "njihova pitanja",
+          "en": "their questions",
+          "lemma": "سُؤَالٌ / أَسْئِلَةٌ"
+        },
+        {
+          "w": "بِصَبْرٍ",
+          "root": "ص ب ر",
+          "bs": "strpljivo/s strpljenjem",
+          "en": "patiently/with patience",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "بِابْتِسَامَةٍ",
+          "root": "ب س م",
+          "bs": "s osmijehom",
+          "en": "with a smile",
+          "lemma": "اِبْتِسَامَةٌ / اِبْتِسَامَاتٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Njegov posao završava u devet sati uveče.",
       "translationEn": "His work ends at nine o'clock in the evening.",
       "words": [
-        { "w": "يَنْتَهِي", "root": "ن ه ي", "bs": "završava", "en": "ends" },
-        { "w": "عَمَلُهُ", "root": "ع م ل", "bs": "njegov posao", "en": "his work" },
-        { "w": "السَّاعَةِ", "root": "س ع و", "bs": "sat/čas", "en": "hour/o'clock" },
-        { "w": "مَسَاءً", "root": "م س و", "bs": "uveče/navečer", "en": "in the evening" }
+        {
+          "w": "يَنْتَهِي",
+          "root": "ن ه ي",
+          "bs": "završava",
+          "en": "ends",
+          "lemma": "اِنْتَهَى يَنْتَهِي"
+        },
+        {
+          "w": "عَمَلُهُ",
+          "root": "ع م ل",
+          "bs": "njegov posao",
+          "en": "his work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "السَّاعَةِ",
+          "root": "س ع و",
+          "bs": "sat/čas",
+          "en": "hour/o'clock",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "مَسَاءً",
+          "root": "م س و",
+          "bs": "uveče/navečer",
+          "en": "in the evening",
+          "lemma": "مَسَاءٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["shop", "customer service", "clothing", "work"]
+    "tags": [
+      "shop",
+      "customer service",
+      "clothing",
+      "work"
+    ]
   }
 }

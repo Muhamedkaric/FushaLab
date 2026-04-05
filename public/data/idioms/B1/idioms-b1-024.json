@@ -8,8 +8,20 @@
       "translation": "Poslovica kaže: «Kretanje je blagoslov».",
       "translationEn": "The proverb says: «Movement is a blessing».",
       "words": [
-        { "w": "الْحَرَكَةُ", "root": "ح ر ك", "bs": "kretanje", "en": "movement" },
-        { "w": "بَرَكَةٌ", "root": "ب ر ك", "bs": "blagoslov", "en": "blessing" }
+        {
+          "w": "الْحَرَكَةُ",
+          "root": "ح ر ك",
+          "bs": "kretanje",
+          "en": "movement",
+          "lemma": "حَرَكَةٌ / حَرَكَاتٌ"
+        },
+        {
+          "w": "بَرَكَةٌ",
+          "root": "ب ر ك",
+          "bs": "blagoslov",
+          "en": "blessing",
+          "lemma": "بَرَكَةٌ / بَرَكَاتٌ"
+        }
       ]
     },
     {
@@ -17,10 +29,34 @@
       "translation": "To znači da rad i aktivnost donose dobro.",
       "translationEn": "This means that work and activity bring good things.",
       "words": [
-        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "rad", "en": "work" },
-        { "w": "النَّشَاطَ", "root": "ن ش ط", "bs": "aktivnost", "en": "activity" },
-        { "w": "يَجْلِبَانِ", "root": "ج ل ب", "bs": "donose", "en": "bring" },
-        { "w": "الْخَيْرَ", "root": "خ ي ر", "bs": "dobro", "en": "good things" }
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "النَّشَاطَ",
+          "root": "ن ش ط",
+          "bs": "aktivnost",
+          "en": "activity",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
+        },
+        {
+          "w": "يَجْلِبَانِ",
+          "root": "ج ل ب",
+          "bs": "donose",
+          "en": "bring",
+          "lemma": "جَلَبَ يَجْلِبُ"
+        },
+        {
+          "w": "الْخَيْرَ",
+          "root": "خ ي ر",
+          "bs": "dobro",
+          "en": "good things",
+          "lemma": "خَيْرٌ / خُيُورٌ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Ijad je puno sjedio i osjećao se lijenjem.",
       "translationEn": "Iyad used to sit a lot and feel lazy.",
       "words": [
-        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedio je", "en": "sit" },
-        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjećao se", "en": "feel" },
-        { "w": "الْكَسَلِ", "root": "ك س ل", "bs": "lijenost", "en": "laziness" }
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedio je",
+          "en": "sit",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećao se",
+          "en": "feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الْكَسَلِ",
+          "root": "ك س ل",
+          "bs": "lijenost",
+          "en": "laziness",
+          "lemma": "كَسَلٌ"
+        }
       ]
     },
     {
@@ -38,15 +92,43 @@
       "translation": "Počeo je hodati svakodnevno i popravilo mu se zdravlje i raspoloženje.",
       "translationEn": "He started walking daily and his health and mood improved.",
       "words": [
-        { "w": "الْمَشْيِ", "root": "م ش ي", "bs": "hodanje", "en": "walking" },
-        { "w": "تَحَسَّنَتْ", "root": "ح س ن", "bs": "popravilo se", "en": "improved" },
-        { "w": "صِحَّتُهُ", "root": "ص ح ح", "bs": "njegovo zdravlje", "en": "his health" },
-        { "w": "مَزَاجُهُ", "root": "م ز ج", "bs": "raspoloženje", "en": "mood" }
+        {
+          "w": "الْمَشْيِ",
+          "root": "م ش ي",
+          "bs": "hodanje",
+          "en": "walking",
+          "lemma": "مَشْيٌ"
+        },
+        {
+          "w": "تَحَسَّنَتْ",
+          "root": "ح س ن",
+          "bs": "popravilo se",
+          "en": "improved",
+          "lemma": "تَحَسَّنَ يَتَحَسَّنُ"
+        },
+        {
+          "w": "صِحَّتُهُ",
+          "root": "ص ح ح",
+          "bs": "njegovo zdravlje",
+          "en": "his health",
+          "lemma": "صِحَّةٌ"
+        },
+        {
+          "w": "مَزَاجُهُ",
+          "root": "م ز ج",
+          "bs": "raspoloženje",
+          "en": "mood",
+          "lemma": "مِزَاجٌ / أَمْزِجَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["activity", "proverb", "health"]
+    "tags": [
+      "activity",
+      "proverb",
+      "health"
+    ]
   }
 }

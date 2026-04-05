@@ -8,9 +8,27 @@
       "translation": "Dječak je stigao na plažu sa ocem.",
       "translationEn": "The boy arrived at the beach with his father.",
       "words": [
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
-        { "w": "الْوَلَدُ", "root": "و ل د", "bs": "dječak", "en": "boy" },
-        { "w": "الشَّاطِئِ", "root": "ش ط أ", "bs": "plaža", "en": "beach" }
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْوَلَدُ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "وَلَدٌ / أَوْلَادٌ"
+        },
+        {
+          "w": "الشَّاطِئِ",
+          "root": "ش ط أ",
+          "bs": "plaža",
+          "en": "beach",
+          "lemma": "شَاطِئٌ / شَوَاطِئُ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Skinuo je cipele i hodao po pijesku.",
       "translationEn": "He took off his shoes and walked on the sand.",
       "words": [
-        { "w": "خَلَعَ", "root": "خ ل ع", "bs": "skinuo je", "en": "took off" },
-        { "w": "حِذَاءَهُ", "root": "ح ذ و", "bs": "njegove cipele", "en": "his shoes" },
-        { "w": "مَشَى", "root": "م ش ي", "bs": "hodao je", "en": "walked" },
-        { "w": "الرَّمْلِ", "root": "ر م ل", "bs": "pijesak", "en": "sand" }
+        {
+          "w": "خَلَعَ",
+          "root": "خ ل ع",
+          "bs": "skinuo je",
+          "en": "took off",
+          "lemma": "خَلَعَ يَخْلَعُ"
+        },
+        {
+          "w": "حِذَاءَهُ",
+          "root": "ح ذ و",
+          "bs": "njegove cipele",
+          "en": "his shoes",
+          "lemma": "حِذَاءٌ / أَحْذِيَةٌ"
+        },
+        {
+          "w": "مَشَى",
+          "root": "م ش ي",
+          "bs": "hodao je",
+          "en": "walked",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "الرَّمْلِ",
+          "root": "ر م ل",
+          "bs": "pijesak",
+          "en": "sand",
+          "lemma": "رَمْلٌ / رِمَالٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Pijesak je bio topao a voda hladna.",
       "translationEn": "The sand was warm and the water was cold.",
       "words": [
-        { "w": "الرَّمْلُ", "root": "ر م ل", "bs": "pijesak", "en": "sand" },
-        { "w": "دَافِئًا", "root": "د ف أ", "bs": "topao", "en": "warm" },
-        { "w": "الْمَاءُ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "بَارِدًا", "root": "ب ر د", "bs": "hladna", "en": "cold" }
+        {
+          "w": "الرَّمْلُ",
+          "root": "ر م ل",
+          "bs": "pijesak",
+          "en": "sand",
+          "lemma": "رَمْلٌ / رِمَالٌ"
+        },
+        {
+          "w": "دَافِئًا",
+          "root": "د ف أ",
+          "bs": "topao",
+          "en": "warm",
+          "lemma": "دَافِئٌ"
+        },
+        {
+          "w": "الْمَاءُ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "بَارِدًا",
+          "root": "ب ر د",
+          "bs": "hladna",
+          "en": "cold",
+          "lemma": "بَارِدٌ"
+        }
       ]
     },
     {
@@ -40,9 +106,27 @@
       "translation": "Igrao se pijeskom i bio veoma sretan.",
       "translationEn": "He played in the sand and was very happy.",
       "words": [
-        { "w": "لَعِبَ", "root": "ل ع ب", "bs": "igrao se", "en": "played" },
-        { "w": "الرَّمْلِ", "root": "ر م ل", "bs": "pijesak", "en": "sand" },
-        { "w": "سَعِيدٌ", "root": "س ع د", "bs": "sretan", "en": "happy" }
+        {
+          "w": "لَعِبَ",
+          "root": "ل ع ب",
+          "bs": "igrao se",
+          "en": "played",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الرَّمْلِ",
+          "root": "ر م ل",
+          "bs": "pijesak",
+          "en": "sand",
+          "lemma": "رَمْلٌ / رِمَالٌ"
+        },
+        {
+          "w": "سَعِيدٌ",
+          "root": "س ع د",
+          "bs": "sretan",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        }
       ]
     }
   ],

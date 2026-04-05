@@ -8,11 +8,41 @@
       "translation": "Učitelj je zamolio učenike da rade zajedno u grupama.",
       "translationEn": "The teacher asked the students to work together in groups.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je", "en": "asked" },
-        { "w": "الْمُعَلِّمُ", "root": "ع ل م", "bs": "učitelj", "en": "the teacher" },
-        { "w": "الطُّلَّابِ", "root": "ط ل ب", "bs": "učenici", "en": "the students" },
-        { "w": "يَعْمَلُوا", "root": "ع م ل", "bs": "rade", "en": "work" },
-        { "w": "مَجْمُوعَاتٍ", "root": "ج م ع", "bs": "grupe", "en": "groups" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zamolio je",
+          "en": "asked",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الْمُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "učitelj",
+          "en": "the teacher",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "the students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "يَعْمَلُوا",
+          "root": "ع م ل",
+          "bs": "rade",
+          "en": "work",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "مَجْمُوعَاتٍ",
+          "root": "ج م ع",
+          "bs": "grupe",
+          "en": "groups",
+          "lemma": "مَجْمُوعَةٌ / مَجْمُوعَاتٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "U početku se neki učenici nisu složili.",
       "translationEn": "At first some of the students did not agree.",
       "words": [
-        { "w": "الْبِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "the beginning" },
-        { "w": "يَتَّفِقْ", "root": "و ف ق", "bs": "slažu se", "en": "agree" },
-        { "w": "الطُّلَّابِ", "root": "ط ل ب", "bs": "učenici", "en": "the students" }
+        {
+          "w": "الْبِدَايَةِ",
+          "root": "ب د أ",
+          "bs": "početak",
+          "en": "the beginning",
+          "lemma": "بِدَايَةٌ / بِدَايَاتٌ"
+        },
+        {
+          "w": "يَتَّفِقْ",
+          "root": "و ف ق",
+          "bs": "slažu se",
+          "en": "agree",
+          "lemma": "اِتَّفَقَ يَتَّفِقُ"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "the students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        }
       ]
     },
     {
@@ -30,8 +78,20 @@
       "translation": "Zatim su razgovarali i slušali jedni druge.",
       "translationEn": "Then they talked and listened to each other.",
       "words": [
-        { "w": "تَكَلَّمُوا", "root": "ك ل م", "bs": "razgovarali su", "en": "talked" },
-        { "w": "اسْتَمَعُوا", "root": "س م ع", "bs": "slušali su", "en": "listened" }
+        {
+          "w": "تَكَلَّمُوا",
+          "root": "ك ل م",
+          "bs": "razgovarali su",
+          "en": "talked",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "اسْتَمَعُوا",
+          "root": "س م ع",
+          "bs": "slušali su",
+          "en": "listened",
+          "lemma": "اسْتَمَعَ يَسْتَمِعُ"
+        }
       ]
     },
     {
@@ -39,15 +99,43 @@
       "translation": "Rad zajedno čini rezultat boljim.",
       "translationEn": "Working together makes the result better.",
       "words": [
-        { "w": "الْعَمَلُ", "root": "ع م ل", "bs": "rad", "en": "work" },
-        { "w": "يَجْعَلُ", "root": "ج ع ل", "bs": "čini", "en": "makes" },
-        { "w": "النَّتِيجَةَ", "root": "ن ت ج", "bs": "rezultat", "en": "the result" },
-        { "w": "أَفْضَلَ", "root": "ف ض ل", "bs": "bolji", "en": "better" }
+        {
+          "w": "الْعَمَلُ",
+          "root": "ع م ل",
+          "bs": "rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "يَجْعَلُ",
+          "root": "ج ع ل",
+          "bs": "čini",
+          "en": "makes",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "النَّتِيجَةَ",
+          "root": "ن ت ج",
+          "bs": "rezultat",
+          "en": "the result",
+          "lemma": "نَتِيجَةٌ / نَتَائِجُ"
+        },
+        {
+          "w": "أَفْضَلَ",
+          "root": "ف ض ل",
+          "bs": "bolji",
+          "en": "better",
+          "lemma": "أَفْضَلُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["teamwork", "cooperation", "school"]
+    "tags": [
+      "teamwork",
+      "cooperation",
+      "school"
+    ]
   }
 }

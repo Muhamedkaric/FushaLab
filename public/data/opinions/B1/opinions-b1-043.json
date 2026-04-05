@@ -8,10 +8,34 @@
       "translation": "Smatram da sretna osoba usrećuje one oko sebe.",
       "translationEn": "I believe that a happy person makes those around them happy.",
       "words": [
-        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
-        { "w": "الشَّخْصَ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
-        { "w": "السَّعِيدَ", "root": "س ع د", "bs": "sretna", "en": "happy" },
-        { "w": "يُسْعِدُ", "root": "س ع د", "bs": "usrećuje", "en": "makes happy" }
+        {
+          "w": "أَعْتَقِدُ",
+          "root": "ع ق د",
+          "bs": "smatram",
+          "en": "I believe",
+          "lemma": "اعْتَقَدَ يَعْتَقِدُ"
+        },
+        {
+          "w": "الشَّخْصَ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "السَّعِيدَ",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "يُسْعِدُ",
+          "root": "س ع د",
+          "bs": "usrećuje",
+          "en": "makes happy",
+          "lemma": "أَسْعَدَ يُسْعِدُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Sreća se širi poput svjetla od jedne osobe do druge.",
       "translationEn": "Happiness spreads like light from one person to another.",
       "words": [
-        { "w": "السَّعَادَةُ", "root": "س ع د", "bs": "sreća", "en": "happiness" },
-        { "w": "تَنْتَشِرُ", "root": "ن ش ر", "bs": "širi se", "en": "spreads" },
-        { "w": "الضَّوْءِ", "root": "ض و أ", "bs": "svjetlo", "en": "light" },
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osoba", "en": "person" }
+        {
+          "w": "السَّعَادَةُ",
+          "root": "س ع د",
+          "bs": "sreća",
+          "en": "happiness",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
+          "w": "تَنْتَشِرُ",
+          "root": "ن ش ر",
+          "bs": "širi se",
+          "en": "spreads",
+          "lemma": "اِنْتَشَرَ يَنْتَشِرُ"
+        },
+        {
+          "w": "الضَّوْءِ",
+          "root": "ض و أ",
+          "bs": "svjetlo",
+          "en": "light",
+          "lemma": "ضَوْءٌ / أَضْوَاءٌ"
+        },
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Svoju sreću nalazim u jednostavnim stvarima poput šolje čaja.",
       "translationEn": "I find my happiness in simple things like a cup of tea.",
       "words": [
-        { "w": "أَجِدُ", "root": "و ج د", "bs": "nalazim", "en": "I find" },
-        { "w": "سَعَادَتِي", "root": "س ع د", "bs": "moja sreća", "en": "my happiness" },
-        { "w": "الْأَشْيَاءِ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
-        { "w": "الْبَسِيطَةِ", "root": "ب س ط", "bs": "jednostavne", "en": "simple" },
-        { "w": "كُوبِ", "root": "ك و ب", "bs": "šolja", "en": "cup" }
+        {
+          "w": "أَجِدُ",
+          "root": "و ج د",
+          "bs": "nalazim",
+          "en": "I find",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "سَعَادَتِي",
+          "root": "س ع د",
+          "bs": "moja sreća",
+          "en": "my happiness",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
+          "w": "الْأَشْيَاءِ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "الْبَسِيطَةِ",
+          "root": "ب س ط",
+          "bs": "jednostavne",
+          "en": "simple",
+          "lemma": "بَسِيطٌ"
+        },
+        {
+          "w": "كُوبِ",
+          "root": "ك و ب",
+          "bs": "šolja",
+          "en": "cup",
+          "lemma": "كُوبٌ / أَكْوَابٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Ne čekaj sreću, nego je sam stvori.",
       "translationEn": "Do not wait for happiness but create it yourself.",
       "words": [
-        { "w": "تَنْتَظِرِ", "root": "ن ظ ر", "bs": "čekaj", "en": "wait for" },
-        { "w": "السَّعَادَةَ", "root": "س ع د", "bs": "sreću", "en": "happiness" },
-        { "w": "اصْنَعْهَا", "root": "ص ن ع", "bs": "stvori je", "en": "create it" },
-        { "w": "بِنَفْسِكَ", "root": "ن ف س", "bs": "sam", "en": "yourself" }
+        {
+          "w": "تَنْتَظِرِ",
+          "root": "ن ظ ر",
+          "bs": "čekaj",
+          "en": "wait for",
+          "lemma": "اِنْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "السَّعَادَةَ",
+          "root": "س ع د",
+          "bs": "sreću",
+          "en": "happiness",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
+          "w": "اصْنَعْهَا",
+          "root": "ص ن ع",
+          "bs": "stvori je",
+          "en": "create it",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "بِنَفْسِكَ",
+          "root": "ن ف س",
+          "bs": "sam",
+          "en": "yourself",
+          "lemma": "نَفْسٌ / أَنْفُسٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "happiness", "positivity", "life"]
+    "tags": [
+      "opinion",
+      "happiness",
+      "positivity",
+      "life"
+    ]
   }
 }

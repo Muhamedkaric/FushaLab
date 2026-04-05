@@ -8,10 +8,34 @@
       "translation": "Bio je mali pas po imenu Bišar koji se igrao u vrtu.",
       "translationEn": "There was a small dog named Bishar who played in the garden.",
       "words": [
-        { "w": "كَلْبٌ", "root": "ك ل ب", "bs": "pas", "en": "dog" },
-        { "w": "صَغِيرٌ", "root": "ص غ ر", "bs": "mali", "en": "small" },
-        { "w": "يَلْعَبُ", "root": "ل ع ب", "bs": "igrao se", "en": "played" },
-        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+        {
+          "w": "كَلْبٌ",
+          "root": "ك ل ب",
+          "bs": "pas",
+          "en": "dog",
+          "lemma": "كَلْبٌ / كِلَابٌ"
+        },
+        {
+          "w": "صَغِيرٌ",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "يَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "igrao se",
+          "en": "played",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "vrt",
+          "en": "garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Jednog dana je upao u duboku jamu i nije mogao izaći.",
       "translationEn": "One day he fell into a deep hole and could not get out.",
       "words": [
-        { "w": "سَقَطَ", "root": "س ق ط", "bs": "upao je", "en": "fell" },
-        { "w": "حُفْرَةٍ", "root": "ح ف ر", "bs": "jama", "en": "hole" },
-        { "w": "عَمِيقَةٍ", "root": "ع م ق", "bs": "duboka", "en": "deep" },
-        { "w": "الْخُرُوجَ", "root": "خ ر ج", "bs": "izaći", "en": "to get out" }
+        {
+          "w": "سَقَطَ",
+          "root": "س ق ط",
+          "bs": "upao je",
+          "en": "fell",
+          "lemma": "سَقَطَ يَسْقُطُ"
+        },
+        {
+          "w": "حُفْرَةٍ",
+          "root": "ح ف ر",
+          "bs": "jama",
+          "en": "hole",
+          "lemma": "حُفْرَةٌ / حُفَرٌ"
+        },
+        {
+          "w": "عَمِيقَةٍ",
+          "root": "ع م ق",
+          "bs": "duboka",
+          "en": "deep",
+          "lemma": "عَمِيقٌ"
+        },
+        {
+          "w": "الْخُرُوجَ",
+          "root": "خ ر ج",
+          "bs": "izaći",
+          "en": "to get out",
+          "lemma": "خُرُوجٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Lajao je glasno i čuo ga je mali dječak.",
       "translationEn": "He barked loudly and a small boy heard him.",
       "words": [
-        { "w": "نَبَحَ", "root": "ن ب ح", "bs": "lajao je", "en": "barked" },
-        { "w": "بِصَوْتٍ", "root": "ص و ت", "bs": "glasom", "en": "voice" },
-        { "w": "عَالٍ", "root": "ع ل و", "bs": "glasan", "en": "loud" },
-        { "w": "سَمِعَهُ", "root": "س م ع", "bs": "čuo ga je", "en": "heard him" },
-        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" }
+        {
+          "w": "نَبَحَ",
+          "root": "ن ب ح",
+          "bs": "lajao je",
+          "en": "barked",
+          "lemma": "نَبَحَ يَنْبَحُ"
+        },
+        {
+          "w": "بِصَوْتٍ",
+          "root": "ص و ت",
+          "bs": "glasom",
+          "en": "voice",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "عَالٍ",
+          "root": "ع ل و",
+          "bs": "glasan",
+          "en": "loud",
+          "lemma": "عَالٍ"
+        },
+        {
+          "w": "سَمِعَهُ",
+          "root": "س م ع",
+          "bs": "čuo ga je",
+          "en": "heard him",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "وَلَدٌ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "وَلَدٌ / أَوْلَادٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Dječak je došao s užetom i izvukao Bišara iz jame.",
       "translationEn": "The boy came with a rope and pulled Bishar out of the hole.",
       "words": [
-        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došao je", "en": "came" },
-        { "w": "الْوَلَدُ", "root": "و ل د", "bs": "dječak", "en": "boy" },
-        { "w": "بِحَبْلٍ", "root": "ح ب ل", "bs": "s užetom", "en": "with a rope" },
-        { "w": "أَخْرَجَ", "root": "خ ر ج", "bs": "izvukao je", "en": "pulled out" },
-        { "w": "الْحُفْرَةِ", "root": "ح ف ر", "bs": "jama", "en": "hole" }
+        {
+          "w": "جَاءَ",
+          "root": "ج ي أ",
+          "bs": "došao je",
+          "en": "came",
+          "lemma": "جَاءَ يَجِيءُ"
+        },
+        {
+          "w": "الْوَلَدُ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "وَلَدٌ / أَوْلَادٌ"
+        },
+        {
+          "w": "بِحَبْلٍ",
+          "root": "ح ب ل",
+          "bs": "s užetom",
+          "en": "with a rope",
+          "lemma": "حَبْلٌ / حِبَالٌ"
+        },
+        {
+          "w": "أَخْرَجَ",
+          "root": "خ ر ج",
+          "bs": "izvukao je",
+          "en": "pulled out",
+          "lemma": "أَخْرَجَ يُخْرِجُ"
+        },
+        {
+          "w": "الْحُفْرَةِ",
+          "root": "ح ف ر",
+          "bs": "jama",
+          "en": "hole",
+          "lemma": "حُفْرَةٌ / حُفَرٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["dog", "boy", "rescue", "kindness"]
+    "tags": [
+      "dog",
+      "boy",
+      "rescue",
+      "kindness"
+    ]
   }
 }

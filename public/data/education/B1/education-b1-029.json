@@ -12,19 +12,22 @@
           "w": "الطَّقْسُ",
           "root": "ط ق س",
           "bs": "vrijeme/klima",
-          "en": "weather"
+          "en": "weather",
+          "lemma": "طَقْسٌ"
         },
         {
           "w": "بَارِدًا",
           "root": "ب ر د",
           "bs": "hladno",
-          "en": "cold"
+          "en": "cold",
+          "lemma": "بَارِدٌ"
         },
         {
           "w": "الصَّبَاحِ",
           "root": "ص ب ح",
           "bs": "jutro",
-          "en": "morning"
+          "en": "morning",
+          "lemma": "صَبَاحٌ"
         }
       ]
     },
@@ -37,31 +40,36 @@
           "w": "لَبِسَ",
           "root": "ل ب س",
           "bs": "obukli",
-          "en": "wore"
+          "en": "wore",
+          "lemma": "لَبِسَ يَلْبَسُ"
         },
         {
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "مَعَاطِفَهُمْ",
           "root": "ع ط ف",
           "bs": "kaputi",
-          "en": "coats"
+          "en": "coats",
+          "lemma": "مِعْطَفٌ / مَعَاطِفُ"
         },
         {
           "w": "ذَهَبُوا",
           "root": "ذ ه ب",
           "bs": "otišli",
-          "en": "went"
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
         },
         {
           "w": "المَدْرَسَةِ",
           "root": "د ر س",
           "bs": "škola",
-          "en": "school"
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
         }
       ]
     },
@@ -74,25 +82,29 @@
           "w": "دَخَلُوا",
           "root": "د خ ل",
           "bs": "ušli",
-          "en": "entered"
+          "en": "entered",
+          "lemma": "دَخَلَ يَدْخُلُ"
         },
         {
           "w": "الفَصْلَ",
           "root": "ف ص ل",
           "bs": "razred",
-          "en": "classroom"
+          "en": "classroom",
+          "lemma": "فَصْلٌ / فُصُولٌ"
         },
         {
           "w": "شَعَرُوا",
           "root": "ش ع ر",
           "bs": "osjetili",
-          "en": "felt"
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
         },
         {
           "w": "بِالدِّفْءِ",
           "root": "د ف أ",
           "bs": "toplina",
-          "en": "warmth"
+          "en": "warmth",
+          "lemma": "دِفْءٌ"
         }
       ]
     },
@@ -105,25 +117,29 @@
           "w": "بَدَأَ",
           "root": "ب د أ",
           "bs": "počeo",
-          "en": "started"
+          "en": "started",
+          "lemma": "بَدَأَ يَبْدَأُ"
         },
         {
           "w": "الدَّرْسُ",
           "root": "د ر س",
           "bs": "čas",
-          "en": "lesson"
+          "en": "lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
         },
         {
           "w": "نَسِيَ",
           "root": "ن س ي",
           "bs": "zaboravili",
-          "en": "forgot"
+          "en": "forgot",
+          "lemma": "نَسِيَ يَنْسَى"
         },
         {
           "w": "البَرْدَ",
           "root": "ب ر د",
           "bs": "hladnoća",
-          "en": "cold"
+          "en": "cold",
+          "lemma": "بَرْدٌ"
         }
       ]
     },
@@ -136,19 +152,22 @@
           "w": "الدَّرْسُ",
           "root": "د ر س",
           "bs": "čas",
-          "en": "lesson"
+          "en": "lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
         },
         {
           "w": "يَوْمًا",
           "root": "ي و م",
           "bs": "dan",
-          "en": "day"
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
         },
         {
           "w": "دَافِئًا",
           "root": "د ف أ",
           "bs": "toplo",
-          "en": "warm"
+          "en": "warm",
+          "lemma": "دَافِئٌ"
         }
       ]
     }

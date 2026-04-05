@@ -8,10 +8,34 @@
       "translation": "Bio je dječak po imenu Karim koji je mrzio jesti povrće.",
       "translationEn": "There was a boy named Karim who hated eating vegetables.",
       "words": [
-        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" },
-        { "w": "يَكْرَهُ", "root": "ك ر ه", "bs": "mrzio je", "en": "hated" },
-        { "w": "أَكْلَ", "root": "أ ك ل", "bs": "jesti", "en": "eating" },
-        { "w": "الْخُضَرِ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" }
+        {
+          "w": "وَلَدٌ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "وَلَدٌ / أَوْلَادٌ"
+        },
+        {
+          "w": "يَكْرَهُ",
+          "root": "ك ر ه",
+          "bs": "mrzio je",
+          "en": "hated",
+          "lemma": "كَرِهَ يَكْرَهُ"
+        },
+        {
+          "w": "أَكْلَ",
+          "root": "أ ك ل",
+          "bs": "jesti",
+          "en": "eating",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الْخُضَرِ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables",
+          "lemma": "خَضْرَاءُ / خُضَرٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Majka je odlučila da zajedno posade povrće u vrtu.",
       "translationEn": "His mother decided they would grow vegetables together in the garden.",
       "words": [
-        { "w": "قَرَّرَتِ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
-        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "يَزْرَعَا", "root": "ز ر ع", "bs": "posade", "en": "grow" },
-        { "w": "الْخَضَرَاوَاتِ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
-        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+        {
+          "w": "قَرَّرَتِ",
+          "root": "ق ر ر",
+          "bs": "odlučila je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "يَزْرَعَا",
+          "root": "ز ر ع",
+          "bs": "posade",
+          "en": "grow",
+          "lemma": "زَرَعَ يَزْرَعُ"
+        },
+        {
+          "w": "الْخَضَرَاوَاتِ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables",
+          "lemma": "خَضْرَاوَاتٌ"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "vrt",
+          "en": "garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Karim je posadio paradajz i svaki dan ga zalijeva s pažnjom.",
       "translationEn": "Karim planted tomatoes and watered them carefully every day.",
       "words": [
-        { "w": "زَرَعَ", "root": "ز ر ع", "bs": "posadio je", "en": "planted" },
-        { "w": "الطَّمَاطِمَ", "root": "ط م ط م", "bs": "paradajz", "en": "tomatoes" },
-        { "w": "سَقَاهَا", "root": "س ق ي", "bs": "zalijeva ga", "en": "watered them" },
-        { "w": "بِاهْتِمَامٍ", "root": "ه م م", "bs": "s pažnjom", "en": "carefully" }
+        {
+          "w": "زَرَعَ",
+          "root": "ز ر ع",
+          "bs": "posadio je",
+          "en": "planted",
+          "lemma": "زَرَعَ يَزْرَعُ"
+        },
+        {
+          "w": "الطَّمَاطِمَ",
+          "root": "ط م ط م",
+          "bs": "paradajz",
+          "en": "tomatoes",
+          "lemma": "طَمَاطِمُ"
+        },
+        {
+          "w": "سَقَاهَا",
+          "root": "س ق ي",
+          "bs": "zalijeva ga",
+          "en": "watered them",
+          "lemma": "سَقَى يَسْقِي"
+        },
+        {
+          "w": "بِاهْتِمَامٍ",
+          "root": "ه م م",
+          "bs": "s pažnjom",
+          "en": "carefully",
+          "lemma": "اِهْتِمَامٌ / اِهْتِمَامَاتٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Kada je paradajz sazrio, pojeo ga je s velikom radošću.",
       "translationEn": "When the tomatoes ripened, he ate them with great joy.",
       "words": [
-        { "w": "نَضِجَتِ", "root": "ن ض ج", "bs": "sazrio je", "en": "ripened" },
-        { "w": "الطَّمَاطِمُ", "root": "ط م ط م", "bs": "paradajz", "en": "tomatoes" },
-        { "w": "أَكَلَهَا", "root": "أ ك ل", "bs": "pojeo ga je", "en": "ate them" },
-        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "s radošću", "en": "with joy" },
-        { "w": "كَبِيرٍ", "root": "ك ب ر", "bs": "velikom", "en": "great" }
+        {
+          "w": "نَضِجَتِ",
+          "root": "ن ض ج",
+          "bs": "sazrio je",
+          "en": "ripened",
+          "lemma": "نَضِجَ يَنْضَجُ"
+        },
+        {
+          "w": "الطَّمَاطِمُ",
+          "root": "ط م ط م",
+          "bs": "paradajz",
+          "en": "tomatoes",
+          "lemma": "طَمَاطِمُ"
+        },
+        {
+          "w": "أَكَلَهَا",
+          "root": "أ ك ل",
+          "bs": "pojeo ga je",
+          "en": "ate them",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "بِفَرَحٍ",
+          "root": "ف ر ح",
+          "bs": "s radošću",
+          "en": "with joy",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        },
+        {
+          "w": "كَبِيرٍ",
+          "root": "ك ب ر",
+          "bs": "velikom",
+          "en": "great",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["garden", "boy", "vegetables", "mother"]
+    "tags": [
+      "garden",
+      "boy",
+      "vegetables",
+      "mother"
+    ]
   }
 }

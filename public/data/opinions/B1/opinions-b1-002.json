@@ -8,12 +8,48 @@
       "translation": "Po mom mišljenju, pomaganje drugima čini život ljepšim.",
       "translationEn": "In my opinion, helping others makes life more beautiful.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "mišljenju", "en": "opinion" },
-        { "w": "مُسَاعَدَةُ", "root": "س ع د", "bs": "pomaganje", "en": "helping" },
-        { "w": "الْآخَرِينَ", "root": "أ خ ر", "bs": "drugima", "en": "others" },
-        { "w": "تَجْعَلُ", "root": "ج ع ل", "bs": "čini", "en": "makes" },
-        { "w": "الْحَيَاةَ", "root": "ح ي ي", "bs": "život", "en": "life" },
-        { "w": "أَجْمَلَ", "root": "ج م ل", "bs": "ljepšim", "en": "more beautiful" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "mišljenju",
+          "en": "opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "مُسَاعَدَةُ",
+          "root": "س ع د",
+          "bs": "pomaganje",
+          "en": "helping",
+          "lemma": "مُسَاعَدَةٌ / مُسَاعَدَاتٌ"
+        },
+        {
+          "w": "الْآخَرِينَ",
+          "root": "أ خ ر",
+          "bs": "drugima",
+          "en": "others",
+          "lemma": "آخَرُ / آخَرُونَ"
+        },
+        {
+          "w": "تَجْعَلُ",
+          "root": "ج ع ل",
+          "bs": "čini",
+          "en": "makes",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "الْحَيَاةَ",
+          "root": "ح ي ي",
+          "bs": "život",
+          "en": "life",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "أَجْمَلَ",
+          "root": "ج م ل",
+          "bs": "ljepšim",
+          "en": "more beautiful",
+          "lemma": "أَجْمَلُ"
+        }
       ]
     },
     {
@@ -21,10 +57,34 @@
       "translation": "Kada nekome pomogneš, osjećaš sreću.",
       "translationEn": "When you help someone you feel happy.",
       "words": [
-        { "w": "تُسَاعِدُ", "root": "س ع د", "bs": "pomogneš", "en": "you help" },
-        { "w": "شَخْصًا", "root": "ش خ ص", "bs": "nekome", "en": "someone" },
-        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjećaš", "en": "you feel" },
-        { "w": "بِالسَّعَادَةِ", "root": "س ع د", "bs": "sreću", "en": "happy" }
+        {
+          "w": "تُسَاعِدُ",
+          "root": "س ع د",
+          "bs": "pomogneš",
+          "en": "you help",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "شَخْصًا",
+          "root": "ش خ ص",
+          "bs": "nekome",
+          "en": "someone",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećaš",
+          "en": "you feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِالسَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sreću",
+          "en": "happy",
+          "lemma": "سَعَادَةٌ"
+        }
       ]
     },
     {
@@ -32,11 +92,41 @@
       "translation": "Svaki dan pokušavam nešto lijepo učiniti za drugu osobu.",
       "translationEn": "Every day I try to do something kind for another person.",
       "words": [
-        { "w": "أُحَاوِلُ", "root": "ح و ل", "bs": "pokušavam", "en": "I try" },
-        { "w": "أَفْعَلَ", "root": "ف ع ل", "bs": "učiniti", "en": "to do" },
-        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "nešto", "en": "something" },
-        { "w": "طَيِّبًا", "root": "ط ي ب", "bs": "lijepo/dobro", "en": "kind" },
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osobi", "en": "person" }
+        {
+          "w": "أُحَاوِلُ",
+          "root": "ح و ل",
+          "bs": "pokušavam",
+          "en": "I try",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "أَفْعَلَ",
+          "root": "ف ع ل",
+          "bs": "učiniti",
+          "en": "to do",
+          "lemma": "فَعَلَ يَفْعَلُ"
+        },
+        {
+          "w": "شَيْئًا",
+          "root": "ش ي أ",
+          "bs": "nešto",
+          "en": "something",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "طَيِّبًا",
+          "root": "ط ي ب",
+          "bs": "lijepo/dobro",
+          "en": "kind",
+          "lemma": "طَيِّبٌ"
+        },
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "osobi",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        }
       ]
     },
     {
@@ -44,16 +134,51 @@
       "translation": "Mislim da suradnjom svjet postaje bolji.",
       "translationEn": "I think the world becomes better through cooperation.",
       "words": [
-        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
-        { "w": "الْعَالَمَ", "root": "ع ل م", "bs": "svijet", "en": "the world" },
-        { "w": "يَصِيرُ", "root": "ص ي ر", "bs": "postaje", "en": "becomes" },
-        { "w": "أَفْضَلَ", "root": "ف ض ل", "bs": "bolji", "en": "better" },
-        { "w": "بِالتَّعَاوُنِ", "root": "ع و ن", "bs": "suradnjom", "en": "cooperation" }
+        {
+          "w": "أَظُنُّ",
+          "root": "ظ ن ن",
+          "bs": "mislim",
+          "en": "I think",
+          "lemma": "ظَنَّ يَظُنُّ"
+        },
+        {
+          "w": "الْعَالَمَ",
+          "root": "ع ل م",
+          "bs": "svijet",
+          "en": "the world",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        },
+        {
+          "w": "يَصِيرُ",
+          "root": "ص ي ر",
+          "bs": "postaje",
+          "en": "becomes",
+          "lemma": "صَارَ يَصِيرُ"
+        },
+        {
+          "w": "أَفْضَلَ",
+          "root": "ف ض ل",
+          "bs": "bolji",
+          "en": "better",
+          "lemma": "أَفْضَلُ"
+        },
+        {
+          "w": "بِالتَّعَاوُنِ",
+          "root": "ع و ن",
+          "bs": "suradnjom",
+          "en": "cooperation",
+          "lemma": "تَعَاوُنٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "kindness", "helping", "life"]
+    "tags": [
+      "opinion",
+      "kindness",
+      "helping",
+      "life"
+    ]
   }
 }

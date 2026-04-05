@@ -8,10 +8,34 @@
       "translation": "Lisica i zec su živjeli u istoj šumi.",
       "translationEn": "The fox and the rabbit lived in the same forest.",
       "words": [
-        { "w": "الثَّعْلَبَةُ", "root": "ث ع ل", "bs": "lisica", "en": "fox" },
-        { "w": "الأَرْنَبُ", "root": "أ ر ن", "bs": "zec", "en": "rabbit" },
-        { "w": "يَعِيشَانِ", "root": "ع ي ش", "bs": "živjeli su", "en": "lived" },
-        { "w": "الْغَابَةِ", "root": "غ ي ب", "bs": "šuma", "en": "forest" }
+        {
+          "w": "الثَّعْلَبَةُ",
+          "root": "ث ع ل",
+          "bs": "lisica",
+          "en": "fox",
+          "lemma": "ثَعْلَبٌ / ثَعَالِبُ"
+        },
+        {
+          "w": "الأَرْنَبُ",
+          "root": "أ ر ن",
+          "bs": "zec",
+          "en": "rabbit",
+          "lemma": "أَرْنَبٌ / أَرَانِبُ"
+        },
+        {
+          "w": "يَعِيشَانِ",
+          "root": "ع ي ش",
+          "bs": "živjeli su",
+          "en": "lived",
+          "lemma": "عَاشَ يَعِيشُ"
+        },
+        {
+          "w": "الْغَابَةِ",
+          "root": "غ ي ب",
+          "bs": "šuma",
+          "en": "forest",
+          "lemma": "غَابَةٌ / غَابَاتٌ"
+        }
       ]
     },
     {
@@ -19,8 +43,20 @@
       "translation": "Na početku je svako od njih bio sam.",
       "translationEn": "At first each of them was alone.",
       "words": [
-        { "w": "الْبِدَايَةِ", "root": "ب د أ", "bs": "početak", "en": "beginning" },
-        { "w": "وَحِيدًا", "root": "و ح د", "bs": "sam", "en": "alone" }
+        {
+          "w": "الْبِدَايَةِ",
+          "root": "ب د أ",
+          "bs": "početak",
+          "en": "beginning",
+          "lemma": "بِدَايَةٌ / بِدَايَاتٌ"
+        },
+        {
+          "w": "وَحِيدًا",
+          "root": "و ح د",
+          "bs": "sam",
+          "en": "alone",
+          "lemma": "وَحِيدٌ"
+        }
       ]
     },
     {
@@ -28,11 +64,41 @@
       "translation": "Jednog dana se zec razbolio i lisica mu je donijela hranu.",
       "translationEn": "One day the rabbit got sick and the fox brought food for him.",
       "words": [
-        { "w": "مَرِضَ", "root": "م ر ض", "bs": "razbolio se", "en": "got sick" },
-        { "w": "الأَرْنَبُ", "root": "أ ر ن", "bs": "zec", "en": "rabbit" },
-        { "w": "جَاءَتِ", "root": "ج ي أ", "bs": "donijela je", "en": "brought" },
-        { "w": "الثَّعْلَبَةُ", "root": "ث ع ل", "bs": "lisica", "en": "fox" },
-        { "w": "طَعَامٍ", "root": "ط ع م", "bs": "hrana", "en": "food" }
+        {
+          "w": "مَرِضَ",
+          "root": "م ر ض",
+          "bs": "razbolio se",
+          "en": "got sick",
+          "lemma": "مَرِضَ يَمْرَضُ"
+        },
+        {
+          "w": "الأَرْنَبُ",
+          "root": "أ ر ن",
+          "bs": "zec",
+          "en": "rabbit",
+          "lemma": "أَرْنَبٌ / أَرَانِبُ"
+        },
+        {
+          "w": "جَاءَتِ",
+          "root": "ج ي أ",
+          "bs": "donijela je",
+          "en": "brought",
+          "lemma": "جَاءَ يَجِيءُ"
+        },
+        {
+          "w": "الثَّعْلَبَةُ",
+          "root": "ث ع ل",
+          "bs": "lisica",
+          "en": "fox",
+          "lemma": "ثَعْلَبٌ / ثَعَالِبُ"
+        },
+        {
+          "w": "طَعَامٍ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,44 @@
       "translation": "Zec joj se zahvalio i od tog dana su postali prijatelji.",
       "translationEn": "The rabbit thanked her and from that day they became friends.",
       "words": [
-        { "w": "شَكَرَهَا", "root": "ش ك ر", "bs": "zahvalio joj se", "en": "thanked her" },
-        { "w": "الأَرْنَبُ", "root": "أ ر ن", "bs": "zec", "en": "rabbit" },
-        { "w": "أَصْبَحَا", "root": "ص ب ح", "bs": "postali su", "en": "became" },
-        { "w": "أَصْدِقَاءَ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" }
+        {
+          "w": "شَكَرَهَا",
+          "root": "ش ك ر",
+          "bs": "zahvalio joj se",
+          "en": "thanked her",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الأَرْنَبُ",
+          "root": "أ ر ن",
+          "bs": "zec",
+          "en": "rabbit",
+          "lemma": "أَرْنَبٌ / أَرَانِبُ"
+        },
+        {
+          "w": "أَصْبَحَا",
+          "root": "ص ب ح",
+          "bs": "postali su",
+          "en": "became",
+          "lemma": "أَصْبَحَ يُصْبِحُ"
+        },
+        {
+          "w": "أَصْدِقَاءَ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["fox", "rabbit", "friendship", "kindness"]
+    "tags": [
+      "fox",
+      "rabbit",
+      "friendship",
+      "kindness"
+    ]
   }
 }

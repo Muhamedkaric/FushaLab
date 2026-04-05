@@ -8,10 +8,34 @@
       "translation": "Kada izlazimo u prirodu osjećamo se odmoreno.",
       "translationEn": "When we go out into nature we feel rested.",
       "words": [
-        { "w": "نَخْرُجُ", "root": "خ ر ج", "bs": "izlazimo", "en": "go out" },
-        { "w": "الطَّبِيعَةِ", "root": "ط ب ع", "bs": "priroda", "en": "nature" },
-        { "w": "نَشْعُرُ", "root": "ش ع ر", "bs": "osjećamo se", "en": "feel" },
-        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "odmor", "en": "rest" }
+        {
+          "w": "نَخْرُجُ",
+          "root": "خ ر ج",
+          "bs": "izlazimo",
+          "en": "go out",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "الطَّبِيعَةِ",
+          "root": "ط ب ع",
+          "bs": "priroda",
+          "en": "nature",
+          "lemma": "طَبِيعَةٌ"
+        },
+        {
+          "w": "نَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećamo se",
+          "en": "feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "odmor",
+          "en": "rest",
+          "lemma": "رَاحَةٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Tariq je šetao u parku i udisao čist zrak.",
       "translationEn": "Tariq walked in the park and breathed in the clean air.",
       "words": [
-        { "w": "مَشَى", "root": "م ش ي", "bs": "šetao je", "en": "walked" },
-        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "park", "en": "the park" },
-        { "w": "اسْتَنْشَقَ", "root": "ن ش ق", "bs": "udisao je", "en": "breathed in" },
-        { "w": "الْهَوَاءَ", "root": "ه و و", "bs": "zrak", "en": "the air" },
-        { "w": "النَّظِيفَ", "root": "ن ظ ف", "bs": "čist", "en": "clean" }
+        {
+          "w": "مَشَى",
+          "root": "م ش ي",
+          "bs": "šetao je",
+          "en": "walked",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "park",
+          "en": "the park",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        },
+        {
+          "w": "اسْتَنْشَقَ",
+          "root": "ن ش ق",
+          "bs": "udisao je",
+          "en": "breathed in",
+          "lemma": "اِسْتَنْشَقَ يَسْتَنْشِقُ"
+        },
+        {
+          "w": "الْهَوَاءَ",
+          "root": "ه و و",
+          "bs": "zrak",
+          "en": "the air",
+          "lemma": "هَوَاءٌ"
+        },
+        {
+          "w": "النَّظِيفَ",
+          "root": "ن ظ ف",
+          "bs": "čist",
+          "en": "clean",
+          "lemma": "نَظِيفٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Umor je otišao i osjetio je mir u sebi.",
       "translationEn": "His tiredness went away and he felt calm inside.",
       "words": [
-        { "w": "تَعَبُهُ", "root": "ت ع ب", "bs": "njegov umor", "en": "his tiredness" },
-        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
-        { "w": "هُدُوءٍ", "root": "ه د أ", "bs": "mir", "en": "calm" },
-        { "w": "نَفْسِهِ", "root": "ن ف س", "bs": "u sebi", "en": "inside" }
+        {
+          "w": "تَعَبُهُ",
+          "root": "ت ع ب",
+          "bs": "njegov umor",
+          "en": "his tiredness",
+          "lemma": "تَعَبٌ"
+        },
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio je",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "هُدُوءٍ",
+          "root": "ه د أ",
+          "bs": "mir",
+          "en": "calm",
+          "lemma": "هُدُوءٌ"
+        },
+        {
+          "w": "نَفْسِهِ",
+          "root": "ن ف س",
+          "bs": "u sebi",
+          "en": "inside",
+          "lemma": "نَفْسٌ / أَنْفُسٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,50 @@
       "translation": "Priroda liječi um i obnavlja energiju.",
       "translationEn": "Nature heals the mind and renews energy.",
       "words": [
-        { "w": "الطَّبِيعَةُ", "root": "ط ب ع", "bs": "priroda", "en": "nature" },
-        { "w": "تُشْفِي", "root": "ش ف ي", "bs": "liječi", "en": "heals" },
-        { "w": "الْعَقْلَ", "root": "ع ق ل", "bs": "um", "en": "the mind" },
-        { "w": "تُجَدِّدُ", "root": "ج د د", "bs": "obnavlja", "en": "renews" },
-        { "w": "الطَّاقَةَ", "root": "ط و ق", "bs": "energiju", "en": "energy" }
+        {
+          "w": "الطَّبِيعَةُ",
+          "root": "ط ب ع",
+          "bs": "priroda",
+          "en": "nature",
+          "lemma": "طَبِيعَةٌ / طَبَائِعُ"
+        },
+        {
+          "w": "تُشْفِي",
+          "root": "ش ف ي",
+          "bs": "liječi",
+          "en": "heals",
+          "lemma": "أَشْفَى يُشْفِي"
+        },
+        {
+          "w": "الْعَقْلَ",
+          "root": "ع ق ل",
+          "bs": "um",
+          "en": "the mind",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        },
+        {
+          "w": "تُجَدِّدُ",
+          "root": "ج د د",
+          "bs": "obnavlja",
+          "en": "renews",
+          "lemma": "جَدَّدَ يُجَدِّدُ"
+        },
+        {
+          "w": "الطَّاقَةَ",
+          "root": "ط و ق",
+          "bs": "energiju",
+          "en": "energy",
+          "lemma": "طَاقَةٌ / طَاقَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["nature", "relaxation", "wellbeing"]
+    "tags": [
+      "nature",
+      "relaxation",
+      "wellbeing"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Djeca vole igru jer ih veseli.",
       "translationEn": "Children love play because it makes them happy.",
       "words": [
-        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "vole", "en": "love" },
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "اللَّعِبَ", "root": "ل ع ب", "bs": "igru", "en": "play" },
-        { "w": "يُفَرِّحُهُمْ", "root": "ف ر ح", "bs": "veseli ih", "en": "makes them happy" }
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "vole",
+          "en": "love",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "اللَّعِبَ",
+          "root": "ل ع ب",
+          "bs": "igru",
+          "en": "play",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "يُفَرِّحُهُمْ",
+          "root": "ف ر ح",
+          "bs": "veseli ih",
+          "en": "makes them happy",
+          "lemma": "فَرَّحَ يُفَرِّحُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Takođe uče mnoge stvari kroz igru.",
       "translationEn": "They also learn many things through play.",
       "words": [
-        { "w": "يَتَعَلَّمُونَ", "root": "ع ل م", "bs": "uče", "en": "learn" },
-        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
-        { "w": "كَثِيرَةً", "root": "ك ث ر", "bs": "mnoge", "en": "many" },
-        { "w": "اللَّعِبِ", "root": "ل ع ب", "bs": "igra", "en": "play" }
+        {
+          "w": "يَتَعَلَّمُونَ",
+          "root": "ع ل م",
+          "bs": "uče",
+          "en": "learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "أَشْيَاءَ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "كَثِيرَةً",
+          "root": "ك ث ر",
+          "bs": "mnoge",
+          "en": "many",
+          "lemma": "كَثِيرٌ"
+        },
+        {
+          "w": "اللَّعِبِ",
+          "root": "ل ع ب",
+          "bs": "igra",
+          "en": "play",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Hasan je naučio kako da dijeli igračke s bratom.",
       "translationEn": "Hassan learned how to share toys with his brother.",
       "words": [
-        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučio je", "en": "learned" },
-        { "w": "يَتَشَارَكُ", "root": "ش ر ك", "bs": "dijeli", "en": "to share" },
-        { "w": "الأَلْعَابَ", "root": "ل ع ب", "bs": "igračke", "en": "toys" },
-        { "w": "أَخِيهِ", "root": "أ خ و", "bs": "njegov brat", "en": "his brother" }
+        {
+          "w": "تَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "يَتَشَارَكُ",
+          "root": "ش ر ك",
+          "bs": "dijeli",
+          "en": "to share",
+          "lemma": "تَشَارَكَ يَتَشَارَكُ"
+        },
+        {
+          "w": "الأَلْعَابَ",
+          "root": "ل ع ب",
+          "bs": "igračke",
+          "en": "toys",
+          "lemma": "لُعْبَةٌ / أَلْعَابٌ"
+        },
+        {
+          "w": "أَخِيهِ",
+          "root": "أ خ و",
+          "bs": "njegov brat",
+          "en": "his brother",
+          "lemma": "أَخٌ / إِخْوَةٌ"
+        }
       ]
     },
     {
@@ -41,16 +113,50 @@
       "translation": "Igra uči saradnju, strpljenje i prijateljstvo.",
       "translationEn": "Play teaches cooperation, patience, and friendship.",
       "words": [
-        { "w": "اللَّعِبُ", "root": "ل ع ب", "bs": "igra", "en": "play" },
-        { "w": "يُعَلِّمُ", "root": "ع ل م", "bs": "uči", "en": "teaches" },
-        { "w": "التَّعَاوُنَ", "root": "ع و ن", "bs": "saradnju", "en": "cooperation" },
-        { "w": "الصَّبْرَ", "root": "ص ب ر", "bs": "strpljenje", "en": "patience" },
-        { "w": "الصَّدَاقَةَ", "root": "ص د ق", "bs": "prijateljstvo", "en": "friendship" }
+        {
+          "w": "اللَّعِبُ",
+          "root": "ل ع ب",
+          "bs": "igra",
+          "en": "play",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "يُعَلِّمُ",
+          "root": "ع ل م",
+          "bs": "uči",
+          "en": "teaches",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "التَّعَاوُنَ",
+          "root": "ع و ن",
+          "bs": "saradnju",
+          "en": "cooperation",
+          "lemma": "تَعَاوُنٌ"
+        },
+        {
+          "w": "الصَّبْرَ",
+          "root": "ص ب ر",
+          "bs": "strpljenje",
+          "en": "patience",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "الصَّدَاقَةَ",
+          "root": "ص د ق",
+          "bs": "prijateljstvo",
+          "en": "friendship",
+          "lemma": "صَدَاقَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["play", "children", "learning"]
+    "tags": [
+      "play",
+      "children",
+      "learning"
+    ]
   }
 }

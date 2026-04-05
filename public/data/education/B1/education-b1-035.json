@@ -8,9 +8,27 @@
       "translation": "Na slobodan dan Sulejman je ostao kod kuće.",
       "translationEn": "On the day off Suleiman stayed at home.",
       "words": [
-        { "w": "الإِجَازَةِ", "root": "ج و ز", "bs": "slobodan dan", "en": "day off" },
-        { "w": "بَقِيَ", "root": "ب ق ي", "bs": "ostao je", "en": "stayed" },
-        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+        {
+          "w": "الإِجَازَةِ",
+          "root": "ج و ز",
+          "bs": "slobodan dan",
+          "en": "day off",
+          "lemma": "إِجَازَةٌ / إِجَازَاتٌ"
+        },
+        {
+          "w": "بَقِيَ",
+          "root": "ب ق ي",
+          "bs": "ostao je",
+          "en": "stayed",
+          "lemma": "بَقِيَ يَبْقَى"
+        },
+        {
+          "w": "البَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "home",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -18,11 +36,41 @@
       "translation": "Ponovio je lekcije i pročitao novu knjigu.",
       "translationEn": "He reviewed his lessons and read a new book.",
       "words": [
-        { "w": "رَاجَعَ", "root": "ر ج ع", "bs": "ponovio je", "en": "reviewed" },
-        { "w": "دُرُوسَهُ", "root": "د ر س", "bs": "njegove lekcije", "en": "his lessons" },
-        { "w": "قَرَأَ", "root": "ق ر أ", "bs": "pročitao je", "en": "read" },
-        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "جَدِيدًا", "root": "ج د د", "bs": "nova", "en": "new" }
+        {
+          "w": "رَاجَعَ",
+          "root": "ر ج ع",
+          "bs": "ponovio je",
+          "en": "reviewed",
+          "lemma": "رَاجَعَ يُرَاجِعُ"
+        },
+        {
+          "w": "دُرُوسَهُ",
+          "root": "د ر س",
+          "bs": "njegove lekcije",
+          "en": "his lessons",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
+        },
+        {
+          "w": "قَرَأَ",
+          "root": "ق ر أ",
+          "bs": "pročitao je",
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "جَدِيدًا",
+          "root": "ج د د",
+          "bs": "nova",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Zapisao je važne bilješke u svesci.",
       "translationEn": "He wrote important notes in his notebook.",
       "words": [
-        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
-        { "w": "مُلَاحَظَاتٍ", "root": "ل ح ظ", "bs": "bilješke", "en": "notes" },
-        { "w": "مُهِمَّةً", "root": "أ ه م", "bs": "važne", "en": "important" },
-        { "w": "كُرَّاسَتِهِ", "root": "ك ر س", "bs": "njegova sveska", "en": "his notebook" }
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao je",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "مُلَاحَظَاتٍ",
+          "root": "ل ح ظ",
+          "bs": "bilješke",
+          "en": "notes",
+          "lemma": "مُلَاحَظَةٌ / مُلَاحَظَاتٌ"
+        },
+        {
+          "w": "مُهِمَّةً",
+          "root": "أ ه م",
+          "bs": "važne",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "كُرَّاسَتِهِ",
+          "root": "ك ر س",
+          "bs": "njegova sveska",
+          "en": "his notebook",
+          "lemma": "كُرَّاسَةٌ / كَرَارِيسُ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Htio je biti spreman za sljedeći čas.",
       "translationEn": "He wanted to be ready for the next lesson.",
       "words": [
-        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
-        { "w": "مُسْتَعِدًّا", "root": "ع د د", "bs": "spreman", "en": "ready" },
-        { "w": "الدَّرْسِ", "root": "د ر س", "bs": "čas", "en": "lesson" },
-        { "w": "القَادِمِ", "root": "ق د م", "bs": "sljedeći", "en": "next" }
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "مُسْتَعِدًّا",
+          "root": "ع د د",
+          "bs": "spreman",
+          "en": "ready",
+          "lemma": "مُسْتَعِدٌّ"
+        },
+        {
+          "w": "الدَّرْسِ",
+          "root": "د ر س",
+          "bs": "čas",
+          "en": "lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
+        },
+        {
+          "w": "القَادِمِ",
+          "root": "ق د م",
+          "bs": "sljedeći",
+          "en": "next",
+          "lemma": "قَادِمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["studying", "holiday", "preparation"]
+    "tags": [
+      "studying",
+      "holiday",
+      "preparation"
+    ]
   }
 }

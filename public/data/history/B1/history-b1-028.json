@@ -8,10 +8,34 @@
       "translation": "Zanatlija je pravio posude od keramike.",
       "translationEn": "The craftsman used to make vessels from pottery.",
       "words": [
-        { "w": "الصَّانِعُ", "root": "ص ن ع", "bs": "zanatlija", "en": "the craftsman" },
-        { "w": "يَصْنَعُ", "root": "ص ن ع", "bs": "pravi", "en": "makes" },
-        { "w": "الأَوَانِيَ", "root": "و ن ي", "bs": "posude", "en": "vessels" },
-        { "w": "الْفَخَّارِ", "root": "ف خ ر", "bs": "keramika", "en": "pottery" }
+        {
+          "w": "الصَّانِعُ",
+          "root": "ص ن ع",
+          "bs": "zanatlija",
+          "en": "the craftsman",
+          "lemma": "صَانِعٌ / صُنَّاعٌ"
+        },
+        {
+          "w": "يَصْنَعُ",
+          "root": "ص ن ع",
+          "bs": "pravi",
+          "en": "makes",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "الأَوَانِيَ",
+          "root": "و ن ي",
+          "bs": "posude",
+          "en": "vessels",
+          "lemma": "إِنَاءٌ / أَوَانٍ"
+        },
+        {
+          "w": "الْفَخَّارِ",
+          "root": "ف خ ر",
+          "bs": "keramika",
+          "en": "pottery",
+          "lemma": "فَخَّارٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Vješto je oblikovao glinu rukama.",
       "translationEn": "He would shape the clay with his hands skilfully.",
       "words": [
-        { "w": "يُشَكِّلُ", "root": "ش ك ل", "bs": "oblikuje", "en": "shapes" },
-        { "w": "الطِّينَ", "root": "ط ي ن", "bs": "glinu", "en": "the clay" },
-        { "w": "بَرَاعَةٍ", "root": "ب ر ع", "bs": "vještinom", "en": "skilfully" }
+        {
+          "w": "يُشَكِّلُ",
+          "root": "ش ك ل",
+          "bs": "oblikuje",
+          "en": "shapes",
+          "lemma": "شَكَّلَ يُشَكِّلُ"
+        },
+        {
+          "w": "الطِّينَ",
+          "root": "ط ي ن",
+          "bs": "glinu",
+          "en": "the clay",
+          "lemma": "طِينٌ"
+        },
+        {
+          "w": "بَرَاعَةٍ",
+          "root": "ب ر ع",
+          "bs": "vještinom",
+          "en": "skilfully",
+          "lemma": "بَرَاعَةٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Potom je pekao posude u peći dok ne otvrdnu.",
       "translationEn": "Then he would fire the vessels in the kiln until they hardened.",
       "words": [
-        { "w": "يُحْرِقُ", "root": "ح ر ق", "bs": "peče", "en": "fires" },
-        { "w": "الأَوَانِيَ", "root": "و ن ي", "bs": "posude", "en": "the vessels" },
-        { "w": "الْفُرْنِ", "root": "ف ر ن", "bs": "peć", "en": "the kiln" },
-        { "w": "تَصْلُبَ", "root": "ص ل ب", "bs": "otvrdnu", "en": "harden" }
+        {
+          "w": "يُحْرِقُ",
+          "root": "ح ر ق",
+          "bs": "peče",
+          "en": "fires",
+          "lemma": "أَحْرَقَ يُحْرِقُ"
+        },
+        {
+          "w": "الأَوَانِيَ",
+          "root": "و ن ي",
+          "bs": "posude",
+          "en": "the vessels",
+          "lemma": "إِنَاءٌ / أَوَانٍ"
+        },
+        {
+          "w": "الْفُرْنِ",
+          "root": "ف ر ن",
+          "bs": "peć",
+          "en": "the kiln",
+          "lemma": "فُرْنٌ / أَفْرَانٌ"
+        },
+        {
+          "w": "تَصْلُبَ",
+          "root": "ص ل ب",
+          "bs": "otvrdnu",
+          "en": "harden",
+          "lemma": "صَلُبَ يَصْلُبُ"
+        }
       ]
     },
     {
@@ -40,16 +106,50 @@
       "translation": "Ljudi su koristili ove posude za čuvanje hrane i vode.",
       "translationEn": "People used these vessels to store food and water.",
       "words": [
-        { "w": "اسْتَخْدَمَ", "root": "خ د م", "bs": "koristio je", "en": "used" },
-        { "w": "الأَوَانِيَ", "root": "و ن ي", "bs": "posude", "en": "the vessels" },
-        { "w": "حِفْظِ", "root": "ح ف ظ", "bs": "čuvanje", "en": "storing" },
-        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "الْمَاءِ", "root": "م و ه", "bs": "voda", "en": "water" }
+        {
+          "w": "اسْتَخْدَمَ",
+          "root": "خ د م",
+          "bs": "koristio je",
+          "en": "used",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "الأَوَانِيَ",
+          "root": "و ن ي",
+          "bs": "posude",
+          "en": "the vessels",
+          "lemma": "إِنَاءٌ / أَوَانٍ"
+        },
+        {
+          "w": "حِفْظِ",
+          "root": "ح ف ظ",
+          "bs": "čuvanje",
+          "en": "storing",
+          "lemma": "حِفْظٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْمَاءِ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["crafts", "pottery", "daily life"]
+    "tags": [
+      "crafts",
+      "pottery",
+      "daily life"
+    ]
   }
 }

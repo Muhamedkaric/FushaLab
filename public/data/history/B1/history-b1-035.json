@@ -8,10 +8,34 @@
       "translation": "Stara džamija bila je u srcu grada.",
       "translationEn": "The ancient mosque was in the heart of the city.",
       "words": [
-        { "w": "الْمَسْجِدُ", "root": "س ج د", "bs": "džamija", "en": "the mosque" },
-        { "w": "الْقَدِيمُ", "root": "ق د م", "bs": "stara", "en": "ancient" },
-        { "w": "قَلْبِ", "root": "ق ل ب", "bs": "srce", "en": "heart" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grada", "en": "the city" }
+        {
+          "w": "الْمَسْجِدُ",
+          "root": "س ج د",
+          "bs": "džamija",
+          "en": "the mosque",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "الْقَدِيمُ",
+          "root": "ق د م",
+          "bs": "stara",
+          "en": "ancient",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "قَلْبِ",
+          "root": "ق ل ب",
+          "bs": "srce",
+          "en": "heart",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grada",
+          "en": "the city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Bio je izgrađen od gline i bijelog kamena.",
       "translationEn": "It was built from clay and white stone.",
       "words": [
-        { "w": "مَبْنِيًّا", "root": "ب ن ي", "bs": "izgrađen", "en": "built" },
-        { "w": "الطِّينِ", "root": "ط ي ن", "bs": "glina", "en": "clay" },
-        { "w": "الْحِجَارَةِ", "root": "ح ج ر", "bs": "kamen", "en": "stone" },
-        { "w": "الْبَيْضَاءِ", "root": "ب ي ض", "bs": "bijela", "en": "white" }
+        {
+          "w": "مَبْنِيًّا",
+          "root": "ب ن ي",
+          "bs": "izgrađen",
+          "en": "built",
+          "lemma": "مَبْنِيٌّ"
+        },
+        {
+          "w": "الطِّينِ",
+          "root": "ط ي ن",
+          "bs": "glina",
+          "en": "clay",
+          "lemma": "طِينٌ"
+        },
+        {
+          "w": "الْحِجَارَةِ",
+          "root": "ح ج ر",
+          "bs": "kamen",
+          "en": "stone",
+          "lemma": "حَجَرٌ / حِجَارَةٌ"
+        },
+        {
+          "w": "الْبَيْضَاءِ",
+          "root": "ب ي ض",
+          "bs": "bijela",
+          "en": "white",
+          "lemma": "أَبْيَضُ / بَيْضَاءُ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Ljudi su dolazili u njega na molitvu pet puta svakog dana.",
       "translationEn": "People came to it for prayer five times every day.",
       "words": [
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
-        { "w": "الصَّلَاةِ", "root": "ص ل و", "bs": "molitva", "en": "prayer" },
-        { "w": "مَرَّاتٍ", "root": "م ر ر", "bs": "puta", "en": "times" }
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "the people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "الصَّلَاةِ",
+          "root": "ص ل و",
+          "bs": "molitva",
+          "en": "prayer",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        },
+        {
+          "w": "مَرَّاتٍ",
+          "root": "م ر ر",
+          "bs": "puta",
+          "en": "times",
+          "lemma": "مَرَّةٌ / مَرَّاتٌ"
+        }
       ]
     },
     {
@@ -40,14 +106,36 @@
       "translation": "Bio je i mjesto za skupove i učenje.",
       "translationEn": "It was also a place for gatherings and learning.",
       "words": [
-        { "w": "مَكَانًا", "root": "ك و ن", "bs": "mjesto", "en": "a place" },
-        { "w": "الِاجْتِمَاعَاتِ", "root": "ج م ع", "bs": "skupovi", "en": "gatherings" },
-        { "w": "التَّعَلُّمِ", "root": "ع ل م", "bs": "učenje", "en": "learning" }
+        {
+          "w": "مَكَانًا",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "a place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "الِاجْتِمَاعَاتِ",
+          "root": "ج م ع",
+          "bs": "skupovi",
+          "en": "gatherings",
+          "lemma": "اِجْتِمَاعٌ / اِجْتِمَاعَاتٌ"
+        },
+        {
+          "w": "التَّعَلُّمِ",
+          "root": "ع ل م",
+          "bs": "učenje",
+          "en": "learning",
+          "lemma": "تَعَلُّمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mosque", "city", "religion"]
+    "tags": [
+      "mosque",
+      "city",
+      "religion"
+    ]
   }
 }

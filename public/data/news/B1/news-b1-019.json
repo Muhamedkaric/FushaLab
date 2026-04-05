@@ -12,19 +12,22 @@
           "w": "الصَّيْدَلِيَّةُ",
           "root": "ص د ل",
           "bs": "apoteka",
-          "en": "pharmacy"
+          "en": "pharmacy",
+          "lemma": "صَيْدَلِيَّةٌ / صَيْدَلِيَّاتٌ"
         },
         {
           "w": "تَخْفِيضَاتٍ",
           "root": "خ ف ض",
           "bs": "popuste",
-          "en": "discounts"
+          "en": "discounts",
+          "lemma": "تَخْفِيضٌ / تَخْفِيضَاتٌ"
         },
         {
           "w": "الأَدْوِيَةِ",
           "root": "د و أ",
           "bs": "lijekova",
-          "en": "medicines"
+          "en": "medicines",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
         }
       ]
     },
@@ -37,13 +40,15 @@
           "w": "الزَّبَائِنِ",
           "root": "ز ب ن",
           "bs": "kupci",
-          "en": "customers"
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
         },
         {
           "w": "التَّخْفِيضَاتِ",
           "root": "خ ف ض",
           "bs": "popuste",
-          "en": "discounts"
+          "en": "discounts",
+          "lemma": "تَخْفِيضٌ / تَخْفِيضَاتٌ"
         }
       ]
     },
@@ -56,25 +61,29 @@
           "w": "الصَّيْدَلِيُّ",
           "root": "ص د ل",
           "bs": "farmaceut",
-          "en": "pharmacist"
+          "en": "pharmacist",
+          "lemma": "صَيْدَلِيٌّ / صَيَادِلَةٌ"
         },
         {
           "w": "الزَّبَائِنَ",
           "root": "ز ب ن",
           "bs": "kupce",
-          "en": "customers"
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
         },
         {
           "w": "الأَدْوِيَةِ",
           "root": "د و أ",
           "bs": "lijekovima",
-          "en": "medicines"
+          "en": "medicines",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
         },
         {
           "w": "الْمُنَاسِبَةِ",
           "root": "ن س ب",
           "bs": "odgovarajućim",
-          "en": "suitable"
+          "en": "suitable",
+          "lemma": "مُنَاسِبٌ"
         }
       ]
     },
@@ -87,19 +96,22 @@
           "w": "الْعَرْضُ",
           "root": "ع ر ض",
           "bs": "ponuda",
-          "en": "offer"
+          "en": "offer",
+          "lemma": "عَرْضٌ / عُرُوضٌ"
         },
         {
           "w": "نِهَايَةِ",
           "root": "ن ه ي",
           "bs": "kraja",
-          "en": "end"
+          "en": "end",
+          "lemma": "نِهَايَةٌ / نِهَايَاتٌ"
         },
         {
           "w": "الشَّهْرِ",
           "root": "ش ه ر",
           "bs": "mjeseca",
-          "en": "month"
+          "en": "month",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
         }
       ]
     }

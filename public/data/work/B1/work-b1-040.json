@@ -8,10 +8,34 @@
       "translation": "Asma radi kao dizajnerica web stranica.",
       "translationEn": "Asma works as a website designer.",
       "words": [
-        { "w": "تَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "مُصَمِّمَةً", "root": "ص م م", "bs": "dizajnerica", "en": "designer (f)" },
-        { "w": "الْمَوَاقِعِ", "root": "و ق ع", "bs": "web stranice/mjesta", "en": "websites" },
-        { "w": "الْإِلِكْتُرُونِيَّةِ", "root": "ل ك ت", "bs": "elektronskih/digitalne", "en": "electronic/digital" }
+        {
+          "w": "تَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "مُصَمِّمَةً",
+          "root": "ص م م",
+          "bs": "dizajnerica",
+          "en": "designer (f)",
+          "lemma": "مُصَمِّمٌ / مُصَمِّمُونَ"
+        },
+        {
+          "w": "الْمَوَاقِعِ",
+          "root": "و ق ع",
+          "bs": "web stranice/mjesta",
+          "en": "websites",
+          "lemma": "مَوْقِعٌ / مَوَاقِعُ"
+        },
+        {
+          "w": "الْإِلِكْتُرُونِيَّةِ",
+          "root": "ل ك ت",
+          "bs": "elektronskih/digitalne",
+          "en": "electronic/digital",
+          "lemma": "إِلِكْتُرُونِيٌّ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Dizajnira stranice i bira odgovarajuće boje.",
       "translationEn": "She designs pages and chooses suitable colours.",
       "words": [
-        { "w": "تُصَمِّمُ", "root": "ص م م", "bs": "dizajnira", "en": "designs" },
-        { "w": "الصَّفَحَاتِ", "root": "ص ف ح", "bs": "stranice/strane", "en": "pages" },
-        { "w": "تَخْتَارُ", "root": "خ ي ر", "bs": "bira/odabira", "en": "chooses" },
-        { "w": "الْأَلْوَانَ", "root": "ل و ن", "bs": "boje", "en": "colours" },
-        { "w": "الْمُنَاسِبَةَ", "root": "ن س ب", "bs": "odgovarajuće/prikladne", "en": "suitable" }
+        {
+          "w": "تُصَمِّمُ",
+          "root": "ص م م",
+          "bs": "dizajnira",
+          "en": "designs",
+          "lemma": "صَمَّمَ يُصَمِّمُ"
+        },
+        {
+          "w": "الصَّفَحَاتِ",
+          "root": "ص ف ح",
+          "bs": "stranice/strane",
+          "en": "pages",
+          "lemma": "صَفْحَةٌ / صَفَحَاتٌ"
+        },
+        {
+          "w": "تَخْتَارُ",
+          "root": "خ ي ر",
+          "bs": "bira/odabira",
+          "en": "chooses",
+          "lemma": "اخْتَارَ يَخْتَارُ"
+        },
+        {
+          "w": "الْأَلْوَانَ",
+          "root": "ل و ن",
+          "bs": "boje",
+          "en": "colours",
+          "lemma": "لَوْنٌ / أَلْوَانٌ"
+        },
+        {
+          "w": "الْمُنَاسِبَةَ",
+          "root": "ن س ب",
+          "bs": "odgovarajuće/prikladne",
+          "en": "suitable",
+          "lemma": "مُنَاسِبٌ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Šalje posao klijentu i čeka njegovo mišljenje.",
       "translationEn": "She sends the work to the client and waits for their opinion.",
       "words": [
-        { "w": "تُرْسِلُ", "root": "ر س ل", "bs": "šalje", "en": "sends" },
-        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
-        { "w": "الزَّبُونِ", "root": "ز ب ن", "bs": "klijent/kupac", "en": "client" },
-        { "w": "تَنْتَظِرُ", "root": "ن ظ ر", "bs": "čeka", "en": "waits" },
-        { "w": "رَأْيَهُ", "root": "ر أ ي", "bs": "njegovo mišljenje", "en": "their opinion" }
+        {
+          "w": "تُرْسِلُ",
+          "root": "ر س ل",
+          "bs": "šalje",
+          "en": "sends",
+          "lemma": "أَرْسَلَ يُرْسِلُ"
+        },
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "posao/rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الزَّبُونِ",
+          "root": "ز ب ن",
+          "bs": "klijent/kupac",
+          "en": "client",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "تَنْتَظِرُ",
+          "root": "ن ظ ر",
+          "bs": "čeka",
+          "en": "waits",
+          "lemma": "انْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "رَأْيَهُ",
+          "root": "ر أ ي",
+          "bs": "njegovo mišljenje",
+          "en": "their opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        }
       ]
     },
     {
@@ -43,15 +127,44 @@
       "translation": "Mijenja ono što klijent traži dok ne bude zadovoljan.",
       "translationEn": "She changes what the client requests until they are satisfied.",
       "words": [
-        { "w": "تُعَدِّلُ", "root": "ع د ل", "bs": "mijenja/koriguje", "en": "changes/adjusts" },
-        { "w": "يَطْلُبُهُ", "root": "ط ل ب", "bs": "što traži", "en": "requests" },
-        { "w": "الزَّبُونُ", "root": "ز ب ن", "bs": "klijent", "en": "client" },
-        { "w": "يَرْضَى", "root": "ر ض و", "bs": "da bude zadovoljan", "en": "is satisfied" }
+        {
+          "w": "تُعَدِّلُ",
+          "root": "ع د ل",
+          "bs": "mijenja/koriguje",
+          "en": "changes/adjusts",
+          "lemma": "عَدَّلَ يُعَدِّلُ"
+        },
+        {
+          "w": "يَطْلُبُهُ",
+          "root": "ط ل ب",
+          "bs": "što traži",
+          "en": "requests",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الزَّبُونُ",
+          "root": "ز ب ن",
+          "bs": "klijent",
+          "en": "client",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "يَرْضَى",
+          "root": "ر ض و",
+          "bs": "da bude zadovoljan",
+          "en": "is satisfied",
+          "lemma": "رَضِيَ يَرْضَى"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["web designer", "freelance", "client", "design"]
+    "tags": [
+      "web designer",
+      "freelance",
+      "client",
+      "design"
+    ]
   }
 }

@@ -8,9 +8,27 @@
       "translation": "Iman je htjela iznenaditi majku poklonom.",
       "translationEn": "Iman wanted to surprise her mother with a gift.",
       "words": [
-        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
-        { "w": "تُفَاجِئَ", "root": "ف ج أ", "bs": "iznenaditi", "en": "to surprise" },
-        { "w": "بِهَدِيَّةٍ", "root": "ه د ي", "bs": "poklon", "en": "gift" }
+        {
+          "w": "أَرَادَتْ",
+          "root": "ر و د",
+          "bs": "htjela je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "تُفَاجِئَ",
+          "root": "ف ج أ",
+          "bs": "iznenaditi",
+          "en": "to surprise",
+          "lemma": "فَاجَأَ يُفَاجِئُ"
+        },
+        {
+          "w": "بِهَدِيَّةٍ",
+          "root": "ه د ي",
+          "bs": "poklon",
+          "en": "gift",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "Skupljala je džeparac pune dvije sedmice.",
       "translationEn": "She saved her pocket money for two full weeks.",
       "words": [
-        { "w": "جَمَعَتْ", "root": "ج م ع", "bs": "skupljala je/čuvala", "en": "saved/collected" },
-        { "w": "مَصْرُوفَهَا", "root": "ص ر ف", "bs": "njen džeparac", "en": "her pocket money" },
-        { "w": "أُسْبُوعَيْنِ", "root": "س ب ع", "bs": "dvije sedmice", "en": "two weeks" }
+        {
+          "w": "جَمَعَتْ",
+          "root": "ج م ع",
+          "bs": "skupljala je/čuvala",
+          "en": "saved/collected",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "مَصْرُوفَهَا",
+          "root": "ص ر ف",
+          "bs": "njen džeparac",
+          "en": "her pocket money",
+          "lemma": "مَصْرُوفٌ / مَصَارِيفُ"
+        },
+        {
+          "w": "أُسْبُوعَيْنِ",
+          "root": "س ب ع",
+          "bs": "dvije sedmice",
+          "en": "two weeks",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -28,10 +64,34 @@
       "translation": "Kupila joj je lijepu šal s pijace.",
       "translationEn": "She bought her a beautiful scarf from the market.",
       "words": [
-        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
-        { "w": "وِشَاحًا", "root": "و ش ح", "bs": "šal/marama", "en": "scarf" },
-        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepu", "en": "beautiful" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca/tržnica", "en": "market" }
+        {
+          "w": "اشْتَرَتْ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "وِشَاحًا",
+          "root": "و ش ح",
+          "bs": "šal/marama",
+          "en": "scarf",
+          "lemma": "وِشَاحٌ / أَوْشِحَةٌ"
+        },
+        {
+          "w": "جَمِيلًا",
+          "root": "ج م ل",
+          "bs": "lijepu",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "pijaca/tržnica",
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        }
       ]
     },
     {
@@ -39,15 +99,43 @@
       "translation": "Majka je plakala od sreće i zagrlila kćerku.",
       "translationEn": "The mother cried with joy and hugged her daughter.",
       "words": [
-        { "w": "بَكَتِ", "root": "ب ك ي", "bs": "plakala je", "en": "cried" },
-        { "w": "الْفَرَحِ", "root": "ف ر ح", "bs": "sreća/radost", "en": "joy" },
-        { "w": "احْتَضَنَتِ", "root": "ح ض ن", "bs": "zagrlila je", "en": "hugged" },
-        { "w": "ابْنَتَهَا", "root": "ب ن و", "bs": "njena kćerka", "en": "her daughter" }
+        {
+          "w": "بَكَتِ",
+          "root": "ب ك ي",
+          "bs": "plakala je",
+          "en": "cried",
+          "lemma": "بَكَى يَبْكِي"
+        },
+        {
+          "w": "الْفَرَحِ",
+          "root": "ف ر ح",
+          "bs": "sreća/radost",
+          "en": "joy",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        },
+        {
+          "w": "احْتَضَنَتِ",
+          "root": "ح ض ن",
+          "bs": "zagrlila je",
+          "en": "hugged",
+          "lemma": "احْتَضَنَ يَحْتَضِنُ"
+        },
+        {
+          "w": "ابْنَتَهَا",
+          "root": "ب ن و",
+          "bs": "njena kćerka",
+          "en": "her daughter",
+          "lemma": "ابْنَةٌ / بَنَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["family", "love", "gift"]
+    "tags": [
+      "family",
+      "love",
+      "gift"
+    ]
   }
 }

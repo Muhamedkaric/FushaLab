@@ -12,31 +12,36 @@
           "w": "اِلْتَقَى",
           "root": "ل ق ي",
           "bs": "upoznao/sreo",
-          "en": "met"
+          "en": "met",
+          "lemma": "اِلْتَقَى يَلْتَقِي"
         },
         {
           "w": "صَدِيقٍ",
           "root": "ص د ق",
           "bs": "prijatelj",
-          "en": "friend"
+          "en": "friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "جَدِيدٍ",
           "root": "ج د د",
           "bs": "novi",
-          "en": "new"
+          "en": "new",
+          "lemma": "جَدِيدٌ / جُدُدٌ"
         },
         {
           "w": "يَوْمٍ",
           "root": "ي و م",
           "bs": "dan",
-          "en": "day"
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
         },
         {
           "w": "مَدْرَسِيٍّ",
           "root": "د ر س",
           "bs": "školski",
-          "en": "school"
+          "en": "school",
+          "lemma": "مَدْرَسِيٌّ"
         }
       ]
     },
@@ -49,13 +54,15 @@
           "w": "سَأَلَهُ",
           "root": "س أ ل",
           "bs": "pitao ga",
-          "en": "asked him"
+          "en": "asked him",
+          "lemma": "سَأَلَ يَسْأَلُ"
         },
         {
           "w": "اسْمُكَ",
           "root": "س م و",
           "bs": "tvoje ime",
-          "en": "your name"
+          "en": "your name",
+          "lemma": "اِسْمٌ / أَسْمَاءٌ"
         }
       ]
     },
@@ -68,25 +75,29 @@
           "w": "أَجَابَ",
           "root": "ج و ب",
           "bs": "odgovorio",
-          "en": "answered"
+          "en": "answered",
+          "lemma": "أَجَابَ يُجِيبُ"
         },
         {
           "w": "الصَّدِيقُ",
           "root": "ص د ق",
           "bs": "prijatelj",
-          "en": "friend"
+          "en": "friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "اسْمِي",
           "root": "س م و",
           "bs": "moje ime",
-          "en": "my name"
+          "en": "my name",
+          "lemma": "اِسْمٌ / أَسْمَاءٌ"
         },
         {
           "w": "المَدِينَةِ",
           "root": "م د ن",
           "bs": "grad",
-          "en": "city"
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
         }
       ]
     },
@@ -99,19 +110,22 @@
           "w": "لَعِبَا",
           "root": "ل ع ب",
           "bs": "igrali su se",
-          "en": "played"
+          "en": "played",
+          "lemma": "لَعِبَ يَلْعَبُ"
         },
         {
           "w": "الفُرْصَةِ",
           "root": "ف ر ص",
           "bs": "odmor",
-          "en": "break"
+          "en": "break",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
         },
         {
           "w": "ضَحِكَا",
           "root": "ض ح ك",
           "bs": "smijali su se",
-          "en": "laughed"
+          "en": "laughed",
+          "lemma": "ضَحِكَ يَضْحَكُ"
         }
       ]
     },
@@ -124,19 +138,22 @@
           "w": "أَصْبَحَ",
           "root": "ص ب ح",
           "bs": "postali",
-          "en": "became"
+          "en": "became",
+          "lemma": "أَصْبَحَ يُصْبِحُ"
         },
         {
           "w": "صَدِيقَيْنِ",
           "root": "ص د ق",
           "bs": "prijatelji",
-          "en": "friends"
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "مُقَرَّبَيْنِ",
           "root": "ق ر ب",
           "bs": "bliski",
-          "en": "close"
+          "en": "close",
+          "lemma": "مُقَرَّبٌ"
         }
       ]
     }

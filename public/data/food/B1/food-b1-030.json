@@ -8,10 +8,34 @@
       "translation": "Ahmed je kuhao leću po prvi put u životu.",
       "translationEn": "Ahmed cooked lentils for the first time in his life.",
       "words": [
-        { "w": "طَبَخَ", "root": "ط ب خ", "bs": "kuhao je", "en": "cooked" },
-        { "w": "الْعَدَسَ", "root": "ع د س", "bs": "leća", "en": "lentils" },
-        { "w": "مَرَّةٍ", "root": "م ر ر", "bs": "put/puta", "en": "time/occasion" },
-        { "w": "حَيَاتِهِ", "root": "ح ي و", "bs": "život/životu", "en": "his life" }
+        {
+          "w": "طَبَخَ",
+          "root": "ط ب خ",
+          "bs": "kuhao je",
+          "en": "cooked",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "الْعَدَسَ",
+          "root": "ع د س",
+          "bs": "leća",
+          "en": "lentils",
+          "lemma": "عَدَسٌ"
+        },
+        {
+          "w": "مَرَّةٍ",
+          "root": "م ر ر",
+          "bs": "put/puta",
+          "en": "time/occasion",
+          "lemma": "مَرَّةٌ / مَرَّاتٌ"
+        },
+        {
+          "w": "حَيَاتِهِ",
+          "root": "ح ي و",
+          "bs": "život/životu",
+          "en": "his life",
+          "lemma": "حَيَاةٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Pročitao je recept i pažljivo pratio korake.",
       "translationEn": "He read the recipe and followed the steps carefully.",
       "words": [
-        { "w": "قَرَأَ", "root": "ق ر أ", "bs": "pročitao je", "en": "read" },
-        { "w": "الْوَصْفَةَ", "root": "و ص ف", "bs": "recept", "en": "recipe" },
-        { "w": "اتَّبَعَ", "root": "ت ب ع", "bs": "pratio je/slijedio", "en": "followed" },
-        { "w": "الْخُطُوَاتِ", "root": "خ ط و", "bs": "koraci/upute", "en": "steps" },
-        { "w": "بِعِنَايَةٍ", "root": "ع ن ي", "bs": "pažljivo", "en": "carefully" }
+        {
+          "w": "قَرَأَ",
+          "root": "ق ر أ",
+          "bs": "pročitao je",
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "الْوَصْفَةَ",
+          "root": "و ص ف",
+          "bs": "recept",
+          "en": "recipe",
+          "lemma": "وَصْفَةٌ / وَصْفَاتٌ"
+        },
+        {
+          "w": "اتَّبَعَ",
+          "root": "ت ب ع",
+          "bs": "pratio je/slijedio",
+          "en": "followed",
+          "lemma": "اتَّبَعَ يَتَّبِعُ"
+        },
+        {
+          "w": "الْخُطُوَاتِ",
+          "root": "خ ط و",
+          "bs": "koraci/upute",
+          "en": "steps",
+          "lemma": "خُطْوَةٌ / خُطُوَاتٌ"
+        },
+        {
+          "w": "بِعِنَايَةٍ",
+          "root": "ع ن ي",
+          "bs": "pažljivo",
+          "en": "carefully",
+          "lemma": "عِنَايَةٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Dodao je luk, bijeli luk i ulje.",
       "translationEn": "He added onion, garlic, and oil.",
       "words": [
-        { "w": "أَضَافَ", "root": "ض ي ف", "bs": "dodao je", "en": "added" },
-        { "w": "الْبَصَلَ", "root": "ب ص ل", "bs": "luk", "en": "onion" },
-        { "w": "الثُّومَ", "root": "ث و م", "bs": "bijeli luk/češnjak", "en": "garlic" },
-        { "w": "الزَّيْتَ", "root": "ز ي ت", "bs": "ulje", "en": "oil" }
+        {
+          "w": "أَضَافَ",
+          "root": "ض ي ف",
+          "bs": "dodao je",
+          "en": "added",
+          "lemma": "أَضَافَ يُضِيفُ"
+        },
+        {
+          "w": "الْبَصَلَ",
+          "root": "ب ص ل",
+          "bs": "luk",
+          "en": "onion",
+          "lemma": "بَصَلٌ"
+        },
+        {
+          "w": "الثُّومَ",
+          "root": "ث و م",
+          "bs": "bijeli luk/češnjak",
+          "en": "garlic",
+          "lemma": "ثُومٌ"
+        },
+        {
+          "w": "الزَّيْتَ",
+          "root": "ز ي ت",
+          "bs": "ulje",
+          "en": "oil",
+          "lemma": "زَيْتٌ / زُيُوتٌ"
+        }
       ]
     },
     {
@@ -42,10 +120,34 @@
       "translation": "Supa je ispala dobra i pojeo ju je radosno.",
       "translationEn": "The soup turned out good and he ate it happily.",
       "words": [
-        { "w": "الشُّوربَةُ", "root": "ش ر ب", "bs": "supa/čorba", "en": "soup" },
-        { "w": "جَيِّدَةً", "root": "ج و د", "bs": "dobra/dobru", "en": "good" },
-        { "w": "أَكَلَهَا", "root": "أ ك ل", "bs": "pojeo je je", "en": "ate it" },
-        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "radosno/s radošću", "en": "happily" }
+        {
+          "w": "الشُّوربَةُ",
+          "root": "ش ر ب",
+          "bs": "supa/čorba",
+          "en": "soup",
+          "lemma": "شُورَبَةٌ / شُورَبَاتٌ"
+        },
+        {
+          "w": "جَيِّدَةً",
+          "root": "ج و د",
+          "bs": "dobra/dobru",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        },
+        {
+          "w": "أَكَلَهَا",
+          "root": "أ ك ل",
+          "bs": "pojeo je je",
+          "en": "ate it",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "بِفَرَحٍ",
+          "root": "ف ر ح",
+          "bs": "radosno/s radošću",
+          "en": "happily",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        }
       ]
     }
   ],

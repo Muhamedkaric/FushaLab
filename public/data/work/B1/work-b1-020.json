@@ -8,11 +8,41 @@
       "translation": "Džafer je zaboravio poslati važan dokument direktoru.",
       "translationEn": "Jaafar forgot to send an important document to the manager.",
       "words": [
-        { "w": "نَسِيَ", "root": "ن س ي", "bs": "zaboravio je", "en": "forgot" },
-        { "w": "يُرْسِلَ", "root": "ر س ل", "bs": "da pošalje", "en": "to send" },
-        { "w": "وَثِيقَةً", "root": "و ث ق", "bs": "dokument/isprava", "en": "document" },
-        { "w": "مُهِمَّةً", "root": "م ه م", "bs": "važan/bitan", "en": "important" },
-        { "w": "الْمُدِيرِ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" }
+        {
+          "w": "نَسِيَ",
+          "root": "ن س ي",
+          "bs": "zaboravio je",
+          "en": "forgot",
+          "lemma": "نَسِيَ يَنْسَى"
+        },
+        {
+          "w": "يُرْسِلَ",
+          "root": "ر س ل",
+          "bs": "da pošalje",
+          "en": "to send",
+          "lemma": "أَرْسَلَ يُرْسِلُ"
+        },
+        {
+          "w": "وَثِيقَةً",
+          "root": "و ث ق",
+          "bs": "dokument/isprava",
+          "en": "document",
+          "lemma": "وَثِيقَةٌ / وَثَائِقُ"
+        },
+        {
+          "w": "مُهِمَّةً",
+          "root": "م ه م",
+          "bs": "važan/bitan",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "الْمُدِيرِ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager",
+          "lemma": "مُدِيرٌ / مُدَرَاءُ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Sjetio se toga na kraju dana prije napuštanja kancelarije.",
       "translationEn": "He remembered it at the end of the day before leaving the office.",
       "words": [
-        { "w": "تَذَكَّرَ", "root": "ذ ك ر", "bs": "sjetio se", "en": "remembered" },
-        { "w": "نِهَايَةِ", "root": "ن ه ي", "bs": "kraj/završetak", "en": "end" },
-        { "w": "الْيَوْمِ", "root": "ي و م", "bs": "dan", "en": "day" },
-        { "w": "مُغَادَرَةِ", "root": "غ د ر", "bs": "napuštanje/odlazak", "en": "leaving" },
-        { "w": "الْمَكْتَبِ", "root": "ك ت ب", "bs": "kancelarija/ured", "en": "office" }
+        {
+          "w": "تَذَكَّرَ",
+          "root": "ذ ك ر",
+          "bs": "sjetio se",
+          "en": "remembered",
+          "lemma": "تَذَكَّرَ يَتَذَكَّرُ"
+        },
+        {
+          "w": "نِهَايَةِ",
+          "root": "ن ه ي",
+          "bs": "kraj/završetak",
+          "en": "end",
+          "lemma": "نِهَايَةٌ / نِهَايَاتٌ"
+        },
+        {
+          "w": "الْيَوْمِ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "مُغَادَرَةِ",
+          "root": "غ د ر",
+          "bs": "napuštanje/odlazak",
+          "en": "leaving",
+          "lemma": "مُغَادَرَةٌ"
+        },
+        {
+          "w": "الْمَكْتَبِ",
+          "root": "ك ت ب",
+          "bs": "kancelarija/ured",
+          "en": "office",
+          "lemma": "مَكْتَبٌ / مَكَاتِبُ"
+        }
       ]
     },
     {
@@ -32,10 +92,34 @@
       "translation": "Odmah je poslao dokument i izvinio se direktoru.",
       "translationEn": "He sent the document immediately and apologised to the manager.",
       "words": [
-        { "w": "أَرْسَلَ", "root": "ر س ل", "bs": "poslao je", "en": "sent" },
-        { "w": "الْوَثِيقَةَ", "root": "و ث ق", "bs": "dokument", "en": "document" },
-        { "w": "فَوْرًا", "root": "ف و ر", "bs": "odmah", "en": "immediately" },
-        { "w": "اعْتَذَرَ", "root": "ع ذ ر", "bs": "izvinio se/ispričao se", "en": "apologised" }
+        {
+          "w": "أَرْسَلَ",
+          "root": "ر س ل",
+          "bs": "poslao je",
+          "en": "sent",
+          "lemma": "أَرْسَلَ يُرْسِلُ"
+        },
+        {
+          "w": "الْوَثِيقَةَ",
+          "root": "و ث ق",
+          "bs": "dokument",
+          "en": "document",
+          "lemma": "وَثِيقَةٌ / وَثَائِقُ"
+        },
+        {
+          "w": "فَوْرًا",
+          "root": "ف و ر",
+          "bs": "odmah",
+          "en": "immediately",
+          "lemma": "فَوْرًا"
+        },
+        {
+          "w": "اعْتَذَرَ",
+          "root": "ع ذ ر",
+          "bs": "izvinio se/ispričao se",
+          "en": "apologised",
+          "lemma": "اِعْتَذَرَ يَعْتَذِرُ"
+        }
       ]
     },
     {
@@ -43,15 +127,44 @@
       "translation": "Direktor je rekao nema problema i zahvalio mu na slanju.",
       "translationEn": "The manager said no problem and thanked him for sending it.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
-        { "w": "شَكَرَهُ", "root": "ش ك ر", "bs": "zahvalio mu je", "en": "thanked him" },
-        { "w": "الْإِرْسَالِ", "root": "ر س ل", "bs": "slanje/dostavljanje", "en": "sending" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "شَكَرَهُ",
+          "root": "ش ك ر",
+          "bs": "zahvalio mu je",
+          "en": "thanked him",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الْإِرْسَالِ",
+          "root": "ر س ل",
+          "bs": "slanje/dostavljanje",
+          "en": "sending",
+          "lemma": "إِرْسَالٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["document", "email", "apology", "office"]
+    "tags": [
+      "document",
+      "email",
+      "apology",
+      "office"
+    ]
   }
 }

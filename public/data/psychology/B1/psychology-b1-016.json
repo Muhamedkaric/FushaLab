@@ -8,10 +8,34 @@
       "translation": "Halid se osjećao dosadno u dugom danu odmora.",
       "translationEn": "Khalid felt bored on the long holiday day.",
       "words": [
-        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjećao se", "en": "felt" },
-        { "w": "الْمَلَلِ", "root": "م ل ل", "bs": "dosada", "en": "boredom" },
-        { "w": "الْعُطْلَةِ", "root": "ع ط ل", "bs": "odmor", "en": "holiday" },
-        { "w": "الطَّوِيلِ", "root": "ط و ل", "bs": "dugi", "en": "long" }
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjećao se",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الْمَلَلِ",
+          "root": "م ل ل",
+          "bs": "dosada",
+          "en": "boredom",
+          "lemma": "مَلَلٌ"
+        },
+        {
+          "w": "الْعُطْلَةِ",
+          "root": "ع ط ل",
+          "bs": "odmor",
+          "en": "holiday",
+          "lemma": "عُطْلَةٌ / عُطَلٌ"
+        },
+        {
+          "w": "الطَّوِيلِ",
+          "root": "ط و ل",
+          "bs": "dugi",
+          "en": "long",
+          "lemma": "طَوِيلٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Nije znao šta da radi sa svojim vremenom.",
       "translationEn": "He did not know what to do with his time.",
       "words": [
-        { "w": "يَعْرِفُ", "root": "ع ر ف", "bs": "zna", "en": "knows" },
-        { "w": "يَفْعَلُ", "root": "ف ع ل", "bs": "radi", "en": "do" },
-        { "w": "وَقْتِهِ", "root": "و ق ت", "bs": "njegovo vrijeme", "en": "his time" }
+        {
+          "w": "يَعْرِفُ",
+          "root": "ع ر ف",
+          "bs": "zna",
+          "en": "knows",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "يَفْعَلُ",
+          "root": "ف ع ل",
+          "bs": "radi",
+          "en": "do",
+          "lemma": "فَعَلَ يَفْعَلُ"
+        },
+        {
+          "w": "وَقْتِهِ",
+          "root": "و ق ت",
+          "bs": "njegovo vrijeme",
+          "en": "his time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        }
       ]
     },
     {
@@ -29,11 +71,41 @@
       "translation": "Odlučio je da čita knjigu koju je pronašao na polici.",
       "translationEn": "He decided to read a book he found on the shelf.",
       "words": [
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
-        { "w": "يَقْرَأَ", "root": "ق ر أ", "bs": "čita", "en": "read" },
-        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjigu", "en": "a book" },
-        { "w": "وَجَدَهُ", "root": "و ج د", "bs": "pronašao ga je", "en": "found" },
-        { "w": "الرَّفِّ", "root": "ر ف ف", "bs": "polica", "en": "the shelf" }
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "يَقْرَأَ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjigu",
+          "en": "a book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "وَجَدَهُ",
+          "root": "و ج د",
+          "bs": "pronašao ga je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الرَّفِّ",
+          "root": "ر ف ف",
+          "bs": "polica",
+          "en": "the shelf",
+          "lemma": "رَفٌّ / رُفُوفٌ"
+        }
       ]
     },
     {
@@ -41,16 +113,50 @@
       "translation": "Nakon sat vremena zaboravio je dosadu i nastavio čitati.",
       "translationEn": "After an hour he forgot the boredom and continued reading.",
       "words": [
-        { "w": "سَاعَةٍ", "root": "س و ع", "bs": "sat", "en": "an hour" },
-        { "w": "نَسِيَ", "root": "ن س ي", "bs": "zaboravio je", "en": "forgot" },
-        { "w": "الْمَلَلَ", "root": "م ل ل", "bs": "dosadu", "en": "boredom" },
-        { "w": "اسْتَمَرَّ", "root": "م ر ر", "bs": "nastavio je", "en": "continued" },
-        { "w": "الْقِرَاءَةِ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" }
+        {
+          "w": "سَاعَةٍ",
+          "root": "س و ع",
+          "bs": "sat",
+          "en": "an hour",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "نَسِيَ",
+          "root": "ن س ي",
+          "bs": "zaboravio je",
+          "en": "forgot",
+          "lemma": "نَسِيَ يَنْسَى"
+        },
+        {
+          "w": "الْمَلَلَ",
+          "root": "م ل ل",
+          "bs": "dosadu",
+          "en": "boredom",
+          "lemma": "مَلَلٌ"
+        },
+        {
+          "w": "اسْتَمَرَّ",
+          "root": "م ر ر",
+          "bs": "nastavio je",
+          "en": "continued",
+          "lemma": "اِسْتَمَرَّ يَسْتَمِرُّ"
+        },
+        {
+          "w": "الْقِرَاءَةِ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading",
+          "lemma": "قِرَاءَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["boredom", "reading", "motivation"]
+    "tags": [
+      "boredom",
+      "reading",
+      "motivation"
+    ]
   }
 }

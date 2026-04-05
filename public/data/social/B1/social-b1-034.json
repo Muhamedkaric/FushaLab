@@ -8,8 +8,20 @@
       "translation": "Abdullah je otišao kod berbera.",
       "translationEn": "Abdullah went to the barber.",
       "words": [
-        { "w": "ذَهَبَ", "root": "ذ هـ ب", "bs": "otišao je", "en": "went" },
-        { "w": "الحَلَّاقِ", "root": "ح ل ق", "bs": "berbera", "en": "barber" }
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ هـ ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الحَلَّاقِ",
+          "root": "ح ل ق",
+          "bs": "berbera",
+          "en": "barber",
+          "lemma": "حَلَّاقٌ / حَلَّاقُونَ"
+        }
       ]
     },
     {
@@ -17,9 +29,27 @@
       "translation": "Rekao je da želi kratku frizuru.",
       "translationEn": "He said he wanted a short haircut.",
       "words": [
-        { "w": "يُرِيدُ", "root": "ر و د", "bs": "želi", "en": "wants" },
-        { "w": "قَصَّةً", "root": "ق ص ص", "bs": "frizuru", "en": "haircut" },
-        { "w": "قَصِيرَةً", "root": "ق ص ر", "bs": "kratku", "en": "short" }
+        {
+          "w": "يُرِيدُ",
+          "root": "ر و د",
+          "bs": "želi",
+          "en": "wants",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "قَصَّةً",
+          "root": "ق ص ص",
+          "bs": "frizuru",
+          "en": "haircut",
+          "lemma": "قَصَّةٌ / قَصَّاتٌ"
+        },
+        {
+          "w": "قَصِيرَةً",
+          "root": "ق ص ر",
+          "bs": "kratku",
+          "en": "short",
+          "lemma": "قَصِيرٌ"
+        }
       ]
     },
     {
@@ -27,10 +57,34 @@
       "translation": "Berber mu je pažljivo ošišao kosu.",
       "translationEn": "The barber cut his hair carefully.",
       "words": [
-        { "w": "قَصَّ", "root": "ق ص ص", "bs": "ošišao je", "en": "cut" },
-        { "w": "الحَلَّاقُ", "root": "ح ل ق", "bs": "berber", "en": "barber" },
-        { "w": "شَعْرَهُ", "root": "ش ع ر", "bs": "kosu", "en": "hair" },
-        { "w": "بِعِنَايَةٍ", "root": "ع ن ي", "bs": "pažljivo", "en": "carefully" }
+        {
+          "w": "قَصَّ",
+          "root": "ق ص ص",
+          "bs": "ošišao je",
+          "en": "cut",
+          "lemma": "قَصَّ يَقُصُّ"
+        },
+        {
+          "w": "الحَلَّاقُ",
+          "root": "ح ل ق",
+          "bs": "berber",
+          "en": "barber",
+          "lemma": "حَلَّاقٌ / حَلَّاقُونَ"
+        },
+        {
+          "w": "شَعْرَهُ",
+          "root": "ش ع ر",
+          "bs": "kosu",
+          "en": "hair",
+          "lemma": "شَعْرٌ / أَشْعَارٌ"
+        },
+        {
+          "w": "بِعِنَايَةٍ",
+          "root": "ع ن ي",
+          "bs": "pažljivo",
+          "en": "carefully",
+          "lemma": "عِنَايَةٌ"
+        }
       ]
     },
     {
@@ -38,10 +92,34 @@
       "translation": "Abdullah je pogledao u ogledalo i svidio mu se izgled.",
       "translationEn": "Abdullah looked in the mirror and liked the look.",
       "words": [
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "pogledao je", "en": "looked" },
-        { "w": "المِرْآةِ", "root": "ر أ ي", "bs": "ogledalo", "en": "mirror" },
-        { "w": "أَعْجَبَهُ", "root": "ع ج ب", "bs": "svidio mu se", "en": "he liked" },
-        { "w": "الشَّكْلُ", "root": "ش ك ل", "bs": "izgled", "en": "look" }
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "pogledao je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "المِرْآةِ",
+          "root": "ر أ ي",
+          "bs": "ogledalo",
+          "en": "mirror",
+          "lemma": "مِرْآةٌ / مَرَايَا"
+        },
+        {
+          "w": "أَعْجَبَهُ",
+          "root": "ع ج ب",
+          "bs": "svidio mu se",
+          "en": "he liked",
+          "lemma": "أَعْجَبَ يُعْجِبُ"
+        },
+        {
+          "w": "الشَّكْلُ",
+          "root": "ش ك ل",
+          "bs": "izgled",
+          "en": "look",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        }
       ]
     },
     {
@@ -49,9 +127,27 @@
       "translation": "Platio je i zahvalio berberu.",
       "translationEn": "He paid and thanked the barber.",
       "words": [
-        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
-        { "w": "الحَلَّاقَ", "root": "ح ل ق", "bs": "berberu", "en": "barber" }
+        {
+          "w": "دَفَعَ",
+          "root": "د ف ع",
+          "bs": "platio je",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الحَلَّاقَ",
+          "root": "ح ل ق",
+          "bs": "berberu",
+          "en": "barber",
+          "lemma": "حَلَّاقٌ / حَلَّاقُونَ"
+        }
       ]
     }
   ],

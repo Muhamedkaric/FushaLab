@@ -8,9 +8,27 @@
       "translation": "Djed je rekao: «Komšija prije kuće».",
       "translationEn": "The grandfather said: «Choose the neighbor before the house».",
       "words": [
-        { "w": "الْجَدُّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
-        { "w": "الْجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
-        { "w": "الدَّارِ", "root": "د و ر", "bs": "kuća", "en": "house" }
+        {
+          "w": "الْجَدُّ",
+          "root": "ج د د",
+          "bs": "djed",
+          "en": "grandfather",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        },
+        {
+          "w": "الْجَارُ",
+          "root": "ج و ر",
+          "bs": "komšija",
+          "en": "neighbor",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "الدَّارِ",
+          "root": "د و ر",
+          "bs": "kuća",
+          "en": "house",
+          "lemma": "دَارٌ / دُورٌ"
+        }
       ]
     },
     {
@@ -18,11 +36,41 @@
       "translation": "To znači da je dobar komšija važniji od lijepe kuće.",
       "translationEn": "This means that a good neighbor is more important than a beautiful house.",
       "words": [
-        { "w": "الْجَارَ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
-        { "w": "الطَّيِّبَ", "root": "ط ي ب", "bs": "dobar", "en": "good" },
-        { "w": "أَهَمُّ", "root": "ه م م", "bs": "važniji", "en": "more important" },
-        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "house" },
-        { "w": "الْجَمِيلِ", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" }
+        {
+          "w": "الْجَارَ",
+          "root": "ج و ر",
+          "bs": "komšija",
+          "en": "neighbor",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "الطَّيِّبَ",
+          "root": "ط ي ب",
+          "bs": "dobar",
+          "en": "good",
+          "lemma": "طَيِّبٌ"
+        },
+        {
+          "w": "أَهَمُّ",
+          "root": "ه م م",
+          "bs": "važniji",
+          "en": "more important",
+          "lemma": "أَهَمُّ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "الْجَمِيلِ",
+          "root": "ج م ل",
+          "bs": "lijepa",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Komšija je pomogao starijoj ženi kada se razbolila.",
       "translationEn": "The neighbor helped the old woman when she got sick.",
       "words": [
-        { "w": "سَاعَدَ", "root": "س ع د", "bs": "pomogao je", "en": "helped" },
-        { "w": "الْجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
-        { "w": "الْعَجُوزَةَ", "root": "ع ج ز", "bs": "starija žena", "en": "old woman" },
-        { "w": "مَرِضَتْ", "root": "م ر ض", "bs": "razbolila se", "en": "got sick" }
+        {
+          "w": "سَاعَدَ",
+          "root": "س ع د",
+          "bs": "pomogao je",
+          "en": "helped",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "الْجَارُ",
+          "root": "ج و ر",
+          "bs": "komšija",
+          "en": "neighbor",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "الْعَجُوزَةَ",
+          "root": "ع ج ز",
+          "bs": "starija žena",
+          "en": "old woman",
+          "lemma": "عَجُوزٌ / عَجَائِزُ"
+        },
+        {
+          "w": "مَرِضَتْ",
+          "root": "م ر ض",
+          "bs": "razbolila se",
+          "en": "got sick",
+          "lemma": "مَرِضَ يَمْرَضُ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Osjećala se sretno jer ima dobre komšije.",
       "translationEn": "She felt happy because she has good neighbors.",
       "words": [
-        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjećala se", "en": "felt" },
-        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happiness" },
-        { "w": "جِيرَانًا", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
-        { "w": "طَيِّبِينَ", "root": "ط ي ب", "bs": "dobre", "en": "good" }
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjećala se",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "السَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sreća",
+          "en": "happiness",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
+          "w": "جِيرَانًا",
+          "root": "ج و ر",
+          "bs": "komšije",
+          "en": "neighbors",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "طَيِّبِينَ",
+          "root": "ط ي ب",
+          "bs": "dobre",
+          "en": "good",
+          "lemma": "طَيِّبٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["neighbors", "proverb", "community"]
+    "tags": [
+      "neighbors",
+      "proverb",
+      "community"
+    ]
   }
 }

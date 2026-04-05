@@ -8,10 +8,34 @@
       "translation": "Mayad je pronašla staru fotografiju u knjizi.",
       "translationEn": "Mayad found an old photo in a book.",
       "words": [
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
-        { "w": "صُورَةً", "root": "ص و ر", "bs": "fotografiju", "en": "photo" },
-        { "w": "قَدِيمَةً", "root": "ق د م", "bs": "staru", "en": "old" },
-        { "w": "كِتَابٍ", "root": "ك ت ب", "bs": "knjizi", "en": "book" }
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "she found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "صُورَةً",
+          "root": "ص و ر",
+          "bs": "fotografiju",
+          "en": "photo",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "قَدِيمَةً",
+          "root": "ق د م",
+          "bs": "staru",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "كِتَابٍ",
+          "root": "ك ت ب",
+          "bs": "knjizi",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Na njoj je bio muškarac koji se smiješi ispred njihove kuće.",
       "translationEn": "It showed a man smiling in front of their house.",
       "words": [
-        { "w": "رَجُلٌ", "root": "ر ج ل", "bs": "muškarac", "en": "man" },
-        { "w": "يَبْتَسِمُ", "root": "ب س م", "bs": "smiješi se", "en": "smiling" },
-        { "w": "بَيْتِهِمْ", "root": "ب ي ت", "bs": "kuće", "en": "their house" }
+        {
+          "w": "رَجُلٌ",
+          "root": "ر ج ل",
+          "bs": "muškarac",
+          "en": "man",
+          "lemma": "رَجُلٌ / رِجَالٌ"
+        },
+        {
+          "w": "يَبْتَسِمُ",
+          "root": "ب س م",
+          "bs": "smiješi se",
+          "en": "smiling",
+          "lemma": "اِبْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "بَيْتِهِمْ",
+          "root": "ب ي ت",
+          "bs": "kuće",
+          "en": "their house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Mayad ga nije znala i pitala je baku.",
       "translationEn": "Mayad did not recognise him and asked her grandmother.",
       "words": [
-        { "w": "تَعْرِفْهُ", "root": "ع ر ف", "bs": "znala ga je", "en": "she recognised him" },
-        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "she asked" },
-        { "w": "جَدَّتَهَا", "root": "ج د د", "bs": "baku", "en": "her grandmother" }
+        {
+          "w": "تَعْرِفْهُ",
+          "root": "ع ر ف",
+          "bs": "znala ga je",
+          "en": "she recognised him",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "سَأَلَتْ",
+          "root": "س أ ل",
+          "bs": "pitala je",
+          "en": "she asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "جَدَّتَهَا",
+          "root": "ج د د",
+          "bs": "baku",
+          "en": "her grandmother",
+          "lemma": "جَدَّةٌ / جَدَّاتٌ"
+        }
       ]
     },
     {
@@ -39,10 +99,34 @@
       "translation": "Baka je rekla sa suzama: Ovo je tvoj djed u mladosti.",
       "translationEn": "The grandmother said with tears: This is your grandfather in his youth.",
       "words": [
-        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "she said" },
-        { "w": "بِدُمُوعٍ", "root": "د م ع", "bs": "sa suzama", "en": "with tears" },
-        { "w": "جَدُّكِ", "root": "ج د د", "bs": "djed", "en": "your grandfather" },
-        { "w": "شَبَابِهِ", "root": "ش ب ب", "bs": "mladosti", "en": "his youth" }
+        {
+          "w": "قَالَتِ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "she said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "بِدُمُوعٍ",
+          "root": "د م ع",
+          "bs": "sa suzama",
+          "en": "with tears",
+          "lemma": "دَمْعَةٌ / دُمُوعٌ"
+        },
+        {
+          "w": "جَدُّكِ",
+          "root": "ج د د",
+          "bs": "djed",
+          "en": "your grandfather",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        },
+        {
+          "w": "شَبَابِهِ",
+          "root": "ش ب ب",
+          "bs": "mladosti",
+          "en": "his youth",
+          "lemma": "شَبَابٌ"
+        }
       ]
     },
     {
@@ -50,15 +134,44 @@
       "translation": "Sjedile su i pričale o lijepim uspomenama.",
       "translationEn": "They sat and talked about beautiful memories.",
       "words": [
-        { "w": "جَلَسَتَا", "root": "ج ل س", "bs": "sjedile su", "en": "they sat" },
-        { "w": "تَحَدَّثَتَا", "root": "ح د ث", "bs": "pričale su", "en": "they talked" },
-        { "w": "الذِّكْرَيَاتِ", "root": "ذ ك ر", "bs": "uspomenama", "en": "memories" },
-        { "w": "الْجَمِيلَةِ", "root": "ج م ل", "bs": "lijepim", "en": "beautiful" }
+        {
+          "w": "جَلَسَتَا",
+          "root": "ج ل س",
+          "bs": "sjedile su",
+          "en": "they sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "تَحَدَّثَتَا",
+          "root": "ح د ث",
+          "bs": "pričale su",
+          "en": "they talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "الذِّكْرَيَاتِ",
+          "root": "ذ ك ر",
+          "bs": "uspomenama",
+          "en": "memories",
+          "lemma": "ذِكْرَى / ذِكْرَيَاتٌ"
+        },
+        {
+          "w": "الْجَمِيلَةِ",
+          "root": "ج م ل",
+          "bs": "lijepim",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "old-photo", "family", "memories"]
+    "tags": [
+      "mystery",
+      "old-photo",
+      "family",
+      "memories"
+    ]
   }
 }

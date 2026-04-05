@@ -8,10 +8,34 @@
       "translation": "Djevojčica po imenu Ranija pronašla je novčanik na tlu.",
       "translationEn": "A girl named Rania found a wallet on the ground.",
       "words": [
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
-        { "w": "طِفْلَةٌ", "root": "ط ف ل", "bs": "djevojčica", "en": "girl" },
-        { "w": "مَحْفَظَةً", "root": "ح ف ظ", "bs": "novčanik", "en": "wallet" },
-        { "w": "الأَرْضِ", "root": "أ ر ض", "bs": "tlo", "en": "ground" }
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "طِفْلَةٌ",
+          "root": "ط ف ل",
+          "bs": "djevojčica",
+          "en": "girl",
+          "lemma": "طِفْلَةٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "مَحْفَظَةً",
+          "root": "ح ف ظ",
+          "bs": "novčanik",
+          "en": "wallet",
+          "lemma": "مَحْفَظَةٌ / مَحَافِظُ"
+        },
+        {
+          "w": "الأَرْضِ",
+          "root": "أ ر ض",
+          "bs": "tlo",
+          "en": "ground",
+          "lemma": "أَرْضٌ / أَرَاضٍ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "U novčaniku je bio novac i kartica s imenom vlasnika.",
       "translationEn": "The wallet had money and a card with the owner's name.",
       "words": [
-        { "w": "الْمَحْفَظَةِ", "root": "ح ف ظ", "bs": "novčanik", "en": "wallet" },
-        { "w": "مَالٌ", "root": "م و ل", "bs": "novac", "en": "money" },
-        { "w": "بِطَاقَةٌ", "root": "ب ط ق", "bs": "kartica", "en": "card" },
-        { "w": "صَاحِبِهَا", "root": "ص ح ب", "bs": "vlasnik", "en": "owner" }
+        {
+          "w": "الْمَحْفَظَةِ",
+          "root": "ح ف ظ",
+          "bs": "novčanik",
+          "en": "wallet",
+          "lemma": "مَحْفَظَةٌ / مَحَافِظُ"
+        },
+        {
+          "w": "مَالٌ",
+          "root": "م و ل",
+          "bs": "novac",
+          "en": "money",
+          "lemma": "مَالٌ / أَمْوَالٌ"
+        },
+        {
+          "w": "بِطَاقَةٌ",
+          "root": "ب ط ق",
+          "bs": "kartica",
+          "en": "card",
+          "lemma": "بِطَاقَةٌ / بِطَاقَاتٌ"
+        },
+        {
+          "w": "صَاحِبِهَا",
+          "root": "ص ح ب",
+          "bs": "vlasnik",
+          "en": "owner",
+          "lemma": "صَاحِبٌ / أَصْحَابٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Ranija je otišla policajcu i dala mu novčanik.",
       "translationEn": "Rania went to the police officer and gave him the wallet.",
       "words": [
-        { "w": "ذَهَبَتْ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
-        { "w": "الشُّرْطِيِّ", "root": "ش ر ط", "bs": "policajac", "en": "police officer" },
-        { "w": "أَعْطَتْهُ", "root": "ع ط ي", "bs": "dala mu je", "en": "gave him" },
-        { "w": "الْمَحْفَظَةَ", "root": "ح ف ظ", "bs": "novčanik", "en": "wallet" }
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الشُّرْطِيِّ",
+          "root": "ش ر ط",
+          "bs": "policajac",
+          "en": "police officer",
+          "lemma": "شُرْطِيٌّ / شُرْطَةٌ"
+        },
+        {
+          "w": "أَعْطَتْهُ",
+          "root": "ع ط ي",
+          "bs": "dala mu je",
+          "en": "gave him",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "الْمَحْفَظَةَ",
+          "root": "ح ف ظ",
+          "bs": "novčanik",
+          "en": "wallet",
+          "lemma": "مَحْفَظَةٌ / مَحَافِظُ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Policajac je pronašao vlasnika novčanika i pohvalio Raniju.",
       "translationEn": "The police officer found the wallet's owner and praised Rania.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
-        { "w": "الشُّرْطِيُّ", "root": "ش ر ط", "bs": "policajac", "en": "police officer" },
-        { "w": "صَاحِبَ", "root": "ص ح ب", "bs": "vlasnik", "en": "owner" },
-        { "w": "أَثْنَى", "root": "ث ن ي", "bs": "pohvalio je", "en": "praised" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الشُّرْطِيُّ",
+          "root": "ش ر ط",
+          "bs": "policajac",
+          "en": "police officer",
+          "lemma": "شُرْطِيٌّ / شُرْطَةٌ"
+        },
+        {
+          "w": "صَاحِبَ",
+          "root": "ص ح ب",
+          "bs": "vlasnik",
+          "en": "owner",
+          "lemma": "صَاحِبٌ / أَصْحَابٌ"
+        },
+        {
+          "w": "أَثْنَى",
+          "root": "ث ن ي",
+          "bs": "pohvalio je",
+          "en": "praised",
+          "lemma": "أَثْنَى يُثْنِي"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["honesty", "girl", "wallet", "police"]
+    "tags": [
+      "honesty",
+      "girl",
+      "wallet",
+      "police"
+    ]
   }
 }

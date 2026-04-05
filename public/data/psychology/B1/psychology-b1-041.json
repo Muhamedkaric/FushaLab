@@ -8,10 +8,34 @@
       "translation": "Ghusun nije pronašla prijatelje u novom razredu.",
       "translationEn": "Ghusun did not find friends in the new class.",
       "words": [
-        { "w": "تَجِدْ", "root": "و ج د", "bs": "pronašla je", "en": "find" },
-        { "w": "أَصْدِقَاءَ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
-        { "w": "الصَّفِّ", "root": "ص ف ف", "bs": "razred", "en": "class" },
-        { "w": "الْجَدِيدِ", "root": "ج د د", "bs": "novi", "en": "new" }
+        {
+          "w": "تَجِدْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "find",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "أَصْدِقَاءَ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "الصَّفِّ",
+          "root": "ص ف ف",
+          "bs": "razred",
+          "en": "class",
+          "lemma": "صَفٌّ / صُفُوفٌ"
+        },
+        {
+          "w": "الْجَدِيدِ",
+          "root": "ج د د",
+          "bs": "novi",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Osjećala se usamljeno u prvim sedmicama.",
       "translationEn": "She felt lonely in the first weeks.",
       "words": [
-        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjećala se", "en": "felt" },
-        { "w": "الْوَحْدَةِ", "root": "و ح د", "bs": "usamljenost", "en": "loneliness" },
-        { "w": "الأَسَابِيعِ", "root": "س ب ع", "bs": "sedmice", "en": "weeks" }
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjećala se",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الْوَحْدَةِ",
+          "root": "و ح د",
+          "bs": "usamljenost",
+          "en": "loneliness",
+          "lemma": "وَحْدَةٌ"
+        },
+        {
+          "w": "الأَسَابِيعِ",
+          "root": "س ب ع",
+          "bs": "sedmice",
+          "en": "weeks",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Odlučila je da sama počne i razgovara sa drugaricama.",
       "translationEn": "She decided to take the initiative and speak to her classmates.",
       "words": [
-        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
-        { "w": "تَبْدَأَ", "root": "ب د أ", "bs": "da počne", "en": "to start" },
-        { "w": "تُكَلِّمَ", "root": "ك ل م", "bs": "da razgovara", "en": "to speak" },
-        { "w": "زَمِيلَاتِهَا", "root": "ز م ل", "bs": "njene drugarice", "en": "her classmates" }
+        {
+          "w": "قَرَّرَتْ",
+          "root": "ق ر ر",
+          "bs": "odlučila je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "تَبْدَأَ",
+          "root": "ب د أ",
+          "bs": "da počne",
+          "en": "to start",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "تُكَلِّمَ",
+          "root": "ك ل م",
+          "bs": "da razgovara",
+          "en": "to speak",
+          "lemma": "كَلَّمَ يُكَلِّمُ"
+        },
+        {
+          "w": "زَمِيلَاتِهَا",
+          "root": "ز م ل",
+          "bs": "njene drugarice",
+          "en": "her classmates",
+          "lemma": "زَمِيلَةٌ / زَمِيلَاتٌ"
+        }
       ]
     },
     {
@@ -40,14 +106,36 @@
       "translation": "Polako je izgradila lijepa prijateljstva.",
       "translationEn": "Little by little she built beautiful friendships.",
       "words": [
-        { "w": "بَنَتْ", "root": "ب ن ي", "bs": "izgradila je", "en": "built" },
-        { "w": "صَدَاقَاتٍ", "root": "ص د ق", "bs": "prijateljstva", "en": "friendships" },
-        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" }
+        {
+          "w": "بَنَتْ",
+          "root": "ب ن ي",
+          "bs": "izgradila je",
+          "en": "built",
+          "lemma": "بَنَى يَبْنِي"
+        },
+        {
+          "w": "صَدَاقَاتٍ",
+          "root": "ص د ق",
+          "bs": "prijateljstva",
+          "en": "friendships",
+          "lemma": "صَدَاقَةٌ / صَدَاقَاتٌ"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijepa",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["loneliness", "new school", "friendship"]
+    "tags": [
+      "loneliness",
+      "new school",
+      "friendship"
+    ]
   }
 }

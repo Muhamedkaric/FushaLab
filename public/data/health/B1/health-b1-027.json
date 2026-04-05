@@ -12,25 +12,29 @@
           "w": "قَرَّرَ",
           "root": "ق ر ر",
           "bs": "odlučio je",
-          "en": "decided"
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
         },
         {
           "w": "يَتَوَقَّفَ",
           "root": "و ق ف",
           "bs": "prestati",
-          "en": "to stop"
+          "en": "to stop",
+          "lemma": "تَوَقَّفَ يَتَوَقَّفُ"
         },
         {
           "w": "السُّكَّرِيَّاتِ",
           "root": "س ك ر",
           "bs": "šećer",
-          "en": "sugar"
+          "en": "sugar",
+          "lemma": "سُكَّرِيَّاتٌ"
         },
         {
           "w": "لِشَهْرٍ",
           "root": "ش ه ر",
           "bs": "na mjesec dana",
-          "en": "for a month"
+          "en": "for a month",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
         }
       ]
     },
@@ -43,19 +47,22 @@
           "w": "الْأُسْبُوعِ",
           "root": "س ب ع",
           "bs": "sedmica",
-          "en": "week"
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
         },
         {
           "w": "الْأَوَّلِ",
           "root": "أ و ل",
           "bs": "prva",
-          "en": "first"
+          "en": "first",
+          "lemma": "أَوَّلُ"
         },
         {
           "w": "صَعْبًا",
           "root": "ص ع ب",
           "bs": "teško",
-          "en": "hard"
+          "en": "hard",
+          "lemma": "صَعْبٌ"
         }
       ]
     },
@@ -68,31 +75,36 @@
           "w": "أَكَلَ",
           "root": "أ ك ل",
           "bs": "jeo je",
-          "en": "ate"
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "الْفَاكِهَةَ",
           "root": "ف ك ه",
           "bs": "voće",
-          "en": "fruit"
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
         },
         {
           "w": "بَدَلَ",
           "root": "ب د ل",
           "bs": "umjesto",
-          "en": "instead of"
+          "en": "instead of",
+          "lemma": "بَدَلٌ"
         },
         {
           "w": "الْحَلْوَى",
           "root": "ح ل و",
           "bs": "slatkiši",
-          "en": "sweets"
+          "en": "sweets",
+          "lemma": "حَلْوَى"
         },
         {
           "w": "جَاعَ",
           "root": "ج و ع",
           "bs": "ogladnio",
-          "en": "was hungry"
+          "en": "was hungry",
+          "lemma": "جَاعَ يَجُوعُ"
         }
       ]
     },
@@ -105,25 +117,29 @@
           "w": "شَعَرَ",
           "root": "ش ع ر",
           "bs": "osjetio je",
-          "en": "felt"
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
         },
         {
           "w": "بِتَحَسُّنٍ",
           "root": "ح س ن",
           "bs": "poboljšanje",
-          "en": "improvement"
+          "en": "improvement",
+          "lemma": "تَحَسُّنٌ"
         },
         {
           "w": "طَاقَتِهِ",
           "root": "ط و ق",
           "bs": "energija",
-          "en": "energy"
+          "en": "energy",
+          "lemma": "طَاقَةٌ / طَاقَاتٌ"
         },
         {
           "w": "وَزْنِهِ",
           "root": "و ز ن",
           "bs": "težina",
-          "en": "weight"
+          "en": "weight",
+          "lemma": "وَزْنٌ / أَوْزَانٌ"
         }
       ]
     }

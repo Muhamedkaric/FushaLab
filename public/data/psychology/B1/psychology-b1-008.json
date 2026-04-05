@@ -8,11 +8,41 @@
       "translation": "Dobar san je važan za zdravlje uma.",
       "translationEn": "Good sleep is important for the health of the mind.",
       "words": [
-        { "w": "النَّوْمُ", "root": "ن و م", "bs": "san", "en": "sleep" },
-        { "w": "الْجَيِّدُ", "root": "ج ي د", "bs": "dobar", "en": "good" },
-        { "w": "مُهِمٌّ", "root": "ه م م", "bs": "važan", "en": "important" },
-        { "w": "صِحَّةِ", "root": "ص ح ح", "bs": "zdravlje", "en": "health" },
-        { "w": "الْعَقْلِ", "root": "ع ق ل", "bs": "um", "en": "the mind" }
+        {
+          "w": "النَّوْمُ",
+          "root": "ن و م",
+          "bs": "san",
+          "en": "sleep",
+          "lemma": "نَوْمٌ"
+        },
+        {
+          "w": "الْجَيِّدُ",
+          "root": "ج ي د",
+          "bs": "dobar",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "root": "ه م م",
+          "bs": "važan",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "صِحَّةِ",
+          "root": "ص ح ح",
+          "bs": "zdravlje",
+          "en": "health",
+          "lemma": "صِحَّةٌ"
+        },
+        {
+          "w": "الْعَقْلِ",
+          "root": "ع ق ل",
+          "bs": "um",
+          "en": "the mind",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Kada čovjek ne spava dobro osjeća umor i napetost.",
       "translationEn": "When a person does not sleep well they feel tired and tense.",
       "words": [
-        { "w": "يَنَامُ", "root": "ن و م", "bs": "spava", "en": "sleeps" },
-        { "w": "الإِنْسَانُ", "root": "أ ن س", "bs": "čovjek", "en": "a person" },
-        { "w": "يَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
-        { "w": "التَّعَبِ", "root": "ت ع ب", "bs": "umor", "en": "tiredness" },
-        { "w": "التَّوَتُّرِ", "root": "و ت ر", "bs": "napetost", "en": "tension" }
+        {
+          "w": "يَنَامُ",
+          "root": "ن و م",
+          "bs": "spava",
+          "en": "sleeps",
+          "lemma": "نَامَ يَنَامُ"
+        },
+        {
+          "w": "الإِنْسَانُ",
+          "root": "أ ن س",
+          "bs": "čovjek",
+          "en": "a person",
+          "lemma": "إِنْسَانٌ / نَاسٌ"
+        },
+        {
+          "w": "يَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "التَّعَبِ",
+          "root": "ت ع ب",
+          "bs": "umor",
+          "en": "tiredness",
+          "lemma": "تَعَبٌ"
+        },
+        {
+          "w": "التَّوَتُّرِ",
+          "root": "و ت ر",
+          "bs": "napetost",
+          "en": "tension",
+          "lemma": "تَوَتُّرٌ"
+        }
       ]
     },
     {
@@ -32,10 +92,34 @@
       "translation": "Dina je spavala osam sati i probudila se aktivno.",
       "translationEn": "Dina slept eight hours and woke up energetically.",
       "words": [
-        { "w": "نَامَتْ", "root": "ن و م", "bs": "spavala je", "en": "slept" },
-        { "w": "سَاعَاتٍ", "root": "س و ع", "bs": "sati", "en": "hours" },
-        { "w": "اسْتَيْقَظَتْ", "root": "ي ق ظ", "bs": "probudila se", "en": "woke up" },
-        { "w": "نَشَاطٍ", "root": "ن ش ط", "bs": "aktivnost", "en": "energy" }
+        {
+          "w": "نَامَتْ",
+          "root": "ن و م",
+          "bs": "spavala je",
+          "en": "slept",
+          "lemma": "نَامَ يَنَامُ"
+        },
+        {
+          "w": "سَاعَاتٍ",
+          "root": "س و ع",
+          "bs": "sati",
+          "en": "hours",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "اسْتَيْقَظَتْ",
+          "root": "ي ق ظ",
+          "bs": "probudila se",
+          "en": "woke up",
+          "lemma": "اسْتَيْقَظَ يَسْتَيْقِظُ"
+        },
+        {
+          "w": "نَشَاطٍ",
+          "root": "ن ش ط",
+          "bs": "aktivnost",
+          "en": "energy",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
+        }
       ]
     },
     {
@@ -43,14 +127,36 @@
       "translation": "Koncentracija joj je bila bolja u školi tog dana.",
       "translationEn": "Her concentration at school was better that day.",
       "words": [
-        { "w": "تَرْكِيزُهَا", "root": "ر ك ز", "bs": "njena koncentracija", "en": "her concentration" },
-        { "w": "الْمَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" },
-        { "w": "أَفْضَلَ", "root": "ف ض ل", "bs": "bolja", "en": "better" }
+        {
+          "w": "تَرْكِيزُهَا",
+          "root": "ر ك ز",
+          "bs": "njena koncentracija",
+          "en": "her concentration",
+          "lemma": "تَرْكِيزٌ"
+        },
+        {
+          "w": "الْمَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        },
+        {
+          "w": "أَفْضَلَ",
+          "root": "ف ض ل",
+          "bs": "bolja",
+          "en": "better",
+          "lemma": "أَفْضَلُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sleep", "wellbeing", "mind"]
+    "tags": [
+      "sleep",
+      "wellbeing",
+      "mind"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Saeed je htio kupiti kartu za autobus.",
       "translationEn": "Saeed wanted to buy a bus ticket.",
       "words": [
-        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
-        { "w": "يَشْتَرِيَ", "root": "ش ر ي", "bs": "kupiti", "en": "to buy" },
-        { "w": "تَذْكِرَةَ", "root": "ذ ك ر", "bs": "karta", "en": "ticket" },
-        { "w": "الْحَافِلَةِ", "root": "ح ف ل", "bs": "autobus", "en": "bus" }
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "يَشْتَرِيَ",
+          "root": "ش ر ي",
+          "bs": "kupiti",
+          "en": "to buy",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "تَذْكِرَةَ",
+          "root": "ذ ك ر",
+          "bs": "karta",
+          "en": "ticket",
+          "lemma": "تَذْكِرَةٌ / تَذَاكِرُ"
+        },
+        {
+          "w": "الْحَافِلَةِ",
+          "root": "ح ف ل",
+          "bs": "autobus",
+          "en": "bus",
+          "lemma": "حَافِلَةٌ / حَافِلَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Otišao je na šalter karata i pitao za cijenu.",
       "translationEn": "He went to the ticket window and asked about the price.",
       "words": [
-        { "w": "شِبَّاكِ", "root": "ش ب ك", "bs": "šalter / blagajna", "en": "ticket window" },
-        { "w": "التَّذَاكِرِ", "root": "ذ ك ر", "bs": "karte", "en": "tickets" },
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
-        { "w": "السِّعْرِ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+        {
+          "w": "شِبَّاكِ",
+          "root": "ش ب ك",
+          "bs": "šalter / blagajna",
+          "en": "ticket window",
+          "lemma": "شِبَّاكٌ / شَبَابِيكُ"
+        },
+        {
+          "w": "التَّذَاكِرِ",
+          "root": "ذ ك ر",
+          "bs": "karte",
+          "en": "tickets",
+          "lemma": "تَذْكِرَةٌ / تَذَاكِرُ"
+        },
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "السِّعْرِ",
+          "root": "س ع ر",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Kupio je kartu u oba smjera.",
       "translationEn": "He bought a round-trip ticket.",
       "words": [
-        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
-        { "w": "تَذْكِرَةً", "root": "ذ ك ر", "bs": "karta", "en": "ticket" },
-        { "w": "الذِّهَابِ", "root": "ذ ه ب", "bs": "odlazak", "en": "going / departure" },
-        { "w": "الْإِيَابِ", "root": "أ و ب", "bs": "povratak", "en": "return" }
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "تَذْكِرَةً",
+          "root": "ذ ك ر",
+          "bs": "karta",
+          "en": "ticket",
+          "lemma": "تَذْكِرَةٌ / تَذَاكِرُ"
+        },
+        {
+          "w": "الذِّهَابِ",
+          "root": "ذ ه ب",
+          "bs": "odlazak",
+          "en": "going / departure",
+          "lemma": "ذَهَابٌ"
+        },
+        {
+          "w": "الْإِيَابِ",
+          "root": "أ و ب",
+          "bs": "povratak",
+          "en": "return",
+          "lemma": "إِيَابٌ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Sjeo je i mirno čekao autobus.",
       "translationEn": "He sat and waited for the bus calmly.",
       "words": [
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjeo je", "en": "sat" },
-        { "w": "انْتَظَرَ", "root": "ن ظ ر", "bs": "čekao je", "en": "waited" },
-        { "w": "الْحَافِلَةَ", "root": "ح ف ل", "bs": "autobus", "en": "bus" }
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjeo je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "انْتَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "čekao je",
+          "en": "waited",
+          "lemma": "اِنْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "الْحَافِلَةَ",
+          "root": "ح ف ل",
+          "bs": "autobus",
+          "en": "bus",
+          "lemma": "حَافِلَةٌ / حَافِلَاتٌ"
+        }
       ]
     }
   ],

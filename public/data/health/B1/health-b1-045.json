@@ -12,31 +12,36 @@
           "w": "جَاءَ",
           "root": "ج ي أ",
           "bs": "došao je",
-          "en": "came"
+          "en": "came",
+          "lemma": "جَاءَ يَجِيءُ"
         },
         {
           "w": "الصَّيْدَلِيَّةِ",
           "root": "ص ي د",
           "bs": "apoteka",
-          "en": "pharmacy"
+          "en": "pharmacy",
+          "lemma": "صَيْدَلِيَّةٌ / صَيْدَلِيَّاتٌ"
         },
         {
           "w": "يَشْتَرِيَ",
           "root": "ش ر ي",
           "bs": "kupi",
-          "en": "to buy"
+          "en": "to buy",
+          "lemma": "اشْتَرَى يَشْتَرِي"
         },
         {
           "w": "دَوَاءً",
           "root": "د و ي",
           "bs": "lijek",
-          "en": "medicine"
+          "en": "medicine",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
         },
         {
           "w": "أُمِّهِ",
           "root": "أ م م",
           "bs": "majka",
-          "en": "mother"
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
         }
       ]
     },
@@ -49,31 +54,36 @@
           "w": "أَعْطَى",
           "root": "ع ط ي",
           "bs": "dao je",
-          "en": "gave"
+          "en": "gave",
+          "lemma": "أَعْطَى يُعْطِي"
         },
         {
           "w": "الصَّيْدَلَانِيَّ",
           "root": "ص ي د",
           "bs": "farmaceut",
-          "en": "pharmacist"
+          "en": "pharmacist",
+          "lemma": "صَيْدَلَانِيٌّ / صَيَادِلَةُ"
         },
         {
           "w": "وَرَقَةَ",
           "root": "و ر ق",
           "bs": "papir",
-          "en": "paper"
+          "en": "paper",
+          "lemma": "وَرَقَةٌ / أَوْرَاقٌ"
         },
         {
           "w": "الْوَصْفَةِ",
           "root": "و ص ف",
           "bs": "recept",
-          "en": "prescription"
+          "en": "prescription",
+          "lemma": "وَصْفَةٌ / وَصْفَاتٌ"
         },
         {
           "w": "الطِّبِّيَّةِ",
           "root": "ط ب ب",
           "bs": "medicinski",
-          "en": "medical"
+          "en": "medical",
+          "lemma": "طِبِّيٌّ"
         }
       ]
     },
@@ -86,25 +96,29 @@
           "w": "أَحْضَرَ",
           "root": "ح ض ر",
           "bs": "donio je",
-          "en": "brought"
+          "en": "brought",
+          "lemma": "أَحْضَرَ يُحْضِرُ"
         },
         {
           "w": "الصَّيْدَلَانِيُّ",
           "root": "ص ي د",
           "bs": "farmaceut",
-          "en": "pharmacist"
+          "en": "pharmacist",
+          "lemma": "صَيْدَلَانِيٌّ / صَيْدَلَانِيُّونَ"
         },
         {
           "w": "الدَّوَاءَ",
           "root": "د و ي",
           "bs": "lijek",
-          "en": "medicine"
+          "en": "medicine",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
         },
         {
           "w": "شَرَحَ",
           "root": "ش ر ح",
           "bs": "objasnio je",
-          "en": "explained"
+          "en": "explained",
+          "lemma": "شَرَحَ يَشْرَحُ"
         }
       ]
     },
@@ -117,31 +131,36 @@
           "w": "عَادَ",
           "root": "ع و د",
           "bs": "vratio se",
-          "en": "returned"
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
         },
         {
           "w": "بِسُرْعَةٍ",
           "root": "س ر ع",
           "bs": "brzo",
-          "en": "quickly"
+          "en": "quickly",
+          "lemma": "سُرْعَةٌ"
         },
         {
           "w": "يُعْطِيَ",
           "root": "ع ط ي",
           "bs": "da da",
-          "en": "to give"
+          "en": "to give",
+          "lemma": "أَعْطَى يُعْطِي"
         },
         {
           "w": "أُمَّهُ",
           "root": "أ م م",
           "bs": "majka",
-          "en": "mother"
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
         },
         {
           "w": "الدَّوَاءَ",
           "root": "د و ي",
           "bs": "lijek",
-          "en": "medicine"
+          "en": "medicine",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
         }
       ]
     },
@@ -154,19 +173,22 @@
           "w": "شَكَرَتْ",
           "root": "ش ك ر",
           "bs": "zahvalila je",
-          "en": "thanked"
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
         },
         {
           "w": "أُمُّهُ",
           "root": "أ م م",
           "bs": "majka",
-          "en": "mother"
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
         },
         {
           "w": "اهْتِمَامِهِ",
           "root": "ه ت م",
           "bs": "briga",
-          "en": "care"
+          "en": "care",
+          "lemma": "اهْتِمَامٌ / اهْتِمَامَاتٌ"
         }
       ]
     }

@@ -12,25 +12,29 @@
           "w": "أَطْلَقَتِ",
           "root": "ط ل ق",
           "bs": "pokrenuo je",
-          "en": "launched"
+          "en": "launched",
+          "lemma": "أَطْلَقَ يُطْلِقُ"
         },
         {
           "w": "الْمَدِينَةُ",
           "root": "م د ن",
           "bs": "grad",
-          "en": "city"
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
         },
         {
           "w": "خَطًّا",
           "root": "خ ط ط",
           "bs": "liniju",
-          "en": "line"
+          "en": "line",
+          "lemma": "خَطٌّ / خُطُوطٌ"
         },
         {
           "w": "لِلْحَافِلَاتِ",
           "root": "ح ف ل",
           "bs": "autobusa",
-          "en": "buses"
+          "en": "buses",
+          "lemma": "حَافِلَةٌ / حَافِلَاتٌ"
         }
       ]
     },
@@ -43,25 +47,29 @@
           "w": "يَرْبِطُ",
           "root": "ر ب ط",
           "bs": "povezuje",
-          "en": "connects"
+          "en": "connects",
+          "lemma": "رَبَطَ يَرْبِطُ"
         },
         {
           "w": "الْأَحْيَاءَ",
           "root": "ح ي ي",
           "bs": "kvartove",
-          "en": "neighborhoods"
+          "en": "neighborhoods",
+          "lemma": "حَيٌّ / أَحْيَاءٌ"
         },
         {
           "w": "الْبَعِيدَةَ",
           "root": "ب ع د",
           "bs": "udaljene",
-          "en": "distant"
+          "en": "distant",
+          "lemma": "بَعِيدٌ"
         },
         {
           "w": "الْمَرْكَزِ",
           "root": "ر ك ز",
           "bs": "centrom",
-          "en": "center"
+          "en": "center",
+          "lemma": "مَرْكَزٌ / مَرَاكِزُ"
         }
       ]
     },
@@ -74,13 +82,15 @@
           "w": "الْحَافِلَةُ",
           "root": "ح ف ل",
           "bs": "autobus",
-          "en": "bus"
+          "en": "bus",
+          "lemma": "حَافِلَةٌ / حَافِلَاتٌ"
         },
         {
           "w": "مَحَطَّاتٍ",
           "root": "ح ط ط",
           "bs": "stanica",
-          "en": "stations"
+          "en": "stations",
+          "lemma": "مَحَطَّةٌ / مَحَطَّاتٌ"
         }
       ]
     },
@@ -93,19 +103,22 @@
           "w": "سَعِدَ",
           "root": "س ع د",
           "bs": "obradovao se",
-          "en": "was pleased"
+          "en": "was pleased",
+          "lemma": "سَعِدَ يَسْعَدُ"
         },
         {
           "w": "السُّكَّانُ",
           "root": "س ك ن",
           "bs": "stanovnici",
-          "en": "residents"
+          "en": "residents",
+          "lemma": "سَاكِنٌ / سُكَّانٌ"
         },
         {
           "w": "الْخَطِّ",
           "root": "خ ط ط",
           "bs": "linijom",
-          "en": "line"
+          "en": "line",
+          "lemma": "خَطٌّ / خُطُوطٌ"
         }
       ]
     }

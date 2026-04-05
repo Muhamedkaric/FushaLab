@@ -8,10 +8,34 @@
       "translation": "Direktor je pitao Rim o napretku projekta.",
       "translationEn": "The manager asked Reem about the progress of the project.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager/director" },
-        { "w": "سَيْرِ", "root": "س ي ر", "bs": "napredak/tok", "en": "progress/course" },
-        { "w": "الْمَشْرُوعِ", "root": "ش ر ع", "bs": "projekat", "en": "project" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager/director",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "سَيْرِ",
+          "root": "س ي ر",
+          "bs": "napredak/tok",
+          "en": "progress/course",
+          "lemma": "سَيْرٌ"
+        },
+        {
+          "w": "الْمَشْرُوعِ",
+          "root": "ش ر ع",
+          "bs": "projekat",
+          "en": "project",
+          "lemma": "مَشْرُوعٌ / مَشَارِيعُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Rekla je da posao napreduje dobro.",
       "translationEn": "She said that the work is going well.",
       "words": [
-        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
-        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
-        { "w": "يَسِيرُ", "root": "س ي ر", "bs": "napreduje/ide", "en": "is going/progressing" },
-        { "w": "جَيِّدٍ", "root": "ج و د", "bs": "dobro/dobro", "en": "well/good" }
+        {
+          "w": "قَالَتْ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "posao/rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "يَسِيرُ",
+          "root": "س ي ر",
+          "bs": "napreduje/ide",
+          "en": "is going/progressing",
+          "lemma": "سَارَ يَسِيرُ"
+        },
+        {
+          "w": "جَيِّدٍ",
+          "root": "ج و د",
+          "bs": "dobro/dobro",
+          "en": "well/good",
+          "lemma": "جَيِّدٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Rekla mu je da će ga završiti prije kraja sedmice.",
       "translationEn": "She told him she will finish it before the end of the week.",
       "words": [
-        { "w": "أَخْبَرَتْهُ", "root": "خ ب ر", "bs": "rekla mu je/obavijestila ga", "en": "told him/informed him" },
-        { "w": "سَتُنْهِيهِ", "root": "ن ه ي", "bs": "završit će ga", "en": "she will finish it" },
-        { "w": "نِهَايَةِ", "root": "ن ه ي", "bs": "kraj/završetak", "en": "end" },
-        { "w": "الْأُسْبُوعِ", "root": "س ب ع", "bs": "sedmica/tjedan", "en": "week" }
+        {
+          "w": "أَخْبَرَتْهُ",
+          "root": "خ ب ر",
+          "bs": "rekla mu je/obavijestila ga",
+          "en": "told him/informed him",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "سَتُنْهِيهِ",
+          "root": "ن ه ي",
+          "bs": "završit će ga",
+          "en": "she will finish it",
+          "lemma": "أَنْهَى يُنْهِي"
+        },
+        {
+          "w": "نِهَايَةِ",
+          "root": "ن ه ي",
+          "bs": "kraj/završetak",
+          "en": "end",
+          "lemma": "نِهَايَةٌ / نِهَايَاتٌ"
+        },
+        {
+          "w": "الْأُسْبُوعِ",
+          "root": "س ب ع",
+          "bs": "sedmica/tjedan",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Direktor je rekao «odlično» i nasmiješio joj se.",
       "translationEn": "The manager said «excellent» and smiled at her.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
-        { "w": "مُمْتَازٌ", "root": "م ي ز", "bs": "odlično/izvrsno", "en": "excellent" },
-        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "مُمْتَازٌ",
+          "root": "م ي ز",
+          "bs": "odlično/izvrsno",
+          "en": "excellent",
+          "lemma": "مُمْتَازٌ"
+        },
+        {
+          "w": "ابْتَسَمَ",
+          "root": "ب س م",
+          "bs": "nasmiješio se",
+          "en": "smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["project", "manager", "progress", "office"]
+    "tags": [
+      "project",
+      "manager",
+      "progress",
+      "office"
+    ]
   }
 }

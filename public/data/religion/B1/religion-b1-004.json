@@ -12,19 +12,22 @@
           "w": "يَقْرَأُ",
           "root": "ق ر أ",
           "bs": "čita",
-          "en": "reads"
+          "en": "reads",
+          "lemma": "قَرَأَ يَقْرَأُ"
         },
         {
           "w": "الْقُرْآنَ",
           "root": "ق ر أ",
           "bs": "Kur'an",
-          "en": "the Quran"
+          "en": "the Quran",
+          "lemma": "قُرْآنٌ"
         },
         {
           "w": "مَسَاءٍ",
           "root": "م س و",
           "bs": "večeri",
-          "en": "every evening"
+          "en": "every evening",
+          "lemma": "مَسَاءٌ"
         }
       ]
     },
@@ -37,19 +40,22 @@
           "w": "يَجْلِسُ",
           "root": "ج ل س",
           "bs": "sjedi",
-          "en": "sits"
+          "en": "sits",
+          "lemma": "جَلَسَ يَجْلِسُ"
         },
         {
           "w": "غُرْفَتِهِ",
           "root": "غ ر ف",
           "bs": "sobi",
-          "en": "his room"
+          "en": "his room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
         },
         {
           "w": "صَلَاةِ الْعِشَاءِ",
           "root": "ع ش و",
           "bs": "jacija-namaza",
-          "en": "the Isha prayer"
+          "en": "the Isha prayer",
+          "lemma": "عِشَاءٌ"
         }
       ]
     },
@@ -62,25 +68,29 @@
           "w": "يَقْرَأُ",
           "root": "ق ر أ",
           "bs": "čita",
-          "en": "reads"
+          "en": "reads",
+          "lemma": "قَرَأَ يَقْرَأُ"
         },
         {
           "w": "بُطْءٍ",
           "root": "ب ط أ",
           "bs": "polako",
-          "en": "slowly"
+          "en": "slowly",
+          "lemma": "بُطْءٌ"
         },
         {
           "w": "يَتَدَبَّرُ",
           "root": "د ب ر",
           "bs": "razmišlja",
-          "en": "ponders"
+          "en": "ponders",
+          "lemma": "تَدَبَّرَ يَتَدَبَّرُ"
         },
         {
           "w": "الْآيَاتِ",
           "root": "أ ي ي",
           "bs": "ajetima",
-          "en": "the verses"
+          "en": "the verses",
+          "lemma": "آيَةٌ / آيَاتٌ"
         }
       ]
     },
@@ -93,31 +103,36 @@
           "w": "الْقُرْآنُ",
           "root": "ق ر أ",
           "bs": "Kur'an",
-          "en": "the Quran"
+          "en": "the Quran",
+          "lemma": "قُرْآنٌ"
         },
         {
           "w": "يُرِيحُ",
           "root": "ر و ح",
           "bs": "smiruje",
-          "en": "calms"
+          "en": "calms",
+          "lemma": "أَرَاحَ يُرِيحُ"
         },
         {
           "w": "قَلْبِي",
           "root": "ق ل ب",
           "bs": "moje srce",
-          "en": "my heart"
+          "en": "my heart",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
         },
         {
           "w": "يُنِيرُ",
           "root": "ن و ر",
           "bs": "prosvjetljuje",
-          "en": "enlightens"
+          "en": "enlightens",
+          "lemma": "أَنَارَ يُنِيرُ"
         },
         {
           "w": "عَقْلِي",
           "root": "ع ق ل",
           "bs": "moj razum",
-          "en": "my mind"
+          "en": "my mind",
+          "lemma": "عَقْلٌ / عُقُولٌ"
         }
       ]
     }

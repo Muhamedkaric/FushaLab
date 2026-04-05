@@ -8,10 +8,34 @@
       "translation": "Samir je pronašao ostatke hrane od jučer.",
       "translationEn": "Samir found leftover food from yesterday.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je/našao", "en": "found" },
-        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "مُتَبَقِّيًا", "root": "ب ق ي", "bs": "ostatke/preostalo", "en": "leftover/remaining" },
-        { "w": "الْأَمْسِ", "root": "أ م س", "bs": "jučer", "en": "yesterday" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je/našao",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "طَعَامًا",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "مُتَبَقِّيًا",
+          "root": "ب ق ي",
+          "bs": "ostatke/preostalo",
+          "en": "leftover/remaining",
+          "lemma": "مُتَبَقٍّ"
+        },
+        {
+          "w": "الْأَمْسِ",
+          "root": "أ م س",
+          "bs": "jučer",
+          "en": "yesterday",
+          "lemma": "أَمْسِ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Zagriao ga je u mikrovalnoj i pojeo.",
       "translationEn": "He heated it in the microwave and ate it.",
       "words": [
-        { "w": "سَخَّنَهُ", "root": "س خ ن", "bs": "zagriao ga je", "en": "heated it" },
-        { "w": "الْمِيكْرُوَيف", "root": "", "bs": "mikrovalna/mikrovalka", "en": "microwave" },
-        { "w": "أَكَلَهُ", "root": "أ ك ل", "bs": "pojeo ga je", "en": "ate it" }
+        {
+          "w": "سَخَّنَهُ",
+          "root": "س خ ن",
+          "bs": "zagriao ga je",
+          "en": "heated it",
+          "lemma": "سَخَّنَ يُسَخِّنُ"
+        },
+        {
+          "w": "الْمِيكْرُوَيف",
+          "root": "",
+          "bs": "mikrovalna/mikrovalka",
+          "en": "microwave",
+          "lemma": "الْمِيكْرُوَيف"
+        },
+        {
+          "w": "أَكَلَهُ",
+          "root": "أ ك ل",
+          "bs": "pojeo ga je",
+          "en": "ate it",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Hrana je i dalje bila ukusna.",
       "translationEn": "The food was still delicious.",
       "words": [
-        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "يَزَالُ", "root": "ز و ل", "bs": "i dalje/ostaje", "en": "still" },
-        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusna/ukusno", "en": "delicious" }
+        {
+          "w": "الطَّعَامُ",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "يَزَالُ",
+          "root": "ز و ل",
+          "bs": "i dalje/ostaje",
+          "en": "still",
+          "lemma": "زَالَ يَزَالُ"
+        },
+        {
+          "w": "لَذِيذًا",
+          "root": "ل ذ ذ",
+          "bs": "ukusna/ukusno",
+          "en": "delicious",
+          "lemma": "لَذِيذٌ"
+        }
       ]
     },
     {
@@ -39,11 +99,41 @@
       "translation": "Odlučio je sljedeći put kuhati više.",
       "translationEn": "He decided to cook more next time.",
       "words": [
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
-        { "w": "يَطْبُخَ", "root": "ط ب خ", "bs": "da kuha/kuhati", "en": "to cook" },
-        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više/više od", "en": "more" },
-        { "w": "الْمَرَّةِ", "root": "م ر ر", "bs": "put/puta", "en": "time/occasion" },
-        { "w": "الْقَادِمَةِ", "root": "ق د م", "bs": "sljedeće/naredne", "en": "next/coming" }
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "يَطْبُخَ",
+          "root": "ط ب خ",
+          "bs": "da kuha/kuhati",
+          "en": "to cook",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "root": "ك ث ر",
+          "bs": "više/više od",
+          "en": "more",
+          "lemma": "أَكْثَرُ"
+        },
+        {
+          "w": "الْمَرَّةِ",
+          "root": "م ر ر",
+          "bs": "put/puta",
+          "en": "time/occasion",
+          "lemma": "مَرَّةٌ / مَرَّاتٌ"
+        },
+        {
+          "w": "الْقَادِمَةِ",
+          "root": "ق د م",
+          "bs": "sljedeće/naredne",
+          "en": "next/coming",
+          "lemma": "قَادِمٌ"
+        }
       ]
     }
   ],

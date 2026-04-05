@@ -12,25 +12,29 @@
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "دَخَلُوا",
           "root": "د خ ل",
           "bs": "ušli",
-          "en": "entered"
+          "en": "entered",
+          "lemma": "دَخَلَ يَدْخُلُ"
         },
         {
           "w": "الفَصْلِ",
           "root": "ف ص ل",
           "bs": "razred",
-          "en": "classroom"
+          "en": "classroom",
+          "lemma": "فَصْلٌ / فُصُولٌ"
         },
         {
           "w": "جَلَسُوا",
           "root": "ج ل س",
           "bs": "sjeli",
-          "en": "sat"
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
         }
       ]
     },
@@ -43,31 +47,36 @@
           "w": "المُعَلِّمُ",
           "root": "ع ل م",
           "bs": "nastavnik",
-          "en": "teacher"
+          "en": "teacher",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
         },
         {
           "w": "كَتَبَ",
           "root": "ك ت ب",
           "bs": "napisao",
-          "en": "wrote"
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
         },
         {
           "w": "عُنْوَانَ",
           "root": "ع ن و",
           "bs": "naslov",
-          "en": "title"
+          "en": "title",
+          "lemma": "عُنْوَانٌ / عَنَاوِينُ"
         },
         {
           "w": "الدَّرْسِ",
           "root": "د ر س",
           "bs": "lekcije/časa",
-          "en": "lesson"
+          "en": "lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
         },
         {
           "w": "السَّبُّورَةِ",
           "root": "س ب ر",
           "bs": "tabla",
-          "en": "board"
+          "en": "board",
+          "lemma": "سَبُّورَةٌ / سَبُّورَاتٌ"
         }
       ]
     },
@@ -80,25 +89,29 @@
           "w": "شَرَحَ",
           "root": "ش ر ح",
           "bs": "objasnio",
-          "en": "explained"
+          "en": "explained",
+          "lemma": "شَرَحَ يَشْرَحُ"
         },
         {
           "w": "الدَّرْسَ",
           "root": "د ر س",
           "bs": "lekciju",
-          "en": "lesson"
+          "en": "lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
         },
         {
           "w": "بِصَوْتٍ",
           "root": "ص و ت",
           "bs": "glasom",
-          "en": "voice"
+          "en": "voice",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
         },
         {
           "w": "وَاضِحٍ",
           "root": "و ض ح",
           "bs": "jasnim",
-          "en": "clear"
+          "en": "clear",
+          "lemma": "وَاضِحٌ"
         }
       ]
     },
@@ -111,25 +124,29 @@
           "w": "رَفَعَ",
           "root": "ر ف ع",
           "bs": "podigli",
-          "en": "raised"
+          "en": "raised",
+          "lemma": "رَفَعَ يَرْفَعُ"
         },
         {
           "w": "الطُّلَّابِ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "أَيْدِيَهُمْ",
           "root": "ي د ي",
           "bs": "ruke",
-          "en": "hands"
+          "en": "hands",
+          "lemma": "يَدٌ / أَيْدٍ"
         },
         {
           "w": "أَسْئِلَةً",
           "root": "س أ ل",
           "bs": "pitanja",
-          "en": "questions"
+          "en": "questions",
+          "lemma": "سُؤَالٌ / أَسْئِلَةٌ"
         }
       ]
     },
@@ -142,19 +159,22 @@
           "w": "الدَّرْسُ",
           "root": "د ر س",
           "bs": "čas",
-          "en": "lesson"
+          "en": "lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
         },
         {
           "w": "مُمْتِعًا",
           "root": "م ت ع",
           "bs": "zabavan",
-          "en": "fun"
+          "en": "fun",
+          "lemma": "مُمْتِعٌ"
         },
         {
           "w": "مُفِيدًا",
           "root": "ف ي د",
           "bs": "koristan",
-          "en": "useful"
+          "en": "useful",
+          "lemma": "مُفِيدٌ"
         }
       ]
     }

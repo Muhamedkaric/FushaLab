@@ -8,10 +8,34 @@
       "translation": "Zaid je otvorio frižider ali nije pronašao sok koji je ostavio.",
       "translationEn": "Zayd opened the fridge and did not find the juice he had left.",
       "words": [
-        { "w": "فَتَحَ", "root": "ف ت ح", "bs": "otvorio je", "en": "he opened" },
-        { "w": "الثَّلَّاجَةَ", "root": "ث ل ج", "bs": "frižider", "en": "fridge" },
-        { "w": "يَجِدِ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" }
+        {
+          "w": "فَتَحَ",
+          "root": "ف ت ح",
+          "bs": "otvorio je",
+          "en": "he opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "الثَّلَّاجَةَ",
+          "root": "ث ل ج",
+          "bs": "frižider",
+          "en": "fridge",
+          "lemma": "ثَلَّاجَةٌ / ثَلَّاجَاتٌ"
+        },
+        {
+          "w": "يَجِدِ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الْعَصِيرَ",
+          "root": "ع ص ر",
+          "bs": "sok",
+          "en": "juice",
+          "lemma": "عَصِيرٌ / عُصَارَاتٌ"
+        }
       ]
     },
     {
@@ -19,8 +43,20 @@
       "translation": "Gledao je na svakom mjestu u frižideru.",
       "translationEn": "He looked everywhere in the fridge.",
       "words": [
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "gledao je", "en": "he looked" },
-        { "w": "مَكَانٍ", "root": "ك و ن", "bs": "mjesta", "en": "place" }
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "gledao je",
+          "en": "he looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "مَكَانٍ",
+          "root": "ك و ن",
+          "bs": "mjesta",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Pitao je majku, oca i brata.",
       "translationEn": "He asked his mother, his father and his brother.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "he asked" },
-        { "w": "أُمَّهُ", "root": "أ م م", "bs": "majku", "en": "his mother" },
-        { "w": "أَخَاهُ", "root": "أ خ خ", "bs": "brata", "en": "his brother" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "he asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "أُمَّهُ",
+          "root": "أ م م",
+          "bs": "majku",
+          "en": "his mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "أَخَاهُ",
+          "root": "أ خ خ",
+          "bs": "brata",
+          "en": "his brother",
+          "lemma": "أَخٌ / إِخْوَةٌ"
+        }
       ]
     },
     {
@@ -38,9 +92,27 @@
       "translation": "Brat je rekao: Žao mi je, popio sam ga jer sam mislio da je moj.",
       "translationEn": "The brother said: Sorry, I drank it because I thought it was mine.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "he said" },
-        { "w": "شَرِبْتُهُ", "root": "ش ر ب", "bs": "popio sam ga", "en": "I drank it" },
-        { "w": "ظَنَنْتُهُ", "root": "ظ ن ن", "bs": "mislio sam", "en": "I thought it" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "he said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "شَرِبْتُهُ",
+          "root": "ش ر ب",
+          "bs": "popio sam ga",
+          "en": "I drank it",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "ظَنَنْتُهُ",
+          "root": "ظ ن ن",
+          "bs": "mislio sam",
+          "en": "I thought it",
+          "lemma": "ظَنَّ يَظُنُّ"
+        }
       ]
     },
     {
@@ -48,15 +120,44 @@
       "translation": "Zaid mu je oprostio i sam sebi nalio hladne vode.",
       "translationEn": "Zayd forgave him and poured himself cold water.",
       "words": [
-        { "w": "عَفَا", "root": "ع ف و", "bs": "oprostio je", "en": "he forgave" },
-        { "w": "سَكَبَ", "root": "س ك ب", "bs": "nalio je", "en": "he poured" },
-        { "w": "مَاءً", "root": "م و ه", "bs": "vode", "en": "water" },
-        { "w": "بَارِدًا", "root": "ب ر د", "bs": "hladne", "en": "cold" }
+        {
+          "w": "عَفَا",
+          "root": "ع ف و",
+          "bs": "oprostio je",
+          "en": "he forgave",
+          "lemma": "عَفَا يَعْفُو"
+        },
+        {
+          "w": "سَكَبَ",
+          "root": "س ك ب",
+          "bs": "nalio je",
+          "en": "he poured",
+          "lemma": "سَكَبَ يَسْكُبُ"
+        },
+        {
+          "w": "مَاءً",
+          "root": "م و ه",
+          "bs": "vode",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "بَارِدًا",
+          "root": "ب ر د",
+          "bs": "hladne",
+          "en": "cold",
+          "lemma": "بَارِدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "juice", "fridge", "family"]
+    "tags": [
+      "mystery",
+      "juice",
+      "fridge",
+      "family"
+    ]
   }
 }

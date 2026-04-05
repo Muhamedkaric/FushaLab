@@ -8,10 +8,34 @@
       "translation": "Iman se osjećala umorno nakon svakog školskog dana.",
       "translationEn": "Iman used to feel tired after every school day.",
       "words": [
-        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
-        { "w": "التَّعَبِ", "root": "ت ع ب", "bs": "umor", "en": "tiredness" },
-        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
-        { "w": "دِرَاسِيٍّ", "root": "د ر س", "bs": "školski", "en": "school" }
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "التَّعَبِ",
+          "root": "ت ع ب",
+          "bs": "umor",
+          "en": "tiredness",
+          "lemma": "تَعَبٌ"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "دِرَاسِيٍّ",
+          "root": "د ر س",
+          "bs": "školski",
+          "en": "school",
+          "lemma": "دِرَاسِيٌّ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Odlučila je da uzme kratku pauzu poslije podne.",
       "translationEn": "She decided to take a short rest in the afternoon.",
       "words": [
-        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
-        { "w": "تَأْخُذَ", "root": "أ خ ذ", "bs": "uzme", "en": "to take" },
-        { "w": "اسْتِرَاحَةً", "root": "ر و ح", "bs": "pauzu", "en": "a rest" },
-        { "w": "قَصِيرَةً", "root": "ق ص ر", "bs": "kratku", "en": "short" },
-        { "w": "الظُّهْرِ", "root": "ظ ه ر", "bs": "podne", "en": "the afternoon" }
+        {
+          "w": "قَرَّرَتْ",
+          "root": "ق ر ر",
+          "bs": "odlučila je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "تَأْخُذَ",
+          "root": "أ خ ذ",
+          "bs": "uzme",
+          "en": "to take",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "اسْتِرَاحَةً",
+          "root": "ر و ح",
+          "bs": "pauzu",
+          "en": "a rest",
+          "lemma": "اِسْتِرَاحَةٌ / اِسْتِرَاحَاتٌ"
+        },
+        {
+          "w": "قَصِيرَةً",
+          "root": "ق ص ر",
+          "bs": "kratku",
+          "en": "short",
+          "lemma": "قَصِيرٌ"
+        },
+        {
+          "w": "الظُّهْرِ",
+          "root": "ظ ه ر",
+          "bs": "podne",
+          "en": "the afternoon",
+          "lemma": "ظُهْرٌ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Sjedila je u tišini i popila šolju čaja.",
       "translationEn": "She sat in the quiet and drank a cup of tea.",
       "words": [
-        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjedila je", "en": "sat" },
-        { "w": "الْهُدُوءِ", "root": "ه د أ", "bs": "tišina", "en": "the quiet" },
-        { "w": "شَرِبَتْ", "root": "ش ر ب", "bs": "popila je", "en": "drank" },
-        { "w": "كُوبًا", "root": "ك و ب", "bs": "šolju", "en": "a cup" },
-        { "w": "الشَّايِ", "root": "ش ي أ", "bs": "čaj", "en": "tea" }
+        {
+          "w": "جَلَسَتْ",
+          "root": "ج ل س",
+          "bs": "sjedila je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الْهُدُوءِ",
+          "root": "ه د أ",
+          "bs": "tišina",
+          "en": "the quiet",
+          "lemma": "هُدُوءٌ"
+        },
+        {
+          "w": "شَرِبَتْ",
+          "root": "ش ر ب",
+          "bs": "popila je",
+          "en": "drank",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "كُوبًا",
+          "root": "ك و ب",
+          "bs": "šolju",
+          "en": "a cup",
+          "lemma": "كُوبٌ / أَكْوَابٌ"
+        },
+        {
+          "w": "الشَّايِ",
+          "root": "ش ي أ",
+          "bs": "čaj",
+          "en": "tea",
+          "lemma": "شَايٌ"
+        }
       ]
     },
     {
@@ -43,16 +127,50 @@
       "translation": "Odmor obnavlja energiju i bistri um.",
       "translationEn": "Rest renews energy and clears the mind.",
       "words": [
-        { "w": "الِاسْتِرَاحَةُ", "root": "ر و ح", "bs": "odmor", "en": "rest" },
-        { "w": "تُجَدِّدُ", "root": "ج د د", "bs": "obnavlja", "en": "renews" },
-        { "w": "الطَّاقَةَ", "root": "ط و ق", "bs": "energiju", "en": "energy" },
-        { "w": "تُصَفِّي", "root": "ص ف و", "bs": "bistri", "en": "clears" },
-        { "w": "الذِّهْنَ", "root": "ذ ه ن", "bs": "um", "en": "the mind" }
+        {
+          "w": "الِاسْتِرَاحَةُ",
+          "root": "ر و ح",
+          "bs": "odmor",
+          "en": "rest",
+          "lemma": "اِسْتِرَاحَةٌ / اِسْتِرَاحَاتٌ"
+        },
+        {
+          "w": "تُجَدِّدُ",
+          "root": "ج د د",
+          "bs": "obnavlja",
+          "en": "renews",
+          "lemma": "جَدَّدَ يُجَدِّدُ"
+        },
+        {
+          "w": "الطَّاقَةَ",
+          "root": "ط و ق",
+          "bs": "energiju",
+          "en": "energy",
+          "lemma": "طَاقَةٌ / طَاقَاتٌ"
+        },
+        {
+          "w": "تُصَفِّي",
+          "root": "ص ف و",
+          "bs": "bistri",
+          "en": "clears",
+          "lemma": "صَفَّى يُصَفِّي"
+        },
+        {
+          "w": "الذِّهْنَ",
+          "root": "ذ ه ن",
+          "bs": "um",
+          "en": "the mind",
+          "lemma": "ذِهْنٌ / أَذْهَانٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["rest", "energy", "daily life"]
+    "tags": [
+      "rest",
+      "energy",
+      "daily life"
+    ]
   }
 }

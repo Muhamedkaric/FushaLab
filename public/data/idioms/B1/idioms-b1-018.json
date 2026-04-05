@@ -8,10 +8,34 @@
       "translation": "Djevojčica je čula poslovicu: «Ptica lijeće ka sebi sličnima».",
       "translationEn": "The little girl heard the proverb: «Birds of a feather flock together».",
       "words": [
-        { "w": "الطِّفْلَةُ", "root": "ط ف ل", "bs": "djevojčica", "en": "little girl" },
-        { "w": "الطَّيْرُ", "root": "ط ي ر", "bs": "ptica", "en": "bird" },
-        { "w": "أَشْكَالِهِ", "root": "ش ك ل", "bs": "slični njemu", "en": "its kind" },
-        { "w": "يَقَعُ", "root": "و ق ع", "bs": "pada", "en": "lands" }
+        {
+          "w": "الطِّفْلَةُ",
+          "root": "ط ف ل",
+          "bs": "djevojčica",
+          "en": "little girl",
+          "lemma": "طِفْلَةٌ / طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الطَّيْرُ",
+          "root": "ط ي ر",
+          "bs": "ptica",
+          "en": "bird",
+          "lemma": "طَائِرٌ / طُيُورٌ"
+        },
+        {
+          "w": "أَشْكَالِهِ",
+          "root": "ش ك ل",
+          "bs": "slični njemu",
+          "en": "its kind",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "يَقَعُ",
+          "root": "و ق ع",
+          "bs": "pada",
+          "en": "lands",
+          "lemma": "وَقَعَ يَقَعُ"
+        }
       ]
     },
     {
@@ -19,8 +43,20 @@
       "translation": "To znači da se slični ljudi okupe zajedno.",
       "translationEn": "This means that similar people gather together.",
       "words": [
-        { "w": "الْمُتَشَابِهِينَ", "root": "ش ب ه", "bs": "slični", "en": "similar" },
-        { "w": "يَجْتَمِعُونَ", "root": "ج م ع", "bs": "okupe se", "en": "gather" }
+        {
+          "w": "الْمُتَشَابِهِينَ",
+          "root": "ش ب ه",
+          "bs": "slični",
+          "en": "similar",
+          "lemma": "مُتَشَابِهٌ / مُتَشَابِهُونَ"
+        },
+        {
+          "w": "يَجْتَمِعُونَ",
+          "root": "ج م ع",
+          "bs": "okupe se",
+          "en": "gather",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Primijetila je da njeni prijatelji vole čitanje kao i ona.",
       "translationEn": "She noticed that her friends love reading just like her.",
       "words": [
-        { "w": "لَاحَظَتْ", "root": "ل ح ظ", "bs": "primijetila je", "en": "noticed" },
-        { "w": "أَصْدِقَاءَهَا", "root": "ص د ق", "bs": "njeni prijatelji", "en": "her friends" },
-        { "w": "الْقِرَاءَةَ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" }
+        {
+          "w": "لَاحَظَتْ",
+          "root": "ل ح ظ",
+          "bs": "primijetila je",
+          "en": "noticed",
+          "lemma": "لَاحَظَ يُلَاحِظُ"
+        },
+        {
+          "w": "أَصْدِقَاءَهَا",
+          "root": "ص د ق",
+          "bs": "njeni prijatelji",
+          "en": "her friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "الْقِرَاءَةَ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading",
+          "lemma": "قِرَاءَةٌ"
+        }
       ]
     },
     {
@@ -38,14 +92,36 @@
       "translation": "Shvatila je značenje poslovice i nasmiješila se.",
       "translationEn": "She understood the meaning of the proverb and smiled.",
       "words": [
-        { "w": "فَهِمَتْ", "root": "ف ه م", "bs": "shvatila je", "en": "understood" },
-        { "w": "مَعْنَى", "root": "ع ن ي", "bs": "značenje", "en": "meaning" },
-        { "w": "ابْتَسَمَتْ", "root": "ب س م", "bs": "nasmiješila se", "en": "smiled" }
+        {
+          "w": "فَهِمَتْ",
+          "root": "ف ه م",
+          "bs": "shvatila je",
+          "en": "understood",
+          "lemma": "فَهِمَ يَفْهَمُ"
+        },
+        {
+          "w": "مَعْنَى",
+          "root": "ع ن ي",
+          "bs": "značenje",
+          "en": "meaning",
+          "lemma": "مَعْنًى / مَعَانٍ"
+        },
+        {
+          "w": "ابْتَسَمَتْ",
+          "root": "ب س م",
+          "bs": "nasmiješila se",
+          "en": "smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["similarity", "proverb", "friends"]
+    "tags": [
+      "similarity",
+      "proverb",
+      "friends"
+    ]
   }
 }

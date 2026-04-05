@@ -8,11 +8,41 @@
       "translation": "Dobra starica je živjela sama u maloj kući.",
       "translationEn": "A kind old woman lived alone in a small house.",
       "words": [
-        { "w": "عَجُوزٌ", "root": "ع ج ز", "bs": "starica", "en": "old woman" },
-        { "w": "طَيِّبَةٌ", "root": "ط ي ب", "bs": "dobra", "en": "kind" },
-        { "w": "تَعِيشُ", "root": "ع ي ش", "bs": "živjela je", "en": "lived" },
-        { "w": "وَحِيدَةً", "root": "و ح د", "bs": "sama", "en": "alone" },
-        { "w": "بَيْتٍ", "root": "ب ي ت", "bs": "kuća", "en": "house" }
+        {
+          "w": "عَجُوزٌ",
+          "root": "ع ج ز",
+          "bs": "starica",
+          "en": "old woman",
+          "lemma": "عَجُوزٌ / عَجَائِزُ"
+        },
+        {
+          "w": "طَيِّبَةٌ",
+          "root": "ط ي ب",
+          "bs": "dobra",
+          "en": "kind",
+          "lemma": "طَيِّبٌ"
+        },
+        {
+          "w": "تَعِيشُ",
+          "root": "ع ي ش",
+          "bs": "živjela je",
+          "en": "lived",
+          "lemma": "عَاشَ يَعِيشُ"
+        },
+        {
+          "w": "وَحِيدَةً",
+          "root": "و ح د",
+          "bs": "sama",
+          "en": "alone",
+          "lemma": "وَحِيدٌ"
+        },
+        {
+          "w": "بَيْتٍ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Svake proljeće je sadila ruže ispred kuće.",
       "translationEn": "She planted roses in front of her house every spring.",
       "words": [
-        { "w": "تَزْرَعُ", "root": "ز ر ع", "bs": "sadila je", "en": "planted" },
-        { "w": "الْوُرُودَ", "root": "و ر د", "bs": "ruže", "en": "roses" },
-        { "w": "بَيْتِهَا", "root": "ب ي ت", "bs": "njena kuća", "en": "her house" },
-        { "w": "رَبِيعٍ", "root": "ر ب ع", "bs": "proljeće", "en": "spring" }
+        {
+          "w": "تَزْرَعُ",
+          "root": "ز ر ع",
+          "bs": "sadila je",
+          "en": "planted",
+          "lemma": "زَرَعَ يَزْرَعُ"
+        },
+        {
+          "w": "الْوُرُودَ",
+          "root": "و ر د",
+          "bs": "ruže",
+          "en": "roses",
+          "lemma": "وَرْدَةٌ / وُرُودٌ"
+        },
+        {
+          "w": "بَيْتِهَا",
+          "root": "ب ي ت",
+          "bs": "njena kuća",
+          "en": "her house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "رَبِيعٍ",
+          "root": "ر ب ع",
+          "bs": "proljeće",
+          "en": "spring",
+          "lemma": "رَبِيعٌ / أَرْبِعَةٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Djeca su prolazila ispred njene kuće i smiješila se.",
       "translationEn": "The children would pass in front of her house and smile.",
       "words": [
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "يَمُرُّونَ", "root": "م ر ر", "bs": "prolazila su", "en": "would pass" },
-        { "w": "بَيْتِهَا", "root": "ب ي ت", "bs": "njena kuća", "en": "her house" },
-        { "w": "يَبْتَسِمُونَ", "root": "ب س م", "bs": "smiješila su se", "en": "smile" }
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يَمُرُّونَ",
+          "root": "م ر ر",
+          "bs": "prolazila su",
+          "en": "would pass",
+          "lemma": "مَرَّ يَمُرُّ"
+        },
+        {
+          "w": "بَيْتِهَا",
+          "root": "ب ي ت",
+          "bs": "njena kuća",
+          "en": "her house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "يَبْتَسِمُونَ",
+          "root": "ب س م",
+          "bs": "smiješila su se",
+          "en": "smile",
+          "lemma": "اِبْتَسَمَ يَبْتَسِمُ"
+        }
       ]
     },
     {
@@ -42,14 +120,37 @@
       "translation": "Cvijeće je bio njen poklon svakome ko prolazi.",
       "translationEn": "The flowers were her gift to all who passed by.",
       "words": [
-        { "w": "الزُّهُورُ", "root": "ز ه ر", "bs": "cvijeće", "en": "flowers" },
-        { "w": "هَدِيَّتَهَا", "root": "ه د ي", "bs": "njen poklon", "en": "her gift" },
-        { "w": "يَمُرُّ", "root": "م ر ر", "bs": "prolazi", "en": "passes by" }
+        {
+          "w": "الزُّهُورُ",
+          "root": "ز ه ر",
+          "bs": "cvijeće",
+          "en": "flowers",
+          "lemma": "زَهْرَةٌ / زُهُورٌ"
+        },
+        {
+          "w": "هَدِيَّتَهَا",
+          "root": "ه د ي",
+          "bs": "njen poklon",
+          "en": "her gift",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "يَمُرُّ",
+          "root": "م ر ر",
+          "bs": "prolazi",
+          "en": "passes by",
+          "lemma": "مَرَّ يَمُرُّ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["old woman", "flowers", "garden", "kindness"]
+    "tags": [
+      "old woman",
+      "flowers",
+      "garden",
+      "kindness"
+    ]
   }
 }

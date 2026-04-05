@@ -8,10 +8,34 @@
       "translation": "Dina je pronašla jednu malu cipelu samu na putu.",
       "translationEn": "Dina found a small lone shoe on the road.",
       "words": [
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
-        { "w": "حَذَاءً", "root": "ح ذ و", "bs": "cipelu", "en": "shoe" },
-        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "malu", "en": "small" },
-        { "w": "وَحِيدًا", "root": "و ح د", "bs": "samu", "en": "lone/alone" }
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "she found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "حَذَاءً",
+          "root": "ح ذ و",
+          "bs": "cipelu",
+          "en": "shoe",
+          "lemma": "حِذَاءٌ / أَحْذِيَةٌ"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "malu",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "وَحِيدًا",
+          "root": "و ح د",
+          "bs": "samu",
+          "en": "lone/alone",
+          "lemma": "وَحِيدٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Cipela je bila lijepa i nova.",
       "translationEn": "The shoe was beautiful and new.",
       "words": [
-        { "w": "الْحَذَاءُ", "root": "ح ذ و", "bs": "cipela", "en": "the shoe" },
-        { "w": "جَمِيلًا", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" },
-        { "w": "جَدِيدًا", "root": "ج د د", "bs": "nova", "en": "new" }
+        {
+          "w": "الْحَذَاءُ",
+          "root": "ح ذ و",
+          "bs": "cipela",
+          "en": "the shoe",
+          "lemma": "حِذَاءٌ / أَحْذِيَةٌ"
+        },
+        {
+          "w": "جَمِيلًا",
+          "root": "ج م ل",
+          "bs": "lijepa",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "جَدِيدًا",
+          "root": "ج د د",
+          "bs": "nova",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Dina ga je uzela i tražila njegovog vlasnika.",
       "translationEn": "Dina took it and looked for its owner.",
       "words": [
-        { "w": "أَخَذَتْهُ", "root": "أ خ ذ", "bs": "uzela ga je", "en": "she took it" },
-        { "w": "بَحَثَتْ", "root": "ب ح ث", "bs": "tražila je", "en": "she looked for" },
-        { "w": "صَاحِبِهِ", "root": "ص ح ب", "bs": "vlasnika", "en": "its owner" }
+        {
+          "w": "أَخَذَتْهُ",
+          "root": "أ خ ذ",
+          "bs": "uzela ga je",
+          "en": "she took it",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "بَحَثَتْ",
+          "root": "ب ح ث",
+          "bs": "tražila je",
+          "en": "she looked for",
+          "lemma": "بَحَثَ يَبْحَثُ"
+        },
+        {
+          "w": "صَاحِبِهِ",
+          "root": "ص ح ب",
+          "bs": "vlasnika",
+          "en": "its owner",
+          "lemma": "صَاحِبٌ / أَصْحَابٌ"
+        }
       ]
     },
     {
@@ -39,10 +99,34 @@
       "translation": "Vidjela je malo dijete koje plače kod prodavnice.",
       "translationEn": "She saw a small child crying near the grocery shop.",
       "words": [
-        { "w": "رَأَتْ", "root": "ر أ ي", "bs": "vidjela je", "en": "she saw" },
-        { "w": "طِفْلًا", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "يَبْكِي", "root": "ب ك ي", "bs": "plače", "en": "crying" },
-        { "w": "الْبَقَالَةِ", "root": "ب ق ل", "bs": "prodavnice", "en": "grocery shop" }
+        {
+          "w": "رَأَتْ",
+          "root": "ر أ ي",
+          "bs": "vidjela je",
+          "en": "she saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "طِفْلًا",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يَبْكِي",
+          "root": "ب ك ي",
+          "bs": "plače",
+          "en": "crying",
+          "lemma": "بَكَى يَبْكِي"
+        },
+        {
+          "w": "الْبَقَالَةِ",
+          "root": "ب ق ل",
+          "bs": "prodavnice",
+          "en": "grocery shop",
+          "lemma": "بَقَالَةٌ / بَقَالَاتٌ"
+        }
       ]
     },
     {
@@ -50,15 +134,44 @@
       "translation": "Dijete se veoma obradovalo kada mu je Dina vratila cipelu.",
       "translationEn": "The child was very happy when Dina returned his shoe to him.",
       "words": [
-        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovalo se", "en": "was happy" },
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "the child" },
-        { "w": "أَعَادَتْ", "root": "ع و د", "bs": "vratila je", "en": "she returned" },
-        { "w": "حَذَاءَهُ", "root": "ح ذ و", "bs": "cipelu", "en": "his shoe" }
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovalo se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "أَعَادَتْ",
+          "root": "ع و د",
+          "bs": "vratila je",
+          "en": "she returned",
+          "lemma": "أَعَادَ يُعِيدُ"
+        },
+        {
+          "w": "حَذَاءَهُ",
+          "root": "ح ذ و",
+          "bs": "cipelu",
+          "en": "his shoe",
+          "lemma": "حِذَاءٌ / أَحْذِيَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "shoe", "lost", "child"]
+    "tags": [
+      "mystery",
+      "shoe",
+      "lost",
+      "child"
+    ]
   }
 }

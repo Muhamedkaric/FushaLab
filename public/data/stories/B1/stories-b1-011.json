@@ -8,11 +8,41 @@
       "translation": "Dječak po imenu Salih je htio pokloniti majci nešto za Dan majki.",
       "translationEn": "A boy named Salih wanted to give his mother a gift on Mother's Day.",
       "words": [
-        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
-        { "w": "وَلَدٌ", "root": "و ل د", "bs": "dječak", "en": "boy" },
-        { "w": "يُهْدِيَ", "root": "ه د ي", "bs": "pokloni", "en": "give a gift" },
-        { "w": "أُمَّهُ", "root": "أ م م", "bs": "majka mu", "en": "his mother" },
-        { "w": "عِيدِ", "root": "ع ي د", "bs": "dan", "en": "day" }
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "وَلَدٌ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "وَلَدٌ / أَوْلَادٌ"
+        },
+        {
+          "w": "يُهْدِيَ",
+          "root": "ه د ي",
+          "bs": "pokloni",
+          "en": "give a gift",
+          "lemma": "أَهْدَى يُهْدِي"
+        },
+        {
+          "w": "أُمَّهُ",
+          "root": "أ م م",
+          "bs": "majka mu",
+          "en": "his mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "عِيدِ",
+          "root": "ع ي د",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Nije imao mnogo novca pa je puno razmišljao.",
       "translationEn": "He did not have much money so he thought a lot.",
       "words": [
-        { "w": "مَالٌ", "root": "م و ل", "bs": "novac", "en": "money" },
-        { "w": "كَثِيرٌ", "root": "ك ث ر", "bs": "mnogo", "en": "much" },
-        { "w": "فَكَّرَ", "root": "ف ك ر", "bs": "razmišljao je", "en": "thought" }
+        {
+          "w": "مَالٌ",
+          "root": "م و ل",
+          "bs": "novac",
+          "en": "money",
+          "lemma": "مَالٌ / أَمْوَالٌ"
+        },
+        {
+          "w": "كَثِيرٌ",
+          "root": "ك ث ر",
+          "bs": "mnogo",
+          "en": "much",
+          "lemma": "كَثِيرٌ"
+        },
+        {
+          "w": "فَكَّرَ",
+          "root": "ف ك ر",
+          "bs": "razmišljao je",
+          "en": "thought",
+          "lemma": "فَكَّرَ يُفَكِّرُ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Nacrtao je njenu sliku i napisao na njoj: «Ti si najbolja majka na svijetu».",
       "translationEn": "He drew her portrait and wrote on it: «You are the best mother in the world».",
       "words": [
-        { "w": "رَسَمَ", "root": "ر س م", "bs": "nacrtao je", "en": "drew" },
-        { "w": "صُورَتَهَا", "root": "ص و ر", "bs": "njenu sliku", "en": "her portrait" },
-        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
-        { "w": "أَحْسَنُ", "root": "ح س ن", "bs": "najbolja", "en": "best" },
-        { "w": "الْعَالَمِ", "root": "ع ل م", "bs": "svijet", "en": "world" }
+        {
+          "w": "رَسَمَ",
+          "root": "ر س م",
+          "bs": "nacrtao je",
+          "en": "drew",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        },
+        {
+          "w": "صُورَتَهَا",
+          "root": "ص و ر",
+          "bs": "njenu sliku",
+          "en": "her portrait",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao je",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "أَحْسَنُ",
+          "root": "ح س ن",
+          "bs": "najbolja",
+          "en": "best",
+          "lemma": "أَحْسَنُ"
+        },
+        {
+          "w": "الْعَالَمِ",
+          "root": "ع ل م",
+          "bs": "svijet",
+          "en": "world",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Majka je zaplakala od radosti i zagrlila ga.",
       "translationEn": "His mother cried from joy and hugged him.",
       "words": [
-        { "w": "بَكَتِ", "root": "ب ك ي", "bs": "zaplakala je", "en": "cried" },
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "الْفَرَحِ", "root": "ف ر ح", "bs": "radost", "en": "joy" },
-        { "w": "احْتَضَنَتْهُ", "root": "ح ض ن", "bs": "zagrlila ga je", "en": "hugged him" }
+        {
+          "w": "بَكَتِ",
+          "root": "ب ك ي",
+          "bs": "zaplakala je",
+          "en": "cried",
+          "lemma": "بَكَى يَبْكِي"
+        },
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "الْفَرَحِ",
+          "root": "ف ر ح",
+          "bs": "radost",
+          "en": "joy",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        },
+        {
+          "w": "احْتَضَنَتْهُ",
+          "root": "ح ض ن",
+          "bs": "zagrlila ga je",
+          "en": "hugged him",
+          "lemma": "اِحْتَضَنَ يَحْتَضِنُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mother", "love", "gift", "child"]
+    "tags": [
+      "mother",
+      "love",
+      "gift",
+      "child"
+    ]
   }
 }

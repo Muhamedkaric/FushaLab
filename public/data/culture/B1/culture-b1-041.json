@@ -8,11 +8,41 @@
       "translation": "Stari grad ima uske i lijepe uličice.",
       "translationEn": "The old city has narrow and beautiful alleys.",
       "words": [
-        { "w": "المَدِينَةُ", "root": "م د ن", "bs": "grad", "en": "city" },
-        { "w": "القَدِيمَةُ", "root": "ق د م", "bs": "stari", "en": "old" },
-        { "w": "أَزِقَّةٌ", "root": "ز ق ق", "bs": "uličice", "en": "alleys" },
-        { "w": "ضَيِّقَةٌ", "root": "ض ي ق", "bs": "uske", "en": "narrow" },
-        { "w": "جَمِيلَةٌ", "root": "ج م ل", "bs": "lijepe", "en": "beautiful" }
+        {
+          "w": "المَدِينَةُ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "القَدِيمَةُ",
+          "root": "ق د م",
+          "bs": "stari",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "أَزِقَّةٌ",
+          "root": "ز ق ق",
+          "bs": "uličice",
+          "en": "alleys",
+          "lemma": "زُقَاقٌ / أَزِقَّةٌ"
+        },
+        {
+          "w": "ضَيِّقَةٌ",
+          "root": "ض ي ق",
+          "bs": "uske",
+          "en": "narrow",
+          "lemma": "ضَيِّقٌ"
+        },
+        {
+          "w": "جَمِيلَةٌ",
+          "root": "ج م ل",
+          "bs": "lijepe",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Stare kuće su izgrađene od kamena.",
       "translationEn": "The old houses are built from stone.",
       "words": [
-        { "w": "البُيُوتُ", "root": "ب ي ت", "bs": "kuće", "en": "houses" },
-        { "w": "القَدِيمَةُ", "root": "ق د م", "bs": "stare", "en": "old" },
-        { "w": "مَبْنِيَّةٌ", "root": "ب ن ي", "bs": "izgrađene", "en": "built" },
-        { "w": "الحَجَرِ", "root": "ح ج ر", "bs": "kamena", "en": "stone" }
+        {
+          "w": "البُيُوتُ",
+          "root": "ب ي ت",
+          "bs": "kuće",
+          "en": "houses",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "القَدِيمَةُ",
+          "root": "ق د م",
+          "bs": "stare",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "مَبْنِيَّةٌ",
+          "root": "ب ن ي",
+          "bs": "izgrađene",
+          "en": "built",
+          "lemma": "مَبْنِيٌّ"
+        },
+        {
+          "w": "الحَجَرِ",
+          "root": "ح ج ر",
+          "bs": "kamena",
+          "en": "stone",
+          "lemma": "حَجَرٌ / أَحْجَارٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Turisti šetaju po starim četvrtima.",
       "translationEn": "Tourists walk through the old neighborhoods.",
       "words": [
-        { "w": "يَتَجَوَّلُ", "root": "ج و ل", "bs": "šetaju", "en": "walk through" },
-        { "w": "السُّيَّاحُ", "root": "س ي ح", "bs": "turisti", "en": "tourists" },
-        { "w": "الأَحْيَاءِ", "root": "ح ي ي", "bs": "četvrtima", "en": "neighborhoods" },
-        { "w": "القَدِيمَةِ", "root": "ق د م", "bs": "starim", "en": "old" }
+        {
+          "w": "يَتَجَوَّلُ",
+          "root": "ج و ل",
+          "bs": "šetaju",
+          "en": "walk through",
+          "lemma": "تَجَوَّلَ يَتَجَوَّلُ"
+        },
+        {
+          "w": "السُّيَّاحُ",
+          "root": "س ي ح",
+          "bs": "turisti",
+          "en": "tourists",
+          "lemma": "سَائِحٌ / سُيَّاحٌ"
+        },
+        {
+          "w": "الأَحْيَاءِ",
+          "root": "ح ي ي",
+          "bs": "četvrtima",
+          "en": "neighborhoods",
+          "lemma": "حَيٌّ / أَحْيَاءٌ"
+        },
+        {
+          "w": "القَدِيمَةِ",
+          "root": "ق د م",
+          "bs": "starim",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        }
       ]
     },
     {
@@ -42,10 +120,34 @@
       "translation": "Svaki grad ima svoju posebnu historiju i kulturu.",
       "translationEn": "Every city has its own special history and culture.",
       "words": [
-        { "w": "مَدِينَةٍ", "root": "م د ن", "bs": "grad", "en": "city" },
-        { "w": "تَارِيخٌ", "root": "أ ر خ", "bs": "historiju", "en": "history" },
-        { "w": "ثَقَافَةٌ", "root": "ث ق ف", "bs": "kulturu", "en": "culture" },
-        { "w": "خَاصَّةٌ", "root": "خ ص ص", "bs": "posebnu", "en": "special" }
+        {
+          "w": "مَدِينَةٍ",
+          "root": "م د ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "تَارِيخٌ",
+          "root": "أ ر خ",
+          "bs": "historiju",
+          "en": "history",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        },
+        {
+          "w": "ثَقَافَةٌ",
+          "root": "ث ق ف",
+          "bs": "kulturu",
+          "en": "culture",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "خَاصَّةٌ",
+          "root": "خ ص ص",
+          "bs": "posebnu",
+          "en": "special",
+          "lemma": "خَاصٌّ"
+        }
       ]
     }
   ],

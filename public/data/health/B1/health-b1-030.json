@@ -12,31 +12,36 @@
           "w": "اشْتَرَتْ",
           "root": "ش ر ي",
           "bs": "kupila je",
-          "en": "bought"
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
         },
         {
           "w": "الصَّيْدَلِيَّةِ",
           "root": "ص ي د",
           "bs": "apoteka",
-          "en": "pharmacy"
+          "en": "pharmacy",
+          "lemma": "صَيْدَلِيَّةٌ / صَيْدَلِيَّاتٌ"
         },
         {
           "w": "كَرِيمًا",
           "root": "ك ر م",
           "bs": "krema",
-          "en": "cream"
+          "en": "cream",
+          "lemma": "كَرِيمٌ / كَرِيمَاتٌ"
         },
         {
           "w": "لِلْجِلْدِ",
           "root": "ج ل د",
           "bs": "koža",
-          "en": "skin"
+          "en": "skin",
+          "lemma": "جِلْدٌ / جُلُودٌ"
         },
         {
           "w": "الْجَافِّ",
           "root": "ج ف ف",
           "bs": "suha",
-          "en": "dry"
+          "en": "dry",
+          "lemma": "جَافٌّ"
         }
       ]
     },
@@ -49,25 +54,29 @@
           "w": "سَأَلَتِ",
           "root": "س أ ل",
           "bs": "pitala je",
-          "en": "asked"
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
         },
         {
           "w": "الصَّيْدَلَانِيَّةَ",
           "root": "ص ي د",
           "bs": "farmaceutkinja",
-          "en": "pharmacist"
+          "en": "pharmacist",
+          "lemma": "صَيْدَلَانِيَّةٌ / صَيَادِلَةُ"
         },
         {
           "w": "أَفْضَلِ",
           "root": "ف ض ل",
           "bs": "najbolja",
-          "en": "best"
+          "en": "best",
+          "lemma": "أَفْضَلُ"
         },
         {
           "w": "نَوْعٍ",
           "root": "ن و ع",
           "bs": "vrsta",
-          "en": "type"
+          "en": "type",
+          "lemma": "نَوْعٌ / أَنْوَاعٌ"
         }
       ]
     },
@@ -80,25 +89,29 @@
           "w": "نَصَحَتْهَا",
           "root": "ن ص ح",
           "bs": "savjetovala ju je",
-          "en": "advised her"
+          "en": "advised her",
+          "lemma": "نَصَحَ يَنْصَحُ"
         },
         {
           "w": "الصَّيْدَلَانِيَّةُ",
           "root": "ص ي د",
           "bs": "farmaceutkinja",
-          "en": "pharmacist"
+          "en": "pharmacist",
+          "lemma": "صَيْدَلَانِيَّةٌ / صَيَادِلَةُ"
         },
         {
           "w": "بِكَرِيمٍ",
           "root": "ك ر م",
           "bs": "krema",
-          "en": "cream"
+          "en": "cream",
+          "lemma": "كَرِيمٌ / كَرِيمَاتٌ"
         },
         {
           "w": "طَبِيعِيٍّ",
           "root": "ط ب ع",
           "bs": "prirodna",
-          "en": "natural"
+          "en": "natural",
+          "lemma": "طَبِيعِيٌّ"
         }
       ]
     },
@@ -111,19 +124,22 @@
           "w": "اسْتَخْدَمَتْ",
           "root": "خ د م",
           "bs": "koristila je",
-          "en": "used"
+          "en": "used",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
         },
         {
           "w": "الْكَرِيمَ",
           "root": "ك ر م",
           "bs": "krema",
-          "en": "cream"
+          "en": "cream",
+          "lemma": "كَرِيمٌ / كَرِيمَاتٌ"
         },
         {
           "w": "الِاسْتِحْمَامِ",
           "root": "ح م م",
           "bs": "tuširanja",
-          "en": "showering"
+          "en": "showering",
+          "lemma": "اسْتِحْمَامٌ"
         }
       ]
     }

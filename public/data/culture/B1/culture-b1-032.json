@@ -8,11 +8,41 @@
       "translation": "Porodica je otišla u hamam u petak.",
       "translationEn": "The family went to the hammam on Friday.",
       "words": [
-        { "w": "ذَهَبَتِ", "root": "ذ هـ ب", "bs": "otišla je", "en": "went" },
-        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
-        { "w": "الحَمَّامِ", "root": "ح م م", "bs": "hamam", "en": "hammam" },
-        { "w": "يَوْمَ", "root": "ي و م", "bs": "dana", "en": "day" },
-        { "w": "الجُمُعَةِ", "root": "ج م ع", "bs": "petak", "en": "Friday" }
+        {
+          "w": "ذَهَبَتِ",
+          "root": "ذ هـ ب",
+          "bs": "otišla je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الأُسْرَةُ",
+          "root": "أ س ر",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "الحَمَّامِ",
+          "root": "ح م م",
+          "bs": "hamam",
+          "en": "hammam",
+          "lemma": "حَمَّامٌ / حَمَّامَاتٌ"
+        },
+        {
+          "w": "يَوْمَ",
+          "root": "ي و م",
+          "bs": "dana",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "الجُمُعَةِ",
+          "root": "ج م ع",
+          "bs": "petak",
+          "en": "Friday",
+          "lemma": "جُمُعَةٌ / جُمَعٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Hamam je blizu kuće.",
       "translationEn": "The hammam is close to the house.",
       "words": [
-        { "w": "الحَمَّامُ", "root": "ح م م", "bs": "hamam", "en": "hammam" },
-        { "w": "قَرِيبٌ", "root": "ق ر ب", "bs": "blizu", "en": "close" },
-        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuće", "en": "house" }
+        {
+          "w": "الحَمَّامُ",
+          "root": "ح م م",
+          "bs": "hamam",
+          "en": "hammam",
+          "lemma": "حَمَّامٌ / حَمَّامَاتٌ"
+        },
+        {
+          "w": "قَرِيبٌ",
+          "root": "ق ر ب",
+          "bs": "blizu",
+          "en": "close",
+          "lemma": "قَرِيبٌ"
+        },
+        {
+          "w": "البَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuće",
+          "en": "house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Svi su se osjetili čisto i opušteno.",
       "translationEn": "Everyone felt clean and relaxed.",
       "words": [
-        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetili su se", "en": "felt" },
-        { "w": "الجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
-        { "w": "بِالنَّظَافَةِ", "root": "ن ظ ف", "bs": "čisto", "en": "clean" },
-        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "opušteno", "en": "relaxed" }
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetili su se",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الجَمِيعُ",
+          "root": "ج م ع",
+          "bs": "svi",
+          "en": "everyone",
+          "lemma": "جَمِيعٌ"
+        },
+        {
+          "w": "بِالنَّظَافَةِ",
+          "root": "ن ظ ف",
+          "bs": "čisto",
+          "en": "clean",
+          "lemma": "نَظَافَةٌ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "opušteno",
+          "en": "relaxed",
+          "lemma": "رَاحَةٌ"
+        }
       ]
     },
     {
@@ -41,11 +113,41 @@
       "translation": "Tradicionalni hamam je dio svakodnevnog života.",
       "translationEn": "The traditional hammam is part of daily life.",
       "words": [
-        { "w": "الحَمَّامُ", "root": "ح م م", "bs": "hamam", "en": "hammam" },
-        { "w": "التُّرَاثِيُّ", "root": "و ر ث", "bs": "tradicioalni", "en": "traditional" },
-        { "w": "جُزْءٌ", "root": "ج ز أ", "bs": "dio", "en": "part" },
-        { "w": "الحَيَاةِ", "root": "ح ي ي", "bs": "života", "en": "life" },
-        { "w": "اليَوْمِيَّةِ", "root": "ي و م", "bs": "svakodnevnog", "en": "daily" }
+        {
+          "w": "الحَمَّامُ",
+          "root": "ح م م",
+          "bs": "hamam",
+          "en": "hammam",
+          "lemma": "حَمَّامٌ / حَمَّامَاتٌ"
+        },
+        {
+          "w": "التُّرَاثِيُّ",
+          "root": "و ر ث",
+          "bs": "tradicioalni",
+          "en": "traditional",
+          "lemma": "تُرَاثِيٌّ"
+        },
+        {
+          "w": "جُزْءٌ",
+          "root": "ج ز أ",
+          "bs": "dio",
+          "en": "part",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "الحَيَاةِ",
+          "root": "ح ي ي",
+          "bs": "života",
+          "en": "life",
+          "lemma": "حَيَاةٌ / حَيَوَاتٌ"
+        },
+        {
+          "w": "اليَوْمِيَّةِ",
+          "root": "ي و م",
+          "bs": "svakodnevnog",
+          "en": "daily",
+          "lemma": "يَوْمِيٌّ"
+        }
       ]
     }
   ],

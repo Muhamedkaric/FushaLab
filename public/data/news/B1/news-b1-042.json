@@ -12,24 +12,28 @@
           "w": "تَعَطَّلَتِ",
           "root": "ع ط ل",
           "bs": "ugasila se",
-          "en": "went out"
+          "en": "went out",
+          "lemma": "تَعَطَّلَ يَتَعَطَّلُ"
         },
         {
           "w": "الْكَهْرَبَاءُ",
           "bs": "struja",
-          "en": "electricity"
+          "en": "electricity",
+          "lemma": "كَهْرَبَاءُ"
         },
         {
           "w": "أَحْيَاءِ",
           "root": "ح ي ي",
           "bs": "kvartovima",
-          "en": "neighborhoods"
+          "en": "neighborhoods",
+          "lemma": "حَيٌّ / أَحْيَاءٌ"
         },
         {
           "w": "الْمَدِينَةِ",
           "root": "م د ن",
           "bs": "grada",
-          "en": "city"
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
         }
       ]
     },
@@ -42,25 +46,29 @@
           "w": "عَمِلَ",
           "root": "ع م ل",
           "bs": "radili su",
-          "en": "worked"
+          "en": "worked",
+          "lemma": "عَمِلَ يَعْمَلُ"
         },
         {
           "w": "الْفَنِّيُّونَ",
           "root": "ف ن ن",
           "bs": "tehničari",
-          "en": "technicians"
+          "en": "technicians",
+          "lemma": "فَنِّيٌّ / فَنِّيُّونَ"
         },
         {
           "w": "إِصْلَاحِ",
           "root": "ص ل ح",
           "bs": "popravak",
-          "en": "fix"
+          "en": "fix",
+          "lemma": "إِصْلَاحٌ / إِصْلَاحَاتٌ"
         },
         {
           "w": "الْعَطَلِ",
           "root": "ع ط ل",
           "bs": "kvara",
-          "en": "fault"
+          "en": "fault",
+          "lemma": "عَطَلٌ"
         }
       ]
     },
@@ -73,18 +81,21 @@
           "w": "عَادَتِ",
           "root": "ع و د",
           "bs": "vratila se",
-          "en": "returned"
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
         },
         {
           "w": "الْكَهْرَبَاءُ",
           "bs": "struja",
-          "en": "electricity"
+          "en": "electricity",
+          "lemma": "كَهْرَبَاءُ"
         },
         {
           "w": "الْمَنَازِلِ",
           "root": "ن ز ل",
           "bs": "domaćinstvima",
-          "en": "homes"
+          "en": "homes",
+          "lemma": "مَنْزِلٌ / مَنَازِلُ"
         }
       ]
     },
@@ -97,25 +108,29 @@
           "w": "اعْتَذَرَتِ",
           "root": "ع ذ ر",
           "bs": "izvinjava se",
-          "en": "apologized"
+          "en": "apologized",
+          "lemma": "اِعْتَذَرَ يَعْتَذِرُ"
         },
         {
           "w": "الشَّرِكَةُ",
           "root": "ش ر ك",
           "bs": "kompanija",
-          "en": "company"
+          "en": "company",
+          "lemma": "شَرِكَةٌ / شَرِكَاتٌ"
         },
         {
           "w": "الإِزْعَاجِ",
           "root": "ز ع ج",
           "bs": "smetnje",
-          "en": "inconvenience"
+          "en": "inconvenience",
+          "lemma": "إِزْعَاجٌ"
         },
         {
           "w": "الصَّبْرِ",
           "root": "ص ب ر",
           "bs": "strpljenje",
-          "en": "patience"
+          "en": "patience",
+          "lemma": "صَبْرٌ"
         }
       ]
     }

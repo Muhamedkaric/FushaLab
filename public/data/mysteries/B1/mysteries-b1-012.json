@@ -8,10 +8,34 @@
       "translation": "Tamir je primijetio da se njegova stolica pomjerila sa svog mjesta.",
       "translationEn": "Tamir noticed that his chair had moved from its place.",
       "words": [
-        { "w": "لَاحَظَ", "root": "ل ح ظ", "bs": "primijetio je", "en": "he noticed" },
-        { "w": "كُرْسِيَّهُ", "root": "ك ر س", "bs": "stolica", "en": "his chair" },
-        { "w": "تَحَرَّكَ", "root": "ح ر ك", "bs": "pomjerila se", "en": "had moved" },
-        { "w": "مَكَانِهِ", "root": "ك و ن", "bs": "mjesta", "en": "its place" }
+        {
+          "w": "لَاحَظَ",
+          "root": "ل ح ظ",
+          "bs": "primijetio je",
+          "en": "he noticed",
+          "lemma": "لَاحَظَ يُلَاحِظُ"
+        },
+        {
+          "w": "كُرْسِيَّهُ",
+          "root": "ك ر س",
+          "bs": "stolica",
+          "en": "his chair",
+          "lemma": "كُرْسِيٌّ / كَرَاسِيُّ"
+        },
+        {
+          "w": "تَحَرَّكَ",
+          "root": "ح ر ك",
+          "bs": "pomjerila se",
+          "en": "had moved",
+          "lemma": "تَحَرَّكَ يَتَحَرَّكُ"
+        },
+        {
+          "w": "مَكَانِهِ",
+          "root": "ك و ن",
+          "bs": "mjesta",
+          "en": "its place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        }
       ]
     },
     {
@@ -19,8 +43,20 @@
       "translation": "Bio je siguran da ga je juče stavio tamo.",
       "translationEn": "He was sure he had placed it there yesterday.",
       "words": [
-        { "w": "مُتَأَكِّدًا", "root": "أ ك د", "bs": "siguran", "en": "sure/certain" },
-        { "w": "وَضَعَهُ", "root": "و ض ع", "bs": "stavio ga je", "en": "he placed it" }
+        {
+          "w": "مُتَأَكِّدًا",
+          "root": "أ ك د",
+          "bs": "siguran",
+          "en": "sure/certain",
+          "lemma": "مُتَأَكِّدٌ"
+        },
+        {
+          "w": "وَضَعَهُ",
+          "root": "و ض ع",
+          "bs": "stavio ga je",
+          "en": "he placed it",
+          "lemma": "وَضَعَ يَضَعُ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Pitao je majku je li čistila sobu.",
       "translationEn": "He asked his mother if she had cleaned the room.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "he asked" },
-        { "w": "تَنَظَّفَتِ", "root": "ن ظ ف", "bs": "čistila je", "en": "she had cleaned" },
-        { "w": "الْغُرْفَةَ", "root": "غ ر ف", "bs": "sobu", "en": "the room" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "he asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "تَنَظَّفَتِ",
+          "root": "ن ظ ف",
+          "bs": "čistila je",
+          "en": "she had cleaned",
+          "lemma": "تَنَظَّفَ يَتَنَظَّفُ"
+        },
+        {
+          "w": "الْغُرْفَةَ",
+          "root": "غ ر ف",
+          "bs": "sobu",
+          "en": "the room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        }
       ]
     },
     {
@@ -38,10 +92,34 @@
       "translation": "Majka je rekla: Da, očistila sam pod i malo pomjerila namještaj.",
       "translationEn": "The mother said: Yes, I cleaned the floor and moved the furniture a little.",
       "words": [
-        { "w": "نَظَّفْتُ", "root": "ن ظ ف", "bs": "očistila sam", "en": "I cleaned" },
-        { "w": "الْأَرْضِيَّةَ", "root": "أ ر ض", "bs": "pod", "en": "the floor" },
-        { "w": "حَرَّكْتُ", "root": "ح ر ك", "bs": "pomjerila sam", "en": "I moved" },
-        { "w": "الْأَثَاثَ", "root": "أ ث ث", "bs": "namještaj", "en": "the furniture" }
+        {
+          "w": "نَظَّفْتُ",
+          "root": "ن ظ ف",
+          "bs": "očistila sam",
+          "en": "I cleaned",
+          "lemma": "نَظَّفَ يُنَظِّفُ"
+        },
+        {
+          "w": "الْأَرْضِيَّةَ",
+          "root": "أ ر ض",
+          "bs": "pod",
+          "en": "the floor",
+          "lemma": "أَرْضِيَّةٌ / أَرْضِيَّاتٌ"
+        },
+        {
+          "w": "حَرَّكْتُ",
+          "root": "ح ر ك",
+          "bs": "pomjerila sam",
+          "en": "I moved",
+          "lemma": "حَرَّكَ يُحَرِّكُ"
+        },
+        {
+          "w": "الْأَثَاثَ",
+          "root": "أ ث ث",
+          "bs": "namještaj",
+          "en": "the furniture",
+          "lemma": "أَثَاثٌ"
+        }
       ]
     },
     {
@@ -49,14 +127,37 @@
       "translation": "Tamir se nasmiješio i zahvalio majci na čišćenju.",
       "translationEn": "Tamir smiled and thanked his mother for cleaning.",
       "words": [
-        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "he smiled" },
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "he thanked" },
-        { "w": "النَّظَافَةِ", "root": "ن ظ ف", "bs": "čišćenju", "en": "cleaning" }
+        {
+          "w": "ابْتَسَمَ",
+          "root": "ب س م",
+          "bs": "nasmiješio se",
+          "en": "he smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        },
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "he thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "النَّظَافَةِ",
+          "root": "ن ظ ف",
+          "bs": "čišćenju",
+          "en": "cleaning",
+          "lemma": "نَظَافَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "chair", "moved", "home"]
+    "tags": [
+      "mystery",
+      "chair",
+      "moved",
+      "home"
+    ]
   }
 }

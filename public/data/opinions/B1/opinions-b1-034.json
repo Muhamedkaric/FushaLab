@@ -8,10 +8,34 @@
       "translation": "Po mom mišljenju, briga o životinjama nas uči samilosti.",
       "translationEn": "In my opinion, caring for animals teaches us compassion.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
-        { "w": "الِاهْتِمَامُ", "root": "ه م م", "bs": "briga", "en": "caring" },
-        { "w": "بِالْحَيَوَانَاتِ", "root": "ح ي و", "bs": "o životinjama", "en": "for animals" },
-        { "w": "الرَّحْمَةَ", "root": "ر ح م", "bs": "samilost", "en": "compassion" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "moje mišljenje",
+          "en": "my opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "الِاهْتِمَامُ",
+          "root": "ه م م",
+          "bs": "briga",
+          "en": "caring",
+          "lemma": "اهْتِمَامٌ / اهْتِمَامَاتٌ"
+        },
+        {
+          "w": "بِالْحَيَوَانَاتِ",
+          "root": "ح ي و",
+          "bs": "o životinjama",
+          "en": "for animals",
+          "lemma": "حَيَوَانٌ / حَيَوَانَاتٌ"
+        },
+        {
+          "w": "الرَّحْمَةَ",
+          "root": "ر ح م",
+          "bs": "samilost",
+          "en": "compassion",
+          "lemma": "رَحْمَةٌ / رَحَمَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Dijete koje uzgaja životinju uči odgovornost.",
       "translationEn": "A child who raises an animal learns responsibility.",
       "words": [
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "يُرَبِّي", "root": "ر ب و", "bs": "uzgaja", "en": "raises" },
-        { "w": "حَيَوَانًا", "root": "ح ي و", "bs": "životinju", "en": "animal" },
-        { "w": "يَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learns" }
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يُرَبِّي",
+          "root": "ر ب و",
+          "bs": "uzgaja",
+          "en": "raises",
+          "lemma": "رَبَّى يُرَبِّي"
+        },
+        {
+          "w": "حَيَوَانًا",
+          "root": "ح ي و",
+          "bs": "životinju",
+          "en": "animal",
+          "lemma": "حَيَوَانٌ / حَيَوَانَاتٌ"
+        },
+        {
+          "w": "يَتَعَلَّمُ",
+          "root": "ع ل م",
+          "bs": "uči",
+          "en": "learns",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Životinje također osjećaju i vole.",
       "translationEn": "Animals also feel and love.",
       "words": [
-        { "w": "الْحَيَوَانَاتُ", "root": "ح ي و", "bs": "životinje", "en": "animals" },
-        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjećaju", "en": "feel" },
-        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "vole", "en": "love" }
+        {
+          "w": "الْحَيَوَانَاتُ",
+          "root": "ح ي و",
+          "bs": "životinje",
+          "en": "animals",
+          "lemma": "حَيَوَانٌ / حَيَوَانَاتٌ"
+        },
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećaju",
+          "en": "feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "تُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "vole",
+          "en": "love",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        }
       ]
     },
     {
@@ -40,13 +106,30 @@
       "translation": "Moramo se brinuti za njih i ne smijemo ih povrijediti.",
       "translationEn": "We must look after them and not harm them.",
       "words": [
-        { "w": "نَعْتَنِيَ", "root": "ع ن ي", "bs": "da se brinemo", "en": "to look after" },
-        { "w": "نُؤْذِيَهَا", "root": "أ ذ ي", "bs": "da ih povrijedimo", "en": "to harm them" }
+        {
+          "w": "نَعْتَنِيَ",
+          "root": "ع ن ي",
+          "bs": "da se brinemo",
+          "en": "to look after",
+          "lemma": "اِعْتَنَى يَعْتَنِي"
+        },
+        {
+          "w": "نُؤْذِيَهَا",
+          "root": "أ ذ ي",
+          "bs": "da ih povrijedimo",
+          "en": "to harm them",
+          "lemma": "آذَى يُؤْذِي"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "animals", "compassion", "responsibility"]
+    "tags": [
+      "opinion",
+      "animals",
+      "compassion",
+      "responsibility"
+    ]
   }
 }

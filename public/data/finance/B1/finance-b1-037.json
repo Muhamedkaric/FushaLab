@@ -8,10 +8,34 @@
       "translation": "Faris je kupio karte za kino za sebe i prijatelja.",
       "translationEn": "Faris bought cinema tickets for himself and his friend.",
       "words": [
-        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
-        { "w": "تَذَاكِرَ", "root": "ذ ك ر", "bs": "karte", "en": "tickets" },
-        { "w": "السِّينَمَا", "root": "", "bs": "kino", "en": "cinema" },
-        { "w": "لِصَدِيقِهِ", "root": "ص د ق", "bs": "za prijatelja", "en": "for his friend" }
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "تَذَاكِرَ",
+          "root": "ذ ك ر",
+          "bs": "karte",
+          "en": "tickets",
+          "lemma": "تَذْكِرَةٌ / تَذَاكِرُ"
+        },
+        {
+          "w": "السِّينَمَا",
+          "root": "",
+          "bs": "kino",
+          "en": "cinema",
+          "lemma": "سِينَمَا"
+        },
+        {
+          "w": "لِصَدِيقِهِ",
+          "root": "ص د ق",
+          "bs": "za prijatelja",
+          "en": "for his friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Cijena dviju karata bila je razumna.",
       "translationEn": "The price of the two tickets was reasonable.",
       "words": [
-        { "w": "سِعْرُ", "root": "س ع ر", "bs": "cijena", "en": "price" },
-        { "w": "التَّذْكِرَتَيْنِ", "root": "ذ ك ر", "bs": "dvije karte", "en": "two tickets" },
-        { "w": "مَعْقُولًا", "root": "ع ق ل", "bs": "razumna", "en": "reasonable" }
+        {
+          "w": "سِعْرُ",
+          "root": "س ع ر",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        },
+        {
+          "w": "التَّذْكِرَتَيْنِ",
+          "root": "ذ ك ر",
+          "bs": "dvije karte",
+          "en": "two tickets",
+          "lemma": "تَذْكِرَةٌ / تَذَاكِرُ"
+        },
+        {
+          "w": "مَعْقُولًا",
+          "root": "ع ق ل",
+          "bs": "razumna",
+          "en": "reasonable",
+          "lemma": "مَعْقُولٌ"
+        }
       ]
     },
     {
@@ -29,8 +71,20 @@
       "translation": "Faris je s radošću platio za obojicu.",
       "translationEn": "Faris paid for both happily.",
       "words": [
-        { "w": "دَفَعَ", "root": "د ف ع", "bs": "platio je", "en": "paid" },
-        { "w": "بِسُرُورٍ", "root": "س ر ر", "bs": "s radošću", "en": "happily" }
+        {
+          "w": "دَفَعَ",
+          "root": "د ف ع",
+          "bs": "platio je",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "بِسُرُورٍ",
+          "root": "س ر ر",
+          "bs": "s radošću",
+          "en": "happily",
+          "lemma": "سُرُورٌ"
+        }
       ]
     },
     {
@@ -38,10 +92,34 @@
       "translation": "Prijatelj mu je obećao da će platiti sljedeći put.",
       "translationEn": "His friend promised to pay next time.",
       "words": [
-        { "w": "وَعَدَ", "root": "و ع د", "bs": "obećao je", "en": "promised" },
-        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" },
-        { "w": "يَدْفَعَ", "root": "د ف ع", "bs": "da plati", "en": "to pay" },
-        { "w": "القَادِمَةِ", "root": "ق د م", "bs": "sljedeći put", "en": "next time" }
+        {
+          "w": "وَعَدَ",
+          "root": "و ع د",
+          "bs": "obećao je",
+          "en": "promised",
+          "lemma": "وَعَدَ يَعِدُ"
+        },
+        {
+          "w": "صَدِيقُهُ",
+          "root": "ص د ق",
+          "bs": "njegov prijatelj",
+          "en": "his friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "يَدْفَعَ",
+          "root": "د ف ع",
+          "bs": "da plati",
+          "en": "to pay",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "القَادِمَةِ",
+          "root": "ق د م",
+          "bs": "sljedeći put",
+          "en": "next time",
+          "lemma": "قَادِمٌ"
+        }
       ]
     },
     {
@@ -49,15 +127,43 @@
       "translation": "Uživali su u filmu i izašli veseli.",
       "translationEn": "They enjoyed the film and left happy.",
       "words": [
-        { "w": "اسْتَمْتَعَا", "root": "م ت ع", "bs": "uživali su", "en": "enjoyed" },
-        { "w": "بِالفِيلْمِ", "root": "ف ي ل", "bs": "u filmu", "en": "the film" },
-        { "w": "خَرَجَا", "root": "خ ر ج", "bs": "izašli su", "en": "left" },
-        { "w": "فَرِحَيْنِ", "root": "ف ر ح", "bs": "veseli", "en": "happy" }
+        {
+          "w": "اسْتَمْتَعَا",
+          "root": "م ت ع",
+          "bs": "uživali su",
+          "en": "enjoyed",
+          "lemma": "اسْتَمْتَعَ يَسْتَمْتِعُ"
+        },
+        {
+          "w": "بِالفِيلْمِ",
+          "root": "ف ي ل",
+          "bs": "u filmu",
+          "en": "the film",
+          "lemma": "فِيلْمٌ / أَفْلَامٌ"
+        },
+        {
+          "w": "خَرَجَا",
+          "root": "خ ر ج",
+          "bs": "izašli su",
+          "en": "left",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "فَرِحَيْنِ",
+          "root": "ف ر ح",
+          "bs": "veseli",
+          "en": "happy",
+          "lemma": "فَرِحٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cinema", "tickets", "friends"]
+    "tags": [
+      "cinema",
+      "tickets",
+      "friends"
+    ]
   }
 }

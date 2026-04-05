@@ -8,10 +8,34 @@
       "translation": "Majka je rekla svom sinu: «Ko se trudi, naći će».",
       "translationEn": "The mother said to her son: «Whoever works hard will find».",
       "words": [
-        { "w": "الْأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "لِابْنِهَا", "root": "ب ن ي", "bs": "svom sinu", "en": "to her son" },
-        { "w": "جَدَّ", "root": "ج د د", "bs": "trudio se", "en": "worked hard" },
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "našao je", "en": "found" }
+        {
+          "w": "الْأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "لِابْنِهَا",
+          "root": "ب ن ي",
+          "bs": "svom sinu",
+          "en": "to her son",
+          "lemma": "اِبْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "جَدَّ",
+          "root": "ج د د",
+          "bs": "trudio se",
+          "en": "worked hard",
+          "lemma": "جَدَّ يَجِدُّ"
+        },
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "našao je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "To znači da ozbiljan rad vodi ka uspjehu.",
       "translationEn": "This means that hard work leads to success.",
       "words": [
-        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "rad", "en": "work" },
-        { "w": "الْجَادَّ", "root": "ج د د", "bs": "ozbiljan", "en": "serious" },
-        { "w": "يُؤَدِّي", "root": "أ د ي", "bs": "vodi", "en": "leads" },
-        { "w": "النَّجَاحِ", "root": "ن ج ح", "bs": "uspjeh", "en": "success" }
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْجَادَّ",
+          "root": "ج د د",
+          "bs": "ozbiljan",
+          "en": "serious",
+          "lemma": "جَادٌّ"
+        },
+        {
+          "w": "يُؤَدِّي",
+          "root": "أ د ي",
+          "bs": "vodi",
+          "en": "leads",
+          "lemma": "أَدَّى يُؤَدِّي"
+        },
+        {
+          "w": "النَّجَاحِ",
+          "root": "ن ج ح",
+          "bs": "uspjeh",
+          "en": "success",
+          "lemma": "نَجَاحٌ"
+        }
       ]
     },
     {
@@ -30,8 +78,20 @@
       "translation": "Sami je učio svaki dan i nije prestajao.",
       "translationEn": "Sami studied every day and did not stop.",
       "words": [
-        { "w": "دَرَسَ", "root": "د ر س", "bs": "učio je", "en": "studied" },
-        { "w": "يَتَوَقَّفْ", "root": "و ق ف", "bs": "prestajao", "en": "stop" }
+        {
+          "w": "دَرَسَ",
+          "root": "د ر س",
+          "bs": "učio je",
+          "en": "studied",
+          "lemma": "دَرَسَ يَدْرُسُ"
+        },
+        {
+          "w": "يَتَوَقَّفْ",
+          "root": "و ق ف",
+          "bs": "prestajao",
+          "en": "stop",
+          "lemma": "تَوَقَّفَ يَتَوَقَّفُ"
+        }
       ]
     },
     {
@@ -39,14 +99,36 @@
       "translation": "Uspio je na ispitu i veoma se obradovao.",
       "translationEn": "He passed the exam and was very happy.",
       "words": [
-        { "w": "نَجَحَ", "root": "ن ج ح", "bs": "uspio je", "en": "passed" },
-        { "w": "الِامْتِحَانِ", "root": "م ح ن", "bs": "ispit", "en": "exam" },
-        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was happy" }
+        {
+          "w": "نَجَحَ",
+          "root": "ن ج ح",
+          "bs": "uspio je",
+          "en": "passed",
+          "lemma": "نَجَحَ يَنْجَحُ"
+        },
+        {
+          "w": "الِامْتِحَانِ",
+          "root": "م ح ن",
+          "bs": "ispit",
+          "en": "exam",
+          "lemma": "اِمْتِحَانٌ / اِمْتِحَانَاتٌ"
+        },
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovao se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["hard work", "proverb", "success"]
+    "tags": [
+      "hard work",
+      "proverb",
+      "success"
+    ]
   }
 }

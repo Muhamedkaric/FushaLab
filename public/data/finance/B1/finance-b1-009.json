@@ -8,10 +8,34 @@
       "translation": "Hasan je vidio lijepu igračku u prodavnici.",
       "translationEn": "Hassan saw a beautiful toy in the store.",
       "words": [
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
-        { "w": "لُعْبَةً", "root": "ل ع ب", "bs": "igračka", "en": "toy" },
-        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijepa", "en": "beautiful" },
-        { "w": "المَتْجَرِ", "root": "ت ج ر", "bs": "prodavnica", "en": "store" }
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "لُعْبَةً",
+          "root": "ل ع ب",
+          "bs": "igračka",
+          "en": "toy",
+          "lemma": "لُعْبَةٌ / أَلْعَابٌ"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijepa",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "المَتْجَرِ",
+          "root": "ت ج ر",
+          "bs": "prodavnica",
+          "en": "store",
+          "lemma": "مَتْجَرٌ / مَتَاجِرُ"
+        }
       ]
     },
     {
@@ -19,8 +43,20 @@
       "translation": "Zamolio je majku da mu je kupi.",
       "translationEn": "He asked his mother to buy it for him.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "zamolio je", "en": "asked" },
-        { "w": "تَشْتَرِيَهَا", "root": "ش ر ي", "bs": "da je kupi", "en": "to buy it" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "zamolio je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "تَشْتَرِيَهَا",
+          "root": "ش ر ي",
+          "bs": "da je kupi",
+          "en": "to buy it",
+          "lemma": "اِشْتَرَى يَشْتَرِي"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Majka je rekla: Cijena joj je sada visoka.",
       "translationEn": "His mother said: Its price is high now.",
       "words": [
-        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
-        { "w": "سِعْرُهَا", "root": "س ع ر", "bs": "njena cijena", "en": "its price" },
-        { "w": "غَالٍ", "root": "غ ل و", "bs": "visoka", "en": "high" }
+        {
+          "w": "قَالَتِ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "سِعْرُهَا",
+          "root": "س ع ر",
+          "bs": "njena cijena",
+          "en": "its price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        },
+        {
+          "w": "غَالٍ",
+          "root": "غ ل و",
+          "bs": "visoka",
+          "en": "high",
+          "lemma": "غَالٍ"
+        }
       ]
     },
     {
@@ -38,14 +92,36 @@
       "translation": "Hasan je čekao dok cijena nije pala.",
       "translationEn": "Hassan waited until the price went down.",
       "words": [
-        { "w": "انْتَظَرَ", "root": "ن ظ ر", "bs": "čekao je", "en": "waited" },
-        { "w": "نَزَلَ", "root": "ن ز ل", "bs": "pala je", "en": "went down" },
-        { "w": "السِّعْرُ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+        {
+          "w": "انْتَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "čekao je",
+          "en": "waited",
+          "lemma": "اِنْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "نَزَلَ",
+          "root": "ن ز ل",
+          "bs": "pala je",
+          "en": "went down",
+          "lemma": "نَزَلَ يَنْزِلُ"
+        },
+        {
+          "w": "السِّعْرُ",
+          "root": "س ع ر",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["toys", "price", "shopping"]
+    "tags": [
+      "toys",
+      "price",
+      "shopping"
+    ]
   }
 }

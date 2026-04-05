@@ -8,11 +8,41 @@
       "translation": "Majka je otišla upisati sina u školu.",
       "translationEn": "The mother went to register her son at school.",
       "words": [
-        { "w": "ذَهَبَتِ", "root": "ذ هـ ب", "bs": "otišla je", "en": "went" },
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "لِتَسْجِيلِ", "root": "س ج ل", "bs": "upisati", "en": "register" },
-        { "w": "ابْنِهَا", "root": "أ ب ن", "bs": "sina", "en": "son" },
-        { "w": "المَدْرَسَةِ", "root": "د ر س", "bs": "školu", "en": "school" }
+        {
+          "w": "ذَهَبَتِ",
+          "root": "ذ هـ ب",
+          "bs": "otišla je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "لِتَسْجِيلِ",
+          "root": "س ج ل",
+          "bs": "upisati",
+          "en": "register",
+          "lemma": "تَسْجِيلٌ / تَسْجِيلَاتٌ"
+        },
+        {
+          "w": "ابْنِهَا",
+          "root": "أ ب ن",
+          "bs": "sina",
+          "en": "son",
+          "lemma": "ابْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "školu",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Direktor je tražio neke papire i dokumente.",
       "translationEn": "The principal asked for some papers and documents.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je", "en": "asked for" },
-        { "w": "المُدِيرُ", "root": "د ي ر", "bs": "direktor", "en": "principal" },
-        { "w": "الأَوْرَاقِ", "root": "و ر ق", "bs": "papire", "en": "papers" },
-        { "w": "الوَثَائِقَ", "root": "و ث ق", "bs": "dokumente", "en": "documents" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "tražio je",
+          "en": "asked for",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "المُدِيرُ",
+          "root": "د ي ر",
+          "bs": "direktor",
+          "en": "principal",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "الأَوْرَاقِ",
+          "root": "و ر ق",
+          "bs": "papire",
+          "en": "papers",
+          "lemma": "وَرَقَةٌ / أَوْرَاقٌ"
+        },
+        {
+          "w": "الوَثَائِقَ",
+          "root": "و ث ق",
+          "bs": "dokumente",
+          "en": "documents",
+          "lemma": "وَثِيقَةٌ / وَثَائِقُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Majka je donijela sve tražene papire.",
       "translationEn": "The mother brought all the required papers.",
       "words": [
-        { "w": "أَحْضَرَتِ", "root": "ح ض ر", "bs": "donijela je", "en": "brought" },
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "الأَوْرَاقِ", "root": "و ر ق", "bs": "papire", "en": "papers" },
-        { "w": "المَطْلُوبَةِ", "root": "ط ل ب", "bs": "tražene", "en": "required" }
+        {
+          "w": "أَحْضَرَتِ",
+          "root": "ح ض ر",
+          "bs": "donijela je",
+          "en": "brought",
+          "lemma": "أَحْضَرَ يُحْضِرُ"
+        },
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "الأَوْرَاقِ",
+          "root": "و ر ق",
+          "bs": "papire",
+          "en": "papers",
+          "lemma": "وَرَقَةٌ / أَوْرَاقٌ"
+        },
+        {
+          "w": "المَطْلُوبَةِ",
+          "root": "ط ل ب",
+          "bs": "tražene",
+          "en": "required",
+          "lemma": "مَطْلُوبٌ"
+        }
       ]
     },
     {
@@ -42,10 +120,34 @@
       "translation": "Upis je završen i majka se jako obradovala.",
       "translationEn": "The registration was completed and the mother was very happy.",
       "words": [
-        { "w": "تَمَّ", "root": "ت م م", "bs": "završen je", "en": "was completed" },
-        { "w": "التَّسْجِيلُ", "root": "س ج ل", "bs": "upis", "en": "registration" },
-        { "w": "فَرِحَتِ", "root": "ف ر ح", "bs": "obradovala se", "en": "was happy" },
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" }
+        {
+          "w": "تَمَّ",
+          "root": "ت م م",
+          "bs": "završen je",
+          "en": "was completed",
+          "lemma": "تَمَّ يَتِمُّ"
+        },
+        {
+          "w": "التَّسْجِيلُ",
+          "root": "س ج ل",
+          "bs": "upis",
+          "en": "registration",
+          "lemma": "تَسْجِيلٌ / تَسْجِيلَاتٌ"
+        },
+        {
+          "w": "فَرِحَتِ",
+          "root": "ف ر ح",
+          "bs": "obradovala se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        }
       ]
     },
     {
@@ -53,11 +155,41 @@
       "translation": "Dječak će početi školu iduće sedmice.",
       "translationEn": "The boy will start school next week.",
       "words": [
-        { "w": "سَيَبْدَأُ", "root": "ب د أ", "bs": "počeće", "en": "will start" },
-        { "w": "الوَلَدُ", "root": "و ل د", "bs": "dječak", "en": "boy" },
-        { "w": "الدِّرَاسَةَ", "root": "د ر س", "bs": "školu", "en": "school" },
-        { "w": "الأُسْبُوعَ", "root": "س ب ع", "bs": "sedmice", "en": "week" },
-        { "w": "القَادِمَ", "root": "ق د م", "bs": "iduće", "en": "next" }
+        {
+          "w": "سَيَبْدَأُ",
+          "root": "ب د أ",
+          "bs": "počeće",
+          "en": "will start",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الوَلَدُ",
+          "root": "و ل د",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "وَلَدٌ / أَوْلَادٌ"
+        },
+        {
+          "w": "الدِّرَاسَةَ",
+          "root": "د ر س",
+          "bs": "školu",
+          "en": "school",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        },
+        {
+          "w": "الأُسْبُوعَ",
+          "root": "س ب ع",
+          "bs": "sedmice",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        },
+        {
+          "w": "القَادِمَ",
+          "root": "ق د م",
+          "bs": "iduće",
+          "en": "next",
+          "lemma": "قَادِمٌ"
+        }
       ]
     }
   ],

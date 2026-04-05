@@ -8,11 +8,41 @@
       "translation": "Dječak po imenu Fadi je htio naučiti voziti bicikl.",
       "translationEn": "A boy named Fadi wanted to learn to ride a bicycle.",
       "words": [
-        { "w": "أَرَادَ", "root": "ر و د", "bs": "htio je", "en": "wanted" },
-        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dječak", "en": "boy" },
-        { "w": "تَعَلُّمَ", "root": "ع ل م", "bs": "naučiti", "en": "to learn" },
-        { "w": "الرُّكُوبِ", "root": "ر ك ب", "bs": "vožnja", "en": "riding" },
-        { "w": "الدَّرَّاجَةِ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" }
+        {
+          "w": "أَرَادَ",
+          "root": "ر و د",
+          "bs": "htio je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "طِفْلٌ",
+          "root": "ط ف ل",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "تَعَلُّمَ",
+          "root": "ع ل م",
+          "bs": "naučiti",
+          "en": "to learn",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "الرُّكُوبِ",
+          "root": "ر ك ب",
+          "bs": "vožnja",
+          "en": "riding",
+          "lemma": "رُكُوبٌ"
+        },
+        {
+          "w": "الدَّرَّاجَةِ",
+          "root": "د ر ج",
+          "bs": "bicikl",
+          "en": "bicycle",
+          "lemma": "دَرَّاجَةٌ / دَرَّاجَاتٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Puno je pokušavao i pao je mnogo puta.",
       "translationEn": "He tried many times and fell many times.",
       "words": [
-        { "w": "حَاوَلَ", "root": "ح و ل", "bs": "pokušavao je", "en": "tried" },
-        { "w": "سَقَطَ", "root": "س ق ط", "bs": "pao je", "en": "fell" },
-        { "w": "مَرَّاتٍ", "root": "م ر ر", "bs": "puta", "en": "times" },
-        { "w": "عَدِيدَةٍ", "root": "ع د د", "bs": "mnogo", "en": "many" }
+        {
+          "w": "حَاوَلَ",
+          "root": "ح و ل",
+          "bs": "pokušavao je",
+          "en": "tried",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "سَقَطَ",
+          "root": "س ق ط",
+          "bs": "pao je",
+          "en": "fell",
+          "lemma": "سَقَطَ يَسْقُطُ"
+        },
+        {
+          "w": "مَرَّاتٍ",
+          "root": "م ر ر",
+          "bs": "puta",
+          "en": "times",
+          "lemma": "مَرَّةٌ / مَرَّاتٌ"
+        },
+        {
+          "w": "عَدِيدَةٍ",
+          "root": "ع د د",
+          "bs": "mnogo",
+          "en": "many",
+          "lemma": "عَدِيدٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Majka je stala pored njega i rekla: «Vjerujem u tebe».",
       "translationEn": "His mother stood beside him and said: «I believe in you».",
       "words": [
-        { "w": "وَقَفَتِ", "root": "و ق ف", "bs": "stala je", "en": "stood" },
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
-        { "w": "وَاثِقَةٌ", "root": "و ث ق", "bs": "uvjerena", "en": "certain" }
+        {
+          "w": "وَقَفَتِ",
+          "root": "و ق ف",
+          "bs": "stala je",
+          "en": "stood",
+          "lemma": "وَقَفَ يَقِفُ"
+        },
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "قَالَتْ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "وَاثِقَةٌ",
+          "root": "و ث ق",
+          "bs": "uvjerena",
+          "en": "certain",
+          "lemma": "وَاثِقٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Fadi je potrčao i konačno sam vozio bicikl.",
       "translationEn": "Fadi ran and finally rode the bicycle alone.",
       "words": [
-        { "w": "رَكَضَ", "root": "ر ك ض", "bs": "potrčao je", "en": "ran" },
-        { "w": "رَكِبَ", "root": "ر ك ب", "bs": "vozio je", "en": "rode" },
-        { "w": "الدَّرَّاجَةَ", "root": "د ر ج", "bs": "bicikl", "en": "bicycle" },
-        { "w": "بِمُفْرَدِهِ", "root": "ف ر د", "bs": "sam", "en": "alone" },
-        { "w": "أَخِيرًا", "root": "أ خ ر", "bs": "konačno", "en": "finally" }
+        {
+          "w": "رَكَضَ",
+          "root": "ر ك ض",
+          "bs": "potrčao je",
+          "en": "ran",
+          "lemma": "رَكَضَ يَرْكُضُ"
+        },
+        {
+          "w": "رَكِبَ",
+          "root": "ر ك ب",
+          "bs": "vozio je",
+          "en": "rode",
+          "lemma": "رَكِبَ يَرْكَبُ"
+        },
+        {
+          "w": "الدَّرَّاجَةَ",
+          "root": "د ر ج",
+          "bs": "bicikl",
+          "en": "bicycle",
+          "lemma": "دَرَّاجَةٌ / دَرَّاجَاتٌ"
+        },
+        {
+          "w": "بِمُفْرَدِهِ",
+          "root": "ف ر د",
+          "bs": "sam",
+          "en": "alone",
+          "lemma": "مُفْرَدٌ"
+        },
+        {
+          "w": "أَخِيرًا",
+          "root": "أ خ ر",
+          "bs": "konačno",
+          "en": "finally",
+          "lemma": "أَخِيرًا"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["bicycle", "boy", "mother", "courage"]
+    "tags": [
+      "bicycle",
+      "boy",
+      "mother",
+      "courage"
+    ]
   }
 }

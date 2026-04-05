@@ -8,9 +8,27 @@
       "translation": "Velid je tražio od oca džeparac za sedmicu.",
       "translationEn": "Walid asked his father for pocket money for the week.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "tražio je", "en": "asked for" },
-        { "w": "مَصْرُوفًا", "root": "ص ر ف", "bs": "džeparac", "en": "pocket money" },
-        { "w": "الأُسْبُوعِ", "root": "س ب ع", "bs": "sedmica", "en": "week" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "tražio je",
+          "en": "asked for",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "مَصْرُوفًا",
+          "root": "ص ر ف",
+          "bs": "džeparac",
+          "en": "pocket money",
+          "lemma": "مَصْرُوفٌ / مَصَارِيفُ"
+        },
+        {
+          "w": "الأُسْبُوعِ",
+          "root": "س ب ع",
+          "bs": "sedmica",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Otac mu je dao mali iznos i savjetovao ga da ga uštedi.",
       "translationEn": "His father gave him a small amount and advised him to save it.",
       "words": [
-        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "gave him" },
-        { "w": "مَبْلَغًا", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
-        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mali", "en": "small" },
-        { "w": "نَصَحَهُ", "root": "ن ص ح", "bs": "savjetovao ga je", "en": "advised him" }
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط و",
+          "bs": "dao mu je",
+          "en": "gave him",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "مَبْلَغًا",
+          "root": "ب ل غ",
+          "bs": "iznos",
+          "en": "amount",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "نَصَحَهُ",
+          "root": "ن ص ح",
+          "bs": "savjetovao ga je",
+          "en": "advised him",
+          "lemma": "نَصَحَ يَنْصَحُ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Velid je odlučio potrošiti samo polovinu.",
       "translationEn": "Walid decided to spend only half of it.",
       "words": [
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
-        { "w": "يُنْفِقَ", "root": "ن ف ق", "bs": "da potroši", "en": "to spend" },
-        { "w": "نِصْفَهُ", "root": "ن ص ف", "bs": "polovinu", "en": "half of it" }
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "يُنْفِقَ",
+          "root": "ن ف ق",
+          "bs": "da potroši",
+          "en": "to spend",
+          "lemma": "أَنْفَقَ يُنْفِقُ"
+        },
+        {
+          "w": "نِصْفَهُ",
+          "root": "ن ص ف",
+          "bs": "polovinu",
+          "en": "half of it",
+          "lemma": "نِصْفٌ / أَنْصَافٌ"
+        }
       ]
     },
     {
@@ -39,10 +99,34 @@
       "translation": "Drugu polovinu je stavio u malu kutiju.",
       "translationEn": "He put the other half in a small box.",
       "words": [
-        { "w": "وَضَعَ", "root": "و ض ع", "bs": "stavio je", "en": "put" },
-        { "w": "النِّصْفَ", "root": "ن ص ف", "bs": "polovina", "en": "half" },
-        { "w": "الآخَرَ", "root": "أ خ ر", "bs": "drugi", "en": "other" },
-        { "w": "صُنْدُوقٍ", "root": "ص ن د", "bs": "kutija", "en": "box" }
+        {
+          "w": "وَضَعَ",
+          "root": "و ض ع",
+          "bs": "stavio je",
+          "en": "put",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "النِّصْفَ",
+          "root": "ن ص ف",
+          "bs": "polovina",
+          "en": "half",
+          "lemma": "نِصْفٌ / أَنْصَافٌ"
+        },
+        {
+          "w": "الآخَرَ",
+          "root": "أ خ ر",
+          "bs": "drugi",
+          "en": "other",
+          "lemma": "آخَرُ / أُخَرُ"
+        },
+        {
+          "w": "صُنْدُوقٍ",
+          "root": "ص ن د",
+          "bs": "kutija",
+          "en": "box",
+          "lemma": "صُنْدُوقٌ / صَنَادِيقُ"
+        }
       ]
     },
     {
@@ -50,13 +134,29 @@
       "translation": "Otac je bio sretan zbog ove odluke.",
       "translationEn": "His father was happy with this decision.",
       "words": [
-        { "w": "سَعِيدًا", "root": "س ع د", "bs": "sretan", "en": "happy" },
-        { "w": "القَرَارِ", "root": "ق ر ر", "bs": "odluka", "en": "decision" }
+        {
+          "w": "سَعِيدًا",
+          "root": "س ع د",
+          "bs": "sretan",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "القَرَارِ",
+          "root": "ق ر ر",
+          "bs": "odluka",
+          "en": "decision",
+          "lemma": "قَرَارٌ / قَرَارَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["pocket-money", "saving", "family"]
+    "tags": [
+      "pocket-money",
+      "saving",
+      "family"
+    ]
   }
 }

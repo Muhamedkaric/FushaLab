@@ -12,25 +12,29 @@
           "w": "مَرْكَزُ",
           "root": "ر ك ز",
           "bs": "centar",
-          "en": "center"
+          "en": "center",
+          "lemma": "مَرْكَزٌ / مَرَاكِزُ"
         },
         {
           "w": "الشَّبَابِ",
           "root": "ش ب ب",
           "bs": "mladih",
-          "en": "youth"
+          "en": "youth",
+          "lemma": "شَبَابٌ"
         },
         {
           "w": "وَرْشَةَ عَمَلٍ",
           "root": "و ر ش",
           "bs": "radionicu",
-          "en": "workshop"
+          "en": "workshop",
+          "lemma": "وَرْشَةٌ / وَرَشٌ"
         },
         {
           "w": "لِلطَّبْخِ",
           "root": "ط ب خ",
           "bs": "kuhanja",
-          "en": "cooking"
+          "en": "cooking",
+          "lemma": "طَبْخٌ"
         }
       ]
     },
@@ -43,31 +47,36 @@
           "w": "تَعَلَّمَ",
           "root": "ع ل م",
           "bs": "naučio je",
-          "en": "learned"
+          "en": "learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
         },
         {
           "w": "الشَّبَابُ",
           "root": "ش ب ب",
           "bs": "mladi",
-          "en": "youth"
+          "en": "youth",
+          "lemma": "شَبَابٌ"
         },
         {
           "w": "طَبْخِ",
           "root": "ط ب خ",
           "bs": "kuhanje",
-          "en": "cooking"
+          "en": "cooking",
+          "lemma": "طَبْخٌ"
         },
         {
           "w": "أَكْلَاتٍ",
           "root": "أ ك ل",
           "bs": "jela",
-          "en": "dishes"
+          "en": "dishes",
+          "lemma": "أَكْلَةٌ / أَكْلَاتٌ"
         },
         {
           "w": "شَعْبِيَّةٍ",
           "root": "ش ع ب",
           "bs": "narodna",
-          "en": "traditional"
+          "en": "traditional",
+          "lemma": "شَعْبِيٌّ"
         }
       ]
     },
@@ -80,19 +89,22 @@
           "w": "شَارَكَ",
           "root": "ش ر ك",
           "bs": "učestvovao je",
-          "en": "participated"
+          "en": "participated",
+          "lemma": "شَارَكَ يُشَارِكُ"
         },
         {
           "w": "شَبَابٍ",
           "root": "ش ب ب",
           "bs": "mladih",
-          "en": "young people"
+          "en": "young people",
+          "lemma": "شَبَابٌ"
         },
         {
           "w": "الْوَرْشَةِ",
           "root": "و ر ش",
           "bs": "radionici",
-          "en": "workshop"
+          "en": "workshop",
+          "lemma": "وَرْشَةٌ / وَرَشٌ"
         }
       ]
     },
@@ -105,19 +117,22 @@
           "w": "أَكَلُوا",
           "root": "أ ك ل",
           "bs": "jeli su",
-          "en": "ate"
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "طَبَخُوهُ",
           "root": "ط ب خ",
           "bs": "skuhali su",
-          "en": "cooked"
+          "en": "cooked",
+          "lemma": "طَبَخَ يَطْبُخُ"
         },
         {
           "w": "اسْتَمْتَعُوا",
           "root": "م ت ع",
           "bs": "zabavili su se",
-          "en": "enjoyed"
+          "en": "enjoyed",
+          "lemma": "اسْتَمْتَعَ يَسْتَمْتِعُ"
         }
       ]
     }

@@ -8,10 +8,34 @@
       "translation": "Svaki musliman ima poseban serdžadu za namaz.",
       "translationEn": "Every Muslim has a special prayer rug.",
       "words": [
-        { "w": "مُسْلِمٍ", "root": "س ل م", "bs": "musliman", "en": "Muslim" },
-        { "w": "سَجَّادَةٌ", "root": "س ج د", "bs": "serdžada", "en": "prayer rug" },
-        { "w": "خَاصَّةٌ", "root": "خ ص ص", "bs": "posebna", "en": "special" },
-        { "w": "لِلصَّلَاةِ", "root": "ص ل و", "bs": "za namaz", "en": "for prayer" }
+        {
+          "w": "مُسْلِمٍ",
+          "root": "س ل م",
+          "bs": "musliman",
+          "en": "Muslim",
+          "lemma": "مُسْلِمٌ / مُسْلِمُونَ"
+        },
+        {
+          "w": "سَجَّادَةٌ",
+          "root": "س ج د",
+          "bs": "serdžada",
+          "en": "prayer rug",
+          "lemma": "سَجَّادَةٌ / سَجَّادَاتٌ"
+        },
+        {
+          "w": "خَاصَّةٌ",
+          "root": "خ ص ص",
+          "bs": "posebna",
+          "en": "special",
+          "lemma": "خَاصٌّ"
+        },
+        {
+          "w": "لِلصَّلَاةِ",
+          "root": "ص ل و",
+          "bs": "za namaz",
+          "en": "for prayer",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Stavlja je na čisto i mirno mjesto.",
       "translationEn": "He places it in a clean and quiet place.",
       "words": [
-        { "w": "يَضَعُهَا", "root": "و ض ع", "bs": "stavlja je", "en": "places it" },
-        { "w": "مَكَانٍ", "root": "م ك ن", "bs": "mjesto", "en": "place" },
-        { "w": "نَظِيفٍ", "root": "ن ظ ف", "bs": "čisto", "en": "clean" },
-        { "w": "هَادِئٍ", "root": "هـ د أ", "bs": "mirno", "en": "quiet" }
+        {
+          "w": "يَضَعُهَا",
+          "root": "و ض ع",
+          "bs": "stavlja je",
+          "en": "places it",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "مَكَانٍ",
+          "root": "م ك ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "نَظِيفٍ",
+          "root": "ن ظ ف",
+          "bs": "čisto",
+          "en": "clean",
+          "lemma": "نَظِيفٌ"
+        },
+        {
+          "w": "هَادِئٍ",
+          "root": "هـ د أ",
+          "bs": "mirno",
+          "en": "quiet",
+          "lemma": "هَادِئٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Klanja na njoj pet puta dnevno.",
       "translationEn": "He prays on it five times a day.",
       "words": [
-        { "w": "يُصَلِّي", "root": "ص ل و", "bs": "klanja", "en": "prays" },
-        { "w": "خَمْسَ", "root": "خ م س", "bs": "pet", "en": "five" },
-        { "w": "مَرَّاتٍ", "root": "م ر ر", "bs": "puta", "en": "times" },
-        { "w": "اليَوْمِ", "root": "ي و م", "bs": "dnevno", "en": "a day" }
+        {
+          "w": "يُصَلِّي",
+          "root": "ص ل و",
+          "bs": "klanja",
+          "en": "prays",
+          "lemma": "صَلَّى يُصَلِّي"
+        },
+        {
+          "w": "خَمْسَ",
+          "root": "خ م س",
+          "bs": "pet",
+          "en": "five",
+          "lemma": "خَمْسَةٌ"
+        },
+        {
+          "w": "مَرَّاتٍ",
+          "root": "م ر ر",
+          "bs": "puta",
+          "en": "times",
+          "lemma": "مَرَّةٌ / مَرَّاتٌ"
+        },
+        {
+          "w": "اليَوْمِ",
+          "root": "ي و م",
+          "bs": "dnevno",
+          "en": "a day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Neki serdžadeti su ukrašeni lijepim oblicima.",
       "translationEn": "Some prayer rugs are decorated with beautiful patterns.",
       "words": [
-        { "w": "السَّجَّادَاتِ", "root": "س ج د", "bs": "serdžadeti", "en": "prayer rugs" },
-        { "w": "مُزَيَّنَةٌ", "root": "ز ي ن", "bs": "ukrašeni", "en": "decorated" },
-        { "w": "بِأَشْكَالٍ", "root": "ش ك ل", "bs": "oblicima", "en": "patterns" },
-        { "w": "جَمِيلَةٍ", "root": "ج م ل", "bs": "lijepim", "en": "beautiful" }
+        {
+          "w": "السَّجَّادَاتِ",
+          "root": "س ج د",
+          "bs": "serdžadeti",
+          "en": "prayer rugs",
+          "lemma": "سَجَّادَةٌ / سَجَّادَاتٌ"
+        },
+        {
+          "w": "مُزَيَّنَةٌ",
+          "root": "ز ي ن",
+          "bs": "ukrašeni",
+          "en": "decorated",
+          "lemma": "مُزَيَّنٌ"
+        },
+        {
+          "w": "بِأَشْكَالٍ",
+          "root": "ش ك ل",
+          "bs": "oblicima",
+          "en": "patterns",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "جَمِيلَةٍ",
+          "root": "ج م ل",
+          "bs": "lijepim",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     }
   ],

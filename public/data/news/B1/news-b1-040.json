@@ -12,25 +12,29 @@
           "w": "سُوقًا",
           "root": "س و ق",
           "bs": "tržište",
-          "en": "market"
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
         },
         {
           "w": "خَيْرِيًّا",
           "root": "خ ي ر",
           "bs": "dobrotvorni",
-          "en": "charity"
+          "en": "charity",
+          "lemma": "خَيْرِيٌّ"
         },
         {
           "w": "الْأُسَرِ",
           "root": "أ س ر",
           "bs": "porodicama",
-          "en": "families"
+          "en": "families",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
         },
         {
           "w": "الْمُحْتَاجَةِ",
           "root": "ح و ج",
           "bs": "siromašnim",
-          "en": "needy"
+          "en": "needy",
+          "lemma": "مُحْتَاجٌ"
         }
       ]
     },
@@ -43,31 +47,36 @@
           "w": "تَبَرَّعَ",
           "root": "ب ر ع",
           "bs": "donirao je",
-          "en": "donated"
+          "en": "donated",
+          "lemma": "تَبَرَّعَ يَتَبَرَّعُ"
         },
         {
           "w": "السُّكَّانُ",
           "root": "س ك ن",
           "bs": "stanovnici",
-          "en": "residents"
+          "en": "residents",
+          "lemma": "سَاكِنٌ / سُكَّانٌ"
         },
         {
           "w": "مَلَابِسَ",
           "root": "ل ب س",
           "bs": "odjeću",
-          "en": "clothing"
+          "en": "clothing",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
         },
         {
           "w": "أَطْعِمَةٍ",
           "root": "ط ع م",
           "bs": "hranu",
-          "en": "food"
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         },
         {
           "w": "كُتُبٍ",
           "root": "ك ت ب",
           "bs": "knjige",
-          "en": "books"
+          "en": "books",
+          "lemma": "كِتَابٌ / كُتُبٌ"
         }
       ]
     },
@@ -80,25 +89,29 @@
           "w": "اشْتَرَى",
           "root": "ش ر ي",
           "bs": "kupio je",
-          "en": "bought"
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
         },
         {
           "w": "الْبَضَائِعَ",
           "root": "ب ض ع",
           "bs": "robu",
-          "en": "goods"
+          "en": "goods",
+          "lemma": "بِضَاعَةٌ / بَضَائِعُ"
         },
         {
           "w": "أَسْعَارٍ",
           "root": "س ع ر",
           "bs": "cijenama",
-          "en": "prices"
+          "en": "prices",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
         },
         {
           "w": "رَمْزِيَّةٍ",
           "root": "ر م ز",
           "bs": "simboličnim",
-          "en": "symbolic"
+          "en": "symbolic",
+          "lemma": "رَمْزِيٌّ"
         }
       ]
     },
@@ -111,19 +124,22 @@
           "w": "أَمْوَالٌ",
           "root": "م و ل",
           "bs": "novac",
-          "en": "money"
+          "en": "money",
+          "lemma": "مَالٌ / أَمْوَالٌ"
         },
         {
           "w": "وُزِّعَتْ",
           "root": "و ز ع",
           "bs": "podijeljen je",
-          "en": "distributed"
+          "en": "distributed",
+          "lemma": "وَزَّعَ يُوَزِّعُ"
         },
         {
           "w": "الْمُحْتَاجِينَ",
           "root": "ح و ج",
           "bs": "potrebnima",
-          "en": "those in need"
+          "en": "those in need",
+          "lemma": "مُحْتَاجٌ"
         }
       ]
     }

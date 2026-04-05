@@ -8,10 +8,34 @@
       "translation": "Ribar je odlazio na more svako jutro.",
       "translationEn": "The fisherman used to go to the sea every morning.",
       "words": [
-        { "w": "الصَّيَّادُ", "root": "ص ي د", "bs": "ribar", "en": "the fisherman" },
-        { "w": "يَذْهَبُ", "root": "ذ ه ب", "bs": "odlazi", "en": "goes" },
-        { "w": "الْبَحْرِ", "root": "ب ح ر", "bs": "more", "en": "the sea" },
-        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        {
+          "w": "الصَّيَّادُ",
+          "root": "ص ي د",
+          "bs": "ribar",
+          "en": "the fisherman",
+          "lemma": "صَيَّادٌ / صَيَّادُونَ"
+        },
+        {
+          "w": "يَذْهَبُ",
+          "root": "ذ ه ب",
+          "bs": "odlazi",
+          "en": "goes",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الْبَحْرِ",
+          "root": "ب ح ر",
+          "bs": "more",
+          "en": "the sea",
+          "lemma": "بَحْرٌ / بِحَارٌ"
+        },
+        {
+          "w": "صَبَاحٍ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Plovio je malim drvenim čamcem.",
       "translationEn": "He would ride a small wooden boat.",
       "words": [
-        { "w": "يَرْكَبُ", "root": "ر ك ب", "bs": "vozi se", "en": "rides" },
-        { "w": "قَارِبًا", "root": "ق ر ب", "bs": "čamac", "en": "a boat" },
-        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "mali", "en": "small" },
-        { "w": "الْخَشَبِ", "root": "خ ش ب", "bs": "drvo", "en": "wood" }
+        {
+          "w": "يَرْكَبُ",
+          "root": "ر ك ب",
+          "bs": "vozi se",
+          "en": "rides",
+          "lemma": "رَكِبَ يَرْكَبُ"
+        },
+        {
+          "w": "قَارِبًا",
+          "root": "ق ر ب",
+          "bs": "čamac",
+          "en": "a boat",
+          "lemma": "قَارِبٌ / قَوَارِبُ"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "الْخَشَبِ",
+          "root": "خ ش ب",
+          "bs": "drvo",
+          "en": "wood",
+          "lemma": "خَشَبٌ / أَخْشَابٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Lovio je ribu i vraćao se kući navečer.",
       "translationEn": "He caught fish and returned home in the evening.",
       "words": [
-        { "w": "صَادَ", "root": "ص ي د", "bs": "lovio je", "en": "caught" },
-        { "w": "السَّمَكَ", "root": "س م ك", "bs": "ribu", "en": "fish" },
-        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
-        { "w": "الْمَسَاءِ", "root": "م س و", "bs": "večer", "en": "the evening" }
+        {
+          "w": "صَادَ",
+          "root": "ص ي د",
+          "bs": "lovio je",
+          "en": "caught",
+          "lemma": "صَادَ يَصِيدُ"
+        },
+        {
+          "w": "السَّمَكَ",
+          "root": "س م ك",
+          "bs": "ribu",
+          "en": "fish",
+          "lemma": "سَمَكٌ / أَسْمَاكٌ"
+        },
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
+        },
+        {
+          "w": "الْمَسَاءِ",
+          "root": "م س و",
+          "bs": "večer",
+          "en": "the evening",
+          "lemma": "مَسَاءٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Dio ribe prodavao je na tržnici.",
       "translationEn": "He sold part of the fish in the market.",
       "words": [
-        { "w": "بَاعَ", "root": "ب ي ع", "bs": "prodavao je", "en": "sold" },
-        { "w": "جُزْءًا", "root": "ج ز أ", "bs": "dio", "en": "a part" },
-        { "w": "السَّمَكِ", "root": "س م ك", "bs": "ribe", "en": "the fish" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "tržnica", "en": "the market" }
+        {
+          "w": "بَاعَ",
+          "root": "ب ي ع",
+          "bs": "prodavao je",
+          "en": "sold",
+          "lemma": "بَاعَ يَبِيعُ"
+        },
+        {
+          "w": "جُزْءًا",
+          "root": "ج ز أ",
+          "bs": "dio",
+          "en": "a part",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "السَّمَكِ",
+          "root": "س م ك",
+          "bs": "ribe",
+          "en": "the fish",
+          "lemma": "سَمَكٌ / أَسْمَاكٌ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "tržnica",
+          "en": "the market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["fishing", "sea", "daily life"]
+    "tags": [
+      "fishing",
+      "sea",
+      "daily life"
+    ]
   }
 }

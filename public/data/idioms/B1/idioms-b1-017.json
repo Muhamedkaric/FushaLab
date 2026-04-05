@@ -8,9 +8,27 @@
       "translation": "Poslovica kaže: «Kad je kuhara previše, pokvare juhu».",
       "translationEn": "The proverb says: «Too many cooks spoil the broth».",
       "words": [
-        { "w": "الطَّبَّاخُونَ", "root": "ط ب خ", "bs": "kuvari", "en": "cooks" },
-        { "w": "أَفْسَدُوا", "root": "ف س د", "bs": "pokvarili su", "en": "spoiled" },
-        { "w": "الطَّبِيخَ", "root": "ط ب خ", "bs": "jelo", "en": "broth" }
+        {
+          "w": "الطَّبَّاخُونَ",
+          "root": "ط ب خ",
+          "bs": "kuvari",
+          "en": "cooks",
+          "lemma": "طَبَّاخٌ / طَبَّاخُونَ"
+        },
+        {
+          "w": "أَفْسَدُوا",
+          "root": "ف س د",
+          "bs": "pokvarili su",
+          "en": "spoiled",
+          "lemma": "أَفْسَدَ يُفْسِدُ"
+        },
+        {
+          "w": "الطَّبِيخَ",
+          "root": "ط ب خ",
+          "bs": "jelo",
+          "en": "broth",
+          "lemma": "طَبِيخٌ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "To znači da previše vođa kvari posao.",
       "translationEn": "This means that too many leaders ruin the work.",
       "words": [
-        { "w": "الرُّؤَسَاءِ", "root": "ر أ س", "bs": "vođe", "en": "leaders" },
-        { "w": "تُفْسِدُ", "root": "ف س د", "bs": "kvari", "en": "ruins" },
-        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "posao", "en": "work" }
+        {
+          "w": "الرُّؤَسَاءِ",
+          "root": "ر أ س",
+          "bs": "vođe",
+          "en": "leaders",
+          "lemma": "رَئِيسٌ / رُؤَسَاءُ"
+        },
+        {
+          "w": "تُفْسِدُ",
+          "root": "ف س د",
+          "bs": "kvari",
+          "en": "ruins",
+          "lemma": "أَفْسَدَ يُفْسِدُ"
+        },
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Pet prijatelja je zajedno htjelo organizovati zabavu.",
       "translationEn": "Five friends wanted to organize the party together.",
       "words": [
-        { "w": "الأَصْدِقَاءِ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
-        { "w": "تَرْتِيبَ", "root": "ر ت ب", "bs": "organizovanje", "en": "organizing" },
-        { "w": "الْحَفْلَةِ", "root": "ح ف ل", "bs": "zabava", "en": "party" }
+        {
+          "w": "الأَصْدِقَاءِ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "تَرْتِيبَ",
+          "root": "ر ت ب",
+          "bs": "organizovanje",
+          "en": "organizing",
+          "lemma": "تَرْتِيبٌ / تَرْتِيبَاتٌ"
+        },
+        {
+          "w": "الْحَفْلَةِ",
+          "root": "ح ف ل",
+          "bs": "zabava",
+          "en": "party",
+          "lemma": "حَفْلَةٌ / حَفَلَاتٌ"
+        }
       ]
     },
     {
@@ -38,14 +92,36 @@
       "translation": "Svi su govorili u isto vrijeme i nastao je nered.",
       "translationEn": "They all spoke at the same time and chaos followed.",
       "words": [
-        { "w": "تَكَلَّمَ", "root": "ك ل م", "bs": "govorili su", "en": "spoke" },
-        { "w": "الْوَقْتِ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
-        { "w": "فَوْضَى", "root": "ف و ض", "bs": "nered", "en": "chaos" }
+        {
+          "w": "تَكَلَّمَ",
+          "root": "ك ل م",
+          "bs": "govorili su",
+          "en": "spoke",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "الْوَقْتِ",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "فَوْضَى",
+          "root": "ف و ض",
+          "bs": "nered",
+          "en": "chaos",
+          "lemma": "فَوْضَى"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["organization", "proverb", "leadership"]
+    "tags": [
+      "organization",
+      "proverb",
+      "leadership"
+    ]
   }
 }

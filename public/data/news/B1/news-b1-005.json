@@ -12,25 +12,29 @@
           "w": "سَقَطَ",
           "root": "س ق ط",
           "bs": "pao je",
-          "en": "fell"
+          "en": "fell",
+          "lemma": "سَقَطَ يَسْقُطُ"
         },
         {
           "w": "الْمَطَرُ",
           "root": "م ط ر",
           "bs": "kiša",
-          "en": "rain"
+          "en": "rain",
+          "lemma": "مَطَرٌ / أَمْطَارٌ"
         },
         {
           "w": "بِغَزَارَةٍ",
           "root": "غ ز ر",
           "bs": "jako",
-          "en": "heavily"
+          "en": "heavily",
+          "lemma": "غَزَارَةٌ"
         },
         {
           "w": "الْمَدِينَةِ",
           "root": "م د ن",
           "bs": "gradu",
-          "en": "city"
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
         }
       ]
     },
@@ -43,13 +47,15 @@
           "w": "الشَّوَارِعِ",
           "root": "ش ر ع",
           "bs": "ulice",
-          "en": "streets"
+          "en": "streets",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
         },
         {
           "w": "الْمِيَاهِ",
           "root": "م و ه",
           "bs": "vode",
-          "en": "water"
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
         }
       ]
     },
@@ -62,19 +68,22 @@
           "w": "الْبَلَدِيَّةُ",
           "root": "ب ل د",
           "bs": "općina",
-          "en": "municipality"
+          "en": "municipality",
+          "lemma": "بَلَدِيَّةٌ / بَلَدِيَّاتٌ"
         },
         {
           "w": "الْبَقَاءَ",
           "root": "ب ق ي",
           "bs": "ostanak",
-          "en": "staying"
+          "en": "staying",
+          "lemma": "بَقَاءٌ"
         },
         {
           "w": "الْبُيُوتِ",
           "root": "ب ي ت",
           "bs": "kućama",
-          "en": "homes"
+          "en": "homes",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
         }
       ]
     },
@@ -87,25 +96,29 @@
           "w": "تَوَقَّفَ",
           "root": "و ق ف",
           "bs": "prestao je",
-          "en": "stopped"
+          "en": "stopped",
+          "lemma": "تَوَقَّفَ يَتَوَقَّفُ"
         },
         {
           "w": "الْمَطَرُ",
           "root": "م ط ر",
           "bs": "kiša",
-          "en": "rain"
+          "en": "rain",
+          "lemma": "مَطَرٌ / أَمْطَارٌ"
         },
         {
           "w": "عَادَتِ",
           "root": "ع و د",
           "bs": "vratilo se",
-          "en": "returned"
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
         },
         {
           "w": "الشَّمْسُ",
           "root": "ش م س",
           "bs": "sunce",
-          "en": "sun"
+          "en": "sun",
+          "lemma": "شَمْسٌ / شُمُوسٌ"
         }
       ]
     }

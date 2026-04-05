@@ -8,11 +8,41 @@
       "translation": "Pastir je svakog jutra vodio ovce na planinu.",
       "translationEn": "The shepherd used to take the sheep to the mountain every morning.",
       "words": [
-        { "w": "الرَّاعِي", "root": "ر ع ي", "bs": "pastir", "en": "the shepherd" },
-        { "w": "يَأْخُذُ", "root": "أ خ ذ", "bs": "vodi", "en": "takes" },
-        { "w": "الأَغْنَامَ", "root": "غ ن م", "bs": "ovce", "en": "the sheep" },
-        { "w": "الْجَبَلِ", "root": "ج ب ل", "bs": "planina", "en": "the mountain" },
-        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        {
+          "w": "الرَّاعِي",
+          "root": "ر ع ي",
+          "bs": "pastir",
+          "en": "the shepherd",
+          "lemma": "رَاعٍ / رُعَاةٌ"
+        },
+        {
+          "w": "يَأْخُذُ",
+          "root": "أ خ ذ",
+          "bs": "vodi",
+          "en": "takes",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "الأَغْنَامَ",
+          "root": "غ ن م",
+          "bs": "ovce",
+          "en": "the sheep",
+          "lemma": "غَنَمٌ / أَغْنَامٌ"
+        },
+        {
+          "w": "الْجَبَلِ",
+          "root": "ج ب ل",
+          "bs": "planina",
+          "en": "the mountain",
+          "lemma": "جَبَلٌ / جِبَالٌ"
+        },
+        {
+          "w": "صَبَاحٍ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Sjedio je ispod drveta i gledao ih.",
       "translationEn": "He would sit under a tree and watch them.",
       "words": [
-        { "w": "يَجْلِسُ", "root": "ج ل س", "bs": "sjedi", "en": "sits" },
-        { "w": "الشَّجَرَةِ", "root": "ش ج ر", "bs": "drvo", "en": "the tree" },
-        { "w": "يَنْظُرُ", "root": "ن ظ ر", "bs": "gleda", "en": "watches" }
+        {
+          "w": "يَجْلِسُ",
+          "root": "ج ل س",
+          "bs": "sjedi",
+          "en": "sits",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الشَّجَرَةِ",
+          "root": "ش ج ر",
+          "bs": "drvo",
+          "en": "the tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "يَنْظُرُ",
+          "root": "ن ظ ر",
+          "bs": "gleda",
+          "en": "watches",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Ovce su mirno jele zelenu travu.",
       "translationEn": "The sheep ate the green grass calmly.",
       "words": [
-        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "jele su", "en": "ate" },
-        { "w": "الأَغْنَامُ", "root": "غ ن م", "bs": "ovce", "en": "the sheep" },
-        { "w": "الْعُشْبَ", "root": "ع ش ب", "bs": "trava", "en": "the grass" },
-        { "w": "الأَخْضَرَ", "root": "خ ض ر", "bs": "zelena", "en": "green" }
+        {
+          "w": "أَكَلَتِ",
+          "root": "أ ك ل",
+          "bs": "jele su",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الأَغْنَامُ",
+          "root": "غ ن م",
+          "bs": "ovce",
+          "en": "the sheep",
+          "lemma": "غَنَمٌ / أَغْنَامٌ"
+        },
+        {
+          "w": "الْعُشْبَ",
+          "root": "ع ش ب",
+          "bs": "trava",
+          "en": "the grass",
+          "lemma": "عُشْبٌ"
+        },
+        {
+          "w": "الأَخْضَرَ",
+          "root": "خ ض ر",
+          "bs": "zelena",
+          "en": "green",
+          "lemma": "أَخْضَرُ / خَضْرَاءُ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Vratio se u selo prije zalaska sunca.",
       "translationEn": "He returned to the village before sunset.",
       "words": [
-        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
-        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "the village" },
-        { "w": "غُرُوبِ", "root": "غ ر ب", "bs": "zalazak", "en": "sunset" },
-        { "w": "الشَّمْسِ", "root": "ش م س", "bs": "sunce", "en": "the sun" }
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "the village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        },
+        {
+          "w": "غُرُوبِ",
+          "root": "غ ر ب",
+          "bs": "zalazak",
+          "en": "sunset",
+          "lemma": "غُرُوبٌ"
+        },
+        {
+          "w": "الشَّمْسِ",
+          "root": "ش م س",
+          "bs": "sunce",
+          "en": "the sun",
+          "lemma": "شَمْسٌ / شُمُوسٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["shepherd", "animals", "village"]
+    "tags": [
+      "shepherd",
+      "animals",
+      "village"
+    ]
   }
 }

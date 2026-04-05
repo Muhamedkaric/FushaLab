@@ -8,9 +8,27 @@
       "translation": "Mejsa je otkrila da joj se torba istrošila.",
       "translationEn": "Maysa found that her bag had worn out.",
       "words": [
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "otkrila je", "en": "found" },
-        { "w": "حَقِيبَتَهَا", "root": "ح ق ب", "bs": "njena torba", "en": "her bag" },
-        { "w": "اهْتَرَأَتْ", "root": "ه ر أ", "bs": "istrošila se", "en": "worn out" }
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "otkrila je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "حَقِيبَتَهَا",
+          "root": "ح ق ب",
+          "bs": "njena torba",
+          "en": "her bag",
+          "lemma": "حَقِيبَةٌ / حَقَائِبُ"
+        },
+        {
+          "w": "اهْتَرَأَتْ",
+          "root": "ه ر أ",
+          "bs": "istrošila se",
+          "en": "worn out",
+          "lemma": "اهْتَرَأَ يَهْتَرِئُ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Odlučila je da uštedi za kupovinu nove torbe.",
       "translationEn": "She decided to save up to buy a new bag.",
       "words": [
-        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
-        { "w": "تَدَّخِرَ", "root": "ذ خ ر", "bs": "da uštedi", "en": "to save" },
-        { "w": "لِشِرَاءِ", "root": "ش ر ي", "bs": "za kupovinu", "en": "to buy" },
-        { "w": "حَقِيبَةٍ", "root": "ح ق ب", "bs": "torba", "en": "bag" }
+        {
+          "w": "قَرَّرَتْ",
+          "root": "ق ر ر",
+          "bs": "odlučila je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "تَدَّخِرَ",
+          "root": "ذ خ ر",
+          "bs": "da uštedi",
+          "en": "to save",
+          "lemma": "ادَّخَرَ يَدَّخِرُ"
+        },
+        {
+          "w": "لِشِرَاءِ",
+          "root": "ش ر ي",
+          "bs": "za kupovinu",
+          "en": "to buy",
+          "lemma": "شِرَاءٌ"
+        },
+        {
+          "w": "حَقِيبَةٍ",
+          "root": "ح ق ب",
+          "bs": "torba",
+          "en": "bag",
+          "lemma": "حَقِيبَةٌ / حَقَائِبُ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Svake sedmice je stavljala nešto novca sa strane.",
       "translationEn": "Every week she set aside some of her money.",
       "words": [
-        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica", "en": "week" },
-        { "w": "وَضَعَتْ", "root": "و ض ع", "bs": "stavljala je", "en": "set aside" },
-        { "w": "نُقُودِهَا", "root": "ن ق د", "bs": "njen novac", "en": "her money" },
-        { "w": "جَانِبًا", "root": "ج ن ب", "bs": "sa strane", "en": "aside" }
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "س ب ع",
+          "bs": "sedmica",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        },
+        {
+          "w": "وَضَعَتْ",
+          "root": "و ض ع",
+          "bs": "stavljala je",
+          "en": "set aside",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "نُقُودِهَا",
+          "root": "ن ق د",
+          "bs": "njen novac",
+          "en": "her money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        },
+        {
+          "w": "جَانِبًا",
+          "root": "ج ن ب",
+          "bs": "sa strane",
+          "en": "aside",
+          "lemma": "جَانِبٌ / جَوَانِبُ"
+        }
       ]
     },
     {
@@ -40,10 +106,34 @@
       "translation": "Nakon mjeseca dana sakupila je iznos i kupila torbu.",
       "translationEn": "After a month she had saved the amount and bought the bag.",
       "words": [
-        { "w": "شَهْرٍ", "root": "ش ه ر", "bs": "mjesec", "en": "month" },
-        { "w": "جَمَعَتِ", "root": "ج م ع", "bs": "sakupila je", "en": "saved" },
-        { "w": "المَبْلَغَ", "root": "ب ل غ", "bs": "iznos", "en": "amount" },
-        { "w": "اشْتَرَتِ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" }
+        {
+          "w": "شَهْرٍ",
+          "root": "ش ه ر",
+          "bs": "mjesec",
+          "en": "month",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "جَمَعَتِ",
+          "root": "ج م ع",
+          "bs": "sakupila je",
+          "en": "saved",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "المَبْلَغَ",
+          "root": "ب ل غ",
+          "bs": "iznos",
+          "en": "amount",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        },
+        {
+          "w": "اشْتَرَتِ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        }
       ]
     },
     {
@@ -51,14 +141,36 @@
       "translation": "Bila je jako sretna sa svojom novom torbom.",
       "translationEn": "She was very happy with her new bag.",
       "words": [
-        { "w": "فَرِحَةً", "root": "ف ر ح", "bs": "sretna", "en": "happy" },
-        { "w": "بِحَقِيبَتِهَا", "root": "ح ق ب", "bs": "sa njenom torbom", "en": "with her bag" },
-        { "w": "الجَدِيدَةِ", "root": "ج د د", "bs": "nova", "en": "new" }
+        {
+          "w": "فَرِحَةً",
+          "root": "ف ر ح",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "فَرِحٌ"
+        },
+        {
+          "w": "بِحَقِيبَتِهَا",
+          "root": "ح ق ب",
+          "bs": "sa njenom torbom",
+          "en": "with her bag",
+          "lemma": "حَقِيبَةٌ / حَقَائِبُ"
+        },
+        {
+          "w": "الجَدِيدَةِ",
+          "root": "ج د د",
+          "bs": "nova",
+          "en": "new",
+          "lemma": "جَدِيدٌ / جُدُدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["saving", "bag", "goal"]
+    "tags": [
+      "saving",
+      "bag",
+      "goal"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Muškarac prodaje voće na malim kolicima.",
       "translationEn": "The man sells fruit from a small cart.",
       "words": [
-        { "w": "يَبِيعُ", "root": "ب ي ع", "bs": "prodaje", "en": "sells" },
-        { "w": "الرَّجُلُ", "root": "ر ج ل", "bs": "muškarac", "en": "man" },
-        { "w": "الفَاكِهَةَ", "root": "ف ك ه", "bs": "voće", "en": "fruit" },
-        { "w": "عَرَبَةٍ", "root": "ع ر ب", "bs": "kolica", "en": "cart" }
+        {
+          "w": "يَبِيعُ",
+          "root": "ب ي ع",
+          "bs": "prodaje",
+          "en": "sells",
+          "lemma": "بَاعَ يَبِيعُ"
+        },
+        {
+          "w": "الرَّجُلُ",
+          "root": "ر ج ل",
+          "bs": "muškarac",
+          "en": "man",
+          "lemma": "رَجُلٌ / رِجَالٌ"
+        },
+        {
+          "w": "الفَاكِهَةَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "عَرَبَةٍ",
+          "root": "ع ر ب",
+          "bs": "kolica",
+          "en": "cart",
+          "lemma": "عَرَبَةٌ / عَرَبَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Viče glasno: Svježe jabuke i naranče.",
       "translationEn": "He calls out loudly: Fresh apples and oranges.",
       "words": [
-        { "w": "يَصِيحُ", "root": "ص ي ح", "bs": "viče", "en": "calls out" },
-        { "w": "بِصَوْتٍ", "root": "ص و ت", "bs": "glas", "en": "voice" },
-        { "w": "تَفَّاحٌ", "root": "ت ف ح", "bs": "jabuke", "en": "apples" },
-        { "w": "طَازَجٌ", "root": "ط ز ج", "bs": "svježe", "en": "fresh" }
+        {
+          "w": "يَصِيحُ",
+          "root": "ص ي ح",
+          "bs": "viče",
+          "en": "calls out",
+          "lemma": "صَاحَ يَصِيحُ"
+        },
+        {
+          "w": "بِصَوْتٍ",
+          "root": "ص و ت",
+          "bs": "glas",
+          "en": "voice",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "تَفَّاحٌ",
+          "root": "ت ف ح",
+          "bs": "jabuke",
+          "en": "apples",
+          "lemma": "تُفَّاحَةٌ / تُفَّاحٌ"
+        },
+        {
+          "w": "طَازَجٌ",
+          "root": "ط ز ج",
+          "bs": "svježe",
+          "en": "fresh",
+          "lemma": "طَازَجٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Žena se zaustavila i pitala za cijenu.",
       "translationEn": "A woman stopped and asked about the price.",
       "words": [
-        { "w": "تَوَقَّفَتِ", "root": "و ق ف", "bs": "zaustavila se", "en": "stopped" },
-        { "w": "امْرَأَةٌ", "root": "م ر أ", "bs": "žena", "en": "woman" },
-        { "w": "سَأَلَتْ", "root": "س أ ل", "bs": "pitala je", "en": "asked" },
-        { "w": "السِّعْرِ", "root": "س ع ر", "bs": "cijena", "en": "price" }
+        {
+          "w": "تَوَقَّفَتِ",
+          "root": "و ق ف",
+          "bs": "zaustavila se",
+          "en": "stopped",
+          "lemma": "تَوَقَّفَ يَتَوَقَّفُ"
+        },
+        {
+          "w": "امْرَأَةٌ",
+          "root": "م ر أ",
+          "bs": "žena",
+          "en": "woman",
+          "lemma": "اِمْرَأَةٌ / نِسَاءٌ"
+        },
+        {
+          "w": "سَأَلَتْ",
+          "root": "س أ ل",
+          "bs": "pitala je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "السِّعْرِ",
+          "root": "س ع ر",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Kupila je kilo jabuka i brzo platila.",
       "translationEn": "She bought a kilo of apples and paid quickly.",
       "words": [
-        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
-        { "w": "كِيلُوَ", "root": "", "bs": "kilo", "en": "kilo" },
-        { "w": "تَفَّاحٍ", "root": "ت ف ح", "bs": "jabuke", "en": "apples" },
-        { "w": "دَفَعَتْ", "root": "د ف ع", "bs": "platila je", "en": "paid" }
+        {
+          "w": "اشْتَرَتْ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "كِيلُوَ",
+          "root": "",
+          "bs": "kilo",
+          "en": "kilo",
+          "lemma": "كِيلُو"
+        },
+        {
+          "w": "تَفَّاحٍ",
+          "root": "ت ف ح",
+          "bs": "jabuke",
+          "en": "apples",
+          "lemma": "تُفَّاحَةٌ / تُفَّاحٌ"
+        },
+        {
+          "w": "دَفَعَتْ",
+          "root": "د ف ع",
+          "bs": "platila je",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["fruit", "street-vendor", "cash"]
+    "tags": [
+      "fruit",
+      "street-vendor",
+      "cash"
+    ]
   }
 }

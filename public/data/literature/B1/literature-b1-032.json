@@ -8,11 +8,41 @@
       "translation": "Tri prijatelja su odlučila organizovati kampovanje.",
       "translationEn": "The three friends decided to organize a camping trip.",
       "words": [
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučili su", "en": "decided" },
-        { "w": "الأَصْدِقَاءُ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
-        { "w": "تَنْظِيمَ", "root": "ن ظ م", "bs": "organizacija", "en": "organize" },
-        { "w": "رِحْلَةِ", "root": "ر ح ل", "bs": "izlet/putovanje", "en": "trip" },
-        { "w": "تَخْيِيمٍ", "root": "خ ي م", "bs": "kampovanje", "en": "camping" }
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučili su",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "الأَصْدِقَاءُ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "تَنْظِيمَ",
+          "root": "ن ظ م",
+          "bs": "organizacija",
+          "en": "organize",
+          "lemma": "تَنْظِيمٌ"
+        },
+        {
+          "w": "رِحْلَةِ",
+          "root": "ر ح ل",
+          "bs": "izlet/putovanje",
+          "en": "trip",
+          "lemma": "رِحْلَةٌ / رِحَلٌ"
+        },
+        {
+          "w": "تَخْيِيمٍ",
+          "root": "خ ي م",
+          "bs": "kampovanje",
+          "en": "camping",
+          "lemma": "تَخْيِيمٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Uzeli su šatore i hranu i krenuli prema šumi.",
       "translationEn": "They carried their tents and food and headed to the forest.",
       "words": [
-        { "w": "حَمَلُوا", "root": "ح م ل", "bs": "nosili su/uzeli", "en": "carried" },
-        { "w": "خَيَامَهُمْ", "root": "خ ي م", "bs": "njihovi šatori", "en": "their tents" },
-        { "w": "طَعَامَهُمْ", "root": "ط ع م", "bs": "njihova hrana", "en": "their food" },
-        { "w": "الْغَابَةِ", "root": "غ ي ب", "bs": "šuma", "en": "forest" }
+        {
+          "w": "حَمَلُوا",
+          "root": "ح م ل",
+          "bs": "nosili su/uzeli",
+          "en": "carried",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "خَيَامَهُمْ",
+          "root": "خ ي م",
+          "bs": "njihovi šatori",
+          "en": "their tents",
+          "lemma": "خَيْمَةٌ / خِيَامٌ"
+        },
+        {
+          "w": "طَعَامَهُمْ",
+          "root": "ط ع م",
+          "bs": "njihova hrana",
+          "en": "their food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْغَابَةِ",
+          "root": "غ ي ب",
+          "bs": "šuma",
+          "en": "forest",
+          "lemma": "غَابَةٌ / غَابَاتٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Postavili su šatore kraj malog lijepog potoka.",
       "translationEn": "They set up the tents near a small beautiful river.",
       "words": [
-        { "w": "نَصَبُوا", "root": "ن ص ب", "bs": "postavili su", "en": "set up" },
-        { "w": "الْخَيَامَ", "root": "خ ي م", "bs": "šatori", "en": "tents" },
-        { "w": "نَهْرٍ", "root": "ن ه ر", "bs": "rijeka/potok", "en": "river" },
-        { "w": "جَمِيلٍ", "root": "ج م ل", "bs": "lijep", "en": "beautiful" }
+        {
+          "w": "نَصَبُوا",
+          "root": "ن ص ب",
+          "bs": "postavili su",
+          "en": "set up",
+          "lemma": "نَصَبَ يَنْصِبُ"
+        },
+        {
+          "w": "الْخَيَامَ",
+          "root": "خ ي م",
+          "bs": "šatori",
+          "en": "tents",
+          "lemma": "خَيْمَةٌ / خِيَامٌ"
+        },
+        {
+          "w": "نَهْرٍ",
+          "root": "ن ه ر",
+          "bs": "rijeka/potok",
+          "en": "river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        },
+        {
+          "w": "جَمِيلٍ",
+          "root": "ج م ل",
+          "bs": "lijep",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,50 @@
       "translation": "Sjedili su oko vatre noću i pjevali stare pjesme.",
       "translationEn": "They sat around the fire at night and sang old songs.",
       "words": [
-        { "w": "جَلَسُوا", "root": "ج ل س", "bs": "sjedili su", "en": "sat" },
-        { "w": "النَّارِ", "root": "ن و ر", "bs": "vatra", "en": "fire" },
-        { "w": "غَنَّوْا", "root": "غ ن ي", "bs": "pjevali su", "en": "sang" },
-        { "w": "أَغَانِيَ", "root": "غ ن ي", "bs": "pjesme", "en": "songs" },
-        { "w": "قَدِيمَةً", "root": "ق د م", "bs": "stare", "en": "old" }
+        {
+          "w": "جَلَسُوا",
+          "root": "ج ل س",
+          "bs": "sjedili su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "النَّارِ",
+          "root": "ن و ر",
+          "bs": "vatra",
+          "en": "fire",
+          "lemma": "نَارٌ / نِيرَانٌ"
+        },
+        {
+          "w": "غَنَّوْا",
+          "root": "غ ن ي",
+          "bs": "pjevali su",
+          "en": "sang",
+          "lemma": "غَنَّى يُغَنِّي"
+        },
+        {
+          "w": "أَغَانِيَ",
+          "root": "غ ن ي",
+          "bs": "pjesme",
+          "en": "songs",
+          "lemma": "أُغْنِيَةٌ / أَغَانٍ"
+        },
+        {
+          "w": "قَدِيمَةً",
+          "root": "ق د م",
+          "bs": "stare",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["friendship", "camping", "nature"]
+    "tags": [
+      "friendship",
+      "camping",
+      "nature"
+    ]
   }
 }

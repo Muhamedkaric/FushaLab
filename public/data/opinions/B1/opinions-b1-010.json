@@ -8,11 +8,41 @@
       "translation": "Mislim da je poštivanje starijih obaveza svake osobe.",
       "translationEn": "I think that respecting elders is an obligation for every person.",
       "words": [
-        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
-        { "w": "احْتِرَامَ", "root": "ح ر م", "bs": "poštivanje", "en": "respecting" },
-        { "w": "الْكِبَارِ", "root": "ك ب ر", "bs": "starijih", "en": "elders" },
-        { "w": "وَاجِبٌ", "root": "و ج ب", "bs": "obaveza", "en": "obligation" },
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osobe", "en": "person" }
+        {
+          "w": "أَظُنُّ",
+          "root": "ظ ن ن",
+          "bs": "mislim",
+          "en": "I think",
+          "lemma": "ظَنَّ يَظُنُّ"
+        },
+        {
+          "w": "احْتِرَامَ",
+          "root": "ح ر م",
+          "bs": "poštivanje",
+          "en": "respecting",
+          "lemma": "اِحْتِرَامٌ"
+        },
+        {
+          "w": "الْكِبَارِ",
+          "root": "ك ب ر",
+          "bs": "starijih",
+          "en": "elders",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "وَاجِبٌ",
+          "root": "و ج ب",
+          "bs": "obaveza",
+          "en": "obligation",
+          "lemma": "وَاجِبٌ / وَاجِبَاتٌ"
+        },
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "osobe",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Stariji imaju veliko iskustvo od kojeg možemo imati koristi.",
       "translationEn": "Elders have great experience that we can benefit from.",
       "words": [
-        { "w": "الْكِبَارُ", "root": "ك ب ر", "bs": "stariji", "en": "elders" },
-        { "w": "تَجْرِبَةٌ", "root": "ج ر ب", "bs": "iskustvo", "en": "experience" },
-        { "w": "كَبِيرَةٌ", "root": "ك ب ر", "bs": "veliko", "en": "great" },
-        { "w": "نَسْتَفِيدُ", "root": "ف ي د", "bs": "imamo koristi", "en": "we benefit" }
+        {
+          "w": "الْكِبَارُ",
+          "root": "ك ب ر",
+          "bs": "stariji",
+          "en": "elders",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "تَجْرِبَةٌ",
+          "root": "ج ر ب",
+          "bs": "iskustvo",
+          "en": "experience",
+          "lemma": "تَجْرِبَةٌ / تَجَارِبُ"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "root": "ك ب ر",
+          "bs": "veliko",
+          "en": "great",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "نَسْتَفِيدُ",
+          "root": "ف ي د",
+          "bs": "imamo koristi",
+          "en": "we benefit",
+          "lemma": "اسْتَفَادَ يَسْتَفِيدُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Volim sjediti s djedom i slušati njegove priče.",
       "translationEn": "I like to sit with my grandfather and listen to his stories.",
       "words": [
-        { "w": "أُحِبُّ", "root": "ح ب ب", "bs": "volim", "en": "I like" },
-        { "w": "أَجْلِسَ", "root": "ج ل س", "bs": "sjediti", "en": "to sit" },
-        { "w": "أَسْمَعَ", "root": "س م ع", "bs": "slušati", "en": "to listen" },
-        { "w": "قِصَصَهُ", "root": "ق ص ص", "bs": "priče", "en": "his stories" }
+        {
+          "w": "أُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "volim",
+          "en": "I like",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "أَجْلِسَ",
+          "root": "ج ل س",
+          "bs": "sjediti",
+          "en": "to sit",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "أَسْمَعَ",
+          "root": "س م ع",
+          "bs": "slušati",
+          "en": "to listen",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "قِصَصَهُ",
+          "root": "ق ص ص",
+          "bs": "priče",
+          "en": "his stories",
+          "lemma": "قِصَّةٌ / قِصَصٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Govor starijih nas uči stvarima koje ne postoje u knjigama.",
       "translationEn": "The words of elders teach us things that are not found in books.",
       "words": [
-        { "w": "كَلَامُ", "root": "ك ل م", "bs": "govor/riječi", "en": "words" },
-        { "w": "الْكِبَارِ", "root": "ك ب ر", "bs": "starijih", "en": "elders" },
-        { "w": "يُعَلِّمُنَا", "root": "ع ل م", "bs": "uči nas", "en": "teaches us" },
-        { "w": "أَشْيَاءَ", "root": "ش ي أ", "bs": "stvarima", "en": "things" },
-        { "w": "الْكُتُبِ", "root": "ك ت ب", "bs": "knjigama", "en": "books" }
+        {
+          "w": "كَلَامُ",
+          "root": "ك ل م",
+          "bs": "govor/riječi",
+          "en": "words",
+          "lemma": "كَلَامٌ"
+        },
+        {
+          "w": "الْكِبَارِ",
+          "root": "ك ب ر",
+          "bs": "starijih",
+          "en": "elders",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "يُعَلِّمُنَا",
+          "root": "ع ل م",
+          "bs": "uči nas",
+          "en": "teaches us",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "أَشْيَاءَ",
+          "root": "ش ي أ",
+          "bs": "stvarima",
+          "en": "things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "الْكُتُبِ",
+          "root": "ك ت ب",
+          "bs": "knjigama",
+          "en": "books",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "respect", "elders", "family"]
+    "tags": [
+      "opinion",
+      "respect",
+      "elders",
+      "family"
+    ]
   }
 }

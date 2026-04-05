@@ -8,11 +8,41 @@
       "translation": "Stara tržnica bila je gužvovito i bučno mjesto.",
       "translationEn": "The old market was a busy and noisy place.",
       "words": [
-        { "w": "السُّوقُ", "root": "س و ق", "bs": "tržnica", "en": "the market" },
-        { "w": "الْقَدِيمُ", "root": "ق د م", "bs": "stara", "en": "old" },
-        { "w": "مَكَانًا", "root": "ك و ن", "bs": "mjesto", "en": "a place" },
-        { "w": "مُزْدَحِمًا", "root": "ز ح م", "bs": "gužvovito", "en": "busy" },
-        { "w": "صَاخِبًا", "root": "ص خ ب", "bs": "bučno", "en": "noisy" }
+        {
+          "w": "السُّوقُ",
+          "root": "س و ق",
+          "bs": "tržnica",
+          "en": "the market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الْقَدِيمُ",
+          "root": "ق د م",
+          "bs": "stara",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "مَكَانًا",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "a place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "مُزْدَحِمًا",
+          "root": "ز ح م",
+          "bs": "gužvovito",
+          "en": "busy",
+          "lemma": "مُزْدَحِمٌ"
+        },
+        {
+          "w": "صَاخِبًا",
+          "root": "ص خ ب",
+          "bs": "bučno",
+          "en": "noisy",
+          "lemma": "صَاخِبٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Ljudi su prodavali voće, povrće i tkanine.",
       "translationEn": "People sold fruits, vegetables, and fabrics.",
       "words": [
-        { "w": "بَاعَ", "root": "ب ي ع", "bs": "prodavao je", "en": "sold" },
-        { "w": "الْفَوَاكِهَ", "root": "ف ك ه", "bs": "voće", "en": "fruits" },
-        { "w": "الْخُضَرَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
-        { "w": "الْقُمَاشَ", "root": "ق م ش", "bs": "tkanine", "en": "fabrics" }
+        {
+          "w": "بَاعَ",
+          "root": "ب ي ع",
+          "bs": "prodavao je",
+          "en": "sold",
+          "lemma": "بَاعَ يَبِيعُ"
+        },
+        {
+          "w": "الْفَوَاكِهَ",
+          "root": "ف ك ه",
+          "bs": "voće",
+          "en": "fruits",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "الْخُضَرَ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables",
+          "lemma": "خُضَرٌ / خَضْرَاوَاتٌ"
+        },
+        {
+          "w": "الْقُمَاشَ",
+          "root": "ق م ش",
+          "bs": "tkanine",
+          "en": "fabrics",
+          "lemma": "قُمَاشٌ / أَقْمِشَةٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Svi su govorili glasno na tržnici.",
       "translationEn": "Everyone spoke loudly in the market.",
       "words": [
-        { "w": "يَتَكَلَّمُ", "root": "ك ل م", "bs": "govori", "en": "speaks" },
-        { "w": "صَوْتٍ", "root": "ص و ت", "bs": "glas", "en": "voice" },
-        { "w": "عَالٍ", "root": "ع ل و", "bs": "visok", "en": "loud" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "tržnica", "en": "the market" }
+        {
+          "w": "يَتَكَلَّمُ",
+          "root": "ك ل م",
+          "bs": "govori",
+          "en": "speaks",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "صَوْتٍ",
+          "root": "ص و ت",
+          "bs": "glas",
+          "en": "voice",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "عَالٍ",
+          "root": "ع ل و",
+          "bs": "visok",
+          "en": "loud",
+          "lemma": "عَالٍ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "tržnica",
+          "en": "the market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,43 @@
       "translation": "Djeca su voljela ići na tržnicu.",
       "translationEn": "The children loved going to the market.",
       "words": [
-        { "w": "الْأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "the children" },
-        { "w": "يُحِبُّونَ", "root": "ح ب ب", "bs": "vole", "en": "love" },
-        { "w": "الذَّهَابَ", "root": "ذ ه ب", "bs": "odlazak", "en": "going" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "tržnica", "en": "the market" }
+        {
+          "w": "الْأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "the children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يُحِبُّونَ",
+          "root": "ح ب ب",
+          "bs": "vole",
+          "en": "love",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الذَّهَابَ",
+          "root": "ذ ه ب",
+          "bs": "odlazak",
+          "en": "going",
+          "lemma": "ذَهَابٌ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "tržnica",
+          "en": "the market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["market", "trade", "daily life"]
+    "tags": [
+      "market",
+      "trade",
+      "daily life"
+    ]
   }
 }

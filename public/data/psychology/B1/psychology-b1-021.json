@@ -8,10 +8,34 @@
       "translation": "Majid se izvinio za grešku koju je napravio prema prijatelju.",
       "translationEn": "Majid apologised for a mistake he had made with his friend.",
       "words": [
-        { "w": "اعْتَذَرَ", "root": "ع ذ ر", "bs": "izvinio se", "en": "apologised" },
-        { "w": "خَطَأٍ", "root": "خ ط أ", "bs": "greška", "en": "a mistake" },
-        { "w": "ارْتَكَبَهُ", "root": "ر ك ب", "bs": "napravio ga je", "en": "made" },
-        { "w": "صَدِيقِهِ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" }
+        {
+          "w": "اعْتَذَرَ",
+          "root": "ع ذ ر",
+          "bs": "izvinio se",
+          "en": "apologised",
+          "lemma": "اِعْتَذَرَ يَعْتَذِرُ"
+        },
+        {
+          "w": "خَطَأٍ",
+          "root": "خ ط أ",
+          "bs": "greška",
+          "en": "a mistake",
+          "lemma": "خَطَأٌ / أَخْطَاءٌ"
+        },
+        {
+          "w": "ارْتَكَبَهُ",
+          "root": "ر ك ب",
+          "bs": "napravio ga je",
+          "en": "made",
+          "lemma": "اِرْتَكَبَ يَرْتَكِبُ"
+        },
+        {
+          "w": "صَدِيقِهِ",
+          "root": "ص د ق",
+          "bs": "njegov prijatelj",
+          "en": "his friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Izvinjenje je bilo teško ali ga je ipak izrekao.",
       "translationEn": "The apology was difficult but he did it.",
       "words": [
-        { "w": "الاعْتِذَارُ", "root": "ع ذ ر", "bs": "izvinjenje", "en": "the apology" },
-        { "w": "صَعْبًا", "root": "ص ع ب", "bs": "teško", "en": "difficult" },
-        { "w": "فَعَلَهُ", "root": "ف ع ل", "bs": "uradio ga je", "en": "did it" }
+        {
+          "w": "الاعْتِذَارُ",
+          "root": "ع ذ ر",
+          "bs": "izvinjenje",
+          "en": "the apology",
+          "lemma": "اِعْتِذَارٌ / اِعْتِذَارَاتٌ"
+        },
+        {
+          "w": "صَعْبًا",
+          "root": "ص ع ب",
+          "bs": "teško",
+          "en": "difficult",
+          "lemma": "صَعْبٌ"
+        },
+        {
+          "w": "فَعَلَهُ",
+          "root": "ف ع ل",
+          "bs": "uradio ga je",
+          "en": "did it",
+          "lemma": "فَعَلَ يَفْعَلُ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Prijatelj je prihvatio izvinjenje i prijateljstvo se obnovilo.",
       "translationEn": "The friend accepted the apology and the friendship returned.",
       "words": [
-        { "w": "قَبِلَ", "root": "ق ب ل", "bs": "prihvatio je", "en": "accepted" },
-        { "w": "الصَّدِيقُ", "root": "ص د ق", "bs": "prijatelj", "en": "the friend" },
-        { "w": "الاعْتِذَارَ", "root": "ع ذ ر", "bs": "izvinjenje", "en": "the apology" },
-        { "w": "الصَّدَاقَةُ", "root": "ص د ق", "bs": "prijateljstvo", "en": "friendship" }
+        {
+          "w": "قَبِلَ",
+          "root": "ق ب ل",
+          "bs": "prihvatio je",
+          "en": "accepted",
+          "lemma": "قَبِلَ يَقْبَلُ"
+        },
+        {
+          "w": "الصَّدِيقُ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "the friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "الاعْتِذَارَ",
+          "root": "ع ذ ر",
+          "bs": "izvinjenje",
+          "en": "the apology",
+          "lemma": "اِعْتِذَارٌ / اِعْتِذَارَاتٌ"
+        },
+        {
+          "w": "الصَّدَاقَةُ",
+          "root": "ص د ق",
+          "bs": "prijateljstvo",
+          "en": "friendship",
+          "lemma": "صَدَاقَةٌ"
+        }
       ]
     },
     {
@@ -40,17 +106,57 @@
       "translation": "Izvinjenje čini srce lakšim a odnos jačim.",
       "translationEn": "An apology makes the heart lighter and the relationship stronger.",
       "words": [
-        { "w": "الاعْتِذَارُ", "root": "ع ذ ر", "bs": "izvinjenje", "en": "an apology" },
-        { "w": "يَجْعَلُ", "root": "ج ع ل", "bs": "čini", "en": "makes" },
-        { "w": "الْقَلْبَ", "root": "ق ل ب", "bs": "srce", "en": "the heart" },
-        { "w": "أَخَفَّ", "root": "خ ف ف", "bs": "lakšim", "en": "lighter" },
-        { "w": "الْعَلَاقَةَ", "root": "ع ل ق", "bs": "odnos", "en": "the relationship" },
-        { "w": "أَقْوَى", "root": "ق و و", "bs": "jačim", "en": "stronger" }
+        {
+          "w": "الاعْتِذَارُ",
+          "root": "ع ذ ر",
+          "bs": "izvinjenje",
+          "en": "an apology",
+          "lemma": "اِعْتِذَارٌ / اِعْتِذَارَاتٌ"
+        },
+        {
+          "w": "يَجْعَلُ",
+          "root": "ج ع ل",
+          "bs": "čini",
+          "en": "makes",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "الْقَلْبَ",
+          "root": "ق ل ب",
+          "bs": "srce",
+          "en": "the heart",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "أَخَفَّ",
+          "root": "خ ف ف",
+          "bs": "lakšim",
+          "en": "lighter",
+          "lemma": "أَخَفُّ"
+        },
+        {
+          "w": "الْعَلَاقَةَ",
+          "root": "ع ل ق",
+          "bs": "odnos",
+          "en": "the relationship",
+          "lemma": "عَلَاقَةٌ / عَلَاقَاتٌ"
+        },
+        {
+          "w": "أَقْوَى",
+          "root": "ق و و",
+          "bs": "jačim",
+          "en": "stronger",
+          "lemma": "قَوِيٌّ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["apology", "friendship", "emotions"]
+    "tags": [
+      "apology",
+      "friendship",
+      "emotions"
+    ]
   }
 }

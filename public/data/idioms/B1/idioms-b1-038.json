@@ -8,9 +8,27 @@
       "translation": "Majka je čula poslovicu: «Ponekad mala stvar obori veliku».",
       "translationEn": "The mother heard the proverb: «Sometimes a small thing topples a big one».",
       "words": [
-        { "w": "صَغِيرَةٍ", "root": "ص غ ر", "bs": "mala stvar", "en": "small thing" },
-        { "w": "أَطَاحَتْ", "root": "ط و ح", "bs": "oborila je", "en": "toppled" },
-        { "w": "بِكَبِيرَةٍ", "root": "ك ب ر", "bs": "veliku", "en": "big one" }
+        {
+          "w": "صَغِيرَةٍ",
+          "root": "ص غ ر",
+          "bs": "mala stvar",
+          "en": "small thing",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "أَطَاحَتْ",
+          "root": "ط و ح",
+          "bs": "oborila je",
+          "en": "toppled",
+          "lemma": "أَطَاحَ يُطِيحُ"
+        },
+        {
+          "w": "بِكَبِيرَةٍ",
+          "root": "ك ب ر",
+          "bs": "veliku",
+          "en": "big one",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "To znači da su mali detalji veoma važni.",
       "translationEn": "This means that small details are very important.",
       "words": [
-        { "w": "التَّفَاصِيلَ", "root": "ف ص ل", "bs": "detalji", "en": "details" },
-        { "w": "الصَّغِيرَةَ", "root": "ص غ ر", "bs": "mali", "en": "small" },
-        { "w": "مُهِمَّةٌ", "root": "ه م م", "bs": "važni", "en": "important" }
+        {
+          "w": "التَّفَاصِيلَ",
+          "root": "ف ص ل",
+          "bs": "detalji",
+          "en": "details",
+          "lemma": "تَفْصِيلٌ / تَفَاصِيلُ"
+        },
+        {
+          "w": "الصَّغِيرَةَ",
+          "root": "ص غ ر",
+          "bs": "mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "مُهِمَّةٌ",
+          "root": "ه م م",
+          "bs": "važni",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        }
       ]
     },
     {
@@ -28,11 +64,41 @@
       "translation": "Kuhar je zaboravio dodati sol u hranu.",
       "translationEn": "The cook forgot to add salt to the food.",
       "words": [
-        { "w": "نَسِيَ", "root": "ن س ي", "bs": "zaboravio je", "en": "forgot" },
-        { "w": "الطَّبَّاخُ", "root": "ط ب خ", "bs": "kuhar", "en": "cook" },
-        { "w": "إِضَافَةَ", "root": "ض ي ف", "bs": "dodavanje", "en": "adding" },
-        { "w": "الْمِلْحِ", "root": "م ل ح", "bs": "sol", "en": "salt" },
-        { "w": "الطَّعَامِ", "root": "ط ع م", "bs": "hrana", "en": "food" }
+        {
+          "w": "نَسِيَ",
+          "root": "ن س ي",
+          "bs": "zaboravio je",
+          "en": "forgot",
+          "lemma": "نَسِيَ يَنْسَى"
+        },
+        {
+          "w": "الطَّبَّاخُ",
+          "root": "ط ب خ",
+          "bs": "kuhar",
+          "en": "cook",
+          "lemma": "طَبَّاخٌ / طَبَّاخُونَ"
+        },
+        {
+          "w": "إِضَافَةَ",
+          "root": "ض ي ف",
+          "bs": "dodavanje",
+          "en": "adding",
+          "lemma": "إِضَافَةٌ / إِضَافَاتٌ"
+        },
+        {
+          "w": "الْمِلْحِ",
+          "root": "م ل ح",
+          "bs": "sol",
+          "en": "salt",
+          "lemma": "مِلْحٌ / أَمْلَاحٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        }
       ]
     },
     {
@@ -40,14 +106,36 @@
       "translation": "Hrana nije bila ukusna zbog tog malog detalja.",
       "translationEn": "The food was not tasty because of this small detail.",
       "words": [
-        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusna", "en": "tasty" },
-        { "w": "التَّفْصِيلَةِ", "root": "ف ص ل", "bs": "detalj", "en": "detail" }
+        {
+          "w": "الطَّعَامُ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "لَذِيذًا",
+          "root": "ل ذ ذ",
+          "bs": "ukusna",
+          "en": "tasty",
+          "lemma": "لَذِيذٌ"
+        },
+        {
+          "w": "التَّفْصِيلَةِ",
+          "root": "ف ص ل",
+          "bs": "detalj",
+          "en": "detail",
+          "lemma": "تَفْصِيلَةٌ / تَفَاصِيلُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["details", "proverb", "attention"]
+    "tags": [
+      "details",
+      "proverb",
+      "attention"
+    ]
   }
 }

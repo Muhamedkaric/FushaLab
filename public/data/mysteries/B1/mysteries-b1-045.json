@@ -8,11 +8,41 @@
       "translation": "Hamza je pronašao veliku ptičju pericu na balkonu.",
       "translationEn": "Hamza found a large bird feather on the balcony.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "رِيشَةَ", "root": "ر ي ش", "bs": "pericu", "en": "feather" },
-        { "w": "طَائِرٍ", "root": "ط ي ر", "bs": "ptičju", "en": "bird's" },
-        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "veliku", "en": "large" },
-        { "w": "الشُّرْفَةِ", "root": "ش ر ف", "bs": "balkonu", "en": "balcony" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "رِيشَةَ",
+          "root": "ر ي ش",
+          "bs": "pericu",
+          "en": "feather",
+          "lemma": "رِيشَةٌ / رِيشٌ"
+        },
+        {
+          "w": "طَائِرٍ",
+          "root": "ط ي ر",
+          "bs": "ptičju",
+          "en": "bird's",
+          "lemma": "طَائِرٌ / طُيُورٌ"
+        },
+        {
+          "w": "كَبِيرَةً",
+          "root": "ك ب ر",
+          "bs": "veliku",
+          "en": "large",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "الشُّرْفَةِ",
+          "root": "ش ر ف",
+          "bs": "balkonu",
+          "en": "balcony",
+          "lemma": "شُرْفَةٌ / شُرَفٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Perica je bila obojena plavom i zelenom bojom.",
       "translationEn": "The feather was coloured blue and green.",
       "words": [
-        { "w": "الرِّيشَةُ", "root": "ر ي ش", "bs": "perica", "en": "the feather" },
-        { "w": "مُلَوَّنَةً", "root": "ل و ن", "bs": "obojena", "en": "coloured" },
-        { "w": "بِالْأَزْرَقِ", "root": "ز ر ق", "bs": "plavom", "en": "blue" },
-        { "w": "الْأَخْضَرِ", "root": "خ ض ر", "bs": "zelenom", "en": "green" }
+        {
+          "w": "الرِّيشَةُ",
+          "root": "ر ي ش",
+          "bs": "perica",
+          "en": "the feather",
+          "lemma": "رِيشَةٌ / رِيشٌ"
+        },
+        {
+          "w": "مُلَوَّنَةً",
+          "root": "ل و ن",
+          "bs": "obojena",
+          "en": "coloured",
+          "lemma": "مُلَوَّنٌ"
+        },
+        {
+          "w": "بِالْأَزْرَقِ",
+          "root": "ز ر ق",
+          "bs": "plavom",
+          "en": "blue",
+          "lemma": "أَزْرَقُ"
+        },
+        {
+          "w": "الْأَخْضَرِ",
+          "root": "خ ض ر",
+          "bs": "zelenom",
+          "en": "green",
+          "lemma": "أَخْضَرُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Hamza ranije nikada nije vidio pticu takve boje u kvartu.",
       "translationEn": "Hamza had never seen a bird of this colour in the neighbourhood before.",
       "words": [
-        { "w": "يَرَ", "root": "ر أ ي", "bs": "vidio", "en": "he had seen" },
-        { "w": "طَائِرًا", "root": "ط ي ر", "bs": "pticu", "en": "bird" },
-        { "w": "اللَّوْنِ", "root": "ل و ن", "bs": "boje", "en": "colour" },
-        { "w": "الْحَيِّ", "root": "ح ي ي", "bs": "kvartu", "en": "neighbourhood" }
+        {
+          "w": "يَرَ",
+          "root": "ر أ ي",
+          "bs": "vidio",
+          "en": "he had seen",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "طَائِرًا",
+          "root": "ط ي ر",
+          "bs": "pticu",
+          "en": "bird",
+          "lemma": "طَائِرٌ / طُيُورٌ"
+        },
+        {
+          "w": "اللَّوْنِ",
+          "root": "ل و ن",
+          "bs": "boje",
+          "en": "colour",
+          "lemma": "لَوْنٌ / أَلْوَانٌ"
+        },
+        {
+          "w": "الْحَيِّ",
+          "root": "ح ي ي",
+          "bs": "kvartu",
+          "en": "neighbourhood",
+          "lemma": "حَيٌّ / أَحْيَاءٌ"
+        }
       ]
     },
     {
@@ -42,11 +120,41 @@
       "translation": "Tražio je u knjigama i pronašao da je to paunja perica.",
       "translationEn": "He searched in books and found that it was a peacock feather.",
       "words": [
-        { "w": "بَحَثَ", "root": "ب ح ث", "bs": "tražio je", "en": "he searched" },
-        { "w": "الْكُتُبِ", "root": "ك ت ب", "bs": "knjigama", "en": "books" },
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "رِيشَةُ", "root": "ر ي ش", "bs": "perica", "en": "feather" },
-        { "w": "طَاوُوسٍ", "root": "ط و س", "bs": "paunja", "en": "peacock" }
+        {
+          "w": "بَحَثَ",
+          "root": "ب ح ث",
+          "bs": "tražio je",
+          "en": "he searched",
+          "lemma": "بَحَثَ يَبْحَثُ"
+        },
+        {
+          "w": "الْكُتُبِ",
+          "root": "ك ت ب",
+          "bs": "knjigama",
+          "en": "books",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "رِيشَةُ",
+          "root": "ر ي ش",
+          "bs": "perica",
+          "en": "feather",
+          "lemma": "رِيشَةٌ / رِيشٌ"
+        },
+        {
+          "w": "طَاوُوسٍ",
+          "root": "ط و س",
+          "bs": "paunja",
+          "en": "peacock",
+          "lemma": "طَاوُوسٌ / طَوَاوِيسُ"
+        }
       ]
     },
     {
@@ -54,17 +162,58 @@
       "translation": "Shvatio je da obližnji zoološki vrt uzgaja pauniče.",
       "translationEn": "He learned that the nearby zoo kept peacocks.",
       "words": [
-        { "w": "عَرَفَ", "root": "ع ر ف", "bs": "shvatio je", "en": "he learned" },
-        { "w": "حَدِيقَةَ", "root": "ح د ق", "bs": "vrt", "en": "garden/zoo" },
-        { "w": "الْحَيَوَانَاتِ", "root": "ح ي و", "bs": "životinja", "en": "animals" },
-        { "w": "الْقَرِيبَةَ", "root": "ق ر ب", "bs": "obližnji", "en": "nearby" },
-        { "w": "تَرَبِّي", "root": "ر ب ب", "bs": "uzgaja", "en": "keeps/raises" },
-        { "w": "الطَّوَاوِيسَ", "root": "ط و س", "bs": "pauniče", "en": "peacocks" }
+        {
+          "w": "عَرَفَ",
+          "root": "ع ر ف",
+          "bs": "shvatio je",
+          "en": "he learned",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "حَدِيقَةَ",
+          "root": "ح د ق",
+          "bs": "vrt",
+          "en": "garden/zoo",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        },
+        {
+          "w": "الْحَيَوَانَاتِ",
+          "root": "ح ي و",
+          "bs": "životinja",
+          "en": "animals",
+          "lemma": "حَيَوَانٌ / حَيَوَانَاتٌ"
+        },
+        {
+          "w": "الْقَرِيبَةَ",
+          "root": "ق ر ب",
+          "bs": "obližnji",
+          "en": "nearby",
+          "lemma": "قَرِيبٌ"
+        },
+        {
+          "w": "تَرَبِّي",
+          "root": "ر ب ب",
+          "bs": "uzgaja",
+          "en": "keeps/raises",
+          "lemma": "رَبَّى يُرَبِّي"
+        },
+        {
+          "w": "الطَّوَاوِيسَ",
+          "root": "ط و س",
+          "bs": "pauniče",
+          "en": "peacocks",
+          "lemma": "طَاوُوسٌ / طَوَاوِيسُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "feather", "bird", "peacock"]
+    "tags": [
+      "mystery",
+      "feather",
+      "bird",
+      "peacock"
+    ]
   }
 }

@@ -8,9 +8,27 @@
       "translation": "Porodica se svake subote skupljala kod djeda.",
       "translationEn": "The family gathered every Friday at their grandfather's house.",
       "words": [
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "تَجْتَمِعُ", "root": "ج م ع", "bs": "skupljala se", "en": "gathered" },
-        { "w": "الْجَدِّ", "root": "ج د د", "bs": "djed", "en": "grandfather" }
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "تَجْتَمِعُ",
+          "root": "ج م ع",
+          "bs": "skupljala se",
+          "en": "gathered",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الْجَدِّ",
+          "root": "ج د د",
+          "bs": "djed",
+          "en": "grandfather",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Djed je pričao priče iz svojih starih dana.",
       "translationEn": "The grandfather used to tell stories from his old days.",
       "words": [
-        { "w": "يَحْكِي", "root": "ح ك ي", "bs": "pričao je", "en": "used to tell" },
-        { "w": "قِصَصًا", "root": "ق ص ص", "bs": "priče", "en": "stories" },
-        { "w": "أَيَّامِهِ", "root": "ي و م", "bs": "njegovi dani", "en": "his days" },
-        { "w": "الْقَدِيمَةِ", "root": "ق د م", "bs": "stari/prošli", "en": "old/past" }
+        {
+          "w": "يَحْكِي",
+          "root": "ح ك ي",
+          "bs": "pričao je",
+          "en": "used to tell",
+          "lemma": "حَكَى يَحْكِي"
+        },
+        {
+          "w": "قِصَصًا",
+          "root": "ق ص ص",
+          "bs": "priče",
+          "en": "stories",
+          "lemma": "قِصَّةٌ / قِصَصٌ"
+        },
+        {
+          "w": "أَيَّامِهِ",
+          "root": "ي و م",
+          "bs": "njegovi dani",
+          "en": "his days",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "الْقَدِيمَةِ",
+          "root": "ق د م",
+          "bs": "stari/prošli",
+          "en": "old/past",
+          "lemma": "قَدِيمٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Djeca su sjedila oko njega i pažljivo slušala.",
       "translationEn": "The children sat around him and listened carefully.",
       "words": [
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjedili su", "en": "sat" },
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "اسْتَمَعُوا", "root": "س م ع", "bs": "slušali su", "en": "listened" },
-        { "w": "بِانْتِبَاهٍ", "root": "ن ب ه", "bs": "pažljivo", "en": "carefully" }
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjedili su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "اسْتَمَعُوا",
+          "root": "س م ع",
+          "bs": "slušali su",
+          "en": "listened",
+          "lemma": "اسْتَمَعَ يَسْتَمِعُ"
+        },
+        {
+          "w": "بِانْتِبَاهٍ",
+          "root": "ن ب ه",
+          "bs": "pažljivo",
+          "en": "carefully",
+          "lemma": "اِنْتِبَاهٌ"
+        }
       ]
     },
     {
@@ -40,14 +106,36 @@
       "translation": "Те večeri bile su među njihovim najlijepšim uspomenama.",
       "translationEn": "Those evenings were among their most beautiful memories.",
       "words": [
-        { "w": "الأُمْسِيَاتُ", "root": "م س و", "bs": "večeri", "en": "evenings" },
-        { "w": "أَجْمَلِ", "root": "ج م ل", "bs": "najljepši", "en": "most beautiful" },
-        { "w": "ذِكْرَيَاتِهِمْ", "root": "ذ ك ر", "bs": "njihove uspomene", "en": "their memories" }
+        {
+          "w": "الأُمْسِيَاتُ",
+          "root": "م س و",
+          "bs": "večeri",
+          "en": "evenings",
+          "lemma": "أُمْسِيَةٌ / أُمْسِيَاتٌ"
+        },
+        {
+          "w": "أَجْمَلِ",
+          "root": "ج م ل",
+          "bs": "najljepši",
+          "en": "most beautiful",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "ذِكْرَيَاتِهِمْ",
+          "root": "ذ ك ر",
+          "bs": "njihove uspomene",
+          "en": "their memories",
+          "lemma": "ذِكْرَى / ذِكْرَيَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["family", "grandfather", "tradition"]
+    "tags": [
+      "family",
+      "grandfather",
+      "tradition"
+    ]
   }
 }

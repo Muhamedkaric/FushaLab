@@ -8,10 +8,34 @@
       "translation": "Pastir po imenu Sulejman je sjedio ispod velikog stabla.",
       "translationEn": "A shepherd named Suleyman sat under a big tree.",
       "words": [
-        { "w": "جَلَسَ", "root": "ج ل س", "bs": "sjedio je", "en": "sat" },
-        { "w": "رَاعٍ", "root": "ر ع ي", "bs": "pastir", "en": "shepherd" },
-        { "w": "شَجَرَةٍ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
-        { "w": "كَبِيرَةٍ", "root": "ك ب ر", "bs": "velikog", "en": "big" }
+        {
+          "w": "جَلَسَ",
+          "root": "ج ل س",
+          "bs": "sjedio je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "رَاعٍ",
+          "root": "ر ع ي",
+          "bs": "pastir",
+          "en": "shepherd",
+          "lemma": "رَاعٍ / رُعَاةٌ"
+        },
+        {
+          "w": "شَجَرَةٍ",
+          "root": "ش ج ر",
+          "bs": "stablo",
+          "en": "tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "root": "ك ب ر",
+          "bs": "velikog",
+          "en": "big",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Bilo je vruće i ovce su mirno jele travu.",
       "translationEn": "The weather was hot and his sheep were quietly eating grass.",
       "words": [
-        { "w": "الطَّقْسُ", "root": "ط ق س", "bs": "vrijeme", "en": "weather" },
-        { "w": "حَارًّا", "root": "ح ر ر", "bs": "vruće", "en": "hot" },
-        { "w": "غَنَمُهُ", "root": "غ ن م", "bs": "njegove ovce", "en": "his sheep" },
-        { "w": "الْعُشْبَ", "root": "ع ش ب", "bs": "trava", "en": "grass" },
-        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno", "en": "quietly" }
+        {
+          "w": "الطَّقْسُ",
+          "root": "ط ق س",
+          "bs": "vrijeme",
+          "en": "weather",
+          "lemma": "طَقْسٌ"
+        },
+        {
+          "w": "حَارًّا",
+          "root": "ح ر ر",
+          "bs": "vruće",
+          "en": "hot",
+          "lemma": "حَارٌّ"
+        },
+        {
+          "w": "غَنَمُهُ",
+          "root": "غ ن م",
+          "bs": "njegove ovce",
+          "en": "his sheep",
+          "lemma": "غَنَمٌ"
+        },
+        {
+          "w": "الْعُشْبَ",
+          "root": "ع ش ب",
+          "bs": "trava",
+          "en": "grass",
+          "lemma": "عُشْبٌ"
+        },
+        {
+          "w": "بِهُدُوءٍ",
+          "root": "ه د أ",
+          "bs": "mirno",
+          "en": "quietly",
+          "lemma": "هُدُوءٌ"
+        }
       ]
     },
     {
@@ -31,11 +85,41 @@
       "translation": "Vidio je dijete kako plače na putu pa je krenuo prema njemu.",
       "translationEn": "He saw a child crying on the road and went to him.",
       "words": [
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
-        { "w": "طِفْلًا", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "يَبْكِي", "root": "ب ك ي", "bs": "plače", "en": "crying" },
-        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put", "en": "road" },
-        { "w": "قَامَ", "root": "ق و م", "bs": "krenuo je", "en": "went" }
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "طِفْلًا",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يَبْكِي",
+          "root": "ب ك ي",
+          "bs": "plače",
+          "en": "crying",
+          "lemma": "بَكَى يَبْكِي"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "put",
+          "en": "road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        },
+        {
+          "w": "قَامَ",
+          "root": "ق و م",
+          "bs": "krenuo je",
+          "en": "went",
+          "lemma": "قَامَ يَقُومُ"
+        }
       ]
     },
     {
@@ -43,16 +127,51 @@
       "translation": "Dao mu je vodu i hranu i uputio ga prema selu.",
       "translationEn": "He gave him water and food and directed him to the village.",
       "words": [
-        { "w": "أَعْطَاهُ", "root": "ع ط ي", "bs": "dao mu je", "en": "gave him" },
-        { "w": "مَاءً", "root": "م و ه", "bs": "vodu", "en": "water" },
-        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hranu", "en": "food" },
-        { "w": "أَرْشَدَهُ", "root": "ر ش د", "bs": "uputio ga je", "en": "directed him" },
-        { "w": "الْقَرْيَةِ", "root": "ق ر ي", "bs": "selo", "en": "village" }
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط ي",
+          "bs": "dao mu je",
+          "en": "gave him",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "مَاءً",
+          "root": "م و ه",
+          "bs": "vodu",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "طَعَامًا",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "أَرْشَدَهُ",
+          "root": "ر ش د",
+          "bs": "uputio ga je",
+          "en": "directed him",
+          "lemma": "أَرْشَدَ يُرْشِدُ"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "root": "ق ر ي",
+          "bs": "selo",
+          "en": "village",
+          "lemma": "قَرْيَةٌ / قُرًى"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["shepherd", "child", "kindness", "village"]
+    "tags": [
+      "shepherd",
+      "child",
+      "kindness",
+      "village"
+    ]
   }
 }

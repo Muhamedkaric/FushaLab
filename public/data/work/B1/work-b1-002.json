@@ -8,9 +8,27 @@
       "translation": "Suzan ide na posao autobusom svaki dan.",
       "translationEn": "Suzan goes to work by bus every day.",
       "words": [
-        { "w": "تَذْهَبُ", "root": "ذ ه ب", "bs": "ide/odlazi", "en": "goes" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao/rad", "en": "work" },
-        { "w": "الْحَافِلَةِ", "root": "ح ف ل", "bs": "autobus", "en": "bus" }
+        {
+          "w": "تَذْهَبُ",
+          "root": "ذ ه ب",
+          "bs": "ide/odlazi",
+          "en": "goes",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao/rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْحَافِلَةِ",
+          "root": "ح ف ل",
+          "bs": "autobus",
+          "en": "bus",
+          "lemma": "حَافِلَةٌ / حَافِلَاتٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Putovanje traje dvadeset minuta od kuće.",
       "translationEn": "The trip takes twenty minutes from home.",
       "words": [
-        { "w": "تَسْتَغْرِقُ", "root": "غ ر ق", "bs": "traje/oduzima", "en": "takes" },
-        { "w": "الرِّحْلَةُ", "root": "ر ح ل", "bs": "putovanje/vožnja", "en": "trip/journey" },
-        { "w": "دَقِيقَةً", "root": "د ق ق", "bs": "minuta", "en": "minute" },
-        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "home" }
+        {
+          "w": "تَسْتَغْرِقُ",
+          "root": "غ ر ق",
+          "bs": "traje/oduzima",
+          "en": "takes",
+          "lemma": "اسْتَغْرَقَ يَسْتَغْرِقُ"
+        },
+        {
+          "w": "الرِّحْلَةُ",
+          "root": "ر ح ل",
+          "bs": "putovanje/vožnja",
+          "en": "trip/journey",
+          "lemma": "رِحْلَةٌ / رِحَلٌ"
+        },
+        {
+          "w": "دَقِيقَةً",
+          "root": "د ق ق",
+          "bs": "minuta",
+          "en": "minute",
+          "lemma": "دَقِيقَةٌ / دَقَائِقُ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća/dom",
+          "en": "home",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -29,11 +71,41 @@
       "translation": "Čita knjigu ili sluša muziku na putu.",
       "translationEn": "She reads a book or listens to music on the way.",
       "words": [
-        { "w": "تَقْرَأُ", "root": "ق ر أ", "bs": "čita", "en": "reads" },
-        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "تَسْتَمِعُ", "root": "س م ع", "bs": "sluša", "en": "listens" },
-        { "w": "الْمُوسِيقَى", "root": "م و س", "bs": "muzika", "en": "music" },
-        { "w": "الطَّرِيقِ", "root": "ط ر ق", "bs": "put/cesta", "en": "way/road" }
+        {
+          "w": "تَقْرَأُ",
+          "root": "ق ر أ",
+          "bs": "čita",
+          "en": "reads",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "تَسْتَمِعُ",
+          "root": "س م ع",
+          "bs": "sluša",
+          "en": "listens",
+          "lemma": "اسْتَمَعَ يَسْتَمِعُ"
+        },
+        {
+          "w": "الْمُوسِيقَى",
+          "root": "م و س",
+          "bs": "muzika",
+          "en": "music",
+          "lemma": "الْمُوسِيقَى"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "root": "ط ر ق",
+          "bs": "put/cesta",
+          "en": "way/road",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Stiže na posao svježa i spremna za dan.",
       "translationEn": "She arrives at work energetic and ready for the day.",
       "words": [
-        { "w": "تَصِلُ", "root": "و ص ل", "bs": "stiže/dolazi", "en": "arrives" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" },
-        { "w": "نَشِيطَةً", "root": "ن ش ط", "bs": "aktivna/energična", "en": "energetic/active" },
-        { "w": "مُسْتَعِدَّةً", "root": "ع د د", "bs": "spremna/pripremljena", "en": "ready/prepared" }
+        {
+          "w": "تَصِلُ",
+          "root": "و ص ل",
+          "bs": "stiže/dolazi",
+          "en": "arrives",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "نَشِيطَةً",
+          "root": "ن ش ط",
+          "bs": "aktivna/energična",
+          "en": "energetic/active",
+          "lemma": "نَشِيطٌ"
+        },
+        {
+          "w": "مُسْتَعِدَّةً",
+          "root": "ع د د",
+          "bs": "spremna/pripremljena",
+          "en": "ready/prepared",
+          "lemma": "مُسْتَعِدٌّ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["commute", "bus", "morning", "routine"]
+    "tags": [
+      "commute",
+      "bus",
+      "morning",
+      "routine"
+    ]
   }
 }

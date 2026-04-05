@@ -8,9 +8,27 @@
       "translation": "Direktor je rekao: «Vjernik se ne ujeda iz iste rupe dvaput».",
       "translationEn": "The director said: «A believer is not stung from the same hole twice».",
       "words": [
-        { "w": "يُلْدَغُ", "root": "ل د غ", "bs": "bude ujeden", "en": "is stung" },
-        { "w": "الْمُؤْمِنُ", "root": "أ م ن", "bs": "vjernik", "en": "believer" },
-        { "w": "جُحْرٍ", "root": "ج ح ر", "bs": "rupa", "en": "hole" }
+        {
+          "w": "يُلْدَغُ",
+          "root": "ل د غ",
+          "bs": "bude ujeden",
+          "en": "is stung",
+          "lemma": "لَدَغَ يَلْدَغُ"
+        },
+        {
+          "w": "الْمُؤْمِنُ",
+          "root": "أ م ن",
+          "bs": "vjernik",
+          "en": "believer",
+          "lemma": "مُؤْمِنٌ / مُؤْمِنُونَ"
+        },
+        {
+          "w": "جُحْرٍ",
+          "root": "ج ح ر",
+          "bs": "rupa",
+          "en": "hole",
+          "lemma": "جُحْرٌ / جِحَرَةٌ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "To znači da mudar čovjek ne griješi dvaput na isti način.",
       "translationEn": "This means that a wise person does not make the same mistake twice.",
       "words": [
-        { "w": "الشَّخْصَ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
-        { "w": "الْحَكِيمَ", "root": "ح ك م", "bs": "mudar", "en": "wise" },
-        { "w": "الْخَطَأِ", "root": "خ ط أ", "bs": "greška", "en": "mistake" }
+        {
+          "w": "الشَّخْصَ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "الْحَكِيمَ",
+          "root": "ح ك م",
+          "bs": "mudar",
+          "en": "wise",
+          "lemma": "حَكِيمٌ / حُكَمَاءُ"
+        },
+        {
+          "w": "الْخَطَأِ",
+          "root": "خ ط أ",
+          "bs": "greška",
+          "en": "mistake",
+          "lemma": "خَطَأٌ / أَخْطَاءٌ"
+        }
       ]
     },
     {
@@ -28,10 +64,34 @@
       "translation": "Basim je jednom zaboravio kišobran i pokisao.",
       "translationEn": "Basim once forgot his umbrella and got wet in the rain.",
       "words": [
-        { "w": "نَسِيَ", "root": "ن س ي", "bs": "zaboravio je", "en": "forgot" },
-        { "w": "مِظَلَّتَهُ", "root": "ظ ل ل", "bs": "kišobran", "en": "umbrella" },
-        { "w": "ابْتَلَّ", "root": "ب ل ل", "bs": "pokisao je", "en": "got wet" },
-        { "w": "الْمَطَرِ", "root": "م ط ر", "bs": "kiša", "en": "rain" }
+        {
+          "w": "نَسِيَ",
+          "root": "ن س ي",
+          "bs": "zaboravio je",
+          "en": "forgot",
+          "lemma": "نَسِيَ يَنْسَى"
+        },
+        {
+          "w": "مِظَلَّتَهُ",
+          "root": "ظ ل ل",
+          "bs": "kišobran",
+          "en": "umbrella",
+          "lemma": "مِظَلَّةٌ / مِظَلَّاتٌ"
+        },
+        {
+          "w": "ابْتَلَّ",
+          "root": "ب ل ل",
+          "bs": "pokisao je",
+          "en": "got wet",
+          "lemma": "اِبْتَلَّ يَبْتَلُّ"
+        },
+        {
+          "w": "الْمَطَرِ",
+          "root": "م ط ر",
+          "bs": "kiša",
+          "en": "rain",
+          "lemma": "مَطَرٌ / أَمْطَارٌ"
+        }
       ]
     },
     {
@@ -39,14 +99,36 @@
       "translation": "Nakon toga je uvijek provjeravao vremenske prilike prije izlaska.",
       "translationEn": "After that he always checked the weather before going out.",
       "words": [
-        { "w": "يَتَحَقَّقُ", "root": "ح ق ق", "bs": "provjeravao je", "en": "checked" },
-        { "w": "الطَّقْسِ", "root": "ط ق س", "bs": "vremenska prognoza", "en": "weather" },
-        { "w": "الْخُرُوجِ", "root": "خ ر ج", "bs": "izlaz", "en": "going out" }
+        {
+          "w": "يَتَحَقَّقُ",
+          "root": "ح ق ق",
+          "bs": "provjeravao je",
+          "en": "checked",
+          "lemma": "تَحَقَّقَ يَتَحَقَّقُ"
+        },
+        {
+          "w": "الطَّقْسِ",
+          "root": "ط ق س",
+          "bs": "vremenska prognoza",
+          "en": "weather",
+          "lemma": "طَقْسٌ / أَطْقَاسٌ"
+        },
+        {
+          "w": "الْخُرُوجِ",
+          "root": "خ ر ج",
+          "bs": "izlaz",
+          "en": "going out",
+          "lemma": "خُرُوجٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["learning", "proverb", "mistakes"]
+    "tags": [
+      "learning",
+      "proverb",
+      "mistakes"
+    ]
   }
 }

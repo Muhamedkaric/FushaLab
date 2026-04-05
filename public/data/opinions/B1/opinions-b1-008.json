@@ -8,11 +8,41 @@
       "translation": "Smatram da je pravo prijateljstvo velika blagodat.",
       "translationEn": "I believe that true friendship is a great blessing.",
       "words": [
-        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
-        { "w": "الصَّدَاقَةَ", "root": "ص د ق", "bs": "prijateljstvo", "en": "friendship" },
-        { "w": "الْحَقِيقِيَّةَ", "root": "ح ق ق", "bs": "pravo", "en": "true" },
-        { "w": "نِعْمَةٌ", "root": "ن ع م", "bs": "blagodat", "en": "blessing" },
-        { "w": "كَبِيرَةٌ", "root": "ك ب ر", "bs": "velika", "en": "great" }
+        {
+          "w": "أَعْتَقِدُ",
+          "root": "ع ق د",
+          "bs": "smatram",
+          "en": "I believe",
+          "lemma": "اعْتَقَدَ يَعْتَقِدُ"
+        },
+        {
+          "w": "الصَّدَاقَةَ",
+          "root": "ص د ق",
+          "bs": "prijateljstvo",
+          "en": "friendship",
+          "lemma": "صَدَاقَةٌ"
+        },
+        {
+          "w": "الْحَقِيقِيَّةَ",
+          "root": "ح ق ق",
+          "bs": "pravo",
+          "en": "true",
+          "lemma": "حَقِيقِيٌّ"
+        },
+        {
+          "w": "نِعْمَةٌ",
+          "root": "ن ع م",
+          "bs": "blagodat",
+          "en": "blessing",
+          "lemma": "نِعْمَةٌ / نِعَمٌ"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "root": "ك ب ر",
+          "bs": "velika",
+          "en": "great",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Pravi prijatelj stoji uz tebe u teškim vremenima.",
       "translationEn": "A true friend stands by you in difficult times.",
       "words": [
-        { "w": "الصَّدِيقُ", "root": "ص د ق", "bs": "prijatelj", "en": "friend" },
-        { "w": "الْحَقِيقِيُّ", "root": "ح ق ق", "bs": "pravi", "en": "true" },
-        { "w": "يَقِفُ", "root": "و ق ف", "bs": "stoji", "en": "stands" },
-        { "w": "الْأَوْقَاتِ", "root": "و ق ت", "bs": "vremenima", "en": "times" },
-        { "w": "الصَّعْبَةِ", "root": "ص ع ب", "bs": "teškim", "en": "difficult" }
+        {
+          "w": "الصَّدِيقُ",
+          "root": "ص د ق",
+          "bs": "prijatelj",
+          "en": "friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "الْحَقِيقِيُّ",
+          "root": "ح ق ق",
+          "bs": "pravi",
+          "en": "true",
+          "lemma": "حَقِيقِيٌّ"
+        },
+        {
+          "w": "يَقِفُ",
+          "root": "و ق ف",
+          "bs": "stoji",
+          "en": "stands",
+          "lemma": "وَقَفَ يَقِفُ"
+        },
+        {
+          "w": "الْأَوْقَاتِ",
+          "root": "و ق ت",
+          "bs": "vremenima",
+          "en": "times",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "الصَّعْبَةِ",
+          "root": "ص ع ب",
+          "bs": "teškim",
+          "en": "difficult",
+          "lemma": "صَعْبٌ"
+        }
       ]
     },
     {
@@ -32,9 +92,27 @@
       "translation": "Nije važno imati puno prijatelja.",
       "translationEn": "It is not important to have many friends.",
       "words": [
-        { "w": "مُهِمًّا", "root": "ه م م", "bs": "važno", "en": "important" },
-        { "w": "أَصْدِقَاءُ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
-        { "w": "كَثِيرُونَ", "root": "ك ث ر", "bs": "puno", "en": "many" }
+        {
+          "w": "مُهِمًّا",
+          "root": "ه م م",
+          "bs": "važno",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "أَصْدِقَاءُ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "كَثِيرُونَ",
+          "root": "ك ث ر",
+          "bs": "puno",
+          "en": "many",
+          "lemma": "كَثِيرٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Važno je imati jednog iskrenog prijatelja.",
       "translationEn": "What matters is to have one honest friend.",
       "words": [
-        { "w": "الْمُهِمُّ", "root": "ه م م", "bs": "važno", "en": "what matters" },
-        { "w": "صَدِيقٌ", "root": "ص د ق", "bs": "prijatelja", "en": "friend" },
-        { "w": "وَاحِدٌ", "root": "و ح د", "bs": "jednog", "en": "one" },
-        { "w": "صَادِقٌ", "root": "ص د ق", "bs": "iskrenog", "en": "honest" }
+        {
+          "w": "الْمُهِمُّ",
+          "root": "ه م م",
+          "bs": "važno",
+          "en": "what matters",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "صَدِيقٌ",
+          "root": "ص د ق",
+          "bs": "prijatelja",
+          "en": "friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "وَاحِدٌ",
+          "root": "و ح د",
+          "bs": "jednog",
+          "en": "one",
+          "lemma": "وَاحِدٌ"
+        },
+        {
+          "w": "صَادِقٌ",
+          "root": "ص د ق",
+          "bs": "iskrenog",
+          "en": "honest",
+          "lemma": "صَادِقٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "friendship", "values", "life"]
+    "tags": [
+      "opinion",
+      "friendship",
+      "values",
+      "life"
+    ]
   }
 }

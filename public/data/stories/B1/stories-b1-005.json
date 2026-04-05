@@ -8,10 +8,34 @@
       "translation": "Sara je posijala malo sjeme u vrtu.",
       "translationEn": "Sara planted a small seed in the garden.",
       "words": [
-        { "w": "زَرَعَتْ", "root": "ز ر ع", "bs": "posijala je", "en": "planted" },
-        { "w": "بَذْرَةً", "root": "ب ذ ر", "bs": "sjeme", "en": "seed" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "malo", "en": "small" },
-        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "vrt", "en": "garden" }
+        {
+          "w": "زَرَعَتْ",
+          "root": "ز ر ع",
+          "bs": "posijala je",
+          "en": "planted",
+          "lemma": "زَرَعَ يَزْرَعُ"
+        },
+        {
+          "w": "بَذْرَةً",
+          "root": "ب ذ ر",
+          "bs": "sjeme",
+          "en": "seed",
+          "lemma": "بَذْرَةٌ / بَذَرَاتٌ"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "malo",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "vrt",
+          "en": "garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Zalijevala je svaki dan ujutro i uveče.",
       "translationEn": "She watered it every morning and evening.",
       "words": [
-        { "w": "سَقَتْهَا", "root": "س ق ي", "bs": "zalijevala je", "en": "watered it" },
-        { "w": "يَوْمٍ", "root": "ي و م", "bs": "dan", "en": "day" },
-        { "w": "صَبَاحًا", "root": "ص ب ح", "bs": "ujutro", "en": "morning" },
-        { "w": "مَسَاءً", "root": "م س و", "bs": "uveče", "en": "evening" }
+        {
+          "w": "سَقَتْهَا",
+          "root": "س ق ي",
+          "bs": "zalijevala je",
+          "en": "watered it",
+          "lemma": "سَقَى يَسْقِي"
+        },
+        {
+          "w": "يَوْمٍ",
+          "root": "ي و م",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "صَبَاحًا",
+          "root": "ص ب ح",
+          "bs": "ujutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        },
+        {
+          "w": "مَسَاءً",
+          "root": "م س و",
+          "bs": "uveče",
+          "en": "evening",
+          "lemma": "مَسَاءٌ"
+        }
       ]
     },
     {
@@ -30,12 +78,48 @@
       "translation": "Nakon sedmice je ugledala mali zeleni listić koji izlazi iz zemlje.",
       "translationEn": "After a week she saw a small green leaf coming out of the ground.",
       "words": [
-        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmica", "en": "week" },
-        { "w": "رَأَتْ", "root": "ر أ ي", "bs": "ugledala je", "en": "saw" },
-        { "w": "وَرَقَةً", "root": "و ر ق", "bs": "listić", "en": "leaf" },
-        { "w": "خَضْرَاءَ", "root": "خ ض ر", "bs": "zeleni", "en": "green" },
-        { "w": "تَخْرُجُ", "root": "خ ر ج", "bs": "izlazi", "en": "coming out" },
-        { "w": "الأَرْضِ", "root": "أ ر ض", "bs": "zemlja", "en": "ground" }
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "س ب ع",
+          "bs": "sedmica",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        },
+        {
+          "w": "رَأَتْ",
+          "root": "ر أ ي",
+          "bs": "ugledala je",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "وَرَقَةً",
+          "root": "و ر ق",
+          "bs": "listić",
+          "en": "leaf",
+          "lemma": "وَرَقَةٌ / أَوْرَاقٌ"
+        },
+        {
+          "w": "خَضْرَاءَ",
+          "root": "خ ض ر",
+          "bs": "zeleni",
+          "en": "green",
+          "lemma": "أَخْضَرُ"
+        },
+        {
+          "w": "تَخْرُجُ",
+          "root": "خ ر ج",
+          "bs": "izlazi",
+          "en": "coming out",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "الأَرْضِ",
+          "root": "أ ر ض",
+          "bs": "zemlja",
+          "en": "ground",
+          "lemma": "أَرْضٌ / أَرَاضٍ"
+        }
       ]
     },
     {
@@ -43,8 +127,20 @@
       "translation": "Veoma se obradovala i rekla: «Ja sam uspjela!»",
       "translationEn": "She was very happy and said: «I did it!»",
       "words": [
-        { "w": "فَرِحَتْ", "root": "ف ر ح", "bs": "obradovala se", "en": "was happy" },
-        { "w": "نَجَحْتُ", "root": "ن ج ح", "bs": "uspjela sam", "en": "I did it" }
+        {
+          "w": "فَرِحَتْ",
+          "root": "ف ر ح",
+          "bs": "obradovala se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "نَجَحْتُ",
+          "root": "ن ج ح",
+          "bs": "uspjela sam",
+          "en": "I did it",
+          "lemma": "نَجَحَ يَنْجَحُ"
+        }
       ]
     },
     {
@@ -52,16 +148,51 @@
       "translation": "Stablo je polako raslo i postalo je mjesto za ptice.",
       "translationEn": "The tree grew slowly and became a place for birds.",
       "words": [
-        { "w": "نَمَتِ", "root": "ن م و", "bs": "raslo je", "en": "grew" },
-        { "w": "الشَّجَرَةُ", "root": "ش ج ر", "bs": "stablo", "en": "tree" },
-        { "w": "أَصْبَحَتْ", "root": "ص ب ح", "bs": "postalo je", "en": "became" },
-        { "w": "مَكَانًا", "root": "ك و ن", "bs": "mjesto", "en": "place" },
-        { "w": "الطُّيُورِ", "root": "ط ي ر", "bs": "ptice", "en": "birds" }
+        {
+          "w": "نَمَتِ",
+          "root": "ن م و",
+          "bs": "raslo je",
+          "en": "grew",
+          "lemma": "نَمَا يَنْمُو"
+        },
+        {
+          "w": "الشَّجَرَةُ",
+          "root": "ش ج ر",
+          "bs": "stablo",
+          "en": "tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "أَصْبَحَتْ",
+          "root": "ص ب ح",
+          "bs": "postalo je",
+          "en": "became",
+          "lemma": "أَصْبَحَ يُصْبِحُ"
+        },
+        {
+          "w": "مَكَانًا",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "الطُّيُورِ",
+          "root": "ط ي ر",
+          "bs": "ptice",
+          "en": "birds",
+          "lemma": "طَائِرٌ / طُيُورٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["garden", "tree", "girl", "patience"]
+    "tags": [
+      "garden",
+      "tree",
+      "girl",
+      "patience"
+    ]
   }
 }

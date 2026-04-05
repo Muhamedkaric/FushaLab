@@ -8,9 +8,27 @@
       "translation": "Poslovica kaže: «Krv ne postaje voda».",
       "translationEn": "The proverb says: «Blood does not become water».",
       "words": [
-        { "w": "الدَّمُ", "root": "د م م", "bs": "krv", "en": "blood" },
-        { "w": "يَصِيرُ", "root": "ص ي ر", "bs": "postaje", "en": "becomes" },
-        { "w": "مَاءً", "root": "م و ه", "bs": "voda", "en": "water" }
+        {
+          "w": "الدَّمُ",
+          "root": "د م م",
+          "bs": "krv",
+          "en": "blood",
+          "lemma": "دَمٌ / دِمَاءٌ"
+        },
+        {
+          "w": "يَصِيرُ",
+          "root": "ص ي ر",
+          "bs": "postaje",
+          "en": "becomes",
+          "lemma": "صَارَ يَصِيرُ"
+        },
+        {
+          "w": "مَاءً",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "To znači da su porodične veze jake i ne prekidaju se.",
       "translationEn": "This means that family bonds are strong and do not break.",
       "words": [
-        { "w": "رَوَابِطَ", "root": "ر ب ط", "bs": "veze", "en": "bonds" },
-        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodica", "en": "family" },
-        { "w": "قَوِيَّةٌ", "root": "ق و ي", "bs": "jake", "en": "strong" },
-        { "w": "تَنْقَطِعُ", "root": "ق ط ع", "bs": "prekidaju se", "en": "break" }
+        {
+          "w": "رَوَابِطَ",
+          "root": "ر ب ط",
+          "bs": "veze",
+          "en": "bonds",
+          "lemma": "رَابِطَةٌ / رَوَابِطُ"
+        },
+        {
+          "w": "الأُسْرَةِ",
+          "root": "أ س ر",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "قَوِيَّةٌ",
+          "root": "ق و ي",
+          "bs": "jake",
+          "en": "strong",
+          "lemma": "قَوِيٌّ"
+        },
+        {
+          "w": "تَنْقَطِعُ",
+          "root": "ق ط ع",
+          "bs": "prekidaju se",
+          "en": "break",
+          "lemma": "اِنْقَطَعَ يَنْقَطِعُ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Braća su se posvađala ali su se pomirila.",
       "translationEn": "The brothers argued but they made up and reconciled.",
       "words": [
-        { "w": "تَشَاجَرَ", "root": "ش ج ر", "bs": "posvađali su se", "en": "argued" },
-        { "w": "الأَخَوَانِ", "root": "أ خ و", "bs": "braća", "en": "brothers" },
-        { "w": "تَصَالَحَا", "root": "ص ل ح", "bs": "pomirili su se", "en": "reconciled" }
+        {
+          "w": "تَشَاجَرَ",
+          "root": "ش ج ر",
+          "bs": "posvađali su se",
+          "en": "argued",
+          "lemma": "تَشَاجَرَ يَتَشَاجَرُ"
+        },
+        {
+          "w": "الأَخَوَانِ",
+          "root": "أ خ و",
+          "bs": "braća",
+          "en": "brothers",
+          "lemma": "أَخٌ / إِخْوَةٌ"
+        },
+        {
+          "w": "تَصَالَحَا",
+          "root": "ص ل ح",
+          "bs": "pomirili su se",
+          "en": "reconciled",
+          "lemma": "تَصَالَحَ يَتَصَالَحُ"
+        }
       ]
     },
     {
@@ -39,15 +99,43 @@
       "translation": "Majka je rekla: «Vi ste braća i porodica je važnija od svađe».",
       "translationEn": "The mother said: «You are brothers and family is more important than a quarrel».",
       "words": [
-        { "w": "إِخْوَةٌ", "root": "أ خ و", "bs": "braća", "en": "brothers" },
-        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
-        { "w": "أَهَمُّ", "root": "ه م م", "bs": "važnija", "en": "more important" },
-        { "w": "الْخِلَافِ", "root": "خ ل ف", "bs": "svađa", "en": "quarrel" }
+        {
+          "w": "إِخْوَةٌ",
+          "root": "أ خ و",
+          "bs": "braća",
+          "en": "brothers",
+          "lemma": "أَخٌ / إِخْوَةٌ"
+        },
+        {
+          "w": "الأُسْرَةُ",
+          "root": "أ س ر",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "أَهَمُّ",
+          "root": "ه م م",
+          "bs": "važnija",
+          "en": "more important",
+          "lemma": "أَهَمُّ"
+        },
+        {
+          "w": "الْخِلَافِ",
+          "root": "خ ل ف",
+          "bs": "svađa",
+          "en": "quarrel",
+          "lemma": "خِلَافٌ / خِلَافَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["family", "proverb", "bonds"]
+    "tags": [
+      "family",
+      "proverb",
+      "bonds"
+    ]
   }
 }

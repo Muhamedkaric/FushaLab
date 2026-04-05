@@ -8,10 +8,34 @@
       "translation": "U prodavnici igračaka bila je velika rasprodaja.",
       "translationEn": "There was a big sale at the toy shop.",
       "words": [
-        { "w": "مَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" },
-        { "w": "الأَلْعَابِ", "root": "ل ع ب", "bs": "igračke", "en": "toys" },
-        { "w": "تَخْفِيضٌ", "root": "خ ف ض", "bs": "rasprodaja", "en": "sale" },
-        { "w": "كَبِيرٌ", "root": "ك ب ر", "bs": "velika", "en": "big" }
+        {
+          "w": "مَحَلِّ",
+          "root": "ح ل ل",
+          "bs": "prodavnica",
+          "en": "shop",
+          "lemma": "مَحَلٌّ / مَحَلَّاتٌ"
+        },
+        {
+          "w": "الأَلْعَابِ",
+          "root": "ل ع ب",
+          "bs": "igračke",
+          "en": "toys",
+          "lemma": "لُعْبَةٌ / أَلْعَابٌ"
+        },
+        {
+          "w": "تَخْفِيضٌ",
+          "root": "خ ف ض",
+          "bs": "rasprodaja",
+          "en": "sale",
+          "lemma": "تَخْفِيضٌ / تَخْفِيضَاتٌ"
+        },
+        {
+          "w": "كَبِيرٌ",
+          "root": "ك ب ر",
+          "bs": "velika",
+          "en": "big",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Rašid i prijatelj su otišli u prodavnicu.",
       "translationEn": "Rashid and his friend went to the shop.",
       "words": [
-        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
-        { "w": "صَدِيقُهُ", "root": "ص د ق", "bs": "njegov prijatelj", "en": "his friend" },
-        { "w": "المَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" }
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "صَدِيقُهُ",
+          "root": "ص د ق",
+          "bs": "njegov prijatelj",
+          "en": "his friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "المَحَلِّ",
+          "root": "ح ل ل",
+          "bs": "prodavnica",
+          "en": "shop",
+          "lemma": "مَحَلٌّ / مَحَلَّاتٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Igračke su bile mnogo jeftinije nego obično.",
       "translationEn": "The toys were much cheaper than usual.",
       "words": [
-        { "w": "الأَلْعَابُ", "root": "ل ع ب", "bs": "igračke", "en": "toys" },
-        { "w": "أَرْخَصَ", "root": "ر خ ص", "bs": "jeftinije", "en": "cheaper" },
-        { "w": "العَادَةِ", "root": "ع و د", "bs": "obično", "en": "usual" }
+        {
+          "w": "الأَلْعَابُ",
+          "root": "ل ع ب",
+          "bs": "igračke",
+          "en": "toys",
+          "lemma": "لُعْبَةٌ / أَلْعَابٌ"
+        },
+        {
+          "w": "أَرْخَصَ",
+          "root": "ر خ ص",
+          "bs": "jeftinije",
+          "en": "cheaper",
+          "lemma": "رَخِيصٌ"
+        },
+        {
+          "w": "العَادَةِ",
+          "root": "ع و د",
+          "bs": "obično",
+          "en": "usual",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        }
       ]
     },
     {
@@ -39,14 +99,36 @@
       "translation": "Svaki od njih je kupio igračku za sopstveni novac.",
       "translationEn": "Each one bought a toy with his own money.",
       "words": [
-        { "w": "اشْتَرَى", "root": "ش ر ي", "bs": "kupio je", "en": "bought" },
-        { "w": "لُعْبَةً", "root": "ل ع ب", "bs": "igračka", "en": "toy" },
-        { "w": "بِنُقُودِهِ", "root": "ن ق د", "bs": "za sopstveni novac", "en": "with his money" }
+        {
+          "w": "اشْتَرَى",
+          "root": "ش ر ي",
+          "bs": "kupio je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "لُعْبَةً",
+          "root": "ل ع ب",
+          "bs": "igračka",
+          "en": "toy",
+          "lemma": "لُعْبَةٌ / أَلْعَابٌ"
+        },
+        {
+          "w": "بِنُقُودِهِ",
+          "root": "ن ق د",
+          "bs": "za sopstveni novac",
+          "en": "with his money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["sale", "toys", "shopping"]
+    "tags": [
+      "sale",
+      "toys",
+      "shopping"
+    ]
   }
 }

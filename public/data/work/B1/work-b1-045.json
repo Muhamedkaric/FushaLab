@@ -8,11 +8,41 @@
       "translation": "Godina je završila i tim se okupio za proslavu.",
       "translationEn": "The year ended and the team gathered to celebrate.",
       "words": [
-        { "w": "انْتَهَتِ", "root": "ن ه ي", "bs": "završila je", "en": "ended" },
-        { "w": "السَّنَةُ", "root": "س ن و", "bs": "godina", "en": "year" },
-        { "w": "اجْتَمَعَ", "root": "ج م ع", "bs": "okupio se/sastao se", "en": "gathered" },
-        { "w": "الْفَرِيقُ", "root": "ف ر ق", "bs": "tim/ekipa", "en": "team" },
-        { "w": "لِلِاحْتِفَالِ", "root": "ح ف ل", "bs": "proslava/slavlje", "en": "celebration" }
+        {
+          "w": "انْتَهَتِ",
+          "root": "ن ه ي",
+          "bs": "završila je",
+          "en": "ended",
+          "lemma": "انْتَهَى يَنْتَهِي"
+        },
+        {
+          "w": "السَّنَةُ",
+          "root": "س ن و",
+          "bs": "godina",
+          "en": "year",
+          "lemma": "سَنَةٌ / سَنَوَاتٌ"
+        },
+        {
+          "w": "اجْتَمَعَ",
+          "root": "ج م ع",
+          "bs": "okupio se/sastao se",
+          "en": "gathered",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الْفَرِيقُ",
+          "root": "ف ر ق",
+          "bs": "tim/ekipa",
+          "en": "team",
+          "lemma": "فَرِيقٌ / فِرَقٌ"
+        },
+        {
+          "w": "لِلِاحْتِفَالِ",
+          "root": "ح ف ل",
+          "bs": "proslava/slavlje",
+          "en": "celebration",
+          "lemma": "اِحْتِفَالٌ / اِحْتِفَالَاتٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Svako je donio hranu od kuće.",
       "translationEn": "Everyone brought food from home.",
       "words": [
-        { "w": "أَحْضَرَ", "root": "ح ض ر", "bs": "donio je", "en": "brought" },
-        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća/dom", "en": "home" }
+        {
+          "w": "أَحْضَرَ",
+          "root": "ح ض ر",
+          "bs": "donio je",
+          "en": "brought",
+          "lemma": "أَحْضَرَ يُحْضِرُ"
+        },
+        {
+          "w": "طَعَامًا",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća/dom",
+          "en": "home",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -30,12 +78,48 @@
       "translation": "Direktor je govorio i zahvalio timu na radu tokom cijele godine.",
       "translationEn": "The manager spoke and thanked the team for their work throughout the year.",
       "words": [
-        { "w": "تَكَلَّمَ", "root": "ك ل م", "bs": "govorio je", "en": "spoke" },
-        { "w": "الْمُدِيرُ", "root": "د و ر", "bs": "direktor/šef", "en": "manager" },
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
-        { "w": "الْفَرِيقَ", "root": "ف ر ق", "bs": "tim/ekipa", "en": "team" },
-        { "w": "عَمَلِهِمْ", "root": "ع م ل", "bs": "njihov rad/posao", "en": "their work" },
-        { "w": "السَّنَةِ", "root": "س ن و", "bs": "godina", "en": "year" }
+        {
+          "w": "تَكَلَّمَ",
+          "root": "ك ل م",
+          "bs": "govorio je",
+          "en": "spoke",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "الْمُدِيرُ",
+          "root": "د و ر",
+          "bs": "direktor/šef",
+          "en": "manager",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
+        },
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الْفَرِيقَ",
+          "root": "ف ر ق",
+          "bs": "tim/ekipa",
+          "en": "team",
+          "lemma": "فَرِيقٌ / فِرَقٌ"
+        },
+        {
+          "w": "عَمَلِهِمْ",
+          "root": "ع م ل",
+          "bs": "njihov rad/posao",
+          "en": "their work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "السَّنَةِ",
+          "root": "س ن و",
+          "bs": "godina",
+          "en": "year",
+          "lemma": "سَنَةٌ / سَنَوَاتٌ"
+        }
       ]
     },
     {
@@ -43,16 +127,51 @@
       "translation": "Svi su se smijali i željeli bolju novu godinu.",
       "translationEn": "Everyone laughed and wished for a better new year.",
       "words": [
-        { "w": "ضَحِكَ", "root": "ض ح ك", "bs": "smijali su se", "en": "laughed" },
-        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
-        { "w": "تَمَنَّوْا", "root": "م ن ي", "bs": "željeli su", "en": "wished" },
-        { "w": "سَنَةً", "root": "س ن و", "bs": "godina", "en": "year" },
-        { "w": "أَفْضَلَ", "root": "ف ض ل", "bs": "bolju/boljom", "en": "better" }
+        {
+          "w": "ضَحِكَ",
+          "root": "ض ح ك",
+          "bs": "smijali su se",
+          "en": "laughed",
+          "lemma": "ضَحِكَ يَضْحَكُ"
+        },
+        {
+          "w": "الْجَمِيعُ",
+          "root": "ج م ع",
+          "bs": "svi",
+          "en": "everyone",
+          "lemma": "الْجَمِيعُ"
+        },
+        {
+          "w": "تَمَنَّوْا",
+          "root": "م ن ي",
+          "bs": "željeli su",
+          "en": "wished",
+          "lemma": "تَمَنَّى يَتَمَنَّى"
+        },
+        {
+          "w": "سَنَةً",
+          "root": "س ن و",
+          "bs": "godina",
+          "en": "year",
+          "lemma": "سَنَةٌ / سَنَوَاتٌ"
+        },
+        {
+          "w": "أَفْضَلَ",
+          "root": "ف ض ل",
+          "bs": "bolju/boljom",
+          "en": "better",
+          "lemma": "أَفْضَلُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["celebration", "end of year", "team", "colleagues"]
+    "tags": [
+      "celebration",
+      "end of year",
+      "team",
+      "colleagues"
+    ]
   }
 }

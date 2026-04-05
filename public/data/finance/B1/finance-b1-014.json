@@ -8,10 +8,34 @@
       "translation": "Lema je htjela kupiti novu haljinu.",
       "translationEn": "Lama wanted to buy a new dress.",
       "words": [
-        { "w": "أَرَادَتْ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
-        { "w": "تَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" },
-        { "w": "فُسْتَانًا", "root": "ف س ت ن", "bs": "haljina", "en": "dress" },
-        { "w": "جَدِيدًا", "root": "ج د د", "bs": "nova", "en": "new" }
+        {
+          "w": "أَرَادَتْ",
+          "root": "ر و د",
+          "bs": "htjela je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "تَشْتَرِيَ",
+          "root": "ش ر ي",
+          "bs": "da kupi",
+          "en": "to buy",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "فُسْتَانًا",
+          "root": "ف س ت ن",
+          "bs": "haljina",
+          "en": "dress",
+          "lemma": "فُسْتَانٌ / فَسَاتِينُ"
+        },
+        {
+          "w": "جَدِيدًا",
+          "root": "ج د د",
+          "bs": "nova",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Otišla je u prodavnicu i pogledala cijene.",
       "translationEn": "She went to the shop and looked at the prices.",
       "words": [
-        { "w": "ذَهَبَتْ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
-        { "w": "المَحَلِّ", "root": "ح ل ل", "bs": "prodavnica", "en": "shop" },
-        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "pogledala je", "en": "looked" },
-        { "w": "الأَسْعَارِ", "root": "س ع ر", "bs": "cijene", "en": "prices" }
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "المَحَلِّ",
+          "root": "ح ل ل",
+          "bs": "prodavnica",
+          "en": "shop",
+          "lemma": "مَحَلٌّ / مَحَلَّاتٌ"
+        },
+        {
+          "w": "نَظَرَتْ",
+          "root": "ن ظ ر",
+          "bs": "pogledala je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "الأَسْعَارِ",
+          "root": "س ع ر",
+          "bs": "cijene",
+          "en": "prices",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Pronašla je haljinu po odgovarajućoj cijeni i lijepoj boji.",
       "translationEn": "She found a dress at a suitable price and beautiful color.",
       "words": [
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "found" },
-        { "w": "فُسْتَانًا", "root": "ف س ت ن", "bs": "haljina", "en": "dress" },
-        { "w": "سِعْرٍ", "root": "س ع ر", "bs": "cijena", "en": "price" },
-        { "w": "مُنَاسِبٍ", "root": "ن س ب", "bs": "odgovarajuća", "en": "suitable" }
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "فُسْتَانًا",
+          "root": "ف س ت ن",
+          "bs": "haljina",
+          "en": "dress",
+          "lemma": "فُسْتَانٌ / فَسَاتِينُ"
+        },
+        {
+          "w": "سِعْرٍ",
+          "root": "س ع ر",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        },
+        {
+          "w": "مُنَاسِبٍ",
+          "root": "ن س ب",
+          "bs": "odgovarajuća",
+          "en": "suitable",
+          "lemma": "مُنَاسِبٌ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Isprobala ga je i jako joj se svidio pa ga je kupila.",
       "translationEn": "She tried it on and liked it a lot so she bought it.",
       "words": [
-        { "w": "جَرَّبَتْهُ", "root": "ج ر ب", "bs": "isprobala ga je", "en": "tried it on" },
-        { "w": "أَعْجَبَهَا", "root": "ع ج ب", "bs": "svidio joj se", "en": "liked it" },
-        { "w": "فَاشْتَرَتْهُ", "root": "ش ر ي", "bs": "kupila ga je", "en": "bought it" }
+        {
+          "w": "جَرَّبَتْهُ",
+          "root": "ج ر ب",
+          "bs": "isprobala ga je",
+          "en": "tried it on",
+          "lemma": "جَرَّبَ يُجَرِّبُ"
+        },
+        {
+          "w": "أَعْجَبَهَا",
+          "root": "ع ج ب",
+          "bs": "svidio joj se",
+          "en": "liked it",
+          "lemma": "أَعْجَبَ يُعْجِبُ"
+        },
+        {
+          "w": "فَاشْتَرَتْهُ",
+          "root": "ش ر ي",
+          "bs": "kupila ga je",
+          "en": "bought it",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        }
       ]
     },
     {
@@ -51,14 +141,36 @@
       "translation": "Vratila se kući sretna zbog kupovine.",
       "translationEn": "She returned home happy with her purchase.",
       "words": [
-        { "w": "رَجَعَتْ", "root": "ر ج ع", "bs": "vratila se", "en": "returned" },
-        { "w": "فَرِحَةً", "root": "ف ر ح", "bs": "sretna", "en": "happy" },
-        { "w": "بِشِرَائِهَا", "root": "ش ر ي", "bs": "zbog kupovine", "en": "with her purchase" }
+        {
+          "w": "رَجَعَتْ",
+          "root": "ر ج ع",
+          "bs": "vratila se",
+          "en": "returned",
+          "lemma": "رَجَعَ يَرْجِعُ"
+        },
+        {
+          "w": "فَرِحَةً",
+          "root": "ف ر ح",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "فَرِحٌ"
+        },
+        {
+          "w": "بِشِرَائِهَا",
+          "root": "ش ر ي",
+          "bs": "zbog kupovine",
+          "en": "with her purchase",
+          "lemma": "شِرَاءٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["clothes", "shopping", "price"]
+    "tags": [
+      "clothes",
+      "shopping",
+      "price"
+    ]
   }
 }

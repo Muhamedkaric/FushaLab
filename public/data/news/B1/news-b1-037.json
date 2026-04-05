@@ -12,25 +12,29 @@
           "w": "حَفْلًا",
           "root": "ح ف ل",
           "bs": "svečanost",
-          "en": "ceremony"
+          "en": "ceremony",
+          "lemma": "حَفْلٌ / حَفَلَاتٌ"
         },
         {
           "w": "لِتَكْرِيمِ",
           "root": "ك ر م",
           "bs": "nagrađivanje",
-          "en": "to honor"
+          "en": "to honor",
+          "lemma": "تَكْرِيمٌ"
         },
         {
           "w": "الطُّلَّابِ",
           "root": "ط ل ب",
           "bs": "učenika",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "الْمُتَمَيِّزِينَ",
           "root": "م ي ز",
           "bs": "odličnih",
-          "en": "outstanding"
+          "en": "outstanding",
+          "lemma": "مُتَمَيِّزٌ"
         }
       ]
     },
@@ -43,25 +47,29 @@
           "w": "حَضَرَ",
           "root": "ح ض ر",
           "bs": "prisustvovao je",
-          "en": "attended"
+          "en": "attended",
+          "lemma": "حَضَرَ يَحْضُرُ"
         },
         {
           "w": "الْآبَاءُ",
           "root": "أ ب و",
           "bs": "roditelji",
-          "en": "parents"
+          "en": "parents",
+          "lemma": "أَبٌ / آبَاءٌ"
         },
         {
           "w": "الْمُعَلِّمُونَ",
           "root": "ع ل م",
           "bs": "nastavnici",
-          "en": "teachers"
+          "en": "teachers",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
         },
         {
           "w": "مَسْؤُولُو",
           "root": "س أ ل",
           "bs": "zvaničnici",
-          "en": "officials"
+          "en": "officials",
+          "lemma": "مَسْؤُولٌ / مَسْؤُولُونَ"
         }
       ]
     },
@@ -74,19 +82,22 @@
           "w": "نَالَ",
           "root": "ن ي ل",
           "bs": "dobio je",
-          "en": "received"
+          "en": "received",
+          "lemma": "نَالَ يَنَالُ"
         },
         {
           "w": "شَهَادَةً",
           "root": "ش ه د",
           "bs": "diplomu",
-          "en": "certificate"
+          "en": "certificate",
+          "lemma": "شَهَادَةٌ / شَهَادَاتٌ"
         },
         {
           "w": "هَدِيَّةً",
           "root": "ه د ي",
           "bs": "poklon",
-          "en": "gift"
+          "en": "gift",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
         }
       ]
     },
@@ -99,13 +110,15 @@
           "w": "السَّعَادَةِ",
           "root": "س ع د",
           "bs": "srećom",
-          "en": "happiness"
+          "en": "happiness",
+          "lemma": "سَعَادَةٌ"
         },
         {
           "w": "الْفَخْرِ",
           "root": "ف خ ر",
           "bs": "ponosom",
-          "en": "pride"
+          "en": "pride",
+          "lemma": "فَخْرٌ"
         }
       ]
     }

@@ -8,11 +8,41 @@
       "translation": "Dijete počinje učiti arapska slova.",
       "translationEn": "The child begins learning Arabic letters.",
       "words": [
-        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "begins" },
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "بِتَعَلُّمِ", "root": "ع ل م", "bs": "učiti", "en": "learning" },
-        { "w": "الحُرُوفِ", "root": "ح ر ف", "bs": "slova", "en": "letters" },
-        { "w": "العَرَبِيَّةِ", "root": "ع ر ب", "bs": "arapska", "en": "Arabic" }
+        {
+          "w": "يَبْدَأُ",
+          "root": "ب د أ",
+          "bs": "počinje",
+          "en": "begins",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "بِتَعَلُّمِ",
+          "root": "ع ل م",
+          "bs": "učiti",
+          "en": "learning",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "الحُرُوفِ",
+          "root": "ح ر ف",
+          "bs": "slova",
+          "en": "letters",
+          "lemma": "حَرْفٌ / حُرُوفٌ"
+        },
+        {
+          "w": "العَرَبِيَّةِ",
+          "root": "ع ر ب",
+          "bs": "arapska",
+          "en": "Arabic",
+          "lemma": "عَرَبِيٌّ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Arapski jezik ima dvadeset i osam slova.",
       "translationEn": "The Arabic language has twenty-eight letters.",
       "words": [
-        { "w": "اللُّغَةُ", "root": "ل غ و", "bs": "jezik", "en": "language" },
-        { "w": "العَرَبِيَّةُ", "root": "ع ر ب", "bs": "arapski", "en": "Arabic" },
-        { "w": "حَرْفًا", "root": "ح ر ف", "bs": "slova", "en": "letters" }
+        {
+          "w": "اللُّغَةُ",
+          "root": "ل غ و",
+          "bs": "jezik",
+          "en": "language",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "العَرَبِيَّةُ",
+          "root": "ع ر ب",
+          "bs": "arapski",
+          "en": "Arabic",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "حَرْفًا",
+          "root": "ح ر ف",
+          "bs": "slova",
+          "en": "letters",
+          "lemma": "حَرْفٌ / حُرُوفٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Dijete piše slova u bilježnici.",
       "translationEn": "The child writes the letters in the notebook.",
       "words": [
-        { "w": "يَكْتُبُ", "root": "ك ت ب", "bs": "piše", "en": "writes" },
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "الحُرُوفَ", "root": "ح ر ف", "bs": "slova", "en": "letters" },
-        { "w": "الدَّفْتَرِ", "root": "د ف ت", "bs": "bilježnici", "en": "notebook" }
+        {
+          "w": "يَكْتُبُ",
+          "root": "ك ت ب",
+          "bs": "piše",
+          "en": "writes",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الحُرُوفَ",
+          "root": "ح ر ف",
+          "bs": "slova",
+          "en": "letters",
+          "lemma": "حَرْفٌ / حُرُوفٌ"
+        },
+        {
+          "w": "الدَّفْتَرِ",
+          "root": "د ف ت",
+          "bs": "bilježnici",
+          "en": "notebook",
+          "lemma": "دَفْتَرٌ / دَفَاتِرُ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Učiteljica ga ohrabruje i nagrađuje.",
       "translationEn": "The teacher encourages and rewards him.",
       "words": [
-        { "w": "المُعَلِّمَةُ", "root": "ع ل م", "bs": "učiteljica", "en": "teacher" },
-        { "w": "تُشَجِّعُهُ", "root": "ش ج ع", "bs": "ohrabruje ga", "en": "encourages him" },
-        { "w": "تُكَافِئُهُ", "root": "ك ف أ", "bs": "nagrađuje ga", "en": "rewards him" }
+        {
+          "w": "المُعَلِّمَةُ",
+          "root": "ع ل م",
+          "bs": "učiteljica",
+          "en": "teacher",
+          "lemma": "مُعَلِّمَةٌ / مُعَلِّمَاتٌ"
+        },
+        {
+          "w": "تُشَجِّعُهُ",
+          "root": "ش ج ع",
+          "bs": "ohrabruje ga",
+          "en": "encourages him",
+          "lemma": "شَجَّعَ يُشَجِّعُ"
+        },
+        {
+          "w": "تُكَافِئُهُ",
+          "root": "ك ف أ",
+          "bs": "nagrađuje ga",
+          "en": "rewards him",
+          "lemma": "كَافَأَ يُكَافِئُ"
+        }
       ]
     }
   ],

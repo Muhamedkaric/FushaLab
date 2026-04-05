@@ -8,11 +8,41 @@
       "translation": "Stabla jabuka u djedinoj bašti su bila puna plodova.",
       "translationEn": "The apple trees in grandfather's garden were full of fruit.",
       "words": [
-        { "w": "شَجَرُ", "root": "ش ج ر", "bs": "stabla", "en": "trees" },
-        { "w": "التُّفَّاحِ", "root": "ت ف ح", "bs": "jabuke", "en": "apples" },
-        { "w": "حَدِيقَةِ", "root": "ح د ق", "bs": "bašta", "en": "garden" },
-        { "w": "الْجَدِّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
-        { "w": "الثِّمَارِ", "root": "ث م ر", "bs": "plodovi", "en": "fruit" }
+        {
+          "w": "شَجَرُ",
+          "root": "ش ج ر",
+          "bs": "stabla",
+          "en": "trees",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "التُّفَّاحِ",
+          "root": "ت ف ح",
+          "bs": "jabuke",
+          "en": "apples",
+          "lemma": "تُفَّاحَةٌ / تُفَّاحٌ"
+        },
+        {
+          "w": "حَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "bašta",
+          "en": "garden",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        },
+        {
+          "w": "الْجَدِّ",
+          "root": "ج د د",
+          "bs": "djed",
+          "en": "grandfather",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        },
+        {
+          "w": "الثِّمَارِ",
+          "root": "ث م ر",
+          "bs": "plodovi",
+          "en": "fruit",
+          "lemma": "ثَمَرَةٌ / ثِمَارٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Djed i unuk su zajedno brali jabuke.",
       "translationEn": "The grandfather and his grandson picked the apples together.",
       "words": [
-        { "w": "جَمَعَ", "root": "ج م ع", "bs": "brao je", "en": "picked" },
-        { "w": "الْجَدُّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
-        { "w": "حَفِيدُهُ", "root": "ح ف د", "bs": "njegov unuk", "en": "his grandson" },
-        { "w": "التُّفَّاحَ", "root": "ت ف ح", "bs": "jabuke", "en": "apples" }
+        {
+          "w": "جَمَعَ",
+          "root": "ج م ع",
+          "bs": "brao je",
+          "en": "picked",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "الْجَدُّ",
+          "root": "ج د د",
+          "bs": "djed",
+          "en": "grandfather",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        },
+        {
+          "w": "حَفِيدُهُ",
+          "root": "ح ف د",
+          "bs": "njegov unuk",
+          "en": "his grandson",
+          "lemma": "حَفِيدٌ / أَحْفَادٌ"
+        },
+        {
+          "w": "التُّفَّاحَ",
+          "root": "ت ف ح",
+          "bs": "jabuke",
+          "en": "apples",
+          "lemma": "تُفَّاحَةٌ / تُفَّاحٌ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Dio su dali komšijama a dio za kuću.",
       "translationEn": "They took some for the neighbors and some for home.",
       "words": [
-        { "w": "أَخَذَا", "root": "أ خ ذ", "bs": "uzeli su", "en": "took" },
-        { "w": "الْجِيرَانِ", "root": "ج و ر", "bs": "komšije", "en": "neighbors" },
-        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "home" }
+        {
+          "w": "أَخَذَا",
+          "root": "أ خ ذ",
+          "bs": "uzeli su",
+          "en": "took",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "الْجِيرَانِ",
+          "root": "ج و ر",
+          "bs": "komšije",
+          "en": "neighbors",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "home",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Djed je rekao: «Dobro se dijeli».",
       "translationEn": "The grandfather said: «Good things are shared».",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "الْجَدُّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
-        { "w": "الْخَيْرُ", "root": "خ ي ر", "bs": "dobro", "en": "good things" },
-        { "w": "يُشَارَكُ", "root": "ش ر ك", "bs": "dijeli se", "en": "shared" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْجَدُّ",
+          "root": "ج د د",
+          "bs": "djed",
+          "en": "grandfather",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        },
+        {
+          "w": "الْخَيْرُ",
+          "root": "خ ي ر",
+          "bs": "dobro",
+          "en": "good things",
+          "lemma": "خَيْرٌ / خَيْرَاتٌ"
+        },
+        {
+          "w": "يُشَارَكُ",
+          "root": "ش ر ك",
+          "bs": "dijeli se",
+          "en": "shared",
+          "lemma": "شَارَكَ يُشَارِكُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["grandfather", "garden", "sharing", "family"]
+    "tags": [
+      "grandfather",
+      "garden",
+      "sharing",
+      "family"
+    ]
   }
 }

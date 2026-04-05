@@ -8,10 +8,34 @@
       "translation": "Muhammed je pronašao vrećicu ispred kućnih vrata.",
       "translationEn": "Muhammad found a bag in front of the house door.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "كِيسًا", "root": "ك ي س", "bs": "vrećicu", "en": "bag" },
-        { "w": "بَابِ", "root": "ب و ب", "bs": "vrata", "en": "door" },
-        { "w": "الْبَيْتِ", "root": "ب ي ت", "bs": "kuće", "en": "house" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "كِيسًا",
+          "root": "ك ي س",
+          "bs": "vrećicu",
+          "en": "bag",
+          "lemma": "كِيسٌ / أَكْيَاسٌ"
+        },
+        {
+          "w": "بَابِ",
+          "root": "ب و ب",
+          "bs": "vrata",
+          "en": "door",
+          "lemma": "بَابٌ / أَبْوَابٌ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuće",
+          "en": "house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "U njoj je bio svježi hljeb i mlijeko.",
       "translationEn": "In it there was fresh bread and milk.",
       "words": [
-        { "w": "خُبْزٌ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
-        { "w": "طَازَجٌ", "root": "ط ز ج", "bs": "svježi", "en": "fresh" },
-        { "w": "حَلِيبٌ", "root": "ح ل ب", "bs": "mlijeko", "en": "milk" }
+        {
+          "w": "خُبْزٌ",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread",
+          "lemma": "خُبْزٌ / أَخْبَازٌ"
+        },
+        {
+          "w": "طَازَجٌ",
+          "root": "ط ز ج",
+          "bs": "svježi",
+          "en": "fresh",
+          "lemma": "طَازَجٌ"
+        },
+        {
+          "w": "حَلِيبٌ",
+          "root": "ح ل ب",
+          "bs": "mlijeko",
+          "en": "milk",
+          "lemma": "حَلِيبٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Pitao je komšije ali niko nije znao.",
       "translationEn": "He asked his neighbours and no one knew.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "he asked" },
-        { "w": "جِيرَانَهُ", "root": "ج و ر", "bs": "komšije", "en": "his neighbours" },
-        { "w": "يَعْرِفْ", "root": "ع ر ف", "bs": "znao", "en": "knew" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "he asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "جِيرَانَهُ",
+          "root": "ج و ر",
+          "bs": "komšije",
+          "en": "his neighbours",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "يَعْرِفْ",
+          "root": "ع ر ف",
+          "bs": "znao",
+          "en": "knew",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        }
       ]
     },
     {
@@ -39,11 +99,41 @@
       "translation": "Sedmicu kasnije vidio je majku kako stavlja vrećicu rano ujutro.",
       "translationEn": "A week later he saw his mother putting the bag early in the morning.",
       "words": [
-        { "w": "أُسْبُوعٍ", "root": "س ب ع", "bs": "sedmicu", "en": "week" },
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
-        { "w": "تَضَعُ", "root": "و ض ع", "bs": "stavlja", "en": "putting" },
-        { "w": "الْكِيسَ", "root": "ك ي س", "bs": "vrećicu", "en": "the bag" },
-        { "w": "الصَّبَاحِ", "root": "ص ب ح", "bs": "ujutro", "en": "morning" }
+        {
+          "w": "أُسْبُوعٍ",
+          "root": "س ب ع",
+          "bs": "sedmicu",
+          "en": "week",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        },
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "he saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "تَضَعُ",
+          "root": "و ض ع",
+          "bs": "stavlja",
+          "en": "putting",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "الْكِيسَ",
+          "root": "ك ي س",
+          "bs": "vrećicu",
+          "en": "the bag",
+          "lemma": "كِيسٌ / أَكْيَاسٌ"
+        },
+        {
+          "w": "الصَّبَاحِ",
+          "root": "ص ب ح",
+          "bs": "ujutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ"
+        }
       ]
     },
     {
@@ -51,15 +141,45 @@
       "translation": "Shvatio je da to radi za njihove starije komšije.",
       "translationEn": "He realised that she did this for their elderly neighbours.",
       "words": [
-        { "w": "عَرَفَ", "root": "ع ر ف", "bs": "shvatio je", "en": "he realised" },
-        { "w": "تَفْعَلُ", "root": "ف ع ل", "bs": "radi", "en": "she does" },
-        { "w": "لِجِيرَانِهِمُ", "root": "ج و ر", "bs": "komšijama", "en": "neighbours" },
-        { "w": "الْكِبَارِ", "root": "ك ب ر", "bs": "starijima", "en": "elderly" }
+        {
+          "w": "عَرَفَ",
+          "root": "ع ر ف",
+          "bs": "shvatio je",
+          "en": "he realised",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "تَفْعَلُ",
+          "root": "ف ع ل",
+          "bs": "radi",
+          "en": "she does",
+          "lemma": "فَعَلَ يَفْعَلُ"
+        },
+        {
+          "w": "لِجِيرَانِهِمُ",
+          "root": "ج و ر",
+          "bs": "komšijama",
+          "en": "neighbours",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "الْكِبَارِ",
+          "root": "ك ب ر",
+          "bs": "starijima",
+          "en": "elderly",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "door", "food", "kindness", "mother"]
+    "tags": [
+      "mystery",
+      "door",
+      "food",
+      "kindness",
+      "mother"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Svi su pili čaj nakon večere.",
       "translationEn": "Everyone drank tea after dinner.",
       "words": [
-        { "w": "شَرِبَ", "root": "ش ر ب", "bs": "pili su", "en": "drank" },
-        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
-        { "w": "الشَّايَ", "root": "ش ي أ", "bs": "čaj", "en": "tea" },
-        { "w": "الْعَشَاءِ", "root": "ع ش و", "bs": "večera", "en": "dinner" }
+        {
+          "w": "شَرِبَ",
+          "root": "ش ر ب",
+          "bs": "pili su",
+          "en": "drank",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "الْجَمِيعُ",
+          "root": "ج م ع",
+          "bs": "svi",
+          "en": "everyone",
+          "lemma": "الْجَمِيعُ"
+        },
+        {
+          "w": "الشَّايَ",
+          "root": "ش ي أ",
+          "bs": "čaj",
+          "en": "tea",
+          "lemma": "شَايٌ"
+        },
+        {
+          "w": "الْعَشَاءِ",
+          "root": "ع ش و",
+          "bs": "večera",
+          "en": "dinner",
+          "lemma": "عَشَاءٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Neki su dodali šećer a neki nisu.",
       "translationEn": "Some of them added sugar and some did not.",
       "words": [
-        { "w": "أَضَافَ", "root": "ض ي ف", "bs": "dodao je/dodali su", "en": "added" },
-        { "w": "بَعْضُهُمُ", "root": "ب ع ض", "bs": "neki od njih", "en": "some of them" },
-        { "w": "السُّكَّرَ", "root": "س ك ر", "bs": "šećer", "en": "sugar" }
+        {
+          "w": "أَضَافَ",
+          "root": "ض ي ف",
+          "bs": "dodao je/dodali su",
+          "en": "added",
+          "lemma": "أَضَافَ يُضِيفُ"
+        },
+        {
+          "w": "بَعْضُهُمُ",
+          "root": "ب ع ض",
+          "bs": "neki od njih",
+          "en": "some of them",
+          "lemma": "بَعْضٌ"
+        },
+        {
+          "w": "السُّكَّرَ",
+          "root": "س ك ر",
+          "bs": "šećer",
+          "en": "sugar",
+          "lemma": "سُكَّرٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Razgovarali su i smijali se oko stola.",
       "translationEn": "They talked and laughed around the table.",
       "words": [
-        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
-        { "w": "ضَحِكُوا", "root": "ض ح ك", "bs": "smijali su se", "en": "laughed" },
-        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stol/sto", "en": "table" }
+        {
+          "w": "تَحَدَّثُوا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "ضَحِكُوا",
+          "root": "ض ح ك",
+          "bs": "smijali su se",
+          "en": "laughed",
+          "lemma": "ضَحِكَ يَضْحَكُ"
+        },
+        {
+          "w": "الطَّاوِلَةِ",
+          "root": "ط و ل",
+          "bs": "stol/sto",
+          "en": "table",
+          "lemma": "طَاوِلَةٌ / طَاوِلَاتٌ"
+        }
       ]
     },
     {
@@ -39,10 +99,34 @@
       "translation": "Čaj-vrijeme je bilo najljepše doba dana.",
       "translationEn": "Tea time was the most beautiful time of the day.",
       "words": [
-        { "w": "وَقْتُ", "root": "و ق ت", "bs": "vrijeme/čas", "en": "time" },
-        { "w": "الشَّايِ", "root": "ش ي أ", "bs": "čaja", "en": "tea" },
-        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepše/najljepši", "en": "most beautiful" },
-        { "w": "الْيَوْمِ", "root": "ي و م", "bs": "dan/dana", "en": "day" }
+        {
+          "w": "وَقْتُ",
+          "root": "و ق ت",
+          "bs": "vrijeme/čas",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "الشَّايِ",
+          "root": "ش ي أ",
+          "bs": "čaja",
+          "en": "tea",
+          "lemma": "شَايٌ"
+        },
+        {
+          "w": "أَجْمَلُ",
+          "root": "ج م ل",
+          "bs": "najljepše/najljepši",
+          "en": "most beautiful",
+          "lemma": "أَجْمَلُ"
+        },
+        {
+          "w": "الْيَوْمِ",
+          "root": "ي و م",
+          "bs": "dan/dana",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        }
       ]
     }
   ],

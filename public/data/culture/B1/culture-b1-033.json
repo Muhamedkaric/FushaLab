@@ -8,11 +8,41 @@
       "translation": "Kada neko umre, ljudi posjećuju porodicu.",
       "translationEn": "When someone dies, people visit the family.",
       "words": [
-        { "w": "يَمُوتُ", "root": "م و ت", "bs": "umre", "en": "dies" },
-        { "w": "شَخْصٌ", "root": "ش خ ص", "bs": "neko", "en": "someone" },
-        { "w": "يَزُورُ", "root": "ز و ر", "bs": "posjećuju", "en": "visit" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "الأُسْرَةَ", "root": "أ س ر", "bs": "porodicu", "en": "family" }
+        {
+          "w": "يَمُوتُ",
+          "root": "م و ت",
+          "bs": "umre",
+          "en": "dies",
+          "lemma": "مَاتَ يَمُوتُ"
+        },
+        {
+          "w": "شَخْصٌ",
+          "root": "ش خ ص",
+          "bs": "neko",
+          "en": "someone",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "يَزُورُ",
+          "root": "ز و ر",
+          "bs": "posjećuju",
+          "en": "visit",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "الأُسْرَةَ",
+          "root": "أ س ر",
+          "bs": "porodicu",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Izražavaju saučešće i govore lijepe riječi.",
       "translationEn": "They offer condolences and say kind words.",
       "words": [
-        { "w": "يُقَدِّمُونَ", "root": "ق د م", "bs": "izražavaju", "en": "offer" },
-        { "w": "العَزَاءَ", "root": "ع ز و", "bs": "saučešće", "en": "condolences" },
-        { "w": "يَقُولُونَ", "root": "ق و ل", "bs": "govore", "en": "say" },
-        { "w": "كَلَامًا", "root": "ك ل م", "bs": "riječi", "en": "words" },
-        { "w": "طَيِّبًا", "root": "ط ي ب", "bs": "lijepe", "en": "kind" }
+        {
+          "w": "يُقَدِّمُونَ",
+          "root": "ق د م",
+          "bs": "izražavaju",
+          "en": "offer",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "العَزَاءَ",
+          "root": "ع ز و",
+          "bs": "saučešće",
+          "en": "condolences",
+          "lemma": "عَزَاءٌ"
+        },
+        {
+          "w": "يَقُولُونَ",
+          "root": "ق و ل",
+          "bs": "govore",
+          "en": "say",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "كَلَامًا",
+          "root": "ك ل م",
+          "bs": "riječi",
+          "en": "words",
+          "lemma": "كَلَامٌ"
+        },
+        {
+          "w": "طَيِّبًا",
+          "root": "ط ي ب",
+          "bs": "lijepe",
+          "en": "kind",
+          "lemma": "طَيِّبٌ"
+        }
       ]
     },
     {
@@ -32,10 +92,34 @@
       "translation": "Sjede s porodicom i dijele njihovu žalost.",
       "translationEn": "They sit with the family and share in their grief.",
       "words": [
-        { "w": "يَجْلِسُونَ", "root": "ج ل س", "bs": "sjede", "en": "sit" },
-        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodicom", "en": "family" },
-        { "w": "يُشَارِكُونَهُمْ", "root": "ش ر ك", "bs": "dijele s njima", "en": "share with them" },
-        { "w": "حُزْنَهُمْ", "root": "ح ز ن", "bs": "žalost", "en": "grief" }
+        {
+          "w": "يَجْلِسُونَ",
+          "root": "ج ل س",
+          "bs": "sjede",
+          "en": "sit",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الأُسْرَةِ",
+          "root": "أ س ر",
+          "bs": "porodicom",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "يُشَارِكُونَهُمْ",
+          "root": "ش ر ك",
+          "bs": "dijele s njima",
+          "en": "share with them",
+          "lemma": "شَارَكَ يُشَارِكُ"
+        },
+        {
+          "w": "حُزْنَهُمْ",
+          "root": "ح ز ن",
+          "bs": "žalost",
+          "en": "grief",
+          "lemma": "حُزْنٌ"
+        }
       ]
     },
     {
@@ -43,9 +127,27 @@
       "translation": "Ovo je vrlo važna društvena obaveza.",
       "translationEn": "This is a very important social duty.",
       "words": [
-        { "w": "وَاجِبٌ", "root": "و ج ب", "bs": "obaveza", "en": "duty" },
-        { "w": "اجْتِمَاعِيٌّ", "root": "ج م ع", "bs": "društvena", "en": "social" },
-        { "w": "مُهِمٌّ", "root": "هـ م م", "bs": "važna", "en": "important" }
+        {
+          "w": "وَاجِبٌ",
+          "root": "و ج ب",
+          "bs": "obaveza",
+          "en": "duty",
+          "lemma": "وَاجِبٌ / وَاجِبَاتٌ"
+        },
+        {
+          "w": "اجْتِمَاعِيٌّ",
+          "root": "ج م ع",
+          "bs": "društvena",
+          "en": "social",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "root": "هـ م م",
+          "bs": "važna",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        }
       ]
     }
   ],

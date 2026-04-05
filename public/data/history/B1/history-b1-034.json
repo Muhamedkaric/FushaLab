@@ -8,10 +8,34 @@
       "translation": "Dijete se igralo na ulici sa prijateljima.",
       "translationEn": "The child used to play in the street with his friends.",
       "words": [
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "the child" },
-        { "w": "يَلْعَبُ", "root": "ل ع ب", "bs": "igra se", "en": "plays" },
-        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulica", "en": "the street" },
-        { "w": "أَصْدِقَائِهِ", "root": "ص د ق", "bs": "njegovi prijatelji", "en": "his friends" }
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "the child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "igra se",
+          "en": "plays",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulica",
+          "en": "the street",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        },
+        {
+          "w": "أَصْدِقَائِهِ",
+          "root": "ص د ق",
+          "bs": "njegovi prijatelji",
+          "en": "his friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Pravili su igračke od gline i drveta.",
       "translationEn": "They made toys from clay and wood.",
       "words": [
-        { "w": "صَنَعُوا", "root": "ص ن ع", "bs": "pravili su", "en": "made" },
-        { "w": "أَلْعَابًا", "root": "ل ع ب", "bs": "igračke", "en": "toys" },
-        { "w": "الطِّينِ", "root": "ط ي ن", "bs": "gline", "en": "clay" },
-        { "w": "الْخَشَبِ", "root": "خ ش ب", "bs": "drveta", "en": "wood" }
+        {
+          "w": "صَنَعُوا",
+          "root": "ص ن ع",
+          "bs": "pravili su",
+          "en": "made",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "أَلْعَابًا",
+          "root": "ل ع ب",
+          "bs": "igračke",
+          "en": "toys",
+          "lemma": "لُعْبَةٌ / أَلْعَابٌ"
+        },
+        {
+          "w": "الطِّينِ",
+          "root": "ط ي ن",
+          "bs": "gline",
+          "en": "clay",
+          "lemma": "طِينٌ"
+        },
+        {
+          "w": "الْخَشَبِ",
+          "root": "خ ش ب",
+          "bs": "drveta",
+          "en": "wood",
+          "lemma": "خَشَبٌ / أَخْشَابٌ"
+        }
       ]
     },
     {
@@ -30,8 +78,20 @@
       "translation": "Nisu imali kupovne igračke.",
       "translationEn": "They did not have shop-bought toys.",
       "words": [
-        { "w": "أَلْعَابٌ", "root": "ل ع ب", "bs": "igračke", "en": "toys" },
-        { "w": "الْمَتْجَرِ", "root": "ت ج ر", "bs": "prodavnica", "en": "the shop" }
+        {
+          "w": "أَلْعَابٌ",
+          "root": "ل ع ب",
+          "bs": "igračke",
+          "en": "toys",
+          "lemma": "لُعْبَةٌ / أَلْعَابٌ"
+        },
+        {
+          "w": "الْمَتْجَرِ",
+          "root": "ت ج ر",
+          "bs": "prodavnica",
+          "en": "the shop",
+          "lemma": "مَتْجَرٌ / مَتَاجِرُ"
+        }
       ]
     },
     {
@@ -39,15 +99,43 @@
       "translation": "Nalazili su radost u jednostavnim stvarima.",
       "translationEn": "They found joy in simple things.",
       "words": [
-        { "w": "يَجِدُونَ", "root": "و ج د", "bs": "nalaze", "en": "find" },
-        { "w": "الْفَرَحَ", "root": "ف ر ح", "bs": "radost", "en": "joy" },
-        { "w": "الأَشْيَاءِ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
-        { "w": "الْبَسِيطَةِ", "root": "ب س ط", "bs": "jednostavne", "en": "simple" }
+        {
+          "w": "يَجِدُونَ",
+          "root": "و ج د",
+          "bs": "nalaze",
+          "en": "find",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الْفَرَحَ",
+          "root": "ف ر ح",
+          "bs": "radost",
+          "en": "joy",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        },
+        {
+          "w": "الأَشْيَاءِ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "الْبَسِيطَةِ",
+          "root": "ب س ط",
+          "bs": "jednostavne",
+          "en": "simple",
+          "lemma": "بَسِيطٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["childhood", "play", "daily life"]
+    "tags": [
+      "childhood",
+      "play",
+      "daily life"
+    ]
   }
 }

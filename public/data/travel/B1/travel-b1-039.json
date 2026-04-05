@@ -8,10 +8,34 @@
       "translation": "Salih je odlučio putovati autom na sjever.",
       "translationEn": "Salih decided to travel by car to the north.",
       "words": [
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
-        { "w": "يُسَافِرَ", "root": "س ف ر", "bs": "putovati", "en": "to travel" },
-        { "w": "السَّيَّارَةِ", "root": "س ي ر", "bs": "auto", "en": "car" },
-        { "w": "الشَّمَالِ", "root": "ش م ل", "bs": "sjever", "en": "north" }
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "يُسَافِرَ",
+          "root": "س ف ر",
+          "bs": "putovati",
+          "en": "to travel",
+          "lemma": "سَافَرَ يُسَافِرُ"
+        },
+        {
+          "w": "السَّيَّارَةِ",
+          "root": "س ي ر",
+          "bs": "auto",
+          "en": "car",
+          "lemma": "سَيَّارَةٌ / سَيَّارَاتٌ"
+        },
+        {
+          "w": "الشَّمَالِ",
+          "root": "ش م ل",
+          "bs": "sjever",
+          "en": "north",
+          "lemma": "شَمَالٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Napunio je rezervoar gorivom prije polaska.",
       "translationEn": "He filled the tank with fuel before leaving.",
       "words": [
-        { "w": "مَلَأَ", "root": "م ل أ", "bs": "napunio je", "en": "filled" },
-        { "w": "الْخَزَّانَ", "root": "خ ز ن", "bs": "rezervoar / tank", "en": "tank" },
-        { "w": "الْوَقُودِ", "root": "و ق د", "bs": "gorivo", "en": "fuel" },
-        { "w": "الْخُرُوجِ", "root": "خ ر ج", "bs": "odlazak / polazak", "en": "departure / leaving" }
+        {
+          "w": "مَلَأَ",
+          "root": "م ل أ",
+          "bs": "napunio je",
+          "en": "filled",
+          "lemma": "مَلَأَ يَمْلَأُ"
+        },
+        {
+          "w": "الْخَزَّانَ",
+          "root": "خ ز ن",
+          "bs": "rezervoar / tank",
+          "en": "tank",
+          "lemma": "خَزَّانٌ / خَزَّانَاتٌ"
+        },
+        {
+          "w": "الْوَقُودِ",
+          "root": "و ق د",
+          "bs": "gorivo",
+          "en": "fuel",
+          "lemma": "وَقُودٌ"
+        },
+        {
+          "w": "الْخُرُوجِ",
+          "root": "خ ر ج",
+          "bs": "odlazak / polazak",
+          "en": "departure / leaving",
+          "lemma": "خُرُوجٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Putovao je satima i zaustavio se da se odmori i pojede.",
       "translationEn": "He drove for hours and stopped to rest and eat.",
       "words": [
-        { "w": "سَافَرَ", "root": "س ف ر", "bs": "putovao je", "en": "traveled / drove" },
-        { "w": "سَاعَاتٍ", "root": "س و ع", "bs": "sati", "en": "hours" },
-        { "w": "تَوَقَّفَ", "root": "و ق ف", "bs": "zaustavio se", "en": "stopped" },
-        { "w": "يَسْتَرِيحَ", "root": "ر و ح", "bs": "da se odmori", "en": "to rest" }
+        {
+          "w": "سَافَرَ",
+          "root": "س ف ر",
+          "bs": "putovao je",
+          "en": "traveled / drove",
+          "lemma": "سَافَرَ يُسَافِرُ"
+        },
+        {
+          "w": "سَاعَاتٍ",
+          "root": "س و ع",
+          "bs": "sati",
+          "en": "hours",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "تَوَقَّفَ",
+          "root": "و ق ف",
+          "bs": "zaustavio se",
+          "en": "stopped",
+          "lemma": "تَوَقَّفَ يَتَوَقَّفُ"
+        },
+        {
+          "w": "يَسْتَرِيحَ",
+          "root": "ر و ح",
+          "bs": "da se odmori",
+          "en": "to rest",
+          "lemma": "اسْتَرَاحَ يَسْتَرِيحُ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Stigao je na sjever prije zalaska sunca.",
       "translationEn": "He arrived in the north before sunset.",
       "words": [
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
-        { "w": "الشَّمَالِ", "root": "ش م ل", "bs": "sjever", "en": "north" },
-        { "w": "الْغُرُوبِ", "root": "غ ر ب", "bs": "zalazak sunca", "en": "sunset" }
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الشَّمَالِ",
+          "root": "ش م ل",
+          "bs": "sjever",
+          "en": "north",
+          "lemma": "شَمَالٌ"
+        },
+        {
+          "w": "الْغُرُوبِ",
+          "root": "غ ر ب",
+          "bs": "zalazak sunca",
+          "en": "sunset",
+          "lemma": "غُرُوبٌ"
+        }
       ]
     }
   ],

@@ -8,11 +8,41 @@
       "translation": "Kolege su ručale zajedno u prostoriji za odmor.",
       "translationEn": "The colleagues had lunch together in the break room.",
       "words": [
-        { "w": "تَنَاوَلَ", "root": "ن و ل", "bs": "jeli su/uzeli", "en": "had/ate" },
-        { "w": "الزُّمَلَاءُ", "root": "ز م ل", "bs": "kolege", "en": "colleagues" },
-        { "w": "غَدَاءَهُمْ", "root": "غ د و", "bs": "njihov ručak", "en": "their lunch" },
-        { "w": "غُرْفَةِ", "root": "غ ر ف", "bs": "prostorija/soba", "en": "room" },
-        { "w": "الِاسْتِرَاحَةِ", "root": "ر و ح", "bs": "odmor/pauza", "en": "break/rest" }
+        {
+          "w": "تَنَاوَلَ",
+          "root": "ن و ل",
+          "bs": "jeli su/uzeli",
+          "en": "had/ate",
+          "lemma": "تَنَاوَلَ يَتَنَاوَلُ"
+        },
+        {
+          "w": "الزُّمَلَاءُ",
+          "root": "ز م ل",
+          "bs": "kolege",
+          "en": "colleagues",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "غَدَاءَهُمْ",
+          "root": "غ د و",
+          "bs": "njihov ručak",
+          "en": "their lunch",
+          "lemma": "غَدَاءٌ / أَغْذِيَةٌ"
+        },
+        {
+          "w": "غُرْفَةِ",
+          "root": "غ ر ف",
+          "bs": "prostorija/soba",
+          "en": "room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        },
+        {
+          "w": "الِاسْتِرَاحَةِ",
+          "root": "ر و ح",
+          "bs": "odmor/pauza",
+          "en": "break/rest",
+          "lemma": "اسْتِرَاحَةٌ / اسْتِرَاحَاتٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Razgovarali su o dnevnim vijestima i puno se smijali.",
       "translationEn": "They talked about the day's news and laughed a lot.",
       "words": [
-        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" },
-        { "w": "أَخْبَارِ", "root": "خ ب ر", "bs": "vijesti/novosti", "en": "news" },
-        { "w": "الْيَوْمِ", "root": "ي و م", "bs": "dan/dnevni", "en": "day/today's" },
-        { "w": "ضَحِكُوا", "root": "ض ح ك", "bs": "smijali su se", "en": "laughed" }
+        {
+          "w": "تَحَدَّثُوا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "أَخْبَارِ",
+          "root": "خ ب ر",
+          "bs": "vijesti/novosti",
+          "en": "news",
+          "lemma": "خَبَرٌ / أَخْبَارٌ"
+        },
+        {
+          "w": "الْيَوْمِ",
+          "root": "ي و م",
+          "bs": "dan/dnevni",
+          "en": "day/today's",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "ضَحِكُوا",
+          "root": "ض ح ك",
+          "bs": "smijali su se",
+          "en": "laughed",
+          "lemma": "ضَحِكَ يَضْحَكُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Sami je donio kuhanu hranu od kuće i podijelio s njima.",
       "translationEn": "Sami brought home-cooked food and shared it with them.",
       "words": [
-        { "w": "جَلَبَ", "root": "ج ل ب", "bs": "donio je", "en": "brought" },
-        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "مَطْبُوخًا", "root": "ط ب خ", "bs": "kuhana/pripremljena", "en": "cooked" },
-        { "w": "شَارَكَهُمْ", "root": "ش ر ك", "bs": "podijelio je s njima", "en": "shared with them" }
+        {
+          "w": "جَلَبَ",
+          "root": "ج ل ب",
+          "bs": "donio je",
+          "en": "brought",
+          "lemma": "جَلَبَ يَجْلُبُ"
+        },
+        {
+          "w": "طَعَامًا",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "مَطْبُوخًا",
+          "root": "ط ب خ",
+          "bs": "kuhana/pripremljena",
+          "en": "cooked",
+          "lemma": "مَطْبُوخٌ"
+        },
+        {
+          "w": "شَارَكَهُمْ",
+          "root": "ش ر ك",
+          "bs": "podijelio je s njima",
+          "en": "shared with them",
+          "lemma": "شَارَكَ يُشَارِكُ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Rekli su da je ručak najljepše vrijeme u danu.",
       "translationEn": "They said that lunchtime is the nicest time of the day.",
       "words": [
-        { "w": "قَالُوا", "root": "ق و ل", "bs": "rekli su", "en": "said" },
-        { "w": "وَقْتَ", "root": "و ق ت", "bs": "vrijeme/period", "en": "time" },
-        { "w": "الْغَدَاءِ", "root": "غ د و", "bs": "ručak", "en": "lunch" },
-        { "w": "أَجْمَلُ", "root": "ج م ل", "bs": "najljepše", "en": "nicest/most beautiful" }
+        {
+          "w": "قَالُوا",
+          "root": "ق و ل",
+          "bs": "rekli su",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "وَقْتَ",
+          "root": "و ق ت",
+          "bs": "vrijeme/period",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "الْغَدَاءِ",
+          "root": "غ د و",
+          "bs": "ručak",
+          "en": "lunch",
+          "lemma": "غَدَاءٌ"
+        },
+        {
+          "w": "أَجْمَلُ",
+          "root": "ج م ل",
+          "bs": "najljepše",
+          "en": "nicest/most beautiful",
+          "lemma": "أَجْمَلُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["lunch", "colleagues", "break room", "teamwork"]
+    "tags": [
+      "lunch",
+      "colleagues",
+      "break room",
+      "teamwork"
+    ]
   }
 }

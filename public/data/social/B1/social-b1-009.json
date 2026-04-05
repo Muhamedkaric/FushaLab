@@ -8,8 +8,19 @@
       "translation": "Gospođa Sama je otišla u supermarket.",
       "translationEn": "Mrs. Sama went to the supermarket.",
       "words": [
-        { "w": "ذَهَبَتِ", "root": "ذ هـ ب", "bs": "otišla je", "en": "went" },
-        { "w": "السُّوبَرْمَارْكِت", "bs": "supermarket", "en": "supermarket" }
+        {
+          "w": "ذَهَبَتِ",
+          "root": "ذ هـ ب",
+          "bs": "otišla je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "السُّوبَرْمَارْكِت",
+          "bs": "supermarket",
+          "en": "supermarket",
+          "lemma": "سُوبَرْمَارْكِت"
+        }
       ]
     },
     {
@@ -17,10 +28,34 @@
       "translation": "Uzela je kolica i počela kupovati.",
       "translationEn": "She took a cart and started shopping.",
       "words": [
-        { "w": "أَخَذَتْ", "root": "أ خ ذ", "bs": "uzela je", "en": "took" },
-        { "w": "عَرَبَةً", "root": "ع ر ب", "bs": "kolica", "en": "cart" },
-        { "w": "بَدَأَتْ", "root": "ب د أ", "bs": "počela je", "en": "started" },
-        { "w": "تَتَسَوَّقُ", "root": "س و ق", "bs": "kupovati", "en": "shopping" }
+        {
+          "w": "أَخَذَتْ",
+          "root": "أ خ ذ",
+          "bs": "uzela je",
+          "en": "took",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "عَرَبَةً",
+          "root": "ع ر ب",
+          "bs": "kolica",
+          "en": "cart",
+          "lemma": "عَرَبَةٌ / عَرَبَاتٌ"
+        },
+        {
+          "w": "بَدَأَتْ",
+          "root": "ب د أ",
+          "bs": "počela je",
+          "en": "started",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "تَتَسَوَّقُ",
+          "root": "س و ق",
+          "bs": "kupovati",
+          "en": "shopping",
+          "lemma": "تَسَوَّقَ يَتَسَوَّقُ"
+        }
       ]
     },
     {
@@ -28,10 +63,34 @@
       "translation": "Kupila je povrće, voće i meso.",
       "translationEn": "She bought vegetables, fruits, and meat.",
       "words": [
-        { "w": "اشْتَرَتِ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
-        { "w": "الخُضَرَ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" },
-        { "w": "الفَوَاكِهَ", "root": "ف ك هـ", "bs": "voće", "en": "fruits" },
-        { "w": "اللَّحْمَ", "root": "ل ح م", "bs": "meso", "en": "meat" }
+        {
+          "w": "اشْتَرَتِ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "الخُضَرَ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables",
+          "lemma": "خُضَرٌ / خَضْرَاوَاتٌ"
+        },
+        {
+          "w": "الفَوَاكِهَ",
+          "root": "ف ك هـ",
+          "bs": "voće",
+          "en": "fruits",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "اللَّحْمَ",
+          "root": "ل ح م",
+          "bs": "meso",
+          "en": "meat",
+          "lemma": "لَحْمٌ / لُحُومٌ"
+        }
       ]
     },
     {
@@ -39,9 +98,27 @@
       "translation": "Platila je na kasi i uzela kese.",
       "translationEn": "She paid at the checkout and took her bags.",
       "words": [
-        { "w": "دَفَعَتْ", "root": "د ف ع", "bs": "platila je", "en": "paid" },
-        { "w": "الصُّنْدُوقِ", "root": "ص ن د", "bs": "kasi", "en": "checkout" },
-        { "w": "أَكْيَاسَهَا", "root": "ك ي س", "bs": "kese", "en": "bags" }
+        {
+          "w": "دَفَعَتْ",
+          "root": "د ف ع",
+          "bs": "platila je",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "الصُّنْدُوقِ",
+          "root": "ص ن د",
+          "bs": "kasi",
+          "en": "checkout",
+          "lemma": "صُنْدُوقٌ / صَنَادِيقُ"
+        },
+        {
+          "w": "أَكْيَاسَهَا",
+          "root": "ك ي س",
+          "bs": "kese",
+          "en": "bags",
+          "lemma": "كِيسٌ / أَكْيَاسٌ"
+        }
       ]
     },
     {
@@ -49,9 +126,27 @@
       "translation": "Brzo se vratila kući.",
       "translationEn": "She returned home quickly.",
       "words": [
-        { "w": "رَجَعَتْ", "root": "ر ج ع", "bs": "vratila se", "en": "returned" },
-        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kući", "en": "home" },
-        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+        {
+          "w": "رَجَعَتْ",
+          "root": "ر ج ع",
+          "bs": "vratila se",
+          "en": "returned",
+          "lemma": "رَجَعَ يَرْجِعُ"
+        },
+        {
+          "w": "البَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kući",
+          "en": "home",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly",
+          "lemma": "سُرْعَةٌ"
+        }
       ]
     }
   ],

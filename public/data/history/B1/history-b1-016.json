@@ -8,10 +8,34 @@
       "translation": "Stari ljekar poznavao je mnoge biljke.",
       "translationEn": "The ancient doctor knew many herbs.",
       "words": [
-        { "w": "الطَّبِيبُ", "root": "ط ب ب", "bs": "ljekar", "en": "the doctor" },
-        { "w": "الْقَدِيمُ", "root": "ق د م", "bs": "stari", "en": "ancient" },
-        { "w": "يَعْرِفُ", "root": "ع ر ف", "bs": "poznaje", "en": "knows" },
-        { "w": "الْأَعْشَابِ", "root": "ع ش ب", "bs": "biljke", "en": "herbs" }
+        {
+          "w": "الطَّبِيبُ",
+          "root": "ط ب ب",
+          "bs": "ljekar",
+          "en": "the doctor",
+          "lemma": "طَبِيبٌ / أَطِبَّاءُ"
+        },
+        {
+          "w": "الْقَدِيمُ",
+          "root": "ق د م",
+          "bs": "stari",
+          "en": "ancient",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "يَعْرِفُ",
+          "root": "ع ر ف",
+          "bs": "poznaje",
+          "en": "knows",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "الْأَعْشَابِ",
+          "root": "ع ش ب",
+          "bs": "biljke",
+          "en": "herbs",
+          "lemma": "عُشْبٌ / أَعْشَابٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Skupljao je biljke s polja i planine.",
       "translationEn": "He used to collect herbs from the field and the mountain.",
       "words": [
-        { "w": "يَجْمَعُ", "root": "ج م ع", "bs": "skuplja", "en": "collects" },
-        { "w": "الْأَعْشَابَ", "root": "ع ش ب", "bs": "biljke", "en": "herbs" },
-        { "w": "الْحَقْلِ", "root": "ح ق ل", "bs": "polje", "en": "the field" },
-        { "w": "الْجَبَلِ", "root": "ج ب ل", "bs": "planina", "en": "the mountain" }
+        {
+          "w": "يَجْمَعُ",
+          "root": "ج م ع",
+          "bs": "skuplja",
+          "en": "collects",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "الْأَعْشَابَ",
+          "root": "ع ش ب",
+          "bs": "biljke",
+          "en": "herbs",
+          "lemma": "عُشْبٌ / أَعْشَابٌ"
+        },
+        {
+          "w": "الْحَقْلِ",
+          "root": "ح ق ل",
+          "bs": "polje",
+          "en": "the field",
+          "lemma": "حَقْلٌ / حُقُولٌ"
+        },
+        {
+          "w": "الْجَبَلِ",
+          "root": "ج ب ل",
+          "bs": "planina",
+          "en": "the mountain",
+          "lemma": "جَبَلٌ / جِبَالٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Pravio je od njih lijek za bolesne.",
       "translationEn": "He would make medicine from them for the sick.",
       "words": [
-        { "w": "يَصْنَعُ", "root": "ص ن ع", "bs": "pravi", "en": "makes" },
-        { "w": "دَوَاءً", "root": "د و ي", "bs": "lijek", "en": "medicine" },
-        { "w": "الْمَرْضَى", "root": "م ر ض", "bs": "bolesni", "en": "the sick" }
+        {
+          "w": "يَصْنَعُ",
+          "root": "ص ن ع",
+          "bs": "pravi",
+          "en": "makes",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "دَوَاءً",
+          "root": "د و ي",
+          "bs": "lijek",
+          "en": "medicine",
+          "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
+        },
+        {
+          "w": "الْمَرْضَى",
+          "root": "م ر ض",
+          "bs": "bolesni",
+          "en": "the sick",
+          "lemma": "مَرِيضٌ / مَرْضَى"
+        }
       ]
     },
     {
@@ -40,14 +106,36 @@
       "translation": "Ljudi su mu vjerovali i dolazili mu izdaleka.",
       "translationEn": "The people trusted him and came to him from afar.",
       "words": [
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
-        { "w": "يَثِقُونَ", "root": "و ث ق", "bs": "vjeruju", "en": "trust" },
-        { "w": "يَأْتُونَ", "root": "أ ت ي", "bs": "dolaze", "en": "come" }
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "the people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "يَثِقُونَ",
+          "root": "و ث ق",
+          "bs": "vjeruju",
+          "en": "trust",
+          "lemma": "وَثِقَ يَثِقُ"
+        },
+        {
+          "w": "يَأْتُونَ",
+          "root": "أ ت ي",
+          "bs": "dolaze",
+          "en": "come",
+          "lemma": "أَتَى يَأْتِي"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["medicine", "herbs", "health"]
+    "tags": [
+      "medicine",
+      "herbs",
+      "health"
+    ]
   }
 }

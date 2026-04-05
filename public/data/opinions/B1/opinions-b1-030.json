@@ -8,10 +8,34 @@
       "translation": "Po mom mišljenju, greške su prirodni dio učenja.",
       "translationEn": "In my opinion, mistakes are a natural part of learning.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "moje mišljenje", "en": "my opinion" },
-        { "w": "الْأَخْطَاءُ", "root": "خ ط أ", "bs": "greške", "en": "mistakes" },
-        { "w": "جُزْءٌ", "root": "ج ز أ", "bs": "dio", "en": "part" },
-        { "w": "طَبِيعِيٌّ", "root": "ط ب ع", "bs": "prirodni", "en": "natural" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "moje mišljenje",
+          "en": "my opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "الْأَخْطَاءُ",
+          "root": "خ ط أ",
+          "bs": "greške",
+          "en": "mistakes",
+          "lemma": "خَطَأٌ / أَخْطَاءٌ"
+        },
+        {
+          "w": "جُزْءٌ",
+          "root": "ج ز أ",
+          "bs": "dio",
+          "en": "part",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "طَبِيعِيٌّ",
+          "root": "ط ب ع",
+          "bs": "prirodni",
+          "en": "natural",
+          "lemma": "طَبِيعِيٌّ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Ne postoji osoba koja je uspjela a da nije griješila.",
       "translationEn": "There is no person who succeeded without making mistakes.",
       "words": [
-        { "w": "شَخْصٌ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
-        { "w": "نَجَحَ", "root": "ن ج ح", "bs": "uspjela je", "en": "succeeded" },
-        { "w": "يُخْطِئَ", "root": "خ ط أ", "bs": "griješila je", "en": "making mistakes" }
+        {
+          "w": "شَخْصٌ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "نَجَحَ",
+          "root": "ن ج ح",
+          "bs": "uspjela je",
+          "en": "succeeded",
+          "lemma": "نَجَحَ يَنْجَحُ"
+        },
+        {
+          "w": "يُخْطِئَ",
+          "root": "خ ط أ",
+          "bs": "griješila je",
+          "en": "making mistakes",
+          "lemma": "أَخْطَأَ يُخْطِئُ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Greška nas uči ono što nam knjige ne mogu naučiti.",
       "translationEn": "A mistake teaches us what books cannot teach us.",
       "words": [
-        { "w": "الْخَطَأُ", "root": "خ ط أ", "bs": "greška", "en": "mistake" },
-        { "w": "يُعَلِّمُنَا", "root": "ع ل م", "bs": "uči nas", "en": "teaches us" },
-        { "w": "الْكُتُبُ", "root": "ك ت ب", "bs": "knjige", "en": "books" }
+        {
+          "w": "الْخَطَأُ",
+          "root": "خ ط أ",
+          "bs": "greška",
+          "en": "mistake",
+          "lemma": "خَطَأٌ / أَخْطَاءٌ"
+        },
+        {
+          "w": "يُعَلِّمُنَا",
+          "root": "ع ل م",
+          "bs": "uči nas",
+          "en": "teaches us",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "الْكُتُبُ",
+          "root": "ك ت ب",
+          "bs": "knjige",
+          "en": "books",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        }
       ]
     },
     {
@@ -39,14 +99,37 @@
       "translation": "Ne boj se greške, nego uči iz nje.",
       "translationEn": "Do not be afraid of the mistake but learn from it.",
       "words": [
-        { "w": "تَخَفْ", "root": "خ و ف", "bs": "boj se", "en": "be afraid" },
-        { "w": "الْخَطَأِ", "root": "خ ط أ", "bs": "greška", "en": "mistake" },
-        { "w": "تَعَلَّمْ", "root": "ع ل م", "bs": "uči", "en": "learn" }
+        {
+          "w": "تَخَفْ",
+          "root": "خ و ف",
+          "bs": "boj se",
+          "en": "be afraid",
+          "lemma": "خَافَ يَخَافُ"
+        },
+        {
+          "w": "الْخَطَأِ",
+          "root": "خ ط أ",
+          "bs": "greška",
+          "en": "mistake",
+          "lemma": "خَطَأٌ / أَخْطَاءٌ"
+        },
+        {
+          "w": "تَعَلَّمْ",
+          "root": "ع ل م",
+          "bs": "uči",
+          "en": "learn",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "mistakes", "learning", "growth"]
+    "tags": [
+      "opinion",
+      "mistakes",
+      "learning",
+      "growth"
+    ]
   }
 }

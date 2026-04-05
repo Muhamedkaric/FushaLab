@@ -8,10 +8,34 @@
       "translation": "Ahmed je otišao na pijacu sa svojom majkom u petак ujutro.",
       "translationEn": "Ahmad went to the market with his mother on Friday morning.",
       "words": [
-        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaca/tržnica", "en": "market" },
-        { "w": "أُمِّهِ", "root": "أ م م", "bs": "njegova majka", "en": "his mother" },
-        { "w": "صَبَاحَ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "pijaca/tržnica",
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "أُمِّهِ",
+          "root": "أ م م",
+          "bs": "njegova majka",
+          "en": "his mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "صَبَاحَ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبِحَةٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Tamo je vidio puno voća i povrća.",
       "translationEn": "He saw many fruits and vegetables there.",
       "words": [
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "saw" },
-        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "mnogo/puno", "en": "many/a lot" },
-        { "w": "الْفَوَاكِهِ", "root": "ف و ك", "bs": "voće", "en": "fruits" },
-        { "w": "الْخُضَرَاوَاتِ", "root": "خ ض ر", "bs": "povrće", "en": "vegetables" }
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "كَثِيرًا",
+          "root": "ك ث ر",
+          "bs": "mnogo/puno",
+          "en": "many/a lot",
+          "lemma": "كَثِيرٌ"
+        },
+        {
+          "w": "الْفَوَاكِهِ",
+          "root": "ف و ك",
+          "bs": "voće",
+          "en": "fruits",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "الْخُضَرَاوَاتِ",
+          "root": "خ ض ر",
+          "bs": "povrće",
+          "en": "vegetables",
+          "lemma": "خُضَارٌ / خُضَرَاوَاتٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Majka ga je zamolila da odabere voće za porodicu.",
       "translationEn": "His mother asked him to choose fruit for the family.",
       "words": [
-        { "w": "طَلَبَتِ", "root": "ط ل ب", "bs": "zamolila je", "en": "asked" },
-        { "w": "يَخْتَارَ", "root": "خ ي ر", "bs": "da odabere", "en": "to choose" },
-        { "w": "فَاكِهَةً", "root": "ف و ك", "bs": "voće", "en": "fruit" },
-        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodica", "en": "family" }
+        {
+          "w": "طَلَبَتِ",
+          "root": "ط ل ب",
+          "bs": "zamolila je",
+          "en": "asked",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "يَخْتَارَ",
+          "root": "خ ي ر",
+          "bs": "da odabere",
+          "en": "to choose",
+          "lemma": "اخْتَارَ يَخْتَارُ"
+        },
+        {
+          "w": "فَاكِهَةً",
+          "root": "ف و ك",
+          "bs": "voće",
+          "en": "fruit",
+          "lemma": "فَاكِهَةٌ / فَوَاكِهُ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Ahmed je odabrao naranče i jabuke i majka mu se nasmiješila.",
       "translationEn": "Ahmad chose oranges and apples and his mother smiled.",
       "words": [
-        { "w": "اخْتَارَ", "root": "خ ي ر", "bs": "odabrao je", "en": "chose" },
-        { "w": "الْبُرْتُقَالَ", "root": "ب ر ت ق ل", "bs": "naranče", "en": "oranges" },
-        { "w": "التُّفَّاحَ", "root": "ت ف ح", "bs": "jabuke", "en": "apples" },
-        { "w": "ابْتَسَمَتْ", "root": "ب س م", "bs": "nasmiješila se", "en": "smiled" }
+        {
+          "w": "اخْتَارَ",
+          "root": "خ ي ر",
+          "bs": "odabrao je",
+          "en": "chose",
+          "lemma": "اخْتَارَ يَخْتَارُ"
+        },
+        {
+          "w": "الْبُرْتُقَالَ",
+          "root": "ب ر ت ق ل",
+          "bs": "naranče",
+          "en": "oranges",
+          "lemma": "بُرْتُقَالٌ"
+        },
+        {
+          "w": "التُّفَّاحَ",
+          "root": "ت ف ح",
+          "bs": "jabuke",
+          "en": "apples",
+          "lemma": "تُفَّاحَةٌ / تُفَّاحٌ"
+        },
+        {
+          "w": "ابْتَسَمَتْ",
+          "root": "ب س م",
+          "bs": "nasmiješila se",
+          "en": "smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["family", "shopping", "daily life"]
+    "tags": [
+      "family",
+      "shopping",
+      "daily life"
+    ]
   }
 }

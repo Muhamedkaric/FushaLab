@@ -8,10 +8,34 @@
       "translation": "Majka je htjela organizovati kućne troškove.",
       "translationEn": "The mother wanted to organize the household expenses.",
       "words": [
-        { "w": "أَرَادَتِ", "root": "ر و د", "bs": "htjela je", "en": "wanted" },
-        { "w": "تُنَظِّمَ", "root": "ن ظ م", "bs": "da organizuje", "en": "to organize" },
-        { "w": "مَصَارِيفَ", "root": "ص ر ف", "bs": "troškove", "en": "expenses" },
-        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "household" }
+        {
+          "w": "أَرَادَتِ",
+          "root": "ر و د",
+          "bs": "htjela je",
+          "en": "wanted",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "تُنَظِّمَ",
+          "root": "ن ظ م",
+          "bs": "da organizuje",
+          "en": "to organize",
+          "lemma": "نَظَّمَ يُنَظِّمُ"
+        },
+        {
+          "w": "مَصَارِيفَ",
+          "root": "ص ر ف",
+          "bs": "troškove",
+          "en": "expenses",
+          "lemma": "مَصْرُوفٌ / مَصَارِيفُ"
+        },
+        {
+          "w": "البَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "household",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Napisala je listu neophodnih stvari.",
       "translationEn": "She wrote a list of necessary items.",
       "words": [
-        { "w": "كَتَبَتْ", "root": "ك ت ب", "bs": "napisala je", "en": "wrote" },
-        { "w": "قَائِمَةً", "root": "ق و م", "bs": "lista", "en": "list" },
-        { "w": "الأَشْيَاءِ", "root": "ش ي أ", "bs": "stvari", "en": "items" },
-        { "w": "الضَّرُورِيَّةِ", "root": "ض ر ر", "bs": "neophodne", "en": "necessary" }
+        {
+          "w": "كَتَبَتْ",
+          "root": "ك ت ب",
+          "bs": "napisala je",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "قَائِمَةً",
+          "root": "ق و م",
+          "bs": "lista",
+          "en": "list",
+          "lemma": "قَائِمَةٌ / قَوَائِمُ"
+        },
+        {
+          "w": "الأَشْيَاءِ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "items",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "الضَّرُورِيَّةِ",
+          "root": "ض ر ر",
+          "bs": "neophodne",
+          "en": "necessary",
+          "lemma": "ضَرُورِيٌّ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Podijelila je novac između hrane, odjeće i ostalog.",
       "translationEn": "She divided the money between food, clothes, and other things.",
       "words": [
-        { "w": "قَسَّمَتِ", "root": "ق س م", "bs": "podijelila je", "en": "divided" },
-        { "w": "النُّقُودَ", "root": "ن ق د", "bs": "novac", "en": "money" },
-        { "w": "الأَكْلِ", "root": "أ ك ل", "bs": "hrana", "en": "food" },
-        { "w": "المَلَابِسِ", "root": "ل ب س", "bs": "odjeća", "en": "clothes" }
+        {
+          "w": "قَسَّمَتِ",
+          "root": "ق س م",
+          "bs": "podijelila je",
+          "en": "divided",
+          "lemma": "قَسَّمَ يُقَسِّمُ"
+        },
+        {
+          "w": "النُّقُودَ",
+          "root": "ن ق د",
+          "bs": "novac",
+          "en": "money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        },
+        {
+          "w": "الأَكْلِ",
+          "root": "أ ك ل",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "أَكْلٌ"
+        },
+        {
+          "w": "المَلَابِسِ",
+          "root": "ل ب س",
+          "bs": "odjeća",
+          "en": "clothes",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Na ovaj način nije potrošila više nego što ima.",
       "translationEn": "This way she did not spend more than she had.",
       "words": [
-        { "w": "الطَّرِيقَةِ", "root": "ط ر ق", "bs": "način", "en": "way" },
-        { "w": "تُنْفِقْ", "root": "ن ف ق", "bs": "potrošila je", "en": "spend" },
-        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više", "en": "more" }
+        {
+          "w": "الطَّرِيقَةِ",
+          "root": "ط ر ق",
+          "bs": "način",
+          "en": "way",
+          "lemma": "طَرِيقَةٌ / طَرَائِقُ"
+        },
+        {
+          "w": "تُنْفِقْ",
+          "root": "ن ف ق",
+          "bs": "potrošila je",
+          "en": "spend",
+          "lemma": "أَنْفَقَ يُنْفِقُ"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "root": "ك ث ر",
+          "bs": "više",
+          "en": "more",
+          "lemma": "أَكْثَرُ"
+        }
       ]
     },
     {
@@ -51,14 +141,36 @@
       "translation": "Otac porodice je bio sretan zbog ovog organiziranja.",
       "translationEn": "The head of the family was happy with this organization.",
       "words": [
-        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodica", "en": "family" },
-        { "w": "سَعِيدًا", "root": "س ع د", "bs": "sretan", "en": "happy" },
-        { "w": "التَّنْظِيمِ", "root": "ن ظ م", "bs": "organizovanje", "en": "organization" }
+        {
+          "w": "الأُسْرَةِ",
+          "root": "أ س ر",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "سَعِيدًا",
+          "root": "س ع د",
+          "bs": "sretan",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "التَّنْظِيمِ",
+          "root": "ن ظ م",
+          "bs": "organizovanje",
+          "en": "organization",
+          "lemma": "تَنْظِيمٌ / تَنْظِيمَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["budgeting", "household", "planning"]
+    "tags": [
+      "budgeting",
+      "household",
+      "planning"
+    ]
   }
 }

@@ -12,19 +12,22 @@
           "w": "يَشْرَبُ",
           "root": "ش ر ب",
           "bs": "pije",
-          "en": "drinks"
+          "en": "drinks",
+          "lemma": "شَرِبَ يَشْرَبُ"
         },
         {
           "w": "أَكْوَابٍ",
           "root": "ك و ب",
           "bs": "čaše",
-          "en": "glasses"
+          "en": "glasses",
+          "lemma": "كُوبٌ / أَكْوَابٌ"
         },
         {
           "w": "الْمَاءِ",
           "root": "م و ه",
           "bs": "voda",
-          "en": "water"
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
         }
       ]
     },
@@ -37,25 +40,29 @@
           "w": "يَعْرِفُ",
           "root": "ع ر ف",
           "bs": "zna",
-          "en": "knows"
+          "en": "knows",
+          "lemma": "عَرَفَ يَعْرِفُ"
         },
         {
           "w": "الْمَاءَ",
           "root": "م و ه",
           "bs": "voda",
-          "en": "water"
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
         },
         {
           "w": "مُهِمٌّ",
           "root": "ه م م",
           "bs": "važna",
-          "en": "important"
+          "en": "important",
+          "lemma": "مُهِمٌّ"
         },
         {
           "w": "لِصِحَّةِ",
           "root": "ص ح ح",
           "bs": "za zdravlje",
-          "en": "for health"
+          "en": "for health",
+          "lemma": "صِحَّةٌ"
         }
       ]
     },
@@ -68,19 +75,22 @@
           "w": "يَحْمِلُ",
           "root": "ح م ل",
           "bs": "nosi",
-          "en": "carries"
+          "en": "carries",
+          "lemma": "حَمَلَ يَحْمِلُ"
         },
         {
           "w": "زُجَاجَةَ",
           "root": "ز ج ج",
           "bs": "boca",
-          "en": "bottle"
+          "en": "bottle",
+          "lemma": "زُجَاجَةٌ / زُجَاجَاتٌ"
         },
         {
           "w": "مَاءٍ",
           "root": "م و ه",
           "bs": "voda",
-          "en": "water"
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
         }
       ]
     },
@@ -93,25 +103,29 @@
           "w": "أَخْبَرَ",
           "root": "خ ب ر",
           "bs": "obavijestio je",
-          "en": "told"
+          "en": "told",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
         },
         {
           "w": "أَصْدِقَاءَهُ",
           "root": "ص د ق",
           "bs": "prijatelji",
-          "en": "friends"
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "بِأَهَمِّيَّةِ",
           "root": "ه م م",
           "bs": "o važnosti",
-          "en": "about the importance"
+          "en": "about the importance",
+          "lemma": "أَهَمِّيَّةٌ"
         },
         {
           "w": "شُرْبِ",
           "root": "ش ر ب",
           "bs": "pijenja",
-          "en": "drinking"
+          "en": "drinking",
+          "lemma": "شُرْبٌ"
         }
       ]
     }

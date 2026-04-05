@@ -8,10 +8,33 @@
       "translation": "Palma je važno drvo u arapskom okruženju.",
       "translationEn": "The palm tree is an important tree in the Arab environment.",
       "words": [
-        { "w": "النَّخْلَةُ", "root": "ن خ ل", "bs": "palma", "en": "palm tree" },
-        { "w": "شَجَرَةٌ", "root": "ش ج ر", "bs": "drvo", "en": "tree" },
-        { "w": "مُهِمَّةٌ", "root": "هـ م م", "bs": "važno", "en": "important" },
-        { "w": "البِيئَةِ", "root": "ب و أ", "bs": "okruženju", "en": "environment" }
+        {
+          "w": "النَّخْلَةُ",
+          "root": "ن خ ل",
+          "bs": "palma",
+          "en": "palm tree",
+          "lemma": "نَخْلَةٌ / نَخِيلٌ"
+        },
+        {
+          "w": "شَجَرَةٌ",
+          "root": "ش ج ر",
+          "bs": "drvo",
+          "en": "tree",
+          "lemma": "شَجَرَةٌ / أَشْجَارٌ"
+        },
+        {
+          "w": "مُهِمَّةٌ",
+          "root": "هـ م م",
+          "bs": "važno",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "البِيئَةِ",
+          "root": "ب و أ",
+          "bs": "okruženju",
+          "en": "environment"
+        }
       ]
     },
     {
@@ -19,11 +42,41 @@
       "translation": "Palma daje slatke i ukusne hurme.",
       "translationEn": "The palm tree produces sweet and delicious dates.",
       "words": [
-        { "w": "تُنْتِجُ", "root": "ن ت ج", "bs": "daje", "en": "produces" },
-        { "w": "النَّخْلَةُ", "root": "ن خ ل", "bs": "palma", "en": "palm tree" },
-        { "w": "التَّمْرَ", "root": "ت م ر", "bs": "hurme", "en": "dates" },
-        { "w": "الحَلْوَ", "root": "ح ل و", "bs": "slatke", "en": "sweet" },
-        { "w": "اللَّذِيذَ", "root": "ل ذ ذ", "bs": "ukusne", "en": "delicious" }
+        {
+          "w": "تُنْتِجُ",
+          "root": "ن ت ج",
+          "bs": "daje",
+          "en": "produces",
+          "lemma": "أَنْتَجَ يُنْتِجُ"
+        },
+        {
+          "w": "النَّخْلَةُ",
+          "root": "ن خ ل",
+          "bs": "palma",
+          "en": "palm tree",
+          "lemma": "نَخْلَةٌ / نَخِيلٌ"
+        },
+        {
+          "w": "التَّمْرَ",
+          "root": "ت م ر",
+          "bs": "hurme",
+          "en": "dates",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "الحَلْوَ",
+          "root": "ح ل و",
+          "bs": "slatke",
+          "en": "sweet",
+          "lemma": "حُلْوٌ"
+        },
+        {
+          "w": "اللَّذِيذَ",
+          "root": "ل ذ ذ",
+          "bs": "ukusne",
+          "en": "delicious",
+          "lemma": "لَذِيذٌ"
+        }
       ]
     },
     {
@@ -31,10 +84,34 @@
       "translation": "Seljak uzgaja palme u oazama.",
       "translationEn": "The farmer grows palm trees in oases.",
       "words": [
-        { "w": "يَزْرَعُ", "root": "ز ر ع", "bs": "uzgaja", "en": "grows" },
-        { "w": "الفَلَّاحُ", "root": "ف ل ح", "bs": "seljak", "en": "farmer" },
-        { "w": "النَّخِيلَ", "root": "ن خ ل", "bs": "palme", "en": "palm trees" },
-        { "w": "الوَاحَاتِ", "root": "و ح ي", "bs": "oazama", "en": "oases" }
+        {
+          "w": "يَزْرَعُ",
+          "root": "ز ر ع",
+          "bs": "uzgaja",
+          "en": "grows",
+          "lemma": "زَرَعَ يَزْرَعُ"
+        },
+        {
+          "w": "الفَلَّاحُ",
+          "root": "ف ل ح",
+          "bs": "seljak",
+          "en": "farmer",
+          "lemma": "فَلَّاحٌ / فَلَّاحُونَ"
+        },
+        {
+          "w": "النَّخِيلَ",
+          "root": "ن خ ل",
+          "bs": "palme",
+          "en": "palm trees",
+          "lemma": "نَخْلَةٌ / نَخِيلٌ"
+        },
+        {
+          "w": "الوَاحَاتِ",
+          "root": "و ح ي",
+          "bs": "oazama",
+          "en": "oases",
+          "lemma": "وَاحَةٌ / وَاحَاتٌ"
+        }
       ]
     },
     {
@@ -42,11 +119,41 @@
       "translation": "Palme daju hlad u vrućoj pustinji.",
       "translationEn": "Palm trees provide shade in the hot desert.",
       "words": [
-        { "w": "النَّخِيلُ", "root": "ن خ ل", "bs": "palme", "en": "palm trees" },
-        { "w": "يُعْطِي", "root": "ع ط و", "bs": "daju", "en": "provide" },
-        { "w": "ظِلًّا", "root": "ظ ل ل", "bs": "hlad", "en": "shade" },
-        { "w": "الصَّحْرَاءِ", "root": "ص ح ر", "bs": "pustinji", "en": "desert" },
-        { "w": "الحَارَّةِ", "root": "ح ر ر", "bs": "vrućoj", "en": "hot" }
+        {
+          "w": "النَّخِيلُ",
+          "root": "ن خ ل",
+          "bs": "palme",
+          "en": "palm trees",
+          "lemma": "نَخْلَةٌ / نَخِيلٌ"
+        },
+        {
+          "w": "يُعْطِي",
+          "root": "ع ط و",
+          "bs": "daju",
+          "en": "provide",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "ظِلًّا",
+          "root": "ظ ل ل",
+          "bs": "hlad",
+          "en": "shade",
+          "lemma": "ظِلٌّ / ظِلَالٌ"
+        },
+        {
+          "w": "الصَّحْرَاءِ",
+          "root": "ص ح ر",
+          "bs": "pustinji",
+          "en": "desert",
+          "lemma": "صَحْرَاءُ / صَحَارَى"
+        },
+        {
+          "w": "الحَارَّةِ",
+          "root": "ح ر ر",
+          "bs": "vrućoj",
+          "en": "hot",
+          "lemma": "حَارٌّ"
+        }
       ]
     },
     {
@@ -54,10 +161,34 @@
       "translation": "Palma je simbol dobrote i darežljivosti.",
       "translationEn": "The palm tree is a symbol of goodness and giving.",
       "words": [
-        { "w": "النَّخْلَةُ", "root": "ن خ ل", "bs": "palma", "en": "palm tree" },
-        { "w": "رَمْزٌ", "root": "ر م ز", "bs": "simbol", "en": "symbol" },
-        { "w": "الخَيْرِ", "root": "خ ي ر", "bs": "dobrote", "en": "goodness" },
-        { "w": "العَطَاءِ", "root": "ع ط و", "bs": "darežljivosti", "en": "giving" }
+        {
+          "w": "النَّخْلَةُ",
+          "root": "ن خ ل",
+          "bs": "palma",
+          "en": "palm tree",
+          "lemma": "نَخْلَةٌ / نَخِيلٌ"
+        },
+        {
+          "w": "رَمْزٌ",
+          "root": "ر م ز",
+          "bs": "simbol",
+          "en": "symbol",
+          "lemma": "رَمْزٌ / رُمُوزٌ"
+        },
+        {
+          "w": "الخَيْرِ",
+          "root": "خ ي ر",
+          "bs": "dobrote",
+          "en": "goodness",
+          "lemma": "خَيْرٌ / خَيْرَاتٌ"
+        },
+        {
+          "w": "العَطَاءِ",
+          "root": "ع ط و",
+          "bs": "darežljivosti",
+          "en": "giving",
+          "lemma": "عَطَاءٌ / أَعْطِيَةٌ"
+        }
       ]
     }
   ],

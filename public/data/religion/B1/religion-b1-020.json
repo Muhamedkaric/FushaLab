@@ -12,31 +12,36 @@
           "w": "رَأَى",
           "root": "ر أ ي",
           "bs": "vidio je",
-          "en": "saw"
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
         },
         {
           "w": "رَجُلًا",
           "root": "ر ج ل",
           "bs": "čovjeka",
-          "en": "a man"
+          "en": "a man",
+          "lemma": "رَجُلٌ / رِجَالٌ"
         },
         {
           "w": "يَحْتَاجُ",
           "root": "ح و ج",
           "bs": "treba",
-          "en": "needed"
+          "en": "needed",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
         },
         {
           "w": "مُسَاعَدَةٍ",
           "root": "س ع د",
           "bs": "pomoć",
-          "en": "help"
+          "en": "help",
+          "lemma": "مُسَاعَدَةٌ / مُسَاعَدَاتٌ"
         },
         {
           "w": "الشَّارِعِ",
           "root": "ش ر ع",
           "bs": "ulici",
-          "en": "the street"
+          "en": "the street",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
         }
       ]
     },
@@ -49,25 +54,29 @@
           "w": "ذَهَبَ",
           "root": "ذ ه ب",
           "bs": "prišao mu je",
-          "en": "went to him"
+          "en": "went to him",
+          "lemma": "ذَهَبَ يَذْهَبُ"
         },
         {
           "w": "سَأَلَهُ",
           "root": "س أ ل",
           "bs": "pitao ga je",
-          "en": "asked him"
+          "en": "asked him",
+          "lemma": "سَأَلَ يَسْأَلُ"
         },
         {
           "w": "تَحْتَاجُ",
           "root": "ح و ج",
           "bs": "trebaš",
-          "en": "need"
+          "en": "need",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
         },
         {
           "w": "مُسَاعَدَةً",
           "root": "س ع د",
           "bs": "pomoć",
-          "en": "help"
+          "en": "help",
+          "lemma": "مُسَاعَدَةٌ / مُسَاعَدَاتٌ"
         }
       ]
     },
@@ -80,25 +89,29 @@
           "w": "أَعَانَهُ",
           "root": "ع و ن",
           "bs": "pomogao mu je",
-          "en": "helped him"
+          "en": "helped him",
+          "lemma": "أَعَانَ يُعِينُ"
         },
         {
           "w": "حَمْلِ",
           "root": "ح م ل",
           "bs": "nošenje",
-          "en": "carry"
+          "en": "carry",
+          "lemma": "حَمْلٌ"
         },
         {
           "w": "الْحَقِيبَةِ",
           "root": "ح ق ب",
           "bs": "torbu",
-          "en": "the bag"
+          "en": "the bag",
+          "lemma": "حَقِيبَةٌ / حَقَائِبُ"
         },
         {
           "w": "الثَّقِيلَةِ",
           "root": "ث ق ل",
           "bs": "tešku",
-          "en": "heavy"
+          "en": "heavy",
+          "lemma": "ثَقِيلٌ"
         }
       ]
     },
@@ -111,25 +124,29 @@
           "w": "شَعَرَ",
           "root": "ش ع ر",
           "bs": "osjetio je",
-          "en": "felt"
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
         },
         {
           "w": "بِالسَّعَادَةِ",
           "root": "س ع د",
           "bs": "sreću",
-          "en": "happy"
+          "en": "happy",
+          "lemma": "سَعَادَةٌ"
         },
         {
           "w": "فَعَلَ",
           "root": "ف ع ل",
           "bs": "učinio je",
-          "en": "did"
+          "en": "did",
+          "lemma": "فَعَلَ يَفْعَلُ"
         },
         {
           "w": "خَيْرًا",
           "root": "خ ي ر",
           "bs": "dobro",
-          "en": "a good deed"
+          "en": "a good deed",
+          "lemma": "خَيْرٌ / خُيُورٌ"
         }
       ]
     }

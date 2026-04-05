@@ -8,10 +8,34 @@
       "translation": "Na dan Bajrama, ljudi oblače novu odjeću.",
       "translationEn": "On Eid day, people wear new clothes.",
       "words": [
-        { "w": "يَلْبَسُ", "root": "ل ب س", "bs": "oblače", "en": "wear" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "مَلَابِسَ", "root": "ل ب س", "bs": "odjeću", "en": "clothes" },
-        { "w": "جَدِيدَةً", "root": "ج د د", "bs": "novu", "en": "new" }
+        {
+          "w": "يَلْبَسُ",
+          "root": "ل ب س",
+          "bs": "oblače",
+          "en": "wear",
+          "lemma": "لَبِسَ يَلْبَسُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "مَلَابِسَ",
+          "root": "ل ب س",
+          "bs": "odjeću",
+          "en": "clothes",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
+        },
+        {
+          "w": "جَدِيدَةً",
+          "root": "ج د د",
+          "bs": "novu",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Idu u džamiju na bajram-namaz.",
       "translationEn": "They go to the mosque for the Eid prayer.",
       "words": [
-        { "w": "يَذْهَبُونَ", "root": "ذ هـ ب", "bs": "idu", "en": "go" },
-        { "w": "المَسْجِدِ", "root": "س ج د", "bs": "džamiji", "en": "mosque" },
-        { "w": "صَلَاةِ", "root": "ص ل و", "bs": "namazu", "en": "prayer" },
-        { "w": "العِيدِ", "root": "ع ي د", "bs": "bajramu", "en": "Eid" }
+        {
+          "w": "يَذْهَبُونَ",
+          "root": "ذ هـ ب",
+          "bs": "idu",
+          "en": "go",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "المَسْجِدِ",
+          "root": "س ج د",
+          "bs": "džamiji",
+          "en": "mosque",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "صَلَاةِ",
+          "root": "ص ل و",
+          "bs": "namazu",
+          "en": "prayer",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        },
+        {
+          "w": "العِيدِ",
+          "root": "ع ي د",
+          "bs": "bajramu",
+          "en": "Eid",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Nakon namaza, posjećuju rodbinu i prijatelje.",
       "translationEn": "After the prayer, they visit relatives and friends.",
       "words": [
-        { "w": "يَزُورُونَ", "root": "ز و ر", "bs": "posjećuju", "en": "visit" },
-        { "w": "الأَقَارِبَ", "root": "ق ر ب", "bs": "rodbinu", "en": "relatives" },
-        { "w": "الأَصْدِقَاءَ", "root": "ص د ق", "bs": "prijatelje", "en": "friends" }
+        {
+          "w": "يَزُورُونَ",
+          "root": "ز و ر",
+          "bs": "posjećuju",
+          "en": "visit",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "الأَقَارِبَ",
+          "root": "ق ر ب",
+          "bs": "rodbinu",
+          "en": "relatives",
+          "lemma": "قَرِيبٌ / أَقَارِبُ"
+        },
+        {
+          "w": "الأَصْدِقَاءَ",
+          "root": "ص د ق",
+          "bs": "prijatelje",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
       ]
     },
     {
@@ -40,11 +106,41 @@
       "translation": "Jedu slatkiše i daju djeci bajramluке.",
       "translationEn": "They eat sweets and give children Eid money.",
       "words": [
-        { "w": "يَأْكُلُونَ", "root": "أ ك ل", "bs": "jedu", "en": "eat" },
-        { "w": "الحَلْوَى", "root": "ح ل و", "bs": "slatkiše", "en": "sweets" },
-        { "w": "يُعْطُونَ", "root": "ع ط و", "bs": "daju", "en": "give" },
-        { "w": "الأَطْفَالَ", "root": "ط ف ل", "bs": "djeci", "en": "children" },
-        { "w": "النُّقُوطَ", "root": "ن ق ط", "bs": "bajramluke", "en": "Eid money" }
+        {
+          "w": "يَأْكُلُونَ",
+          "root": "أ ك ل",
+          "bs": "jedu",
+          "en": "eat",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الحَلْوَى",
+          "root": "ح ل و",
+          "bs": "slatkiše",
+          "en": "sweets",
+          "lemma": "حَلْوَى / حَلَوَيَاتٌ"
+        },
+        {
+          "w": "يُعْطُونَ",
+          "root": "ع ط و",
+          "bs": "daju",
+          "en": "give",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "الأَطْفَالَ",
+          "root": "ط ف ل",
+          "bs": "djeci",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "النُّقُوطَ",
+          "root": "ن ق ط",
+          "bs": "bajramluke",
+          "en": "Eid money",
+          "lemma": "نُقُوطٌ"
+        }
       ]
     },
     {
@@ -52,9 +148,27 @@
       "translation": "Bajram je sretno vrijeme za sve.",
       "translationEn": "Eid is a happy time for everyone.",
       "words": [
-        { "w": "العِيدُ", "root": "ع ي د", "bs": "bajram", "en": "Eid" },
-        { "w": "وَقْتٌ", "root": "و ق ت", "bs": "vrijeme", "en": "time" },
-        { "w": "سَعِيدٌ", "root": "س ع د", "bs": "sretno", "en": "happy" }
+        {
+          "w": "العِيدُ",
+          "root": "ع ي د",
+          "bs": "bajram",
+          "en": "Eid",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "وَقْتٌ",
+          "root": "و ق ت",
+          "bs": "vrijeme",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "سَعِيدٌ",
+          "root": "س ع د",
+          "bs": "sretno",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        }
       ]
     }
   ],

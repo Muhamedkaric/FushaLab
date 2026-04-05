@@ -12,31 +12,36 @@
           "w": "ذَهَبَ",
           "root": "ذ ه ب",
           "bs": "otišli",
-          "en": "went"
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
         },
         {
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "المَلْعَبِ",
           "root": "ل ع ب",
           "bs": "teren",
-          "en": "field"
+          "en": "field",
+          "lemma": "مَلْعَبٌ / مَلَاعِبُ"
         },
         {
           "w": "التَّرْبِيَةِ",
           "root": "ر ب و",
           "bs": "odgoj",
-          "en": "education"
+          "en": "education",
+          "lemma": "تَرْبِيَةٌ"
         },
         {
           "w": "البَدَنِيَّةِ",
           "root": "ب د ن",
           "bs": "tjelesni",
-          "en": "physical"
+          "en": "physical",
+          "lemma": "بَدَنِيٌّ"
         }
       ]
     },
@@ -49,25 +54,29 @@
           "w": "لَعِبُوا",
           "root": "ل ع ب",
           "bs": "igrali",
-          "en": "played"
+          "en": "played",
+          "lemma": "لَعِبَ يَلْعَبُ"
         },
         {
           "w": "كُرَةَ",
           "root": "ك ر و",
           "bs": "lopta",
-          "en": "ball"
+          "en": "ball",
+          "lemma": "كُرَةٌ / كُرَاتٌ"
         },
         {
           "w": "القَدَمِ",
           "root": "ق د م",
           "bs": "fudbal",
-          "en": "football"
+          "en": "football",
+          "lemma": "قَدَمٌ / أَقْدَامٌ"
         },
         {
           "w": "اسْتَمْتَعُوا",
           "root": "م ت ع",
           "bs": "zabavljali se",
-          "en": "enjoyed"
+          "en": "enjoyed",
+          "lemma": "اسْتَمْتَعَ يَسْتَمْتِعُ"
         }
       ]
     },
@@ -80,25 +89,29 @@
           "w": "سَجَّلَ",
           "root": "س ج ل",
           "bs": "postigao",
-          "en": "scored"
+          "en": "scored",
+          "lemma": "سَجَّلَ يُسَجِّلُ"
         },
         {
           "w": "فَرِيقُ",
           "root": "ف ر ق",
           "bs": "tim",
-          "en": "team"
+          "en": "team",
+          "lemma": "فَرِيقٌ / فِرَقٌ"
         },
         {
           "w": "هَدَفَيْنِ",
           "root": "ه د ف",
           "bs": "dva gola",
-          "en": "two goals"
+          "en": "two goals",
+          "lemma": "هَدَفٌ / أَهْدَافٌ"
         },
         {
           "w": "المَبَارَاةِ",
           "root": "ب ر ي",
           "bs": "utakmica",
-          "en": "match"
+          "en": "match",
+          "lemma": "مُبَارَاةٌ / مُبَارَيَاتٌ"
         }
       ]
     },
@@ -111,25 +124,29 @@
           "w": "انْتَهَتِ",
           "root": "ن ه ي",
           "bs": "završila",
-          "en": "ended"
+          "en": "ended",
+          "lemma": "انْتَهَى يَنْتَهِي"
         },
         {
           "w": "المَبَارَاةُ",
           "root": "ب ر ي",
           "bs": "utakmica",
-          "en": "match"
+          "en": "match",
+          "lemma": "مُبَارَاةٌ / مُبَارَيَاتٌ"
         },
         {
           "w": "عَادَ",
           "root": "ع و د",
           "bs": "vratio se",
-          "en": "returned"
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
         },
         {
           "w": "الفَصْلِ",
           "root": "ف ص ل",
           "bs": "razred",
-          "en": "class"
+          "en": "class",
+          "lemma": "فَصْلٌ / فُصُولٌ"
         }
       ]
     },
@@ -142,19 +159,22 @@
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "مُتْعَبِينَ",
           "root": "ت ع ب",
           "bs": "umorni",
-          "en": "tired"
+          "en": "tired",
+          "lemma": "مُتْعَبٌ"
         },
         {
           "w": "سَعِيدُونَ",
           "root": "س ع د",
           "bs": "sretni",
-          "en": "happy"
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
         }
       ]
     }

@@ -12,30 +12,35 @@
           "w": "شَاهَدَ",
           "root": "ش ه د",
           "bs": "gledalo je",
-          "en": "watched"
+          "en": "watched",
+          "lemma": "شَاهَدَ يُشَاهِدُ"
         },
         {
           "w": "الطِّفْلُ",
           "root": "ط ف ل",
           "bs": "dijete",
-          "en": "the child"
+          "en": "the child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "بَرْنَامَجًا",
           "root": "ب ر ن",
           "bs": "program",
-          "en": "a program"
+          "en": "a program",
+          "lemma": "بَرْنَامَجٌ / بَرَامِجُ"
         },
         {
           "w": "تَعْلِيمِيًّا",
           "root": "ع ل م",
           "bs": "edukativni",
-          "en": "educational"
+          "en": "educational",
+          "lemma": "تَعْلِيمِيٌّ"
         },
         {
           "w": "التَّابْلِيتِ",
           "bs": "tabletu",
-          "en": "the tablet"
+          "en": "the tablet",
+          "lemma": "تَابْلِيتٌ"
         }
       ]
     },
@@ -48,25 +53,29 @@
           "w": "الْبَرْنَامَجُ",
           "root": "ب ر ن",
           "bs": "program",
-          "en": "the program"
+          "en": "the program",
+          "lemma": "بَرْنَامَجٌ / بَرَامِجُ"
         },
         {
           "w": "يُعَلِّمُ",
           "root": "ع ل م",
           "bs": "poučavao je",
-          "en": "was teaching"
+          "en": "was teaching",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
         },
         {
           "w": "الْحُرُوفَ",
           "root": "ح ر ف",
           "bs": "slova",
-          "en": "letters"
+          "en": "letters",
+          "lemma": "حَرْفٌ / حُرُوفٌ"
         },
         {
           "w": "الْأَرْقَامَ",
           "root": "ر ق م",
           "bs": "brojeve",
-          "en": "numbers"
+          "en": "numbers",
+          "lemma": "رَقْمٌ / أَرْقَامٌ"
         }
       ]
     },
@@ -79,25 +88,29 @@
           "w": "رَدَّدَ",
           "root": "ر د د",
           "bs": "ponavljalo je",
-          "en": "repeated"
+          "en": "repeated",
+          "lemma": "رَدَّدَ يُرَدِّدُ"
         },
         {
           "w": "الطِّفْلُ",
           "root": "ط ف ل",
           "bs": "dijete",
-          "en": "the child"
+          "en": "the child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "الْحُرُوفَ",
           "root": "ح ر ف",
           "bs": "slova",
-          "en": "the letters"
+          "en": "the letters",
+          "lemma": "حَرْفٌ / حُرُوفٌ"
         },
         {
           "w": "بِصَوْتٍ عَالٍ",
           "root": "ص و ت",
           "bs": "glasno",
-          "en": "out loud"
+          "en": "out loud",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ — عَالٍ"
         }
       ]
     },
@@ -110,25 +123,29 @@
           "w": "فَرِحَتِ",
           "root": "ف ر ح",
           "bs": "obradovala se",
-          "en": "was happy"
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
         },
         {
           "w": "الْأُمُّ",
           "root": "أ م م",
           "bs": "majka",
-          "en": "the mother"
+          "en": "the mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
         },
         {
           "w": "سَمِعَتْهُ",
           "root": "س م ع",
           "bs": "čula ga je",
-          "en": "heard him"
+          "en": "heard him",
+          "lemma": "سَمِعَ يَسْمَعُ"
         },
         {
           "w": "يَتَعَلَّمُ",
           "root": "ع ل م",
           "bs": "kako uči",
-          "en": "learning"
+          "en": "learning",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
         }
       ]
     }

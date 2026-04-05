@@ -8,10 +8,34 @@
       "translation": "Ranin poklon za rođendan bio je umotan u plavi papir.",
       "translationEn": "Rana's birthday gift was wrapped in blue paper.",
       "words": [
-        { "w": "هَدِيَّةُ", "root": "ه د ي", "bs": "poklon", "en": "gift" },
-        { "w": "مَلْفُوفَةً", "root": "ل ف ف", "bs": "umotan", "en": "wrapped" },
-        { "w": "وَرَقٍ", "root": "و ر ق", "bs": "papir", "en": "paper" },
-        { "w": "أَزْرَقَ", "root": "ز ر ق", "bs": "plavi", "en": "blue" }
+        {
+          "w": "هَدِيَّةُ",
+          "root": "ه د ي",
+          "bs": "poklon",
+          "en": "gift",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "مَلْفُوفَةً",
+          "root": "ل ف ف",
+          "bs": "umotan",
+          "en": "wrapped",
+          "lemma": "مَلْفُوفٌ"
+        },
+        {
+          "w": "وَرَقٍ",
+          "root": "و ر ق",
+          "bs": "papir",
+          "en": "paper",
+          "lemma": "وَرَقٌ / أَوْرَاقٌ"
+        },
+        {
+          "w": "أَزْرَقَ",
+          "root": "ز ر ق",
+          "bs": "plavi",
+          "en": "blue",
+          "lemma": "أَزْرَقُ"
+        }
       ]
     },
     {
@@ -19,8 +43,20 @@
       "translation": "Na njemu nije bilo imena onoga ko ga je poslao.",
       "translationEn": "There was no name of who sent it on it.",
       "words": [
-        { "w": "اسْمُ", "root": "س م و", "bs": "ime", "en": "name" },
-        { "w": "أَرْسَلَهُ", "root": "ر س ل", "bs": "poslao ga je", "en": "sent it" }
+        {
+          "w": "اسْمُ",
+          "root": "س م و",
+          "bs": "ime",
+          "en": "name",
+          "lemma": "اسْمٌ / أَسْمَاءٌ"
+        },
+        {
+          "w": "أَرْسَلَهُ",
+          "root": "ر س ل",
+          "bs": "poslao ga je",
+          "en": "sent it",
+          "lemma": "أَرْسَلَ يُرْسِلُ"
+        }
       ]
     },
     {
@@ -28,11 +64,41 @@
       "translation": "Rana je otvorila poklon i pronašla knjigu priča.",
       "translationEn": "Rana opened the gift and found a storybook.",
       "words": [
-        { "w": "فَتَحَتْ", "root": "ف ت ح", "bs": "otvorila je", "en": "she opened" },
-        { "w": "الْهَدِيَّةَ", "root": "ه د ي", "bs": "poklon", "en": "the gift" },
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
-        { "w": "كِتَابَ", "root": "ك ت ب", "bs": "knjigu", "en": "book" },
-        { "w": "قِصَصٍ", "root": "ق ص ص", "bs": "priča", "en": "stories" }
+        {
+          "w": "فَتَحَتْ",
+          "root": "ف ت ح",
+          "bs": "otvorila je",
+          "en": "she opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "الْهَدِيَّةَ",
+          "root": "ه د ي",
+          "bs": "poklon",
+          "en": "the gift",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "she found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "كِتَابَ",
+          "root": "ك ت ب",
+          "bs": "knjigu",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "قِصَصٍ",
+          "root": "ق ص ص",
+          "bs": "priča",
+          "en": "stories",
+          "lemma": "قِصَّةٌ / قِصَصٌ"
+        }
       ]
     },
     {
@@ -40,9 +106,27 @@
       "translation": "Sedmicu ranije je rekla da želi tu knjigu.",
       "translationEn": "She had said a week before that she wanted this book.",
       "words": [
-        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "she said" },
-        { "w": "تُرِيدُ", "root": "ر و د", "bs": "želi", "en": "she wants" },
-        { "w": "الْكِتَابَ", "root": "ك ت ب", "bs": "knjigu", "en": "the book" }
+        {
+          "w": "قَالَتْ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "she said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "تُرِيدُ",
+          "root": "ر و د",
+          "bs": "želi",
+          "en": "she wants",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "الْكِتَابَ",
+          "root": "ك ت ب",
+          "bs": "knjigu",
+          "en": "the book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        }
       ]
     },
     {
@@ -50,15 +134,44 @@
       "translation": "Shvatila je da ju je poslao njen brat koji dobro sluša.",
       "translationEn": "She realised that her brother who listens well had sent it.",
       "words": [
-        { "w": "عَرَفَتْ", "root": "ع ر ف", "bs": "shvatila je", "en": "she realised" },
-        { "w": "أَخَاهَا", "root": "أ خ خ", "bs": "brat", "en": "her brother" },
-        { "w": "يَسْمَعُ", "root": "س م ع", "bs": "sluša", "en": "listens" },
-        { "w": "أَرْسَلَهَا", "root": "ر س ل", "bs": "poslao je", "en": "sent it" }
+        {
+          "w": "عَرَفَتْ",
+          "root": "ع ر ف",
+          "bs": "shvatila je",
+          "en": "she realised",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "أَخَاهَا",
+          "root": "أ خ خ",
+          "bs": "brat",
+          "en": "her brother",
+          "lemma": "أَخٌ / إِخْوَةٌ"
+        },
+        {
+          "w": "يَسْمَعُ",
+          "root": "س م ع",
+          "bs": "sluša",
+          "en": "listens",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "أَرْسَلَهَا",
+          "root": "ر س ل",
+          "bs": "poslao je",
+          "en": "sent it",
+          "lemma": "أَرْسَلَ يُرْسِلُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "birthday", "gift", "family"]
+    "tags": [
+      "mystery",
+      "birthday",
+      "gift",
+      "family"
+    ]
   }
 }

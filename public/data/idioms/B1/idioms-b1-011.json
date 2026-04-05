@@ -8,7 +8,13 @@
       "translation": "Poslovica kaže: «Reci mi ko ti je prijatelj, reći ću ti ko si ti».",
       "translationEn": "The proverb says: «Tell me who your friend is and I will tell you who you are».",
       "words": [
-        { "w": "صَدِيقُكَ", "root": "ص د ق", "bs": "tvoj prijatelj", "en": "your friend" }
+        {
+          "w": "صَدِيقُكَ",
+          "root": "ص د ق",
+          "bs": "tvoj prijatelj",
+          "en": "your friend",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
       ]
     },
     {
@@ -16,9 +22,27 @@
       "translation": "To znači da naši prijatelji utiču na naš karakter.",
       "translationEn": "This means that our friends influence our character.",
       "words": [
-        { "w": "أَصْدِقَاءَنَا", "root": "ص د ق", "bs": "naši prijatelji", "en": "our friends" },
-        { "w": "يُؤَثِّرُونَ", "root": "أ ث ر", "bs": "utiču", "en": "influence" },
-        { "w": "شَخْصِيَّتِنَا", "root": "ش خ ص", "bs": "naš karakter", "en": "our character" }
+        {
+          "w": "أَصْدِقَاءَنَا",
+          "root": "ص د ق",
+          "bs": "naši prijatelji",
+          "en": "our friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "يُؤَثِّرُونَ",
+          "root": "أ ث ر",
+          "bs": "utiču",
+          "en": "influence",
+          "lemma": "أَثَّرَ يُؤَثِّرُ"
+        },
+        {
+          "w": "شَخْصِيَّتِنَا",
+          "root": "ش خ ص",
+          "bs": "naš karakter",
+          "en": "our character",
+          "lemma": "شَخْصِيَّةٌ / شَخْصِيَّاتٌ"
+        }
       ]
     },
     {
@@ -26,10 +50,34 @@
       "translation": "Rami je izabrao dobre prijatelje koji vole znanje.",
       "translationEn": "Rami chose good friends who love knowledge.",
       "words": [
-        { "w": "اخْتَارَ", "root": "خ ي ر", "bs": "izabrao je", "en": "chose" },
-        { "w": "أَصْدِقَاءَ", "root": "ص د ق", "bs": "prijatelji", "en": "friends" },
-        { "w": "طَيِّبِينَ", "root": "ط ي ب", "bs": "dobre", "en": "good" },
-        { "w": "الْعِلْمَ", "root": "ع ل م", "bs": "znanje", "en": "knowledge" }
+        {
+          "w": "اخْتَارَ",
+          "root": "خ ي ر",
+          "bs": "izabrao je",
+          "en": "chose",
+          "lemma": "اخْتَارَ يَخْتَارُ"
+        },
+        {
+          "w": "أَصْدِقَاءَ",
+          "root": "ص د ق",
+          "bs": "prijatelji",
+          "en": "friends",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "طَيِّبِينَ",
+          "root": "ط ي ب",
+          "bs": "dobre",
+          "en": "good",
+          "lemma": "طَيِّبٌ"
+        },
+        {
+          "w": "الْعِلْمَ",
+          "root": "ع ل م",
+          "bs": "znanje",
+          "en": "knowledge",
+          "lemma": "عِلْمٌ / عُلُومٌ"
+        }
       ]
     },
     {
@@ -37,14 +85,36 @@
       "translation": "Postao je poput njih - ljubitelj knjige i učenja.",
       "translationEn": "He became like them, a lover of books and learning.",
       "words": [
-        { "w": "مُحِبًّا", "root": "ح ب ب", "bs": "ljubitelj", "en": "lover" },
-        { "w": "لِلْكِتَابِ", "root": "ك ت ب", "bs": "knjiga", "en": "books" },
-        { "w": "التَّعَلُّمِ", "root": "ع ل م", "bs": "učenje", "en": "learning" }
+        {
+          "w": "مُحِبًّا",
+          "root": "ح ب ب",
+          "bs": "ljubitelj",
+          "en": "lover",
+          "lemma": "مُحِبٌّ / مُحِبُّونَ"
+        },
+        {
+          "w": "لِلْكِتَابِ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "books",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "التَّعَلُّمِ",
+          "root": "ع ل م",
+          "bs": "učenje",
+          "en": "learning",
+          "lemma": "تَعَلُّمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["friends", "proverb", "character"]
+    "tags": [
+      "friends",
+      "proverb",
+      "character"
+    ]
   }
 }

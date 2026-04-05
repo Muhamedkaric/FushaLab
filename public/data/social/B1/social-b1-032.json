@@ -8,10 +8,34 @@
       "translation": "Komšija je pokucao na vrata i izgledao uznemireno.",
       "translationEn": "The neighbor knocked on the door and looked upset.",
       "words": [
-        { "w": "طَرَقَ", "root": "ط ر ق", "bs": "pokucao je", "en": "knocked" },
-        { "w": "الجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
-        { "w": "البَابَ", "root": "ب و ب", "bs": "vrata", "en": "door" },
-        { "w": "مُتَضَايِقًا", "root": "ض ي ق", "bs": "uznemireno", "en": "upset" }
+        {
+          "w": "طَرَقَ",
+          "root": "ط ر ق",
+          "bs": "pokucao je",
+          "en": "knocked",
+          "lemma": "طَرَقَ يَطْرُقُ"
+        },
+        {
+          "w": "الجَارُ",
+          "root": "ج و ر",
+          "bs": "komšija",
+          "en": "neighbor",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "البَابَ",
+          "root": "ب و ب",
+          "bs": "vrata",
+          "en": "door",
+          "lemma": "بَابٌ / أَبْوَابٌ"
+        },
+        {
+          "w": "مُتَضَايِقًا",
+          "root": "ض ي ق",
+          "bs": "uznemireno",
+          "en": "upset",
+          "lemma": "مُتَضَايِقٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Rekao je da je buka uznemirujuća i želi spavati.",
       "translationEn": "He said the noise is disturbing and he wants to sleep.",
       "words": [
-        { "w": "الضَّوْضَاءَ", "root": "ض و ض", "bs": "buka", "en": "noise" },
-        { "w": "مُزْعِجَةٌ", "root": "ز ع ج", "bs": "uznemirujuća", "en": "disturbing" },
-        { "w": "يُرِيدُ", "root": "ر و د", "bs": "želi", "en": "wants" },
-        { "w": "النَّوْمَ", "root": "ن و م", "bs": "spavati", "en": "sleep" }
+        {
+          "w": "الضَّوْضَاءَ",
+          "root": "ض و ض",
+          "bs": "buka",
+          "en": "noise",
+          "lemma": "ضَوْضَاءٌ"
+        },
+        {
+          "w": "مُزْعِجَةٌ",
+          "root": "ز ع ج",
+          "bs": "uznemirujuća",
+          "en": "disturbing",
+          "lemma": "مُزْعِجٌ"
+        },
+        {
+          "w": "يُرِيدُ",
+          "root": "ر و د",
+          "bs": "želi",
+          "en": "wants",
+          "lemma": "أَرَادَ يُرِيدُ"
+        },
+        {
+          "w": "النَّوْمَ",
+          "root": "ن و م",
+          "bs": "spavati",
+          "en": "sleep",
+          "lemma": "نَوْمٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Domaćin se ispričao i obećao tišinu.",
       "translationEn": "The homeowner apologized and promised quiet.",
       "words": [
-        { "w": "اعْتَذَرَ", "root": "ع ذ ر", "bs": "ispričao se", "en": "apologized" },
-        { "w": "صَاحِبُ", "root": "ص ح ب", "bs": "vlasnik", "en": "owner" },
-        { "w": "البَيْتِ", "root": "ب ي ت", "bs": "kuće", "en": "house" },
-        { "w": "وَعَدَ", "root": "و ع د", "bs": "obećao je", "en": "promised" },
-        { "w": "بِالهُدُوءِ", "root": "هـ د أ", "bs": "tišinu", "en": "quiet" }
+        {
+          "w": "اعْتَذَرَ",
+          "root": "ع ذ ر",
+          "bs": "ispričao se",
+          "en": "apologized",
+          "lemma": "اِعْتَذَرَ يَعْتَذِرُ"
+        },
+        {
+          "w": "صَاحِبُ",
+          "root": "ص ح ب",
+          "bs": "vlasnik",
+          "en": "owner",
+          "lemma": "صَاحِبٌ / أَصْحَابٌ"
+        },
+        {
+          "w": "البَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuće",
+          "en": "house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "وَعَدَ",
+          "root": "و ع د",
+          "bs": "obećao je",
+          "en": "promised",
+          "lemma": "وَعَدَ يَعِدُ"
+        },
+        {
+          "w": "بِالهُدُوءِ",
+          "root": "هـ د أ",
+          "bs": "tišinu",
+          "en": "quiet",
+          "lemma": "هُدُوءٌ"
+        }
       ]
     },
     {
@@ -42,10 +120,34 @@
       "translation": "Komšija mu je zahvalio i vratio se kući.",
       "translationEn": "The neighbor thanked him and returned to his house.",
       "words": [
-        { "w": "شَكَرَهُ", "root": "ش ك ر", "bs": "zahvalio mu je", "en": "thanked him" },
-        { "w": "الجَارُ", "root": "ج و ر", "bs": "komšija", "en": "neighbor" },
-        { "w": "رَجَعَ", "root": "ر ج ع", "bs": "vratio se", "en": "returned" },
-        { "w": "بَيْتِهِ", "root": "ب ي ت", "bs": "kući", "en": "house" }
+        {
+          "w": "شَكَرَهُ",
+          "root": "ش ك ر",
+          "bs": "zahvalio mu je",
+          "en": "thanked him",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الجَارُ",
+          "root": "ج و ر",
+          "bs": "komšija",
+          "en": "neighbor",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "رَجَعَ",
+          "root": "ر ج ع",
+          "bs": "vratio se",
+          "en": "returned",
+          "lemma": "رَجَعَ يَرْجِعُ"
+        },
+        {
+          "w": "بَيْتِهِ",
+          "root": "ب ي ت",
+          "bs": "kući",
+          "en": "house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
       ]
     }
   ],

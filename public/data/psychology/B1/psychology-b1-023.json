@@ -8,10 +8,34 @@
       "translation": "Aja je osjećala ljubomoru prema svojoj mlađoj sestri.",
       "translationEn": "Aya used to feel jealous of her younger sister.",
       "words": [
-        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća", "en": "feels" },
-        { "w": "الْغِيرَةِ", "root": "غ ي ر", "bs": "ljubomora", "en": "jealousy" },
-        { "w": "أُخْتِهَا", "root": "أ خ ت", "bs": "njena sestra", "en": "her sister" },
-        { "w": "الصَّغِيرَةِ", "root": "ص غ ر", "bs": "mlađa", "en": "younger" }
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الْغِيرَةِ",
+          "root": "غ ي ر",
+          "bs": "ljubomora",
+          "en": "jealousy",
+          "lemma": "غَيْرَةٌ"
+        },
+        {
+          "w": "أُخْتِهَا",
+          "root": "أ خ ت",
+          "bs": "njena sestra",
+          "en": "her sister",
+          "lemma": "أُخْتٌ / أَخَوَاتٌ"
+        },
+        {
+          "w": "الصَّغِيرَةِ",
+          "root": "ص غ ر",
+          "bs": "mlađa",
+          "en": "younger",
+          "lemma": "صَغِيرٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Mislila je da majka više voli njenu sestru.",
       "translationEn": "She believed that her mother loved her sister more.",
       "words": [
-        { "w": "تَعْتَقِدُ", "root": "ع ق د", "bs": "misli", "en": "believes" },
-        { "w": "أُمَّهَا", "root": "أ م م", "bs": "njena majka", "en": "her mother" },
-        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
-        { "w": "أُخْتَهَا", "root": "أ خ ت", "bs": "njena sestra", "en": "her sister" }
+        {
+          "w": "تَعْتَقِدُ",
+          "root": "ع ق د",
+          "bs": "misli",
+          "en": "believes",
+          "lemma": "اعْتَقَدَ يَعْتَقِدُ"
+        },
+        {
+          "w": "أُمَّهَا",
+          "root": "أ م م",
+          "bs": "njena majka",
+          "en": "her mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "تُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "loves",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "أُخْتَهَا",
+          "root": "أ خ ت",
+          "bs": "njena sestra",
+          "en": "her sister",
+          "lemma": "أُخْتٌ / أَخَوَاتٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Razgovarala je s majkom i saznala istinu.",
       "translationEn": "She talked with her mother and learned the truth.",
       "words": [
-        { "w": "تَكَلَّمَتْ", "root": "ك ل م", "bs": "razgovarala je", "en": "talked" },
-        { "w": "أُمِّهَا", "root": "أ م م", "bs": "njena majka", "en": "her mother" },
-        { "w": "عَرَفَتِ", "root": "ع ر ف", "bs": "saznala je", "en": "learned" },
-        { "w": "الْحَقِيقَةَ", "root": "ح ق ق", "bs": "istinu", "en": "the truth" }
+        {
+          "w": "تَكَلَّمَتْ",
+          "root": "ك ل م",
+          "bs": "razgovarala je",
+          "en": "talked",
+          "lemma": "تَكَلَّمَ يَتَكَلَّمُ"
+        },
+        {
+          "w": "أُمِّهَا",
+          "root": "أ م م",
+          "bs": "njena majka",
+          "en": "her mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "عَرَفَتِ",
+          "root": "ع ر ف",
+          "bs": "saznala je",
+          "en": "learned",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "الْحَقِيقَةَ",
+          "root": "ح ق ق",
+          "bs": "istinu",
+          "en": "the truth",
+          "lemma": "حَقِيقَةٌ / حَقَائِقُ"
+        }
       ]
     },
     {
@@ -41,14 +113,36 @@
       "translation": "Majka je rekla \"volim tebe i tvoju sestru jednako\".",
       "translationEn": "The mother said \"I love you and your sister equally\".",
       "words": [
-        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "the mother" },
-        { "w": "أَحِبُّكِ", "root": "ح ب ب", "bs": "volim te", "en": "I love you" }
+        {
+          "w": "قَالَتِ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "the mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "أَحِبُّكِ",
+          "root": "ح ب ب",
+          "bs": "volim te",
+          "en": "I love you",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["jealousy", "family", "emotions"]
+    "tags": [
+      "jealousy",
+      "family",
+      "emotions"
+    ]
   }
 }

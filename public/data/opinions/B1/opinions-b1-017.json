@@ -8,11 +8,41 @@
       "translation": "Mislim da je timski rad bolji od individualnog rada.",
       "translationEn": "I think that teamwork is better than individual work.",
       "words": [
-        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
-        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "rad", "en": "work" },
-        { "w": "الْجَمَاعِيَّ", "root": "ج م ع", "bs": "timski", "en": "teamwork" },
-        { "w": "أَفْضَلُ", "root": "ف ض ل", "bs": "bolji", "en": "better" },
-        { "w": "الْفَرْدِيِّ", "root": "ف ر د", "bs": "individualnog", "en": "individual" }
+        {
+          "w": "أَظُنُّ",
+          "root": "ظ ن ن",
+          "bs": "mislim",
+          "en": "I think",
+          "lemma": "ظَنَّ يَظُنُّ"
+        },
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْجَمَاعِيَّ",
+          "root": "ج م ع",
+          "bs": "timski",
+          "en": "teamwork",
+          "lemma": "جَمَاعِيٌّ"
+        },
+        {
+          "w": "أَفْضَلُ",
+          "root": "ف ض ل",
+          "bs": "bolji",
+          "en": "better",
+          "lemma": "أَفْضَلُ"
+        },
+        {
+          "w": "الْفَرْدِيِّ",
+          "root": "ف ر د",
+          "bs": "individualnog",
+          "en": "individual",
+          "lemma": "فَرْدِيٌّ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Kada radimo zajedno, postignemo više u kraćem vremenu.",
       "translationEn": "When we work together we achieve more in less time.",
       "words": [
-        { "w": "نَعْمَلُ", "root": "ع م ل", "bs": "radimo", "en": "we work" },
-        { "w": "نُنْجِزُ", "root": "ن ج ز", "bs": "postignemo", "en": "we achieve" },
-        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više", "en": "more" },
-        { "w": "وَقْتٍ", "root": "و ق ت", "bs": "vremenu", "en": "time" },
-        { "w": "أَقَلَّ", "root": "ق ل ل", "bs": "kraćem", "en": "less" }
+        {
+          "w": "نَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radimo",
+          "en": "we work",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "نُنْجِزُ",
+          "root": "ن ج ز",
+          "bs": "postignemo",
+          "en": "we achieve",
+          "lemma": "أَنْجَزَ يُنْجِزُ"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "root": "ك ث ر",
+          "bs": "više",
+          "en": "more",
+          "lemma": "أَكْثَرُ"
+        },
+        {
+          "w": "وَقْتٍ",
+          "root": "و ق ت",
+          "bs": "vremenu",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "أَقَلَّ",
+          "root": "ق ل ل",
+          "bs": "kraćem",
+          "en": "less",
+          "lemma": "أَقَلُّ"
+        }
       ]
     },
     {
@@ -32,11 +92,41 @@
       "translation": "Svaka osoba donosi grupi novu ideju.",
       "translationEn": "Every person brings a new idea to the group.",
       "words": [
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
-        { "w": "يَجْلِبُ", "root": "ج ل ب", "bs": "donosi", "en": "brings" },
-        { "w": "فِكْرَةً", "root": "ف ك ر", "bs": "ideju", "en": "idea" },
-        { "w": "جَدِيدَةً", "root": "ج د د", "bs": "novu", "en": "new" },
-        { "w": "لِلْمَجْمُوعَةِ", "root": "ج م ع", "bs": "grupi", "en": "group" }
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "يَجْلِبُ",
+          "root": "ج ل ب",
+          "bs": "donosi",
+          "en": "brings",
+          "lemma": "جَلَبَ يَجْلِبُ"
+        },
+        {
+          "w": "فِكْرَةً",
+          "root": "ف ك ر",
+          "bs": "ideju",
+          "en": "idea",
+          "lemma": "فِكْرَةٌ / أَفْكَارٌ"
+        },
+        {
+          "w": "جَدِيدَةً",
+          "root": "ج د د",
+          "bs": "novu",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "لِلْمَجْمُوعَةِ",
+          "root": "ج م ع",
+          "bs": "grupi",
+          "en": "group",
+          "lemma": "مَجْمُوعَةٌ / مَجْمُوعَاتٌ"
+        }
       ]
     },
     {
@@ -44,15 +134,44 @@
       "translation": "Više volim raditi s drugima jer je zabavno.",
       "translationEn": "I prefer working with others because it is enjoyable.",
       "words": [
-        { "w": "أُفَضِّلُ", "root": "ف ض ل", "bs": "više volim", "en": "I prefer" },
-        { "w": "الْعَمَلَ", "root": "ع م ل", "bs": "raditi", "en": "working" },
-        { "w": "الْآخَرِينَ", "root": "أ خ ر", "bs": "drugima", "en": "others" },
-        { "w": "مُمْتِعٌ", "root": "م ت ع", "bs": "zabavno", "en": "enjoyable" }
+        {
+          "w": "أُفَضِّلُ",
+          "root": "ف ض ل",
+          "bs": "više volim",
+          "en": "I prefer",
+          "lemma": "فَضَّلَ يُفَضِّلُ"
+        },
+        {
+          "w": "الْعَمَلَ",
+          "root": "ع م ل",
+          "bs": "raditi",
+          "en": "working",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْآخَرِينَ",
+          "root": "أ خ ر",
+          "bs": "drugima",
+          "en": "others",
+          "lemma": "آخَرُ / آخَرُونَ"
+        },
+        {
+          "w": "مُمْتِعٌ",
+          "root": "م ت ع",
+          "bs": "zabavno",
+          "en": "enjoyable",
+          "lemma": "مُمْتِعٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "teamwork", "cooperation", "work"]
+    "tags": [
+      "opinion",
+      "teamwork",
+      "cooperation",
+      "work"
+    ]
   }
 }

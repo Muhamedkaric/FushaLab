@@ -12,25 +12,29 @@
           "w": "تَتَنَاوَلُ",
           "root": "ن و ل",
           "bs": "doručkuje",
-          "en": "has"
+          "en": "has",
+          "lemma": "تَنَاوَلَ يَتَنَاوَلُ"
         },
         {
           "w": "وَجْبَةَ",
           "root": "و ج ب",
           "bs": "obrok",
-          "en": "meal"
+          "en": "meal",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
         },
         {
           "w": "الْإِفْطَارِ",
           "root": "ف ط ر",
           "bs": "doručak",
-          "en": "breakfast"
+          "en": "breakfast",
+          "lemma": "إِفْطَارٌ"
         },
         {
           "w": "صَبَاحٍ",
           "root": "ص ب ح",
           "bs": "jutro",
-          "en": "morning"
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
         }
       ]
     },
@@ -43,31 +47,36 @@
           "w": "تَأْكُلُ",
           "root": "أ ك ل",
           "bs": "jede",
-          "en": "eats"
+          "en": "eats",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "الْبَيْضَ",
           "root": "ب ي ض",
           "bs": "jaja",
-          "en": "eggs"
+          "en": "eggs",
+          "lemma": "بَيْضٌ / بَيْضَةٌ"
         },
         {
           "w": "الْخُبْزَ",
           "root": "خ ب ز",
           "bs": "hljeb",
-          "en": "bread"
+          "en": "bread",
+          "lemma": "خُبْزٌ"
         },
         {
           "w": "تَشْرَبُ",
           "root": "ش ر ب",
           "bs": "pije",
-          "en": "drinks"
+          "en": "drinks",
+          "lemma": "شَرِبَ يَشْرَبُ"
         },
         {
           "w": "اللَّبَنَ",
           "root": "ل ب ن",
           "bs": "mlijeko",
-          "en": "milk"
+          "en": "milk",
+          "lemma": "لَبَنٌ"
         }
       ]
     },
@@ -80,25 +89,29 @@
           "w": "الْإِفْطَارَ",
           "root": "ف ط ر",
           "bs": "doručak",
-          "en": "breakfast"
+          "en": "breakfast",
+          "lemma": "إِفْطَارٌ"
         },
         {
           "w": "يُعِينُهَا",
           "root": "ع و ن",
           "bs": "pomaže joj",
-          "en": "helps her"
+          "en": "helps her",
+          "lemma": "أَعَانَ يُعِينُ"
         },
         {
           "w": "التَّرْكِيزِ",
           "root": "ر ك ز",
           "bs": "koncentracija",
-          "en": "concentration"
+          "en": "concentration",
+          "lemma": "تَرْكِيزٌ"
         },
         {
           "w": "الدِّرَاسَةِ",
           "root": "د ر س",
           "bs": "učenje",
-          "en": "studying"
+          "en": "studying",
+          "lemma": "دِرَاسَةٌ"
         }
       ]
     },
@@ -111,13 +124,15 @@
           "w": "تَخْرُجُ",
           "root": "خ ر ج",
           "bs": "izlazi",
-          "en": "leaves"
+          "en": "leaves",
+          "lemma": "خَرَجَ يَخْرُجُ"
         },
         {
           "w": "تَأْكُلَ",
           "root": "أ ك ل",
           "bs": "pojede",
-          "en": "eat"
+          "en": "eat",
+          "lemma": "أَكَلَ يَأْكُلُ"
         }
       ]
     },
@@ -130,25 +145,29 @@
           "w": "صِحَّتُهَا",
           "root": "ص ح ح",
           "bs": "njeno zdravlje",
-          "en": "her health"
+          "en": "her health",
+          "lemma": "صِحَّةٌ"
         },
         {
           "w": "جَيِّدَةٌ",
           "root": "ج و د",
           "bs": "dobro",
-          "en": "good"
+          "en": "good",
+          "lemma": "جَيِّدٌ"
         },
         {
           "w": "تَشْعُرُ",
           "root": "ش ع ر",
           "bs": "osjeća se",
-          "en": "feels"
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
         },
         {
           "w": "بِالنَّشَاطِ",
           "root": "ن ش ط",
           "bs": "aktivno",
-          "en": "active"
+          "en": "active",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
         }
       ]
     }

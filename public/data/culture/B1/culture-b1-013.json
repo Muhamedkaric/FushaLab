@@ -8,9 +8,27 @@
       "translation": "Djevojka uči šivanje od majke.",
       "translationEn": "The girl learns sewing from her mother.",
       "words": [
-        { "w": "تَتَعَلَّمُ", "root": "ع ل م", "bs": "uči", "en": "learns" },
-        { "w": "البِنْتُ", "root": "ب ن ت", "bs": "djevojka", "en": "girl" },
-        { "w": "الخِيَاطَةَ", "root": "خ ي ط", "bs": "šivanje", "en": "sewing" }
+        {
+          "w": "تَتَعَلَّمُ",
+          "root": "ع ل م",
+          "bs": "uči",
+          "en": "learns",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "البِنْتُ",
+          "root": "ب ن ت",
+          "bs": "djevojka",
+          "en": "girl",
+          "lemma": "بِنْتٌ / بَنَاتٌ"
+        },
+        {
+          "w": "الخِيَاطَةَ",
+          "root": "خ ي ط",
+          "bs": "šivanje",
+          "en": "sewing",
+          "lemma": "خِيَاطَةٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Majka šije lijepu odjeću rukama.",
       "translationEn": "The mother makes beautiful clothes with her hands.",
       "words": [
-        { "w": "تَصْنَعُ", "root": "ص ن ع", "bs": "šije", "en": "makes" },
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "مَلَابِسَ", "root": "ل ب س", "bs": "odjeću", "en": "clothes" },
-        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijepu", "en": "beautiful" }
+        {
+          "w": "تَصْنَعُ",
+          "root": "ص ن ع",
+          "bs": "šije",
+          "en": "makes",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "مَلَابِسَ",
+          "root": "ل ب س",
+          "bs": "odjeću",
+          "en": "clothes",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijepu",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Ručni radovi su stara baština.",
       "translationEn": "Handicrafts are an old heritage.",
       "words": [
-        { "w": "الصِّنَاعَاتُ", "root": "ص ن ع", "bs": "zanati", "en": "crafts" },
-        { "w": "اليَدَوِيَّةُ", "root": "ي د ي", "bs": "ručni", "en": "handmade" },
-        { "w": "تُرَاثٌ", "root": "و ر ث", "bs": "baština", "en": "heritage" },
-        { "w": "قَدِيمٌ", "root": "ق د م", "bs": "stara", "en": "old" }
+        {
+          "w": "الصِّنَاعَاتُ",
+          "root": "ص ن ع",
+          "bs": "zanati",
+          "en": "crafts",
+          "lemma": "صِنَاعَةٌ / صِنَاعَاتٌ"
+        },
+        {
+          "w": "اليَدَوِيَّةُ",
+          "root": "ي د ي",
+          "bs": "ručni",
+          "en": "handmade",
+          "lemma": "يَدَوِيٌّ"
+        },
+        {
+          "w": "تُرَاثٌ",
+          "root": "و ر ث",
+          "bs": "baština",
+          "en": "heritage",
+          "lemma": "تُرَاثٌ / تُرَاثَاتٌ"
+        },
+        {
+          "w": "قَدِيمٌ",
+          "root": "ق د م",
+          "bs": "stara",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        }
       ]
     },
     {
@@ -40,10 +106,34 @@
       "translation": "Žene prodaju svoje proizvode na pijaci.",
       "translationEn": "Women sell their products at the market.",
       "words": [
-        { "w": "تَبِيعُ", "root": "ب ي ع", "bs": "prodaju", "en": "sell" },
-        { "w": "النِّسَاءُ", "root": "ن س و", "bs": "žene", "en": "women" },
-        { "w": "مَنْتُوجَاتِهِنَّ", "root": "ن ت ج", "bs": "proizvode", "en": "products" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijaci", "en": "market" }
+        {
+          "w": "تَبِيعُ",
+          "root": "ب ي ع",
+          "bs": "prodaju",
+          "en": "sell",
+          "lemma": "بَاعَ يَبِيعُ"
+        },
+        {
+          "w": "النِّسَاءُ",
+          "root": "ن س و",
+          "bs": "žene",
+          "en": "women",
+          "lemma": "اِمْرَأَةٌ / نِسَاءٌ"
+        },
+        {
+          "w": "مَنْتُوجَاتِهِنَّ",
+          "root": "ن ت ج",
+          "bs": "proizvode",
+          "en": "products",
+          "lemma": "مَنْتُوجٌ / مَنْتُوجَاتٌ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "pijaci",
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        }
       ]
     }
   ],

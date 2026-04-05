@@ -12,24 +12,28 @@
           "w": "نَادِي",
           "root": "ن د و",
           "bs": "klub",
-          "en": "club"
+          "en": "club",
+          "lemma": "نَادٍ / أَنْدِيَةٌ"
         },
         {
           "w": "حَفْلَةً",
           "root": "ح ف ل",
           "bs": "koncert",
-          "en": "concert"
+          "en": "concert",
+          "lemma": "حَفْلَةٌ / حَفَلَاتٌ"
         },
         {
           "w": "مُوسِيقِيَّةً",
           "bs": "muzički",
-          "en": "music"
+          "en": "music",
+          "lemma": "مُوسِيقِيٌّ"
         },
         {
           "w": "الطُّلَّابِ",
           "root": "ط ل ب",
           "bs": "učenika",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         }
       ]
     },
@@ -42,25 +46,29 @@
           "w": "عَزَفَ",
           "root": "ع ز ف",
           "bs": "svirao je",
-          "en": "played"
+          "en": "played",
+          "lemma": "عَزَفَ يَعْزِفُ"
         },
         {
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "مَقَاطِعَ",
           "root": "ق ط ع",
           "bs": "komade",
-          "en": "pieces"
+          "en": "pieces",
+          "lemma": "مَقْطَعٌ / مَقَاطِعُ"
         },
         {
           "w": "جَمِيلَةً",
           "root": "ج م ل",
           "bs": "lijepe",
-          "en": "beautiful"
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
         }
       ]
     },
@@ -73,19 +81,22 @@
           "w": "حَضَرَ",
           "root": "ح ض ر",
           "bs": "prisustvovao je",
-          "en": "attended"
+          "en": "attended",
+          "lemma": "حَضَرَ يَحْضُرُ"
         },
         {
           "w": "آبَاءُ",
           "root": "أ ب و",
           "bs": "roditelji",
-          "en": "parents"
+          "en": "parents",
+          "lemma": "أَبٌ / آبَاءٌ"
         },
         {
           "w": "صَفَّقُوا",
           "root": "ص ف ق",
           "bs": "pljeskom su pozdravili",
-          "en": "applauded"
+          "en": "applauded",
+          "lemma": "صَفَّقَ يُصَفِّقُ"
         }
       ]
     },
@@ -98,19 +109,22 @@
           "w": "الْمُدِيرُ",
           "root": "د و ر",
           "bs": "direktor",
-          "en": "principal"
+          "en": "principal",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
         },
         {
           "w": "أَبْدَعُوا",
           "root": "ب د ع",
           "bs": "bili su odlični",
-          "en": "excelled"
+          "en": "excelled",
+          "lemma": "أَبْدَعَ يُبْدِعُ"
         },
         {
           "w": "الأَدَاءِ",
           "root": "أ د و",
           "bs": "izvedbi",
-          "en": "performance"
+          "en": "performance",
+          "lemma": "أَدَاءٌ / أَدَاءَاتٌ"
         }
       ]
     }

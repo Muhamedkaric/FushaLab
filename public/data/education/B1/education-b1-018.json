@@ -12,19 +12,22 @@
           "w": "يَبْدَأُ",
           "root": "ب د أ",
           "bs": "počinje",
-          "en": "starts"
+          "en": "starts",
+          "lemma": "بَدَأَ يَبْدَأُ"
         },
         {
           "w": "الدَّرْسُ",
           "root": "د ر س",
           "bs": "čas",
-          "en": "class"
+          "en": "class",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
         },
         {
           "w": "صَبَاحًا",
           "root": "ص ب ح",
           "bs": "ujutro",
-          "en": "in the morning"
+          "en": "in the morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
         }
       ]
     },
@@ -37,25 +40,29 @@
           "w": "يَنْتَهِي",
           "root": "ن ه ي",
           "bs": "završava",
-          "en": "ends"
+          "en": "ends",
+          "lemma": "اِنْتَهَى يَنْتَهِي"
         },
         {
           "w": "الدَّرْسُ",
           "root": "د ر س",
           "bs": "čas",
-          "en": "class"
+          "en": "class",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
         },
         {
           "w": "خَمْسٍ",
           "root": "خ م س",
           "bs": "pet",
-          "en": "five"
+          "en": "five",
+          "lemma": "خَمْسَةٌ"
         },
         {
           "w": "دَقِيقَةً",
           "root": "د ق ق",
           "bs": "minuta",
-          "en": "minutes"
+          "en": "minutes",
+          "lemma": "دَقِيقَةٌ / دَقَائِقُ"
         }
       ]
     },
@@ -68,31 +75,36 @@
           "w": "يَخْرُجُ",
           "root": "خ ر ج",
           "bs": "izlaze",
-          "en": "go out"
+          "en": "go out",
+          "lemma": "خَرَجَ يَخْرُجُ"
         },
         {
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "لِلاِسْتِرَاحَةِ",
           "root": "ر و ح",
           "bs": "na odmor",
-          "en": "for break"
+          "en": "for break",
+          "lemma": "اِسْتِرَاحَةٌ / اِسْتِرَاحَاتٌ"
         },
         {
           "w": "يَلْعَبُونَ",
           "root": "ل ع ب",
           "bs": "igraju se",
-          "en": "play"
+          "en": "play",
+          "lemma": "لَعِبَ يَلْعَبُ"
         },
         {
           "w": "الفِنَاءِ",
           "root": "ف ن و",
           "bs": "dvorište",
-          "en": "yard"
+          "en": "yard",
+          "lemma": "فِنَاءٌ / أَفْنِيَةٌ"
         }
       ]
     },
@@ -105,25 +117,29 @@
           "w": "يَعُودُونَ",
           "root": "ع و د",
           "bs": "vraćaju se",
-          "en": "return"
+          "en": "return",
+          "lemma": "عَادَ يَعُودُ"
         },
         {
           "w": "الفَصْلِ",
           "root": "ف ص ل",
           "bs": "razred",
-          "en": "class"
+          "en": "class",
+          "lemma": "فَصْلٌ / فُصُولٌ"
         },
         {
           "w": "يَسْمَعُونَ",
           "root": "س م ع",
           "bs": "čuju",
-          "en": "hear"
+          "en": "hear",
+          "lemma": "سَمِعَ يَسْمَعُ"
         },
         {
           "w": "الجَرَسَ",
           "root": "ج ر س",
           "bs": "zvono",
-          "en": "bell"
+          "en": "bell",
+          "lemma": "جَرَسٌ / أَجْرَاسٌ"
         }
       ]
     }

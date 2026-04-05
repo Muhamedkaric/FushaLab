@@ -8,9 +8,27 @@
       "translation": "Poslovica kaže: «Ne odgađaj posao od danas na sutra».",
       "translationEn": "The proverb says: «Do not postpone today's work until tomorrow».",
       "words": [
-        { "w": "تُؤَجِّلْ", "root": "أ ج ل", "bs": "odgađaj", "en": "postpone" },
-        { "w": "عَمَلَ", "root": "ع م ل", "bs": "posao", "en": "work" },
-        { "w": "الْغَدِ", "root": "غ د و", "bs": "sutra", "en": "tomorrow" }
+        {
+          "w": "تُؤَجِّلْ",
+          "root": "أ ج ل",
+          "bs": "odgađaj",
+          "en": "postpone",
+          "lemma": "أَجَّلَ يُؤَجِّلُ"
+        },
+        {
+          "w": "عَمَلَ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْغَدِ",
+          "root": "غ د و",
+          "bs": "sutra",
+          "en": "tomorrow",
+          "lemma": "غَدٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "To znači da odgađanje poslova uzrokuje probleme.",
       "translationEn": "This means that postponing tasks causes problems.",
       "words": [
-        { "w": "تَأْجِيلَ", "root": "أ ج ل", "bs": "odgađanje", "en": "postponing" },
-        { "w": "الأَعْمَالِ", "root": "ع م ل", "bs": "poslovi", "en": "tasks" },
-        { "w": "يُسَبِّبُ", "root": "س ب ب", "bs": "uzrokuje", "en": "causes" },
-        { "w": "مَشَاكِلَ", "root": "ش ك ل", "bs": "problemi", "en": "problems" }
+        {
+          "w": "تَأْجِيلَ",
+          "root": "أ ج ل",
+          "bs": "odgađanje",
+          "en": "postponing",
+          "lemma": "تَأْجِيلٌ / تَأْجِيلَاتٌ"
+        },
+        {
+          "w": "الأَعْمَالِ",
+          "root": "ع م ل",
+          "bs": "poslovi",
+          "en": "tasks",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "يُسَبِّبُ",
+          "root": "س ب ب",
+          "bs": "uzrokuje",
+          "en": "causes",
+          "lemma": "سَبَّبَ يُسَبِّبُ"
+        },
+        {
+          "w": "مَشَاكِلَ",
+          "root": "ش ك ل",
+          "bs": "problemi",
+          "en": "problems",
+          "lemma": "مُشْكِلَةٌ / مَشَاكِلُ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Tahir je odgađao pisanje domaće zadaće do posljednje večeri.",
       "translationEn": "Tahir postponed writing the homework until the last night.",
       "words": [
-        { "w": "أَجَّلَ", "root": "أ ج ل", "bs": "odgađao je", "en": "postponed" },
-        { "w": "كِتَابَةَ", "root": "ك ت ب", "bs": "pisanje", "en": "writing" },
-        { "w": "الْوَاجِبِ", "root": "و ج ب", "bs": "domaća zadaća", "en": "homework" }
+        {
+          "w": "أَجَّلَ",
+          "root": "أ ج ل",
+          "bs": "odgađao je",
+          "en": "postponed",
+          "lemma": "أَجَّلَ يُؤَجِّلُ"
+        },
+        {
+          "w": "كِتَابَةَ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "writing",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "الْوَاجِبِ",
+          "root": "و ج ب",
+          "bs": "domaća zadaća",
+          "en": "homework",
+          "lemma": "وَاجِبٌ / وَاجِبَاتٌ"
+        }
       ]
     },
     {
@@ -39,14 +99,36 @@
       "translation": "Bio je umoran i nije napisao domaću zadaću kako treba.",
       "translationEn": "He was tired and did not write the homework well.",
       "words": [
-        { "w": "مُتْعَبًا", "root": "ت ع ب", "bs": "umoran", "en": "tired" },
-        { "w": "يَكْتُبِ", "root": "ك ت ب", "bs": "napisao je", "en": "write" },
-        { "w": "الْوَاجِبَ", "root": "و ج ب", "bs": "domaća zadaća", "en": "homework" }
+        {
+          "w": "مُتْعَبًا",
+          "root": "ت ع ب",
+          "bs": "umoran",
+          "en": "tired",
+          "lemma": "مُتْعَبٌ"
+        },
+        {
+          "w": "يَكْتُبِ",
+          "root": "ك ت ب",
+          "bs": "napisao je",
+          "en": "write",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "الْوَاجِبَ",
+          "root": "و ج ب",
+          "bs": "domaća zadaća",
+          "en": "homework",
+          "lemma": "وَاجِبٌ / وَاجِبَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["procrastination", "proverb", "school"]
+    "tags": [
+      "procrastination",
+      "proverb",
+      "school"
+    ]
   }
 }

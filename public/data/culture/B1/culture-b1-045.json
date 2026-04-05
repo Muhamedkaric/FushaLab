@@ -8,11 +8,41 @@
       "translation": "Otac fotografira porodicu na proslavama.",
       "translationEn": "The father takes a photo of the family at occasions.",
       "words": [
-        { "w": "يَلْتَقِطُ", "root": "ل ق ط", "bs": "fotografira", "en": "takes a photo" },
-        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
-        { "w": "صُورَةً", "root": "ص و ر", "bs": "fotografiju", "en": "photo" },
-        { "w": "الأُسْرَةِ", "root": "أ س ر", "bs": "porodice", "en": "family" },
-        { "w": "المُنَاسَبَاتِ", "root": "ن س ب", "bs": "proslavama", "en": "occasions" }
+        {
+          "w": "يَلْتَقِطُ",
+          "root": "ل ق ط",
+          "bs": "fotografira",
+          "en": "takes a photo",
+          "lemma": "الْتَقَطَ يَلْتَقِطُ"
+        },
+        {
+          "w": "الأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "صُورَةً",
+          "root": "ص و ر",
+          "bs": "fotografiju",
+          "en": "photo",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "الأُسْرَةِ",
+          "root": "أ س ر",
+          "bs": "porodice",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "المُنَاسَبَاتِ",
+          "root": "ن س ب",
+          "bs": "proslavama",
+          "en": "occasions",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,33 @@
       "translation": "Svi stoje ispred kamere i smiješе se.",
       "translationEn": "Everyone stands in front of the camera and smiles.",
       "words": [
-        { "w": "يَقِفُ", "root": "و ق ف", "bs": "stoje", "en": "stand" },
-        { "w": "الجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
-        { "w": "الكَامِيرَا", "bs": "kamera", "en": "camera" },
-        { "w": "يَبْتَسِمُونَ", "root": "ب س م", "bs": "smiješe se", "en": "smile" }
+        {
+          "w": "يَقِفُ",
+          "root": "و ق ف",
+          "bs": "stoje",
+          "en": "stand",
+          "lemma": "وَقَفَ يَقِفُ"
+        },
+        {
+          "w": "الجَمِيعُ",
+          "root": "ج م ع",
+          "bs": "svi",
+          "en": "everyone",
+          "lemma": "جَمِيعٌ"
+        },
+        {
+          "w": "الكَامِيرَا",
+          "bs": "kamera",
+          "en": "camera",
+          "lemma": "كَامِيرَا"
+        },
+        {
+          "w": "يَبْتَسِمُونَ",
+          "root": "ب س م",
+          "bs": "smiješe se",
+          "en": "smile",
+          "lemma": "اِبْتَسَمَ يَبْتَسِمُ"
+        }
       ]
     },
     {
@@ -31,11 +84,41 @@
       "translation": "Stare fotografije podsjećaju nas na lijepe trenutke.",
       "translationEn": "Old photos remind us of beautiful moments.",
       "words": [
-        { "w": "الصُّوَرُ", "root": "ص و ر", "bs": "fotografije", "en": "photos" },
-        { "w": "القَدِيمَةُ", "root": "ق د م", "bs": "stare", "en": "old" },
-        { "w": "تُذَكِّرُنَا", "root": "ذ ك ر", "bs": "podsjećaju nas", "en": "remind us" },
-        { "w": "اللَّحَظَاتِ", "root": "ل ح ظ", "bs": "trenucima", "en": "moments" },
-        { "w": "الجَمِيلَةِ", "root": "ج م ل", "bs": "lijepim", "en": "beautiful" }
+        {
+          "w": "الصُّوَرُ",
+          "root": "ص و ر",
+          "bs": "fotografije",
+          "en": "photos",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        },
+        {
+          "w": "القَدِيمَةُ",
+          "root": "ق د م",
+          "bs": "stare",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "تُذَكِّرُنَا",
+          "root": "ذ ك ر",
+          "bs": "podsjećaju nas",
+          "en": "remind us",
+          "lemma": "ذَكَّرَ يُذَكِّرُ"
+        },
+        {
+          "w": "اللَّحَظَاتِ",
+          "root": "ل ح ظ",
+          "bs": "trenucima",
+          "en": "moments",
+          "lemma": "لَحْظَةٌ / لَحَظَاتٌ"
+        },
+        {
+          "w": "الجَمِيلَةِ",
+          "root": "ج م ل",
+          "bs": "lijepim",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -43,10 +126,34 @@
       "translation": "Majka voli čuvati fotografije u albumu.",
       "translationEn": "The mother loves to keep photos in an album.",
       "words": [
-        { "w": "تُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
-        { "w": "الأُمُّ", "root": "أ م م", "bs": "majka", "en": "mother" },
-        { "w": "تَحْفَظَ", "root": "ح ف ظ", "bs": "čuvati", "en": "keep" },
-        { "w": "الصُّوَرَ", "root": "ص و ر", "bs": "fotografije", "en": "photos" }
+        {
+          "w": "تُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "loves",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الأُمُّ",
+          "root": "أ م م",
+          "bs": "majka",
+          "en": "mother",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "تَحْفَظَ",
+          "root": "ح ف ظ",
+          "bs": "čuvati",
+          "en": "keep",
+          "lemma": "حَفِظَ يَحْفَظُ"
+        },
+        {
+          "w": "الصُّوَرَ",
+          "root": "ص و ر",
+          "bs": "fotografije",
+          "en": "photos",
+          "lemma": "صُورَةٌ / صُوَرٌ"
+        }
       ]
     },
     {
@@ -54,10 +161,34 @@
       "translation": "Uspomene su najvrjednije u životu.",
       "translationEn": "Memories are the most precious thing in life.",
       "words": [
-        { "w": "الذِّكْرَيَاتُ", "root": "ذ ك ر", "bs": "uspomene", "en": "memories" },
-        { "w": "أَثْمَنُ", "root": "ث م ن", "bs": "najvrjednije", "en": "most precious" },
-        { "w": "شَيْءٍ", "root": "ش ي أ", "bs": "stvar", "en": "thing" },
-        { "w": "الحَيَاةِ", "root": "ح ي ي", "bs": "životu", "en": "life" }
+        {
+          "w": "الذِّكْرَيَاتُ",
+          "root": "ذ ك ر",
+          "bs": "uspomene",
+          "en": "memories",
+          "lemma": "ذِكْرَى / ذِكْرَيَاتٌ"
+        },
+        {
+          "w": "أَثْمَنُ",
+          "root": "ث م ن",
+          "bs": "najvrjednije",
+          "en": "most precious",
+          "lemma": "ثَمِينٌ / أَثْمَنُ"
+        },
+        {
+          "w": "شَيْءٍ",
+          "root": "ش ي أ",
+          "bs": "stvar",
+          "en": "thing",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "الحَيَاةِ",
+          "root": "ح ي ي",
+          "bs": "životu",
+          "en": "life",
+          "lemma": "حَيَاةٌ / حَيَوَاتٌ"
+        }
       ]
     }
   ],

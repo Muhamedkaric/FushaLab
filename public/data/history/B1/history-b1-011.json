@@ -8,11 +8,41 @@
       "translation": "Seljak je sijao pšenicu na svom velikom polju.",
       "translationEn": "The farmer used to sow wheat in his large field.",
       "words": [
-        { "w": "الْفَلَّاحُ", "root": "ف ل ح", "bs": "seljak", "en": "the farmer" },
-        { "w": "يَزْرَعُ", "root": "ز ر ع", "bs": "sije", "en": "sows" },
-        { "w": "الْقَمْحَ", "root": "ق م ح", "bs": "pšenicu", "en": "wheat" },
-        { "w": "حَقْلِهِ", "root": "ح ق ل", "bs": "njegovo polje", "en": "his field" },
-        { "w": "الْكَبِيرِ", "root": "ك ب ر", "bs": "veliko", "en": "large" }
+        {
+          "w": "الْفَلَّاحُ",
+          "root": "ف ل ح",
+          "bs": "seljak",
+          "en": "the farmer",
+          "lemma": "فَلَّاحٌ / فَلَّاحُونَ"
+        },
+        {
+          "w": "يَزْرَعُ",
+          "root": "ز ر ع",
+          "bs": "sije",
+          "en": "sows",
+          "lemma": "زَرَعَ يَزْرَعُ"
+        },
+        {
+          "w": "الْقَمْحَ",
+          "root": "ق م ح",
+          "bs": "pšenicu",
+          "en": "wheat",
+          "lemma": "قَمْحٌ"
+        },
+        {
+          "w": "حَقْلِهِ",
+          "root": "ح ق ل",
+          "bs": "njegovo polje",
+          "en": "his field",
+          "lemma": "حَقْلٌ / حُقُولٌ"
+        },
+        {
+          "w": "الْكَبِيرِ",
+          "root": "ك ب ر",
+          "bs": "veliko",
+          "en": "large",
+          "lemma": "كَبِيرٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Ustajao je rano i radio cijeli dan.",
       "translationEn": "He would wake up early and work throughout the day.",
       "words": [
-        { "w": "يَسْتَيْقِظُ", "root": "ي ق ظ", "bs": "budi se", "en": "wakes up" },
-        { "w": "مُبَكِّرًا", "root": "ب ك ر", "bs": "rano", "en": "early" },
-        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" }
+        {
+          "w": "يَسْتَيْقِظُ",
+          "root": "ي ق ظ",
+          "bs": "budi se",
+          "en": "wakes up",
+          "lemma": "اسْتَيْقَظَ يَسْتَيْقِظُ"
+        },
+        {
+          "w": "مُبَكِّرًا",
+          "root": "ب ك ر",
+          "bs": "rano",
+          "en": "early",
+          "lemma": "مُبَكِّرٌ"
+        },
+        {
+          "w": "يَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Sakupljao je pšenicu u jesen i stavljao je u skladište.",
       "translationEn": "He collected the wheat in autumn and stored it in the storehouse.",
       "words": [
-        { "w": "جَمَعَ", "root": "ج م ع", "bs": "sakupljao je", "en": "collected" },
-        { "w": "الْقَمْحَ", "root": "ق م ح", "bs": "pšenicu", "en": "the wheat" },
-        { "w": "الْخَرِيفِ", "root": "خ ر ف", "bs": "jesen", "en": "autumn" },
-        { "w": "الْمَخْزَنَ", "root": "خ ز ن", "bs": "skladište", "en": "the storehouse" }
+        {
+          "w": "جَمَعَ",
+          "root": "ج م ع",
+          "bs": "sakupljao je",
+          "en": "collected",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "الْقَمْحَ",
+          "root": "ق م ح",
+          "bs": "pšenicu",
+          "en": "the wheat",
+          "lemma": "قَمْحٌ"
+        },
+        {
+          "w": "الْخَرِيفِ",
+          "root": "خ ر ف",
+          "bs": "jesen",
+          "en": "autumn",
+          "lemma": "خَرِيفٌ"
+        },
+        {
+          "w": "الْمَخْزَنَ",
+          "root": "خ ز ن",
+          "bs": "skladište",
+          "en": "the storehouse",
+          "lemma": "مَخْزَنٌ / مَخَازِنُ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Njegova porodica bila je sretna zbog dobre sezone.",
       "translationEn": "His family was happy with the good harvest season.",
       "words": [
-        { "w": "أُسْرَتُهُ", "root": "أ س ر", "bs": "njegova porodica", "en": "his family" },
-        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
-        { "w": "الْمَوْسِمِ", "root": "و س م", "bs": "sezona", "en": "the season" },
-        { "w": "الْجَيِّدِ", "root": "ج ي د", "bs": "dobra", "en": "good" }
+        {
+          "w": "أُسْرَتُهُ",
+          "root": "أ س ر",
+          "bs": "njegova porodica",
+          "en": "his family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "سَعِيدَةً",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "الْمَوْسِمِ",
+          "root": "و س م",
+          "bs": "sezona",
+          "en": "the season",
+          "lemma": "مَوْسِمٌ / مَوَاسِمُ"
+        },
+        {
+          "w": "الْجَيِّدِ",
+          "root": "ج ي د",
+          "bs": "dobra",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["farming", "wheat", "seasons"]
+    "tags": [
+      "farming",
+      "wheat",
+      "seasons"
+    ]
   }
 }

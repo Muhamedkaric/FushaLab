@@ -8,10 +8,34 @@
       "translation": "Učenici su čuli poslovicu: «Tražilac znanja ne stari».",
       "translationEn": "The students heard the proverb: «The seeker of knowledge does not grow old».",
       "words": [
-        { "w": "الطُّلَّابُ", "root": "ط ل ب", "bs": "učenici", "en": "students" },
-        { "w": "طَالِبُ", "root": "ط ل ب", "bs": "tražilac", "en": "seeker" },
-        { "w": "الْعِلْمِ", "root": "ع ل م", "bs": "znanje", "en": "knowledge" },
-        { "w": "يَشِيخُ", "root": "ش ي خ", "bs": "stari", "en": "grows old" }
+        {
+          "w": "الطُّلَّابُ",
+          "root": "ط ل ب",
+          "bs": "učenici",
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "طَالِبُ",
+          "root": "ط ل ب",
+          "bs": "tražilac",
+          "en": "seeker",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الْعِلْمِ",
+          "root": "ع ل م",
+          "bs": "znanje",
+          "en": "knowledge",
+          "lemma": "عِلْمٌ / عُلُومٌ"
+        },
+        {
+          "w": "يَشِيخُ",
+          "root": "ش ي خ",
+          "bs": "stari",
+          "en": "grows old",
+          "lemma": "شَاخَ يَشِيخُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "To znači da učenje drži um živim i aktivnim.",
       "translationEn": "This means that learning keeps the mind alive and active.",
       "words": [
-        { "w": "التَّعَلُّمَ", "root": "ع ل م", "bs": "učenje", "en": "learning" },
-        { "w": "الْعَقْلَ", "root": "ع ق ل", "bs": "um", "en": "mind" },
-        { "w": "حَيًّا", "root": "ح ي ي", "bs": "živim", "en": "alive" },
-        { "w": "نَشِيطًا", "root": "ن ش ط", "bs": "aktivnim", "en": "active" }
+        {
+          "w": "التَّعَلُّمَ",
+          "root": "ع ل م",
+          "bs": "učenje",
+          "en": "learning",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الْعَقْلَ",
+          "root": "ع ق ل",
+          "bs": "um",
+          "en": "mind",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        },
+        {
+          "w": "حَيًّا",
+          "root": "ح ي ي",
+          "bs": "živim",
+          "en": "alive",
+          "lemma": "حَيٌّ"
+        },
+        {
+          "w": "نَشِيطًا",
+          "root": "ن ش ط",
+          "bs": "aktivnim",
+          "en": "active",
+          "lemma": "نَشِيطٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Baka je naučila koristiti kompjuter s šezdeset godina.",
       "translationEn": "The grandmother learned to use the computer at sixty years old.",
       "words": [
-        { "w": "تَعَلَّمَتِ", "root": "ع ل م", "bs": "naučila je", "en": "learned" },
-        { "w": "الْجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
-        { "w": "اسْتِخْدَامَ", "root": "خ د م", "bs": "korištenje", "en": "use" },
-        { "w": "الْحَاسُوبِ", "root": "ح س ب", "bs": "kompjuter", "en": "computer" }
+        {
+          "w": "تَعَلَّمَتِ",
+          "root": "ع ل م",
+          "bs": "naučila je",
+          "en": "learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الْجَدَّةُ",
+          "root": "ج د د",
+          "bs": "baka",
+          "en": "grandmother",
+          "lemma": "جَدَّةٌ / جَدَّاتٌ"
+        },
+        {
+          "w": "اسْتِخْدَامَ",
+          "root": "خ د م",
+          "bs": "korištenje",
+          "en": "use",
+          "lemma": "اسْتِخْدَامٌ / اسْتِخْدَامَاتٌ"
+        },
+        {
+          "w": "الْحَاسُوبِ",
+          "root": "ح س ب",
+          "bs": "kompjuter",
+          "en": "computer",
+          "lemma": "حَاسُوبٌ / حَوَاسِيبُ"
+        }
       ]
     },
     {
@@ -41,14 +113,36 @@
       "translation": "Bila je sretna i rekla: «Učenje nikada ne završava».",
       "translationEn": "She was happy and said: «Learning never ends».",
       "words": [
-        { "w": "سَعِيدَةً", "root": "س ع د", "bs": "sretna", "en": "happy" },
-        { "w": "التَّعَلُّمُ", "root": "ع ل م", "bs": "učenje", "en": "learning" },
-        { "w": "يَنْتَهِي", "root": "ن ه ي", "bs": "završava", "en": "ends" }
+        {
+          "w": "سَعِيدَةً",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "التَّعَلُّمُ",
+          "root": "ع ل م",
+          "bs": "učenje",
+          "en": "learning",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "يَنْتَهِي",
+          "root": "ن ه ي",
+          "bs": "završava",
+          "en": "ends",
+          "lemma": "اِنْتَهَى يَنْتَهِي"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["learning", "proverb", "lifelong"]
+    "tags": [
+      "learning",
+      "proverb",
+      "lifelong"
+    ]
   }
 }

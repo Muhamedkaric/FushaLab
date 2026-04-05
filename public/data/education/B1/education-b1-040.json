@@ -8,10 +8,34 @@
       "translation": "Otac je pitao sina o školi kad se vratio.",
       "translationEn": "The father asked his son about school when he returned.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
-        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
-        { "w": "ابْنَهُ", "root": "ب ن و", "bs": "njegov sin", "en": "his son" },
-        { "w": "المَدْرَسَةِ", "root": "د ر س", "bs": "škola", "en": "school" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "الأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "ابْنَهُ",
+          "root": "ب ن و",
+          "bs": "njegov sin",
+          "en": "his son",
+          "lemma": "اِبْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "المَدْرَسَةِ",
+          "root": "د ر س",
+          "bs": "škola",
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Sin je rekao: Danas smo učili o planetama.",
       "translationEn": "The son said: Today we learned about planets.",
       "words": [
-        { "w": "الِابْنُ", "root": "ب ن و", "bs": "sin", "en": "son" },
-        { "w": "تَعَلَّمْنَا", "root": "ع ل م", "bs": "učili smo", "en": "we learned" },
-        { "w": "الكَوَاكِبِ", "root": "ك و ك", "bs": "planete", "en": "planets" }
+        {
+          "w": "الِابْنُ",
+          "root": "ب ن و",
+          "bs": "sin",
+          "en": "son",
+          "lemma": "اِبْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "تَعَلَّمْنَا",
+          "root": "ع ل م",
+          "bs": "učili smo",
+          "en": "we learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الكَوَاكِبِ",
+          "root": "ك و ك",
+          "bs": "planete",
+          "en": "planets",
+          "lemma": "كَوْكَبٌ / كَوَاكِبُ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Otac se obradovao i postavljao mu mnoga pitanja.",
       "translationEn": "The father was pleased and asked him many questions.",
       "words": [
-        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovao se", "en": "was pleased" },
-        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
-        { "w": "أَسْئِلَةً", "root": "س أ ل", "bs": "pitanja", "en": "questions" }
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovao se",
+          "en": "was pleased",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "الأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "أَسْئِلَةً",
+          "root": "س أ ل",
+          "bs": "pitanja",
+          "en": "questions",
+          "lemma": "سُؤَالٌ / أَسْئِلَةٌ"
+        }
       ]
     },
     {
@@ -39,10 +99,34 @@
       "translation": "Sin je s pouzdanjem odgovorio na svako pitanje.",
       "translationEn": "The son answered every question with confidence.",
       "words": [
-        { "w": "أَجَابَ", "root": "ج و ب", "bs": "odgovorio je", "en": "answered" },
-        { "w": "الِابْنُ", "root": "ب ن و", "bs": "sin", "en": "son" },
-        { "w": "سُؤَالٍ", "root": "س أ ل", "bs": "pitanje", "en": "question" },
-        { "w": "ثِقَةٍ", "root": "ث ق و", "bs": "pouzdanje", "en": "confidence" }
+        {
+          "w": "أَجَابَ",
+          "root": "ج و ب",
+          "bs": "odgovorio je",
+          "en": "answered",
+          "lemma": "أَجَابَ يُجِيبُ"
+        },
+        {
+          "w": "الِابْنُ",
+          "root": "ب ن و",
+          "bs": "sin",
+          "en": "son",
+          "lemma": "اِبْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "سُؤَالٍ",
+          "root": "س أ ل",
+          "bs": "pitanje",
+          "en": "question",
+          "lemma": "سُؤَالٌ / أَسْئِلَةٌ"
+        },
+        {
+          "w": "ثِقَةٍ",
+          "root": "ث ق و",
+          "bs": "pouzdanje",
+          "en": "confidence",
+          "lemma": "ثِقَةٌ"
+        }
       ]
     },
     {
@@ -50,14 +134,36 @@
       "translation": "Otac je rekao: Ponosan sam na tebe, sine moj.",
       "translationEn": "The father said: I am proud of you, my son.",
       "words": [
-        { "w": "الأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
-        { "w": "فَخُورٌ", "root": "ف خ ر", "bs": "ponosan", "en": "proud" },
-        { "w": "بُنَيَّ", "root": "ب ن و", "bs": "moj sine", "en": "my son" }
+        {
+          "w": "الأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "فَخُورٌ",
+          "root": "ف خ ر",
+          "bs": "ponosan",
+          "en": "proud",
+          "lemma": "فَخُورٌ"
+        },
+        {
+          "w": "بُنَيَّ",
+          "root": "ب ن و",
+          "bs": "moj sine",
+          "en": "my son",
+          "lemma": "اِبْنٌ / أَبْنَاءٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["family", "science", "pride"]
+    "tags": [
+      "family",
+      "science",
+      "pride"
+    ]
   }
 }

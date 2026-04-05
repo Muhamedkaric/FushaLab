@@ -8,9 +8,27 @@
       "translation": "Grupa je otišla u restoran u centru grada.",
       "translationEn": "The group went to a restaurant in the city center.",
       "words": [
-        { "w": "الْمَجْمُوعَةُ", "root": "ج م ع", "bs": "grupa", "en": "group" },
-        { "w": "مَطْعَمٍ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" }
+        {
+          "w": "الْمَجْمُوعَةُ",
+          "root": "ج م ع",
+          "bs": "grupa",
+          "en": "group",
+          "lemma": "مَجْمُوعَةٌ / مَجْمُوعَاتٌ"
+        },
+        {
+          "w": "مَطْعَمٍ",
+          "root": "ط ع م",
+          "bs": "restoran",
+          "en": "restaurant",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Naručili su lokalna jela i pili sok.",
       "translationEn": "They ordered local food and drank juice.",
       "words": [
-        { "w": "طَلَبُوا", "root": "ط ل ب", "bs": "naručili su", "en": "ordered" },
-        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "الْمَحَلِّيَّ", "root": "ح ل ل", "bs": "lokalni", "en": "local" },
-        { "w": "الْعَصِيرَ", "root": "ع ص ر", "bs": "sok", "en": "juice" }
+        {
+          "w": "طَلَبُوا",
+          "root": "ط ل ب",
+          "bs": "naručili su",
+          "en": "ordered",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْمَحَلِّيَّ",
+          "root": "ح ل ل",
+          "bs": "lokalni",
+          "en": "local",
+          "lemma": "مَحَلِّيٌّ"
+        },
+        {
+          "w": "الْعَصِيرَ",
+          "root": "ع ص ر",
+          "bs": "sok",
+          "en": "juice",
+          "lemma": "عَصِيرٌ / عُصَارَاتٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Hrana je bila ukusna a cijena prikladna.",
       "translationEn": "The food was delicious and the price was reasonable.",
       "words": [
-        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "لَذِيذًا", "root": "ل ذ ذ", "bs": "ukusna", "en": "delicious" },
-        { "w": "السِّعْرُ", "root": "س ع ر", "bs": "cijena", "en": "price" },
-        { "w": "مُنَاسِبًا", "root": "ن س ب", "bs": "prikladna / razumna", "en": "reasonable" }
+        {
+          "w": "الطَّعَامُ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "لَذِيذًا",
+          "root": "ل ذ ذ",
+          "bs": "ukusna",
+          "en": "delicious",
+          "lemma": "لَذِيذٌ"
+        },
+        {
+          "w": "السِّعْرُ",
+          "root": "س ع ر",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        },
+        {
+          "w": "مُنَاسِبًا",
+          "root": "ن س ب",
+          "bs": "prikladna / razumna",
+          "en": "reasonable",
+          "lemma": "مُنَاسِبٌ"
+        }
       ]
     },
     {
@@ -40,9 +106,27 @@
       "translation": "Platili su račun i izašli zadovoljni.",
       "translationEn": "They paid the bill and left satisfied.",
       "words": [
-        { "w": "دَفَعُوا", "root": "د ف ع", "bs": "platili su", "en": "paid" },
-        { "w": "الْحِسَابَ", "root": "ح س ب", "bs": "račun", "en": "bill / check" },
-        { "w": "رَاضِينَ", "root": "ر ض ي", "bs": "zadovoljni", "en": "satisfied" }
+        {
+          "w": "دَفَعُوا",
+          "root": "د ف ع",
+          "bs": "platili su",
+          "en": "paid",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "الْحِسَابَ",
+          "root": "ح س ب",
+          "bs": "račun",
+          "en": "bill / check",
+          "lemma": "حِسَابٌ / حِسَابَاتٌ"
+        },
+        {
+          "w": "رَاضِينَ",
+          "root": "ر ض ي",
+          "bs": "zadovoljni",
+          "en": "satisfied",
+          "lemma": "رَاضٍ"
+        }
       ]
     }
   ],

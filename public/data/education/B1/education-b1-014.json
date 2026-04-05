@@ -12,25 +12,29 @@
           "w": "يَدْرُسُ",
           "root": "د ر س",
           "bs": "uči",
-          "en": "studies"
+          "en": "studies",
+          "lemma": "دَرَسَ يَدْرُسُ"
         },
         {
           "w": "الرِّيَاضِيَّاتِ",
           "root": "ر و ض",
           "bs": "matematika",
-          "en": "mathematics"
+          "en": "mathematics",
+          "lemma": "رِيَاضِيَّاتٌ"
         },
         {
           "w": "بَعْدَ",
           "root": "ب ع د",
           "bs": "poslije",
-          "en": "after"
+          "en": "after",
+          "lemma": "بَعْدَ"
         },
         {
           "w": "الظُّهْرِ",
           "root": "ظ ه ر",
           "bs": "podne",
-          "en": "noon"
+          "en": "noon",
+          "lemma": "ظُهْرٌ"
         }
       ]
     },
@@ -43,19 +47,22 @@
           "w": "يَجِدُ",
           "root": "و ج د",
           "bs": "smatra/nalazi",
-          "en": "finds"
+          "en": "finds",
+          "lemma": "وَجَدَ يَجِدُ"
         },
         {
           "w": "الأَسْئِلَةِ",
           "root": "س أ ل",
           "bs": "pitanja",
-          "en": "questions"
+          "en": "questions",
+          "lemma": "سُؤَالٌ / أَسْئِلَةٌ"
         },
         {
           "w": "صَعْبَةً",
           "root": "ص ع ب",
           "bs": "teška",
-          "en": "difficult"
+          "en": "difficult",
+          "lemma": "صَعْبٌ"
         }
       ]
     },
@@ -68,19 +75,22 @@
           "w": "يَسْأَلُ",
           "root": "س أ ل",
           "bs": "pita",
-          "en": "asks"
+          "en": "asks",
+          "lemma": "سَأَلَ يَسْأَلُ"
         },
         {
           "w": "المَسَائِلِ",
           "root": "س أ ل",
           "bs": "zadaci/problemi",
-          "en": "problems"
+          "en": "problems",
+          "lemma": "مَسْأَلَةٌ / مَسَائِلُ"
         },
         {
           "w": "الصَّعْبَةِ",
           "root": "ص ع ب",
           "bs": "teški",
-          "en": "difficult"
+          "en": "difficult",
+          "lemma": "صَعْبٌ"
         }
       ]
     },
@@ -93,19 +103,22 @@
           "w": "يَشْرَحُ",
           "root": "ش ر ح",
           "bs": "objašnjava",
-          "en": "explains"
+          "en": "explains",
+          "lemma": "شَرَحَ يَشْرَحُ"
         },
         {
           "w": "بِطَرِيقَةٍ",
           "root": "ط ر ق",
           "bs": "na način",
-          "en": "in a way"
+          "en": "in a way",
+          "lemma": "طَرِيقَةٌ / طَرَائِقُ"
         },
         {
           "w": "سَهْلَةٍ",
           "root": "س ه ل",
           "bs": "lak",
-          "en": "easy"
+          "en": "easy",
+          "lemma": "سَهْلٌ"
         }
       ]
     }

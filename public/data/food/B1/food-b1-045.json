@@ -8,13 +8,55 @@
       "translation": "Porodica je zajedno sjela i pojela posljednji obrok u danu.",
       "translationEn": "The family sat together and ate the last meal of the day.",
       "words": [
-        { "w": "جَلَسَتِ", "root": "ج ل س", "bs": "sjela je/sjeli su", "en": "sat" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "سَوِيًّا", "root": "س و و", "bs": "zajedno", "en": "together" },
-        { "w": "أَكَلَتْ", "root": "أ ك ل", "bs": "pojela je/jela", "en": "ate" },
-        { "w": "آخِرَ", "root": "أ خ ر", "bs": "posljednji/zadnji", "en": "last" },
-        { "w": "وَجْبَةٍ", "root": "و ج ب", "bs": "obrok", "en": "meal" },
-        { "w": "الْيَوْمِ", "root": "ي و م", "bs": "dan/dana", "en": "day" }
+        {
+          "w": "جَلَسَتِ",
+          "root": "ج ل س",
+          "bs": "sjela je/sjeli su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "سَوِيًّا",
+          "root": "س و و",
+          "bs": "zajedno",
+          "en": "together",
+          "lemma": "سَوِيًّا"
+        },
+        {
+          "w": "أَكَلَتْ",
+          "root": "أ ك ل",
+          "bs": "pojela je/jela",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "آخِرَ",
+          "root": "أ خ ر",
+          "bs": "posljednji/zadnji",
+          "en": "last",
+          "lemma": "آخِرٌ"
+        },
+        {
+          "w": "وَجْبَةٍ",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "meal",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "الْيَوْمِ",
+          "root": "ي و م",
+          "bs": "dan/dana",
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        }
       ]
     },
     {
@@ -22,11 +64,41 @@
       "translation": "Hrana je bila jednostavna: supa, hljeb i masline.",
       "translationEn": "The food was simple: soup, bread, and olives.",
       "words": [
-        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "بَسِيطًا", "root": "ب س ط", "bs": "jednostavnu/jednostavno", "en": "simple" },
-        { "w": "شُوربَةٌ", "root": "ش ر ب", "bs": "supa/čorba", "en": "soup" },
-        { "w": "خُبْزٌ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
-        { "w": "زَيْتُونٌ", "root": "ز ي ت", "bs": "masline", "en": "olives" }
+        {
+          "w": "الطَّعَامُ",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "بَسِيطًا",
+          "root": "ب س ط",
+          "bs": "jednostavnu/jednostavno",
+          "en": "simple",
+          "lemma": "بَسِيطٌ"
+        },
+        {
+          "w": "شُوربَةٌ",
+          "root": "ش ر ب",
+          "bs": "supa/čorba",
+          "en": "soup",
+          "lemma": "شَوْرَبَةٌ / شَوْرَبَاتٌ"
+        },
+        {
+          "w": "خُبْزٌ",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread",
+          "lemma": "خُبْزٌ / أَخْبَازٌ"
+        },
+        {
+          "w": "زَيْتُونٌ",
+          "root": "ز ي ت",
+          "bs": "masline",
+          "en": "olives",
+          "lemma": "زَيْتُونٌ / زَيْتُونَةٌ"
+        }
       ]
     },
     {
@@ -34,11 +106,41 @@
       "translation": "Otac je rekao: Jednostavna hrana je najbolja hrana.",
       "translationEn": "The father said: Simple food is the best food.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
-        { "w": "الطَّعَامُ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" },
-        { "w": "الْبَسِيطُ", "root": "ب س ط", "bs": "jednostavna", "en": "simple" },
-        { "w": "أَفْضَلُ", "root": "ف ض ل", "bs": "najbolja/bolja", "en": "best" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "الطَّعَامُ",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْبَسِيطُ",
+          "root": "ب س ط",
+          "bs": "jednostavna",
+          "en": "simple",
+          "lemma": "بَسِيطٌ"
+        },
+        {
+          "w": "أَفْضَلُ",
+          "root": "ف ض ل",
+          "bs": "najbolja/bolja",
+          "en": "best",
+          "lemma": "أَفْضَلُ"
+        }
       ]
     },
     {
@@ -46,12 +148,48 @@
       "translation": "Svi su se složili i obrok je završio sretno.",
       "translationEn": "Everyone agreed and the meal ended happily.",
       "words": [
-        { "w": "رَدَّ", "root": "ر د د", "bs": "odgovorili su/složili", "en": "responded/agreed" },
-        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
-        { "w": "بِالْمُوَافَقَةِ", "root": "و ف ق", "bs": "saglasnošću/pristankom", "en": "with agreement" },
-        { "w": "انْتَهَتِ", "root": "ن ه و", "bs": "završio je/završila", "en": "ended" },
-        { "w": "الْوَجْبَةُ", "root": "و ج ب", "bs": "obrok", "en": "meal" },
-        { "w": "بِسَعَادَةٍ", "root": "س ع د", "bs": "sretno/sa srećom", "en": "happily" }
+        {
+          "w": "رَدَّ",
+          "root": "ر د د",
+          "bs": "odgovorili su/složili",
+          "en": "responded/agreed",
+          "lemma": "رَدَّ يَرُدُّ"
+        },
+        {
+          "w": "الْجَمِيعُ",
+          "root": "ج م ع",
+          "bs": "svi",
+          "en": "everyone",
+          "lemma": "الْجَمِيعُ"
+        },
+        {
+          "w": "بِالْمُوَافَقَةِ",
+          "root": "و ف ق",
+          "bs": "saglasnošću/pristankom",
+          "en": "with agreement",
+          "lemma": "مُوَافَقَةٌ / مُوَافَقَاتٌ"
+        },
+        {
+          "w": "انْتَهَتِ",
+          "root": "ن ه و",
+          "bs": "završio je/završila",
+          "en": "ended",
+          "lemma": "انْتَهَى يَنْتَهِي"
+        },
+        {
+          "w": "الْوَجْبَةُ",
+          "root": "و ج ب",
+          "bs": "obrok",
+          "en": "meal",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "بِسَعَادَةٍ",
+          "root": "س ع د",
+          "bs": "sretno/sa srećom",
+          "en": "happily",
+          "lemma": "سَعَادَةٌ"
+        }
       ]
     }
   ],

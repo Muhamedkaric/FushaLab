@@ -12,24 +12,28 @@
           "w": "أَقَامَتِ",
           "root": "ق و م",
           "bs": "organizovao je",
-          "en": "held"
+          "en": "held",
+          "lemma": "أَقَامَ يُقِيمُ"
         },
         {
           "w": "الْمَدِينَةُ",
           "root": "م د ن",
           "bs": "grad",
-          "en": "city"
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
         },
         {
           "w": "مَهْرَجَانًا",
           "bs": "festival",
-          "en": "festival"
+          "en": "festival",
+          "lemma": "مَهْرَجَانٌ / مَهْرَجَانَاتٌ"
         },
         {
           "w": "لِلطَّعَامِ",
           "root": "ط ع م",
           "bs": "hrane",
-          "en": "food"
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
         }
       ]
     },
@@ -42,31 +46,36 @@
           "w": "الطُّهَاةُ",
           "root": "ط ه و",
           "bs": "kuvari",
-          "en": "chefs"
+          "en": "chefs",
+          "lemma": "طَاهٍ / طُهَاةٌ"
         },
         {
           "w": "أَطْبَاقًا",
           "root": "ط ب ق",
           "bs": "jela",
-          "en": "dishes"
+          "en": "dishes",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
         },
         {
           "w": "لَذِيذَةً",
           "root": "ل ذ ذ",
           "bs": "ukusna",
-          "en": "delicious"
+          "en": "delicious",
+          "lemma": "لَذِيذٌ"
         },
         {
           "w": "بُلْدَانٍ",
           "root": "ب ل د",
           "bs": "zemalja",
-          "en": "countries"
+          "en": "countries",
+          "lemma": "بَلَدٌ / بُلْدَانٌ"
         },
         {
           "w": "مُخْتَلِفَةٍ",
           "root": "خ ل ف",
           "bs": "različitih",
-          "en": "different"
+          "en": "different",
+          "lemma": "مُخْتَلِفٌ"
         }
       ]
     },
@@ -79,19 +88,22 @@
           "w": "جَرَّبَ",
           "root": "ج ر ب",
           "bs": "probao je",
-          "en": "tried"
+          "en": "tried",
+          "lemma": "جَرَّبَ يُجَرِّبُ"
         },
         {
           "w": "الزُّوَّارُ",
           "root": "ز و ر",
           "bs": "posjetioci",
-          "en": "visitors"
+          "en": "visitors",
+          "lemma": "زَائِرٌ / زُوَّارٌ"
         },
         {
           "w": "الأَكْلَ",
           "root": "أ ك ل",
           "bs": "hranu",
-          "en": "food"
+          "en": "food",
+          "lemma": "أَكْلٌ"
         }
       ]
     },
@@ -104,18 +116,21 @@
           "w": "يَسْتَمِرُّ",
           "root": "م ر ر",
           "bs": "nastavlja se",
-          "en": "continues"
+          "en": "continues",
+          "lemma": "اسْتَمَرَّ يَسْتَمِرُّ"
         },
         {
           "w": "الْمَهْرَجَانُ",
           "bs": "festival",
-          "en": "festival"
+          "en": "festival",
+          "lemma": "مَهْرَجَانٌ / مَهْرَجَانَاتٌ"
         },
         {
           "w": "نِهَايَةِ",
           "root": "ن ه ي",
           "bs": "kraja",
-          "en": "end"
+          "en": "end",
+          "lemma": "نِهَايَةٌ / نِهَايَاتٌ"
         }
       ]
     }

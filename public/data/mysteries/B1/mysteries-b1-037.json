@@ -8,11 +8,41 @@
       "translation": "Ula je pronašla poruku napisanu rukopisom koji ne poznaje u svom svesci.",
       "translationEn": "Ula found a message in handwriting she did not recognise in her notebook.",
       "words": [
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
-        { "w": "رَسَالَةً", "root": "ر س ل", "bs": "poruku", "en": "message" },
-        { "w": "الْخَطِّ", "root": "خ ط ط", "bs": "rukopis", "en": "handwriting" },
-        { "w": "تَعْرِفُهُ", "root": "ع ر ف", "bs": "poznaje", "en": "she recognises" },
-        { "w": "دَفْتَرِهَا", "root": "د ف ت", "bs": "svesci", "en": "her notebook" }
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "she found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "رَسَالَةً",
+          "root": "ر س ل",
+          "bs": "poruku",
+          "en": "message",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "الْخَطِّ",
+          "root": "خ ط ط",
+          "bs": "rukopis",
+          "en": "handwriting",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "تَعْرِفُهُ",
+          "root": "ع ر ف",
+          "bs": "poznaje",
+          "en": "she recognises",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "دَفْتَرِهَا",
+          "root": "د ف ت",
+          "bs": "svesci",
+          "en": "her notebook",
+          "lemma": "دَفْتَرٌ / دَفَاتِرُ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Poruka je govorila: Ti si marljiva učenica, nastavi tako.",
       "translationEn": "The message said: You are a hardworking student, keep going.",
       "words": [
-        { "w": "الرَّسَالَةُ", "root": "ر س ل", "bs": "poruka", "en": "the message" },
-        { "w": "طَالِبَةٌ", "root": "ط ل ب", "bs": "učenica", "en": "student" },
-        { "w": "مُجْتَهِدَةٌ", "root": "ج ه د", "bs": "marljiva", "en": "hardworking" },
-        { "w": "اسْتَمِرِّي", "root": "م ر ر", "bs": "nastavi", "en": "keep going" }
+        {
+          "w": "الرَّسَالَةُ",
+          "root": "ر س ل",
+          "bs": "poruka",
+          "en": "the message",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "طَالِبَةٌ",
+          "root": "ط ل ب",
+          "bs": "učenica",
+          "en": "student",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "مُجْتَهِدَةٌ",
+          "root": "ج ه د",
+          "bs": "marljiva",
+          "en": "hardworking",
+          "lemma": "مُجْتَهِدٌ"
+        },
+        {
+          "w": "اسْتَمِرِّي",
+          "root": "م ر ر",
+          "bs": "nastavi",
+          "en": "keep going",
+          "lemma": "اسْتَمَرَّ يَسْتَمِرُّ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Tražila je osobu koja ju je napisala.",
       "translationEn": "She looked for the person who had written it.",
       "words": [
-        { "w": "بَحَثَتْ", "root": "ب ح ث", "bs": "tražila je", "en": "she looked for" },
-        { "w": "الشَّخْصِ", "root": "ش خ ص", "bs": "osobu", "en": "person" },
-        { "w": "كَتَبَهَا", "root": "ك ت ب", "bs": "napisala ju je", "en": "had written it" }
+        {
+          "w": "بَحَثَتْ",
+          "root": "ب ح ث",
+          "bs": "tražila je",
+          "en": "she looked for",
+          "lemma": "بَحَثَ يَبْحَثُ"
+        },
+        {
+          "w": "الشَّخْصِ",
+          "root": "ش خ ص",
+          "bs": "osobu",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "كَتَبَهَا",
+          "root": "ك ت ب",
+          "bs": "napisala ju je",
+          "en": "had written it",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        }
       ]
     },
     {
@@ -41,11 +113,41 @@
       "translation": "Otkrila je da učiteljica piše poruke svim učenicima.",
       "translationEn": "She discovered that the teacher was writing messages to all the students.",
       "words": [
-        { "w": "اكْتَشَفَتْ", "root": "ك ش ف", "bs": "otkrila je", "en": "she discovered" },
-        { "w": "الْمُعَلِّمَةَ", "root": "ع ل م", "bs": "učiteljica", "en": "the teacher" },
-        { "w": "تَكْتُبُ", "root": "ك ت ب", "bs": "piše", "en": "was writing" },
-        { "w": "رَسَائِلَ", "root": "ر س ل", "bs": "poruke", "en": "messages" },
-        { "w": "الطُّلَّابِ", "root": "ط ل ب", "bs": "učenicima", "en": "the students" }
+        {
+          "w": "اكْتَشَفَتْ",
+          "root": "ك ش ف",
+          "bs": "otkrila je",
+          "en": "she discovered",
+          "lemma": "اكْتَشَفَ يَكْتَشِفُ"
+        },
+        {
+          "w": "الْمُعَلِّمَةَ",
+          "root": "ع ل م",
+          "bs": "učiteljica",
+          "en": "the teacher",
+          "lemma": "مُعَلِّمَةٌ / مُعَلِّمَاتٌ"
+        },
+        {
+          "w": "تَكْتُبُ",
+          "root": "ك ت ب",
+          "bs": "piše",
+          "en": "was writing",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "رَسَائِلَ",
+          "root": "ر س ل",
+          "bs": "poruke",
+          "en": "messages",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "root": "ط ل ب",
+          "bs": "učenicima",
+          "en": "the students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        }
       ]
     },
     {
@@ -53,15 +155,44 @@
       "translation": "Ula se osjećala sretno i radila je još marljivije.",
       "translationEn": "Ula felt happy and worked even harder.",
       "words": [
-        { "w": "شَعَرَتْ", "root": "ش ع ر", "bs": "osjećala se", "en": "she felt" },
-        { "w": "بِالسَّعَادَةِ", "root": "س ع د", "bs": "sretno", "en": "happy" },
-        { "w": "عَمِلَتْ", "root": "ع م ل", "bs": "radila je", "en": "she worked" },
-        { "w": "بِجِدٍّ", "root": "ج د د", "bs": "marljivo", "en": "hard" }
+        {
+          "w": "شَعَرَتْ",
+          "root": "ش ع ر",
+          "bs": "osjećala se",
+          "en": "she felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِالسَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sretno",
+          "en": "happy",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
+          "w": "عَمِلَتْ",
+          "root": "ع م ل",
+          "bs": "radila je",
+          "en": "she worked",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "بِجِدٍّ",
+          "root": "ج د د",
+          "bs": "marljivo",
+          "en": "hard",
+          "lemma": "جِدٌّ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "notebook", "message", "teacher"]
+    "tags": [
+      "mystery",
+      "notebook",
+      "message",
+      "teacher"
+    ]
   }
 }

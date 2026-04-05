@@ -8,11 +8,41 @@
       "translation": "Javna kupatila bila su važno mjesto u gradu.",
       "translationEn": "The public baths were an important place in the city.",
       "words": [
-        { "w": "الْحَمَّامَاتُ", "root": "ح م م", "bs": "kupatila", "en": "the baths" },
-        { "w": "الْعَامَّةُ", "root": "ع م م", "bs": "javna", "en": "public" },
-        { "w": "مَكَانًا", "root": "ك و ن", "bs": "mjesto", "en": "a place" },
-        { "w": "مُهِمًّا", "root": "ه م م", "bs": "važno", "en": "important" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "the city" }
+        {
+          "w": "الْحَمَّامَاتُ",
+          "root": "ح م م",
+          "bs": "kupatila",
+          "en": "the baths",
+          "lemma": "حَمَّامٌ / حَمَّامَاتٌ"
+        },
+        {
+          "w": "الْعَامَّةُ",
+          "root": "ع م م",
+          "bs": "javna",
+          "en": "public",
+          "lemma": "عَامٌّ"
+        },
+        {
+          "w": "مَكَانًا",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "a place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "مُهِمًّا",
+          "root": "ه م م",
+          "bs": "važno",
+          "en": "important",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "the city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        }
       ]
     },
     {
@@ -20,9 +50,27 @@
       "translation": "Ljudi su odlazili tamo da se okupe i odmore.",
       "translationEn": "People used to go there to bathe and rest.",
       "words": [
-        { "w": "يَذْهَبُونَ", "root": "ذ ه ب", "bs": "odlaze", "en": "go" },
-        { "w": "الِاسْتِحْمَامِ", "root": "ح م م", "bs": "kupanje", "en": "bathing" },
-        { "w": "الرَّاحَةِ", "root": "ر و ح", "bs": "odmor", "en": "rest" }
+        {
+          "w": "يَذْهَبُونَ",
+          "root": "ذ ه ب",
+          "bs": "odlaze",
+          "en": "go",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الِاسْتِحْمَامِ",
+          "root": "ح م م",
+          "bs": "kupanje",
+          "en": "bathing",
+          "lemma": "اسْتِحْمَامٌ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "root": "ر و ح",
+          "bs": "odmor",
+          "en": "rest",
+          "lemma": "رَاحَةٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Razgovarali su i razmjenjivali vijesti.",
       "translationEn": "They would chat and exchange news.",
       "words": [
-        { "w": "يَتَحَدَّثُونَ", "root": "ح د ث", "bs": "razgovaraju", "en": "chat" },
-        { "w": "يَتَبَادَلُونَ", "root": "ب د ل", "bs": "razmjenjuju", "en": "exchange" },
-        { "w": "الأَخْبَارَ", "root": "خ ب ر", "bs": "vijesti", "en": "news" }
+        {
+          "w": "يَتَحَدَّثُونَ",
+          "root": "ح د ث",
+          "bs": "razgovaraju",
+          "en": "chat",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "يَتَبَادَلُونَ",
+          "root": "ب د ل",
+          "bs": "razmjenjuju",
+          "en": "exchange",
+          "lemma": "تَبَادَلَ يَتَبَادَلُ"
+        },
+        {
+          "w": "الأَخْبَارَ",
+          "root": "خ ب ر",
+          "bs": "vijesti",
+          "en": "news",
+          "lemma": "خَبَرٌ / أَخْبَارٌ"
+        }
       ]
     },
     {
@@ -40,13 +106,29 @@
       "translation": "Kupatila su bila otvorena svaki dan.",
       "translationEn": "The baths were open every day.",
       "words": [
-        { "w": "الْحَمَّامَاتُ", "root": "ح م م", "bs": "kupatila", "en": "the baths" },
-        { "w": "مَفْتُوحَةً", "root": "ف ت ح", "bs": "otvorena", "en": "open" }
+        {
+          "w": "الْحَمَّامَاتُ",
+          "root": "ح م م",
+          "bs": "kupatila",
+          "en": "the baths",
+          "lemma": "حَمَّامٌ / حَمَّامَاتٌ"
+        },
+        {
+          "w": "مَفْتُوحَةً",
+          "root": "ف ت ح",
+          "bs": "otvorena",
+          "en": "open",
+          "lemma": "مَفْتُوحٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["city", "baths", "social life"]
+    "tags": [
+      "city",
+      "baths",
+      "social life"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Ejad je stao pred pekara i naručio dva hljeba.",
       "translationEn": "Iyad stood before the baker and ordered two loaves.",
       "words": [
-        { "w": "وَقَفَ", "root": "و ق ف", "bs": "stao je", "en": "stood" },
-        { "w": "الخَبَّازِ", "root": "خ ب ز", "bs": "pekar", "en": "baker" },
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "naručio je", "en": "ordered" },
-        { "w": "رَغِيفَيْنِ", "root": "ر غ ف", "bs": "dva hljeba", "en": "two loaves" }
+        {
+          "w": "وَقَفَ",
+          "root": "و ق ف",
+          "bs": "stao je",
+          "en": "stood",
+          "lemma": "وَقَفَ يَقِفُ"
+        },
+        {
+          "w": "الخَبَّازِ",
+          "root": "خ ب ز",
+          "bs": "pekar",
+          "en": "baker",
+          "lemma": "خَبَّازٌ / خَبَّازُونَ"
+        },
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "naručio je",
+          "en": "ordered",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "رَغِيفَيْنِ",
+          "root": "ر غ ف",
+          "bs": "dva hljeba",
+          "en": "two loaves",
+          "lemma": "رَغِيفٌ / أَرْغِفَةٌ"
+        }
       ]
     },
     {
@@ -19,8 +43,20 @@
       "translation": "Upitao je: Koliko košta, molim?",
       "translationEn": "He asked: How much is it please?",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "upitao je", "en": "asked" },
-        { "w": "الثَّمَنُ", "root": "ث م ن", "bs": "cijena", "en": "price" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "upitao je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "الثَّمَنُ",
+          "root": "ث م ن",
+          "bs": "cijena",
+          "en": "price",
+          "lemma": "ثَمَنٌ / أَثْمَانٌ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Pekar je rekao: Samo dva dirhema.",
       "translationEn": "The baker said: Only two dirhams.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "الخَبَّازُ", "root": "خ ب ز", "bs": "pekar", "en": "baker" },
-        { "w": "دِرْهَمَانِ", "root": "د ر ه م", "bs": "dva dirhema", "en": "two dirhams" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الخَبَّازُ",
+          "root": "خ ب ز",
+          "bs": "pekar",
+          "en": "baker",
+          "lemma": "خَبَّازٌ / خَبَّازُونَ"
+        },
+        {
+          "w": "دِرْهَمَانِ",
+          "root": "د ر ه م",
+          "bs": "dva dirhema",
+          "en": "two dirhams",
+          "lemma": "دِرْهَمٌ / دَرَاهِمُ"
+        }
       ]
     },
     {
@@ -38,10 +92,34 @@
       "translation": "Ejad mu je dao novčanicu i uzeo kusur.",
       "translationEn": "Iyad gave him a banknote and took the change.",
       "words": [
-        { "w": "أَعْطَاهُ", "root": "ع ط و", "bs": "dao mu je", "en": "gave him" },
-        { "w": "وَرَقَةً", "root": "و ر ق", "bs": "novčanica", "en": "banknote" },
-        { "w": "نَقْدِيَّةً", "root": "ن ق د", "bs": "gotovinska", "en": "cash" },
-        { "w": "الباقِيَ", "root": "ب ق ي", "bs": "kusur", "en": "change" }
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط و",
+          "bs": "dao mu je",
+          "en": "gave him",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "وَرَقَةً",
+          "root": "و ر ق",
+          "bs": "novčanica",
+          "en": "banknote",
+          "lemma": "وَرَقَةٌ / أَوْرَاقٌ"
+        },
+        {
+          "w": "نَقْدِيَّةً",
+          "root": "ن ق د",
+          "bs": "gotovinska",
+          "en": "cash",
+          "lemma": "نَقْدِيٌّ"
+        },
+        {
+          "w": "الباقِيَ",
+          "root": "ب ق ي",
+          "bs": "kusur",
+          "en": "change",
+          "lemma": "بَاقٍ"
+        }
       ]
     },
     {
@@ -49,15 +127,43 @@
       "translation": "Uzeo je hljeb i veseo se vratio kući.",
       "translationEn": "He carried the bread and returned home happily.",
       "words": [
-        { "w": "حَمَلَ", "root": "ح م ل", "bs": "nosio je", "en": "carried" },
-        { "w": "الخُبْزَ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
-        { "w": "عَادَ", "root": "ع و د", "bs": "vratio se", "en": "returned" },
-        { "w": "مَسْرُورًا", "root": "س ر ر", "bs": "veseo", "en": "happily" }
+        {
+          "w": "حَمَلَ",
+          "root": "ح م ل",
+          "bs": "nosio je",
+          "en": "carried",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "الخُبْزَ",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread",
+          "lemma": "خُبْزٌ / أَخْبَازٌ"
+        },
+        {
+          "w": "عَادَ",
+          "root": "ع و د",
+          "bs": "vratio se",
+          "en": "returned",
+          "lemma": "عَادَ يَعُودُ"
+        },
+        {
+          "w": "مَسْرُورًا",
+          "root": "س ر ر",
+          "bs": "veseo",
+          "en": "happily",
+          "lemma": "مَسْرُورٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["bread", "market", "cash"]
+    "tags": [
+      "bread",
+      "market",
+      "cash"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Mislim da hobi dodaje užitak životu.",
       "translationEn": "I think that a hobby adds enjoyment to life.",
       "words": [
-        { "w": "أَظُنُّ", "root": "ظ ن ن", "bs": "mislim", "en": "I think" },
-        { "w": "الْهُوَايَةَ", "root": "ه و ي", "bs": "hobi", "en": "hobby" },
-        { "w": "تُضِيفُ", "root": "ض ي ف", "bs": "dodaje", "en": "adds" },
-        { "w": "مَتْعَةً", "root": "م ت ع", "bs": "užitak", "en": "enjoyment" }
+        {
+          "w": "أَظُنُّ",
+          "root": "ظ ن ن",
+          "bs": "mislim",
+          "en": "I think",
+          "lemma": "ظَنَّ يَظُنُّ"
+        },
+        {
+          "w": "الْهُوَايَةَ",
+          "root": "ه و ي",
+          "bs": "hobi",
+          "en": "hobby",
+          "lemma": "هِوَايَةٌ / هِوَايَاتٌ"
+        },
+        {
+          "w": "تُضِيفُ",
+          "root": "ض ي ف",
+          "bs": "dodaje",
+          "en": "adds",
+          "lemma": "أَضَافَ يُضِيفُ"
+        },
+        {
+          "w": "مَتْعَةً",
+          "root": "م ت ع",
+          "bs": "užitak",
+          "en": "enjoyment",
+          "lemma": "مَتْعَةٌ / مَتَعٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Svakoj osobi treba nešto što voli, van posla.",
       "translationEn": "Every person needs something they love away from work.",
       "words": [
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
-        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
-        { "w": "يُحِبُّهُ", "root": "ح ب ب", "bs": "voli ga", "en": "they love" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "posao", "en": "work" }
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "يَحْتَاجُ",
+          "root": "ح و ج",
+          "bs": "treba",
+          "en": "needs",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
+        },
+        {
+          "w": "يُحِبُّهُ",
+          "root": "ح ب ب",
+          "bs": "voli ga",
+          "en": "they love",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "posao",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Moj hobi je crtanje i u njemu nalazim veliku smirenost.",
       "translationEn": "My hobby is drawing and I find great peace in it.",
       "words": [
-        { "w": "هِوَايَتِي", "root": "ه و ي", "bs": "moj hobi", "en": "my hobby" },
-        { "w": "الرَّسْمُ", "root": "ر س م", "bs": "crtanje", "en": "drawing" },
-        { "w": "أَجِدُ", "root": "و ج د", "bs": "nalazim", "en": "I find" },
-        { "w": "رَاحَةً", "root": "ر و ح", "bs": "smirenost", "en": "peace" }
+        {
+          "w": "هِوَايَتِي",
+          "root": "ه و ي",
+          "bs": "moj hobi",
+          "en": "my hobby",
+          "lemma": "هِوَايَةٌ / هِوَايَاتٌ"
+        },
+        {
+          "w": "الرَّسْمُ",
+          "root": "ر س م",
+          "bs": "crtanje",
+          "en": "drawing",
+          "lemma": "رَسْمٌ / رُسُومٌ"
+        },
+        {
+          "w": "أَجِدُ",
+          "root": "و ج د",
+          "bs": "nalazim",
+          "en": "I find",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "رَاحَةً",
+          "root": "ر و ح",
+          "bs": "smirenost",
+          "en": "peace",
+          "lemma": "رَاحَةٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,44 @@
       "translation": "Savjetujem ti da pronađeš hobi koji voliš i da ga se pridržavaš.",
       "translationEn": "I advise you to find a hobby you love and practise it.",
       "words": [
-        { "w": "أَنْصَحُكَ", "root": "ن ص ح", "bs": "savjetujem te", "en": "I advise you" },
-        { "w": "تَجِدَ", "root": "و ج د", "bs": "da pronađeš", "en": "to find" },
-        { "w": "هِوَايَةً", "root": "ه و ي", "bs": "hobi", "en": "hobby" },
-        { "w": "تَمَارِسَهَا", "root": "م ر س", "bs": "da ga pratiš", "en": "to practise it" }
+        {
+          "w": "أَنْصَحُكَ",
+          "root": "ن ص ح",
+          "bs": "savjetujem te",
+          "en": "I advise you",
+          "lemma": "نَصَحَ يَنْصَحُ"
+        },
+        {
+          "w": "تَجِدَ",
+          "root": "و ج د",
+          "bs": "da pronađeš",
+          "en": "to find",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "هِوَايَةً",
+          "root": "ه و ي",
+          "bs": "hobi",
+          "en": "hobby",
+          "lemma": "هِوَايَةٌ / هِوَايَاتٌ"
+        },
+        {
+          "w": "تَمَارِسَهَا",
+          "root": "م ر س",
+          "bs": "da ga pratiš",
+          "en": "to practise it",
+          "lemma": "مَارَسَ يُمَارِسُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "hobby", "wellbeing", "leisure"]
+    "tags": [
+      "opinion",
+      "hobby",
+      "wellbeing",
+      "leisure"
+    ]
   }
 }

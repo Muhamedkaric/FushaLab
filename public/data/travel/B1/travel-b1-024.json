@@ -8,10 +8,34 @@
       "translation": "Nur je volio putovati na nova mjesta.",
       "translationEn": "Nour loved traveling to new places.",
       "words": [
-        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
-        { "w": "السَّفَرَ", "root": "س ف ر", "bs": "putovanje", "en": "travel" },
-        { "w": "أَمَاكِنَ", "root": "ك و ن", "bs": "mjesta", "en": "places" },
-        { "w": "جَدِيدَةٍ", "root": "ج د د", "bs": "nova", "en": "new" }
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "loves",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "السَّفَرَ",
+          "root": "س ف ر",
+          "bs": "putovanje",
+          "en": "travel",
+          "lemma": "سَفَرٌ / أَسْفَارٌ"
+        },
+        {
+          "w": "أَمَاكِنَ",
+          "root": "ك و ن",
+          "bs": "mjesta",
+          "en": "places",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "root": "ج د د",
+          "bs": "nova",
+          "en": "new",
+          "lemma": "جَدِيدٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Čitao je o gradu u knjizi prije putovanja.",
       "translationEn": "He read about the city in a book before traveling.",
       "words": [
-        { "w": "قَرَأَ", "root": "ق ر أ", "bs": "čitao je", "en": "read" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grad", "en": "city" },
-        { "w": "كِتَابٍ", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "السَّفَرِ", "root": "س ف ر", "bs": "putovanje", "en": "travel" }
+        {
+          "w": "قَرَأَ",
+          "root": "ق ر أ",
+          "bs": "čitao je",
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "كِتَابٍ",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "السَّفَرِ",
+          "root": "س ف ر",
+          "bs": "putovanje",
+          "en": "travel",
+          "lemma": "سَفَرٌ / أَسْفَارٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Napravio je sebi listu mjesta koja želi posjetiti.",
       "translationEn": "He wrote himself a list of places he wanted to visit.",
       "words": [
-        { "w": "كَتَبَ", "root": "ك ت ب", "bs": "napisao je", "en": "wrote" },
-        { "w": "قَائِمَةً", "root": "ق و م", "bs": "lista", "en": "list" },
-        { "w": "الْأَمَاكِنِ", "root": "ك و ن", "bs": "mjesta", "en": "places" },
-        { "w": "زِيَارَتَهَا", "root": "ز و ر", "bs": "posjetiti ih", "en": "to visit them" }
+        {
+          "w": "كَتَبَ",
+          "root": "ك ت ب",
+          "bs": "napisao je",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "قَائِمَةً",
+          "root": "ق و م",
+          "bs": "lista",
+          "en": "list",
+          "lemma": "قَائِمَةٌ / قَوَائِمُ"
+        },
+        {
+          "w": "الْأَمَاكِنِ",
+          "root": "ك و ن",
+          "bs": "mjesta",
+          "en": "places",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "زِيَارَتَهَا",
+          "root": "ز و ر",
+          "bs": "posjetiti ih",
+          "en": "to visit them",
+          "lemma": "زِيَارَةٌ / زِيَارَاتٌ"
+        }
       ]
     },
     {
@@ -41,10 +113,34 @@
       "translation": "Kad je stigao počeo je posjećivati mjesta jedno po jedno.",
       "translationEn": "When he arrived he began visiting the places one by one.",
       "words": [
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
-        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počeo je", "en": "began" },
-        { "w": "يَزُورُ", "root": "ز و ر", "bs": "posjećivati", "en": "to visit" },
-        { "w": "الْأَمَاكِنَ", "root": "ك و ن", "bs": "mjesta", "en": "places" }
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "بَدَأَ",
+          "root": "ب د أ",
+          "bs": "počeo je",
+          "en": "began",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "يَزُورُ",
+          "root": "ز و ر",
+          "bs": "posjećivati",
+          "en": "to visit",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "الْأَمَاكِنَ",
+          "root": "ك و ن",
+          "bs": "mjesta",
+          "en": "places",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        }
       ]
     }
   ],

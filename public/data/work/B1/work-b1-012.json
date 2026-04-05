@@ -8,10 +8,34 @@
       "translation": "Luejj je zamolio kolegu da mu pomogne u zadatku.",
       "translationEn": "Luay asked his colleague to help him with a task.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je/tražio", "en": "asked/requested" },
-        { "w": "زَمِيلِهِ", "root": "ز م ل", "bs": "njegov kolega", "en": "his colleague" },
-        { "w": "يُسَاعِدَهُ", "root": "س ع د", "bs": "da mu pomogne", "en": "to help him" },
-        { "w": "مَهْمَّةٍ", "root": "م ه م", "bs": "zadatak/misija", "en": "task/mission" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zamolio je/tražio",
+          "en": "asked/requested",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "زَمِيلِهِ",
+          "root": "ز م ل",
+          "bs": "njegov kolega",
+          "en": "his colleague",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "يُسَاعِدَهُ",
+          "root": "س ع د",
+          "bs": "da mu pomogne",
+          "en": "to help him",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "مَهْمَّةٍ",
+          "root": "م ه م",
+          "bs": "zadatak/misija",
+          "en": "task/mission",
+          "lemma": "مَهَمَّةٌ / مَهَامُّ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Kolega je rado pristao i sjeli su zajedno.",
       "translationEn": "The colleague agreed happily and they sat together.",
       "words": [
-        { "w": "وَافَقَ", "root": "و ف ق", "bs": "pristao je/složio se", "en": "agreed" },
-        { "w": "الزَّمِيلُ", "root": "ز م ل", "bs": "kolega", "en": "colleague" },
-        { "w": "بِسَعَادَةٍ", "root": "س ع د", "bs": "radosno/sretno", "en": "happily" },
-        { "w": "جَلَسَا", "root": "ج ل س", "bs": "sjeli su", "en": "sat" }
+        {
+          "w": "وَافَقَ",
+          "root": "و ف ق",
+          "bs": "pristao je/složio se",
+          "en": "agreed",
+          "lemma": "وَافَقَ يُوَافِقُ"
+        },
+        {
+          "w": "الزَّمِيلُ",
+          "root": "ز م ل",
+          "bs": "kolega",
+          "en": "colleague",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "بِسَعَادَةٍ",
+          "root": "س ع د",
+          "bs": "radosno/sretno",
+          "en": "happily",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
+          "w": "جَلَسَا",
+          "root": "ج ل س",
+          "bs": "sjeli su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Završili su zadatak za manje vremena nego što su očekivali.",
       "translationEn": "They finished the task in less time than they expected.",
       "words": [
-        { "w": "أَنْهَيَا", "root": "ن ه ي", "bs": "završili su", "en": "finished" },
-        { "w": "الْمَهْمَّةَ", "root": "م ه م", "bs": "zadatak", "en": "task" },
-        { "w": "وَقْتٍ", "root": "و ق ت", "bs": "vrijeme/period", "en": "time" },
-        { "w": "تَوَقَّعَا", "root": "و ق ع", "bs": "očekivali su", "en": "expected" }
+        {
+          "w": "أَنْهَيَا",
+          "root": "ن ه ي",
+          "bs": "završili su",
+          "en": "finished",
+          "lemma": "أَنْهَى يُنْهِي"
+        },
+        {
+          "w": "الْمَهْمَّةَ",
+          "root": "م ه م",
+          "bs": "zadatak",
+          "en": "task",
+          "lemma": "مَهَمَّةٌ / مَهَامُّ"
+        },
+        {
+          "w": "وَقْتٍ",
+          "root": "و ق ت",
+          "bs": "vrijeme/period",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "تَوَقَّعَا",
+          "root": "و ق ع",
+          "bs": "očekivali su",
+          "en": "expected",
+          "lemma": "تَوَقَّعَ يَتَوَقَّعُ"
+        }
       ]
     },
     {
@@ -41,16 +113,51 @@
       "translation": "Luejj je rekao «hvala» i donio mu šolju kafe.",
       "translationEn": "Luay said «thank you» and brought him a cup of coffee.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "شُكْرًا", "root": "ش ك ر", "bs": "hvala", "en": "thank you" },
-        { "w": "قَدَّمَ", "root": "ق د م", "bs": "donio je/ponudio", "en": "brought/offered" },
-        { "w": "فِنْجَانَ", "root": "ف ن ج", "bs": "šolja/fildžan", "en": "cup" },
-        { "w": "قَهْوَةٍ", "root": "ق ه و", "bs": "kafa", "en": "coffee" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "شُكْرًا",
+          "root": "ش ك ر",
+          "bs": "hvala",
+          "en": "thank you",
+          "lemma": "شُكْرٌ"
+        },
+        {
+          "w": "قَدَّمَ",
+          "root": "ق د م",
+          "bs": "donio je/ponudio",
+          "en": "brought/offered",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "فِنْجَانَ",
+          "root": "ف ن ج",
+          "bs": "šolja/fildžan",
+          "en": "cup",
+          "lemma": "فِنْجَانٌ / فَنَاجِينُ"
+        },
+        {
+          "w": "قَهْوَةٍ",
+          "root": "ق ه و",
+          "bs": "kafa",
+          "en": "coffee",
+          "lemma": "قَهْوَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["teamwork", "colleagues", "task", "cooperation"]
+    "tags": [
+      "teamwork",
+      "colleagues",
+      "task",
+      "cooperation"
+    ]
   }
 }

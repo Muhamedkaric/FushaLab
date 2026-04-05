@@ -12,31 +12,36 @@
           "w": "زَارَتِ",
           "root": "ز و ر",
           "bs": "posjetila",
-          "en": "visited"
+          "en": "visited",
+          "lemma": "زَارَ يَزُورُ"
         },
         {
           "w": "المَدْرَسَةُ",
           "root": "د ر س",
           "bs": "škola",
-          "en": "school"
+          "en": "school",
+          "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
         },
         {
           "w": "مَتْحَفًا",
           "root": "ت ح ف",
           "bs": "muzej",
-          "en": "museum"
+          "en": "museum",
+          "lemma": "مَتْحَفٌ / مَتَاحِفُ"
         },
         {
           "w": "قَرِيبًا",
           "root": "ق ر ب",
           "bs": "blizu",
-          "en": "near"
+          "en": "near",
+          "lemma": "قَرِيبٌ"
         },
         {
           "w": "المَدِينَةِ",
           "root": "م د ن",
           "bs": "grad",
-          "en": "city"
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
         }
       ]
     },
@@ -49,31 +54,36 @@
           "w": "رَأَى",
           "root": "ر أ ي",
           "bs": "vidjeli",
-          "en": "saw"
+          "en": "saw",
+          "lemma": "رَأَى يَرَى"
         },
         {
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "صُوَرًا",
           "root": "ص و ر",
           "bs": "slike",
-          "en": "pictures"
+          "en": "pictures",
+          "lemma": "صُورَةٌ / صُوَرٌ"
         },
         {
           "w": "قَدِيمَةً",
           "root": "ق د م",
           "bs": "stare",
-          "en": "old"
+          "en": "old",
+          "lemma": "قَدِيمٌ"
         },
         {
           "w": "تَارِيخِيَّةً",
           "root": "ت ر خ",
           "bs": "historijski",
-          "en": "historical"
+          "en": "historical",
+          "lemma": "تَارِيخِيٌّ"
         }
       ]
     },
@@ -86,25 +96,29 @@
           "w": "سَأَلَ",
           "root": "س أ ل",
           "bs": "pitali",
-          "en": "asked"
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
         },
         {
           "w": "الدَّلِيلَ",
           "root": "د ل ل",
           "bs": "vodič",
-          "en": "guide"
+          "en": "guide",
+          "lemma": "دَلِيلٌ / أَدِلَّةٌ"
         },
         {
           "w": "تَارِيخِ",
           "root": "ت ر خ",
           "bs": "historija",
-          "en": "history"
+          "en": "history",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
         },
         {
           "w": "الأَشْيَاءِ",
           "root": "ش ي أ",
           "bs": "predmeti",
-          "en": "objects"
+          "en": "objects",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
         }
       ]
     },
@@ -117,25 +131,29 @@
           "w": "اسْتَمَعُوا",
           "root": "س م ع",
           "bs": "slušali",
-          "en": "listened"
+          "en": "listened",
+          "lemma": "اسْتَمَعَ يَسْتَمِعُ"
         },
         {
           "w": "بِانْتِبَاهٍ",
           "root": "ن ب ه",
           "bs": "pažljivo",
-          "en": "attentively"
+          "en": "attentively",
+          "lemma": "اِنْتِبَاهٌ"
         },
         {
           "w": "لِشَرْحِ",
           "root": "ش ر ح",
           "bs": "objašnjenje",
-          "en": "explanation"
+          "en": "explanation",
+          "lemma": "شَرْحٌ / شُرُوحٌ"
         },
         {
           "w": "الدَّلِيلِ",
           "root": "د ل ل",
           "bs": "vodič",
-          "en": "guide"
+          "en": "guide",
+          "lemma": "دَلِيلٌ / أَدِلَّةٌ"
         }
       ]
     }

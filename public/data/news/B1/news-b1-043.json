@@ -11,25 +11,29 @@
         {
           "w": "نَادِي الشَّطْرَنْجِ",
           "bs": "šahovski klub",
-          "en": "chess club"
+          "en": "chess club",
+          "lemma": "نَادٍ / أَنْدِيَةٌ"
         },
         {
           "w": "مُسَابَقَةً",
           "root": "س ب ق",
           "bs": "takmičenje",
-          "en": "competition"
+          "en": "competition",
+          "lemma": "مُسَابَقَةٌ / مُسَابَقَاتٌ"
         },
         {
           "w": "الأَطْفَالِ",
           "root": "ط ف ل",
           "bs": "djecu",
-          "en": "children"
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "الشَّبَابِ",
           "root": "ش ب ب",
           "bs": "mlade",
-          "en": "youth"
+          "en": "youth",
+          "lemma": "شَبَابٌ"
         }
       ]
     },
@@ -42,25 +46,29 @@
           "w": "شَارَكَ",
           "root": "ش ر ك",
           "bs": "učestvovao je",
-          "en": "participated"
+          "en": "participated",
+          "lemma": "شَارَكَ يُشَارِكُ"
         },
         {
           "w": "لَاعِبًا",
           "root": "ل ع ب",
           "bs": "igrača",
-          "en": "players"
+          "en": "players",
+          "lemma": "لَاعِبٌ / لَاعِبُونَ"
         },
         {
           "w": "أَعْمَارٍ",
           "root": "ع م ر",
           "bs": "dobi",
-          "en": "ages"
+          "en": "ages",
+          "lemma": "عُمُرٌ / أَعْمَارٌ"
         },
         {
           "w": "مُخْتَلِفَةٍ",
           "root": "خ ل ف",
           "bs": "različite",
-          "en": "different"
+          "en": "different",
+          "lemma": "مُخْتَلِفٌ"
         }
       ]
     },
@@ -73,19 +81,22 @@
           "w": "فَازَ",
           "root": "ف و ز",
           "bs": "pobijedio je",
-          "en": "won"
+          "en": "won",
+          "lemma": "فَازَ يَفُوزُ"
         },
         {
           "w": "وَلَدٌ",
           "root": "و ل د",
           "bs": "dječak",
-          "en": "boy"
+          "en": "boy",
+          "lemma": "وَلَدٌ / أَوْلَادٌ"
         },
         {
           "w": "الْجَائِزَةِ",
           "root": "ج و ز",
           "bs": "nagradu",
-          "en": "prize"
+          "en": "prize",
+          "lemma": "جَائِزَةٌ / جَوَائِزُ"
         }
       ]
     },
@@ -98,13 +109,15 @@
           "w": "الطِّفْلُ",
           "root": "ط ف ل",
           "bs": "dijete",
-          "en": "child"
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
           "w": "الْمَوْهُوبُ",
           "root": "و ه ب",
           "bs": "talentovano",
-          "en": "talented"
+          "en": "talented",
+          "lemma": "مَوْهُوبٌ"
         }
       ]
     }

@@ -8,11 +8,41 @@
       "translation": "Smatram da je sport koristan za tijelo i dušu.",
       "translationEn": "I believe that sport is good for the body and the mind.",
       "words": [
-        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
-        { "w": "الرِّيَاضَةَ", "root": "ر ي ض", "bs": "sport", "en": "sport" },
-        { "w": "مُفِيدَةٌ", "root": "ف ي د", "bs": "koristan", "en": "beneficial" },
-        { "w": "الْجِسْمِ", "root": "ج س م", "bs": "tijelu", "en": "body" },
-        { "w": "النَّفْسِ", "root": "ن ف س", "bs": "duši/umu", "en": "mind/soul" }
+        {
+          "w": "أَعْتَقِدُ",
+          "root": "ع ق د",
+          "bs": "smatram",
+          "en": "I believe",
+          "lemma": "اعْتَقَدَ يَعْتَقِدُ"
+        },
+        {
+          "w": "الرِّيَاضَةَ",
+          "root": "ر ي ض",
+          "bs": "sport",
+          "en": "sport",
+          "lemma": "رِيَاضَةٌ / رِيَاضَاتٌ"
+        },
+        {
+          "w": "مُفِيدَةٌ",
+          "root": "ف ي د",
+          "bs": "koristan",
+          "en": "beneficial",
+          "lemma": "مُفِيدٌ"
+        },
+        {
+          "w": "الْجِسْمِ",
+          "root": "ج س م",
+          "bs": "tijelu",
+          "en": "body",
+          "lemma": "جِسْمٌ / أَجْسَامٌ"
+        },
+        {
+          "w": "النَّفْسِ",
+          "root": "ن ف س",
+          "bs": "duši/umu",
+          "en": "mind/soul",
+          "lemma": "نَفْسٌ / أَنْفُسٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Kada svaki dan hodam, osjećam više energije.",
       "translationEn": "When I walk every day I feel more energy.",
       "words": [
-        { "w": "أَمْشِي", "root": "م ش ي", "bs": "hodam", "en": "I walk" },
-        { "w": "أَشْعُرُ", "root": "ش ع ر", "bs": "osjećam", "en": "I feel" },
-        { "w": "بِطَاقَةٍ", "root": "ط و ق", "bs": "energije", "en": "energy" },
-        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "više", "en": "more" }
+        {
+          "w": "أَمْشِي",
+          "root": "م ش ي",
+          "bs": "hodam",
+          "en": "I walk",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "أَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjećam",
+          "en": "I feel",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "بِطَاقَةٍ",
+          "root": "ط و ق",
+          "bs": "energije",
+          "en": "energy",
+          "lemma": "طَاقَةٌ / طَاقَاتٌ"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "root": "ك ث ر",
+          "bs": "više",
+          "en": "more",
+          "lemma": "أَكْثَرُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Sport smanjuje umor i stres.",
       "translationEn": "Sport reduces tiredness and stress.",
       "words": [
-        { "w": "الرِّيَاضَةُ", "root": "ر ي ض", "bs": "sport", "en": "sport" },
-        { "w": "تُقَلِّلُ", "root": "ق ل ل", "bs": "smanjuje", "en": "reduces" },
-        { "w": "التَّعَبَ", "root": "ت ع ب", "bs": "umor", "en": "tiredness" },
-        { "w": "التَّوَتُّرَ", "root": "و ت ر", "bs": "stres", "en": "stress" }
+        {
+          "w": "الرِّيَاضَةُ",
+          "root": "ر ي ض",
+          "bs": "sport",
+          "en": "sport",
+          "lemma": "رِيَاضَةٌ / رِيَاضَاتٌ"
+        },
+        {
+          "w": "تُقَلِّلُ",
+          "root": "ق ل ل",
+          "bs": "smanjuje",
+          "en": "reduces",
+          "lemma": "قَلَّلَ يُقَلِّلُ"
+        },
+        {
+          "w": "التَّعَبَ",
+          "root": "ت ع ب",
+          "bs": "umor",
+          "en": "tiredness",
+          "lemma": "تَعَبٌ"
+        },
+        {
+          "w": "التَّوَتُّرَ",
+          "root": "و ت ر",
+          "bs": "stres",
+          "en": "stress",
+          "lemma": "تَوَتُّرٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Preporučujem svakoj osobi da hoda pola sata svaki dan.",
       "translationEn": "I advise every person to walk half an hour every day.",
       "words": [
-        { "w": "أَنْصَحُ", "root": "ن ص ح", "bs": "preporučujem", "en": "I advise" },
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "osobi", "en": "person" },
-        { "w": "يَمْشِيَ", "root": "م ش ي", "bs": "hoda", "en": "to walk" },
-        { "w": "نِصْفَ", "root": "ن ص ف", "bs": "pola", "en": "half" },
-        { "w": "سَاعَةٍ", "root": "س و ع", "bs": "sata", "en": "hour" }
+        {
+          "w": "أَنْصَحُ",
+          "root": "ن ص ح",
+          "bs": "preporučujem",
+          "en": "I advise",
+          "lemma": "نَصَحَ يَنْصَحُ"
+        },
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "osobi",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "يَمْشِيَ",
+          "root": "م ش ي",
+          "bs": "hoda",
+          "en": "to walk",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "نِصْفَ",
+          "root": "ن ص ف",
+          "bs": "pola",
+          "en": "half",
+          "lemma": "نِصْفٌ / أَنْصَافٌ"
+        },
+        {
+          "w": "سَاعَةٍ",
+          "root": "س و ع",
+          "bs": "sata",
+          "en": "hour",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "sport", "health", "exercise"]
+    "tags": [
+      "opinion",
+      "sport",
+      "health",
+      "exercise"
+    ]
   }
 }

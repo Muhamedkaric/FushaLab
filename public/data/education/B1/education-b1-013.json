@@ -12,19 +12,22 @@
           "w": "يَوْمُ",
           "root": "ي و م",
           "bs": "dan",
-          "en": "day"
+          "en": "day",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
         },
         {
           "w": "الرِّيَاضَةِ",
           "root": "ر و ض",
           "bs": "sport",
-          "en": "sports"
+          "en": "sports",
+          "lemma": "رِيَاضَةٌ / رِيَاضَاتٌ"
         },
         {
           "w": "المَلْعَبِ",
           "root": "ل ع ب",
           "bs": "teren/igralište",
-          "en": "playground"
+          "en": "playground",
+          "lemma": "مَلْعَبٌ / مَلَاعِبُ"
         }
       ]
     },
@@ -37,25 +40,29 @@
           "w": "تَنَافَسَ",
           "root": "ن ف س",
           "bs": "takmičili su se",
-          "en": "competed"
+          "en": "competed",
+          "lemma": "تَنَافَسَ يَتَنَافَسُ"
         },
         {
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "سِبَاقِ",
           "root": "س ب ق",
           "bs": "trka",
-          "en": "race"
+          "en": "race",
+          "lemma": "سِبَاقٌ / سِبَاقَاتٌ"
         },
         {
           "w": "الجَرْيِ",
           "root": "ج ر ي",
           "bs": "trčanje",
-          "en": "running"
+          "en": "running",
+          "lemma": "جَرْيٌ"
         }
       ]
     },
@@ -68,25 +75,29 @@
           "w": "جَرَى",
           "root": "ج ر ي",
           "bs": "trčao",
-          "en": "ran"
+          "en": "ran",
+          "lemma": "جَرَى يَجْرِي"
         },
         {
           "w": "بِسُرْعَةٍ",
           "root": "س ر ع",
           "bs": "brzo",
-          "en": "fast"
+          "en": "fast",
+          "lemma": "سُرْعَةٌ"
         },
         {
           "w": "كَبِيرَةٍ",
           "root": "ك ب ر",
           "bs": "velikom",
-          "en": "great"
+          "en": "great",
+          "lemma": "كَبِيرٌ"
         },
         {
           "w": "وَصَلَ",
           "root": "و ص ل",
           "bs": "stigao",
-          "en": "arrived"
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
         }
       ]
     },
@@ -99,25 +110,29 @@
           "w": "أَعْطَى",
           "root": "ع ط و",
           "bs": "dao",
-          "en": "gave"
+          "en": "gave",
+          "lemma": "أَعْطَى يُعْطِي"
         },
         {
           "w": "المُدِيرُ",
           "root": "د و ر",
           "bs": "direktor",
-          "en": "principal"
+          "en": "principal",
+          "lemma": "مُدِيرٌ / مُدِيرُونَ"
         },
         {
           "w": "مِيدَالِيَّةً",
           "root": "م د ل",
           "bs": "medalja",
-          "en": "medal"
+          "en": "medal",
+          "lemma": "مِيدَالِيَّةٌ / مِيدَالِيَّاتٌ"
         },
         {
           "w": "ذَهَبِيَّةً",
           "root": "ذ ه ب",
           "bs": "zlatnu",
-          "en": "gold"
+          "en": "gold",
+          "lemma": "ذَهَبِيٌّ"
         }
       ]
     },
@@ -130,19 +145,22 @@
           "w": "صَفَّقَ",
           "root": "ص ف ق",
           "bs": "zapljeskali",
-          "en": "clapped"
+          "en": "clapped",
+          "lemma": "صَفَّقَ يُصَفِّقُ"
         },
         {
           "w": "يَبْتَسِمُ",
           "root": "ب س م",
           "bs": "osmjehuje se",
-          "en": "smiling"
+          "en": "smiling",
+          "lemma": "اِبْتَسَمَ يَبْتَسِمُ"
         },
         {
           "w": "بِفَخْرٍ",
           "root": "ف خ ر",
           "bs": "ponosno",
-          "en": "proudly"
+          "en": "proudly",
+          "lemma": "فَخْرٌ"
         }
       ]
     }

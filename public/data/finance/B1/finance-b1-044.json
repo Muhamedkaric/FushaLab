@@ -8,11 +8,41 @@
       "translation": "Majka je sjela s djecom i objasnila im važnost štednje.",
       "translationEn": "The mother sat with her children and explained the importance of saving.",
       "words": [
-        { "w": "جَلَسَتِ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
-        { "w": "أَطْفَالِهَا", "root": "ط ف ل", "bs": "njena djeca", "en": "her children" },
-        { "w": "شَرَحَتْ", "root": "ش ر ح", "bs": "objasnila je", "en": "explained" },
-        { "w": "أَهَمِّيَّةَ", "root": "ه م م", "bs": "važnost", "en": "importance" },
-        { "w": "الاِدِّخَارِ", "root": "ذ خ ر", "bs": "štednja", "en": "saving" }
+        {
+          "w": "جَلَسَتِ",
+          "root": "ج ل س",
+          "bs": "sjela je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "أَطْفَالِهَا",
+          "root": "ط ف ل",
+          "bs": "njena djeca",
+          "en": "her children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "شَرَحَتْ",
+          "root": "ش ر ح",
+          "bs": "objasnila je",
+          "en": "explained",
+          "lemma": "شَرَحَ يَشْرَحُ"
+        },
+        {
+          "w": "أَهَمِّيَّةَ",
+          "root": "ه م م",
+          "bs": "važnost",
+          "en": "importance",
+          "lemma": "أَهَمِّيَّةٌ"
+        },
+        {
+          "w": "الاِدِّخَارِ",
+          "root": "ذ خ ر",
+          "bs": "štednja",
+          "en": "saving",
+          "lemma": "اِدِّخَارٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Rekla je: Ko štedi može kupiti što želi.",
       "translationEn": "She said: Whoever saves can buy what they want.",
       "words": [
-        { "w": "قَالَتْ", "root": "ق و ل", "bs": "rekla je", "en": "said" },
-        { "w": "يَدَّخِرُ", "root": "ذ خ ر", "bs": "štedi", "en": "saves" },
-        { "w": "يَسْتَطِيعُ", "root": "ط و ع", "bs": "može", "en": "can" },
-        { "w": "يَشْتَرِيَ", "root": "ش ر ي", "bs": "da kupi", "en": "to buy" }
+        {
+          "w": "قَالَتْ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "يَدَّخِرُ",
+          "root": "ذ خ ر",
+          "bs": "štedi",
+          "en": "saves",
+          "lemma": "اِدَّخَرَ يَدَّخِرُ"
+        },
+        {
+          "w": "يَسْتَطِيعُ",
+          "root": "ط و ع",
+          "bs": "može",
+          "en": "can",
+          "lemma": "اسْتَطَاعَ يَسْتَطِيعُ"
+        },
+        {
+          "w": "يَشْتَرِيَ",
+          "root": "ش ر ي",
+          "bs": "da kupi",
+          "en": "to buy",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Kupila je svakom djetetu malu kasicu.",
       "translationEn": "She bought each child a small piggy bank.",
       "words": [
-        { "w": "اشْتَرَتْ", "root": "ش ر ي", "bs": "kupila je", "en": "bought" },
-        { "w": "طِفْلٍ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "كُوزَ", "root": "ك و ز", "bs": "kasica", "en": "piggy bank" },
-        { "w": "صَغِيرًا", "root": "ص غ ر", "bs": "malu", "en": "small" }
+        {
+          "w": "اشْتَرَتْ",
+          "root": "ش ر ي",
+          "bs": "kupila je",
+          "en": "bought",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "طِفْلٍ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "كُوزَ",
+          "root": "ك و ز",
+          "bs": "kasica",
+          "en": "piggy bank",
+          "lemma": "كُوزٌ / أَكْوَازٌ"
+        },
+        {
+          "w": "صَغِيرًا",
+          "root": "ص غ ر",
+          "bs": "malu",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,43 @@
       "translation": "Djeca su počela stavljati novac u njih svaki dan.",
       "translationEn": "The children began putting their money in them every day.",
       "words": [
-        { "w": "بَدَأَ", "root": "ب د أ", "bs": "počeli su", "en": "began" },
-        { "w": "الأَطْفَالُ", "root": "ط ف ل", "bs": "djeca", "en": "children" },
-        { "w": "يَضَعُونَ", "root": "و ض ع", "bs": "stavljaju", "en": "putting" },
-        { "w": "نُقُودَهُمْ", "root": "ن ق د", "bs": "njihov novac", "en": "their money" }
+        {
+          "w": "بَدَأَ",
+          "root": "ب د أ",
+          "bs": "počeli su",
+          "en": "began",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يَضَعُونَ",
+          "root": "و ض ع",
+          "bs": "stavljaju",
+          "en": "putting",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "نُقُودَهُمْ",
+          "root": "ن ق د",
+          "bs": "njihov novac",
+          "en": "their money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["saving", "children", "lesson"]
+    "tags": [
+      "saving",
+      "children",
+      "lesson"
+    ]
   }
 }

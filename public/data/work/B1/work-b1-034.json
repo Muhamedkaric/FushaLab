@@ -8,10 +8,34 @@
       "translation": "Šehad je pročitala oglas za posao u biblioteci.",
       "translationEn": "Shahad read a job advertisement in a library.",
       "words": [
-        { "w": "قَرَأَتْ", "root": "ق ر أ", "bs": "pročitala je", "en": "read" },
-        { "w": "الْإِعْلَانَ", "root": "ع ل ن", "bs": "oglas/reklama", "en": "advertisement" },
-        { "w": "وَظِيفَةٍ", "root": "و ظ ف", "bs": "posao/radno mjesto", "en": "job/position" },
-        { "w": "مَكْتَبَةٍ", "root": "ك ت ب", "bs": "biblioteka", "en": "library" }
+        {
+          "w": "قَرَأَتْ",
+          "root": "ق ر أ",
+          "bs": "pročitala je",
+          "en": "read",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "الْإِعْلَانَ",
+          "root": "ع ل ن",
+          "bs": "oglas/reklama",
+          "en": "advertisement",
+          "lemma": "إِعْلَانٌ / إِعْلَانَاتٌ"
+        },
+        {
+          "w": "وَظِيفَةٍ",
+          "root": "و ظ ف",
+          "bs": "posao/radno mjesto",
+          "en": "job/position",
+          "lemma": "وَظِيفَةٌ / وَظَائِفُ"
+        },
+        {
+          "w": "مَكْتَبَةٍ",
+          "root": "ك ت ب",
+          "bs": "biblioteka",
+          "en": "library",
+          "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Napisala je prijavu i poslala je putem e-maila.",
       "translationEn": "She wrote an application and sent it via email.",
       "words": [
-        { "w": "كَتَبَتْ", "root": "ك ت ب", "bs": "napisala je", "en": "wrote" },
-        { "w": "طَلَبًا", "root": "ط ل ب", "bs": "prijava/molba", "en": "application/request" },
-        { "w": "أَرْسَلَتْهُ", "root": "ر س ل", "bs": "poslala ga je", "en": "sent it" },
-        { "w": "الْبَرِيدِ", "root": "ب ر د", "bs": "pošta/email", "en": "mail/email" }
+        {
+          "w": "كَتَبَتْ",
+          "root": "ك ت ب",
+          "bs": "napisala je",
+          "en": "wrote",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "طَلَبًا",
+          "root": "ط ل ب",
+          "bs": "prijava/molba",
+          "en": "application/request",
+          "lemma": "طَلَبٌ / طَلَبَاتٌ"
+        },
+        {
+          "w": "أَرْسَلَتْهُ",
+          "root": "ر س ل",
+          "bs": "poslala ga je",
+          "en": "sent it",
+          "lemma": "أَرْسَلَ يُرْسِلُ"
+        },
+        {
+          "w": "الْبَرِيدِ",
+          "root": "ب ر د",
+          "bs": "pošta/email",
+          "en": "mail/email",
+          "lemma": "بَرِيدٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Nazvali su je nakon dva dana i pozvali je da dođe.",
       "translationEn": "They called her after two days and asked her to come.",
       "words": [
-        { "w": "اتَّصَلُوا", "root": "و ص ل", "bs": "nazvali su je/kontaktirali", "en": "called her" },
-        { "w": "يَوْمَيْنِ", "root": "ي و م", "bs": "dva dana", "en": "two days" },
-        { "w": "طَلَبُوا", "root": "ط ل ب", "bs": "tražili su/zamolio su", "en": "asked" },
-        { "w": "الْحُضُورَ", "root": "ح ض ر", "bs": "dolazak/prisustvo", "en": "coming/presence" }
+        {
+          "w": "اتَّصَلُوا",
+          "root": "و ص ل",
+          "bs": "nazvali su je/kontaktirali",
+          "en": "called her",
+          "lemma": "اتَّصَلَ يَتَّصِلُ"
+        },
+        {
+          "w": "يَوْمَيْنِ",
+          "root": "ي و م",
+          "bs": "dva dana",
+          "en": "two days",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "طَلَبُوا",
+          "root": "ط ل ب",
+          "bs": "tražili su/zamolio su",
+          "en": "asked",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الْحُضُورَ",
+          "root": "ح ض ر",
+          "bs": "dolazak/prisustvo",
+          "en": "coming/presence",
+          "lemma": "حُضُورٌ"
+        }
       ]
     },
     {
@@ -41,16 +113,51 @@
       "translation": "Otišla je na intervju i samopouzdano odgovorila na pitanja.",
       "translationEn": "She went to the interview and answered the questions with confidence.",
       "words": [
-        { "w": "ذَهَبَتْ", "root": "ذ ه ب", "bs": "otišla je", "en": "went" },
-        { "w": "الْمَقَابَلَةِ", "root": "ق ب ل", "bs": "intervju/razgovor", "en": "interview" },
-        { "w": "أَجَابَتْ", "root": "ج و ب", "bs": "odgovorila je", "en": "answered" },
-        { "w": "الْأَسْئِلَةِ", "root": "س أ ل", "bs": "pitanja", "en": "questions" },
-        { "w": "بِثِقَةٍ", "root": "ث ق ة", "bs": "samopouzdano/s pouzdanjem", "en": "with confidence" }
+        {
+          "w": "ذَهَبَتْ",
+          "root": "ذ ه ب",
+          "bs": "otišla je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الْمَقَابَلَةِ",
+          "root": "ق ب ل",
+          "bs": "intervju/razgovor",
+          "en": "interview",
+          "lemma": "مَقَابَلَةٌ / مَقَابَلَاتٌ"
+        },
+        {
+          "w": "أَجَابَتْ",
+          "root": "ج و ب",
+          "bs": "odgovorila je",
+          "en": "answered",
+          "lemma": "أَجَابَ يُجِيبُ"
+        },
+        {
+          "w": "الْأَسْئِلَةِ",
+          "root": "س أ ل",
+          "bs": "pitanja",
+          "en": "questions",
+          "lemma": "سُؤَالٌ / أَسْئِلَةٌ"
+        },
+        {
+          "w": "بِثِقَةٍ",
+          "root": "ث ق ة",
+          "bs": "samopouzdano/s pouzdanjem",
+          "en": "with confidence",
+          "lemma": "ثِقَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["job application", "interview", "email", "library"]
+    "tags": [
+      "job application",
+      "interview",
+      "email",
+      "library"
+    ]
   }
 }

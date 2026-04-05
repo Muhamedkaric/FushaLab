@@ -12,25 +12,29 @@
           "w": "فَتَحَتِ",
           "root": "ف ت ح",
           "bs": "otvorilo je",
-          "en": "opened"
+          "en": "opened",
+          "lemma": "فَتَحَ يَفْتَحُ"
         },
         {
           "w": "مَرْكَزًا",
           "root": "ر ك ز",
           "bs": "centar",
-          "en": "center"
+          "en": "center",
+          "lemma": "مَرْكَزٌ / مَرَاكِزُ"
         },
         {
           "w": "لِتَعْلِيمِ",
           "root": "ع ل م",
           "bs": "učenja",
-          "en": "learning"
+          "en": "learning",
+          "lemma": "تَعْلِيمٌ"
         },
         {
           "w": "اللُّغَاتِ",
           "root": "ل غ و",
           "bs": "jezika",
-          "en": "languages"
+          "en": "languages",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
         }
       ]
     },
@@ -43,13 +47,15 @@
           "w": "يُعَلِّمُ",
           "root": "ع ل م",
           "bs": "podučava",
-          "en": "teaches"
+          "en": "teaches",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
         },
         {
           "w": "الْمَرْكَزُ",
           "root": "ر ك ز",
           "bs": "centar",
-          "en": "center"
+          "en": "center",
+          "lemma": "مَرْكَزٌ / مَرَاكِزُ"
         }
       ]
     },
@@ -62,25 +68,29 @@
           "w": "سَجَّلَ",
           "root": "س ج ل",
           "bs": "prijavio se",
-          "en": "enrolled"
+          "en": "enrolled",
+          "lemma": "سَجَّلَ يُسَجِّلُ"
         },
         {
           "w": "الشَّبَابِ",
           "root": "ش ب ب",
           "bs": "mladi",
-          "en": "young people"
+          "en": "young people",
+          "lemma": "شَبَابٌ"
         },
         {
           "w": "الدَّوْرَاتِ",
           "root": "د و ر",
           "bs": "kurseve",
-          "en": "courses"
+          "en": "courses",
+          "lemma": "دَوْرَةٌ / دَوْرَاتٌ"
         },
         {
           "w": "الدِّرَاسِيَّةِ",
           "root": "د ر س",
           "bs": "studijske",
-          "en": "study"
+          "en": "study",
+          "lemma": "دِرَاسِيٌّ"
         }
       ]
     },
@@ -93,19 +103,22 @@
           "w": "الرُّسُومُ",
           "root": "ر س م",
           "bs": "naknade",
-          "en": "fees"
+          "en": "fees",
+          "lemma": "رَسْمٌ / رُسُومٌ"
         },
         {
           "w": "مَعْقُولَةٌ",
           "root": "ع ق ل",
           "bs": "razumne",
-          "en": "reasonable"
+          "en": "reasonable",
+          "lemma": "مَعْقُولٌ"
         },
         {
           "w": "الدُّرُوسُ",
           "root": "د ر س",
           "bs": "nastava",
-          "en": "classes"
+          "en": "classes",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
         }
       ]
     }

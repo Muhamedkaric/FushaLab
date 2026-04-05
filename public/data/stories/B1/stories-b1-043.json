@@ -8,9 +8,27 @@
       "translation": "Bio je dječak po imenu Enes koji je jako volio muziku.",
       "translationEn": "There was a boy named Anas who loved music very much.",
       "words": [
-        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dječak", "en": "boy" },
-        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "volio je", "en": "loved" },
-        { "w": "الْمُوسِيقَى", "root": "م و س", "bs": "muzika", "en": "music" }
+        {
+          "w": "طِفْلٌ",
+          "root": "ط ف ل",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "volio je",
+          "en": "loved",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الْمُوسِيقَى",
+          "root": "م و س",
+          "bs": "muzika",
+          "en": "music",
+          "lemma": "الْمُوسِيقَى"
+        }
       ]
     },
     {
@@ -18,11 +36,41 @@
       "translation": "Pronašao je staru frulu u djedinoj kući.",
       "translationEn": "He found an old flute in his grandfather's house.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
-        { "w": "نَايًا", "root": "ن ي أ", "bs": "frula", "en": "flute" },
-        { "w": "قَدِيمًا", "root": "ق د م", "bs": "staru", "en": "old" },
-        { "w": "بَيْتِ", "root": "ب ي ت", "bs": "kuća", "en": "house" },
-        { "w": "جَدِّهِ", "root": "ج د د", "bs": "njegov djed", "en": "his grandfather" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "نَايًا",
+          "root": "ن ي أ",
+          "bs": "frula",
+          "en": "flute",
+          "lemma": "نَايٌ / نَايَاتٌ"
+        },
+        {
+          "w": "قَدِيمًا",
+          "root": "ق د م",
+          "bs": "staru",
+          "en": "old",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "بَيْتِ",
+          "root": "ب ي ت",
+          "bs": "kuća",
+          "en": "house",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "جَدِّهِ",
+          "root": "ج د د",
+          "bs": "njegov djed",
+          "en": "his grandfather",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Zamolio je djeda da ga nauči svirati i djed je radosno prihvatio.",
       "translationEn": "He asked his grandfather to teach him to play and the grandfather happily agreed.",
       "words": [
-        { "w": "طَلَبَ", "root": "ط ل ب", "bs": "zamolio je", "en": "asked" },
-        { "w": "الْجَدِّ", "root": "ج د د", "bs": "djed", "en": "grandfather" },
-        { "w": "يُعَلِّمَهُ", "root": "ع ل م", "bs": "da ga nauči", "en": "to teach him" },
-        { "w": "الْعَزْفَ", "root": "ع ز ف", "bs": "sviranje", "en": "playing" },
-        { "w": "قَبِلَ", "root": "ق ب ل", "bs": "prihvatio je", "en": "agreed" }
+        {
+          "w": "طَلَبَ",
+          "root": "ط ل ب",
+          "bs": "zamolio je",
+          "en": "asked",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الْجَدِّ",
+          "root": "ج د د",
+          "bs": "djed",
+          "en": "grandfather",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        },
+        {
+          "w": "يُعَلِّمَهُ",
+          "root": "ع ل م",
+          "bs": "da ga nauči",
+          "en": "to teach him",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "الْعَزْفَ",
+          "root": "ع ز ف",
+          "bs": "sviranje",
+          "en": "playing",
+          "lemma": "عَزْفٌ"
+        },
+        {
+          "w": "قَبِلَ",
+          "root": "ق ب ل",
+          "bs": "prihvatio je",
+          "en": "agreed",
+          "lemma": "قَبِلَ يَقْبَلُ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Enes je naučio prvu melodiju i odsvirao je svojoj porodici.",
       "translationEn": "Anas learned his first melody and played it for his family.",
       "words": [
-        { "w": "تَعَلَّمَ", "root": "ع ل م", "bs": "naučio je", "en": "learned" },
-        { "w": "لَحْنٍ", "root": "ل ح ن", "bs": "melodija", "en": "melody" },
-        { "w": "عَزَفَهُ", "root": "ع ز ف", "bs": "odsvirao je", "en": "played it" },
-        { "w": "لِأُسْرَتِهِ", "root": "أ س ر", "bs": "svojoj porodici", "en": "for his family" }
+        {
+          "w": "تَعَلَّمَ",
+          "root": "ع ل م",
+          "bs": "naučio je",
+          "en": "learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "لَحْنٍ",
+          "root": "ل ح ن",
+          "bs": "melodija",
+          "en": "melody",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "عَزَفَهُ",
+          "root": "ع ز ف",
+          "bs": "odsvirao je",
+          "en": "played it",
+          "lemma": "عَزَفَ يَعْزِفُ"
+        },
+        {
+          "w": "لِأُسْرَتِهِ",
+          "root": "أ س ر",
+          "bs": "svojoj porodici",
+          "en": "for his family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["music", "boy", "grandfather", "flute"]
+    "tags": [
+      "music",
+      "boy",
+      "grandfather",
+      "flute"
+    ]
   }
 }

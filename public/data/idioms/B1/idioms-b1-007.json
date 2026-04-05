@@ -8,10 +8,34 @@
       "translation": "Poslovica kaže: «Znanje je svjetlo a neznanje je tama».",
       "translationEn": "The proverb says: «Knowledge is light and ignorance is darkness».",
       "words": [
-        { "w": "الْعِلْمُ", "root": "ع ل م", "bs": "znanje", "en": "knowledge" },
-        { "w": "نُورٌ", "root": "ن و ر", "bs": "svjetlo", "en": "light" },
-        { "w": "الْجَهْلُ", "root": "ج ه ل", "bs": "neznanje", "en": "ignorance" },
-        { "w": "ظُلْمَةٌ", "root": "ظ ل م", "bs": "tama", "en": "darkness" }
+        {
+          "w": "الْعِلْمُ",
+          "root": "ع ل م",
+          "bs": "znanje",
+          "en": "knowledge",
+          "lemma": "عِلْمٌ / عُلُومٌ"
+        },
+        {
+          "w": "نُورٌ",
+          "root": "ن و ر",
+          "bs": "svjetlo",
+          "en": "light",
+          "lemma": "نُورٌ / أَنْوَارٌ"
+        },
+        {
+          "w": "الْجَهْلُ",
+          "root": "ج ه ل",
+          "bs": "neznanje",
+          "en": "ignorance",
+          "lemma": "جَهْلٌ"
+        },
+        {
+          "w": "ظُلْمَةٌ",
+          "root": "ظ ل م",
+          "bs": "tama",
+          "en": "darkness",
+          "lemma": "ظُلْمَةٌ / ظُلُمَاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "To znači da znanje osvjetljava naš život i vodi nas.",
       "translationEn": "This means that knowledge illuminates our lives and guides us.",
       "words": [
-        { "w": "الْعِلْمَ", "root": "ع ل م", "bs": "znanje", "en": "knowledge" },
-        { "w": "يُنِيرُ", "root": "ن و ر", "bs": "osvjetljava", "en": "illuminates" },
-        { "w": "حَيَاتَنَا", "root": "ح ي ي", "bs": "naš život", "en": "our lives" },
-        { "w": "يُرْشِدُنَا", "root": "ر ش د", "bs": "vodi nas", "en": "guides us" }
+        {
+          "w": "الْعِلْمَ",
+          "root": "ع ل م",
+          "bs": "znanje",
+          "en": "knowledge",
+          "lemma": "عِلْمٌ / عُلُومٌ"
+        },
+        {
+          "w": "يُنِيرُ",
+          "root": "ن و ر",
+          "bs": "osvjetljava",
+          "en": "illuminates",
+          "lemma": "أَنَارَ يُنِيرُ"
+        },
+        {
+          "w": "حَيَاتَنَا",
+          "root": "ح ي ي",
+          "bs": "naš život",
+          "en": "our lives",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "يُرْشِدُنَا",
+          "root": "ر ش د",
+          "bs": "vodi nas",
+          "en": "guides us",
+          "lemma": "أَرْشَدَ يُرْشِدُ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Lejla je naučila čitati i pisati dok je bila mala.",
       "translationEn": "Layla learned to read and write when she was young.",
       "words": [
-        { "w": "تَعَلَّمَتْ", "root": "ع ل م", "bs": "naučila je", "en": "learned" },
-        { "w": "الْقِرَاءَةَ", "root": "ق ر أ", "bs": "čitanje", "en": "reading" },
-        { "w": "الْكِتَابَةَ", "root": "ك ت ب", "bs": "pisanje", "en": "writing" },
-        { "w": "صَغِيرَةٌ", "root": "ص غ ر", "bs": "mala", "en": "young" }
+        {
+          "w": "تَعَلَّمَتْ",
+          "root": "ع ل م",
+          "bs": "naučila je",
+          "en": "learned",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الْقِرَاءَةَ",
+          "root": "ق ر أ",
+          "bs": "čitanje",
+          "en": "reading",
+          "lemma": "قِرَاءَةٌ"
+        },
+        {
+          "w": "الْكِتَابَةَ",
+          "root": "ك ت ب",
+          "bs": "pisanje",
+          "en": "writing",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "young",
+          "lemma": "صَغِيرٌ"
+        }
       ]
     },
     {
@@ -41,14 +113,36 @@
       "translation": "Postala je učiteljica i pomogla je mnogoj djeci.",
       "translationEn": "She became a teacher and helped many children.",
       "words": [
-        { "w": "مُعَلِّمَةً", "root": "ع ل م", "bs": "učiteljica", "en": "teacher" },
-        { "w": "سَاعَدَتْ", "root": "س ع د", "bs": "pomogla je", "en": "helped" },
-        { "w": "الأَطْفَالِ", "root": "ط ف ل", "bs": "djeca", "en": "children" }
+        {
+          "w": "مُعَلِّمَةً",
+          "root": "ع ل م",
+          "bs": "učiteljica",
+          "en": "teacher",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "سَاعَدَتْ",
+          "root": "س ع د",
+          "bs": "pomogla je",
+          "en": "helped",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "الأَطْفَالِ",
+          "root": "ط ف ل",
+          "bs": "djeca",
+          "en": "children",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["knowledge", "proverb", "education"]
+    "tags": [
+      "knowledge",
+      "proverb",
+      "education"
+    ]
   }
 }

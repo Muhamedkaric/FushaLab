@@ -8,10 +8,34 @@
       "translation": "Karim je pronašao mačića ispred kućnih vrata.",
       "translationEn": "Karim found a small cat in front of the house door.",
       "words": [
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "found" },
-        { "w": "قِطَّةً", "root": "ق ط ط", "bs": "mačka/mačić", "en": "cat" },
-        { "w": "صَغِيرَةً", "root": "ص غ ر", "bs": "mala", "en": "small" },
-        { "w": "بَابِ", "root": "ب و ب", "bs": "vrata", "en": "door" }
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "قِطَّةً",
+          "root": "ق ط ط",
+          "bs": "mačka/mačić",
+          "en": "cat",
+          "lemma": "قِطَّةٌ / قِطَطٌ"
+        },
+        {
+          "w": "صَغِيرَةً",
+          "root": "ص غ ر",
+          "bs": "mala",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "بَابِ",
+          "root": "ب و ب",
+          "bs": "vrata",
+          "en": "door",
+          "lemma": "بَابٌ / أَبْوَابٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Mačka je bila gladna i izgledala je uplašeno.",
       "translationEn": "The cat was hungry and looked frightened.",
       "words": [
-        { "w": "الْقِطَّةُ", "root": "ق ط ط", "bs": "mačka", "en": "cat" },
-        { "w": "جَائِعَةً", "root": "ج و ع", "bs": "gladna", "en": "hungry" },
-        { "w": "خَائِفَةً", "root": "خ و ف", "bs": "uplašena", "en": "frightened" }
+        {
+          "w": "الْقِطَّةُ",
+          "root": "ق ط ط",
+          "bs": "mačka",
+          "en": "cat",
+          "lemma": "قِطَّةٌ / قِطَطٌ"
+        },
+        {
+          "w": "جَائِعَةً",
+          "root": "ج و ع",
+          "bs": "gladna",
+          "en": "hungry",
+          "lemma": "جَائِعٌ"
+        },
+        {
+          "w": "خَائِفَةً",
+          "root": "خ و ف",
+          "bs": "uplašena",
+          "en": "frightened",
+          "lemma": "خَائِفٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Karim joj je brzo donio hranu i vodu.",
       "translationEn": "Karim quickly brought her food and water.",
       "words": [
-        { "w": "أَحْضَرَ", "root": "ح ض ر", "bs": "donio je", "en": "brought" },
-        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana", "en": "food" },
-        { "w": "الْمَاءَ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+        {
+          "w": "أَحْضَرَ",
+          "root": "ح ض ر",
+          "bs": "donio je",
+          "en": "brought",
+          "lemma": "أَحْضَرَ يُحْضِرُ"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hrana",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْمَاءَ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly",
+          "lemma": "سُرْعَةٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Porodica je odlučila brinuti se o mački i uzgajati je.",
       "translationEn": "The family decided to take care of the cat and raise it.",
       "words": [
-        { "w": "قَرَّرَتِ", "root": "ق ر ر", "bs": "odlučila je", "en": "decided" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "الِاعْتِنَاءَ", "root": "ع ن ي", "bs": "briga/staranje", "en": "care" },
-        { "w": "تَرْبِيَتَهَا", "root": "ر ب و", "bs": "odgajanje", "en": "raising it" }
+        {
+          "w": "قَرَّرَتِ",
+          "root": "ق ر ر",
+          "bs": "odlučila je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "الِاعْتِنَاءَ",
+          "root": "ع ن ي",
+          "bs": "briga/staranje",
+          "en": "care",
+          "lemma": "اِعْتِنَاءٌ"
+        },
+        {
+          "w": "تَرْبِيَتَهَا",
+          "root": "ر ب و",
+          "bs": "odgajanje",
+          "en": "raising it",
+          "lemma": "تَرْبِيَةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["animals", "family", "daily life"]
+    "tags": [
+      "animals",
+      "family",
+      "daily life"
+    ]
   }
 }

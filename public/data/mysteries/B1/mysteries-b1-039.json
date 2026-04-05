@@ -8,9 +8,27 @@
       "translation": "Aya je izgubila male makaze.",
       "translationEn": "Aya lost her small scissors.",
       "words": [
-        { "w": "فَقَدَتْ", "root": "ف ق د", "bs": "izgubila je", "en": "she lost" },
-        { "w": "مِقَصَّهَا", "root": "ق ص ص", "bs": "makaze", "en": "her scissors" },
-        { "w": "الصَّغِيرَ", "root": "ص غ ر", "bs": "male", "en": "small" }
+        {
+          "w": "فَقَدَتْ",
+          "root": "ف ق د",
+          "bs": "izgubila je",
+          "en": "she lost",
+          "lemma": "فَقَدَ يَفْقِدُ"
+        },
+        {
+          "w": "مِقَصَّهَا",
+          "root": "ق ص ص",
+          "bs": "makaze",
+          "en": "her scissors",
+          "lemma": "مِقَصٌّ / مَقَاصُّ"
+        },
+        {
+          "w": "الصَّغِيرَ",
+          "root": "ص غ ر",
+          "bs": "male",
+          "en": "small",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "Tražila ih je u torbi i u fioci.",
       "translationEn": "She looked for them in her bag and in the drawer.",
       "words": [
-        { "w": "بَحَثَتْ", "root": "ب ح ث", "bs": "tražila je", "en": "she looked for" },
-        { "w": "حَقِيبَتِهَا", "root": "ح ق ب", "bs": "torbi", "en": "her bag" },
-        { "w": "الدَّرَجِ", "root": "د ر ج", "bs": "fioci", "en": "drawer" }
+        {
+          "w": "بَحَثَتْ",
+          "root": "ب ح ث",
+          "bs": "tražila je",
+          "en": "she looked for",
+          "lemma": "بَحَثَ يَبْحَثُ"
+        },
+        {
+          "w": "حَقِيبَتِهَا",
+          "root": "ح ق ب",
+          "bs": "torbi",
+          "en": "her bag",
+          "lemma": "حَقِيبَةٌ / حَقَائِبُ"
+        },
+        {
+          "w": "الدَّرَجِ",
+          "root": "د ر ج",
+          "bs": "fioci",
+          "en": "drawer",
+          "lemma": "دَرَجٌ / أَدْرَاجٌ"
+        }
       ]
     },
     {
@@ -28,9 +64,27 @@
       "translation": "Ponovo je tražila svuda.",
       "translationEn": "She searched everywhere again.",
       "words": [
-        { "w": "أَعَادَتِ", "root": "ع و د", "bs": "ponovo je", "en": "she again" },
-        { "w": "الْبَحْثَ", "root": "ب ح ث", "bs": "tražila", "en": "searched" },
-        { "w": "مَكَانٍ", "root": "ك و ن", "bs": "mjesto", "en": "place" }
+        {
+          "w": "أَعَادَتِ",
+          "root": "ع و د",
+          "bs": "ponovo je",
+          "en": "she again",
+          "lemma": "أَعَادَ يُعِيدُ"
+        },
+        {
+          "w": "الْبَحْثَ",
+          "root": "ب ح ث",
+          "bs": "tražila",
+          "en": "searched",
+          "lemma": "بَحْثٌ / بُحُوثٌ"
+        },
+        {
+          "w": "مَكَانٍ",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        }
       ]
     },
     {
@@ -38,10 +92,34 @@
       "translation": "Konačno ih je pronašla ispod tepiha u svojoj sobi.",
       "translationEn": "She finally found them under the carpet in her room.",
       "words": [
-        { "w": "وَجَدَتْهُمَا", "root": "و ج د", "bs": "pronašla ih je", "en": "she found them" },
-        { "w": "أَخِيرًا", "root": "أ خ ر", "bs": "konačno", "en": "finally" },
-        { "w": "سَجَّادَةِ", "root": "س ج د", "bs": "tepiha", "en": "carpet" },
-        { "w": "غُرْفَتِهَا", "root": "غ ر ف", "bs": "sobe", "en": "her room" }
+        {
+          "w": "وَجَدَتْهُمَا",
+          "root": "و ج د",
+          "bs": "pronašla ih je",
+          "en": "she found them",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "أَخِيرًا",
+          "root": "أ خ ر",
+          "bs": "konačno",
+          "en": "finally",
+          "lemma": "أَخِيرًا"
+        },
+        {
+          "w": "سَجَّادَةِ",
+          "root": "س ج د",
+          "bs": "tepiha",
+          "en": "carpet",
+          "lemma": "سَجَّادَةٌ / سَجَّادَاتٌ"
+        },
+        {
+          "w": "غُرْفَتِهَا",
+          "root": "غ ر ف",
+          "bs": "sobe",
+          "en": "her room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        }
       ]
     },
     {
@@ -49,16 +127,51 @@
       "translation": "Odlučila je uvijek stavljati sve na svoje mjesto.",
       "translationEn": "She decided to always put everything in its place.",
       "words": [
-        { "w": "قَرَّرَتْ", "root": "ق ر ر", "bs": "odlučila je", "en": "she decided" },
-        { "w": "تَضَعَ", "root": "و ض ع", "bs": "stavljati", "en": "to put" },
-        { "w": "شَيْءٍ", "root": "ش ي أ", "bs": "stvar", "en": "thing" },
-        { "w": "مَكَانِهِ", "root": "ك و ن", "bs": "mjesto", "en": "its place" },
-        { "w": "دَائِمًا", "root": "د و م", "bs": "uvijek", "en": "always" }
+        {
+          "w": "قَرَّرَتْ",
+          "root": "ق ر ر",
+          "bs": "odlučila je",
+          "en": "she decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "تَضَعَ",
+          "root": "و ض ع",
+          "bs": "stavljati",
+          "en": "to put",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "شَيْءٍ",
+          "root": "ش ي أ",
+          "bs": "stvar",
+          "en": "thing",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "مَكَانِهِ",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "its place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "دَائِمًا",
+          "root": "د و م",
+          "bs": "uvijek",
+          "en": "always",
+          "lemma": "دَائِمٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "scissors", "lost", "home"]
+    "tags": [
+      "mystery",
+      "scissors",
+      "lost",
+      "home"
+    ]
   }
 }

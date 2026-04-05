@@ -8,11 +8,41 @@
       "translation": "Smatram da red i organiziranost pomažu u poslu.",
       "translationEn": "I believe that order and organisation help in work.",
       "words": [
-        { "w": "أَعْتَقِدُ", "root": "ع ق د", "bs": "smatram", "en": "I believe" },
-        { "w": "النَّظَامَ", "root": "ن ظ م", "bs": "red", "en": "order" },
-        { "w": "التَّرْتِيبَ", "root": "ر ت ب", "bs": "organiziranost", "en": "organisation" },
-        { "w": "يُسَاعِدَانِ", "root": "س ع د", "bs": "pomažu", "en": "help" },
-        { "w": "الْعَمَلِ", "root": "ع م ل", "bs": "poslu", "en": "work" }
+        {
+          "w": "أَعْتَقِدُ",
+          "root": "ع ق د",
+          "bs": "smatram",
+          "en": "I believe",
+          "lemma": "اعْتَقَدَ يَعْتَقِدُ"
+        },
+        {
+          "w": "النَّظَامَ",
+          "root": "ن ظ م",
+          "bs": "red",
+          "en": "order",
+          "lemma": "نِظَامٌ / أَنْظِمَةٌ"
+        },
+        {
+          "w": "التَّرْتِيبَ",
+          "root": "ر ت ب",
+          "bs": "organiziranost",
+          "en": "organisation",
+          "lemma": "تَرْتِيبٌ / تَرْتِيبَاتٌ"
+        },
+        {
+          "w": "يُسَاعِدَانِ",
+          "root": "س ع د",
+          "bs": "pomažu",
+          "en": "help",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "root": "ع م ل",
+          "bs": "poslu",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Kada su stvari poredane, lakše ih je pronaći.",
       "translationEn": "When things are tidy they are easy to find.",
       "words": [
-        { "w": "الْأَشْيَاءُ", "root": "ش ي أ", "bs": "stvari", "en": "things" },
-        { "w": "مُرَتَّبَةً", "root": "ر ت ب", "bs": "poredane", "en": "tidy" },
-        { "w": "يَسْهُلُ", "root": "س ه ل", "bs": "lakše je", "en": "it is easy" },
-        { "w": "إِيجَادُهَا", "root": "و ج د", "bs": "pronaći ih", "en": "finding them" }
+        {
+          "w": "الْأَشْيَاءُ",
+          "root": "ش ي أ",
+          "bs": "stvari",
+          "en": "things",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "مُرَتَّبَةً",
+          "root": "ر ت ب",
+          "bs": "poredane",
+          "en": "tidy",
+          "lemma": "مُرَتَّبٌ"
+        },
+        {
+          "w": "يَسْهُلُ",
+          "root": "س ه ل",
+          "bs": "lakše je",
+          "en": "it is easy",
+          "lemma": "سَهُلَ يَسْهُلُ"
+        },
+        {
+          "w": "إِيجَادُهَا",
+          "root": "و ج د",
+          "bs": "pronaći ih",
+          "en": "finding them",
+          "lemma": "إِيجَادٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Trudim se svako jutro pospremiti svoju sobu.",
       "translationEn": "I try to tidy my room every morning.",
       "words": [
-        { "w": "أُحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
-        { "w": "أُرَتِّبَ", "root": "ر ت ب", "bs": "pospremiti", "en": "to tidy" },
-        { "w": "غُرْفَتِي", "root": "غ ر ف", "bs": "sobu", "en": "my room" },
-        { "w": "صَبَاحٍ", "root": "ص ب ح", "bs": "jutro", "en": "morning" }
+        {
+          "w": "أُحَاوِلُ",
+          "root": "ح و ل",
+          "bs": "trudim se",
+          "en": "I try",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "أُرَتِّبَ",
+          "root": "ر ت ب",
+          "bs": "pospremiti",
+          "en": "to tidy",
+          "lemma": "رَتَّبَ يُرَتِّبُ"
+        },
+        {
+          "w": "غُرْفَتِي",
+          "root": "غ ر ف",
+          "bs": "sobu",
+          "en": "my room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        },
+        {
+          "w": "صَبَاحٍ",
+          "root": "ص ب ح",
+          "bs": "jutro",
+          "en": "morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        }
       ]
     },
     {
@@ -42,17 +120,58 @@
       "translation": "Organizirana osoba postigne puno u kratkom vremenu.",
       "translationEn": "An organised person achieves a lot in a short time.",
       "words": [
-        { "w": "الشَّخْصُ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
-        { "w": "الْمُنَظَّمُ", "root": "ن ظ م", "bs": "organizirana", "en": "organised" },
-        { "w": "يُنْجِزُ", "root": "ن ج ز", "bs": "postigne", "en": "achieves" },
-        { "w": "كَثِيرًا", "root": "ك ث ر", "bs": "puno", "en": "a lot" },
-        { "w": "وَقْتٍ", "root": "و ق ت", "bs": "vremenu", "en": "time" },
-        { "w": "قَصِيرٍ", "root": "ق ص ر", "bs": "kratkom", "en": "short" }
+        {
+          "w": "الشَّخْصُ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "الْمُنَظَّمُ",
+          "root": "ن ظ م",
+          "bs": "organizirana",
+          "en": "organised",
+          "lemma": "مُنَظَّمٌ"
+        },
+        {
+          "w": "يُنْجِزُ",
+          "root": "ن ج ز",
+          "bs": "postigne",
+          "en": "achieves",
+          "lemma": "أَنْجَزَ يُنْجِزُ"
+        },
+        {
+          "w": "كَثِيرًا",
+          "root": "ك ث ر",
+          "bs": "puno",
+          "en": "a lot",
+          "lemma": "كَثِيرٌ"
+        },
+        {
+          "w": "وَقْتٍ",
+          "root": "و ق ت",
+          "bs": "vremenu",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "قَصِيرٍ",
+          "root": "ق ص ر",
+          "bs": "kratkom",
+          "en": "short",
+          "lemma": "قَصِيرٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "organisation", "habits", "productivity"]
+    "tags": [
+      "opinion",
+      "organisation",
+      "habits",
+      "productivity"
+    ]
   }
 }

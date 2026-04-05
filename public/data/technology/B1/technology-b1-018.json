@@ -12,25 +12,29 @@
           "w": "شَاهَدَتِ",
           "root": "ش ه د",
           "bs": "gledala je",
-          "en": "watched"
+          "en": "watched",
+          "lemma": "شَاهَدَ يُشَاهِدُ"
         },
         {
           "w": "الْعَائِلَةُ",
           "root": "ع و ل",
           "bs": "porodica",
-          "en": "the family"
+          "en": "the family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
         },
         {
           "w": "فِيلْمًا",
           "root": "ف ل م",
           "bs": "film",
-          "en": "a movie"
+          "en": "a movie",
+          "lemma": "فِيلْمٌ / أَفْلَامٌ"
         },
         {
           "w": "التِّلِفِزْيُونِ الذَّكِيِّ",
           "root": "ذ ك و",
           "bs": "pametnoj televiziji",
-          "en": "the smart TV"
+          "en": "the smart TV",
+          "lemma": "تِلِفِزْيُونٌ ذَكِيٌّ"
         }
       ]
     },
@@ -43,24 +47,28 @@
           "w": "اخْتَارَ",
           "root": "خ ي ر",
           "bs": "odabrao je",
-          "en": "chose"
+          "en": "chose",
+          "lemma": "اخْتَارَ يَخْتَارُ"
         },
         {
           "w": "الْأَبُ",
           "root": "أ ب و",
           "bs": "otac",
-          "en": "the father"
+          "en": "the father",
+          "lemma": "أَبٌ / آبَاءٌ"
         },
         {
           "w": "الْفِيلْمَ",
           "root": "ف ل م",
           "bs": "film",
-          "en": "the movie"
+          "en": "the movie",
+          "lemma": "فِيلْمٌ / أَفْلَامٌ"
         },
         {
           "w": "الْإِنْتِرْنِتِ",
           "bs": "interneta",
-          "en": "the internet"
+          "en": "the internet",
+          "lemma": "إِنْتِرْنِتٌ"
         }
       ]
     },
@@ -73,25 +81,29 @@
           "w": "جَلَسَ",
           "root": "ج ل س",
           "bs": "sjeo je",
-          "en": "sat"
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
         },
         {
           "w": "الْجَمِيعُ",
           "root": "ج م ع",
           "bs": "svi",
-          "en": "everyone"
+          "en": "everyone",
+          "lemma": "الْجَمِيعُ"
         },
         {
           "w": "شَاهَدُوهُ",
           "root": "ش ه د",
           "bs": "gledali su ga",
-          "en": "watched it"
+          "en": "watched it",
+          "lemma": "شَاهَدَ يُشَاهِدُ"
         },
         {
           "w": "بِسَعَادَةٍ",
           "root": "س ع د",
           "bs": "sretno",
-          "en": "happily"
+          "en": "happily",
+          "lemma": "سَعَادَةٌ"
         }
       ]
     },
@@ -104,25 +116,29 @@
           "w": "الْفِيلْمِ",
           "root": "ف ل م",
           "bs": "filma",
-          "en": "the movie"
+          "en": "the movie",
+          "lemma": "فِيلْمٌ / أَفْلَامٌ"
         },
         {
           "w": "تَحَدَّثُوا",
           "root": "ح د ث",
           "bs": "razgovarali su",
-          "en": "talked"
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
         },
         {
           "w": "أَجْمَلِ",
           "root": "ج م ل",
           "bs": "najljepšim",
-          "en": "most beautiful"
+          "en": "most beautiful",
+          "lemma": "جَمِيلٌ"
         },
         {
           "w": "مَشَاهِدِهِ",
           "root": "ش ه د",
           "bs": "scenama",
-          "en": "its scenes"
+          "en": "its scenes",
+          "lemma": "مَشْهَدٌ / مَشَاهِدُ"
         }
       ]
     }

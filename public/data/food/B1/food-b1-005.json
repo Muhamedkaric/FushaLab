@@ -8,10 +8,34 @@
       "translation": "Porodica se probudila i jela doručak zajedno.",
       "translationEn": "The family woke up and ate breakfast together.",
       "words": [
-        { "w": "اسْتَيْقَظَتِ", "root": "ي ق ظ", "bs": "probudila se", "en": "woke up" },
-        { "w": "الْعَائِلَةُ", "root": "ع و ل", "bs": "porodica", "en": "family" },
-        { "w": "أَكَلَتِ", "root": "أ ك ل", "bs": "jela je", "en": "ate" },
-        { "w": "الْفُطُورَ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" }
+        {
+          "w": "اسْتَيْقَظَتِ",
+          "root": "ي ق ظ",
+          "bs": "probudila se",
+          "en": "woke up",
+          "lemma": "اِسْتَيْقَظَ يَسْتَيْقِظُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "أَكَلَتِ",
+          "root": "أ ك ل",
+          "bs": "jela je",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الْفُطُورَ",
+          "root": "ف ط ر",
+          "bs": "doručak",
+          "en": "breakfast",
+          "lemma": "فُطُورٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Na stolu je bio hljeb, sir i jaja.",
       "translationEn": "On the table there was bread, cheese, and eggs.",
       "words": [
-        { "w": "الطَّاوِلَةِ", "root": "ط و ل", "bs": "stol/sto", "en": "table" },
-        { "w": "خُبْزٌ", "root": "خ ب ز", "bs": "hljeb", "en": "bread" },
-        { "w": "جُبْنٌ", "root": "ج ب ن", "bs": "sir", "en": "cheese" },
-        { "w": "بَيْضٌ", "root": "ب ي ض", "bs": "jaja", "en": "eggs" }
+        {
+          "w": "الطَّاوِلَةِ",
+          "root": "ط و ل",
+          "bs": "stol/sto",
+          "en": "table",
+          "lemma": "طَاوِلَةٌ / طَاوِلَاتٌ"
+        },
+        {
+          "w": "خُبْزٌ",
+          "root": "خ ب ز",
+          "bs": "hljeb",
+          "en": "bread",
+          "lemma": "خُبْزٌ / أَخْبَازٌ"
+        },
+        {
+          "w": "جُبْنٌ",
+          "root": "ج ب ن",
+          "bs": "sir",
+          "en": "cheese",
+          "lemma": "جُبْنٌ / أَجْبَانٌ"
+        },
+        {
+          "w": "بَيْضٌ",
+          "root": "ب ي ض",
+          "bs": "jaja",
+          "en": "eggs",
+          "lemma": "بَيْضٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Svi su pili čaj sa mlijekom.",
       "translationEn": "Everyone drank tea with milk.",
       "words": [
-        { "w": "شَرِبَ", "root": "ش ر ب", "bs": "pili su", "en": "drank" },
-        { "w": "الْجَمِيعُ", "root": "ج م ع", "bs": "svi", "en": "everyone" },
-        { "w": "الشَّاي", "root": "ش ي أ", "bs": "čaj", "en": "tea" },
-        { "w": "الْحَلِيبِ", "root": "ح ل ب", "bs": "mlijeko", "en": "milk" }
+        {
+          "w": "شَرِبَ",
+          "root": "ش ر ب",
+          "bs": "pili su",
+          "en": "drank",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "الْجَمِيعُ",
+          "root": "ج م ع",
+          "bs": "svi",
+          "en": "everyone",
+          "lemma": "الْجَمِيعُ"
+        },
+        {
+          "w": "الشَّاي",
+          "root": "ش ي أ",
+          "bs": "čaj",
+          "en": "tea",
+          "lemma": "شَايٌ"
+        },
+        {
+          "w": "الْحَلِيبِ",
+          "root": "ح ل ب",
+          "bs": "mlijeko",
+          "en": "milk",
+          "lemma": "حَلِيبٌ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Doručak je bio jednostavan ali lijep.",
       "translationEn": "The breakfast was simple but lovely.",
       "words": [
-        { "w": "الْفُطُورُ", "root": "ف ط ر", "bs": "doručak", "en": "breakfast" },
-        { "w": "بَسِيطًا", "root": "ب س ط", "bs": "jednostavan", "en": "simple" },
-        { "w": "جَمِيلٌ", "root": "ج م ل", "bs": "lijep/ugodan", "en": "lovely/beautiful" }
+        {
+          "w": "الْفُطُورُ",
+          "root": "ف ط ر",
+          "bs": "doručak",
+          "en": "breakfast",
+          "lemma": "فُطُورٌ"
+        },
+        {
+          "w": "بَسِيطًا",
+          "root": "ب س ط",
+          "bs": "jednostavan",
+          "en": "simple",
+          "lemma": "بَسِيطٌ"
+        },
+        {
+          "w": "جَمِيلٌ",
+          "root": "ج م ل",
+          "bs": "lijep/ugodan",
+          "en": "lovely/beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     }
   ],

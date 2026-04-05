@@ -8,10 +8,34 @@
       "translation": "Majka je rekla: «Štap za putovanje dolazi od navike putovanja».",
       "translationEn": "The mother said: «The travel staff comes from the habit of traveling».",
       "words": [
-        { "w": "عَصَا", "root": "ع ص و", "bs": "štap", "en": "staff" },
-        { "w": "السَّفَرِ", "root": "س ف ر", "bs": "putovanje", "en": "travel" },
-        { "w": "عَادَةِ", "root": "ع و د", "bs": "navika", "en": "habit" },
-        { "w": "الْأَسْفَارِ", "root": "س ف ر", "bs": "putovanja", "en": "travels" }
+        {
+          "w": "عَصَا",
+          "root": "ع ص و",
+          "bs": "štap",
+          "en": "staff",
+          "lemma": "عَصَا / عِصِيٌّ"
+        },
+        {
+          "w": "السَّفَرِ",
+          "root": "س ف ر",
+          "bs": "putovanje",
+          "en": "travel",
+          "lemma": "سَفَرٌ / أَسْفَارٌ"
+        },
+        {
+          "w": "عَادَةِ",
+          "root": "ع و د",
+          "bs": "navika",
+          "en": "habit",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "الْأَسْفَارِ",
+          "root": "س ف ر",
+          "bs": "putovanja",
+          "en": "travels",
+          "lemma": "سَفَرٌ / أَسْفَارٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "To znači da dobra priprema čini stvari lakšim.",
       "translationEn": "This means that good preparation makes things easier.",
       "words": [
-        { "w": "الِاسْتِعْدَادَ", "root": "ع د د", "bs": "priprema", "en": "preparation" },
-        { "w": "الْجَيِّدَ", "root": "ج و د", "bs": "dobra", "en": "good" },
-        { "w": "أَسْهَلَ", "root": "س ه ل", "bs": "lakše", "en": "easier" }
+        {
+          "w": "الِاسْتِعْدَادَ",
+          "root": "ع د د",
+          "bs": "priprema",
+          "en": "preparation",
+          "lemma": "اِسْتِعْدَادٌ / اِسْتِعْدَادَاتٌ"
+        },
+        {
+          "w": "الْجَيِّدَ",
+          "root": "ج و د",
+          "bs": "dobra",
+          "en": "good",
+          "lemma": "جَيِّدٌ"
+        },
+        {
+          "w": "أَسْهَلَ",
+          "root": "س ه ل",
+          "bs": "lakše",
+          "en": "easier",
+          "lemma": "سَهْلٌ"
+        }
       ]
     },
     {
@@ -29,9 +71,27 @@
       "translation": "Majas je pripremila svoju torbu dva dana prije putovanja.",
       "translationEn": "Mayas prepared her bag two days before the trip.",
       "words": [
-        { "w": "حَضَّرَتْ", "root": "ح ض ر", "bs": "pripremila je", "en": "prepared" },
-        { "w": "حَقِيبَتَهَا", "root": "ح ق ب", "bs": "njena torba", "en": "her bag" },
-        { "w": "الرِّحْلَةِ", "root": "ر ح ل", "bs": "putovanje", "en": "trip" }
+        {
+          "w": "حَضَّرَتْ",
+          "root": "ح ض ر",
+          "bs": "pripremila je",
+          "en": "prepared",
+          "lemma": "حَضَّرَ يُحَضِّرُ"
+        },
+        {
+          "w": "حَقِيبَتَهَا",
+          "root": "ح ق ب",
+          "bs": "njena torba",
+          "en": "her bag",
+          "lemma": "حَقِيبَةٌ / حَقَائِبُ"
+        },
+        {
+          "w": "الرِّحْلَةِ",
+          "root": "ر ح ل",
+          "bs": "putovanje",
+          "en": "trip",
+          "lemma": "رِحْلَةٌ / رِحَلٌ"
+        }
       ]
     },
     {
@@ -39,15 +99,43 @@
       "translation": "Stigla je na aerodrom mirno i bez stresa.",
       "translationEn": "She arrived at the airport calmly and without stress.",
       "words": [
-        { "w": "وَصَلَتْ", "root": "و ص ل", "bs": "stigla je", "en": "arrived" },
-        { "w": "الْمَطَارِ", "root": "ط ي ر", "bs": "aerodrom", "en": "airport" },
-        { "w": "بِهُدُوءٍ", "root": "ه د أ", "bs": "mirno", "en": "calmly" },
-        { "w": "تَوَتُّرٍ", "root": "و ت ر", "bs": "stres", "en": "stress" }
+        {
+          "w": "وَصَلَتْ",
+          "root": "و ص ل",
+          "bs": "stigla je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْمَطَارِ",
+          "root": "ط ي ر",
+          "bs": "aerodrom",
+          "en": "airport",
+          "lemma": "مَطَارٌ / مَطَارَاتٌ"
+        },
+        {
+          "w": "بِهُدُوءٍ",
+          "root": "ه د أ",
+          "bs": "mirno",
+          "en": "calmly",
+          "lemma": "هُدُوءٌ"
+        },
+        {
+          "w": "تَوَتُّرٍ",
+          "root": "و ت ر",
+          "bs": "stres",
+          "en": "stress",
+          "lemma": "تَوَتُّرٌ / تَوَتُّرَاتٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["preparation", "proverb", "travel"]
+    "tags": [
+      "preparation",
+      "proverb",
+      "travel"
+    ]
   }
 }

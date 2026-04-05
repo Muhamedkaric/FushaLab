@@ -8,10 +8,34 @@
       "translation": "Voz je kasnio zbog lošeg vremena.",
       "translationEn": "The train arrived late because of bad weather.",
       "words": [
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
-        { "w": "الْقِطَارُ", "root": "ق ط ر", "bs": "voz", "en": "train" },
-        { "w": "مُتَأَخِّرًا", "root": "أ خ ر", "bs": "kasno / zakasnjelo", "en": "late" },
-        { "w": "الطَّقْسِ", "root": "ط ق س", "bs": "vremenska situacija", "en": "weather" }
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْقِطَارُ",
+          "root": "ق ط ر",
+          "bs": "voz",
+          "en": "train",
+          "lemma": "قِطَارٌ / قِطَارَاتٌ"
+        },
+        {
+          "w": "مُتَأَخِّرًا",
+          "root": "أ خ ر",
+          "bs": "kasno / zakasnjelo",
+          "en": "late",
+          "lemma": "مُتَأَخِّرٌ"
+        },
+        {
+          "w": "الطَّقْسِ",
+          "root": "ط ق س",
+          "bs": "vremenska situacija",
+          "en": "weather",
+          "lemma": "طَقْسٌ / أَطْقَاسٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Putnici su strpljivo čekali na stanici.",
       "translationEn": "The travelers waited at the station patiently.",
       "words": [
-        { "w": "انْتَظَرَ", "root": "ن ظ ر", "bs": "čekali su", "en": "waited" },
-        { "w": "الْمُسَافِرُونَ", "root": "س ف ر", "bs": "putnici", "en": "travelers" },
-        { "w": "الْمَحَطَّةِ", "root": "ح ط ط", "bs": "stanica", "en": "station" },
-        { "w": "صَابِرُونَ", "root": "ص ب ر", "bs": "strpljivi", "en": "patient" }
+        {
+          "w": "انْتَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "čekali su",
+          "en": "waited",
+          "lemma": "اِنْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "الْمُسَافِرُونَ",
+          "root": "س ف ر",
+          "bs": "putnici",
+          "en": "travelers",
+          "lemma": "مُسَافِرٌ / مُسَافِرُونَ"
+        },
+        {
+          "w": "الْمَحَطَّةِ",
+          "root": "ح ط ط",
+          "bs": "stanica",
+          "en": "station",
+          "lemma": "مَحَطَّةٌ / مَحَطَّاتٌ"
+        },
+        {
+          "w": "صَابِرُونَ",
+          "root": "ص ب ر",
+          "bs": "strpljivi",
+          "en": "patient",
+          "lemma": "صَابِرٌ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Neki od njih su pili čaj i razgovarali.",
       "translationEn": "Some of them drank tea and talked to each other.",
       "words": [
-        { "w": "شَرِبَ", "root": "ش ر ب", "bs": "pili su", "en": "drank" },
-        { "w": "الشَّاي", "root": "ش ي ي", "bs": "čaj", "en": "tea" },
-        { "w": "تَحَدَّثُوا", "root": "ح د ث", "bs": "razgovarali su", "en": "talked" }
+        {
+          "w": "شَرِبَ",
+          "root": "ش ر ب",
+          "bs": "pili su",
+          "en": "drank",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "الشَّاي",
+          "root": "ش ي ي",
+          "bs": "čaj",
+          "en": "tea",
+          "lemma": "شَايٌ"
+        },
+        {
+          "w": "تَحَدَّثُوا",
+          "root": "ح د ث",
+          "bs": "razgovarali su",
+          "en": "talked",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        }
       ]
     },
     {
@@ -40,9 +106,27 @@
       "translation": "Kad je voz stigao ukrcali su se radosno.",
       "translationEn": "When the train arrived they boarded happily.",
       "words": [
-        { "w": "وَصَلَ", "root": "و ص ل", "bs": "stigao je", "en": "arrived" },
-        { "w": "الْقِطَارُ", "root": "ق ط ر", "bs": "voz", "en": "train" },
-        { "w": "صَعِدُوا", "root": "ص ع د", "bs": "ukrcali su se / popeli su se", "en": "boarded / got on" }
+        {
+          "w": "وَصَلَ",
+          "root": "و ص ل",
+          "bs": "stigao je",
+          "en": "arrived",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الْقِطَارُ",
+          "root": "ق ط ر",
+          "bs": "voz",
+          "en": "train",
+          "lemma": "قِطَارٌ / قِطَارَاتٌ"
+        },
+        {
+          "w": "صَعِدُوا",
+          "root": "ص ع د",
+          "bs": "ukrcali su se / popeli su se",
+          "en": "boarded / got on",
+          "lemma": "صَعِدَ يَصْعَدُ"
+        }
       ]
     }
   ],

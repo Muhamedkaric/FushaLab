@@ -8,9 +8,27 @@
       "translation": "Dijete je pitalo oca: Odakle dolazi novac?",
       "translationEn": "The child asked his father: Where does money come from?",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitalo je", "en": "asked" },
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "النُّقُودُ", "root": "ن ق د", "bs": "novac", "en": "money" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitalo je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "النُّقُودُ",
+          "root": "ن ق د",
+          "bs": "novac",
+          "en": "money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        }
       ]
     },
     {
@@ -18,10 +36,34 @@
       "translation": "Otac je odgovorio: Ljudi rade i dobivaju platu.",
       "translationEn": "The father answered: People work and receive wages.",
       "words": [
-        { "w": "أَجَابَ", "root": "ج و ب", "bs": "odgovorio je", "en": "answered" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "people" },
-        { "w": "يَعْمَلُونَ", "root": "ع م ل", "bs": "rade", "en": "work" },
-        { "w": "أَجْرًا", "root": "أ ج ر", "bs": "plata", "en": "wages" }
+        {
+          "w": "أَجَابَ",
+          "root": "ج و ب",
+          "bs": "odgovorio je",
+          "en": "answered",
+          "lemma": "أَجَابَ يُجِيبُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "يَعْمَلُونَ",
+          "root": "ع م ل",
+          "bs": "rade",
+          "en": "work",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "أَجْرًا",
+          "root": "أ ج ر",
+          "bs": "plata",
+          "en": "wages",
+          "lemma": "أَجْرٌ / أُجُورٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Dijete je shvatilo da rad donosi novac.",
       "translationEn": "The child understood that work brings money.",
       "words": [
-        { "w": "فَهِمَ", "root": "ف ه م", "bs": "shvatilo je", "en": "understood" },
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "العَمَلَ", "root": "ع م ل", "bs": "rad", "en": "work" },
-        { "w": "النُّقُودَ", "root": "ن ق د", "bs": "novac", "en": "money" }
+        {
+          "w": "فَهِمَ",
+          "root": "ف ه م",
+          "bs": "shvatilo je",
+          "en": "understood",
+          "lemma": "فَهِمَ يَفْهَمُ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "العَمَلَ",
+          "root": "ع م ل",
+          "bs": "rad",
+          "en": "work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "النُّقُودَ",
+          "root": "ن ق د",
+          "bs": "novac",
+          "en": "money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Odlučio je da radi marljivo kad odraste.",
       "translationEn": "He decided to work hard when he grows up.",
       "words": [
-        { "w": "قَرَّرَ", "root": "ق ر ر", "bs": "odlučio je", "en": "decided" },
-        { "w": "يَعْمَلَ", "root": "ع م ل", "bs": "da radi", "en": "to work" },
-        { "w": "بِجِدٍّ", "root": "ج د د", "bs": "marljivo", "en": "hard" },
-        { "w": "يَكْبَرُ", "root": "ك ب ر", "bs": "odraste", "en": "grows up" }
+        {
+          "w": "قَرَّرَ",
+          "root": "ق ر ر",
+          "bs": "odlučio je",
+          "en": "decided",
+          "lemma": "قَرَّرَ يُقَرِّرُ"
+        },
+        {
+          "w": "يَعْمَلَ",
+          "root": "ع م ل",
+          "bs": "da radi",
+          "en": "to work",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "بِجِدٍّ",
+          "root": "ج د د",
+          "bs": "marljivo",
+          "en": "hard",
+          "lemma": "جِدٌّ"
+        },
+        {
+          "w": "يَكْبَرُ",
+          "root": "ك ب ر",
+          "bs": "odraste",
+          "en": "grows up",
+          "lemma": "كَبِرَ يَكْبَرُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["earning", "work", "family"]
+    "tags": [
+      "earning",
+      "work",
+      "family"
+    ]
   }
 }

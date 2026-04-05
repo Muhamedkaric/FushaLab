@@ -8,10 +8,34 @@
       "translation": "Davanje čini čovjeka sretnijim od primanja.",
       "translationEn": "Giving makes a person happier than receiving.",
       "words": [
-        { "w": "الْعَطَاءُ", "root": "ع ط و", "bs": "davanje", "en": "giving" },
-        { "w": "يُسَعِّدُ", "root": "س ع د", "bs": "usrećuje", "en": "makes happy" },
-        { "w": "الإِنْسَانَ", "root": "أ ن س", "bs": "čovjeka", "en": "person" },
-        { "w": "الأَخْذِ", "root": "أ خ ذ", "bs": "primanje", "en": "receiving" }
+        {
+          "w": "الْعَطَاءُ",
+          "root": "ع ط و",
+          "bs": "davanje",
+          "en": "giving",
+          "lemma": "عَطَاءٌ"
+        },
+        {
+          "w": "يُسَعِّدُ",
+          "root": "س ع د",
+          "bs": "usrećuje",
+          "en": "makes happy",
+          "lemma": "سَعَّدَ يُسَعِّدُ"
+        },
+        {
+          "w": "الإِنْسَانَ",
+          "root": "أ ن س",
+          "bs": "čovjeka",
+          "en": "person",
+          "lemma": "إِنْسَانٌ / أُنَاسٌ"
+        },
+        {
+          "w": "الأَخْذِ",
+          "root": "أ خ ذ",
+          "bs": "primanje",
+          "en": "receiving",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Hulud je dala neke svoje knjige studentima koji nemaju knjiga.",
       "translationEn": "Khulood gave some of her books to students who had none.",
       "words": [
-        { "w": "أَعْطَتْ", "root": "ع ط و", "bs": "dala je", "en": "gave" },
-        { "w": "كُتُبِهَا", "root": "ك ت ب", "bs": "njene knjige", "en": "her books" },
-        { "w": "طُلَّابٍ", "root": "ط ل ب", "bs": "studenti", "en": "students" }
+        {
+          "w": "أَعْطَتْ",
+          "root": "ع ط و",
+          "bs": "dala je",
+          "en": "gave",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "كُتُبِهَا",
+          "root": "ك ت ب",
+          "bs": "njene knjige",
+          "en": "her books",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "طُلَّابٍ",
+          "root": "ط ل ب",
+          "bs": "studenti",
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        }
       ]
     },
     {
@@ -29,10 +71,34 @@
       "translation": "Pogledala je njihova sretna lica i osjetila zahvalnost.",
       "translationEn": "She looked at their happy faces and felt gratitude.",
       "words": [
-        { "w": "نَظَرَتْ", "root": "ن ظ ر", "bs": "pogledala je", "en": "looked" },
-        { "w": "وُجُوهِهِمُ", "root": "و ج ه", "bs": "njihova lica", "en": "their faces" },
-        { "w": "السَّعِيدَةِ", "root": "س ع د", "bs": "sretna", "en": "happy" },
-        { "w": "الامْتِنَانِ", "root": "م ن ن", "bs": "zahvalnost", "en": "gratitude" }
+        {
+          "w": "نَظَرَتْ",
+          "root": "ن ظ ر",
+          "bs": "pogledala je",
+          "en": "looked",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "وُجُوهِهِمُ",
+          "root": "و ج ه",
+          "bs": "njihova lica",
+          "en": "their faces",
+          "lemma": "وَجْهٌ / وُجُوهٌ"
+        },
+        {
+          "w": "السَّعِيدَةِ",
+          "root": "س ع د",
+          "bs": "sretna",
+          "en": "happy",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "الامْتِنَانِ",
+          "root": "م ن ن",
+          "bs": "zahvalnost",
+          "en": "gratitude",
+          "lemma": "اِمْتِنَانٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Davanje ispunjava srce neopisiviim svjetlom.",
       "translationEn": "Giving fills the heart with an indescribable light.",
       "words": [
-        { "w": "الْعَطَاءُ", "root": "ع ط و", "bs": "davanje", "en": "giving" },
-        { "w": "يَمْلَأُ", "root": "م ل أ", "bs": "ispunjava", "en": "fills" },
-        { "w": "الْقَلْبَ", "root": "ق ل ب", "bs": "srce", "en": "heart" },
-        { "w": "نُورٍ", "root": "ن و ر", "bs": "svjetlo", "en": "light" }
+        {
+          "w": "الْعَطَاءُ",
+          "root": "ع ط و",
+          "bs": "davanje",
+          "en": "giving",
+          "lemma": "عَطَاءٌ"
+        },
+        {
+          "w": "يَمْلَأُ",
+          "root": "م ل أ",
+          "bs": "ispunjava",
+          "en": "fills",
+          "lemma": "مَلَأَ يَمْلَأُ"
+        },
+        {
+          "w": "الْقَلْبَ",
+          "root": "ق ل ب",
+          "bs": "srce",
+          "en": "heart",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "نُورٍ",
+          "root": "ن و ر",
+          "bs": "svjetlo",
+          "en": "light",
+          "lemma": "نُورٌ / أَنْوَارٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["generosity", "happiness", "giving"]
+    "tags": [
+      "generosity",
+      "happiness",
+      "giving"
+    ]
   }
 }

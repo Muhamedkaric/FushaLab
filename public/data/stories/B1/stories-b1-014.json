@@ -8,11 +8,41 @@
       "translation": "Pustinja je bila vruća i jedan putnik je hodao sam.",
       "translationEn": "The desert was hot and a traveler was walking alone.",
       "words": [
-        { "w": "الصَّحْرَاءُ", "root": "ص ح ر", "bs": "pustinja", "en": "desert" },
-        { "w": "حَارَّةً", "root": "ح ر ر", "bs": "vruća", "en": "hot" },
-        { "w": "مُسَافِرٌ", "root": "س ف ر", "bs": "putnik", "en": "traveler" },
-        { "w": "يَمْشِي", "root": "م ش ي", "bs": "hodao je", "en": "was walking" },
-        { "w": "وَحِيدًا", "root": "و ح د", "bs": "sam", "en": "alone" }
+        {
+          "w": "الصَّحْرَاءُ",
+          "root": "ص ح ر",
+          "bs": "pustinja",
+          "en": "desert",
+          "lemma": "صَحْرَاءُ / صَحَارَى"
+        },
+        {
+          "w": "حَارَّةً",
+          "root": "ح ر ر",
+          "bs": "vruća",
+          "en": "hot",
+          "lemma": "حَارٌّ"
+        },
+        {
+          "w": "مُسَافِرٌ",
+          "root": "س ف ر",
+          "bs": "putnik",
+          "en": "traveler",
+          "lemma": "مُسَافِرٌ / مُسَافِرُونَ"
+        },
+        {
+          "w": "يَمْشِي",
+          "root": "م ش ي",
+          "bs": "hodao je",
+          "en": "was walking",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "وَحِيدًا",
+          "root": "و ح د",
+          "bs": "sam",
+          "en": "alone",
+          "lemma": "وَحِيدٌ"
+        }
       ]
     },
     {
@@ -20,11 +50,41 @@
       "translation": "Nije mu ostalo vode i osjetio je jaku žeđ.",
       "translationEn": "He had no water left and felt very thirsty.",
       "words": [
-        { "w": "يَبْقَ", "root": "ب ق ي", "bs": "ostalo", "en": "left" },
-        { "w": "مَاءٌ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "شَعَرَ", "root": "ش ع ر", "bs": "osjetio je", "en": "felt" },
-        { "w": "الْعَطَشِ", "root": "ع ط ش", "bs": "žeđ", "en": "thirst" },
-        { "w": "الشَّدِيدِ", "root": "ش د د", "bs": "jaka", "en": "intense" }
+        {
+          "w": "يَبْقَ",
+          "root": "ب ق ي",
+          "bs": "ostalo",
+          "en": "left",
+          "lemma": "بَقِيَ يَبْقَى"
+        },
+        {
+          "w": "مَاءٌ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "شَعَرَ",
+          "root": "ش ع ر",
+          "bs": "osjetio je",
+          "en": "felt",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الْعَطَشِ",
+          "root": "ع ط ش",
+          "bs": "žeđ",
+          "en": "thirst",
+          "lemma": "عَطَشٌ"
+        },
+        {
+          "w": "الشَّدِيدِ",
+          "root": "ش د د",
+          "bs": "jaka",
+          "en": "intense",
+          "lemma": "شَدِيدٌ"
+        }
       ]
     },
     {
@@ -32,11 +92,41 @@
       "translation": "Odjednom je ugledao daleki šator i brzo je krenuo prema njemu.",
       "translationEn": "Suddenly he saw a distant tent and walked quickly toward it.",
       "words": [
-        { "w": "فَجَأَةً", "root": "ف ج أ", "bs": "odjednom", "en": "suddenly" },
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "ugledao je", "en": "he saw" },
-        { "w": "خَيْمَةً", "root": "خ ي م", "bs": "šator", "en": "tent" },
-        { "w": "بَعِيدَةً", "root": "ب ع د", "bs": "daleki", "en": "distant" },
-        { "w": "بِسُرْعَةٍ", "root": "س ر ع", "bs": "brzo", "en": "quickly" }
+        {
+          "w": "فَجَأَةً",
+          "root": "ف ج أ",
+          "bs": "odjednom",
+          "en": "suddenly",
+          "lemma": "فَجَأَةً"
+        },
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "ugledao je",
+          "en": "he saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "خَيْمَةً",
+          "root": "خ ي م",
+          "bs": "šator",
+          "en": "tent",
+          "lemma": "خَيْمَةٌ / خِيَامٌ"
+        },
+        {
+          "w": "بَعِيدَةً",
+          "root": "ب ع د",
+          "bs": "daleki",
+          "en": "distant",
+          "lemma": "بَعِيدٌ"
+        },
+        {
+          "w": "بِسُرْعَةٍ",
+          "root": "س ر ع",
+          "bs": "brzo",
+          "en": "quickly",
+          "lemma": "سُرْعَةٌ"
+        }
       ]
     },
     {
@@ -44,11 +134,41 @@
       "translation": "Iz šatora je izašao čovjek i dao mu je vodu i hranu.",
       "translationEn": "A man came out of the tent and gave him water and food.",
       "words": [
-        { "w": "خَرَجَ", "root": "خ ر ج", "bs": "izašao je", "en": "came out" },
-        { "w": "رَجُلٌ", "root": "ر ج ل", "bs": "čovjek", "en": "man" },
-        { "w": "أَعْطَاهُ", "root": "ع ط ي", "bs": "dao mu je", "en": "gave him" },
-        { "w": "مَاءً", "root": "م و ه", "bs": "vodu", "en": "water" },
-        { "w": "طَعَامًا", "root": "ط ع م", "bs": "hranu", "en": "food" }
+        {
+          "w": "خَرَجَ",
+          "root": "خ ر ج",
+          "bs": "izašao je",
+          "en": "came out",
+          "lemma": "خَرَجَ يَخْرُجُ"
+        },
+        {
+          "w": "رَجُلٌ",
+          "root": "ر ج ل",
+          "bs": "čovjek",
+          "en": "man",
+          "lemma": "رَجُلٌ / رِجَالٌ"
+        },
+        {
+          "w": "أَعْطَاهُ",
+          "root": "ع ط ي",
+          "bs": "dao mu je",
+          "en": "gave him",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "مَاءً",
+          "root": "م و ه",
+          "bs": "vodu",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "طَعَامًا",
+          "root": "ط ع م",
+          "bs": "hranu",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        }
       ]
     },
     {
@@ -56,14 +176,37 @@
       "translation": "Putnik mu se zahvalio od sveg srca.",
       "translationEn": "The traveler thanked him with all his heart.",
       "words": [
-        { "w": "شَكَرَهُ", "root": "ش ك ر", "bs": "zahvalio mu se", "en": "thanked him" },
-        { "w": "الْمُسَافِرُ", "root": "س ف ر", "bs": "putnik", "en": "traveler" },
-        { "w": "قَلْبِهِ", "root": "ق ل ب", "bs": "njegovo srce", "en": "his heart" }
+        {
+          "w": "شَكَرَهُ",
+          "root": "ش ك ر",
+          "bs": "zahvalio mu se",
+          "en": "thanked him",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الْمُسَافِرُ",
+          "root": "س ف ر",
+          "bs": "putnik",
+          "en": "traveler",
+          "lemma": "مُسَافِرٌ / مُسَافِرُونَ"
+        },
+        {
+          "w": "قَلْبِهِ",
+          "root": "ق ل ب",
+          "bs": "njegovo srce",
+          "en": "his heart",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["desert", "hospitality", "traveler", "kindness"]
+    "tags": [
+      "desert",
+      "hospitality",
+      "traveler",
+      "kindness"
+    ]
   }
 }

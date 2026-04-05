@@ -8,10 +8,34 @@
       "translation": "Djevojčica se umorila od hodanja i sjela na klupu.",
       "translationEn": "The girl got tired from walking and sat on the bench.",
       "words": [
-        { "w": "تَعَبَتِ", "root": "ت ع ب", "bs": "umorila se", "en": "got tired" },
-        { "w": "الْمَشْيِ", "root": "م ش ي", "bs": "hodanje", "en": "walking" },
-        { "w": "جَلَسَتْ", "root": "ج ل س", "bs": "sjela je", "en": "sat" },
-        { "w": "الْمَقْعَدِ", "root": "ق ع د", "bs": "klupa / sjedište", "en": "bench / seat" }
+        {
+          "w": "تَعَبَتِ",
+          "root": "ت ع ب",
+          "bs": "umorila se",
+          "en": "got tired",
+          "lemma": "تَعِبَ يَتْعَبُ"
+        },
+        {
+          "w": "الْمَشْيِ",
+          "root": "م ش ي",
+          "bs": "hodanje",
+          "en": "walking",
+          "lemma": "مَشْيٌ"
+        },
+        {
+          "w": "جَلَسَتْ",
+          "root": "ج ل س",
+          "bs": "sjela je",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الْمَقْعَدِ",
+          "root": "ق ع د",
+          "bs": "klupa / sjedište",
+          "en": "bench / seat",
+          "lemma": "مَقْعَدٌ / مَقَاعِدُ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Otac joj je dao flašu vode i nasmiješio se.",
       "translationEn": "Her father gave her a water bottle and smiled.",
       "words": [
-        { "w": "أَعْطَاهَا", "root": "ع ط ي", "bs": "dao joj je", "en": "gave her" },
-        { "w": "زُجَاجَةَ", "root": "ز ج ج", "bs": "flaša / boca", "en": "bottle" },
-        { "w": "مَاءٍ", "root": "م و ه", "bs": "voda", "en": "water" },
-        { "w": "ابْتَسَمَ", "root": "ب س م", "bs": "nasmiješio se", "en": "smiled" }
+        {
+          "w": "أَعْطَاهَا",
+          "root": "ع ط ي",
+          "bs": "dao joj je",
+          "en": "gave her",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "زُجَاجَةَ",
+          "root": "ز ج ج",
+          "bs": "flaša / boca",
+          "en": "bottle",
+          "lemma": "زُجَاجَةٌ / زُجَاجَاتٌ"
+        },
+        {
+          "w": "مَاءٍ",
+          "root": "م و ه",
+          "bs": "voda",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "ابْتَسَمَ",
+          "root": "ب س م",
+          "bs": "nasmiješio se",
+          "en": "smiled",
+          "lemma": "ابْتَسَمَ يَبْتَسِمُ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Popila je vodu i malo se odmorila.",
       "translationEn": "She drank the water and rested a little.",
       "words": [
-        { "w": "شَرِبَتِ", "root": "ش ر ب", "bs": "popila je", "en": "drank" },
-        { "w": "الْمَاءَ", "root": "م و ه", "bs": "vodu", "en": "water" },
-        { "w": "اسْتَرَاحَتْ", "root": "ر و ح", "bs": "odmorila se", "en": "rested" }
+        {
+          "w": "شَرِبَتِ",
+          "root": "ش ر ب",
+          "bs": "popila je",
+          "en": "drank",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "الْمَاءَ",
+          "root": "م و ه",
+          "bs": "vodu",
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "اسْتَرَاحَتْ",
+          "root": "ر و ح",
+          "bs": "odmorila se",
+          "en": "rested",
+          "lemma": "اسْتَرَاحَ يَسْتَرِيحُ"
+        }
       ]
     },
     {
@@ -40,8 +106,20 @@
       "translation": "Onda je ustala i rekla: Sada sam spremna.",
       "translationEn": "Then she got up and said: I am ready now.",
       "words": [
-        { "w": "قَامَتْ", "root": "ق و م", "bs": "ustala je", "en": "got up" },
-        { "w": "مُسْتَعِدَّةٌ", "root": "ع د د", "bs": "spremna", "en": "ready" }
+        {
+          "w": "قَامَتْ",
+          "root": "ق و م",
+          "bs": "ustala je",
+          "en": "got up",
+          "lemma": "قَامَ يَقُومُ"
+        },
+        {
+          "w": "مُسْتَعِدَّةٌ",
+          "root": "ع د د",
+          "bs": "spremna",
+          "en": "ready",
+          "lemma": "مُسْتَعِدٌّ"
+        }
       ]
     }
   ],

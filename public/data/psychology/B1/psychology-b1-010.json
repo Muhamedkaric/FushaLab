@@ -8,11 +8,40 @@
       "translation": "Maryam se osjeća sretno kada crta ili svira muziku.",
       "translationEn": "Maryam feels happy when she draws or plays music.",
       "words": [
-        { "w": "تَشْعُرُ", "root": "ش ع ر", "bs": "osjeća se", "en": "feels" },
-        { "w": "السَّعَادَةِ", "root": "س ع د", "bs": "sreća", "en": "happiness" },
-        { "w": "تَرْسُمُ", "root": "ر س م", "bs": "crta", "en": "draws" },
-        { "w": "تَلْعَبُ", "root": "ل ع ب", "bs": "svira", "en": "plays" },
-        { "w": "الْمُوسِيقَى", "bs": "muziku", "en": "music" }
+        {
+          "w": "تَشْعُرُ",
+          "root": "ش ع ر",
+          "bs": "osjeća se",
+          "en": "feels",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "السَّعَادَةِ",
+          "root": "س ع د",
+          "bs": "sreća",
+          "en": "happiness",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
+          "w": "تَرْسُمُ",
+          "root": "ر س م",
+          "bs": "crta",
+          "en": "draws",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        },
+        {
+          "w": "تَلْعَبُ",
+          "root": "ل ع ب",
+          "bs": "svira",
+          "en": "plays",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الْمُوسِيقَى",
+          "bs": "muziku",
+          "en": "music",
+          "lemma": "الْمُوسِيقَى"
+        }
       ]
     },
     {
@@ -20,11 +49,41 @@
       "translation": "Ova aktivnost odmara njen um i raduje njeno srce.",
       "translationEn": "This activity rests her mind and gladdens her heart.",
       "words": [
-        { "w": "النَّشَاطُ", "root": "ن ش ط", "bs": "aktivnost", "en": "activity" },
-        { "w": "يُرِيحُ", "root": "ر و ح", "bs": "odmara", "en": "rests" },
-        { "w": "عَقْلَهَا", "root": "ع ق ل", "bs": "njen um", "en": "her mind" },
-        { "w": "يُسَعِّدُ", "root": "س ع د", "bs": "raduje", "en": "gladdens" },
-        { "w": "قَلْبَهَا", "root": "ق ل ب", "bs": "njeno srce", "en": "her heart" }
+        {
+          "w": "النَّشَاطُ",
+          "root": "ن ش ط",
+          "bs": "aktivnost",
+          "en": "activity",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
+        },
+        {
+          "w": "يُرِيحُ",
+          "root": "ر و ح",
+          "bs": "odmara",
+          "en": "rests",
+          "lemma": "أَرَاحَ يُرِيحُ"
+        },
+        {
+          "w": "عَقْلَهَا",
+          "root": "ع ق ل",
+          "bs": "njen um",
+          "en": "her mind",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        },
+        {
+          "w": "يُسَعِّدُ",
+          "root": "س ع د",
+          "bs": "raduje",
+          "en": "gladdens",
+          "lemma": "سَعَّدَ يُسَعِّدُ"
+        },
+        {
+          "w": "قَلْبَهَا",
+          "root": "ق ل ب",
+          "bs": "njeno srce",
+          "en": "her heart",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        }
       ]
     },
     {
@@ -32,10 +91,34 @@
       "translation": "Svakom čovjeku treba nešto što voli da radi.",
       "translationEn": "Every person needs something they love to do.",
       "words": [
-        { "w": "إِنْسَانٍ", "root": "أ ن س", "bs": "čovjek", "en": "a person" },
-        { "w": "يَحْتَاجُ", "root": "ح و ج", "bs": "treba", "en": "needs" },
-        { "w": "يُحِبُّهُ", "root": "ح ب ب", "bs": "voli ga", "en": "loves" },
-        { "w": "يَفْعَلُهُ", "root": "ف ع ل", "bs": "radi ga", "en": "does" }
+        {
+          "w": "إِنْسَانٍ",
+          "root": "أ ن س",
+          "bs": "čovjek",
+          "en": "a person",
+          "lemma": "إِنْسَانٌ / أُنَاسٌ"
+        },
+        {
+          "w": "يَحْتَاجُ",
+          "root": "ح و ج",
+          "bs": "treba",
+          "en": "needs",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
+        },
+        {
+          "w": "يُحِبُّهُ",
+          "root": "ح ب ب",
+          "bs": "voli ga",
+          "en": "loves",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "يَفْعَلُهُ",
+          "root": "ف ع ل",
+          "bs": "radi ga",
+          "en": "does",
+          "lemma": "فَعَلَ يَفْعَلُ"
+        }
       ]
     },
     {
@@ -43,15 +126,43 @@
       "translation": "Hobi nam daje snagu da se suočimo s životom.",
       "translationEn": "A hobby gives us the strength to face life.",
       "words": [
-        { "w": "الهِوَايَةُ", "root": "ه و ي", "bs": "hobi", "en": "a hobby" },
-        { "w": "تُعْطِينَا", "root": "ع ط و", "bs": "daje nam", "en": "gives us" },
-        { "w": "قُوَّةً", "root": "ق و و", "bs": "snagu", "en": "strength" },
-        { "w": "الْحَيَاةِ", "root": "ح ي و", "bs": "život", "en": "life" }
+        {
+          "w": "الهِوَايَةُ",
+          "root": "ه و ي",
+          "bs": "hobi",
+          "en": "a hobby",
+          "lemma": "هِوَايَةٌ / هِوَايَاتٌ"
+        },
+        {
+          "w": "تُعْطِينَا",
+          "root": "ع ط و",
+          "bs": "daje nam",
+          "en": "gives us",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "قُوَّةً",
+          "root": "ق و و",
+          "bs": "snagu",
+          "en": "strength",
+          "lemma": "قُوَّةٌ / قُوًى"
+        },
+        {
+          "w": "الْحَيَاةِ",
+          "root": "ح ي و",
+          "bs": "život",
+          "en": "life",
+          "lemma": "حَيَاةٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["hobbies", "wellbeing", "happiness"]
+    "tags": [
+      "hobbies",
+      "wellbeing",
+      "happiness"
+    ]
   }
 }

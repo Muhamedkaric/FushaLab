@@ -8,10 +8,34 @@
       "translation": "Dječak po imenu Adem otišao je na pijac sa svojom bakom.",
       "translationEn": "A boy named Adam went to the market with his grandmother.",
       "words": [
-        { "w": "ذَهَبَ", "root": "ذ ه ب", "bs": "otišao je", "en": "went" },
-        { "w": "طِفْلٌ", "root": "ط ف ل", "bs": "dječak", "en": "boy" },
-        { "w": "السُّوقِ", "root": "س و ق", "bs": "pijac", "en": "market" },
-        { "w": "جَدَّتِهِ", "root": "ج د د", "bs": "njegova baka", "en": "his grandmother" }
+        {
+          "w": "ذَهَبَ",
+          "root": "ذ ه ب",
+          "bs": "otišao je",
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "طِفْلٌ",
+          "root": "ط ف ل",
+          "bs": "dječak",
+          "en": "boy",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "السُّوقِ",
+          "root": "س و ق",
+          "bs": "pijac",
+          "en": "market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "جَدَّتِهِ",
+          "root": "ج د د",
+          "bs": "njegova baka",
+          "en": "his grandmother",
+          "lemma": "جَدَّةٌ / جَدَّاتٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Odjednom nije pronašao baku pored sebe i uplašio se.",
       "translationEn": "Suddenly he could not find his grandmother beside him and got scared.",
       "words": [
-        { "w": "فَجَأَةً", "root": "ف ج أ", "bs": "odjednom", "en": "suddenly" },
-        { "w": "يَجِدِ", "root": "و ج د", "bs": "pronašao je", "en": "find" },
-        { "w": "الْجَدَّةَ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
-        { "w": "خَافَ", "root": "خ و ف", "bs": "uplašio se", "en": "got scared" }
+        {
+          "w": "فَجَأَةً",
+          "root": "ف ج أ",
+          "bs": "odjednom",
+          "en": "suddenly",
+          "lemma": "فَجَأَةً"
+        },
+        {
+          "w": "يَجِدِ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "find",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "الْجَدَّةَ",
+          "root": "ج د د",
+          "bs": "baka",
+          "en": "grandmother",
+          "lemma": "جَدَّةٌ / جَدَّاتٌ"
+        },
+        {
+          "w": "خَافَ",
+          "root": "خ و ف",
+          "bs": "uplašio se",
+          "en": "got scared",
+          "lemma": "خَافَ يَخَافُ"
+        }
       ]
     },
     {
@@ -30,11 +78,41 @@
       "translation": "Sjetio se da je baka rekla: «Ako se izgubiš čekaj kod vrata pijaca».",
       "translationEn": "He remembered his grandmother said: «If you get lost, wait at the market gate».",
       "words": [
-        { "w": "تَذَكَّرَ", "root": "ذ ك ر", "bs": "sjetio se", "en": "remembered" },
-        { "w": "الْجَدَّةَ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
-        { "w": "ضَعْتَ", "root": "ض ي ع", "bs": "izgubiš se", "en": "get lost" },
-        { "w": "انْتَظِرْ", "root": "ن ظ ر", "bs": "čekaj", "en": "wait" },
-        { "w": "بَابِ", "root": "ب و ب", "bs": "vrata", "en": "gate" }
+        {
+          "w": "تَذَكَّرَ",
+          "root": "ذ ك ر",
+          "bs": "sjetio se",
+          "en": "remembered",
+          "lemma": "تَذَكَّرَ يَتَذَكَّرُ"
+        },
+        {
+          "w": "الْجَدَّةَ",
+          "root": "ج د د",
+          "bs": "baka",
+          "en": "grandmother",
+          "lemma": "جَدَّةٌ / جَدَّاتٌ"
+        },
+        {
+          "w": "ضَعْتَ",
+          "root": "ض ي ع",
+          "bs": "izgubiš se",
+          "en": "get lost",
+          "lemma": "ضَاعَ يَضِيعُ"
+        },
+        {
+          "w": "انْتَظِرْ",
+          "root": "ن ظ ر",
+          "bs": "čekaj",
+          "en": "wait",
+          "lemma": "اِنْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "بَابِ",
+          "root": "ب و ب",
+          "bs": "vrata",
+          "en": "gate",
+          "lemma": "بَابٌ / أَبْوَابٌ"
+        }
       ]
     },
     {
@@ -42,16 +120,51 @@
       "translation": "Stao je kod vrata i ubrzo je baka došla i zagrlila ga.",
       "translationEn": "He stood at the gate and soon his grandmother came and hugged him.",
       "words": [
-        { "w": "وَقَفَ", "root": "و ق ف", "bs": "stao je", "en": "stood" },
-        { "w": "الْبَابِ", "root": "ب و ب", "bs": "vrata", "en": "gate" },
-        { "w": "الْجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
-        { "w": "جَاءَتِ", "root": "ج ي أ", "bs": "došla je", "en": "came" },
-        { "w": "احْتَضَنَتْهُ", "root": "ح ض ن", "bs": "zagrlila ga je", "en": "hugged him" }
+        {
+          "w": "وَقَفَ",
+          "root": "و ق ف",
+          "bs": "stao je",
+          "en": "stood",
+          "lemma": "وَقَفَ يَقِفُ"
+        },
+        {
+          "w": "الْبَابِ",
+          "root": "ب و ب",
+          "bs": "vrata",
+          "en": "gate",
+          "lemma": "بَابٌ / أَبْوَابٌ"
+        },
+        {
+          "w": "الْجَدَّةُ",
+          "root": "ج د د",
+          "bs": "baka",
+          "en": "grandmother",
+          "lemma": "جَدَّةٌ / جَدَّاتٌ"
+        },
+        {
+          "w": "جَاءَتِ",
+          "root": "ج ي أ",
+          "bs": "došla je",
+          "en": "came",
+          "lemma": "جَاءَ يَجِيءُ"
+        },
+        {
+          "w": "احْتَضَنَتْهُ",
+          "root": "ح ض ن",
+          "bs": "zagrlila ga je",
+          "en": "hugged him",
+          "lemma": "اِحْتَضَنَ يَحْتَضِنُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["child", "market", "grandmother", "lost"]
+    "tags": [
+      "child",
+      "market",
+      "grandmother",
+      "lost"
+    ]
   }
 }

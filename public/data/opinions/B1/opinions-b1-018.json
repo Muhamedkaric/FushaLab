@@ -8,10 +8,34 @@
       "translation": "Po mom mišljenju, slušanje je važnije od govora.",
       "translationEn": "In my opinion, listening is more important than speaking.",
       "words": [
-        { "w": "رَأْيِي", "root": "ر أ ي", "bs": "mišljenju", "en": "opinion" },
-        { "w": "الِاسْتِمَاعُ", "root": "س م ع", "bs": "slušanje", "en": "listening" },
-        { "w": "أَهَمُّ", "root": "ه م م", "bs": "važnije", "en": "more important" },
-        { "w": "الْكَلَامِ", "root": "ك ل م", "bs": "govora", "en": "speaking" }
+        {
+          "w": "رَأْيِي",
+          "root": "ر أ ي",
+          "bs": "mišljenju",
+          "en": "opinion",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "الِاسْتِمَاعُ",
+          "root": "س م ع",
+          "bs": "slušanje",
+          "en": "listening",
+          "lemma": "اِسْتِمَاعٌ"
+        },
+        {
+          "w": "أَهَمُّ",
+          "root": "ه م م",
+          "bs": "važnije",
+          "en": "more important",
+          "lemma": "أَهَمُّ"
+        },
+        {
+          "w": "الْكَلَامِ",
+          "root": "ك ل م",
+          "bs": "govora",
+          "en": "speaking",
+          "lemma": "كَلَامٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Kada dobro slušaš, bolje razumiješ ljude.",
       "translationEn": "When you listen well you understand people more.",
       "words": [
-        { "w": "تَسْمَعُ", "root": "س م ع", "bs": "slušaš", "en": "you listen" },
-        { "w": "جَيِّدًا", "root": "ج و د", "bs": "dobro", "en": "well" },
-        { "w": "تَفْهَمُ", "root": "ف ه م", "bs": "razumiješ", "en": "you understand" },
-        { "w": "النَّاسَ", "root": "ن و س", "bs": "ljude", "en": "people" },
-        { "w": "أَكْثَرَ", "root": "ك ث ر", "bs": "bolje/više", "en": "more" }
+        {
+          "w": "تَسْمَعُ",
+          "root": "س م ع",
+          "bs": "slušaš",
+          "en": "you listen",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "جَيِّدًا",
+          "root": "ج و د",
+          "bs": "dobro",
+          "en": "well",
+          "lemma": "جَيِّدٌ"
+        },
+        {
+          "w": "تَفْهَمُ",
+          "root": "ف ه م",
+          "bs": "razumiješ",
+          "en": "you understand",
+          "lemma": "فَهِمَ يَفْهَمُ"
+        },
+        {
+          "w": "النَّاسَ",
+          "root": "ن و س",
+          "bs": "ljude",
+          "en": "people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "root": "ك ث ر",
+          "bs": "bolje/više",
+          "en": "more",
+          "lemma": "أَكْثَرُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Mnogi problemi se rješavaju kada svako sluša drugoga.",
       "translationEn": "Many problems are solved when every person listens to the other.",
       "words": [
-        { "w": "الْمَشَاكِلِ", "root": "ش ك ل", "bs": "problemi", "en": "problems" },
-        { "w": "تَحِلُّ", "root": "ح ل ل", "bs": "rješavaju se", "en": "are solved" },
-        { "w": "يَسْمَعُ", "root": "س م ع", "bs": "sluša", "en": "listens" },
-        { "w": "شَخْصٍ", "root": "ش خ ص", "bs": "svako", "en": "person" }
+        {
+          "w": "الْمَشَاكِلِ",
+          "root": "ش ك ل",
+          "bs": "problemi",
+          "en": "problems",
+          "lemma": "مُشْكِلَةٌ / مَشَاكِلُ"
+        },
+        {
+          "w": "تَحِلُّ",
+          "root": "ح ل ل",
+          "bs": "rješavaju se",
+          "en": "are solved",
+          "lemma": "حَلَّ يَحُلُّ"
+        },
+        {
+          "w": "يَسْمَعُ",
+          "root": "س م ع",
+          "bs": "sluša",
+          "en": "listens",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "شَخْصٍ",
+          "root": "ش خ ص",
+          "bs": "svako",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Trudim se pažljivo slušati kada mi neko govori.",
       "translationEn": "I try to listen attentively when someone speaks to me.",
       "words": [
-        { "w": "أُحَاوِلُ", "root": "ح و ل", "bs": "trudim se", "en": "I try" },
-        { "w": "أَسْتَمِعَ", "root": "س م ع", "bs": "slušati", "en": "to listen" },
-        { "w": "بِاهْتِمَامٍ", "root": "ه م م", "bs": "pažljivo", "en": "attentively" },
-        { "w": "يَتَحَدَّثُ", "root": "ح د ث", "bs": "govori", "en": "speaks" }
+        {
+          "w": "أُحَاوِلُ",
+          "root": "ح و ل",
+          "bs": "trudim se",
+          "en": "I try",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "أَسْتَمِعَ",
+          "root": "س م ع",
+          "bs": "slušati",
+          "en": "to listen",
+          "lemma": "اِسْتَمَعَ يَسْتَمِعُ"
+        },
+        {
+          "w": "بِاهْتِمَامٍ",
+          "root": "ه م م",
+          "bs": "pažljivo",
+          "en": "attentively",
+          "lemma": "اِهْتِمَامٌ / اِهْتِمَامَاتٌ"
+        },
+        {
+          "w": "يَتَحَدَّثُ",
+          "root": "ح د ث",
+          "bs": "govori",
+          "en": "speaks",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["opinion", "listening", "communication", "values"]
+    "tags": [
+      "opinion",
+      "listening",
+      "communication",
+      "values"
+    ]
   }
 }

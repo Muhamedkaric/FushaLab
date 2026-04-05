@@ -8,10 +8,34 @@
       "translation": "Ali se izgubio u gradu i nije znao put.",
       "translationEn": "Ali got lost in the city and didn't know the way.",
       "words": [
-        { "w": "ضَاعَ", "root": "ض ي ع", "bs": "izgubio se", "en": "got lost" },
-        { "w": "المَدِينَةِ", "root": "م د ن", "bs": "gradu", "en": "city" },
-        { "w": "يَعْرِفِ", "root": "ع ر ف", "bs": "znao", "en": "know" },
-        { "w": "الطَّرِيقَ", "root": "ط ر ق", "bs": "put", "en": "way" }
+        {
+          "w": "ضَاعَ",
+          "root": "ض ي ع",
+          "bs": "izgubio se",
+          "en": "got lost",
+          "lemma": "ضَاعَ يَضِيعُ"
+        },
+        {
+          "w": "المَدِينَةِ",
+          "root": "م د ن",
+          "bs": "gradu",
+          "en": "city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "يَعْرِفِ",
+          "root": "ع ر ف",
+          "bs": "znao",
+          "en": "know",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "الطَّرِيقَ",
+          "root": "ط ر ق",
+          "bs": "put",
+          "en": "way",
+          "lemma": "طَرِيقٌ / طُرُقٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Pitao je osobu na ulici za stanicu.",
       "translationEn": "He asked a person on the street about the station.",
       "words": [
-        { "w": "سَأَلَ", "root": "س أ ل", "bs": "pitao je", "en": "asked" },
-        { "w": "شَخْصًا", "root": "ش خ ص", "bs": "osobu", "en": "person" },
-        { "w": "الشَّارِعِ", "root": "ش ر ع", "bs": "ulici", "en": "street" },
-        { "w": "المَحَطَّةِ", "root": "ح ط ط", "bs": "stanici", "en": "station" }
+        {
+          "w": "سَأَلَ",
+          "root": "س أ ل",
+          "bs": "pitao je",
+          "en": "asked",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "شَخْصًا",
+          "root": "ش خ ص",
+          "bs": "osobu",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "الشَّارِعِ",
+          "root": "ش ر ع",
+          "bs": "ulici",
+          "en": "street",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        },
+        {
+          "w": "المَحَطَّةِ",
+          "root": "ح ط ط",
+          "bs": "stanici",
+          "en": "station",
+          "lemma": "مَحَطَّةٌ / مَحَطَّاتٌ"
+        }
       ]
     },
     {
@@ -30,10 +78,34 @@
       "translation": "Osoba mu je rekla neka ide desno.",
       "translationEn": "The person told him to walk to the right.",
       "words": [
-        { "w": "أَخْبَرَهُ", "root": "خ ب ر", "bs": "rekla mu je", "en": "told him" },
-        { "w": "الشَّخْصُ", "root": "ش خ ص", "bs": "osoba", "en": "person" },
-        { "w": "يَمْشِيَ", "root": "م ش ي", "bs": "ide", "en": "walk" },
-        { "w": "لِلْيَمِينِ", "root": "ي م ن", "bs": "desno", "en": "to the right" }
+        {
+          "w": "أَخْبَرَهُ",
+          "root": "خ ب ر",
+          "bs": "rekla mu je",
+          "en": "told him",
+          "lemma": "أَخْبَرَ يُخْبِرُ"
+        },
+        {
+          "w": "الشَّخْصُ",
+          "root": "ش خ ص",
+          "bs": "osoba",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "يَمْشِيَ",
+          "root": "م ش ي",
+          "bs": "ide",
+          "en": "walk",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "لِلْيَمِينِ",
+          "root": "ي م ن",
+          "bs": "desno",
+          "en": "to the right",
+          "lemma": "يَمِينٌ / أَيْمَانٌ"
+        }
       ]
     },
     {
@@ -41,9 +113,27 @@
       "translation": "Ali je zahvalio osobi i pošao.",
       "translationEn": "Ali thanked the person and walked away.",
       "words": [
-        { "w": "شَكَرَ", "root": "ش ك ر", "bs": "zahvalio je", "en": "thanked" },
-        { "w": "الشَّخْصَ", "root": "ش خ ص", "bs": "osobi", "en": "person" },
-        { "w": "مَشَى", "root": "م ش ي", "bs": "pošao je", "en": "walked away" }
+        {
+          "w": "شَكَرَ",
+          "root": "ش ك ر",
+          "bs": "zahvalio je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الشَّخْصَ",
+          "root": "ش خ ص",
+          "bs": "osobi",
+          "en": "person",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "مَشَى",
+          "root": "م ش ي",
+          "bs": "pošao je",
+          "en": "walked away",
+          "lemma": "مَشَى يَمْشِي"
+        }
       ]
     }
   ],

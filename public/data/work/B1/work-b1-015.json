@@ -8,10 +8,34 @@
       "translation": "Salah radi kao kuhar u malom restoranu.",
       "translationEn": "Salah works as a cook in a small restaurant.",
       "words": [
-        { "w": "يَعْمَلُ", "root": "ع م ل", "bs": "radi", "en": "works" },
-        { "w": "طَبَّاخًا", "root": "ط ب خ", "bs": "kuhar/kuhač", "en": "cook/chef" },
-        { "w": "مَطْعَمٍ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
-        { "w": "صَغِيرٍ", "root": "ص غ ر", "bs": "malom/mali", "en": "small" }
+        {
+          "w": "يَعْمَلُ",
+          "root": "ع م ل",
+          "bs": "radi",
+          "en": "works",
+          "lemma": "عَمِلَ يَعْمَلُ"
+        },
+        {
+          "w": "طَبَّاخًا",
+          "root": "ط ب خ",
+          "bs": "kuhar/kuhač",
+          "en": "cook/chef",
+          "lemma": "طَبَّاخٌ / طَبَّاخُونَ"
+        },
+        {
+          "w": "مَطْعَمٍ",
+          "root": "ط ع م",
+          "bs": "restoran",
+          "en": "restaurant",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "صَغِيرٍ",
+          "root": "ص غ ر",
+          "bs": "malom/mali",
+          "en": "small",
+          "lemma": "صَغِيرٌ"
+        }
       ]
     },
     {
@@ -19,11 +43,41 @@
       "translation": "Počinje posao u devet ujutro i priprema hranu.",
       "translationEn": "He starts work at nine in the morning and prepares food.",
       "words": [
-        { "w": "يَبْدَأُ", "root": "ب د أ", "bs": "počinje", "en": "starts" },
-        { "w": "عَمَلَهُ", "root": "ع م ل", "bs": "njegov posao", "en": "his work" },
-        { "w": "صَبَاحًا", "root": "ص ب ح", "bs": "ujutro", "en": "in the morning" },
-        { "w": "يُحَضِّرُ", "root": "ح ض ر", "bs": "priprema", "en": "prepares" },
-        { "w": "الطَّعَامَ", "root": "ط ع م", "bs": "hrana/jelo", "en": "food" }
+        {
+          "w": "يَبْدَأُ",
+          "root": "ب د أ",
+          "bs": "počinje",
+          "en": "starts",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "عَمَلَهُ",
+          "root": "ع م ل",
+          "bs": "njegov posao",
+          "en": "his work",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "صَبَاحًا",
+          "root": "ص ب ح",
+          "bs": "ujutro",
+          "en": "in the morning",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        },
+        {
+          "w": "يُحَضِّرُ",
+          "root": "ح ض ر",
+          "bs": "priprema",
+          "en": "prepares",
+          "lemma": "حَضَّرَ يُحَضِّرُ"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "root": "ط ع م",
+          "bs": "hrana/jelo",
+          "en": "food",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Kuha supu, rižu i meso.",
       "translationEn": "He cooks soup, rice, and meat.",
       "words": [
-        { "w": "يَطْبُخُ", "root": "ط ب خ", "bs": "kuha", "en": "cooks" },
-        { "w": "الشُّورَبَةَ", "root": "ش ر ب", "bs": "supa/čorba", "en": "soup" },
-        { "w": "الْأَرُزَّ", "root": "أ ر ز", "bs": "riža", "en": "rice" },
-        { "w": "اللَّحْمَ", "root": "ل ح م", "bs": "meso", "en": "meat" }
+        {
+          "w": "يَطْبُخُ",
+          "root": "ط ب خ",
+          "bs": "kuha",
+          "en": "cooks",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "الشُّورَبَةَ",
+          "root": "ش ر ب",
+          "bs": "supa/čorba",
+          "en": "soup",
+          "lemma": "شُورَبَةٌ / شُورَبَاتٌ"
+        },
+        {
+          "w": "الْأَرُزَّ",
+          "root": "أ ر ز",
+          "bs": "riža",
+          "en": "rice",
+          "lemma": "أَرُزٌّ"
+        },
+        {
+          "w": "اللَّحْمَ",
+          "root": "ل ح م",
+          "bs": "meso",
+          "en": "meat",
+          "lemma": "لَحْمٌ / لُحُومٌ"
+        }
       ]
     },
     {
@@ -42,15 +120,44 @@
       "translation": "Voli petak jer se restoran puni gostima.",
       "translationEn": "He loves Friday because the restaurant fills up with customers.",
       "words": [
-        { "w": "يُحِبُّ", "root": "ح ب ب", "bs": "voli", "en": "loves" },
-        { "w": "الْمَطْعَمَ", "root": "ط ع م", "bs": "restoran", "en": "restaurant" },
-        { "w": "يَمْتَلِئُ", "root": "م ل أ", "bs": "puni se/ispuni", "en": "fills up" },
-        { "w": "الزَّبَائِنِ", "root": "ز ب ن", "bs": "gosti/mušterije", "en": "customers" }
+        {
+          "w": "يُحِبُّ",
+          "root": "ح ب ب",
+          "bs": "voli",
+          "en": "loves",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الْمَطْعَمَ",
+          "root": "ط ع م",
+          "bs": "restoran",
+          "en": "restaurant",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "يَمْتَلِئُ",
+          "root": "م ل أ",
+          "bs": "puni se/ispuni",
+          "en": "fills up",
+          "lemma": "اِمْتَلَأَ يَمْتَلِئُ"
+        },
+        {
+          "w": "الزَّبَائِنِ",
+          "root": "ز ب ن",
+          "bs": "gosti/mušterije",
+          "en": "customers",
+          "lemma": "زَبُونٌ / زَبَائِنُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["cook", "restaurant", "kitchen", "food preparation"]
+    "tags": [
+      "cook",
+      "restaurant",
+      "kitchen",
+      "food preparation"
+    ]
   }
 }

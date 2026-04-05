@@ -8,10 +8,34 @@
       "translation": "Porodica je proslavila Remin rođendan.",
       "translationEn": "The family celebrated Reem's birthday.",
       "words": [
-        { "w": "احْتَفَلَتِ", "root": "ح ف ل", "bs": "proslavila je", "en": "celebrated" },
-        { "w": "الأُسْرَةُ", "root": "أ س ر", "bs": "porodica", "en": "family" },
-        { "w": "عِيدِ", "root": "ع ي د", "bs": "dan", "en": "day" },
-        { "w": "مِيلَادِ", "root": "و ل د", "bs": "rođendana", "en": "birthday" }
+        {
+          "w": "احْتَفَلَتِ",
+          "root": "ح ف ل",
+          "bs": "proslavila je",
+          "en": "celebrated",
+          "lemma": "احْتَفَلَ يَحْتَفِلُ"
+        },
+        {
+          "w": "الأُسْرَةُ",
+          "root": "أ س ر",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "عِيدِ",
+          "root": "ع ي د",
+          "bs": "dan",
+          "en": "day",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "مِيلَادِ",
+          "root": "و ل د",
+          "bs": "rođendana",
+          "en": "birthday",
+          "lemma": "مِيلَادٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,33 @@
       "translation": "Ukrasili su sobu šarenim balonima.",
       "translationEn": "They decorated the room with colorful balloons.",
       "words": [
-        { "w": "زَيَّنُوا", "root": "ز ي ن", "bs": "ukrasili su", "en": "decorated" },
-        { "w": "الغُرْفَةَ", "root": "غ ر ف", "bs": "sobu", "en": "room" },
-        { "w": "البَالُونَاتِ", "bs": "balonima", "en": "balloons" },
-        { "w": "المُلَوَّنَةِ", "root": "ل و ن", "bs": "šarenim", "en": "colorful" }
+        {
+          "w": "زَيَّنُوا",
+          "root": "ز ي ن",
+          "bs": "ukrasili su",
+          "en": "decorated",
+          "lemma": "زَيَّنَ يُزَيِّنُ"
+        },
+        {
+          "w": "الغُرْفَةَ",
+          "root": "غ ر ف",
+          "bs": "sobu",
+          "en": "room",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        },
+        {
+          "w": "البَالُونَاتِ",
+          "bs": "balonima",
+          "en": "balloons",
+          "lemma": "بَالُونٌ / بَالُونَاتٌ"
+        },
+        {
+          "w": "المُلَوَّنَةِ",
+          "root": "ل و ن",
+          "bs": "šarenim",
+          "en": "colorful",
+          "lemma": "مُلَوَّنٌ"
+        }
       ]
     },
     {
@@ -30,10 +77,34 @@
       "translation": "Donijeli su veliku tortu sa svijećom.",
       "translationEn": "They brought a big cake with a candle.",
       "words": [
-        { "w": "أَحْضَرُوا", "root": "ح ض ر", "bs": "donijeli su", "en": "brought" },
-        { "w": "كَعْكَةً", "root": "ك ع ك", "bs": "tortu", "en": "cake" },
-        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "veliku", "en": "big" },
-        { "w": "بِشُمُعَةٍ", "root": "ش م ع", "bs": "sa svijećom", "en": "with a candle" }
+        {
+          "w": "أَحْضَرُوا",
+          "root": "ح ض ر",
+          "bs": "donijeli su",
+          "en": "brought",
+          "lemma": "أَحْضَرَ يُحْضِرُ"
+        },
+        {
+          "w": "كَعْكَةً",
+          "root": "ك ع ك",
+          "bs": "tortu",
+          "en": "cake",
+          "lemma": "كَعْكَةٌ / كَعْكَاتٌ"
+        },
+        {
+          "w": "كَبِيرَةً",
+          "root": "ك ب ر",
+          "bs": "veliku",
+          "en": "big",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "بِشُمُعَةٍ",
+          "root": "ش م ع",
+          "bs": "sa svijećom",
+          "en": "with a candle",
+          "lemma": "شَمْعَةٌ / شُمُوعٌ"
+        }
       ]
     },
     {
@@ -41,9 +112,27 @@
       "translation": "Radosno su pjevali pjesmu za rođendan.",
       "translationEn": "They sang the birthday song joyfully.",
       "words": [
-        { "w": "غَنَّوْا", "root": "غ ن ي", "bs": "pjevali su", "en": "sang" },
-        { "w": "أُغْنِيَةَ", "root": "غ ن ي", "bs": "pjesmu", "en": "song" },
-        { "w": "بِفَرَحٍ", "root": "ف ر ح", "bs": "radosno", "en": "joyfully" }
+        {
+          "w": "غَنَّوْا",
+          "root": "غ ن ي",
+          "bs": "pjevali su",
+          "en": "sang",
+          "lemma": "غَنَّى يُغَنِّي"
+        },
+        {
+          "w": "أُغْنِيَةَ",
+          "root": "غ ن ي",
+          "bs": "pjesmu",
+          "en": "song",
+          "lemma": "أُغْنِيَةٌ / أَغَانٍ"
+        },
+        {
+          "w": "بِفَرَحٍ",
+          "root": "ف ر ح",
+          "bs": "radosno",
+          "en": "joyfully",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        }
       ]
     },
     {
@@ -51,10 +140,34 @@
       "translation": "Poklonili su darove i Reem je zahvalila svima.",
       "translationEn": "They gave gifts and Reem thanked everyone.",
       "words": [
-        { "w": "قَدَّمُوا", "root": "ق د م", "bs": "dali su", "en": "gave" },
-        { "w": "الهَدَايَا", "root": "هـ د ي", "bs": "darove", "en": "gifts" },
-        { "w": "شَكَرَتْ", "root": "ش ك ر", "bs": "zahvalila je", "en": "thanked" },
-        { "w": "الجَمِيعَ", "root": "ج م ع", "bs": "svima", "en": "everyone" }
+        {
+          "w": "قَدَّمُوا",
+          "root": "ق د م",
+          "bs": "dali su",
+          "en": "gave",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الهَدَايَا",
+          "root": "هـ د ي",
+          "bs": "darove",
+          "en": "gifts",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "شَكَرَتْ",
+          "root": "ش ك ر",
+          "bs": "zahvalila je",
+          "en": "thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الجَمِيعَ",
+          "root": "ج م ع",
+          "bs": "svima",
+          "en": "everyone",
+          "lemma": "جَمِيعٌ"
+        }
       ]
     }
   ],

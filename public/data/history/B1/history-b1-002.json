@@ -8,11 +8,41 @@
       "translation": "Drevni grad je izgrađen na obali rijeke.",
       "translationEn": "An ancient city was built on the bank of the river.",
       "words": [
-        { "w": "بُنِيَتْ", "root": "ب ن ي", "bs": "izgrađena je", "en": "was built" },
-        { "w": "مَدِينَةٌ", "root": "د ي ن", "bs": "grad", "en": "a city" },
-        { "w": "قَدِيمَةٌ", "root": "ق د م", "bs": "drevna", "en": "ancient" },
-        { "w": "ضَفَّةِ", "root": "ض ف ف", "bs": "obala", "en": "bank" },
-        { "w": "النَّهْرِ", "root": "ن ه ر", "bs": "rijeka", "en": "the river" }
+        {
+          "w": "بُنِيَتْ",
+          "root": "ب ن ي",
+          "bs": "izgrađena je",
+          "en": "was built",
+          "lemma": "بَنَى يَبْنِي"
+        },
+        {
+          "w": "مَدِينَةٌ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "a city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "قَدِيمَةٌ",
+          "root": "ق د م",
+          "bs": "drevna",
+          "en": "ancient",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "ضَفَّةِ",
+          "root": "ض ف ف",
+          "bs": "obala",
+          "en": "bank",
+          "lemma": "ضَفَّةٌ / ضِفَافٌ"
+        },
+        {
+          "w": "النَّهْرِ",
+          "root": "ن ه ر",
+          "bs": "rijeka",
+          "en": "the river",
+          "lemma": "نَهْرٌ / أَنْهَارٌ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Ljudi su u njoj živjeli kroz mnoge generacije.",
       "translationEn": "People lived in it for many generations.",
       "words": [
-        { "w": "عَاشَ", "root": "ع ي ش", "bs": "živio je", "en": "lived" },
-        { "w": "النَّاسُ", "root": "ن و س", "bs": "ljudi", "en": "the people" },
-        { "w": "أَجْيَالٍ", "root": "ج ي ل", "bs": "generacije", "en": "generations" },
-        { "w": "كَثِيرَةٍ", "root": "ك ث ر", "bs": "mnoge", "en": "many" }
+        {
+          "w": "عَاشَ",
+          "root": "ع ي ش",
+          "bs": "živio je",
+          "en": "lived",
+          "lemma": "عَاشَ يَعِيشُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "root": "ن و س",
+          "bs": "ljudi",
+          "en": "the people",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "أَجْيَالٍ",
+          "root": "ج ي ل",
+          "bs": "generacije",
+          "en": "generations",
+          "lemma": "جِيلٌ / أَجْيَالٌ"
+        },
+        {
+          "w": "كَثِيرَةٍ",
+          "root": "ك ث ر",
+          "bs": "mnoge",
+          "en": "many",
+          "lemma": "كَثِيرٌ"
+        }
       ]
     },
     {
@@ -31,9 +85,27 @@
       "translation": "Grad je bio velik i lijep.",
       "translationEn": "The city was large and beautiful.",
       "words": [
-        { "w": "الْمَدِينَةُ", "root": "د ي ن", "bs": "grad", "en": "the city" },
-        { "w": "كَبِيرَةً", "root": "ك ب ر", "bs": "velik", "en": "large" },
-        { "w": "جَمِيلَةً", "root": "ج م ل", "bs": "lijep", "en": "beautiful" }
+        {
+          "w": "الْمَدِينَةُ",
+          "root": "د ي ن",
+          "bs": "grad",
+          "en": "the city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "كَبِيرَةً",
+          "root": "ك ب ر",
+          "bs": "velik",
+          "en": "large",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "جَمِيلَةً",
+          "root": "ج م ل",
+          "bs": "lijep",
+          "en": "beautiful",
+          "lemma": "جَمِيلٌ"
+        }
       ]
     },
     {
@@ -41,15 +113,43 @@
       "translation": "Tržnica u centru grada bila je čuvena.",
       "translationEn": "The market in the centre of the city was famous.",
       "words": [
-        { "w": "السُّوقُ", "root": "س و ق", "bs": "tržnica", "en": "the market" },
-        { "w": "وَسَطِ", "root": "و س ط", "bs": "centar", "en": "centre" },
-        { "w": "الْمَدِينَةِ", "root": "د ي ن", "bs": "grada", "en": "of the city" },
-        { "w": "مَشْهُورًا", "root": "ش ه ر", "bs": "čuven", "en": "famous" }
+        {
+          "w": "السُّوقُ",
+          "root": "س و ق",
+          "bs": "tržnica",
+          "en": "the market",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "وَسَطِ",
+          "root": "و س ط",
+          "bs": "centar",
+          "en": "centre",
+          "lemma": "وَسَطٌ / أَوْسَاطٌ"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "root": "د ي ن",
+          "bs": "grada",
+          "en": "of the city",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "مَشْهُورًا",
+          "root": "ش ه ر",
+          "bs": "čuven",
+          "en": "famous",
+          "lemma": "مَشْهُورٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["city", "ancient", "river"]
+    "tags": [
+      "city",
+      "ancient",
+      "river"
+    ]
   }
 }

@@ -8,10 +8,34 @@
       "translation": "Baka je unuku dala novac za bajram.",
       "translationEn": "The grandmother gave her grandchild money for the holiday.",
       "words": [
-        { "w": "أَعْطَتِ", "root": "ع ط و", "bs": "dala je", "en": "gave" },
-        { "w": "الجَدَّةُ", "root": "ج د د", "bs": "baka", "en": "grandmother" },
-        { "w": "حَفِيدَهَا", "root": "ح ف د", "bs": "njen unuk", "en": "her grandchild" },
-        { "w": "نُقُودًا", "root": "ن ق د", "bs": "novac", "en": "money" }
+        {
+          "w": "أَعْطَتِ",
+          "root": "ع ط و",
+          "bs": "dala je",
+          "en": "gave",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "الجَدَّةُ",
+          "root": "ج د د",
+          "bs": "baka",
+          "en": "grandmother",
+          "lemma": "جَدَّةٌ / جَدَّاتٌ"
+        },
+        {
+          "w": "حَفِيدَهَا",
+          "root": "ح ف د",
+          "bs": "njen unuk",
+          "en": "her grandchild",
+          "lemma": "حَفِيدٌ / أَحْفَادٌ"
+        },
+        {
+          "w": "نُقُودًا",
+          "root": "ن ق د",
+          "bs": "novac",
+          "en": "money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        }
       ]
     },
     {
@@ -19,10 +43,34 @@
       "translation": "Dijete se jako obradovalo i poljubilo bakin ruku.",
       "translationEn": "The child was very happy and kissed his grandmother's hand.",
       "words": [
-        { "w": "فَرِحَ", "root": "ف ر ح", "bs": "obradovalo se", "en": "was happy" },
-        { "w": "الطِّفْلُ", "root": "ط ف ل", "bs": "dijete", "en": "child" },
-        { "w": "قَبَّلَ", "root": "ق ب ل", "bs": "poljubilo je", "en": "kissed" },
-        { "w": "يَدَ", "root": "ي د ي", "bs": "ruku", "en": "hand" }
+        {
+          "w": "فَرِحَ",
+          "root": "ف ر ح",
+          "bs": "obradovalo se",
+          "en": "was happy",
+          "lemma": "فَرِحَ يَفْرَحُ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "root": "ط ف ل",
+          "bs": "dijete",
+          "en": "child",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "قَبَّلَ",
+          "root": "ق ب ل",
+          "bs": "poljubilo je",
+          "en": "kissed",
+          "lemma": "قَبَّلَ يُقَبِّلُ"
+        },
+        {
+          "w": "يَدَ",
+          "root": "ي د ي",
+          "bs": "ruku",
+          "en": "hand",
+          "lemma": "يَدٌ / أَيْدٍ"
+        }
       ]
     },
     {
@@ -30,9 +78,27 @@
       "translation": "Majka ga je pitala: Šta ćeš uraditi s ovim novcem?",
       "translationEn": "His mother asked him: What will you do with this money?",
       "words": [
-        { "w": "سَأَلَتْهُ", "root": "س أ ل", "bs": "pitala ga je", "en": "asked him" },
-        { "w": "سَتَفْعَلُ", "root": "ف ع ل", "bs": "uradit ćeš", "en": "will you do" },
-        { "w": "النُّقُودِ", "root": "ن ق د", "bs": "novac", "en": "money" }
+        {
+          "w": "سَأَلَتْهُ",
+          "root": "س أ ل",
+          "bs": "pitala ga je",
+          "en": "asked him",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
+          "w": "سَتَفْعَلُ",
+          "root": "ف ع ل",
+          "bs": "uradit ćeš",
+          "en": "will you do",
+          "lemma": "فَعَلَ يَفْعَلُ"
+        },
+        {
+          "w": "النُّقُودِ",
+          "root": "ن ق د",
+          "bs": "novac",
+          "en": "money",
+          "lemma": "نَقْدٌ / نُقُودٌ"
+        }
       ]
     },
     {
@@ -40,15 +106,43 @@
       "translation": "Rekao je: Kupit ću knjigu a ostatak ću uštedjeti.",
       "translationEn": "He said: I will buy a book and save the rest.",
       "words": [
-        { "w": "قَالَ", "root": "ق و ل", "bs": "rekao je", "en": "said" },
-        { "w": "سَأَشْتَرِي", "root": "ش ر ي", "bs": "kupit ću", "en": "I will buy" },
-        { "w": "كِتَابًا", "root": "ك ت ب", "bs": "knjiga", "en": "book" },
-        { "w": "أَدَّخِرُ", "root": "ذ خ ر", "bs": "uštedjeti ću", "en": "save" }
+        {
+          "w": "قَالَ",
+          "root": "ق و ل",
+          "bs": "rekao je",
+          "en": "said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "سَأَشْتَرِي",
+          "root": "ش ر ي",
+          "bs": "kupit ću",
+          "en": "I will buy",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "كِتَابًا",
+          "root": "ك ت ب",
+          "bs": "knjiga",
+          "en": "book",
+          "lemma": "كِتَابٌ / كُتُبٌ"
+        },
+        {
+          "w": "أَدَّخِرُ",
+          "root": "ذ خ ر",
+          "bs": "uštedjeti ću",
+          "en": "save",
+          "lemma": "ادَّخَرَ يَدَّخِرُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["eid", "gift-money", "saving"]
+    "tags": [
+      "eid",
+      "gift-money",
+      "saving"
+    ]
   }
 }

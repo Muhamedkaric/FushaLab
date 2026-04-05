@@ -12,19 +12,22 @@
           "w": "دَرْسُ",
           "root": "د ر س",
           "bs": "čas",
-          "en": "lesson"
+          "en": "lesson",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
         },
         {
           "w": "العُلُومِ",
           "root": "ع ل م",
           "bs": "prirodne nauke",
-          "en": "science"
+          "en": "science",
+          "lemma": "عِلْمٌ / عُلُومٌ"
         },
         {
           "w": "مُثِيرًا",
           "root": "ث و ر",
           "bs": "uzbudljiv",
-          "en": "exciting"
+          "en": "exciting",
+          "lemma": "مُثِيرٌ"
         }
       ]
     },
@@ -37,31 +40,36 @@
           "w": "أَحْضَرَ",
           "root": "ح ض ر",
           "bs": "donio",
-          "en": "brought"
+          "en": "brought",
+          "lemma": "أَحْضَرَ يُحْضِرُ"
         },
         {
           "w": "المُعَلِّمُ",
           "root": "ع ل م",
           "bs": "nastavnik",
-          "en": "teacher"
+          "en": "teacher",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
         },
         {
           "w": "بَذْرَةً",
           "root": "ب ذ ر",
           "bs": "sjemenka",
-          "en": "seed"
+          "en": "seed",
+          "lemma": "بَذْرَةٌ / بَذَرَاتٌ"
         },
         {
           "w": "تُرْبَةً",
           "root": "ت ر ب",
           "bs": "zemlja/tlo",
-          "en": "soil"
+          "en": "soil",
+          "lemma": "تُرْبَةٌ / تُرَبٌ"
         },
         {
           "w": "مَاءً",
           "root": "م و ه",
           "bs": "voda",
-          "en": "water"
+          "en": "water",
+          "lemma": "مَاءٌ / مِيَاهٌ"
         }
       ]
     },
@@ -74,25 +82,29 @@
           "w": "شَرَحَ",
           "root": "ش ر ح",
           "bs": "objasnio",
-          "en": "explained"
+          "en": "explained",
+          "lemma": "شَرَحَ يَشْرَحُ"
         },
         {
           "w": "تَنْمُو",
           "root": "ن م و",
           "bs": "rastu",
-          "en": "grow"
+          "en": "grow",
+          "lemma": "نَمَا يَنْمُو"
         },
         {
           "w": "النَّبَاتَاتُ",
           "root": "ن ب ت",
           "bs": "biljke",
-          "en": "plants"
+          "en": "plants",
+          "lemma": "نَبَاتٌ / نَبَاتَاتٌ"
         },
         {
           "w": "البَذْرَةِ",
           "root": "ب ذ ر",
           "bs": "sjemenka",
-          "en": "seed"
+          "en": "seed",
+          "lemma": "بَذْرَةٌ / بُذُورٌ"
         }
       ]
     },
@@ -105,31 +117,36 @@
           "w": "زَرَعَ",
           "root": "ز ر ع",
           "bs": "zasadio",
-          "en": "planted"
+          "en": "planted",
+          "lemma": "زَرَعَ يَزْرَعُ"
         },
         {
           "w": "طَالِبٍ",
           "root": "ط ل ب",
           "bs": "učenik",
-          "en": "student"
+          "en": "student",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "بَذْرَةً",
           "root": "ب ذ ر",
           "bs": "sjemenku",
-          "en": "seed"
+          "en": "seed",
+          "lemma": "بَذْرَةٌ / بَذَرَاتٌ"
         },
         {
           "w": "كُوبٍ",
           "root": "ك و ب",
           "bs": "čaša",
-          "en": "cup"
+          "en": "cup",
+          "lemma": "كُوبٌ / أَكْوَابٌ"
         },
         {
           "w": "صَغِيرٍ",
           "root": "ص غ ر",
           "bs": "mala",
-          "en": "small"
+          "en": "small",
+          "lemma": "صَغِيرٌ"
         }
       ]
     },
@@ -142,25 +159,29 @@
           "w": "وَعَدَ",
           "root": "و ع د",
           "bs": "obećali",
-          "en": "promised"
+          "en": "promised",
+          "lemma": "وَعَدَ يَعِدُ"
         },
         {
           "w": "الطُّلَّابُ",
           "root": "ط ل ب",
           "bs": "učenici",
-          "en": "students"
+          "en": "students",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
           "w": "يَسْقُوا",
           "root": "س ق ي",
           "bs": "zalijevaju",
-          "en": "water"
+          "en": "water",
+          "lemma": "سَقَى يَسْقِي"
         },
         {
           "w": "البَذْرَةَ",
           "root": "ب ذ ر",
           "bs": "sjemenku",
-          "en": "seed"
+          "en": "seed",
+          "lemma": "بَذْرَةٌ / بُذُورٌ"
         }
       ]
     }

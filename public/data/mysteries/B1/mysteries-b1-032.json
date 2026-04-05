@@ -8,10 +8,34 @@
       "translation": "Ali je vidio nešto kako se kreće ispod lišća u vrtu.",
       "translationEn": "Ali saw something moving under the leaves in the garden.",
       "words": [
-        { "w": "رَأَى", "root": "ر أ ي", "bs": "vidio je", "en": "he saw" },
-        { "w": "شَيْئًا", "root": "ش ي أ", "bs": "nešto", "en": "something" },
-        { "w": "يَتَحَرَّكُ", "root": "ح ر ك", "bs": "kreće se", "en": "moving" },
-        { "w": "الْأَوْرَاقِ", "root": "و ر ق", "bs": "lišća", "en": "leaves" }
+        {
+          "w": "رَأَى",
+          "root": "ر أ ي",
+          "bs": "vidio je",
+          "en": "he saw",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "شَيْئًا",
+          "root": "ش ي أ",
+          "bs": "nešto",
+          "en": "something",
+          "lemma": "شَيْءٌ / أَشْيَاءُ"
+        },
+        {
+          "w": "يَتَحَرَّكُ",
+          "root": "ح ر ك",
+          "bs": "kreće se",
+          "en": "moving",
+          "lemma": "تَحَرَّكَ يَتَحَرَّكُ"
+        },
+        {
+          "w": "الْأَوْرَاقِ",
+          "root": "و ر ق",
+          "bs": "lišća",
+          "en": "leaves",
+          "lemma": "وَرَقَةٌ / أَوْرَاقٌ"
+        }
       ]
     },
     {
@@ -19,9 +43,27 @@
       "translation": "Stao je i pažljivo gledao.",
       "translationEn": "He stopped and watched carefully.",
       "words": [
-        { "w": "وَقَفَ", "root": "و ق ف", "bs": "stao je", "en": "he stopped" },
-        { "w": "نَظَرَ", "root": "ن ظ ر", "bs": "gledao je", "en": "he watched" },
-        { "w": "بِعِنَايَةٍ", "root": "ع ن ي", "bs": "pažljivo", "en": "carefully" }
+        {
+          "w": "وَقَفَ",
+          "root": "و ق ف",
+          "bs": "stao je",
+          "en": "he stopped",
+          "lemma": "وَقَفَ يَقِفُ"
+        },
+        {
+          "w": "نَظَرَ",
+          "root": "ن ظ ر",
+          "bs": "gledao je",
+          "en": "he watched",
+          "lemma": "نَظَرَ يَنْظُرُ"
+        },
+        {
+          "w": "بِعِنَايَةٍ",
+          "root": "ع ن ي",
+          "bs": "pažljivo",
+          "en": "carefully",
+          "lemma": "عِنَايَةٌ"
+        }
       ]
     },
     {
@@ -29,8 +71,20 @@
       "translation": "Lišće se ponovo pokrenulo.",
       "translationEn": "The leaves moved again.",
       "words": [
-        { "w": "تَحَرَّكَتِ", "root": "ح ر ك", "bs": "pokrenulo se", "en": "moved" },
-        { "w": "الْأَوْرَاقُ", "root": "و ر ق", "bs": "lišće", "en": "leaves" }
+        {
+          "w": "تَحَرَّكَتِ",
+          "root": "ح ر ك",
+          "bs": "pokrenulo se",
+          "en": "moved",
+          "lemma": "تَحَرَّكَ يَتَحَرَّكُ"
+        },
+        {
+          "w": "الْأَوْرَاقُ",
+          "root": "و ر ق",
+          "bs": "lišće",
+          "en": "leaves",
+          "lemma": "وَرَقَةٌ / أَوْرَاقٌ"
+        }
       ]
     },
     {
@@ -38,10 +92,34 @@
       "translation": "Nježno je odmaknuo lišće i pronašao malog ježa.",
       "translationEn": "He gently moved the leaves and found a small hedgehog.",
       "words": [
-        { "w": "أَزَاحَ", "root": "ز و ح", "bs": "odmaknuo je", "en": "he moved aside" },
-        { "w": "بِرِفْقٍ", "root": "ر ف ق", "bs": "nježno", "en": "gently" },
-        { "w": "وَجَدَ", "root": "و ج د", "bs": "pronašao je", "en": "he found" },
-        { "w": "قُنْفُذًا", "root": "ق ن ف", "bs": "ježa", "en": "hedgehog" }
+        {
+          "w": "أَزَاحَ",
+          "root": "ز و ح",
+          "bs": "odmaknuo je",
+          "en": "he moved aside",
+          "lemma": "أَزَاحَ يُزِيحُ"
+        },
+        {
+          "w": "بِرِفْقٍ",
+          "root": "ر ف ق",
+          "bs": "nježno",
+          "en": "gently",
+          "lemma": "رِفْقٌ"
+        },
+        {
+          "w": "وَجَدَ",
+          "root": "و ج د",
+          "bs": "pronašao je",
+          "en": "he found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "قُنْفُذًا",
+          "root": "ق ن ف",
+          "bs": "ježa",
+          "en": "hedgehog",
+          "lemma": "قُنْفُذٌ / قَنَافِذُ"
+        }
       ]
     },
     {
@@ -49,14 +127,37 @@
       "translation": "Ali ga je ostavio na svom mjestu i nije ga uznemiravao.",
       "translationEn": "Ali left it in its place and did not disturb it.",
       "words": [
-        { "w": "تَرَكَهُ", "root": "ت ر ك", "bs": "ostavio ga je", "en": "he left it" },
-        { "w": "مَكَانِهِ", "root": "ك و ن", "bs": "mjesto", "en": "its place" },
-        { "w": "يُزْعِجْهُ", "root": "ز ع ج", "bs": "uznemiriti ga", "en": "disturb it" }
+        {
+          "w": "تَرَكَهُ",
+          "root": "ت ر ك",
+          "bs": "ostavio ga je",
+          "en": "he left it",
+          "lemma": "تَرَكَ يَتْرُكُ"
+        },
+        {
+          "w": "مَكَانِهِ",
+          "root": "ك و ن",
+          "bs": "mjesto",
+          "en": "its place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "يُزْعِجْهُ",
+          "root": "ز ع ج",
+          "bs": "uznemiriti ga",
+          "en": "disturb it",
+          "lemma": "أَزْعَجَ يُزْعِجُ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "garden", "leaves", "hedgehog"]
+    "tags": [
+      "mystery",
+      "garden",
+      "leaves",
+      "hedgehog"
+    ]
   }
 }

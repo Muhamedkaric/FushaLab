@@ -8,9 +8,27 @@
       "translation": "Najat je pronašla svoju izgubljenu mačku nakon tri dana.",
       "translationEn": "Najat found her lost cat after three days.",
       "words": [
-        { "w": "وَجَدَتْ", "root": "و ج د", "bs": "pronašla je", "en": "she found" },
-        { "w": "قِطَّتَهَا", "root": "ق ط ط", "bs": "mačku", "en": "her cat" },
-        { "w": "الضَّائِعَةَ", "root": "ض ي ع", "bs": "izgubljenu", "en": "lost" }
+        {
+          "w": "وَجَدَتْ",
+          "root": "و ج د",
+          "bs": "pronašla je",
+          "en": "she found",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "قِطَّتَهَا",
+          "root": "ق ط ط",
+          "bs": "mačku",
+          "en": "her cat",
+          "lemma": "قِطَّةٌ / قِطَطٌ"
+        },
+        {
+          "w": "الضَّائِعَةَ",
+          "root": "ض ي ع",
+          "bs": "izgubljenu",
+          "en": "lost",
+          "lemma": "ضَائِعٌ"
+        }
       ]
     },
     {
@@ -18,9 +36,27 @@
       "translation": "Mačka je bila kod njihove starije komšinice.",
       "translationEn": "The cat was at their elderly neighbour's house.",
       "words": [
-        { "w": "الْقِطَّةُ", "root": "ق ط ط", "bs": "mačka", "en": "the cat" },
-        { "w": "جَارَتِهِمُ", "root": "ج و ر", "bs": "komšinice", "en": "their neighbour" },
-        { "w": "الْعَجُوزِ", "root": "ع ج ز", "bs": "starije", "en": "elderly" }
+        {
+          "w": "الْقِطَّةُ",
+          "root": "ق ط ط",
+          "bs": "mačka",
+          "en": "the cat",
+          "lemma": "قِطَّةٌ / قِطَطٌ"
+        },
+        {
+          "w": "جَارَتِهِمُ",
+          "root": "ج و ر",
+          "bs": "komšinice",
+          "en": "their neighbour",
+          "lemma": "جَارَةٌ / جَارَاتٌ"
+        },
+        {
+          "w": "الْعَجُوزِ",
+          "root": "ع ج ز",
+          "bs": "starije",
+          "en": "elderly",
+          "lemma": "عَجُوزٌ / عَجَائِزُ"
+        }
       ]
     },
     {
@@ -28,10 +64,34 @@
       "translation": "Komšinica je rekla: Pronašla sam je pred mojim vratima i nahranila sam je.",
       "translationEn": "The neighbour said: I found her at my door and I fed her.",
       "words": [
-        { "w": "قَالَتِ", "root": "ق و ل", "bs": "rekla je", "en": "she said" },
-        { "w": "وَجَدْتُهَا", "root": "و ج د", "bs": "pronašla sam je", "en": "I found her" },
-        { "w": "بَابِي", "root": "ب و ب", "bs": "mojim vratima", "en": "my door" },
-        { "w": "أَطْعَمْتُهَا", "root": "ط ع م", "bs": "nahranila sam je", "en": "I fed her" }
+        {
+          "w": "قَالَتِ",
+          "root": "ق و ل",
+          "bs": "rekla je",
+          "en": "she said",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "وَجَدْتُهَا",
+          "root": "و ج د",
+          "bs": "pronašla sam je",
+          "en": "I found her",
+          "lemma": "وَجَدَ يَجِدُ"
+        },
+        {
+          "w": "بَابِي",
+          "root": "ب و ب",
+          "bs": "mojim vratima",
+          "en": "my door",
+          "lemma": "بَابٌ / أَبْوَابٌ"
+        },
+        {
+          "w": "أَطْعَمْتُهَا",
+          "root": "ط ع م",
+          "bs": "nahranila sam je",
+          "en": "I fed her",
+          "lemma": "أَطْعَمَ يُطْعِمُ"
+        }
       ]
     },
     {
@@ -39,9 +99,27 @@
       "translation": "Najat je zahvalila komšinici iz sveg srca.",
       "translationEn": "Najat thanked the neighbour with all her heart.",
       "words": [
-        { "w": "شَكَرَتْ", "root": "ش ك ر", "bs": "zahvalila je", "en": "she thanked" },
-        { "w": "الْجَارَةَ", "root": "ج و ر", "bs": "komšinicu", "en": "the neighbour" },
-        { "w": "قَلْبِهَا", "root": "ق ل ب", "bs": "srca", "en": "her heart" }
+        {
+          "w": "شَكَرَتْ",
+          "root": "ش ك ر",
+          "bs": "zahvalila je",
+          "en": "she thanked",
+          "lemma": "شَكَرَ يَشْكُرُ"
+        },
+        {
+          "w": "الْجَارَةَ",
+          "root": "ج و ر",
+          "bs": "komšinicu",
+          "en": "the neighbour",
+          "lemma": "جَارَةٌ / جَارَاتٌ"
+        },
+        {
+          "w": "قَلْبِهَا",
+          "root": "ق ل ب",
+          "bs": "srca",
+          "en": "her heart",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        }
       ]
     },
     {
@@ -49,15 +127,45 @@
       "translation": "Uzela je mačku na ruke i sretna se vratila kući.",
       "translationEn": "She picked up the cat and went home happily.",
       "words": [
-        { "w": "حَمَلَتِ", "root": "ح م ل", "bs": "uzela je", "en": "she picked up" },
-        { "w": "الْقِطَّةَ", "root": "ق ط ط", "bs": "mačku", "en": "the cat" },
-        { "w": "رَجَعَتِ", "root": "ر ج ع", "bs": "vratila se", "en": "she went back" },
-        { "w": "فَرِحَةً", "root": "ف ر ح", "bs": "sretna", "en": "happily" }
+        {
+          "w": "حَمَلَتِ",
+          "root": "ح م ل",
+          "bs": "uzela je",
+          "en": "she picked up",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "الْقِطَّةَ",
+          "root": "ق ط ط",
+          "bs": "mačku",
+          "en": "the cat",
+          "lemma": "قِطَّةٌ / قِطَطٌ"
+        },
+        {
+          "w": "رَجَعَتِ",
+          "root": "ر ج ع",
+          "bs": "vratila se",
+          "en": "she went back",
+          "lemma": "رَجَعَ يَرْجِعُ"
+        },
+        {
+          "w": "فَرِحَةً",
+          "root": "ف ر ح",
+          "bs": "sretna",
+          "en": "happily",
+          "lemma": "فَرِحٌ"
+        }
       ]
     }
   ],
   "metadata": {
     "difficulty": 1,
-    "tags": ["mystery", "cat", "lost", "neighbour", "found"]
+    "tags": [
+      "mystery",
+      "cat",
+      "lost",
+      "neighbour",
+      "found"
+    ]
   }
 }

@@ -8,11 +8,41 @@
       "translation": "Otac je pekao piletinu na roštilju u dvorištu.",
       "translationEn": "The father grilled chicken on the barbecue in the garden.",
       "words": [
-        { "w": "طَبَخَ", "root": "ط ب خ", "bs": "pekao je/kuhao", "en": "grilled/cooked" },
-        { "w": "الْأَبُ", "root": "أ ب و", "bs": "otac", "en": "father" },
-        { "w": "الدَّجَاجَ", "root": "د ج ج", "bs": "piletinu/pile", "en": "chicken" },
-        { "w": "الشَّوَّايَةِ", "root": "ش و ي", "bs": "roštilj", "en": "barbecue/grill" },
-        { "w": "الْحَدِيقَةِ", "root": "ح د ق", "bs": "dvorište/vrt", "en": "garden/yard" }
+        {
+          "w": "طَبَخَ",
+          "root": "ط ب خ",
+          "bs": "pekao je/kuhao",
+          "en": "grilled/cooked",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "الْأَبُ",
+          "root": "أ ب و",
+          "bs": "otac",
+          "en": "father",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "الدَّجَاجَ",
+          "root": "د ج ج",
+          "bs": "piletinu/pile",
+          "en": "chicken",
+          "lemma": "دَجَاجٌ / دَجَاجَةٌ"
+        },
+        {
+          "w": "الشَّوَّايَةِ",
+          "root": "ش و ي",
+          "bs": "roštilj",
+          "en": "barbecue/grill",
+          "lemma": "شَوَّايَةٌ / شَوَّايَاتٌ"
+        },
+        {
+          "w": "الْحَدِيقَةِ",
+          "root": "ح د ق",
+          "bs": "dvorište/vrt",
+          "en": "garden/yard",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
+        }
       ]
     },
     {
@@ -20,10 +50,34 @@
       "translation": "Miris piletine ispunjavao je prostor.",
       "translationEn": "The smell of the chicken filled the place.",
       "words": [
-        { "w": "رَائِحَةُ", "root": "ر و ح", "bs": "miris", "en": "smell" },
-        { "w": "الدَّجَاجِ", "root": "د ج ج", "bs": "piletine/pileta", "en": "chicken" },
-        { "w": "تَمْلَأُ", "root": "م ل أ", "bs": "ispunjava/puni", "en": "fills" },
-        { "w": "الْمَكَانَ", "root": "م ك ن", "bs": "prostor/mjesto", "en": "place" }
+        {
+          "w": "رَائِحَةُ",
+          "root": "ر و ح",
+          "bs": "miris",
+          "en": "smell",
+          "lemma": "رَائِحَةٌ / رَوَائِحُ"
+        },
+        {
+          "w": "الدَّجَاجِ",
+          "root": "د ج ج",
+          "bs": "piletine/pileta",
+          "en": "chicken",
+          "lemma": "دَجَاجٌ / دَجَاجَةٌ"
+        },
+        {
+          "w": "تَمْلَأُ",
+          "root": "م ل أ",
+          "bs": "ispunjava/puni",
+          "en": "fills",
+          "lemma": "مَلَأَ يَمْلَأُ"
+        },
+        {
+          "w": "الْمَكَانَ",
+          "root": "م ك ن",
+          "bs": "prostor/mjesto",
+          "en": "place",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        }
       ]
     },
     {
@@ -31,10 +85,34 @@
       "translation": "Komšije su došle i sjele sa porodicom.",
       "translationEn": "The neighbors came and sat with the family.",
       "words": [
-        { "w": "جَاءَ", "root": "ج ي أ", "bs": "došli su/doći", "en": "came" },
-        { "w": "الْجِيرَانُ", "root": "ج و ر", "bs": "komšije/susjedi", "en": "neighbors" },
-        { "w": "جَلَسُوا", "root": "ج ل س", "bs": "sjeli su", "en": "sat" },
-        { "w": "الْعَائِلَةِ", "root": "ع و ل", "bs": "porodica", "en": "family" }
+        {
+          "w": "جَاءَ",
+          "root": "ج ي أ",
+          "bs": "došli su/doći",
+          "en": "came",
+          "lemma": "جَاءَ يَجِيءُ"
+        },
+        {
+          "w": "الْجِيرَانُ",
+          "root": "ج و ر",
+          "bs": "komšije/susjedi",
+          "en": "neighbors",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        },
+        {
+          "w": "جَلَسُوا",
+          "root": "ج ل س",
+          "bs": "sjeli su",
+          "en": "sat",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "root": "ع و ل",
+          "bs": "porodica",
+          "en": "family",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        }
       ]
     },
     {
@@ -42,10 +120,34 @@
       "translation": "Jeli su zajedno, smijali se i uživali u vremenu.",
       "translationEn": "They ate together, laughed, and enjoyed the time.",
       "words": [
-        { "w": "أَكَلُوا", "root": "أ ك ل", "bs": "jeli su", "en": "ate" },
-        { "w": "ضَحِكُوا", "root": "ض ح ك", "bs": "smijali su se", "en": "laughed" },
-        { "w": "اسْتَمْتَعُوا", "root": "م ت ع", "bs": "uživali su", "en": "enjoyed" },
-        { "w": "الْوَقْتِ", "root": "و ق ت", "bs": "vrijeme/momenat", "en": "time" }
+        {
+          "w": "أَكَلُوا",
+          "root": "أ ك ل",
+          "bs": "jeli su",
+          "en": "ate",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "ضَحِكُوا",
+          "root": "ض ح ك",
+          "bs": "smijali su se",
+          "en": "laughed",
+          "lemma": "ضَحِكَ يَضْحَكُ"
+        },
+        {
+          "w": "اسْتَمْتَعُوا",
+          "root": "م ت ع",
+          "bs": "uživali su",
+          "en": "enjoyed",
+          "lemma": "اسْتَمْتَعَ يَسْتَمْتِعُ"
+        },
+        {
+          "w": "الْوَقْتِ",
+          "root": "و ق ت",
+          "bs": "vrijeme/momenat",
+          "en": "time",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        }
       ]
     }
   ],

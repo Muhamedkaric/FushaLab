@@ -12,25 +12,29 @@
           "w": "يُحِبُّ",
           "root": "ح ب ب",
           "bs": "voli",
-          "en": "likes"
+          "en": "likes",
+          "lemma": "أَحَبَّ يُحِبُّ"
         },
         {
           "w": "يُصَوِّرَ",
           "root": "ص و ر",
           "bs": "fotografisati",
-          "en": "photograph"
+          "en": "photograph",
+          "lemma": "صَوَّرَ يُصَوِّرُ"
         },
         {
           "w": "الطَّبِيعَةَ",
           "root": "ط ب ع",
           "bs": "prirodu",
-          "en": "nature"
+          "en": "nature",
+          "lemma": "طَبِيعَةٌ / طَبَائِعُ"
         },
         {
           "w": "بِهَاتِفِهِ",
           "root": "ه ت ف",
           "bs": "telefonom",
-          "en": "with his phone"
+          "en": "with his phone",
+          "lemma": "هَاتِفٌ / هَوَاتِفُ"
         }
       ]
     },
@@ -43,31 +47,36 @@
           "w": "ذَهَبَ",
           "root": "ذ ه ب",
           "bs": "otišao je",
-          "en": "went"
+          "en": "went",
+          "lemma": "ذَهَبَ يَذْهَبُ"
         },
         {
           "w": "الْحَدِيقَةِ",
           "root": "ح د ق",
           "bs": "park",
-          "en": "the park"
+          "en": "the park",
+          "lemma": "حَدِيقَةٌ / حَدَائِقُ"
         },
         {
           "w": "صَوَّرَ",
           "root": "ص و ر",
           "bs": "fotografisao je",
-          "en": "photographed"
+          "en": "photographed",
+          "lemma": "صَوَّرَ يُصَوِّرُ"
         },
         {
           "w": "الزُّهُورَ",
           "root": "ز ه ر",
           "bs": "cvijeće",
-          "en": "flowers"
+          "en": "flowers",
+          "lemma": "زَهْرَةٌ / زُهُورٌ"
         },
         {
           "w": "الطُّيُورَ",
           "root": "ط ي ر",
           "bs": "ptice",
-          "en": "birds"
+          "en": "birds",
+          "lemma": "طَائِرٌ / طُيُورٌ"
         }
       ]
     },
@@ -80,25 +89,29 @@
           "w": "جَمَعَ",
           "root": "ج م ع",
           "bs": "prikupio je",
-          "en": "collected"
+          "en": "collected",
+          "lemma": "جَمَعَ يَجْمَعُ"
         },
         {
           "w": "الصُّوَرَ",
           "root": "ص و ر",
           "bs": "fotografije",
-          "en": "the photos"
+          "en": "the photos",
+          "lemma": "صُورَةٌ / صُوَرٌ"
         },
         {
           "w": "أَلْبُومٍ",
           "root": "أ ل ب",
           "bs": "album",
-          "en": "an album"
+          "en": "an album",
+          "lemma": "أَلْبُومٌ / أَلْبُومَاتٌ"
         },
         {
           "w": "خَاصٍّ",
           "root": "خ ص ص",
           "bs": "poseban",
-          "en": "special"
+          "en": "special",
+          "lemma": "خَاصٌّ"
         }
       ]
     },
@@ -111,19 +124,22 @@
           "w": "يَنْظُرُ",
           "root": "ن ظ ر",
           "bs": "gleda",
-          "en": "looks at"
+          "en": "looks at",
+          "lemma": "نَظَرَ يَنْظُرُ"
         },
         {
           "w": "إِلَيْهَا",
           "root": "أ ل ي",
           "bs": "njih",
-          "en": "them"
+          "en": "them",
+          "lemma": "إِلَى"
         },
         {
           "w": "الْمَسَاءِ",
           "root": "م س و",
           "bs": "uveče",
-          "en": "in the evening"
+          "en": "in the evening",
+          "lemma": "مَسَاءٌ"
         }
       ]
     }
