@@ -9,7 +9,6 @@ import {
   Stack,
   IconButton,
   Tooltip,
-  Popover,
 } from '@mui/material'
 import NavigateBeforeIcon from '@mui/icons-material/NavigateBefore'
 import NavigateNextIcon from '@mui/icons-material/NavigateNext'
@@ -21,7 +20,6 @@ import TextIncreaseIcon from '@mui/icons-material/TextIncrease'
 import TextDecreaseIcon from '@mui/icons-material/TextDecrease'
 import { motion } from 'framer-motion'
 import type { ContentItem, Sentence } from '@/types/content'
-import { toggleHarakat } from '@/utils/diacritics'
 import { HarakatToggle } from './HarakatToggle'
 import { WordTapText } from './WordTapText'
 import { AudioPlayer } from './AudioPlayer'
@@ -39,43 +37,7 @@ const DEFAULT_FONT_IDX = 2
 
 const difficultyColor = (d: number) => (d === 1 ? 'success' : d === 2 ? 'warning' : 'error')
 
-const baseArabicSx = {
-  fontFamily: '"Amiri", serif',
-  lineHeight: 2,
-  letterSpacing: '0.02em',
-  direction: 'rtl',
-  textAlign: 'right',
-  color: 'text.primary',
-} as const
 
-interface SentenceSpanProps {
-  text: string
-  active: boolean
-  onClick: (el: HTMLElement) => void
-  isLast: boolean
-}
-
-function SentenceSpan({ text, active, onClick, isLast }: SentenceSpanProps) {
-  return (
-    <>
-      <Box
-        component="span"
-        onClick={e => onClick(e.currentTarget as HTMLElement)}
-        sx={{
-          cursor: 'pointer',
-          borderRadius: '3px',
-          px: 0.25,
-          transition: 'background-color 0.15s',
-          bgcolor: active ? 'rgba(201,168,76,0.25)' : 'transparent',
-          '&:hover': { bgcolor: 'rgba(201,168,76,0.12)' },
-        }}
-      >
-        {text}
-      </Box>
-      {!isLast && ' '}
-    </>
-  )
-}
 
 interface Props {
   item: ContentItem
@@ -119,8 +81,6 @@ export function TextCard({ item }: Props) {
     setSentenceMode(next)
     localStorage.setItem(SENTENCE_MODE_KEY, String(next))
     setCurrentIdx(0)
-    setPopoverAnchor(null)
-    setPopoverIdx(-1)
   }
 
   // ── Sentence navigation ───────────────────────────────────────────────────────
@@ -131,25 +91,6 @@ export function TextCard({ item }: Props) {
 
   const goNext = () => setCurrentIdx(i => Math.min(i + 1, total - 1))
   const goPrev = () => setCurrentIdx(i => Math.max(i - 1, 0))
-
-  // ── Sentence popover (full-text mode) ─────────────────────────────────────────
-  const [popoverAnchor, setPopoverAnchor] = useState<HTMLElement | null>(null)
-  const [popoverIdx, setPopoverIdx] = useState(-1)
-
-  const handleSentenceClick = (el: HTMLElement, idx: number) => {
-    if (popoverIdx === idx) {
-      setPopoverAnchor(null)
-      setPopoverIdx(-1)
-    } else {
-      setPopoverAnchor(el)
-      setPopoverIdx(idx)
-    }
-  }
-
-  const closePopover = () => {
-    setPopoverAnchor(null)
-    setPopoverIdx(-1)
-  }
 
   // ── Derived values ────────────────────────────────────────────────────────────
   const getTranslation = (s: Sentence) => (lang === 'en' ? s.translationEn : s.translation)
@@ -279,43 +220,19 @@ export function TextCard({ item }: Props) {
                 lang={lang}
               />
             ) : (
-              <Typography
-                variant="h5"
-                component="p"
-                sx={{ ...baseArabicSx, fontSize: `${FONT_SIZES[fontSizeIdx]}rem` }}
-              >
+              <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0.5 }}>
                 {item.sentences.map((s, i) => (
-                  <SentenceSpan
+                  <WordTapText
                     key={i}
-                    text={toggleHarakat(s.arabic, showHarakat)}
-                    active={popoverIdx === i}
-                    onClick={el => handleSentenceClick(el, i)}
-                    isLast={i === total - 1}
+                    sentence={s}
+                    fontSize={`${FONT_SIZES[fontSizeIdx]}rem`}
+                    showHarakat={showHarakat}
+                    lang={lang}
                   />
                 ))}
-              </Typography>
-            )}
-          </Box>
-
-          {/* ── Sentence tooltip popover (full-text mode) ─────────────────── */}
-          <Popover
-            open={popoverIdx >= 0}
-            anchorEl={popoverAnchor}
-            onClose={closePopover}
-            anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
-            transformOrigin={{ vertical: 'top', horizontal: 'center' }}
-            disableScrollLock
-            sx={{ pointerEvents: 'none' }}
-            slotProps={{ paper: { sx: { pointerEvents: 'auto', maxWidth: 340, borderRadius: 2 } } }}
-          >
-            {popoverIdx >= 0 && popoverIdx < total && (
-              <Box sx={{ px: 2, py: 1.5 }}>
-                <Typography variant="body2" color="text.secondary" fontStyle="italic">
-                  {getTranslation(item.sentences[popoverIdx])}
-                </Typography>
               </Box>
             )}
-          </Popover>
+          </Box>
 
           {/* ── Translation panel ─────────────────────────────────────────── */}
           <TranslationPanel
