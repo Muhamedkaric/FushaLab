@@ -3,6 +3,7 @@ import { Box, Popover, Typography, Divider, IconButton, Tooltip } from '@mui/mat
 import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder'
 import BookmarkIcon from '@mui/icons-material/Bookmark'
 import type { Sentence, WordAnnotation } from '@/types/content'
+import { lookupParticle, type ParticleEntry } from '@/data/particles'
 import { toggleHarakat } from '@/utils/diacritics'
 import { useI18n } from '@/i18n'
 
@@ -12,15 +13,18 @@ function stripPunct(w: string) {
   return w.replace(PUNCT, '').trim()
 }
 
+// A word can have a full annotation (content word) or a particle entry (function word)
+type AnyAnnotation = { kind: 'word'; ann: WordAnnotation } | { kind: 'particle'; entry: ParticleEntry; w: string }
+
 interface WordChipProps {
-  token: string // rendered text (with or without harakat)
-  rawToken: string // original form for lookup
-  annotation: WordAnnotation | null
+  token: string
+  annotation: AnyAnnotation | null
   active: boolean
   onClick: (el: HTMLElement) => void
 }
 
 function WordChip({ token, annotation, active, onClick }: WordChipProps) {
+  const isParticle = annotation?.kind === 'particle'
   return (
     <Box
       component="span"
@@ -30,10 +34,11 @@ function WordChip({ token, annotation, active, onClick }: WordChipProps) {
         borderRadius: '3px',
         px: 0.25,
         transition: 'background-color 0.15s',
-        bgcolor: active ? 'rgba(201,168,76,0.35)' : annotation ? 'transparent' : 'transparent',
+        bgcolor: active ? 'rgba(201,168,76,0.35)' : 'transparent',
         '&:hover': annotation ? { bgcolor: 'rgba(201,168,76,0.18)' } : {},
+        // Content words: gold dotted underline. Particles: subtle grey dotted.
         borderBottom: annotation ? '1px dotted' : 'none',
-        borderColor: 'primary.main',
+        borderColor: isParticle ? 'text.disabled' : 'primary.main',
       }}
     >
       {token}
@@ -61,7 +66,7 @@ export function WordTapText({
   const { t } = useI18n()
   const [activeWord, setActiveWord] = useState<string | null>(null)
   const [anchor, setAnchor] = useState<HTMLElement | null>(null)
-  const [annotation, setAnnotation] = useState<WordAnnotation | null>(null)
+  const [activeAnnotation, setActiveAnnotation] = useState<AnyAnnotation | null>(null)
 
   // Build lookup map from exact form → annotation
   const lookup = new Map<string, WordAnnotation>()
@@ -69,15 +74,23 @@ export function WordTapText({
     lookup.set(stripPunct(w.w), w)
   }
 
-  const handleClick = (el: HTMLElement, rawToken: string, ann: WordAnnotation) => {
+  function resolveAnnotation(rawToken: string): AnyAnnotation | null {
+    const wordAnn = lookup.get(rawToken)
+    if (wordAnn) return { kind: 'word', ann: wordAnn }
+    const particle = lookupParticle(rawToken)
+    if (particle) return { kind: 'particle', entry: particle, w: rawToken }
+    return null
+  }
+
+  const handleClick = (el: HTMLElement, rawToken: string, resolved: AnyAnnotation) => {
     if (activeWord === rawToken) {
       setActiveWord(null)
       setAnchor(null)
-      setAnnotation(null)
+      setActiveAnnotation(null)
     } else {
       setActiveWord(rawToken)
       setAnchor(el)
-      setAnnotation(ann)
+      setActiveAnnotation(resolved)
     }
   }
 
@@ -103,16 +116,15 @@ export function WordTapText({
       >
         {tokens.map((token, i) => {
           const rawToken = stripPunct(rawTokens[i] ?? token)
-          const ann = lookup.get(rawToken) ?? null
-          const isActive = activeWord === rawToken && ann !== null
+          const resolved = resolveAnnotation(rawToken)
+          const isActive = activeWord === rawToken && resolved !== null
           return (
             <span key={i}>
               <WordChip
                 token={token}
-                rawToken={rawToken}
-                annotation={ann}
+                annotation={resolved}
                 active={isActive}
-                onClick={el => ann && handleClick(el, rawToken, ann)}
+                onClick={el => resolved && handleClick(el, rawToken, resolved)}
               />
               {i < tokens.length - 1 ? ' ' : ''}
             </span>
@@ -126,7 +138,7 @@ export function WordTapText({
         onClose={() => {
           setAnchor(null)
           setActiveWord(null)
-          setAnnotation(null)
+          setActiveAnnotation(null)
         }}
         anchorOrigin={{ vertical: 'top', horizontal: 'center' }}
         transformOrigin={{ vertical: 'bottom', horizontal: 'center' }}
@@ -145,86 +157,64 @@ export function WordTapText({
           },
         }}
       >
-        {annotation && (
+        {activeAnnotation?.kind === 'word' && (
           <Box>
-            <Box
-              sx={{
-                display: 'flex',
-                alignItems: 'flex-start',
-                justifyContent: 'space-between',
-                gap: 1,
-              }}
-            >
+            <Box sx={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 1 }}>
               <Box sx={{ flex: 1 }}>
-                {/* Lemma (dictionary form) — primary display */}
                 <Typography
-                  sx={{
-                    fontFamily: '"Amiri", serif',
-                    fontSize: '1.6rem',
-                    direction: 'rtl',
-                    textAlign: 'right',
-                    lineHeight: 1.6,
-                    color: 'primary.main',
-                    fontWeight: 700,
-                  }}
+                  sx={{ fontFamily: '"Amiri", serif', fontSize: '1.6rem', direction: 'rtl', textAlign: 'right', lineHeight: 1.6, color: 'primary.main', fontWeight: 700 }}
                   dir="rtl"
                 >
-                  {annotation.lemma ?? annotation.w}
+                  {activeAnnotation.ann.lemma ?? activeAnnotation.ann.w}
                 </Typography>
-
-                {/* Show inflected form if different from lemma */}
-                {annotation.lemma && annotation.lemma !== annotation.w && (
-                  <Typography
-                    variant="caption"
-                    color="text.secondary"
-                    sx={{ display: 'block', textAlign: 'right', direction: 'rtl' }}
-                    dir="rtl"
-                  >
-                    {t.savedWords.seenInText}: {annotation.w}
+                {activeAnnotation.ann.lemma && activeAnnotation.ann.lemma !== activeAnnotation.ann.w && (
+                  <Typography variant="caption" color="text.secondary" sx={{ display: 'block', textAlign: 'right', direction: 'rtl' }} dir="rtl">
+                    {t.savedWords.seenInText}: {activeAnnotation.ann.w}
                   </Typography>
                 )}
-
-                {annotation.root && (
-                  <Typography
-                    variant="caption"
-                    color="text.secondary"
-                    sx={{ display: 'block', textAlign: 'right', direction: 'rtl', mb: 0.5 }}
-                    dir="rtl"
-                  >
-                    {annotation.root}
+                {activeAnnotation.ann.root && (
+                  <Typography variant="caption" color="text.secondary" sx={{ display: 'block', textAlign: 'right', direction: 'rtl', mb: 0.5 }} dir="rtl">
+                    {activeAnnotation.ann.root}
                   </Typography>
                 )}
               </Box>
-
               {onToggleSave && (
-                <Tooltip
-                  title={isSaved?.(annotation) ? t.savedWords.unsaveWord : t.savedWords.saveWord}
-                >
+                <Tooltip title={isSaved?.(activeAnnotation.ann) ? t.savedWords.unsaveWord : t.savedWords.saveWord}>
                   <IconButton
                     size="small"
-                    onClick={() => onToggleSave(annotation)}
-                    color={isSaved?.(annotation) ? 'primary' : 'default'}
+                    onClick={() => onToggleSave(activeAnnotation.ann)}
+                    color={isSaved?.(activeAnnotation.ann) ? 'primary' : 'default'}
                     sx={{ mt: 0.5, flexShrink: 0 }}
                   >
-                    {isSaved?.(annotation) ? (
-                      <BookmarkIcon fontSize="small" />
-                    ) : (
-                      <BookmarkBorderIcon fontSize="small" />
-                    )}
+                    {isSaved?.(activeAnnotation.ann) ? <BookmarkIcon fontSize="small" /> : <BookmarkBorderIcon fontSize="small" />}
                   </IconButton>
                 </Tooltip>
               )}
             </Box>
-
             <Divider sx={{ my: 0.75 }} />
-
             <Typography variant="body2" fontWeight={600}>
-              {lang === 'en' ? annotation.en : annotation.bs}
+              {lang === 'en' ? activeAnnotation.ann.en : activeAnnotation.ann.bs}
             </Typography>
-            {lang === 'bs' && annotation.en !== annotation.bs && (
-              <Typography variant="caption" color="text.secondary">
-                {annotation.en}
-              </Typography>
+            {lang === 'bs' && activeAnnotation.ann.en !== activeAnnotation.ann.bs && (
+              <Typography variant="caption" color="text.secondary">{activeAnnotation.ann.en}</Typography>
+            )}
+          </Box>
+        )}
+
+        {activeAnnotation?.kind === 'particle' && (
+          <Box>
+            <Typography
+              sx={{ fontFamily: '"Amiri", serif', fontSize: '1.6rem', direction: 'rtl', textAlign: 'right', lineHeight: 1.6, color: 'text.secondary', fontWeight: 700 }}
+              dir="rtl"
+            >
+              {activeAnnotation.w}
+            </Typography>
+            <Divider sx={{ my: 0.75 }} />
+            <Typography variant="body2" fontWeight={600}>
+              {lang === 'en' ? activeAnnotation.entry.en : activeAnnotation.entry.bs}
+            </Typography>
+            {lang === 'bs' && activeAnnotation.entry.en !== activeAnnotation.entry.bs && (
+              <Typography variant="caption" color="text.secondary">{activeAnnotation.entry.en}</Typography>
             )}
           </Box>
         )}
