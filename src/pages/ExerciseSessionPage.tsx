@@ -703,9 +703,9 @@ function MatchPairsCard({
       next.add(leftSel)
       // eslint-disable-next-line react-hooks/set-state-in-effect
       setMatched(next)
-       
+
       setLeftSel(null)
-       
+
       setRightSel(null)
       if (next.size === 4) {
         onAnswer(!hadMistake)
@@ -1188,7 +1188,7 @@ export function ExerciseSessionPage({ packId }: ExerciseSessionPageProps) {
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setLoading(true)
-     
+
     setFetchError(false)
     void fetch(`/data/exercises/packs/${packId}.json`)
       .then(async r => {

@@ -876,7 +876,7 @@ export function GrammarLessonPage({ lessonId }: GrammarLessonPageProps) {
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setLoading(true)
-     
+
     setError(false)
     void fetch(`/data/grammar/lessons/${lessonId}.json`)
       .then(async r => {

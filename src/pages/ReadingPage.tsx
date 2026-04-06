@@ -26,7 +26,6 @@ import AccountBalanceIcon from '@mui/icons-material/AccountBalance'
 import ManageSearchIcon from '@mui/icons-material/ManageSearch'
 import HistoryEduIcon from '@mui/icons-material/HistoryEdu'
 import PsychologyIcon from '@mui/icons-material/Psychology'
-import ChatBubbleOutlineIcon from '@mui/icons-material/ChatBubbleOutline'
 import FormatQuoteIcon from '@mui/icons-material/FormatQuote'
 import AutoStoriesIcon from '@mui/icons-material/AutoStories'
 import BalanceIcon from '@mui/icons-material/Balance'
@@ -53,7 +52,6 @@ interface CategoryDef {
 
 // Sorted alphabetically by id
 const ALL_CATEGORIES: CategoryDef[] = [
-  { id: 'conversations', icon: <ChatBubbleOutlineIcon /> },
   { id: 'culture', icon: <TheaterComedyIcon /> },
   { id: 'education', icon: <SchoolIcon /> },
   { id: 'finance', icon: <AccountBalanceIcon /> },

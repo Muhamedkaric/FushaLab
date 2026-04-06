@@ -185,7 +185,7 @@ export function VocabularyStudyPage({ setId }: VocabularyStudyPageProps) {
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setLoading(true)
-     
+
     setFetchError(false)
     void fetch(`/data/vocabulary/sets/${setId}.json`)
       .then(async r => {
