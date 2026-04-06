@@ -13,7 +13,6 @@ import Grid from '@mui/material/Grid'
 import MenuBookIcon from '@mui/icons-material/MenuBook'
 import HeadphonesIcon from '@mui/icons-material/Headphones'
 import TranslateIcon from '@mui/icons-material/Translate'
-import ForumIcon from '@mui/icons-material/Forum'
 import QuizIcon from '@mui/icons-material/Quiz'
 import InsightsIcon from '@mui/icons-material/Insights'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
@@ -144,7 +143,6 @@ const SECTIONS = [
   { path: '/reading', icon: <MenuBookIcon />, key: 'reading' as const },
   { path: '/listening', icon: <HeadphonesIcon />, key: 'listening' as const },
   { path: '/vocabulary', icon: <TranslateIcon />, key: 'vocabulary' as const },
-  { path: '/conversation', icon: <ForumIcon />, key: 'conversation' as const },
   { path: '/exercises', icon: <QuizIcon />, key: 'exercises' as const },
   { path: '/progress', icon: <InsightsIcon />, key: 'progress' as const },
 ]

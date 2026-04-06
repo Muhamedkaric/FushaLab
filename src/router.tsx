@@ -15,9 +15,6 @@ import { PlaylistPage } from './pages/PlaylistPage'
 import { VocabularyPage } from './pages/VocabularyPage'
 import { VocabularySetPage } from './pages/VocabularySetPage'
 import { VocabularyStudyPage } from './pages/VocabularyStudyPage'
-import { ConversationPage } from './pages/ConversationPage'
-import { DialoguePage } from './pages/DialoguePage'
-import { PhrasesPage } from './pages/PhrasesPage'
 import { ExercisesPage } from './pages/ExercisesPage'
 import { ExerciseSessionPage } from './pages/ExerciseSessionPage'
 import { GrammarPage } from './pages/GrammarPage'
@@ -138,40 +135,6 @@ const vocabularyStudyRoute = createRoute({
   },
 })
 
-// Conversation — hub
-const conversationRoute = createRoute({
-  getParentRoute: () => shellRoute,
-  path: '/conversation',
-  component: ConversationPage,
-})
-
-// Conversation — dialogue detail
-const dialogueRoute = createRoute({
-  getParentRoute: () => shellRoute,
-  path: '/conversation/$id',
-  component: function DialogueRouteComponent() {
-    const { id } = dialogueRoute.useParams()
-    return <DialoguePage id={id} />
-  },
-})
-
-// Conversation — phrases hub
-const phrasesRoute = createRoute({
-  getParentRoute: () => shellRoute,
-  path: '/conversation/phrases',
-  component: PhrasesPage,
-})
-
-// Conversation — phrase category detail
-const phraseCategoryRoute = createRoute({
-  getParentRoute: () => shellRoute,
-  path: '/conversation/phrases/$categoryId',
-  component: function PhraseCategoryRouteComponent() {
-    const { categoryId } = phraseCategoryRoute.useParams()
-    return <PhrasesPage initialCategoryId={categoryId} />
-  },
-})
-
 // Exercises — hub
 const exercisesRoute = createRoute({
   getParentRoute: () => shellRoute,
@@ -232,10 +195,6 @@ const routeTree = rootRoute.addChildren([
     vocabularyRoute,
     vocabularySetRoute,
     vocabularyStudyRoute,
-    conversationRoute,
-    dialogueRoute,
-    phrasesRoute,
-    phraseCategoryRoute,
     exercisesRoute,
     exerciseSessionRoute,
     grammarRoute,
