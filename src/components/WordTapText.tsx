@@ -15,7 +15,9 @@ function stripPunct(w: string) {
 }
 
 // A word can have a full annotation (content word) or a particle entry (function word)
-type AnyAnnotation = { kind: 'word'; ann: WordAnnotation } | { kind: 'particle'; entry: ParticleEntry; w: string }
+type AnyAnnotation =
+  | { kind: 'word'; ann: WordAnnotation }
+  | { kind: 'particle'; entry: ParticleEntry; w: string }
 
 interface WordChipProps {
   token: string
@@ -159,67 +161,111 @@ export function WordTapText({
           },
         }}
       >
-        {activeAnnotation?.kind === 'word' && (() => {
-          const ann = activeAnnotation.ann
-          const dictEntry = ann.lemma ? dictLookup(ann.lemma) : null
-          const bs = dictEntry?.bs ?? ''
-          const en = dictEntry?.en ?? ''
-          const root = dictEntry?.root
-          return (
-            <Box>
-              <Box sx={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 1 }}>
-                <Box sx={{ flex: 1 }}>
-                  <Typography
-                    sx={{ fontFamily: '"Amiri", serif', fontSize: '1.6rem', direction: 'rtl', textAlign: 'right', lineHeight: 1.6, color: 'primary.main', fontWeight: 700 }}
-                    dir="rtl"
-                  >
-                    {ann.lemma ?? ann.w}
-                  </Typography>
-                  {ann.lemma && ann.lemma !== ann.w && (
-                    <Typography variant="caption" color="text.secondary" sx={{ display: 'block', textAlign: 'right', direction: 'rtl' }} dir="rtl">
-                      {t.savedWords.seenInText}: {ann.w}
+        {activeAnnotation?.kind === 'word' &&
+          (() => {
+            const ann = activeAnnotation.ann
+            const dictEntry = ann.lemma ? dictLookup(ann.lemma) : null
+            const bs = dictEntry?.bs ?? ''
+            const en = dictEntry?.en ?? ''
+            const root = dictEntry?.root
+            return (
+              <Box>
+                <Box
+                  sx={{
+                    display: 'flex',
+                    alignItems: 'flex-start',
+                    justifyContent: 'space-between',
+                    gap: 1,
+                  }}
+                >
+                  <Box sx={{ flex: 1 }}>
+                    <Typography
+                      sx={{
+                        fontFamily: '"Amiri", serif',
+                        fontSize: '1.6rem',
+                        direction: 'rtl',
+                        textAlign: 'right',
+                        lineHeight: 1.6,
+                        color: 'primary.main',
+                        fontWeight: 700,
+                      }}
+                      dir="rtl"
+                    >
+                      {ann.lemma ?? ann.w}
                     </Typography>
-                  )}
-                  {root && (
-                    <Typography variant="caption" color="text.secondary" sx={{ display: 'block', textAlign: 'right', direction: 'rtl', mb: 0.5 }} dir="rtl">
-                      {root}
-                    </Typography>
+                    {ann.lemma && ann.lemma !== ann.w && (
+                      <Typography
+                        variant="caption"
+                        color="text.secondary"
+                        sx={{ display: 'block', textAlign: 'right', direction: 'rtl' }}
+                        dir="rtl"
+                      >
+                        {t.savedWords.seenInText}: {ann.w}
+                      </Typography>
+                    )}
+                    {root && (
+                      <Typography
+                        variant="caption"
+                        color="text.secondary"
+                        sx={{ display: 'block', textAlign: 'right', direction: 'rtl', mb: 0.5 }}
+                        dir="rtl"
+                      >
+                        {root}
+                      </Typography>
+                    )}
+                  </Box>
+                  {onToggleSave && (
+                    <Tooltip
+                      title={isSaved?.(ann) ? t.savedWords.unsaveWord : t.savedWords.saveWord}
+                    >
+                      <IconButton
+                        size="small"
+                        onClick={() => onToggleSave(ann)}
+                        color={isSaved?.(ann) ? 'primary' : 'default'}
+                        sx={{ mt: 0.5, flexShrink: 0 }}
+                      >
+                        {isSaved?.(ann) ? (
+                          <BookmarkIcon fontSize="small" />
+                        ) : (
+                          <BookmarkBorderIcon fontSize="small" />
+                        )}
+                      </IconButton>
+                    </Tooltip>
                   )}
                 </Box>
-                {onToggleSave && (
-                  <Tooltip title={isSaved?.(ann) ? t.savedWords.unsaveWord : t.savedWords.saveWord}>
-                    <IconButton
-                      size="small"
-                      onClick={() => onToggleSave(ann)}
-                      color={isSaved?.(ann) ? 'primary' : 'default'}
-                      sx={{ mt: 0.5, flexShrink: 0 }}
-                    >
-                      {isSaved?.(ann) ? <BookmarkIcon fontSize="small" /> : <BookmarkBorderIcon fontSize="small" />}
-                    </IconButton>
-                  </Tooltip>
+                <Divider sx={{ my: 0.75 }} />
+                {bs || en ? (
+                  <>
+                    <Typography variant="body2" fontWeight={600}>
+                      {lang === 'en' ? en : bs}
+                    </Typography>
+                    {lang === 'bs' && en && en !== bs && (
+                      <Typography variant="caption" color="text.secondary">
+                        {en}
+                      </Typography>
+                    )}
+                  </>
+                ) : (
+                  <Typography variant="caption" color="text.disabled">
+                    {ann.lemma ?? ann.w}
+                  </Typography>
                 )}
               </Box>
-              <Divider sx={{ my: 0.75 }} />
-              {(bs || en) ? (
-                <>
-                  <Typography variant="body2" fontWeight={600}>
-                    {lang === 'en' ? en : bs}
-                  </Typography>
-                  {lang === 'bs' && en && en !== bs && (
-                    <Typography variant="caption" color="text.secondary">{en}</Typography>
-                  )}
-                </>
-              ) : (
-                <Typography variant="caption" color="text.disabled">{ann.lemma ?? ann.w}</Typography>
-              )}
-            </Box>
-          )
-        })()}
+            )
+          })()}
 
         {activeAnnotation?.kind === 'particle' && (
           <Box>
             <Typography
-              sx={{ fontFamily: '"Amiri", serif', fontSize: '1.6rem', direction: 'rtl', textAlign: 'right', lineHeight: 1.6, color: 'text.secondary', fontWeight: 700 }}
+              sx={{
+                fontFamily: '"Amiri", serif',
+                fontSize: '1.6rem',
+                direction: 'rtl',
+                textAlign: 'right',
+                lineHeight: 1.6,
+                color: 'text.secondary',
+                fontWeight: 700,
+              }}
               dir="rtl"
             >
               {activeAnnotation.w}
@@ -229,7 +275,9 @@ export function WordTapText({
               {lang === 'en' ? activeAnnotation.entry.en : activeAnnotation.entry.bs}
             </Typography>
             {lang === 'bs' && activeAnnotation.entry.en !== activeAnnotation.entry.bs && (
-              <Typography variant="caption" color="text.secondary">{activeAnnotation.entry.en}</Typography>
+              <Typography variant="caption" color="text.secondary">
+                {activeAnnotation.entry.en}
+              </Typography>
             )}
           </Box>
         )}

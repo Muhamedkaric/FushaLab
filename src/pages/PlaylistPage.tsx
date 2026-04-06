@@ -133,6 +133,7 @@ export function PlaylistPage({ channelId, playlistId }: Props) {
   // auto-select first video with a real youtubeId
   useEffect(() => {
     if (!selectedVideo && videos.length > 0) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setSelectedVideo(videos[0])
     }
   }, [videos, selectedVideo])

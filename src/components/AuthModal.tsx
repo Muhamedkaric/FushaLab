@@ -99,7 +99,12 @@ export function AuthModal({ open, onClose }: Props) {
       </DialogTitle>
 
       <DialogContent sx={{ pt: 2 }}>
-        <Stack component="form" onSubmit={handleSubmit} gap={2} mt={1}>
+        <Stack
+          component="form"
+          onSubmit={e => void handleSubmit(e as React.FormEvent)}
+          gap={2}
+          mt={1}
+        >
           {error && <Alert severity="error">{error}</Alert>}
           {success && <Alert severity="success">{success}</Alert>}
 

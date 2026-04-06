@@ -31,7 +31,7 @@ function openDB(): Promise<IDBDatabase> {
       _db = req.result
       resolve(_db)
     }
-    req.onerror = () => reject(req.error)
+    req.onerror = () => reject(req.error ?? new Error('IDB open failed'))
   })
 }
 
@@ -45,13 +45,13 @@ function tx<T>(
       new Promise((resolve, reject) => {
         const req = fn(db.transaction(store, mode).objectStore(store))
         req.onsuccess = () => resolve(req.result)
-        req.onerror = () => reject(req.error)
+        req.onerror = () => reject(req.error ?? new Error('IDB transaction failed'))
       })
   )
 }
 
 export function getContent<T>(url: string): Promise<T | undefined> {
-  return tx<T | undefined>(STORE_CONTENT, 'readonly', s => s.get(url))
+  return tx<T | undefined>(STORE_CONTENT, 'readonly', s => s.get(url) as IDBRequest<T | undefined>)
 }
 
 export function putContent(url: string, data: unknown): Promise<IDBValidKey> {
@@ -70,13 +70,17 @@ export function deleteContentByPrefix(prefix: string): Promise<void> {
           if ((cursor.key as string).startsWith(prefix)) cursor.delete()
           cursor.continue()
         }
-        req.onerror = () => reject(req.error)
+        req.onerror = () => reject(req.error ?? new Error('IDB cursor failed'))
       })
   )
 }
 
 export function getLevelMeta(category: string, level: string): Promise<LevelMeta | undefined> {
-  return tx<LevelMeta | undefined>(STORE_LEVELS, 'readonly', s => s.get(`${category}/${level}`))
+  return tx<LevelMeta | undefined>(
+    STORE_LEVELS,
+    'readonly',
+    s => s.get(`${category}/${level}`) as IDBRequest<LevelMeta | undefined>
+  )
 }
 
 export function putLevelMeta(

@@ -184,6 +184,7 @@ export function HomePage() {
 
   // Hard texts older than 72h that are ready for review (max 3)
   const reviewItems = useMemo(() => {
+    // eslint-disable-next-line react-hooks/purity
     const cutoff = Date.now() - 72 * 60 * 60 * 1000
     return Object.entries(progress.completedAt)
       .filter(([id, ts]) => progress.ratings[id] === 'hard' && ts <= cutoff)

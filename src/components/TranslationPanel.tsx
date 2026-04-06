@@ -19,6 +19,7 @@ export function TranslationPanel({ translation, pinned, itemId }: Props) {
 
   // When pinned is turned on, immediately show translation
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     if (pinned) setVisible(true)
   }, [pinned])
 

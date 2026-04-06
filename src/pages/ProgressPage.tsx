@@ -212,6 +212,7 @@ function useCountUp(target: number, duration = 1000) {
   const frameRef = useRef<number | null>(null)
   useEffect(() => {
     if (target === 0) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setVal(0)
       return
     }
@@ -358,6 +359,7 @@ export function ProgressPage() {
   const animXp = useCountUp(totalXp)
 
   // Daily motivational quote (rotates by day)
+  // eslint-disable-next-line react-hooks/purity
   const quote = QUOTES[Math.floor(Date.now() / 86400000) % QUOTES.length]
 
   const handleReset = useCallback(() => {

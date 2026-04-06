@@ -1,4 +1,4 @@
-import { useState, useRef } from 'react'
+import { useState } from 'react'
 import { Box, Popover, Typography, ButtonBase, Tooltip, Divider } from '@mui/material'
 import TextFieldsIcon from '@mui/icons-material/TextFields'
 import { useFontScale, type FontScale } from '@/context/FontScaleContext'
@@ -13,13 +13,13 @@ const SIZES: { value: FontScale; label: string; arSize: string; bsLabel: string 
 export function FontSizeButton() {
   const { scale, setScale } = useFontScale()
   const [open, setOpen] = useState(false)
-  const anchorRef = useRef<HTMLButtonElement>(null)
+  const [anchor, setAnchor] = useState<HTMLButtonElement | null>(null)
 
   return (
     <>
       <Tooltip title="Veličina teksta">
         <ButtonBase
-          ref={anchorRef}
+          ref={el => setAnchor(el)}
           onClick={() => setOpen(v => !v)}
           sx={{
             borderRadius: 1.5,
@@ -44,7 +44,7 @@ export function FontSizeButton() {
 
       <Popover
         open={open}
-        anchorEl={anchorRef.current}
+        anchorEl={anchor}
         onClose={() => setOpen(false)}
         anchorOrigin={{ vertical: 'top', horizontal: 'left' }}
         transformOrigin={{ vertical: 'bottom', horizontal: 'left' }}

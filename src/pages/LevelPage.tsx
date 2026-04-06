@@ -46,6 +46,7 @@ export function LevelPage({ category, level }: Props) {
 
   // Reset pagination when level or filter changes
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setVisibleCount(PAGE_SIZE)
   }, [category, level, hideEasy])
 
