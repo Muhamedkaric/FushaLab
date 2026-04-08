@@ -1,9 +1,14 @@
 /**
- * Backfill word annotations for B2/C1/C2 content files.
- * Each word entry: { w, lemma } only — translations come from dictionary lookup.
+ * Re-annotate B1 content files with complete word-level annotations.
  *
- * Sends sentences to Gemini in batches. Saves progress — safe to interrupt and re-run.
- * Run from data-generation dir: pnpm backfill-annotations
+ * B1 files were originally annotated with a 3–6 word cap per sentence,
+ * leaving many content words missing. This script re-annotates all B1
+ * sentences replacing the incomplete words[] with a full annotation.
+ *
+ * Uses smaller batches (3 sentences/call) to be conservative with quota.
+ * Safe to interrupt and re-run — saves progress per-file.
+ *
+ * Run from data-generation dir: pnpm backfill-b1-words
  */
 
 import { config } from 'dotenv'
@@ -12,7 +17,7 @@ import { join } from 'path'
 config()
 config({ path: join(import.meta.dirname, '.env.reading'), override: false })
 
-import { existsSync, readFileSync, writeFileSync } from 'fs'
+import { existsSync, readFileSync, writeFileSync, readdirSync, statSync } from 'fs'
 import { resolve } from 'path'
 import {
   GoogleGenerativeAI,
@@ -45,11 +50,9 @@ interface ContentItem {
 // ── Config ────────────────────────────────────────────────────────────────────
 
 const DATA_DIR = resolve(import.meta.dirname, '../public/data')
-const PROGRESS_FILE = resolve(import.meta.dirname, 'backfill-annotations-progress.json')
+const PROGRESS_FILE = resolve(import.meta.dirname, 'backfill-b1-words-progress.json')
 const MODEL = process.env['READING_MODEL'] ?? 'gemini-2.0-flash'
-const SENTENCES_PER_BATCH = 8 // sentences per API call
-
-const LEVELS = ['B2', 'C1', 'C2']
+const SENTENCES_PER_BATCH = 3 // smaller batches for conservative quota use
 
 // ── Key rotation ──────────────────────────────────────────────────────────────
 
@@ -82,7 +85,7 @@ async function callGemini(prompt: string): Promise<string> {
 
     const gemini = new GoogleGenerativeAI(apiKeys[keyIdx]).getGenerativeModel({
       model: MODEL,
-      generationConfig: { temperature: 0.2, responseMimeType: 'application/json', maxOutputTokens: 8192 },
+      generationConfig: { temperature: 0.2, responseMimeType: 'application/json', maxOutputTokens: 4096 },
     })
 
     try {
@@ -225,84 +228,72 @@ function saveProgress(done: Set<string>) {
   writeFileSync(PROGRESS_FILE, JSON.stringify([...done], null, 2))
 }
 
-// ── Collect files ─────────────────────────────────────────────────────────────
+// ── Collect B1 files ──────────────────────────────────────────────────────────
 
-import { readdirSync, statSync } from 'fs'
-
-function collectFilesSync(): string[] {
+function collectB1Files(): string[] {
   const results: string[] = []
-  for (const level of LEVELS) {
-    const categories = readdirSync(DATA_DIR).filter(d => {
-      try { return statSync(join(DATA_DIR, d)).isDirectory() } catch { return false }
-    })
-    for (const cat of categories) {
-      const dir = join(DATA_DIR, cat, level)
-      if (!existsSync(dir)) continue
-      const files = readdirSync(dir).filter(f => f.endsWith('.json') && f !== 'index.json')
-      for (const f of files) results.push(join(dir, f))
-    }
+  const categories = readdirSync(DATA_DIR).filter(d => {
+    try { return statSync(join(DATA_DIR, d)).isDirectory() } catch { return false }
+  })
+  for (const cat of categories) {
+    const dir = join(DATA_DIR, cat, 'B1')
+    if (!existsSync(dir)) continue
+    const files = readdirSync(dir).filter(f => f.endsWith('.json') && f !== 'index.json')
+    for (const f of files) results.push(join(dir, f))
   }
   return results
 }
 
-console.log('\n📚 FushaLab Word Annotation Backfill (B2/C1/C2)')
+// ── Main ──────────────────────────────────────────────────────────────────────
+
+console.log('\n📚 FushaLab B1 Word Annotation Re-fill')
 console.log(`   Model  : ${MODEL}`)
 console.log(`   Keys   : ${apiKeys.length}`)
 console.log(`   Batch  : ${SENTENCES_PER_BATCH} sentences per API call\n`)
 
 const done = loadProgress()
-const allFiles = collectFilesSync()
+const allFiles = collectB1Files()
 
-const toProcess = allFiles.filter(f => {
-  if (done.has(f)) return false
-  try {
-    const item = JSON.parse(readFileSync(f, 'utf-8')) as ContentItem
-    return item.sentences.some(s => !s.words || s.words.length === 0)
-  } catch {
-    return false
-  }
-})
+// Skip files already fully re-annotated by this script
+const toProcess = allFiles.filter(f => !done.has(f))
 
-console.log(`Files already done : ${done.size}`)
+console.log(`Total B1 files     : ${allFiles.length}`)
+console.log(`Already done       : ${done.size}`)
 console.log(`Files to process   : ${toProcess.length}\n`)
 
 if (toProcess.length === 0) {
-  console.log('✅ All files already annotated!')
+  console.log('✅ All B1 files already re-annotated!')
   process.exit(0)
 }
 
-let totalFiles = 0
-let totalSentences = 0
-
-// Process in batches of SENTENCES_PER_BATCH across multiple files
-// Collect (file, sentence index) pairs that need annotation
 type SentenceRef = { file: string; sentIdx: number; arabic: string }
 
-let pendingRefs: SentenceRef[] = []
-let fileItems = new Map<string, ContentItem>()
+const pendingRefs: SentenceRef[] = []
+const fileItems = new Map<string, ContentItem>()
 
-// Load all items into memory and collect unannotated sentences
+// Load all items and collect ALL sentences (re-annotate everything, not just missing)
 for (const f of toProcess) {
   try {
     const item = JSON.parse(readFileSync(f, 'utf-8')) as ContentItem
     fileItems.set(f, item)
     for (let i = 0; i < item.sentences.length; i++) {
-      const s = item.sentences[i]
-      if (!s.words || s.words.length === 0) {
-        pendingRefs.push({ file: f, sentIdx: i, arabic: s.arabic })
-      }
+      pendingRefs.push({ file: f, sentIdx: i, arabic: item.sentences[i].arabic })
     }
   } catch {
     // skip unparseable
   }
 }
 
-console.log(`Total sentences to annotate: ${pendingRefs.length}`)
+console.log(`Total sentences to re-annotate: ${pendingRefs.length}`)
 const estimatedCalls = Math.ceil(pendingRefs.length / SENTENCES_PER_BATCH)
 console.log(`Estimated API calls: ${estimatedCalls}\n`)
 
 let processedSentences = 0
 let skippedSentences = 0
+let totalFiles = 0
+
+// Track which sentences in each file have been updated
+const sentencesDone = new Map<string, Set<number>>()
 
 while (pendingRefs.length > 0) {
   const batch = pendingRefs.splice(0, SENTENCES_PER_BATCH)
@@ -316,7 +307,7 @@ while (pendingRefs.length > 0) {
     annotations = parseAnnotations(raw)
   } catch (err) {
     if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
-      console.log(`\n⛔ All API keys exhausted. Progress saved. Re-run tomorrow.`)
+      console.log(`\n⛔ All API keys exhausted. Progress saved. Re-run when quota resets.`)
       saveProgress(done)
       process.exit(0)
     }
@@ -332,42 +323,47 @@ while (pendingRefs.length > 0) {
     const item = fileItems.get(ref.file)
     if (!item) continue
     item.sentences[ref.sentIdx].words = ann.words
+
+    if (!sentencesDone.has(ref.file)) sentencesDone.set(ref.file, new Set())
+    sentencesDone.get(ref.file)!.add(ref.sentIdx)
     processedSentences++
   }
 
-  // Save files that are now fully annotated
+  // Save files where all sentences have been re-annotated
   const filesInBatch = new Set(batch.map(r => r.file))
   for (const f of filesInBatch) {
     const item = fileItems.get(f)
-    if (!item) continue
-    const allAnnotated = item.sentences.every(s => s.words && s.words.length > 0)
-    if (allAnnotated) {
+    if (!item || done.has(f)) continue
+    const fileDone = sentencesDone.get(f)
+    if (!fileDone) continue
+    const allDone = item.sentences.every((_, i) => fileDone.has(i))
+    if (allDone) {
       writeFileSync(f, JSON.stringify(item, null, 2))
       done.add(f)
       totalFiles++
     }
   }
 
-  totalSentences += batch.length - skippedSentences
-  process.stdout.write(`\r  ✓ ${processedSentences} sentences annotated, ${totalFiles} files done (${done.size}/${toProcess.length + done.size} total)`)
+  process.stdout.write(`\r  ✓ ${processedSentences} sentences done, ${totalFiles} files saved (${done.size}/${toProcess.length + done.size} total)`)
 
-  // Save progress every 50 files
-  if (totalFiles % 50 === 0) saveProgress(done)
+  // Save progress every 30 files
+  if (totalFiles % 30 === 0 && totalFiles > 0) saveProgress(done)
 
   // Small delay to avoid hammering the API
-  if (pendingRefs.length > 0) await new Promise(r => setTimeout(r, 1000))
+  if (pendingRefs.length > 0) await new Promise(r => setTimeout(r, 500))
 }
 
-// Final save — write any partially-annotated files too
+// Write any partially-processed files (in case of interruption mid-file)
 for (const [f, item] of fileItems) {
-  const hasAny = item.sentences.some(s => s.words && s.words.length > 0)
-  if (hasAny && !done.has(f)) {
+  if (done.has(f)) continue
+  const fileDone = sentencesDone.get(f)
+  if (fileDone && fileDone.size > 0) {
     writeFileSync(f, JSON.stringify(item, null, 2))
   }
 }
 
 saveProgress(done)
-console.log(`\n\n✅ Backfill complete!`)
-console.log(`   Files annotated   : ${totalFiles}`)
+console.log(`\n\n✅ B1 re-annotation complete!`)
+console.log(`   Files saved       : ${totalFiles}`)
 console.log(`   Sentences handled : ${processedSentences}`)
 if (skippedSentences > 0) console.log(`   Sentences skipped : ${skippedSentences}`)
