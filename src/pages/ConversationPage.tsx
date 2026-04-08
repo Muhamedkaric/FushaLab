@@ -254,7 +254,7 @@ export function ConversationPage() {
     let cancelled = false
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setLoading(true)
-     
+
     setError(false)
 
     void fetch('/data/conversations/index.json')

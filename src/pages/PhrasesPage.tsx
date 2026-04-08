@@ -192,7 +192,7 @@ export function PhrasesPage({ initialCategoryId }: PhrasesPageProps = {}) {
     if (!selectedId) return
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setPhraseLoading(true)
-     
+
     setPhraseSet(null)
     void fetch(`/data/conversations/phrases/${selectedId}.json`)
       .then(async r => {

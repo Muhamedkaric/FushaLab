@@ -240,9 +240,9 @@ export function DialoguePage({ id }: DialoguePageProps) {
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setLoading(true)
-     
+
     setFetchError(false)
-     
+
     setShadowIdx(0)
     void fetch(`/data/conversations/dialogues/${id}.json`)
       .then(async r => {
