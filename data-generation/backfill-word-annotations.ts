@@ -49,7 +49,7 @@ const PROGRESS_FILE = resolve(import.meta.dirname, 'backfill-annotations-progres
 const MODEL = process.env['READING_MODEL'] ?? 'gemini-2.0-flash'
 const SENTENCES_PER_BATCH = 8 // sentences per API call
 
-const LEVELS = ['B2', 'C1', 'C2']
+const LEVELS = (process.env['BACKFILL_LEVELS'] ?? 'B2,C1,C2').split(',')
 
 // ── Key rotation ──────────────────────────────────────────────────────────────
 

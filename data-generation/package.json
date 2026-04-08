@@ -12,7 +12,9 @@
     "rebuild-dictionary": "tsx rebuild-dictionary.ts",
     "strip-inline-data": "tsx strip-word-inline-data.ts",
     "validate-tokens": "tsx validate-word-tokens.ts",
-    "fix-tokens": "tsx fix-word-tokens.ts"
+    "fix-tokens": "tsx fix-word-tokens.ts",
+    "fix-systematic-words": "tsx fix-systematic-words.ts",
+    "backfill-b2": "sh run-b2-backfill.sh"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
