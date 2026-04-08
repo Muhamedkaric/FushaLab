@@ -8,22 +8,10 @@
       "translation": "Jasir je htio naučiti kuhati kuskus.",
       "translationEn": "Yasir wanted to learn to cook couscous.",
       "words": [
-        {
-          "w": "أَرَادَ",
-          "lemma": "أَرَادَ يُرِيدُ"
-        },
-        {
-          "w": "يَتَعَلَّمَ",
-          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
-        },
-        {
-          "w": "طَبْخَ",
-          "lemma": "طَبْخٌ"
-        },
-        {
-          "w": "الْكُسْكُسِ",
-          "lemma": "كُسْكُسٌ"
-        }
+        { "w": "أَرَادَ", "lemma": "أَرَادَ يُرِيدُ" },
+        { "w": "يَتَعَلَّمَ", "lemma": "تَعَلَّمَ يَتَعَلَّمُ" },
+        { "w": "طَبْخَ", "lemma": "طَبْخٌ" },
+        { "w": "الْكُسْكُسِ", "lemma": "كُسْكُسٌ" }
       ]
     },
     {
@@ -31,18 +19,9 @@
       "translation": "Zamolio je majku da ga nauči.",
       "translationEn": "He asked his mother to teach him.",
       "words": [
-        {
-          "w": "طَلَبَ",
-          "lemma": "طَلَبَ يَطْلُبُ"
-        },
-        {
-          "w": "أُمِّهِ",
-          "lemma": "أُمٌّ / أُمَّهَاتٌ"
-        },
-        {
-          "w": "تُعَلِّمَهُ",
-          "lemma": "عَلَّمَ يُعَلِّمُ"
-        }
+        { "w": "طَلَبَ", "lemma": "طَلَبَ يَطْلُبُ" },
+        { "w": "أُمِّهِ", "lemma": "أُمٌّ / أُمَّهَاتٌ" },
+        { "w": "تُعَلِّمَهُ", "lemma": "عَلَّمَ يُعَلِّمُ" }
       ]
     },
     {
@@ -50,22 +29,10 @@
       "translation": "Majka je strpljivo objasnila korake.",
       "translationEn": "The mother explained the steps patiently.",
       "words": [
-        {
-          "w": "شَرَحَتِ",
-          "lemma": "شَرَحَ يَشْرَحُ"
-        },
-        {
-          "w": "الْأُمُّ",
-          "lemma": "أُمٌّ / أُمَّهَاتٌ"
-        },
-        {
-          "w": "الْخُطُوَاتِ",
-          "lemma": "خُطْوَةٌ / خُطُوَاتٌ"
-        },
-        {
-          "w": "بِصَبْرٍ",
-          "lemma": "صَبْرٌ"
-        }
+        { "w": "شَرَحَتِ", "lemma": "شَرَحَ يَشْرَحُ" },
+        { "w": "الْأُمُّ", "lemma": "أُمٌّ / أُمَّهَاتٌ" },
+        { "w": "الْخُطُوَاتِ", "lemma": "خُطْوَةٌ / خُطُوَاتٌ" },
+        { "w": "بِصَبْرٍ", "lemma": "صَبْرٌ" }
       ]
     },
     {
@@ -73,18 +40,9 @@
       "translation": "Jasir je skuhao kuskus i bio je dobar.",
       "translationEn": "Yasir cooked the couscous and it was good.",
       "words": [
-        {
-          "w": "طَبَخَ",
-          "lemma": "طَبَخَ يَطْبُخُ"
-        },
-        {
-          "w": "الْكُسْكُسَ",
-          "lemma": "كُسْكُسٌ"
-        },
-        {
-          "w": "جَيِّدًا",
-          "lemma": "جَيِّدٌ"
-        }
+        { "w": "طَبَخَ", "lemma": "طَبَخَ يَطْبُخُ" },
+        { "w": "الْكُسْكُسَ", "lemma": "كُسْكُسٌ" },
+        { "w": "جَيِّدًا", "lemma": "جَيِّدٌ" }
       ]
     }
   ],

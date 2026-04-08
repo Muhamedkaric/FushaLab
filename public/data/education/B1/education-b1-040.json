@@ -23,6 +23,10 @@
         {
           "w": "المَدْرَسَةِ",
           "lemma": "مَدْرَسَةٌ / مَدَارِسُ"
+        },
+        {
+          "w": "عَوْدَتِهِ",
+          "lemma": "عَوْدَةٌ / عَوْدَاتٌ"
         }
       ]
     },
@@ -31,6 +35,10 @@
       "translation": "Sin je rekao: Danas smo učili o planetama.",
       "translationEn": "The son said: Today we learned about planets.",
       "words": [
+        {
+          "w": "قَالَ",
+          "lemma": "قَالَ يَقُولُ"
+        },
         {
           "w": "الِابْنُ",
           "lemma": "اِبْنٌ / أَبْنَاءٌ"
@@ -59,8 +67,16 @@
           "lemma": "أَبٌ / آبَاءٌ"
         },
         {
+          "w": "وَسَأَلَهُ",
+          "lemma": "سَأَلَ يَسْأَلُ"
+        },
+        {
           "w": "أَسْئِلَةً",
           "lemma": "سُؤَالٌ / أَسْئِلَةٌ"
+        },
+        {
+          "w": "كَثِيرَةً",
+          "lemma": "كَثِيرٌ"
         }
       ]
     },
@@ -78,11 +94,15 @@
           "lemma": "اِبْنٌ / أَبْنَاءٌ"
         },
         {
+          "w": "كُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
           "w": "سُؤَالٍ",
           "lemma": "سُؤَالٌ / أَسْئِلَةٌ"
         },
         {
-          "w": "ثِقَةٍ",
+          "w": "بِثِقَةٍ",
           "lemma": "ثِقَةٌ"
         }
       ]
@@ -92,6 +112,10 @@
       "translation": "Otac je rekao: Ponosan sam na tebe, sine moj.",
       "translationEn": "The father said: I am proud of you, my son.",
       "words": [
+        {
+          "w": "قَالَ",
+          "lemma": "قَالَ يَقُولُ"
+        },
         {
           "w": "الأَبُ",
           "lemma": "أَبٌ / آبَاءٌ"

@@ -9,6 +9,10 @@
       "translationEn": "The child Amer dreamed of becoming a doctor.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "الطِّفْلُ",
           "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
@@ -28,11 +32,15 @@
       "translationEn": "He would play with small medical tools at home.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "يَلْعَبُ",
           "lemma": "لَعِبَ يَلْعَبُ"
         },
         {
-          "w": "أَدَوَاتِ",
+          "w": "بِأَدَوَاتِ",
           "lemma": "أَدَاةٌ / أَدَوَاتٌ"
         },
         {
@@ -42,6 +50,10 @@
         {
           "w": "صَغِيرَةٍ",
           "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
         }
       ]
     },
@@ -50,6 +62,10 @@
       "translation": "Liječio bi svoje igračke kao da su bolesne.",
       "translationEn": "He would treat his toys as if they were sick.",
       "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
         {
           "w": "يُعَالِجُ",
           "lemma": "عَالَجَ يُعَالِجُ"
@@ -74,12 +90,20 @@
           "lemma": "قَالَ يَقُولُ"
         },
         {
+          "w": "أُمُّهُ",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
           "w": "طَبِيبًا",
           "lemma": "طَبِيبٌ / أَطِبَّاءُ"
         },
         {
           "w": "مَاهِرًا",
           "lemma": "مَاهِرٌ"
+        },
+        {
+          "w": "يَوْمًا",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
         }
       ]
     }

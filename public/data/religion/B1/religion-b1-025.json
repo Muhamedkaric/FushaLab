@@ -9,12 +9,20 @@
       "translationEn": "The grandmother used to say Alhamdulillah at all times.",
       "words": [
         {
+          "w": "كَانَتِ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "الْجَدَّةُ",
           "lemma": "جَدَّةٌ / جَدَّاتٌ"
         },
         {
           "w": "تَقُولُ",
           "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "كُلِّ",
+          "lemma": "كُلٌّ"
         },
         {
           "w": "الْحَمْدُ لِلَّهِ",
@@ -31,6 +39,10 @@
       "translation": "Kad bi pila vodu rekla bi Elhamdulillah.",
       "translationEn": "When she drank water she said Alhamdulillah.",
       "words": [
+        {
+          "w": "حِينَ",
+          "lemma": "حِينٌ / أَحْيَانٌ"
+        },
         {
           "w": "شَرِبَتِ",
           "lemma": "شَرِبَ يَشْرَبُ"
@@ -71,6 +83,10 @@
           "lemma": "قَالَ يَقُولُ"
         },
         {
+          "w": "أَيْضًا",
+          "lemma": "أَيْضًا"
+        },
+        {
           "w": "الْحَمْدُ لِلَّهِ",
           "lemma": "الْحَمْدُ لِلَّهِ"
         }
@@ -94,7 +110,7 @@
           "lemma": "نِعْمَةٌ / نِعَمٌ"
         },
         {
-          "w": "يُبَارِكُ",
+          "w": "وَيُبَارِكُ",
           "lemma": "بَارَكَ يُبَارِكُ"
         }
       ]

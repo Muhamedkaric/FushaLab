@@ -9,12 +9,24 @@
       "translationEn": "The proverb says: «Do not postpone today's work until tomorrow».",
       "words": [
         {
+          "w": "يَقُولُ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْمَثَلُ",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
           "w": "تُؤَجِّلْ",
           "lemma": "أَجَّلَ يُؤَجِّلُ"
         },
         {
           "w": "عَمَلَ",
           "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْيَوْمِ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
         },
         {
           "w": "الْغَدِ",
@@ -27,6 +39,10 @@
       "translation": "To znači da odgađanje poslova uzrokuje probleme.",
       "translationEn": "This means that postponing tasks causes problems.",
       "words": [
+        {
+          "w": "يَعْنِي",
+          "lemma": "عَنَى يَعْنِي"
+        },
         {
           "w": "تَأْجِيلَ",
           "lemma": "تَأْجِيلٌ / تَأْجِيلَاتٌ"
@@ -61,6 +77,14 @@
         {
           "w": "الْوَاجِبِ",
           "lemma": "وَاجِبٌ / وَاجِبَاتٌ"
+        },
+        {
+          "w": "اللَّيْلَةِ",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
+        },
+        {
+          "w": "الأَخِيرَةِ",
+          "lemma": "أَخِيرٌ"
         }
       ]
     },
@@ -69,6 +93,10 @@
       "translation": "Bio je umoran i nije napisao domaću zadaću kako treba.",
       "translationEn": "He was tired and did not write the homework well.",
       "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
         {
           "w": "مُتْعَبًا",
           "lemma": "مُتْعَبٌ"
@@ -80,6 +108,14 @@
         {
           "w": "الْوَاجِبَ",
           "lemma": "وَاجِبٌ / وَاجِبَاتٌ"
+        },
+        {
+          "w": "بِشَكْلٍ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "جَيِّدٍ",
+          "lemma": "جَيِّدٌ"
         }
       ]
     }

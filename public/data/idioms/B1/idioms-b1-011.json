@@ -9,8 +9,24 @@
       "translationEn": "The proverb says: «Tell me who your friend is and I will tell you who you are».",
       "words": [
         {
+          "w": "يَقُولُ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْمَثَلُ",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
+          "w": "قُلْ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
           "w": "صَدِيقُكَ",
           "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "أَقُلْ",
+          "lemma": "قَالَ يَقُولُ"
         }
       ]
     },
@@ -19,6 +35,10 @@
       "translation": "To znači da naši prijatelji utiču na naš karakter.",
       "translationEn": "This means that our friends influence our character.",
       "words": [
+        {
+          "w": "يَعْنِي",
+          "lemma": "عَنَى يَعْنِي"
+        },
         {
           "w": "أَصْدِقَاءَنَا",
           "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
@@ -51,6 +71,10 @@
           "lemma": "طَيِّبٌ"
         },
         {
+          "w": "يُحِبُّونَ",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
           "w": "الْعِلْمَ",
           "lemma": "عِلْمٌ / عُلُومٌ"
         }
@@ -70,7 +94,7 @@
           "lemma": "كِتَابٌ / كُتُبٌ"
         },
         {
-          "w": "التَّعَلُّمِ",
+          "w": "وَالتَّعَلُّمِ",
           "lemma": "تَعَلُّمٌ"
         }
       ]

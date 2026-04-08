@@ -9,6 +9,10 @@
       "translationEn": "The blacksmith used to make tools from iron.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "الْحَدَّادُ",
           "lemma": "حَدَّادٌ / حَدَّادُونَ"
         },
@@ -31,6 +35,10 @@
       "translation": "Grijao je željezo u vatri, a potom ga udarao.",
       "translationEn": "He would heat the iron in the fire and then hammer it.",
       "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
         {
           "w": "يُسَخِّنُ",
           "lemma": "سَخَّنَ يُسَخِّنُ"
@@ -63,12 +71,16 @@
           "lemma": "سِكَّةٌ / سِكَكٌ"
         },
         {
-          "w": "الْفَلَّاحِ",
+          "w": "لِلْفَلَّاحِ",
           "lemma": "فَلَّاحٌ / فَلَّاحُونَ"
         },
         {
-          "w": "مِفْتَاحًا",
+          "w": "وَمِفْتَاحًا",
           "lemma": "مِفْتَاحٌ / مَفَاتِيحُ"
+        },
+        {
+          "w": "لِلتَّاجِرِ",
+          "lemma": "تَاجِرٌ / تُجَّارٌ"
         }
       ]
     },
@@ -77,6 +89,18 @@
       "translation": "Svima je bio potreban kovač.",
       "translationEn": "Everyone needed the blacksmith.",
       "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "كُلُّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "النَّاسِ",
+          "lemma": "نَاسٌ"
+        },
         {
           "w": "يَحْتَاجُونَ",
           "lemma": "اِحْتَاجَ يَحْتَاجُ"

@@ -9,8 +9,16 @@
       "translationEn": "Salma used to sit next to her friend in class.",
       "words": [
         {
+          "w": "كَانَتْ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "تَجْلِسُ",
           "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "بِجَانِبِ",
+          "lemma": "جَانِبٌ / جَوَانِبُ"
         },
         {
           "w": "صَدِيقَتِهَا",
@@ -66,6 +74,10 @@
       "translationEn": "The teacher was happy because they cooperated.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "المُعَلِّمُ",
           "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
         },
@@ -74,7 +86,7 @@
           "lemma": "سَعِيدٌ / سُعَدَاءُ"
         },
         {
-          "w": "يَتَعَاوَنَانِ",
+          "w": "تَتَعَاوَنَانِ",
           "lemma": "تَعَاوَنَ يَتَعَاوَنُ"
         }
       ]
@@ -84,6 +96,10 @@
       "translation": "Rekao je: Suradnja pomaže svima da uče.",
       "translationEn": "He said: Cooperation helps everyone to learn.",
       "words": [
+        {
+          "w": "قَالَ",
+          "lemma": "قَالَ يَقُولُ"
+        },
         {
           "w": "التَّعَاوُنُ",
           "lemma": "تَعَاوُنٌ"

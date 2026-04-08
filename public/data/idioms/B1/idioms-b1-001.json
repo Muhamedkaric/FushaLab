@@ -9,11 +9,15 @@
       "translationEn": "The teacher said to his students: «Patience is the key to relief».",
       "words": [
         {
+          "w": "قَالَ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
           "w": "الْمُعَلِّمُ",
           "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
         },
         {
-          "w": "طُلَّابِهِ",
+          "w": "لِطُلَّابِهِ",
           "lemma": "طَالِبٌ / طُلَّابٌ"
         },
         {
@@ -35,6 +39,10 @@
       "translation": "To znači da nam strpljenje pomaže u rješavanju problema.",
       "translationEn": "This means that patience helps us solve problems.",
       "words": [
+        {
+          "w": "يَعْنِي",
+          "lemma": "عَنَى يَعْنِي"
+        },
         {
           "w": "الصَّبْرَ",
           "lemma": "صَبْرٌ"
@@ -58,6 +66,10 @@
       "translation": "Ahmed je s brigom čekao rezultat ispita.",
       "translationEn": "Ahmad was anxiously waiting for the exam result.",
       "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
         {
           "w": "يَنْتَظِرُ",
           "lemma": "اِنْتَظَرَ يَنْتَظِرُ"
@@ -90,8 +102,12 @@
           "lemma": "مَثَلٌ / أَمْثَالٌ"
         },
         {
-          "w": "صَبَرَ",
+          "w": "وَصَبَرَ",
           "lemma": "صَبَرَ يَصْبِرُ"
+        },
+        {
+          "w": "جَاءَتِ",
+          "lemma": "جَاءَ يَجِيءُ"
         },
         {
           "w": "الْأَخْبَارُ",

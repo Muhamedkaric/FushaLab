@@ -9,6 +9,14 @@
       "translationEn": "The child heard: «The dark one laughed at the darkness».",
       "words": [
         {
+          "w": "سَمِعَ",
+          "lemma": "سَمِعَ يَسْمَعُ"
+        },
+        {
+          "w": "الطِّفْلُ",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
           "w": "ضَحِكَتِ",
           "lemma": "ضَحِكَ يَضْحَكُ"
         },
@@ -27,6 +35,14 @@
       "translation": "Ovo se kaže kad neko kritikuje manu koju i sam ima.",
       "translationEn": "This is said when someone criticizes a flaw that he himself has.",
       "words": [
+        {
+          "w": "يُقَالُ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "حِينَ",
+          "lemma": "حِينٌ / أَحْيَانٌ"
+        },
         {
           "w": "يَنْتَقِدُ",
           "lemma": "اِنْتَقَدَ يَنْتَقِدُ"
@@ -51,12 +67,20 @@
       "translationEn": "Ghalib said that his friend is always late.",
       "words": [
         {
+          "w": "قَالَ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
           "w": "صَدِيقَهُ",
           "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         },
         {
           "w": "يَتَأَخَّرُ",
           "lemma": "تَأَخَّرَ يَتَأَخَّرُ"
+        },
+        {
+          "w": "دَائِمًا",
+          "lemma": "دَائِمٌ"
         }
       ]
     },
@@ -70,7 +94,7 @@
           "lemma": "تَأَخَّرَ يَتَأَخَّرُ"
         },
         {
-          "w": "ضَحِكَ",
+          "w": "وَضَحِكَ",
           "lemma": "ضَحِكَ يَضْحَكُ"
         },
         {

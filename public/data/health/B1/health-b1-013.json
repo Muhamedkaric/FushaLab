@@ -13,7 +13,7 @@
           "lemma": "اِشْتَكَى يَشْتَكِي"
         },
         {
-          "w": "بِأَلَمٍ",
+          "w": "أَلَمٍ",
           "lemma": "أَلَمٌ / آلَامٌ"
         },
         {
@@ -27,6 +27,14 @@
       "translation": "Ljekar je rekao da previše sjedi ispred računara.",
       "translationEn": "The doctor said he sits too much in front of the computer.",
       "words": [
+        {
+          "w": "قَالَ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الطَّبِيبُ",
+          "lemma": "طَبِيبٌ / أَطِبَّاءُ"
+        },
         {
           "w": "يَجْلِسُ",
           "lemma": "جَلَسَ يَجْلِسُ"
@@ -57,6 +65,14 @@
         {
           "w": "وَالتَّمَدُّدِ",
           "lemma": "تَمَدُّدٌ"
+        },
+        {
+          "w": "كُلَّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "سَاعَةٍ",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
         }
       ]
     },
@@ -65,6 +81,10 @@
       "translation": "Rami je počeo raditi lagane vježbe kod kuće.",
       "translationEn": "Rami started doing light exercises at home.",
       "words": [
+        {
+          "w": "بَدَأَ",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
         {
           "w": "يَقُومُ",
           "lemma": "قَامَ يَقُومُ"
@@ -76,6 +96,10 @@
         {
           "w": "خَفِيفَةٍ",
           "lemma": "خَفِيفٌ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
         }
       ]
     }

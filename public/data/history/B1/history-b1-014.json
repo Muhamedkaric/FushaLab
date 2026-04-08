@@ -9,6 +9,10 @@
       "translationEn": "The well in the centre of the village was very important.",
       "words": [
         {
+          "w": "كَانَتِ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "الْبِئْرُ",
           "lemma": "بِئْرٌ / آبَارٌ"
         },
@@ -22,7 +26,11 @@
         },
         {
           "w": "مُهِمَّةً",
-          "lemma": "مُهِمٌّ / أَهَمُّ"
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "جِدًّا",
+          "lemma": "جِدًّا"
         }
       ]
     },
@@ -32,12 +40,20 @@
       "translationEn": "The people would gather around it every day.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "النَّاسُ",
           "lemma": "نَاسٌ"
         },
         {
           "w": "يَجْتَمِعُونَ",
           "lemma": "اِجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "كُلَّ",
+          "lemma": "كُلٌّ"
         }
       ]
     },
@@ -73,6 +89,10 @@
       "translation": "Hladna voda iz bunara bila je ukusna ljeti.",
       "translationEn": "The cold water from the well was delicious in summer.",
       "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
         {
           "w": "الْمَاءُ",
           "lemma": "مَاءٌ / مِيَاهٌ"

@@ -9,6 +9,14 @@
       "translationEn": "The proverb says: «Blood does not become water».",
       "words": [
         {
+          "w": "يَقُولُ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الْمَثَلُ",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
           "w": "الدَّمُ",
           "lemma": "دَمٌ / دِمَاءٌ"
         },
@@ -27,6 +35,10 @@
       "translation": "To znači da su porodične veze jake i ne prekidaju se.",
       "translationEn": "This means that family bonds are strong and do not break.",
       "words": [
+        {
+          "w": "يَعْنِي",
+          "lemma": "عَنَى يَعْنِي"
+        },
         {
           "w": "رَوَابِطَ",
           "lemma": "رَابِطَةٌ / رَوَابِطُ"
@@ -59,7 +71,11 @@
           "lemma": "أَخٌ / إِخْوَةٌ"
         },
         {
-          "w": "تَصَالَحَا",
+          "w": "عَادَا",
+          "lemma": "عَادَ يَعُودُ"
+        },
+        {
+          "w": "وَتَصَالَحَا",
           "lemma": "تَصَالَحَ يَتَصَالَحُ"
         }
       ]
@@ -70,11 +86,19 @@
       "translationEn": "The mother said: «You are brothers and family is more important than a quarrel».",
       "words": [
         {
+          "w": "قَالَتِ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الأُمُّ",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
           "w": "إِخْوَةٌ",
           "lemma": "أَخٌ / إِخْوَةٌ"
         },
         {
-          "w": "الأُسْرَةُ",
+          "w": "وَالأُسْرَةُ",
           "lemma": "أُسْرَةٌ / أُسَرٌ"
         },
         {

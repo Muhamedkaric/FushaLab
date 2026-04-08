@@ -9,11 +9,19 @@
       "translationEn": "People say: «Time is like a sword; if you do not cut it, it will cut you».",
       "words": [
         {
+          "w": "يَقُولُ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
           "w": "الْوَقْتُ",
           "lemma": "وَقْتٌ / أَوْقَاتٌ"
         },
         {
-          "w": "السَّيْفِ",
+          "w": "كَالسَّيْفِ",
           "lemma": "سَيْفٌ / سُيُوفٌ"
         },
         {
@@ -32,16 +40,24 @@
       "translationEn": "This means that time is precious and we must use it well.",
       "words": [
         {
+          "w": "يَعْنِي",
+          "lemma": "عَنَى يَعْنِي"
+        },
+        {
           "w": "الْوَقْتَ",
           "lemma": "وَقْتٌ / أَوْقَاتٌ"
         },
         {
           "w": "ثَمِينٌ",
-          "lemma": "ثَمِينٌ / أَثْمَنُ"
+          "lemma": "ثَمِينٌ"
         },
         {
           "w": "نَسْتَخْدِمَهُ",
           "lemma": "اِسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "جَيِّدًا",
+          "lemma": "جَيِّدٌ"
         }
       ]
     },
@@ -77,6 +93,10 @@
       "translation": "Nakon toga je počeo zapisivati termine u malu bilježnicu.",
       "translationEn": "After that he started writing his appointments in a small notebook.",
       "words": [
+        {
+          "w": "بَدَأَ",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
         {
           "w": "يَكْتُبُ",
           "lemma": "كَتَبَ يَكْتُبُ"

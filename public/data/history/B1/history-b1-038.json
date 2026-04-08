@@ -9,6 +9,14 @@
       "translationEn": "People used to measure time by the sun and the moon.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
           "w": "يَقِيسُونَ",
           "lemma": "قَاسَ يَقِيسُ"
         },
@@ -17,11 +25,11 @@
           "lemma": "زَمَنٌ / أَزْمِنَةٌ"
         },
         {
-          "w": "الشَّمْسِ",
+          "w": "بِالشَّمْسِ",
           "lemma": "شَمْسٌ / شُمُوسٌ"
         },
         {
-          "w": "الْقَمَرِ",
+          "w": "وَالْقَمَرِ",
           "lemma": "قَمَرٌ / أَقْمَارٌ"
         }
       ]
@@ -32,6 +40,10 @@
       "translationEn": "The day started at sunrise and ended at sunset.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "النَّهَارُ",
           "lemma": "نَهَارٌ"
         },
@@ -40,7 +52,7 @@
           "lemma": "بَدَأَ يَبْدَأُ"
         },
         {
-          "w": "شُرُوقِ",
+          "w": "بِشُرُوقِ",
           "lemma": "شُرُوقٌ"
         },
         {
@@ -48,7 +60,11 @@
           "lemma": "شَمْسٌ / شُمُوسٌ"
         },
         {
-          "w": "غُرُوبِهَا",
+          "w": "وَيَنْتَهِي",
+          "lemma": "اِنْتَهَى يَنْتَهِي"
+        },
+        {
+          "w": "بِغُرُوبِهَا",
           "lemma": "غُرُوبٌ / غُرُوبَاتٌ"
         }
       ]
@@ -58,6 +74,10 @@
       "translation": "Mjesec je određivao početak novog mjeseca.",
       "translationEn": "The moon determined the beginning of the new month.",
       "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
         {
           "w": "الْقَمَرُ",
           "lemma": "قَمَرٌ / أَقْمَارٌ"
@@ -85,6 +105,10 @@
       "translation": "Četiri godišnja doba uređivala su život ljudi.",
       "translationEn": "The four seasons organised people's lives.",
       "words": [
+        {
+          "w": "كَانَتِ",
+          "lemma": "كَانَ يَكُونُ"
+        },
         {
           "w": "الْفُصُولُ",
           "lemma": "فَصْلٌ / فُصُولٌ"

@@ -17,8 +17,12 @@
           "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
         {
-          "w": "بَقِيَ",
+          "w": "وَبَقِيَ",
           "lemma": "بَقِيَ يَبْقَى"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
         }
       ]
     },
@@ -27,6 +31,10 @@
       "translation": "Imao je visoku temperaturu i nije puno jeo.",
       "translationEn": "He had a high temperature and did not eat much.",
       "words": [
+        {
+          "w": "كَانَتْ",
+          "lemma": "كَانَ يَكُونُ"
+        },
         {
           "w": "حَرَارَتُهُ",
           "lemma": "حَرَارَةٌ"
@@ -70,11 +78,19 @@
       "translationEn": "The doctor said he has a simple cold.",
       "words": [
         {
+          "w": "قَالَ",
+          "lemma": "قَالَ يَقُولُ"
+        },
+        {
+          "w": "الطَّبِيبُ",
+          "lemma": "طَبِيبٌ / أَطِبَّاءُ"
+        },
+        {
           "w": "مَصَابٌ",
           "lemma": "أَصَابَ يُصِيبُ"
         },
         {
-          "w": "نَزْلَةِ",
+          "w": "بِنَزْلَةِ",
           "lemma": "نَزْلَةٌ / نَزَلَاتٌ"
         },
         {
@@ -92,6 +108,10 @@
       "translation": "Nakon tri dana Jusuf se vratio u školu.",
       "translationEn": "After three days Yusuf returned to school.",
       "words": [
+        {
+          "w": "أَيَّامٍ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
         {
           "w": "عَادَ",
           "lemma": "عَادَ يَعُودُ"

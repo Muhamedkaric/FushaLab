@@ -9,8 +9,16 @@
       "translationEn": "The local pharmacy offered discounts on medicines.",
       "words": [
         {
+          "w": "أَجْرَتِ",
+          "lemma": "أَجْرَى يُجْرِي"
+        },
+        {
           "w": "الصَّيْدَلِيَّةُ",
           "lemma": "صَيْدَلِيَّةٌ / صَيْدَلِيَّاتٌ"
+        },
+        {
+          "w": "الْمَحَلِّيَّةُ",
+          "lemma": "مَحَلِّيٌّ"
         },
         {
           "w": "تَخْفِيضَاتٍ",
@@ -28,8 +36,16 @@
       "translationEn": "Many customers came to take advantage of the discounts.",
       "words": [
         {
+          "w": "جَاءَ",
+          "lemma": "جَاءَ يَجِيءُ"
+        },
+        {
           "w": "الزَّبَائِنِ",
           "lemma": "زَبُونٌ / زَبَائِنُ"
+        },
+        {
+          "w": "لِلِاسْتِفَادَةِ",
+          "lemma": "اِسْتِفَادَةٌ"
         },
         {
           "w": "التَّخْفِيضَاتِ",
@@ -43,6 +59,10 @@
       "translationEn": "The pharmacist advised customers about suitable medicines.",
       "words": [
         {
+          "w": "أَنْصَحَ",
+          "lemma": "نَصَحَ يَنْصَحُ"
+        },
+        {
           "w": "الصَّيْدَلِيُّ",
           "lemma": "صَيْدَلِيٌّ / صَيَادِلَةٌ"
         },
@@ -51,7 +71,7 @@
           "lemma": "زَبُونٌ / زَبَائِنُ"
         },
         {
-          "w": "الأَدْوِيَةِ",
+          "w": "بِالأَدْوِيَةِ",
           "lemma": "دَوَاءٌ / أَدْوِيَةٌ"
         },
         {
@@ -65,6 +85,10 @@
       "translation": "Ponuda traje do kraja mjeseca.",
       "translationEn": "The offer continues until the end of the month.",
       "words": [
+        {
+          "w": "يَسْتَمِرُّ",
+          "lemma": "اِسْتَمَرَّ يَسْتَمِرُّ"
+        },
         {
           "w": "الْعَرْضُ",
           "lemma": "عَرْضٌ / عُرُوضٌ"

@@ -9,12 +9,20 @@
       "translationEn": "There was a small dog named Bishar who played in the garden.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "كَلْبٌ",
           "lemma": "كَلْبٌ / كِلَابٌ"
         },
         {
           "w": "صَغِيرٌ",
           "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "اسْمُهُ",
+          "lemma": "اسْمٌ / أَسْمَاءٌ"
         },
         {
           "w": "يَلْعَبُ",
@@ -31,6 +39,10 @@
       "translation": "Jednog dana je upao u duboku jamu i nije mogao izaći.",
       "translationEn": "One day he fell into a deep hole and could not get out.",
       "words": [
+        {
+          "w": "ذَاتَ",
+          "lemma": "ذَاتٌ"
+        },
         {
           "w": "سَقَطَ",
           "lemma": "سَقَطَ يَسْقُطُ"
@@ -67,7 +79,7 @@
           "lemma": "عَالٍ"
         },
         {
-          "w": "سَمِعَهُ",
+          "w": "فَسَمِعَهُ",
           "lemma": "سَمِعَ يَسْمَعُ"
         },
         {
@@ -94,7 +106,7 @@
           "lemma": "حَبْلٌ / حِبَالٌ"
         },
         {
-          "w": "أَخْرَجَ",
+          "w": "وَأَخْرَجَ",
           "lemma": "أَخْرَجَ يُخْرِجُ"
         },
         {

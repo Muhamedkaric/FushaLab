@@ -9,6 +9,10 @@
       "translationEn": "Ali always used to compare himself to his friends.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "يُقَارِنُ",
           "lemma": "قَارَنَ يُقَارِنُ"
         },
@@ -17,8 +21,12 @@
           "lemma": "نَفْسٌ / أَنْفُسٌ"
         },
         {
-          "w": "أَصْدِقَائِهِ",
+          "w": "بِأَصْدِقَائِهِ",
           "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        },
+        {
+          "w": "دَائِمًا",
+          "lemma": "دَائِمٌ"
         }
       ]
     },
@@ -32,7 +40,7 @@
           "lemma": "شَعَرَ يَشْعُرُ"
         },
         {
-          "w": "الْحُزْنِ",
+          "w": "بِالْحُزْنِ",
           "lemma": "حُزْنٌ"
         },
         {
@@ -73,6 +81,10 @@
       "translation": "Svaki čovjek ima talente koji mu pripadaju.",
       "translationEn": "Every person has talents that are unique to them.",
       "words": [
+        {
+          "w": "كُلُّ",
+          "lemma": "كُلٌّ"
+        },
         {
           "w": "إِنْسَانٍ",
           "lemma": "إِنْسَانٌ / أُنَاسٌ"

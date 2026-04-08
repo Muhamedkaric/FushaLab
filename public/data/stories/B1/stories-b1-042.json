@@ -9,6 +9,10 @@
       "translationEn": "The big tree in the middle of the village was a gathering place.",
       "words": [
         {
+          "w": "كَانَتِ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "الشَّجَرَةُ",
           "lemma": "شَجَرَةٌ / أَشْجَارٌ"
         },
@@ -36,6 +40,10 @@
       "translationEn": "Children played beneath it and elders sat beside it.",
       "words": [
         {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
           "w": "الأَطْفَالُ",
           "lemma": "طِفْلٌ / أَطْفَالٌ"
         },
@@ -44,12 +52,16 @@
           "lemma": "لَعِبَ يَلْعَبُ"
         },
         {
-          "w": "الشُّيُوخُ",
+          "w": "وَالشُّيُوخُ",
           "lemma": "شَيْخٌ / شُيُوخٌ"
         },
         {
           "w": "يَجْلِسُونَ",
           "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "بِجَانِبِهَا",
+          "lemma": "جَانِبٌ / جَوَانِبُ"
         }
       ]
     },
@@ -58,6 +70,10 @@
       "translation": "Jednog dana se stablo razbolilo i listovi su počeli otpadati.",
       "translationEn": "One day the tree got sick and its leaves began to fall.",
       "words": [
+        {
+          "w": "ذَاتَ",
+          "lemma": "ذَاتٌ"
+        },
         {
           "w": "مَرِضَتِ",
           "lemma": "مَرِضَ يَمْرَضُ"
@@ -94,7 +110,11 @@
           "lemma": "شَجَرَةٌ / أَشْجَارٌ"
         },
         {
-          "w": "عَادَ",
+          "w": "مَعًا",
+          "lemma": "مَعًا"
+        },
+        {
+          "w": "فَعَادَ",
           "lemma": "عَادَ يَعُودُ"
         },
         {
