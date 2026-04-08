@@ -167,6 +167,12 @@
     "bs": "namještaj",
     "en": "furniture"
   },
+  "أَثْنَاءُ": {
+    "lemma": "أَثْنَاءُ",
+    "root": "ث ن ي",
+    "bs": "tokom, za vrijeme",
+    "en": "during, in the course of"
+  },
   "أَثَرٌ / آثَارٌ": {
     "lemma": "أَثَرٌ / آثَارٌ",
     "root": "أ ث ر",
@@ -1984,6 +1990,18 @@
     "root": "ب د أ",
     "bs": "početak, počinjanje",
     "en": "beginning, start"
+  },
+  "بِدُونِ": {
+    "lemma": "بِدُونِ",
+    "root": "د و ن",
+    "bs": "bez",
+    "en": "without"
+  },
+  "بَدَلَ": {
+    "lemma": "بَدَلَ",
+    "root": "ب د ل",
+    "bs": "umjesto, za razliku od",
+    "en": "instead of, in place of"
   },
   "بَدَأَ يَبْدَأُ": {
     "lemma": "بَدَأَ يَبْدَأُ",
@@ -4438,6 +4456,12 @@
     "root": "ح ف د",
     "bs": "unuk",
     "en": "grandchild, grandson"
+  },
+  "حَوْلَ": {
+    "lemma": "حَوْلَ",
+    "root": "ح و ل",
+    "bs": "oko, okolo, o (temi)",
+    "en": "around, about"
   },
   "حَقٌّ / حُقُوقٌ": {
     "lemma": "حَقٌّ / حُقُوقٌ",
@@ -7925,6 +7949,12 @@
     "bs": "kuhar, kuvarica",
     "en": "cook, chef"
   },
+  "طَوَالَ": {
+    "lemma": "طَوَالَ",
+    "root": "ط و ل",
+    "bs": "tokom cijelog, sve vrijeme",
+    "en": "throughout, all through"
+  },
   "طَاوِلَةٌ / طَاوِلَاتٌ": {
     "lemma": "طَاوِلَةٌ / طَاوِلَاتٌ",
     "root": "ط و ل",
@@ -8229,6 +8259,18 @@
     "root": "ع و ل",
     "bs": "porodični / obiteljski",
     "en": "family (adjective)"
+  },
+  "عِنْدَ": {
+    "lemma": "عِنْدَ",
+    "root": "ع ن د",
+    "bs": "kod, pri, kod (nekoga)",
+    "en": "at, with, in the possession of"
+  },
+  "عَبْرَ": {
+    "lemma": "عَبْرَ",
+    "root": "ع ب ر",
+    "bs": "putem, kroz, preko",
+    "en": "via, through, across"
   },
   "عَادَ يَعُودُ": {
     "lemma": "عَادَ يَعُودُ",
@@ -9237,6 +9279,12 @@
     "root": "ف ر ح",
     "bs": "radost, veselje",
     "en": "joy, happiness"
+  },
+  "فَقَطْ": {
+    "lemma": "فَقَطْ",
+    "root": "ف ق ط",
+    "bs": "samo, jedino",
+    "en": "only, just"
   },
   "فَرَّحَ يُفَرِّحُ": {
     "lemma": "فَرَّحَ يُفَرِّحُ",
@@ -10414,6 +10462,12 @@
     "bs": "ljubazan, nježan",
     "en": "kind, gentle"
   },
+  "لِأَنَّ": {
+    "lemma": "لِأَنَّ",
+    "root": "أ ن ن",
+    "bs": "jer, zato što",
+    "en": "because"
+  },
   "لَعِبَ يَلْعَبُ": {
     "lemma": "لَعِبَ يَلْعَبُ",
     "root": "ل ع ب",
@@ -10491,6 +10545,12 @@
     "root": "ل ي ل",
     "bs": "noć",
     "en": "night"
+  },
+  "لَيْسَ": {
+    "lemma": "لَيْسَ",
+    "root": "ل ي س",
+    "bs": "nije, nisu",
+    "en": "is not, are not"
   },
   "لَيْلَةٌ / لَيَالٍ": {
     "lemma": "لَيْلَةٌ / لَيَالٍ",
@@ -12610,6 +12670,12 @@
     "bs": "udio / dio",
     "en": "share / portion"
   },
+  "نَفْسٌ / نُفُوسٌ": {
+    "lemma": "نَفْسٌ / نُفُوسٌ",
+    "root": "ن ف س",
+    "bs": "duša, ja sam, isti",
+    "en": "soul, self, the very same"
+  },
   "نَصِيحَةٌ / نَصَائِحُ": {
     "lemma": "نَصِيحَةٌ / نَصَائِحُ",
     "root": "ن ص ح",
@@ -12819,6 +12885,12 @@
     "root": "ه و ي",
     "bs": "zaljubljenici",
     "en": "enthusiasts"
+  },
+  "هُنَا": {
+    "lemma": "هُنَا",
+    "root": "ه ن ا",
+    "bs": "ovdje, tu",
+    "en": "here"
   },
   "هَدَأَ يَهْدَأُ": {
     "lemma": "هَدَأَ يَهْدَأُ",
@@ -13191,6 +13263,12 @@
     "root": "و ع د",
     "bs": "obećanje",
     "en": "promise"
+  },
+  "وَجَبَ يَجِبُ": {
+    "lemma": "وَجَبَ يَجِبُ",
+    "root": "و ج ب",
+    "bs": "biti obavezno, morati",
+    "en": "to be necessary, must, should"
   },
   "وَعَدَ يَعِدُ": {
     "lemma": "وَعَدَ يَعِدُ",
