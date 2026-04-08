@@ -12,6 +12,9 @@ LOG_FILE="$LOG_DIR/b2-backfill-$(date +%Y-%m-%d).log"
 
 mkdir -p "$LOG_DIR"
 
+# Keep only last 7 days of logs
+find "$LOG_DIR" -name "b2-backfill-*.log" -mtime +7 -delete
+
 exec >> "$LOG_FILE" 2>&1
 
 log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*"; }
