@@ -6,27 +6,55 @@
     {
       "arabic": "سَافَرْتُ مَعَ مَجْمُوعَةٍ مِنَ الأَصْدِقَاءِ لِأَوَّلِ مَرَّةٍ.",
       "translation": "Putovao sam s grupom prijatelja prvi put.",
-      "translationEn": "I travelled with a group of friends for the first time."
+      "translationEn": "I travelled with a group of friends for the first time.",
+      "words": [
+        {
+          "w": "لِأَوَّلِ",
+          "lemma": "أَوَّلُ / أُولَى"
+        }
+      ]
     },
     {
       "arabic": "كُنَّا عَشَرَةَ أَشْخَاصٍ وَكُلُّ وَاحِدٍ مَسْؤُولٌ عَنْ شَيْءٍ.",
       "translation": "Nas je bilo desetoro i svako je bio odgovoran za nešto.",
-      "translationEn": "There were ten of us and each person was responsible for something."
+      "translationEn": "There were ten of us and each person was responsible for something.",
+      "words": [
+        {
+          "w": "كُنَّا",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "وَاحِدٍ",
+          "lemma": "وَاحِدٌ"
+        }
+      ]
     },
     {
       "arabic": "تَشَارَكْنَا تَكَالِيفَ الرِّحْلَةِ وَوَفَّرْنَا الْكَثِيرَ مِنَ الْمَالِ.",
       "translation": "Dijelili smo troškove putovanja i uštedjeli smo puno novca.",
-      "translationEn": "We shared the trip costs and saved a lot of money."
+      "translationEn": "We shared the trip costs and saved a lot of money.",
+      "words": []
     },
     {
       "arabic": "ضَحِكْنَا كَثِيرًا وَاسْتَمْتَعْنَا بِكُلِّ لَحْظَةٍ مَعًا.",
       "translation": "Mnogo smo se smijali i uživali u svakom trenutku zajedno.",
-      "translationEn": "We laughed a lot and enjoyed every moment together."
+      "translationEn": "We laughed a lot and enjoyed every moment together.",
+      "words": [
+        {
+          "w": "بِكُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "مَعًا",
+          "lemma": "مَعًا"
+        }
+      ]
     },
     {
       "arabic": "قَرَّرْنَا أَنْ نُكَرِّرَ التَّجْرِبَةَ فِي الْعَامِ الْقَادِمِ.",
       "translation": "Odlučili smo ponoviti iskustvo sljedeće godine.",
-      "translationEn": "We decided to repeat the experience next year."
+      "translationEn": "We decided to repeat the experience next year.",
+      "words": []
     }
   ],
   "metadata": {

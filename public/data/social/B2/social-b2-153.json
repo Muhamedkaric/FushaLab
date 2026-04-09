@@ -6,17 +6,30 @@
     {
       "arabic": "حِمَايَةُ الْخُصُوصِيَّةِ أَمْرٌ مُهِمٌّ جِدًّا عِنْدَ اسْتِخْدَامِ الْإِنْتَرْنِتِ.",
       "translation": "Zaštita privatnosti je veoma važna stvar prilikom korištenja interneta.",
-      "translationEn": "Protecting privacy is a very important matter when using the internet."
+      "translationEn": "Protecting privacy is a very important matter when using the internet.",
+      "words": [
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        }
+      ]
     },
     {
       "arabic": "لَا تُعْطِ كَلِمَةَ السِّرِّ الْخَاصَّةَ بِكَ لِأَيِّ شَخْصٍ غَرِيبٍ.",
       "translation": "Ne dajte svoju lozinku bilo kojoj nepoznatoj osobi.",
-      "translationEn": "Do not give your password to any stranger."
+      "translationEn": "Do not give your password to any stranger.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ تَغْيِيرُ مَعْلُومَاتِ الدُّخُولِ بِشَكْلٍ دَوْرِيٍّ لِلْأَمَانِ.",
       "translation": "Podatke za prijavu treba periodično mijenjati radi sigurnosti.",
-      "translationEn": "Login information must be changed periodically for security."
+      "translationEn": "Login information must be changed periodically for security.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     }
   ],
   "metadata": {

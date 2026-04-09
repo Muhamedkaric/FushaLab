@@ -6,17 +6,25 @@
     {
       "arabic": "تَحْتَوِي الْخُضْرَوَاتُ الطَّازِجَةُ عَلَى الْفِيتَامِينَاتِ الضَّرُورِيَّةِ لِلْجِسْمِ.",
       "translation": "Svježe povrće sadrži vitamine neophodne za tijelo.",
-      "translationEn": "Fresh vegetables contain essential vitamins for the body."
+      "translationEn": "Fresh vegetables contain essential vitamins for the body.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ أَنْ نَغْسِلَ الْفَوَاكِهَ جَيِّدًا قَبْلَ تَنَاوُلِهَا.",
       "translation": "Moramo dobro oprati voće prije nego što ga pojedemo.",
-      "translationEn": "We must wash fruits well before eating them."
+      "translationEn": "We must wash fruits well before eating them.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "يُسَاعِدُ الطَّعَامُ الصِّحِّيُّ فِي تَقْوِيَةِ جِهَازِ الْمَنَاعَةِ.",
       "translation": "Zdrava hrana pomaže u jačanju imunološkog sistema.",
-      "translationEn": "Healthy food helps in strengthening the immune system."
+      "translationEn": "Healthy food helps in strengthening the immune system.",
+      "words": []
     }
   ],
   "metadata": {

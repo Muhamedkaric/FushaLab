@@ -6,27 +6,50 @@
     {
       "arabic": "حَجَزْتُ غُرْفَةً مُنْفَرِدَةً فِي فُنْدُقٍ قَرِيبٍ مِنَ الْمَرْكَزِ.",
       "translation": "Rezervisao sam jednokrevetnu sobu u hotelu blizu centra.",
-      "translationEn": "I booked a single room in a hotel near the center."
+      "translationEn": "I booked a single room in a hotel near the center.",
+      "words": []
     },
     {
       "arabic": "كَانَ مَوْظِفُ الِاسْتِقْبَالِ لَطِيفًا جِدًّا وَسَاعَدَنِي فِي حَمْلِ الْحَقَائِبِ.",
       "translation": "Recepcioner je bio veoma ljubazan i pomogao mi je oko prtljaga.",
-      "translationEn": "The receptionist was very kind and helped me carry the bags."
+      "translationEn": "The receptionist was very kind and helped me carry the bags.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "الْغُرْفَةُ نَظِيفَةٌ وَتُطِلُّ عَلَى الْبَحْرِ.",
       "translation": "Soba je čista i gleda na more.",
-      "translationEn": "The room is clean and overlooks the sea."
+      "translationEn": "The room is clean and overlooks the sea.",
+      "words": []
     },
     {
       "arabic": "تَنَاوَلْتُ فُطُورًا لَذِيذًا فِي مَطْعَمِ الْفُنْدُقِ.",
       "translation": "Jeo sam ukusan doručak u hotelskom restoranu.",
-      "translationEn": "I had a delicious breakfast in the hotel restaurant."
+      "translationEn": "I had a delicious breakfast in the hotel restaurant.",
+      "words": []
     },
     {
       "arabic": "سَأَبْقَى هُنَا لِمُدَّةِ ثَلَاثَةِ أَيَّامٍ فَقَطْ.",
       "translation": "Ovdje ću ostati samo tri dana.",
-      "translationEn": "I will stay here for only three days."
+      "translationEn": "I will stay here for only three days.",
+      "words": [
+        {
+          "w": "هُنَا",
+          "lemma": "هُنَا"
+        },
+        {
+          "w": "ثَلَاثَةِ",
+          "lemma": "ثَلَاثَةٌ"
+        },
+        {
+          "w": "فَقَطْ",
+          "lemma": "فَقَطْ"
+        }
+      ]
     }
   ],
   "metadata": {

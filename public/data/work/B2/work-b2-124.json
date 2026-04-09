@@ -6,17 +6,34 @@
     {
       "arabic": "بَدَأَ عُمَرُ مَشْرُوعَهُ الْخَاصَّ فِي مَجَالِ التِّكْنُولُوجِيَا.",
       "translation": "Omar je započeo vlastiti projekat u oblasti tehnologije.",
-      "translationEn": "Omar started his own project in the field of technology."
+      "translationEn": "Omar started his own project in the field of technology.",
+      "words": []
     },
     {
       "arabic": "كَانَ يَحْلُمُ دَائِمًا بِأَنْ يَكُونَ صَاحِبَ شَرِكَةٍ نَاجِحَةٍ.",
       "translation": "Uvijek je sanjao o tome da bude vlasnik uspješne kompanije.",
-      "translationEn": "He always dreamed of being the owner of a successful company."
+      "translationEn": "He always dreamed of being the owner of a successful company.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "يَكُونَ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "يَعْمَلُ بِجِدٍّ كُلَّ يَوْمٍ لِتَطْوِيرِ فِكْرَتِهِ الْمُبْتَكَرَةِ.",
       "translation": "Svaki dan naporno radi na razvoju svoje inovativne ideje.",
-      "translationEn": "He works hard every day to develop his innovative idea."
+      "translationEn": "He works hard every day to develop his innovative idea.",
+      "words": [
+        {
+          "w": "كُلَّ",
+          "lemma": "كُلٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

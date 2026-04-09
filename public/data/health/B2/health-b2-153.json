@@ -6,17 +6,25 @@
     {
       "arabic": "ذَهَبْتُ إِلَى الصَّيْدَلِيَّةِ لِأَشْتَرِيَ دَوَاءً لِلصُّدَاعِ.",
       "translation": "Otišao sam u apoteku da kupim lijek protiv glavobolje.",
-      "translationEn": "I went to the pharmacy to buy medicine for a headache."
+      "translationEn": "I went to the pharmacy to buy medicine for a headache.",
+      "words": []
     },
     {
       "arabic": "سَأَلَنِي الصَّيْدَلَانِيُّ عَنْ وَصْفَةِ الطَّبِيبِ.",
       "translation": "Farmaceut me pitao za ljekarski recept.",
-      "translationEn": "The pharmacist asked me for the doctor's prescription."
+      "translationEn": "The pharmacist asked me for the doctor's prescription.",
+      "words": []
     },
     {
       "arabic": "شَرِبْتُ الدَّوَاءَ وَنِمْتُ قَلِيلًا فِي السَّرِيرِ.",
       "translation": "Popio sam lijek i malo odspavao u krevetu.",
-      "translationEn": "I took the medicine and slept a little in bed."
+      "translationEn": "I took the medicine and slept a little in bed.",
+      "words": [
+        {
+          "w": "قَلِيلًا",
+          "lemma": "قَلِيلٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,17 +6,34 @@
     {
       "arabic": "شَعَرْتُ بِصُدَاعٍ شَدِيدٍ يَوْمَ أَمْسِ بَعْدَ الْعَمَلِ.",
       "translation": "Jučer sam osjetio jaku glavobolju nakon posla.",
-      "translationEn": "Yesterday, I felt a severe headache after work."
+      "translationEn": "Yesterday, I felt a severe headache after work.",
+      "words": []
     },
     {
       "arabic": "ذَهَبْتُ إِلَى الصَّيْدَلِيَّةِ لِشِرَاءِ بَعْضِ الدَّوَاءِ الْمُنَاسِبِ.",
       "translation": "Otišao sam u apoteku da kupim neki odgovarajući lijek.",
-      "translationEn": "I went to the pharmacy to buy some appropriate medicine."
+      "translationEn": "I went to the pharmacy to buy some appropriate medicine.",
+      "words": [
+        {
+          "w": "بَعْضِ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَانِي الصَّيْدَلِيُّ بَعْضَ النَّصَائِحِ حَوْلَ كَيْفِيَّةِ اسْتِخْدَامِ الْعِلَاجِ.",
       "translation": "Apotekar mi je dao nekoliko savjeta o tome kako koristiti terapiju.",
-      "translationEn": "The pharmacist gave me some advice on how to use the treatment."
+      "translationEn": "The pharmacist gave me some advice on how to use the treatment.",
+      "words": [
+        {
+          "w": "بَعْضَ",
+          "lemma": "بَعْضٌ"
+        },
+        {
+          "w": "حَوْلَ",
+          "lemma": "حَوْلَ"
+        }
+      ]
     }
   ],
   "metadata": {

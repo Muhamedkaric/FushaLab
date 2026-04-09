@@ -6,17 +6,25 @@
     {
       "arabic": "تُسَاعِدُ الرِّيَاضَةُ فِي تَقْوِيَةِ الْعَضَلَاتِ وَتَحْسِينِ الْمِزَاجِ.",
       "translation": "Tjelovježba pomaže u jačanju mišića i poboljšanju raspoloženja.",
-      "translationEn": "Exercise helps in strengthening muscles and improving mood."
+      "translationEn": "Exercise helps in strengthening muscles and improving mood.",
+      "words": []
     },
     {
       "arabic": "أَمْشِي فِي الْحَدِيقَةِ لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً كُلَّ صَبَاحٍ.",
       "translation": "Svako jutro šetam parkom trideset minuta.",
-      "translationEn": "I walk in the park for thirty minutes every morning."
+      "translationEn": "I walk in the park for thirty minutes every morning.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        }
+      ]
     },
     {
       "arabic": "النَّشَاطُ الْبَدَنِيُّ يَجْعَلُ الْقَلْبَ أَقْوَى وَالْجِسْمَ أَكْثَرَ نَشَاطًا.",
       "translation": "Fizička aktivnost čini srce jačim i tijelo aktivnijim.",
-      "translationEn": "Physical activity makes the heart stronger and the body more active."
+      "translationEn": "Physical activity makes the heart stronger and the body more active.",
+      "words": []
     }
   ],
   "metadata": {

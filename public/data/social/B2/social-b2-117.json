@@ -6,17 +6,29 @@
     {
       "arabic": "يَجِبُ عَلَيْنَا حِمَايَةُ مَعْلُومَاتِنَا الشَّخْصِيَّةِ عِنْدَ اسْتِخْدَامِ الْإِنْتَرْنِتِ.",
       "translation": "Moramo zaštititi svoje lične podatke kada koristimo internet.",
-      "translationEn": "We must protect our personal information when using the internet."
+      "translationEn": "We must protect our personal information when using the internet.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        },
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        }
+      ]
     },
     {
       "arabic": "لَا تَنْشُرْ عُنْوَانَ مَنْزِلِكَ أَوْ رَقْمَ هَاتِفِكَ لِلْغُرَبَاءِ.",
       "translation": "Ne objavljuj adresu svog doma ili broj telefona nepoznatim osobama.",
-      "translationEn": "Do not publish your home address or phone number to strangers."
+      "translationEn": "Do not publish your home address or phone number to strangers.",
+      "words": []
     },
     {
       "arabic": "اسْتَخْدِمْ كَلِمَةَ مُرُورٍ قَوِيَّةً لِحِسَابَاتِكَ الرَّقْمِيَّةِ.",
       "translation": "Koristi jaku lozinku za svoje digitalne račune.",
-      "translationEn": "Use a strong password for your digital accounts."
+      "translationEn": "Use a strong password for your digital accounts.",
+      "words": []
     }
   ],
   "metadata": {

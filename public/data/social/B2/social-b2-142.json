@@ -6,17 +6,34 @@
     {
       "arabic": "يَقْضِي بَعْضُ النَّاسِ سَاعَاتٍ طَوِيلَةً أَمَامَ شَاشَةِ الْهَاتِفِ.",
       "translation": "Neki ljudi provode duge sate ispred ekrana telefona.",
-      "translationEn": "Some people spend long hours in front of the phone screen."
+      "translationEn": "Some people spend long hours in front of the phone screen.",
+      "words": [
+        {
+          "w": "بَعْضُ",
+          "lemma": "بَعْضٌ"
+        },
+        {
+          "w": "أَمَامَ",
+          "lemma": "أَمَامَ"
+        }
+      ]
     },
     {
       "arabic": "يَنْصَحُ الْأَطِبَّاءُ بِتَقْلِيلِ وَقْتِ الشَّاشَةِ لِلْحِفَاظِ عَلَى صِحَّةِ الْعَيْنِ.",
       "translation": "Ljekari savjetuju smanjenje vremena ispred ekrana radi očuvanja zdravlja očiju.",
-      "translationEn": "Doctors advise reducing screen time to maintain eye health."
+      "translationEn": "Doctors advise reducing screen time to maintain eye health.",
+      "words": []
     },
     {
       "arabic": "مِنَ الْمُفِيدِ مُمَارَسَةُ الرِّيَاضَةِ بَدَلًا مِنَ الْجُلُوسِ الطَّوِيلِ.",
       "translation": "Korisno je baviti se sportom umjesto dugog sjedenja.",
-      "translationEn": "It is useful to practice sports instead of long sitting."
+      "translationEn": "It is useful to practice sports instead of long sitting.",
+      "words": [
+        {
+          "w": "بَدَلًا",
+          "lemma": "بَدَلَ"
+        }
+      ]
     }
   ],
   "metadata": {

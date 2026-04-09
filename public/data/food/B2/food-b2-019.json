@@ -6,17 +6,25 @@
     {
       "arabic": "زَارَ أَحْمَدُ مَطْعَمًا تَقْلِيدِيًّا كَبِيرًا مَعَ عَائِلَتِهِ.",
       "translation": "Ahmed je posjetio veliki tradicionalni restoran sa svojom porodicom.",
-      "translationEn": "Ahmed visited a large traditional restaurant with his family."
+      "translationEn": "Ahmed visited a large traditional restaurant with his family.",
+      "words": []
     },
     {
       "arabic": "طَلَبُوا الْمَشْوِيَّاتِ اللَّذِيذَةَ وَالْأَرُزَّ مَعَ السَّلَطَةِ الْخَضْرَاءِ.",
       "translation": "Naručili su ukusan roštilj i rižu sa zelenom salatom.",
-      "translationEn": "They ordered delicious grilled meats and rice with green salad."
+      "translationEn": "They ordered delicious grilled meats and rice with green salad.",
+      "words": []
     },
     {
       "arabic": "كَانَ الطَّعَامُ طَيِّبًا جِدًّا وَالْخِدْمَةُ فِي الْمَطْعَمِ مُمْتَازَةً.",
       "translation": "Hrana je bila veoma dobra, a usluga u restoranu odlična.",
-      "translationEn": "The food was very good and the service in the restaurant was excellent."
+      "translationEn": "The food was very good and the service in the restaurant was excellent.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     }
   ],
   "metadata": {

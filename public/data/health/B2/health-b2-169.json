@@ -6,22 +6,31 @@
     {
       "arabic": "تَحْتَوِي الْخُضْرَاوَاتُ وَالْفَوَاكِهُ عَلَى فِيتَامِينَاتٍ كَثِيرَةٍ.",
       "translation": "Povrće i voće sadrže mnogo vitamina.",
-      "translationEn": "Vegetables and fruits contain many vitamins."
+      "translationEn": "Vegetables and fruits contain many vitamins.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ أَنْ نَأْكُلَ أَطْعِمَةً مُتَنَوِّعَةً لِنَبْقَى بِصِحَّةٍ جَيِّدَةٍ.",
       "translation": "Moramo jesti raznovrsnu hranu kako bismo ostali dobrog zdravlja.",
-      "translationEn": "We must eat a variety of foods to stay in good health."
+      "translationEn": "We must eat a variety of foods to stay in good health.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "الطَّعَامُ الطَّبِيعِيُّ أَفْضَلُ بِكَثِيرٍ مِنَ الْوَجَبَاتِ السَّرِيعَةِ.",
       "translation": "Prirodna hrana je mnogo bolja od brze hrane.",
-      "translationEn": "Natural food is much better than fast food."
+      "translationEn": "Natural food is much better than fast food.",
+      "words": []
     },
     {
       "arabic": "السُّكَّرُ الْكَثِيرُ قَدْ يَضُرُّ بِأَسْنَانِنَا وَصِحَّتِنَا.",
       "translation": "Previše šećera može naštetiti našim zubima i zdravlju.",
-      "translationEn": "Too much sugar can harm our teeth and health."
+      "translationEn": "Too much sugar can harm our teeth and health.",
+      "words": []
     }
   ],
   "metadata": {

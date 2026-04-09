@@ -6,27 +6,41 @@
     {
       "arabic": "تَلْعَبُ الصَّيْدَلِيَّاتُ دَوْراً مِحْوَرِيّاً فِي مَنْظُومَةِ الرِّعَايَةِ الصِّحِّيَّةِ مِنْ خِلَالِ تَوْفِيرِ الْأَدْوِيَةِ وَالِاسْتِشَارَاتِ الطِّبِّيَّةِ.",
       "translation": "Apoteke igraju ključnu ulogu u sistemu zdravstvene zaštite obezbjeđivanjem lijekova i medicinskih savjeta.",
-      "translationEn": "Pharmacies play a pivotal role in the healthcare system by providing medicines and medical consultations."
+      "translationEn": "Pharmacies play a pivotal role in the healthcare system by providing medicines and medical consultations.",
+      "words": []
     },
     {
       "arabic": "يَتَوَجَّبُ عَلَى الْمَرِيضِ قِرَاءَةُ النَّشْرَةِ الدَّاخِلِيَّةِ لِلدَّوَاءِ بِعِنَايَةٍ لِمَعْرِفَةِ الْآثَارِ الْجَانِبِيَّةِ الْمُحْتَمَلَةِ.",
       "translation": "Pacijent je obavezan da pažljivo pročita uputstvo za lijek kako bi saznao o mogućim nuspojavama.",
-      "translationEn": "The patient must read the internal medicine leaflet carefully to know the potential side effects."
+      "translationEn": "The patient must read the internal medicine leaflet carefully to know the potential side effects.",
+      "words": []
     },
     {
       "arabic": "يُحَذِّرُ الْأَطِبَّاءُ مِنْ تَنَاوُلِ الْمُضَادَّاتِ الْحَيَوِيَّةِ دُونَ وَصْفَةٍ طِبِّيَّةٍ لِتَجَنُّبِ ظَاهِرَةِ مُقَاوَمَةِ الْبَكْتِيرْيَا.",
       "translation": "Ljekari upozoravaju na uzimanje antibiotika bez recepta kako bi se izbjegao fenomen otpornosti bakterija.",
-      "translationEn": "Doctors warn against taking antibiotics without a prescription to avoid the phenomenon of bacterial resistance."
+      "translationEn": "Doctors warn against taking antibiotics without a prescription to avoid the phenomenon of bacterial resistance.",
+      "words": []
     },
     {
       "arabic": "كَمَا يَنْبَغِي تَخْزِينُ الْأَدْوِيَةِ فِي مَكَانٍ بَارِدٍ وَجَافٍّ بَعِيداً عَنْ مُتَنَاوَلِ الْأَطْفَالِ لِضَمَانِ سَلَامَتِهِمْ.",
       "translation": "Također treba čuvati lijekove na hladnom i suhom mjestu van domašaja djece kako bi se osigurala njihova sigurnost.",
-      "translationEn": "Medicines should also be stored in a cool, dry place out of reach of children to ensure their safety."
+      "translationEn": "Medicines should also be stored in a cool, dry place out of reach of children to ensure their safety.",
+      "words": []
     },
     {
       "arabic": "إِنَّ الصَّيْدَلِيَّ هُوَ الْخَبِيرُ الَّذِي يُمْكِنُهُ شَرْحُ كَيْفِيَّةِ تَعَارُضِ بَعْضِ الْأَدْوِيَةِ مَعَ الْأَطْعِمَةِ أَوْ أَدْوِيَةٍ أُخْرَى.",
       "translation": "Farmaceut je stručnjak koji može objasniti kako određeni lijekovi djeluju u interakciji s hranom ili drugim lijekovima.",
-      "translationEn": "The pharmacist is the expert who can explain how some medicines interact with food or other drugs."
+      "translationEn": "The pharmacist is the expert who can explain how some medicines interact with food or other drugs.",
+      "words": [
+        {
+          "w": "بَعْضِ",
+          "lemma": "بَعْضٌ"
+        },
+        {
+          "w": "أُخْرَى",
+          "lemma": "آخَرُ / أُخْرَى"
+        }
+      ]
     }
   ],
   "metadata": {

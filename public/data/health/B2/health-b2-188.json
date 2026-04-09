@@ -6,17 +6,25 @@
     {
       "arabic": "شَعَرَ أَحْمَدُ بِصُدَاعٍ خَفِيفٍ فِي رَأْسِهِ يَوْمَ أَمْسِ.",
       "translation": "Ahmed je jučer osjetio blagu glavobolju.",
-      "translationEn": "Ahmed felt a slight headache yesterday."
+      "translationEn": "Ahmed felt a slight headache yesterday.",
+      "words": []
     },
     {
       "arabic": "ذَهَبَ إِلَى الصَّيْدَلِيَّةِ لِيَشْتَرِيَ بَعْضَ الدَّوَاءِ الْمُسَكِّنِ.",
       "translation": "Otišao je u apoteku da kupi neki lijek protiv bolova.",
-      "translationEn": "He went to the pharmacy to buy some painkiller medicine."
+      "translationEn": "He went to the pharmacy to buy some painkiller medicine.",
+      "words": [
+        {
+          "w": "بَعْضَ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "شَرَحَ الصَّيْدَلَانِيُّ لَهُ كَيْفِيَّةَ تَنَاوُلِ الدَّوَاءِ بَعْدَ الْأَكْلِ.",
       "translation": "Farmaceut mu je objasnio kako da uzima lijek nakon jela.",
-      "translationEn": "The pharmacist explained to him how to take the medicine after eating."
+      "translationEn": "The pharmacist explained to him how to take the medicine after eating.",
+      "words": []
     }
   ],
   "metadata": {

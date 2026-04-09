@@ -6,17 +6,25 @@
     {
       "arabic": "يُعْتَبَرُ الْمَشْيُ نَشَاطًا بَدَنِيًّا مُفِيدًا لِلْقَلْبِ.",
       "translation": "Hodanje se smatra fizičkom aktivnošću korisnom za srce.",
-      "translationEn": "Walking is considered a physical activity beneficial for the heart."
+      "translationEn": "Walking is considered a physical activity beneficial for the heart.",
+      "words": []
     },
     {
       "arabic": "يَنْصَحُ الْأَطِبَّاءُ بِمُمَارَسَةِ الرِّيَاضَةِ لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً يَوْمِيًّا.",
       "translation": "Ljekari savjetuju bavljenje sportom u trajanju od trideset minuta dnevno.",
-      "translationEn": "Doctors advise practicing sports for thirty minutes daily."
+      "translationEn": "Doctors advise practicing sports for thirty minutes daily.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        }
+      ]
     },
     {
       "arabic": "يَشْعُرُ الْإِنْسَانُ بِالسَّعَادَةِ وَالطَّاقَةِ بَعْدَ التَّمَارِينِ الصَّبَاحِيَّةِ.",
       "translation": "Čovjek osjeća sreću i energiju nakon jutarnjih vježbi.",
-      "translationEn": "A person feels happiness and energy after morning exercises."
+      "translationEn": "A person feels happiness and energy after morning exercises.",
+      "words": []
     }
   ],
   "metadata": {

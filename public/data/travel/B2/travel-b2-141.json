@@ -6,27 +6,42 @@
     {
       "arabic": "وَصَلْتُ إِلَى مَطَارِ مَسْقَطَ الدَّوْلِيِّ فِي الصَّبَاحِ الْبَاكِرِ.",
       "translation": "Stigao sam na međunarodni aerodrom u Maskatu rano ujutro.",
-      "translationEn": "I arrived at Muscat International Airport early in the morning."
+      "translationEn": "I arrived at Muscat International Airport early in the morning.",
+      "words": []
     },
     {
       "arabic": "كَانَتِ الرِّحْلَةُ طَوِيلَةً وَلَكِنَّهَا مُرِيحَةٌ جِدًّا.",
       "translation": "Let je bio dug, ali veoma udoban.",
-      "translationEn": "The flight was long but very comfortable."
+      "translationEn": "The flight was long but very comfortable.",
+      "words": [
+        {
+          "w": "كَانَتِ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "ذَهَبْتُ إِلَى مَكْتَبِ الْجَوَازَاتِ لِأَخْتِمَ جَوَازَ سَفَرِي.",
       "translation": "Otišao sam do pasoške kontrole da mi udare pečat u pasoš.",
-      "translationEn": "I went to the passport office to have my passport stamped."
+      "translationEn": "I went to the passport office to have my passport stamped.",
+      "words": []
     },
     {
       "arabic": "ثُمَّ انْتَظَرْتُ حَقِيبَتِي عِنْدَ مَكَانِ اسْتِلَامِ الْأَمْتِعَةِ.",
       "translation": "Zatim sam sačekao svoj kofer na mjestu za preuzimanje prtljaga.",
-      "translationEn": "Then, I waited for my suitcase at the baggage claim area."
+      "translationEn": "Then, I waited for my suitcase at the baggage claim area.",
+      "words": [
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        }
+      ]
     },
     {
       "arabic": "فِي النِّهَايَةِ، رَكِبْتُ سَيَّارَةَ أُجْرَةٍ لِلذَّهَابِ إِلَى الْفُنْدُقِ.",
       "translation": "Na kraju sam ušao u taksi kako bih otišao do hotela.",
-      "translationEn": "Finally, I took a taxi to go to the hotel."
+      "translationEn": "Finally, I took a taxi to go to the hotel.",
+      "words": []
     }
   ],
   "metadata": {

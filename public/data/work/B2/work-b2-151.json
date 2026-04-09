@@ -6,22 +6,35 @@
     {
       "arabic": "ذَهَبَ أَحْمَدُ إِلَى مُقَابَلَةِ عَمَلٍ جَدِيدَةٍ صَبَاحَ الْيَوْمِ.",
       "translation": "Ahmed je jutros otišao na novi intervju za posao.",
-      "translationEn": "Ahmed went to a new job interview this morning."
+      "translationEn": "Ahmed went to a new job interview this morning.",
+      "words": []
     },
     {
       "arabic": "لَبِسَ قَمِيصًا أَبْيَضَ وَكَانَ يَشْعُرُ بِالْقَلِقِ قَلِيلًا.",
       "translation": "Obukao je bijelu košulju i osjećao se malo nervozno.",
-      "translationEn": "He wore a white shirt and felt a bit nervous."
+      "translationEn": "He wore a white shirt and felt a bit nervous.",
+      "words": [
+        {
+          "w": "وَكَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "قَلِيلًا",
+          "lemma": "قَلِيلٌ"
+        }
+      ]
     },
     {
       "arabic": "أَجَابَ عَنِ الْأَسْئِلَةِ بِثِقَةٍ وَشَرَحَ مَهَارَاتِهِ لِلْمُدِيرِ.",
       "translation": "Samouvjereno je odgovorio na pitanja i objasnio svoje vještine direktoru.",
-      "translationEn": "He answered the questions confidently and explained his skills to the director."
+      "translationEn": "He answered the questions confidently and explained his skills to the director.",
+      "words": []
     },
     {
       "arabic": "اِبْتَسَمَ الْمُدِيرُ وَقَالَ إِنَّهُ سَيَتَّصِلُ بِهِ قَرِيبًا.",
       "translation": "Direktor se nasmiješio i rekao da će ga uskoro nazvati.",
-      "translationEn": "The manager smiled and said he would call him soon."
+      "translationEn": "The manager smiled and said he would call him soon.",
+      "words": []
     }
   ],
   "metadata": {

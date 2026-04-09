@@ -6,27 +6,42 @@
     {
       "arabic": "حَجَزْتُ غُرْفَةً مُفْرَدَةً فِي فُنْدُقٍ قَرِيبٍ مِنَ الشَّاطِئِ.",
       "translation": "Rezervisao sam jednokrevetnu sobu u hotelu blizu plaže.",
-      "translationEn": "I booked a single room in a hotel near the beach."
+      "translationEn": "I booked a single room in a hotel near the beach.",
+      "words": []
     },
     {
       "arabic": "عِنْدَمَا وَصَلْتُ، قَدَّمْتُ هُوِيَّتِي لِمُوَظَّفِ الِاسْتِقْبَالِ.",
       "translation": "Kada sam stigao, pokazao sam ličnu kartu recepcioneru.",
-      "translationEn": "When I arrived, I presented my ID to the receptionist."
+      "translationEn": "When I arrived, I presented my ID to the receptionist.",
+      "words": [
+        {
+          "w": "عِنْدَمَا",
+          "lemma": "عِنْدَمَا"
+        }
+      ]
     },
     {
       "arabic": "الْغُرْفَةُ وَاسِعَةٌ وَتُطِلُّ عَلَى الْبَحْرِ الْأَزْرَقِ.",
       "translation": "Soba je prostrana i gleda na plavo more.",
-      "translationEn": "The room is spacious and overlooks the blue sea."
+      "translationEn": "The room is spacious and overlooks the blue sea.",
+      "words": []
     },
     {
       "arabic": "يُوجَدُ فِي الْفُنْدُقِ مَطْعَمٌ كَبِيرٌ يُقَدِّمُ أَطْبَاقًا مَحَلِّيَّةً لَذِيذَةً.",
       "translation": "U hotelu se nalazi veliki restoran koji služi ukusna lokalna jela.",
-      "translationEn": "The hotel has a large restaurant that serves delicious local dishes."
+      "translationEn": "The hotel has a large restaurant that serves delicious local dishes.",
+      "words": []
     },
     {
       "arabic": "سَأَبْقَى هُنَا لِمُدَّةِ أُسْبُوعٍ كَامِلٍ لِلِاسْتِرْخَاءِ.",
       "translation": "Ovdje ću ostati punih sedam dana radi odmora.",
-      "translationEn": "I will stay here for a whole week to relax."
+      "translationEn": "I will stay here for a whole week to relax.",
+      "words": [
+        {
+          "w": "هُنَا",
+          "lemma": "هُنَا"
+        }
+      ]
     }
   ],
   "metadata": {

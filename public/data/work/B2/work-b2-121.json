@@ -6,22 +6,31 @@
     {
       "arabic": "ذَهَبَ سَمِيرٌ إِلَى مُقَابَلَةِ عَمَلٍ جَدِيدَةٍ صَبَاحَ الْيَوْمِ.",
       "translation": "Samir je jutros otišao na razgovor za novi posao.",
-      "translationEn": "Samir went to a new job interview this morning."
+      "translationEn": "Samir went to a new job interview this morning.",
+      "words": []
     },
     {
       "arabic": "كَانَ يَرْتَدِي مَلَابِسَ رَسْمِيَّةً وَيَشْعُرُ بِقَلِيلٍ مِنَ التَّوَتُّرِ.",
       "translation": "Nosio je formalnu odjeću i osjećao je malu nervozu.",
-      "translationEn": "He was wearing formal clothes and feeling a little nervous."
+      "translationEn": "He was wearing formal clothes and feeling a little nervous.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "أَجَابَ عَنِ الْأَسْئِلَةِ بِثِقَةٍ وَشَرَحَ مَهَارَاتِهِ الْتِّقَنِيَّةَ.",
       "translation": "Samouvjereno je odgovarao na pitanja i objasnio svoje tehničke vještine.",
-      "translationEn": "He answered the questions confidently and explained his technical skills."
+      "translationEn": "He answered the questions confidently and explained his technical skills.",
+      "words": []
     },
     {
       "arabic": "اِبْتَسَمَ الْمُدِيرُ لَهُ وَوَعَدَهُ بِالرَّدِّ فِي الْأُسْبُوعِ الْقَادِمِ.",
       "translation": "Direktor mu se nasmiješio i obećao mu odgovor sljedeće sedmice.",
-      "translationEn": "The manager smiled at him and promised to reply next week."
+      "translationEn": "The manager smiled at him and promised to reply next week.",
+      "words": []
     }
   ],
   "metadata": {

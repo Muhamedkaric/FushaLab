@@ -6,17 +6,30 @@
     {
       "arabic": "ذَهَبْتُ إِلَى الصَّيْدَلِيَّةِ أَمْسِ لِشِرَاءِ بَعْضِ الدَّوَاءِ لِلصُّدَاعِ.",
       "translation": "Jučer sam otišao u apoteku da kupim lijek protiv glavobolje.",
-      "translationEn": "I went to the pharmacy yesterday to buy some medicine for a headache."
+      "translationEn": "I went to the pharmacy yesterday to buy some medicine for a headache.",
+      "words": [
+        {
+          "w": "بَعْضِ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "شَرَحَ لِي الصَّيْدَلَانِيُّ كَيْفِيَّةَ اسْتِخْدَامِ الدَّوَاءِ بِشَكْلٍ صَحِيحٍ.",
       "translation": "Farmaceut mi je objasnio kako da pravilno koristim lijek.",
-      "translationEn": "The pharmacist explained to me how to use the medicine correctly."
+      "translationEn": "The pharmacist explained to me how to use the medicine correctly.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ أَنْ أَتَّبِعَ تَعْلِيمَاتِ الطَّبِيبِ بِدِقَّةٍ لِأَتَعَافَى سَرِيعًا.",
       "translation": "Moram se strogo pridržavati ljekarskih uputa kako bih se brzo oporavio.",
-      "translationEn": "I must follow the doctor's instructions carefully to recover quickly."
+      "translationEn": "I must follow the doctor's instructions carefully to recover quickly.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     }
   ],
   "metadata": {

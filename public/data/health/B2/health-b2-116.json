@@ -6,17 +6,30 @@
     {
       "arabic": "الْمَشْيُ نَشَاطٌ بَدَنِيٌّ مُهِمٌّ جِدًّا لِلْجِسْمِ.",
       "translation": "Hodanje je veoma važna fizička aktivnost za tijelo.",
-      "translationEn": "Walking is a very important physical activity for the body."
+      "translationEn": "Walking is a very important physical activity for the body.",
+      "words": []
     },
     {
       "arabic": "أَمْشِي لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً كُلَّ صَبَاحٍ فِي الْحَدِيقَةِ الْعَامَّةِ.",
       "translation": "Šetam trideset minuta svako jutro u javnom parku.",
-      "translationEn": "I walk for thirty minutes every morning in the public park."
+      "translationEn": "I walk for thirty minutes every morning in the public park.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        }
+      ]
     },
     {
       "arabic": "هَذِهِ الْعَادَةُ تُسَاعِدُنِي عَلَى الشُّعُورِ بِالنَّشَاطِ وَالسَّعَادَةِ طَوَالَ الْيَوْمِ.",
       "translation": "Ova navika mi pomaže da se osjećam energično i sretno tokom cijelog dana.",
-      "translationEn": "This habit helps me feel energetic and happy all day long."
+      "translationEn": "This habit helps me feel energetic and happy all day long.",
+      "words": [
+        {
+          "w": "طَوَالَ",
+          "lemma": "طَوَالَ"
+        }
+      ]
     }
   ],
   "metadata": {

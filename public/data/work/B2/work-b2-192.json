@@ -6,17 +6,25 @@
     {
       "arabic": "يَبْدَأُ الْمُوَظَّفُ النَّاجِحُ يَوْمَهُ بِتَنْظِيمِ الْمَهَامِّ.",
       "translation": "Uspješan zaposlenik započinje svoj dan organizacijom zadataka.",
-      "translationEn": "A successful employee starts his day by organizing tasks."
+      "translationEn": "A successful employee starts his day by organizing tasks.",
+      "words": []
     },
     {
       "arabic": "يَكْتُبُ قَائِمَةً بِالْأَعْمَالِ الَّتِي يَجِبُ إِنْجَازُهَا.",
       "translation": "On piše listu obaveza koje treba završiti.",
-      "translationEn": "He writes a list of tasks that must be completed."
+      "translationEn": "He writes a list of tasks that must be completed.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "يُسَاعِدُ هَذَا التَّرْتِيبُ عَلَى زِيَادَةِ الْإِنْتَاجِيَّةِ فِي الْمَكْتَبِ.",
       "translation": "Ovaj raspored pomaže u povećanju produktivnosti u kancelariji.",
-      "translationEn": "This arrangement helps increase productivity in the office."
+      "translationEn": "This arrangement helps increase productivity in the office.",
+      "words": []
     }
   ],
   "metadata": {

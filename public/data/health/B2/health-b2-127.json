@@ -6,17 +6,34 @@
     {
       "arabic": "الْمَشْيُ رِيَاضَةٌ بَسِيطَةٌ وَمُفِيدَةٌ لِلْجَمِيعِ.",
       "translation": "Hodanje je jednostavan i koristan sport za sve.",
-      "translationEn": "Walking is a simple and beneficial exercise for everyone."
+      "translationEn": "Walking is a simple and beneficial exercise for everyone.",
+      "words": [
+        {
+          "w": "لِلْجَمِيعِ",
+          "lemma": "جَمِيعٌ"
+        }
+      ]
     },
     {
       "arabic": "أَمْشِي فِي الْحَدِيقَةِ لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً كُلَّ صَبَاحٍ.",
       "translation": "Šetam u parku trideset minuta svako jutro.",
-      "translationEn": "I walk in the park for thirty minutes every morning."
+      "translationEn": "I walk in the park for thirty minutes every morning.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        },
+        {
+          "w": "كُلَّ",
+          "lemma": "كُلٌّ"
+        }
+      ]
     },
     {
       "arabic": "التَّمَارِينُ الرِّيَاضِيَّةُ تُقَوِّي الْقَلْبَ وَتُحَسِّنُ الْمِزَاجَ.",
       "translation": "Tjelesne vježbe jačaju srce i popravljaju raspoloženje.",
-      "translationEn": "Physical exercises strengthen the heart and improve the mood."
+      "translationEn": "Physical exercises strengthen the heart and improve the mood.",
+      "words": []
     }
   ],
   "metadata": {

@@ -6,22 +6,36 @@
     {
       "arabic": "تَرْتَفِعُ دَرَجَاتُ الْحَرَارَةِ فِي الْعَالَمِ بِشَكْلٍ كَبِيرٍ.",
       "translation": "Temperature u svijetu značajno rastu.",
-      "translationEn": "Global temperatures are rising significantly."
+      "translationEn": "Global temperatures are rising significantly.",
+      "words": []
     },
     {
       "arabic": "هَذَا التَّغَيُّرُ يُؤَثِّرُ عَلَى الْغَابَاتِ وَالْحَيَوَانَاتِ.",
       "translation": "Ova promjena utječe na šume i životinje.",
-      "translationEn": "This change affects forests and animals."
+      "translationEn": "This change affects forests and animals.",
+      "words": []
     },
     {
       "arabic": "يَقُولُ الْعُلَمَاءُ إِنَّ الْحِفَاظَ عَلَى الْبِيئَةِ أَمْرٌ ضَرُورِيٌّ لِلْجَمِيعِ.",
       "translation": "Naučnici kažu da je očuvanje okoliša neophodno za sve.",
-      "translationEn": "Scientists say that preserving the environment is essential for everyone."
+      "translationEn": "Scientists say that preserving the environment is essential for everyone.",
+      "words": [
+        {
+          "w": "لِلْجَمِيعِ",
+          "lemma": "جَمِيعٌ"
+        }
+      ]
     },
     {
       "arabic": "يَجِبُ عَلَيْنَا زِرَاعَةُ الْمَزِيدِ مِنَ الْأَشْجَارِ لِحِمَايَةِ كَوْكَبِنَا.",
       "translation": "Moramo saditi više drveća kako bismo zaštitili našu planetu.",
-      "translationEn": "We must plant more trees to protect our planet."
+      "translationEn": "We must plant more trees to protect our planet.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,27 +6,46 @@
     {
       "arabic": "بَدَأَتِ الْحُكُومَةُ مَشْرُوعًا كَبِيرًا لِإِنْتَاجِ الْكَهْرَبَاءِ مِنَ الطَّاقَةِ الشَّمْسِيَّةِ.",
       "translation": "Vlada je pokrenula veliki projekat za proizvodnju električne energije iz solarne energije.",
-      "translationEn": "The government launched a large project to produce electricity from solar energy."
+      "translationEn": "The government launched a large project to produce electricity from solar energy.",
+      "words": []
     },
     {
       "arabic": "رَكَّبَتِ الشَّرِكَةُ الْمَسْؤُولَةُ آلَافَ الْأَلْوَاحِ الشَّمْسِيَّةِ فِي الصَّحْرَاءِ.",
       "translation": "Odgovorna kompanija instalirala je hiljade solarnih panela u pustinji.",
-      "translationEn": "The responsible company installed thousands of solar panels in the desert."
+      "translationEn": "The responsible company installed thousands of solar panels in the desert.",
+      "words": []
     },
     {
       "arabic": "سَتُوَفِّرُ هَذِهِ الطَّاقَةُ الْكَهْرَبَاءَ لِأَكْثَرِ مِنْ مِائَةِ أَلْفِ مَنْزِلٍ.",
       "translation": "Ova energija će obezbijediti struju za više od stotinu hiljada domova.",
-      "translationEn": "This energy will supply electricity to more than one hundred thousand homes."
+      "translationEn": "This energy will supply electricity to more than one hundred thousand homes.",
+      "words": [
+        {
+          "w": "مِائَةِ",
+          "lemma": "مِئَةٌ"
+        },
+        {
+          "w": "أَلْفِ",
+          "lemma": "أَلْفٌ / آلَافٌ"
+        }
+      ]
     },
     {
       "arabic": "قَالَ وَزِيرُ الطَّاقَةِ إِنَّ هَذَا الْمَشْرُوعَ سَيُقَلِّلُ مِنِ اسْتِخْدَامِ الْوَقُودِ وَسَيَحْمِي الْبِيئَةَ.",
       "translation": "Ministar energetike rekao je da će ovaj projekat smanjiti korišćenje goriva i zaštititi okoliš.",
-      "translationEn": "The Minister of Energy said that the project will reduce fuel use and protect the environment."
+      "translationEn": "The Minister of Energy said that the project will reduce fuel use and protect the environment.",
+      "words": []
     },
     {
       "arabic": "تَعْتَزِمُ الْحُكُومَةُ تَوْسِيعَ الْمَشْرُوعِ لِيَشْمَلَ مُدُنًا أُخْرَى خِلَالَ السَّنَوَاتِ الْقَادِمَةِ.",
       "translation": "Vlada namjerava proširiti projekat na druge gradove u narednim godinama.",
-      "translationEn": "The government intends to expand the project to other cities in the coming years."
+      "translationEn": "The government intends to expand the project to other cities in the coming years.",
+      "words": [
+        {
+          "w": "أُخْرَى",
+          "lemma": "آخَرُ / أُخْرَى"
+        }
+      ]
     }
   ],
   "metadata": {

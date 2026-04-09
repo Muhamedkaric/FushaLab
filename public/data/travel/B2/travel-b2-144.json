@@ -6,27 +6,42 @@
     {
       "arabic": "ذَهَبْتُ إِلَى مَحَطَّةِ الْقِطَارِ لِأُسَافِرَ إِلَى مَدِينَةٍ أُخْرَى.",
       "translation": "Otišao sam na željezničku stanicu kako bih otputovao u drugi grad.",
-      "translationEn": "I went to the train station to travel to another city."
+      "translationEn": "I went to the train station to travel to another city.",
+      "words": [
+        {
+          "w": "أُخْرَى",
+          "lemma": "آخَرُ / أُخْرَى"
+        }
+      ]
     },
     {
       "arabic": "اشْتَرَيْتُ تَذْكِرَةَ الذَّهَابِ وَالْعَوْدَةِ مِنَ الشُّبَّاكِ.",
       "translation": "Kupio sam povratnu kartu na šalteru.",
-      "translationEn": "I bought a round-trip ticket from the window."
+      "translationEn": "I bought a round-trip ticket from the window.",
+      "words": []
     },
     {
       "arabic": "رَكِبْتُ الْقِطَارَ السَّرِيعَ فِي السَّاعَةِ الْعَاشِرَةِ.",
       "translation": "Ušao sam u brzi voz u deset sati.",
-      "translationEn": "I boarded the high-speed train at ten o'clock."
+      "translationEn": "I boarded the high-speed train at ten o'clock.",
+      "words": []
     },
     {
       "arabic": "جَلَسْتُ بِجَانِبِ النَّافِذَةِ لِأُشَاهِدَ الْمَنَاظِرَ الطَّبِيعِيَّةَ.",
       "translation": "Sjeo sam pored prozora da posmatram prirodne pejzaže.",
-      "translationEn": "I sat by the window to watch the natural landscapes."
+      "translationEn": "I sat by the window to watch the natural landscapes.",
+      "words": [
+        {
+          "w": "بِجَانِبِ",
+          "lemma": "جَانِبٌ / جَوَانِبُ"
+        }
+      ]
     },
     {
       "arabic": "وَصَلَ الْقِطَارُ فِي مَوْعِدِهِ الْمُحَدَّدِ دُونَ تَأْخِيرٍ.",
       "translation": "Voz je stigao u zakazano vrijeme bez kašnjenja.",
-      "translationEn": "The train arrived at its scheduled time without delay."
+      "translationEn": "The train arrived at its scheduled time without delay.",
+      "words": []
     }
   ],
   "metadata": {

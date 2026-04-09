@@ -6,17 +6,25 @@
     {
       "arabic": "تَنَاوُلُ الْخُضْرَاوَاتِ وَالْفَوَاكِهِ يَوْمِيًّا مُهِمٌّ جِدًّا لِلْجِسْمِ.",
       "translation": "Konzumiranje povrća i voća svakodnevno je veoma važno za tijelo.",
-      "translationEn": "Eating vegetables and fruits daily is very important for the body."
+      "translationEn": "Eating vegetables and fruits daily is very important for the body.",
+      "words": []
     },
     {
       "arabic": "هِيَ تَمُدُّنَا بِالْفِيتَامِينَاتِ وَالْمَعَادِنِ اللَّازِمَةِ لِلنُّمُوِّ.",
       "translation": "Ono nas opskrbljuje vitaminima i mineralima potrebnim za rast.",
-      "translationEn": "It provides us with the vitamins and minerals necessary for growth."
+      "translationEn": "It provides us with the vitamins and minerals necessary for growth.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ أَنْ نَتَجَنَّبَ أَكْلَ السُّكَّرِ بِكَثْرَةٍ لِنُحَافِظَ عَلَى صِحَّتِنَا.",
       "translation": "Moramo izbjegavati prekomjerno konzumiranje šećera kako bismo očuvali naše zdravlje.",
-      "translationEn": "We must avoid eating too much sugar to maintain our health."
+      "translationEn": "We must avoid eating too much sugar to maintain our health.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     }
   ],
   "metadata": {

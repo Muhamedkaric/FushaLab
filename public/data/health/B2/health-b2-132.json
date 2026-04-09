@@ -6,17 +6,30 @@
     {
       "arabic": "الْمَشْيُ فِي الْهَوَاءِ الطَّلْقِ رِيَاضَةٌ بَسِيطَةٌ وَمُفِيدَةٌ جِدًّا.",
       "translation": "Hodanje na svježem zraku je jednostavna i veoma korisna vježba.",
-      "translationEn": "Walking in the fresh air is a simple and very beneficial exercise."
+      "translationEn": "Walking in the fresh air is a simple and very beneficial exercise.",
+      "words": []
     },
     {
       "arabic": "أَمْشِي لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً كُلَّ صَبَاحٍ قَبْلَ الْفُطُورِ.",
       "translation": "Hodam po trideset minuta svakog jutra prije doručka.",
-      "translationEn": "I walk for thirty minutes every morning before breakfast."
+      "translationEn": "I walk for thirty minutes every morning before breakfast.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        }
+      ]
     },
     {
       "arabic": "هَذِهِ الْعَادَةُ تُسَاعِدُنِي عَلَى الشُّعُورِ بِالنَّشَاطِ طَوَالَ الْيَوْمِ.",
       "translation": "Ova navika mi pomaže da se osjećam energično tokom cijelog dana.",
-      "translationEn": "This habit helps me feel energetic throughout the day."
+      "translationEn": "This habit helps me feel energetic throughout the day.",
+      "words": [
+        {
+          "w": "طَوَالَ",
+          "lemma": "طَوَالَ"
+        }
+      ]
     }
   ],
   "metadata": {

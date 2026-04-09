@@ -6,22 +6,45 @@
     {
       "arabic": "تُسَاهِمُ التَّمَارِينُ الرِّيَاضِيَّةُ الْمُنْتَظَمَةُ فِي تَقْوِيَةِ عَضَلَةِ الْقَلْبِ وَتَحْسِينِ الدَّوْرَةِ الدَّمَوِيَّةِ لَدَى الْإِنْسَانِ.",
       "translation": "Redovne fizičke vježbe doprinose jačanju srčanog mišića i poboljšanju cirkulacije krvi kod čovjeka.",
-      "translationEn": "Regular physical exercises contribute to strengthening the heart muscle and improving human blood circulation."
+      "translationEn": "Regular physical exercises contribute to strengthening the heart muscle and improving human blood circulation.",
+      "words": []
     },
     {
       "arabic": "سَوَاءٌ كَانَ ذَلِكَ عَنْ طَرِيقِ الْمَشْيِ السَّرِيعِ أَوْ السِّبَاحَةِ، فَإِنَّ الْحَرَكَةَ تُحَفِّزُ إِفْرَازَ هُرْمُونَاتِ السَّعَادَةِ فِي الدِّمَاغِ.",
       "translation": "Bilo da se radi o brzom hodanju ili plivanju, kretanje stimuliše lučenje hormona sreće u mozgu.",
-      "translationEn": "Whether through brisk walking or swimming, movement stimulates the release of happiness hormones in the brain."
+      "translationEn": "Whether through brisk walking or swimming, movement stimulates the release of happiness hormones in the brain.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "يَنْصَحُ الْخُبَرَاءُ بِتَخْصِيصِ ثَلَاثِينَ دَقِيقَةً يَوْمِيًّا عَلَى الْأَقَلِّ لِلنَّشَاطِ الْبَدَنِيِّ لِتَفَادِي خَطَرِ السِّمْنَةِ.",
       "translation": "Stručnjaci preporučuju izdvajanje najmanje trideset minuta dnevno za fizičku aktivnost kako bi se izbjegao rizik od pretilosti.",
-      "translationEn": "Experts recommend allocating at least thirty minutes daily for physical activity to avoid the risk of obesity."
+      "translationEn": "Experts recommend allocating at least thirty minutes daily for physical activity to avoid the risk of obesity.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        }
+      ]
     },
     {
       "arabic": "وَلَا يَقْتَصِرُ نَفْعُ الرِّيَاضَةِ عَلَى الْجَسَدِ فَقَطْ، بَلْ تَعْمَلُ أَيْضًا عَلَى تَعْزِيزِ الثِّقَةِ بِالنَّفْسِ وَتَحْسِينِ جَوْدَةِ النَّوْمِ.",
       "translation": "Korist od sporta nije ograničena samo na tijelo, već on također radi na jačanju samopouzdanja i poboljšanju kvaliteta sna.",
-      "translationEn": "The benefit of sports is not limited to the body only, but it also works to enhance self-confidence and improve sleep quality."
+      "translationEn": "The benefit of sports is not limited to the body only, but it also works to enhance self-confidence and improve sleep quality.",
+      "words": [
+        {
+          "w": "فَقَطْ",
+          "lemma": "فَقَطْ"
+        },
+        {
+          "w": "أَيْضًا",
+          "lemma": "أَيْضًا"
+        }
+      ]
     }
   ],
   "metadata": {

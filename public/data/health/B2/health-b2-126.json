@@ -6,22 +6,40 @@
     {
       "arabic": "الغِذَاءُ الصِّحِّيُّ مُهِمٌّ جِدًّا لِجِسْمِ الإِنْسَانِ.",
       "translation": "Zdrava hrana je veoma važna za ljudsko tijelo.",
-      "translationEn": "Healthy food is very important for the human body."
+      "translationEn": "Healthy food is very important for the human body.",
+      "words": [
+        {
+          "w": "جِدًّا",
+          "lemma": "جِدًّا"
+        }
+      ]
     },
     {
       "arabic": "يَجِبُ أَنْ نَأْكُلَ الخُضْرَاوَاتِ وَالفَوَاكِهَ كُلَّ يَوْمٍ.",
       "translation": "Moramo jesti povrće i voće svaki dan.",
-      "translationEn": "We must eat vegetables and fruits every day."
+      "translationEn": "We must eat vegetables and fruits every day.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        },
+        {
+          "w": "كُلَّ",
+          "lemma": "كُلٌّ"
+        }
+      ]
     },
     {
       "arabic": "شُرْبُ الكَثِيرِ مِنَ المَاءِ يُسَاعِدُ فِي تَحْسِينِ الهَضْمِ.",
       "translation": "Pijenje puno vode pomaže u poboljšanju probave.",
-      "translationEn": "Drinking a lot of water helps in improving digestion."
+      "translationEn": "Drinking a lot of water helps in improving digestion.",
+      "words": []
     },
     {
       "arabic": "التَّغْذِيَةُ الجَيِّدَةُ تَمْنَحُنَا الطَّاقَةَ اللازِمَةَ لِلْعَمَلِ.",
       "translation": "Dobra ishrana nam daje energiju potrebnu za rad.",
-      "translationEn": "Good nutrition gives us the energy needed for work."
+      "translationEn": "Good nutrition gives us the energy needed for work.",
+      "words": []
     }
   ],
   "metadata": {

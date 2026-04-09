@@ -6,27 +6,50 @@
     {
       "arabic": "قَرَّرْتُ أَنَا وَأَصْدِقَائِي أَنْ نَقُومَ بِرِحْلَةٍ بِالسَّيَّارَةِ إِلَى الشَّمَالِ.",
       "translation": "Ja i prijatelji odlučili smo napraviti put automobilom prema sjeveru.",
-      "translationEn": "My friends and I decided to take a road trip to the north."
+      "translationEn": "My friends and I decided to take a road trip to the north.",
+      "words": []
     },
     {
       "arabic": "حَمَلْنَا الطَّعَامَ وَالْمَاءَ وَخَرَجْنَا مُبَكِّرًا.",
       "translation": "Ponijeli smo hranu i vodu i krenuli rano.",
-      "translationEn": "We packed food and water and set off early."
+      "translationEn": "We packed food and water and set off early.",
+      "words": []
     },
     {
       "arabic": "تَوَقَّفْنَا فِي أَمَاكِنَ كَثِيرَةٍ لِنَأْخُذَ الصُّوَرَ وَنَسْتَرِيحَ.",
       "translation": "Zaustavljali smo se na mnogo mjesta da fotografiramo i odmorimo se.",
-      "translationEn": "We stopped at many places to take photos and rest."
+      "translationEn": "We stopped at many places to take photos and rest.",
+      "words": []
     },
     {
       "arabic": "كَانَ الطَّرِيقُ طَوِيلًا لَكِنَّ الرِّحْلَةَ كَانَتْ مُمْتِعَةً جِدًّا.",
       "translation": "Put je bio dug, ali putovanje je bilo jako zabavno.",
-      "translationEn": "The road was long but the journey was very enjoyable."
+      "translationEn": "The road was long but the journey was very enjoyable.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "كَانَتْ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "جِدًّا",
+          "lemma": "جِدًّا"
+        }
+      ]
     },
     {
       "arabic": "وَصَلْنَا إِلَى وِجْهَتِنَا مَسَاءً وَنَصَبْنَا الْخِيَامَ تَحْتَ النُّجُومِ.",
       "translation": "Stigli smo do odredišta navečer i postavili šatore pod zvijezdama.",
-      "translationEn": "We reached our destination in the evening and pitched our tents under the stars."
+      "translationEn": "We reached our destination in the evening and pitched our tents under the stars.",
+      "words": [
+        {
+          "w": "تَحْتَ",
+          "lemma": "تَحْتَ"
+        }
+      ]
     }
   ],
   "metadata": {

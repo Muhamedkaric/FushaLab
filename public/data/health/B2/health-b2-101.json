@@ -6,22 +6,36 @@
     {
       "arabic": "شُرْبُ الْمَاءِ مُهِمٌّ جِدًّا لِصِحَّةِ الْجِسْمِ.",
       "translation": "Pijenje vode je veoma važno za zdravlje tijela.",
-      "translationEn": "Drinking water is very important for the health of the body."
+      "translationEn": "Drinking water is very important for the health of the body.",
+      "words": []
     },
     {
       "arabic": "يَنْصَحُ الْأَطِبَّاءُ بِشُرْبِ ثَمَانِيَةِ أَكْوَابٍ مِنَ الْمَاءِ كُلَّ يَوْمٍ.",
       "translation": "Ljekari preporučuju pijenje osam čaša vode svakog dana.",
-      "translationEn": "Doctors recommend drinking eight glasses of water every day."
+      "translationEn": "Doctors recommend drinking eight glasses of water every day.",
+      "words": [
+        {
+          "w": "ثَمَانِيَةِ",
+          "lemma": "ثَمَانِيَةٌ"
+        }
+      ]
     },
     {
       "arabic": "يُسَاعِدُ الْمَاءُ فِي تَحْسِينِ الْهَضْمِ وَنَضَارَةِ الْبَشَرَةِ.",
       "translation": "Voda pomaže u poboljšanju probave i svježini kože.",
-      "translationEn": "Water helps in improving digestion and skin radiance."
+      "translationEn": "Water helps in improving digestion and skin radiance.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ عَلَيْنَا أَنْ نَحْمِلَ زُجَاجَةَ مَاءٍ مَعَنَا دَائِمًا.",
       "translation": "Uvijek trebamo nositi flašu vode sa sobom.",
-      "translationEn": "We must always carry a water bottle with us."
+      "translationEn": "We must always carry a water bottle with us.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     }
   ],
   "metadata": {

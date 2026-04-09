@@ -6,27 +6,47 @@
     {
       "arabic": "فَقَدْتُ طَرِيقِي وَأَنَا أَبْحَثُ عَنِ الْمَتْحَفِ الْوَطَنِيِّ.",
       "translation": "Izgubio sam se dok sam tražio Narodni muzej.",
-      "translationEn": "I lost my way while looking for the National Museum."
+      "translationEn": "I lost my way while looking for the National Museum.",
+      "words": []
     },
     {
       "arabic": "فَتَحْتُ الْخَرِيطَةَ عَلَى هَاتِفِي الذَّكِيِّ لِأَعْرِفَ مَوْقِعِي.",
       "translation": "Otvorio sam mapu na svom pametnom telefonu da vidim gdje se nalazim.",
-      "translationEn": "I opened the map on my smartphone to find my location."
+      "translationEn": "I opened the map on my smartphone to find my location.",
+      "words": []
     },
     {
       "arabic": "مَشَيْتُ نَحْوَ الشَّمَالِ ثُمَّ انْعَطَفْتُ يَسَارًا عِنْدَ الْمَكْتَبَةِ.",
       "translation": "Hodao sam prema sjeveru, a zatim skrenuo lijevo kod biblioteke.",
-      "translationEn": "I walked north and then turned left at the library."
+      "translationEn": "I walked north and then turned left at the library.",
+      "words": [
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        }
+      ]
     },
     {
       "arabic": "وَصَلْتُ إِلَى الْمَتْحَفِ بَعْدَ عَشْرِ دَقَائِقَ فَقَطْ.",
       "translation": "Stigao sam u muzej nakon samo deset minuta.",
-      "translationEn": "I arrived at the museum after only ten minutes."
+      "translationEn": "I arrived at the museum after only ten minutes.",
+      "words": [
+        {
+          "w": "فَقَطْ",
+          "lemma": "فَقَطْ"
+        }
+      ]
     },
     {
       "arabic": "كَانَتِ الْخَرِيطَةُ وَاضِحَةً وَسَهْلَةَ الِاسْتِخْدَامِ.",
       "translation": "Mapa je bila jasna i jednostavna za korištenje.",
-      "translationEn": "The map was clear and easy to use."
+      "translationEn": "The map was clear and easy to use.",
+      "words": [
+        {
+          "w": "كَانَتِ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     }
   ],
   "metadata": {

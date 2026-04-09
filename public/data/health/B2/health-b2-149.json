@@ -6,17 +6,25 @@
     {
       "arabic": "النَّوْمُ الْكَافِي ضَرُورِيٌّ لِصِحَّةِ الْعَقْلِ وَالتَّرْكِيزِ.",
       "translation": "Dovoljno sna je neophodno za mentalno zdravlje i koncentraciju.",
-      "translationEn": "Sufficient sleep is necessary for mental health and concentration."
+      "translationEn": "Sufficient sleep is necessary for mental health and concentration.",
+      "words": []
     },
     {
       "arabic": "يَحْتَاجُ الْبَالِغُونَ إِلَى ثَمَانِي سَاعَاتٍ مِنَ الرَّاحَةِ كُلَّ لَيْلَةٍ.",
       "translation": "Odrasli trebaju osam sati odmora svake noći.",
-      "translationEn": "Adults need eight hours of rest every night."
+      "translationEn": "Adults need eight hours of rest every night.",
+      "words": [
+        {
+          "w": "كُلَّ",
+          "lemma": "كُلٌّ"
+        }
+      ]
     },
     {
       "arabic": "يُقَلِّلُ الِاسْتِرْخَاءُ قَبْلَ النَّوْمِ مِنَ التَّوَتُّرِ وَالْقَلَقِ.",
       "translation": "Opuštanje prije spavanja smanjuje stres i anksioznost.",
-      "translationEn": "Relaxation before sleep reduces stress and anxiety."
+      "translationEn": "Relaxation before sleep reduces stress and anxiety.",
+      "words": []
     }
   ],
   "metadata": {

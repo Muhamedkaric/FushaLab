@@ -6,27 +6,37 @@
     {
       "arabic": "زَارَ الطَّالِبُ الْمَكْتَبَةَ الْعَامَّةَ لِيَبْحَثَ عَنْ كُتُبِ الْأَدَبِ الْقَدِيمَةِ.",
       "translation": "Student je posjetio javnu biblioteku kako bi potražio stare knjige iz književnosti.",
-      "translationEn": "The student visited the public library to look for old literature books."
+      "translationEn": "The student visited the public library to look for old literature books.",
+      "words": []
     },
     {
       "arabic": "وَجَدَ كُتُباً كَثِيرَةً لِعُلَمَاءَ وَأُدَبَاءَ مَشْهُورِينَ مِنَ الْمَاضِي.",
       "translation": "Pronašao je mnogo knjiga poznatih učenjaka i književnika iz prošlosti.",
-      "translationEn": "He found many books by famous scholars and writers from the past."
+      "translationEn": "He found many books by famous scholars and writers from the past.",
+      "words": []
     },
     {
       "arabic": "قَرَأَ عَنْ تَارِيخِ النَّثْرِ وَتَطَوُّرِ الْقِصَّةِ الْقَصِيرَةِ.",
       "translation": "Čitao je o historiji proze i razvoju kratke priče.",
-      "translationEn": "He read about the history of prose and the development of the short story."
+      "translationEn": "He read about the history of prose and the development of the short story.",
+      "words": []
     },
     {
       "arabic": "كَانَتِ الصَّفَحَاتُ مَلِيئَةً بِالْحِكْمَةِ وَالْمَعْرِفَةِ الْقَيِّمَةِ.",
       "translation": "Stranice su bile pune mudrosti i vrijednog znanja.",
-      "translationEn": "The pages were full of wisdom and valuable knowledge."
+      "translationEn": "The pages were full of wisdom and valuable knowledge.",
+      "words": [
+        {
+          "w": "كَانَتِ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "قَرَّرَ الطَّالِبُ أَنْ يَقْرَأَ كِتَاباً جَدِيداً كُلَّ أُسْبُوعٍ.",
       "translation": "Student je odlučio da svake sedmice pročita novu knjigu.",
-      "translationEn": "The student decided to read a new book every week."
+      "translationEn": "The student decided to read a new book every week.",
+      "words": []
     }
   ],
   "metadata": {

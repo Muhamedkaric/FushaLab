@@ -6,17 +6,30 @@
     {
       "arabic": "يُعْتَبَرُ الْمَشْيُ رِيَاضَةً بَسِيطَةً وَمُفِيدَةً لِلْجِسْمِ.",
       "translation": "Hodanje se smatra jednostavnim i korisnim sportom za tijelo.",
-      "translationEn": "Walking is considered a simple and beneficial sport for the body."
+      "translationEn": "Walking is considered a simple and beneficial sport for the body.",
+      "words": []
     },
     {
       "arabic": "أَمْشِي لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً فِي الْحَدِيقَةِ كُلَّ صَبَاحٍ.",
       "translation": "Šetam trideset minuta u parku svakog jutra.",
-      "translationEn": "I walk for thirty minutes in the park every morning."
+      "translationEn": "I walk for thirty minutes in the park every morning.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        }
+      ]
     },
     {
       "arabic": "تُسَاعِدُنِي هَذِهِ الْعَادَةُ عَلَى الشُّعُورِ بِالنَّشَاطِ طَوَالَ الْيَوْمِ.",
       "translation": "Ova navika mi pomaže da se osjećam aktivno tokom cijelog dana.",
-      "translationEn": "This habit helps me feel energetic throughout the day."
+      "translationEn": "This habit helps me feel energetic throughout the day.",
+      "words": [
+        {
+          "w": "طَوَالَ",
+          "lemma": "طَوَالَ"
+        }
+      ]
     }
   ],
   "metadata": {

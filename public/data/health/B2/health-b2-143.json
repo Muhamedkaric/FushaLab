@@ -6,22 +6,31 @@
     {
       "arabic": "شَعَرْتُ بِأَلَمٍ فِي أَسْنَانِي هَذَا الصَّبَاحَ.",
       "translation": "Osjetio sam bol u zubima jutros.",
-      "translationEn": "I felt a pain in my teeth this morning."
+      "translationEn": "I felt a pain in my teeth this morning.",
+      "words": []
     },
     {
       "arabic": "حَجَزْتُ مَوْعِدًا عِنْدَ طَبِيبِ الْأَسْنَانِ لِلْفَحْصِ.",
       "translation": "Zakazao sam termin kod stomatologa za pregled.",
-      "translationEn": "I booked an appointment with the dentist for an exam."
+      "translationEn": "I booked an appointment with the dentist for an exam.",
+      "words": [
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        }
+      ]
     },
     {
       "arabic": "نَصَحَنِي الطَّبِيبُ بِتَنْظِيفِ أَسْنَانِي مَرَّتَيْنِ فِي الْيَوْمِ.",
       "translation": "Ljekar mi je savjetovao da čistim zube dva puta dnevno.",
-      "translationEn": "The doctor advised me to clean my teeth twice a day."
+      "translationEn": "The doctor advised me to clean my teeth twice a day.",
+      "words": []
     },
     {
       "arabic": "الْآنَ، أَشْعُرُ بِتَحَسُّنٍ كَبِيرٍ بَعْدَ الْعِلَاجِ.",
       "translation": "Sada se osjećam mnogo bolje nakon tretmana.",
-      "translationEn": "Now, I feel much better after the treatment."
+      "translationEn": "Now, I feel much better after the treatment.",
+      "words": []
     }
   ],
   "metadata": {

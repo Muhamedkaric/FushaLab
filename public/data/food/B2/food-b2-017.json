@@ -6,22 +6,31 @@
     {
       "arabic": "ذَهَبَتْ مَرْيَمُ إِلَى السُّوقِ الشَّعْبِيِّ لِتَشْتَرِيَ الْخُضْرَاوَاتِ.",
       "translation": "Merjem je otišla na narodnu pijacu da kupi povrće.",
-      "translationEn": "Maryam went to the popular market to buy vegetables."
+      "translationEn": "Maryam went to the popular market to buy vegetables.",
+      "words": []
     },
     {
       "arabic": "وَجَدَتْ طَمَاطِمَ حَمْرَاءَ وَخِيَارًا طَازَجًا فِي كُلِّ مَكَانٍ.",
       "translation": "Svuda je pronašla crveni paradajz i svježe krastavce.",
-      "translationEn": "She found red tomatoes and fresh cucumbers everywhere."
+      "translationEn": "She found red tomatoes and fresh cucumbers everywhere.",
+      "words": []
     },
     {
       "arabic": "كَانَتْ رَائِحَةُ التَّوَابِلِ وَالْبُهُورَاتِ الْقَوِيَّةِ تَمْلَأُ الزِّقَاقَ.",
       "translation": "Jak miris začina je ispunjavao uličicu.",
-      "translationEn": "The strong scent of spices filled the alleyway."
+      "translationEn": "The strong scent of spices filled the alleyway.",
+      "words": [
+        {
+          "w": "كَانَتْ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "اشْتَرَتْ كُلَّ مَا تَحْتَاجُ إِلَيْهِ لِتَحْضِيرِ طَعَامِ الْغَدَاءِ.",
       "translation": "Kupila je sve što joj je potrebno za pripremu ručka.",
-      "translationEn": "She bought everything she needed to prepare lunch."
+      "translationEn": "She bought everything she needed to prepare lunch.",
+      "words": []
     }
   ],
   "metadata": {

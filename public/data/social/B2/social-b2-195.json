@@ -6,22 +6,31 @@
     {
       "arabic": "يَقْرَأُ النَّاسُ الْأَخْبَارَ الْعَالَمِيَّةَ مِنْ خِلَالِ التَّطْبِيقَاتِ الْإِخْبَارِيَّةِ.",
       "translation": "Ljudi čitaju svjetske vijesti putem novinskih aplikacija.",
-      "translationEn": "People read global news through news applications."
+      "translationEn": "People read global news through news applications.",
+      "words": []
     },
     {
       "arabic": "تَنْتَشِرُ الْمَعْلُومَاتُ بِسُرْعَةٍ كَبِيرَةٍ فِي جَمِيعِ أَنْحَاءِ الْعَالَمِ.",
       "translation": "Informacije se šire veoma brzo širom svijeta.",
-      "translationEn": "Information spreads very quickly all over the world."
+      "translationEn": "Information spreads very quickly all over the world.",
+      "words": []
     },
     {
       "arabic": "لَكِنْ يَجِبُ عَلَيْنَا التَّأَكُّدُ مِنْ صِحَّةِ الْمَصَادِرِ قَبْلَ التَّصْدِيقِ.",
       "translation": "Ali moramo provjeriti tačnost izvora prije nego što povjerujemo.",
-      "translationEn": "But we must verify the accuracy of the sources before believing them."
+      "translationEn": "But we must verify the accuracy of the sources before believing them.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "الصَّحَافَةُ الرَّقْمِيَّةُ غَيَّرَتْ طَرِيقَةَ مَعْرِفَتِنَا بِمَا يَحْدُثُ حَوْلَنَا.",
       "translation": "Digitalno novinarstvo je promijenilo način na koji saznajemo šta se dešava oko nas.",
-      "translationEn": "Digital journalism has changed the way we know what is happening around us."
+      "translationEn": "Digital journalism has changed the way we know what is happening around us.",
+      "words": []
     }
   ],
   "metadata": {

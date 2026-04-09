@@ -6,22 +6,35 @@
     {
       "arabic": "تَلْعَبُ الْفُحُوصَاتُ الطِّبِّيَّةُ الدَّوْرِيَّةُ دَوْرًا مِحْوَرِيًّا فِي الْكَشْفِ الْمُبَكِّرِ عَنْ كَثِيرٍ مِنَ الْعِلَلِ الصِّحِّيَّةِ الْكَامِنَةِ.",
       "translation": "Redovni medicinski pregledi igraju ključnu ulogu u ranom otkrivanju mnogih skrivenih zdravstvenih tegoba.",
-      "translationEn": "Periodic medical check-ups play a pivotal role in the early detection of many latent health ailments."
+      "translationEn": "Periodic medical check-ups play a pivotal role in the early detection of many latent health ailments.",
+      "words": []
     },
     {
       "arabic": "فَكُلَّمَا تَمَّ تَشْخِيصُ الْمَرَضِ فِي مَرَاحِلِهِ الْأُولَى، زَادَتْ فُرَصُ النَّجَاحِ فِي الْعِلَاجِ وَتَقَلَّصَتْ فَتْرَةُ التَّعَافِي.",
       "translation": "Što se bolest ranije dijagnostikuje u početnim fazama, to su veće šanse za uspjeh u liječenju i kraći period oporavka.",
-      "translationEn": "The earlier a disease is diagnosed in its initial stages, the greater the chances of treatment success and the shorter the recovery period."
+      "translationEn": "The earlier a disease is diagnosed in its initial stages, the greater the chances of treatment success and the shorter the recovery period.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ عَلَى الْأَفْرَادِ عَدَمُ انْتِظَارِ ظُهُورِ الْأَعْرَاضِ لِزِيَارَةِ الْمُسْتَشْفَى، خُصُوصًا مِمَّنْ لَدَيْهِمْ تَارِيخٌ عَائِلِيٌّ مَعَ بَعْضِ الْأَمْرَاضِ.",
       "translation": "Pojedinci ne bi trebali čekati pojavu simptoma da bi posjetili bolnicu, posebno oni koji imaju porodičnu historiju određenih bolesti.",
-      "translationEn": "Individuals should not wait for symptoms to appear before visiting the hospital, especially those with a family history of certain diseases."
+      "translationEn": "Individuals should not wait for symptoms to appear before visiting the hospital, especially those with a family history of certain diseases.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        },
+        {
+          "w": "بَعْضِ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "إِنَّ الِاسْتِثْمَارَ فِي الْوِقَايَةِ يُوَفِّرُ عَلَى الْمُجْتَمَعِ وَالْفَرْدِ عَنَاءً كَبِيرًا وَتَكَالِيفَ عِلَاجِيَّةً بَاهِظَةً فِي الْمُسْتَقْبَلِ.",
       "translation": "Ulaganje u prevenciju štedi zajednici i pojedincu veliki napor i ogromne troškove liječenja u budućnosti.",
-      "translationEn": "Investing in prevention saves the community and the individual great suffering and exorbitant treatment costs in the future."
+      "translationEn": "Investing in prevention saves the community and the individual great suffering and exorbitant treatment costs in the future.",
+      "words": []
     }
   ],
   "metadata": {

@@ -6,22 +6,35 @@
     {
       "arabic": "يَسْتَخْدِمُ كَثِيرٌ مِنَ النَّاسِ مَوَاقِعَ التَّوَاصُلِ الِاجْتِمَاعِيِّ كُلَّ يَوْمٍ.",
       "translation": "Mnogo ljudi svakodnevno koristi društvene mreže.",
-      "translationEn": "Many people use social media sites every day."
+      "translationEn": "Many people use social media sites every day.",
+      "words": []
     },
     {
       "arabic": "يُحِبُّ الشَّبَابُ مَشَارَكَةَ الصُّوَرِ الْجَمِيلَةِ مَعَ أَصْدِقَائِهِمْ.",
       "translation": "Mladi vole dijeliti lijepe fotografije sa svojim prijateljima.",
-      "translationEn": "Young people love sharing beautiful photos with their friends."
+      "translationEn": "Young people love sharing beautiful photos with their friends.",
+      "words": []
     },
     {
       "arabic": "تُسَاعِدُ هَذِهِ الْمَوَاقِعُ فِي الْبَقَاءِ عَلَى اتِّصَالٍ دَائِمٍ.",
       "translation": "Ove stranice pomažu u održavanju stalnog kontakta.",
-      "translationEn": "These sites help in staying in constant contact."
+      "translationEn": "These sites help in staying in constant contact.",
+      "words": []
     },
     {
       "arabic": "لَكِنْ يَجِبُ عَلَيْنَا تَنْظِيمُ الْوَقْتِ أَمَامَ الشَّاشَةِ.",
       "translation": "Ali moramo organizovati vrijeme ispred ekrana.",
-      "translationEn": "But we must organize our time in front of the screen."
+      "translationEn": "But we must organize our time in front of the screen.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        },
+        {
+          "w": "أَمَامَ",
+          "lemma": "أَمَامَ"
+        }
+      ]
     }
   ],
   "metadata": {

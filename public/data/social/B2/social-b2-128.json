@@ -6,22 +6,35 @@
     {
       "arabic": "يَجِبُ عَلَيْنَا حِمَايَةُ مَعْلُومَاتِنَا الشَّخْصِيَّةِ عَبْرَ الْإِنْتَرْنِتِ.",
       "translation": "Moramo zaštititi svoje lične podatke na internetu.",
-      "translationEn": "We must protect our personal information online."
+      "translationEn": "We must protect our personal information online.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        },
+        {
+          "w": "عَبْرَ",
+          "lemma": "عَبْرَ"
+        }
+      ]
     },
     {
       "arabic": "لَا تُشَارِكْ كَلِمَةَ الْمُرُورِ الْخَاصَّةَ بِكَ مَعَ الْغُرَبَاءِ أَبَدًا.",
       "translation": "Nikada ne dijeli svoju lozinku sa strancima.",
-      "translationEn": "Never share your password with strangers."
+      "translationEn": "Never share your password with strangers.",
+      "words": []
     },
     {
       "arabic": "اسْتَخْدِمْ مَوَاقِعَ آمِنَةً لِضَمَانِ خُصُوصِيَّتِكَ الرَّقْمِيَّةِ.",
       "translation": "Koristi sigurne stranice kako bi osigurao svoju digitalnu privatnost.",
-      "translationEn": "Use secure sites to ensure your digital privacy."
+      "translationEn": "Use secure sites to ensure your digital privacy.",
+      "words": []
     },
     {
       "arabic": "الْوَعْيُ التِّقْنِيُّ أَمْرٌ ضَرُورِيٌّ فِي هَذَا الْعَصْرِ.",
       "translation": "Tehnička svijest je neophodna stvar u ovom dobu.",
-      "translationEn": "Technical awareness is a necessary matter in this era."
+      "translationEn": "Technical awareness is a necessary matter in this era.",
+      "words": []
     }
   ],
   "metadata": {

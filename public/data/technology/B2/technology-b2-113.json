@@ -6,17 +6,25 @@
     {
       "arabic": "مِنَ الْمُهِمِّ حِمَايَةُ مَعْلُومَاتِنَا الشَّخْصِيَّةِ عَلَى الْإِنْتِرْنِتِ.",
       "translation": "Važno je zaštititi naše lične podatke na internetu.",
-      "translationEn": "It is important to protect our personal information on the internet."
+      "translationEn": "It is important to protect our personal information on the internet.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ أَنْ نَسْتَخْدِمَ كَلِمَاتِ مُرُورٍ قَوِيَّةً لِكُلِّ حِسَابَاتِنَا.",
       "translation": "Moramo koristiti jake lozinke za sve naše račune.",
-      "translationEn": "We must use strong passwords for all our accounts."
+      "translationEn": "We must use strong passwords for all our accounts.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "يُسَاعِدُ الْأَمْنُ السَّيْبِرَانِيُّ فِي مَنْعِ سَرِقَةِ الْبَيَانَاتِ.",
       "translation": "Kibersigurnost pomaže u sprečavanju krađe podataka.",
-      "translationEn": "Cybersecurity helps in preventing data theft."
+      "translationEn": "Cybersecurity helps in preventing data theft.",
+      "words": []
     }
   ],
   "metadata": {

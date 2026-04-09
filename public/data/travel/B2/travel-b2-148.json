@@ -6,27 +6,42 @@
     {
       "arabic": "زُرْتُ مَدِينَةً قَدِيمَةً مَشْهُورَةً بِآثَارِهَا التَّارِيخِيَّةِ.",
       "translation": "Posjetio sam stari grad poznat po svojim historijskim spomenicima.",
-      "translationEn": "I visited an ancient city famous for its historical monuments."
+      "translationEn": "I visited an ancient city famous for its historical monuments.",
+      "words": []
     },
     {
       "arabic": "اسْتَخْدَمْتُ خَرِيطَةً لِأَعْرِفَ مَوَاقِعَ الْمَتَاحِفِ وَالْقِلَاعِ.",
       "translation": "Koristio sam mapu kako bih saznao lokacije muzeja i tvrđava.",
-      "translationEn": "I used a map to find the locations of museums and castles."
+      "translationEn": "I used a map to find the locations of museums and castles.",
+      "words": []
     },
     {
       "arabic": "مَشَيْتُ فِي الشَّوَارِعِ الضَّيِّقَةِ وَاشْتَرَيْتُ بَعْضَ الْهَدَايَا التَّذْكَارِيَّةِ.",
       "translation": "Šetao sam uskim ulicama i kupio neke suvenire.",
-      "translationEn": "I walked through the narrow streets and bought some souvenirs."
+      "translationEn": "I walked through the narrow streets and bought some souvenirs.",
+      "words": [
+        {
+          "w": "بَعْضَ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "كَانَ الطَّقْسُ مُشْمِسًا وَرَائِعًا لِلتَّجَوُّلِ.",
       "translation": "Vrijeme je bilo sunčano i divno za obilazak.",
-      "translationEn": "The weather was sunny and wonderful for wandering around."
+      "translationEn": "The weather was sunny and wonderful for wandering around.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "الْتَقَطْتُ الْكَثِيرَ مِنَ الصُّوَرِ لِلْمَبَانِي الْقَدِيمَةِ.",
       "translation": "Napravio sam mnogo fotografija starih građevina.",
-      "translationEn": "I took many pictures of the old buildings."
+      "translationEn": "I took many pictures of the old buildings.",
+      "words": []
     }
   ],
   "metadata": {

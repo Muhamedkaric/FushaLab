@@ -6,22 +6,35 @@
     {
       "arabic": "ذَهَبَ أَحْمَدُ إِلَى مُقَابَلَةِ عَمَلٍ جَدِيدَةٍ صَبَاحَ الْيَوْمِ.",
       "translation": "Ahmed je jutros otišao na razgovor za novi posao.",
-      "translationEn": "Ahmed went to a new job interview this morning."
+      "translationEn": "Ahmed went to a new job interview this morning.",
+      "words": []
     },
     {
       "arabic": "كَانَ يَرْتَدِي مَلَابِسَ رَسْمِيَّةً وَيَبْدُو وَاثِقًا مِنْ نَفْسِهِ.",
       "translation": "Nosio je formalnu odjeću i izgledao je samouvjereno.",
-      "translationEn": "He was wearing formal clothes and looked confident in himself."
+      "translationEn": "He was wearing formal clothes and looked confident in himself.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "نَفْسِهِ",
+          "lemma": "نَفْسٌ / نُفُوسٌ"
+        }
+      ]
     },
     {
       "arabic": "أَجَابَ عَنِ الْأَسْئِلَةِ بِهُدُوءٍ وَاحْتِرَافِيَّةٍ عَالِيَةٍ.",
       "translation": "Odgovarao je na pitanja smireno i s visokom profesionalnošću.",
-      "translationEn": "He answered the questions calmly and with high professionalism."
+      "translationEn": "He answered the questions calmly and with high professionalism.",
+      "words": []
     },
     {
       "arabic": "يَتَمَنَّى أَحْمَدُ أَنْ يَحْصُلَ عَلَى هَذِهِ الْوَظِيفَةِ الْمُمَيَّزَةِ.",
       "translation": "Ahmed se nada da će dobiti ovaj poseban posao.",
-      "translationEn": "Ahmed hopes to get this distinguished job."
+      "translationEn": "Ahmed hopes to get this distinguished job.",
+      "words": []
     }
   ],
   "metadata": {

@@ -6,27 +6,60 @@
     {
       "arabic": "كَتَبَتِ الْفَتَاةُ رِسَالَةً طَوِيلَةً إِلَى صَدِيقَتِهَا الَّتِي سَافَرَتْ إِلَى بَلَدٍ بَعِيدٍ.",
       "translation": "Djevojka je napisala dugačko pismo svojoj prijateljici koja je otputovala u daleku zemlju.",
-      "translationEn": "A young woman wrote a long letter to her friend who had moved to a distant country."
+      "translationEn": "A young woman wrote a long letter to her friend who had moved to a distant country.",
+      "words": []
     },
     {
       "arabic": "كَتَبَتْ فِيهَا كُلَّ مَا فِي قَلْبِهَا مِنْ شَوْقٍ وَحُزْنٍ وَأَمَلٍ.",
       "translation": "U njemu je opisala sve što joj je bilo na srcu — čežnju, tugu i nadu.",
-      "translationEn": "She poured into it everything in her heart — longing, sadness, and hope."
+      "translationEn": "She poured into it everything in her heart — longing, sadness, and hope.",
+      "words": [
+        {
+          "w": "كُلَّ",
+          "lemma": "كُلٌّ"
+        }
+      ]
     },
     {
       "arabic": "لَكِنَّهَا حِينَ انْتَهَتْ مِنَ الْكِتَابَةِ، وَضَعَتِ الرِّسَالَةَ فِي دُرْجِ مَكْتَبِهَا وَلَمْ تُرْسِلْهَا.",
       "translation": "Ali kad je završila s pisanjem, stavila je pismo u ladicu svog stola i nije ga poslala.",
-      "translationEn": "But when she finished writing, she placed the letter in her desk drawer and never sent it."
+      "translationEn": "But when she finished writing, she placed the letter in her desk drawer and never sent it.",
+      "words": [
+        {
+          "w": "حِينَ",
+          "lemma": "حِينٌ / أَحْيَانٌ"
+        }
+      ]
     },
     {
       "arabic": "قَرَّرَتْ أَنْ تَحْتَفِظَ بِهَا لِنَفْسِهَا، لِأَنَّ بَعْضَ الْكَلِمَاتِ تَكْفِيهَا أَنْ تُكْتَبَ.",
       "translation": "Odlučila je zadržati ga za sebe, jer neke su riječi dovoljne samo ako se napišu.",
-      "translationEn": "She decided to keep it for herself, because some words need only to be written."
+      "translationEn": "She decided to keep it for herself, because some words need only to be written.",
+      "words": [
+        {
+          "w": "لِأَنَّ",
+          "lemma": "لِأَنَّ"
+        },
+        {
+          "w": "بَعْضَ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ سَنَوَاتٍ وَجَدَتِ الرِّسَالَةَ وَبَكَتْ، لِأَنَّهَا وَجَدَتْ فِيهَا صُورَةَ نَفْسِهَا الشَّابَّةِ.",
       "translation": "Nakon godina je pronašla pismo i zaplakala, jer je u njemu pronašla sliku sebe mlade.",
-      "translationEn": "Years later she found the letter and wept, for in it she found a portrait of her younger self."
+      "translationEn": "Years later she found the letter and wept, for in it she found a portrait of her younger self.",
+      "words": [
+        {
+          "w": "لِأَنَّهَا",
+          "lemma": "لِأَنَّ"
+        },
+        {
+          "w": "نَفْسِهَا",
+          "lemma": "نَفْسٌ / نُفُوسٌ"
+        }
+      ]
     }
   ],
   "metadata": {

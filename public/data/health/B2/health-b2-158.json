@@ -6,17 +6,25 @@
     {
       "arabic": "ذَهَبْتُ إِلَى الصَّيْدَلِيَّةِ أَمْسِ لِشِرَاءِ بَعْضِ الدَّوَاءِ.",
       "translation": "Jučer sam otišao u apoteku da kupim neki lijek.",
-      "translationEn": "I went to the pharmacy yesterday to buy some medicine."
+      "translationEn": "I went to the pharmacy yesterday to buy some medicine.",
+      "words": [
+        {
+          "w": "بَعْضِ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "أَعْطَيْتُ الْوَصْفَةَ الطِّبِّيَّةَ لِلصَّيْدَلِيِّ وَهُوَ سَاعَدَنِي.",
       "translation": "Dao sam ljekarski recept apotekaru i on mi je pomogao.",
-      "translationEn": "I gave the medical prescription to the pharmacist and he helped me."
+      "translationEn": "I gave the medical prescription to the pharmacist and he helped me.",
+      "words": []
     },
     {
       "arabic": "قَالَ لِي أَنْ آخُذَ الدَّوَاءَ مَرَّتَيْنِ فِي الْيَوْمِ بَعْدَ الْأَكْلِ.",
       "translation": "Rekao mi je da uzimam lijek dva puta dnevno nakon jela.",
-      "translationEn": "He told me to take the medicine twice a day after eating."
+      "translationEn": "He told me to take the medicine twice a day after eating.",
+      "words": []
     }
   ],
   "metadata": {

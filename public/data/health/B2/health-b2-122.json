@@ -6,17 +6,25 @@
     {
       "arabic": "الْمَشْيُ كُلَّ صَبَاحٍ يُسَاعِدُ عَلَى تَحْسِينِ الْمِزَاجِ وَتَقْوِيَةِ الْقَلْبِ.",
       "translation": "Šetnja svako jutro pomaže u poboljšanju raspoloženja i jačanju srca.",
-      "translationEn": "Walking every morning helps improve the mood and strengthen the heart."
+      "translationEn": "Walking every morning helps improve the mood and strengthen the heart.",
+      "words": []
     },
     {
       "arabic": "أَذْهَبُ إِلَى الْحَدِيقَةِ لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً كُلَّ يَوْمٍ.",
       "translation": "Idem u park na trideset minuta svaki dan.",
-      "translationEn": "I go to the park for thirty minutes every day."
+      "translationEn": "I go to the park for thirty minutes every day.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        }
+      ]
     },
     {
       "arabic": "الرِّيَاضَةُ الْمُنْتَظَمَةُ تَحْمِينَا مِنْ أَمْرَاضٍ كَثِيرَةٍ.",
       "translation": "Redovno vježbanje nas štiti od mnogih bolesti.",
-      "translationEn": "Regular exercise protects us from many diseases."
+      "translationEn": "Regular exercise protects us from many diseases.",
+      "words": []
     }
   ],
   "metadata": {

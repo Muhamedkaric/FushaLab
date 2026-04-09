@@ -6,22 +6,36 @@
     {
       "arabic": "ذَهَبَ سَمِيرٌ إِلَى مُقَابَلَةِ عَمَلٍ جَدِيدَةٍ صَبَاحَ الْيَوْمِ.",
       "translation": "Samir je jutros otišao na razgovor za novi posao.",
-      "translationEn": "Samir went to a new job interview this morning."
+      "translationEn": "Samir went to a new job interview this morning.",
+      "words": []
     },
     {
       "arabic": "لَبِسَ مَلَابِسَ رَسْمِيَّةً وَحَمَلَ سِيرَتَهُ الذَّاتِيَّةَ.",
       "translation": "Obukao je formalnu odjeću i ponio svoj CV.",
-      "translationEn": "He wore formal clothes and carried his CV."
+      "translationEn": "He wore formal clothes and carried his CV.",
+      "words": []
     },
     {
       "arabic": "كَانَ الْمُدِيرُ لَطِيفًا وَسَأَلَهُ عَنْ خِبْرَاتِهِ السَّابِقَةِ.",
       "translation": "Direktor je bio ljubazan i pitao ga je o njegovim prethodnim iskustvima.",
-      "translationEn": "The manager was kind and asked him about his previous experiences."
+      "translationEn": "The manager was kind and asked him about his previous experiences.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "شَعَرَ سَمِيرٌ بِالثِّقَةِ لِأَنَّهُ اسْتَعَدَّ جَيِّدًا.",
       "translation": "Samir se osjećao samouvjereno jer se dobro pripremio.",
-      "translationEn": "Samir felt confident because he prepared well."
+      "translationEn": "Samir felt confident because he prepared well.",
+      "words": [
+        {
+          "w": "لِأَنَّهُ",
+          "lemma": "لِأَنَّ"
+        }
+      ]
     }
   ],
   "metadata": {

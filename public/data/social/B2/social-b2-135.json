@@ -6,17 +6,30 @@
     {
       "arabic": "فِي هَذِهِ الْأَيَّامِ، نَقْرَأُ الْأَخْبَارَ عَلَى الْمَوَاقِعِ الْإِخْبَارِيَّةِ وَتَطْبِيقَاتِ الْهَاتِفِ.",
       "translation": "Ovih dana čitamo vijesti na informativnim stranicama i aplikacijama na telefonu.",
-      "translationEn": "These days, we read news on news sites and phone applications."
+      "translationEn": "These days, we read news on news sites and phone applications.",
+      "words": []
     },
     {
       "arabic": "تَنْتَشِرُ الْمَعْلُومَاتُ بِسُرْعَةٍ كَبِيرَةٍ عَبْرَ الْعَالَمِ بِفَضْلِ الْإِنْتِرْنِتِ.",
       "translation": "Informacije se šire veoma brzo širom svijeta zahvaljujući internetu.",
-      "translationEn": "Information spreads very quickly across the world thanks to the internet."
+      "translationEn": "Information spreads very quickly across the world thanks to the internet.",
+      "words": [
+        {
+          "w": "عَبْرَ",
+          "lemma": "عَبْرَ"
+        }
+      ]
     },
     {
       "arabic": "يَجِبُ عَلَيْنَا التَّأَكُّدُ مِنْ مَصْدَرِ الْخَبَرِ قَبْلَ تَصْدِيقِهِ.",
       "translation": "Moramo provjeriti izvor vijesti prije nego što u nju povjerujemo.",
-      "translationEn": "We must verify the source of the news before believing it."
+      "translationEn": "We must verify the source of the news before believing it.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     }
   ],
   "metadata": {

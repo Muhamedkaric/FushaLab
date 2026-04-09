@@ -6,27 +6,37 @@
     {
       "arabic": "أَوْقَفْتُ سَيَّارَةَ الْأُجْرَةِ وَطَلَبْتُ مِنَ السَّائِقِ أَنْ يَأْخُذَنِي إِلَى الْمَطَارِ.",
       "translation": "Zaustavio sam taksi i zamolио vozača da me odveze na aerodrom.",
-      "translationEn": "I stopped a taxi and asked the driver to take me to the airport."
+      "translationEn": "I stopped a taxi and asked the driver to take me to the airport.",
+      "words": []
     },
     {
       "arabic": "سَأَلْتُهُ كَمْ تَكُونُ أُجْرَةُ الرِّحْلَةِ.",
       "translation": "Pitao sam ga kolika je cijena vožnje.",
-      "translationEn": "I asked him how much the fare would be."
+      "translationEn": "I asked him how much the fare would be.",
+      "words": [
+        {
+          "w": "تَكُونُ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "قَالَ إِنَّ الطَّرِيقَ مُزْدَحِمَةٌ وَقَدْ تَسْتَغْرِقُ نِصْفَ سَاعَةٍ.",
       "translation": "Rekao je da je cesta zakrčena i da bi moglo potrajati pola sata.",
-      "translationEn": "He said the road is busy and it might take half an hour."
+      "translationEn": "He said the road is busy and it might take half an hour.",
+      "words": []
     },
     {
       "arabic": "جَلَسْتُ فِي الْمَقْعَدِ الْخَلْفِيِّ وَرَبَطْتُ حِزَامَ الْأَمَانِ.",
       "translation": "Sjeo sam na zadnje sjedište i vezao sigurnosni pojas.",
-      "translationEn": "I sat in the back seat and fastened my seatbelt."
+      "translationEn": "I sat in the back seat and fastened my seatbelt.",
+      "words": []
     },
     {
       "arabic": "وَصَلْنَا إِلَى الْمَطَارِ فِي الْوَقْتِ الْمُنَاسِبِ.",
       "translation": "Stigli smo na aerodrom na vrijeme.",
-      "translationEn": "We arrived at the airport in good time."
+      "translationEn": "We arrived at the airport in good time.",
+      "words": []
     }
   ],
   "metadata": {

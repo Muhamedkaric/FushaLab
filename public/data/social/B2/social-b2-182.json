@@ -6,22 +6,40 @@
     {
       "arabic": "الْخُصُوصِيَّةُ مُهِمَّةٌ جِدًّا عِنْدَمَا نَسْتَخْدِمُ الْإِنْتَرْنِتَ.",
       "translation": "Privatnost je veoma važna kada koristimo internet.",
-      "translationEn": "Privacy is very important when we use the internet."
+      "translationEn": "Privacy is very important when we use the internet.",
+      "words": [
+        {
+          "w": "جِدًّا",
+          "lemma": "جِدًّا"
+        },
+        {
+          "w": "عِنْدَمَا",
+          "lemma": "عِنْدَمَا"
+        }
+      ]
     },
     {
       "arabic": "يَجِبُ أَلَّا نُشَارِكَ مَعْلُومَاتِنَا الشَّخْصِيَّةَ مَعَ الْغُرَبَاءِ.",
       "translation": "Ne smijemo dijeliti naše lične informacije sa strancima.",
-      "translationEn": "We must not share our personal information with strangers."
+      "translationEn": "We must not share our personal information with strangers.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "مِنَ الْأَفْضَلِ اسْتِخْدَامُ كَلِمَاتِ مُرُورٍ قَوِيَّةٍ لِحِسَابَاتِنَا.",
       "translation": "Najbolje je koristiti jake lozinke za naše račune.",
-      "translationEn": "It is better to use strong passwords for our accounts."
+      "translationEn": "It is better to use strong passwords for our accounts.",
+      "words": []
     },
     {
       "arabic": "هَذَا يَحْمِي بَيَانَاتِنَا الْخَاصَّةَ مِنَ السَّرِقَةِ الرَّقْمِيَّةِ.",
       "translation": "Ovo štiti naše privatne podatke od digitalne krađe.",
-      "translationEn": "This protects our private data from digital theft."
+      "translationEn": "This protects our private data from digital theft.",
+      "words": []
     }
   ],
   "metadata": {

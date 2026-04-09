@@ -6,22 +6,31 @@
     {
       "arabic": "يُعْتَبَرُ الْأَمْنُ السِّيبِرَانِيُّ أَمْرًا مُهِمًّا لِحِمَايَةِ الْمَعْلُومَاتِ الشَّخْصِيَّةِ.",
       "translation": "Kibernetička sigurnost se smatra važnom za zaštitu ličnih podataka.",
-      "translationEn": "Cybersecurity is considered important for protecting personal information."
+      "translationEn": "Cybersecurity is considered important for protecting personal information.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ عَلَيْنَا اسْتِخْدَامُ كَلِمَاتِ سِرٍّ قَوِيَّةٍ لِحِسَابَاتِنَا عَلَى الْإِنْتَرْنِتِ.",
       "translation": "Moramo koristiti jake lozinke za naše račune na internetu.",
-      "translationEn": "We must use strong passwords for our accounts on the internet."
+      "translationEn": "We must use strong passwords for our accounts on the internet.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "لَا تَفْتَحْ أَيَّ رَوَابِطَ مَجْهُولَةٍ تَصِلُ إِلَى بَرِيدِكَ الْإِلِكْتُرُونِيِّ.",
       "translation": "Ne otvarajte nepoznate linkove koji stignu na vašu e-poštu.",
-      "translationEn": "Do not open any unknown links that arrive at your email."
+      "translationEn": "Do not open any unknown links that arrive at your email.",
+      "words": []
     },
     {
       "arabic": "يَعْمَلُ الْخُبَرَاءُ دَائِمًا عَلَى مَنْعِ الِاخْتِرَاقَاتِ الرَّقْمِيَّةِ.",
       "translation": "Stručnjaci stalnu rade na sprečavanju digitalnih upada.",
-      "translationEn": "Experts are always working on preventing digital breaches."
+      "translationEn": "Experts are always working on preventing digital breaches.",
+      "words": []
     }
   ],
   "metadata": {

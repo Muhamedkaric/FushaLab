@@ -6,17 +6,39 @@
     {
       "arabic": "زُرْتُ السُّوقَ الْقَدِيمَةَ يَوْمَ أَمْسِ فِي وَسَطِ الْمَدِينَةِ.",
       "translation": "Juče sam posjetio staru pijacu u centru grada.",
-      "translationEn": "I visited the old market yesterday in the city center."
+      "translationEn": "I visited the old market yesterday in the city center.",
+      "words": [
+        {
+          "w": "وَسَطِ",
+          "lemma": "وَسَطٌ / أَوْسَاطٌ"
+        }
+      ]
     },
     {
       "arabic": "كَانَتْ رَائِحَةُ التَّوَابِلِ مِثْلَ الْكَمُّونِ وَالْقِرْفَةِ فِي كُلِّ مَكَانٍ.",
       "translation": "Miris začina poput kumina i cimeta bio je svuda.",
-      "translationEn": "The smell of spices like cumin and cinnamon was everywhere."
+      "translationEn": "The smell of spices like cumin and cinnamon was everywhere.",
+      "words": [
+        {
+          "w": "كَانَتْ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "كُلِّ",
+          "lemma": "كُلٌّ"
+        }
+      ]
     },
     {
       "arabic": "اشْتَرَيْتُ بَعْضَ الزَّعْفَرَانِ الطَّازَجِ لِوَصْفَةِ الدَّجَاجِ.",
       "translation": "Kupio sam malo svježeg šafrana za recept sa piletinom.",
-      "translationEn": "I bought some fresh saffron for the chicken recipe."
+      "translationEn": "I bought some fresh saffron for the chicken recipe.",
+      "words": [
+        {
+          "w": "بَعْضَ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     }
   ],
   "metadata": {

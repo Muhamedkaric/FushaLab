@@ -6,22 +6,40 @@
     {
       "arabic": "الْمَشْيُ رِيَاضَةٌ بَسِيطَةٌ وَمُفِيدَةٌ لِلْقَلْبِ.",
       "translation": "Hodanje je jednostavan sport i korisno je za srce.",
-      "translationEn": "Walking is a simple sport and is beneficial for the heart."
+      "translationEn": "Walking is a simple sport and is beneficial for the heart.",
+      "words": []
     },
     {
       "arabic": "أَمْشِي ثَلَاثِينَ دَقِيقَةً كُلَّ صَبَاحٍ فِي الْحَدِيقَةِ الْعَامَّةِ.",
       "translation": "Hodam trideset minuta svako jutro u javnom parku.",
-      "translationEn": "I walk for thirty minutes every morning in the public park."
+      "translationEn": "I walk for thirty minutes every morning in the public park.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        },
+        {
+          "w": "كُلَّ",
+          "lemma": "كُلٌّ"
+        }
+      ]
     },
     {
       "arabic": "تُسَاعِدُنِي هَذِهِ الْعَادَةُ عَلَى فُقْدَانِ الْوَزْنِ وَالشُّعُورِ بِالنَّشَاطِ.",
       "translation": "Ova navika mi pomaže da izgubim kilograme i da se osjećam aktivno.",
-      "translationEn": "This habit helps me lose weight and feel energetic."
+      "translationEn": "This habit helps me lose weight and feel energetic.",
+      "words": []
     },
     {
       "arabic": "مِنَ الْأَفْضَلِ ارْتِدَاءُ حِذَاءٍ مُرِيحٍ أَثْنَاءَ الْمَشْيِ.",
       "translation": "Najbolje je nositi udobnu obuću tokom hodanja.",
-      "translationEn": "It is best to wear comfortable shoes during walking."
+      "translationEn": "It is best to wear comfortable shoes during walking.",
+      "words": [
+        {
+          "w": "أَثْنَاءَ",
+          "lemma": "أَثْنَاءُ"
+        }
+      ]
     }
   ],
   "metadata": {

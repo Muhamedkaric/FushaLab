@@ -6,22 +6,45 @@
     {
       "arabic": "التَّعَاوُنُ بَيْنَ الْمُوَظَّفِينَ يُؤَدِّي إِلَى النَّجَاحِ.",
       "translation": "Saradnja među zaposlenima vodi do uspjeha.",
-      "translationEn": "Cooperation between employees leads to success."
+      "translationEn": "Cooperation between employees leads to success.",
+      "words": []
     },
     {
       "arabic": "نَحْنُ نَعْمَلُ كَفَرِيقٍ وَاحِدٍ لِتَحْقِيقِ أَهْدَافِ الشَّرِكَةِ.",
       "translation": "Radimo kao jedan tim kako bismo ostvarili ciljeve kompanije.",
-      "translationEn": "We work as one team to achieve the company's goals."
+      "translationEn": "We work as one team to achieve the company's goals.",
+      "words": [
+        {
+          "w": "وَاحِدٍ",
+          "lemma": "وَاحِدٌ"
+        }
+      ]
     },
     {
       "arabic": "يُسَاعِدُ كُلُّ شَخْصٍ زَمِيلَهُ عِنْدَ وُجُودِ صُعُوبَةٍ.",
       "translation": "Svaka osoba pomaže svom kolegi kada postoji poteškoća.",
-      "translationEn": "Each person helps their colleague when there is a difficulty."
+      "translationEn": "Each person helps their colleague when there is a difficulty.",
+      "words": [
+        {
+          "w": "كُلُّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        }
+      ]
     },
     {
       "arabic": "هَذَا الرُّوحُ الْجَمَاعِيُّ يَجْعَلُ الْبِيئَةَ مُرِيحَةً لِلْجَمِيعِ.",
       "translation": "Ovaj kolektivni duh čini okruženje ugodnim za sve.",
-      "translationEn": "This collective spirit makes the environment comfortable for everyone."
+      "translationEn": "This collective spirit makes the environment comfortable for everyone.",
+      "words": [
+        {
+          "w": "لِلْجَمِيعِ",
+          "lemma": "جَمِيعٌ"
+        }
+      ]
     }
   ],
   "metadata": {

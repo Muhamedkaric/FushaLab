@@ -6,17 +6,25 @@
     {
       "arabic": "يَتَعَاوَنُ الْمُوَظَّفُونَ فِي الشَّرِكَةِ لِإِنْجَازِ الْمَشْرُوعِ.",
       "translation": "Zaposlenici u firmi sarađuju kako bi završili projekat.",
-      "translationEn": "The employees in the company cooperate to complete the project."
+      "translationEn": "The employees in the company cooperate to complete the project.",
+      "words": []
     },
     {
       "arabic": "يُقَدِّمُ كُلُّ فَرْدٍ أَفْكَارًا مُفِيدَةً خِلَالَ الِاجْتِمَاعِ.",
       "translation": "Svaki pojedinac iznosi korisne ideje tokom sastanka.",
-      "translationEn": "Each individual presents useful ideas during the meeting."
+      "translationEn": "Each individual presents useful ideas during the meeting.",
+      "words": [
+        {
+          "w": "كُلُّ",
+          "lemma": "كُلٌّ"
+        }
+      ]
     },
     {
       "arabic": "النَّجَاحُ يَعْتَمِدُ عَلَى التَّنْسِيقِ الْجَيِّدِ بَيْنَ الْجَمِيعِ.",
       "translation": "Uspjeh zavisi od dobre koordinacije između svih.",
-      "translationEn": "Success depends on good coordination between everyone."
+      "translationEn": "Success depends on good coordination between everyone.",
+      "words": []
     }
   ],
   "metadata": {

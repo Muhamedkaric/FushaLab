@@ -6,17 +6,25 @@
     {
       "arabic": "ذَهَبَ أَحْمَدُ إِلَى الصَّيْدَلِيَّةِ لِشِرَاءِ بَعْضِ الدَّوَاءِ.",
       "translation": "Ahmed je otišao u apoteku da kupi neki lijek.",
-      "translationEn": "Ahmad went to the pharmacy to buy some medicine."
+      "translationEn": "Ahmad went to the pharmacy to buy some medicine.",
+      "words": [
+        {
+          "w": "بَعْضِ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "شَرَحَ الصَّيْدَلِيُّ كَيْفِيَّةَ اسْتِخْدَامِ العِلَاجِ بِشَكْلٍ صَحِيحٍ.",
       "translation": "Apotekar je objasnio kako se pravilno koristi terapija.",
-      "translationEn": "The pharmacist explained how to use the treatment correctly."
+      "translationEn": "The pharmacist explained how to use the treatment correctly.",
+      "words": []
     },
     {
       "arabic": "مِنَ الضَّرُورِيِّ اتِّبَاعُ تَعْلِيمَاتِ الطَّبِيبِ بِدِقَّةٍ.",
       "translation": "Neophodno je precizno slijediti ljekarska uputstva.",
-      "translationEn": "It is necessary to follow the doctor's instructions accurately."
+      "translationEn": "It is necessary to follow the doctor's instructions accurately.",
+      "words": []
     }
   ],
   "metadata": {

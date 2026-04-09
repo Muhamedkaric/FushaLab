@@ -6,17 +6,30 @@
     {
       "arabic": "شَعَرَ أَخِي بِصُدَاعٍ، لِذَلِكَ ذَهَبَ إِلَى الصَّيْدَلِيَّةِ.",
       "translation": "Moj brat je osjetio glavobolju, pa je otišao u apoteku.",
-      "translationEn": "My brother felt a headache, so he went to the pharmacy."
+      "translationEn": "My brother felt a headache, so he went to the pharmacy.",
+      "words": []
     },
     {
       "arabic": "أَعْطَاهُ الصَّيْدَلِيُّ بَعْضَ الدَّوَاءِ وَشَرَحَ لَهُ طَرِيقَةَ اسْتِعْمَالِهِ.",
       "translation": "Apotekar mu je dao lijek i objasnio mu kako da ga koristi.",
-      "translationEn": "The pharmacist gave him some medicine and explained how to use it."
+      "translationEn": "The pharmacist gave him some medicine and explained how to use it.",
+      "words": [
+        {
+          "w": "بَعْضَ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "طَلَبَ مِنْهُ أَنْ يَرْتَاحَ قَلِيلًا وَيَشْرَبَ الْكَثِيرَ مِنَ الْمَاءِ.",
       "translation": "Zamolio ga je da se malo odmori i pije puno vode.",
-      "translationEn": "He asked him to rest for a while and drink plenty of water."
+      "translationEn": "He asked him to rest for a while and drink plenty of water.",
+      "words": [
+        {
+          "w": "قَلِيلًا",
+          "lemma": "قَلِيلٌ"
+        }
+      ]
     }
   ],
   "metadata": {

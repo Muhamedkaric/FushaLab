@@ -6,17 +6,25 @@
     {
       "arabic": "شُرْبُ الْمَاءِ هُوَ سِرُّ الْبَشَرَةِ الصِّحِّيَّةِ وَالْجِسْمِ الْقَوِيِّ.",
       "translation": "Pijenje vode je tajna zdrave kože i jakog tijela.",
-      "translationEn": "Drinking water is the secret to healthy skin and a strong body."
+      "translationEn": "Drinking water is the secret to healthy skin and a strong body.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ أَنْ تَشْرَبَ لِتْرَيْنِ مِنَ الْمَاءِ يَوْمِيًّا عَلَى الْأَقَلِّ.",
       "translation": "Trebaš piti najmanje dvije litre vode dnevno.",
-      "translationEn": "You should drink at least two liters of water daily."
+      "translationEn": "You should drink at least two liters of water daily.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "الْمَاءُ يُنَظِّفُ الْجِسْمَ مِنَ السُّمُومِ وَيُحَسِّنُ عَمَلِيَّةَ الْهَضْمِ.",
       "translation": "Voda čisti tijelo od toksina i poboljšava proces probave.",
-      "translationEn": "Water cleans the body of toxins and improves the digestion process."
+      "translationEn": "Water cleans the body of toxins and improves the digestion process.",
+      "words": []
     }
   ],
   "metadata": {

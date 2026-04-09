@@ -6,27 +6,46 @@
     {
       "arabic": "فِي عَصْرِ الثَّوْرَةِ الرَّقْمِيَّةِ، أَصْبَحَ الْأَمْنُ السِّيبِرَانِيُّ رَكِيزَةً أَسَاسِيَّةً لِاسْتِقْرَارِ الْمُؤَسَّسَاتِ وَالدُّوَلِ.",
       "translation": "U eri digitalne revolucije, kibernetička sigurnost postala je osnovni stub stabilnosti institucija i država.",
-      "translationEn": "In the era of the digital revolution, cybersecurity has become a fundamental pillar for the stability of institutions and nations."
+      "translationEn": "In the era of the digital revolution, cybersecurity has become a fundamental pillar for the stability of institutions and nations.",
+      "words": []
     },
     {
       "arabic": "يَسْتَخْدِمُ الْمُخْتَرِقُونَ أَسَالِيبَ مُتَطَوِّرَةً لِاخْتِرَاقِ قَوَاعِدِ الْبَيَانَاتِ وَسَرِقَةِ الْمَعْلُومَاتِ الْحَسَّاسَةِ.",
       "translation": "Hakeri koriste sofisticirane metode za provaljivanje u baze podataka i krađu osjetljivih informacija.",
-      "translationEn": "Hackers use sophisticated methods to breach databases and steal sensitive information."
+      "translationEn": "Hackers use sophisticated methods to breach databases and steal sensitive information.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ عَلَى الشَّرِكَاتِ الِاسْتِثْمَارُ فِي بَرَامِجِ التَّشْفِيرِ الْمُتَقَدِّمَةِ لِحِمَايَةِ أَصُولِهَا مِنَ التَّهْدِيدَاتِ الْإِلِكْتُرُونِيَّةِ.",
       "translation": "Kompanije moraju investirati u napredne softvere za enkripciju kako bi zaštitile svoju imovinu od elektronskih prijetnji.",
-      "translationEn": "Companies must invest in advanced encryption software to protect their assets from electronic threats."
+      "translationEn": "Companies must invest in advanced encryption software to protect their assets from electronic threats.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "إِنَّ تَوْعِيَةَ الْمُوَظَّفِينَ بِمَخَاطِرِ الِاحْتِيَالِ الرَّقْمِيِّ تُعَدُّ خُطْوَةً فَعَّالَةً فِي تَقْلِيلِ نِسْبَةِ الِاخْتِرَاقَاتِ.",
       "translation": "Podizanje svijesti zaposlenika o rizicima digitalne prevare smatra se efikasnim korakom u smanjenju stope upada u sisteme.",
-      "translationEn": "Raising employee awareness about the risks of digital fraud is an effective step in reducing the rate of breaches."
+      "translationEn": "Raising employee awareness about the risks of digital fraud is an effective step in reducing the rate of breaches.",
+      "words": []
     },
     {
       "arabic": "وَفِي النِّهَايَةِ، لَيْسَ الْأَمْنُ الرَّقْمِيُّ مُجَرَّدَ مَسْأَلَةٍ تَقْنِيَّةٍ، بَلْ هُوَ ثَقَافَةٌ شَامِلَةٌ يَنْبَغِي لِلْجَمِيعِ تَبَنِّيهَا.",
       "translation": "Na kraju, digitalna sigurnost nije samo tehničko pitanje, već sveobuhvatna kultura koju svi trebaju usvojiti.",
-      "translationEn": "Ultimately, digital security is not just a technical matter, but a comprehensive culture that everyone should adopt."
+      "translationEn": "Ultimately, digital security is not just a technical matter, but a comprehensive culture that everyone should adopt.",
+      "words": [
+        {
+          "w": "لَيْسَ",
+          "lemma": "لَيْسَ"
+        },
+        {
+          "w": "لِلْجَمِيعِ",
+          "lemma": "جَمِيعٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,17 +6,25 @@
     {
       "arabic": "التَّمَارِينُ الرِّيَاضِيَّةُ الْمُنْتَظِمَةُ تُقَوِّي الْعَضَلَاتِ وَالْقَلْبَ.",
       "translation": "Redovno vježbanje jača mišiće i srce.",
-      "translationEn": "Regular exercise strengthens the muscles and the heart."
+      "translationEn": "Regular exercise strengthens the muscles and the heart.",
+      "words": []
     },
     {
       "arabic": "أَذْهَبُ إِلَى الْحَدِيقَةِ كُلَّ صَبَاحٍ لِلْمَشْيِ لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً.",
       "translation": "Svako jutro idem u park kako bih šetao trideset minuta.",
-      "translationEn": "I go to the park every morning to walk for thirty minutes."
+      "translationEn": "I go to the park every morning to walk for thirty minutes.",
+      "words": [
+        {
+          "w": "ثَلَاثِينَ",
+          "lemma": "ثَلَاثُونَ"
+        }
+      ]
     },
     {
       "arabic": "الرِّيَاضَةُ تَجْعَلُنِي أَشْعُرُ بِالسَّعَادَةِ وَتُقَلِّلُ مِنَ التَّوَتُّرِ.",
       "translation": "Vježbanje čini da se osjećam sretno i smanjuje stres.",
-      "translationEn": "Exercise makes me feel happy and reduces stress."
+      "translationEn": "Exercise makes me feel happy and reduces stress.",
+      "words": []
     }
   ],
   "metadata": {

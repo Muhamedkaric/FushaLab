@@ -6,17 +6,25 @@
     {
       "arabic": "غَسْلُ الْيَدَيْنِ بِالْمَاءِ وَالصَّابُونِ عَادَةٌ أَسَاسِيَّةٌ لِلْوِقَايَةِ مِنَ الْجَرَاثِيمِ.",
       "translation": "Pranje ruku sapunom i vodom je osnovna navika za prevenciju klica.",
-      "translationEn": "Washing hands with soap and water is a basic habit for preventing germs."
+      "translationEn": "Washing hands with soap and water is a basic habit for preventing germs.",
+      "words": []
     },
     {
       "arabic": "يَجِبُ أَنْ نَغْسِلَ أَيْدِيَنَا قَبْلَ الطَّعَامِ وَبَعْدَ الْعَوْدَةِ إِلَى الْمَنْزِلِ.",
       "translation": "Moramo prati ruke prije jela i nakon povratka kući.",
-      "translationEn": "We must wash our hands before eating and after returning home."
+      "translationEn": "We must wash our hands before eating and after returning home.",
+      "words": [
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "هَذِهِ الْعَادَةُ الْبَسِيطَةُ تَحْفَظُ الْعَائِلَةَ كُلَّهَا مِنَ الْعَدْوَى.",
       "translation": "Ova jednostavna navika čuva cijelu porodicu od infekcija.",
-      "translationEn": "This simple habit keeps the whole family safe from infections."
+      "translationEn": "This simple habit keeps the whole family safe from infections.",
+      "words": []
     }
   ],
   "metadata": {

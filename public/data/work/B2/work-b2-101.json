@@ -6,22 +6,31 @@
     {
       "arabic": "ذَهَبَ أَحْمَدُ إِلَى مُقَابَلَةِ عَمَلٍ جَدِيدَةٍ صَبَاحَ الْيَوْمِ.",
       "translation": "Ahmed je jutros otišao na razgovor za novi posao.",
-      "translationEn": "Ahmed went to a new job interview this morning."
+      "translationEn": "Ahmed went to a new job interview this morning.",
+      "words": []
     },
     {
       "arabic": "كَانَ يَرْتَدِي مَلَابِسَ رَسْمِيَّةً وَيَشْعُرُ بِالْحَمَاسِ.",
       "translation": "Nosio je formalnu odjeću i osjećao se uzbuđeno.",
-      "translationEn": "He was wearing formal clothes and felt excited."
+      "translationEn": "He was wearing formal clothes and felt excited.",
+      "words": [
+        {
+          "w": "كَانَ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "أَجَابَ عَنِ الْأَسْئِلَةِ بِثِقَةٍ وَتَحَدَّثَ عَنْ مَهَارَاتِهِ.",
       "translation": "Samouvjereno je odgovarao na pitanja i pričao o svojim vještinama.",
-      "translationEn": "He answered the questions confidently and talked about his skills."
+      "translationEn": "He answered the questions confidently and talked about his skills.",
+      "words": []
     },
     {
       "arabic": "فِي النِّهَايَةِ، شَكَرَ الْمُدِيرَ عَلَى هَذِهِ الْفُرْصَةِ.",
       "translation": "Na kraju se zahvalio direktoru na ovoj prilici.",
-      "translationEn": "In the end, he thanked the manager for this opportunity."
+      "translationEn": "In the end, he thanked the manager for this opportunity.",
+      "words": []
     }
   ],
   "metadata": {

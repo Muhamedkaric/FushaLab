@@ -6,22 +6,31 @@
     {
       "arabic": "ذَهَبْتُ الْيَوْمَ إِلَى مُقَابَلَةِ عَمَلٍ جَدِيدَةٍ فِي شَرِكَةٍ كَبِيرَةٍ.",
       "translation": "Danas sam otišao na novi razgovor za posao u velikoj firmi.",
-      "translationEn": "I went to a new job interview at a big company today."
+      "translationEn": "I went to a new job interview at a big company today.",
+      "words": []
     },
     {
       "arabic": "سَأَلَنِي الْمُدِيرُ عَنْ خِبْرَاتِي السَّابِقَةِ وَمَهَارَاتِي الْمِهْنِيَّةِ.",
       "translation": "Direktor me je pitao o mojim prethodnim iskustvima i profesionalnim vještinama.",
-      "translationEn": "The manager asked me about my previous experiences and professional skills."
+      "translationEn": "The manager asked me about my previous experiences and professional skills.",
+      "words": []
     },
     {
       "arabic": "كُنْتُ وَاثِقاً مِنْ نَفْسِي وَأَجَبْتُ عَنْ جَمِيعِ الْأَسْئِلَةِ بِهُدُوءٍ.",
       "translation": "Bio sam samouvjeren i smireno sam odgovorio na sva pitanja.",
-      "translationEn": "I was confident and answered all the questions calmly."
+      "translationEn": "I was confident and answered all the questions calmly.",
+      "words": [
+        {
+          "w": "كُنْتُ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "آمُلُ أَنْ أَحْصُلَ عَلَى هَذِهِ الْوَظِيفَةِ قَرِيباً.",
       "translation": "Nadam se da ću uskoro dobiti ovaj posao.",
-      "translationEn": "I hope to get this job soon."
+      "translationEn": "I hope to get this job soon.",
+      "words": []
     }
   ],
   "metadata": {

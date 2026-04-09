@@ -6,27 +6,42 @@
     {
       "arabic": "مَرِضْتُ قَلِيلًا فِي مُنْتَصَفِ رِحْلَتِي وَاحْتَجْتُ إِلَى طَبِيبٍ.",
       "translation": "Malo sam se razbolio usred putovanja i trebao mi je liječnik.",
-      "translationEn": "I fell slightly ill in the middle of my trip and needed a doctor."
+      "translationEn": "I fell slightly ill in the middle of my trip and needed a doctor.",
+      "words": [
+        {
+          "w": "قَلِيلًا",
+          "lemma": "قَلِيلٌ"
+        }
+      ]
     },
     {
       "arabic": "سَأَلْتُ فِي الْفُنْدُقِ عَنْ أَقْرَبِ عِيَادَةٍ.",
       "translation": "Upitao sam u hotelu za najbližu ambulantu.",
-      "translationEn": "I asked at the hotel about the nearest clinic."
+      "translationEn": "I asked at the hotel about the nearest clinic.",
+      "words": []
     },
     {
       "arabic": "ذَهَبْتُ إِلَى الطَّبِيبِ وَشَرَحْتُ لَهُ أَعْرَاضِيَ بِالْإِنْجِلِيزِيَّةِ.",
       "translation": "Otišao sam kod doktora i objasnio mu simptome na engleskom.",
-      "translationEn": "I went to the doctor and described my symptoms in English."
+      "translationEn": "I went to the doctor and described my symptoms in English.",
+      "words": []
     },
     {
       "arabic": "كَتَبَ لِيَ وَصْفَةً وَذَهَبْتُ إِلَى الصَّيْدَلِيَّةِ لِشِرَاءِ الدَّوَاءِ.",
       "translation": "Napisao mi je recept i otišao sam u apoteku kupiti lijek.",
-      "translationEn": "He wrote me a prescription and I went to the pharmacy to buy the medicine."
+      "translationEn": "He wrote me a prescription and I went to the pharmacy to buy the medicine.",
+      "words": []
     },
     {
       "arabic": "بَعْدَ يَوْمٍ وَاحِدٍ تَحَسَّنَتْ حَالَتِي وَاصْطَلَحْتُ رِحْلَتِي.",
       "translation": "Nakon jednog dana moje stanje se popravilo i nastavio sam putovanje.",
-      "translationEn": "After one day my condition improved and I continued my journey."
+      "translationEn": "After one day my condition improved and I continued my journey.",
+      "words": [
+        {
+          "w": "وَاحِدٍ",
+          "lemma": "وَاحِدٌ"
+        }
+      ]
     }
   ],
   "metadata": {

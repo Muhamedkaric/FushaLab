@@ -6,27 +6,46 @@
     {
       "arabic": "يُعَدُّ تَعَلُّمُ مَبَادِئِ الْإِسْعَافَاتِ الْأَوَّلِيَّةِ مَهَارَةً حَيَوِيَّةً قَدْ تُنْقِذُ حَيَاةَ إِنْسَانٍ فِي اللَّحَظَاتِ الْحَرِجَةِ.",
       "translation": "Učenje principa prve pomoći smatra se vitalnom vještinom koja može spasiti ljudski život u kritičnim trenucima.",
-      "translationEn": "Learning the principles of first aid is a vital skill that may save a person's life in critical moments."
+      "translationEn": "Learning the principles of first aid is a vital skill that may save a person's life in critical moments.",
+      "words": []
     },
     {
       "arabic": "عِنْدَ حُدُوثِ حَرْقٍ بَسِيطٍ، يَجِبُ تَبْرِيدُ الْمِنْطَقَةِ الْمُصَابَةِ بِالْمَاءِ الْجَارِي لِتَخْفِيفِ الْأَلَمِ وَمَنْعِ التَّوَرُّمِ.",
       "translation": "Kada dođe do blage opekotine, zahvaćeno područje se mora ohladiti tekućom vodom kako bi se ublažio bol i spriječilo oticanje.",
-      "translationEn": "When a minor burn occurs, the affected area must be cooled with running water to alleviate pain and prevent swelling."
+      "translationEn": "When a minor burn occurs, the affected area must be cooled with running water to alleviate pain and prevent swelling.",
+      "words": [
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        },
+        {
+          "w": "يَجِبُ",
+          "lemma": "وَجَبَ يَجِبُ"
+        }
+      ]
     },
     {
       "arabic": "مِنَ الضَّرُورِيِّ تَوَفُّرُ حَقِيبَةِ إِسْعَافَاتٍ فِي الْمَنْزِلِ لِلتَّعَامُلِ السَّرِيعِ مَعَ الْجُرُوحِ وَالْإِصَابَاتِ الطَّارِئَةِ.",
       "translation": "Neophodno je imati komplet prve pomoći kod kuće za brzu intervenciju kod rana i hitnih povreda.",
-      "translationEn": "It is necessary to have a first aid kit at home for quick dealing with wounds and emergency injuries."
+      "translationEn": "It is necessary to have a first aid kit at home for quick dealing with wounds and emergency injuries.",
+      "words": []
     },
     {
       "arabic": "فِي حَالَةِ النَّزِيفِ الشَّدِيدِ، يَنْبَغِي الضَّغْطُ عَلَى مَكَانِ الْجُرْحِ حَتَّى تَصِلَ فِرَقُ الطَّوَارِئِ الطِّبِّيَّةِ.",
       "translation": "U slučaju jakog krvarenja, treba pritisnuti mjesto rane dok ne stignu ekipe hitne medicinske pomoći.",
-      "translationEn": "In case of severe bleeding, pressure should be applied to the wound site until medical emergency teams arrive."
+      "translationEn": "In case of severe bleeding, pressure should be applied to the wound site until medical emergency teams arrive.",
+      "words": []
     },
     {
       "arabic": "تُسَاهِمُ الدَّوْرَاتُ التَّدْرِيبِيَّةُ فِي مَنْحِ الْأَفْرَادِ الثِّقَةَ لِلتَّصَرُّفِ بِحِكْمَةٍ وَهُدُوءٍ أَثْنَاءَ الْأَزَمَاتِ الصِّحِّيَّةِ.",
       "translation": "Obuke doprinose davanju samopouzdanja pojedincima da postupaju mudro i smireno tokom zdravstvenih kriza.",
-      "translationEn": "Training courses contribute to giving individuals the confidence to act wisely and calmly during health crises."
+      "translationEn": "Training courses contribute to giving individuals the confidence to act wisely and calmly during health crises.",
+      "words": [
+        {
+          "w": "أَثْنَاءَ",
+          "lemma": "أَثْنَاءُ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,36 @@
     {
       "arabic": "شَعَرْتُ بِصُدَاعٍ شَدِيدٍ أَمْسِ فَذَهَبْتُ إِلَى الصَّيْدَلِيَّةِ.",
       "translation": "Jučer sam osjetio jaku glavobolju, pa sam otišao u apoteku.",
-      "translationEn": "Yesterday, I felt a severe headache, so I went to the pharmacy."
+      "translationEn": "Yesterday, I felt a severe headache, so I went to the pharmacy.",
+      "words": []
     },
     {
       "arabic": "أَعْطَانِي الصَّيْدَلَانِيُّ بَعْضَ الدَّوَاءِ وَشَرَحَ لِي التَّعْلِيمَاتِ.",
       "translation": "Farmaceut mi je dao lijek i objasnio mi upute.",
-      "translationEn": "The pharmacist gave me some medicine and explained the instructions to me."
+      "translationEn": "The pharmacist gave me some medicine and explained the instructions to me.",
+      "words": [
+        {
+          "w": "بَعْضَ",
+          "lemma": "بَعْضٌ"
+        }
+      ]
     },
     {
       "arabic": "تَنَاوَلْتُ الدَّوَاءَ بَعْدَ العَشَاءِ وَنِمْتُ بَاكِرًا.",
       "translation": "Popio sam lijek nakon večere i rano zaspao.",
-      "translationEn": "I took the medicine after dinner and went to sleep early."
+      "translationEn": "I took the medicine after dinner and went to sleep early.",
+      "words": []
     },
     {
       "arabic": "اليَوْمَ، أَشْعُرُ بِتَحَسُّنٍ كَبِيرٍ مُقَارَنَةً بِأَمْسِ.",
       "translation": "Danas se osjećam mnogo bolje u poređenju sa jučerašnjim danom.",
-      "translationEn": "Today, I feel much better compared to yesterday."
+      "translationEn": "Today, I feel much better compared to yesterday.",
+      "words": [
+        {
+          "w": "اليَوْمَ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        }
+      ]
     }
   ],
   "metadata": {

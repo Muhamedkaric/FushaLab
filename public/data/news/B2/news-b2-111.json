@@ -6,27 +6,42 @@
     {
       "arabic": "بَنَتِ الْمَدِينَةُ مَدْرَسَةً جَدِيدَةً فِي الْحَيِّ الشَّمَالِيِّ.",
       "translation": "Grad je sagradio novu školu u sjevernoj četvrti.",
-      "translationEn": "The city has built a new school in the northern district."
+      "translationEn": "The city has built a new school in the northern district.",
+      "words": []
     },
     {
       "arabic": "تَضُمُّ الْمَدْرَسَةُ عِشْرِينَ فَصْلًا دِرَاسِيًّا وَمَكْتَبَةً كَبِيرَةً.",
       "translation": "Škola ima dvadeset učionica i veliku biblioteku.",
-      "translationEn": "The school has twenty classrooms and a large library."
+      "translationEn": "The school has twenty classrooms and a large library.",
+      "words": [
+        {
+          "w": "عِشْرِينَ",
+          "lemma": "عِشْرُونَ"
+        }
+      ]
     },
     {
       "arabic": "سَيَدْرُسُ فِيهَا أَكْثَرُ مِنْ خَمْسِمِائَةِ طَالِبٍ وَطَالِبَةٍ.",
       "translation": "U njoj će učiti više od petsto učenika i učenica.",
-      "translationEn": "More than five hundred students will study there."
+      "translationEn": "More than five hundred students will study there.",
+      "words": []
     },
     {
       "arabic": "قَالَ مَسْؤُولُ التَّعْلِيمِ إِنَّ الْمَدْرَسَةَ سَتَفْتَحُ أَبْوَابَهَا فِي بِدَايَةِ الْعَامِ الدِّرَاسِيِّ الْقَادِمِ.",
       "translation": "Zvaničnik za obrazovanje rekao je da će škola otvoriti svoja vrata na početku naredne školske godine.",
-      "translationEn": "The education official said that the school will open its doors at the beginning of next academic year."
+      "translationEn": "The education official said that the school will open its doors at the beginning of next academic year.",
+      "words": []
     },
     {
       "arabic": "يَشْعُرُ أَهَالِي الْحَيِّ بِالسَّعَادَةِ لِأَنَّ أَطْفَالَهُمْ لَنْ يُسَافِرُوا بَعِيدًا لِلدِّرَاسَةِ.",
       "translation": "Stanovnici četvrti su sretni jer njihova djeca neće morati putovati daleko kako bi išla u školu.",
-      "translationEn": "Residents of the district are happy because their children will not have to travel far to attend school."
+      "translationEn": "Residents of the district are happy because their children will not have to travel far to attend school.",
+      "words": [
+        {
+          "w": "لِأَنَّ",
+          "lemma": "لِأَنَّ"
+        }
+      ]
     }
   ],
   "metadata": {

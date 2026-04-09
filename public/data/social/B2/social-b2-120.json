@@ -6,17 +6,39 @@
     {
       "arabic": "يَقْرَأُ النَّاسُ الْأَخْبَارَ الْيَوْمِيَّةَ عَبْرَ التَّطْبِيقَاتِ الْإِخْبَارِيَّةِ.",
       "translation": "Ljudi čitaju dnevne vijesti putem aplikacija za vijesti.",
-      "translationEn": "People read the daily news through news applications."
+      "translationEn": "People read the daily news through news applications.",
+      "words": [
+        {
+          "w": "عَبْرَ",
+          "lemma": "عَبْرَ"
+        }
+      ]
     },
     {
       "arabic": "بَعْضُ هَذِهِ الْأَخْبَارِ قَدْ تَكُونُ غَيْرَ صَحِيحَةٍ أَوْ قَدِيمَةً.",
       "translation": "Neke od ovih vijesti mogu biti netačne ili zastarjele.",
-      "translationEn": "Some of these news items might be incorrect or old."
+      "translationEn": "Some of these news items might be incorrect or old.",
+      "words": [
+        {
+          "w": "بَعْضُ",
+          "lemma": "بَعْضٌ"
+        },
+        {
+          "w": "تَكُونُ",
+          "lemma": "كَانَ يَكُونُ"
+        }
+      ]
     },
     {
       "arabic": "لِذَلِكَ، يَبْحَثُ الْقَارِئُ الذَّكِيُّ عَنِ الْمَصَادِرِ الْمَوْثُوقَةِ فَقَطْ.",
       "translation": "Zbog toga pametan čitalac traži samo pouzdane izvore.",
-      "translationEn": "Therefore, the smart reader looks for reliable sources only."
+      "translationEn": "Therefore, the smart reader looks for reliable sources only.",
+      "words": [
+        {
+          "w": "فَقَطْ",
+          "lemma": "فَقَطْ"
+        }
+      ]
     }
   ],
   "metadata": {
