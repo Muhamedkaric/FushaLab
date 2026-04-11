@@ -4,43 +4,105 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَعْتَمِدُ الْمَائِدَةُ فِي بِلَادِ الشَّامِ وَشَمَالِ إِفْرِيقِيَا بِشَكْلٍ كَبِيرٍ عَلَى زَيْتِ الزَّيْتُونِ وَالْخُضْرَوَاتِ الْمَوْسِمِيَّةِ، مِمَّا يَجْعَلُهَا مِثَالًا لِلنِّظَامِ الْغِذَائِيِّ الصِّحِّيِّ.",
+      "arabic": "تَعْتَمِدُ الْمَائِدَةُ فِي بِلَادِ الشَّامِ وَشَمَالِ إِفْرِيقِيَا بِشَكْلٍ كَبِيرٍ عَلَى زَيْتِ الزَّيْتُونِ وَالْخُضْرَوَاتِ الْمَوْسِمِيَّةِ، مِمَّا يَجْعَلُهَا مِثَالًا لِلنِّظَامِ الْغِذَائِيِّ الصِّحِّيِّ.",
       "translation": "Trpeza u Levantu i Sjevernoj Africi u velikoj mjeri se oslanja na maslinovo ulje i sezonsko povrće, što je čini primjerom zdrave ishrane.",
       "translationEn": "The table in the Levant and North Africa relies heavily on olive oil and seasonal vegetables, making it an example of a healthy diet.",
-      "words": []
-    },
-    {
-      "arabic": "يُؤَكِّدُ خُبَرَاءُ التَّغْذِيَةِ أَنَّ الِاعْتِمَادَ عَلَى الْبُقُولِيَّاتِ مِثْلَ الْحُمُّصِ وَالْعَدَسِ يُسَاهِمُ فِي تَوْفِيرِ الْبْرُوتِينَاتِ النَّبَاتِيَّةِ الضَّرُورِيَّةِ لِلْجِسْمِ.",
-      "translation": "Nutricionisti naglašavaju da oslanjanje na mahunarke poput humusa i leće doprinosi obezbjeđivanju biljnih proteina neophodnih tijelu.",
-      "translationEn": "Nutrition experts emphasize that relying on legumes such as chickpeas and lentils contributes to providing the plant proteins necessary for the body.",
-      "words": []
-    },
-    {
-      "arabic": "لَا تَخْلُو مَائِدَةٌ عَرَبِيَّةٌ مِنَ السَّلَطَةِ الْخَضْرَاءِ أَوْ التَّبُّولَةِ الَّتِي تَمْتَازُ بِغِنَاهَا بِالْفِيتَامِينَاتِ وَالْأَلْيَافِ الطَّبِيعِيَّةِ الَّتِي تُحَسِّنُ الْهَضْمَ.",
-      "translation": "Nijedna arapska trpeza nije potpuna bez zelene salate ili tabulea, koji se odlikuju bogatstvom vitamina i prirodnih vlakana koja poboljšavaju probavu.",
-      "translationEn": "No Arab table is devoid of green salad or tabbouleh, which are characterized by being rich in vitamins and natural fibers that improve digestion.",
-      "words": []
-    },
-    {
-      "arabic": "إِنَّ اِتِّبَاعَ هَذَا النَّمَطِ مِنَ الْأَكْلِ لَا يُشْبِعُ الْجُوعَ فَحَسْبُ، بَلْ يَقِي أَيْضًا مِنَ الْأَمْرَاضِ الْمُزْمِنَةِ وَيُعَزِّزُ النَّشَاطَ الْبَدَنِيَّ لَدَى الْأَفْرَادِ.",
-      "translation": "Praćenje ovog načina ishrane ne samo da utoljuje glad, već i štiti od hroničnih bolesti i podstiče fizičku aktivnost kod pojedinaca.",
-      "translationEn": "Following this pattern of eating not only satisfies hunger, but also protects against chronic diseases and enhances physical activity in individuals.",
       "words": [
-        {
-          "w": "أَيْضًا",
-          "lemma": "أَيْضًا"
-        }
+        { "w": "تَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "الْمَائِدَةُ", "lemma": "مَائِدَةٌ / مَوَائِدُ" },
+        { "w": "بِلَادِ", "lemma": "بَلَدٌ / بِلَادٌ" },
+        { "w": "الشَّامِ", "lemma": "شَامٌ" },
+        { "w": "وَشَمَالِ", "lemma": "شَمَالٌ" },
+        { "w": "إِفْرِيقِيَا", "lemma": "إِفْرِيقِيَا" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "كَبِيرٍ", "lemma": "كَبِيرٌ" },
+        { "w": "زَيْتِ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "وَالْخُضْرَوَاتِ", "lemma": "خَضْرَاوَاتٌ" },
+        { "w": "الْمَوْسِمِيَّةِ", "lemma": "مَوْسِمِيٌّ" },
+        { "w": "يَجْعَلُهَا", "lemma": "جَعَلَ يَجْعَلُ" },
+        { "w": "مِثَالًا", "lemma": "مِثَالٌ / أَمْثِلَةٌ" },
+        { "w": "لِلنِّظَامِ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "الْغِذَائِيِّ", "lemma": "غِذَائِيٌّ" },
+        { "w": "الصِّحِّيِّ", "lemma": "صِحِّيٌّ" }
       ]
     },
     {
-      "arabic": "لِذَلِكَ، يَسْعَى الْكَثِيرُونَ حَوْلَ الْعَالَمِ إِلَى اِقْتِبَاسِ هَذِهِ الْعَادَاتِ الْغِذَائِيَّةِ لِتَحْسِينِ جَوْدَةِ حَيَاتِهِمْ وَالْحِفَاظِ عَلَى رَشَاقَتِهِمْ الدَّائِمَةِ.",
+      "arabic": "يُؤَكِّدُ خُبَرَاءُ التَّغْذِيَةِ أَنَّ الِاعْتِمَادَ عَلَى الْبُقُولِيَّاتِ مِثْلَ الْحُمُّصِ وَالْعَدَسِ يُسَاهِمُ فِي تَوْفِيرِ الْبْرُوتِينَاتِ النَّبَاتِيَّةِ الضَّرُورِيَّةِ لِلْجِسْمِ.",
+      "translation": "Nutricionisti naglašavaju da oslanjanje na mahunarke poput humusa i leće doprinosi obezbjeđivanju biljnih proteina neophodnih tijelu.",
+      "translationEn": "Nutrition experts emphasize that relying on legumes such as chickpeas and lentils contributes to providing the plant proteins necessary for the body.",
+      "words": [
+        { "w": "يُؤَكِّدُ", "lemma": "أَكَّدَ يُؤَكِّدُ" },
+        { "w": "خُبَرَاءُ", "lemma": "خَبِيرٌ / خُبَرَاءُ" },
+        { "w": "التَّغْذِيَةِ", "lemma": "تَغْذِيَةٌ" },
+        { "w": "الِاعْتِمَادَ", "lemma": "اعْتِمَادٌ" },
+        { "w": "الْبُقُولِيَّاتِ", "lemma": "بُقُولِيَّاتٌ" },
+        { "w": "الْحُمُّصِ", "lemma": "حُمُّصٌ" },
+        { "w": "وَالْعَدَسِ", "lemma": "عَدَسٌ" },
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "تَوْفِيرِ", "lemma": "تَوْفِيرٌ" },
+        { "w": "الْبُرُوتِينَاتِ", "lemma": "بُرُوتِينٌ / بُرُوتِينَاتٌ" },
+        { "w": "النَّبَاتِيَّةِ", "lemma": "نَبَاتِيٌّ" },
+        { "w": "الضَّرُورِيَّةِ", "lemma": "ضَرُورِيٌّ" },
+        { "w": "لِلْجِسْمِ", "lemma": "جِسْمٌ / أَجْسَامٌ" }
+      ]
+    },
+    {
+      "arabic": "لَا تَخْلُو مَائِدَةٌ عَرَبِيَّةٌ مِنَ السَّلَطَةِ الْخَضْرَاءِ أَوْ التَّبُّولَةِ الَّتِي تَمْتَازُ بِغِنَاهَا بِالْفِيتَامِينَاتِ وَالْأَلْيَافِ الطَّبِيعِيَّةِ الَّتِي تُحَسِّنُ الْهَضْمَ.",
+      "translation": "Nijedna arapska trpeza nije potpuna bez zelene salate ili tabulea, koji se odlikuju bogatstvom vitamina i prirodnih vlakana koja poboljšavaju probavu.",
+      "translationEn": "No Arab table is devoid of green salad or tabbouleh, which are characterized by being rich in vitamins and natural fibers that improve digestion.",
+      "words": [
+        { "w": "تَخْلُو", "lemma": "خَلَا يَخْلُو" },
+        { "w": "مَائِدَةٌ", "lemma": "مَائِدَةٌ / مَوَائِدُ" },
+        { "w": "عَرَبِيَّةٌ", "lemma": "عَرَبِيٌّ" },
+        { "w": "السَّلَطَةِ", "lemma": "سَلَطَةٌ / سَلَطَاتٌ" },
+        { "w": "الْخَضْرَاءِ", "lemma": "أَخْضَرُ" },
+        { "w": "التَّبُّولَةِ", "lemma": "تَبُّولَةٌ" },
+        { "w": "تَمْتَازُ", "lemma": "امْتَازَ يَمْتَازُ" },
+        { "w": "بِغِنَاهَا", "lemma": "غِنًى" },
+        { "w": "بِالْفِيتَامِينَاتِ", "lemma": "فِيتَامِينٌ / فِيتَامِينَاتٌ" },
+        { "w": "وَالْأَلْيَافِ", "lemma": "لِيفٌ / أَلْيَافٌ" },
+        { "w": "الطَّبِيعِيَّةِ", "lemma": "طَبِيعِيٌّ" },
+        { "w": "تُحَسِّنُ", "lemma": "حَسَّنَ يُحَسِّنُ" },
+        { "w": "الْهَضْمَ", "lemma": "هَضْمٌ" }
+      ]
+    },
+    {
+      "arabic": "إِنَّ اِتِّبَاعَ هَذَا النَّمَطِ مِنَ الْأَكْلِ لَا يُشْبِعُ الْجُوعَ فَحَسْبُ، بَلْ يَقِي أَيْضًا مِنَ الْأَمْرَاضِ الْمُزْمِنَةِ وَيُعَزِّزُ النَّشَاطَ الْبَدَنِيَّ لَدَى الْأَفْرَادِ.",
+      "translation": "Praćenje ovog načina ishrane ne samo da utoljuje glad, već i štiti od hroničnih bolesti i podstiče fizičku aktivnost kod pojedinaca.",
+      "translationEn": "Following this pattern of eating not only satisfies hunger, but also protects against chronic diseases and enhances physical activity in individuals.",
+      "words": [
+        { "w": "اِتِّبَاعَ", "lemma": "اتِّبَاعٌ" },
+        { "w": "النَّمَطِ", "lemma": "نَمَطٌ / أَنْمَاطٌ" },
+        { "w": "الْأَكْلِ", "lemma": "أَكْلٌ" },
+        { "w": "يُشْبِعُ", "lemma": "أَشْبَعَ يُشْبِعُ" },
+        { "w": "الْجُوعَ", "lemma": "جُوعٌ" },
+        { "w": "يَقِي", "lemma": "وَقَى يَقِي" },
+        { "w": "الْأَمْرَاضِ", "lemma": "مَرَضٌ / أَمْرَاضٌ" },
+        { "w": "الْمُزْمِنَةِ", "lemma": "مُزْمِنٌ" },
+        { "w": "وَيُعَزِّزُ", "lemma": "عَزَّزَ يُعَزِّزُ" },
+        { "w": "النَّشَاطَ", "lemma": "نَشَاطٌ / أَنْشِطَةٌ" },
+        { "w": "الْبَدَنِيَّ", "lemma": "بَدَنِيٌّ" },
+        { "w": "الْأَفْرَادِ", "lemma": "فَرْدٌ / أَفْرَادٌ" }
+      ]
+    },
+    {
+      "arabic": "لِذَلِكَ، يَسْعَى الْكَثِيرُونَ حَوْلَ الْعَالَمِ إِلَى اِقْتِبَاسِ هَذِهِ الْعَادَاتِ الْغِذَائِيَّةِ لِتَحْسِينِ جَوْدَةِ حَيَاتِهِمْ وَالْحِفَاظِ عَلَى رَشَاقَتِهِمْ الدَّائِمَةِ.",
       "translation": "Stoga mnogi širom svijeta nastoje usvojiti ove prehrambene navike kako bi poboljšali kvalitetu svog života i očuvali trajnu vitkost.",
       "translationEn": "Therefore, many around the world seek to adopt these dietary habits to improve their quality of life and maintain their lasting fitness.",
       "words": [
-        {
-          "w": "حَوْلَ",
-          "lemma": "حَوْلَ"
-        }
+        { "w": "يَسْعَى", "lemma": "سَعَى يَسْعَى" },
+        { "w": "الْكَثِيرُونَ", "lemma": "كَثِيرٌ / كَثِيرُونَ" },
+        { "w": "الْعَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" },
+        { "w": "اِقْتِبَاسِ", "lemma": "اقْتِبَاسٌ" },
+        { "w": "الْعَادَاتِ", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "الْغِذَائِيَّةِ", "lemma": "غِذَائِيٌّ" },
+        { "w": "لِتَحْسِينِ", "lemma": "تَحْسِينٌ" },
+        { "w": "جَوْدَةِ", "lemma": "جَوْدَةٌ" },
+        { "w": "حَيَاتِهِمْ", "lemma": "حَيَاةٌ" },
+        { "w": "وَالْحِفَاظِ", "lemma": "حِفَاظٌ" },
+        { "w": "رَشَاقَتِهِمْ", "lemma": "رَشَاقَةٌ" },
+        { "w": "الدَّائِمَةِ", "lemma": "دَائِمٌ" }
       ]
     }
   ],

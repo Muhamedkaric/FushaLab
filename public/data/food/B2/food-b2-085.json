@@ -4,51 +4,88 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَلْعَبُ التَّوَابِلُ دَوْرًا مِحْوَرِيًّا فِي تَحْدِيدِ هُوِيَّةِ الْأَطْبَاقِ الْعَرَبِيَّةِ وَإِعْطَائِهَا نَكْهَةً مُمَيَّزَةً لَا تُنْسَى.",
+      "arabic": "تَلْعَبُ التَّوَابِلُ دَوْرًا مِحْوَرِيًّا فِي تَحْدِيدِ هُوِيَّةِ الْأَطْبَاقِ الْعَرَبِيَّةِ وَإِعْطَائِهَا نَكْهَةً مُمَيَّزَةً لَا تُنْسَى.",
       "translation": "Začini igraju ključnu ulogu u definisanju identiteta arapskih jela i davanju prepoznatljivog, nezaboravnog okusa.",
       "translationEn": "Spices play a pivotal role in defining the identity of Arab dishes and giving them a distinctive, unforgettable flavor.",
-      "words": []
-    },
-    {
-      "arabic": "يُعْتَبَرُ الْكَمُّونُ وَالْكُزْبَرَةُ وَالْقِرْفَةُ مِنَ الْعَنَاصِرِ الْأَسَاسِيَّةِ الَّتِي لَا يَخْلُو مِنْهَا أَيُّ مَطْبَخٍ فِي الْمِنْطَقَةِ.",
-      "translation": "Kumin, korijander i cimet smatraju se osnovnim elementima bez kojih ne može nijedna kuhinja u regiji.",
-      "translationEn": "Cumin, coriander, and cinnamon are considered essential elements that no kitchen in the region is without.",
-      "words": []
-    },
-    {
-      "arabic": "يَتِمُّ طَحْنُ هَذِهِ الْمَكَوِّنَاتِ يَدَوِيًّا فِي بَعْضِ الْبُيُوتِ لِضَمَانِ بَقَاءِ رَائِحَتِهَا الْقَوِيَّةِ وَجَوْدَتِهَا الْعَالِيَةِ.",
-      "translation": "Ovi sastojci se u nekim kućama ručno melju kako bi se osiguralo očuvanje njihovog snažnog mirisa i visokog kvaliteta.",
-      "translationEn": "These ingredients are ground manually in some homes to ensure their strong aroma and high quality remain intact.",
       "words": [
-        {
-          "w": "بَعْضِ",
-          "lemma": "بَعْضٌ"
-        }
+        { "w": "تَلْعَبُ", "lemma": "لَعِبَ يَلْعَبُ" },
+        { "w": "التَّوَابِلُ", "lemma": "تَابِلٌ / تَوَابِلُ" },
+        { "w": "دَوْرًا", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "مِحْوَرِيًّا", "lemma": "مِحْوَرِيٌّ" },
+        { "w": "تَحْدِيدِ", "lemma": "تَحْدِيدٌ" },
+        { "w": "هُوِيَّةِ", "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "وَإِعْطَائِهَا", "lemma": "إِعْطَاءٌ" },
+        { "w": "نَكْهَةً", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "مُمَيَّزَةً", "lemma": "مُمَيَّزٌ" },
+        { "w": "تُنْسَى", "lemma": "نَسِيَ يَنْسَى" }
       ]
     },
     {
-      "arabic": "إِنَّ التَّوَازُنَ الدَّقِيقَ بَيْنَ الطَّعْمِ الْحَارِّ وَالْحَامِضِ هُوَ مَا يَجْعَلُ هَذِهِ الْمَأْكُولَاتِ مَحْبُوبَةً لَدَى الشُّعُوبِ الْمُخْتَلِفَةِ.",
-      "translation": "Precizna ravnoteža između ljutog i kiselog okusa je ono što ove namirnice čini omiljenim kod različitih naroda.",
-      "translationEn": "The delicate balance between spicy and sour tastes is what makes these foods beloved among different peoples.",
-      "words": []
+      "arabic": "يُعْتَبَرُ الْكَمُّونُ وَالْكُزْبَرَةُ وَالْقِرْفَةُ مِنَ الْعَنَاصِرِ الْأَسَاسِيَّةِ الَّتِي لَا يَخْلُو مِنْهَا أَيُّ مَطْبَخٍ فِي الْمِنْطَقَةِ.",
+      "translation": "Kumin, korijander i cimet smatraju se osnovnim elementima bez kojih ne može nijedna kuhinja u regiji.",
+      "translationEn": "Cumin, coriander, and cinnamon are considered essential elements that no kitchen in the region is without.",
+      "words": [
+        { "w": "يُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "الْكَمُّونُ", "lemma": "كَمُّونٌ" },
+        { "w": "وَالْكُزْبَرَةُ", "lemma": "كُزْبَرَةٌ" },
+        { "w": "وَالْقِرْفَةُ", "lemma": "قِرْفَةٌ" },
+        { "w": "الْعَنَاصِرِ", "lemma": "عُنْصُرٌ / عَنَاصِرُ" },
+        { "w": "الْأَسَاسِيَّةِ", "lemma": "أَسَاسِيٌّ" },
+        { "w": "يَخْلُو", "lemma": "خَلَا يَخْلُو" },
+        { "w": "مَطْبَخٍ", "lemma": "مَطْبَخٌ / مَطَابِخُ" },
+        { "w": "الْمِنْطَقَةِ", "lemma": "مِنْطَقَةٌ / مَنَاطِقُ" }
+      ]
     },
     {
-      "arabic": "وَتُسْتَخْدَمُ بَعْضُ هَذِهِ الْأَعْشَابِ أَيْضًا لِأَغْرَاضٍ طِبِّيَّةٍ تَقْلِيدِيَّةٍ لِعِلَاجِ بَعْضِ الْأَمْرَاضِ الْبَسِيطَةِ.",
+      "arabic": "يَتِمُّ طَحْنُ هَذِهِ الْمَكَوِّنَاتِ يَدَوِيًّا فِي بَعْضِ الْبُيُوتِ لِضَمَانِ بَقَاءِ رَائِحَتِهَا الْقَوِيَّةِ وَجَوْدَتِهَا الْعَالِيَةِ.",
+      "translation": "Ovi sastojci se u nekim kućama ručno melju kako bi se osiguralo očuvanje njihovog snažnog mirisa i visokog kvaliteta.",
+      "translationEn": "These ingredients are ground manually in some homes to ensure their strong aroma and high quality remain intact.",
+      "words": [
+        { "w": "يَتِمُّ", "lemma": "تَمَّ يَتِمُّ" },
+        { "w": "طَحْنُ", "lemma": "طَحْنٌ" },
+        { "w": "الْمَكَوِّنَاتِ", "lemma": "مُكَوِّنٌ / مُكَوِّنَاتٌ" },
+        { "w": "يَدَوِيًّا", "lemma": "يَدَوِيٌّ" },
+        { "w": "الْبُيُوتِ", "lemma": "بَيْتٌ / بُيُوتٌ" },
+        { "w": "لِضَمَانِ", "lemma": "ضَمَانٌ" },
+        { "w": "بَقَاءِ", "lemma": "بَقَاءٌ" },
+        { "w": "رَائِحَتِهَا", "lemma": "رَائِحَةٌ / رَوَائِحُ" },
+        { "w": "الْقَوِيَّةِ", "lemma": "قَوِيٌّ" },
+        { "w": "وَجَوْدَتِهَا", "lemma": "جَوْدَةٌ" },
+        { "w": "الْعَالِيَةِ", "lemma": "عَالٍ" }
+      ]
+    },
+    {
+      "arabic": "إِنَّ التَّوَازُنَ الدَّقِيقَ بَيْنَ الطَّعْمِ الْحَارِّ وَالْحَامِضِ هُوَ مَا يَجْعَلُ هَذِهِ الْمَأْكُولَاتِ مَحْبُوبَةً لَدَى الشُّعُوبِ الْمُخْتَلِفَةِ.",
+      "translation": "Precizna ravnoteža između ljutog i kiselog okusa je ono što ove namirnice čini omiljenim kod različitih naroda.",
+      "translationEn": "The delicate balance between spicy and sour tastes is what makes these foods beloved among different peoples.",
+      "words": [
+        { "w": "التَّوَازُنَ", "lemma": "تَوَازُنٌ" },
+        { "w": "الدَّقِيقَ", "lemma": "دَقِيقٌ" },
+        { "w": "الطَّعْمِ", "lemma": "طَعْمٌ / طُعُومٌ" },
+        { "w": "الْحَارِّ", "lemma": "حَارٌّ" },
+        { "w": "وَالْحَامِضِ", "lemma": "حَامِضٌ" },
+        { "w": "يَجْعَلُ", "lemma": "جَعَلَ يَجْعَلُ" },
+        { "w": "الْمَأْكُولَاتِ", "lemma": "مَأْكُولٌ / مَأْكُولَاتٌ" },
+        { "w": "مَحْبُوبَةً", "lemma": "مَحْبُوبٌ" },
+        { "w": "الشُّعُوبِ", "lemma": "شَعْبٌ / شُعُوبٌ" },
+        { "w": "الْمُخْتَلِفَةِ", "lemma": "مُخْتَلِفٌ" }
+      ]
+    },
+    {
+      "arabic": "وَتُسْتَخْدَمُ بَعْضُ هَذِهِ الْأَعْشَابِ أَيْضًا لِأَغْرَاضٍ طِبِّيَّةٍ تَقْلِيدِيَّةٍ لِعِلَاجِ بَعْضِ الْأَمْرَاضِ الْبَسِيطَةِ.",
       "translation": "Neke od ovih biljaka se također koriste u tradicionalne medicinske svrhe za liječenje određenih lakših bolesti.",
       "translationEn": "Some of these herbs are also used for traditional medical purposes to treat certain simple ailments.",
       "words": [
-        {
-          "w": "بَعْضُ",
-          "lemma": "بَعْضٌ"
-        },
-        {
-          "w": "أَيْضًا",
-          "lemma": "أَيْضًا"
-        },
-        {
-          "w": "بَعْضِ",
-          "lemma": "بَعْضٌ"
-        }
+        { "w": "وَتُسْتَخْدَمُ", "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ" },
+        { "w": "الْأَعْشَابِ", "lemma": "عُشْبٌ / أَعْشَابٌ" },
+        { "w": "لِأَغْرَاضٍ", "lemma": "غَرَضٌ / أَغْرَاضٌ" },
+        { "w": "طِبِّيَّةٍ", "lemma": "طِبِّيٌّ" },
+        { "w": "تَقْلِيدِيَّةٍ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "لِعِلَاجِ", "lemma": "عِلَاجٌ" },
+        { "w": "الْأَمْرَاضِ", "lemma": "مَرَضٌ / أَمْرَاضٌ" },
+        { "w": "الْبَسِيطَةِ", "lemma": "بَسِيطٌ" }
       ]
     }
   ],

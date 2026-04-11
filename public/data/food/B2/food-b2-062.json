@@ -4,43 +4,96 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَعْتَبِرُ الْمُجَدَّرَةُ مِنَ الْأَطْبَاقِ الشَّعْبِيَّةِ الْبَسِيطَةِ وَالْمُغَذِّيَةِ الَّتِي تَعْتَمِدُ بِشَكْلٍ أَسَاسِيٍّ عَلَى الْعَدَسِ وَالْأَرْزِ.",
+      "arabic": "تَعْتَبِرُ الْمُجَدَّرَةُ مِنَ الْأَطْبَاقِ الشَّعْبِيَّةِ الْبَسِيطَةِ وَالْمُغَذِّيَةِ الَّتِي تَعْتَمِدُ بِشَكْلٍ أَسَاسِيٍّ عَلَى الْعَدَسِ وَالْأَرْزِ.",
       "translation": "Mujadara se smatra jednim od jednostavnih i hranljivih narodnih jela koja se prvenstveno oslanjaju na leću i rižu.",
       "translationEn": "Mujadara is considered one of the simple and nutritious popular dishes that primarily rely on lentils and rice.",
-      "words": []
-    },
-    {
-      "arabic": "يَتِمُّ تَحْضِيرُ هَذَا الطَّبَقِ عَنْ طَرِيقِ سَلْقِ الْعَدَسِ أَوَّلًا، ثُمَّ إِضَافَةِ الْأَرْزِ إِلَيْهِ لِيَنْضِجَا مَعًا فِي مَرَقٍ غَنِيٍّ بِنَكْهَةِ الْكَمُّونِ.",
-      "translation": "Ovo jelo se priprema tako što se prvo skuha leća, a zatim joj se doda riža kako bi se zajedno skuhali u bujonu bogatom aromom kima.",
-      "translationEn": "This dish is prepared by boiling the lentils first, then adding rice to them so they cook together in a broth rich with cumin flavor.",
       "words": [
-        {
-          "w": "مَعًا",
-          "lemma": "مَعًا"
-        }
+        { "w": "تَعْتَبِرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "الْمُجَدَّرَةُ", "lemma": "مُجَدَّرَةٌ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "الشَّعْبِيَّةِ", "lemma": "شَعْبِيٌّ" },
+        { "w": "الْبَسِيطَةِ", "lemma": "بَسِيطٌ" },
+        { "w": "وَالْمُغَذِّيَةِ", "lemma": "مُغَذٍّ" },
+        { "w": "تَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "أَسَاسِيٍّ", "lemma": "أَسَاسِيٌّ" },
+        { "w": "الْعَدَسِ", "lemma": "عَدَسٌ" },
+        { "w": "وَالْأَرْزِ", "lemma": "أُرْزٌ" }
       ]
     },
     {
-      "arabic": "مَا يُمَيِّزُ الْمُجَدَّرَةَ حَقًّا هُوَ الْبَصَلُ الْمُقَرْمِشُ الْمَقْلِيُّ الَّذِي يُزَيِّنُ وَجْهَ الطَّبَقِ وَيُضِيفُ إِلَيْهِ طَعْمًا فَرِيدًا.",
+      "arabic": "يَتِمُّ تَحْضِيرُ هَذَا الطَّبَقِ عَنْ طَرِيقِ سَلْقِ الْعَدَسِ أَوَّلًا، ثُمَّ إِضَافَةِ الْأَرْزِ إِلَيْهِ لِيَنْضِجَا مَعًا فِي مَرَقٍ غَنِيٍّ بِنَكْهَةِ الْكَمُّونِ.",
+      "translation": "Ovo jelo se priprema tako što se prvo skuha leća, a zatim joj se doda riža kako bi se zajedno skuhali u bujonu bogatom aromom kima.",
+      "translationEn": "This dish is prepared by boiling the lentils first, then adding rice to them so they cook together in a broth rich with cumin flavor.",
+      "words": [
+        { "w": "يَتِمُّ", "lemma": "تَمَّ يَتِمُّ" },
+        { "w": "تَحْضِيرُ", "lemma": "تَحْضِيرٌ" },
+        { "w": "الطَّبَقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "طَرِيقِ", "lemma": "طَرِيقٌ / طُرُقٌ" },
+        { "w": "سَلْقِ", "lemma": "سَلْقٌ" },
+        { "w": "الْعَدَسِ", "lemma": "عَدَسٌ" },
+        { "w": "أَوَّلًا", "lemma": "أَوَّلٌ" },
+        { "w": "إِضَافَةِ", "lemma": "إِضَافَةٌ" },
+        { "w": "الْأَرْزِ", "lemma": "أُرْزٌ" },
+        { "w": "لِيَنْضِجَا", "lemma": "نَضِجَ يَنْضَجُ" },
+        { "w": "مَرَقٍ", "lemma": "مَرَقٌ / مِرَاقٌ" },
+        { "w": "غَنِيٍّ", "lemma": "غَنِيٌّ" },
+        { "w": "بِنَكْهَةِ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "الْكَمُّونِ", "lemma": "كَمُّونٌ" }
+      ]
+    },
+    {
+      "arabic": "مَا يُمَيِّزُ الْمُجَدَّرَةَ حَقًّا هُوَ الْبَصَلُ الْمُقَرْمِشُ الْمَقْلِيُّ الَّذِي يُزَيِّنُ وَجْهَ الطَّبَقِ وَيُضِيفُ إِلَيْهِ طَعْمًا فَرِيدًا.",
       "translation": "Ono što zaista izdvaja mujadaru je hrskavi prženi luk koji ukrašava vrh jela i daje mu jedinstven ukus.",
       "translationEn": "What truly distinguishes mujadara is the crispy fried onion that garnishes the top of the dish and adds a unique flavor to it.",
-      "words": []
+      "words": [
+        { "w": "يُمَيِّزُ", "lemma": "مَيَّزَ يُمَيِّزُ" },
+        { "w": "الْمُجَدَّرَةَ", "lemma": "مُجَدَّرَةٌ" },
+        { "w": "حَقًّا", "lemma": "حَقٌّ" },
+        { "w": "الْبَصَلُ", "lemma": "بَصَلٌ" },
+        { "w": "الْمُقَرْمِشُ", "lemma": "مُقَرْمِشٌ" },
+        { "w": "الْمَقْلِيُّ", "lemma": "مَقْلِيٌّ" },
+        { "w": "يُزَيِّنُ", "lemma": "زَيَّنَ يُزَيِّنُ" },
+        { "w": "وَجْهَ", "lemma": "وَجْهٌ / وُجُوهٌ" },
+        { "w": "الطَّبَقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "وَيُضِيفُ", "lemma": "أَضَافَ يُضِيفُ" },
+        { "w": "طَعْمًا", "lemma": "طَعْمٌ / أَطْعِمَةٌ" },
+        { "w": "فَرِيدًا", "lemma": "فَرِيدٌ" }
+      ]
     },
     {
-      "arabic": "يُنْصَحُ دَائِمًا بِتَنَاوُلِهَا إِلَى جَانِبِ سَلَطَةٍ طَازَجَةٍ أَوْ لَبَنٍ زَبَادِيٍّ لِتَحْقِيقِ تَوَازُنٍ غِذَائِيٍّ مُتَكَامِلٍ.",
+      "arabic": "يُنْصَحُ دَائِمًا بِتَنَاوُلِهَا إِلَى جَانِبِ سَلَطَةٍ طَازَجَةٍ أَوْ لَبَنٍ زَبَادِيٍّ لِتَحْقِيقِ تَوَازُنٍ غِذَائِيٍّ مُتَكَامِلٍ.",
       "translation": "Uvijek se preporučuje konzumiranje uz svježu salatu ili jogurt kako bi se postigla potpuna nutritivna ravnoteža.",
       "translationEn": "It is always recommended to eat it alongside a fresh salad or yogurt to achieve a complete nutritional balance.",
-      "words": []
+      "words": [
+        { "w": "يُنْصَحُ", "lemma": "نَصَحَ يَنْصَحُ" },
+        { "w": "دَائِمًا", "lemma": "دَائِمٌ" },
+        { "w": "بِتَنَاوُلِهَا", "lemma": "تَنَاوُلٌ" },
+        { "w": "جَانِبِ", "lemma": "جَانِبٌ / جَوَانِبُ" },
+        { "w": "سَلَطَةٍ", "lemma": "سَلَطَةٌ / سَلَطَاتٌ" },
+        { "w": "طَازَجَةٍ", "lemma": "طَازَجٌ" },
+        { "w": "لَبَنٍ", "lemma": "لَبَنٌ" },
+        { "w": "زَبَادِيٍّ", "lemma": "زَبَادِيٌّ" },
+        { "w": "لِتَحْقِيقِ", "lemma": "تَحْقِيقٌ" },
+        { "w": "تَوَازُنٍ", "lemma": "تَوَازُنٌ" },
+        { "w": "غِذَائِيٍّ", "lemma": "غِذَائِيٌّ" },
+        { "w": "مُتَكَامِلٍ", "lemma": "مُتَكَامِلٌ" }
+      ]
     },
     {
-      "arabic": "بِمَا أَنَّهَا خَالِيَةٌ مِنَ اللَّحُومِ، فَهِيَ خِيَارٌ مِثَالِيٌّ لِلْبَاحِثِينَ عَنْ وَجْبَةٍ صِحِّيَّةٍ وَمُوفِرَةٍ فِي آنٍ وَاحِدٍ.",
+      "arabic": "بِمَا أَنَّهَا خَالِيَةٌ مِنَ اللَّحُومِ، فَهِيَ خِيَارٌ مِثَالِيٌّ لِلْبَاحِثِينَ عَنْ وَجْبَةٍ صِحِّيَّةٍ وَمُوفِرَةٍ فِي آنٍ وَاحِدٍ.",
       "translation": "S obzirom na to da ne sadrži meso, idealan je izbor za one koji traže zdrav i ekonomičan obrok u isto vrijeme.",
       "translationEn": "Since it is meat-free, it is an ideal choice for those looking for a healthy and economical meal at the same time.",
       "words": [
-        {
-          "w": "وَاحِدٍ",
-          "lemma": "وَاحِدٌ"
-        }
+        { "w": "خَالِيَةٌ", "lemma": "خَالٍ" },
+        { "w": "اللَّحُومِ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "خِيَارٌ", "lemma": "خِيَارٌ / خِيَارَاتٌ" },
+        { "w": "مِثَالِيٌّ", "lemma": "مِثَالِيٌّ" },
+        { "w": "لِلْبَاحِثِينَ", "lemma": "بَاحِثٌ / بَاحِثُونَ" },
+        { "w": "وَجْبَةٍ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "صِحِّيَّةٍ", "lemma": "صِحِّيٌّ" },
+        { "w": "وَمُوفِرَةٍ", "lemma": "مُوفِرٌ" },
+        { "w": "آنٍ", "lemma": "آنٌ" }
       ]
     }
   ],

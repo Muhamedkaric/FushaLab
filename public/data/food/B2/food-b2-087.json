@@ -4,47 +4,93 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعْتَبَرُ الْمَقْلُوبَةُ مِنْ أَشْهَرِ الْأَطْبَاقِ الشَّعْبِيَّةِ فِي بِلَادِ الشَّامِ، وَهِيَ مَعْرُوفَةٌ بِطَرِيقَةِ تَقْدِيمِهَا الْمُمَيَّزَةِ.",
+      "arabic": "تُعْتَبَرُ الْمَقْلُوبَةُ مِنْ أَشْهَرِ الْأَطْبَاقِ الشَّعْبِيَّةِ فِي بِلَادِ الشَّامِ، وَهِيَ مَعْرُوفَةٌ بِطَرِيقَةِ تَقْدِيمِهَا الْمُمَيَّزَةِ.",
       "translation": "Maqluba se smatra jednim od najpoznatijih narodnih jela u Levantu, a poznata je po svom specifičnom načinu serviranja.",
       "translationEn": "Maqluba is considered one of the most famous folk dishes in the Levant, and it is known for its distinctive presentation method.",
-      "words": []
-    },
-    {
-      "arabic": "تَتَكَوَّنُ هَذِهِ الْأُكْلَةُ مِنْ طَبَقَاتٍ مِنَ الْأُرْزِ، وَالْخُضَارِ الْمَقْلِيَّةِ كَالْبَاذِنْجَانِ أَوِ الزَّهْرَةِ، مَعَ اللَّحْمِ الْمُتَبَّلِ جَيِّداً.",
-      "translation": "Ovo jelo se sastoji od slojeva riže i prženog povrća poput patlidžana ili karfiola, uz dobro začinjeno meso.",
-      "translationEn": "This dish consists of layers of rice and fried vegetables such as eggplant or cauliflower, along with well-seasoned meat.",
-      "words": []
-    },
-    {
-      "arabic": "بَعْدَ الِانْتِهَاءِ مِنْ عَمَلِيَّةِ الطَّهْيِ، يَتِمُّ قَلْبُ الْقِدْرِ بِحَذَرٍ فَوْقَ صِينِيَّةٍ كَبِيرَةٍ، وَمِنْ هُنَا جَاءَ اسْمُهَا.",
-      "translation": "Nakon završetka procesa kuhanja, šerpa se pažljivo preokrene na veliku tepsiju, i otuda potiče njeno ime.",
-      "translationEn": "After the cooking process is finished, the pot is carefully flipped over a large tray, and this is where its name comes from.",
       "words": [
-        {
-          "w": "هُنَا",
-          "lemma": "هُنَا"
-        },
-        {
-          "w": "اسْمُهَا",
-          "lemma": "اسْمٌ / أَسْمَاءٌ"
-        }
+        { "w": "تُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "الْمَقْلُوبَةُ", "lemma": "مَقْلُوبَةٌ" },
+        { "w": "أَشْهَرِ", "lemma": "شَهِيرٌ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "الشَّعْبِيَّةِ", "lemma": "شَعْبِيٌّ" },
+        { "w": "بِلَادِ", "lemma": "بَلَدٌ / بِلَادٌ" },
+        { "w": "الشَّامِ", "lemma": "شَامٌ" },
+        { "w": "مَعْرُوفَةٌ", "lemma": "مَعْرُوفٌ" },
+        { "w": "بِطَرِيقَةِ", "lemma": "طَرِيقَةٌ / طُرُقٌ" },
+        { "w": "تَقْدِيمِهَا", "lemma": "تَقْدِيمٌ" },
+        { "w": "الْمُمَيَّزَةِ", "lemma": "مُمَيَّزٌ" }
       ]
     },
     {
-      "arabic": "غَالِباً مَا يُزَيَّنُ الطَّبَقُ بِالْمُكَسَّرَاتِ الْمُحَمَّصَةِ وَالْبَقْدُونِسِ الطَّازَجِ لِإِضْفَاءِ نَكْهَةٍ فَرِيدَةٍ وَمَظْهَرٍ جَذَّابٍ.",
-      "translation": "Jelo se često ukrašava prženim orašastim plodovima i svježim peršunom kako bi se dodao jedinstven ukus i privlačan izgled.",
-      "translationEn": "The dish is often garnished with toasted nuts and fresh parsley to add a unique flavor and attractive appearance.",
-      "words": []
+      "arabic": "تَتَكَوَّنُ هَذِهِ الْأُكْلَةُ مِنْ طَبَقَاتٍ مِنَ الْأُرْزِ، وَالْخُضَارِ الْمَقْلِيَّةِ كَالْبَاذِنْجَانِ أَوِ الزَّهْرَةِ، مَعَ اللَّحْمِ الْمُتَبَّلِ جَيِّداً.",
+      "translation": "Ovo jelo se sastoji od slojeva riže i prženog povrća poput patlidžana ili karfiola, uz dobro začinjeno meso.",
+      "translationEn": "This dish consists of layers of rice and fried vegetables such as eggplant or cauliflower, along with well-seasoned meat.",
+      "words": [
+        { "w": "تَتَكَوَّنُ", "lemma": "تَكَوَّنَ يَتَكَوَّنُ" },
+        { "w": "الْأُكْلَةُ", "lemma": "أُكْلَةٌ / أُكَلٌ" },
+        { "w": "طَبَقَاتٍ", "lemma": "طَبَقَةٌ / طَبَقَاتٌ" },
+        { "w": "الْأُرْزِ", "lemma": "أُرْزٌ" },
+        { "w": "وَالْخُضَارِ", "lemma": "خُضَارٌ" },
+        { "w": "الْمَقْلِيَّةِ", "lemma": "مَقْلِيٌّ" },
+        { "w": "كَالْبَاذِنْجَانِ", "lemma": "بَاذِنْجَانٌ" },
+        { "w": "الزَّهْرَةِ", "lemma": "زَهْرَةٌ" },
+        { "w": "اللَّحْمِ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "الْمُتَبَّلِ", "lemma": "مُتَبَّلٌ" },
+        { "w": "جَيِّداً", "lemma": "جَيِّدٌ" }
+      ]
     },
     {
-      "arabic": "تَجْتَمِعُ الْعَائِلَةُ حَوْلَ هَذِهِ الْوَجْبَةِ خَاصَّةً فِي أَيَّامِ الْجُمُعَةِ، مِمَّا يَجْعَلُهَا رَمْزاً لِلِدِّفْءِ الْعَائِلِيِّ.",
+      "arabic": "بَعْدَ الِانْتِهَاءِ مِنْ عَمَلِيَّةِ الطَّهْيِ، يَتِمُّ قَلْبُ الْقِدْرِ بِحَذَرٍ فَوْقَ صِينِيَّةٍ كَبِيرَةٍ، وَمِنْ هُنَا جَاءَ اسْمُهَا.",
+      "translation": "Nakon završetka procesa kuhanja, šerpa se pažljivo preokrene na veliku tepsiju, i otuda potiče njeno ime.",
+      "translationEn": "After the cooking process is finished, the pot is carefully flipped over a large tray, and this is where its name comes from.",
+      "words": [
+        { "w": "الِانْتِهَاءِ", "lemma": "انْتِهَاءٌ" },
+        { "w": "عَمَلِيَّةِ", "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ" },
+        { "w": "الطَّهْيِ", "lemma": "طَهْيٌ" },
+        { "w": "يَتِمُّ", "lemma": "تَمَّ يَتِمُّ" },
+        { "w": "قَلْبُ", "lemma": "قَلْبٌ" },
+        { "w": "الْقِدْرِ", "lemma": "قِدْرٌ / قُدُورٌ" },
+        { "w": "بِحَذَرٍ", "lemma": "حَذَرٌ" },
+        { "w": "صِينِيَّةٍ", "lemma": "صِينِيَّةٌ / صَوَانٍ" },
+        { "w": "كَبِيرَةٍ", "lemma": "كَبِيرٌ" },
+        { "w": "جَاءَ", "lemma": "جَاءَ يَجِيءُ" },
+        { "w": "اسْمُهَا", "lemma": "اسْمٌ / أَسْمَاءٌ" }
+      ]
+    },
+    {
+      "arabic": "غَالِباً مَا يُزَيَّنُ الطَّبَقُ بِالْمُكَسَّرَاتِ الْمُحَمَّصَةِ وَالْبَقْدُونِسِ الطَّازَجِ لِإِضْفَاءِ نَكْهَةٍ فَرِيدَةٍ وَمَظْهَرٍ جَذَّابٍ.",
+      "translation": "Jelo se često ukrašava prženim orašastim plodovima i svježim peršunom kako bi se dodao jedinstven ukus i privlačan izgled.",
+      "translationEn": "The dish is often garnished with toasted nuts and fresh parsley to add a unique flavor and attractive appearance.",
+      "words": [
+        { "w": "غَالِباً", "lemma": "غَالِبٌ" },
+        { "w": "يُزَيَّنُ", "lemma": "زَيَّنَ يُزَيِّنُ" },
+        { "w": "الطَّبَقُ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "بِالْمُكَسَّرَاتِ", "lemma": "مُكَسَّرَاتٌ" },
+        { "w": "الْمُحَمَّصَةِ", "lemma": "مُحَمَّصٌ" },
+        { "w": "وَالْبَقْدُونِسِ", "lemma": "بَقْدُونسٌ" },
+        { "w": "الطَّازَجِ", "lemma": "طَازَجٌ" },
+        { "w": "لِإِضْفَاءِ", "lemma": "إِضْفَاءٌ" },
+        { "w": "نَكْهَةٍ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "فَرِيدَةٍ", "lemma": "فَرِيدٌ" },
+        { "w": "وَمَظْهَرٍ", "lemma": "مَظْهَرٌ / مَظَاهِرُ" },
+        { "w": "جَذَّابٍ", "lemma": "جَذَّابٌ" }
+      ]
+    },
+    {
+      "arabic": "تَجْتَمِعُ الْعَائِلَةُ حَوْلَ هَذِهِ الْوَجْبَةِ خَاصَّةً فِي أَيَّامِ الْجُمُعَةِ، مِمَّا يَجْعَلُهَا رَمْزاً لِلِدِّفْءِ الْعَائِلِيِّ.",
       "translation": "Porodica se okuplja oko ovog obroka, posebno petkom, što ga čini simbolom porodične topline.",
       "translationEn": "The family gathers around this meal especially on Fridays, making it a symbol of family warmth.",
       "words": [
-        {
-          "w": "حَوْلَ",
-          "lemma": "حَوْلَ"
-        }
+        { "w": "تَجْتَمِعُ", "lemma": "اجْتَمَعَ يَجْتَمِعُ" },
+        { "w": "الْعَائِلَةُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ" },
+        { "w": "الْوَجْبَةِ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "خَاصَّةً", "lemma": "خَاصٌّ" },
+        { "w": "أَيَّامِ", "lemma": "يَوْمٌ / أَيَّامٌ" },
+        { "w": "الْجُمُعَةِ", "lemma": "جُمُعَةٌ / جُمُعَاتٌ" },
+        { "w": "يَجْعَلُهَا", "lemma": "جَعَلَ يَجْعَلُ" },
+        { "w": "رَمْزاً", "lemma": "رَمْزٌ / رُمُوزٌ" },
+        { "w": "لِلدِّفْءِ", "lemma": "دِفْءٌ" },
+        { "w": "الْعَائِلِيِّ", "lemma": "عَائِلِيٌّ" }
       ]
     }
   ],

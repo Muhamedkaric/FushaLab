@@ -4,29 +4,91 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الضِّيَافَةُ الْعَرَبِيَّةُ مُتَجَذِّرَةً فِي أَعْمَاقِ التَّارِيخِ، حَيْثُ يُعْتَبَرُ اسْتِقْبَالُ الضُّيُوفِ وَاجِباً أَخْلَاقِيّاً لَا يُمْكِنُ التَّهَاوُنُ فِيهِ.",
+      "arabic": "تُعَدُّ الضِّيَافَةُ الْعَرَبِيَّةُ مُتَجَذِّرَةً فِي أَعْمَاقِ التَّارِيخِ، حَيْثُ يُعْتَبَرُ اسْتِقْبَالُ الضُّيُوفِ وَاجِباً أَخْلَاقِيّاً لَا يُمْكِنُ التَّهَاوُنُ فِيهِ.",
       "translation": "Arapsko gostoprimstvo se smatra duboko ukorijenjenim u historiji, gdje se dočekivanje gostiju smatra moralnom obavezom koja se ne smije zanemariti.",
-      "translationEn": "Arab hospitality is considered deeply rooted in history, where welcoming guests is seen as a moral duty that cannot be overlooked."
+      "translationEn": "Arab hospitality is considered deeply rooted in history, where welcoming guests is seen as a moral duty that cannot be overlooked.",
+      "words": [
+        { "w": "تُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "الضِّيَافَةُ", "lemma": "ضِيَافَةٌ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "مُتَجَذِّرَةً", "lemma": "مُتَجَذِّرٌ" },
+        { "w": "أَعْمَاقِ", "lemma": "عُمْقٌ / أَعْمَاقٌ" },
+        { "w": "التَّارِيخِ", "lemma": "تَارِيخٌ / تَوَارِيخُ" },
+        { "w": "يُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "اسْتِقْبَالُ", "lemma": "اسْتِقْبَالٌ" },
+        { "w": "الضُّيُوفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "وَاجِباً", "lemma": "وَاجِبٌ" },
+        { "w": "أَخْلَاقِيّاً", "lemma": "أَخْلَاقِيٌّ" },
+        { "w": "التَّهَاوُنُ", "lemma": "تَهَاوُنٌ" }
+      ]
     },
     {
-      "arabic": "عَادَةً مَا يَبْدَأُ الِاسْتِقْبَالُ بِتَقْدِيمِ الْقَهْوَةِ الْعَرَبِيَّةِ التَّقْلِيدِيَّةِ الَّتِي تَمْتَازُ بِرَائِحَةِ الْهَيْلِ النَّفَّاثَةِ.",
+      "arabic": "عَادَةً مَا يَبْدَأُ الِاسْتِقْبَالُ بِتَقْدِيمِ الْقَهْوَةِ الْعَرَبِيَّةِ التَّقْلِيدِيَّةِ الَّتِي تَمْتَازُ بِرَائِحَةِ الْهَيْلِ النَّفَّاثَةِ.",
       "translation": "Obično prijem počinje posluživanjem tradicionalne arapske kafe, koju karakteriše prodoran miris kardamoma.",
-      "translationEn": "Usually, the reception begins with serving traditional Arabic coffee, which is characterized by the pungent scent of cardamom."
+      "translationEn": "Usually, the reception begins with serving traditional Arabic coffee, which is characterized by the pungent scent of cardamom.",
+      "words": [
+        { "w": "عَادَةً", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "يَبْدَأُ", "lemma": "بَدَأَ يَبْدَأُ" },
+        { "w": "الِاسْتِقْبَالُ", "lemma": "اسْتِقْبَالٌ" },
+        { "w": "بِتَقْدِيمِ", "lemma": "تَقْدِيمٌ" },
+        { "w": "الْقَهْوَةِ", "lemma": "قَهْوَةٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "التَّقْلِيدِيَّةِ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "تَمْتَازُ", "lemma": "امْتَازَ يَمْتَازُ" },
+        { "w": "بِرَائِحَةِ", "lemma": "رَائِحَةٌ / رَوَائِحُ" },
+        { "w": "الْهَيْلِ", "lemma": "هَيْلٌ" },
+        { "w": "النَّفَّاثَةِ", "lemma": "نَفَّاثٌ" }
+      ]
     },
     {
-      "arabic": "وَيُرَافِقُهَا أَجْوَدُ أَنْوَاعِ التُّمُورِ الَّتِي تُمَثِّلُ رَمْزاً لِلْكَرَمِ وَالْمَوْرُوثِ الْأَصِيلِ فِي الْمِنْطَقَةِ.",
+      "arabic": "وَيُرَافِقُهَا أَجْوَدُ أَنْوَاعِ التُّمُورِ الَّتِي تُمَثِّلُ رَمْزاً لِلْكَرَمِ وَالْمَوْرُوثِ الْأَصِيلِ فِي الْمِنْطَقَةِ.",
       "translation": "Uz nju idu najkvalitetnije vrste hurmi, koje predstavljaju simbol velikodušnosti i autentičnog naslijeđa u regiji.",
-      "translationEn": "It is accompanied by the finest types of dates, which represent a symbol of generosity and authentic heritage in the region."
+      "translationEn": "It is accompanied by the finest types of dates, which represent a symbol of generosity and authentic heritage in the region.",
+      "words": [
+        { "w": "وَيُرَافِقُهَا", "lemma": "رَافَقَ يُرَافِقُ" },
+        { "w": "أَجْوَدُ", "lemma": "جَيِّدٌ" },
+        { "w": "أَنْوَاعِ", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "التُّمُورِ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "تُمَثِّلُ", "lemma": "مَثَّلَ يُمَثِّلُ" },
+        { "w": "رَمْزاً", "lemma": "رَمْزٌ / رُمُوزٌ" },
+        { "w": "لِلْكَرَمِ", "lemma": "كَرَمٌ" },
+        { "w": "وَالْمَوْرُوثِ", "lemma": "مَوْرُوثٌ" },
+        { "w": "الْأَصِيلِ", "lemma": "أَصِيلٌ" },
+        { "w": "الْمِنْطَقَةِ", "lemma": "مِنْطَقَةٌ / مَنَاطِقُ" }
+      ]
     },
     {
-      "arabic": "رَغْمَ التَّغَيُّرَاتِ الْعَصْرِيَّةِ، لَا تَزَالُ هَذِهِ التَّقَالِيدُ جُزْءاً أَسَاسِيّاً مِنَ الْحَيَاةِ الْيَوْمِيَّةِ فِي الْبُيُوتِ الْعَرَبِيَّةِ.",
+      "arabic": "رَغْمَ التَّغَيُّرَاتِ الْعَصْرِيَّةِ، لَا تَزَالُ هَذِهِ التَّقَالِيدُ جُزْءاً أَسَاسِيّاً مِنَ الْحَيَاةِ الْيَوْمِيَّةِ فِي الْبُيُوتِ الْعَرَبِيَّةِ.",
       "translation": "Uprkos modernim promjenama, ove tradicije su i dalje osnovni dio svakodnevnog života u arapskim domovima.",
-      "translationEn": "Despite modern changes, these traditions remain an essential part of daily life in Arab homes."
+      "translationEn": "Despite modern changes, these traditions remain an essential part of daily life in Arab homes.",
+      "words": [
+        { "w": "التَّغَيُّرَاتِ", "lemma": "تَغَيُّرٌ / تَغَيُّرَاتٌ" },
+        { "w": "الْعَصْرِيَّةِ", "lemma": "عَصْرِيٌّ" },
+        { "w": "التَّقَالِيدُ", "lemma": "تَقْلِيدٌ / تَقَالِيدُ" },
+        { "w": "جُزْءاً", "lemma": "جُزْءٌ / أَجْزَاءٌ" },
+        { "w": "أَسَاسِيّاً", "lemma": "أَسَاسِيٌّ" },
+        { "w": "الْحَيَاةِ", "lemma": "حَيَاةٌ" },
+        { "w": "الْيَوْمِيَّةِ", "lemma": "يَوْمِيٌّ" },
+        { "w": "الْبُيُوتِ", "lemma": "بَيْتٌ / بُيُوتٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
-      "arabic": "يَعْكِسُ هَذَا الِاحْتِفَاءُ بِالضَّيْفِ مَدَى التَّرَابُطِ الِاجْتِمَاعِيِّ وَالِاحْتِرَامِ الْمُتَبَادَلِ بَيْنَ أَفْرَادِ الْمُجْتَمَعِ.",
+      "arabic": "يَعْكِسُ هَذَا الِاحْتِفَاءُ بِالضَّيْفِ مَدَى التَّرَابُطِ الِاجْتِمَاعِيِّ وَالِاحْتِرَامِ الْمُتَبَادَلِ بَيْنَ أَفْرَادِ الْمُجْتَمَعِ.",
       "translation": "Ova proslava gosta odražava stepen društvene povezanosti i međusobnog poštovanja među članovima društva.",
-      "translationEn": "This celebration of the guest reflects the extent of social cohesion and mutual respect among members of society."
+      "translationEn": "This celebration of the guest reflects the extent of social cohesion and mutual respect among members of society.",
+      "words": [
+        { "w": "يَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "الِاحْتِفَاءُ", "lemma": "احْتِفَاءٌ" },
+        { "w": "بِالضَّيْفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "مَدَى", "lemma": "مَدًى" },
+        { "w": "التَّرَابُطِ", "lemma": "تَرَابُطٌ" },
+        { "w": "الِاجْتِمَاعِيِّ", "lemma": "اجْتِمَاعِيٌّ" },
+        { "w": "وَالِاحْتِرَامِ", "lemma": "احْتِرَامٌ" },
+        { "w": "الْمُتَبَادَلِ", "lemma": "مُتَبَادَلٌ" },
+        { "w": "أَفْرَادِ", "lemma": "فَرْدٌ / أَفْرَادٌ" },
+        { "w": "الْمُجْتَمَعِ", "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ" }
+      ]
     }
   ],
   "metadata": {

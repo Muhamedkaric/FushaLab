@@ -4,43 +4,99 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الضِّيَافَةُ رُكْنًا أَسَاسِيًّا فِي الثَّقَافَةِ الْعَرَبِيَّةِ، حَيْثُ يُعَبِّرُ إِكْرَامُ الضَّيْفِ عَنِ السَّخَاءِ وَالنُّبْلِ.",
+      "arabic": "تُعَدُّ الضِّيَافَةُ رُكْنًا أَسَاسِيًّا فِي الثَّقَافَةِ الْعَرَبِيَّةِ، حَيْثُ يُعَبِّرُ إِكْرَامُ الضَّيْفِ عَنِ السَّخَاءِ وَالنُّبْلِ.",
       "translation": "Gostoprimstvo se smatra osnovnim stubom arapske kulture, gdje ugošćavanje gosta izražava velikodušnost i plemenitost.",
       "translationEn": "Hospitality is considered a fundamental pillar of Arab culture, where honoring a guest expresses generosity and nobility.",
-      "words": []
-    },
-    {
-      "arabic": "عِنْدَمَا يَدْخُلُ الزَّائِرُ إِلَى الْمَنْزِلِ، يُسْتَقْبَلُ بِأَجْوَدِ أَنْوَاعِ التَّمْرِ وَالْقَهْوَةِ الْعَرَبِيَّةِ الْفَوَّاحَةِ بِرَائِحَةِ الْهَيْلِ.",
-      "translation": "Kada posjetitelj uđe u kuću, dočekuje se najkvalitetnijim vrstama hurmi i arapskom kafom koja miriše na kardamom.",
-      "translationEn": "When a visitor enters the home, they are welcomed with the finest types of dates and Arabic coffee fragrant with the scent of cardamom.",
       "words": [
-        {
-          "w": "عِنْدَمَا",
-          "lemma": "عِنْدَمَا"
-        }
+        { "w": "تُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "الضِّيَافَةُ", "lemma": "ضِيَافَةٌ" },
+        { "w": "رُكْنًا", "lemma": "رُكْنٌ / أَرْكَانٌ" },
+        { "w": "أَسَاسِيًّا", "lemma": "أَسَاسِيٌّ" },
+        { "w": "الثَّقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "يُعَبِّرُ", "lemma": "عَبَّرَ يُعَبِّرُ" },
+        { "w": "إِكْرَامُ", "lemma": "إِكْرَامٌ" },
+        { "w": "الضَّيْفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "السَّخَاءِ", "lemma": "سَخَاءٌ" },
+        { "w": "وَالنُّبْلِ", "lemma": "نُبْلٌ" }
       ]
     },
     {
-      "arabic": "تَتَنَوَّعُ الْأَطْبَاقُ الرَّئِيسِيَّةُ عَلَى الْمَائِدَةِ لِتَشْمَلَ اللَّحْمَ الْمَطْهُوَّ بِعِنَايَةٍ وَالْأَرُزَّ الْمُبَهَّرَ بِخَلَطَاتٍ سِرِّيَّةٍ تَوَارَثَتْهَا الْأَجْيَالُ.",
+      "arabic": "عِنْدَمَا يَدْخُلُ الزَّائِرُ إِلَى الْمَنْزِلِ، يُسْتَقْبَلُ بِأَجْوَدِ أَنْوَاعِ التَّمْرِ وَالْقَهْوَةِ الْعَرَبِيَّةِ الْفَوَّاحَةِ بِرَائِحَةِ الْهَيْلِ.",
+      "translation": "Kada posjetitelj uđe u kuću, dočekuje se najkvalitetnijim vrstama hurmi i arapskom kafom koja miriše na kardamom.",
+      "translationEn": "When a visitor enters the home, they are welcomed with the finest types of dates and Arabic coffee fragrant with the scent of cardamom.",
+      "words": [
+        { "w": "يَدْخُلُ", "lemma": "دَخَلَ يَدْخُلُ" },
+        { "w": "الزَّائِرُ", "lemma": "زَائِرٌ / زُوَّارٌ" },
+        { "w": "الْمَنْزِلِ", "lemma": "مَنْزِلٌ / مَنَازِلُ" },
+        { "w": "يُسْتَقْبَلُ", "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ" },
+        { "w": "بِأَجْوَدِ", "lemma": "جَيِّدٌ" },
+        { "w": "أَنْوَاعِ", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "التَّمْرِ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "وَالْقَهْوَةِ", "lemma": "قَهْوَةٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "الْفَوَّاحَةِ", "lemma": "فَوَّاحٌ" },
+        { "w": "بِرَائِحَةِ", "lemma": "رَائِحَةٌ / رَوَائِحُ" },
+        { "w": "الْهَيْلِ", "lemma": "هَيْلٌ" }
+      ]
+    },
+    {
+      "arabic": "تَتَنَوَّعُ الْأَطْبَاقُ الرَّئِيسِيَّةُ عَلَى الْمَائِدَةِ لِتَشْمَلَ اللَّحْمَ الْمَطْهُوَّ بِعِنَايَةٍ وَالْأَرُزَّ الْمُبَهَّرَ بِخَلَطَاتٍ سِرِّيَّةٍ تَوَارَثَتْهَا الْأَجْيَالُ.",
       "translation": "Glavna jela na trpezi variraju i uključuju pažljivo kuhanu janjetinu i rižu začinjenu tajnim mješavinama koje su se prenosile generacijama.",
       "translationEn": "The main dishes on the table vary to include carefully cooked meat and rice seasoned with secret blends inherited through generations.",
-      "words": []
+      "words": [
+        { "w": "تَتَنَوَّعُ", "lemma": "تَنَوَّعَ يَتَنَوَّعُ" },
+        { "w": "الْأَطْبَاقُ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "الرَّئِيسِيَّةُ", "lemma": "رَئِيسِيٌّ" },
+        { "w": "الْمَائِدَةِ", "lemma": "مَائِدَةٌ / مَوَائِدُ" },
+        { "w": "لِتَشْمَلَ", "lemma": "شَمِلَ يَشْمَلُ" },
+        { "w": "اللَّحْمَ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "الْمَطْهُوَّ", "lemma": "مَطْهُوٌّ" },
+        { "w": "بِعِنَايَةٍ", "lemma": "عِنَايَةٌ" },
+        { "w": "وَالْأَرُزَّ", "lemma": "أُرْزٌ" },
+        { "w": "الْمُبَهَّرَ", "lemma": "مُبَهَّرٌ" },
+        { "w": "بِخَلَطَاتٍ", "lemma": "خَلْطَةٌ / خَلَطَاتٌ" },
+        { "w": "سِرِّيَّةٍ", "lemma": "سِرِّيٌّ" },
+        { "w": "تَوَارَثَتْهَا", "lemma": "تَوَارَثَ يَتَوَارَثُ" },
+        { "w": "الْأَجْيَالُ", "lemma": "جِيلٌ / أَجْيَالٌ" }
+      ]
     },
     {
-      "arabic": "لَا تَقْتَصِرُ الْوَلِيمَةُ عَلَى إِشْبَاعِ الْجُوعِ فَحَسْبُ، بَلْ هِيَ فُرْصَةٌ لِتَوْطِيدِ الْعَلَاقَاتِ الِاجْتِمَاعِيَّةِ وَتَبَادُلِ الْأَحَادِيثِ الشَّيِّقَةِ.",
+      "arabic": "لَا تَقْتَصِرُ الْوَلِيمَةُ عَلَى إِشْبَاعِ الْجُوعِ فَحَسْبُ، بَلْ هِيَ فُرْصَةٌ لِتَوْطِيدِ الْعَلَاقَاتِ الِاجْتِمَاعِيَّةِ وَتَبَادُلِ الْأَحَادِيثِ الشَّيِّقَةِ.",
       "translation": "Gozba nije ograničena samo na utaživanje gladi, već je to prilika za jačanje društvenih odnosa i razmjenu zanimljivih razgovora.",
       "translationEn": "The feast is not limited to satisfying hunger only; rather, it is an opportunity to strengthen social relations and exchange interesting conversations.",
-      "words": []
+      "words": [
+        { "w": "تَقْتَصِرُ", "lemma": "اقْتَصَرَ يَقْتَصِرُ" },
+        { "w": "الْوَلِيمَةُ", "lemma": "وَلِيمَةٌ / وَلَائِمُ" },
+        { "w": "إِشْبَاعِ", "lemma": "إِشْبَاعٌ" },
+        { "w": "الْجُوعِ", "lemma": "جُوعٌ" },
+        { "w": "فُرْصَةٌ", "lemma": "فُرْصَةٌ / فُرَصٌ" },
+        { "w": "لِتَوْطِيدِ", "lemma": "تَوْطِيدٌ" },
+        { "w": "الْعَلَاقَاتِ", "lemma": "عَلَاقَةٌ / عَلَاقَاتٌ" },
+        { "w": "الِاجْتِمَاعِيَّةِ", "lemma": "اجْتِمَاعِيٌّ" },
+        { "w": "وَتَبَادُلِ", "lemma": "تَبَادُلٌ" },
+        { "w": "الْأَحَادِيثِ", "lemma": "حَدِيثٌ / أَحَادِيثُ" },
+        { "w": "الشَّيِّقَةِ", "lemma": "شَيِّقٌ" }
+      ]
     },
     {
-      "arabic": "يَنْتَهِي اللِّقَاءُ غَالِبًا بِتَقْدِيمِ الْحَلَوِيَّاتِ الشَّرْقِيَّةِ الْمَغْمُورَةِ بِالْعَسَلِ، مِمَّا يَتْرُكُ أَثَرًا طَيِّبًا فِي نَفْسِ الزَّائِرِ.",
+      "arabic": "يَنْتَهِي اللِّقَاءُ غَالِبًا بِتَقْدِيمِ الْحَلَوِيَّاتِ الشَّرْقِيَّةِ الْمَغْمُورَةِ بِالْعَسَلِ، مِمَّا يَتْرُكُ أَثَرًا طَيِّبًا فِي نَفْسِ الزَّائِرِ.",
       "translation": "Susret se često završava posluživanjem orijentalnih slastica natopljenih medom, što ostavlja lijep utisak na posjetitelja.",
       "translationEn": "The meeting often ends with serving oriental sweets soaked in honey, which leaves a pleasant impression on the visitor.",
       "words": [
-        {
-          "w": "نَفْسِ",
-          "lemma": "نَفْسٌ / نُفُوسٌ"
-        }
+        { "w": "يَنْتَهِي", "lemma": "انْتَهَى يَنْتَهِي" },
+        { "w": "اللِّقَاءُ", "lemma": "لِقَاءٌ / لِقَاءَاتٌ" },
+        { "w": "غَالِبًا", "lemma": "غَالِبٌ" },
+        { "w": "بِتَقْدِيمِ", "lemma": "تَقْدِيمٌ" },
+        { "w": "الْحَلَوِيَّاتِ", "lemma": "حَلْوَى / حَلْوِيَّاتٌ" },
+        { "w": "الشَّرْقِيَّةِ", "lemma": "شَرْقِيٌّ" },
+        { "w": "الْمَغْمُورَةِ", "lemma": "مَغْمُورٌ" },
+        { "w": "بِالْعَسَلِ", "lemma": "عَسَلٌ" },
+        { "w": "يَتْرُكُ", "lemma": "تَرَكَ يَتْرُكُ" },
+        { "w": "أَثَرًا", "lemma": "أَثَرٌ / آثَارٌ" },
+        { "w": "طَيِّبًا", "lemma": "طَيِّبٌ" },
+        { "w": "نَفْسِ", "lemma": "نَفْسٌ / نُفُوسٌ" },
+        { "w": "الزَّائِرِ", "lemma": "زَائِرٌ / زُوَّارٌ" }
       ]
     }
   ],

@@ -4,29 +4,98 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعْتَبَرُ الْمَقْلُوبَةُ مِنَ الْأَطْبَاقِ الشَّعْبِيَّةِ الشَّهِيرَةِ فِي بِلَادِ الشَّامِ، وَهِيَ تَعْتَمِدُ بِشَكْلٍ أَسَاسِيٍّ عَلَى الْأَرُزِّ وَالْخُضَارِ.",
+      "arabic": "تُعْتَبَرُ الْمَقْلُوبَةُ مِنَ الْأَطْبَاقِ الشَّعْبِيَّةِ الشَّهِيرَةِ فِي بِلَادِ الشَّامِ، وَهِيَ تَعْتَمِدُ بِشَكْلٍ أَسَاسِيٍّ عَلَى الْأَرُزِّ وَالْخُضَارِ.",
       "translation": "Makluba se smatra jednim od poznatih narodnih jela u Levantu, a zasniva se prvenstveno na riži i povrću.",
-      "translationEn": "Maqluba is considered one of the famous folk dishes in the Levant, and it relies primarily on rice and vegetables."
+      "translationEn": "Maqluba is considered one of the famous folk dishes in the Levant, and it relies primarily on rice and vegetables.",
+      "words": [
+        { "w": "تُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "الْمَقْلُوبَةُ", "lemma": "مَقْلُوبَةٌ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "الشَّعْبِيَّةِ", "lemma": "شَعْبِيٌّ" },
+        { "w": "الشَّهِيرَةِ", "lemma": "شَهِيرٌ" },
+        { "w": "بِلَادِ", "lemma": "بَلَدٌ / بِلَادٌ" },
+        { "w": "الشَّامِ", "lemma": "شَامٌ" },
+        { "w": "تَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "أَسَاسِيٍّ", "lemma": "أَسَاسِيٌّ" },
+        { "w": "الْأَرُزِّ", "lemma": "أُرْزٌ" },
+        { "w": "وَالْخُضَارِ", "lemma": "خُضَارٌ" }
+      ]
     },
     {
-      "arabic": "يَتِمُّ صَفُّ شَرَائِحِ الْبَاذِنْجَانِ أَوِ الزَّهْرَةِ الْمَقْلِيَّةِ مَعَ قِطَعِ اللَّحْمِ أَوِ الدَّجَاجِ فِي قَاعِ الْقِدْرِ بِعِنَايَةٍ فَائِقَةٍ.",
+      "arabic": "يَتِمُّ صَفُّ شَرَائِحِ الْبَاذِنْجَانِ أَوِ الزَّهْرَةِ الْمَقْلِيَّةِ مَعَ قِطَعِ اللَّحْمِ أَوِ الدَّجَاجِ فِي قَاعِ الْقِدْرِ بِعِنَايَةٍ فَائِقَةٍ.",
       "translation": "Kriške patlidžana ili prženog karfiola s komadima mesa ili piletine slažu se na dno lonca s velikom pažnjom.",
-      "translationEn": "Slices of eggplant or fried cauliflower are layered with pieces of meat or chicken at the bottom of the pot with extreme care."
+      "translationEn": "Slices of eggplant or fried cauliflower are layered with pieces of meat or chicken at the bottom of the pot with extreme care.",
+      "words": [
+        { "w": "يَتِمُّ", "lemma": "تَمَّ يَتِمُّ" },
+        { "w": "صَفُّ", "lemma": "صَفٌّ / صُفُوفٌ" },
+        { "w": "شَرَائِحِ", "lemma": "شَرِيحَةٌ / شَرَائِحُ" },
+        { "w": "الْبَاذِنْجَانِ", "lemma": "بَاذِنْجَانٌ" },
+        { "w": "الزَّهْرَةِ", "lemma": "زَهْرَةٌ" },
+        { "w": "الْمَقْلِيَّةِ", "lemma": "مَقْلِيٌّ" },
+        { "w": "قِطَعِ", "lemma": "قِطْعَةٌ / قِطَعٌ" },
+        { "w": "اللَّحْمِ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "الدَّجَاجِ", "lemma": "دَجَاجٌ" },
+        { "w": "قَاعِ", "lemma": "قَاعٌ / قِيعَانٌ" },
+        { "w": "الْقِدْرِ", "lemma": "قِدْرٌ / قُدُورٌ" },
+        { "w": "بِعِنَايَةٍ", "lemma": "عِنَايَةٌ" },
+        { "w": "فَائِقَةٍ", "lemma": "فَائِقٌ" }
+      ]
     },
     {
-      "arabic": "بَعْدَ نُضْجِ الطَّبْخَةِ، يُقْلَبُ الْقِدْرُ رَأْسًا عَلَى عَقِبٍ فَوْقَ صِيْنِيَّةٍ كَبِيرَةٍ لِيَظْهَرَ الطَّبَقُ كَأَنَّهُ لَوْحَةٌ فَنِّيَّةٌ.",
+      "arabic": "بَعْدَ نُضْجِ الطَّبْخَةِ، يُقْلَبُ الْقِدْرُ رَأْسًا عَلَى عَقِبٍ فَوْقَ صِيْنِيَّةٍ كَبِيرَةٍ لِيَظْهَرَ الطَّبَقُ كَأَنَّهُ لَوْحَةٌ فَنِّيَّةٌ.",
       "translation": "Nakon što se jelo skuha, lonac se okreće naopako na veliki poslužavnik kako bi jelo izgledalo poput umjetničke slike.",
-      "translationEn": "After the dish is cooked, the pot is turned upside down onto a large tray so that the dish appears like an artistic painting."
+      "translationEn": "After the dish is cooked, the pot is turned upside down onto a large tray so that the dish appears like an artistic painting.",
+      "words": [
+        { "w": "نُضْجِ", "lemma": "نُضْجٌ" },
+        { "w": "الطَّبْخَةِ", "lemma": "طَبْخَةٌ" },
+        { "w": "يُقْلَبُ", "lemma": "قَلَبَ يَقْلِبُ" },
+        { "w": "الْقِدْرُ", "lemma": "قِدْرٌ / قُدُورٌ" },
+        { "w": "رَأْسًا", "lemma": "رَأْسٌ / رُؤُوسٌ" },
+        { "w": "عَقِبٍ", "lemma": "عَقِبٌ / أَعْقَابٌ" },
+        { "w": "صِينِيَّةٍ", "lemma": "صِينِيَّةٌ / صَوَانٍ" },
+        { "w": "كَبِيرَةٍ", "lemma": "كَبِيرٌ" },
+        { "w": "لِيَظْهَرَ", "lemma": "ظَهَرَ يَظْهَرُ" },
+        { "w": "الطَّبَقُ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "لَوْحَةٌ", "lemma": "لَوْحَةٌ / لَوْحَاتٌ" },
+        { "w": "فَنِّيَّةٌ", "lemma": "فَنِّيٌّ" }
+      ]
     },
     {
-      "arabic": "يُزَيَّنُ الْوَجْهُ بِالْمُكَسَّرَاتِ الْمُحَمَّصَةِ وَالْبَقْدُونسِ الْمَفْرُومِ، وَيُقَدَّمُ غَالِبًا إِلَى جَانِبِهِ اللَّبَنُ الرَّائِبُ أَوْ سَلَطَةٌ طَازَجَةٌ.",
+      "arabic": "يُزَيَّنُ الْوَجْهُ بِالْمُكَسَّرَاتِ الْمُحَمَّصَةِ وَالْبَقْدُونسِ الْمَفْرُومِ، وَيُقَدَّمُ غَالِبًا إِلَى جَانِبِهِ اللَّبَنُ الرَّائِبُ أَوْ سَلَطَةٌ طَازَجَةٌ.",
       "translation": "Vrh se ukrašava prženim orašastim plodovima i sjeckanim peršunom, a uz njega se često poslužuje jogurt ili svježa salata.",
-      "translationEn": "The top is decorated with toasted nuts and chopped parsley, and it is often served alongside yogurt or a fresh salad."
+      "translationEn": "The top is decorated with toasted nuts and chopped parsley, and it is often served alongside yogurt or a fresh salad.",
+      "words": [
+        { "w": "يُزَيَّنُ", "lemma": "زَيَّنَ يُزَيِّنُ" },
+        { "w": "الْوَجْهُ", "lemma": "وَجْهٌ / وُجُوهٌ" },
+        { "w": "بِالْمُكَسَّرَاتِ", "lemma": "مُكَسَّرَاتٌ" },
+        { "w": "الْمُحَمَّصَةِ", "lemma": "مُحَمَّصٌ" },
+        { "w": "وَالْبَقْدُونسِ", "lemma": "بَقْدُونسٌ" },
+        { "w": "الْمَفْرُومِ", "lemma": "مَفْرُومٌ" },
+        { "w": "وَيُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "غَالِبًا", "lemma": "غَالِبٌ" },
+        { "w": "جَانِبِهِ", "lemma": "جَانِبٌ / جَوَانِبُ" },
+        { "w": "اللَّبَنُ", "lemma": "لَبَنٌ" },
+        { "w": "الرَّائِبُ", "lemma": "رَائِبٌ" },
+        { "w": "سَلَطَةٌ", "lemma": "سَلَطَةٌ / سَلَطَاتٌ" },
+        { "w": "طَازَجَةٌ", "lemma": "طَازَجٌ" }
+      ]
     },
     {
-      "arabic": "وَمِنَ الْجَدِيرِ بِالذِّكْرِ أَنَّ هَذِهِ الْوَجْبَةَ تَرْتَبِطُ بِالِاجْتِمَاعَاتِ الْعَائِلِيَّةِ الْكَبِيرَةِ خُصُوصًا فِي أَيَّامِ الْعُطَلِ.",
+      "arabic": "وَمِنَ الْجَدِيرِ بِالذِّكْرِ أَنَّ هَذِهِ الْوَجْبَةَ تَرْتَبِطُ بِالِاجْتِمَاعَاتِ الْعَائِلِيَّةِ الْكَبِيرَةِ خُصُوصًا فِي أَيَّامِ الْعُطَلِ.",
       "translation": "Vrijedno je spomenuti da se ovaj obrok vezuje za velika porodična okupljanja, naročito tokom praznika i odmora.",
-      "translationEn": "It is worth mentioning that this meal is associated with large family gatherings, especially during holidays."
+      "translationEn": "It is worth mentioning that this meal is associated with large family gatherings, especially during holidays.",
+      "words": [
+        { "w": "الْجَدِيرِ", "lemma": "جَدِيرٌ" },
+        { "w": "بِالذِّكْرِ", "lemma": "ذِكْرٌ" },
+        { "w": "الْوَجْبَةَ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "تَرْتَبِطُ", "lemma": "ارْتَبَطَ يَرْتَبِطُ" },
+        { "w": "بِالِاجْتِمَاعَاتِ", "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ" },
+        { "w": "الْعَائِلِيَّةِ", "lemma": "عَائِلِيٌّ" },
+        { "w": "الْكَبِيرَةِ", "lemma": "كَبِيرٌ" },
+        { "w": "أَيَّامِ", "lemma": "يَوْمٌ / أَيَّامٌ" },
+        { "w": "الْعُطَلِ", "lemma": "عُطْلَةٌ / عُطَلٌ" }
+      ]
     }
   ],
   "metadata": {

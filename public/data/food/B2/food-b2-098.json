@@ -8,10 +8,18 @@
       "translation": "Maslina zauzima sveto mjesto u regiji Mediterana, gdje istovremeno pruža hranu i zdravstvene beneficije.",
       "translationEn": "The olive tree holds a sacred place in the Mediterranean region, providing both sustenance and health benefits.",
       "words": [
-        {
-          "w": "مَعًا",
-          "lemma": "مَعًا"
-        }
+        { "w": "تَحْتَلُّ", "lemma": "احْتَلَّ يَحْتَلُّ" },
+        { "w": "شَجَرَةُ", "lemma": "شَجَرَةٌ / أَشْجَارٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "مَكَانَةً", "lemma": "مَكَانَةٌ" },
+        { "w": "مُقَدَّسَةً", "lemma": "مُقَدَّسٌ" },
+        { "w": "مِنْطَقَةِ", "lemma": "مِنْطَقَةٌ / مَنَاطِقُ" },
+        { "w": "حَوْضِ", "lemma": "حَوْضٌ / أَحْوَاضٌ" },
+        { "w": "الْمُتَوَسِّطِ", "lemma": "مُتَوَسِّطٌ" },
+        { "w": "تُوَفِّرُ", "lemma": "وَفَّرَ يُوَفِّرُ" },
+        { "w": "الْقُوتَ", "lemma": "قُوتٌ" },
+        { "w": "وَالْفَوَائِدَ", "lemma": "فَائِدَةٌ / فَوَائِدُ" },
+        { "w": "الصِّحِّيَّةَ", "lemma": "صِحِّيٌّ" }
       ]
     },
     {
@@ -19,34 +27,75 @@
       "translation": "Hladno cijeđeno maslinovo ulje je osnovni element u skoro svakom obroku, zbog svoje vrijednosti bogate antioksidansima.",
       "translationEn": "Cold-pressed olive oil is an essential element in almost every meal, due to its rich antioxidant value.",
       "words": [
-        {
-          "w": "كُلِّ",
-          "lemma": "كُلٌّ"
-        }
+        { "w": "يُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "زَيْتُ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "الْمَعْصُورُ", "lemma": "مَعْصُورٌ" },
+        { "w": "بَارِدًا", "lemma": "بَارِدٌ" },
+        { "w": "عُنْصُرًا", "lemma": "عُنْصُرٌ / عَنَاصِرُ" },
+        { "w": "أَسَاسِيًّا", "lemma": "أَسَاسِيٌّ" },
+        { "w": "وَجْبَةٍ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "تَقْرِيبًا", "lemma": "تَقْرِيبٌ" },
+        { "w": "لِقِيمَتِهِ", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "الْغَنِيَّةِ", "lemma": "غَنِيٌّ" },
+        { "w": "بِمُضَادَّاتِ", "lemma": "مُضَادٌّ / مُضَادَّاتٌ" },
+        { "w": "الْأَكْسَدَةِ", "lemma": "أَكْسَدَةٌ" }
       ]
     },
     {
       "arabic": "يُؤَكِّدُ خُبَرَاءُ التَّغْذِيَةِ دَائِمًا عَلَى أَهَمِّيَّةِ دَمْجِ الْخُضْرَوَاتِ الطَّازَجَةِ وَالْبُقُولِيَّاتِ جَنْبًا إِلَى جَنْبٍ مَعَ هَذَا الزَّيْتِ الذَّهَبِيِّ.",
       "translation": "Nutricionisti uvijek naglašavaju važnost uključivanja svježeg povrća i mahunarki uporedo s ovim zlatnim uljem.",
       "translationEn": "Nutritionists always emphasize the importance of incorporating fresh vegetables and legumes alongside this golden oil.",
-      "words": []
+      "words": [
+        { "w": "يُؤَكِّدُ", "lemma": "أَكَّدَ يُؤَكِّدُ" },
+        { "w": "خُبَرَاءُ", "lemma": "خَبِيرٌ / خُبَرَاءُ" },
+        { "w": "التَّغْذِيَةِ", "lemma": "تَغْذِيَةٌ" },
+        { "w": "دَائِمًا", "lemma": "دَائِمٌ" },
+        { "w": "أَهَمِّيَّةِ", "lemma": "أَهَمِّيَّةٌ" },
+        { "w": "دَمْجِ", "lemma": "دَمْجٌ" },
+        { "w": "الْخُضْرَوَاتِ", "lemma": "خُضْرَوَاتٌ" },
+        { "w": "الطَّازَجَةِ", "lemma": "طَازَجٌ" },
+        { "w": "وَالْبُقُولِيَّاتِ", "lemma": "بُقُولِيَّاتٌ" },
+        { "w": "جَنْبًا", "lemma": "جَنْبٌ / جُنُوبٌ" },
+        { "w": "الزَّيْتِ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الذَّهَبِيِّ", "lemma": "ذَهَبِيٌّ" }
+      ]
     },
     {
       "arabic": "يُسَاهِمُ هَذَا النَّهْجُ الْمُتَوَازِنُ فِي الْأَكْلِ فِي طُولِ الْعُمْرِ وَرَفَاهِيَةِ السُّكَّانِ فِي الْعَالَمِ الْعَرَبِيِّ.",
       "translation": "Ovaj uravnotežen pristup ishrani doprinosi dugovječnosti i blagostanju stanovništva u arapskom svijetu.",
       "translationEn": "This balanced approach to eating contributes to the longevity and well-being of the population in the Arab world.",
       "words": [
-        {
-          "w": "طُولِ",
-          "lemma": "طُولٌ"
-        }
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "النَّهْجُ", "lemma": "نَهْجٌ / مَنَاهِجُ" },
+        { "w": "الْمُتَوَازِنُ", "lemma": "مُتَوَازِنٌ" },
+        { "w": "الْأَكْلِ", "lemma": "أَكْلٌ" },
+        { "w": "طُولِ", "lemma": "طُولٌ" },
+        { "w": "الْعُمْرِ", "lemma": "عُمْرٌ / أَعْمَارٌ" },
+        { "w": "وَرَفَاهِيَةِ", "lemma": "رَفَاهِيَةٌ" },
+        { "w": "السُّكَّانِ", "lemma": "سَاكِنٌ / سُكَّانٌ" },
+        { "w": "الْعَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" }
       ]
     },
     {
       "arabic": "مِنْ خِلَالِ تَجَنُّبِ الْمُضَافَاتِ الْمُصَنَّعَةِ وَالتَّرْكِيزِ عَلَى الْمَوَادِّ الطَّبِيعِيَّةِ، يَبْقَى الْمَطْبَخُ التَّقْلِيدِيُّ نَمُوذَجًا لِلْحَيَاةِ الصِّحِّيَّةِ.",
       "translation": "Izbjegavanjem prerađenih aditiva i fokusiranjem na prirodne materijale, tradicionalna kuhinja ostaje model za zdrav život.",
       "translationEn": "By avoiding processed additives and focusing on natural materials, traditional cuisine remains a model for healthy living.",
-      "words": []
+      "words": [
+        { "w": "تَجَنُّبِ", "lemma": "تَجَنُّبٌ" },
+        { "w": "الْمُضَافَاتِ", "lemma": "مُضَافٌ / مُضَافَاتٌ" },
+        { "w": "الْمُصَنَّعَةِ", "lemma": "مُصَنَّعٌ" },
+        { "w": "وَالتَّرْكِيزِ", "lemma": "تَرْكِيزٌ" },
+        { "w": "الْمَوَادِّ", "lemma": "مَادَّةٌ / مَوَادُّ" },
+        { "w": "الطَّبِيعِيَّةِ", "lemma": "طَبِيعِيٌّ" },
+        { "w": "يَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "الْمَطْبَخُ", "lemma": "مَطْبَخٌ / مَطَابِخُ" },
+        { "w": "التَّقْلِيدِيُّ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "نَمُوذَجًا", "lemma": "نَمُوذَجٌ / نَمَاذِجُ" },
+        { "w": "لِلْحَيَاةِ", "lemma": "حَيَاةٌ" },
+        { "w": "الصِّحِّيَّةِ", "lemma": "صِحِّيٌّ" }
+      ]
     }
   ],
   "metadata": {

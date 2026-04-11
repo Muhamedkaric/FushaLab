@@ -4,29 +4,94 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الضِّيافَةُ فِي الْعَالَمِ الْعَرَبِيِّ جُزْءًا لَا يَتَجَزَّأُ مِنَ الْهُوِيَّةِ الثَّقَافِيَّةِ، حَيْثُ يُسْتَقْبَلُ الضُّيُوفُ بِأَحَرِّ التَّرْحِيبِ.",
+      "arabic": "تُعَدُّ الضِّيافَةُ فِي الْعَالَمِ الْعَرَبِيِّ جُزْءًا لَا يَتَجَزَّأُ مِنَ الْهُوِيَّةِ الثَّقَافِيَّةِ، حَيْثُ يُسْتَقْبَلُ الضُّيُوفُ بِأَحَرِّ التَّرْحِيبِ.",
       "translation": "Gostoprimstvo u arapskom svijetu smatra se neodvojivim dijelom kulturnog identiteta, gdje se gosti dočekuju s najtoplijom dobrodošlicom.",
-      "translationEn": "Hospitality in the Arab world is considered an integral part of cultural identity, where guests are received with the warmest welcome."
+      "translationEn": "Hospitality in the Arab world is considered an integral part of cultural identity, where guests are received with the warmest welcome.",
+      "words": [
+        { "w": "تُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "الضِّيافَةُ", "lemma": "ضِيَافَةٌ" },
+        { "w": "الْعَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "جُزْءًا", "lemma": "جُزْءٌ / أَجْزَاءٌ" },
+        { "w": "يَتَجَزَّأُ", "lemma": "تَجَزَّأَ يَتَجَزَّأُ" },
+        { "w": "الْهُوِيَّةِ", "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ" },
+        { "w": "الثَّقَافِيَّةِ", "lemma": "ثَقَافِيٌّ" },
+        { "w": "يُسْتَقْبَلُ", "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ" },
+        { "w": "الضُّيُوفُ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "بِأَحَرِّ", "lemma": "حَارٌّ" },
+        { "w": "التَّرْحِيبِ", "lemma": "تَرْحِيبٌ" }
+      ]
     },
     {
-      "arabic": "وَتُعْتَبَرُ الْقَهْوَةُ الْعَرَبِيَّةُ، الْمُحَضَّرَةُ بِعِنَايَةٍ مَعَ الْهَيْلِ، رَمْزًا لِلْكَرَمِ وَالْجُودِ الَّذِي يَتَمَيَّزُ بِهِ الْمُجْتَمَعُ.",
+      "arabic": "وَتُعْتَبَرُ الْقَهْوَةُ الْعَرَبِيَّةُ، الْمُحَضَّرَةُ بِعِنَايَةٍ مَعَ الْهَيْلِ، رَمْزًا لِلْكَرَمِ وَالْجُودِ الَّذِي يَتَمَيَّزُ بِهِ الْمُجْتَمَعُ.",
       "translation": "Arapska kafa, pažljivo pripremljena s kardamomom, smatra se simbolom velikodušnosti i plemenitosti po kojoj se ovo društvo ističe.",
-      "translationEn": "Arabic coffee, carefully prepared with cardamom, is considered a symbol of the generosity and nobility that characterizes the society."
+      "translationEn": "Arabic coffee, carefully prepared with cardamom, is considered a symbol of the generosity and nobility that characterizes the society.",
+      "words": [
+        { "w": "وَتُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "الْقَهْوَةُ", "lemma": "قَهْوَةٌ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "الْمُحَضَّرَةُ", "lemma": "مُحَضَّرٌ" },
+        { "w": "بِعِنَايَةٍ", "lemma": "عِنَايَةٌ" },
+        { "w": "الْهَيْلِ", "lemma": "هَيْلٌ" },
+        { "w": "رَمْزًا", "lemma": "رَمْزٌ / رُمُوزٌ" },
+        { "w": "لِلْكَرَمِ", "lemma": "كَرَمٌ" },
+        { "w": "وَالْجُودِ", "lemma": "جُودٌ" },
+        { "w": "يَتَمَيَّزُ", "lemma": "تَمَيَّزَ يَتَمَيَّزُ" },
+        { "w": "الْمُجْتَمَعُ", "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ" }
+      ]
     },
     {
-      "arabic": "لَا يَقْتَصِرُ تَقْدِيمُ الْقَهْوَةِ عَلَى كَوْنِهَا مَشْرُوبًا فَحَسْبُ، بَلْ هِيَ طَقْسٌ اِجْتِمَاعِيٌّ يَعْكِسُ الِاحْتِرَامَ الْمُتَبَادَلَ بَيْنَ الْحَاضِرِينَ.",
+      "arabic": "لَا يَقْتَصِرُ تَقْدِيمُ الْقَهْوَةِ عَلَى كَوْنِهَا مَشْرُوبًا فَحَسْبُ، بَلْ هِيَ طَقْسٌ اِجْتِمَاعِيٌّ يَعْكِسُ الِاحْتِرَامَ الْمُتَبَادَلَ بَيْنَ الْحَاضِرِينَ.",
       "translation": "Služenje kafe nije ograničeno samo na to da bude napitak, već je to društveni ritual koji odražava međusobno poštovanje među prisutnima.",
-      "translationEn": "Serving coffee is not limited to just being a drink; rather, it is a social ritual that reflects mutual respect among those present."
+      "translationEn": "Serving coffee is not limited to just being a drink; rather, it is a social ritual that reflects mutual respect among those present.",
+      "words": [
+        { "w": "يَقْتَصِرُ", "lemma": "اقْتَصَرَ يَقْتَصِرُ" },
+        { "w": "تَقْدِيمُ", "lemma": "تَقْدِيمٌ" },
+        { "w": "الْقَهْوَةِ", "lemma": "قَهْوَةٌ" },
+        { "w": "مَشْرُوبًا", "lemma": "مَشْرُوبٌ / مَشْرُوبَاتٌ" },
+        { "w": "طَقْسٌ", "lemma": "طَقْسٌ / طُقُوسٌ" },
+        { "w": "اجْتِمَاعِيٌّ", "lemma": "اجْتِمَاعِيٌّ" },
+        { "w": "يَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "الِاحْتِرَامَ", "lemma": "احْتِرَامٌ" },
+        { "w": "الْمُتَبَادَلَ", "lemma": "مُتَبَادَلٌ" },
+        { "w": "الْحَاضِرِينَ", "lemma": "حَاضِرٌ / حَاضِرُونَ" }
+      ]
     },
     {
-      "arabic": "وَغَالِبًا مَا تُقَدَّمُ هَذِهِ الْقَهْوَةُ فِي فَنَاجِينَ صَغِيرَةٍ مَعَ حَبَّاتٍ مِنَ التَّمْرِ السُّكَّرِيِّ لِتَعْدِيلِ مَذَاقِهَا الْمُرِّ.",
+      "arabic": "وَغَالِبًا مَا تُقَدَّمُ هَذِهِ الْقَهْوَةُ فِي فَنَاجِينَ صَغِيرَةٍ مَعَ حَبَّاتٍ مِنَ التَّمْرِ السُّكَّرِيِّ لِتَعْدِيلِ مَذَاقِهَا الْمُرِّ.",
       "translation": "Ova kafa se često poslužuje u malim šoljicama uz nekoliko slatkih hurmi kako bi se uravnotežio njen gorak ukus.",
-      "translationEn": "This coffee is often served in small cups with some sweet dates to balance its bitter taste."
+      "translationEn": "This coffee is often served in small cups with some sweet dates to balance its bitter taste.",
+      "words": [
+        { "w": "وَغَالِبًا", "lemma": "غَالِبٌ" },
+        { "w": "تُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "الْقَهْوَةُ", "lemma": "قَهْوَةٌ" },
+        { "w": "فَنَاجِينَ", "lemma": "فِنْجَانٌ / فَنَاجِينُ" },
+        { "w": "صَغِيرَةٍ", "lemma": "صَغِيرٌ" },
+        { "w": "حَبَّاتٍ", "lemma": "حَبَّةٌ / حَبَّاتٌ" },
+        { "w": "التَّمْرِ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "السُّكَّرِيِّ", "lemma": "سُكَّرِيٌّ" },
+        { "w": "لِتَعْدِيلِ", "lemma": "تَعْدِيلٌ" },
+        { "w": "مَذَاقِهَا", "lemma": "مَذَاقٌ" },
+        { "w": "الْمُرِّ", "lemma": "مُرٌّ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الِالْتِزَامَ بِهَذِهِ التَّقَالِيدِ يُعَزِّزُ الرَّوَابِطَ الْأُسَرِيَّةَ وَالِاجْتِمَاعِيَّةَ، مِمَّا يَجْعَلُ لِكُلِّ مَجْلِسٍ نَكْهَةً خَاصَّةً لَا تُنْسَى.",
+      "arabic": "إِنَّ الِالْتِزَامَ بِهَذِهِ التَّقَالِيدِ يُعَزِّزُ الرَّوَابِطَ الْأُسَرِيَّةَ وَالِاجْتِمَاعِيَّةَ، مِمَّا يَجْعَلُ لِكُلِّ مَجْلِسٍ نَكْهَةً خَاصَّةً لَا تُنْسَى.",
       "translation": "Pridržavanje ovih tradicija jača porodične i društvene veze, čineći svako okupljanje posebnim i nezaboravnim.",
-      "translationEn": "Adhering to these traditions strengthens family and social bonds, giving every gathering a special and unforgettable flavor."
+      "translationEn": "Adhering to these traditions strengthens family and social bonds, giving every gathering a special and unforgettable flavor.",
+      "words": [
+        { "w": "الِالْتِزَامَ", "lemma": "الْتِزَامٌ" },
+        { "w": "التَّقَالِيدِ", "lemma": "تَقْلِيدٌ / تَقَالِيدُ" },
+        { "w": "يُعَزِّزُ", "lemma": "عَزَّزَ يُعَزِّزُ" },
+        { "w": "الرَّوَابِطَ", "lemma": "رَابِطَةٌ / رَوَابِطُ" },
+        { "w": "الْأُسَرِيَّةَ", "lemma": "أُسَرِيٌّ" },
+        { "w": "وَالِاجْتِمَاعِيَّةَ", "lemma": "اجْتِمَاعِيٌّ" },
+        { "w": "يَجْعَلُ", "lemma": "جَعَلَ يَجْعَلُ" },
+        { "w": "مَجْلِسٍ", "lemma": "مَجْلِسٌ / مَجَالِسُ" },
+        { "w": "نَكْهَةً", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "خَاصَّةً", "lemma": "خَاصٌّ" },
+        { "w": "تُنْسَى", "lemma": "نَسِيَ يَنْسَى" }
+      ]
     }
   ],
   "metadata": {

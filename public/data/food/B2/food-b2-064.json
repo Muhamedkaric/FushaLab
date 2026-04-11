@@ -4,29 +4,100 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَتَصَدَّرُ الْكَبْسَةُ قَائِمَةَ الْأَطْبَاقِ التَّقْلِيدِيَّةِ فِي دُوَلِ الْخَلِيجِ، وَتُعْتَبَرُ الْوَجْبَةَ الرَّئِيسِيَّةَ فِي الْمُنَاسَبَاتِ الِاجْتِمَاعِيَّةِ.",
+      "arabic": "تَتَصَدَّرُ الْكَبْسَةُ قَائِمَةَ الْأَطْبَاقِ التَّقْلِيدِيَّةِ فِي دُوَلِ الْخَلِيجِ، وَتُعْتَبَرُ الْوَجْبَةَ الرَّئِيسِيَّةَ فِي الْمُنَاسَبَاتِ الِاجْتِمَاعِيَّةِ.",
       "translation": "Kabsa predvodi listu tradicionalnih jela u zaljevskim zemljama i smatra se glavnim obrokom u društvenim prilikama.",
-      "translationEn": "Kabsa tops the list of traditional dishes in the Gulf countries and is considered the main meal on social occasions."
+      "translationEn": "Kabsa tops the list of traditional dishes in the Gulf countries and is considered the main meal on social occasions.",
+      "words": [
+        { "w": "تَتَصَدَّرُ", "lemma": "تَصَدَّرَ يَتَصَدَّرُ" },
+        { "w": "الْكَبْسَةُ", "lemma": "كَبْسَةٌ" },
+        { "w": "قَائِمَةَ", "lemma": "قَائِمَةٌ / قَوَائِمُ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "التَّقْلِيدِيَّةِ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "دُوَلِ", "lemma": "دَوْلَةٌ / دُوَلٌ" },
+        { "w": "الْخَلِيجِ", "lemma": "خَلِيجٌ / خُلْجَانٌ" },
+        { "w": "وَتُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "الْوَجْبَةَ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "الرَّئِيسِيَّةَ", "lemma": "رَئِيسِيٌّ" },
+        { "w": "الْمُنَاسَبَاتِ", "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ" },
+        { "w": "الِاجْتِمَاعِيَّةِ", "lemma": "اجْتِمَاعِيٌّ" }
+      ]
     },
     {
-      "arabic": "تَعْتَمِدُ الْكَبْسَةُ فِي تَحْضِيرِهَا عَلَى لَحْمِ الضَّأْنِ مَعَ الْأَرْزِ طَوِيلِ الْحَبَّةِ، وَمَزِيجٍ خَاصٍّ مِنَ الْبُهَارَاتِ مِثْلِ اللَّوْمِي وَالْهَيْلِ.",
+      "arabic": "تَعْتَمِدُ الْكَبْسَةُ فِي تَحْضِيرِهَا عَلَى لَحْمِ الضَّأْنِ مَعَ الْأَرْزِ طَوِيلِ الْحَبَّةِ، وَمَزِيجٍ خَاصٍّ مِنَ الْبُهَارَاتِ مِثْلِ اللَّوْمِي وَالْهَيْلِ.",
       "translation": "Priprema kabse zasniva se na janjetini s rižom dugog zrna i posebnoj mješavini začina poput sušene limete i kardamoma.",
-      "translationEn": "Kabsa preparation relies on lamb with long-grain rice and a special blend of spices such as dried lime and cardamom."
+      "translationEn": "Kabsa preparation relies on lamb with long-grain rice and a special blend of spices such as dried lime and cardamom.",
+      "words": [
+        { "w": "تَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "الْكَبْسَةُ", "lemma": "كَبْسَةٌ" },
+        { "w": "تَحْضِيرِهَا", "lemma": "تَحْضِيرٌ" },
+        { "w": "لَحْمِ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "الضَّأْنِ", "lemma": "ضَأْنٌ" },
+        { "w": "الْأَرْزِ", "lemma": "أُرْزٌ" },
+        { "w": "طَوِيلِ", "lemma": "طَوِيلٌ" },
+        { "w": "الْحَبَّةِ", "lemma": "حَبَّةٌ / حَبَّاتٌ" },
+        { "w": "وَمَزِيجٍ", "lemma": "مَزِيجٌ / أَمْزِجَةٌ" },
+        { "w": "خَاصٍّ", "lemma": "خَاصٌّ" },
+        { "w": "الْبُهَارَاتِ", "lemma": "بَهَارٌ / بُهَارَاتٌ" },
+        { "w": "اللَّوْمِي", "lemma": "لَوْمِيٌّ" },
+        { "w": "وَالْهَيْلِ", "lemma": "هَيْلٌ" }
+      ]
     },
     {
-      "arabic": "يَتَطَلَّبُ طَهْيُ اللَّحْمِ وَقْتًا طَوِيلًا حَتَّى يُصْبِحَ طَرِيًّا جِدًّا وَيَمْتَصَّ نَكْهَةَ الْمَرَقِ الْمُتَبَّلِ بِشَكْلٍ عَمِيقٍ.",
+      "arabic": "يَتَطَلَّبُ طَهْيُ اللَّحْمِ وَقْتًا طَوِيلًا حَتَّى يُصْبِحَ طَرِيًّا جِدًّا وَيَمْتَصَّ نَكْهَةَ الْمَرَقِ الْمُتَبَّلِ بِشَكْلٍ عَمِيقٍ.",
       "translation": "Kuhanje mesa zahtijeva dugo vrijeme dok ne postane veoma mekano i duboko upije ukus začinjenog bujona.",
-      "translationEn": "Cooking the meat requires a long time until it becomes very tender and deeply absorbs the flavor of the seasoned broth."
+      "translationEn": "Cooking the meat requires a long time until it becomes very tender and deeply absorbs the flavor of the seasoned broth.",
+      "words": [
+        { "w": "يَتَطَلَّبُ", "lemma": "تَطَلَّبَ يَتَطَلَّبُ" },
+        { "w": "طَهْيُ", "lemma": "طَهْيٌ" },
+        { "w": "اللَّحْمِ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "وَقْتًا", "lemma": "وَقْتٌ / أَوْقَاتٌ" },
+        { "w": "طَوِيلًا", "lemma": "طَوِيلٌ" },
+        { "w": "يُصْبِحَ", "lemma": "أَصْبَحَ يُصْبِحُ" },
+        { "w": "طَرِيًّا", "lemma": "طَرِيٌّ" },
+        { "w": "وَيَمْتَصَّ", "lemma": "امْتَصَّ يَمْتَصُّ" },
+        { "w": "نَكْهَةَ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "الْمَرَقِ", "lemma": "مَرَقٌ / مِرَاقٌ" },
+        { "w": "الْمُتَبَّلِ", "lemma": "مُتَبَّلٌ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "عَمِيقٍ", "lemma": "عَمِيقٌ" }
+      ]
     },
     {
-      "arabic": "تُقَدَّمُ الْكَبْسَةُ عَادَةً فِي أَطْبَاقٍ وَاسِعَةٍ، وَيُزَيَّنُ سَطْحُهَا بِاللَّوْزِ الْمُحَمَّصِ وَالزَّبِيبِ لِإِضْفَاءِ لَمْسَةٍ مِنَ الْفَخَامَةِ.",
+      "arabic": "تُقَدَّمُ الْكَبْسَةُ عَادَةً فِي أَطْبَاقٍ وَاسِعَةٍ، وَيُزَيَّنُ سَطْحُهَا بِاللَّوْزِ الْمُحَمَّصِ وَالزَّبِيبِ لِإِضْفَاءِ لَمْسَةٍ مِنَ الْفَخَامَةِ.",
       "translation": "Kabsa se obično poslužuje u velikim posudama, a njena površina se ukrašava prženim bademima i grožđicama kako bi se dodao dašak luksuza.",
-      "translationEn": "Kabsa is usually served in large dishes, and its surface is decorated with roasted almonds and raisins to add a touch of luxury."
+      "translationEn": "Kabsa is usually served in large dishes, and its surface is decorated with roasted almonds and raisins to add a touch of luxury.",
+      "words": [
+        { "w": "تُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "الْكَبْسَةُ", "lemma": "كَبْسَةٌ" },
+        { "w": "عَادَةً", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "أَطْبَاقٍ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "وَاسِعَةٍ", "lemma": "وَاسِعٌ" },
+        { "w": "وَيُزَيَّنُ", "lemma": "زَيَّنَ يُزَيِّنُ" },
+        { "w": "سَطْحُهَا", "lemma": "سَطْحٌ / أَسْطُحٌ" },
+        { "w": "بِاللَّوْزِ", "lemma": "لَوْزٌ" },
+        { "w": "الْمُحَمَّصِ", "lemma": "مُحَمَّصٌ" },
+        { "w": "وَالزَّبِيبِ", "lemma": "زَبِيبٌ" },
+        { "w": "لِإِضْفَاءِ", "lemma": "إِضْفَاءٌ" },
+        { "w": "لَمْسَةٍ", "lemma": "لَمْسَةٌ / لَمَسَاتٌ" },
+        { "w": "الْفَخَامَةِ", "lemma": "فَخَامَةٌ" }
+      ]
     },
     {
-      "arabic": "رَغْمَ تَعَدُّدِ طُرُقِ تَحْضِيرِهَا، تَبْقَى الْكَبْسَةُ رَمْزًا لِلْهُوِيَّةِ وَالْأَصَالَةِ فِي الْمَطْبَخِ الْعَرَبِيِّ.",
+      "arabic": "رَغْمَ تَعَدُّدِ طُرُقِ تَحْضِيرِهَا، تَبْقَى الْكَبْسَةُ رَمْزًا لِلْهُوِيَّةِ وَالْأَصَالَةِ فِي الْمَطْبَخِ الْعَرَبِيِّ.",
       "translation": "Uprkos brojnim načinima pripreme, kabsa ostaje simbol identiteta i autentičnosti u arapskoj kuhinji.",
-      "translationEn": "Despite the many ways of preparing it, Kabsa remains a symbol of identity and authenticity in Arab cuisine."
+      "translationEn": "Despite the many ways of preparing it, Kabsa remains a symbol of identity and authenticity in Arab cuisine.",
+      "words": [
+        { "w": "تَعَدُّدِ", "lemma": "تَعَدُّدٌ" },
+        { "w": "طُرُقِ", "lemma": "طَرِيقٌ / طُرُقٌ" },
+        { "w": "تَحْضِيرِهَا", "lemma": "تَحْضِيرٌ" },
+        { "w": "تَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "الْكَبْسَةُ", "lemma": "كَبْسَةٌ" },
+        { "w": "رَمْزًا", "lemma": "رَمْزٌ / رُمُوزٌ" },
+        { "w": "لِلْهُوِيَّةِ", "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ" },
+        { "w": "وَالْأَصَالَةِ", "lemma": "أَصَالَةٌ" },
+        { "w": "الْمَطْبَخِ", "lemma": "مَطْبَخٌ / مَطَابِخُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" }
+      ]
     }
   ],
   "metadata": {

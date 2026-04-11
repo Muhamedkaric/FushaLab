@@ -4,39 +4,105 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَمْتَازُ الْمَائِدَةُ الْعَرَبِيَّةُ فِي بِلَادِ الشَّامِ بِاعْتِمَادِهَا الْكَبِيرِ عَلَى زَيْتِ الزَّيْتُونِ وَالْخُضْرَاوَاتِ الْمَوْسِمِيَّةِ الطَّازَجَةِ.",
+      "arabic": "تَمْتَازُ الْمَائِدَةُ الْعَرَبِيَّةُ فِي بِلَادِ الشَّامِ بِاعْتِمَادِهَا الْكَبِيرِ عَلَى زَيْتِ الزَّيْتُونِ وَالْخُضْرَاوَاتِ الْمَوْسِمِيَّةِ الطَّازَجَةِ.",
       "translation": "Arapska trpeza u Levantu odlikuje se velikim oslanjanjem na maslinovo ulje i svježe sezonsko povrće.",
       "translationEn": "The Arabic table in the Levant is characterized by its heavy reliance on olive oil and fresh seasonal vegetables.",
-      "words": []
-    },
-    {
-      "arabic": "تُشِيرُ الدِّرَاسَاتُ الطِّبِّيَّةُ إِلَى أَنَّ هَذَا النَّمَطَ الْغِذَائِيَّ يُسَاهِمُ بِشَكْلٍ فَعَّالٍ فِي تَعْزِيزِ صِحَّةِ الْقَلْبِ وَتَقْلِيلِ مَخَاطِرِ الْأَمْرَاضِ الْمُزْمِنَةِ.",
-      "translation": "Medicinske studije ukazuju na to da ovaj način ishrane efikasno doprinosi jačanju zdravlja srca i smanjenju rizika od hroničnih bolesti.",
-      "translationEn": "Medical studies indicate that this dietary pattern effectively contributes to promoting heart health and reducing the risk of chronic diseases.",
-      "words": []
-    },
-    {
-      "arabic": "تَلْعَبُ الْبُقُولِيَّاتُ مِثْلُ الْحِمَّصِ وَالْعَدَسِ دَوْرًا مِحْوَرِيًّا كَمَصْدَرٍ غَنِيٍّ بِالْبْرُوتِينَاتِ النَّبَاتِيَّةِ وَالْأَلْيَافِ الضَّرُورِيَّةِ لِلْجِسْمِ.",
-      "translation": "Mahunarke poput leblebija i leće igraju ključnu ulogu kao bogat izvor biljnih proteina i vlakana neophodnih tijelu.",
-      "translationEn": "Legumes like chickpeas and lentils play a pivotal role as a rich source of plant proteins and essential fibers for the body.",
-      "words": []
-    },
-    {
-      "arabic": "بَدَلًا مِنَ السُّكَّرِيَّاتِ الْمُصَنَّعَةِ، يُفَضِّلُ النَّاسُ تَنَاوُلَ الْفَوَاكِهِ الْمُجَفَّفَةِ كَالتَّمْرِ وَالتِّينِ الَّتِي تَمُدُّ الْإِنْسَانَ بِالطَّاقَةِ الطَّبِيعِيَّةِ.",
-      "translation": "Umjesto prerađenih šećera, ljudi radije konzumiraju sušeno voće poput datula i smokava koje čovjeku daju prirodnu energiju.",
-      "translationEn": "Instead of processed sugars, people prefer eating dried fruits like dates and figs which provide the person with natural energy.",
       "words": [
-        {
-          "w": "بَدَلًا",
-          "lemma": "بَدَلَ"
-        }
+        { "w": "تَمْتَازُ", "lemma": "امْتَازَ يَمْتَازُ" },
+        { "w": "الْمَائِدَةُ", "lemma": "مَائِدَةٌ / مَوَائِدُ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "بِلَادِ", "lemma": "بَلَدٌ / بِلَادٌ" },
+        { "w": "الشَّامِ", "lemma": "شَامٌ" },
+        { "w": "بِاعْتِمَادِهَا", "lemma": "اعْتِمَادٌ" },
+        { "w": "الْكَبِيرِ", "lemma": "كَبِيرٌ" },
+        { "w": "زَيْتِ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "وَالْخُضْرَاوَاتِ", "lemma": "خَضْرَاوَاتٌ" },
+        { "w": "الْمَوْسِمِيَّةِ", "lemma": "مَوْسِمِيٌّ" },
+        { "w": "الطَّازَجَةِ", "lemma": "طَازَجٌ" }
       ]
     },
     {
-      "arabic": "إِنَّ التَّوَازُنَ بَيْنَ الْمُكَوِّنَاتِ الطَّبِيعِيَّةِ وَطُرُقِ الطَّهْيِ الصِّحِّيَّةِ يَجْعَلُ مِنَ الْمَطْبَخِ الْعَرَبِيِّ نَمُوذَجًا مِثَالِيًّا لِلتَّغْذِيَةِ السَّلِيمَةِ.",
+      "arabic": "تُشِيرُ الدِّرَاسَاتُ الطِّبِّيَّةُ إِلَى أَنَّ هَذَا النَّمَطَ الْغِذَائِيَّ يُسَاهِمُ بِشَكْلٍ فَعَّالٍ فِي تَعْزِيزِ صِحَّةِ الْقَلْبِ وَتَقْلِيلِ مَخَاطِرِ الْأَمْرَاضِ الْمُزْمِنَةِ.",
+      "translation": "Medicinske studije ukazuju na to da ovaj način ishrane efikasno doprinosi jačanju zdravlja srca i smanjenju rizika od hroničnih bolesti.",
+      "translationEn": "Medical studies indicate that this dietary pattern effectively contributes to promoting heart health and reducing the risk of chronic diseases.",
+      "words": [
+        { "w": "تُشِيرُ", "lemma": "أَشَارَ يُشِيرُ" },
+        { "w": "الدِّرَاسَاتُ", "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ" },
+        { "w": "الطِّبِّيَّةُ", "lemma": "طِبِّيٌّ" },
+        { "w": "النَّمَطَ", "lemma": "نَمَطٌ / أَنْمَاطٌ" },
+        { "w": "الْغِذَائِيَّ", "lemma": "غِذَائِيٌّ" },
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "فَعَّالٍ", "lemma": "فَعَّالٌ" },
+        { "w": "تَعْزِيزِ", "lemma": "تَعْزِيزٌ" },
+        { "w": "صِحَّةِ", "lemma": "صِحَّةٌ" },
+        { "w": "الْقَلْبِ", "lemma": "قَلْبٌ / قُلُوبٌ" },
+        { "w": "وَتَقْلِيلِ", "lemma": "تَقْلِيلٌ" },
+        { "w": "مَخَاطِرِ", "lemma": "مَخْطَرٌ / مَخَاطِرُ" },
+        { "w": "الْأَمْرَاضِ", "lemma": "مَرَضٌ / أَمْرَاضٌ" },
+        { "w": "الْمُزْمِنَةِ", "lemma": "مُزْمِنٌ" }
+      ]
+    },
+    {
+      "arabic": "تَلْعَبُ الْبُقُولِيَّاتُ مِثْلُ الْحِمَّصِ وَالْعَدَسِ دَوْرًا مِحْوَرِيًّا كَمَصْدَرٍ غَنِيٍّ بِالْبْرُوتِينَاتِ النَّبَاتِيَّةِ وَالْأَلْيَافِ الضَّرُورِيَّةِ لِلْجِسْمِ.",
+      "translation": "Mahunarke poput leblebija i leće igraju ključnu ulogu kao bogat izvor biljnih proteina i vlakana neophodnih tijelu.",
+      "translationEn": "Legumes like chickpeas and lentils play a pivotal role as a rich source of plant proteins and essential fibers for the body.",
+      "words": [
+        { "w": "تَلْعَبُ", "lemma": "لَعِبَ يَلْعَبُ" },
+        { "w": "الْبُقُولِيَّاتُ", "lemma": "بُقُولِيَّاتٌ" },
+        { "w": "الْحِمَّصِ", "lemma": "حِمَّصٌ" },
+        { "w": "وَالْعَدَسِ", "lemma": "عَدَسٌ" },
+        { "w": "دَوْرًا", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "مِحْوَرِيًّا", "lemma": "مِحْوَرِيٌّ" },
+        { "w": "كَمَصْدَرٍ", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "غَنِيٍّ", "lemma": "غَنِيٌّ" },
+        { "w": "بِالْبُرُوتِينَاتِ", "lemma": "بُرُوتِينٌ / بُرُوتِينَاتٌ" },
+        { "w": "النَّبَاتِيَّةِ", "lemma": "نَبَاتِيٌّ" },
+        { "w": "وَالْأَلْيَافِ", "lemma": "لِيفٌ / أَلْيَافٌ" },
+        { "w": "الضَّرُورِيَّةِ", "lemma": "ضَرُورِيٌّ" },
+        { "w": "لِلْجِسْمِ", "lemma": "جِسْمٌ / أَجْسَامٌ" }
+      ]
+    },
+    {
+      "arabic": "بَدَلًا مِنَ السُّكَّرِيَّاتِ الْمُصَنَّعَةِ، يُفَضِّلُ النَّاسُ تَنَاوُلَ الْفَوَاكِهِ الْمُجَفَّفَةِ كَالتَّمْرِ وَالتِّينِ الَّتِي تَمُدُّ الْإِنْسَانَ بِالطَّاقَةِ الطَّبِيعِيَّةِ.",
+      "translation": "Umjesto prerađenih šećera, ljudi radije konzumiraju sušeno voće poput datula i smokava koje čovjeku daju prirodnu energiju.",
+      "translationEn": "Instead of processed sugars, people prefer eating dried fruits like dates and figs which provide the person with natural energy.",
+      "words": [
+        { "w": "السُّكَّرِيَّاتِ", "lemma": "سُكَّرِيَّاتٌ" },
+        { "w": "الْمُصَنَّعَةِ", "lemma": "مُصَنَّعٌ" },
+        { "w": "يُفَضِّلُ", "lemma": "فَضَّلَ يُفَضِّلُ" },
+        { "w": "النَّاسُ", "lemma": "نَاسٌ" },
+        { "w": "تَنَاوُلَ", "lemma": "تَنَاوُلٌ" },
+        { "w": "الْفَوَاكِهِ", "lemma": "فَاكِهَةٌ / فَوَاكِهُ" },
+        { "w": "الْمُجَفَّفَةِ", "lemma": "مُجَفَّفٌ" },
+        { "w": "كَالتَّمْرِ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "وَالتِّينِ", "lemma": "تِينٌ" },
+        { "w": "تَمُدُّ", "lemma": "مَدَّ يَمُدُّ" },
+        { "w": "الْإِنْسَانَ", "lemma": "إِنْسَانٌ / أُنَاسٌ" },
+        { "w": "بِالطَّاقَةِ", "lemma": "طَاقَةٌ" },
+        { "w": "الطَّبِيعِيَّةِ", "lemma": "طَبِيعِيٌّ" }
+      ]
+    },
+    {
+      "arabic": "إِنَّ التَّوَازُنَ بَيْنَ الْمُكَوِّنَاتِ الطَّبِيعِيَّةِ وَطُرُقِ الطَّهْيِ الصِّحِّيَّةِ يَجْعَلُ مِنَ الْمَطْبَخِ الْعَرَبِيِّ نَمُوذَجًا مِثَالِيًّا لِلتَّغْذِيَةِ السَّلِيمَةِ.",
       "translation": "Ravnoteža između prirodnih sastojaka i zdravih načina kuhanja čini arapsku kuhinju idealnim modelom za pravilnu ishranu.",
       "translationEn": "The balance between natural ingredients and healthy cooking methods makes Arabic cuisine an ideal model for proper nutrition.",
-      "words": []
+      "words": [
+        { "w": "التَّوَازُنَ", "lemma": "تَوَازُنٌ" },
+        { "w": "الْمُكَوِّنَاتِ", "lemma": "مُكَوِّنٌ / مُكَوِّنَاتٌ" },
+        { "w": "الطَّبِيعِيَّةِ", "lemma": "طَبِيعِيٌّ" },
+        { "w": "وَطُرُقِ", "lemma": "طَرِيقٌ / طُرُقٌ" },
+        { "w": "الطَّهْيِ", "lemma": "طَهْيٌ" },
+        { "w": "الصِّحِّيَّةِ", "lemma": "صِحِّيٌّ" },
+        { "w": "يَجْعَلُ", "lemma": "جَعَلَ يَجْعَلُ" },
+        { "w": "الْمَطْبَخِ", "lemma": "مَطْبَخٌ / مَطَابِخُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "نَمُوذَجًا", "lemma": "نَمُوذَجٌ / نَمَاذِجُ" },
+        { "w": "مِثَالِيًّا", "lemma": "مِثَالِيٌّ" },
+        { "w": "لِلتَّغْذِيَةِ", "lemma": "تَغْذِيَةٌ" },
+        { "w": "السَّلِيمَةِ", "lemma": "سَلِيمٌ" }
+      ]
     }
   ],
   "metadata": {

@@ -4,39 +4,94 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ زِيَارَةُ السُّوقِ الشَّعْبِيِّ التَّقْلِيدِيِّ تَجْرِبَةً حِسِّيَّةً لَا تُنْسَى، حَيْثُ تَمْتَزِجُ رَوَائِحُ التَّوَابِلِ بِأَصْوَاتِ الْبَاعَةِ.",
+      "arabic": "تُعَدُّ زِيَارَةُ السُّوقِ الشَّعْبِيِّ التَّقْلِيدِيِّ تَجْرِبَةً حِسِّيَّةً لَا تُنْسَى، حَيْثُ تَمْتَزِجُ رَوَائِحُ التَّوَابِلِ بِأَصْوَاتِ الْبَاعَةِ.",
       "translation": "Posjeta tradicionalnoj narodnoj pijaci predstavlja nezaboravno čulno iskustvo, gdje se mirisi začina miješaju sa glasovima prodavača.",
       "translationEn": "Visiting a traditional folk market is an unforgettable sensory experience, where the scents of spices mix with the voices of sellers.",
-      "words": []
-    },
-    {
-      "arabic": "يُمْكِنُكَ الْعُثُورُ عَلَى أَنْوَاعٍ شَتَّى مِنَ الْحُبُوبِ، وَالْمُكَسَّرَاتِ، وَالْفَوَاكِهِ الْمُجَفَّفَةِ الْمَعْرُوضَةِ بِتَنَاسُقٍ يَجْذِبُ الْأَنْظَارَ.",
-      "translation": "Možete pronaći razne vrste žitarica, orašastih plodova i sušenog voća izloženih u harmoniji koja privlači poglede.",
-      "translationEn": "You can find various types of grains, nuts, and dried fruits displayed in a harmony that catches the eye.",
-      "words": []
-    },
-    {
-      "arabic": "غَالِباً مَا يَتَفَاوَضُ الْمُتَسَوِّقُونَ عَلَى الْأَسْعَارِ مَعَ التُّجَّارِ، مِمَّا يُضْفِي طَابَعاً إِنْسَانِيّاً تَقْلِيدِيّاً عَلَى عَمَلِيَّةِ الْبَيْعِ.",
-      "translation": "Kupci se često cjenkaju oko cijena sa trgovcima, što prodajnom procesu daje tradicionalni ljudski karakter.",
-      "translationEn": "Shoppers often negotiate prices with merchants, adding a traditional human character to the selling process.",
-      "words": []
-    },
-    {
-      "arabic": "لَيْسَتْ هَذِهِ الْأَسْوَاقُ مُجَرَّدَ أَمَاكِنَ لِلتِّجَارَةِ، بَلْ هِيَ مَرَاكِزُ اجْتِمَاعِيَّةٌ يَلْتَقِي فِيهَا النَّاسُ لِتَبَادُلِ الْأَخْبَارِ.",
-      "translation": "Ove pijace nisu samo mjesta za trgovinu, već su društveni centri u kojima se ljudi sastaju kako bi razmijenili vijesti.",
-      "translationEn": "These markets are not just places for trade, but rather social hubs where people meet to exchange news.",
       "words": [
-        {
-          "w": "لَيْسَتْ",
-          "lemma": "لَيْسَ"
-        }
+        { "w": "تُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "زِيَارَةُ", "lemma": "زِيَارَةٌ / زِيَارَاتٌ" },
+        { "w": "السُّوقِ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "الشَّعْبِيِّ", "lemma": "شَعْبِيٌّ" },
+        { "w": "التَّقْلِيدِيِّ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "تَجْرِبَةً", "lemma": "تَجْرِبَةٌ / تَجَارِبُ" },
+        { "w": "حِسِّيَّةً", "lemma": "حِسِّيٌّ" },
+        { "w": "تُنْسَى", "lemma": "نَسِيَ يَنْسَى" },
+        { "w": "تَمْتَزِجُ", "lemma": "امْتَزَجَ يَمْتَزِجُ" },
+        { "w": "رَوَائِحُ", "lemma": "رَائِحَةٌ / رَوَائِحُ" },
+        { "w": "التَّوَابِلِ", "lemma": "تَابِلٌ / تَوَابِلُ" },
+        { "w": "بِأَصْوَاتِ", "lemma": "صَوْتٌ / أَصْوَاتٌ" },
+        { "w": "الْبَاعَةِ", "lemma": "بَائِعٌ / بَاعَةٌ" }
       ]
     },
     {
-      "arabic": "إِنَّ الْحِفَاظَ عَلَى هَذِهِ الْأَسْوَاقِ ضَرُورِيٌّ لِصَوْنِ الْهُوِيَّةِ الثَّقَافِيَّةِ وَالْمِعْمَارِيَّةِ لِلْمُدُنِ الْعَرَبِيَّةِ الْقَدِيمَةِ.",
+      "arabic": "يُمْكِنُكَ الْعُثُورُ عَلَى أَنْوَاعٍ شَتَّى مِنَ الْحُبُوبِ، وَالْمُكَسَّرَاتِ، وَالْفَوَاكِهِ الْمُجَفَّفَةِ الْمَعْرُوضَةِ بِتَنَاسُقٍ يَجْذِبُ الْأَنْظَارَ.",
+      "translation": "Možete pronaći razne vrste žitarica, orašastih plodova i sušenog voća izloženih u harmoniji koja privlači poglede.",
+      "translationEn": "You can find various types of grains, nuts, and dried fruits displayed in a harmony that catches the eye.",
+      "words": [
+        { "w": "الْعُثُورُ", "lemma": "عُثُورٌ" },
+        { "w": "أَنْوَاعٍ", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "شَتَّى", "lemma": "شَتِيتٌ" },
+        { "w": "الْحُبُوبِ", "lemma": "حَبٌّ / حُبُوبٌ" },
+        { "w": "وَالْمُكَسَّرَاتِ", "lemma": "مُكَسَّرَاتٌ" },
+        { "w": "وَالْفَوَاكِهِ", "lemma": "فَاكِهَةٌ / فَوَاكِهُ" },
+        { "w": "الْمُجَفَّفَةِ", "lemma": "مُجَفَّفٌ" },
+        { "w": "الْمَعْرُوضَةِ", "lemma": "مَعْرُوضٌ" },
+        { "w": "بِتَنَاسُقٍ", "lemma": "تَنَاسُقٌ" },
+        { "w": "يَجْذِبُ", "lemma": "جَذَبَ يَجْذِبُ" },
+        { "w": "الْأَنْظَارَ", "lemma": "نَظَرٌ / أَنْظَارٌ" }
+      ]
+    },
+    {
+      "arabic": "غَالِباً مَا يَتَفَاوَضُ الْمُتَسَوِّقُونَ عَلَى الْأَسْعَارِ مَعَ التُّجَّارِ، مِمَّا يُضْفِي طَابَعاً إِنْسَانِيّاً تَقْلِيدِيّاً عَلَى عَمَلِيَّةِ الْبَيْعِ.",
+      "translation": "Kupci se često cjenkaju oko cijena sa trgovcima, što prodajnom procesu daje tradicionalni ljudski karakter.",
+      "translationEn": "Shoppers often negotiate prices with merchants, adding a traditional human character to the selling process.",
+      "words": [
+        { "w": "غَالِباً", "lemma": "غَالِبٌ" },
+        { "w": "يَتَفَاوَضُ", "lemma": "تَفَاوَضَ يَتَفَاوَضُ" },
+        { "w": "الْمُتَسَوِّقُونَ", "lemma": "مُتَسَوِّقٌ / مُتَسَوِّقُونَ" },
+        { "w": "الْأَسْعَارِ", "lemma": "سِعْرٌ / أَسْعَارٌ" },
+        { "w": "التُّجَّارِ", "lemma": "تَاجِرٌ / تُجَّارٌ" },
+        { "w": "يُضْفِي", "lemma": "أَضْفَى يُضْفِي" },
+        { "w": "طَابَعاً", "lemma": "طَابَعٌ / طَوَابِعُ" },
+        { "w": "إِنْسَانِيّاً", "lemma": "إِنْسَانِيٌّ" },
+        { "w": "تَقْلِيدِيّاً", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "عَمَلِيَّةِ", "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ" },
+        { "w": "الْبَيْعِ", "lemma": "بَيْعٌ" }
+      ]
+    },
+    {
+      "arabic": "لَيْسَتْ هَذِهِ الْأَسْوَاقُ مُجَرَّدَ أَمَاكِنَ لِلتِّجَارَةِ، بَلْ هِيَ مَرَاكِزُ اجْتِمَاعِيَّةٌ يَلْتَقِي فِيهَا النَّاسُ لِتَبَادُلِ الْأَخْبَارِ.",
+      "translation": "Ove pijace nisu samo mjesta za trgovinu, već su društveni centri u kojima se ljudi sastaju kako bi razmijenili vijesti.",
+      "translationEn": "These markets are not just places for trade, but rather social hubs where people meet to exchange news.",
+      "words": [
+        { "w": "الْأَسْوَاقُ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "مُجَرَّدَ", "lemma": "مُجَرَّدٌ" },
+        { "w": "أَمَاكِنَ", "lemma": "مَكَانٌ / أَمَاكِنُ" },
+        { "w": "لِلتِّجَارَةِ", "lemma": "تِجَارَةٌ" },
+        { "w": "مَرَاكِزُ", "lemma": "مَرْكَزٌ / مَرَاكِزُ" },
+        { "w": "اجْتِمَاعِيَّةٌ", "lemma": "اجْتِمَاعِيٌّ" },
+        { "w": "يَلْتَقِي", "lemma": "الْتَقَى يَلْتَقِي" },
+        { "w": "النَّاسُ", "lemma": "نَاسٌ" },
+        { "w": "لِتَبَادُلِ", "lemma": "تَبَادُلٌ" },
+        { "w": "الْأَخْبَارِ", "lemma": "خَبَرٌ / أَخْبَارٌ" }
+      ]
+    },
+    {
+      "arabic": "إِنَّ الْحِفَاظَ عَلَى هَذِهِ الْأَسْوَاقِ ضَرُورِيٌّ لِصَوْنِ الْهُوِيَّةِ الثَّقَافِيَّةِ وَالْمِعْمَارِيَّةِ لِلْمُدُنِ الْعَرَبِيَّةِ الْقَدِيمَةِ.",
       "translation": "Očuvanje ovih pijaca je neophodno za zaštitu kulturnog i arhitektonskog identiteta starih arapskih gradova.",
       "translationEn": "Preserving these markets is essential for maintaining the cultural and architectural identity of ancient Arab cities.",
-      "words": []
+      "words": [
+        { "w": "الْحِفَاظَ", "lemma": "حِفَاظٌ" },
+        { "w": "الْأَسْوَاقِ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "ضَرُورِيٌّ", "lemma": "ضَرُورِيٌّ" },
+        { "w": "لِصَوْنِ", "lemma": "صَوْنٌ" },
+        { "w": "الْهُوِيَّةِ", "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ" },
+        { "w": "الثَّقَافِيَّةِ", "lemma": "ثَقَافِيٌّ" },
+        { "w": "وَالْمِعْمَارِيَّةِ", "lemma": "مِعْمَارِيٌّ" },
+        { "w": "لِلْمُدُنِ", "lemma": "مَدِينَةٌ / مُدُنٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "الْقَدِيمَةِ", "lemma": "قَدِيمٌ" }
+      ]
     }
   ],
   "metadata": {

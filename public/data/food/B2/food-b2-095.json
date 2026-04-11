@@ -4,47 +4,96 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعَدُّ الْكُسْكُسِيُّ الطَّبَقَ الْوَطَنِيَّ الْأَوَّلَ فِي بِلَادِ الْمَغْرِبِ الْعَرَبِيِّ، وَهُوَ رَمْزٌ لِلِاجْتِمَاعِ الْعَائِلِيِّ يَوْمَ الْجُمُعَةِ.",
+      "arabic": "يُعَدُّ الْكُسْكُسِيُّ الطَّبَقَ الْوَطَنِيَّ الْأَوَّلَ فِي بِلَادِ الْمَغْرِبِ الْعَرَبِيِّ، وَهُوَ رَمْزٌ لِلِاجْتِمَاعِ الْعَائِلِيِّ يَوْمَ الْجُمُعَةِ.",
       "translation": "Kuskus se smatra prvim nacionalnim jelom u zemljama Magreba i on je simbol porodičnog okupljanja petkom.",
       "translationEn": "Couscous is considered the primary national dish in the Maghreb countries, and it is a symbol of family gatherings on Fridays.",
-      "words": []
-    },
-    {
-      "arabic": "يَتَطَلَّبُ تَحْضِيرُهُ مَهَارَةً عَالِيَةً، حَيْثُ يُطْهَى السَّمِيدُ عَلَى الْبُخَارِ حَتَّى يَنْضَجَ وَيُصْبِحَ خَفِيفًا وَهَشًّا.",
-      "translation": "Njegova priprema zahtijeva veliku vještinu, jer se griz kuha na pari dok ne omekša i postane lagan i rastresit.",
-      "translationEn": "Its preparation requires high skill, as the semolina is steamed until it cooks and becomes light and fluffy.",
-      "words": []
-    },
-    {
-      "arabic": "يُقَدَّمُ الْكُسْكُسِيُّ عَادَةً مَعَ مَرَقِ اللَّحْمِ أَوِ الدَّجَاجِ وَمَجْمُوعَةٍ مُتَنَوُّعَةٍ مِنَ الْخُضَارِ الْمَوْسِمِيَّةِ الطَّازَجَةِ.",
-      "translation": "Kuskus se obično poslužuje s mesnim ili pilećim temeljcem i raznim svježim sezonskim povrćem.",
-      "translationEn": "Couscous is usually served with meat or chicken broth and a variety of fresh seasonal vegetables.",
-      "words": []
-    },
-    {
-      "arabic": "تُضِيفُ بَعْضُ الْمَنَاطِقِ لَمَسَاتٍ خَاصَّةً مِثْلَ \"التَّفَايَةِ\" الْمُكَوَّنَةِ مِنَ الْبَصَلِ وَالزَّبِيبِ الْمُعَسَّلِ لِإِعْطَاءِ نَكْهَةٍ حُلْوَةٍ.",
-      "translation": "Neke regije dodaju posebne dodire poput 'tfaya-e', koja se sastoji od luka i karameliziranih grožđica, kako bi se dobio slatkast ukus.",
-      "translationEn": "Some regions add special touches like 'tfaya', consisting of onions and caramelized raisins, to give a sweet flavor.",
       "words": [
-        {
-          "w": "بَعْضُ",
-          "lemma": "بَعْضٌ"
-        }
+        { "w": "يُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "الْكُسْكُسِيُّ", "lemma": "كُسْكُسٌ" },
+        { "w": "الطَّبَقَ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "الْوَطَنِيَّ", "lemma": "وَطَنِيٌّ" },
+        { "w": "الْأَوَّلَ", "lemma": "أَوَّلُ" },
+        { "w": "بِلَادِ", "lemma": "بَلَدٌ / بِلَادٌ" },
+        { "w": "الْمَغْرِبِ", "lemma": "مَغْرِبٌ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "رَمْزٌ", "lemma": "رَمْزٌ / رُمُوزٌ" },
+        { "w": "لِلِاجْتِمَاعِ", "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ" },
+        { "w": "الْعَائِلِيِّ", "lemma": "عَائِلِيٌّ" },
+        { "w": "يَوْمَ", "lemma": "يَوْمٌ / أَيَّامٌ" },
+        { "w": "الْجُمُعَةِ", "lemma": "جُمُعَةٌ / جُمُعَاتٌ" }
       ]
     },
     {
-      "arabic": "يَجْتَمِعُ أَفْرَادُ الْعَائِلَةِ حَوْلَ طَبَقٍ وَاحِدٍ كَبِيرٍ، مِمَّا يُجَسِّدُ قِيَمَ التَّكَافُلِ وَالْمَحَبَّةِ فِي الثَّقَافَةِ الْمَغَارِبِيَّةِ.",
+      "arabic": "يَتَطَلَّبُ تَحْضِيرُهُ مَهَارَةً عَالِيَةً، حَيْثُ يُطْهَى السَّمِيدُ عَلَى الْبُخَارِ حَتَّى يَنْضَجَ وَيُصْبِحَ خَفِيفًا وَهَشًّا.",
+      "translation": "Njegova priprema zahtijeva veliku vještinu, jer se griz kuha na pari dok ne omekša i postane lagan i rastresit.",
+      "translationEn": "Its preparation requires high skill, as the semolina is steamed until it cooks and becomes light and fluffy.",
+      "words": [
+        { "w": "يَتَطَلَّبُ", "lemma": "تَطَلَّبَ يَتَطَلَّبُ" },
+        { "w": "تَحْضِيرُهُ", "lemma": "تَحْضِيرٌ" },
+        { "w": "مَهَارَةً", "lemma": "مَهَارَةٌ / مَهَارَاتٌ" },
+        { "w": "عَالِيَةً", "lemma": "عَالٍ" },
+        { "w": "يُطْهَى", "lemma": "طَهَا يَطْهُو" },
+        { "w": "السَّمِيدُ", "lemma": "سَمِيدٌ" },
+        { "w": "الْبُخَارِ", "lemma": "بُخَارٌ" },
+        { "w": "يَنْضَجَ", "lemma": "نَضِجَ يَنْضَجُ" },
+        { "w": "وَيُصْبِحَ", "lemma": "أَصْبَحَ يُصْبِحُ" },
+        { "w": "خَفِيفًا", "lemma": "خَفِيفٌ" },
+        { "w": "وَهَشًّا", "lemma": "هَشٌّ" }
+      ]
+    },
+    {
+      "arabic": "يُقَدَّمُ الْكُسْكُسِيُّ عَادَةً مَعَ مَرَقِ اللَّحْمِ أَوِ الدَّجَاجِ وَمَجْمُوعَةٍ مُتَنَوُّعَةٍ مِنَ الْخُضَارِ الْمَوْسِمِيَّةِ الطَّازَجَةِ.",
+      "translation": "Kuskus se obično poslužuje s mesnim ili pilećim temeljcem i raznim svježim sezonskim povrćem.",
+      "translationEn": "Couscous is usually served with meat or chicken broth and a variety of fresh seasonal vegetables.",
+      "words": [
+        { "w": "يُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "الْكُسْكُسِيُّ", "lemma": "كُسْكُسٌ" },
+        { "w": "عَادَةً", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "مَرَقِ", "lemma": "مَرَقٌ" },
+        { "w": "اللَّحْمِ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "الدَّجَاجِ", "lemma": "دَجَاجٌ" },
+        { "w": "وَمَجْمُوعَةٍ", "lemma": "مَجْمُوعَةٌ / مَجْمُوعَاتٌ" },
+        { "w": "مُتَنَوُّعَةٍ", "lemma": "مُتَنَوِّعٌ" },
+        { "w": "الْخُضَارِ", "lemma": "خُضَارٌ" },
+        { "w": "الْمَوْسِمِيَّةِ", "lemma": "مَوْسِمِيٌّ" },
+        { "w": "الطَّازَجَةِ", "lemma": "طَازَجٌ" }
+      ]
+    },
+    {
+      "arabic": "تُضِيفُ بَعْضُ الْمَنَاطِقِ لَمَسَاتٍ خَاصَّةً مِثْلَ \"التَّفَايَةِ\" الْمُكَوَّنَةِ مِنَ الْبَصَلِ وَالزَّبِيبِ الْمُعَسَّلِ لِإِعْطَاءِ نَكْهَةٍ حُلْوَةٍ.",
+      "translation": "Neke regije dodaju posebne dodire poput 'tfaya-e', koja se sastoji od luka i karameliziranih grožđica, kako bi se dobio slatkast ukus.",
+      "translationEn": "Some regions add special touches like 'tfaya', consisting of onions and caramelized raisins, to give a sweet flavor.",
+      "words": [
+        { "w": "تُضِيفُ", "lemma": "أَضَافَ يُضِيفُ" },
+        { "w": "الْمَنَاطِقِ", "lemma": "مِنْطَقَةٌ / مَنَاطِقُ" },
+        { "w": "لَمَسَاتٍ", "lemma": "لَمْسَةٌ / لَمَسَاتٌ" },
+        { "w": "خَاصَّةً", "lemma": "خَاصٌّ" },
+        { "w": "التَّفَايَةِ", "lemma": "تَفَايَةٌ" },
+        { "w": "الْمُكَوَّنَةِ", "lemma": "مُكَوَّنٌ" },
+        { "w": "الْبَصَلِ", "lemma": "بَصَلٌ" },
+        { "w": "وَالزَّبِيبِ", "lemma": "زَبِيبٌ" },
+        { "w": "الْمُعَسَّلِ", "lemma": "مُعَسَّلٌ" },
+        { "w": "لِإِعْطَاءِ", "lemma": "إِعْطَاءٌ" },
+        { "w": "نَكْهَةٍ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "حُلْوَةٍ", "lemma": "حُلْوٌ" }
+      ]
+    },
+    {
+      "arabic": "يَجْتَمِعُ أَفْرَادُ الْعَائِلَةِ حَوْلَ طَبَقٍ وَاحِدٍ كَبِيرٍ، مِمَّا يُجَسِّدُ قِيَمَ التَّكَافُلِ وَالْمَحَبَّةِ فِي الثَّقَافَةِ الْمَغَارِبِيَّةِ.",
       "translation": "Članovi porodice okupljaju se oko jednog velikog tanjira, što utjelovljuje vrijednosti solidarnosti i ljubavi u magrebškoj kulturi.",
       "translationEn": "Family members gather around one large plate, embodying the values of solidarity and love in Maghrebi culture.",
       "words": [
-        {
-          "w": "حَوْلَ",
-          "lemma": "حَوْلَ"
-        },
-        {
-          "w": "وَاحِدٍ",
-          "lemma": "وَاحِدٌ"
-        }
+        { "w": "يَجْتَمِعُ", "lemma": "اجْتَمَعَ يَجْتَمِعُ" },
+        { "w": "أَفْرَادُ", "lemma": "فَرْدٌ / أَفْرَادٌ" },
+        { "w": "الْعَائِلَةِ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ" },
+        { "w": "طَبَقٍ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "كَبِيرٍ", "lemma": "كَبِيرٌ" },
+        { "w": "يُجَسِّدُ", "lemma": "جَسَّدَ يُجَسِّدُ" },
+        { "w": "قِيَمَ", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "التَّكَافُلِ", "lemma": "تَكَافُلٌ" },
+        { "w": "وَالْمَحَبَّةِ", "lemma": "مَحَبَّةٌ" },
+        { "w": "الثَّقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "الْمَغَارِبِيَّةِ", "lemma": "مَغَارِبِيٌّ" }
       ]
     }
   ],

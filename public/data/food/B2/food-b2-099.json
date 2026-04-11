@@ -7,29 +7,71 @@
       "arabic": "يُمَثِّلُ الْمَنْسَفُ أَكْثَرَ مِنْ مُجَرَّدِ وَجْبَةٍ؛ فَهُوَ رَمْزٌ لِلْهُوِيَّةِ الْوَطَنِيَّةِ وَالْوِئَامِ الْمُجْتَمَعِيِّ.",
       "translation": "Mansaf predstavlja više od običnog obroka; on je simbol nacionalnog identiteta i društvene harmonije.",
       "translationEn": "Mansaf represents more than just a meal; it is a symbol of national identity and communal harmony.",
-      "words": []
+      "words": [
+        { "w": "يُمَثِّلُ", "lemma": "مَثَّلَ يُمَثِّلُ" },
+        { "w": "الْمَنْسَفُ", "lemma": "مَنْسَفٌ" },
+        { "w": "أَكْثَرَ", "lemma": "كَثِيرٌ / أَكْثَرُ" },
+        { "w": "مُجَرَّدِ", "lemma": "مُجَرَّدٌ" },
+        { "w": "وَجْبَةٍ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "رَمْزٌ", "lemma": "رَمْزٌ / رُمُوزٌ" },
+        { "w": "لِلْهُوِيَّةِ", "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ" },
+        { "w": "الْوَطَنِيَّةِ", "lemma": "وَطَنِيٌّ" },
+        { "w": "وَالْوِئَامِ", "lemma": "وِئَامٌ" },
+        { "w": "الْمُجْتَمَعِيِّ", "lemma": "مُجْتَمَعِيٌّ" }
+      ]
     },
     {
       "arabic": "تَتَكَوَّنُ هَذِهِ الْأُكْلَةُ مِنْ لَحْمِ الضَّأْنِ الطَّرِيِّ الْمَطْبُوخِ فِي صَلْصَةِ اللَّبَنِ الْمُجَفَّفِ وَالْمُخَمَّرِ الْمَعْرُوفِ بِالْجَمِيدِ.",
       "translation": "Ovo jelo se sastoji od meke janjetine kuhane u sosu od sušenog i fermentiranog jogurta poznatog kao 'jameed'.",
       "translationEn": "This dish consists of tender lamb cooked in a sauce of dried and fermented yogurt known as 'jameed'.",
-      "words": []
+      "words": [
+        { "w": "تَتَكَوَّنُ", "lemma": "تَكَوَّنَ يَتَكَوَّنُ" },
+        { "w": "الْأُكْلَةُ", "lemma": "أُكْلَةٌ / أُكَلٌ" },
+        { "w": "لَحْمِ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "الضَّأْنِ", "lemma": "ضَأْنٌ" },
+        { "w": "الطَّرِيِّ", "lemma": "طَرِيٌّ" },
+        { "w": "الْمَطْبُوخِ", "lemma": "مَطْبُوخٌ" },
+        { "w": "صَلْصَةِ", "lemma": "صَلْصَةٌ / صَلْصَاتٌ" },
+        { "w": "اللَّبَنِ", "lemma": "لَبَنٌ" },
+        { "w": "الْمُجَفَّفِ", "lemma": "مُجَفَّفٌ" },
+        { "w": "وَالْمُخَمَّرِ", "lemma": "مُخَمَّرٌ" },
+        { "w": "الْمَعْرُوفِ", "lemma": "مَعْرُوفٌ" },
+        { "w": "بِالْجَمِيدِ", "lemma": "جَمِيدٌ" }
+      ]
     },
     {
       "arabic": "يُقَدَّمُ عَلَى صِينِيَّةٍ كَبِيرَةٍ فَوْقَ طَبَقَةٍ مِنَ الْأُرْزِ الْأَصْفَرِ وَخُبْزِ الشِّرَاكِ الرَّقِيقِ، ثُمَّ يُزَيَّنُ بِالْمُكَسَّرَاتِ الْمُحَمَّصَةِ.",
       "translation": "Poslužuje se na velikom pladnju preko sloja žute riže i tankog hljeba 'shrak', a zatim se ukrašava prženim orašastim plodovima.",
       "translationEn": "It is served on a large platter over a layer of yellow rice and thin 'shrak' bread, then garnished with toasted nuts.",
-      "words": []
+      "words": [
+        { "w": "يُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "صِينِيَّةٍ", "lemma": "صِينِيَّةٌ / صَوَانٍ" },
+        { "w": "كَبِيرَةٍ", "lemma": "كَبِيرٌ" },
+        { "w": "طَبَقَةٍ", "lemma": "طَبَقَةٌ / طَبَقَاتٌ" },
+        { "w": "الْأُرْزِ", "lemma": "أُرُزٌ" },
+        { "w": "الْأَصْفَرِ", "lemma": "أَصْفَرُ" },
+        { "w": "وَخُبْزِ", "lemma": "خُبْزٌ / أَخْبَازٌ" },
+        { "w": "الشِّرَاكِ", "lemma": "شِرَاكٌ" },
+        { "w": "الرَّقِيقِ", "lemma": "رَقِيقٌ" },
+        { "w": "يُزَيَّنُ", "lemma": "زَيَّنَ يُزَيِّنُ" },
+        { "w": "بِالْمُكَسَّرَاتِ", "lemma": "مُكَسَّرَاتٌ" },
+        { "w": "الْمُحَمَّصَةِ", "lemma": "مُحَمَّصٌ" }
+      ]
     },
     {
       "arabic": "يَجْتَمِعُ الضُّيُوفُ حَوْلَ الْمَائِدَةِ لِمُشَارَكَةِ الطَّعَامِ، مِمَّا يُعَزِّزُ الرَّوَابِطَ الْأُسَرِيَّةَ وَالِاجْتِمَاعِيَّةَ.",
       "translation": "Gosti se okupljaju oko stola kako bi podijelili hranu, što jača porodične i društvene veze.",
       "translationEn": "Guests gather around the table to share the food, which strengthens family and social bonds.",
       "words": [
-        {
-          "w": "حَوْلَ",
-          "lemma": "حَوْلَ"
-        }
+        { "w": "يَجْتَمِعُ", "lemma": "اجْتَمَعَ يَجْتَمِعُ" },
+        { "w": "الضُّيُوفُ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "الْمَائِدَةِ", "lemma": "مَائِدَةٌ / مَوَائِدُ" },
+        { "w": "لِمُشَارَكَةِ", "lemma": "مُشَارَكَةٌ" },
+        { "w": "الطَّعَامِ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "يُعَزِّزُ", "lemma": "عَزَّزَ يُعَزِّزُ" },
+        { "w": "الرَّوَابِطَ", "lemma": "رَابِطَةٌ / رَوَابِطُ" },
+        { "w": "الْأُسَرِيَّةَ", "lemma": "أُسَرِيٌّ" },
+        { "w": "وَالِاجْتِمَاعِيَّةَ", "lemma": "اجْتِمَاعِيٌّ" }
       ]
     },
     {
@@ -37,10 +79,19 @@
       "translation": "Priprema mansafa zahtijeva strpljenje i vještinu, jer se okusi moraju savršeno sjediniti kako bi se postigao njegov jedinstven ukus.",
       "translationEn": "The preparation of mansaf requires patience and skill, as the flavors must blend perfectly to achieve its unique taste.",
       "words": [
-        {
-          "w": "يَجِبُ",
-          "lemma": "وَجَبَ يَجِبُ"
-        }
+        { "w": "يَتَطَلَّبُ", "lemma": "تَطَلَّبَ يَتَطَلَّبُ" },
+        { "w": "إِعْدَادُ", "lemma": "إِعْدَادٌ" },
+        { "w": "الْمَنْسَفِ", "lemma": "مَنْسَفٌ" },
+        { "w": "صَبْرًا", "lemma": "صَبْرٌ" },
+        { "w": "وَمَهَارَةً", "lemma": "مَهَارَةٌ / مَهَارَاتٌ" },
+        { "w": "يَجِبُ", "lemma": "وَجَبَ يَجِبُ" },
+        { "w": "تَمْتَزِجَ", "lemma": "امْتَزَجَ يَمْتَزِجُ" },
+        { "w": "النَّكْهَاتُ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "مِثَالِيٍّ", "lemma": "مِثَالِيٌّ" },
+        { "w": "لِتَحْقِيقِ", "lemma": "تَحْقِيقٌ" },
+        { "w": "مَذَاقِهِ", "lemma": "مَذَاقٌ" },
+        { "w": "الْفَرِيدِ", "lemma": "فَرِيدٌ" }
       ]
     }
   ],

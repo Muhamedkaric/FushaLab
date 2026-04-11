@@ -4,39 +4,92 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَعِجُّ السُّوقُ الشَّعْبِيُّ بِرَوَائِحِ التَّوَابِلِ الزَّكِيَّةِ وَأَصْوَاتِ الْبَاعَةِ الَّذِينَ يَعْرِضُونَ بِضَاعَتَهُمْ بِحَمَاسٍ.",
+      "arabic": "يَعِجُّ السُّوقُ الشَّعْبِيُّ بِرَوَائِحِ التَّوَابِلِ الزَّكِيَّةِ وَأَصْوَاتِ الْبَاعَةِ الَّذِينَ يَعْرِضُونَ بِضَاعَتَهُمْ بِحَمَاسٍ.",
       "translation": "Tradicionalna pijaca vrvi od mirisnih začina i glasova prodavaca koji s entuzijazmom izlažu svoju robu.",
       "translationEn": "The traditional market is bustling with the scents of fragrant spices and the voices of vendors enthusiastically displaying their goods.",
-      "words": []
-    },
-    {
-      "arabic": "يُمْكِنُ لِلزَّائِرِ أَنْ يَجِدَ هُنَاكَ أَنْوَاعًا نَادِرَةً مِنَ الْبُقُولِيَّاتِ وَالْأَعْشَابِ الْمُجَفَّفَةِ الَّذِي تُسْتَخْدَمُ فِي الطَّبْخِ التَّقْلِيدِيِّ.",
-      "translation": "Posjetilac tamo može pronaći rijetke vrste mahunarki i sušenog bilja koje se koristi u tradicionalnom kuhanju.",
-      "translationEn": "A visitor can find rare types of legumes and dried herbs there that are used in traditional cooking.",
       "words": [
-        {
-          "w": "هُنَاكَ",
-          "lemma": "هُنَاكَ"
-        }
+        { "w": "يَعِجُّ", "lemma": "عَجَّ يَعِجُّ" },
+        { "w": "السُّوقُ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "الشَّعْبِيُّ", "lemma": "شَعْبِيٌّ" },
+        { "w": "بِرَوَائِحِ", "lemma": "رَائِحَةٌ / رَوَائِحُ" },
+        { "w": "التَّوَابِلِ", "lemma": "تَابِلٌ / تَوَابِلُ" },
+        { "w": "الزَّكِيَّةِ", "lemma": "زَكِيٌّ" },
+        { "w": "وَأَصْوَاتِ", "lemma": "صَوْتٌ / أَصْوَاتٌ" },
+        { "w": "الْبَاعَةِ", "lemma": "بَائِعٌ / بَاعَةٌ" },
+        { "w": "يَعْرِضُونَ", "lemma": "عَرَضَ يَعْرِضُ" },
+        { "w": "بِضَاعَتَهُمْ", "lemma": "بِضَاعَةٌ / بَضَائِعُ" },
+        { "w": "بِحَمَاسٍ", "lemma": "حَمَاسٌ" }
       ]
     },
     {
-      "arabic": "تَتَزَيَّنُ الدَّكَاكِينُ بِسِلَالٍ مَمْلُوءَةٍ بِالْمَكْسَرَاتِ الطَّازَجَةِ وَالْفَوَاكِهِ الْمُجَفَّفَةِ الَّتِي تَجْذِبُ أَنْظَارَ الْمَارَّةِ.",
+      "arabic": "يُمْكِنُ لِلزَّائِرِ أَنْ يَجِدَ هُنَاكَ أَنْوَاعًا نَادِرَةً مِنَ الْبُقُولِيَّاتِ وَالْأَعْشَابِ الْمُجَفَّفَةِ الَّذِي تُسْتَخْدَمُ فِي الطَّبْخِ التَّقْلِيدِيِّ.",
+      "translation": "Posjetilac tamo može pronaći rijetke vrste mahunarki i sušenog bilja koje se koristi u tradicionalnom kuhanju.",
+      "translationEn": "A visitor can find rare types of legumes and dried herbs there that are used in traditional cooking.",
+      "words": [
+        { "w": "لِلزَّائِرِ", "lemma": "زَائِرٌ / زُوَّارٌ" },
+        { "w": "يَجِدَ", "lemma": "وَجَدَ يَجِدُ" },
+        { "w": "أَنْوَاعًا", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "نَادِرَةً", "lemma": "نَادِرٌ" },
+        { "w": "الْبُقُولِيَّاتِ", "lemma": "بُقُولِيَّاتٌ" },
+        { "w": "وَالْأَعْشَابِ", "lemma": "عُشْبٌ / أَعْشَابٌ" },
+        { "w": "الْمُجَفَّفَةِ", "lemma": "مُجَفَّفٌ" },
+        { "w": "تُسْتَخْدَمُ", "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ" },
+        { "w": "الطَّبْخِ", "lemma": "طَبْخٌ" },
+        { "w": "التَّقْلِيدِيِّ", "lemma": "تَقْلِيدِيٌّ" }
+      ]
+    },
+    {
+      "arabic": "تَتَزَيَّنُ الدَّكَاكِينُ بِسِلَالٍ مَمْلُوءَةٍ بِالْمَكْسَرَاتِ الطَّازَجَةِ وَالْفَوَاكِهِ الْمُجَفَّفَةِ الَّتِي تَجْذِبُ أَنْظَارَ الْمَارَّةِ.",
       "translation": "Prodavnice su ukrašene korpama punim svježih orašastih plodova i sušenog voća koje privlači poglede prolaznika.",
       "translationEn": "The shops are decorated with baskets filled with fresh nuts and dried fruits that catch the eyes of passersby.",
-      "words": []
+      "words": [
+        { "w": "تَتَزَيَّنُ", "lemma": "تَزَيَّنَ يَتَزَيَّنُ" },
+        { "w": "الدَّكَاكِينُ", "lemma": "دُكَّانٌ / دَكَاكِينُ" },
+        { "w": "بِسِلَالٍ", "lemma": "سَلَّةٌ / سِلَالٌ" },
+        { "w": "مَمْلُوءَةٍ", "lemma": "مَمْلُوءٌ" },
+        { "w": "بِالْمَكْسَرَاتِ", "lemma": "مُكَسَّرَاتٌ" },
+        { "w": "الطَّازَجَةِ", "lemma": "طَازَجٌ" },
+        { "w": "وَالْفَوَاكِهِ", "lemma": "فَاكِهَةٌ / فَوَاكِهُ" },
+        { "w": "الْمُجَفَّفَةِ", "lemma": "مُجَفَّفٌ" },
+        { "w": "تَجْذِبُ", "lemma": "جَذَبَ يَجْذِبُ" },
+        { "w": "أَنْظَارَ", "lemma": "نَظَرٌ / أَنْظَارٌ" },
+        { "w": "الْمَارَّةِ", "lemma": "مَارٌّ / مَارَّةٌ" }
+      ]
     },
     {
-      "arabic": "يُعْتَبَرُ التَّسَوُّقُ فِي هَذِهِ الْأَمَاكِنِ تَجْرِبَةً حِسِّيَّةً فَرِيدَةً تَرْبِطُ الْإِنْسَانَ بِتَارِيخِهِ وَجُذُورِهِ الثَّقَافِيَّةِ.",
+      "arabic": "يُعْتَبَرُ التَّسَوُّقُ فِي هَذِهِ الْأَمَاكِنِ تَجْرِبَةً حِسِّيَّةً فَرِيدَةً تَرْبِطُ الْإِنْسَانَ بِتَارِيخِهِ وَجُذُورِهِ الثَّقَافِيَّةِ.",
       "translation": "Kupovina na ovim mjestima smatra se jedinstvenim čulnim iskustvom koje povezuje čovjeka sa njegovom istorijom i kulturnim korijenima.",
       "translationEn": "Shopping in these places is considered a unique sensory experience that connects a person to their history and cultural roots.",
-      "words": []
+      "words": [
+        { "w": "يُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "التَّسَوُّقُ", "lemma": "تَسَوُّقٌ" },
+        { "w": "الْأَمَاكِنِ", "lemma": "مَكَانٌ / أَمَاكِنُ" },
+        { "w": "تَجْرِبَةً", "lemma": "تَجْرِبَةٌ / تَجَارِبُ" },
+        { "w": "حِسِّيَّةً", "lemma": "حِسِّيٌّ" },
+        { "w": "فَرِيدَةً", "lemma": "فَرِيدٌ" },
+        { "w": "تَرْبِطُ", "lemma": "رَبَطَ يَرْبِطُ" },
+        { "w": "الْإِنْسَانَ", "lemma": "إِنْسَانٌ / بَشَرٌ" },
+        { "w": "بِتَارِيخِهِ", "lemma": "تَارِيخٌ / تَوَارِيخُ" },
+        { "w": "وَجُذُورِهِ", "lemma": "جَذْرٌ / جُذُورٌ" },
+        { "w": "الثَّقَافِيَّةِ", "lemma": "ثَقَافِيٌّ" }
+      ]
     },
     {
-      "arabic": "وَرَغْمَ تَعَدُّدِ الْمَرَاكِزِ التِّجَارِيَّةِ الْحَدِيثَةِ، يَبْقَى لِلسُّوقِ الْقَدِيمِ سِحْرٌ خَاصٌّ لَا يُمْكِنُ تَعْوِيضُهُ.",
+      "arabic": "وَرَغْمَ تَعَدُّدِ الْمَرَاكِزِ التِّجَارِيَّةِ الْحَدِيثَةِ، يَبْقَى لِلسُّوقِ الْقَدِيمِ سِحْرٌ خَاصٌّ لَا يُمْكِنُ تَعْوِيضُهُ.",
       "translation": "I pored brojnih modernih tržnih centara, stara pijaca zadržava poseban šarm koji se ne može zamijeniti.",
       "translationEn": "Despite the many modern shopping malls, the old market retains a special charm that cannot be replaced.",
-      "words": []
+      "words": [
+        { "w": "تَعَدُّدِ", "lemma": "تَعَدُّدٌ" },
+        { "w": "الْمَرَاكِزِ", "lemma": "مَرْكَزٌ / مَرَاكِزُ" },
+        { "w": "التِّجَارِيَّةِ", "lemma": "تِجَارِيٌّ" },
+        { "w": "الْحَدِيثَةِ", "lemma": "حَدِيثٌ" },
+        { "w": "يَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "لِلسُّوقِ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "الْقَدِيمِ", "lemma": "قَدِيمٌ" },
+        { "w": "سِحْرٌ", "lemma": "سِحْرٌ" },
+        { "w": "خَاصٌّ", "lemma": "خَاصٌّ" },
+        { "w": "تَعْوِيضُهُ", "lemma": "تَعْوِيضٌ" }
+      ]
     }
   ],
   "metadata": {

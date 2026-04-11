@@ -4,29 +4,109 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "شَهِدَ الْمَطْبَخُ الْعَرَبِيُّ فِي الْآوِنَةِ الْأَخِيرَةِ تَطَوُّرًا مَلْحُوظًا، حَيْثُ بَدَأَ الطُّهَاةُ بِدَمْجِ النَّكْهَاتِ التَّقْلِيدِيَّةِ مَعَ تِقْنِيَّاتِ الطَّهْيِ الْعَالَمِيَّةِ الْحَدِيثَةِ.",
+      "arabic": "شَهِدَ الْمَطْبَخُ الْعَرَبِيُّ فِي الْآوِنَةِ الْأَخِيرَةِ تَطَوُّرًا مَلْحُوظًا، حَيْثُ بَدَأَ الطُّهَاةُ بِدَمْجِ النَّكْهَاتِ التَّقْلِيدِيَّةِ مَعَ تِقْنِيَّاتِ الطَّهْيِ الْعَالَمِيَّةِ الْحَدِيثَةِ.",
       "translation": "Arapska kuhinja je u posljednje vrijeme doživjela primjetan razvoj, jer su kuhari počeli spajati tradicionalne okuse s modernim svjetskim tehnikama kuhanja.",
-      "translationEn": "Arab cuisine has recently witnessed a noticeable development, as chefs have begun merging traditional flavors with modern international cooking techniques."
+      "translationEn": "Arab cuisine has recently witnessed a noticeable development, as chefs have begun merging traditional flavors with modern international cooking techniques.",
+      "words": [
+        { "w": "شَهِدَ", "lemma": "شَهِدَ يَشْهَدُ" },
+        { "w": "الْمَطْبَخُ", "lemma": "مَطْبَخٌ / مَطَابِخُ" },
+        { "w": "الْعَرَبِيُّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "الْآوِنَةِ", "lemma": "أَوَانٌ / آوِنَةٌ" },
+        { "w": "الْأَخِيرَةِ", "lemma": "أَخِيرٌ" },
+        { "w": "تَطَوُّرًا", "lemma": "تَطَوُّرٌ / تَطَوُّرَاتٌ" },
+        { "w": "مَلْحُوظًا", "lemma": "مَلْحُوظٌ" },
+        { "w": "بَدَأَ", "lemma": "بَدَأَ يَبْدَأُ" },
+        { "w": "الطُّهَاةُ", "lemma": "طَاهٍ / طُهَاةٌ" },
+        { "w": "بِدَمْجِ", "lemma": "دَمْجٌ" },
+        { "w": "النَّكْهَاتِ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "التَّقْلِيدِيَّةِ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "تِقْنِيَّاتِ", "lemma": "تِقْنِيَّةٌ / تِقْنِيَّاتٌ" },
+        { "w": "الطَّهْيِ", "lemma": "طَهْيٌ" },
+        { "w": "الْعَالَمِيَّةِ", "lemma": "عَالَمِيٌّ" },
+        { "w": "الْحَدِيثَةِ", "lemma": "حَدِيثٌ" }
+      ]
     },
     {
-      "arabic": "يَبْتَكِرُ الطُّهَاةُ أَطْبَاقًا جَدِيدَةً تَسْتَخْدِمُ الزَّعْفَرَانَ وَمَاءَ الْوَرْدِ فِي صِنَاعَةِ الْحَلَوِيَّاتِ الْغَرْبِيَّةِ، مِمَّا يُضْفِي طَابَعًا شَرْقِيًّا مُمَيَّزًا عَلَى الْمَذَاقِ.",
+      "arabic": "يَبْتَكِرُ الطُّهَاةُ أَطْبَاقًا جَدِيدَةً تَسْتَخْدِمُ الزَّعْفَرَانَ وَمَاءَ الْوَرْدِ فِي صِنَاعَةِ الْحَلَوِيَّاتِ الْغَرْبِيَّةِ، مِمَّا يُضْفِي طَابَعًا شَرْقِيًّا مُمَيَّزًا عَلَى الْمَذَاقِ.",
       "translation": "Kuhari kreiraju nova jela koristeći šafran i ružinu vodicu u izradi zapadnih slastica, što okusu daje prepoznatljiv orijentalni karakter.",
-      "translationEn": "Chefs are creating new dishes using saffron and rose water in the making of Western desserts, which adds a distinctive Oriental character to the taste."
+      "translationEn": "Chefs are creating new dishes using saffron and rose water in the making of Western desserts, which adds a distinctive Oriental character to the taste.",
+      "words": [
+        { "w": "يَبْتَكِرُ", "lemma": "ابْتَكَرَ يَبْتَكِرُ" },
+        { "w": "الطُّهَاةُ", "lemma": "طَاهٍ / طُهَاةٌ" },
+        { "w": "أَطْبَاقًا", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "جَدِيدَةً", "lemma": "جَدِيدٌ" },
+        { "w": "تَسْتَخْدِمُ", "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ" },
+        { "w": "الزَّعْفَرَانَ", "lemma": "زَعْفَرَانٌ" },
+        { "w": "وَمَاءَ", "lemma": "مَاءٌ / مِيَاهٌ" },
+        { "w": "الْوَرْدِ", "lemma": "وَرْدٌ / وُرُودٌ" },
+        { "w": "صِنَاعَةِ", "lemma": "صِنَاعَةٌ / صِنَاعَاتٌ" },
+        { "w": "الْحَلَوِيَّاتِ", "lemma": "حَلْوَى / حَلْوِيَّاتٌ" },
+        { "w": "الْغَرْبِيَّةِ", "lemma": "غَرْبِيٌّ" },
+        { "w": "يُضْفِي", "lemma": "أَضْفَى يُضْفِي" },
+        { "w": "طَابَعًا", "lemma": "طَابَعٌ / طَوَابِعُ" },
+        { "w": "شَرْقِيًّا", "lemma": "شَرْقِيٌّ" },
+        { "w": "مُمَيَّزًا", "lemma": "مُمَيَّزٌ" },
+        { "w": "الْمَذَاقِ", "lemma": "مَذَاقٌ" }
+      ]
     },
     {
-      "arabic": "رَغْمَ هَذَا التَّجْدِيدِ، يَبْقَى الِالْتِزَامُ بِالْمَكَوِّنَاتِ الطَّازَجَةِ وَالذَّبْحِ الْحَلَالِ شَرْطًا أَسَاسِيًّا لَا يُمْكِنُ التَّنَازُلُ عَنْهُ فِي أَيِّ مَطْعَمٍ عَرَبِيٍّ.",
+      "arabic": "رَغْمَ هَذَا التَّجْدِيدِ، يَبْقَى الِالْتِزَامُ بِالْمَكَوِّنَاتِ الطَّازَجَةِ وَالذَّبْحِ الْحَلَالِ شَرْطًا أَسَاسِيًّا لَا يُمْكِنُ التَّنَازُلُ عَنْهُ فِي أَيِّ مَطْعَمٍ عَرَبِيٍّ.",
       "translation": "Uprkos ovoj inovaciji, posvećenost svježim sastojcima i halal klanju ostaje osnovni uslov od kojeg se ne može odstupiti ni u jednom arapskom restoranu.",
-      "translationEn": "Despite this innovation, commitment to fresh ingredients and halal slaughter remains a fundamental condition that cannot be compromised in any Arab restaurant."
+      "translationEn": "Despite this innovation, commitment to fresh ingredients and halal slaughter remains a fundamental condition that cannot be compromised in any Arab restaurant.",
+      "words": [
+        { "w": "التَّجْدِيدِ", "lemma": "تَجْدِيدٌ" },
+        { "w": "يَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "الِالْتِزَامُ", "lemma": "الْتِزَامٌ" },
+        { "w": "بِالْمَكَوِّنَاتِ", "lemma": "مُكَوِّنٌ / مُكَوِّنَاتٌ" },
+        { "w": "الطَّازَجَةِ", "lemma": "طَازَجٌ" },
+        { "w": "وَالذَّبْحِ", "lemma": "ذَبْحٌ" },
+        { "w": "الْحَلَالِ", "lemma": "حَلَالٌ" },
+        { "w": "شَرْطًا", "lemma": "شَرْطٌ / شُرُوطٌ" },
+        { "w": "أَسَاسِيًّا", "lemma": "أَسَاسِيٌّ" },
+        { "w": "التَّنَازُلُ", "lemma": "تَنَازُلٌ" },
+        { "w": "مَطْعَمٍ", "lemma": "مَطْعَمٌ / مَطَاعِمُ" },
+        { "w": "عَرَبِيٍّ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
-      "arabic": "تُسَاهِمُ هَذِهِ التَّجَارِبُ فِي تَعْرِيفِ الْأَجْيَالِ الشَّابَّةِ بِتُرَاثِهِمْ بِقَالَبٍ عَصْرِيٍّ يَتَنَاسَبُ مَعَ أَذْوَاقِهِمُ الْمُتَنَوِّعَةِ وَمُتَطَلَّبَاتِ الْعَصْرِ.",
+      "arabic": "تُسَاهِمُ هَذِهِ التَّجَارِبُ فِي تَعْرِيفِ الْأَجْيَالِ الشَّابَّةِ بِتُرَاثِهِمْ بِقَالَبٍ عَصْرِيٍّ يَتَنَاسَبُ مَعَ أَذْوَاقِهِمُ الْمُتَنَوِّعَةِ وَمُتَطَلَّبَاتِ الْعَصْرِ.",
       "translation": "Ovi eksperimenti doprinose upoznavanju mlađih generacija s njihovim naslijeđem u modernom obliku koji odgovara njihovim različitim ukusima i zahtjevima vremena.",
-      "translationEn": "These experiments contribute to introducing younger generations to their heritage in a modern mold that suits their diverse tastes and the requirements of the era."
+      "translationEn": "These experiments contribute to introducing younger generations to their heritage in a modern mold that suits their diverse tastes and the requirements of the era.",
+      "words": [
+        { "w": "تُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "التَّجَارِبُ", "lemma": "تَجْرِبَةٌ / تَجَارِبُ" },
+        { "w": "تَعْرِيفِ", "lemma": "تَعْرِيفٌ" },
+        { "w": "الْأَجْيَالِ", "lemma": "جِيلٌ / أَجْيَالٌ" },
+        { "w": "الشَّابَّةِ", "lemma": "شَابٌّ" },
+        { "w": "بِتُرَاثِهِمْ", "lemma": "تُرَاثٌ" },
+        { "w": "بِقَالَبٍ", "lemma": "قَالَبٌ / قَوَالِبُ" },
+        { "w": "عَصْرِيٍّ", "lemma": "عَصْرِيٌّ" },
+        { "w": "يَتَنَاسَبُ", "lemma": "تَنَاسَبَ يَتَنَاسَبُ" },
+        { "w": "أَذْوَاقِهِمُ", "lemma": "ذَوْقٌ / أَذْوَاقٌ" },
+        { "w": "الْمُتَنَوِّعَةِ", "lemma": "مُتَنَوِّعٌ" },
+        { "w": "وَمُتَطَلَّبَاتِ", "lemma": "مُتَطَلَّبٌ / مُتَطَلَّبَاتٌ" },
+        { "w": "الْعَصْرِ", "lemma": "عَصْرٌ / عُصُورٌ" }
+      ]
     },
     {
-      "arabic": "فِي النِّهَايَةِ، يَظَلُّ الطَّعَامُ لُغَةً عَالَمِيَّةً تَجْمَعُ بَيْنَ الثَّقَافَاتِ وَتُقَرِّبُ بَيْنَ الشُّعُوبِ رَغْمَ اخْتِلَافِ الْمَطَابِخِ وَأَسَالِيبِ التَّحْضِيرِ.",
+      "arabic": "فِي النِّهَايَةِ، يَظَلُّ الطَّعَامُ لُغَةً عَالَمِيَّةً تَجْمَعُ بَيْنَ الثَّقَافَاتِ وَتُقَرِّبُ بَيْنَ الشُّعُوبِ رَغْمَ اخْتِلَافِ الْمَطَابِخِ وَأَسَالِيبِ التَّحْضِيرِ.",
       "translation": "Na kraju, hrana ostaje univerzalni jezik koji spaja kulture i približava narode uprkos razlikama u kuhinjama i načinima pripreme.",
-      "translationEn": "In the end, food remains a universal language that brings cultures together and draws peoples closer despite the differences in cuisines and preparation methods."
+      "translationEn": "In the end, food remains a universal language that brings cultures together and draws peoples closer despite the differences in cuisines and preparation methods.",
+      "words": [
+        { "w": "النِّهَايَةِ", "lemma": "نِهَايَةٌ / نِهَايَاتٌ" },
+        { "w": "يَظَلُّ", "lemma": "ظَلَّ يَظَلُّ" },
+        { "w": "الطَّعَامُ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "لُغَةً", "lemma": "لُغَةٌ / لُغَاتٌ" },
+        { "w": "عَالَمِيَّةً", "lemma": "عَالَمِيٌّ" },
+        { "w": "تَجْمَعُ", "lemma": "جَمَعَ يَجْمَعُ" },
+        { "w": "الثَّقَافَاتِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "وَتُقَرِّبُ", "lemma": "قَرَّبَ يُقَرِّبُ" },
+        { "w": "الشُّعُوبِ", "lemma": "شَعْبٌ / شُعُوبٌ" },
+        { "w": "اخْتِلَافِ", "lemma": "اخْتِلَافٌ" },
+        { "w": "الْمَطَابِخِ", "lemma": "مَطْبَخٌ / مَطَابِخُ" },
+        { "w": "وَأَسَالِيبِ", "lemma": "أُسْلُوبٌ / أَسَالِيبُ" },
+        { "w": "التَّحْضِيرِ", "lemma": "تَحْضِيرٌ" }
+      ]
     }
   ],
   "metadata": {

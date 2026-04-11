@@ -4,29 +4,97 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ الْمَنْسَفُ الْأُرْدُنِيُّ مِنَ الْأَطْبَاقِ التَّقْلِيدِيَّةِ الْعَرِيقَةِ الَّتِي تَحْظَى بِمَكَانَةٍ خَاصَّةٍ فِي الْمُنَاسَبَاتِ الْكُبْرَى.",
+      "arabic": "يُعْتَبَرُ الْمَنْسَفُ الْأُرْدُنِيُّ مِنَ الْأَطْبَاقِ التَّقْلِيدِيَّةِ الْعَرِيقَةِ الَّتِي تَحْظَى بِمَكَانَةٍ خَاصَّةٍ فِي الْمُنَاسَبَاتِ الْكُبْرَى.",
       "translation": "Jordanski mansaf se smatra jednim od drevnih tradicionalnih jela koja uživaju poseban status u velikim prilikama.",
-      "translationEn": "Jordanian Mansaf is considered one of the ancient traditional dishes that holds a special status on major occasions."
+      "translationEn": "Jordanian Mansaf is considered one of the ancient traditional dishes that holds a special status on major occasions.",
+      "words": [
+        { "w": "الْمَنْسَفُ", "lemma": "مَنْسَفٌ" },
+        { "w": "الْأُرْدُنِيُّ", "lemma": "أُرْدُنِيٌّ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "التَّقْلِيدِيَّةِ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "الْعَرِيقَةِ", "lemma": "عَرِيقٌ" },
+        { "w": "تَحْظَى", "lemma": "حَظِيَ يَحْظَى" },
+        { "w": "بِمَكَانَةٍ", "lemma": "مَكَانَةٌ" },
+        { "w": "خَاصَّةٍ", "lemma": "خَاصٌّ" },
+        { "w": "الْمُنَاسَبَاتِ", "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ" },
+        { "w": "الْكُبْرَى", "lemma": "كُبْرَى" }
+      ]
     },
     {
-      "arabic": "يَتَكَوَّنُ هَذَا الطَّبَقُ بِشَكْلٍ أَسَاسِيٍّ مِنْ لَحْمِ الضَّأْنِ الْمَطْهُوِّ بِلَبَنِ الْجَمِيدِ، وَهُوَ نَوْعٌ مِنَ اللَّبَنِ الْمُجَفَّفِ الَّذِي يُعْطِي نَكْهَةً حَامِضَةً وَفَرِيدَةً.",
+      "arabic": "يَتَكَوَّنُ هَذَا الطَّبَقُ بِشَكْلٍ أَسَاسِيٍّ مِنْ لَحْمِ الضَّأْنِ الْمَطْهُوِّ بِلَبَنِ الْجَمِيدِ، وَهُوَ نَوْعٌ مِنَ اللَّبَنِ الْمُجَفَّفِ الَّذِي يُعْطِي نَكْهَةً حَامِضَةً وَفَرِيدَةً.",
       "translation": "Ovo jelo se uglavnom sastoji od janjetine kuhane u 'jamidu', vrsti sušenog jogurta koji daje kiselkast i jedinstven ukus.",
-      "translationEn": "This dish primarily consists of lamb cooked in 'jameed', a type of dried yogurt that provides a sour and unique flavor."
+      "translationEn": "This dish primarily consists of lamb cooked in 'jameed', a type of dried yogurt that provides a sour and unique flavor.",
+      "words": [
+        { "w": "يَتَكَوَّنُ", "lemma": "تَكَوَّنَ يَتَكَوَّنُ" },
+        { "w": "الطَّبَقُ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "أَسَاسِيٍّ", "lemma": "أَسَاسِيٌّ" },
+        { "w": "لَحْمِ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "الضَّأْنِ", "lemma": "ضَأْنٌ" },
+        { "w": "الْمَطْهُوِّ", "lemma": "مَطْهُوٌّ" },
+        { "w": "بِلَبَنِ", "lemma": "لَبَنٌ" },
+        { "w": "الْجَمِيدِ", "lemma": "جَمِيدٌ" },
+        { "w": "نَوْعٌ", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "اللَّبَنِ", "lemma": "لَبَنٌ" },
+        { "w": "الْمُجَفَّفِ", "lemma": "مُجَفَّفٌ" },
+        { "w": "يُعْطِي", "lemma": "أَعْطَى يُعْطِي" },
+        { "w": "نَكْهَةً", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "حَامِضَةً", "lemma": "حَامِضٌ" },
+        { "w": "وَفَرِيدَةً", "lemma": "فَرِيدٌ" }
+      ]
     },
     {
-      "arabic": "يُقَدَّمُ اللَّحْمُ فَوْقَ طَبَقَةٍ كَثِيفَةٍ مِنَ الْأُرْزِ الْأَصْفَرِ الْمَوْضُوعِ عَلَى خُبْزِ \"الشِّرَاكِ\" الرَّقِيقِ.",
+      "arabic": "يُقَدَّمُ اللَّحْمُ فَوْقَ طَبَقَةٍ كَثِيفَةٍ مِنَ الْأُرْزِ الْأَصْفَرِ الْمَوْضُوعِ عَلَى خُبْزِ \"الشِّرَاكِ\" الرَّقِيقِ.",
       "translation": "Meso se poslužuje na bogatom sloju žute riže postavljenom na tanki 'shrak' hljeb.",
-      "translationEn": "The meat is served over a thick layer of yellow rice placed on thin 'shrak' bread."
+      "translationEn": "The meat is served over a thick layer of yellow rice placed on thin 'shrak' bread.",
+      "words": [
+        { "w": "يُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "اللَّحْمُ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "طَبَقَةٍ", "lemma": "طَبَقَةٌ / طَبَقَاتٌ" },
+        { "w": "كَثِيفَةٍ", "lemma": "كَثِيفٌ" },
+        { "w": "الْأُرْزِ", "lemma": "أُرْزٌ" },
+        { "w": "الْأَصْفَرِ", "lemma": "أَصْفَرُ" },
+        { "w": "الْمَوْضُوعِ", "lemma": "مَوْضُوعٌ" },
+        { "w": "خُبْزِ", "lemma": "خُبْزٌ / خُبُوزٌ" },
+        { "w": "الشِّرَاكِ", "lemma": "شِرَاكٌ" },
+        { "w": "الرَّقِيقِ", "lemma": "رَقِيقٌ" }
+      ]
     },
     {
-      "arabic": "يُزَيَّنُ الْمَنْسَفُ بِاللَّوْزِ وَالصَّنَوْبَرِ الْمُحَمَّصِ، وَيُرَشُّ عَلَيْهِ الْبَقْدُونِسُ الْمَفْرُومُ لِإِضْفَاءِ لَمْسَةٍ مِنَ الِانْتِعَاشِ.",
+      "arabic": "يُزَيَّنُ الْمَنْسَفُ بِاللَّوْزِ وَالصَّنَوْبَرِ الْمُحَمَّصِ، وَيُرَشُّ عَلَيْهِ الْبَقْدُونِسُ الْمَفْرُومُ لِإِضْفَاءِ لَمْسَةٍ مِنَ الِانْتِعَاشِ.",
       "translation": "Mansaf se ukrašava pečenim bademima i pinjolima, te se posipa sjeckanim peršunom radi svježine.",
-      "translationEn": "Mansaf is garnished with roasted almonds and pine nuts, and sprinkled with chopped parsley to add a touch of freshness."
+      "translationEn": "Mansaf is garnished with roasted almonds and pine nuts, and sprinkled with chopped parsley to add a touch of freshness.",
+      "words": [
+        { "w": "يُزَيَّنُ", "lemma": "زَيَّنَ يُزَيِّنُ" },
+        { "w": "الْمَنْسَفُ", "lemma": "مَنْسَفٌ" },
+        { "w": "بِاللَّوْزِ", "lemma": "لَوْزٌ" },
+        { "w": "وَالصَّنَوْبَرِ", "lemma": "صَنَوْبَرٌ" },
+        { "w": "الْمُحَمَّصِ", "lemma": "مُحَمَّصٌ" },
+        { "w": "وَيُرَشُّ", "lemma": "رَشَّ يَرُشُّ" },
+        { "w": "الْبَقْدُونِسُ", "lemma": "بَقْدُونِسٌ" },
+        { "w": "الْمَفْرُومُ", "lemma": "مَفْرُومٌ" },
+        { "w": "لِإِضْفَاءِ", "lemma": "إِضْفَاءٌ" },
+        { "w": "لَمْسَةٍ", "lemma": "لَمْسَةٌ / لَمَسَاتٌ" },
+        { "w": "الِانْتِعَاشِ", "lemma": "انْتِعَاشٌ" }
+      ]
     },
     {
-      "arabic": "إِنَّ تَنَاوُلَ الْمَنْسَفِ بِالْيَدِ الْيُمْنَى يُعَدُّ جُزْءًا مِنَ التَّقَالِيدِ الَّتِي تُعَزِّزُ الشُّعُورَ بِالْأُلْفَةِ وَالْمُشَارَكَةِ بَيْنَ الْحَاضِرِينَ.",
+      "arabic": "إِنَّ تَنَاوُلَ الْمَنْسَفِ بِالْيَدِ الْيُمْنَى يُعَدُّ جُزْءًا مِنَ التَّقَالِيدِ الَّتِي تُعَزِّزُ الشُّعُورَ بِالْأُلْفَةِ وَالْمُشَارَكَةِ بَيْنَ الْحَاضِرِينَ.",
       "translation": "Jedenje mansafa desnom rukom smatra se dijelom tradicije koja jača osjećaj bliskosti i dijeljenja među prisutnima.",
-      "translationEn": "Eating Mansaf with the right hand is considered part of the traditions that enhance the sense of intimacy and sharing among those present."
+      "translationEn": "Eating Mansaf with the right hand is considered part of the traditions that enhance the sense of intimacy and sharing among those present.",
+      "words": [
+        { "w": "تَنَاوُلَ", "lemma": "تَنَاوُلٌ" },
+        { "w": "الْمَنْسَفِ", "lemma": "مَنْسَفٌ" },
+        { "w": "بِالْيَدِ", "lemma": "يَدٌ / أَيْدٍ" },
+        { "w": "الْيُمْنَى", "lemma": "أَيْمَنُ" },
+        { "w": "جُزْءًا", "lemma": "جُزْءٌ / أَجْزَاءٌ" },
+        { "w": "التَّقَالِيدِ", "lemma": "تَقْلِيدٌ / تَقَالِيدُ" },
+        { "w": "تُعَزِّزُ", "lemma": "عَزَّزَ يُعَزِّزُ" },
+        { "w": "الشُّعُورَ", "lemma": "شُعُورٌ" },
+        { "w": "بِالْأُلْفَةِ", "lemma": "أُلْفَةٌ" },
+        { "w": "وَالْمُشَارَكَةِ", "lemma": "مُشَارَكَةٌ" },
+        { "w": "الْحَاضِرِينَ", "lemma": "حَاضِرٌ / حَاضِرُونَ" }
+      ]
     }
   ],
   "metadata": {

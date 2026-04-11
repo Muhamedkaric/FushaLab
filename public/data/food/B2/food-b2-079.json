@@ -4,24 +4,78 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ الْقَهْوَةُ الْعَرَبِيَّةُ رَمْزًا لِلْحَفَاوَةِ، حَيْثُ تُقَدَّمُ لِلضُّيُوفِ فَوْرَ وُصُولِهِمْ تَعْبِيرًا عَنِ التَّقْدِيرِ.",
+      "arabic": "تُمَثِّلُ الْقَهْوَةُ الْعَرَبِيَّةُ رَمْزًا لِلْحَفَاوَةِ، حَيْثُ تُقَدَّمُ لِلضُّيُوفِ فَوْرَ وُصُولِهِمْ تَعْبِيرًا عَنِ التَّقْدِيرِ.",
       "translation": "Arapska kafa predstavlja simbol srdačnosti, jer se gostima poslužuje odmah po dolasku kao izraz poštovanja.",
-      "translationEn": "Arabic coffee represents a symbol of hospitality, as it is served to guests immediately upon their arrival as an expression of appreciation."
+      "translationEn": "Arabic coffee represents a symbol of hospitality, as it is served to guests immediately upon their arrival as an expression of appreciation.",
+      "words": [
+        { "w": "تُمَثِّلُ", "lemma": "مَثَّلَ يُمَثِّلُ" },
+        { "w": "الْقَهْوَةُ", "lemma": "قَهْوَةٌ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "رَمْزًا", "lemma": "رَمْزٌ / رُمُوزٌ" },
+        { "w": "لِلْحَفَاوَةِ", "lemma": "حَفَاوَةٌ" },
+        { "w": "تُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "لِلضُّيُوفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "وُصُولِهِمْ", "lemma": "وُصُولٌ" },
+        { "w": "تَعْبِيرًا", "lemma": "تَعْبِيرٌ" },
+        { "w": "التَّقْدِيرِ", "lemma": "تَقْدِيرٌ" }
+      ]
     },
     {
-      "arabic": "تُحَضَّرُ هَذِهِ الْقَهْوَةُ بِعِنَايَةٍ فَائِقَةٍ، إِذْ تُضَافُ إِلَيْهَا حُبُوبُ الْهَيْلِ لِتُكْسِبَهَا رَائِحَةً نَفَّاذَةً وَطَعْمًا فَرِيدًا.",
+      "arabic": "تُحَضَّرُ هَذِهِ الْقَهْوَةُ بِعِنَايَةٍ فَائِقَةٍ، إِذْ تُضَافُ إِلَيْهَا حُبُوبُ الْهَيْلِ لِتُكْسِبَهَا رَائِحَةً نَفَّاذَةً وَطَعْمًا فَرِيدًا.",
       "translation": "Ova kafa se priprema s velikom pažnjom, jer joj se dodaju zrna kardamoma kako bi dobila prodoran miris i jedinstven ukus.",
-      "translationEn": "This coffee is prepared with great care, as cardamom pods are added to give it a pungent aroma and a unique taste."
+      "translationEn": "This coffee is prepared with great care, as cardamom pods are added to give it a pungent aroma and a unique taste.",
+      "words": [
+        { "w": "تُحَضَّرُ", "lemma": "حَضَّرَ يُحَضِّرُ" },
+        { "w": "الْقَهْوَةُ", "lemma": "قَهْوَةٌ" },
+        { "w": "بِعِنَايَةٍ", "lemma": "عِنَايَةٌ" },
+        { "w": "فَائِقَةٍ", "lemma": "فَائِقٌ" },
+        { "w": "تُضَافُ", "lemma": "أَضَافَ يُضِيفُ" },
+        { "w": "حُبُوبُ", "lemma": "حَبٌّ / حُبُوبٌ" },
+        { "w": "الْهَيْلِ", "lemma": "هَيْلٌ" },
+        { "w": "لِتُكْسِبَهَا", "lemma": "أَكْسَبَ يُكْسِبُ" },
+        { "w": "رَائِحَةً", "lemma": "رَائِحَةٌ / رَوَائِحُ" },
+        { "w": "نَفَّاذَةً", "lemma": "نَفَّاذٌ" },
+        { "w": "وَطَعْمًا", "lemma": "طَعْمٌ / طُعُومٌ" },
+        { "w": "فَرِيدًا", "lemma": "فَرِيدٌ" }
+      ]
     },
     {
-      "arabic": "وَعَادَةً مَا تُرَافِقُ الْقَهْوَةَ أَنْوَاعٌ فَاخِرَةٌ مِنَ التُّمُورِ الَّتِي تُوَازِنُ بِمَذَاقِهَا الْحُلْوِ مَرَارَةَ الْقَهْوَةِ السَّوْدَاءِ.",
+      "arabic": "وَعَادَةً مَا تُرَافِقُ الْقَهْوَةَ أَنْوَاعٌ فَاخِرَةٌ مِنَ التُّمُورِ الَّتِي تُوَازِنُ بِمَذَاقِهَا الْحُلْوِ مَرَارَةَ الْقَهْوَةِ السَّوْدَاءِ.",
       "translation": "Obično kafu prate vrhunske vrste hurmi, koje svojim slatkim ukusom balansiraju gorčinu crne kafe.",
-      "translationEn": "Usually, the coffee is accompanied by luxury types of dates, which balance the bitterness of the black coffee with their sweet taste."
+      "translationEn": "Usually, the coffee is accompanied by luxury types of dates, which balance the bitterness of the black coffee with their sweet taste.",
+      "words": [
+        { "w": "وَعَادَةً", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "تُرَافِقُ", "lemma": "رَافَقَ يُرَافِقُ" },
+        { "w": "الْقَهْوَةَ", "lemma": "قَهْوَةٌ" },
+        { "w": "أَنْوَاعٌ", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "فَاخِرَةٌ", "lemma": "فَاخِرٌ" },
+        { "w": "التُّمُورِ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "تُوَازِنُ", "lemma": "وَازَنَ يُوَازِنُ" },
+        { "w": "بِمَذَاقِهَا", "lemma": "مَذَاقٌ" },
+        { "w": "الْحُلْوِ", "lemma": "حُلْوٌ" },
+        { "w": "مَرَارَةَ", "lemma": "مَرَارَةٌ" },
+        { "w": "الْقَهْوَةِ", "lemma": "قَهْوَةٌ" },
+        { "w": "السَّوْدَاءِ", "lemma": "أَسْوَدُ" }
+      ]
     },
     {
-      "arabic": "إِنَّ طُقُوسَ صَبِّ الْقَهْوَةِ بِالْيَدِ الْيُسْرَى وَتَقْدِيمِهَا بِالْيَمِينِ تَعْكِسُ تَقَالِيدَ عَرِيقَةً تَنَاقَلَتْهَا الْأَجْيَالُ.",
+      "arabic": "إِنَّ طُقُوسَ صَبِّ الْقَهْوَةِ بِالْيَدِ الْيُسْرَى وَتَقْدِيمِهَا بِالْيَمِينِ تَعْكِسُ تَقَالِيدَ عَرِيقَةً تَنَاقَلَتْهَا الْأَجْيَالُ.",
       "translation": "Rituali točenja kafe lijevom rukom i posluživanja desnom odražavaju drevne tradicije koje su se prenosile generacijama.",
-      "translationEn": "The rituals of pouring coffee with the left hand and serving it with the right reflect ancient traditions passed down through generations."
+      "translationEn": "The rituals of pouring coffee with the left hand and serving it with the right reflect ancient traditions passed down through generations.",
+      "words": [
+        { "w": "طُقُوسَ", "lemma": "طَقْسٌ / طُقُوسٌ" },
+        { "w": "صَبِّ", "lemma": "صَبٌّ" },
+        { "w": "الْقَهْوَةِ", "lemma": "قَهْوَةٌ" },
+        { "w": "بِالْيَدِ", "lemma": "يَدٌ / أَيْدٍ" },
+        { "w": "الْيُسْرَى", "lemma": "أَيْسَرُ" },
+        { "w": "وَتَقْدِيمِهَا", "lemma": "تَقْدِيمٌ" },
+        { "w": "بِالْيَمِينِ", "lemma": "يَمِينٌ" },
+        { "w": "تَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "تَقَالِيدَ", "lemma": "تَقْلِيدٌ / تَقَالِيدُ" },
+        { "w": "عَرِيقَةً", "lemma": "عَرِيقٌ" },
+        { "w": "تَنَاقَلَتْهَا", "lemma": "تَنَاقَلَ يَتَنَاقَلُ" },
+        { "w": "الْأَجْيَالُ", "lemma": "جِيلٌ / أَجْيَالٌ" }
+      ]
     }
   ],
   "metadata": {

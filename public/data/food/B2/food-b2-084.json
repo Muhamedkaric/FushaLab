@@ -4,29 +4,94 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَعْتَمِدُ النِّظَامُ الْغِذَائِيُّ فِي حَوْضِ الْمُتَوَسِّطِ عَلَى زَيْتِ الزَّيْتُونِ كَمَصْدَرٍ أَسَاسِيٍّ لِلدُّهُونِ الصِّحِّيَّةِ.",
+      "arabic": "يَعْتَمِدُ النِّظَامُ الْغِذَائِيُّ فِي حَوْضِ الْمُتَوَسِّطِ عَلَى زَيْتِ الزَّيْتُونِ كَمَصْدَرٍ أَسَاسِيٍّ لِلدُّهُونِ الصِّحِّيَّةِ.",
       "translation": "Režim ishrane u mediteranskom bazenu oslanja se na maslinovo ulje kao osnovni izvor zdravih masnoća.",
-      "translationEn": "The diet in the Mediterranean basin relies on olive oil as a primary source of healthy fats."
+      "translationEn": "The diet in the Mediterranean basin relies on olive oil as a primary source of healthy fats.",
+      "words": [
+        { "w": "يَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "النِّظَامُ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "الْغِذَائِيُّ", "lemma": "غِذَائِيٌّ" },
+        { "w": "حَوْضِ", "lemma": "حَوْضٌ / أَحْوَاضٌ" },
+        { "w": "الْمُتَوَسِّطِ", "lemma": "مُتَوَسِّطٌ" },
+        { "w": "زَيْتِ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "كَمَصْدَرٍ", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "أَسَاسِيٍّ", "lemma": "أَسَاسِيٌّ" },
+        { "w": "لِلدُّهُونِ", "lemma": "دُهْنٌ / دُهُونٌ" },
+        { "w": "الصِّحِّيَّةِ", "lemma": "صِحِّيٌّ" }
+      ]
     },
     {
-      "arabic": "تُشِيرُ الدِّرَاسَاتُ الْحَدِيثَةُ إِلَى أَنَّ الِاعْتِمَادَ عَلَى الْبُقُولِيَّاتِ وَالْحُبُوبِ الْكَامِلَةِ يُسَاهِمُ فِي تَعْزِيزِ صِحَّةِ الْقَلْبِ وَالْجِهَازِ الْهَضْمِيِّ.",
+      "arabic": "تُشِيرُ الدِّرَاسَاتُ الْحَدِيثَةُ إِلَى أَنَّ الِاعْتِمَادَ عَلَى الْبُقُولِيَّاتِ وَالْحُبُوبِ الْكَامِلَةِ يُسَاهِمُ فِي تَعْزِيزِ صِحَّةِ الْقَلْبِ وَالْجِهَازِ الْهَضْمِيِّ.",
       "translation": "Savremene studije ukazuju na to da oslanjanje na mahunarke i integralne žitarice doprinosi jačanju zdravlja srca i probavnog sistema.",
-      "translationEn": "Modern studies indicate that relying on legumes and whole grains contributes to enhancing heart and digestive system health."
+      "translationEn": "Modern studies indicate that relying on legumes and whole grains contributes to enhancing heart and digestive system health.",
+      "words": [
+        { "w": "تُشِيرُ", "lemma": "أَشَارَ يُشِيرُ" },
+        { "w": "الدِّرَاسَاتُ", "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ" },
+        { "w": "الْحَدِيثَةُ", "lemma": "حَدِيثٌ" },
+        { "w": "الِاعْتِمَادَ", "lemma": "اعْتِمَادٌ" },
+        { "w": "الْبُقُولِيَّاتِ", "lemma": "بُقُولِيَّاتٌ" },
+        { "w": "وَالْحُبُوبِ", "lemma": "حَبٌّ / حُبُوبٌ" },
+        { "w": "الْكَامِلَةِ", "lemma": "كَامِلٌ" },
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "تَعْزِيزِ", "lemma": "تَعْزِيزٌ" },
+        { "w": "صِحَّةِ", "lemma": "صِحَّةٌ" },
+        { "w": "الْقَلْبِ", "lemma": "قَلْبٌ / قُلُوبٌ" },
+        { "w": "وَالْجِهَازِ", "lemma": "جِهَازٌ / أَجْهِزَةٌ" },
+        { "w": "الْهَضْمِيِّ", "lemma": "هَضْمِيٌّ" }
+      ]
     },
     {
-      "arabic": "يَتَمَيَّزُ الْمَطْبَخُ الْعَرَبِيُّ بِتَنَوُّعِ السَّلَطَاتِ الَّتِي تَحْتَوِي عَلَى مَجْمُوعَةٍ وَاسِعَةٍ مِنَ الْفِيتَامِينَاتِ وَالْمَعَادِنِ الضَّرُورِيَّةِ.",
+      "arabic": "يَتَمَيَّزُ الْمَطْبَخُ الْعَرَبِيُّ بِتَنَوُّعِ السَّلَطَاتِ الَّتِي تَحْتَوِي عَلَى مَجْمُوعَةٍ وَاسِعَةٍ مِنَ الْفِيتَامِينَاتِ وَالْمَعَادِنِ الضَّرُورِيَّةِ.",
       "translation": "Arapsku kuhinju karakteriše raznovrsnost salata koje sadrže širok spektar neophodnih vitamina i minerala.",
-      "translationEn": "Arab cuisine is characterized by a variety of salads that contain a wide range of essential vitamins and minerals."
+      "translationEn": "Arab cuisine is characterized by a variety of salads that contain a wide range of essential vitamins and minerals.",
+      "words": [
+        { "w": "يَتَمَيَّزُ", "lemma": "تَمَيَّزَ يَتَمَيَّزُ" },
+        { "w": "الْمَطْبَخُ", "lemma": "مَطْبَخٌ / مَطَابِخُ" },
+        { "w": "الْعَرَبِيُّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "بِتَنَوُّعِ", "lemma": "تَنَوُّعٌ" },
+        { "w": "السَّلَطَاتِ", "lemma": "سَلَطَةٌ / سَلَطَاتٌ" },
+        { "w": "تَحْتَوِي", "lemma": "احْتَوَى يَحْتَوِي" },
+        { "w": "مَجْمُوعَةٍ", "lemma": "مَجْمُوعَةٌ / مَجْمُوعَاتٌ" },
+        { "w": "وَاسِعَةٍ", "lemma": "وَاسِعٌ" },
+        { "w": "الْفِيتَامِينَاتِ", "lemma": "فِيتَامِينٌ / فِيتَامِينَاتٌ" },
+        { "w": "وَالْمَعَادِنِ", "lemma": "مَعْدِنٌ / مَعَادِنُ" },
+        { "w": "الضَّرُورِيَّةِ", "lemma": "ضَرُورِيٌّ" }
+      ]
     },
     {
-      "arabic": "لِذَلِكَ، يُنْصَحُ دَائِمًا بِتَقْلِيلِ السُّكَّرِيَّاتِ الْمُصَنَّعَةِ وَاسْتِبْدَالِهَا بِالْفَوَاكِهِ الطَّبِيعِيَّةِ لِلْحِفَاظِ عَلَى رَشَاقَةِ الْجِسْمِ.",
+      "arabic": "لِذَلِكَ، يُنْصَحُ دَائِمًا بِتَقْلِيلِ السُّكَّرِيَّاتِ الْمُصَنَّعَةِ وَاسْتِبْدَالِهَا بِالْفَوَاكِهِ الطَّبِيعِيَّةِ لِلْحِفَاظِ عَلَى رَشَاقَةِ الْجِسْمِ.",
       "translation": "Zbog toga se uvijek savjetuje smanjenje prerađenih šećera i njihova zamjena prirodnim voćem radi očuvanja vitkosti tijela.",
-      "translationEn": "Therefore, it is always recommended to reduce processed sugars and replace them with natural fruits to maintain body fitness."
+      "translationEn": "Therefore, it is always recommended to reduce processed sugars and replace them with natural fruits to maintain body fitness.",
+      "words": [
+        { "w": "يُنْصَحُ", "lemma": "نَصَحَ يَنْصَحُ" },
+        { "w": "دَائِمًا", "lemma": "دَائِمٌ" },
+        { "w": "بِتَقْلِيلِ", "lemma": "تَقْلِيلٌ" },
+        { "w": "السُّكَّرِيَّاتِ", "lemma": "سُكَّرِيَّاتٌ" },
+        { "w": "الْمُصَنَّعَةِ", "lemma": "مُصَنَّعٌ" },
+        { "w": "وَاسْتِبْدَالِهَا", "lemma": "اسْتِبْدَالٌ" },
+        { "w": "بِالْفَوَاكِهِ", "lemma": "فَاكِهَةٌ / فَوَاكِهُ" },
+        { "w": "الطَّبِيعِيَّةِ", "lemma": "طَبِيعِيٌّ" },
+        { "w": "لِلْحِفَاظِ", "lemma": "حِفَاظٌ" },
+        { "w": "رَشَاقَةِ", "lemma": "رَشَاقَةٌ" },
+        { "w": "الْجِسْمِ", "lemma": "جِسْمٌ / أَجْسَامٌ" }
+      ]
     },
     {
-      "arabic": "فَالِاعْتِدَالُ فِي تَنَاوُلِ الطَّعَامِ هُوَ الْقَاعِدَةُ الذَّهَبِيَّةُ الَّتِي تَدْعُو إِلَيْهَا الثَّقَافَةُ الْغِذَائِيَّةُ السَّلِيمَةُ.",
+      "arabic": "فَالِاعْتِدَالُ فِي تَنَاوُلِ الطَّعَامِ هُوَ الْقَاعِدَةُ الذَّهَبِيَّةُ الَّتِي تَدْعُو إِلَيْهَا الثَّقَافَةُ الْغِذَائِيَّةُ السَّلِيمَةُ.",
       "translation": "Umjerenost u jelu je zlatno pravilo na koje poziva ispravna kultura ishrane.",
-      "translationEn": "Moderation in eating is the golden rule advocated by a sound nutritional culture."
+      "translationEn": "Moderation in eating is the golden rule advocated by a sound nutritional culture.",
+      "words": [
+        { "w": "فَالِاعْتِدَالُ", "lemma": "اعْتِدَالٌ" },
+        { "w": "تَنَاوُلِ", "lemma": "تَنَاوُلٌ" },
+        { "w": "الطَّعَامِ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "الْقَاعِدَةُ", "lemma": "قَاعِدَةٌ / قَوَاعِدُ" },
+        { "w": "الذَّهَبِيَّةُ", "lemma": "ذَهَبِيٌّ" },
+        { "w": "تَدْعُو", "lemma": "دَعَا يَدْعُو" },
+        { "w": "الثَّقَافَةُ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "الْغِذَائِيَّةُ", "lemma": "غِذَائِيٌّ" },
+        { "w": "السَّلِيمَةُ", "lemma": "سَلِيمٌ" }
+      ]
     }
   ],
   "metadata": {

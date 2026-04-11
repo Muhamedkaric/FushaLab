@@ -4,39 +4,99 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعَدُّ الْخُبْزُ عُنْصُرًا لَا غِنَى عَنْهُ عَلَى الْمَائِدَةِ الْعَرَبِيَّةِ، فَقَدْ ارْتَبَطَ دَائِمًا بِمَفْهُومِ الْبَرَكَةِ وَالْعَيْشِ الْمُشْتَرَكِ.",
+      "arabic": "يُعَدُّ الْخُبْزُ عُنْصُرًا لَا غِنَى عَنْهُ عَلَى الْمَائِدَةِ الْعَرَبِيَّةِ، فَقَدْ ارْتَبَطَ دَائِمًا بِمَفْهُومِ الْبَرَكَةِ وَالْعَيْشِ الْمُشْتَرَكِ.",
       "translation": "Hljeb se smatra neizostavnim elementom na arapskoj trpezi, jer je oduvijek bio povezan s konceptom blagoslova i zajedničkog života.",
       "translationEn": "Bread is considered an indispensable element on the Arab table, as it has always been linked to the concept of blessing and communal living.",
-      "words": []
-    },
-    {
-      "arabic": "تَبْدَأُ عَمَلِيَّةُ صُنْعِ الْخُبْزِ التَّقْلِيدِيِّ بِعَجْنِ الدَّقِيقِ مَعَ الْمَاءِ وَالْخَمِيرَةِ حَتَّى تُصْبِحَ الْعَجِينَةُ لَيِّنَةً وَمُتَمَاسِكَةً.",
-      "translation": "Proces pravljenja tradicionalnog hljeba počinje miješenjem brašna s vodom i kvascem dok tijesto ne postane mekano i kompaktno.",
-      "translationEn": "The process of making traditional bread begins by kneading flour with water and yeast until the dough becomes soft and cohesive.",
-      "words": []
-    },
-    {
-      "arabic": "يُتْرَكُ الْعَجِينُ لِيَتَخَمَّرَ فِي مَكَانٍ دَافِئٍ، مِمَّا يَسْمَحُ لَهُ بِالِارْتِفَاعِ وَاكْتِسَابِ الْقَوَامِ الْمَطْلُوبِ قَبْلَ عَمَلِيَّةِ الْخَبْزِ.",
-      "translation": "Tijesto se ostavlja da fermentira na toplom mjestu, što mu omogućava da naraste i dobije željenu teksturu prije pečenja.",
-      "translationEn": "The dough is left to ferment in a warm place, allowing it to rise and acquire the desired texture before the baking process.",
-      "words": []
-    },
-    {
-      "arabic": "عِنْدَمَا يُوضَعُ الرَّغِيفُ فِي الْفُرْنِ الْحَجَرِيِّ السَّاخِنِ، تَنْتَشِرُ رَائِحَةٌ زَكِيَّةٌ تَمْلَأُ أَرْجَاءَ الْبَيْتِ وَتُثِيرُ الشَّهِيَّةَ.",
-      "translation": "Kada se hljeb stavi u vrelu kamenu peć, širi se prijatan miris koji ispunjava kuću i budi apetit.",
-      "translationEn": "When the loaf is placed in the hot stone oven, a pleasant aroma spreads, filling the house and stimulating the appetite.",
       "words": [
-        {
-          "w": "عِنْدَمَا",
-          "lemma": "عِنْدَمَا"
-        }
+        { "w": "يُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "الْخُبْزُ", "lemma": "خُبْزٌ / خُبُوزٌ" },
+        { "w": "عُنْصُرًا", "lemma": "عُنْصُرٌ / عَنَاصِرُ" },
+        { "w": "الْمَائِدَةِ", "lemma": "مَائِدَةٌ / مَوَائِدُ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "ارْتَبَطَ", "lemma": "ارْتَبَطَ يَرْتَبِطُ" },
+        { "w": "دَائِمًا", "lemma": "دَائِمٌ" },
+        { "w": "بِمَفْهُومِ", "lemma": "مَفْهُومٌ / مَفَاهِيمُ" },
+        { "w": "الْبَرَكَةِ", "lemma": "بَرَكَةٌ / بَرَكَاتٌ" },
+        { "w": "وَالْعَيْشِ", "lemma": "عَيْشٌ" },
+        { "w": "الْمُشْتَرَكِ", "lemma": "مُشْتَرَكٌ" }
       ]
     },
     {
-      "arabic": "يُفَضِّلُ الْكَثِيرُونَ تَنَاوُلَ الْخُبْزِ وَهُوَ سَاخِنٌ مَعَ الْقَلِيلِ مِنَ الزَّيْتِ وَالزَّعْتَرِ، مِمَّا يُشَكِّلُ وَجْبَةً بَسِيطَةً وَلَذِيذَةً.",
+      "arabic": "تَبْدَأُ عَمَلِيَّةُ صُنْعِ الْخُبْزِ التَّقْلِيدِيِّ بِعَجْنِ الدَّقِيقِ مَعَ الْمَاءِ وَالْخَمِيرَةِ حَتَّى تُصْبِحَ الْعَجِينَةُ لَيِّنَةً وَمُتَمَاسِكَةً.",
+      "translation": "Proces pravljenja tradicionalnog hljeba počinje miješenjem brašna s vodom i kvascem dok tijesto ne postane mekano i kompaktno.",
+      "translationEn": "The process of making traditional bread begins by kneading flour with water and yeast until the dough becomes soft and cohesive.",
+      "words": [
+        { "w": "تَبْدَأُ", "lemma": "بَدَأَ يَبْدَأُ" },
+        { "w": "عَمَلِيَّةُ", "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ" },
+        { "w": "صُنْعِ", "lemma": "صُنْعٌ" },
+        { "w": "الْخُبْزِ", "lemma": "خُبْزٌ / خُبُوزٌ" },
+        { "w": "التَّقْلِيدِيِّ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "بِعَجْنِ", "lemma": "عَجْنٌ" },
+        { "w": "الدَّقِيقِ", "lemma": "دَقِيقٌ" },
+        { "w": "الْمَاءِ", "lemma": "مَاءٌ / مِيَاهٌ" },
+        { "w": "وَالْخَمِيرَةِ", "lemma": "خَمِيرَةٌ" },
+        { "w": "تُصْبِحَ", "lemma": "أَصْبَحَ يُصْبِحُ" },
+        { "w": "الْعَجِينَةُ", "lemma": "عَجِينَةٌ" },
+        { "w": "لَيِّنَةً", "lemma": "لَيِّنٌ" },
+        { "w": "وَمُتَمَاسِكَةً", "lemma": "مُتَمَاسِكٌ" }
+      ]
+    },
+    {
+      "arabic": "يُتْرَكُ الْعَجِينُ لِيَتَخَمَّرَ فِي مَكَانٍ دَافِئٍ، مِمَّا يَسْمَحُ لَهُ بِالِارْتِفَاعِ وَاكْتِسَابِ الْقَوَامِ الْمَطْلُوبِ قَبْلَ عَمَلِيَّةِ الْخَبْزِ.",
+      "translation": "Tijesto se ostavlja da fermentira na toplom mjestu, što mu omogućava da naraste i dobije željenu teksturu prije pečenja.",
+      "translationEn": "The dough is left to ferment in a warm place, allowing it to rise and acquire the desired texture before the baking process.",
+      "words": [
+        { "w": "يُتْرَكُ", "lemma": "تَرَكَ يَتْرُكُ" },
+        { "w": "الْعَجِينُ", "lemma": "عَجِينٌ" },
+        { "w": "لِيَتَخَمَّرَ", "lemma": "تَخَمَّرَ يَتَخَمَّرُ" },
+        { "w": "مَكَانٍ", "lemma": "مَكَانٌ / أَمَاكِنُ" },
+        { "w": "دَافِئٍ", "lemma": "دَافِئٌ" },
+        { "w": "يَسْمَحُ", "lemma": "سَمَحَ يَسْمَحُ" },
+        { "w": "بِالِارْتِفَاعِ", "lemma": "ارْتِفَاعٌ" },
+        { "w": "وَاكْتِسَابِ", "lemma": "اكْتِسَابٌ" },
+        { "w": "الْقَوَامِ", "lemma": "قَوَامٌ" },
+        { "w": "الْمَطْلُوبِ", "lemma": "مَطْلُوبٌ" },
+        { "w": "عَمَلِيَّةِ", "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ" },
+        { "w": "الْخَبْزِ", "lemma": "خَبْزٌ" }
+      ]
+    },
+    {
+      "arabic": "عِنْدَمَا يُوضَعُ الرَّغِيفُ فِي الْفُرْنِ الْحَجَرِيِّ السَّاخِنِ، تَنْتَشِرُ رَائِحَةٌ زَكِيَّةٌ تَمْلَأُ أَرْجَاءَ الْبَيْتِ وَتُثِيرُ الشَّهِيَّةَ.",
+      "translation": "Kada se hljeb stavi u vrelu kamenu peć, širi se prijatan miris koji ispunjava kuću i budi apetit.",
+      "translationEn": "When the loaf is placed in the hot stone oven, a pleasant aroma spreads, filling the house and stimulating the appetite.",
+      "words": [
+        { "w": "يُوضَعُ", "lemma": "وَضَعَ يَضَعُ" },
+        { "w": "الرَّغِيفُ", "lemma": "رَغِيفٌ / أَرْغِفَةٌ" },
+        { "w": "الْفُرْنِ", "lemma": "فُرْنٌ / أَفْرَانٌ" },
+        { "w": "الْحَجَرِيِّ", "lemma": "حَجَرِيٌّ" },
+        { "w": "السَّاخِنِ", "lemma": "سَاخِنٌ" },
+        { "w": "تَنْتَشِرُ", "lemma": "انْتَشَرَ يَنْتَشِرُ" },
+        { "w": "رَائِحَةٌ", "lemma": "رَائِحَةٌ / رَوَائِحُ" },
+        { "w": "زَكِيَّةٌ", "lemma": "زَكِيٌّ" },
+        { "w": "تَمْلَأُ", "lemma": "مَلَأَ يَمْلَأُ" },
+        { "w": "أَرْجَاءَ", "lemma": "رَجَاءٌ / أَرْجَاءٌ" },
+        { "w": "الْبَيْتِ", "lemma": "بَيْتٌ / بُيُوتٌ" },
+        { "w": "وَتُثِيرُ", "lemma": "أَثَارَ يُثِيرُ" },
+        { "w": "الشَّهِيَّةَ", "lemma": "شَهِيَّةٌ" }
+      ]
+    },
+    {
+      "arabic": "يُفَضِّلُ الْكَثِيرُونَ تَنَاوُلَ الْخُبْزِ وَهُوَ سَاخِنٌ مَعَ الْقَلِيلِ مِنَ الزَّيْتِ وَالزَّعْتَرِ، مِمَّا يُشَكِّلُ وَجْبَةً بَسِيطَةً وَلَذِيذَةً.",
       "translation": "Mnogi radije jedu hljeb dok je vruć s malo ulja i začina (za'tar), što čini jednostavan i ukusan obrok.",
       "translationEn": "Many prefer to eat the bread while it is hot with a little oil and thyme (za'tar), forming a simple and delicious meal.",
-      "words": []
+      "words": [
+        { "w": "يُفَضِّلُ", "lemma": "فَضَّلَ يُفَضِّلُ" },
+        { "w": "الْكَثِيرُونَ", "lemma": "كَثِيرٌ / كَثِيرُونَ" },
+        { "w": "تَنَاوُلَ", "lemma": "تَنَاوُلٌ" },
+        { "w": "الْخُبْزِ", "lemma": "خُبْزٌ / خُبُوزٌ" },
+        { "w": "سَاخِنٌ", "lemma": "سَاخِنٌ" },
+        { "w": "الزَّيْتِ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "وَالزَّعْتَرِ", "lemma": "زَعْتَرٌ" },
+        { "w": "يُشَكِّلُ", "lemma": "شَكَّلَ يُشَكِّلُ" },
+        { "w": "وَجْبَةً", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "بَسِيطَةً", "lemma": "بَسِيطٌ" },
+        { "w": "وَلَذِيذَةً", "lemma": "لَذِيذٌ" }
+      ]
     }
   ],
   "metadata": {

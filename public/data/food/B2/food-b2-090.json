@@ -4,39 +4,94 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ التَّوَابِلُ الْقَلْبَ النَّابِضَ لِلْمَطْبَخِ الْعَرَبِيِّ، إِذْ تَمْنَحُ الْأَطْبَاقَ هُوِيَّتَهَا الْعَمِيقَةَ وَشَخْصِيَّتَهَا الْمُمَيَّزَةَ.",
+      "arabic": "تُمَثِّلُ التَّوَابِلُ الْقَلْبَ النَّابِضَ لِلْمَطْبَخِ الْعَرَبِيِّ، إِذْ تَمْنَحُ الْأَطْبَاقَ هُوِيَّتَهَا الْعَمِيقَةَ وَشَخْصِيَّتَهَا الْمُمَيَّزَةَ.",
       "translation": "Začini predstavljaju srce arapske kuhinje, jer jelima daju njihov duboki identitet i prepoznatljiv karakter.",
       "translationEn": "Spices represent the beating heart of Arab cuisine, as they give dishes their deep identity and distinctive character.",
-      "words": []
-    },
-    {
-      "arabic": "تَتَفَاوَتُ الْخَلَطَاتُ مِثْلَ \"الْبَهَارَاتِ\" أَوْ \"رَأْسِ الْحَانُوتِ\" مِنْ مِنْطَقَةٍ إِلَى أُخْرَى، مِمَّا يَعْكِسُ التَّنَوُّعَ الْبِيئِيَّ الْمَحَلِّيَّ.",
-      "translation": "Mješavine poput \"Baharat\" ili \"Ras el Hanout\" variraju od regije do regije, što odražava lokalnu ekološku raznolikost.",
-      "translationEn": "Mixtures like 'Baharat' or 'Ras el Hanout' vary from one region to another, reflecting local environmental diversity.",
       "words": [
-        {
-          "w": "أُخْرَى",
-          "lemma": "آخَرُ / أُخْرَى"
-        }
+        { "w": "تُمَثِّلُ", "lemma": "مَثَّلَ يُمَثِّلُ" },
+        { "w": "التَّوَابِلُ", "lemma": "تَابِلٌ / تَوَابِلُ" },
+        { "w": "الْقَلْبَ", "lemma": "قَلْبٌ / قُلُوبٌ" },
+        { "w": "النَّابِضَ", "lemma": "نَابِضٌ" },
+        { "w": "لِلْمَطْبَخِ", "lemma": "مَطْبَخٌ / مَطَابِخُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "تَمْنَحُ", "lemma": "مَنَحَ يَمْنَحُ" },
+        { "w": "الْأَطْبَاقَ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "هُوِيَّتَهَا", "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ" },
+        { "w": "الْعَمِيقَةَ", "lemma": "عَمِيقٌ" },
+        { "w": "وَشَخْصِيَّتَهَا", "lemma": "شَخْصِيَّةٌ / شَخْصِيَّاتٌ" },
+        { "w": "الْمُمَيَّزَةَ", "lemma": "مُمَيَّزٌ" }
       ]
     },
     {
-      "arabic": "يَتَطَلَّبُ اسْتِخْدَامُ الْكَمُّونِ، وَالْقِرْفَةِ، وَالزَّعْفَرَانِ مَهَارَةً عَالِيَةً لِتَحْقِيقِ التَّوَازُنِ الْمِثَالِيِّ بَيْنَ النَّكَهَاتِ الْمُخْتَلِفَةِ.",
+      "arabic": "تَتَفَاوَتُ الْخَلَطَاتُ مِثْلَ \"الْبَهَارَاتِ\" أَوْ \"رَأْسِ الْحَانُوتِ\" مِنْ مِنْطَقَةٍ إِلَى أُخْرَى، مِمَّا يَعْكِسُ التَّنَوُّعَ الْبِيئِيَّ الْمَحَلِّيَّ.",
+      "translation": "Mješavine poput \"Baharat\" ili \"Ras el Hanout\" variraju od regije do regije, što odražava lokalnu ekološku raznolikost.",
+      "translationEn": "Mixtures like 'Baharat' or 'Ras el Hanout' vary from one region to another, reflecting local environmental diversity.",
+      "words": [
+        { "w": "تَتَفَاوَتُ", "lemma": "تَفَاوَتَ يَتَفَاوَتُ" },
+        { "w": "الْخَلَطَاتُ", "lemma": "خَلْطَةٌ / خَلَطَاتٌ" },
+        { "w": "الْبَهَارَاتِ", "lemma": "بَهَارٌ / بَهَارَاتٌ" },
+        { "w": "رَأْسِ", "lemma": "رَأْسٌ / رُؤُوسٌ" },
+        { "w": "الْحَانُوتِ", "lemma": "حَانُوتٌ / حَوَانِيتُ" },
+        { "w": "مِنْطَقَةٍ", "lemma": "مِنْطَقَةٌ / مَنَاطِقُ" },
+        { "w": "أُخْرَى", "lemma": "آخَرُ / أُخْرَى" },
+        { "w": "يَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "التَّنَوُّعَ", "lemma": "تَنَوُّعٌ" },
+        { "w": "الْبِيئِيَّ", "lemma": "بِيئِيٌّ" },
+        { "w": "الْمَحَلِّيَّ", "lemma": "مَحَلِّيٌّ" }
+      ]
+    },
+    {
+      "arabic": "يَتَطَلَّبُ اسْتِخْدَامُ الْكَمُّونِ، وَالْقِرْفَةِ، وَالزَّعْفَرَانِ مَهَارَةً عَالِيَةً لِتَحْقِيقِ التَّوَازُنِ الْمِثَالِيِّ بَيْنَ النَّكَهَاتِ الْمُخْتَلِفَةِ.",
       "translation": "Upotreba kima, cimeta i šafrana zahtijeva veliku vještinu kako bi se postigla savršena ravnoteža između različitih okusa.",
       "translationEn": "Using cumin, cinnamon, and saffron requires high skill to achieve the perfect balance between different flavors.",
-      "words": []
+      "words": [
+        { "w": "يَتَطَلَّبُ", "lemma": "تَطَلَّبَ يَتَطَلَّبُ" },
+        { "w": "اسْتِخْدَامُ", "lemma": "اسْتِخْدَامٌ" },
+        { "w": "الْكَمُّونِ", "lemma": "كَمُّونٌ" },
+        { "w": "وَالْقِرْفَةِ", "lemma": "قِرْفَةٌ" },
+        { "w": "وَالزَّعْفَرَانِ", "lemma": "زَعْفَرَانٌ" },
+        { "w": "مَهَارَةً", "lemma": "مَهَارَةٌ / مَهَارَاتٌ" },
+        { "w": "عَالِيَةً", "lemma": "عَالٍ" },
+        { "w": "لِتَحْقِيقِ", "lemma": "تَحْقِيقٌ" },
+        { "w": "التَّوَازُنِ", "lemma": "تَوَازُنٌ" },
+        { "w": "الْمِثَالِيِّ", "lemma": "مِثَالِيٌّ" },
+        { "w": "النَّكَهَاتِ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "الْمُخْتَلِفَةِ", "lemma": "مُخْتَلِفٌ" }
+      ]
     },
     {
-      "arabic": "فَضْلًا عَنِ الْمَذَاقِ، تَمْتَلِكُ الْكَثِيرُ مِنْ هَذِهِ التَّوَابِلِ خَصَائِصَ طِبِّيَّةً تُسَاعِدُ فِي الْهَضْمِ وَتَعْزِيزِ الْمَنَاعَةِ.",
+      "arabic": "فَضْلًا عَنِ الْمَذَاقِ، تَمْتَلِكُ الْكَثِيرُ مِنْ هَذِهِ التَّوَابِلِ خَصَائِصَ طِبِّيَّةً تُسَاعِدُ فِي الْهَضْمِ وَتَعْزِيزِ الْمَنَاعَةِ.",
       "translation": "Pored ukusa, mnogi od ovih začina posjeduju ljekovita svojstva koja pomažu u probavi i jačanju imuniteta.",
       "translationEn": "Besides the taste, many of these spices possess medicinal properties that aid digestion and boost immunity.",
-      "words": []
+      "words": [
+        { "w": "الْمَذَاقِ", "lemma": "مَذَاقٌ" },
+        { "w": "تَمْتَلِكُ", "lemma": "امْتَلَكَ يَمْتَلِكُ" },
+        { "w": "الْكَثِيرُ", "lemma": "كَثِيرٌ" },
+        { "w": "التَّوَابِلِ", "lemma": "تَابِلٌ / تَوَابِلُ" },
+        { "w": "خَصَائِصَ", "lemma": "خَاصِيَّةٌ / خَصَائِصُ" },
+        { "w": "طِبِّيَّةً", "lemma": "طِبِّيٌّ" },
+        { "w": "تُسَاعِدُ", "lemma": "سَاعَدَ يُسَاعِدُ" },
+        { "w": "الْهَضْمِ", "lemma": "هَضْمٌ" },
+        { "w": "وَتَعْزِيزِ", "lemma": "تَعْزِيزٌ" },
+        { "w": "الْمَنَاعَةِ", "lemma": "مَنَاعَةٌ" }
+      ]
     },
     {
-      "arabic": "هَكَذَا، يَبْقَى فَنُّ اسْتِخْدَامِ الْبَهَارَاتِ حِرْفَةً تَتَوَارَثُهَا الْأَجْيَالُ مِنْ أَمْهَرِ الطُّهَاةِ وَالْأُمَّهَاتِ.",
+      "arabic": "هَكَذَا، يَبْقَى فَنُّ اسْتِخْدَامِ الْبَهَارَاتِ حِرْفَةً تَتَوَارَثُهَا الْأَجْيَالُ مِنْ أَمْهَرِ الطُّهَاةِ وَالْأُمَّهَاتِ.",
       "translation": "Tako umjetnost korištenja začina ostaje zanat koji generacije nasljeđuju od vještih kuhara i majki.",
       "translationEn": "Thus, the art of using spices remains a craft passed down through generations of skilled chefs and mothers.",
-      "words": []
+      "words": [
+        { "w": "يَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "فَنُّ", "lemma": "فَنٌّ / فُنُونٌ" },
+        { "w": "اسْتِخْدَامِ", "lemma": "اسْتِخْدَامٌ" },
+        { "w": "الْبَهَارَاتِ", "lemma": "بَهَارٌ / بَهَارَاتٌ" },
+        { "w": "حِرْفَةً", "lemma": "حِرْفَةٌ / حِرَفٌ" },
+        { "w": "تَتَوَارَثُهَا", "lemma": "تَوَارَثَ يَتَوَارَثُ" },
+        { "w": "الْأَجْيَالُ", "lemma": "جِيلٌ / أَجْيَالٌ" },
+        { "w": "أَمْهَرِ", "lemma": "مَاهِرٌ" },
+        { "w": "الطُّهَاةِ", "lemma": "طَاهٍ / طُهَاةٌ" },
+        { "w": "وَالْأُمَّهَاتِ", "lemma": "أُمٌّ / أُمَّهَاتٌ" }
+      ]
     }
   ],
   "metadata": {

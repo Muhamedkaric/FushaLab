@@ -7,41 +7,87 @@
       "arabic": "تُعْتَبَرُ الضِّيَافَةُ حَجَرَ الزَّاوِيَةِ فِي الثَّقَافَةِ الْعَرَبِيَّةِ، وَتَتَجَلَّى غَالِبًا فِي تَقْدِيمِ الْقَهْوَةِ الْعَرَبِيَّةِ الْأَصِيلَةِ.",
       "translation": "Gostoljubivost se smatra kamenom temeljcem arapske kulture, a često se očituje u posluživanju autentične arapske kafe.",
       "translationEn": "Hospitality is considered a cornerstone of Arab culture, and it is often manifested in the serving of authentic Arabic coffee.",
-      "words": []
+      "words": [
+        { "w": "تُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "الضِّيَافَةُ", "lemma": "ضِيَافَةٌ" },
+        { "w": "حَجَرَ", "lemma": "حَجَرٌ / أَحْجَارٌ" },
+        { "w": "الزَّاوِيَةِ", "lemma": "زَاوِيَةٌ / زَوَايَا" },
+        { "w": "الثَّقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "وَتَتَجَلَّى", "lemma": "تَجَلَّى يَتَجَلَّى" },
+        { "w": "غَالِبًا", "lemma": "غَالِبٌ" },
+        { "w": "تَقْدِيمِ", "lemma": "تَقْدِيمٌ" },
+        { "w": "الْقَهْوَةِ", "lemma": "قَهْوَةٌ" },
+        { "w": "الْأَصِيلَةِ", "lemma": "أَصِيلٌ" }
+      ]
     },
     {
       "arabic": "تُسْكَبُ الْقَهْوَةُ الْمَنْكَهَةُ بِالْهَيْلِ فِي فَنَاجِينَ صَغِيرَةٍ لِلتَّرْحِيبِ بِالضُّيُوفِ عِنْدَ دُخُولِهِمُ الْمَنْزِلَ.",
       "translation": "Kafa aromatizirana kardamomom sipa se u male fildžane kako bi se poželjela dobrodošlica gostima pri ulasku u dom.",
       "translationEn": "Coffee flavored with cardamom is poured into small cups to welcome guests as they enter the home.",
       "words": [
-        {
-          "w": "عِنْدَ",
-          "lemma": "عِنْدَ"
-        }
+        { "w": "تُسْكَبُ", "lemma": "سَكَبَ يَسْكُبُ" },
+        { "w": "الْقَهْوَةُ", "lemma": "قَهْوَةٌ" },
+        { "w": "الْمَنْكَهَةُ", "lemma": "مُنَكَّهٌ" },
+        { "w": "بِالْهَيْلِ", "lemma": "هَيْلٌ" },
+        { "w": "فَنَاجِينَ", "lemma": "فِنْجَانٌ / فَنَاجِينُ" },
+        { "w": "صَغِيرَةٍ", "lemma": "صَغِيرٌ" },
+        { "w": "لِلتَّرْحِيبِ", "lemma": "تَرْحِيبٌ" },
+        { "w": "بِالضُّيُوفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "دُخُولِهِمُ", "lemma": "دُخُولٌ" },
+        { "w": "الْمَنْزِلَ", "lemma": "مَنْزِلٌ / مَنَازِلُ" }
       ]
     },
     {
       "arabic": "يُرَافِقُهَا تَقْلِيدِيًّا أَجْوَدُ أَنْوَاعِ التُّمُورِ، الَّتِي تُوَازِنُ مَذَاقَ الْقَهْوَةِ الْمُرِّ بِحَلَاوَتِهَا الطَّبِيعِيَّةِ.",
       "translation": "Tradicionalno je prate najfinije vrste hurmi, koje svojom prirodnom slatkoćom uravnotežuju gorak okus kafe.",
       "translationEn": "It is traditionally accompanied by the finest types of dates, which balance the bitter taste of the coffee with their natural sweetness.",
-      "words": []
+      "words": [
+        { "w": "يُرَافِقُهَا", "lemma": "رَافَقَ يُرَافِقُ" },
+        { "w": "تَقْلِيدِيًّا", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "أَجْوَدُ", "lemma": "جَيِّدٌ / أَجْوَدُ" },
+        { "w": "أَنْوَاعِ", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "التُّمُورِ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "تُوَازِنُ", "lemma": "وَازَنَ يُوَازِنُ" },
+        { "w": "مَذَاقَ", "lemma": "مَذَاقٌ" },
+        { "w": "الْقَهْوَةِ", "lemma": "قَهْوَةٌ" },
+        { "w": "الْمُرِّ", "lemma": "مُرٌّ" },
+        { "w": "بِحَلَاوَتِهَا", "lemma": "حَلَاوَةٌ" },
+        { "w": "الطَّبِيعِيَّةِ", "lemma": "طَبِيعِيٌّ" }
+      ]
     },
     {
       "arabic": "يَعْكِسُ هَذَا الطَّقْسُ قِيَمًا رَاسِخَةً مِنَ الْكَرَمِ وَالِاحْتِرَامِ تَنَاقَلَتْهَا الْأَجْيَالُ عَبْرَ الْعُصُورِ.",
       "translation": "Ovaj ritual odražava duboko ukorijenjene vrijednosti velikodušnosti i poštovanja koje su se generacijama prenosile kroz vijekove.",
       "translationEn": "This ritual reflects deep-rooted values of generosity and respect that have been passed down through generations over the centuries.",
       "words": [
-        {
-          "w": "عَبْرَ",
-          "lemma": "عَبْرَ"
-        }
+        { "w": "يَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "الطَّقْسُ", "lemma": "طَقْسٌ / طُقُوسٌ" },
+        { "w": "قِيَمًا", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "رَاسِخَةً", "lemma": "رَاسِخٌ" },
+        { "w": "الْكَرَمِ", "lemma": "كَرَمٌ" },
+        { "w": "وَالِاحْتِرَامِ", "lemma": "احْتِرَامٌ" },
+        { "w": "تَنَاقَلَتْهَا", "lemma": "تَنَاقَلَ يَتَنَاقَلُ" },
+        { "w": "الْأَجْيَالُ", "lemma": "جِيلٌ / أَجْيَالٌ" },
+        { "w": "الْعُصُورِ", "lemma": "عَصْرٌ / عُصُورٌ" }
       ]
     },
     {
       "arabic": "حَتَّى فِي الْعَصْرِ الْحَدِيثِ، تَبْقَى هَذِهِ الْعَادَاتُ جُزْءًا حَيَوِيًّا مِنَ التَّجَمُّعَاتِ الِاجْتِمَاعِيَّةِ وَالْمُنَاسَبَاتِ الرَّسْمِيَّةِ.",
       "translation": "Čak i u modernom dobu, ovi običaji ostaju vitalni dio društvenih okupljanja i službenih prilika.",
       "translationEn": "Even in the modern era, these customs remain a vital part of social gatherings and official occasions.",
-      "words": []
+      "words": [
+        { "w": "الْعَصْرِ", "lemma": "عَصْرٌ / عُصُورٌ" },
+        { "w": "الْحَدِيثِ", "lemma": "حَدِيثٌ" },
+        { "w": "تَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "الْعَادَاتُ", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "جُزْءًا", "lemma": "جُزْءٌ / أَجْزَاءٌ" },
+        { "w": "حَيَوِيًّا", "lemma": "حَيَوِيٌّ" },
+        { "w": "التَّجَمُّعَاتِ", "lemma": "تَجَمُّعٌ / تَجَمُّعَاتٌ" },
+        { "w": "الِاجْتِمَاعِيَّةِ", "lemma": "اجْتِمَاعِيٌّ" },
+        { "w": "وَالْمُنَاسَبَاتِ", "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ" },
+        { "w": "الرَّسْمِيَّةِ", "lemma": "رَسْمِيٌّ" }
+      ]
     }
   ],
   "metadata": {

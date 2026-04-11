@@ -7,7 +7,7 @@ set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 GEN_DIR="$REPO_DIR/data-generation"
-LOG_DIR="$HOME/Library/Logs/FushaLab"
+LOG_DIR="$GEN_DIR/logs"
 LOG_FILE="$LOG_DIR/b2-backfill-$(date +%Y-%m-%d).log"
 
 mkdir -p "$LOG_DIR"
@@ -25,6 +25,9 @@ log "  B2 backfill pipeline start"
 log "══════════════════════════════════════════"
 
 cd "$GEN_DIR"
+
+# Use absolute paths since launchd doesn't load shell profile / nvm
+export PATH="/Users/mkaric/.nvm/versions/node/v24.5.0/bin:$PATH"
 
 # ── Step 1: Gemini annotation (B2 only) ───────────────────────────────────
 log ""

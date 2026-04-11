@@ -4,29 +4,95 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ التَّمْرُ وَزَيْتُ الزَّيْتُونِ مِنَ الرَّكائِزِ الْأَسَاسِيَّةِ فِي النِّظَامِ الْغِذَائِيِّ لِسُكَّانِ حَوْضِ الْبَحْرِ الْأَبْيَضِ الْمُتَوَسِّطِ.",
+      "arabic": "يُعْتَبَرُ التَّمْرُ وَزَيْتُ الزَّيْتُونِ مِنَ الرَّكائِزِ الْأَسَاسِيَّةِ فِي النِّظَامِ الْغِذَائِيِّ لِسُكَّانِ حَوْضِ الْبَحْرِ الْأَبْيَضِ الْمُتَوَسِّطِ.",
       "translation": "Hurme i maslinovo ulje smatraju se osnovnim stubovima u ishrani stanovnika mediteranskog bazena.",
-      "translationEn": "Dates and olive oil are considered fundamental pillars in the diet of the Mediterranean basin inhabitants."
+      "translationEn": "Dates and olive oil are considered fundamental pillars in the diet of the Mediterranean basin inhabitants.",
+      "words": [
+        { "w": "يُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "التَّمْرُ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "وَزَيْتُ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "الرَّكائِزِ", "lemma": "رَكِيزَةٌ / رَكَائِزُ" },
+        { "w": "الْأَسَاسِيَّةِ", "lemma": "أَسَاسِيٌّ" },
+        { "w": "النِّظَامِ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "الْغِذَائِيِّ", "lemma": "غِذَائِيٌّ" },
+        { "w": "لِسُكَّانِ", "lemma": "سَاكِنٌ / سُكَّانٌ" },
+        { "w": "حَوْضِ", "lemma": "حَوْضٌ / أَحْوَاضٌ" },
+        { "w": "الْبَحْرِ", "lemma": "بَحْرٌ / بِحَارٌ" },
+        { "w": "الْأَبْيَضِ", "lemma": "أَبْيَضُ" },
+        { "w": "الْمُتَوَسِّطِ", "lemma": "مُتَوَسِّطٌ" }
+      ]
     },
     {
-      "arabic": "يَمْتَازُ التَّمْرُ بِكَوْنِهِ مَصْدَرًا طَبِيعِيًّا لِلطَّاقَةِ، إِذْ يَحْتَوِي عَلَى نِسْبَةٍ عَالِيَةٍ مِنَ الْأَلْيَافِ وَالْمَعَادِنِ الضَّرُورِيَّةِ لِلْجِسْمِ.",
+      "arabic": "يَمْتَازُ التَّمْرُ بِكَوْنِهِ مَصْدَرًا طَبِيعِيًّا لِلطَّاقَةِ، إِذْ يَحْتَوِي عَلَى نِسْبَةٍ عَالِيَةٍ مِنَ الْأَلْيَافِ وَالْمَعَادِنِ الضَّرُورِيَّةِ لِلْجِسْمِ.",
       "translation": "Hurme se odlikuju time što su prirodni izvor energije, jer sadrže visok procenat vlakana i minerala neophodnih za tijelo.",
-      "translationEn": "Dates are distinguished by being a natural source of energy, as they contain a high percentage of fiber and minerals essential for the body."
+      "translationEn": "Dates are distinguished by being a natural source of energy, as they contain a high percentage of fiber and minerals essential for the body.",
+      "words": [
+        { "w": "يَمْتَازُ", "lemma": "امْتَازَ يَمْتَازُ" },
+        { "w": "التَّمْرُ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "مَصْدَرًا", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "طَبِيعِيًّا", "lemma": "طَبِيعِيٌّ" },
+        { "w": "لِلطَّاقَةِ", "lemma": "طَاقَةٌ" },
+        { "w": "يَحْتَوِي", "lemma": "احْتَوَى يَحْتَوِي" },
+        { "w": "نِسْبَةٍ", "lemma": "نِسْبَةٌ / نِسَبٌ" },
+        { "w": "عَالِيَةٍ", "lemma": "عَالٍ" },
+        { "w": "الْأَلْيَافِ", "lemma": "لِيفٌ / أَلْيَافٌ" },
+        { "w": "وَالْمَعَادِنِ", "lemma": "مَعْدِنٌ / مَعَادِنُ" },
+        { "w": "الضَّرُورِيَّةِ", "lemma": "ضَرُورِيٌّ" },
+        { "w": "لِلْجِسْمِ", "lemma": "جِسْمٌ / أَجْسَامٌ" }
+      ]
     },
     {
-      "arabic": "أَمَّا زَيْتُ الزَّيْتُونِ، فَقَدْ أَثْبَتَتِ الدِّرَاسَاتُ الْعِلْمِيَّةُ دَوْرَهُ الْفَعَّالَ فِي حِمَايَةِ الْقَلْبِ وَتَعْزِيزِ الصِّحَّةِ الْعَامَّةِ.",
+      "arabic": "أَمَّا زَيْتُ الزَّيْتُونِ، فَقَدْ أَثْبَتَتِ الدِّرَاسَاتُ الْعِلْمِيَّةُ دَوْرَهُ الْفَعَّالَ فِي حِمَايَةِ الْقَلْبِ وَتَعْزِيزِ الصِّحَّةِ الْعَامَّةِ.",
       "translation": "Što se tiče maslinovog ulja, naučne studije su dokazale njegovu efikasnu ulogu u zaštiti srca i unapređenju opšteg zdravlja.",
-      "translationEn": "As for olive oil, scientific studies have proven its effective role in protecting the heart and promoting general health."
+      "translationEn": "As for olive oil, scientific studies have proven its effective role in protecting the heart and promoting general health.",
+      "words": [
+        { "w": "زَيْتُ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "أَثْبَتَتِ", "lemma": "أَثْبَتَ يُثْبِتُ" },
+        { "w": "الدِّرَاسَاتُ", "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ" },
+        { "w": "الْعِلْمِيَّةُ", "lemma": "عِلْمِيٌّ" },
+        { "w": "دَوْرَهُ", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "الْفَعَّالَ", "lemma": "فَعَّالٌ" },
+        { "w": "حِمَايَةِ", "lemma": "حِمَايَةٌ" },
+        { "w": "الْقَلْبِ", "lemma": "قَلْبٌ / قُلُوبٌ" },
+        { "w": "وَتَعْزِيزِ", "lemma": "تَعْزِيزٌ" },
+        { "w": "الصِّحَّةِ", "lemma": "صِحَّةٌ" },
+        { "w": "الْعَامَّةِ", "lemma": "عَامٌّ" }
+      ]
     },
     {
-      "arabic": "يَنْصَحُ خُبَرَاءُ التَّغْذِيَةِ بِدَمْجِ هَذِهِ الْمَكَوِّنَاتِ فِي الْوَجَبَاتِ الْيَوْمِيَّةِ لِلْوِقَايَةِ مِنَ الْأَمْرَاضِ الْمُزْمِنَةِ.",
+      "arabic": "يَنْصَحُ خُبَرَاءُ التَّغْذِيَةِ بِدَمْجِ هَذِهِ الْمَكَوِّنَاتِ فِي الْوَجَبَاتِ الْيَوْمِيَّةِ لِلْوِقَايَةِ مِنَ الْأَمْرَاضِ الْمُزْمِنَةِ.",
       "translation": "Nutricionisti savjetuju uključivanje ovih sastojaka u svakodnevne obroke radi prevencije hroničnih bolesti.",
-      "translationEn": "Nutrition experts advise integrating these ingredients into daily meals to prevent chronic diseases."
+      "translationEn": "Nutrition experts advise integrating these ingredients into daily meals to prevent chronic diseases.",
+      "words": [
+        { "w": "يَنْصَحُ", "lemma": "نَصَحَ يَنْصَحُ" },
+        { "w": "خُبَرَاءُ", "lemma": "خَبِيرٌ / خُبَرَاءُ" },
+        { "w": "التَّغْذِيَةِ", "lemma": "تَغْذِيَةٌ" },
+        { "w": "بِدَمْجِ", "lemma": "دَمْجٌ" },
+        { "w": "الْمَكَوِّنَاتِ", "lemma": "مُكَوِّنٌ / مُكَوِّنَاتٌ" },
+        { "w": "الْوَجَبَاتِ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "الْيَوْمِيَّةِ", "lemma": "يَوْمِيٌّ" },
+        { "w": "لِلْوِقَايَةِ", "lemma": "وِقَايَةٌ" },
+        { "w": "الْأَمْرَاضِ", "lemma": "مَرَضٌ / أَمْرَاضٌ" },
+        { "w": "الْمُزْمِنَةِ", "lemma": "مُزْمِنٌ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الِاعْتِمَادَ عَلَى هَذِهِ الْأَطْعِمَةِ الطَّبِيعِيَّةِ يُعَبِّرُ عَنْ وَعْيٍ صِحِّيٍّ يَتَوَارَثُهُ الْأَجْيَالُ مُنْذُ الْقِدَمِ.",
+      "arabic": "إِنَّ الِاعْتِمَادَ عَلَى هَذِهِ الْأَطْعِمَةِ الطَّبِيعِيَّةِ يُعَبِّرُ عَنْ وَعْيٍ صِحِّيٍّ يَتَوَارَثُهُ الْأَجْيَالُ مُنْذُ الْقِدَمِ.",
       "translation": "Oslanjanje na ove prirodne namirnice izražava zdravstvenu svijest koju generacije nasljeđuju od davnina.",
-      "translationEn": "Relying on these natural foods expresses a health awareness that generations have inherited since ancient times."
+      "translationEn": "Relying on these natural foods expresses a health awareness that generations have inherited since ancient times.",
+      "words": [
+        { "w": "الِاعْتِمَادَ", "lemma": "اعْتِمَادٌ" },
+        { "w": "الْأَطْعِمَةِ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "الطَّبِيعِيَّةِ", "lemma": "طَبِيعِيٌّ" },
+        { "w": "يُعَبِّرُ", "lemma": "عَبَّرَ يُعَبِّرُ" },
+        { "w": "وَعْيٍ", "lemma": "وَعْيٌ" },
+        { "w": "صِحِّيٍّ", "lemma": "صِحِّيٌّ" },
+        { "w": "يَتَوَارَثُهُ", "lemma": "تَوَارَثَ يَتَوَارَثُ" },
+        { "w": "الْأَجْيَالُ", "lemma": "جِيلٌ / أَجْيَالٌ" },
+        { "w": "الْقِدَمِ", "lemma": "قِدَمٌ" }
+      ]
     }
   ],
   "metadata": {

@@ -4,29 +4,93 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الضِّيَافَةُ الْعَرَبِيَّةُ رُكْنًا أَسَاسِيًّا فِي الثَّقَافَةِ الْمَحَلِّيَّةِ، حَيْثُ يُسْتَقْبَلُ الضُّيُوفُ بِأَحْسَنِ تَرْحِيبٍ.",
+      "arabic": "تُعَدُّ الضِّيَافَةُ الْعَرَبِيَّةُ رُكْنًا أَسَاسِيًّا فِي الثَّقَافَةِ الْمَحَلِّيَّةِ، حَيْثُ يُسْتَقْبَلُ الضُّيُوفُ بِأَحْسَنِ تَرْحِيبٍ.",
       "translation": "Arapsko gostoprimstvo smatra se osnovnim stubom lokalne kulture, gdje se gosti dočekuju s najljepšom dobrodošlicom.",
-      "translationEn": "Arab hospitality is considered a fundamental pillar of local culture, where guests are received with the warmest welcome."
+      "translationEn": "Arab hospitality is considered a fundamental pillar of local culture, where guests are received with the warmest welcome.",
+      "words": [
+        { "w": "تُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "الضِّيَافَةُ", "lemma": "ضِيَافَةٌ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "رُكْنًا", "lemma": "رُكْنٌ / أَرْكَانٌ" },
+        { "w": "أَسَاسِيًّا", "lemma": "أَسَاسِيٌّ" },
+        { "w": "الثَّقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "الْمَحَلِّيَّةِ", "lemma": "مَحَلِّيٌّ" },
+        { "w": "يُسْتَقْبَلُ", "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ" },
+        { "w": "الضُّيُوفُ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "بِأَحْسَنِ", "lemma": "حَسَنٌ" },
+        { "w": "تَرْحِيبٍ", "lemma": "تَرْحِيبٌ" }
+      ]
     },
     {
-      "arabic": "يُقَدَّمُ لِلزَّائِرِ غَالِبًا الْقَهْوَةُ السَّوْدَاءُ الْمُرَّةُ مَعَ حَبَّاتٍ مِنَ التَّمْرِ السُّكَّرِيِّ لِتَحْقِيقِ تَوَازُنٍ مِثَالِيٍّ فِي الْمَذَاقِ.",
+      "arabic": "يُقَدَّمُ لِلزَّائِرِ غَالِبًا الْقَهْوَةُ السَّوْدَاءُ الْمُرَّةُ مَعَ حَبَّاتٍ مِنَ التَّمْرِ السُّكَّرِيِّ لِتَحْقِيقِ تَوَازُنٍ مِثَالِيٍّ فِي الْمَذَاقِ.",
       "translation": "Posjetiocu se često nudi gorka crna kafa uz nekoliko slatkih hurmi kako bi se postigla savršena ravnoteža okusa.",
-      "translationEn": "Bitter black coffee is often served to the visitor along with some sweet dates to achieve a perfect balance in taste."
+      "translationEn": "Bitter black coffee is often served to the visitor along with some sweet dates to achieve a perfect balance in taste.",
+      "words": [
+        { "w": "يُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "لِلزَّائِرِ", "lemma": "زَائِرٌ / زُوَّارٌ" },
+        { "w": "غَالِبًا", "lemma": "غَالِبٌ" },
+        { "w": "الْقَهْوَةُ", "lemma": "قَهْوَةٌ" },
+        { "w": "السَّوْدَاءُ", "lemma": "أَسْوَدُ" },
+        { "w": "الْمُرَّةُ", "lemma": "مُرٌّ" },
+        { "w": "حَبَّاتٍ", "lemma": "حَبَّةٌ / حَبَّاتٌ" },
+        { "w": "التَّمْرِ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "السُّكَّرِيِّ", "lemma": "سُكَّرِيٌّ" },
+        { "w": "لِتَحْقِيقِ", "lemma": "تَحْقِيقٌ" },
+        { "w": "تَوَازُنٍ", "lemma": "تَوَازُنٌ" },
+        { "w": "مِثَالِيٍّ", "lemma": "مِثَالِيٌّ" },
+        { "w": "الْمَذَاقِ", "lemma": "مَذَاقٌ" }
+      ]
     },
     {
-      "arabic": "لَا تَقْتَصِرُ هَذِهِ الْعَادَةُ عَلَى إِطْعَامِ الطَّعَامِ فَحَسْبُ، بَلْ تَعْكِسُ قِيَمَ السَّخَاءِ وَالْكَرَمِ الَّتِي تَمَيَّزَ بِهَا الْعَرَبُ مُنْذُ الْقِدَمِ.",
+      "arabic": "لَا تَقْتَصِرُ هَذِهِ الْعَادَةُ عَلَى إِطْعَامِ الطَّعَامِ فَحَسْبُ، بَلْ تَعْكِسُ قِيَمَ السَّخَاءِ وَالْكَرَمِ الَّتِي تَمَيَّزَ بِهَا الْعَرَبُ مُنْذُ الْقِدَمِ.",
       "translation": "Ovaj običaj nije ograničen samo na posluživanje hrane, već odražava vrijednosti velikodušnosti i plemenitosti po kojima su Arapi poznati od davnina.",
-      "translationEn": "This custom is not limited to just serving food, but reflects the values of generosity and nobility that have characterized Arabs since ancient times."
+      "translationEn": "This custom is not limited to just serving food, but reflects the values of generosity and nobility that have characterized Arabs since ancient times.",
+      "words": [
+        { "w": "تَقْتَصِرُ", "lemma": "اقْتَصَرَ يَقْتَصِرُ" },
+        { "w": "الْعَادَةُ", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "إِطْعَامِ", "lemma": "إِطْعَامٌ" },
+        { "w": "الطَّعَامِ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "تَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "قِيَمَ", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "السَّخَاءِ", "lemma": "سَخَاءٌ" },
+        { "w": "وَالْكَرَمِ", "lemma": "كَرَمٌ" },
+        { "w": "تَمَيَّزَ", "lemma": "تَمَيَّزَ يَتَمَيَّزُ" },
+        { "w": "الْعَرَبُ", "lemma": "عَرَبٌ" },
+        { "w": "الْقِدَمِ", "lemma": "قِدَمٌ" }
+      ]
     },
     {
-      "arabic": "وَيَجِبُ عَلَى الضَّيْفِ أَنْ يَتَنَاوَلَ الْقَهْوَةَ بِيَدِهِ الْيُمْنَى تَبَعًا لِلتَّقَالِيدِ الْمُتَعَارَفِ عَلَيْهَا فِي الْمَجَالِسِ.",
+      "arabic": "وَيَجِبُ عَلَى الضَّيْفِ أَنْ يَتَنَاوَلَ الْقَهْوَةَ بِيَدِهِ الْيُمْنَى تَبَعًا لِلتَّقَالِيدِ الْمُتَعَارَفِ عَلَيْهَا فِي الْمَجَالِسِ.",
       "translation": "Gost treba piti kafu desnom rukom, u skladu s tradicijom koja je uobičajena na okupljanjima.",
-      "translationEn": "The guest should take the coffee with their right hand, following the traditions commonly observed in gatherings."
+      "translationEn": "The guest should take the coffee with their right hand, following the traditions commonly observed in gatherings.",
+      "words": [
+        { "w": "وَيَجِبُ", "lemma": "وَجَبَ يَجِبُ" },
+        { "w": "الضَّيْفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "يَتَنَاوَلَ", "lemma": "تَنَاوَلَ يَتَنَاوَلُ" },
+        { "w": "الْقَهْوَةَ", "lemma": "قَهْوَةٌ" },
+        { "w": "بِيَدِهِ", "lemma": "يَدٌ / أَيْدٍ" },
+        { "w": "الْيُمْنَى", "lemma": "أَيْمَنُ" },
+        { "w": "لِلتَّقَالِيدِ", "lemma": "تَقْلِيدٌ / تَقَالِيدُ" },
+        { "w": "الْمُتَعَارَفِ", "lemma": "مُتَعَارَفٌ" },
+        { "w": "الْمَجَالِسِ", "lemma": "مَجْلِسٌ / مَجَالِسُ" }
+      ]
     },
     {
-      "arabic": "كَمَا يُمْكِنُ تَقْدِيمُ الْبَخُورِ بَعْدَ الِانْتِهَاءِ مِنَ الطَّعَامِ لِتَعْطِيرِ الْمَجْلِسِ وَتَكْرِيمِ الزُّوَّارِ بِشَكْلٍ لَائِقٍ.",
+      "arabic": "كَمَا يُمْكِنُ تَقْدِيمُ الْبَخُورِ بَعْدَ الِانْتِهَاءِ مِنَ الطَّعَامِ لِتَعْطِيرِ الْمَجْلِسِ وَتَكْرِيمِ الزُّوَّارِ بِشَكْلٍ لَائِقٍ.",
       "translation": "Također, nakon jela se može ponuditi tamjan kako bi se namirisao prostor i na dostojan način ukazala počast posjetiocima.",
-      "translationEn": "Incense can also be offered after finishing the meal to scent the room and honor the visitors in a proper manner."
+      "translationEn": "Incense can also be offered after finishing the meal to scent the room and honor the visitors in a proper manner.",
+      "words": [
+        { "w": "تَقْدِيمُ", "lemma": "تَقْدِيمٌ" },
+        { "w": "الْبَخُورِ", "lemma": "بَخُورٌ" },
+        { "w": "الِانْتِهَاءِ", "lemma": "انْتِهَاءٌ" },
+        { "w": "الطَّعَامِ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "لِتَعْطِيرِ", "lemma": "تَعْطِيرٌ" },
+        { "w": "الْمَجْلِسِ", "lemma": "مَجْلِسٌ / مَجَالِسُ" },
+        { "w": "وَتَكْرِيمِ", "lemma": "تَكْرِيمٌ" },
+        { "w": "الزُّوَّارِ", "lemma": "زَائِرٌ / زُوَّارٌ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "لَائِقٍ", "lemma": "لَائِقٌ" }
+      ]
     }
   ],
   "metadata": {

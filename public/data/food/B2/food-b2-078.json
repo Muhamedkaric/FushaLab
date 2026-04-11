@@ -4,33 +4,77 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَمْتَازُ الْمَائِدَةُ الْعَرَبِيَّةُ بِتَنَوُّعِ مَصَادِرِهَا الْغِذَائِيَّةِ الَّتِي تَعْتَمِدُ بِشَكْلٍ كَبِيرٍ عَلَى الْبُقُولِيَّاتِ وَزَيْتِ الزَّيْتُونِ.",
+      "arabic": "تَمْتَازُ الْمَائِدَةُ الْعَرَبِيَّةُ بِتَنَوُّعِ مَصَادِرِهَا الْغِذَائِيَّةِ الَّتِي تَعْتَمِدُ بِشَكْلٍ كَبِيرٍ عَلَى الْبُقُولِيَّاتِ وَزَيْتِ الزَّيْتُونِ.",
       "translation": "Arapska trpeza odlikuje se raznolikošću izvora hrane koji se u velikoj mjeri oslanjaju na mahunarke i maslinovo ulje.",
       "translationEn": "The Arab table is characterized by the diversity of its food sources, which rely heavily on legumes and olive oil.",
-      "words": []
-    },
-    {
-      "arabic": "يُؤَكِّدُ خُبَرَاءُ التَّغْذِيَةِ أَنَّ الِاعْتِمَادَ عَلَى الْخُضْرَوَاتِ الْوَرَقِيَّةِ وَالْحُبُوبِ الْكَامِلَةِ يُسَاهِمُ فِي تَعْزِيزِ صِحَّةِ الْقَلْبِ.",
-      "translation": "Stručnjaci za ishranu potvrđuju da oslanjanje na lisnato povrće i cijela zrna žitarica doprinosi jačanju zdravlja srca.",
-      "translationEn": "Nutrition experts confirm that relying on leafy vegetables and whole grains contributes to promoting heart health.",
-      "words": []
-    },
-    {
-      "arabic": "كَمَا أَنَّ إِضَافَةَ الثَّوْمِ وَاللَّيْمُونِ إِلَى مُعْظَمِ السَّلَطَاتِ لَا يَمْنَحُهَا مَذَاقًا رَائِعًا فَحَسْبُ، بَلْ يَرْفَعُ أَيْضًا مِنْ قِيمَتِهَا الْغِذَائِيَّةِ.",
-      "translation": "Također, dodavanje bijelog luka i limuna većini salata ne samo da im daje odličan ukus, već i povećava njihovu nutritivnu vrijednost.",
-      "translationEn": "Furthermore, adding garlic and lemon to most salads not only gives them a great taste but also increases their nutritional value.",
       "words": [
-        {
-          "w": "أَيْضًا",
-          "lemma": "أَيْضًا"
-        }
+        { "w": "تَمْتَازُ", "lemma": "امْتَازَ يَمْتَازُ" },
+        { "w": "الْمَائِدَةُ", "lemma": "مَائِدَةٌ / مَوَائِدُ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "بِتَنَوُّعِ", "lemma": "تَنَوُّعٌ" },
+        { "w": "مَصَادِرِهَا", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "الْغِذَائِيَّةِ", "lemma": "غِذَائِيٌّ" },
+        { "w": "تَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "كَبِيرٍ", "lemma": "كَبِيرٌ" },
+        { "w": "الْبُقُولِيَّاتِ", "lemma": "بُقُولِيَّاتٌ" },
+        { "w": "وَزَيْتِ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" }
       ]
     },
     {
-      "arabic": "لِذَلِكَ، يُنْصَحُ دَائِمًا بِتَجَنُّبِ الْأَطْعِمَةِ الْمُصَنَّعَةِ وَالْعَوْدَةِ إِلَى طُرُقِ الطَّهِي التَّقْلِيدِيَّةِ الصِّحِّيَّةِ.",
+      "arabic": "يُؤَكِّدُ خُبَرَاءُ التَّغْذِيَةِ أَنَّ الِاعْتِمَادَ عَلَى الْخُضْرَوَاتِ الْوَرَقِيَّةِ وَالْحُبُوبِ الْكَامِلَةِ يُسَاهِمُ فِي تَعْزِيزِ صِحَّةِ الْقَلْبِ.",
+      "translation": "Stručnjaci za ishranu potvrđuju da oslanjanje na lisnato povrće i cijela zrna žitarica doprinosi jačanju zdravlja srca.",
+      "translationEn": "Nutrition experts confirm that relying on leafy vegetables and whole grains contributes to promoting heart health.",
+      "words": [
+        { "w": "يُؤَكِّدُ", "lemma": "أَكَّدَ يُؤَكِّدُ" },
+        { "w": "خُبَرَاءُ", "lemma": "خَبِيرٌ / خُبَرَاءُ" },
+        { "w": "التَّغْذِيَةِ", "lemma": "تَغْذِيَةٌ" },
+        { "w": "الِاعْتِمَادَ", "lemma": "اعْتِمَادٌ" },
+        { "w": "الْخُضْرَوَاتِ", "lemma": "خَضْرَاوَاتٌ" },
+        { "w": "الْوَرَقِيَّةِ", "lemma": "وَرَقِيٌّ" },
+        { "w": "وَالْحُبُوبِ", "lemma": "حَبٌّ / حُبُوبٌ" },
+        { "w": "الْكَامِلَةِ", "lemma": "كَامِلٌ" },
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "تَعْزِيزِ", "lemma": "تَعْزِيزٌ" },
+        { "w": "صِحَّةِ", "lemma": "صِحَّةٌ" },
+        { "w": "الْقَلْبِ", "lemma": "قَلْبٌ / قُلُوبٌ" }
+      ]
+    },
+    {
+      "arabic": "كَمَا أَنَّ إِضَافَةَ الثَّوْمِ وَاللَّيْمُونِ إِلَى مُعْظَمِ السَّلَطَاتِ لَا يَمْنَحُهَا مَذَاقًا رَائِعًا فَحَسْبُ، بَلْ يَرْفَعُ أَيْضًا مِنْ قِيمَتِهَا الْغِذَائِيَّةِ.",
+      "translation": "Također, dodavanje bijelog luka i limuna većini salata ne samo da im daje odličan ukus, već i povećava njihovu nutritivnu vrijednost.",
+      "translationEn": "Furthermore, adding garlic and lemon to most salads not only gives them a great taste but also increases their nutritional value.",
+      "words": [
+        { "w": "إِضَافَةَ", "lemma": "إِضَافَةٌ / إِضَافَاتٌ" },
+        { "w": "الثَّوْمِ", "lemma": "ثَوْمٌ" },
+        { "w": "وَاللَّيْمُونِ", "lemma": "لَيْمُونٌ" },
+        { "w": "مُعْظَمِ", "lemma": "مُعْظَمٌ" },
+        { "w": "السَّلَطَاتِ", "lemma": "سَلَطَةٌ / سَلَطَاتٌ" },
+        { "w": "يَمْنَحُهَا", "lemma": "مَنَحَ يَمْنَحُ" },
+        { "w": "مَذَاقًا", "lemma": "مَذَاقٌ" },
+        { "w": "رَائِعًا", "lemma": "رَائِعٌ" },
+        { "w": "يَرْفَعُ", "lemma": "رَفَعَ يَرْفَعُ" },
+        { "w": "قِيمَتِهَا", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "الْغِذَائِيَّةِ", "lemma": "غِذَائِيٌّ" }
+      ]
+    },
+    {
+      "arabic": "لِذَلِكَ، يُنْصَحُ دَائِمًا بِتَجَنُّبِ الْأَطْعِمَةِ الْمُصَنَّعَةِ وَالْعَوْدَةِ إِلَى طُرُقِ الطَّهِي التَّقْلِيدِيَّةِ الصِّحِّيَّةِ.",
       "translation": "Stoga se uvijek preporučuje izbjegavanje prerađene hrane i povratak tradicionalnim, zdravim načinima kuhanja.",
       "translationEn": "Therefore, it is always recommended to avoid processed foods and return to traditional healthy cooking methods.",
-      "words": []
+      "words": [
+        { "w": "يُنْصَحُ", "lemma": "نَصَحَ يَنْصَحُ" },
+        { "w": "دَائِمًا", "lemma": "دَائِمٌ" },
+        { "w": "بِتَجَنُّبِ", "lemma": "تَجَنُّبٌ" },
+        { "w": "الْأَطْعِمَةِ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "الْمُصَنَّعَةِ", "lemma": "مُصَنَّعٌ" },
+        { "w": "وَالْعَوْدَةِ", "lemma": "عَوْدَةٌ" },
+        { "w": "طُرُقِ", "lemma": "طَرِيقٌ / طُرُقٌ" },
+        { "w": "الطَّهْيِ", "lemma": "طَهْيٌ" },
+        { "w": "التَّقْلِيدِيَّةِ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "الصِّحِّيَّةِ", "lemma": "صِحِّيٌّ" }
+      ]
     }
   ],
   "metadata": {

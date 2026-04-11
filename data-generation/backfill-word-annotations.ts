@@ -47,7 +47,7 @@ interface ContentItem {
 const DATA_DIR = resolve(import.meta.dirname, '../public/data')
 const PROGRESS_FILE = resolve(import.meta.dirname, 'backfill-annotations-progress.json')
 const MODEL = process.env['READING_MODEL'] ?? 'gemini-2.0-flash'
-const SENTENCES_PER_BATCH = 8 // sentences per API call
+const SENTENCES_PER_BATCH = 4 // sentences per API call
 
 const LEVELS = (process.env['BACKFILL_LEVELS'] ?? 'B2,C1,C2').split(',')
 
@@ -61,6 +61,7 @@ if (apiKeys.length === 0) {
 
 let currentKeyIndex = 0
 const exhaustedKeys = new Set<number>()
+let allKeysRateLimitRetries = 0
 
 function nextAvailableKey(): number | null {
   for (let i = 0; i < apiKeys.length; i++) {
@@ -88,6 +89,8 @@ async function callGemini(prompt: string): Promise<string> {
     try {
       const result = await gemini.generateContent(prompt)
       consecutiveRateLimits = 0
+      const finishReason = result.response.candidates?.[0]?.finishReason
+      if (finishReason === 'MAX_TOKENS') throw new Error('MAX_TOKENS')
       return result.response.text()
     } catch (err) {
       if (err instanceof GoogleGenerativeAIResponseError) {
@@ -115,7 +118,9 @@ async function callGemini(prompt: string): Promise<string> {
         consecutiveRateLimits++
         currentKeyIndex = (keyIdx + 1) % apiKeys.length
         if (consecutiveRateLimits >= apiKeys.length - exhaustedKeys.size) {
-          console.log(`  ⏳ All keys rate-limited — waiting 60s...`)
+          if (allKeysRateLimitRetries >= 1) throw new Error('ALL_KEYS_EXHAUSTED')
+          allKeysRateLimitRetries++
+          console.log(`  ⏳ All keys rate-limited — waiting 60s (${allKeysRateLimitRetries}/1)...`)
           await new Promise(r => setTimeout(r, 60_000))
           consecutiveRateLimits = 0
         } else {
@@ -128,7 +133,9 @@ async function callGemini(prompt: string): Promise<string> {
         consecutiveRateLimits++
         currentKeyIndex = (keyIdx + 1) % apiKeys.length
         if (consecutiveRateLimits >= apiKeys.length - exhaustedKeys.size) {
-          console.log(`  ⏳ All keys 503 — waiting 30s...`)
+          if (allKeysRateLimitRetries >= 1) throw new Error('ALL_KEYS_EXHAUSTED')
+          allKeysRateLimitRetries++
+          console.log(`  ⏳ All keys 503 — waiting 30s (${allKeysRateLimitRetries}/1)...`)
           await new Promise(r => setTimeout(r, 30_000))
           consecutiveRateLimits = 0
         }
@@ -319,6 +326,14 @@ while (pendingRefs.length > 0) {
       console.log(`\n⛔ All API keys exhausted. Progress saved. Re-run tomorrow.`)
       saveProgress(done)
       process.exit(0)
+    }
+    if (err instanceof Error && err.message === 'MAX_TOKENS' && batch.length > 1) {
+      // Re-queue split in half so they get processed at smaller size
+      const mid = Math.ceil(batch.length / 2)
+      pendingRefs.unshift(...batch.slice(mid))
+      pendingRefs.unshift(...batch.slice(0, mid))
+      console.log(`\n  ⚠️  MAX_TOKENS on batch of ${batch.length} — re-queued as ${mid} + ${batch.length - mid}`)
+      continue
     }
     console.log(`  ⚠️  Batch failed (${err instanceof Error ? err.message : String(err)}) — skipping`)
     skippedSentences += batch.length

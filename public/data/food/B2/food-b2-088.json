@@ -4,29 +4,96 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعَدُّ النِّظَامُ الْغِذَائِيُّ لِحَوْضِ الْمُتَوَسِّطِ، الْمُتَّبَعُ فِي دُوَلٍ عَرَبِيَّةٍ كَثِيرَةٍ، مِنْ أَكْثَرِ الْأَنْظِمَةِ الصِّحِّيَّةِ فِي الْعَالَمِ.",
+      "arabic": "يُعَدُّ النِّظَامُ الْغِذَائِيُّ لِحَوْضِ الْمُتَوَسِّطِ، الْمُتَّبَعُ فِي دُوَلٍ عَرَبِيَّةٍ كَثِيرَةٍ، مِنْ أَكْثَرِ الْأَنْظِمَةِ الصِّحِّيَّةِ فِي الْعَالَمِ.",
       "translation": "Mediteranska ishrana, koja se praktikuje u mnogim arapskim zemljama, smatra se jednim od najzdravijih sistema ishrane na svijetu.",
-      "translationEn": "The Mediterranean diet, followed in many Arab countries, is considered one of the healthiest dietary systems in the world."
+      "translationEn": "The Mediterranean diet, followed in many Arab countries, is considered one of the healthiest dietary systems in the world.",
+      "words": [
+        { "w": "يُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "النِّظَامُ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "الْغِذَائِيُّ", "lemma": "غِذَائِيٌّ" },
+        { "w": "لِحَوْضِ", "lemma": "حَوْضٌ / أَحْوَاضٌ" },
+        { "w": "الْمُتَوَسِّطِ", "lemma": "مُتَوَسِّطٌ" },
+        { "w": "الْمُتَّبَعُ", "lemma": "مُتَّبَعٌ" },
+        { "w": "دُوَلٍ", "lemma": "دَوْلَةٌ / دُوَلٌ" },
+        { "w": "عَرَبِيَّةٍ", "lemma": "عَرَبِيٌّ" },
+        { "w": "كَثِيرَةٍ", "lemma": "كَثِيرٌ" },
+        { "w": "أَكْثَرِ", "lemma": "كَثِيرٌ" },
+        { "w": "الْأَنْظِمَةِ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "الصِّحِّيَّةِ", "lemma": "صِحِّيٌّ" },
+        { "w": "الْعَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" }
+      ]
     },
     {
-      "arabic": "يَرْتَكِزُ هَذَا النِّظَامُ بِشَكْلٍ كَبِيرٍ عَلَى زَيْتِ الزَّيْتُونِ، وَالْبُقُولِيَّاتِ، وَالْخُضْرَوَاتِ الطَّازَجَةِ الْمُتَوَفِّرَةِ فِي الْأَسْوَاقِ الْمَحَلِّيَّةِ.",
+      "arabic": "يَرْتَكِزُ هَذَا النِّظَامُ بِشَكْلٍ كَبِيرٍ عَلَى زَيْتِ الزَّيْتُونِ، وَالْبُقُولِيَّاتِ، وَالْخُضْرَوَاتِ الطَّازَجَةِ الْمُتَوَفِّرَةِ فِي الْأَسْوَاقِ الْمَحَلِّيَّةِ.",
       "translation": "Ovaj sistem se u velikoj mjeri oslanja na maslinovo ulje, mahunarke i svježe povrće dostupno na lokalnim tržištima.",
-      "translationEn": "This system relies heavily on olive oil, legumes, and fresh vegetables available in local markets."
+      "translationEn": "This system relies heavily on olive oil, legumes, and fresh vegetables available in local markets.",
+      "words": [
+        { "w": "يَرْتَكِزُ", "lemma": "ارْتَكَزَ يَرْتَكِزُ" },
+        { "w": "النِّظَامُ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "كَبِيرٍ", "lemma": "كَبِيرٌ" },
+        { "w": "زَيْتِ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "وَالْبُقُولِيَّاتِ", "lemma": "بُقُولِيَّاتٌ" },
+        { "w": "وَالْخُضْرَوَاتِ", "lemma": "خَضْرَاوَاتٌ" },
+        { "w": "الطَّازَجَةِ", "lemma": "طَازَجٌ" },
+        { "w": "الْمُتَوَفِّرَةِ", "lemma": "مُتَوَفِّرٌ" },
+        { "w": "الْأَسْوَاقِ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "الْمَحَلِّيَّةِ", "lemma": "مَحَلِّيٌّ" }
+      ]
     },
     {
-      "arabic": "تُشِيرُ الدِّرَاسَاتُ الْعِلْمِيَّةُ إِلَى أَنَّ هَذَا النَّوْعَ مِنَ التَّغْذِيَةِ يُقَلِّلُ مِنْ مَخَاطِرِ الْأَمْرَاضِ الْمُزْمِنَةِ مِثْلَ أَمْرَاضِ الْقَلْبِ.",
+      "arabic": "تُشِيرُ الدِّرَاسَاتُ الْعِلْمِيَّةُ إِلَى أَنَّ هَذَا النَّوْعَ مِنَ التَّغْذِيَةِ يُقَلِّلُ مِنْ مَخَاطِرِ الْأَمْرَاضِ الْمُزْمِنَةِ مِثْلَ أَمْرَاضِ الْقَلْبِ.",
       "translation": "Naučne studije ukazuju na to da ova vrsta ishrane smanjuje rizik od hroničnih bolesti poput bolesti srca.",
-      "translationEn": "Scientific studies indicate that this type of nutrition reduces the risk of chronic diseases such as heart disease."
+      "translationEn": "Scientific studies indicate that this type of nutrition reduces the risk of chronic diseases such as heart disease.",
+      "words": [
+        { "w": "تُشِيرُ", "lemma": "أَشَارَ يُشِيرُ" },
+        { "w": "الدِّرَاسَاتُ", "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ" },
+        { "w": "الْعِلْمِيَّةُ", "lemma": "عِلْمِيٌّ" },
+        { "w": "النَّوْعَ", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "التَّغْذِيَةِ", "lemma": "تَغْذِيَةٌ" },
+        { "w": "يُقَلِّلُ", "lemma": "قَلَّلَ يُقَلِّلُ" },
+        { "w": "مَخَاطِرِ", "lemma": "خَطَرٌ / مَخَاطِرُ" },
+        { "w": "الْأَمْرَاضِ", "lemma": "مَرَضٌ / أَمْرَاضٌ" },
+        { "w": "الْمُزْمِنَةِ", "lemma": "مُزْمِنٌ" },
+        { "w": "أَمْرَاضِ", "lemma": "مَرَضٌ / أَمْرَاضٌ" },
+        { "w": "الْقَلْبِ", "lemma": "قَلْبٌ / قُلُوبٌ" }
+      ]
     },
     {
-      "arabic": "بِالْإِضَافَةِ إِلَى فَوَائِدِهِ الصِّحِّيَّةِ، يَتَمَيَّزُ الطَّعَامُ بِتَنَوُّعِهِ وَنَكَهَاتِهِ الْغَنِيَّةِ الَّتِي تُرْضِي جَمِيعَ الْأَذْوَاقِ.",
+      "arabic": "بِالْإِضَافَةِ إِلَى فَوَائِدِهِ الصِّحِّيَّةِ، يَتَمَيَّزُ الطَّعَامُ بِتَنَوُّعِهِ وَنَكَهَاتِهِ الْغَنِيَّةِ الَّتِي تُرْضِي جَمِيعَ الْأَذْوَاقِ.",
       "translation": "Pored zdravstvenih prednosti, hrana se odlikuje svojom raznolikošću i bogatim okusima koji zadovoljavaju sve ukuse.",
-      "translationEn": "In addition to its health benefits, the food is characterized by its diversity and rich flavors that satisfy all tastes."
+      "translationEn": "In addition to its health benefits, the food is characterized by its diversity and rich flavors that satisfy all tastes.",
+      "words": [
+        { "w": "بِالْإِضَافَةِ", "lemma": "إِضَافَةٌ / إِضَافَاتٌ" },
+        { "w": "فَوَائِدِهِ", "lemma": "فَائِدَةٌ / فَوَائِدُ" },
+        { "w": "الصِّحِّيَّةِ", "lemma": "صِحِّيٌّ" },
+        { "w": "يَتَمَيَّزُ", "lemma": "تَمَيَّزَ يَتَمَيَّزُ" },
+        { "w": "الطَّعَامُ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "بِتَنَوُّعِهِ", "lemma": "تَنَوُّعٌ" },
+        { "w": "وَنَكَهَاتِهِ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "الْغَنِيَّةِ", "lemma": "غَنِيٌّ" },
+        { "w": "تُرْضِي", "lemma": "أَرْضَى يُرْضِي" },
+        { "w": "الْأَذْوَاقِ", "lemma": "ذَوْقٌ / أَذْوَاقٌ" }
+      ]
     },
     {
-      "arabic": "إِنَّ تَبَنِّي هَذِهِ الْعَادَاتِ الْغِذَائِيَّةِ السَّلِيمَةِ يُسَاهِمُ فِي تَحْسِينِ جَوْدَةِ الْحَيَاةِ وَطُولِ الْعُمْرِ لَدَى الْأَفْرَادِ.",
+      "arabic": "إِنَّ تَبَنِّي هَذِهِ الْعَادَاتِ الْغِذَائِيَّةِ السَّلِيمَةِ يُسَاهِمُ فِي تَحْسِينِ جَوْدَةِ الْحَيَاةِ وَطُولِ الْعُمْرِ لَدَى الْأَفْرَادِ.",
       "translation": "Usvajanje ovih zdravih prehrambenih navika doprinosi poboljšanju kvaliteta života i dugovječnosti pojedinaca.",
-      "translationEn": "Adopting these healthy eating habits contributes to improving the quality of life and longevity of individuals."
+      "translationEn": "Adopting these healthy eating habits contributes to improving the quality of life and longevity of individuals.",
+      "words": [
+        { "w": "تَبَنِّي", "lemma": "تَبَنٍّ" },
+        { "w": "الْعَادَاتِ", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "الْغِذَائِيَّةِ", "lemma": "غِذَائِيٌّ" },
+        { "w": "السَّلِيمَةِ", "lemma": "سَلِيمٌ" },
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "تَحْسِينِ", "lemma": "تَحْسِينٌ" },
+        { "w": "جَوْدَةِ", "lemma": "جَوْدَةٌ" },
+        { "w": "الْحَيَاةِ", "lemma": "حَيَاةٌ" },
+        { "w": "وَطُولِ", "lemma": "طُولٌ" },
+        { "w": "الْعُمْرِ", "lemma": "عُمْرٌ / أَعْمَارٌ" },
+        { "w": "الْأَفْرَادِ", "lemma": "فَرْدٌ / أَفْرَادٌ" }
+      ]
     }
   ],
   "metadata": {

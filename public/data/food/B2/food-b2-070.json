@@ -4,29 +4,94 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ شُورْبَةُ الْعَدَسِ مِنَ الْأَطْبَاقِ الشَّتَوِيَّةِ الْمُفَضَّلَةِ فِي جَمِيعِ أَنْحَاءِ الْعَالَمِ الْعَرَبِيِّ لِدِفْئِهَا وَقِيمَتِهَا الْغِذَائِيَّةِ.",
+      "arabic": "تُعَدُّ شُورْبَةُ الْعَدَسِ مِنَ الْأَطْبَاقِ الشَّتَوِيَّةِ الْمُفَضَّلَةِ فِي جَمِيعِ أَنْحَاءِ الْعَالَمِ الْعَرَبِيِّ لِدِفْئِهَا وَقِيمَتِهَا الْغِذَائِيَّةِ.",
       "translation": "Čorba od leće smatra se jednim od omiljenih zimskih jela širom arapskog svijeta zbog svoje topline i nutritivne vrijednosti.",
-      "translationEn": "Lentil soup is considered one of the favorite winter dishes throughout the Arab world for its warmth and nutritional value."
+      "translationEn": "Lentil soup is considered one of the favorite winter dishes throughout the Arab world for its warmth and nutritional value.",
+      "words": [
+        { "w": "تُعَدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "شُورْبَةُ", "lemma": "شُورْبَةٌ" },
+        { "w": "الْعَدَسِ", "lemma": "عَدَسٌ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "الشَّتَوِيَّةِ", "lemma": "شَتَوِيٌّ" },
+        { "w": "الْمُفَضَّلَةِ", "lemma": "مُفَضَّلٌ" },
+        { "w": "أَنْحَاءِ", "lemma": "نَاحِيَةٌ / أَنْحَاءٌ" },
+        { "w": "الْعَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "لِدِفْئِهَا", "lemma": "دِفْءٌ" },
+        { "w": "وَقِيمَتِهَا", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "الْغِذَائِيَّةِ", "lemma": "غِذَائِيٌّ" }
+      ]
     },
     {
-      "arabic": "يَبْدَأُ التَّحْضِيرُ بِقَلْيِ الْبَصَلِ الْمَفْرُومِ مَعَ الْقَلِيلِ مِنَ الزَّيْتِ حَتَّى يَتَحَوَّلَ لَوْنُهُ إِلَى الذَّهَبِيِّ.",
+      "arabic": "يَبْدَأُ التَّحْضِيرُ بِقَلْيِ الْبَصَلِ الْمَفْرُومِ مَعَ الْقَلِيلِ مِنَ الزَّيْتِ حَتَّى يَتَحَوَّلَ لَوْنُهُ إِلَى الذَّهَبِيِّ.",
       "translation": "Priprema počinje prženjem nasjeckanog luka na malo ulja dok ne dobije zlatnu boju.",
-      "translationEn": "Preparation begins by frying chopped onions with a little oil until they turn golden."
+      "translationEn": "Preparation begins by frying chopped onions with a little oil until they turn golden.",
+      "words": [
+        { "w": "يَبْدَأُ", "lemma": "بَدَأَ يَبْدَأُ" },
+        { "w": "التَّحْضِيرُ", "lemma": "تَحْضِيرٌ" },
+        { "w": "بِقَلْيِ", "lemma": "قَلْيٌ" },
+        { "w": "الْبَصَلِ", "lemma": "بَصَلٌ" },
+        { "w": "الْمَفْرُومِ", "lemma": "مَفْرُومٌ" },
+        { "w": "الْقَلِيلِ", "lemma": "قَلِيلٌ" },
+        { "w": "الزَّيْتِ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "يَتَحَوَّلَ", "lemma": "تَحَوَّلَ يَتَحَوَّلُ" },
+        { "w": "لَوْنُهُ", "lemma": "لَوْنٌ / أَلْوَانٌ" },
+        { "w": "الذَّهَبِيِّ", "lemma": "ذَهَبِيٌّ" }
+      ]
     },
     {
-      "arabic": "ثُمَّ يُضَافُ الْعَدَسُ الْأَصْفَرُ الْمَغْسُولُ مَعَ الْكَمُّونِ وَالْكُرْكُمِ، وَيُغْمَرُ بِالْمَاءِ السَّاخِنِ لِيَنْضَجَ عَلَى نَارٍ هَادِئَةٍ.",
+      "arabic": "ثُمَّ يُضَافُ الْعَدَسُ الْأَصْفَرُ الْمَغْسُولُ مَعَ الْكَمُّونِ وَالْكُرْكُمِ، وَيُغْمَرُ بِالْمَاءِ السَّاخِنِ لِيَنْضَجَ عَلَى نَارٍ هَادِئَةٍ.",
       "translation": "Zatim se dodaje oprana žuta leća sa kuminom i kurkumom, te se prelije vrelom vodom da se krčka na laganoj vatri.",
-      "translationEn": "Then the washed yellow lentils are added with cumin and turmeric, and covered with hot water to cook over low heat."
+      "translationEn": "Then the washed yellow lentils are added with cumin and turmeric, and covered with hot water to cook over low heat.",
+      "words": [
+        { "w": "يُضَافُ", "lemma": "أَضَافَ يُضِيفُ" },
+        { "w": "الْعَدَسُ", "lemma": "عَدَسٌ" },
+        { "w": "الْأَصْفَرُ", "lemma": "أَصْفَرُ" },
+        { "w": "الْمَغْسُولُ", "lemma": "مَغْسُولٌ" },
+        { "w": "الْكَمُّونِ", "lemma": "كَمُّونٌ" },
+        { "w": "وَالْكُرْكُمِ", "lemma": "كُرْكُمٌ" },
+        { "w": "وَيُغْمَرُ", "lemma": "غَمَرَ يَغْمُرُ" },
+        { "w": "بِالْمَاءِ", "lemma": "مَاءٌ / مِيَاهٌ" },
+        { "w": "السَّاخِنِ", "lemma": "سَاخِنٌ" },
+        { "w": "لِيَنْضَجَ", "lemma": "نَضِجَ يَنْضَجُ" },
+        { "w": "نَارٍ", "lemma": "نَارٌ / نِيرَانٌ" },
+        { "w": "هَادِئَةٍ", "lemma": "هَادِئٌ" }
+      ]
     },
     {
       "arabic": "بَعْدَ أَنْ يَنْضَجَ الْعَدَسُ تَمَامًا، يُمْكِنُ خَلْطُهُ لِلْحُصُولِ عَلَى قَوَامٍ نَاعِمٍ وَمُتَجَانِسٍ.",
       "translation": "Nakon što je leća potpuno kuhana, može se izblendati kako bi se dobila glatka i ujednačena tekstura.",
-      "translationEn": "After the lentils are fully cooked, they can be blended to obtain a smooth and homogeneous consistency."
+      "translationEn": "After the lentils are fully cooked, they can be blended to obtain a smooth and homogeneous consistency.",
+      "words": [
+        { "w": "يَنْضَجَ", "lemma": "نَضِجَ يَنْضَجُ" },
+        { "w": "الْعَدَسُ", "lemma": "عَدَسٌ" },
+        { "w": "تَمَامًا", "lemma": "تَمَامٌ" },
+        { "w": "خَلْطُهُ", "lemma": "خَلْطٌ" },
+        { "w": "لِلْحُصُولِ", "lemma": "حُصُولٌ" },
+        { "w": "قَوَامٍ", "lemma": "قَوَامٌ" },
+        { "w": "نَاعِمٍ", "lemma": "نَاعِمٌ" },
+        { "w": "وَمُتَجَانِسٍ", "lemma": "مُتَجَانِسٌ" }
+      ]
     },
     {
-      "arabic": "تُقَدَّمُ الشُّورْبَةُ عَادَةً مَعَ عَصِيرِ اللَّيْمُونِ الْحَامِضِ وَقِطَعِ الْخُبْزِ الْمُحَمَّصِ لِإِضْفَاءِ لَمْسَةٍ نِهَائِيَّةٍ شَهِيَّةٍ.",
+      "arabic": "تُقَدَّمُ الشُّورْبَةُ عَادَةً مَعَ عَصِيرِ اللَّيْمُونِ الْحَامِضِ وَقِطَعِ الْخُبْزِ الْمُحَمَّصِ لِإِضْفَاءِ لَمْسَةٍ نِهَائِيَّةٍ شَهِيَّةٍ.",
       "translation": "Čorba se obično služi sa sokom od limuna i komadićima tostirang hljeba kako bi se dodao ukusan završni dodir.",
-      "translationEn": "The soup is usually served with lemon juice and pieces of toasted bread to add a delicious final touch."
+      "translationEn": "The soup is usually served with lemon juice and pieces of toasted bread to add a delicious final touch.",
+      "words": [
+        { "w": "تُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "الشُّورْبَةُ", "lemma": "شُورْبَةٌ" },
+        { "w": "عَادَةً", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "عَصِيرِ", "lemma": "عَصِيرٌ" },
+        { "w": "اللَّيْمُونِ", "lemma": "لَيْمُونٌ" },
+        { "w": "الْحَامِضِ", "lemma": "حَامِضٌ" },
+        { "w": "وَقِطَعِ", "lemma": "قِطْعَةٌ / قِطَعٌ" },
+        { "w": "الْخُبْزِ", "lemma": "خُبْزٌ / خُبُوزٌ" },
+        { "w": "الْمُحَمَّصِ", "lemma": "مُحَمَّصٌ" },
+        { "w": "لِإِضْفَاءِ", "lemma": "إِضْفَاءٌ" },
+        { "w": "لَمْسَةٍ", "lemma": "لَمْسَةٌ / لَمَسَاتٌ" },
+        { "w": "نِهَائِيَّةٍ", "lemma": "نِهَائِيٌّ" },
+        { "w": "شَهِيَّةٍ", "lemma": "شَهِيٌّ" }
+      ]
     }
   ],
   "metadata": {
