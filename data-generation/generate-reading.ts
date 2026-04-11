@@ -91,7 +91,7 @@ const QUEUE: Array<{ category: Category; level: Level }> = [
   { category: 'opinions', level: 'C2' },
 ]
 
-const TARGET = parseInt(process.env['READING_TARGET'] ?? '100', 10)
+const TARGET = parseInt(process.env['READING_TARGET'] ?? '50', 10)
 const MODEL = process.env['READING_MODEL'] ?? 'gemini-flash-latest'
 const BATCH: Record<Level, number> = {
   B1: parseInt(process.env['READING_BATCH_B1'] ?? '5', 10),
