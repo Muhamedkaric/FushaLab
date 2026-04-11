@@ -1,9 +1,18 @@
 /**
  * Backfill word annotations for B2/C1/C2 content files.
- * Each word entry: { w, lemma } only — translations come from dictionary lookup.
  *
- * Sends sentences to Gemini in batches. Saves progress — safe to interrupt and re-run.
- * Run from data-generation dir: pnpm backfill-annotations
+ * VALIDATION RULE (strict):
+ *   For every sentence, count "content tokens" = Arabic space-separated tokens
+ *   whose bare form is non-empty AND whose bare form is NOT in FUNC_BARE.
+ *   words[] must have exactly that many entries (where bare(w) is non-empty).
+ *   Any mismatch → re-annotate that sentence (up to MAX_RETRIES times).
+ *
+ *   bare(s) = s.replace(/[^\u0621-\u063A\u0641-\u064A]/g, '')
+ *   Strips diacritics (064B-0652), tatweel (0640), punctuation — keeps Arabic base letters only.
+ *
+ * Run: pnpm backfill-annotations [--test=N] [--levels=B2,C1,C2]
+ *   --test=N       process only first N files (for testing/validation)
+ *   --levels=...   comma-separated level list (default: B2,C1,C2)
  */
 
 import { config } from 'dotenv'
@@ -12,7 +21,7 @@ import { join } from 'path'
 config()
 config({ path: join(import.meta.dirname, '.env.reading'), override: false })
 
-import { existsSync, readFileSync, writeFileSync } from 'fs'
+import { existsSync, readFileSync, readdirSync, statSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
 import {
   GoogleGenerativeAI,
@@ -45,11 +54,16 @@ interface ContentItem {
 // ── Config ────────────────────────────────────────────────────────────────────
 
 const DATA_DIR = resolve(import.meta.dirname, '../public/data')
-const PROGRESS_FILE = resolve(import.meta.dirname, 'backfill-annotations-progress.json')
 const MODEL = process.env['READING_MODEL'] ?? 'gemini-2.0-flash'
-const SENTENCES_PER_BATCH = 4 // sentences per API call
+const SENTENCES_PER_BATCH = 4
+const MAX_RETRIES = 2
+const MAX_SPLITS = 2 // stop splitting after this many halving attempts
 
-const LEVELS = (process.env['BACKFILL_LEVELS'] ?? 'B2,C1,C2').split(',')
+const testArg = process.argv.find(a => a.startsWith('--test='))
+const TEST_LIMIT = testArg ? parseInt(testArg.split('=')[1], 10) : Infinity
+
+const levelsArg = process.argv.find(a => a.startsWith('--levels='))
+const LEVELS = (levelsArg?.split('=')[1] ?? process.env['BACKFILL_LEVELS'] ?? 'B2,C1,C2').split(',')
 
 // ── Key rotation ──────────────────────────────────────────────────────────────
 
@@ -83,7 +97,11 @@ async function callGemini(prompt: string): Promise<string> {
 
     const gemini = new GoogleGenerativeAI(apiKeys[keyIdx]).getGenerativeModel({
       model: MODEL,
-      generationConfig: { temperature: 0.2, responseMimeType: 'application/json', maxOutputTokens: 8192 },
+      generationConfig: {
+        temperature: 0,
+        responseMimeType: 'application/json',
+        maxOutputTokens: 4096,
+      },
     })
 
     try {
@@ -147,43 +165,213 @@ async function callGemini(prompt: string): Promise<string> {
   }
 }
 
-// ── Prompt ────────────────────────────────────────────────────────────────────
+// ── bare() and content-word counting ─────────────────────────────────────────
+//
+// bare(s): strips everything except Arabic base letters
+//   U+0621-U+063A  (ء to غ)
+//   U+0641-U+064A  (ف to ي)
+// This removes: diacritics (064B-0652), tatweel (0640), hamza modifiers,
+// punctuation, digits, spaces, Latin characters — everything non-letter.
 
-function buildAnnotationPrompt(sentences: Array<{ idx: number; arabic: string }>): string {
+function bare(s: string): string {
+  return s.replace(/[^\u0621-\u063A\u0641-\u064A]/g, '')
+}
+
+// Function words: their bare forms should not be counted as content words.
+// Includes standalone prepositions, conjunctions, pronouns, particles,
+// demonstratives, relative pronouns, and their common pronoun-suffix forms.
+// Derived from the comprehensive SKIP list + pronoun-suffix variants.
+const FUNC_WORDS_DIACRITIZED = [
+  // Prepositions (standalone)
+  'فِي','عَلَى','مِنْ','مِنَ','إِلَى','عَنْ','عَنِ','مَعَ','بَيْنَ',
+  'بَعْدَ','قَبْلَ','حَتَّى','مُنْذُ','خِلَالَ','رَغْمَ','عَبْرَ',
+  'فَوْقَ','دُونَ','لَدَى','لَدَيْهِ','لَدَيْهَا',
+  // Single-letter prepositions/conjunctions (fused) — bare form is a single letter
+  'وَ','فَ','بِ','لِ','كَ',
+  // Subordinating conjunctions & particles
+  'أَنْ','إِنَّ','أَنَّ','إِنَّهُ','إِنَّهَا','إِنَّهُمْ',
+  'أَنَّهُ','أَنَّهَا','أَنَّهُمْ','أَنَّهُمَا',
+  'إِذَا','لَوْ','لَوْلَا','إِذْ','حَيْثُ','كَمَا',
+  'إِلَّا','أَمَّا','لِذَلِكَ','لَكِنَّ','لَكِنْ','بَلْ',
+  'أَوْ','ثُمَّ','إِنْ',
+  // Personal pronouns
+  'هُوَ','هِيَ','هُمْ','هُنَّ','هُمَا',
+  'أَنَا','نَحْنُ','أَنْتَ','أَنْتِ','أَنْتُمْ','أَنْتُنَّ','أَنْتُمَا',
+  // Demonstratives
+  'هَذَا','هَذِهِ','هَذَيْنِ','هَاتَيْنِ',
+  'ذَلِكَ','تِلْكَ','ذَيْنِكَ','أُولَئِكَ',
+  // Relative pronouns
+  'الَّذِي','الَّتِي','الَّذِينَ','الَّاتِي','اللَّوَاتِي',
+  // Negation & modal particles
+  'لَا','لَمْ','لَنْ','قَدْ','سَوْفَ','مَا','لَيْتَ','لَعَلَّ',
+  // Question words (function)
+  'هَلْ','أَيْنَ','كَيْفَ','مَتَى','لِمَاذَا','لِمَ','مَنْ',
+  // Preposition + pronoun suffix forms (never content)
+  'لَهُ','لَهَا','لَهُمْ','لَهُنَّ','لَنَا','لِي','لَكَ','لَكِ','لَكُمْ',
+  'بِهِ','بِهَا','بِهِمْ','بِهِنَّ','بِنَا','بِكَ','بِكِ',
+  'مِنْهُ','مِنْهَا','مِنْهُمْ','مِنْهُنَّ','مِنَّا','مِنْكَ',
+  'فِيهِ','فِيهَا','فِيهِمْ','فِيهِنَّ','فِينَا','فِيكَ','فِيكِ',
+  'عَلَيْهِ','عَلَيْهَا','عَلَيْهِمْ','عَلَيْهِنَّ','عَلَيْنَا','عَلَيْكَ',
+  'إِلَيْهِ','إِلَيْهَا','إِلَيْهِمْ','إِلَيْنَا','إِلَيْكَ',
+  'عَنْهُ','عَنْهَا','عَنْهُمْ','عَنَّا','عَنْكَ',
+  'مَعَهُ','مَعَهَا','مَعَهُمْ','مَعَهُنَّ','مَعَنَا','مَعَكَ',
+  // Fused conjunction + function word forms
+  'وَهُوَ','وَهِيَ','وَهُمْ','وَلَمْ','وَلَا','فَلَا','فَلَمْ',
+  'وَمَا','فَمَا','وَإِنْ','فَإِنَّ','وَإِنَّ','وَأَنَّ','فَأَنَّ',
+  'لَكِنَّهُ','لَكِنَّهَا','لَكِنَّهُمْ',
+  'لِأَنَّهُ','لِأَنَّهَا','لِأَنَّهُمْ',
+  'وَمِنْهُ','وَمِنْهَا','وَبِهِ','وَبِهَا','وَفِيهِ','وَفِيهَا',
+  'وَعَلَيْهِ','وَإِلَيْهِ',
+  // Vocative & address particles
+  'يَا','أَيُّهَا','أَيَّتُهَا',
+  // Other common function entries
+  'هَلْ','لِلَّهِ','بِأَنْ','بِهَذَا','بِهَذِهِ','عَلَيْنَا',
+]
+
+const FUNC_BARE = new Set(FUNC_WORDS_DIACRITIZED.map(bare))
+
+/**
+ * Count content words in an Arabic sentence.
+ * Content words = tokens whose bare form is non-empty AND not in FUNC_BARE.
+ */
+function contentWordCount(arabic: string): number {
+  return arabic
+    .split(/\s+/)
+    .map(t => bare(t))
+    .filter(b => b.length > 0 && !FUNC_BARE.has(b))
+    .length
+}
+
+/**
+ * Count annotated words in a words[] array.
+ * An entry counts if its bare w field is non-empty.
+ */
+function annotatedCount(words: WordAnnotation[]): number {
+  return words.filter(w => bare(w.w).length > 0).length
+}
+
+/**
+ * Returns true if a sentence needs (re-)annotation.
+ * Strict rule: annotatedCount must equal contentWordCount exactly.
+ */
+function needsAnnotation(s: Sentence): boolean {
+  const expected = contentWordCount(s.arabic)
+  if (expected === 0) return false // no content words (degenerate case)
+  if (!s.words || s.words.length === 0) return true
+  return annotatedCount(s.words) !== expected
+}
+
+/**
+ * Try to fix a sentence without calling Gemini.
+ * If words[] has surplus entries whose bare w is a function word, remove them.
+ * Returns true if the sentence now passes validation (no API call needed).
+ */
+function tryLocalCleanup(s: Sentence): boolean {
+  if (!s.words) return false
+  const expected = contentWordCount(s.arabic)
+  const before = annotatedCount(s.words)
+  if (before === expected) return true // already correct
+  if (before < expected) return false  // missing words — need Gemini
+
+  // Surplus: remove words whose bare form is a function word
+  s.words = s.words.filter(w => {
+    const b = bare(w.w)
+    return b.length > 0 && !FUNC_BARE.has(b)
+  })
+
+  return annotatedCount(s.words) === expected
+}
+
+// ── Prompt builder ────────────────────────────────────────────────────────────
+
+function buildAnnotationPrompt(
+  sentences: Array<{ idx: number; arabic: string; expectedCount: number }>
+): string {
   const sentenceList = sentences
-    .map(s => `${s.idx}. "${s.arabic}"`)
+    .map(s => `${s.idx}. [expected: ${s.expectedCount} words] "${s.arabic}"`)
     .join('\n')
 
-  return `You are an expert Arabic linguist. For each sentence below, identify the CONTENT words and provide word-level annotations.
+  return `You are an expert Arabic linguist annotating sentences for language learners.
 
-SENTENCES:
+For each sentence below, extract ALL content words and return them as a JSON array.
+
+SENTENCES TO ANNOTATE:
 ${sentenceList}
 
-RULES:
-- Include CONTENT words: nouns, verbs, adjectives, adverbs
-- INCLUDE proper nouns: names of places, countries, cities, months, cultural terms (e.g. رَمَضَانُ، الْأَرْدُنُّ، جَرَشُ، مَكَّةُ، الشَّامُ، أَفْرِيقِيَا)
-- SKIP standalone function/grammar words: فِي، عَلَى، مِنْ، إِلَى، عَنْ، مَعَ، حَوْلَ، عِنْدَ، عَبْرَ، فَوْقَ، دُونَ، قَبْلَ، لَدَى، بَيْنَ، وَ، فَ، أَنْ، إِنَّ، أَنَّ، هُوَ، هِيَ، هُمْ، هَذَا، هَذِهِ، ذَلِكَ، تِلْكَ، الَّذِي، الَّتِي، الَّذِينَ، لَا (negation), لَمْ، قَدْ، إِذْ، حَيْثُ، عِنْدَمَا، كَمَا، لِذَلِكَ، فَقَطْ، أَيْضًا، هُنَا، هُنَاكَ، هَكَذَا، مَعًا، حَتَّى (conj), أَمَّا، إِلَّا، رَغْمَ، بَعْدَ (temporal prep), بَعْضُ، كُلُّ (quantifiers), كَانَ/تَكُونُ (copula only), يُمْكِنُ، لَا تَزَالُ
-- w: CRITICAL — copy the word character-for-character exactly as it appears in the sentence, including any fused prefixes (وَ، فَ، بِ، لِ، كَ). Example: if sentence has وَالتَّوَابِلِ then w="وَالتَّوَابِلِ", lemma="تَابِلٌ / تَوَابِلُ"
-- lemma formats:
-  * Verb: past + present — e.g. "ذَهَبَ يَذْهَبُ"
-  * Noun: singular / plural — e.g. "مَدِينَةٌ / مُدُنٌ"
-  * Adjective: masculine singular indefinite — e.g. "كَبِيرٌ"
-  * Particle/conjunction (if included): bare particle without fused prefix — e.g. w="وَإِنْ" lemma="إِنْ"
-- Annotate ALL content words — do NOT skip nouns, verbs, adjectives, adverbs, or proper nouns
+══════════════════════════════════════════════════════════════════
+CRITICAL RULES — READ CAREFULLY
+══════════════════════════════════════════════════════════════════
 
-Return ONLY a valid JSON array with one object per sentence, in order:
+[1] WHAT TO INCLUDE (content words):
+  ✓ All nouns (including verbal nouns / masdar)
+  ✓ All verbs (all forms, tenses, persons)
+  ✓ All adjectives
+  ✓ All adverbs (جِدًّا، أَيْضًا، فَقَطْ، مَعًا، سَنَوِيًّا, etc.)
+  ✓ ALL proper nouns — cities, countries, months, festivals, cultural terms, names
+    Examples: رَمَضَانُ، الْأَرْدُنُّ، جَرَشُ، مَكَّةُ، الشَّامُ، أَفْرِيقِيَا، إِسْبَانِيَا، الْقَاهِرَةُ
+  ✓ Quantifiers used as content (كَوْن forms: كَانَ، يَكُونُ; بَعْض، كُلّ when bearing content)
+  ✓ Negation copula: لَيْسَ، لَيْسَتْ
+
+[2] WHAT TO SKIP (function/grammar words — no content, never annotate):
+  Prepositions:    فِي، عَلَى، مِنْ، إِلَى، عَنْ، مَعَ، بَيْنَ، بَعْدَ، قَبْلَ، خِلَالَ، حَتَّى، رَغْمَ، عَبْرَ
+  Conjunctions:    وَ، فَ، ثُمَّ، أَوْ، لَكِنَّ، لَكِنْ، بَلْ، أَمَّا، كَمَا، إِذَا، لَوْ
+  Subordinators:   أَنَّ، إِنَّ، أَنْ، إِنْ، حَيْثُ، إِذْ، إِلَّا
+  Pronouns:        هُوَ، هِيَ، هُمْ، أَنَا، نَحْنُ، أَنْتَ (all forms)
+  Demonstratives:  هَذَا، هَذِهِ، ذَلِكَ، تِلْكَ
+  Relative:        الَّذِي، الَّتِي، الَّذِينَ
+  Particles:       لَا (negation), لَمْ، لَنْ، قَدْ، سَوْفَ، هَلْ
+  Prep+pronoun:    فِيهِ، عَلَيْهَا، مِنْهُمْ، إِلَيْهِ, etc. (all prep+suffix forms)
+
+[3] THE "w" FIELD — CRITICAL:
+  Copy the word EXACTLY as it appears in the sentence, character by character.
+  Include ALL fused prefixes that are part of the token:
+    • If sentence has "وَالتَّوَابِلِ" → w="وَالتَّوَابِلِ"  (NOT "التَّوَابِلِ")
+    • If sentence has "وَيَجْمَعُ"    → w="وَيَجْمَعُ"     (NOT "يَجْمَعُ")
+    • If sentence has "بِامْتِيَازٍ"  → w="بِامْتِيَازٍ"   (NOT "امْتِيَازٍ")
+    • If sentence has "وَأَدَبَاءَ"   → w="وَأَدَبَاءَ"    (NOT "أَدَبَاءَ")
+  The w value MUST be an exact token from the sentence (split by spaces).
+
+[4] LEMMA FORMATS:
+  • Verb:       past + present form     → "ذَهَبَ يَذْهَبُ"
+  • Noun:       singular / plural       → "مَدِينَةٌ / مُدُنٌ" (use "-" if no plural)
+  • Adjective:  masc. sg. indefinite    → "كَبِيرٌ"
+  • Proper noun: canonical bare form    → "رَمَضَانُ" or "الْأُرْدُنُّ"
+  • Adverb:     as-is                   → "سَنَوِيًّا"
+  • Verbal noun (masdar): sg / pl       → "تَشْكِيلٌ / -"
+
+[5] COUNT REQUIREMENT:
+  Each sentence has [expected: N] content words marked above.
+  Your words[] array for that sentence MUST contain EXACTLY N entries.
+  Count carefully before responding. If unsure, recount.
+
+══════════════════════════════════════════════════════════════════
+EXAMPLE OUTPUT FORMAT
+══════════════════════════════════════════════════════════════════
+
+Input: 2. [expected: 4 words] "تَسْكُنُ الْعَائِلَةُ فِي بَيْتٍ كَبِيرٍ"
+Output for sentence 2:
+  words: [
+    { "w": "تَسْكُنُ",    "lemma": "سَكَنَ يَسْكُنُ" },
+    { "w": "الْعَائِلَةُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ" },
+    { "w": "بَيْتٍ",      "lemma": "بَيْتٌ / بُيُوتٌ" },
+    { "w": "كَبِيرٍ",     "lemma": "كَبِيرٌ" }
+  ]
+  → "فِي" is a preposition → skipped. Count = 4 ✓
+
+══════════════════════════════════════════════════════════════════
+
+Return ONLY a valid JSON array, one object per sentence, in order:
 [
   {
     "idx": 1,
     "words": [
-      { "w": "ذَهَبَتِ", "lemma": "ذَهَبَ يَذْهَبُ" },
-      { "w": "الْعَائِلَةُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ" }
+      { "w": "...", "lemma": "..." }
     ]
   }
 ]`
 }
 
-// ── Parse annotation response ─────────────────────────────────────────────────
+// ── Parse Gemini response ─────────────────────────────────────────────────────
 
 function parseAnnotations(raw: string): Array<{ idx: number; words: WordAnnotation[] }> {
   const cleaned = raw
@@ -205,191 +393,294 @@ function parseAnnotations(raw: string): Array<{ idx: number; words: WordAnnotati
       if (typeof w !== 'object' || w === null) return []
       const wv = w as Record<string, unknown>
       if (typeof wv['w'] !== 'string') return []
-      return [{
-        w: wv['w'] as string,
-        ...(typeof wv['lemma'] === 'string' ? { lemma: wv['lemma'] } : {}),
-      }]
+      return [
+        {
+          w: wv['w'] as string,
+          ...(typeof wv['lemma'] === 'string' ? { lemma: wv['lemma'] } : {}),
+        },
+      ]
     })
 
     return [{ idx, words }]
   })
 }
 
-// ── Progress tracking ─────────────────────────────────────────────────────────
-
-function loadProgress(): Set<string> {
-  if (!existsSync(PROGRESS_FILE)) return new Set()
-  try {
-    const data = JSON.parse(readFileSync(PROGRESS_FILE, 'utf-8')) as string[]
-    return new Set(data)
-  } catch {
-    return new Set()
-  }
-}
-
-function saveProgress(done: Set<string>) {
-  writeFileSync(PROGRESS_FILE, JSON.stringify([...done], null, 2))
-}
-
 // ── Collect files ─────────────────────────────────────────────────────────────
 
-import { readdirSync, statSync } from 'fs'
-
-function collectFilesSync(): string[] {
+function collectFiles(): string[] {
   const results: string[] = []
+  const categories = readdirSync(DATA_DIR).filter(d => {
+    try {
+      return statSync(join(DATA_DIR, d)).isDirectory()
+    } catch {
+      return false
+    }
+  })
   for (const level of LEVELS) {
-    const categories = readdirSync(DATA_DIR).filter(d => {
-      try { return statSync(join(DATA_DIR, d)).isDirectory() } catch { return false }
-    })
     for (const cat of categories) {
       const dir = join(DATA_DIR, cat, level)
       if (!existsSync(dir)) continue
-      const files = readdirSync(dir).filter(f => f.endsWith('.json') && f !== 'index.json')
-      for (const f of files) results.push(join(dir, f))
+      readdirSync(dir)
+        .filter(f => f.endsWith('.json') && f !== 'index.json')
+        .forEach(f => results.push(join(dir, f)))
     }
   }
   return results
 }
 
-console.log('\n📚 FushaLab Word Annotation Backfill (B2/C1/C2)')
-console.log(`   Model  : ${MODEL}`)
-console.log(`   Keys   : ${apiKeys.length}`)
-console.log(`   Batch  : ${SENTENCES_PER_BATCH} sentences per API call\n`)
+// ── Main ──────────────────────────────────────────────────────────────────────
 
-const done = loadProgress()
-const allFiles = collectFilesSync()
+const isTest = TEST_LIMIT < Infinity
+console.log(`\n📚 FushaLab Word Annotation Backfill`)
+console.log(`   Model    : ${MODEL}`)
+console.log(`   Keys     : ${apiKeys.length}`)
+console.log(`   Levels   : ${LEVELS.join(', ')}`)
+console.log(`   Batch    : ${SENTENCES_PER_BATCH} sentences per API call`)
+if (isTest) console.log(`   TEST MODE: first ${TEST_LIMIT} files only`)
+console.log(`   FUNC_BARE: ${FUNC_BARE.size} function word bare forms\n`)
 
-// A sentence is "incomplete" if it has no words array, empty words array,
-// or suspiciously few words (< 40% of Arabic token count, suggesting missed proper nouns/content words)
-function sentenceNeedsAnnotation(s: Sentence): boolean {
-  if (!s.words || s.words.length === 0) return true
-  const arabicTokens = s.arabic.split(/\s+/).filter(t => t.replace(/[؛،.!؟]/g, '').length > 0).length
-  return s.words.length < Math.max(3, arabicTokens * 0.4)
+const allFiles = collectFiles()
+const filesToCheck = isTest ? allFiles.slice(0, TEST_LIMIT) : allFiles
+
+// ── Validate all files, collect sentences that need annotation ────────────────
+
+type SentenceRef = { file: string; sentIdx: number; arabic: string; expectedCount: number; splitDepth?: number }
+const pendingRefs: SentenceRef[] = []
+const fileItems = new Map<string, ContentItem>()
+
+let alreadyOk = 0
+let needsWork = 0
+
+console.log(`Scanning ${filesToCheck.length} files for annotation gaps...`)
+
+for (const f of filesToCheck) {
+  let item: ContentItem
+  try {
+    item = JSON.parse(readFileSync(f, 'utf-8')) as ContentItem
+  } catch {
+    continue
+  }
+  fileItems.set(f, item)
+
+  let fileNeedsWork = false
+  let fileCleanedUp = false
+  for (let i = 0; i < item.sentences.length; i++) {
+    const s = item.sentences[i]
+    const expected = contentWordCount(s.arabic)
+    const actual = s.words ? annotatedCount(s.words) : 0
+
+    if (!needsAnnotation(s)) continue
+
+    // Try local cleanup first (removes spurious function-word entries)
+    if (actual > expected && tryLocalCleanup(s)) {
+      fileCleanedUp = true
+      if (isTest) {
+        console.log(`  CLEANED UP: ${item.id} sentence ${i + 1}`)
+        console.log(`    removed surplus function words, now: ${annotatedCount(s.words!)} / ${expected}`)
+      }
+      continue
+    }
+
+    pendingRefs.push({ file: f, sentIdx: i, arabic: s.arabic, expectedCount: expected })
+    fileNeedsWork = true
+    if (isTest) {
+      console.log(`  NEEDS ANNOTATION: ${item.id} sentence ${i + 1}`)
+      console.log(`    arabic  : ${s.arabic}`)
+      console.log(`    expected: ${expected}, actual: ${actual}`)
+      if (s.words?.length) {
+        console.log(`    current words: ${s.words.map(w => w.w).join(', ')}`)
+      }
+    }
+  }
+
+  // Write the file if cleanup fixed things locally
+  if (fileCleanedUp && !fileNeedsWork) {
+    writeFileSync(f, JSON.stringify(item, null, 2))
+  }
+
+  if (fileNeedsWork) {
+    needsWork++
+  } else {
+    alreadyOk++
+  }
 }
 
-const toProcess = allFiles.filter(f => {
-  if (done.has(f)) return false
-  try {
-    const item = JSON.parse(readFileSync(f, 'utf-8')) as ContentItem
-    return item.sentences.some(sentenceNeedsAnnotation)
-  } catch {
-    return false
-  }
-})
+console.log(`\nScan results:`)
+console.log(`  Files fully annotated : ${alreadyOk}`)
+console.log(`  Files with gaps       : ${needsWork}`)
+console.log(`  Sentences to annotate : ${pendingRefs.length}`)
+console.log(`  Estimated API calls   : ${Math.ceil(pendingRefs.length / SENTENCES_PER_BATCH)}\n`)
 
-console.log(`Files already done : ${done.size}`)
-console.log(`Files to process   : ${toProcess.length}\n`)
-
-if (toProcess.length === 0) {
-  console.log('✅ All files already annotated!')
+if (pendingRefs.length === 0) {
+  console.log('✅ All sentences are fully annotated — nothing to do!')
   process.exit(0)
 }
 
-let totalFiles = 0
-let totalSentences = 0
-
-// Process in batches of SENTENCES_PER_BATCH across multiple files
-// Collect (file, sentence index) pairs that need annotation
-type SentenceRef = { file: string; sentIdx: number; arabic: string }
-
-let pendingRefs: SentenceRef[] = []
-let fileItems = new Map<string, ContentItem>()
-
-// Load all items into memory and collect unannotated sentences
-for (const f of toProcess) {
-  try {
-    const item = JSON.parse(readFileSync(f, 'utf-8')) as ContentItem
-    fileItems.set(f, item)
-    for (let i = 0; i < item.sentences.length; i++) {
-      const s = item.sentences[i]
-      if (sentenceNeedsAnnotation(s)) {
-        pendingRefs.push({ file: f, sentIdx: i, arabic: s.arabic })
-      }
-    }
-  } catch {
-    // skip unparseable
-  }
-}
-
-console.log(`Total sentences to annotate: ${pendingRefs.length}`)
-const estimatedCalls = Math.ceil(pendingRefs.length / SENTENCES_PER_BATCH)
-console.log(`Estimated API calls: ${estimatedCalls}\n`)
+// ── Process batches with retry ────────────────────────────────────────────────
 
 let processedSentences = 0
-let skippedSentences = 0
+let failedSentences = 0
+let retriedSentences = 0
+let filesWritten = 0
 
-while (pendingRefs.length > 0) {
-  const batch = pendingRefs.splice(0, SENTENCES_PER_BATCH)
-  const prompt = buildAnnotationPrompt(
-    batch.map((r, i) => ({ idx: i + 1, arabic: r.arabic }))
-  )
+const queue = [...pendingRefs]
 
-  let annotations: Array<{ idx: number; words: WordAnnotation[] }>
-  try {
-    const raw = await callGemini(prompt)
-    annotations = parseAnnotations(raw)
-  } catch (err) {
-    if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
-      console.log(`\n⛔ All API keys exhausted. Progress saved. Re-run tomorrow.`)
-      saveProgress(done)
-      process.exit(0)
+while (queue.length > 0) {
+  const batch = queue.splice(0, SENTENCES_PER_BATCH)
+
+  let annotations: Array<{ idx: number; words: WordAnnotation[] }> = []
+  let success = false
+
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    const prompt = buildAnnotationPrompt(
+      batch.map((r, i) => ({ idx: i + 1, arabic: r.arabic, expectedCount: r.expectedCount }))
+    )
+
+    let raw: string
+    try {
+      raw = await callGemini(prompt)
+    } catch (err) {
+      if (err instanceof Error && err.message === 'ALL_KEYS_EXHAUSTED') {
+        console.log(`\n⛔ All API keys exhausted. Progress saved. Re-run tomorrow.`)
+        // Write any partial progress before exiting
+        for (const [f, item] of fileItems) {
+          const hasAny = item.sentences.some(s => s.words && s.words.length > 0)
+          if (hasAny) writeFileSync(f, JSON.stringify(item, null, 2))
+        }
+        process.exit(0)
+      }
+      if (err instanceof Error && err.message === 'MAX_TOKENS') {
+        const depth = batch[0]?.splitDepth ?? 0
+        if (batch.length > 1 && depth < MAX_SPLITS) {
+          const mid = Math.ceil(batch.length / 2)
+          const withDepth = (refs: SentenceRef[]) => refs.map(r => ({ ...r, splitDepth: depth + 1 }))
+          queue.unshift(...withDepth(batch.slice(mid)))
+          queue.unshift(...withDepth(batch.slice(0, mid)))
+          console.log(`\n  ⚠️  MAX_TOKENS on batch of ${batch.length} — re-queued as two halves (depth ${depth + 1}/${MAX_SPLITS})`)
+          success = true
+          break
+        }
+        // Reached split limit or already single-sentence — give up on this batch
+        console.log(`\n  ⚠️  MAX_TOKENS (split limit reached) — skipping ${batch.length} sentence(s)`)
+        failedSentences += batch.length
+        success = true
+        break
+      }
+      console.log(`  ⚠️  API error (${err instanceof Error ? err.message : String(err)}) — skipping batch`)
+      failedSentences += batch.length
+      success = true
+      break
     }
-    if (err instanceof Error && err.message === 'MAX_TOKENS' && batch.length > 1) {
-      // Re-queue split in half so they get processed at smaller size
-      const mid = Math.ceil(batch.length / 2)
-      pendingRefs.unshift(...batch.slice(mid))
-      pendingRefs.unshift(...batch.slice(0, mid))
-      console.log(`\n  ⚠️  MAX_TOKENS on batch of ${batch.length} — re-queued as ${mid} + ${batch.length - mid}`)
+
+    let parsed: Array<{ idx: number; words: WordAnnotation[] }>
+    try {
+      parsed = parseAnnotations(raw)
+    } catch {
+      if (attempt < MAX_RETRIES) {
+        console.log(`  ⚠️  Parse error on attempt ${attempt + 1} — retrying...`)
+        retriedSentences += batch.length
+        continue
+      }
+      console.log(`  ⚠️  Parse error after ${MAX_RETRIES} retries — skipping batch`)
+      failedSentences += batch.length
+      success = true
+      break
+    }
+
+    // Validate each sentence's count
+    let allCountsOk = true
+    const countMismatches: number[] = []
+
+    for (const ann of parsed) {
+      const ref = batch[ann.idx - 1]
+      if (!ref) continue
+      const actual = annotatedCount(ann.words)
+      if (actual !== ref.expectedCount) {
+        allCountsOk = false
+        countMismatches.push(ann.idx)
+      }
+    }
+
+    if (!allCountsOk && attempt < MAX_RETRIES) {
+      console.log(
+        `  ⚠️  Count mismatch on attempt ${attempt + 1} (sentences: ${countMismatches.join(', ')}) — retrying...`
+      )
+      if (isTest) {
+        for (const idx of countMismatches) {
+          const ref = batch[idx - 1]
+          const ann = parsed.find(a => a.idx === idx)
+          if (ref && ann) {
+            console.log(`    sentence ${idx}: expected ${ref.expectedCount}, got ${annotatedCount(ann.words)}`)
+            console.log(`    arabic: ${ref.arabic}`)
+            console.log(`    returned: ${ann.words.map(w => w.w).join(', ')}`)
+          }
+        }
+      }
+      retriedSentences += batch.length
       continue
     }
-    console.log(`  ⚠️  Batch failed (${err instanceof Error ? err.message : String(err)}) — skipping`)
-    skippedSentences += batch.length
-    continue
+
+    // Apply whatever we got (best effort if still mismatched after retries)
+    for (const ann of parsed) {
+      const ref = batch[ann.idx - 1]
+      if (!ref || ann.words.length === 0) continue
+      const item = fileItems.get(ref.file)
+      if (!item) continue
+
+      const actual = annotatedCount(ann.words)
+      if (actual !== ref.expectedCount && isTest) {
+        console.log(
+          `  ⚠️  FINAL count mismatch: ${item.id} s${ref.sentIdx + 1}: expected ${ref.expectedCount}, got ${actual}`
+        )
+        console.log(`    arabic: ${ref.arabic}`)
+        console.log(`    words : ${ann.words.map(w => w.w).join(', ')}`)
+      }
+
+      item.sentences[ref.sentIdx].words = ann.words
+      processedSentences++
+    }
+
+    annotations = parsed
+    success = true
+    break
   }
 
-  // Apply annotations back to file items
-  for (const ann of annotations) {
-    const ref = batch[ann.idx - 1]
-    if (!ref || ann.words.length === 0) continue
-    const item = fileItems.get(ref.file)
-    if (!item) continue
-    item.sentences[ref.sentIdx].words = ann.words
-    processedSentences++
+  if (!success) {
+    failedSentences += batch.length
   }
 
-  // Save files that are now fully annotated
+  // Write files that are now fully validated
   const filesInBatch = new Set(batch.map(r => r.file))
   for (const f of filesInBatch) {
     const item = fileItems.get(f)
     if (!item) continue
-    const allAnnotated = item.sentences.every(s => s.words && s.words.length > 0)
-    if (allAnnotated) {
+    // Write if any sentence has been annotated (partial writes are fine)
+    const hasChanges = item.sentences.some(s => s.words && s.words.length > 0)
+    if (hasChanges) {
       writeFileSync(f, JSON.stringify(item, null, 2))
-      done.add(f)
-      totalFiles++
+      filesWritten++
     }
   }
 
-  totalSentences += batch.length - skippedSentences
-  process.stdout.write(`\r  ✓ ${processedSentences} sentences annotated, ${totalFiles} files done (${done.size}/${toProcess.length + done.size} total)`)
+  process.stdout.write(
+    `\r  ✓ ${processedSentences} annotated, ${failedSentences} failed, ${retriedSentences} retried | files written: ${filesWritten}`
+  )
 
-  // Save progress every 50 files
-  if (totalFiles % 50 === 0) saveProgress(done)
-
-  // Small delay to avoid hammering the API
-  if (pendingRefs.length > 0) await new Promise(r => setTimeout(r, 1000))
+  if (queue.length > 0) await new Promise(r => setTimeout(r, 800))
 }
 
-// Final save — write any partially-annotated files too
+// Final write — ensure all modified files are saved
 for (const [f, item] of fileItems) {
   const hasAny = item.sentences.some(s => s.words && s.words.length > 0)
-  if (hasAny && !done.has(f)) {
-    writeFileSync(f, JSON.stringify(item, null, 2))
-  }
+  if (hasAny) writeFileSync(f, JSON.stringify(item, null, 2))
 }
 
-saveProgress(done)
 console.log(`\n\n✅ Backfill complete!`)
-console.log(`   Files annotated   : ${totalFiles}`)
-console.log(`   Sentences handled : ${processedSentences}`)
-if (skippedSentences > 0) console.log(`   Sentences skipped : ${skippedSentences}`)
+console.log(`   Sentences annotated : ${processedSentences}`)
+console.log(`   Sentences failed    : ${failedSentences}`)
+console.log(`   Retries triggered   : ${retriedSentences}`)
+console.log(`   Files written       : ${filesWritten}`)
+
+if (failedSentences > 0) {
+  console.log(`\n⚠️  ${failedSentences} sentences were not annotated — re-run to retry.`)
+}
