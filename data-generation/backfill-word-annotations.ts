@@ -160,17 +160,16 @@ SENTENCES:
 ${sentenceList}
 
 RULES:
-- Include only CONTENT words: nouns, verbs, adjectives, adverbs
-- SKIP standalone function words: فِي، عَلَى، مِنْ، إِلَى، وَ، فَ، بِ، لِ، أَنْ، إِنَّ، هُوَ، هِيَ، هَذَا، ذَلِكَ، لَا، لَمْ، قَدْ
-- ALWAYS annotate كَانَ / كَانَتْ / كَانُوا and all كَوْن forms — even as copula
-- DO NOT SKIP compound adverbs like عِنْدَمَا، بَيْنَمَا، حَيْثُمَا — these are content words learners need to know
-- SKIP proper nouns (names of people, places, specific books)
-- w: CRITICAL — copy the word character-for-character exactly as it appears in the sentence, including any attached prefixes. If a conjunction (وَ or فَ) is fused to the front of a content word in the sentence (e.g. وَوَدَّعَتْ، وَذَهَبَ، فَقَالَ), the w field MUST include the prefix: w="وَوَدَّعَتْ" NOT w="وَدَّعَتْ"
+- Include CONTENT words: nouns, verbs, adjectives, adverbs
+- INCLUDE proper nouns: names of places, countries, cities, months, cultural terms (e.g. رَمَضَانُ، الْأَرْدُنُّ، جَرَشُ، مَكَّةُ، الشَّامُ، أَفْرِيقِيَا)
+- SKIP standalone function/grammar words: فِي، عَلَى، مِنْ، إِلَى، عَنْ، مَعَ، حَوْلَ، عِنْدَ، عَبْرَ، فَوْقَ، دُونَ، قَبْلَ، لَدَى، بَيْنَ، وَ، فَ، أَنْ، إِنَّ، أَنَّ، هُوَ، هِيَ، هُمْ، هَذَا، هَذِهِ، ذَلِكَ، تِلْكَ، الَّذِي، الَّتِي، الَّذِينَ، لَا (negation), لَمْ، قَدْ، إِذْ، حَيْثُ، عِنْدَمَا، كَمَا، لِذَلِكَ، فَقَطْ، أَيْضًا، هُنَا، هُنَاكَ، هَكَذَا، مَعًا، حَتَّى (conj), أَمَّا، إِلَّا، رَغْمَ، بَعْدَ (temporal prep), بَعْضُ، كُلُّ (quantifiers), كَانَ/تَكُونُ (copula only), يُمْكِنُ، لَا تَزَالُ
+- w: CRITICAL — copy the word character-for-character exactly as it appears in the sentence, including any fused prefixes (وَ، فَ، بِ، لِ، كَ). Example: if sentence has وَالتَّوَابِلِ then w="وَالتَّوَابِلِ", lemma="تَابِلٌ / تَوَابِلُ"
 - lemma formats:
   * Verb: past + present — e.g. "ذَهَبَ يَذْهَبُ"
   * Noun: singular / plural — e.g. "مَدِينَةٌ / مُدُنٌ"
   * Adjective: masculine singular indefinite — e.g. "كَبِيرٌ"
-- Annotate ALL content words in the sentence — do NOT skip any nouns, verbs, adjectives, or adverbs
+  * Particle/conjunction (if included): bare particle without fused prefix — e.g. w="وَإِنْ" lemma="إِنْ"
+- Annotate ALL content words — do NOT skip nouns, verbs, adjectives, adverbs, or proper nouns
 
 Return ONLY a valid JSON array with one object per sentence, in order:
 [
@@ -260,11 +259,19 @@ console.log(`   Batch  : ${SENTENCES_PER_BATCH} sentences per API call\n`)
 const done = loadProgress()
 const allFiles = collectFilesSync()
 
+// A sentence is "incomplete" if it has no words array, empty words array,
+// or suspiciously few words (< 40% of Arabic token count, suggesting missed proper nouns/content words)
+function sentenceNeedsAnnotation(s: Sentence): boolean {
+  if (!s.words || s.words.length === 0) return true
+  const arabicTokens = s.arabic.split(/\s+/).filter(t => t.replace(/[؛،.!؟]/g, '').length > 0).length
+  return s.words.length < Math.max(3, arabicTokens * 0.4)
+}
+
 const toProcess = allFiles.filter(f => {
   if (done.has(f)) return false
   try {
     const item = JSON.parse(readFileSync(f, 'utf-8')) as ContentItem
-    return item.sentences.some(s => !s.words || s.words.length === 0)
+    return item.sentences.some(sentenceNeedsAnnotation)
   } catch {
     return false
   }
@@ -295,7 +302,7 @@ for (const f of toProcess) {
     fileItems.set(f, item)
     for (let i = 0; i < item.sentences.length; i++) {
       const s = item.sentences[i]
-      if (!s.words || s.words.length === 0) {
+      if (sentenceNeedsAnnotation(s)) {
         pendingRefs.push({ file: f, sentIdx: i, arabic: s.arabic })
       }
     }
