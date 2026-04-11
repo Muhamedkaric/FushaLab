@@ -14,7 +14,9 @@
     "validate-tokens": "tsx validate-word-tokens.ts",
     "fix-tokens": "tsx fix-word-tokens.ts",
     "fix-systematic-words": "tsx fix-systematic-words.ts",
-    "backfill-b2": "sh run-b2-backfill.sh"
+    "backfill-b2": "sh run-b2-backfill.sh",
+    "generate-reading": "tsx generate-reading.ts",
+    "generate-reading-validated": "tsx generate-reading-validated.ts"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
