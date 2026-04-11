@@ -4,45 +4,302 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ الخَطُّ العَرَبِيُّ فَنًّا بَصَرِيًّا رَاقِيًا يَتَجَاوَزُ مُجَرَّدَ كَوْنِهِ وَسِيلَةً لِتَدْوِينِ النُّصُوصِ.",
+      "arabic": "يُعْتَبَرُ الخَطُّ العَرَبِيُّ فَنًّا بَصَرِيًّا رَاقِيًا يَتَجَاوَزُ مُجَرَّدَ كَوْنِهِ وَسِيلَةً لِتَدْوِينِ النُّصُوصِ.",
       "translation": "Arapska kaligrafija se smatra sofisticiranom vizuelnom umjetnošću koja nadilazi puko sredstvo za zapisivanje tekstova.",
       "translationEn": "Arabic calligraphy is considered a sophisticated visual art that goes beyond being a mere means of recording texts.",
-      "words": []
-    },
-    {
-      "arabic": "فَقَدْ تَطَوَّرَ هَذَا الفَنُّ عَبْرَ القُرُونِ لِيُصْبِحَ عُنْصُرًا زُخْرُفِيًّا أَسَاسِيًّا فِي العِمَارَةِ الإِسْلَامِيَّةِ وَالمَسَاجِدِ التَّارِيخِيَّةِ.",
-      "translation": "Ova umjetnost se razvijala kroz vijekove postajući osnovni dekorativni element u islamskoj arhitekturi i historijskim džamijama.",
-      "translationEn": "This art has evolved over centuries to become a primary decorative element in Islamic architecture and historical mosques.",
       "words": [
         {
-          "w": "عَبْرَ",
-          "lemma": "عَبْرَ"
+          "w": "الخَطُّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "العَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "فَنًّا",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "بَصَرِيًّا",
+          "lemma": "بَصَرِيٌّ"
+        },
+        {
+          "w": "رَاقِيًا",
+          "lemma": "رَاقٍ"
+        },
+        {
+          "w": "يَتَجَاوَزُ",
+          "lemma": "تَجَاوَزَ يَتَجَاوَزُ"
+        },
+        {
+          "w": "وَسِيلَةً",
+          "lemma": "وَسِيلَةٌ / وَسَائِلُ"
+        },
+        {
+          "w": "لِتَدْوِينِ",
+          "lemma": "تَدْوِينٌ"
+        },
+        {
+          "w": "النُّصُوصِ",
+          "lemma": "نَصٌّ / نُصُوصٌ"
         }
       ]
     },
     {
-      "arabic": "تَتَمَيَّزُ أَنْوَاعُ الخُطُوطِ، كَالثُّلُثِ وَالكُوفِيِّ، بِمُرُونَةٍ عَالِيَةٍ تَسْمَحُ لِلْفَنَّانِ بِتَشْكِيلِ لَوْحَاتٍ هَنْدَسِيَّةٍ مُعَقَّدَةٍ.",
+      "arabic": "فَقَدْ تَطَوَّرَ هَذَا الفَنُّ عَبْرَ الْقُرُونِ لِيُصْبِحَ عُنْصُرًا زُخْرُفِيًّا أَسَاسِيًّا فِي الْعِمَارَةِ الإِسْلَامِيَّةِ وَالْمَسَاجِدِ التَّارِيخِيَّةِ.",
+      "translation": "Ova umjetnost se razvijala kroz vijekove postajući osnovni dekorativni element u islamskoj arhitekturi i historijskim džamijama.",
+      "translationEn": "This art has evolved over centuries to become a primary decorative element in Islamic architecture and historical mosques.",
+      "words": [
+        {
+          "w": "تَطَوَّرَ",
+          "lemma": "تَطَوَّرَ يَتَطَوَّرُ"
+        },
+        {
+          "w": "الفَنُّ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "عَبْرَ",
+          "lemma": "عَبْرَ"
+        },
+        {
+          "w": "الْقُرُونِ",
+          "lemma": "قَرْنٌ / قُرُونٌ"
+        },
+        {
+          "w": "عُنْصُرًا",
+          "lemma": "عُنْصُرٌ / عَنَاصِرُ"
+        },
+        {
+          "w": "زُخْرُفِيًّا",
+          "lemma": "زُخْرُفِيٌّ"
+        },
+        {
+          "w": "أَسَاسِيًّا",
+          "lemma": "أَسَاسِيٌّ"
+        },
+        {
+          "w": "الْعِمَارَةِ",
+          "lemma": "عِمَارَةٌ"
+        },
+        {
+          "w": "الإِسْلَامِيَّةِ",
+          "lemma": "إِسْلَامِيٌّ"
+        },
+        {
+          "w": "وَالْمَسَاجِدِ",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "التَّارِيخِيَّةِ",
+          "lemma": "تَارِيخِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "تَتَمَيَّزُ أَنْوَاعُ الخُطُوطِ، كَالثُّلُثِ وَالكُوفِيِّ، بِمُرُونَةٍ عَالِيَةٍ تَسْمَحُ لِلْفَنَّانِ بِتَشْكِيلِ لَوْحَاتٍ هَنْدَسِيَّةٍ مُعَقَّدَةٍ.",
       "translation": "Vrste pisama, poput thulutha i kufskog pisma, odlikuju se visokom fleksibilnošću koja umjetniku omogućava oblikovanje složenih geometrijskih slika.",
       "translationEn": "Script types, such as Thuluth and Kufic, are characterized by high flexibility that allows the artist to form complex geometric paintings.",
-      "words": []
+      "words": [
+        {
+          "w": "تَتَمَيَّزُ",
+          "lemma": "تَمَيَّزَ يَتَمَيَّزُ"
+        },
+        {
+          "w": "أَنْوَاعُ",
+          "lemma": "نَوْعٌ / أَنْوَاعٌ"
+        },
+        {
+          "w": "الخُطُوطِ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "كَالثُّلُثِ",
+          "lemma": "ثُلُثٌ"
+        },
+        {
+          "w": "وَالْكُوفِيِّ",
+          "lemma": "كُوفِيٌّ"
+        },
+        {
+          "w": "بِمُرُونَةٍ",
+          "lemma": "مُرُونَةٌ"
+        },
+        {
+          "w": "عَالِيَةٍ",
+          "lemma": "عَالٍ"
+        },
+        {
+          "w": "تَسْمَحُ",
+          "lemma": "سَمَحَ يَسْمَحُ"
+        },
+        {
+          "w": "لِلْفَنَّانِ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "بِتَشْكِيلِ",
+          "lemma": "تَشْكِيلٌ"
+        },
+        {
+          "w": "لَوْحَاتٍ",
+          "lemma": "لَوْحَةٌ / لَوْحَاتٌ"
+        },
+        {
+          "w": "هَنْدَسِيَّةٍ",
+          "lemma": "هَنْدَسِيٌّ"
+        },
+        {
+          "w": "مُعَقَّدَةٍ",
+          "lemma": "مُعَقَّدٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَعْكِسُ الخَطُّ العَرَبِيُّ التَّنَاغُمَ بَيْنَ الجَمَالِ اللُّغَوِيِّ وَالإِبْدَاعِ الفَنِّيِّ، مِمَّا يَجْعَلُهُ مَحَطَّ إِعْجَابِ العَالَمِ أَجْمَعَ.",
+      "arabic": "يَعْكِسُ الخَطُّ الْعَرَبِيُّ التَّنَاغُمَ بَيْنَ الجَمَالِ اللُّغَوِيِّ وَالإِبْدَاعِ الفَنِّيِّ، مِمَّا يَجْعَلُهُ مَحَطَّ إِعْجَابِ الْعَالَمِ أَجْمَعَ.",
       "translation": "Arapska kaligrafija odražava harmoniju između jezičke ljepote i umjetničke kreativnosti, što je čini predmetom divljenja cijelog svijeta.",
       "translationEn": "Arabic calligraphy reflects the harmony between linguistic beauty and artistic creativity, making it an object of admiration for the entire world.",
-      "words": []
+      "words": [
+        {
+          "w": "يَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الخَطُّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "التَّنَاغُمَ",
+          "lemma": "تَنَاغُمٌ"
+        },
+        {
+          "w": "الجَمَالِ",
+          "lemma": "جَمَالٌ"
+        },
+        {
+          "w": "اللُّغَوِيِّ",
+          "lemma": "لُغَوِيٌّ"
+        },
+        {
+          "w": "وَالإِبْدَاعِ",
+          "lemma": "إِبْدَاعٌ"
+        },
+        {
+          "w": "الفَنِّيِّ",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "يَجْعَلُهُ",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "مَحَطَّ",
+          "lemma": "مَحَطٌّ"
+        },
+        {
+          "w": "إِعْجَابِ",
+          "lemma": "إِعْجَابٌ"
+        },
+        {
+          "w": "الْعَالَمِ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ الدِّقَّةَ المَطْلُوبَةَ فِي رَسْمِ الحُرُوفِ تَعْكِسُ مَدَى الِانْضِبَاطِ وَالصَّبْرِ الَّذِي يَتَمَتَّعُ بِهِ الخَطَّاطُ.",
+      "arabic": "إِنَّ الدِّقَّةَ الْمَطْلُوبَةَ فِي رَسْمِ الْحُرُوفِ تَعْكِسُ مَدَى الِانْضِبَاطِ وَالصَّبْرِ الَّذِي يَتَمَتَّعُ بِهِ الخَطَّاطُ.",
       "translation": "Preciznost potrebna u iscrtavanju slova odražava stepen discipline i strpljenja koje kaligraf posjeduje.",
       "translationEn": "The precision required in drawing the letters reflects the degree of discipline and patience possessed by the calligrapher.",
-      "words": []
+      "words": [
+        {
+          "w": "الدِّقَّةَ",
+          "lemma": "دِقَّةٌ"
+        },
+        {
+          "w": "الْمَطْلُوبَةَ",
+          "lemma": "مَطْلُوبٌ"
+        },
+        {
+          "w": "رَسْمِ",
+          "lemma": "رَسْمٌ / رُسُومٌ"
+        },
+        {
+          "w": "الْحُرُوفِ",
+          "lemma": "حَرْفٌ / حُرُوفٌ"
+        },
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الِانْضِبَاطِ",
+          "lemma": "انْضِبَاطٌ"
+        },
+        {
+          "w": "وَالصَّبْرِ",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "يَتَمَتَّعُ",
+          "lemma": "تَمَتَّعَ يَتَمَتَّعُ"
+        },
+        {
+          "w": "الخَطَّاطُ",
+          "lemma": "خَطَّاطٌ / خَطَّاطُونَ"
+        }
+      ]
     },
     {
-      "arabic": "وَاليَوْمَ، يَمْتَزِجُ هَذَا التُّرَاثُ مَعَ الفُنُونِ المُعَاصِرَةِ لِيُشَكِّلَ هُوِيَّةً ثَقَافِيَّةً تَجْمَعُ بَيْنَ المَاضِي وَالحَاضِرِ.",
+      "arabic": "وَاليَوْمَ، يَمْتَزِجُ هَذَا التُّرَاثُ مَعَ الفُنُونِ الْمُعَاصِرَةِ لِيُشَكِّلَ هُوِيَّةً ثَقَافِيَّةً تَجْمَعُ بَيْنَ الْمَاضِي وَالحَاضِرِ.",
       "translation": "Danas se ovo naslijeđe miješa sa savremenim umjetnostima kako bi formiralo kulturni identitet koji spaja prošlost i sadašnjost.",
       "translationEn": "Today, this heritage blends with contemporary arts to form a cultural identity that combines the past and the present.",
-      "words": []
+      "words": [
+        {
+          "w": "يَمْتَزِجُ",
+          "lemma": "امْتَزَجَ يَمْتَزِجُ"
+        },
+        {
+          "w": "التُّرَاثُ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "الفُنُونِ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "الْمُعَاصِرَةِ",
+          "lemma": "مُعَاصِرٌ"
+        },
+        {
+          "w": "لِيُشَكِّلَ",
+          "lemma": "شَكَّلَ يُشَكِّلُ"
+        },
+        {
+          "w": "هُوِيَّةً",
+          "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ"
+        },
+        {
+          "w": "ثَقَافِيَّةً",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "تَجْمَعُ",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "الْمَاضِي",
+          "lemma": "مَاضٍ"
+        },
+        {
+          "w": "وَالْحَاضِرِ",
+          "lemma": "حَاضِرٌ"
+        }
+      ]
     }
   ],
   "metadata": {

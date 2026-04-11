@@ -4,29 +4,263 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعَدُّ عِيدُ الفِطْرِ المُبَارَكُ مُنَاسَبَةً دِينِيَّةً وَاجْتِمَاعِيَّةً جَلِيلَةً تَغْمُرُ العَالَمَ العَرَبِيَّ بِأَجْوَاءٍ مِنَ الفَرَحِ وَالتَّسَامُحِ.",
+      "arabic": "يُعَدُّ عِيدُ الفِطْرِ المُبَارَكُ مُنَاسَبَةً دِينِيَّةً وَاجْتِمَاعِيَّةً جَلِيلَةً تَغْمُرُ العَالَمَ العَرَبِيَّ بِأَجْوَاءٍ مِنَ الفَرَحِ وَالتَّسَامُحِ.",
       "translation": "Ramazanski bajram je veličanstvena vjerska i društvena prilika koja preplavljuje arapski svijet atmosferom radosti i tolerancije.",
-      "translationEn": "Eid al-Fitr is a grand religious and social occasion that floods the Arab world with an atmosphere of joy and tolerance."
+      "translationEn": "Eid al-Fitr is a grand religious and social occasion that floods the Arab world with an atmosphere of joy and tolerance.",
+      "words": [
+        {
+          "w": "عِيدُ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "الفِطْرِ",
+          "lemma": "فِطْرٌ"
+        },
+        {
+          "w": "المُبَارَكُ",
+          "lemma": "مُبَارَكٌ"
+        },
+        {
+          "w": "مُنَاسَبَةً",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        },
+        {
+          "w": "دِينِيَّةً",
+          "lemma": "دِينِيٌّ"
+        },
+        {
+          "w": "وَاجْتِمَاعِيَّةً",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "جَلِيلَةً",
+          "lemma": "جَلِيلٌ"
+        },
+        {
+          "w": "تَغْمُرُ",
+          "lemma": "غَمَرَ يَغْمُرُ"
+        },
+        {
+          "w": "العَالَمَ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        },
+        {
+          "w": "العَرَبِيَّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "بِأَجْوَاءٍ",
+          "lemma": "جَوٌّ / أَجْوَاءٌ"
+        },
+        {
+          "w": "الفَرَحِ",
+          "lemma": "فَرَحٌ"
+        },
+        {
+          "w": "وَالتَّسَامُحِ",
+          "lemma": "تَسَامُحٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَبْدَأُ الِاسْتِعْدَادَاتُ لِلْعِيدِ قَبْلَ أَيَّامٍ، حَيْثُ تَنْشَغِلُ الأُمَّهَاتُ بِتَحْضِيرِ الحَلْوِيَّاتِ التَّقْلِيدِيَّةِ مِثْلِ «المَعْمُولِ» المَحْشُوِّ بِالتَّمْرِ.",
+      "arabic": "تَبْدَأُ الِاسْتِعْدَادَاتُ لِلْعِيدِ قَبْلَ أَيَّامٍ، حَيْثُ تَنْشَغِلُ الأُمَّهَاتُ بِتَحْضِيرِ الحَلْوِيَّاتِ التَّقْلِيدِيَّةِ مِثْلِ «المَعْمُولِ» المَحْشُوِّ بِالتَّمْرِ.",
       "translation": "Pripreme za Bajram počinju danima ranije, kada su majke zauzete pripremanjem tradicionalnih slatkiša poput 'maamoula' punjenog urmama.",
-      "translationEn": "Preparations for Eid begin days in advance, as mothers busy themselves with preparing traditional sweets like 'Maamoul' stuffed with dates."
+      "translationEn": "Preparations for Eid begin days in advance, as mothers busy themselves with preparing traditional sweets like 'Maamoul' stuffed with dates.",
+      "words": [
+        {
+          "w": "تَبْدَأُ",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الِاسْتِعْدَادَاتُ",
+          "lemma": "اسْتِعْدَادٌ / اسْتِعْدَادَاتٌ"
+        },
+        {
+          "w": "لِلْعِيدِ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "تَنْشَغِلُ",
+          "lemma": "انْشَغَلَ يَنْشَغِلُ"
+        },
+        {
+          "w": "الأُمَّهَاتُ",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "بِتَحْضِيرِ",
+          "lemma": "تَحْضِيرٌ"
+        },
+        {
+          "w": "الحَلْوِيَّاتِ",
+          "lemma": "حَلْوَى / حَلْوِيَّاتٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةِ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "المَحْشُوِّ",
+          "lemma": "مَحْشُوٌّ"
+        },
+        {
+          "w": "بِالتَّمْرِ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        }
+      ]
     },
     {
-      "arabic": "وَفِي صَبَاحِ العِيدِ، يَتَوَجَّهُ المَصَلُّونَ إِلَى المَسَاجِدِ مُرْتَدِينَ مَلَابِسَهُمُ الجَدِيدَةَ، ثُمَّ يَتَبَادَلُونَ التَّهَانِيَ بِعِبَارَاتٍ مِلْؤُهَا المَوَدَّةُ.",
+      "arabic": "وَفِي صَبَاحِ العِيدِ، يَتَوَجَّهُ المَصَلُّونَ إِلَى المَسَاجِدِ مُرْتَدِينَ مَلَابِسَهُمُ الجَدِيدَةَ، ثُمَّ يَتَبَادَلُونَ التَّهَانِيَ بِعِبَارَاتٍ مِلْؤُهَا المَوَدَّةُ.",
       "translation": "Na bajramsko jutro, vjernici odlaze u džamije noseći novu odjeću, a zatim razmjenjuju čestitke s izrazima punim naklonosti.",
-      "translationEn": "On the morning of Eid, worshippers head to mosques wearing their new clothes, then exchange greetings with expressions full of affection."
+      "translationEn": "On the morning of Eid, worshippers head to mosques wearing their new clothes, then exchange greetings with expressions full of affection.",
+      "words": [
+        {
+          "w": "صَبَاحِ",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        },
+        {
+          "w": "العِيدِ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "يَتَوَجَّهُ",
+          "lemma": "تَوَجَّهَ يَتَوَجَّهُ"
+        },
+        {
+          "w": "المَصَلُّونَ",
+          "lemma": "مُصَلٍّ / مُصَلُّونَ"
+        },
+        {
+          "w": "المَسَاجِدِ",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "مُرْتَدِينَ",
+          "lemma": "مُرْتَدٍ"
+        },
+        {
+          "w": "مَلَابِسَهُمُ",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
+        },
+        {
+          "w": "الجَدِيدَةَ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "يَتَبَادَلُونَ",
+          "lemma": "تَبَادَلَ يَتَبَادَلُ"
+        },
+        {
+          "w": "التَّهَانِيَ",
+          "lemma": "تَهْنِئَةٌ / تَهَانٍ"
+        },
+        {
+          "w": "بِعِبَارَاتٍ",
+          "lemma": "عِبَارَةٌ / عِبَارَاتٌ"
+        },
+        {
+          "w": "المَوَدَّةُ",
+          "lemma": "مَوَدَّةٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَلْعَبُ «العِيدِيَّةُ» دَوْرًا كَبِيرًا فِي إِدْخَالِ البَهْجَةِ عَلَى قُلُوبِ الأَطْفَالِ، وَهِيَ مَبْلَغٌ نَقْدِيٌّ يُقَدِّمُهُ الكِبَارُ لِلصِّغَارِ.",
+      "arabic": "تَلْعَبُ «العِيدِيَّةُ» دَوْرًا كَبِيرًا فِي إِدْخَالِ البَهْجَةِ عَلَى قُلُوبِ الأَطْفَالِ، وَهِيَ مَبْلَغٌ نَقْدِيٌّ يُقَدِّمُهُ الكِبَارُ لِلصِّغَارِ.",
       "translation": "'Bajramluk' igra veliku ulogu u donošenju radosti u srca djece, a to je novčani iznos koji stariji daju mlađima.",
-      "translationEn": "The 'Eidiya' plays a major role in bringing joy to children's hearts; it is a cash gift given by elders to the young."
+      "translationEn": "The 'Eidiya' plays a major role in bringing joy to children's hearts; it is a cash gift given by elders to the young.",
+      "words": [
+        {
+          "w": "العِيدِيَّةُ",
+          "lemma": "عِيدِيَّةٌ"
+        },
+        {
+          "w": "تَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "كَبِيرًا",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "إِدْخَالِ",
+          "lemma": "إِدْخَالٌ"
+        },
+        {
+          "w": "البَهْجَةِ",
+          "lemma": "بَهْجَةٌ"
+        },
+        {
+          "w": "قُلُوبِ",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "الأَطْفَالِ",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "مَبْلَغٌ",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        },
+        {
+          "w": "نَقْدِيٌّ",
+          "lemma": "نَقْدِيٌّ"
+        },
+        {
+          "w": "يُقَدِّمُهُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الكِبَارُ",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "لِلصِّغَارِ",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ هَذِهِ الِاحْتِفَالَاتِ تُجَسِّدُ رُوحَ التَّضَامُنِ وَتُجَدِّدُ العُهُودَ بَيْنَ الأَقَارِبِ وَالأَصْدِقَاءِ.",
+      "arabic": "إِنَّ هَذِهِ الِاحْتِفَالَاتِ تُجَسِّدُ رُوحَ التَّضَامُنِ وَتُجَدِّدُ العُهُودَ بَيْنَ الأَقَارِبِ وَالأَصْدِقَاءِ.",
       "translation": "Ove proslave utjelovljuju duh solidarnosti i obnavljaju veze između rođaka i prijatelja.",
-      "translationEn": "These celebrations embody the spirit of solidarity and renew the bonds between relatives and friends."
+      "translationEn": "These celebrations embody the spirit of solidarity and renew the bonds between relatives and friends.",
+      "words": [
+        {
+          "w": "الِاحْتِفَالَاتِ",
+          "lemma": "احْتِفَالٌ / احْتِفَالَاتٌ"
+        },
+        {
+          "w": "تُجَسِّدُ",
+          "lemma": "جَسَّدَ يُجَسِّدُ"
+        },
+        {
+          "w": "رُوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "التَّضَامُنِ",
+          "lemma": "تَضَامُنٌ"
+        },
+        {
+          "w": "وَتُجَدِّدُ",
+          "lemma": "جَدَّدَ يُجَدِّدُ"
+        },
+        {
+          "w": "العُهُودَ",
+          "lemma": "عَهْدٌ / عُهُودٌ"
+        },
+        {
+          "w": "الأَقَارِبِ",
+          "lemma": "قَرِيبٌ / أَقَارِبُ"
+        },
+        {
+          "w": "وَالأَصْدِقَاءِ",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
+      ]
     }
   ],
   "metadata": {

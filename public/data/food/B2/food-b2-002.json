@@ -4,19 +4,44 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "الْمَنْسَفُ وَجْبَةٌ تَقْلِيدِيَّةٌ تَتَكَوَّنُ مِنَ اللَّحْمِ وَالْأُرْزِ وَاللَّبَنِ.",
+      "arabic": "الْمَنْسَفُ وَجْبَةٌ تَقْلِيدِيَّةٌ تَتَكَوَّنُ مِنَ اللَّحْمِ وَالْأُرْزِ وَاللَّبَنِ.",
       "translation": "Mansaf je tradicionalno jelo koje se sastoji od mesa, riže i jogurta.",
-      "translationEn": "Mansaf is a traditional meal consisting of meat, rice, and yogurt."
+      "translationEn": "Mansaf is a traditional meal consisting of meat, rice, and yogurt.",
+      "words": [
+        { "w": "الْمَنْسَفُ", "lemma": "مَنْسَفٌ" },
+        { "w": "وَجْبَةٌ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "تَقْلِيدِيَّةٌ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "تَتَكَوَّنُ", "lemma": "تَكَوَّنَ يَتَكَوَّنُ" },
+        { "w": "اللَّحْمِ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "وَالْأُرْزِ", "lemma": "أُرْزٌ" },
+        { "w": "وَاللَّبَنِ", "lemma": "لَبَنٌ" }
+      ]
     },
     {
-      "arabic": "حَضَّرَتْ أُمِّي هَذِهِ الْوَجْبَةَ اللَّذِيذَةَ لِلضُّيُوفِ أَمْسِ.",
+      "arabic": "حَضَّرَتْ أُمِّي هَذِهِ الْوَجْبَةَ اللَّذِيذَةَ لِلضُّيُوفِ أَمْسِ.",
       "translation": "Moja majka je jučer pripremila ovo ukusno jelo za goste.",
-      "translationEn": "My mother prepared this delicious meal for the guests yesterday."
+      "translationEn": "My mother prepared this delicious meal for the guests yesterday.",
+      "words": [
+        { "w": "حَضَّرَتْ", "lemma": "حَضَّرَ يُحَضِّرُ" },
+        { "w": "أُمِّي", "lemma": "أُمٌّ / أُمَّهَاتٌ" },
+        { "w": "الْوَجْبَةَ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "اللَّذِيذَةَ", "lemma": "لَذِيذٌ" },
+        { "w": "لِلضُّيُوفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" }
+      ]
     },
     {
-      "arabic": "نَضَعُ الْمُكَسَّرَاتِ الْمُحَمَّصَةَ فَوْقَ الْأُرْزِ لِإِضَافَةِ نَكْهَةٍ رَائِعَةٍ.",
+      "arabic": "نَضَعُ الْمُكَسَّرَاتِ الْمُحَمَّصَةَ فَوْقَ الْأُرْزِ لِإِضَافَةِ نَكْهَةٍ رَائِعَةٍ.",
       "translation": "Stavljamo pečene orašaste plodove preko riže kako bismo dodali predivan ukus.",
-      "translationEn": "We put toasted nuts on top of the rice to add a wonderful flavor."
+      "translationEn": "We put toasted nuts on top of the rice to add a wonderful flavor.",
+      "words": [
+        { "w": "نَضَعُ", "lemma": "وَضَعَ يَضَعُ" },
+        { "w": "الْمُكَسَّرَاتِ", "lemma": "مُكَسَّرَاتٌ" },
+        { "w": "الْمُحَمَّصَةَ", "lemma": "مُحَمَّصٌ" },
+        { "w": "الْأُرْزِ", "lemma": "أُرْزٌ" },
+        { "w": "لِإِضَافَةِ", "lemma": "إِضَافَةٌ" },
+        { "w": "نَكْهَةٍ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "رَائِعَةٍ", "lemma": "رَائِعٌ" }
+      ]
     }
   ],
   "metadata": {

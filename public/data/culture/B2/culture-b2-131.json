@@ -7,7 +7,32 @@
       "arabic": "يَحْتَفِلُ الْعَرَبُ بِشَهْرِ رَمَضَانَ بِطُرُقٍ خَاصَّةٍ.",
       "translation": "Arapi proslavljaju mjesec ramazan na posebne načine.",
       "translationEn": "Arabs celebrate the month of Ramadan in special ways.",
-      "words": []
+      "words": [
+        {
+          "w": "يَحْتَفِلُ",
+          "lemma": "احْتَفَلَ يَحْتَفِلُ"
+        },
+        {
+          "w": "الْعَرَبُ",
+          "lemma": "عَرَبٌ"
+        },
+        {
+          "w": "بِشَهْرِ",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "رَمَضَانَ",
+          "lemma": "رَمَضَانُ"
+        },
+        {
+          "w": "بِطُرُقٍ",
+          "lemma": "طَرِيقَةٌ / طُرُقٌ"
+        },
+        {
+          "w": "خَاصَّةٍ",
+          "lemma": "خَاصٌّ"
+        }
+      ]
     },
     {
       "arabic": "تَجْتَمِعُ الْعَائِلَاتُ عَلَى مَائِدَةِ الإِفْطَارِ كُلَّ يَوْمٍ عِنْدَ الْغُرُوبِ.",
@@ -15,12 +40,36 @@
       "translationEn": "Families gather at the iftar table every day at sunset.",
       "words": [
         {
+          "w": "تَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الْعَائِلَاتُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "مَائِدَةِ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "الإِفْطَارِ",
+          "lemma": "إِفْطَارٌ"
+        },
+        {
           "w": "كُلَّ",
           "lemma": "كُلٌّ"
         },
         {
+          "w": "يَوْمٍ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
           "w": "عِنْدَ",
           "lemma": "عِنْدَ"
+        },
+        {
+          "w": "الْغُرُوبِ",
+          "lemma": "غُرُوبٌ"
         }
       ]
     },
@@ -28,19 +77,82 @@
       "arabic": "تَمْتَلِئُ الشَّوَارِعُ بِالزِّينَةِ وَالأَضْوَاءِ الْمُلَوَّنَةِ.",
       "translation": "Ulice su ispunjene ukrasima i šarenim svjetlima.",
       "translationEn": "The streets fill with decorations and colourful lights.",
-      "words": []
+      "words": [
+        {
+          "w": "تَمْتَلِئُ",
+          "lemma": "امْتَلَأَ يَمْتَلِئُ"
+        },
+        {
+          "w": "الشَّوَارِعُ",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        },
+        {
+          "w": "بِالزِّينَةِ",
+          "lemma": "زِينَةٌ"
+        },
+        {
+          "w": "وَالأَضْوَاءِ",
+          "lemma": "ضَوْءٌ / أَضْوَاءٌ"
+        },
+        {
+          "w": "الْمُلَوَّنَةِ",
+          "lemma": "مُلَوَّنٌ"
+        }
+      ]
     },
     {
       "arabic": "يَقْرَأُ النَّاسُ الْقُرْآنَ وَيَتَصَدَّقُونَ عَلَى الْفُقَرَاءِ.",
       "translation": "Ljudi čitaju Kuran i daju sadaku siromašnima.",
       "translationEn": "People read the Quran and give charity to the poor.",
-      "words": []
+      "words": [
+        {
+          "w": "يَقْرَأُ",
+          "lemma": "قَرَأَ يَقْرَأُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "الْقُرْآنَ",
+          "lemma": "قُرْآنٌ"
+        },
+        {
+          "w": "وَيَتَصَدَّقُونَ",
+          "lemma": "تَصَدَّقَ يَتَصَدَّقُ"
+        },
+        {
+          "w": "الْفُقَرَاءِ",
+          "lemma": "فَقِيرٌ / فُقَرَاءُ"
+        }
+      ]
     },
     {
       "arabic": "شَهْرُ رَمَضَانَ وَقْتٌ لِلتَّقَرُّبِ مِنَ اللَّهِ وَمِنَ الأَهْلِ.",
       "translation": "Ramazan je vrijeme za zbližavanje s Bogom i porodicom.",
       "translationEn": "Ramadan is a time for drawing closer to God and to family.",
-      "words": []
+      "words": [
+        {
+          "w": "شَهْرُ",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "رَمَضَانَ",
+          "lemma": "رَمَضَانُ"
+        },
+        {
+          "w": "وَقْتٌ",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "لِلتَّقَرُّبِ",
+          "lemma": "تَقَرُّبٌ"
+        },
+        {
+          "w": "الأَهْلِ",
+          "lemma": "أَهْلٌ / أَهَالٍ"
+        }
+      ]
     }
   ],
   "metadata": {

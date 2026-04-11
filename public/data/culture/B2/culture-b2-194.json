@@ -4,29 +4,155 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَوْمُ الْجُمُعَةِ هُوَ يَوْمٌ مُمَيَّزٌ لِلْعَائِلَةِ الْعَرَبِيَّةِ.",
+      "arabic": "يَوْمُ الْجُمُعَةِ هُوَ يَوْمٌ مُمَيَّزٌ لِلْعَائِلَةِ الْعَرَبِيَّةِ.",
       "translation": "Petak je poseban dan za arapsku porodicu.",
-      "translationEn": "Friday is a special day for the Arab family."
+      "translationEn": "Friday is a special day for the Arab family.",
+      "words": [
+        {
+          "w": "يَوْمُ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "الْجُمُعَةِ",
+          "lemma": "جُمُعَةٌ / جُمُعَاتٌ"
+        },
+        {
+          "w": "يَوْمٌ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "مُمَيَّزٌ",
+          "lemma": "مُمَيَّزٌ"
+        },
+        {
+          "w": "لِلْعَائِلَةِ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "يَذْهَبُ الرِّجَالُ وَالْأَطْفَالُ إِلَى الْمَسْجِدِ لِأَدَاءِ الصَّلَاةِ.",
+      "arabic": "يَذْهَبُ الرِّجَالُ وَالْأَطْفَالُ إِلَى الْمَسْجِدِ لِأَدَاءِ الصَّلَاةِ.",
       "translation": "Muškarci i djeca idu u džamiju na molitvu.",
-      "translationEn": "Men and children go to the mosque to perform prayers."
+      "translationEn": "Men and children go to the mosque to perform prayers.",
+      "words": [
+        {
+          "w": "يَذْهَبُ",
+          "lemma": "ذَهَبَ يَذْهَبُ"
+        },
+        {
+          "w": "الرِّجَالُ",
+          "lemma": "رَجُلٌ / رِجَالٌ"
+        },
+        {
+          "w": "وَالْأَطْفَالُ",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "لِأَدَاءِ",
+          "lemma": "أَدَاءٌ"
+        },
+        {
+          "w": "الصَّلَاةِ",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "بَعْدَ ذَلِكَ، تَجْتَمِعُ الْعَائِلَةُ الْكَبِيرَةُ فِي بَيْتِ الْجَدِّ.",
+      "arabic": "بَعْدَ ذَلِكَ، تَجْتَمِعُ الْعَائِلَةُ الْكَبِيرَةُ فِي بَيْتِ الْجَدِّ.",
       "translation": "Nakon toga, proširena porodica se okuplja u djedovoj kući.",
-      "translationEn": "After that, the extended family gathers at the grandfather's house."
+      "translationEn": "After that, the extended family gathers at the grandfather's house.",
+      "words": [
+        {
+          "w": "تَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "الْكَبِيرَةُ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "بَيْتِ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "الْجَدِّ",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَتَنَاوَلُ الْجَمِيعُ طَعَامَ الْغَدَاءِ وَيَتَحَدَّثُونَ عَنْ أَخْبَارِ الْأُسْبُوعِ.",
+      "arabic": "يَتَنَاوَلُ الْجَمِيعُ طَعَامَ الْغَدَاءِ وَيَتَحَدَّثُونَ عَنْ أَخْبَارِ الْأُسْبُوعِ.",
       "translation": "Svi ručaju i razgovaraju o novostima iz protekle sedmice.",
-      "translationEn": "Everyone has lunch and talks about the week's news."
+      "translationEn": "Everyone has lunch and talks about the week's news.",
+      "words": [
+        {
+          "w": "يَتَنَاوَلُ",
+          "lemma": "تَنَاوَلَ يَتَنَاوَلُ"
+        },
+        {
+          "w": "الْجَمِيعُ",
+          "lemma": "جَمِيعٌ"
+        },
+        {
+          "w": "طَعَامَ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْغَدَاءِ",
+          "lemma": "غَدَاءٌ"
+        },
+        {
+          "w": "وَيَتَحَدَّثُونَ",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "أَخْبَارِ",
+          "lemma": "خَبَرٌ / أَخْبَارٌ"
+        },
+        {
+          "w": "الْأُسْبُوعِ",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
+      ]
     },
     {
-      "arabic": "تُقَوِّي هَذِهِ الِاجْتِمَاعَاتُ الرَّوَابِطَ الْأُسَرِيَّةَ بَيْنَ الْأَجْيَالِ.",
+      "arabic": "تُقَوِّي هَذِهِ الِاجْتِمَاعَاتُ الرَّوَابِطَ الْأُسَرِيَّةَ بَيْنَ الْأَجْيَالِ.",
       "translation": "Ovi sastanci jačaju porodične veze između generacija.",
-      "translationEn": "These gatherings strengthen family bonds between generations."
+      "translationEn": "These gatherings strengthen family bonds between generations.",
+      "words": [
+        {
+          "w": "تُقَوِّي",
+          "lemma": "قَوَّى يُقَوِّي"
+        },
+        {
+          "w": "الِاجْتِمَاعَاتُ",
+          "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ"
+        },
+        {
+          "w": "الرَّوَابِطَ",
+          "lemma": "رَابِطَةٌ / رَوَابِطُ"
+        },
+        {
+          "w": "الْأُسَرِيَّةَ",
+          "lemma": "أُسَرِيٌّ"
+        },
+        {
+          "w": "الْأَجْيَالِ",
+          "lemma": "جِيلٌ / أَجْيَالٌ"
+        }
+      ]
     }
   ],
   "metadata": {

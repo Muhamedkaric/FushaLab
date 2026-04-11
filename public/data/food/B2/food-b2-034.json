@@ -4,29 +4,106 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَعْتَمِدُ الْمَائِدَةُ الْعَرَبِيَّةُ فِي كَثِيرٍ مِنَ الْأَحْيَانِ عَلَى مَبَادِئِ النِّظَامِ الْغِذَائِيِّ لِحَوْضِ الْمُتَوَسِّطِ، الَّذِي يَمْتَازُ بِفَوَائِدِهِ الصِّحِّيَّةِ الْجَمَّةِ.",
+      "arabic": "تَعْتَمِدُ الْمَائِدَةُ الْعَرَبِيَّةُ فِي كَثِيرٍ مِنَ الْأَحْيَانِ عَلَى مَبَادِئِ النِّظَامِ الْغِذَائِيِّ لِحَوْضِ الْمُتَوَسِّطِ، الَّذِي يَمْتَازُ بِفَوَائِدِهِ الصِّحِّيَّةِ الْجَمَّةِ.",
       "translation": "Arapska trpeza se često oslanja na principe mediteranske ishrane, koja se odlikuje svojim brojnim zdravstvenim prednostima.",
-      "translationEn": "The Arab table often relies on the principles of the Mediterranean diet, which is characterized by its numerous health benefits."
+      "translationEn": "The Arab table often relies on the principles of the Mediterranean diet, which is characterized by its numerous health benefits.",
+      "words": [
+        { "w": "تَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "الْمَائِدَةُ", "lemma": "مَائِدَةٌ / مَوَائِدُ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "مَبَادِئِ", "lemma": "مَبْدَأٌ / مَبَادِئُ" },
+        { "w": "النِّظَامِ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "الْغِذَائِيِّ", "lemma": "غِذَائِيٌّ" },
+        { "w": "لِحَوْضِ", "lemma": "حَوْضٌ / أَحْوَاضٌ" },
+        { "w": "الْمُتَوَسِّطِ", "lemma": "مُتَوَسِّطٌ" },
+        { "w": "يَمْتَازُ", "lemma": "امْتَازَ يَمْتَازُ" },
+        { "w": "بِفَوَائِدِهِ", "lemma": "فَائِدَةٌ / فَوَائِدُ" },
+        { "w": "الصِّحِّيَّةِ", "lemma": "صِحِّيٌّ" },
+        { "w": "الْجَمَّةِ", "lemma": "جَمٌّ" }
+      ]
     },
     {
-      "arabic": "يَلْعَبُ زَيْتُ الزَّيْتُونِ الْبِكْرُ دَوْراً مِحْوَرِيّاً فِي تَحْضِيرِ الْأَطْبَاقِ، إِذْ يُعَدُّ مَصْدَراً غَنِيّاً بِالدُّهُونِ الصِّحِّيَّةِ الْمُفِيدَةِ لِلْقَلْبِ.",
+      "arabic": "يَلْعَبُ زَيْتُ الزَّيْتُونِ الْبِكْرُ دَوْراً مِحْوَرِيّاً فِي تَحْضِيرِ الْأَطْبَاقِ، إِذْ يُعَدُّ مَصْدَراً غَنِيّاً بِالدُّهُونِ الصِّحِّيَّةِ الْمُفِيدَةِ لِلْقَلْبِ.",
       "translation": "Djevičansko maslinovo ulje igra ključnu ulogu u pripremi jela, jer se smatra bogatim izvorom zdravih masti korisnih za srce.",
-      "translationEn": "Virgin olive oil plays a pivotal role in preparing dishes, as it is considered a rich source of healthy fats beneficial for the heart."
+      "translationEn": "Virgin olive oil plays a pivotal role in preparing dishes, as it is considered a rich source of healthy fats beneficial for the heart.",
+      "words": [
+        { "w": "يَلْعَبُ", "lemma": "لَعِبَ يَلْعَبُ" },
+        { "w": "زَيْتُ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "الْبِكْرُ", "lemma": "بِكْرٌ" },
+        { "w": "دَوْراً", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "مِحْوَرِيّاً", "lemma": "مِحْوَرِيٌّ" },
+        { "w": "تَحْضِيرِ", "lemma": "تَحْضِيرٌ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "مَصْدَراً", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "غَنِيّاً", "lemma": "غَنِيٌّ" },
+        { "w": "بِالدُّهُونِ", "lemma": "دُهْنٌ / دُهُونٌ" },
+        { "w": "الصِّحِّيَّةِ", "lemma": "صِحِّيٌّ" },
+        { "w": "الْمُفِيدَةِ", "lemma": "مُفِيدٌ" },
+        { "w": "لِلْقَلْبِ", "lemma": "قَلْبٌ / قُلُوبٌ" }
+      ]
     },
     {
-      "arabic": "كَمَا تَمْنَحُ الْبُقُولِيَّاتُ مِثْلُ الْعَدَسِ وَالْحِمِّصِ قِيمَةً غِذَائِيَّةً عَالِيَةً لِلْوَجَبَاتِ، نَظَراً لِاحْتِوَائِهَا عَلَى نِسَبٍ كَبِيرَةٍ مِنَ الْأَلْيَافِ وَالْبُرُوتِينَاتِ النَّبَاتِيَّةِ.",
+      "arabic": "كَمَا تَمْنَحُ الْبُقُولِيَّاتُ مِثْلُ الْعَدَسِ وَالْحِمِّصِ قِيمَةً غِذَائِيَّةً عَالِيَةً لِلْوَجَبَاتِ، نَظَراً لِاحْتِوَائِهَا عَلَى نِسَبٍ كَبِيرَةٍ مِنَ الْأَلْيَافِ وَالْبُرُوتِينَاتِ النَّبَاتِيَّةِ.",
       "translation": "Također, mahunarke poput leće i leblebije daju visoku nutritivnu vrijednost obrocima, s obzirom na to da sadrže visok procenat vlakana i biljnih proteina.",
-      "translationEn": "Legumes such as lentils and chickpeas also provide high nutritional value to meals, given their high content of fiber and plant proteins."
+      "translationEn": "Legumes such as lentils and chickpeas also provide high nutritional value to meals, given their high content of fiber and plant proteins.",
+      "words": [
+        { "w": "تَمْنَحُ", "lemma": "مَنَحَ يَمْنَحُ" },
+        { "w": "الْبُقُولِيَّاتُ", "lemma": "بُقُولِيَّاتٌ" },
+        { "w": "الْعَدَسِ", "lemma": "عَدَسٌ" },
+        { "w": "وَالْحِمِّصِ", "lemma": "حِمِّصٌ" },
+        { "w": "قِيمَةً", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "غِذَائِيَّةً", "lemma": "غِذَائِيٌّ" },
+        { "w": "عَالِيَةً", "lemma": "عَالٍ" },
+        { "w": "لِلْوَجَبَاتِ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "لِاحْتِوَائِهَا", "lemma": "احْتِوَاءٌ" },
+        { "w": "نِسَبٍ", "lemma": "نِسْبَةٌ / نِسَبٌ" },
+        { "w": "الْأَلْيَافِ", "lemma": "لِيفٌ / أَلْيَافٌ" },
+        { "w": "وَالْبُرُوتِينَاتِ", "lemma": "بُرُوتِينٌ / بُرُوتِينَاتٌ" },
+        { "w": "النَّبَاتِيَّةِ", "lemma": "نَبَاتِيٌّ" }
+      ]
     },
     {
-      "arabic": "يُنْصَحُ دَائِماً بِتَنَاوُلِ الْخُضْرَوَاتِ الطَّازِجَةِ وَالْأَعْشَابِ الْعِطْرِيَّةِ كَالْبَقْدُونِسِ وَالنَّعْنَاعِ لِتَعْزِيزِ جَهَازِ الْمَنَاعَةِ وَتَحْسِينِ الْهَضْمِ.",
+      "arabic": "يُنْصَحُ دَائِماً بِتَنَاوُلِ الْخُضْرَوَاتِ الطَّازِجَةِ وَالْأَعْشَابِ الْعِطْرِيَّةِ كَالْبَقْدُونِسِ وَالنَّعْنَاعِ لِتَعْزِيزِ جَهَازِ الْمَنَاعَةِ وَتَحْسِينِ الْهَضْمِ.",
       "translation": "Uvijek se preporučuje konzumiranje svježeg povrća i aromatičnog bilja poput peršuna i mente radi jačanja imunološkog sistema i poboljšanja probave.",
-      "translationEn": "It is always recommended to consume fresh vegetables and aromatic herbs like parsley and mint to boost the immune system and improve digestion."
+      "translationEn": "It is always recommended to consume fresh vegetables and aromatic herbs like parsley and mint to boost the immune system and improve digestion.",
+      "words": [
+        { "w": "يُنْصَحُ", "lemma": "نَصَحَ يَنْصَحُ" },
+        { "w": "بِتَنَاوُلِ", "lemma": "تَنَاوُلٌ" },
+        { "w": "الْخُضْرَوَاتِ", "lemma": "خَضْرَاوَاتٌ" },
+        { "w": "الطَّازِجَةِ", "lemma": "طَازَجٌ" },
+        { "w": "وَالْأَعْشَابِ", "lemma": "عُشْبٌ / أَعْشَابٌ" },
+        { "w": "الْعِطْرِيَّةِ", "lemma": "عِطْرِيٌّ" },
+        { "w": "كَالْبَقْدُونِسِ", "lemma": "بَقْدُونِسٌ" },
+        { "w": "وَالنَّعْنَاعِ", "lemma": "نَعْنَاعٌ" },
+        { "w": "لِتَعْزِيزِ", "lemma": "تَعْزِيزٌ" },
+        { "w": "جَهَازِ", "lemma": "جَهَازٌ / أَجْهِزَةٌ" },
+        { "w": "الْمَنَاعَةِ", "lemma": "مَنَاعَةٌ" },
+        { "w": "وَتَحْسِينِ", "lemma": "تَحْسِينٌ" },
+        { "w": "الْهَضْمِ", "lemma": "هَضْمٌ" }
+      ]
     },
     {
-      "arabic": "إِنَّ التَّوَازُنَ بَيْنَ الْمُكَوِّنَاتِ الطَّبِيعِيَّةِ وَطُرُقِ الطَّهْيِ الْبَسِيطَةِ يَجْعَلُ مِنَ الْمَطْبَخِ الْعَرَبِيِّ خِيَاراً مِثَالِيّاً لِمَنْ يَبْحَثُونَ عَنْ نَمَطِ حَيَاةٍ صِحِّيٍّ.",
+      "arabic": "إِنَّ التَّوَازُنَ بَيْنَ الْمُكَوِّنَاتِ الطَّبِيعِيَّةِ وَطُرُقِ الطَّهْيِ الْبَسِيطَةِ يَجْعَلُ مِنَ الْمَطْبَخِ الْعَرَبِيِّ خِيَاراً مِثَالِيّاً لِمَنْ يَبْحَثُونَ عَنْ نَمَطِ حَيَاةٍ صِحِّيٍّ.",
       "translation": "Ravnoteža između prirodnih sastojaka i jednostavnih načina kuhanja čini arapsku kuhinju idealnim izborom za one koji traže zdrav način života.",
-      "translationEn": "The balance between natural ingredients and simple cooking methods makes Arab cuisine an ideal choice for those seeking a healthy lifestyle."
+      "translationEn": "The balance between natural ingredients and simple cooking methods makes Arab cuisine an ideal choice for those seeking a healthy lifestyle.",
+      "words": [
+        { "w": "التَّوَازُنَ", "lemma": "تَوَازُنٌ" },
+        { "w": "الْمُكَوِّنَاتِ", "lemma": "مُكَوِّنٌ / مُكَوِّنَاتٌ" },
+        { "w": "الطَّبِيعِيَّةِ", "lemma": "طَبِيعِيٌّ" },
+        { "w": "وَطُرُقِ", "lemma": "طَرِيقٌ / طُرُقٌ" },
+        { "w": "الطَّهْيِ", "lemma": "طَهْيٌ" },
+        { "w": "الْبَسِيطَةِ", "lemma": "بَسِيطٌ" },
+        { "w": "يَجْعَلُ", "lemma": "جَعَلَ يَجْعَلُ" },
+        { "w": "الْمَطْبَخِ", "lemma": "مَطْبَخٌ / مَطَابِخُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "خِيَاراً", "lemma": "خِيَارٌ / خِيَارَاتٌ" },
+        { "w": "مِثَالِيّاً", "lemma": "مِثَالِيٌّ" },
+        { "w": "يَبْحَثُونَ", "lemma": "بَحَثَ يَبْحَثُ" },
+        { "w": "نَمَطِ", "lemma": "نَمَطٌ / أَنْمَاطٌ" },
+        { "w": "حَيَاةٍ", "lemma": "حَيَاةٌ" },
+        { "w": "صِحِّيٍّ", "lemma": "صِحِّيٌّ" }
+      ]
     }
   ],
   "metadata": {

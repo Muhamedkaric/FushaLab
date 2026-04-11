@@ -6,17 +6,40 @@
     {
       "arabic": "ذَهَبْنَا إِلَى مَطْعَمٍ لُبْنَانِيٍّ فِي اللَّيْلَةِ الْمَاضِيَةِ.",
       "translation": "Sinoć smo otišli u jedan libanski restoran.",
-      "translationEn": "We went to a Lebanese restaurant last night."
+      "translationEn": "We went to a Lebanese restaurant last night.",
+      "words": [
+        { "w": "ذَهَبْنَا", "lemma": "ذَهَبَ يَذْهَبُ" },
+        { "w": "مَطْعَمٍ", "lemma": "مَطْعَمٌ / مَطَاعِمُ" },
+        { "w": "لُبْنَانِيٍّ", "lemma": "لُبْنَانِيٌّ" },
+        { "w": "اللَّيْلَةِ", "lemma": "لَيْلَةٌ / لَيَالٍ" },
+        { "w": "الْمَاضِيَةِ", "lemma": "مَاضٍ" }
+      ]
     },
     {
       "arabic": "أَحْضَرَ لَنَا النَّادِلُ قَائِمَةَ الطَّعَامِ مَعَ خِيَارَاتٍ كَثِيرَةٍ.",
       "translation": "Konobar nam je donio jelovnik sa mnogo opcija.",
-      "translationEn": "The waiter brought us the menu with many options."
+      "translationEn": "The waiter brought us the menu with many options.",
+      "words": [
+        { "w": "أَحْضَرَ", "lemma": "أَحْضَرَ يُحْضِرُ" },
+        { "w": "النَّادِلُ", "lemma": "نَادِلٌ / نَادِلُونَ" },
+        { "w": "قَائِمَةَ", "lemma": "قَائِمَةٌ / قَوَائِمُ" },
+        { "w": "الطَّعَامِ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "خِيَارَاتٍ", "lemma": "خِيَارٌ / خِيَارَاتٌ" }
+      ]
     },
     {
       "arabic": "طَلَبْتُ الْكَبَابَ الْمَشْوِيَّ وَاخْتَارَ صَدِيقِي حِسَاءَ الْخُضْرَاوَاتِ.",
       "translation": "Naručio sam grilovani kebab, a moj prijatelj je izabrao supu od povrća.",
-      "translationEn": "I ordered grilled kebab and my friend chose vegetable soup."
+      "translationEn": "I ordered grilled kebab and my friend chose vegetable soup.",
+      "words": [
+        { "w": "طَلَبْتُ", "lemma": "طَلَبَ يَطْلُبُ" },
+        { "w": "الْكَبَابَ", "lemma": "كَبَابٌ" },
+        { "w": "الْمَشْوِيَّ", "lemma": "مَشْوِيٌّ" },
+        { "w": "وَاخْتَارَ", "lemma": "اخْتَارَ يَخْتَارُ" },
+        { "w": "صَدِيقِي", "lemma": "صَدِيقٌ / أَصْدِقَاءُ" },
+        { "w": "حِسَاءَ", "lemma": "حِسَاءٌ" },
+        { "w": "الْخُضْرَاوَاتِ", "lemma": "خَضْرَاوَاتٌ" }
+      ]
     }
   ],
   "metadata": {

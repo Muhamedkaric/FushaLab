@@ -4,29 +4,95 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَشْهَدُ الْمَنَاهِجُ التَّعْلِيمِيَّةُ فِي الْعَصْرِ الْحَدِيثِ تَحَوُّلاً جَذْرِيّاً يَهْدِفُ إِلَى دَمْجِ التِّكْنُولُوجِيَا فِي صُلْبِ الْعَمَلِيَّةِ الدِّرَاسِيَّةِ.",
+      "arabic": "تَشْهَدُ الْمَنَاهِجُ التَّعْلِيمِيَّةُ فِي الْعَصْرِ الْحَدِيثِ تَحَوُّلاً جَذْرِيّاً يَهْدِفُ إِلَى دَمْجِ التِّكْنُولُوجِيَا فِي صُلْبِ الْعَمَلِيَّةِ الدِّرَاسِيَّةِ.",
       "translation": "Obrazovni planovi i programi u modernom dobu prolaze kroz radikalnu transformaciju koja ima za cilj integraciju tehnologije u srž obrazovnog procesa.",
-      "translationEn": "Educational curricula in the modern era are undergoing a radical transformation aiming to integrate technology into the core of the study process."
+      "translationEn": "Educational curricula in the modern era are undergoing a radical transformation aiming to integrate technology into the core of the study process.",
+      "words": [
+        { "w": "تَشْهَدُ", "lemma": "شَهِدَ يَشْهَدُ" },
+        { "w": "الْمَنَاهِجُ", "lemma": "مَنْهَجٌ / مَنَاهِجُ" },
+        { "w": "التَّعْلِيمِيَّةُ", "lemma": "تَعْلِيمِيٌّ" },
+        { "w": "الْعَصْرِ", "lemma": "عَصْرٌ / عُصُورٌ" },
+        { "w": "الْحَدِيثِ", "lemma": "حَدِيثٌ" },
+        { "w": "تَحَوُّلاً", "lemma": "تَحَوُّلٌ / تَحَوُّلَاتٌ" },
+        { "w": "جَذْرِيّاً", "lemma": "جَذْرِيٌّ" },
+        { "w": "يَهْدِفُ", "lemma": "هَدَفَ يَهْدِفُ" },
+        { "w": "دَمْجِ", "lemma": "دَمْجٌ" },
+        { "w": "التِّكْنُولُوجِيَا", "lemma": "تِكْنُولُوجِيَا" },
+        { "w": "صُلْبِ", "lemma": "صُلْبٌ" },
+        { "w": "الْعَمَلِيَّةِ", "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ" },
+        { "w": "الدِّرَاسِيَّةِ", "lemma": "دِرَاسِيٌّ" }
+      ]
     },
     {
-      "arabic": "لَمْ تَعُدْ طُرُقُ التَّلْقِينِ التَّقْلِيدِيَّةُ كَافِيَةً لِتَلْبِيَةِ احْتِيَاجَاتِ سُوقِ الْعَمَلِ الَّذِي يَتَطَلَّبُ مَهَارَاتٍ تِقْنِيَّةً وَتَحْلِيلِيَّةً عَالِيَةً.",
+      "arabic": "لَمْ تَعُدْ طُرُقُ التَّلْقِينِ التَّقْلِيدِيَّةُ كَافِيَةً لِتَلْبِيَةِ احْتِيَاجَاتِ سُوقِ الْعَمَلِ الَّذِي يَتَطَلَّبُ مَهَارَاتٍ تِقْنِيَّةً وَتَحْلِيلِيَّةً عَالِيَةً.",
       "translation": "Tradicionalne metode podučavanja više nisu dovoljne da zadovolje potrebe tržišta rada koje zahtijeva visoke tehničke i analitičke vještine.",
-      "translationEn": "Traditional rote learning methods are no longer sufficient to meet the needs of a labor market that requires high technical and analytical skills."
+      "translationEn": "Traditional rote learning methods are no longer sufficient to meet the needs of a labor market that requires high technical and analytical skills.",
+      "words": [
+        { "w": "طُرُقُ", "lemma": "طَرِيقٌ / طُرُقٌ" },
+        { "w": "التَّلْقِينِ", "lemma": "تَلْقِينٌ" },
+        { "w": "التَّقْلِيدِيَّةُ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "كَافِيَةً", "lemma": "كَافٍ" },
+        { "w": "لِتَلْبِيَةِ", "lemma": "تَلْبِيَةٌ" },
+        { "w": "احْتِيَاجَاتِ", "lemma": "اِحْتِيَاجٌ / اِحْتِيَاجَاتٌ" },
+        { "w": "سُوقِ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "الْعَمَلِ", "lemma": "عَمَلٌ / أَعْمَالٌ" },
+        { "w": "يَتَطَلَّبُ", "lemma": "تَطَلَّبَ يَتَطَلَّبُ" },
+        { "w": "مَهَارَاتٍ", "lemma": "مَهَارَةٌ / مَهَارَاتٌ" },
+        { "w": "تِقْنِيَّةً", "lemma": "تِقْنِيٌّ" },
+        { "w": "وَتَحْلِيلِيَّةً", "lemma": "تَحْلِيلِيٌّ" },
+        { "w": "عَالِيَةً", "lemma": "عَالٍ" }
+      ]
     },
     {
-      "arabic": "لِذَا، تَسْعَى الْجَامِعَاتُ لِتَحْدِيثِ بَرَامِجِهَا لِتَشْمَلَ مَوَاضِيعَ مُعَاصِرَةً مِثْلَ الذَّكَاءِ الِاصْطِنَاعِيِّ وَالِاسْتِدَامَةِ الْبِيئِيَّةِ.",
+      "arabic": "لِذَا، تَسْعَى الْجَامِعَاتُ لِتَحْدِيثِ بَرَامِجِهَا لِتَشْمَلَ مَوَاضِيعَ مُعَاصِرَةً مِثْلَ الذَّكَاءِ الِاصْطِنَاعِيِّ وَالِاسْتِدَامَةِ الْبِيئِيَّةِ.",
       "translation": "Zato univerziteti nastoje modernizovati svoje programe kako bi uključili savremene teme poput vještačke inteligencije i ekološke održivosti.",
-      "translationEn": "Therefore, universities seek to update their programs to include contemporary topics such as artificial intelligence and environmental sustainability."
+      "translationEn": "Therefore, universities seek to update their programs to include contemporary topics such as artificial intelligence and environmental sustainability.",
+      "words": [
+        { "w": "تَسْعَى", "lemma": "سَعَى يَسْعَى" },
+        { "w": "الْجَامِعَاتُ", "lemma": "جَامِعَةٌ / جَامِعَاتٌ" },
+        { "w": "لِتَحْدِيثِ", "lemma": "تَحْدِيثٌ" },
+        { "w": "بَرَامِجِهَا", "lemma": "بَرْنَامَجٌ / بَرَامِجُ" },
+        { "w": "لِتَشْمَلَ", "lemma": "شَمِلَ يَشْمَلُ" },
+        { "w": "مَوَاضِيعَ", "lemma": "مَوْضُوعٌ / مَوَاضِيعُ" },
+        { "w": "مُعَاصِرَةً", "lemma": "مُعَاصِرٌ" },
+        { "w": "الذَّكَاءِ", "lemma": "ذَكَاءٌ" },
+        { "w": "الِاصْطِنَاعِيِّ", "lemma": "اِصْطِنَاعِيٌّ" },
+        { "w": "وَالِاسْتِدَامَةِ", "lemma": "اِسْتِدَامَةٌ" },
+        { "w": "الْبِيئِيَّةِ", "lemma": "بِيئِيٌّ" }
+      ]
     },
     {
-      "arabic": "وَمِنْ شَأْنِ هَذَا التَّطْوِيرِ أَنْ يَجْعَلَ التَّعْلِيمَ أَكْثَرَ مُرُونَةً وَاسْتِجَابَةً لِالتَّحَدِّيَاتِ الْعَالَمِيَّةِ الْمُتَسَارِعَةِ الَّتِي نُوَاجِهُهَا الْيَوْمَ.",
+      "arabic": "وَمِنْ شَأْنِ هَذَا التَّطْوِيرِ أَنْ يَجْعَلَ التَّعْلِيمَ أَكْثَرَ مُرُونَةً وَاسْتِجَابَةً لِالتَّحَدِّيَاتِ الْعَالَمِيَّةِ الْمُتَسَارِعَةِ الَّتِي نُوَاجِهُهَا الْيَوْمَ.",
       "translation": "Ovaj razvoj će učiniti obrazovanje fleksibilnijim i spremnijim da odgovori na ubrzane globalne izazove s kojima se danas suočavamo.",
-      "translationEn": "This development would make education more flexible and responsive to the rapid global challenges we face today."
+      "translationEn": "This development would make education more flexible and responsive to the rapid global challenges we face today.",
+      "words": [
+        { "w": "شَأْنِ", "lemma": "شَأْنٌ / شُؤُونٌ" },
+        { "w": "التَّطْوِيرِ", "lemma": "تَطْوِيرٌ" },
+        { "w": "يَجْعَلَ", "lemma": "جَعَلَ يَجْعَلُ" },
+        { "w": "التَّعْلِيمَ", "lemma": "تَعْلِيمٌ" },
+        { "w": "مُرُونَةً", "lemma": "مُرُونَةٌ" },
+        { "w": "وَاسْتِجَابَةً", "lemma": "اِسْتِجَابَةٌ" },
+        { "w": "لِالتَّحَدِّيَاتِ", "lemma": "تَحَدٍّ / تَحَدِّيَاتٌ" },
+        { "w": "الْعَالَمِيَّةِ", "lemma": "عَالَمِيٌّ" },
+        { "w": "الْمُتَسَارِعَةِ", "lemma": "مُتَسَارِعٌ" },
+        { "w": "نُوَاجِهُهَا", "lemma": "وَاجَهَ يُوَاجِهُ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الِاسْتِثْمَارَ فِي جَوْدَةِ الْمَنَاهِجِ هُوَ اسْتِثْمَارٌ فِي عُقُولِ الشَّبَابِ الَّذِينَ سَيَقُودُونَ مُسْتَقْبَلَ الْأُمَمِ.",
+      "arabic": "إِنَّ الِاسْتِثْمَارَ فِي جَوْدَةِ الْمَنَاهِجِ هُوَ اسْتِثْمَارٌ فِي عُقُولِ الشَّبَابِ الَّذِينَ سَيَقُودُونَ مُسْتَقْبَلَ الْأُمَمِ.",
       "translation": "Ulaganje u kvalitet nastavnih planova je ulaganje u umove mladih koji će voditi budućnost naroda.",
-      "translationEn": "Investing in the quality of curricula is an investment in the minds of the youth who will lead the future of nations."
+      "translationEn": "Investing in the quality of curricula is an investment in the minds of the youth who will lead the future of nations.",
+      "words": [
+        { "w": "الِاسْتِثْمَارَ", "lemma": "اِسْتِثْمَارٌ" },
+        { "w": "جَوْدَةِ", "lemma": "جَوْدَةٌ" },
+        { "w": "الْمَنَاهِجِ", "lemma": "مَنْهَجٌ / مَنَاهِجُ" },
+        { "w": "اسْتِثْمَارٌ", "lemma": "اِسْتِثْمَارٌ" },
+        { "w": "عُقُولِ", "lemma": "عَقْلٌ / عُقُولٌ" },
+        { "w": "الشَّبَابِ", "lemma": "شَبَابٌ" },
+        { "w": "سَيَقُودُونَ", "lemma": "قَادَ يَقُودُ" },
+        { "w": "مُسْتَقْبَلَ", "lemma": "مُسْتَقْبَلٌ" },
+        { "w": "الْأُمَمِ", "lemma": "أُمَّةٌ / أُمَمٌ" }
+      ]
     }
   ],
   "metadata": {

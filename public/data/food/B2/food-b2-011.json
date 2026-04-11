@@ -4,19 +4,93 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ الْفُطُورُ الْعَرَبِيُّ صِحِّيًّا وَخَفِيفًا لِلْغَايَةِ.",
+      "arabic": "يُعْتَبَرُ الْفُطُورُ الْعَرَبِيُّ صِحِّيًّا وَخَفِيفًا لِلْغَايَةِ.",
       "translation": "Arapski doručak se smatra veoma zdravim i laganim.",
-      "translationEn": "Arab breakfast is considered very healthy and light."
+      "translationEn": "Arab breakfast is considered very healthy and light.",
+      "words": [
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "الْفُطُورُ",
+          "lemma": "فُطُورٌ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "صِحِّيًّا",
+          "lemma": "صِحِّيٌّ"
+        },
+        {
+          "w": "وَخَفِيفًا",
+          "lemma": "خَفِيفٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَأْكُلُ النَّاسُ عَادَةً اللَّبْنَةَ وَالزَّيْتُونَ وَالْخُبْزَ الطَّازَجَ.",
+      "arabic": "يَأْكُلُ النَّاسُ عَادَةً اللَّبْنَةَ وَالزَّيْتُونَ وَالْخُبْزَ الطَّازَجَ.",
       "translation": "Ljudi obično jedu labne, masline i svježi hljeb.",
-      "translationEn": "People usually eat labneh, olives, and fresh bread."
+      "translationEn": "People usually eat labneh, olives, and fresh bread.",
+      "words": [
+        {
+          "w": "يَأْكُلُ",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "اللَّبْنَةَ",
+          "lemma": "لَبْنَةٌ"
+        },
+        {
+          "w": "وَالزَّيْتُونَ",
+          "lemma": "زَيْتُونٌ"
+        },
+        {
+          "w": "وَالْخُبْزَ",
+          "lemma": "خُبْزٌ"
+        },
+        {
+          "w": "الطَّازَجَ",
+          "lemma": "طَازَجٌ"
+        }
+      ]
     },
     {
-      "arabic": "كَمَا يَشْرَبُونَ الشَّايَ السَّاخِنَ بِالنَّعْنَاعِ فِي كُلِّ صَبَاحٍ.",
+      "arabic": "كَمَا يَشْرَبُونَ الشَّايَ السَّاخِنَ بِالنَّعْنَاعِ فِي كُلِّ صَبَاحٍ.",
       "translation": "Također piju vrući čaj s nanom svako jutro.",
-      "translationEn": "They also drink hot tea with mint every morning."
+      "translationEn": "They also drink hot tea with mint every morning.",
+      "words": [
+        {
+          "w": "يَشْرَبُونَ",
+          "lemma": "شَرِبَ يَشْرَبُ"
+        },
+        {
+          "w": "الشَّايَ",
+          "lemma": "شَايٌ"
+        },
+        {
+          "w": "السَّاخِنَ",
+          "lemma": "سَاخِنٌ"
+        },
+        {
+          "w": "بِالنَّعْنَاعِ",
+          "lemma": "نَعْنَاعٌ"
+        },
+        {
+          "w": "كُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "صَبَاحٍ",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
+        }
+      ]
     }
   ],
   "metadata": {

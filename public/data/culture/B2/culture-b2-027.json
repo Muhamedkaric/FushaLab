@@ -4,34 +4,314 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَتَمَيَّزُ المُوسِيقَى العَرَبِيَّةُ بِتَعَدُّدِ مَقَامَاتِهَا الشَّجِيَّةِ الَّتِي تَلْمَسُ أَعْمَاقَ الرُّوحِ وَتُعَبِّرُ عَنْ مَشَاعِرَ جَيَّاشَةٍ.",
+      "arabic": "تَتَمَيَّزُ المُوسِيقَى العَرَبِيَّةُ بِتَعَدُّدِ مَقَامَاتِهَا الشَّجِيَّةِ الَّتِي تَلْمَسُ أَعْمَاقَ الرُّوحِ وَتُعَبِّرُ عَنْ مَشَاعِرَ جَيَّاشَةٍ.",
       "translation": "Arapska muzika se odlikuje brojnim melodičnim makamima (muzičkim ljestvicama) koji dotiču dubine duše i izražavaju snažne emocije.",
-      "translationEn": "Arabic music is characterized by its numerous melodic 'maqams' that touch the depths of the soul and express intense emotions."
+      "translationEn": "Arabic music is characterized by its numerous melodic 'maqams' that touch the depths of the soul and express intense emotions.",
+      "words": [
+        {
+          "w": "تَتَمَيَّزُ",
+          "lemma": "تَمَيَّزَ يَتَمَيَّزُ"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "العَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "بِتَعَدُّدِ",
+          "lemma": "تَعَدُّدٌ"
+        },
+        {
+          "w": "مَقَامَاتِهَا",
+          "lemma": "مَقَامٌ / مَقَامَاتٌ"
+        },
+        {
+          "w": "الشَّجِيَّةِ",
+          "lemma": "شَجِيٌّ"
+        },
+        {
+          "w": "تَلْمَسُ",
+          "lemma": "لَمَسَ يَلْمَسُ"
+        },
+        {
+          "w": "أَعْمَاقَ",
+          "lemma": "عُمْقٌ / أَعْمَاقٌ"
+        },
+        {
+          "w": "الرُّوحِ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "وَتُعَبِّرُ",
+          "lemma": "عَبَّرَ يُعَبِّرُ"
+        },
+        {
+          "w": "مَشَاعِرَ",
+          "lemma": "شُعُورٌ / مَشَاعِرُ"
+        },
+        {
+          "w": "جَيَّاشَةٍ",
+          "lemma": "جَيَّاشٌ"
+        }
+      ]
     },
     {
-      "arabic": "يُعْتَبَرُ العُودُ \"سُلْطَانَ الآلَاتِ\"، فَبِأَوْتَارِهِ السَّاحِرَةِ يَنْسِجُ أَلْحَانًا تَحْكِي قِصَصَ التَّارِيخِ وَالأَمْجَادِ.",
+      "arabic": "يُعْتَبَرُ العُودُ \"سُلْطَانَ الآلَاتِ\"، فَبِأَوْتَارِهِ السَّاحِرَةِ يَنْسِجُ أَلْحَانًا تَحْكِي قِصَصَ التَّارِيخِ وَالأَمْجَادِ.",
       "translation": "Ud se smatra 'kraljem instrumenata', jer svojim čarobnim žicama tka melodije koje pričaju priče o historiji i slavi.",
-      "translationEn": "The Oud is considered the 'Sultan of instruments,' weaving melodies with its magical strings that tell stories of history and glory."
+      "translationEn": "The Oud is considered the 'Sultan of instruments,' weaving melodies with its magical strings that tell stories of history and glory.",
+      "words": [
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "العُودُ",
+          "lemma": "عُودٌ / أَعْوَادٌ"
+        },
+        {
+          "w": "سُلْطَانَ",
+          "lemma": "سُلْطَانٌ / سَلَاطِينُ"
+        },
+        {
+          "w": "الآلَاتِ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "فَبِأَوْتَارِهِ",
+          "lemma": "وَتَرٌ / أَوْتَارٌ"
+        },
+        {
+          "w": "السَّاحِرَةِ",
+          "lemma": "سَاحِرٌ"
+        },
+        {
+          "w": "يَنْسِجُ",
+          "lemma": "نَسَجَ يَنْسِجُ"
+        },
+        {
+          "w": "أَلْحَانًا",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "تَحْكِي",
+          "lemma": "حَكَى يَحْكِي"
+        },
+        {
+          "w": "قِصَصَ",
+          "lemma": "قِصَّةٌ / قِصَصٌ"
+        },
+        {
+          "w": "التَّارِيخِ",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        },
+        {
+          "w": "وَالأَمْجَادِ",
+          "lemma": "مَجْدٌ / أَمْجَادٌ"
+        }
+      ]
     },
     {
-      "arabic": "لَا تَعْتَمِدُ هَذِهِ المُوسِيقَى عَلَى التَّنَاغُمِ الصَّوْتِيِّ الغَرْبِيِّ، بَلْ تُرَكِّزُ عَلَى المِيلُودِيَا وَالارْتِجَالِ الَّذِي يُظْهِرُ بَرَاعَةَ العَازِفِ.",
+      "arabic": "لَا تَعْتَمِدُ هَذِهِ المُوسِيقَى عَلَى التَّنَاغُمِ الصَّوْتِيِّ الغَرْبِيِّ، بَلْ تُرَكِّزُ عَلَى المِيلُودِيَا وَالارْتِجَالِ الَّذِي يُظْهِرُ بَرَاعَةَ العَازِفِ.",
       "translation": "Ova muzika se ne oslanja na zapadnu harmoniju, već se fokusira na melodiju i improvizaciju koja pokazuje vještinu svirača.",
-      "translationEn": "This music does not rely on Western harmony but focuses on melody and improvisation that showcases the musician's skill."
+      "translationEn": "This music does not rely on Western harmony but focuses on melody and improvisation that showcases the musician's skill.",
+      "words": [
+        {
+          "w": "تَعْتَمِدُ",
+          "lemma": "اعْتَمَدَ يَعْتَمِدُ"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "التَّنَاغُمِ",
+          "lemma": "تَنَاغُمٌ"
+        },
+        {
+          "w": "الصَّوْتِيِّ",
+          "lemma": "صَوْتِيٌّ"
+        },
+        {
+          "w": "الغَرْبِيِّ",
+          "lemma": "غَرْبِيٌّ"
+        },
+        {
+          "w": "تُرَكِّزُ",
+          "lemma": "رَكَّزَ يُرَكِّزُ"
+        },
+        {
+          "w": "وَالارْتِجَالِ",
+          "lemma": "ارْتِجَالٌ"
+        },
+        {
+          "w": "يُظْهِرُ",
+          "lemma": "أَظْهَرَ يُظْهِرُ"
+        },
+        {
+          "w": "بَرَاعَةَ",
+          "lemma": "بَرَاعَةٌ"
+        },
+        {
+          "w": "العَازِفِ",
+          "lemma": "عَازِفٌ / عَازِفُونَ"
+        }
+      ]
     },
     {
-      "arabic": "كَمَا يَلْعَبُ \"التَّخْتُ الشَّرْقِيُّ\" دَوْرًا جَوْهَرِيًّا فِي تَقْدِيمِ القَصَائِدِ المَغْنَاةِ وَالمُوَشَّحَاتِ الأَنْدَلُسِيَّةِ العَرِيقَةِ.",
+      "arabic": "كَمَا يَلْعَبُ \"التَّخْتُ الشَّرْقِيُّ\" دَوْرًا جَوْهَرِيًّا فِي تَقْدِيمِ الْقَصَائِدِ الْمَغْنَاةِ وَالمُوَشَّحَاتِ الأَنْدَلُسِيَّةِ الْعَرِيقَةِ.",
       "translation": "Također, 'istočnjački ansambl' igra suštinsku ulogu u izvođenju pjevanih kasida i drevnih andaluzijskih muveššaha.",
-      "translationEn": "The 'Oriental Takht' (ensemble) also plays an essential role in presenting sung poems and ancient Andalusian Muwashshahat."
+      "translationEn": "The 'Oriental Takht' (ensemble) also plays an essential role in presenting sung poems and ancient Andalusian Muwashshahat.",
+      "words": [
+        {
+          "w": "يَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "التَّخْتُ",
+          "lemma": "تَخْتٌ / تُخُوتٌ"
+        },
+        {
+          "w": "الشَّرْقِيُّ",
+          "lemma": "شَرْقِيٌّ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "جَوْهَرِيًّا",
+          "lemma": "جَوْهَرِيٌّ"
+        },
+        {
+          "w": "تَقْدِيمِ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "الْقَصَائِدِ",
+          "lemma": "قَصِيدَةٌ / قَصَائِدُ"
+        },
+        {
+          "w": "الْمَغْنَاةِ",
+          "lemma": "مَغْنِيٌّ"
+        },
+        {
+          "w": "وَالْمُوَشَّحَاتِ",
+          "lemma": "مُوَشَّحٌ / مُوَشَّحَاتٌ"
+        },
+        {
+          "w": "الأَنْدَلُسِيَّةِ",
+          "lemma": "أَنْدَلُسِيٌّ"
+        },
+        {
+          "w": "الْعَرِيقَةِ",
+          "lemma": "عَرِيقٌ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ التَّذَوُّقَ الفَنِّيَّ لِهَذَا التُّرَاثِ يَتَطَلَّبُ أُذُنًا مُرْهَفَةً تُدْرِكُ جَمَالِيَّاتِ الرُّبْعِ تُونِ الَّذِي يُمَيِّزُ السُّلَّمَ المُوسِيقِيَّ الشَّرْقِيَّ.",
+      "arabic": "إِنَّ التَّذَوُّقَ الفَنِّيَّ لِهَذَا التُّرَاثِ يَتَطَلَّبُ أُذُنًا مُرْهَفَةً تُدْرِكُ جَمَالِيَّاتِ الرُّبْعِ تُونِ الَّذِي يُمَيِّزُ السُّلَّمَ الْمُوسِيقِيَّ الشَّرْقِيَّ.",
       "translation": "Umjetničko uživanje u ovoj baštini zahtijeva istančan sluh koji prepoznaje estetiku četvrt-tona koji karakteriše istočnjačku muzičku skalu.",
-      "translationEn": "Artistically appreciating this heritage requires a refined ear that recognizes the aesthetics of the quarter-tone that distinguishes the Eastern musical scale."
+      "translationEn": "Artistically appreciating this heritage requires a refined ear that recognizes the aesthetics of the quarter-tone that distinguishes the Eastern musical scale.",
+      "words": [
+        {
+          "w": "التَّذَوُّقَ",
+          "lemma": "تَذَوُّقٌ"
+        },
+        {
+          "w": "الفَنِّيَّ",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "التُّرَاثِ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "أُذُنًا",
+          "lemma": "أُذُنٌ / آذَانٌ"
+        },
+        {
+          "w": "مُرْهَفَةً",
+          "lemma": "مُرْهَفٌ"
+        },
+        {
+          "w": "تُدْرِكُ",
+          "lemma": "أَدْرَكَ يُدْرِكُ"
+        },
+        {
+          "w": "جَمَالِيَّاتِ",
+          "lemma": "جَمَالِيَّةٌ"
+        },
+        {
+          "w": "الرُّبْعِ",
+          "lemma": "رُبْعٌ / أَرْبَاعٌ"
+        },
+        {
+          "w": "يُمَيِّزُ",
+          "lemma": "مَيَّزَ يُمَيِّزُ"
+        },
+        {
+          "w": "السُّلَّمَ",
+          "lemma": "سُلَّمٌ / سَلَالِمُ"
+        },
+        {
+          "w": "الْمُوسِيقِيَّ",
+          "lemma": "مُوسِيقِيٌّ"
+        },
+        {
+          "w": "الشَّرْقِيَّ",
+          "lemma": "شَرْقِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "هَكَذَا، تَظَلُّ الأَلْحَانُ العَرَبِيَّةُ جِسْرًا يَرْبِطُ بَيْنَ المَاضِي العَرِيقِ وَالحَاضِرِ المُتَجَدِّدِ.",
+      "arabic": "هَكَذَا، تَظَلُّ الأَلْحَانُ الْعَرَبِيَّةُ جِسْرًا يَرْبِطُ بَيْنَ الْمَاضِي الْعَرِيقِ وَالحَاضِرِ الْمُتَجَدِّدِ.",
       "translation": "Tako arapske melodije ostaju most koji povezuje drevnu prošlost sa obnovljenom sadašnjošću.",
-      "translationEn": "Thus, Arabic melodies remain a bridge connecting the ancient past with the renewed present."
+      "translationEn": "Thus, Arabic melodies remain a bridge connecting the ancient past with the renewed present.",
+      "words": [
+        {
+          "w": "تَظَلُّ",
+          "lemma": "ظَلَّ يَظَلُّ"
+        },
+        {
+          "w": "الأَلْحَانُ",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "جِسْرًا",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        },
+        {
+          "w": "يَرْبِطُ",
+          "lemma": "رَبَطَ يَرْبِطُ"
+        },
+        {
+          "w": "الْمَاضِي",
+          "lemma": "مَاضٍ"
+        },
+        {
+          "w": "الْعَرِيقِ",
+          "lemma": "عَرِيقٌ"
+        },
+        {
+          "w": "وَالْحَاضِرِ",
+          "lemma": "حَاضِرٌ"
+        },
+        {
+          "w": "الْمُتَجَدِّدِ",
+          "lemma": "مُتَجَدِّدٌ"
+        }
+      ]
     }
   ],
   "metadata": {

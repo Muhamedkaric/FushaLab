@@ -4,24 +4,80 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ الْمِنَحُ الدِّرَاسِيَّةُ جِسْرًا لِلتَّوَاصُلِ الثَّقَافِيِّ بَيْنَ الشُّعُوبِ، حَيْثُ تَسْمَحُ لِلْمُتَمَيِّزِينَ بِمُتَابَعَةِ طُمُوحَاتِهِمْ فِي أَرْقَى الْجَامِعَاتِ.",
+      "arabic": "تُمَثِّلُ الْمِنَحُ الدِّرَاسِيَّةُ جِسْرًا لِلتَّوَاصُلِ الثَّقَافِيِّ بَيْنَ الشُّعُوبِ، حَيْثُ تَسْمَحُ لِلْمُتَمَيِّزِينَ بِمُتَابَعَةِ طُمُوحَاتِهِمْ فِي أَرْقَى الْجَامِعَاتِ.",
       "translation": "Stipendije predstavljaju most za kulturnu komunikaciju među narodima, jer omogućavaju izuzetnim pojedincima da ostvare svoje ambicije na najprestižnijim univerzitetima.",
-      "translationEn": "Scholarships represent a bridge for cultural communication between peoples, as they allow outstanding individuals to pursue their ambitions at the most prestigious universities."
+      "translationEn": "Scholarships represent a bridge for cultural communication between peoples, as they allow outstanding individuals to pursue their ambitions at the most prestigious universities.",
+      "words": [
+        { "w": "تُمَثِّلُ", "lemma": "مَثَّلَ يُمَثِّلُ" },
+        { "w": "الْمِنَحُ", "lemma": "مِنْحَةٌ / مِنَحٌ" },
+        { "w": "الدِّرَاسِيَّةُ", "lemma": "دِرَاسِيٌّ" },
+        { "w": "جِسْرًا", "lemma": "جِسْرٌ / جُسُورٌ" },
+        { "w": "لِلتَّوَاصُلِ", "lemma": "تَوَاصُلٌ" },
+        { "w": "الثَّقَافِيِّ", "lemma": "ثَقَافِيٌّ" },
+        { "w": "الشُّعُوبِ", "lemma": "شَعْبٌ / شُعُوبٌ" },
+        { "w": "تَسْمَحُ", "lemma": "سَمَحَ يَسْمَحُ" },
+        { "w": "لِلْمُتَمَيِّزِينَ", "lemma": "مُتَمَيِّزٌ / مُتَمَيِّزُونَ" },
+        { "w": "بِمُتَابَعَةِ", "lemma": "مُتَابَعَةٌ" },
+        { "w": "طُمُوحَاتِهِمْ", "lemma": "طُمُوحٌ / طُمُوحَاتٌ" },
+        { "w": "أَرْقَى", "lemma": "رَقِيٌّ" },
+        { "w": "الْجَامِعَاتِ", "lemma": "جَامِعَةٌ / جَامِعَاتٌ" }
+      ]
     },
     {
-      "arabic": "يَسْعَى الْكَثِيرُ مِنَ الشَّبَابِ لِلْحُصُولِ عَلَى هَذِهِ الْفُرَصِ لِتَطْوِيرِ مَهَارَاتِهِمْ وَالِانْفِتَاحِ عَلَى مَنَاهِجَ تَعْلِيمِيَّةٍ مُتَنَوِّعَةٍ.",
+      "arabic": "يَسْعَى الْكَثِيرُ مِنَ الشَّبَابِ لِلْحُصُولِ عَلَى هَذِهِ الْفُرَصِ لِتَطْوِيرِ مَهَارَاتِهِمْ وَالِانْفِتَاحِ عَلَى مَنَاهِجَ تَعْلِيمِيَّةٍ مُتَنَوِّعَةٍ.",
       "translation": "Mnogi mladi ljudi teže da dobiju ove prilike kako bi razvili svoje vještine i otvorili se prema različitim obrazovnim kurikulumima.",
-      "translationEn": "Many young people seek to obtain these opportunities to develop their skills and open up to diverse educational curricula."
+      "translationEn": "Many young people seek to obtain these opportunities to develop their skills and open up to diverse educational curricula.",
+      "words": [
+        { "w": "يَسْعَى", "lemma": "سَعَى يَسْعَى" },
+        { "w": "الشَّبَابِ", "lemma": "شَبَابٌ" },
+        { "w": "لِلْحُصُولِ", "lemma": "حُصُولٌ" },
+        { "w": "الْفُرَصِ", "lemma": "فُرْصَةٌ / فُرَصٌ" },
+        { "w": "لِتَطْوِيرِ", "lemma": "تَطْوِيرٌ" },
+        { "w": "مَهَارَاتِهِمْ", "lemma": "مَهَارَةٌ / مَهَارَاتٌ" },
+        { "w": "وَالِانْفِتَاحِ", "lemma": "اِنْفِتَاحٌ" },
+        { "w": "مَنَاهِجَ", "lemma": "مَنْهَجٌ / مَنَاهِجُ" },
+        { "w": "تَعْلِيمِيَّةٍ", "lemma": "تَعْلِيمِيٌّ" },
+        { "w": "مُتَنَوِّعَةٍ", "lemma": "مُتَنَوِّعٌ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الِاحْتِكَاكَ بِثَقَافَاتٍ جَدِيدَةٍ يُسَاهِمُ فِي صَقْلِ شَخْصِيَّةِ الطَّالِبِ وَيُكْسِبُهُ رُؤْيَةً شُمُولِيَّةً لِلْقَضَايَا الْعَالَمِيَّةِ الْمُعَاصِرَةِ.",
+      "arabic": "إِنَّ الِاحْتِكَاكَ بِثَقَافَاتٍ جَدِيدَةٍ يُسَاهِمُ فِي صَقْلِ شَخْصِيَّةِ الطَّالِبِ وَيُكْسِبُهُ رُؤْيَةً شُمُولِيَّةً لِلْقَضَايَا الْعَالَمِيَّةِ الْمُعَاصِرَةِ.",
       "translation": "Kontakt sa novim kulturama doprinosi oblikovanju studentove ličnosti i daje mu sveobuhvatnu viziju savremenih globalnih pitanja.",
-      "translationEn": "Contact with new cultures contributes to refining the student's personality and provides them with a holistic vision of contemporary global issues."
+      "translationEn": "Contact with new cultures contributes to refining the student's personality and provides them with a holistic vision of contemporary global issues.",
+      "words": [
+        { "w": "الِاحْتِكَاكَ", "lemma": "اِحْتِكَاكٌ" },
+        { "w": "بِثَقَافَاتٍ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "جَدِيدَةٍ", "lemma": "جَدِيدٌ" },
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "صَقْلِ", "lemma": "صَقْلٌ" },
+        { "w": "شَخْصِيَّةِ", "lemma": "شَخْصِيَّةٌ / شَخْصِيَّاتٌ" },
+        { "w": "الطَّالِبِ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "وَيُكْسِبُهُ", "lemma": "أَكْسَبَ يُكْسِبُ" },
+        { "w": "رُؤْيَةً", "lemma": "رُؤْيَةٌ / رُؤًى" },
+        { "w": "شُمُولِيَّةً", "lemma": "شُمُولِيٌّ" },
+        { "w": "لِلْقَضَايَا", "lemma": "قَضِيَّةٌ / قَضَايَا" },
+        { "w": "الْعَالَمِيَّةِ", "lemma": "عَالَمِيٌّ" },
+        { "w": "الْمُعَاصِرَةِ", "lemma": "مُعَاصِرٌ" }
+      ]
     },
     {
-      "arabic": "وَفِي نِهَايَةِ الْمَطَافِ، يَعُودُ هَؤُلَاءِ الْخِرِّيجُونَ إِلَى أَوْطَانِهِمْ مُحَمَّلِينَ بِخِبْرَاتٍ عِلْمِيَّةٍ تُسَاهِمُ فِي نَهْضَةِ مُجْتَمَعَاتِهِمْ وَتَقَدُّمِهَا.",
+      "arabic": "وَفِي نِهَايَةِ الْمَطَافِ، يَعُودُ هَؤُلَاءِ الْخِرِّيجُونَ إِلَى أَوْطَانِهِمْ مُحَمَّلِينَ بِخِبْرَاتٍ عِلْمِيَّةٍ تُسَاهِمُ فِي نَهْضَةِ مُجْتَمَعَاتِهِمْ وَتَقَدُّمِهَا.",
       "translation": "Na kraju, ovi diplomci se vraćaju u svoje domovine noseći naučna iskustva koja doprinose preporodu i napretku njihovih društava.",
-      "translationEn": "Ultimately, these graduates return to their homelands carrying scientific expertise that contributes to the revival and progress of their societies."
+      "translationEn": "Ultimately, these graduates return to their homelands carrying scientific expertise that contributes to the revival and progress of their societies.",
+      "words": [
+        { "w": "نِهَايَةِ", "lemma": "نِهَايَةٌ" },
+        { "w": "الْمَطَافِ", "lemma": "مَطَافٌ" },
+        { "w": "يَعُودُ", "lemma": "عَادَ يَعُودُ" },
+        { "w": "الْخِرِّيجُونَ", "lemma": "خِرِّيجٌ / خِرِّيجُونَ" },
+        { "w": "أَوْطَانِهِمْ", "lemma": "وَطَنٌ / أَوْطَانٌ" },
+        { "w": "مُحَمَّلِينَ", "lemma": "مُحَمَّلٌ" },
+        { "w": "بِخِبْرَاتٍ", "lemma": "خِبْرَةٌ / خِبْرَاتٌ" },
+        { "w": "عِلْمِيَّةٍ", "lemma": "عِلْمِيٌّ" },
+        { "w": "تُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "نَهْضَةِ", "lemma": "نَهْضَةٌ" },
+        { "w": "مُجْتَمَعَاتِهِمْ", "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ" },
+        { "w": "وَتَقَدُّمِهَا", "lemma": "تَقَدُّمٌ" }
+      ]
     }
   ],
   "metadata": {

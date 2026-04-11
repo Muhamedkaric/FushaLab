@@ -4,39 +4,267 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ مَائِدَةُ الطَّعَامِ فِي الْعَالَمِ الْعَرَبِيِّ مَسَاحَةً لِلتَّوَاصُلِ الِاجْتِمَاعِيِّ وَتَقْوِيَةِ الرَّوَابِطِ الْأُسَرِيَّةِ بَيْنَ الْأَقَارِبِ.",
+      "arabic": "تُمَثِّلُ مَائِدَةُ الطَّعَامِ فِي الْعَالَمِ الْعَرَبِيِّ مَسَاحَةً لِلتَّوَاصُلِ الِاجْتِمَاعِيِّ وَتَقْوِيَةِ الرَّوَابِطِ الْأُسَرِيَّةِ بَيْنَ الْأَقَارِبِ.",
       "translation": "Trpeza u arapskom svijetu predstavlja prostor za društvenu komunikaciju i jačanje porodičnih veza među rođacima.",
       "translationEn": "The dining table in the Arab world represents a space for social communication and strengthening family ties among relatives.",
-      "words": []
-    },
-    {
-      "arabic": "يُفَضِّلُ النَّاسُ تَنَاوُلَ الْوَجَبَاتِ بِشَكْلٍ جَمَاعِيٍّ مِنْ طَبَقٍ وَاحِدٍ كَبِيرٍ، مِمَّا يَعْكِسُ رُوحَ الْمُشَارَكَةِ وَالْمَحَبَّةِ.",
-      "translation": "Ljudi više vole da jedu obroke zajednički iz jedne velike posude, što odražava duh dijeljenja i ljubavi.",
-      "translationEn": "People prefer to eat meals collectively from one large dish, reflecting the spirit of sharing and love.",
       "words": [
         {
-          "w": "وَاحِدٍ",
-          "lemma": "وَاحِدٌ"
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "مَائِدَةُ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْعَالَمِ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "مَسَاحَةً",
+          "lemma": "مَسَاحَةٌ / مَسَاحَاتٌ"
+        },
+        {
+          "w": "لِلتَّوَاصُلِ",
+          "lemma": "تَوَاصُلٌ"
+        },
+        {
+          "w": "الِاجْتِمَاعِيِّ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "وَتَقْوِيَةِ",
+          "lemma": "تَقْوِيَةٌ"
+        },
+        {
+          "w": "الرَّوَابِطِ",
+          "lemma": "رَابِطَةٌ / رَوَابِطُ"
+        },
+        {
+          "w": "الْأُسَرِيَّةِ",
+          "lemma": "أُسَرِيٌّ"
+        },
+        {
+          "w": "الْأَقَارِبِ",
+          "lemma": "قَرِيبٌ / أَقَارِبُ"
         }
       ]
     },
     {
-      "arabic": "يَتَبَادَلُ الْحَاضِرُونَ أَطْرَافَ الْحَدِيثِ وَيُنَاقِشُونَ أُمُورَ حَيَاتِهِمْ الْيَوْمِيَّةِ وَسْطَ أَجْوَاءٍ تَمْلؤُهَا الْبَهْجَةُ وَالْأُلْفَةُ.",
+      "arabic": "يُفَضِّلُ النَّاسُ تَنَاوُلَ الْوَجَبَاتِ بِشَكْلٍ جَمَاعِيٍّ مِنْ طَبَقٍ وَاحِدٍ كَبِيرٍ، مِمَّا يَعْكِسُ رُوحَ الْمُشَارَكَةِ وَالْمَحَبَّةِ.",
+      "translation": "Ljudi više vole da jedu obroke zajednički iz jedne velike posude, što odražava duh dijeljenja i ljubavi.",
+      "translationEn": "People prefer to eat meals collectively from one large dish, reflecting the spirit of sharing and love.",
+      "words": [
+        {
+          "w": "يُفَضِّلُ",
+          "lemma": "فَضَّلَ يُفَضِّلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "تَنَاوُلَ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "الْوَجَبَاتِ",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "بِشَكْلٍ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "جَمَاعِيٍّ",
+          "lemma": "جَمَاعِيٌّ"
+        },
+        {
+          "w": "طَبَقٍ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "وَاحِدٍ",
+          "lemma": "وَاحِدٌ"
+        },
+        {
+          "w": "كَبِيرٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "يَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "رُوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "الْمُشَارَكَةِ",
+          "lemma": "مُشَارَكَةٌ"
+        },
+        {
+          "w": "وَالْمَحَبَّةِ",
+          "lemma": "مَحَبَّةٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَتَبَادَلُ الْحَاضِرُونَ أَطْرَافَ الْحَدِيثِ وَيُنَاقِشُونَ أُمُورَ حَيَاتِهِمْ الْيَوْمِيَّةِ وَسْطَ أَجْوَاءٍ تَمْلؤُهَا الْبَهْجَةُ وَالْأُلْفَةُ.",
       "translation": "Prisutni razmjenjuju razgovore i diskutuju o svojim svakodnevnim životnim stvarima usred atmosfere ispunjene radošću i prisnošću.",
       "translationEn": "Those present exchange conversations and discuss their daily life matters amidst an atmosphere filled with joy and intimacy.",
-      "words": []
+      "words": [
+        {
+          "w": "يَتَبَادَلُ",
+          "lemma": "تَبَادَلَ يَتَبَادَلُ"
+        },
+        {
+          "w": "الْحَاضِرُونَ",
+          "lemma": "حَاضِرٌ / حَاضِرُونَ"
+        },
+        {
+          "w": "أَطْرَافَ",
+          "lemma": "طَرَفٌ / أَطْرَافٌ"
+        },
+        {
+          "w": "الْحَدِيثِ",
+          "lemma": "حَدِيثٌ / أَحَادِيثُ"
+        },
+        {
+          "w": "وَيُنَاقِشُونَ",
+          "lemma": "نَاقَشَ يُنَاقِشُ"
+        },
+        {
+          "w": "أُمُورَ",
+          "lemma": "أَمْرٌ / أُمُورٌ"
+        },
+        {
+          "w": "حَيَاتِهِمْ",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "الْيَوْمِيَّةِ",
+          "lemma": "يَوْمِيٌّ"
+        },
+        {
+          "w": "أَجْوَاءٍ",
+          "lemma": "جَوٌّ / أَجْوَاءٌ"
+        },
+        {
+          "w": "تَمْلؤُهَا",
+          "lemma": "مَلَأَ يَمْلَأُ"
+        },
+        {
+          "w": "الْبَهْجَةُ",
+          "lemma": "بَهْجَةٌ"
+        },
+        {
+          "w": "وَالْأُلْفَةُ",
+          "lemma": "أُلْفَةٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَلْتَزِمُ الْجَمِيعُ بِآدَابِ الطَّعَامِ الْإِسْلَامِيَّةِ، مِثْلَ التَّسْمِيَةِ قَبْلَ الْبَدْءِ وَالْأَكْلِ مِمَّا يَلِي الشَّخْصَ مُبَاشَرَةً.",
+      "arabic": "يَلْتَزِمُ الْجَمِيعُ بِآدَابِ الطَّعَامِ الْإِسْلَامِيَّةِ، مِثْلَ التَّسْمِيَةِ قَبْلَ الْبَدْءِ وَالْأَكْلِ مِمَّا يَلِي الشَّخْصَ مُبَاشَرَةً.",
       "translation": "Svi se pridržavaju islamskog bontona za stolom, kao što je izgovaranje 'Bismillah' prije početka i jedenje onoga što je neposredno ispred osobe.",
       "translationEn": "Everyone adheres to Islamic dining etiquette, such as saying 'Bismillah' before starting and eating from what is directly in front of the person.",
-      "words": []
+      "words": [
+        {
+          "w": "يَلْتَزِمُ",
+          "lemma": "الْتَزَمَ يَلْتَزِمُ"
+        },
+        {
+          "w": "الْجَمِيعُ",
+          "lemma": "جَمِيعٌ"
+        },
+        {
+          "w": "بِآدَابِ",
+          "lemma": "أَدَبٌ / آدَابٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْإِسْلَامِيَّةِ",
+          "lemma": "إِسْلَامِيٌّ"
+        },
+        {
+          "w": "التَّسْمِيَةِ",
+          "lemma": "تَسْمِيَةٌ"
+        },
+        {
+          "w": "الْبَدْءِ",
+          "lemma": "بَدْءٌ"
+        },
+        {
+          "w": "وَالْأَكْلِ",
+          "lemma": "أَكْلٌ"
+        },
+        {
+          "w": "يَلِي",
+          "lemma": "وَلِيَ يَلِي"
+        },
+        {
+          "w": "الشَّخْصَ",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ هَذِهِ الِاجْتِمَاعَاتِ الدَّوْرِيَّةَ لَا تُشْبِعُ الْجُوعَ فَحَسْبُ، بَلْ تُغَذِّي الرُّوحَ وَتُعَزِّزُ الشُّعُورَ بِالِانْتِمَاءِ إِلَى الْجَمَاعَةِ.",
+      "arabic": "إِنَّ هَذِهِ الِاجْتِمَاعَاتِ الدَّوْرِيَّةَ لَا تُشْبِعُ الْجُوعَ فَحَسْبُ، بَلْ تُغَذِّي الرُّوحَ وَتُعَزِّزُ الشُّعُورَ بِالِانْتِمَاءِ إِلَى الْجَمَاعَةِ.",
       "translation": "Ova redovna okupljanja ne utoljuju samo glad, već hrane dušu i jačaju osjećaj pripadnosti zajednici.",
       "translationEn": "These periodic gatherings do not only satisfy hunger, but also nourish the soul and enhance the sense of belonging to the group.",
-      "words": []
+      "words": [
+        {
+          "w": "الِاجْتِمَاعَاتِ",
+          "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ"
+        },
+        {
+          "w": "الدَّوْرِيَّةَ",
+          "lemma": "دَوْرِيٌّ"
+        },
+        {
+          "w": "تُشْبِعُ",
+          "lemma": "أَشْبَعَ يُشْبِعُ"
+        },
+        {
+          "w": "الْجُوعَ",
+          "lemma": "جُوعٌ"
+        },
+        {
+          "w": "تُغَذِّي",
+          "lemma": "غَذَّى يُغَذِّي"
+        },
+        {
+          "w": "الرُّوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "وَتُعَزِّزُ",
+          "lemma": "عَزَّزَ يُعَزِّزُ"
+        },
+        {
+          "w": "الشُّعُورَ",
+          "lemma": "شُعُورٌ"
+        },
+        {
+          "w": "بِالِانْتِمَاءِ",
+          "lemma": "انْتِمَاءٌ"
+        },
+        {
+          "w": "الْجَمَاعَةِ",
+          "lemma": "جَمَاعَةٌ / جَمَاعَاتٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -4,45 +4,306 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَتَمَيَّزُ الْعِمَارَةُ الْإِسْلَامِيَّةُ التَّقْلِيدِيَّةُ بِفَلْسَفَةٍ فَرِيدَةٍ تَجْمَعُ بَيْنَ الْجَمَالِ الْوَظِيفِيِّ وَالْخُصُوصِيَّةِ الْعَائِلِيَّةِ.",
+      "arabic": "تَتَمَيَّزُ الْعِمَارَةُ الإِسْلَامِيَّةُ التَّقْلِيدِيَّةُ بِفَلْسَفَةٍ فَرِيدَةٍ تَجْمَعُ بَيْنَ الْجَمَالِ الْوَظِيفِيِّ وَالْخُصُوصِيَّةِ الْعَائِلِيَّةِ.",
       "translation": "Tradicionalnu islamsku arhitekturu odlikuje jedinstvena filozofija koja spaja funkcionalnu ljepotu i porodičnu privatnost.",
       "translationEn": "Traditional Islamic architecture is characterized by a unique philosophy that combines functional beauty and family privacy.",
-      "words": []
-    },
-    {
-      "arabic": "يُعْتَبَرُ \"الْفِنَاءُ الدَّاخِلِيُّ\" قَلْبَ الْمَنْزِلِ الْعَرَبِيِّ، حَيْثُ يُوَفِّرُ مَسَاحَةً خَضْرَاءَ هَادِئَةً بَعِيدَةً عَنْ ضَجِيجِ الشَّوَارِعِ.",
-      "translation": "'Unutrašnje dvorište' se smatra srcem arapskog doma, jer pruža miran zeleni prostor daleko od ulične buke.",
-      "translationEn": "The 'inner courtyard' is considered the heart of the Arab home, providing a quiet green space away from street noise.",
-      "words": []
-    },
-    {
-      "arabic": "كَمَا تَلْعَبُ \"الْمَشْرَبِيَّاتُ\" الْخَشَبِيَّةُ دَوْرًا مُهِمًّا فِي تَنْظِيمِ الْإِضَاءَةِ وَالتَّهْوِيَةِ، مَعَ الْحِفَاظِ عَلَى سِتْرِ أَهْلِ الْبَيْتِ.",
-      "translation": "Također, drvene 'mušrabije' igraju važnu ulogu u regulaciji osvjetljenja i ventilacije, istovremeno čuvajući privatnost ukućana.",
-      "translationEn": "Additionally, wooden 'Mashrabiyas' play an important role in regulating lighting and ventilation while maintaining the privacy of the household.",
-      "words": []
-    },
-    {
-      "arabic": "إِنَّ اسْتِخْدَامَ الزَّخَارِفِ الْهَنْدَسِيَّةِ وَالْخَطِّ الْعَرَبِيِّ عَلَى الْجُدْرَانِ يُضْفِي لَمْسَةً فَنِّيَّةً تَعْكِسُ الْهُوِيَّةَ الثَّقَافِيَّةَ الْعَرِيقَةَ.",
-      "translation": "Upotreba geometrijskih ornamenata i arapske kaligrafije na zidovima dodaje umjetnički dodir koji odražava drevni kulturni identitet.",
-      "translationEn": "The use of geometric patterns and Arabic calligraphy on the walls adds an artistic touch reflecting ancient cultural identity.",
-      "words": []
-    },
-    {
-      "arabic": "هَذِهِ التَّصَامِيمُ لَيْسَتْ مُجَرَّدَ بِنَاءٍ، بَلْ هِيَ تَجْسِيدٌ لِلتَّنَاغُمِ بَيْنَ الْإِنْسَانِ وَبِيئَتِهِ الْمَحَلِيَّةِ.",
-      "translation": "Ovi dizajni nisu samo puka gradnja, već su utjelovljenje harmonije između čovjeka i njegovog lokalnog okruženja.",
-      "translationEn": "These designs are not just buildings, but an embodiment of harmony between man and his local environment.",
       "words": [
         {
-          "w": "لَيْسَتْ",
-          "lemma": "لَيْسَ"
+          "w": "تَتَمَيَّزُ",
+          "lemma": "تَمَيَّزَ يَتَمَيَّزُ"
+        },
+        {
+          "w": "الْعِمَارَةُ",
+          "lemma": "عِمَارَةٌ"
+        },
+        {
+          "w": "الإِسْلَامِيَّةُ",
+          "lemma": "إِسْلَامِيٌّ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةُ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "بِفَلْسَفَةٍ",
+          "lemma": "فَلْسَفَةٌ / فَلْسَفَاتٌ"
+        },
+        {
+          "w": "فَرِيدَةٍ",
+          "lemma": "فَرِيدٌ"
+        },
+        {
+          "w": "تَجْمَعُ",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "الْجَمَالِ",
+          "lemma": "جَمَالٌ"
+        },
+        {
+          "w": "الْوَظِيفِيِّ",
+          "lemma": "وَظِيفِيٌّ"
+        },
+        {
+          "w": "وَالْخُصُوصِيَّةِ",
+          "lemma": "خُصُوصِيَّةٌ"
+        },
+        {
+          "w": "الْعَائِلِيَّةِ",
+          "lemma": "عَائِلِيٌّ"
         }
       ]
     },
     {
-      "arabic": "تُحَاوِلُ الْمُدُنُ الْحَدِيثَةُ الْيَوْمَ إِحْيَاءَ هَذِهِ الْعَنَاصِرِ لِحِمَايَةِ التُّرَاثِ الْمِعْمَارِيِّ مِنَ الِانْدِثَارِ.",
+      "arabic": "يُعْتَبَرُ \"الْفِنَاءُ الدَّاخِلِيُّ\" قَلْبَ الْمَنْزِلِ الْعَرَبِيِّ، حَيْثُ يُوَفِّرُ مَسَاحَةً خَضْرَاءَ هَادِئَةً بَعِيدَةً عَنْ ضَجِيجِ الشَّوَارِعِ.",
+      "translation": "'Unutrašnje dvorište' se smatra srcem arapskog doma, jer pruža miran zeleni prostor daleko od ulične buke.",
+      "translationEn": "The 'inner courtyard' is considered the heart of the Arab home, providing a quiet green space away from street noise.",
+      "words": [
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "الْفِنَاءُ",
+          "lemma": "فِنَاءٌ / أَفْنِيَةٌ"
+        },
+        {
+          "w": "الدَّاخِلِيُّ",
+          "lemma": "دَاخِلِيٌّ"
+        },
+        {
+          "w": "قَلْبَ",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "الْمَنْزِلِ",
+          "lemma": "مَنْزِلٌ / مَنَازِلُ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "يُوَفِّرُ",
+          "lemma": "وَفَّرَ يُوَفِّرُ"
+        },
+        {
+          "w": "مَسَاحَةً",
+          "lemma": "مَسَاحَةٌ / مَسَاحَاتٌ"
+        },
+        {
+          "w": "خَضْرَاءَ",
+          "lemma": "أَخْضَرُ"
+        },
+        {
+          "w": "هَادِئَةً",
+          "lemma": "هَادِئٌ"
+        },
+        {
+          "w": "ضَجِيجِ",
+          "lemma": "ضَجِيجٌ"
+        },
+        {
+          "w": "الشَّوَارِعِ",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        }
+      ]
+    },
+    {
+      "arabic": "كَمَا تَلْعَبُ \"الْمَشْرَبِيَّاتُ\" الْخَشَبِيَّةُ دَوْرًا مُهِمًّا فِي تَنْظِيمِ الإِضَاءَةِ وَالتَّهْوِيَةِ، مَعَ الْحِفَاظِ عَلَى سِتْرِ أَهْلِ الْبَيْتِ.",
+      "translation": "Također, drvene 'mušrabije' igraju važnu ulogu u regulaciji osvjetljenja i ventilacije, istovremeno čuvajući privatnost ukućana.",
+      "translationEn": "Additionally, wooden 'Mashrabiyas' play an important role in regulating lighting and ventilation while maintaining the privacy of the household.",
+      "words": [
+        {
+          "w": "تَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الْمَشْرَبِيَّاتُ",
+          "lemma": "مَشْرَبِيَّةٌ / مَشْرَبِيَّاتٌ"
+        },
+        {
+          "w": "الْخَشَبِيَّةُ",
+          "lemma": "خَشَبِيٌّ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "مُهِمًّا",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "تَنْظِيمِ",
+          "lemma": "تَنْظِيمٌ"
+        },
+        {
+          "w": "الإِضَاءَةِ",
+          "lemma": "إِضَاءَةٌ"
+        },
+        {
+          "w": "وَالتَّهْوِيَةِ",
+          "lemma": "تَهْوِيَةٌ"
+        },
+        {
+          "w": "الْحِفَاظِ",
+          "lemma": "حِفَاظٌ"
+        },
+        {
+          "w": "سِتْرِ",
+          "lemma": "سِتْرٌ"
+        },
+        {
+          "w": "أَهْلِ",
+          "lemma": "أَهْلٌ / أَهَالٍ"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "إِنَّ اسْتِخْدَامَ الزَّخَارِفِ الْهَنْدَسِيَّةِ وَالْخَطِّ الْعَرَبِيِّ عَلَى الْجُدْرَانِ يُضْفِي لَمْسَةً فَنِّيَّةً تَعْكِسُ الْهُوِيَّةَ الثَّقَافِيَّةَ الْعَرِيقَةَ.",
+      "translation": "Upotreba geometrijskih ornamenata i arapske kaligrafije na zidovima dodaje umjetnički dodir koji odražava drevni kulturni identitet.",
+      "translationEn": "The use of geometric patterns and Arabic calligraphy on the walls adds an artistic touch reflecting ancient cultural identity.",
+      "words": [
+        {
+          "w": "اسْتِخْدَامَ",
+          "lemma": "اسْتِخْدَامٌ"
+        },
+        {
+          "w": "الزَّخَارِفِ",
+          "lemma": "زَخْرَفٌ / زَخَارِفُ"
+        },
+        {
+          "w": "الْهَنْدَسِيَّةِ",
+          "lemma": "هَنْدَسِيٌّ"
+        },
+        {
+          "w": "وَالْخَطِّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "الْجُدْرَانِ",
+          "lemma": "جِدَارٌ / جُدْرَانٌ"
+        },
+        {
+          "w": "يُضْفِي",
+          "lemma": "أَضْفَى يُضْفِي"
+        },
+        {
+          "w": "لَمْسَةً",
+          "lemma": "لَمْسَةٌ / لَمَسَاتٌ"
+        },
+        {
+          "w": "فَنِّيَّةً",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الْهُوِيَّةَ",
+          "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ"
+        },
+        {
+          "w": "الثَّقَافِيَّةَ",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "الْعَرِيقَةَ",
+          "lemma": "عَرِيقٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "هَذِهِ التَّصَامِيمُ لَيْسَتْ مُجَرَّدَ بِنَاءٍ، بَلْ هِيَ تَجْسِيدٌ لِلتَّنَاغُمِ بَيْنَ الإِنْسَانِ وَبِيئَتِهِ الْمَحَلِيَّةِ.",
+      "translation": "Ovi dizajni nisu samo puka gradnja, već su utjelovljenje harmonije između čovjeka i njegovog lokalnog okruženja.",
+      "translationEn": "These designs are not just buildings, but an embodiment of harmony between man and his local environment.",
+      "words": [
+        {
+          "w": "التَّصَامِيمُ",
+          "lemma": "تَصْمِيمٌ / تَصَامِيمُ"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "lemma": "لَيْسَ"
+        },
+        {
+          "w": "بِنَاءٍ",
+          "lemma": "بِنَاءٌ"
+        },
+        {
+          "w": "تَجْسِيدٌ",
+          "lemma": "تَجْسِيدٌ"
+        },
+        {
+          "w": "لِلتَّنَاغُمِ",
+          "lemma": "تَنَاغُمٌ"
+        },
+        {
+          "w": "الإِنْسَانِ",
+          "lemma": "إِنْسَانٌ / بَشَرٌ"
+        },
+        {
+          "w": "وَبِيئَتِهِ",
+          "lemma": "بِيئَةٌ / بِيئَاتٌ"
+        },
+        {
+          "w": "الْمَحَلِيَّةِ",
+          "lemma": "مَحَلِّيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "تُحَاوِلُ الْمُدُنُ الْحَدِيثَةُ الْيَوْمَ إِحْيَاءَ هَذِهِ الْعَنَاصِرِ لِحِمَايَةِ التُّرَاثِ الْمِعْمَارِيِّ مِنَ الِانْدِثَارِ.",
       "translation": "Moderni gradovi danas pokušavaju oživjeti ove elemente kako bi zaštitili arhitektonsko naslijeđe od nestajanja.",
       "translationEn": "Modern cities today are trying to revive these elements to protect architectural heritage from extinction.",
-      "words": []
+      "words": [
+        {
+          "w": "تُحَاوِلُ",
+          "lemma": "حَاوَلَ يُحَاوِلُ"
+        },
+        {
+          "w": "الْمُدُنُ",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "الْحَدِيثَةُ",
+          "lemma": "حَدِيثٌ"
+        },
+        {
+          "w": "إِحْيَاءَ",
+          "lemma": "إِحْيَاءٌ"
+        },
+        {
+          "w": "الْعَنَاصِرِ",
+          "lemma": "عَنْصُرٌ / عَنَاصِرُ"
+        },
+        {
+          "w": "لِحِمَايَةِ",
+          "lemma": "حِمَايَةٌ"
+        },
+        {
+          "w": "التُّرَاثِ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "الْمِعْمَارِيِّ",
+          "lemma": "مِعْمَارِيٌّ"
+        },
+        {
+          "w": "الِانْدِثَارِ",
+          "lemma": "انْدِثَارٌ"
+        }
+      ]
     }
   ],
   "metadata": {

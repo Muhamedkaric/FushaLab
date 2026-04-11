@@ -4,44 +4,159 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ الكَرَمُ مِنْ أَهَمِّ القِيَمِ فِي الثَّقَافَةِ العَرَبِيَّةِ.",
+      "arabic": "يُعْتَبَرُ الكَرَمُ مِنْ أَهَمِّ القِيَمِ فِي الثَّقَافَةِ العَرَبِيَّةِ.",
       "translation": "Gostoprimstvo se smatra jednom od najvažnijih vrijednosti u arapskoj kulturi.",
       "translationEn": "Hospitality is considered one of the most important values in Arab culture.",
-      "words": []
+      "words": [
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "الكَرَمُ",
+          "lemma": "كَرَمٌ"
+        },
+        {
+          "w": "القِيَمِ",
+          "lemma": "قِيمَةٌ / قِيَمٌ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "العَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "يَسْتَقْبِلُ النَّاسُ الضُّيُوفَ بِحَفَاوَةٍ كَبِيرَةٍ فِي بُيُوتِهِمْ.",
+      "arabic": "يَسْتَقْبِلُ النَّاسُ الضُّيُوفَ بِحَفَاوَةٍ كَبِيرَةٍ فِي بُيُوتِهِمْ.",
       "translation": "Ljudi s velikom srdačnošću dočekuju goste u svojim domovima.",
       "translationEn": "People welcome guests into their homes with great warmth.",
-      "words": []
+      "words": [
+        {
+          "w": "يَسْتَقْبِلُ",
+          "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        },
+        {
+          "w": "الضُّيُوفَ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِحَفَاوَةٍ",
+          "lemma": "حَفَاوَةٌ"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "بُيُوتِهِمْ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
+      ]
     },
     {
-      "arabic": "يُقَدِّمُ المُضِيفُ القَهْوَةَ العَرَبِيَّةَ وَالتَّمْرَ دَائِمًا عِنْدَ الِاسْتِقْبَالِ.",
+      "arabic": "يُقَدِّمُ المُضِيفُ القَهْوَةَ العَرَبِيَّةَ وَالتَّمْرَ دَائِمًا عِنْدَ الِاسْتِقْبَالِ.",
       "translation": "Domaćin prilikom dočeka uvijek poslužuje arapsku kafu i hurme.",
       "translationEn": "The host always serves Arabic coffee and dates upon arrival.",
       "words": [
         {
+          "w": "يُقَدِّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "المُضِيفُ",
+          "lemma": "مُضِيفٌ / مُضِيفُونَ"
+        },
+        {
+          "w": "القَهْوَةَ",
+          "lemma": "قَهْوَةٌ / قَهَوَاتٌ"
+        },
+        {
+          "w": "العَرَبِيَّةَ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "وَالتَّمْرَ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "دَائِمًا",
+          "lemma": "دَائِمٌ"
+        },
+        {
           "w": "عِنْدَ",
           "lemma": "عِنْدَ"
+        },
+        {
+          "w": "الِاسْتِقْبَالِ",
+          "lemma": "اسْتِقْبَالٌ / اسْتِقْبَالَاتٌ"
         }
       ]
     },
     {
-      "arabic": "يَشْعُرُ الضَّيْفُ بِالرَّاحَةِ وَالسَّعَادَةِ بِسَبَبِ هَذَا التَّرْحِيبِ.",
+      "arabic": "يَشْعُرُ الضَّيْفُ بِالرَّاحَةِ وَالسَّعَادَةِ بِسَبَبِ هَذَا التَّرْحِيبِ.",
       "translation": "Gost se osjeća ugodno i sretno zbog ovakve dobrodošlice.",
       "translationEn": "The guest feels comfortable and happy because of this welcome.",
       "words": [
         {
+          "w": "يَشْعُرُ",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الضَّيْفُ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِالرَّاحَةِ",
+          "lemma": "رَاحَةٌ / رَاحَاتٌ"
+        },
+        {
+          "w": "وَالسَّعَادَةِ",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
           "w": "بِسَبَبِ",
           "lemma": "سَبَبٌ / أَسْبَابٌ"
+        },
+        {
+          "w": "التَّرْحِيبِ",
+          "lemma": "تَرْحِيبٌ / تَرْحِيبَاتٌ"
         }
       ]
     },
     {
-      "arabic": "هَذِهِ العَادَةُ تَعْكِسُ رُوحَ المَوَدَّةِ بَيْنَ النَّاسِ.",
+      "arabic": "هَذِهِ العَادَةُ تَعْكِسُ رُوحَ المَوَدَّةِ بَيْنَ النَّاسِ.",
       "translation": "Ovaj običaj odražava duh ljubaznosti među ljudima.",
       "translationEn": "This custom reflects the spirit of friendliness among people.",
-      "words": []
+      "words": [
+        {
+          "w": "العَادَةُ",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "رُوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "المَوَدَّةِ",
+          "lemma": "مَوَدَّةٌ / مَوَدَّاتٌ"
+        },
+        {
+          "w": "النَّاسِ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        }
+      ]
     }
   ],
   "metadata": {

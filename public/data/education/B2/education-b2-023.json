@@ -4,29 +4,89 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ الْمَكْتَبَاتُ الْعَامَّةُ مَنَارَاتٍ لِلْعِلْمِ وَالثَّقَافَةِ، حَيْثُ تَحْتَضِنُ أُمَّهَاتِ الْكُتُبِ وَالْمَخْطُوطَاتِ النَّادِرَةِ.",
+      "arabic": "تُمَثِّلُ الْمَكْتَبَاتُ الْعَامَّةُ مَنَارَاتٍ لِلْعِلْمِ وَالثَّقَافَةِ، حَيْثُ تَحْتَضِنُ أُمَّهَاتِ الْكُتُبِ وَالْمَخْطُوطَاتِ النَّادِرَةِ.",
       "translation": "Javne biblioteke predstavljaju svjetionike znanja i kulture, jer čuvaju kapitalna djela i rijetke rukopise.",
-      "translationEn": "Public libraries represent beacons of science and culture, housing major books and rare manuscripts."
+      "translationEn": "Public libraries represent beacons of science and culture, housing major books and rare manuscripts.",
+      "words": [
+        { "w": "تُمَثِّلُ", "lemma": "مَثَّلَ يُمَثِّلُ" },
+        { "w": "الْمَكْتَبَاتُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "الْعَامَّةُ", "lemma": "عَامٌّ" },
+        { "w": "مَنَارَاتٍ", "lemma": "مَنَارَةٌ / مَنَارَاتٌ" },
+        { "w": "لِلْعِلْمِ", "lemma": "عِلْمٌ / عُلُومٌ" },
+        { "w": "وَالثَّقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "تَحْتَضِنُ", "lemma": "احْتَضَنَ يَحْتَضِنُ" },
+        { "w": "أُمَّهَاتِ", "lemma": "أُمٌّ / أُمَّهَاتٌ" },
+        { "w": "الْكُتُبِ", "lemma": "كِتَابٌ / كُتُبٌ" },
+        { "w": "وَالْمَخْطُوطَاتِ", "lemma": "مَخْطُوطَةٌ / مَخْطُوطَاتٌ" },
+        { "w": "النَّادِرَةِ", "lemma": "نَادِرٌ" }
+      ]
     },
     {
-      "arabic": "مَعَ التَّحَوُّلِ الرَّقْمِيِّ، بَرَزَتِ الْمَكْتَبَاتُ الْإِلِكْتُرُونِيَّةُ كَوَسِيلَةٍ سَهْلَةٍ لِلْوُصُولِ إِلَى الْمَصَادِرِ الْمَعْرِفِيَّةِ.",
+      "arabic": "مَعَ التَّحَوُّلِ الرَّقْمِيِّ، بَرَزَتِ الْمَكْتَبَاتُ الْإِلِكْتُرُونِيَّةُ كَوَسِيلَةٍ سَهْلَةٍ لِلْوُصُولِ إِلَى الْمَصَادِرِ الْمَعْرِفِيَّةِ.",
       "translation": "S digitalnom transformacijom, elektronske biblioteke su se pojavile kao jednostavan način za pristup izvorima znanja.",
-      "translationEn": "With the digital transformation, electronic libraries have emerged as an easy means of accessing knowledge sources."
+      "translationEn": "With the digital transformation, electronic libraries have emerged as an easy means of accessing knowledge sources.",
+      "words": [
+        { "w": "التَّحَوُّلِ", "lemma": "تَحَوُّلٌ / تَحَوُّلَاتٌ" },
+        { "w": "الرَّقْمِيِّ", "lemma": "رَقْمِيٌّ" },
+        { "w": "بَرَزَتِ", "lemma": "بَرَزَ يَبْرُزُ" },
+        { "w": "الْمَكْتَبَاتُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "الْإِلِكْتُرُونِيَّةُ", "lemma": "إِلِكْتُرُونِيٌّ" },
+        { "w": "كَوَسِيلَةٍ", "lemma": "وَسِيلَةٌ / وَسَائِلُ" },
+        { "w": "سَهْلَةٍ", "lemma": "سَهْلٌ" },
+        { "w": "لِلْوُصُولِ", "lemma": "وُصُولٌ" },
+        { "w": "الْمَصَادِرِ", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "الْمَعْرِفِيَّةِ", "lemma": "مَعْرِفِيٌّ" }
+      ]
     },
     {
-      "arabic": "يَسْتَفِيدُ الْبَاحِثُونَ مِنَ الْقَوَاعِدِ الْبَيَانِيَّةِ الضَّخْمَةِ الَّتِي تُوَفِّرُ مَقَالَاتٍ عِلْمِيَّةً مُحَكَّمَةً مِنْ جَمِيعِ أَنْحَاءِ الْعَالَمِ.",
+      "arabic": "يَسْتَفِيدُ الْبَاحِثُونَ مِنَ الْقَوَاعِدِ الْبَيَانِيَّةِ الضَّخْمَةِ الَّتِي تُوَفِّرُ مَقَالَاتٍ عِلْمِيَّةً مُحَكَّمَةً مِنْ جَمِيعِ أَنْحَاءِ الْعَالَمِ.",
       "translation": "Istraživači imaju koristi od ogromnih baza podataka koje pružaju recenzirane naučne članke iz cijelog svijeta.",
-      "translationEn": "Researchers benefit from massive databases that provide peer-reviewed scientific articles from all over the world."
+      "translationEn": "Researchers benefit from massive databases that provide peer-reviewed scientific articles from all over the world.",
+      "words": [
+        { "w": "يَسْتَفِيدُ", "lemma": "اسْتَفَادَ يَسْتَفِيدُ" },
+        { "w": "الْبَاحِثُونَ", "lemma": "بَاحِثٌ / بَاحِثُونَ" },
+        { "w": "الْقَوَاعِدِ", "lemma": "قَاعِدَةٌ / قَوَاعِدُ" },
+        { "w": "الْبَيَانِيَّةِ", "lemma": "بَيَانِيٌّ" },
+        { "w": "الضَّخْمَةِ", "lemma": "ضَخْمٌ" },
+        { "w": "تُوَفِّرُ", "lemma": "وَفَّرَ يُوَفِّرُ" },
+        { "w": "مَقَالَاتٍ", "lemma": "مَقَالَةٌ / مَقَالَاتٌ" },
+        { "w": "عِلْمِيَّةً", "lemma": "عِلْمِيٌّ" },
+        { "w": "مُحَكَّمَةً", "lemma": "مُحَكَّمٌ" },
+        { "w": "أَنْحَاءِ", "lemma": "نَاحِيَةٌ / أَنْحَاءٌ" },
+        { "w": "الْعَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" }
+      ]
     },
     {
-      "arabic": "رَغْمَ ذَلِكَ، يَبْقَى لِلْكِتَابِ الْوَرَقِيِّ سِحْرُهُ الْخَاصُّ وَقِيمَتُهُ التَّارِيخِيَّةُ الَّتِي لَا يُمْكِنُ الِاسْتِغْنَاءُ عَنْهَا.",
+      "arabic": "رَغْمَ ذَلِكَ، يَبْقَى لِلْكِتَابِ الْوَرَقِيِّ سِحْرُهُ الْخَاصُّ وَقِيمَتُهُ التَّارِيخِيَّةُ الَّتِي لَا يُمْكِنُ الِاسْتِغْنَاءُ عَنْهَا.",
       "translation": "Uprkos tome, štampana knjiga zadržava svoj poseban šarm i historijsku vrijednost koja je nezamjenjiva.",
-      "translationEn": "Nevertheless, the physical book retains its special charm and historical value that cannot be dispensed with."
+      "translationEn": "Nevertheless, the physical book retains its special charm and historical value that cannot be dispensed with.",
+      "words": [
+        { "w": "يَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "لِلْكِتَابِ", "lemma": "كِتَابٌ / كُتُبٌ" },
+        { "w": "الْوَرَقِيِّ", "lemma": "وَرَقِيٌّ" },
+        { "w": "سِحْرُهُ", "lemma": "سِحْرٌ" },
+        { "w": "الْخَاصُّ", "lemma": "خَاصٌّ" },
+        { "w": "وَقِيمَتُهُ", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "التَّارِيخِيَّةُ", "lemma": "تَارِيخِيٌّ" },
+        { "w": "الِاسْتِغْنَاءُ", "lemma": "اسْتِغْنَاءٌ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الْجَمْعَ بَيْنَ الْمَصَادِرِ التَّقْلِيدِيَّةِ وَالرَّقْمِيَّةِ يُغْنِي التَّجْرِبَةَ التَّعْلِيمِيَّةَ وَيُوَسِّعُ آفَاقَ الِاطِّلَاعِ.",
+      "arabic": "إِنَّ الْجَمْعَ بَيْنَ الْمَصَادِرِ التَّقْلِيدِيَّةِ وَالرَّقْمِيَّةِ يُغْنِي التَّجْرِبَةَ التَّعْلِيمِيَّةَ وَيُوَسِّعُ آفَاقَ الِاطِّلَاعِ.",
       "translation": "Spajanje tradicionalnih i digitalnih izvora obogaćuje obrazovno iskustvo i proširuje vidike informisanja.",
-      "translationEn": "Combining traditional and digital sources enriches the educational experience and broadens the horizons of reading."
+      "translationEn": "Combining traditional and digital sources enriches the educational experience and broadens the horizons of reading.",
+      "words": [
+        { "w": "الْجَمْعَ", "lemma": "جَمْعٌ" },
+        { "w": "الْمَصَادِرِ", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "التَّقْلِيدِيَّةِ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "وَالرَّقْمِيَّةِ", "lemma": "رَقْمِيٌّ" },
+        { "w": "يُغْنِي", "lemma": "أَغْنَى يُغْنِي" },
+        { "w": "التَّجْرِبَةَ", "lemma": "تَجْرِبَةٌ / تَجَارِبُ" },
+        { "w": "التَّعْلِيمِيَّةَ", "lemma": "تَعْلِيمِيٌّ" },
+        { "w": "وَيُوَسِّعُ", "lemma": "وَسَّعَ يُوَسِّعُ" },
+        { "w": "آفَاقَ", "lemma": "أُفُقٌ / آفَاقٌ" },
+        { "w": "الِاطِّلَاعِ", "lemma": "اطِّلَاعٌ" }
+      ]
     }
   ],
   "metadata": {

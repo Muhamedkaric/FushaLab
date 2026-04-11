@@ -4,29 +4,103 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَبْرُزُ العَائِلَةُ المُمْتَدَّةُ كَنُوَاةٍ صُلْبَةٍ فِي بِنَاءِ المُجْتَمَعِ العَرَبِيِّ، حَيْثُ تَسُودُ قِيَمُ التَّكَافُلِ وَالِاحْتِرَامِ المُتَبَادَلِ بَيْنَ الأَجْيَالِ.",
+      "arabic": "تَبْرُزُ العَائِلَةُ المُمْتَدَّةُ كَنُوَاةٍ صُلْبَةٍ فِي بِنَاءِ المُجْتَمَعِ العَرَبِيِّ، حَيْثُ تَسُودُ قِيَمُ التَّكَافُلِ وَالِاحْتِرَامِ المُتَبَادَلِ بَيْنَ الأَجْيَالِ.",
       "translation": "Proširena porodica se ističe kao čvrsto jezgro u izgradnji arapskog društva, gdje prevladavaju vrijednosti solidarnosti i uzajamnog poštovanja među generacijama.",
-      "translationEn": "The extended family stands out as a solid core in the construction of Arab society, where values of solidarity and mutual respect between generations prevail."
+      "translationEn": "The extended family stands out as a solid core in the construction of Arab society, where values of solidarity and mutual respect between generations prevail.",
+      "words": [
+        { "w": "تَبْرُزُ", "lemma": "بَرَزَ يَبْرُزُ" },
+        { "w": "العَائِلَةُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ" },
+        { "w": "المُمْتَدَّةُ", "lemma": "مُمْتَدٌّ" },
+        { "w": "كَنُوَاةٍ", "lemma": "نَوَاةٌ / نَوَيَاتٌ" },
+        { "w": "صُلْبَةٍ", "lemma": "صُلْبٌ" },
+        { "w": "بِنَاءِ", "lemma": "بِنَاءٌ" },
+        { "w": "المُجْتَمَعِ", "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ" },
+        { "w": "العَرَبِيِّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "تَسُودُ", "lemma": "سَادَ يَسُودُ" },
+        { "w": "قِيَمُ", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "التَّكَافُلِ", "lemma": "تَكَافُلٌ" },
+        { "w": "وَالِاحْتِرَامِ", "lemma": "احْتِرَامٌ" },
+        { "w": "المُتَبَادَلِ", "lemma": "مُتَبَادَلٌ" },
+        { "w": "الأَجْيَالِ", "lemma": "جِيلٌ / أَجْيَالٌ" }
+      ]
     },
     {
-      "arabic": "لَا تَقْتَصِرُ العَلَاقَاتُ الأُسَرِيَّةُ عَلَى الوَالِدَيْنِ وَالأَبْنَاءِ فَحَسْبُ، بَلْ تَمْتَدُّ لِتَشْمَلَ الأَجْدَادَ وَالأَعْمَامَ وَالأَخْوالَ فِي نَسِيجٍ اِجْتِمَاعِيٍّ مُتَرَابِطٍ.",
+      "arabic": "لَا تَقْتَصِرُ العَلَاقَاتُ الأُسَرِيَّةُ عَلَى الوَالِدَيْنِ وَالأَبْنَاءِ فَحَسْبُ، بَلْ تَمْتَدُّ لِتَشْمَلَ الأَجْدَادَ وَالأَعْمَامَ وَالأَخْوالَ فِي نَسِيجٍ اِجْتِمَاعِيٍّ مُتَرَابِطٍ.",
       "translation": "Porodični odnosi nisu ograničeni samo na roditelje i djecu, već se šire na djedove, bake, stričeve i daidže u povezanom društvenom tkivu.",
-      "translationEn": "Family relationships are not limited to parents and children alone, but extend to include grandparents, uncles, and aunts in a cohesive social fabric."
+      "translationEn": "Family relationships are not limited to parents and children alone, but extend to include grandparents, uncles, and aunts in a cohesive social fabric.",
+      "words": [
+        { "w": "تَقْتَصِرُ", "lemma": "اقْتَصَرَ يَقْتَصِرُ" },
+        { "w": "العَلَاقَاتُ", "lemma": "عَلَاقَةٌ / عَلَاقَاتٌ" },
+        { "w": "الأُسَرِيَّةُ", "lemma": "أُسَرِيٌّ" },
+        { "w": "الوَالِدَيْنِ", "lemma": "وَالِدٌ / وَالِدَانِ" },
+        { "w": "وَالأَبْنَاءِ", "lemma": "ابْنٌ / أَبْنَاءٌ" },
+        { "w": "تَمْتَدُّ", "lemma": "امْتَدَّ يَمْتَدُّ" },
+        { "w": "لِتَشْمَلَ", "lemma": "شَمَلَ يَشْمَلُ" },
+        { "w": "الأَجْدَادَ", "lemma": "جَدٌّ / أَجْدَادٌ" },
+        { "w": "وَالأَعْمَامَ", "lemma": "عَمٌّ / أَعْمَامٌ" },
+        { "w": "وَالأَخْوالَ", "lemma": "خَالٌ / أَخْوَالٌ" },
+        { "w": "نَسِيجٍ", "lemma": "نَسِيجٌ / أَنْسِجَةٌ" },
+        { "w": "اِجْتِمَاعِيٍّ", "lemma": "اجْتِمَاعِيٌّ" },
+        { "w": "مُتَرَابِطٍ", "lemma": "مُتَرَابِطٌ" }
+      ]
     },
     {
-      "arabic": "يَلْعَبُ كِبَارُ السِّنِّ دَوْرًا مِحْوَرِيًّا فِي اتِّخَاذِ القَرَارَاتِ المَصِيرِيَّةِ، نَظَرًا لِمَا يَمْتَلِكُونَهُ مِنْ حِكْمَةٍ وَخِبْرَةٍ طَوِيلَةٍ فِي الحَيَاةِ.",
+      "arabic": "يَلْعَبُ كِبَارُ السِّنِّ دَوْرًا مِحْوَرِيًّا فِي اتِّخَاذِ القَرَارَاتِ المَصِيرِيَّةِ، نَظَرًا لِمَا يَمْتَلِكُونَهُ مِنْ حِكْمَةٍ وَخِبْرَةٍ طَوِيلَةٍ فِي الحَيَاةِ.",
       "translation": "Starije osobe igraju ključnu ulogu u donošenju sudbonosnih odluka, s obzirom na mudrost i dugo životno iskustvo koje posjeduju.",
-      "translationEn": "The elderly play a pivotal role in making crucial decisions, given the wisdom and long life experience they possess."
+      "translationEn": "The elderly play a pivotal role in making crucial decisions, given the wisdom and long life experience they possess.",
+      "words": [
+        { "w": "يَلْعَبُ", "lemma": "لَعِبَ يَلْعَبُ" },
+        { "w": "كِبَارُ", "lemma": "كَبِيرٌ / كِبَارٌ" },
+        { "w": "السِّنِّ", "lemma": "سِنٌّ / أَسْنَانٌ" },
+        { "w": "دَوْرًا", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "مِحْوَرِيًّا", "lemma": "مِحْوَرِيٌّ" },
+        { "w": "اتِّخَاذِ", "lemma": "اتِّخَاذٌ" },
+        { "w": "القَرَارَاتِ", "lemma": "قَرَارٌ / قَرَارَاتٌ" },
+        { "w": "المَصِيرِيَّةِ", "lemma": "مَصِيرِيٌّ" },
+        { "w": "يَمْتَلِكُونَهُ", "lemma": "امْتَلَكَ يَمْتَلِكُ" },
+        { "w": "حِكْمَةٍ", "lemma": "حِكْمَةٌ / حِكَمٌ" },
+        { "w": "وَخِبْرَةٍ", "lemma": "خِبْرَةٌ / خِبَرٌ" },
+        { "w": "طَوِيلَةٍ", "lemma": "طَوِيلٌ" },
+        { "w": "الحَيَاةِ", "lemma": "حَيَاةٌ" }
+      ]
     },
     {
-      "arabic": "وَمِنَ العَادَاتِ الشَّائِعَةِ اجْتِمَاعُ الأُسْرَةِ الكَبِيرَةِ فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ لِتَنَاوُلِ الغَدَاءِ وَتَبَادُلِ الأَحَادِيثِ.",
+      "arabic": "وَمِنَ العَادَاتِ الشَّائِعَةِ اجْتِمَاعُ الأُسْرَةِ الكَبِيرَةِ فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ لِتَنَاوُلِ الغَدَاءِ وَتَبَادُلِ الأَحَادِيثِ.",
       "translation": "Jedan od uobičajenih običaja je okupljanje velike porodice tokom vikenda na ručku i razgovoru.",
-      "translationEn": "A common custom is the gathering of the large family on weekends for lunch and conversation."
+      "translationEn": "A common custom is the gathering of the large family on weekends for lunch and conversation.",
+      "words": [
+        { "w": "العَادَاتِ", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "الشَّائِعَةِ", "lemma": "شَائِعٌ" },
+        { "w": "اجْتِمَاعُ", "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ" },
+        { "w": "الأُسْرَةِ", "lemma": "أُسْرَةٌ / أُسَرٌ" },
+        { "w": "الكَبِيرَةِ", "lemma": "كَبِيرٌ" },
+        { "w": "عُطْلَةِ", "lemma": "عُطْلَةٌ / عُطَلٌ" },
+        { "w": "نِهَايَةِ", "lemma": "نِهَايَةٌ / نِهَايَاتٌ" },
+        { "w": "الأُسْبُوعِ", "lemma": "أُسْبُوعٌ / أَسَابِيعُ" },
+        { "w": "لِتَنَاوُلِ", "lemma": "تَنَاوُلٌ" },
+        { "w": "الغَدَاءِ", "lemma": "غَدَاءٌ" },
+        { "w": "وَتَبَادُلِ", "lemma": "تَبَادُلٌ" },
+        { "w": "الأَحَادِيثِ", "lemma": "حَدِيثٌ / أَحَادِيثُ" }
+      ]
     },
     {
-      "arabic": "هَذَا التَّرَابُطُ الوَثِيقُ يُوَفِّرُ لِلْفَرْدِ شُعُورًا بِالأَمَانِ وَالِانْتِمَاءِ، مِمَّا يُقَلِّلُ مِنْ حِدَّةِ الضُّغُوطِ النَّفْسِيَّةِ المُعَاصِرَةِ.",
+      "arabic": "هَذَا التَّرَابُطُ الوَثِيقُ يُوَفِّرُ لِلْفَرْدِ شُعُورًا بِالأَمَانِ وَالِانْتِمَاءِ، مِمَّا يُقَلِّلُ مِنْ حِدَّةِ الضُّغُوطِ النَّفْسِيَّةِ المُعَاصِرَةِ.",
       "translation": "Ova bliska povezanost pruža pojedincu osjećaj sigurnosti i pripadnosti, što smanjuje intenzitet savremenih psihičkih pritisaka.",
-      "translationEn": "This close bonding provides the individual with a sense of security and belonging, which reduces the intensity of modern psychological pressures."
+      "translationEn": "This close bonding provides the individual with a sense of security and belonging, which reduces the intensity of modern psychological pressures.",
+      "words": [
+        { "w": "التَّرَابُطُ", "lemma": "تَرَابُطٌ" },
+        { "w": "الوَثِيقُ", "lemma": "وَثِيقٌ" },
+        { "w": "يُوَفِّرُ", "lemma": "وَفَّرَ يُوَفِّرُ" },
+        { "w": "لِلْفَرْدِ", "lemma": "فَرْدٌ / أَفْرَادٌ" },
+        { "w": "شُعُورًا", "lemma": "شُعُورٌ" },
+        { "w": "بِالأَمَانِ", "lemma": "أَمَانٌ" },
+        { "w": "وَالِانْتِمَاءِ", "lemma": "انْتِمَاءٌ" },
+        { "w": "يُقَلِّلُ", "lemma": "قَلَّلَ يُقَلِّلُ" },
+        { "w": "حِدَّةِ", "lemma": "حِدَّةٌ" },
+        { "w": "الضُّغُوطِ", "lemma": "ضَغْطٌ / ضُغُوطٌ" },
+        { "w": "النَّفْسِيَّةِ", "lemma": "نَفْسِيٌّ" },
+        { "w": "المُعَاصِرَةِ", "lemma": "مُعَاصِرٌ" }
+      ]
     }
   ],
   "metadata": {

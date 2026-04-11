@@ -4,29 +4,98 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ التَّمْرُ عُنْصُراً غِذَائِيّاً مُتَكَامِلاً فِي الثَّقَافَةِ الْعَرَبِيَّةِ، لِمَا يَحْتَوِيهِ مِنْ فِيتَامِينَاتٍ وَمَعَادِنَ ضَرُورِيَّةٍ لِصِحَّةِ الْإِنْسَانِ.",
+      "arabic": "يُعْتَبَرُ التَّمْرُ عُنْصُراً غِذَائِيّاً مُتَكَامِلاً فِي الثَّقَافَةِ الْعَرَبِيَّةِ، لِمَا يَحْتَوِيهِ مِنْ فِيتَامِينَاتٍ وَمَعَادِنَ ضَرُورِيَّةٍ لِصِحَّةِ الْإِنْسَانِ.",
       "translation": "Hurme se smatraju potpunim nutritivnim elementom u arapskoj kulturi, zbog vitamina i minerala koje sadrže, a koji su neophodni za ljudsko zdravlje.",
-      "translationEn": "Dates are considered a complete nutritional element in Arab culture due to the essential vitamins and minerals they contain for human health."
+      "translationEn": "Dates are considered a complete nutritional element in Arab culture due to the essential vitamins and minerals they contain for human health.",
+      "words": [
+        { "w": "التَّمْرُ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "عُنْصُراً", "lemma": "عُنْصُرٌ / عَنَاصِرُ" },
+        { "w": "غِذَائِيّاً", "lemma": "غِذَائِيٌّ" },
+        { "w": "مُتَكَامِلاً", "lemma": "مُتَكَامِلٌ" },
+        { "w": "الثَّقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "يَحْتَوِيهِ", "lemma": "احْتَوَى يَحْتَوِي" },
+        { "w": "فِيتَامِينَاتٍ", "lemma": "فِيتَامِينٌ / فِيتَامِينَاتٌ" },
+        { "w": "وَمَعَادِنَ", "lemma": "مَعْدِنٌ / مَعَادِنُ" },
+        { "w": "ضَرُورِيَّةٍ", "lemma": "ضَرُورِيٌّ" },
+        { "w": "لِصِحَّةِ", "lemma": "صِحَّةٌ" },
+        { "w": "الْإِنْسَانِ", "lemma": "إِنْسَانٌ / نَاسٌ" }
+      ]
     },
     {
-      "arabic": "يَمُدُّ التَّمْرُ الْجِسْمَ بِطَاقَةٍ فَوْرِيَّةٍ بِفَضْلِ السُّكَّرِيَّاتِ الطَّبِيعِيَّةِ، مِمَّا يَجْعَلُهُ الْخِيَارَ الْأَمْثَلَ لِكَسْرِ الصِّيَامِ فِي شَهْرِ رَمَضَانَ.",
+      "arabic": "يَمُدُّ التَّمْرُ الْجِسْمَ بِطَاقَةٍ فَوْرِيَّةٍ بِفَضْلِ السُّكَّرِيَّاتِ الطَّبِيعِيَّةِ، مِمَّا يَجْعَلُهُ الْخِيَارَ الْأَمْثَلَ لِكَسْرِ الصِّيَامِ فِي شَهْرِ رَمَضَانَ.",
       "translation": "Hurme opskrbljuju tijelo trenutnom energijom zahvaljujući prirodnim šećerima, što ih čini idealnim izborom za prekid posta u mjesecu ramazanu.",
-      "translationEn": "Dates provide the body with immediate energy thanks to natural sugars, making them the ideal choice for breaking the fast during the month of Ramadan."
+      "translationEn": "Dates provide the body with immediate energy thanks to natural sugars, making them the ideal choice for breaking the fast during the month of Ramadan.",
+      "words": [
+        { "w": "يَمُدُّ", "lemma": "مَدَّ يَمُدُّ" },
+        { "w": "التَّمْرُ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "الْجِسْمَ", "lemma": "جِسْمٌ / أَجْسَامٌ" },
+        { "w": "بِطَاقَةٍ", "lemma": "طَاقَةٌ" },
+        { "w": "فَوْرِيَّةٍ", "lemma": "فَوْرِيٌّ" },
+        { "w": "السُّكَّرِيَّاتِ", "lemma": "سُكَّرِيَّاتٌ" },
+        { "w": "الطَّبِيعِيَّةِ", "lemma": "طَبِيعِيٌّ" },
+        { "w": "يَجْعَلُهُ", "lemma": "جَعَلَ يَجْعَلُ" },
+        { "w": "الْخِيَارَ", "lemma": "خِيَارٌ / خِيَارَاتٌ" },
+        { "w": "الْأَمْثَلَ", "lemma": "أَمْثَلُ" },
+        { "w": "لِكَسْرِ", "lemma": "كَسْرٌ" },
+        { "w": "الصِّيَامِ", "lemma": "صِيَامٌ" },
+        { "w": "شَهْرِ", "lemma": "شَهْرٌ / أَشْهُرٌ" },
+        { "w": "رَمَضَانَ", "lemma": "رَمَضَانُ" }
+      ]
     },
     {
-      "arabic": "كَمَا أَنَّهُ غَنِيٌّ بِالْأَلْيَافِ الَّتِي تُحَسِّنُ عَمَلِيَّةَ الْهَضْمِ، وَتُسَاعِدُ فِي الْوِقَايَةِ مِنْ أَمْرَاضِ الْقَلْبِ وَتَصَلُّبِ الشَّرَايِينِ.",
+      "arabic": "كَمَا أَنَّهُ غَنِيٌّ بِالْأَلْيَافِ الَّتِي تُحَسِّنُ عَمَلِيَّةَ الْهَضْمِ، وَتُسَاعِدُ فِي الْوِقَايَةِ مِنْ أَمْرَاضِ الْقَلْبِ وَتَصَلُّبِ الشَّرَايِينِ.",
       "translation": "Također su bogate vlaknima koja poboljšavaju probavu i pomažu u prevenciji srčanih bolesti i začepljenja krvnih sudova.",
-      "translationEn": "They are also rich in fiber, which improves digestion and helps prevent heart disease and hardening of the arteries."
+      "translationEn": "They are also rich in fiber, which improves digestion and helps prevent heart disease and hardening of the arteries.",
+      "words": [
+        { "w": "غَنِيٌّ", "lemma": "غَنِيٌّ" },
+        { "w": "بِالْأَلْيَافِ", "lemma": "لِيفٌ / أَلْيَافٌ" },
+        { "w": "تُحَسِّنُ", "lemma": "حَسَّنَ يُحَسِّنُ" },
+        { "w": "عَمَلِيَّةَ", "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ" },
+        { "w": "الْهَضْمِ", "lemma": "هَضْمٌ" },
+        { "w": "وَتُسَاعِدُ", "lemma": "سَاعَدَ يُسَاعِدُ" },
+        { "w": "الْوِقَايَةِ", "lemma": "وِقَايَةٌ" },
+        { "w": "أَمْرَاضِ", "lemma": "مَرَضٌ / أَمْرَاضٌ" },
+        { "w": "الْقَلْبِ", "lemma": "قَلْبٌ / قُلُوبٌ" },
+        { "w": "وَتَصَلُّبِ", "lemma": "تَصَلُّبٌ" },
+        { "w": "الشَّرَايِينِ", "lemma": "شِرْيَانٌ / شَرَايِينُ" }
+      ]
     },
     {
-      "arabic": "يُنْصَحُ بِتَنَاوُلِهِ بِاعْتِدَالٍ مَعَ لِتْرٍ مِنَ الْمَاءِ أَوْ كُوبٍ مِنَ اللَّبَنِ الطَّازَجِ لِتَحْقِيقِ التَّوَازُنِ الْغِذَائِيِّ الْمَطْلُوبِ.",
+      "arabic": "يُنْصَحُ بِتَنَاوُلِهِ بِاعْتِدَالٍ مَعَ لِتْرٍ مِنَ الْمَاءِ أَوْ كُوبٍ مِنَ اللَّبَنِ الطَّازَجِ لِتَحْقِيقِ التَّوَازُنِ الْغِذَائِيِّ الْمَطْلُوبِ.",
       "translation": "Preporučuje se njihovo umjereno konzumiranje uz litar vode ili čašu svježeg jogurta kako bi se postigla željena nutritivna ravnoteža.",
-      "translationEn": "It is recommended to consume them in moderation with a liter of water or a glass of fresh yogurt to achieve the required nutritional balance."
+      "translationEn": "It is recommended to consume them in moderation with a liter of water or a glass of fresh yogurt to achieve the required nutritional balance.",
+      "words": [
+        { "w": "يُنْصَحُ", "lemma": "نَصَحَ يَنْصَحُ" },
+        { "w": "بِتَنَاوُلِهِ", "lemma": "تَنَاوُلٌ" },
+        { "w": "بِاعْتِدَالٍ", "lemma": "اعْتِدَالٌ" },
+        { "w": "لِتْرٍ", "lemma": "لِتْرٌ / لِتْرَاتٌ" },
+        { "w": "الْمَاءِ", "lemma": "مَاءٌ / مِيَاهٌ" },
+        { "w": "كُوبٍ", "lemma": "كُوبٌ / أَكْوَابٌ" },
+        { "w": "اللَّبَنِ", "lemma": "لَبَنٌ" },
+        { "w": "الطَّازَجِ", "lemma": "طَازَجٌ" },
+        { "w": "لِتَحْقِيقِ", "lemma": "تَحْقِيقٌ" },
+        { "w": "التَّوَازُنِ", "lemma": "تَوَازُنٌ" },
+        { "w": "الْغِذَائِيِّ", "lemma": "غِذَائِيٌّ" },
+        { "w": "الْمَطْلُوبِ", "lemma": "مَطْلُوبٌ" }
+      ]
     },
     {
-      "arabic": "لِذَلِكَ، لَا تَخْلُو الْمَوَائِدُ الْعَرَبِيَّةُ مِنْ هَذِهِ الثَّمَرَةِ الْمُبَارَكَةِ الَّتِي تُرْبِطُ بَيْنَ التَّغْذِيَةِ السَّلِيمَةِ وَالتُّرَاثِ الْأَصِيلِ.",
+      "arabic": "لِذَلِكَ، لَا تَخْلُو الْمَوَائِدُ الْعَرَبِيَّةُ مِنْ هَذِهِ الثَّمَرَةِ الْمُبَارَكَةِ الَّتِي تُرْبِطُ بَيْنَ التَّغْذِيَةِ السَّلِيمَةِ وَالتُّرَاثِ الْأَصِيلِ.",
       "translation": "Zbog toga arapske trpeze nisu bez ovog blagoslovljenog ploda koji povezuje zdravu ishranu sa izvornom tradicijom.",
-      "translationEn": "Therefore, Arab tables are never without this blessed fruit that links healthy nutrition with authentic heritage."
+      "translationEn": "Therefore, Arab tables are never without this blessed fruit that links healthy nutrition with authentic heritage.",
+      "words": [
+        { "w": "تَخْلُو", "lemma": "خَلَا يَخْلُو" },
+        { "w": "الْمَوَائِدُ", "lemma": "مَائِدَةٌ / مَوَائِدُ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "الثَّمَرَةِ", "lemma": "ثَمَرَةٌ / ثِمَارٌ" },
+        { "w": "الْمُبَارَكَةِ", "lemma": "مُبَارَكٌ" },
+        { "w": "تُرْبِطُ", "lemma": "رَبَطَ يَرْبُطُ" },
+        { "w": "التَّغْذِيَةِ", "lemma": "تَغْذِيَةٌ" },
+        { "w": "السَّلِيمَةِ", "lemma": "سَلِيمٌ" },
+        { "w": "وَالتُّرَاثِ", "lemma": "تُرَاثٌ" },
+        { "w": "الْأَصِيلِ", "lemma": "أَصِيلٌ" }
+      ]
     }
   ],
   "metadata": {

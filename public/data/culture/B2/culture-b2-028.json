@@ -4,34 +4,290 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَعْكِسُ المَطْبَخُ العَرَبِيُّ تَنَوُّعًا ثَقَافِيًّا وَجُغْرَافِيًّا هَائِلًا، حَيْثُ تَمْتَزِجُ فِيهِ التَّوَابِلُ العَطِرَةُ بِالنَّكَهَاتِ الأَصِيلَةِ.",
+      "arabic": "يَعْكِسُ الْمَطْبَخُ الْعَرَبِيُّ تَنَوُّعًا ثَقَافِيًّا وَجُغْرَافِيًّا هَائِلًا، حَيْثُ تَمْتَزِجُ فِيهِ التَّوَابِلُ الْعَطِرَةُ بِالنَّكَهَاتِ الأَصِيلَةِ.",
       "translation": "Arapska kuhinja odražava ogromnu kulturnu i geografsku raznolikost, gdje se mirisni začini miješaju s autentičnim okusima.",
-      "translationEn": "Arabic cuisine reflects an immense cultural and geographical diversity, where aromatic spices blend with authentic flavors."
+      "translationEn": "Arabic cuisine reflects an immense cultural and geographical diversity, where aromatic spices blend with authentic flavors.",
+      "words": [
+        {
+          "w": "يَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الْمَطْبَخُ",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "تَنَوُّعًا",
+          "lemma": "تَنَوُّعٌ"
+        },
+        {
+          "w": "ثَقَافِيًّا",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "وَجُغْرَافِيًّا",
+          "lemma": "جُغْرَافِيٌّ"
+        },
+        {
+          "w": "هَائِلًا",
+          "lemma": "هَائِلٌ"
+        },
+        {
+          "w": "تَمْتَزِجُ",
+          "lemma": "امْتَزَجَ يَمْتَزِجُ"
+        },
+        {
+          "w": "التَّوَابِلُ",
+          "lemma": "تَابِلٌ / تَوَابِلُ"
+        },
+        {
+          "w": "الْعَطِرَةُ",
+          "lemma": "عَطِرٌ"
+        },
+        {
+          "w": "بِالنَّكَهَاتِ",
+          "lemma": "نَكْهَةٌ / نَكَهَاتٌ"
+        },
+        {
+          "w": "الأَصِيلَةِ",
+          "lemma": "أَصِيلٌ"
+        }
+      ]
     },
     {
-      "arabic": "تُعَدُّ مَائِدَةُ الطَّعَامِ مَكَانًا لِلاجْتِمَاعِ العَائِلِيِّ، حَيْثُ يَتَشَارَكُ الجَمِيعُ الأَطْبَاقَ فِي أَجْوَاءٍ مِلْؤُهَا المَوَدَّةُ.",
+      "arabic": "تُعَدُّ مَائِدَةُ الطَّعَامِ مَكَانًا لِلاجْتِمَاعِ الْعَائِلِيِّ، حَيْثُ يَتَشَارَكُ الْجَمِيعُ الأَطْبَاقَ فِي أَجْوَاءٍ مِلْؤُهَا الْمَوَدَّةُ.",
       "translation": "Trpeza je mjesto porodičnog okupljanja, gdje svi dijele jela u atmosferi punoj ljubavi.",
-      "translationEn": "The dining table is a place for family gathering, where everyone shares dishes in an atmosphere full of affection."
+      "translationEn": "The dining table is a place for family gathering, where everyone shares dishes in an atmosphere full of affection.",
+      "words": [
+        {
+          "w": "تُعَدُّ",
+          "lemma": "عَدَّ يَعُدُّ"
+        },
+        {
+          "w": "مَائِدَةُ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "مَكَانًا",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "لِلاجْتِمَاعِ",
+          "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ"
+        },
+        {
+          "w": "الْعَائِلِيِّ",
+          "lemma": "عَائِلِيٌّ"
+        },
+        {
+          "w": "يَتَشَارَكُ",
+          "lemma": "تَشَارَكَ يَتَشَارَكُ"
+        },
+        {
+          "w": "الأَطْبَاقَ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "أَجْوَاءٍ",
+          "lemma": "جَوٌّ / أَجْوَاءٌ"
+        },
+        {
+          "w": "الْمَوَدَّةُ",
+          "lemma": "مَوَدَّةٌ"
+        }
+      ]
     },
     {
-      "arabic": "فِي المَغْرِبِ العَرَبِيِّ، يَتَصَدَّرُ \"الكُسْكُسِيُّ\" وَ\"الطَّاجِينُ\" قَائِمَةَ المَأْكُولَاتِ الشَّعْبِيَّةِ، بَيْنَمَا تَشْتَهِرُ بِلَادُ الشَّامِ بِـ\"المَقْلُوبَةِ\" وَ\"المَشَاوِي\" المُتَنَوِّعَةِ.",
+      "arabic": "فِي الْمَغْرِبِ الْعَرَبِيِّ، يَتَصَدَّرُ \"الْكُسْكُسِيُّ\" وَ\"الطَّاجِينُ\" قَائِمَةَ الْمَأْكُولَاتِ الشَّعْبِيَّةِ، بَيْنَمَا تَشْتَهِرُ بِلَادُ الشَّامِ بِـ\"الْمَقْلُوبَةِ\" وَ\"الْمَشَاوِي\" الْمُتَنَوِّعَةِ.",
       "translation": "U Magrebu, kuskus i tadžin predvode listu popularnih jela, dok je Levant poznat po maklubi i raznim vrstama roštilja.",
-      "translationEn": "In the Maghreb, 'Couscous' and 'Tagine' top the list of popular foods, while the Levant is famous for 'Maqluba' and various 'Grills.'"
+      "translationEn": "In the Maghreb, 'Couscous' and 'Tagine' top the list of popular foods, while the Levant is famous for 'Maqluba' and various 'Grills.'",
+      "words": [
+        {
+          "w": "الْمَغْرِبِ",
+          "lemma": "مَغْرِبٌ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "يَتَصَدَّرُ",
+          "lemma": "تَصَدَّرَ يَتَصَدَّرُ"
+        },
+        {
+          "w": "قَائِمَةَ",
+          "lemma": "قَائِمَةٌ / قَوَائِمُ"
+        },
+        {
+          "w": "الْمَأْكُولَاتِ",
+          "lemma": "مَأْكُولٌ / مَأْكُولَاتٌ"
+        },
+        {
+          "w": "الشَّعْبِيَّةِ",
+          "lemma": "شَعْبِيٌّ"
+        },
+        {
+          "w": "تَشْتَهِرُ",
+          "lemma": "اشْتَهَرَ يَشْتَهِرُ"
+        },
+        {
+          "w": "بِلَادُ",
+          "lemma": "بِلَادٌ / بُلْدَانٌ"
+        },
+        {
+          "w": "الشَّامِ",
+          "lemma": "الشَّامُ"
+        },
+        {
+          "w": "وَ\"الْمَشَاوِي",
+          "lemma": "مَشْوِيٌّ / مَشَاوٍ"
+        },
+        {
+          "w": "الْمُتَنَوِّعَةِ",
+          "lemma": "مُتَنَوِّعٌ"
+        }
+      ]
     },
     {
-      "arabic": "لَا تَخْلُو أَيُّ مَأْدُبَةٍ مِنَ \"المُقَبِّلَاتِ\" أَوْ مَا يُعْرَفُ بِـ\"المَزَّةِ\"، الَّتِي تَفْتَحُ الشَّهِيَّةَ بِأَلْوَانِهَا الزَّاهِيَةِ.",
+      "arabic": "لَا تَخْلُو أَيُّ مَأْدُبَةٍ مِنَ \"الْمُقَبِّلَاتِ\" أَوْ مَا يُعْرَفُ بِـ\"الْمَزَّةِ\"، الَّتِي تَفْتَحُ الشَّهِيَّةَ بِأَلْوَانِهَا الزَّاهِيَةِ.",
       "translation": "Nijedna gozba nije potpuna bez predjela, poznatih kao 'meza', koja svojim jarkim bojama otvaraju apetit.",
-      "translationEn": "No banquet is devoid of appetizers, or what is known as 'Mezza,' which whet the appetite with their bright colors."
+      "translationEn": "No banquet is devoid of appetizers, or what is known as 'Mezza,' which whet the appetite with their bright colors.",
+      "words": [
+        {
+          "w": "تَخْلُو",
+          "lemma": "خَلَا يَخْلُو"
+        },
+        {
+          "w": "مَأْدُبَةٍ",
+          "lemma": "مَأْدُبَةٌ / مَآدِبُ"
+        },
+        {
+          "w": "الْمُقَبِّلَاتِ",
+          "lemma": "مُقَبِّلَةٌ / مُقَبِّلَاتٌ"
+        },
+        {
+          "w": "يُعْرَفُ",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "تَفْتَحُ",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "الشَّهِيَّةَ",
+          "lemma": "شَهِيَّةٌ"
+        },
+        {
+          "w": "بِأَلْوَانِهَا",
+          "lemma": "لَوْنٌ / أَلْوَانٌ"
+        },
+        {
+          "w": "الزَّاهِيَةِ",
+          "lemma": "زَاهٍ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ اسْتِخْدَامَ زَيْتِ الزَّيْتُونِ وَالأَعْشَابِ البَرِّيَّةِ يُضْفِي طَابَعًا صِحِّيًّا وَفَرِيدًا عَلَى الوَجَبَاتِ التَّقْلِيدِيَّةِ.",
+      "arabic": "إِنَّ اسْتِخْدَامَ زَيْتِ الزَّيْتُونِ وَالأَعْشَابِ الْبَرِّيَّةِ يُضْفِي طَابَعًا صِحِّيًّا وَفَرِيدًا عَلَى الْوَجَبَاتِ التَّقْلِيدِيَّةِ.",
       "translation": "Upotreba maslinovog ulja i samoniklog bilja daje zdrav i jedinstven karakter tradicionalnim obrocima.",
-      "translationEn": "The use of olive oil and wild herbs adds a healthy and unique character to traditional meals."
+      "translationEn": "The use of olive oil and wild herbs adds a healthy and unique character to traditional meals.",
+      "words": [
+        {
+          "w": "اسْتِخْدَامَ",
+          "lemma": "اسْتِخْدَامٌ"
+        },
+        {
+          "w": "زَيْتِ",
+          "lemma": "زَيْتٌ"
+        },
+        {
+          "w": "الزَّيْتُونِ",
+          "lemma": "زَيْتُونٌ"
+        },
+        {
+          "w": "وَالأَعْشَابِ",
+          "lemma": "عُشْبٌ / أَعْشَابٌ"
+        },
+        {
+          "w": "الْبَرِّيَّةِ",
+          "lemma": "بَرِّيٌّ"
+        },
+        {
+          "w": "يُضْفِي",
+          "lemma": "أَضْفَى يُضْفِي"
+        },
+        {
+          "w": "طَابَعًا",
+          "lemma": "طَابَعٌ / طَوَابِعُ"
+        },
+        {
+          "w": "صِحِّيًّا",
+          "lemma": "صِحِّيٌّ"
+        },
+        {
+          "w": "وَفَرِيدًا",
+          "lemma": "فَرِيدٌ"
+        },
+        {
+          "w": "الْوَجَبَاتِ",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةِ",
+          "lemma": "تَقْلِيدِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "وَفِي نِهَايَةِ كُلِّ وَجْبَةٍ، لَا بُدَّ مِنْ تَقْدِيمِ الحَلَوِيَّاتِ الشَّرْقِيَّةِ المَغْمُورَةِ بِالعَسَلِ وَالمُكَسَّرَاتِ.",
+      "arabic": "وَفِي نِهَايَةِ كُلِّ وَجْبَةٍ، لَا بُدَّ مِنْ تَقْدِيمِ الْحَلَوِيَّاتِ الشَّرْقِيَّةِ الْمَغْمُورَةِ بِالْعَسَلِ وَالْمُكَسَّرَاتِ.",
       "translation": "Na kraju svakog obroka, neizostavno se služe orijentalni slatkiši natopljeni medom i orašastim plodovima.",
-      "translationEn": "At the end of every meal, oriental sweets drenched in honey and nuts must be served."
+      "translationEn": "At the end of every meal, oriental sweets drenched in honey and nuts must be served.",
+      "words": [
+        {
+          "w": "نِهَايَةِ",
+          "lemma": "نِهَايَةٌ / نِهَايَاتٌ"
+        },
+        {
+          "w": "كُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "وَجْبَةٍ",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "تَقْدِيمِ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "الْحَلَوِيَّاتِ",
+          "lemma": "حَلَوِيَّةٌ / حَلَوِيَّاتٌ"
+        },
+        {
+          "w": "الشَّرْقِيَّةِ",
+          "lemma": "شَرْقِيٌّ"
+        },
+        {
+          "w": "الْمَغْمُورَةِ",
+          "lemma": "مَغْمُورٌ"
+        },
+        {
+          "w": "بِالْعَسَلِ",
+          "lemma": "عَسَلٌ"
+        },
+        {
+          "w": "وَالْمُكَسَّرَاتِ",
+          "lemma": "مُكَسَّرٌ / مُكَسَّرَاتٌ"
+        }
+      ]
     }
   ],
   "metadata": {

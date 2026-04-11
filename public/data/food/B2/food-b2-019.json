@@ -4,25 +4,99 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "زَارَ أَحْمَدُ مَطْعَمًا تَقْلِيدِيًّا كَبِيرًا مَعَ عَائِلَتِهِ.",
+      "arabic": "زَارَ أَحْمَدُ مَطْعَمًا تَقْلِيدِيًّا كَبِيرًا مَعَ عَائِلَتِهِ.",
       "translation": "Ahmed je posjetio veliki tradicionalni restoran sa svojom porodicom.",
       "translationEn": "Ahmed visited a large traditional restaurant with his family.",
-      "words": []
+      "words": [
+        {
+          "w": "زَارَ",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "أَحْمَدُ",
+          "lemma": "أَحْمَدُ"
+        },
+        {
+          "w": "مَطْعَمًا",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "تَقْلِيدِيًّا",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "كَبِيرًا",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "عَائِلَتِهِ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "طَلَبُوا الْمَشْوِيَّاتِ اللَّذِيذَةَ وَالْأَرُزَّ مَعَ السَّلَطَةِ الْخَضْرَاءِ.",
+      "arabic": "طَلَبُوا الْمَشْوِيَّاتِ اللَّذِيذَةَ وَالْأَرُزَّ مَعَ السَّلَطَةِ الْخَضْرَاءِ.",
       "translation": "Naručili su ukusan roštilj i rižu sa zelenom salatom.",
       "translationEn": "They ordered delicious grilled meats and rice with green salad.",
-      "words": []
+      "words": [
+        {
+          "w": "طَلَبُوا",
+          "lemma": "طَلَبَ يَطْلُبُ"
+        },
+        {
+          "w": "الْمَشْوِيَّاتِ",
+          "lemma": "مَشْوِيَّاتٌ"
+        },
+        {
+          "w": "اللَّذِيذَةَ",
+          "lemma": "لَذِيذٌ"
+        },
+        {
+          "w": "وَالْأَرُزَّ",
+          "lemma": "أُرْزٌ"
+        },
+        {
+          "w": "السَّلَطَةِ",
+          "lemma": "سَلَطَةٌ / سَلَطَاتٌ"
+        },
+        {
+          "w": "الْخَضْرَاءِ",
+          "lemma": "أَخْضَرُ"
+        }
+      ]
     },
     {
-      "arabic": "كَانَ الطَّعَامُ طَيِّبًا جِدًّا وَالْخِدْمَةُ فِي الْمَطْعَمِ مُمْتَازَةً.",
+      "arabic": "كَانَ الطَّعَامُ طَيِّبًا جِدًّا وَالْخِدْمَةُ فِي الْمَطْعَمِ مُمْتَازَةً.",
       "translation": "Hrana je bila veoma dobra, a usluga u restoranu odlična.",
       "translationEn": "The food was very good and the service in the restaurant was excellent.",
       "words": [
         {
           "w": "كَانَ",
           "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "الطَّعَامُ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "طَيِّبًا",
+          "lemma": "طَيِّبٌ"
+        },
+        {
+          "w": "جِدًّا",
+          "lemma": "جِدًّا"
+        },
+        {
+          "w": "وَالْخِدْمَةُ",
+          "lemma": "خِدْمَةٌ / خِدَمَاتٌ"
+        },
+        {
+          "w": "الْمَطْعَمِ",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "مُمْتَازَةً",
+          "lemma": "مُمْتَازٌ"
         }
       ]
     }

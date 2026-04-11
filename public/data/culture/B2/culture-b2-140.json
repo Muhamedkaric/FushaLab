@@ -9,8 +9,28 @@
       "translationEn": "Faloodeh is a popular sweet in some Arab countries.",
       "words": [
         {
+          "w": "الْفَالُوذَجُ",
+          "lemma": "فَالُوذَجٌ"
+        },
+        {
+          "w": "حَلْوَى",
+          "lemma": "حَلْوَى / حَلْوَيَاتٌ"
+        },
+        {
+          "w": "شَعْبِيَّةٌ",
+          "lemma": "شَعْبِيٌّ"
+        },
+        {
           "w": "بَعْضِ",
           "lemma": "بَعْضٌ"
+        },
+        {
+          "w": "الدُّوَلِ",
+          "lemma": "دَوْلَةٌ / دُوَلٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
         }
       ]
     },
@@ -18,25 +38,105 @@
       "arabic": "يُصْنَعُ مِنَ الأَرُزِّ وَالْحَلِيبِ وَمَاءِ الْوَرْدِ وَالسُّكَّرِ.",
       "translation": "Pravi se od riže, mlijeka, ružine vode i šećera.",
       "translationEn": "It is made from rice, milk, rose water, and sugar.",
-      "words": []
+      "words": [
+        {
+          "w": "يُصْنَعُ",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "الأَرُزِّ",
+          "lemma": "أُرْزٌ"
+        },
+        {
+          "w": "وَالْحَلِيبِ",
+          "lemma": "حَلِيبٌ"
+        },
+        {
+          "w": "وَمَاءِ",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "الْوَرْدِ",
+          "lemma": "وَرْدٌ / وُرُودٌ"
+        },
+        {
+          "w": "وَالسُّكَّرِ",
+          "lemma": "سُكَّرٌ"
+        }
+      ]
     },
     {
       "arabic": "يُقَدَّمُ بَارِدًا فِي الْأَطْبَاقِ وَيُزَيَّنُ بِالْفِسْتُقِ.",
       "translation": "Servira se hladno u tanjirima i ukrašena pistacijama.",
       "translationEn": "It is served cold in dishes and garnished with pistachios.",
-      "words": []
+      "words": [
+        {
+          "w": "يُقَدَّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "بَارِدًا",
+          "lemma": "بَارِدٌ"
+        },
+        {
+          "w": "الْأَطْبَاقِ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "وَيُزَيَّنُ",
+          "lemma": "زَيَّنَ يُزَيِّنُ"
+        },
+        {
+          "w": "بِالْفِسْتُقِ",
+          "lemma": "فِسْتُقٌ"
+        }
+      ]
     },
     {
       "arabic": "كَثِيرًا مَا يُؤْكَلُ فِي رَمَضَانَ أَوِ الأَعْيَادِ.",
       "translation": "Često se jede u ramazanu ili tokom praznika.",
       "translationEn": "It is often eaten during Ramadan or celebrations.",
-      "words": []
+      "words": [
+        {
+          "w": "يُؤْكَلُ",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "رَمَضَانَ",
+          "lemma": "رَمَضَانُ"
+        },
+        {
+          "w": "الأَعْيَادِ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        }
+      ]
     },
     {
       "arabic": "الْحَلْوَيَاتُ الْعَرَبِيَّةُ جُزْءٌ لَا يَتَجَزَّأُ مِنَ الاحْتِفَالَاتِ.",
       "translation": "Arapske slastice su neodvojivi dio proslava.",
       "translationEn": "Arab sweets are an inseparable part of festivities.",
-      "words": []
+      "words": [
+        {
+          "w": "الْحَلْوَيَاتُ",
+          "lemma": "حَلْوَى / حَلْوَيَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "جُزْءٌ",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "يَتَجَزَّأُ",
+          "lemma": "تَجَزَّأَ يَتَجَزَّأُ"
+        },
+        {
+          "w": "الاحْتِفَالَاتِ",
+          "lemma": "احْتِفَالٌ / احْتِفَالَاتٌ"
+        }
+      ]
     }
   ],
   "metadata": {

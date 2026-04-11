@@ -4,50 +4,342 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَمْتَلِكُ المُوسِيقَى العَرَبِيَّةُ نِظَامًا نَغَمِيًّا فَرِيدًا يُعْرَفُ بِـ \"المَقَامَاتِ\"، وَهِيَ الَّتِي تَمْنَحُ الأَلْحَانَ عُمْقًا وَتَعْبِيرًا عَنْ مُخْتَلِفِ المَشَاعِرِ الإِنْسَانِيَّةِ.",
+      "arabic": "تَمْتَلِكُ المُوسِيقَى العَرَبِيَّةُ نِظَامًا نَغَمِيًّا فَرِيدًا يُعْرَفُ بِـ \"المَقَامَاتِ\"، وَهِيَ الَّتِي تَمْنَحُ الأَلْحَانَ عُمْقًا وَتَعْبِيرًا عَنْ مُخْتَلِفِ المَشَاعِرِ الإِنْسَانِيَّةِ.",
       "translation": "Arapska muzika posjeduje jedinstven tonski sistem poznat kao 'makami', koji melodijama daju dubinu i izražajnost različitih ljudskih osjećanja.",
       "translationEn": "Arabic music possesses a unique tonal system known as 'maqamat', which gives melodies depth and expression of various human emotions.",
-      "words": []
-    },
-    {
-      "arabic": "يُعْتَبَرُ العُودُ \"سُلْطَانَ الآلَاتِ\"، حَيْثُ يَنْبِضُ بِأَوْتَارِهِ لِيَحْكِيَ قِصَصًا مِنَ التُّرَاثِ وَالأَدَبِ العَرَبِيِّ القَدِيمِ.",
-      "translation": "Oud se smatra 'sultanom instrumenata', jer on pulsira svojim žicama pričajući priče iz drevne arapske baštine i književnosti.",
-      "translationEn": "The Oud is considered the 'sultan of instruments', as it pulses with its strings to tell stories from ancient Arab heritage and literature.",
-      "words": []
-    },
-    {
-      "arabic": "لَا تَعْتَمِدُ هَذِهِ المُوسِيقَى عَلَى الإِيقَاعِ فَحَسْبُ، بَلْ تُرَكِّزُ عَلَى صَوْتِ المُغَنِّي وَقُدْرَتِهِ عَلَى الِارْتِجَالِ وَالتَّأْثِيرِ فِي نُفُوسِ المُسْتَمِعِينَ.",
-      "translation": "Ova muzika se ne oslanja samo na ritam, već se fokusira na glas pjevača i njegovu sposobnost improvizacije i uticanja na duše slušalaca.",
-      "translationEn": "This music does not rely on rhythm alone, but focuses on the singer's voice and their ability to improvise and influence the souls of the listeners.",
-      "words": []
-    },
-    {
-      "arabic": "يَبْرُزُ مَفْهُومُ \"الطَّرَبِ\" كَحَالَةٍ مِنَ الِانْتِشَاءِ الوِجْدَانِيِّ الَّتِي يَصِلُ إِلَيْهَا الجُمْهُورُ عِنْدَ سَمَاعِ أَدَاءٍ مُتْقَنٍ وَمُؤَثِّرٍ.",
-      "translation": "Pojam 'tarab' ističe se kao stanje emocionalne ushićenosti do kojeg publika dolazi slušajući majstorsko i dirljivo izvođenje.",
-      "translationEn": "The concept of 'tarab' stands out as a state of emotional ecstasy that the audience reaches when hearing a masterful and moving performance.",
       "words": [
         {
-          "w": "عِنْدَ",
-          "lemma": "عِنْدَ"
+          "w": "تَمْتَلِكُ",
+          "lemma": "امْتَلَكَ يَمْتَلِكُ"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "العَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "نِظَامًا",
+          "lemma": "نِظَامٌ / أَنْظِمَةٌ"
+        },
+        {
+          "w": "نَغَمِيًّا",
+          "lemma": "نَغَمِيٌّ"
+        },
+        {
+          "w": "فَرِيدًا",
+          "lemma": "فَرِيدٌ"
+        },
+        {
+          "w": "يُعْرَفُ",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "المَقَامَاتِ",
+          "lemma": "مَقَامٌ / مَقَامَاتٌ"
+        },
+        {
+          "w": "تَمْنَحُ",
+          "lemma": "مَنَحَ يَمْنَحُ"
+        },
+        {
+          "w": "الأَلْحَانَ",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "عُمْقًا",
+          "lemma": "عُمْقٌ"
+        },
+        {
+          "w": "وَتَعْبِيرًا",
+          "lemma": "تَعْبِيرٌ"
+        },
+        {
+          "w": "المَشَاعِرِ",
+          "lemma": "شُعُورٌ / مَشَاعِرُ"
+        },
+        {
+          "w": "الإِنْسَانِيَّةِ",
+          "lemma": "إِنْسَانِيٌّ"
         }
       ]
     },
     {
-      "arabic": "عَبْرَ التَّارِيخِ، تَأَثَّرَتِ المُوسِيقَى العَرَبِيَّةُ بِالحَضَارَاتِ المُجَاوِرَةِ، لَكِنَّهَا حَافَظَتْ عَلَى هُوِيَّتِهَا الأَصِيلَةِ وَآلَاتِهَا التَّقْلِيدِيَّةِ مِثْلَ القَانُونِ وَالنَّايِ.",
+      "arabic": "يُعْتَبَرُ العُودُ \"سُلْطَانَ الآلَاتِ\"، حَيْثُ يَنْبِضُ بِأَوْتَارِهِ لِيَحْكِيَ قِصَصًا مِنَ التُّرَاثِ وَالأَدَبِ العَرَبِيِّ القَدِيمِ.",
+      "translation": "Oud se smatra 'sultanom instrumenata', jer on pulsira svojim žicama pričajući priče iz drevne arapske baštine i književnosti.",
+      "translationEn": "The Oud is considered the 'sultan of instruments', as it pulses with its strings to tell stories from ancient Arab heritage and literature.",
+      "words": [
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "العُودُ",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        },
+        {
+          "w": "سُلْطَانَ",
+          "lemma": "سُلْطَانٌ / سَلَاطِينُ"
+        },
+        {
+          "w": "الآلَاتِ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "يَنْبِضُ",
+          "lemma": "نَبَضَ يَنْبِضُ"
+        },
+        {
+          "w": "بِأَوْتَارِهِ",
+          "lemma": "وَتَرٌ / أَوْتَارٌ"
+        },
+        {
+          "w": "لِيَحْكِيَ",
+          "lemma": "حَكَى يَحْكِي"
+        },
+        {
+          "w": "قِصَصًا",
+          "lemma": "قِصَّةٌ / قِصَصٌ"
+        },
+        {
+          "w": "التُّرَاثِ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "وَالأَدَبِ",
+          "lemma": "أَدَبٌ / آدَابٌ"
+        },
+        {
+          "w": "العَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "القَدِيمِ",
+          "lemma": "قَدِيمٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "لَا تَعْتَمِدُ هَذِهِ المُوسِيقَى عَلَى الإِيقَاعِ فَحَسْبُ، بَلْ تُرَكِّزُ عَلَى صَوْتِ المُغَنِّي وَقُدْرَتِهِ عَلَى الِارْتِجَالِ وَالتَّأْثِيرِ فِي نُفُوسِ المُسْتَمِعِينَ.",
+      "translation": "Ova muzika se ne oslanja samo na ritam, već se fokusira na glas pjevača i njegovu sposobnost improvizacije i uticanja na duše slušalaca.",
+      "translationEn": "This music does not rely on rhythm alone, but focuses on the singer's voice and their ability to improvise and influence the souls of the listeners.",
+      "words": [
+        {
+          "w": "تَعْتَمِدُ",
+          "lemma": "اعْتَمَدَ يَعْتَمِدُ"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "الإِيقَاعِ",
+          "lemma": "إِيقَاعٌ"
+        },
+        {
+          "w": "تُرَكِّزُ",
+          "lemma": "رَكَّزَ يُرَكِّزُ"
+        },
+        {
+          "w": "صَوْتِ",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "المُغَنِّي",
+          "lemma": "مُغَنٍّ / مُغَنُّونَ"
+        },
+        {
+          "w": "وَقُدْرَتِهِ",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
+        },
+        {
+          "w": "الِارْتِجَالِ",
+          "lemma": "ارْتِجَالٌ"
+        },
+        {
+          "w": "وَالتَّأْثِيرِ",
+          "lemma": "تَأْثِيرٌ"
+        },
+        {
+          "w": "نُفُوسِ",
+          "lemma": "نَفْسٌ / نُفُوسٌ"
+        },
+        {
+          "w": "المُسْتَمِعِينَ",
+          "lemma": "مُسْتَمِعٌ / مُسْتَمِعُونَ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَبْرُزُ مَفْهُومُ \"الطَّرَبِ\" كَحَالَةٍ مِنَ الِانْتِشَاءِ الوِجْدَانِيِّ الَّتِي يَصِلُ إِلَيْهَا الجُمْهُورُ عِنْدَ سَمَاعِ أَدَاءٍ مُتْقَنٍ وَمُؤَثِّرٍ.",
+      "translation": "Pojam 'tarab' ističe se kao stanje emocionalne ushićenosti do kojeg publika dolazi slušajući majstorsko i dirljivo izvođenje.",
+      "translationEn": "The concept of 'tarab' stands out as a state of emotional ecstasy that the audience reaches when hearing a masterful and moving performance.",
+      "words": [
+        {
+          "w": "يَبْرُزُ",
+          "lemma": "بَرَزَ يَبْرُزُ"
+        },
+        {
+          "w": "مَفْهُومُ",
+          "lemma": "مَفْهُومٌ / مَفَاهِيمُ"
+        },
+        {
+          "w": "الطَّرَبِ",
+          "lemma": "طَرَبٌ"
+        },
+        {
+          "w": "كَحَالَةٍ",
+          "lemma": "حَالَةٌ / حَالَاتٌ"
+        },
+        {
+          "w": "الِانْتِشَاءِ",
+          "lemma": "انْتِشَاءٌ"
+        },
+        {
+          "w": "الوِجْدَانِيِّ",
+          "lemma": "وِجْدَانِيٌّ"
+        },
+        {
+          "w": "يَصِلُ",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الجُمْهُورُ",
+          "lemma": "جُمْهُورٌ / جَمَاهِيرُ"
+        },
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        },
+        {
+          "w": "سَمَاعِ",
+          "lemma": "سَمَاعٌ"
+        },
+        {
+          "w": "أَدَاءٍ",
+          "lemma": "أَدَاءٌ"
+        },
+        {
+          "w": "مُتْقَنٍ",
+          "lemma": "مُتْقَنٌ"
+        },
+        {
+          "w": "وَمُؤَثِّرٍ",
+          "lemma": "مُؤَثِّرٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "عَبْرَ التَّارِيخِ، تَأَثَّرَتِ المُوسِيقَى العَرَبِيَّةُ بِالحَضَارَاتِ المُجَاوِرَةِ، لَكِنَّهَا حَافَظَتْ عَلَى هُوِيَّتِهَا الأَصِيلَةِ وَآلَاتِهَا التَّقْلِيدِيَّةِ مِثْلَ القَانُونِ وَالنَّايِ.",
       "translation": "Kroz historiju, arapska muzika je bila pod uticajem susjednih civilizacija, ali je zadržala svoj izvorni identitet i tradicionalne instrumente poput kanuna i neja.",
       "translationEn": "Throughout history, Arabic music has been influenced by neighboring civilizations, but it has maintained its authentic identity and traditional instruments such as the Qanun and Ney.",
       "words": [
         {
           "w": "عَبْرَ",
           "lemma": "عَبْرَ"
+        },
+        {
+          "w": "التَّارِيخِ",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        },
+        {
+          "w": "تَأَثَّرَتِ",
+          "lemma": "تَأَثَّرَ يَتَأَثَّرُ"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "العَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "بِالحَضَارَاتِ",
+          "lemma": "حَضَارَةٌ / حَضَارَاتٌ"
+        },
+        {
+          "w": "المُجَاوِرَةِ",
+          "lemma": "مُجَاوِرٌ"
+        },
+        {
+          "w": "حَافَظَتْ",
+          "lemma": "حَافَظَ يُحَافِظُ"
+        },
+        {
+          "w": "هُوِيَّتِهَا",
+          "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ"
+        },
+        {
+          "w": "الأَصِيلَةِ",
+          "lemma": "أَصِيلٌ"
+        },
+        {
+          "w": "وَآلَاتِهَا",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةِ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "القَانُونِ",
+          "lemma": "قَانُونٌ"
+        },
+        {
+          "w": "وَالنَّايِ",
+          "lemma": "نَايٌ"
         }
       ]
     },
     {
-      "arabic": "إِنَّ الِاسْتِمَاعَ إِلَى مَقْطُوعَةٍ كِلَاسِيكِيَّةٍ يَنْقُلُ المَرْءَ إِلَى عَالَمٍ مِنَ السِّحْرِ وَالجَمَالِ الفَنِّيِّ الرَّفِيعِ.",
+      "arabic": "إِنَّ الِاسْتِمَاعَ إِلَى مَقْطُوعَةٍ كِلَاسِيكِيَّةٍ يَنْقُلُ المَرْءَ إِلَى عَالَمٍ مِنَ السِّحْرِ وَالجَمَالِ الفَنِّيِّ الرَّفِيعِ.",
       "translation": "Slušanje klasične kompozicije prenosi čovjeka u svijet magije i visoke umjetničke ljepote.",
       "translationEn": "Listening to a classical piece transports one to a world of magic and high artistic beauty.",
-      "words": []
+      "words": [
+        {
+          "w": "الِاسْتِمَاعَ",
+          "lemma": "اسْتِمَاعٌ"
+        },
+        {
+          "w": "مَقْطُوعَةٍ",
+          "lemma": "مَقْطُوعَةٌ / مَقْطُوعَاتٌ"
+        },
+        {
+          "w": "كِلَاسِيكِيَّةٍ",
+          "lemma": "كِلَاسِيكِيٌّ"
+        },
+        {
+          "w": "يَنْقُلُ",
+          "lemma": "نَقَلَ يَنْقُلُ"
+        },
+        {
+          "w": "المَرْءَ",
+          "lemma": "مَرْءٌ"
+        },
+        {
+          "w": "عَالَمٍ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        },
+        {
+          "w": "السِّحْرِ",
+          "lemma": "سِحْرٌ"
+        },
+        {
+          "w": "وَالجَمَالِ",
+          "lemma": "جَمَالٌ"
+        },
+        {
+          "w": "الفَنِّيِّ",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "الرَّفِيعِ",
+          "lemma": "رَفِيعٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -7,13 +7,75 @@
       "arabic": "فَنُّ الخَطِّ العَرَبِيِّ هُوَ نَوْعٌ رَائِعٌ مِنَ الفُنُونِ التَّشْكِيلِيَّةِ.",
       "translation": "Arapska kaligrafija je predivna vrsta likovne umjetnosti.",
       "translationEn": "Arabic calligraphy is a wonderful type of visual art.",
-      "words": []
+      "words": [
+        {
+          "w": "فَنُّ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "الخَطِّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "العَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "نَوْعٌ",
+          "lemma": "نَوْعٌ / أَنْوَاعٌ"
+        },
+        {
+          "w": "رَائِعٌ",
+          "lemma": "رَائِعٌ"
+        },
+        {
+          "w": "الفُنُونِ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "التَّشْكِيلِيَّةِ",
+          "lemma": "تَشْكِيلِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "اسْتَخْدَمَ العَرَبُ الخَطَّ لِكِتَابَةِ الآيَاتِ وَالقَصَائِدِ بِشَكْلٍ جَمِيلٍ.",
       "translation": "Arapi su koristili kaligrafiju za pisanje ajeta i pjesama na lijep način.",
       "translationEn": "Arabs used calligraphy to write verses and poems in a beautiful way.",
-      "words": []
+      "words": [
+        {
+          "w": "اسْتَخْدَمَ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "العَرَبُ",
+          "lemma": "عَرَبٌ"
+        },
+        {
+          "w": "الخَطَّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "لِكِتَابَةِ",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "الآيَاتِ",
+          "lemma": "آيَةٌ / آيَاتٌ"
+        },
+        {
+          "w": "وَالقَصَائِدِ",
+          "lemma": "قَصِيدَةٌ / قَصَائِدُ"
+        },
+        {
+          "w": "بِشَكْلٍ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "جَمِيلٍ",
+          "lemma": "جَمِيلٌ"
+        }
+      ]
     },
     {
       "arabic": "هُنَاكَ أَنْوَاعٌ كَثِيرَةٌ مِنَ الخُطُوطِ مِثْلُ النَّسْخِ وَالثُّلُثِ وَالكُوفِيِّ.",
@@ -23,6 +85,18 @@
         {
           "w": "هُنَاكَ",
           "lemma": "هُنَاكَ"
+        },
+        {
+          "w": "أَنْوَاعٌ",
+          "lemma": "نَوْعٌ / أَنْوَاعٌ"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "lemma": "كَثِيرٌ"
+        },
+        {
+          "w": "الخُطُوطِ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
         }
       ]
     },
@@ -30,13 +104,63 @@
       "arabic": "يَحْتَاجُ هَذَا الفَنُّ إِلَى صَبْرٍ طَوِيلٍ وَتَدْرِيبٍ مُسْتَمِرٍّ.",
       "translation": "Ova umjetnost zahtijeva veliko strpljenje i stalnu vježbu.",
       "translationEn": "This art requires long patience and continuous training.",
-      "words": []
+      "words": [
+        {
+          "w": "يَحْتَاجُ",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
+        },
+        {
+          "w": "الفَنُّ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "صَبْرٍ",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "طَوِيلٍ",
+          "lemma": "طَوِيلٌ"
+        },
+        {
+          "w": "وَتَدْرِيبٍ",
+          "lemma": "تَدْرِيبٌ / تَدْرِيبَاتٌ"
+        },
+        {
+          "w": "مُسْتَمِرٍّ",
+          "lemma": "مُسْتَمِرٌّ"
+        }
+      ]
     },
     {
       "arabic": "نَرَى هَذِهِ الزَّخَارِفَ عَلَى جُدْرَانِ المَسَاجِدِ وَالقُصُورِ القَدِيمَةِ.",
       "translation": "Ove ukrase vidimo na zidovima džamija i starih palata.",
       "translationEn": "We see these decorations on the walls of mosques and ancient palaces.",
-      "words": []
+      "words": [
+        {
+          "w": "نَرَى",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "الزَّخَارِفَ",
+          "lemma": "زَخْرَفٌ / زَخَارِفُ"
+        },
+        {
+          "w": "جُدْرَانِ",
+          "lemma": "جِدَارٌ / جُدْرَانٌ"
+        },
+        {
+          "w": "المَسَاجِدِ",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "وَالقُصُورِ",
+          "lemma": "قَصْرٌ / قُصُورٌ"
+        },
+        {
+          "w": "القَدِيمَةِ",
+          "lemma": "قَدِيمٌ"
+        }
+      ]
     }
   ],
   "metadata": {

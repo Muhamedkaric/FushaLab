@@ -4,29 +4,155 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعَدُّ الخَطُّ العَرَبِيُّ فَنًّا جَمِيلًا وَرَائِعًا جِدًّا.",
+      "arabic": "يُعَدُّ الخَطُّ العَرَبِيُّ فَنًّا جَمِيلًا وَرَائِعًا جِدًّا.",
       "translation": "Arapska kaligrafija se smatra veoma lijepom i veličanstvenom umjetnošću.",
-      "translationEn": "Arabic calligraphy is considered a very beautiful and magnificent art."
+      "translationEn": "Arabic calligraphy is considered a very beautiful and magnificent art.",
+      "words": [
+        {
+          "w": "الخَطُّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "العَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "فَنًّا",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "جَمِيلًا",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "وَرَائِعًا",
+          "lemma": "رَائِعٌ"
+        },
+        {
+          "w": "جِدًّا",
+          "lemma": "جِدًّا"
+        }
+      ]
     },
     {
-      "arabic": "يَكْتُبُ الفَنَّانُونَ الكَلِمَاتِ بِأَشْكَالٍ هَنْدَسِيَّةٍ مُخْتَلِفَةٍ.",
+      "arabic": "يَكْتُبُ الفَنَّانُونَ الكَلِمَاتِ بِأَشْكَالٍ هَنْدَسِيَّةٍ مُخْتَلِفَةٍ.",
       "translation": "Umjetnici pišu riječi u različitim geometrijskim oblicima.",
-      "translationEn": "Artists write words in various geometric shapes."
+      "translationEn": "Artists write words in various geometric shapes.",
+      "words": [
+        {
+          "w": "يَكْتُبُ",
+          "lemma": "كَتَبَ يَكْتُبُ"
+        },
+        {
+          "w": "الفَنَّانُونَ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "الكَلِمَاتِ",
+          "lemma": "كَلِمَةٌ / كَلِمَاتٌ"
+        },
+        {
+          "w": "بِأَشْكَالٍ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "هَنْدَسِيَّةٍ",
+          "lemma": "هَنْدَسِيٌّ"
+        },
+        {
+          "w": "مُخْتَلِفَةٍ",
+          "lemma": "مُخْتَلِفٌ"
+        }
+      ]
     },
     {
-      "arabic": "نَرَى هَذَا الفَنَّ عَلَى جُدْرَانِ المَسَاجِدِ وَالقُصُورِ القَدِيمَةِ.",
+      "arabic": "نَرَى هَذَا الفَنَّ عَلَى جُدْرَانِ المَسَاجِدِ وَالقُصُورِ القَدِيمَةِ.",
       "translation": "Vidimo ovu umjetnost na zidovima džamija i starih palata.",
-      "translationEn": "We see this art on the walls of mosques and ancient palaces."
+      "translationEn": "We see this art on the walls of mosques and ancient palaces.",
+      "words": [
+        {
+          "w": "نَرَى",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "الفَنَّ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "جُدْرَانِ",
+          "lemma": "جِدَارٌ / جُدْرَانٌ"
+        },
+        {
+          "w": "المَسَاجِدِ",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "وَالقُصُورِ",
+          "lemma": "قَصْرٌ / قُصُورٌ"
+        },
+        {
+          "w": "القَدِيمَةِ",
+          "lemma": "قَدِيمٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَحْتَاجُ تَعَلُّمُ الخَطِّ إِلَى الصَّبْرِ وَالتَّدْرِيبِ المُسْتَمِرِّ.",
+      "arabic": "يَحْتَاجُ تَعَلُّمُ الخَطِّ إِلَى الصَّبْرِ وَالتَّدْرِيبِ المُسْتَمِرِّ.",
       "translation": "Učenje kaligrafije zahtijeva strpljenje i kontinuirano vježbanje.",
-      "translationEn": "Learning calligraphy requires patience and continuous practice."
+      "translationEn": "Learning calligraphy requires patience and continuous practice.",
+      "words": [
+        {
+          "w": "يَحْتَاجُ",
+          "lemma": "احْتَاجَ يَحْتَاجُ"
+        },
+        {
+          "w": "تَعَلُّمُ",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الخَطِّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "الصَّبْرِ",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "وَالتَّدْرِيبِ",
+          "lemma": "تَدْرِيبٌ / تَدْرِيبَاتٌ"
+        },
+        {
+          "w": "المُسْتَمِرِّ",
+          "lemma": "مُسْتَمِرٌّ"
+        }
+      ]
     },
     {
-      "arabic": "يَفْتَخِرُ العَرَبُ بِهَذَا التُّرَاثِ الفَنِّيِّ العَرِيقِ.",
+      "arabic": "يَفْتَخِرُ العَرَبُ بِهَذَا التُّرَاثِ الفَنِّيِّ العَرِيقِ.",
       "translation": "Arapi su ponosni na ovo drevno umjetničko naslijeđe.",
-      "translationEn": "Arabs are proud of this ancient artistic heritage."
+      "translationEn": "Arabs are proud of this ancient artistic heritage.",
+      "words": [
+        {
+          "w": "يَفْتَخِرُ",
+          "lemma": "افْتَخَرَ يَفْتَخِرُ"
+        },
+        {
+          "w": "العَرَبُ",
+          "lemma": "عَرَبٌ / عَرَبِيٌّ"
+        },
+        {
+          "w": "التُّرَاثِ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "الفَنِّيِّ",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "العَرِيقِ",
+          "lemma": "عَرِيقٌ"
+        }
+      ]
     }
   ],
   "metadata": {

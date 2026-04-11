@@ -4,29 +4,283 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الْقَهْوَةُ الْعَرَبِيَّةُ رَمْزاً أَسَاسِيّاً لِلْكَرَمِ وَالضِّيَافَةِ فِي الْمُجْتَمَعَاتِ الْعَرَبِيَّةِ، حَيْثُ تُقَدَّمُ لِلضُّيُوفِ تَعْبِيراً عَنِ التَّرْحِيبِ الْحَارِّ.",
+      "arabic": "تُعَدُّ الْقَهْوَةُ الْعَرَبِيَّةُ رَمْزاً أَسَاسِيّاً لِلْكَرَمِ وَالضِّيَافَةِ فِي الْمُجْتَمَعَاتِ الْعَرَبِيَّةِ، حَيْثُ تُقَدَّمُ لِلضُّيُوفِ تَعْبِيراً عَنِ التَّرْحِيبِ الْحَارِّ.",
       "translation": "Arapska kafa se smatra osnovnim simbolom velikodušnosti i gostoprimstva u arapskim društvima, gdje se poslužuje gostima kao izraz tople dobrodošlice.",
-      "translationEn": "Arabic coffee is considered a fundamental symbol of generosity and hospitality in Arab societies, where it is served to guests as an expression of warm welcome."
+      "translationEn": "Arabic coffee is considered a fundamental symbol of generosity and hospitality in Arab societies, where it is served to guests as an expression of warm welcome.",
+      "words": [
+        {
+          "w": "الْقَهْوَةُ",
+          "lemma": "قَهْوَةٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "رَمْزاً",
+          "lemma": "رَمْزٌ / رُمُوزٌ"
+        },
+        {
+          "w": "أَسَاسِيّاً",
+          "lemma": "أَسَاسِيٌّ"
+        },
+        {
+          "w": "لِلْكَرَمِ",
+          "lemma": "كَرَمٌ"
+        },
+        {
+          "w": "وَالضِّيَافَةِ",
+          "lemma": "ضِيَافَةٌ"
+        },
+        {
+          "w": "الْمُجْتَمَعَاتِ",
+          "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "تُقَدَّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "لِلضُّيُوفِ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "تَعْبِيراً",
+          "lemma": "تَعْبِيرٌ"
+        },
+        {
+          "w": "التَّرْحِيبِ",
+          "lemma": "تَرْحِيبٌ"
+        },
+        {
+          "w": "الْحَارِّ",
+          "lemma": "حَارٌّ"
+        }
+      ]
     },
     {
-      "arabic": "يَتَمَيَّزُ هَذَا الْمَشْرُوبُ بِنَكْهَةِ الْهَيْلِ الزَّكِيَّةِ، وَيُطْبَخُ بِعِنَايَةٍ فَائِقَةٍ عَلَى نَارٍ هَادِئَةٍ لِيَكْتَسِبَ طَعْمَهُ الْفَرِيدَ.",
+      "arabic": "يَتَمَيَّزُ هَذَا الْمَشْرُوبُ بِنَكْهَةِ الْهَيْلِ الزَّكِيَّةِ، وَيُطْبَخُ بِعِنَايَةٍ فَائِقَةٍ عَلَى نَارٍ هَادِئَةٍ لِيَكْتَسِبَ طَعْمَهُ الْفَرِيدَ.",
       "translation": "Ovaj napitak karakteriše prijatan miris kardamoma i kuha se s velikom pažnjom na laganoj vatri kako bi poprimio svoj jedinstven ukus.",
-      "translationEn": "This drink is characterized by the fragrant flavor of cardamom and is cooked with great care over low heat to acquire its unique taste."
+      "translationEn": "This drink is characterized by the fragrant flavor of cardamom and is cooked with great care over low heat to acquire its unique taste.",
+      "words": [
+        {
+          "w": "يَتَمَيَّزُ",
+          "lemma": "تَمَيَّزَ يَتَمَيَّزُ"
+        },
+        {
+          "w": "الْمَشْرُوبُ",
+          "lemma": "مَشْرُوبٌ / مَشْرُوبَاتٌ"
+        },
+        {
+          "w": "بِنَكْهَةِ",
+          "lemma": "نَكْهَةٌ / نَكَهَاتٌ"
+        },
+        {
+          "w": "الْهَيْلِ",
+          "lemma": "هَيْلٌ"
+        },
+        {
+          "w": "الزَّكِيَّةِ",
+          "lemma": "زَكِيٌّ"
+        },
+        {
+          "w": "وَيُطْبَخُ",
+          "lemma": "طَبَخَ يَطْبُخُ"
+        },
+        {
+          "w": "بِعِنَايَةٍ",
+          "lemma": "عِنَايَةٌ"
+        },
+        {
+          "w": "فَائِقَةٍ",
+          "lemma": "فَائِقٌ"
+        },
+        {
+          "w": "نَارٍ",
+          "lemma": "نَارٌ / نِيرَانٌ"
+        },
+        {
+          "w": "هَادِئَةٍ",
+          "lemma": "هَادِئٌ"
+        },
+        {
+          "w": "لِيَكْتَسِبَ",
+          "lemma": "اكْتَسَبَ يَكْتَسِبُ"
+        },
+        {
+          "w": "طَعْمَهُ",
+          "lemma": "طَعْمٌ / طُعُومٌ"
+        },
+        {
+          "w": "الْفَرِيدَ",
+          "lemma": "فَرِيدٌ"
+        }
+      ]
     },
     {
-      "arabic": "مِنَ الْعَادَاتِ الْمُتَّبَعَةِ أَنْ يُمْسِكَ الْمُضِيفُ الدَّلَّةَ بِيَدِهِ الْيُسْرَى، بَيْنَمَا يُقَدِّمُ الْفِنْجَانَ لِلضَّيْفِ بِالْيَدِ الْيُمْنَى احْتِرَاماً لَهُ.",
+      "arabic": "مِنَ الْعَادَاتِ الْمُتَّبَعَةِ أَنْ يُمْسِكَ الْمُضِيفُ الدَّلَّةَ بِيَدِهِ الْيُسْرَى، بَيْنَمَا يُقَدِّمُ الْفِنْجَانَ لِلضَّيْفِ بِالْيَدِ الْيُمْنَى احْتِرَاماً لَهُ.",
       "translation": "Jedan od običaja koji se slijedi jeste da domaćin drži džezvu u lijevoj ruci, dok šoljicu gostu pruža desnom rukom iz poštovanja prema njemu.",
-      "translationEn": "Among the followed customs is that the host holds the coffee pot in the left hand while offering the cup to the guest with the right hand as a sign of respect."
+      "translationEn": "Among the followed customs is that the host holds the coffee pot in the left hand while offering the cup to the guest with the right hand as a sign of respect.",
+      "words": [
+        {
+          "w": "الْعَادَاتِ",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "الْمُتَّبَعَةِ",
+          "lemma": "مُتَّبَعٌ"
+        },
+        {
+          "w": "يُمْسِكَ",
+          "lemma": "أَمْسَكَ يُمْسِكُ"
+        },
+        {
+          "w": "الْمُضِيفُ",
+          "lemma": "مُضِيفٌ / مُضِيفُونَ"
+        },
+        {
+          "w": "الدَّلَّةَ",
+          "lemma": "دَلَّةٌ / دِلَالٌ"
+        },
+        {
+          "w": "بِيَدِهِ",
+          "lemma": "يَدٌ / أَيْدٍ"
+        },
+        {
+          "w": "الْيُسْرَى",
+          "lemma": "أَيْسَرُ"
+        },
+        {
+          "w": "يُقَدِّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الْفِنْجَانَ",
+          "lemma": "فِنْجَانٌ / فَنَاجِينُ"
+        },
+        {
+          "w": "لِلضَّيْفِ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِالْيَدِ",
+          "lemma": "يَدٌ / أَيْدٍ"
+        },
+        {
+          "w": "الْيُمْنَى",
+          "lemma": "أَيْمَنُ"
+        },
+        {
+          "w": "احْتِرَاماً",
+          "lemma": "احْتِرَامٌ"
+        }
+      ]
     },
     {
-      "arabic": "وَلَا يَكْتَمِلُ مَذَاقُ الْقَهْوَةِ الْمُرَّةِ إِلَّا بِتَنَاوُلِ حَبَّاتٍ مِنَ التَّمْرِ السُّكَّرِيِّ الَّذِي يُوَازِنُ بَيْنَ الْمَرَارَةِ وَالْحَلَاوَةِ.",
+      "arabic": "وَلَا يَكْتَمِلُ مَذَاقُ الْقَهْوَةِ الْمُرَّةِ إِلَّا بِتَنَاوُلِ حَبَّاتٍ مِنَ التَّمْرِ السُّكَّرِيِّ الَّذِي يُوَازِنُ بَيْنَ الْمَرَارَةِ وَالْحَلَاوَةِ.",
       "translation": "Ukus gorke kafe nije potpun bez konzumiranja plodova slatkih hurmi, koje prave ravnotežu između gorčine i slatkoće.",
-      "translationEn": "The taste of the bitter coffee is not complete without eating pieces of sugary dates, which balance the bitterness and sweetness."
+      "translationEn": "The taste of the bitter coffee is not complete without eating pieces of sugary dates, which balance the bitterness and sweetness.",
+      "words": [
+        {
+          "w": "يَكْتَمِلُ",
+          "lemma": "اكْتَمَلَ يَكْتَمِلُ"
+        },
+        {
+          "w": "مَذَاقُ",
+          "lemma": "مَذَاقٌ"
+        },
+        {
+          "w": "الْقَهْوَةِ",
+          "lemma": "قَهْوَةٌ"
+        },
+        {
+          "w": "الْمُرَّةِ",
+          "lemma": "مُرٌّ"
+        },
+        {
+          "w": "بِتَنَاوُلِ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "حَبَّاتٍ",
+          "lemma": "حَبَّةٌ / حَبَّاتٌ"
+        },
+        {
+          "w": "التَّمْرِ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "السُّكَّرِيِّ",
+          "lemma": "سُكَّرِيٌّ"
+        },
+        {
+          "w": "يُوَازِنُ",
+          "lemma": "وَازَنَ يُوَازِنُ"
+        },
+        {
+          "w": "الْمَرَارَةِ",
+          "lemma": "مَرَارَةٌ"
+        },
+        {
+          "w": "وَالْحَلَاوَةِ",
+          "lemma": "حَلَاوَةٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَعْكِسُ هَذِهِ الطُّقُوسُ الْبَسِيطَةُ قِيَماً اجْتِمَاعِيَّةً عَمِيقَةً تَتَوَارَثُهَا الْأَجْيَالُ بِكُلِّ فَخْرٍ وَاعْتِزَازٍ.",
+      "arabic": "تَعْكِسُ هَذِهِ الطُّقُوسُ الْبَسِيطَةُ قِيَماً اجْتِمَاعِيَّةً عَمِيقَةً تَتَوَارَثُهَا الْأَجْيَالُ بِكُلِّ فَخْرٍ وَاعْتِزَازٍ.",
       "translation": "Ovi jednostavni rituali odražavaju duboke društvene vrijednosti koje generacije nasljeđuju s ponosom i dostojanstvom.",
-      "translationEn": "These simple rituals reflect deep social values that generations inherit with pride and honor."
+      "translationEn": "These simple rituals reflect deep social values that generations inherit with pride and honor.",
+      "words": [
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الطُّقُوسُ",
+          "lemma": "طَقْسٌ / طُقُوسٌ"
+        },
+        {
+          "w": "الْبَسِيطَةُ",
+          "lemma": "بَسِيطٌ"
+        },
+        {
+          "w": "قِيَماً",
+          "lemma": "قِيمَةٌ / قِيَمٌ"
+        },
+        {
+          "w": "اجْتِمَاعِيَّةً",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "عَمِيقَةً",
+          "lemma": "عَمِيقٌ"
+        },
+        {
+          "w": "تَتَوَارَثُهَا",
+          "lemma": "تَوَارَثَ يَتَوَارَثُ"
+        },
+        {
+          "w": "الْأَجْيَالُ",
+          "lemma": "جِيلٌ / أَجْيَالٌ"
+        },
+        {
+          "w": "بِكُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "فَخْرٍ",
+          "lemma": "فَخْرٌ"
+        },
+        {
+          "w": "وَاعْتِزَازٍ",
+          "lemma": "اعْتِزَازٌ"
+        }
+      ]
     }
   ],
   "metadata": {

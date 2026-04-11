@@ -4,45 +4,314 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَمْتَازُ المُوسِيقَى العَرَبِيَّةُ بِثَرَاءِ مَقَامَاتِهَا وَتَنَوُّعِ إِإيقَاعَاتِهَا الَّتِي تُحَرِّكُ المَشَاعِرَ وَتُحَاكِي الخَيَالَ.",
+      "arabic": "تَمْتَازُ المُوسِيقَى العَرَبِيَّةُ بِثَرَاءِ مَقَامَاتِهَا وَتَنَوُّعِ إِإيقَاعَاتِهَا الَّتِي تُحَرِّكُ المَشَاعِرَ وَتُحَاكِي الخَيَالَ.",
       "translation": "Arapska muzika se odlikuje bogatstvom svojih makama (melodijskih modusa) i raznolikošću ritmova koji pokreću emocije i oponašaju maštu.",
       "translationEn": "Arabic music is characterized by the richness of its maqamat (melodic modes) and the diversity of its rhythms that stir emotions and mimic the imagination.",
-      "words": []
-    },
-    {
-      "arabic": "يُعْتَبَرُ 'العُودُ' سُلْطَانَ الآلَاتِ العَرَبِيَّةِ، فَبِأَوْتَارِهِ الدَّافِئَةِ يَقُودُ التَّخْتَ المُوسِيقِيَّ فِي رِحْلَةٍ مِنَ الطَّرَبِ الأَصِيلِ.",
-      "translation": "'Ud' se smatra kraljem arapskih instrumenata, jer svojim toplim žicama vodi muzički sastav (takht) na putovanje autentičnog uživanja.",
-      "translationEn": "The 'Oud' is considered the sultan of Arabic instruments, as with its warm strings it leads the musical ensemble (Takht) on a journey of authentic joy.",
-      "words": []
-    },
-    {
-      "arabic": "كَمَا يَلْعَبُ 'القَانُونُ' وَ'النَّايُ' دَوْرًا هَامًّا فِي إِضْفَاءِ لَمَسَاتٍ سِحْرِيَّةٍ عَلَى الأَلْحَانِ، مِمَّا يَخْلُقُ تَنَاغُمًا فَرِيدًا.",
-      "translation": "Također, 'kanun' i 'nej' igraju važnu ulogu u dodavanju magičnih dodira melodijama, stvarajući jedinstvenu harmoniju.",
-      "translationEn": "Also, the 'Qanun' and 'Ney' play an important role in adding magical touches to the melodies, creating a unique harmony.",
-      "words": []
-    },
-    {
-      "arabic": "لَا تَعْتَمِدُ هَذِهِ المُوسِيقَى عَلَى التَّدْوِينِ الحَرْفِيِّ فَقَطْ، بَلْ تَتْرُكُ مَسَاحَةً لِلاِرْتِجَالِ الَّذِي يُظْهِرُ مَهَارَةَ العَازِفِ وَإِحْسَاسَهُ.",
-      "translation": "Ova muzika se ne oslanja samo na doslovno zapisivanje nota, već ostavlja prostor za improvizaciju koja pokazuje vještinu i osjećaj izvođača.",
-      "translationEn": "This music does not rely only on literal notation, but leaves room for improvisation that shows the skill and feeling of the performer.",
       "words": [
         {
-          "w": "فَقَطْ",
-          "lemma": "فَقَطْ"
+          "w": "تَمْتَازُ",
+          "lemma": "امْتَازَ يَمْتَازُ"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "العَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "بِثَرَاءِ",
+          "lemma": "ثَرَاءٌ"
+        },
+        {
+          "w": "مَقَامَاتِهَا",
+          "lemma": "مَقَامٌ / مَقَامَاتٌ"
+        },
+        {
+          "w": "وَتَنَوُّعِ",
+          "lemma": "تَنَوُّعٌ"
+        },
+        {
+          "w": "إِإيقَاعَاتِهَا",
+          "lemma": "إِيقَاعٌ / إِيقَاعَاتٌ"
+        },
+        {
+          "w": "تُحَرِّكُ",
+          "lemma": "حَرَّكَ يُحَرِّكُ"
+        },
+        {
+          "w": "المَشَاعِرَ",
+          "lemma": "مَشْعَرٌ / مَشَاعِرُ"
+        },
+        {
+          "w": "وَتُحَاكِي",
+          "lemma": "حَاكَى يُحَاكِي"
+        },
+        {
+          "w": "الخَيَالَ",
+          "lemma": "خَيَالٌ"
         }
       ]
     },
     {
-      "arabic": "تَرْتَبِطُ المَقَامَاتُ بِحَالَاتٍ نَفْسِيَّةٍ مُخْتَلِفَةٍ، فَبَعْضُهَا يَبْعَثُ عَلَى الفَرَحِ وَبَعْضُهَا الآخَرُ يَمِيلُ إِلَى الشَّجَنِ.",
-      "translation": "Makami su povezani sa različitim psihološkim stanjima; neki izazivaju radost, dok drugi naginju tuzi.",
-      "translationEn": "Maqamat are linked to different psychological states, as some evoke joy while others lean towards sorrow.",
-      "words": []
+      "arabic": "يُعْتَبَرُ 'العُودُ' سُلْطَانَ الآلَاتِ العَرَبِيَّةِ، فَبِأَوْتَارِهِ الدَّافِئَةِ يَقُودُ التَّخْتَ المُوسِيقِيَّ فِي رِحْلَةٍ مِنَ الطَّرَبِ الأَصِيلِ.",
+      "translation": "'Ud' se smatra kraljem arapskih instrumenata, jer svojim toplim žicama vodi muzički sastav (takht) na putovanje autentičnog uživanja.",
+      "translationEn": "The 'Oud' is considered the sultan of Arabic instruments, as with its warm strings it leads the musical ensemble (Takht) on a journey of authentic joy.",
+      "words": [
+        {
+          "w": "العُودُ",
+          "lemma": "عُودٌ / أَعْوَادٌ"
+        },
+        {
+          "w": "سُلْطَانَ",
+          "lemma": "سُلْطَانٌ / سَلَاطِينُ"
+        },
+        {
+          "w": "الآلَاتِ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "العَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "فَبِأَوْتَارِهِ",
+          "lemma": "وَتَرٌ / أَوْتَارٌ"
+        },
+        {
+          "w": "الدَّافِئَةِ",
+          "lemma": "دَافِئٌ"
+        },
+        {
+          "w": "يَقُودُ",
+          "lemma": "قَادَ يَقُودُ"
+        },
+        {
+          "w": "التَّخْتَ",
+          "lemma": "تَخْتٌ / تُخُوتٌ"
+        },
+        {
+          "w": "المُوسِيقِيَّ",
+          "lemma": "مُوسِيقِيٌّ"
+        },
+        {
+          "w": "رِحْلَةٍ",
+          "lemma": "رِحْلَةٌ / رِحَلٌ"
+        },
+        {
+          "w": "الطَّرَبِ",
+          "lemma": "طَرَبٌ"
+        },
+        {
+          "w": "الأَصِيلِ",
+          "lemma": "أَصِيلٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَبْقَى المُوسِيقَى لُغَةً عَالَمِيَّةً تَنْقُلُ التُّرَاثَ العَرَبِيَّ إِلَى مَسَامِعِ العَالَمِ بِكُلِّ فَخْرٍ.",
+      "arabic": "كَمَا يَلْعَبُ 'القَانُونُ' وَ'النَّايُ' دَوْرًا هَامًّا فِي إِضْفَاءِ لَمَسَاتٍ سِحْرِيَّةٍ عَلَى الأَلْحَانِ، مِمَّا يَخْلُقُ تَنَاغُمًا فَرِيدًا.",
+      "translation": "Također, 'kanun' i 'nej' igraju važnu ulogu u dodavanju magičnih dodira melodijama, stvarajući jedinstvenu harmoniju.",
+      "translationEn": "Also, the 'Qanun' and 'Ney' play an important role in adding magical touches to the melodies, creating a unique harmony.",
+      "words": [
+        {
+          "w": "يَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "القَانُونُ",
+          "lemma": "قَانُونٌ / قَوَانِينُ"
+        },
+        {
+          "w": "وَالنَّايُ",
+          "lemma": "نَايٌ / نَايَاتٌ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "هَامًّا",
+          "lemma": "هَامٌّ"
+        },
+        {
+          "w": "إِضْفَاءِ",
+          "lemma": "إِضْفَاءٌ"
+        },
+        {
+          "w": "لَمَسَاتٍ",
+          "lemma": "لَمْسَةٌ / لَمَسَاتٌ"
+        },
+        {
+          "w": "سِحْرِيَّةٍ",
+          "lemma": "سِحْرِيٌّ"
+        },
+        {
+          "w": "الأَلْحَانِ",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "يَخْلُقُ",
+          "lemma": "خَلَقَ يَخْلُقُ"
+        },
+        {
+          "w": "تَنَاغُمًا",
+          "lemma": "تَنَاغُمٌ"
+        },
+        {
+          "w": "فَرِيدًا",
+          "lemma": "فَرِيدٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "لَا تَعْتَمِدُ هَذِهِ المُوسِيقَى عَلَى التَّدْوِينِ الحَرْفِيِّ فَقَطْ، بَلْ تَتْرُكُ مَسَاحَةً لِلاِرْتِجَالِ الَّذِي يُظْهِرُ مَهَارَةَ العَازِفِ وَإِحْسَاسَهُ.",
+      "translation": "Ova muzika se ne oslanja samo na doslovno zapisivanje nota, već ostavlja prostor za improvizaciju koja pokazuje vještinu i osjećaj izvođača.",
+      "translationEn": "This music does not rely only on literal notation, but leaves room for improvisation that shows the skill and feeling of the performer.",
+      "words": [
+        {
+          "w": "تَعْتَمِدُ",
+          "lemma": "اعْتَمَدَ يَعْتَمِدُ"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "التَّدْوِينِ",
+          "lemma": "تَدْوِينٌ"
+        },
+        {
+          "w": "الحَرْفِيِّ",
+          "lemma": "حَرْفِيٌّ"
+        },
+        {
+          "w": "فَقَطْ",
+          "lemma": "فَقَطْ"
+        },
+        {
+          "w": "تَتْرُكُ",
+          "lemma": "تَرَكَ يَتْرُكُ"
+        },
+        {
+          "w": "مَسَاحَةً",
+          "lemma": "مَسَاحَةٌ / مَسَاحَاتٌ"
+        },
+        {
+          "w": "لِلاِرْتِجَالِ",
+          "lemma": "ارْتِجَالٌ"
+        },
+        {
+          "w": "يُظْهِرُ",
+          "lemma": "أَظْهَرَ يُظْهِرُ"
+        },
+        {
+          "w": "مَهَارَةَ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        },
+        {
+          "w": "العَازِفِ",
+          "lemma": "عَازِفٌ / عَازِفُونَ"
+        },
+        {
+          "w": "وَإِحْسَاسَهُ",
+          "lemma": "إِحْسَاسٌ / إِحْسَاسَاتٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "تَرْتَبِطُ المَقَامَاتُ بِحَالَاتٍ نَفْسِيَّةٍ مُخْتَلِفَةٍ، فَبَعْضُهَا يَبْعَثُ عَلَى الفَرَحِ وَبَعْضُهَا الآخَرُ يَمِيلُ إِلَى الشَّجَنِ.",
+      "translation": "Makami su povezani sa različitim psihološkim stanjima; neki izazivaju radost, dok drugi naginju tuzi.",
+      "translationEn": "Maqamat are linked to different psychological states, as some evoke joy while others lean towards sorrow.",
+      "words": [
+        {
+          "w": "تَرْتَبِطُ",
+          "lemma": "ارْتَبَطَ يَرْتَبِطُ"
+        },
+        {
+          "w": "المَقَامَاتُ",
+          "lemma": "مَقَامٌ / مَقَامَاتٌ"
+        },
+        {
+          "w": "بِحَالَاتٍ",
+          "lemma": "حَالٌ / حَالَاتٌ"
+        },
+        {
+          "w": "نَفْسِيَّةٍ",
+          "lemma": "نَفْسِيٌّ"
+        },
+        {
+          "w": "مُخْتَلِفَةٍ",
+          "lemma": "مُخْتَلِفٌ"
+        },
+        {
+          "w": "يَبْعَثُ",
+          "lemma": "بَعَثَ يَبْعَثُ"
+        },
+        {
+          "w": "الفَرَحِ",
+          "lemma": "فَرَحٌ"
+        },
+        {
+          "w": "يَمِيلُ",
+          "lemma": "مَالَ يَمِيلُ"
+        },
+        {
+          "w": "الشَّجَنِ",
+          "lemma": "شَجَنٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "تَبْقَى المُوسِيقَى لُغَةً عَالَمِيَّةً تَنْقُلُ التُّرَاثَ العَرَبِيَّ إِلَى مَسَامِعِ العَالَمِ بِكُلِّ فَخْرٍ.",
       "translation": "Muzika ostaje univerzalan jezik koji sa ponosom prenosi arapsko naslijeđe do ušiju svijeta.",
       "translationEn": "Music remains a universal language that conveys Arab heritage to the ears of the world with pride.",
-      "words": []
+      "words": [
+        {
+          "w": "تَبْقَى",
+          "lemma": "بَقِيَ يَبْقَى"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "لُغَةً",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "عَالَمِيَّةً",
+          "lemma": "عَالَمِيٌّ"
+        },
+        {
+          "w": "تَنْقُلُ",
+          "lemma": "نَقَلَ يَنْقُلُ"
+        },
+        {
+          "w": "التُّرَاثَ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "العَرَبِيَّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "مَسَامِعِ",
+          "lemma": "مَسْمَعٌ / مَسَامِعُ"
+        },
+        {
+          "w": "العَالَمِ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        },
+        {
+          "w": "بِكُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "فَخْرٍ",
+          "lemma": "فَخْرٌ"
+        }
+      ]
     }
   ],
   "metadata": {

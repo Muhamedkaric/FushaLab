@@ -6,22 +6,56 @@
     {
       "arabic": "لِلْكِبَارِ مَكَانَةٌ عَالِيَةٌ فِي الْعَائِلَةِ الْعَرَبِيَّةِ.",
       "translation": "Stariji imaju visok status u arapskoj porodici.",
-      "translationEn": "Elders hold a high status in the Arab family."
+      "translationEn": "Elders hold a high status in the Arab family.",
+      "words": [
+        { "w": "لِلْكِبَارِ", "lemma": "كَبِيرٌ / كِبَارٌ" },
+        { "w": "مَكَانَةٌ", "lemma": "مَكَانَةٌ" },
+        { "w": "عَالِيَةٌ", "lemma": "عَالٍ" },
+        { "w": "الْعَائِلَةِ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
       "arabic": "يَحْتَرِمُ الْأَبْنَاءُ آبَاءَهُمْ وَأَجْدَادَهُمْ وَيَطْلُبُونَ مِنْهُمُ النَّصِيحَةَ.",
       "translation": "Djeca poštuju svoje roditelje i djedove te traže njihov savjet.",
-      "translationEn": "Children respect their parents and grandparents and seek their advice."
+      "translationEn": "Children respect their parents and grandparents and seek their advice.",
+      "words": [
+        { "w": "يَحْتَرِمُ", "lemma": "احْتَرَمَ يَحْتَرِمُ" },
+        { "w": "الْأَبْنَاءُ", "lemma": "ابْنٌ / أَبْنَاءٌ" },
+        { "w": "آبَاءَهُمْ", "lemma": "أَبٌ / آبَاءٌ" },
+        { "w": "وَأَجْدَادَهُمْ", "lemma": "جَدٌّ / أَجْدَادٌ" },
+        { "w": "وَيَطْلُبُونَ", "lemma": "طَلَبَ يَطْلُبُ" },
+        { "w": "النَّصِيحَةَ", "lemma": "نَصِيحَةٌ / نَصَائِحُ" }
+      ]
     },
     {
       "arabic": "يَجْلِسُ الْكَبِيرُ فِي مَكَانٍ مُتَمَيِّزٍ وَيَبْدَأُ الطَّعَامَ قَبْلَ الْآخَرِينَ.",
       "translation": "Starija osoba sjedi na počasnom mjestu i počinje jesti prije ostalih.",
-      "translationEn": "The eldest sits in a place of honour and starts eating before others."
+      "translationEn": "The eldest sits in a place of honour and starts eating before others.",
+      "words": [
+        { "w": "يَجْلِسُ", "lemma": "جَلَسَ يَجْلِسُ" },
+        { "w": "الْكَبِيرُ", "lemma": "كَبِيرٌ / كِبَارٌ" },
+        { "w": "مَكَانٍ", "lemma": "مَكَانٌ / أَمَاكِنُ" },
+        { "w": "مُتَمَيِّزٍ", "lemma": "مُتَمَيِّزٌ" },
+        { "w": "وَيَبْدَأُ", "lemma": "بَدَأَ يَبْدَأُ" },
+        { "w": "الطَّعَامَ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "الْآخَرِينَ", "lemma": "آخَرُ / آخَرُونَ" }
+      ]
     },
     {
       "arabic": "تَعْتَقِدُ الْعَائِلَاتُ الْعَرَبِيَّةُ أَنَّ خِبْرَةَ الْكِبَارِ كَنْزٌ ثَمِينٌ لَا يُقَدَّرُ بِثَمَنٍ.",
       "translation": "Arapske porodice smatraju da je iskustvo starijih dragocjeno blago koje se ne može procijenit cijenom.",
-      "translationEn": "Arab families believe that the experience of elders is a priceless treasure."
+      "translationEn": "Arab families believe that the experience of elders is a priceless treasure.",
+      "words": [
+        { "w": "تَعْتَقِدُ", "lemma": "اعْتَقَدَ يَعْتَقِدُ" },
+        { "w": "الْعَائِلَاتُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "خِبْرَةَ", "lemma": "خِبْرَةٌ / خِبَرٌ" },
+        { "w": "الْكِبَارِ", "lemma": "كَبِيرٌ / كِبَارٌ" },
+        { "w": "كَنْزٌ", "lemma": "كَنْزٌ / كُنُوزٌ" },
+        { "w": "ثَمِينٌ", "lemma": "ثَمِينٌ" },
+        { "w": "بِثَمَنٍ", "lemma": "ثَمَنٌ / أَثْمَانٌ" }
+      ]
     }
   ],
   "metadata": {

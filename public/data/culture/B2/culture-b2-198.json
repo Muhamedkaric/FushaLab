@@ -4,29 +4,167 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَلْعَبُ العَائِلَةُ دَوْرًا مَرْكَزِيًّا فِي حَيَاةِ الفَرْدِ العَرَبِيِّ.",
+      "arabic": "تَلْعَبُ العَائِلَةُ دَوْرًا مَرْكَزِيًّا فِي حَيَاةِ الفَرْدِ العَرَبِيِّ.",
       "translation": "Porodica igra centralnu ulogu u životu arapskog pojedinca.",
-      "translationEn": "Family plays a central role in the life of the Arab individual."
+      "translationEn": "Family plays a central role in the life of the Arab individual.",
+      "words": [
+        {
+          "w": "تَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "العَائِلَةُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "مَرْكَزِيًّا",
+          "lemma": "مَرْكَزِيٌّ"
+        },
+        {
+          "w": "حَيَاةِ",
+          "lemma": "حَيَاةٌ / حَيَوَاتٌ"
+        },
+        {
+          "w": "الفَرْدِ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "العَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يَعِيشُ الأَبْنَاءُ مَعَ وَالِدَيْهِمْ لِفَتْرَةٍ طَوِيلَةٍ غَالِبًا.",
       "translation": "Djeca često dugo žive sa svojim roditeljima.",
-      "translationEn": "Children often live with their parents for a long time."
+      "translationEn": "Children often live with their parents for a long time.",
+      "words": [
+        {
+          "w": "يَعِيشُ",
+          "lemma": "عَاشَ يَعِيشُ"
+        },
+        {
+          "w": "الأَبْنَاءُ",
+          "lemma": "ابْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "وَالِدَيْهِمْ",
+          "lemma": "وَالِدٌ / وَالِدَانِ"
+        },
+        {
+          "w": "لِفَتْرَةٍ",
+          "lemma": "فَتْرَةٌ / فَتَرَاتٌ"
+        },
+        {
+          "w": "طَوِيلَةٍ",
+          "lemma": "طَوِيلٌ"
+        },
+        {
+          "w": "غَالِبًا",
+          "lemma": "غَالِبٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَحْتَرِمُ الصَّغِيرُ الكَبِيرَ وَيَسْعَى الجَمِيعُ لِمُسَاعَدَةِ بَعْضِهِمُ البَعْضِ.",
+      "arabic": "يَحْتَرِمُ الصَّغِيرُ الكَبِيرَ وَيَسْعَى الجَمِيعُ لِمُسَاعَدَةِ بَعْضِهِمُ البَعْضِ.",
       "translation": "Mlađi poštuju starije i svi nastoje pomagati jedni drugima.",
-      "translationEn": "The young respect the old, and everyone strives to help one another."
+      "translationEn": "The young respect the old, and everyone strives to help one another.",
+      "words": [
+        {
+          "w": "يَحْتَرِمُ",
+          "lemma": "احْتَرَمَ يَحْتَرِمُ"
+        },
+        {
+          "w": "الصَّغِيرُ",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "الكَبِيرَ",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "وَيَسْعَى",
+          "lemma": "سَعَى يَسْعَى"
+        },
+        {
+          "w": "الجَمِيعُ",
+          "lemma": "جَمِيعٌ"
+        },
+        {
+          "w": "لِمُسَاعَدَةِ",
+          "lemma": "مُسَاعَدَةٌ / مُسَاعَدَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَقْضِي الأَقَارِبُ عُطْلَةَ نِهَايَةِ الأُسْبُوعِ فِي الزِّيَارَاتِ العَائِلِيَّةِ.",
+      "arabic": "يَقْضِي الأَقَارِبُ عُطْلَةَ نِهَايَةِ الأُسْبُوعِ فِي الزِّيَارَاتِ العَائِلِيَّةِ.",
       "translation": "Rođaci provode vikend u porodičnim posjetama.",
-      "translationEn": "Relatives spend the weekend on family visits."
+      "translationEn": "Relatives spend the weekend on family visits.",
+      "words": [
+        {
+          "w": "يَقْضِي",
+          "lemma": "قَضَى يَقْضِي"
+        },
+        {
+          "w": "الأَقَارِبُ",
+          "lemma": "قَرِيبٌ / أَقَارِبُ"
+        },
+        {
+          "w": "عُطْلَةَ",
+          "lemma": "عُطْلَةٌ / عُطْلَاتٌ"
+        },
+        {
+          "w": "نِهَايَةِ",
+          "lemma": "نِهَايَةٌ / نِهَايَاتٌ"
+        },
+        {
+          "w": "الأُسْبُوعِ",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        },
+        {
+          "w": "الزِّيَارَاتِ",
+          "lemma": "زِيَارَةٌ / زِيَارَاتٌ"
+        },
+        {
+          "w": "العَائِلِيَّةِ",
+          "lemma": "عَائِلِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "هَذِهِ الرَّوَابِطُ القَوِيَّةُ تَمْنَحُ الفَرْدَ الشُّعُورَ بِالأَمَانِ.",
+      "arabic": "هَذِهِ الرَّوَابِطُ القَوِيَّةُ تَمْنَحُ الفَرْدَ الشُّعُورَ بِالأَمَانِ.",
       "translation": "Ove snažne veze daju pojedincu osjećaj sigurnosti.",
-      "translationEn": "These strong bonds give the individual a sense of security."
+      "translationEn": "These strong bonds give the individual a sense of security.",
+      "words": [
+        {
+          "w": "الرَّوَابِطُ",
+          "lemma": "رَابِطَةٌ / رَوَابِطُ"
+        },
+        {
+          "w": "القَوِيَّةُ",
+          "lemma": "قَوِيٌّ"
+        },
+        {
+          "w": "تَمْنَحُ",
+          "lemma": "مَنَحَ يَمْنَحُ"
+        },
+        {
+          "w": "الفَرْدَ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "الشُّعُورَ",
+          "lemma": "شُعُورٌ / مَشَاعِرُ"
+        },
+        {
+          "w": "بِالأَمَانِ",
+          "lemma": "أَمَانٌ"
+        }
+      ]
     }
   ],
   "metadata": {

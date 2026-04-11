@@ -6,22 +6,57 @@
     {
       "arabic": "السُّوقُ الْعَرَبِيُّ مَكَانٌ مُمْتِعٌ يَبِيعُ فِيهِ التُّجَّارُ أَنْوَاعًا كَثِيرَةً مِنَ الْبَضَائِعِ.",
       "translation": "Arapska pijaca je ugodno mjesto gdje trgovci prodaju razne vrste robe.",
-      "translationEn": "The Arab souk is a lively place where merchants sell many kinds of goods."
+      "translationEn": "The Arab souk is a lively place where merchants sell many kinds of goods.",
+      "words": [
+        { "w": "السُّوقُ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "الْعَرَبِيُّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "مَكَانٌ", "lemma": "مَكَانٌ / أَمَاكِنُ" },
+        { "w": "مُمْتِعٌ", "lemma": "مُمْتِعٌ" },
+        { "w": "يَبِيعُ", "lemma": "بَاعَ يَبِيعُ" },
+        { "w": "التُّجَّارُ", "lemma": "تَاجِرٌ / تُجَّارٌ" },
+        { "w": "أَنْوَاعًا", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "كَثِيرَةً", "lemma": "كَثِيرٌ" },
+        { "w": "الْبَضَائِعِ", "lemma": "بِضَاعَةٌ / بَضَائِعُ" }
+      ]
     },
     {
       "arabic": "تَجِدُ فِيهِ الْتَّوَابِلَ وَالسِّجَادَ وَالْمَجَوْهَرَاتِ وَالْمَلَابِسَ.",
       "translation": "Tu možete naći začine, tepihe, nakit i odjeću.",
-      "translationEn": "You can find spices, carpets, jewellery, and clothing there."
+      "translationEn": "You can find spices, carpets, jewellery, and clothing there.",
+      "words": [
+        { "w": "تَجِدُ", "lemma": "وَجَدَ يَجِدُ" },
+        { "w": "الْتَّوَابِلَ", "lemma": "تَابِلٌ / تَوَابِلُ" },
+        { "w": "وَالسِّجَادَ", "lemma": "سَجَّادٌ / سَجَادَاتٌ" },
+        { "w": "وَالْمَجَوْهَرَاتِ", "lemma": "مَجَوْهَرَاتٌ" },
+        { "w": "وَالْمَلَابِسَ", "lemma": "مَلْبَسٌ / مَلَابِسُ" }
+      ]
     },
     {
       "arabic": "يَتَفَاوَضُ الْبَائِعُ وَالْمُشْتَرِي عَلَى السِّعْرِ وَهَذَا جُزْءٌ مِنَ الْمُتْعَةِ.",
       "translation": "Prodavač i kupac pregovaraju o cijeni, što je dio zabave.",
-      "translationEn": "The seller and buyer negotiate over the price, which is part of the fun."
+      "translationEn": "The seller and buyer negotiate over the price, which is part of the fun.",
+      "words": [
+        { "w": "يَتَفَاوَضُ", "lemma": "تَفَاوَضَ يَتَفَاوَضُ" },
+        { "w": "الْبَائِعُ", "lemma": "بَائِعٌ / بَائِعُونَ" },
+        { "w": "وَالْمُشْتَرِي", "lemma": "مُشْتَرٍ / مُشْتَرُونَ" },
+        { "w": "السِّعْرِ", "lemma": "سِعْرٌ / أَسْعَارٌ" },
+        { "w": "جُزْءٌ", "lemma": "جُزْءٌ / أَجْزَاءٌ" },
+        { "w": "الْمُتْعَةِ", "lemma": "مُتْعَةٌ / مُتَعٌ" }
+      ]
     },
     {
       "arabic": "رَائِحَةُ الْبَهَارَاتِ وَالْبُخُورِ تَمْلَأُ أَزِقَّةَ السُّوقِ الضَّيِّقَةَ.",
       "translation": "Miris začina i tamjana ispunjava uske ulice pijace.",
-      "translationEn": "The smell of spices and incense fills the narrow alleyways of the market."
+      "translationEn": "The smell of spices and incense fills the narrow alleyways of the market.",
+      "words": [
+        { "w": "رَائِحَةُ", "lemma": "رَائِحَةٌ / رَوَائِحُ" },
+        { "w": "الْبَهَارَاتِ", "lemma": "بَهَارٌ / بَهَارَاتٌ" },
+        { "w": "وَالْبُخُورِ", "lemma": "بَخُورٌ" },
+        { "w": "تَمْلَأُ", "lemma": "مَلَأَ يَمْلَأُ" },
+        { "w": "أَزِقَّةَ", "lemma": "زُقَاقٌ / أَزِقَّةٌ" },
+        { "w": "السُّوقِ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "الضَّيِّقَةَ", "lemma": "ضَيِّقٌ" }
+      ]
     }
   ],
   "metadata": {

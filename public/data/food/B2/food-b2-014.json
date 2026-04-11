@@ -4,27 +4,101 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "الْعَسَلُ الطَّبِيعِيُّ مُفِيدٌ جِدًّا لِصِحَّةِ الْإِنْسَانِ وَنَشَاطِهِ.",
+      "arabic": "الْعَسَلُ الطَّبِيعِيُّ مُفِيدٌ جِدًّا لِصِحَّةِ الْإِنْسَانِ وَنَشَاطِهِ.",
       "translation": "Prirodni med je veoma koristan za ljudsko zdravlje i energiju.",
       "translationEn": "Natural honey is very beneficial for human health and energy.",
-      "words": []
-    },
-    {
-      "arabic": "يَسْتَخْدِمُهُ كَثِيرٌ مِنَ النَّاسِ كَمُحَلٍّ بَدَلًا مِنَ السُّكَّرِ الصِّنَاعِيِّ.",
-      "translation": "Mnogi ljudi ga koriste kao zaslađivač umjesto vještačkog šećera.",
-      "translationEn": "Many people use it as a sweetener instead of artificial sugar.",
       "words": [
         {
-          "w": "بَدَلًا",
-          "lemma": "بَدَلَ"
+          "w": "الْعَسَلُ",
+          "lemma": "عَسَلٌ"
+        },
+        {
+          "w": "الطَّبِيعِيُّ",
+          "lemma": "طَبِيعِيٌّ"
+        },
+        {
+          "w": "مُفِيدٌ",
+          "lemma": "مُفِيدٌ"
+        },
+        {
+          "w": "جِدًّا",
+          "lemma": "جِدًّا"
+        },
+        {
+          "w": "لِصِحَّةِ",
+          "lemma": "صِحَّةٌ"
+        },
+        {
+          "w": "الْإِنْسَانِ",
+          "lemma": "إِنْسَانٌ / بَشَرٌ"
+        },
+        {
+          "w": "وَنَشَاطِهِ",
+          "lemma": "نَشَاطٌ"
         }
       ]
     },
     {
-      "arabic": "هُوَ يَحْتَوِي عَلَى فِيتَامِينَاتٍ كَثِيرَةٍ تُقَوِّي جِهَازَ الْمَنَاعَةِ.",
+      "arabic": "يَسْتَخْدِمُهُ كَثِيرٌ مِنَ النَّاسِ كَمُحَلٍّ بَدَلًا مِنَ السُّكَّرِ الصِّنَاعِيِّ.",
+      "translation": "Mnogi ljudi ga koriste kao zaslađivač umjesto vještačkog šećera.",
+      "translationEn": "Many people use it as a sweetener instead of artificial sugar.",
+      "words": [
+        {
+          "w": "يَسْتَخْدِمُهُ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "النَّاسِ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "كَمُحَلٍّ",
+          "lemma": "مُحَلٍّ / مُحَلِّيَاتٌ"
+        },
+        {
+          "w": "بَدَلًا",
+          "lemma": "بَدَلَ"
+        },
+        {
+          "w": "السُّكَّرِ",
+          "lemma": "سُكَّرٌ"
+        },
+        {
+          "w": "الصِّنَاعِيِّ",
+          "lemma": "صِنَاعِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "هُوَ يَحْتَوِي عَلَى فِيتَامِينَاتٍ كَثِيرَةٍ تُقَوِّي جِهَازَ الْمَنَاعَةِ.",
       "translation": "On sadrži mnogo vitamina koji jačaju imunološki sistem.",
       "translationEn": "It contains many vitamins that strengthen the immune system.",
-      "words": []
+      "words": [
+        {
+          "w": "يَحْتَوِي",
+          "lemma": "احْتَوَى يَحْتَوِي"
+        },
+        {
+          "w": "فِيتَامِينَاتٍ",
+          "lemma": "فِيتَامِينٌ / فِيتَامِينَاتٌ"
+        },
+        {
+          "w": "كَثِيرَةٍ",
+          "lemma": "كَثِيرٌ"
+        },
+        {
+          "w": "تُقَوِّي",
+          "lemma": "قَوَّى يُقَوِّي"
+        },
+        {
+          "w": "جِهَازَ",
+          "lemma": "جِهَازٌ / أَجْهِزَةٌ"
+        },
+        {
+          "w": "الْمَنَاعَةِ",
+          "lemma": "مَنَاعَةٌ"
+        }
+      ]
     }
   ],
   "metadata": {

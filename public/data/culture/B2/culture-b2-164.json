@@ -6,27 +6,67 @@
     {
       "arabic": "يَحْتَفِلُ الْمُسْلِمُونَ بِعِيدِ الْفِطْرِ بَعْدَ نِهَايَةِ شَهْرِ رَمَضَانَ.",
       "translation": "Muslimani slave Ramazanski bajram nakon završetka mjeseca Ramazana.",
-      "translationEn": "Muslims celebrate Eid al-Fitr after the end of the month of Ramadan."
+      "translationEn": "Muslims celebrate Eid al-Fitr after the end of the month of Ramadan.",
+      "words": [
+        { "w": "يَحْتَفِلُ", "lemma": "احْتَفَلَ يَحْتَفِلُ" },
+        { "w": "الْمُسْلِمُونَ", "lemma": "مُسْلِمٌ / مُسْلِمُونَ" },
+        { "w": "بِعِيدِ", "lemma": "عِيدٌ / أَعْيَادٌ" },
+        { "w": "الْفِطْرِ", "lemma": "فِطْرٌ" },
+        { "w": "نِهَايَةِ", "lemma": "نِهَايَةٌ / نِهَايَاتٌ" },
+        { "w": "شَهْرِ", "lemma": "شَهْرٌ / أَشْهُرٌ" },
+        { "w": "رَمَضَانَ", "lemma": "رَمَضَانُ" }
+      ]
     },
     {
       "arabic": "يَرْتَدِي الْأَطْفَالُ مَلَابِسَ جَدِيدَةً وَيَذْهَبُونَ إِلَى الْمَسَاجِدِ لِلصَّلَاةِ.",
       "translation": "Djeca nose novu odjeću i odlaze u džamije na molitvu.",
-      "translationEn": "Children wear new clothes and go to mosques for prayer."
+      "translationEn": "Children wear new clothes and go to mosques for prayer.",
+      "words": [
+        { "w": "يَرْتَدِي", "lemma": "ارْتَدَى يَرْتَدِي" },
+        { "w": "الْأَطْفَالُ", "lemma": "طِفْلٌ / أَطْفَالٌ" },
+        { "w": "مَلَابِسَ", "lemma": "مَلْبَسٌ / مَلَابِسُ" },
+        { "w": "جَدِيدَةً", "lemma": "جَدِيدٌ" },
+        { "w": "وَيَذْهَبُونَ", "lemma": "ذَهَبَ يَذْهَبُ" },
+        { "w": "الْمَسَاجِدِ", "lemma": "مَسْجِدٌ / مَسَاجِدُ" },
+        { "w": "لِلصَّلَاةِ", "lemma": "صَلَاةٌ / صَلَوَاتٌ" }
+      ]
     },
     {
       "arabic": "تَتَبَادَلُ الْعَائِلَاتُ الزِّيَارَاتِ وَالتَّهَانِيَ بِهَذِهِ الْمُنَاسَبَةِ السَّعِيدَةِ.",
       "translation": "Porodice razmjenjuju posjete i čestitke ovom sretnom prigodom.",
-      "translationEn": "Families exchange visits and congratulations on this happy occasion."
+      "translationEn": "Families exchange visits and congratulations on this happy occasion.",
+      "words": [
+        { "w": "تَتَبَادَلُ", "lemma": "تَبَادَلَ يَتَبَادَلُ" },
+        { "w": "الْعَائِلَاتُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ" },
+        { "w": "الزِّيَارَاتِ", "lemma": "زِيَارَةٌ / زِيَارَاتٌ" },
+        { "w": "وَالتَّهَانِيَ", "lemma": "تَهْنِئَةٌ / تَهَانٍ" },
+        { "w": "الْمُنَاسَبَةِ", "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ" },
+        { "w": "السَّعِيدَةِ", "lemma": "سَعِيدٌ" }
+      ]
     },
     {
       "arabic": "يُعْطِي الْكِبَارُ الْعِيدِيَّةَ لِلصِّغَارِ لِيَشْتَرُوا الْأَلْعَابَ.",
       "translation": "Odrasli daju 'bajramluk' djeci kako bi kupili igračke.",
-      "translationEn": "Adults give 'Eidiya' (money gifts) to children to buy toys."
+      "translationEn": "Adults give 'Eidiya' (money gifts) to children to buy toys.",
+      "words": [
+        { "w": "يُعْطِي", "lemma": "أَعْطَى يُعْطِي" },
+        { "w": "الْكِبَارُ", "lemma": "كَبِيرٌ / كِبَارٌ" },
+        { "w": "الْعِيدِيَّةَ", "lemma": "عِيدِيَّةٌ" },
+        { "w": "لِلصِّغَارِ", "lemma": "صَغِيرٌ / صِغَارٌ" },
+        { "w": "لِيَشْتَرُوا", "lemma": "اشْتَرَى يَشْتَرِي" },
+        { "w": "الْأَلْعَابَ", "lemma": "لُعْبَةٌ / أَلْعَابٌ" }
+      ]
     },
     {
       "arabic": "تَعُمُّ الْفَرْحَةُ فِي جَمِيعِ الشَّوَارِعِ وَالْبُيُوتِ.",
       "translation": "Radost se širi svim ulicama i kućama.",
-      "translationEn": "Joy spreads through all the streets and homes."
+      "translationEn": "Joy spreads through all the streets and homes.",
+      "words": [
+        { "w": "تَعُمُّ", "lemma": "عَمَّ يَعُمُّ" },
+        { "w": "الْفَرْحَةُ", "lemma": "فَرْحَةٌ / فَرَحٌ" },
+        { "w": "الشَّوَارِعِ", "lemma": "شَارِعٌ / شَوَارِعُ" },
+        { "w": "وَالْبُيُوتِ", "lemma": "بَيْتٌ / بُيُوتٌ" }
+      ]
     }
   ],
   "metadata": {

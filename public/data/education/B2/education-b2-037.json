@@ -4,29 +4,90 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَعْتَبِرُ الْمَكْتَبَاتُ الْجَامِعِيَّةُ مَنَارَاتٍ لِلْعِلْمِ وَالْبَحْثِ، حَيْثُ تَمْنَحُ الطُّلَّابَ بِيئَةً هَادِئَةً لِلتَّرْكِيزِ الْعَمِيقِ.",
+      "arabic": "تَعْتَبِرُ الْمَكْتَبَاتُ الْجَامِعِيَّةُ مَنَارَاتٍ لِلْعِلْمِ وَالْبَحْثِ، حَيْثُ تَمْنَحُ الطُّلَّابَ بِيئَةً هَادِئَةً لِلتَّرْكِيزِ الْعَمِيقِ.",
       "translation": "Univerzitetske biblioteke se smatraju svjetionicima nauke i istraživanja, jer studentima pružaju mirno okruženje za duboku koncentraciju.",
-      "translationEn": "University libraries are considered beacons of science and research, as they provide students with a quiet environment for deep concentration."
+      "translationEn": "University libraries are considered beacons of science and research, as they provide students with a quiet environment for deep concentration.",
+      "words": [
+        { "w": "الْمَكْتَبَاتُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "الْجَامِعِيَّةُ", "lemma": "جَامِعِيٌّ" },
+        { "w": "مَنَارَاتٍ", "lemma": "مَنَارَةٌ / مَنَارَاتٌ" },
+        { "w": "لِلْعِلْمِ", "lemma": "عِلْمٌ / عُلُومٌ" },
+        { "w": "وَالْبَحْثِ", "lemma": "بَحْثٌ / بُحُوثٌ" },
+        { "w": "تَمْنَحُ", "lemma": "مَنَحَ يَمْنَحُ" },
+        { "w": "الطُّلَّابَ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "بِيئَةً", "lemma": "بِيئَةٌ / بِيئَاتٌ" },
+        { "w": "هَادِئَةً", "lemma": "هَادِئٌ" },
+        { "w": "لِلتَّرْكِيزِ", "lemma": "تَرْكِيزٌ" },
+        { "w": "الْعَمِيقِ", "lemma": "عَمِيقٌ" }
+      ]
     },
     {
-      "arabic": "رَغْمَ الِانْتِشَارِ الْوَاسِعِ لِلْمَصَادِرِ الرَّقْمِيَّةِ، لَا تَزَالُ الْكُتُبُ الْمَطْبُوعَةُ تَحْتَفِظُ بِمَكَانَتِهَا الْجَوْهَرِيَّةِ فِي التَّحْصِيلِ الْأَكَادِيمِيِّ.",
+      "arabic": "رَغْمَ الِانْتِشَارِ الْوَاسِعِ لِلْمَصَادِرِ الرَّقْمِيَّةِ، لَا تَزَالُ الْكُتُبُ الْمَطْبُوعَةُ تَحْتَفِظُ بِمَكَانَتِهَا الْجَوْهَرِيَّةِ فِي التَّحْصِيلِ الْأَكَادِيمِيِّ.",
       "translation": "Uprkos širokoj rasprostranjenosti digitalnih izvora, štampane knjige i dalje zadržavaju svoj suštinski značaj u akademskom postignuću.",
-      "translationEn": "Despite the wide spread of digital sources, printed books still maintain their essential status in academic achievement."
+      "translationEn": "Despite the wide spread of digital sources, printed books still maintain their essential status in academic achievement.",
+      "words": [
+        { "w": "الِانْتِشَارِ", "lemma": "انْتِشَارٌ" },
+        { "w": "الْوَاسِعِ", "lemma": "وَاسِعٌ" },
+        { "w": "لِلْمَصَادِرِ", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "الرَّقْمِيَّةِ", "lemma": "رَقْمِيٌّ" },
+        { "w": "الْكُتُبُ", "lemma": "كِتَابٌ / كُتُبٌ" },
+        { "w": "الْمَطْبُوعَةُ", "lemma": "مَطْبُوعٌ" },
+        { "w": "تَحْتَفِظُ", "lemma": "احْتَفَظَ يَحْتَفِظُ" },
+        { "w": "بِمَكَانَتِهَا", "lemma": "مَكَانَةٌ" },
+        { "w": "الْجَوْهَرِيَّةِ", "lemma": "جَوْهَرِيٌّ" },
+        { "w": "التَّحْصِيلِ", "lemma": "تَحْصِيلٌ" },
+        { "w": "الْأَكَادِيمِيِّ", "lemma": "أَكَادِيمِيٌّ" }
+      ]
     },
     {
-      "arabic": "تَعْمَلُ هَذِهِ الْمُؤَسَّسَاتُ عَلَى تَوْفِيرِ قَوَاعِدِ بَيَانَاتٍ ضَخْمَةٍ تُسَهِّلُ عَمَلِيَّةَ الِاطِّلَاعِ عَلَى آخِرِ الدِّرَاسَاتِ الْعِلْمِيَّةِ.",
+      "arabic": "تَعْمَلُ هَذِهِ الْمُؤَسَّسَاتُ عَلَى تَوْفِيرِ قَوَاعِدِ بَيَانَاتٍ ضَخْمَةٍ تُسَهِّلُ عَمَلِيَّةَ الِاطِّلَاعِ عَلَى آخِرِ الدِّرَاسَاتِ الْعِلْمِيَّةِ.",
       "translation": "Ove institucije rade na pružanju ogromnih baza podataka koje olakšavaju proces uvida u najnovije naučne studije.",
-      "translationEn": "These institutions work to provide huge databases that facilitate the process of accessing the latest scientific studies."
+      "translationEn": "These institutions work to provide huge databases that facilitate the process of accessing the latest scientific studies.",
+      "words": [
+        { "w": "تَعْمَلُ", "lemma": "عَمِلَ يَعْمَلُ" },
+        { "w": "الْمُؤَسَّسَاتُ", "lemma": "مُؤَسَّسَةٌ / مُؤَسَّسَاتٌ" },
+        { "w": "تَوْفِيرِ", "lemma": "تَوْفِيرٌ" },
+        { "w": "قَوَاعِدِ", "lemma": "قَاعِدَةٌ / قَوَاعِدُ" },
+        { "w": "بَيَانَاتٍ", "lemma": "بَيَانٌ / بَيَانَاتٌ" },
+        { "w": "ضَخْمَةٍ", "lemma": "ضَخْمٌ" },
+        { "w": "تُسَهِّلُ", "lemma": "سَهَّلَ يُسَهِّلُ" },
+        { "w": "عَمَلِيَّةَ", "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ" },
+        { "w": "الِاطِّلَاعِ", "lemma": "اطِّلَاعٌ" },
+        { "w": "الدِّرَاسَاتِ", "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ" },
+        { "w": "الْعِلْمِيَّةِ", "lemma": "عِلْمِيٌّ" }
+      ]
     },
     {
-      "arabic": "كَمَا يَلْعَبُ أُمَنَاءُ الْمَكْتَبَاتِ دَوْرًا مِحْوَرِيًّا فِي تَوْجِيهِ الْبَاحِثِينَ نَحْوِ الْمَرَاجِعِ الْأَكْثَرِ دِقَّةً وَمَوْثُوقِيَّةً.",
+      "arabic": "كَمَا يَلْعَبُ أُمَنَاءُ الْمَكْتَبَاتِ دَوْرًا مِحْوَرِيًّا فِي تَوْجِيهِ الْبَاحِثِينَ نَحْوِ الْمَرَاجِعِ الْأَكْثَرِ دِقَّةً وَمَوْثُوقِيَّةً.",
       "translation": "Također, bibliotekari igraju ključnu ulogu u usmjeravanju istraživača ka najpreciznijim i najpouzdanijim referencama.",
-      "translationEn": "Librarians also play a pivotal role in guiding researchers toward the most accurate and reliable references."
+      "translationEn": "Librarians also play a pivotal role in guiding researchers toward the most accurate and reliable references.",
+      "words": [
+        { "w": "يَلْعَبُ", "lemma": "لَعِبَ يَلْعَبُ" },
+        { "w": "أُمَنَاءُ", "lemma": "أَمِينٌ / أُمَنَاءُ" },
+        { "w": "الْمَكْتَبَاتِ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "دَوْرًا", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "مِحْوَرِيًّا", "lemma": "مِحْوَرِيٌّ" },
+        { "w": "تَوْجِيهِ", "lemma": "تَوْجِيهٌ" },
+        { "w": "الْبَاحِثِينَ", "lemma": "بَاحِثٌ / بَاحِثُونَ" },
+        { "w": "الْمَرَاجِعِ", "lemma": "مَرْجِعٌ / مَرَاجِعُ" },
+        { "w": "دِقَّةً", "lemma": "دِقَّةٌ" },
+        { "w": "وَمَوْثُوقِيَّةً", "lemma": "مَوْثُوقِيَّةٌ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الِاسْتِفَادَةَ الْقُصْوَى مِنْ هَذِهِ الْمَرَافِقِ تَعْكِسُ مَدَى جِدِّيَّةِ الطَّالِبِ فِي مَسِيرَتِهِ التَّعْلِيمِيَّةِ.",
+      "arabic": "إِنَّ الِاسْتِفَادَةَ الْقُصْوَى مِنْ هَذِهِ الْمَرَافِقِ تَعْكِسُ مَدَى جِدِّيَّةِ الطَّالِبِ فِي مَسِيرَتِهِ التَّعْلِيمِيَّةِ.",
       "translation": "Maksimalno iskorištavanje ovih objekata odražava stepen ozbiljnosti studenta u njegovom obrazovnom putu.",
-      "translationEn": "Making the most of these facilities reflects the extent of a student's seriousness in their educational journey."
+      "translationEn": "Making the most of these facilities reflects the extent of a student's seriousness in their educational journey.",
+      "words": [
+        { "w": "الِاسْتِفَادَةَ", "lemma": "اسْتِفَادَةٌ" },
+        { "w": "الْقُصْوَى", "lemma": "أَقْصَى" },
+        { "w": "الْمَرَافِقِ", "lemma": "مَرْفَقٌ / مَرَافِقُ" },
+        { "w": "تَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "جِدِّيَّةِ", "lemma": "جِدِّيَّةٌ" },
+        { "w": "الطَّالِبِ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "مَسِيرَتِهِ", "lemma": "مَسِيرَةٌ / مَسِيرَاتٌ" },
+        { "w": "التَّعْلِيمِيَّةِ", "lemma": "تَعْلِيمِيٌّ" }
+      ]
     }
   ],
   "metadata": {

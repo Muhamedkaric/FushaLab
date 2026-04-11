@@ -7,13 +7,67 @@
       "arabic": "يُعَدُّ الْعُودُ مِنْ أَقْدَمِ وَأَهَمِّ الْآلَاتِ الْمُوسِيقِيَّةِ فِي الْعَالَمِ الْعَرَبِيِّ.",
       "translation": "Oud se smatra jednim od najstarijih i najvažnijih muzičkih instrumenata u arapskom svijetu.",
       "translationEn": "The Oud is considered one of the oldest and most important musical instruments in the Arab world.",
-      "words": []
+      "words": [
+        {
+          "w": "الْعُودُ",
+          "lemma": "عُودٌ / أَعْوَادٌ"
+        },
+        {
+          "w": "أَقْدَمِ",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "وَأَهَمِّ",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "الْآلَاتِ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "الْمُوسِيقِيَّةِ",
+          "lemma": "مُوسِيقِيٌّ"
+        },
+        {
+          "w": "الْعَالَمِ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "لَهُ صَوْتٌ عَذْبٌ يُعَبِّرُ عَنْ مَشَاعِرِ الْحُزْنِ وَالْفَرَحِ.",
       "translation": "Ima ugodan zvuk koji izražava osjećaje tuge i radosti.",
       "translationEn": "It has a sweet sound that expresses feelings of sadness and joy.",
-      "words": []
+      "words": [
+        {
+          "w": "صَوْتٌ",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "عَذْبٌ",
+          "lemma": "عَذْبٌ"
+        },
+        {
+          "w": "يُعَبِّرُ",
+          "lemma": "عَبَّرَ يُعَبِّرُ"
+        },
+        {
+          "w": "مَشَاعِرِ",
+          "lemma": "مَشْعَرٌ / مَشَاعِرُ"
+        },
+        {
+          "w": "الْحُزْنِ",
+          "lemma": "حُزْنٌ"
+        },
+        {
+          "w": "وَالْفَرَحِ",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        }
+      ]
     },
     {
       "arabic": "يَعْزِفُ الْفَنَّانُونَ أَلْحَانًا رَائِعَةً تَجْذِبُ الْمُسْتَمِعِينَ فِي كُلِّ الْحَفَلَاتِ.",
@@ -21,8 +75,36 @@
       "translationEn": "Artists play wonderful melodies that attract listeners at all concerts.",
       "words": [
         {
+          "w": "يَعْزِفُ",
+          "lemma": "عَزَفَ يَعْزِفُ"
+        },
+        {
+          "w": "الْفَنَّانُونَ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "أَلْحَانًا",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "رَائِعَةً",
+          "lemma": "رَائِعٌ"
+        },
+        {
+          "w": "تَجْذِبُ",
+          "lemma": "جَذَبَ يَجْذِبُ"
+        },
+        {
+          "w": "الْمُسْتَمِعِينَ",
+          "lemma": "مُسْتَمِعٌ / مُسْتَمِعُونَ"
+        },
+        {
           "w": "كُلِّ",
           "lemma": "كُلٌّ"
+        },
+        {
+          "w": "الْحَفَلَاتِ",
+          "lemma": "حَفْلَةٌ / حَفَلَاتٌ"
         }
       ]
     },
@@ -30,7 +112,36 @@
       "arabic": "تُحَافِظُ الْمُوسِيقَى الشَّعْبِيَّةُ عَلَى التُّرَاثِ الْقَدِيمِ لِلْأَجْيَالِ الْقَادِمَةِ.",
       "translation": "Narodna muzika čuva staru baštinu za buduće generacije.",
       "translationEn": "Folk music preserves the ancient heritage for future generations.",
-      "words": []
+      "words": [
+        {
+          "w": "تُحَافِظُ",
+          "lemma": "حَافَظَ يُحَافِظُ"
+        },
+        {
+          "w": "الْمُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "الشَّعْبِيَّةُ",
+          "lemma": "شَعْبِيٌّ"
+        },
+        {
+          "w": "التُّرَاثِ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "الْقَدِيمِ",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "لِلْأَجْيَالِ",
+          "lemma": "جِيلٌ / أَجْيَالٌ"
+        },
+        {
+          "w": "الْقَادِمَةِ",
+          "lemma": "قَادِمٌ"
+        }
+      ]
     }
   ],
   "metadata": {

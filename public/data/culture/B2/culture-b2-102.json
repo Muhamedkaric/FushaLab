@@ -6,7 +6,18 @@
     {
       "arabic": "الْقَهْوَةُ الْعَرَبِيَّةُ مَشْرُوبٌ تَقْلِيدِيٌّ يُقَدَّمُ لِلضُّيُوفِ فِي جَمِيعِ أَنْحَاءِ الْعَالَمِ الْعَرَبِيِّ.",
       "translation": "Arapska kafa je tradicionalno piće koje se služi gostima širom arapskog svijeta.",
-      "translationEn": "Arabic coffee is a traditional drink served to guests throughout the Arab world."
+      "translationEn": "Arabic coffee is a traditional drink served to guests throughout the Arab world.",
+      "words": [
+        { "w": "الْقَهْوَةُ", "lemma": "قَهْوَةٌ / قَهَوَاتٌ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "مَشْرُوبٌ", "lemma": "مَشْرُوبٌ / مَشْرُوبَاتٌ" },
+        { "w": "تَقْلِيدِيٌّ", "lemma": "تَقْلِيدِيٌّ" },
+        { "w": "يُقَدَّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "لِلضُّيُوفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "أَنْحَاءِ", "lemma": "نَاحِيَةٌ / أَنْحَاءٌ" },
+        { "w": "الْعَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" }
+      ]
     }
   ],
   "metadata": {

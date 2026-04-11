@@ -4,42 +4,269 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَتَمَيَّزُ العِمَارَةُ الإِسْلَامِيَّةُ بِتَفَاصِيلِهَا الهَنْدَسِيَّةِ المُعَقَّدَةِ الَّتِي تَمْزِجُ بَيْنَ الجَمَالِ الفَنِّيِّ وَالرَّمْزِيَّةِ الدِّينِيَّةِ.",
+      "arabic": "تَتَمَيَّزُ الْعِمَارَةُ الإِسْلَامِيَّةُ بِتَفَاصِيلِهَا الْهَنْدَسِيَّةِ الْمُعَقَّدَةِ الَّتِي تَمْزِجُ بَيْنَ الْجَمَالِ الْفَنِّيِّ وَالرَّمْزِيَّةِ الدِّينِيَّةِ.",
       "translation": "Islamsku arhitekturu odlikuju složeni geometrijski detalji koji spajaju umjetničku ljepotu i religijsku simboliku.",
       "translationEn": "Islamic architecture is characterized by its complex geometric details that blend artistic beauty with religious symbolism.",
-      "words": []
-    },
-    {
-      "arabic": "تُعَدُّ الزَّخَارِفُ النَّبَاتِيَّةُ وَالخَطُّ العَرَبِيُّ مِنَ العَنَاصِرِ الرَّئِيسِيَّةِ الَّتِي تُزَيِّنُ جُدْرَانَ المَسَاجِدِ وَالقُصُورِ التَّارِيخِيَّةِ.",
-      "translation": "Biljni ornamenti i arapska kaligrafija su među glavnim elementima koji krase zidove džamija i istorijskih palata.",
-      "translationEn": "Floral ornaments and Arabic calligraphy are among the main elements decorating the walls of mosques and historical palaces.",
-      "words": []
-    },
-    {
-      "arabic": "كَمَا يَلْعَبُ \"الفِنَاءُ المَفْتُوحُ\" دَوْرًا مِحْوَرِيًّا فِي تَصْمِيمِ المَنَازِلِ، مِمَّا يُوَفِّرُ الخُصُوصِيَّةَ وَيَسْمَحُ بِدُخُولِ الضَّوْءِ وَالهَوَاءِ.",
-      "translation": "Takođe, 'otvoreno dvorište' igra ključnu ulogu u dizajnu kuća, pružajući privatnost i omogućavajući ulazak svjetlosti i zraka.",
-      "translationEn": "Also, the 'open courtyard' plays a pivotal role in house design, providing privacy and allowing light and air to enter.",
-      "words": []
-    },
-    {
-      "arabic": "إِنَّ اسْتِخْدَامَ الفُسَيْفُسَاءِ المُلَوَّنَةِ، المَعْرُوفَةِ بِـ \"الزَّلِيجِ\"، يَعْكِسُ مَدَى الدِّقَّةِ وَالبَرَاعَةِ الَّتِي وَصَلَ إِلَيْهَا الصُّنَّاعُ العَرَبُ عَبْرَ العُصُورِ.",
-      "translation": "Upotreba obojenog mozaika, poznatog kao 'zellige', odražava nivo preciznosti i vještine koju su arapske zanatlije postigle kroz vijekove.",
-      "translationEn": "The use of colored mosaics, known as 'zellige,' reflects the level of precision and skill achieved by Arab craftsmen throughout the ages.",
       "words": [
         {
-          "w": "عَبْرَ",
-          "lemma": "عَبْرَ"
+          "w": "تَتَمَيَّزُ",
+          "lemma": "تَمَيَّزَ يَتَمَيَّزُ"
+        },
+        {
+          "w": "الْعِمَارَةُ",
+          "lemma": "عِمَارَةٌ"
+        },
+        {
+          "w": "الإِسْلَامِيَّةُ",
+          "lemma": "إِسْلَامِيٌّ"
+        },
+        {
+          "w": "بِتَفَاصِيلِهَا",
+          "lemma": "تَفْصِيلٌ / تَفَاصِيلُ"
+        },
+        {
+          "w": "الْهَنْدَسِيَّةِ",
+          "lemma": "هَنْدَسِيٌّ"
+        },
+        {
+          "w": "الْمُعَقَّدَةِ",
+          "lemma": "مُعَقَّدٌ"
+        },
+        {
+          "w": "تَمْزِجُ",
+          "lemma": "مَزَجَ يَمْزِجُ"
+        },
+        {
+          "w": "الْجَمَالِ",
+          "lemma": "جَمَالٌ"
+        },
+        {
+          "w": "الْفَنِّيِّ",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "وَالرَّمْزِيَّةِ",
+          "lemma": "رَمْزِيَّةٌ"
+        },
+        {
+          "w": "الدِّينِيَّةِ",
+          "lemma": "دِينِيٌّ"
         }
       ]
     },
     {
-      "arabic": "هَذِهِ الصُّرُوحُ لَيْسَتْ مُجَرَّدَ مَبَانٍ، بَلْ هِيَ شَوَاهِدُ حَيَّةٌ عَلَى حَضَارَةٍ عَظِيمَةٍ أَغْنَتِ التُّرَاثَ الإِنْسَانِيَّ.",
+      "arabic": "تُعَدُّ الزَّخَارِفُ النَّبَاتِيَّةُ وَالْخَطُّ الْعَرَبِيُّ مِنَ الْعَنَاصِرِ الرَّئِيسِيَّةِ الَّتِي تُزَيِّنُ جُدْرَانَ الْمَسَاجِدِ وَالْقُصُورِ التَّارِيخِيَّةِ.",
+      "translation": "Biljni ornamenti i arapska kaligrafija su među glavnim elementima koji krase zidove džamija i istorijskih palata.",
+      "translationEn": "Floral ornaments and Arabic calligraphy are among the main elements decorating the walls of mosques and historical palaces.",
+      "words": [
+        {
+          "w": "تُعَدُّ",
+          "lemma": "عَدَّ يَعُدُّ"
+        },
+        {
+          "w": "الزَّخَارِفُ",
+          "lemma": "زَخْرَفٌ / زَخَارِفُ"
+        },
+        {
+          "w": "النَّبَاتِيَّةُ",
+          "lemma": "نَبَاتِيٌّ"
+        },
+        {
+          "w": "وَالْخَطُّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "الْعَنَاصِرِ",
+          "lemma": "عَنْصُرٌ / عَنَاصِرُ"
+        },
+        {
+          "w": "الرَّئِيسِيَّةِ",
+          "lemma": "رَئِيسِيٌّ"
+        },
+        {
+          "w": "تُزَيِّنُ",
+          "lemma": "زَيَّنَ يُزَيِّنُ"
+        },
+        {
+          "w": "جُدْرَانَ",
+          "lemma": "جِدَارٌ / جُدْرَانٌ"
+        },
+        {
+          "w": "الْمَسَاجِدِ",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "وَالْقُصُورِ",
+          "lemma": "قَصْرٌ / قُصُورٌ"
+        },
+        {
+          "w": "التَّارِيخِيَّةِ",
+          "lemma": "تَارِيخِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "كَمَا يَلْعَبُ \"الْفِنَاءُ الْمَفْتُوحُ\" دَوْرًا مِحْوَرِيًّا فِي تَصْمِيمِ الْمَنَازِلِ، مِمَّا يُوَفِّرُ الْخُصُوصِيَّةَ وَيَسْمَحُ بِدُخُولِ الضَّوْءِ وَالْهَوَاءِ.",
+      "translation": "Takođe, 'otvoreno dvorište' igra ključnu ulogu u dizajnu kuća, pružajući privatnost i omogućavajući ulazak svjetlosti i zraka.",
+      "translationEn": "Also, the 'open courtyard' plays a pivotal role in house design, providing privacy and allowing light and air to enter.",
+      "words": [
+        {
+          "w": "يَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الْفِنَاءُ",
+          "lemma": "فِنَاءٌ / أَفْنِيَةٌ"
+        },
+        {
+          "w": "الْمَفْتُوحُ",
+          "lemma": "مَفْتُوحٌ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "مِحْوَرِيًّا",
+          "lemma": "مِحْوَرِيٌّ"
+        },
+        {
+          "w": "تَصْمِيمِ",
+          "lemma": "تَصْمِيمٌ / تَصَامِيمُ"
+        },
+        {
+          "w": "الْمَنَازِلِ",
+          "lemma": "مَنْزِلٌ / مَنَازِلُ"
+        },
+        {
+          "w": "يُوَفِّرُ",
+          "lemma": "وَفَّرَ يُوَفِّرُ"
+        },
+        {
+          "w": "الْخُصُوصِيَّةَ",
+          "lemma": "خُصُوصِيَّةٌ"
+        },
+        {
+          "w": "وَيَسْمَحُ",
+          "lemma": "سَمَحَ يَسْمَحُ"
+        },
+        {
+          "w": "بِدُخُولِ",
+          "lemma": "دُخُولٌ"
+        },
+        {
+          "w": "الضَّوْءِ",
+          "lemma": "ضَوْءٌ / أَضْوَاءٌ"
+        },
+        {
+          "w": "وَالْهَوَاءِ",
+          "lemma": "هَوَاءٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "إِنَّ اسْتِخْدَامَ الْفُسَيْفُسَاءِ الْمُلَوَّنَةِ، الْمَعْرُوفَةِ بِـ \"الزَّلِيجِ\"، يَعْكِسُ مَدَى الدِّقَّةِ وَالبَرَاعَةِ الَّتِي وَصَلَ إِلَيْهَا الصُّنَّاعُ الْعَرَبُ عَبْرَ الْعُصُورِ.",
+      "translation": "Upotreba obojenog mozaika, poznatog kao 'zellige', odražava nivo preciznosti i vještine koju su arapske zanatlije postigle kroz vijekove.",
+      "translationEn": "The use of colored mosaics, known as 'zellige,' reflects the level of precision and skill achieved by Arab craftsmen throughout the ages.",
+      "words": [
+        {
+          "w": "اسْتِخْدَامَ",
+          "lemma": "اسْتِخْدَامٌ"
+        },
+        {
+          "w": "الْفُسَيْفُسَاءِ",
+          "lemma": "فُسَيْفُسَاءُ"
+        },
+        {
+          "w": "الْمُلَوَّنَةِ",
+          "lemma": "مُلَوَّنٌ"
+        },
+        {
+          "w": "الزَّلِيجِ",
+          "lemma": "زَلِيجٌ"
+        },
+        {
+          "w": "يَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الدِّقَّةِ",
+          "lemma": "دِقَّةٌ"
+        },
+        {
+          "w": "وَالبَرَاعَةِ",
+          "lemma": "بَرَاعَةٌ"
+        },
+        {
+          "w": "وَصَلَ",
+          "lemma": "وَصَلَ يَصِلُ"
+        },
+        {
+          "w": "الصُّنَّاعُ",
+          "lemma": "صَانِعٌ / صُنَّاعٌ"
+        },
+        {
+          "w": "الْعَرَبُ",
+          "lemma": "عَرَبٌ"
+        },
+        {
+          "w": "عَبْرَ",
+          "lemma": "عَبْرَ"
+        },
+        {
+          "w": "الْعُصُورِ",
+          "lemma": "عَصْرٌ / عُصُورٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "هَذِهِ الصُّرُوحُ لَيْسَتْ مُجَرَّدَ مَبَانٍ، بَلْ هِيَ شَوَاهِدُ حَيَّةٌ عَلَى حَضَارَةٍ عَظِيمَةٍ أَغْنَتِ التُّرَاثَ الإِنْسَانِيَّ.",
       "translation": "Ova zdanja nisu samo građevine, već su živi svjedoci velike civilizacije koja je obogatila ljudsku baštinu.",
       "translationEn": "These structures are not just buildings but are living witnesses to a great civilization that enriched human heritage.",
       "words": [
         {
+          "w": "الصُّرُوحُ",
+          "lemma": "صَرْحٌ / صُرُوحٌ"
+        },
+        {
           "w": "لَيْسَتْ",
           "lemma": "لَيْسَ"
+        },
+        {
+          "w": "مَبَانٍ",
+          "lemma": "مَبْنًى / مَبَانٍ"
+        },
+        {
+          "w": "شَوَاهِدُ",
+          "lemma": "شَاهِدٌ / شَوَاهِدُ"
+        },
+        {
+          "w": "حَيَّةٌ",
+          "lemma": "حَيٌّ"
+        },
+        {
+          "w": "حَضَارَةٍ",
+          "lemma": "حَضَارَةٌ / حَضَارَاتٌ"
+        },
+        {
+          "w": "عَظِيمَةٍ",
+          "lemma": "عَظِيمٌ"
+        },
+        {
+          "w": "أَغْنَتِ",
+          "lemma": "أَغْنَى يُغْنِي"
+        },
+        {
+          "w": "التُّرَاثَ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "الإِنْسَانِيَّ",
+          "lemma": "إِنْسَانِيٌّ"
         }
       ]
     }

@@ -6,27 +6,84 @@
     {
       "arabic": "تَبْتَعِدُ النُّظُمُ التَّعْلِيمِيَّةُ الْمُعَاصِرَةُ عَنِ التَّلْقِينِ وَالْحِفْظِ نَحْوَ مَنْهَجِيَّاتِ التَّعَلُّمِ التَّفَاعُلِيِّ.",
       "translation": "Savremeni obrazovni sistemi se udaljavaju od predavanja i učenja napamet ka metodologijama interaktivnog učenja.",
-      "translationEn": "Contemporary educational systems are moving away from rote memorization toward interactive learning methodologies."
+      "translationEn": "Contemporary educational systems are moving away from rote memorization toward interactive learning methodologies.",
+      "words": [
+        { "w": "تَبْتَعِدُ", "lemma": "ابْتَعَدَ يَبْتَعِدُ" },
+        { "w": "النُّظُمُ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "التَّعْلِيمِيَّةُ", "lemma": "تَعْلِيمِيٌّ" },
+        { "w": "الْمُعَاصِرَةُ", "lemma": "مُعَاصِرٌ" },
+        { "w": "التَّلْقِينِ", "lemma": "تَلْقِينٌ" },
+        { "w": "وَالْحِفْظِ", "lemma": "حِفْظٌ" },
+        { "w": "مَنْهَجِيَّاتِ", "lemma": "مَنْهَجِيَّةٌ / مَنْهَجِيَّاتٌ" },
+        { "w": "التَّعَلُّمِ", "lemma": "تَعَلُّمٌ" },
+        { "w": "التَّفَاعُلِيِّ", "lemma": "تَفَاعُلِيٌّ" }
+      ]
     },
     {
       "arabic": "تُرَكِّزُ الْمَنَاهِجُ الدِّرَاسِيَّةُ الْآنَ عَلَى أَهَمِّيَّةِ حَلِّ الْمُشْكِلَاتِ وَالتَّعْبِيرِ الْإِبْدَاعِيِّ دَاخِلَ الْفُصُولِ.",
       "translation": "Nastavni planovi i programi sada se fokusiraju na važnost rješavanja problema i kreativnog izražavanja unutar učionica.",
-      "translationEn": "Curricula now focus on the importance of problem-solving and creative expression within classrooms."
+      "translationEn": "Curricula now focus on the importance of problem-solving and creative expression within classrooms.",
+      "words": [
+        { "w": "تُرَكِّزُ", "lemma": "رَكَّزَ يُرَكِّزُ" },
+        { "w": "الْمَنَاهِجُ", "lemma": "مَنْهَجٌ / مَنَاهِجُ" },
+        { "w": "الدِّرَاسِيَّةُ", "lemma": "دِرَاسِيٌّ" },
+        { "w": "أَهَمِّيَّةِ", "lemma": "أَهَمِّيَّةٌ" },
+        { "w": "حَلِّ", "lemma": "حَلٌّ / حُلُولٌ" },
+        { "w": "الْمُشْكِلَاتِ", "lemma": "مُشْكِلَةٌ / مُشْكِلَاتٌ" },
+        { "w": "وَالتَّعْبِيرِ", "lemma": "تَعْبِيرٌ" },
+        { "w": "الْإِبْدَاعِيِّ", "lemma": "إِبْدَاعِيٌّ" },
+        { "w": "الْفُصُولِ", "lemma": "فَصْلٌ / فُصُولٌ" }
+      ]
     },
     {
       "arabic": "يَعْمَلُ الْمُعَلِّمُونَ كَمُيَسِّرِينَ يُشَجِّعُونَ الطُّلَّابَ عَلَى نَقْدِ الْفَرَضِيَّاتِ وَتَحْلِيلِ الْقَضَايَا الْمُعَقَّدَةِ.",
       "translation": "Nastavnici djeluju kao fasilitatori koji podstiču učenike da preispituju pretpostavke i analiziraju složena pitanja.",
-      "translationEn": "Teachers act as facilitators who encourage students to question assumptions and analyze complex issues."
+      "translationEn": "Teachers act as facilitators who encourage students to question assumptions and analyze complex issues.",
+      "words": [
+        { "w": "يَعْمَلُ", "lemma": "عَمِلَ يَعْمَلُ" },
+        { "w": "الْمُعَلِّمُونَ", "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ" },
+        { "w": "كَمُيَسِّرِينَ", "lemma": "مُيَسِّرٌ / مُيَسِّرُونَ" },
+        { "w": "يُشَجِّعُونَ", "lemma": "شَجَّعَ يُشَجِّعُ" },
+        { "w": "الطُّلَّابَ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "نَقْدِ", "lemma": "نَقْدٌ" },
+        { "w": "الْفَرَضِيَّاتِ", "lemma": "فَرَضِيَّةٌ / فَرَضِيَّاتٌ" },
+        { "w": "وَتَحْلِيلِ", "lemma": "تَحْلِيلٌ" },
+        { "w": "الْقَضَايَا", "lemma": "قَضِيَّةٌ / قَضَايَا" },
+        { "w": "الْمُعَقَّدَةِ", "lemma": "مُعَقَّدٌ" }
+      ]
     },
     {
       "arabic": "يُعِدُّ هَذَا النَّهْجُ الْأَجْيَالَ الصَّاعِدَةَ لِمُوَاجَهَةِ تَحَدِّيَاتِ الْقَرْنِ الْحَادِي وَالْعِشْرِينَ بِثِقَةٍ.",
       "translation": "Ovaj pristup priprema nadolazeće generacije da se sa samopouzdanjem suoče sa izazovima dvadeset prvog vijeka.",
-      "translationEn": "This approach prepares rising generations to face the challenges of the twenty-first century with confidence."
+      "translationEn": "This approach prepares rising generations to face the challenges of the twenty-first century with confidence.",
+      "words": [
+        { "w": "يُعِدُّ", "lemma": "أَعَدَّ يُعِدُّ" },
+        { "w": "النَّهْجُ", "lemma": "نَهْجٌ / مَنَاهِجُ" },
+        { "w": "الْأَجْيَالَ", "lemma": "جِيلٌ / أَجْيَالٌ" },
+        { "w": "الصَّاعِدَةَ", "lemma": "صَاعِدٌ" },
+        { "w": "لِمُوَاجَهَةِ", "lemma": "مُوَاجَهَةٌ" },
+        { "w": "تَحَدِّيَاتِ", "lemma": "تَحَدٍّ / تَحَدِّيَاتٌ" },
+        { "w": "الْقَرْنِ", "lemma": "قَرْنٌ / قُرُونٌ" },
+        { "w": "بِثِقَةٍ", "lemma": "ثِقَةٌ" }
+      ]
     },
     {
       "arabic": "كَمَا تُسَاعِدُ الْمَشَارِيعُ التَّعَاوُنِيَّةُ الطُّلَّابَ عَلَى اكْتِسَابِ مَهَارَاتِ التَّوَاصُلِ وَتَقْدِيرِ قِيمَةِ الْعَمَلِ الْجَمَاعِيِّ.",
       "translation": "Također, zajednički projekti pomažu učenicima da steknu komunikacijske vještine i procijene vrijednost timskog rada.",
-      "translationEn": "Collaborative projects also help students acquire communication skills and appreciate the value of teamwork."
+      "translationEn": "Collaborative projects also help students acquire communication skills and appreciate the value of teamwork.",
+      "words": [
+        { "w": "تُسَاعِدُ", "lemma": "سَاعَدَ يُسَاعِدُ" },
+        { "w": "الْمَشَارِيعُ", "lemma": "مَشْرُوعٌ / مَشَارِيعُ" },
+        { "w": "التَّعَاوُنِيَّةُ", "lemma": "تَعَاوُنِيٌّ" },
+        { "w": "الطُّلَّابَ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "اكْتِسَابِ", "lemma": "اكْتِسَابٌ" },
+        { "w": "مَهَارَاتِ", "lemma": "مَهَارَةٌ / مَهَارَاتٌ" },
+        { "w": "التَّوَاصُلِ", "lemma": "تَوَاصُلٌ" },
+        { "w": "وَتَقْدِيرِ", "lemma": "تَقْدِيرٌ" },
+        { "w": "قِيمَةِ", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "الْعَمَلِ", "lemma": "عَمَلٌ / أَعْمَالٌ" },
+        { "w": "الْجَمَاعِيِّ", "lemma": "جَمَاعِيٌّ" }
+      ]
     }
   ],
   "metadata": {

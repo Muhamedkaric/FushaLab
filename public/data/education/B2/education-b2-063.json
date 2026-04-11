@@ -4,39 +4,243 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَعْتَمِدُ النَّجَاحُ الْأَكَادِيمِيُّ بِشَكْلٍ كَبِيرٍ عَلَى تَبَنِّي عَادَاتٍ دِرَاسِيَّةٍ فَعَّالَةٍ وَمُنَظَّمَةٍ.",
+      "arabic": "يَعْتَمِدُ النَّجَاحُ الْأَكَادِيمِيُّ بِشَكْلٍ كَبِيرٍ عَلَى تَبَنِّي عَادَاتٍ دِرَاسِيَّةٍ فَعَّالَةٍ وَمُنَظَّمَةٍ.",
       "translation": "Akademski uspjeh u velikoj mjeri zavisi od usvajanja efikasnih i organizovanih studijskih navika.",
       "translationEn": "Academic success depends largely on adopting effective and organized study habits.",
-      "words": []
-    },
-    {
-      "arabic": "يُنْصَحُ الطُّلَّابُ دَائِماً بِتَقْسِيمِ الْمَوَادِّ الدَّسِمَةِ إِلَى أَجْزَاءٍ صَغِيرَةٍ يَسْهُلُ اسْتِيعَابُهَا وَمُرَاجَعَتُهَا.",
-      "translation": "Studentima se uvijek savjetuje da obimno gradivo podijele na male dijelove koje je lakše razumjeti i obnoviti.",
-      "translationEn": "Students are always advised to break down dense materials into small parts that are easy to comprehend and review.",
-      "words": []
-    },
-    {
-      "arabic": "كَمَا يَلْعَبُ تَنْظِيمُ الْوَقْتِ دَوْراً جَوْهَرِيّاً فِي تَجَنُّبِ التَّوَتُّرِ النَّاتِجِ عَنْ تَرَاكُمِ الْوَاجِبَاتِ الْمَدْرَسِيَّةِ.",
-      "translation": "Takođe, organizacija vremena igra suštinsku ulogu u izbjegavanju stresa uzrokovanog nagomilavanjem školskih obaveza.",
-      "translationEn": "Time management also plays a fundamental role in avoiding stress resulting from the accumulation of school assignments.",
-      "words": []
-    },
-    {
-      "arabic": "مِنْ جِهَةٍ أُخْرَى، يُسَاهِمُ الِابْتِعَادُ عَنِ الْمُشَتِّتَاتِ الرَّقْمِيَّةِ فِي زِيَادَةِ التَّرْكِيزِ وَتَحْسِينِ جَوْدَةِ التَّحْصِيلِ الْعِلْمِيِّ.",
-      "translation": "S druge strane, izbjegavanje digitalnih ometača doprinosi povećanju koncentracije i poboljšanju kvaliteta obrazovnog postignuća.",
-      "translationEn": "On the other hand, staying away from digital distractions contributes to increasing focus and improving the quality of academic achievement.",
       "words": [
         {
-          "w": "أُخْرَى",
-          "lemma": "آخَرُ / أُخْرَى"
+          "w": "يَعْتَمِدُ",
+          "lemma": "اعْتَمَدَ يَعْتَمِدُ"
+        },
+        {
+          "w": "النَّجَاحُ",
+          "lemma": "نَجَاحٌ"
+        },
+        {
+          "w": "الْأَكَادِيمِيُّ",
+          "lemma": "أَكَادِيمِيٌّ"
+        },
+        {
+          "w": "بِشَكْلٍ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "كَبِيرٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "تَبَنِّي",
+          "lemma": "تَبَنِّي"
+        },
+        {
+          "w": "عَادَاتٍ",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "دِرَاسِيَّةٍ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "فَعَّالَةٍ",
+          "lemma": "فَعَّالٌ"
+        },
+        {
+          "w": "وَمُنَظَّمَةٍ",
+          "lemma": "مُنَظَّمٌ"
         }
       ]
     },
     {
-      "arabic": "وَفِي النِّهَايَةِ، فَإِنَّ الِاسْتِمْرَارِيَّةَ فِي الْمُذَاكَرَةِ الْيَوْمِيَّةِ هِيَ الْمِفْتَاحُ الْحَقِيقِيُّ لِلتَّفَوُّقِ وَالِابْتِكَارِ.",
+      "arabic": "يُنْصَحُ الطُّلَّابُ دَائِماً بِتَقْسِيمِ الْمَوَادِّ الدَّسِمَةِ إِلَى أَجْزَاءٍ صَغِيرَةٍ يَسْهُلُ اسْتِيعَابُهَا وَمُرَاجَعَتُهَا.",
+      "translation": "Studentima se uvijek savjetuje da obimno gradivo podijele na male dijelove koje je lakše razumjeti i obnoviti.",
+      "translationEn": "Students are always advised to break down dense materials into small parts that are easy to comprehend and review.",
+      "words": [
+        {
+          "w": "يُنْصَحُ",
+          "lemma": "نَصَحَ يَنْصَحُ"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "بِتَقْسِيمِ",
+          "lemma": "تَقْسِيمٌ"
+        },
+        {
+          "w": "الْمَوَادِّ",
+          "lemma": "مَادَّةٌ / مَوَادُّ"
+        },
+        {
+          "w": "الدَّسِمَةِ",
+          "lemma": "دَسِمٌ"
+        },
+        {
+          "w": "أَجْزَاءٍ",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "صَغِيرَةٍ",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "يَسْهُلُ",
+          "lemma": "سَهُلَ يَسْهُلُ"
+        },
+        {
+          "w": "اسْتِيعَابُهَا",
+          "lemma": "اِسْتِيعَابٌ"
+        },
+        {
+          "w": "وَمُرَاجَعَتُهَا",
+          "lemma": "مُرَاجَعَةٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "كَمَا يَلْعَبُ تَنْظِيمُ الْوَقْتِ دَوْراً جَوْهَرِيّاً فِي تَجَنُّبِ التَّوَتُّرِ النَّاتِجِ عَنْ تَرَاكُمِ الْوَاجِبَاتِ الْمَدْرَسِيَّةِ.",
+      "translation": "Takođe, organizacija vremena igra suštinsku ulogu u izbjegavanju stresa uzrokovanog nagomilavanjem školskih obaveza.",
+      "translationEn": "Time management also plays a fundamental role in avoiding stress resulting from the accumulation of school assignments.",
+      "words": [
+        {
+          "w": "يَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "تَنْظِيمُ",
+          "lemma": "تَنْظِيمٌ"
+        },
+        {
+          "w": "الْوَقْتِ",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "دَوْراً",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "جَوْهَرِيّاً",
+          "lemma": "جَوْهَرِيٌّ"
+        },
+        {
+          "w": "تَجَنُّبِ",
+          "lemma": "تَجَنُّبٌ"
+        },
+        {
+          "w": "التَّوَتُّرِ",
+          "lemma": "تَوَتُّرٌ"
+        },
+        {
+          "w": "النَّاتِجِ",
+          "lemma": "نَاتِجٌ"
+        },
+        {
+          "w": "تَرَاكُمِ",
+          "lemma": "تَرَاكُمٌ"
+        },
+        {
+          "w": "الْوَاجِبَاتِ",
+          "lemma": "وَاجِبٌ / وَاجِبَاتٌ"
+        },
+        {
+          "w": "الْمَدْرَسِيَّةِ",
+          "lemma": "مَدْرَسِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "مِنْ جِهَةٍ أُخْرَى، يُسَاهِمُ الِابْتِعَادُ عَنِ الْمُشَتِّتَاتِ الرَّقْمِيَّةِ فِي زِيَادَةِ التَّرْكِيزِ وَتَحْسِينِ جَوْدَةِ التَّحْصِيلِ الْعِلْمِيِّ.",
+      "translation": "S druge strane, izbjegavanje digitalnih ometača doprinosi povećanju koncentracije i poboljšanju kvaliteta obrazovnog postignuća.",
+      "translationEn": "On the other hand, staying away from digital distractions contributes to increasing focus and improving the quality of academic achievement.",
+      "words": [
+        {
+          "w": "جِهَةٍ",
+          "lemma": "جِهَةٌ / جِهَاتٌ"
+        },
+        {
+          "w": "أُخْرَى",
+          "lemma": "آخَرُ / أُخْرَى"
+        },
+        {
+          "w": "يُسَاهِمُ",
+          "lemma": "سَاهَمَ يُسَاهِمُ"
+        },
+        {
+          "w": "الِابْتِعَادُ",
+          "lemma": "اِبْتِعَادٌ"
+        },
+        {
+          "w": "الْمُشَتِّتَاتِ",
+          "lemma": "مُشَتِّتٌ / مُشَتِّتَاتٌ"
+        },
+        {
+          "w": "الرَّقْمِيَّةِ",
+          "lemma": "رَقْمِيٌّ"
+        },
+        {
+          "w": "زِيَادَةِ",
+          "lemma": "زِيَادَةٌ"
+        },
+        {
+          "w": "التَّرْكِيزِ",
+          "lemma": "تَرْكِيزٌ"
+        },
+        {
+          "w": "وَتَحْسِينِ",
+          "lemma": "تَحْسِينٌ"
+        },
+        {
+          "w": "جَوْدَةِ",
+          "lemma": "جَوْدَةٌ"
+        },
+        {
+          "w": "التَّحْصِيلِ",
+          "lemma": "تَحْصِيلٌ"
+        },
+        {
+          "w": "الْعِلْمِيِّ",
+          "lemma": "عِلْمِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "وَفِي النِّهَايَةِ، فَإِنَّ الِاسْتِمْرَارِيَّةَ فِي الْمُذَاكَرَةِ الْيَوْمِيَّةِ هِيَ الْمِفْتَاحُ الْحَقِيقِيُّ لِلتَّفَوُّقِ وَالِابْتِكَارِ.",
       "translation": "Na kraju, kontinuitet u svakodnevnom učenju je pravi ključ za izvrsnost i inovaciju.",
       "translationEn": "In the end, consistency in daily studying is the true key to excellence and innovation.",
-      "words": []
+      "words": [
+        {
+          "w": "النِّهَايَةِ",
+          "lemma": "نِهَايَةٌ"
+        },
+        {
+          "w": "الِاسْتِمْرَارِيَّةَ",
+          "lemma": "اِسْتِمْرَارِيَّةٌ"
+        },
+        {
+          "w": "الْمُذَاكَرَةِ",
+          "lemma": "مُذَاكَرَةٌ"
+        },
+        {
+          "w": "الْيَوْمِيَّةِ",
+          "lemma": "يَوْمِيٌّ"
+        },
+        {
+          "w": "الْمِفْتَاحُ",
+          "lemma": "مِفْتَاحٌ / مَفَاتِيحُ"
+        },
+        {
+          "w": "الْحَقِيقِيُّ",
+          "lemma": "حَقِيقِيٌّ"
+        },
+        {
+          "w": "لِلتَّفَوُّقِ",
+          "lemma": "تَفَوُّقٌ"
+        },
+        {
+          "w": "وَالِابْتِكَارِ",
+          "lemma": "اِبْتِكَارٌ / اِبْتِكَارَاتٌ"
+        }
+      ]
     }
   ],
   "metadata": {

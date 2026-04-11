@@ -6,27 +6,63 @@
     {
       "arabic": "الْحِنَّاءُ تَقْلِيدٌ قَدِيمٌ فِي كَثِيرٍ مِنَ الدُّوَلِ الْعَرَبِيَّةِ.",
       "translation": "Kana je stara tradicija u mnogim arapskim zemljama.",
-      "translationEn": "Henna is an ancient tradition in many Arab countries."
+      "translationEn": "Henna is an ancient tradition in many Arab countries.",
+      "words": [
+        { "w": "الْحِنَّاءُ", "lemma": "حِنَّاءٌ" },
+        { "w": "تَقْلِيدٌ", "lemma": "تَقْلِيدٌ / تَقَالِيدُ" },
+        { "w": "قَدِيمٌ", "lemma": "قَدِيمٌ" },
+        { "w": "الدُّوَلِ", "lemma": "دَوْلَةٌ / دُوَلٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
       "arabic": "تُرَسَّمُ الأَشْكَالُ الْجَمِيلَةُ عَلَى يَدَيِ الْعَرُوسِ قَبْلَ الزَّفَافِ.",
       "translation": "Lijepi uzorci se iscrtavaju na rukama nevjeste prije vjenčanja.",
-      "translationEn": "Beautiful designs are drawn on the bride's hands before the wedding."
+      "translationEn": "Beautiful designs are drawn on the bride's hands before the wedding.",
+      "words": [
+        { "w": "تُرَسَّمُ", "lemma": "رَسَمَ يَرْسُمُ" },
+        { "w": "الأَشْكَالُ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "الْجَمِيلَةُ", "lemma": "جَمِيلٌ" },
+        { "w": "يَدَيِ", "lemma": "يَدٌ / أَيْدٍ" },
+        { "w": "الْعَرُوسِ", "lemma": "عَرُوسٌ / عَرَائِسُ" },
+        { "w": "الزَّفَافِ", "lemma": "زَفَافٌ" }
+      ]
     },
     {
       "arabic": "تَتَجَمَّعُ النِّسَاءُ فِي لَيْلَةِ الْحِنَّاءِ وَيُغَنِّينَ وَيَفْرَحْنَ.",
       "translation": "Žene se okupljaju na večeri kane, pjevaju i vesele se.",
-      "translationEn": "Women gather on the henna night, singing and celebrating."
+      "translationEn": "Women gather on the henna night, singing and celebrating.",
+      "words": [
+        { "w": "تَتَجَمَّعُ", "lemma": "تَجَمَّعَ يَتَجَمَّعُ" },
+        { "w": "النِّسَاءُ", "lemma": "امْرَأَةٌ / نِسَاءٌ" },
+        { "w": "لَيْلَةِ", "lemma": "لَيْلَةٌ / لَيَالٍ" },
+        { "w": "الْحِنَّاءِ", "lemma": "حِنَّاءٌ" },
+        { "w": "وَيُغَنِّينَ", "lemma": "غَنَّى يُغَنِّي" },
+        { "w": "وَيَفْرَحْنَ", "lemma": "فَرِحَ يَفْرَحُ" }
+      ]
     },
     {
       "arabic": "لَوْنُ الْحِنَّاءِ بُرْتُقَالِيٌّ أَوْ بُنِّيٌّ دَاكِنٌ.",
       "translation": "Boja kane je narandžasta ili tamnosmeđa.",
-      "translationEn": "The colour of henna is orange or dark brown."
+      "translationEn": "The colour of henna is orange or dark brown.",
+      "words": [
+        { "w": "لَوْنُ", "lemma": "لَوْنٌ / أَلْوَانٌ" },
+        { "w": "الْحِنَّاءِ", "lemma": "حِنَّاءٌ" },
+        { "w": "بُرْتُقَالِيٌّ", "lemma": "بُرْتُقَالِيٌّ" },
+        { "w": "بُنِّيٌّ", "lemma": "بُنِّيٌّ" },
+        { "w": "دَاكِنٌ", "lemma": "دَاكِنٌ" }
+      ]
     },
     {
       "arabic": "يَبْقَى أَثَرُهَا عَلَى الْجِلْدِ لِأُسْبُوعَيْنِ أَوْ أَكْثَرَ.",
       "translation": "Njen trag ostaje na koži dvije sedmice ili duže.",
-      "translationEn": "Its mark on the skin lasts two weeks or more."
+      "translationEn": "Its mark on the skin lasts two weeks or more.",
+      "words": [
+        { "w": "يَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "أَثَرُهَا", "lemma": "أَثَرٌ / آثَارٌ" },
+        { "w": "الْجِلْدِ", "lemma": "جِلْدٌ / جُلُودٌ" },
+        { "w": "لِأُسْبُوعَيْنِ", "lemma": "أُسْبُوعٌ / أَسَابِيعُ" }
+      ]
     }
   ],
   "metadata": {

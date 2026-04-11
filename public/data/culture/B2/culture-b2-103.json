@@ -6,7 +6,17 @@
     {
       "arabic": "الشِّعْرُ الْعَرَبِيُّ مِنْ أَقْدَمِ أَشْكَالِ التَّعْبِيرِ الْأَدَبِيِّ فِي التَّارِيخِ الْإِنْسَانِيِّ.",
       "translation": "Arapska poezija jedna je od najstarijih oblika književnog izražavanja u ljudskoj historiji.",
-      "translationEn": "Arabic poetry is one of the oldest forms of literary expression in human history."
+      "translationEn": "Arabic poetry is one of the oldest forms of literary expression in human history.",
+      "words": [
+        { "w": "الشِّعْرُ", "lemma": "شِعْرٌ" },
+        { "w": "الْعَرَبِيُّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "أَقْدَمِ", "lemma": "قَدِيمٌ" },
+        { "w": "أَشْكَالِ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "التَّعْبِيرِ", "lemma": "تَعْبِيرٌ" },
+        { "w": "الْأَدَبِيِّ", "lemma": "أَدَبِيٌّ" },
+        { "w": "التَّارِيخِ", "lemma": "تَارِيخٌ / تَوَارِيخُ" },
+        { "w": "الْإِنْسَانِيِّ", "lemma": "إِنْسَانِيٌّ" }
+      ]
     }
   ],
   "metadata": {

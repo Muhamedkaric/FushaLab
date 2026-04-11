@@ -9,8 +9,28 @@
       "translationEn": "We eat a traditional breakfast with the family every morning.",
       "words": [
         {
+          "w": "نَتَنَاوَلُ",
+          "lemma": "تَنَاوَلَ يَتَنَاوَلُ"
+        },
+        {
+          "w": "الْفُطُورَ",
+          "lemma": "فُطُورٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
           "w": "كُلَّ",
           "lemma": "كُلٌّ"
+        },
+        {
+          "w": "صَبَاحٍ",
+          "lemma": "صَبَاحٌ / أَصْبَاحٌ"
         }
       ]
     },
@@ -18,19 +38,77 @@
       "arabic": "نَأْكُلُ عَادَةً الْفَلَافِلَ وَالْحُمُّصَ بِزَيْتِ الزَّيْتُونِ.",
       "translation": "Obično jedemo falafel i hummus sa maslinovim uljem.",
       "translationEn": "We usually eat falafel and hummus with olive oil.",
-      "words": []
+      "words": [
+        {
+          "w": "نَأْكُلُ",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الْفَلَافِلَ",
+          "lemma": "فَلَافِلُ"
+        },
+        {
+          "w": "وَالْحُمُّصَ",
+          "lemma": "حُمُّصٌ"
+        },
+        {
+          "w": "بِزَيْتِ",
+          "lemma": "زَيْتٌ"
+        },
+        {
+          "w": "الزَّيْتُونِ",
+          "lemma": "زَيْتُونٌ"
+        }
+      ]
     },
     {
       "arabic": "الشَّايُ السَّاخِنُ جُزْءٌ مُهِمٌّ مِنْ هَذِهِ الْوَجْبَةِ.",
       "translation": "Vrući čaj je važan dio ovog obroka.",
       "translationEn": "Hot tea is an important part of this meal.",
-      "words": []
+      "words": [
+        {
+          "w": "الشَّايُ",
+          "lemma": "شَايٌ"
+        },
+        {
+          "w": "السَّاخِنُ",
+          "lemma": "سَاخِنٌ"
+        },
+        {
+          "w": "جُزْءٌ",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "الْوَجْبَةِ",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        }
+      ]
     },
     {
       "arabic": "هَذَا الطَّعَامُ يَمْنَحُنَا الطَّاقَةَ لِلْيَوْمِ كُلِّهِ.",
       "translation": "Ova hrana nam daje energiju za cijeli dan.",
       "translationEn": "This food gives us energy for the whole day.",
       "words": [
+        {
+          "w": "الطَّعَامُ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "يَمْنَحُنَا",
+          "lemma": "مَنَحَ يَمْنَحُ"
+        },
+        {
+          "w": "الطَّاقَةَ",
+          "lemma": "طَاقَةٌ"
+        },
+        {
+          "w": "لِلْيَوْمِ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
         {
           "w": "كُلِّهِ",
           "lemma": "كُلٌّ"

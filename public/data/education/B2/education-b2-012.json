@@ -4,29 +4,86 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "عَلَى الرَّغْمِ مِنَ الثَّوْرَةِ الرَّقْمِيَّةِ، تَبْقَى الْمَكْتَبَةُ الْقَلْبَ النَّابِضَ لِأَيِّ مُؤَسَّسَةٍ تَعْلِيمِيَّةٍ.",
+      "arabic": "عَلَى الرَّغْمِ مِنَ الثَّوْرَةِ الرَّقْمِيَّةِ، تَبْقَى الْمَكْتَبَةُ الْقَلْبَ النَّابِضَ لِأَيِّ مُؤَسَّسَةٍ تَعْلِيمِيَّةٍ.",
       "translation": "Uprkos digitalnoj revoluciji, biblioteka ostaje kucajuće srce svake obrazovne ustanove.",
-      "translationEn": "Despite the digital revolution, the library remains the beating heart of any educational institution."
+      "translationEn": "Despite the digital revolution, the library remains the beating heart of any educational institution.",
+      "words": [
+        { "w": "الثَّوْرَةِ", "lemma": "ثَوْرَةٌ / ثَوْرَاتٌ" },
+        { "w": "الرَّقْمِيَّةِ", "lemma": "رَقْمِيٌّ" },
+        { "w": "تَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "الْمَكْتَبَةُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "الْقَلْبَ", "lemma": "قَلْبٌ / قُلُوبٌ" },
+        { "w": "النَّابِضَ", "lemma": "نَابِضٌ" },
+        { "w": "مُؤَسَّسَةٍ", "lemma": "مُؤَسَّسَةٌ / مُؤَسَّسَاتٌ" },
+        { "w": "تَعْلِيمِيَّةٍ", "lemma": "تَعْلِيمِيٌّ" }
+      ]
     },
     {
-      "arabic": "تُوَفِّرُ الْمَكْتَبَةُ مَلَاذًا هَادِئًا حَيْثُ يُمْكِنُ لِلطُّلَّابِ الِانْغِمَاسُ فِي عَالَمِ الْأَدَبِ الْكَلَاسِيكِيِّ وَالْعُلُومِ الْحَدِيثَةِ.",
+      "arabic": "تُوَفِّرُ الْمَكْتَبَةُ مَلَاذًا هَادِئًا حَيْثُ يُمْكِنُ لِلطُّلَّابِ الِانْغِمَاسُ فِي عَالَمِ الْأَدَبِ الْكَلَاسِيكِيِّ وَالْعُلُومِ الْحَدِيثَةِ.",
       "translation": "Biblioteka pruža mirno utočište gdje se studenti mogu udubiti u svijet klasične književnosti i modernih nauka.",
-      "translationEn": "The library provides a quiet sanctuary where students can immerse themselves in the world of classical literature and modern science."
+      "translationEn": "The library provides a quiet sanctuary where students can immerse themselves in the world of classical literature and modern science.",
+      "words": [
+        { "w": "تُوَفِّرُ", "lemma": "وَفَّرَ يُوَفِّرُ" },
+        { "w": "الْمَكْتَبَةُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "مَلَاذًا", "lemma": "مَلَاذٌ / مَلَاذَاتٌ" },
+        { "w": "هَادِئًا", "lemma": "هَادِئٌ" },
+        { "w": "لِلطُّلَّابِ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "الِانْغِمَاسُ", "lemma": "انْغِمَاسٌ" },
+        { "w": "عَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" },
+        { "w": "الْأَدَبِ", "lemma": "أَدَبٌ / آدَابٌ" },
+        { "w": "الْكَلَاسِيكِيِّ", "lemma": "كَلَاسِيكِيٌّ" },
+        { "w": "وَالْعُلُومِ", "lemma": "عِلْمٌ / عُلُومٌ" },
+        { "w": "الْحَدِيثَةِ", "lemma": "حَدِيثٌ" }
+      ]
     },
     {
-      "arabic": "يَلْعَبُ أُمَنَاءُ الْمَكْتَبَاتِ دَوْرًا مِحْوَرِيًّا فِي تَوْجِيهِ الْبَاحِثِينَ نَحْوَ الْمَرَاجِعِ الْأَكْثَرِ دِقَّةً وَأَهَمِّيَّةً.",
+      "arabic": "يَلْعَبُ أُمَنَاءُ الْمَكْتَبَاتِ دَوْرًا مِحْوَرِيًّا فِي تَوْجِيهِ الْبَاحِثِينَ نَحْوَ الْمَرَاجِعِ الْأَكْثَرِ دِقَّةً وَأَهَمِّيَّةً.",
       "translation": "Bibliotekari igraju ključnu ulogu u usmjeravanju istraživača prema najpreciznijim i najvažnijim referencama.",
-      "translationEn": "Librarians play a pivotal role in guiding researchers toward the most relevant and authoritative references."
+      "translationEn": "Librarians play a pivotal role in guiding researchers toward the most relevant and authoritative references.",
+      "words": [
+        { "w": "يَلْعَبُ", "lemma": "لَعِبَ يَلْعَبُ" },
+        { "w": "أُمَنَاءُ", "lemma": "أَمِينٌ / أُمَنَاءُ" },
+        { "w": "الْمَكْتَبَاتِ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "دَوْرًا", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "مِحْوَرِيًّا", "lemma": "مِحْوَرِيٌّ" },
+        { "w": "تَوْجِيهِ", "lemma": "تَوْجِيهٌ" },
+        { "w": "الْبَاحِثِينَ", "lemma": "بَاحِثٌ / بَاحِثُونَ" },
+        { "w": "الْمَرَاجِعِ", "lemma": "مَرْجِعٌ / مَرَاجِعُ" },
+        { "w": "دِقَّةً", "lemma": "دِقَّةٌ" },
+        { "w": "وَأَهَمِّيَّةً", "lemma": "أَهَمِّيَّةٌ" }
+      ]
     },
     {
-      "arabic": "دَمَجَتِ الْمَكْتَبَاتُ الْمُعَاصِرَةُ تِقْنِيَّاتٍ مُتَقَدِّمَةً لِتَسْهِيلِ الْوُصُولِ إِلَى قَوَاعِدِ الْبَيَانَاتِ الْعَالَمِيَّةِ.",
+      "arabic": "دَمَجَتِ الْمَكْتَبَاتُ الْمُعَاصِرَةُ تِقْنِيَّاتٍ مُتَقَدِّمَةً لِتَسْهِيلِ الْوُصُولِ إِلَى قَوَاعِدِ الْبَيَانَاتِ الْعَالَمِيَّةِ.",
       "translation": "Savremene biblioteke integrisale su napredne tehnologije kako bi olakšale pristup globalnim bazama podataka.",
-      "translationEn": "Modern libraries have integrated advanced technologies to facilitate access to global databases."
+      "translationEn": "Modern libraries have integrated advanced technologies to facilitate access to global databases.",
+      "words": [
+        { "w": "دَمَجَتِ", "lemma": "دَمَجَ يَدْمُجُ" },
+        { "w": "الْمَكْتَبَاتُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "الْمُعَاصِرَةُ", "lemma": "مُعَاصِرٌ" },
+        { "w": "تِقْنِيَّاتٍ", "lemma": "تِقْنِيَّةٌ / تِقْنِيَّاتٌ" },
+        { "w": "مُتَقَدِّمَةً", "lemma": "مُتَقَدِّمٌ" },
+        { "w": "لِتَسْهِيلِ", "lemma": "تَسْهِيلٌ" },
+        { "w": "الْوُصُولِ", "lemma": "وُصُولٌ" },
+        { "w": "قَوَاعِدِ", "lemma": "قَاعِدَةٌ / قَوَاعِدُ" },
+        { "w": "الْبَيَانَاتِ", "lemma": "بَيَانٌ / بَيَانَاتٌ" },
+        { "w": "الْعَالَمِيَّةِ", "lemma": "عَالَمِيٌّ" }
+      ]
     },
     {
-      "arabic": "هَكَذَا، تَحْفَظُ هَذِهِ الصُّرُوحُ تُرَاثَ الْمَعْرِفَةِ الْبَشَرِيَّةِ مَعَ تَبَنِّي أَدَوَاتِ الْمُسْتَقْبَلِ.",
+      "arabic": "هَكَذَا، تَحْفَظُ هَذِهِ الصُّرُوحُ تُرَاثَ الْمَعْرِفَةِ الْبَشَرِيَّةِ مَعَ تَبَنِّي أَدَوَاتِ الْمُسْتَقْبَلِ.",
       "translation": "Tako ova zdanja čuvaju naslijeđe ljudskog znanja dok istovremeno usvajaju alate budućnosti.",
-      "translationEn": "Thus, these structures preserve the legacy of human knowledge while embracing the tools of the future."
+      "translationEn": "Thus, these structures preserve the legacy of human knowledge while embracing the tools of the future.",
+      "words": [
+        { "w": "تَحْفَظُ", "lemma": "حَفِظَ يَحْفَظُ" },
+        { "w": "الصُّرُوحُ", "lemma": "صَرْحٌ / صُرُوحٌ" },
+        { "w": "تُرَاثَ", "lemma": "تُرَاثٌ" },
+        { "w": "الْمَعْرِفَةِ", "lemma": "مَعْرِفَةٌ" },
+        { "w": "الْبَشَرِيَّةِ", "lemma": "بَشَرِيٌّ" },
+        { "w": "تَبَنِّي", "lemma": "تَبَنِّي" },
+        { "w": "أَدَوَاتِ", "lemma": "أَدَاةٌ / أَدَوَاتٌ" },
+        { "w": "الْمُسْتَقْبَلِ", "lemma": "مُسْتَقْبَلٌ" }
+      ]
     }
   ],
   "metadata": {

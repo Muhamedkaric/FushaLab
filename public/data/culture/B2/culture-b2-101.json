@@ -6,7 +6,18 @@
     {
       "arabic": "تَحْتَفِلُ الْعَائِلَاتُ الْعَرَبِيَّةُ بِشَهْرِ رَمَضَانَ بِالصَّوْمِ وَالصَّلَاةِ وَتَبَادُلِ الزِّيَارَاتِ.",
       "translation": "Arapske porodice obilježavaju mjesec ramazan postom, namazom i međusobnim posjetama.",
-      "translationEn": "Arab families celebrate the month of Ramadan with fasting, prayer, and exchanging visits."
+      "translationEn": "Arab families celebrate the month of Ramadan with fasting, prayer, and exchanging visits.",
+      "words": [
+        { "w": "تَحْتَفِلُ", "lemma": "احْتَفَلَ يَحْتَفِلُ" },
+        { "w": "الْعَائِلَاتُ", "lemma": "عَائِلَةٌ / عَائِلَاتٌ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "بِشَهْرِ", "lemma": "شَهْرٌ / أَشْهُرٌ" },
+        { "w": "رَمَضَانَ", "lemma": "رَمَضَانُ" },
+        { "w": "بِالصَّوْمِ", "lemma": "صَوْمٌ" },
+        { "w": "وَالصَّلَاةِ", "lemma": "صَلَاةٌ / صَلَوَاتٌ" },
+        { "w": "وَتَبَادُلِ", "lemma": "تَبَادُلٌ" },
+        { "w": "الزِّيَارَاتِ", "lemma": "زِيَارَةٌ / زِيَارَاتٌ" }
+      ]
     }
   ],
   "metadata": {

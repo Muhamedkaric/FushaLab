@@ -4,39 +4,263 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ المَوَاشِحُ الأَنْدَلُسِيَّةُ إِرْثًا فَنِّيًّا خَالِدًا يَعْكِسُ الِامْتِزَاجَ الثَّقَافِيَّ بَيْنَ الشَّرْقِ وَالغَرْبِ فِي شِبْهِ الجَزِيرَةِ الأَيْبِيرِيَّةِ.",
+      "arabic": "تُمَثِّلُ المَوَاشِحُ الأَنْدَلُسِيَّةُ إِرْثًا فَنِّيًّا خَالِدًا يَعْكِسُ الِامْتِزَاجَ الثَّقَافِيَّ بَيْنَ الشَّرْقِ وَالغَرْبِ فِي شِبْهِ الجَزِيرَةِ الأَيْبِيرِيَّةِ.",
       "translation": "Andaluzijski muvaššahati predstavljaju vječnu umjetničku baštinu koja odražava kulturnu mješavinu Istoka i Zapada na Iberijskom poluotoku.",
       "translationEn": "Andalusian Muwashshahat represent an eternal artistic heritage that reflects the cultural blend between East and West in the Iberian Peninsula.",
-      "words": []
-    },
-    {
-      "arabic": "تَتَمَيَّزُ هَذِهِ المَنْظُومَاتُ الغِنَائِيَّةُ بِتَعَدُّدِ الأَوْزَانِ وَالقَوَافِي، مِمَّا يَمْنَحُهَا إِيقَاعًا حَيَوِيًّا يَجْذِبُ الآذَانَ وَيُحَرِّكُ المَشَاعِرَ.",
-      "translation": "Ovi pjevački sistemi odlikuju se raznolikošću metara i rima, što im daje živahan ritam koji privlači uši i pokreće emocije.",
-      "translationEn": "These lyrical systems are characterized by a variety of meters and rhymes, giving them a lively rhythm that attracts the ears and stirs emotions.",
-      "words": []
-    },
-    {
-      "arabic": "وَتُعَدُّ آلَةُ العُودِ العَمُودَ الفِقْرِيَّ لِلتَّخْتِ المَوْسِيقِيِّ، حَيْثُ تُصَاحِبُ الأَصْوَاتَ الشَّجِيَّةَ فِي أَدَاءِ هَذِهِ المَقَامَاتِ المُعَقَّدَةِ.",
-      "translation": "Oud se smatra okosnicom muzičkog ansambla, prateći melodične glasove u izvođenju ovih složenih makama.",
-      "translationEn": "The Oud is considered the backbone of the musical ensemble, accompanying soulful voices in the performance of these complex maqams.",
-      "words": []
-    },
-    {
-      "arabic": "لَمْ تَكُنِ المَوَاشِحُ مُجَرَّدَ تَرْفِيهٍ، بَلْ كَانَتْ وَسِيلَةً لِلتَّعْبِيرِ عَنِ الحُبِّ وَالطَّبِيعَةِ وَالحَنِينِ.",
-      "translation": "Muvaššahati nisu bili samo zabava, već sredstvo za izražavanje ljubavi, prirode i čežnje.",
-      "translationEn": "Muwashshahat were not merely entertainment; they were a means of expressing love, nature, and nostalgia.",
       "words": [
         {
-          "w": "كَانَتْ",
-          "lemma": "كَانَ يَكُونُ"
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "المَوَاشِحُ",
+          "lemma": "مُوَشَّحٌ / مَوَاشِحُ"
+        },
+        {
+          "w": "الأَنْدَلُسِيَّةُ",
+          "lemma": "أَنْدَلُسِيٌّ"
+        },
+        {
+          "w": "إِرْثًا",
+          "lemma": "إِرْثٌ"
+        },
+        {
+          "w": "فَنِّيًّا",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "خَالِدًا",
+          "lemma": "خَالِدٌ"
+        },
+        {
+          "w": "يَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الِامْتِزَاجَ",
+          "lemma": "امْتِزَاجٌ"
+        },
+        {
+          "w": "الثَّقَافِيَّ",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "الشَّرْقِ",
+          "lemma": "شَرْقٌ"
+        },
+        {
+          "w": "وَالغَرْبِ",
+          "lemma": "غَرْبٌ"
+        },
+        {
+          "w": "شِبْهِ",
+          "lemma": "شِبْهٌ"
+        },
+        {
+          "w": "الجَزِيرَةِ",
+          "lemma": "جَزِيرَةٌ / جُزُرٌ"
+        },
+        {
+          "w": "الأَيْبِيرِيَّةِ",
+          "lemma": "أَيْبِيرِيٌّ"
         }
       ]
     },
     {
-      "arabic": "وَرَغْمَ مُرُورِ القُرُونِ، مَا زَالَتْ هَذِهِ الأَلْحَانُ تُصْدَحُ فِي المَحَافِلِ الثَّقَافِيَّةِ، مُحَافِظَةً عَلَى هُوِيَّتِهَا الأَصِيلَةِ.",
+      "arabic": "تَتَمَيَّزُ هَذِهِ المَنْظُومَاتُ الغِنَائِيَّةُ بِتَعَدُّدِ الأَوْزَانِ وَالقَوَافِي، مِمَّا يَمْنَحُهَا إِيقَاعًا حَيَوِيًّا يَجْذِبُ الآذَانَ وَيُحَرِّكُ المَشَاعِرَ.",
+      "translation": "Ovi pjevački sistemi odlikuju se raznolikošću metara i rima, što im daje živahan ritam koji privlači uši i pokreće emocije.",
+      "translationEn": "These lyrical systems are characterized by a variety of meters and rhymes, giving them a lively rhythm that attracts the ears and stirs emotions.",
+      "words": [
+        {
+          "w": "تَتَمَيَّزُ",
+          "lemma": "تَمَيَّزَ يَتَمَيَّزُ"
+        },
+        {
+          "w": "المَنْظُومَاتُ",
+          "lemma": "مَنْظُومَةٌ / مَنْظُومَاتٌ"
+        },
+        {
+          "w": "الغِنَائِيَّةُ",
+          "lemma": "غِنَائِيٌّ"
+        },
+        {
+          "w": "بِتَعَدُّدِ",
+          "lemma": "تَعَدُّدٌ"
+        },
+        {
+          "w": "الأَوْزَانِ",
+          "lemma": "وَزْنٌ / أَوْزَانٌ"
+        },
+        {
+          "w": "وَالقَوَافِي",
+          "lemma": "قَافِيَةٌ / قَوَافٍ"
+        },
+        {
+          "w": "يَمْنَحُهَا",
+          "lemma": "مَنَحَ يَمْنَحُ"
+        },
+        {
+          "w": "إِيقَاعًا",
+          "lemma": "إِيقَاعٌ / إِيقَاعَاتٌ"
+        },
+        {
+          "w": "حَيَوِيًّا",
+          "lemma": "حَيَوِيٌّ"
+        },
+        {
+          "w": "يَجْذِبُ",
+          "lemma": "جَذَبَ يَجْذِبُ"
+        },
+        {
+          "w": "الآذَانَ",
+          "lemma": "أُذُنٌ / آذَانٌ"
+        },
+        {
+          "w": "وَيُحَرِّكُ",
+          "lemma": "حَرَّكَ يُحَرِّكُ"
+        },
+        {
+          "w": "المَشَاعِرَ",
+          "lemma": "شُعُورٌ / مَشَاعِرُ"
+        }
+      ]
+    },
+    {
+      "arabic": "وَتُعَدُّ آلَةُ العُودِ العَمُودَ الفِقْرِيَّ لِلتَّخْتِ المَوْسِيقِيِّ، حَيْثُ تُصَاحِبُ الأَصْوَاتَ الشَّجِيَّةَ فِي أَدَاءِ هَذِهِ المَقَامَاتِ المُعَقَّدَةِ.",
+      "translation": "Oud se smatra okosnicom muzičkog ansambla, prateći melodične glasove u izvođenju ovih složenih makama.",
+      "translationEn": "The Oud is considered the backbone of the musical ensemble, accompanying soulful voices in the performance of these complex maqams.",
+      "words": [
+        {
+          "w": "آلَةُ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "العُودِ",
+          "lemma": "عُودٌ / أَعْوَادٌ"
+        },
+        {
+          "w": "العَمُودَ",
+          "lemma": "عَمُودٌ / أَعْمِدَةٌ"
+        },
+        {
+          "w": "الفِقْرِيَّ",
+          "lemma": "فِقْرِيٌّ"
+        },
+        {
+          "w": "لِلتَّخْتِ",
+          "lemma": "تَخْتٌ / تُخُوتٌ"
+        },
+        {
+          "w": "المَوْسِيقِيِّ",
+          "lemma": "مَوْسِيقِيٌّ"
+        },
+        {
+          "w": "تُصَاحِبُ",
+          "lemma": "صَاحَبَ يُصَاحِبُ"
+        },
+        {
+          "w": "الأَصْوَاتَ",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "الشَّجِيَّةَ",
+          "lemma": "شَجِيٌّ"
+        },
+        {
+          "w": "أَدَاءِ",
+          "lemma": "أَدَاءٌ"
+        },
+        {
+          "w": "المَقَامَاتِ",
+          "lemma": "مَقَامٌ / مَقَامَاتٌ"
+        },
+        {
+          "w": "المُعَقَّدَةِ",
+          "lemma": "مُعَقَّدٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "لَمْ تَكُنِ المَوَاشِحُ مُجَرَّدَ تَرْفِيهٍ، بَلْ كَانَتْ وَسِيلَةً لِلتَّعْبِيرِ عَنِ الحُبِّ وَالطَّبِيعَةِ وَالحَنِينِ.",
+      "translation": "Muvaššahati nisu bili samo zabava, već sredstvo za izražavanje ljubavi, prirode i čežnje.",
+      "translationEn": "Muwashshahat were not merely entertainment; they were a means of expressing love, nature, and nostalgia.",
+      "words": [
+        {
+          "w": "المَوَاشِحُ",
+          "lemma": "مُوَشَّحٌ / مَوَاشِحُ"
+        },
+        {
+          "w": "تَرْفِيهٍ",
+          "lemma": "تَرْفِيهٌ"
+        },
+        {
+          "w": "كَانَتْ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "وَسِيلَةً",
+          "lemma": "وَسِيلَةٌ / وَسَائِلُ"
+        },
+        {
+          "w": "لِلتَّعْبِيرِ",
+          "lemma": "تَعْبِيرٌ"
+        },
+        {
+          "w": "الحُبِّ",
+          "lemma": "حُبٌّ"
+        },
+        {
+          "w": "وَالطَّبِيعَةِ",
+          "lemma": "طَبِيعَةٌ / طَبَائِعُ"
+        },
+        {
+          "w": "وَالحَنِينِ",
+          "lemma": "حَنِينٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "وَرَغْمَ مُرُورِ القُرُونِ، مَا زَالَتْ هَذِهِ الأَلْحَانُ تُصْدَحُ فِي المَحَافِلِ الثَّقَافِيَّةِ، مُحَافِظَةً عَلَى هُوِيَّتِهَا الأَصِيلَةِ.",
       "translation": "Uprkos prolasku vijekova, ove melodije još uvijek odjekuju na kulturnim skupovima, čuvajući svoj izvorni identitet.",
       "translationEn": "Despite the passing of centuries, these melodies are still performed in cultural forums, maintaining their authentic identity.",
-      "words": []
+      "words": [
+        {
+          "w": "مُرُورِ",
+          "lemma": "مُرُورٌ"
+        },
+        {
+          "w": "القُرُونِ",
+          "lemma": "قَرْنٌ / قُرُونٌ"
+        },
+        {
+          "w": "الأَلْحَانُ",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "تُصْدَحُ",
+          "lemma": "صَدَحَ يَصْدَحُ"
+        },
+        {
+          "w": "المَحَافِلِ",
+          "lemma": "مَحْفِلٌ / مَحَافِلُ"
+        },
+        {
+          "w": "الثَّقَافِيَّةِ",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "مُحَافِظَةً",
+          "lemma": "مُحَافِظٌ"
+        },
+        {
+          "w": "هُوِيَّتِهَا",
+          "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ"
+        },
+        {
+          "w": "الأَصِيلَةِ",
+          "lemma": "أَصِيلٌ"
+        }
+      ]
     }
   ],
   "metadata": {

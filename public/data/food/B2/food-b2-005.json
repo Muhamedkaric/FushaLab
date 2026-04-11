@@ -4,19 +4,43 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "الْقَهْوَةُ الْعَرَبِيَّةُ رَمْزٌ لِلْكَرَمِ وَالضِّيَافَةِ فِي ثَقَافَتِنَا.",
+      "arabic": "الْقَهْوَةُ الْعَرَبِيَّةُ رَمْزٌ لِلْكَرَمِ وَالضِّيَافَةِ فِي ثَقَافَتِنَا.",
       "translation": "Arapska kafa je simbol darežljivosti i gostoprimstva u našoj kulturi.",
-      "translationEn": "Arab coffee is a symbol of generosity and hospitality in our culture."
+      "translationEn": "Arab coffee is a symbol of generosity and hospitality in our culture.",
+      "words": [
+        { "w": "الْقَهْوَةُ", "lemma": "قَهْوَةٌ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "رَمْزٌ", "lemma": "رَمْزٌ / رُمُوزٌ" },
+        { "w": "لِلْكَرَمِ", "lemma": "كَرَمٌ" },
+        { "w": "وَالضِّيَافَةِ", "lemma": "ضِيَافَةٌ" },
+        { "w": "ثَقَافَتِنَا", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" }
+      ]
     },
     {
-      "arabic": "نُقَدِّمُ الْقَهْوَةَ دَائِمًا مَعَ التَّمْرِ الْحُلْوِ لِلزُّوَّارِ.",
+      "arabic": "نُقَدِّمُ الْقَهْوَةَ دَائِمًا مَعَ التَّمْرِ الْحُلْوِ لِلزُّوَّارِ.",
       "translation": "Kafu posjetiocima uvijek služimo uz slatke hurme.",
-      "translationEn": "We always serve coffee with sweet dates to the visitors."
+      "translationEn": "We always serve coffee with sweet dates to the visitors.",
+      "words": [
+        { "w": "نُقَدِّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "الْقَهْوَةَ", "lemma": "قَهْوَةٌ" },
+        { "w": "التَّمْرِ", "lemma": "تَمْرٌ" },
+        { "w": "الْحُلْوِ", "lemma": "حُلْوٌ" },
+        { "w": "لِلزُّوَّارِ", "lemma": "زَائِرٌ / زُوَّارٌ" }
+      ]
     },
     {
-      "arabic": "يُحِبُّ جَدِّي الْجُلُوسَ فِي الْحَدِيقَةِ وَشُرْبَ قَهْوَتِهِ بِبُطْءٍ.",
+      "arabic": "يُحِبُّ جَدِّي الْجُلُوسَ فِي الْحَدِيقَةِ وَشُرْبَ قَهْوَتِهِ بِبُطْءٍ.",
       "translation": "Moj djed voli sjediti u bašti i polako piti svoju kafu.",
-      "translationEn": "My grandfather likes to sit in the garden and drink his coffee slowly."
+      "translationEn": "My grandfather likes to sit in the garden and drink his coffee slowly.",
+      "words": [
+        { "w": "يُحِبُّ", "lemma": "أَحَبَّ يُحِبُّ" },
+        { "w": "جَدِّي", "lemma": "جَدٌّ / أَجْدَادٌ" },
+        { "w": "الْجُلُوسَ", "lemma": "جُلُوسٌ" },
+        { "w": "الْحَدِيقَةِ", "lemma": "حَدِيقَةٌ / حَدَائِقُ" },
+        { "w": "وَشُرْبَ", "lemma": "شُرْبٌ" },
+        { "w": "قَهْوَتِهِ", "lemma": "قَهْوَةٌ" },
+        { "w": "بِبُطْءٍ", "lemma": "بُطْءٌ" }
+      ]
     }
   ],
   "metadata": {

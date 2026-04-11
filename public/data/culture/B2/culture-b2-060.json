@@ -4,34 +4,302 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعَدُّ عِيدُ الفِطْرِ مُنَاسَبَةً دِينِيَّةً وَاجْتِمَاعِيَّةً مُمَيَّزَةً تَغْمُرُ البُلْدَانَ العَرَبِيَّةَ بِأَجْوَاءٍ مِنَ الفَرَحِ وَالسُّرُورِ.",
+      "arabic": "يُعَدُّ عِيدُ الفِطْرِ مُنَاسَبَةً دِينِيَّةً وَاجْتِمَاعِيَّةً مُمَيَّزَةً تَغْمُرُ الْبُلْدَانَ الْعَرَبِيَّةَ بِأَجْوَاءٍ مِنَ الفَرَحِ وَالسُّرُورِ.",
       "translation": "Ramazanski bajram se smatra posebnom vjerskom i društvenom prigodom koja arapske zemlje preplavljuje atmosferom radosti i veselja.",
-      "translationEn": "Eid al-Fitr is considered a special religious and social occasion that floods Arab countries with an atmosphere of joy and happiness."
+      "translationEn": "Eid al-Fitr is considered a special religious and social occasion that floods Arab countries with an atmosphere of joy and happiness.",
+      "words": [
+        {
+          "w": "عِيدُ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "الفِطْرِ",
+          "lemma": "فِطْرٌ"
+        },
+        {
+          "w": "مُنَاسَبَةً",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        },
+        {
+          "w": "دِينِيَّةً",
+          "lemma": "دِينِيٌّ"
+        },
+        {
+          "w": "وَاجْتِمَاعِيَّةً",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "مُمَيَّزَةً",
+          "lemma": "مُمَيَّزٌ"
+        },
+        {
+          "w": "تَغْمُرُ",
+          "lemma": "غَمَرَ يَغْمُرُ"
+        },
+        {
+          "w": "الْبُلْدَانَ",
+          "lemma": "بَلَدٌ / بُلْدَانٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةَ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "بِأَجْوَاءٍ",
+          "lemma": "جَوٌّ / أَجْوَاءٌ"
+        },
+        {
+          "w": "الفَرَحِ",
+          "lemma": "فَرَحٌ"
+        },
+        {
+          "w": "وَالسُّرُورِ",
+          "lemma": "سُرُورٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَبْدَأُ الِاحْتِفَالَاتُ بِأَدَاءِ صَلَاةِ العِيدِ فِي السَّاحَاتِ العَامَّةِ، حَيْثُ يَتَبَادَلُ النَّاسُ التَّهَانِيَ بِعِبَارَاتِ \"عِيدُكُمْ مُبَارَكٌ\".",
+      "arabic": "تَبْدَأُ الِاحْتِفَالَاتُ بِأَدَاءِ صَلَاةِ الْعِيدِ فِي السَّاحَاتِ الْعَامَّةِ، حَيْثُ يَتَبَادَلُ النَّاسُ التَّهَانِيَ بِعِبَارَاتِ \"عِيدُكُمْ مُبَارَكٌ\".",
       "translation": "Proslave počinju obavljanjem bajram-namaza na javnim trgovima, gdje ljudi razmjenjuju čestitke riječima \"Eidkum Mubarak\".",
-      "translationEn": "Celebrations begin with the performance of the Eid prayer in public squares, where people exchange greetings with the phrase 'Eidkum Mubarak.'"
+      "translationEn": "Celebrations begin with the performance of the Eid prayer in public squares, where people exchange greetings with the phrase 'Eidkum Mubarak.'",
+      "words": [
+        {
+          "w": "تَبْدَأُ",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الِاحْتِفَالَاتُ",
+          "lemma": "احْتِفَالٌ / احْتِفَالَاتٌ"
+        },
+        {
+          "w": "بِأَدَاءِ",
+          "lemma": "أَدَاءٌ"
+        },
+        {
+          "w": "صَلَاةِ",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        },
+        {
+          "w": "الْعِيدِ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "السَّاحَاتِ",
+          "lemma": "سَاحَةٌ / سَاحَاتٌ"
+        },
+        {
+          "w": "الْعَامَّةِ",
+          "lemma": "عَامٌّ"
+        },
+        {
+          "w": "يَتَبَادَلُ",
+          "lemma": "تَبَادَلَ يَتَبَادَلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "التَّهَانِيَ",
+          "lemma": "تَهْنِئَةٌ / تَهَانٍ"
+        },
+        {
+          "w": "بِعِبَارَاتِ",
+          "lemma": "عِبَارَةٌ / عِبَارَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَرْتَدِي العَائِلَاتُ أَجْمَلَ المَلَابِسِ الجَدِيدَةِ، وَيُسَارِعُ الأَطْفَالُ لِتَلَقِّي \"العِيدِيَّةِ\" الَّتِي تَبْعَثُ فِي نُفُوسِهِمْ بَهْجَةً لَا تُوصَفُ.",
+      "arabic": "تَرْتَدِي الْعَائِلَاتُ أَجْمَلَ الْمَلَابِسِ الْجَدِيدَةِ، وَيُسَارِعُ الأَطْفَالُ لِتَلَقِّي \"الْعِيدِيَّةِ\" الَّتِي تَبْعَثُ فِي نُفُوسِهِمْ بَهْجَةً لَا تُوصَفُ.",
       "translation": "Porodice oblače najljepšu novu odjeću, a djeca žure da prime \"eidiju\" (bajramluk) koja u njihove duše unosi neopisivu radost.",
-      "translationEn": "Families wear their most beautiful new clothes, and children rush to receive 'Eidiya' (monetary gift) which brings indescribable joy to their souls."
+      "translationEn": "Families wear their most beautiful new clothes, and children rush to receive 'Eidiya' (monetary gift) which brings indescribable joy to their souls.",
+      "words": [
+        {
+          "w": "تَرْتَدِي",
+          "lemma": "ارْتَدَى يَرْتَدِي"
+        },
+        {
+          "w": "الْعَائِلَاتُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "الْمَلَابِسِ",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
+        },
+        {
+          "w": "الْجَدِيدَةِ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "وَيُسَارِعُ",
+          "lemma": "سَارَعَ يُسَارِعُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "لِتَلَقِّي",
+          "lemma": "تَلَقٍّ"
+        },
+        {
+          "w": "الْعِيدِيَّةِ",
+          "lemma": "عِيدِيَّةٌ"
+        },
+        {
+          "w": "تَبْعَثُ",
+          "lemma": "بَعَثَ يَبْعَثُ"
+        },
+        {
+          "w": "نُفُوسِهِمْ",
+          "lemma": "نَفْسٌ / نُفُوسٌ"
+        },
+        {
+          "w": "بَهْجَةً",
+          "lemma": "بَهْجَةٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَمْتَلِئُ البُيُوتُ بِرَائِحَةِ الحَلْوِيَّاتِ التَّقْلِيدِيَّةِ مِثْلِ المَعْمُولِ وَالغُرَيْبَةِ الَّتِي تُقَدَّمُ لِلزَّائِرِينَ.",
+      "arabic": "تَمْتَلِئُ الْبُيُوتُ بِرَائِحَةِ الْحَلْوِيَّاتِ التَّقْلِيدِيَّةِ مِثْلِ الْمَعْمُولِ وَالْغُرَيْبَةِ الَّتِي تُقَدَّمُ لِلزَّائِرِينَ.",
       "translation": "Kuće se pune mirisom tradicionalnih kolača poput ma'mula i gurabija koji se poslužuju posjetiocima.",
-      "translationEn": "Houses are filled with the scent of traditional sweets such as Ma'amoul and Ghraybeh, which are served to visitors."
+      "translationEn": "Houses are filled with the scent of traditional sweets such as Ma'amoul and Ghraybeh, which are served to visitors.",
+      "words": [
+        {
+          "w": "تَمْتَلِئُ",
+          "lemma": "امْتَلَأَ يَمْتَلِئُ"
+        },
+        {
+          "w": "الْبُيُوتُ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "بِرَائِحَةِ",
+          "lemma": "رَائِحَةٌ / رَوَائِحُ"
+        },
+        {
+          "w": "الْحَلْوِيَّاتِ",
+          "lemma": "حَلْوَى / حَلْوِيَّاتٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةِ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "الْمَعْمُولِ",
+          "lemma": "مَعْمُولٌ"
+        },
+        {
+          "w": "وَالْغُرَيْبَةِ",
+          "lemma": "غُرَيْبَةٌ"
+        },
+        {
+          "w": "تُقَدَّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "لِلزَّائِرِينَ",
+          "lemma": "زَائِرٌ / زَائِرُونَ"
+        }
+      ]
     },
     {
-      "arabic": "تُمَثِّلُ هَذِهِ الأَيَّامُ فُرْصَةً ثَمِينَةً لِصِلَةِ الرَّحِمِ وَتَصْفِيَةِ القُلُوبِ وَتَجْدِيدِ العُهُودِ بَيْنَ الأَصْدِقَاءِ.",
+      "arabic": "تُمَثِّلُ هَذِهِ الأَيَّامُ فُرْصَةً ثَمِينَةً لِصِلَةِ الرَّحِمِ وَتَصْفِيَةِ الْقُلُوبِ وَتَجْدِيدِ الْعُهُودِ بَيْنَ الأَصْدِقَاءِ.",
       "translation": "Ovi dani predstavljaju dragocjenu priliku za održavanje rodbinskih veza, pročišćenje srca i obnavljanje zavjeta među prijateljima.",
-      "translationEn": "These days represent a precious opportunity for visiting kin, purifying hearts, and renewing bonds among friends."
+      "translationEn": "These days represent a precious opportunity for visiting kin, purifying hearts, and renewing bonds among friends.",
+      "words": [
+        {
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "الأَيَّامُ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "فُرْصَةً",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "ثَمِينَةً",
+          "lemma": "ثَمِينٌ"
+        },
+        {
+          "w": "لِصِلَةِ",
+          "lemma": "صِلَةٌ"
+        },
+        {
+          "w": "الرَّحِمِ",
+          "lemma": "رَحِمٌ / أَرْحَامٌ"
+        },
+        {
+          "w": "وَتَصْفِيَةِ",
+          "lemma": "تَصْفِيَةٌ"
+        },
+        {
+          "w": "الْقُلُوبِ",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "وَتَجْدِيدِ",
+          "lemma": "تَجْدِيدٌ"
+        },
+        {
+          "w": "الْعُهُودِ",
+          "lemma": "عَهْدٌ / عُهُودٌ"
+        },
+        {
+          "w": "الأَصْدِقَاءِ",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ رُوحَ التَّكَافُلِ الِاجْتِمَاعِيِّ تَبْرُزُ بِجَلَاءٍ مِنْ خِلَالِ تَوْزِيعِ الصَّدَقَاتِ عَلَى المُحْتَاجِينَ لِضَمَانِ سَعَادَةِ الجَمِيعِ.",
+      "arabic": "إِنَّ رُوحَ التَّكَافُلِ الِاجْتِمَاعِيِّ تَبْرُزُ بِجَلَاءٍ مِنْ خِلَالِ تَوْزِيعِ الصَّدَقَاتِ عَلَى الْمُحْتَاجِينَ لِضَمَانِ سَعَادَةِ الْجَمِيعِ.",
       "translation": "Duh društvene solidarnosti jasno se ističe kroz podjelu sadake (milostinje) potrebnima kako bi se osigurala sreća svima.",
-      "translationEn": "The spirit of social solidarity stands out clearly through the distribution of charity to the needy to ensure everyone's happiness."
+      "translationEn": "The spirit of social solidarity stands out clearly through the distribution of charity to the needy to ensure everyone's happiness.",
+      "words": [
+        {
+          "w": "رُوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "التَّكَافُلِ",
+          "lemma": "تَكَافُلٌ"
+        },
+        {
+          "w": "الِاجْتِمَاعِيِّ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "تَبْرُزُ",
+          "lemma": "بَرَزَ يَبْرُزُ"
+        },
+        {
+          "w": "بِجَلَاءٍ",
+          "lemma": "جَلَاءٌ"
+        },
+        {
+          "w": "تَوْزِيعِ",
+          "lemma": "تَوْزِيعٌ"
+        },
+        {
+          "w": "الصَّدَقَاتِ",
+          "lemma": "صَدَقَةٌ / صَدَقَاتٌ"
+        },
+        {
+          "w": "الْمُحْتَاجِينَ",
+          "lemma": "مُحْتَاجٌ / مُحْتَاجُونَ"
+        },
+        {
+          "w": "لِضَمَانِ",
+          "lemma": "ضَمَانٌ"
+        },
+        {
+          "w": "سَعَادَةِ",
+          "lemma": "سَعَادَةٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -7,19 +7,109 @@
       "arabic": "الْعُرْسُ الْعَرَبِيُّ مُنَاسَبَةٌ كَبِيرَةٌ تَجْتَمِعُ فِيهَا الْعَائِلَةُ وَالْأَصْدِقَاءُ.",
       "translation": "Arapsko vjenčanje je velika svečanost na kojoj se okupljaju porodica i prijatelji.",
       "translationEn": "An Arab wedding is a grand occasion where family and friends gather together.",
-      "words": []
+      "words": [
+        {
+          "w": "الْعُرْسُ",
+          "lemma": "عُرْسٌ / أَعْرَاسٌ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "مُنَاسَبَةٌ",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "تَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "وَالْأَصْدِقَاءُ",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
+        }
+      ]
     },
     {
       "arabic": "يَرْتَدِي الْعَرِيسُ ثِيَابًا أَنِيقَةً وَتَرْتَدِي الْعَرُوسُ فُسْتَانًا جَمِيلًا.",
       "translation": "Mladoženja nosi elegantnu odjeću, a mladenka lijepu haljinu.",
       "translationEn": "The groom wears elegant clothes and the bride wears a beautiful dress.",
-      "words": []
+      "words": [
+        {
+          "w": "يَرْتَدِي",
+          "lemma": "ارْتَدَى يَرْتَدِي"
+        },
+        {
+          "w": "الْعَرِيسُ",
+          "lemma": "عَرِيسٌ / عُرَسَاءُ"
+        },
+        {
+          "w": "ثِيَابًا",
+          "lemma": "ثَوْبٌ / ثِيَابٌ"
+        },
+        {
+          "w": "أَنِيقَةً",
+          "lemma": "أَنِيقٌ"
+        },
+        {
+          "w": "وَتَرْتَدِي",
+          "lemma": "ارْتَدَى يَرْتَدِي"
+        },
+        {
+          "w": "الْعَرُوسُ",
+          "lemma": "عَرُوسٌ / عَرَائِسُ"
+        },
+        {
+          "w": "فُسْتَانًا",
+          "lemma": "فُسْتَانٌ / فَسَاتِينُ"
+        },
+        {
+          "w": "جَمِيلًا",
+          "lemma": "جَمِيلٌ"
+        }
+      ]
     },
     {
       "arabic": "يُقَدِّمُ النَّاسُ الْهَدَايَا لِلزَّوْجَيْنِ وَيَأْكُلُونَ الطَّعَامَ الشَّهِيَّ مَعًا.",
       "translation": "Gosti donose poklone mladencima i zajedno uživaju u ukusnoj hrani.",
       "translationEn": "People bring gifts for the couple and enjoy delicious food together.",
       "words": [
+        {
+          "w": "يُقَدِّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "الْهَدَايَا",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "لِلزَّوْجَيْنِ",
+          "lemma": "زَوْجٌ / أَزْوَاجٌ"
+        },
+        {
+          "w": "وَيَأْكُلُونَ",
+          "lemma": "أَكَلَ يَأْكُلُ"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الشَّهِيَّ",
+          "lemma": "شَهِيٌّ"
+        },
         {
           "w": "مَعًا",
           "lemma": "مَعًا"
@@ -32,8 +122,32 @@
       "translationEn": "The celebrations sometimes last more than one day, filled with music and dancing.",
       "words": [
         {
+          "w": "تَمْتَدُّ",
+          "lemma": "امْتَدَّ يَمْتَدُّ"
+        },
+        {
+          "w": "الْأَفْرَاحُ",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        },
+        {
+          "w": "يَوْمٍ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
           "w": "وَاحِدٍ",
           "lemma": "وَاحِدٌ"
+        },
+        {
+          "w": "وَتَمْلَأُهَا",
+          "lemma": "مَلَأَ يَمْلَأُ"
+        },
+        {
+          "w": "الْمُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "وَالرَّقْصُ",
+          "lemma": "رَقْصٌ"
         }
       ]
     }

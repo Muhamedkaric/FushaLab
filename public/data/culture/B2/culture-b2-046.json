@@ -4,29 +4,91 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الضِّيَافَةُ فِي الثَّقَافَةِ العَرَبِيَّةِ رُكْنًا أَسَاسِيًّا لَا يَتَجَزَّأُ مِنَ الهُوِيَّةِ الِاجْتِمَاعِيَّةِ، حَيْثُ تَرْتَبِطُ جُذُورُهَا بِقِيَمِ الصَّحْرَاءِ القَدِيمَةِ.",
+      "arabic": "تُعَدُّ الضِّيَافَةُ فِي الثَّقَافَةِ العَرَبِيَّةِ رُكْنًا أَسَاسِيًّا لَا يَتَجَزَّأُ مِنَ الهُوِيَّةِ الِاجْتِمَاعِيَّةِ، حَيْثُ تَرْتَبِطُ جُذُورُهَا بِقِيَمِ الصَّحْرَاءِ القَدِيمَةِ.",
       "translation": "Gostoprimstvo u arapskoj kulturi smatra se osnovnim i neodvojivim stubom društvenog identiteta, jer su njegovi korijeni povezani s drevnim pustinjskim vrijednostima.",
-      "translationEn": "Hospitality in Arab culture is considered an essential and inseparable pillar of social identity, as its roots are linked to ancient desert values."
+      "translationEn": "Hospitality in Arab culture is considered an essential and inseparable pillar of social identity, as its roots are linked to ancient desert values.",
+      "words": [
+        { "w": "الضِّيَافَةُ", "lemma": "ضِيَافَةٌ" },
+        { "w": "الثَّقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "العَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "رُكْنًا", "lemma": "رُكْنٌ / أَرْكَانٌ" },
+        { "w": "أَسَاسِيًّا", "lemma": "أَسَاسِيٌّ" },
+        { "w": "يَتَجَزَّأُ", "lemma": "تَجَزَّأَ يَتَجَزَّأُ" },
+        { "w": "الهُوِيَّةِ", "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ" },
+        { "w": "الِاجْتِمَاعِيَّةِ", "lemma": "اجْتِمَاعِيٌّ" },
+        { "w": "تَرْتَبِطُ", "lemma": "ارْتَبَطَ يَرْتَبِطُ" },
+        { "w": "جُذُورُهَا", "lemma": "جَذْرٌ / جُذُورٌ" },
+        { "w": "بِقِيَمِ", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "الصَّحْرَاءِ", "lemma": "صَحْرَاءُ / صَحَارٍ" },
+        { "w": "القَدِيمَةِ", "lemma": "قَدِيمٌ" }
+      ]
     },
     {
-      "arabic": "فَالْمُضِيفُ يَبْذُلُ قُصَارَى جُهْدِهِ لِإِكْرَامِ ضَيْفِهِ، مُعْتَبِرًا ذَلِكَ وَاجِبًا أَخْلَاقِيًّا يَعْكِسُ نُبْلَ أَصْلِهِ.",
+      "arabic": "فَالْمُضِيفُ يَبْذُلُ قُصَارَى جُهْدِهِ لِإِكْرَامِ ضَيْفِهِ، مُعْتَبِرًا ذَلِكَ وَاجِبًا أَخْلَاقِيًّا يَعْكِسُ نُبْلَ أَصْلِهِ.",
       "translation": "Domaćin ulaže maksimalne napore da ugosti svog gosta, smatrajući to moralnom obavezom koja odražava plemenitost njegovog porijekla.",
-      "translationEn": "The host exerts every effort to honor his guest, viewing it as a moral duty that reflects the nobility of his origins."
+      "translationEn": "The host exerts every effort to honor his guest, viewing it as a moral duty that reflects the nobility of his origins.",
+      "words": [
+        { "w": "فَالْمُضِيفُ", "lemma": "مُضِيفٌ / مُضِيفُونَ" },
+        { "w": "يَبْذُلُ", "lemma": "بَذَلَ يَبْذُلُ" },
+        { "w": "جُهْدِهِ", "lemma": "جُهْدٌ / جُهُودٌ" },
+        { "w": "لِإِكْرَامِ", "lemma": "إِكْرَامٌ" },
+        { "w": "ضَيْفِهِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "مُعْتَبِرًا", "lemma": "مُعْتَبِرٌ" },
+        { "w": "وَاجِبًا", "lemma": "وَاجِبٌ / وَاجِبَاتٌ" },
+        { "w": "أَخْلَاقِيًّا", "lemma": "أَخْلَاقِيٌّ" },
+        { "w": "يَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "نُبْلَ", "lemma": "نُبْلٌ" },
+        { "w": "أَصْلِهِ", "lemma": "أَصْلٌ / أُصُولٌ" }
+      ]
     },
     {
-      "arabic": "وَمِنْ أَبْرَزِ مَظَاهِرِ هَذَا الكَرَمِ تَقْدِيمُ القَهْوَةِ العَرَبِيَّةِ المَفُوحَةِ بِالهَيْلِ، الَّتِي تُرْمِزُ إِلَى التَّرْحِيبِ وَالمَوَدَّةِ.",
+      "arabic": "وَمِنْ أَبْرَزِ مَظَاهِرِ هَذَا الكَرَمِ تَقْدِيمُ القَهْوَةِ العَرَبِيَّةِ المَفُوحَةِ بِالهَيْلِ، الَّتِي تُرْمِزُ إِلَى التَّرْحِيبِ وَالمَوَدَّةِ.",
       "translation": "Jedna od najistaknutijih manifestacija ove velikodušnosti je posluživanje arapske kafe s mirisom kardamoma, koja simbolizira dobrodošlicu i naklonost.",
-      "translationEn": "One of the most prominent manifestations of this generosity is the serving of Arabic coffee flavored with cardamom, which symbolizes welcome and affection."
+      "translationEn": "One of the most prominent manifestations of this generosity is the serving of Arabic coffee flavored with cardamom, which symbolizes welcome and affection.",
+      "words": [
+        { "w": "مَظَاهِرِ", "lemma": "مَظْهَرٌ / مَظَاهِرُ" },
+        { "w": "الكَرَمِ", "lemma": "كَرَمٌ" },
+        { "w": "تَقْدِيمُ", "lemma": "تَقْدِيمٌ" },
+        { "w": "القَهْوَةِ", "lemma": "قَهْوَةٌ / قَهَوَاتٌ" },
+        { "w": "العَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "المَفُوحَةِ", "lemma": "مَفُوحٌ" },
+        { "w": "بِالهَيْلِ", "lemma": "هَيْلٌ" },
+        { "w": "تُرْمِزُ", "lemma": "رَمَزَ يَرْمُزُ" },
+        { "w": "التَّرْحِيبِ", "lemma": "تَرْحِيبٌ" },
+        { "w": "وَالمَوَدَّةِ", "lemma": "مَوَدَّةٌ" }
+      ]
     },
     {
-      "arabic": "لَا يَقْتَصِرُ الأَمْرُ عَلَى تَقْدِيمِ الطَّعَامِ فَحَسْبُ، بَلْ يَتَعَدَّاهُ إِلَى حُسْنِ الِاسْتِقْبَالِ وَبَشَاشَةِ الوَجْهِ.",
+      "arabic": "لَا يَقْتَصِرُ الأَمْرُ عَلَى تَقْدِيمِ الطَّعَامِ فَحَسْبُ، بَلْ يَتَعَدَّاهُ إِلَى حُسْنِ الِاسْتِقْبَالِ وَبَشَاشَةِ الوَجْهِ.",
       "translation": "Stvar nije ograničena samo na posluživanje hrane, već se proteže na ljubazan prijem i vedrinu lica.",
-      "translationEn": "The matter is not limited to serving food alone, but extends to a warm reception and a cheerful countenance."
+      "translationEn": "The matter is not limited to serving food alone, but extends to a warm reception and a cheerful countenance.",
+      "words": [
+        { "w": "يَقْتَصِرُ", "lemma": "اقْتَصَرَ يَقْتَصِرُ" },
+        { "w": "الأَمْرُ", "lemma": "أَمْرٌ / أُمُورٌ" },
+        { "w": "تَقْدِيمِ", "lemma": "تَقْدِيمٌ" },
+        { "w": "الطَّعَامِ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "يَتَعَدَّاهُ", "lemma": "تَعَدَّى يَتَعَدَّى" },
+        { "w": "حُسْنِ", "lemma": "حُسْنٌ" },
+        { "w": "الِاسْتِقْبَالِ", "lemma": "اسْتِقْبَالٌ" },
+        { "w": "وَبَشَاشَةِ", "lemma": "بَشَاشَةٌ" },
+        { "w": "الوَجْهِ", "lemma": "وَجْهٌ / وُجُوهٌ" }
+      ]
     },
     {
-      "arabic": "وَهَكَذَا، تَبْقَى الضِّيَافَةُ جِسْرًا يَرْبِطُ بَيْنَ القُلُوبِ وَيُعَزِّزُ الرَّوَابِطَ الإِنْسَانِيَّةَ فِي المُجْتَمَعِ.",
+      "arabic": "وَهَكَذَا، تَبْقَى الضِّيَافَةُ جِسْرًا يَرْبِطُ بَيْنَ القُلُوبِ وَيُعَزِّزُ الرَّوَابِطَ الإِنْسَانِيَّةَ فِي المُجْتَمَعِ.",
       "translation": "Tako gostoprimstvo ostaje most koji povezuje srca i jača ljudske veze u društvu.",
-      "translationEn": "Thus, hospitality remains a bridge that connects hearts and strengthens human bonds in society."
+      "translationEn": "Thus, hospitality remains a bridge that connects hearts and strengthens human bonds in society.",
+      "words": [
+        { "w": "تَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "الضِّيَافَةُ", "lemma": "ضِيَافَةٌ" },
+        { "w": "جِسْرًا", "lemma": "جِسْرٌ / جُسُورٌ" },
+        { "w": "يَرْبِطُ", "lemma": "رَبَطَ يَرْبِطُ" },
+        { "w": "القُلُوبِ", "lemma": "قَلْبٌ / قُلُوبٌ" },
+        { "w": "وَيُعَزِّزُ", "lemma": "عَزَّزَ يُعَزِّزُ" },
+        { "w": "الرَّوَابِطَ", "lemma": "رَابِطَةٌ / رَوَابِطُ" },
+        { "w": "الإِنْسَانِيَّةَ", "lemma": "إِنْسَانِيٌّ" },
+        { "w": "المُجْتَمَعِ", "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ" }
+      ]
     }
   ],
   "metadata": {

@@ -6,32 +6,316 @@
     {
       "arabic": "تَعْتَمِدُ المُوسِيقَى العَرَبِيَّةُ الكِلَاسِيكِيَّةُ عَلَى نِظَامٍ فَرِيدٍ يُعْرَفُ بِـ \"المَقَامِ\"، وَهُوَ الَّذِي يَمْنَحُ الأَلْحَانَ طَابَعَهَا العَاطِفِيَّ العَمِيقَ.",
       "translation": "Klasična arapska muzika se oslanja na jedinstven sistem poznat kao \"makam\", koji melodijama daje njihov duboki emotivni karakter.",
-      "translationEn": "Classical Arabic music relies on a unique system known as 'Maqam,' which gives melodies their deep emotional character."
+      "translationEn": "Classical Arabic music relies on a unique system known as 'Maqam,' which gives melodies their deep emotional character.",
+      "words": [
+        {
+          "w": "تَعْتَمِدُ",
+          "lemma": "اعْتَمَدَ يَعْتَمِدُ"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "العَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "الكِلَاسِيكِيَّةُ",
+          "lemma": "كِلَاسِيكِيٌّ"
+        },
+        {
+          "w": "نِظَامٍ",
+          "lemma": "نِظَامٌ / أَنْظِمَةٌ"
+        },
+        {
+          "w": "فَرِيدٍ",
+          "lemma": "فَرِيدٌ"
+        },
+        {
+          "w": "يُعْرَفُ",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "المَقَامِ",
+          "lemma": "مَقَامٌ / مَقَامَاتٌ"
+        },
+        {
+          "w": "يَمْنَحُ",
+          "lemma": "مَنَحَ يَمْنَحُ"
+        },
+        {
+          "w": "الأَلْحَانَ",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "طَابَعَهَا",
+          "lemma": "طَابَعٌ / طَوَابِعُ"
+        },
+        {
+          "w": "العَاطِفِيَّ",
+          "lemma": "عَاطِفِيٌّ"
+        },
+        {
+          "w": "العَمِيقَ",
+          "lemma": "عَمِيقٌ"
+        }
+      ]
     },
     {
       "arabic": "لَا يَقْتَصِرُ المَقَامُ عَلَى تَرْتِيبِ النَّغَمَاتِ فَحَسْبُ، بَلْ يَرْتَبِطُ بِحَالَاتٍ نَفْسِيَّةٍ وَمَشَاعِرَ مُتَنَوِّعَةٍ تَتَرَاوَحُ بَيْنَ الفَرَحِ وَالشَّجَنِ.",
       "translation": "Makam nije ograničen samo na raspored tonova, već je povezan sa različitim psihološkim stanjima i osjećanjima koja variraju između radosti i sjetu.",
-      "translationEn": "Maqam is not limited to just the arrangement of notes, but is linked to various psychological states and feelings ranging from joy to sorrow."
+      "translationEn": "Maqam is not limited to just the arrangement of notes, but is linked to various psychological states and feelings ranging from joy to sorrow.",
+      "words": [
+        {
+          "w": "يَقْتَصِرُ",
+          "lemma": "اقْتَصَرَ يَقْتَصِرُ"
+        },
+        {
+          "w": "المَقَامُ",
+          "lemma": "مَقَامٌ / مَقَامَاتٌ"
+        },
+        {
+          "w": "تَرْتِيبِ",
+          "lemma": "تَرْتِيبٌ"
+        },
+        {
+          "w": "النَّغَمَاتِ",
+          "lemma": "نَغْمَةٌ / نَغَمَاتٌ"
+        },
+        {
+          "w": "يَرْتَبِطُ",
+          "lemma": "ارْتَبَطَ يَرْتَبِطُ"
+        },
+        {
+          "w": "بِحَالَاتٍ",
+          "lemma": "حَالَةٌ / حَالَاتٌ"
+        },
+        {
+          "w": "نَفْسِيَّةٍ",
+          "lemma": "نَفْسِيٌّ"
+        },
+        {
+          "w": "وَمَشَاعِرَ",
+          "lemma": "شُعُورٌ / مَشَاعِرُ"
+        },
+        {
+          "w": "مُتَنَوِّعَةٍ",
+          "lemma": "مُتَنَوِّعٌ"
+        },
+        {
+          "w": "تَتَرَاوَحُ",
+          "lemma": "تَرَاوَحَ يَتَرَاوَحُ"
+        },
+        {
+          "w": "الفَرَحِ",
+          "lemma": "فَرَحٌ"
+        },
+        {
+          "w": "وَالشَّجَنِ",
+          "lemma": "شَجَنٌ"
+        }
+      ]
     },
     {
       "arabic": "يَلْعَبُ العُودُ دَوْرَ البُطُولَةِ فِي هَذَا الفَنِّ، إِذْ يُعْتَبَرُ سُلْطَانَ الآلَاتِ لِقُدْرَتِهِ العَالِيَةِ عَلَى التَّعْبِيرِ.",
       "translation": "Oud igra vodeću ulogu u ovoj umjetnosti, jer se smatra kraljem instrumenata zbog svoje velike sposobnosti izražavanja.",
-      "translationEn": "The Oud plays a leading role in this art, as it is considered the king of instruments for its high expressive capacity."
+      "translationEn": "The Oud plays a leading role in this art, as it is considered the king of instruments for its high expressive capacity.",
+      "words": [
+        {
+          "w": "يَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "العُودُ",
+          "lemma": "عُودٌ / أَعْوَادٌ"
+        },
+        {
+          "w": "دَوْرَ",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "البُطُولَةِ",
+          "lemma": "بُطُولَةٌ"
+        },
+        {
+          "w": "الفَنِّ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "سُلْطَانَ",
+          "lemma": "سُلْطَانٌ / سَلَاطِينُ"
+        },
+        {
+          "w": "الآلَاتِ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "لِقُدْرَتِهِ",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
+        },
+        {
+          "w": "العَالِيَةِ",
+          "lemma": "عَالٍ"
+        },
+        {
+          "w": "التَّعْبِيرِ",
+          "lemma": "تَعْبِيرٌ"
+        }
+      ]
     },
     {
       "arabic": "كَمَا يَمْتَازُ الغِنَاءُ العَرَبِيُّ بِـ \"التَّطْرِيبِ\"، وَهُوَ قُدْرَةُ المُؤَدِّي عَلَى إِيصَالِ المُسْتَمِعِ إِلَى حَالَةٍ مِنَ النَّشْوَةِ الرُّوحِيَّةِ.",
       "translation": "Također, arapsko pjevanje odlikuje \"tarab\", što je sposobnost izvođača da dovede slušaoca u stanje duhovnog zanosa.",
-      "translationEn": "Arabic singing is also characterized by 'Tarab,' which is the performer's ability to bring the listener to a state of spiritual ecstasy."
+      "translationEn": "Arabic singing is also characterized by 'Tarab,' which is the performer's ability to bring the listener to a state of spiritual ecstasy.",
+      "words": [
+        {
+          "w": "يَمْتَازُ",
+          "lemma": "امْتَازَ يَمْتَازُ"
+        },
+        {
+          "w": "الغِنَاءُ",
+          "lemma": "غِنَاءٌ"
+        },
+        {
+          "w": "العَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "بِالتَّطْرِيبِ",
+          "lemma": "تَطْرِيبٌ"
+        },
+        {
+          "w": "قُدْرَةُ",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
+        },
+        {
+          "w": "المُؤَدِّي",
+          "lemma": "مُؤَدٍّ / مُؤَدُّونَ"
+        },
+        {
+          "w": "إِيصَالِ",
+          "lemma": "إِيصَالٌ"
+        },
+        {
+          "w": "المُسْتَمِعِ",
+          "lemma": "مُسْتَمِعٌ / مُسْتَمِعُونَ"
+        },
+        {
+          "w": "حَالَةٍ",
+          "lemma": "حَالَةٌ / حَالَاتٌ"
+        },
+        {
+          "w": "النَّشْوَةِ",
+          "lemma": "نَشْوَةٌ"
+        },
+        {
+          "w": "الرُّوحِيَّةِ",
+          "lemma": "رُوحِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يَتَطَلَّبُ إِتْقَانُ هَذَا الفَنِّ سَنَوَاتٍ طَوِيلَةً مِنَ الدِّرَاسَةِ وَالتَّدْرِيبِ عَلَى الارتِجَالِ المُنَظَّمِ.",
       "translation": "Ovladavanje ovom umjetnošću zahtijeva duge godine učenja i vježbanja organizovane improvizacije.",
-      "translationEn": "Mastering this art requires long years of study and training in organized improvisation."
+      "translationEn": "Mastering this art requires long years of study and training in organized improvisation.",
+      "words": [
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "إِتْقَانُ",
+          "lemma": "إِتْقَانٌ"
+        },
+        {
+          "w": "الفَنِّ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "سَنَوَاتٍ",
+          "lemma": "سَنَةٌ / سَنَوَاتٌ"
+        },
+        {
+          "w": "طَوِيلَةً",
+          "lemma": "طَوِيلٌ"
+        },
+        {
+          "w": "الدِّرَاسَةِ",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        },
+        {
+          "w": "وَالتَّدْرِيبِ",
+          "lemma": "تَدْرِيبٌ"
+        },
+        {
+          "w": "الارتِجَالِ",
+          "lemma": "ارْتِجَالٌ"
+        },
+        {
+          "w": "المُنَظَّمِ",
+          "lemma": "مُنَظَّمٌ"
+        }
+      ]
     },
     {
       "arabic": "إِنَّ التُّرَاثَ المُوسِيقِيَّ العَرَبِيَّ جِسْرٌ يَرْبِطُ بَيْنَ المَاضِي العَرِيقِ وَالحَاضِرِ المُتَجَدِّدِ، مُحَافِظًا عَلَى هُوِيَّتِهِ الثَّقَافِيَّةِ.",
       "translation": "Arapska muzička baština je most koji spaja drevnu prošlost i obnovljenu sadašnjost, čuvajući svoj kulturni identitet.",
-      "translationEn": "The Arabic musical heritage is a bridge connecting the ancient past with the renewed present, preserving its cultural identity."
+      "translationEn": "The Arabic musical heritage is a bridge connecting the ancient past with the renewed present, preserving its cultural identity.",
+      "words": [
+        {
+          "w": "التُّرَاثَ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "المُوسِيقِيَّ",
+          "lemma": "مُوسِيقِيٌّ"
+        },
+        {
+          "w": "العَرَبِيَّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "جِسْرٌ",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        },
+        {
+          "w": "يَرْبِطُ",
+          "lemma": "رَبَطَ يَرْبِطُ"
+        },
+        {
+          "w": "المَاضِي",
+          "lemma": "مَاضٍ"
+        },
+        {
+          "w": "العَرِيقِ",
+          "lemma": "عَرِيقٌ"
+        },
+        {
+          "w": "وَالحَاضِرِ",
+          "lemma": "حَاضِرٌ"
+        },
+        {
+          "w": "المُتَجَدِّدِ",
+          "lemma": "مُتَجَدِّدٌ"
+        },
+        {
+          "w": "مُحَافِظًا",
+          "lemma": "مُحَافِظٌ"
+        },
+        {
+          "w": "هُوِيَّتِهِ",
+          "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ"
+        },
+        {
+          "w": "الثَّقَافِيَّةِ",
+          "lemma": "ثَقَافِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

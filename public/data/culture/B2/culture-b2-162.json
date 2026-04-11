@@ -7,13 +7,59 @@
       "arabic": "يُعَدُّ طَبَقُ الْكُسْكُسِ مِنَ الْأَكَلَاتِ الْمَشْهُورَةِ فِي الْمَغْرِبِ الْعَرَبِيِّ.",
       "translation": "Kuskus se smatra jednim od najpoznatijih jela u arapskom Magrebu.",
       "translationEn": "Couscous is considered one of the most famous dishes in the Arab Maghreb.",
-      "words": []
+      "words": [
+        {
+          "w": "طَبَقُ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "الْكُسْكُسِ",
+          "lemma": "كُسْكُسٌ"
+        },
+        {
+          "w": "الْأَكَلَاتِ",
+          "lemma": "أَكْلَةٌ / أَكَلَاتٌ"
+        },
+        {
+          "w": "الْمَشْهُورَةِ",
+          "lemma": "مَشْهُورٌ"
+        },
+        {
+          "w": "الْمَغْرِبِ",
+          "lemma": "الْمَغْرِبُ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يَتَكَوَّنُ هَذَا الطَّعَامُ مِنَ الْقَمْحِ وَالْخُضَارِ وَاللَّحْمِ.",
       "translation": "Ova hrana se sastoji od pšenice, povrća i mesa.",
       "translationEn": "This food consists of wheat, vegetables, and meat.",
-      "words": []
+      "words": [
+        {
+          "w": "يَتَكَوَّنُ",
+          "lemma": "تَكَوَّنَ يَتَكَوَّنُ"
+        },
+        {
+          "w": "الطَّعَامُ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْقَمْحِ",
+          "lemma": "قَمْحٌ"
+        },
+        {
+          "w": "وَالْخُضَارِ",
+          "lemma": "خُضَارٌ / خُضَرٌ"
+        },
+        {
+          "w": "وَاللَّحْمِ",
+          "lemma": "لَحْمٌ / لُحُومٌ"
+        }
+      ]
     },
     {
       "arabic": "تَجْتَمِعُ الْعَائِلَةُ حَوْلَ مَائِدَةٍ وَاحِدَةٍ لِتَنَاوُلِهِ يَوْمَ الْجُمُعَةِ.",
@@ -21,12 +67,36 @@
       "translationEn": "The family gathers around one table to eat it on Fridays.",
       "words": [
         {
+          "w": "تَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
           "w": "حَوْلَ",
           "lemma": "حَوْلَ"
         },
         {
+          "w": "مَائِدَةٍ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
           "w": "وَاحِدَةٍ",
           "lemma": "وَاحِدٌ"
+        },
+        {
+          "w": "لِتَنَاوُلِهِ",
+          "lemma": "تَنَاوَلَ يَتَنَاوَلُ"
+        },
+        {
+          "w": "يَوْمَ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "الْجُمُعَةِ",
+          "lemma": "جُمُعَةٌ / جُمَعٌ"
         }
       ]
     },
@@ -34,13 +104,55 @@
       "arabic": "يُحِبُّ الْكِبَارُ وَالصِّغَارُ طَعْمَهُ اللَّذِيذَ وَالْمُمَيَّزَ.",
       "translation": "I stari i mladi vole njegov ukusan i poseban ukus.",
       "translationEn": "Both adults and children love its delicious and unique taste.",
-      "words": []
+      "words": [
+        {
+          "w": "يُحِبُّ",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الْكِبَارُ",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "وَالصِّغَارُ",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "طَعْمَهُ",
+          "lemma": "طَعْمٌ / أَطْعَامٌ"
+        },
+        {
+          "w": "اللَّذِيذَ",
+          "lemma": "لَذِيذٌ"
+        },
+        {
+          "w": "وَالْمُمَيَّزَ",
+          "lemma": "مُمَيَّزٌ"
+        }
+      ]
     },
     {
       "arabic": "هُوَ رَمْزٌ لِلْوَحْدَةِ وَالْمُشَارَكَةِ فِي الْمُنَاسَبَاتِ.",
       "translation": "On je simbol jedinstva i dijeljenja u posebnim prilikama.",
       "translationEn": "It is a symbol of unity and sharing on occasions.",
-      "words": []
+      "words": [
+        {
+          "w": "رَمْزٌ",
+          "lemma": "رَمْزٌ / رُمُوزٌ"
+        },
+        {
+          "w": "لِلْوَحْدَةِ",
+          "lemma": "وَحْدَةٌ"
+        },
+        {
+          "w": "وَالْمُشَارَكَةِ",
+          "lemma": "مُشَارَكَةٌ"
+        },
+        {
+          "w": "الْمُنَاسَبَاتِ",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        }
+      ]
     }
   ],
   "metadata": {

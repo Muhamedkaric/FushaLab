@@ -4,24 +4,54 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعْتَبَرُ الضِّيَافَةُ جُزْءًا أَسَاسِيًّا مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
+      "arabic": "تُعْتَبَرُ الضِّيَافَةُ جُزْءًا أَسَاسِيًّا مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
       "translation": "Gostoprimstvo se smatra osnovnim dijelom arapske kulture.",
-      "translationEn": "Hospitality is considered a fundamental part of Arab culture."
+      "translationEn": "Hospitality is considered a fundamental part of Arab culture.",
+      "words": [
+        { "w": "الضِّيَافَةُ", "lemma": "ضِيَافَةٌ" },
+        { "w": "جُزْءًا", "lemma": "جُزْءٌ / أَجْزَاءٌ" },
+        { "w": "أَسَاسِيًّا", "lemma": "أَسَاسِيٌّ" },
+        { "w": "الثَّقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
-      "arabic": "يَسْتَقْبِلُ الْعَرَبُ ضُيُوفَهُمْ بِحَرَارَةٍ وَيُقَدِّمُونَ لَهُمُ الْقَهْوَةَ وَالتَّمْرَ.",
+      "arabic": "يَسْتَقْبِلُ الْعَرَبُ ضُيُوفَهُمْ بِحَرَارَةٍ وَيُقَدِّمُونَ لَهُمُ الْقَهْوَةَ وَالتَّمْرَ.",
       "translation": "Arapi toplo dočekuju svoje goste i nude im kafu i hurme.",
-      "translationEn": "Arabs welcome their guests warmly and offer them coffee and dates."
+      "translationEn": "Arabs welcome their guests warmly and offer them coffee and dates.",
+      "words": [
+        { "w": "يَسْتَقْبِلُ", "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ" },
+        { "w": "الْعَرَبُ", "lemma": "عَرَبٌ" },
+        { "w": "ضُيُوفَهُمْ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "بِحَرَارَةٍ", "lemma": "حَرَارَةٌ" },
+        { "w": "وَيُقَدِّمُونَ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "الْقَهْوَةَ", "lemma": "قَهْوَةٌ" },
+        { "w": "وَالتَّمْرَ", "lemma": "تَمْرٌ / تُمُورٌ" }
+      ]
     },
     {
-      "arabic": "يُحِبُّ النَّاسُ أَنْ يَشْعُرَ الضَّيْفُ بِأَنَّهُ فِي مَنْزِلِهِ.",
+      "arabic": "يُحِبُّ النَّاسُ أَنْ يَشْعُرَ الضَّيْفُ بِأَنَّهُ فِي مَنْزِلِهِ.",
       "translation": "Ljudi vole da se gost osjeća kao kod svoje kuće.",
-      "translationEn": "People like the guest to feel at home."
+      "translationEn": "People like the guest to feel at home.",
+      "words": [
+        { "w": "يُحِبُّ", "lemma": "أَحَبَّ يُحِبُّ" },
+        { "w": "النَّاسُ", "lemma": "نَاسٌ" },
+        { "w": "يَشْعُرَ", "lemma": "شَعَرَ يَشْعُرُ" },
+        { "w": "الضَّيْفُ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "مَنْزِلِهِ", "lemma": "مَنْزِلٌ / مَنَازِلُ" }
+      ]
     },
     {
-      "arabic": "هَذِهِ الْعَادَةُ تَعْكِسُ الْكَرَمَ وَالِاحْتِرَامَ بَيْنَ النَّاسِ.",
+      "arabic": "هَذِهِ الْعَادَةُ تَعْكِسُ الْكَرَمَ وَالِاحْتِرَامَ بَيْنَ النَّاسِ.",
       "translation": "Ovaj običaj odražava velikodušnost i poštovanje među ljudima.",
-      "translationEn": "This custom reflects generosity and respect among people."
+      "translationEn": "This custom reflects generosity and respect among people.",
+      "words": [
+        { "w": "الْعَادَةُ", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "تَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "الْكَرَمَ", "lemma": "كَرَمٌ" },
+        { "w": "وَالِاحْتِرَامَ", "lemma": "احْتِرَامٌ" },
+        { "w": "النَّاسِ", "lemma": "نَاسٌ" }
+      ]
     }
   ],
   "metadata": {

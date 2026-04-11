@@ -7,13 +7,70 @@
       "arabic": "الْحِنَّاءُ نَبَاتٌ يُسْتَخْدَمُ لِرَسْمِ نُقُوشٍ جَمِيلَةٍ عَلَى يَدَيِ الْعَرُوسِ.",
       "translation": "Kana je biljka koja se koristi za crtanje lijepih ukrasa na mladenkinim rukama.",
       "translationEn": "Henna is a plant used to draw beautiful patterns on the bride's hands.",
-      "words": []
+      "words": [
+        {
+          "w": "الْحِنَّاءُ",
+          "lemma": "حِنَّاءٌ"
+        },
+        {
+          "w": "نَبَاتٌ",
+          "lemma": "نَبَاتٌ / نَبَاتَاتٌ"
+        },
+        {
+          "w": "يُسْتَخْدَمُ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "لِرَسْمِ",
+          "lemma": "رَسْمٌ"
+        },
+        {
+          "w": "نُقُوشٍ",
+          "lemma": "نَقْشٌ / نُقُوشٌ"
+        },
+        {
+          "w": "جَمِيلَةٍ",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "يَدَيِ",
+          "lemma": "يَدٌ / أَيْدٍ"
+        },
+        {
+          "w": "الْعَرُوسِ",
+          "lemma": "عَرُوسٌ / عَرَائِسُ"
+        }
+      ]
     },
     {
       "arabic": "تَجْتَمِعُ النِّسَاءُ قَبْلَ الْعُرْسِ لِيَرْسُمْنَ الْحِنَّاءَ وَيُغَنِّينَ مَعًا.",
       "translation": "Žene se okupljaju prije vjenčanja da nanose kanu i zajedno pjevaju.",
       "translationEn": "Women gather before the wedding to apply henna and sing together.",
       "words": [
+        {
+          "w": "تَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "النِّسَاءُ",
+          "lemma": "امْرَأَةٌ / نِسَاءٌ"
+        },
+        {
+          "w": "الْعُرْسِ",
+          "lemma": "عُرْسٌ / أَعْرَاسٌ"
+        },
+        {
+          "w": "لِيَرْسُمْنَ",
+          "lemma": "رَسَمَ يَرْسُمُ"
+        },
+        {
+          "w": "الْحِنَّاءَ",
+          "lemma": "حِنَّاءٌ"
+        },
+        {
+          "w": "وَيُغَنِّينَ",
+          "lemma": "غَنَّى يُغَنِّي"
+        },
         {
           "w": "مَعًا",
           "lemma": "مَعًا"
@@ -24,13 +81,63 @@
       "arabic": "تَدُومُ نُقُوشُ الْحِنَّاءِ عَلَى الْجِلْدِ أُسْبُوعَيْنِ أَوْ أَكْثَرَ.",
       "translation": "Ukrasi od kane ostaju na koži dvije sedmice ili više.",
       "translationEn": "Henna patterns last on the skin for two weeks or more.",
-      "words": []
+      "words": [
+        {
+          "w": "تَدُومُ",
+          "lemma": "دَامَ يَدُومُ"
+        },
+        {
+          "w": "نُقُوشُ",
+          "lemma": "نَقْشٌ / نُقُوشٌ"
+        },
+        {
+          "w": "الْحِنَّاءِ",
+          "lemma": "حِنَّاءٌ"
+        },
+        {
+          "w": "الْجِلْدِ",
+          "lemma": "جِلْدٌ / جُلُودٌ"
+        },
+        {
+          "w": "أُسْبُوعَيْنِ",
+          "lemma": "أُسْبُوعٌ / أَسَابِيعُ"
+        }
+      ]
     },
     {
       "arabic": "تُعَدُّ لَيْلَةُ الْحِنَّاءِ مِنْ أَجْمَلِ لَيَالِي الْأَفْرَاحِ فِي الْعَالَمِ الْعَرَبِيِّ.",
       "translation": "Noć kane smatra se jednom od najljepših večeri svadbe u arapskom svijetu.",
       "translationEn": "The henna night is considered one of the most beautiful evenings of the wedding celebrations in the Arab world.",
-      "words": []
+      "words": [
+        {
+          "w": "لَيْلَةُ",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
+        },
+        {
+          "w": "الْحِنَّاءِ",
+          "lemma": "حِنَّاءٌ"
+        },
+        {
+          "w": "أَجْمَلِ",
+          "lemma": "جَمِيلٌ"
+        },
+        {
+          "w": "لَيَالِي",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
+        },
+        {
+          "w": "الْأَفْرَاحِ",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        },
+        {
+          "w": "الْعَالَمِ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

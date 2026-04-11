@@ -7,19 +7,86 @@
       "arabic": "يُعَدُّ الْكُسْكُسُ طَبَقًا رَئِيسِيًّا فِي الْمَطْبَخِ الْمَغْرِبِيِّ.",
       "translation": "Kuskus je osnovno jelo marokanskog kuhinja.",
       "translationEn": "Couscous is a staple dish of Moroccan cuisine.",
-      "words": []
+      "words": [
+        {
+          "w": "الْكُسْكُسُ",
+          "lemma": "كُسْكُسٌ"
+        },
+        {
+          "w": "طَبَقًا",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "رَئِيسِيًّا",
+          "lemma": "رَئِيسِيٌّ"
+        },
+        {
+          "w": "الْمَطْبَخِ",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
+        },
+        {
+          "w": "الْمَغْرِبِيِّ",
+          "lemma": "مَغْرِبِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يُصْنَعُ مِنَ الْقَمْحِ الْمَطْحُونِ وَيُطْهَى بِالْبُخَارِ.",
       "translation": "Pravi se od mljevene pšenice i kuha na pari.",
       "translationEn": "It is made from ground wheat and cooked by steaming.",
-      "words": []
+      "words": [
+        {
+          "w": "يُصْنَعُ",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "الْقَمْحِ",
+          "lemma": "قَمْحٌ"
+        },
+        {
+          "w": "الْمَطْحُونِ",
+          "lemma": "مَطْحُونٌ"
+        },
+        {
+          "w": "وَيُطْهَى",
+          "lemma": "طَهَا يَطْهُو"
+        },
+        {
+          "w": "بِالْبُخَارِ",
+          "lemma": "بُخَارٌ"
+        }
+      ]
     },
     {
       "arabic": "يُقَدَّمُ مَعَ الْخُضَارِ وَاللَّحْمِ فِي طَبَقٍ كَبِيرٍ مُشْتَرَكٍ.",
       "translation": "Servira se s povrćem i mesom u velikom zajedničkom tanjiru.",
       "translationEn": "It is served with vegetables and meat in a large shared dish.",
-      "words": []
+      "words": [
+        {
+          "w": "يُقَدَّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الْخُضَارِ",
+          "lemma": "خُضَارٌ / خُضَرٌ"
+        },
+        {
+          "w": "وَاللَّحْمِ",
+          "lemma": "لَحْمٌ / لُحُومٌ"
+        },
+        {
+          "w": "طَبَقٍ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "كَبِيرٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "مُشْتَرَكٍ",
+          "lemma": "مُشْتَرَكٌ"
+        }
+      ]
     },
     {
       "arabic": "تَجْلِسُ الْعَائِلَةُ حَوْلَهُ وَتَأْكُلُ مَعًا.",
@@ -27,8 +94,20 @@
       "translationEn": "The family sits around it and eats together.",
       "words": [
         {
+          "w": "تَجْلِسُ",
+          "lemma": "جَلَسَ يَجْلِسُ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
           "w": "حَوْلَهُ",
           "lemma": "حَوْلَ"
+        },
+        {
+          "w": "وَتَأْكُلُ",
+          "lemma": "أَكَلَ يَأْكُلُ"
         },
         {
           "w": "مَعًا",
@@ -42,12 +121,32 @@
       "translationEn": "Couscous is not just food but a symbol of togetherness and unity.",
       "words": [
         {
+          "w": "الْكُسْكُسُ",
+          "lemma": "كُسْكُسٌ"
+        },
+        {
           "w": "لَيْسَ",
           "lemma": "لَيْسَ"
         },
         {
+          "w": "طَعَامًا",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
           "w": "فَقَطْ",
           "lemma": "فَقَطْ"
+        },
+        {
+          "w": "رَمْزٌ",
+          "lemma": "رَمْزٌ / رُمُوزٌ"
+        },
+        {
+          "w": "لِلتَّجَمُّعِ",
+          "lemma": "تَجَمُّعٌ"
+        },
+        {
+          "w": "وَالْوَحْدَةِ",
+          "lemma": "وَحْدَةٌ"
         }
       ]
     }

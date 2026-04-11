@@ -6,22 +6,55 @@
     {
       "arabic": "شَجَرَةُ النَّخْلِ مِنْ أَهَمِّ الْأَشْجَارِ فِي الْعَالَمِ الْعَرَبِيِّ.",
       "translation": "Palma datulja jedna je od najvažnijih stabala u arapskom svijetu.",
-      "translationEn": "The date palm is one of the most important trees in the Arab world."
+      "translationEn": "The date palm is one of the most important trees in the Arab world.",
+      "words": [
+        { "w": "شَجَرَةُ", "lemma": "شَجَرَةٌ / أَشْجَارٌ" },
+        { "w": "النَّخْلِ", "lemma": "نَخْلٌ / نَخِيلٌ" },
+        { "w": "أَهَمِّ", "lemma": "مُهِمٌّ" },
+        { "w": "الْأَشْجَارِ", "lemma": "شَجَرَةٌ / أَشْجَارٌ" },
+        { "w": "الْعَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
       "arabic": "يَأْكُلُ النَّاسُ ثِمَارَهَا وَهِيَ التَّمْرُ الَّذِي يُعَدُّ غِذَاءً مُقَوِّيًا.",
       "translation": "Ljudi jedu njene plodove — hurme, koje su vrlo hranjiva hrana.",
-      "translationEn": "People eat its fruit — dates — which are a highly nutritious food."
+      "translationEn": "People eat its fruit — dates — which are a highly nutritious food.",
+      "words": [
+        { "w": "يَأْكُلُ", "lemma": "أَكَلَ يَأْكُلُ" },
+        { "w": "النَّاسُ", "lemma": "نَاسٌ" },
+        { "w": "ثِمَارَهَا", "lemma": "ثَمَرَةٌ / ثِمَارٌ" },
+        { "w": "التَّمْرُ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "غِذَاءً", "lemma": "غِذَاءٌ" },
+        { "w": "مُقَوِّيًا", "lemma": "مُقَوٍّ" }
+      ]
     },
     {
       "arabic": "تُصْنَعُ مِنْ أَوْرَاقِ النَّخْلِ السِّلَالُ وَالْقُبَعَاتُ وَأَدَوَاتٌ كَثِيرَةٌ.",
       "translation": "Od palminih listova prave se košare, šeširi i mnogi drugi predmeti.",
-      "translationEn": "Palm leaves are used to make baskets, hats, and many other items."
+      "translationEn": "Palm leaves are used to make baskets, hats, and many other items.",
+      "words": [
+        { "w": "تُصْنَعُ", "lemma": "صَنَعَ يَصْنَعُ" },
+        { "w": "أَوْرَاقِ", "lemma": "وَرَقَةٌ / أَوْرَاقٌ" },
+        { "w": "النَّخْلِ", "lemma": "نَخْلٌ / نَخِيلٌ" },
+        { "w": "السِّلَالُ", "lemma": "سَلَّةٌ / سِلَالٌ" },
+        { "w": "وَالْقُبَعَاتُ", "lemma": "قُبَّعَةٌ / قُبَعَاتٌ" },
+        { "w": "وَأَدَوَاتٌ", "lemma": "أَدَاةٌ / أَدَوَاتٌ" },
+        { "w": "كَثِيرَةٌ", "lemma": "كَثِيرٌ" }
+      ]
     },
     {
       "arabic": "يَرْمُزُ النَّخْلُ إِلَى الصَّبْرِ وَالْحَيَاةِ فِي الصَّحْرَاءِ الْقَاسِيَةِ.",
       "translation": "Palma simbolizira strpljenje i život u surovoj pustinji.",
-      "translationEn": "The palm tree symbolises patience and life in the harsh desert."
+      "translationEn": "The palm tree symbolises patience and life in the harsh desert.",
+      "words": [
+        { "w": "يَرْمُزُ", "lemma": "رَمَزَ يَرْمُزُ" },
+        { "w": "النَّخْلُ", "lemma": "نَخْلٌ / نَخِيلٌ" },
+        { "w": "الصَّبْرِ", "lemma": "صَبْرٌ" },
+        { "w": "وَالْحَيَاةِ", "lemma": "حَيَاةٌ" },
+        { "w": "الصَّحْرَاءِ", "lemma": "صَحْرَاءُ / صَحَارٍ" },
+        { "w": "الْقَاسِيَةِ", "lemma": "قَاسٍ" }
+      ]
     }
   ],
   "metadata": {

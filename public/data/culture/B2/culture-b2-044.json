@@ -4,50 +4,290 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُمَثِّلُ \"الْمَجْلِسُ\" مَكَانَةً مِحْوَرِيَّةً فِي الْحَيَاةِ الِاجْتِمَاعِيَّةِ لَدَى الشُّعُوبِ الْعَرَبِيَّةِ، خُصُوصًا فِي مِنْطَقَةِ الْخَلِيجِ.",
+      "arabic": "يُمَثِّلُ \"الْمَجْلِسُ\" مَكَانَةً مِحْوَرِيَّةً فِي الْحَيَاةِ الِاجْتِمَاعِيَّةِ لَدَى الشُّعُوبِ الْعَرَبِيَّةِ، خُصُوصًا فِي مِنْطَقَةِ الْخَلِيجِ.",
       "translation": "'Medžlis' predstavlja centralno mjesto u društvenom životu arapskih naroda, posebno u regiji Zaljeva.",
       "translationEn": "The 'Majlis' represents a central position in the social life of Arab peoples, especially in the Gulf region.",
-      "words": []
-    },
-    {
-      "arabic": "هُوَ عِبَارَةٌ عَنْ غُرْفَةٍ وَاسِعَةٍ مُخَصَّصَةٍ لِاسْتِقْبَالِ الضُّيُوفِ وَمُنَاقَشَةِ الْقَضَايَا الْهَامَّةِ، سَوَاءً كَانَتْ عَائِلِيَّةً أَوْ سِيَاسِيَّةً.",
-      "translation": "To je prostrana soba namijenjena za prijem gostiju i raspravu o važnim pitanjima, bilo da su porodična ili politička.",
-      "translationEn": "It is a spacious room dedicated to receiving guests and discussing important issues, whether familial or political.",
       "words": [
         {
-          "w": "كَانَتْ",
-          "lemma": "كَانَ يَكُونُ"
+          "w": "يُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "الْمَجْلِسُ",
+          "lemma": "مَجْلِسٌ / مَجَالِسُ"
+        },
+        {
+          "w": "مَكَانَةً",
+          "lemma": "مَكَانَةٌ"
+        },
+        {
+          "w": "مِحْوَرِيَّةً",
+          "lemma": "مِحْوَرِيٌّ"
+        },
+        {
+          "w": "الْحَيَاةِ",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "الِاجْتِمَاعِيَّةِ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "الشُّعُوبِ",
+          "lemma": "شَعْبٌ / شُعُوبٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "مِنْطَقَةِ",
+          "lemma": "مِنْطَقَةٌ / مَنَاطِقُ"
+        },
+        {
+          "w": "الْخَلِيجِ",
+          "lemma": "خَلِيجٌ"
         }
       ]
     },
     {
-      "arabic": "يَتَمَيَّزُ الْمَجْلِسُ بِجَلْسَتِهِ الْأَرْضِيَّةِ الْمُرِيحَةِ وَأَجْوَائِهِ الَّتِي تُشَجِّعُ عَلَى الْحِوَارِ الْمَفْتُوحِ وَتَبَادُلِ الْحِكَمِ.",
-      "translation": "Medžlis se odlikuje udobnim sjedenjem na podu i atmosferom koja podstiče na otvoren dijalog i razmjenu mudrosti.",
-      "translationEn": "The Majlis is characterized by its comfortable floor seating and atmosphere that encourages open dialogue and the exchange of wisdom.",
-      "words": []
+      "arabic": "هُوَ عِبَارَةٌ عَنْ غُرْفَةٍ وَاسِعَةٍ مُخَصَّصَةٍ لِاسْتِقْبَالِ الضُّيُوفِ وَمُنَاقَشَةِ الْقَضَايَا الْهَامَّةِ، سَوَاءً كَانَتْ عَائِلِيَّةً أَوْ سِيَاسِيَّةً.",
+      "translation": "To je prostrana soba namijenjena za prijem gostiju i raspravu o važnim pitanjima, bilo da su porodična ili politička.",
+      "translationEn": "It is a spacious room dedicated to receiving guests and discussing important issues, whether familial or political.",
+      "words": [
+        {
+          "w": "غُرْفَةٍ",
+          "lemma": "غُرْفَةٌ / غُرَفٌ"
+        },
+        {
+          "w": "وَاسِعَةٍ",
+          "lemma": "وَاسِعٌ"
+        },
+        {
+          "w": "مُخَصَّصَةٍ",
+          "lemma": "مُخَصَّصٌ"
+        },
+        {
+          "w": "لِاسْتِقْبَالِ",
+          "lemma": "اسْتِقْبَالٌ"
+        },
+        {
+          "w": "الضُّيُوفِ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "وَمُنَاقَشَةِ",
+          "lemma": "مُنَاقَشَةٌ"
+        },
+        {
+          "w": "الْقَضَايَا",
+          "lemma": "قَضِيَّةٌ / قَضَايَا"
+        },
+        {
+          "w": "الْهَامَّةِ",
+          "lemma": "هَامٌّ"
+        },
+        {
+          "w": "كَانَتْ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "عَائِلِيَّةً",
+          "lemma": "عَائِلِيٌّ"
+        },
+        {
+          "w": "سِيَاسِيَّةً",
+          "lemma": "سِيَاسِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "هُنَا، يَتَعَلَّمُ الشَّبَابُ مِنْ كِبَارِ السِّنِّ تَقَالِيدَ الْمُجْتَمَعِ وَآدَابَ الْحَدِيثِ وَمَهَارَاتِ التَّفَاwordُضِ.",
+      "arabic": "يَتَمَيَّزُ الْمَجْلِسُ بِجَلْسَتِهِ الْأَرْضِيَّةِ الْمُرِيحَةِ وَأَجْوَائِهِ الَّتِي تُشَجِّعُ عَلَى الْحِوَارِ الْمَفْتُوحِ وَتَبَادُلِ الْحِكَمِ.",
+      "translation": "Medžlis se odlikuje udobnim sjedenjem na podu i atmosferom koja podstiče na otvoren dijalog i razmjenu mudrosti.",
+      "translationEn": "The Majlis is characterized by its comfortable floor seating and atmosphere that encourages open dialogue and the exchange of wisdom.",
+      "words": [
+        {
+          "w": "يَتَمَيَّزُ",
+          "lemma": "تَمَيَّزَ يَتَمَيَّزُ"
+        },
+        {
+          "w": "الْمَجْلِسُ",
+          "lemma": "مَجْلِسٌ / مَجَالِسُ"
+        },
+        {
+          "w": "بِجَلْسَتِهِ",
+          "lemma": "جَلْسَةٌ / جَلَسَاتٌ"
+        },
+        {
+          "w": "الْأَرْضِيَّةِ",
+          "lemma": "أَرْضِيٌّ"
+        },
+        {
+          "w": "الْمُرِيحَةِ",
+          "lemma": "مُرِيحٌ"
+        },
+        {
+          "w": "وَأَجْوَائِهِ",
+          "lemma": "جَوٌّ / أَجْوَاءٌ"
+        },
+        {
+          "w": "تُشَجِّعُ",
+          "lemma": "شَجَّعَ يُشَجِّعُ"
+        },
+        {
+          "w": "الْحِوَارِ",
+          "lemma": "حِوَارٌ"
+        },
+        {
+          "w": "الْمَفْتُوحِ",
+          "lemma": "مَفْتُوحٌ"
+        },
+        {
+          "w": "وَتَبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الْحِكَمِ",
+          "lemma": "حِكْمَةٌ / حِكَمٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "هُنَا، يَتَعَلَّمُ الشَّبَابُ مِنْ كِبَارِ السِّنِّ تَقَالِيدَ الْمُجْتَمَعِ وَآدَابَ الْحَدِيثِ وَمَهَارَاتِ التَّفَاوُضِ.",
       "translation": "Ovdje mladi uče od starijih o tradiciji društva, bontonu razgovora i vještinama pregovaranja.",
       "translationEn": "Here, young people learn from the elders about society's traditions, etiquette of conversation, and negotiation skills.",
       "words": [
         {
           "w": "هُنَا",
           "lemma": "هُنَا"
+        },
+        {
+          "w": "يَتَعَلَّمُ",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "الشَّبَابُ",
+          "lemma": "شَبَابٌ"
+        },
+        {
+          "w": "كِبَارِ",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "السِّنِّ",
+          "lemma": "سِنٌّ / أَسْنَانٌ"
+        },
+        {
+          "w": "تَقَالِيدَ",
+          "lemma": "تَقْلِيدٌ / تَقَالِيدُ"
+        },
+        {
+          "w": "الْمُجْتَمَعِ",
+          "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ"
+        },
+        {
+          "w": "وَآدَابَ",
+          "lemma": "أَدَبٌ / آدَابٌ"
+        },
+        {
+          "w": "الْحَدِيثِ",
+          "lemma": "حَدِيثٌ / أَحَادِيثُ"
+        },
+        {
+          "w": "وَمَهَارَاتِ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        },
+        {
+          "w": "التَّفَاوُضِ",
+          "lemma": "تَفَاوُضٌ"
         }
       ]
     },
     {
-      "arabic": "لَقَدْ أَدْرَجَتِ الْيُونِسْكُو الْمَجْلِسَ ضِمْنَ الْقَائِمَةِ التَّمْثِيلِيَّةِ لِلتُّرَاثِ الثَّقَافِيِّ غَيْرِ الْمَادِّيِّ لِلْبَشَرِيَّةِ.",
+      "arabic": "لَقَدْ أَدْرَجَتِ الْيُونِسْكُو الْمَجْلِسَ ضِمْنَ الْقَائِمَةِ التَّمْثِيلِيَّةِ لِلتُّرَاثِ الثَّقَافِيِّ غَيْرِ الْمَادِّيِّ لِلْبَشَرِيَّةِ.",
       "translation": "UNESCO je uvrstio medžlis na Reprezentativnu listu nematerijalne kulturne baštine čovječanstva.",
       "translationEn": "UNESCO has included the Majlis in the Representative List of the Intangible Cultural Heritage of Humanity.",
-      "words": []
+      "words": [
+        {
+          "w": "أَدْرَجَتِ",
+          "lemma": "أَدْرَجَ يُدْرِجُ"
+        },
+        {
+          "w": "الْمَجْلِسَ",
+          "lemma": "مَجْلِسٌ / مَجَالِسُ"
+        },
+        {
+          "w": "الْقَائِمَةِ",
+          "lemma": "قَائِمَةٌ / قَوَائِمُ"
+        },
+        {
+          "w": "التَّمْثِيلِيَّةِ",
+          "lemma": "تَمْثِيلِيٌّ"
+        },
+        {
+          "w": "لِلتُّرَاثِ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "الثَّقَافِيِّ",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "الْمَادِّيِّ",
+          "lemma": "مَادِّيٌّ"
+        },
+        {
+          "w": "لِلْبَشَرِيَّةِ",
+          "lemma": "بَشَرِيَّةٌ"
+        }
+      ]
     },
     {
-      "arabic": "هَكَذَا يَبْقَى الْمَجْلِسُ جِسْرًا يَرْبِطُ بَيْنَ الْمَاضِي وَالْحَاضِرِ، مُعَزِّزًا رُوحَ التَّضَامُنِ وَالتَّكَافُلِ.",
+      "arabic": "هَكَذَا يَبْقَى الْمَجْلِسُ جِسْرًا يَرْبِطُ بَيْنَ الْمَاضِي وَالْحَاضِرِ، مُعَزِّزًا رُوحَ التَّضَامُنِ وَالتَّكَافُلِ.",
       "translation": "Tako medžlis ostaje most koji povezuje prošlost i sadašnjost, jačajući duh solidarnosti i uzajamne pomoći.",
       "translationEn": "Thus, the Majlis remains a bridge connecting the past and the present, enhancing the spirit of solidarity and mutual support.",
-      "words": []
+      "words": [
+        {
+          "w": "يَبْقَى",
+          "lemma": "بَقِيَ يَبْقَى"
+        },
+        {
+          "w": "الْمَجْلِسُ",
+          "lemma": "مَجْلِسٌ / مَجَالِسُ"
+        },
+        {
+          "w": "جِسْرًا",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        },
+        {
+          "w": "يَرْبِطُ",
+          "lemma": "رَبَطَ يَرْبِطُ"
+        },
+        {
+          "w": "الْمَاضِي",
+          "lemma": "مَاضٍ"
+        },
+        {
+          "w": "وَالْحَاضِرِ",
+          "lemma": "حَاضِرٌ"
+        },
+        {
+          "w": "مُعَزِّزًا",
+          "lemma": "مُعَزِّزٌ"
+        },
+        {
+          "w": "رُوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "التَّضَامُنِ",
+          "lemma": "تَضَامُنٌ"
+        },
+        {
+          "w": "وَالتَّكَافُلِ",
+          "lemma": "تَكَافُلٌ"
+        }
+      ]
     }
   ],
   "metadata": {

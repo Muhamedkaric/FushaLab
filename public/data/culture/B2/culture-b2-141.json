@@ -4,39 +4,159 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعْتَبَرُ الضِّيَافَةُ جُزْءًا أَسَاسِيًّا مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
+      "arabic": "تُعْتَبَرُ الضِّيَافَةُ جُزْءًا أَسَاسِيًّا مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
       "translation": "Gostoprimstvo se smatra osnovnim dijelom arapske kulture.",
       "translationEn": "Hospitality is considered an essential part of Arab culture.",
-      "words": []
-    },
-    {
-      "arabic": "يَسْتَقْبِلُ النَّاسُ ضُيُوفَهُمْ بِحَفَاوَةٍ كَبِيرَةٍ فِي بُيُوتِهِمْ.",
-      "translation": "Ljudi s velikom srdačnošću dočekuju goste u svojim domovima.",
-      "translationEn": "People welcome their guests with great warmth in their homes.",
-      "words": []
-    },
-    {
-      "arabic": "يُقَدِّمُ الْمُضِيفُ الْقَهْوَةَ الْعَرَبِيَّةَ وَالتَّمْرَ لِلزُّوَّارِ عِنْدَ وُصُولِهِمْ.",
-      "translation": "Domaćin nudi arapsku kafu i hurme posjetiocima po njihovom dolasku.",
-      "translationEn": "The host offers Arabic coffee and dates to the visitors upon their arrival.",
       "words": [
         {
-          "w": "عِنْدَ",
-          "lemma": "عِنْدَ"
+          "w": "الضِّيَافَةُ",
+          "lemma": "ضِيَافَةٌ / ضِيَافَاتٌ"
+        },
+        {
+          "w": "جُزْءًا",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "أَسَاسِيًّا",
+          "lemma": "أَسَاسِيٌّ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
         }
       ]
     },
     {
-      "arabic": "يَتَحَدَّثُ الْجَمِيعُ عَنْ مَوَاضِيعَ مُخْتَلِفَةٍ بِكُلِّ مَوَدَّةٍ.",
-      "translation": "Svi razgovaraju o različitim temama s puno ljubavi.",
-      "translationEn": "Everyone talks about various topics with all affection.",
-      "words": []
+      "arabic": "يَسْتَقْبِلُ النَّاسُ ضُيُوفَهُمْ بِحَفَاوَةٍ كَبِيرَةٍ فِي بُيُوتِهِمْ.",
+      "translation": "Ljudi s velikom srdačnošću dočekuju goste u svojim domovima.",
+      "translationEn": "People welcome their guests with great warmth in their homes.",
+      "words": [
+        {
+          "w": "يَسْتَقْبِلُ",
+          "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        },
+        {
+          "w": "ضُيُوفَهُمْ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِحَفَاوَةٍ",
+          "lemma": "حَفَاوَةٌ"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "بُيُوتِهِمْ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَشْعُرُ الضَّيْفُ دَائِمًا أَنَّهُ فَرْدٌ مِنَ الْعَائِلَةِ.",
+      "arabic": "يُقَدِّمُ الْمُضِيفُ الْقَهْوَةَ الْعَرَبِيَّةَ وَالتَّمْرَ لِلزُّوَّارِ عِنْدَ وُصُولِهِمْ.",
+      "translation": "Domaćin nudi arapsku kafu i hurme posjetiocima po njihovom dolasku.",
+      "translationEn": "The host offers Arabic coffee and dates to the visitors upon their arrival.",
+      "words": [
+        {
+          "w": "يُقَدِّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الْمُضِيفُ",
+          "lemma": "مُضِيفٌ / مُضِيفُونَ"
+        },
+        {
+          "w": "الْقَهْوَةَ",
+          "lemma": "قَهْوَةٌ / قَهَوَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةَ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "وَالتَّمْرَ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "لِلزُّوَّارِ",
+          "lemma": "زَائِرٌ / زُوَّارٌ"
+        },
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        },
+        {
+          "w": "وُصُولِهِمْ",
+          "lemma": "وُصُولٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَتَحَدَّثُ الْجَمِيعُ عَنْ مَوَاضِيعَ مُخْتَلِفَةٍ بِكُلِّ مَوَدَّةٍ.",
+      "translation": "Svi razgovaraju o različitim temama s puno ljubavi.",
+      "translationEn": "Everyone talks about various topics with all affection.",
+      "words": [
+        {
+          "w": "يَتَحَدَّثُ",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "الْجَمِيعُ",
+          "lemma": "جَمِيعٌ"
+        },
+        {
+          "w": "مَوَاضِيعَ",
+          "lemma": "مَوْضُوعٌ / مَوَاضِيعُ"
+        },
+        {
+          "w": "مُخْتَلِفَةٍ",
+          "lemma": "مُخْتَلِفٌ"
+        },
+        {
+          "w": "بِكُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "مَوَدَّةٍ",
+          "lemma": "مَوَدَّةٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَشْعُرُ الضَّيْفُ دَائِمًا أَنَّهُ فَرْدٌ مِنَ الْعَائِلَةِ.",
       "translation": "Gost se uvijek osjeća kao član porodice.",
       "translationEn": "The guest always feels like a member of the family.",
-      "words": []
+      "words": [
+        {
+          "w": "يَشْعُرُ",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الضَّيْفُ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "دَائِمًا",
+          "lemma": "دَائِمٌ"
+        },
+        {
+          "w": "فَرْدٌ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        }
+      ]
     }
   ],
   "metadata": {

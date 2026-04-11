@@ -7,7 +7,36 @@
       "arabic": "شَهْرُ رَمَضَانَ هُوَ وَقْتٌ لِلتَّأَمُّلِ وَالعِبَادَةِ وَتَعْزِيزِ الرَّوَابِطِ الأُسَرِيَّةِ.",
       "translation": "Mjesec ramazan je vrijeme za razmišljanje, ibadet i jačanje porodičnih veza.",
       "translationEn": "The month of Ramadan is a time for reflection, worship, and strengthening family bonds.",
-      "words": []
+      "words": [
+        {
+          "w": "شَهْرُ",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "وَقْتٌ",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "التَّأَمُّلِ",
+          "lemma": "تَأَمُّلٌ / تَأَمُّلَاتٌ"
+        },
+        {
+          "w": "وَالعِبَادَةِ",
+          "lemma": "عِبَادَةٌ / عِبَادَاتٌ"
+        },
+        {
+          "w": "وَتَعْزِيزِ",
+          "lemma": "تَعْزِيزٌ"
+        },
+        {
+          "w": "الرَّوَابِطِ",
+          "lemma": "رَابِطَةٌ / رَوَابِطُ"
+        },
+        {
+          "w": "الأُسَرِيَّةِ",
+          "lemma": "أُسَرِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "تَجْتَمِعُ العَائِلَاتُ عِنْدَ غُرُوبِ الشَّمْسِ لِتَنَاوُلِ وَجْبَةِ الإِفْطَارِ بَعْدَ يَوْمٍ مِنَ الصِّيَامِ.",
@@ -15,8 +44,44 @@
       "translationEn": "Families gather at sunset to have the Iftar meal after a day of fasting.",
       "words": [
         {
+          "w": "تَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "العَائِلَاتُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
           "w": "عِنْدَ",
           "lemma": "عِنْدَ"
+        },
+        {
+          "w": "غُرُوبِ",
+          "lemma": "غُرُوبٌ"
+        },
+        {
+          "w": "الشَّمْسِ",
+          "lemma": "شَمْسٌ"
+        },
+        {
+          "w": "لِتَنَاوُلِ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "وَجْبَةِ",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "الإِفْطَارِ",
+          "lemma": "إِفْطَارٌ"
+        },
+        {
+          "w": "يَوْمٍ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "الصِّيَامِ",
+          "lemma": "صِيَامٌ"
         }
       ]
     },
@@ -24,31 +89,196 @@
       "arabic": "تُزَيَّنُ الشَّوَارِعُ بِالفَوَانِيسِ المُلَوَّنَةِ الَّتِي تُضِيءُ اللَّيَالِيَ بِبَهْجَةٍ خَاصَّةٍ.",
       "translation": "Ulice su ukrašene šarenim fenjerima koji osvjetljavaju noći posebnom radošću.",
       "translationEn": "Streets are decorated with colorful lanterns that light up the nights with a special joy.",
-      "words": []
+      "words": [
+        {
+          "w": "تُزَيَّنُ",
+          "lemma": "زَيَّنَ يُزَيِّنُ"
+        },
+        {
+          "w": "الشَّوَارِعُ",
+          "lemma": "شَارِعٌ / شَوَارِعُ"
+        },
+        {
+          "w": "بِالفَوَانِيسِ",
+          "lemma": "فَانُوسٌ / فَوَانِيسُ"
+        },
+        {
+          "w": "المُلَوَّنَةِ",
+          "lemma": "مُلَوَّنٌ"
+        },
+        {
+          "w": "تُضِيءُ",
+          "lemma": "أَضَاءَ يُضِيءُ"
+        },
+        {
+          "w": "اللَّيَالِيَ",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
+        },
+        {
+          "w": "بِبَهْجَةٍ",
+          "lemma": "بَهْجَةٌ"
+        },
+        {
+          "w": "خَاصَّةٍ",
+          "lemma": "خَاصٌّ"
+        }
+      ]
     },
     {
       "arabic": "يُعَدُّ تَقَاسُمُ الطَّعَامِ مَعَ الفُقَرَاءِ مُمَارَسَةً جَوْهَرِيَّةً تَعْكِسُ رُوحَ التَّضَامُنِ.",
       "translation": "Dijeljenje hrane sa siromašnima je suštinska praksa koja odražava duh solidarnosti.",
       "translationEn": "Sharing food with the poor is a fundamental practice that reflects the spirit of solidarity.",
-      "words": []
+      "words": [
+        {
+          "w": "يُعَدُّ",
+          "lemma": "عَدَّ يَعُدُّ"
+        },
+        {
+          "w": "تَقَاسُمُ",
+          "lemma": "تَقَاسُمٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الفُقَرَاءِ",
+          "lemma": "فَقِيرٌ / فُقَرَاءُ"
+        },
+        {
+          "w": "مُمَارَسَةً",
+          "lemma": "مُمَارَسَةٌ / مُمَارَسَاتٌ"
+        },
+        {
+          "w": "جَوْهَرِيَّةً",
+          "lemma": "جَوْهَرِيٌّ"
+        },
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "رُوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "التَّضَامُنِ",
+          "lemma": "تَضَامُنٌ"
+        }
+      ]
     },
     {
       "arabic": "بَعْدَ صَلَاةِ التَّرَاوِيحِ، تَبْدَأُ الزِّيَارَاتُ الِاجْتِمَاعِيَّةُ الَّتِي تَمْتَدُّ حَتَّى سَاعَاتٍ مُتَأَخِّرَةٍ.",
       "translation": "Nakon teravih-namaza počinju društvene posjete koje traju do kasnih sati.",
       "translationEn": "After the Tarawih prayers, social visits begin and extend until late hours.",
-      "words": []
+      "words": [
+        {
+          "w": "صَلَاةِ",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        },
+        {
+          "w": "التَّرَاوِيحِ",
+          "lemma": "تَرَاوِيحُ"
+        },
+        {
+          "w": "تَبْدَأُ",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الزِّيَارَاتُ",
+          "lemma": "زِيَارَةٌ / زِيَارَاتٌ"
+        },
+        {
+          "w": "الِاجْتِمَاعِيَّةُ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "تَمْتَدُّ",
+          "lemma": "امْتَدَّ يَمْتَدُّ"
+        },
+        {
+          "w": "سَاعَاتٍ",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "مُتَأَخِّرَةٍ",
+          "lemma": "مُتَأَخِّرٌ"
+        }
+      ]
     },
     {
       "arabic": "يَمْتَلِئُ الجَوُّ بِالطُّمَأْنِينَةِ وَالشُّعُورِ بِالتَّجَدُّدِ الرُّوحِيِّ وَالنَّفْسِيِّ.",
       "translation": "Atmosfera je ispunjena smirajem i osjećajem duhovne i psihičke obnove.",
       "translationEn": "The atmosphere is filled with tranquility and a sense of spiritual and psychological renewal.",
-      "words": []
+      "words": [
+        {
+          "w": "يَمْتَلِئُ",
+          "lemma": "امْتَلَأَ يَمْتَلِئُ"
+        },
+        {
+          "w": "الجَوُّ",
+          "lemma": "جَوٌّ / أَجْوَاءٌ"
+        },
+        {
+          "w": "بِالطُّمَأْنِينَةِ",
+          "lemma": "طُمَأْنِينَةٌ"
+        },
+        {
+          "w": "الشُّعُورِ",
+          "lemma": "شُعُورٌ / مَشَاعِرُ"
+        },
+        {
+          "w": "التَّجَدُّدِ",
+          "lemma": "تَجَدُّدٌ"
+        },
+        {
+          "w": "الرُّوحِيِّ",
+          "lemma": "رُوحِيٌّ"
+        },
+        {
+          "w": "النَّفْسِيِّ",
+          "lemma": "نَفْسِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يَنْتَهِي الشَّهْرُ بِاحْتِفَالِ عِيدِ الفِطْرِ، حَيْثُ تَعُمُّ الفَرْحَةُ وَالسُّرُورُ جَمِيعَ القُلُوبِ.",
       "translation": "Mjesec se završava proslavom Ramazanskog bajrama, kada radost i veselje obuzmu sva srca.",
       "translationEn": "The month ends with the celebration of Eid al-Fitr, where joy and happiness spread through all hearts.",
-      "words": []
+      "words": [
+        {
+          "w": "يَنْتَهِي",
+          "lemma": "انْتَهَى يَنْتَهِي"
+        },
+        {
+          "w": "الشَّهْرُ",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "بِاحْتِفَالِ",
+          "lemma": "احْتِفَالٌ / احْتِفَالَاتٌ"
+        },
+        {
+          "w": "تَعُمُّ",
+          "lemma": "عَمَّ يَعُمُّ"
+        },
+        {
+          "w": "الفَرْحَةُ",
+          "lemma": "فَرْحَةٌ / أَفْرَاحٌ"
+        },
+        {
+          "w": "السُّرُورُ",
+          "lemma": "سُرُورٌ"
+        },
+        {
+          "w": "جَمِيعَ",
+          "lemma": "جَمِيعٌ"
+        },
+        {
+          "w": "القُلُوبِ",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        }
+      ]
     }
   ],
   "metadata": {

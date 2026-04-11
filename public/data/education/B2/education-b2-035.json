@@ -9,8 +9,48 @@
       "translationEn": "International scholarships provide talented students the opportunity to study at the most prestigious universities around the world.",
       "words": [
         {
+          "w": "تُتِيحُ",
+          "lemma": "أَتَاحَ يُتِيحُ"
+        },
+        {
+          "w": "الْمِنَحُ",
+          "lemma": "مِنْحَةٌ / مِنَحٌ"
+        },
+        {
+          "w": "الدِّرَاسِيَّةُ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "الدَّوْلِيَّةُ",
+          "lemma": "دَوْلِيٌّ"
+        },
+        {
+          "w": "لِلطُّلَّابِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الْمَوْهُوبِينَ",
+          "lemma": "مَوْهُوبٌ / مَوْهُوبُونَ"
+        },
+        {
+          "w": "فُرْصَةَ",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "الدِّرَاسَةِ",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        },
+        {
+          "w": "الْجَامِعَاتِ",
+          "lemma": "جَامِعَةٌ / جَامِعَاتٌ"
+        },
+        {
           "w": "حَوْلَ",
           "lemma": "حَوْلَ"
+        },
+        {
+          "w": "الْعَالَمِ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
         }
       ]
     },
@@ -18,25 +58,185 @@
       "arabic": "إِنَّ الْعَيْشَ فِي بَلَدٍ أَجْنَبِيٍّ يُعَرِّضُ الطَّالِبَ لِثَقَافَاتٍ جَدِيدَةٍ وَوُجْهَاتِ نَظَرٍ مُتَنَوِّعَةٍ.",
       "translation": "Život u stranoj zemlji izlaže studenta novim kulturama i različitim perspektivama.",
       "translationEn": "Living in a foreign country exposes the student to new cultures and diverse perspectives.",
-      "words": []
+      "words": [
+        {
+          "w": "الْعَيْشَ",
+          "lemma": "عَيْشٌ"
+        },
+        {
+          "w": "بَلَدٍ",
+          "lemma": "بَلَدٌ / بِلَادٌ"
+        },
+        {
+          "w": "أَجْنَبِيٍّ",
+          "lemma": "أَجْنَبِيٌّ"
+        },
+        {
+          "w": "يُعَرِّضُ",
+          "lemma": "عَرَّضَ يُعَرِّضُ"
+        },
+        {
+          "w": "الطَّالِبَ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "لِثَقَافَاتٍ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "وَوُجْهَاتِ",
+          "lemma": "وُجْهَةٌ / وُجْهَاتٌ"
+        },
+        {
+          "w": "نَظَرٍ",
+          "lemma": "نَظَرٌ"
+        },
+        {
+          "w": "مُتَنَوِّعَةٍ",
+          "lemma": "مُتَنَوِّعٌ"
+        }
+      ]
     },
     {
       "arabic": "وَمَعَ ذَلِكَ، فَإِنَّ التَّأَقْلُمَ مَعَ بِيئَةٍ أَكَادِيمِيَّةٍ جَدِيدَةٍ يَتَطَلَّبُ صَبْراً وَمُسْتَوًى عَالِيًا مِنَ الْإِتْقَانِ اللُّغَوِيِّ.",
       "translation": "Ipak, prilagođavanje novom akademskom okruženju zahtijeva strpljenje i visok nivo jezičkog umijeća.",
       "translationEn": "However, adapting to a new academic environment requires patience and a high level of linguistic proficiency.",
-      "words": []
+      "words": [
+        {
+          "w": "التَّأَقْلُمَ",
+          "lemma": "تَأَقْلُمٌ"
+        },
+        {
+          "w": "بِيئَةٍ",
+          "lemma": "بِيئَةٌ / بِيئَاتٌ"
+        },
+        {
+          "w": "أَكَادِيمِيَّةٍ",
+          "lemma": "أَكَادِيمِيٌّ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "صَبْراً",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "وَمُسْتَوًى",
+          "lemma": "مُسْتَوًى / مُسْتَوَيَاتٌ"
+        },
+        {
+          "w": "عَالِيًا",
+          "lemma": "عَالٍ"
+        },
+        {
+          "w": "الْإِتْقَانِ",
+          "lemma": "إِتْقَانٌ"
+        },
+        {
+          "w": "اللُّغَوِيِّ",
+          "lemma": "لُغَوِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "تُقَدِّمُ الْعَدِيدُ مِنَ الْجَامِعَاتِ بَرَامِجَ دَعْمٍ لِمُسَاعَدَةِ الطُّلَّابِ الدَّوْلِيِّينَ عَلَى الِانْدِمَاجِ فِي الْمُجْتَمَعِ الْجَامِعِيِّ.",
       "translation": "Mnogi univerziteti nude programe podrške kako bi pomogli međunarodnim studentima da se integrišu u univerzitetsku zajednicu.",
       "translationEn": "Many universities offer support programs to help international students integrate into the university community.",
-      "words": []
+      "words": [
+        {
+          "w": "تُقَدِّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الْجَامِعَاتِ",
+          "lemma": "جَامِعَةٌ / جَامِعَاتٌ"
+        },
+        {
+          "w": "بَرَامِجَ",
+          "lemma": "بَرْنَامَجٌ / بَرَامِجُ"
+        },
+        {
+          "w": "دَعْمٍ",
+          "lemma": "دَعْمٌ"
+        },
+        {
+          "w": "لِمُسَاعَدَةِ",
+          "lemma": "مُسَاعَدَةٌ"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الدَّوْلِيِّينَ",
+          "lemma": "دَوْلِيٌّ"
+        },
+        {
+          "w": "الِانْدِمَاجِ",
+          "lemma": "انْدِمَاجٌ"
+        },
+        {
+          "w": "الْمُجْتَمَعِ",
+          "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ"
+        },
+        {
+          "w": "الْجَامِعِيِّ",
+          "lemma": "جَامِعِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "إِنَّ الِاسْتِثْمَارَ فِي التَّعْلِيمِ الْعَالَمِيِّ يُسَاهِمُ فِي بِنَاءِ جُسُورِ التَّفَاهُمِ بَيْنَ الشُّعُوبِ الْمُخْتَلِفَةِ.",
       "translation": "Ulaganje u globalno obrazovanje doprinosi izgradnji mostova razumijevanja između različitih naroda.",
       "translationEn": "Investing in global education contributes to building bridges of understanding between different peoples.",
-      "words": []
+      "words": [
+        {
+          "w": "الِاسْتِثْمَارَ",
+          "lemma": "اسْتِثْمَارٌ"
+        },
+        {
+          "w": "التَّعْلِيمِ",
+          "lemma": "تَعْلِيمٌ"
+        },
+        {
+          "w": "الْعَالَمِيِّ",
+          "lemma": "عَالَمِيٌّ"
+        },
+        {
+          "w": "يُسَاهِمُ",
+          "lemma": "سَاهَمَ يُسَاهِمُ"
+        },
+        {
+          "w": "بِنَاءِ",
+          "lemma": "بِنَاءٌ"
+        },
+        {
+          "w": "جُسُورِ",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        },
+        {
+          "w": "التَّفَاهُمِ",
+          "lemma": "تَفَاهُمٌ"
+        },
+        {
+          "w": "الشُّعُوبِ",
+          "lemma": "شَعْبٌ / شُعُوبٌ"
+        },
+        {
+          "w": "الْمُخْتَلِفَةِ",
+          "lemma": "مُخْتَلِفٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,7 +6,17 @@
     {
       "arabic": "الْخَطُّ الْعَرَبِيُّ فَنٌّ جَمِيلٌ يُزَيِّنُ الْمَسَاجِدَ وَالْمَبَانِيَ التَّارِيخِيَّةَ.",
       "translation": "Arapska kaligrafija je lijepa umjetnost koja ukrašava džamije i historijske zgrade.",
-      "translationEn": "Arabic calligraphy is a beautiful art that decorates mosques and historical buildings."
+      "translationEn": "Arabic calligraphy is a beautiful art that decorates mosques and historical buildings.",
+      "words": [
+        { "w": "الْخَطُّ", "lemma": "خَطٌّ / خُطُوطٌ" },
+        { "w": "الْعَرَبِيُّ", "lemma": "عَرَبِيٌّ" },
+        { "w": "فَنٌّ", "lemma": "فَنٌّ / فُنُونٌ" },
+        { "w": "جَمِيلٌ", "lemma": "جَمِيلٌ" },
+        { "w": "يُزَيِّنُ", "lemma": "زَيَّنَ يُزَيِّنُ" },
+        { "w": "الْمَسَاجِدَ", "lemma": "مَسْجِدٌ / مَسَاجِدُ" },
+        { "w": "وَالْمَبَانِيَ", "lemma": "مَبْنًى / مَبَانٍ" },
+        { "w": "التَّارِيخِيَّةَ", "lemma": "تَارِيخِيٌّ" }
+      ]
     }
   ],
   "metadata": {

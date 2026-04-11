@@ -4,24 +4,56 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ الْفُطُورُ وَجْبَةً مُهِمَّةً فِي الْعَالَمِ الْعَرَبِيِّ.",
+      "arabic": "يُعْتَبَرُ الْفُطُورُ وَجْبَةً مُهِمَّةً فِي الْعَالَمِ الْعَرَبِيِّ.",
       "translation": "Doručak se smatra važnim obrokom u arapskom svijetu.",
-      "translationEn": "Breakfast is considered an important meal in the Arab world."
+      "translationEn": "Breakfast is considered an important meal in the Arab world.",
+      "words": [
+        { "w": "يُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "الْفُطُورُ", "lemma": "فُطُورٌ" },
+        { "w": "وَجْبَةً", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "مُهِمَّةً", "lemma": "مُهِمٌّ" },
+        { "w": "الْعَالَمِ", "lemma": "عَالَمٌ / عَوَالِمُ" },
+        { "w": "الْعَرَبِيِّ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
-      "arabic": "يَأْكُلُ النَّاسُ الْحُمُّصَ وَالْفَلَافِلَ مَعَ الْخُبْزِ السَّاخِنِ.",
+      "arabic": "يَأْكُلُ النَّاسُ الْحُمُّصَ وَالْفَلَافِلَ مَعَ الْخُبْزِ السَّاخِنِ.",
       "translation": "Ljudi jedu hummus i falafel uz topli hljeb.",
-      "translationEn": "People eat hummus and falafel with hot bread."
+      "translationEn": "People eat hummus and falafel with hot bread.",
+      "words": [
+        { "w": "يَأْكُلُ", "lemma": "أَكَلَ يَأْكُلُ" },
+        { "w": "النَّاسُ", "lemma": "نَاسٌ" },
+        { "w": "الْحُمُّصَ", "lemma": "حُمُّصٌ" },
+        { "w": "وَالْفَلَافِلَ", "lemma": "فَلَافِلُ" },
+        { "w": "الْخُبْزِ", "lemma": "خُبْزٌ" },
+        { "w": "السَّاخِنِ", "lemma": "سَاخِنٌ" }
+      ]
     },
     {
-      "arabic": "يُفَضِّلُ الْبَعْضُ شُرْبَ الشَّايِ بِالنَّعْنَانِ فِي الصَّبَاحِ.",
+      "arabic": "يُفَضِّلُ الْبَعْضُ شُرْبَ الشَّايِ بِالنَّعْنَانِ فِي الصَّبَاحِ.",
       "translation": "Neki više vole piti čaj s nanom ujutro.",
-      "translationEn": "Some prefer drinking mint tea in the morning."
+      "translationEn": "Some prefer drinking mint tea in the morning.",
+      "words": [
+        { "w": "يُفَضِّلُ", "lemma": "فَضَّلَ يُفَضِّلُ" },
+        { "w": "شُرْبَ", "lemma": "شُرْبٌ" },
+        { "w": "الشَّايِ", "lemma": "شَايٌ" },
+        { "w": "بِالنَّعْنَانِ", "lemma": "نَعْنَاعٌ" },
+        { "w": "الصَّبَاحِ", "lemma": "صَبَاحٌ / أَصْبَاحٌ" }
+      ]
     },
     {
       "arabic": "هَذِهِ الْوَجْبَةُ تَمْنَحُ الْجِسْمَ طَاقَةً كَبِيرَةً لِبَدْءِ الْيَوْمِ.",
       "translation": "Ovaj obrok daje tijelu veliku energiju za početak dana.",
-      "translationEn": "This meal gives the body great energy to start the day."
+      "translationEn": "This meal gives the body great energy to start the day.",
+      "words": [
+        { "w": "الْوَجْبَةُ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "تَمْنَحُ", "lemma": "مَنَحَ يَمْنَحُ" },
+        { "w": "الْجِسْمَ", "lemma": "جِسْمٌ / أَجْسَامٌ" },
+        { "w": "طَاقَةً", "lemma": "طَاقَةٌ" },
+        { "w": "كَبِيرَةً", "lemma": "كَبِيرٌ" },
+        { "w": "لِبَدْءِ", "lemma": "بَدْءٌ" },
+        { "w": "الْيَوْمِ", "lemma": "يَوْمٌ / أَيَّامٌ" }
+      ]
     }
   ],
   "metadata": {

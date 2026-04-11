@@ -7,7 +7,32 @@
       "arabic": "الْعِطْرُ وَالْبُخُورُ جُزْءٌ مُهِمٌّ مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
       "translation": "Miris i tamjan važan su dio arapske kulture.",
       "translationEn": "Perfume and incense are an important part of Arab culture.",
-      "words": []
+      "words": [
+        {
+          "w": "الْعِطْرُ",
+          "lemma": "عِطْرٌ / عُطُورٌ"
+        },
+        {
+          "w": "وَالْبُخُورُ",
+          "lemma": "بَخُورٌ"
+        },
+        {
+          "w": "جُزْءٌ",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "مُهِمٌّ",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يُحِبُّ الْعَرَبُ الرَّوَائِحَ الطَّيِّبَةَ وَيَسْتَخْدِمُونَ الْعِطْرَ فِي كُلِّ مُنَاسَبَةٍ.",
@@ -15,8 +40,36 @@
       "translationEn": "Arabs love pleasant fragrances and use perfume on every occasion.",
       "words": [
         {
+          "w": "يُحِبُّ",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الْعَرَبُ",
+          "lemma": "عَرَبٌ"
+        },
+        {
+          "w": "الرَّوَائِحَ",
+          "lemma": "رَائِحَةٌ / رَوَائِحُ"
+        },
+        {
+          "w": "الطَّيِّبَةَ",
+          "lemma": "طَيِّبٌ"
+        },
+        {
+          "w": "وَيَسْتَخْدِمُونَ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "الْعِطْرَ",
+          "lemma": "عِطْرٌ / عُطُورٌ"
+        },
+        {
           "w": "كُلِّ",
           "lemma": "كُلٌّ"
+        },
+        {
+          "w": "مُنَاسَبَةٍ",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
         }
       ]
     },
@@ -24,13 +77,79 @@
       "arabic": "يُشْعَلُ الْبُخُورُ فِي الْبُيُوتِ لِتَعْطِيرِ الْهَوَاءِ وَتَرْحِيبِ الضُّيُوفِ.",
       "translation": "Tamjan se pali u domovima kako bi se zrak mirisao i ugostili gosti.",
       "translationEn": "Incense is burned in homes to scent the air and welcome guests.",
-      "words": []
+      "words": [
+        {
+          "w": "يُشْعَلُ",
+          "lemma": "أَشْعَلَ يُشْعِلُ"
+        },
+        {
+          "w": "الْبُخُورُ",
+          "lemma": "بَخُورٌ"
+        },
+        {
+          "w": "الْبُيُوتِ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "لِتَعْطِيرِ",
+          "lemma": "تَعْطِيرٌ"
+        },
+        {
+          "w": "الْهَوَاءِ",
+          "lemma": "هَوَاءٌ"
+        },
+        {
+          "w": "وَتَرْحِيبِ",
+          "lemma": "تَرْحِيبٌ"
+        },
+        {
+          "w": "الضُّيُوفِ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        }
+      ]
     },
     {
       "arabic": "مِنْ أَشْهَرِ أَنْوَاعِ الْبُخُورِ الْعُودُ الرَّائِحَةُ الثَّمِينَةُ الَّتِي تَأْتِي مِنَ الْخَشَبِ الْعَطِرِ.",
       "translation": "Jedna od najpoznatijih vrsta tamjana je oud, dragocjeni miris koji dolazi od mirisnog drveta.",
       "translationEn": "One of the most famous types of incense is oud, a precious fragrance that comes from aromatic wood.",
-      "words": []
+      "words": [
+        {
+          "w": "أَشْهَرِ",
+          "lemma": "مَشْهُورٌ"
+        },
+        {
+          "w": "أَنْوَاعِ",
+          "lemma": "نَوْعٌ / أَنْوَاعٌ"
+        },
+        {
+          "w": "الْبُخُورِ",
+          "lemma": "بَخُورٌ"
+        },
+        {
+          "w": "الْعُودُ",
+          "lemma": "عُودٌ / أَعْوَادٌ"
+        },
+        {
+          "w": "الرَّائِحَةُ",
+          "lemma": "رَائِحَةٌ / رَوَائِحُ"
+        },
+        {
+          "w": "الثَّمِينَةُ",
+          "lemma": "ثَمِينٌ"
+        },
+        {
+          "w": "تَأْتِي",
+          "lemma": "أَتَى يَأْتِي"
+        },
+        {
+          "w": "الْخَشَبِ",
+          "lemma": "خَشَبٌ / أَخْشَابٌ"
+        },
+        {
+          "w": "الْعَطِرِ",
+          "lemma": "عَطِرٌ"
+        }
+      ]
     }
   ],
   "metadata": {

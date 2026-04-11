@@ -4,34 +4,322 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَعُدُّ عِيدُ الفِطْرِ السَّعِيدُ مُنَاسَبَةً دِينِيَّةً وَاجْتِمَاعِيَّةً هَامَّةً تَجْمَعُ الشَّمْلَ وَتَنْشُرُ البَهْجَةَ فِي أَرْجَاءِ العَالَمِ العَرَبِيِّ.",
+      "arabic": "يَعُدُّ عِيدُ الفِطْرِ السَّعِيدُ مُنَاسَبَةً دِينِيَّةً وَاجْتِمَاعِيَّةً هَامَّةً تَجْمَعُ الشَّمْلَ وَتَنْشُرُ الْبَهْجَةَ فِي أَرْجَاءِ الْعَالَمِ الْعَرَبِيِّ.",
       "translation": "Ramazanski bajram se smatra važnom vjerskom i društvenom prigodom koja okuplja porodicu i širi radost širom arapskog svijeta.",
-      "translationEn": "Eid al-Fitr is considered an important religious and social occasion that brings families together and spreads joy throughout the Arab world."
+      "translationEn": "Eid al-Fitr is considered an important religious and social occasion that brings families together and spreads joy throughout the Arab world.",
+      "words": [
+        {
+          "w": "عِيدُ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "الفِطْرِ",
+          "lemma": "فِطْرٌ"
+        },
+        {
+          "w": "السَّعِيدُ",
+          "lemma": "سَعِيدٌ"
+        },
+        {
+          "w": "مُنَاسَبَةً",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        },
+        {
+          "w": "دِينِيَّةً",
+          "lemma": "دِينِيٌّ"
+        },
+        {
+          "w": "وَاجْتِمَاعِيَّةً",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "هَامَّةً",
+          "lemma": "هَامٌّ"
+        },
+        {
+          "w": "تَجْمَعُ",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "الشَّمْلَ",
+          "lemma": "شَمْلٌ"
+        },
+        {
+          "w": "وَتَنْشُرُ",
+          "lemma": "نَشَرَ يَنْشُرُ"
+        },
+        {
+          "w": "الْبَهْجَةَ",
+          "lemma": "بَهْجَةٌ"
+        },
+        {
+          "w": "أَرْجَاءِ",
+          "lemma": "رَجَاءٌ / أَرْجَاءٌ"
+        },
+        {
+          "w": "الْعَالَمِ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "يَبْدَأُ اليَوْمُ بِصَلَاةِ العِيدِ فِي السَّاحَاتِ العَامَّةِ، حَيْثُ يَتَبَادَلُ النَّاسُ التَّهَانِيَ وَالتَّبَرِيكَاتِ بِقُلُوبٍ مِلْؤُهَا المَحَبَّةُ.",
+      "arabic": "يَبْدَأُ الْيَوْمُ بِصَلَاةِ الْعِيدِ فِي السَّاحَاتِ الْعَامَّةِ، حَيْثُ يَتَبَادَلُ النَّاسُ التَّهَانِيَ وَالتَّبَرِيكَاتِ بِقُلُوبٍ مِلْؤُهَا الْمَحَبَّةُ.",
       "translation": "Dan počinje bajram-namazom na javnim trgovima, gdje ljudi razmjenjuju čestitke i blagoslove srcima punim ljubavi.",
-      "translationEn": "The day begins with the Eid prayer in public squares, where people exchange greetings and blessings with hearts full of love."
+      "translationEn": "The day begins with the Eid prayer in public squares, where people exchange greetings and blessings with hearts full of love.",
+      "words": [
+        {
+          "w": "يَبْدَأُ",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الْيَوْمُ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "بِصَلَاةِ",
+          "lemma": "صَلَاةٌ / صَلَوَاتٌ"
+        },
+        {
+          "w": "الْعِيدِ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "السَّاحَاتِ",
+          "lemma": "سَاحَةٌ / سَاحَاتٌ"
+        },
+        {
+          "w": "الْعَامَّةِ",
+          "lemma": "عَامٌّ"
+        },
+        {
+          "w": "يَتَبَادَلُ",
+          "lemma": "تَبَادَلَ يَتَبَادَلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "التَّهَانِيَ",
+          "lemma": "تَهْنِئَةٌ / تَهَانٍ"
+        },
+        {
+          "w": "وَالتَّبَرِيكَاتِ",
+          "lemma": "تَبْرِيكٌ / تَبْرِيكَاتٌ"
+        },
+        {
+          "w": "بِقُلُوبٍ",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "الْمَحَبَّةُ",
+          "lemma": "مَحَبَّةٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَرْتَدِي العَائِلَاتُ أَجْمَلَ مَلَابِسِهَا الجَدِيدَةِ، وَيَجْتَمِعُ الأَقَارِبُ لِتَنَاوُلِ وَجَبَاتِ الغَدَاءِ التَّقْلِيدِيَّةِ الدَّسِمَةِ.",
+      "arabic": "تَرْتَدِي الْعَائِلَاتُ أَجْمَلَ مَلَابِسِهَا الْجَدِيدَةِ، وَيَجْتَمِعُ الأَقَارِبُ لِتَنَاوُلِ وَجَبَاتِ الْغَدَاءِ التَّقْلِيدِيَّةِ الدَّسِمَةِ.",
       "translation": "Porodice oblače svoju najljepšu novu odjeću, a rođaci se okupljaju na tradicionalnim, bogatim ručkovima.",
-      "translationEn": "Families wear their finest new clothes, and relatives gather for traditional, hearty lunches."
+      "translationEn": "Families wear their finest new clothes, and relatives gather for traditional, hearty lunches.",
+      "words": [
+        {
+          "w": "تَرْتَدِي",
+          "lemma": "ارْتَدَى يَرْتَدِي"
+        },
+        {
+          "w": "الْعَائِلَاتُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "مَلَابِسِهَا",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
+        },
+        {
+          "w": "الْجَدِيدَةِ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "وَيَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الأَقَارِبُ",
+          "lemma": "قَرِيبٌ / أَقَارِبُ"
+        },
+        {
+          "w": "لِتَنَاوُلِ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "وَجَبَاتِ",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "الْغَدَاءِ",
+          "lemma": "غَدَاءٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةِ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "الدَّسِمَةِ",
+          "lemma": "دَسِمٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَلْعَبُ الحَلْوَيَاتُ، مِثْلُ المَعْمُولِ وَالكَعْكِ، دَوْرًا مِحْوَرِيًّا فِي هَذِهِ الِاحْتِفَالَاتِ، إِذْ تُقَدَّمُ لِلضُّيُوفِ مَعَ القَهْوَةِ.",
+      "arabic": "تَلْعَبُ الْحَلْوَيَاتُ، مِثْلُ الْمَعْمُولِ وَالْكَعْكِ، دَوْرًا مِحْوَرِيًّا فِي هَذِهِ الِاحْتِفَالَاتِ، إِذْ تُقَدَّمُ لِلضُّيُوفِ مَعَ الْقَهْوَةِ.",
       "translation": "Slastice, poput ma'moula i kolača, igraju ključnu ulogu u ovim proslavama, jer se poslužuju gostima uz kafu.",
-      "translationEn": "Sweets, such as ma'amoul and cookies, play a central role in these celebrations, as they are served to guests with coffee."
+      "translationEn": "Sweets, such as ma'amoul and cookies, play a central role in these celebrations, as they are served to guests with coffee.",
+      "words": [
+        {
+          "w": "تَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الْحَلْوَيَاتُ",
+          "lemma": "حَلْوَى / حَلْوِيَّاتٌ"
+        },
+        {
+          "w": "الْمَعْمُولِ",
+          "lemma": "مَعْمُولٌ"
+        },
+        {
+          "w": "وَالْكَعْكِ",
+          "lemma": "كَعْكٌ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "مِحْوَرِيًّا",
+          "lemma": "مِحْوَرِيٌّ"
+        },
+        {
+          "w": "الِاحْتِفَالَاتِ",
+          "lemma": "احْتِفَالٌ / احْتِفَالَاتٌ"
+        },
+        {
+          "w": "تُقَدَّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "لِلضُّيُوفِ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "الْقَهْوَةِ",
+          "lemma": "قَهْوَةٌ / قَهَوَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَحْصُلُ الأَطْفَالُ عَلَى 'العِيدِيَّةِ'، وَهِيَ مَبْلَغٌ مَالِيٌّ صَغِيرٌ يُدْخِلُ السُّرُورَ عَلَى قُلُوبِهِمْ وَيَجْعَلُهُمْ يَنْتَظِرُونَ العِيدَ بِشَوْقٍ.",
+      "arabic": "يَحْصُلُ الأَطْفَالُ عَلَى 'الْعِيدِيَّةِ'، وَهِيَ مَبْلَغٌ مَالِيٌّ صَغِيرٌ يُدْخِلُ السُّرُورَ عَلَى قُلُوبِهِمْ وَيَجْعَلُهُمْ يَنْتَظِرُونَ الْعِيدَ بِشَوْقٍ.",
       "translation": "Djeca dobijaju 'bajramluk', što je mali novčani iznos koji unosi radost u njihova srca i tjera ih da s čežnjom iščekuju bajram.",
-      "translationEn": "Children receive 'Eidiya,' a small amount of money that brings joy to their hearts and makes them look forward to Eid with longing."
+      "translationEn": "Children receive 'Eidiya,' a small amount of money that brings joy to their hearts and makes them look forward to Eid with longing.",
+      "words": [
+        {
+          "w": "يَحْصُلُ",
+          "lemma": "حَصَلَ يَحْصُلُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "الْعِيدِيَّةِ",
+          "lemma": "عِيدِيَّةٌ"
+        },
+        {
+          "w": "مَبْلَغٌ",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        },
+        {
+          "w": "مَالِيٌّ",
+          "lemma": "مَالِيٌّ"
+        },
+        {
+          "w": "صَغِيرٌ",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "يُدْخِلُ",
+          "lemma": "أَدْخَلَ يُدْخِلُ"
+        },
+        {
+          "w": "السُّرُورَ",
+          "lemma": "سُرُورٌ"
+        },
+        {
+          "w": "قُلُوبِهِمْ",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "يَنْتَظِرُونَ",
+          "lemma": "انْتَظَرَ يَنْتَظِرُ"
+        },
+        {
+          "w": "الْعِيدَ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "بِشَوْقٍ",
+          "lemma": "شَوْقٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَعْكِسُ هَذِهِ الِاحْتِفَالَاتُ رُوحَ التَّسَامُحِ وَالتَّرَابُطِ الأُسَرِيِّ العَمِيقِ الَّذِي يُمَيِّزُ الثَّقَافَةَ الإِسْلَامِيَّةَ.",
+      "arabic": "تَعْكِسُ هَذِهِ الِاحْتِفَالَاتُ رُوحَ التَّسَامُحِ وَالتَّرَابُطِ الأُسَرِيِّ الْعَمِيقِ الَّذِي يُمَيِّزُ الثَّقَافَةَ الإِسْلَامِيَّةَ.",
       "translation": "Ove proslave odražavaju duh tolerancije i duboke porodične povezanosti koja karakteriše islamsku kulturu.",
-      "translationEn": "These celebrations reflect the spirit of tolerance and deep family bonding that characterizes Islamic culture."
+      "translationEn": "These celebrations reflect the spirit of tolerance and deep family bonding that characterizes Islamic culture.",
+      "words": [
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الِاحْتِفَالَاتُ",
+          "lemma": "احْتِفَالٌ / احْتِفَالَاتٌ"
+        },
+        {
+          "w": "رُوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "التَّسَامُحِ",
+          "lemma": "تَسَامُحٌ"
+        },
+        {
+          "w": "وَالتَّرَابُطِ",
+          "lemma": "تَرَابُطٌ"
+        },
+        {
+          "w": "الأُسَرِيِّ",
+          "lemma": "أُسَرِيٌّ"
+        },
+        {
+          "w": "الْعَمِيقِ",
+          "lemma": "عَمِيقٌ"
+        },
+        {
+          "w": "يُمَيِّزُ",
+          "lemma": "مَيَّزَ يُمَيِّزُ"
+        },
+        {
+          "w": "الثَّقَافَةَ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الإِسْلَامِيَّةَ",
+          "lemma": "إِسْلَامِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

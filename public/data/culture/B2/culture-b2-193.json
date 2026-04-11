@@ -4,29 +4,171 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَمْتَلِكُ الْمُوسِيقَى الْعَرَبِيَّةُ تَارِيخًا طَوِيلًا وَأَدَوَاتٍ فَرِيدَةً.",
+      "arabic": "تَمْتَلِكُ الْمُوسِيقَى الْعَرَبِيَّةُ تَارِيخًا طَوِيلًا وَأَدَوَاتٍ فَرِيدَةً.",
       "translation": "Arapska muzika ima dugu historiju i jedinstvene instrumente.",
-      "translationEn": "Arabic music has a long history and unique instruments."
+      "translationEn": "Arabic music has a long history and unique instruments.",
+      "words": [
+        {
+          "w": "تَمْتَلِكُ",
+          "lemma": "امْتَلَكَ يَمْتَلِكُ"
+        },
+        {
+          "w": "الْمُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "تَارِيخًا",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        },
+        {
+          "w": "طَوِيلًا",
+          "lemma": "طَوِيلٌ"
+        },
+        {
+          "w": "وَأَدَوَاتٍ",
+          "lemma": "أَدَاةٌ / أَدَوَاتٌ"
+        },
+        {
+          "w": "فَرِيدَةً",
+          "lemma": "فَرِيدٌ"
+        }
+      ]
     },
     {
-      "arabic": "يُعْتَبَرُ الْعُودُ مَلِكَ الْآلَاتِ الْمُوسِيقِيَّةِ فِي الشَّرْقِ.",
+      "arabic": "يُعْتَبَرُ الْعُودُ مَلِكَ الْآلَاتِ الْمُوسِيقِيَّةِ فِي الشَّرْقِ.",
       "translation": "Oud se smatra kraljem muzičkih instrumenata na Istoku.",
-      "translationEn": "The oud is considered the king of musical instruments in the East."
+      "translationEn": "The oud is considered the king of musical instruments in the East.",
+      "words": [
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "الْعُودُ",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        },
+        {
+          "w": "مَلِكَ",
+          "lemma": "مَلِكٌ / مُلُوكٌ"
+        },
+        {
+          "w": "الْآلَاتِ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "الْمُوسِيقِيَّةِ",
+          "lemma": "مُوسِيقِيٌّ"
+        },
+        {
+          "w": "الشَّرْقِ",
+          "lemma": "شَرْقٌ / أَشْرَاقٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَعْزِفُ الْفَنَّانُ عَلَى أَوْتَارِهِ أَلْحَانًا حَزِينَةً أَوْ سَعِيدَةً.",
+      "arabic": "يَعْزِفُ الْفَنَّانُ عَلَى أَوْتَارِهِ أَلْحَانًا حَزِينَةً أَوْ سَعِيدَةً.",
       "translation": "Umjetnik svira tužne ili vesele melodije na njegovim žicama.",
-      "translationEn": "The artist plays sad or happy melodies on its strings."
+      "translationEn": "The artist plays sad or happy melodies on its strings.",
+      "words": [
+        {
+          "w": "يَعْزِفُ",
+          "lemma": "عَزَفَ يَعْزِفُ"
+        },
+        {
+          "w": "الْفَنَّانُ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "أَوْتَارِهِ",
+          "lemma": "وَتَرٌ / أَوْتَارٌ"
+        },
+        {
+          "w": "أَلْحَانًا",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "حَزِينَةً",
+          "lemma": "حَزِينٌ"
+        },
+        {
+          "w": "سَعِيدَةً",
+          "lemma": "سَعِيدٌ"
+        }
+      ]
     },
     {
-      "arabic": "تُسْتَخْدَمُ هَذِهِ الْآلَةُ فِي الْحَفَلَاتِ الْعَامَّةِ وَالْمُنَاسَبَاتِ الْخَاصَّةِ.",
+      "arabic": "تُسْتَخْدَمُ هَذِهِ الْآلَةُ فِي الْحَفَلَاتِ الْعَامَّةِ وَالْمُنَاسَبَاتِ الْخَاصَّةِ.",
       "translation": "Ovaj instrument se koristi na javnim koncertima i privatnim prilikama.",
-      "translationEn": "This instrument is used in public concerts and private occasions."
+      "translationEn": "This instrument is used in public concerts and private occasions.",
+      "words": [
+        {
+          "w": "تُسْتَخْدَمُ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "الْآلَةُ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "الْحَفَلَاتِ",
+          "lemma": "حَفْلَةٌ / حَفَلَاتٌ"
+        },
+        {
+          "w": "الْعَامَّةِ",
+          "lemma": "عَامٌّ"
+        },
+        {
+          "w": "وَالْمُنَاسَبَاتِ",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        },
+        {
+          "w": "الْخَاصَّةِ",
+          "lemma": "خَاصٌّ"
+        }
+      ]
     },
     {
-      "arabic": "يَسْتَمْتِعُ النَّاسُ بِسَمَاعِ صَوْتِ الْعُودِ لِأَنَّهُ يَلْمِسُ الْقَلْبَ.",
+      "arabic": "يَسْتَمْتِعُ النَّاسُ بِسَمَاعِ صَوْتِ الْعُودِ لِأَنَّهُ يَلْمِسُ الْقَلْبَ.",
       "translation": "Ljudi uživaju slušajući zvuk ouda jer dotiče srce.",
-      "translationEn": "People enjoy listening to the sound of the oud because it touches the heart."
+      "translationEn": "People enjoy listening to the sound of the oud because it touches the heart.",
+      "words": [
+        {
+          "w": "يَسْتَمْتِعُ",
+          "lemma": "اسْتَمْتَعَ يَسْتَمْتِعُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        },
+        {
+          "w": "بِسَمَاعِ",
+          "lemma": "سَمَاعٌ"
+        },
+        {
+          "w": "صَوْتِ",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "الْعُودِ",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        },
+        {
+          "w": "لِأَنَّهُ",
+          "lemma": "لِأَنَّ"
+        },
+        {
+          "w": "يَلْمِسُ",
+          "lemma": "لَمَسَ يَلْمِسُ"
+        },
+        {
+          "w": "الْقَلْبَ",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        }
+      ]
     }
   ],
   "metadata": {

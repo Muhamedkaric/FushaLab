@@ -9,8 +9,52 @@
       "translationEn": "Modern educational curricula aim to develop critical thinking skills instead of relying on rote learning and memorization.",
       "words": [
         {
+          "w": "تَهْدِفُ",
+          "lemma": "هَدَفَ يَهْدِفُ"
+        },
+        {
+          "w": "الْمَنَاهِجُ",
+          "lemma": "مَنْهَجٌ / مَنَاهِجُ"
+        },
+        {
+          "w": "التَّعْلِيمِيَّةُ",
+          "lemma": "تَعْلِيمِيٌّ"
+        },
+        {
+          "w": "الْحَدِيثَةُ",
+          "lemma": "حَدِيثٌ"
+        },
+        {
+          "w": "تَنْمِيَةِ",
+          "lemma": "تَنْمِيَةٌ"
+        },
+        {
+          "w": "مَهَارَاتِ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        },
+        {
+          "w": "التَّفْكِيرِ",
+          "lemma": "تَفْكِيرٌ"
+        },
+        {
+          "w": "النَّقْدِيِّ",
+          "lemma": "نَقْدِيٌّ"
+        },
+        {
           "w": "بَدَلًا",
           "lemma": "بَدَلَ"
+        },
+        {
+          "w": "الِاعْتِمَادِ",
+          "lemma": "اِعْتِمَادٌ"
+        },
+        {
+          "w": "التَّلْقِينِ",
+          "lemma": "تَلْقِينٌ"
+        },
+        {
+          "w": "وَالْحِفْظِ",
+          "lemma": "حِفْظٌ"
         }
       ]
     },
@@ -18,25 +62,177 @@
       "arabic": "يُشَجَّعُ الطُّلَّابُ عَلَى تَحْلِيلِ الْمَعْلُومَاتِ مِنْ مَصَادِرَ مُتَنَوِّعَةٍ لِلْوُصُولِ إِلَى اسْتِنْتَاجَاتٍ مَنْطِقِيَّةٍ.",
       "translation": "Učenici se podstiču da analiziraju informacije iz različitih izvora kako bi došli do logičkih zaključaka.",
       "translationEn": "Students are encouraged to analyze information from diverse sources to reach logical conclusions.",
-      "words": []
+      "words": [
+        {
+          "w": "يُشَجَّعُ",
+          "lemma": "شَجَّعَ يُشَجِّعُ"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "تَحْلِيلِ",
+          "lemma": "تَحْلِيلٌ"
+        },
+        {
+          "w": "الْمَعْلُومَاتِ",
+          "lemma": "مَعْلُومَةٌ / مَعْلُومَاتٌ"
+        },
+        {
+          "w": "مَصَادِرَ",
+          "lemma": "مَصْدَرٌ / مَصَادِرُ"
+        },
+        {
+          "w": "مُتَنَوِّعَةٍ",
+          "lemma": "مُتَنَوِّعٌ"
+        },
+        {
+          "w": "لِلْوُصُولِ",
+          "lemma": "وُصُولٌ"
+        },
+        {
+          "w": "اسْتِنْتَاجَاتٍ",
+          "lemma": "اسْتِنْتَاجٌ / اسْتِنْتَاجَاتٌ"
+        },
+        {
+          "w": "مَنْطِقِيَّةٍ",
+          "lemma": "مَنْطِقِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يَلْعَبُ الْمُعَلِّمُ دَوْرَ الْمُيَسِّرِ لِلْحِوَارِ، مِمَّا يَفْتَحُ آفَاقًا جَدِيدَةً لِلنِّقَاشِ دَاخِلَ الْفَصْلِ الدِّرَاسِيِّ.",
       "translation": "Nastavnik igra ulogu fasilitatora dijaloga, što otvara nove horizonte za diskusiju unutar učionice.",
       "translationEn": "The teacher plays the role of a dialogue facilitator, which opens new horizons for discussion within the classroom.",
-      "words": []
+      "words": [
+        {
+          "w": "يَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الْمُعَلِّمُ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "دَوْرَ",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "الْمُيَسِّرِ",
+          "lemma": "مُيَسِّرٌ / مُيَسِّرُونَ"
+        },
+        {
+          "w": "لِلْحِوَارِ",
+          "lemma": "حِوَارٌ / حِوَارَاتٌ"
+        },
+        {
+          "w": "يَفْتَحُ",
+          "lemma": "فَتَحَ يَفْتَحُ"
+        },
+        {
+          "w": "آفَاقًا",
+          "lemma": "أُفُقٌ / آفَاقٌ"
+        },
+        {
+          "w": "جَدِيدَةً",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "لِلنِّقَاشِ",
+          "lemma": "نِقَاشٌ / نِقَاشَاتٌ"
+        },
+        {
+          "w": "الْفَصْلِ",
+          "lemma": "فَصْلٌ / فُصُولٌ"
+        },
+        {
+          "w": "الدِّرَاسِيِّ",
+          "lemma": "دِرَاسِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "هَذَا النَّهْجُ يُسَاعِدُ فِي بِنَاءِ شَخْصِيَّةٍ قَوِيَّةٍ قَادِرَةٍ عَلَى مُوَاجَهَةِ تَحَدِّيَاتِ الْمُسْتَقْبَلِ بِثِقَةٍ.",
       "translation": "Ovaj pristup pomaže u izgradnji snažne ličnosti sposobne da se s povjerenjem suoči s budućim izazovima.",
       "translationEn": "This approach helps in building a strong personality capable of facing future challenges with confidence.",
-      "words": []
+      "words": [
+        {
+          "w": "النَّهْجُ",
+          "lemma": "نَهْجٌ / مَنَاهِجُ"
+        },
+        {
+          "w": "يُسَاعِدُ",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "بِنَاءِ",
+          "lemma": "بِنَاءٌ"
+        },
+        {
+          "w": "شَخْصِيَّةٍ",
+          "lemma": "شَخْصِيَّةٌ / شَخْصِيَّاتٌ"
+        },
+        {
+          "w": "قَوِيَّةٍ",
+          "lemma": "قَوِيٌّ"
+        },
+        {
+          "w": "قَادِرَةٍ",
+          "lemma": "قَادِرٌ"
+        },
+        {
+          "w": "مُوَاجَهَةِ",
+          "lemma": "مُوَاجَهَةٌ"
+        },
+        {
+          "w": "تَحَدِّيَاتِ",
+          "lemma": "تَحَدٍّ / تَحَدِّيَاتٌ"
+        },
+        {
+          "w": "الْمُسْتَقْبَلِ",
+          "lemma": "مُسْتَقْبَلٌ"
+        },
+        {
+          "w": "بِثِقَةٍ",
+          "lemma": "ثِقَةٌ"
+        }
+      ]
     },
     {
       "arabic": "إِنَّ التَّعْلِيمَ الْفَعَّالَ هُوَ الَّذِي يَجْعَلُ التِّلْمِيذَ مِحْوَرَ الْعَمَلِيَّةِ التَّرْبَوِيَّةِ بِأَكْمَلِهَا.",
       "translation": "Efikasno obrazovanje je ono koje učenika čini centrom cjelokupnog obrazovnog procesa.",
       "translationEn": "Effective education is that which makes the student the center of the entire educational process.",
-      "words": []
+      "words": [
+        {
+          "w": "التَّعْلِيمَ",
+          "lemma": "تَعْلِيمٌ"
+        },
+        {
+          "w": "الْفَعَّالَ",
+          "lemma": "فَعَّالٌ"
+        },
+        {
+          "w": "يَجْعَلُ",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "التِّلْمِيذَ",
+          "lemma": "تِلْمِيذٌ / تَلَامِيذُ"
+        },
+        {
+          "w": "مِحْوَرَ",
+          "lemma": "مِحْوَرٌ / مَحَاوِرُ"
+        },
+        {
+          "w": "الْعَمَلِيَّةِ",
+          "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ"
+        },
+        {
+          "w": "التَّرْبَوِيَّةِ",
+          "lemma": "تَرْبَوِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

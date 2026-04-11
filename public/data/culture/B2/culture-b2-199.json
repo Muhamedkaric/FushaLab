@@ -4,29 +4,159 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعْتَبَرُ آلَةُ العُودِ رَمْزًا لِلمُوسِيقَى العَرَبِيَّةِ الكَلَاسِيكِيَّةِ.",
+      "arabic": "تُعْتَبَرُ آلَةُ العُودِ رَمْزًا لِلمُوسِيقَى العَرَبِيَّةِ الكَلَاسِيكِيَّةِ.",
       "translation": "Instrument oud se smatra simbolom klasične arapske muzike.",
-      "translationEn": "The oud instrument is considered a symbol of classical Arabic music."
+      "translationEn": "The oud instrument is considered a symbol of classical Arabic music.",
+      "words": [
+        {
+          "w": "تُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "آلَةُ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "العُودِ",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        },
+        {
+          "w": "رَمْزًا",
+          "lemma": "رَمْزٌ / رُمُوزٌ"
+        },
+        {
+          "w": "لِلمُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "العَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "الكَلَاسِيكِيَّةِ",
+          "lemma": "كَلَاسِيكِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "صَوْتُ العُودِ عَمِيقٌ وَيَبْعَثُ الهُدُوءَ فِي النَّفْسِ.",
+      "arabic": "صَوْتُ العُودِ عَمِيقٌ وَيَبْعَثُ الهُدُوءَ فِي النَّفْسِ.",
       "translation": "Zvuk ouda je dubok i unosi mir u dušu.",
-      "translationEn": "The sound of the oud is deep and brings peace to the soul."
+      "translationEn": "The sound of the oud is deep and brings peace to the soul.",
+      "words": [
+        {
+          "w": "صَوْتُ",
+          "lemma": "صَوْتٌ / أَصْوَاتٌ"
+        },
+        {
+          "w": "العُودِ",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        },
+        {
+          "w": "عَمِيقٌ",
+          "lemma": "عَمِيقٌ"
+        },
+        {
+          "w": "وَيَبْعَثُ",
+          "lemma": "بَعَثَ يَبْعَثُ"
+        },
+        {
+          "w": "الهُدُوءَ",
+          "lemma": "هُدُوءٌ"
+        },
+        {
+          "w": "النَّفْسِ",
+          "lemma": "نَفْسٌ / أَنْفُسٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَعَلَّمَ العَدِيدُ مِنَ الفَنَّانِينَ العَزْفَ عَلَيْهِ مُنْذُ القِدَمِ.",
+      "arabic": "تَعَلَّمَ العَدِيدُ مِنَ الفَنَّانِينَ العَزْفَ عَلَيْهِ مُنْذُ القِدَمِ.",
       "translation": "Mnogi umjetnici su od davnina učili svirati na njemu.",
-      "translationEn": "Many artists have learned to play it since ancient times."
+      "translationEn": "Many artists have learned to play it since ancient times.",
+      "words": [
+        {
+          "w": "تَعَلَّمَ",
+          "lemma": "تَعَلَّمَ يَتَعَلَّمُ"
+        },
+        {
+          "w": "العَدِيدُ",
+          "lemma": "عَدِيدٌ"
+        },
+        {
+          "w": "الفَنَّانِينَ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "العَزْفَ",
+          "lemma": "عَزْفٌ"
+        },
+        {
+          "w": "القِدَمِ",
+          "lemma": "قِدَمٌ"
+        }
+      ]
     },
     {
-      "arabic": "يُرَافِقُ العُودُ الأَغَانِي الشَّعْبِيَّةَ فِي المُنَاسَبَاتِ السَّعِيدَةِ.",
+      "arabic": "يُرَافِقُ العُودُ الأَغَانِي الشَّعْبِيَّةَ فِي المُنَاسَبَاتِ السَّعِيدَةِ.",
       "translation": "Oud prati narodne pjesme u sretnim prilikama.",
-      "translationEn": "The oud accompanies folk songs on happy occasions."
+      "translationEn": "The oud accompanies folk songs on happy occasions.",
+      "words": [
+        {
+          "w": "يُرَافِقُ",
+          "lemma": "رَافَقَ يُرَافِقُ"
+        },
+        {
+          "w": "العُودُ",
+          "lemma": "عُودٌ / عِيدَانٌ"
+        },
+        {
+          "w": "الأَغَانِي",
+          "lemma": "أُغْنِيَةٌ / أَغَانٍ"
+        },
+        {
+          "w": "الشَّعْبِيَّةَ",
+          "lemma": "شَعْبِيٌّ"
+        },
+        {
+          "w": "المُنَاسَبَاتِ",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        },
+        {
+          "w": "السَّعِيدَةِ",
+          "lemma": "سَعِيدٌ"
+        }
+      ]
     },
     {
-      "arabic": "يُحِبُّ النَّاسُ الِاسْتِمَاعَ إِلَى أَلْحَانِهِ فِي المَقَاهِي التَّقْلِيدِيَّةِ.",
+      "arabic": "يُحِبُّ النَّاسُ الِاسْتِمَاعَ إِلَى أَلْحَانِهِ فِي المَقَاهِي التَّقْلِيدِيَّةِ.",
       "translation": "Ljudi vole slušati njegove melodije u tradicionalnim kafanama.",
-      "translationEn": "People love listening to its melodies in traditional cafes."
+      "translationEn": "People love listening to its melodies in traditional cafes.",
+      "words": [
+        {
+          "w": "يُحِبُّ",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        },
+        {
+          "w": "الِاسْتِمَاعَ",
+          "lemma": "اسْتِمَاعٌ"
+        },
+        {
+          "w": "أَلْحَانِهِ",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "المَقَاهِي",
+          "lemma": "مَقْهَى / مَقَاهٍ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةِ",
+          "lemma": "تَقْلِيدِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

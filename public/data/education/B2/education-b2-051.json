@@ -4,29 +4,96 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الْمِنَحُ الدِّرَاسِيَّةُ بَوَّابَةً ذَهَبِيَّةً لِلطُّلَّابِ الطَّمُوحِينَ الَّذِينَ يَسْعَوْنَ لِتَحْصِيلِ الْعِلْمِ فِي أَرْقَى الْجَامِعَاتِ الْعَالَمِيَّةِ.",
+      "arabic": "تُعَدُّ الْمِنَحُ الدِّرَاسِيَّةُ بَوَّابَةً ذَهَبِيَّةً لِلطُّلَّابِ الطَّمُوحِينَ الَّذِينَ يَسْعَوْنَ لِتَحْصِيلِ الْعِلْمِ فِي أَرْقَى الْجَامِعَاتِ الْعَالَمِيَّةِ.",
       "translation": "Stipendije se smatraju zlatnim vratima za ambiciozne studente koji teže sticanju znanja na najprestižnijim svjetskim univerzitetima.",
-      "translationEn": "Scholarships are considered a golden gateway for ambitious students seeking to acquire knowledge at the most prestigious international universities."
+      "translationEn": "Scholarships are considered a golden gateway for ambitious students seeking to acquire knowledge at the most prestigious international universities.",
+      "words": [
+        { "w": "الْمِنَحُ", "lemma": "مِنْحَةٌ / مِنَحٌ" },
+        { "w": "الدِّرَاسِيَّةُ", "lemma": "دِرَاسِيٌّ" },
+        { "w": "بَوَّابَةً", "lemma": "بَوَّابَةٌ / بَوَّابَاتٌ" },
+        { "w": "ذَهَبِيَّةً", "lemma": "ذَهَبِيٌّ" },
+        { "w": "لِلطُّلَّابِ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "الطَّمُوحِينَ", "lemma": "طَمُوحٌ" },
+        { "w": "يَسْعَوْنَ", "lemma": "سَعَى يَسْعَى" },
+        { "w": "لِتَحْصِيلِ", "lemma": "تَحْصِيلٌ" },
+        { "w": "الْعِلْمِ", "lemma": "عِلْمٌ / عُلُومٌ" },
+        { "w": "الْجَامِعَاتِ", "lemma": "جَامِعَةٌ / جَامِعَاتٌ" },
+        { "w": "الْعَالَمِيَّةِ", "lemma": "عَالَمِيٌّ" }
+      ]
     },
     {
-      "arabic": "وَلَا تَقْتَصِرُ هَذِهِ الْمِنَحُ عَلَى الدَّعْمِ الْمَالِيِّ فَحَسْبُ، بَلْ تَمْنَحُ الْمُتَفَوِّقِينَ فُرْصَةً لِلِانْدِمَاجِ فِي بِيئَاتٍ ثَقَافِيَّةٍ مُتَنَوِّعَةٍ.",
+      "arabic": "وَلَا تَقْتَصِرُ هَذِهِ الْمِنَحُ عَلَى الدَّعْمِ الْمَالِيِّ فَحَسْبُ، بَلْ تَمْنَحُ الْمُتَفَوِّقِينَ فُرْصَةً لِلِانْدِمَاجِ فِي بِيئَاتٍ ثَقَافِيَّةٍ مُتَنَوِّعَةٍ.",
       "translation": "Ove stipendije nisu ograničene samo na finansijsku podršku, već pružaju izvrsnim pojedincima priliku za integraciju u različite kulturne sredine.",
-      "translationEn": "These scholarships are not limited to financial support alone; they also grant high achievers an opportunity to integrate into diverse cultural environments."
+      "translationEn": "These scholarships are not limited to financial support alone; they also grant high achievers an opportunity to integrate into diverse cultural environments.",
+      "words": [
+        { "w": "تَقْتَصِرُ", "lemma": "اقْتَصَرَ يَقْتَصِرُ" },
+        { "w": "الْمِنَحُ", "lemma": "مِنْحَةٌ / مِنَحٌ" },
+        { "w": "الدَّعْمِ", "lemma": "دَعْمٌ" },
+        { "w": "الْمَالِيِّ", "lemma": "مَالِيٌّ" },
+        { "w": "تَمْنَحُ", "lemma": "مَنَحَ يَمْنَحُ" },
+        { "w": "الْمُتَفَوِّقِينَ", "lemma": "مُتَفَوِّقٌ / مُتَفَوِّقُونَ" },
+        { "w": "فُرْصَةً", "lemma": "فُرْصَةٌ / فُرَصٌ" },
+        { "w": "لِلِانْدِمَاجِ", "lemma": "انْدِمَاجٌ" },
+        { "w": "بِيئَاتٍ", "lemma": "بِيئَةٌ / بِيئَاتٌ" },
+        { "w": "ثَقَافِيَّةٍ", "lemma": "ثَقَافِيٌّ" },
+        { "w": "مُتَنَوِّعَةٍ", "lemma": "مُتَنَوِّعٌ" }
+      ]
     },
     {
-      "arabic": "يَتَطَلَّبُ الْحُصُولُ عَلَيْهَا سِجِلًّا أَكَادِيمِيًّا مُتَمَيِّزًا وَرُوحًا قِيَادِيَّةً تَتَجَلَّى فِي الْمُشَارَكَةِ الْمُجْتَمَعِيَّةِ وَالْأَنْشِطَةِ اللَّامَنْهَجِيَّةِ.",
+      "arabic": "يَتَطَلَّبُ الْحُصُولُ عَلَيْهَا سِجِلًّا أَكَادِيمِيًّا مُتَمَيِّزًا وَرُوحًا قِيَادِيَّةً تَتَجَلَّى فِي الْمُشَارَكَةِ الْمُجْتَمَعِيَّةِ وَالْأَنْشِطَةِ اللَّامَنْهَجِيَّةِ.",
       "translation": "Dobijanje stipendije zahtijeva izvanredan akademski uspjeh i liderski duh koji se ogleda u društvenom angažmanu i vannastavnim aktivnostima.",
-      "translationEn": "Obtaining them requires a distinguished academic record and a leadership spirit manifested in community participation and extracurricular activities."
+      "translationEn": "Obtaining them requires a distinguished academic record and a leadership spirit manifested in community participation and extracurricular activities.",
+      "words": [
+        { "w": "يَتَطَلَّبُ", "lemma": "تَطَلَّبَ يَتَطَلَّبُ" },
+        { "w": "الْحُصُولُ", "lemma": "حُصُولٌ" },
+        { "w": "سِجِلًّا", "lemma": "سِجِلٌّ / سِجِلَّاتٌ" },
+        { "w": "أَكَادِيمِيًّا", "lemma": "أَكَادِيمِيٌّ" },
+        { "w": "مُتَمَيِّزًا", "lemma": "مُتَمَيِّزٌ / مُتَمَيِّزُونَ" },
+        { "w": "وَرُوحًا", "lemma": "رُوحٌ / أَرْوَاحٌ" },
+        { "w": "قِيَادِيَّةً", "lemma": "قِيَادِيٌّ" },
+        { "w": "تَتَجَلَّى", "lemma": "تَجَلَّى يَتَجَلَّى" },
+        { "w": "الْمُشَارَكَةِ", "lemma": "مُشَارَكَةٌ" },
+        { "w": "الْمُجْتَمَعِيَّةِ", "lemma": "مُجْتَمَعِيٌّ" },
+        { "w": "وَالْأَنْشِطَةِ", "lemma": "نَشَاطٌ / أَنْشِطَةٌ" },
+        { "w": "اللَّامَنْهَجِيَّةِ", "lemma": "لَامَنْهَجِيٌّ" }
+      ]
     },
     {
-      "arabic": "كَمَا أَنَّ كِتَابَةَ خِطَابِ النِّيَّةِ بِشَكْلٍ مُؤَثِّرٍ تَلْعَبُ دَوْرًا حَاسِمًا فِي إِقْنَاعِ لِجَانِ الِاخْتِيَارِ بِقُدُرَاتِ الْمُرَشَّحِ.",
+      "arabic": "كَمَا أَنَّ كِتَابَةَ خِطَابِ النِّيَّةِ بِشَكْلٍ مُؤَثِّرٍ تَلْعَبُ دَوْرًا حَاسِمًا فِي إِقْنَاعِ لِجَانِ الِاخْتِيَارِ بِقُدُرَاتِ الْمُرَشَّحِ.",
       "translation": "Također, pisanje upečatljivog motivacionog pisma igra presudnu ulogu u uvjeravanju komisija za odabir u sposobnosti kandidata.",
-      "translationEn": "Additionally, writing an effective letter of intent plays a crucial role in convincing selection committees of the candidate's abilities."
+      "translationEn": "Additionally, writing an effective letter of intent plays a crucial role in convincing selection committees of the candidate's abilities.",
+      "words": [
+        { "w": "كِتَابَةَ", "lemma": "كِتَابَةٌ" },
+        { "w": "خِطَابِ", "lemma": "خِطَابٌ / خِطَابَاتٌ" },
+        { "w": "النِّيَّةِ", "lemma": "نِيَّةٌ / نِيَّاتٌ" },
+        { "w": "مُؤَثِّرٍ", "lemma": "مُؤَثِّرٌ" },
+        { "w": "تَلْعَبُ", "lemma": "لَعِبَ يَلْعَبُ" },
+        { "w": "دَوْرًا", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "حَاسِمًا", "lemma": "حَاسِمٌ" },
+        { "w": "إِقْنَاعِ", "lemma": "إِقْنَاعٌ" },
+        { "w": "لِجَانِ", "lemma": "لَجْنَةٌ / لِجَانٌ" },
+        { "w": "الِاخْتِيَارِ", "lemma": "اخْتِيَارٌ" },
+        { "w": "بِقُدُرَاتِ", "lemma": "قُدْرَةٌ / قُدُرَاتٌ" },
+        { "w": "الْمُرَشَّحِ", "lemma": "مُرَشَّحٌ / مُرَشَّحُونَ" }
+      ]
     },
     {
-      "arabic": "فِي النِّهَايَةِ، تَبْقَى الْمِنَحُ حَافِزًا قَوِيًّا يَدْفَعُ الشَّبَابَ نَحْوَ التَّمَيُّزِ وَالْإِبْدَاعِ لِخِدْمَةِ أَوْطَانِهِمْ.",
+      "arabic": "فِي النِّهَايَةِ، تَبْقَى الْمِنَحُ حَافِزًا قَوِيًّا يَدْفَعُ الشَّبَابَ نَحْوَ التَّمَيُّزِ وَالْإِبْدَاعِ لِخِدْمَةِ أَوْطَانِهِمْ.",
       "translation": "Na kraju, stipendije ostaju snažan podsticaj koji mlade pokreće ka izvrsnosti i inovativnosti u službi njihove domovine.",
-      "translationEn": "Ultimately, scholarships remain a strong incentive that drives youth toward excellence and creativity to serve their homelands."
+      "translationEn": "Ultimately, scholarships remain a strong incentive that drives youth toward excellence and creativity to serve their homelands.",
+      "words": [
+        { "w": "النِّهَايَةِ", "lemma": "نِهَايَةٌ" },
+        { "w": "تَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "الْمِنَحُ", "lemma": "مِنْحَةٌ / مِنَحٌ" },
+        { "w": "حَافِزًا", "lemma": "حَافِزٌ / حَوَافِزُ" },
+        { "w": "قَوِيًّا", "lemma": "قَوِيٌّ" },
+        { "w": "يَدْفَعُ", "lemma": "دَفَعَ يَدْفَعُ" },
+        { "w": "الشَّبَابَ", "lemma": "شَبَابٌ" },
+        { "w": "التَّمَيُّزِ", "lemma": "تَمَيُّزٌ" },
+        { "w": "وَالْإِبْدَاعِ", "lemma": "إِبْدَاعٌ" },
+        { "w": "لِخِدْمَةِ", "lemma": "خِدْمَةٌ / خِدْمَاتٌ" },
+        { "w": "أَوْطَانِهِمْ", "lemma": "وَطَنٌ / أَوْطَانٌ" }
+      ]
     }
   ],
   "metadata": {

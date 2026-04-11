@@ -4,39 +4,263 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَلْعَبُ الْمُعَلِّمُ دَوْرًا مِحْوَرِيًّا فِي صِيَاغَةِ عُقُولِ الطُّلَّابِ وَتَوْجِيهِ مَسَارَاتِهِمْ لِلْمُسْتَقْبَلِ.",
+      "arabic": "يَلْعَبُ الْمُعَلِّمُ دَوْرًا مِحْوَرِيًّا فِي صِيَاغَةِ عُقُولِ الطُّلَّابِ وَتَوْجِيهِ مَسَارَاتِهِمْ لِلْمُسْتَقْبَلِ.",
       "translation": "Učitelj igra ključnu ulogu u oblikovanju umova učenika i usmjeravanju njihovih puteva ka budućnosti.",
       "translationEn": "The teacher plays a pivotal role in shaping students' minds and directing their paths for the future.",
-      "words": []
-    },
-    {
-      "arabic": "لَا تَقْتَصِرُ مَهَمَّةُ الْمُرَبِّي عَلَى نَقْلِ الْمَعْلُومَاتِ فَقَطْ، بَلْ تَمْتَدُّ لِتَشْمَلَ غَرْسَ الْقِيَمِ وَالْأَخْلَاقِ الْحَمِيدَةِ.",
-      "translation": "Zadatak odgajatelja nije ograničen samo na prenošenje informacija, već se proteže na usađivanje vrijednosti i lijepog ponašanja.",
-      "translationEn": "An educator's task is not limited to transmitting information only, but extends to include instilling values and good morals.",
       "words": [
         {
-          "w": "فَقَطْ",
-          "lemma": "فَقَطْ"
+          "w": "يَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الْمُعَلِّمُ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "مِحْوَرِيًّا",
+          "lemma": "مِحْوَرِيٌّ"
+        },
+        {
+          "w": "صِيَاغَةِ",
+          "lemma": "صِيَاغَةٌ"
+        },
+        {
+          "w": "عُقُولِ",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "وَتَوْجِيهِ",
+          "lemma": "تَوْجِيهٌ"
+        },
+        {
+          "w": "مَسَارَاتِهِمْ",
+          "lemma": "مَسَارٌ / مَسَارَاتٌ"
+        },
+        {
+          "w": "لِلْمُسْتَقْبَلِ",
+          "lemma": "مُسْتَقْبَلٌ"
         }
       ]
     },
     {
-      "arabic": "يَبْذُلُ الْمُدَرِّسُونَ جُهُودًا مَضْنِيَةً لِتَبْسِيطِ الْمَفَاهِيمِ الْمُعَقَّدَةِ وَجَعْلِ عَمَلِيَّةِ التَّعَلُّمِ تَجْرِبَةً مُمْتِعَةً وَمُحَفِّزَةً.",
+      "arabic": "لَا تَقْتَصِرُ مَهَمَّةُ الْمُرَبِّي عَلَى نَقْلِ الْمَعْلُومَاتِ فَقَطْ، بَلْ تَمْتَدُّ لِتَشْمَلَ غَرْسَ الْقِيَمِ وَالْأَخْلَاقِ الْحَمِيدَةِ.",
+      "translation": "Zadatak odgajatelja nije ograničen samo na prenošenje informacija, već se proteže na usađivanje vrijednosti i lijepog ponašanja.",
+      "translationEn": "An educator's task is not limited to transmitting information only, but extends to include instilling values and good morals.",
+      "words": [
+        {
+          "w": "تَقْتَصِرُ",
+          "lemma": "اقْتَصَرَ يَقْتَصِرُ"
+        },
+        {
+          "w": "مَهَمَّةُ",
+          "lemma": "مَهَمَّةٌ / مَهَامُّ"
+        },
+        {
+          "w": "الْمُرَبِّي",
+          "lemma": "مُرَبٍّ / مُرَبُّونَ"
+        },
+        {
+          "w": "نَقْلِ",
+          "lemma": "نَقْلٌ"
+        },
+        {
+          "w": "الْمَعْلُومَاتِ",
+          "lemma": "مَعْلُومَةٌ / مَعْلُومَاتٌ"
+        },
+        {
+          "w": "فَقَطْ",
+          "lemma": "فَقَطْ"
+        },
+        {
+          "w": "تَمْتَدُّ",
+          "lemma": "امْتَدَّ يَمْتَدُّ"
+        },
+        {
+          "w": "لِتَشْمَلَ",
+          "lemma": "شَمِلَ يَشْمَلُ"
+        },
+        {
+          "w": "غَرْسَ",
+          "lemma": "غَرْسٌ"
+        },
+        {
+          "w": "الْقِيَمِ",
+          "lemma": "قِيمَةٌ / قِيَمٌ"
+        },
+        {
+          "w": "وَالْأَخْلَاقِ",
+          "lemma": "خُلُقٌ / أَخْلَاقٌ"
+        },
+        {
+          "w": "الْحَمِيدَةِ",
+          "lemma": "حَمِيدٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَبْذُلُ الْمُدَرِّسُونَ جُهُودًا مَضْنِيَةً لِتَبْسِيطِ الْمَفَاهِيمِ الْمُعَقَّدَةِ وَجَعْلِ عَمَلِيَّةِ التَّعَلُّمِ تَجْرِبَةً مُمْتِعَةً وَمُحَفِّزَةً.",
       "translation": "Nastavnici ulažu naporne trudove kako bi pojednostavili složene koncepte i učinili proces učenja ugodnim i stimulativnim iskustvom.",
       "translationEn": "Teachers exert strenuous efforts to simplify complex concepts and make the learning process an enjoyable and stimulating experience.",
-      "words": []
+      "words": [
+        {
+          "w": "يَبْذُلُ",
+          "lemma": "بَذَلَ يَبْذُلُ"
+        },
+        {
+          "w": "الْمُدَرِّسُونَ",
+          "lemma": "مُدَرِّسٌ / مُدَرِّسُونَ"
+        },
+        {
+          "w": "جُهُودًا",
+          "lemma": "جَهْدٌ / جُهُودٌ"
+        },
+        {
+          "w": "مَضْنِيَةً",
+          "lemma": "مَضْنٍ"
+        },
+        {
+          "w": "لِتَبْسِيطِ",
+          "lemma": "تَبْسِيطٌ"
+        },
+        {
+          "w": "الْمَفَاهِيمِ",
+          "lemma": "مَفْهُومٌ / مَفَاهِيمُ"
+        },
+        {
+          "w": "الْمُعَقَّدَةِ",
+          "lemma": "مُعَقَّدٌ"
+        },
+        {
+          "w": "وَجَعْلِ",
+          "lemma": "جَعْلٌ"
+        },
+        {
+          "w": "عَمَلِيَّةِ",
+          "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ"
+        },
+        {
+          "w": "التَّعَلُّمِ",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "تَجْرِبَةً",
+          "lemma": "تَجْرِبَةٌ / تَجَارِبُ"
+        },
+        {
+          "w": "مُمْتِعَةً",
+          "lemma": "مُمْتِعٌ"
+        },
+        {
+          "w": "وَمُحَفِّزَةً",
+          "lemma": "مُحَفِّزٌ"
+        }
+      ]
     },
     {
-      "arabic": "مِنَ الضَّرُورِيِّ تَقْدِيرُ هَذِهِ الْمِهْنَةِ السَّامِيَةِ وَتَوْفِيرُ الدَّعْمِ اللَّازِمِ لِلْكِوَادِرِ التَّعْلِيمِيَّةِ لِتَطْوِيرِ مَهَارَاتِهِمْ.",
+      "arabic": "مِنَ الضَّرُورِيِّ تَقْدِيرُ هَذِهِ الْمِهْنَةِ السَّامِيَةِ وَتَوْفِيرُ الدَّعْمِ اللَّازِمِ لِلْكِوَادِرِ التَّعْلِيمِيَّةِ لِتَطْوِيرِ مَهَارَاتِهِمْ.",
       "translation": "Neophodno je cijeniti ovu plemenitu profesiju i pružiti neophodnu podršku obrazovnom kadru za razvoj njihovih vještina.",
       "translationEn": "It is necessary to appreciate this noble profession and provide the necessary support for educational staff to develop their skills.",
-      "words": []
+      "words": [
+        {
+          "w": "الضَّرُورِيِّ",
+          "lemma": "ضَرُورِيٌّ"
+        },
+        {
+          "w": "تَقْدِيرُ",
+          "lemma": "تَقْدِيرٌ"
+        },
+        {
+          "w": "الْمِهْنَةِ",
+          "lemma": "مِهْنَةٌ / مِهَنٌ"
+        },
+        {
+          "w": "السَّامِيَةِ",
+          "lemma": "سَامٍ"
+        },
+        {
+          "w": "وَتَوْفِيرُ",
+          "lemma": "تَوْفِيرٌ"
+        },
+        {
+          "w": "الدَّعْمِ",
+          "lemma": "دَعْمٌ"
+        },
+        {
+          "w": "اللَّازِمِ",
+          "lemma": "لَازِمٌ"
+        },
+        {
+          "w": "لِلْكِوَادِرِ",
+          "lemma": "كَادِرٌ / كَوَادِرُ"
+        },
+        {
+          "w": "التَّعْلِيمِيَّةِ",
+          "lemma": "تَعْلِيمِيٌّ"
+        },
+        {
+          "w": "لِتَطْوِيرِ",
+          "lemma": "تَطْوِيرٌ"
+        },
+        {
+          "w": "مَهَارَاتِهِمْ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "فَإِنَّ تَقَدُّمَ الْمُجْتَمَعَاتِ يُقَاسُ بِمَدَى اهْتِمَامِهَا بِالْمُعَلِّمِ وَتَهْيِئَةِ الظُّرُوفِ الْمُنَاسِبَةِ لِإِبْدَاعِهِ.",
+      "arabic": "فَإِنَّ تَقَدُّمَ الْمُجْتَمَعَاتِ يُقَاسُ بِمَدَى اهْتِمَامِهَا بِالْمُعَلِّمِ وَتَهْيِئَةِ الظُّرُوفِ الْمُنَاسِبَةِ لِإِبْدَاعِهِ.",
       "translation": "Napredak društava mjeri se stepenom njihove brige za učitelja i stvaranjem odgovarajućih uslova za njegovu kreativnost.",
       "translationEn": "The progress of societies is measured by the extent of their care for the teacher and the provision of appropriate conditions for their creativity.",
-      "words": []
+      "words": [
+        {
+          "w": "تَقَدُّمَ",
+          "lemma": "تَقَدُّمٌ"
+        },
+        {
+          "w": "الْمُجْتَمَعَاتِ",
+          "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ"
+        },
+        {
+          "w": "يُقَاسُ",
+          "lemma": "قَاسَ يَقِيسُ"
+        },
+        {
+          "w": "بِمَدَى",
+          "lemma": "مَدًى"
+        },
+        {
+          "w": "اهْتِمَامِهَا",
+          "lemma": "اِهْتِمَامٌ"
+        },
+        {
+          "w": "بِالْمُعَلِّمِ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "وَتَهْيِئَةِ",
+          "lemma": "تَهْيِئَةٌ"
+        },
+        {
+          "w": "الظُّرُوفِ",
+          "lemma": "ظَرْفٌ / ظُرُوفٌ"
+        },
+        {
+          "w": "الْمُنَاسِبَةِ",
+          "lemma": "مُنَاسِبٌ"
+        },
+        {
+          "w": "لِإِبْدَاعِهِ",
+          "lemma": "إِبْدَاعٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -4,39 +4,231 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ الْمِنَحُ الدِّرَاسِيَّةُ فُرْصَةً ذَهَبِيَّةً لِلطُّلَّابِ الْمُتَمَيِّزِينَ الَّذِينَ يَطْمَحُونَ لِإِكْمَالِ تَعْلِيمِهِمْ فِي الْخَارِجِ.",
+      "arabic": "تُمَثِّلُ الْمِنَحُ الدِّرَاسِيَّةُ فُرْصَةً ذَهَبِيَّةً لِلطُّلَّابِ الْمُتَمَيِّزِينَ الَّذِينَ يَطْمَحُونَ لِإِكْمَالِ تَعْلِيمِهِمْ فِي الْخَارِجِ.",
       "translation": "Stipendije predstavljaju zlatnu priliku za istaknute studente koji teže da nastave svoje obrazovanje u inostranstvu.",
       "translationEn": "Scholarships represent a golden opportunity for distinguished students who aspire to complete their education abroad.",
-      "words": []
-    },
-    {
-      "arabic": "تُسَاعِدُ هَذِهِ الْمِنَحُ فِي تَخْفِيفِ الْأَعْبَاءِ الْمَالِيَّةِ عَنْ كَاهِلِ الْأُسَرِ، مِمَّا يَتِيحُ لِلطَّالِبِ التَّرْكِيزَ عَلَى دِرَاسَتِهِ.",
-      "translation": "Ove stipendije pomažu u ublažavanju finansijskih tereta s pleća porodica, što omogućava studentu da se fokusira na svoje studije.",
-      "translationEn": "These scholarships help alleviate financial burdens from families, allowing the student to focus on their studies.",
-      "words": []
-    },
-    {
-      "arabic": "تَتَطَلَّبُ عَمَلِيَّةُ التَّقْدِيمِ لِهَذِهِ الْبَرَامِجِ إِعْدَادًا دَقِيقًا لِلْمِلَفَّاتِ الْأَكَادِيمِيَّةِ وَرَسَائِلِ التَّوْصِيَةِ.",
-      "translation": "Proces prijave za ove programe zahtijeva pažljivu pripremu akademskih dosijea i pisama preporuke.",
-      "translationEn": "The application process for these programs requires careful preparation of academic files and letters of recommendation.",
-      "words": []
-    },
-    {
-      "arabic": "كَمَا أَنَّ التَّنَافُسَ عَلَيْهَا يَكُونُ شَدِيدًا، مِمَّا يَسْتَوْجِبُ إِظْهَارَ الْقُدُرَاتِ الْقِيَادِيَّةِ وَالتَّفَوُّقِ الْعِلْمِيِّ.",
-      "translation": "Također, konkurencija za njih je velika, što zahtijeva pokazivanje liderskih sposobnosti i naučne izvrsnosti.",
-      "translationEn": "Also, competition for them is intense, which necessitates demonstrating leadership abilities and scientific excellence.",
       "words": [
         {
-          "w": "يَكُونُ",
-          "lemma": "كَانَ يَكُونُ"
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "الْمِنَحُ",
+          "lemma": "مِنْحَةٌ / مِنَحٌ"
+        },
+        {
+          "w": "الدِّرَاسِيَّةُ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "فُرْصَةً",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "ذَهَبِيَّةً",
+          "lemma": "ذَهَبِيٌّ"
+        },
+        {
+          "w": "لِلطُّلَّابِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الْمُتَمَيِّزِينَ",
+          "lemma": "مُتَمَيِّزٌ / مُتَمَيِّزُونَ"
+        },
+        {
+          "w": "يَطْمَحُونَ",
+          "lemma": "طَمَحَ يَطْمَحُ"
+        },
+        {
+          "w": "لِإِكْمَالِ",
+          "lemma": "إِكْمَالٌ"
+        },
+        {
+          "w": "تَعْلِيمِهِمْ",
+          "lemma": "تَعْلِيمٌ"
+        },
+        {
+          "w": "الْخَارِجِ",
+          "lemma": "خَارِجٌ"
         }
       ]
     },
     {
-      "arabic": "إِنَّ الْحُصُولَ عَلَى مِنْحَةٍ هُوَ اعْتِرَافٌ بِالْكَفَاءَةِ وَتَقْدِيرٌ لِلِاجْتِهَادِ وَالصَّبْرِ.",
+      "arabic": "تُسَاعِدُ هَذِهِ الْمِنَحُ فِي تَخْفِيفِ الْأَعْبَاءِ الْمَالِيَّةِ عَنْ كَاهِلِ الْأُسَرِ، مِمَّا يَتِيحُ لِلطَّالِبِ التَّرْكِيزَ عَلَى دِرَاسَتِهِ.",
+      "translation": "Ove stipendije pomažu u ublažavanju finansijskih tereta s pleća porodica, što omogućava studentu da se fokusira na svoje studije.",
+      "translationEn": "These scholarships help alleviate financial burdens from families, allowing the student to focus on their studies.",
+      "words": [
+        {
+          "w": "تُسَاعِدُ",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "الْمِنَحُ",
+          "lemma": "مِنْحَةٌ / مِنَحٌ"
+        },
+        {
+          "w": "تَخْفِيفِ",
+          "lemma": "تَخْفِيفٌ"
+        },
+        {
+          "w": "الْأَعْبَاءِ",
+          "lemma": "عِبْءٌ / أَعْبَاءٌ"
+        },
+        {
+          "w": "الْمَالِيَّةِ",
+          "lemma": "مَالِيٌّ"
+        },
+        {
+          "w": "كَاهِلِ",
+          "lemma": "كَاهِلٌ"
+        },
+        {
+          "w": "الْأُسَرِ",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "يَتِيحُ",
+          "lemma": "أَتَاحَ يُتِيحُ"
+        },
+        {
+          "w": "لِلطَّالِبِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "التَّرْكِيزَ",
+          "lemma": "تَرْكِيزٌ"
+        },
+        {
+          "w": "دِرَاسَتِهِ",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "تَتَطَلَّبُ عَمَلِيَّةُ التَّقْدِيمِ لِهَذِهِ الْبَرَامِجِ إِعْدَادًا دَقِيقًا لِلْمِلَفَّاتِ الْأَكَادِيمِيَّةِ وَرَسَائِلِ التَّوْصِيَةِ.",
+      "translation": "Proces prijave za ove programe zahtijeva pažljivu pripremu akademskih dosijea i pisama preporuke.",
+      "translationEn": "The application process for these programs requires careful preparation of academic files and letters of recommendation.",
+      "words": [
+        {
+          "w": "تَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "عَمَلِيَّةُ",
+          "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ"
+        },
+        {
+          "w": "التَّقْدِيمِ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "الْبَرَامِجِ",
+          "lemma": "بَرْنَامَجٌ / بَرَامِجُ"
+        },
+        {
+          "w": "إِعْدَادًا",
+          "lemma": "إِعْدَادٌ"
+        },
+        {
+          "w": "دَقِيقًا",
+          "lemma": "دَقِيقٌ"
+        },
+        {
+          "w": "لِلْمِلَفَّاتِ",
+          "lemma": "مِلَفٌّ / مِلَفَّاتٌ"
+        },
+        {
+          "w": "الْأَكَادِيمِيَّةِ",
+          "lemma": "أَكَادِيمِيٌّ"
+        },
+        {
+          "w": "وَرَسَائِلِ",
+          "lemma": "رِسَالَةٌ / رَسَائِلُ"
+        },
+        {
+          "w": "التَّوْصِيَةِ",
+          "lemma": "تَوْصِيَةٌ / تَوْصِيَاتٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "كَمَا أَنَّ التَّنَافُسَ عَلَيْهَا يَكُونُ شَدِيدًا، مِمَّا يَسْتَوْجِبُ إِظْهَارَ الْقُدُرَاتِ الْقِيَادِيَّةِ وَالتَّفَوُّقِ الْعِلْمِيِّ.",
+      "translation": "Također, konkurencija za njih je velika, što zahtijeva pokazivanje liderskih sposobnosti i naučne izvrsnosti.",
+      "translationEn": "Also, competition for them is intense, which necessitates demonstrating leadership abilities and scientific excellence.",
+      "words": [
+        {
+          "w": "التَّنَافُسَ",
+          "lemma": "تَنَافُسٌ"
+        },
+        {
+          "w": "يَكُونُ",
+          "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "شَدِيدًا",
+          "lemma": "شَدِيدٌ"
+        },
+        {
+          "w": "يَسْتَوْجِبُ",
+          "lemma": "اسْتَوْجَبَ يَسْتَوْجِبُ"
+        },
+        {
+          "w": "إِظْهَارَ",
+          "lemma": "إِظْهَارٌ"
+        },
+        {
+          "w": "الْقُدُرَاتِ",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
+        },
+        {
+          "w": "الْقِيَادِيَّةِ",
+          "lemma": "قِيَادِيٌّ"
+        },
+        {
+          "w": "وَالتَّفَوُّقِ",
+          "lemma": "تَفَوُّقٌ"
+        },
+        {
+          "w": "الْعِلْمِيِّ",
+          "lemma": "عِلْمِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "إِنَّ الْحُصُولَ عَلَى مِنْحَةٍ هُوَ اعْتِرَافٌ بِالْكَفَاءَةِ وَتَقْدِيرٌ لِلِاجْتِهَادِ وَالصَّبْرِ.",
       "translation": "Dobijanje stipendije je priznanje kompetencije i uvažavanje truda i strpljenja.",
       "translationEn": "Obtaining a scholarship is a recognition of competence and an appreciation for diligence and patience.",
-      "words": []
+      "words": [
+        {
+          "w": "الْحُصُولَ",
+          "lemma": "حُصُولٌ"
+        },
+        {
+          "w": "مِنْحَةٍ",
+          "lemma": "مِنْحَةٌ / مِنَحٌ"
+        },
+        {
+          "w": "اعْتِرَافٌ",
+          "lemma": "اعْتِرَافٌ"
+        },
+        {
+          "w": "بِالْكَفَاءَةِ",
+          "lemma": "كَفَاءَةٌ / كَفَاءَاتٌ"
+        },
+        {
+          "w": "وَتَقْدِيرٌ",
+          "lemma": "تَقْدِيرٌ"
+        },
+        {
+          "w": "لِلِاجْتِهَادِ",
+          "lemma": "اجْتِهَادٌ"
+        },
+        {
+          "w": "وَالصَّبْرِ",
+          "lemma": "صَبْرٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -4,19 +4,44 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعْتَبَرُ شُورْبَةُ الْعَدَسِ مِنَ الْأَطْبَاقِ الْمَشْهُورَةِ فِي الشِّتَاءِ.",
+      "arabic": "تُعْتَبَرُ شُورْبَةُ الْعَدَسِ مِنَ الْأَطْبَاقِ الْمَشْهُورَةِ فِي الشِّتَاءِ.",
       "translation": "Čorba od leće se smatra jednim od poznatih jela zimi.",
-      "translationEn": "Lentil soup is considered one of the famous dishes in winter."
+      "translationEn": "Lentil soup is considered one of the famous dishes in winter.",
+      "words": [
+        { "w": "تُعْتَبَرُ", "lemma": "اعْتَبَرَ يَعْتَبِرُ" },
+        { "w": "شُورْبَةُ", "lemma": "شُورْبَةٌ" },
+        { "w": "الْعَدَسِ", "lemma": "عَدَسٌ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "الْمَشْهُورَةِ", "lemma": "مَشْهُورٌ" },
+        { "w": "الشِّتَاءِ", "lemma": "شِتَاءٌ" }
+      ]
     },
     {
-      "arabic": "نَطْبُخُ الْعَدَسَ مَعَ الْبَصَلِ وَالْجَزَرِ وَالْكَمُّونِ لِيُعْطِيَ طَعْمًا رَائِعًا.",
+      "arabic": "نَطْبُخُ الْعَدَسَ مَعَ الْبَصَلِ وَالْجَزَرِ وَالْكَمُّونِ لِيُعْطِيَ طَعْمًا رَائِعًا.",
       "translation": "Kuhamo leću sa lukom, mrkvom i kuminom kako bi dala predivan ukus.",
-      "translationEn": "We cook lentils with onions, carrots, and cumin to give a wonderful taste."
+      "translationEn": "We cook lentils with onions, carrots, and cumin to give a wonderful taste.",
+      "words": [
+        { "w": "نَطْبُخُ", "lemma": "طَبَخَ يَطْبُخُ" },
+        { "w": "الْعَدَسَ", "lemma": "عَدَسٌ" },
+        { "w": "الْبَصَلِ", "lemma": "بَصَلٌ" },
+        { "w": "وَالْجَزَرِ", "lemma": "جَزَرٌ" },
+        { "w": "وَالْكَمُّونِ", "lemma": "كَمُّونٌ" },
+        { "w": "لِيُعْطِيَ", "lemma": "أَعْطَى يُعْطِي" },
+        { "w": "طَعْمًا", "lemma": "طَعْمٌ / طُعُومٌ" },
+        { "w": "رَائِعًا", "lemma": "رَائِعٌ" }
+      ]
     },
     {
-      "arabic": "نَضَعُ الْقَلِيلَ مِنَ الْمِلْحِ وَعَصِيرِ اللَّيْمُونِ قَبْلَ التَّقْدِيمِ.",
+      "arabic": "نَضَعُ الْقَلِيلَ مِنَ الْمِلْحِ وَعَصِيرِ اللَّيْمُونِ قَبْلَ التَّقْدِيمِ.",
       "translation": "Stavljamo malo soli i limunovog soka prije posluživanja.",
-      "translationEn": "We put a little salt and lemon juice before serving."
+      "translationEn": "We put a little salt and lemon juice before serving.",
+      "words": [
+        { "w": "نَضَعُ", "lemma": "وَضَعَ يَضَعُ" },
+        { "w": "الْمِلْحِ", "lemma": "مِلْحٌ" },
+        { "w": "وَعَصِيرِ", "lemma": "عَصِيرٌ" },
+        { "w": "اللَّيْمُونِ", "lemma": "لَيْمُونٌ" },
+        { "w": "التَّقْدِيمِ", "lemma": "تَقْدِيمٌ" }
+      ]
     }
   ],
   "metadata": {

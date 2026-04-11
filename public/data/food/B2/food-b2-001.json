@@ -4,19 +4,41 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَتَنَاوَلُ النَّاسُ عَادَةً الْحُمُّصَ وَالْفَلَافِلَ فِي وَجْبَةِ الْإِفْطَارِ.",
+      "arabic": "يَتَنَاوَلُ النَّاسُ عَادَةً الْحُمُّصَ وَالْفَلَافِلَ فِي وَجْبَةِ الْإِفْطَارِ.",
       "translation": "Ljudi obično jedu humus i falafel za doručak.",
-      "translationEn": "People usually eat hummus and falafel for breakfast."
+      "translationEn": "People usually eat hummus and falafel for breakfast.",
+      "words": [
+        { "w": "يَتَنَاوَلُ", "lemma": "تَنَاوَلَ يَتَنَاوَلُ" },
+        { "w": "النَّاسُ", "lemma": "نَاسٌ" },
+        { "w": "الْحُمُّصَ", "lemma": "حُمُّصٌ" },
+        { "w": "وَالْفَلَافِلَ", "lemma": "فَلَافِلُ" },
+        { "w": "وَجْبَةِ", "lemma": "وَجْبَةٌ / وَجَبَاتٌ" },
+        { "w": "الْإِفْطَارِ", "lemma": "إِفْطَارٌ" }
+      ]
     },
     {
-      "arabic": "هَذِهِ الْأَطْبَاقُ مَشْهُورَةٌ فِي كَثِيرٍ مِنَ الدُّوَلِ الْعَرَبِيَّةِ.",
+      "arabic": "هَذِهِ الْأَطْبَاقُ مَشْهُورَةٌ فِي كَثِيرٍ مِنَ الدُّوَلِ الْعَرَبِيَّةِ.",
       "translation": "Ova jela su poznata u mnogim arapskim zemljama.",
-      "translationEn": "These dishes are famous in many Arab countries."
+      "translationEn": "These dishes are famous in many Arab countries.",
+      "words": [
+        { "w": "الْأَطْبَاقُ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "مَشْهُورَةٌ", "lemma": "مَشْهُورٌ" },
+        { "w": "الدُّوَلِ", "lemma": "دَوْلَةٌ / دُوَلٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
-      "arabic": "نُقَدِّمُهَا مَعَ الْخُبْزِ الطَّازَجِ وَبَعْضِ الْخَضْرَاوَاتِ مِثْلِ الطَّمَاطِمِ وَالْخِيَارِ.",
+      "arabic": "نُقَدِّمُهَا مَعَ الْخُبْزِ الطَّازَجِ وَبَعْضِ الْخَضْرَاوَاتِ مِثْلِ الطَّمَاطِمِ وَالْخِيَارِ.",
       "translation": "Služimo ih uz svježi hljeb i neko povrće poput paradajza i krastavaca.",
-      "translationEn": "We serve them with fresh bread and some vegetables like tomatoes and cucumbers."
+      "translationEn": "We serve them with fresh bread and some vegetables like tomatoes and cucumbers.",
+      "words": [
+        { "w": "نُقَدِّمُهَا", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "الْخُبْزِ", "lemma": "خُبْزٌ" },
+        { "w": "الطَّازَجِ", "lemma": "طَازَجٌ" },
+        { "w": "الْخَضْرَاوَاتِ", "lemma": "خَضْرَاوَاتٌ" },
+        { "w": "الطَّمَاطِمِ", "lemma": "طَمَاطِمُ" },
+        { "w": "وَالْخِيَارِ", "lemma": "خِيَارٌ" }
+      ]
     }
   ],
   "metadata": {

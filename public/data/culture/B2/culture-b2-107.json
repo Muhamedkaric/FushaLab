@@ -6,7 +6,17 @@
     {
       "arabic": "الْمُوسِيقَى الْعَرَبِيَّةُ مَشْهُورَةٌ بِأَلْحَانِهَا الْجَمِيلَةِ وَآلَاتِهَا الْمُوسِيقِيَّةِ الْفَرِيدَةِ.",
       "translation": "Arapska muzika je poznata po svojim lijepim melodijama i jedinstvenim instrumentima.",
-      "translationEn": "Arabic music is known for its beautiful melodies and unique musical instruments."
+      "translationEn": "Arabic music is known for its beautiful melodies and unique musical instruments.",
+      "words": [
+        { "w": "الْمُوسِيقَى", "lemma": "مُوسِيقَى" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "مَشْهُورَةٌ", "lemma": "مَشْهُورٌ" },
+        { "w": "بِأَلْحَانِهَا", "lemma": "لَحْنٌ / أَلْحَانٌ" },
+        { "w": "الْجَمِيلَةِ", "lemma": "جَمِيلٌ" },
+        { "w": "وَآلَاتِهَا", "lemma": "آلَةٌ / آلَاتٌ" },
+        { "w": "الْمُوسِيقِيَّةِ", "lemma": "مُوسِيقِيٌّ" },
+        { "w": "الْفَرِيدَةِ", "lemma": "فَرِيدٌ" }
+      ]
     }
   ],
   "metadata": {

@@ -7,19 +7,102 @@
       "arabic": "الْأَمْثَالُ الْعَرَبِيَّةُ كَلِمَاتٌ قَصِيرَةٌ تَحْمِلُ حِكْمَةً عَمِيقَةً.",
       "translation": "Arapske poslovice su kratke riječi koje nose duboku mudrost.",
       "translationEn": "Arabic proverbs are short phrases that carry deep wisdom.",
-      "words": []
+      "words": [
+        {
+          "w": "الْأَمْثَالُ",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "كَلِمَاتٌ",
+          "lemma": "كَلِمَةٌ / كَلِمَاتٌ"
+        },
+        {
+          "w": "قَصِيرَةٌ",
+          "lemma": "قَصِيرٌ"
+        },
+        {
+          "w": "تَحْمِلُ",
+          "lemma": "حَمَلَ يَحْمِلُ"
+        },
+        {
+          "w": "حِكْمَةً",
+          "lemma": "حِكْمَةٌ / حِكَمٌ"
+        },
+        {
+          "w": "عَمِيقَةً",
+          "lemma": "عَمِيقٌ"
+        }
+      ]
     },
     {
       "arabic": "يَسْتَخْدِمُهَا النَّاسُ فِي الْحَدِيثِ الْيَوْمِيِّ لِلتَّعْبِيرِ عَنْ أَفْكَارِهِمْ.",
       "translation": "Ljudi ih koriste u svakodnevnom razgovoru da izraze svoje misli.",
       "translationEn": "People use them in everyday conversation to express their thoughts.",
-      "words": []
+      "words": [
+        {
+          "w": "يَسْتَخْدِمُهَا",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "الْحَدِيثِ",
+          "lemma": "حَدِيثٌ / أَحَادِيثُ"
+        },
+        {
+          "w": "الْيَوْمِيِّ",
+          "lemma": "يَوْمِيٌّ"
+        },
+        {
+          "w": "لِلتَّعْبِيرِ",
+          "lemma": "تَعْبِيرٌ"
+        },
+        {
+          "w": "أَفْكَارِهِمْ",
+          "lemma": "فِكْرٌ / أَفْكَارٌ"
+        }
+      ]
     },
     {
       "arabic": "مِنْ أَشْهَرِ الْأَمْثَالِ: «الصَّبْرُ مِفْتَاحُ الْفَرَجِ» وَ«الْعِلْمُ نُورٌ».",
       "translation": "Među najpoznatijim poslovicama su: «Strpljenje je ključ olakšanja» i «Znanje je svjetlo».",
       "translationEn": "Among the most famous are: 'Patience is the key to relief' and 'Knowledge is light.'",
-      "words": []
+      "words": [
+        {
+          "w": "أَشْهَرِ",
+          "lemma": "مَشْهُورٌ"
+        },
+        {
+          "w": "الْأَمْثَالِ",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
+          "w": "الصَّبْرُ",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "مِفْتَاحُ",
+          "lemma": "مِفْتَاحٌ / مَفَاتِيحُ"
+        },
+        {
+          "w": "الْفَرَجِ",
+          "lemma": "فَرَجٌ"
+        },
+        {
+          "w": "وَالْعِلْمُ",
+          "lemma": "عِلْمٌ / عُلُومٌ"
+        },
+        {
+          "w": "نُورٌ",
+          "lemma": "نُورٌ / أَنْوَارٌ"
+        }
+      ]
     },
     {
       "arabic": "تَنْتَقِلُ هَذِهِ الْأَمْثَالُ مِنَ الْآبَاءِ إِلَى الْأَبْنَاءِ عَبْرَ الْأَجْيَالِ.",
@@ -27,8 +110,28 @@
       "translationEn": "These proverbs are passed down from parents to children across generations.",
       "words": [
         {
+          "w": "تَنْتَقِلُ",
+          "lemma": "انْتَقَلَ يَنْتَقِلُ"
+        },
+        {
+          "w": "الْأَمْثَالُ",
+          "lemma": "مَثَلٌ / أَمْثَالٌ"
+        },
+        {
+          "w": "الْآبَاءِ",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "الْأَبْنَاءِ",
+          "lemma": "ابْنٌ / أَبْنَاءٌ"
+        },
+        {
           "w": "عَبْرَ",
           "lemma": "عَبْرَ"
+        },
+        {
+          "w": "الْأَجْيَالِ",
+          "lemma": "جِيلٌ / أَجْيَالٌ"
         }
       ]
     }

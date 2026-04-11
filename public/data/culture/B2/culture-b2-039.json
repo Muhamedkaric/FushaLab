@@ -4,39 +4,239 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُشَكِّلُ المَطْبَخُ العَرَبِيُّ لَوْحَةً فَنِّيَّةً تَنْصَهِرُ فِيهَا النَّكَهَاتُ وَالتَّوَابِلُ الشَّرْقِيَّةُ لِتُقَدِّمَ مَذَاقًا لَا يُقَاوَمُ.",
+      "arabic": "يُشَكِّلُ الْمَطْبَخُ الْعَرَبِيُّ لَوْحَةً فَنِّيَّةً تَنْصَهِرُ فِيهَا النَّكَهَاتُ وَالتَّوَابِلُ الشَّرْقِيَّةُ لِتُقَدِّمَ مَذَاقًا لَا يُقَاوَمُ.",
       "translation": "Arapska kuhinja predstavlja umjetničku sliku u kojoj se stapaju istočnjački okusi i začini kako bi ponudili neodoljiv ukus.",
       "translationEn": "Arab cuisine forms an artistic canvas where Eastern flavors and spices melt together to offer an irresistible taste.",
-      "words": []
-    },
-    {
-      "arabic": "تَعْتَمِدُ المَائِدَةُ العَرَبِيَّةُ عَلَى مَبْدَأِ المُشَارَكَةِ، حَيْثُ تَلْتَفُّ العَائِلَةُ حَوْلَ أَطْبَاقٍ مُتَنَوِّعَةٍ مِثْلِ \"الكَبْسَةِ\" أَوْ \"المَنْسَفِ\" أَوْ \"المَازَةِ\" الشَّامِيَّةِ.",
-      "translation": "Arapska trpeza zasniva se na principu dijeljenja, gdje se porodica okuplja oko raznovrsnih jela poput 'kabse', 'mansafa' ili levantskih meza.",
-      "translationEn": "The Arab table is based on the principle of sharing, where the family gathers around diverse dishes such as 'Kabsa,' 'Mansaf,' or Levantine 'Mezza.'",
       "words": [
         {
-          "w": "حَوْلَ",
-          "lemma": "حَوْلَ"
+          "w": "يُشَكِّلُ",
+          "lemma": "شَكَّلَ يُشَكِّلُ"
+        },
+        {
+          "w": "الْمَطْبَخُ",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "لَوْحَةً",
+          "lemma": "لَوْحَةٌ / لَوْحَاتٌ"
+        },
+        {
+          "w": "فَنِّيَّةً",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "تَنْصَهِرُ",
+          "lemma": "انْصَهَرَ يَنْصَهِرُ"
+        },
+        {
+          "w": "النَّكَهَاتُ",
+          "lemma": "نَكْهَةٌ / نَكَهَاتٌ"
+        },
+        {
+          "w": "وَالتَّوَابِلُ",
+          "lemma": "تَابِلٌ / تَوَابِلُ"
+        },
+        {
+          "w": "الشَّرْقِيَّةُ",
+          "lemma": "شَرْقِيٌّ"
+        },
+        {
+          "w": "مَذَاقًا",
+          "lemma": "مَذَاقٌ"
         }
       ]
     },
     {
-      "arabic": "تُسْتَخْدَمُ زُيُوتُ الزَّيْتُونِ وَالأَعْشَابُ البَرِّيَّةُ بِكَثْرَةٍ، مِمَّا يُضْفِي طَابَعًا صِحِّيًّا وَطَبِيعِيًّا عَلَى الوَجَبَاتِ.",
+      "arabic": "تَعْتَمِدُ الْمَائِدَةُ الْعَرَبِيَّةُ عَلَى مَبْدَأِ الْمُشَارَكَةِ، حَيْثُ تَلْتَفُّ الْعَائِلَةُ حَوْلَ أَطْبَاقٍ مُتَنَوِّعَةٍ مِثْلِ \"الْكَبْسَةِ\" أَوْ \"الْمَنْسَفِ\" أَوْ \"الْمَازَةِ\" الشَّامِيَّةِ.",
+      "translation": "Arapska trpeza zasniva se na principu dijeljenja, gdje se porodica okuplja oko raznovrsnih jela poput 'kabse', 'mansafa' ili levantskih meza.",
+      "translationEn": "The Arab table is based on the principle of sharing, where the family gathers around diverse dishes such as 'Kabsa,' 'Mansaf,' or Levantine 'Mezza.'",
+      "words": [
+        {
+          "w": "تَعْتَمِدُ",
+          "lemma": "اعْتَمَدَ يَعْتَمِدُ"
+        },
+        {
+          "w": "الْمَائِدَةُ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "مَبْدَأِ",
+          "lemma": "مَبْدَأٌ / مَبَادِئُ"
+        },
+        {
+          "w": "الْمُشَارَكَةِ",
+          "lemma": "مُشَارَكَةٌ"
+        },
+        {
+          "w": "تَلْتَفُّ",
+          "lemma": "الْتَفَّ يَلْتَفُّ"
+        },
+        {
+          "w": "الْعَائِلَةُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "حَوْلَ",
+          "lemma": "حَوْلَ"
+        },
+        {
+          "w": "أَطْبَاقٍ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "مُتَنَوِّعَةٍ",
+          "lemma": "مُتَنَوِّعٌ"
+        },
+        {
+          "w": "الشَّامِيَّةِ",
+          "lemma": "شَامِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "تُسْتَخْدَمُ زُيُوتُ الزَّيْتُونِ وَالأَعْشَابُ الْبَرِّيَّةُ بِكَثْرَةٍ، مِمَّا يُضْفِي طَابَعًا صِحِّيًّا وَطَبِيعِيًّا عَلَى الْوَجَبَاتِ.",
       "translation": "Maslinovo ulje i samoniklo bilje koriste se u izobilju, što obrocima daje zdrav i prirodan karakter.",
       "translationEn": "Olive oil and wild herbs are used extensively, giving the meals a healthy and natural character.",
-      "words": []
+      "words": [
+        {
+          "w": "تُسْتَخْدَمُ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "زُيُوتُ",
+          "lemma": "زَيْتٌ / زُيُوتٌ"
+        },
+        {
+          "w": "الزَّيْتُونِ",
+          "lemma": "زَيْتُونٌ"
+        },
+        {
+          "w": "وَالأَعْشَابُ",
+          "lemma": "عُشْبٌ / أَعْشَابٌ"
+        },
+        {
+          "w": "الْبَرِّيَّةُ",
+          "lemma": "بَرِّيٌّ"
+        },
+        {
+          "w": "يُضْفِي",
+          "lemma": "أَضْفَى يُضْفِي"
+        },
+        {
+          "w": "طَابَعًا",
+          "lemma": "طَابَعٌ / طَوَابِعُ"
+        },
+        {
+          "w": "صِحِّيًّا",
+          "lemma": "صِحِّيٌّ"
+        },
+        {
+          "w": "وَطَبِيعِيًّا",
+          "lemma": "طَبِيعِيٌّ"
+        },
+        {
+          "w": "الْوَجَبَاتِ",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "وَلَا يَكْتَمِلُ الغَدَاءُ دُونَ الشَّايِ بِالنَّعْنَاعِ الَّذِي يُعَدُّ طَقْسًا اِجْتِمَاعِيًّا لِتَبَادُلِ الأَحَادِيثِ وَالأَخْبَارِ.",
+      "arabic": "وَلَا يَكْتَمِلُ الْغَدَاءُ دُونَ الشَّايِ بِالنَّعْنَاعِ الَّذِي يُعَدُّ طَقْسًا اِجْتِمَاعِيًّا لِتَبَادُلِ الأَحَادِيثِ وَالأَخْبَارِ.",
       "translation": "Ručak nije potpun bez čaja s nantom, koji se smatra društvenim ritualom za razmjenu razgovora i vijesti.",
       "translationEn": "Lunch is not complete without mint tea, which is considered a social ritual for exchanging conversation and news.",
-      "words": []
+      "words": [
+        {
+          "w": "يَكْتَمِلُ",
+          "lemma": "اكْتَمَلَ يَكْتَمِلُ"
+        },
+        {
+          "w": "الْغَدَاءُ",
+          "lemma": "غَدَاءٌ"
+        },
+        {
+          "w": "الشَّايِ",
+          "lemma": "شَايٌ"
+        },
+        {
+          "w": "بِالنَّعْنَاعِ",
+          "lemma": "نَعْنَاعٌ"
+        },
+        {
+          "w": "يُعَدُّ",
+          "lemma": "عَدَّ يَعُدُّ"
+        },
+        {
+          "w": "طَقْسًا",
+          "lemma": "طَقْسٌ / طُقُوسٌ"
+        },
+        {
+          "w": "لِتَبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الأَحَادِيثِ",
+          "lemma": "حَدِيثٌ / أَحَادِيثُ"
+        },
+        {
+          "w": "وَالأَخْبَارِ",
+          "lemma": "خَبَرٌ / أَخْبَارٌ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ الكَرَمَ فِي تَقْدِيمِ الطَّعَامِ يُعَدُّ مِقْيَاسًا لِحُبِّ الآخَرِينَ وَتَقْدِيرِهِمْ فِي المُجْتَمَعَاتِ العَرَبِيَّةِ.",
+      "arabic": "إِنَّ الْكَرَمَ فِي تَقْدِيمِ الطَّعَامِ يُعَدُّ مِقْيَاسًا لِحُبِّ الآخَرِينَ وَتَقْدِيرِهِمْ فِي الْمُجْتَمَعَاتِ الْعَرَبِيَّةِ.",
       "translation": "Velikodušnost u posluživanju hrane smatra se mjerilom ljubavi i uvažavanja drugih u arapskim društvima.",
       "translationEn": "Generosity in serving food is a measure of love and appreciation for others in Arab societies.",
-      "words": []
+      "words": [
+        {
+          "w": "الْكَرَمَ",
+          "lemma": "كَرَمٌ"
+        },
+        {
+          "w": "تَقْدِيمِ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "يُعَدُّ",
+          "lemma": "عَدَّ يَعُدُّ"
+        },
+        {
+          "w": "مِقْيَاسًا",
+          "lemma": "مِقْيَاسٌ / مَقَايِيسُ"
+        },
+        {
+          "w": "لِحُبِّ",
+          "lemma": "حُبٌّ"
+        },
+        {
+          "w": "الآخَرِينَ",
+          "lemma": "آخَرٌ / آخَرُونَ"
+        },
+        {
+          "w": "وَتَقْدِيرِهِمْ",
+          "lemma": "تَقْدِيرٌ"
+        },
+        {
+          "w": "الْمُجْتَمَعَاتِ",
+          "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

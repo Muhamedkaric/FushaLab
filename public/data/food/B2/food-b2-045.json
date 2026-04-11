@@ -4,29 +4,291 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَكْتَسِي شَهْرُ رَمَضَانَ طَابَعًا خَاصًّا فِيمَا يَتَعَلَّقُ بِالْمَائِدَةِ الْعَرَبِيَّةِ، حَيْثُ تَجْتَمِعُ الْأُسَرُ لِتَنَاوُلِ وَجْبَةِ الْإِفْطَارِ بَعْدَ يَوْمٍ مِنَ الصِّيَامِ.",
+      "arabic": "يَكْتَسِي شَهْرُ رَمَضَانَ طَابَعًا خَاصًّا فِيمَا يَتَعَلَّقُ بِالْمَائِدَةِ الْعَرَبِيَّةِ، حَيْثُ تَجْتَمِعُ الْأُسَرُ لِتَنَاوُلِ وَجْبَةِ الْإِفْطَارِ بَعْدَ يَوْمٍ مِنَ الصِّيَامِ.",
       "translation": "Mjesec ramazan poprima poseban karakter kada je u pitanju arapska trpeza, jer se porodice okupljaju na iftaru nakon dana posta.",
-      "translationEn": "The month of Ramadan takes on a special character regarding the Arab table, as families gather to have the Iftar meal after a day of fasting."
+      "translationEn": "The month of Ramadan takes on a special character regarding the Arab table, as families gather to have the Iftar meal after a day of fasting.",
+      "words": [
+        {
+          "w": "يَكْتَسِي",
+          "lemma": "اكْتَسَى يَكْتَسِي"
+        },
+        {
+          "w": "شَهْرُ",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "رَمَضَانَ",
+          "lemma": "رَمَضَانُ"
+        },
+        {
+          "w": "طَابَعًا",
+          "lemma": "طَابَعٌ / طَوَابِعُ"
+        },
+        {
+          "w": "خَاصًّا",
+          "lemma": "خَاصٌّ"
+        },
+        {
+          "w": "بِالْمَائِدَةِ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "تَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الْأُسَرُ",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "لِتَنَاوُلِ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "وَجْبَةِ",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "الْإِفْطَارِ",
+          "lemma": "إِفْطَارٌ"
+        },
+        {
+          "w": "الصِّيَامِ",
+          "lemma": "صِيَامٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَبْدَأُ الْوَجْبَةُ عَادَةً بِتَنَاوُلِ حَبَّاتِ التَّمْرِ وَالْمَاءِ، تَمَاشِيًا مَعَ السُّنَّةِ النَّبَوِيَّةِ وَلِتَهْيِئَةِ الْمَعِدَةِ لِلطَّعَامِ.",
+      "arabic": "تَبْدَأُ الْوَجْبَةُ عَادَةً بِتَنَاوُلِ حَبَّاتِ التَّمْرِ وَالْمَاءِ، تَمَاشِيًا مَعَ السُّنَّةِ النَّبَوِيَّةِ وَلِتَهْيِئَةِ الْمَعِدَةِ لِلطَّعَامِ.",
       "translation": "Obrok obično počinje konzumiranjem hurmi i vode, u skladu sa sunnetom Poslanika i radi pripreme želuca za hranu.",
-      "translationEn": "The meal usually begins with eating dates and water, in accordance with the Prophetic Sunnah and to prepare the stomach for food."
+      "translationEn": "The meal usually begins with eating dates and water, in accordance with the Prophetic Sunnah and to prepare the stomach for food.",
+      "words": [
+        {
+          "w": "تَبْدَأُ",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الْوَجْبَةُ",
+          "lemma": "وَجْبَةٌ / وَجَبَاتٌ"
+        },
+        {
+          "w": "بِتَنَاوُلِ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "حَبَّاتِ",
+          "lemma": "حَبَّةٌ / حَبَّاتٌ"
+        },
+        {
+          "w": "التَّمْرِ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "وَالْمَاءِ",
+          "lemma": "مَاءٌ / مِيَاهٌ"
+        },
+        {
+          "w": "تَمَاشِيًا",
+          "lemma": "تَمَاشٍ"
+        },
+        {
+          "w": "السُّنَّةِ",
+          "lemma": "سُنَّةٌ / سُنَنٌ"
+        },
+        {
+          "w": "النَّبَوِيَّةِ",
+          "lemma": "نَبَوِيٌّ"
+        },
+        {
+          "w": "وَلِتَهْيِئَةِ",
+          "lemma": "تَهْيِئَةٌ"
+        },
+        {
+          "w": "الْمَعِدَةِ",
+          "lemma": "مَعِدَةٌ / مَعِدَاتٌ"
+        },
+        {
+          "w": "لِلطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَتَصَدَّرُ الشُّورَبَاتُ السَّاخِنَةُ، وَخَاصَّةً شُورَبَةَ الْعَدَسِ، قَائِمَةَ الْمُقَبِّلَاتِ لِفَوَائِدِهَا الْغِذَائِيَّةِ الْجَمَّةِ بَعْدَ سَاعَاتِ الِانْقِطَاعِ عَنِ الْأَكْلِ.",
+      "arabic": "تَتَصَدَّرُ الشُّورَبَاتُ السَّاخِنَةُ، وَخَاصَّةً شُورَبَةَ الْعَدَسِ، قَائِمَةَ الْمُقَبِّلَاتِ لِفَوَائِدِهَا الْغِذَائِيَّةِ الْجَمَّةِ بَعْدَ سَاعَاتِ الِانْقِطَاعِ عَنِ الْأَكْلِ.",
       "translation": "Vruće čorbe, a posebno čorba od leće, nalaze se na vrhu liste predjela zbog svojih ogromnih nutritivnih prednosti nakon sati bez jela.",
-      "translationEn": "Hot soups, especially lentil soup, top the list of appetizers because of their vast nutritional benefits after hours of abstaining from food."
+      "translationEn": "Hot soups, especially lentil soup, top the list of appetizers because of their vast nutritional benefits after hours of abstaining from food.",
+      "words": [
+        {
+          "w": "تَتَصَدَّرُ",
+          "lemma": "تَصَدَّرَ يَتَصَدَّرُ"
+        },
+        {
+          "w": "الشُّورَبَاتُ",
+          "lemma": "شُورْبَةٌ / شُورَبَاتٌ"
+        },
+        {
+          "w": "السَّاخِنَةُ",
+          "lemma": "سَاخِنٌ"
+        },
+        {
+          "w": "شُورَبَةَ",
+          "lemma": "شُورْبَةٌ / شُورَبَاتٌ"
+        },
+        {
+          "w": "الْعَدَسِ",
+          "lemma": "عَدَسٌ"
+        },
+        {
+          "w": "قَائِمَةَ",
+          "lemma": "قَائِمَةٌ / قَوَائِمُ"
+        },
+        {
+          "w": "الْمُقَبِّلَاتِ",
+          "lemma": "مُقَبِّلَاتٌ"
+        },
+        {
+          "w": "لِفَوَائِدِهَا",
+          "lemma": "فَائِدَةٌ / فَوَائِدُ"
+        },
+        {
+          "w": "الْغِذَائِيَّةِ",
+          "lemma": "غِذَائِيٌّ"
+        },
+        {
+          "w": "الْجَمَّةِ",
+          "lemma": "جَمٌّ"
+        },
+        {
+          "w": "سَاعَاتِ",
+          "lemma": "سَاعَةٌ / سَاعَاتٌ"
+        },
+        {
+          "w": "الِانْقِطَاعِ",
+          "lemma": "انْقِطَاعٌ"
+        },
+        {
+          "w": "الْأَكْلِ",
+          "lemma": "أَكْلٌ"
+        }
+      ]
     },
     {
-      "arabic": "لَا تَخْلُو الْمَائِدَةُ مِنَ الْقَطَايِفِ، وَهِيَ حَلْوِيَّاتٌ مَحْشُوَّةٌ بِالْجُبْنِ أَوِ الْمُكَسَّرَاتِ، تُعَدُّ خِصِّيصًا لِهَذَا الشَّهْرِ الْفَضِيلِ.",
+      "arabic": "لَا تَخْلُو الْمَائِدَةُ مِنَ الْقَطَايِفِ، وَهِيَ حَلْوِيَّاتٌ مَحْشُوَّةٌ بِالْجُبْنِ أَوِ الْمُكَسَّرَاتِ، تُعَدُّ خِصِّيصًا لِهَذَا الشَّهْرِ الْفَضِيلِ.",
       "translation": "Trpeza nije potpuna bez kataifa, a to su poslastice punjene sirom ili orašastim plodovima, koje se pripremaju posebno za ovaj sveti mjesec.",
-      "translationEn": "The table is never without Qatayef, which are sweets stuffed with cheese or nuts, prepared specifically for this holy month."
+      "translationEn": "The table is never without Qatayef, which are sweets stuffed with cheese or nuts, prepared specifically for this holy month.",
+      "words": [
+        {
+          "w": "تَخْلُو",
+          "lemma": "خَلَا يَخْلُو"
+        },
+        {
+          "w": "الْمَائِدَةُ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "الْقَطَايِفِ",
+          "lemma": "قَطِيفَةٌ / قَطَايِفُ"
+        },
+        {
+          "w": "حَلْوِيَّاتٌ",
+          "lemma": "حَلْوَى / حَلْوِيَّاتٌ"
+        },
+        {
+          "w": "مَحْشُوَّةٌ",
+          "lemma": "مَحْشُوٌّ"
+        },
+        {
+          "w": "بِالْجُبْنِ",
+          "lemma": "جُبْنٌ"
+        },
+        {
+          "w": "الْمُكَسَّرَاتِ",
+          "lemma": "مُكَسَّرَاتٌ"
+        },
+        {
+          "w": "تُعَدُّ",
+          "lemma": "أَعَدَّ يُعِدُّ"
+        },
+        {
+          "w": "خِصِّيصًا",
+          "lemma": "خِصِّيصٌ"
+        },
+        {
+          "w": "لِهَذَا",
+          "lemma": "هَذَا"
+        },
+        {
+          "w": "الشَّهْرِ",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "الْفَضِيلِ",
+          "lemma": "فَاضِلٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَعْكِسُ هَذِهِ الْأَطْبَاقُ مَعَانِيَ الصَّبْرِ وَالشُّكْرِ، وَتُحَوِّلُ تَنَاوُلَ الطَّعَامِ إِلَى تَجْرِبَةٍ رُوحَانِيَّةٍ وَاجْتِمَاعِيَّةٍ عَمِيقَةِ الْأَثَرِ.",
+      "arabic": "تَعْكِسُ هَذِهِ الْأَطْبَاقُ مَعَانِيَ الصَّبْرِ وَالشُّكْرِ، وَتُحَوِّلُ تَنَاوُلَ الطَّعَامِ إِلَى تَجْرِبَةٍ رُوحَانِيَّةٍ وَاجْتِمَاعِيَّةٍ عَمِيقَةِ الْأَثَرِ.",
       "translation": "Ova jela odražavaju značenja strpljenja i zahvalnosti, te pretvaraju objedovanje u duhovno i društveno iskustvo dubokog utjecaja.",
-      "translationEn": "These dishes reflect the meanings of patience and gratitude, and turn eating into a spiritual and social experience of deep impact."
+      "translationEn": "These dishes reflect the meanings of patience and gratitude, and turn eating into a spiritual and social experience of deep impact.",
+      "words": [
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الْأَطْبَاقُ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "مَعَانِيَ",
+          "lemma": "مَعْنًى / مَعَانٍ"
+        },
+        {
+          "w": "الصَّبْرِ",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "وَالشُّكْرِ",
+          "lemma": "شُكْرٌ"
+        },
+        {
+          "w": "وَتُحَوِّلُ",
+          "lemma": "حَوَّلَ يُحَوِّلُ"
+        },
+        {
+          "w": "تَنَاوُلَ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "تَجْرِبَةٍ",
+          "lemma": "تَجْرِبَةٌ / تَجَارِبُ"
+        },
+        {
+          "w": "رُوحَانِيَّةٍ",
+          "lemma": "رُوحَانِيٌّ"
+        },
+        {
+          "w": "وَاجْتِمَاعِيَّةٍ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "عَمِيقَةِ",
+          "lemma": "عَمِيقٌ"
+        },
+        {
+          "w": "الْأَثَرِ",
+          "lemma": "أَثَرٌ / آثَارٌ"
+        }
+      ]
     }
   ],
   "metadata": {

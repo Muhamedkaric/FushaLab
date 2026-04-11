@@ -4,29 +4,91 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعْتَبَرُ الْمَكْتَبَاتُ الْعَامَّةُ مَنَارَاتٍ لِلْعِلْمِ وَالْمَعْرِفَةِ، حَيْثُ تَمْنَحُ الْبَاحِثِينَ فُرْصَةً لِلْغَوْصِ فِي أَعْمَاقِ التَّارِيخِ وَالْأَدَبِ.",
+      "arabic": "تُعْتَبَرُ الْمَكْتَبَاتُ الْعَامَّةُ مَنَارَاتٍ لِلْعِلْمِ وَالْمَعْرِفَةِ، حَيْثُ تَمْنَحُ الْبَاحِثِينَ فُرْصَةً لِلْغَوْصِ فِي أَعْمَاقِ التَّارِيخِ وَالْأَدَبِ.",
       "translation": "Narodne biblioteke se smatraju svjetionicima nauke i znanja, jer istraživačima pružaju priliku da urone u dubine historije i književnosti.",
-      "translationEn": "Public libraries are considered beacons of science and knowledge, as they grant researchers the opportunity to dive into the depths of history and literature."
+      "translationEn": "Public libraries are considered beacons of science and knowledge, as they grant researchers the opportunity to dive into the depths of history and literature.",
+      "words": [
+        { "w": "الْمَكْتَبَاتُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "الْعَامَّةُ", "lemma": "عَامٌّ" },
+        { "w": "مَنَارَاتٍ", "lemma": "مَنَارَةٌ / مَنَارَاتٌ" },
+        { "w": "لِلْعِلْمِ", "lemma": "عِلْمٌ / عُلُومٌ" },
+        { "w": "وَالْمَعْرِفَةِ", "lemma": "مَعْرِفَةٌ" },
+        { "w": "تَمْنَحُ", "lemma": "مَنَحَ يَمْنَحُ" },
+        { "w": "الْبَاحِثِينَ", "lemma": "بَاحِثٌ / بَاحِثُونَ" },
+        { "w": "فُرْصَةً", "lemma": "فُرْصَةٌ / فُرَصٌ" },
+        { "w": "لِلْغَوْصِ", "lemma": "غَوْصٌ" },
+        { "w": "أَعْمَاقِ", "lemma": "عُمْقٌ / أَعْمَاقٌ" },
+        { "w": "التَّارِيخِ", "lemma": "تَارِيخٌ / تَوَارِيخُ" },
+        { "w": "وَالْأَدَبِ", "lemma": "أَدَبٌ / آدَابٌ" }
+      ]
     },
     {
-      "arabic": "رَغْمَ الِانْتِشَارِ الْوَاسِعِ لِلْمَصَادِرِ الرَّقْمِيَّةِ، لَا يَزَالُ لِلْكِتَابِ الْوَرَقِيِّ سِحْرٌ خَاصٌّ لَا يُمْكِنُ تَعْوِيضُهُ بِسُهُولَةٍ.",
+      "arabic": "رَغْمَ الِانْتِشَارِ الْوَاسِعِ لِلْمَصَادِرِ الرَّقْمِيَّةِ، لَا يَزَالُ لِلْكِتَابِ الْوَرَقِيِّ سِحْرٌ خَاصٌّ لَا يُمْكِنُ تَعْوِيضُهُ بِسُهُولَةٍ.",
       "translation": "Uprkos širokoj rasprostranjenosti digitalnih izvora, papirna knjiga i dalje ima poseban šarm koji se ne može lako zamijeniti.",
-      "translationEn": "Despite the wide spread of digital sources, the printed book still possesses a special charm that cannot be easily replaced."
+      "translationEn": "Despite the wide spread of digital sources, the printed book still possesses a special charm that cannot be easily replaced.",
+      "words": [
+        { "w": "الِانْتِشَارِ", "lemma": "اِنْتِشَارٌ" },
+        { "w": "الْوَاسِعِ", "lemma": "وَاسِعٌ" },
+        { "w": "لِلْمَصَادِرِ", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "الرَّقْمِيَّةِ", "lemma": "رَقْمِيٌّ" },
+        { "w": "لِلْكِتَابِ", "lemma": "كِتَابٌ / كُتُبٌ" },
+        { "w": "الْوَرَقِيِّ", "lemma": "وَرَقِيٌّ" },
+        { "w": "سِحْرٌ", "lemma": "سِحْرٌ" },
+        { "w": "خَاصٌّ", "lemma": "خَاصٌّ" },
+        { "w": "تَعْوِيضُهُ", "lemma": "تَعْوِيضٌ" },
+        { "w": "بِسُهُولَةٍ", "lemma": "سُهُولَةٌ" }
+      ]
     },
     {
-      "arabic": "تَهْدِفُ هَذِهِ الْمُؤَسَّسَاتُ إِلَى تَعْزِيزِ ثَقَافَةِ الْقِرَاءَةِ بَيْنَ النَّاشِئَةِ، مِمَّا يُسَاهِمُ فِي بِنَاءِ جِيلٍ مُثَقَّفٍ وَوَاعٍ.",
+      "arabic": "تَهْدِفُ هَذِهِ الْمُؤَسَّسَاتُ إِلَى تَعْزِيزِ ثَقَافَةِ الْقِرَاءَةِ بَيْنَ النَّاشِئَةِ، مِمَّا يُسَاهِمُ فِي بِنَاءِ جِيلٍ مُثَقَّفٍ وَوَاعٍ.",
       "translation": "Ove institucije imaju za cilj podsticanje kulture čitanja među mladima, što doprinosi izgradnji obrazovane i svjesne generacije.",
-      "translationEn": "These institutions aim to promote a culture of reading among the youth, contributing to the building of an educated and conscious generation."
+      "translationEn": "These institutions aim to promote a culture of reading among the youth, contributing to the building of an educated and conscious generation.",
+      "words": [
+        { "w": "تَهْدِفُ", "lemma": "هَدَفَ يَهْدِفُ" },
+        { "w": "الْمُؤَسَّسَاتُ", "lemma": "مُؤَسَّسَةٌ / مُؤَسَّسَاتٌ" },
+        { "w": "تَعْزِيزِ", "lemma": "تَعْزِيزٌ" },
+        { "w": "ثَقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "الْقِرَاءَةِ", "lemma": "قِرَاءَةٌ" },
+        { "w": "النَّاشِئَةِ", "lemma": "نَاشِئَةٌ" },
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "بِنَاءِ", "lemma": "بِنَاءٌ" },
+        { "w": "جِيلٍ", "lemma": "جِيلٌ / أَجْيَالٌ" },
+        { "w": "مُثَقَّفٍ", "lemma": "مُثَقَّفٌ" },
+        { "w": "وَوَاعٍ", "lemma": "وَاعٍ" }
+      ]
     },
     {
-      "arabic": "كَمَا تُوَفِّرُ بِيئَةً هَادِئَةً تُسَاعِدُ الطُّلَّابَ عَلَى التَّرْكِيزِ الْعَمِيقِ بَعِيدًا عَنْ ضَجِيجِ الْحَيَاةِ الْيَوْمِيَّةِ.",
+      "arabic": "كَمَا تُوَفِّرُ بِيئَةً هَادِئَةً تُسَاعِدُ الطُّلَّابَ عَلَى التَّرْكِيزِ الْعَمِيقِ بَعِيدًا عَنْ ضَجِيجِ الْحَيَاةِ الْيَوْمِيَّةِ.",
       "translation": "Također, one pružaju mirno okruženje koje pomaže studentima da se duboko koncentrišu, daleko od buke svakodnevnog života.",
-      "translationEn": "They also provide a quiet environment that helps students focus deeply, away from the noise of daily life."
+      "translationEn": "They also provide a quiet environment that helps students focus deeply, away from the noise of daily life.",
+      "words": [
+        { "w": "تُوَفِّرُ", "lemma": "وَفَّرَ يُوَفِّرُ" },
+        { "w": "بِيئَةً", "lemma": "بِيئَةٌ / بِيئَاتٌ" },
+        { "w": "هَادِئَةً", "lemma": "هَادِئٌ" },
+        { "w": "تُسَاعِدُ", "lemma": "سَاعَدَ يُسَاعِدُ" },
+        { "w": "الطُّلَّابَ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "التَّرْكِيزِ", "lemma": "تَرْكِيزٌ" },
+        { "w": "الْعَمِيقِ", "lemma": "عَمِيقٌ" },
+        { "w": "ضَجِيجِ", "lemma": "ضَجِيجٌ" },
+        { "w": "الْحَيَاةِ", "lemma": "حَيَاةٌ" },
+        { "w": "الْيَوْمِيَّةِ", "lemma": "يَوْمِيٌّ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الِاسْتِثْمَارَ فِي تَطْوِيرِ الْمَكْتَبَاتِ هُوَ اسْتِثْمَارٌ حَقِيقِيٌّ فِي مُسْتَقْبَلِ الْأُمَمِ وَرُقِيِّهَا الْفِكْرِيِّ.",
+      "arabic": "إِنَّ الِاسْتِثْمَارَ فِي تَطْوِيرِ الْمَكْتَبَاتِ هُوَ اسْتِثْمَارٌ حَقِيقِيٌّ فِي مُسْتَقْبَلِ الْأُمَمِ وَرُقِيِّهَا الْفِكْرِيِّ.",
       "translation": "Investiranje u razvoj biblioteka je istinsko ulaganje u budućnost naroda i njihov intelektualni napredak.",
-      "translationEn": "Investing in the development of libraries is a true investment in the future of nations and their intellectual advancement."
+      "translationEn": "Investing in the development of libraries is a true investment in the future of nations and their intellectual advancement.",
+      "words": [
+        { "w": "الِاسْتِثْمَارَ", "lemma": "اِسْتِثْمَارٌ" },
+        { "w": "تَطْوِيرِ", "lemma": "تَطْوِيرٌ" },
+        { "w": "الْمَكْتَبَاتِ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "اسْتِثْمَارٌ", "lemma": "اِسْتِثْمَارٌ" },
+        { "w": "حَقِيقِيٌّ", "lemma": "حَقِيقِيٌّ" },
+        { "w": "مُسْتَقْبَلِ", "lemma": "مُسْتَقْبَلٌ" },
+        { "w": "الْأُمَمِ", "lemma": "أُمَّةٌ / أُمَمٌ" },
+        { "w": "وَرُقِيِّهَا", "lemma": "رُقِيٌّ" },
+        { "w": "الْفِكْرِيِّ", "lemma": "فِكْرِيٌّ" }
+      ]
     }
   ],
   "metadata": {

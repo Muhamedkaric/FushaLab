@@ -4,19 +4,43 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَمْتَازُ الدُّوَلُ الْعَرَبِيَّةُ بِإِنْتَاجِ أَنْوَاعٍ كَثِيرَةٍ مِنَ التُّمُورِ.",
+      "arabic": "تَمْتَازُ الدُّوَلُ الْعَرَبِيَّةُ بِإِنْتَاجِ أَنْوَاعٍ كَثِيرَةٍ مِنَ التُّمُورِ.",
       "translation": "Arapske zemlje se odlikuju proizvodnjom mnogih vrsta hurmi.",
-      "translationEn": "Arab countries are characterized by producing many types of dates."
+      "translationEn": "Arab countries are characterized by producing many types of dates.",
+      "words": [
+        { "w": "تَمْتَازُ", "lemma": "امْتَازَ يَمْتَازُ" },
+        { "w": "الدُّوَلُ", "lemma": "دَوْلَةٌ / دُوَلٌ" },
+        { "w": "الْعَرَبِيَّةُ", "lemma": "عَرَبِيٌّ" },
+        { "w": "بِإِنْتَاجِ", "lemma": "إِنْتَاجٌ" },
+        { "w": "أَنْوَاعٍ", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "التُّمُورِ", "lemma": "تَمْرٌ / تُمُورٌ" }
+      ]
     },
     {
-      "arabic": "يُقَدِّمُ النَّاسُ التَّمْرَ لِلضُّيُوفِ مَعَ الْقَهْوَةِ الْعَرَبِيَّةِ.",
+      "arabic": "يُقَدِّمُ النَّاسُ التَّمْرَ لِلضُّيُوفِ مَعَ الْقَهْوَةِ الْعَرَبِيَّةِ.",
       "translation": "Ljudi nude hurme gostima uz arapsku kafu.",
-      "translationEn": "People offer dates to guests with Arabic coffee."
+      "translationEn": "People offer dates to guests with Arabic coffee.",
+      "words": [
+        { "w": "يُقَدِّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "النَّاسُ", "lemma": "نَاسٌ" },
+        { "w": "التَّمْرَ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "لِلضُّيُوفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" },
+        { "w": "الْقَهْوَةِ", "lemma": "قَهْوَةٌ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
-      "arabic": "التَّمْرُ غَنِيٌّ بِالْفِيتَامِينَاتِ وَيُفِيدُ صِحَّةَ الْإِنْسَانِ.",
+      "arabic": "التَّمْرُ غَنِيٌّ بِالْفِيتَامِينَاتِ وَيُفِيدُ صِحَّةَ الْإِنْسَانِ.",
       "translation": "Hurme su bogate vitaminima i koriste ljudskom zdravlju.",
-      "translationEn": "Dates are rich in vitamins and benefit human health."
+      "translationEn": "Dates are rich in vitamins and benefit human health.",
+      "words": [
+        { "w": "التَّمْرُ", "lemma": "تَمْرٌ / تُمُورٌ" },
+        { "w": "غَنِيٌّ", "lemma": "غَنِيٌّ" },
+        { "w": "بِالْفِيتَامِينَاتِ", "lemma": "فِيتَامِينٌ / فِيتَامِينَاتٌ" },
+        { "w": "وَيُفِيدُ", "lemma": "أَفَادَ يُفِيدُ" },
+        { "w": "صِحَّةَ", "lemma": "صِحَّةٌ" },
+        { "w": "الْإِنْسَانِ", "lemma": "إِنْسَانٌ / بَشَرٌ" }
+      ]
     }
   ],
   "metadata": {

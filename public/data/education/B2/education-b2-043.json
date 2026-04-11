@@ -4,29 +4,259 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَعْتَمِدُ النَّجَاحُ الدِّرَاسِيُّ بِشَكْلٍ كَبِيرٍ عَلَى تَنْظِيمِ الْوَقْتِ وَاتِّبَاعِ مَنَاهِجَ ذَكِيَّةٍ فِي الْمُذَاكَرَةِ.",
+      "arabic": "يَعْتَمِدُ النَّجَاحُ الدِّرَاسِيُّ بِشَكْلٍ كَبِيرٍ عَلَى تَنْظِيمِ الْوَقْتِ وَاتِّبَاعِ مَنَاهِجَ ذَكِيَّةٍ فِي الْمُذَاكَرَةِ.",
       "translation": "Akademski uspjeh u velikoj mjeri zavisi od organizacije vremena i praćenja pametnih metoda učenja.",
-      "translationEn": "Academic success depends heavily on time management and following smart study methods."
+      "translationEn": "Academic success depends heavily on time management and following smart study methods.",
+      "words": [
+        {
+          "w": "يَعْتَمِدُ",
+          "lemma": "اعْتَمَدَ يَعْتَمِدُ"
+        },
+        {
+          "w": "النَّجَاحُ",
+          "lemma": "نَجَاحٌ"
+        },
+        {
+          "w": "الدِّرَاسِيُّ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "تَنْظِيمِ",
+          "lemma": "تَنْظِيمٌ"
+        },
+        {
+          "w": "الْوَقْتِ",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "وَاتِّبَاعِ",
+          "lemma": "اتِّبَاعٌ"
+        },
+        {
+          "w": "مَنَاهِجَ",
+          "lemma": "مَنْهَجٌ / مَنَاهِجُ"
+        },
+        {
+          "w": "ذَكِيَّةٍ",
+          "lemma": "ذَكِيٌّ"
+        },
+        {
+          "w": "الْمُذَاكَرَةِ",
+          "lemma": "مُذَاكَرَةٌ"
+        }
+      ]
     },
     {
-      "arabic": "مِنَ الْخَطَإِ الشَّائِعِ تَرَاكُمُ الدُّرُوسِ إِلَى لَيْلَةِ الِامْتِحَانِ، لِأَنَّ ذَلِكَ يُؤَدِّي إِلَى التَّوَتُّرِ وَضَعْفِ الِاسْتِيعَابِ.",
+      "arabic": "مِنَ الْخَطَإِ الشَّائِعِ تَرَاكُمُ الدُّرُوسِ إِلَى لَيْلَةِ الِامْتِحَانِ، لِأَنَّ ذَلِكَ يُؤَدِّي إِلَى التَّوَتُّرِ وَضَعْفِ الِاسْتِيعَابِ.",
       "translation": "Uobičajena je greška gomilanje lekcija do noći pred ispit, jer to dovodi do stresa i slabog razumijevanja.",
-      "translationEn": "It is a common mistake to pile up lessons until the night before the exam, as this leads to stress and poor comprehension."
+      "translationEn": "It is a common mistake to pile up lessons until the night before the exam, as this leads to stress and poor comprehension.",
+      "words": [
+        {
+          "w": "الْخَطَإِ",
+          "lemma": "خَطَأٌ / أَخْطَاءٌ"
+        },
+        {
+          "w": "الشَّائِعِ",
+          "lemma": "شَائِعٌ"
+        },
+        {
+          "w": "تَرَاكُمُ",
+          "lemma": "تَرَاكُمٌ"
+        },
+        {
+          "w": "الدُّرُوسِ",
+          "lemma": "دَرْسٌ / دُرُوسٌ"
+        },
+        {
+          "w": "لَيْلَةِ",
+          "lemma": "لَيْلَةٌ / لَيَالٍ"
+        },
+        {
+          "w": "الِامْتِحَانِ",
+          "lemma": "امْتِحَانٌ / امْتِحَانَاتٌ"
+        },
+        {
+          "w": "لِأَنَّ",
+          "lemma": "لِأَنَّ"
+        },
+        {
+          "w": "يُؤَدِّي",
+          "lemma": "أَدَّى يُؤَدِّي"
+        },
+        {
+          "w": "التَّوَتُّرِ",
+          "lemma": "تَوَتُّرٌ"
+        },
+        {
+          "w": "وَضَعْفِ",
+          "lemma": "ضَعْفٌ"
+        },
+        {
+          "w": "الِاسْتِيعَابِ",
+          "lemma": "اسْتِيعَابٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَنْصَحُ الْخُبَرَاءُ بِتَقْسِيمِ الْمَوَادِّ الصَّعْبَةِ إِلَى أَجْزَاءَ صَغِيرَةٍ مَعَ أَخْذِ فَتَرَاتِ رَاحَةٍ مُنْتَظَمَةٍ لِتَجْدِيدِ النَّشَاطِ.",
+      "arabic": "يَنْصَحُ الْخُبَرَاءُ بِتَقْسِيمِ الْمَوَادِّ الصَّعْبَةِ إِلَى أَجْزَاءَ صَغِيرَةٍ مَعَ أَخْذِ فَتَرَاتِ رَاحَةٍ مُنْتَظَمَةٍ لِتَجْدِيدِ النَّشَاطِ.",
       "translation": "Stručnjaci savjetuju podjelu teškog gradiva na male dijelove uz redovne pauze radi obnavljanja energije.",
-      "translationEn": "Experts advise dividing difficult subjects into small parts while taking regular breaks to refresh energy."
+      "translationEn": "Experts advise dividing difficult subjects into small parts while taking regular breaks to refresh energy.",
+      "words": [
+        {
+          "w": "يَنْصَحُ",
+          "lemma": "نَصَحَ يَنْصَحُ"
+        },
+        {
+          "w": "الْخُبَرَاءُ",
+          "lemma": "خَبِيرٌ / خُبَرَاءُ"
+        },
+        {
+          "w": "بِتَقْسِيمِ",
+          "lemma": "تَقْسِيمٌ"
+        },
+        {
+          "w": "الْمَوَادِّ",
+          "lemma": "مَادَّةٌ / مَوَادُّ"
+        },
+        {
+          "w": "الصَّعْبَةِ",
+          "lemma": "صَعْبٌ"
+        },
+        {
+          "w": "أَجْزَاءَ",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "صَغِيرَةٍ",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "أَخْذِ",
+          "lemma": "أَخْذٌ"
+        },
+        {
+          "w": "فَتَرَاتِ",
+          "lemma": "فَتْرَةٌ / فَتَرَاتٌ"
+        },
+        {
+          "w": "رَاحَةٍ",
+          "lemma": "رَاحَةٌ"
+        },
+        {
+          "w": "مُنْتَظَمَةٍ",
+          "lemma": "مُنْتَظَمٌ"
+        },
+        {
+          "w": "لِتَجْدِيدِ",
+          "lemma": "تَجْدِيدٌ"
+        },
+        {
+          "w": "النَّشَاطِ",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
+        }
+      ]
     },
     {
-      "arabic": "كَمَا أَنَّ تَلْخِيصَ الْأَفْكَارِ الرَّئِيسِيَّةِ بِأُسْلُوبِ الشَّخْصِ الْخَاصِّ يُسَاعِدُ عَلَى تَرْسِيخِ الْمَعْلُومَاتِ فِي الذَّاكِرَةِ طَوِيلَةِ الْمَدَى.",
+      "arabic": "كَمَا أَنَّ تَلْخِيصَ الْأَفْكَارِ الرَّئِيسِيَّةِ بِأُسْلُوبِ الشَّخْصِ الْخَاصِّ يُسَاعِدُ عَلَى تَرْسِيخِ الْمَعْلُومَاتِ فِي الذَّاكِرَةِ طَوِيلَةِ الْمَدَى.",
       "translation": "Također, sažimanje glavnih ideja na vlastiti način pomaže u učvršćivanju informacija u dugoročnom pamćenju.",
-      "translationEn": "Also, summarizing key ideas in one's own style helps to consolidate information in long-term memory."
+      "translationEn": "Also, summarizing key ideas in one's own style helps to consolidate information in long-term memory.",
+      "words": [
+        {
+          "w": "تَلْخِيصَ",
+          "lemma": "تَلْخِيصٌ"
+        },
+        {
+          "w": "الْأَفْكَارِ",
+          "lemma": "فِكْرٌ / أَفْكَارٌ"
+        },
+        {
+          "w": "الرَّئِيسِيَّةِ",
+          "lemma": "رَئِيسِيٌّ"
+        },
+        {
+          "w": "بِأُسْلُوبِ",
+          "lemma": "أُسْلُوبٌ / أَسَالِيبُ"
+        },
+        {
+          "w": "الشَّخْصِ",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
+        },
+        {
+          "w": "الْخَاصِّ",
+          "lemma": "خَاصٌّ"
+        },
+        {
+          "w": "يُسَاعِدُ",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "تَرْسِيخِ",
+          "lemma": "تَرْسِيخٌ"
+        },
+        {
+          "w": "الْمَعْلُومَاتِ",
+          "lemma": "مَعْلُومَةٌ / مَعْلُومَاتٌ"
+        },
+        {
+          "w": "الذَّاكِرَةِ",
+          "lemma": "ذَاكِرَةٌ"
+        },
+        {
+          "w": "طَوِيلَةِ",
+          "lemma": "طَوِيلٌ"
+        },
+        {
+          "w": "الْمَدَى",
+          "lemma": "مَدًى"
+        }
+      ]
     },
     {
-      "arabic": "بِالْإِضَافَةِ إِلَى ذَلِكَ، يُؤَدِّي التَّعَاوُنُ مَعَ الزُّمَلَاءِ فِي مَجْمُوعَاتٍ دِرَاسِيَّةٍ إِلَى تَبَادُلِ الْخِبْرَاتِ وَتَوْضِيحِ الْمَفَاهِيمِ الْغَامِضَةِ.",
+      "arabic": "بِالْإِضَافَةِ إِلَى ذَلِكَ، يُؤَدِّي التَّعَاوُنُ مَعَ الزُّمَلَاءِ فِي مَجْمُوعَاتٍ دِرَاسِيَّةٍ إِلَى تَبَادُلِ الْخِبْرَاتِ وَتَوْضِيحِ الْمَفَاهِيمِ الْغَامِضَةِ.",
       "translation": "Osim toga, saradnja s kolegama u studijskim grupama dovodi do razmjene iskustava i razjašnjavanja nejasnih koncepata.",
-      "translationEn": "In addition, collaborating with peers in study groups leads to the exchange of experiences and clarification of ambiguous concepts."
+      "translationEn": "In addition, collaborating with peers in study groups leads to the exchange of experiences and clarification of ambiguous concepts.",
+      "words": [
+        {
+          "w": "يُؤَدِّي",
+          "lemma": "أَدَّى يُؤَدِّي"
+        },
+        {
+          "w": "التَّعَاوُنُ",
+          "lemma": "تَعَاوُنٌ"
+        },
+        {
+          "w": "الزُّمَلَاءِ",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "مَجْمُوعَاتٍ",
+          "lemma": "مَجْمُوعَةٌ / مَجْمُوعَاتٌ"
+        },
+        {
+          "w": "دِرَاسِيَّةٍ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "تَبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الْخِبْرَاتِ",
+          "lemma": "خِبْرَةٌ / خِبْرَاتٌ"
+        },
+        {
+          "w": "وَتَوْضِيحِ",
+          "lemma": "تَوْضِيحٌ"
+        },
+        {
+          "w": "الْمَفَاهِيمِ",
+          "lemma": "مَفْهُومٌ / مَفَاهِيمُ"
+        },
+        {
+          "w": "الْغَامِضَةِ",
+          "lemma": "غَامِضٌ"
+        }
+      ]
     }
   ],
   "metadata": {

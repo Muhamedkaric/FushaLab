@@ -4,29 +4,151 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَمْتَازُ الْمُوسِيقَى الْعَرَبِيَّةُ بِاسْتِخْدَامِ آلَاتٍ تَقْلِيدِيَّةٍ قَدِيمَةٍ.",
+      "arabic": "تَمْتَازُ الْمُوسِيقَى الْعَرَبِيَّةُ بِاسْتِخْدَامِ آلَاتٍ تَقْلِيدِيَّةٍ قَدِيمَةٍ.",
       "translation": "Arapska muzika se odlikuje upotrebom drevnih tradicionalnih instrumenata.",
-      "translationEn": "Arabic music is characterized by the use of ancient traditional instruments."
+      "translationEn": "Arabic music is characterized by the use of ancient traditional instruments.",
+      "words": [
+        {
+          "w": "تَمْتَازُ",
+          "lemma": "امْتَازَ يَمْتَازُ"
+        },
+        {
+          "w": "الْمُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "بِاسْتِخْدَامِ",
+          "lemma": "اسْتِخْدَامٌ / اسْتِخْدَامَاتٌ"
+        },
+        {
+          "w": "آلَاتٍ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "تَقْلِيدِيَّةٍ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "قَدِيمَةٍ",
+          "lemma": "قَدِيمٌ"
+        }
+      ]
     },
     {
-      "arabic": "يُعَدُّ الْعُودُ مَلِكَ الْآلَاتِ الْمُوسِيقِيَّةِ فِي الشَّرْقِ.",
+      "arabic": "يُعَدُّ الْعُودُ مَلِكَ الْآلَاتِ الْمُوسِيقِيَّةِ فِي الشَّرْقِ.",
       "translation": "Ud se smatra kraljem muzičkih instrumenata na Istoku.",
-      "translationEn": "The Oud is considered the king of musical instruments in the East."
+      "translationEn": "The Oud is considered the king of musical instruments in the East.",
+      "words": [
+        {
+          "w": "الْعُودُ",
+          "lemma": "عُودٌ / أَعْوَادٌ"
+        },
+        {
+          "w": "مَلِكَ",
+          "lemma": "مَلِكٌ / مُلُوكٌ"
+        },
+        {
+          "w": "الْآلَاتِ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "الْمُوسِيقِيَّةِ",
+          "lemma": "مُوسِيقِيٌّ"
+        },
+        {
+          "w": "الشَّرْقِ",
+          "lemma": "شَرْقٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَعْزِفُ الْفَنَّانُ عَلَى أَوْتَارِهِ أَلْحَانًا حَزِينَةً أَوْ سَعِيدَةً.",
+      "arabic": "يَعْزِفُ الْفَنَّانُ عَلَى أَوْتَارِهِ أَلْحَانًا حَزِينَةً أَوْ سَعِيدَةً.",
       "translation": "Umjetnik na njegovim žicama svira tužne ili vesele melodije.",
-      "translationEn": "The artist plays sad or happy melodies on its strings."
+      "translationEn": "The artist plays sad or happy melodies on its strings.",
+      "words": [
+        {
+          "w": "يَعْزِفُ",
+          "lemma": "عَزَفَ يَعْزِفُ"
+        },
+        {
+          "w": "الْفَنَّانُ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "أَوْتَارِهِ",
+          "lemma": "وَتَرٌ / أَوْتَارٌ"
+        },
+        {
+          "w": "أَلْحَانًا",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "حَزِينَةً",
+          "lemma": "حَزِينٌ"
+        },
+        {
+          "w": "سَعِيدَةً",
+          "lemma": "سَعِيدٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَسْتَمِعُ النَّاسُ إِلَى هَذِهِ الْمُوسِيقَى فِي الْأَمْسِيَاتِ الثَّقَافِيَّةِ.",
+      "arabic": "يَسْتَمِعُ النَّاسُ إِلَى هَذِهِ الْمُوسِيقَى فِي الْأَمْسِيَاتِ الثَّقَافِيَّةِ.",
       "translation": "Ljudi slušaju ovu muziku tokom kulturnih večeri.",
-      "translationEn": "People listen to this music during cultural evenings."
+      "translationEn": "People listen to this music during cultural evenings.",
+      "words": [
+        {
+          "w": "يَسْتَمِعُ",
+          "lemma": "اسْتَمَعَ يَسْتَمِعُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        },
+        {
+          "w": "الْمُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "الْأَمْسِيَاتِ",
+          "lemma": "أَمْسِيَةٌ / أَمْسِيَاتٌ"
+        },
+        {
+          "w": "الثَّقَافِيَّةِ",
+          "lemma": "ثَقَافِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "تُعَبِّرُ هَذِهِ الْأَنْغَامُ عَنْ مَشَاعِرِ النَّاسِ وَتَارِيخِهِمْ.",
+      "arabic": "تُعَبِّرُ هَذِهِ الْأَنْغَامُ عَنْ مَشَاعِرِ النَّاسِ وَتَارِيخِهِمْ.",
       "translation": "Ovi tonovi izražavaju osjećanja ljudi i njihovu historiju.",
-      "translationEn": "These tunes express people's feelings and their history."
+      "translationEn": "These tunes express people's feelings and their history.",
+      "words": [
+        {
+          "w": "تُعَبِّرُ",
+          "lemma": "عَبَّرَ يُعَبِّرُ"
+        },
+        {
+          "w": "الْأَنْغَامُ",
+          "lemma": "نَغَمٌ / أَنْغَامٌ"
+        },
+        {
+          "w": "مَشَاعِرِ",
+          "lemma": "مَشْعَرٌ / مَشَاعِرُ"
+        },
+        {
+          "w": "النَّاسِ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        },
+        {
+          "w": "وَتَارِيخِهِمْ",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        }
+      ]
     }
   ],
   "metadata": {

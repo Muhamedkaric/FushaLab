@@ -4,39 +4,239 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ التَّعَلُّمُ مَدَى الْحَيَاةِ فَلْسَفَةً تُشَجِّعُ الْأَفْرَادَ عَلَى اكْتِسَابِ مَهَارَاتٍ جَدِيدَةٍ بَصَرْفِ النَّظَرِ عَنْ أَعْمَارِهِمْ.",
+      "arabic": "يُعْتَبَرُ التَّعَلُّمُ مَدَى الْحَيَاةِ فَلْسَفَةً تُشَجِّعُ الْأَفْرَادَ عَلَى اكْتِسَابِ مَهَارَاتٍ جَدِيدَةٍ بَصَرْفِ النَّظَرِ عَنْ أَعْمَارِهِمْ.",
       "translation": "Cjeloživotno učenje se smatra filozofijom koja podstiče pojedince na sticanje novih vještina bez obzira na njihove godine.",
       "translationEn": "Lifelong learning is considered a philosophy that encourages individuals to acquire new skills regardless of their age.",
-      "words": []
-    },
-    {
-      "arabic": "فِي عَالَمٍ مُتَسَارِعِ التَّغَيُّرِ، أَصْبَحَ التَّطْوِيرُ الْمِهْنِيُّ ضَرُورَةً لِمُوَاكَبَةِ مُتَطَلَّبَاتِ سُوقِ الْعَمَلِ.",
-      "translation": "U svijetu koji se brzo mijenja, profesionalni razvoj postao je neophodnost za praćenje zahtjeva tržišta rada.",
-      "translationEn": "In a rapidly changing world, professional development has become a necessity to keep pace with the job market requirements.",
-      "words": []
-    },
-    {
-      "arabic": "يَلْتَحِقُ الْكَثِيرُونَ بِدَوْرَاتٍ عَبْرَ الْإِنْتِرْنِتِ لِإِتْقَانِ لُغَاتٍ أَجْنَبِيَّةٍ أَوْ تِقْنِيَاتِ الْبَرْمَجَةِ.",
-      "translation": "Mnogi se upisuju na online kurseve kako bi savladali strane jezike ili tehnike programiranja.",
-      "translationEn": "Many people enroll in online courses to master foreign languages or programming techniques.",
       "words": [
         {
-          "w": "عَبْرَ",
-          "lemma": "عَبْرَ"
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "التَّعَلُّمُ",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "مَدَى",
+          "lemma": "مَدًى"
+        },
+        {
+          "w": "الْحَيَاةِ",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "فَلْسَفَةً",
+          "lemma": "فَلْسَفَةٌ / فَلْسَفَاتٌ"
+        },
+        {
+          "w": "تُشَجِّعُ",
+          "lemma": "شَجَّعَ يُشَجِّعُ"
+        },
+        {
+          "w": "الْأَفْرَادَ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "اكْتِسَابِ",
+          "lemma": "اِكْتِسَابٌ"
+        },
+        {
+          "w": "مَهَارَاتٍ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "أَعْمَارِهِمْ",
+          "lemma": "عُمْرٌ / أَعْمَارٌ"
         }
       ]
     },
     {
-      "arabic": "إِنَّ هَذَا السَّعْيَ الْمُسْتَمِرَّ وَرَاءَ الْمَعْرِفَةِ يُوَسِّعُ الْآفَاقَ وَيُعَزِّزُ الثِّقَةَ بِالنَّفْسِ بِشَكْلٍ كَبِيرٍ.",
-      "translation": "Ova neprestana potraga za znanjem proširuje vidike i značajno jača samopouzdanje.",
-      "translationEn": "This continuous pursuit of knowledge broadens horizons and significantly boosts self-confidence.",
-      "words": []
+      "arabic": "فِي عَالَمٍ مُتَسَارِعِ التَّغَيُّرِ، أَصْبَحَ التَّطْوِيرُ الْمِهْنِيُّ ضَرُورَةً لِمُوَاكَبَةِ مُتَطَلَّبَاتِ سُوقِ الْعَمَلِ.",
+      "translation": "U svijetu koji se brzo mijenja, profesionalni razvoj postao je neophodnost za praćenje zahtjeva tržišta rada.",
+      "translationEn": "In a rapidly changing world, professional development has become a necessity to keep pace with the job market requirements.",
+      "words": [
+        {
+          "w": "عَالَمٍ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        },
+        {
+          "w": "مُتَسَارِعِ",
+          "lemma": "مُتَسَارِعٌ"
+        },
+        {
+          "w": "التَّغَيُّرِ",
+          "lemma": "تَغَيُّرٌ"
+        },
+        {
+          "w": "أَصْبَحَ",
+          "lemma": "أَصْبَحَ يُصْبِحُ"
+        },
+        {
+          "w": "التَّطْوِيرُ",
+          "lemma": "تَطْوِيرٌ"
+        },
+        {
+          "w": "الْمِهْنِيُّ",
+          "lemma": "مِهْنِيٌّ"
+        },
+        {
+          "w": "ضَرُورَةً",
+          "lemma": "ضَرُورَةٌ / ضَرُورَاتٌ"
+        },
+        {
+          "w": "لِمُوَاكَبَةِ",
+          "lemma": "مُوَاكَبَةٌ"
+        },
+        {
+          "w": "مُتَطَلَّبَاتِ",
+          "lemma": "مُتَطَلَّبٌ / مُتَطَلَّبَاتٌ"
+        },
+        {
+          "w": "سُوقِ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        }
+      ]
     },
     {
-      "arabic": "فِي النِّهَايَةِ، التَّعْلِيمُ رِحْلَةٌ تَبْدَأُ مِنَ الْمَهْدِ وَلَا تَنْتَهِي إِلَّا بِنِهَايَةِ الْعُمْرِ.",
+      "arabic": "يَلْتَحِقُ الْكَثِيرُونَ بِدَوْرَاتٍ عَبْرَ الْإِنْتِرْنِتِ لِإِتْقَانِ لُغَاتٍ أَجْنَبِيَّةٍ أَوْ تِقْنِيَاتِ الْبَرْمَجَةِ.",
+      "translation": "Mnogi se upisuju na online kurseve kako bi savladali strane jezike ili tehnike programiranja.",
+      "translationEn": "Many people enroll in online courses to master foreign languages or programming techniques.",
+      "words": [
+        {
+          "w": "يَلْتَحِقُ",
+          "lemma": "الْتَحَقَ يَلْتَحِقُ"
+        },
+        {
+          "w": "الْكَثِيرُونَ",
+          "lemma": "كَثِيرٌ"
+        },
+        {
+          "w": "بِدَوْرَاتٍ",
+          "lemma": "دَوْرَةٌ / دَوْرَاتٌ"
+        },
+        {
+          "w": "عَبْرَ",
+          "lemma": "عَبْرَ"
+        },
+        {
+          "w": "الْإِنْتِرْنِتِ",
+          "lemma": "إِنْتَرْنِتٌ"
+        },
+        {
+          "w": "لِإِتْقَانِ",
+          "lemma": "إِتْقَانٌ"
+        },
+        {
+          "w": "لُغَاتٍ",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "أَجْنَبِيَّةٍ",
+          "lemma": "أَجْنَبِيٌّ"
+        },
+        {
+          "w": "تِقْنِيَاتِ",
+          "lemma": "تِقْنِيَةٌ / تِقْنِيَاتٌ"
+        },
+        {
+          "w": "الْبَرْمَجَةِ",
+          "lemma": "بَرْمَجَةٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "إِنَّ هَذَا السَّعْيَ الْمُسْتَمِرَّ وَرَاءَ الْمَعْرِفَةِ يُوَسِّعُ الْآفَاقَ وَيُعَزِّزُ الثِّقَةَ بِالنَّفْسِ بِشَكْلٍ كَبِيرٍ.",
+      "translation": "Ova neprestana potraga za znanjem proširuje vidike i značajno jača samopouzdanje.",
+      "translationEn": "This continuous pursuit of knowledge broadens horizons and significantly boosts self-confidence.",
+      "words": [
+        {
+          "w": "السَّعْيَ",
+          "lemma": "سَعْيٌ"
+        },
+        {
+          "w": "الْمُسْتَمِرَّ",
+          "lemma": "مُسْتَمِرٌّ"
+        },
+        {
+          "w": "الْمَعْرِفَةِ",
+          "lemma": "مَعْرِفَةٌ"
+        },
+        {
+          "w": "يُوَسِّعُ",
+          "lemma": "وَسَّعَ يُوَسِّعُ"
+        },
+        {
+          "w": "الْآفَاقَ",
+          "lemma": "أُفُقٌ / آفَاقٌ"
+        },
+        {
+          "w": "وَيُعَزِّزُ",
+          "lemma": "عَزَّزَ يُعَزِّزُ"
+        },
+        {
+          "w": "الثِّقَةَ",
+          "lemma": "ثِقَةٌ"
+        },
+        {
+          "w": "بِالنَّفْسِ",
+          "lemma": "نَفْسٌ / نُفُوسٌ"
+        },
+        {
+          "w": "بِشَكْلٍ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "كَبِيرٍ",
+          "lemma": "كَبِيرٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "فِي النِّهَايَةِ، التَّعْلِيمُ رِحْلَةٌ تَبْدَأُ مِنَ الْمَهْدِ وَلَا تَنْتَهِي إِلَّا بِنِهَايَةِ الْعُمْرِ.",
       "translation": "Na kraju, obrazovanje je putovanje koje počinje od kolijevke i ne završava se do kraja života.",
       "translationEn": "Ultimately, education is a journey that starts from the cradle and does not end until the end of life.",
-      "words": []
+      "words": [
+        {
+          "w": "النِّهَايَةِ",
+          "lemma": "نِهَايَةٌ"
+        },
+        {
+          "w": "التَّعْلِيمُ",
+          "lemma": "تَعْلِيمٌ"
+        },
+        {
+          "w": "رِحْلَةٌ",
+          "lemma": "رِحْلَةٌ / رِحَلٌ"
+        },
+        {
+          "w": "تَبْدَأُ",
+          "lemma": "بَدَأَ يَبْدَأُ"
+        },
+        {
+          "w": "الْمَهْدِ",
+          "lemma": "مَهْدٌ / مُهُودٌ"
+        },
+        {
+          "w": "تَنْتَهِي",
+          "lemma": "انْتَهَى يَنْتَهِي"
+        },
+        {
+          "w": "بِنِهَايَةِ",
+          "lemma": "نِهَايَةٌ"
+        },
+        {
+          "w": "الْعُمْرِ",
+          "lemma": "عُمْرٌ / أَعْمَارٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -4,29 +4,279 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ التَّوَابِلُ رُوحَ الْمَطْبَخِ الْعَرَبِيِّ، فَبِدُونِهَا لَا يُمْكِنُ تَحْقِيقُ ذَلِكَ التَّمَايُزِ الْعَمِيقِ فِي النَّكْهَاتِ الَّتِي نَعْرِفُهَا وَنُحِبُّهَا.",
+      "arabic": "تُمَثِّلُ التَّوَابِلُ رُوحَ الْمَطْبَخِ الْعَرَبِيِّ، فَبِدُونِهَا لَا يُمْكِنُ تَحْقِيقُ ذَلِكَ التَّمَايُزِ الْعَمِيقِ فِي النَّكْهَاتِ الَّتِي نَعْرِفُهَا وَنُحِبُّهَا.",
       "translation": "Začini predstavljaju dušu arapske kuhinje, jer se bez njih ne može postići ona duboka prepoznatljivost u okusima koje poznajemo i volimo.",
-      "translationEn": "Spices represent the soul of Arab cuisine, for without them, that deep distinction in flavors that we know and love cannot be achieved."
+      "translationEn": "Spices represent the soul of Arab cuisine, for without them, that deep distinction in flavors that we know and love cannot be achieved.",
+      "words": [
+        {
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "التَّوَابِلُ",
+          "lemma": "تَابِلٌ / تَوَابِلُ"
+        },
+        {
+          "w": "رُوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "الْمَطْبَخِ",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "تَحْقِيقُ",
+          "lemma": "تَحْقِيقٌ"
+        },
+        {
+          "w": "التَّمَايُزِ",
+          "lemma": "تَمَايُزٌ"
+        },
+        {
+          "w": "الْعَمِيقِ",
+          "lemma": "عَمِيقٌ"
+        },
+        {
+          "w": "النَّكْهَاتِ",
+          "lemma": "نَكْهَةٌ / نَكَهَاتٌ"
+        },
+        {
+          "w": "نَعْرِفُهَا",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "وَنُحِبُّهَا",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        }
+      ]
     },
     {
-      "arabic": "تُسْتَخْدَمُ خَلَطَاتٌ خَاصَّةٌ مِثْلُ \"الْبَهَارَاتِ السَّبْعِ\" لِإِضْفَاءِ عُمْقٍ وَتَعْقِيدٍ عَلَى أَطْبَاقِ اللَّحُومِ وَالْخُضْرَوَاتِ الْمَطْهُوَّةِ بِبُطْءٍ.",
+      "arabic": "تُسْتَخْدَمُ خَلَطَاتٌ خَاصَّةٌ مِثْلُ \"الْبَهَارَاتِ السَّبْعِ\" لِإِضْفَاءِ عُمْقٍ وَتَعْقِيدٍ عَلَى أَطْبَاقِ اللَّحُومِ وَالْخُضْرَوَاتِ الْمَطْهُوَّةِ بِبُطْءٍ.",
       "translation": "Posebne mješavine poput 'sedam začina' koriste se za dodavanje dubine i složenosti jelima od mesa i povrća koja se sporo kuhaju.",
-      "translationEn": "Special blends such as 'seven spices' are used to add depth and complexity to meat and vegetable dishes cooked slowly."
+      "translationEn": "Special blends such as 'seven spices' are used to add depth and complexity to meat and vegetable dishes cooked slowly.",
+      "words": [
+        {
+          "w": "تُسْتَخْدَمُ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "خَلَطَاتٌ",
+          "lemma": "خَلْطَةٌ / خَلَطَاتٌ"
+        },
+        {
+          "w": "خَاصَّةٌ",
+          "lemma": "خَاصٌّ"
+        },
+        {
+          "w": "الْبَهَارَاتِ",
+          "lemma": "بَهَارٌ / بَهَارَاتٌ"
+        },
+        {
+          "w": "لِإِضْفَاءِ",
+          "lemma": "إِضْفَاءٌ"
+        },
+        {
+          "w": "عُمْقٍ",
+          "lemma": "عُمْقٌ"
+        },
+        {
+          "w": "وَتَعْقِيدٍ",
+          "lemma": "تَعْقِيدٌ"
+        },
+        {
+          "w": "أَطْبَاقِ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "اللَّحُومِ",
+          "lemma": "لَحْمٌ / لُحُومٌ"
+        },
+        {
+          "w": "وَالْخُضْرَوَاتِ",
+          "lemma": "خَضْرَاوَاتٌ"
+        },
+        {
+          "w": "الْمَطْهُوَّةِ",
+          "lemma": "مَطْهُوٌّ"
+        },
+        {
+          "w": "بِبُطْءٍ",
+          "lemma": "بُطْءٌ"
+        }
+      ]
     },
     {
-      "arabic": "وَيُضِيفُ السُّمَّاقُ بِلَوْنِهِ الْأُرْجُوَانِيِّ لَمْسَةً مِنَ الْحُمُوضَةِ الْمُنْعِشَةِ لِلسَّلَطَاتِ وَالْمَشْوِيَّاتِ، مِمَّا يُغْنِي عَنِ اسْتِخْدَامِ كَمِيَّاتٍ كَبِيرَةٍ مِنَ الْمِلْحِ.",
+      "arabic": "وَيُضِيفُ السُّمَّاقُ بِلَوْنِهِ الْأُرْجُوَانِيِّ لَمْسَةً مِنَ الْحُمُوضَةِ الْمُنْعِشَةِ لِلسَّلَطَاتِ وَالْمَشْوِيَّاتِ، مِمَّا يُغْنِي عَنِ اسْتِخْدَامِ كَمِيَّاتٍ كَبِيرَةٍ مِنَ الْمِلْحِ.",
       "translation": "Sumak svojom ljubičastom bojom dodaje dašak osvježavajuće kiselosti salatama i roštilju, što smanjuje potrebu za korištenjem velikih količina soli.",
-      "translationEn": "Sumac, with its purple color, adds a touch of refreshing acidity to salads and grilled dishes, making the use of large amounts of salt unnecessary."
+      "translationEn": "Sumac, with its purple color, adds a touch of refreshing acidity to salads and grilled dishes, making the use of large amounts of salt unnecessary.",
+      "words": [
+        {
+          "w": "وَيُضِيفُ",
+          "lemma": "أَضَافَ يُضِيفُ"
+        },
+        {
+          "w": "السُّمَّاقُ",
+          "lemma": "سُمَّاقٌ"
+        },
+        {
+          "w": "بِلَوْنِهِ",
+          "lemma": "لَوْنٌ / أَلْوَانٌ"
+        },
+        {
+          "w": "الْأُرْجُوَانِيِّ",
+          "lemma": "أُرْجُوَانِيٌّ"
+        },
+        {
+          "w": "لَمْسَةً",
+          "lemma": "لَمْسَةٌ / لَمَسَاتٌ"
+        },
+        {
+          "w": "الْحُمُوضَةِ",
+          "lemma": "حُمُوضَةٌ"
+        },
+        {
+          "w": "الْمُنْعِشَةِ",
+          "lemma": "مُنْعِشٌ"
+        },
+        {
+          "w": "لِلسَّلَطَاتِ",
+          "lemma": "سَلَطَةٌ / سَلَطَاتٌ"
+        },
+        {
+          "w": "وَالْمَشْوِيَّاتِ",
+          "lemma": "مَشْوِيَّاتٌ"
+        },
+        {
+          "w": "يُغْنِي",
+          "lemma": "أَغْنَى يُغْنِي"
+        },
+        {
+          "w": "اسْتِخْدَامِ",
+          "lemma": "اسْتِخْدَامٌ"
+        },
+        {
+          "w": "كَمِيَّاتٍ",
+          "lemma": "كَمِيَّةٌ / كَمِيَّاتٌ"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "الْمِلْحِ",
+          "lemma": "مِلْحٌ"
+        }
+      ]
     },
     {
-      "arabic": "كَمَا أَنَّ لِلْكُرْكُمِ وَالْكَمُّونِ خَصَائِصَ طِبِّيَّةً مَعْرُوفَةً، فَهُمَا يُسَاعِدَانِ فِي تَقْلِيلِ الِالْتِهَابَاتِ وَتَسْهِيلِ عَمَلِيَّةِ التَّمْثِيلِ الْغِذَائِيِّ.",
+      "arabic": "كَمَا أَنَّ لِلْكُرْكُمِ وَالْكَمُّونِ خَصَائِصَ طِبِّيَّةً مَعْرُوفَةً، فَهُمَا يُسَاعِدَانِ فِي تَقْلِيلِ الِالْتِهَابَاتِ وَتَسْهِيلِ عَمَلِيَّةِ التَّمْثِيلِ الْغِذَائِيِّ.",
       "translation": "Također, kurkuma i kumin imaju poznata ljekovita svojstva, jer pomažu u smanjenju upala i olakšavaju proces metabolizma.",
-      "translationEn": "Additionally, turmeric and cumin have known medicinal properties, as they help reduce inflammation and facilitate the metabolism process."
+      "translationEn": "Additionally, turmeric and cumin have known medicinal properties, as they help reduce inflammation and facilitate the metabolism process.",
+      "words": [
+        {
+          "w": "لِلْكُرْكُمِ",
+          "lemma": "كُرْكُمٌ"
+        },
+        {
+          "w": "وَالْكَمُّونِ",
+          "lemma": "كَمُّونٌ"
+        },
+        {
+          "w": "خَصَائِصَ",
+          "lemma": "خَاصِيَّةٌ / خَصَائِصُ"
+        },
+        {
+          "w": "طِبِّيَّةً",
+          "lemma": "طِبِّيٌّ"
+        },
+        {
+          "w": "مَعْرُوفَةً",
+          "lemma": "مَعْرُوفٌ"
+        },
+        {
+          "w": "يُسَاعِدَانِ",
+          "lemma": "سَاعَدَ يُسَاعِدُ"
+        },
+        {
+          "w": "تَقْلِيلِ",
+          "lemma": "تَقْلِيلٌ"
+        },
+        {
+          "w": "الِالْتِهَابَاتِ",
+          "lemma": "الْتِهَابٌ / الْتِهَابَاتٌ"
+        },
+        {
+          "w": "وَتَسْهِيلِ",
+          "lemma": "تَسْهِيلٌ"
+        },
+        {
+          "w": "عَمَلِيَّةِ",
+          "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ"
+        },
+        {
+          "w": "التَّمْثِيلِ",
+          "lemma": "تَمْثِيلٌ"
+        },
+        {
+          "w": "الْغِذَائِيِّ",
+          "lemma": "غِذَائِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "هَكَذَا، يَتَحَوَّلُ الطَّهْيُ إِلَى كِيمْيَاءٍ فَنِّيَّةٍ تَمْزُجُ بَيْنَ الْمَذَاقِ الرَّائِعِ وَالْفَائِدَةِ الْبَدَنِيَّةِ فِي كُلِّ لُقْمَةٍ.",
+      "arabic": "هَكَذَا، يَتَحَوَّلُ الطَّهْيُ إِلَى كِيمْيَاءٍ فَنِّيَّةٍ تَمْزُجُ بَيْنَ الْمَذَاقِ الرَّائِعِ وَالْفَائِدَةِ الْبَدَنِيَّةِ فِي كُلِّ لُقْمَةٍ.",
       "translation": "Tako se kuhanje pretvara u umjetničku hemiju koja spaja sjajan ukus i fizičku korist u svakom zalogaju.",
-      "translationEn": "Thus, cooking turns into an artistic chemistry that blends great taste and physical benefit in every bite."
+      "translationEn": "Thus, cooking turns into an artistic chemistry that blends great taste and physical benefit in every bite.",
+      "words": [
+        {
+          "w": "يَتَحَوَّلُ",
+          "lemma": "تَحَوَّلَ يَتَحَوَّلُ"
+        },
+        {
+          "w": "الطَّهْيُ",
+          "lemma": "طَهْيٌ"
+        },
+        {
+          "w": "كِيمْيَاءٍ",
+          "lemma": "كِيمْيَاءٌ"
+        },
+        {
+          "w": "فَنِّيَّةٍ",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "تَمْزُجُ",
+          "lemma": "مَزَجَ يَمْزُجُ"
+        },
+        {
+          "w": "الْمَذَاقِ",
+          "lemma": "مَذَاقٌ"
+        },
+        {
+          "w": "الرَّائِعِ",
+          "lemma": "رَائِعٌ"
+        },
+        {
+          "w": "وَالْفَائِدَةِ",
+          "lemma": "فَائِدَةٌ / فَوَائِدُ"
+        },
+        {
+          "w": "الْبَدَنِيَّةِ",
+          "lemma": "بَدَنِيٌّ"
+        },
+        {
+          "w": "كُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "لُقْمَةٍ",
+          "lemma": "لُقْمَةٌ / لُقَمٌ"
+        }
+      ]
     }
   ],
   "metadata": {

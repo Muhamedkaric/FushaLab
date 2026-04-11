@@ -4,29 +4,90 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الْحَيَاةُ الْجَامِعِيَّةُ مَرْحَلَةً مِحْوَرِيَّةً فِي صَقْلِ شَخْصِيَّةِ الطَّالِبِ وَتَوْسِيعِ مَدَارِكِهِ الْفِكْرِيَّةِ.",
+      "arabic": "تُعَدُّ الْحَيَاةُ الْجَامِعِيَّةُ مَرْحَلَةً مِحْوَرِيَّةً فِي صَقْلِ شَخْصِيَّةِ الطَّالِبِ وَتَوْسِيعِ مَدَارِكِهِ الْفِكْرِيَّةِ.",
       "translation": "Univerzitetski život se smatra ključnom fazom u oblikovanju ličnosti studenta i širenju njegovih intelektualnih vidika.",
-      "translationEn": "University life is considered a pivotal stage in refining a student's personality and expanding their intellectual horizons."
+      "translationEn": "University life is considered a pivotal stage in refining a student's personality and expanding their intellectual horizons.",
+      "words": [
+        { "w": "الْحَيَاةُ", "lemma": "حَيَاةٌ" },
+        { "w": "الْجَامِعِيَّةُ", "lemma": "جَامِعِيٌّ" },
+        { "w": "مَرْحَلَةً", "lemma": "مَرْحَلَةٌ / مَرَاحِلُ" },
+        { "w": "مِحْوَرِيَّةً", "lemma": "مِحْوَرِيٌّ" },
+        { "w": "صَقْلِ", "lemma": "صَقْلٌ" },
+        { "w": "شَخْصِيَّةِ", "lemma": "شَخْصِيَّةٌ / شَخْصِيَّاتٌ" },
+        { "w": "الطَّالِبِ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "وَتَوْسِيعِ", "lemma": "تَوْسِيعٌ" },
+        { "w": "مَدَارِكِهِ", "lemma": "مُدْرَكٌ / مَدَارِكُ" },
+        { "w": "الْفِكْرِيَّةِ", "lemma": "فِكْرِيٌّ" }
+      ]
     },
     {
-      "arabic": "لَا يَقْتَصِرُ التَّعْلِيمُ الْعَالِي عَلَى تَلَقِّي الْمُحَاضَرَاتِ فَحَسْبُ، بَلْ يَمْتَدُّ لِيَشْمَلَ الْبَحْثَ الْعِلْمِيَّ الرَّصِينَ.",
+      "arabic": "لَا يَقْتَصِرُ التَّعْلِيمُ الْعَالِي عَلَى تَلَقِّي الْمُحَاضَرَاتِ فَحَسْبُ، بَلْ يَمْتَدُّ لِيَشْمَلَ الْبَحْثَ الْعِلْمِيَّ الرَّصِينَ.",
       "translation": "Visoko obrazovanje nije ograničeno samo na pohađanje predavanja, već se proteže i na ozbiljan naučni istraživački rad.",
-      "translationEn": "Higher education is not limited to just receiving lectures, but extends to include rigorous scientific research."
+      "translationEn": "Higher education is not limited to just receiving lectures, but extends to include rigorous scientific research.",
+      "words": [
+        { "w": "يَقْتَصِرُ", "lemma": "اقْتَصَرَ يَقْتَصِرُ" },
+        { "w": "التَّعْلِيمُ", "lemma": "تَعْلِيمٌ" },
+        { "w": "الْعَالِي", "lemma": "عَالٍ" },
+        { "w": "تَلَقِّي", "lemma": "تَلَقٍّ" },
+        { "w": "الْمُحَاضَرَاتِ", "lemma": "مُحَاضَرَةٌ / مُحَاضَرَاتٌ" },
+        { "w": "يَمْتَدُّ", "lemma": "امْتَدَّ يَمْتَدُّ" },
+        { "w": "لِيَشْمَلَ", "lemma": "شَمَلَ يَشْمَلُ" },
+        { "w": "الْبَحْثَ", "lemma": "بَحْثٌ / أَبْحَاثٌ" },
+        { "w": "الْعِلْمِيَّ", "lemma": "عِلْمِيٌّ" },
+        { "w": "الرَّصِينَ", "lemma": "رَصِينٌ" }
+      ]
     },
     {
-      "arabic": "يَنْبَغِي عَلَى الْبَاحِثِينَ الشَّبَابِ الِالْتِزَامُ بِالْمَعَايِيرِ الْأَخْلَاقِيَّةِ وَالْمَنْهَجِيَّةِ الدَّقِيقَةِ لِضَمَانِ جَوْدَةِ النَّتَائِجِ.",
+      "arabic": "يَنْبَغِي عَلَى الْبَاحِثِينَ الشَّبَابِ الِالْتِزَامُ بِالْمَعَايِيرِ الْأَخْلَاقِيَّةِ وَالْمَنْهَجِيَّةِ الدَّقِيقَةِ لِضَمَانِ جَوْدَةِ النَّتَائِجِ.",
       "translation": "Mladi istraživači moraju se pridržavati etičkih standarda i precizne metodologije kako bi osigurali kvalitet rezultata.",
-      "translationEn": "Young researchers must adhere to ethical standards and precise methodology to ensure the quality of results."
+      "translationEn": "Young researchers must adhere to ethical standards and precise methodology to ensure the quality of results.",
+      "words": [
+        { "w": "الْبَاحِثِينَ", "lemma": "بَاحِثٌ / بَاحِثُونَ" },
+        { "w": "الشَّبَابِ", "lemma": "شَبَابٌ" },
+        { "w": "الِالْتِزَامُ", "lemma": "الْتِزَامٌ" },
+        { "w": "بِالْمَعَايِيرِ", "lemma": "مِعْيَارٌ / مَعَايِيرُ" },
+        { "w": "الْأَخْلَاقِيَّةِ", "lemma": "أَخْلَاقِيٌّ" },
+        { "w": "وَالْمَنْهَجِيَّةِ", "lemma": "مَنْهَجِيَّةٌ" },
+        { "w": "الدَّقِيقَةِ", "lemma": "دَقِيقٌ" },
+        { "w": "لِضَمَانِ", "lemma": "ضَمَانٌ" },
+        { "w": "جَوْدَةِ", "lemma": "جَوْدَةٌ" },
+        { "w": "النَّتَائِجِ", "lemma": "نَتِيجَةٌ / نَتَائِجُ" }
+      ]
     },
     {
-      "arabic": "كَمَا تُتِيحُ النَّدَوَاتُ الْأَكَادِيمِيَّةُ فُرَصًا لِتَبَادُلِ الْآرَاءِ وَنَقْدِ النَّظَرِيَّاتِ الْمُعَاصِرَةِ بِشَكْلٍ بَنَّاءٍ.",
+      "arabic": "كَمَا تُتِيحُ النَّدَوَاتُ الْأَكَادِيمِيَّةُ فُرَصًا لِتَبَادُلِ الْآرَاءِ وَنَقْدِ النَّظَرِيَّاتِ الْمُعَاصِرَةِ بِشَكْلٍ بَنَّاءٍ.",
       "translation": "Također, akademski seminari pružaju prilike za razmjenu mišljenja i konstruktivnu kritiku savremenih teorija.",
-      "translationEn": "Academic seminars also provide opportunities to exchange views and constructively critique contemporary theories."
+      "translationEn": "Academic seminars also provide opportunities to exchange views and constructively critique contemporary theories.",
+      "words": [
+        { "w": "تُتِيحُ", "lemma": "أَتَاحَ يُتِيحُ" },
+        { "w": "النَّدَوَاتُ", "lemma": "نَدْوَةٌ / نَدَوَاتٌ" },
+        { "w": "الْأَكَادِيمِيَّةُ", "lemma": "أَكَادِيمِيٌّ" },
+        { "w": "فُرَصًا", "lemma": "فُرْصَةٌ / فُرَصٌ" },
+        { "w": "لِتَبَادُلِ", "lemma": "تَبَادُلٌ" },
+        { "w": "الْآرَاءِ", "lemma": "رَأْيٌ / آرَاءٌ" },
+        { "w": "وَنَقْدِ", "lemma": "نَقْدٌ" },
+        { "w": "النَّظَرِيَّاتِ", "lemma": "نَظَرِيَّةٌ / نَظَرِيَّاتٌ" },
+        { "w": "الْمُعَاصِرَةِ", "lemma": "مُعَاصِرٌ" },
+        { "w": "بَنَّاءٍ", "lemma": "بَنَّاءٌ" }
+      ]
     },
     {
-      "arabic": "فِي نِهَايَةِ الْمَطَافِ، يَتَخَرَّجُ الطُّلَّابُ وَهُمْ مُزَوَّدُونَ بِأَدَوَاتِ التَّحْلِيلِ الَّتِي تُؤَهِّلُهُمْ لِمُوَاجَهَةِ تَحَدِّيَاتِ سُوقِ الْعَمَلِ.",
+      "arabic": "فِي نِهَايَةِ الْمَطَافِ، يَتَخَرَّجُ الطُّلَّابُ وَهُمْ مُزَوَّدُونَ بِأَدَوَاتِ التَّحْلِيلِ الَّتِي تُؤَهِّلُهُمْ لِمُوَاجَهَةِ تَحَدِّيَاتِ سُوقِ الْعَمَلِ.",
       "translation": "Na kraju, studenti diplomiraju opremljeni analitičkim alatima koji ih osposobljavaju za suočavanje s izazovima tržišta rada.",
-      "translationEn": "Ultimately, students graduate equipped with analytical tools that qualify them to face the challenges of the labor market."
+      "translationEn": "Ultimately, students graduate equipped with analytical tools that qualify them to face the challenges of the labor market.",
+      "words": [
+        { "w": "نِهَايَةِ", "lemma": "نِهَايَةٌ" },
+        { "w": "يَتَخَرَّجُ", "lemma": "تَخَرَّجَ يَتَخَرَّجُ" },
+        { "w": "الطُّلَّابُ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "مُزَوَّدُونَ", "lemma": "مُزَوَّدٌ" },
+        { "w": "بِأَدَوَاتِ", "lemma": "أَدَاةٌ / أَدَوَاتٌ" },
+        { "w": "التَّحْلِيلِ", "lemma": "تَحْلِيلٌ" },
+        { "w": "تُؤَهِّلُهُمْ", "lemma": "أَهَّلَ يُؤَهِّلُ" },
+        { "w": "لِمُوَاجَهَةِ", "lemma": "مُوَاجَهَةٌ" },
+        { "w": "تَحَدِّيَاتِ", "lemma": "تَحَدٍّ / تَحَدِّيَاتٌ" },
+        { "w": "سُوقِ", "lemma": "سُوقٌ / أَسْوَاقٌ" },
+        { "w": "الْعَمَلِ", "lemma": "عَمَلٌ / أَعْمَالٌ" }
+      ]
     }
   ],
   "metadata": {

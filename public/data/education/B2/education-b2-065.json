@@ -4,39 +4,243 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "لَمْ يَعُدِ التَّعَلُّمُ مَحْصُوراً فِي سَنَوَاتِ الدِّرَاسَةِ النِّظَامِيَّةِ، بَلْ أَصْبَحَ عَمَلِيَّةً مُسْتَمِرَّةً مَدَى الْحَيَاةِ.",
+      "arabic": "لَمْ يَعُدِ التَّعَلُّمُ مَحْصُوراً فِي سَنَوَاتِ الدِّرَاسَةِ النِّظَامِيَّةِ، بَلْ أَصْبَحَ عَمَلِيَّةً مُسْتَمِرَّةً مَدَى الْحَيَاةِ.",
       "translation": "Učenje više nije ograničeno na godine formalnog obrazovanja, već je postalo kontinuiran cjeloživotni proces.",
       "translationEn": "Learning is no longer confined to the years of formal schooling, but has become a continuous lifelong process.",
-      "words": []
-    },
-    {
-      "arabic": "يَتَطَلَّبُ سُوقُ الْعَمَلِ الْحَدِيثُ اكْتِسَابَ مَهَارَاتٍ جَدِيدَةٍ بِشَكْلٍ دَائِمٍ لِمُوَاكَبَةِ التَّغَيُّرَاتِ السَّرِيعَةِ.",
-      "translation": "Savremeno tržište rada zahtijeva stalno sticanje novih vještina kako bi se išlo ukorak s brzim promjenama.",
-      "translationEn": "The modern labor market requires acquiring new skills constantly to keep pace with rapid changes.",
-      "words": []
-    },
-    {
-      "arabic": "تُوَفِّرُ الدَّوْرَاتُ التَّدْرِيبِيَّةُ عَبْرَ الْإِنْتَرْنِتِ فُرَصاً هَائِلَةً لِتَطْوِيرِ الذَّاتِ وَتَعْزِيزِ الْمَسَارِ الْمِهْنِيِّ.",
-      "translation": "Online kursevi obuke pružaju ogromne mogućnosti za samorazvoj i unapređenje karijernog puta.",
-      "translationEn": "Online training courses provide huge opportunities for self-development and enhancing the career path.",
       "words": [
         {
-          "w": "عَبْرَ",
-          "lemma": "عَبْرَ"
+          "w": "التَّعَلُّمُ",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "مَحْصُوراً",
+          "lemma": "مَحْصُورٌ"
+        },
+        {
+          "w": "سَنَوَاتِ",
+          "lemma": "سَنَةٌ / سَنَوَاتٌ"
+        },
+        {
+          "w": "الدِّرَاسَةِ",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        },
+        {
+          "w": "النِّظَامِيَّةِ",
+          "lemma": "نِظَامِيٌّ"
+        },
+        {
+          "w": "أَصْبَحَ",
+          "lemma": "أَصْبَحَ يُصْبِحُ"
+        },
+        {
+          "w": "عَمَلِيَّةً",
+          "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ"
+        },
+        {
+          "w": "مُسْتَمِرَّةً",
+          "lemma": "مُسْتَمِرٌّ"
+        },
+        {
+          "w": "مَدَى",
+          "lemma": "مَدًى"
+        },
+        {
+          "w": "الْحَيَاةِ",
+          "lemma": "حَيَاةٌ"
         }
       ]
     },
     {
-      "arabic": "إِنَّ الشَّغَفَ بِالْمَعْرِفَةِ يَدْفَعُ الْفَرْدَ لِاسْتِكْشَافِ مَجَالَاتٍ مُخْتَلِفَةٍ بَعِيداً عَنْ تَخَصُّصِهِ الْأَصْلِيِّ.",
-      "translation": "Strast za znanjem tjera pojedinca da istražuje različite oblasti izvan svoje prvobitne specijalizacije.",
-      "translationEn": "The passion for knowledge drives the individual to explore different fields far from their original specialization.",
-      "words": []
+      "arabic": "يَتَطَلَّبُ سُوقُ الْعَمَلِ الْحَدِيثُ اكْتِسَابَ مَهَارَاتٍ جَدِيدَةٍ بِشَكْلٍ دَائِمٍ لِمُوَاكَبَةِ التَّغَيُّرَاتِ السَّرِيعَةِ.",
+      "translation": "Savremeno tržište rada zahtijeva stalno sticanje novih vještina kako bi se išlo ukorak s brzim promjenama.",
+      "translationEn": "The modern labor market requires acquiring new skills constantly to keep pace with rapid changes.",
+      "words": [
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "سُوقُ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْحَدِيثُ",
+          "lemma": "حَدِيثٌ"
+        },
+        {
+          "w": "اكْتِسَابَ",
+          "lemma": "اكْتِسَابٌ"
+        },
+        {
+          "w": "مَهَارَاتٍ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "بِشَكْلٍ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "دَائِمٍ",
+          "lemma": "دَائِمٌ"
+        },
+        {
+          "w": "لِمُوَاكَبَةِ",
+          "lemma": "مُوَاكَبَةٌ"
+        },
+        {
+          "w": "التَّغَيُّرَاتِ",
+          "lemma": "تَغَيُّرٌ / تَغَيُّرَاتٌ"
+        },
+        {
+          "w": "السَّرِيعَةِ",
+          "lemma": "سَرِيعٌ"
+        }
+      ]
     },
     {
-      "arabic": "وَبِذَلِكَ، يَبْقَى الْعَقْلُ مُتَيَقِّظاً وَمُنْفَتِحاً عَلَى كُلِّ مَا هُوَ جَدِيدٌ وَمُفِيدٌ فِي هَذَا الْعَالَمِ.",
+      "arabic": "تُوَفِّرُ الدَّوْرَاتُ التَّدْرِيبِيَّةُ عَبْرَ الْإِنْتَرْنِتِ فُرَصاً هَائِلَةً لِتَطْوِيرِ الذَّاتِ وَتَعْزِيزِ الْمَسَارِ الْمِهْنِيِّ.",
+      "translation": "Online kursevi obuke pružaju ogromne mogućnosti za samorazvoj i unapređenje karijernog puta.",
+      "translationEn": "Online training courses provide huge opportunities for self-development and enhancing the career path.",
+      "words": [
+        {
+          "w": "تُوَفِّرُ",
+          "lemma": "وَفَّرَ يُوَفِّرُ"
+        },
+        {
+          "w": "الدَّوْرَاتُ",
+          "lemma": "دَوْرَةٌ / دَوْرَاتٌ"
+        },
+        {
+          "w": "التَّدْرِيبِيَّةُ",
+          "lemma": "تَدْرِيبِيٌّ"
+        },
+        {
+          "w": "عَبْرَ",
+          "lemma": "عَبْرَ"
+        },
+        {
+          "w": "الْإِنْتَرْنِتِ",
+          "lemma": "إِنْتَرْنِتٌ"
+        },
+        {
+          "w": "فُرَصاً",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "هَائِلَةً",
+          "lemma": "هَائِلٌ"
+        },
+        {
+          "w": "لِتَطْوِيرِ",
+          "lemma": "تَطْوِيرٌ"
+        },
+        {
+          "w": "الذَّاتِ",
+          "lemma": "ذَاتٌ"
+        },
+        {
+          "w": "وَتَعْزِيزِ",
+          "lemma": "تَعْزِيزٌ"
+        },
+        {
+          "w": "الْمَسَارِ",
+          "lemma": "مَسَارٌ / مَسَارَاتٌ"
+        },
+        {
+          "w": "الْمِهْنِيِّ",
+          "lemma": "مِهْنِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "إِنَّ الشَّغَفَ بِالْمَعْرِفَةِ يَدْفَعُ الْفَرْدَ لِاسْتِكْشَافِ مَجَالَاتٍ مُخْتَلِفَةٍ بَعِيداً عَنْ تَخَصُّصِهِ الْأَصْلِيِّ.",
+      "translation": "Strast za znanjem tjera pojedinca da istražuje različite oblasti izvan svoje prvobitne specijalizacije.",
+      "translationEn": "The passion for knowledge drives the individual to explore different fields far from their original specialization.",
+      "words": [
+        {
+          "w": "الشَّغَفَ",
+          "lemma": "شَغَفٌ"
+        },
+        {
+          "w": "بِالْمَعْرِفَةِ",
+          "lemma": "مَعْرِفَةٌ"
+        },
+        {
+          "w": "يَدْفَعُ",
+          "lemma": "دَفَعَ يَدْفَعُ"
+        },
+        {
+          "w": "الْفَرْدَ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "لِاسْتِكْشَافِ",
+          "lemma": "اِسْتِكْشَافٌ"
+        },
+        {
+          "w": "مَجَالَاتٍ",
+          "lemma": "مَجَالٌ / مَجَالَاتٌ"
+        },
+        {
+          "w": "مُخْتَلِفَةٍ",
+          "lemma": "مُخْتَلِفٌ"
+        },
+        {
+          "w": "تَخَصُّصِهِ",
+          "lemma": "تَخَصُّصٌ"
+        },
+        {
+          "w": "الْأَصْلِيِّ",
+          "lemma": "أَصْلِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "وَبِذَلِكَ، يَبْقَى الْعَقْلُ مُتَيَقِّظاً وَمُنْفَتِحاً عَلَى كُلِّ مَا هُوَ جَدِيدٌ وَمُفِيدٌ فِي هَذَا الْعَالَمِ.",
       "translation": "Na taj način um ostaje budan i otvoren za sve što je novo i korisno u ovom svijetu.",
       "translationEn": "Thus, the mind remains alert and open to everything that is new and useful in this world.",
-      "words": []
+      "words": [
+        {
+          "w": "يَبْقَى",
+          "lemma": "بَقِيَ يَبْقَى"
+        },
+        {
+          "w": "الْعَقْلُ",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        },
+        {
+          "w": "مُتَيَقِّظاً",
+          "lemma": "مُتَيَقِّظٌ"
+        },
+        {
+          "w": "وَمُنْفَتِحاً",
+          "lemma": "مُنْفَتِحٌ"
+        },
+        {
+          "w": "كُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "جَدِيدٌ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "وَمُفِيدٌ",
+          "lemma": "مُفِيدٌ"
+        },
+        {
+          "w": "الْعَالَمِ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        }
+      ]
     }
   ],
   "metadata": {

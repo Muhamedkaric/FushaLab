@@ -7,13 +7,71 @@
       "arabic": "تَمْتَلِئُ المُدُنُ العَرَبِيَّةُ القَدِيمَةُ بِالأَسْوَاقِ الشَّعْبِيَّةِ المَشْهُورَةِ.",
       "translation": "Stari arapski gradovi puni su poznatih narodnih pijaca.",
       "translationEn": "Old Arab cities are full of famous traditional markets (souks).",
-      "words": []
+      "words": [
+        {
+          "w": "تَمْتَلِئُ",
+          "lemma": "امْتَلَأَ يَمْتَلِئُ"
+        },
+        {
+          "w": "المُدُنُ",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "العَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "القَدِيمَةُ",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "بِالأَسْوَاقِ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الشَّعْبِيَّةِ",
+          "lemma": "شَعْبِيٌّ"
+        },
+        {
+          "w": "المَشْهُورَةِ",
+          "lemma": "مَشْهُورٌ"
+        }
+      ]
     },
     {
       "arabic": "يَشْتَرِي النَّاسُ مِنَ السُّوقِ التَّوَابِلَ، وَالعُطُورَ، وَالسَّجَادَ اليَدَوِيَّ.",
       "translation": "Ljudi na pijaci kupuju začine, parfeme i ručno rađene tepihe.",
       "translationEn": "People buy spices, perfumes, and handmade carpets from the market.",
-      "words": []
+      "words": [
+        {
+          "w": "يَشْتَرِي",
+          "lemma": "اشْتَرَى يَشْتَرِي"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "السُّوقِ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "التَّوَابِلَ",
+          "lemma": "تَابِلٌ / تَوَابِلُ"
+        },
+        {
+          "w": "وَالعُطُورَ",
+          "lemma": "عِطْرٌ / عُطُورٌ"
+        },
+        {
+          "w": "وَالسَّجَادَ",
+          "lemma": "سَجَّادَةٌ / سَجَادٌ"
+        },
+        {
+          "w": "اليَدَوِيَّ",
+          "lemma": "يَدَوِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "تَفُوحُ رَائِحَةُ البَخُورِ فِي كُلِّ زَاوِيَةٍ مِنَ المَكَانِ.",
@@ -21,8 +79,28 @@
       "translationEn": "The scent of incense wafts through every corner of the place.",
       "words": [
         {
+          "w": "تَفُوحُ",
+          "lemma": "فَاحَ يَفُوحُ"
+        },
+        {
+          "w": "رَائِحَةُ",
+          "lemma": "رَائِحَةٌ / رَوَائِحُ"
+        },
+        {
+          "w": "البَخُورِ",
+          "lemma": "بَخُورٌ"
+        },
+        {
           "w": "كُلِّ",
           "lemma": "كُلٌّ"
+        },
+        {
+          "w": "زَاوِيَةٍ",
+          "lemma": "زَاوِيَةٌ / زَوَايَا"
+        },
+        {
+          "w": "المَكَانِ",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
         }
       ]
     },
@@ -30,13 +108,71 @@
       "arabic": "يُحِبُّ السُّيَّاحُ التَّجَوُّلَ فِي هَذِهِ الأَسْوَاقِ لِشِرَاءِ الهَدَايَا التَّذْكَارِيَّةِ.",
       "translation": "Turisti vole šetati ovim pijacama kako bi kupili suvenire.",
       "translationEn": "Tourists love wandering through these markets to buy souvenirs.",
-      "words": []
+      "words": [
+        {
+          "w": "يُحِبُّ",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "السُّيَّاحُ",
+          "lemma": "سَائِحٌ / سُيَّاحٌ"
+        },
+        {
+          "w": "التَّجَوُّلَ",
+          "lemma": "تَجَوُّلٌ"
+        },
+        {
+          "w": "الأَسْوَاقِ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "لِشِرَاءِ",
+          "lemma": "شِرَاءٌ"
+        },
+        {
+          "w": "الهَدَايَا",
+          "lemma": "هَدِيَّةٌ / هَدَايَا"
+        },
+        {
+          "w": "التَّذْكَارِيَّةِ",
+          "lemma": "تَذْكَارِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "تَعْكِسُ هَذِهِ الأَسْوَاقُ تَارِيخَ المَدِينَةِ وَحَيَاةَ النَّاسِ اليَوْمِيَّةَ.",
       "translation": "Ove pijace oslikavaju historiju grada i svakodnevni život ljudi.",
       "translationEn": "These markets reflect the city's history and the daily life of the people.",
-      "words": []
+      "words": [
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الأَسْوَاقُ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "تَارِيخَ",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        },
+        {
+          "w": "المَدِينَةِ",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "وَحَيَاةَ",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "النَّاسِ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "اليَوْمِيَّةَ",
+          "lemma": "يَوْمِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,22 +6,56 @@
     {
       "arabic": "يَحْتَفِلُ الْمُسْلِمُونَ بِعِيدِ الْفِطْرِ بَعْدَ شَهْرِ رَمَضَانَ الْمُبَارَكِ.",
       "translation": "Muslimani slave Ramazanski bajram nakon blagoslovljenog mjeseca ramazana.",
-      "translationEn": "Muslims celebrate Eid al-Fitr after the blessed month of Ramadan."
+      "translationEn": "Muslims celebrate Eid al-Fitr after the blessed month of Ramadan.",
+      "words": [
+        { "w": "يَحْتَفِلُ", "lemma": "احْتَفَلَ يَحْتَفِلُ" },
+        { "w": "الْمُسْلِمُونَ", "lemma": "مُسْلِمٌ / مُسْلِمُونَ" },
+        { "w": "بِعِيدِ", "lemma": "عِيدٌ / أَعْيَادٌ" },
+        { "w": "الْفِطْرِ", "lemma": "فِطْرٌ" },
+        { "w": "شَهْرِ", "lemma": "شَهْرٌ / أَشْهُرٌ" },
+        { "w": "رَمَضَانَ", "lemma": "رَمَضَانُ" },
+        { "w": "الْمُبَارَكِ", "lemma": "مُبَارَكٌ" }
+      ]
     },
     {
-      "arabic": "يَرْتَدِي الْأَطْفَالُ مَلَابِسَ جَدِيدَةً وَيَحْصُلُونَ عَلَى الْهَدَايَا وَالْعِيدِيَّةِ.",
+      "arabic": "يَرْتَدِي الْأَطْفَالُ مَلَابِسَ جَدِيدَةً وَيَحْصُلُونَ عَلَى الْهَدَايَا وَالْعِيدِيَّةِ.",
       "translation": "Djeca nose novu odjeću i dobijaju poklone i bajramluk.",
-      "translationEn": "Children wear new clothes and receive gifts and 'Eidiya' (money)."
+      "translationEn": "Children wear new clothes and receive gifts and 'Eidiya' (money).",
+      "words": [
+        { "w": "يَرْتَدِي", "lemma": "ارْتَدَى يَرْتَدِي" },
+        { "w": "الْأَطْفَالُ", "lemma": "طِفْلٌ / أَطْفَالٌ" },
+        { "w": "مَلَابِسَ", "lemma": "مَلْبَسٌ / مَلَابِسُ" },
+        { "w": "جَدِيدَةً", "lemma": "جَدِيدٌ" },
+        { "w": "وَيَحْصُلُونَ", "lemma": "حَصَلَ يَحْصُلُ" },
+        { "w": "الْهَدَايَا", "lemma": "هَدِيَّةٌ / هَدَايَا" },
+        { "w": "وَالْعِيدِيَّةِ", "lemma": "عِيدِيَّةٌ" }
+      ]
     },
     {
-      "arabic": "تَطْبُخُ الْأُمَّهَاتُ أَنْوَاعًا مُخْتَلِفَةً مِنَ الْحَلْوِيَّاتِ مِثْلَ الْمَعْمُولِ.",
+      "arabic": "تَطْبُخُ الْأُمَّهَاتُ أَنْوَاعًا مُخْتَلِفَةً مِنَ الْحَلْوِيَّاتِ مِثْلَ الْمَعْمُولِ.",
       "translation": "Majke kuhaju različite vrste slatkiša poput ma'moula.",
-      "translationEn": "Mothers cook different types of sweets like ma'moul."
+      "translationEn": "Mothers cook different types of sweets like ma'moul.",
+      "words": [
+        { "w": "تَطْبُخُ", "lemma": "طَبَخَ يَطْبُخُ" },
+        { "w": "الْأُمَّهَاتُ", "lemma": "أُمٌّ / أُمَّهَاتٌ" },
+        { "w": "أَنْوَاعًا", "lemma": "نَوْعٌ / أَنْوَاعٌ" },
+        { "w": "مُخْتَلِفَةً", "lemma": "مُخْتَلِفٌ" },
+        { "w": "الْحَلْوِيَّاتِ", "lemma": "حَلْوِيَّاتٌ" },
+        { "w": "الْمَعْمُولِ", "lemma": "مَعْمُولٌ" }
+      ]
     },
     {
-      "arabic": "يَزُورُ النَّاسُ أَقَارِبَهُمْ لِتَبَادُلِ التَّهَانِي وَالْفَرَحِ.",
+      "arabic": "يَزُورُ النَّاسُ أَقَارِبَهُمْ لِتَبَادُلِ التَّهَانِي وَالْفَرَحِ.",
       "translation": "Ljudi posjećuju svoje rođake kako bi razmijenili čestitke i radost.",
-      "translationEn": "People visit their relatives to exchange congratulations and joy."
+      "translationEn": "People visit their relatives to exchange congratulations and joy.",
+      "words": [
+        { "w": "يَزُورُ", "lemma": "زَارَ يَزُورُ" },
+        { "w": "النَّاسُ", "lemma": "نَاسٌ" },
+        { "w": "أَقَارِبَهُمْ", "lemma": "قَرِيبٌ / أَقَارِبُ" },
+        { "w": "لِتَبَادُلِ", "lemma": "تَبَادُلٌ" },
+        { "w": "التَّهَانِي", "lemma": "تَهْنِئَةٌ / تَهَانٍ" },
+        { "w": "وَالْفَرَحِ", "lemma": "فَرَحٌ / أَفْرَاحٌ" }
+      ]
     }
   ],
   "metadata": {

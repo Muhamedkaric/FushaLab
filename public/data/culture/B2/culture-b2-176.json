@@ -4,29 +4,151 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُشْتَهَرُ الثَّقَافَةُ الْعَرَبِيَّةُ بِالْكَرَمِ وَحُسْنِ الضِّيَافَةِ.",
+      "arabic": "تُشْتَهَرُ الثَّقَافَةُ الْعَرَبِيَّةُ بِالْكَرَمِ وَحُسْنِ الضِّيَافَةِ.",
       "translation": "Arapska kultura je poznata po velikodušnosti i gostoprimstvu.",
-      "translationEn": "Arab culture is famous for generosity and hospitality."
+      "translationEn": "Arab culture is famous for generosity and hospitality.",
+      "words": [
+        {
+          "w": "تُشْتَهَرُ",
+          "lemma": "اشْتَهَرَ يَشْتَهِرُ"
+        },
+        {
+          "w": "الثَّقَافَةُ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "بِالْكَرَمِ",
+          "lemma": "كَرَمٌ"
+        },
+        {
+          "w": "وَحُسْنِ",
+          "lemma": "حُسْنٌ"
+        },
+        {
+          "w": "الضِّيَافَةِ",
+          "lemma": "ضِيَافَةٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَسْتَقْبِلُ النَّاسُ الضُّيُوفَ بِتَرْحِيبٍ حَارٍّ فِي بُيُوتِهِمْ.",
+      "arabic": "يَسْتَقْبِلُ النَّاسُ الضُّيُوفَ بِتَرْحِيبٍ حَارٍّ فِي بُيُوتِهِمْ.",
       "translation": "Ljudi dočekuju goste sa toplom dobrodošlicom u svojim domovima.",
-      "translationEn": "People welcome guests with a warm reception in their homes."
+      "translationEn": "People welcome guests with a warm reception in their homes.",
+      "words": [
+        {
+          "w": "يَسْتَقْبِلُ",
+          "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "الضُّيُوفَ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِتَرْحِيبٍ",
+          "lemma": "تَرْحِيبٌ"
+        },
+        {
+          "w": "حَارٍّ",
+          "lemma": "حَارٌّ"
+        },
+        {
+          "w": "بُيُوتِهِمْ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
+      ]
     },
     {
-      "arabic": "يُقَدِّمُونَ لَهُمُ الْقَهْوَةَ الْعَرَبِيَّةَ وَالتَّمْرَ اللَّذِيذَ.",
+      "arabic": "يُقَدِّمُونَ لَهُمُ الْقَهْوَةَ الْعَرَبِيَّةَ وَالتَّمْرَ اللَّذِيذَ.",
       "translation": "Služe im arapsku kafu i ukusne urme.",
-      "translationEn": "They offer them Arabic coffee and delicious dates."
+      "translationEn": "They offer them Arabic coffee and delicious dates.",
+      "words": [
+        {
+          "w": "يُقَدِّمُونَ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الْقَهْوَةَ",
+          "lemma": "قَهْوَةٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةَ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "وَالتَّمْرَ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "اللَّذِيذَ",
+          "lemma": "لَذِيذٌ"
+        }
+      ]
     },
     {
-      "arabic": "هَذِهِ الْعَادَةُ قَدِيمَةٌ جِدًّا وَمُسْتَمِرَّةٌ حَتَّى الْآنَ.",
+      "arabic": "هَذِهِ الْعَادَةُ قَدِيمَةٌ جِدًّا وَمُسْتَمِرَّةٌ حَتَّى الْآنَ.",
       "translation": "Ovaj običaj je veoma star i nastavlja se do danas.",
-      "translationEn": "This custom is very old and continues to this day."
+      "translationEn": "This custom is very old and continues to this day.",
+      "words": [
+        {
+          "w": "الْعَادَةُ",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "قَدِيمَةٌ",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "جِدًّا",
+          "lemma": "جِدًّا"
+        },
+        {
+          "w": "وَمُسْتَمِرَّةٌ",
+          "lemma": "مُسْتَمِرٌّ"
+        }
+      ]
     },
     {
-      "arabic": "يَعْتَبِرُ الْعَرَبُ إِكْرَامَ الضَّيْفِ وَاجِبًا وَدَلِيلًا عَلَى الِاحْتِرَامِ.",
+      "arabic": "يَعْتَبِرُ الْعَرَبُ إِكْرَامَ الضَّيْفِ وَاجِبًا وَدَلِيلًا عَلَى الِاحْتِرَامِ.",
       "translation": "Arapi smatraju ugošćavanje gosta obavezom i dokazom poštovanja.",
-      "translationEn": "Arabs consider honoring a guest a duty and a sign of respect."
+      "translationEn": "Arabs consider honoring a guest a duty and a sign of respect.",
+      "words": [
+        {
+          "w": "يَعْتَبِرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "الْعَرَبُ",
+          "lemma": "عَرَبٌ"
+        },
+        {
+          "w": "إِكْرَامَ",
+          "lemma": "إِكْرَامٌ"
+        },
+        {
+          "w": "الضَّيْفِ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "وَاجِبًا",
+          "lemma": "وَاجِبٌ"
+        },
+        {
+          "w": "وَدَلِيلًا",
+          "lemma": "دَلِيلٌ / أَدِلَّةٌ"
+        },
+        {
+          "w": "الِاحْتِرَامِ",
+          "lemma": "احْتِرَامٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -6,17 +6,40 @@
     {
       "arabic": "تُحَضِّرُ أُمِّي الْمَنْسَفَ لِلضُّيُوفِ الْيَوْمَ.",
       "translation": "Moja majka danas priprema mansaf za goste.",
-      "translationEn": "My mother is preparing mansaf for the guests today."
+      "translationEn": "My mother is preparing mansaf for the guests today.",
+      "words": [
+        { "w": "تُحَضِّرُ", "lemma": "حَضَّرَ يُحَضِّرُ" },
+        { "w": "أُمِّي", "lemma": "أُمٌّ / أُمَّهَاتٌ" },
+        { "w": "الْمَنْسَفَ", "lemma": "مَنْسَفٌ" },
+        { "w": "لِلضُّيُوفِ", "lemma": "ضَيْفٌ / ضُيُوفٌ" }
+      ]
     },
     {
       "arabic": "تَطْبُخُ لَحْمَ الضَّأْنِ مَعَ اللَّبَنِ الْمُجَفَّفِ الَّذِي يُسَمَّى الْجَمِيدَ.",
       "translation": "Ona kuha janjetinu sa sušenim jogurtom koji se zove jameed.",
-      "translationEn": "She cooks lamb with dried yogurt called jameed."
+      "translationEn": "She cooks lamb with dried yogurt called jameed.",
+      "words": [
+        { "w": "تَطْبُخُ", "lemma": "طَبَخَ يَطْبُخُ" },
+        { "w": "لَحْمَ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "الضَّأْنِ", "lemma": "ضَأْنٌ" },
+        { "w": "اللَّبَنِ", "lemma": "لَبَنٌ" },
+        { "w": "الْمُجَفَّفِ", "lemma": "مُجَفَّفٌ" },
+        { "w": "يُسَمَّى", "lemma": "سَمَّى يُسَمِّي" },
+        { "w": "الْجَمِيدَ", "lemma": "جَمِيدٌ" }
+      ]
     },
     {
       "arabic": "نُقَدِّمُ اللَّحْمَ فِي طَبَقٍ كَبِيرٍ مَعَ الْأُرْزِ وَالْمُكَسَّرَاتِ.",
       "translation": "Meso poslužujemo u velikoj posudi sa rižom i orašastim plodovima.",
-      "translationEn": "We serve the meat in a large dish with rice and nuts."
+      "translationEn": "We serve the meat in a large dish with rice and nuts.",
+      "words": [
+        { "w": "نُقَدِّمُ", "lemma": "قَدَّمَ يُقَدِّمُ" },
+        { "w": "اللَّحْمَ", "lemma": "لَحْمٌ / لُحُومٌ" },
+        { "w": "طَبَقٍ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "كَبِيرٍ", "lemma": "كَبِيرٌ" },
+        { "w": "الْأُرْزِ", "lemma": "أُرْزٌ" },
+        { "w": "وَالْمُكَسَّرَاتِ", "lemma": "مُكَسَّرَاتٌ" }
+      ]
     }
   ],
   "metadata": {

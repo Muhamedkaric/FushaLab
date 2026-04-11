@@ -4,45 +4,290 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَلْعَبُ الأُسْرَةُ دَوْرًا مِحْوَرِيًّا فِي حَيَاةِ الفَرْدِ العَرَبِيِّ، فَهِيَ المَصْدَرُ الأَوَّلُ لِلدَّعْمِ النَّفْسِيِّ وَالاِجْتِمَاعِيِّ.",
+      "arabic": "تَلْعَبُ الأُسْرَةُ دَوْرًا مِحْوَرِيًّا فِي حَيَاةِ الفَرْدِ العَرَبِيِّ، فَهِيَ المَصْدَرُ الأَوَّلُ لِلدَّعْمِ النَّفْسِيِّ وَالاِجْتِمَاعِيِّ.",
       "translation": "Porodica igra ključnu ulogu u životu arapskog pojedinca, jer je ona primarni izvor psihološke i socijalne podrške.",
       "translationEn": "The family plays a pivotal role in the life of the Arab individual, as it is the primary source of psychological and social support.",
-      "words": []
-    },
-    {
-      "arabic": "لَا تَقْتَصِرُ الأُسْرَةُ عَلَى الوَالِدَيْنِ وَالأَبْنَاءِ فَحَسْبُ، بَلْ تَمْتَدُّ لِتَشْمَلَ الأَجْدَادَ وَالأَعْمَامَ وَالأَخْوَالَ فِي نِظَامٍ مُتَرَابِطٍ.",
-      "translation": "Porodica nije ograničena samo na roditelje i djecu, već se širi i na nane, dede, amidže i dajidže u povezanom sistemu.",
-      "translationEn": "The family is not limited to parents and children only, but extends to include grandparents, paternal uncles, and maternal uncles in an interconnected system.",
-      "words": []
-    },
-    {
-      "arabic": "يُولِي العَرَبُ اِحْتِرَامًا شَدِيدًا لِكِبَارِ السِّنِّ، حَيْثُ يُعْتَبَرُ رَأْيُهُمْ حِكْمَةً لَا غِنَى عَنْهَا فِي اِتِّخَاذِ القَرَارَاتِ المَصِيرِيَّةِ.",
-      "translation": "Arapi pridaju veliko poštovanje starijim osobama, čije se mišljenje smatra neophodnom mudrošću pri donošenju sudbonosnih odluka.",
-      "translationEn": "Arabs show great respect for the elderly, as their opinion is considered indispensable wisdom in making fateful decisions.",
-      "words": []
-    },
-    {
-      "arabic": "تَتَجَلَّى هَذِهِ الرَّوَابِطُ فِي الاِجْتِمَاعَاتِ الأُسْبُوعِيَّةِ حَوْلَ مَائِدَةِ الغَدَاءِ، الَّتِي تُعَدُّ فُرْصَةً لِتَبَادُلِ الأَحَادِيثِ وَتَقْوِيَةِ الأَوَاصِرِ.",
-      "translation": "Ove veze se manifestuju u sedmičnim okupljanjima oko ručka, koji je prilika za razgovor i jačanje veza.",
-      "translationEn": "These bonds are manifested in weekly meetings around the lunch table, which is an opportunity to exchange conversations and strengthen ties.",
       "words": [
         {
-          "w": "حَوْلَ",
-          "lemma": "حَوْلَ"
+          "w": "تَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الأُسْرَةُ",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "مِحْوَرِيًّا",
+          "lemma": "مِحْوَرِيٌّ"
+        },
+        {
+          "w": "حَيَاةِ",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "الفَرْدِ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "العَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "المَصْدَرُ",
+          "lemma": "مَصْدَرٌ / مَصَادِرُ"
+        },
+        {
+          "w": "الأَوَّلُ",
+          "lemma": "أَوَّلٌ"
+        },
+        {
+          "w": "لِلدَّعْمِ",
+          "lemma": "دَعْمٌ"
+        },
+        {
+          "w": "النَّفْسِيِّ",
+          "lemma": "نَفْسِيٌّ"
+        },
+        {
+          "w": "وَالاِجْتِمَاعِيِّ",
+          "lemma": "اجْتِمَاعِيٌّ"
         }
       ]
     },
     {
-      "arabic": "يُعَلِّمُ الآبَاءُ أَبْنَاءَهُمْ قِيَمَ الوَفَاءِ وَالتَّضَامُنِ مُنْذُ الصِّغَرِ لِضَمَانِ اِسْتِمْرَارِيَّةِ هَذَا التَّكَافُلِ.",
-      "translation": "Roditelji uče svoju djecu vrijednostima lojalnosti i solidarnosti od malih nogu kako bi osigurali kontinuitet ove uzajamne pomoći.",
-      "translationEn": "Parents teach their children the values of loyalty and solidarity from a young age to ensure the continuity of this mutual support.",
-      "words": []
+      "arabic": "لَا تَقْتَصِرُ الأُسْرَةُ عَلَى الوَالِدَيْنِ وَالأَبْنَاءِ فَحَسْبُ، بَلْ تَمْتَدُّ لِتَشْمَلَ الأَجْدَادَ وَالأَعْمَامَ وَالأَخْوَالَ فِي نِظَامٍ مُتَرَابِطٍ.",
+      "translation": "Porodica nije ograničena samo na roditelje i djecu, već se širi i na nane, dede, amidže i dajidže u povezanom sistemu.",
+      "translationEn": "The family is not limited to parents and children only, but extends to include grandparents, paternal uncles, and maternal uncles in an interconnected system.",
+      "words": [
+        {
+          "w": "تَقْتَصِرُ",
+          "lemma": "اقْتَصَرَ يَقْتَصِرُ"
+        },
+        {
+          "w": "الأُسْرَةُ",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "الوَالِدَيْنِ",
+          "lemma": "وَالِدٌ / وَالِدَانِ"
+        },
+        {
+          "w": "وَالأَبْنَاءِ",
+          "lemma": "ابْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "تَمْتَدُّ",
+          "lemma": "امْتَدَّ يَمْتَدُّ"
+        },
+        {
+          "w": "الأَجْدَادَ",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        },
+        {
+          "w": "وَالأَعْمَامَ",
+          "lemma": "عَمٌّ / أَعْمَامٌ"
+        },
+        {
+          "w": "وَالأَخْوَالَ",
+          "lemma": "خَالٌ / أَخْوَالٌ"
+        },
+        {
+          "w": "نِظَامٍ",
+          "lemma": "نِظَامٌ / أَنْظِمَةٌ"
+        },
+        {
+          "w": "مُتَرَابِطٍ",
+          "lemma": "مُتَرَابِطٌ"
+        }
+      ]
     },
     {
-      "arabic": "رَغْمَ التَّحَدِّيَاتِ العَصْرِيَّةِ، لَا تَزَالُ العَائِلَةُ تُمَثِّلُ الحِصْنَ المَنِيعَ الَّذِي يَلْجَأُ إِلَيْهِ الجَمِيعُ.",
+      "arabic": "يُولِي العَرَبُ اِحْتِرَامًا شَدِيدًا لِكِبَارِ السِّنِّ، حَيْثُ يُعْتَبَرُ رَأْيُهُمْ حِكْمَةً لَا غِنَى عَنْهَا فِي اِتِّخَاذِ القَرَارَاتِ المَصِيرِيَّةِ.",
+      "translation": "Arapi pridaju veliko poštovanje starijim osobama, čije se mišljenje smatra neophodnom mudrošću pri donošenju sudbonosnih odluka.",
+      "translationEn": "Arabs show great respect for the elderly, as their opinion is considered indispensable wisdom in making fateful decisions.",
+      "words": [
+        {
+          "w": "يُولِي",
+          "lemma": "أَوْلَى يُولِي"
+        },
+        {
+          "w": "العَرَبُ",
+          "lemma": "عَرَبٌ"
+        },
+        {
+          "w": "اِحْتِرَامًا",
+          "lemma": "احْتِرَامٌ"
+        },
+        {
+          "w": "شَدِيدًا",
+          "lemma": "شَدِيدٌ"
+        },
+        {
+          "w": "لِكِبَارِ",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "السِّنِّ",
+          "lemma": "سِنٌّ / أَسْنَانٌ"
+        },
+        {
+          "w": "رَأْيُهُمْ",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "حِكْمَةً",
+          "lemma": "حِكْمَةٌ / حِكَمٌ"
+        },
+        {
+          "w": "اِتِّخَاذِ",
+          "lemma": "اتِّخَاذٌ"
+        },
+        {
+          "w": "القَرَارَاتِ",
+          "lemma": "قَرَارٌ / قَرَارَاتٌ"
+        },
+        {
+          "w": "المَصِيرِيَّةِ",
+          "lemma": "مَصِيرِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "تَتَجَلَّى هَذِهِ الرَّوَابِطُ فِي الاِجْتِمَاعَاتِ الأُسْبُوعِيَّةِ حَوْلَ مَائِدَةِ الغَدَاءِ، الَّتِي تُعَدُّ فُرْصَةً لِتَبَادُلِ الأَحَادِيثِ وَتَقْوِيَةِ الأَوَاصِرِ.",
+      "translation": "Ove veze se manifestuju u sedmičnim okupljanjima oko ručka, koji je prilika za razgovor i jačanje veza.",
+      "translationEn": "These bonds are manifested in weekly meetings around the lunch table, which is an opportunity to exchange conversations and strengthen ties.",
+      "words": [
+        {
+          "w": "تَتَجَلَّى",
+          "lemma": "تَجَلَّى يَتَجَلَّى"
+        },
+        {
+          "w": "الرَّوَابِطُ",
+          "lemma": "رَابِطَةٌ / رَوَابِطُ"
+        },
+        {
+          "w": "الاِجْتِمَاعَاتِ",
+          "lemma": "اجْتِمَاعٌ / اجْتِمَاعَاتٌ"
+        },
+        {
+          "w": "الأُسْبُوعِيَّةِ",
+          "lemma": "أُسْبُوعِيٌّ"
+        },
+        {
+          "w": "حَوْلَ",
+          "lemma": "حَوْلَ"
+        },
+        {
+          "w": "مَائِدَةِ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "الغَدَاءِ",
+          "lemma": "غَدَاءٌ"
+        },
+        {
+          "w": "فُرْصَةً",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "لِتَبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الأَحَادِيثِ",
+          "lemma": "حَدِيثٌ / أَحَادِيثُ"
+        },
+        {
+          "w": "وَتَقْوِيَةِ",
+          "lemma": "تَقْوِيَةٌ"
+        },
+        {
+          "w": "الأَوَاصِرِ",
+          "lemma": "آصِرَةٌ / أَوَاصِرُ"
+        }
+      ]
+    },
+    {
+      "arabic": "يُعَلِّمُ الآبَاءُ أَبْنَاءَهُمْ قِيَمَ الوَفَاءِ وَالتَّضَامُنِ مُنْذُ الصِّغَرِ لِضَمَانِ اِسْتِمْرَارِيَّةِ هَذَا التَّكَافُلِ.",
+      "translation": "Roditelji uče svoju djecu vrijednostima lojalnosti i solidarnosti od malih nogu kako bi osigurali kontinuitet ove uzajamne pomoći.",
+      "translationEn": "Parents teach their children the values of loyalty and solidarity from a young age to ensure the continuity of this mutual support.",
+      "words": [
+        {
+          "w": "يُعَلِّمُ",
+          "lemma": "عَلَّمَ يُعَلِّمُ"
+        },
+        {
+          "w": "الآبَاءُ",
+          "lemma": "أَبٌ / آبَاءٌ"
+        },
+        {
+          "w": "أَبْنَاءَهُمْ",
+          "lemma": "ابْنٌ / أَبْنَاءٌ"
+        },
+        {
+          "w": "قِيَمَ",
+          "lemma": "قِيمَةٌ / قِيَمٌ"
+        },
+        {
+          "w": "الوَفَاءِ",
+          "lemma": "وَفَاءٌ"
+        },
+        {
+          "w": "وَالتَّضَامُنِ",
+          "lemma": "تَضَامُنٌ"
+        },
+        {
+          "w": "الصِّغَرِ",
+          "lemma": "صِغَرٌ"
+        },
+        {
+          "w": "اِسْتِمْرَارِيَّةِ",
+          "lemma": "اسْتِمْرَارِيَّةٌ"
+        },
+        {
+          "w": "التَّكَافُلِ",
+          "lemma": "تَكَافُلٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "رَغْمَ التَّحَدِّيَاتِ العَصْرِيَّةِ، لَا تَزَالُ العَائِلَةُ تُمَثِّلُ الحِصْنَ المَنِيعَ الَّذِي يَلْجَأُ إِلَيْهِ الجَمِيعُ.",
       "translation": "Uprkos modernim izazovima, porodica i dalje predstavlja neprobojnu tvrđavu kojoj se svi obraćaju.",
       "translationEn": "Despite modern challenges, the family still represents the impenetrable fortress that everyone turns to.",
-      "words": []
+      "words": [
+        {
+          "w": "التَّحَدِّيَاتِ",
+          "lemma": "تَحَدٍّ / تَحَدِّيَاتٌ"
+        },
+        {
+          "w": "العَصْرِيَّةِ",
+          "lemma": "عَصْرِيٌّ"
+        },
+        {
+          "w": "العَائِلَةُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "الحِصْنَ",
+          "lemma": "حِصْنٌ / حُصُونٌ"
+        },
+        {
+          "w": "المَنِيعَ",
+          "lemma": "مَنِيعٌ"
+        },
+        {
+          "w": "يَلْجَأُ",
+          "lemma": "لَجَأَ يَلْجَأُ"
+        }
+      ]
     }
   ],
   "metadata": {

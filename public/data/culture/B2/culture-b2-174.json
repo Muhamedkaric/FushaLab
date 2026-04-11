@@ -7,25 +7,129 @@
       "arabic": "يَحْتَفِلُ المُسْلِمُونَ بِعِيدِ الفِطْرِ بَعْدَ نِهَايَةِ شَهْرِ رَمَضَانَ.",
       "translation": "Muslimani slave Ramazanski bajram nakon završetka mjeseca ramazana.",
       "translationEn": "Muslims celebrate Eid al-Fitr after the end of the month of Ramadan.",
-      "words": []
+      "words": [
+        {
+          "w": "يَحْتَفِلُ",
+          "lemma": "احْتَفَلَ يَحْتَفِلُ"
+        },
+        {
+          "w": "المُسْلِمُونَ",
+          "lemma": "مُسْلِمٌ / مُسْلِمُونَ"
+        },
+        {
+          "w": "بِعِيدِ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
+          "w": "الفِطْرِ",
+          "lemma": "فِطْرٌ"
+        },
+        {
+          "w": "نِهَايَةِ",
+          "lemma": "نِهَايَةٌ"
+        },
+        {
+          "w": "شَهْرِ",
+          "lemma": "شَهْرٌ / أَشْهُرٌ"
+        },
+        {
+          "w": "رَمَضَانَ",
+          "lemma": "رَمَضَانُ"
+        }
+      ]
     },
     {
       "arabic": "يَلْبَسُ الأَطْفَالُ مَلَابِسَ جَدِيدَةً وَيَزُورُونَ الأَقَارِبَ وَالجِيرَانَ.",
       "translation": "Djeca oblače novu odjeću i posjećuju rodbinu i komšije.",
       "translationEn": "Children wear new clothes and visit relatives and neighbors.",
-      "words": []
+      "words": [
+        {
+          "w": "يَلْبَسُ",
+          "lemma": "لَبِسَ يَلْبَسُ"
+        },
+        {
+          "w": "الأَطْفَالُ",
+          "lemma": "طِفْلٌ / أَطْفَالٌ"
+        },
+        {
+          "w": "مَلَابِسَ",
+          "lemma": "مَلْبَسٌ / مَلَابِسُ"
+        },
+        {
+          "w": "جَدِيدَةً",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "وَيَزُورُونَ",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "الأَقَارِبَ",
+          "lemma": "قَرِيبٌ / أَقَارِبُ"
+        },
+        {
+          "w": "وَالجِيرَانَ",
+          "lemma": "جَارٌ / جِيرَانٌ"
+        }
+      ]
     },
     {
       "arabic": "يُعْطِي الكِبَارُ الصِّغَارَ مَبَالِغَ مَالِيَّةً تُسَمَّى 'العِيدِيَّةَ'.",
       "translation": "Odrasli daju djeci novčane iznose koji se nazivaju 'bajramluk'.",
       "translationEn": "Adults give children amounts of money called 'Eidiya.'",
-      "words": []
+      "words": [
+        {
+          "w": "يُعْطِي",
+          "lemma": "أَعْطَى يُعْطِي"
+        },
+        {
+          "w": "الكِبَارُ",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "الصِّغَارَ",
+          "lemma": "صَغِيرٌ / صِغَارٌ"
+        },
+        {
+          "w": "مَبَالِغَ",
+          "lemma": "مَبْلَغٌ / مَبَالِغُ"
+        },
+        {
+          "w": "مَالِيَّةً",
+          "lemma": "مَالِيٌّ"
+        },
+        {
+          "w": "العِيدِيَّةَ",
+          "lemma": "عِيدِيَّةٌ"
+        }
+      ]
     },
     {
       "arabic": "تَحْضُرُ الأُمَّهَاتُ حَلْوِيَّاتٍ شَهِيَّةً مِثْلَ المَعْمُولِ.",
       "translation": "Majke pripremaju ukusne kolače poput mamula.",
       "translationEn": "Mothers prepare delicious sweets like maamoul.",
-      "words": []
+      "words": [
+        {
+          "w": "تَحْضُرُ",
+          "lemma": "حَضَّرَ يُحَضِّرُ"
+        },
+        {
+          "w": "الأُمَّهَاتُ",
+          "lemma": "أُمٌّ / أُمَّهَاتٌ"
+        },
+        {
+          "w": "حَلْوِيَّاتٍ",
+          "lemma": "حَلْوِيَّاتٌ"
+        },
+        {
+          "w": "شَهِيَّةً",
+          "lemma": "شَهِيٌّ"
+        },
+        {
+          "w": "المَعْمُولِ",
+          "lemma": "مَعْمُولٌ"
+        }
+      ]
     },
     {
       "arabic": "يَعُمُّ الفَرَحُ وَالسُّرُورُ فِي كُلِّ مَكَانٍ خِلَالَ أَيَّامِ العِيدِ.",
@@ -33,8 +137,32 @@
       "translationEn": "Joy and happiness spread everywhere during the days of Eid.",
       "words": [
         {
+          "w": "يَعُمُّ",
+          "lemma": "عَمَّ يَعُمُّ"
+        },
+        {
+          "w": "الفَرَحُ",
+          "lemma": "فَرَحٌ / أَفْرَاحٌ"
+        },
+        {
+          "w": "وَالسُّرُورُ",
+          "lemma": "سُرُورٌ"
+        },
+        {
           "w": "كُلِّ",
           "lemma": "كُلٌّ"
+        },
+        {
+          "w": "مَكَانٍ",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "أَيَّامِ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "العِيدِ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
         }
       ]
     }

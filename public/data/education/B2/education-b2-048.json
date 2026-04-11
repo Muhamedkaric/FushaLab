@@ -7,13 +7,103 @@
       "arabic": "يُعْتَبَرُ الْمُعَلِّمُونَ حَجَرَ الزَّاوِيَةِ فِي أَيِّ نِظَامٍ تَعْلِيمِيٍّ، حَيْثُ يَقَعُ عَلَى عَاتِقِهِمْ بِنَاءُ عُقُولِ الْأَجْيَالِ الصَّاعِدَةِ.",
       "translation": "Nastavnici se smatraju kamenom temeljcem svakog obrazovnog sistema, jer na njihovim plećima leži izgradnja umova budućih generacija.",
       "translationEn": "Teachers are considered the cornerstone of any educational system, as the responsibility of building the minds of rising generations falls upon them.",
-      "words": []
+      "words": [
+        {
+          "w": "الْمُعَلِّمُونَ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "حَجَرَ",
+          "lemma": "حَجَرٌ / أَحْجَارٌ"
+        },
+        {
+          "w": "الزَّاوِيَةِ",
+          "lemma": "زَاوِيَةٌ / زَوَايَا"
+        },
+        {
+          "w": "نِظَامٍ",
+          "lemma": "نِظَامٌ / أَنْظِمَةٌ"
+        },
+        {
+          "w": "تَعْلِيمِيٍّ",
+          "lemma": "تَعْلِيمِيٌّ"
+        },
+        {
+          "w": "عَاتِقِهِمْ",
+          "lemma": "عَاتِقٌ / عَوَاتِقُ"
+        },
+        {
+          "w": "بِنَاءُ",
+          "lemma": "بِنَاءٌ"
+        },
+        {
+          "w": "عُقُولِ",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        },
+        {
+          "w": "الْأَجْيَالِ",
+          "lemma": "جِيلٌ / أَجْيَالٌ"
+        },
+        {
+          "w": "الصَّاعِدَةِ",
+          "lemma": "صَاعِدٌ"
+        }
+      ]
     },
     {
       "arabic": "فَالْمُرَبِّي النَّاجِحُ لَا يَقْتَصِرُ دَوْرُهُ عَلَى تَقْدِيمِ الْمَنَاهِجِ، بَلْ يَمْتَدُّ لِيُلْهِمَ الطُّلَّابَ عَلَى التَّفْكِيرِ بِإِبْدَاعٍ وَاسْتِقْلَالِيَّةٍ.",
       "translation": "Uloga uspješnog pedagoga nije ograničena samo na predstavljanje nastavnog plana i programa, već se proteže na inspirisanje učenika da razmišljaju kreativno i nezavisno.",
       "translationEn": "A successful educator's role is not limited to delivering the curriculum, but extends to inspiring students to think creatively and independently.",
-      "words": []
+      "words": [
+        {
+          "w": "فَالْمُرَبِّي",
+          "lemma": "مُرَبٍّ / مُرَبُّونَ"
+        },
+        {
+          "w": "النَّاجِحُ",
+          "lemma": "نَاجِحٌ"
+        },
+        {
+          "w": "يَقْتَصِرُ",
+          "lemma": "اقْتَصَرَ يَقْتَصِرُ"
+        },
+        {
+          "w": "دَوْرُهُ",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "تَقْدِيمِ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "الْمَنَاهِجِ",
+          "lemma": "مَنْهَجٌ / مَنَاهِجُ"
+        },
+        {
+          "w": "يَمْتَدُّ",
+          "lemma": "امْتَدَّ يَمْتَدُّ"
+        },
+        {
+          "w": "لِيُلْهِمَ",
+          "lemma": "أَلْهَمَ يُلْهِمُ"
+        },
+        {
+          "w": "الطُّلَّابَ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "التَّفْكِيرِ",
+          "lemma": "تَفْكِيرٌ"
+        },
+        {
+          "w": "بِإِبْدَاعٍ",
+          "lemma": "إِبْدَاعٌ"
+        },
+        {
+          "w": "وَاسْتِقْلَالِيَّةٍ",
+          "lemma": "اسْتِقْلَالِيَّةٌ"
+        }
+      ]
     },
     {
       "arabic": "يَجِبُ عَلَيْهِمْ تَكْيِيفُ أَسَالِيبِ التَّدْرِيسِ لِتَتَنَاسَبَ مَعَ الِاحْتِيَاجَاتِ الْفَرْدِيَّةِ لِكُلِّ طَالِبٍ فِي ظِلِّ تَنَوُّعِ الْقُدُرَاتِ.",
@@ -25,8 +115,44 @@
           "lemma": "وَجَبَ يَجِبُ"
         },
         {
+          "w": "تَكْيِيفُ",
+          "lemma": "تَكْيِيفٌ"
+        },
+        {
+          "w": "أَسَالِيبِ",
+          "lemma": "أُسْلُوبٌ / أَسَالِيبُ"
+        },
+        {
+          "w": "التَّدْرِيسِ",
+          "lemma": "تَدْرِيسٌ"
+        },
+        {
+          "w": "لِتَتَنَاسَبَ",
+          "lemma": "تَنَاسَبَ يَتَنَاسَبُ"
+        },
+        {
+          "w": "الِاحْتِيَاجَاتِ",
+          "lemma": "احْتِيَاجٌ / احْتِيَاجَاتٌ"
+        },
+        {
+          "w": "الْفَرْدِيَّةِ",
+          "lemma": "فَرْدِيٌّ"
+        },
+        {
           "w": "لِكُلِّ",
           "lemma": "كُلٌّ"
+        },
+        {
+          "w": "طَالِبٍ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "تَنَوُّعِ",
+          "lemma": "تَنَوُّعٌ"
+        },
+        {
+          "w": "الْقُدُرَاتِ",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
         }
       ]
     },
@@ -34,13 +160,99 @@
       "arabic": "إِنَّ التَّطْوِيرَ الْمِهْنِيَّ الْمُسْتَمِرَّ ضَرُورِيٌّ لِلْمُعَلِّمِينَ لِمُواكَبَةِ آخِرِ الِابْتِكَارَاتِ فِي عِلْمِ التَّرْبِيَةِ وَأُصُولِ التَّعْلِيمِ.",
       "translation": "Kontinuirani profesionalni razvoj neophodan je za nastavnike kako bi išli u korak s najnovijim inovacijama u pedagogiji i metodici nastave.",
       "translationEn": "Continuous professional development is essential for teachers to keep pace with the latest innovations in pedagogy and teaching methods.",
-      "words": []
+      "words": [
+        {
+          "w": "التَّطْوِيرَ",
+          "lemma": "تَطْوِيرٌ"
+        },
+        {
+          "w": "الْمِهْنِيَّ",
+          "lemma": "مِهْنِيٌّ"
+        },
+        {
+          "w": "الْمُسْتَمِرَّ",
+          "lemma": "مُسْتَمِرٌّ"
+        },
+        {
+          "w": "ضَرُورِيٌّ",
+          "lemma": "ضَرُورِيٌّ"
+        },
+        {
+          "w": "لِلْمُعَلِّمِينَ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "لِمُواكَبَةِ",
+          "lemma": "مُوَاكَبَةٌ"
+        },
+        {
+          "w": "الِابْتِكَارَاتِ",
+          "lemma": "ابْتِكَارٌ / ابْتِكَارَاتٌ"
+        },
+        {
+          "w": "عِلْمِ",
+          "lemma": "عِلْمٌ / عُلُومٌ"
+        },
+        {
+          "w": "التَّرْبِيَةِ",
+          "lemma": "تَرْبِيَةٌ"
+        },
+        {
+          "w": "وَأُصُولِ",
+          "lemma": "أَصْلٌ / أُصُولٌ"
+        },
+        {
+          "w": "التَّعْلِيمِ",
+          "lemma": "تَعْلِيمٌ"
+        }
+      ]
     },
     {
       "arabic": "مِنْ خِلَالِ غَرْسِ حُبِّ التَّعَلُّمِ، يُمَكِّنُ الْمُعَلِّمُونَ الْجِيلَ الْقَادِمَ مِنَ الْمُسَاهَمَةِ بِشَكْلٍ إِيجَابِيٍّ فِي رُقِيِّ الْمُجْتَمَعِ.",
       "translation": "Usađivanjem ljubavi prema učenju, nastavnici omogućavaju sljedećoj generaciji da pozitivno doprinese napretku društva.",
       "translationEn": "By instilling a love of learning, teachers empower the next generation to contribute positively to the advancement of society.",
-      "words": []
+      "words": [
+        {
+          "w": "غَرْسِ",
+          "lemma": "غَرْسٌ"
+        },
+        {
+          "w": "حُبِّ",
+          "lemma": "حُبٌّ"
+        },
+        {
+          "w": "التَّعَلُّمِ",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "يُمَكِّنُ",
+          "lemma": "مَكَّنَ يُمَكِّنُ"
+        },
+        {
+          "w": "الْمُعَلِّمُونَ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "الْجِيلَ",
+          "lemma": "جِيلٌ / أَجْيَالٌ"
+        },
+        {
+          "w": "الْقَادِمَ",
+          "lemma": "قَادِمٌ"
+        },
+        {
+          "w": "الْمُسَاهَمَةِ",
+          "lemma": "مُسَاهَمَةٌ"
+        },
+        {
+          "w": "رُقِيِّ",
+          "lemma": "رُقِيٌّ"
+        },
+        {
+          "w": "الْمُجْتَمَعِ",
+          "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ"
+        }
+      ]
     }
   ],
   "metadata": {

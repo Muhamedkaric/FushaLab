@@ -4,39 +4,281 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ الخَطُّ العَرَبِيُّ تَعْبِيرًا بَصَرِيًّا عَنِ الجَمَالِ الرُّوحِيِّ وَالفَنِّيِّ.",
+      "arabic": "يُعْتَبَرُ الْخَطُّ الْعَرَبِيُّ تَعْبِيرًا بَصَرِيًّا عَنِ الْجَمَالِ الرُّوحِيِّ وَالْفَنِّيِّ.",
       "translation": "Arapska kaligrafija se smatra vizuelnim izrazom duhovne i umjetničke ljepote.",
-      "translationEn": "Arabic calligraphy is considered a visual expression of spiritual and artistic beauty."
+      "translationEn": "Arabic calligraphy is considered a visual expression of spiritual and artistic beauty.",
+      "words": [
+        {
+          "w": "الْخَطُّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "تَعْبِيرًا",
+          "lemma": "تَعْبِيرٌ"
+        },
+        {
+          "w": "بَصَرِيًّا",
+          "lemma": "بَصَرِيٌّ"
+        },
+        {
+          "w": "الْجَمَالِ",
+          "lemma": "جَمَالٌ"
+        },
+        {
+          "w": "الرُّوحِيِّ",
+          "lemma": "رُوحِيٌّ"
+        },
+        {
+          "w": "وَالْفَنِّيِّ",
+          "lemma": "فَنِّيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "لَقَدْ تَطَوَّرَ مِنْ كِتَابَةٍ بَسِيطَةٍ إِلَى شَكْلٍ فَنِّيٍّ مُعَقَّدٍ عَلَى مَرِّ العُصُورِ.",
+      "arabic": "لَقَدْ تَطَوَّرَ مِنْ كِتَابَةٍ بَسِيطَةٍ إِلَى شَكْلٍ فَنِّيٍّ مُعَقَّدٍ عَلَى مَرِّ الْعُصُورِ.",
       "translation": "Tokom vijekova se razvila iz jednostavnog pisma u složenu umjetničku formu.",
-      "translationEn": "It has evolved from simple writing into a complex art form over the centuries."
+      "translationEn": "It has evolved from simple writing into a complex art form over the centuries.",
+      "words": [
+        {
+          "w": "تَطَوَّرَ",
+          "lemma": "تَطَوَّرَ يَتَطَوَّرُ"
+        },
+        {
+          "w": "كِتَابَةٍ",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "بَسِيطَةٍ",
+          "lemma": "بَسِيطٌ"
+        },
+        {
+          "w": "شَكْلٍ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "فَنِّيٍّ",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "مُعَقَّدٍ",
+          "lemma": "مُعَقَّدٌ"
+        },
+        {
+          "w": "مَرِّ",
+          "lemma": "مَرٌّ"
+        },
+        {
+          "w": "الْعُصُورِ",
+          "lemma": "عَصْرٌ / عُصُورٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَسْتَخْدِمُ الفَنَّانُونَ أَنْوَاعًا مُخْتَلِفَةً مِثْلَ الثُّلُثِ وَالكُوفِيِّ لِتَزْيِينِ المَسَاجِدِ وَالقُصُورِ.",
+      "arabic": "يَسْتَخْدِمُ الْفَنَّانُونَ أَنْوَاعًا مُخْتَلِفَةً مِثْلَ الثُّلُثِ وَالْكُوفِيِّ لِتَزْيِينِ الْمَسَاجِدِ وَالْقُصُورِ.",
       "translation": "Umjetnici koriste različite stilove poput Thulutha i Kufija za ukrašavanje džamija i palata.",
-      "translationEn": "Artists use various styles such as Thuluth and Kufic to decorate mosques and palaces."
+      "translationEn": "Artists use various styles such as Thuluth and Kufic to decorate mosques and palaces.",
+      "words": [
+        {
+          "w": "يَسْتَخْدِمُ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "الْفَنَّانُونَ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "أَنْوَاعًا",
+          "lemma": "نَوْعٌ / أَنْوَاعٌ"
+        },
+        {
+          "w": "مُخْتَلِفَةً",
+          "lemma": "مُخْتَلِفٌ"
+        },
+        {
+          "w": "الثُّلُثِ",
+          "lemma": "ثُلُثٌ"
+        },
+        {
+          "w": "وَالْكُوفِيِّ",
+          "lemma": "كُوفِيٌّ"
+        },
+        {
+          "w": "لِتَزْيِينِ",
+          "lemma": "تَزْيِينٌ"
+        },
+        {
+          "w": "الْمَسَاجِدِ",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "وَالْقُصُورِ",
+          "lemma": "قَصْرٌ / قُصُورٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَتَطَلَّبُ كُلُّ حَرْفٍ دِقَّةً عَالِيَةً وَسَنَوَاتٍ مِنَ التَّدْرِيبِ الشَّاقِّ لِإِتْقَانِهِ.",
+      "arabic": "يَتَطَلَّبُ كُلُّ حَرْفٍ دِقَّةً عَالِيَةً وَسَنَوَاتٍ مِنَ التَّدْرِيبِ الشَّاقِّ لِإِتْقَانِهِ.",
       "translation": "Svako slovo zahtijeva visoku preciznost i godine napornog vježbanja kako bi se savladalo.",
-      "translationEn": "Each letter requires high precision and years of rigorous training to master."
+      "translationEn": "Each letter requires high precision and years of rigorous training to master.",
+      "words": [
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "كُلُّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "حَرْفٍ",
+          "lemma": "حَرْفٌ / حُرُوفٌ"
+        },
+        {
+          "w": "دِقَّةً",
+          "lemma": "دِقَّةٌ"
+        },
+        {
+          "w": "عَالِيَةً",
+          "lemma": "عَالٍ"
+        },
+        {
+          "w": "وَسَنَوَاتٍ",
+          "lemma": "سَنَةٌ / سَنَوَاتٌ"
+        },
+        {
+          "w": "التَّدْرِيبِ",
+          "lemma": "تَدْرِيبٌ"
+        },
+        {
+          "w": "الشَّاقِّ",
+          "lemma": "شَاقٌّ"
+        },
+        {
+          "w": "لِإِتْقَانِهِ",
+          "lemma": "إِتْقَانٌ"
+        }
+      ]
     },
     {
-      "arabic": "فِي الوَقْتِ الحَاضِرِ، يَمْزُجُ المُبْدِعُونَ بَيْنَ الخَطِّ التَّقْلِيدِيِّ وَالأَسَالِيبِ الفَنِّيَّةِ الحَدِيثَةِ.",
+      "arabic": "فِي الْوَقْتِ الْحَاضِرِ، يَمْزُجُ الْمُبْدِعُونَ بَيْنَ الْخَطِّ التَّقْلِيدِيِّ وَالأَسَالِيبِ الْفَنِّيَّةِ الْحَدِيثَةِ.",
       "translation": "U današnje vrijeme, kreativci spajaju tradicionalnu kaligrafiju sa modernim umjetničkim stilovima.",
-      "translationEn": "At present, creators blend traditional calligraphy with modern artistic styles."
+      "translationEn": "At present, creators blend traditional calligraphy with modern artistic styles.",
+      "words": [
+        {
+          "w": "الْوَقْتِ",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "الْحَاضِرِ",
+          "lemma": "حَاضِرٌ"
+        },
+        {
+          "w": "يَمْزُجُ",
+          "lemma": "مَزَجَ يَمْزُجُ"
+        },
+        {
+          "w": "الْمُبْدِعُونَ",
+          "lemma": "مُبْدِعٌ / مُبْدِعُونَ"
+        },
+        {
+          "w": "الْخَطِّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيِّ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "وَالأَسَالِيبِ",
+          "lemma": "أُسْلُوبٌ / أَسَالِيبُ"
+        },
+        {
+          "w": "الْفَنِّيَّةِ",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "الْحَدِيثَةِ",
+          "lemma": "حَدِيثٌ"
+        }
+      ]
     },
     {
-      "arabic": "هَذِهِ الحَرَكَةُ \"الحُرُوفِيَّةُ\" تُحَافِظُ عَلَى المَوْرُوثِ الثَّقَافِيِّ لِلأَجْيَالِ القَادِمَةِ.",
+      "arabic": "هَذِهِ الْحَرَكَةُ \"الْحُرُوفِيَّةُ\" تُحَافِظُ عَلَى الْمَوْرُوثِ الثَّقَافِيِّ لِلأَجْيَالِ الْقَادِمَةِ.",
       "translation": "Ovaj pokret \"Hurufiyya\" čuva kulturno naslijeđe za buduće generacije.",
-      "translationEn": "This 'Hurufiyya' movement preserves cultural heritage for future generations."
+      "translationEn": "This 'Hurufiyya' movement preserves cultural heritage for future generations.",
+      "words": [
+        {
+          "w": "الْحَرَكَةُ",
+          "lemma": "حَرَكَةٌ / حَرَكَاتٌ"
+        },
+        {
+          "w": "الْحُرُوفِيَّةُ",
+          "lemma": "حُرُوفِيَّةٌ"
+        },
+        {
+          "w": "تُحَافِظُ",
+          "lemma": "حَافَظَ يُحَافِظُ"
+        },
+        {
+          "w": "الْمَوْرُوثِ",
+          "lemma": "مَوْرُوثٌ"
+        },
+        {
+          "w": "الثَّقَافِيِّ",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "لِلأَجْيَالِ",
+          "lemma": "جِيلٌ / أَجْيَالٌ"
+        },
+        {
+          "w": "الْقَادِمَةِ",
+          "lemma": "قَادِمٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَبْقَى الخَطُّ أَحَدَ أَبْرَزِ مَعَالِمِ الحَضَارَةِ الإِسْلَامِيَّةِ العَرِيقَةِ.",
+      "arabic": "يَبْقَى الْخَطُّ أَحَدَ أَبْرَزِ مَعَالِمِ الْحَضَارَةِ الإِسْلَامِيَّةِ الْعَرِيقَةِ.",
       "translation": "Kaligrafija ostaje jedno od najistaknutijih obilježja drevne islamske civilizacije.",
-      "translationEn": "Calligraphy remains one of the most prominent features of the ancient Islamic civilization."
+      "translationEn": "Calligraphy remains one of the most prominent features of the ancient Islamic civilization.",
+      "words": [
+        {
+          "w": "يَبْقَى",
+          "lemma": "بَقِيَ يَبْقَى"
+        },
+        {
+          "w": "الْخَطُّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "أَحَدَ",
+          "lemma": "أَحَدٌ"
+        },
+        {
+          "w": "أَبْرَزِ",
+          "lemma": "بَارِزٌ"
+        },
+        {
+          "w": "مَعَالِمِ",
+          "lemma": "مَعْلَمٌ / مَعَالِمُ"
+        },
+        {
+          "w": "الْحَضَارَةِ",
+          "lemma": "حَضَارَةٌ / حَضَارَاتٌ"
+        },
+        {
+          "w": "الإِسْلَامِيَّةِ",
+          "lemma": "إِسْلَامِيٌّ"
+        },
+        {
+          "w": "الْعَرِيقَةِ",
+          "lemma": "عَرِيقٌ"
+        }
+      ]
     }
   ],
   "metadata": {

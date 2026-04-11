@@ -4,54 +4,298 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ المَائِدَةُ العَرَبِيَّةُ مَسَاحَةً لِلتَّرَابُطِ الأُسَرِيِّ وَتَعْزِيزِ العَلَاقَاتِ الِاجْتِمَاعِيَّةِ بَيْنَ الأَقَارِبِ وَالأَصْدِقَاءِ.",
+      "arabic": "تُمَثِّلُ الْمَائِدَةُ الْعَرَبِيَّةُ مَسَاحَةً لِلتَّرَابُطِ الأُسَرِيِّ وَتَعْزِيزِ الْعَلَاقَاتِ الِاجْتِمَاعِيَّةِ بَيْنَ الأَقَارِبِ وَالأَصْدِقَاءِ.",
       "translation": "Arapska trpeza predstavlja prostor za porodično povezivanje i jačanje društvenih odnosa među rođacima i prijateljima.",
       "translationEn": "The Arab table represents a space for family bonding and strengthening social relations among relatives and friends.",
-      "words": []
-    },
-    {
-      "arabic": "فَالطَّعَامُ فِي الثَّقَافَةِ العَرَبِيَّةِ لَيْسَ مُجَرَّدَ غِذَاءٍ لِلْجَسَدِ، بَلْ هُوَ طَقْسٌ يَعْكِسُ الكَرَمَ وَالمُشَارَكَةَ.",
-      "translation": "Hrana u arapskoj kulturi nije samo hrana za tijelo, već ritual koji odražava velikodušnost i dijeljenje.",
-      "translationEn": "Food in Arab culture is not just nourishment for the body, but a ritual reflecting generosity and sharing.",
       "words": [
         {
-          "w": "لَيْسَ",
-          "lemma": "لَيْسَ"
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "الْمَائِدَةُ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "مَسَاحَةً",
+          "lemma": "مَسَاحَةٌ / مَسَاحَاتٌ"
+        },
+        {
+          "w": "لِلتَّرَابُطِ",
+          "lemma": "تَرَابُطٌ"
+        },
+        {
+          "w": "الأُسَرِيِّ",
+          "lemma": "أُسَرِيٌّ"
+        },
+        {
+          "w": "وَتَعْزِيزِ",
+          "lemma": "تَعْزِيزٌ"
+        },
+        {
+          "w": "الْعَلَاقَاتِ",
+          "lemma": "عَلَاقَةٌ / عَلَاقَاتٌ"
+        },
+        {
+          "w": "الِاجْتِمَاعِيَّةِ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "الأَقَارِبِ",
+          "lemma": "قَرِيبٌ / أَقَارِبُ"
+        },
+        {
+          "w": "وَالأَصْدِقَاءِ",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         }
       ]
     },
     {
-      "arabic": "تَتَصَدَّرُ الأَطْبَاقُ التَّقْلِيدِيَّةُ الغَنِيَّةُ بِالتَّوَابِلِ، مِثْلُ المَنْسَفِ أَوِ الكَبْسَةِ، مَوَائِدَ العَزَائِمِ الكُبْرَى.",
-      "translation": "Tradicionalna jela bogata začinima, poput mansafa ili kabse, predvode trpeze velikih gozbi.",
-      "translationEn": "Traditional dishes rich in spices, such as Mansaf or Kabsa, head the tables of major banquets.",
-      "words": []
+      "arabic": "فَالطَّعَامُ فِي الثَّقَافَةِ الْعَرَبِيَّةِ لَيْسَ مُجَرَّدَ غِذَاءٍ لِلْجَسَدِ، بَلْ هُوَ طَقْسٌ يَعْكِسُ الْكَرَمَ وَالْمُشَارَكَةَ.",
+      "translation": "Hrana u arapskoj kulturi nije samo hrana za tijelo, već ritual koji odražava velikodušnost i dijeljenje.",
+      "translationEn": "Food in Arab culture is not just nourishment for the body, but a ritual reflecting generosity and sharing.",
+      "words": [
+        {
+          "w": "فَالطَّعَامُ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "لَيْسَ",
+          "lemma": "لَيْسَ"
+        },
+        {
+          "w": "غِذَاءٍ",
+          "lemma": "غِذَاءٌ"
+        },
+        {
+          "w": "لِلْجَسَدِ",
+          "lemma": "جَسَدٌ / أَجْسَادٌ"
+        },
+        {
+          "w": "طَقْسٌ",
+          "lemma": "طَقْسٌ / طُقُوسٌ"
+        },
+        {
+          "w": "يَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الْكَرَمَ",
+          "lemma": "كَرَمٌ"
+        },
+        {
+          "w": "وَالْمُشَارَكَةَ",
+          "lemma": "مُشَارَكَةٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَجْتَمِعُ أَفْرَادُ العَائِلَةِ حَوْلَ مَائِدَةٍ وَاحِدَةٍ، مِمَّا يُتِيحُ لَهُمْ فُرْصَةً لِتَبَادُلِ الأَحَادِيثِ وَتَقْوِيَةِ الأَوَاصِرِ بَيْنَهُمْ.",
+      "arabic": "تَتَصَدَّرُ الأَطْبَاقُ التَّقْلِيدِيَّةُ الغَنِيَّةُ بِالتَّوَابِلِ، مِثْلُ الْمَنْسَفِ أَوِ الْكَبْسَةِ، مَوَائِدَ الْعَزَائِمِ الكُبْرَى.",
+      "translation": "Tradicionalna jela bogata začinima, poput mansafa ili kabse, predvode trpeze velikih gozbi.",
+      "translationEn": "Traditional dishes rich in spices, such as Mansaf or Kabsa, head the tables of major banquets.",
+      "words": [
+        {
+          "w": "تَتَصَدَّرُ",
+          "lemma": "تَصَدَّرَ يَتَصَدَّرُ"
+        },
+        {
+          "w": "الأَطْبَاقُ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةُ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "الغَنِيَّةُ",
+          "lemma": "غَنِيٌّ"
+        },
+        {
+          "w": "بِالتَّوَابِلِ",
+          "lemma": "تَابِلٌ / تَوَابِلُ"
+        },
+        {
+          "w": "الْمَنْسَفِ",
+          "lemma": "مَنْسَفٌ"
+        },
+        {
+          "w": "الْكَبْسَةِ",
+          "lemma": "كَبْسَةٌ"
+        },
+        {
+          "w": "مَوَائِدَ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "الْعَزَائِمِ",
+          "lemma": "عَزِيمَةٌ / عَزَائِمُ"
+        },
+        {
+          "w": "الكُبْرَى",
+          "lemma": "أَكْبَرُ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَجْتَمِعُ أَفْرَادُ الْعَائِلَةِ حَوْلَ مَائِدَةٍ وَاحِدَةٍ، مِمَّا يُتِيحُ لَهُمْ فُرْصَةً لِتَبَادُلِ الأَحَادِيثِ وَتَقْوِيَةِ الأَوَاصِرِ بَيْنَهُمْ.",
       "translation": "Članovi porodice se okupljaju oko jedne trpeze, što im pruža priliku za razmjenu razgovora i jačanje međusobnih veza.",
       "translationEn": "Family members gather around a single table, providing them an opportunity to exchange conversations and strengthen their bonds.",
       "words": [
+        {
+          "w": "يَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "أَفْرَادُ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
         {
           "w": "حَوْلَ",
           "lemma": "حَوْلَ"
         },
         {
+          "w": "مَائِدَةٍ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
           "w": "وَاحِدَةٍ",
           "lemma": "وَاحِدٌ"
+        },
+        {
+          "w": "يُتِيحُ",
+          "lemma": "أَتَاحَ يُتِيحُ"
+        },
+        {
+          "w": "فُرْصَةً",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "لِتَبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الأَحَادِيثِ",
+          "lemma": "حَدِيثٌ / أَحَادِيثُ"
+        },
+        {
+          "w": "وَتَقْوِيَةِ",
+          "lemma": "تَقْوِيَةٌ"
+        },
+        {
+          "w": "الأَوَاصِرِ",
+          "lemma": "وَاصِرَةٌ / أَوَاصِرُ"
         }
       ]
     },
     {
-      "arabic": "كَمَا تَلْعَبُ المَقَبِّلَاتُ، أَوِ \"المَزَّةُ\"، دَوْرًا هَامًّا فِي إِضْفَاءِ تَنَوُّعٍ وَبَهْجَةٍ عَلَى جَلَسَاتِ الطَّعَامِ الطَّوِيلَةِ.",
+      "arabic": "كَمَا تَلْعَبُ الْمَقَبِّلَاتُ، أَوِ \"الْمَزَّةُ\"، دَوْرًا هَامًّا فِي إِضْفَاءِ تَنَوُّعٍ وَبَهْجَةٍ عَلَى جَلَسَاتِ الطَّعَامِ الطَّوِيلَةِ.",
       "translation": "Također, predjela ili \"meze\" igraju važnu ulogu u dodavanju raznolikosti i radosti dugim obrocima.",
       "translationEn": "Also, appetizers, or 'Mezza,' play an important role in adding variety and joy to long dining sessions.",
-      "words": []
+      "words": [
+        {
+          "w": "تَلْعَبُ",
+          "lemma": "لَعِبَ يَلْعَبُ"
+        },
+        {
+          "w": "الْمَقَبِّلَاتُ",
+          "lemma": "مَقَبِّلَةٌ / مَقَبِّلَاتٌ"
+        },
+        {
+          "w": "الْمَزَّةُ",
+          "lemma": "مَزَّةٌ"
+        },
+        {
+          "w": "دَوْرًا",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "هَامًّا",
+          "lemma": "هَامٌّ"
+        },
+        {
+          "w": "إِضْفَاءِ",
+          "lemma": "إِضْفَاءٌ"
+        },
+        {
+          "w": "تَنَوُّعٍ",
+          "lemma": "تَنَوُّعٌ"
+        },
+        {
+          "w": "وَبَهْجَةٍ",
+          "lemma": "بَهْجَةٌ"
+        },
+        {
+          "w": "جَلَسَاتِ",
+          "lemma": "جَلْسَةٌ / جَلَسَاتٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الطَّوِيلَةِ",
+          "lemma": "طَوِيلٌ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ الِاهْتِمَامَ بِتَفَاصِيلِ الطَّبْخِ وَتَقْدِيمِهِ يَدُلُّ عَلَى مَدَى الِاحْتِرَامِ الَّذِي يُكِنُّهُ المُضِيفُ لِزُوَّارِهِ.",
+      "arabic": "إِنَّ الِاهْتِمَامَ بِتَفَاصِيلِ الطَّبْخِ وَتَقْدِيمِهِ يَدُلُّ عَلَى مَدَى الِاحْتِرَامِ الَّذِي يُكِنُّهُ الْمُضِيفُ لِزُوَّارِهِ.",
       "translation": "Pažnja posvećena detaljima kuhanja i posluživanja ukazuje na stepen poštovanja koji domaćin gaji prema svojim posjetiocima.",
       "translationEn": "The attention to the details of cooking and presentation indicates the level of respect the host holds for their visitors.",
-      "words": []
+      "words": [
+        {
+          "w": "الِاهْتِمَامَ",
+          "lemma": "اهْتِمَامٌ"
+        },
+        {
+          "w": "بِتَفَاصِيلِ",
+          "lemma": "تَفْصِيلٌ / تَفَاصِيلُ"
+        },
+        {
+          "w": "الطَّبْخِ",
+          "lemma": "طَبْخٌ"
+        },
+        {
+          "w": "وَتَقْدِيمِهِ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "يَدُلُّ",
+          "lemma": "دَلَّ يَدُلُّ"
+        },
+        {
+          "w": "الِاحْتِرَامِ",
+          "lemma": "احْتِرَامٌ"
+        },
+        {
+          "w": "يُكِنُّهُ",
+          "lemma": "أَكَنَّ يُكِنُّ"
+        },
+        {
+          "w": "الْمُضِيفُ",
+          "lemma": "مُضِيفٌ / مُضِيفُونَ"
+        },
+        {
+          "w": "لِزُوَّارِهِ",
+          "lemma": "زَائِرٌ / زُوَّارٌ"
+        }
+      ]
     }
   ],
   "metadata": {

@@ -7,7 +7,56 @@
       "arabic": "تُمَثِّلُ العَائِلَةُ المُرْتَكَزَ الأَهَمَّ فِي حَيَاةِ الفَرْدِ دَاخِلَ المُجْتَمَعَاتِ العَرَبِيَّةِ، حَيْثُ تَسُودُ رَوَابِطُ التَّضَامُنِ القَوِيَّةِ.",
       "translation": "Porodica predstavlja najvažniji oslonac u životu pojedinca unutar arapskih društava, gdje vladaju snažne veze solidarnosti.",
       "translationEn": "Family represents the most important pillar in an individual's life within Arab societies, where strong bonds of solidarity prevail.",
-      "words": []
+      "words": [
+        {
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "العَائِلَةُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "المُرْتَكَزَ",
+          "lemma": "مُرْتَكَزٌ / مُرْتَكَزَاتٌ"
+        },
+        {
+          "w": "الأَهَمَّ",
+          "lemma": "مُهِمٌّ"
+        },
+        {
+          "w": "حَيَاةِ",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "الفَرْدِ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "المُجْتَمَعَاتِ",
+          "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ"
+        },
+        {
+          "w": "العَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "تَسُودُ",
+          "lemma": "سَادَ يَسُودُ"
+        },
+        {
+          "w": "رَوَابِطُ",
+          "lemma": "رَابِطَةٌ / رَوَابِطُ"
+        },
+        {
+          "w": "التَّضَامُنِ",
+          "lemma": "تَضَامُنٌ"
+        },
+        {
+          "w": "القَوِيَّةِ",
+          "lemma": "قَوِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "لَا تَقْتَصِرُ العَائِلَةُ عَلَى الوَالِدَيْنِ وَالأَبْنَاءِ فَقَطْ، بَلْ تَمْتَدُّ لِتَشْمَلَ الأَجْدَادَ وَالأَعْمَامَ فِي نِظَامٍ يُعْرَفُ بِالعَائِلَةِ المُمْتَدَّةِ.",
@@ -15,8 +64,56 @@
       "translationEn": "Family is not limited only to parents and children, but extends to include grandparents and uncles in a system known as the extended family.",
       "words": [
         {
+          "w": "تَقْتَصِرُ",
+          "lemma": "اقْتَصَرَ يَقْتَصِرُ"
+        },
+        {
+          "w": "العَائِلَةُ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "الوَالِدَيْنِ",
+          "lemma": "وَالِدٌ / وَالِدَانِ"
+        },
+        {
+          "w": "وَالأَبْنَاءِ",
+          "lemma": "ابْنٌ / أَبْنَاءٌ"
+        },
+        {
           "w": "فَقَطْ",
           "lemma": "فَقَطْ"
+        },
+        {
+          "w": "تَمْتَدُّ",
+          "lemma": "امْتَدَّ يَمْتَدُّ"
+        },
+        {
+          "w": "لِتَشْمَلَ",
+          "lemma": "شَمِلَ يَشْمُلُ"
+        },
+        {
+          "w": "الأَجْدَادَ",
+          "lemma": "جَدٌّ / أَجْدَادٌ"
+        },
+        {
+          "w": "وَالأَعْمَامَ",
+          "lemma": "عَمٌّ / أَعْمَامٌ"
+        },
+        {
+          "w": "نِظَامٍ",
+          "lemma": "نِظَامٌ / أَنْظِمَةٌ"
+        },
+        {
+          "w": "يُعْرَفُ",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "بِالعَائِلَةِ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
+          "w": "المُمْتَدَّةِ",
+          "lemma": "مُمْتَدٌّ"
         }
       ]
     },
@@ -24,31 +121,248 @@
       "arabic": "يُعْتَبَرُ احْتِرَامُ الكِبَارِ قِيمَةً عُلْيَا لَا يُمْكِنُ التَّهَاوُنُ فِيهَا، إِذْ يُؤْخَذُ بِرَأْيِهِمْ فِي القَرَارَاتِ المَصِيرِيَّةِ.",
       "translation": "Poštovanje starijih smatra se vrhunskom vrijednošću oko koje nema kompromisa, jer se njihovo mišljenje uzima u obzir pri donošenju sudbonosnih odluka.",
       "translationEn": "Respect for elders is considered a supreme value that cannot be compromised, as their opinion is sought in crucial decisions.",
-      "words": []
+      "words": [
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "احْتِرَامُ",
+          "lemma": "احْتِرَامٌ"
+        },
+        {
+          "w": "الكِبَارِ",
+          "lemma": "كَبِيرٌ / كِبَارٌ"
+        },
+        {
+          "w": "قِيمَةً",
+          "lemma": "قِيمَةٌ / قِيَمٌ"
+        },
+        {
+          "w": "عُلْيَا",
+          "lemma": "أَعْلَى"
+        },
+        {
+          "w": "التَّهَاوُنُ",
+          "lemma": "تَهَاوُنٌ"
+        },
+        {
+          "w": "يُؤْخَذُ",
+          "lemma": "أَخَذَ يَأْخُذُ"
+        },
+        {
+          "w": "بِرَأْيِهِمْ",
+          "lemma": "رَأْيٌ / آرَاءٌ"
+        },
+        {
+          "w": "القَرَارَاتِ",
+          "lemma": "قَرَارٌ / قَرَارَاتٌ"
+        },
+        {
+          "w": "المَصِيرِيَّةِ",
+          "lemma": "مَصِيرِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "تَجْتَمِعُ الأُسْرَةُ بِشَكْلٍ دَوْرِيٍّ، خُصُوصًا فِي أَيَّامِ الجُمُعَةِ وَالمُنَاسَبَاتِ الدِّينِيَّةِ لِتَنَاوُلِ الطَّعَامِ وَتَبَادُلِ الأَحَادِيثِ.",
       "translation": "Porodica se redovno okuplja, posebno petkom i tokom vjerskih praznika, kako bi zajedno jeli i razgovarali.",
       "translationEn": "The family gathers periodically, especially on Fridays and religious occasions, to share meals and exchange conversations.",
-      "words": []
+      "words": [
+        {
+          "w": "تَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "الأُسْرَةُ",
+          "lemma": "أُسْرَةٌ / أُسَرٌ"
+        },
+        {
+          "w": "بِشَكْلٍ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "دَوْرِيٍّ",
+          "lemma": "دَوْرِيٌّ"
+        },
+        {
+          "w": "خُصُوصًا",
+          "lemma": "خُصُوصٌ"
+        },
+        {
+          "w": "أَيَّامِ",
+          "lemma": "يَوْمٌ / أَيَّامٌ"
+        },
+        {
+          "w": "الجُمُعَةِ",
+          "lemma": "جُمُعَةٌ"
+        },
+        {
+          "w": "وَالمُنَاسَبَاتِ",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        },
+        {
+          "w": "الدِّينِيَّةِ",
+          "lemma": "دِينِيٌّ"
+        },
+        {
+          "w": "لِتَنَاوُلِ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "وَتَبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الأَحَادِيثِ",
+          "lemma": "حَدِيثٌ / أَحَادِيثُ"
+        }
+      ]
     },
     {
       "arabic": "هَذِهِ العَلَاقَاتُ الوَثِيقَةُ تُوَفِّرُ شَبَكَةَ دَعْمٍ نَفْسِيٍّ وَاجْتِمَاعِيٍّ لِلأَفْرَادِ فِي مُوَاجَهَةِ تَحَدِّيَاتِ الحَيَاةِ.",
       "translation": "Ovi bliski odnosi pružaju mrežu psihološke i socijalne podrške pojedincima u suočavanju sa životnim izazovima.",
       "translationEn": "These close relationships provide a psychological and social support network for individuals facing life's challenges.",
-      "words": []
+      "words": [
+        {
+          "w": "العَلَاقَاتُ",
+          "lemma": "عَلَاقَةٌ / عَلَاقَاتٌ"
+        },
+        {
+          "w": "الوَثِيقَةُ",
+          "lemma": "وَثِيقٌ"
+        },
+        {
+          "w": "تُوَفِّرُ",
+          "lemma": "وَفَّرَ يُوَفِّرُ"
+        },
+        {
+          "w": "شَبَكَةَ",
+          "lemma": "شَبَكَةٌ / شَبَكَاتٌ"
+        },
+        {
+          "w": "دَعْمٍ",
+          "lemma": "دَعْمٌ"
+        },
+        {
+          "w": "نَفْسِيٍّ",
+          "lemma": "نَفْسِيٌّ"
+        },
+        {
+          "w": "وَاجْتِمَاعِيٍّ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "لِلأَفْرَادِ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "مُوَاجَهَةِ",
+          "lemma": "مُوَاجَهَةٌ"
+        },
+        {
+          "w": "تَحَدِّيَاتِ",
+          "lemma": "تَحَدٍّ / تَحَدِّيَاتٌ"
+        },
+        {
+          "w": "الحَيَاةِ",
+          "lemma": "حَيَاةٌ"
+        }
+      ]
     },
     {
       "arabic": "وَرَغْمَ التَّغَيُّرَاتِ العَصْرِيَّةِ، مَا زَالَتِ القِيَمُ العَائِلِيَّةُ تُشَكِّلُ البَوْصَلَةَ الَّتِي تُوَجِّهُ السُّلُوكَ اليَوْمِيَّ.",
       "translation": "Uprkos savremenim promjenama, porodične vrijednosti i dalje čine kompas koji usmjerava svakodnevno ponašanje.",
       "translationEn": "Despite modern changes, family values still form the compass that guides daily behavior.",
-      "words": []
+      "words": [
+        {
+          "w": "التَّغَيُّرَاتِ",
+          "lemma": "تَغَيُّرٌ / تَغَيُّرَاتٌ"
+        },
+        {
+          "w": "العَصْرِيَّةِ",
+          "lemma": "عَصْرِيٌّ"
+        },
+        {
+          "w": "زَالَتِ",
+          "lemma": "زَالَ يَزَالُ"
+        },
+        {
+          "w": "القِيَمُ",
+          "lemma": "قِيمَةٌ / قِيَمٌ"
+        },
+        {
+          "w": "العَائِلِيَّةُ",
+          "lemma": "عَائِلِيٌّ"
+        },
+        {
+          "w": "تُشَكِّلُ",
+          "lemma": "شَكَّلَ يُشَكِّلُ"
+        },
+        {
+          "w": "البَوْصَلَةَ",
+          "lemma": "بَوْصَلَةٌ"
+        },
+        {
+          "w": "تُوَجِّهُ",
+          "lemma": "وَجَّهَ يُوَجِّهُ"
+        },
+        {
+          "w": "السُّلُوكَ",
+          "lemma": "سُلُوكٌ"
+        },
+        {
+          "w": "اليَوْمِيَّ",
+          "lemma": "يَوْمِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "إِنَّ التَّمَسُّكَ بِالجُذُورِ العَائِلِيَّةِ يُعَدُّ مَصْدَرَ فَخْرٍ وَاعْتِزَازٍ لِلإِنْسَانِ العَرَبِيِّ.",
       "translation": "Vezanost za porodične korijene izvor je ponosa za Arapa.",
       "translationEn": "Adherence to family roots is a source of pride and honor for the Arab person.",
-      "words": []
+      "words": [
+        {
+          "w": "التَّمَسُّكَ",
+          "lemma": "تَمَسُّكٌ"
+        },
+        {
+          "w": "بِالجُذُورِ",
+          "lemma": "جَذْرٌ / جُذُورٌ"
+        },
+        {
+          "w": "العَائِلِيَّةِ",
+          "lemma": "عَائِلِيٌّ"
+        },
+        {
+          "w": "يُعَدُّ",
+          "lemma": "عَدَّ يَعُدُّ"
+        },
+        {
+          "w": "مَصْدَرَ",
+          "lemma": "مَصْدَرٌ / مَصَادِرُ"
+        },
+        {
+          "w": "فَخْرٍ",
+          "lemma": "فَخْرٌ"
+        },
+        {
+          "w": "وَاعْتِزَازٍ",
+          "lemma": "اعْتِزَازٌ"
+        },
+        {
+          "w": "لِلإِنْسَانِ",
+          "lemma": "إِنْسَانٌ / أُنَاسٌ"
+        },
+        {
+          "w": "العَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

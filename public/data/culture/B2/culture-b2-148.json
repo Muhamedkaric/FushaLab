@@ -4,39 +4,147 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَعْكِسُ المُوسِيقَى العَرَبِيَّةُ تَارِيخَ الشُّعُوبِ وَمَشَاعِرَهُمْ.",
+      "arabic": "تَعْكِسُ المُوسِيقَى العَرَبِيَّةُ تَارِيخَ الشُّعُوبِ وَمَشَاعِرَهُمْ.",
       "translation": "Arapska muzika odražava historiju naroda i njihova osjećanja.",
       "translationEn": "Arab music reflects the history of peoples and their feelings.",
-      "words": []
+      "words": [
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "المُوسِيقَى",
+          "lemma": "مُوسِيقَى"
+        },
+        {
+          "w": "العَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "تَارِيخَ",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        },
+        {
+          "w": "الشُّعُوبِ",
+          "lemma": "شَعْبٌ / شُعُوبٌ"
+        },
+        {
+          "w": "وَمَشَاعِرَهُمْ",
+          "lemma": "مَشْعَرٌ / مَشَاعِرُ"
+        }
+      ]
     },
     {
       "arabic": "يَسْتَخْدَمُ العَازِفُونَ آلَاتٍ قَدِيمَةً مِثْلَ العُودِ وَالقَانُونِ.",
       "translation": "Muzičari koriste stare instrumente poput uda i kanuna.",
       "translationEn": "Musicians use ancient instruments such as the oud and the qanun.",
-      "words": []
+      "words": [
+        {
+          "w": "يَسْتَخْدَمُ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "العَازِفُونَ",
+          "lemma": "عَازِفٌ / عَازِفُونَ"
+        },
+        {
+          "w": "آلَاتٍ",
+          "lemma": "آلَةٌ / آلَاتٌ"
+        },
+        {
+          "w": "قَدِيمَةً",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "العُودِ",
+          "lemma": "عُودٌ / أَعْوَادٌ"
+        },
+        {
+          "w": "وَالقَانُونِ",
+          "lemma": "قَانُونٌ / قَوَانِينُ"
+        }
+      ]
     },
     {
-      "arabic": "كَانَتِ الأَغَانِي تَتَحَدَّثُ عَنِ الحُبِّ وَالطَّبِيعَةِ وَالوَطَنِ.",
+      "arabic": "كَانَتِ الأَغَانِي تَتَحَدَّثُ عَنِ الحُبِّ وَالطَّبِيعَةِ وَالوَطَنِ.",
       "translation": "Pjesme su govorile o ljubavi, prirodi i domovini.",
       "translationEn": "The songs used to talk about love, nature, and the homeland.",
       "words": [
         {
           "w": "كَانَتِ",
           "lemma": "كَانَ يَكُونُ"
+        },
+        {
+          "w": "الأَغَانِي",
+          "lemma": "أُغْنِيَةٌ / أَغَانٍ"
+        },
+        {
+          "w": "تَتَحَدَّثُ",
+          "lemma": "تَحَدَّثَ يَتَحَدَّثُ"
+        },
+        {
+          "w": "الحُبِّ",
+          "lemma": "حُبٌّ"
+        },
+        {
+          "w": "وَالطَّبِيعَةِ",
+          "lemma": "طَبِيعَةٌ / طَبَائِعُ"
+        },
+        {
+          "w": "وَالوَطَنِ",
+          "lemma": "وَطَنٌ / أَوْطَانٌ"
         }
       ]
     },
     {
-      "arabic": "يَسْتَمِعُ النَّاسُ إِلَى الأَلْحَانِ الهَادِئَةِ فِي المَسَاءِ.",
+      "arabic": "يَسْتَمِعُ النَّاسُ إِلَى الأَلْحَانِ الهَادِئَةِ فِي المَسَاءِ.",
       "translation": "Ljudi slušaju mirne melodije u večernjim satima.",
       "translationEn": "People listen to calm melodies in the evening.",
-      "words": []
+      "words": [
+        {
+          "w": "يَسْتَمِعُ",
+          "lemma": "اسْتَمَعَ يَسْتَمِعُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        },
+        {
+          "w": "الأَلْحَانِ",
+          "lemma": "لَحْنٌ / أَلْحَانٌ"
+        },
+        {
+          "w": "الهَادِئَةِ",
+          "lemma": "هَادِئٌ"
+        },
+        {
+          "w": "المَسَاءِ",
+          "lemma": "مَسَاءٌ / أَمْسِيَةٌ"
+        }
+      ]
     },
     {
-      "arabic": "تُعْتَبَرُ هَذِهِ الفُنُونُ جُزْءًا مِنَ الهُوِيَّةِ الثَّقَافِيَّةِ.",
+      "arabic": "تُعْتَبَرُ هَذِهِ الفُنُونُ جُزْءًا مِنَ الهُوِيَّةِ الثَّقَافِيَّةِ.",
       "translation": "Ove umjetnosti se smatraju dijelom kulturnog identiteta.",
       "translationEn": "These arts are considered a part of cultural identity.",
-      "words": []
+      "words": [
+        {
+          "w": "الفُنُونُ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "جُزْءًا",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "الهُوِيَّةِ",
+          "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ"
+        },
+        {
+          "w": "الثَّقَافِيَّةِ",
+          "lemma": "ثَقَافِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

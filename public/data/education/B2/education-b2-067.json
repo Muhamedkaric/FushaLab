@@ -4,29 +4,93 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَعْتَمِدُ النَّجَاحُ الْأَكَادِيمِيُّ بِشَكْلٍ كَبِيرٍ عَلَى تَنْظِيمِ الْوَقْتِ وَتَبَنِّي عَادَاتٍ دِرَاسِيَّةٍ فَعَّالَةٍ.",
+      "arabic": "يَعْتَمِدُ النَّجَاحُ الْأَكَادِيمِيُّ بِشَكْلٍ كَبِيرٍ عَلَى تَنْظِيمِ الْوَقْتِ وَتَبَنِّي عَادَاتٍ دِرَاسِيَّةٍ فَعَّالَةٍ.",
       "translation": "Akademski uspjeh u velikoj mjeri zavisi od organizacije vremena i usvajanja efikasnih studijskih navika.",
-      "translationEn": "Academic success depends heavily on time management and adopting effective study habits."
+      "translationEn": "Academic success depends heavily on time management and adopting effective study habits.",
+      "words": [
+        { "w": "يَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "النَّجَاحُ", "lemma": "نَجَاحٌ" },
+        { "w": "الْأَكَادِيمِيُّ", "lemma": "أَكَادِيمِيٌّ" },
+        { "w": "بِشَكْلٍ", "lemma": "شَكْلٌ / أَشْكَالٌ" },
+        { "w": "كَبِيرٍ", "lemma": "كَبِيرٌ" },
+        { "w": "تَنْظِيمِ", "lemma": "تَنْظِيمٌ" },
+        { "w": "الْوَقْتِ", "lemma": "وَقْتٌ / أَوْقَاتٌ" },
+        { "w": "وَتَبَنِّي", "lemma": "تَبَنِّي" },
+        { "w": "عَادَاتٍ", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "دِرَاسِيَّةٍ", "lemma": "دِرَاسِيٌّ" },
+        { "w": "فَعَّالَةٍ", "lemma": "فَعَّالٌ" }
+      ]
     },
     {
-      "arabic": "يُنْصَحُ الطُّلَّابُ دَائِمًا بِتَقْسِيمِ الْمَهَامِّ الضَّخْمَةِ إِلَى أَجْزَاءٍ صَغِيرَةٍ لِتَسْهِيلِ اسْتِيعَابِهَا وَإِنْجَازِهَا فِي الْمَوَاعِيدِ الْمُحَدَّدَةِ.",
+      "arabic": "يُنْصَحُ الطُّلَّابُ دَائِمًا بِتَقْسِيمِ الْمَهَامِّ الضَّخْمَةِ إِلَى أَجْزَاءٍ صَغِيرَةٍ لِتَسْهِيلِ اسْتِيعَابِهَا وَإِنْجَازِهَا فِي الْمَوَاعِيدِ الْمُحَدَّدَةِ.",
       "translation": "Studentima se uvijek savjetuje da velike zadatke podijele na manje dijelove kako bi olakšali njihovo razumijevanje i završavanje u predviđenim rokovima.",
-      "translationEn": "Students are always advised to divide large tasks into small parts to facilitate their comprehension and completion within the specified deadlines."
+      "translationEn": "Students are always advised to divide large tasks into small parts to facilitate their comprehension and completion within the specified deadlines.",
+      "words": [
+        { "w": "يُنْصَحُ", "lemma": "نَصَحَ يَنْصَحُ" },
+        { "w": "الطُّلَّابُ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "بِتَقْسِيمِ", "lemma": "تَقْسِيمٌ" },
+        { "w": "الْمَهَامِّ", "lemma": "مَهَمَّةٌ / مَهَامُّ" },
+        { "w": "الضَّخْمَةِ", "lemma": "ضَخْمٌ" },
+        { "w": "أَجْزَاءٍ", "lemma": "جُزْءٌ / أَجْزَاءٌ" },
+        { "w": "صَغِيرَةٍ", "lemma": "صَغِيرٌ" },
+        { "w": "لِتَسْهِيلِ", "lemma": "تَسْهِيلٌ" },
+        { "w": "اسْتِيعَابِهَا", "lemma": "اِسْتِيعَابٌ" },
+        { "w": "وَإِنْجَازِهَا", "lemma": "إِنْجَازٌ" },
+        { "w": "الْمَوَاعِيدِ", "lemma": "مَوْعِدٌ / مَوَاعِيدُ" },
+        { "w": "الْمُحَدَّدَةِ", "lemma": "مُحَدَّدٌ" }
+      ]
     },
     {
-      "arabic": "كَمَا أَنَّ الْمُرَاجَعَةَ الدَّوْرِيَّةَ لِلْمَوَادِّ تُسَاعِدُ عَلَى تَرْسِيخِ الْمَعْلُومَاتِ فِي الذَّاكِرَةِ طَوِيلَةِ الْمَدَى.",
+      "arabic": "كَمَا أَنَّ الْمُرَاجَعَةَ الدَّوْرِيَّةَ لِلْمَوَادِّ تُسَاعِدُ عَلَى تَرْسِيخِ الْمَعْلُومَاتِ فِي الذَّاكِرَةِ طَوِيلَةِ الْمَدَى.",
       "translation": "Također, periodično ponavljanje gradiva pomaže u učvršćivanju informacija u dugoročnom pamćenju.",
-      "translationEn": "Moreover, periodic review of materials helps to consolidate information in the long-term memory."
+      "translationEn": "Moreover, periodic review of materials helps to consolidate information in the long-term memory.",
+      "words": [
+        { "w": "الْمُرَاجَعَةَ", "lemma": "مُرَاجَعَةٌ" },
+        { "w": "الدَّوْرِيَّةَ", "lemma": "دَوْرِيٌّ" },
+        { "w": "لِلْمَوَادِّ", "lemma": "مَادَّةٌ / مَوَادُّ" },
+        { "w": "تُسَاعِدُ", "lemma": "سَاعَدَ يُسَاعِدُ" },
+        { "w": "تَرْسِيخِ", "lemma": "تَرْسِيخٌ" },
+        { "w": "الْمَعْلُومَاتِ", "lemma": "مَعْلُومَةٌ / مَعْلُومَاتٌ" },
+        { "w": "الذَّاكِرَةِ", "lemma": "ذَاكِرَةٌ" },
+        { "w": "طَوِيلَةِ", "lemma": "طَوِيلٌ" },
+        { "w": "الْمَدَى", "lemma": "مَدًى" }
+      ]
     },
     {
-      "arabic": "لَا يَنْبَغِي إِهْمَالُ فَتَرَاتِ الرَّاحَةِ الْقَصِيرَةِ، فَهِيَ تُجَدِّدُ النَّشَاطَ الذِّهْنِيَّ وَتَمْنَعُ الشُّعُورَ بِالْإِرْهَاقِ أَوِ الْمَلَلِ.",
+      "arabic": "لَا يَنْبَغِي إِهْمَالُ فَتَرَاتِ الرَّاحَةِ الْقَصِيرَةِ، فَهِيَ تُجَدِّدُ النَّشَاطَ الذِّهْنِيَّ وَتَمْنَعُ الشُّعُورَ بِالْإِرْهَاقِ أَوِ الْمَلَلِ.",
       "translation": "Ne bi trebalo zanemariti kratke pauze, jer one obnavljaju mentalnu energiju i sprečavaju osjećaj iscrpljenosti ili dosade.",
-      "translationEn": "Short rest periods should not be neglected, as they renew mental energy and prevent feelings of exhaustion or boredom."
+      "translationEn": "Short rest periods should not be neglected, as they renew mental energy and prevent feelings of exhaustion or boredom.",
+      "words": [
+        { "w": "إِهْمَالُ", "lemma": "إِهْمَالٌ" },
+        { "w": "فَتَرَاتِ", "lemma": "فَتْرَةٌ / فَتَرَاتٌ" },
+        { "w": "الرَّاحَةِ", "lemma": "رَاحَةٌ" },
+        { "w": "الْقَصِيرَةِ", "lemma": "قَصِيرٌ" },
+        { "w": "تُجَدِّدُ", "lemma": "جَدَّدَ يُجَدِّدُ" },
+        { "w": "النَّشَاطَ", "lemma": "نَشَاطٌ / أَنْشِطَةٌ" },
+        { "w": "الذِّهْنِيَّ", "lemma": "ذِهْنِيٌّ" },
+        { "w": "وَتَمْنَعُ", "lemma": "مَنَعَ يَمْنَعُ" },
+        { "w": "الشُّعُورَ", "lemma": "شُعُورٌ" },
+        { "w": "بِالْإِرْهَاقِ", "lemma": "إِرْهَاقٌ" },
+        { "w": "الْمَلَلِ", "lemma": "مَلَلٌ" }
+      ]
     },
     {
-      "arabic": "فِي نِهَايَةِ الْمَطَافِ، يَبْقَى الِانْضِبَاطُ الذَّاتِيُّ هُوَ الْمِفْتَاحَ الْأَسَاسِيَّ لِتَحْقِيقِ الْأَهْدَافِ التَّعْلِيمِيَّةِ الطَّمُوحَةِ.",
+      "arabic": "فِي نِهَايَةِ الْمَطَافِ، يَبْقَى الِانْضِبَاطُ الذَّاتِيُّ هُوَ الْمِفْتَاحَ الْأَسَاسِيَّ لِتَحْقِيقِ الْأَهْدَافِ التَّعْلِيمِيَّةِ الطَّمُوحَةِ.",
       "translation": "Na kraju krajeva, samodisciplina ostaje osnovni ključ za postizanje ambicioznih obrazovnih ciljeva.",
-      "translationEn": "Ultimately, self-discipline remains the primary key to achieving ambitious educational goals."
+      "translationEn": "Ultimately, self-discipline remains the primary key to achieving ambitious educational goals.",
+      "words": [
+        { "w": "نِهَايَةِ", "lemma": "نِهَايَةٌ" },
+        { "w": "الْمَطَافِ", "lemma": "مَطَافٌ" },
+        { "w": "يَبْقَى", "lemma": "بَقِيَ يَبْقَى" },
+        { "w": "الِانْضِبَاطُ", "lemma": "اِنْضِبَاطٌ" },
+        { "w": "الذَّاتِيُّ", "lemma": "ذَاتِيٌّ" },
+        { "w": "الْمِفْتَاحَ", "lemma": "مِفْتَاحٌ / مَفَاتِيحُ" },
+        { "w": "الْأَسَاسِيَّ", "lemma": "أَسَاسِيٌّ" },
+        { "w": "لِتَحْقِيقِ", "lemma": "تَحْقِيقٌ" },
+        { "w": "الْأَهْدَافِ", "lemma": "هَدَفٌ / أَهْدَافٌ" },
+        { "w": "التَّعْلِيمِيَّةِ", "lemma": "تَعْلِيمِيٌّ" },
+        { "w": "الطَّمُوحَةِ", "lemma": "طَمُوحٌ" }
+      ]
     }
   ],
   "metadata": {

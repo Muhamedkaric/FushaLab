@@ -4,29 +4,94 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَعُدُّ الْمَكْتَبَاتُ الْعَامَّةُ صُرُوحًا مَعْرِفِيَّةً لَا غِنَى عَنْهَا، رَغْمَ الِانْتِشَارِ الْوَاسِعِ لِلْمَصَادِرِ الرَّقْمِيَّةِ فِي عَصْرِنَا الْحَالِيِّ.",
+      "arabic": "تَعُدُّ الْمَكْتَبَاتُ الْعَامَّةُ صُرُوحًا مَعْرِفِيَّةً لَا غِنَى عَنْهَا، رَغْمَ الِانْتِشَارِ الْوَاسِعِ لِلْمَصَادِرِ الرَّقْمِيَّةِ فِي عَصْرِنَا الْحَالِيِّ.",
       "translation": "Opće biblioteke smatraju se neophodnim spomenicima znanja, uprkos širokoj rasprostranjenosti digitalnih izvora u našem sadašnjem vremenu.",
-      "translationEn": "Public libraries are considered indispensable monuments of knowledge, despite the wide spread of digital sources in our current era."
+      "translationEn": "Public libraries are considered indispensable monuments of knowledge, despite the wide spread of digital sources in our current era.",
+      "words": [
+        { "w": "الْمَكْتَبَاتُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "الْعَامَّةُ", "lemma": "عَامٌّ" },
+        { "w": "صُرُوحًا", "lemma": "صَرْحٌ / صُرُوحٌ" },
+        { "w": "مَعْرِفِيَّةً", "lemma": "مَعْرِفِيٌّ" },
+        { "w": "غِنَى", "lemma": "غِنًى" },
+        { "w": "الِانْتِشَارِ", "lemma": "اِنْتِشَارٌ" },
+        { "w": "الْوَاسِعِ", "lemma": "وَاسِعٌ" },
+        { "w": "لِلْمَصَادِرِ", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "الرَّقْمِيَّةِ", "lemma": "رَقْمِيٌّ" },
+        { "w": "عَصْرِنَا", "lemma": "عَصْرٌ / عُصُورٌ" },
+        { "w": "الْحَالِيِّ", "lemma": "حَالِيٌّ" }
+      ]
     },
     {
-      "arabic": "فَهِيَ تُوَفِّرُ لِلْبَاحِثِينَ بِيئَةً هَادِئَةً تُشَجِّعُ عَلَى التَّرْكِيزِ وَالِانْغِمَاسِ فِي أُمَّهَاتِ الْكُتُبِ الَّتِي قَدْ لَا تَتَوَفَّرُ نُسَخُهَا الْإِلِكْتُرُونِيَّةُ.",
+      "arabic": "فَهِيَ تُوَفِّرُ لِلْبَاحِثِينَ بِيئَةً هَادِئَةً تُشَجِّعُ عَلَى التَّرْكِيزِ وَالِانْغِمَاسِ فِي أُمَّهَاتِ الْكُتُبِ الَّتِي قَدْ لَا تَتَوَفَّرُ نُسَخُهَا الْإِلِكْتُرُونِيَّةُ.",
       "translation": "One istraživačima pružaju mirno okruženje koje podstiče na koncentraciju i udubljivanje u temeljna djela čije elektronske verzije možda nisu dostupne.",
-      "translationEn": "They provide researchers with a quiet environment that encourages concentration and immersion in seminal works whose electronic versions may not be available."
+      "translationEn": "They provide researchers with a quiet environment that encourages concentration and immersion in seminal works whose electronic versions may not be available.",
+      "words": [
+        { "w": "تُوَفِّرُ", "lemma": "وَفَّرَ يُوَفِّرُ" },
+        { "w": "لِلْبَاحِثِينَ", "lemma": "بَاحِثٌ / بَاحِثُونَ" },
+        { "w": "بِيئَةً", "lemma": "بِيئَةٌ / بِيئَاتٌ" },
+        { "w": "هَادِئَةً", "lemma": "هَادِئٌ" },
+        { "w": "تُشَجِّعُ", "lemma": "شَجَّعَ يُشَجِّعُ" },
+        { "w": "التَّرْكِيزِ", "lemma": "تَرْكِيزٌ" },
+        { "w": "وَالِانْغِمَاسِ", "lemma": "اِنْغِمَاسٌ" },
+        { "w": "أُمَّهَاتِ", "lemma": "أُمٌّ / أُمَّهَاتٌ" },
+        { "w": "الْكُتُبِ", "lemma": "كِتَابٌ / كُتُبٌ" },
+        { "w": "تَتَوَفَّرُ", "lemma": "تَوَفَّرَ يَتَوَفَّرُ" },
+        { "w": "نُسَخُهَا", "lemma": "نُسْخَةٌ / نُسَخٌ" },
+        { "w": "الْإِلِكْتُرُونِيَّةُ", "lemma": "إِلِكْتُرُونِيٌّ" }
+      ]
     },
     {
-      "arabic": "كَمَا تَلْعَبُ الْمَكْتَبَةُ دَوْرًا مِحْوَرِيًّا فِي تَعْزِيزِ ثَقَافَةِ الْقِرَاءَةِ بَيْنَ النَّاشِئَةِ، مِمَّا يُسَاهِمُ فِي بِنَاءِ مُجْتَمَعٍ مُثَقَّفٍ وَوَاعٍ.",
+      "arabic": "كَمَا تَلْعَبُ الْمَكْتَبَةُ دَوْرًا مِحْوَرِيًّا فِي تَعْزِيزِ ثَقَافَةِ الْقِرَاءَةِ بَيْنَ النَّاشِئَةِ، مِمَّا يُسَاهِمُ فِي بِنَاءِ مُجْتَمَعٍ مُثَقَّفٍ وَوَاعٍ.",
       "translation": "Također, biblioteka igra ključnu ulogu u jačanju kulture čitanja među mladima, što doprinosi izgradnji obrazovanog i svjesnog društva.",
-      "translationEn": "The library also plays a pivotal role in strengthening the culture of reading among youth, which contributes to building an educated and conscious society."
+      "translationEn": "The library also plays a pivotal role in strengthening the culture of reading among youth, which contributes to building an educated and conscious society.",
+      "words": [
+        { "w": "تَلْعَبُ", "lemma": "لَعِبَ يَلْعَبُ" },
+        { "w": "الْمَكْتَبَةُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "دَوْرًا", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "مِحْوَرِيًّا", "lemma": "مِحْوَرِيٌّ" },
+        { "w": "تَعْزِيزِ", "lemma": "تَعْزِيزٌ" },
+        { "w": "ثَقَافَةِ", "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ" },
+        { "w": "الْقِرَاءَةِ", "lemma": "قِرَاءَةٌ" },
+        { "w": "النَّاشِئَةِ", "lemma": "نَاشِئَةٌ" },
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "بِنَاءِ", "lemma": "بِنَاءٌ" },
+        { "w": "مُجْتَمَعٍ", "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ" },
+        { "w": "مُثَقَّفٍ", "lemma": "مُثَقَّفٌ" },
+        { "w": "وَوَاعٍ", "lemma": "وَاعٍ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الْحِفَاظَ عَلَى هَذِهِ الْمَرَافِقِ الثَّقَافِيَّةِ وَتَطْوِيرَهَا يَعْكِسُ مَدَى اهْتِمَامِ الدَّوْلَةِ بِالِاسْتِثْمَارِ فِي الْعَقْلِ الْبَشَرِيِّ.",
+      "arabic": "إِنَّ الْحِفَاظَ عَلَى هَذِهِ الْمَرَافِقِ الثَّقَافِيَّةِ وَتَطْوِيرَهَا يَعْكِسُ مَدَى اهْتِمَامِ الدَّوْلَةِ بِالِاسْتِثْمَارِ فِي الْعَقْلِ الْبَشَرِيِّ.",
       "translation": "Očuvanje i razvoj ovih kulturnih objekata odražava mjeru interesa države za ulaganje u ljudski um.",
-      "translationEn": "Preserving and developing these cultural facilities reflects the extent of the state's interest in investing in the human mind."
+      "translationEn": "Preserving and developing these cultural facilities reflects the extent of the state's interest in investing in the human mind.",
+      "words": [
+        { "w": "الْحِفَاظَ", "lemma": "حِفَاظٌ" },
+        { "w": "الْمَرَافِقِ", "lemma": "مَرْفَقٌ / مَرَافِقُ" },
+        { "w": "الثَّقَافِيَّةِ", "lemma": "ثَقَافِيٌّ" },
+        { "w": "وَتَطْوِيرَهَا", "lemma": "تَطْوِيرٌ" },
+        { "w": "يَعْكِسُ", "lemma": "عَكَسَ يَعْكِسُ" },
+        { "w": "مَدَى", "lemma": "مَدًى" },
+        { "w": "اهْتِمَامِ", "lemma": "اِهْتِمَامٌ" },
+        { "w": "الدَّوْلَةِ", "lemma": "دَوْلَةٌ / دُوَلٌ" },
+        { "w": "بِالِاسْتِثْمَارِ", "lemma": "اِسْتِثْمَارٌ" },
+        { "w": "الْعَقْلِ", "lemma": "عَقْلٌ / عُقُولٌ" },
+        { "w": "الْبَشَرِيِّ", "lemma": "بَشَرِيٌّ" }
+      ]
     },
     {
-      "arabic": "وَلِذَلِكَ، يَنْبَغِي عَلَيْنَا جَمِيعًا دَعْمُ هَذِهِ الْمُؤَسَّسَاتِ لِضَمَانِ اسْتِمْرَارِيَّةِ رِسَالَتِهَا التَّنْوِيرِيَّةِ لِلْأَجْيَالِ الْقَادِمَةِ.",
+      "arabic": "وَلِذَلِكَ، يَنْبَغِي عَلَيْنَا جَمِيعًا دَعْمُ هَذِهِ الْمُؤَسَّسَاتِ لِضَمَانِ اسْتِمْرَارِيَّةِ رِسَالَتِهَا التَّنْوِيرِيَّةِ لِلْأَجْيَالِ الْقَادِمَةِ.",
       "translation": "Stoga bismo svi trebali podržati ove institucije kako bismo osigurali kontinuitet njihove prosvjetiteljske misije za buduće generacije.",
-      "translationEn": "Therefore, we should all support these institutions to ensure the continuity of their enlightening mission for future generations."
+      "translationEn": "Therefore, we should all support these institutions to ensure the continuity of their enlightening mission for future generations.",
+      "words": [
+        { "w": "دَعْمُ", "lemma": "دَعْمٌ" },
+        { "w": "الْمُؤَسَّسَاتِ", "lemma": "مُؤَسَّسَةٌ / مُؤَسَّسَاتٌ" },
+        { "w": "لِضَمَانِ", "lemma": "ضَمَانٌ" },
+        { "w": "اسْتِمْرَارِيَّةِ", "lemma": "اِسْتِمْرَارِيَّةٌ" },
+        { "w": "رِسَالَتِهَا", "lemma": "رِسَالَةٌ / رَسَائِلُ" },
+        { "w": "التَّنْوِيرِيَّةِ", "lemma": "تَنْوِيرِيٌّ" },
+        { "w": "لِلْأَجْيَالِ", "lemma": "جِيلٌ / أَجْيَالٌ" },
+        { "w": "الْقَادِمَةِ", "lemma": "قَادِمٌ" }
+      ]
     }
   ],
   "metadata": {

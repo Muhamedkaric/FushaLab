@@ -4,29 +4,88 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَعْتَمِدُ تَحْقِيقُ التَّفَوُّقِ الْأَكَادِيمِيِّ بِشَكْلٍ كَبِيرٍ عَلَى تَطْوِيرِ عَادَاتٍ دِرَاسِيَّةٍ مُنْضَبِطَةٍ وَإِدَارَةِ الْوَقْتِ بِفَعَّالِيَّةٍ.",
+      "arabic": "يَعْتَمِدُ تَحْقِيقُ التَّفَوُّقِ الْأَكَادِيمِيِّ بِشَكْلٍ كَبِيرٍ عَلَى تَطْوِيرِ عَادَاتٍ دِرَاسِيَّةٍ مُنْضَبِطَةٍ وَإِدَارَةِ الْوَقْتِ بِفَعَّالِيَّةٍ.",
       "translation": "Postizanje akademske izvrsnosti u velikoj mjeri zavisi o razvijanju disciplinovanih navika učenja i efikasnom upravljanju vremenom.",
-      "translationEn": "Achieving academic excellence depends largely on developing disciplined study habits and effective time management."
+      "translationEn": "Achieving academic excellence depends largely on developing disciplined study habits and effective time management.",
+      "words": [
+        { "w": "يَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "تَحْقِيقُ", "lemma": "تَحْقِيقٌ" },
+        { "w": "التَّفَوُّقِ", "lemma": "تَفَوُّقٌ" },
+        { "w": "الْأَكَادِيمِيِّ", "lemma": "أَكَادِيمِيٌّ" },
+        { "w": "تَطْوِيرِ", "lemma": "تَطْوِيرٌ" },
+        { "w": "عَادَاتٍ", "lemma": "عَادَةٌ / عَادَاتٌ" },
+        { "w": "دِرَاسِيَّةٍ", "lemma": "دِرَاسِيٌّ" },
+        { "w": "مُنْضَبِطَةٍ", "lemma": "مُنْضَبِطٌ" },
+        { "w": "وَإِدَارَةِ", "lemma": "إِدَارَةٌ" },
+        { "w": "الْوَقْتِ", "lemma": "وَقْتٌ / أَوْقَاتٌ" },
+        { "w": "بِفَعَّالِيَّةٍ", "lemma": "فَعَّالِيَّةٌ" }
+      ]
     },
     {
-      "arabic": "غَالِبًا مَا يَسْتَخْدِمُ الطُّلَّابُ النَّاجِحُونَ تِقْنِيَّةَ الِاسْتِرْجَاعِ النَّشِطِ لِتَرْسِيخِ الْمَعْلُومَاتِ فِي ذَاكِرَتِهِمْ بَعِيدَةِ الْمَدَى.",
+      "arabic": "غَالِبًا مَا يَسْتَخْدِمُ الطُّلَّابُ النَّاجِحُونَ تِقْنِيَّةَ الِاسْتِرْجَاعِ النَّشِطِ لِتَرْسِيخِ الْمَعْلُومَاتِ فِي ذَاكِرَتِهِمْ بَعِيدَةِ الْمَدَى.",
       "translation": "Uspješni studenti često koriste tehniku aktivnog prisjećanja kako bi utvrdili informacije u svom dugoročnom pamćenju.",
-      "translationEn": "Successful students often employ the technique of active recall to solidify information in their long-term memory."
+      "translationEn": "Successful students often employ the technique of active recall to solidify information in their long-term memory.",
+      "words": [
+        { "w": "يَسْتَخْدِمُ", "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ" },
+        { "w": "الطُّلَّابُ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "النَّاجِحُونَ", "lemma": "نَاجِحٌ / نَاجِحُونَ" },
+        { "w": "تِقْنِيَّةَ", "lemma": "تِقْنِيَّةٌ / تِقْنِيَّاتٌ" },
+        { "w": "الِاسْتِرْجَاعِ", "lemma": "اسْتِرْجَاعٌ" },
+        { "w": "النَّشِطِ", "lemma": "نَشِطٌ" },
+        { "w": "لِتَرْسِيخِ", "lemma": "تَرْسِيخٌ" },
+        { "w": "الْمَعْلُومَاتِ", "lemma": "مَعْلُومَةٌ / مَعْلُومَاتٌ" },
+        { "w": "ذَاكِرَتِهِمْ", "lemma": "ذَاكِرَةٌ" }
+      ]
     },
     {
-      "arabic": "مِنَ الضَّرُورِيِّ تَقْسِيمُ الْمَوَادِّ الْمُعَقَّدَةِ إِلَى وَحَدَاتٍ صَغِيرَةٍ يُمْكِنُ السَّيْطَرَةُ عَلَيْهَا لِتَجَنُّبِ الشُّعُورِ بِالْإِرْهَاقِ.",
+      "arabic": "مِنَ الضَّرُورِيِّ تَقْسِيمُ الْمَوَادِّ الْمُعَقَّدَةِ إِلَى وَحَدَاتٍ صَغِيرَةٍ يُمْكِنُ السَّيْطَرَةُ عَلَيْهَا لِتَجَنُّبِ الشُّعُورِ بِالْإِرْهَاقِ.",
       "translation": "Neophodno je podijeliti složene predmete na manje jedinice kojima se može upravljati kako bi se izbjegao osjećaj preopterećenosti.",
-      "translationEn": "It is essential to break down complex subjects into smaller, manageable units to avoid feeling overwhelmed."
+      "translationEn": "It is essential to break down complex subjects into smaller, manageable units to avoid feeling overwhelmed.",
+      "words": [
+        { "w": "الضَّرُورِيِّ", "lemma": "ضَرُورِيٌّ" },
+        { "w": "تَقْسِيمُ", "lemma": "تَقْسِيمٌ" },
+        { "w": "الْمَوَادِّ", "lemma": "مَادَّةٌ / مَوَادُّ" },
+        { "w": "الْمُعَقَّدَةِ", "lemma": "مُعَقَّدٌ" },
+        { "w": "وَحَدَاتٍ", "lemma": "وَحْدَةٌ / وَحَدَاتٌ" },
+        { "w": "صَغِيرَةٍ", "lemma": "صَغِيرٌ" },
+        { "w": "السَّيْطَرَةُ", "lemma": "سَيْطَرَةٌ" },
+        { "w": "لِتَجَنُّبِ", "lemma": "تَجَنُّبٌ" },
+        { "w": "الشُّعُورِ", "lemma": "شُعُورٌ" },
+        { "w": "بِالْإِرْهَاقِ", "lemma": "إِرْهَاقٌ" }
+      ]
     },
     {
-      "arabic": "عَلَاوَةً عَلَى ذَلِكَ، يُعَدُّ الْحُصُولُ عَلَى قِسْطٍ كَافٍ مِنَ النَّوْمِ وَاتِّبَاعُ نِظَامٍ غِذَائِيٍّ صِحِّيٍّ مِنْ عَوَامِلِ الْأَدَاء الْإِدْرَاكِيِّ.",
+      "arabic": "عَلَاوَةً عَلَى ذَلِكَ، يُعَدُّ الْحُصُولُ عَلَى قِسْطٍ كَافٍ مِنَ النَّوْمِ وَاتِّبَاعُ نِظَامٍ غِذَائِيٍّ صِحِّيٍّ مِنْ عَوَامِلِ الْأَدَاء الْإِدْرَاكِيِّ.",
       "translation": "Osim toga, dovoljno sna i pridržavanje zdrave ishrane su faktori koji utiču na kognitivni učinak.",
-      "translationEn": "Moreover, getting sufficient sleep and maintaining a healthy diet are crucial factors for cognitive performance."
+      "translationEn": "Moreover, getting sufficient sleep and maintaining a healthy diet are crucial factors for cognitive performance.",
+      "words": [
+        { "w": "الْحُصُولُ", "lemma": "حُصُولٌ" },
+        { "w": "قِسْطٍ", "lemma": "قِسْطٌ / أَقْسَاطٌ" },
+        { "w": "كَافٍ", "lemma": "كَافٍ" },
+        { "w": "النَّوْمِ", "lemma": "نَوْمٌ" },
+        { "w": "وَاتِّبَاعُ", "lemma": "اتِّبَاعٌ" },
+        { "w": "نِظَامٍ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "غِذَائِيٍّ", "lemma": "غِذَائِيٌّ" },
+        { "w": "صِحِّيٍّ", "lemma": "صِحِّيٌّ" },
+        { "w": "عَوَامِلِ", "lemma": "عَامِلٌ / عَوَامِلُ" },
+        { "w": "الْأَدَاء", "lemma": "أَدَاءٌ" },
+        { "w": "الْإِدْرَاكِيِّ", "lemma": "إِدْرَاكِيٌّ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الِاسْتِمْرَارِيَّةَ فِي مُرَاجَعَةِ الدُّرُوسِ يَوْمِيًّا تُقَلِّلُ مِنَ التَّوَتُّرِ الْمُرْتَبِطِ بِالِامْتِحَانَاتِ النِّهَائِيَّةِ.",
+      "arabic": "إِنَّ الِاسْتِمْرَارِيَّةَ فِي مُرَاجَعَةِ الدُّرُوسِ يَوْمِيًّا تُقَلِّلُ مِنَ التَّوَتُّرِ الْمُرْتَبِطِ بِالِامْتِحَانَاتِ النِّهَائِيَّةِ.",
       "translation": "Dosljednost u svakodnevnom ponavljanju lekcija smanjuje stres povezan sa završnim ispitima.",
-      "translationEn": "Consistency in reviewing lessons daily reduces the stress associated with final examinations."
+      "translationEn": "Consistency in reviewing lessons daily reduces the stress associated with final examinations.",
+      "words": [
+        { "w": "الِاسْتِمْرَارِيَّةَ", "lemma": "اسْتِمْرَارِيَّةٌ" },
+        { "w": "مُرَاجَعَةِ", "lemma": "مُرَاجَعَةٌ" },
+        { "w": "الدُّرُوسِ", "lemma": "دَرْسٌ / دُرُوسٌ" },
+        { "w": "تُقَلِّلُ", "lemma": "قَلَّلَ يُقَلِّلُ" },
+        { "w": "التَّوَتُّرِ", "lemma": "تَوَتُّرٌ" },
+        { "w": "الْمُرْتَبِطِ", "lemma": "مُرْتَبِطٌ" },
+        { "w": "بِالِامْتِحَانَاتِ", "lemma": "امْتِحَانٌ / امْتِحَانَاتٌ" },
+        { "w": "النِّهَائِيَّةِ", "lemma": "نِهَائِيٌّ" }
+      ]
     }
   ],
   "metadata": {

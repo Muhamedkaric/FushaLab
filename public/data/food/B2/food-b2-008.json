@@ -4,19 +4,42 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُطْبَخُ شُورْبَةُ الْعَدَسِ كَثِيرًا فِي فَصْلِ الشِّتَاءِ.",
+      "arabic": "تُطْبَخُ شُورْبَةُ الْعَدَسِ كَثِيرًا فِي فَصْلِ الشِّتَاءِ.",
       "translation": "Čorba od leće se često kuha u zimskom periodu.",
-      "translationEn": "Lentil soup is cooked a lot during the winter season."
+      "translationEn": "Lentil soup is cooked a lot during the winter season.",
+      "words": [
+        { "w": "تُطْبَخُ", "lemma": "طَبَخَ يَطْبُخُ" },
+        { "w": "شُورْبَةُ", "lemma": "شُورْبَةٌ / شَوَارِبُ" },
+        { "w": "الْعَدَسِ", "lemma": "عَدَسٌ" },
+        { "w": "فَصْلِ", "lemma": "فَصْلٌ / فُصُولٌ" },
+        { "w": "الشِّتَاءِ", "lemma": "شِتَاءٌ" }
+      ]
     },
     {
       "arabic": "نَضَعُ الْعَدَسَ مَعَ الْبَصَلِ وَالْجَزَرِ فِي قِدْرٍ كَبِيرٍ.",
       "translation": "Stavljamo leću s lukom i mrkvom u veliku šerpu.",
-      "translationEn": "We put lentils with onions and carrots in a large pot."
+      "translationEn": "We put lentils with onions and carrots in a large pot.",
+      "words": [
+        { "w": "نَضَعُ", "lemma": "وَضَعَ يَضَعُ" },
+        { "w": "الْعَدَسَ", "lemma": "عَدَسٌ" },
+        { "w": "الْبَصَلِ", "lemma": "بَصَلٌ" },
+        { "w": "وَالْجَزَرِ", "lemma": "جَزَرٌ" },
+        { "w": "قِدْرٍ", "lemma": "قِدْرٌ / قُدُورٌ" },
+        { "w": "كَبِيرٍ", "lemma": "كَبِيرٌ" }
+      ]
     },
     {
-      "arabic": "نُضِيفُ الْمَاءَ وَالْمِلْحَ وَالْكَمُّونَ ثُمَّ نَتْرُكُهَا عَلَى النَّارِ.",
+      "arabic": "نُضِيفُ الْمَاءَ وَالْمِلْحَ وَالْكَمُّونَ ثُمَّ نَتْرُكُهَا عَلَى النَّارِ.",
       "translation": "Dodajemo vodu, so i kumin, a zatim je ostavljamo na vatri.",
-      "translationEn": "We add water, salt, and cumin, then leave it on the fire."
+      "translationEn": "We add water, salt, and cumin, then leave it on the fire.",
+      "words": [
+        { "w": "نُضِيفُ", "lemma": "أَضَافَ يُضِيفُ" },
+        { "w": "الْمَاءَ", "lemma": "مَاءٌ / مِيَاهٌ" },
+        { "w": "وَالْمِلْحَ", "lemma": "مِلْحٌ" },
+        { "w": "وَالْكَمُّونَ", "lemma": "كَمُّونٌ" },
+        { "w": "نَتْرُكُهَا", "lemma": "تَرَكَ يَتْرُكُ" },
+        { "w": "النَّارِ", "lemma": "نَارٌ / نِيرَانٌ" }
+      ]
     }
   ],
   "metadata": {

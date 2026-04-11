@@ -4,45 +4,318 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الأَسْوَاقُ الشَّعْبِيَّةُ فِي المُدُنِ العَرَبِيَّةِ القَدِيمَةِ، مِثْلَ سُوقِ الحَمِيدِيَّةِ أَوْ خَانِ الخَلِيلِيِّ، قَلْبَ الحَيَاةِ الِاجْتِمَاعِيَّةِ وَالِاقْتِصَادِيَّةِ.",
+      "arabic": "تُعَدُّ الأَسْوَاقُ الشَّعْبِيَّةُ فِي المُدُنِ العَرَبِيَّةِ القَدِيمَةِ، مِثْلَ سُوقِ الحَمِيدِيَّةِ أَوْ خَانِ الخَلِيلِيِّ، قَلْبَ الحَيَاةِ الِاجْتِمَاعِيَّةِ وَالِاقْتِصَادِيَّةِ.",
       "translation": "Narodne pijace u starim arapskim gradovima, poput pijace Al-Hamidiyah ili Khan el-Khalili, smatraju se srcem društvenog i ekonomskog života.",
       "translationEn": "Traditional markets in ancient Arab cities, such as Al-Hamidiyah Souq or Khan el-Khalili, are considered the heart of social and economic life.",
-      "words": []
-    },
-    {
-      "arabic": "حِينَمَا تَتَجَوَّلُ فِي أَزِقَّتِهَا الضَّيِّقَةِ، تَسْتَنْشِقُ رَائِحَةَ التَّوَابِلِ الزَّكِيَّةِ وَالبَخُورِ الَّتِي تَمْلأُ الأَجْوَاءَ بِسِحْرِ الشَّرْقِ.",
-      "translation": "Dok šetate njihovim uskim uličicama, udišete miris ugodnih začina i tamjana koji ispunjavaju atmosferu čarima Orijenta.",
-      "translationEn": "As you wander through their narrow alleys, you inhale the scent of pleasant spices and incense that fill the atmosphere with the magic of the Orient.",
-      "words": []
-    },
-    {
-      "arabic": "تَعْرِضُ هَذِهِ الأَسْوَاقُ مَصْنُوعَاتٍ يَدَوِيَّةً تَقْلِيدِيَّةً، مِنَ النُّحَاسِيَّاتِ المَنْقُوشَةِ إِلَى السَّجَّادِ المَنْسُوجِ بِحِرَفِيَّةٍ عَالِيَةٍ.",
-      "translation": "Ove pijace izlažu tradicionalne rukotvorine, od graviranog bakra do vješto tkanih tepiha.",
-      "translationEn": "These markets display traditional handicrafts, from engraved copperware to skillfully woven carpets.",
-      "words": []
-    },
-    {
-      "arabic": "وَلَا يَقْتَصِرُ النَّشَاطُ هُنَاكَ عَلَى البَيْعِ وَالشِّرَاءِ، بَلْ هُوَ مَكَانٌ لِتَبَادُلِ الأَخْبَارِ وَتَنَاوُلِ الشَّايِ مَعَ التُّجَّارِ.",
-      "translation": "Aktivnost tamo nije ograničena samo na kupovinu i prodaju, već je to mjesto za razmjenu vijesti i ispijanje čaja sa trgovcima.",
-      "translationEn": "Activity there is not limited to buying and selling; it is also a place for exchanging news and drinking tea with merchants.",
       "words": [
         {
-          "w": "هُنَاكَ",
-          "lemma": "هُنَاكَ"
+          "w": "الأَسْوَاقُ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الشَّعْبِيَّةُ",
+          "lemma": "شَعْبِيٌّ"
+        },
+        {
+          "w": "المُدُنِ",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "العَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "القَدِيمَةِ",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "سُوقِ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الحَمِيدِيَّةِ",
+          "lemma": "حَمِيدِيَّةٌ"
+        },
+        {
+          "w": "خَانِ",
+          "lemma": "خَانٌ"
+        },
+        {
+          "w": "الخَلِيلِيِّ",
+          "lemma": "خَلِيلِيٌّ"
+        },
+        {
+          "w": "قَلْبَ",
+          "lemma": "قَلْبٌ / قُلُوبٌ"
+        },
+        {
+          "w": "الحَيَاةِ",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "الِاجْتِمَاعِيَّةِ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "وَالِاقْتِصَادِيَّةِ",
+          "lemma": "اقْتِصَادِيٌّ"
         }
       ]
     },
     {
-      "arabic": "يَعْكِسُ التَّفَاوُضُ عَلَى الأَسْعَارِ، أَوْ مَا يُسَمَّى 'المُسَاوَمَةَ'، جُزْءًا مِنَ الثَّقَافَةِ المَحَلِّيَّةِ وَطَرِيقَةً لِبِنَاءِ العَلَاقَاتِ.",
-      "translation": "Pregovaranje o cijenama, ili ono što se naziva 'cjenkanje', odražava dio lokalne kulture i način za izgradnju odnosa.",
-      "translationEn": "Negotiating prices, or what is called 'bargaining,' reflects part of the local culture and a way to build relationships.",
-      "words": []
+      "arabic": "حِينَمَا تَتَجَوَّلُ فِي أَزِقَّتِهَا الضَّيِّقَةِ، تَسْتَنْشِقُ رَائِحَةَ التَّوَابِلِ الزَّكِيَّةِ وَالبَخُورِ الَّتِي تَمْلأُ الأَجْوَاءَ بِسِحْرِ الشَّرْقِ.",
+      "translation": "Dok šetate njihovim uskim uličicama, udišete miris ugodnih začina i tamjana koji ispunjavaju atmosferu čarima Orijenta.",
+      "translationEn": "As you wander through their narrow alleys, you inhale the scent of pleasant spices and incense that fill the atmosphere with the magic of the Orient.",
+      "words": [
+        {
+          "w": "تَتَجَوَّلُ",
+          "lemma": "تَجَوَّلَ يَتَجَوَّلُ"
+        },
+        {
+          "w": "أَزِقَّتِهَا",
+          "lemma": "زُقَاقٌ / أَزِقَّةٌ"
+        },
+        {
+          "w": "الضَّيِّقَةِ",
+          "lemma": "ضَيِّقٌ"
+        },
+        {
+          "w": "تَسْتَنْشِقُ",
+          "lemma": "اسْتَنْشَقَ يَسْتَنْشِقُ"
+        },
+        {
+          "w": "رَائِحَةَ",
+          "lemma": "رَائِحَةٌ / رَوَائِحُ"
+        },
+        {
+          "w": "التَّوَابِلِ",
+          "lemma": "تَابِلٌ / تَوَابِلُ"
+        },
+        {
+          "w": "الزَّكِيَّةِ",
+          "lemma": "زَكِيٌّ"
+        },
+        {
+          "w": "وَالبَخُورِ",
+          "lemma": "بَخُورٌ"
+        },
+        {
+          "w": "تَمْلأُ",
+          "lemma": "مَلَأَ يَمْلَأُ"
+        },
+        {
+          "w": "الأَجْوَاءَ",
+          "lemma": "جَوٌّ / أَجْوَاءٌ"
+        },
+        {
+          "w": "بِسِحْرِ",
+          "lemma": "سِحْرٌ"
+        },
+        {
+          "w": "الشَّرْقِ",
+          "lemma": "شَرْقٌ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ زِيَارَةَ هَذِهِ الأَسْوَاقِ تَمْنَحُ السَّائِحَ فُرْصَةً لِلغَوْصِ فِي أَعْمَاقِ التَّارِيخِ وَمُعَايَشَةِ التَّقَالِيدِ الحَيَّةِ.",
+      "arabic": "تَعْرِضُ هَذِهِ الأَسْوَاقُ مَصْنُوعَاتٍ يَدَوِيَّةً تَقْلِيدِيَّةً، مِنَ النُّحَاسِيَّاتِ المَنْقُوشَةِ إِلَى السَّجَّادِ المَنْسُوجِ بِحِرَفِيَّةٍ عَالِيَةٍ.",
+      "translation": "Ove pijace izlažu tradicionalne rukotvorine, od graviranog bakra do vješto tkanih tepiha.",
+      "translationEn": "These markets display traditional handicrafts, from engraved copperware to skillfully woven carpets.",
+      "words": [
+        {
+          "w": "تَعْرِضُ",
+          "lemma": "عَرَضَ يَعْرِضُ"
+        },
+        {
+          "w": "الأَسْوَاقُ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "مَصْنُوعَاتٍ",
+          "lemma": "مَصْنُوعٌ / مَصْنُوعَاتٌ"
+        },
+        {
+          "w": "يَدَوِيَّةً",
+          "lemma": "يَدَوِيٌّ"
+        },
+        {
+          "w": "تَقْلِيدِيَّةً",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "النُّحَاسِيَّاتِ",
+          "lemma": "نُحَاسِيَّةٌ / نُحَاسِيَّاتٌ"
+        },
+        {
+          "w": "المَنْقُوشَةِ",
+          "lemma": "مَنْقُوشٌ"
+        },
+        {
+          "w": "السَّجَّادِ",
+          "lemma": "سَجَّادٌ / سَجَادَاتٌ"
+        },
+        {
+          "w": "المَنْسُوجِ",
+          "lemma": "مَنْسُوجٌ"
+        },
+        {
+          "w": "بِحِرَفِيَّةٍ",
+          "lemma": "حِرَفِيَّةٌ"
+        },
+        {
+          "w": "عَالِيَةٍ",
+          "lemma": "عَالٍ"
+        }
+      ]
+    },
+    {
+      "arabic": "وَلَا يَقْتَصِرُ النَّشَاطُ هُنَاكَ عَلَى البَيْعِ وَالشِّرَاءِ، بَلْ هُوَ مَكَانٌ لِتَبَادُلِ الأَخْبَارِ وَتَنَاوُلِ الشَّايِ مَعَ التُّجَّارِ.",
+      "translation": "Aktivnost tamo nije ograničena samo na kupovinu i prodaju, već je to mjesto za razmjenu vijesti i ispijanje čaja sa trgovcima.",
+      "translationEn": "Activity there is not limited to buying and selling; it is also a place for exchanging news and drinking tea with merchants.",
+      "words": [
+        {
+          "w": "يَقْتَصِرُ",
+          "lemma": "اقْتَصَرَ يَقْتَصِرُ"
+        },
+        {
+          "w": "النَّشَاطُ",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
+        },
+        {
+          "w": "هُنَاكَ",
+          "lemma": "هُنَاكَ"
+        },
+        {
+          "w": "البَيْعِ",
+          "lemma": "بَيْعٌ"
+        },
+        {
+          "w": "وَالشِّرَاءِ",
+          "lemma": "شِرَاءٌ"
+        },
+        {
+          "w": "مَكَانٌ",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        },
+        {
+          "w": "لِتَبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الأَخْبَارِ",
+          "lemma": "خَبَرٌ / أَخْبَارٌ"
+        },
+        {
+          "w": "وَتَنَاوُلِ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "الشَّايِ",
+          "lemma": "شَايٌ"
+        },
+        {
+          "w": "التُّجَّارِ",
+          "lemma": "تَاجِرٌ / تُجَّارٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَعْكِسُ التَّفَاوُضُ عَلَى الأَسْعَارِ، أَوْ مَا يُسَمَّى 'المُسَاوَمَةَ'، جُزْءًا مِنَ الثَّقَافَةِ المَحَلِّيَّةِ وَطَرِيقَةً لِبِنَاءِ العَلَاقَاتِ.",
+      "translation": "Pregovaranje o cijenama, ili ono što se naziva 'cjenkanje', odražava dio lokalne kulture i način za izgradnju odnosa.",
+      "translationEn": "Negotiating prices, or what is called 'bargaining,' reflects part of the local culture and a way to build relationships.",
+      "words": [
+        {
+          "w": "يَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "التَّفَاوُضُ",
+          "lemma": "تَفَاوُضٌ"
+        },
+        {
+          "w": "الأَسْعَارِ",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        },
+        {
+          "w": "المُسَاوَمَةَ",
+          "lemma": "مُسَاوَمَةٌ"
+        },
+        {
+          "w": "جُزْءًا",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "المَحَلِّيَّةِ",
+          "lemma": "مَحَلِّيٌّ"
+        },
+        {
+          "w": "وَطَرِيقَةً",
+          "lemma": "طَرِيقَةٌ / طُرُقٌ"
+        },
+        {
+          "w": "لِبِنَاءِ",
+          "lemma": "بِنَاءٌ"
+        },
+        {
+          "w": "العَلَاقَاتِ",
+          "lemma": "عَلَاقَةٌ / عَلَاقَاتٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "إِنَّ زِيَارَةَ هَذِهِ الأَسْوَاقِ تَمْنَحُ السَّائِحَ فُرْصَةً لِلغَوْصِ فِي أَعْمَاقِ التَّارِيخِ وَمُعَايَشَةِ التَّقَالِيدِ الحَيَّةِ.",
       "translation": "Posjeta ovim pijacama pruža turisti priliku da zaroni u dubine historije i doživi žive tradicije.",
       "translationEn": "Visiting these markets gives the tourist a chance to dive into the depths of history and experience living traditions.",
-      "words": []
+      "words": [
+        {
+          "w": "زِيَارَةَ",
+          "lemma": "زِيَارَةٌ / زِيَارَاتٌ"
+        },
+        {
+          "w": "الأَسْوَاقِ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "تَمْنَحُ",
+          "lemma": "مَنَحَ يَمْنَحُ"
+        },
+        {
+          "w": "السَّائِحَ",
+          "lemma": "سَائِحٌ / سُيَّاحٌ"
+        },
+        {
+          "w": "فُرْصَةً",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "لِلغَوْصِ",
+          "lemma": "غَوْصٌ"
+        },
+        {
+          "w": "أَعْمَاقِ",
+          "lemma": "عُمْقٌ / أَعْمَاقٌ"
+        },
+        {
+          "w": "التَّارِيخِ",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        },
+        {
+          "w": "وَمُعَايَشَةِ",
+          "lemma": "مُعَايَشَةٌ"
+        },
+        {
+          "w": "التَّقَالِيدِ",
+          "lemma": "تَقْلِيدٌ / تَقَالِيدُ"
+        },
+        {
+          "w": "الحَيَّةِ",
+          "lemma": "حَيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

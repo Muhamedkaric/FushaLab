@@ -7,13 +7,95 @@
       "arabic": "يَتَطَلَّبُ النَّجَاحُ فِي الِامْتِحَانَاتِ النِّهَائِيَّةِ وَضْعَ جَدْوَلٍ زَمَنِيٍّ دَقِيقٍ لِلْمُرَاجَعَةِ وَالِاسْتِذْكَارِ.",
       "translation": "Uspjeh na završnim ispitima zahtijeva postavljanje preciznog vremenskog rasporeda za ponavljanje i učenje.",
       "translationEn": "Success in final exams requires setting a precise timetable for revision and studying.",
-      "words": []
+      "words": [
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "النَّجَاحُ",
+          "lemma": "نَجَاحٌ"
+        },
+        {
+          "w": "الِامْتِحَانَاتِ",
+          "lemma": "اِمْتِحَانٌ / اِمْتِحَانَاتٌ"
+        },
+        {
+          "w": "النِّهَائِيَّةِ",
+          "lemma": "نِهَائِيٌّ"
+        },
+        {
+          "w": "وَضْعَ",
+          "lemma": "وَضْعٌ"
+        },
+        {
+          "w": "جَدْوَلٍ",
+          "lemma": "جَدْوَلٌ / جَدَاوِلُ"
+        },
+        {
+          "w": "زَمَنِيٍّ",
+          "lemma": "زَمَنِيٌّ"
+        },
+        {
+          "w": "دَقِيقٍ",
+          "lemma": "دَقِيقٌ"
+        },
+        {
+          "w": "لِلْمُرَاجَعَةِ",
+          "lemma": "مُرَاجَعَةٌ"
+        },
+        {
+          "w": "وَالِاسْتِذْكَارِ",
+          "lemma": "اِسْتِذْكَارٌ"
+        }
+      ]
     },
     {
       "arabic": "مِنَ الْعَادَاتِ الدِّرَاسِيَّةِ النَّاجِحَةِ تَقْسِيمُ الْمَوَادِّ الصَّعْبَةِ إِلَى أَجْزَاءٍ صَغِيرَةٍ سَهْلَةِ الِاسْتِيعَابِ.",
       "translation": "Među uspješnim studijskim navikama je podjela teškog gradiva na male dijelove koje je lako usvojiti.",
       "translationEn": "Among successful study habits is dividing difficult subjects into small, easy-to-grasp parts.",
-      "words": []
+      "words": [
+        {
+          "w": "الْعَادَاتِ",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "الدِّرَاسِيَّةِ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "النَّاجِحَةِ",
+          "lemma": "نَاجِحٌ"
+        },
+        {
+          "w": "تَقْسِيمُ",
+          "lemma": "تَقْسِيمٌ"
+        },
+        {
+          "w": "الْمَوَادِّ",
+          "lemma": "مَادَّةٌ / مَوَادُّ"
+        },
+        {
+          "w": "الصَّعْبَةِ",
+          "lemma": "صَعْبٌ"
+        },
+        {
+          "w": "أَجْزَاءٍ",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "صَغِيرَةٍ",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "سَهْلَةِ",
+          "lemma": "سَهْلٌ"
+        },
+        {
+          "w": "الِاسْتِيعَابِ",
+          "lemma": "اِسْتِيعَابٌ"
+        }
+      ]
     },
     {
       "arabic": "يُفَضِّلُ بَعْضُ الطُّلَّابِ الدِّرَاسَةَ فِي مَجْمُوعَاتٍ لِتَبَادُلِ الْأَفْكَارِ وَتَوْضِيحِ الْمَفَاهِيمِ الْغَامِضَةِ.",
@@ -21,8 +103,44 @@
       "translationEn": "Some students prefer studying in groups to exchange ideas and clarify ambiguous concepts.",
       "words": [
         {
+          "w": "يُفَضِّلُ",
+          "lemma": "فَضَّلَ يُفَضِّلُ"
+        },
+        {
           "w": "بَعْضُ",
           "lemma": "بَعْضٌ"
+        },
+        {
+          "w": "الطُّلَّابِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الدِّرَاسَةَ",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        },
+        {
+          "w": "مَجْمُوعَاتٍ",
+          "lemma": "مَجْمُوعَةٌ / مَجْمُوعَاتٌ"
+        },
+        {
+          "w": "لِتَبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الْأَفْكَارِ",
+          "lemma": "فِكْرَةٌ / أَفْكَارٌ"
+        },
+        {
+          "w": "وَتَوْضِيحِ",
+          "lemma": "تَوْضِيحٌ"
+        },
+        {
+          "w": "الْمَفَاهِيمِ",
+          "lemma": "مَفْهُومٌ / مَفَاهِيمُ"
+        },
+        {
+          "w": "الْغَامِضَةِ",
+          "lemma": "غَامِضٌ"
         }
       ]
     },
@@ -30,13 +148,79 @@
       "arabic": "لَا بُدَّ مِنَ الِاهْتِمَامِ بِأَخْذِ قِسْطٍ كَافٍ مِنَ الرَّاحَةِ لِتَجَنُّبِ الْإِرْهَاقِ الذِّهْنِيِّ قَبْلَ مَوْعِدِ الِاخْتِبَارِ.",
       "translation": "Neophodno je obratiti pažnju na dovoljno odmora kako bi se izbjegla mentalna iscrpljenost prije termina ispita.",
       "translationEn": "It is essential to pay attention to getting enough rest to avoid mental exhaustion before the test date.",
-      "words": []
+      "words": [
+        {
+          "w": "الِاهْتِمَامِ",
+          "lemma": "اِهْتِمَامٌ"
+        },
+        {
+          "w": "بِأَخْذِ",
+          "lemma": "أَخْذٌ"
+        },
+        {
+          "w": "قِسْطٍ",
+          "lemma": "قِسْطٌ"
+        },
+        {
+          "w": "كَافٍ",
+          "lemma": "كَافٍ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "lemma": "رَاحَةٌ"
+        },
+        {
+          "w": "لِتَجَنُّبِ",
+          "lemma": "تَجَنُّبٌ"
+        },
+        {
+          "w": "الْإِرْهَاقِ",
+          "lemma": "إِرْهَاقٌ"
+        },
+        {
+          "w": "الذِّهْنِيِّ",
+          "lemma": "ذِهْنِيٌّ"
+        },
+        {
+          "w": "مَوْعِدِ",
+          "lemma": "مَوْعِدٌ / مَوَاعِيدُ"
+        },
+        {
+          "w": "الِاخْتِبَارِ",
+          "lemma": "اِخْتِبَارٌ / اِخْتِبَارَاتٌ"
+        }
+      ]
     },
     {
       "arabic": "فَالِانْضِبَاطُ وَالِاسْتِمْرَارِيَّةُ هُمَا مِفْتَاحُ الْوُصُولِ إِلَى أَعْلَى الدَّرَجَاتِ الْعِلْمِيَّةِ.",
       "translation": "Disciplina i kontinuitet su ključ za postizanje najviših naučnih zvanja.",
       "translationEn": "Discipline and consistency are the keys to reaching the highest academic degrees.",
-      "words": []
+      "words": [
+        {
+          "w": "فَالِانْضِبَاطُ",
+          "lemma": "اِنْضِبَاطٌ"
+        },
+        {
+          "w": "وَالِاسْتِمْرَارِيَّةُ",
+          "lemma": "اِسْتِمْرَارِيَّةٌ"
+        },
+        {
+          "w": "مِفْتَاحُ",
+          "lemma": "مِفْتَاحٌ / مَفَاتِيحُ"
+        },
+        {
+          "w": "الْوُصُولِ",
+          "lemma": "وُصُولٌ"
+        },
+        {
+          "w": "الدَّرَجَاتِ",
+          "lemma": "دَرَجَةٌ / دَرَجَاتٌ"
+        },
+        {
+          "w": "الْعِلْمِيَّةِ",
+          "lemma": "عِلْمِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

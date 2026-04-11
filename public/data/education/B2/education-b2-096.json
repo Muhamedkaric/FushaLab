@@ -4,24 +4,82 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَعُدُّ الْمَكْتَبَاتُ الْجَامِعِيَّةُ رُكْنًا أَسَاسِيًّا فِي صَرْحِ الْبَحْثِ الْعِلْمِيِّ، حَيْثُ تَمْنَحُ الطُّلَّابَ بِيئَةً هَادِئَةً لِلتَّرْكِيزِ.",
+      "arabic": "تَعُدُّ الْمَكْتَبَاتُ الْجَامِعِيَّةُ رُكْنًا أَسَاسِيًّا فِي صَرْحِ الْبَحْثِ الْعِلْمِيِّ، حَيْثُ تَمْنَحُ الطُّلَّابَ بِيئَةً هَادِئَةً لِلتَّرْكِيزِ.",
       "translation": "Univerzitetske biblioteke se smatraju osnovnim stubom u zdanju naučnog istraživanja, jer studentima pružaju mirno okruženje za koncentraciju.",
-      "translationEn": "University libraries are considered a fundamental pillar in the edifice of scientific research, as they provide students with a quiet environment for concentration."
+      "translationEn": "University libraries are considered a fundamental pillar in the edifice of scientific research, as they provide students with a quiet environment for concentration.",
+      "words": [
+        { "w": "تَعُدُّ", "lemma": "عَدَّ يَعُدُّ" },
+        { "w": "الْمَكْتَبَاتُ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "الْجَامِعِيَّةُ", "lemma": "جَامِعِيٌّ" },
+        { "w": "رُكْنًا", "lemma": "رُكْنٌ / أَرْكَانٌ" },
+        { "w": "أَسَاسِيًّا", "lemma": "أَسَاسِيٌّ" },
+        { "w": "صَرْحِ", "lemma": "صَرْحٌ / صُرُوحٌ" },
+        { "w": "الْبَحْثِ", "lemma": "بَحْثٌ / بُحُوثٌ" },
+        { "w": "الْعِلْمِيِّ", "lemma": "عِلْمِيٌّ" },
+        { "w": "تَمْنَحُ", "lemma": "مَنَحَ يَمْنَحُ" },
+        { "w": "الطُّلَّابَ", "lemma": "طَالِبٌ / طُلَّابٌ" },
+        { "w": "بِيئَةً", "lemma": "بِيئَةٌ / بِيئَاتٌ" },
+        { "w": "هَادِئَةً", "lemma": "هَادِئٌ" },
+        { "w": "لِلتَّرْكِيزِ", "lemma": "تَرْكِيزٌ" }
+      ]
     },
     {
-      "arabic": "رَغْمَ الِانْفِجَارِ الْمَعْلُومَاتِيِّ الرَّقْمِيِّ، لَا تَزَالُ الْمَصَادِرُ الْمَطْبُوعَةُ تَمْتَلِكُ قِيمَةً تَارِيخِيَّةً وَأَكَادِيمِيَّةً لَا يُمْكِنُ الِاسْتِغْنَاءُ عَنْهَا.",
+      "arabic": "رَغْمَ الِانْفِجَارِ الْمَعْلُومَاتِيِّ الرَّقْمِيِّ، لَا تَزَالُ الْمَصَادِرُ الْمَطْبُوعَةُ تَمْتَلِكُ قِيمَةً تَارِيخِيَّةً وَأَكَادِيمِيَّةً لَا يُمْكِنُ الِاسْتِغْنَاءُ عَنْهَا.",
       "translation": "Uprkos digitalnoj informacionoj eksploziji, štampani izvori i dalje posjeduju historijsku i akademsku vrijednost bez koje se ne može.",
-      "translationEn": "Despite the digital information explosion, printed sources still possess an indispensable historical and academic value."
+      "translationEn": "Despite the digital information explosion, printed sources still possess an indispensable historical and academic value.",
+      "words": [
+        { "w": "الِانْفِجَارِ", "lemma": "اِنْفِجَارٌ" },
+        { "w": "الْمَعْلُومَاتِيِّ", "lemma": "مَعْلُومَاتِيٌّ" },
+        { "w": "الرَّقْمِيِّ", "lemma": "رَقْمِيٌّ" },
+        { "w": "الْمَصَادِرُ", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "الْمَطْبُوعَةُ", "lemma": "مَطْبُوعٌ" },
+        { "w": "تَمْتَلِكُ", "lemma": "امْتَلَكَ يَمْتَلِكُ" },
+        { "w": "قِيمَةً", "lemma": "قِيمَةٌ / قِيَمٌ" },
+        { "w": "تَارِيخِيَّةً", "lemma": "تَارِيخِيٌّ" },
+        { "w": "وَأَكَادِيمِيَّةً", "lemma": "أَكَادِيمِيٌّ" },
+        { "w": "الِاسْتِغْنَاءُ", "lemma": "اِسْتِغْنَاءٌ" }
+      ]
     },
     {
-      "arabic": "يَبْذُلُ أُمَنَاءُ الْمَكْتَبَاتِ جُهُودًا حَثِيثَةً لِتَنْظِيمِ الْمَوَارِدِ، مِمَّا يُسَهِّلُ عَلَى الْبَاحِثِينَ الْوُصُولَ إِلَى الْمَعْلُومَاتِ الدَّقِيقَةِ بِسُرْعَةٍ وَيُسْرٍ.",
+      "arabic": "يَبْذُلُ أُمَنَاءُ الْمَكْتَبَاتِ جُهُودًا حَثِيثَةً لِتَنْظِيمِ الْمَوَارِدِ، مِمَّا يُسَهِّلُ عَلَى الْبَاحِثِينَ الْوُصُولَ إِلَى الْمَعْلُومَاتِ الدَّقِيقَةِ بِسُرْعَةٍ وَيُسْرٍ.",
       "translation": "Bibliotekari ulažu velike napore u organizaciju resursa, što istraživačima olakšava brz i jednostavan pristup tačnim informacijama.",
-      "translationEn": "Librarians exert diligent efforts to organize resources, which facilitates researchers' access to accurate information quickly and easily."
+      "translationEn": "Librarians exert diligent efforts to organize resources, which facilitates researchers' access to accurate information quickly and easily.",
+      "words": [
+        { "w": "يَبْذُلُ", "lemma": "بَذَلَ يَبْذُلُ" },
+        { "w": "أُمَنَاءُ", "lemma": "أَمِينٌ / أُمَنَاءُ" },
+        { "w": "الْمَكْتَبَاتِ", "lemma": "مَكْتَبَةٌ / مَكْتَبَاتٌ" },
+        { "w": "جُهُودًا", "lemma": "جَهْدٌ / جُهُودٌ" },
+        { "w": "حَثِيثَةً", "lemma": "حَثِيثٌ" },
+        { "w": "لِتَنْظِيمِ", "lemma": "تَنْظِيمٌ" },
+        { "w": "الْمَوَارِدِ", "lemma": "مَوْرِدٌ / مَوَارِدُ" },
+        { "w": "يُسَهِّلُ", "lemma": "سَهَّلَ يُسَهِّلُ" },
+        { "w": "الْبَاحِثِينَ", "lemma": "بَاحِثٌ / بَاحِثُونَ" },
+        { "w": "الْوُصُولَ", "lemma": "وُصُولٌ" },
+        { "w": "الْمَعْلُومَاتِ", "lemma": "مَعْلُومَةٌ / مَعْلُومَاتٌ" },
+        { "w": "الدَّقِيقَةِ", "lemma": "دَقِيقٌ" },
+        { "w": "بِسُرْعَةٍ", "lemma": "سُرْعَةٌ" },
+        { "w": "وَيُسْرٍ", "lemma": "يُسْرٌ" }
+      ]
     },
     {
-      "arabic": "إِنَّ الِانْغِمَاسَ بَيْنَ رُفُوفِ الْكُتُبِ يُعَزِّزُ الشَّغَفَ بِالْمَعْرِفَةِ وَيَفْتَحُ آفَاقًا جَدِيدَةً لِلتَّفْكِيرِ النَّقْدِيِّ بَعِيدًا عَنْ ضَجِيجِ الشَّاشَاتِ.",
+      "arabic": "إِنَّ الِانْغِمَاسَ بَيْنَ رُفُوفِ الْكُتُبِ يُعَزِّزُ الشَّغَفَ بِالْمَعْرِفَةِ وَيَفْتَحُ آفَاقًا جَدِيدَةً لِلتَّفْكِيرِ النَّقْدِيِّ بَعِيدًا عَنْ ضَجِيجِ الشَّاشَاتِ.",
       "translation": "Udubljivanje među police s knjigama podstiče strast za znanjem i otvara nove horizonte za kritičko razmišljanje, daleko od buke ekrana.",
-      "translationEn": "Immersing oneself among bookshelves fosters a passion for knowledge and opens new horizons for critical thinking away from the noise of screens."
+      "translationEn": "Immersing oneself among bookshelves fosters a passion for knowledge and opens new horizons for critical thinking away from the noise of screens.",
+      "words": [
+        { "w": "الِانْغِمَاسَ", "lemma": "اِنْغِمَاسٌ" },
+        { "w": "رُفُوفِ", "lemma": "رَفٌّ / رُفُوفٌ" },
+        { "w": "الْكُتُبِ", "lemma": "كِتَابٌ / كُتُبٌ" },
+        { "w": "يُعَزِّزُ", "lemma": "عَزَّزَ يُعَزِّزُ" },
+        { "w": "الشَّغَفَ", "lemma": "شَغَفٌ" },
+        { "w": "بِالْمَعْرِفَةِ", "lemma": "مَعْرِفَةٌ" },
+        { "w": "وَيَفْتَحُ", "lemma": "فَتَحَ يَفْتَحُ" },
+        { "w": "آفَاقًا", "lemma": "أُفُقٌ / آفَاقٌ" },
+        { "w": "جَدِيدَةً", "lemma": "جَدِيدٌ" },
+        { "w": "لِلتَّفْكِيرِ", "lemma": "تَفْكِيرٌ" },
+        { "w": "النَّقْدِيِّ", "lemma": "نَقْدِيٌّ" },
+        { "w": "ضَجِيجِ", "lemma": "ضَجِيجٌ" },
+        { "w": "الشَّاشَاتِ", "lemma": "شَاشَةٌ / شَاشَاتٌ" }
+      ]
     }
   ],
   "metadata": {

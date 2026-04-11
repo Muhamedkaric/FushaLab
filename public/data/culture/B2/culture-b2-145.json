@@ -4,29 +4,163 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الْأَسْوَاقُ الْقَدِيمَةُ مَرْكَزًا لِلْحَيَاةِ الِاجْتِمَاعِيَّةِ فِي الْمُدُنِ الْعَرَبِيَّةِ.",
+      "arabic": "تُعَدُّ الْأَسْوَاقُ الْقَدِيمَةُ مَرْكَزًا لِلْحَيَاةِ الِاجْتِمَاعِيَّةِ فِي الْمُدُنِ الْعَرَبِيَّةِ.",
       "translation": "Stare pijace su centar društvenog života u arapskim gradovima.",
-      "translationEn": "Old markets are a center for social life in Arab cities."
+      "translationEn": "Old markets are a center for social life in Arab cities.",
+      "words": [
+        {
+          "w": "الْأَسْوَاقُ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الْقَدِيمَةُ",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "مَرْكَزًا",
+          "lemma": "مَرْكَزٌ / مَرَاكِزُ"
+        },
+        {
+          "w": "لِلْحَيَاةِ",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "الِاجْتِمَاعِيَّةِ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "الْمُدُنِ",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "يَمْشِي الزُّوَّارُ فِي مَمَرَّاتٍ ضَيِّقَةٍ بَيْنَ مَحَلَّاتِ التَّوَابِلِ وَالْعُطُورِ.",
+      "arabic": "يَمْشِي الزُّوَّارُ فِي مَمَرَّاتٍ ضَيِّقَةٍ بَيْنَ مَحَلَّاتِ التَّوَابِلِ وَالْعُطُورِ.",
       "translation": "Posjetioci šetaju uskim prolazima između prodavnica začina i parfema.",
-      "translationEn": "Visitors walk in narrow alleys between spice and perfume shops."
+      "translationEn": "Visitors walk in narrow alleys between spice and perfume shops.",
+      "words": [
+        {
+          "w": "يَمْشِي",
+          "lemma": "مَشَى يَمْشِي"
+        },
+        {
+          "w": "الزُّوَّارُ",
+          "lemma": "زَائِرٌ / زُوَّارٌ"
+        },
+        {
+          "w": "مَمَرَّاتٍ",
+          "lemma": "مَمَرٌّ / مَمَرَّاتٌ"
+        },
+        {
+          "w": "ضَيِّقَةٍ",
+          "lemma": "ضَيِّقٌ"
+        },
+        {
+          "w": "مَحَلَّاتِ",
+          "lemma": "مَحَلٌّ / مَحَلَّاتٌ"
+        },
+        {
+          "w": "التَّوَابِلِ",
+          "lemma": "تَابِلٌ / تَوَابِلُ"
+        },
+        {
+          "w": "وَالْعُطُورِ",
+          "lemma": "عِطْرٌ / عُطُورٌ"
+        }
+      ]
     },
     {
-      "arabic": "يُمْكِنُكَ رُؤْيَةُ الصِّنَاعَاتِ الْيَدَوِيَّةِ مِثْلَ السَّجَّادِ وَالنُّحَاسِ.",
+      "arabic": "يُمْكِنُكَ رُؤْيَةُ الصِّنَاعَاتِ الْيَدَوِيَّةِ مِثْلَ السَّجَّادِ وَالنُّحَاسِ.",
       "translation": "Možete vidjeti ručne radove poput tepiha i bakra.",
-      "translationEn": "You can see handicrafts such as carpets and copper."
+      "translationEn": "You can see handicrafts such as carpets and copper.",
+      "words": [
+        {
+          "w": "رُؤْيَةُ",
+          "lemma": "رَأَى يَرَى"
+        },
+        {
+          "w": "الصِّنَاعَاتِ",
+          "lemma": "صِنَاعَةٌ / صِنَاعَاتٌ"
+        },
+        {
+          "w": "الْيَدَوِيَّةِ",
+          "lemma": "يَدَوِيٌّ"
+        },
+        {
+          "w": "السَّجَّادِ",
+          "lemma": "سَجَّادَةٌ / سَجَّادٌ"
+        },
+        {
+          "w": "وَالنُّحَاسِ",
+          "lemma": "نُحَاسٌ"
+        }
+      ]
     },
     {
       "arabic": "يَتَفَاوَضُ الْبَائِعُ وَالْمُشْتَرِي عَلَى الْأَسْعَارِ بِطَرِيقَةٍ مُمْتِعَةٍ.",
       "translation": "Prodavac i kupac se na zabavan način cjenkaju oko cijena.",
-      "translationEn": "The seller and the buyer negotiate prices in a fun way."
+      "translationEn": "The seller and the buyer negotiate prices in a fun way.",
+      "words": [
+        {
+          "w": "يَتَفَاوَضُ",
+          "lemma": "تَفَاوَضَ يَتَفَاوَضُ"
+        },
+        {
+          "w": "الْبَائِعُ",
+          "lemma": "بَائِعٌ / بَائِعُونَ"
+        },
+        {
+          "w": "وَالْمُشْتَرِي",
+          "lemma": "مُشْتَرٍ / مُشْتَرُونَ"
+        },
+        {
+          "w": "الْأَسْعَارِ",
+          "lemma": "سِعْرٌ / أَسْعَارٌ"
+        },
+        {
+          "w": "بِطَرِيقَةٍ",
+          "lemma": "طَرِيقَةٌ / طُرُقٌ"
+        },
+        {
+          "w": "مُمْتِعَةٍ",
+          "lemma": "مُمْتِعٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَفُوحُ فِي الْمَكَانِ رَائِحَةُ الْبَخُورِ وَالتَّارِيخِ الْعَرِيقِ.",
+      "arabic": "تَفُوحُ فِي الْمَكَانِ رَائِحَةُ الْبَخُورِ وَالتَّارِيخِ الْعَرِيقِ.",
       "translation": "Mjestom se širi miris tamjana i drevne historije.",
-      "translationEn": "The smell of incense and ancient history wafts through the place."
+      "translationEn": "The smell of incense and ancient history wafts through the place.",
+      "words": [
+        {
+          "w": "تَفُوحُ",
+          "lemma": "فَاحَ يَفُوحُ"
+        },
+        {
+          "w": "الْمَكَانِ",
+          "lemma": "مَكَانٌ / أَمْكِنَةٌ"
+        },
+        {
+          "w": "رَائِحَةُ",
+          "lemma": "رَائِحَةٌ / رَوَائِحُ"
+        },
+        {
+          "w": "الْبَخُورِ",
+          "lemma": "بَخُورٌ"
+        },
+        {
+          "w": "وَالتَّارِيخِ",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
+        },
+        {
+          "w": "الْعَرِيقِ",
+          "lemma": "عَرِيقٌ"
+        }
+      ]
     }
   ],
   "metadata": {

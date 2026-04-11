@@ -4,29 +4,251 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "شَهِدَ الْمَطْبَخُ الْعَرَبِيُّ فِي الْآوِنَةِ الْأَخِيرَةِ تَطَوُّراً مَلْحُوظاً، حَيْثُ دَمَجَ الطُّهَاةُ بَيْنَ الْأَصَالَةِ وَالِابْتِكَارِ.",
+      "arabic": "شَهِدَ الْمَطْبَخُ الْعَرَبِيُّ فِي الْآوِنَةِ الْأَخِيرَةِ تَطَوُّراً مَلْحُوظاً، حَيْثُ دَمَجَ الطُّهَاةُ بَيْنَ الْأَصَالَةِ وَالِابْتِكَارِ.",
       "translation": "Arapska kuhinja je u posljednje vrijeme doživjela primjetan razvoj, jer su kuhari spojili autentičnost i inovaciju.",
-      "translationEn": "Arabic cuisine has recently witnessed a noticeable development, as chefs have merged authenticity and innovation."
+      "translationEn": "Arabic cuisine has recently witnessed a noticeable development, as chefs have merged authenticity and innovation.",
+      "words": [
+        {
+          "w": "شَهِدَ",
+          "lemma": "شَهِدَ يَشْهَدُ"
+        },
+        {
+          "w": "الْمَطْبَخُ",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "تَطَوُّراً",
+          "lemma": "تَطَوُّرٌ / تَطَوُّرَاتٌ"
+        },
+        {
+          "w": "مَلْحُوظاً",
+          "lemma": "مَلْحُوظٌ"
+        },
+        {
+          "w": "دَمَجَ",
+          "lemma": "دَمَجَ يَدْمُجُ"
+        },
+        {
+          "w": "الطُّهَاةُ",
+          "lemma": "طَاهٍ / طُهَاةٌ"
+        },
+        {
+          "w": "الْأَصَالَةِ",
+          "lemma": "أَصَالَةٌ"
+        },
+        {
+          "w": "وَالِابْتِكَارِ",
+          "lemma": "اِبْتِكَارٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَقُومُ الْمَطَاعِمُ الْحَدِيثَةُ بِإِعَادَةِ تَقْدِيمِ الْأَطْبَاقِ التَّقْلِيدِيَّةِ بِأَسَالِيبَ عَصْرِيَّةٍ تَجْذِبُ الذَّوَاقَةَ مِنْ كُلِّ مَكَانٍ.",
+      "arabic": "تَقُومُ الْمَطَاعِمُ الْحَدِيثَةُ بِإِعَادَةِ تَقْدِيمِ الْأَطْبَاقِ التَّقْلِيدِيَّةِ بِأَسَالِيبَ عَصْرِيَّةٍ تَجْذِبُ الذَّوَاقَةَ مِنْ كُلِّ مَكَانٍ.",
       "translation": "Moderni restorani ponovo predstavljaju tradicionalna jela na savremene načine koji privlače gurmane odasvuda.",
-      "translationEn": "Modern restaurants are re-presenting traditional dishes in contemporary ways that attract gourmets from everywhere."
+      "translationEn": "Modern restaurants are re-presenting traditional dishes in contemporary ways that attract gourmets from everywhere.",
+      "words": [
+        {
+          "w": "الْمَطَاعِمُ",
+          "lemma": "مَطْعَمٌ / مَطَاعِمُ"
+        },
+        {
+          "w": "الْحَدِيثَةُ",
+          "lemma": "حَدِيثٌ"
+        },
+        {
+          "w": "بِإِعَادَةِ",
+          "lemma": "إِعَادَةٌ"
+        },
+        {
+          "w": "تَقْدِيمِ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "الْأَطْبَاقِ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةِ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "بِأَسَالِيبَ",
+          "lemma": "أُسْلُوبٌ / أَسَالِيبُ"
+        },
+        {
+          "w": "عَصْرِيَّةٍ",
+          "lemma": "عَصْرِيٌّ"
+        },
+        {
+          "w": "تَجْذِبُ",
+          "lemma": "جَذَبَ يَجْذِبُ"
+        },
+        {
+          "w": "الذَّوَاقَةَ",
+          "lemma": "ذَوَّاقَةٌ"
+        },
+        {
+          "w": "كُلِّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "مَكَانٍ",
+          "lemma": "مَكَانٌ / أَمَاكِنُ"
+        }
+      ]
     },
     {
-      "arabic": "يَتِمُّ التَّرْكِيزُ الْآنَ عَلَى جَمَالِيَّةِ التَّقْدِيمِ وَتَنْسِيقِ الْأَلْوَانِ، مَعَ الْحِفَاظِ التَّامِ عَلَى الْمَعَايِيرِ الصَّارِمَةِ لِلْأَكْلِ الْحَلَالِ.",
+      "arabic": "يَتِمُّ التَّرْكِيزُ الْآنَ عَلَى جَمَالِيَّةِ التَّقْدِيمِ وَتَنْسِيقِ الْأَلْوَانِ، مَعَ الْحِفَاظِ التَّامِّ عَلَى الْمَعَايِيرِ الصَّارِمَةِ لِلْأَكْلِ الْحَلَالِ.",
       "translation": "Sada se fokusira na estetiku prezentacije i usklađivanje boja, uz potpuno očuvanje strogih standarda halal ishrane.",
-      "translationEn": "The focus is now on the aesthetics of presentation and color coordination, while strictly maintaining the rigorous standards of halal food."
+      "translationEn": "The focus is now on the aesthetics of presentation and color coordination, while strictly maintaining the rigorous standards of halal food.",
+      "words": [
+        {
+          "w": "التَّرْكِيزُ",
+          "lemma": "تَرْكِيزٌ"
+        },
+        {
+          "w": "جَمَالِيَّةِ",
+          "lemma": "جَمَالِيَّةٌ"
+        },
+        {
+          "w": "التَّقْدِيمِ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "وَتَنْسِيقِ",
+          "lemma": "تَنْسِيقٌ"
+        },
+        {
+          "w": "الْأَلْوَانِ",
+          "lemma": "لَوْنٌ / أَلْوَانٌ"
+        },
+        {
+          "w": "الْحِفَاظِ",
+          "lemma": "حِفَاظٌ"
+        },
+        {
+          "w": "الْمَعَايِيرِ",
+          "lemma": "مَعْيَارٌ / مَعَايِيرُ"
+        },
+        {
+          "w": "الصَّارِمَةِ",
+          "lemma": "صَارِمٌ"
+        },
+        {
+          "w": "لِلْأَكْلِ",
+          "lemma": "أَكْلٌ"
+        },
+        {
+          "w": "الْحَلَالِ",
+          "lemma": "حَلَالٌ"
+        }
+      ]
     },
     {
-      "arabic": "انْتَشَرَتْ فِكْرَةُ \"مِنَ الْمَزْرَعَةِ إِلَى الْمَائِدَةِ\"، مِمَّا يَعْنِي اسْتِخْدَامَ مُكَوِّنَاتٍ عُضْوِيَّةٍ تَدْعَمُ الْمُزَارِعِينَ الْمَحَلِّيِّينَ.",
+      "arabic": "انْتَشَرَتْ فِكْرَةُ \"مِنَ الْمَزْرَعَةِ إِلَى الْمَائِدَةِ\"، مِمَّا يَعْنِي اسْتِخْدَامَ مُكَوِّنَاتٍ عُضْوِيَّةٍ تَدْعَمُ الْمُزَارِعِينَ الْمَحَلِّيِّينَ.",
       "translation": "Proširila se ideja 'od farme do stola', što znači korištenje organskih sastojaka koji podržavaju lokalne poljoprivrednike.",
-      "translationEn": "The 'farm to table' concept has spread, meaning the use of organic ingredients that support local farmers."
+      "translationEn": "The 'farm to table' concept has spread, meaning the use of organic ingredients that support local farmers.",
+      "words": [
+        {
+          "w": "انْتَشَرَتْ",
+          "lemma": "انْتَشَرَ يَنْتَشِرُ"
+        },
+        {
+          "w": "فِكْرَةُ",
+          "lemma": "فِكْرَةٌ / أَفْكَارٌ"
+        },
+        {
+          "w": "الْمَزْرَعَةِ",
+          "lemma": "مَزْرَعَةٌ / مَزَارِعُ"
+        },
+        {
+          "w": "الْمَائِدَةِ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
+          "w": "يَعْنِي",
+          "lemma": "عَنَى يَعْنِي"
+        },
+        {
+          "w": "اسْتِخْدَامَ",
+          "lemma": "اِسْتِخْدَامٌ"
+        },
+        {
+          "w": "مُكَوِّنَاتٍ",
+          "lemma": "مُكَوِّنٌ / مُكَوِّنَاتٌ"
+        },
+        {
+          "w": "عُضْوِيَّةٍ",
+          "lemma": "عُضْوِيٌّ"
+        },
+        {
+          "w": "تَدْعَمُ",
+          "lemma": "دَعَمَ يَدْعَمُ"
+        },
+        {
+          "w": "الْمُزَارِعِينَ",
+          "lemma": "مُزَارِعٌ / مُزَارِعُونَ"
+        },
+        {
+          "w": "الْمَحَلِّيِّينَ",
+          "lemma": "مَحَلِّيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "هَذَا التَّمَازُجُ بَيْنَ الْقَدِيمِ وَالْجَدِيدِ يُعَزِّزُ مَكَانَةَ الطَّعَامِ الْعَرَبِيِّ عَلَى الْخَارِطَةِ الْعَالَمِيَّةِ لِفُنُونِ الطَّهِيِ.",
+      "arabic": "هَذَا التَّمَازُجُ بَيْنَ الْقَدِيمِ وَالْجَدِيدِ يُعَزِّزُ مَكَانَةَ الطَّعَامِ الْعَرَبِيِّ عَلَى الْخَارِطَةِ الْعَالَمِيَّةِ لِفُنُونِ الطَّهِيِ.",
       "translation": "Ovaj spoj starog i novog jača poziciju arapske hrane na svjetskoj mapi kulinarskih umjetnosti.",
-      "translationEn": "This blend of old and new strengthens the position of Arabic food on the global map of culinary arts."
+      "translationEn": "This blend of old and new strengthens the position of Arabic food on the global map of culinary arts.",
+      "words": [
+        {
+          "w": "التَّمَازُجُ",
+          "lemma": "تَمَازُجٌ"
+        },
+        {
+          "w": "الْقَدِيمِ",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "وَالْجَدِيدِ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "يُعَزِّزُ",
+          "lemma": "عَزَّزَ يُعَزِّزُ"
+        },
+        {
+          "w": "مَكَانَةَ",
+          "lemma": "مَكَانَةٌ"
+        },
+        {
+          "w": "الطَّعَامِ",
+          "lemma": "طَعَامٌ / أَطْعِمَةٌ"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "الْخَارِطَةِ",
+          "lemma": "خَارِطَةٌ / خَرَائِطُ"
+        },
+        {
+          "w": "الْعَالَمِيَّةِ",
+          "lemma": "عَالَمِيٌّ"
+        },
+        {
+          "w": "لِفُنُونِ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "الطَّهِيِ",
+          "lemma": "طَهْيٌ"
+        }
+      ]
     }
   ],
   "metadata": {

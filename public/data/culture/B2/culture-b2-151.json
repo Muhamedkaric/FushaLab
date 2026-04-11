@@ -7,13 +7,67 @@
       "arabic": "يُعْتَبَرُ الْكَرَمُ مِنْ أَهَمِّ الصِّفَاتِ فِي الثَّقَافَةِ الْعَرَبِيَّةِ.",
       "translation": "Gostoprimstvo se smatra jednom od najvažnijih osobina u arapskoj kulturi.",
       "translationEn": "Hospitality is considered one of the most important qualities in Arab culture.",
-      "words": []
+      "words": [
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "الْكَرَمُ",
+          "lemma": "كَرَمٌ"
+        },
+        {
+          "w": "الصِّفَاتِ",
+          "lemma": "صِفَةٌ / صِفَاتٌ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يَسْتَقْبِلُ النَّاسُ ضُيُوفَهُمْ بِحَفَاوَةٍ كَبِيرَةٍ وَيُقَدِّمُونَ لَهُمُ الْقَهْوَةَ وَالتَّمْرَ.",
       "translation": "Ljudi dočekuju svoje goste s velikom toplinom i nude im kafu i hurme.",
       "translationEn": "People welcome their guests with great warmth and offer them coffee and dates.",
-      "words": []
+      "words": [
+        {
+          "w": "يَسْتَقْبِلُ",
+          "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        },
+        {
+          "w": "ضُيُوفَهُمْ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِحَفَاوَةٍ",
+          "lemma": "حَفَاوَةٌ"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "وَيُقَدِّمُونَ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الْقَهْوَةَ",
+          "lemma": "قَهْوَةٌ"
+        },
+        {
+          "w": "وَالتَّمْرَ",
+          "lemma": "تَمْرٌ"
+        }
+      ]
     },
     {
       "arabic": "يُحِبُّ الْعَرَبُ إِكْرَامَ الضَّيْفِ وَيَشْعُرُونَ بِالسَّعَادَةِ عِنْدَمَا يَزُورُهُمْ شَخْصٌ مَا.",
@@ -21,8 +75,40 @@
       "translationEn": "Arabs love honoring guests and feel happy when someone visits them.",
       "words": [
         {
+          "w": "يُحِبُّ",
+          "lemma": "أَحَبَّ يُحِبُّ"
+        },
+        {
+          "w": "الْعَرَبُ",
+          "lemma": "عَرَبٌ"
+        },
+        {
+          "w": "إِكْرَامَ",
+          "lemma": "إِكْرَامٌ"
+        },
+        {
+          "w": "الضَّيْفِ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "وَيَشْعُرُونَ",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "السَّعَادَةِ",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
           "w": "عِنْدَمَا",
           "lemma": "عِنْدَمَا"
+        },
+        {
+          "w": "يَزُورُهُمْ",
+          "lemma": "زَارَ يَزُورُ"
+        },
+        {
+          "w": "شَخْصٌ",
+          "lemma": "شَخْصٌ / أَشْخَاصٌ"
         }
       ]
     },
@@ -30,7 +116,32 @@
       "arabic": "هَذِهِ الْعَادَةُ تَعْكِسُ رُوحَ الْمَحَبَّةِ وَالتَّعَاوُنِ بَيْنَ النَّاسِ.",
       "translation": "Ovaj običaj odražava duh ljubavi i saradnje među ljudima.",
       "translationEn": "This custom reflects the spirit of love and cooperation among people.",
-      "words": []
+      "words": [
+        {
+          "w": "الْعَادَةُ",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "تَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "رُوحَ",
+          "lemma": "رُوحٌ / أَرْوَاحٌ"
+        },
+        {
+          "w": "الْمَحَبَّةِ",
+          "lemma": "مَحَبَّةٌ"
+        },
+        {
+          "w": "وَالتَّعَاوُنِ",
+          "lemma": "تَعَاوُنٌ"
+        },
+        {
+          "w": "النَّاسِ",
+          "lemma": "نَاسٌ / أُنَاسٌ"
+        }
+      ]
     }
   ],
   "metadata": {

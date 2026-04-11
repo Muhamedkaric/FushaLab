@@ -7,13 +7,59 @@
       "arabic": "تُعْتَبَرُ الضِّيَافَةُ جُزْءًا أَسَاسِيًّا مِنَ الثَّقَافَةِ العَرَبِيَّةِ.",
       "translation": "Gostoprimstvo se smatra osnovnim dijelom arapske kulture.",
       "translationEn": "Hospitality is considered an essential part of Arab culture.",
-      "words": []
+      "words": [
+        {
+          "w": "الضِّيَافَةُ",
+          "lemma": "ضِيَافَةٌ"
+        },
+        {
+          "w": "جُزْءًا",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "أَسَاسِيًّا",
+          "lemma": "أَسَاسِيٌّ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "العَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يَسْتَقْبِلُ العَرَبُ ضُيُوفَهُمْ بِحَفَاوَةٍ كَبِيرَةٍ فِي بُيُوتِهِمْ.",
       "translation": "Arapi s velikom toplinom dočekuju goste u svojim domovima.",
       "translationEn": "Arabs welcome guests into their homes with great warmth.",
-      "words": []
+      "words": [
+        {
+          "w": "يَسْتَقْبِلُ",
+          "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ"
+        },
+        {
+          "w": "العَرَبُ",
+          "lemma": "عَرَبٌ"
+        },
+        {
+          "w": "ضُيُوفَهُمْ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِحَفَاوَةٍ",
+          "lemma": "حَفَاوَةٌ"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "بُيُوتِهِمْ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
+      ]
     },
     {
       "arabic": "يُقَدِّمُ المُضِيفُ القَهْوَةَ العَرَبِيَّةَ وَالتَّمْرَ لِلضَّيْفِ عِنْدَ وُصُولِهِ.",
@@ -21,8 +67,36 @@
       "translationEn": "The host offers Arabic coffee and dates to the guest upon arrival.",
       "words": [
         {
+          "w": "يُقَدِّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "المُضِيفُ",
+          "lemma": "مُضِيفٌ / مُضِيفُونَ"
+        },
+        {
+          "w": "القَهْوَةَ",
+          "lemma": "قَهْوَةٌ"
+        },
+        {
+          "w": "العَرَبِيَّةَ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "وَالتَّمْرَ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "لِلضَّيْفِ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
           "w": "عِنْدَ",
           "lemma": "عِنْدَ"
+        },
+        {
+          "w": "وُصُولِهِ",
+          "lemma": "وُصُولٌ"
         }
       ]
     },
@@ -30,13 +104,59 @@
       "arabic": "كَمَا يَهْتَمُّ الجَمِيعُ بِتَوْفِيرِ الرَّاحَةِ التَّامَّةِ لِلزَّائِرِ.",
       "translation": "Također, svi se brinu o pružanju potpune udobnosti posjetitelju.",
       "translationEn": "Everyone is also concerned with providing complete comfort to the visitor.",
-      "words": []
+      "words": [
+        {
+          "w": "يَهْتَمُّ",
+          "lemma": "اهْتَمَّ يَهْتَمُّ"
+        },
+        {
+          "w": "الجَمِيعُ",
+          "lemma": "جَمِيعٌ"
+        },
+        {
+          "w": "بِتَوْفِيرِ",
+          "lemma": "تَوْفِيرٌ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "lemma": "رَاحَةٌ"
+        },
+        {
+          "w": "التَّامَّةِ",
+          "lemma": "تَامٌّ"
+        },
+        {
+          "w": "لِلزَّائِرِ",
+          "lemma": "زَائِرٌ / زُوَّارٌ"
+        }
+      ]
     },
     {
       "arabic": "هَذَا التَّقْلِيدُ يُعَبِّرُ عَنِ الكَرَمِ وَالاحْتِرَامِ بَيْنَ النَّاسِ.",
       "translation": "Ova tradicija izražava plemenitost i poštovanje među ljudima.",
       "translationEn": "This tradition expresses generosity and respect among people.",
-      "words": []
+      "words": [
+        {
+          "w": "التَّقْلِيدُ",
+          "lemma": "تَقْلِيدٌ / تَقَالِيدُ"
+        },
+        {
+          "w": "يُعَبِّرُ",
+          "lemma": "عَبَّرَ يُعَبِّرُ"
+        },
+        {
+          "w": "الكَرَمِ",
+          "lemma": "كَرَمٌ"
+        },
+        {
+          "w": "وَالاحْتِرَامِ",
+          "lemma": "احْتِرَامٌ"
+        },
+        {
+          "w": "النَّاسِ",
+          "lemma": "نَاسٌ"
+        }
+      ]
     }
   ],
   "metadata": {

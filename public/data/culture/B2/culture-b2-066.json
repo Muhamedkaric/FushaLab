@@ -4,50 +4,250 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعَدُّ الضِّيَافَةُ رُكْنًا أَسَاسِيًّا فِي الثَّقَافَةِ العَرَبِيَّةِ، فَهِيَ لَيْسَتْ مُجَرَّدَ عَادَةٍ بَلْ وَاجِبٌ مُتَجَذِّرٌ فِي التَّارِيخِ.",
+      "arabic": "تُعَدُّ الضِّيَافَةُ رُكْنًا أَسَاسِيًّا فِي الثَّقَافَةِ الْعَرَبِيَّةِ، فَهِيَ لَيْسَتْ مُجَرَّدَ عَادَةٍ بَلْ وَاجِبٌ مُتَجَذِّرٌ فِي التَّارِيخِ.",
       "translation": "Gostoprimstvo se smatra osnovnim stubom arapske kulture, jer ono nije samo običaj, već dužnost duboko ukorijenjena u historiji.",
       "translationEn": "Hospitality is considered a fundamental pillar of Arab culture; it is not merely a habit but a duty deeply rooted in history.",
       "words": [
         {
+          "w": "الضِّيَافَةُ",
+          "lemma": "ضِيَافَةٌ"
+        },
+        {
+          "w": "رُكْنًا",
+          "lemma": "رُكْنٌ / أَرْكَانٌ"
+        },
+        {
+          "w": "أَسَاسِيًّا",
+          "lemma": "أَسَاسِيٌّ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
           "w": "لَيْسَتْ",
           "lemma": "لَيْسَ"
+        },
+        {
+          "w": "عَادَةٍ",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "وَاجِبٌ",
+          "lemma": "وَاجِبٌ / وَاجِبَاتٌ"
+        },
+        {
+          "w": "مُتَجَذِّرٌ",
+          "lemma": "مُتَجَذِّرٌ"
+        },
+        {
+          "w": "التَّارِيخِ",
+          "lemma": "تَارِيخٌ / تَوَارِيخُ"
         }
       ]
     },
     {
-      "arabic": "عِنْدَمَا يَدْخُلُ الضَّيْفُ مَنْزِلًا عَرَبِيًّا، يُسْتَقْبَلُ بِالقَهْوَةِ وَالتَّمْرِ تَعْبِيرًا عَنِ التَّرْحِيبِ الحَارِّ.",
+      "arabic": "عِنْدَمَا يَدْخُلُ الضَّيْفُ مَنْزِلًا عَرَبِيًّا، يُسْتَقْبَلُ بِالْقَهْوَةِ وَالتَّمْرِ تَعْبِيرًا عَنِ التَّرْحِيبِ الْحَارِّ.",
       "translation": "Kada gost uđe u arapski dom, biva dočekan kafom i urmama kao izrazom srdačne dobrodošlice.",
       "translationEn": "When a guest enters an Arab home, they are welcomed with coffee and dates as an expression of a warm reception.",
       "words": [
         {
           "w": "عِنْدَمَا",
           "lemma": "عِنْدَمَا"
+        },
+        {
+          "w": "يَدْخُلُ",
+          "lemma": "دَخَلَ يَدْخُلُ"
+        },
+        {
+          "w": "الضَّيْفُ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "مَنْزِلًا",
+          "lemma": "مَنْزِلٌ / مَنَازِلُ"
+        },
+        {
+          "w": "عَرَبِيًّا",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "يُسْتَقْبَلُ",
+          "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ"
+        },
+        {
+          "w": "بِالْقَهْوَةِ",
+          "lemma": "قَهْوَةٌ / قَهَوَاتٌ"
+        },
+        {
+          "w": "وَالتَّمْرِ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "تَعْبِيرًا",
+          "lemma": "تَعْبِيرٌ"
+        },
+        {
+          "w": "التَّرْحِيبِ",
+          "lemma": "تَرْحِيبٌ"
+        },
+        {
+          "w": "الْحَارِّ",
+          "lemma": "حَارٌّ"
         }
       ]
     },
     {
-      "arabic": "يَبْذُلُ المُضِيفُ قُصَارَى جُهْدِهِ لِيَشْعُرَ الزَّائِرُ بِأَنَّهُ فِي بَيْتِهِ، مُقَدِّمًا لَهُ أَفْضَلَ مَا يَمْلِكُ.",
+      "arabic": "يَبْذُلُ الْمُضِيفُ قُصَارَى جُهْدِهِ لِيَشْعُرَ الزَّائِرُ بِأَنَّهُ فِي بَيْتِهِ، مُقَدِّمًا لَهُ أَفْضَلَ مَا يَمْلِكُ.",
       "translation": "Domaćin ulaže maksimalan napor kako bi se posjetitelj osjećao kao kod svoje kuće, nudeći mu najbolje što posjeduje.",
       "translationEn": "The host exerts every effort to make the visitor feel at home, offering the best they possess.",
-      "words": []
+      "words": [
+        {
+          "w": "يَبْذُلُ",
+          "lemma": "بَذَلَ يَبْذُلُ"
+        },
+        {
+          "w": "الْمُضِيفُ",
+          "lemma": "مُضِيفٌ / مُضِيفُونَ"
+        },
+        {
+          "w": "جُهْدِهِ",
+          "lemma": "جُهْدٌ / جُهُودٌ"
+        },
+        {
+          "w": "لِيَشْعُرَ",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الزَّائِرُ",
+          "lemma": "زَائِرٌ / زُوَّارٌ"
+        },
+        {
+          "w": "بَيْتِهِ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        },
+        {
+          "w": "مُقَدِّمًا",
+          "lemma": "مُقَدِّمٌ"
+        },
+        {
+          "w": "أَفْضَلَ",
+          "lemma": "أَفْضَلُ"
+        },
+        {
+          "w": "يَمْلِكُ",
+          "lemma": "مَلَكَ يَمْلِكُ"
+        }
+      ]
     },
     {
-      "arabic": "هَذَا الكَرَمُ يَعْكِسُ قِيَمَ التَّكَافُلِ وَالاحْتِرَامِ المُتَبَادَلِ بَيْنَ النَّاسِ.",
+      "arabic": "هَذَا الْكَرَمُ يَعْكِسُ قِيَمَ التَّكَافُلِ وَالِاحْتِرَامِ الْمُتَبَادَلِ بَيْنَ النَّاسِ.",
       "translation": "Ova velikodušnost odražava vrijednosti solidarnosti i međusobnog poštovanja među ljudima.",
       "translationEn": "This generosity reflects the values of solidarity and mutual respect among people.",
-      "words": []
+      "words": [
+        {
+          "w": "الْكَرَمُ",
+          "lemma": "كَرَمٌ"
+        },
+        {
+          "w": "يَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "قِيَمَ",
+          "lemma": "قِيمَةٌ / قِيَمٌ"
+        },
+        {
+          "w": "التَّكَافُلِ",
+          "lemma": "تَكَافُلٌ"
+        },
+        {
+          "w": "وَالِاحْتِرَامِ",
+          "lemma": "احْتِرَامٌ"
+        },
+        {
+          "w": "الْمُتَبَادَلِ",
+          "lemma": "مُتَبَادَلٌ"
+        },
+        {
+          "w": "النَّاسِ",
+          "lemma": "نَاسٌ"
+        }
+      ]
     },
     {
-      "arabic": "حَتَّى فِي المُدُنِ الحَدِيثَةِ، لَا تَزَالُ هَذِهِ التَّقَالِيدُ حَيَّةً وَجُزْءًا لَا يَتَجَزَّأُ مِنَ الهُوِيَّةِ.",
+      "arabic": "حَتَّى فِي الْمُدُنِ الْحَدِيثَةِ، لَا تَزَالُ هَذِهِ التَّقَالِيدُ حَيَّةً وَجُزْءًا لَا يَتَجَزَّأُ مِنَ الْهُوِيَّةِ.",
       "translation": "Čak i u modernim gradovima, ove tradicije su i dalje žive i čine neraskidiv dio identiteta.",
       "translationEn": "Even in modern cities, these traditions remain alive and an inseparable part of identity.",
-      "words": []
+      "words": [
+        {
+          "w": "الْمُدُنِ",
+          "lemma": "مَدِينَةٌ / مُدُنٌ"
+        },
+        {
+          "w": "الْحَدِيثَةِ",
+          "lemma": "حَدِيثٌ"
+        },
+        {
+          "w": "التَّقَالِيدُ",
+          "lemma": "تَقْلِيدٌ / تَقَالِيدُ"
+        },
+        {
+          "w": "حَيَّةً",
+          "lemma": "حَيٌّ"
+        },
+        {
+          "w": "وَجُزْءًا",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "يَتَجَزَّأُ",
+          "lemma": "تَجَزَّأَ يَتَجَزَّأُ"
+        },
+        {
+          "w": "الْهُوِيَّةِ",
+          "lemma": "هُوِيَّةٌ / هُوِيَّاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ إِكْرَامَ الغَرِيبِ يُعْتَبَرُ دَلِيلًا عَلَى نُبْلِ الأَخْلَاقِ وَرُقِيِّ المَعْشَرِ.",
+      "arabic": "إِنَّ إِكْرَامَ الْغَرِيبِ يُعْتَبَرُ دَلِيلًا عَلَى نُبْلِ الأَخْلَاقِ وَرُقِيِّ الْمَعْشَرِ.",
       "translation": "Počašćivanje stranca smatra se dokazom plemenitosti morala i otmjenosti ophođenja.",
       "translationEn": "Honoring a stranger is considered evidence of noble character and refined social conduct.",
-      "words": []
+      "words": [
+        {
+          "w": "إِكْرَامَ",
+          "lemma": "إِكْرَامٌ"
+        },
+        {
+          "w": "الْغَرِيبِ",
+          "lemma": "غَرِيبٌ / غُرَبَاءُ"
+        },
+        {
+          "w": "دَلِيلًا",
+          "lemma": "دَلِيلٌ / أَدِلَّةٌ"
+        },
+        {
+          "w": "نُبْلِ",
+          "lemma": "نُبْلٌ"
+        },
+        {
+          "w": "الأَخْلَاقِ",
+          "lemma": "خُلُقٌ / أَخْلَاقٌ"
+        },
+        {
+          "w": "وَرُقِيِّ",
+          "lemma": "رُقِيٌّ"
+        },
+        {
+          "w": "الْمَعْشَرِ",
+          "lemma": "مَعْشَرٌ"
+        }
+      ]
     }
   ],
   "metadata": {

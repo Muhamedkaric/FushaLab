@@ -7,19 +7,94 @@
       "arabic": "يَتَمَيَّزُ الْمَطْبَخُ الْعَرَبِيُّ بِتَنَوُّعِ أَطْبَاقِهِ الشَّهِيَّةِ وَالْمَشْهُورَةِ.",
       "translation": "Arapska kuhinja se odlikuje raznolikošću svojih ukusnih i poznatih jela.",
       "translationEn": "Arab cuisine is characterized by its variety of delicious and famous dishes.",
-      "words": []
+      "words": [
+        {
+          "w": "يَتَمَيَّزُ",
+          "lemma": "تَمَيَّزَ يَتَمَيَّزُ"
+        },
+        {
+          "w": "الْمَطْبَخُ",
+          "lemma": "مَطْبَخٌ / مَطَابِخُ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "بِتَنَوُّعِ",
+          "lemma": "تَنَوُّعٌ"
+        },
+        {
+          "w": "أَطْبَاقِهِ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "الشَّهِيَّةِ",
+          "lemma": "شَهِيٌّ"
+        },
+        {
+          "w": "وَالْمَشْهُورَةِ",
+          "lemma": "مَشْهُورٌ"
+        }
+      ]
     },
     {
       "arabic": "يُعَدُّ \"الْمَنْسَفُ\" مِنَ الْأَطْبَاقِ التَّقْلِيدِيَّةِ فِي بِلَادِ الشَّامِ، خَاصَّةً فِي الْأُرْدُنِ.",
       "translation": "'Mansaf' se ubraja u tradicionalna jela u Levantu, posebno u Jordanu.",
       "translationEn": "'Mansaf' is one of the traditional dishes in the Levant, especially in Jordan.",
-      "words": []
+      "words": [
+        {
+          "w": "يُعَدُّ",
+          "lemma": "عَدَّ يَعُدُّ"
+        },
+        {
+          "w": "الْأَطْبَاقِ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيَّةِ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "بِلَادِ",
+          "lemma": "بَلَدٌ / بِلَادٌ"
+        },
+        {
+          "w": "خَاصَّةً",
+          "lemma": "خَاصٌّ"
+        }
+      ]
     },
     {
       "arabic": "يَتَكَوَّنُ هَذَا الطَّبَقُ مِنَ اللَّحْمِ وَالْأُرْزِ وَاللَّبَنِ الْجَمِيدِ.",
       "translation": "Ovo jelo se sastoji od mesa, riže i dehidriranog jogurta (džamida).",
       "translationEn": "This dish consists of meat, rice, and jameed (dried yogurt).",
-      "words": []
+      "words": [
+        {
+          "w": "يَتَكَوَّنُ",
+          "lemma": "تَكَوَّنَ يَتَكَوَّنُ"
+        },
+        {
+          "w": "الطَّبَقُ",
+          "lemma": "طَبَقٌ / أَطْبَاقٌ"
+        },
+        {
+          "w": "اللَّحْمِ",
+          "lemma": "لَحْمٌ / لُحُومٌ"
+        },
+        {
+          "w": "وَالْأُرْزِ",
+          "lemma": "أُرْزٌ"
+        },
+        {
+          "w": "وَاللَّبَنِ",
+          "lemma": "لَبَنٌ"
+        },
+        {
+          "w": "الْجَمِيدِ",
+          "lemma": "جَمِيدٌ"
+        }
+      ]
     },
     {
       "arabic": "يَجْتَمِعُ أَفْرَادُ الْعَائِلَةِ حَوْلَ مَائِدَةٍ وَاحِدَةٍ لِتَنَاوُلِهِ فِي الْمُنَاسَبَاتِ السَّعِيدَةِ.",
@@ -27,12 +102,40 @@
       "translationEn": "Family members gather around one table to eat it during happy occasions.",
       "words": [
         {
+          "w": "يَجْتَمِعُ",
+          "lemma": "اجْتَمَعَ يَجْتَمِعُ"
+        },
+        {
+          "w": "أَفْرَادُ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        },
+        {
           "w": "حَوْلَ",
           "lemma": "حَوْلَ"
         },
         {
+          "w": "مَائِدَةٍ",
+          "lemma": "مَائِدَةٌ / مَوَائِدُ"
+        },
+        {
           "w": "وَاحِدَةٍ",
           "lemma": "وَاحِدٌ"
+        },
+        {
+          "w": "لِتَنَاوُلِهِ",
+          "lemma": "تَنَاوُلٌ"
+        },
+        {
+          "w": "الْمُنَاسَبَاتِ",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        },
+        {
+          "w": "السَّعِيدَةِ",
+          "lemma": "سَعِيدٌ"
         }
       ]
     }

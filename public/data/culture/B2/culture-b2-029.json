@@ -4,34 +4,322 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ الخَطُّ العَرَبِيُّ فَنًّا بَصَرِيًّا رَاقِيًا يَتَجَاوَزُ مُجَرَّدَ الكِتَابَةِ لِيُصْبِحَ لُغَةً تَعْبِيرِيَّةً قَائِمَةً بِذَاتِهَا.",
+      "arabic": "يُعْتَبَرُ الخَطُّ العَرَبِيُّ فَنًّا بَصَرِيًّا رَاقِيًا يَتَجَاوَزُ مُجَرَّدَ الكِتَابَةِ لِيُصْبِحَ لُغَةً تَعْبِيرِيَّةً قَائِمَةً بِذَاتِهَا.",
       "translation": "Arapska kaligrafija se smatra sofisticiranom vizuelnom umjetnošću koja prevazilazi puko pisanje i postaje izražajni jezik sam za sebe.",
-      "translationEn": "Arabic calligraphy is considered a sophisticated visual art that transcends mere writing to become an expressive language in its own right."
+      "translationEn": "Arabic calligraphy is considered a sophisticated visual art that transcends mere writing to become an expressive language in its own right.",
+      "words": [
+        {
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "الخَطُّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "العَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "فَنًّا",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "بَصَرِيًّا",
+          "lemma": "بَصَرِيٌّ"
+        },
+        {
+          "w": "رَاقِيًا",
+          "lemma": "رَاقٍ"
+        },
+        {
+          "w": "يَتَجَاوَزُ",
+          "lemma": "تَجَاوَزَ يَتَجَاوَزُ"
+        },
+        {
+          "w": "الكِتَابَةِ",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "لُغَةً",
+          "lemma": "لُغَةٌ / لُغَاتٌ"
+        },
+        {
+          "w": "تَعْبِيرِيَّةً",
+          "lemma": "تَعْبِيرِيٌّ"
+        },
+        {
+          "w": "قَائِمَةً",
+          "lemma": "قَائِمٌ"
+        }
+      ]
     },
     {
-      "arabic": "لَقَدْ طَوَّرَ الفَنَّانُونَ المُسْلِمُونَ أَنْوَاعًا عَدِيدَةً مِنَ الخُطُوطِ مِثْلَ \"الثُّلُثِ\" وَ\"الكُوفِيِّ\" وَ\"الرُّقْعَةِ\"، لِتَزْيِينِ المَسَاجِدِ وَالمَخْطُوطَاتِ القَدِيمَةِ.",
+      "arabic": "لَقَدْ طَوَّرَ الفَنَّانُونَ المُسْلِمُونَ أَنْوَاعًا عَدِيدَةً مِنَ الخُطُوطِ مِثْلَ \"الثُّلُثِ\" وَ\"الكُوفِيِّ\" وَ\"الرُّقْعَةِ\"، لِتَزْيِينِ المَسَاجِدِ وَالمَخْطُوطَاتِ القَدِيمَةِ.",
       "translation": "Muslimanski umjetnici razvili su mnoge vrste pisama kao što su 'Thuluth', 'Kufi' i 'Ruq'ah' za ukrašavanje džamija i starih rukopisa.",
-      "translationEn": "Muslim artists developed many types of scripts such as 'Thuluth,' 'Kufi,' and 'Ruq'ah' to decorate mosques and ancient manuscripts."
+      "translationEn": "Muslim artists developed many types of scripts such as 'Thuluth,' 'Kufi,' and 'Ruq'ah' to decorate mosques and ancient manuscripts.",
+      "words": [
+        {
+          "w": "طَوَّرَ",
+          "lemma": "طَوَّرَ يُطَوِّرُ"
+        },
+        {
+          "w": "الفَنَّانُونَ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "المُسْلِمُونَ",
+          "lemma": "مُسْلِمٌ / مُسْلِمُونَ"
+        },
+        {
+          "w": "أَنْوَاعًا",
+          "lemma": "نَوْعٌ / أَنْوَاعٌ"
+        },
+        {
+          "w": "عَدِيدَةً",
+          "lemma": "عَدِيدٌ"
+        },
+        {
+          "w": "الخُطُوطِ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "الثُّلُثِ",
+          "lemma": "ثُلُثٌ"
+        },
+        {
+          "w": "وَ\"الكُوفِيِّ\"",
+          "lemma": "كُوفِيٌّ"
+        },
+        {
+          "w": "وَ\"الرُّقْعَةِ\"",
+          "lemma": "رُقْعَةٌ"
+        },
+        {
+          "w": "لِتَزْيِينِ",
+          "lemma": "تَزْيِينٌ"
+        },
+        {
+          "w": "المَسَاجِدِ",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "وَالْمَخْطُوطَاتِ",
+          "lemma": "مَخْطُوطَةٌ / مَخْطُوطَاتٌ"
+        },
+        {
+          "w": "القَدِيمَةِ",
+          "lemma": "قَدِيمٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَعْتَمِدُ هَذَا الفَنُّ عَلَى التَّوَازُنِ الدَّقِيقِ بَيْنَ الحُرُوفِ وَالفَرَاغَاتِ، مِمَّا يَخْلُقُ لَوْحَةً فَنِّيَّةً تَنْبِضُ بِالحَيَاةِ.",
+      "arabic": "يَعْتَمِدُ هَذَا الفَنُّ عَلَى التَّوَازُنِ الدَّقِيقِ بَيْنَ الحُرُوفِ وَالفَرَاغَاتِ، مِمَّا يَخْلُقُ لَوْحَةً فَنِّيَّةً تَنْبِضُ بِالحَيَاةِ.",
       "translation": "Ova umjetnost se oslanja na preciznu ravnotežu između slova i praznina, stvarajući umjetničko djelo koje pulsira životom.",
-      "translationEn": "This art relies on a precise balance between letters and spaces, creating an artistic painting that pulses with life."
+      "translationEn": "This art relies on a precise balance between letters and spaces, creating an artistic painting that pulses with life.",
+      "words": [
+        {
+          "w": "يَعْتَمِدُ",
+          "lemma": "اعْتَمَدَ يَعْتَمِدُ"
+        },
+        {
+          "w": "الفَنُّ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "التَّوَازُنِ",
+          "lemma": "تَوَازُنٌ"
+        },
+        {
+          "w": "الدَّقِيقِ",
+          "lemma": "دَقِيقٌ"
+        },
+        {
+          "w": "الحُرُوفِ",
+          "lemma": "حَرْفٌ / حُرُوفٌ"
+        },
+        {
+          "w": "وَالْفَرَاغَاتِ",
+          "lemma": "فَرَاغٌ / فَرَاغَاتٌ"
+        },
+        {
+          "w": "يَخْلُقُ",
+          "lemma": "خَلَقَ يَخْلُقُ"
+        },
+        {
+          "w": "لَوْحَةً",
+          "lemma": "لَوْحَةٌ / لَوْحَاتٌ"
+        },
+        {
+          "w": "فَنِّيَّةً",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "تَنْبِضُ",
+          "lemma": "نَبَضَ يَنْبِضُ"
+        },
+        {
+          "w": "بِالحَيَاةِ",
+          "lemma": "حَيَاةٌ"
+        }
+      ]
     },
     {
-      "arabic": "تَرْتَبِطُ جَمَالِيَّاتُ الخَطِّ بِالفَلْسَفَةِ وَالرُّوحَانِيَّةِ، إِذْ يُعَبِّرُ كُلُّ انْحِنَاءٍ عَنْ مَعَانٍ عَمِيقَةٍ تَتَجَاوَزُ النَّصَّ المَكْتُوبَ.",
+      "arabic": "تَرْتَبِطُ جَمَالِيَّاتُ الخَطِّ بِالفَلْسَفَةِ وَالرُّوحَانِيَّةِ، إِذْ يُعَبِّرُ كُلُّ انْحِنَاءٍ عَنْ مَعَانٍ عَمِيقَةٍ تَتَجَاوَزُ النَّصَّ المَكْتُوبَ.",
       "translation": "Estetika kaligrafije povezana je sa filozofijom i duhovnošću, jer svaka kriva izražava duboka značenja koja prevazilaze pisani tekst.",
-      "translationEn": "The aesthetics of calligraphy are linked to philosophy and spirituality, as every curve expresses deep meanings beyond the written text."
+      "translationEn": "The aesthetics of calligraphy are linked to philosophy and spirituality, as every curve expresses deep meanings beyond the written text.",
+      "words": [
+        {
+          "w": "تَرْتَبِطُ",
+          "lemma": "ارْتَبَطَ يَرْتَبِطُ"
+        },
+        {
+          "w": "جَمَالِيَّاتُ",
+          "lemma": "جَمَالِيَّةٌ"
+        },
+        {
+          "w": "الخَطِّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "بِالْفَلْسَفَةِ",
+          "lemma": "فَلْسَفَةٌ / فَلْسَفَاتٌ"
+        },
+        {
+          "w": "وَالرُّوحَانِيَّةِ",
+          "lemma": "رُوحَانِيَّةٌ"
+        },
+        {
+          "w": "يُعَبِّرُ",
+          "lemma": "عَبَّرَ يُعَبِّرُ"
+        },
+        {
+          "w": "كُلُّ",
+          "lemma": "كُلٌّ"
+        },
+        {
+          "w": "انْحِنَاءٍ",
+          "lemma": "انْحِنَاءٌ"
+        },
+        {
+          "w": "مَعَانٍ",
+          "lemma": "مَعْنًى / مَعَانٍ"
+        },
+        {
+          "w": "عَمِيقَةٍ",
+          "lemma": "عَمِيقٌ"
+        },
+        {
+          "w": "تَتَجَاوَزُ",
+          "lemma": "تَجَاوَزَ يَتَجَاوَزُ"
+        },
+        {
+          "w": "النَّصَّ",
+          "lemma": "نَصٌّ / نُصُوصٌ"
+        },
+        {
+          "w": "المَكْتُوبَ",
+          "lemma": "مَكْتُوبٌ"
+        }
+      ]
     },
     {
-      "arabic": "وَفِي العَصْرِ الحَدِيثِ، دَمَجَ الرَّسَّامُونَ بَيْنَ الخَطِّ التَّقْلِيدِيِّ وَالفَنِّ التَّشْكِيلِيِّ المُعَاصِرِ فِيمَا يُعْرَفُ بِـ\"الحُرُوفِيَّةِ\".",
+      "arabic": "وَفِي العَصْرِ الحَدِيثِ، دَمَجَ الرَّسَّامُونَ بَيْنَ الخَطِّ التَّقْلِيدِيِّ وَالفَنِّ التَّشْكِيلِيِّ المُعَاصِرِ فِيمَا يُعْرَفُ بِـ\"الحُرُوفِيَّةِ\".",
       "translation": "U modernom dobu, slikari su spojili tradicionalnu kaligrafiju sa savremenom likovnom umjetnošću u onome što je poznato kao 'Hurufiyya'.",
-      "translationEn": "In the modern era, painters have merged traditional calligraphy with contemporary fine art in what is known as 'Hurufiyya.'"
+      "translationEn": "In the modern era, painters have merged traditional calligraphy with contemporary fine art in what is known as 'Hurufiyya.'",
+      "words": [
+        {
+          "w": "العَصْرِ",
+          "lemma": "عَصْرٌ / عُصُورٌ"
+        },
+        {
+          "w": "الحَدِيثِ",
+          "lemma": "حَدِيثٌ"
+        },
+        {
+          "w": "دَمَجَ",
+          "lemma": "دَمَجَ يَدْمُجُ"
+        },
+        {
+          "w": "الرَّسَّامُونَ",
+          "lemma": "رَسَّامٌ / رَسَّامُونَ"
+        },
+        {
+          "w": "الخَطِّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "التَّقْلِيدِيِّ",
+          "lemma": "تَقْلِيدِيٌّ"
+        },
+        {
+          "w": "وَالفَنِّ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "التَّشْكِيلِيِّ",
+          "lemma": "تَشْكِيلِيٌّ"
+        },
+        {
+          "w": "المُعَاصِرِ",
+          "lemma": "مُعَاصِرٌ"
+        },
+        {
+          "w": "يُعْرَفُ",
+          "lemma": "عَرَفَ يَعْرِفُ"
+        },
+        {
+          "w": "بِـ\"الحُرُوفِيَّةِ",
+          "lemma": "حُرُوفِيَّةٌ"
+        }
+      ]
     },
     {
-      "arabic": "هَذَا التَّمَازُجُ يُؤَكِّدُ قُدْرَةَ التُّرَاثِ العَرَبِيِّ عَلَى التَّجَدُّدِ وَمُوَاكَبَةِ التَّطَوُّرَاتِ الفَنِّيَّةِ العَالَمِيَّةِ.",
+      "arabic": "هَذَا التَّمَازُجُ يُؤَكِّدُ قُدْرَةَ التُّرَاثِ العَرَبِيِّ عَلَى التَّجَدُّدِ وَمُوَاكَبَةِ التَّطَوُّرَاتِ الفَنِّيَّةِ العَالَمِيَّةِ.",
       "translation": "Ovaj spoj potvrđuje sposobnost arapske baštine da se obnavlja i drži korak sa svjetskim umjetničkim razvojima.",
-      "translationEn": "This fusion confirms the ability of Arab heritage to renew itself and keep pace with global artistic developments."
+      "translationEn": "This fusion confirms the ability of Arab heritage to renew itself and keep pace with global artistic developments.",
+      "words": [
+        {
+          "w": "التَّمَازُجُ",
+          "lemma": "تَمَازُجٌ"
+        },
+        {
+          "w": "يُؤَكِّدُ",
+          "lemma": "أَكَّدَ يُؤَكِّدُ"
+        },
+        {
+          "w": "قُدْرَةَ",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
+        },
+        {
+          "w": "التُّرَاثِ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "العَرَبِيِّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "التَّجَدُّدِ",
+          "lemma": "تَجَدُّدٌ"
+        },
+        {
+          "w": "وَمُوَاكَبَةِ",
+          "lemma": "مُوَاكَبَةٌ"
+        },
+        {
+          "w": "التَّطَوُّرَاتِ",
+          "lemma": "تَطَوُّرٌ / تَطَوُّرَاتٌ"
+        },
+        {
+          "w": "الفَنِّيَّةِ",
+          "lemma": "فَنِّيٌّ"
+        },
+        {
+          "w": "العَالَمِيَّةِ",
+          "lemma": "عَالَمِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

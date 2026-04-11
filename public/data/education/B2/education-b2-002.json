@@ -4,39 +4,283 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يَعْتَمِدُ النَّجَاحُ الْأَكَادِيمِيُّ بِشَكْلٍ كَبِيرٍ عَلَى تَنْظِيمِ الْوَقْتِ وَتَبَنِّي عَادَاتٍ دِرَاسِيَّةٍ فَعَّالَةٍ تُلَائِمُ قُدُرَاتِ الطَّالِبِ.",
+      "arabic": "يَعْتَمِدُ النَّجَاحُ الْأَكَادِيمِيُّ بِشَكْلٍ كَبِيرٍ عَلَى تَنْظِيمِ الْوَقْتِ وَتَبَنِّي عَادَاتٍ دِرَاسِيَّةٍ فَعَّالَةٍ تُلَائِمُ قُدُرَاتِ الطَّالِبِ.",
       "translation": "Akademski uspjeh u velikoj mjeri zavisi od organizacije vremena i usvajanja efikasnih navika učenja koje odgovaraju sposobnostima studenta.",
       "translationEn": "Academic success depends heavily on time management and adopting effective study habits that suit the student's abilities.",
-      "words": []
-    },
-    {
-      "arabic": "مِنَ الضَّرُورِيِّ أَنْ يَضَعَ الْمُتَعَلِّمُ جَدْوَلًا زَمَنِيًّا مُتَوَازِنًا يَجْمَعُ بَيْنَ الْمُرَاجَعَةِ الْمُكَثَّفَةِ وَفَتَرَاتِ الرَّاحَةِ الضَّرُورِيَّةِ لِتَجْدِيدِ الطَّاقَةِ.",
-      "translation": "Neophodno je da učenik napravi uravnotežen raspored koji kombinuje intenzivno ponavljanje i neophodne periode odmora za obnavljanje energije.",
-      "translationEn": "It is essential for the learner to set a balanced schedule that combines intensive revision with necessary rest periods to renew energy.",
-      "words": []
-    },
-    {
-      "arabic": "كَمَا يُنْصَحُ بِتَلْخِيصِ الْمَوَادِّ الدِّرَاسِيَّةِ بِأُسْلُوبٍ شَخْصِيٍّ لِتَسْهِيلِ اسْتِيعَابِ الْمَفَاهِيمِ الْمُعَقَّدَةِ وَتَرْسِيخِهَا فِي الذَّاكِرَةِ.",
-      "translation": "Također se preporučuje sažimanje nastavnih materijala na ličan način kako bi se olakšalo razumijevanje složenih koncepata i njihovo učvršćivanje u pamćenju.",
-      "translationEn": "It is also recommended to summarize study materials in a personal style to facilitate the comprehension of complex concepts and consolidate them in memory.",
-      "words": []
-    },
-    {
-      "arabic": "إِنَّ الِابْتِعَادَ عَنْ كَافَّةِ الْمُشَتِّتَاتِ الْإِلِكْتُرُونِيَّةِ أَثْنَاءَ الْمُذَاكَرَةِ يُسَاهِمُ فِي رَفْعِ مُسْتَوَى التَّحْصِيلِ الْعِلْمِيِّ بِشَكْلٍ مَلْحُوظٍ.",
-      "translation": "Udaljavanje od svih elektronskih ometača tokom učenja značajno doprinosi podizanju nivoa naučnog postignuća.",
-      "translationEn": "Staying away from all electronic distractions while studying contributes significantly to raising the level of academic achievement.",
       "words": [
         {
-          "w": "أَثْنَاءَ",
-          "lemma": "أَثْنَاءُ"
+          "w": "يَعْتَمِدُ",
+          "lemma": "اِعْتَمَدَ يَعْتَمِدُ"
+        },
+        {
+          "w": "النَّجَاحُ",
+          "lemma": "نَجَاحٌ"
+        },
+        {
+          "w": "الْأَكَادِيمِيُّ",
+          "lemma": "أَكَادِيمِيٌّ"
+        },
+        {
+          "w": "كَبِيرٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "تَنْظِيمِ",
+          "lemma": "تَنْظِيمٌ"
+        },
+        {
+          "w": "الْوَقْتِ",
+          "lemma": "وَقْتٌ / أَوْقَاتٌ"
+        },
+        {
+          "w": "وَتَبَنِّي",
+          "lemma": "تَبَنَّى يَتَبَنَّى"
+        },
+        {
+          "w": "عَادَاتٍ",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "دِرَاسِيَّةٍ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "فَعَّالَةٍ",
+          "lemma": "فَعَّالٌ"
+        },
+        {
+          "w": "تُلَائِمُ",
+          "lemma": "لَاءَمَ يُلَائِمُ"
+        },
+        {
+          "w": "قُدُرَاتِ",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
+        },
+        {
+          "w": "الطَّالِبِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
         }
       ]
     },
     {
-      "arabic": "وَفِي النِّهَايَةِ، يَبْقَى الِانْضِبَاطُ الذَّاتِيُّ هُوَ الْمِفْتَاحُ الْأَسَاسِيُّ لِتَحْقِيقِ الْأَهْدَافِ الطَّمُوحَةِ فِي الْمَسِيرَةِ التَّعْلِيمِيَّةِ.",
+      "arabic": "مِنَ الضَّرُورِيِّ أَنْ يَضَعَ الْمُتَعَلِّمُ جَدْوَلًا زَمَنِيًّا مُتَوَازِنًا يَجْمَعُ بَيْنَ الْمُرَاجَعَةِ الْمُكَثَّفَةِ وَفَتَرَاتِ الرَّاحَةِ الضَّرُورِيَّةِ لِتَجْدِيدِ الطَّاقَةِ.",
+      "translation": "Neophodno je da učenik napravi uravnotežen raspored koji kombinuje intenzivno ponavljanje i neophodne periode odmora za obnavljanje energije.",
+      "translationEn": "It is essential for the learner to set a balanced schedule that combines intensive revision with necessary rest periods to renew energy.",
+      "words": [
+        {
+          "w": "الضَّرُورِيِّ",
+          "lemma": "ضَرُورِيٌّ"
+        },
+        {
+          "w": "يَضَعَ",
+          "lemma": "وَضَعَ يَضَعُ"
+        },
+        {
+          "w": "الْمُتَعَلِّمُ",
+          "lemma": "مُتَعَلِّمٌ / مُتَعَلِّمُونَ"
+        },
+        {
+          "w": "جَدْوَلًا",
+          "lemma": "جَدْوَلٌ / جَدَاوِلُ"
+        },
+        {
+          "w": "زَمَنِيًّا",
+          "lemma": "زَمَنِيٌّ"
+        },
+        {
+          "w": "مُتَوَازِنًا",
+          "lemma": "مُتَوَازِنٌ"
+        },
+        {
+          "w": "يَجْمَعُ",
+          "lemma": "جَمَعَ يَجْمَعُ"
+        },
+        {
+          "w": "الْمُرَاجَعَةِ",
+          "lemma": "مُرَاجَعَةٌ / مُرَاجَعَاتٌ"
+        },
+        {
+          "w": "الْمُكَثَّفَةِ",
+          "lemma": "مُكَثَّفٌ"
+        },
+        {
+          "w": "وَفَتَرَاتِ",
+          "lemma": "فَتْرَةٌ / فَتَرَاتٌ"
+        },
+        {
+          "w": "الرَّاحَةِ",
+          "lemma": "رَاحَةٌ"
+        },
+        {
+          "w": "الضَّرُورِيَّةِ",
+          "lemma": "ضَرُورِيٌّ"
+        },
+        {
+          "w": "لِتَجْدِيدِ",
+          "lemma": "تَجْدِيدٌ"
+        },
+        {
+          "w": "الطَّاقَةِ",
+          "lemma": "طَاقَةٌ / طَاقَاتٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "كَمَا يُنْصَحُ بِتَلْخِيصِ الْمَوَادِّ الدِّرَاسِيَّةِ بِأُسْلُوبٍ شَخْصِيٍّ لِتَسْهِيلِ اسْتِيعَابِ الْمَفَاهِيمِ الْمُعَقَّدَةِ وَتَرْسِيخِهَا فِي الذَّاكِرَةِ.",
+      "translation": "Također se preporučuje sažimanje nastavnih materijala na ličan način kako bi se olakšalo razumijevanje složenih koncepata i njihovo učvršćivanje u pamćenju.",
+      "translationEn": "It is also recommended to summarize study materials in a personal style to facilitate the comprehension of complex concepts and consolidate them in memory.",
+      "words": [
+        {
+          "w": "يُنْصَحُ",
+          "lemma": "نَصَحَ يَنْصَحُ"
+        },
+        {
+          "w": "بِتَلْخِيصِ",
+          "lemma": "تَلْخِيصٌ"
+        },
+        {
+          "w": "الْمَوَادِّ",
+          "lemma": "مَادَّةٌ / مَوَادُّ"
+        },
+        {
+          "w": "الدِّرَاسِيَّةِ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "بِأُسْلُوبٍ",
+          "lemma": "أُسْلُوبٌ / أَسَالِيبُ"
+        },
+        {
+          "w": "شَخْصِيٍّ",
+          "lemma": "شَخْصِيٌّ"
+        },
+        {
+          "w": "لِتَسْهِيلِ",
+          "lemma": "تَسْهِيلٌ"
+        },
+        {
+          "w": "اسْتِيعَابِ",
+          "lemma": "اِسْتِيعَابٌ"
+        },
+        {
+          "w": "الْمَفَاهِيمِ",
+          "lemma": "مَفْهُومٌ / مَفَاهِيمُ"
+        },
+        {
+          "w": "الْمُعَقَّدَةِ",
+          "lemma": "مُعَقَّدٌ"
+        },
+        {
+          "w": "وَتَرْسِيخِهَا",
+          "lemma": "تَرْسِيخٌ"
+        },
+        {
+          "w": "الذَّاكِرَةِ",
+          "lemma": "ذَاكِرَةٌ / ذَاكِرَاتٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "إِنَّ الِابْتِعَادَ عَنْ كَافَّةِ الْمُشَتِّتَاتِ الْإِلِكْتُرُونِيَّةِ أَثْنَاءَ الْمُذَاكَرَةِ يُسَاهِمُ فِي رَفْعِ مُسْتَوَى التَّحْصِيلِ الْعِلْمِيِّ بِشَكْلٍ مَلْحُوظٍ.",
+      "translation": "Udaljavanje od svih elektronskih ometača tokom učenja značajno doprinosi podizanju nivoa naučnog postignuća.",
+      "translationEn": "Staying away from all electronic distractions while studying contributes significantly to raising the level of academic achievement.",
+      "words": [
+        {
+          "w": "الِابْتِعَادَ",
+          "lemma": "اِبْتِعَادٌ"
+        },
+        {
+          "w": "الْمُشَتِّتَاتِ",
+          "lemma": "مُشَتِّتٌ / مُشَتِّتَاتٌ"
+        },
+        {
+          "w": "الْإِلِكْتُرُونِيَّةِ",
+          "lemma": "إِلِكْتُرُونِيٌّ"
+        },
+        {
+          "w": "أَثْنَاءَ",
+          "lemma": "أَثْنَاءٌ"
+        },
+        {
+          "w": "الْمُذَاكَرَةِ",
+          "lemma": "مُذَاكَرَةٌ"
+        },
+        {
+          "w": "يُسَاهِمُ",
+          "lemma": "سَاهَمَ يُسَاهِمُ"
+        },
+        {
+          "w": "رَفْعِ",
+          "lemma": "رَفْعٌ"
+        },
+        {
+          "w": "مُسْتَوَى",
+          "lemma": "مُسْتَوًى / مُسْتَوَيَاتٌ"
+        },
+        {
+          "w": "التَّحْصِيلِ",
+          "lemma": "تَحْصِيلٌ"
+        },
+        {
+          "w": "الْعِلْمِيِّ",
+          "lemma": "عِلْمِيٌّ"
+        },
+        {
+          "w": "مَلْحُوظٍ",
+          "lemma": "مَلْحُوظٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "وَفِي النِّهَايَةِ، يَبْقَى الِانْضِبَاطُ الذَّاتِيُّ هُوَ الْمِفْتَاحُ الْأَسَاسِيُّ لِتَحْقِيقِ الْأَهْدَافِ الطَّمُوحَةِ فِي الْمَسِيرَةِ التَّعْلِيمِيَّةِ.",
       "translation": "Na kraju, samodisciplina ostaje osnovni ključ za postizanje ambicioznih ciljeva u obrazovnom putu.",
       "translationEn": "In the end, self-discipline remains the fundamental key to achieving ambitious goals in the educational journey.",
-      "words": []
+      "words": [
+        {
+          "w": "النِّهَايَةِ",
+          "lemma": "نِهَايَةٌ / نِهَايَاتٌ"
+        },
+        {
+          "w": "يَبْقَى",
+          "lemma": "بَقِيَ يَبْقَى"
+        },
+        {
+          "w": "الِانْضِبَاطُ",
+          "lemma": "اِنْضِبَاطٌ"
+        },
+        {
+          "w": "الذَّاتِيُّ",
+          "lemma": "ذَاتِيٌّ"
+        },
+        {
+          "w": "الْمِفْتَاحُ",
+          "lemma": "مِفْتَاحٌ / مَفَاتِيحُ"
+        },
+        {
+          "w": "الْأَسَاسِيُّ",
+          "lemma": "أَسَاسِيٌّ"
+        },
+        {
+          "w": "لِتَحْقِيقِ",
+          "lemma": "تَحْقِيقٌ"
+        },
+        {
+          "w": "الْأَهْدَافِ",
+          "lemma": "هَدَفٌ / أَهْدَافٌ"
+        },
+        {
+          "w": "الطَّمُوحَةِ",
+          "lemma": "طَمُوحٌ"
+        },
+        {
+          "w": "الْمَسِيرَةِ",
+          "lemma": "مَسِيرَةٌ / مَسِيرَاتٌ"
+        },
+        {
+          "w": "التَّعْلِيمِيَّةِ",
+          "lemma": "تَعْلِيمِيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

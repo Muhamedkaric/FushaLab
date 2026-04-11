@@ -4,33 +4,196 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ الْمِنَحُ الدِّرَاسِيَّةُ جِسْرًا يَعْبُرُ مِنْ خِلَالِهِ الطُّلَّابُ الْمُتَفَوِّقُونَ نَحْوَ مُسْتَقْبَلٍ أَكَادِيمِيٍّ مُشْرِقٍ.",
+      "arabic": "تُمَثِّلُ الْمِنَحُ الدِّرَاسِيَّةُ جِسْرًا يَعْبُرُ مِنْ خِلَالِهِ الطُّلَّابُ الْمُتَفَوِّقُونَ نَحْوَ مُسْتَقْبَلٍ أَكَادِيمِيٍّ مُشْرِقٍ.",
       "translation": "Stipendije predstavljaju most preko kojeg izvrsni studenti prelaze ka svijetloj akademskoj budućnosti.",
       "translationEn": "Scholarships represent a bridge through which outstanding students cross toward a bright academic future.",
-      "words": []
-    },
-    {
-      "arabic": "تَتَنَافَسُ الْجَامِعَاتُ الْعَالَمِيَّةُ لِاسْتِقْطَابِ الْعُقُولِ النَّابِغَةِ عَبْرَ تَقْدِيمِ مَزَايَا تَمْوِيلِيَّةٍ شَامِلَةٍ.",
-      "translation": "Svjetski univerziteti se takmiče da privuku genijalne umove nudeći sveobuhvatne finansijske pogodnosti.",
-      "translationEn": "Global universities compete to attract brilliant minds by offering comprehensive financial benefits.",
       "words": [
         {
-          "w": "عَبْرَ",
-          "lemma": "عَبْرَ"
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "الْمِنَحُ",
+          "lemma": "مِنْحَةٌ / مِنَحٌ"
+        },
+        {
+          "w": "الدِّرَاسِيَّةُ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "جِسْرًا",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        },
+        {
+          "w": "يَعْبُرُ",
+          "lemma": "عَبَرَ يَعْبُرُ"
+        },
+        {
+          "w": "الطُّلَّابُ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الْمُتَفَوِّقُونَ",
+          "lemma": "مُتَفَوِّقٌ / مُتَفَوِّقُونَ"
+        },
+        {
+          "w": "مُسْتَقْبَلٍ",
+          "lemma": "مُسْتَقْبَلٌ"
+        },
+        {
+          "w": "أَكَادِيمِيٍّ",
+          "lemma": "أَكَادِيمِيٌّ"
+        },
+        {
+          "w": "مُشْرِقٍ",
+          "lemma": "مُشْرِقٌ"
         }
       ]
     },
     {
-      "arabic": "يَتَطَلَّبُ الْحُصُولُ عَلَى هٰذِهِ الْفُرَصِ سِجِلًّا أَكَادِيمِيًّا مُمَيَّزًا وَمُشَارَكَةً فَعَّالَةً فِي الْأَنْشِطَةِ الْمُجْتَمَعِيَّةِ.",
-      "translation": "Dobijanje ovih prilika zahtijeva izuzetan akademski uspjeh i aktivno učešće u društvenim aktivnostima.",
-      "translationEn": "Obtaining these opportunities requires a distinguished academic record and active participation in community activities.",
-      "words": []
+      "arabic": "تَتَنَافَسُ الْجَامِعَاتُ الْعَالَمِيَّةُ لِاسْتِقْطَابِ الْعُقُولِ النَّابِغَةِ عَبْرَ تَقْدِيمِ مَزَايَا تَمْوِيلِيَّةٍ شَامِلَةٍ.",
+      "translation": "Svjetski univerziteti se takmiče da privuku genijalne umove nudeći sveobuhvatne finansijske pogodnosti.",
+      "translationEn": "Global universities compete to attract brilliant minds by offering comprehensive financial benefits.",
+      "words": [
+        {
+          "w": "تَتَنَافَسُ",
+          "lemma": "تَنَافَسَ يَتَنَافَسُ"
+        },
+        {
+          "w": "الْجَامِعَاتُ",
+          "lemma": "جَامِعَةٌ / جَامِعَاتٌ"
+        },
+        {
+          "w": "الْعَالَمِيَّةُ",
+          "lemma": "عَالَمِيٌّ"
+        },
+        {
+          "w": "لِاسْتِقْطَابِ",
+          "lemma": "اِسْتِقْطَابٌ"
+        },
+        {
+          "w": "الْعُقُولِ",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        },
+        {
+          "w": "النَّابِغَةِ",
+          "lemma": "نَابِغَةٌ"
+        },
+        {
+          "w": "عَبْرَ",
+          "lemma": "عَبْرَ"
+        },
+        {
+          "w": "تَقْدِيمِ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "مَزَايَا",
+          "lemma": "مَزِيَّةٌ / مَزَايَا"
+        },
+        {
+          "w": "تَمْوِيلِيَّةٍ",
+          "lemma": "تَمْوِيلِيٌّ"
+        },
+        {
+          "w": "شَامِلَةٍ",
+          "lemma": "شَامِلٌ"
+        }
+      ]
     },
     {
-      "arabic": "تُسَاهِمُ هٰذِهِ الْبَرَامِجُ فِي تَعْزِيزِ التَّبَادُلِ الثَّقَافِيِّ وَبِنَاءِ شَبَكَةِ عَلَاقَاتٍ دَوْلِيَّةٍ وَاسِعَةٍ.",
+      "arabic": "يَتَطَلَّبُ الْحُصُولُ عَلَى هٰذِهِ الْفُرَصِ سِجِلًّا أَكَادِيمِيًّا مُمَيَّزًا وَمُشَارَكَةً فَعَّالَةً فِي الْأَنْشِطَةِ الْمُجْتَمَعِيَّةِ.",
+      "translation": "Dobijanje ovih prilika zahtijeva izuzetan akademski uspjeh i aktivno učešće u društvenim aktivnostima.",
+      "translationEn": "Obtaining these opportunities requires a distinguished academic record and active participation in community activities.",
+      "words": [
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "الْحُصُولُ",
+          "lemma": "حُصُولٌ"
+        },
+        {
+          "w": "الْفُرَصِ",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "سِجِلًّا",
+          "lemma": "سِجِلٌّ / سِجِلَّاتٌ"
+        },
+        {
+          "w": "أَكَادِيمِيًّا",
+          "lemma": "أَكَادِيمِيٌّ"
+        },
+        {
+          "w": "مُمَيَّزًا",
+          "lemma": "مُمَيَّزٌ"
+        },
+        {
+          "w": "وَمُشَارَكَةً",
+          "lemma": "مُشَارَكَةٌ"
+        },
+        {
+          "w": "فَعَّالَةً",
+          "lemma": "فَعَّالٌ"
+        },
+        {
+          "w": "الْأَنْشِطَةِ",
+          "lemma": "نَشَاطٌ / أَنْشِطَةٌ"
+        },
+        {
+          "w": "الْمُجْتَمَعِيَّةِ",
+          "lemma": "مُجْتَمَعِيٌّ"
+        }
+      ]
+    },
+    {
+      "arabic": "تُسَاهِمُ هٰذِهِ الْبَرَامِجُ فِي تَعْزِيزِ التَّبَادُلِ الثَّقَافِيِّ وَبِنَاءِ شَبَكَةِ عَلَاقَاتٍ دَوْلِيَّةٍ وَاسِعَةٍ.",
       "translation": "Ovi programi doprinose jačanju kulturne razmjene i izgradnji široke mreže međunarodnih odnosa.",
       "translationEn": "These programs contribute to enhancing cultural exchange and building a wide network of international relations.",
-      "words": []
+      "words": [
+        {
+          "w": "تُسَاهِمُ",
+          "lemma": "سَاهَمَ يُسَاهِمُ"
+        },
+        {
+          "w": "الْبَرَامِجُ",
+          "lemma": "بَرْنَامَجٌ / بَرَامِجُ"
+        },
+        {
+          "w": "تَعْزِيزِ",
+          "lemma": "تَعْزِيزٌ"
+        },
+        {
+          "w": "التَّبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الثَّقَافِيِّ",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "وَبِنَاءِ",
+          "lemma": "بِنَاءٌ"
+        },
+        {
+          "w": "شَبَكَةِ",
+          "lemma": "شَبَكَةٌ / شَبَكَاتٌ"
+        },
+        {
+          "w": "عَلَاقَاتٍ",
+          "lemma": "عِلَاقَةٌ / عِلَاقَاتٌ"
+        },
+        {
+          "w": "دَوْلِيَّةٍ",
+          "lemma": "دَوْلِيٌّ"
+        },
+        {
+          "w": "وَاسِعَةٍ",
+          "lemma": "وَاسِعٌ"
+        }
+      ]
     }
   ],
   "metadata": {

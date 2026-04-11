@@ -4,42 +4,169 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُعْتَبَرُ الضِّيَافَةُ جُزْءًا أَسَاسِيًّا مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
+      "arabic": "تُعْتَبَرُ الضِّيَافَةُ جُزْءًا أَسَاسِيًّا مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
       "translation": "Gostoprimstvo se smatra osnovnim dijelom arapske kulture.",
       "translationEn": "Hospitality is considered a fundamental part of Arab culture.",
-      "words": []
-    },
-    {
-      "arabic": "يَقُومُ الْمُضِيفُ بِاسْتِقْبَالِ الضُّيُوفِ بِحَرَارَةٍ كَبِيرَةٍ فِي مَنْزِلِهِ.",
-      "translation": "Domaćin prima goste s velikom toplinom u svom domu.",
-      "translationEn": "The host receives guests with great warmth in his home.",
-      "words": []
-    },
-    {
-      "arabic": "يُقَدِّمُ الْعَرَبُ الْقَهْوَةَ الْمُرَّةَ وَالتَّمْرَ لِلزُّوَّارِ عِنْدَ وُصُولِهِمْ.",
-      "translation": "Arapi nude gorku kafu i hurme posjetiocima po njihovom dolasku.",
-      "translationEn": "Arabs offer bitter coffee and dates to visitors upon their arrival.",
       "words": [
         {
-          "w": "عِنْدَ",
-          "lemma": "عِنْدَ"
+          "w": "تُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "الضِّيَافَةُ",
+          "lemma": "ضِيَافَةٌ / ضِيَافَاتٌ"
+        },
+        {
+          "w": "جُزْءًا",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "أَسَاسِيًّا",
+          "lemma": "أَسَاسِيٌّ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
         }
       ]
     },
     {
-      "arabic": "يُشْعِرُ هَذَا الْكَرَمُ الضَّيْفَ بِأَنَّهُ فَرْدٌ مِنَ الْعَائِلَةِ.",
-      "translation": "Ova velikodušnost čini da se gost osjeća kao član porodice.",
-      "translationEn": "This generosity makes the guest feel like a member of the family.",
-      "words": []
+      "arabic": "يَقُومُ الْمُضِيفُ بِاسْتِقْبَالِ الضُّيُوفِ بِحَرَارَةٍ كَبِيرَةٍ فِي مَنْزِلِهِ.",
+      "translation": "Domaćin prima goste s velikom toplinom u svom domu.",
+      "translationEn": "The host receives guests with great warmth in his home.",
+      "words": [
+        {
+          "w": "يَقُومُ",
+          "lemma": "قَامَ يَقُومُ"
+        },
+        {
+          "w": "الْمُضِيفُ",
+          "lemma": "مُضِيفٌ / مُضِيفُونَ"
+        },
+        {
+          "w": "بِاسْتِقْبَالِ",
+          "lemma": "اسْتِقْبَالٌ / اسْتِقْبَالَاتٌ"
+        },
+        {
+          "w": "الضُّيُوفِ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِحَرَارَةٍ",
+          "lemma": "حَرَارَةٌ / حَرَارَاتٌ"
+        },
+        {
+          "w": "كَبِيرَةٍ",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "مَنْزِلِهِ",
+          "lemma": "مَنْزِلٌ / مَنَازِلُ"
+        }
+      ]
     },
     {
-      "arabic": "يَسْتَمِرُّ التَّرْحِيبُ طَوَالَ فَتْرَةِ الزِّيَارَةِ بِكَلَامٍ طَيِّبٍ.",
+      "arabic": "يُقَدِّمُ الْعَرَبُ الْقَهْوَةَ الْمُرَّةَ وَالتَّمْرَ لِلزُّوَّارِ عِنْدَ وُصُولِهِمْ.",
+      "translation": "Arapi nude gorku kafu i hurme posjetiocima po njihovom dolasku.",
+      "translationEn": "Arabs offer bitter coffee and dates to visitors upon their arrival.",
+      "words": [
+        {
+          "w": "يُقَدِّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الْعَرَبُ",
+          "lemma": "عَرَبِيٌّ / عَرَبٌ"
+        },
+        {
+          "w": "الْقَهْوَةَ",
+          "lemma": "قَهْوَةٌ / قَهَوَاتٌ"
+        },
+        {
+          "w": "الْمُرَّةَ",
+          "lemma": "مُرٌّ"
+        },
+        {
+          "w": "وَالتَّمْرَ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "لِلزُّوَّارِ",
+          "lemma": "زَائِرٌ / زُوَّارٌ"
+        },
+        {
+          "w": "عِنْدَ",
+          "lemma": "عِنْدَ"
+        },
+        {
+          "w": "وُصُولِهِمْ",
+          "lemma": "وُصُولٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "يُشْعِرُ هَذَا الْكَرَمُ الضَّيْفَ بِأَنَّهُ فَرْدٌ مِنَ الْعَائِلَةِ.",
+      "translation": "Ova velikodušnost čini da se gost osjeća kao član porodice.",
+      "translationEn": "This generosity makes the guest feel like a member of the family.",
+      "words": [
+        {
+          "w": "يُشْعِرُ",
+          "lemma": "أَشْعَرَ يُشْعِرُ"
+        },
+        {
+          "w": "الْكَرَمُ",
+          "lemma": "كَرَمٌ"
+        },
+        {
+          "w": "الضَّيْفَ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "فَرْدٌ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "الْعَائِلَةِ",
+          "lemma": "عَائِلَةٌ / عَائِلَاتٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَسْتَمِرُّ التَّرْحِيبُ طَوَالَ فَتْرَةِ الزِّيَارَةِ بِكَلَامٍ طَيِّبٍ.",
       "translation": "Dobrodošlica se nastavlja tokom cijele posjete uz lijepe riječi.",
       "translationEn": "The welcome continues throughout the visit with kind words.",
       "words": [
         {
+          "w": "يَسْتَمِرُّ",
+          "lemma": "اسْتَمَرَّ يَسْتَمِرُّ"
+        },
+        {
+          "w": "التَّرْحِيبُ",
+          "lemma": "تَرْحِيبٌ / تَرْحِيبَاتٌ"
+        },
+        {
           "w": "طَوَالَ",
           "lemma": "طَوَالَ"
+        },
+        {
+          "w": "فَتْرَةِ",
+          "lemma": "فَتْرَةٌ / فَتَرَاتٌ"
+        },
+        {
+          "w": "الزِّيَارَةِ",
+          "lemma": "زِيَارَةٌ / زِيَارَاتٌ"
+        },
+        {
+          "w": "بِكَلَامٍ",
+          "lemma": "كَلَامٌ / أَكَالِيمُ"
+        },
+        {
+          "w": "طَيِّبٍ",
+          "lemma": "طَيِّبٌ"
         }
       ]
     }

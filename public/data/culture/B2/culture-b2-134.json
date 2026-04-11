@@ -7,25 +7,113 @@
       "arabic": "الْقَهْوَةُ الْعَرَبِيَّةُ مَشْرُوبٌ أَصِيلٌ فِي الثَّقَافَةِ الْعَرَبِيَّةِ.",
       "translation": "Arapska kafa je originalno piće u arapskoj kulturi.",
       "translationEn": "Arabic coffee is an authentic drink in Arab culture.",
-      "words": []
+      "words": [
+        {
+          "w": "الْقَهْوَةُ",
+          "lemma": "قَهْوَةٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةُ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "مَشْرُوبٌ",
+          "lemma": "مَشْرُوبٌ / مَشْرُوبَاتٌ"
+        },
+        {
+          "w": "أَصِيلٌ",
+          "lemma": "أَصِيلٌ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "تُصْنَعُ مِنَ الْبُنِّ مَعَ الْهَيْلِ وَالزَّعْفَرَانِ أَحْيَانًا.",
       "translation": "Pravi se od kafe s kardamomom, a ponekad i šafranom.",
       "translationEn": "It is made from coffee with cardamom and sometimes saffron.",
-      "words": []
+      "words": [
+        {
+          "w": "تُصْنَعُ",
+          "lemma": "صَنَعَ يَصْنَعُ"
+        },
+        {
+          "w": "الْبُنِّ",
+          "lemma": "بُنٌّ"
+        },
+        {
+          "w": "الْهَيْلِ",
+          "lemma": "هَيْلٌ"
+        },
+        {
+          "w": "وَالزَّعْفَرَانِ",
+          "lemma": "زَعْفَرَانٌ"
+        }
+      ]
     },
     {
       "arabic": "تُقَدَّمُ فِي فِنَاجِينَ صَغِيرَةٍ بِلَا سُكَّرٍ.",
       "translation": "Servira se u malim šoljicama bez šećera.",
       "translationEn": "It is served in small cups without sugar.",
-      "words": []
+      "words": [
+        {
+          "w": "تُقَدَّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "فِنَاجِينَ",
+          "lemma": "فِنْجَانٌ / فَنَاجِينُ"
+        },
+        {
+          "w": "صَغِيرَةٍ",
+          "lemma": "صَغِيرٌ"
+        },
+        {
+          "w": "سُكَّرٍ",
+          "lemma": "سُكَّرٌ"
+        }
+      ]
     },
     {
       "arabic": "يَرْفُضُ الضَّيْفُ الْقَهْوَةَ بِهَزِّ الْفِنْجَانِ يَمِينًا وَيَسَارًا.",
       "translation": "Gost odbija kafu mahanjem šoljice lijevo-desno.",
       "translationEn": "A guest declines coffee by shaking the cup left and right.",
-      "words": []
+      "words": [
+        {
+          "w": "يَرْفُضُ",
+          "lemma": "رَفَضَ يَرْفُضُ"
+        },
+        {
+          "w": "الضَّيْفُ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "الْقَهْوَةَ",
+          "lemma": "قَهْوَةٌ"
+        },
+        {
+          "w": "بِهَزِّ",
+          "lemma": "هَزٌّ"
+        },
+        {
+          "w": "الْفِنْجَانِ",
+          "lemma": "فِنْجَانٌ / فَنَاجِينُ"
+        },
+        {
+          "w": "يَمِينًا",
+          "lemma": "يَمِينٌ"
+        },
+        {
+          "w": "وَيَسَارًا",
+          "lemma": "يَسَارٌ"
+        }
+      ]
     },
     {
       "arabic": "إِنَّ تَقْدِيمَ الْقَهْوَةِ عِنْدَ الاسْتِقْبَالِ وَاجِبٌ اجْتِمَاعِيٌّ فِي الثَّقَافَةِ الْخَلِيجِيَّةِ.",
@@ -33,8 +121,36 @@
       "translationEn": "Serving coffee upon welcoming guests is a social obligation in Gulf culture.",
       "words": [
         {
+          "w": "تَقْدِيمَ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "الْقَهْوَةِ",
+          "lemma": "قَهْوَةٌ"
+        },
+        {
           "w": "عِنْدَ",
           "lemma": "عِنْدَ"
+        },
+        {
+          "w": "الاسْتِقْبَالِ",
+          "lemma": "اسْتِقْبَالٌ"
+        },
+        {
+          "w": "وَاجِبٌ",
+          "lemma": "وَاجِبٌ"
+        },
+        {
+          "w": "اجْتِمَاعِيٌّ",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْخَلِيجِيَّةِ",
+          "lemma": "خَلِيجِيٌّ"
         }
       ]
     }

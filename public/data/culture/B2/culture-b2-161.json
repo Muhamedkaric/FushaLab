@@ -7,19 +7,86 @@
       "arabic": "تُعْتَبَرُ الضِّيَافَةُ جُزْءًا هَامًّا مِنَ الثَّقَافَةِ الْعَرَبِيَّةِ.",
       "translation": "Gostoprimstvo se smatra važnim dijelom arapske kulture.",
       "translationEn": "Hospitality is considered an important part of Arab culture.",
-      "words": []
+      "words": [
+        {
+          "w": "الضِّيَافَةُ",
+          "lemma": "ضِيَافَةٌ"
+        },
+        {
+          "w": "جُزْءًا",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "هَامًّا",
+          "lemma": "هَامٌّ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةِ",
+          "lemma": "عَرَبِيٌّ"
+        }
+      ]
     },
     {
       "arabic": "يَسْتَقْبِلُ النَّاسُ ضُيُوفَهُمْ بِتَرْحِيبٍ حَارٍّ فِي بُيُوتِهِمْ.",
       "translation": "Ljudi dočekuju svoje goste s toplom dobrodošlicom u svojim domovima.",
       "translationEn": "People welcome their guests with a warm reception in their homes.",
-      "words": []
+      "words": [
+        {
+          "w": "يَسْتَقْبِلُ",
+          "lemma": "اسْتَقْبَلَ يَسْتَقْبِلُ"
+        },
+        {
+          "w": "النَّاسُ",
+          "lemma": "نَاسٌ"
+        },
+        {
+          "w": "ضُيُوفَهُمْ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِتَرْحِيبٍ",
+          "lemma": "تَرْحِيبٌ"
+        },
+        {
+          "w": "حَارٍّ",
+          "lemma": "حَارٌّ"
+        },
+        {
+          "w": "بُيُوتِهِمْ",
+          "lemma": "بَيْتٌ / بُيُوتٌ"
+        }
+      ]
     },
     {
       "arabic": "يُقَدِّمُونَ لَهُمُ الْقَهْوَةَ الْعَرَبِيَّةَ وَالتَّمْرَ دَائِمًا.",
       "translation": "Uvijek im poslužuju arapsku kafu i urme.",
       "translationEn": "They always serve them Arabic coffee and dates.",
-      "words": []
+      "words": [
+        {
+          "w": "يُقَدِّمُونَ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الْقَهْوَةَ",
+          "lemma": "قَهْوَةٌ"
+        },
+        {
+          "w": "الْعَرَبِيَّةَ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "وَالتَّمْرَ",
+          "lemma": "تَمْرٌ / تُمُورٌ"
+        },
+        {
+          "w": "دَائِمًا",
+          "lemma": "دَائِمٌ"
+        }
+      ]
     },
     {
       "arabic": "يَشْعُرُ الضَّيْفُ بِالرَّاحَةِ وَالسَّعَادَةِ عِنْدَ زِيَارَةِ أَصْدِقَائِهِ.",
@@ -27,8 +94,32 @@
       "translationEn": "The guest feels comfortable and happy when visiting their friends.",
       "words": [
         {
+          "w": "يَشْعُرُ",
+          "lemma": "شَعَرَ يَشْعُرُ"
+        },
+        {
+          "w": "الضَّيْفُ",
+          "lemma": "ضَيْفٌ / ضُيُوفٌ"
+        },
+        {
+          "w": "بِالرَّاحَةِ",
+          "lemma": "رَاحَةٌ"
+        },
+        {
+          "w": "وَالسَّعَادَةِ",
+          "lemma": "سَعَادَةٌ"
+        },
+        {
           "w": "عِنْدَ",
           "lemma": "عِنْدَ"
+        },
+        {
+          "w": "زِيَارَةِ",
+          "lemma": "زِيَارَةٌ / زِيَارَاتٌ"
+        },
+        {
+          "w": "أَصْدِقَائِهِ",
+          "lemma": "صَدِيقٌ / أَصْدِقَاءُ"
         }
       ]
     },
@@ -36,7 +127,24 @@
       "arabic": "هَذِهِ الْعَادَةُ تُقَوِّي الْعَلَاقَاتِ بَيْنَ النَّاسِ.",
       "translation": "Ovaj običaj jača odnose među ljudima.",
       "translationEn": "This custom strengthens relationships between people.",
-      "words": []
+      "words": [
+        {
+          "w": "الْعَادَةُ",
+          "lemma": "عَادَةٌ / عَادَاتٌ"
+        },
+        {
+          "w": "تُقَوِّي",
+          "lemma": "قَوَّى يُقَوِّي"
+        },
+        {
+          "w": "الْعَلَاقَاتِ",
+          "lemma": "عَلَاقَةٌ / عَلَاقَاتٌ"
+        },
+        {
+          "w": "النَّاسِ",
+          "lemma": "نَاسٌ"
+        }
+      ]
     }
   ],
   "metadata": {

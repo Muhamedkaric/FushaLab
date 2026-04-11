@@ -4,29 +4,259 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "لَمْ يَعُدِ التَّعَلُّمُ مَحْصُورًا فِي فَتْرَةٍ زَمَنِيَّةٍ مُعَيَّنَةٍ، بَلْ أَصْبَحَ مَفْهُومُ \"التَّعَلُّمِ مَدَى الْحَيَاةِ\" ضَرُورَةً حَتْمِيَّةً.",
+      "arabic": "لَمْ يَعُدِ التَّعَلُّمُ مَحْصُورًا فِي فَتْرَةٍ زَمَنِيَّةٍ مُعَيَّنَةٍ، بَلْ أَصْبَحَ مَفْهُومُ \"التَّعَلُّمِ مَدَى الْحَيَاةِ\" ضَرُورَةً حَتْمِيَّةً.",
       "translation": "Učenje više nije ograničeno na određeni vremenski period, već je koncept 'cjeloživotnog učenja' postao neizbježna neophodnost.",
-      "translationEn": "Learning is no longer confined to a specific period of time; instead, the concept of 'lifelong learning' has become an inevitable necessity."
+      "translationEn": "Learning is no longer confined to a specific period of time; instead, the concept of 'lifelong learning' has become an inevitable necessity.",
+      "words": [
+        {
+          "w": "التَّعَلُّمُ",
+          "lemma": "تَعَلُّمٌ"
+        },
+        {
+          "w": "مَحْصُورًا",
+          "lemma": "مَحْصُورٌ"
+        },
+        {
+          "w": "فَتْرَةٍ",
+          "lemma": "فَتْرَةٌ / فَتَرَاتٌ"
+        },
+        {
+          "w": "زَمَنِيَّةٍ",
+          "lemma": "زَمَنِيٌّ"
+        },
+        {
+          "w": "مُعَيَّنَةٍ",
+          "lemma": "مُعَيَّنٌ"
+        },
+        {
+          "w": "أَصْبَحَ",
+          "lemma": "أَصْبَحَ يُصْبِحُ"
+        },
+        {
+          "w": "مَفْهُومُ",
+          "lemma": "مَفْهُومٌ / مَفَاهِيمُ"
+        },
+        {
+          "w": "مَدَى",
+          "lemma": "مَدًى"
+        },
+        {
+          "w": "الْحَيَاةِ",
+          "lemma": "حَيَاةٌ"
+        },
+        {
+          "w": "ضَرُورَةً",
+          "lemma": "ضَرُورَةٌ / ضَرُورَاتٌ"
+        },
+        {
+          "w": "حَتْمِيَّةً",
+          "lemma": "حَتْمِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ سُوقَ الْعَمَلِ الْمُتَغَيِّرَ يَفْرِضُ عَلَى الْأَفْرَادِ اكْتِسَابَ مَهَارَاتٍ جَدِيدَةٍ بِصِفَةٍ دَوْرِيَّةٍ لِلْحِفَاظِ عَلَى كَفَاءَتِهِمْ.",
+      "arabic": "إِنَّ سُوقَ الْعَمَلِ الْمُتَغَيِّرَ يَفْرِضُ عَلَى الْأَفْرَادِ اكْتِسَابَ مَهَارَاتٍ جَدِيدَةٍ بِصِفَةٍ دَوْرِيَّةٍ لِلْحِفَاظِ عَلَى كَفَاءَتِهِمْ.",
       "translation": "Promjenljivo tržište rada nameće pojedincima periodično sticanje novih vještina kako bi održali svoju kompetentnost.",
-      "translationEn": "The changing labor market forces individuals to acquire new skills periodically to maintain their competence."
+      "translationEn": "The changing labor market forces individuals to acquire new skills periodically to maintain their competence.",
+      "words": [
+        {
+          "w": "سُوقَ",
+          "lemma": "سُوقٌ / أَسْوَاقٌ"
+        },
+        {
+          "w": "الْعَمَلِ",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "الْمُتَغَيِّرَ",
+          "lemma": "مُتَغَيِّرٌ"
+        },
+        {
+          "w": "يَفْرِضُ",
+          "lemma": "فَرَضَ يَفْرِضُ"
+        },
+        {
+          "w": "الْأَفْرَادِ",
+          "lemma": "فَرْدٌ / أَفْرَادٌ"
+        },
+        {
+          "w": "اكْتِسَابَ",
+          "lemma": "اِكْتِسَابٌ"
+        },
+        {
+          "w": "مَهَارَاتٍ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "بِصِفَةٍ",
+          "lemma": "صِفَةٌ / صِفَاتٌ"
+        },
+        {
+          "w": "دَوْرِيَّةٍ",
+          "lemma": "دَوْرِيٌّ"
+        },
+        {
+          "w": "لِلْحِفَاظِ",
+          "lemma": "حِفَاظٌ"
+        },
+        {
+          "w": "كَفَاءَتِهِمْ",
+          "lemma": "كَفَاءَةٌ / كَفَاءَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "يُمْكِنُ لِلْمَرْءِ الِالْتِحَاقُ بِدَوْرَاتٍ تَدْرِيبِيَّةٍ أَوْ وُرَشِ عَمَلٍ تُسَاهِمُ فِي تَطْوِيرِ مَسَارِهِ الْمِهَنِيِّ وَتَوْسِيعِ مَدَارِكِهِ.",
+      "arabic": "يُمْكِنُ لِلْمَرْءِ الِالْتِحَاقُ بِدَوْرَاتٍ تَدْرِيبِيَّةٍ أَوْ وُرَشِ عَمَلٍ تُسَاهِمُ فِي تَطْوِيرِ مَسَارِهِ الْمِهَنِيِّ وَتَوْسِيعِ مَدَارِكِهِ.",
       "translation": "Čovjek može upisati kurseve obuke ili radionice koje doprinose razvoju njegove profesionalne putanje i proširenju vidika.",
-      "translationEn": "One can enroll in training courses or workshops that contribute to developing their career path and broadening their horizons."
+      "translationEn": "One can enroll in training courses or workshops that contribute to developing their career path and broadening their horizons.",
+      "words": [
+        {
+          "w": "لِلْمَرْءِ",
+          "lemma": "مَرْءٌ"
+        },
+        {
+          "w": "الِالْتِحَاقُ",
+          "lemma": "اِلْتِحَاقٌ"
+        },
+        {
+          "w": "بِدَوْرَاتٍ",
+          "lemma": "دَوْرَةٌ / دَوْرَاتٌ"
+        },
+        {
+          "w": "تَدْرِيبِيَّةٍ",
+          "lemma": "تَدْرِيبِيٌّ"
+        },
+        {
+          "w": "وُرَشِ",
+          "lemma": "وُرْشَةٌ / وُرَشٌ"
+        },
+        {
+          "w": "عَمَلٍ",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "تُسَاهِمُ",
+          "lemma": "سَاهَمَ يُسَاهِمُ"
+        },
+        {
+          "w": "تَطْوِيرِ",
+          "lemma": "تَطْوِيرٌ"
+        },
+        {
+          "w": "مَسَارِهِ",
+          "lemma": "مَسَارٌ / مَسَارَاتٌ"
+        },
+        {
+          "w": "الْمِهَنِيِّ",
+          "lemma": "مِهْنِيٌّ"
+        },
+        {
+          "w": "وَتَوْسِيعِ",
+          "lemma": "تَوْسِيعٌ"
+        },
+        {
+          "w": "مَدَارِكِهِ",
+          "lemma": "مُدْرَكٌ / مَدَارِكُ"
+        }
+      ]
     },
     {
-      "arabic": "هَذَا النَّهْجُ لَا يُعَزِّزُ الْقُدُرَاتِ الْعَقْلِيَّةَ فَحَسْبُ، بَلْ يَمْنَحُ الْإِنْسَانَ ثِقَةً كَبِيرَةً بِنَفْسِهِ وَقُدْرَتِهِ عَلَى التَّكَيُّفِ.",
+      "arabic": "هَذَا النَّهْجُ لَا يُعَزِّزُ الْقُدُرَاتِ الْعَقْلِيَّةَ فَحَسْبُ، بَلْ يَمْنَحُ الْإِنْسَانَ ثِقَةً كَبِيرَةً بِنَفْسِهِ وَقُدْرَتِهِ عَلَى التَّكَيُّفِ.",
       "translation": "Ovaj pristup ne samo da jača mentalne sposobnosti, već čovjeku daje veliko samopouzdanje i sposobnost prilagođavanja.",
-      "translationEn": "This approach not only enhances mental abilities but also gives a person great self-confidence and the ability to adapt."
+      "translationEn": "This approach not only enhances mental abilities but also gives a person great self-confidence and the ability to adapt.",
+      "words": [
+        {
+          "w": "النَّهْجُ",
+          "lemma": "نَهْجٌ / مَنَاهِجُ"
+        },
+        {
+          "w": "يُعَزِّزُ",
+          "lemma": "عَزَّزَ يُعَزِّزُ"
+        },
+        {
+          "w": "الْقُدُرَاتِ",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
+        },
+        {
+          "w": "الْعَقْلِيَّةَ",
+          "lemma": "عَقْلِيٌّ"
+        },
+        {
+          "w": "يَمْنَحُ",
+          "lemma": "مَنَحَ يَمْنَحُ"
+        },
+        {
+          "w": "الْإِنْسَانَ",
+          "lemma": "إِنْسَانٌ / بَشَرٌ"
+        },
+        {
+          "w": "ثِقَةً",
+          "lemma": "ثِقَةٌ"
+        },
+        {
+          "w": "كَبِيرَةً",
+          "lemma": "كَبِيرٌ"
+        },
+        {
+          "w": "وَقُدْرَتِهِ",
+          "lemma": "قُدْرَةٌ / قُدُرَاتٌ"
+        },
+        {
+          "w": "التَّكَيُّفِ",
+          "lemma": "تَكَيُّفٌ"
+        }
+      ]
     },
     {
-      "arabic": "فَالْمَعْرِفَةُ بَحْرٌ لَا سَاحِلَ لَهُ، وَكُلَّمَا تَعَمَّقَ الْإِنْسَانُ فِيهِ، أَدْرَكَ مَدَى حَاجَتِهِ لِلْمَزِيدِ مِنَ الِاسْتِزَادَةِ.",
+      "arabic": "فَالْمَعْرِفَةُ بَحْرٌ لَا سَاحِلَ لَهُ، وَكُلَّمَا تَعَمَّقَ الْإِنْسَانُ فِيهِ، أَدْرَكَ مَدَى حَاجَتِهِ لِلْمَزِيدِ مِنَ الِاسْتِزَادَةِ.",
       "translation": "Znanje je more bez obale, i što dublje čovjek u njega uranja, više shvata kolika mu je potreba za dodatnim usavršavanjem.",
-      "translationEn": "Knowledge is a shoreless sea, and the deeper a person dives into it, the more they realize their need for further acquisition."
+      "translationEn": "Knowledge is a shoreless sea, and the deeper a person dives into it, the more they realize their need for further acquisition.",
+      "words": [
+        {
+          "w": "فَالْمَعْرِفَةُ",
+          "lemma": "مَعْرِفَةٌ"
+        },
+        {
+          "w": "بَحْرٌ",
+          "lemma": "بَحْرٌ / بِحَارٌ"
+        },
+        {
+          "w": "سَاحِلَ",
+          "lemma": "سَاحِلٌ / سَوَاحِلُ"
+        },
+        {
+          "w": "تَعَمَّقَ",
+          "lemma": "تَعَمَّقَ يَتَعَمَّقُ"
+        },
+        {
+          "w": "الْإِنْسَانُ",
+          "lemma": "إِنْسَانٌ / بَشَرٌ"
+        },
+        {
+          "w": "أَدْرَكَ",
+          "lemma": "أَدْرَكَ يُدْرِكُ"
+        },
+        {
+          "w": "مَدَى",
+          "lemma": "مَدًى"
+        },
+        {
+          "w": "حَاجَتِهِ",
+          "lemma": "حَاجَةٌ / حَاجَاتٌ"
+        },
+        {
+          "w": "لِلْمَزِيدِ",
+          "lemma": "مَزِيدٌ"
+        },
+        {
+          "w": "الِاسْتِزَادَةِ",
+          "lemma": "اِسْتِزَادَةٌ"
+        }
+      ]
     }
   ],
   "metadata": {

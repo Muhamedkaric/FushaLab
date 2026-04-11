@@ -4,24 +4,58 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "آلَةُ الْعُودِ هِيَ مَلِكَةُ الْآلَاتِ فِي الْمُوسِيقَى الْعَرَبِيَّةِ.",
+      "arabic": "آلَةُ الْعُودِ هِيَ مَلِكَةُ الْآلَاتِ فِي الْمُوسِيقَى الْعَرَبِيَّةِ.",
       "translation": "Oud je kraljica instrumenata u arapskoj muzici.",
-      "translationEn": "The oud is the queen of instruments in Arabic music."
+      "translationEn": "The oud is the queen of instruments in Arabic music.",
+      "words": [
+        { "w": "آلَةُ", "lemma": "آلَةٌ / آلَاتٌ" },
+        { "w": "الْعُودِ", "lemma": "عُودٌ / أَعْوَادٌ" },
+        { "w": "مَلِكَةُ", "lemma": "مَلِكَةٌ / مَلِكَاتٌ" },
+        { "w": "الْآلَاتِ", "lemma": "آلَةٌ / آلَاتٌ" },
+        { "w": "الْمُوسِيقَى", "lemma": "مُوسِيقَى" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" }
+      ]
     },
     {
-      "arabic": "تَمْتَلِكُ هَذِهِ الْآلَةُ صَوْتًا دَافِئًا وَجَمِيلًا يُعَبِّرُ عَنِ الْمَشَاعِرِ.",
+      "arabic": "تَمْتَلِكُ هَذِهِ الْآلَةُ صَوْتًا دَافِئًا وَجَمِيلًا يُعَبِّرُ عَنِ الْمَشَاعِرِ.",
       "translation": "Ovaj instrument ima topao i lijep zvuk koji izražava osjećaje.",
-      "translationEn": "This instrument has a warm and beautiful sound that expresses emotions."
+      "translationEn": "This instrument has a warm and beautiful sound that expresses emotions.",
+      "words": [
+        { "w": "تَمْتَلِكُ", "lemma": "امْتَلَكَ يَمْتَلِكُ" },
+        { "w": "الْآلَةُ", "lemma": "آلَةٌ / آلَاتٌ" },
+        { "w": "صَوْتًا", "lemma": "صَوْتٌ / أَصْوَاتٌ" },
+        { "w": "دَافِئًا", "lemma": "دَافِئٌ" },
+        { "w": "وَجَمِيلًا", "lemma": "جَمِيلٌ" },
+        { "w": "يُعَبِّرُ", "lemma": "عَبَّرَ يُعَبِّرُ" },
+        { "w": "الْمَشَاعِرِ", "lemma": "مَشْعَرٌ / مَشَاعِرُ" }
+      ]
     },
     {
-      "arabic": "يَعْزِفُ الْفَنَّانُونَ أَلْحَانًا قَدِيمَةً وَحَدِيثَةً فِي الْحَفَلَاتِ.",
+      "arabic": "يَعْزِفُ الْفَنَّانُونَ أَلْحَانًا قَدِيمَةً وَحَدِيثَةً فِي الْحَفَلَاتِ.",
       "translation": "Umjetnici sviraju stare i moderne melodije na koncertima.",
-      "translationEn": "Artists play old and modern melodies at concerts."
+      "translationEn": "Artists play old and modern melodies at concerts.",
+      "words": [
+        { "w": "يَعْزِفُ", "lemma": "عَزَفَ يَعْزِفُ" },
+        { "w": "الْفَنَّانُونَ", "lemma": "فَنَّانٌ / فَنَّانُونَ" },
+        { "w": "أَلْحَانًا", "lemma": "لَحْنٌ / أَلْحَانٌ" },
+        { "w": "قَدِيمَةً", "lemma": "قَدِيمٌ" },
+        { "w": "وَحَدِيثَةً", "lemma": "حَدِيثٌ" },
+        { "w": "الْحَفَلَاتِ", "lemma": "حَفْلَةٌ / حَفَلَاتٌ" }
+      ]
     },
     {
-      "arabic": "يَتَعَلَّمُ الْكَثِيرُ مِنَ الشَّبَابِ الْعَزْفَ عَلَى الْعُودِ لِلْحِفَاظِ عَلَى التُّرَاثِ.",
+      "arabic": "يَتَعَلَّمُ الْكَثِيرُ مِنَ الشَّبَابِ الْعَزْفَ عَلَى الْعُودِ لِلْحِفَاظِ عَلَى التُّرَاثِ.",
       "translation": "Mnogi mladi ljudi uče svirati oud kako bi sačuvali tradiciju.",
-      "translationEn": "Many young people learn to play the oud to preserve heritage."
+      "translationEn": "Many young people learn to play the oud to preserve heritage.",
+      "words": [
+        { "w": "يَتَعَلَّمُ", "lemma": "تَعَلَّمَ يَتَعَلَّمُ" },
+        { "w": "الْكَثِيرُ", "lemma": "كَثِيرٌ" },
+        { "w": "الشَّبَابِ", "lemma": "شَبَابٌ" },
+        { "w": "الْعَزْفَ", "lemma": "عَزْفٌ" },
+        { "w": "الْعُودِ", "lemma": "عُودٌ / أَعْوَادٌ" },
+        { "w": "لِلْحِفَاظِ", "lemma": "حِفَاظٌ" },
+        { "w": "التُّرَاثِ", "lemma": "تُرَاثٌ" }
+      ]
     }
   ],
   "metadata": {

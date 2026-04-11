@@ -4,42 +4,277 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُمَثِّلُ الْمِنَحُ الدِّرَاسِيَّةُ فُرْصَةً ذَهَبِيَّةً لِلطُّلَّابِ الْمُتَمَيِّزِينَ الَّذِينَ يَطْمَحُونَ لِإِكْمَالِ دِرَاسَتِهِمْ فِي أَرْقَى الْجَامِعَاتِ الْعَالَمِيَّةِ.",
+      "arabic": "تُمَثِّلُ الْمِنَحُ الدِّرَاسِيَّةُ فُرْصَةً ذَهَبِيَّةً لِلطُّلَّابِ الْمُتَمَيِّزِينَ الَّذِينَ يَطْمَحُونَ لِإِكْمَالِ دِرَاسَتِهِمْ فِي أَرْقَى الْجَامِعَاتِ الْعَالَمِيَّةِ.",
       "translation": "Stipendije predstavljaju zlatnu priliku za istaknute studente koji teže nastavku studija na najprestižnijim svjetskim univerzitetima.",
       "translationEn": "Scholarships represent a golden opportunity for outstanding students who aspire to complete their studies at the most prestigious international universities.",
-      "words": []
-    },
-    {
-      "arabic": "تَهْدِفُ هَذِهِ الْبَرَامِجُ إِلَى دَعْمِ الْكَفَاءَاتِ الْعِلْمِيَّةِ وَتَقْلِيلِ الْأَعْبَاءِ الْمَالِيَّةِ الَّتِي قَدْ تَقِفُ عَائِقًا أَمَامَ طُمُوحَاتِهِمْ.",
-      "translation": "Ovi programi imaju za cilj podršku naučnim kompetencijama i smanjenje finansijskih tereta koji mogu stajati kao prepreka njihovim ambicijama.",
-      "translationEn": "These programs aim to support scientific competencies and reduce financial burdens that may stand as an obstacle to their ambitions.",
       "words": [
         {
-          "w": "أَمَامَ",
-          "lemma": "أَمَامَ"
+          "w": "تُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "الْمِنَحُ",
+          "lemma": "مِنْحَةٌ / مِنَحٌ"
+        },
+        {
+          "w": "الدِّرَاسِيَّةُ",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "فُرْصَةً",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "ذَهَبِيَّةً",
+          "lemma": "ذَهَبِيٌّ"
+        },
+        {
+          "w": "لِلطُّلَّابِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الْمُتَمَيِّزِينَ",
+          "lemma": "مُتَمَيِّزٌ / مُتَمَيِّزُونَ"
+        },
+        {
+          "w": "يَطْمَحُونَ",
+          "lemma": "طَمَحَ يَطْمَحُ"
+        },
+        {
+          "w": "لِإِكْمَالِ",
+          "lemma": "إِكْمَالٌ"
+        },
+        {
+          "w": "دِرَاسَتِهِمْ",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        },
+        {
+          "w": "أَرْقَى",
+          "lemma": "رَاقٍ"
+        },
+        {
+          "w": "الْجَامِعَاتِ",
+          "lemma": "جَامِعَةٌ / جَامِعَاتٌ"
+        },
+        {
+          "w": "الْعَالَمِيَّةِ",
+          "lemma": "عَالَمِيٌّ"
         }
       ]
     },
     {
-      "arabic": "يَتَطَلَّبُ التَّقْدِيمُ لِهَذِهِ الْمِنَحِ سِجِلًّا أَكَادِيمِيًّا مُمْتَازًا، بِالْإِضَافَةِ إِلَى مَهَارَاتٍ شَخْصِيَّةٍ وَقِيَادِيَّةٍ بَارِزَةٍ.",
+      "arabic": "تَهْدِفُ هَذِهِ الْبَرَامِجُ إِلَى دَعْمِ الْكَفَاءَاتِ الْعِلْمِيَّةِ وَتَقْلِيلِ الْأَعْبَاءِ الْمَالِيَّةِ الَّتِي قَدْ تَقِفُ عَائِقًا أَمَامَ طُمُوحَاتِهِمْ.",
+      "translation": "Ovi programi imaju za cilj podršku naučnim kompetencijama i smanjenje finansijskih tereta koji mogu stajati kao prepreka njihovim ambicijama.",
+      "translationEn": "These programs aim to support scientific competencies and reduce financial burdens that may stand as an obstacle to their ambitions.",
+      "words": [
+        {
+          "w": "تَهْدِفُ",
+          "lemma": "هَدَفَ يَهْدِفُ"
+        },
+        {
+          "w": "الْبَرَامِجُ",
+          "lemma": "بَرْنَامَجٌ / بَرَامِجُ"
+        },
+        {
+          "w": "دَعْمِ",
+          "lemma": "دَعْمٌ"
+        },
+        {
+          "w": "الْكَفَاءَاتِ",
+          "lemma": "كَفَاءَةٌ / كَفَاءَاتٌ"
+        },
+        {
+          "w": "الْعِلْمِيَّةِ",
+          "lemma": "عِلْمِيٌّ"
+        },
+        {
+          "w": "وَتَقْلِيلِ",
+          "lemma": "تَقْلِيلٌ"
+        },
+        {
+          "w": "الْأَعْبَاءِ",
+          "lemma": "عِبْءٌ / أَعْبَاءٌ"
+        },
+        {
+          "w": "الْمَالِيَّةِ",
+          "lemma": "مَالِيٌّ"
+        },
+        {
+          "w": "تَقِفُ",
+          "lemma": "وَقَفَ يَقِفُ"
+        },
+        {
+          "w": "عَائِقًا",
+          "lemma": "عَائِقٌ / عَوَائِقُ"
+        },
+        {
+          "w": "أَمَامَ",
+          "lemma": "أَمَامَ"
+        },
+        {
+          "w": "طُمُوحَاتِهِمْ",
+          "lemma": "طُمُوحٌ / طُمُوحَاتٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَتَطَلَّبُ التَّقْدِيمُ لِهَذِهِ الْمِنَحِ سِجِلًّا أَكَادِيمِيًّا مُمْتَازًا، بِالْإِضَافَةِ إِلَى مَهَارَاتٍ شَخْصِيَّةٍ وَقِيَادِيَّةٍ بَارِزَةٍ.",
       "translation": "Prijava za ove stipendije zahtijeva odličan akademski uspjeh, pored istaknutih ličnih i liderskih vještina.",
       "translationEn": "Applying for these scholarships requires an excellent academic record, in addition to prominent personal and leadership skills.",
-      "words": []
+      "words": [
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "التَّقْدِيمُ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "الْمِنَحِ",
+          "lemma": "مِنْحَةٌ / مِنَحٌ"
+        },
+        {
+          "w": "سِجِلًّا",
+          "lemma": "سِجِلٌّ / سِجِلَّاتٌ"
+        },
+        {
+          "w": "أَكَادِيمِيًّا",
+          "lemma": "أَكَادِيمِيٌّ"
+        },
+        {
+          "w": "مُمْتَازًا",
+          "lemma": "مُمْتَازٌ"
+        },
+        {
+          "w": "مَهَارَاتٍ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        },
+        {
+          "w": "شَخْصِيَّةٍ",
+          "lemma": "شَخْصِيٌّ"
+        },
+        {
+          "w": "وَقِيَادِيَّةٍ",
+          "lemma": "قِيَادِيٌّ"
+        },
+        {
+          "w": "بَارِزَةٍ",
+          "lemma": "بَارِزٌ"
+        }
+      ]
     },
     {
-      "arabic": "كَمَا تُتِيحُ الدِّرَاسَةُ فِي الْخَارِجِ لِلطَّالِبِ التَّعَرُّفَ عَلَى ثَقَافَاتٍ جَدِيدَةٍ وَتَبَادُلَ الْخِبْرَاتِ مَعَ زُمَلَاءَ مِنْ مُخْتَلَفِ أَنْحَاءِ الْعَالَمِ.",
+      "arabic": "كَمَا تُتِيحُ الدِّرَاسَةُ فِي الْخَارِجِ لِلطَّالِبِ التَّعَرُّفَ عَلَى ثَقَافَاتٍ جَدِيدَةٍ وَتَبَادُلَ الْخِبْرَاتِ مَعَ زُمَلَاءَ مِنْ مُخْتَلَفِ أَنْحَاءِ الْعَالَمِ.",
       "translation": "Također, studiranje u inostranstvu omogućava studentu da upozna nove kulture i razmijeni iskustva sa kolegama iz različitih dijelova svijeta.",
       "translationEn": "Moreover, studying abroad allows the student to learn about new cultures and exchange experiences with colleagues from all over the world.",
-      "words": []
+      "words": [
+        {
+          "w": "تُتِيحُ",
+          "lemma": "أَتَاحَ يُتِيحُ"
+        },
+        {
+          "w": "الدِّرَاسَةُ",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        },
+        {
+          "w": "الْخَارِجِ",
+          "lemma": "خَارِجٌ"
+        },
+        {
+          "w": "لِلطَّالِبِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "التَّعَرُّفَ",
+          "lemma": "تَعَرُّفٌ"
+        },
+        {
+          "w": "ثَقَافَاتٍ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "جَدِيدَةٍ",
+          "lemma": "جَدِيدٌ"
+        },
+        {
+          "w": "وَتَبَادُلَ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الْخِبْرَاتِ",
+          "lemma": "خِبْرَةٌ / خِبْرَاتٌ"
+        },
+        {
+          "w": "زُمَلَاءَ",
+          "lemma": "زَمِيلٌ / زُمَلَاءُ"
+        },
+        {
+          "w": "مُخْتَلَفِ",
+          "lemma": "مُخْتَلِفٌ"
+        },
+        {
+          "w": "أَنْحَاءِ",
+          "lemma": "نَاحِيَةٌ / أَنْحَاءٌ"
+        },
+        {
+          "w": "الْعَالَمِ",
+          "lemma": "عَالَمٌ / عَوَالِمُ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ الِاسْتِفَادَةَ مِنْ هَذِهِ التَّجْرِبَةِ لَا تَنْعَكِسُ عَلَى الْمُسْتَوَى الْعِلْمِيِّ فَقَطْ، بَلْ تُسَاهِمُ فِي صَقْلِ الشَّخْصِيَّةِ وَبِنَاءِ عِلَاقَاتٍ دَوْلِيَّةٍ.",
+      "arabic": "إِنَّ الِاسْتِفَادَةَ مِنْ هَذِهِ التَّجْرِبَةِ لَا تَنْعَكِسُ عَلَى الْمُسْتَوَى الْعِلْمِيِّ فَقَطْ، بَلْ تُسَاهِمُ فِي صَقْلِ الشَّخْصِيَّةِ وَبِنَاءِ عِلَاقَاتٍ دَوْلِيَّةٍ.",
       "translation": "Iskorištavanje ovog iskustva ne odražava se samo na naučnom nivou, već doprinosi brušenju ličnosti i izgradnji međunarodnih odnosa.",
       "translationEn": "Benefiting from this experience is not only reflected at the academic level but also contributes to refining the personality and building international relationships.",
       "words": [
         {
+          "w": "الِاسْتِفَادَةَ",
+          "lemma": "اِسْتِفَادَةٌ"
+        },
+        {
+          "w": "التَّجْرِبَةِ",
+          "lemma": "تَجْرِبَةٌ / تَجَارِبُ"
+        },
+        {
+          "w": "تَنْعَكِسُ",
+          "lemma": "انْعَكَسَ يَنْعَكِسُ"
+        },
+        {
+          "w": "الْمُسْتَوَى",
+          "lemma": "مُسْتَوًى / مُسْتَوَيَاتٌ"
+        },
+        {
+          "w": "الْعِلْمِيِّ",
+          "lemma": "عِلْمِيٌّ"
+        },
+        {
           "w": "فَقَطْ",
           "lemma": "فَقَطْ"
+        },
+        {
+          "w": "تُسَاهِمُ",
+          "lemma": "سَاهَمَ يُسَاهِمُ"
+        },
+        {
+          "w": "صَقْلِ",
+          "lemma": "صَقْلٌ"
+        },
+        {
+          "w": "الشَّخْصِيَّةِ",
+          "lemma": "شَخْصِيَّةٌ / شَخْصِيَّاتٌ"
+        },
+        {
+          "w": "وَبِنَاءِ",
+          "lemma": "بِنَاءٌ"
+        },
+        {
+          "w": "عِلَاقَاتٍ",
+          "lemma": "عِلَاقَةٌ / عِلَاقَاتٌ"
+        },
+        {
+          "w": "دَوْلِيَّةٍ",
+          "lemma": "دَوْلِيٌّ"
         }
       ]
     }

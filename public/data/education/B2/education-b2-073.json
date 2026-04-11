@@ -4,39 +4,267 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُعْتَبَرُ الْمُعَلِّمُ الرُّكْنَ الْأَسَاسِيَّ فِي الْعَمَلِيَّةِ التَّرْبَوِيَّةِ، حَيْثُ تَقَعُ عَلَى عَاتِقِهِ مَسْؤُولِيَّةُ صِيَاغَةِ عُقُولِ الْمُسْتَقْبَلِ.",
+      "arabic": "يُعْتَبَرُ الْمُعَلِّمُ الرُّكْنَ الْأَسَاسِيَّ فِي الْعَمَلِيَّةِ التَّرْبَوِيَّةِ، حَيْثُ تَقَعُ عَلَى عَاتِقِهِ مَسْؤُولِيَّةُ صِيَاغَةِ عُقُولِ الْمُسْتَقْبَلِ.",
       "translation": "Učitelj se smatra osnovnim stubom u vaspitno-obrazovnom procesu, jer na njegovim plećima leži odgovornost oblikovanja umova budućnosti.",
       "translationEn": "The teacher is considered the fundamental pillar of the educational process, as the responsibility for shaping the minds of the future rests on their shoulders.",
-      "words": []
-    },
-    {
-      "arabic": "لَا يَقْتَصِرُ دَوْرُهُ عَلَى نَقْلِ الْمَعْلُومَاتِ فَقَطْ، بَلْ يَمْتَدُّ لِيَكُونَ مُرَبِّيًا وَمُوَجِّهًا يَبْنِي الْقِيَمَ وَالْأَخْلَاقَ فِي نُفُوسِ طُلَّابِهِ.",
-      "translation": "Njegova uloga nije ograničena samo na prenošenje informacija, već se proteže na to da bude vaspitač i mentor koji gradi vrijednosti i moral u dušama svojih učenika.",
-      "translationEn": "Their role is not limited to conveying information only, but extends to being an educator and mentor who builds values and morals in the souls of their students.",
       "words": [
         {
-          "w": "فَقَطْ",
-          "lemma": "فَقَطْ"
+          "w": "يُعْتَبَرُ",
+          "lemma": "اعْتَبَرَ يَعْتَبِرُ"
+        },
+        {
+          "w": "الْمُعَلِّمُ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "الرُّكْنَ",
+          "lemma": "رُكْنٌ / أَرْكَانٌ"
+        },
+        {
+          "w": "الْأَسَاسِيَّ",
+          "lemma": "أَسَاسِيٌّ"
+        },
+        {
+          "w": "الْعَمَلِيَّةِ",
+          "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ"
+        },
+        {
+          "w": "التَّرْبَوِيَّةِ",
+          "lemma": "تَرْبَوِيٌّ"
+        },
+        {
+          "w": "تَقَعُ",
+          "lemma": "وَقَعَ يَقَعُ"
+        },
+        {
+          "w": "عَاتِقِهِ",
+          "lemma": "عَاتِقٌ / عَوَاتِقُ"
+        },
+        {
+          "w": "مَسْؤُولِيَّةُ",
+          "lemma": "مَسْؤُولِيَّةٌ / مَسْؤُولِيَّاتٌ"
+        },
+        {
+          "w": "صِيَاغَةِ",
+          "lemma": "صِيَاغَةٌ"
+        },
+        {
+          "w": "عُقُولِ",
+          "lemma": "عَقْلٌ / عُقُولٌ"
+        },
+        {
+          "w": "الْمُسْتَقْبَلِ",
+          "lemma": "مُسْتَقْبَلٌ"
         }
       ]
     },
     {
-      "arabic": "إِنَّ التَّحَدِّيَاتِ الْحَدِيثَةَ تَقْتَضِي مِنَ الْمُعَلِّمِ تَطْوِيرَ أَدَوَاتِهِ التَّعْلِيمِيَّةِ بِاسْتِمْرَارٍ لِمُواكَبَةِ التَّطَوُّرِ التِّكْنُولُوجِيِّ السَّرِيعِ.",
+      "arabic": "لَا يَقْتَصِرُ دَوْرُهُ عَلَى نَقْلِ الْمَعْلُومَاتِ فَقَطْ، بَلْ يَمْتَدُّ لِيَكُونَ مُرَبِّيًا وَمُوَجِّهًا يَبْنِي الْقِيَمَ وَالْأَخْلَاقَ فِي نُفُوسِ طُلَّابِهِ.",
+      "translation": "Njegova uloga nije ograničena samo na prenošenje informacija, već se proteže na to da bude vaspitač i mentor koji gradi vrijednosti i moral u dušama svojih učenika.",
+      "translationEn": "Their role is not limited to conveying information only, but extends to being an educator and mentor who builds values and morals in the souls of their students.",
+      "words": [
+        {
+          "w": "يَقْتَصِرُ",
+          "lemma": "اقْتَصَرَ يَقْتَصِرُ"
+        },
+        {
+          "w": "دَوْرُهُ",
+          "lemma": "دَوْرٌ / أَدْوَارٌ"
+        },
+        {
+          "w": "نَقْلِ",
+          "lemma": "نَقْلٌ"
+        },
+        {
+          "w": "الْمَعْلُومَاتِ",
+          "lemma": "مَعْلُومَةٌ / مَعْلُومَاتٌ"
+        },
+        {
+          "w": "فَقَطْ",
+          "lemma": "فَقَطْ"
+        },
+        {
+          "w": "يَمْتَدُّ",
+          "lemma": "امْتَدَّ يَمْتَدُّ"
+        },
+        {
+          "w": "مُرَبِّيًا",
+          "lemma": "مُرَبٍّ / مُرَبُّونَ"
+        },
+        {
+          "w": "وَمُوَجِّهًا",
+          "lemma": "مُوَجِّهٌ / مُوَجِّهُونَ"
+        },
+        {
+          "w": "يَبْنِي",
+          "lemma": "بَنَى يَبْنِي"
+        },
+        {
+          "w": "الْقِيَمَ",
+          "lemma": "قِيمَةٌ / قِيَمٌ"
+        },
+        {
+          "w": "وَالْأَخْلَاقَ",
+          "lemma": "خُلُقٌ / أَخْلَاقٌ"
+        },
+        {
+          "w": "نُفُوسِ",
+          "lemma": "نَفْسٌ / نُفُوسٌ"
+        },
+        {
+          "w": "طُلَّابِهِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "إِنَّ التَّحَدِّيَاتِ الْحَدِيثَةَ تَقْتَضِي مِنَ الْمُعَلِّمِ تَطْوِيرَ أَدَوَاتِهِ التَّعْلِيمِيَّةِ بِاسْتِمْرَارٍ لِمُواكَبَةِ التَّطَوُّرِ التِّكْنُولُوجِيِّ السَّرِيعِ.",
       "translation": "Savremeni izazovi zahtijevaju od učitelja da stalno razvija svoje obrazovne alate kako bi držao korak sa brzim tehnološkim razvojem.",
       "translationEn": "Modern challenges require the teacher to constantly develop their educational tools to keep pace with rapid technological development.",
-      "words": []
+      "words": [
+        {
+          "w": "التَّحَدِّيَاتِ",
+          "lemma": "تَحَدٍّ / تَحَدِّيَاتٌ"
+        },
+        {
+          "w": "الْحَدِيثَةَ",
+          "lemma": "حَدِيثٌ"
+        },
+        {
+          "w": "تَقْتَضِي",
+          "lemma": "اقْتَضَى يَقْتَضِي"
+        },
+        {
+          "w": "الْمُعَلِّمِ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "تَطْوِيرَ",
+          "lemma": "تَطْوِيرٌ"
+        },
+        {
+          "w": "أَدَوَاتِهِ",
+          "lemma": "أَدَاةٌ / أَدَوَاتٌ"
+        },
+        {
+          "w": "التَّعْلِيمِيَّةِ",
+          "lemma": "تَعْلِيمِيٌّ"
+        },
+        {
+          "w": "بِاسْتِمْرَارٍ",
+          "lemma": "اِسْتِمْرَارٌ"
+        },
+        {
+          "w": "لِمُواكَبَةِ",
+          "lemma": "مُوَاكَبَةٌ"
+        },
+        {
+          "w": "التَّطَوُّرِ",
+          "lemma": "تَطَوُّرٌ / تَطَوُّرَاتٌ"
+        },
+        {
+          "w": "التِّكْنُولُوجِيِّ",
+          "lemma": "تِكْنُولُوجِيٌّ"
+        },
+        {
+          "w": "السَّرِيعِ",
+          "lemma": "سَرِيعٌ"
+        }
+      ]
     },
     {
-      "arabic": "فَالْمُعَلِّمُ الْمُبْدِعُ هُوَ الَّذِي يَسْتَطِيعُ إِثَارَةَ شَغَفِ التَّلَامِيذِ وَتَحْفِيزَهُمْ عَلَى التَّفْكِيرِ النَّقْدِيِّ وَالِابْتِكَارِ.",
+      "arabic": "فَالْمُعَلِّمُ الْمُبْدِعُ هُوَ الَّذِي يَسْتَطِيعُ إِثَارَةَ شَغَفِ التَّلَامِيذِ وَتَحْفِيزَهُمْ عَلَى التَّفْكِيرِ النَّقْدِيِّ وَالِابْتِكَارِ.",
       "translation": "Kreativan učitelj je onaj koji može pobuditi strast učenika i motivisati ih na kritičko razmišljanje i inovacije.",
       "translationEn": "A creative teacher is one who can stimulate students' passion and motivate them toward critical thinking and innovation.",
-      "words": []
+      "words": [
+        {
+          "w": "فَالْمُعَلِّمُ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "الْمُبْدِعُ",
+          "lemma": "مُبْدِعٌ / مُبْدِعُونَ"
+        },
+        {
+          "w": "يَسْتَطِيعُ",
+          "lemma": "اسْتَطَاعَ يَسْتَطِيعُ"
+        },
+        {
+          "w": "إِثَارَةَ",
+          "lemma": "إِثَارَةٌ"
+        },
+        {
+          "w": "شَغَفِ",
+          "lemma": "شَغَفٌ"
+        },
+        {
+          "w": "التَّلَامِيذِ",
+          "lemma": "تِلْمِيذٌ / تَلَامِيذُ"
+        },
+        {
+          "w": "وَتَحْفِيزَهُمْ",
+          "lemma": "تَحْفِيزٌ"
+        },
+        {
+          "w": "التَّفْكِيرِ",
+          "lemma": "تَفْكِيرٌ"
+        },
+        {
+          "w": "النَّقْدِيِّ",
+          "lemma": "نَقْدِيٌّ"
+        },
+        {
+          "w": "وَالِابْتِكَارِ",
+          "lemma": "اِبْتِكَارٌ / اِبْتِكَارَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "لِذَا، فَإِنَّ تَقْدِيرَ الْمُعَلِّمِينَ وَتَوْفِيرَ بِيئَةِ عَمَلٍ مِثَالِيَّةٍ لَهُمْ هُوَ اسْتِثْمَارٌ حَقِيقِيٌّ فِي نَهْضَةِ الْأُمَمِ.",
+      "arabic": "لِذَا، فَإِنَّ تَقْدِيرَ الْمُعَلِّمِينَ وَتَوْفِيرَ بِيئَةِ عَمَلٍ مِثَالِيَّةٍ لَهُمْ هُوَ اسْتِثْمَارٌ حَقِيقِيٌّ فِي نَهْضَةِ الْأُمَمِ.",
       "translation": "Stoga je uvažavanje učitelja i obezbjeđivanje idealnog radnog okruženja za njih prava investicija u preporod naroda.",
       "translationEn": "Therefore, appreciating teachers and providing an ideal work environment for them is a true investment in the renaissance of nations.",
-      "words": []
+      "words": [
+        {
+          "w": "تَقْدِيرَ",
+          "lemma": "تَقْدِيرٌ"
+        },
+        {
+          "w": "الْمُعَلِّمِينَ",
+          "lemma": "مُعَلِّمٌ / مُعَلِّمُونَ"
+        },
+        {
+          "w": "وَتَوْفِيرَ",
+          "lemma": "تَوْفِيرٌ"
+        },
+        {
+          "w": "بِيئَةِ",
+          "lemma": "بِيئَةٌ / بِيئَاتٌ"
+        },
+        {
+          "w": "عَمَلٍ",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "مِثَالِيَّةٍ",
+          "lemma": "مِثَالِيٌّ"
+        },
+        {
+          "w": "اسْتِثْمَارٌ",
+          "lemma": "اِسْتِثْمَارٌ"
+        },
+        {
+          "w": "حَقِيقِيٌّ",
+          "lemma": "حَقِيقِيٌّ"
+        },
+        {
+          "w": "نَهْضَةِ",
+          "lemma": "نَهْضَةٌ"
+        },
+        {
+          "w": "الْأُمَمِ",
+          "lemma": "أُمَّةٌ / أُمَمٌ"
+        }
+      ]
     }
   ],
   "metadata": {

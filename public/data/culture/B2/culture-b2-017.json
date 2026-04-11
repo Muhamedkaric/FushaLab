@@ -7,7 +7,52 @@
       "arabic": "تُشَكِّلُ رِيَاضَةُ الْمُصَارَعَةِ النُّوبِيَّةِ الْمَعْرُوفَةِ بِالنُّوبَةِ جُزْءًا لَا يَتَجَزَّأُ مِنَ التُّرَاثِ الثَّقَافِيِّ فِي شَمَالِ السُّودَانِ وَجَنُوبِ مِصْرَ.",
       "translation": "Nubijsko rvanje poznato kao «nuba» neodvojivi je dio kulturne baštine sjeverne Sudana i juga Egipta.",
       "translationEn": "Nubian wrestling known as «nuba» is an inseparable part of the cultural heritage of northern Sudan and southern Egypt.",
-      "words": []
+      "words": [
+        {
+          "w": "تُشَكِّلُ",
+          "lemma": "شَكَّلَ يُشَكِّلُ"
+        },
+        {
+          "w": "رِيَاضَةُ",
+          "lemma": "رِيَاضَةٌ / رِيَاضَاتٌ"
+        },
+        {
+          "w": "الْمُصَارَعَةِ",
+          "lemma": "مُصَارَعَةٌ"
+        },
+        {
+          "w": "النُّوبِيَّةِ",
+          "lemma": "نُوبِيٌّ"
+        },
+        {
+          "w": "الْمَعْرُوفَةِ",
+          "lemma": "مَعْرُوفٌ"
+        },
+        {
+          "w": "جُزْءًا",
+          "lemma": "جُزْءٌ / أَجْزَاءٌ"
+        },
+        {
+          "w": "يَتَجَزَّأُ",
+          "lemma": "تَجَزَّأَ يَتَجَزَّأُ"
+        },
+        {
+          "w": "التُّرَاثِ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "الثَّقَافِيِّ",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "شَمَالِ",
+          "lemma": "شِمَالٌ"
+        },
+        {
+          "w": "وَجَنُوبِ",
+          "lemma": "جَنُوبٌ"
+        }
+      ]
     },
     {
       "arabic": "تُقَامُ مُبَارَيَاتُهَا فِي مُنَاسَبَاتٍ خَاصَّةٍ كَالْأَعْرَاسِ وَالْأَعْيَادِ وَسَطَ حَلَقَاتٍ مِنَ الْمُشَجِّعِينَ الَّذِينَ يَعْزِفُونَ الطُّبُولَ وَيُنْشِدُونَ الْأَشْعَارَ الْمُشَجِّعَةَ.",
@@ -15,8 +60,60 @@
       "translationEn": "Matches are held on special occasions such as weddings and festivals, surrounded by circles of supporters who play drums and chant encouraging poetry.",
       "words": [
         {
+          "w": "تُقَامُ",
+          "lemma": "أَقَامَ يُقِيمُ"
+        },
+        {
+          "w": "مُبَارَيَاتُهَا",
+          "lemma": "مُبَارَاةٌ / مُبَارَيَاتٌ"
+        },
+        {
+          "w": "مُنَاسَبَاتٍ",
+          "lemma": "مُنَاسَبَةٌ / مُنَاسَبَاتٌ"
+        },
+        {
+          "w": "خَاصَّةٍ",
+          "lemma": "خَاصٌّ"
+        },
+        {
+          "w": "كَالْأَعْرَاسِ",
+          "lemma": "عُرْسٌ / أَعْرَاسٌ"
+        },
+        {
+          "w": "وَالْأَعْيَادِ",
+          "lemma": "عِيدٌ / أَعْيَادٌ"
+        },
+        {
           "w": "وَسَطَ",
           "lemma": "وَسَطٌ / أَوْسَاطٌ"
+        },
+        {
+          "w": "حَلَقَاتٍ",
+          "lemma": "حَلَقَةٌ / حَلَقَاتٌ"
+        },
+        {
+          "w": "الْمُشَجِّعِينَ",
+          "lemma": "مُشَجِّعٌ / مُشَجِّعُونَ"
+        },
+        {
+          "w": "يَعْزِفُونَ",
+          "lemma": "عَزَفَ يَعْزِفُ"
+        },
+        {
+          "w": "الطُّبُولَ",
+          "lemma": "طَبْلٌ / طُبُولٌ"
+        },
+        {
+          "w": "وَيُنْشِدُونَ",
+          "lemma": "أَنْشَدَ يُنْشِدُ"
+        },
+        {
+          "w": "الْأَشْعَارَ",
+          "lemma": "شِعْرٌ / أَشْعَارٌ"
+        },
+        {
+          "w": "الْمُشَجِّعَةَ",
+          "lemma": "مُشَجِّعٌ"
         }
       ]
     },
@@ -24,19 +121,166 @@
       "arabic": "يُعَدُّ الْفَوْزُ فِيهَا رَمْزًا لِلشَّجَاعَةِ وَالتَّفَوُّقِ الْجَسَدِيِّ وَيَمْنَحُ الْفَائِزَ مَكَانَةً اجْتِمَاعِيَّةً رَفِيعَةً فِي مُجْتَمَعِهِ.",
       "translation": "Pobjeda u njoj simbol je hrabrosti i fizičke nadmoći te pobjedniku daje visok društveni status u zajednici.",
       "translationEn": "Victory in it is a symbol of courage and physical supremacy, granting the winner a high social standing in their community.",
-      "words": []
+      "words": [
+        {
+          "w": "يُعَدُّ",
+          "lemma": "عَدَّ يَعُدُّ"
+        },
+        {
+          "w": "الْفَوْزُ",
+          "lemma": "فَوْزٌ"
+        },
+        {
+          "w": "رَمْزًا",
+          "lemma": "رَمْزٌ / رُمُوزٌ"
+        },
+        {
+          "w": "لِلشَّجَاعَةِ",
+          "lemma": "شَجَاعَةٌ"
+        },
+        {
+          "w": "وَالتَّفَوُّقِ",
+          "lemma": "تَفَوُّقٌ"
+        },
+        {
+          "w": "الْجَسَدِيِّ",
+          "lemma": "جَسَدِيٌّ"
+        },
+        {
+          "w": "وَيَمْنَحُ",
+          "lemma": "مَنَحَ يَمْنَحُ"
+        },
+        {
+          "w": "الْفَائِزَ",
+          "lemma": "فَائِزٌ / فَائِزُونَ"
+        },
+        {
+          "w": "مَكَانَةً",
+          "lemma": "مَكَانَةٌ / مَكَانَاتٌ"
+        },
+        {
+          "w": "اجْتِمَاعِيَّةً",
+          "lemma": "اجْتِمَاعِيٌّ"
+        },
+        {
+          "w": "رَفِيعَةً",
+          "lemma": "رَفِيعٌ"
+        },
+        {
+          "w": "مُجْتَمَعِهِ",
+          "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ"
+        }
+      ]
     },
     {
       "arabic": "تَهْتَمُّ جِهَاتٌ ثَقَافِيَّةٌ دَوْلِيَّةٌ بِتَوْثِيقِ هَذَا الْمُوْرُوثِ وَإِدْرَاجِهِ فِي قَوَائِمِ التُّرَاثِ غَيْرِ الْمَادِّيِّ صَوْنًا لَهُ مِنَ الِاضْمِحْلَالِ.",
       "translation": "Međunarodne kulturne institucije zainteresirane su za dokumentovanje ove baštine i njeno uvrštavanje u popise nematerijalne baštine radi zaštite od nestanka.",
       "translationEn": "International cultural bodies are interested in documenting this heritage and listing it among intangible heritage registers to protect it from disappearing.",
-      "words": []
+      "words": [
+        {
+          "w": "تَهْتَمُّ",
+          "lemma": "اهْتَمَّ يَهْتَمُّ"
+        },
+        {
+          "w": "جِهَاتٌ",
+          "lemma": "جِهَةٌ / جِهَاتٌ"
+        },
+        {
+          "w": "ثَقَافِيَّةٌ",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "دَوْلِيَّةٌ",
+          "lemma": "دَوْلِيٌّ"
+        },
+        {
+          "w": "بِتَوْثِيقِ",
+          "lemma": "تَوْثِيقٌ"
+        },
+        {
+          "w": "الْمُوْرُوثِ",
+          "lemma": "مَوْرُوثٌ / مَوْرُوثَاتٌ"
+        },
+        {
+          "w": "وَإِدْرَاجِهِ",
+          "lemma": "إِدْرَاجٌ"
+        },
+        {
+          "w": "قَوَائِمِ",
+          "lemma": "قَائِمَةٌ / قَوَائِمُ"
+        },
+        {
+          "w": "التُّرَاثِ",
+          "lemma": "تُرَاثٌ"
+        },
+        {
+          "w": "غَيْرِ",
+          "lemma": "غَيْرٌ"
+        },
+        {
+          "w": "الْمَادِّيِّ",
+          "lemma": "مَادِّيٌّ"
+        },
+        {
+          "w": "صَوْنًا",
+          "lemma": "صَوْنٌ"
+        },
+        {
+          "w": "الِاضْمِحْلَالِ",
+          "lemma": "اضْمِحْلَالٌ"
+        }
+      ]
     },
     {
       "arabic": "يَعْكِسُ هَذَا الْمِثَالُ الْحَاجَةَ الدَّائِمَةَ لِتَوْثِيقِ أَشْكَالِ الثَّقَافَةِ الشَّعْبِيَّةِ قَبْلَ أَنْ تَطْوِيَهَا مَوْجَةُ التَّحْدِيثِ.",
       "translation": "Ovaj primjer odražava stalnu potrebu za dokumentovanjem oblika narodne kulture prije nego što ih zahvati val modernizacije.",
       "translationEn": "This example reflects the constant need to document forms of folk culture before they are swept away by the wave of modernisation.",
-      "words": []
+      "words": [
+        {
+          "w": "يَعْكِسُ",
+          "lemma": "عَكَسَ يَعْكِسُ"
+        },
+        {
+          "w": "الْمِثَالُ",
+          "lemma": "مِثَالٌ / أَمْثِلَةٌ"
+        },
+        {
+          "w": "الْحَاجَةَ",
+          "lemma": "حَاجَةٌ / حَاجَاتٌ"
+        },
+        {
+          "w": "الدَّائِمَةَ",
+          "lemma": "دَائِمٌ"
+        },
+        {
+          "w": "لِتَوْثِيقِ",
+          "lemma": "تَوْثِيقٌ"
+        },
+        {
+          "w": "أَشْكَالِ",
+          "lemma": "شَكْلٌ / أَشْكَالٌ"
+        },
+        {
+          "w": "الثَّقَافَةِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "الشَّعْبِيَّةِ",
+          "lemma": "شَعْبِيٌّ"
+        },
+        {
+          "w": "تَطْوِيَهَا",
+          "lemma": "طَوَى يَطْوِي"
+        },
+        {
+          "w": "مَوْجَةُ",
+          "lemma": "مَوْجَةٌ / مَوْجَاتٌ"
+        },
+        {
+          "w": "التَّحْدِيثِ",
+          "lemma": "تَحْدِيثٌ"
+        }
+      ]
     }
   ],
   "metadata": {

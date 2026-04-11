@@ -4,29 +4,96 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تَعْتَمِدُ النِّظْمُ الْغِذَائِيَّةُ فِي الْمِنْطَقَةِ الْعَرَبِيَّةِ بِشَكْلٍ كَبِيرٍ عَلَى الْبُقُولِيَّاتِ وَالْخُضْرَوَاتِ الْمَوْسِمِيَّةِ الطَّازَجَةِ.",
+      "arabic": "تَعْتَمِدُ النِّظْمُ الْغِذَائِيَّةُ فِي الْمِنْطَقَةِ الْعَرَبِيَّةِ بِشَكْلٍ كَبِيرٍ عَلَى الْبُقُولِيَّاتِ وَالْخُضْرَوَاتِ الْمَوْسِمِيَّةِ الطَّازَجَةِ.",
       "translation": "Prehrambeni sistemi u arapskoj regiji u velikoj mjeri se oslanjaju na mahunarke i svježe sezonsko povrće.",
-      "translationEn": "Dietary systems in the Arab region rely heavily on legumes and fresh seasonal vegetables."
+      "translationEn": "Dietary systems in the Arab region rely heavily on legumes and fresh seasonal vegetables.",
+      "words": [
+        { "w": "تَعْتَمِدُ", "lemma": "اعْتَمَدَ يَعْتَمِدُ" },
+        { "w": "النِّظْمُ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "الْغِذَائِيَّةُ", "lemma": "غِذَائِيٌّ" },
+        { "w": "الْمِنْطَقَةِ", "lemma": "مِنْطَقَةٌ / مَنَاطِقُ" },
+        { "w": "الْعَرَبِيَّةِ", "lemma": "عَرَبِيٌّ" },
+        { "w": "الْبُقُولِيَّاتِ", "lemma": "بُقُولِيَّاتٌ" },
+        { "w": "وَالْخُضْرَوَاتِ", "lemma": "خَضْرَاوَاتٌ" },
+        { "w": "الْمَوْسِمِيَّةِ", "lemma": "مَوْسِمِيٌّ" },
+        { "w": "الطَّازَجَةِ", "lemma": "طَازَجٌ" }
+      ]
     },
     {
-      "arabic": "يَلْعَبُ زَيْتُ الزَّيْتُونِ دَوْراً مِحْوَرِيّاً فِي تَحْضِيرِ الْأَطْبَاقِ، مِمَّا يُوفِّرُ مَصْدَراً غَنِيّاً بِالدُّهُونِ الصِّحِّيَّةِ وَمُضَادَّاتِ الْأَكْسَدَةِ.",
+      "arabic": "يَلْعَبُ زَيْتُ الزَّيْتُونِ دَوْراً مِحْوَرِيّاً فِي تَحْضِيرِ الْأَطْبَاقِ، مِمَّا يُوفِّرُ مَصْدَراً غَنِيّاً بِالدُّهُونِ الصِّحِّيَّةِ وَمُضَادَّاتِ الْأَكْسَدَةِ.",
       "translation": "Maslinovo ulje igra ključnu ulogu u pripremi jela, pružajući bogat izvor zdravih masti i antioksidansa.",
-      "translationEn": "Olive oil plays a pivotal role in food preparation, providing a rich source of healthy fats and antioxidants."
+      "translationEn": "Olive oil plays a pivotal role in food preparation, providing a rich source of healthy fats and antioxidants.",
+      "words": [
+        { "w": "يَلْعَبُ", "lemma": "لَعِبَ يَلْعَبُ" },
+        { "w": "زَيْتُ", "lemma": "زَيْتٌ / زُيُوتٌ" },
+        { "w": "الزَّيْتُونِ", "lemma": "زَيْتُونٌ" },
+        { "w": "دَوْراً", "lemma": "دَوْرٌ / أَدْوَارٌ" },
+        { "w": "مِحْوَرِيّاً", "lemma": "مِحْوَرِيٌّ" },
+        { "w": "تَحْضِيرِ", "lemma": "تَحْضِيرٌ" },
+        { "w": "الْأَطْبَاقِ", "lemma": "طَبَقٌ / أَطْبَاقٌ" },
+        { "w": "يُوفِّرُ", "lemma": "وَفَّرَ يُوَفِّرُ" },
+        { "w": "مَصْدَراً", "lemma": "مَصْدَرٌ / مَصَادِرُ" },
+        { "w": "غَنِيّاً", "lemma": "غَنِيٌّ" },
+        { "w": "بِالدُّهُونِ", "lemma": "دُهْنٌ / دُهُونٌ" },
+        { "w": "الصِّحِّيَّةِ", "lemma": "صِحِّيٌّ" },
+        { "w": "وَمُضَادَّاتِ", "lemma": "مُضَادٌّ / مُضَادَّاتٌ" },
+        { "w": "الْأَكْسَدَةِ", "lemma": "أَكْسَدَةٌ" }
+      ]
     },
     {
-      "arabic": "يُفَضِّلُ الْكَثِيرُونَ اسْتِبْدَالَ السُّكَّرِيَّاتِ الْمُصَنَّعَةِ بِالْعَسَلِ الطَّبِيعِيِّ وَالْفَوَاكِهِ الْمُجَفَّفَةِ لِلْحِفَاظِ عَلَى نَشَاطِ الْجِسْمِ.",
+      "arabic": "يُفَضِّلُ الْكَثِيرُونَ اسْتِبْدَالَ السُّكَّرِيَّاتِ الْمُصَنَّعَةِ بِالْعَسَلِ الطَّبِيعِيِّ وَالْفَوَاكِهِ الْمُجَفَّفَةِ لِلْحِفَاظِ عَلَى نَشَاطِ الْجِسْمِ.",
       "translation": "Mnogi preferiraju zamjenu prerađenih šećera prirodnim medom i sušenim voćem kako bi održali vitalnost tijela.",
-      "translationEn": "Many prefer to replace processed sugars with natural honey and dried fruits to maintain the body's vitality."
+      "translationEn": "Many prefer to replace processed sugars with natural honey and dried fruits to maintain the body's vitality.",
+      "words": [
+        { "w": "يُفَضِّلُ", "lemma": "فَضَّلَ يُفَضِّلُ" },
+        { "w": "اسْتِبْدَالَ", "lemma": "اِسْتِبْدَالٌ" },
+        { "w": "السُّكَّرِيَّاتِ", "lemma": "سُكَّرِيَّاتٌ" },
+        { "w": "الْمُصَنَّعَةِ", "lemma": "مُصَنَّعٌ" },
+        { "w": "بِالْعَسَلِ", "lemma": "عَسَلٌ" },
+        { "w": "الطَّبِيعِيِّ", "lemma": "طَبِيعِيٌّ" },
+        { "w": "وَالْفَوَاكِهِ", "lemma": "فَاكِهَةٌ / فَوَاكِهُ" },
+        { "w": "الْمُجَفَّفَةِ", "lemma": "مُجَفَّفٌ" },
+        { "w": "لِلْحِفَاظِ", "lemma": "حِفَاظٌ" },
+        { "w": "نَشَاطِ", "lemma": "نَشَاطٌ" },
+        { "w": "الْجِسْمِ", "lemma": "جِسْمٌ / أَجْسَامٌ" }
+      ]
     },
     {
-      "arabic": "إِنَّ التَّوَازُنَ بَيْنَ الْبْرُوتِينَاتِ النَّبَاتِيَّةِ وَالْحَيَوَانِيَّةِ يُسَاهِمُ فِي بِنَاءِ نِظَامٍ صِحِّيٍّ مُتَكَامِلٍ يَقِي مِنَ الْأَمْرَاضِ.",
+      "arabic": "إِنَّ التَّوَازُنَ بَيْنَ الْبْرُوتِينَاتِ النَّبَاتِيَّةِ وَالْحَيَوَانِيَّةِ يُسَاهِمُ فِي بِنَاءِ نِظَامٍ صِحِّيٍّ مُتَكَامِلٍ يَقِي مِنَ الْأَمْرَاضِ.",
       "translation": "Ravnoteža između biljnih i životinjskih proteina doprinosi izgradnji integrisanog zdravstvenog sistema koji štiti od bolesti.",
-      "translationEn": "The balance between plant and animal proteins contributes to building an integrated healthy system that protects against diseases."
+      "translationEn": "The balance between plant and animal proteins contributes to building an integrated healthy system that protects against diseases.",
+      "words": [
+        { "w": "التَّوَازُنَ", "lemma": "تَوَازُنٌ" },
+        { "w": "الْبْرُوتِينَاتِ", "lemma": "بْرُوتِينٌ / بْرُوتِينَاتٌ" },
+        { "w": "النَّبَاتِيَّةِ", "lemma": "نَبَاتِيٌّ" },
+        { "w": "وَالْحَيَوَانِيَّةِ", "lemma": "حَيَوَانِيٌّ" },
+        { "w": "يُسَاهِمُ", "lemma": "سَاهَمَ يُسَاهِمُ" },
+        { "w": "بِنَاءِ", "lemma": "بِنَاءٌ" },
+        { "w": "نِظَامٍ", "lemma": "نِظَامٌ / أَنْظِمَةٌ" },
+        { "w": "صِحِّيٍّ", "lemma": "صِحِّيٌّ" },
+        { "w": "مُتَكَامِلٍ", "lemma": "مُتَكَامِلٌ" },
+        { "w": "يَقِي", "lemma": "وَقَى يَقِي" },
+        { "w": "الْأَمْرَاضِ", "lemma": "مَرَضٌ / أَمْرَاضٌ" }
+      ]
     },
     {
-      "arabic": "يَنْصَحُ خُبَرَاءُ التَّغْذِيَةِ بِتَنَاوُلِ الطَّعَامِ بِبُطْءٍ لِتَحْسِينِ عَمَلِيَّةِ الْهَضْمِ وَالِاسْتِمْتَاعِ بِالنَّكَهَاتِ الْمُتَنَوِّعَةِ.",
+      "arabic": "يَنْصَحُ خُبَرَاءُ التَّغْذِيَةِ بِتَنَاوُلِ الطَّعَامِ بِبُطْءٍ لِتَحْسِينِ عَمَلِيَّةِ الْهَضْمِ وَالِاسْتِمْتَاعِ بِالنَّكَهَاتِ الْمُتَنَوِّعَةِ.",
       "translation": "Nutricionisti savjetuju polahko konzumiranje hrane radi poboljšanja probave i uživanja u raznolikim okusima.",
-      "translationEn": "Nutritionists advise eating slowly to improve digestion and enjoy the diverse flavors."
+      "translationEn": "Nutritionists advise eating slowly to improve digestion and enjoy the diverse flavors.",
+      "words": [
+        { "w": "يَنْصَحُ", "lemma": "نَصَحَ يَنْصَحُ" },
+        { "w": "خُبَرَاءُ", "lemma": "خَبِيرٌ / خُبَرَاءُ" },
+        { "w": "التَّغْذِيَةِ", "lemma": "تَغْذِيَةٌ" },
+        { "w": "بِتَنَاوُلِ", "lemma": "تَنَاوُلٌ" },
+        { "w": "الطَّعَامِ", "lemma": "طَعَامٌ / أَطْعِمَةٌ" },
+        { "w": "بِبُطْءٍ", "lemma": "بُطْءٌ" },
+        { "w": "لِتَحْسِينِ", "lemma": "تَحْسِينٌ" },
+        { "w": "عَمَلِيَّةِ", "lemma": "عَمَلِيَّةٌ / عَمَلِيَّاتٌ" },
+        { "w": "الْهَضْمِ", "lemma": "هَضْمٌ" },
+        { "w": "وَالِاسْتِمْتَاعِ", "lemma": "اِسْتِمْتَاعٌ" },
+        { "w": "بِالنَّكَهَاتِ", "lemma": "نَكْهَةٌ / نَكَهَاتٌ" },
+        { "w": "الْمُتَنَوِّعَةِ", "lemma": "مُتَنَوِّعٌ" }
+      ]
     }
   ],
   "metadata": {

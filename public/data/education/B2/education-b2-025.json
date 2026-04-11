@@ -4,29 +4,259 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "تُقَدِّمُ الْجَامِعَاتُ الدَّوْلِيَّةُ مِنَحًا دِرَاسِيَّةً لِلطُّلَّابِ الْمُتَمَيِّزِينَ لِتَشْجِيعِ التَّبَادُلِ الثَّقَافِيِّ وَالْعِلْمِيِّ.",
+      "arabic": "تُقَدِّمُ الْجَامِعَاتُ الدَّوْلِيَّةُ مِنَحًا دِرَاسِيَّةً لِلطُّلَّابِ الْمُتَمَيِّزِينَ لِتَشْجِيعِ التَّبَادُلِ الثَّقَافِيِّ وَالْعِلْمِيِّ.",
       "translation": "Međunarodni univerziteti nude stipendije istaknutim studentima kako bi podstakli kulturnu i naučnu razmjenu.",
-      "translationEn": "International universities offer scholarships to outstanding students to encourage cultural and scientific exchange."
+      "translationEn": "International universities offer scholarships to outstanding students to encourage cultural and scientific exchange.",
+      "words": [
+        {
+          "w": "تُقَدِّمُ",
+          "lemma": "قَدَّمَ يُقَدِّمُ"
+        },
+        {
+          "w": "الْجَامِعَاتُ",
+          "lemma": "جَامِعَةٌ / جَامِعَاتٌ"
+        },
+        {
+          "w": "الدَّوْلِيَّةُ",
+          "lemma": "دَوْلِيٌّ"
+        },
+        {
+          "w": "مِنَحًا",
+          "lemma": "مِنْحَةٌ / مِنَحٌ"
+        },
+        {
+          "w": "دِرَاسِيَّةً",
+          "lemma": "دِرَاسِيٌّ"
+        },
+        {
+          "w": "لِلطُّلَّابِ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "الْمُتَمَيِّزِينَ",
+          "lemma": "مُتَمَيِّزٌ / مُتَمَيِّزُونَ"
+        },
+        {
+          "w": "لِتَشْجِيعِ",
+          "lemma": "تَشْجِيعٌ"
+        },
+        {
+          "w": "التَّبَادُلِ",
+          "lemma": "تَبَادُلٌ"
+        },
+        {
+          "w": "الثَّقَافِيِّ",
+          "lemma": "ثَقَافِيٌّ"
+        },
+        {
+          "w": "وَالْعِلْمِيِّ",
+          "lemma": "عِلْمِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "تَهْدِفُ هَذِهِ الْمِنَحُ إِلَى دَعْمِ الْكَفَاءَاتِ الشَّابَّةِ الَّتِي تَطْمَحُ إِلَى تَرْكِ بَصْمَةٍ إِيجَابِيَّةٍ فِي مُجْتَمَعَاتِهَا.",
+      "arabic": "تَهْدِفُ هَذِهِ الْمِنَحُ إِلَى دَعْمِ الْكَفَاءَاتِ الشَّابَّةِ الَّتِي تَطْمَحُ إِلَى تَرْكِ بَصْمَةٍ إِيجَابِيَّةٍ فِي مُجْتَمَعَاتِهَا.",
       "translation": "Ove stipendije imaju za cilj podršku mladim talentima koji teže ostaviti pozitivan trag u svojim zajednicama.",
-      "translationEn": "These scholarships aim to support young talents who aspire to leave a positive mark on their societies."
+      "translationEn": "These scholarships aim to support young talents who aspire to leave a positive mark on their societies.",
+      "words": [
+        {
+          "w": "تَهْدِفُ",
+          "lemma": "هَدَفَ يَهْدِفُ"
+        },
+        {
+          "w": "الْمِنَحُ",
+          "lemma": "مِنْحَةٌ / مِنَحٌ"
+        },
+        {
+          "w": "دَعْمِ",
+          "lemma": "دَعْمٌ"
+        },
+        {
+          "w": "الْكَفَاءَاتِ",
+          "lemma": "كَفَاءَةٌ / كَفَاءَاتٌ"
+        },
+        {
+          "w": "الشَّابَّةِ",
+          "lemma": "شَابٌّ / شَبَابٌ"
+        },
+        {
+          "w": "تَطْمَحُ",
+          "lemma": "طَمَحَ يَطْمَحُ"
+        },
+        {
+          "w": "تَرْكِ",
+          "lemma": "تَرْكٌ"
+        },
+        {
+          "w": "بَصْمَةٍ",
+          "lemma": "بَصْمَةٌ / بَصَمَاتٌ"
+        },
+        {
+          "w": "إِيجَابِيَّةٍ",
+          "lemma": "إِيجَابِيٌّ"
+        },
+        {
+          "w": "مُجْتَمَعَاتِهَا",
+          "lemma": "مُجْتَمَعٌ / مُجْتَمَعَاتٌ"
+        }
+      ]
     },
     {
-      "arabic": "يَتَطَلَّبُ التَّقْدِيمُ لِهَذِهِ الْبَرَامِجِ سِجِلًّا أَكَادِيمِيًّا قَوِيًّا وَمَهَارَاتٍ لُغَوِيَّةً مُمْتَازَةً تُؤَهِّلُ الطَّالِبَ لِالدِّرَاسَةِ بِالْخَارِجِ.",
+      "arabic": "يَتَطَلَّبُ التَّقْدِيمُ لِهَذِهِ الْبَرَامِجِ سِجِلًّا أَكَادِيمِيًّا قَوِيًّا وَمَهَارَاتٍ لُغَوِيَّةً مُمْتَازَةً تُؤَهِّلُ الطَّالِبَ لِالدِّرَاسَةِ بِالْخَارِجِ.",
       "translation": "Prijava za ove programe zahtijeva jak akademski uspjeh i odlične jezičke vještine koje kvalifikuju studenta za studij u inostranstvu.",
-      "translationEn": "Applying for these programs requires a strong academic record and excellent language skills that qualify the student for studying abroad."
+      "translationEn": "Applying for these programs requires a strong academic record and excellent language skills that qualify the student for studying abroad.",
+      "words": [
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "التَّقْدِيمُ",
+          "lemma": "تَقْدِيمٌ"
+        },
+        {
+          "w": "الْبَرَامِجِ",
+          "lemma": "بَرْنَامَجٌ / بَرَامِجُ"
+        },
+        {
+          "w": "سِجِلًّا",
+          "lemma": "سِجِلٌّ / سِجِلَّاتٌ"
+        },
+        {
+          "w": "أَكَادِيمِيًّا",
+          "lemma": "أَكَادِيمِيٌّ"
+        },
+        {
+          "w": "قَوِيًّا",
+          "lemma": "قَوِيٌّ"
+        },
+        {
+          "w": "وَمَهَارَاتٍ",
+          "lemma": "مَهَارَةٌ / مَهَارَاتٌ"
+        },
+        {
+          "w": "لُغَوِيَّةً",
+          "lemma": "لُغَوِيٌّ"
+        },
+        {
+          "w": "مُمْتَازَةً",
+          "lemma": "مُمْتَازٌ"
+        },
+        {
+          "w": "تُؤَهِّلُ",
+          "lemma": "أَهَّلَ يُؤَهِّلُ"
+        },
+        {
+          "w": "الطَّالِبَ",
+          "lemma": "طَالِبٌ / طُلَّابٌ"
+        },
+        {
+          "w": "لِالدِّرَاسَةِ",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        },
+        {
+          "w": "بِالْخَارِجِ",
+          "lemma": "خَارِجٌ"
+        }
+      ]
     },
     {
-      "arabic": "تُتِيحُ الدِّرَاسَةُ فِي بِيئَةٍ مُتَعَدِّدَةِ الثَّقَافَاتِ فُرْصَةً فَرِيدَةً لِفَهْمِ الْآخَرِ وَبِنَاءِ جُسُورِ التَّعَاوُنِ الدَّوْلِيِّ.",
+      "arabic": "تُتِيحُ الدِّرَاسَةُ فِي بِيئَةٍ مُتَعَدِّدَةِ الثَّقَافَاتِ فُرْصَةً فَرِيدَةً لِفَهْمِ الْآخَرِ وَبِنَاءِ جُسُورِ التَّعَاوُنِ الدَّوْلِيِّ.",
       "translation": "Studiranje u multikulturalnom okruženju pruža jedinstvenu priliku za razumijevanje drugih i izgradnju mostova međunarodne saradnje.",
-      "translationEn": "Studying in a multicultural environment provides a unique opportunity to understand others and build bridges of international cooperation."
+      "translationEn": "Studying in a multicultural environment provides a unique opportunity to understand others and build bridges of international cooperation.",
+      "words": [
+        {
+          "w": "تُتِيحُ",
+          "lemma": "أَتَاحَ يُتِيحُ"
+        },
+        {
+          "w": "الدِّرَاسَةُ",
+          "lemma": "دِرَاسَةٌ / دِرَاسَاتٌ"
+        },
+        {
+          "w": "بِيئَةٍ",
+          "lemma": "بِيئَةٌ / بِيئَاتٌ"
+        },
+        {
+          "w": "مُتَعَدِّدَةِ",
+          "lemma": "مُتَعَدِّدٌ"
+        },
+        {
+          "w": "الثَّقَافَاتِ",
+          "lemma": "ثَقَافَةٌ / ثَقَافَاتٌ"
+        },
+        {
+          "w": "فُرْصَةً",
+          "lemma": "فُرْصَةٌ / فُرَصٌ"
+        },
+        {
+          "w": "فَرِيدَةً",
+          "lemma": "فَرِيدٌ"
+        },
+        {
+          "w": "لِفَهْمِ",
+          "lemma": "فَهْمٌ"
+        },
+        {
+          "w": "وَبِنَاءِ",
+          "lemma": "بِنَاءٌ"
+        },
+        {
+          "w": "جُسُورِ",
+          "lemma": "جِسْرٌ / جُسُورٌ"
+        },
+        {
+          "w": "التَّعَاوُنِ",
+          "lemma": "تَعَاوُنٌ"
+        },
+        {
+          "w": "الدَّوْلِيِّ",
+          "lemma": "دَوْلِيٌّ"
+        }
+      ]
     },
     {
-      "arabic": "بَعْدَ الْعَوْدَةِ إِلَى أَوْطَانِهِمْ، يُسَاهِمُ هَؤُلَاءِ الْخِرِّيجُونَ فِي نَقْلِ الْمَعْرِفَةِ وَتَطْوِيرِ الْمُؤَسَّسَاتِ الْمَحَلِّيَّةِ.",
+      "arabic": "بَعْدَ الْعَوْدَةِ إِلَى أَوْطَانِهِمْ، يُسَاهِمُ هَؤُلَاءِ الْخِرِّيجُونَ فِي نَقْلِ الْمَعْرِفَةِ وَتَطْوِيرِ الْمُؤَسَّسَاتِ الْمَحَلِّيَّةِ.",
       "translation": "Nakon povratka u svoje domovine, ovi diplomci doprinose prenosu znanja i razvoju lokalnih institucija.",
-      "translationEn": "After returning to their homelands, these graduates contribute to transferring knowledge and developing local institutions."
+      "translationEn": "After returning to their homelands, these graduates contribute to transferring knowledge and developing local institutions.",
+      "words": [
+        {
+          "w": "الْعَوْدَةِ",
+          "lemma": "عَوْدَةٌ"
+        },
+        {
+          "w": "أَوْطَانِهِمْ",
+          "lemma": "وَطَنٌ / أَوْطَانٌ"
+        },
+        {
+          "w": "يُسَاهِمُ",
+          "lemma": "سَاهَمَ يُسَاهِمُ"
+        },
+        {
+          "w": "الْخِرِّيجُونَ",
+          "lemma": "خِرِّيجٌ / خِرِّيجُونَ"
+        },
+        {
+          "w": "نَقْلِ",
+          "lemma": "نَقْلٌ"
+        },
+        {
+          "w": "الْمَعْرِفَةِ",
+          "lemma": "مَعْرِفَةٌ"
+        },
+        {
+          "w": "وَتَطْوِيرِ",
+          "lemma": "تَطْوِيرٌ"
+        },
+        {
+          "w": "الْمُؤَسَّسَاتِ",
+          "lemma": "مُؤَسَّسَةٌ / مُؤَسَّسَاتٌ"
+        },
+        {
+          "w": "الْمَحَلِّيَّةِ",
+          "lemma": "مَحَلِّيٌّ"
+        }
+      ]
     }
   ],
   "metadata": {

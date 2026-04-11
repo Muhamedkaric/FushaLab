@@ -4,45 +4,306 @@
   "level": "B2",
   "sentences": [
     {
-      "arabic": "يُمَثِّلُ الخَطُّ العَرَبِيُّ فَنًّا بَصَرِيًّا رَائِعًا يَتَجَاوَزُ مُجَرَّدَ الكِتَابَةِ لِيُصْبِحَ تَعْبِيرًا عَنِ الجَمَالِ وَالرُّوحَانِيَّةِ.",
+      "arabic": "يُمَثِّلُ الخَطُّ الْعَرَبِيُّ فَنًّا بَصَرِيًّا رَائِعًا يَتَجَاوَزُ مُجَرَّدَ الْكِتَابَةِ لِيُصْبِحَ تَعْبِيرًا عَنِ الْجَمَالِ وَالرُّوحَانِيَّةِ.",
       "translation": "Arapska kaligrafija predstavlja veličanstvenu vizuelnu umjetnost koja nadilazi puko pisanje i postaje izraz ljepote i duhovnosti.",
       "translationEn": "Arabic calligraphy represents a magnificent visual art that transcends mere writing to become an expression of beauty and spirituality.",
-      "words": []
-    },
-    {
-      "arabic": "تَتَعَدَّدُ أَنْوَاعُ الخُطُوطِ مِثْلَ الكُوفِيِّ وَالثُّلُثِ وَالنَّسْخِ، وَلِكُلِّ نَوْعٍ مِنْهَا قَوَاعِدُهُ الصَّارِمَةُ وَجَمَالِيَّاتُهُ الخَاصَّةُ.",
-      "translation": "Postoje brojne vrste pisama poput kufskog, thuluth i naskh pisma, a svaka vrsta ima svoja stroga pravila i posebnu estetiku.",
-      "translationEn": "There are numerous types of scripts such as Kufic, Thuluth, and Naskh, each with its strict rules and unique aesthetics.",
-      "words": []
-    },
-    {
-      "arabic": "اسْتُخْدِمَ هَذَا الفَنُّ لِتَزْيِينِ المَسَاجِدِ وَالقُصُورِ وَالمَخْطُوطَاتِ القَدِيمَةِ، مِمَّا مَنَحَهَا طَابَعًا حَضَارِيًّا فَرِيدًا.",
-      "translation": "Ova umjetnost se koristila za ukrašavanje džamija, palata i starih rukopisa, dajući im jedinstven civilizacijski karakter.",
-      "translationEn": "This art was used to decorate mosques, palaces, and ancient manuscripts, granting them a unique cultural character.",
-      "words": []
-    },
-    {
-      "arabic": "يَتَطَلَّبُ إِتْقَانُ الخَطِّ سَنَوَاتٍ مِنَ التَّدْرِيبِ الشَّاقِّ وَالصَّبْرِ الطَّوِيلِ تَحْتَ إِشْرَافِ خُبَرَاءَ مُتَمَرِّسِينَ.",
-      "translation": "Savladavanje kaligrafije zahtijeva godine napornog treninga i dugog strpljenja pod nadzorom iskusnih stručnjaka.",
-      "translationEn": "Mastering calligraphy requires years of rigorous training and long patience under the supervision of experienced experts.",
       "words": [
         {
-          "w": "تَحْتَ",
-          "lemma": "تَحْتَ"
+          "w": "يُمَثِّلُ",
+          "lemma": "مَثَّلَ يُمَثِّلُ"
+        },
+        {
+          "w": "الخَطُّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "الْعَرَبِيُّ",
+          "lemma": "عَرَبِيٌّ"
+        },
+        {
+          "w": "فَنًّا",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "بَصَرِيًّا",
+          "lemma": "بَصَرِيٌّ"
+        },
+        {
+          "w": "رَائِعًا",
+          "lemma": "رَائِعٌ"
+        },
+        {
+          "w": "يَتَجَاوَزُ",
+          "lemma": "تَجَاوَزَ يَتَجَاوَزُ"
+        },
+        {
+          "w": "الْكِتَابَةِ",
+          "lemma": "كِتَابَةٌ"
+        },
+        {
+          "w": "تَعْبِيرًا",
+          "lemma": "تَعْبِيرٌ"
+        },
+        {
+          "w": "الْجَمَالِ",
+          "lemma": "جَمَالٌ"
+        },
+        {
+          "w": "وَالرُّوحَانِيَّةِ",
+          "lemma": "رُوحَانِيَّةٌ"
         }
       ]
     },
     {
-      "arabic": "لَا يَزَالُ الفَنَّانُونَ المُعَاصِرُونَ يَسْتَلْهِمُونَ مِنْ هَذِهِ الزَّخَارِفِ لِإِنْتَاجِ أَعْمَالٍ تَمْزُجُ بَيْنَ الأَصَالَةِ وَالحَدَاثَةِ.",
-      "translation": "Savremeni umjetnici i dalje crpe inspiraciju iz ovih ornamenata kako bi stvorili djela koja spajaju autentičnost i modernost.",
-      "translationEn": "Contemporary artists continue to draw inspiration from these ornaments to produce works that blend authenticity and modernity.",
-      "words": []
+      "arabic": "تَتَعَدَّدُ أَنْوَاعُ الْخُطُوطِ مِثْلَ الْكُوفِيِّ وَالثُّلُثِ وَالنَّسْخِ، وَلِكُلِّ نَوْعٍ مِنْهَا قَوَاعِدُهُ الصَّارِمَةُ وَجَمَالِيَّاتُهُ الْخَاصَّةُ.",
+      "translation": "Postoje brojne vrste pisama poput kufskog, thuluth i naskh pisma, a svaka vrsta ima svoja stroga pravila i posebnu estetiku.",
+      "translationEn": "There are numerous types of scripts such as Kufic, Thuluth, and Naskh, each with its strict rules and unique aesthetics.",
+      "words": [
+        {
+          "w": "تَتَعَدَّدُ",
+          "lemma": "تَعَدَّدَ يَتَعَدَّدُ"
+        },
+        {
+          "w": "أَنْوَاعُ",
+          "lemma": "نَوْعٌ / أَنْوَاعٌ"
+        },
+        {
+          "w": "الْخُطُوطِ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "الْكُوفِيِّ",
+          "lemma": "كُوفِيٌّ"
+        },
+        {
+          "w": "وَالثُّلُثِ",
+          "lemma": "ثُلُثٌ"
+        },
+        {
+          "w": "وَالنَّسْخِ",
+          "lemma": "نَسْخٌ"
+        },
+        {
+          "w": "نَوْعٍ",
+          "lemma": "نَوْعٌ / أَنْوَاعٌ"
+        },
+        {
+          "w": "قَوَاعِدُهُ",
+          "lemma": "قَاعِدَةٌ / قَوَاعِدُ"
+        },
+        {
+          "w": "الصَّارِمَةُ",
+          "lemma": "صَارِمٌ"
+        },
+        {
+          "w": "وَجَمَالِيَّاتُهُ",
+          "lemma": "جَمَالِيَّةٌ / جَمَالِيَّاتٌ"
+        },
+        {
+          "w": "الْخَاصَّةُ",
+          "lemma": "خَاصٌّ"
+        }
+      ]
     },
     {
-      "arabic": "إِنَّ التَّنَاغُمَ بَيْنَ الزَّوَايَا وَالمُنْحَنَيَاتِ فِي الحُرُوفِ يَجْعَلُ مِنَ اللَّوْحَةِ الخَطِّيَّةِ سِيفُونِيَّةً بَصَرِيَّةً تَسُرُّ النَّاظِرِينَ.",
+      "arabic": "اسْتُخْدِمَ هَذَا الفَنُّ لِتَزْيِينِ الْمَسَاجِدِ وَالْقُصُورِ وَالْمَخْطُوطَاتِ الْقَدِيمَةِ، مِمَّا مَنَحَهَا طَابَعًا حَضَارِيًّا فَرِيدًا.",
+      "translation": "Ova umjetnost se koristila za ukrašavanje džamija, palata i starih rukopisa, dajući im jedinstven civilizacijski karakter.",
+      "translationEn": "This art was used to decorate mosques, palaces, and ancient manuscripts, granting them a unique cultural character.",
+      "words": [
+        {
+          "w": "اسْتُخْدِمَ",
+          "lemma": "اسْتَخْدَمَ يَسْتَخْدِمُ"
+        },
+        {
+          "w": "الفَنُّ",
+          "lemma": "فَنٌّ / فُنُونٌ"
+        },
+        {
+          "w": "لِتَزْيِينِ",
+          "lemma": "تَزْيِينٌ"
+        },
+        {
+          "w": "الْمَسَاجِدِ",
+          "lemma": "مَسْجِدٌ / مَسَاجِدُ"
+        },
+        {
+          "w": "وَالْقُصُورِ",
+          "lemma": "قَصْرٌ / قُصُورٌ"
+        },
+        {
+          "w": "وَالْمَخْطُوطَاتِ",
+          "lemma": "مَخْطُوطٌ / مَخْطُوطَاتٌ"
+        },
+        {
+          "w": "الْقَدِيمَةِ",
+          "lemma": "قَدِيمٌ"
+        },
+        {
+          "w": "مَنَحَهَا",
+          "lemma": "مَنَحَ يَمْنَحُ"
+        },
+        {
+          "w": "طَابَعًا",
+          "lemma": "طَابَعٌ / طَوَابِعُ"
+        },
+        {
+          "w": "حَضَارِيًّا",
+          "lemma": "حَضَارِيٌّ"
+        },
+        {
+          "w": "فَرِيدًا",
+          "lemma": "فَرِيدٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "يَتَطَلَّبُ إِتْقَانُ الْخَطِّ سَنَوَاتٍ مِنَ التَّدْرِيبِ الشَّاقِّ وَالصَّبْرِ الطَّوِيلِ تَحْتَ إِشْرَافِ خُبَرَاءَ مُتَمَرِّسِينَ.",
+      "translation": "Savladavanje kaligrafije zahtijeva godine napornog treninga i dugog strpljenja pod nadzorom iskusnih stručnjaka.",
+      "translationEn": "Mastering calligraphy requires years of rigorous training and long patience under the supervision of experienced experts.",
+      "words": [
+        {
+          "w": "يَتَطَلَّبُ",
+          "lemma": "تَطَلَّبَ يَتَطَلَّبُ"
+        },
+        {
+          "w": "إِتْقَانُ",
+          "lemma": "إِتْقَانٌ"
+        },
+        {
+          "w": "الْخَطِّ",
+          "lemma": "خَطٌّ / خُطُوطٌ"
+        },
+        {
+          "w": "سَنَوَاتٍ",
+          "lemma": "سَنَةٌ / سَنَوَاتٌ"
+        },
+        {
+          "w": "التَّدْرِيبِ",
+          "lemma": "تَدْرِيبٌ"
+        },
+        {
+          "w": "الشَّاقِّ",
+          "lemma": "شَاقٌّ"
+        },
+        {
+          "w": "وَالصَّبْرِ",
+          "lemma": "صَبْرٌ"
+        },
+        {
+          "w": "الطَّوِيلِ",
+          "lemma": "طَوِيلٌ"
+        },
+        {
+          "w": "تَحْتَ",
+          "lemma": "تَحْتَ"
+        },
+        {
+          "w": "إِشْرَافِ",
+          "lemma": "إِشْرَافٌ"
+        },
+        {
+          "w": "خُبَرَاءَ",
+          "lemma": "خَبِيرٌ / خُبَرَاءُ"
+        },
+        {
+          "w": "مُتَمَرِّسِينَ",
+          "lemma": "مُتَمَرِّسٌ / مُتَمَرِّسُونَ"
+        }
+      ]
+    },
+    {
+      "arabic": "لَا يَزَالُ الْفَنَّانُونَ الْمُعَاصِرُونَ يَسْتَلْهِمُونَ مِنْ هَذِهِ الزَّخَارِفِ لِإِنْتَاجِ أَعْمَالٍ تَمْزُجُ بَيْنَ الأَصَالَةِ وَالْحَدَاثَةِ.",
+      "translation": "Savremeni umjetnici i dalje crpe inspiraciju iz ovih ornamenata kako bi stvorili djela koja spajaju autentičnost i modernost.",
+      "translationEn": "Contemporary artists continue to draw inspiration from these ornaments to produce works that blend authenticity and modernity.",
+      "words": [
+        {
+          "w": "الْفَنَّانُونَ",
+          "lemma": "فَنَّانٌ / فَنَّانُونَ"
+        },
+        {
+          "w": "الْمُعَاصِرُونَ",
+          "lemma": "مُعَاصِرٌ / مُعَاصِرُونَ"
+        },
+        {
+          "w": "يَسْتَلْهِمُونَ",
+          "lemma": "اسْتَلْهَمَ يَسْتَلْهِمُ"
+        },
+        {
+          "w": "الزَّخَارِفِ",
+          "lemma": "زَخْرَفٌ / زَخَارِفُ"
+        },
+        {
+          "w": "لِإِنْتَاجِ",
+          "lemma": "إِنْتَاجٌ"
+        },
+        {
+          "w": "أَعْمَالٍ",
+          "lemma": "عَمَلٌ / أَعْمَالٌ"
+        },
+        {
+          "w": "تَمْزُجُ",
+          "lemma": "مَزَجَ يَمْزُجُ"
+        },
+        {
+          "w": "الأَصَالَةِ",
+          "lemma": "أَصَالَةٌ"
+        },
+        {
+          "w": "وَالْحَدَاثَةِ",
+          "lemma": "حَدَاثَةٌ"
+        }
+      ]
+    },
+    {
+      "arabic": "إِنَّ التَّنَاغُمَ بَيْنَ الزَّوَايَا وَالْمُنْحَنَيَاتِ فِي الْحُرُوفِ يَجْعَلُ مِنَ اللَّوْحَةِ الْخَطِّيَّةِ سِيفُونِيَّةً بَصَرِيَّةً تَسُرُّ النَّاظِرِينَ.",
       "translation": "Harmonija između uglova i krivina u slovima čini kaligrafsku tablu vizuelnom simfonijom koja raduje posmatrače.",
       "translationEn": "The harmony between angles and curves in the letters turns a calligraphic piece into a visual symphony that delights the viewers.",
-      "words": []
+      "words": [
+        {
+          "w": "التَّنَاغُمَ",
+          "lemma": "تَنَاغُمٌ"
+        },
+        {
+          "w": "الزَّوَايَا",
+          "lemma": "زَاوِيَةٌ / زَوَايَا"
+        },
+        {
+          "w": "وَالْمُنْحَنَيَاتِ",
+          "lemma": "مُنْحَنًى / مُنْحَنَيَاتٌ"
+        },
+        {
+          "w": "الْحُرُوفِ",
+          "lemma": "حَرْفٌ / حُرُوفٌ"
+        },
+        {
+          "w": "يَجْعَلُ",
+          "lemma": "جَعَلَ يَجْعَلُ"
+        },
+        {
+          "w": "اللَّوْحَةِ",
+          "lemma": "لَوْحَةٌ / لَوْحَاتٌ"
+        },
+        {
+          "w": "الْخَطِّيَّةِ",
+          "lemma": "خَطِّيٌّ"
+        },
+        {
+          "w": "سِيفُونِيَّةً",
+          "lemma": "سِيفُونِيَّةٌ"
+        },
+        {
+          "w": "بَصَرِيَّةً",
+          "lemma": "بَصَرِيٌّ"
+        },
+        {
+          "w": "تَسُرُّ",
+          "lemma": "سَرَّ يَسُرُّ"
+        },
+        {
+          "w": "النَّاظِرِينَ",
+          "lemma": "نَاظِرٌ / نَاظِرُونَ"
+        }
+      ]
     }
   ],
   "metadata": {
